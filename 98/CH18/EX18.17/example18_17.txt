@@ -1,0 +1,5 @@
+Phase emf of R-phase = 6004 V 
+
+Fault current for line to line fault = 9454.5 A 
+
+

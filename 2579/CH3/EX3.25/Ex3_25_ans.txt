@@ -1,0 +1,3 @@
+ The array length= 7.500000*y, where y is wavelength
+ The FNBW for end fire array = 59.174827 degree
+ The FNBW for broad side array = 15.278875 degree

@@ -1,0 +1,4 @@
+(a)  The rms value of the square wave = 10 V 
+  The average value of the square wave = 10 V
+  The form factor of the square wave =1
+(b)  The percentage error in meter indication = 11 % 

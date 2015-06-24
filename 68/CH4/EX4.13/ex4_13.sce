@@ -1,0 +1,16 @@
+// Example 4.13 : Coupling capacitor values
+R_G=4.7*10^6; // (ohm)
+R_D=15*10^3; // (ohm)
+R_L=15*10^3; // (ohm)
+R_sig=100*10^3; // (ohm)
+g_m=1*10^-3; // (mho)
+f_L=100; // (Hz)
+C_S=g_m/(2*%pi*f_L)
+disp(C_S,"C_S (F)")
+f_P2=1/(2*%pi*C_S/g_m);
+f_P1=10; // (Hz)
+f_P2=10; // (Hz)
+C_C1=1/(2*%pi*(R_G+R_sig)*10)
+disp(C_C1,"C_C1 (F)")
+C_C2=1/(2*%pi*(R_D+R_L)*10)
+disp(C_C2,"C_C2 (F)")

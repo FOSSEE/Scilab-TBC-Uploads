@@ -1,0 +1,5 @@
+(a)When Vi<50 V, Second diode conducts
+Vo = 82 V
+When 50<Vi<100 both diodes conduct and Vo=Vi.When Vi>100, only the first diode conducts.Hence Vo = 100 V
+(b)When Vi<25 V,neither diodes conduct and Vo = 25 V.When Vi>25,upper diode conducts
+When Vo reaches 100 V, Vi rises to 137.5 V 

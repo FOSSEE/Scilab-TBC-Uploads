@@ -1,0 +1,27 @@
+//clc()
+Pa = 15;//kPa ( partial pressure of acetone)
+Ptotal = 101.3;//kPa
+Mfr = Pa / Ptotal;
+disp(Mfr,"(a)Mole fraction of acetone = ")
+Macetone = 58.048;
+Mnitrogen = 28;
+mafr = Mfr * Macetone / ( Mfr * Macetone + (1-Mfr)* Mnitrogen );
+disp(mafr,"(b)Weight fraction of acetone = ")
+Y = Mfr / ( 1 - Mfr );
+disp("moles of acetone/moles of nitrogen",Y,"(c)Molal humidity = ")
+Y1 = Y * Macetone / Mnitrogen ; 
+disp("kg acetone/kg nitrogen",Y1,"(d)Absolute humidity = ")
+Pas = 26.36;//kPa ( vapour pressure)
+Ys = Pas / ( Ptotal - Pas);//saturation humidity
+disp("moles of acetone/moles of nitrogen",Ys,"(e)Saturation humidity = ")
+Y1s = Ys * Macetone / Mnitrogen;
+disp("kg acetone/kg nitrogen",Y1s,"(f)Absolute saturation humidity = ")
+V = 100;//m^3
+Vstp =22.4143;//m^3/kmol
+Pstp = 101.3;//kPa
+Tstp = 273.15;//K
+T = 295;//K
+N = V * Ptotal * Tstp / (Vstp * Pstp * T );
+Nacetone = N * Mfr;
+macetone = Nacetone * Macetone;
+disp("kg",macetone,"(g)Mass of acetone in 100m^3 of the total gas = ")

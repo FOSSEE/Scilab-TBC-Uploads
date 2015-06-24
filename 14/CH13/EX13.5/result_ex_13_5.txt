@@ -1,0 +1,29 @@
+ Under maximum load the currents on 345-kV and 34.5-kV side of the transformer respectively in A   
+ 
+    1004.0874  
+ 
+    100.40874  
+ 
+ Current flowing through the differential relay from 34.5-kV side   
+ 
+    5.0204371  
+ 
+ To balance the above current each of the secondary windings of the delta connected CTs should have a current(in A) of   
+ 
+    2.8867513  
+ 
+ CT ratios in secondary for the above currents   
+ 
+    34.782609  
+ 
+ CT secondary currents for ratio 200/5 on the secondary side of 345-kV will be   
+ 
+    2.5102186  
+ 
+ Line currents from CTs to differential relays   
+ 
+    4.3478261  
+ 
+ Required turns ratio for the three auxillary CTs uses is   
+ 
+    1.1547005  

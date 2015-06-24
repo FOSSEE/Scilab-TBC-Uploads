@@ -1,0 +1,5 @@
+ # Problem 6 # 
+
+ Standard formula used 
+ m = m_o/ sqrt ( 1- (v/c)^2)
+ Relativistic mass of particle is 1.250000e-24 kg.

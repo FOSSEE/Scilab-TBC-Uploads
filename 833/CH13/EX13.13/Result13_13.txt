@@ -1,0 +1,8 @@
+(a)Required terminal voltage(in volts)=   
+ 
+    2792.4101  
+ 
+ (b)Required voltage at given load current(in volts)=   
+ 
+    3233.7203  
+ 

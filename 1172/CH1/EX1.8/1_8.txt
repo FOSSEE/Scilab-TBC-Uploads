@@ -1,0 +1,7 @@
+ # Problem 8 # 
+ 
+ Standard formula used 
+   del_x = D/2d *(mu-1)*t 
+
+ Thickness of sheet is 1.472500e-03 cm.
+

@@ -1,0 +1,5 @@
+ # Problem 8b # 
+
+ Standard formula used 
+ t= t_o/ sqrt ( 1- (v/c)^2)
+ Time corresponding to 1 sec is 2 sec.

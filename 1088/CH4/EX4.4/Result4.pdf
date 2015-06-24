@@ -1,0 +1,64 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example4.sci',-1)
+Current date is 02-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            4   
+ 
+ Chapter Title                         :                                              THE FILE SYSTEM   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 4    :               Show the method of  creating a directory named pis 
+ 		and surf to the same directory 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ mkdir  pis                        #To make a directory named pis
+
+........# (hit [ENTER] for result)
+
+
+$ cd  pis                      #To go to the current directory
+
+........# (hit [ENTER] for next instruction)
+
+
+$ pwd                             
+
+........# (hit [ENTER] for result) C:\Users\Pranav Bhat\Documents\TCPMUM\Chapter4\pis 
+........# (hit [ENTER] for next instruction)
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

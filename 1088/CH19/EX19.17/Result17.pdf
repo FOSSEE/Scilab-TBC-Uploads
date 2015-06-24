@@ -1,0 +1,80 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example17.sci')
+ 
+-->clear
+ 
+-->mode(-1)
+Current date is 11-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            19   
+ 
+ Chapter Title                         :                  perl-THE MASTER MANIPULATOR   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 17    :               Show the method of  filetesting in perlscript 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the perlscript file whichever you desire  
+
+  #!/usr/bin/perl 
+# Script: hither.pl  - Find files that are less than 2.4 hours old  
+#
+foreach $file (`dir /B`) { 
+chop($file) ;
+if (($m_age = -M $file) < 0.1) {                     #tenth of a day i.e 2.4 hours
+           printf  " File %s was last modified %0.3f day(s) back \n",$file,$m_age ; 
+       }
+}
+
+# type the following command in the command line interpreter as soon as it appears 
+       "  hither.pl [THE NUMBERS AS COMMANDLINE ARGUMENTS]    "[ENTER]
+
+
+$  hither.pl  [THE NUMBERS AS COMMANDLINE ARGUMENTS]             #to execute the perlscript 
+
+
+   ---------------->Executing PerlScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

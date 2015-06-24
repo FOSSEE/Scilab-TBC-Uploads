@@ -1,0 +1,3 @@
+Output Voltage in photo detector for Il1 = 0.1000 V 
+
+Output Voltage in photo detector for Il2 = 5.0000 V 

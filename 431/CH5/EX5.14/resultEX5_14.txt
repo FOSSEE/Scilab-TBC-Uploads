@@ -1,0 +1,14 @@
+
+ example 5.14   
+ 
+ star connected alternator   
+
+Full-load current= 131 A
+Voltage per phase=3810 V
+ 
+ for 0.8 lagging power facor   
+induced emf=4366.072552 V
+
+ 
+ then at 0.8 leading power factor   
+termial Voltage, line-to-line=8215 V

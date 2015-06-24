@@ -1,0 +1,92 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example2.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            23   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 2    :               Show the method of showing PID,PPID in both parent and child process 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat fork.c      # to open the file emp.lst /* Program: fork.c -- A simple fork Shows PID,PPID in both parent and child*/
+
+#include <stdio.h>
+#include <sys/types.h>
+
+int main(void) {
+    pid_t pid;
+    
+    printf("Before forking\n");
+    pid = fork();        /* Replicates current processes */
+    
+    if(pid >0) {         /* In the parent process; make sure */
+    sleep(1);            /* That the parent does not die before child */
+    printf("PARENT -- PID: %d PPID %d, CHILD PID: %d\n",getpid(),getppid(),pid);}
+    
+    else if (pid == 0)    /* In the child process */
+         printf("CHILD -- PID: %d PPID: %d\n",getpid(),getppid());
+    else {                 /* pid must be -1 here */
+         printf("Fork error\n");
+         exit(1);}
+    printf("Both process continue from here\n");  /* In both processes */
+    exit(0);
+}
+ $ cc fork.c $ a.out Before forking
+CHILD -- PID: 1556 PPID: 1555
+Both processes continue from here         # This statement runs in child
+PARENT -- PID: 1555 PPID: 1450,CHILD PID: 1556
+Both processes continue from here          ...as well as in parent
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

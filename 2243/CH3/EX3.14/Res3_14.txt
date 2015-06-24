@@ -1,0 +1,8 @@
+ Maximum Intensity 
+
+---> theta = 0 degrees
+---> theta = 30 degrees
+---> theta = 90 degrees
+Minimum Intensity 
+
+--> theta = 14.5 degrees

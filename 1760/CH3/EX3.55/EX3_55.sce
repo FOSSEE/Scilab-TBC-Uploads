@@ -1,0 +1,19 @@
+                             //EXAMPLE 3-55         PG NO-208-209  
+Vab=400+%i*0;
+Vbc=-220-%i*381.05;
+Vca=-220+%i*381.05;
+Z1=0+%i*25;
+Z2=13+%i*7.5;
+Z3=20+%i*0;
+IAB=Vab/Z1;
+disp('i) CURRENT  (IAB) is  in rectangular  form  =  '+string (IAB) +' A ');
+IBC=Vbc/Z2;
+disp('i) CURRENT  (IBC) is  in  rectangular form  =  '+string (IBC) +' A ');
+ICA=Vca/Z3;
+disp('i) CURRENT  (ICA) is  in rectangular form  =  '+string (ICA) +' A ');
+IA=IAB-ICA;
+disp('i) CURRENT  (IA) is  in rectangular form  =  '+string (IA) +' A ');
+IB=IBC-IAB;
+disp('i) CURRENT  (IB) is  in rectangular form  =  '+string (IB) +' A ');
+IC=ICA-IBC;
+disp('i) CURRENT  (IC) is  in rectangular form  =  '+string (IC) +' A ');

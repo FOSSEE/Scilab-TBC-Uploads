@@ -1,0 +1,6 @@
+  
+ Signal to quantization noise ratio   
+ 
+    41.967136  
+ 
+ dB  

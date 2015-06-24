@@ -1,0 +1,23 @@
+ I_w (in Amperes)=   
+ 
+    0.225  
+ 
+ Magnetising current I_m (in Amperes)=   
+ 
+    0.9743588  
+ 
+ R_o (in ohms)=   
+ 
+    1777.7778  
+ 
+ Magnetizing reactance X_o (in ohms)=   
+ 
+    410.5264  
+ 
+ Effective resistance reffered to primary side (in ohms)=   
+ 
+    1.  
+ 
+ Effective reactance reffered to primary side (in ohms)=   
+ 
+    1.7320508  

@@ -1,0 +1,2 @@
+ Frequency of cyclotron = 8.791209e+06 per sec,
+ Larmour radius = 6.745369 meter

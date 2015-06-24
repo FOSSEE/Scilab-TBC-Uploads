@@ -1,0 +1,3 @@
+ Collector Voltage = 6.2000 V 
+
+ Voltage across Rl  = 8.8000 V

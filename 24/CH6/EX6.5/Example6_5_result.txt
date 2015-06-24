@@ -1,0 +1,5 @@
+**Sample Problem 6-5a**
+The terminal velocity will be 7.378648 m/s
+
+**Sample Problem 6-5b**
+The velocity just before the impact if there were no drag force would be 153.362316 m/s 

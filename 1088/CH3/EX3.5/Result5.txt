@@ -1,0 +1,39 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example5.sci',0)
+Current date is 30-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            3   
+ 
+ Chapter Title                         :                      GENERAL PURPOSE UTILITIES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 3:Display the value of an input letter in its octal and hexadecimal equivalent   
+ 
+ ********************************************************************   
+ 
+ Answer    :      
+ 
+    
+Continue ...??   x  =
+ 
+    255.  
+The value 255 is 377 in octal and ff in hexadecimal 
+ **********************************************************************   
+ 
+-->diary(0)

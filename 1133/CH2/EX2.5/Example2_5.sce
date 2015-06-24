@@ -1,0 +1,18 @@
+//Example 2.5
+clc
+disp("It is necessary to analyze each network to determine the critical frequency of the amplifier")
+disp("(a) Input RC Network")
+disp("       fc = 1 / 2*pi*R_in*C1")
+format(6)
+rin=(100*100)/(100+100)
+disp(rin,"where  R_in(in M-ohm) = RG || R_in(gate) = RG || |VGS/IGSS| =")
+format(5)
+fc1=1/(2*%pi*50*10^6*0.001*10^-6)
+disp(fc1,"Therefore,  fc(in Hz) =")
+disp("(b) Output RC Network")
+format(6)
+fc2=1/(2*%pi*(24.2*10^3)*(1*10^-6))
+disp(fc2,"       fc(in Hz) = 1 / 2*pi*(RD+RL)*C2 =")
+disp("We have calculated two critical frequencies")
+disp("(a) fc(input) = 3.18 Hz")
+disp("(b) fc(output) = 6.577 Hz")

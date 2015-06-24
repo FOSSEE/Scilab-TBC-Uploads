@@ -1,0 +1,11 @@
+E = 50*10^3; //in V/cm
+v = 10^7; // in cm/s
+L = 10^-5; //in cm
+m0 = 0.91 * 10^-30; //in kg
+m = 0.067*m0;
+q = 1.6*10^-19;
+a = q*E/m;
+t = (2*L/a)^0.5;
+disp(t,"If the transport is ballistic, transit time (in s) = ")
+t2 = L/v;
+disp(t2,"If the saturation velocity is used, transit time (in s) = ")

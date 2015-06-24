@@ -1,0 +1,4 @@
+ % tappings required is(in%)=   
+ 
+    79.056942  
+ 

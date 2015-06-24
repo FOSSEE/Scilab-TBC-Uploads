@@ -1,0 +1,3 @@
+ Relativistic mass of proton is 1.600000e-27 kg,
+ Here relativistic mass is same as rest mass
+ hence proton is at rest and speed and kinetic energy of proton will be zero

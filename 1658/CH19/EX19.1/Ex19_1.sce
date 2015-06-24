@@ -1,0 +1,22 @@
+clc;
+//e.g 19.1
+Vcc=10;
+Rc=10*10**3;
+Rb=1*10**6;
+beta=100;
+Vbe=0.7;
+Ib=(Vcc-Vbe)/Rb;
+disp('microA',Ib*10**6,"Ib=");
+Ic=beta*Ib;
+disp('mA',Ic*10**3,"Ic=");
+Ie=Ic;
+re=25/(Ie*10**3);
+disp('ohm',re*1,"re=");
+Ri=beta*re;
+disp('kohm',Ri*10**-3,"Ri=");
+Ris=(Rb*beta*re)/(Rb+beta*re);
+disp('kohm',Ris*10**-3,"Ris=");
+R0=Rc;
+disp('kOhm',R0*10**-3,"R0=");
+Av=Rc/re;
+disp(Av);

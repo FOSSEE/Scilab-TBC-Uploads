@@ -1,0 +1,2 @@
+ # Problem 3 # 
+ Amplitude of electric field is 42.519520 N/C 

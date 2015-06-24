@@ -1,0 +1,3 @@
+Hysteresis energy loss per unit volume of magnetic material during one cycle (in J) =    
+ 
+    48.  

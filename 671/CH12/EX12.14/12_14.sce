@@ -1,0 +1,11 @@
+Pmout=20000
+Pwfl=1500
+Pm=Pmout+Pwfl
+disp(Pm)
+ns=1500
+n=1440
+s=1-n/ns
+Pg=Pm/(1-s)
+disp(Pg)
+Pcu=s*Pg
+disp(Pcu)

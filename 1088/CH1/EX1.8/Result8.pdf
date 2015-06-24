@@ -1,0 +1,43 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example8.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            1   
+ 
+ Chapter Title                         :                                             GETTING STARTED   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 8: Write a code-sequence to find show primitive programming    
+
+*******************************************************************
+ 
+ Answer   :     
+ 
+ The following programme takes an input from the user adds 2 to it and displays the result   
+ 
+    
+Ready???...Press Enter to continue a  =
+ 
+    8.  
+
+
+The new result is 10
+*******************************************************************
+ 
+-->diary('Result8.txt','close')

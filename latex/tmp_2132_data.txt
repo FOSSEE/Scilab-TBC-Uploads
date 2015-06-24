@@ -1,0 +1,124 @@
+11#Flow Measurement#11.9#Discharge flowing over the weir#Example11_9.sce#2132/CH11/EX11.9/Example11_9.sce#S##77255
+11#Flow Measurement#11.8#calculate time taken#Example11_8.sce#2132/CH11/EX11.8/Example11_8.sce#S##77254
+11#Flow Measurement#11.7#Position of apex of notch#Example11_7.sce#2132/CH11/EX11.7/Example11_7.sce#S##77253
+11#Flow Measurement#11.6#Discharge over the notch#Example11_6.sce#2132/CH11/EX11.6/Example11_6.sce#S##77252
+11#Flow Measurement#11.5#Find the discharge#Example11_5.sce#2132/CH11/EX11.5/Example11_5.sce#S##77251
+11#Flow Measurement#11.4#Find the discharge#Example11_4.sce#2132/CH11/EX11.4/Example11_4.sce#S##77250
+11#Flow Measurement#11.3#Rate of discharge of steam#Example11_3.sce#2132/CH11/EX11.3/Example11_3.sce#S##77249
+11#Flow Measurement#11.2#calculate Velocity#Example11_2.sce#2132/CH11/EX11.2/Example11_2.sce#S##77248
+11#Flow Measurement#11.14#Calculate the discharge#Example11_14.sce#2132/CH11/EX11.14/Example11_14.sce#S##77260
+11#Flow Measurement#11.13#Number of spillway#Example11_13.sce#2132/CH11/EX11.13/Example11_13.sce#S##77259
+11#Flow Measurement#11.12#Find the maximum discharge#Example11_12.sce#2132/CH11/EX11.12/Example11_12.sce#S##77258
+11#Flow Measurement#11.11#Discharge over cipoletti weir#Example6_11.sce#2132/CH11/EX11.11/Example6_11.sce#S##85086
+11#Flow Measurement#11.10#Find the discharge#Example11_10.sce#2132/CH11/EX11.10/Example11_10.sce#S##77256
+11#Flow Measurement#11.1#Velocity of flow#Example11_1.sce#2132/CH11/EX11.1/Example11_1.sce#S##77247
+7#Flow through pipes#7.9#Intensity of pressure#Example7_9.sce#2132/CH7/EX7.9/Example7_9.sce#S##77241
+7#Flow through pipes#7.8#Various losses#Example7_8.sce#2132/CH7/EX7.8/Example7_8.sce#S##77240
+7#Flow through pipes#7.7#Loss of head due to friction#Example7_7.sce#2132/CH7/EX7.7/Example7_7.sce#S##77239
+7#Flow through pipes#7.6#Head Lost due to friction#Example7_6.sce#2132/CH7/EX7.6/Example7_6.sce#S##77238
+7#Flow through pipes#7.5#Difference in elevations#Example7_5.sce#2132/CH7/EX7.5/Example7_5.sce#S##94240
+7#Flow through pipes#7.4#Head Lost due to friction#Example7_4.sce#2132/CH7/EX7.4/Example7_4.sce#S##77236
+7#Flow through pipes#7.3#Calculate reynolds number#Example7_3.sce#2132/CH7/EX7.3/Example7_3.sce#S##77235
+7#Flow through pipes#7.2#Kinematic viscosity and Reynolds number#Example7_2.sce#2132/CH7/EX7.2/Example7_2.sce#S##77233
+7#Flow through pipes#7.19.a#Maximum Power#Example7_19_page_265.sce#2132/CH7/EX7.19.a/Example7_19_page_265.sce#S##88759
+7#Flow through pipes#7.19#Increase in pressure Intensity#Example7_19.sce#2132/CH7/EX7.19/Example7_19.sce#S##88758
+7#Flow through pipes#7.18#Discharge in pipe and pressure#Example7_18.sce#2132/CH7/EX7.18/Example7_18.sce#S##88757
+7#Flow through pipes#7.17#Velocity discharge rate and energy#Example7_17.sce#2132/CH7/EX7.17/Example7_17.sce#S##88756
+7#Flow through pipes#7.16#Discharge through pipe#Example7_16.sce#2132/CH7/EX7.16/Example7_16.sce#S##88400
+7#Flow through pipes#7.15.a#Difference in water level#Example7_15_page_252.sce#2132/CH7/EX7.15.a/Example7_15_page_252.sce#S##88399
+7#Flow through pipes#7.15#Rate of flow and diameter#Example7_15.sce#2132/CH7/EX7.15/Example7_15.sce#S##88396
+7#Flow through pipes#7.14.a#Diameter of pipe line#Example7_14_page_250.sce#2132/CH7/EX7.14.a/Example7_14_page_250.sce#S##88398
+7#Flow through pipes#7.14#Discharge in pipe line#Example7_14.sce#2132/CH7/EX7.14/Example7_14.sce#S##88397
+7#Flow through pipes#7.13#Discharge in pipe line#Example7_13.sce#2132/CH7/EX7.13/Example7_13.sce#S##77245
+7#Flow through pipes#7.12#Discharge through 300mm pipe#Example7_12.sce#2132/CH7/EX7.12/Example7_12.sce#S##77244
+7#Flow through pipes#7.11.a#Discharge and velocity#Example7_11.sce#2132/CH7/EX7.11.a/Example7_11.sce#S##88395
+7#Flow through pipes#7.11#Calculate the pressure#Example7_11_page_238.sce#2132/CH7/EX7.11/Example7_11_page_238.sce#S##88394
+7#Flow through pipes#7.10#Diameter of pipe#Example7_10.sce#2132/CH7/EX7.10/Example7_10.sce#S##77242
+7#Flow through pipes#7.1#Relation between CGS and MKS unit#Example7_1.sce#2132/CH7/EX7.1/Example7_1.sce#S##88393
+6#Orifices#6.9#Various hydraulic coefficients#Example6_9.sce#2132/CH6/EX6.9/Example6_9.sce#S##94239
+6#Orifices#6.8#Coefficients of orifice#Example6_8.sce#2132/CH6/EX6.8/Example6_8.sce#S##94238
+6#Orifices#6.7#Coefficient of discharge#Example6_7.sce#2132/CH6/EX6.7/Example6_7.sce#S##94237
+6#Orifices#6.6#Various hydraulic coefficients#Example6_6.sce#2132/CH6/EX6.6/Example6_6.sce#S##77219
+6#Orifices#6.5#Various hydraulic coefficients#Example6_5.sce#2132/CH6/EX6.5/Example6_5.sce#S##94236
+6#Orifices#6.4#Coefficient of velocity#Example6_4.sce#2132/CH6/EX6.4/Example6_4.sce#S##77217
+6#Orifices#6.3#Coefficient of velocity#Example6_3.sce#2132/CH6/EX6.3/Example6_3.sce#S##94235
+6#Orifices#6.2#Calculate various Coefficients#Example6_2.sce#2132/CH6/EX6.2/Example6_2.sce#S##94234
+6#Orifices#6.19#Time required to empty the tank#Example6_19.sce#2132/CH6/EX6.19/Example6_19.sce#S##77232
+6#Orifices#6.18#Time required to bring down the level#Example6_18.sce#2132/CH6/EX6.18/Example6_18.sce#S##77231
+6#Orifices#6.17#Time of emptying the tank#Example6_17.sce#2132/CH6/EX6.17/Example6_17.sce#S##77230
+6#Orifices#6.16#Find time taken#Example6_16.sce#2132/CH6/EX6.16/Example6_16.sce#S##77229
+6#Orifices#6.15#Discharge through orifice#Example6_15.sce#2132/CH6/EX6.15/Example6_15.sce#S##85085
+6#Orifices#6.14#Discharge through orifice#Example6_14.sce#2132/CH6/EX6.14/Example6_14.sce#S##85084
+6#Orifices#6.13#Calculate percentage error#Example6_13.sce#2132/CH6/EX6.13/Example6_13.sce#S##77226
+6#Orifices#6.12#Discharge through orifice#Example6_12.sce#2132/CH6/EX6.12/Example6_12.sce#S##77225
+6#Orifices#6.11#Discharge through the orifice#Example6_11.sce#2132/CH6/EX6.11/Example6_11.sce#S##77224
+6#Orifices#6.10#Meeting point of two jets#Example6_10.sce#2132/CH6/EX6.10/Example6_10.sce#S##77223
+6#Orifices#6.1#Calculate Coefficients#Example6_1.sce#2132/CH6/EX6.1/Example6_1.sce#S##94233
+5#Fundamentals of Flow#5.9#Head Loss and direction of flow#Example5_9.sce#2132/CH5/EX5.9/Example5_9.sce#S##77199
+5#Fundamentals of Flow#5.8#Find Loss of head#Example5_8.sce#2132/CH5/EX5.8/Example5_8.sce#S##77198
+5#Fundamentals of Flow#5.7#Loss of head and direction of flow#Example5_7.sce#2132/CH5/EX5.7/Example5_7.sce#S##85080
+5#Fundamentals of Flow#5.6#Pressure at the low end#Example5_6.sce#2132/CH5/EX5.6/Example5_6.sce#S##77196
+5#Fundamentals of Flow#5.5#Direction of flow#Example5_5.sce#2132/CH5/EX5.5/Example5_5.sce#S##77195
+5#Fundamentals of Flow#5.4#Calculate total energy#Example5_4.sce#2132/CH5/EX5.4/Example5_4.sce#S##77194
+5#Fundamentals of Flow#5.3#Datum Velocity Head Pressure head#Example5_3.sce#2132/CH5/EX5.3/Example5_3.sce#S##77193
+5#Fundamentals of Flow#5.23#Discharge in the pipe#Example5_23.sce#2132/CH5/EX5.23/Example5_23.sce#S##85083
+5#Fundamentals of Flow#5.22#Find Z#Example5_22.sce#2132/CH5/EX5.22/Example5_22.sce#S##77212
+5#Fundamentals of Flow#5.21#Flow rate of oil#Example5_21.sce#2132/CH5/EX5.21/Example5_21.sce#S##77211
+5#Fundamentals of Flow#5.20#Velocity and flow rate#Example5_20.sce#2132/CH5/EX5.20/Example5_20.sce#S##85082
+5#Fundamentals of Flow#5.2#Discharge and velocity of flow#Example5_2.sce#2132/CH5/EX5.2/Example5_2.sce#S##85079
+5#Fundamentals of Flow#5.19#Flow rate of water#Example5_19.sce#2132/CH5/EX5.19/Example5_19.sce#S##81581
+5#Fundamentals of Flow#5.18#Calculate flow water#Example5_18.sce#2132/CH5/EX5.18/Example5_18.sce#S##77208
+5#Fundamentals of Flow#5.17#Rate of flow#Example5_17.sce#2132/CH5/EX5.17/Example5_17.sce#S##77207
+5#Fundamentals of Flow#5.16#Deflection of oil mercury gauge#Example5_16.sce#2132/CH5/EX5.16/Example5_16.sce#S##77206
+5#Fundamentals of Flow#5.15#Find pressure difference#Example5_15.sce#2132/CH5/EX5.15/Example5_15.sce#S##85081
+5#Fundamentals of Flow#5.14#Deflection in manometer#Example5_14.sce#2132/CH5/EX5.14/Example5_14.sce#S##77204
+5#Fundamentals of Flow#5.13#Coefficient of meter#Example5_13.sce#2132/CH5/EX5.13/Example5_13.sce#S##77203
+5#Fundamentals of Flow#5.12#Find discharge of oil#Example5_12.sce#2132/CH5/EX5.12/Example5_12.sce#S##94232
+5#Fundamentals of Flow#5.11#Intensity of pressure and discharge#Example5_11.sce#2132/CH5/EX5.11/Example5_11.sce#S##77201
+5#Fundamentals of Flow#5.10#Determine pressure intensity#Example5_10.sce#2132/CH5/EX5.10/Example5_10.sce#S##77200
+5#Fundamentals of Flow#5.1#Find Power required#Example5_1.sce#2132/CH5/EX5.1/Example5_1.sce#S##85078
+4#Measurement of Pressure#4.9#Difference of Pressure#Example4_9.sce#2132/CH4/EX4.9/Example4_9.sce#S##77185
+4#Measurement of Pressure#4.8#Difference of pressure head#Example4_8.sce#2132/CH4/EX4.8/Example4_8.sce#S##77184
+4#Measurement of Pressure#4.7#Calculate pressure intensity#Example4_7.sce#2132/CH4/EX4.7/Example4_7.sce#S##77183
+4#Measurement of Pressure#4.6#calculate Pressure intensity#Example4_6.sce#2132/CH4/EX4.6/Example4_6.sce#S##77182
+4#Measurement of Pressure#4.5#Pressure intensity of liquid#Example4_5.sce#2132/CH4/EX4.5/Example4_5.sce#S##77181
+4#Measurement of Pressure#4.4#Pressure in the tribe#Example4_4.sce#2132/CH4/EX4.4/Example4_4.sce#S##77180
+4#Measurement of Pressure#4.3#Convert pressure head#Example4_3.sce#2132/CH4/EX4.3/Example4_3.sce#S##77179
+4#Measurement of Pressure#4.2#Pressure intensity and tube reading#Example4_2.sce#2132/CH4/EX4.2/Example4_2.sce#S##77178
+4#Measurement of Pressure#4.14#Difference of pressure#Example4_14.sce#2132/CH4/EX4.14/Example4_14.sce#S##77190
+4#Measurement of Pressure#4.13#Reading of manometer#Example4_13.sce#2132/CH4/EX4.13/Example4_13.sce#S##94231
+4#Measurement of Pressure#4.12#Pressure difference between vessels#Example4_12.sce#2132/CH4/EX4.12/Example4_12.sce#S##77188
+4#Measurement of Pressure#4.11#Difference of pressure between two vessels#Example4_11.sce#2132/CH4/EX4.11/Example4_11.sce#S##77187
+4#Measurement of Pressure#4.10#Pressure difference between two vessels#Example4_10.sce#2132/CH4/EX4.10/Example4_10.sce#S##77186
+4#Measurement of Pressure#4.1#Gauge units and absolute units#Example4_1.sce#2132/CH4/EX4.1/Example4_1.sce#S##77177
+3#Hydro Static Pressure#3.9#Total pressure and centre of pressure#Example3_9.sce#2132/CH3/EX3.9/Example3_9.sce#S##77161
+3#Hydro Static Pressure#3.8#Total pressure and centre of pressure#Example3_8.sce#2132/CH3/EX3.8/Example3_8.sce#S##77160
+3#Hydro Static Pressure#3.7#Find force and depth#Example3_7.sce#2132/CH3/EX3.7/Example3_7.sce#S##77159
+3#Hydro Static Pressure#3.6#Calculate force on vertical wall#Example3_6.sce#2132/CH3/EX3.6/Example3_6.sce#S##77158
+3#Hydro Static Pressure#3.5#Calculate total pressure#Example3_5.sce#2132/CH3/EX3.5/Example3_5.sce#S##77157
+3#Hydro Static Pressure#3.4#Convert pressure head#Example3_4.sce#2132/CH3/EX3.4/Example3_4.sce#S##77156
+3#Hydro Static Pressure#3.3#Depth of alcohol#Example3_3.sce#2132/CH3/EX3.3/Example3_3.sce#S##77155
+3#Hydro Static Pressure#3.24#Maximum and minimum stress#Example3_24.sce#2132/CH3/EX3.24/Example3_24.sce#S##77176
+3#Hydro Static Pressure#3.23#Gorizontal and vertical components of pressure#Example3_23.sce#2132/CH3/EX3.23/Example3_23.sce#S##77175
+3#Hydro Static Pressure#3.22#Resultant pressure and angle of pressure#Example3_22.sce#2132/CH3/EX3.22/Example3_22.sce#S##77174
+3#Hydro Static Pressure#3.21#Resultant pressure and direction#Example3_21.sce#2132/CH3/EX3.21/Example3_21.sce#S##77173
+3#Hydro Static Pressure#3.20#Total hydro static pressure and centre of pressure#Example3_20.sce#2132/CH3/EX3.20/Example3_20.sce#S##77172
+3#Hydro Static Pressure#3.2#Intensity of pressure#Example3_2.sce#2132/CH3/EX3.2/Example3_2.sce#S##77154
+3#Hydro Static Pressure#3.19#Total pressure and centre of pressure#Example3_19.sce#2132/CH3/EX3.19/Example3_19.sce#S##77171
+3#Hydro Static Pressure#3.18#Total Pressure and centre of pressure#Example3_18.sce#2132/CH3/EX3.18/Example3_18.sce#S##77170
+3#Hydro Static Pressure#3.17#Total pressure and centre of pressure#Example3_17.sce#2132/CH3/EX3.17/Example3_17.sce#S##77169
+3#Hydro Static Pressure#3.16#Total pressure and centre of pfressure#Example3_16.sce#2132/CH3/EX3.16/Example3_16.sce#S##77168
+3#Hydro Static Pressure#3.15#Horizontal force#Example3_15.sce#2132/CH3/EX3.15/Example3_15.sce#S##77167
+3#Hydro Static Pressure#3.14#Force and reaction at hinge#Example3_14.sce#2132/CH3/EX3.14/Example3_14.sce#S##77166
+3#Hydro Static Pressure#3.13#Total pressure and centre of pressure#Example3_13.sce#2132/CH3/EX3.13/Example3_13.sce#S##77165
+3#Hydro Static Pressure#3.12#Determine total pressure#Example3_12.sce#2132/CH3/EX3.12/Example3_12.sce#S##77164
+3#Hydro Static Pressure#3.11#Total pressure and centre of pressure#Example3_11.sce#2132/CH3/EX3.11/Example3_11.sce#S##77163
+3#Hydro Static Pressure#3.10#Total pressure and centre of pressure#Example3_10.sce#2132/CH3/EX3.10/Example3_10.sce#S##77162
+3#Hydro Static Pressure#3.1#Intensity of pressure#Example3_1.sce#2132/CH3/EX3.1/Example3_1.sce#S##77153
+2#Properties of Fluids#2.7#Intensity of Pressure#Example2_7.sce#2132/CH2/EX2.7/Example2_7.sce#S##77152
+2#Properties of Fluids#2.6#Calculate capillary rise#Example2_6.sce#2132/CH2/EX2.6/Example2_6.sce#S##94230
+2#Properties of Fluids#2.5#Kinematic Viscosity#Example2_5.sce#2132/CH2/EX2.5/Example2_5.sce#S##94229
+2#Properties of Fluids#2.4#Force and power required#Example2_4.sce#2132/CH2/EX2.4/Example2_4.sce#S##85075
+2#Properties of Fluids#2.3#Increase of pressure#Example2_3.sce#2132/CH2/EX2.3/Example2_3.sce#S##85074
+2#Properties of Fluids#2.2#Bulk modulus of elesticity#Example2_2.sce#2132/CH2/EX2.2/Example2_2.sce#S##77147
+2#Properties of Fluids#2.1#Sp Weight Mass density Sp Gravity#Example2_1.sce#2132/CH2/EX2.1/Example2_1.sce#S##85073

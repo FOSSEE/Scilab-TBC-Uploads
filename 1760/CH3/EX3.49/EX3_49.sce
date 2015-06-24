@@ -1,0 +1,25 @@
+                       //EXAMPLE 3-49 PG NO-203-204
+Vab=400+%i*0;
+Vbc=-200-%i*346.41;
+Vca=-200+%i*346.410;
+Z1=%i*10;
+Z2=-%i*20;
+Z3=10;
+Iab=Vab/Z1;
+disp('i) CURRENT  (Iab) is  in rectangular form  =  '+string (Iab) +' A ');
+Ibc=Vbc/Z2;
+disp('ii) CURRENT  (Ibc) is  in rectangular form  =  '+string (Ibc) +' A ');
+Ica=Vca/Z3;
+disp('iii) CURRENT  (Ica) is  in rectangular form  =  '+string (Ica) +' A ');
+Ia=Iab-Ica;
+disp('iv) CURRENT  (Ia) is  in rectangular form  =  '+string (Ia) +' A ');
+Ib=Ibc-Iab;
+disp('v) CURRENT  (Ib) is  in rectangular form  =  '+string (Ib) +' A ');
+Ic=Ica-Ibc;
+disp('vi) CURRENT  (Ic) is  in rectangular form  =  '+string (Ic) +' A ');
+P=Ica*Z3;
+disp('vii)ACTIVE POWER  (P) is  in rectangular form  =  '+string (P) +' W ');
+Q=(Iab^2*Z3)-(Ibc^2*20);
+disp('viii) REACTIVE POWER  (Q) is  in rectangular form  =  '+string (Q) +' vars ');
+S=[P^2+Q^2]^0.5;
+disp('i)APPARENT POWER  (S) is  in rectangular form  =  '+string (S) +' VA ');

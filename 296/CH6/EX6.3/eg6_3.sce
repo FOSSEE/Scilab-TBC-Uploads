@@ -1,0 +1,16 @@
+q = 1.6*10^-19;
+q0 = 1;
+epsilon0 = 8.85*10^-14;
+epsilon = 11.8;
+epsiloni = 3.9;
+d = 10^-6;
+Vt1 = -1.1;
+Vt2 = -0.5;
+I = 10^-5;
+A = 650;
+Ci = epsiloni*epsilon0/d;
+Fb = (Vt2-Vt1)*Ci/q;
+t = Fb*q*A/I;
+disp(Ci*10^6,"C(i) (in microfarad per square cm)=")
+disp(Fb,"boron ion dose required (in per square cm)=")
+disp(t,"implant time (in second)=")

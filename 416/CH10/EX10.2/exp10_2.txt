@@ -1,0 +1,5 @@
+ 
+ example 10.2   
+for the same incremental costs unit1 should supply 125MW and unit 2 shold supply 100MW,for equal sharing each unit should supply 112.5MW
+yearly extra cost is (671.88-699.22)8760 =12010781per year
+this if the load is equally shared by the two units an extra cost of Rs.12010781 will be incurred.in other words economic loading would result in saving of Rs.12010781per year 

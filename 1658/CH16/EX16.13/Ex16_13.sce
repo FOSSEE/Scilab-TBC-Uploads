@@ -1,0 +1,11 @@
+clc;
+Vs=150;
+Idc=2;
+Vdc=2.34*Vs;
+disp('V',Vdc*1,"Vdc=");
+I=Idc/0.955;
+disp('A',I*1,"I=");
+Iavg=2/3;
+disp('A',Iavg*1,"Iavg=");
+Pdc=Vdc*Idc;
+disp('W',Pdc*1,"Pdc=");

@@ -1,0 +1,10 @@
+W=8000;//given in N
+S=14.5;//wing area,given in m^2
+c=1.35;//mean chord,given in m
+n=4.5;
+v=60;//speed,given in m/s
+rho=1.223;//air density,given in kg/m^3
+alpha1=13.75;//from fig. 14.8(a),in degree
+Cmcg1=0.075;//Cm,cg  from fig. 14.8(a)
+alpha2=13.3;//given in degree
+Cmcg2=0.073;//given

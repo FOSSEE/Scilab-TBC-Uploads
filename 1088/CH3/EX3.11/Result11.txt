@@ -1,0 +1,37 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example11.sci',0)
+Current date is 30-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            3   
+ 
+ Chapter Title                         :                          GENERAL PURPOSE UTILITIES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ 
+ Example 11   :                                                         Display the user terminal details   
+ 
+ ***************************************************************************   
+ 
+ Answer    :    
+The current terminal details are
+ The username details are C:\Users\Pranav Bhat
+The terminal file details are C:/PROGRA~1/SCILAB~1.1
+ 
+ ***************************************************************************   
+ 
+-->diary(0)

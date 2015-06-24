@@ -1,0 +1,14 @@
+j=0:100:1500;
+NPSHAp2=Hs+(V(j))^2/2/g-Hv2;
+
+
+
+
+
+
+
+
+pause
+clf
+plot(Qp,NPSHAp2)
+xtitle('Volume flow rate(gpm)','Suction Head(feet)','NPSHA when water is at 180 F');

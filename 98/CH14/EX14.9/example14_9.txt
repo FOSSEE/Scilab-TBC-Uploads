@@ -1,0 +1,18 @@
+	 Ir = 87.0 A 
+	 Iy = 125.0 A 
+	 Ib = 125.0 A 
+
+	 Resultant X-component = -129.5 A 
+	 Resultant Y-component = 0.0 A 
+	 Current in nuetral wire = 129.5 A 
+
+WHEN LOAD FROM B TO N IS REMOVED: 
+	 Ir = 86.96 A in phase with Vrn 
+	 Iy = 125.00 A lagging Vyn by 30 degrees 
+	 Ib = 0 A 
+
+Resultant X-component = -21.30 A 
+Resultant Y-component = -62.50 A 
+Nuetral current = 66.03 A 
+
+

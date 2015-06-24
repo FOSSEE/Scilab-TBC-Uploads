@@ -1,0 +1,9 @@
+ Example 2.19   
+E=235V 
+ when extra resistance is added in the armature circuit when the speed is 800rpm   
+
+E at 800rpm=188V
+extra resistance in the armature circui,R=0.940000ohms 
+ if load is halfed,Ia will be halfed   
+E1=219V
+N1=931.914894rpm 

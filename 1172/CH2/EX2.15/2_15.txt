@@ -1,0 +1,2 @@
+ # Problem 15 # 
+ Average value of intensity of electric field is 54.759379 V/m 

@@ -1,0 +1,93 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example13.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            23   
+ 
+ Chapter Title                         :                              Systems programming I- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 13    :               Show the method of setting a file timestamps 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However if possible some selected programmes have been TRIED TO BE IMPLEMENTED   
+ 
+ 3.For most of the programmes whose equivalent is NOT THERE IN SCILAB,only the output has been printed as given in the textbook w 
+      ith no interactive input as in the programme below                                                                          
+ 
+ 4.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+ 
+ 5.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat atimemtime.c      # to open the file emp.lst /* Program: atimemtime.c -- Sets a file time stamps to those of another file */
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <utime.h>
+
+void quit(char *,int);
+int main(int argc,char **argv) {
+    struct stat statbuf;     /* To obtain time stamps for an existing file */
+    struct utimbuf timebuf;  /* To set time stamps for another file */
+    
+    if (lstat(argv[1], &statbuf) == -1)
+        quit("stat", 1);
+        
+    timebuf.actime = statbuf.st_atime; /* Setting members of timebuf with */
+    timebuf.modtime= statbuf.st_mtime; /* values obtained from statbuf */
+    
+    if (open(argv[2], O_RWR | O_CREAT, 0644) == -1)
+      quit("open", 2);
+    close(argv[2]);         /* Previously used open only to create it */
+    
+    if (utime(argv[2]), &timebuf) == -1) /* Sets both time stamps for file */
+      quit("utime", 3);
+    exit(0);
+}
+ $ cc atimemtime.c $ mv a.out $HOME;cd;a.out .profile .logintime $ ls -l .logintime ; ls -lu .logintime -rw-r--r--  1  <user>  <group>  0 Jun 20 00:55 .logintime
+-rw-r--r--  1  <user>  <group>  0 Jun   5 00:30 .logintime
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

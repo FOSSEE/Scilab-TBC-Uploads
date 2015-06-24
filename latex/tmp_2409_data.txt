@@ -1,0 +1,76 @@
+16#Direct Broadcast Satellite Services#16.2#Calculate the upper limit#Ex16_2.sce#2409/CH16/EX16.2/Ex16_2.sce#S##99933
+16#Direct Broadcast Satellite Services#16.1#Calculate the look angles for the antenna  the range and the Eb N0 at the IRD#Ex16_1.sce#2409/CH16/EX16.1/Ex16_1.sce#S##99932
+14#Satellite Access#14.8#Calculate the processing gain in decibels#Ex14_8.sce#2409/CH14/EX14.8/Ex14_8.sce#S##99931
+14#Satellite Access#14.7#calculate the earth station transmitter power needed for transmission#Ex14_7.sce#2409/CH14/EX14.7/Ex14_7.sce#S##99930
+14#Satellite Access#14.6#Calculate the maximum transmission rate#Ex14_6.sce#2409/CH14/EX14.6/Ex14_6.sce#S##99929
+14#Satellite Access#14.5#Calculate the voice channel capacity for the INTELSAT frame#Ex14_5.sce#2409/CH14/EX14.5/Ex14_5.sce#S##99928
+14#Satellite Access#14.4#Calculate the frame efficiency#Ex14_4.sce#2409/CH14/EX14.4/Ex14_4.sce#S##99927
+14#Satellite Access#14.3#Determine the probability of false detection#Ex14_3.sce#2409/CH14/EX14.3/Ex14_3.sce#S##99926
+14#Satellite Access#14.2#Determine the miss probabilty#Ex14_2.sce#2409/CH14/EX14.2/Ex14_2.sce#S##99925
+14#Satellite Access#14.1#Compare this with when no backoff needed#Ex14_1.sce#2409/CH14/EX14.1/Ex14_1.sce#S##99924
+13#Interference#13.6#Calculate the transmission gain y#Ex13_6.sce#2409/CH13/EX13.6/Ex13_6.sce#S##99923
+13#Interference#13.5#Calculate the protection ratio required to give a quality impairment factor#Ex13_5.sce#2409/CH13/EX13.5/Ex13_5.sce#S##99922
+13#Interference#13.4#Determine the degradation in the downlink#Ex13_4.sce#2409/CH13/EX13.4/Ex13_4.sce#S##99921
+13#Interference#13.3#find the overall ratio#Ex13_3.sce#2409/CH13/EX13.3/Ex13_3.sce#S##99920
+13#Interference#13.2#Calculate the C I ratio on the uplink#Ex13_2.sce#2409/CH13/EX13.2/Ex13_2.sce#S##99919
+13#Interference#13.1#Determine the carrier to interference ratio at the ground receiving antenna#Ex13_1.sce#2409/CH13/EX13.1/Ex13_1.sce#S##99918
+12#The Space Link#12.9#Calculate the carrier to noise spectral density ratio#Ex12_9.sce#2409/CH12/EX12.9/Ex12_9.sce#S##99906
+12#The Space Link#12.8#Repeat Example 7#Ex12_8.sce#2409/CH12/EX12.8/Ex12_8.sce#S##99905
+12#The Space Link#12.7#Calculate the noise temperature to the input#Ex12_7.sce#2409/CH12/EX12.7/Ex12_7.sce#S##99904
+12#The Space Link#12.6#Calculate the overall noise temperature referred to the LNA input#Ex12_6.sce#2409/CH12/EX12.6/Ex12_6.sce#S##99903
+12#The Space Link#12.5#Calculate the noise power density and the noise power for a bandwidth of 36 MHz#Ex12_5.sce#2409/CH12/EX12.5/Ex12_5.sce#S##99902
+12#The Space Link#12.4#Calculate the total link for clear sky conditions#Ex12_4.sce#2409/CH12/EX12.4/Ex12_4.sce#S##99900
+12#The Space Link#12.3#Calculate the free space loss at a frequency of 6 GHz#Ex12_3.sce#2409/CH12/EX12.3/Ex12_3.sce#S##99899
+12#The Space Link#12.20#Calculate the overall carrier to noise ratio in decibels#Ex12_20.sce#2409/CH12/EX12.20/Ex12_20.sce#S##99917
+12#The Space Link#12.2#Calculate the gain of a 3 m paraboloidal antenna operating#Ex12_2.sce#2409/CH12/EX12.2/Ex12_2.sce#S##99897
+12#The Space Link#12.19#Calculate the C N for both links#Ex12_19.sce#2409/CH12/EX12.19/Ex12_19.sce#S##99916
+12#The Space Link#12.18#Calculate the combined C N0 ratio#Ex12_18.sce#2409/CH12/EX12.18/Ex12_18.sce#S##99915
+12#The Space Link#12.17#Calculate the percentage of time the system stays above the threshold#Ex12_17.sce#2409/CH12/EX12.17/Ex12_17.sce#S##99914
+12#The Space Link#12.16#calculate the value#Ex12_16.sce#2409/CH12/EX12.16/Ex12_16.sce#S##99913
+12#The Space Link#12.15#Calculate the power output of the TWTA required for full saturated EIRP#Ex12_15.sce#2409/CH12/EX12.15/Ex12_15.sce#S##99912
+12#The Space Link#12.14#Calculate the carrier to noise ratio at the earth station#Ex12_14.sce#2409/CH12/EX12.14/Ex12_14.sce#S##99911
+12#The Space Link#12.13#Calculate the bit rate which can be accomodated and  the EIRP required#Ex12_13.sce#2409/CH12/EX12.13/Ex12_13.sce#S##99910
+12#The Space Link#12.12#calculate the satellite EIRP required#Ex12_12.sce#2409/CH12/EX12.12/Ex12_12.sce#S##99909
+12#The Space Link#12.11#Calculate the carrier to noise density ratio#Ex12_11.sce#2409/CH12/EX12.11/Ex12_11.sce#S##99908
+12#The Space Link#12.10#Calculate the earth station EIRP required for saturation#Ex12_10.sce#2409/CH12/EX12.10/Ex12_10.sce#S##99907
+12#The Space Link#12.1#Calculate the EIRP in dBW#Ex12_1.sce#2409/CH12/EX12.1/Ex12_1.sce#S##99896
+10#Digital Siganls#10.3#Calculate the Eb N0 ratio in decibels#Ex10_3.sce#2409/CH10/EX10.3/Ex10_3.sce#S##99893
+10#Digital Siganls#10.2#Calculate the required C N0#Ex10_2.sce#2409/CH10/EX10.2/Ex10_2.sce#S##99891
+10#Digital Siganls#10.1#determine the bit error rate#Ex10_1.sce#2409/CH10/EX10.1/Ex10_1.sce#S##99890
+9#Analog Siganls#9.6#Calculate the carrier to noise ratio required at the input to the FM detector#Ex9_6.sce#2409/CH9/EX9.6/Ex9_6.sce#S##99888
+9#Analog Siganls#9.5#Calculate the signal to noise ratio#Ex9_5.sce#2409/CH9/EX9.5/Ex9_5.sce#S##99887
+9#Analog Siganls#9.4#calculate the receiver processing gain and the postdetector#Ex9_4.sce#2409/CH9/EX9.4/Ex9_4.sce#S##99885
+9#Analog Siganls#9.3#Recalculate the bandwidths#Ex9_3.sce#2409/CH9/EX9.3/Ex9_3.sce#S##99884
+9#Analog Siganls#9.2#Calculate the modulation index and the Bandwidth#Ex9_2.sce#2409/CH9/EX9.2/Ex9_2.sce#S##99883
+9#Analog Siganls#9.1#Calculate the peak deviation and the signal bandwidth#Ex9_1.sce#2409/CH9/EX9.1/Ex9_1.sce#S##99881
+6#Antennas#6.3#for phi 90 degrees#Ex6_3.sce#2409/CH6/EX6.3/Ex6_3.sce#S##99880
+6#Antennas#6.2# Plot the magnitue of the array factor as a function of phi#Ex6_2.sce#2409/CH6/EX6.2/Ex6_2.sce#S##99878
+6#Antennas#6.1#Plot the E Plane and H Plane radiation#Ex6_1.sce#2409/CH6/EX6.1/Ex6_1.sce#S##99877
+5#Polarization#5.1#Determine the angle of polarization#Ex5_1.sce#2409/CH5/EX5.1/Ex5_1.sce#S##99876
+4#Radio Wave Propagation#4.2#circular polarization#Ex4_2.sce#2409/CH4/EX4.2/Ex4_2.sce#S##99874
+4#Radio Wave Propagation#4.1#Calculate for the frequency#Ex4_1.sce#2409/CH4/EX4.1/Ex4_1.sce#S##99873
+3#The Geostationary orbit#3.5#calculate the longitude#Ex3_5.sce#2409/CH3/EX3.5/Ex3_5.sce#S##99868
+3#The Geostationary orbit#3.4#Determine the limits of visibility#Ex3_4.sce#2409/CH3/EX3.4/Ex3_4.sce#S##99867
+3#The Geostationary orbit#3.3#Determine the angle#Ex3_3.sce#2409/CH3/EX3.3/Ex3_3.sce#S##99866
+3#The Geostationary orbit#3.2#Find the range and antenna elevation angle#Ex3_2.sce#2409/CH3/EX3.2/Ex3_2.sce#S##99865
+3#The Geostationary orbit#3.1#Calculate the azimuth angle for an earth station antenna#Ex3_1.sce#2409/CH3/EX3.1/Ex3_1.sce#S##99864
+2#Orbits and Lauching Methods#2.9#Calculate the time#Ex2_9.sce#2409/CH2/EX2.9/Ex2_9.sce#S##99846
+2#Orbits and Lauching Methods#2.8#Determine which of the following are leap years#Ex2_8.sce#2409/CH2/EX2.8/Ex2_8.sce#S##99845
+2#Orbits and Lauching Methods#2.7#Calculate the average length of the civil year in the Gregorian calendar#Ex2_7.sce#2409/CH2/EX2.7/Ex2_7.sce#S##99844
+2#Orbits and Lauching Methods#2.6#Calculate the new values for W and w one period after epoch#Ex2_6.sce#2409/CH2/EX2.6/Ex2_6.sce#S##99843
+2#Orbits and Lauching Methods#2.5#Determine the rate of regression of the nodes and the rate of rotation of the line of apsides for the satellite parameters specified#Ex2_5.sce#2409/CH2/EX2.5/Ex2_5.sce#S##99842
+2#Orbits and Lauching Methods#2.4#calculate the semimajor axis#Ex2_4.sce#2409/CH2/EX2.4/Ex2_4.sce#S##99841
+2#Orbits and Lauching Methods#2.3#Calculate the apogee and perigee for the orbital parameters given#Ex2_3.sce#2409/CH2/EX2.3/Ex2_3.sce#S##99840
+2#Orbits and Lauching Methods#2.21#Determine the subsatellite height latitude and LST #Ex2_21.sce#2409/CH2/EX2.21/Ex2_21.sce#S##99860
+2#Orbits and Lauching Methods#2.20#Calculate the corresponding range and the look angles for an earth station the coordinates#Ex2_20.sce#2409/CH2/EX2.20/Ex2_20.sce#S##99861
+2#Orbits and Lauching Methods#2.2#Calculate the semimajor axis for the satellite parameters given#Ex2_2.sce#2409/CH2/EX2.2/Ex2_2.sce#S##99839
+2#Orbits and Lauching Methods#2.19#Find the components of the radius vector to the earth station at Thunder Bay#Ex2_19.sce#2409/CH2/EX2.19/Ex2_19.sce#S##99858
+2#Orbits and Lauching Methods#2.18#Find the LST for Thunder Bay#Ex2_18.sce#2409/CH2/EX2.18/Ex2_18.sce#S##99857
+2#Orbits and Lauching Methods#2.17#Find the GST for 13h UT on 18December 2000#Ex2_17.sce#2409/CH2/EX2.17/Ex2_17.sce#S##99856
+2#Orbits and Lauching Methods#2.15#express r in vector form in the perifocal coordinate system#Ex2_15.sce#2409/CH2/EX2.15/Ex2_15.sce#S##99854
+2#Orbits and Lauching Methods#2.14#Calculate teh true anomaly and the magnitude of the radius vector#Ex2_14.sce#2409/CH2/EX2.14/Ex2_14.sce#S##99853
+2#Orbits and Lauching Methods#2.13#calculate the eccentric anomaly#Ex2_13.sce#2409/CH2/EX2.13/Ex2_13.sce#S##99852
+2#Orbits and Lauching Methods#2.12#Calculate the time of perigee passage for the NASA elements #Ex2_12.sce#2409/CH2/EX2.12/Ex2_12.sce#S##99850
+2#Orbits and Lauching Methods#2.11#Find the time in Julian centuries from the reference time#Ex2_11.sce#2409/CH2/EX2.11/Ex2_11.sce#S##99849
+2#Orbits and Lauching Methods#2.10#Find the Julian day for 13h UT on 18December 2000#Ex2_10.sce#2409/CH2/EX2.10/Ex2_10.sce#S##99848
+2#Orbits and Lauching Methods#2.1#Calculate the radius of a circular orbit for which the period is 1 day#Ex2_1.sce#2409/CH2/EX2.1/Ex2_1.sce#S##99838

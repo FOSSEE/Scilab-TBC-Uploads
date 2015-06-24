@@ -1,0 +1,15 @@
+ Generator X0 = 0.05 per unit
+
+ Motor 1 X0 = 0.0686 per unit
+
+ Motor 2 X0 = 0.1372 per unit
+
+ Generator base impedance = 1.333 per unit
+
+ Motor base impedance = 0.635 per unit
+
+ In generator 3Zn = 0.900 per unit
+
+ In motor 3Zn = 1.890 per unit
+
+ Transmission line X0 = 0.5444 per unit 

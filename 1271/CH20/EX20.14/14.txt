@@ -1,0 +1,5 @@
+ # PROBLEM 14 # 
+Standard formula used 
+  Moseley Law 
+ 
+ Wavelength of K line = 0.146374 A

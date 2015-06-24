@@ -1,0 +1,7 @@
+Load current = 218 A 
+Ip = 174.95 A 
+Iq = 131.22 A 
+Sending end voltage per phase = 19052 V 
+Im = 231 A 
+Capacity of synchrounous condenser = 13203 kVAR 
+

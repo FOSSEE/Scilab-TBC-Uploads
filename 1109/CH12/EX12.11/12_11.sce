@@ -1,0 +1,10 @@
+clear;
+clc;
+Z1=%i*10;Z2=3+(%i*4);Z=5;V=20;
+Zeq=1/((1/Z1)+(1/Z2));
+Zi=Z+Zeq;
+I=V/Zi;
+Vc=I*Zeq;
+A=real(Vc);
+B=imag(Vc);
+printf("Compensation source Vc = %f /_ %f volts",round(abs(Vc)*10)/10,round(atan(B,A)*180*10/%pi)/10);

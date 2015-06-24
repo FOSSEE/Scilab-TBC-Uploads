@@ -1,0 +1,11 @@
+ 
+ example 13.2   
+ 
+ (a)   
+ equivalent reactance is 0.3787 p.u 
+ short circuit KVA 79220KVA 
+ (b)   
+ short circuit current on bus bar side 346.5A 
+ short circuit current of generator 1 is 1908.6A 
+ short circuit current of generator 2 is 2249.4A 
+ 

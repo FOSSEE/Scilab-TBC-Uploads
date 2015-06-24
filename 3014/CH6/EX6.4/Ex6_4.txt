@@ -1,0 +1,3 @@
+
+Example 6.4
+Fundamental frequency is 4.549979e+05 Hz.

@@ -1,0 +1,16 @@
+clc;
+B=50;
+VBE=0.7;
+VCC=22.5;
+RC=5.6*10**3;
+VCE=12;
+IC=1.5*10**-3;
+S=3;
+RE=(VCC-IC*RC-VCE)/IC;
+disp('kohm',RE*10^-3,"RE=");
+RTH=(4375)-RE;
+disp('kohm',RTH*10^-3,"RTH=");
+R2=0.1*B*RE;
+disp('kohm',R2*10^-3,"R2=");
+R1=(-RTH*R2)/(RTH-R2);
+disp('kohm',R1*10^-3,"R1=");

@@ -1,0 +1,11 @@
+clear;
+clc;
+c=3*(10^8);f=8*(10^9);r=2.5;h=1.84;n=377;
+l=c/f;
+lo=l*(10^2);
+lc=2*%pi*r/h;
+printf("-Cutoff wavelength = %f cm\n",round(lc*100)/100);
+lp=lo/(sqrt(1-((lo/lc)^2)));
+printf("-Guide wavelength = %f cm\n",round(lp*100)/100);
+Zo=n/(sqrt(1-((lo/lc)^2)));
+printf("-Characteristic wave impedance = %f ohm",fix(Zo*10)/10);

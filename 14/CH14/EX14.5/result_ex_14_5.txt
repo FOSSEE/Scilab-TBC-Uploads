@@ -1,0 +1,7 @@
+ The power abgle equation is   
+
+ Pe = 1.500 * sin(delta) 
+ where delta is the machine rotor angle wrt to the infinite bus 
+ The swing equation is   
+
+ (5.00/180f) * d(delta)^2/dt^2 = 1.00 - 1.50sin(delta) 

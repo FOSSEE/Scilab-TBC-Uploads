@@ -1,0 +1,9 @@
+ 
+ example 14.19   
+load angle is 1.00
+real power is 0.933p.u 
+reactive power 0.361p.u leading 
+ (b)   
+load angle is 1.00
+real power is 0.981p.u 
+reactive power 0.192p.u lagging 

@@ -1,0 +1,5 @@
+ Example 4.31   
+Full-load I^2R losses=735.000000W
+I^2R loss at no-load=129.654000W
+Core loss plus friction and windage loss=145W
+Efficiency=80.685043percent 

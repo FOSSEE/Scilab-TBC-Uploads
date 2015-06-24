@@ -1,0 +1,80 @@
+20#Influenece Lines#20.8#chapter 20 example 8#20_8.sce#866/CH20/EX20.8/20_8.sce#S##40154
+20#Influenece Lines#20.7#chapter 20 example 7#20_7.sce#866/CH20/EX20.7/20_7.sce#S##40153
+20#Influenece Lines#20.6#chapter 20 example 6#20_6.sce#866/CH20/EX20.6/20_6.sce#S##40152
+20#Influenece Lines#20.4#chapter 20 example 4#20_4.sce#866/CH20/EX20.4/20_4.sce#S##40151
+20#Influenece Lines#20.3#chapter 20 example 3#20_3.sce#866/CH20/EX20.3/20_3.sce#S##40150
+20#Influenece Lines#20.2#chapter 20 example 2#20_2.sce#866/CH20/EX20.2/20_2.sce#S##40149
+20#Influenece Lines#20.1#chapter 20 example 1#20_1.sce#866/CH20/EX20.1/20_1.sce#S##40148
+18#Plastic Analysis of Beams and Frames#18.7#chapter 18 example 7#18_7.sce#866/CH18/EX18.7/18_7.sce#S##40146
+18#Plastic Analysis of Beams and Frames#18.3#chapter 18 example 3#18_3.sce#866/CH18/EX18.3/18_3.sce#S##40147
+18#Plastic Analysis of Beams and Frames#18.2#chapter 18 example 2#18_2.sce#866/CH18/EX18.2/18_2.sce#S##40145
+18#Plastic Analysis of Beams and Frames#18.1#chapter 18 example 1#18_1.sce#866/CH18/EX18.1/18_1.sce#S##40144
+16#Analysis of Statically Indeterminate Structures#16.7#chapter 16 example 7#16_7.sce#866/CH16/EX16.7/16_7.sce#S##40140
+16#Analysis of Statically Indeterminate Structures#16.4#chapter 16 example 4#16_4.sce#866/CH16/EX16.4/16_4.sce#S##40139
+16#Analysis of Statically Indeterminate Structures#16.3#chapter 16 example 3#16_3.sce#866/CH16/EX16.3/16_3.sce#S##40138
+16#Analysis of Statically Indeterminate Structures#16.23#chapter 16 example 23#16_23.sce#866/CH16/EX16.23/16_23.sce#S##40828
+16#Analysis of Statically Indeterminate Structures#16.22#chapter 16 example 22#16_22.sce#866/CH16/EX16.22/16_22.sce#S##40827
+16#Analysis of Statically Indeterminate Structures#16.21#chapter 16 example 21#16_21.sce#866/CH16/EX16.21/16_21.sce#S##40825
+16#Analysis of Statically Indeterminate Structures#16.20#chapter 16 example 20#16_20.sce#866/CH16/EX16.20/16_20.sce#S##40143
+16#Analysis of Statically Indeterminate Structures#16.2#chapter 16 example 2#16_2.sce#866/CH16/EX16.2/16_2.sce#S##40137
+16#Analysis of Statically Indeterminate Structures#16.19#chapter 16 example 19#16_19.sce#866/CH16/EX16.19/16_19.sce#S##40142
+16#Analysis of Statically Indeterminate Structures#16.18#chapter 16 example 18#16_18.sce#866/CH16/EX16.18/16_18.sce#S##40826
+16#Analysis of Statically Indeterminate Structures#16.13#chapter 16 example 13#16_13.sce#866/CH16/EX16.13/16_13.sce#S##40141
+16#Analysis of Statically Indeterminate Structures#16.1#chapter 16 example 1#16_1.sce#866/CH16/EX16.1/16_1.sce#S##40136
+15#Virtual Work and Energy Methods#15.3#chapter 15 example 3#15_3.sce#866/CH15/EX15.3/15_3.sce#S##40135
+14#Complex stress and Strain#14.9#chapter 14 example 9#14_9.sce#866/CH14/EX14.9/14_9.sce#S##40133
+14#Complex stress and Strain#14.8#chapter 14 example 8#14_8.sce#866/CH14/EX14.8/14_8.sce#S##40132
+14#Complex stress and Strain#14.7#chapter 14 example 7#14_7.sce#866/CH14/EX14.7/14_7.sce#S##40131
+14#Complex stress and Strain#14.6#chapter 14 example 6#14_6.sce#866/CH14/EX14.6/14_6.sce#S##40130
+14#Complex stress and Strain#14.5#chapter 14 example 5#14_5.sce#866/CH14/EX14.5/14_5.sce#S##40129
+14#Complex stress and Strain#14.3#chapter 14 example 3#14_3.sce#866/CH14/EX14.3/14_3.sce#S##40128
+14#Complex stress and Strain#14.2#chapter 14 example 2#14_2.sce#866/CH14/EX14.2/14_2.sce#S##40127
+14#Complex stress and Strain#14.10#chapter 14 example 10#14_10.sce#866/CH14/EX14.10/14_10.sce#S##40134
+14#Complex stress and Strain#14.1#chapter 14 example 1#14_1.sce#866/CH14/EX14.1/14_1.sce#S##40126
+12#Composite Beams#12.9#chapter 12 example 9#12_9.sce#866/CH12/EX12.9/12_9.sce#S##40122
+12#Composite Beams#12.8#chapter 12 example 8#12_8.sce#866/CH12/EX12.8/12_8.sce#S##40123
+12#Composite Beams#12.7#chapter 12 example 7#12_7.sce#866/CH12/EX12.7/12_7.sce#S##40829
+12#Composite Beams#12.6#chapter 12 example 6#12_6.sce#866/CH12/EX12.6/12_6.sce#S##40119
+12#Composite Beams#12.5#chapter 12 example 5#12_5.sce#866/CH12/EX12.5/12_5.sce#S##40118
+12#Composite Beams#12.4#chapter 12 example 4#12_4.sce#866/CH12/EX12.4/12_4.sce#S##40117
+12#Composite Beams#12.3#chapter 12 example 3#12_3.sce#866/CH12/EX12.3/12_3.sce#S##40116
+12#Composite Beams#12.2#chapter 12 example 2#12_2.sce#866/CH12/EX12.2/12_2.sce#S##40115
+12#Composite Beams#12.11#chapter 12 example 11#12_11.sce#866/CH12/EX12.11/12_11.sce#S##40125
+12#Composite Beams#12.10#chapter 12 example 10#12_10.sce#866/CH12/EX12.10/12_10.sce#S##40830
+12#Composite Beams#12.1#chapter 12 example 1#12_1.sce#866/CH12/EX12.1/12_1.sce#S##40114
+11#Torsion of Beams#12.8#chapter 12 example 8#12_8.sce#866/CH11/EX12.8/12_8.sce#S##40121
+11#Torsion of Beams#11.2#chapter 11 example 2#11_2.sce#866/CH11/EX11.2/11_2.sce#S##40113
+11#Torsion of Beams#11.1#chapter 11 example 1#11_1.sce#866/CH11/EX11.1/11_1.sce#S##40112
+9#Bending of Beams#9.8#chapter 9 example 8#9_8.sce#866/CH9/EX9.8/9_8.sce#S##40111
+9#Bending of Beams#9.6#chapter 9 example 6#9_6.sce#866/CH9/EX9.6/9_6.sce#S##40110
+9#Bending of Beams#9.5#chapter 9 example 5#9_5.sce#866/CH9/EX9.5/9_5.sce#S##40109
+9#Bending of Beams#9.4#chapter 9 example 4#9_4.sce#866/CH9/EX9.4/9_4.sce#S##40108
+9#Bending of Beams#9.3#chapter 9 example 3#9_3.sce#866/CH9/EX9.3/9_3.sce#S##40107
+9#Bending of Beams#9.2#chapter 9 example 2#9_2.sce#866/CH9/EX9.2/9_2.sce#S##40106
+9#Bending of Beams#9.1#chapter 9 example 1#9_1.sce#866/CH9/EX9.1/9_1.sce#S##40105
+7#Stress and Strain#7.8#chapter 7 example 8#7_8.sce#866/CH7/EX7.8/7_8.sce#S##40104
+7#Stress and Strain#7.7#chapter 7 example 7#7_7.sce#866/CH7/EX7.7/7_7.sce#S##40103
+7#Stress and Strain#7.6#chapter 7 example 6#7_6.sce#866/CH7/EX7.6/7_6.sce#S##40087
+7#Stress and Strain#7.5#chapter 7 example 5#7_5.sce#866/CH7/EX7.5/7_5.sce#S##40078
+7#Stress and Strain#7.4#chapter 7 example 4#7_4.sce#866/CH7/EX7.4/7_4.sce#S##40077
+7#Stress and Strain#7.3#chapter 7 example 3#7_3.sce#866/CH7/EX7.3/7_3.sce#S##40075
+7#Stress and Strain#7.2#chapter 7 example 2#7_2.sce#866/CH7/EX7.2/7_2.sce#S##40073
+7#Stress and Strain#7.1#chapter 7 example 1#7_1.sce#866/CH7/EX7.1/7_1.sce#S##40072
+6#Arches#6.2#chapter 6 example 2#6_2.sce#866/CH6/EX6.2/6_2.sce#S##40067
+6#Arches#6.1#chapter 6 example 1#6_1.sce#866/CH6/EX6.1/6_1.sce#S##40066
+5#Cables#5.5#chapter 5 example 5#5_5.sce#866/CH5/EX5.5/5_5.sce#S##40062
+5#Cables#5.4#chapter 5 example 4#5_4.sce#866/CH5/EX5.4/5_4.sce#S##40060
+5#Cables#5.2#chapter 5 example 2#5_2.sce#866/CH5/EX5.2/5_2.sce#S##40057
+5#Cables#5.1#chapter 5 example 1#5_1.sce#866/CH5/EX5.1/5_1.sce#S##40055
+4#Analysis of Pin jointed Trusses#4.6#chapter 4 example 6#4_6.sce#866/CH4/EX4.6/4_6.sce#S##40054
+4#Analysis of Pin jointed Trusses#4.4#chapter 4 example 4#4_4.sce#866/CH4/EX4.4/4_4.sce#S##40052
+4#Analysis of Pin jointed Trusses#4.3#chapter 4 example 3#4_3.sce#866/CH4/EX4.3/4_3.sce#S##40049
+4#Analysis of Pin jointed Trusses#4.2#chapter 4 example 2#4_2.sce#866/CH4/EX4.2/4_2.sce#S##40046
+3#Normal Force Shear Force Bending Moment and Torsion#3.3#chapter 3 example 3#3_3.sce#866/CH3/EX3.3/3_3.sce#S##40042
+3#Normal Force Shear Force Bending Moment and Torsion#3.2#chapter 3 example 2#3_2.sce#866/CH3/EX3.2/3_2.sce#S##40040
+3#Normal Force Shear Force Bending Moment and Torsion#3.12#chapter 3 example 12#3_12.sce#866/CH3/EX3.12/3_12.sce#S##40043
+3#Normal Force Shear Force Bending Moment and Torsion#3.1#chapter 3 example 1#3_1.sce#866/CH3/EX3.1/3_1.sce#S##40039
+2#Principles of Statics#2.4#chapter 2 example 4#2_4.sce#866/CH2/EX2.4/2_4.sce#S##40035
+2#Principles of Statics#2.3#chapter 2 example 3#2_3.sce#866/CH2/EX2.3/2_3.sce#S##40034
+2#Principles of Statics#2.2#chapter 2 example 2#2_2.sce#866/CH2/EX2.2/2_2.sce#S##40031
+2#Principles of Statics#2.1#chapter 2 example 1#2_1.sce#866/CH2/EX2.1/2_1.sce#S##40030

@@ -1,0 +1,9 @@
+The minimum thickness = 996.4 A
+
+ alpha = 3.142 for MgF2 and 3.369 for lucite
+
+ For MgF2 : I = (0.000000)*I_0
+
+ For lucite : I = (0.052)*I_0
+
+For Lucite : (0.052)*I_0 , indicates 5.2 percentage  of the incident light is reflected ,so it is less suitable for coating. 

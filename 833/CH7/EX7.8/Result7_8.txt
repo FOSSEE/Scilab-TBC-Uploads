@@ -1,0 +1,11 @@
+(a)Armature current(in A)=   
+ 
+    19.391304  
+ 
+ (b)Current per armature path(in A)=   
+ 
+    4.8478261  
+ 
+ (c)E.M.F generated(in volts)=   
+ 
+    231.93913  

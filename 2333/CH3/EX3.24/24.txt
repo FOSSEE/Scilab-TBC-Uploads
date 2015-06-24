@@ -1,0 +1,4 @@
+# PROBLEM 24 # 
+ Standard formula used 
+ lambda/d_lambda = n*N  
+Visible orders are form 3 to 5.

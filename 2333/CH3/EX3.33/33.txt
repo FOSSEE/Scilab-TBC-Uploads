@@ -1,0 +1,5 @@
+# PROBLEM 33 # 
+ Standard formula used 
+ theta = 1.22*lambda/a  
+
+ Smallest angle between two stars is 2.401575e-07 rad.

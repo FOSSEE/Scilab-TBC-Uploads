@@ -1,0 +1,12 @@
+ Magnetising component of no load current (in Amp)=   
+ 
+    14.696938  
+ 
+ the iron loss in transformer(in kWatt)=   
+ 
+    1.38  
+ 
+ the maximum value of flux in the core(in Wb)=   
+ 
+    0.0037674  
+ 

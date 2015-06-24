@@ -1,0 +1,12 @@
+ 
+ example 13.1   
+ 
+ a   
+ p.u.feeder reactor 0.124p.u 
+ total reactance is 0.174p.u 
+ short circuit kVA 17244kVA 
+ short circuit current 1567.7A 
+ b   
+ generator impedence 4.033ohm 
+ total impedence 7.017 ohm 
+ short circuit current 1567.7A 

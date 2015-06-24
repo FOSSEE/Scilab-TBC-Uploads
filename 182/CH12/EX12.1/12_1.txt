@@ -1,0 +1,5 @@
+
+1.accuracy as a percentage of reading for scale reading 10= -5.0
+  accuracy as a percentage of full scale= -0.5
+  accuracy as a percentage of reading for scale reading 50= 3.4
+  accuracy as a percentage of full scale= 1.7

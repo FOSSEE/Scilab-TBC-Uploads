@@ -1,0 +1,12 @@
+ Full load primary current(in Amp)=   
+ 
+    30.30303  
+ 
+ Full load secondary current(in Amp)=   
+ 
+    500.  
+ 
+ Number of primary turns=   
+ 
+    1650.  
+ 

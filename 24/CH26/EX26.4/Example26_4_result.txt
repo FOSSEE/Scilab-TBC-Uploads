@@ -1,0 +1,5 @@
+**Sample Problem 26-4a**
+The electric energy stored is equal to 1.025525e-007J
+
+**Sample Problem 26-4b**
+The energy density is equal to 2.539012e-005J/m^3 

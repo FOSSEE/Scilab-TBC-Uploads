@@ -1,0 +1,12 @@
+Let base kVA be 7500 kVA 
+% reactance of generator A = 17.50 % 
+
+% reactance of generator B = 13.33 % 
+
+% reactance of transformer = 7.50 % 
+
+% reactance of the bus bar = 7.24 % 
+
+% reactance in ohms = 0.105 ohms 
+
+ 

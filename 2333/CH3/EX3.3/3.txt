@@ -1,0 +1,5 @@
+ # PROBLEM 3 # 
+ Standard formula used 
+ lambda = e*sin(theta)  
+
+ Width of slit is 1.000000e-04cm.

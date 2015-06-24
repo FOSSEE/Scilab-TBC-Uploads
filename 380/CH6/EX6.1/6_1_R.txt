@@ -1,0 +1,19 @@
+ (a) armature current at rated load (in Amperes)=   
+ 
+    50.  
+ 
+ (b) Efficiency at full load (%)=   
+ 
+    67.818182  
+ 
+ (c) no. of turns per pole=   
+ 
+    3.  
+ 
+ (d) new speed of motor (in rpm)=   
+ 
+    2711.  
+ 
+ driving torque (in Newton-meter)=   
+ 
+    11.939102  

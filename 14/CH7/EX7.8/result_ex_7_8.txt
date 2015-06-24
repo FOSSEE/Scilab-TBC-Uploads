@@ -1,0 +1,40 @@
+ 1X1 bus impedance matrix with bus 1 and reference bus   
+ 
+    1.2i  
+ 
+ After establishing bus 2   
+ 
+    1.2i    1.2i  
+    1.2i    1.4i  
+ 
+ Connecting a impedance between bus 3 and 1   
+ 
+    1.2i    1.2i    1.2i  
+    1.2i    1.4i    1.2i  
+    1.2i    1.2i    1.5i  
+ 
+ After adding impedance from bus 3 to reference   
+ 
+    1.2i    1.2i    1.2i    1.2i  
+    1.2i    1.4i    1.2i    1.2i  
+    1.2i    1.2i    1.5i    1.5i  
+    1.2i    1.2i    1.5i    3.i   
+ 
+ After elemination of 4th row and column   
+ 
+    0.72i    0.72i    0.6i   
+    0.72i    0.92i    0.6i   
+    0.6i     0.6i     0.75i  
+ 
+ After adding impedance between buses 2 and 3   
+ 
+    0.72i    0.72i    0.6i     0.12i  
+    0.72i    0.92i    0.6i     0.32i  
+    0.6i     0.6i     0.75i  - 0.15i  
+    0.12i    0.32i  - 0.15i    0.62i  
+ 
+ The Bus Impedance Matrix is   
+ 
+    0.6967742i    0.6580645i    0.6290323i  
+    0.6580645i    0.7548387i    0.6774194i  
+    0.6290323i    0.6774194i    0.7137097i  

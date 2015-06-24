@@ -1,0 +1,7 @@
+i)Entropy of system 
+
+ 	  H=1.9375 bits/message
+
+ 	 ii)Information rate
+ 
+	 R = 31 bits/sec 

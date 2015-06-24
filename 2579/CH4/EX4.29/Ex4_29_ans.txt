@@ -1,0 +1,2 @@
+ The beamwidth = 0.840000 degree
+ The gain in dB = 52.218487 dB

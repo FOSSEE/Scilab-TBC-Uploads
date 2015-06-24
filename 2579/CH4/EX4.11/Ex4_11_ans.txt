@@ -1,0 +1,6 @@
+ A=pi*a^2=pi(y/25)^2=pi*y^2/625
+ Rr=31171.2*(A/y^2)^2
+ and finally, Rr=(31171.2*pi^2)/(625^2)
+ The radiation resistance for single turn = 0.787577 ohm
+ The radiation resistance for turn loop = 64.581345 ohm
+ The answer is wronge in the given textbook

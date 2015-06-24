@@ -1,0 +1,6 @@
+ # PROBLEM 10 # 
+Standard formula used 
+ lambda_min = 12400/V 
+
+ Applied voltage to get wavelength of 4.000000e-11 meter is 31.000000 KV. 
+ Applied voltage to get wavelength of 1.000000e-10 meter is 12.400000 KV.

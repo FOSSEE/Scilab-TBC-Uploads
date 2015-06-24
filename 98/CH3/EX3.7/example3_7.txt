@@ -1,0 +1,10 @@
+
+Maximum demand on supply system = 10000.0 kW 
+
+Connected domestic load = 2250.0 kW 
+
+Connected commercial load = 2444.4 kW 
+
+Connected industrial load = 12500.0 kW 
+
+

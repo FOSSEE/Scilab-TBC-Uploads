@@ -1,0 +1,1 @@
+collector-to-ground voltage is 6.4 volts

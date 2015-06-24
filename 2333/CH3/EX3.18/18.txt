@@ -1,0 +1,5 @@
+# PROBLEM 18 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N  
+
+ Number of lines per unit centimeter is 5000 lines/cm.

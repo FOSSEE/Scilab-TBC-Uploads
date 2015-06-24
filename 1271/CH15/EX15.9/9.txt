@@ -1,0 +1,5 @@
+ # PROBLEM 9 # 
+Standard formula used 
+ del_x*del_p = h/(4*pi) 
+
+ Uncertainty in determining the position is 8.771276e-06 m.

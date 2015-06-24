@@ -1,0 +1,6 @@
+code efficiency = 46.90  %   
+
+
+code redundancy = 53.10  %   
+             
+ 

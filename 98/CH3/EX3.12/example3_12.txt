@@ -1,0 +1,17 @@
+Max demand of customer 1 = 800 W 
+
+Load factor of customer 1 = 45.83 % 
+
+Max demand of customer 2 = 1000 W 
+
+Load factor of customer 2 = 16.67 % 
+
+Max demand of customer 3 = 1200 W 
+
+Load factor of customer 3 = 13.89 % 
+
+Diversity factor = 1.25 
+
+Station load factor = 29.17 % 
+
+

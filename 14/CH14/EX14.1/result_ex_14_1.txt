@@ -1,0 +1,7 @@
+ The inertia constant in MJ/MVA is   
+ 
+    3.2672725  
+ 
+ Converting H to a 100-MVA system base,units in MJ/MVA   
+ 
+    43.552742  

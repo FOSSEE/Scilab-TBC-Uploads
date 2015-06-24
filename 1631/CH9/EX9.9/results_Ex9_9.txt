@@ -1,0 +1,11 @@
+  Entropy 
+ 
+	  i) H(X) = 1.85 bits/symbol,
+ 
+  Amount of information 
+ 
+	 ii) I(x1x2x1x3) = 6.70 bits/symbol,
+ 
+ 	 
+ 	 I(x4x3x3x2) = 9.70 bits/symbol.
+ 

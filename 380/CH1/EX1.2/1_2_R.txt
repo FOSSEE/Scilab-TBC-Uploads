@@ -1,0 +1,10 @@
+  
+ v(t)=14.142cos1000t   
+ 
+ magnitude of current (in Amperes)   
+ 
+    1.9999808  
+ 
+ phase of current (in Degrees)   
+ 
+    53.13010

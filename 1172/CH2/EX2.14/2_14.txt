@@ -1,0 +1,3 @@
+
+ # Problem 14 # 
+ Amplitude of electrical and magnetic vectors are given as 1027.170320 V/m and 2.725935 A/m

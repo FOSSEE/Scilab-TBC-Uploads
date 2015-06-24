@@ -1,0 +1,2 @@
+**Sample Problem 30-3**
+The magnetic field at x=r is 2.042035e-005T 

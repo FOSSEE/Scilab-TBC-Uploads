@@ -1,0 +1,3 @@
+ 
+ frequency deviation = 0.017453 KHz 
+ Execution done.

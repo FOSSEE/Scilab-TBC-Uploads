@@ -1,0 +1,107 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example3.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            21   
+ 
+ Chapter Title                         :                                Advanced Shell Programming   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 3    :               Show the method of using eval in the shellscripts 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+4. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the shellscript file whichever you desire  
+
+ #!/bin/sh
+# Script: dentry2.sh - Uses eval and shell functions
+#
+trap 'echo "Program interrupted";exit' HUP INT TERM
+. mainfunc.sh               # Invokes functions valid_string() and anymore ()
+
+prompt1="Employee id : " ; prompt2="Name : "; prompt3="Designation : "
+prompt4="Department : " ; prompt5="Date birth : ";prompt6="Basic pay : "
+rekord=
+
+flname=`valid_string "Enter the output filename: " 8`
+while true ; do
+    while [ ${x:=1} -le 6 ] ; do       # x first set to 1
+         eval echo \$prompt$x '\\c' 1>&2
+         read value$x
+         rekord="${rekord}`eval echo \\$value$x`|"
+         x=`expr $x + 1`
+     done
+     echo "$rekord"
+     anymore "More entries to add" 1&>2 || break
+done > $flname
+
+anymore() {
+     echo "\n$1 ?(y/n) : \c" 1>&2
+     read response
+     case "$response" in
+          y/Y) echo 1>&2 ; return 0 ;;
+            *) return 1 ;;
+     esac
+}
+ 
+# type the following command in the command line interpreter as soon as it appears 
+       "  h.sh     "[ENTER]
+
+
+$ h.sh             #to execute the perlscript 
+
+
+   ---------------->Executing ShellScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

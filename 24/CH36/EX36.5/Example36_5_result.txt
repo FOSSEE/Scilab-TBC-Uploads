@@ -1,0 +1,2 @@
+**Sample Problem 36-5**
+The minimum value of wavelength possible is 99.64nm 

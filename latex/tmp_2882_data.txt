@@ -1,0 +1,181 @@
+14#Operational Amplifiers#14.9#Calculation of closed loop voltage gain and input and output impedances for given operational amplifier#Ex14_9.sce#2882/CH14/EX14.9/Ex14_9.sce#S##110680
+14#Operational Amplifiers#14.8#Calculation of input and output impedances for given operational amplifier#Ex14_8.sce#2882/CH14/EX14.8/Ex14_8.sce#S##110679
+14#Operational Amplifiers#14.7#Calculation of feedback resistance for given opamp closed loop amplifier#Ex14_7.sce#2882/CH14/EX14.7/Ex14_7.sce#S##110683
+14#Operational Amplifiers#14.6#Calculation of slew rate for given operational amplifier#Ex14_6.sce#2882/CH14/EX14.6/Ex14_6.sce#S##110675
+14#Operational Amplifiers#14.5#Calculation of CMRR in dB units for given operational amplifier#Ex14_5.sce#2882/CH14/EX14.5/Ex14_5.sce#S##110678
+14#Operational Amplifiers#14.4#Calculation of common mode gain for a balanced differential amplifier#Ex14_4.sce#2882/CH14/EX14.4/Ex14_4.sce#S##110677
+14#Operational Amplifiers#14.3#Calculation of output common mode voltage for given balanced differential amplifier#Ex14_3.sce#2882/CH14/EX14.3/Ex14_3.sce#S##110676
+14#Operational Amplifiers#14.2#Calculation of input and output common mode voltage for given balanced differential amplifier#Ex14_2.sce#2882/CH14/EX14.2/Ex14_2.sce#S##110674
+14#Operational Amplifiers#14.14#Calculation of output voltage for given conditions in a summer circuit#Ex14_14.sce#2882/CH14/EX14.14/Ex14_14.sce#S##110685
+14#Operational Amplifiers#14.13#Calculation of output voltage for given conditions in a summer circuit#Ex14_13.sce#2882/CH14/EX14.13/Ex14_13.sce#S##110684
+14#Operational Amplifiers#14.11#Calculation of oscillation frequency and feedback resistance for given phase shift oscillator#Ex14_11.sce#2882/CH14/EX14.11/Ex14_11.sce#S##110682
+14#Operational Amplifiers#14.10#Calculation of input and output impedances for given operational amplifier voltage follower#Ex14_10.sce#2882/CH14/EX14.10/Ex14_10.sce#S##110681
+14#Operational Amplifiers#14.1#Calculation of output voltage for a balanced differential amplifier#Ex14_1.sce#2882/CH14/EX14.1/Ex14_1.sce#S##110673
+13#Integrated Circuits#13.1#Design of diffused resistors of given value#Ex13_1.sce#2882/CH13/EX13.1/Ex13_1.sce#S##110672
+12#Modulation and Demodulation#12.9#Calculation of maximum carrier power for given transmission of AM wave#Ex12_9.sce#2882/CH12/EX12.9/Ex12_9.sce#S##110666
+12#Modulation and Demodulation#12.8#Calculation of required audio power for given AM signal#Ex12_8.sce#2882/CH12/EX12.8/Ex12_8.sce#S##110668
+12#Modulation and Demodulation#12.7#Calculation of the modulation index for given transmitter currents#Ex12_7.sce#2882/CH12/EX12.7/Ex12_7.sce#S##110671
+12#Modulation and Demodulation#12.6#Plot of frequency spectrum and calculation of modulation index for AM wave#Ex12_6.sce#2882/CH12/EX12.6/Ex12_6.sce#S##110664
+12#Modulation and Demodulation#12.6#Plot of frequency spectrum and calculation of modulation index for AM wave#12_6.pdf#2882/CH12/EX12.6/12_6.pdf#R##102923
+12#Modulation and Demodulation#12.4#Calculation of the modulation index and side lengths ratio for given trapezoidal pattern AM wave#Ex12_4.sce#2882/CH12/EX12.4/Ex12_4.sce#S##110665
+12#Modulation and Demodulation#12.3#Calculation of power developed by AM wave#Ex12_3.sce#2882/CH12/EX12.3/Ex12_3.sce#S##110663
+12#Modulation and Demodulation#12.2#Calculations of sideband parameters and width for given AM wave#Ex12_2.sce#2882/CH12/EX12.2/Ex12_2.sce#S##110662
+12#Modulation and Demodulation#12.12#Calculation of average power output for a FM signal#Ex12_12.sce#2882/CH12/EX12.12/Ex12_12.sce#S##110669
+12#Modulation and Demodulation#12.11#Calculation of bandwidth for given FM wave transmission#Ex12_11.sce#2882/CH12/EX12.11/Ex12_11.sce#S##110670
+12#Modulation and Demodulation#12.10#Calculation of modulation index for given FM transmission#Ex12_10.sce#2882/CH12/EX12.10/Ex12_10.sce#S##110667
+12#Modulation and Demodulation#12.1#Calculation of percentage modulation and amplitude of carrier wave for given AM wave#Ex12_1.sce#2882/CH12/EX12.1/Ex12_1.sce#S##110661
+11#Oscillators and Multivibrators#11.7#Calculation of oscillation frequency for astable mutivibrator with given parameters#Ex11_7.sce#2882/CH11/EX11.7/Ex11_7.sce#S##110658
+11#Oscillators and Multivibrators#11.6#Calculation of oscillation frequency for Wien Bridge oscillator#Ex11_6.sce#2882/CH11/EX11.6/Ex11_6.sce#S##110660
+11#Oscillators and Multivibrators#11.5#Calculation of oscillation frequency and feedback resistance for given OPAMP oscillator#Ex11_5.sce#2882/CH11/EX11.5/Ex11_5.sce#S##110657
+11#Oscillators and Multivibrators#11.4#Calculation of frequency of oscillations for given oscillator circuit#Ex11_4.sce#2882/CH11/EX11.4/Ex11_4.sce#S##110656
+11#Oscillators and Multivibrators#11.3#Calculation of Q value for a crystal oscillator with given parameters#Ex11_3.sce#2882/CH11/EX11.3/Ex11_3.sce#S##110655
+11#Oscillators and Multivibrators#11.2#Calculation of frequency of oscillations for given circuit and Q values#Ex11_2.sce#2882/CH11/EX11.2/Ex11_2.sce#S##110654
+11#Oscillators and Multivibrators#11.1#Calculation of frequency of oscillations for Colpitts oscillator#Ex11_1.sce#2882/CH11/EX11.1/Ex11_1.sce#S##110659
+10#Feedback in Amplifiers#10.9#Calculation of open and closed loop gain for given amplifier circuit#Ex10_9.sce#2882/CH10/EX10.9/Ex10_9.sce#S##110647
+10#Feedback in Amplifiers#10.8#Calculation of open and closed loop gain for given FET amplifier#Ex10_8.sce#2882/CH10/EX10.8/Ex10_8.sce#S##110646
+10#Feedback in Amplifiers#10.7#Calculation of bandwidth after introduction of feedback in an amplifier#Ex10_7.sce#2882/CH10/EX10.7/Ex10_7.sce#S##110645
+10#Feedback in Amplifiers#10.6#Calculation of first stage gain and second harmonic distortion for a closed loop amplifier#Ex10_6.sce#2882/CH10/EX10.6/Ex10_6.sce#S##110651
+10#Feedback in Amplifiers#10.5#Calculation of output voltage and distortion voltage for given closed loop amplifier#Ex10_5.sce#2882/CH10/EX10.5/Ex10_5.sce#S##110644
+10#Feedback in Amplifiers#10.4#Calculation of variation in closed loop gain with variation in open loop gain#Ex10_4.sce#2882/CH10/EX10.4/Ex10_4.sce#S##110643
+10#Feedback in Amplifiers#10.3#Calculation of variation in closed loop gain with variation in open loop gain#Ex10_3.sce#2882/CH10/EX10.3/Ex10_3.sce#S##110642
+10#Feedback in Amplifiers#10.2#Calculation of feedback parameters and output voltage for given amplifier#Ex10_2.sce#2882/CH10/EX10.2/Ex10_2.sce#S##110641
+10#Feedback in Amplifiers#10.14#Calculation of upper cutoff frequency after introduction of negative feedback in an amplifier#Ex10_14.sce#2882/CH10/EX10.14/Ex10_14.sce#S##110653
+10#Feedback in Amplifiers#10.13#Calculation of lower cutoff frequency after introduction of negative feedback in an amplifier#Ex10_13.sce#2882/CH10/EX10.13/Ex10_13.sce#S##110652
+10#Feedback in Amplifiers#10.12#Calculation of closed loop gain and feedback transfer ratio for given amplifier#Ex10_12.sce#2882/CH10/EX10.12/Ex10_12.sce#S##110650
+10#Feedback in Amplifiers#10.11#Calculation of closed loop gain for given amplifier circuit#Ex10_11.sce#2882/CH10/EX10.11/Ex10_11.sce#S##110649
+10#Feedback in Amplifiers#10.10#Calculation of open and closed loop gain for given amplifier circuit#Ex10_10.sce#2882/CH10/EX10.10/Ex10_10.sce#S##110648
+10#Feedback in Amplifiers#10.1#Calculation of closed loop gain and feedback factor for given amplifier#Ex10_1.sce#2882/CH10/EX10.1/Ex10_1.sce#S##110640
+9#Frequency Response of Amplifiers#9.9#Design of input RC network and calculation of cutoff frequency for a given amplifier#Ex9_9.sce#2882/CH9/EX9.9/Ex9_9.sce#S##110626
+9#Frequency Response of Amplifiers#9.8#Plot of total frequency response for given amplifier#Ex9_8.sce#2882/CH9/EX9.8/Ex9_8.sce#S##110628
+9#Frequency Response of Amplifiers#9.8#Plot of total frequency response for given amplifier#9_8.pdf#2882/CH9/EX9.8/9_8.pdf#R##102885
+9#Frequency Response of Amplifiers#9.7#Calculation of corner frequency for a given bypass network#Ex9_7.sce#2882/CH9/EX9.7/Ex9_7.sce#S##110625
+9#Frequency Response of Amplifiers#9.6#Calculation of critical frequency for a given bypass network#Ex9_6.sce#2882/CH9/EX9.6/Ex9_6.sce#S##110627
+9#Frequency Response of Amplifiers#9.5#Calculation of input voltage and power required for given amplifier parameters#Ex9_5.sce#2882/CH9/EX9.5/Ex9_5.sce#S##110630
+9#Frequency Response of Amplifiers#9.4#Calculation of gain magnitude from dB units#Ex9_4.sce#2882/CH9/EX9.4/Ex9_4.sce#S##110624
+9#Frequency Response of Amplifiers#9.3#Calculation of input and output miller capacitances for given amplifier circuit#Ex9_3.sce#2882/CH9/EX9.3/Ex9_3.sce#S##110623
+9#Frequency Response of Amplifiers#9.2#Calculation of input and output miller capacitances for given amplifier circuit#Ex9_2.sce#2882/CH9/EX9.2/Ex9_2.sce#S##110622
+9#Frequency Response of Amplifiers#9.19#Design of output RC network and calculation of cutoff frequency for a given amplifier#Ex9_19.sce#2882/CH9/EX9.19/Ex9_19.sce#S##110639
+9#Frequency Response of Amplifiers#9.18#Design of input RC network and calculation of cutoff frequency for a given amplifier#Ex9_18.sce#2882/CH9/EX9.18/Ex9_18.sce#S##110637
+9#Frequency Response of Amplifiers#9.17#Design of input RC network and calculation of cutoff frequency for a given amplifier#Ex9_17.sce#2882/CH9/EX9.17/Ex9_17.sce#S##110638
+9#Frequency Response of Amplifiers#9.16#Calculation of Cgd Cds and Cgs for 2N3796 using datasheet values#Ex9_16.sce#2882/CH9/EX9.16/Ex9_16.sce#S##110634
+9#Frequency Response of Amplifiers#9.15#Determination of cutoff frequency for given output RC network#Ex9_15.sce#2882/CH9/EX9.15/Ex9_15.sce#S##110636
+9#Frequency Response of Amplifiers#9.14#Determination of cutoff frequency for given input RC network#Ex9_14.sce#2882/CH9/EX9.14/Ex9_14.sce#S##110631
+9#Frequency Response of Amplifiers#9.13#Calculation of bandwidth of an amplifier for given transition frequency and midband gain#Ex9_13.sce#2882/CH9/EX9.13/Ex9_13.sce#S##110635
+9#Frequency Response of Amplifiers#9.12#Calculation of bandwidth of an amplifier for given cutoff frequencies#Ex9_12.sce#2882/CH9/EX9.12/Ex9_12.sce#S##110633
+9#Frequency Response of Amplifiers#9.11#Design of output RC network and calculation of critical frequency for a given amplifier#Ex9_11.sce#2882/CH9/EX9.11/Ex9_11.sce#S##110632
+9#Frequency Response of Amplifiers#9.10#Calculation of phase shift of input RC network of a given amplifier#Ex9_10.sce#2882/CH9/EX9.10/Ex9_10.sce#S##110629
+9#Frequency Response of Amplifiers#9.1#Calculation of voltage and power gains in dB units#Ex9_1.sce#2882/CH9/EX9.1/Ex9_1.sce#S##110621
+8#Power Amplifiers#8.9#Calculation of output power for given amplifier circuit#Ex8_9.sce#2882/CH8/EX8.9/Ex8_9.sce#S##110615
+8#Power Amplifiers#8.8#Calculation of harmonic distortion and increase in power due to it for an amplifier#Ex8_8.sce#2882/CH8/EX8.8/Ex8_8.sce#S##110614
+8#Power Amplifiers#8.7#Calculation of input and output powers and efficiency for given amplifier circuit#Ex8_7.sce#2882/CH8/EX8.7/Ex8_7.sce#S##110613
+8#Power Amplifiers#8.6#Calculation of maximum load power of amplifier#Ex8_6.sce#2882/CH8/EX8.6/Ex8_6.sce#S##110612
+8#Power Amplifiers#8.5#Calculation of power parameters and efficiency of transistor#Ex8_5.sce#2882/CH8/EX8.5/Ex8_5.sce#S##110611
+8#Power Amplifiers#8.4#Calculation of turns ratio of a transformer for given parameters#Ex8_4.sce#2882/CH8/EX8.4/Ex8_4.sce#S##110610
+8#Power Amplifiers#8.3#Calculation of effective resistance at primary of transformer#Ex8_3.sce#2882/CH8/EX8.3/Ex8_3.sce#S##110609
+8#Power Amplifiers#8.2#Calculation of ac output voltage and current for given circuit#Ex8_2.sce#2882/CH8/EX8.2/Ex8_2.sce#S##110608
+8#Power Amplifiers#8.14#Calculation of efficiency of complementary symmetry amplifier for given parameters#Ex8_14.sce#2882/CH8/EX8.14/Ex8_14.sce#S##110620
+8#Power Amplifiers#8.13#Calculation of supplied and collector dissipated power for an amplifier#Ex8_13.sce#2882/CH8/EX8.13/Ex8_13.sce#S##110619
+8#Power Amplifiers#8.12#Calculation of turns ratio of a transformer for given parameters#Ex8_12.sce#2882/CH8/EX8.12/Ex8_12.sce#S##110618
+8#Power Amplifiers#8.11#Calculation of maximum load power of amplifier for given VCC and RL#Ex8_11.sce#2882/CH8/EX8.11/Ex8_11.sce#S##110617
+8#Power Amplifiers#8.10#Calculation of maximum efficiency for an inductor coupled amplifier#Ex8_10.sce#2882/CH8/EX8.10/Ex8_10.sce#S##110616
+8#Power Amplifiers#8.1#Calculation of maximum collector current for given VCC and PD#Ex8_1.sce#2882/CH8/EX8.1/Ex8_1.sce#S##110607
+7#Field Effect Transistors#7.9#Calculation of voltage gain for given circuit parameters#Ex7_9.sce#2882/CH7/EX7.9/Ex7_9.sce#S##110596
+7#Field Effect Transistors#7.8#Calculation of circuit parameters for given circuit#Ex7_8.sce#2882/CH7/EX7.8/Ex7_8.sce#S##110595
+7#Field Effect Transistors#7.7#Calculation of circuit parameters for given circuit#Ex7_7.sce#2882/CH7/EX7.7/Ex7_7.sce#S##110594
+7#Field Effect Transistors#7.6#Calculation of circuit parameters for given circuit#Ex7_6.sce#2882/CH7/EX7.6/Ex7_6.sce#S##110593
+7#Field Effect Transistors#7.5#Calculation of circuit parameters for given circuit#Ex7_5.sce#2882/CH7/EX7.5/Ex7_5.sce#S##110592
+7#Field Effect Transistors#7.4#Calculation of drain current for given circuit specifications#Ex7_4.sce#2882/CH7/EX7.4/Ex7_4.sce#S##110591
+7#Field Effect Transistors#7.3#Calculation of drain current and transconductances for given circuit specifications#Ex7_3.sce#2882/CH7/EX7.3/Ex7_3.sce#S##110590
+7#Field Effect Transistors#7.2#Calculation of drain current and transconductance for given circuit specifications#Ex7_2.sce#2882/CH7/EX7.2/Ex7_2.sce#S##110589
+7#Field Effect Transistors#7.19#Calculation of VDS for given circuit parameters#Ex7_19.sce#2882/CH7/EX7.19/Ex7_19.sce#S##110606
+7#Field Effect Transistors#7.18#Calculation of VDS for given E MOSFET circuit parameters#Ex7_18.sce#2882/CH7/EX7.18/Ex7_18.sce#S##110605
+7#Field Effect Transistors#7.17#Calculation of VDS for given D MOSFET circuit parameters#Ex7_17.sce#2882/CH7/EX7.17/Ex7_17.sce#S##110604
+7#Field Effect Transistors#7.16#Calculation of VGS and VDS for given circuit parameters#Ex7_16.sce#2882/CH7/EX7.16/Ex7_16.sce#S##110603
+7#Field Effect Transistors#7.15#Determination of n channel or p channel D MOSFET using circuit specifications#Ex7_15.sce#2882/CH7/EX7.15/Ex7_15.sce#S##110602
+7#Field Effect Transistors#7.14#Calculation of drain current for given circuit specifications#Ex7_14.sce#2882/CH7/EX7.14/Ex7_14.sce#S##110601
+7#Field Effect Transistors#7.13#Calculation of circuit parameters for given circuit#Ex7_13.sce#2882/CH7/EX7.13/Ex7_13.sce#S##110600
+7#Field Effect Transistors#7.12#Calculation of voltage gain for given circuit parameters#Ex7_12.sce#2882/CH7/EX7.12/Ex7_12.sce#S##110599
+7#Field Effect Transistors#7.11#Calculation of voltage gain for given circuit parameters#Ex7_11.sce#2882/CH7/EX7.11/Ex7_11.sce#S##110598
+7#Field Effect Transistors#7.10#Calculation of voltage gain for given circuit parameters#Ex7_10.sce#2882/CH7/EX7.10/Ex7_10.sce#S##110597
+7#Field Effect Transistors#7.1#Calculation of drain current for given circuit specifications#Ex7_1.sce#2882/CH7/EX7.1/Ex7_1.sce#S##110588
+6#Single Stage BJT Amplifiers#6.9#Calculations of specific gains and impedances for given CC amplifier#Ex6_9.sce#2882/CH6/EX6.9/Ex6_9.sce#S##110581
+6#Single Stage BJT Amplifiers#6.8#Calculation of current gain and power gain for given circuit#Ex6_8.sce#2882/CH6/EX6.8/Ex6_8.sce#S##110580
+6#Single Stage BJT Amplifiers#6.7#Calculation of output voltage for given value of load resistances#Ex6_7.sce#2882/CH6/EX6.7/Ex6_7.sce#S##110579
+6#Single Stage BJT Amplifiers#6.6#Calculation of output voltage for given circuit#Ex6_6.sce#2882/CH6/EX6.6/Ex6_6.sce#S##110578
+6#Single Stage BJT Amplifiers#6.6#Calculation of output voltage for given circuit#6_6.pdf#2882/CH6/EX6.6/6_6.pdf#R##102835
+6#Single Stage BJT Amplifiers#6.5#Calculations of specific gains for given circuit parameters#Ex6_5.sce#2882/CH6/EX6.5/Ex6_5.sce#S##110577
+6#Single Stage BJT Amplifiers#6.4#Calculation of base to collector gain for given conditions of RE#Ex6_4.sce#2882/CH6/EX6.4/Ex6_4.sce#S##110576
+6#Single Stage BJT Amplifiers#6.3#Calculation of base voltage for given circuit parameters#Ex6_3.sce#2882/CH6/EX6.3/Ex6_3.sce#S##110575
+6#Single Stage BJT Amplifiers#6.2#DC and AC analysis of given circuit#Ex6_2.sce#2882/CH6/EX6.2/Ex6_2.sce#S##110574
+6#Single Stage BJT Amplifiers#6.15#Calculation of ac output impedances and voltage gain for given circuit#Ex6_15.sce#2882/CH6/EX6.15/Ex6_15.sce#S##110587
+6#Single Stage BJT Amplifiers#6.14#Calculation of base current and ac current gain for given circuit#Ex6_14.sce#2882/CH6/EX6.14/Ex6_14.sce#S##110586
+6#Single Stage BJT Amplifiers#6.13#Calculation of input impedances for given circuit#Ex6_13.sce#2882/CH6/EX6.13/Ex6_13.sce#S##110585
+6#Single Stage BJT Amplifiers#6.12#Calculation dc bias voltages and currents for given circuits#Ex6_12.sce#2882/CH6/EX6.12/Ex6_12.sce#S##110584
+6#Single Stage BJT Amplifiers#6.11#Calculation of current gain for a superbeta transistor#Ex6_11.sce#2882/CH6/EX6.11/Ex6_11.sce#S##110583
+6#Single Stage BJT Amplifiers#6.10#Calculations of specific gains and impedances for given CB amplifier#Ex6_10.sce#2882/CH6/EX6.10/Ex6_10.sce#S##110582
+6#Single Stage BJT Amplifiers#6.1#Plot of DC and AC load lines for given circuit#6_1.pdf#2882/CH6/EX6.1/6_1.pdf#R##101728
+6#Single Stage BJT Amplifiers#6.1#Plot of DC and AC load lines for given circuit#Ex6_1.sce#2882/CH6/EX6.1/Ex6_1.sce#S##110573
+5#Bipolar Transistor Biasing#5.9#Calcualtion of dc level of IB and VC for given circuit#Ex5_9.sce#2882/CH5/EX5.9/Ex5_9.sce#S##110555
+5#Bipolar Transistor Biasing#5.8#Calculation of Q point for given circuit and given beta#Ex5_8.sce#2882/CH5/EX5.8/Ex5_8.sce#S##110563
+5#Bipolar Transistor Biasing#5.7#Calculation of Q point for given circuit#Ex5_7.sce#2882/CH5/EX5.7/Ex5_7.sce#S##110562
+5#Bipolar Transistor Biasing#5.6#Calculation of stability factors for given circuit#Ex5_6.sce#2882/CH5/EX5.6/Ex5_6.sce#S##110564
+5#Bipolar Transistor Biasing#5.5#Calculation of Q point for given dc bias circuit#Ex5_5.sce#2882/CH5/EX5.5/Ex5_5.sce#S##110561
+5#Bipolar Transistor Biasing#5.4#Calculation of parameters for emitter biased circuit#Ex5_4.sce#2882/CH5/EX5.4/Ex5_4.sce#S##110560
+5#Bipolar Transistor Biasing#5.3#Calculation of Vcc and given resistances for the load line and Q point given#Ex5_3.sce#2882/CH5/EX5.3/Ex5_3.sce#S##110559
+5#Bipolar Transistor Biasing#5.2#Calculation of saturation current for given figure#Ex5_2.sce#2882/CH5/EX5.2/Ex5_2.sce#S##110558
+5#Bipolar Transistor Biasing#5.18#Calculation of given parameters for circuit and stated parameters#Ex5_18.sce#2882/CH5/EX5.18/Ex5_18.sce#S##110572
+5#Bipolar Transistor Biasing#5.17#Calculation of unknown resistances for the given circuit and parameters#Ex5_17.sce#2882/CH5/EX5.17/Ex5_17.sce#S##110571
+5#Bipolar Transistor Biasing#5.16#Calculation of Q point and stability factors for given circuit and parameters#Ex5_16.sce#2882/CH5/EX5.16/Ex5_16.sce#S##110570
+5#Bipolar Transistor Biasing#5.15#Calculation of Q point for given circuit and given beta#Ex5_15.sce#2882/CH5/EX5.15/Ex5_15.sce#S##110569
+5#Bipolar Transistor Biasing#5.14#Calculation of Q point for given circuit#Ex5_14.sce#2882/CH5/EX5.14/Ex5_14.sce#S##110568
+5#Bipolar Transistor Biasing#5.13#Calculation of stability factors for given circuit and parameters#Ex5_13.sce#2882/CH5/EX5.13/Ex5_13.sce#S##110567
+5#Bipolar Transistor Biasing#5.12#Calculation of stability factor for given circuit and load#Ex5_12.sce#2882/CH5/EX5.12/Ex5_12.sce#S##110566
+5#Bipolar Transistor Biasing#5.11#Calculation of stability factor for collector to base bias circuit#Ex5_11.sce#2882/CH5/EX5.11/Ex5_11.sce#S##110565
+5#Bipolar Transistor Biasing#5.10#Design of a bias circuit for amplifier for given current IE#Ex5_10.sce#2882/CH5/EX5.10/Ex5_10.sce#S##110556
+5#Bipolar Transistor Biasing#5.1#Calculation of quantities for Q point for given figure#Ex5_1.sce#2882/CH5/EX5.1/Ex5_1.sce#S##110557
+4#Bipolar Junction Transistor#4.9#Determination of CE hybrid model and CB re model#Ex4_9.sce#2882/CH4/EX4.9/Ex4_9.sce#S##110554
+4#Bipolar Junction Transistor#4.8#Calculation of input impedance and current and voltage gain at given load#Ex4_8.sce#2882/CH4/EX4.8/Ex4_8.sce#S##110553
+4#Bipolar Junction Transistor#4.7#Calculation of input and output impedance and current and voltage gain at given load#Ex4_7.sce#2882/CH4/EX4.7/Ex4_7.sce#S##110552
+4#Bipolar Junction Transistor#4.6#Calculation of voltage gain and output voltage for given amplifier figure#Ex4_6.sce#2882/CH4/EX4.6/Ex4_6.sce#S##110551
+4#Bipolar Junction Transistor#4.5#Determination of whether transistor is saturated#Ex4_5.sce#2882/CH4/EX4.5/Ex4_5.sce#S##110550
+4#Bipolar Junction Transistor#4.4#Determination of whether transistor is saturated#Ex4_4.sce#2882/CH4/EX4.4/Ex4_4.sce#S##110549
+4#Bipolar Junction Transistor#4.3#Calculation of CE current gain and base current#Ex4_3.sce#2882/CH4/EX4.3/Ex4_3.sce#S##110548
+4#Bipolar Junction Transistor#4.2#Calculation of CB current gain and collector current#Ex4_2.sce#2882/CH4/EX4.2/Ex4_2.sce#S##110547
+4#Bipolar Junction Transistor#4.1#Calculation of CE and CB current gains#Ex4_1.sce#2882/CH4/EX4.1/Ex4_1.sce#S##110546
+3#Semiconductor Diodes and Miscellaneous Devices#3.9#Calculation of output voltages and regulation for a bridge rectifier#Ex3_9.sce#2882/CH3/EX3.9/Ex3_9.sce#S##110534
+3#Semiconductor Diodes and Miscellaneous Devices#3.8#Calculation of turns ratio of a full wave rectifier with transformer#Ex3_8.sce#2882/CH3/EX3.8/Ex3_8.sce#S##110533
+3#Semiconductor Diodes and Miscellaneous Devices#3.7#Calculation of capacitance for full wave rectifier with shunt capacitance filter#Ex3_7.sce#2882/CH3/EX3.7/Ex3_7.sce#S##110532
+3#Semiconductor Diodes and Miscellaneous Devices#3.6#Calculation of ripple factor for full wave rectifier#Ex3_6.sce#2882/CH3/EX3.6/Ex3_6.sce#S##110531
+3#Semiconductor Diodes and Miscellaneous Devices#3.5#Calculation of output power in filter capacitor connected full wave rectifier#Ex3_5.sce#2882/CH3/EX3.5/Ex3_5.sce#S##110530
+3#Semiconductor Diodes and Miscellaneous Devices#3.4#Calculation of capacitance for half wave rectifier with shunt capacitance filter#Ex3_4.sce#2882/CH3/EX3.4/Ex3_4.sce#S##110529
+3#Semiconductor Diodes and Miscellaneous Devices#3.3#Calculation of important quantities for center tapped full wave rectifier#Ex3_3.sce#2882/CH3/EX3.3/Ex3_3.sce#S##110528
+3#Semiconductor Diodes and Miscellaneous Devices#3.20#Calculation of series resistance and dark current for given relay circuit#Ex3_20.sce#2882/CH3/EX3.20/Ex3_20.sce#S##110544
+3#Semiconductor Diodes and Miscellaneous Devices#3.2#Calculation of important quantities for half wave rectifier#Ex3_2.sce#2882/CH3/EX3.2/Ex3_2.sce#S##110539
+3#Semiconductor Diodes and Miscellaneous Devices#3.19#Calculation of range of voltage for zener diode to be on#Ex3_19.sce#2882/CH3/EX3.19/Ex3_19.sce#S##110545
+3#Semiconductor Diodes and Miscellaneous Devices#3.18#Design of a zener voltage regulator#Ex3_18.sce#2882/CH3/EX3.18/Ex3_18.sce#S##110541
+3#Semiconductor Diodes and Miscellaneous Devices#3.17#Calculation of resistor for construction a power supply and current when the supply voltage changes#Ex3_17.sce#2882/CH3/EX3.17/Ex3_17.sce#S##110543
+3#Semiconductor Diodes and Miscellaneous Devices#3.16#Calculation of zener current for different load resistances#Ex3_16.sce#2882/CH3/EX3.16/Ex3_16.sce#S##110542
+3#Semiconductor Diodes and Miscellaneous Devices#3.15#Calculation of all branch currents for given zener circuit#Ex3_15.sce#2882/CH3/EX3.15/Ex3_15.sce#S##110540
+3#Semiconductor Diodes and Miscellaneous Devices#3.14#Calculation of output voltage for given zener circuit#Ex3_14.sce#2882/CH3/EX3.14/Ex3_14.sce#S##110538
+3#Semiconductor Diodes and Miscellaneous Devices#3.13#Determination of bias for a zener diode and calculating power dissipation and Iz#Ex3_13.sce#2882/CH3/EX3.13/Ex3_13.sce#S##110537
+3#Semiconductor Diodes and Miscellaneous Devices#3.12#Determination of bias for a zener diode and calculating power dissipation#Ex3_12.sce#2882/CH3/EX3.12/Ex3_12.sce#S##110536
+3#Semiconductor Diodes and Miscellaneous Devices#3.11#Determination of bias for a zener diode#Ex3_11.sce#2882/CH3/EX3.11/Ex3_11.sce#S##110526
+3#Semiconductor Diodes and Miscellaneous Devices#3.10#Calculation of Vz for zener diode at given temperature#Ex3_10.sce#2882/CH3/EX3.10/Ex3_10.sce#S##110535
+3#Semiconductor Diodes and Miscellaneous Devices#3.1#Calculation of output voltage for half wave transformer rectifier#Ex3_1.sce#2882/CH3/EX3.1/Ex3_1.sce#S##110527
+2#Fundamental Concepts Energy Bands in Solids#2.6#Determination of Balmer series for hydrogen atom#Ex2_6.sce#2882/CH2/EX2.6/Ex2_6.sce#S##110525
+2#Fundamental Concepts Energy Bands in Solids#2.5#Calculation of mass of electron#Ex2_5.sce#2882/CH2/EX2.5/Ex2_5.sce#S##110524
+2#Fundamental Concepts Energy Bands in Solids#2.4#Calculation of KE and velocity of positively charged particle#Ex2_4.sce#2882/CH2/EX2.4/Ex2_4.sce#S##110523
+2#Fundamental Concepts Energy Bands in Solids#2.3#Calculation of KE and velocity of electron#Ex2_3.sce#2882/CH2/EX2.3/Ex2_3.sce#S##110522
+2#Fundamental Concepts Energy Bands in Solids#2.2#Total electrons in K L M shells#Ex2_2.sce#2882/CH2/EX2.2/Ex2_2.sce#S##110521
+2#Fundamental Concepts Energy Bands in Solids#2.1#KE PE and Total Energy of Electron#Ex2_1.sce#2882/CH2/EX2.1/Ex2_1.sce#S##110520
+1#Introduction to Electronics#1.9#Calculation of Power in a Resistor#Ex1_9.sce#2882/CH1/EX1.9/Ex1_9.sce#S##110515
+1#Introduction to Electronics#1.8#Calculation of maximum current capacity#Ex1_8.sce#2882/CH1/EX1.8/Ex1_8.sce#S##110519
+1#Introduction to Electronics#1.7#Calculation of Output Voltage of an Amplifier equivalent circuit#Ex1_7.sce#2882/CH1/EX1.7/Ex1_7.sce#S##110513
+1#Introduction to Electronics#1.6#Colour coding of Tantalum Capacitors#Ex1_6.sce#2882/CH1/EX1.6/Ex1_6.sce#S##110514
+1#Introduction to Electronics#1.4#Calculation of Parallel Plate Capacitance #Ex1_4.sce#2882/CH1/EX1.4/Ex1_4.sce#S##110512
+1#Introduction to Electronics#1.3#Colour coding of resistors#Ex1_3.sce#2882/CH1/EX1.3/Ex1_3.sce#S##110511
+1#Introduction to Electronics#1.2#Colour coding of resistors#Ex1_2.sce#2882/CH1/EX1.2/Ex1_2.sce#S##110510
+1#Introduction to Electronics#1.12#Potentiometer for Motor Speed Control#Ex1_12.sce#2882/CH1/EX1.12/Ex1_12.sce#S##110517
+1#Introduction to Electronics#1.11#Calculation of Current rating of Resistor#Ex1_11.sce#2882/CH1/EX1.11/Ex1_11.sce#S##110518
+1#Introduction to Electronics#1.10#Calculation of Current rating of Resistor#Ex1_10.sce#2882/CH1/EX1.10/Ex1_10.sce#S##110516
+1#Introduction to Electronics#1.1#Colour coding of resistors#Ex1_1.sce#2882/CH1/EX1.1/Ex1_1.sce#S##110509

@@ -1,0 +1,59 @@
+18#More elementary particles#18.2#Variable values#Ex18_2.sce#3363/CH18/EX18.2/Ex18_2.sce#S##113654
+17#Introduction to elementary particles#17.5#Value of K#Ex17_5.sce#3363/CH17/EX17.5/Ex17_5.sce#S##113653
+17#Introduction to elementary particles#17.3#value of pi#Ex17_3.sce#3363/CH17/EX17.3/Ex17_3.sce#S##113652
+17#Introduction to elementary particles#17.1#Kinetic energy#Ex17_1.sce#3363/CH17/EX17.1/Ex17_1.sce#S##113651
+16#Nuclear decay and nuclear reactions#16.9#Neutron produced#Ex16_9.sce#3363/CH16/EX16.9/Ex16_9.sce#S##113648
+16#Nuclear decay and nuclear reactions#16.7#Value of delta and tou#Ex16_7.sce#3363/CH16/EX16.7/Ex16_7.sce#S##113647
+16#Nuclear decay and nuclear reactions#16.5#Value of beta#Ex16_5.sce#3363/CH16/EX16.5/Ex16_5.sce#S##113646
+16#Nuclear decay and nuclear reactions#16.4#Life time#Ex16_4.sce#3363/CH16/EX16.4/Ex16_4.sce#S##113645
+16#Nuclear decay and nuclear reactions#16.2#Elapsed time#Ex16_2.sce#3363/CH16/EX16.2/Ex16_2.sce#S##113644
+16#Nuclear decay and nuclear reactions#16.11#Free electron#Ex16_11.sce#3363/CH16/EX16.11/Ex16_11.sce#S##113650
+16#Nuclear decay and nuclear reactions#16.10#Events detected#Ex16_10.sce#3363/CH16/EX16.10/Ex16_10.sce#S##113649
+16#Nuclear decay and nuclear reactions#16.1#Total energy#Ex16_1.sce#3363/CH16/EX16.1/Ex16_1.sce#S##113643
+15#Nuclear Models#15.8#Density and potential#Ex15_8.sce#3363/CH15/EX15.8/Ex15_8.sce#S##113642
+15#Nuclear Models#15.7#Blank#Ex15_7.sce#3363/CH15/EX15.7/Ex15_7.sce#S##113641
+15#Nuclear Models#15.5#Binding energy#Ex15_5.sce#3363/CH15/EX15.5/Ex15_5.sce#S##113640
+15#Nuclear Models#15.4#Atomic mass#Ex15_4.sce#3363/CH15/EX15.4/Ex15_4.sce#S##113639
+15#Nuclear Models#15.2#Calculating wavelength and angle#Ex15_2.sce#3363/CH15/EX15.2/Ex15_2.sce#S##113638
+14#Solids super conductors and magnetic properties#14.4#Energy and wavelength#Ex14_4.sce#3363/CH14/EX14.4/Ex14_4.sce#S##113637
+14#Solids super conductors and magnetic properties#14.3#Unpaired electrons#Ex14_3.sce#3363/CH14/EX14.3/Ex14_3.sce#S##113636
+14#Solids super conductors and magnetic properties#14.1#Calculating wavelength and gap energy#Ex14_1.sce#3363/CH14/EX14.1/Ex14_1.sce#S##113635
+13#Solids Conductors and semiconductors#13.3#Angle#Ex13_3.sce#3363/CH13/EX13.3/Ex13_3.sce#S##113634
+13#Solids Conductors and semiconductors#13.1#Electron per unit volume#Ex13_1.sce#3363/CH13/EX13.1/Ex13_1.sce#S##113633
+12#Molecules#12.3#Calculation of energy and temperature#Ex12_3.sce#3363/CH12/EX12.3/Ex12_3.sce#S##113632
+12#Molecules#12.1#Energy calculation#Ex12_1.sce#3363/CH12/EX12.1/Ex12_1.sce#S##113631
+11#Quantum statistics#11.5#Fermi energy#Ex11_5.sce#3363/CH11/EX11.5/Ex11_5.sce#S##113656
+11#Quantum statistics#11.3#Boltzan factor#Ex11_3.sce#3363/CH11/EX11.3/Ex11_3.sce#S##113629
+10#Multi electron atoms optical excitations#10.6#Magnetic energy#Ex10_6.sce#3363/CH10/EX10.6/Ex10_6.sce#S##113628
+10#Multi electron atoms optical excitations#10.5#Displace energy#Ex10_5.sce#3363/CH10/EX10.5/Ex10_5.sce#S##113627
+10#Multi electron atoms optical excitations#10.1#Calculating wavelength#Ex10_1.sce#3363/CH10/EX10.1/Ex10_1.sce#S##113626
+9#Multi electron atoms ground satate and xray excitation#9.9#Energy of K shell#Ex9_9.sce#3363/CH9/EX9.9/Ex9_9.sce#S##113625
+9#Multi electron atoms ground satate and xray excitation#9.8#Calculating wavelength#Ex9_8.sce#3363/CH9/EX9.8/Ex9_8.sce#S##113624
+9#Multi electron atoms ground satate and xray excitation#9.7#ionization energy#Ex9_7.sce#3363/CH9/EX9.7/Ex9_7.sce#S##113623
+9#Multi electron atoms ground satate and xray excitation#9.5#Electric field#Ex9_5.sce#3363/CH9/EX9.5/Ex9_5.sce#S##113622
+8#Magnetic dipoles moments spin and transition rates#8.4#Deflection#Ex8_4.sce#3363/CH8/EX8.4/Ex8_4.sce#S##113659
+8#Magnetic dipoles moments spin and transition rates#8.3#Energy deflection#Ex8_3.sce#3363/CH8/EX8.3/Ex8_3.sce#S##113660
+8#Magnetic dipoles moments spin and transition rates#8.2#Transverse deflection#Ex8_2.sce#3363/CH8/EX8.2/Ex8_2.sce#S##113658
+8#Magnetic dipoles moments spin and transition rates#8.1#Energy supplied#Ex8_1.sce#3363/CH8/EX8.1/Ex8_1.sce#S##113657
+6#Solutions of time independent schroedinge equations#6.6#Value of energy#Ex6_6.sce#3363/CH6/EX6.6/Ex6_6.sce#S##113621
+6#Solutions of time independent schroedinge equations#6.4#Calculation of number#Ex6_4.sce#3363/CH6/EX6.4/Ex6_4.sce#S##113620
+6#Solutions of time independent schroedinge equations#6.3#Probablity of neutron#Ex6_3.sce#3363/CH6/EX6.3/Ex6_3.sce#S##113619
+6#Solutions of time independent schroedinge equations#6.2#Penetration distance#Ex6_2.sce#3363/CH6/EX6.2/Ex6_2.sce#S##113618
+6#Solutions of time independent schroedinge equations#6.1#Kinetic energy and penetration distance#Ex6_1.sce#3363/CH6/EX6.1/Ex6_1.sce#S##113655
+4#Bohrs Model of the Atom#4.9#Muon nucleus seperation#Ex4_9.sce#3363/CH4/EX4.9/Ex4_9.sce#S##113615
+4#Bohrs Model of the Atom#4.6#Binding energy of hydrogen atom#Ex4_6.sce#3363/CH4/EX4.6/Ex4_6.sce#S##113614
+4#Bohrs Model of the Atom#4.2#Average deflection#Ex4_2.sce#3363/CH4/EX4.2/Ex4_2.sce#S##113613
+4#Bohrs Model of the Atom#4.10#Double nucleus mass effect#Ex4_10.sce#3363/CH4/EX4.10/Ex4_10.sce#S##113616
+4#Bohrs Model of the Atom#4.1#Calculating wavelength#Ex4_1.sce#3363/CH4/EX4.1/Ex4_1.sce#S##113612
+3#De Broglies postulate wave like behaviour of particles#3.5#Fractional width and uncertainity #Ex3_5.sce#3363/CH3/EX3.5/Ex3_5.sce#S##113611
+3#De Broglies postulate wave like behaviour of particles#3.3#Speed of the bullet#Ex3_3.sce#3363/CH3/EX3.3/Ex3_3.sce#S##113610
+3#De Broglies postulate wave like behaviour of particles#3.2#Mass of Helium and wavelength#Ex3_2.sce#3363/CH3/EX3.2/Ex3_2.sce#S##112975
+3#De Broglies postulate wave like behaviour of particles#3.1#Find de broglie wavelength#Ex3_1.sce#3363/CH3/EX3.1/Ex3_1.sce#S##112974
+2#Photons particle like properties of radiation#2.6#Energy and wavelength#EX2_6.sce#3363/CH2/EX2.6/EX2_6.sce#S##112973
+2#Photons particle like properties of radiation#2.5#Determine plancks constant#EX2_5.sce#3363/CH2/EX2.5/EX2_5.sce#S##112972
+2#Photons particle like properties of radiation#2.4#X ray beam#EX2_4.sce#3363/CH2/EX2.4/EX2_4.sce#S##112971
+2#Photons particle like properties of radiation#2.3#Photons striking metal plate#EX2_3.sce#3363/CH2/EX2.3/EX2_3.sce#S##112969
+2#Photons particle like properties of radiation#2.2#Work function for sodium#Ex2_2.sce#3363/CH2/EX2.2/Ex2_2.sce#S##112970
+2#Photons particle like properties of radiation#2.1#Time to absorb energy#Ex2_1.sce#3363/CH2/EX2.1/Ex2_1.sce#S##112963
+1#Thermal Radiation and Plancks Postulate#1.6#Continious or dis continious energy#Ex1_6.sce#3363/CH1/EX1.6/Ex1_6.sce#S##112962
+1#Thermal Radiation and Plancks Postulate#1.1#Surface temperature calculation#EX1_1.sce#3363/CH1/EX1.1/EX1_1.sce#S##112961

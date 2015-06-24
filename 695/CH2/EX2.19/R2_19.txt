@@ -1,0 +1,3 @@
+ Ratio of speed as a generator to speed as motor=   
+ 
+    1.0797673  

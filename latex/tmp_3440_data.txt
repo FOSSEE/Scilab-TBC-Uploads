@@ -1,0 +1,74 @@
+15#Integrated devices#15.5#oxide thickness#Ex15_5.sce#3440/CH15/EX15.5/Ex15_5.sce#S##115944
+15#Integrated devices#15.4#gate to source voltage#Ex15_4.sce#3440/CH15/EX15.4/Ex15_4.sce#S##115943
+15#Integrated devices#15.3#radius#Ex15_3.sce#3440/CH15/EX15.3/Ex15_3.sce#S##115942
+15#Integrated devices#15.2#stored charge#Ex15_2.sce#3440/CH15/EX15.2/Ex15_2.sce#S##115941
+15#Integrated devices#15.1#value of resistor#Ex15_1.sce#3440/CH15/EX15.1/Ex15_1.sce#S##115940
+14#Impurity Doping#14.4#thickness#Ex14_4.sce#3440/CH14/EX14.4/Ex14_4.sce#S##115948
+14#Impurity Doping#14.3#ion beam current#Ex14_3.sce#3440/CH14/EX14.3/Ex14_3.sce#S##115947
+14#Impurity Doping#14.2#junction depth#Ex14_2.sce#3440/CH14/EX14.2/Ex14_2.sce#S##115946
+14#Impurity Doping#14.1#Qt and gradient#Ex14_1.sce#3440/CH14/EX14.1/Ex14_1.sce#S##115945
+13#Lithography and etching#13.3#Al average etch rate#Ex13_3.sce#3440/CH13/EX13.3/Ex13_3.sce#S##115949
+13#Lithography and etching#13.2#parameter gamma#Ex13_2.sce#3440/CH13/EX13.2/Ex13_2.sce#S##115950
+13#Lithography and etching#13.1#how many dust particles#Ex13_1.sce#3440/CH13/EX13.1/Ex13_1.sce#S##115951
+12#Film formation#12.7#oxide removal rate#Ex12_7.sce#3440/CH12/EX12.7/Ex12_7.sce#S##115952
+12#Film formation#12.6#percentage od reduction#Ex12_6.sce#3440/CH12/EX12.6/Ex12_6.sce#S##115953
+12#Film formation#12.5#find depth#E12_5.sce#3440/CH12/EX12.5/E12_5.sce#S##115954
+12#Film formation#12.4#equivalent cell area #Ex12_4.sce#3440/CH12/EX12.4/Ex12_4.sce#S##115955
+12#Film formation#12.3#intrinsic value#Ex12_3.sce#3440/CH12/EX12.3/Ex12_3.sce#S##115956
+12#Film formation#12.1#thickness#Ex12_1.sce#3440/CH12/EX12.1/Ex12_1.sce#S##115957
+11#Crystal growth and epitaxy#11.4#growth rate#Ex11_4.sce#3440/CH11/EX11.4/Ex11_4.sce#S##116303
+11#Crystal growth and epitaxy#11.3#time required#Ex11_3.sce#3440/CH11/EX11.3/Ex11_3.sce#S##115959
+11#Crystal growth and epitaxy#11.1#concentration in boron#Ex11_1.sce#3440/CH11/EX11.1/Ex11_1.sce#S##115960
+10#Photodetectors and solar cells#10.5#open circuit voltage#Ex10_5.sce#3440/CH10/EX10.5/Ex10_5.sce#S##115961
+10#Photodetectors and solar cells#10.4#air mass#Ex10_4.sce#3440/CH10/EX10.4/Ex10_4.sce#S##115962
+10#Photodetectors and solar cells#10.3#responsivity #Ex10_3.sce#3440/CH10/EX10.3/Ex10_3.sce#S##115963
+10#Photodetectors and solar cells#10.2#depth#Ex10_2.sce#3440/CH10/EX10.2/Ex10_2.sce#S##115964
+10#Photodetectors and solar cells#10.1#photocurrent#Ex10_1.sce#3440/CH10/EX10.1/Ex10_1.sce#S##115965
+9#Light Emitting diodes and lasers#9.6#Determine temp#Ex9_6.sce#3440/CH9/EX9.6/Ex9_6.sce#S##115966
+9#Light Emitting diodes and lasers#9.5#calculate the threshold current#Ex9_5.sce#3440/CH9/EX9.5/Ex9_5.sce#S##115967
+9#Light Emitting diodes and lasers#9.4#mode spacing#Ex9_4.sce#3440/CH9/EX9.4/Ex9_4.sce#S##115968
+9#Light Emitting diodes and lasers#9.3#calculate R#Ex9_3.sce#3440/CH9/EX9.3/Ex9_3.sce#S##115969
+9#Light Emitting diodes and lasers#9.2#modulation bandwidth#Ex9_2.sce#3440/CH9/EX9.2/Ex9_2.sce#S##115970
+9#Light Emitting diodes and lasers#9.1#total energy absorbed#Ex9_1.sce#3440/CH9/EX9.1/Ex9_1.sce#S##115971
+8#Microwave diodes Quantum effect and hot electron devices#8.2#mini electron density#Ex8_2.sce#3440/CH8/EX8.2/Ex8_2.sce#S##115972
+8#Microwave diodes Quantum effect and hot electron devices#8.1#dc breakdown volt#Ex8_1.sce#3440/CH8/EX8.1/Ex8_1.sce#S##116302
+7#MESFET and related devices#7.5#two dimensional electron#Ex7_5.sce#3440/CH7/EX7.5/Ex7_5.sce#S##115974
+7#MESFET and related devices#7.4#pinch off volt#Ex7_4.sce#3440/CH7/EX7.4/Ex7_4.sce#S##115975
+7#MESFET and related devices#7.3#voltage drop#Ex7_3.sce#3440/CH7/EX7.3/Ex7_3.sce#S##115976
+7#MESFET and related devices#7.2#barrier height and depletion layer#Ex7_2.sce#3440/CH7/EX7.2/Ex7_2.sce#S##115977
+7#MESFET and related devices#7.1#donor concentration#Ex7_1.sce#3440/CH7/EX7.1/Ex7_1.sce#S##115978
+6#Advanced MOSFET and related devices#6.1#calculate the threshold voltage#Ex6_1.sce#3440/CH6/EX6.1/Ex6_1.sce#S##115979
+5#MOS capacitor and MOSFET#5.8#calculate the change in the threshold voltage#Ex5_8.sce#3440/CH5/EX5.8/Ex5_8.sce#S##115980
+5#MOS capacitor and MOSFET#5.7#VT for gate oxide#Ex5_7.sce#3440/CH5/EX5.7/Ex5_7.sce#S##115981
+5#MOS capacitor and MOSFET#5.6#VT for gate oxide#Ex5_6.sce#3440/CH5/EX5.6/Ex5_6.sce#S##115982
+5#MOS capacitor and MOSFET#5.5#calculate Vdsat#Ex5_5.sce#3440/CH5/EX5.5/Ex5_5.sce#S##115983
+5#MOS capacitor and MOSFET#5.4#change in flat band#Ex5_4.sce#3440/CH5/EX5.4/Ex5_4.sce#S##116301
+5#MOS capacitor and MOSFET#5.3#calculate the flat band voltage#Ex5_3.sce#3440/CH5/EX5.3/Ex5_3.sce#S##116300
+5#MOS capacitor and MOSFET#5.2#mini capacitance of CV#Ex5_2.sce#3440/CH5/EX5.2/Ex5_2.sce#S##115986
+5#MOS capacitor and MOSFET#5.1#maxi width#Ex5_1.sce#3440/CH5/EX5.1/Ex5_1.sce#S##115987
+4#Bipolar Transistor an related Devices#4.5#find current#Ex4_5.sce#3440/CH4/EX4.5/Ex4_5.sce#S##115988
+4#Bipolar Transistor an related Devices#4.4#base doping#Ex4_4.sce#3440/CH4/EX4.4/Ex4_4.sce#S##116299
+4#Bipolar Transistor an related Devices#4.3#value of Iceo#Ex4_3.sce#3440/CH4/EX4.3/Ex4_3.sce#S##115990
+4#Bipolar Transistor an related Devices#4.2#common base current gain#Ex4_2.sce#3440/CH4/EX4.2/Ex4_2.sce#S##116119
+4#Bipolar Transistor an related Devices#4.1#emitter efficiency#Ex4_1.sce#3440/CH4/EX4.1/Ex4_1.sce#S##115992
+3# pn Junction#3.9#breakdown voltage#Ex3_9.sce#3440/CH3/EX3.9/Ex3_9.sce#S##115994
+3# pn Junction#3.8#breakdown voltage#Ex3_8.sce#3440/CH3/EX3.8/Ex3_8.sce#S##115995
+3# pn Junction#3.7#stored minority carriers#Ex3_7.sce#3440/CH3/EX3.7/Ex3_7.sce#S##115996
+3# pn Junction#3.6#generation current density#Ex3_6.sce#3440/CH3/EX3.6/Ex3_6.sce#S##115997
+3# pn Junction#3.5#ideal reverse saturation current#Ex3_5.sce#3440/CH3/EX3.5/Ex3_5.sce#S##115998
+3# pn Junction#3.4#calculate the junction capacitance#Ex3_4.sce#3440/CH3/EX3.4/Ex3_4.sce#S##115999
+3# pn Junction#3.3#depletion layer width#Ex3_3.sce#3440/CH3/EX3.3/Ex3_3.sce#S##116000
+3# pn Junction#3.2#depletion layer width#Ex3_2.sce#3440/CH3/EX3.2/Ex3_2.sce#S##116001
+3# pn Junction#3.10#electrostatic potential#Ex3_10.sce#3440/CH3/EX3.10/Ex3_10.sce#S##115993
+3# pn Junction#3.1#calculate the built in potential#Ex3_1.sce#3440/CH3/EX3.1/Ex3_1.sce#S##116002
+2#Carrier Transport Phenomena#2.9#thermionically emitted electron density#Ex2_9.sce#3440/CH2/EX2.9/Ex2_9.sce#S##116003
+2#Carrier Transport Phenomena#2.8#minority carrier lifetime#Ex2_8.sce#3440/CH2/EX2.8/Ex2_8.sce#S##116004
+2#Carrier Transport Phenomena#2.7#quasi fermi level#Ex2_7.sce#3440/CH2/EX2.7/Ex2_7.sce#S##116005
+2#Carrier Transport Phenomena#2.6#minority carrier concentration#Ex2_6.sce#3440/CH2/EX2.6/Ex2_6.sce#S##116006
+2#Carrier Transport Phenomena#2.5#drift velocity#Ex2_5.sce#3440/CH2/EX2.5/Ex2_5.sce#S##116007
+2#Carrier Transport Phenomena#2.4#diffusion current density#Ex2_4.sce#3440/CH2/EX2.4/Ex2_4.sce#S##116008
+2#Carrier Transport Phenomena#2.3#hall voltage#Ex2_3.sce#3440/CH2/EX2.3/Ex2_3.sce#S##116298
+2#Carrier Transport Phenomena#2.2#room temperature#Ex2_2.sce#3440/CH2/EX2.2/Ex2_2.sce#S##116010
+2#Carrier Transport Phenomena#2.1#mean free time#Ex2_1.sce#3440/CH2/EX2.1/Ex2_1.sce#S##116011
+1#Energy bands and carrier concetration in thermal equlibrium#1.4#carrier concentration#Ex1_4.sce#3440/CH1/EX1.4/Ex1_4.sce#S##116012
+1#Energy bands and carrier concetration in thermal equlibrium#1.2#calculate no of silicon atoms per cubic centimeter#Ex1_2.sce#3440/CH1/EX1.2/Ex1_2.sce#S##116013

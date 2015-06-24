@@ -1,0 +1,2 @@
+**Sample Problem 36-2**
+The difference between two adjacent maxima is 2.50e-003m 

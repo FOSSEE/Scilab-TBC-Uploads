@@ -1,0 +1,2 @@
+(i) Errors in two consecutive iterates are of same sign so convergence is monotonic
+(ii) Errors in two consecutive iterates are of opposite sign so convergence is oscillatory.

@@ -1,0 +1,3 @@
+* Voltage gain is AD = -10
+* Input resistance of inverting amplifier is RiFx = 1000 ohms
+* Input resistance of non-inverting amplifier is RiFy = 11000 ohms

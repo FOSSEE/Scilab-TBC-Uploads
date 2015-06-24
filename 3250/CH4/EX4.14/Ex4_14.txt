@@ -1,0 +1,4 @@
+ # PROBLEM 4.14 # 
+ 
+ The drilling torque = 17.924639 N-m, 
+ Thrust force = 1401 N. 

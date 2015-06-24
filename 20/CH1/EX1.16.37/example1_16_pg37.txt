@@ -1,0 +1,24 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_3_June/Codes/Chapter_1/code/example1_16_pg37.sce', -1)
+ 
+ Value of x is   
+ 
+    2.0637323  
+ 
+ Value of kh is   
+ 
+    0.0000484  
+ 
+ Value of ke is   
+ 
+    0.0000005  
+
+  -------------------------------------------------------
+   f  | B,kilogauss | Ph,watts per lb | Pe,watts per lb   
+  -------------------------------------------------------
+   30 |       8     |      0.106      |      0.029      
+   60 |      12     |      0.490      |      0.260      
+   30 |      12     |      0.245      |      0.065      
+  -------------------------------------------------------
+ 
+-->diary(0);

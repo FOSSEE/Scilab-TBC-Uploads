@@ -1,0 +1,1 @@
+ Plancks constant h is 6.6 x 10^-34 Js  and Work function phi is 1.76 eV 

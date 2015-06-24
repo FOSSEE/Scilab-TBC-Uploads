@@ -1,0 +1,7 @@
+ # PROBLEM 8 # 
+Standard formula used 
+  E = 3 * k * Tc 
+
+ Energy gap is 1.086750e-03 eV.
+ Wavelength of photon is 1.142167e-03 m.
+ From the value of above lambda it is clear that these photons are in the very short wavelength part of the microwave region.

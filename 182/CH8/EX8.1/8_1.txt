@@ -1,0 +1,1 @@
+1.since the measured terminal resistance is 134 k-ohm, the circuit must consist of a 0.005 micro-farad capacitor connected in parallel with a 134 kilo-ohm resistor.For a series connected circuit. the terminal resistance would be much higher than 134 K-ohm

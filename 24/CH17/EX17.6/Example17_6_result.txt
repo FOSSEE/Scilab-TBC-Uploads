@@ -1,0 +1,4 @@
+**Sample Problem 17-6**
+The amplitude of the resultant wave is equal to 6.082763mm
+The phase constant for the wave is 0.441306rad
+The equation of wave is 0.006083*sin(k*x - w*t + 0.441306rad) 

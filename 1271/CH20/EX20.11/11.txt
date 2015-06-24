@@ -1,0 +1,6 @@
+ # PROBLEM 11 # 
+Standard formula used 
+  h*c/Lambda = eV 
+
+ Planck constant is 6.664533e-34 J sec if shortest wavelength is 2.840000e-11 m .
+ Planck constant is 6.613333e-34 Jsec if shortest wavelength is 2.480000e-11 m. 

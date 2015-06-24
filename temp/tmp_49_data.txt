@@ -1,0 +1,45 @@
+8#TEMPRATURE MEASUREMENT#8.5#pyrometers#ex5.sce#49/CH8/EX8.5/ex5.sce#S##4026
+8#TEMPRATURE MEASUREMENT#8.4#thermistors#ex4.sce#49/CH8/EX8.4/ex4.sce#S##4025
+8#TEMPRATURE MEASUREMENT#8.3#electrical resistance sensors#ex3.sce#49/CH8/EX8.3/ex3.sce#S##4024
+8#TEMPRATURE MEASUREMENT#8.2#thermocouple and thermopile#ex2.sce#49/CH8/EX8.2/ex2.sce#S##4023
+8#TEMPRATURE MEASUREMENT#8.1#thermocouple#ex1.sce#49/CH8/EX8.1/ex1.sce#S##4022
+7#Flow measurement#7.8#constant pressure drop#ex8.sce#49/CH7/EX7.8/ex8.sce#S##4021
+7#Flow measurement#7.7#venturi#ex7.sce#49/CH7/EX7.7/ex7.sce#S##4020
+7#Flow measurement#7.6#sonic nozzle#ex6.sce#49/CH7/EX7.6/ex6.sce#S##4019
+7#Flow measurement#7.5#Gross volume flow rate#ex5.sce#49/CH7/EX7.5/ex5.sce#S##4146
+7#Flow measurement#7.4#Gross volume flow rate#ex4.sce#49/CH7/EX7.4/ex4.sce#S##4017
+7#Flow measurement#7.3#Gross volume flow rate#ex3.sce#49/CH7/EX7.3/ex3.sce#S##4016
+7#Flow measurement#7.2#Anemometers#ex2.sce#49/CH7/EX7.2/ex2.sce#S##4015
+7#Flow measurement#7.1#Flow measurement#ex1.sce#49/CH7/EX7.1/ex1.sce#S##4014
+6#Pressure and sound measurement#6.9#sound measurement#ex9.sce#49/CH6/EX6.9/ex9.sce#S##4011
+6#Pressure and sound measurement#6.8#Knudsen gage#ex8.sce#49/CH6/EX6.8/ex8.sce#S##4010
+6#Pressure and sound measurement#6.7#Mc Leod gage#ex7.sce#49/CH6/EX6.7/ex7.sce#S##4009
+6#Pressure and sound measurement#6.6#high pressure measurement#ex6.sce#49/CH6/EX6.6/ex6.sce#S##4008
+6#Pressure and sound measurement#6.5#pressure gage#ex5.sce#49/CH6/EX6.5/ex5.sce#S##4007
+6#Pressure and sound measurement#6.4#design of pressure transducers#ex4.sce#49/CH6/EX6.4/ex4.sce#S##4006
+6#Pressure and sound measurement#6.3#elastic transducers#ex3.sce#49/CH6/EX6.3/ex3.sce#S##4005
+6#Pressure and sound measurement#6.2#manometers#ex2.sce#49/CH6/EX6.2/ex2.sce#S##4004
+6#Pressure and sound measurement#6.10#sound measurement#ex10.sce#49/CH6/EX6.10/ex10.sce#S##4012
+6#Pressure and sound measurement#6.1#manometers#ex1.sce#49/CH6/EX6.1/ex1.sce#S##4003
+5#Force Torque and Shaft power measurement#5.5#Torque measurement on rotating shaft#ex5.sce#49/CH5/EX5.5/ex5.sce#S##3986
+5#Force Torque and Shaft power measurement#5.4#Piezoelectric transducer#ex4.sce#49/CH5/EX5.4/ex4.sce#S##3984
+5#Force Torque and Shaft power measurement#5.3#Load cell#ex3.sce#49/CH5/EX5.3/ex3.sce#S##3983
+5#Force Torque and Shaft power measurement#5.2#Load cell#ex2.sce#49/CH5/EX5.2/ex2.sce#S##3980
+5#Force Torque and Shaft power measurement#5.1#Load cell#ex1.sce#49/CH5/EX5.1/ex1.sce#S##3979
+4#Motion and Dimensional Measurement#4.9#Piezoelectric transducer#ex9.sce#49/CH4/EX4.9/ex9.sce#S##3974
+4#Motion and Dimensional Measurement#4.8#Seismic velocity pick ups#ex8.sce#49/CH4/EX4.8/ex8.sce#S##3973
+4#Motion and Dimensional Measurement#4.7#Seismic vibrations#ex7.sce#49/CH4/EX4.7/ex7.sce#S##3972
+4#Motion and Dimensional Measurement#4.5#Piezoelectric transducer#ex5.sce#49/CH4/EX4.5/ex5.sce#S##3971
+4#Motion and Dimensional Measurement#4.4#Capacitance pick ups#ex4.sce#49/CH4/EX4.4/ex4.sce#S##3961
+4#Motion and Dimensional Measurement#4.3#Strain gage#ex3.sce#49/CH4/EX4.3/ex3.sce#S##3960
+4#Motion and Dimensional Measurement#4.2#Rosette#ex2.sce#49/CH4/EX4.2/ex2.sce#S##3959
+4#Motion and Dimensional Measurement#4.12#Strain gage#ex12.sce#49/CH4/EX4.12/ex12.sce#S##3977
+4#Motion and Dimensional Measurement#4.11#Accelerometers#ex11.sce#49/CH4/EX4.11/ex11.sce#S##3976
+4#Motion and Dimensional Measurement#4.10#Seismic pick ups#ex10.sce#49/CH4/EX4.10/ex10.sce#S##3975
+4#Motion and Dimensional Measurement#4.1#Resistance strain gage#ex1.sce#49/CH4/EX4.1/ex1.sce#S##3958
+3#Generalized Performance Characteristics Of Instruments#3.7#Adequate frequency response conditions for first o#example7.sce#49/CH3/EX3.7/example7.sce#S##3957
+3#Generalized Performance Characteristics Of Instruments#3.6#Step response of first order instrument#example6.sce#49/CH3/EX3.6/example6.sce#S##3956
+3#Generalized Performance Characteristics Of Instruments#3.5#First order instrument#example5.sce#49/CH3/EX3.5/example5.sce#S##3955
+3#Generalized Performance Characteristics Of Instruments#3.2#Combination of component errors in overall system#example2.sce#49/CH3/EX3.2/example2.sce#S##3954
+3#Generalized Performance Characteristics Of Instruments#3.1#Gaussian distribution#example1.sce#49/CH3/EX3.1/example1.sce#S##3953
+2#Generalized Configurations and Functional Descriptions of measuring instruments#2.1#Error in measurement#ex1.sce#49/CH2/EX2.1/ex1.sce#S##3952

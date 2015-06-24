@@ -1,0 +1,7 @@
+  
+ example 2.8   
+ 
+ assuming constant flux   
+speed at induced emf of 250V =852 rpm 
+ when induced emf is 250V and speed 700 rpm   
+percentage increase in flux is 21.753247 percent 

@@ -1,0 +1,4 @@
+ The velocity of propagation = 0.670820*10^8 m/s
+ The wavelength = 3.354102 m
+ The impedance of the medium = 476.860237 ohm
+ The rms electric field = 48.829307 V/m 

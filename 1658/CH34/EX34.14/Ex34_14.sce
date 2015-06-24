@@ -1,0 +1,13 @@
+clc;
+Vz=10;
+Vbe=0.7;
+RL=100;
+Vs=15;
+B=100;
+Rs=33;
+VL=Vz+Vbe;
+IL=VL/RL;
+Is=(Vs-VL)/Rs;
+Ic=Is-IL;
+Ib=Ic/B;
+disp('microA',Ib*10**6,"Ib=");

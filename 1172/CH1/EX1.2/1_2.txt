@@ -1,0 +1,6 @@
+ # Problem 2 # 
+ 
+ Standard formula used 
+   x_n= n*lambda*D/d 
+
+ Wavelength of light used is 6075 Angstrom

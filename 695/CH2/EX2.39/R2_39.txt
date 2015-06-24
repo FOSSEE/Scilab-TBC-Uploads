@@ -1,0 +1,13 @@
+  
+ (a)Efficiency (in %)=   
+ 
+    68.430556  
+ 
+ (b)Armature current (in Amperes)=   
+ 
+    44.542115  
+ 
+ (c)Max Efficiency (in %)=   
+ 
+    79.974009  
+ 

@@ -1,0 +1,7 @@
+	 i)Entropy of system 
+
+ 	  H(X)=1.1813 bits/symbol
+
+ 	 ii)Entropy of second order system extension of source can be 
+
+ 	  H(X^2)=1.1813 bits/symbol

@@ -1,0 +1,16 @@
+**Sample Problem 16-1a**
+  Angular Frequency  -  9.776924 rad/s
+  Frequency	     -  0.642655 Hz
+  Time Period	     -  1.556046 s
+
+**Sample Problem 16-1b**
+The amplitude of oscillation is 11.000000cm
+
+**Sample Problem 16-1c**
+The maximum speed of the block is 1.075462m/s
+
+**Sample Problem 16-1d**
+The maximum acceleration of the block is 10.514706m/s^2
+
+**Sample Problem 16-1e**
+The phase constant for the SHM x=Acos(w*t+phi) is 2*n*pi + 0 where n is an integer 

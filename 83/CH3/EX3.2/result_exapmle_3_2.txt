@@ -1,0 +1,9 @@
+ 
+
+Capacitance to neutral is = 0.008276 uF/km
+
+Capacitive rectance of the line is = 384635.679536 ohm/km to neutral
+
+Charging Current = 0.17 A/km
+
+ 

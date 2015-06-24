@@ -1,0 +1,93 @@
+-->//(Brakes) Example 12.4
+ 
+-->//Torque capacity of the block brake Mt (N-m)
+ 
+-->Mt = 250
+ Mt  =
+ 
+    250.  
+ 
+-->//Speed of the brake n (rpm)
+ 
+-->n = 100
+ n  =
+ 
+    100.  
+ 
+-->//Coefficient of friction mu
+ 
+-->mu = 0.35
+ mu  =
+ 
+    0.35  
+ 
+-->//Intensity of pressure between the block and the drum p (N/mm2)
+ 
+-->p = 1
+ p  =
+ 
+    1.  
+ 
+-->//Ratio of the length of the block to its width r
+ 
+-->r = 2
+ r  =
+ 
+    2.  
+ 
+-->//Distance of the actuating force from the block d1 (mm)
+ 
+-->d1 = 300
+ d1  =
+ 
+    300.  
+ 
+-->//Distance of the lever pivot from the block d2 (mm)
+ 
+-->d2 = 200
+ d2  =
+ 
+    200.  
+ 
+-->//Distance between the lever pivot from the contact area d3 (mm)
+ 
+-->d3 = 50
+ d3  =
+ 
+    50.  
+ 
+-->//Radius of the drum R (mm)
+ 
+-->R = 200
+ R  =
+ 
+    200.  
+ 
+-->//Final velocity of the brake drum v2 (m/s)
+ 
+-->v2 = 0
+ v2  =
+ 
+    0.  
+ 
+
+The brake is not self-locking
+
+FOR CLOCKWISE ROTATION
+
+Actuating force(Pc) = 1303.571429 N
+
+Reaction at the hinge pin(Rc) = 2589.532008 N
+
+FOR ANTICLOCKWISE ROTATION
+
+Actuating force(Pcc) = 1553.571429 N
+
+Reaction at the hinge pin(Rcc) = 2373.656978 N
+
+Rate of heat generated(E) = 1308.996939 W
+
+Width of the block(w) = 42.257713 or 45.000000 mm
+
+Length of the block(l) = 90.000000 mm
+ 

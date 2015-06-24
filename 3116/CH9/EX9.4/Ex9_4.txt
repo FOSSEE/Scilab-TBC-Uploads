@@ -1,0 +1,7 @@
+ Example 9.4
+
+ Part A
+ Percent reduction in area is 30%
+
+ Part B
+ True stress at failure is 658 MPa 

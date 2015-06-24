@@ -1,0 +1,6 @@
+  
+ example 14.7   
+ke at no load 450MW-sec 
+ loss in k.e due to load 12.5MW-sec 
+new frequency 49.3Hz 
+frequency deviation 1.4percent 

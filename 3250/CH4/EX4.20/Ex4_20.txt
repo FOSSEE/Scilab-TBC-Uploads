@@ -1,0 +1,3 @@
+ # PROBLEM 4.20 # 
+ 
+ Power requirement during plunge grinding of the mild steel primatic bar = 943 W.

@@ -1,0 +1,24 @@
+ Dc electron velocity (in m/s) =   
+ 
+    71406656.  
+ 
+ Dc phase constant (in rad/s) =   
+ 
+    879.91592  
+ 
+ Plasma frequency (in rad/s) =   
+ 
+    1.409D+08  
+ 
+ Reduced plasma frequency (in rad/s) =   
+ 
+    56379751.  
+ 
+ Dc beam current density (in A/sq. m) =   
+ 
+    71.406656  
+ 
+ Instantaneous beam current density(in A/sq. m) =   
+ 
+    0.8140666  
+ 

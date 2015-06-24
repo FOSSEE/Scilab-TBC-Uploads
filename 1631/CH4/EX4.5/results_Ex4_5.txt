@@ -1,0 +1,11 @@
+ Channel Bandwith is   
+ 
+    81.6  
+ 
+ kHz   
+ 
+ sampling frequency   
+ 
+    7812.5  
+ 
+ Hz or samples per second.

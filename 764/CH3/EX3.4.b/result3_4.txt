@@ -1,0 +1,66 @@
+-->//(Manufacturing Considerations in Design) Example 3.4
+ 
+-->//Basic centre distance between two bolts C mm
+ 
+-->C = 50
+ C  =
+ 
+    50.  
+ 
+-->//Basic diameter of bolt Db mm
+ 
+-->Db = 12
+ Db  =
+ 
+    12.  
+ 
+-->//Refer tables 3.2 and 3.3a for tolerances of H11-d11 fit
+ 
+-->//Upper deviation for bolt Ub mm
+ 
+-->Ub = -0.050
+ Ub  =
+ 
+  - 0.05  
+ 
+-->//Lower deviation for bolt Lb mm
+ 
+-->Lb = -0.160
+ Lb  =
+ 
+  - 0.16  
+ 
+-->//Basic diameter of hole Dh mm
+ 
+-->Dh = 12
+ Dh  =
+ 
+    12.  
+ 
+-->//Upper deviation for hole Uh mm
+ 
+-->Uh = 0.110
+ Uh  =
+ 
+    0.11  
+ 
+-->//Lower deviation for hole Lh mm
+ 
+-->Lh = 0.000
+ Lh  =
+ 
+    0.  
+ 
+
+Maximum diameter of hole is: 12.110000 mm
+
+Minimum diameter of hole is: 12.000000 mm
+
+Maximum diameter of bolt is: 11.950000 mm
+
+Minimum diameter of bolt is: 11.840000 mm
+
+Maximum centre to centre distance between bolts:50.050000 mm
+
+Minimum centre to centre distance between bolts:49.950000 mm
+ 

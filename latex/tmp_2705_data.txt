@@ -1,0 +1,174 @@
+19#Psychrometry#19.4#volume mass and heat transfer #Ex19_4.sce#2705/CH19/EX19.4/Ex19_4.sce#S##105779
+19#Psychrometry#19.3#specific humidity dew point degree of superheat mass of condensate#Ex19_3.sce#2705/CH19/EX19.3/Ex19_3.sce#S##105778
+19#Psychrometry#19.2#partial pressures specific humidity and composition#Ex19_2.sce#2705/CH19/EX19.2/Ex19_2.sce#S##105777
+19#Psychrometry#19.1#moisture content#Ex19_1.sce#2705/CH19/EX19.1/Ex19_1.sce#S##105776
+18#Refrigeration#18.2#mass flow dryness fraction power and ratio of heat transfer#Ex18_2.sce#2705/CH18/EX18.2/Ex18_2.sce#S##105775
+18#Refrigeration#18.1#coefficient of performance mass flow and cooling water requirement#Ex18_1.sce#2705/CH18/EX18.1/Ex18_1.sce#S##105774
+17#Engine and plant trials#17.6#brake power fuel consumption and thermal efficiency#Ex17_6.sce#2705/CH17/EX17.6/Ex17_6.sce#S##105773
+17#Engine and plant trials#17.5#brake power indicated power mechanical efficiency and energy balance#Ex17_5.sce#2705/CH17/EX17.5/Ex17_5.sce#S##105772
+17#Engine and plant trials#17.4#indicated power and mechanical efficiency#Ex17_4.sce#2705/CH17/EX17.4/Ex17_4.sce#S##105771
+17#Engine and plant trials#17.3#brake power fuel consumption thermal efficiency and energy balance#Ex17_3.sce#2705/CH17/EX17.3/Ex17_3.sce#S##105770
+17#Engine and plant trials#17.2#brake and indicated power mechanical efficiency steam consumption and energy balance#Ex17_2.sce#2705/CH17/EX17.2/Ex17_2.sce#S##105769
+17#Engine and plant trials#17.1#indicated and brake output mechanical efficiency and energy balance#Ex17_1.sce#2705/CH17/EX17.1/Ex17_1.sce#S##105768
+16#Internal combustion engines#16.6#mass theoretical output and thermal efficiency#Ex16_6.sce#2705/CH16/EX16.6/Ex16_6.sce#S##105767
+16#Internal combustion engines#16.5#pressure temperature and power developed#Ex16_5.sce#2705/CH16/EX16.5/Ex16_5.sce#S##105766
+16#Internal combustion engines#16.4#pressure temperature power output thermal efficiency work ratio and Carnot efficiency#Ex16_4.sce#2705/CH16/EX16.4/Ex16_4.sce#S##105765
+16#Internal combustion engines#16.3#power output temperature thermal efficiency and work ratio#Ex16_3.sce#2705/CH16/EX16.3/Ex16_3.sce#S##105764
+16#Internal combustion engines#16.2#pressure ratio work output thermal efficiency work ratio and Carnot efficiency#Ex16_2.sce#2705/CH16/EX16.2/Ex16_2.sce#S##105763
+16#Internal combustion engines#16.1#power output thermal efficiency and work ratio#Ex16_1.sce#2705/CH16/EX16.1/Ex16_1.sce#S##105762
+15#Ideal gas power cycles#15.9#pressure volume temperature work done thermal efficiency work ratio mean effective pressure and Carnot efficiency#Ex15_9.sce#2705/CH15/EX15.9/Ex15_9.sce#S##105752
+15#Ideal gas power cycles#15.8#pressure volume temperature thermal efficiency theoretical output mean effective pressure and Carnot effeciency#Ex15_8.sce#2705/CH15/EX15.8/Ex15_8.sce#S##105751
+15#Ideal gas power cycles#15.7#pressure volume temperature heat thermal efficiency work done mean effective pressure#Ex15_7.sce#2705/CH15/EX15.7/Ex15_7.sce#S##105750
+15#Ideal gas power cycles#15.6#relative efficiency#Ex15_6.sce#2705/CH15/EX15.6/Ex15_6.sce#S##105749
+15#Ideal gas power cycles#15.5#thermal efficiency and specific fuel consumption#Ex15_5.sce#2705/CH15/EX15.5/Ex15_5.sce#S##105748
+15#Ideal gas power cycles#15.4#pressure volume temperature heat work done thermal efficiency carnot efficiency work ratio and mean effective pressure#Ex15_4.sce#2705/CH15/EX15.4/Ex15_4.sce#S##105747
+15#Ideal gas power cycles#15.3#pressure volume temperature thermal efficiency work done and work ratio#Ex15_3.sce#2705/CH15/EX15.3/Ex15_3.sce#S##105746
+15#Ideal gas power cycles#15.2#volume ratios and thermal efficiency#Ex15_2.sce#2705/CH15/EX15.2/Ex15_2.sce#S##105745
+15#Ideal gas power cycles#15.18#thermal efficiency and Carnot efficiency#Ex15_18.sce#2705/CH15/EX15.18/Ex15_18.sce#S##105761
+15#Ideal gas power cycles#15.17#work done and thermal efficiency#Ex15_17.sce#2705/CH15/EX15.17/Ex15_17.sce#S##105760
+15#Ideal gas power cycles#15.16#maximum temperature work done and thermal efficiency#Ex15_16.sce#2705/CH15/EX15.16/Ex15_16.sce#S##105759
+15#Ideal gas power cycles#15.15#work done and thermal efficiency#Ex15_15.sce#2705/CH15/EX15.15/Ex15_15.sce#S##105758
+15#Ideal gas power cycles#15.14#thermal efficiency heat work done work ratio and mean effective pressure#Ex15_14.sce#2705/CH15/EX15.14/Ex15_14.sce#S##105757
+15#Ideal gas power cycles#15.13#pressure volume temperature work done thermal efficiency heat work ratio mean effective pressure and Carnot efficiency#Ex15_13.sce#2705/CH15/EX15.13/Ex15_13.sce#S##105756
+15#Ideal gas power cycles#15.12#pressures and temperatures #Ex15_12.sce#2705/CH15/EX15.12/Ex15_12.sce#S##105755
+15#Ideal gas power cycles#15.11#thermal efficiency and indicated power#Ex15_11.sce#2705/CH15/EX15.11/Ex15_11.sce#S##105754
+15#Ideal gas power cycles#15.10#maximum temperature and thermal efficiency#Ex15_10.sce#2705/CH15/EX15.10/Ex15_10.sce#S##105753
+15#Ideal gas power cycles#15.1#thermal efficiency#Ex15_1.sce#2705/CH15/EX15.1/Ex15_1.sce#S##105744
+14#Air and gas compressors#14.8#power temperature and pressure#Ex14_8.sce#2705/CH14/EX14.8/Ex14_8.sce#S##105743
+14#Air and gas compressors#14.7#power#Ex14_7.sce#2705/CH14/EX14.7/Ex14_7.sce#S##105742
+14#Air and gas compressors#14.6#power #Ex14_6.sce#2705/CH14/EX14.6/Ex14_6.sce#S##105741
+14#Air and gas compressors#14.5#power developed#Ex14_5.sce#2705/CH14/EX14.5/Ex14_5.sce#S##105740
+14#Air and gas compressors#14.4#pressure temperature and energy#Ex14_4.sce#2705/CH14/EX14.4/Ex14_4.sce#S##105739
+14#Air and gas compressors#14.3#intermediate pressures effective swept volume temperature and work done#Ex14_3.sce#2705/CH14/EX14.3/Ex14_3.sce#S##105738
+14#Air and gas compressors#14.2#intermediate pressure volume and cycle power#Ex14_2.sce#2705/CH14/EX14.2/Ex14_2.sce#S##105737
+14#Air and gas compressors#14.1#free air delivered volumetric efficiency temperature cycle power and isothermal efficiency#Ex14_1.sce#2705/CH14/EX14.1/Ex14_1.sce#S##105736
+13#Steam turbines#13.5#blade height power developed and specific enthalpy drop#Ex13_5.sce#2705/CH13/EX13.5/Ex13_5.sce#S##105735
+13#Steam turbines#13.4#power output specific enthalpy drop and increase in relative velocity#Ex13_4.sce#2705/CH13/EX13.4/Ex13_4.sce#S##105734
+13#Steam turbines#13.3#power output and diagram efficiency#Ex13_3.sce#2705/CH13/EX13.3/Ex13_3.sce#S##105733
+13#Steam turbines#13.2#angle of blade work done diagram efficiency and end thrust#Ex13_2.sce#2705/CH13/EX13.2/Ex13_2.sce#S##105732
+13#Steam turbines#13.1#power developed and kinetic energy#Ex13_1.sce#2705/CH13/EX13.1/Ex13_1.sce#S##105731
+12#Nozzle#12.4#velocities and areas#Ex12_4.sce#2705/CH12/EX12.4/Ex12_4.sce#S##105730
+12#Nozzle#12.3#throat area and degree of undercooling#Ex12_3.sce#2705/CH12/EX12.3/Ex12_3.sce#S##105729
+12#Nozzle#12.2#increases in pressure temperature and internal energy #Ex12_2.sce#2705/CH12/EX12.2/Ex12_2.sce#S##105728
+12#Nozzle#12.1#area and Mach number#Ex12_1.sce#2705/CH12/EX12.1/Ex12_1.sce#S##105727
+11#The steam engine#11.9#mean effective pressures diagram factor and percentage of power developed in each cylinder#Ex11_9.sce#2705/CH11/EX11.9/Ex11_9.sce#S##105726
+11#The steam engine#11.8#mean effective pressures diagram factor and indicated power#Ex11_8.sce#2705/CH11/EX11.8/Ex11_8.sce#S##105725
+11#The steam engine#11.7#speed and diameter#Ex11_7.sce#2705/CH11/EX11.7/Ex11_7.sce#S##105724
+11#The steam engine#11.6#power output diameter and intermediate pressure#Ex11_6.sce#2705/CH11/EX11.6/Ex11_6.sce#S##105723
+11#The steam engine#11.5#pressure power output and steam consumption#Ex11_5.sce#2705/CH11/EX11.5/Ex11_5.sce#S##105722
+11#The steam engine#11.4#steam consumption#Ex11_4.sce#2705/CH11/EX11.4/Ex11_4.sce#S##105721
+11#The steam engine#11.3#diagram factor and indicated thermal efficiency#Ex11_3.sce#2705/CH11/EX11.3/Ex11_3.sce#S##105720
+11#The steam engine#11.2#diameter and stroke#Ex11_2.sce#2705/CH11/EX11.2/Ex11_2.sce#S##105719
+11#The steam engine#11.1#bore stroke and speed#Ex11_1.sce#2705/CH11/EX11.1/Ex11_1.sce#S##105718
+10#Steam plant#10.9#power and thermal efficiency#Ex10_9.sce#2705/CH10/EX10.9/Ex10_9.sce#S##105716
+10#Steam plant#10.8#Rankine efficiency steam consumption and Carnot efficiency#Ex10_8.sce#2705/CH10/EX10.8/Ex10_8.sce#S##105715
+10#Steam plant#10.7#Rankine efficiency and specific work done#Ex10_7.sce#2705/CH10/EX10.7/Ex10_7.sce#S##105714
+10#Steam plant#10.6#energy supplied dryness fraction and Rankine efficiency#Ex10_6.sce#2705/CH10/EX10.6/Ex10_6.sce#S##105713
+10#Steam plant#10.5#flow rate#Ex10_5.sce#2705/CH10/EX10.5/Ex10_5.sce#S##105712
+10#Steam plant#10.4#heat transfer and volume#Ex10_4.sce#2705/CH10/EX10.4/Ex10_4.sce#S##105711
+10#Steam plant#10.3#efficiency equivalent evaporation and coal consumption#Ex10_3.sce#2705/CH10/EX10.3/Ex10_3.sce#S##105710
+10#Steam plant#10.2#mass fraction of enthalpy drop and heat transfer#Ex10_2.sce#2705/CH10/EX10.2/Ex10_2.sce#S##105709
+10#Steam plant#10.10#mass and thermal efficiency#Ex10_10.sce#2705/CH10/EX10.10/Ex10_10.sce#S##105717
+10#Steam plant#10.1#equivalent evaporation#Ex10_1.sce#2705/CH10/EX10.1/Ex10_1.sce#S##105708
+9#Heat transfer#9.7#heat lost and surafce temperature of lagging#Ex9_7.sce#2705/CH9/EX9.7/Ex9_7.sce#S##105707
+9#Heat transfer#9.6#overall heat transfer coefficient and heat lost#Ex9_6.sce#2705/CH9/EX9.6/Ex9_6.sce#S##105706
+9#Heat transfer#9.5#Rate of heat transfer#Ex9_5.sce#2705/CH9/EX9.5/Ex9_5.sce#S##105705
+9#Heat transfer#9.4#energy emitted#Ex9_4.sce#2705/CH9/EX9.4/Ex9_4.sce#S##105704
+9#Heat transfer#9.3#heat lost and interface temperature#Ex9_3.sce#2705/CH9/EX9.3/Ex9_3.sce#S##105703
+9#Heat transfer#9.2#thickness of lagging#Ex9_2.sce#2705/CH9/EX9.2/Ex9_2.sce#S##105702
+9#Heat transfer#9.1#interface temperature#Ex9_1.sce#2705/CH9/EX9.1/Ex9_1.sce#S##105701
+8#Combustion#8.9#mass of air supplied#Ex8_9.sce#2705/CH8/EX8.9/Ex8_9.sce#S##105666
+8#Combustion#8.8#composition of gases#Ex8_8.sce#2705/CH8/EX8.8/Ex8_8.sce#S##105665
+8#Combustion#8.7#composition of gases#Ex8_7.sce#2705/CH8/EX8.7/Ex8_7.sce#S##105664
+8#Combustion#8.6#stoichiometric volume composition of products#Ex8_6.sce#2705/CH8/EX8.6/Ex8_6.sce#S##105663
+8#Combustion#8.5#volume#Ex8_5.sce#2705/CH8/EX8.5/Ex8_5.sce#S##105662
+8#Combustion#8.4#stoichiometric volume#Ex8_4.sce#2705/CH8/EX8.4/Ex8_4.sce#S##105661
+8#Combustion#8.3#stoichiometric mass and composition of products#Ex8_3.sce#2705/CH8/EX8.3/Ex8_3.sce#S##105660
+8#Combustion#8.24#mass of air#Ex8_24.sce#2705/CH8/EX8.24/Ex8_24.sce#S##105700
+8#Combustion#8.23#mass and volumetric efficiency#Ex8_23.sce#2705/CH8/EX8.23/Ex8_23.sce#S##105699
+8#Combustion#8.22#gravimetric composition#Ex8_22.sce#2705/CH8/EX8.22/Ex8_22.sce#S##105698
+8#Combustion#8.20#stoichiometric equation#Ex8_20.sce#2705/CH8/EX8.20/Ex8_20.sce#S##105696
+8#Combustion#8.19#temperature and density#Ex8_19.sce#2705/CH8/EX8.19/Ex8_19.sce#S##105695
+8#Combustion#8.18#mass and velocity #Ex8_18.sce#2705/CH8/EX8.18/Ex8_18.sce#S##105694
+8#Combustion#8.17#pressures and volume#Ex8_17.sce#2705/CH8/EX8.17/Ex8_17.sce#S##105693
+8#Combustion#8.16#volume average moleculer mass characteristic gas constant and density#Ex8_16.sce#2705/CH8/EX8.16/Ex8_16.sce#S##105692
+8#Combustion#8.15#mass and composition#Ex8_15.sce#2705/CH8/EX8.15/Ex8_15.sce#S##105691
+8#Combustion#8.14#mass and volume#Ex8_14.sce#2705/CH8/EX8.14/Ex8_14.sce#S##105690
+8#Combustion#8.13#volume and composition by mass#Ex8_13.sce#2705/CH8/EX8.13/Ex8_13.sce#S##105689
+8#Combustion#8.12#stoichiometric volume and composition of products#Ex8_12.sce#2705/CH8/EX8.12/Ex8_12.sce#S##105672
+8#Combustion#8.11#energy carried away#Ex8_11.sce#2705/CH8/EX8.11/Ex8_11.sce#S##105670
+8#Combustion#8.10#volumetric composition of products#Ex8_10.sce#2705/CH8/EX8.10/Ex8_10.sce#S##105668
+8#Combustion#8.1#stoichiometric mass #Ex8_1.sce#2705/CH8/EX8.1/Ex8_1.sce#S##110255
+7#Entropy#7.9#change of entropy#Ex7_9.sce#2705/CH7/EX7.9/Ex7_9.sce#S##105657
+7#Entropy#7.8#change of entropies#Ex7_8.sce#2705/CH7/EX7.8/Ex7_8.sce#S##105656
+7#Entropy#7.7#change of entropy and ratio of change of entropy and heat transfer#Ex7_7.sce#2705/CH7/EX7.7/Ex7_7.sce#S##108951
+7#Entropy#7.6#heat transfer and work done#Ex7_6.sce#2705/CH7/EX7.6/Ex7_6.sce#S##108949
+7#Entropy#7.5#condition of steam and change in specific entropy#Ex7_5.sce#2705/CH7/EX7.5/Ex7_5.sce#S##105653
+7#Entropy#7.4#dryness fraction#Ex7_4.sce#2705/CH7/EX7.4/Ex7_4.sce#S##105652
+7#Entropy#7.3#specific entropy#Ex7_3.sce#2705/CH7/EX7.3/Ex7_3.sce#S##105651
+7#Entropy#7.2#specific entropy#Ex7_2.sce#2705/CH7/EX7.2/Ex7_2.sce#S##108950
+7#Entropy#7.1#specific entropy#Ex7_1.sce#2705/CH7/EX7.1/Ex7_1.sce#S##105648
+5#Gases and single phase systems#5.9#pressure#Ex5_9.sce#2705/CH5/EX5.9/Ex5_9.sce#S##105610
+5#Gases and single phase systems#5.8#heat transfer and work done#Ex5_8.sce#2705/CH5/EX5.8/Ex5_8.sce#S##105609
+5#Gases and single phase systems#5.7#heat transfer and pressure#Ex5_7.sce#2705/CH5/EX5.7/Ex5_7.sce#S##105608
+5#Gases and single phase systems#5.6#mass and temperature#Ex5_6.sce#2705/CH5/EX5.6/Ex5_6.sce#S##105607
+5#Gases and single phase systems#5.5#volume#Ex5_5.sce#2705/CH5/EX5.5/Ex5_5.sce#S##105606
+5#Gases and single phase systems#5.4#temperature#Ex5_4.sce#2705/CH5/EX5.4/Ex5_4.sce#S##105605
+5#Gases and single phase systems#5.3#volume#Ex5_3.sce#2705/CH5/EX5.3/Ex5_3.sce#S##105604
+5#Gases and single phase systems#5.26#volume#Ex5_26.sce#2705/CH5/EX5.26/Ex5_26.sce#S##105643
+5#Gases and single phase systems#5.24#work done change of internal energy and heat transfer#Ex5_24.sce#2705/CH5/EX5.24/Ex5_24.sce#S##105636
+5#Gases and single phase systems#5.23#characteristic gas constant specific heat capacities change of internal energy and work done#Ex5_23.sce#2705/CH5/EX5.23/Ex5_23.sce#S##105633
+5#Gases and single phase systems#5.22#pressure and specific enthalpy#Ex5_22.sce#2705/CH5/EX5.22/Ex5_22.sce#S##105629
+5#Gases and single phase systems#5.21#work done change of internal energy and heat transfer#Ex5_21.sce#2705/CH5/EX5.21/Ex5_21.sce#S##105627
+5#Gases and single phase systems#5.20#mass and heat transfer#Ex5_20.sce#2705/CH5/EX5.20/Ex5_20.sce#S##105624
+5#Gases and single phase systems#5.2#volume#Ex5_2.sce#2705/CH5/EX5.2/Ex5_2.sce#S##105603
+5#Gases and single phase systems#5.19#adiabatic index and change of internal energy#Ex5_19.sce#2705/CH5/EX5.19/Ex5_19.sce#S##105622
+5#Gases and single phase systems#5.18#pressure and dryness fraction#Ex5_18.sce#2705/CH5/EX5.18/Ex5_18.sce#S##105620
+5#Gases and single phase systems#5.17#partial pressure and mass#Ex5_17.sce#2705/CH5/EX5.17/Ex5_17.sce#S##105618
+5#Gases and single phase systems#5.16#pressures#Ex5_16.sce#2705/CH5/EX5.16/Ex5_16.sce#S##105617
+5#Gases and single phase systems#5.15#heat transfer and polytropic heat capacity#Ex5_15.sce#2705/CH5/EX5.15/Ex5_15.sce#S##105616
+5#Gases and single phase systems#5.14#heat transfer change of internal energy and mass#Ex5_14.sce#2705/CH5/EX5.14/Ex5_14.sce#S##105615
+5#Gases and single phase systems#5.13#volume work done and change of internal energy#Ex5_13.sce#2705/CH5/EX5.13/Ex5_13.sce#S##105614
+5#Gases and single phase systems#5.12#change of internal energy work done and heat transfer#Ex5_12.sce#2705/CH5/EX5.12/Ex5_12.sce#S##105613
+5#Gases and single phase systems#5.11#volume pressure and temperature#Ex5_11.sce#2705/CH5/EX5.11/Ex5_11.sce#S##105612
+5#Gases and single phase systems#5.10#temperature#Ex5_10.sce#2705/CH5/EX5.10/Ex5_10.sce#S##105611
+5#Gases and single phase systems#5.1#pressure exerted and difference in two mercury column levels#Ex5_1.sce#2705/CH5/EX5.1/Ex5_1.sce#S##105602
+4#Steam and two phase systems#4.9#specific volume#Ex4_9.sce#2705/CH4/EX4.9/Ex4_9.sce#S##105587
+4#Steam and two phase systems#4.8#specific volume#Ex4_8.sce#2705/CH4/EX4.8/Ex4_8.sce#S##105586
+4#Steam and two phase systems#4.5#specific enthalpy#Ex4_5.sce#2705/CH4/EX4.5/Ex4_5.sce#S##105583
+4#Steam and two phase systems#4.4#specific enthalpy#Ex4_4.sce#2705/CH4/EX4.4/Ex4_4.sce#S##105582
+4#Steam and two phase systems#4.3#specific enthalpy#Ex4_3.sce#2705/CH4/EX4.3/Ex4_3.sce#S##105581
+4#Steam and two phase systems#4.21#volume dryness fraction and change of internal energy#Ex4_21.sce#2705/CH4/EX4.21/Ex4_21.sce#S##105601
+4#Steam and two phase systems#4.20#mass work change in internal energy and heat transfer#Ex4_20.sce#2705/CH4/EX4.20/Ex4_20.sce#S##105600
+4#Steam and two phase systems#4.2#Saturation temperature and specific enthalpies#Ex4_2.sce#2705/CH4/EX4.2/Ex4_2.sce#S##105580
+4#Steam and two phase systems#4.19#condition of steam#Ex4_19.sce#2705/CH4/EX4.19/Ex4_19.sce#S##105599
+4#Steam and two phase systems#4.18#specific heat#Ex4_18.sce#2705/CH4/EX4.18/Ex4_18.sce#S##105598
+4#Steam and two phase systems#4.17#mass dryness fraction and heat transfer#Ex4_17.sce#2705/CH4/EX4.17/Ex4_17.sce#S##105597
+4#Steam and two phase systems#4.16#minimum dryness fraction#Ex4_16.sce#2705/CH4/EX4.16/Ex4_16.sce#S##105596
+4#Steam and two phase systems#4.15#dryness fraction#Ex4_15.sce#2705/CH4/EX4.15/Ex4_15.sce#S##105595
+4#Steam and two phase systems#4.14#dryness fraction#Ex4_14.sce#2705/CH4/EX4.14/Ex4_14.sce#S##105593
+4#Steam and two phase systems#4.13#condition of steam and internal diameter#Ex4_13.sce#2705/CH4/EX4.13/Ex4_13.sce#S##105592
+4#Steam and two phase systems#4.12#dryness fraction#Ex4_12.sce#2705/CH4/EX4.12/Ex4_12.sce#S##105591
+4#Steam and two phase systems#4.11#change of internal energy#Ex4_11.sce#2705/CH4/EX4.11/Ex4_11.sce#S##105590
+4#Steam and two phase systems#4.10#mass of steam and water #Ex4_10.sce#2705/CH4/EX4.10/Ex4_10.sce#S##105589
+4#Steam and two phase systems#4.1#specific enthalpies#Ex4_1.sce#2705/CH4/EX4.1/Ex4_1.sce#S##105579
+2#Systems#2.6#Area velocity and power #Ex2_6.sce#2705/CH2/EX2.6/Ex2_6.sce#S##105578
+2#Systems#2.5#Temperature rise#Ex2_5.sce#2705/CH2/EX2.5/Ex2_5.sce#S##105577
+2#Systems#2.4#Power of the system#Ex2_4.sce#2705/CH2/EX2.4/Ex2_4.sce#S##105576
+2#Systems#2.3#Work done#Ex2_3.sce#2705/CH2/EX2.3/Ex2_3.sce#S##105575
+2#Systems#2.2#Heat transferred#Ex2_2.sce#2705/CH2/EX2.2/Ex2_2.sce#S##105574
+2#Systems#2.1#Change in total energy#Ex2_1.sce#2705/CH2/EX2.1/Ex2_1.sce#S##105572
+1#General Introduction#1.9#Power output and energy rejected#Ex1_9.sce#2705/CH1/EX1.9/Ex1_9.sce#S##103795
+1#General Introduction#1.8#Specific heat capacity#Ex1_8.sce#2705/CH1/EX1.8/Ex1_8.sce#S##103794
+1#General Introduction#1.7#Temperature#Ex1_7.sce#2705/CH1/EX1.7/Ex1_7.sce#S##108952
+1#General Introduction#1.6#Heat transfer#Ex1_6.sce#2705/CH1/EX1.6/Ex1_6.sce#S##103792
+1#General Introduction#1.5#Heat transfer#Ex1_5.sce#2705/CH1/EX1.5/Ex1_5.sce#S##103791
+1#General Introduction#1.4#Final Pressure and work done#Ex1_4.sce#2705/CH1/EX1.4/Ex1_4.sce#S##103790
+1#General Introduction#1.3#Work done#Ex1_3.sce#2705/CH1/EX1.3/Ex1_3.sce#S##103789
+1#General Introduction#1.2#Volume of the gas#Ex1_2.sce#2705/CH1/EX1.2/Ex1_2.sce#S##103788
+1#General Introduction#1.14#Mass of coal burnt#Ex1_14.sce#2705/CH1/EX1.14/Ex1_14.sce#S##103800
+1#General Introduction#1.13#Current#Ex1_13.sce#2705/CH1/EX1.13/Ex1_13.sce#S##103799
+1#General Introduction#1.12#Power output#Ex1_12.sce#2705/CH1/EX1.12/Ex1_12.sce#S##105573
+1#General Introduction#1.11#Power output#Ex1_11.sce#2705/CH1/EX1.11/Ex1_11.sce#S##103797
+1#General Introduction#1.10#Thermal efficiency#Ex1_10.sce#2705/CH1/EX1.10/Ex1_10.sce#S##103796
+1#General Introduction#1.1#Work done#Ex1_1.sce#2705/CH1/EX1.1/Ex1_1.sce#S##103787

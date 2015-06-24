@@ -1,0 +1,7 @@
+
+ # PROBLEM 32 # 
+ Standard formula used 
+ theta = 1.22*lambda/a  
+
+As theta = 2.236667e-05 degree is smaller than alpha = 2.500000e-04 degree
+ so telescope will be able to observe wire mesh.

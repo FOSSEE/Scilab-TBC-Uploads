@@ -1,0 +1,10 @@
+The load impedance   
+ 
+ magnitude (in ohms) =   
+ 
+    148.45323  
+ 
+ angle (in degrees) =   
+ 
+  - 19.750474 
+

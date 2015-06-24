@@ -1,0 +1,16 @@
+  
+ example 4 22   
+ total energy requirement 1.20e+006kWH 
+ maximum demand 375KVA 
+ (a)HV supply   
+ cost of HV equipment Rs1.875000e+005
+ interest and depreciation charges Rs22500 
+ energy received 1.263158e+006kWh
+ demand charges Rs18750 
+ energy charges Rs1.263000e+006 
+ total annual cost Rs1304250 
+ (b) LV supply   
+ demand charges Rs22500 
+ energy charges Rs1e+006 
+ total annual cost Rs1342500 
+ difference in annual cost Rs38250 

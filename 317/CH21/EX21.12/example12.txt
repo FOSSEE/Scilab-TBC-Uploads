@@ -1,0 +1,3 @@
+Q is 2.17
+resonant frequency is 60.3 Hertz
+Voltage gain is 1.77

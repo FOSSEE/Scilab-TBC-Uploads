@@ -1,0 +1,4 @@
+* Resistance R is = 3250.0 ohm 
+* Use Resistance R as 3.3 kohm 
+* Resistance Rf is = 957000.0 ohm 
+                                                                                                  

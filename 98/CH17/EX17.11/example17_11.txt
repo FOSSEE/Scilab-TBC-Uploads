@@ -1,0 +1,6 @@
+% reactance of each generator = 100 % 
+% reactance of transformer = 10 % 
+Required % reactance = 10 % 
+Reactance of reactor = 1.452 ohms 
+
+

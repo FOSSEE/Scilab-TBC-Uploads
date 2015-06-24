@@ -1,0 +1,5 @@
+
+	 total modulation  = 0.851469  
+
+total sideband power radiated  = 130.500000  W 
+ Execution done.   

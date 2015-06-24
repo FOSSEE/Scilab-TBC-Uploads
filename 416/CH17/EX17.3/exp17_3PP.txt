@@ -1,0 +1,15 @@
+  
+ example 17 3   
+
+number of units out 0 ,capacity out 0MW ,capacity available 200MW ,probability 0.814506 
+number of units out 1 ,capacity out 50MW ,capacity available 150MW ,probability 0.171475 
+number of units out 2 ,capacity out 100MW ,capacity available 100MW ,probability 0.013538 
+number of units out 3 ,capacity out 150MW ,capacity available 50MW ,probability 0.000475 
+number of units out 4 ,capacity out 200MW ,capacity available 0MW ,probability 0.000006 
+number of units out 0 ,capacity out 0MW ,capacity available 200MW ,probability 0.814506 ,tg in persentage 0.00 ,expected load 0.000000MW
+number of units out 1 ,capacity out 50MW ,capacity available 150MW ,probability 0.171475 ,tg in persentage 0.00 ,expected load 0.000000MW
+number of units out 2 ,capacity out 100MW ,capacity available 100MW ,probability 0.013538 ,tg in persentage 33.33 ,expected load 0.451205MW
+number of units out 3 ,capacity out 150MW ,capacity available 50MW ,probability 0.000475 ,tg in persentage 66.66 ,expected load 0.031664MW
+number of units out 4 ,capacity out 200MW ,capacity available 0MW ,probability 0.000006 ,tg in persentage 100.00 ,expected load 0.000625MW
+
+expected loss of load is 0.483493MW percent of time. assuming 365 days in a year, then expected loss of load is 1.765MW days per year 

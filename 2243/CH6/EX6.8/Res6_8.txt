@@ -1,0 +1,19 @@
+ Gamma-rays,X-rays : 
+  Energy : 1.24 x 10^6 eV 
+ Momentum : 6.6 x 10^-22 kg m/s 
+
+ UV : 
+  Energy : 124.22 eV 
+ Momentum : 6.6 x 10^-26 kg m/s
+
+ IR : 
+  Energy : 0.0124 eV 
+ Momentum : 6.6 x 10^-30 kg m/s
+
+ Microwave : 
+  Energy : 1.24 x 10^-6 eV 
+ Momentum : 6.6 x 10^-34 kg m/s
+
+ Radio waves : 
+  Energy : 1.24 x 10^-8 eV 
+ Momentum : 6.6 x 10^-36 kg m/s 

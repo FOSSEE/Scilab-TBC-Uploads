@@ -1,0 +1,1 @@
+ Power output of reactor is 0.702446 GW.

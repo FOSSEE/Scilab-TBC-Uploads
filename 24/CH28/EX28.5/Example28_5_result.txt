@@ -1,0 +1,5 @@
+**Sample Problem 28-5a**
+At t=0.693147T, the capacitor will be half charged
+
+**Sample Problem 28-5b**
+At t=0.346574T, the enrgy stored will be half of its MAX value 

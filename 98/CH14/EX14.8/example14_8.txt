@@ -1,0 +1,17 @@
+LAMP LOAD ALONE: 
+Resultant horizontal component = 44.17 A 
+Resultant vertical component = 11.50 A 
+Neutral component = 45.64 A 
+
+BOTH LAMP AND MOTOR LOAD: 
+Nuetral current remains the same, ie In = 45.64 A 
+Active component of motor current = 40 A 
+Reactive component of motor current = 196 A 
+	 Ir = 224.72 A 
+	 Iy = 231.90 A 
+	 Ib = 209.11 A 
+
+POWER SUPPLIED: 
+Power supplied to lamps = 43010 W 
+Power supplied to motor = 27713 W 
+

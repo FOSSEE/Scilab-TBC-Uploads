@@ -1,0 +1,4 @@
+Required speed of motor(in r.p.m) is=   
+ 
+    751.96507  
+ 

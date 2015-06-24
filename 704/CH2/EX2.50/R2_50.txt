@@ -1,0 +1,20 @@
+copper losses of the motor(in watts)=   
+ 
+    2585.2464  
+ 
+ total losses of the motor(in watts)=   
+ 
+    4085.2464  
+ 
+ Output of the motor(in watts)=   
+ 
+    41914.754  
+ 
+ B.H.P. of the motor (in H.P.)=   
+ 
+    56.988108  
+ 
+ efficiency of the motor(in %)=   
+ 
+    91.11903  
+ 

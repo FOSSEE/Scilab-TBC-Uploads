@@ -1,0 +1,1 @@
+ Value of magnetic induction needed to accelerate deuteron in it is 1.573938 T.

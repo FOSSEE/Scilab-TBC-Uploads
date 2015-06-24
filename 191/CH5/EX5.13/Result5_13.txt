@@ -1,0 +1,7 @@
+ (i)The approximating polynomial is :   
+ 
+    8.8991 + 2.6403x   
+ (ii) The approximating polynomial is :   
+ 
+    16.299 + 3.6364x   
+ 

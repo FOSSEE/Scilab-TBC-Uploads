@@ -1,0 +1,93 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example13.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            24   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 13    :    Show the method of running two programs in a pileline 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat pipe2.c      # to open the file emp.lst /* Program pipe2.c -- Runs two programs in a pipeline Child runs cat, parent runs tr */
+#include <stdio.h>
+#include <unistd.h>
+
+void quit(char *message,int exit_status);
+int main(void) { 
+    int fd[2];             /* To be fille dup by pipe() */
+    
+    if (pipe(fd) < 0)      /* Now have four descriptors for pipe */
+        quit("pipe", 1);
+    switch (fork()) {
+           case -1: quit("fork", 2);
+           
+           case 0: close(fd[0]); /* CHILD - Close read end first */
+                   dup2(fd[1], STDOUT_FILENO); /* Connect stdout to write end */
+                   close(fd[1]);      /* and close original descriptor */
+                  execlp("cat", "cat","/etc/hosts.equiv", (char *) 0);
+                   
+           default: close(fd[1]);     /* PARENT -- Close write end first */
+                    dup2(fd[0], STDIN_FILENO);   /* Connect stdin to read end */
+                    close(fd[0]);        /* and close original descriptor */
+                    execlp("tr", "tr", "'[a-z]'","'[A-Z]'",(char *) 0);
+                    quit("tr", 4);
+}
+}
+ $ cc pipe2.c $ a.out  SATURN
+EARTH
+MERCURY
+JUPITER
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

@@ -1,0 +1,11 @@
+clc;
+clear;
+disp("In previosuly problems we have determined the input and output consistent partitions for the Machine M5");
+disp("Input consistent partition {(AB),(CD),(EF)}");
+disp("Output consistent partition {(ACE),(BDF)}");
+disp("By assigning 000 to 101 to all the states from A to F");
+disp("we can find the expressions for the next state and the output");
+disp("Y1=y2");
+disp("Y2=y1^y2^");
+disp("Y3=xy3+xy2+x^y2^y3^+y2y3");
+disp("z=xy3^");

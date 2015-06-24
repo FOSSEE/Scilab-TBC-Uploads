@@ -1,0 +1,5 @@
+
+ # Problem 15b # 
+
+ Standard formula used E = m*c^2
+ Binding energy of deuteron is 2.250000 MeV.

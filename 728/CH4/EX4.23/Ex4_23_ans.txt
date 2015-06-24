@@ -1,0 +1,4 @@
+Breakdown power for dominant mode (in kW) =   
+ 
+    986.40589  
+ 

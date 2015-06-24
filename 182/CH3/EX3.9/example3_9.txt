@@ -1,0 +1,6 @@
+9. (a),
+Iav for 75 V is 74.76 micro-A
+pointer indication for 75 V is 0.75 FSD
+(b),
+Iav for 50 V is 49.51 micro-A
+pointer indication for 50 V is 0.50 FSD

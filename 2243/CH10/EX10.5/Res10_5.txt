@@ -1,0 +1,1 @@
+ Susceptibility = 1.30 x 10^-3 

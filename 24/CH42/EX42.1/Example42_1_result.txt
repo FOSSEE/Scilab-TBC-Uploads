@@ -1,0 +1,2 @@
+**Sample Problem 42-1**
+The probability is equal to 4.291912e-093 

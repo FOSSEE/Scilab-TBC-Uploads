@@ -1,0 +1,21 @@
+//clc()
+Nco = 1;//mol CO
+// CO + 1/2 O2 = CO2
+O2r = 1;//mol
+N2r = 3.76;//mol
+COr = 1;//mol
+O2p = 0.5;//mol
+N2p = 3.76;//mol
+CO2p = 1;//mol
+Hco = 29.23;//J/molK
+Ho2 = 34.83;//J/molK
+Hn2 = 33.03;//J/molK
+Hco2 = 53.59;//J/molK
+Hcomb1 = -282.99;//kJ/mol
+T1 = 298;//K
+T2 = 373;//K
+H1 = (O2r * Ho2 + N2r * Hn2 + COr * Hco) * (T1 - T2);
+//For product at temp T, H2 = (O2p * Ho2 + N2p * Hn2 + CO2p * Hco2) * (T - T1) 
+//For adiabatic condition, -(H1 + Hcomb1) = H2
+T = -(H1 + Hcomb1 * 1000) / (O2p * Ho2 + N2p * Hn2 + CO2p * Hco2) + T1;
+disp("K",T,"Theoretical flame temperature = ")

@@ -1,0 +1,2 @@
+**Sample Problem 8-1**
+The work done by the gravity is 1.568000e+001J 

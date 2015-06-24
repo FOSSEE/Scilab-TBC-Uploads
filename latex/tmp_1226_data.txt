@@ -1,0 +1,405 @@
+21#Gas Turbines and Jet Propulsion#21.9#Multi stage gas turbine#EX21_9.sce#1226/CH21/EX21.9/EX21_9.sce#S##51579
+21#Gas Turbines and Jet Propulsion#21.9#Multi stage gas turbine#EX21_9.jpg#1226/CH21/EX21.9/EX21_9.jpg#R##51580
+21#Gas Turbines and Jet Propulsion#21.8#Efficiency of open cycle gas turbine#EX21_8.sce#1226/CH21/EX21.8/EX21_8.sce#S##51577
+21#Gas Turbines and Jet Propulsion#21.8#Efficiency of open cycle gas turbine#EX21_8.jpg#1226/CH21/EX21.8/EX21_8.jpg#R##51578
+21#Gas Turbines and Jet Propulsion#21.7#Pressure ratio and temperature of the exhaust#EX21_7.sce#1226/CH21/EX21.7/EX21_7.sce#S##51575
+21#Gas Turbines and Jet Propulsion#21.7#Pressure ratio and temperature of the exhaust#EX21_7.jpg#1226/CH21/EX21.7/EX21_7.jpg#R##51576
+21#Gas Turbines and Jet Propulsion#21.6#Open cycle gas turbine#EX21_6.sce#1226/CH21/EX21.6/EX21_6.sce#S##51573
+21#Gas Turbines and Jet Propulsion#21.6#Open cycle gas turbine#EX21_6.jpg#1226/CH21/EX21.6/EX21_6.jpg#R##51574
+21#Gas Turbines and Jet Propulsion#21.5#Thermal efficiency of gas turbine#EX21_5.sce#1226/CH21/EX21.5/EX21_5.sce#S##51571
+21#Gas Turbines and Jet Propulsion#21.5#Thermal efficiency of gas turbine#EX21_5.jpg#1226/CH21/EX21.5/EX21_5.jpg#R##51572
+21#Gas Turbines and Jet Propulsion#21.4#Air fuel ratio for gas turbine #EX21_4.sce#1226/CH21/EX21.4/EX21_4.sce#S##51569
+21#Gas Turbines and Jet Propulsion#21.4#Air fuel ratio for gas turbine #EX21_4.jpg#1226/CH21/EX21.4/EX21_4.jpg#R##51570
+21#Gas Turbines and Jet Propulsion#21.3#Thermal efficiency of Gas turbine#EX21_3.sce#1226/CH21/EX21.3/EX21_3.sce#S##55941
+21#Gas Turbines and Jet Propulsion#21.3#Thermal efficiency of Gas turbine#EX21_3.jpg#1226/CH21/EX21.3/EX21_3.jpg#R##51568
+21#Gas Turbines and Jet Propulsion#21.23#Jet engine#EX21_23.sce#1226/CH21/EX21.23/EX21_23.sce#S##51605
+21#Gas Turbines and Jet Propulsion#21.23#Jet engine#EX21_23.jpg#1226/CH21/EX21.23/EX21_23.jpg#R##51606
+21#Gas Turbines and Jet Propulsion#21.22#Turbo jet with diffuser and nozzle#EX21_22.sce#1226/CH21/EX21.22/EX21_22.sce#S##51603
+21#Gas Turbines and Jet Propulsion#21.22#Turbo jet with diffuser and nozzle#EX21_22.jpg#1226/CH21/EX21.22/EX21_22.jpg#R##51604
+21#Gas Turbines and Jet Propulsion#21.21#Jet propulsion#EX21_21.sce#1226/CH21/EX21.21/EX21_21.sce#S##51601
+21#Gas Turbines and Jet Propulsion#21.21#Jet propulsion#EX21_21.jpg#1226/CH21/EX21.21/EX21_21.jpg#R##51602
+21#Gas Turbines and Jet Propulsion#21.20#Turbo jet engine#EX21_20.sce#1226/CH21/EX21.20/EX21_20.sce#S##51599
+21#Gas Turbines and Jet Propulsion#21.20#Turbo jet engine#EX21_20.jpg#1226/CH21/EX21.20/EX21_20.jpg#R##51600
+21#Gas Turbines and Jet Propulsion#21.2#Open cycle gas turbine#EX21_2.sce#1226/CH21/EX21.2/EX21_2.sce#S##51565
+21#Gas Turbines and Jet Propulsion#21.2#Open cycle gas turbine#EX21_2.jpg#1226/CH21/EX21.2/EX21_2.jpg#R##51566
+21#Gas Turbines and Jet Propulsion#21.19#Turbo jet engine#EX21_19.sce#1226/CH21/EX21.19/EX21_19.sce#S##51597
+21#Gas Turbines and Jet Propulsion#21.19#Turbo jet engine#EX21_19.jpg#1226/CH21/EX21.19/EX21_19.jpg#R##51598
+21#Gas Turbines and Jet Propulsion#21.18#Multi stage gas turbine#EX21_18.sce#1226/CH21/EX21.18/EX21_18.sce#S##51595
+21#Gas Turbines and Jet Propulsion#21.18#Multi stage gas turbine#EX21_18.jpg#1226/CH21/EX21.18/EX21_18.jpg#R##51596
+21#Gas Turbines and Jet Propulsion#21.17#gas turbine power plant#EX21_17.sce#1226/CH21/EX21.17/EX21_17.sce#S##95854
+21#Gas Turbines and Jet Propulsion#21.17#gas turbine power plant#EX21_17.jpg#1226/CH21/EX21.17/EX21_17.jpg#R##51594
+21#Gas Turbines and Jet Propulsion#21.16#Multi stage gas turbine#EX21_16.sce#1226/CH21/EX21.16/EX21_16.sce#S##51591
+21#Gas Turbines and Jet Propulsion#21.16#Multi stage gas turbine#EX21_16.jpg#1226/CH21/EX21.16/EX21_16.jpg#R##51592
+21#Gas Turbines and Jet Propulsion#21.15#Multi stage gas turbine with intercooler and heat exchanger#EX21_15.sce#1226/CH21/EX21.15/EX21_15.sce#S##51589
+21#Gas Turbines and Jet Propulsion#21.15#Multi stage gas turbine with intercooler and heat exchanger#EX21_15.jpg#1226/CH21/EX21.15/EX21_15.jpg#R##51590
+21#Gas Turbines and Jet Propulsion#21.14#Heat exchanger in gas turbine#EX21_14.sce#1226/CH21/EX21.14/EX21_14.sce#S##51587
+21#Gas Turbines and Jet Propulsion#21.14#Heat exchanger in gas turbine#EX21_14.jpg#1226/CH21/EX21.14/EX21_14.jpg#R##51588
+21#Gas Turbines and Jet Propulsion#21.13#Efficiency of gas turbine cycle#EX21_13.sce#1226/CH21/EX21.13/EX21_13.sce#S##51585
+21#Gas Turbines and Jet Propulsion#21.13#Efficiency of gas turbine cycle#EX21_13.jpg#1226/CH21/EX21.13/EX21_13.jpg#R##51586
+21#Gas Turbines and Jet Propulsion#21.11#Power developed and efficiency of power plant#EX21_11.sce#1226/CH21/EX21.11/EX21_11.sce#S##51583
+21#Gas Turbines and Jet Propulsion#21.11#Power developed and efficiency of power plant#EX21_11.jpg#1226/CH21/EX21.11/EX21_11.jpg#R##51584
+21#Gas Turbines and Jet Propulsion#21.10#Multi stage gas turbine#EX21_10.sce#1226/CH21/EX21.10/EX21_10.sce#S##55944
+21#Gas Turbines and Jet Propulsion#21.10#Multi stage gas turbine#EX21_10.jpg#1226/CH21/EX21.10/EX21_10.jpg#R##51582
+21#Gas Turbines and Jet Propulsion#21.1#Open cycle gas turbine#EX21_1.sce#1226/CH21/EX21.1/EX21_1.sce#S##51563
+21#Gas Turbines and Jet Propulsion#21.1#Open cycle gas turbine#EX21_1.jpg#1226/CH21/EX21.1/EX21_1.jpg#R##51564
+20#Air Compressors#20.9#Single stage single acting compressor#EX20_9.sce#1226/CH20/EX20.9/EX20_9.sce#S##52862
+20#Air Compressors#20.9#Single stage single acting compressor#EX20_9.jpg#1226/CH20/EX20.9/EX20_9.jpg#R##52863
+20#Air Compressors#20.8#Single stage double acting compressor#EX20_8.sce#1226/CH20/EX20.8/EX20_8.sce#S##87363
+20#Air Compressors#20.8#Single stage double acting compressor#EX20_8.jpg#1226/CH20/EX20.8/EX20_8.jpg#R##52861
+20#Air Compressors#20.7#Single stage double acting compressor#EX20_7.sce#1226/CH20/EX20.7/EX20_7.sce#S##52858
+20#Air Compressors#20.7#Single stage double acting compressor#EX20_7.jpg#1226/CH20/EX20.7/EX20_7.jpg#R##52859
+20#Air Compressors#20.6#Single stage double acting compressor#EX20_6.sce#1226/CH20/EX20.6/EX20_6.sce#S##52856
+20#Air Compressors#20.6#Single stage double acting compressor#EX20_6.jpg#1226/CH20/EX20.6/EX20_6.jpg#R##52857
+20#Air Compressors#20.5#Low pressure water jacketed rotary compressor#EX20_5.sce#1226/CH20/EX20.5/EX20_5.sce#S##52854
+20#Air Compressors#20.5#Low pressure water jacketed rotary compressor#EX20_5.jpg#1226/CH20/EX20.5/EX20_5.jpg#R##52855
+20#Air Compressors#20.49#Multi stage axial flow compressor#EX20_49.sce#1226/CH20/EX20.49/EX20_49.sce#S##52940
+20#Air Compressors#20.49#Multi stage axial flow compressor#EX20_49.jpg#1226/CH20/EX20.49/EX20_49.jpg#R##52941
+20#Air Compressors#20.48#Axial flow compressor#EX20_48.sce#1226/CH20/EX20.48/EX20_48.sce#S##52938
+20#Air Compressors#20.48#Axial flow compressor#EX20_48.jpg#1226/CH20/EX20.48/EX20_48.jpg#R##52939
+20#Air Compressors#20.47#Eight stage axial flow compressor#EX20_47.sce#1226/CH20/EX20.47/EX20_47.sce#S##52936
+20#Air Compressors#20.47#Eight stage axial flow compressor#EX20_47.jpg#1226/CH20/EX20.47/EX20_47.jpg#R##52937
+20#Air Compressors#20.46#Axial flow compressor#EX20_46.sce#1226/CH20/EX20.46/EX20_46.sce#S##52934
+20#Air Compressors#20.46#Axial flow compressor#EX20_46.jpg#1226/CH20/EX20.46/EX20_46.jpg#R##52935
+20#Air Compressors#20.45#Axial flow compressor#EX20_45.sce#1226/CH20/EX20.45/EX20_45.sce#S##52932
+20#Air Compressors#20.45#Axial flow compressor#EX20_45.jpg#1226/CH20/EX20.45/EX20_45.jpg#R##52933
+20#Air Compressors#20.44#Axial flow compressor#EX20_44.sce#1226/CH20/EX20.44/EX20_44.sce#S##52930
+20#Air Compressors#20.44#Axial flow compressor#EX20_44.jpg#1226/CH20/EX20.44/EX20_44.jpg#R##52931
+20#Air Compressors#20.43#Centrifugal compressor#EX20_43.sce#1226/CH20/EX20.43/EX20_43.sce#S##52928
+20#Air Compressors#20.43#Centrifugal compressor#EX20_43.jpg#1226/CH20/EX20.43/EX20_43.jpg#R##52929
+20#Air Compressors#20.42#Centrifugal compressor#EX20_42.sce#1226/CH20/EX20.42/EX20_42.sce#S##52926
+20#Air Compressors#20.42#Centrifugal compressor#EX20_42.jpg#1226/CH20/EX20.42/EX20_42.jpg#R##52927
+20#Air Compressors#20.41#Centrifugal compressor#EX20_41.sce#1226/CH20/EX20.41/EX20_41.sce#S##52924
+20#Air Compressors#20.41#Centrifugal compressor#EX20_41.jpg#1226/CH20/EX20.41/EX20_41.jpg#R##52925
+20#Air Compressors#20.40#Centrifugal compressor#EX20_40.sce#1226/CH20/EX20.40/EX20_40.sce#S##55973
+20#Air Compressors#20.40#Centrifugal compressor#EX20_40.jpg#1226/CH20/EX20.40/EX20_40.jpg#R##52923
+20#Air Compressors#20.4#Single stage compressor#EX20_4.sce#1226/CH20/EX20.4/EX20_4.sce#S##52852
+20#Air Compressors#20.4#Single stage compressor#EX20_4.jpg#1226/CH20/EX20.4/EX20_4.jpg#R##52853
+20#Air Compressors#20.39#Centrifugal compressor#EX20_39.sce#1226/CH20/EX20.39/EX20_39.sce#S##55983
+20#Air Compressors#20.39#Centrifugal compressor#EX20_39.jpg#1226/CH20/EX20.39/EX20_39.jpg#R##52921
+20#Air Compressors#20.38#Single inlet type centrifugal compressor#EX20_38.sce#1226/CH20/EX20.38/EX20_38.sce#S##52918
+20#Air Compressors#20.38#Single inlet type centrifugal compressor#EX20_38.jpg#1226/CH20/EX20.38/EX20_38.jpg#R##52919
+20#Air Compressors#20.37#Centrifugal compressor#EX20_37.sce#1226/CH20/EX20.37/EX20_37.sce#S##55990
+20#Air Compressors#20.37#Centrifugal compressor#EX20_37.jpg#1226/CH20/EX20.37/EX20_37.jpg#R##52917
+20#Air Compressors#20.36#Roots blower#EX20_36.sce#1226/CH20/EX20.36/EX20_36.sce#S##52914
+20#Air Compressors#20.36#Roots blower#EX20_36.jpg#1226/CH20/EX20.36/EX20_36.jpg#R##52915
+20#Air Compressors#20.35#Comparison of roots blower and vane type compressor#EX20_35.sce#1226/CH20/EX20.35/EX20_35.sce#S##52912
+20#Air Compressors#20.35#Comparison of roots blower and vane type compressor#EX20_35.jpg#1226/CH20/EX20.35/EX20_35.jpg#R##52913
+20#Air Compressors#20.34#Indicated power and air supplied per minute#EX20_34.sce#1226/CH20/EX20.34/EX20_34.sce#S##55986
+20#Air Compressors#20.34#Indicated power and air supplied per minute#EX20_34.jpg#1226/CH20/EX20.34/EX20_34.jpg#R##52911
+20#Air Compressors#20.32#Three stage compressor#EX20_32.sce#1226/CH20/EX20.32/EX20_32.sce#S##55977
+20#Air Compressors#20.32#Three stage compressor#EX20_32.jpg#1226/CH20/EX20.32/EX20_32.jpg#R##52909
+20#Air Compressors#20.31#Multi stage compressor#EX20_31.sce#1226/CH20/EX20.31/EX20_31.sce#S##52906
+20#Air Compressors#20.31#Multi stage compressor#EX20_31.jpg#1226/CH20/EX20.31/EX20_31.jpg#R##52907
+20#Air Compressors#20.30#Multi stage compressor#EX20_30.sce#1226/CH20/EX20.30/EX20_30.sce#S##52904
+20#Air Compressors#20.30#Multi stage compressor#EX20_30.jpg#1226/CH20/EX20.30/EX20_30.jpg#R##52905
+20#Air Compressors#20.3#Work done and heat transferred during single stage compression#EX20_3.sce#1226/CH20/EX20.3/EX20_3.sce#S##52850
+20#Air Compressors#20.3#Work done and heat transferred during single stage compression#EX20_3.jpg#1226/CH20/EX20.3/EX20_3.jpg#R##52851
+20#Air Compressors#20.29#Three stage compressor#EX20_29.sce#1226/CH20/EX20.29/EX20_29.sce#S##52902
+20#Air Compressors#20.29#Three stage compressor#EX20_29.jpg#1226/CH20/EX20.29/EX20_29.jpg#R##52903
+20#Air Compressors#20.28#Three stage compressor#EX20_28.sce#1226/CH20/EX20.28/EX20_28.sce#S##52900
+20#Air Compressors#20.28#Three stage compressor#EX20_28.jpg#1226/CH20/EX20.28/EX20_28.jpg#R##52901
+20#Air Compressors#20.27#Three stage compressor#EX20_27.sce#1226/CH20/EX20.27/EX20_27.sce#S##52898
+20#Air Compressors#20.27#Three stage compressor#EX20_27.jpg#1226/CH20/EX20.27/EX20_27.jpg#R##52899
+20#Air Compressors#20.26#Two stage single acting compressor#EX20_26.sce#1226/CH20/EX20.26/EX20_26.sce#S##52896
+20#Air Compressors#20.26#Two stage single acting compressor#EX20_26.jpg#1226/CH20/EX20.26/EX20_26.jpg#R##52897
+20#Air Compressors#20.25#Two stage single acting compressor#EX20_25.sce#1226/CH20/EX20.25/EX20_25.sce#S##52894
+20#Air Compressors#20.25#Two stage single acting compressor#EX20_25.jpg#1226/CH20/EX20.25/EX20_25.jpg#R##52895
+20#Air Compressors#20.24#Two stage double acting compressor#EX20_24.sce#1226/CH20/EX20.24/EX20_24.sce#S##52892
+20#Air Compressors#20.24#Two stage double acting compressor#EX20_24.jpg#1226/CH20/EX20.24/EX20_24.jpg#R##52893
+20#Air Compressors#20.23#Two stage compressor#EX20_23.sce#1226/CH20/EX20.23/EX20_23.sce#S##52890
+20#Air Compressors#20.23#Two stage compressor#EX20_23.jpg#1226/CH20/EX20.23/EX20_23.jpg#R##52891
+20#Air Compressors#20.22#Single acting two stage compressor#EX20_22.sce#1226/CH20/EX20.22/EX20_22.sce#S##52888
+20#Air Compressors#20.22#Single acting two stage compressor#EX20_22.jpg#1226/CH20/EX20.22/EX20_22.jpg#R##52889
+20#Air Compressors#20.21#Single acting two stage compressor#EX20_21.sce#1226/CH20/EX20.21/EX20_21.sce#S##55999
+20#Air Compressors#20.21#Single acting two stage compressor#EX20_21.jpg#1226/CH20/EX20.21/EX20_21.jpg#R##52887
+20#Air Compressors#20.20#Two stage compressor#EX20_20.sce#1226/CH20/EX20.20/EX20_20.sce#S##52884
+20#Air Compressors#20.20#Two stage compressor#EX20_20.jpg#1226/CH20/EX20.20/EX20_20.jpg#R##52885
+20#Air Compressors#20.2#Motor power and bore of single stage compressor#EX20_2.sce#1226/CH20/EX20.2/EX20_2.sce#S##52848
+20#Air Compressors#20.2#Motor power and bore of single stage compressor#EX20_2.jpg#1226/CH20/EX20.2/EX20_2.jpg#R##52849
+20#Air Compressors#20.19#Two stage compressor#EX20_19.sce#1226/CH20/EX20.19/EX20_19.sce#S##52882
+20#Air Compressors#20.19#Two stage compressor#EX20_19.jpg#1226/CH20/EX20.19/EX20_19.jpg#R##52883
+20#Air Compressors#20.18#Two stage compressor#EX20_18.sce#1226/CH20/EX20.18/EX20_18.sce#S##52880
+20#Air Compressors#20.18#Two stage compressor#EX20_18.jpg#1226/CH20/EX20.18/EX20_18.jpg#R##52881
+20#Air Compressors#20.17#Two stage compressor#EX20_17.sce#1226/CH20/EX20.17/EX20_17.sce#S##52878
+20#Air Compressors#20.17#Two stage compressor#EX20_17.jpg#1226/CH20/EX20.17/EX20_17.jpg#R##52879
+20#Air Compressors#20.16#Two stage compressor#EX20_16.sce#1226/CH20/EX20.16/EX20_16.sce#S##52876
+20#Air Compressors#20.16#Two stage compressor#EX20_16.jpg#1226/CH20/EX20.16/EX20_16.jpg#R##52877
+20#Air Compressors#20.15#Double acting compressor#EX20_15.sce#1226/CH20/EX20.15/EX20_15.sce#S##56002
+20#Air Compressors#20.15#Double acting compressor#EX20_15.jpg#1226/CH20/EX20.15/EX20_15.jpg#R##52875
+20#Air Compressors#20.14#Single stage single acting compressor#EX20_14.sce#1226/CH20/EX20.14/EX20_14.sce#S##52872
+20#Air Compressors#20.14#Single stage single acting compressor#EX20_14.jpg#1226/CH20/EX20.14/EX20_14.jpg#R##52873
+20#Air Compressors#20.13#Single stage double acting compressor#EX20_13.sce#1226/CH20/EX20.13/EX20_13.sce#S##52870
+20#Air Compressors#20.13#Single stage double acting compressor#EX20_13.jpg#1226/CH20/EX20.13/EX20_13.jpg#R##52871
+20#Air Compressors#20.12#Two cylinder single acting compressor#EX20_12.sce#1226/CH20/EX20.12/EX20_12.sce#S##52868
+20#Air Compressors#20.12#Two cylinder single acting compressor#EX20_12.jpg#1226/CH20/EX20.12/EX20_12.jpg#R##52869
+20#Air Compressors#20.11#Single stage double acting compressor#EX20_11.sce#1226/CH20/EX20.11/EX20_11.sce#S##52866
+20#Air Compressors#20.11#Single stage double acting compressor#EX20_11.jpg#1226/CH20/EX20.11/EX20_11.jpg#R##52867
+20#Air Compressors#20.10#Percentage change in volume and power#EX20_10.sce#1226/CH20/EX20.10/EX20_10.sce#S##52864
+20#Air Compressors#20.10#Percentage change in volume and power#EX20_10.jpg#1226/CH20/EX20.10/EX20_10.jpg#R##52865
+20#Air Compressors#20.1#Single stage reciprocating compressor#EX20_1.sce#1226/CH20/EX20.1/EX20_1.sce#S##52846
+20#Air Compressors#20.1#Single stage reciprocating compressor#EX20_1.jpg#1226/CH20/EX20.1/EX20_1.jpg#R##52847
+17#Testing and Performance of IC Engines#17.9#Indicated power and brake power and mechanical efficiency#EX17_9.sce#1226/CH17/EX17.9/EX17_9.sce#S##46822
+17#Testing and Performance of IC Engines#17.9#Indicated power and brake power and mechanical efficiency#EX17_9.jpg#1226/CH17/EX17.9/EX17_9.jpg#R##46823
+17#Testing and Performance of IC Engines#17.8#Brake power#EX17_8.sce#1226/CH17/EX17.8/EX17_8.sce#S##46820
+17#Testing and Performance of IC Engines#17.8#Brake power#EX17_8.jpg#1226/CH17/EX17.8/EX17_8.jpg#R##46821
+17#Testing and Performance of IC Engines#17.7#Brake power and brake thermal efficiency#EX17_7.sce#1226/CH17/EX17.7/EX17_7.sce#S##46818
+17#Testing and Performance of IC Engines#17.7#Brake power and brake thermal efficiency#EX17_7.jpg#1226/CH17/EX17.7/EX17_7.jpg#R##46819
+17#Testing and Performance of IC Engines#17.6#Ratio of power output when using different fuels#EX17_6.sce#1226/CH17/EX17.6/EX17_6.sce#S##46816
+17#Testing and Performance of IC Engines#17.6#Ratio of power output when using different fuels#EX17_6.jpg#1226/CH17/EX17.6/EX17_6.jpg#R##46817
+17#Testing and Performance of IC Engines#17.5#Bore and stroke#EX17_5.sce#1226/CH17/EX17.5/EX17_5.sce#S##46814
+17#Testing and Performance of IC Engines#17.5#Bore and stroke#EX17_5.jpg#1226/CH17/EX17.5/EX17_5.jpg#R##46815
+17#Testing and Performance of IC Engines#17.46#Morse test#EX17_46.sce#1226/CH17/EX17.46/EX17_46.sce#S##46898
+17#Testing and Performance of IC Engines#17.46#Morse test#EX17_46.jpg#1226/CH17/EX17.46/EX17_46.jpg#R##46899
+17#Testing and Performance of IC Engines#17.45#Morse test#EX17_45.sce#1226/CH17/EX17.45/EX17_45.sce#S##46896
+17#Testing and Performance of IC Engines#17.45#Morse test#EX17_45.jpg#1226/CH17/EX17.45/EX17_45.jpg#R##46897
+17#Testing and Performance of IC Engines#17.44#Heat balance sheet#EX17_44.sce#1226/CH17/EX17.44/EX17_44.sce#S##46894
+17#Testing and Performance of IC Engines#17.44#Heat balance sheet#EX17_44.jpg#1226/CH17/EX17.44/EX17_44.jpg#R##46895
+17#Testing and Performance of IC Engines#17.43#Heat balance sheet#EX17_43.sce#1226/CH17/EX17.43/EX17_43.sce#S##46892
+17#Testing and Performance of IC Engines#17.43#Heat balance sheet#EX17_43.jpg#1226/CH17/EX17.43/EX17_43.jpg#R##46893
+17#Testing and Performance of IC Engines#17.42#Heat balance sheet#EX17_42.sce#1226/CH17/EX17.42/EX17_42.sce#S##46890
+17#Testing and Performance of IC Engines#17.42#Heat balance sheet#EX17_42.jpg#1226/CH17/EX17.42/EX17_42.jpg#R##46891
+17#Testing and Performance of IC Engines#17.41#Heat balance sheet#EX17_41.sce#1226/CH17/EX17.41/EX17_41.sce#S##46888
+17#Testing and Performance of IC Engines#17.41#Heat balance sheet#EX17_41.jpg#1226/CH17/EX17.41/EX17_41.jpg#R##46889
+17#Testing and Performance of IC Engines#17.40#Finding the parameters for IC engine#EX17_40.sce#1226/CH17/EX17.40/EX17_40.sce#S##46886
+17#Testing and Performance of IC Engines#17.40#Finding the parameters for IC engine#EX17_40.jpg#1226/CH17/EX17.40/EX17_40.jpg#R##46887
+17#Testing and Performance of IC Engines#17.4#Engine displacement#EX17_4.sce#1226/CH17/EX17.4/EX17_4.sce#S##46812
+17#Testing and Performance of IC Engines#17.4#Engine displacement#EX17_4.jpg#1226/CH17/EX17.4/EX17_4.jpg#R##46813
+17#Testing and Performance of IC Engines#17.39#heat balance sheet#EX17_39.sce#1226/CH17/EX17.39/EX17_39.sce#S##46884
+17#Testing and Performance of IC Engines#17.39#heat balance sheet#EX17_39.jpg#1226/CH17/EX17.39/EX17_39.jpg#R##46885
+17#Testing and Performance of IC Engines#17.38#Heat balance sheet#EX17_38.sce#1226/CH17/EX17.38/EX17_38.sce#S##46882
+17#Testing and Performance of IC Engines#17.38#Heat balance sheet#EX17_38.jpg#1226/CH17/EX17.38/EX17_38.jpg#R##46883
+17#Testing and Performance of IC Engines#17.37#Heat balance sheet#EX17_37.sce#1226/CH17/EX17.37/EX17_37.sce#S##46880
+17#Testing and Performance of IC Engines#17.37#Heat balance sheet#EX17_37.jpg#1226/CH17/EX17.37/EX17_37.jpg#R##46881
+17#Testing and Performance of IC Engines#17.36#Finding all parameters of IC engine#EX17_36.sce#1226/CH17/EX17.36/EX17_36.sce#S##46878
+17#Testing and Performance of IC Engines#17.36#Finding all parameters of IC engine#EX17_36.jpg#1226/CH17/EX17.36/EX17_36.jpg#R##46879
+17#Testing and Performance of IC Engines#17.35#Finding all parameters of IC engine#EX17_35.sce#1226/CH17/EX17.35/EX17_35.sce#S##46874
+17#Testing and Performance of IC Engines#17.35#Finding all parameters of IC engine#EX17_35.jpg#1226/CH17/EX17.35/EX17_35.jpg#R##46875
+17#Testing and Performance of IC Engines#17.34#Indicated thermal efficiency and brake mean effective pressure#EX17_34.sce#1226/CH17/EX17.34/EX17_34.sce#S##46872
+17#Testing and Performance of IC Engines#17.34#Indicated thermal efficiency and brake mean effective pressure#EX17_34.jpg#1226/CH17/EX17.34/EX17_34.jpg#R##46873
+17#Testing and Performance of IC Engines#17.33#Finding all parameters of the engine#EX17_33.sce#1226/CH17/EX17.33/EX17_33.sce#S##46870
+17#Testing and Performance of IC Engines#17.33#Finding all parameters of the engine#EX17_33.jpg#1226/CH17/EX17.33/EX17_33.jpg#R##46871
+17#Testing and Performance of IC Engines#17.32#Finding all parameters of the engine#EX17_32.sce#1226/CH17/EX17.32/EX17_32.sce#S##46868
+17#Testing and Performance of IC Engines#17.32#Finding all parameters of the engine#EX17_32.jpg#1226/CH17/EX17.32/EX17_32.jpg#R##46869
+17#Testing and Performance of IC Engines#17.31#Mechanical efficiency and brake thermal efficiency#EX17_31.sce#1226/CH17/EX17.31/EX17_31.sce#S##46866
+17#Testing and Performance of IC Engines#17.31#Mechanical efficiency and brake thermal efficiency#EX17_31.jpg#1226/CH17/EX17.31/EX17_31.jpg#R##46867
+17#Testing and Performance of IC Engines#17.30#Full load brake power and mechanical efficiency#EX17_30.sce#1226/CH17/EX17.30/EX17_30.sce#S##46864
+17#Testing and Performance of IC Engines#17.30#Full load brake power and mechanical efficiency#EX17_30.jpg#1226/CH17/EX17.30/EX17_30.jpg#R##46865
+17#Testing and Performance of IC Engines#17.3#Brake power#EX17_3.sce#1226/CH17/EX17.3/EX17_3.sce#S##46810
+17#Testing and Performance of IC Engines#17.3#Brake power#EX17_3.jpg#1226/CH17/EX17.3/EX17_3.jpg#R##46811
+17#Testing and Performance of IC Engines#17.29#Finding all parameters of engine#EX17_29.sce#1226/CH17/EX17.29/EX17_29.sce#S##46862
+17#Testing and Performance of IC Engines#17.29#Finding all parameters of engine#EX17_29.jpg#1226/CH17/EX17.29/EX17_29.jpg#R##46863
+17#Testing and Performance of IC Engines#17.28#Indicated mean effective pressure and brake mean effective pressure#EX17_28.sce#1226/CH17/EX17.28/EX17_28.sce#S##46876
+17#Testing and Performance of IC Engines#17.28#Indicated mean effective pressure and brake mean effective pressure#EX17_28.jpg#1226/CH17/EX17.28/EX17_28.jpg#R##46877
+17#Testing and Performance of IC Engines#17.27#Mean effective pressure developed#EX17_27.sce#1226/CH17/EX17.27/EX17_27.sce#S##46858
+17#Testing and Performance of IC Engines#17.27#Mean effective pressure developed#EX17_27.jpg#1226/CH17/EX17.27/EX17_27.jpg#R##46859
+17#Testing and Performance of IC Engines#17.26#Compression ratio and thermal efficiency and gas consumption#EX17_26.sce#1226/CH17/EX17.26/EX17_26.sce#S##46856
+17#Testing and Performance of IC Engines#17.26#Compression ratio and thermal efficiency and gas consumption#EX17_26.jpg#1226/CH17/EX17.26/EX17_26.jpg#R##46857
+17#Testing and Performance of IC Engines#17.25#finding all parameters of engine#EX17_25.sce#1226/CH17/EX17.25/EX17_25.sce#S##55962
+17#Testing and Performance of IC Engines#17.25#finding all parameters of engine#EX17_25.jpg#1226/CH17/EX17.25/EX17_25.jpg#R##46855
+17#Testing and Performance of IC Engines#17.24#Volumetric efficiency#EX17_24.sce#1226/CH17/EX17.24/EX17_24.sce#S##46852
+17#Testing and Performance of IC Engines#17.24#Volumetric efficiency#EX17_24.jpg#1226/CH17/EX17.24/EX17_24.jpg#R##46853
+17#Testing and Performance of IC Engines#17.23#Brake mean effective pressure#EX17_23.sce#1226/CH17/EX17.23/EX17_23.sce#S##46850
+17#Testing and Performance of IC Engines#17.23#Brake mean effective pressure#EX17_23.jpg#1226/CH17/EX17.23/EX17_23.jpg#R##46851
+17#Testing and Performance of IC Engines#17.22#Finding all engine parameters#EX17_22.sce#1226/CH17/EX17.22/EX17_22.sce#S##46848
+17#Testing and Performance of IC Engines#17.22#Finding all engine parameters#EX17_22.jpg#1226/CH17/EX17.22/EX17_22.jpg#R##46849
+17#Testing and Performance of IC Engines#17.21#Indicated power and indicated thermal efficiency#EX17_21.sce#1226/CH17/EX17.21/EX17_21.sce#S##46846
+17#Testing and Performance of IC Engines#17.21#Indicated power and indicated thermal efficiency#EX17_21.jpg#1226/CH17/EX17.21/EX17_21.jpg#R##46847
+17#Testing and Performance of IC Engines#17.20#Average no of misfires per min#EX17_20.sce#1226/CH17/EX17.20/EX17_20.sce#S##46844
+17#Testing and Performance of IC Engines#17.20#Average no of misfires per min#EX17_20.jpg#1226/CH17/EX17.20/EX17_20.jpg#R##46845
+17#Testing and Performance of IC Engines#17.2#Bore and Stroke of engine#EX17_2.sce#1226/CH17/EX17.2/EX17_2.sce#S##46808
+17#Testing and Performance of IC Engines#17.2#Bore and Stroke of engine#EX17_2.jpg#1226/CH17/EX17.2/EX17_2.jpg#R##46809
+17#Testing and Performance of IC Engines#17.19#Volumetric efficiency and brake thermal efficiency and brake torque#EX17_19.sce#1226/CH17/EX17.19/EX17_19.sce#S##46842
+17#Testing and Performance of IC Engines#17.19#Volumetric efficiency and brake thermal efficiency and brake torque#EX17_19.jpg#1226/CH17/EX17.19/EX17_19.jpg#R##46843
+17#Testing and Performance of IC Engines#17.18#Engine bore and stroke and Fuel consumption#EX17_18.sce#1226/CH17/EX17.18/EX17_18.sce#S##46840
+17#Testing and Performance of IC Engines#17.18#Engine bore and stroke and Fuel consumption#EX17_18.jpg#1226/CH17/EX17.18/EX17_18.jpg#R##46841
+17#Testing and Performance of IC Engines#17.17#Fuel consumption and calorific value of fuel#EX17_17.sce#1226/CH17/EX17.17/EX17_17.sce#S##46838
+17#Testing and Performance of IC Engines#17.17#Fuel consumption and calorific value of fuel#EX17_17.jpg#1226/CH17/EX17.17/EX17_17.jpg#R##46839
+17#Testing and Performance of IC Engines#17.16#BSFC and brake thermal efficiency#EX17_16.sce#1226/CH17/EX17.16/EX17_16.sce#S##46836
+17#Testing and Performance of IC Engines#17.16#BSFC and brake thermal efficiency#EX17_16.jpg#1226/CH17/EX17.16/EX17_16.jpg#R##46837
+17#Testing and Performance of IC Engines#17.15#Indicated thermal efficiency and brake thermal efficiency and mechanical efficiency#EX17_15.sce#1226/CH17/EX17.15/EX17_15.sce#S##46834
+17#Testing and Performance of IC Engines#17.15#Indicated thermal efficiency and brake thermal efficiency and mechanical efficiency#EX17_15.jpg#1226/CH17/EX17.15/EX17_15.jpg#R##46835
+17#Testing and Performance of IC Engines#17.14#Engine bore and stroke#EX17_14.sce#1226/CH17/EX17.14/EX17_14.sce#S##46832
+17#Testing and Performance of IC Engines#17.14#Engine bore and stroke#EX17_14.jpg#1226/CH17/EX17.14/EX17_14.jpg#R##46833
+17#Testing and Performance of IC Engines#17.13#Mechanical efficiency#EX17_13.sce#1226/CH17/EX17.13/EX17_13.sce#S##55966
+17#Testing and Performance of IC Engines#17.13#Mechanical efficiency#EX17_13.jpg#1226/CH17/EX17.13/EX17_13.jpg#R##46831
+17#Testing and Performance of IC Engines#17.12#Volumetric efficiency and BSFC#EX17_12.sce#1226/CH17/EX17.12/EX17_12.sce#S##46828
+17#Testing and Performance of IC Engines#17.12#Volumetric efficiency and BSFC#EX17_12.jpg#1226/CH17/EX17.12/EX17_12.jpg#R##46829
+17#Testing and Performance of IC Engines#17.11#Indicated thermal efficiency and brake power#EX17_11.sce#1226/CH17/EX17.11/EX17_11.sce#S##46826
+17#Testing and Performance of IC Engines#17.11#Indicated thermal efficiency and brake power#EX17_11.jpg#1226/CH17/EX17.11/EX17_11.jpg#R##46827
+17#Testing and Performance of IC Engines#17.10#BSFC and brake thermal efficiency#EX17_10.sce#1226/CH17/EX17.10/EX17_10.sce#S##46824
+17#Testing and Performance of IC Engines#17.10#BSFC and brake thermal efficiency#EX17_10.jpg#1226/CH17/EX17.10/EX17_10.jpg#R##46825
+17#Testing and Performance of IC Engines#17.1#Indicated power#EX17_1.sce#1226/CH17/EX17.1/EX17_1.sce#S##46806
+17#Testing and Performance of IC Engines#17.1#Indicated power#EX17_1.jpg#1226/CH17/EX17.1/EX17_1.jpg#R##46807
+16#Supercharging of IC Engines#16.5#Compressor run by supercharged Engine#EX16_5.sce#1226/CH16/EX16.5/EX16_5.sce#S##43099
+16#Supercharging of IC Engines#16.5#Compressor run by supercharged Engine#EX16_5.jpg#1226/CH16/EX16.5/EX16_5.jpg#R##43100
+16#Supercharging of IC Engines#16.4#Engine Capacity and Brake Mean effective Pressure#EX16_4.sce#1226/CH16/EX16.4/EX16_4.sce#S##43097
+16#Supercharging of IC Engines#16.4#Engine Capacity and Brake Mean effective Pressure#EX16_4.jpg#1226/CH16/EX16.4/EX16_4.jpg#R##43098
+16#Supercharging of IC Engines#16.3#Increase in Brake Power due to supercharger#EX16_3.sce#1226/CH16/EX16.3/EX16_3.sce#S##43095
+16#Supercharging of IC Engines#16.3#Increase in Brake Power due to supercharger#EX16_3.jpg#1226/CH16/EX16.3/EX16_3.jpg#R##43096
+16#Supercharging of IC Engines#16.2#Engine Capacity and Brake Mean effective Pressure#EX_2.sce#1226/CH16/EX16.2/EX_2.sce#S##43093
+16#Supercharging of IC Engines#16.2#Engine Capacity and Brake Mean effective Pressure#EX16_2.jpg#1226/CH16/EX16.2/EX16_2.jpg#R##43094
+16#Supercharging of IC Engines#16.1#Power supplied to supercharger#EX16_1.sce#1226/CH16/EX16.1/EX16_1.sce#S##43091
+16#Supercharging of IC Engines#16.1#Power supplied to supercharger#EX16_1.jpg#1226/CH16/EX16.1/EX16_1.jpg#R##43092
+15#Engine Cooling#17.28#Indicated mean effective pressure and brake mean effective pressure#EX17_28.sce#1226/CH15/EX17.28/EX17_28.sce#S##46860
+15#Engine Cooling#17.28#Indicated mean effective pressure and brake mean effective pressure#EX17_28.jpg#1226/CH15/EX17.28/EX17_28.jpg#R##46861
+15#Engine Cooling#15.1#Coolant required for petrol and diesel engine#EX15_1.sce#1226/CH15/EX15.1/EX15_1.sce#S##42837
+15#Engine Cooling#15.1#Coolant required for petrol and diesel engine#EX15_1.jpg#1226/CH15/EX15.1/EX15_1.jpg#R##42838
+12#Fuel Injection Systems for CI Engines#12.9#Calculation of fuel spray time#EX12_9.sce#1226/CH12/EX12.9/EX12_9.sce#S##42822
+12#Fuel Injection Systems for CI Engines#12.9#Calculation of fuel spray time#EX12_9.jpg#1226/CH12/EX12.9/EX12_9.jpg#R##42823
+12#Fuel Injection Systems for CI Engines#12.8#Plunger displacement and effective stroke#EX12_8.sce#1226/CH12/EX12.8/EX12_8.sce#S##42820
+12#Fuel Injection Systems for CI Engines#12.8#Plunger displacement and effective stroke#EX12_8.jpg#1226/CH12/EX12.8/EX12_8.jpg#R##42821
+12#Fuel Injection Systems for CI Engines#12.7#Amount of fuel injected and injector diameter#EX12_7.sce#1226/CH12/EX12.7/EX12_7.sce#S##42818
+12#Fuel Injection Systems for CI Engines#12.7#Amount of fuel injected and injector diameter#EX12_7.jpg#1226/CH12/EX12.7/EX12_7.jpg#R##42819
+12#Fuel Injection Systems for CI Engines#12.6#Injector orifice area#EX12_6.sce#1226/CH12/EX12.6/EX12_6.sce#S##42816
+12#Fuel Injection Systems for CI Engines#12.6#Injector orifice area#EX12_6.jpg#1226/CH12/EX12.6/EX12_6.jpg#R##42817
+12#Fuel Injection Systems for CI Engines#12.5#Fuel consumption#EX12_5.sce#1226/CH12/EX12.5/EX12_5.sce#S##42814
+12#Fuel Injection Systems for CI Engines#12.5#Fuel consumption#EX12_5.jpg#1226/CH12/EX12.5/EX12_5.jpg#R##42815
+12#Fuel Injection Systems for CI Engines#12.4#Diameter of injector nozzle#EX12_4.sce#1226/CH12/EX12.4/EX12_4.sce#S##42812
+12#Fuel Injection Systems for CI Engines#12.4#Diameter of injector nozzle#EX12_4.jpg#1226/CH12/EX12.4/EX12_4.jpg#R##42813
+12#Fuel Injection Systems for CI Engines#12.3#Volume of fuel injected and diameter of Injector#EX12_3.sce#1226/CH12/EX12.3/EX12_3.sce#S##42810
+12#Fuel Injection Systems for CI Engines#12.3#Volume of fuel injected and diameter of Injector#EX12_3.jpg#1226/CH12/EX12.3/EX12_3.jpg#R##42811
+12#Fuel Injection Systems for CI Engines#12.2#Diameter of injector nozzle#EX12_2.sce#1226/CH12/EX12.2/EX12_2.sce#S##42808
+12#Fuel Injection Systems for CI Engines#12.2#Diameter of injector nozzle#EX12_2.jpg#1226/CH12/EX12.2/EX12_2.jpg#R##42809
+12#Fuel Injection Systems for CI Engines#12.1#Quantity of fuel injected per cycle#EX12_1.sce#1226/CH12/EX12.1/EX12_1.sce#S##42806
+12#Fuel Injection Systems for CI Engines#12.1#Quantity of fuel injected per cycle#EX12_1.jpg#1226/CH12/EX12.1/EX12_1.jpg#R##42807
+11#Carburation and carburettors#11.9#Air fuel ratio with respect to nozzle lip#EX11_9.sce#1226/CH11/EX11.9/EX11_9.sce#S##43639
+11#Carburation and carburettors#11.9#Air fuel ratio with respect to nozzle lip#EX11_9.jpg#1226/CH11/EX11.9/EX11_9.jpg#R##43640
+11#Carburation and carburettors#11.8#Choke diameter and fuel jet diameter#EX11_8.sce#1226/CH11/EX11.8/EX11_8.sce#S##43637
+11#Carburation and carburettors#11.8#Choke diameter and fuel jet diameter#EX11_8.jpg#1226/CH11/EX11.8/EX11_8.jpg#R##43638
+11#Carburation and carburettors#11.7#Throat diameter and orifice diameter#EX11_7.sce#1226/CH11/EX11.7/EX11_7.sce#S##43635
+11#Carburation and carburettors#11.7#Throat diameter and orifice diameter#EX11_7.jpg#1226/CH11/EX11.7/EX11_7.jpg#R##43636
+11#Carburation and carburettors#11.6#Throat diameter#EX11_6.sce#1226/CH11/EX11.6/EX11_6.sce#S##43633
+11#Carburation and carburettors#11.6#Throat diameter#EX11_6.jpg#1226/CH11/EX11.6/EX11_6.jpg#R##43634
+11#Carburation and carburettors#11.5#Throat pressure with respct to air cleaner#EX11_5.sce#1226/CH11/EX11.5/EX11_5.sce#S##43631
+11#Carburation and carburettors#11.5#Throat pressure with respct to air cleaner#EX11_5.jpg#1226/CH11/EX11.5/EX11_5.jpg#R##43632
+11#Carburation and carburettors#11.4#Venturi depression and diameter and velocity of air across venturi#EX11_4.sce#1226/CH11/EX11.4/EX11_4.sce#S##43629
+11#Carburation and carburettors#11.4#Venturi depression and diameter and velocity of air across venturi#EX11_4.jpg#1226/CH11/EX11.4/EX11_4.jpg#R##43630
+11#Carburation and carburettors#11.3#Diameter of the fuel jet#EX11_3.sce#1226/CH11/EX11.3/EX11_3.sce#S##43627
+11#Carburation and carburettors#11.3#Diameter of the fuel jet#EX11_3.jpg#1226/CH11/EX11.3/EX11_3.jpg#R##43628
+11#Carburation and carburettors#11.2#Depression in Venturi throat and throat area#EX11_2.sce#1226/CH11/EX11.2/EX11_2.sce#S##43623
+11#Carburation and carburettors#11.2#Depression in Venturi throat and throat area#EX11_2.jpg#1226/CH11/EX11.2/EX11_2.jpg#R##43624
+11#Carburation and carburettors#11.11#Air fuel ratio at a given altitude#EX11_11.sce#1226/CH11/EX11.11/EX11_11.sce#S##43643
+11#Carburation and carburettors#11.11#Air fuel ratio at a given altitude#Ex11_11.jpg#1226/CH11/EX11.11/Ex11_11.jpg#R##43644
+11#Carburation and carburettors#11.10#Fuel consumption and air velocity through tube#EX11_10.sce#1226/CH11/EX11.10/EX11_10.sce#S##43641
+11#Carburation and carburettors#11.10#Fuel consumption and air velocity through tube#EX11_10.jpg#1226/CH11/EX11.10/EX11_10.jpg#R##43642
+11#Carburation and carburettors#11.1#Suction at throat#EX11_1.sce#1226/CH11/EX11.1/EX11_1.sce#S##43593
+11#Carburation and carburettors#11.1#Suction at throat#EX11_1.jpg#1226/CH11/EX11.1/EX11_1.jpg#R##43594
+7#Air Capacity of Four Stroke Engines#7.9#Volumetric Efficiency and Indicated Power for Supercharged Engine#EX7_9.sce#1226/CH7/EX7.9/EX7_9.sce#S##42698
+7#Air Capacity of Four Stroke Engines#7.9#Volumetric Efficiency and Indicated Power for Supercharged Engine#EX7_9.jpg#1226/CH7/EX7.9/EX7_9.jpg#R##42699
+7#Air Capacity of Four Stroke Engines#7.8#Percentage change in Volumetric efficiency and Brake Power#EX7_8.sce#1226/CH7/EX7.8/EX7_8.sce#S##42696
+7#Air Capacity of Four Stroke Engines#7.8#Percentage change in Volumetric efficiency and Brake Power#EX7_8.jpg#1226/CH7/EX7.8/EX7_8.jpg#R##42697
+7#Air Capacity of Four Stroke Engines#7.7#Percentage change in output#EX7_7.sce#1226/CH7/EX7.7/EX7_7.sce#S##42688
+7#Air Capacity of Four Stroke Engines#7.7#Percentage change in output#EX7_7.jpg#1226/CH7/EX7.7/EX7_7.jpg#R##42695
+7#Air Capacity of Four Stroke Engines#7.6#Percentage change in output#EX7_6.sce#1226/CH7/EX7.6/EX7_6.sce#S##42687
+7#Air Capacity of Four Stroke Engines#7.6#Percentage change in output#EX7_6.jpg#1226/CH7/EX7.6/EX7_6.jpg#R##42694
+7#Air Capacity of Four Stroke Engines#7.5#Brake Torque#EX7_5.sce#1226/CH7/EX7.5/EX7_5.sce#S##42686
+7#Air Capacity of Four Stroke Engines#7.5#Brake Torque#EX7_5.jpg#1226/CH7/EX7.5/EX7_5.jpg#R##42693
+7#Air Capacity of Four Stroke Engines#7.4#Volumetric Efficiency#EX7_4.sce#1226/CH7/EX7.4/EX7_4.sce#S##42685
+7#Air Capacity of Four Stroke Engines#7.4#Volumetric Efficiency#EX7_4.jpg#1226/CH7/EX7.4/EX7_4.jpg#R##42692
+7#Air Capacity of Four Stroke Engines#7.3#Volumetric Efficiency#EX7_3.sce#1226/CH7/EX7.3/EX7_3.sce#S##42684
+7#Air Capacity of Four Stroke Engines#7.3#Volumetric Efficiency#EX7_3.jpg#1226/CH7/EX7.3/EX7_3.jpg#R##42691
+7#Air Capacity of Four Stroke Engines#7.2#Volumetric Efficiency#EX7_2.sce#1226/CH7/EX7.2/EX7_2.sce#S##42683
+7#Air Capacity of Four Stroke Engines#7.2#Volumetric Efficiency#EX7_2.jpg#1226/CH7/EX7.2/EX7_2.jpg#R##42690
+7#Air Capacity of Four Stroke Engines#7.12#Nominal Diameter of Inlet Valve and Volumetric Efficiency vs Mach Index#EX_12.sce#1226/CH7/EX7.12/EX_12.sce#S##42702
+7#Air Capacity of Four Stroke Engines#7.12#Nominal Diameter of Inlet Valve and Volumetric Efficiency vs Mach Index#EX7_12.jpg#1226/CH7/EX7.12/EX7_12.jpg#R##42703
+7#Air Capacity of Four Stroke Engines#7.12#Nominal Diameter of Inlet Valve and Volumetric Efficiency vs Mach Index#FIG7_12.jpg#1226/CH7/EX7.12/FIG7_12.jpg#R##42704
+7#Air Capacity of Four Stroke Engines#7.10#Volumetric Efficiency and Heating Value#EX7_10.sce#1226/CH7/EX7.10/EX7_10.sce#S##42700
+7#Air Capacity of Four Stroke Engines#7.10#Volumetric Efficiency and Heating Value#EX_10.jpg#1226/CH7/EX7.10/EX_10.jpg#R##42701
+7#Air Capacity of Four Stroke Engines#7.1#Volume of Gas#EX7_1.sce#1226/CH7/EX7.1/EX7_1.sce#S##42682
+7#Air Capacity of Four Stroke Engines#7.1#Volume of Gas#EX7_1.jpg#1226/CH7/EX7.1/EX7_1.jpg#R##42689
+5#Combustion in SI engines#5.2#Time of spark#EX5_2.sce#1226/CH5/EX5.2/EX5_2.sce#S##42832
+5#Combustion in SI engines#5.2#Time of spark#EX5_2.jpg#1226/CH5/EX5.2/EX5_2.jpg#R##42833
+5#Combustion in SI engines#5.1#Time for combustion process and total crank rotation#EX5_1.sce#1226/CH5/EX5.1/EX5_1.sce#S##42830
+5#Combustion in SI engines#5.1#Time for combustion process and total crank rotation#EX5_1.jpg#1226/CH5/EX5.1/EX5_1.jpg#R##42831
+4#Fuel Air and Actual Cycles#4.9#Maximum pressure and temperature ignoring and considering fuel expansion#EX4_9.sce#1226/CH4/EX4.9/EX4_9.sce#S##46409
+4#Fuel Air and Actual Cycles#4.9#Maximum pressure and temperature ignoring and considering fuel expansion#EX4_9.jpg#1226/CH4/EX4.9/EX4_9.jpg#R##46410
+4#Fuel Air and Actual Cycles#4.8#Percentage of the stroke when the combustion is completed#EX4_8.sce#1226/CH4/EX4.8/EX4_8.sce#S##46407
+4#Fuel Air and Actual Cycles#4.8#Percentage of the stroke when the combustion is completed#EX4_8.jpg#1226/CH4/EX4.8/EX4_8.jpg#R##46408
+4#Fuel Air and Actual Cycles#4.7#Percentage of the stroke when the combustion is completed#EX4_7.sce#1226/CH4/EX4.7/EX4_7.sce#S##46405
+4#Fuel Air and Actual Cycles#4.7#Percentage of the stroke when the combustion is completed#EX4_7.jpg#1226/CH4/EX4.7/EX4_7.jpg#R##46406
+4#Fuel Air and Actual Cycles#4.6#Maximum pressure in cylinder#EX4_6.sce#1226/CH4/EX4.6/EX4_6.sce#S##46403
+4#Fuel Air and Actual Cycles#4.6#Maximum pressure in cylinder#EX4_6.jpg#1226/CH4/EX4.6/EX4_6.jpg#R##46404
+4#Fuel Air and Actual Cycles#4.5#Maximum pressure in cylinder#EX4_5.sce#1226/CH4/EX4.5/EX4_5.sce#S##46401
+4#Fuel Air and Actual Cycles#4.5#Maximum pressure in cylinder#EX4_5.jpg#1226/CH4/EX4.5/EX4_5.jpg#R##46402
+4#Fuel Air and Actual Cycles#4.4#Change in air standard efficiency#EX4_4.sce#1226/CH4/EX4.4/EX4_4.sce#S##46399
+4#Fuel Air and Actual Cycles#4.4#Change in air standard efficiency#EX4_4.jpg#1226/CH4/EX4.4/EX4_4.jpg#R##46400
+4#Fuel Air and Actual Cycles#4.3#Percentage change in otto cycle efficiency#EX4_3.sce#1226/CH4/EX4.3/EX4_3.sce#S##46397
+4#Fuel Air and Actual Cycles#4.3#Percentage change in otto cycle efficiency#EX4_3.jpg#1226/CH4/EX4.3/EX4_3.jpg#R##46398
+4#Fuel Air and Actual Cycles#4.2#Percentage change in otto cycle efficiency#EX4_2.sce#1226/CH4/EX4.2/EX4_2.sce#S##46395
+4#Fuel Air and Actual Cycles#4.2#Percentage change in otto cycle efficiency#EX4_2.jpg#1226/CH4/EX4.2/EX4_2.jpg#R##46396
+4#Fuel Air and Actual Cycles#4.10#Otto cycle work done and efficiency#EX4_10.sce#1226/CH4/EX4.10/EX4_10.sce#S##46411
+4#Fuel Air and Actual Cycles#4.10#Otto cycle work done and efficiency#EX4_10.jpg#1226/CH4/EX4.10/EX4_10.jpg#R##46412
+3#Air Standard cycles#3.9#Otto Cycle#EX3_9.sce#1226/CH3/EX3.9/EX3_9.sce#S##51503
+3#Air Standard cycles#3.9#Otto Cycle#EX3_9.jpg#1226/CH3/EX3.9/EX3_9.jpg#R##51504
+3#Air Standard cycles#3.8#Otto cycle#EX3_8.sce#1226/CH3/EX3.8/EX3_8.sce#S##51501
+3#Air Standard cycles#3.8#Otto cycle#EX3_8.jpg#1226/CH3/EX3.8/EX3_8.jpg#R##51502
+3#Air Standard cycles#3.7#Otto cycle#EX3_7.sce#1226/CH3/EX3.7/EX3_7.sce#S##51499
+3#Air Standard cycles#3.7#Otto cycle#EX3_7.jpg#1226/CH3/EX3.7/EX3_7.jpg#R##51500
+3#Air Standard cycles#3.5#Carnot Engine#EX3_5.sce#1226/CH3/EX3.5/EX3_5.sce#S##51497
+3#Air Standard cycles#3.5#Carnot Engine#EX3_5.jpg#1226/CH3/EX3.5/EX3_5.jpg#R##51498
+3#Air Standard cycles#3.40#Stirling Cycle#EX3_40.sce#1226/CH3/EX3.40/EX3_40.sce#S##51561
+3#Air Standard cycles#3.40#Stirling Cycle#EX3_40.jpg#1226/CH3/EX3.40/EX3_40.jpg#R##51562
+3#Air Standard cycles#3.4#Carnot Engine#EX3_4.sce#1226/CH3/EX3.4/EX3_4.sce#S##51493
+3#Air Standard cycles#3.4#Carnot Engine#EX3_4.jpg#1226/CH3/EX3.4/EX3_4.jpg#R##51494
+3#Air Standard cycles#3.39#Brayton Cycle#EX3_39.sce#1226/CH3/EX3.39/EX3_39.sce#S##51559
+3#Air Standard cycles#3.39#Brayton Cycle#EX3_39.jpg#1226/CH3/EX3.39/EX3_39.jpg#R##51560
+3#Air Standard cycles#3.38#Brayton Cycle#EX3_38.sce#1226/CH3/EX3.38/EX3_38.sce#S##51557
+3#Air Standard cycles#3.38#Brayton Cycle#EX3_38.jpg#1226/CH3/EX3.38/EX3_38.jpg#R##51558
+3#Air Standard cycles#3.37#Brayton Cycle#EX3_37.sce#1226/CH3/EX3.37/EX3_37.sce#S##51555
+3#Air Standard cycles#3.37#Brayton Cycle#EX3_37.jpg#1226/CH3/EX3.37/EX3_37.jpg#R##51556
+3#Air Standard cycles#3.36#Brayton Cycle#EX3_36.sce#1226/CH3/EX3.36/EX3_36.sce#S##51553
+3#Air Standard cycles#3.36#Brayton Cycle#EX3_36.jpg#1226/CH3/EX3.36/EX3_36.jpg#R##51554
+3#Air Standard cycles#3.35#Brayton Cycle#EX3_35.sce#1226/CH3/EX3.35/EX3_35.sce#S##51551
+3#Air Standard cycles#3.35#Brayton Cycle#EX3_35.jpg#1226/CH3/EX3.35/EX3_35.jpg#R##51552
+3#Air Standard cycles#3.34#Brayton Cycle#EX3_34.sce#1226/CH3/EX3.34/EX3_34.sce#S##51549
+3#Air Standard cycles#3.34#Brayton Cycle#EX3_34.jpg#1226/CH3/EX3.34/EX3_34.jpg#R##51550
+3#Air Standard cycles#3.33#Brayton Cycle#EX3_33.sce#1226/CH3/EX3.33/EX3_33.sce#S##51547
+3#Air Standard cycles#3.33#Brayton Cycle#EX3_33.jpg#1226/CH3/EX3.33/EX3_33.jpg#R##51548
+3#Air Standard cycles#3.32#Brayton Cycle#EX3_32.sce#1226/CH3/EX3.32/EX3_32.sce#S##51545
+3#Air Standard cycles#3.32#Brayton Cycle#EX3_32.jpg#1226/CH3/EX3.32/EX3_32.jpg#R##51546
+3#Air Standard cycles#3.31#Atkinson Cycle#EX3_31.sce#1226/CH3/EX3.31/EX3_31.sce#S##51543
+3#Air Standard cycles#3.31#Atkinson Cycle#EX3_31.jpg#1226/CH3/EX3.31/EX3_31.jpg#R##51544
+3#Air Standard cycles#3.3#Efficiencies of carnot cycle#EX3_3.sce#1226/CH3/EX3.3/EX3_3.sce#S##55946
+3#Air Standard cycles#3.3#Efficiencies of carnot cycle#EX3_3.jpg#1226/CH3/EX3.3/EX3_3.jpg#R##51492
+3#Air Standard cycles#3.29#Dual Combustion Cycle#EX3_29.sce#1226/CH3/EX3.29/EX3_29.sce#S##51541
+3#Air Standard cycles#3.29#Dual Combustion Cycle#EX3_29.jpg#1226/CH3/EX3.29/EX3_29.jpg#R##51542
+3#Air Standard cycles#3.28#Dual Combustion Cycle#EX3_28.sce#1226/CH3/EX3.28/EX3_28.sce#S##51537
+3#Air Standard cycles#3.28#Dual Combustion Cycle#EX3_28.jpg#1226/CH3/EX3.28/EX3_28.jpg#R##51538
+3#Air Standard cycles#3.27#Dual Combustion Cycle#EX3_27.sce#1226/CH3/EX3.27/EX3_27.sce#S##51539
+3#Air Standard cycles#3.27#Dual Combustion Cycle#EX3_27.jpg#1226/CH3/EX3.27/EX3_27.jpg#R##51540
+3#Air Standard cycles#3.26#Dual Combustion Cycle#EX3_26.sce#1226/CH3/EX3.26/EX3_26.sce#S##51535
+3#Air Standard cycles#3.26#Dual Combustion Cycle#EX3_26.jpg#1226/CH3/EX3.26/EX3_26.jpg#R##51536
+3#Air Standard cycles#3.25#Dual Combustion Cycle#EX3_25.sce#1226/CH3/EX3.25/EX3_25.sce#S##55951
+3#Air Standard cycles#3.25#Dual Combustion Cycle#EX3_25.jpg#1226/CH3/EX3.25/EX3_25.jpg#R##55950
+3#Air Standard cycles#3.24#Dual Combustion Cycle#EX3_24.sce#1226/CH3/EX3.24/EX3_24.sce#S##51531
+3#Air Standard cycles#3.24#Dual Combustion Cycle#EX3_24.jpg#1226/CH3/EX3.24/EX3_24.jpg#R##51532
+3#Air Standard cycles#3.23#Dual Combustion Cycle#EX3_23.sce#1226/CH3/EX3.23/EX3_23.sce#S##51529
+3#Air Standard cycles#3.23#Dual Combustion Cycle#EX3_23.jpg#1226/CH3/EX3.23/EX3_23.jpg#R##51530
+3#Air Standard cycles#3.22#Diesel Cycle#EX3_22.sce#1226/CH3/EX3.22/EX3_22.sce#S##51527
+3#Air Standard cycles#3.22#Diesel Cycle#EX3_22.jpg#1226/CH3/EX3.22/EX3_22.jpg#R##51528
+3#Air Standard cycles#3.21#Diesel cycle#EX3_21.sce#1226/CH3/EX3.21/EX3_21.sce#S##55955
+3#Air Standard cycles#3.21#Diesel cycle#EX3_21.jpg#1226/CH3/EX3.21/EX3_21.jpg#R##51526
+3#Air Standard cycles#3.20#Diesel Cycle#EX3_20.sce#1226/CH3/EX3.20/EX3_20.sce#S##51523
+3#Air Standard cycles#3.20#Diesel Cycle#EX3_20.jpg#1226/CH3/EX3.20/EX3_20.jpg#R##51524
+3#Air Standard cycles#3.2#Carnot power cycle#EX3_2.sce#1226/CH3/EX3.2/EX3_2.sce#S##51489
+3#Air Standard cycles#3.2#Carnot power cycle#EX3_2.jpg#1226/CH3/EX3.2/EX3_2.jpg#R##51490
+3#Air Standard cycles#3.19#Diesel Cycle#EX3_19.sce#1226/CH3/EX3.19/EX3_19.sce#S##51521
+3#Air Standard cycles#3.19#Diesel Cycle#EX3_19.jpg#1226/CH3/EX3.19/EX3_19.jpg#R##51522
+3#Air Standard cycles#3.18#Diesel Cycle#EX3_18.sce#1226/CH3/EX3.18/EX3_18.sce#S##55957
+3#Air Standard cycles#3.18#Diesel Cycle#EX3_18.jpg#1226/CH3/EX3.18/EX3_18.jpg#R##51520
+3#Air Standard cycles#3.17#Diesel Cycle#EX3_17.sce#1226/CH3/EX3.17/EX3_17.sce#S##51517
+3#Air Standard cycles#3.17#Diesel Cycle#EX3_17.jpg#1226/CH3/EX3.17/EX3_17.jpg#R##51518
+3#Air Standard cycles#3.15#Otto cycle#EX3_15.sce#1226/CH3/EX3.15/EX3_15.sce#S##51515
+3#Air Standard cycles#3.15#Otto cycle#EX3_15.jpg#1226/CH3/EX3.15/EX3_15.jpg#R##51516
+3#Air Standard cycles#3.14#Otto cycle#EX3_14.sce#1226/CH3/EX3.14/EX3_14.sce#S##51513
+3#Air Standard cycles#3.14#Otto cycle#EX3_14.jpg#1226/CH3/EX3.14/EX3_14.jpg#R##51514
+3#Air Standard cycles#3.13#Otto cycle#EX3_13.sce#1226/CH3/EX3.13/EX3_13.sce#S##51511
+3#Air Standard cycles#3.13#Otto cycle#EX3_13.jpg#1226/CH3/EX3.13/EX3_13.jpg#R##51512
+3#Air Standard cycles#3.12#Otto cycle#EX3_12.sce#1226/CH3/EX3.12/EX3_12.sce#S##51509
+3#Air Standard cycles#3.12#Otto cycle#EX3_12.jpg#1226/CH3/EX3.12/EX3_12.jpg#R##51510
+3#Air Standard cycles#3.11#Otto cycle#EX3_11.sce#1226/CH3/EX3.11/EX3_11.sce#S##51507
+3#Air Standard cycles#3.11#Otto cycle#EX3_11.jpg#1226/CH3/EX3.11/EX3_11.jpg#R##51508
+3#Air Standard cycles#3.10#Otto cycle and Atkinson cycle#EX3_10.sce#1226/CH3/EX3.10/EX3_10.sce#S##51505
+3#Air Standard cycles#3.10#Otto cycle and Atkinson cycle#EX3_10.jpg#1226/CH3/EX3.10/EX3_10.jpg#R##51506
+3#Air Standard cycles#3.1#Carnot engine#EX3_1.sce#1226/CH3/EX3.1/EX3_1.sce#S##51487
+3#Air Standard cycles#3.1#Carnot engine#EX3_1.jpg#1226/CH3/EX3.1/EX3_1.jpg#R##51488

@@ -1,0 +1,18 @@
+clear;
+clc;
+format('v',12);
+n=10^29;
+e=-1.6*10^-19;
+pv=n*e;
+disp(pv*10^-6,'(a) pv(in MC/m3)=');
+sigma=5*10^7;
+E=10^-2;
+J=sigma*E;
+disp(J*10^-3,'(b) J(in kA/m2)=');
+S=(%pi*10^-6)/4;
+I=J*S;
+format('v',6);
+disp(I,'(c) I(in A)=');
+u=J/pv;
+format('v',12);
+disp(u,'(d) u(in m/s)=');

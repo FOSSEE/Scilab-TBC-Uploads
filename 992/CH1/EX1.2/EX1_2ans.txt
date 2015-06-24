@@ -1,0 +1,3 @@
+
+	 noise power = 0.000004 pW 
+ Execution done.   

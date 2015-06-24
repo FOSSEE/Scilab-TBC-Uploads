@@ -1,0 +1,5 @@
+ # PROBLEM 5 # 
+Standard formula used 
+ mu=tan(Ip)
+ 
+ Refractive index of material is 1.638263.

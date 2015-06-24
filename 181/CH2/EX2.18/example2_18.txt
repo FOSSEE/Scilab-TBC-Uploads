@@ -1,0 +1,7 @@
+(a)V=-0.06 V
+(b)Ration of forward bias current to reverse bias current=-6.82
+(c):
+I = 6.872e+002 A
+I = 3.286e+004 A
+I = 1.539e+006 A
+ 

@@ -1,0 +1,9 @@
+Z1=12.99+%i*7.5;
+Z2=4-%i*3;
+Z3=6+%i*8;
+I1=Z1/Z2;
+Z=Z3-Z2
+I=(I1*Z)/Z3;
+disp('ii) CURRENT (I1) is  in polar form  =  '+string (I1) +'  A ');
+disp('i) IMPEDANCE (Z) is  in polar form  =  '+string (Z) +'  V ');
+disp('ii) CURRENT (I) is  in polar form  =  '+string (I) +'  A ');

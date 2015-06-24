@@ -1,0 +1,6 @@
+(i) Units generated per week =672000.0 kWh 
+
+	 River dishcharge required = 25.48 m^3/sec
+(ii) Load factor =31.39 % 
+
+

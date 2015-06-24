@@ -1,0 +1,11 @@
+  
+ Exa -12.5(a)   
+The decay constant is 2.970679e-006
+ /sec 
+ Exa -12.5(b)   
+The decay constant is equal to probability of decay in one second hence 2.970679e-006 
+ 
+ Exa -12.5(c)   
+The activity was found out to be 9.036566e+009 Ci 
+ Exa -12.5(d)   
+The activity after one week was found out to be 1.50e+009 decays/sec 

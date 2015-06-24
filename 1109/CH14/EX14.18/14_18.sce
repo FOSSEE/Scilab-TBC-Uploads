@@ -1,0 +1,14 @@
+clear;
+clc;
+C0=1*(10^-6);L0=10*(10^-3);
+C=C0/2;
+L=L0;
+Rk1=sqrt(L/C);
+fc1=1/(4*%pi*sqrt(L*C));
+printf("The cut-off frequency(high pass) = %f Hz\n",round(fc1));
+printf(" The characteristic impedance(high pass) = %f ohms\n\n",round(Rk1*10)/10);
+C1=C0*2;
+Rk2=sqrt(L/C1);
+fc2=1/(%pi*sqrt(L*C1));
+printf(" The cut-off frequency(low pass) = %f Hz\n",fix(fc2));
+printf(" The characteristic impedance(low pass) = %f ohms",fix(Rk2*10)/10);

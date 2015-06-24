@@ -1,0 +1,3 @@
+P_out = 1.50e-003 mW
+We know that reverse saturation current doubles for every 10 degree rise in temperature
+Thus the maximum reverse bias voltage to be maintained is 150 V 

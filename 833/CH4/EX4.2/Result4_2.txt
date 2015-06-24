@@ -1,0 +1,31 @@
+(a)Voltage per turn(in volts)=   
+ 
+    4.5  
+ 
+ (b)Cross sectional area of core(in mm^2)=   
+ 
+    12285.012  
+ 
+ (c)Cross sectional area of conductor in h.v winding(in mm^2)=   
+ 
+    1.2121212  
+ 
+ (d)Number of turns per phase in h.v winding(in mm^2)=   
+ 
+    2444.4444  
+ 
+ (e)Cross sectional area of conductor in l.v winding(in mm^2)=   
+ 
+    53.334898  
+ 
+ (f)Number of turns in l.v winding=   
+ 
+    55.553926  
+ 
+ (g)Window Area(in mm^2)=   
+ 
+    42328.042  
+ 
+ Copper used in window area(in mm^2)=   
+ 
+    11851.852 

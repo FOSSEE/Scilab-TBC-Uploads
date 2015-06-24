@@ -1,0 +1,2 @@
+**Sample Problem 6-7**
+The velocity of ball at the topmost point would be 5.143928 m/s 

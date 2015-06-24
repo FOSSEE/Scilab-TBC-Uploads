@@ -1,0 +1,3 @@
+ # PROBLEM 5.1 # 
+
+ Maximum power of the arc = 20 kVA 

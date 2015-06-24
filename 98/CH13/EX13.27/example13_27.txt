@@ -1,0 +1,11 @@
+Current on +ve outer = 48 A 
+
+Current on -ve outer = 40 A 
+
+Current in nuetral = 8 A 
+
+Voltage at the load end on the +ve side = 245.60 V 
+
+Voltage at the load end on the -ve side = 243.20 V 
+
+

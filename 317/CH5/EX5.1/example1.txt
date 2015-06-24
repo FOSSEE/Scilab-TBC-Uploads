@@ -1,0 +1,2 @@
+minimum zener current is 12.2 mAmperes
+maximum zener current is 36.6 mAmperes

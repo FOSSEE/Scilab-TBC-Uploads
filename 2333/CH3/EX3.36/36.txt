@@ -1,0 +1,5 @@
+# PROBLEM 36 # 
+ Standard formula used 
+ theta = 1.22*lambda/a  
+
+ Resolving limit of telescope is 7.185800e-05 rad.

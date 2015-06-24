@@ -1,0 +1,15 @@
+ i)Mean of X  =   
+ 
+    0.25  
+ 
+   Mean of Y  =   
+ 
+    0.25  
+ 
+ ii)Variance of X   
+ 
+    0.0375  
+ 
+   Variance of Y   
+ 
+    0.0375  

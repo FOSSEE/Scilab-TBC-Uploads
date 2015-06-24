@@ -1,0 +1,101 @@
+11#Radars#11.6#factor#Ex11_6.sce#1979/CH11/EX11.6/Ex11_6.sce#S##99117
+11#Radars#11.5#max range#Ex11_5.sce#1979/CH11/EX11.5/Ex11_5.sce#S##99116
+11#Radars#11.4#Duty cycle and etc#Ex11_4.sce#1979/CH11/EX11.4/Ex11_4.sce#S##99115
+11#Radars#11.3#RCS#Ex11_3.sce#1979/CH11/EX11.3/Ex11_3.sce#S##99114
+11#Radars#11.2#max range#Ex11_2.sce#1979/CH11/EX11.2/Ex11_2.sce#S##99113
+11#Radars#11.1#max range#Ex11_1.sce#1979/CH11/EX11.1/Ex11_1.sce#S##99112
+10#Microwave Communication Systems#10.9#system noise temperature#Ex10_9.sce#1979/CH10/EX10.9/Ex10_9.sce#S##99107
+10#Microwave Communication Systems#10.8#CNR#Ex10_8.sce#1979/CH10/EX10.8/Ex10_8.sce#S##99106
+10#Microwave Communication Systems#10.7# figure of merit#Ex10_7.sce#1979/CH10/EX10.7/Ex10_7.sce#S##99105
+10#Microwave Communication Systems#10.6#round trip time#Ex10_6.sce#1979/CH10/EX10.6/Ex10_6.sce#S##99104
+10#Microwave Communication Systems#10.5#antenna beam angle#Ex10_5.sce#1979/CH10/EX10.5/Ex10_5.sce#S##99103
+10#Microwave Communication Systems#10.4#power#Ex10_4.sce#1979/CH10/EX10.4/Ex10_4.sce#S##99102
+10#Microwave Communication Systems#10.3#power#Ex10_3.sce#1979/CH10/EX10.3/Ex10_3.sce#S##99100
+10#Microwave Communication Systems#10.2#value of factor#Ex10_2.sce#1979/CH10/EX10.2/Ex10_2.sce#S##99099
+10#Microwave Communication Systems#10.13#power gain#Ex10_13.sce#1979/CH10/EX10.13/Ex10_13.sce#S##99111
+10#Microwave Communication Systems#10.12#gain#Ex10_12.sce#1979/CH10/EX10.12/Ex10_12.sce#S##99110
+10#Microwave Communication Systems#10.11#gain#Ex10_11.sce#1979/CH10/EX10.11/Ex10_11.sce#S##99109
+10#Microwave Communication Systems#10.10#HPBW#Ex10_10.sce#1979/CH10/EX10.10/Ex10_10.sce#S##99108
+10#Microwave Communication Systems#10.1#radio horizon#Ex10_1.sce#1979/CH10/EX10.1/Ex10_1.sce#S##99098
+9#Solid State Microwave Devices#9.9#efficiency and etc#Ex9_9.sce#1979/CH9/EX9.9/Ex9_9.sce#S##99093
+9#Solid State Microwave Devices#9.8#rational frequency#Ex9_8.sce#1979/CH9/EX9.8/Ex9_8.sce#S##99092
+9#Solid State Microwave Devices#9.7#minimum voltage#Ex9_7.sce#1979/CH9/EX9.7/Ex9_7.sce#S##99091
+9#Solid State Microwave Devices#9.6#power gain#Ex9_6.sce#1979/CH9/EX9.6/Ex9_6.sce#S##99090
+9#Solid State Microwave Devices#9.5#Avalanche zone velocity#Ex9_5.sce#1979/CH9/EX9.5/Ex9_5.sce#S##99089
+9#Solid State Microwave Devices#9.4#breakdown voltage and etc#Ex9_4.sce#1979/CH9/EX9.4/Ex9_4.sce#S##99088
+9#Solid State Microwave Devices#9.3#power gain#Ex9_3.sce#1979/CH9/EX9.3/Ex9_3.sce#S##99087
+9#Solid State Microwave Devices#9.2#threshold electric field#Ex9_2.sce#1979/CH9/EX9.2/Ex9_2.sce#S##99086
+9#Solid State Microwave Devices#9.13#gain and etc#Ex9_13.sce#1979/CH9/EX9.13/Ex9_13.sce#S##99097
+9#Solid State Microwave Devices#9.12#max power gain and etc#Ex9_12.sce#1979/CH9/EX9.12/Ex9_12.sce#S##99096
+9#Solid State Microwave Devices#9.11#breakdown voltage and etc#Ex9_11.sce#1979/CH9/EX9.11/Ex9_11.sce#S##99095
+9#Solid State Microwave Devices#9.10#drift time#Ex9_10.sce#1979/CH9/EX9.10/Ex9_10.sce#S##99094
+9#Solid State Microwave Devices#9.1#frequency#Ex9_1.sce#1979/CH9/EX9.1/Ex9_1.sce#S##99085
+8#Microwave Tubes and Circuits#8.9#phase velocity and anode voltage#Ex8_9.sce#1979/CH8/EX8.9/Ex8_9.sce#S##99077
+8#Microwave Tubes and Circuits#8.8#cyclotron frequency and etc#Ex8_8.sce#1979/CH8/EX8.8/Ex8_8.sce#S##99076
+8#Microwave Tubes and Circuits#8.7#efficiency and etc#Ex8_7.sce#1979/CH8/EX8.7/Ex8_7.sce#S##99075
+8#Microwave Tubes and Circuits#8.6#electronic efficiency and etc#Ex8_6.sce#1979/CH8/EX8.6/Ex8_6.sce#S##99074
+8#Microwave Tubes and Circuits#8.5#efficiency and etc#Ex8_5.sce#1979/CH8/EX8.5/Ex8_5.sce#S##99073
+8#Microwave Tubes and Circuits#8.4#electron velocity and etc#Ex8_4.sce#1979/CH8/EX8.4/Ex8_4.sce#S##99072
+8#Microwave Tubes and Circuits#8.3#efficiency and etc#Ex8_3.sce#1979/CH8/EX8.3/Ex8_3.sce#S##99071
+8#Microwave Tubes and Circuits#8.2#power and etc#Ex8_2.sce#1979/CH8/EX8.2/Ex8_2.sce#S##99070
+8#Microwave Tubes and Circuits#8.16#repeller voltage and etc#Ex8_16.sce#1979/CH8/EX8.16/Ex8_16.sce#S##99084
+8#Microwave Tubes and Circuits#8.15#efficiency and etc#Ex8_15.sce#1979/CH8/EX8.15/Ex8_15.sce#S##99083
+8#Microwave Tubes and Circuits#8.14#cyclotron angular frequency and etc#Ex8_14.sce#1979/CH8/EX8.14/Ex8_14.sce#S##99082
+8#Microwave Tubes and Circuits#8.13#efficiency and etc#Ex8_13.sce#1979/CH8/EX8.13/Ex8_13.sce#S##99081
+8#Microwave Tubes and Circuits#8.12#gap transit angle #Ex8_12.sce#1979/CH8/EX8.12/Ex8_12.sce#S##99080
+8#Microwave Tubes and Circuits#8.11#dc electron velocity and etc#Ex8_11.sce#1979/CH8/EX8.11/Ex8_11.sce#S##99079
+8#Microwave Tubes and Circuits#8.10#electron velocity and etc#Ex8_10.sce#1979/CH8/EX8.10/Ex8_10.sce#S##99078
+8#Microwave Tubes and Circuits#8.1#electron velocity and etc#Ex8_1.sce#1979/CH8/EX8.1/Ex8_1.sce#S##99069
+7#Microwave Measurements#7.4#Reflected power#Ex7_4.sce#1979/CH7/EX7.4/Ex7_4.sce#S##99068
+7#Microwave Measurements#7.3#VSWR #Ex7_3.sce#1979/CH7/EX7.3/Ex7_3.sce#S##99067
+7#Microwave Measurements#7.2#VSWR and Reflected power#Ex7_2.sce#1979/CH7/EX7.2/Ex7_2.sce#S##99066
+7#Microwave Measurements#7.1#measured distance#Ex7_1.sce#1979/CH7/EX7.1/Ex7_1.sce#S##99065
+6#Microwave Components#6.9#Scattering matrix#Ex6_9.sce#1979/CH6/EX6.9/Ex6_9.sce#S##99060
+6#Microwave Components#6.7#Scattering matrix#Ex6_7.sce#1979/CH6/EX6.7/Ex6_7.sce#S##99059
+6#Microwave Components#6.6#Reflected power#Ex6_6.sce#1979/CH6/EX6.6/Ex6_6.sce#S##99058
+6#Microwave Components#6.5#power#Ex6_5.sce#1979/CH6/EX6.5/Ex6_5.sce#S##99057
+6#Microwave Components#6.4#powers in the remaining ports#Ex6_4.sce#1979/CH6/EX6.4/Ex6_4.sce#S##99056
+6#Microwave Components#6.3#Scattering parameters#Ex6_3.sce#1979/CH6/EX6.3/Ex6_3.sce#S##99055
+6#Microwave Components#6.2#distance to be shifted#Ex6_2.sce#1979/CH6/EX6.2/Ex6_2.sce#S##99054
+6#Microwave Components#6.13#phase shift#Ex6_13.sce#1979/CH6/EX6.13/Ex6_13.sce#S##99064
+6#Microwave Components#6.12#VSWR #Ex6_12.sce#1979/CH6/EX6.12/Ex6_12.sce#S##99063
+6#Microwave Components#6.11#coupling isolation directivity#Ex6_11.sce#1979/CH6/EX6.11/Ex6_11.sce#S##99062
+6#Microwave Components#6.10#output powers#Ex6_10.sce#1979/CH6/EX6.10/Ex6_10.sce#S##99061
+5#Cavity Resonators#5.4#resonant frequency#Ex5_4.sce#1979/CH5/EX5.4/Ex5_4.sce#S##99053
+5#Cavity Resonators#5.3#resonant frequency#Ex5_3.sce#1979/CH5/EX5.3/Ex5_3.sce#S##99052
+5#Cavity Resonators#5.2#lowest resonant frequency#Ex5_2.sce#1979/CH5/EX5.2/Ex5_2.sce#S##99051
+5#Cavity Resonators#5.1#minimum distance#Ex5_1.sce#1979/CH5/EX5.1/Ex5_1.sce#S##99050
+4#Microwave Transmission Lines#4.9#guide wavelength#Ex4_9.sce#1979/CH4/EX4.9/Ex4_9.sce#S##99033
+4#Microwave Transmission Lines#4.8#guide wavelength#Ex4_8.sce#1979/CH4/EX4.8/Ex4_8.sce#S##99032
+4#Microwave Transmission Lines#4.7#breadth of the guide#Ex4_7.sce#1979/CH4/EX4.7/Ex4_7.sce#S##99031
+4#Microwave Transmission Lines#4.6#ratio of areas#Ex4_6.sce#1979/CH4/EX4.6/Ex4_6.sce#S##99030
+4#Microwave Transmission Lines#4.5#Characteristic Impedance#Ex4_5.sce#1979/CH4/EX4.5/Ex4_5.sce#S##99029
+4#Microwave Transmission Lines#4.4#Characteristic Impedance#Ex4_4.sce#1979/CH4/EX4.4/Ex4_4.sce#S##99028
+4#Microwave Transmission Lines#4.3#breakdown power#Ex4_3.sce#1979/CH4/EX4.3/Ex4_3.sce#S##99027
+4#Microwave Transmission Lines#4.24#breakdown power#Ex4_24.sce#1979/CH4/EX4.24/Ex4_24.sce#S##99049
+4#Microwave Transmission Lines#4.23#breakdown power#Ex4_23.sce#1979/CH4/EX4.23/Ex4_23.sce#S##99048
+4#Microwave Transmission Lines#4.22#peak value of electric field#Ex4_22.sce#1979/CH4/EX4.22/Ex4_22.sce#S##99047
+4#Microwave Transmission Lines#4.21#maximum power#Ex4_21.sce#1979/CH4/EX4.21/Ex4_21.sce#S##99046
+4#Microwave Transmission Lines#4.20#max power handling capacity#Ex4_20.sce#1979/CH4/EX4.20/Ex4_20.sce#S##99045
+4#Microwave Transmission Lines#4.2#attenuation and phase constants#Ex4_2.sce#1979/CH4/EX4.2/Ex4_2.sce#S##99026
+4#Microwave Transmission Lines#4.19#amount of attenuation#Ex4_19.sce#1979/CH4/EX4.19/Ex4_19.sce#S##99043
+4#Microwave Transmission Lines#4.18#proof#Ex4_18.sce#1979/CH4/EX4.18/Ex4_18.sce#S##99042
+4#Microwave Transmission Lines#4.17#guide wavelength#Ex4_17.sce#1979/CH4/EX4.17/Ex4_17.sce#S##99041
+4#Microwave Transmission Lines#4.16#Characteristic Impedance#Ex4_16.sce#1979/CH4/EX4.16/Ex4_16.sce#S##99040
+4#Microwave Transmission Lines#4.15#possible modes#Ex4_15.sce#1979/CH4/EX4.15/Ex4_15.sce#S##99039
+4#Microwave Transmission Lines#4.14#guide wavelength#Ex4_14.sce#1979/CH4/EX4.14/Ex4_14.sce#S##99038
+4#Microwave Transmission Lines#4.13#frequency#Ex4_13.sce#1979/CH4/EX4.13/Ex4_13.sce#S##99037
+4#Microwave Transmission Lines#4.12#guide wavelength#Ex4_12.sce#1979/CH4/EX4.12/Ex4_12.sce#S##99036
+4#Microwave Transmission Lines#4.11#possible modes#Ex4_11.sce#1979/CH4/EX4.11/Ex4_11.sce#S##99035
+4#Microwave Transmission Lines#4.10#area#Ex4_10.sce#1979/CH4/EX4.10/Ex4_10.sce#S##99034
+4#Microwave Transmission Lines#4.1#Characteristic Impedance#Ex4_1.sce#1979/CH4/EX4.1/Ex4_1.sce#S##99025
+3#Transmission Lines#3.9#Reflection loss#Ex3_9.sce#1979/CH3/EX3.9/Ex3_9.sce#S##99023
+3#Transmission Lines#3.8#VSWR and Impedance#Ex3_8.sce#1979/CH3/EX3.8/Ex3_8.sce#S##99022
+3#Transmission Lines#3.7#Terminating Impedance#Ex3_7.sce#1979/CH3/EX3.7/Ex3_7.sce#S##99021
+3#Transmission Lines#3.6#point of attachment#Ex3_6.sce#1979/CH3/EX3.6/Ex3_6.sce#S##99020
+3#Transmission Lines#3.5#VSWR and Reflection coefficient#Ex3_5.sce#1979/CH3/EX3.5/Ex3_5.sce#S##99019
+3#Transmission Lines#3.4#power#Ex3_4.sce#1979/CH3/EX3.4/Ex3_4.sce#S##99018
+3#Transmission Lines#3.3#phase velocity#Ex3_3.sce#1979/CH3/EX3.3/Ex3_3.sce#S##99017
+3#Transmission Lines#3.2#power#Ex3_2.sce#1979/CH3/EX3.2/Ex3_2.sce#S##99016
+3#Transmission Lines#3.10#Characteristic Impedance#Ex3_10.sce#1979/CH3/EX3.10/Ex3_10.sce#S##99024
+3#Transmission Lines#3.1#Terminating Impedance#Ex3_1.sce#1979/CH3/EX3.1/Ex3_1.sce#S##99015

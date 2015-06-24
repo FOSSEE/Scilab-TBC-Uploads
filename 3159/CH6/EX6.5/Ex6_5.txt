@@ -1,0 +1,3 @@
+Example 6.5
+ Surface enthalpy of copper is 2.49 J m^-2
+ Surface enthalpy of copper is 2486 erg cm^-2 

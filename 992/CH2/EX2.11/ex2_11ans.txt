@@ -1,0 +1,10 @@
+ 
+
+	 carrier frequency =10000000.000000
+
+	 modulating frequency =250.000000
+
+	 modulation index =0.400000
+
+	 Total Power =2700.000000 
+ Execution done.   

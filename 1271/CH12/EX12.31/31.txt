@@ -1,0 +1,3 @@
+
+ Flux density of the magnetic field is 1.303761 T.
+ Velocity of the deuterons emerging out of the cyclotron is 2.010619e+07 m/sec. 

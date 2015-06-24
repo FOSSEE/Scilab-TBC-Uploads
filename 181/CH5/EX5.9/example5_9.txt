@@ -1,0 +1,5 @@
+The current gain of circuit=38.5 
+When Av=0.999, 
+(a)Ri=1.00e+006 ohm 
+(b)Rl=-4.00e+004 ohm 
+ 

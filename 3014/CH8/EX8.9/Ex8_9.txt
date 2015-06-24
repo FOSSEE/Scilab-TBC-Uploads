@@ -1,0 +1,4 @@
+ Example 8.9
+Standard formula used 	lambda_0 = sqrt(m_0/(mu_0*eta_s*e^2))
+Penetration depth at 0 K is 531 angestrom.
+Penetration depth at 1 K is 535.307601 angestrom.

@@ -1,0 +1,5 @@
+  
+ Example 4.23   
+ 
+ At starting contion since Tm=Ts   
+extra resistance added,r=0.350000ohms 

@@ -1,0 +1,8 @@
+ Efficiency (in %)=   
+ 
+    92.966398  
+ 
+ Voltage Regulation (in %)=   
+ 
+    8.6235105  
+ 

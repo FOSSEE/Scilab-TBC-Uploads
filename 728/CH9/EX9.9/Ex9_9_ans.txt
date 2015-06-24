@@ -1,0 +1,8 @@
+ Resonant frequency (in GHz) =   
+ 
+    10.065842  
+ 
+ Efficiency (in percentage) =   
+ 
+    6.4  
+ 

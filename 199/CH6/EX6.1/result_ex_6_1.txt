@@ -1,0 +1,3 @@
+* Low-freq cutoff is = 10610.3 Hz
+* High-freq cutoff is = 90909.1 Hz
+* Bandwidth is = 80298.8 Hz

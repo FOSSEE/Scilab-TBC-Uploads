@@ -1,0 +1,3 @@
+
+Example 2.17
+ Uncertainty in velocity of ball is 2.637993e-25 m/s.

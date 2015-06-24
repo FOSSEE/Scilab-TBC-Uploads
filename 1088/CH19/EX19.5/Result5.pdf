@@ -1,0 +1,90 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example5.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 11-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            19   
+ 
+ Chapter Title                         :                  perl-THE MASTER MANIPULATOR   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 5    :               Show the method of command line argument  handling in perl 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the perlscript file whichever you desire  
+
+  #!/usr/bin/perl
+# Script: hither.pl - Determines whether a year is leap year or not 
+#
+die("You have not entered the year\n")  if (@ARGV == 0 ) ;
+$year = $ARGV[0] ;                                               # The first argument
+$last2digits = substr($year,-2,2) ;                        #Extract from the right 
+if ($last2digits eq "00") {
+          $yesorno = ($year % 400 == 0 ? "certainly" : "not" ) ;
+}
+else {
+          $yesorno = ($year % 4 == 0 ? "certainly" : "not" ) ;
+}
+print("$year is  " . $yesorno . " a leap year \n") ;
+
+# type the following command in the command line interpreter as soon as it appears 
+       " perl hither.pl [THE YEAR AS COMMANDLINE ARGUMENT]    "[ENTER]
+
+
+$ perl hither.pl  [THE YEAR AS COMMANDLINE ARGUMENT]             #to execute the perlscript 
+
+
+   ---------------->Executing PerlScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

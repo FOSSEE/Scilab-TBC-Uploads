@@ -1,0 +1,6 @@
+  
+ Ex-12.14(a)   
+The no of decays pers second is 2274 
+ 
+ Ex-12.14(b)   
+Age of the sample is 3892.57 years 

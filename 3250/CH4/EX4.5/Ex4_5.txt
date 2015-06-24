@@ -1,0 +1,5 @@
+ # PROBLEM 4.5 # 
+ 
+ The order of magnitude of cutting force = 1523 N,
+ Using Lee and Shaffer relation- 
+ The order of magnitude of cutting force = 1000 N.

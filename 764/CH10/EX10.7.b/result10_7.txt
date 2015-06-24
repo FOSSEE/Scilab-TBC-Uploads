@@ -1,0 +1,83 @@
+-->//(Springs) Example 10.7
+ 
+-->//Refer Fig.10.19 on page 413
+ 
+-->//Number of helical springs n
+ 
+-->n = 8
+ n  =
+ 
+    8.  
+ 
+-->//Total spring force exerted by all the springs P (N)
+ 
+-->P = 2400
+ P  =
+ 
+    2400.  
+ 
+-->//Deflection of each spring delta (mm)
+ 
+-->delta = 15
+ delta  =
+ 
+    15.  
+ 
+-->//Spring index C
+ 
+-->C = 8
+ C  =
+ 
+    8.  
+ 
+-->//Ultimate tensile strength of the spring material Sut (N/mm2)
+ 
+-->Sut = 1390
+ Sut  =
+ 
+    1390.  
+ 
+-->//Rigidity modulus of the material G (N/mm2)
+ 
+-->G = 81370
+ G  =
+ 
+    81370.  
+ 
+-->//For plain ends, endtype = 1
+ 
+-->//For plain ends(ground), endtype = 2
+ 
+-->//For square ends, endtype = 3
+ 
+-->//For square ends(ground), endtype = 4
+ 
+-->endtype = 4
+ endtype  =
+ 
+    4.  
+ 
+-->//Gap between adjacent coils g (mm)
+ 
+-->g = 1
+ g  =
+ 
+    1.  
+ 
+
+Wire diameter(d) = 4.165688 or 5.000000 mm
+
+Mean coil diameter(D) = 40.000000 mm
+
+Number of active coils(N) = 4.966431 or 5
+
+Total number of coils(Nt) = 7
+
+Free length of the spring(len) = 56.101389 or 57.000000 mm
+
+Pitch of the coil(p) = 9.500000 mm
+
+Required spring rate(k) = 20.000000 N/mm
+
+Actual spring rate(kact) = 19.865723 N/mm
+ 

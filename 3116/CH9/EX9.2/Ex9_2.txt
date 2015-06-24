@@ -1,0 +1,5 @@
+ Example 9.2
+
+ Strain in x-direction is -2.5e-04
+ Strain in z-direction is 7.35e-04
+ Applied force is 5601 N 

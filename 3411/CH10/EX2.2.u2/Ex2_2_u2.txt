@@ -1,0 +1,8 @@
+The mean free path is t= 
+    4.172D-14  
+sec
+Velocity v=116804.32 m/s
+Wavelength is lamda= 
+    4.873D-09  
+mts
+The experimental value is ten times higher than predicted value 

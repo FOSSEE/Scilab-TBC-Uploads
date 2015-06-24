@@ -1,0 +1,51 @@
+ ans  =
+ 
+    1.  
+ 
+ 
+-->exec('Example1.sci',-1)
+Current date is 02-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                         14   
+ 
+ Chapter Title                         :                  ESSENTIAL SHELL PROGRAMMING   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 1: Write a shell script to display the calendar of the present date ,and the shell name   
+ 
+ **************************************************************************   
+ 
+ Answer  :      
+ 
+    
+The code related to the example lies in the dependency file shell1.sci   Today  date is 02-Jun-2013
+This month calendar is 
+ 
+ Jun 2013   
+ 
+    M      Tu     W      Th     F     Sat     Sun   
+ 
+    0.     0.     0.     0.     0.     1.     2.   
+    3.     4.     5.     6.     7.     8.     9.   
+    10.    11.    12.    13.    14.    15.    16.  
+    17.    18.    19.    20.    21.    22.    23.  
+    24.    25.    26.    27.    28.    29.    30.  
+    0.     0.     0.     0.     0.     0.     0.   
+
+My shell : cmd 
+ **************************************************************************   
+ 
+-->diary(0)

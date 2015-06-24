@@ -1,0 +1,95 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example9.sci')
+ 
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 17-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            14   
+ 
+ Chapter Title                         :                                Essential Shell Programming   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 9    :               Show the use of while loop 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the shellscript file whichever you desire  
+
+ #!/bin/sh
+# emp5.sh: Shows use of the while loop
+#
+answer=y
+while [ "$answer" = "y" ]   # The control command
+do
+echo "Enter the code and description: \c">/dev/tty
+read code description # Read both together
+echo "$code|$description">>newlist  # Append a line to newlist
+echo "Enter any more(y/n)? \c">/dev/tty
+read anymore
+case $anymore in
+      y*|Y*) answer=y ;;   # also accepts yes,YES etc
+      n*|N*) answer=n ;;  # also accepts no,NO elc
+          *) answer=y ;;
+esac
+done
+ 
+# type the following command in the command line interpreter as soon as it appears 
+       "  h.sh     " [COMMANDLINE ARGUMENTS][ENTER]
+
+
+$ h.sh  [COMMANDLINE ARGUMENTS]             #to execute the perlscript 
+
+
+   ---------------->Executing ShellScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

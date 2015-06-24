@@ -1,0 +1,11 @@
+Rkm=1.4//radius of the cell
+Acell=2.6*Rkm*Rkm//area (hexagonal cell)
+K=4//no.of cells/cluster
+ntotal=60
+ncell=ntotal/K
+avgtlpu=0.029
+Aav=9
+Pb=0.05
+tnu=Aav/avgtlpu//total no. of users supported in a cell
+NupA=tnu/Acell
+printf('number of users per kmsqr area= %.d users/(km^2) (approx.)',NupA)

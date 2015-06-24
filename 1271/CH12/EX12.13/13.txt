@@ -1,0 +1,3 @@
+ Decay constant is 0.000420 per year.
+ Half life of sample is 1648.266893 years.
+ Average life of sample is 2378.451505 years.

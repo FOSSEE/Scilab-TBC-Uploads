@@ -1,0 +1,2 @@
+ # Problem 11 # 
+ Current induced due to changing magnetic field is 0.251327 A 

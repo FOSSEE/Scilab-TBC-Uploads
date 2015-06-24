@@ -1,0 +1,4 @@
+ current in the coil (in Amperes)=   
+ 
+    0.5946971  
+ 

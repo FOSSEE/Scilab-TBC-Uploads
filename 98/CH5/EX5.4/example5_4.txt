@@ -1,0 +1,9 @@
+x is the number of units taken per annum for which the annual charges due to both tariffs become equal. 
+
+Annual charges due to first tariff = Rs. (30+0.03*x) 
+
+Annual charges due to second tariff = Rs. (4+0.05*x) 
+
+Equating the two equations, x = 1300.00 kWh 
+
+

@@ -1,0 +1,13 @@
+clc;
+clear;
+rb=100e6;
+rf=1e6;
+v=3.3e3;
+x=rf/rb;
+xpu=.6;
+xtot=x+xpu;
+rf2=rf/xtot;
+rf2=round(rf2/1e4)*1e4;
+If=rf2/(1.72*v);
+If=fix(If);
+mprintf("the fault level is=%fMVA\n the fault current=%dA",rf2/1e6,If);;

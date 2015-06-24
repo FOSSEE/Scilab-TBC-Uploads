@@ -1,0 +1,3 @@
+ Energy stored in magnetic feild (in Joules)=   
+ 
+    0.6479184 

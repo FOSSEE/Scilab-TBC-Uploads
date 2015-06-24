@@ -1,0 +1,43 @@
+clear;
+clc;
+// drawing the constellation diagrams
+clf();
+xname("--------------Example 5.8----------------");
+title('Constellation diagrams','fontsize',5);
+xrect(-.1,.8,.35,.45);
+xrect(.3,.8,.35,.45);
+xrect(.7,.8,.35,.45);
+xpoly([-.1 .25],[.575 .575]);
+xpoly([.3 .65],[.575 .575]);
+xpoly([.7 1.05],[.575 .575]);
+xpoly([.075 .075],[.8 .35]);
+xpoly([.475 .475],[.8 .35]);
+xpoly([.875 .875],[.8 .35]);
+xset("font size",4);
+xstring(-.1,.3,"a. ASK(OOK)");
+xstring(.3,.3,"b. BPSK");
+xstring(.7,.3,"c. QPSK");
+xfarc( .059,.585 , 0.03, 0.03, 0, 64 * 360 ) ;
+xfarc( .15,.585 , 0.03, 0.03, 0, 64 * 360 ) ;
+xfarc( .37,.585 , 0.03, 0.03, 0, 64 * 360 ) ;
+xfarc( .55,.585 , 0.03, 0.03, 0, 64 * 360 ) ;
+xfarc( .77,.7 , 0.03, 0.03, 0, 64 * 360 ) ;
+xfarc( .95,.7 , 0.03, 0.03, 0, 64 * 360 ) ;
+xfarc( .77,.46 , 0.03, 0.03, 0, 64 * 360 ) ;
+xfarc( .95,.46 , 0.03, 0.03, 0, 64 * 360 ) ;
+xset("font size",3);
+xstring(.055,.5,"0");
+xstring(.15,.5,"1");
+xstring(.37,.5,"0");
+xstring(.55,.5,"1");
+xstring(.745,.7,"01");
+xstring(.975,.7,"11");
+xstring(.74,.44,"00");
+xstring(.98,.44,"10");
+xset("line style",2);
+xarc(.75,.7,.275,.275,0,64*360);
+// display the explanation of the diagrams
+disp("--------------Example 5.8----------------")
+printf("\na. For ASK,only an in-phase carrier is used. Therefore, the two points should be on the X axis.\nBinary 0 has an amplitude of 0 V; binary 1 has an amplitude of 1V (for example). The points are located at the origin and at 1 unit.\n\n");
+printf("b. BPSK also uses only an in-phase carrier. However, polar NRZ signal is used for modulation.\nIt creates two types of signal elements, one with amplitude 1 and the other with amplitude -1. This can be stated in other words:\nBPSK creates two different signal elements, one with amplitude 1 V and in phase and the other with amplitude 1 V and 180° out of phase.\n\n");
+printf("c. QPSK uses two carriers, one in-phase and the other quadrature. The point representing 11 is made of two combined signal elements,\nboth with an amplitude of 1 V. One element is represented by an in-phase carrier, the other element by a quadrature carrier.\nThe amplitude of the final signal element sent for this 2-bit data element is 2^(1/2), and the phase is 45°.\nThe argument is similar for the other three points. All signal elements have an amplitude of 2^(1/2),\nbut their phases are different (45°, 135°, -135°, and -45°).Of course, we could have chosenthe amplitude of the carrier to be 1/(2^(1/2))\nto make the final amplitudes 1 V.");

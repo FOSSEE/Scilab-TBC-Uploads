@@ -1,0 +1,13 @@
+ After insertion of external resistance in the armature ckt   
+ 
+ (a) motor speed (in rpm)=   
+ 
+    1343.  
+ 
+ (b) power loss in external resistance (in Watts)=   
+ 
+    705.6  
+ 
+ (c) efficiency (%)=   
+ 
+    46.100541  

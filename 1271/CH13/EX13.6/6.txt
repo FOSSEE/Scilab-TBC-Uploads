@@ -1,0 +1,8 @@
+  
+ # PROBLEM 6 # 
+Standard formula used 
+ x_ = a / x 
+ y_ = b / y 
+ z_ = c / z 
+
+ Miller indices of the plane are (1 3 0)

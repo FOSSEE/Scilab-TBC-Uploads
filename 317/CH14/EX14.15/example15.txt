@@ -1,0 +1,4 @@
+Vgs is 3.11 Volts
+Drain current is 106 mAmperes 
+Transconductance is 210 mSeimens
+Output voltage is 1.34 mVolts

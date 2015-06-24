@@ -1,0 +1,53 @@
+clc
+//initialisation of variables
+Rav= 1 //KN
+Re= 4 //KN
+Xac= 1.5 //m
+Xce= 1.5 //m
+Fd= -5 //KN
+Rah= -3 //KN
+xa= 0 //m
+ya= 0 //m
+xc= 1.5 //m
+yc= 0//m
+xe= 3 //m
+ye= 0 //m
+xf= 3 //m
+yf= 1.5 //m
+xd= 1.5 //m
+yd= 1.5 //m
+xb= 0 //m
+yb= 1.5 //m
+Yef= 1.5 //m
+Fb= 3 //KN
+//CALCULATIONS
+tac= -Rah/(xc-xa)
+tab= -Rav/(yb-ya)
+tba= tab
+tbc= -tba*(ya-yb)/(yc-yb)
+tbd= (-Fb-tbc*(xc-xb))/(xd-xb)
+tdb= tbd
+tdf= -tdb*(xb-xd)/(xf-xd)
+tdc= (-Fd-tdb*(yb-yd))/(yc-yd)
+tec= 0
+tfe= -Re/(yf-ye)
+tfc= (-tdf*(xd-xf)-tfe*(xe-xf))/(xc-xf)
+Tab= tab*(yb-ya)
+Tac= tac*(xc-xa)
+Tbc= tbc*sqrt((xb-xc)^2+(yb-yc)^2)
+Tbd= tbd*(xd-xb)
+Tdf= tdf*(xf-xd)
+Tdc= tdc*(yd-yc)
+Tfc= tfc*sqrt((xf-xc)^2+(yf-yc)^2)
+Tfe= tfe*(yf-ye)
+Tec= tec*(xe-xc)
+//RESULTS
+printf ('Tab= %.2f KN(compression)',Tab)
+printf (' \n Tac=%.2f KN(tension)',Tac)
+printf (' \n Tbc=%.2f KN(tension)',Tbc)
+printf (' \n Tbd=%.2f KN(compression)',Tbd)
+printf (' \n Tdf=%.2f KN(compression)',Tdf)
+printf (' \n Tdc=%.2f KN(compression)',Tdc)
+printf (' \n Tfc=%.2f KN(tension)',Tfc)
+printf (' \n Tfe=%.2f KN(compression)',Tfe)
+printf (' \n Tec=%.2f KN(tension)',Tec)

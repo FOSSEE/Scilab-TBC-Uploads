@@ -1,0 +1,7 @@
+ Power input (in watts)=   
+ 
+    13709.965  
+ 
+ Efficiency (in %)=   
+ 
+    87.527579 

@@ -1,0 +1,13 @@
+ 
+ example 14.16   
+ 
+ (a)   
+vn=0.853.p.u 
+ vn=112.628kV 
+ (b)   
+vn=1.021.p.u 
+ vn=134.772kV
+ transformation ratio under load condition 3.413 
+ transformation ratio under no load condition 4.084 
+ the actual ratio can be taken as mean of the above value i.e.3.748percent
+ varying by (+/-)0.336percent 

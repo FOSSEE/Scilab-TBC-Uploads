@@ -1,0 +1,2 @@
+**Sample Problem 29-4**
+The pitch of the electron is equal to 0.091664m 

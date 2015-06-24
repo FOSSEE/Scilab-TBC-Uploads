@@ -1,0 +1,3 @@
+ Breakdown Power (in kW) =   
+ 
+    17560.256 

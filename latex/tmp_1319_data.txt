@@ -1,0 +1,207 @@
+13#Electromagnetic Induction#13.9#Compute Inductance and EMF induced#ii_9.sce#1319/CH13/EX13.9/ii_9.sce#S##44128
+13#Electromagnetic Induction#13.8#To Compute the Maximum Induced EMF#ii_8.sce#1319/CH13/EX13.8/ii_8.sce#S##44127
+13#Electromagnetic Induction#13.7#To determine force between single phase bus bars#ii_7.sce#1319/CH13/EX13.7/ii_7.sce#S##44126
+13#Electromagnetic Induction#13.6#Force on the conductor due to a uniform magentic field#ii_6.sce#1319/CH13/EX13.6/ii_6.sce#S##44125
+13#Electromagnetic Induction#13.5#EMF induced between two coils in a circular iron core#ii_5.sce#1319/CH13/EX13.5/ii_5.sce#S##44124
+13#Electromagnetic Induction#13.4#EMF generated due to a bar magnet#ii_4.sce#1319/CH13/EX13.4/ii_4.sce#S##44123
+13#Electromagnetic Induction#13.3#EMF Induced between wing tips#ii_3.sce#1319/CH13/EX13.3/ii_3.sce#S##44122
+13#Electromagnetic Induction#13.2#Computing Instantaneous Induced EMF#ii_2.sce#1319/CH13/EX13.2/ii_2.sce#S##44121
+13#Electromagnetic Induction#13.19#Theory Based Proof relation between self mutual inductances#ii_19.sce#1319/CH13/EX13.19/ii_19.sce#S##44138
+13#Electromagnetic Induction#13.18#Compute the Loss per Kg at a particular frequency#ii_18.sce#1319/CH13/EX13.18/ii_18.sce#S##44137
+13#Electromagnetic Induction#13.17#Determining Hysteresis loss#ii_17.sce#1319/CH13/EX13.17/ii_17.sce#S##44136
+13#Electromagnetic Induction#13.16#Compute Loss of energy#ii_16.sce#1319/CH13/EX13.16/ii_16.sce#S##44135
+13#Electromagnetic Induction#13.15#To Compute the maximum flux set by an coil#ii_15.sce#1319/CH13/EX13.15/ii_15.sce#S##44134
+13#Electromagnetic Induction#13.14#EMF induced in coils parallel to each other#ii_14.sce#1319/CH13/EX13.14/ii_14.sce#S##44133
+13#Electromagnetic Induction#13.13#Computation of Mutual and self inductance in coils#ii_13.sce#1319/CH13/EX13.13/ii_13.sce#S##44132
+13#Electromagnetic Induction#13.12#To determine Mutual and Self Inductances#ii_12.sce#1319/CH13/EX13.12/ii_12.sce#S##44131
+13#Electromagnetic Induction#13.11#Computation of Current#ii_11.sce#1319/CH13/EX13.11/ii_11.sce#S##44130
+13#Electromagnetic Induction#13.10#Change in Inductance#ii_10.sce#1319/CH13/EX13.10/ii_10.sce#S##44129
+13#Electromagnetic Induction#13.1#Computing Induced EMF#ii_1.sce#1319/CH13/EX13.1/ii_1.sce#S##44120
+12#DC Circuits#12.9#Determine the output power of the motor#i_9.sce#1319/CH12/EX12.9/i_9.sce#S##43928
+12#DC Circuits#12.8#To calculate current ratings and maximum voltage of a rated resistor#i_8.sce#1319/CH12/EX12.8/i_8.sce#S##43927
+12#DC Circuits#12.7#Power Rating Calculation#i_7.sce#1319/CH12/EX12.7/i_7.sce#S##43926
+12#DC Circuits#12.6#Determination of conductance in a short circuit#i_6.sce#1319/CH12/EX12.6/i_6.sce#S##43925
+12#DC Circuits#12.5#Current Calculation using ohms law#i_5.sce#1319/CH12/EX12.5/i_5.sce#S##43924
+12#DC Circuits#12.4#Calculating resistance#i_4.sce#1319/CH12/EX12.4/i_4.sce#S##43923
+12#DC Circuits#12.3#To Calculate the average voltage#i_3.sce#1319/CH12/EX12.3/i_3.sce#S##43922
+12#DC Circuits#12.24#To Calculate current in all branches of the network shown using nodal analysis#i_24.sce#1319/CH12/EX12.24/i_24.sce#S##43943
+12#DC Circuits#12.23#Determine the current in the branches of the network using nodal analysis#i_23.sce#1319/CH12/EX12.23/i_23.sce#S##43942
+12#DC Circuits#12.22#Determine Current through branch AB of the given network#i_22.sce#1319/CH12/EX12.22/i_22.sce#S##43941
+12#DC Circuits#12.21#To calculate current from a battery and pd across points A and B#i_21.sce#1319/CH12/EX12.21/i_21.sce#S##43940
+12#DC Circuits#12.20#To calculate current in each branch using loop analysis and point voltages in a given network#i_20.sce#1319/CH12/EX12.20/i_20.sce#S##43939
+12#DC Circuits#12.2#Computing the Average lighting current#i_2.sce#1319/CH12/EX12.2/i_2.sce#S##43921
+12#DC Circuits#12.19#To calculate current in each branch using loop analysis#i_19.sce#1319/CH12/EX12.19/i_19.sce#S##43938
+12#DC Circuits#12.18#To determine the current using loop analysis#i_18.sce#1319/CH12/EX12.18/i_18.sce#S##43937
+12#DC Circuits#12.17#To calculate current in each branch of the given network#i_17.sce#1319/CH12/EX12.17/i_17.sce#S##43936
+12#DC Circuits#12.16#To determine current through each resistor in series and parallel combinational circuit#i_16.sce#1319/CH12/EX12.16/i_16.sce#S##43935
+12#DC Circuits#12.15#To determine the currents in parallel branches of a network#i_15.sce#1319/CH12/EX12.15/i_15.sce#S##43934
+12#DC Circuits#12.14#To determine resistances in parallel#i_14.sce#1319/CH12/EX12.14/i_14.sce#S##43933
+12#DC Circuits#12.13#To Determine the voltage and branch currents in a cicuit with resistors connected in parallel#i_13.sce#1319/CH12/EX12.13/i_13.sce#S##43932
+12#DC Circuits#12.12#To Compute the resistance when operating voltage is altered#i_12.sce#1319/CH12/EX12.12/i_12.sce#S##43931
+12#DC Circuits#12.11#To find the value of the unknown resitance in the series of resistances in a circuit#i_11.sce#1319/CH12/EX12.11/i_11.sce#S##43930
+12#DC Circuits#12.10#Calculation of Current and power dissipated in resistors connected in series#i_10.sce#1319/CH12/EX12.10/i_10.sce#S##43929
+12#DC Circuits#12.1#To Compute the number of electrons#i_1.sce#1319/CH12/EX12.1/i_1.sce#S##43920
+11#Domestic Wiring#11.3#Size of conductor to be used for wiring a 10 kW 400V 3 Phase induction motor#11_3.sce#1319/CH11/EX11.3/11_3.sce#S##48055
+11#Domestic Wiring#11.3#Size of conductor to be used for wiring a 10 kW 400V 3 Phase induction motor#11_3.jpg#1319/CH11/EX11.3/11_3.jpg#R##48056
+11#Domestic Wiring#11.2#Determine the size of the conductor at 25 m distance#11_2.sce#1319/CH11/EX11.2/11_2.sce#S##48053
+11#Domestic Wiring#11.2#Determine the size of the conductor at 25 m distance#11_2.jpg#1319/CH11/EX11.2/11_2.jpg#R##48054
+11#Domestic Wiring#11.1#Determine the size of the conductor for power and lighting circuit#11_1.sce#1319/CH11/EX11.1/11_1.sce#S##48051
+11#Domestic Wiring#11.1#Determine the size of the conductor for power and lighting circuit#11_1.jpg#1319/CH11/EX11.1/11_1.jpg#R##48052
+10#Power System#10.5#Calculate the inductance of a choke to enable the lamp#10_5.sce#1319/CH10/EX10.5/10_5.sce#S##48061
+10#Power System#10.4#Determine the value of a shunt capacitor#10_4.sce#1319/CH10/EX10.4/10_4.sce#S##48060
+10#Power System#10.3#Detemine the load and pf of the other machine#10_3.sce#1319/CH10/EX10.3/10_3.sce#S##48059
+10#Power System#10.2#Pf at which the slow machine will work#10_2.sce#1319/CH10/EX10.2/10_2.sce#S##48058
+10#Power System#10.1#Determine the additional load which can be supplied#10_1.sce#1319/CH10/EX10.1/10_1.sce#S##48057
+8#Three Phase Induction Motors#8.9#To determine the various parameters of a 3 phase 400V 6 poles Induction Motor#8_9.sce#1319/CH8/EX8.9/8_9.sce#S##47816
+8#Three Phase Induction Motors#8.8#To actual rotor speed and the rotor frequency at 3 percent slip#8_8.sce#1319/CH8/EX8.8/8_8.sce#S##47814
+8#Three Phase Induction Motors#8.7#To determine the starting torque and current using different starters#8_7.sce#1319/CH8/EX8.7/8_7.sce#S##47813
+8#Three Phase Induction Motors#8.6#To find the total mechannical power and rotor copper loss#8_6.sce#1319/CH8/EX8.6/8_6.sce#S##47811
+8#Three Phase Induction Motors#8.5#apping of an auto transformer to limit current in squirrel cage motor#8_5.sce#1319/CH8/EX8.5/8_5.sce#S##47810
+8#Three Phase Induction Motors#8.4#Calculation of slip from losses#8_4.sce#1319/CH8/EX8.4/8_4.sce#S##47808
+8#Three Phase Induction Motors#8.3#To Calculate Parameters of a 3 phase 4 pole induction machine#8_3.sce#1319/CH8/EX8.3/8_3.sce#S##47805
+8#Three Phase Induction Motors#8.2#To calculate motor speed and its slip#8_2.sce#1319/CH8/EX8.2/8_2.sce#S##47803
+8#Three Phase Induction Motors#8.18#Stator Current and pf and efficiency of a motor operating at rated slip#8_18.sce#1319/CH8/EX8.18/8_18.sce#S##47828
+8#Three Phase Induction Motors#8.17#To determine parameters of 4 pole induction motor considering circuit parameters#8_17.sce#1319/CH8/EX8.17/8_17.sce#S##47827
+8#Three Phase Induction Motors#8.16#Motor parameters of a 6 pole motor with 40 hp mechanical power#8_16.sce#1319/CH8/EX8.16/8_16.sce#S##47826
+8#Three Phase Induction Motors#8.15#Stator input of 3 phase 4 pole induction motor#8_15.sce#1319/CH8/EX8.15/8_15.sce#S##47824
+8#Three Phase Induction Motors#8.14#To determine the starting torque in terms of full load torque#8_14.sce#1319/CH8/EX8.14/8_14.sce#S##47823
+8#Three Phase Induction Motors#8.13#To determine the auto tranformer ratio and starting torque#8_13.sce#1319/CH8/EX8.13/8_13.sce#S##47821
+8#Three Phase Induction Motors#8.12#Motor parameters at a load power factor#8_12.sce#1319/CH8/EX8.12/8_12.sce#S##47820
+8#Three Phase Induction Motors#8.11#Determine the shaft power of 6 pole Induction Motor#8_11.sce#1319/CH8/EX8.11/8_11.sce#S##47819
+8#Three Phase Induction Motors#8.10#To determine parameters of an 3 phase delta connected 4 pole induction motor#8_10.sce#1319/CH8/EX8.10/8_10.sce#S##47817
+8#Three Phase Induction Motors#8.1#Find the percentage slip and poles of the motor#8_1.sce#1319/CH8/EX8.1/8_1.sce#S##47802
+7#Three Phase Synchronous Machines#7.6#Internal Voltage drop in an alternator#7_6.sce#1319/CH7/EX7.6/7_6.sce#S##47099
+7#Three Phase Synchronous Machines#7.5#Voltage Regulation of a 3 Phase alternator#7_5.sce#1319/CH7/EX7.5/7_5.sce#S##47098
+7#Three Phase Synchronous Machines#7.4#Calculate E per phase and Current and pf#7_4.sce#1319/CH7/EX7.4/7_4.sce#S##47097
+7#Three Phase Synchronous Machines#7.3#kVAr rating of a synchronous condenser#7_3.sce#1319/CH7/EX7.3/7_3.sce#S##47096
+7#Three Phase Synchronous Machines#7.2#New plant pf and percent decrease in line current#7_2.sce#1319/CH7/EX7.2/7_2.sce#S##47095
+7#Three Phase Synchronous Machines#7.1#Power delivered to 3 phase synchronous motor#7_1.sce#1319/CH7/EX7.1/7_1.sce#S##47094
+6#DC Machines#6.9#Parameters calculated due to armature reaction#6_9.sce#1319/CH6/EX6.9/6_9.sce#S##47788
+6#DC Machines#6.8#Speed calculation of series motor#6_8.sce#1319/CH6/EX6.8/6_8.sce#S##47787
+6#DC Machines#6.7#To find efficiency and useful torque#6_7.sce#1319/CH6/EX6.7/6_7.sce#S##47786
+6#DC Machines#6.6#Useful Flux per pole on no load shunt motor#6_6.sce#1319/CH6/EX6.6/6_6.sce#S##47785
+6#DC Machines#6.5#Calculate Load Current in a shunt generator#6_5.sce#1319/CH6/EX6.5/6_5.sce#S##47784
+6#DC Machines#6.4#Ratio of speeds of a generator and motor#6_4.sce#1319/CH6/EX6.4/6_4.sce#S##47783
+6#DC Machines#6.3#Determine the EMF generated in a wave winding#6_3.sce#1319/CH6/EX6.3/6_3.sce#S##47782
+6#DC Machines#6.22#Efficiency at full load#6_22.sce#1319/CH6/EX6.22/6_22.sce#S##47801
+6#DC Machines#6.21#Rated torque calculation by resistance addition#6_21.sce#1319/CH6/EX6.21/6_21.sce#S##47800
+6#DC Machines#6.20#Current taken by a motor at 90 percent efficiency#6_20.sce#1319/CH6/EX6.20/6_20.sce#S##47799
+6#DC Machines#6.2#Determine the EMF generated#6_2.sce#1319/CH6/EX6.2/6_2.sce#S##47781
+6#DC Machines#6.19#EMF and copper losses of a Shunt Motor#6_19.sce#1319/CH6/EX6.19/6_19.sce#S##47798
+6#DC Machines#6.18#Total torque developed in a 4 pole shunt motor#6_18.sce#1319/CH6/EX6.18/6_18.sce#S##47797
+6#DC Machines#6.17#Useful torque and efficiency of a shunt motor#6_17.sce#1319/CH6/EX6.17/6_17.sce#S##47796
+6#DC Machines#6.16#Speed of shunt motor taking 50kW input#6_16.sce#1319/CH6/EX6.16/6_16.sce#S##47795
+6#DC Machines#6.15#Speed at 50A considering armature reaction of a shunt motor#6_15.sce#1319/CH6/EX6.15/6_15.sce#S##47794
+6#DC Machines#6.14#Induced EMF and Armature current in a long shunt compound generator#6_14.sce#1319/CH6/EX6.14/6_14.sce#S##47793
+6#DC Machines#6.13#Voltage between feeder and bus bar in a series generator#6_13.sce#1319/CH6/EX6.13/6_13.sce#S##47792
+6#DC Machines#6.12#Speed of a belt driven shunt generator#6_12.sce#1319/CH6/EX6.12/6_12.sce#S##47791
+6#DC Machines#6.11#Swinburne test on a dc shunt motor#6_11.sce#1319/CH6/EX6.11/6_11.sce#S##47790
+6#DC Machines#6.10#Number of conductors of compensating winding#6_10.sce#1319/CH6/EX6.10/6_10.sce#S##47789
+6#DC Machines#6.1#To Determine the useful flux per pole#6_1.sce#1319/CH6/EX6.1/6_1.sce#S##47780
+5#Transformer#5.9#Regulation at full load pf lag#5_9.sce#1319/CH5/EX5.9/5_9.sce#S##44679
+5#Transformer#5.8#To calculate terminal voltage and current and efficiency#5_8.sce#1319/CH5/EX5.8/5_8.sce#S##44678
+5#Transformer#5.7#Calculate the circuit parameters of a transformer using OC and SC tests#5_7.sce#1319/CH5/EX5.7/5_7.sce#S##44677
+5#Transformer#5.6#Regulation at lagging leading and unity power factors#5_6.sce#1319/CH5/EX5.6/5_6.sce#S##44676
+5#Transformer#5.5#Voltage regulation at a pf lagging#5_5.sce#1319/CH5/EX5.5/5_5.sce#S##44675
+5#Transformer#5.4#Total resitance and total copper loss at full load#5_4.sce#1319/CH5/EX5.4/5_4.sce#S##44674
+5#Transformer#5.3#To calculate resistance of primary interms of secondary and vice versa#5_3.sce#1319/CH5/EX5.3/5_3.sce#S##44673
+5#Transformer#5.21#To calculate secondary terminal voltage and full load efficiency at unity pf#5_21.sce#1319/CH5/EX5.21/5_21.sce#S##44691
+5#Transformer#5.21#To calculate secondary terminal voltage and full load efficiency at unity pf#5_21.jpg#1319/CH5/EX5.21/5_21.jpg#R##44692
+5#Transformer#5.20#To determine the max regulation and the pf at which it occurs#5_20.sce#1319/CH5/EX5.20/5_20.sce#S##44690
+5#Transformer#5.2#To calculate the number of turns per limb on the high and low voltage sides#5_2.sce#1319/CH5/EX5.2/5_2.sce#S##44672
+5#Transformer#5.19#To determine the load for max efficiency at two power factors#5_19.sce#1319/CH5/EX5.19/5_19.sce#S##44689
+5#Transformer#5.18#To determine Input current and voltage during SC test#5_18.sce#1319/CH5/EX5.18/5_18.sce#S##44688
+5#Transformer#5.17#Equivalent resistance and leakage reactance wrt primary#5_17.sce#1319/CH5/EX5.17/5_17.sce#S##44687
+5#Transformer#5.16#Determine primary and secondary voltages and current#5_16.sce#1319/CH5/EX5.16/5_16.sce#S##44686
+5#Transformer#5.15#To find voltage ratio and output#5_15.sce#1319/CH5/EX5.15/5_15.sce#S##44685
+5#Transformer#5.14#To determine the ratio of weights of copper#5_14.sce#1319/CH5/EX5.14/5_14.sce#S##44684
+5#Transformer#5.13#Calculating Efficiency using Sumpner test#5_13.sce#1319/CH5/EX5.13/5_13.sce#S##44683
+5#Transformer#5.12#To determine all day efficiency#5_12.sce#1319/CH5/EX5.12/5_12.sce#S##44682
+5#Transformer#5.11#Calcualte efficiencies at various loads#5_11.sce#1319/CH5/EX5.11/5_11.sce#S##44681
+5#Transformer#5.10#Calculate efficiency on unity pf at different cases#5_10.sce#1319/CH5/EX5.10/5_10.sce#S##44680
+5#Transformer#5.1#To find flux density in the core and induced emf in the secondary winding#5_1.sce#1319/CH5/EX5.1/5_1.sce#S##44671
+4#Basic Instruments#4.8#Percentage error calculation in a wattmeter#4_8.sce#1319/CH4/EX4.8/4_8.sce#S##47092
+4#Basic Instruments#4.7#Dynamometer wattmeter power calculation of the load#4_7.sce#1319/CH4/EX4.7/4_7.sce#S##47091
+4#Basic Instruments#4.6#Error calculation#4_6.sce#1319/CH4/EX4.6/4_6.sce#S##47090
+4#Basic Instruments#4.5#To determine the range and current and deflection at various conditions#4_5.sce#1319/CH4/EX4.5/4_5.sce#S##47089
+4#Basic Instruments#4.4#To create an instrument that measures voltages and currents upto a rated value#4_4.sce#1319/CH4/EX4.4/4_4.sce#S##47088
+4#Basic Instruments#4.3#Reading on ammeters when their shunts are interchanged#4_3.sce#1319/CH4/EX4.3/4_3.sce#S##47087
+4#Basic Instruments#4.2#To find the deflection produced by 200V#4_2.sce#1319/CH4/EX4.2/4_2.sce#S##47086
+4#Basic Instruments#4.1#Torque on the coil at a current of 1mA#4_1.sce#1319/CH4/EX4.1/4_1.sce#S##47085
+3#Three Phase Supply#3.9#To find power using two wattmeter method of a circuit with non reactive resistances#3_9.sce#1319/CH3/EX3.9/3_9.sce#S##47083
+3#Three Phase Supply#3.8#To measure power by two wattmeter method#3_8.sce#1319/CH3/EX3.8/3_8.sce#S##47082
+3#Three Phase Supply#3.7#Reduction in load when one resistor is removed#3_7.sce#1319/CH3/EX3.7/3_7.sce#S##47081
+3#Three Phase Supply#3.6#To find Line currents and star connected resistors for the same power#3_6.sce#1319/CH3/EX3.6/3_6.sce#S##47080
+3#Three Phase Supply#3.5#To find line current and pf and powers of a balanced delta load#3_5.sce#1319/CH3/EX3.5/3_5.sce#S##47079
+3#Three Phase Supply#3.4#To determine the line currents if one inductor is short circuited#3_4.sce#1319/CH3/EX3.4/3_4.sce#S##47078
+3#Three Phase Supply#3.3#To determine the potential of the star point and line currents#3_3.sce#1319/CH3/EX3.3/3_3.sce#S##47077
+3#Three Phase Supply#3.2#To determine the parameters of a balanced 3 phase star connected to an impedance#3_2.sce#1319/CH3/EX3.2/3_2.sce#S##47076
+3#Three Phase Supply#3.10#Two wattmeter power dertermination for a delta system#3_10.sce#1319/CH3/EX3.10/3_10.sce#S##47084
+3#Three Phase Supply#3.1#To determine the parameters of a balanced 3 phase star connected to a resistive load#3_1.sce#1319/CH3/EX3.1/3_1.sce#S##47075
+2#Network Theory#2.9#Superposition Principle to determine current in branch#2_9.sce#1319/CH2/EX2.9/2_9.sce#S##44119
+2#Network Theory#2.8#Conversion to current source and nodal analysis#2_8.sce#1319/CH2/EX2.8/2_8.sce#S##44118
+2#Network Theory#2.7#To Calculate current in all branches of the network shown using nodal analysis#2_7.sce#1319/CH2/EX2.7/2_7.sce#S##44117
+2#Network Theory#2.6#Determine the current in the branches of the network using nodal analysis#2_6.sce#1319/CH2/EX2.6/2_6.sce#S##44116
+2#Network Theory#2.5#Determine Current through branch AB of the given network#2_5.sce#1319/CH2/EX2.5/2_5.sce#S##44115
+2#Network Theory#2.4#To calculate current from a battery and pd across points A and B#2_4.sce#1319/CH2/EX2.4/2_4.sce#S##44114
+2#Network Theory#2.3#To calculate current in each branch using loop analysis and point voltages in a given network#2_3.sce#1319/CH2/EX2.3/2_3.sce#S##44113
+2#Network Theory#2.24#Determine the current through 10 ohm resistor using thevenins circuit#2_24.sce#1319/CH2/EX2.24/2_24.sce#S##47779
+2#Network Theory#2.23#To find voltage v and current through 3 ohm resistor using nodal analysis#2_23.sce#1319/CH2/EX2.23/2_23.sce#S##47778
+2#Network Theory#2.22#Current through 2 ohm resistor given a current source#2_22.sce#1319/CH2/EX2.22/2_22.sce#S##47777
+2#Network Theory#2.21#Determine current through branch AB using loop and nodal analysis#2_21.sce#1319/CH2/EX2.21/2_21.sce#S##47776
+2#Network Theory#2.20#To determine equivalent resistance using star delta transformation#2_20.sce#1319/CH2/EX2.20/2_20.sce#S##47775
+2#Network Theory#2.2#To calculate current in each branch using loop analysis#2_2.sce#1319/CH2/EX2.2/2_2.sce#S##44112
+2#Network Theory#2.19#Star Equivalent of the delta circuit#2_19.sce#1319/CH2/EX2.19/2_19.sce#S##47774
+2#Network Theory#2.18#Star to delta conversion of a cicuit#2_18.sce#1319/CH2/EX2.18/2_18.sce#S##47773
+2#Network Theory#2.17#To determine the value of RL for Max power transfer#2_17.sce#1319/CH2/EX2.17/2_17.sce#S##47772
+2#Network Theory#2.16#To determine the current in the 2 ohm resistor using superposition theorem#2_16.sce#1319/CH2/EX2.16/2_16.sce#S##47771
+2#Network Theory#2.15#To find current across 2ohm resistor using nortons theorem#2_15.sce#1319/CH2/EX2.15/2_15.sce#S##47770
+2#Network Theory#2.14#To determine current in RL using nortons theorem#2_14.sce#1319/CH2/EX2.14/2_14.sce#S##47769
+2#Network Theory#2.13#Current through AB using Nortons theorem#2_13.sce#1319/CH2/EX2.13/2_13.sce#S##47768
+2#Network Theory#2.12#Determine current through various values of RL#2_12.sce#1319/CH2/EX2.12/2_12.sce#S##47767
+2#Network Theory#2.11#To find the current through the branch AB#2_11.sce#1319/CH2/EX2.11/2_11.sce#S##47766
+2#Network Theory#2.10#Using thevenin theorem determine current through 2 ohm resistor#2_10.sce#1319/CH2/EX2.10/2_10.sce#S##47765
+2#Network Theory#2.1#To determine the current using loop analysis#2_1.sce#1319/CH2/EX2.1/2_1.sce#S##44111
+1#AC Circuits#1.9#Maximum current and frequncy at which it occurs and respective voltages#1_9.sce#1319/CH1/EX1.9/1_9.sce#S##44105
+1#AC Circuits#1.8#To find the current and impedance and admittance of the circuit#1_8.sce#1319/CH1/EX1.8/1_8.sce#S##44104
+1#AC Circuits#1.7#To determine circuit impedance and current in a parallel connection of a resistor and capacitor#1_7.sce#1319/CH1/EX1.7/1_7.sce#S##44103
+1#AC Circuits#1.6#Determine the value of the circuit components#1_6.sce#1319/CH1/EX1.6/1_6.sce#S##44102
+1#AC Circuits#1.5#To find the inductance of a choke to operate a 120V 500W lamp at 230V#1_5.sce#1319/CH1/EX1.5/1_5.sce#S##44101
+1#AC Circuits#1.43#To determine the magnetic parameters of a steel ring#1_43.sce#1319/CH1/EX1.43/1_43.sce#S##48088
+1#AC Circuits#1.42#Determine the magnetic flux for a toriod#1_42.sce#1319/CH1/EX1.42/1_42.sce#S##48087
+1#AC Circuits#1.41#To determine the parameters of a toroid#1_41.sce#1319/CH1/EX1.41/1_41.sce#S##48086
+1#AC Circuits#1.40#To determine parameters to operate the relay#1_40.sce#1319/CH1/EX1.40/1_40.sce#S##48085
+1#AC Circuits#1.4#To find the frequency in the RLC Circuit at a phase angle of 45 degrees#1_4.sce#1319/CH1/EX1.4/1_4.sce#S##44100
+1#AC Circuits#1.39#To determine the current through all the branches of the given network#1_39.sce#1319/CH1/EX1.39/1_39.sce#S##48084
+1#AC Circuits#1.38#Determine the instantaneous energy stored in the capacitor and inductor#1_38.sce#1319/CH1/EX1.38/1_38.sce#S##48127
+1#AC Circuits#1.37#Determine Circuit parameters for a circuit with a current source#1_37.sce#1319/CH1/EX1.37/1_37.sce#S##48126
+1#AC Circuits#1.36#Determine the resonant frequency and the source current#1_36.sce#1319/CH1/EX1.36/1_36.sce#S##48083
+1#AC Circuits#1.35#To determine the coil parameters with resistance of 5 ohms#1_35.sce#1319/CH1/EX1.35/1_35.sce#S##48082
+1#AC Circuits#1.34#Determine the phase angle between 220V main and the current#1_34.sce#1319/CH1/EX1.34/1_34.sce#S##48081
+1#AC Circuits#1.33#Determine circuit paramters of an iron coil#1_33.sce#1319/CH1/EX1.33/1_33.sce#S##48080
+1#AC Circuits#1.32#Determine the parameters of the circuit and power and pf#1_32.sce#1319/CH1/EX1.32/1_32.sce#S##48079
+1#AC Circuits#1.31#To determine the sum and difference of two alternating voltage sources#1_31.sce#1319/CH1/EX1.31/1_31.sce#S##48078
+1#AC Circuits#1.30#Determine the resultant current for two alternating currents#1_30.sce#1319/CH1/EX1.30/1_30.sce#S##48077
+1#AC Circuits#1.3#To find the current and power of a capacitive circuit#1_3.sce#1319/CH1/EX1.3/1_3.sce#S##44099
+1#AC Circuits#1.29#To determine the parameters of an alternating current of 50Hz frequency#1_29.sce#1319/CH1/EX1.29/1_29.sce#S##48076
+1#AC Circuits#1.28#Determine the inductance of a three coil system#1_28.sce#1319/CH1/EX1.28/1_28.sce#S##48075
+1#AC Circuits#1.27#Determine the inductance of individual winding#1_27.sce#1319/CH1/EX1.27/1_27.sce#S##48074
+1#AC Circuits#1.26#Find the current required to develop a flux of given mWb#1_26.sce#1319/CH1/EX1.26/1_26.sce#S##48073
+1#AC Circuits#1.25#To find current in the 600 turn exciting coil#1_25.sce#1319/CH1/EX1.25/1_25.sce#S##48072
+1#AC Circuits#1.24#Find the number of ampere turns#1_24.sce#1319/CH1/EX1.24/1_24.sce#S##48071
+1#AC Circuits#1.23#Find the flux density#1_23.sce#1319/CH1/EX1.23/1_23.sce#S##48070
+1#AC Circuits#1.22#To find the resistor for a given Q factor#1_22.sce#1319/CH1/EX1.22/1_22.sce#S##48069
+1#AC Circuits#1.21#To determine Rl for which resonance can take place#1_21.sce#1319/CH1/EX1.21/1_21.sce#S##48068
+1#AC Circuits#1.20#Determine the frequency of resonance and Max value of Rc at resonance#1_20.sce#1319/CH1/EX1.20/1_20.sce#S##48067
+1#AC Circuits#1.2#To find the current and power#1_2.sce#1319/CH1/EX1.2/1_2.sce#S##44098
+1#AC Circuits#1.19#To determine bandwidth and half power frequencies#1_19.sce#1319/CH1/EX1.19/1_19.sce#S##48066
+1#AC Circuits#1.18#Expression for the sum of energy stored by inductor and capacitor connected in parallel at resonance#1_18.sce#1319/CH1/EX1.18/1_18.sce#S##48065
+1#AC Circuits#1.17#Expression for the sum of energy stored by inductor and capacitor connected in series at resonance#1_17.sce#1319/CH1/EX1.17/1_17.sce#S##48064
+1#AC Circuits#1.16#Determine the original and loaded circuit bandwidth#1_16.sce#1319/CH1/EX1.16/1_16.sce#S##48063
+1#AC Circuits#1.15#Determine the current in parallel branches and supply current#1_15.sce#1319/CH1/EX1.15/1_15.sce#S##48062
+1#AC Circuits#1.14#Series Resonance in RLC circuit to find inductance and power#1_14.sce#1319/CH1/EX1.14/1_14.sce#S##44110
+1#AC Circuits#1.13#Series Resonace of a RLC circuit with 2 coils#1_13.sce#1319/CH1/EX1.13/1_13.sce#S##44109
+1#AC Circuits#1.12#RLC circuit problem to find the resonance frequncy and impedance magnitude#1_12.sce#1319/CH1/EX1.12/1_12.sce#S##44108
+1#AC Circuits#1.11#RLC circuit problems with quality factor#1_11.sce#1319/CH1/EX1.11/1_11.sce#S##44107
+1#AC Circuits#1.10#RLC circuit problems on resonace#1_10.sce#1319/CH1/EX1.10/1_10.sce#S##44106
+1#AC Circuits#1.1#To calculate frequency and instantaneous voltage and time of a voltage wave#1_1.sce#1319/CH1/EX1.1/1_1.sce#S##43944

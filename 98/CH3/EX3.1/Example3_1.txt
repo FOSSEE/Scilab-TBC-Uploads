@@ -1,0 +1,3 @@
+Energy generated per annum = 350400000.0 kWh
+
+

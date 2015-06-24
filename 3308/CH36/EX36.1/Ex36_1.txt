@@ -1,0 +1,7 @@
+ 
+ # Production of Polymer Tubing # 
+
+
+ Taguchi Loss Function = $ 0.277778 per unit 
+
+ Payback Period = 6.000000 months 

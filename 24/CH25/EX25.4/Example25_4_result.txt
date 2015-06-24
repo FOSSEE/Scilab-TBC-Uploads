@@ -1,0 +1,3 @@
+**Sample Problem 25-4a**
+The electric potential at the center is equal to -1.726427e-008/R Volts**Sample Problem 25-4b**
+It does not change in this configuration 

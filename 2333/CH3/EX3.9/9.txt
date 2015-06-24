@@ -1,0 +1,6 @@
+# PROBLEM 9 # 
+ Standard formula used 
+ lambda = e*sin(theta)  
+
+ Linear distance of first dark band from center is 0.098173 cm 
+ Linear distance of next bright band  is 0.147259 cm

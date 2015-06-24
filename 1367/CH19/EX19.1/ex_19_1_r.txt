@@ -1,0 +1,4 @@
+  
+ Flexural rigidity (in N/sqm) =    
+ 
+    7.709D+08 

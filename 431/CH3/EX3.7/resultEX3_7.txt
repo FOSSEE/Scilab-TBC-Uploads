@@ -1,0 +1,7 @@
+  
+ Example 3.7   
+magnetising current,Im=4.357106A
+Core loss=258W 
+ neglecting I^2R loss in primary winding at no-load   
+
+Maximium value of flux in the core=0.004144Wb 

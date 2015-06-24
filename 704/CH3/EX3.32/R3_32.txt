@@ -1,0 +1,9 @@
+  
+ full load and copper losses(in KW)=   
+ 
+    2.9729931  
+ 
+ iron loss(in KW)=   
+ 
+    1.0120226  
+ 

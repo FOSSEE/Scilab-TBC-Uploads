@@ -1,0 +1,2 @@
+**Sample Problem 25-1**
+The change in potential energy is -1.248000e-014J 

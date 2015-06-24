@@ -1,0 +1,2 @@
+**Sample Problem 36-6**
+The difference in thickness is equal to 1582.000000nm

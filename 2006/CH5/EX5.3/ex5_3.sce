@@ -1,0 +1,21 @@
+clc;
+V=50; // Volume of water in a tank in litres
+T1=120; // Temperature of water at initial state (1) in degree celcius
+x1=0.6; // Dryness fraction at initial state (1)
+T2=-10; // Temperature of water at final state (2) in degree celcius
+vf1=0.00106; // specific volume of water from steam tables at T1 in m^3/kg
+vg1=0.8919; // specific volume of water from steam tables at T1 in m^3/kg
+v1=(1-x1)*vf1+x1*vg1; // Specific volume of misture of liquid and water at state (1)
+m=(V*10^-3)/v1; // Mass of water in the tank
+vs2=0.0010891; // Specific volume of saturated ice at T2 in m^3/kg
+vg2=466.7; // Specific volume of water vapour at T2 in m^3/kg
+v2=v1; // constant specific volume during cooling process
+x2=(v2-vs2)/(vg2-vs2); // Dryness fraction at state (2)
+uf1=503.5; // Specific internal energy at state (1) in kJ/kg
+ug1=2529.3; // Specific internal energy at state (1) in kJ/kg
+us2=-354.09; // Specific internal energy at state (2) in kJ/kg
+ug2=2361.4; // Specific internal energy at state (2) in kJ/kg
+u1=(1-x1)*uf1+x1*ug1; // Total Specific internal energy at state (1) in kJ/kg
+u2=(1-x2)*us2+x2*ug2; // Total Specific internal energy at state (2) in kJ/kg
+Q12=m*(u2-u1); // Heat transfer during cooling pocess
+disp ("kJ",Q12,"Heat transfer during cooling pocess = ");

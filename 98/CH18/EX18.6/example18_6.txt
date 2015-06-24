@@ -1,0 +1,4 @@
+Zero sequence current is equal to 1/3rd the current in nuetral wire.
+Zero sequence current in each phase = 4 A 
+
+

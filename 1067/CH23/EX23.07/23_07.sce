@@ -1,0 +1,14 @@
+clear;
+clc;
+e=1;
+r=1500e3;
+v=11e3;
+x1=.1;
+ia=3*e/(x1*3);
+ibase=r/(sqrt(3)*v);
+i=ia*ibase;
+mprintf("the single line to ground fault = %dA",i);
+ia1=e/(2*x1);
+ib=sqrt(3)*ia1;
+ib=ibase*ib;
+mprintf("\nline to line fault current=%dA",ib);

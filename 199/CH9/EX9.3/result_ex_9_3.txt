@@ -1,0 +1,9 @@
+* Resistance R2 is = 100000.0 ohm
+* Resistance R3 is = 2958.6 ohm 
+* Resistance R1 is Open 
+* Resistance R4 is = 10060.0 ohm
+* Resistance R5 is = 10060.0 ohm 
+* Resistance R6 is = 10000.0 ohm 
+* Resistance R7 is = 10000.0 ohm 
+* Resistance R8 is = 10000.0 ohm 
+* Resistance R9 is = 3333.3 ohm 

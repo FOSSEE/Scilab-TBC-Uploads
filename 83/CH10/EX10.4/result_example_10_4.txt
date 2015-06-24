@@ -1,0 +1,14 @@
+ 
+
+
+Transformer zero sequence reactance = 0.0805 pu
+Generator zero sequence reactances = 0.06 pu
+Zero sequence reactance of motor 1 = 0.083 pu
+Zero sequence reactance of motor 2 = 0.165 pu
+Reactance of current limiting reactors = 1.550 pu
+Zero sequence reactance of transmission line = 0.494 pu
+
+ 
+ Zero sequence diagram has been drawn using XCOS,simulation has  
+      not been done as it is not being asked in the problem      
+ 

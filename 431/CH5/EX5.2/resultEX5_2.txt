@@ -1,0 +1,6 @@
+example 5.2   
+
+number of slots per phase= 12
+number of slots per pole per phase,m=3
+slot angle= 20 degree electrical
+distribution factor= 0.959795

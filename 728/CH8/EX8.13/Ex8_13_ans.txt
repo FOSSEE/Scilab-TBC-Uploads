@@ -1,0 +1,12 @@
+ 
+ Input rf voltage(in volts) =   
+ 
+    55.247474  
+ 
+ Voltage gain (in dB) =   
+ 
+    16.460769  
+ 
+ Maximum efficiency (in percentage) =   
+ 
+    43.955103 

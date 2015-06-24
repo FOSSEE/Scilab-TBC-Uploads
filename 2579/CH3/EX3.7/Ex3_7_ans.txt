@@ -1,0 +1,10 @@
+ The value of the parameter r= 11
+ The value of the parameter xo= 1.313200
+ The value of the current amplitude parameter ao= 3.023664
+ The value of the current amplitude parameter a1= 4.997545
+ The value of the current amplitude parameter a2= 2.973880
+ The value of the relative amplitude parameter a22= 1.000000
+ The value of the relative amplitude parameter a12= 1.680479
+ The value of the relative amplitude parameter ao2= 2.033481
+ The half power bandwidth= 48.972323 degree
+ The five element array is shown in figure in the given textbook 

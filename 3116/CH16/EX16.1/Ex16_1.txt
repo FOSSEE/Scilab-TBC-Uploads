@@ -1,0 +1,10 @@
+  Example 16.1
+
+ Part A:
+ Standard Cell potential is : 0.153 V
+
+ Part B:
+ Net EMF is : -0.073 V
+
+ That is,	 Cd is oxidised & Ni is reduced 
+ 

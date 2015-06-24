@@ -1,0 +1,4 @@
+  
+ Example 4.18   
+S1=0.040000
+Extra resistance to be connected in the  motor circuit=1.000000ohms 

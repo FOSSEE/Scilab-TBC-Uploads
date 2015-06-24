@@ -1,0 +1,195 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec("Example8.sci",-1)
+Current date is 05-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            5   
+ 
+ Chapter Title                         :                                   HANDLING ORDINARY FILES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 8    :               Show the method of comparing files using cmp command 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the two files which you want to compare 
+
+
+ $ cmp   hithern  hithrr     #to compare the files hithern and hithrr
+
+hithrr : file not found 
+# Create a new file named hithrr?
+ # y : Yes 
+ # n : No 
+
+#***Enter the contents of the file hithrr*****
+# [Enter ^ in a newline to end and close the file]
+
+
+$ cat > hithrr                      #to create a file named hithrr and fill its contents
+
+ $ cmp   hithern  hithrr    #to compare files hithern and hithrr 
+ hithern  hithrr  differ :  char 5 ,  line 4 
+ # This shows that 5th character in 4th line do not match
+
+
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->exec("Example8.sci",-1)
+Current date is 05-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            5   
+ 
+ Chapter Title                         :                                   HANDLING ORDINARY FILES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 8    :               Show the method of comparing files using cmp command 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the two files which you want to compare 
+
+
+ $ cmp   hithern  hithrr     #to compare the files hithern and hithrr
+
+hithrr : file not found 
+# Create a new file named hithrr?
+ # y : Yes 
+ # n : No 
+
+#***Enter the contents of the file hithrr*****
+# [Enter ^ in a newline to end and close the file]
+
+
+$ cat > hithrr                      #to create a file named hithrr and fill its contents
+
+ $ cmp   hithern  hithrr    #to compare files hithern and hithrr 
+ hithern  hithrr  differ :  char 7 ,  line 4 
+ # This shows that 7th character in 4th line do not match
+
+
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->exec("Example8.sci",-1)
+Current date is 05-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            5   
+ 
+ Chapter Title                         :                                   HANDLING ORDINARY FILES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 8    :               Show the method of comparing files using cmp command 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the two files which you want to compare 
+
+
+ $ cmp   hithern  hit     #to compare the files hithern and hit
+
+hit : file not found 
+# Create a new file named hit?
+ # y : Yes 
+ # n : No 
+
+#***Enter the contents of the file hit*****
+# [Enter ^ in a newline to end and close the file]
+
+
+$ cat > hit                      #to create a file named hit and fill its contents
+
+ $ cmp   hithern  hit    #to compare files hithern and hit 
+  
+# No output means both the files are identical 
+
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 

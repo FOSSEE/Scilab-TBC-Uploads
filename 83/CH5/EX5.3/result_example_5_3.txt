@@ -1,0 +1,6 @@
+ 
+Load Current |I|= 733.14 A
+Load Pr=1785001 W
+Receiving end power factor=0.81
+Supply Voltage=3409.99V 
+

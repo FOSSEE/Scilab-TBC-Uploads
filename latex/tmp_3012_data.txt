@@ -1,0 +1,126 @@
+14#Chemical and Phase Equilibrium#14.8#Example#Ex14_8.sce#3012/CH14/EX14.8/Ex14_8.sce#S##103739
+14#Chemical and Phase Equilibrium#14.5#Example#Ex14_5.sce#3012/CH14/EX14.5/Ex14_5.sce#S##103738
+14#Chemical and Phase Equilibrium#14.4#Example#Ex14_4.sce#3012/CH14/EX14.4/Ex14_4.sce#S##103737
+14#Chemical and Phase Equilibrium#14.3#Example#Ex14_3.sce#3012/CH14/EX14.3/Ex14_3.sce#S##103736
+14#Chemical and Phase Equilibrium#14.2#Example#Ex14_2.sce#3012/CH14/EX14.2/Ex14_2.sce#S##103735
+14#Chemical and Phase Equilibrium#14.10#Example#Ex14_10.sce#3012/CH14/EX14.10/Ex14_10.sce#S##103741
+14#Chemical and Phase Equilibrium#14.1#Example#Ex14_1.sce#3012/CH14/EX14.1/Ex14_1.sce#S##103734
+13#Reacting Mixtures and Combustion#13.9#Example#Ex13_9.sce#3012/CH13/EX13.9/Ex13_9.sce#S##103719
+13#Reacting Mixtures and Combustion#13.8#Example#Ex13_8.sce#3012/CH13/EX13.8/Ex13_8.sce#S##108649
+13#Reacting Mixtures and Combustion#13.7#Example#Ex13_7.sce#3012/CH13/EX13.7/Ex13_7.sce#S##103717
+13#Reacting Mixtures and Combustion#13.6#Example#Ex13_6.sce#3012/CH13/EX13.6/Ex13_6.sce#S##103716
+13#Reacting Mixtures and Combustion#13.5#Example#Ex13_5.sce#3012/CH13/EX13.5/Ex13_5.sce#S##103715
+13#Reacting Mixtures and Combustion#13.4#Example#Ex13_4.sce#3012/CH13/EX13.4/Ex13_4.sce#S##103714
+13#Reacting Mixtures and Combustion#13.3#Example#Ex13_3.sce#3012/CH13/EX13.3/Ex13_3.sce#S##103713
+13#Reacting Mixtures and Combustion#13.2#Example#Ex13_2.sce#3012/CH13/EX13.2/Ex13_2.sce#S##103712
+13#Reacting Mixtures and Combustion#13.16#Example#Ex13_16.sce#3012/CH13/EX13.16/Ex13_16.sce#S##103733
+13#Reacting Mixtures and Combustion#13.15#Example#Ex13_15.sce#3012/CH13/EX13.15/Ex13_15.sce#S##103731
+13#Reacting Mixtures and Combustion#13.14#Example#Ex13_14.sce#3012/CH13/EX13.14/Ex13_14.sce#S##103732
+13#Reacting Mixtures and Combustion#13.13#Example#Ex13_13.sce#3012/CH13/EX13.13/Ex13_13.sce#S##108648
+13#Reacting Mixtures and Combustion#13.12#Example#Ex13_12.sce#3012/CH13/EX13.12/Ex13_12.sce#S##103729
+13#Reacting Mixtures and Combustion#13.11#Example#Ex13_11.sce#3012/CH13/EX13.11/Ex13_11.sce#S##103728
+13#Reacting Mixtures and Combustion#13.10#Example#Ex13_10.sce#3012/CH13/EX13.10/Ex13_10.sce#S##103727
+13#Reacting Mixtures and Combustion#13.1#Example#Ex13_1.sce#3012/CH13/EX13.1/Ex13_1.sce#S##103711
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.9#Example#Ex12_9.sce#3012/CH12/EX12.9/Ex12_9.sce#S##103705
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.8#Example#Ex12_8.sce#3012/CH12/EX12.8/Ex12_8.sce#S##103704
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.7#Example#Ex12_7.sce#3012/CH12/EX12.7/Ex12_7.sce#S##103703
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.6#Example#Ex12_6.sce#3012/CH12/EX12.6/Ex12_6.sce#S##103702
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.5#Example#Ex12_5.sce#3012/CH12/EX12.5/Ex12_5.sce#S##103701
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.4#Example#Ex12_4.sce#3012/CH12/EX12.4/Ex12_4.sce#S##103700
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.3#Example#Ex12_3.sce#3012/CH12/EX12.3/Ex12_3.sce#S##103699
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.2#Example#Ex12_2.sce#3012/CH12/EX12.2/Ex12_2.sce#S##103698
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.15#Example#Ex12_15.sce#3012/CH12/EX12.15/Ex12_15.sce#S##103710
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.14#Example#Ex12_14.sce#3012/CH12/EX12.14/Ex12_14.sce#S##108647
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.13#Example#Ex12_13.sce#3012/CH12/EX12.13/Ex12_13.sce#S##109535
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.12#Example#Ex12_12.sce#3012/CH12/EX12.12/Ex12_12.sce#S##103745
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.11#Example#Ex12_11.sce#3012/CH12/EX12.11/Ex12_11.sce#S##108645
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.10#Example#Ex12_10.sce#3012/CH12/EX12.10/Ex12_10.sce#S##103706
+12#Ideal Gas Mixtures and Psychrometrics Applications#12.1#Example#Ex12_1.sce#3012/CH12/EX12.1/Ex12_1.sce#S##103697
+11#Thermodynamic Relations#11.9#Example#Ex11_9.sce#3012/CH11/EX11.9/Ex11_9.sce#S##103742
+11#Thermodynamic Relations#11.8#Example#Ex11_8.sce#3012/CH11/EX11.8/Ex11_8.sce#S##103693
+11#Thermodynamic Relations#11.6#Example#Ex11_6.sce#3012/CH11/EX11.6/Ex11_6.sce#S##103692
+11#Thermodynamic Relations#11.4#Example#Ex11_4.sce#3012/CH11/EX11.4/Ex11_4.sce#S##108644
+11#Thermodynamic Relations#11.3#Example#Ex11_3.sce#3012/CH11/EX11.3/Ex11_3.sce#S##108643
+11#Thermodynamic Relations#11.10#Example#Ex11_10.sce#3012/CH11/EX11.10/Ex11_10.sce#S##103695
+11#Thermodynamic Relations#11.1#Example#Ex11_1.sce#3012/CH11/EX11.1/Ex11_1.sce#S##111761
+10#Refrigeration and Heat Pump Systems#10.5#Example#Ex10_5.sce#3012/CH10/EX10.5/Ex10_5.sce#S##103688
+10#Refrigeration and Heat Pump Systems#10.4#Example#Ex10_4.sce#3012/CH10/EX10.4/Ex10_4.sce#S##103687
+10#Refrigeration and Heat Pump Systems#10.3#Example#Ex10_3.sce#3012/CH10/EX10.3/Ex10_3.sce#S##103686
+10#Refrigeration and Heat Pump Systems#10.2#Example#Ex10_2.sce#3012/CH10/EX10.2/Ex10_2.sce#S##109533
+10#Refrigeration and Heat Pump Systems#10.1#Example#Ex10_1.sce#3012/CH10/EX10.1/Ex10_1.sce#S##108641
+9#Gas Power Systems#9.9#Example#Ex9_9.sce#3012/CH9/EX9.9/Ex9_9.sce#S##103678
+9#Gas Power Systems#9.8#Example#Ex9_8.sce#3012/CH9/EX9.8/Ex9_8.sce#S##103677
+9#Gas Power Systems#9.7#Example#Ex9_7.sce#3012/CH9/EX9.7/Ex9_7.sce#S##103676
+9#Gas Power Systems#9.6#Example#Ex9_6.sce#3012/CH9/EX9.6/Ex9_6.sce#S##108640
+9#Gas Power Systems#9.4#Example#Ex9_4.sce#3012/CH9/EX9.4/Ex9_4.sce#S##103674
+9#Gas Power Systems#9.3#Example#Ex9_3.sce#3012/CH9/EX9.3/Ex9_3.sce#S##103673
+9#Gas Power Systems#9.2#Example#Ex9_2.sce#3012/CH9/EX9.2/Ex9_2.sce#S##111760
+9#Gas Power Systems#9.15#Example#Ex9_15.sce#3012/CH9/EX9.15/Ex9_15.sce#S##103683
+9#Gas Power Systems#9.14#Example#Ex9_14.sce#3012/CH9/EX9.14/Ex9_14.sce#S##103682
+9#Gas Power Systems#9.13#Example#Ex9_13.sce#3012/CH9/EX9.13/Ex9_13.sce#S##103681
+9#Gas Power Systems#9.12#Example#Ex9_12.sce#3012/CH9/EX9.12/Ex9_12.sce#S##103680
+9#Gas Power Systems#9.11#Example#Ex9_11.sce#3012/CH9/EX9.11/Ex9_11.sce#S##103679
+9#Gas Power Systems#9.1#Example#Ex9_1.sce#3012/CH9/EX9.1/Ex9_1.sce#S##103671
+8#Vapor Power Systems#8.9#Example#Ex8_9.sce#3012/CH8/EX8.9/Ex8_9.sce#S##103670
+8#Vapor Power Systems#8.8#Example#Ex8_8.sce#3012/CH8/EX8.8/Ex8_8.sce#S##103669
+8#Vapor Power Systems#8.7#Example#Ex8_7.sce#3012/CH8/EX8.7/Ex8_7.sce#S##103668
+8#Vapor Power Systems#8.6#Example#Ex8_6.sce#3012/CH8/EX8.6/Ex8_6.sce#S##103667
+8#Vapor Power Systems#8.5#Example#Ex8_5.sce#3012/CH8/EX8.5/Ex8_5.sce#S##103666
+8#Vapor Power Systems#8.4#Example#Ex8_4.sce#3012/CH8/EX8.4/Ex8_4.sce#S##103665
+8#Vapor Power Systems#8.3#Example#Ex8_3.sce#3012/CH8/EX8.3/Ex8_3.sce#S##108638
+8#Vapor Power Systems#8.2#Example#Ex8_2.sce#3012/CH8/EX8.2/Ex8_2.sce#S##103663
+8#Vapor Power Systems#8.1#Example#Ex8_1.sce#3012/CH8/EX8.1/Ex8_1.sce#S##103662
+7#Exergy Analysis#7.9#Example#Ex7_9.sce#3012/CH7/EX7.9/Ex7_9.sce#S##103660
+7#Exergy Analysis#7.8#Example#Ex7_8.sce#3012/CH7/EX7.8/Ex7_8.sce#S##109531
+7#Exergy Analysis#7.7#Example#Ex7_7.sce#3012/CH7/EX7.7/Ex7_7.sce#S##103658
+7#Exergy Analysis#7.6#Example#Ex7_6.sce#3012/CH7/EX7.6/Ex7_6.sce#S##103657
+7#Exergy Analysis#7.5#Example#Ex7_5.sce#3012/CH7/EX7.5/Ex7_5.sce#S##103656
+7#Exergy Analysis#7.4#Example#Ex7_4.sce#3012/CH7/EX7.4/Ex7_4.sce#S##108636
+7#Exergy Analysis#7.3#Example#Ex7_3.sce#3012/CH7/EX7.3/Ex7_3.sce#S##103654
+7#Exergy Analysis#7.2#Example#Ex7_2.sce#3012/CH7/EX7.2/Ex7_2.sce#S##103653
+7#Exergy Analysis#7.10#Example#Ex7_10.sce#3012/CH7/EX7.10/Ex7_10.sce#S##103661
+7#Exergy Analysis#7.1#Example#Ex7_1.sce#3012/CH7/EX7.1/Ex7_1.sce#S##103652
+6#Using Entropy#6.9#Example#Ex6_9.sce#3012/CH6/EX6.9/Ex6_9.sce#S##103645
+6#Using Entropy#6.8#Example#Ex6_8.sce#3012/CH6/EX6.8/Ex6_8.sce#S##103644
+6#Using Entropy#6.7#Example#Ex6_7.sce#3012/CH6/EX6.7/Ex6_7.sce#S##103643
+6#Using Entropy#6.6#Example#Ex6_6.sce#3012/CH6/EX6.6/Ex6_6.sce#S##103642
+6#Using Entropy#6.5#Example#Ex6_5.sce#3012/CH6/EX6.5/Ex6_5.sce#S##103641
+6#Using Entropy#6.4#Example#Ex6_4.sce#3012/CH6/EX6.4/Ex6_4.sce#S##103640
+6#Using Entropy#6.3#Example#Ex6_3.sce#3012/CH6/EX6.3/Ex6_3.sce#S##103639
+6#Using Entropy#6.2#Example#Ex6_2.sce#3012/CH6/EX6.2/Ex6_2.sce#S##103638
+6#Using Entropy#6.15#Example#Ex6_15.sce#3012/CH6/EX6.15/Ex6_15.sce#S##103651
+6#Using Entropy#6.14#Example#Ex6_14.sce#3012/CH6/EX6.14/Ex6_14.sce#S##103650
+6#Using Entropy#6.13#Example#Ex6_13.sce#3012/CH6/EX6.13/Ex6_13.sce#S##103649
+6#Using Entropy#6.12#Example#Ex6_12.sce#3012/CH6/EX6.12/Ex6_12.sce#S##103648
+6#Using Entropy#6.11#Example#Ex6_11.sce#3012/CH6/EX6.11/Ex6_11.sce#S##103647
+6#Using Entropy#6.10#Example#Ex6_10.sce#3012/CH6/EX6.10/Ex6_10.sce#S##103646
+6#Using Entropy#6.1#Example#Ex6_1.sce#3012/CH6/EX6.1/Ex6_1.sce#S##103637
+5#The Second Law of Thermodynamics#5.3#Example#Ex5_3.sce#3012/CH5/EX5.3/Ex5_3.sce#S##103636
+5#The Second Law of Thermodynamics#5.2#Example#Ex5_2.sce#3012/CH5/EX5.2/Ex5_2.sce#S##103635
+5#The Second Law of Thermodynamics#5.1#Example#Ex5_1.sce#3012/CH5/EX5.1/Ex5_1.sce#S##103634
+4#Control Volume Analysis Using Energy#4.9#Example#Ex4_9.sce#3012/CH4/EX4.9/Ex4_9.sce#S##109530
+4#Control Volume Analysis Using Energy#4.8#Example#Ex4_8.sce#3012/CH4/EX4.8/Ex4_8.sce#S##108634
+4#Control Volume Analysis Using Energy#4.7#Example#Ex4_7.sce#3012/CH4/EX4.7/Ex4_7.sce#S##103628
+4#Control Volume Analysis Using Energy#4.6#Example#Ex4_6.sce#3012/CH4/EX4.6/Ex4_6.sce#S##103627
+4#Control Volume Analysis Using Energy#4.5#Example#Ex4_5.sce#3012/CH4/EX4.5/Ex4_5.sce#S##103626
+4#Control Volume Analysis Using Energy#4.4#Example#Ex4_4.sce#3012/CH4/EX4.4/Ex4_4.sce#S##103625
+4#Control Volume Analysis Using Energy#4.3#Example#Ex4_3.sce#3012/CH4/EX4.3/Ex4_3.sce#S##103624
+4#Control Volume Analysis Using Energy#4.12#Example#Ex4_12.sce#3012/CH4/EX4.12/Ex4_12.sce#S##103633
+4#Control Volume Analysis Using Energy#4.11#Example#Ex4_11.sce#3012/CH4/EX4.11/Ex4_11.sce#S##103632
+4#Control Volume Analysis Using Energy#4.10#Example#Ex4_10.sce#3012/CH4/EX4.10/Ex4_10.sce#S##103631
+4#Control Volume Analysis Using Energy#4.1#Example#Ex4_1.sce#3012/CH4/EX4.1/Ex4_1.sce#S##103623
+3#Evaluating Properties#3.9#Example#Ex3_9.sce#3012/CH3/EX3.9/Ex3_9.sce#S##103621
+3#Evaluating Properties#3.8#Example#Ex3_8.sce#3012/CH3/EX3.8/Ex3_8.sce#S##103620
+3#Evaluating Properties#3.7#Example#Ex3_7.sce#3012/CH3/EX3.7/Ex3_7.sce#S##109529
+3#Evaluating Properties#3.6#Example#Ex3_6.sce#3012/CH3/EX3.6/Ex3_6.sce#S##103618
+3#Evaluating Properties#3.4#Example#Ex3_4.sce#3012/CH3/EX3.4/Ex3_4.sce#S##103617
+3#Evaluating Properties#3.3#Example#Ex3_3.sce#3012/CH3/EX3.3/Ex3_3.sce#S##103616
+3#Evaluating Properties#3.2#Example#Ex3_2.sce#3012/CH3/EX3.2/Ex3_2.sce#S##103615
+3#Evaluating Properties#3.11#Example#Ex3_11.sce#3012/CH3/EX3.11/Ex3_11.sce#S##103622
+3#Evaluating Properties#3.1#Example#Ex3_1.sce#3012/CH3/EX3.1/Ex3_1.sce#S##103614
+2#Energy and the First Law of Thermodynamics#2.6#Example#Ex2_6.sce#3012/CH2/EX2.6/Ex2_6.sce#S##109528
+2#Energy and the First Law of Thermodynamics#2.5#Example#Ex2_5.sce#3012/CH2/EX2.5/Ex2_5.sce#S##103612
+2#Energy and the First Law of Thermodynamics#2.4#Example#Ex2_4.sce#3012/CH2/EX2.4/Ex2_4.sce#S##103611
+2#Energy and the First Law of Thermodynamics#2.3#Example#Ex2_3.sce#3012/CH2/EX2.3/Ex2_3.sce#S##109527
+2#Energy and the First Law of Thermodynamics#2.2#Example#Ex2_2.sce#3012/CH2/EX2.2/Ex2_2.sce#S##109526
+2#Energy and the First Law of Thermodynamics#2.1#Example 1#Ex2_1.sce#3012/CH2/EX2.1/Ex2_1.sce#S##103608

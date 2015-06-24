@@ -1,0 +1,22 @@
+//Gaussian Quadrature Rule
+clc;
+clear;
+close();
+format('v',10);
+funcprot(0);
+disp('Integral 0 to 2 exp(x)dx');
+deff('[y]=f(t)','y=exp(t+1)');
+b = 1;
+a = -1;
+x = poly(0,'x');
+p = x^4 - 6*x^2/7+3/35;
+x1 = roots(p);
+A = [1 1 1 1;x1';(x1.^2)';(x1.^3)'];
+B = [(b-a);(b^2-a^2)/2;(b^3-a^3)/3;(b^4-a^4)/4];
+C = inv(A)*B;
+I = C(1)*f(x1(1))+C(2)*f(x1(2))+C(3)*f(x1(3))+C(4)*f(x1(4));
+disp(I,'Calculated integration : ');
+exact = integrate('exp(x)','x',0,2);
+disp(exact,'The exact value of intergation is :');
+err = exact - I ;
+disp(err,'Error : ' );

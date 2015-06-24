@@ -1,0 +1,10 @@
+
+ OUTPUT Ex4.2.a
+=================================================
+ The effective diffusivity of O2 in air = 2.36e-02 cm2/s
+
+ OUTPUT Ex4.2.b
+=================================================
+ The calculated surface mean pore radius = 6e-07 cm
+ The predicted pore diffusivity = 2.18e-02 cm2/sec
+ The corresponding tortusity = 0.50

@@ -1,0 +1,1 @@
+Dc output voltage = 9.9 V

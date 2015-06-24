@@ -1,0 +1,3 @@
+ Armature voltage drop (in volts)=   
+ 
+    41.904762 

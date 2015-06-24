@@ -1,0 +1,5 @@
+Capacitance of the line = 10.0755*10^-9 F/km 
+
+Capacitance of 100km line = 1.0075 uF/phase 
+
+

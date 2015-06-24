@@ -1,0 +1,5 @@
+Value of Rf1 =  100000.0000 ohm 
+
+Value of Rf2 =  50000.0000 ohm 
+
+Value of Rf3 =  20000.0000 ohm 

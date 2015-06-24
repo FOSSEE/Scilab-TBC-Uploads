@@ -1,0 +1,16 @@
+ With GMR known   
+
+
+ Inductive Reactance for one conductor,XL = 0.828 ohm/mi 
+
+ 
+ With GMR not known   
+
+
+ Inductive reactance of one conductor = 0.8285 ohm/mi 
+
+ 
+ Since conductors composing the two lines are identical   
+
+
+ Inductive reactance,XL = 1.657 ohm/mi 

@@ -1,0 +1,78 @@
+function[tree1]=binary(tree,x)
+  p=1;
+  while(tree(p)~=-1&tree(p)~=-2)
+    q=p;
+    if(tree(p)>x)
+      p=2*p;
+    else
+      p=2*p+1;
+    end
+  end
+  if(tree(q)>x)
+    if(tree(2*q)==-2)
+      tree(2*q)=x;
+      tree(2*q+1)=-2;
+    else
+      tree(2*q)=x;
+    end
+  else
+    if(tree(2*q+1)==-2)
+      tree(2*q+1)=x;
+      tree(2*q+2)=-2;
+    else
+      tree(2*q+1)=x;
+    end
+  end
+  tree1=tree;
+endfunction
+funcprot(0);
+function[tree]=maketree(x)
+  tree=zeros(40,1);
+  for i=1:40
+    tree(i)=-1;
+  end
+  tree(1)=x;
+  tree(2)=-2;
+endfunction
+function[]=duplicate1(a,n)
+  tree=maketree(a(1));
+  q=1;
+  p=1;
+  i=2;
+  x=a(i)
+  while(i<n)
+    while(tree(p)~=x&tree(q)~=-1&tree(q)~=-2)
+      p=q;
+      if(tree(p)<x)
+        q=2*p;
+      else
+        q=2*p+1;
+      end
+    end
+    if(tree(p)==x)
+      disp(x," Duplicate  ");
+    else
+      tree=binary(tree,x);
+    end
+    i=i+1;
+    x=a(i);
+  end
+  while(tree(p)~=x&tree(q)~=-1&tree(q)~=-2)
+      p=q;
+      if(tree(p)<x)
+        q=2*p;
+      else
+        q=2*p+1;
+      end
+    end
+    if(tree(p)==x)
+      disp(x," Duplicate  ");
+    else
+      tree=binary(tree,x);
+    end
+endfunction
+//Calling Adress:
+a=[22 11 33 22 211 334]
+duplicate1(a,6)
+a=[21 11 33 22 22 334]
+duplicate1(a,6)

@@ -1,0 +1,12 @@
+Annual fixed charges
+Total annual charges = Rs. 6900000 
+Cost per kW of maximum demand = Rs. 92 
+
+Annual running charges
+Cost of fuel = Rs. 8100000 
+Units deliivered to consumers = 153000000 kWh 
+Cost per kWh = Rs. 0.053 
+
+Tariff is Rs. 92 of maximum demand plus 0.053 rupess per kWh 
+
+

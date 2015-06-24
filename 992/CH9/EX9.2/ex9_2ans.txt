@@ -1,0 +1,6 @@
+ 
+ Minimum lower side frequecy = 65.000000MHz
+ Maximum upper side frequency = 75.000000MHz
+ Minimum nyquist bandwidth = 10.000000MHz
+ Baud rate = 10.000000Megabaud 
+ Execution done.   

@@ -1,0 +1,16 @@
+ 
+ Example 11.2
+
+ Part A:
+ The stress required to move the dislocation at temperature 0K is 1000 MNm^-2
+
+ Part B:
+ The stress required to move the dislocation at temperature 100K is 655 MNm^-2
+
+ Part C:
+ Stress to be applied is zero
+ The stress required to move the dislocation at temperature 300K entirely overcome by thermal fluctuations
+
+ Part D:
+ Stress to be applied is zero
+ The stress required to move the dislocation at temperature 500K entirely overcome by thermal fluctuations

@@ -1,0 +1,11 @@
+clear;
+clc;
+D=40;Ri1=70;Ri2=600;
+Ai=D*0.115;
+R3=(sqrt(Ri1*Ri2))/sinh(Ai);
+R2=(Ri2/tanh(Ai))-R3;
+R1=(Ri1/tanh(Ai))-R3;
+printf("The desired elements of T-pad are:\n");
+printf(" R1 = %f ohms\n",round(R1*100)/100);
+printf(" R2 = %f ohms\n",round(R2));
+printf(" R3 = %f ohms\n",round(R3*100)/100);

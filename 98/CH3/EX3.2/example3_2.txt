@@ -1,0 +1,5 @@
+Demand factor = 0.465 
+
+Load facor = 351.027 
+
+

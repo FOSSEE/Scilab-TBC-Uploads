@@ -1,0 +1,16 @@
+
+ example 17 2   
+
+number of units out 0 ,capacity out  0MW ,capacity available  30MW ,probability 0.970000 
+number of units out 1 ,capacity out  30MW ,capacity available  0MW ,probability 0.030000 
+for exp 17 1 
+number of units out 0 ,capacity out  0MW ,capacity available 80MW ,probability 0.940900 
+number of units out 1 ,capacity out  40MW ,capacity available 40MW ,probability 0.058200 
+number of units out 2 ,capacity out  80MW ,capacity available 0MW ,probability 0.000900 
+combination of 2 set of stations
+capacity out 0MW ,capacity available 110MW ,individual state probability 0.912673 ,cumulative probability 1.000000
+capacity out 30MW ,capacity available 80MW ,individual state probability 0.028227 ,cumulative probability 0.087327
+capacity out 40MW ,capacity available 70MW ,individual state probability 0.056454 ,cumulative probability 0.059100
+capacity out 70MW ,capacity available 40MW ,individual state probability 0.001746 ,cumulative probability 0.002646
+capacity out 80MW ,capacity available 30MW ,individual state probability 0.000873 ,cumulative probability 0.000900
+capacity out 110MW ,capacity available 0MW ,individual state probability 0.000027 ,cumulative probability 0.000027 

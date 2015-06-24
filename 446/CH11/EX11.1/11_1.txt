@@ -1,0 +1,6 @@
+  
+ Exa-11.1(a)   
+The experimental value was found out to be 7.9798 eV.
+ 
+ Exa-11.1(b)   
+The calculated value of the binding energy is 7.9606 eV. 

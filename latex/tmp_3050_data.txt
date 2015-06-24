@@ -1,0 +1,32 @@
+6#Electrochemical System#6.9#Calculating deltaG and Kc#Ex6_9.sce#3050/CH6/EX6.9/Ex6_9.sce#S##104253
+6#Electrochemical System#6.8#Calculating Kc#Ex6_8.sce#3050/CH6/EX6.8/Ex6_8.sce#S##104252
+6#Electrochemical System#6.7#Calculating Kc#Ex6_7.sce#3050/CH6/EX6.7/Ex6_7.sce#S##104251
+6#Electrochemical System#6.6#Calculating Ksp#Ex6_6.sce#3050/CH6/EX6.6/Ex6_6.sce#S##104250
+6#Electrochemical System#6.5#Calculating solubility#Ex6_5.sce#3050/CH6/EX6.5/Ex6_5.sce#S##104249
+6#Electrochemical System#6.4#Calculating potential#Ex6_4.sce#3050/CH6/EX6.4/Ex6_4.sce#S##104248
+6#Electrochemical System#6.3#Calculating pH#Ex6_3.sce#3050/CH6/EX6.3/Ex6_3.sce#S##104247
+6#Electrochemical System#6.2#Calculating pH#Ex6_2.sce#3050/CH6/EX6.2/Ex6_2.sce#S##105121
+6#Electrochemical System#6.12#Calculating Kc#Ex6_12.sce#3050/CH6/EX6.12/Ex6_12.sce#S##104256
+6#Electrochemical System#6.11#Calculating Ecell and Energy#Ex6_11.sce#3050/CH6/EX6.11/Ex6_11.sce#S##104255
+6#Electrochemical System#6.10#Calculating Kc#Ex6_10.sce#3050/CH6/EX6.10/Ex6_10.sce#S##104254
+6#Electrochemical System#6.1#Calculating emf#Ex6_1.sce#3050/CH6/EX6.1/Ex6_1.sce#S##104245
+5#Lubricants and Greases#5.1#Calculating VI#Ex5_1.sce#3050/CH5/EX5.1/Ex5_1.sce#S##104243
+2#Fuel#2.8#Calculating percentage S#Ex2_8.sce#3050/CH2/EX2.8/Ex2_8.sce#S##104242
+2#Fuel#2.7#Calculating percentage S and N#Ex2_7.sce#3050/CH2/EX2.7/Ex2_7.sce#S##104241
+2#Fuel#2.6#Calculating percentage C and H#Ex2_6.sce#3050/CH2/EX2.6/Ex2_6.sce#S##104240
+2#Fuel#2.5#Proximate Analysis#Ex2_5.sce#3050/CH2/EX2.5/Ex2_5.sce#S##104239
+2#Fuel#2.4#Calculating GCV and NCV#Ex2_4.sce#3050/CH2/EX2.4/Ex2_4.sce#S##104238
+2#Fuel#2.3#Calculating GCV and NCV#Ex2_3.sce#3050/CH2/EX2.3/Ex2_3.sce#S##104237
+2#Fuel#2.2#Calculating GCV and NCV#Ex2_2.sce#3050/CH2/EX2.2/Ex2_2.sce#S##104236
+2#Fuel#2.1#Calculating GCV and NCV#Ex2_1.sce#3050/CH2/EX2.1/Ex2_1.sce#S##104235
+1#Water#1.9#Calculating Lime and Soda#Ex1_9.sce#3050/CH1/EX1.9/Ex1_9.sce#S##104232
+1#Water#1.8#Calculating Lime and Soda#Ex1_8.sce#3050/CH1/EX1.8/Ex1_8.sce#S##104231
+1#Water#1.7#Calculating Hardness and Lime Soda#Ex1_7.sce#3050/CH1/EX1.7/Ex1_7.sce#S##104230
+1#Water#1.6#Calculating Lime and Soda#Ex1_6.sce#3050/CH1/EX1.6/Ex1_6.sce#S##104229
+1#Water#1.5#Calculating Hardness#Ex1_5.sce#3050/CH1/EX1.5/Ex1_5.sce#S##104228
+1#Water#1.4#Calculating Hardness#Ex1_4.sce#3050/CH1/EX1.4/Ex1_4.sce#S##105120
+1#Water#1.3#Calculating Hardness#Ex1_3.sce#3050/CH1/EX1.3/Ex1_3.sce#S##104226
+1#Water#1.2#Calculating Mass#Ex1_2.sce#3050/CH1/EX1.2/Ex1_2.sce#S##104225
+1#Water#1.11#Calculating Hardness#Ex1_11.sce#3050/CH1/EX1.11/Ex1_11.sce#S##104234
+1#Water#1.10#Calculating Volume#Ex1_10.sce#3050/CH1/EX1.10/Ex1_10.sce#S##104233
+1#Water#1.1#Calculating Hardness#Ex1_1.sce#3050/CH1/EX1.1/Ex1_1.sce#S##104224

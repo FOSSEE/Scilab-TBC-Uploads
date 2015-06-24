@@ -1,0 +1,12 @@
+clear;
+clc;
+I1=6;I2=8;R1=4;R2=4;R3=6;R4=4;Rl=3;
+V1=I1*R1;V2=I2*R4;
+Voc1=V1*(R3+R4)/(R1+R2+R3+R4);
+Voc2=V2*(R1+R2)/(R1+R2+R3+R4);
+Voc=Voc1+Voc2;
+Zab=1/((1/(R1+R2))+(1/(R3+R4)));
+Il=Voc/(Zab+Rl);
+printf("-il = %f Amp\n",round(Il*10)/10);
+el=Il*Rl;
+printf("-el = %f volts",round(el*10)/10);

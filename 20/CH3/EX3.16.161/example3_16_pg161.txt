@@ -1,0 +1,6 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_3/code/example3_16_pg161.sce', -1)
+
+ The radial force due to the current of 1320 Amps for given data is 11930 lb
+ 
+-->diary(0);

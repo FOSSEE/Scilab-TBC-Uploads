@@ -1,0 +1,2 @@
+ The capture area = 1006.584242 m^2
+ The 3-dB beamwidth = 0.060982 degree 

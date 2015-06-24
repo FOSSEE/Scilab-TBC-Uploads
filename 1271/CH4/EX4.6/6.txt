@@ -1,0 +1,2 @@
+ Areal spread = 3.129631e-10 square meter,
+ Intensity = 3.195265e+08 watt/square meter

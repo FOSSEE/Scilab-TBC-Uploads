@@ -1,0 +1,5 @@
+ # PROBLEM 4.3 # 
+
+ Shear angle = 36.717474°, 
+ Cutting force = 429 N, 
+ Thrust force = 127 N, 

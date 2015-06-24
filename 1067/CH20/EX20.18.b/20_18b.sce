@@ -1,0 +1,13 @@
+clear;
+clc;
+z=4000;
+zb=9;
+x1=zb/z*100;
+x2=5;
+x3=30;
+x4=30;
+x=inv(inv(x1+x2)+inv(x3)+inv(x4));
+x=round(x*100)/100;
+fault=zb*1e3/x*100;
+fault=fix(fault/1e3)*1e3;
+mprintf("the new fault level of generator bus=%dMVA",fault/1e3);

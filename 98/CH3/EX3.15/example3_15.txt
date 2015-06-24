@@ -1,0 +1,3 @@
+Units generated per day = 840 MWh 
+
+

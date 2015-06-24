@@ -1,0 +1,9 @@
+	 (i)Maximum demand = 70 MW 
+
+	 (ii)Units generated per day = 1200000 kWh 
+
+	 (iii)Average load = 50000 kW 
+
+	 (iv)Load factor = 71.43 % 
+
+

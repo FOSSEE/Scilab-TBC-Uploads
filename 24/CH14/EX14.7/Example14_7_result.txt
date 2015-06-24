@@ -1,0 +1,3 @@
+**Sample Problem 7**
+The mass of the invisible star is equal to 1.859874e+031 kg
+The mass of the invisible star is equal to 9.346099 times the mass of Sun 

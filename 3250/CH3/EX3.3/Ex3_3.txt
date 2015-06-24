@@ -1,0 +1,3 @@
+ # PROBLEM 3.3 # 
+
+ The mill power = 80.952339 kW 

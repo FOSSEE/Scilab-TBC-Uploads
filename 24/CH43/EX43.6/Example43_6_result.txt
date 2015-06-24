@@ -1,0 +1,5 @@
+**Sample Problem 43-6a**
+Energy released during alpha decay of uranium is 4.247640Mev
+
+**Sample Problem 43-6b**
+It cannot emit a proton spontaneously

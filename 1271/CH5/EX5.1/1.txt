@@ -1,0 +1,3 @@
+ Critical angle = 68.068581 degree, 
+ Numerical aperture = 0.567715. 
+ Maximum incidence angle = 34.591019 degree. 

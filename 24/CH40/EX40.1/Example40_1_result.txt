@@ -1,0 +1,14 @@
+**Sample Prblem 40-1a**
+The least possible energy is 37.58ev
+
+**Sample Prblem 40-1b**
+The energy to be transferred is 300.66ev
+
+**Sample Prblem 40-1c**
+The wavelength of photon is 4.13nm
+
+**Sample Prblem 40-1d**
+The possible wavelength of photon is :
+	 4.13nm
+	 11.01nm
+	 6.61nm

@@ -1,0 +1,10 @@
+
+ OUTPUT Ex6.3.a
+==========================================================
+ The effect of axial dispersion is significant and the percentage excess of catalyst = 8%
+
+
+ OUTPUT Ex6.3.b
+==========================================================
+ The effect of axial dispersion is less on reducing the bed length 
+ The percentage excess of catalyst = 6%

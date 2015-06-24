@@ -1,0 +1,3 @@
+frequency of the system(in Hz)=   
+ 
+    4500.

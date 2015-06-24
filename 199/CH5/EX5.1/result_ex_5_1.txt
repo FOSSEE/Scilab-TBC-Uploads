@@ -1,0 +1,1 @@
+* Maximum gain is = 40 dB 

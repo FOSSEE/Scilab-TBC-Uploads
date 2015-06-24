@@ -1,0 +1,5 @@
+  
+ Example 2.20   
+ 
+ at a load current of 50A   
+N2=993.670467rpm 

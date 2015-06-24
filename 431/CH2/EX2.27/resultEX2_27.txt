@@ -1,0 +1,5 @@
+Example 2.27   
+radius of the drum=22.500000cm
+output power=5101.043040W
+input power =6440.000000W
+Efficiency of the motor=79.208743percent 

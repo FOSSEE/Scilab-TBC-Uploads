@@ -1,0 +1,2 @@
+﻿ Refractive index of liquid = 1.440000.
+ velocity of light in the liquid = 2.083333e+08 m/sec.

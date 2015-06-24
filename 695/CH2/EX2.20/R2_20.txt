@@ -1,0 +1,4 @@
+ NO-load speed (in rpm)=   
+ 
+    1328.  
+ 

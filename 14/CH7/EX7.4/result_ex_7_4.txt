@@ -1,0 +1,10 @@
+ Y bus matrix after removing node four   
+ 
+  - 8.4111111i    1.3888889i    6.2222222i  
+    1.3888889i  - 6.9111111i    4.7222222i  
+    6.2222222i    4.7222222i  - 10.944444i  
+ 
+ Y bus matrix after removing node three   
+ 
+  - 4.8736041i    4.0736041i  
+    4.0736041i  - 4.8736041i  

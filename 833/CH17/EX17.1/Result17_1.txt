@@ -1,0 +1,8 @@
+(a)Speed(in rpm)=   
+ 
+    1471.926  
+ 
+ (b)Power factor=   
+ 
+    0.8375479  
+ 

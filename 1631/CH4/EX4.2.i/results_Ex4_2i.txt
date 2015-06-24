@@ -1,0 +1,5 @@
+The code word legth is    
+ 
+    9.  
+ 
+ bits 

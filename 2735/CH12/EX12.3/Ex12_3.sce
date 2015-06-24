@@ -1,0 +1,24 @@
+clc
+clear
+//Initialization of variables
+ms=10 //lbm
+den=62.3 //lbm/ft^3
+A1=0.0218 //ft^2
+A2=0.00545 //ft^2
+p2=50 //psia
+p1=100 //psia
+gc=32.2 //ft/s^2
+dz=30 //ft
+T0=537 //R
+T1=620 //R
+T2=420 //R
+//calculations
+V1=ms/(A1*den)
+V2=ms/(A2*den)
+df=-144/den*(p2-p1) - (V2^2 -V1^2)/(2*gc) - dz
+dI=-T0/T1 *df
+dI2= -T0/T2 *df
+//results
+printf("Friction = %.1f ft-lbf/lbm",df)
+printf("\n Available energy loss in case a = %.1f ft-lbf/lbm",dI)
+printf("\n Available energy loss in case b = %.1f ft-lbf/lbm",dI2)

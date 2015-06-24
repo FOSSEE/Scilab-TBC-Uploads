@@ -1,0 +1,12 @@
+ 
+
+Centre of the receiving end circle is = 611.6 MVA
+
+(a) From the diagram,
+	CrP=850 
+ 	Sending end voltage|Vs|= 355.5 kV
+
+(b) Radius of the circle diagram = 705.4 MVA
+	 PR_max=556 MW
+
+(c) Additional MVA to be drawn from the line is = P'S=295 MVAR

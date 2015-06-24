@@ -1,0 +1,11 @@
+clear;
+clc;
+c=3*(10^8);
+f=3000*(10^8);
+lo=c/f;
+l=lo*(10^4);
+m=1;n=0;a=7.62;
+lc=2*a;
+printf("-Critical wavelength = %f cm\n",lc);
+lg=sqrt((l*l*lc*lc)/((lc*lc)-(l*l)));
+printf("-Guide wavelength = %f cm",round(lg*10)/10);

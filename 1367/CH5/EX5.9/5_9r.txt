@@ -1,0 +1,9 @@
+  
+ Interplanar Spacing (in angstorm) =    
+ 
+    1.212132  
+ 
+ Lattice parameter of the crystal (in Angstorm) =    
+ 
+    3.4284271  
+ 

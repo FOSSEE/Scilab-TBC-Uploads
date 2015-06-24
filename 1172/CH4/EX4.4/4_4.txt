@@ -1,0 +1,5 @@
+ # Problem 4 # 
+Standard formula used is V = V1 + V2 + .....+ V_n 
+  
+ Vector of velocity of pilot with respect to moving air is 271.715729 i -28.284271j miles/h 
+ where i and j stands for east and north respectively 

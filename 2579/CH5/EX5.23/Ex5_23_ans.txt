@@ -1,0 +1,2 @@
+ The attenuation = -80.054225 dB
+ Negative sign shown attenuation 

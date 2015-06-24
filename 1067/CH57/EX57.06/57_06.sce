@@ -1,0 +1,13 @@
+clear;
+clc;
+x=.05;
+vs=1;
+vr=1;
+p=10;
+d=asin(p*x);
+qs=(vs^2/x)-(vs*vr*cos(d)/x);
+qs=round(qs*100)/100;
+qR=(vs^2/x)-(vs*vr*cos(d)/x);
+qR=round(qR*100)/100;
+q=(qs+qR);
+mprintf("%f+j%fpu",p,q);

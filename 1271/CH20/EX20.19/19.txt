@@ -1,0 +1,6 @@
+ # PROBLEM 19 # 
+Standard formula used 
+ nu = a*(Z-b)^2 ........Moseley law 
+
+ Energy is 6.903572 keV.
+ Wavelength of x-ray is 1.797982 Angstrom.

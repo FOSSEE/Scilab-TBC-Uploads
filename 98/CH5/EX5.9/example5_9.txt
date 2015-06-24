@@ -1,0 +1,10 @@
+With power factor = 0.8 
+Maximum demand = 300 kVA 
+Annual bill = Rs. 20000 
+Flat rate per unit = Rs. 0.400 
+
+With power factor unity 
+Maximum demand = 240 kVA 
+Annual bill = Rs. 17000 
+Annual saving = Rs. 3000
+

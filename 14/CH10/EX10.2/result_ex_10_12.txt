@@ -1,0 +1,27 @@
+ Line Current in per unit is   
+ 
+    0.687229 + 0.5159861i  
+ 
+ Fault current in the generator side in per unit   
+ 
+    0.687229 - 2.7163371i  
+ 
+ Fault current in the generator side in A   
+ 
+    901.7542 - 3564.2681i  
+ 
+ Fault current in the motor side in per unit   
+ 
+  - 0.687229 - 5.364471i  
+ 
+ Fault current in the motor side in A   
+ 
+  - 901.7542 - 7039.0426i  
+ 
+ Toatl Fault current in per unit   
+ 
+  - 1.110D-16 - 8.0808081i  
+ 
+ Total Fault current in A   
+ 
+  - 1.457D-13 - 10603.311i  

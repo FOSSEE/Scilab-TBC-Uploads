@@ -1,0 +1,6 @@
+Example 2.11   
+induced emf,E=220.400000V
+the electromagnetic torque=26.448000Nm
+electrical input to the armature,Pinput= 2760W
+mechanical developed=2644.800000W
+armature copper loss=115.200000W 

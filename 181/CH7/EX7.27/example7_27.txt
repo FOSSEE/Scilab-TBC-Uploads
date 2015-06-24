@@ -1,0 +1,6 @@
+Id^2-6.73*Id+5.76=0
+Id = 5.72 mA or 1.01 mA
+(a)The possible value is 1.01 mA
+Vgs = -1.01 V
+Vds = 8.01 V
+(b)Voltage gain Av = 14.5 

@@ -1,0 +1,7 @@
+ i)Entropy of X 
+
+ 	  H(X)=1.571 bits/symbol
+
+ 	 ii)Entropy of Y 
+
+ 	  H(Y)=1.44 bits/symbol

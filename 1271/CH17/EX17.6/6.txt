@@ -1,0 +1,5 @@
+ # PROBLEM 6 # 
+Standard formula used 
+R_h = 1/(n*e) 
+
+ Hall coefficient is -2.450086e-10 m^3/C.

@@ -1,0 +1,5 @@
+**Sample Problem 4-3**
+The velocity vector of the rabbit at t=15sec in m/s is 
+  - 2.1  - 2.5  
+The magnitude of the velocity vector is 3.264966 m/s
+The angle made by the velocity vector with the x axis in degrees at the same time 49.969741 

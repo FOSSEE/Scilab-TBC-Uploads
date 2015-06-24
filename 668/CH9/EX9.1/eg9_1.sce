@@ -1,0 +1,11 @@
+kT = 26*10^-3; //in eV
+T = 300;
+q = 1.6*10^-19;
+Na = 10^16;
+ni = 1.5*10^10;
+eps0 = 8.84*10^-14; //in F/m
+eps = 11.9*eps0;
+phiF = kT*log(Na/ni);
+disp(phiF,"the potential φF (in V) = ")
+W = (4*eps*phiF/(q*Na))^0.5;
+disp(W,"The corresponding space charge width(in cm) = ")

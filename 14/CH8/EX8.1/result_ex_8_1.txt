@@ -1,0 +1,10 @@
+ Y21 = 5.77 /_104.04 per unit
+ Y23 = 7.71 /_103.82 per unit 
+
+
+ Scheduled power into the network at bus 2 is -1.15 per unit
+
+Difference between calculated value and scheduled value = -1.0572 per unit
+
+The value of the second element in the first row of the Jacobian = -7.6332 per unit 
+

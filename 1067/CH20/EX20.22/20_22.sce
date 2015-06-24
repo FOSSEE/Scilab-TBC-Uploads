@@ -1,0 +1,11 @@
+clc;
+clear;
+mvan=6800e6;
+v=132e3;
+mvac=200e6;
+mvae=mvan-mvac;
+n=mvan/(sqrt(3)*v);
+e=mvae/(1.681*v);
+e=fix(e/10)*10;
+n=fix(n/10)*10;
+printf("normal fault current=%f/_-90 kA\nEffective fault current=%f/_-90 kA",n/1e3,e/1e3);

@@ -1,0 +1,3 @@
+ Bits required per sample   
+ 
+    7. 

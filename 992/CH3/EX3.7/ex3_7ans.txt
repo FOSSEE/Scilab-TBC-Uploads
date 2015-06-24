@@ -1,0 +1,3 @@
+ 
+ Band width required = 230.000000 KHz 
+ Execution done.   

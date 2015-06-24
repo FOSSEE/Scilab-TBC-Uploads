@@ -1,0 +1,7 @@
+ effective inductance in parallel aiding  (in mili-Henry)=   
+ 
+    43.529412  
+ 
+ effective inductance in parallel opposing  (in mini-Henry)=   
+ 
+    18.655462 

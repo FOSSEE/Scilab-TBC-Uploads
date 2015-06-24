@@ -1,0 +1,5 @@
+  
+ Example 4.25   
+
+voltage at maximium torque=333.333333volts
+Full-load current at 333.3 volts is=150.000000A 

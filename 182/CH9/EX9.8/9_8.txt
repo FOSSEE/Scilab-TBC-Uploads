@@ -1,0 +1,4 @@
+
+8.the input terminal voltage at 100 Hz =0.9994 V
+  when Vi=(Vs-3 dB),
+  frequency=2.04 MHz 

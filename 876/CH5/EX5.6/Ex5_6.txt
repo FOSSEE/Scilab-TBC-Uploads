@@ -1,0 +1,11 @@
+(a)shunt resistance(in ohm)=   
+ 
+    0.1001001  
+ 
+ (b)shunt resistance(in ohm)=   
+ 
+    0.0200040  
+ 
+ (c)shunt resistance(in ohm)=   
+ 
+    0.010001

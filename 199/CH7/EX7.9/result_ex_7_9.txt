@@ -1,0 +1,5 @@
+* Resistance R2 of highpass section is = 15915.5 ohm
+* Resistance R of lowpass section is = 15915.5 ohm
+* Bandpass Gain Af is = 4 
+* Resistance R1 is = 10000.0 ohm
+* Resistance Rf is = 10000.0 ohm                                                                                                 

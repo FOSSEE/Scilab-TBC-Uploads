@@ -1,0 +1,3 @@
+ Example 18.2
+
+ Saturation Magnetisation is 5.0e+05 Ampere/m

@@ -1,0 +1,31 @@
+//Variable declaration:
+h = 140                             //Convention heat transfer coefficient (W/m^2.K)
+D1 = 10/10**3                       //Rod diameter (m)
+L = 2.5                             //Rod length (m)
+T1 = 200                            //Surface temperature of rod ( C)
+T2 = 25                             //Fluid temperature ( C)
+k = 1.4                             //Thermal conductivity of bakellite (W/m.K)
+l = 55/10**3                        //Insulation thickness (m)
+
+//Calculation:
+Q1 = h*%pi*D1*L*(T1-T2)              //Rate of heat transfer for the bare rod (W) (part 1)
+Bi = 2                              //Critical Biot number (part 2)
+D2 = Bi*k/h                         //Critical diameter associated with the bakelite coating (m)
+r2 = D2/2                           //Critical radius associated with the bakelite coating (m)
+r1 = D1/2                           //Rod radius (m)
+R1 = log(r2/r1)/(2*%pi*k*L)          //Insulation conduction resistance ( C/W)
+R2 = 1/(h*(2*%pi*r2*L))              //Convection thermal resistance ( C/W)
+Rt1 = R1+R2                         //Total thermal resistance ( C/W)
+Qc = (T1-T2)/Rt1                    //Heat transfer rate at the critical radius (W)
+r3 = r1+l                           //New radius associated with the bakelite coating after insulation (m) (part 3)
+R3 = log(r3/r1)/(2*%pi*k*L)          //Insulation conduction bakelite resistance ( C/W)
+R4 = 1/(h*(2*%pi*r3*L))              //Convection bakelite thermal resistance ( C/W)
+Rt2 = R3+R4                         //Total bakelite thermal resistance ( C/W)
+Q2 = (T1-T2)/Rt2                    //Heat transfer rate at the bakelite critical radius (W)
+Re = ((Q1-Q2)/Q1)*100               //Percent reduction in heat transfer rate relative to the case of a bare rod (%)
+
+//Result:
+printf("1. The rate of heat transfer for the bare rod is : %0.f W .",Q1)
+printf("2. The critical radius associated with the bakelite coating is : %.0f mm.",r2*10**3)
+printf(" & the heat transfer rate at the critical radius is : %.0f W .",Qc)
+printf("3. The fractional reduction in heat transfer rate relative to the case of a bare rod is : %.1f ",Re)

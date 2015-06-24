@@ -1,0 +1,10 @@
+  
+ Ex-4.8(a)   
+Uncertainity in energy of charged pi meson is 1.81e-016
+ 
+ Ex-4.8(b)   
+Uncertainity in energy of uncharged pi meson is 5.87e-008
+ 
+ Ex-4.8(c)   
+Uncertainity in energy of rho meson is 0.2
+ 

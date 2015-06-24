@@ -1,0 +1,4 @@
+  
+ Exa-6.7   
+The wavelngth of radiation for transition(2->3) is 41.029412 nm
+The wavelngth of radiation emitted for transition(2->4) is 30.4 nm 

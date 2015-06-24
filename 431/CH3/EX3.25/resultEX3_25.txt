@@ -1,0 +1,7 @@
+  
+ Example 3.25   
+
+Primary winding current=75.757576A
+Secondary winding current=1250.000000A
+Copper losses in the two winding=3858.184114Watts
+Efficiency at 0.8 p.f=98.314355percent 

@@ -1,0 +1,3 @@
+ The lower band width = 13.636364 %
+ The upper band width = 9.090909 %
+ The max to min ratio = 1.263158 to 1 

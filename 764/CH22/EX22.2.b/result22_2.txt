@@ -1,0 +1,46 @@
+-->//(Cylinders and Pressure Vessels) Example 22.2
+ 
+-->//Storage capacity of the cylinder V (m3)
+ 
+-->V = 0.25
+ V  =
+ 
+    0.25  
+ 
+-->//Operating internal pressure Pi (MPa)
+ 
+-->Pi = 5
+ Pi  =
+ 
+    5.  
+ 
+-->//Ultimate tensile strength of the material of the cylinder Sut (N/mm2)
+ 
+-->Sut = 340
+ Sut  =
+ 
+    340.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 4
+ fs  =
+ 
+    4.  
+ 
+-->//Ratio of length of cylinder to its diameter ratio
+ 
+-->ratio = 2
+ ratio  =
+ 
+    2.  
+ 
+
+Diameter of the cylinder(Di) = 492.372511 mm
+
+Length of the cylinder(L) = 984.745022 mm
+
+Thickness of the cylindrical portion(tc) = 14.481544 mm
+
+Thickness of the hemispherical portion(th) = 7.240772 mm
+ 

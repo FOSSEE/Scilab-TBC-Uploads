@@ -1,0 +1,24 @@
+  
+ i) k =    
+ 
+    0.01  
+ 
+ ii) P(X<=5) =    
+ 
+    0.25  
+ 
+ iii)PDF a) fX(x) =   
+ 
+    0.02x   
+ 
+   for 0<x<=10   
+ 
+    b)fX(x) =    
+ 
+    0.  
+ 
+   -infinte<x<=0,10<x<infine   
+ 
+ iv) P(5<X<=7) =   
+ 
+    0.24  

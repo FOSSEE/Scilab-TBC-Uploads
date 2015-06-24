@@ -1,0 +1,7 @@
+ 
+ Example 6.7
+ Part A:
+ Power required for operation is 1475 W.
+
+ Part B:
+ Die pressure at exit of die is 278 MPa. 

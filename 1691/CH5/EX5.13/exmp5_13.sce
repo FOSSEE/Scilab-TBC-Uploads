@@ -1,0 +1,30 @@
+//Example 5.13
+clc
+disp("BW = f_r / Q")
+q=10700/200
+format(5)
+disp(q,"Therefore,  Q = f_r / BW =")
+disp("Q = omega_r*L / R = 2*pi*f_r*L / R")
+lr=53.5/(2*%pi*10.7*10^6)
+format(9)
+disp(lr,"Therefore,  L/R = Q / 2*pi*f_r =")
+disp("|A_v| = g_m*R_L = 30")
+rl=(30/5)
+disp(rl,"Therefore,  R_L(in k-ohm) = (r_d || R_p) =")
+disp("Therefore,  R_p = 6383 ohm")
+disp("We know that")
+disp("R_p = L/C*R")
+c=((795*10^-9)/6383)*10^12
+format(6)
+disp(c,"Therefore,  C(in pF) =")
+disp("We know that")
+l=(1/(4*%pi^2*((10.7*10^6)^2)*124.5*10^-12))*10^6
+disp("f_r = 1 / 2*pi*sqrt(L*C)")
+format(6)
+disp(l,"Therefore,  L(in uH) =")
+disp("We have")
+disp("R_p = L / C*R")
+r=(1.777*10^-6)/(6383*124.5*10^-12)
+disp(r,"Therefore,  R(in ohm) = L / C*R_p =")
+disp("Therefore, elements of tank circuit are:")
+disp("L = 1.777 uH,  C = 124.5 pF  and  R = 2.236 ohm")

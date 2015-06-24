@@ -1,0 +1,3 @@
+
+Example 4.9
+ Relative permittivity is 1.903955

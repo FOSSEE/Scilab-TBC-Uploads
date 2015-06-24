@@ -1,0 +1,2 @@
+ # Problem 8  # 
+ Flux through coil is  1 Nm/C 

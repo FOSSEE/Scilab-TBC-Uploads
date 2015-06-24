@@ -1,0 +1,2 @@
+ The aperture height in m = 3.952847 m
+ The aperture height in cm = 395.284708 cm

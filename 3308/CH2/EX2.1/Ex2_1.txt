@@ -1,0 +1,4 @@
+ # Calculation of Ultimate Tensile Strength # 
+
+
+ Ultimate Tensile Strength = 42888.194248 psi

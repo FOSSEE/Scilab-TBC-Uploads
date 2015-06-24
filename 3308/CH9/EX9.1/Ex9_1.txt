@@ -1,0 +1,6 @@
+ # application of reinforced plastics # 
+
+
+ The Elastic Modulus of the composite is = 140 GPa
+
+ The Fraction of load supported by Fibre is = 42.857143 Percent 

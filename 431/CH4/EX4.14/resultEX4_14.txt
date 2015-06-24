@@ -1,0 +1,5 @@
+  
+ Example 4.14   
+Syncronous speed,Ns=1000rpm
+Slip,S=0.060000
+standstill rotor reactance,X20=1.666667ohms 

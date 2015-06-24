@@ -1,0 +1,7 @@
+ # Problem 11 # 
+ 
+ Standard formula used 
+ beta=lambda*D/d 
+
+ Wavelength of light used is 4720 Angstrom.
+

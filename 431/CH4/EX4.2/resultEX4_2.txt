@@ -1,0 +1,14 @@
+ example 4.2   
+when P=2, Syhchronous speed,Ns=3000 
+when P=2, Syhchronous speed,Ns=1500 
+when P=2, Syhchronous speed,Ns=1000 
+when P=2, Syhchronous speed,Ns=750 
+ 
+ for Nr to be 1440 , Ns will be 1500, thus p=4   
+slip=4
+ 
+ for Nr to be 940 , Ns will be 1000, thus p=6   
+slip=6
+ 
+ motor running at 940 rpm is running at higher slip   
+ 

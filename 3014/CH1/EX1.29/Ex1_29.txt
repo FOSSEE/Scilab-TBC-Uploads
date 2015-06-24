@@ -1,0 +1,12 @@
+
+Example 1.29
+ For first order, sin(theta) is 0.954206 
+ For second order sin(theta) must be 1.908411 
+ which is not possible for any value of angle. 
+ So no maxima occur for higher orders 
+
+
+
+ Angle of diffraction for first order of beam 
+ is 56.813542 degree at 65 Volts
+

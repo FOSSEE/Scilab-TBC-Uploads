@@ -1,0 +1,8 @@
+**Sample Problem 28-2a**
+The current through the battery is 0.300000A
+
+**Sample Problem 28-2b**
+The current through R2 is 0.180000A
+
+**Sample Problem 28-2c**
+The current through R3 is 0.120000A 

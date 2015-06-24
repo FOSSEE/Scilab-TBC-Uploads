@@ -1,0 +1,58 @@
+-->//(Brakes) Example 12.6
+ 
+-->//Limit of the product pv
+ 
+-->pv = 2
+ pv  =
+ 
+    2.  
+ 
+-->//Coefficient of friction between the drum and the friction lining mu
+ 
+-->mu = 0.2
+ mu  =
+ 
+    0.2  
+ 
+-->//Gear ratio between the brake and cable drum g
+ 
+-->g = 4
+ g  =
+ 
+    4.  
+ 
+-->//Permissible intensity of pressure on friction lining pmax (N/mm2)
+ 
+-->pmax = 1
+ pmax  =
+ 
+    1.  
+ 
+-->//Radius of the brake drum Rb (mm)
+ 
+-->Rb = 200
+ Rb  =
+ 
+    200.  
+ 
+-->//Radius of the cable drum Rc (mm)
+ 
+-->Rc = 150
+ Rc  =
+ 
+    150.  
+ 
+-->//Mass attached to the cable drum m (kg)
+ 
+-->m = 500
+ m  =
+ 
+    500.  
+ 
+
+Brake shoe force(P) = 4598.437500 N
+
+Area of friction lining(A) = 4598.437500 mm2
+
+Uniform velocity at which the mass can be lowered(v1) = 0.375000 m/s or 22.500000 m/min
+ 

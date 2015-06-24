@@ -1,0 +1,7 @@
+(a)output voltage at -0.3 inch(in V)=   
+ 
+  - 3.12  
+ 
+ (b)output voltage at -0.25 inch(in V)=   
+ 
+  - 2.6 

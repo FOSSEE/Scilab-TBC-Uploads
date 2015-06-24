@@ -1,0 +1,8 @@
+
+ The total kinetic energy of rotation of the two machines in MJ is   
+ 
+    6758.91  
+ 
+ The inertia constant for the equivalent machine on 100-MVA base in MJ/MVA is   
+ 
+    67.5891  

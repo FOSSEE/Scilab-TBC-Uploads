@@ -1,0 +1,14 @@
+  
+ Integral 0 to 1 f(x)dx   
+ 
+ Are the c1,c2 constants :    
+ 
+    0.5  
+    0.5  
+ 
+ Are the corresponding roots (x1,x2) :    
+ 
+    0.2113249  
+    0.7886751  
+ 
+ c0*f(x0)+c1*f(x1)  

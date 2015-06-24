@@ -1,0 +1,13 @@
+ Highest frquency component of the message signal will be   
+ 
+ fmax=   
+ 
+    150.  
+ 
+  Hz   
+ 
+ Nquist Rate of the given Signal is   
+ 
+    300.  
+ 
+  Hz   

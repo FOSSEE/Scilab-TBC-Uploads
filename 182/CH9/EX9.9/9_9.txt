@@ -1,0 +1,3 @@
+
+9.C1=14.4 pF
+  The probe input capacitance as seen from the source=13 pF 

@@ -1,0 +1,36 @@
+  
+ Value of y at x :   
+ 
+    0.05  
+ 
+    0.95  
+ 
+ Value of y at x :   
+ 
+    0.1  
+ 
+    0.90702  
+ 
+ Value of y at x :   
+ 
+    0.15  
+ 
+    0.86963  
+ 
+ Value of y at x :   
+ 
+    0.2  
+ 
+    0.83675  
+ 
+ The calculated value of y(0.2):   
+ 
+    0.83675  
+ 
+ The exact value is of y(0.2):    
+ 
+    0.84579  
+ 
+ The error is :   
+ 
+    0.00905  

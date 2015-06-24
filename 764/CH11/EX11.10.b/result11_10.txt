@@ -1,0 +1,70 @@
+-->//(Friction Clutches) Example 11.10
+ 
+-->//Total power transmitted by the cone clutch kW
+ 
+-->kW = 30
+ kW  =
+ 
+    30.  
+ 
+-->//Number of revolutions of the cone clutch per minute (n) rpm
+ 
+-->n = 500
+ n  =
+ 
+    500.  
+ 
+-->//Coefficient of friction for asbestos friction lining mu
+ 
+-->mu = 0.2
+ mu  =
+ 
+    0.2  
+ 
+-->//Permissible intensity of pressure Pa (MPa)
+ 
+-->Pa = 0.35
+ Pa  =
+ 
+    0.35  
+ 
+-->//Semi-cone angle of the cone clutch alpha (degree)
+ 
+-->alpha = 12.5
+ alpha  =
+ 
+    12.5  
+ 
+-->//Outer diameter of the cone clutch due to space limitations D (mm)
+ 
+-->D = 300
+ D  =
+ 
+    300.  
+ 
+ 
+
+Applying uniform-wear theory
+
+Inner diameter of the friction disk is d (mm)
+
+Using the torque transmitting capacity formula for cone clutch:
+
+Mf = (pi * mu * Pa * d)*((D^2)-(d^2)))/(8 * sina)
+we get the following cubic equation in d
+
+(d^3) + (-90000.000000d) + (4511297.390667)= 0
+
+x,y and z are the three real roots of this cubic equation
+x = 270.817104
+y = 51.657138
+z = -322.474241
+
+Results
+
+Inner diameter of the friction disk(d) = 270.000000 mm
+
+Face width of friction lining(b) = 69.303395 mm
+
+Force required to engage the clutch(P) = 4351.254877 N
+ 

@@ -1,0 +1,2 @@
+* Minimum output voltage is = 0 V 
+* Maximum output voltage is = 5.38 V

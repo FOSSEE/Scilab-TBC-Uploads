@@ -1,0 +1,11 @@
+**Sample Problem 2-4a**
+The velocity as a function of time in m/s is 
+           2  
+  - 27 + 3t   
+The acceleration as a function of time in m/s^2 is 
+    6t   
+
+**Sample Problem 2-4b**
+velocity of the particle is zero at times in sec 
+    3.  
+  - 3.

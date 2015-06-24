@@ -1,0 +1,13 @@
+g1_max = 2.28V1 
+g2_max = 2.12V1 
+g3_max = 2.05V1 
+
+V2 = 1.074V1 
+V3 = 1.115V1 
+
+V1 = 16.90 kV 
+
+Voltage on the first intersheath = 36.99 kV 
+Voltage on the second intersheath = 18.84 kV 
+
+

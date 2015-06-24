@@ -1,0 +1,8 @@
+Magnetising current(in Amp)=   
+ 
+    0.2926500  
+ 
+ Iron loss current (in Amp)=   
+ 
+    0.066  
+ 

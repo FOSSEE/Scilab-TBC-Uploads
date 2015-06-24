@@ -1,0 +1,5 @@
+# Problem 19 # 
+ 
+ Standard formula used 
+   D_n^2 = 4*n*lambda*R/mu 
+ Radius of curvature of lens is 200 cm.

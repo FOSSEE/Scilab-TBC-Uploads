@@ -1,0 +1,14 @@
+clc;
+close
+clear;
+s=%s;
+b0=1;
+b1=2;
+b2=3;
+b3=4;
+a1=5;
+a2=6;
+a3=7;
+tf=syslin('d',((b0*s^3+b1*s^2+b2*s^1+b3)/(s^3+a1*s^2+a2*s+a3)));
+ss=tf2ss(tf);
+disp(ss)

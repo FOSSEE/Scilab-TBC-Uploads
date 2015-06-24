@@ -1,0 +1,12 @@
+
+ Reactance of G1= j1.5 pu 
+ Reactance of G2= j1.2 pu
+ Reactance of T1= j1.0 pu
+ Reactance of T2= j1.6 pu
+ Overhead line impedance=(0.744 + j0.992) pu
+ Cable impedance= (0.930 + j0.551) pu
+
+Total impedance= 5.1 < 70.87 deg pu 
+Short circuit current= 1713 A
+Voltage at 11kV bus=9.62 kV
+ 

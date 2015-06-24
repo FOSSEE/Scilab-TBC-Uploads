@@ -1,0 +1,82 @@
+6#Reactive power control#6.9#Settings of tap changes#Ex6_9.sce#2441/CH6/EX6.9/Ex6_9.sce#S##112572
+6#Reactive power control#6.8#Find tap settings#Ex6_8.sce#2441/CH6/EX6.8/Ex6_8.sce#S##112571
+6#Reactive power control#6.7#Find tap settings#Ex6_7.sce#2441/CH6/EX6.7/Ex6_7.sce#S##112570
+6#Reactive power control#6.6#Capacity of shunt compensation#Ex6_6.sce#2441/CH6/EX6.6/Ex6_6.sce#S##112569
+6#Reactive power control#6.5#VAR injection ay bus#Ex6_5.sce#2441/CH6/EX6.5/Ex6_5.sce#S##112568
+6#Reactive power control#6.4#Constant of nominal pi circuit#Ex6_4.sce#2441/CH6/EX6.4/Ex6_4.sce#S##112567
+6#Reactive power control#6.3#Find ABCD Parameters#Ex6_3.sce#2441/CH6/EX6.3/Ex6_3.sce#S##113669
+6#Reactive power control#6.2#Voltage and power factor#Ex6_2.sce#2441/CH6/EX6.2/Ex6_2.sce#S##112566
+6#Reactive power control#6.1#Voltage and power factor#Ex6_1.sce#2441/CH6/EX6.1/Ex6_1.sce#S##112565
+5#Frequency Control#5.9#Frequency response and value of Ki#Ex5_9.sce#2441/CH5/EX5.9/Ex5_9.sce#S##112549
+5#Frequency Control#5.8#Change in step and frequency#Ex5_8.sce#2441/CH5/EX5.8/Ex5_8.sce#S##113664
+5#Frequency Control#5.7#Frequency Deviation#Ex5_7.sce#2441/CH5/EX5.7/Ex5_7.sce#S##112547
+5#Frequency Control#5.6#Increased Generation#Ex5_6.sce#2441/CH5/EX5.6/Ex5_6.sce#S##112546
+5#Frequency Control#5.5#Primary ALFC looop parameter#Ex5_5.sce#2441/CH5/EX5.5/Ex5_5.sce#S##112544
+5#Frequency Control#5.4#Static Frequency Drop#Ex5_4.sce#2441/CH5/EX5.4/Ex5_4.sce#S##112543
+5#Frequency Control#5.3#Value of R#Ex5_3.sce#2441/CH5/EX5.3/Ex5_3.sce#S##112542
+5#Frequency Control#5.24#Phase angle and pu real and active#Ex5_24.sce#2441/CH5/EX5.24/Ex5_24.sce#S##113665
+5#Frequency Control#5.23#Voltage Boost Needed#Ex5_23.sce#2441/CH5/EX5.23/Ex5_23.sce#S##112563
+5#Frequency Control#5.22#Generation and transfer of power#Ex5_22.sce#2441/CH5/EX5.22/Ex5_22.sce#S##112562
+5#Frequency Control#5.21#No Load Frequencies#Ex5_21.sce#2441/CH5/EX5.21/Ex5_21.sce#S##112561
+5#Frequency Control#5.20#Generated output Power and frequency#Ex5_20.sce#2441/CH5/EX5.20/Ex5_20.sce#S##112560
+5#Frequency Control#5.2#Frequency Deviation#Ex5_2.sce#2441/CH5/EX5.2/Ex5_2.sce#S##112541
+5#Frequency Control#5.19#Compute the time error#Ex5_19.sce#2441/CH5/EX5.19/Ex5_19.sce#S##112559
+5#Frequency Control#5.18#Primary ALFC looop parameter#Ex5_18.sce#2441/CH5/EX5.18/Ex5_18.sce#S##112558
+5#Frequency Control#5.17#Rate of frequency increase#Ex5_17.sce#2441/CH5/EX5.17/Ex5_17.sce#S##112557
+5#Frequency Control#5.16#Percentage frequency deviation#Ex5_16.sce#2441/CH5/EX5.16/Ex5_16.sce#S##112556
+5#Frequency Control#5.15#Change in frequency#Ex5_15.sce#2441/CH5/EX5.15/Ex5_15.sce#S##112555
+5#Frequency Control#5.14#Frequency at shared load#Ex5_14.sce#2441/CH5/EX5.14/Ex5_14.sce#S##112554
+5#Frequency Control#5.13#Frequency of collision#Ex5_13.sce#2441/CH5/EX5.13/Ex5_13.sce#S##112553
+5#Frequency Control#5.12#Change in frequency and tie line power#Ex5_12.sce#2441/CH5/EX5.12/Ex5_12.sce#S##112552
+5#Frequency Control#5.11#Static Frequency Drop#Ex5_11.sce#2441/CH5/EX5.11/Ex5_11.sce#S##112551
+5#Frequency Control#5.10#Change in step and frequency error#Ex5_10.sce#2441/CH5/EX5.10/Ex5_10.sce#S##112550
+5#Frequency Control#5.1#Change in power output#Ex5_1.sce#2441/CH5/EX5.1/Ex5_1.sce#S##112540
+4#Modelling of turbine generators and automatic controllers#4.6#Inertia Constant#Ex4_6.sce#2441/CH4/EX4.6/Ex4_6.sce#S##110380
+4#Modelling of turbine generators and automatic controllers#4.5#Load current and power factor#Ex4_5.sce#2441/CH4/EX4.5/Ex4_5.sce#S##110379
+4#Modelling of turbine generators and automatic controllers#4.4#Synchronising power and torque#Ex4_4.sce#2441/CH4/EX4.4/Ex4_4.sce#S##113663
+4#Modelling of turbine generators and automatic controllers#4.3#Synchronising power#Ex4_3.sce#2441/CH4/EX4.3/Ex4_3.sce#S##113662
+4#Modelling of turbine generators and automatic controllers#4.2#Current Power factor and emf#Ex4_2.sce#2441/CH4/EX4.2/Ex4_2.sce#S##113609
+4#Modelling of turbine generators and automatic controllers#4.1#Shared load and power factor#Ex4_1.sce#2441/CH4/EX4.1/Ex4_1.sce#S##110375
+3#Hydrothermal Coordination#3.4#Load on plant and cost of water#Ex3_4.sce#2441/CH3/EX3.4/Ex3_4.sce#S##110374
+3#Hydrothermal Coordination#3.3#Water Used and operating cost#Ex3_3.sce#2441/CH3/EX3.3/Ex3_3.sce#S##110373
+3#Hydrothermal Coordination#3.2#Capacity of hydro plant and steel plant#Ex3_2.sce#2441/CH3/EX3.2/Ex3_2.sce#S##110372
+3#Hydrothermal Coordination#3.1#MW rating#Ex3_1.sce#2441/CH3/EX3.1/Ex3_1.sce#S##113608
+2#Economic Operation of Power System and Unit Commitment#2.9#Saving in Rs per hour#Ex2_9.sce#2441/CH2/EX2.9/Ex2_9.sce#S##112527
+2#Economic Operation of Power System and Unit Commitment#2.8#Required generationa at each plant#Ex2_8.sce#2441/CH2/EX2.8/Ex2_8.sce#S##112526
+2#Economic Operation of Power System and Unit Commitment#2.7#Loss Formula Coefficients#Ex2_7.sce#2441/CH2/EX2.7/Ex2_7.sce#S##112525
+2#Economic Operation of Power System and Unit Commitment#2.5#Loss Coefficient and Transmission Loss#Ex2_5.sce#2441/CH2/EX2.5/Ex2_5.sce#S##112524
+2#Economic Operation of Power System and Unit Commitment#2.3#Increase in generation#Ex2_3.sce#2441/CH2/EX2.3/Ex2_3.sce#S##112523
+2#Economic Operation of Power System and Unit Commitment#2.24#Optimum Schedule and total generation#Ex2_24.sce#2441/CH2/EX2.24/Ex2_24.sce#S##112539
+2#Economic Operation of Power System and Unit Commitment#2.23#Generation schedule and load demand#Ex2_23.sce#2441/CH2/EX2.23/Ex2_23.sce#S##112538
+2#Economic Operation of Power System and Unit Commitment#2.22#Find Optimum Scheduling#Ex2_22.sce#2441/CH2/EX2.22/Ex2_22.sce#S##112537
+2#Economic Operation of Power System and Unit Commitment#2.21#Minimum cost of generation#Ex2_21.sce#2441/CH2/EX2.21/Ex2_21.sce#S##113667
+2#Economic Operation of Power System and Unit Commitment#2.20#Find the load division#Ex2_20.sce#2441/CH2/EX2.20/Ex2_20.sce#S##112536
+2#Economic Operation of Power System and Unit Commitment#2.2#Saving per year#Ex2_2.sce#2441/CH2/EX2.2/Ex2_2.sce#S##113607
+2#Economic Operation of Power System and Unit Commitment#2.19#Find Load Distribution#Ex2_19.sce#2441/CH2/EX2.19/Ex2_19.sce#S##112535
+2#Economic Operation of Power System and Unit Commitment#2.18#Transmission Loss#Ex2_18.sce#2441/CH2/EX2.18/Ex2_18.sce#S##112534
+2#Economic Operation of Power System and Unit Commitment#2.17#Find Optimum Scheduling#Ex2_17.sce#2441/CH2/EX2.17/Ex2_17.sce#S##113666
+2#Economic Operation of Power System and Unit Commitment#2.16#Heat inputs and savings#Ex2_16.sce#2441/CH2/EX2.16/Ex2_16.sce#S##112533
+2#Economic Operation of Power System and Unit Commitment#2.15#Find Optimum Scheduling#Ex2_15.sce#2441/CH2/EX2.15/Ex2_15.sce#S##113670
+2#Economic Operation of Power System and Unit Commitment#2.14#Extra Ooperating Cost#Ex2_14.sce#2441/CH2/EX2.14/Ex2_14.sce#S##112532
+2#Economic Operation of Power System and Unit Commitment#2.13#Cost of generation#Ex2_13.sce#2441/CH2/EX2.13/Ex2_13.sce#S##112531
+2#Economic Operation of Power System and Unit Commitment#2.12#Daily Operating Schedule#Ex2_12.sce#2441/CH2/EX2.12/Ex2_12.sce#S##112530
+2#Economic Operation of Power System and Unit Commitment#2.11#Cost Characteristics#Ex2_11.sce#2441/CH2/EX2.11/Ex2_11.sce#S##112529
+2#Economic Operation of Power System and Unit Commitment#2.10#Transmission Loss and Recieved Power#Ex2_10.sce#2441/CH2/EX2.10/Ex2_10.sce#S##112976
+1#Introduction#1.9#Load duration curve and Mass curve#Ex1_9.sce#2441/CH1/EX1.9/Ex1_9.sce#S##112511
+1#Introduction#1.8#Load Curve and energy required#Ex1_8.sce#2441/CH1/EX1.8/Ex1_8.sce#S##112510
+1#Introduction#1.7#Load Factor Plant capacity reserve capacity#Ex1_7.sce#2441/CH1/EX1.7/Ex1_7.sce#S##112509
+1#Introduction#1.6#Energy Load curve and Mass Curve#Ex1_6.sce#2441/CH1/EX1.6/Ex1_6.sce#S##112508
+1#Introduction#1.5#Capacity and utilisation factor#Ex1_5.sce#2441/CH1/EX1.5/Ex1_5.sce#S##112507
+1#Introduction#1.4#Load Factor and Energy Supplied#Ex1_4.sce#2441/CH1/EX1.4/Ex1_4.sce#S##112506
+1#Introduction#1.3#Increase in peak demand#Ex1_3.sce#2441/CH1/EX1.3/Ex1_3.sce#S##112505
+1#Introduction#1.2#Demand and Diversity Factor #Ex1_2.sce#2441/CH1/EX1.2/Ex1_2.sce#S##112504
+1#Introduction#1.19#Motor Load Change#Ex1_19.sce#2441/CH1/EX1.19/Ex1_19.sce#S##113606
+1#Introduction#1.18#Total Energy generated#Ex1_18.sce#2441/CH1/EX1.18/Ex1_18.sce#S##112519
+1#Introduction#1.17#Real Power#Ex1_17.sce#2441/CH1/EX1.17/Ex1_17.sce#S##112518
+1#Introduction#1.16#Max Load and Load factor#Ex1_16.sce#2441/CH1/EX1.16/Ex1_16.sce#S##112517
+1#Introduction#1.14#Peak Load on transformer and feeder#Ex1_14.sce#2441/CH1/EX1.14/Ex1_14.sce#S##112516
+1#Introduction#1.13#Annual Load factor#Ex1_13.sce#2441/CH1/EX1.13/Ex1_13.sce#S##112515
+1#Introduction#1.12#Weekly Load Factor#Ex1_12.sce#2441/CH1/EX1.12/Ex1_12.sce#S##113605
+1#Introduction#1.11#Maximum demand and annual energy supplied#Ex1_11.sce#2441/CH1/EX1.11/Ex1_11.sce#S##112513
+1#Introduction#1.10#Station Capacity and Reserve capacity#Ex1_10.sce#2441/CH1/EX1.10/Ex1_10.sce#S##112512
+1#Introduction#1.1#Load Demand and energy#Ex1_1.sce#2441/CH1/EX1.1/Ex1_1.sce#S##112503

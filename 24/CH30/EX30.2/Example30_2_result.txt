@@ -1,0 +1,3 @@
+**Sample Problem 30-2**
+The magnitude of net magnetic field is 1.886038e-004T
+The angle made by the net magnetic field by the positive x-axis is 70.114835degrees 

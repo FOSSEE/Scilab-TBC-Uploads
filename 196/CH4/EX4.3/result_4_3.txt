@@ -1,0 +1,4 @@
+The dashed lines drawn on Ei in thew figure locate Vut and Vlt.
+At time t=0, Ei is below Vlt, so Vo is at +Vsat. When Ei goes above Vut, at times (a) and (c), Vo switches quickly to -Vsat. 
+When Ei again goes below Vlt, at times (b) and (d), Vo switches quickly to +Vsat. 
+Observe how positive feedback has eliminated the false crossings  

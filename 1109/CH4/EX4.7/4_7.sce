@@ -1,0 +1,15 @@
+clear;
+clc;
+dia=2*(10^-2);f=50;d1=3.5;V=66000;
+r=dia/2;
+Cn1=0.02414/(log10(d1/r))*(10^-6);
+printf("(a)Capacitance per km = %f microfarads/km,to neutral\n",fix(Cn1*(10^6)*10^5)/10^5);
+Vn=V/sqrt(3);
+Ic1=Vn*2*%pi*f*Cn1;
+printf("\tCharging current = %f mA/km\n",fix(Ic1*(10^3)*10)/10);
+d1=3.5;d2=4.5;d3=5.5;
+Deq=nthroot(d1*d2*d3,3);
+Cn2=0.02414/(log10(Deq/r))*(10^-6);
+printf("(b)Capacitance per km =%f microfarads/km,to neutral\n",fix(Cn2*(10^6)*10^5)/10^5);
+Ic2=Vn*2*%pi*f*Cn2;
+printf("\tCharging current = %f mA/km",round(Ic2*(10^3)));

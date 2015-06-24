@@ -1,0 +1,9 @@
+  Pmax  =
+ 
+    100.  
+
+
+	 carrier power = 96.969697 W 
+
+	 sidebands have the remaining 3.030303 W  
+ Execution done.   

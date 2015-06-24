@@ -1,0 +1,1 @@
+ Voltage regulation = 4.00 percent 

@@ -1,0 +1,209 @@
+8#Laser#8.5#Population of two states in He Ne laser#Ch08Ex5.sce#1847/CH8/EX8.5/Ch08Ex5.sce#S##92868
+8#Laser#8.4#Relative population of levels in Ruby laser#Ch08Ex4.sce#1847/CH8/EX8.4/Ch08Ex4.sce#S##92867
+8#Laser#8.3#Energy of one emitted photon and total energy available per laser pulse#Ch08Ex3.sce#1847/CH8/EX8.3/Ch08Ex3.sce#S##64357
+8#Laser#8.2#Frequency and wavelength of carbon dioxide laser#Ch08Ex2.sce#1847/CH8/EX8.2/Ch08Ex2.sce#S##64356
+8#Laser#8.1#Difference between upper and lower energy levels for the most prominent wavelength#Ch08Ex1.sce#1847/CH8/EX8.1/Ch08Ex1.sce#S##64355
+7#Fiber Optics#7.9#Number of modes in the step index fibre#Ch07Ex9.sce#1847/CH7/EX7.9/Ch07Ex9.sce#S##64368
+7#Fiber Optics#7.8#Normalized frequency for V number for the fibre#Ch07Ex8.sce#1847/CH7/EX7.8/Ch07Ex8.sce#S##64367
+7#Fiber Optics#7.7#Comparison of the acceptance angle for meridional rays with that for the skew rays#Ch07Ex7.sce#1847/CH7/EX7.7/Ch07Ex7.sce#S##64366
+7#Fiber Optics#7.6#Refractive index of the cladding#Ch07Ex6.sce#1847/CH7/EX7.6/Ch07Ex6.sce#S##64365
+7#Fiber Optics#7.5#Numerical aperture for an optical fibre#Ch07Ex5.sce#1847/CH7/EX7.5/Ch07Ex5.sce#S##64364
+7#Fiber Optics#7.4#Refractive index of cladding#Ch07Ex4.sce#1847/CH7/EX7.4/Ch07Ex4.sce#S##64363
+7#Fiber Optics#7.3#Parameters of an optical fibre using relative refractive index difference#Ch07Ex3.sce#1847/CH7/EX7.3/Ch07Ex3.sce#S##64362
+7#Fiber Optics#7.2#Critical angle acceptance angle and numerical aperture in an optical fibre#Ch07Ex2.sce#1847/CH7/EX7.2/Ch07Ex2.sce#S##64361
+7#Fiber Optics#7.11#Signal attenuation in optical fibre#Ch07Ex11.sce#1847/CH7/EX7.11/Ch07Ex11.sce#S##64370
+7#Fiber Optics#7.10#Radius of core for single mode operation in step index fibre#Ch07Ex10.sce#1847/CH7/EX7.10/Ch07Ex10.sce#S##92866
+7#Fiber Optics#7.1#Critical angle and acceptance angle in an optical fibre#Ch07Ex1.sce#1847/CH7/EX7.1/Ch07Ex1.sce#S##92870
+6#Semiconductors and Nano Physics#6.2#Velocity of electron at Fermi level#Ch06Ex2.sce#1847/CH6/EX6.2/Ch06Ex2.sce#S##64372
+6#Semiconductors and Nano Physics#6.1#Resistivity of intrinsic semiconductor at 300 K#Ch06Ex1.sce#1847/CH6/EX6.1/Ch06Ex1.sce#S##64371
+5#Nuclear Physics#5.9#Energy needed to remove a neutron from Ca nucleus#Ch05Ex9.sce#1847/CH5/EX5.9/Ch05Ex9.sce#S##64381
+5#Nuclear Physics#5.8#Average current in the GM counter circuit#Ch05Ex8.sce#1847/CH5/EX5.8/Ch05Ex8.sce#S##64380
+5#Nuclear Physics#5.7#Power output of nuclear reactor#Ch05Ex7.sce#1847/CH5/EX5.7/Ch05Ex7.sce#S##64379
+5#Nuclear Physics#5.6#Energy produced in fission of U235#Ch05Ex6.sce#1847/CH5/EX5.6/Ch05Ex6.sce#S##64378
+5#Nuclear Physics#5.5#Final energy gained by electrons in a betatron#Ch05Ex5.sce#1847/CH5/EX5.5/Ch05Ex5.sce#S##64377
+5#Nuclear Physics#5.4#Energy of an electron in a betatron#Ch05Ex4.sce#1847/CH5/EX5.4/Ch05Ex4.sce#S##64376
+5#Nuclear Physics#5.3#Maximum energy of proton in a cyclotron#Ch05Ex3.sce#1847/CH5/EX5.3/Ch05Ex3.sce#S##92869
+5#Nuclear Physics#5.1#Mass defect of He#Ch05Ex1.sce#1847/CH5/EX5.1/Ch05Ex1.sce#S##64373
+4#Polarization#4.9#Ratio of ordinary to extraordinary ray intensities#Ch04Ex9.sce#1847/CH4/EX4.9/Ch04Ex9.sce#S##64390
+4#Polarization#4.8#Angle of minimum deviation for green light#Ch04Ex8.sce#1847/CH4/EX4.8/Ch04Ex8.sce#S##64389
+4#Polarization#4.7#Angles of rotation of analyser for given transmitted light intensities#Ch04Ex7.sce#1847/CH4/EX4.7/Ch04Ex7.sce#S##64388
+4#Polarization#4.6#Angle of rotation of analyser#Ch04Ex6.sce#1847/CH4/EX4.6/Ch04Ex6.sce#S##64387
+4#Polarization#4.5#Polarizing angles of the materials for given refractive indices#Ch04Ex5.sce#1847/CH4/EX4.5/Ch04Ex5.sce#S##64386
+4#Polarization#4.4#Angle of minimum deviation for green light#Ch04Ex4.sce#1847/CH4/EX4.4/Ch04Ex4.sce#S##64385
+4#Polarization#4.3#Angle of refraction of the ray#Ch04Ex3.sce#1847/CH4/EX4.3/Ch04Ex3.sce#S##64384
+4#Polarization#4.26#Angle of rotation produced by the polarimeter plate#Ch04Ex26.sce#1847/CH4/EX4.26/Ch04Ex26.sce#S##64407
+4#Polarization#4.25#Percentage purity of the sugar sample#Ch04Ex25.sce#1847/CH4/EX4.25/Ch04Ex25.sce#S##64406
+4#Polarization#4.24#Mass of sugar in the solution contained in the tube#Ch04Ex24.sce#1847/CH4/EX4.24/Ch04Ex24.sce#S##64405
+4#Polarization#4.23#Angle of rotation in a tube of new length#Ch04Ex23.sce#1847/CH4/EX4.23/Ch04Ex23.sce#S##64404
+4#Polarization#4.22#Angle of rotation of the optically active solution#Ch04Ex22.sce#1847/CH4/EX4.22/Ch04Ex22.sce#S##64403
+4#Polarization#4.21#Angle of rotation of the plane of polarization#Ch04Ex21.sce#1847/CH4/EX4.21/Ch04Ex21.sce#S##64402
+4#Polarization#4.20#Specific rotation of sugar solution from the given data#Ch04Ex20.sce#1847/CH4/EX4.20/Ch04Ex20.sce#S##64401
+4#Polarization#4.2#Polarization by reflection#Ch04Ex2.sce#1847/CH4/EX4.2/Ch04Ex2.sce#S##64383
+4#Polarization#4.19#Quantity of sugar contained in the tube in the form of solution#Ch04Ex19.sce#1847/CH4/EX4.19/Ch04Ex19.sce#S##64400
+4#Polarization#4.18#Strength of sugar solution#Ch04Ex18.sce#1847/CH4/EX4.18/Ch04Ex18.sce#S##64399
+4#Polarization#4.17#Specific rotation of superposition#Ch04Ex17.sce#1847/CH4/EX4.17/Ch04Ex17.sce#S##64398
+4#Polarization#4.16#Difference between refractive indices#Ch04Ex16.sce#1847/CH4/EX4.16/Ch04Ex16.sce#S##64397
+4#Polarization#4.15#The thickness of a half wave plate quartz#Ch04Ex15.sce#1847/CH4/EX4.15/Ch04Ex15.sce#S##64396
+4#Polarization#4.14#The thickness of a quarter wave plate#Ch04Ex14.sce#1847/CH4/EX4.14/Ch04Ex14.sce#S##64395
+4#Polarization#4.13#The thickness of a half wave plate#Ch04Ex13.sce#1847/CH4/EX4.13/Ch04Ex13.sce#S##64394
+4#Polarization#4.12#Difference in refractive indices of rays#Ch04Ex12.sce#1847/CH4/EX4.12/Ch04Ex12.sce#S##64393
+4#Polarization#4.11#Least thickness of plate for which emergent beam is plane polarised#Ch04Ex11.sce#1847/CH4/EX4.11/Ch04Ex11.sce#S##64392
+4#Polarization#4.10#Thickness of quarter wave plate#Ch04Ex10.sce#1847/CH4/EX4.10/Ch04Ex10.sce#S##64391
+4#Polarization#4.1#Refractive index of the material#Ch04Ex1.sce#1847/CH4/EX4.1/Ch04Ex1.sce#S##64382
+3#Diffraction#3.9#Width of central maxima in diffraction pattern#Ch03Ex9.sce#1847/CH3/EX3.9/Ch03Ex9.sce#S##64485
+3#Diffraction#3.8#Distance between first minima and the next minima from the axis#Ch03Ex8.sce#1847/CH3/EX3.8/Ch03Ex8.sce#S##64486
+3#Diffraction#3.7#Angular width of central maximum#Ch03Ex7.sce#1847/CH3/EX3.7/Ch03Ex7.sce#S##64484
+3#Diffraction#3.6#Width of the slit#Ch03Ex6.sce#1847/CH3/EX3.6/Ch03Ex6.sce#S##64483
+3#Diffraction#3.5#Half angular width at central maximum in Fraunhoffer diffraction#Ch03Ex5.sce#1847/CH3/EX3.5/Ch03Ex5.sce#S##64482
+3#Diffraction#3.46#Aperture of the objective of the microscope#Ch03Ex46.sce#1847/CH3/EX3.46/Ch03Ex46.sce#S##64492
+3#Diffraction#3.45#Distance between centres of images of the two stars#Ch03Ex45.sce#1847/CH3/EX3.45/Ch03Ex45.sce#S##64493
+3#Diffraction#3.44#Dispersive power and diffraction angle for grating#Ch03Ex44.sce#1847/CH3/EX3.44/Ch03Ex44.sce#S##64494
+3#Diffraction#3.43#Minimum width of the grating to resolve the sodium lines in third order#Ch03Ex43.sce#1847/CH3/EX3.43/Ch03Ex43.sce#S##64495
+3#Diffraction#3.42#Number of lines on the plane transmission grating to just resolve the sodium lines#Ch03Ex42.sce#1847/CH3/EX3.42/Ch03Ex42.sce#S##64496
+3#Diffraction#3.41#Minimum required number of lines on the plane transmission grating#Ch03Ex41.sce#1847/CH3/EX3.41/Ch03Ex41.sce#S##64497
+3#Diffraction#3.40#Linear separation of two points on the moon#Ch03Ex40.sce#1847/CH3/EX3.40/Ch03Ex40.sce#S##64498
+3#Diffraction#3.4#Principal focal length of zone plate#Ch03Ex4.sce#1847/CH3/EX3.4/Ch03Ex4.sce#S##64481
+3#Diffraction#3.39#Minimum number of lines in a grating#Ch03Ex39.sce#1847/CH3/EX3.39/Ch03Ex39.sce#S##64499
+3#Diffraction#3.38#Angular separation between the sodium D1 and D2 lines#Ch03Ex38.sce#1847/CH3/EX3.38/Ch03Ex38.sce#S##92865
+3#Diffraction#3.37#Total number of lines on grating surface#Ch03Ex37.sce#1847/CH3/EX3.37/Ch03Ex37.sce#S##64501
+3#Diffraction#3.36#Number of lines per cm on grating surface#Ch03Ex36.sce#1847/CH3/EX3.36/Ch03Ex36.sce#S##64509
+3#Diffraction#3.35#Distance between two wavelengths seen as separate#Ch03Ex35.sce#1847/CH3/EX3.35/Ch03Ex35.sce#S##64508
+3#Diffraction#3.34#Number of visible orders using diffraction grating#Ch03Ex34.sce#1847/CH3/EX3.34/Ch03Ex34.sce#S##64507
+3#Diffraction#3.33#Wavelength of light used in obtaining second order diffraction maximum#Ch03Ex33.sce#1847/CH3/EX3.33/Ch03Ex33.sce#S##64506
+3#Diffraction#3.32#Angle of diffraction for maxima in first order#Ch03Ex32.sce#1847/CH3/EX3.32/Ch03Ex32.sce#S##64505
+3#Diffraction#3.31#Minimum grating width required to resolve two wavelengths#Ch03Ex31.sce#1847/CH3/EX3.31/Ch03Ex31.sce#S##64504
+3#Diffraction#3.30#Least width of plane transmission grating#Ch03Ex30.sce#1847/CH3/EX3.30/Ch03Ex30.sce#S##64503
+3#Diffraction#3.3#Position of the first image in a zone plate#Ch03Ex3.sce#1847/CH3/EX3.3/Ch03Ex3.sce#S##64480
+3#Diffraction#3.29#Angles at which first and second order maxima are observed#Ch03Ex29.sce#1847/CH3/EX3.29/Ch03Ex29.sce#S##64502
+3#Diffraction#3.28#Number of lines ruled on the grating surface#Ch03Ex28.sce#1847/CH3/EX3.28/Ch03Ex28.sce#S##64510
+3#Diffraction#3.27#Order of diffraction for the given grating element and wavelength of light#Ch03Ex27.sce#1847/CH3/EX3.27/Ch03Ex27.sce#S##64511
+3#Diffraction#3.26#Difference in the deviation in the first and third order spectra#Ch03Ex26.sce#1847/CH3/EX3.26/Ch03Ex26.sce#S##64512
+3#Diffraction#3.25#Separation of two lines in first order spectrum#Ch03Ex25.sce#1847/CH3/EX3.25/Ch03Ex25.sce#S##64513
+3#Diffraction#3.24#Angle of separation in second order of diffraction spectrum#Ch03Ex24.sce#1847/CH3/EX3.24/Ch03Ex24.sce#S##64514
+3#Diffraction#3.23#Highest order spectrum which can be seen in monochromatic light#Ch03Ex23.sce#1847/CH3/EX3.23/Ch03Ex23.sce#S##64515
+3#Diffraction#3.22#Angles of diffraction for the principal maxima for two lines of sodium#Ch03Ex22.sce#1847/CH3/EX3.22/Ch03Ex22.sce#S##64516
+3#Diffraction#3.21#Missing orders of spectra in Fraunhoffer double slit diffraction#Ch03Ex21.sce#1847/CH3/EX3.21/Ch03Ex21.sce#S##64517
+3#Diffraction#3.20#Positions of first secondary maxima and minima in double slit diffraction#Ch03Ex20.sce#1847/CH3/EX3.20/Ch03Ex20.sce#S##64518
+3#Diffraction#3.2#Zone plate with a point source of light on the axis#Ch03Ex2.sce#1847/CH3/EX3.2/Ch03Ex2.sce#S##64479
+3#Diffraction#3.19#Fringe separation in Fraunhoffer double slit diffraction pattern#Ch03Ex19.sce#1847/CH3/EX3.19/Ch03Ex19.sce#S##64519
+3#Diffraction#3.18#Fraunhoffer diffraction due to double slits#Ch03Ex18.sce#1847/CH3/EX3.18/Ch03Ex18.sce#S##64520
+3#Diffraction#3.16#Width of the slit from first order diffraction#Ch03Ex16.sce#1847/CH3/EX3.16/Ch03Ex16.sce#S##64522
+3#Diffraction#3.15#Distance between second dark and next bright fringe on the axes#Ch03Ex15.sce#1847/CH3/EX3.15/Ch03Ex15.sce#S##64523
+3#Diffraction#3.14#Wavelength of monochromatic light used in illuminating a slit#Ch03Ex14.sce#1847/CH3/EX3.14/Ch03Ex14.sce#S##64491
+3#Diffraction#3.13#Width of central maxima from position of first secondary minima#Ch03Ex13.sce#1847/CH3/EX3.13/Ch03Ex13.sce#S##64490
+3#Diffraction#3.12#Wavelength of light used in Fraunhoffer diffraction due to single slit#Ch03Ex12.sce#1847/CH3/EX3.12/Ch03Ex12.sce#S##64489
+3#Diffraction#3.11#Half angular width of central maxima#Ch03Ex11.sce#1847/CH3/EX3.11/Ch03Ex11.sce#S##64488
+3#Diffraction#3.10#Slit width in Fraunhoffer single slit experiment#Ch03Ex10.sce#1847/CH3/EX3.10/Ch03Ex10.sce#S##64487
+3#Diffraction#3.1#Position of the screen so that light is focused on the brightest spot#Ch03Ex1.sce#1847/CH3/EX3.1/Ch03Ex1.sce#S##64478
+2#Interference#2.9#Number of interference fringes for changed wavelength#Ch02Ex9.sce#1847/CH2/EX2.9/Ch02Ex9.sce#S##64416
+2#Interference#2.8#Angle of vertex of the biprism#Ch02Ex8.sce#1847/CH2/EX2.8/Ch02Ex8.sce#S##64415
+2#Interference#2.73#Thickness of the transparent glass film#Ch02Ex73.sce#1847/CH2/EX2.73/Ch02Ex73.sce#S##64451
+2#Interference#2.72#Distance between two successive positions of movable mirror#Ch02Ex72.sce#1847/CH2/EX2.72/Ch02Ex72.sce#S##64452
+2#Interference#2.71#Number of fringes that passes across the cross wire of telescope#Ch02Ex71.sce#1847/CH2/EX2.71/Ch02Ex71.sce#S##64453
+2#Interference#2.70#Wavelength of monochromatic light used in Michelson Interferometer#Ch02Ex70.sce#1847/CH2/EX2.70/Ch02Ex70.sce#S##92864
+2#Interference#2.7#Fringe width of the interference pattern due to biprism#Ch02Ex7.sce#1847/CH2/EX2.7/Ch02Ex7.sce#S##64414
+2#Interference#2.69#Wavelength of light used to illuminate plano convex lens in Newton rings experiment#Ch02Ex69.sce#1847/CH2/EX2.69/Ch02Ex69.sce#S##64455
+2#Interference#2.68#Diameter of eighteenth dark ring#Ch02Ex68.sce#1847/CH2/EX2.68/Ch02Ex68.sce#S##64456
+2#Interference#2.67#Refractive index of the liquid#Ch02Ex67.sce#1847/CH2/EX2.67/Ch02Ex67.sce#S##64457
+2#Interference#2.65#Refractive index of the liquid filled into container#Ch02Ex65.sce#1847/CH2/EX2.65/Ch02Ex65.sce#S##64458
+2#Interference#2.64#Diameter of fifteenth dark ring due to first wavelength#Ch02Ex64.sce#1847/CH2/EX2.64/Ch02Ex64.sce#S##64459
+2#Interference#2.63#Diameter of fifteenth dark Newton ring#Ch02Ex63.sce#1847/CH2/EX2.63/Ch02Ex63.sce#S##92863
+2#Interference#2.62#Wavelength of light used in Newton rings experiment#Ch02Ex62.sce#1847/CH2/EX2.62/Ch02Ex62.sce#S##92862
+2#Interference#2.61#Diameter of fifteenth bright ring#Ch02Ex61.sce#1847/CH2/EX2.61/Ch02Ex61.sce#S##64462
+2#Interference#2.60#Wavelength of light used in Newton rings experiment#Ch02Ex60.sce#1847/CH2/EX2.60/Ch02Ex60.sce#S##64463
+2#Interference#2.6#Distance between two coherent sources#Ch02Ex6.sce#1847/CH2/EX2.6/Ch02Ex6.sce#S##64413
+2#Interference#2.59#Refractive index of the liquid#Ch02Ex59.sce#1847/CH2/EX2.59/Ch02Ex59.sce#S##64464
+2#Interference#2.58#Radius of curvature of lens and thickness of air film#Ch02Ex58.sce#1847/CH2/EX2.58/Ch02Ex58.sce#S##64465
+2#Interference#2.57#Order of a dark ring having thrice the diameter of the thirtieth ring#Ch02Ex57.sce#1847/CH2/EX2.57/Ch02Ex57.sce#S##64466
+2#Interference#2.56#Diameter of fifteenth dark ring#Ch02Ex56.sce#1847/CH2/EX2.56/Ch02Ex56.sce#S##64467
+2#Interference#2.55#Diameter of nth dark ring due to first wavelength#Ch02Ex55.sce#1847/CH2/EX2.55/Ch02Ex55.sce#S##64468
+2#Interference#2.54#Acute angle of the wedge shaped film#Ch02Ex54.sce#1847/CH2/EX2.54/Ch02Ex54.sce#S##64469
+2#Interference#2.53#Angle of the wedge shaped air film#Ch02Ex53.sce#1847/CH2/EX2.53/Ch02Ex53.sce#S##64470
+2#Interference#2.52#Thickness of the wire separating two glass surfaces#Ch02Ex52.sce#1847/CH2/EX2.52/Ch02Ex52.sce#S##64471
+2#Interference#2.51#Wavelength of light used to illuminate a wedge shaped film#Ch02Ex51.sce#1847/CH2/EX2.51/Ch02Ex51.sce#S##92861
+2#Interference#2.50#Angle of thin wedge shaped film#Ch02Ex50.sce#1847/CH2/EX2.50/Ch02Ex50.sce#S##64473
+2#Interference#2.5#Separation between fourth order dark fringes#Ch02Ex5.sce#1847/CH2/EX2.5/Ch02Ex5.sce#S##64412
+2#Interference#2.49#Difference between the thicknesses of the films#Ch02Ex49.sce#1847/CH2/EX2.49/Ch02Ex49.sce#S##64474
+2#Interference#2.48#Wavelength of light falling on wedge shaped film#Ch02Ex48.sce#1847/CH2/EX2.48/Ch02Ex48.sce#S##64475
+2#Interference#2.47#Thickness of the soap film to produce constructive interference during reflection#Ch02Ex47.sce#1847/CH2/EX2.47/Ch02Ex47.sce#S##64476
+2#Interference#2.46#Refractive index of oil#Ch02Ex46.sce#1847/CH2/EX2.46/Ch02Ex46.sce#S##64477
+2#Interference#2.44#Thickness of the film with parallel beam of yellow light#Ch02Ex44.sce#1847/CH2/EX2.44/Ch02Ex44.sce#S##64450
+2#Interference#2.43#Thickness of the film with incident white light#Ch02Ex43.sce#1847/CH2/EX2.43/Ch02Ex43.sce#S##64449
+2#Interference#2.42#Wavelength in the visible range which is intensified in the reflected beam#Ch02Ex42.sce#1847/CH2/EX2.42/Ch02Ex42.sce#S##64448
+2#Interference#2.41#Thickness of the soap film for dark fringe in reflected pattern#Ch02Ex41.sce#1847/CH2/EX2.41/Ch02Ex41.sce#S##64447
+2#Interference#2.40#Minimum thickness of the film for which light is strongly reflected#Ch02Ex40.sce#1847/CH2/EX2.40/Ch02Ex40.sce#S##64446
+2#Interference#2.4#Wavelength of light from monochromatic coherent sources#Ch02Ex4.sce#1847/CH2/EX2.4/Ch02Ex4.sce#S##64411
+2#Interference#2.39#Order of interference for which light is strongly reflected#Ch02Ex39.sce#1847/CH2/EX2.39/Ch02Ex39.sce#S##64445
+2#Interference#2.38#Thickness of the thin soap film#Ch02Ex38.sce#1847/CH2/EX2.38/Ch02Ex38.sce#S##64444
+2#Interference#2.37#Minimum thickness of the plate that will appear dark in the reflection pattern#Ch02Ex37.sce#1847/CH2/EX2.37/Ch02Ex37.sce#S##64443
+2#Interference#2.36#Absent wavelength of reflected light in the visible spectrum#Ch02Ex36.sce#1847/CH2/EX2.36/Ch02Ex36.sce#S##64442
+2#Interference#2.35#Order of interference of the dark band#Ch02Ex35.sce#1847/CH2/EX2.35/Ch02Ex35.sce#S##64441
+2#Interference#2.34#The wavelength reflected strongly from the soap film#Ch02Ex34.sce#1847/CH2/EX2.34/Ch02Ex34.sce#S##64440
+2#Interference#2.33#Smallest thickness of glass plate for a fringe of minimum intensity#Ch02Ex33.sce#1847/CH2/EX2.33/Ch02Ex33.sce#S##64439
+2#Interference#2.32#Thickness of mica sheet from Fresnel biprism experiment#Ch02Ex32.sce#1847/CH2/EX2.32/Ch02Ex32.sce#S##64438
+2#Interference#2.31#Fringe width and optical path change during interference of waves through mica and glass#Ch02Ex31.sce#1847/CH2/EX2.31/Ch02Ex31.sce#S##64437
+2#Interference#2.30#Refractive index of material from shifting fringe pattern#Ch02Ex30.sce#1847/CH2/EX2.30/Ch02Ex30.sce#S##64436
+2#Interference#2.3#Ratio of maximum intensity to minimum intensity of interference fringes#Ch02Ex3.sce#1847/CH2/EX2.3/Ch02Ex3.sce#S##64410
+2#Interference#2.29#Thickness of mica sheet from central fringe shift#Ch02Ex29.sce#1847/CH2/EX2.29/Ch02Ex29.sce#S##64435
+2#Interference#2.28#Wavelength of light used in double slit experiment#Ch02Ex28.sce#1847/CH2/EX2.28/Ch02Ex28.sce#S##64434
+2#Interference#2.27#Refractive index of thin mica sheet#Ch02Ex27.sce#1847/CH2/EX2.27/Ch02Ex27.sce#S##64433
+2#Interference#2.26#Thickness of the transparent sheet from fringe shift#Ch02Ex26.sce#1847/CH2/EX2.26/Ch02Ex26.sce#S##64432
+2#Interference#2.25#Thickness of the transparent sheet#Ch02Ex25.sce#1847/CH2/EX2.25/Ch02Ex25.sce#S##64431
+2#Interference#2.24#Wavelength of light used in biprism arrangement#Ch02Ex24.sce#1847/CH2/EX2.24/Ch02Ex24.sce#S##64430
+2#Interference#2.23#Refractive index of material of sheet#Ch02Ex23.sce#1847/CH2/EX2.23/Ch02Ex23.sce#S##64429
+2#Interference#2.22#Refractive index of the glass sheet#Ch02Ex22.sce#1847/CH2/EX2.22/Ch02Ex22.sce#S##64428
+2#Interference#2.21#Separation between two coherent sources#Ch02Ex21.sce#1847/CH2/EX2.21/Ch02Ex21.sce#S##64427
+2#Interference#2.20#Angle of vertex of biprism#Ch02Ex20.sce#1847/CH2/EX2.20/Ch02Ex20.sce#S##64527
+2#Interference#2.2#Wavelength of light in Young Double Slit experiment#Ch02Ex2.sce#1847/CH2/EX2.2/Ch02Ex2.sce#S##64409
+2#Interference#2.19#Order of visible fringe for changed wavelength of light#Ch02Ex19.sce#1847/CH2/EX2.19/Ch02Ex19.sce#S##64426
+2#Interference#2.18#Vertex angle of Fresnel biprism#Ch02Ex18.sce#1847/CH2/EX2.18/Ch02Ex18.sce#S##64425
+2#Interference#2.17#Wavelength of light used in biprism experiment to illuminate slits#Ch02Ex17.sce#1847/CH2/EX2.17/Ch02Ex17.sce#S##64424
+2#Interference#2.16#Angle of vertex of Fresnel biprism#Ch02Ex16.sce#1847/CH2/EX2.16/Ch02Ex16.sce#S##64423
+2#Interference#2.15#Distance between interference bands#Ch02Ex15.sce#1847/CH2/EX2.15/Ch02Ex15.sce#S##64422
+2#Interference#2.14#Effect of slit biprism separation on fringe width#Ch02Ex14.sce#1847/CH2/EX2.14/Ch02Ex14.sce#S##64421
+2#Interference#2.13#Effect of slit separation on fringe width#Ch02Ex13.sce#1847/CH2/EX2.13/Ch02Ex13.sce#S##64420
+2#Interference#2.12#Distance between coherent sources in biprism experiment#Ch02Ex12.sce#1847/CH2/EX2.12/Ch02Ex12.sce#S##64419
+2#Interference#2.11#Fringe width at a certain distance from biprism#Ch02Ex11.sce#1847/CH2/EX2.11/Ch02Ex11.sce#S##64418
+2#Interference#2.10#Wavelength of light in a biprism experiment#Ch02Ex10.sce#1847/CH2/EX2.10/Ch02Ex10.sce#S##64417
+2#Interference#2.1#Slit separation in Double Slit experiment#Ch02Ex1.sce#1847/CH2/EX2.1/Ch02Ex1.sce#S##64408
+1#Quantum Mechanics#1.9#de Broglie wavelength of a neutron of given kinetic energy #Ch01Ex9.sce#1847/CH1/EX1.9/Ch01Ex9.sce#S##64321
+1#Quantum Mechanics#1.8#de Broglie wavelength of a moving electron#Ch01Ex8.sce#1847/CH1/EX1.8/Ch01Ex8.sce#S##64320
+1#Quantum Mechanics#1.7#Angle of deviation for first order diffraction maxima#Ch01Ex7.sce#1847/CH1/EX1.7/Ch01Ex7.sce#S##64319
+1#Quantum Mechanics#1.6#Wavelength of thermal neutron at room temperature#Ch01Ex6.sce#1847/CH1/EX1.6/Ch01Ex6.sce#S##64318
+1#Quantum Mechanics#1.5#Velocity and de Broglie wavelength of a neutron#Ch01Ex5.sce#1847/CH1/EX1.5/Ch01Ex5.sce#S##64317
+1#Quantum Mechanics#1.42#Energetic electrons in the Xray tube#Ch01Ex42.sce#1847/CH1/EX1.42/Ch01Ex42.sce#S##64353
+1#Quantum Mechanics#1.41#Compton scattering through aluminium foil#Ch01Ex41.sce#1847/CH1/EX1.41/Ch01Ex41.sce#S##64352
+1#Quantum Mechanics#1.40#Wavelength of scattered radiation with changed angle of view#Ch01Ex40.sce#1847/CH1/EX1.40/Ch01Ex40.sce#S##64354
+1#Quantum Mechanics#1.4#Energy of the electron from de Broglie wavelength#Ch01Ex4.sce#1847/CH1/EX1.4/Ch01Ex4.sce#S##64316
+1#Quantum Mechanics#1.39#Wavelength of scattered Xray#Ch01Ex39.sce#1847/CH1/EX1.39/Ch01Ex39.sce#S##64351
+1#Quantum Mechanics#1.38#X ray scattering#Ch01Ex38.sce#1847/CH1/EX1.38/Ch01Ex38.sce#S##64350
+1#Quantum Mechanics#1.37#Lowest energy of the neutron confined to the nucleus#Ch01Ex37.sce#1847/CH1/EX1.37/Ch01Ex37.sce#S##64349
+1#Quantum Mechanics#1.36#Lowest two permitted energy values of the electron in a 1D box#Ch01Ex36.sce#1847/CH1/EX1.36/Ch01Ex36.sce#S##64348
+1#Quantum Mechanics#1.35#First three energy levels of an electron in one dimensional box#Ch01Ex35.sce#1847/CH1/EX1.35/Ch01Ex35.sce#S##64347
+1#Quantum Mechanics#1.34#Lowest energy of an electron in a one dimensional force free region#Ch01Ex34.sce#1847/CH1/EX1.34/Ch01Ex34.sce#S##64346
+1#Quantum Mechanics#1.33#Energy of an electron moving in one dimensional infinitely high potential box#Ch01Ex33.sce#1847/CH1/EX1.33/Ch01Ex33.sce#S##64343
+1#Quantum Mechanics#1.32#Energy of the neutron confined in a nucleus#Ch01Ex32.sce#1847/CH1/EX1.32/Ch01Ex32.sce#S##64342
+1#Quantum Mechanics#1.31#Difference in the energy between the neighboring levels of Na at the highest state#Ch01Ex31.sce#1847/CH1/EX1.31/Ch01Ex31.sce#S##64341
+1#Quantum Mechanics#1.30#Smallest possible uncertainty in position of the electron#Ch01Ex30.sce#1847/CH1/EX1.30/Ch01Ex30.sce#S##64340
+1#Quantum Mechanics#1.3#de Broglie wavelength of an accelerated electron#Ch01Ex3.sce#1847/CH1/EX1.3/Ch01Ex3.sce#S##64313
+1#Quantum Mechanics#1.29#Uncertainty in position of the moving electron#Ch01Ex29.sce#1847/CH1/EX1.29/Ch01Ex29.sce#S##64314
+1#Quantum Mechanics#1.28#Uncertainty in position of the particle#Ch01Ex28.sce#1847/CH1/EX1.28/Ch01Ex28.sce#S##64339
+1#Quantum Mechanics#1.27#Uncertainty in momentum of electron#Ch01Ex27.sce#1847/CH1/EX1.27/Ch01Ex27.sce#S##64338
+1#Quantum Mechanics#1.26#Minimum uncertainty in momentum and minimum kinetic energy of proton#Ch01Ex26.sce#1847/CH1/EX1.26/Ch01Ex26.sce#S##64337
+1#Quantum Mechanics#1.25#Minimum uncertainty in velocity of electron#Ch01Ex25.sce#1847/CH1/EX1.25/Ch01Ex25.sce#S##64336
+1#Quantum Mechanics#1.24#Uncertainty in energy of an emitted photon#Ch01Ex24.sce#1847/CH1/EX1.24/Ch01Ex24.sce#S##64335
+1#Quantum Mechanics#1.23#Minimum accuracy to locate the position of an electron#Ch01Ex23.sce#1847/CH1/EX1.23/Ch01Ex23.sce#S##64334
+1#Quantum Mechanics#1.21#de Broglie wavelength of the electron#Ch01Ex21.sce#1847/CH1/EX1.21/Ch01Ex21.sce#S##64332
+1#Quantum Mechanics#1.20#Speed of proton for an equivalent wavelength of that of electron#Ch01Ex20.sce#1847/CH1/EX1.20/Ch01Ex20.sce#S##64331
+1#Quantum Mechanics#1.2#de Broglie wavelength of the particle#Ch01Ex2.sce#1847/CH1/EX1.2/Ch01Ex2.sce#S##64312
+1#Quantum Mechanics#1.19#Kinetic energy of electron#Ch01Ex19.sce#1847/CH1/EX1.19/Ch01Ex19.sce#S##64330
+1#Quantum Mechanics#1.18#Wavelength of an electron from its kinetic energy#Ch01Ex18.sce#1847/CH1/EX1.18/Ch01Ex18.sce#S##64329
+1#Quantum Mechanics#1.17#The wavelength associated with moving mass#Ch01Ex17.sce#1847/CH1/EX1.17/Ch01Ex17.sce#S##64328
+1#Quantum Mechanics#1.16#de Broglie wavelength of electron accelerated from rest#Ch01Ex16.sce#1847/CH1/EX1.16/Ch01Ex16.sce#S##64327
+1#Quantum Mechanics#1.15#de Broglie wavelength of electron accelerated at V volts#Ch01Ex15.sce#1847/CH1/EX1.15/Ch01Ex15.sce#S##64315
+1#Quantum Mechanics#1.14#Interplanar spacing using Bragg law#Ch01Ex14.sce#1847/CH1/EX1.14/Ch01Ex14.sce#S##64326
+1#Quantum Mechanics#1.13#Interplanar spacing of the crystal#Ch01Ex13.sce#1847/CH1/EX1.13/Ch01Ex13.sce#S##64325
+1#Quantum Mechanics#1.12#de Broglie wavelength of an electron accelerated through a given potential#Ch01Ex12.sce#1847/CH1/EX1.12/Ch01Ex12.sce#S##64324
+1#Quantum Mechanics#1.11#Wavelength of matter wave associated with moving proton#Ch01Ex11.sce#1847/CH1/EX1.11/Ch01Ex11.sce#S##64323
+1#Quantum Mechanics#1.10#de Broglie wavelength associated with moving proton#Ch01Ex10.sce#1847/CH1/EX1.10/Ch01Ex10.sce#S##64322
+1#Quantum Mechanics#1.1#Energy of the particle from de Broglie wavelength#Ch01Ex1.sce#1847/CH1/EX1.1/Ch01Ex1.sce#S##64311

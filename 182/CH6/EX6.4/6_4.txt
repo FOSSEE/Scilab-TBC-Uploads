@@ -1,0 +1,3 @@
+4.percentage measurement error=(+/-)1.000100 percent
+percentage measurement error=(+/-)0.000200 percent
+percentage measurement error=(+/-)0.000101 percent

@@ -1,0 +1,7 @@
+  R  =
+ 
+    500.  
+
+
+	 noise voltage = 0.000007 v  
+ Execution done.  

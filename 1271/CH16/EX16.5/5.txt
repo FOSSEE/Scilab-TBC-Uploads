@@ -1,0 +1,5 @@
+ # PROBLEM 5 # 
+Standard formula used 
+E = (h^2 / (8 * pi^2 * m)) * (3 * pi^2 * N/V)^(2/3) 
+
+ Fermi energy is 5.499884 eV.

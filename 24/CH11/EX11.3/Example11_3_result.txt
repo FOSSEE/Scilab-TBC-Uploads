@@ -1,0 +1,11 @@
+**Sample Problem 11-3a**
+The angular acceleration during the stop is -0.030080rads^2
+
+**Sample Problem 11-3b**
+The time taken in decreasing the speed is 46.542113sec 
+-->exec('D:\Study Mat\computer science\Scilab\Fundamental of Physics\Chapter_11\Example11_3.sce', -1)
+**Sample Problem 11-3a**
+The angular acceleration during the stop is -0.030080rads^2
+
+**Sample Problem 11-3b**
+The time taken in decreasing the speed is 46.542113sec 

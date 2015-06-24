@@ -1,0 +1,4 @@
+power transmitted by the shaft of motor(in H.P.(metric))=   
+ 
+    128.14099  
+ 

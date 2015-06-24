@@ -1,0 +1,5 @@
+Normalized power for quantization noise   
+ 
+    0.0001272  
+ 
+ W 

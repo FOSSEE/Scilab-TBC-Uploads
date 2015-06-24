@@ -1,0 +1,3 @@
+**Sample Problem 45-1**
+The kinetic energy of the antimuon is 4.163250Mev
+The kinetic energy of the neutrino is 29.736750Mev

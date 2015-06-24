@@ -1,0 +1,2 @@
+Decimal equivalent of binary input 1001 is 9
+Output voltage of the convertor is -5.625 Volts

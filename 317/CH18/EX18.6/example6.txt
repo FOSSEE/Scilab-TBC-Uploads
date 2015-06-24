@@ -1,0 +1,3 @@
+Power bandwidth when slew rate is 0.5 Volts/micro seconds is 10 kHertz
+Power bandwidth when slew rate is 5 Volts/micro seconds is 100 kHertz
+Power bandwidth when slew rate is 50 Volts/micro seconds is 1 MHertz

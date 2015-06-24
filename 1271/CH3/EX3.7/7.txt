@@ -1,0 +1,1 @@
+﻿ Ratio between transmitted intensity to incident intensity = 0.250000 

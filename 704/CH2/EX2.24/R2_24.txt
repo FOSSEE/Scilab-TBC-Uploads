@@ -1,0 +1,5 @@
+  
+ Percentage change in speed of  d.c. motor==   
+ 
+    13.157895  
+ 

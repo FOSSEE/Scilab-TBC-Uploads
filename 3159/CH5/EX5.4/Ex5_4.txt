@@ -1,0 +1,3 @@
+
+ Example 5.4
+ Size of largest sphere that can fit into a tetrahedral void is 0.225r 

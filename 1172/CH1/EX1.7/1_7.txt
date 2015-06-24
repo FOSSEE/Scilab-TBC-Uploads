@@ -1,0 +1,7 @@
+# Problem 7 # 
+ 
+ Standard formula used 
+   beta= lambda*D/d. 
+
+ Vertex angle of biprism   is 177.575948 degree.
+

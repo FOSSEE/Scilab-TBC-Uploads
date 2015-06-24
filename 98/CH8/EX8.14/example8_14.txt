@@ -1,0 +1,5 @@
+d/r = 345.17 
+
+Conductor spacing = 337.58 cm 
+
+-->diary(0)

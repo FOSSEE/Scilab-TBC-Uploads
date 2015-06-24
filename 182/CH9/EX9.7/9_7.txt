@@ -1,0 +1,3 @@
+
+7.the displayed raise time for input pulse raise time 109 ns=154 ns
+  the displayed raise time for input pulse raise time 327 ns=344 ns

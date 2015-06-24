@@ -1,0 +1,13 @@
+**Sample Problem 2-6a**
+The time taken to reach at the ground is 3.129843 sec
+
+**Sample Problem 2-6b**
+The displacements at times 1,2,3 sec in meter is 
+  - 4.9  - 19.6  - 44.1  
+
+**Sample Problem 2-6c**
+The velocity at water surface is equal to -30.672463 km/h
+
+**Sample Problem 2-6d**
+The velocitis at times 1,2,3 sec in m/s is 
+  - 9.8  - 19.6  - 29.4  

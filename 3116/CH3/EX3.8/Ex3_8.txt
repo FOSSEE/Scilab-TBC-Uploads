@@ -1,0 +1,4 @@
+  Example 3.8
+
+ Indices of direction are as [1 -1 0 1]
+ 

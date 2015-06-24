@@ -1,0 +1,11 @@
+  (a) Voltage Regulation (%)=   
+ 
+    85.444754  
+ 
+ (b) Efficiency (%)=   
+ 
+    86.  
+ 
+ (c) Torque developed (in Newton-meter)=   
+ 
+    65.750886 

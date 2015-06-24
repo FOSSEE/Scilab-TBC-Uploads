@@ -1,0 +1,5 @@
+ # Problem 32 # 
+  
+ Standard formula used 
+   delta=pi*d*del_mu/lambda 
+Difference in refractive indices of substance is 3.272222e-06 .

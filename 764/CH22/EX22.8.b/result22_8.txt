@@ -1,0 +1,40 @@
+-->//(Cylinders and Pressure Vessels) Example 22.8
+ 
+-->//Inner diameter of the tube D1 (mm)
+ 
+-->D1 = 50
+ D1  =
+ 
+    50.  
+ 
+-->//Outer diameter of the tube D2 (mm)
+ 
+-->D2 = 75
+ D2  =
+ 
+    75.  
+ 
+-->//Outer diameter of the jacket D3 (mm)
+ 
+-->D3 = 100
+ D3  =
+ 
+    100.  
+ 
+-->//Internal pressure on the compound tube Pi (MPa)
+ 
+-->Pi = 35
+ Pi  =
+ 
+    35.  
+ 
+-->//Young's modulus of the of the tube E (N/mm2)
+ 
+-->E = 207000
+ E  =
+ 
+    207000.  
+ 
+Shrinkage pressure(P) = 3.615169 N/mm2 
+Inner diameter of the jacket(id) = 74.991916 mm 
+Lines are plotted in the curve due to the consideration of only 3 points 

@@ -1,0 +1,2 @@
+ (a)Voltage gain Av = 8.57
+(b)Current gain Ai = 857.14 

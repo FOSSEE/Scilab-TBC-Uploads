@@ -1,0 +1,1 @@
+Electric flux through each surface of the cube = 2.071563e+11 Nm^2/C.

@@ -1,0 +1,12 @@
+Coupling (in dB) =   
+ 
+    20.  
+ 
+ Directivity (in dB)) =   
+ 
+    6.0205999  
+ 
+ Isolation (in dB) =   
+ 
+    26.0206  
+ 

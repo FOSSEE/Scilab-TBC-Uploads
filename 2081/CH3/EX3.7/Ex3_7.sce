@@ -1,0 +1,9 @@
+fcMhz=800
+ht=30
+hr=2
+r=10*10^3
+rkm=10
+LpmdB=40*log10(r)-20*log10(ht*hr)//path loss using 2 ray model in dB
+LpfdB=32.44+20*log10(rkm)+20*log10(fcMhz)//path loss using free space model in dB
+printf('path loss using 2 ray model= %.2f dB',LpmdB)
+printf('\npath loss using free space model= %.2f dB',LpfdB);

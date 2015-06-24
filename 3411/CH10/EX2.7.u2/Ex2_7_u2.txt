@@ -1,0 +1,3 @@
+The probability of occupancy for a state whose energy is 0.1 eV above the fermi energy is f(E)=0.190
+The probability of occupancy for a state whose energy is 0.1 eV below the fermi energy is f(E)=0.810
+The probability of occupancy for a state whose energy is 0.1 eV and  equal to the fermi energy is f(E)=0.500 

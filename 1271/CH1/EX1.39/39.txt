@@ -1,0 +1,7 @@
+ 
+ # PROBLEM 39 # 
+
+ Standard formula used 
+ mu = 2*(2*n-1)*lambda*R / D^2.
+
+ Refractive index of liquid = 0.958100.

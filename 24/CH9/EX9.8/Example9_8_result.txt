@@ -1,0 +1,8 @@
+**Sample Problem 9-8a**
+The Thrust force rocket engine provide is equal to 6439N
+
+**Sample Problem 9-8b**
+The initial acceleration of rocket is 7.576471m/s^2
+
+**Sample Problem 9-8c**
+The final velocity of the rocket is 4346.382596m/s 

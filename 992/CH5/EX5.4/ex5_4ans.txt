@@ -1,0 +1,5 @@
+	 carrer swing = 80.000000
+ modulation index = 5.000000
+	 Highest frequency = 101.640000 MHz
+	 lowest frequency = 101.560000 MHz 
+ Execution done. 

@@ -1,0 +1,2 @@
+efficiency is 78%
+quiescent collector current is 2.38 mAmperes

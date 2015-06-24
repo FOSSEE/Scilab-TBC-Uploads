@@ -1,0 +1,4 @@
+ Ex-4.5(a)   
+Uncertainity in position is 1.70e-033 
+ Ex-4.5(b)   
+Motion along y is unpredictable as long as the veloity along y is exactly known(as zero). 

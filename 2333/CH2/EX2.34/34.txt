@@ -1,0 +1,10 @@
+# PROBLEM 34 # 
+
+ Standard formula used 
+ D_m^2 -D_n^2 = 4*p*r*lambda
+
+ For 
+ 1. Wavelength = 6.000000e-05 cm,Difference between square of diameter of two successive rings is 0.093750 cm^2 
+ 2. Refractive index 1.330000, Difference between square of diameter of two successive rings is 0.093985 cm^2 
+ . 
+ 3.On doubling the radius, Difference between square of diameter of two successive rings will be 0.250000 cm^2.

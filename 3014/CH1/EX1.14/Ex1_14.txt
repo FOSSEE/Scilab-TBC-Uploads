@@ -1,0 +1,6 @@
+
+Example 1.14
+ Momentum of photon is 6.630000e-24 Kgm/s while Momentum of electron is 6.630000e-24 Kgm/s 
+ which are equal
+ Total Energy of photon is 12.431250 KeV while Total Energy of electron is 0.512026 MeV 
+ Ratio of kinetic energies is 1.214286e-02 

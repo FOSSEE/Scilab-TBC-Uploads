@@ -1,0 +1,8 @@
+(a)Current when rotor is at standstill=   
+ 
+    2.2471251 - 3.5954001i  
+ 
+ (b)Current when rotor runs at 3% slip=   
+ 
+    1.2820137 - 0.2564027i  
+ 

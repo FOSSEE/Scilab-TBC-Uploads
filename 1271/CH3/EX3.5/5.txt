@@ -1,0 +1,1 @@
+﻿ Brewster angle = 48.437665 degree

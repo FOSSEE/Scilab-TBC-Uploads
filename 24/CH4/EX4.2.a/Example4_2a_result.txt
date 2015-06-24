@@ -1,0 +1,5 @@
+**Sample Problem 4-2a**
+The position vector of the rabbit at t=15sec in meter is 
+    66.25  - 57.  
+The magnitude of the position vector is 87.396010 m
+The angle made by the position vector with the x axis in degrees at the same time -40.707957 

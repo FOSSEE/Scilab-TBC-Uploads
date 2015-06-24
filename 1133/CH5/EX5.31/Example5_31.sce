@@ -1,0 +1,3 @@
+//Example 5.31
+clc
+disp("Fig.5.75 shows how four 74LS148 can be connected to accept 32 inputs and produce a 5-bit encoded output, A0 - A4. EO'' signal is connected to the EI'' input of the next lower priority encoder and EI'' input of the highest priority encoder is grounded. Therefore, at any time only one encoder is enabled. Since, the A2 - A0 outputs of at the most one 74LS148 will be enabled at a time, the outputs of the individual 74LS148s can be ORed to produce A2 - A0. Likewise, the individual GS'' outputs can be combined in a 4 to 2 encoder to produce A4 and A3. The GS output for 32-bit encoder is producedby ORing GS'' outputs of all encoders. ")

@@ -1,0 +1,21 @@
+Recieving end voltage per phase = 63509 V 
+
+Recieving end current = 262 A 
+
+Recieving end voltage phasor = 63509+j0 V 
+
+Load current phasor = 209.95+j(-157.46) 
+
+(i) Sending end voltage per phase = 84860.12+j(21081.51) V 
+    Magnitude of Sending end voltage = 87439.52 kV 
+
+(ii) Sending end current = 219.05+j(-112.06) = 246.05 A 
+     Magnitude of Sending end current = 246.05 kV 
+
+(iii) Sending end power = 48.68 MW 
+
+(iv) Recieving end power = 40.00 MW 
+
+     Transmission efficiency = 82.17 % 
+
+

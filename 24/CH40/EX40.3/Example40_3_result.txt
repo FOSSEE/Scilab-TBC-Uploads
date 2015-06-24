@@ -1,0 +1,5 @@
+**Sample Prblem 40-3a**
+The probability is equal to 0.20
+
+**Sample Prblem 40-3b**
+The probability is equal to 0.61

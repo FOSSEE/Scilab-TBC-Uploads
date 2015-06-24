@@ -1,0 +1,3 @@
+Distance of the fault point from test end = 150 m 
+
+

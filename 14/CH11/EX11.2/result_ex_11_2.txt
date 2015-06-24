@@ -1,0 +1,19 @@
+ Line-neutral voltages   
+
+ V_AB = 2.06 /_-22.67 per unit
+ V_BC = 1.36 /_-144.19 per unit
+ V_CA = 1.78 /_116.74 per unit 
+
+ 
+ Line-line voltages   
+
+ V_AB = 1.19 /_-22.67 per unit
+ V_BC = 0.78 /_-144.19 per unit
+ V_CA = 1.03 /_116.74 per unit 
+
+ 
+ Line currents   
+
+ I_A = 1.20 /_-41.41 per unit
+ I_B = 1.00 /_-180.00 per unit
+ I_C = 0.80 /_82.81 per unit 

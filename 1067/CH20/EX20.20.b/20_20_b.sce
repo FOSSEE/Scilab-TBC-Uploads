@@ -1,0 +1,12 @@
+clear;
+clc;
+g=20;
+v=11e3;
+r=20e6;
+n=4;
+x=.4;
+x1=g/(n-1);
+z=((x1/x)-(x1))/1.33;
+R=(z/100)*(v^2)/r;
+R=round(R*1000)/1000;
+printf("the value of reactance=%fohms",R);

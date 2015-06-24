@@ -1,0 +1,4 @@
+
+Example 2.27
+ Difference between first state 
+ and ground state energies is 113.213170 eV.

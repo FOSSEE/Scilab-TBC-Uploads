@@ -1,0 +1,9 @@
+ # PROBLEM 4.4 # 
+
+ Shear angle = 26.717474°, 
+ Cutting force = 468.567296 N, 
+ Thrust force = 139.374821 N 
+ Using Lee and Shaffer relation- 
+ Shear angle = 28.434949°, 
+ Cutting force = 455.482874 N, 
+ Thrust force = 135.482874 N, 

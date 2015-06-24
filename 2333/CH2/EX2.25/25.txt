@@ -1,0 +1,6 @@
+# PROBLEM 25 # 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+
+ Angle of wedge is 1.071429e-04 rad.

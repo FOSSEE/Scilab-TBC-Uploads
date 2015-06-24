@@ -1,0 +1,34 @@
+syms F
+Wmin=-F
+Wmax=3*F
+d=13
+FS=2
+q=0.9
+Kt=1.42
+Ksz=0.85
+Ksur=0.89
+Kf=1.378
+sigmau=550
+sigmay=470
+sigmae=275
+Mmax=Wmax*125
+disp(Mmax,"Maximum bending moment=")
+Mmin=Wmin*125
+disp(Mmin,"Minimum bending moment=")
+Mm=(Mmax+Mmin)/2
+disp(Mm,"Mean bending moment=")
+Mv=(Mmax-Mmin)/2
+disp(Mv,"Variable bending moment=")
+syms d
+Z=(%pi/32)*d^3
+disp(Z,"Section modulus=")
+sigmam=Mm/Z
+disp(sigmam,"Mean bending stress=")
+sigmav=Mv/Z
+disp(sigmav,"Variable bending stress=")
+0=(sigmam/sigmay)-((sigmav*Kf)/(sigmae*Ksur*Ksz)-(1/FS)//according to Soderberg's relation
+F=1/(2*0.00891)
+disp(F,"According to soderbergs formula, F=")
+0=(sigmam/sigmau)-((sigmav*Kf)/(sigmae*Ksur*Ksz)-(1/FS)//according to goodman's relation
+F=1/(2*0.00873)
+disp(F,"According to Goodman formula, F=")

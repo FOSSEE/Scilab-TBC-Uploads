@@ -1,0 +1,19 @@
+R1=4;                          //Assigning values to parameters
+V1=7;
+R2=2;
+R3=4;
+I1=8;
+R4=6;
+R5=9;
+V2=12;
+R6=10;
+I2=V1/R1;                    //Performing source transformation
+V3=I1*R2;
+I3=V2/R5;
+R7=R2+R3;
+I4=V3/R7;
+R=1/((1/R1)+(1/R7)+(1/R4)+(1/R5));
+I=I2+I3-I4;
+V=I*R;
+IR6=V/(R+R6)
+disp("Amperes",IR6,"Current in 10 Ohm resistor using source transformation");

@@ -1,0 +1,65 @@
+
+step by step for finding Z1_bus
+Bus1 to reference
+Z1_bus= 
+    0.15  
+
+Bus2 to Bus1
+Z1_bus= 
+    0.15    0.15  
+    0.15    0.35  
+
+Bus2 to Reference
+Z1_bus= 
+    0.105i    0.045i  
+    0.045i    0.105i  
+
+Z2_bus= 
+    0.105i    0.045i  
+    0.045i    0.105i  
+
+step by step for finding Z0_bus
+
+Bus1 to reference 
+Z0_bus= 
+    0.05  
+
+Bus1 to Bus1 
+Z0_bus= 
+    0.05    0.05  
+    0.05    0.45  
+
+Bus2 to reference 
+Z0_bus= 
+    0.045i    0.005i  
+    0.005i    0.045i  
+
+
+
+Fault current calculation
+If1_1 = -j3.92157
+Fault current=If1=3If1_1=-j11.8
+
+
+
+
+Short circuit current on the transmission line in all the three phases
+
+If_a_12= 
+    2.745098i  
+
+If_b_12= 
+  - 2.0377068 + 0.3921569i  
+
+If_b_12= 
+  - 2.0377068 + 0.3921569i  
+
+
+
+short circuit current phase(a) of the generator
+Ifa_G = -j4.75465
+
+
+Voltage of the healthy phases of the bus 1
+Vf_b_1=-0.2647 - j0.86603
+Vf_c_1=-0.2647 + j0.86603 

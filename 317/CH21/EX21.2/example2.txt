@@ -1,0 +1,2 @@
+Voltage gain is -195
+Cutoff frequency is 37 KHertz

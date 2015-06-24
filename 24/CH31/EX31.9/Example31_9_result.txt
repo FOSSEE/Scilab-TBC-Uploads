@@ -1,0 +1,2 @@
+**Sample Problem 31-9**
+The mutual inductance of the two coil is equal to 2.29e-003H 

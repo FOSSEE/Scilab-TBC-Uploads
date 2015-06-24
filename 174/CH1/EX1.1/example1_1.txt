@@ -1,0 +1,2 @@
+(a)  The average voltage, E_av = 117.06 V
+ (b)  The average range of error = +/- 0.05 V 

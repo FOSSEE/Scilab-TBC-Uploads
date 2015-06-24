@@ -1,0 +1,8 @@
+**Sample Problem 19-5a**
+The work done by the system during the process is 168.670000kJ
+
+**Sample Problem 19-5b**
+The heat supplied to the system is equal to 2.256000e+006J
+
+**Sample Problem 19-5c**
+The change in internal energy is equal to 2.087330e+006J 

@@ -1,0 +1,3 @@
+(a)The surge current rating of one cycle for the SCR is 2121.32 A 
+(b)The I2t rating of one cycle for the SCR is 45000.00 A^2-second 
+ 

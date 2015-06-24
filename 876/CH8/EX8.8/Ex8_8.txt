@@ -1,0 +1,3 @@
+frequency of horizontal signal(in kilo Hz)=   
+ 
+    1.

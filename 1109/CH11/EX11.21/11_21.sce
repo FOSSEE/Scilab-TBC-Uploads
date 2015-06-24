@@ -1,0 +1,14 @@
+clear;
+clc;
+R1=200;L1=100*(10^-3);R2=200;L2=100*(10^-3);C2=2.5*(10^-6);w=2000;
+Z1=R1+(%i*w*L1);
+Z2=1/(%i*w*C2);
+Zoc=Z1+Z2;
+Zsc=Z1+(1/((1/Z1)+(1/Z2)));
+Zo=sqrt(Zoc*Zsc);
+printf("-Characteristic impedance = %f ohms\n",round(Zo));
+P=atanh(sqrt(Zsc/Zoc));
+a=real(P);
+printf("-Attenuation constant = %f nepers\n",round(a*100)/100);
+b=(imag(P))*180/%pi;
+printf("-Phase shift constant = %d degrees",b);

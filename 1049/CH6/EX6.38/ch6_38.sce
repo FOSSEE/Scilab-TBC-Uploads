@@ -1,0 +1,13 @@
+clear;
+clc;
+V=230;
+V_m=sqrt(2)*V;
+L=0.05;
+f=50;
+w=2*%pi*f;
+a=30;
+i_cp=2*V_m*(1-cosd(a))/(w*L);    printf("peak value of circulating current=%.3f A",i_cp);
+R=30;
+i_l=V_m/R;
+i1=i_cp+i_l;    printf("\npeak value of current in convertor 1=%.3f A",i1);
+i2=i_cp;    printf("\npeak value of current in convertor 2=%.3f A",i2);

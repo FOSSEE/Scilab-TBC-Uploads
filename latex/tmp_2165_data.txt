@@ -1,0 +1,87 @@
+9#Valve Dlagrams and value gears#9.5#Example 1#9_5.sce#2165/CH9/EX9.5/9_5.sce#S##79707
+9#Valve Dlagrams and value gears#9.17#Example 5#9_17.sce#2165/CH9/EX9.17/9_17.sce#S##79711
+9#Valve Dlagrams and value gears#9.12#Example 4#9_12.sce#2165/CH9/EX9.12/9_12.sce#S##79710
+9#Valve Dlagrams and value gears#9.10#Example 3#9_10.sce#2165/CH9/EX9.10/9_10.sce#S##79709
+9#Valve Dlagrams and value gears#5.7#Example 2#9_7.sce#2165/CH9/EX5.7/9_7.sce#S##79708
+8#Internal combustion engines Variable specific heats#8.8#Example 4#8_8.sce#2165/CH8/EX8.8/8_8.sce#S##79760
+8#Internal combustion engines Variable specific heats#8.6#Example 3#8_6.sce#2165/CH8/EX8.6/8_6.sce#S##79759
+8#Internal combustion engines Variable specific heats#8.3#Example 2#8_3.sce#2165/CH8/EX8.3/8_3.sce#S##79758
+8#Internal combustion engines Variable specific heats#8.22#Example 10#8_22.sce#2165/CH8/EX8.22/8_22.sce#S##79769
+8#Internal combustion engines Variable specific heats#8.21#Example 9#8_21.sce#2165/CH8/EX8.21/8_21.sce#S##102815
+8#Internal combustion engines Variable specific heats#8.20#Example 8#8_20.sce#2165/CH8/EX8.20/8_20.sce#S##79765
+8#Internal combustion engines Variable specific heats#8.19#Example 7#8_19.sce#2165/CH8/EX8.19/8_19.sce#S##79763
+8#Internal combustion engines Variable specific heats#8.12#Example 6#8_12.sce#2165/CH8/EX8.12/8_12.sce#S##79762
+8#Internal combustion engines Variable specific heats#8.10#Example 5#8_10.sce#2165/CH8/EX8.10/8_10.sce#S##79761
+8#Internal combustion engines Variable specific heats#8.1#Example 1#8_1.sce#2165/CH8/EX8.1/8_1.sce#S##79756
+7#Combustion boiler trials#7.9#Example 6#7_9.sce#2165/CH7/EX7.9/7_9.sce#S##80206
+7#Combustion boiler trials#7.7#Example 5#7_7.sce#2165/CH7/EX7.7/7_7.sce#S##80205
+7#Combustion boiler trials#7.6#Example 4#7_6.sce#2165/CH7/EX7.6/7_6.sce#S##80204
+7#Combustion boiler trials#7.4#Example 3#7_4.sce#2165/CH7/EX7.4/7_4.sce#S##80203
+7#Combustion boiler trials#7.2#Example 2#7_2.sce#2165/CH7/EX7.2/7_2.sce#S##102814
+7#Combustion boiler trials#7.17#Example 11#7_17.sce#2165/CH7/EX7.17/7_17.sce#S##80211
+7#Combustion boiler trials#7.16#Example 10#7_16.sce#2165/CH7/EX7.16/7_16.sce#S##80210
+7#Combustion boiler trials#7.15#Example 9#7_15.sce#2165/CH7/EX7.15/7_15.sce#S##80209
+7#Combustion boiler trials#7.13#Example 8#7_13.sce#2165/CH7/EX7.13/7_13.sce#S##80208
+7#Combustion boiler trials#7.11#Example 7#7_11.sce#2165/CH7/EX7.11/7_11.sce#S##80207
+7#Combustion boiler trials#7.1#Example 1#7_1.sce#2165/CH7/EX7.1/7_1.sce#S##80201
+6#flow through nozzles steam turbines #6.8#Example 6#6_8.sce#2165/CH6/EX6.8/6_8.sce#S##80184
+6#flow through nozzles steam turbines #6.6#Example 5#6_6.sce#2165/CH6/EX6.6/6_6.sce#S##80183
+6#flow through nozzles steam turbines #6.5#Example 4#6_5.sce#2165/CH6/EX6.5/6_5.sce#S##80180
+6#flow through nozzles steam turbines #6.4#Example 3#6_4.sce#2165/CH6/EX6.4/6_4.sce#S##80179
+6#flow through nozzles steam turbines #6.25#Example 15#6_25.sce#2165/CH6/EX6.25/6_25.sce#S##80194
+6#flow through nozzles steam turbines #6.23#Example 14#6_23.sce#2165/CH6/EX6.23/6_23.sce#S##80193
+6#flow through nozzles steam turbines #6.2#Example 2#6_2.sce#2165/CH6/EX6.2/6_2.sce#S##80177
+6#flow through nozzles steam turbines #6.19#Example 13#6_19.sce#2165/CH6/EX6.19/6_19.sce#S##80192
+6#flow through nozzles steam turbines #6.18#example 12#6_18.sce#2165/CH6/EX6.18/6_18.sce#S##80191
+6#flow through nozzles steam turbines #6.16#Example 11#6_16.sce#2165/CH6/EX6.16/6_16.sce#S##102813
+6#flow through nozzles steam turbines #6.15#Example 10#6_15.sce#2165/CH6/EX6.15/6_15.sce#S##80189
+6#flow through nozzles steam turbines #6.13#Example 9#6_13.sce#2165/CH6/EX6.13/6_13.sce#S##80188
+6#flow through nozzles steam turbines #6.11#Example 8#6_11.sce#2165/CH6/EX6.11/6_11.sce#S##80187
+6#flow through nozzles steam turbines #6.10#Example 7#6_10.sce#2165/CH6/EX6.10/6_10.sce#S##80185
+6#flow through nozzles steam turbines #6.1#Example 1#6_1.sce#2165/CH6/EX6.1/6_1.sce#S##80175
+6#flow through nozzles steam turbines #16.28#Example 16#6_28.sce#2165/CH6/EX16.28/6_28.sce#S##80195
+5#Air compressors and motors refrigeration#5.9#Example 6#5_9.sce#2165/CH5/EX5.9/5_9.sce#S##79696
+5#Air compressors and motors refrigeration#5.6#Example 5#5_6.sce#2165/CH5/EX5.6/5_6.sce#S##79695
+5#Air compressors and motors refrigeration#5.5#Example 4#5_5.sce#2165/CH5/EX5.5/5_5.sce#S##79694
+5#Air compressors and motors refrigeration#5.3#Example 3#5_3.sce#2165/CH5/EX5.3/5_3.sce#S##79693
+5#Air compressors and motors refrigeration#5.2#Example 2#5_2.sce#2165/CH5/EX5.2/5_2.sce#S##79692
+5#Air compressors and motors refrigeration#5.18#Example 11#5_18.sce#2165/CH5/EX5.18/5_18.sce#S##79706
+5#Air compressors and motors refrigeration#5.16#Example 10#5_16.sce#2165/CH5/EX5.16/5_16.sce#S##79705
+5#Air compressors and motors refrigeration#5.15#Example 9#5_15.sce#2165/CH5/EX5.15/5_15.sce#S##79704
+5#Air compressors and motors refrigeration#5.14#Example 8#5_14.sce#2165/CH5/EX5.14/5_14.sce#S##79698
+5#Air compressors and motors refrigeration#5.12#Example 7#5_12.sce#2165/CH5/EX5.12/5_12.sce#S##79697
+5#Air compressors and motors refrigeration#5.1#Example 1#5_1.sce#2165/CH5/EX5.1/5_1.sce#S##79691
+4#The steam engine#4.3#Example 3#4_3.sce#2165/CH4/EX4.3/4_3.sce#S##79677
+4#The steam engine#4.23#Example 10#4_23.sce#2165/CH4/EX4.23/4_23.sce#S##79684
+4#The steam engine#4.21#Example 9#4_21.sce#2165/CH4/EX4.21/4_21.sce#S##79683
+4#The steam engine#4.2#Example 2#4_2.sce#2165/CH4/EX4.2/4_2.sce#S##79676
+4#The steam engine#4.19#Example 8#4_19.sce#2165/CH4/EX4.19/4_19.sce#S##79682
+4#The steam engine#4.17#Example 7#4_17.sce#2165/CH4/EX4.17/4_17.sce#S##79681
+4#The steam engine#4.16#Example 6#4_16.sce#2165/CH4/EX4.16/4_16.sce#S##79680
+4#The steam engine#4.14#Example 5#4_14.sce#2165/CH4/EX4.14/4_14.sce#S##79679
+4#The steam engine#4.10#Example 4#4_10.sce#2165/CH4/EX4.10/4_10.sce#S##79678
+4#The steam engine#4.1#Example 1#4_1.sce#2165/CH4/EX4.1/4_1.sce#S##79675
+3#Properties of steam#3.6# Example 6#3_6.sce#2165/CH3/EX3.6/3_6.sce#S##79671
+3#Properties of steam#3.5#Example 5#3_5.sce#2165/CH3/EX3.5/3_5.sce#S##79670
+3#Properties of steam#3.4#Example 4#3_4.sce#2165/CH3/EX3.4/3_4.sce#S##79669
+3#Properties of steam#3.3#Example 3#3_3.sce#2165/CH3/EX3.3/3_3.sce#S##79668
+3#Properties of steam#3.2#Example 2#3_2.sce#2165/CH3/EX3.2/3_2.sce#S##79667
+3#Properties of steam#3.17#Example 9#3_17.sce#2165/CH3/EX3.17/3_17.sce#S##79674
+3#Properties of steam#3.12#Example 8#3_12.sce#2165/CH3/EX3.12/3_12.sce#S##79673
+3#Properties of steam#3.10#Example 7#3_10.sce#2165/CH3/EX3.10/3_10.sce#S##79672
+3#Properties of steam#3.1#Example 1#3_1.sce#2165/CH3/EX3.1/3_1.sce#S##79666
+2#Air cycle efficiencies#2.5#Example 3#2_5.sce#2165/CH2/EX2.5/2_5.sce#S##79665
+2#Air cycle efficiencies#2.4#Example 2#2_4.sce#2165/CH2/EX2.4/2_4.sce#S##102812
+2#Air cycle efficiencies#2.2#Example 1#2_2.sce#2165/CH2/EX2.2/2_2.sce#S##79663
+1#Heating and expansion of gases entropy #1.9#Example 6#1_9.sce#2165/CH1/EX1.9/1_9.sce#S##79656
+1#Heating and expansion of gases entropy #1.8#Example 5#1_8.sce#2165/CH1/EX1.8/1_8.sce#S##79655
+1#Heating and expansion of gases entropy #1.5#Example 4#1_5.sce#2165/CH1/EX1.5/1_5.sce#S##79654
+1#Heating and expansion of gases entropy #1.4#Example 3#1_4.sce#2165/CH1/EX1.4/1_4.sce#S##79653
+1#Heating and expansion of gases entropy #1.26#Example 12#1_26.sce#2165/CH1/EX1.26/1_26.sce#S##79662
+1#Heating and expansion of gases entropy #1.23#Example 11#1_23.sce#2165/CH1/EX1.23/1_23.sce#S##102811
+1#Heating and expansion of gases entropy #1.22#Example 10#1_22.sce#2165/CH1/EX1.22/1_22.sce#S##79660
+1#Heating and expansion of gases entropy #1.20#Example 9#1_20.sce#2165/CH1/EX1.20/1_20.sce#S##79659
+1#Heating and expansion of gases entropy #1.2#Example 2#1_2.sce#2165/CH1/EX1.2/1_2.sce#S##79652
+1#Heating and expansion of gases entropy #1.13#Example 8#1_13.sce#2165/CH1/EX1.13/1_13.sce#S##79658
+1#Heating and expansion of gases entropy #1.11#Example 7#1_11.sce#2165/CH1/EX1.11/1_11.sce#S##79657
+1#Heating and expansion of gases entropy #1.1#Example 1#1_1.sce#2165/CH1/EX1.1/1_1.sce#S##79651

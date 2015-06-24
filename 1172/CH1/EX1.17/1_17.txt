@@ -1,0 +1,6 @@
+ # Problem 17 # 
+ 
+ Standard formula used 
+   D_(n+p) ^2 – D_n^2 = 4*p*R*lambda 
+
+  Radius of curvature of Plano-convex lens is 99.781096 cm. 

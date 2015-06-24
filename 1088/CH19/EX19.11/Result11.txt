@@ -1,0 +1,99 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example11.sci')
+ 
+-->clear
+ 
+-->mode(-1)
+Current date is 11-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            19   
+ 
+ Chapter Title                         :                  perl-THE MASTER MANIPULATOR   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 11    :               Show the method of  searching in an array using 'grep' in perl 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+
+6.A file named "dept.lst" with the necessary details gets created automatically for the session.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat dept.lst      # to open the file dept.lst 01|accounts|6213
+02|admin|5423
+03|marketing|6521
+04|personnel|2365
+05|production|9876
+06|sales|1006
+
+# Enter the name of the perlscript file whichever you desire  
+
+ 
+$ cat hither.pl               #open the perlscript file hither.pl
+
+#!/usr/bin/perl
+# Script: hither.pl  - Searches array for a string or regular expression  
+#
+@dept_arr = <> ;                                       #  Read file into array
+for ($i=0 ; $i<3 ; $i++) {                       #  Can use only three times
+       print("Enter a code to look up: ") ;  
+       chop($code = <STDIN>)  ;
+       @found_arr = grep (/^$code/, @dept_arr)  ;          #  Search at beginning
+         if  ($#found_arr == -1 || $code eq "") {       #  -1 means null array
+                   print("Code does not exist\n") ; 
+                   next ;                                     #  Go to the beginning of loop
+     }
+     @tt=split(/\|/ ,$found_arr[0])  ;                   #  Split first element only 
+       print("Code = $code  Description = $tt[1]\n") ;  
+ }
+
+# type the following command in the command line interpreter as soon as it appears 
+       " hither.pl  dept.lst   "[ENTER]
+
+
+$ hither.pl   dept.lst            #to execute the perlscript 
+
+
+   ---------------->Executing PerlScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

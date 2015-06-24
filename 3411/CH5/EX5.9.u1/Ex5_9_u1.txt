@@ -1,0 +1,3 @@
+ The interplanar spacing d= 
+    2.493D-11  
+mts 

@@ -1,0 +1,13 @@
+f=50
+ns=1000
+P=120*f/ns
+disp(P)
+s=(ns-940)/ns
+disp(s*100)
+nrr=ns-940
+disp(nrr)
+nrs=1000
+disp(nrs)
+s=2*s
+n=1000*(1-s)
+disp(n)

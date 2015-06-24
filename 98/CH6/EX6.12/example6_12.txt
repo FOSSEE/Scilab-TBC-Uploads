@@ -1,0 +1,29 @@
+(i) When synchronous motor runs at 0.8 pf lag:
+
+	 Input to synchronous motor = 79.09 kW 
+	 Lagging kVAR taken by synchronous motor = 59.31 kVAR 
+
+	 Input to induction motor = 179.39 kW 
+	 Lagging kVAR taken by induction motor = 179.44 kVAR 
+
+	 Total lagging kVAR = 238.76 kVAR 
+	 Total active power = 288.48 kW 
+	 Total kVA = 374.47 kVA 
+	 Annual kVA demand charges = Rs. 37446.55 
+	 Energy consumed per year = 2527052.08 kWh 
+	 Annual energy charges = Rs. 151623.13 
+	 Total annual bill = Rs. 189069.67 
+
+(ii) When synchronous motor runs at 0.8 pf lead:
+
+	 Net lagging kVAR = 120.13 kVAR 
+	 Total active power = 288.48 kW 
+	 Total kVA = 312.49 kVA 
+	 Annual kVA demand charges = Rs. 31248.96 
+	 Energy consumed per year = 2527052.08 kWh 
+	 Annual energy charges = Rs. 151623.13 
+	 Total annual bill = Rs. 182872.09 
+
+Annual saving = Rs. 6198 
+
+

@@ -1,0 +1,20 @@
+ (a) For Cumulative compound motor   
+ 
+ Power developed (in Watts)=   
+ 
+    4600.  
+ 
+ speed (in rpm)=   
+ 
+    2124.  
+ 
+ (b) For differential compound motor   
+ 
+ Power developed (in Watts)=   
+ 
+    5840.8163  
+ 
+ speed (in rpm)=   
+ 
+    2697.  
+ 

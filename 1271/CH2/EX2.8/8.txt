@@ -1,0 +1,3 @@
+﻿ Focal length = 6.666667e-01 meter. 
+ Power = 1.500000 D. 
+ Diameter of first zone = 1.253262e-03 meter. 

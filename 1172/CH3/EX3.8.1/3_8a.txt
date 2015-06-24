@@ -1,0 +1,4 @@
+ # Problem 8a # 
+
+ As the threshold wavelength is less than wavelength of incident radiation 
+ So electron will not be ejected 

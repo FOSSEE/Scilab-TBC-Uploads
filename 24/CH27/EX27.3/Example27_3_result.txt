@@ -1,0 +1,2 @@
+**Sample Problem 27-3**
+The drift speed is 4.916096e-007m/s 

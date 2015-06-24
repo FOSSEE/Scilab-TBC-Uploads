@@ -1,0 +1,4 @@
+the resistance required in series with the armature circuit to reduce the speed of motor by 50%(in Ohm)=   
+ 
+    3.05  
+ 

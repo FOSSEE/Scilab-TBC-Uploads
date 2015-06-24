@@ -1,0 +1,13 @@
+clear;
+clc;
+Za=200;
+Zb=400;
+Zc=500;
+Zi1=sqrt((Za+Zc)*((Za*Zc)+(Za*Zb)+(Zc*Zb))/(Zb+Zc));
+printf("(a)Image impedance Zi1 = %f ohms\n",round(Zi1*10)/10);
+Zi2=sqrt((Zb+Zc)*((Za*Zc)+(Za*Zb)+(Zc*Zb))/(Za+Zc));
+printf("  Image impedance Zi2 = %f ohms\n",round(Zi2));
+Zt1=(1/2)*((Za-Zb)+sqrt(((Za-Zb)^2)+(4*((Za*Zb)+(Za*Zc)+(Zb*Zc)))));
+printf("(b)Iterative impedances Zt1 = %f ohms\n",round(Zt1*10)/10);
+Zt2=(1/2)*((Zb-Za)+sqrt(((Zb-Za)^2)+(4*((Za*Zb)+(Za*Zc)+(Zb*Zc)))));
+printf("  Iterative impedances Zt2 = %f ohms",round(Zt2*10)/10);

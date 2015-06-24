@@ -1,0 +1,5 @@
+ # Problem 4 # 
+
+ Standard formula Used 
+ E =(1/2)*m *v^2
+ Velocity of moving electron is 1.875229e+07  m/s.

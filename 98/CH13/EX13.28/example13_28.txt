@@ -1,0 +1,11 @@
+Resistance of load on the +ve side = 1.786 ohm 
+
+Resistance of load on the -ve side = 3.125 ohm 
+
+Circuit current = 101.82 A 
+
+Voltage across +ve outer and middle wire = 181.8 V 
+
+Voltage across -ve outer and middle wire = 318.2 V 
+
+

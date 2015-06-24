@@ -1,0 +1,1 @@
+﻿ Numerical aperture of objective = 0.832803

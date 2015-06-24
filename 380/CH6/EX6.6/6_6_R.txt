@@ -1,0 +1,8 @@
+ (a)   external resistance (in ohms)=    
+ 
+    38.571429  
+ 
+ (b)   external resistance (in ohms)=    
+ 
+    270.  
+ 

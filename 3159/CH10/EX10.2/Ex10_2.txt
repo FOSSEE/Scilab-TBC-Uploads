@@ -1,0 +1,7 @@
+ 
+ Example 10.2
+ Part A:
+ When load is applied parallel to fiber then, stress in fiber is 242 MN m^-2
+
+ Part B:
+ When load is applied perpendicular to fiber then, stress in fiber and matrix is same i.e. 100 MN m^-2

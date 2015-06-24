@@ -1,0 +1,29 @@
+clear;
+clc;
+close;
+dt=.1
+t=-10:dt:10;
+for i=1:length(t)
+    if t(i)==0 then
+        x(i)=1;
+    else
+        x(i)=0;
+    end
+end
+a=gca();
+plot2d3(t,x);
+poly1=a.children.children;
+poly1.thickness=3;
+poly1.foreground=2;
+xtitle('x(t)','t')
+wmax=10;
+w=-wmax:0.1:wmax;
+Xw=x'*exp(-%i*(w'*t))*dt;
+Xw_mag=(Xw);
+figure
+a=gca();
+plot2d(w,Xw_mag);
+poly1=a.children.children;
+poly1.thickness=3;
+poly1.foreground=2;
+xtitle('X(w)','w')

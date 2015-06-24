@@ -1,0 +1,22 @@
+I1=6;                             //Assigning values to parameters
+V1=10;
+V2=24;
+R1=2;
+R2=1;
+R3=10;
+R4=3;
+R5=2;
+R6=4;
+A=[-13,10,1;10,-15,3;1,3,-4];   //Current coefficients using KVL equations
+B=[-12;10;-24];
+I=inv(A)*B;
+IN=I(3,1);                      //Norton current
+Rx=R2+R3+(R2*R3)/R4;           //Converting Star to Delta
+Ry=R3+R4+(R3*R4)/R2;
+Rz=R2+R4+(R2*R4)/R3;
+Ra=(R1*Rx)/(R1+Rx);
+Rb=(Ry*R5)/(Ry+R5);
+Rc=Ra+Rb;
+RN=(Rz*Rc)/(Rz+Rc);         //Norton resistance
+Il=(IN*RN)/(R6+RN);
+disp("Amperes",Il,"Current in 4 Ohm resistor using Nortonn Theorem")

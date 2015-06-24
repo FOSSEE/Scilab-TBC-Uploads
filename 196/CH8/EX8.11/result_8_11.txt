@@ -1,0 +1,7 @@
+ Change in Resistance = 0.0024 ohm 
+
+ Ratio of Resistance = 0.000020000 ohm per ohm 
+
+ Strain value = 0.000010000 
+
+ Stress value = 300.000000000 psi  

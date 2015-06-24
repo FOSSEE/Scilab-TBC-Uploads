@@ -1,0 +1,130 @@
+27#Raman Spectra#5.5.9#Ex 9#U5_C5_9.sce#623/CH27/EX5.5.9/U5_C5_9.sce#S##84682
+27#Raman Spectra#5.5.8#Ex 8#U5_C5_8.sce#623/CH27/EX5.5.8/U5_C5_8.sce#S##84681
+27#Raman Spectra#5.5.7#Ex 7#U5_C5_7.sce#623/CH27/EX5.5.7/U5_C5_7.sce#S##84680
+27#Raman Spectra#5.5.6#Ex 6#U5_C5_6.sce#623/CH27/EX5.5.6/U5_C5_6.sce#S##84679
+27#Raman Spectra#5.5.5#Ex 5#U5_C5_5.sce#623/CH27/EX5.5.5/U5_C5_5.sce#S##84678
+27#Raman Spectra#5.5.4#Ex 4#U5_C5_4.sce#623/CH27/EX5.5.4/U5_C5_4.sce#S##84677
+27#Raman Spectra#5.5.3#Ex 3#U5_C5_3.sce#623/CH27/EX5.5.3/U5_C5_3.sce#S##84676
+27#Raman Spectra#5.5.21#Ex 21#U5_C5_21.sce#623/CH27/EX5.5.21/U5_C5_21.sce#S##84694
+27#Raman Spectra#5.5.20#Ex 20#U5_C5_20.sce#623/CH27/EX5.5.20/U5_C5_20.sce#S##84693
+27#Raman Spectra#5.5.2#Ex 2#U5_C5_2.sce#623/CH27/EX5.5.2/U5_C5_2.sce#S##84675
+27#Raman Spectra#5.5.19#Ex 19#U5_C5_19.sce#623/CH27/EX5.5.19/U5_C5_19.sce#S##84692
+27#Raman Spectra#5.5.18#Ex 18#U5_C5_18.sce#623/CH27/EX5.5.18/U5_C5_18.sce#S##84691
+27#Raman Spectra#5.5.17#Ex 17#U5_C5_17.sce#623/CH27/EX5.5.17/U5_C5_17.sce#S##84690
+27#Raman Spectra#5.5.16#Ex 16#U5_C5_16.sce#623/CH27/EX5.5.16/U5_C5_16.sce#S##84689
+27#Raman Spectra#5.5.15#Ex 15#U5_C5_15.sce#623/CH27/EX5.5.15/U5_C5_15.sce#S##84688
+27#Raman Spectra#5.5.14#Ex 14#U5_C5_14.sce#623/CH27/EX5.5.14/U5_C5_14.sce#S##84687
+27#Raman Spectra#5.5.13#Ex 13#U5_C5_13.sce#623/CH27/EX5.5.13/U5_C5_13.sce#S##84686
+27#Raman Spectra#5.5.12#Ex 12#U5_C5_12.sce#623/CH27/EX5.5.12/U5_C5_12.sce#S##84685
+27#Raman Spectra#5.5.11#Ex 11#U5_C5_11.sce#623/CH27/EX5.5.11/U5_C5_11.sce#S##84684
+27#Raman Spectra#5.5.10#Ex 10#U5_C5_10.sce#623/CH27/EX5.5.10/U5_C5_10.sce#S##84683
+27#Raman Spectra#5.5.1#Ex 1#U5_C5_1.sce#623/CH27/EX5.5.1/U5_C5_1.sce#S##84674
+22#X Rays and X Ray Spectra#4.5.9#Ex 9#U4_C5_9.sce#623/CH22/EX4.5.9/U4_C5_9.sce#S##84672
+22#X Rays and X Ray Spectra#4.5.8#Ex 8#U4_C5_8.sce#623/CH22/EX4.5.8/U4_C5_8.sce#S##84671
+22#X Rays and X Ray Spectra#4.5.7#Ex 7#U4_C5_7.sce#623/CH22/EX4.5.7/U4_C5_7.sce#S##84670
+22#X Rays and X Ray Spectra#4.5.6#Ex 6#U4_C5_6.sce#623/CH22/EX4.5.6/U4_C5_6.sce#S##84669
+22#X Rays and X Ray Spectra#4.5.5#Ex 5#U4_C5_5.sce#623/CH22/EX4.5.5/U4_C5_5.sce#S##84668
+22#X Rays and X Ray Spectra#4.5.4#Ex 4#U4_C5_4.sce#623/CH22/EX4.5.4/U4_C5_4.sce#S##84667
+22#X Rays and X Ray Spectra#4.5.3#Ex 3#U4_C5_3.sce#623/CH22/EX4.5.3/U4_C5_3.sce#S##84666
+22#X Rays and X Ray Spectra#4.5.2#Ex 2#U4_C5_2.sce#623/CH22/EX4.5.2/U4_C5_2.sce#S##84665
+22#X Rays and X Ray Spectra#4.5.10#Ex 10#U4_C5_10.sce#623/CH22/EX4.5.10/U4_C5_10.sce#S##84673
+22#X Rays and X Ray Spectra#4.5.1#Ex 1#U4_C5_1.sce#623/CH22/EX4.5.1/U4_C5_1.sce#S##84664
+21#Magneto Optic and Electro Optic Phenomena#4.4.9#Ex 9#U4_C4_9.sce#623/CH21/EX4.4.9/U4_C4_9.sce#S##84663
+21#Magneto Optic and Electro Optic Phenomena#4.4.8#Ex 8#U4_C4_8.sce#623/CH21/EX4.4.8/U4_C4_8.sce#S##84662
+21#Magneto Optic and Electro Optic Phenomena#4.4.7#Ex 7#U4_C4_7.sce#623/CH21/EX4.4.7/U4_C4_7.sce#S##84661
+21#Magneto Optic and Electro Optic Phenomena#4.4.5#Ex 5#U4_C4_5.sce#623/CH21/EX4.4.5/U4_C4_5.sce#S##84660
+21#Magneto Optic and Electro Optic Phenomena#4.4.4#Ex 4#U4_C4_4.sce#623/CH21/EX4.4.4/U4_C4_4.sce#S##84659
+21#Magneto Optic and Electro Optic Phenomena#4.4.3#Ex 3#U4_C4_3.sce#623/CH21/EX4.4.3/U4_C4_3.sce#S##84658
+21#Magneto Optic and Electro Optic Phenomena#4.4.2#Ex 2#U4_C4_2.sce#623/CH21/EX4.4.2/U4_C4_2.sce#S##84657
+21#Magneto Optic and Electro Optic Phenomena#4.4.1#Ex 1#U4_C4_1.sce#623/CH21/EX4.4.1/U4_C4_1.sce#S##84656
+20#Atomic Spectra III#4.3.9#Ex 9#U4_C3_9.sce#623/CH20/EX4.3.9/U4_C3_9.sce#S##84650
+20#Atomic Spectra III#4.3.8#Ex 8#U4_C3_8.sce#623/CH20/EX4.3.8/U4_C3_8.sce#S##84649
+20#Atomic Spectra III#4.3.7#Ex 7#U4_C3_7.sce#623/CH20/EX4.3.7/U4_C3_7.sce#S##84648
+20#Atomic Spectra III#4.3.6#Ex 6#U4_C3_6.sce#623/CH20/EX4.3.6/U4_C3_6.sce#S##84647
+20#Atomic Spectra III#4.3.5#Ex 5#U4_C3_5.sce#623/CH20/EX4.3.5/U4_C3_5.sce#S##84646
+20#Atomic Spectra III#4.3.4#Ex 4#U4_C3_4.sce#623/CH20/EX4.3.4/U4_C3_4.sce#S##84645
+20#Atomic Spectra III#4.3.14#Ex 14#U4_C3_14.sce#623/CH20/EX4.3.14/U4_C3_14.sce#S##84655
+20#Atomic Spectra III#4.3.13#Ex 13#U4_C3_13.sce#623/CH20/EX4.3.13/U4_C3_13.sce#S##84654
+20#Atomic Spectra III#4.3.12#Ex 12#U4_C3_12.sce#623/CH20/EX4.3.12/U4_C3_12.sce#S##84653
+20#Atomic Spectra III#4.3.11#Ex 11#U4_C3_11.sce#623/CH20/EX4.3.11/U4_C3_11.sce#S##84652
+20#Atomic Spectra III#4.3.10#Ex 10#U4_C3_10.sce#623/CH20/EX4.3.10/U4_C3_10.sce#S##84651
+19#Atomic Spectra II#4.2.9#Ex 9#U4_C2_9.sce#623/CH19/EX4.2.9/U4_C2_9.sce#S##84637
+19#Atomic Spectra II#4.2.4#Ex 4#U4_C2_4.sce#623/CH19/EX4.2.4/U4_C2_4.sce#S##84644
+19#Atomic Spectra II#4.2.16#Ex 16#U4_C2_16.sce#623/CH19/EX4.2.16/U4_C2_16.sce#S##84643
+19#Atomic Spectra II#4.2.15#Ex 15#U4_C2_15.sce#623/CH19/EX4.2.15/U4_C2_15.sce#S##84642
+19#Atomic Spectra II#4.2.13#Ex 13#U4_C2_13.sce#623/CH19/EX4.2.13/U4_C2_13.sce#S##84641
+19#Atomic Spectra II#4.2.12#Ex 12#U4_C2_12.sce#623/CH19/EX4.2.12/U4_C2_12.sce#S##84640
+19#Atomic Spectra II#4.2.11#Ex 11#U4_C2_11.sce#623/CH19/EX4.2.11/U4_C2_11.sce#S##84639
+19#Atomic Spectra II#4.2.10#Ex 10#U4_C2_10.sce#623/CH19/EX4.2.10/U4_C2_10.sce#S##84638
+18#Atomic Spectra I#4.1.8#Ex 8#U4_C1_8.sce#623/CH18/EX4.1.8/U4_C1_8.sce#S##84636
+18#Atomic Spectra I#4.1.7#Ex 7#U4_C1_7.sce#623/CH18/EX4.1.7/U4_C1_7.sce#S##84635
+18#Atomic Spectra I#4.1.6#Es 6#U4_C1_6.sce#623/CH18/EX4.1.6/U4_C1_6.sce#S##84634
+18#Atomic Spectra I#4.1.5#Ex 5#U4_C1_5.sce#623/CH18/EX4.1.5/U4_C1_5.sce#S##84633
+18#Atomic Spectra I#4.1.4#Ex 4#U4_C1_4.sce#623/CH18/EX4.1.4/U4_C1_4.sce#S##84632
+18#Atomic Spectra I#4.1.3#Ex 3#U4_C1_3.sce#623/CH18/EX4.1.3/U4_C1_3.sce#S##84631
+18#Atomic Spectra I#4.1.2#Ex 2#U4_C1_2.sce#623/CH18/EX4.1.2/U4_C1_2.sce#S##84630
+18#Atomic Spectra I#4.1.1#Ex 1#U4_C1_1.sce#623/CH18/EX4.1.1/U4_C1_1.sce#S##84629
+11#Preliminary Concepts#3.1.6#Ex 6#U3_C1_6.sce#623/CH11/EX3.1.6/U3_C1_6.sce#S##84628
+11#Preliminary Concepts#3.1.5#Ex 5#U3_C1_5.sce#623/CH11/EX3.1.5/U3_C1_5.sce#S##84627
+11#Preliminary Concepts#3.1.4#Ex 4#U3_C1_4.sce#623/CH11/EX3.1.4/U3_C1_4.sce#S##84626
+11#Preliminary Concepts#3.1.3#Ex 3#U3_C1_3.sce#623/CH11/EX3.1.3/U3_C1_3.sce#S##84625
+11#Preliminary Concepts#3.1.2#Ex 2#U3_C1_2.sce#623/CH11/EX3.1.2/U3_C1_2.sce#S##84624
+11#Preliminary Concepts#3.1.1#Ex 1#U3_C1_1.sce#623/CH11/EX3.1.1/U3_C1_1.sce#S##84623
+10#Particle in a Central Force Field#2.9.4#Ex 4#U2_C9_4.sce#623/CH10/EX2.9.4/U2_C9_4.sce#S##84622
+10#Particle in a Central Force Field#2.9.3#Ex 3#U2_C9_3.sce#623/CH10/EX2.9.3/U2_C9_3.sce#S##84621
+10#Particle in a Central Force Field#2.9.2#Ex 2#U2_C9_2.sce#623/CH10/EX2.9.2/U2_C9_2.sce#S##84620
+7#Particle in a Box#2.6.3#Ex 3#U2_C6_3.sce#623/CH7/EX2.6.3/U2_C6_3.sce#S##84619
+7#Particle in a Box#2.6.2#Ex 2#U2_C6_2.sce#623/CH7/EX2.6.2/U2_C6_2.sce#S##84618
+7#Particle in a Box#2.6.1#Ex 1#U2_C6_1.sce#623/CH7/EX2.6.1/U2_C6_1.sce#S##84617
+3#Wave Nature of Material Particles#2.2.9#Ex 9#U2_C2_9.sce#623/CH3/EX2.2.9/U2_C2_9.sce#S##84608
+3#Wave Nature of Material Particles#2.2.8#Ex 8#U2_C2_8.sce#623/CH3/EX2.2.8/U2_C2_8.sce#S##84607
+3#Wave Nature of Material Particles#2.2.7#Ex 7#U2_C2_7.sce#623/CH3/EX2.2.7/U2_C2_7.sce#S##84606
+3#Wave Nature of Material Particles#2.2.6#Ex 6#U2_C2_6.sce#623/CH3/EX2.2.6/U2_C2_6.sce#S##84605
+3#Wave Nature of Material Particles#2.2.5#Ex 5#U2_C2_5.sce#623/CH3/EX2.2.5/U2_C2_5.sce#S##84604
+3#Wave Nature of Material Particles#2.2.4#Ex 4#U2_C2_4.sce#623/CH3/EX2.2.4/U2_C2_4.sce#S##84603
+3#Wave Nature of Material Particles#2.2.3#Ex 3#U2_C2_3.sce#623/CH3/EX2.2.3/U2_C2_3.sce#S##84602
+3#Wave Nature of Material Particles#2.2.19#Ex 19#U2_C2_19.sce#623/CH3/EX2.2.19/U2_C2_19.sce#S##84616
+3#Wave Nature of Material Particles#2.2.18#Ex 18#U2_C2_18.sce#623/CH3/EX2.2.18/U2_C2_18.sce#S##84615
+3#Wave Nature of Material Particles#2.2.17#Ex 17#U2_C2_17.sce#623/CH3/EX2.2.17/U2_C2_17.sce#S##84614
+3#Wave Nature of Material Particles#2.2.15#Ex 15#U2_C2_15.sce#623/CH3/EX2.2.15/U2_C2_15.sce#S##84613
+3#Wave Nature of Material Particles#2.2.14#Ex 14#U2_C2_14.sce#623/CH3/EX2.2.14/U2_C2_14.sce#S##84612
+3#Wave Nature of Material Particles#2.2.13#Ex 13#U2_C2_13.sce#623/CH3/EX2.2.13/U2_C2_13.sce#S##84611
+3#Wave Nature of Material Particles#2.2.12#Ex 12#U2_C2_12.sce#623/CH3/EX2.2.12/U2_C2_12.sce#S##84610
+3#Wave Nature of Material Particles#2.2.10#Ex 10#U2_C2_10.sce#623/CH3/EX2.2.10/U2_C2_10.sce#S##84609
+3#Wave Nature of Material Particles#2.2.1#Ex 1#U2_C2_1.sce#623/CH3/EX2.2.1/U2_C2_1.sce#S##84601
+2#Origin of Quantum Concepts#2.1.9#Ex 9#U2_C1_9.sce#623/CH2/EX2.1.9/U2_C1_9.sce#S##84594
+2#Origin of Quantum Concepts#2.1.8#Ex 8#U2_C1_8.sce#623/CH2/EX2.1.8/U2_C1_8.sce#S##84593
+2#Origin of Quantum Concepts#2.1.7#Ex 7#U2_C1_7.sce#623/CH2/EX2.1.7/U2_C1_7.sce#S##84592
+2#Origin of Quantum Concepts#2.1.6#Ex 6#U2_C1_6.sce#623/CH2/EX2.1.6/U2_C1_6.sce#S##84591
+2#Origin of Quantum Concepts#2.1.5#Ex 5#U2_C1_5.sce#623/CH2/EX2.1.5/U2_C1_5.sce#S##84590
+2#Origin of Quantum Concepts#2.1.4#Ex 4#U2_C1_4.sce#623/CH2/EX2.1.4/U2_C1_4.sce#S##84589
+2#Origin of Quantum Concepts#2.1.3#Ex 3#U2_C1_3.sce#623/CH2/EX2.1.3/U2_C1_3.sce#S##84695
+2#Origin of Quantum Concepts#2.1.2#Ex 2#U2_C1_2.sce#623/CH2/EX2.1.2/U2_C1_2.sce#S##84587
+2#Origin of Quantum Concepts#2.1.15#Ex 15#U2_C1_15.sce#623/CH2/EX2.1.15/U2_C1_15.sce#S##84600
+2#Origin of Quantum Concepts#2.1.14#Ex 14#U2_C1_14.sce#623/CH2/EX2.1.14/U2_C1_14.sce#S##84599
+2#Origin of Quantum Concepts#2.1.13#Ex 13#U2_C1_13.sce#623/CH2/EX2.1.13/U2_C1_13.sce#S##84598
+2#Origin of Quantum Concepts#2.1.12#Ex 12#U2_C1_12.sce#623/CH2/EX2.1.12/U2_C1_12.sce#S##84597
+2#Origin of Quantum Concepts#2.1.11#Ex 11#U2_C1_11.sce#623/CH2/EX2.1.11/U2_C1_11.sce#S##84596
+2#Origin of Quantum Concepts#2.1.10#Ex 10#U2_C1_10.sce#623/CH2/EX2.1.10/U2_C1_10.sce#S##84595
+2#Origin of Quantum Concepts#2.1.1#Ex 1#U2_C1_1.sce#623/CH2/EX2.1.1/U2_C1_1.sce#S##84586
+1#The Special Theory of Relativity#1.1.9#Ex 9#U1_C1_9.sce#623/CH1/EX1.1.9/U1_C1_9.sce#S##84571
+1#The Special Theory of Relativity#1.1.8#Ex 8#U1_C1_8.sce#623/CH1/EX1.1.8/U1_C1_8.sce#S##84570
+1#The Special Theory of Relativity#1.1.7#Ex 7#U1_C1_7.sce#623/CH1/EX1.1.7/U1_C1_7.sce#S##84569
+1#The Special Theory of Relativity#1.1.6#Ex 6#U1_C1_6.sce#623/CH1/EX1.1.6/U1_C1_6.sce#S##84568
+1#The Special Theory of Relativity#1.1.5#Ex 5#U1_C1_5.sce#623/CH1/EX1.1.5/U1_C1_5.sce#S##84567
+1#The Special Theory of Relativity#1.1.4#Ex 4#U1_C1_4.sce#623/CH1/EX1.1.4/U1_C1_4.sce#S##84566
+1#The Special Theory of Relativity#1.1.33#Ex 33#U1_C1_33.sce#623/CH1/EX1.1.33/U1_C1_33.sce#S##84585
+1#The Special Theory of Relativity#1.1.30#Ex 30#U1_C1_30.sce#623/CH1/EX1.1.30/U1_C1_30.sce#S##84584
+1#The Special Theory of Relativity#1.1.3#Ex 3#U1_C1_3.sce#623/CH1/EX1.1.3/U1_C1_3.sce#S##84565
+1#The Special Theory of Relativity#1.1.29#Ex 29#U1_C1_29.sce#623/CH1/EX1.1.29/U1_C1_29.sce#S##84583
+1#The Special Theory of Relativity#1.1.28#Ex 28#U1_C1_28.sce#623/CH1/EX1.1.28/U1_C1_28.sce#S##84582
+1#The Special Theory of Relativity#1.1.27#Ex 27#U1_C1_27.sce#623/CH1/EX1.1.27/U1_C1_27.sce#S##84581
+1#The Special Theory of Relativity#1.1.26#Ex 26#U1_C1_26.sce#623/CH1/EX1.1.26/U1_C1_26.sce#S##84580
+1#The Special Theory of Relativity#1.1.24#Ex 24#U1_C1_24.sce#623/CH1/EX1.1.24/U1_C1_24.sce#S##84579
+1#The Special Theory of Relativity#1.1.23#Ex 23#U1_C1_23.sce#623/CH1/EX1.1.23/U1_C1_23.sce#S##84578
+1#The Special Theory of Relativity#1.1.15#Ex 15#U1_C1_15.sce#623/CH1/EX1.1.15/U1_C1_15.sce#S##84577
+1#The Special Theory of Relativity#1.1.14#Ex 14#U1_C1_14.sce#623/CH1/EX1.1.14/U1_C1_14.sce#S##84576
+1#The Special Theory of Relativity#1.1.13#Ex 13#U1_C1_13.sce#623/CH1/EX1.1.13/U1_C1_13.sce#S##84575
+1#The Special Theory of Relativity#1.1.12#Ex 12#U1_C1_12.sce#623/CH1/EX1.1.12/U1_C1_12.sce#S##84574
+1#The Special Theory of Relativity#1.1.11#Ex 11#U1_C1_11.sce#623/CH1/EX1.1.11/U1_C1_11.sce#S##84573
+1#The Special Theory of Relativity#1.1.10#Ex 10#U1_C1_10.sce#623/CH1/EX1.1.10/U1_C1_10.sce#S##84572

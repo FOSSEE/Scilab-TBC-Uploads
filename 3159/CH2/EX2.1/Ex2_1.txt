@@ -1,0 +1,2 @@
+ Example 2.1
+ Increase in entropy is 22.04 J mol^-1 K^-1 

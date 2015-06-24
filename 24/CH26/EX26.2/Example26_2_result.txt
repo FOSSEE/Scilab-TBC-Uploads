@@ -1,0 +1,5 @@
+**Sample Problem 26-2a**
+The equivalent capacitance for the given circuit is 3.571101uF
+
+**Sample Problem 26-2b**
+The charge on the capacitor C1 is equal to 30.963303uC 

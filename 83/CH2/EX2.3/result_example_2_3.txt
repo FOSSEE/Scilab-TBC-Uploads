@@ -1,0 +1,12 @@
+
+Mutual GMD between lines = 8.7937 m
+
+GMR of Side A conductors = 0.3670 m
+
+GMR of Side B conductors = 0.1248 m
+
+Inductance of line A = 0.6359 mH/km
+
+Inductance of line B = 0.8519 mH/km
+
+Loop Inductance of the lines = 1.4878 mH/km

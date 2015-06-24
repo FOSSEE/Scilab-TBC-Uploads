@@ -1,0 +1,2 @@
+ Exa-2.9   
+The velocity of rocket 2 wrt rocket 1 along x and y directions is  -0.60 c & 0.64 c respectively 

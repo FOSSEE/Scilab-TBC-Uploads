@@ -1,0 +1,23 @@
+clear;
+clc;
+V_t=220;
+n_m=1500;
+w_m=2*%pi*n_m/60;
+I_a=10;
+r_a=1;
+K_m=(V_t-I_a*r_a)/(w_m);
+T=5;
+I_a=T/K_m;
+V_s=230;
+V_m=sqrt(2)*V_s;
+a=30;
+V_t=2*V_m*cosd(a)/%pi;
+w_m=(V_t-I_a*r_a)/K_m;
+N=w_m*60/(2*%pi);    printf("motor speed=%.2f rpm",N);
+a=45;
+n_m=1000;
+w_m=2*%pi*n_m/60;
+V_t=2*V_m*cosd(a)/%pi;
+I_a=(V_t-K_m*w_m)/r_a;
+T_e=K_m*I_a;    printf("\ntorque developed=%.3f Nm",T_e);
+//Answers have small variations from that in the book due to difference in the rounding off of digits.

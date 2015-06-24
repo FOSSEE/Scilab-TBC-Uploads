@@ -1,0 +1,86 @@
+9#Combustion#9.9#constant volume bomb calorimeter#Ex9_9.sce#2774/CH9/EX9.9/Ex9_9.sce#S##108681
+9#Combustion#9.8#octane with 300 percent excess air#Ex9_8.sce#2774/CH9/EX9.8/Ex9_8.sce#S##108680
+9#Combustion#9.7#Liquid octane fuels a jet engine#Ex9_7.sce#2774/CH9/EX9.7/Ex9_7.sce#S##108679
+9#Combustion#9.6#propane and air enter a steady flow combustion chamber#Ex9_6.sce#2774/CH9/EX9.6/Ex9_6.sce#S##108678
+9#Combustion#9.5#enthalpy of combustion of gaseous and liquid propane#Ex9_5.sce#2774/CH9/EX9.5/Ex9_5.sce#S##108677
+9#Combustion#9.4#Volumetric analysis of the products of combustion#Ex9_4.sce#2774/CH9/EX9.4/Ex9_4.sce#S##103083
+9#Combustion#9.3#Butane is burned with dry air#Ex9_3.sce#2774/CH9/EX9.3/Ex9_3.sce#S##108676
+9#Combustion#9.2#Butane with 90 percent theoretical air#Ex9_2.sce#2774/CH9/EX9.2/Ex9_2.sce#S##108675
+9#Combustion#9.11#the adiabatic flame temperature#Ex9_11.sce#2774/CH9/EX9.11/Ex9_11.sce#S##108683
+9#Combustion#9.10#propane with 250 percent theoretical air#Ex9_10.sce#2774/CH9/EX9.10/Ex9_10.sce#S##108682
+9#Combustion#9.1#air fuel ratio of 20#Ex9_1.sce#2774/CH9/EX9.1/Ex9_1.sce#S##104289
+8#Psychrometrics#8.9#Outside cool air is mixed with inside air#Ex8_9.sce#2774/CH8/EX8.9/Ex8_9.sce#S##103093
+8#Psychrometrics#8.8#Outside air at 30 degree C and 90 percent relative humidity#Ex8_8.sce#2774/CH8/EX8.8/Ex8_8.sce#S##103078
+8#Psychrometrics#8.7#heat transfer if the incoming volume flow rate of air is 60 metre cube per min#Ex8_7.sce#2774/CH8/EX8.7/Ex8_7.sce#S##103092
+8#Psychrometrics#8.6#incoming volume flow rate is 50 metre cube per min#Ex8_6.sce#2774/CH8/EX8.6/Ex8_6.sce#S##103075
+8#Psychrometrics#8.5#Hot dry air passes through an evaporative cooler#Ex8_5.sce#2774/CH8/EX8.5/Ex8_5.sce#S##103074
+8#Psychrometrics#8.3#100 kPa air stream#Ex8_3.sce#2774/CH8/EX8.3/Ex8_3.sce#S##103072
+8#Psychrometrics#8.2#air is cooled below the dew point to 10 degree Celsius#Ex8_2.sce#2774/CH8/EX8.2/Ex8_2.sce#S##104288
+8#Psychrometrics#8.10#cooling tower of power plant#Ex8_10.sce#2774/CH8/EX8.10/Ex8_10.sce#S##103079
+8#Psychrometrics#8.1#air at 25 degree Celsius and 100 kPa in 150 metre cube#Ex8_1.sce#2774/CH8/EX8.1/Ex8_1.sce#S##103070
+7#Power Gas Cycles#7.9#compressor with compression ratio of 10#Ex7_9.sce#2774/CH7/EX7.9/Ex7_9.sce#S##104286
+7#Power Gas Cycles#7.8#gas turbine provides the energy to the boiler#Ex7_8.sce#2774/CH7/EX7.8/Ex7_8.sce#S##104285
+7#Power Gas Cycles#7.7#ideal regenerator to the gas turbine cycle#Ex7_7.sce#2774/CH7/EX7.7/Ex7_7.sce#S##108674
+7#Power Gas Cycles#7.6#compressor and gas turbine have efficiency of 75 percent#Ex7_6.sce#2774/CH7/EX7.6/Ex7_6.sce#S##108673
+7#Power Gas Cycles#7.5#thermal efficiency for this Brayton cycle#Ex7_5.sce#2774/CH7/EX7.5/Ex7_5.sce#S##103063
+7#Power Gas Cycles#7.4#without constant specific heats#Ex7_4.sce#2774/CH7/EX7.4/Ex7_4.sce#S##103062
+7#Power Gas Cycles#7.3#A diesel cycle with a compression ratio 18#Ex7_3.sce#2774/CH7/EX7.3/Ex7_3.sce#S##103061
+7#Power Gas Cycles#7.2#Otto cycle with compression ratio of 10#Ex7_2.sce#2774/CH7/EX7.2/Ex7_2.sce#S##103058
+7#Power Gas Cycles#7.10#adding ideal internal heat exchanger and regenerator#Ex7_10.sce#2774/CH7/EX7.10/Ex7_10.sce#S##104287
+7#Power Gas Cycles#7.1#the percent clearance and the MEP#Ex7_1.sce#2774/CH7/EX7.1/Ex7_1.sce#S##108672
+6#Power Vapor Cycles#6.9#ideal vapor refrigeration cycle#Ex6_9.sce#2774/CH6/EX6.9/Ex6_9.sce#S##108669
+6#Power Vapor Cycles#6.8#A Rankine cycle operates between  2 MPa and 10 kPa#Ex6_8.sce#2774/CH6/EX6.8/Ex6_8.sce#S##104284
+6#Power Vapor Cycles#6.7#efficiency of this reheat regeneration cycle#Ex6_7.sce#2774/CH6/EX6.7/Ex6_7.sce#S##103042
+6#Power Vapor Cycles#6.6#inserted an open feedwater heater#Ex6_6.sce#2774/CH6/EX6.6/Ex6_6.sce#S##104283
+6#Power Vapor Cycles#6.5#High pressure steam enters a turbine at 2 MPa#Ex6_5.sce#2774/CH6/EX6.5/Ex6_5.sce#S##104282
+6#Power Vapor Cycles#6.4#Decrease the condenser pressure#Ex6_4.sce#2774/CH6/EX6.4/Ex6_4.sce#S##103035
+6#Power Vapor Cycles#6.3#Increase the maximum temperature#Ex6_3.sce#2774/CH6/EX6.3/Ex6_3.sce#S##103034
+6#Power Vapor Cycles#6.2#Increase the boiler pressure#Ex6_2.sce#2774/CH6/EX6.2/Ex6_2.sce#S##103032
+6#Power Vapor Cycles#6.11#A heat pump using R134a#Ex6_11.sce#2774/CH6/EX6.11/Ex6_11.sce#S##108671
+6#Power Vapor Cycles#6.10#compressor is 80 percent efficient#Ex6_10.sce#2774/CH6/EX6.10/Ex6_10.sce#S##108670
+6#Power Vapor Cycles#6.1#power plant operate at the pressures of 10 kPa#Ex6_1.sce#2774/CH6/EX6.1/Ex6_1.sce#S##103028
+5#The Second Law of Thermodynamics#5.9#a reversible adiabatic process#Ex5_9.sce#2774/CH5/EX5.9/Ex5_9.sce#S##108666
+5#The Second Law of Thermodynamics#5.8#with variable specific heats#Ex5_8.sce#2774/CH5/EX5.8/Ex5_8.sce#S##108665
+5#The Second Law of Thermodynamics#5.7#a combustion process in a cylinder#Ex5_7.sce#2774/CH5/EX5.7/Ex5_7.sce#S##103011
+5#The Second Law of Thermodynamics#5.6#paddle wheel work#Ex5_6.sce#2774/CH5/EX5.6/Ex5_6.sce#S##103010
+5#The Second Law of Thermodynamics#5.5#percentage increase in work#Ex5_5.sce#2774/CH5/EX5.5/Ex5_5.sce#S##103009
+5#The Second Law of Thermodynamics#5.4#Carnot engine#Ex5_4.sce#2774/CH5/EX5.4/Ex5_4.sce#S##103008
+5#The Second Law of Thermodynamics#5.15#preheater is used in a power plant cycle#Ex5_15.sce#2774/CH5/EX5.15/Ex5_15.sce#S##108667
+5#The Second Law of Thermodynamics#5.14#turbine is assumed to be 80 percent efficient#Ex5_14.sce#2774/CH5/EX5.14/Ex5_14.sce#S##103021
+5#The Second Law of Thermodynamics#5.13#Superheated steam enters a turbine#Ex5_13.sce#2774/CH5/EX5.13/Ex5_13.sce#S##103020
+5#The Second Law of Thermodynamics#5.12#Two kilograms of steam#Ex5_12.sce#2774/CH5/EX5.12/Ex5_12.sce#S##103016
+5#The Second Law of Thermodynamics#5.11#Air in one half of an insulated tank#Ex5_11.sce#2774/CH5/EX5.11/Ex5_11.sce#S##103015
+5#The Second Law of Thermodynamics#5.10#Steam in a rigid container#Ex5_10.sce#2774/CH5/EX5.10/Ex5_10.sce#S##103014
+4#The First Law of Thermodynamics#4.9#air in an insulated cylinder#Ex4_9.sce#2774/CH4/EX4.9/Ex4_9.sce#S##108663
+4#The First Law of Thermodynamics#4.8#piston cylinder arrangement#Ex4_8.sce#2774/CH4/EX4.8/Ex4_8.sce#S##100208
+4#The First Law of Thermodynamics#4.7#quasiequilibrium process#Ex4_7.sce#2774/CH4/EX4.7/Ex4_7.sce#S##108662
+4#The First Law of Thermodynamics#4.6#enthalpy change for 1 kg of nitrogen#Ex4_6.sce#2774/CH4/EX4.6/Ex4_6.sce#S##100206
+4#The First Law of Thermodynamics#4.5#specific heat of superheated steam#Ex4_5.sce#2774/CH4/EX4.5/Ex4_5.sce#S##100205
+4#The First Law of Thermodynamics#4.4#concept of enthalpy#Ex4_4.sce#2774/CH4/EX4.4/Ex4_4.sce#S##100204
+4#The First Law of Thermodynamics#4.3#frictionless piston#Ex4_3.sce#2774/CH4/EX4.3/Ex4_3.sce#S##100203
+4#The First Law of Thermodynamics#4.2#internal energy increase#Ex4_2.sce#2774/CH4/EX4.2/Ex4_2.sce#S##100202
+4#The First Law of Thermodynamics#4.15#heat exchanger#Ex4_15.sce#2774/CH4/EX4.15/Ex4_15.sce#S##100215
+4#The First Law of Thermodynamics#4.14#the supersonic nozzle#Ex4_14.sce#2774/CH4/EX4.14/Ex4_14.sce#S##100214
+4#The First Law of Thermodynamics#4.13#maximum pressure increase by pump#Ex4_13.sce#2774/CH4/EX4.13/Ex4_13.sce#S##100213
+4#The First Law of Thermodynamics#4.12#turbine power output#Ex4_12.sce#2774/CH4/EX4.12/Ex4_12.sce#S##100212
+4#The First Law of Thermodynamics#4.11#throttling valve#Ex4_11.sce#2774/CH4/EX4.11/Ex4_11.sce#S##100211
+4#The First Law of Thermodynamics#4.10#Steam at 2000 kPa and 600 degree celsius#EX4_10.sce#2774/CH4/EX4.10/EX4_10.sce#S##100210
+4#The First Law of Thermodynamics#4.1#paddle wheel heat transfer#Ex4_1.sce#2774/CH4/EX4.1/Ex4_1.sce#S##100201
+3#Heat and Work#3.7#non quasiequilibrium process#Ex3_7.sce#2774/CH3/EX3.7/Ex3_7.sce#S##96441
+3#Heat and Work#3.6#Heat supplied at constant pressure#Ex3_6.sce#2774/CH3/EX3.6/Ex3_6.sce#S##96440
+3#Heat and Work#3.5#drive shaft in an automobile delivers#Ex3_5.sce#2774/CH3/EX3.5/Ex3_5.sce#S##96439
+3#Heat and Work#3.4#A 100 kg mass drops 3 m#Ex3_4.sce#2774/CH3/EX3.4/Ex3_4.sce#S##96438
+3#Heat and Work#3.3#isothermal work by the ideal gas#Ex3_3.sce#2774/CH3/EX3.3/Ex3_3.sce#S##96437
+3#Heat and Work#3.2#110mm diameter cylinder work done#Ex3_2.sce#2774/CH3/EX3.2/Ex3_2.sce#S##108661
+3#Heat and Work#3.1#constant pressure work done#Ex3_1.sce#2774/CH3/EX3.1/Ex3_1.sce#S##96435
+2#Properties of Pure Substances#2.6#the van der Waals equation#Ex2_6.sce#2774/CH2/EX2.6/Ex2_6.sce#S##96434
+2#Properties of Pure Substances#2.5#mass of air in the tire#Ex2_5.sce#2774/CH2/EX2.5/Ex2_5.sce#S##96433
+2#Properties of Pure Substances#2.4#constant pressure cylinder#Ex2_4.sce#2774/CH2/EX2.4/Ex2_4.sce#S##96432
+2#Properties of Pure Substances#2.3#the final volume of mixture#Ex2_3.sce#2774/CH2/EX2.3/Ex2_3.sce#S##96431
+2#Properties of Pure Substances#2.2#volume of vapour#Ex2_2.sce#2774/CH2/EX2.2/Ex2_2.sce#S##96430
+2#Properties of Pure Substances#2.1#saturated water is vaporized#Ex2_1.sce#2774/CH2/EX2.1/Ex2_1.sce#S##96429
+1#Basic Principles#1.6#increase in kinetic energy#Ex1_6.sce#2774/CH1/EX1.6/Ex1_6.sce#S##96428
+1#Basic Principles#1.5#Compression in spring#Ex1_5.sce#2774/CH1/EX1.5/Ex1_5.sce#S##96427
+1#Basic Principles#1.4#absolute pressure#Ex1_4.sce#2774/CH1/EX1.4/Ex1_4.sce#S##96426
+1#Basic Principles#1.3#density and specific volume is asked#Ex1_3.sce#2774/CH1/EX1.3/Ex1_3.sce#S##108660
+1#Basic Principles#1.2#kinetic energy#EX1_2.sce#2774/CH1/EX1.2/EX1_2.sce#S##96424

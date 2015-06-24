@@ -1,0 +1,7 @@
+Concentration Gradient (in /m^4) =    
+ 
+    6.667D+15  
+ 
+ Diffusivity (in sq m/sec) =    
+ 
+  - 150000.03  

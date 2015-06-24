@@ -1,0 +1,12 @@
+Characteristic impedance (in ohms) =   
+ 
+    872.81286  
+ 
+ Angle (in degrees) =   
+ 
+  - 2.846825  
+ 
+ Phase velocity (in meter per sec.) =   
+ 
+    21028.063  
+

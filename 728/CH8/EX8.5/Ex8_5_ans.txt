@@ -1,0 +1,16 @@
+ Input microwave voltage(in volts) =   
+ 
+    58.70546  
+ 
+ Voltage gain =   
+ 
+    57.733774  
+ 
+ Effeciency of amplifier (in percentage) =   
+ 
+    48.392602  
+ 
+ Beam loading resistance(in kilo ohms) =   
+ 
+    72.751565  
+ 

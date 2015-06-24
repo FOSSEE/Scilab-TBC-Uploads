@@ -1,0 +1,4 @@
+(a)Proof of V_z = 51/sigmap has been given
+(b)When material is intrinsic, Vz = 2295.000 V
+(c)When resistivity drops, Vz = 198.9 V
+(d)I = 2.749e-004 A 

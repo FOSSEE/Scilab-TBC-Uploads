@@ -1,0 +1,7 @@
+ (a) Speed at half load(in rpm)=   
+ 
+    1865.  
+ 
+ (b) Speed at 125% load(in rpm)=   
+ 
+    1767.  

@@ -1,0 +1,3 @@
+
+Example 3.3
+ Longest wavelength is 0.935000 angstrom. 

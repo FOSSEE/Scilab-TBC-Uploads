@@ -1,0 +1,5 @@
+First option is to modify Z_1 so that its phase angle is decreased to less than 90deg by placing a resistor in parallel with the capacitor.   
+The value of the resistor R_1 in parallel with capacitor = 5000 ohm
+ 
+ The second option is to modify the phase angle of arm 2 or arm 3 by adding series capacitor   
+The value of the reactance of the capacitor used, X_C = 200 ohm 

@@ -1,0 +1,71 @@
+-->//(Manufacturing Considerations in Design) Example 3.3
+ 
+-->//Refer Fig. 3.26 on page 70
+ 
+-->//Basic diameter of hub Dh mm
+ 
+-->Dh = 50
+ Dh  =
+ 
+    50.  
+ 
+-->//Refer tables 3.2 and 3.3b for tolerances of H7-s6 fit
+ 
+-->//Upper deviation for hub Uh mm
+ 
+-->Uh = 0.025
+ Uh  =
+ 
+    0.025  
+ 
+-->//Lower deviation for hub Lh mm
+ 
+-->Lh = 0.000
+ Lh  =
+ 
+    0.  
+ 
+-->//Basic diameter of shaft Ds mm
+ 
+-->Ds = 50
+ Ds  =
+ 
+    50.  
+ 
+-->//Upper deviation for shaft Us mm
+ 
+-->Us = 0.059
+ Us  =
+ 
+    0.059  
+ 
+-->//Lower deviation for shaft Ls mm
+ 
+-->Ls = 0.043
+ Ls  =
+ 
+    0.043  
+ 
+
+Maximum diameter of hub is: 50.025000 mm
+
+Minimum diameter of hub is: 50.000000 mm
+
+Maximum diameter of shaft is: 50.059000 mm
+
+Minimum diameter of shaft is: 50.043000 mm
+
+Maximum interference is: 0.059000 mm
+
+Minimum interference is: 0.018000 mm
+
+Maximum interferences for A, B and C are as follows:
+0.048000 mm
+0.047000 mm
+0.043000 mm
+
+Minimum interferences for A, B and C are as follows:
+0.035000 mm
+0.032000 mm
+0.030000 mm
+ 

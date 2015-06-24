@@ -1,0 +1,5 @@
+**Sample Problem 27-5a**
+The mean free time between two collision is 2.477462e-014s
+
+**Sample Problem 27-5b**
+The mean free path is equal to 3.963939e-008m 

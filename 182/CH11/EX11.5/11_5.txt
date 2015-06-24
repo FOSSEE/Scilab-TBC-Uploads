@@ -1,0 +1,4 @@
+
+5.PULSE WIDTH=289 micro-sec
+  For pulse width of 6 ms,
+  C2=0.2 micro-F 

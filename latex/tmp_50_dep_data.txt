@@ -1,0 +1,61 @@
+shooting.sci#50/DEPENDENCIES/shooting.sci#shooting method for solving BVP#133
+Euler1.sce#50/DEPENDENCIES/Euler1.sce#euler method#96
+eigenvectors.sci#50/DEPENDENCIES/eigenvectors.sci#eigen vectors and eigen values#95
+adamsbashforth3.sci#50/DEPENDENCIES/adamsbashforth3.sci#adams bashforth third order  method#93
+newtonrap.sce#50/DEPENDENCIES/newtonrap.sce#newton raphson method#101
+Vsim_eulercauchy.sce#50/DEPENDENCIES/Vsim_eulercauchy.sce#euler cauchy solution to the simultanioys equations#141
+simRK4.sci#50/DEPENDENCIES/simRK4.sci#simultaneous  fourth order range kutta#104
+RK4.sci#50/DEPENDENCIES/RK4.sci#fourth order range kutta method#102
+modifiedeuler.sci#50/DEPENDENCIES/modifiedeuler.sci#modified euler method#100
+heun.sci#50/DEPENDENCIES/heun.sci#euler cauchy or heun#99
+taylor.sci#50/DEPENDENCIES/taylor.sci#taylor series#105
+fact.sci#50/DEPENDENCIES/fact.sci#factorial#98
+eulermidpoint.sci#50/DEPENDENCIES/eulermidpoint.sci#mid point nmethod#97
+backeuler.sci#50/DEPENDENCIES/backeuler.sci#back euler method#94
+comp_trapezoidal.sci#50/DEPENDENCIES/comp_trapezoidal.sci#composite trapizoidal rule#116
+simpson13.sci#50/DEPENDENCIES/simpson13.sci#simpson rule#120
+simpson38.sci#50/DEPENDENCIES/simpson38.sci#simpson rule#121
+simpson.sci#50/DEPENDENCIES/simpson.sci#approximation to the integral by simpson method#119
+trapezoidal.sci#50/DEPENDENCIES/trapezoidal.sci#integration by trapizoidal method#122
+jacobianmat.sci#50/DEPENDENCIES/jacobianmat.sci#jacobian of a given matrix#117
+linearinterpol.sci#50/DEPENDENCIES/linearinterpol.sci#linear interpolating polinomial#118
+iteratedinterpol.sci#50/DEPENDENCIES/iteratedinterpol.sci#iterated interpolation#125
+NDDinterpol2.sci#50/DEPENDENCIES/NDDinterpol2.sci#newton divided differences interpolation order two#130
+lagrangefundamentalpoly.sci#50/DEPENDENCIES/lagrangefundamentalpoly.sci#legrange fundamental polynomial#126
+legrangeinterpol.sci#50/DEPENDENCIES/legrangeinterpol.sci#legrange interpolation#127
+quadraticapprox.sci#50/DEPENDENCIES/quadraticapprox.sci#quadratic approximation#131
+straightlineapprox.sce#50/DEPENDENCIES/straightlineapprox.sce#straight line approximation#132
+aitkeninterpol.sci#50/DEPENDENCIES/aitkeninterpol.sci#aitken interpolation#123
+NDDinterpol.sci#50/DEPENDENCIES/NDDinterpol.sci#newton divided differences interpolation#129
+hermiteinterpol.sci#50/DEPENDENCIES/hermiteinterpol.sci#hermite interpolation#124
+NBDP.sci#50/DEPENDENCIES/NBDP.sci#newton backward differences polinomial#128
+jordan.sce#50/DEPENDENCIES/jordan.sce#gauss jorden#154
+pivotgausselim.sci#50/DEPENDENCIES/pivotgausselim.sci#gauss elimination  with pivoting#157
+Vgausselim.sce#50/DEPENDENCIES/Vgausselim.sce#gauss elimination#151
+geigenvectors.sci#50/DEPENDENCIES/geigenvectors.sci#eigen vector and eigen value#148
+Vgaussseidel.sce#50/DEPENDENCIES/Vgaussseidel.sce#gauss siedel method#152
+jacobiiteration.sce#50/DEPENDENCIES/jacobiiteration.sce#jacobi iteration method#153
+back.sce#50/DEPENDENCIES/back.sce#back substitution#146
+cholesky.sce#50/DEPENDENCIES/cholesky.sce#cholesky method#147
+fore.sce#50/DEPENDENCIES/fore.sce#forward substitution#149
+LandU.sce#50/DEPENDENCIES/LandU.sce#L and U matrices#155
+Vnewton.sce#50/DEPENDENCIES/Vnewton.sce#newton raphson method#68
+Vnewton4.sce#50/DEPENDENCIES/Vnewton4.sce#four itterations of newton raphson method#73
+Vsecant.sce#50/DEPENDENCIES/Vsecant.sce#secant method#66
+regulafalsi.sce#50/DEPENDENCIES/regulafalsi.sce#regula falsi method#84
+regulafalsi4.sce#50/DEPENDENCIES/regulafalsi4.sce#four iterations of regula falsi method#92
+secant4.sce#50/DEPENDENCIES/secant4.sce#four iterations of secant method#91
+Vbisection5.sce#50/DEPENDENCIES/Vbisection5.sce#five itterations by bisection method#71
+Vbisection.sce#50/DEPENDENCIES/Vbisection.sce#bisection method#70
+newton63.sce#50/DEPENDENCIES/newton63.sce#solution by newton method given in equation 2.63#89
+secant64.sce#50/DEPENDENCIES/secant64.sce#solution by secant method given in equation 2.64#87
+secant65.sce#50/DEPENDENCIES/secant65.sce#solution by secant method given in equation 2.65#88
+modified_newton.sce#50/DEPENDENCIES/modified_newton.sce#solution to the equation having multiple roots#79
+generaliteration2.sce#50/DEPENDENCIES/generaliteration2.sce#solution by two iterations of general iteration#77
+aitken.sce#50/DEPENDENCIES/aitken.sce#solution by aitken method#74
+generaliteration.sce#50/DEPENDENCIES/generaliteration.sce#solution by general iteration#76
+multipoint_iteration33.sce#50/DEPENDENCIES/multipoint_iteration33.sce#solution by multipoint iteration given in equation 33#86
+multipoint_iteration31.sce#50/DEPENDENCIES/multipoint_iteration31.sce#solution by multipoint iteration given in equation 31#85
+chebyshev.sce#50/DEPENDENCIES/chebyshev.sce#solution by chebeshev method#75
+muller5.sce#50/DEPENDENCIES/muller5.sce#solution by five iterations of muller method#81
+muller3.sce#50/DEPENDENCIES/muller3.sce#solution by three iterations of muller method#80

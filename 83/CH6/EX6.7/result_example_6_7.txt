@@ -1,0 +1,20 @@
+ 
+-->exec('/home/samyak/scilab_working_directory/chapter_6/ex_7/example_6_7.sce', -1)
+Case(i) When a=1/1.04
+Ybus= 
+    3. - 9.i  - 2. + 6.i      - 1. + 3.i                  0                       
+  - 2. + 6.i    3.666 - 11.i  - 0.666 + 2.i             - 1. + 3.i                
+  - 1. + 3.i  - 0.666 + 2.i     3.5151124 - 10.547337i  - 1.9230769 + 5.7692308i  
+    0         - 1. + 3.i      - 1.9230769 + 5.7692308i    3. - 9.i                
+
+Observe the changes in elements between bus 3&4 when compared with the result of example_6.2
+
+Case(ii) When a=e^(-j3)
+Ybus= 
+    3. - 9.i  - 2. + 6.i      - 1. + 3.i                  0                       
+  - 2. + 6.i    3.666 - 11.i  - 0.666 + 2.i             - 1. + 3.i                
+  - 1. + 3.i  - 0.666 + 2.i     3.666 - 11.i            - 2.3112748 + 5.8871053i  
+    0         - 1. + 3.i      - 1.6832433 + 6.0964491i    3. - 9.i                
+
+Observe the changes in elements between bus 3&4 when compared with the result of example_6.2 
+-->diary(0);

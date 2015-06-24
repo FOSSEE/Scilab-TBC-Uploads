@@ -1,0 +1,5 @@
+**Sample Problem 7-5a**
+The work done by the gravity is during the pull is -3.675000e+002J
+
+**Sample Problem 7-5b**
+The work done by the tension during the pull is 3.675000e+002J 

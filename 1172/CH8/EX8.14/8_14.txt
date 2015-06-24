@@ -1,0 +1,5 @@
+ # Problem 14 # 
+
+ Standard formula used 1/2 *(m_s * v ^2 / r) = g * R_E^2 * m /R_e^2 
+ Magnitude and direction of impulse required are respectively 8.047626e+05kgm/s and 18.098444 degree.
+

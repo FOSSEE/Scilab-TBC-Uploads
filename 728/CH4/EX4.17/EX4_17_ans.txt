@@ -1,0 +1,8 @@
+ Diameter of waveguide (in cm) =   
+ 
+    3.6625531  
+ 
+ Guide wavelength (in cm) =   
+ 
+    8.3333333  
+ 

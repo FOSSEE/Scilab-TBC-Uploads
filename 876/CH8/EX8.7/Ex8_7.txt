@@ -1,0 +1,7 @@
+ peak amplitude(in V)=   
+ 
+    1.5  
+ 
+ frequency of the signal(in Hz)=   
+ 
+    200000.  

@@ -1,0 +1,21 @@
+  
+ Longitudinal Strength (in GPa) =    
+ 
+    1.820875  
+ 
+ Longitudianl Modulous (in GPa) =    
+ 
+    85.725  
+ 
+ Transverse Modulous (in GPa) =    
+ 
+    9.5238095  
+ 
+ Poissons Ratio =    
+ 
+    0.3435  
+ 
+ Shear Modulous (in GPa) =    
+ 
+    1.7032258  
+ 

@@ -1,0 +1,3 @@
+ Example 6.4
+
+ Diffusion coefficient is 5.8e-13 m^2/s

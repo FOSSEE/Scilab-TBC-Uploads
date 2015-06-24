@@ -1,0 +1,32 @@
+//clc()
+mdryair = 1;//kg
+Pwater1 = 1.4;//kPa ( Partial pressure at 285K )
+Pwater2 = 10.6;//kPa ( Partial pressure at 320K )
+P = 101.3;// ( Total )
+Ys1 = Pwater2 * 18 / ((P - Pwater2)*29);//( saturation humidity at 320K )
+Ys2 = Pwater1 * 18 / ((P - Pwater1)*29);//( saturation humidity at 285K )
+Ys = 0.03;//kg water / kg dry air. (final humidity)
+// humidity of air leaving dehumidifier is Ys2 and humidity of bypassed air is Ys1. these 2 streams combine to give humidity of 0.03kg water / kg dry air.
+//therefore, taking balance we get, 1*Ys2 + x * Ys1 = (1 + x)*Ys
+x = (1*Ys2 - 1*Ys)/(Ys - Ys1);
+disp("kg dry air",x,"(a)Mass of dry air bypassed per kg of dry air sent through the dehumidifier = ")
+mcondensed = Ys1 - Ys2;
+mwetair = mdryair + Ys1;
+Nwetair = mdryair/29 + Ys1/18.016;
+Vstp = 22.4143;//m^3/kmol
+Vstp1 = Nwetair * Vstp;
+T = 320;//K
+P = 101.3;//kPa
+Tstp = 273.15;//K
+Pstp = 101.325;//kPa
+V = Vstp1 * Pstp * T / (P * Tstp);
+Vgiven = 100;//m^3
+mcondensed1 = mcondensed * Vgiven / V;
+disp("kg",mcondensed1,"(b)mass of water vapour condensed in the dehumidifier per 100m^3 of air sent through it = ")
+mfinal = mdryair + x;
+mfinalair = mfinal * Vgiven / V;
+N = mfinalair / 29;
+Ysn = Ys * 29/18;//kmol water / kmol dry air
+Ntotal = N * (Ysn + 1);
+Vfinal = Ntotal * Vstp * Pstp * T / ( Tstp * P );
+disp("m^3",Vfinal,"(c)Volume of final air obtained per 100 cubic metres f air passed through dehumidifier = ")

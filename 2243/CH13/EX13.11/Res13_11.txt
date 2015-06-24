@@ -1,0 +1,1 @@
+theta2 = 30 degrees 

@@ -1,0 +1,910 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.4.3)  3 OCT 2013 19:00
+entering extended mode
+ %&-line parsing enabled.
+**SAN_final.tex
+(./SAN_final.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+
+(/usr/share/texmf/tex/latex/base/report.cls
+Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2288.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing OFF on input line 2308.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count90
+\Field@Width=\dimen104
+\Fld@charsize=\dimen105
+\Choice@toks=\toks15
+\Field@toks=\toks16
+Package hyperref Info: Hyper figures OFF on input line 3102.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing OFF on input line 3117.
+Package hyperref Info: Link coloring OFF on input line 3122.
+\Hy@abspage=\count91
+\c@Item=\count92
+\c@Hfootnote=\count93
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count94
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4.
+
+(/usr/share/texmf/tex/latex/tools/theorem.sty
+Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks17
+\theorem@bodyfont=\toks18
+\theorempreskipamount=\skip43
+\theorempostskipamount=\skip44
+
+(/usr/share/texmf/tex/latex/tools/thp.sty
+File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texmf/tex/latex/listings/listings.sty
+\lst@mode=\count96
+\lst@gtempboxa=\box26
+\lst@token=\toks19
+\lst@length=\count97
+\lst@currlwidth=\dimen108
+\lst@column=\count98
+\lst@pos=\count99
+\lst@lostspace=\dimen109
+\lst@width=\dimen110
+\lst@newlines=\count100
+\lst@lineno=\count101
+\c@lstlisting=\count102
+\lst@maxwidth=\dimen111
+
+(/usr/share/texmf/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2004/10/17 1.3b (Carsten Heinz)
+)
+(/usr/share/texmf/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
+\c@lstnumber=\count103
+\lst@skipnumbers=\count104
+\lst@framebox=\box27
+)
+(/usr/share/texmf/tex/latex/listings/listings.cfg
+File: listings.cfg 2004/09/05 1.3 listings configuration
+))
+Package: listings 2004/10/17 1.3b (Carsten Heinz)
+
+(/usr/share/texmf/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/share/texmf/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+\c@codemass=\count105
+\c@accmass=\count106
+ (./SAN_final.aux)
+Runaway argument?
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.62 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+\openout1 = `SAN_final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Link coloring ON on input line 62.
+
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count107
+)
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+ (./SAN_final.out)
+(./SAN_final.out)
+\@outlinefile=\write3
+\openout3 = `SAN_final.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 64.
+ [1
+
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): de
+stination with the same identifier (name{page.1}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.75 \newpage
+              [1
+
+] [2] (./SAN_final.toc)
+\tf@toc=\write4
+\openout4 = `SAN_final.toc'.
+
+ [3
+
+] (./SAN_final.cod)
+\tf@cod=\write5
+\openout5 = `SAN_final.cod'.
+
+ [4
+
+]
+Chapter 1.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 94.
+(../542/CH1/EX1.1/Example_1_1.sce
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
+ (/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
+)
+[5
+
+]
+Overfull \hbox (0.22353pt too wide) in paragraph at lines 100--101
+[]\OT1/cmr/m/n/12 Surface and mass dis-tri-bu-tion curve and sur-face mean
+ []
+
+(../542/CH1/EX1.2/Example_1_2.sce [6] [7]) (../542/CH1/EX1.3/Example_1_3.sci
+[8]) (../542/CH1/EX1.4/Example_1_4.sci [9]) (../542/CH1/EX1.5/Example_1_5.sce
+[10]) (../542/CH1/EX1.6/Example_1_6.sce [11]
+Overfull \hbox (52.37369pt too wide) in paragraph at lines 19--20
+[][] 
+ []
+
+[12]) (../542/CH1/EX1.7/Example_1_7.sce [13]) [14]
+Chapter 2.
+(../542/CH2/EX2.1/Example_2_1.sci [15
+
+]) (../542/CH2/EX2.2/Example_2_2.sci
+[16]) (../542/CH2/EX2.3/Example_2_3.sci [17]) [18]
+Chapter 3.
+(../542/CH3/EX3.1/Example_3_1.sci [19
+
+]) (../542/CH3/EX3.2/Example_3_2.sci
+[20]) (../542/CH3/EX3.3/Example_3_3.sci [21] [22])
+(../542/CH3/EX3.4/Example_3_4.sci [23]) [24] (../542/CH3/EX3.5/Example_3_5.sci)
+[25]
+Chapter 4.
+(../542/CH4/EX4.1/Example_4_1.sci [26
+
+]) [27]
+Chapter 5.
+(../542/CH5/EX5.1/Example_5_1.sci
+Overfull \hbox (22.73343pt too wide) in paragraph at lines 16--17
+[][] 
+ []
+
+[28
+
+]) (../542/CH5/EX5.2/Example_5_2.sci
+Overfull \hbox (0.50323pt too wide) in paragraph at lines 7--8
+[][] 
+ []
+
+
+Overfull \hbox (59.78375pt too wide) in paragraph at lines 8--9
+[][] 
+ []
+
+[29]
+Overfull \hbox (96.83408pt too wide) in paragraph at lines 30--31
+[][][] 
+ []
+
+) (../542/CH5/EX5.3/Example_5_3.sci [30]) [31]
+Chapter 6.
+(../542/CH6/EX6.1/Example_6_1.sci [32
+
+]) (../542/CH6/EX6.2/Example_6_2.sci
+[33]) (../542/CH6/EX6.3/Example_6_3.sci [34]) [35]
+(../542/CH6/EX6.4/Example_6_4.sci
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 5--7
+[][] 
+ []
+
+) (../542/CH6/EX6.5/Example_6_5.sci [36] [37])
+(../542/CH6/EX6.6/Example_6_6.sci [38]) [39]
+Chapter 7.
+(../542/CH7/EX7.1/Example_7_1.sci
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no … in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no … in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [40
+
+]
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no … in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no … in font cmr12!
+) [41] (../542/CH7/EX7.2/Example_7_2.sci
+[42]) (../542/CH7/EX7.3/Example_7_3.sci
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+ [43]) (../542/CH7/EX7.4/Example_7_4.sci [44]) (../542/CH7/EX7.5/Example_7_5.sc
+i
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+) [45]
+(../542/CH7/EX7.6/Example_7_6.sci [46]) (../542/CH7/EX7.7/Example_7_7.sci
+[47]) [48]
+Chapter 8.
+(../542/CH8/EX8.2/Example_8_2.sci [49
+
+]) (../542/CH8/EX8.3/Example_8_3.sci
+[50]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [51]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+) [52]
+Chapter 9.
+(../542/CH9/EX9.1/Example_9_1.sci) [53
+
+] (../542/CH9/EX9.3/Example_9_3.sci
+[54]) [55]
+Chapter 10.
+(../542/CH10/EX10.1/Example_10_1.sci) [56
+
+] (../542/CH10/EX10.2/Example_10_2.sci) [57] (../542/CH10/EX10.3/Example_10_3.s
+ci
+! Text line contains an invalid character.
+l.8 //^^B
+         Solvent discharged in overflow/Solvent discharged in underflow=  fo...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+[58]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+) (../542/CH10/EX10.4/Example_10_4.sci [59])
+(../542/CH10/EX10.5/Example_10_5.sci [60]) [61]
+Chapter 11.
+(../542/CH11/EX11.1/Example_11_1.sce) [62
+
+] (../542/CH11/EX11.2/Example_11_2.sce [63]) (../542/CH11/EX11.3/Example_11_3.s
+ce [64])
+(../542/CH11/EX11.4/Example_11_4.sce [65]) [66]
+(../542/CH11/EX11.5/Example_11_5.sce [67]) (../542/CH11/EX11.6/Example_11_6.sce
+[68]) (../542/CH11/EX11.7/Example_11_7.sce [69] [70])
+(../542/CH11/EX11.8/Example_11_8.sce [71] [72])
+(../542/CH11/EX11.9/Example_11_9.sce [73])
+(../542/CH11/EX11.10/Example_11_10.sce [74])
+(../542/CH11/EX11.11/Example_11_11.sce [75])
+(../542/CH11/EX11.12/Example_11_12.sci [76])
+(../542/CH11/EX11.13/Example_11_13.sce [77])
+(../542/CH11/EX11.14/Example_11_14.sci [78] [79] [80] [81] [82] [83] [84])
+(../542/CH11/EX11.15/Example_11_15.sci
+! Text line contains an invalid character.
+l.12 //sum(
+            xd)=sum(xd/K)
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+[85]
+Overfull \hbox (0.50323pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+
+Overfull \hbox (0.50323pt too wide) in paragraph at lines 25--26
+[][] 
+ []
+
+
+Overfull \hbox (44.96362pt too wide) in paragraph at lines 28--29
+[][] 
+ []
+
+[86] [87]
+Overfull \hbox (22.73343pt too wide) in paragraph at lines 83--84
+[][] 
+ []
+
+[88]) (../542/CH11/EX11.16/Example_11_16.sce [89] [90])
+(../542/CH11/EX11.17/Example_11_17.sce) [91]
+(../542/CH11/EX11.18/Example_11_18.sce [92])
+(../542/CH11/EX11.19/Example_11_19.sci) [93]
+(../542/CH11/EX11.20/Example_11_20.sce) [94]
+Chapter 12.
+(../542/CH12/EX12.1/Example_12_1.sci [95
+
+]) (../542/CH12/EX12.2/Example_12_2.sci [96]) [97] (../542/CH12/EX12.3/Example_
+12_3.sci [98])
+(../542/CH12/EX12.4/Example_12_4.sci) (../542/CH12/EX12.5/Example_12_5.sci
+[99]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [100]) (../542/CH12/EX12.6/Example_12_6.sci
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [101]) [102]
+Chapter 13.
+(../542/CH13/EX13.1/Example_13_1.sci
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [103
+
+]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+ [104]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+)
+(../542/CH13/EX13.3/Example_13_3.sci [105])
+(../542/CH13/EX13.4/Example_13_4.sci [106])
+(../542/CH13/EX13.5/Example_13_5.sci [107]) [108]
+Chapter 14.
+(../542/CH14/EX14.1/Example_14_1.sci [109
+
+] [110]
+! Text line contains an invalid character.
+l.33 printf("\n ^^D
+                   deltaT = %d deg K ",394-325);
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+) (../542/CH14/EX14.2A/Example_14_2a.sci
+! Text line contains an invalid character.
+l.5 ...o that the totaltemperature difference &^^D
+                                                  T = (394 âˆ’ 325) = 69deg K.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+! Text line contains an invalid character.
+l.11 ...uting the values of U1, U2 and U3 and &^^D
+                                                  T = 69 deg K gives:
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.16 ...e necessary to have a greater value of ^^D
+                                                  T1 than given by this anal...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.16 ...this analysis. It will be assumed that ^^D
+                                                  T1 = 18 deg K, ^^DT2 = 17 ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.16 ...will be assumed that ^^DT1 = 18 deg K, ^^D
+                                                  T2 = 17 deg K, ^^DT3 = 34 ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.16 ...at ^^DT1 = 18 deg K, ^^DT2 = 17 deg K, ^^D
+                                                  T3 = 34 deg K.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+[111]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [112]
+! Text line contains an invalid character.
+l.66 //delta^^D
+               T1 = 18 deg Kdelta ^^DT2 = 18 degK delta ^^DT3 = 33 deg K
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.66 //delta^^DT1 = 18 deg Kdelta ^^D
+                                     T2 = 18 degK delta ^^DT3 = 33 deg K
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.66 ... = 18 deg Kdelta ^^DT2 = 18 degK delta ^^D
+                                                  T3 = 33 deg K
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+[113]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+ [114]) (../542/CH14/EX14.2B/Example_14_2b.sci
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [115])
+(../542/CH14/EX14.3/Example_14_3.sci
+Missing character: There is no Î in font cmr12!
+Missing character: There is no · in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [116])
+(../542/CH14/EX14.4/Example_14_4.sci
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [117])
+(../542/CH14/EX14.5/Example_14_5.sci [118]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [119])
+(../542/CH14/EX14.6/Example_14_6.sci [120])
+(../542/CH14/EX14.7/Example_14_7.sci [121]) [122]
+Chapter 15.
+(../542/CH15/EX15.1/Example_15_1.sci) [123
+
+]
+(../542/CH15/EX15.2/Example_15_2.sci [124])
+(../542/CH15/EX15.3/Example_15_3.sci) (../542/CH15/EX15.4/Example_15_4.sci
+[125]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+) [126] (../542/CH15/EX15.5/Example_15_5.sci [127])
+(../542/CH15/EX15.6/Example_15_6.sci [128]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 18.
+
+(/usr/share/texmf/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 18.
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+)
+(../542/CH15/EX15.7/Example_15_7.sci
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+) (../542/CH15/EX15.8/Example_15_8.sci
+[129]) [130]
+Chapter 16.
+(../542/CH16/EX16.1/Example_16_1.sci [131
+
+])
+(../542/CH16/EX16.2/Example_16_2.sci [132])
+(../542/CH16/EX16.3/Example_16_3.sci
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [133]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [134])
+(../542/CH16/EX16.4/Example_16_4.sci [135])
+(../542/CH16/EX16.5/Example_16_5.sci [136]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [137] [138]
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no € in font cmr12!
+
+! Text line contains an invalid character.
+l.61 ...r, L is then: L = Q/(0.0625Ï€DG^(0.67)*^^[
+                                                  Tm)
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+) (../542/CH16/EX16.6/Example_16_6.sci [139]) [140]
+Chapter 17.
+(../542/CH17/EX17.1/Example_17_1.sci
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+ [141
+
+]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+)
+(../542/CH17/EX17.2/Example_17_2.sci [142]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ [143])
+(../542/CH17/EX17.3/Example_17_3.sci
+! Text line contains an invalid character.
+l.8   //f ^^F
+             (Cs ) = 10
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+[144]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no µ in font cmr12!
+
+! Text line contains an invalid character.
+l.33 //f^^F
+           (C)=2* 10^4* C.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.34 //As C increases, f ^^F
+                            (C) increases such that, in a given time, z for ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+[145]) (../542/CH17/EX17.5/Example_17_5.sce
+! Text line contains an invalid character.
+l.4 //let x = [f^^F
+                   (C)]mean
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+[146]) [147]
+Chapter 18.
+(../542/CH18/EX18.1/Example_18_1.sci
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no € in font cmr12!
+ [148
+
+]
+! Text line contains an invalid character.
+l.27 //CS/CS*=[^^G
+                  1 âˆ’ exp(âˆ’ÎºDR/tri^2)]^^^B^^H0.5
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no º in font cmr12!
+! Text line contains an invalid character.
+l.27 //CS/CS*=[^^G1 âˆ’ exp(âˆ’ÎºDR/tri^2)]^^^B
+                                               ^^H0.5
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.27 //CS/CS*=[^^G1 âˆ’ exp(âˆ’ÎºDR/tri^2)]^^^B^^H
+                                                  0.5
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Î in font cmr12!
+Missing character: There is no º in font cmr12!
+) (../542/CH18/EX18.2/Example_18_2.sci [149]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+) [150] (./SAN_final.aux) ) 
+Here is how much of TeX's memory you used:
+ 10512 strings out of 256216
+ 148049 string characters out of 1917073
+ 325592 words of memory out of 1500000
+ 9579 multiletter control sequences out of 10000+200000
+ 10548 words of font info for 37 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 29i,7n,40p,471b,2422s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf/fonts/typ
+e1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></us
+r/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf/fonts/type1/bl
+uesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/sha
+re/texmf/fonts/type1/bluesky/cm/cmtt12.pfb>
+Output written on SAN_final.pdf (151 pages, 921252 bytes).
+PDF statistics:
+ 5083 PDF objects out of 5155 (max. 8388607)
+ 3797 named destinations out of 4296 (max. 131072)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+

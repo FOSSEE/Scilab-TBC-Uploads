@@ -1,0 +1,7 @@
+
+ # Material Removal Rate and Torque in Drilling # 
+
+
+ Material Removal Rate 209=mm^3/sec
+
+ Torque on the drill 1.250000=Nm 

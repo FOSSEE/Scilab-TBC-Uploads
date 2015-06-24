@@ -1,0 +1,5 @@
+bit error probability    
+ 
+ Pe =   
+ 
+    0.0015654 

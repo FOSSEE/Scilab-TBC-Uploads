@@ -1,0 +1,9 @@
+ Answers are:   
+ 
+    1.0058    1.0021  
+    0.9947    0.9982  
+    0.9979    0.9992  
+
+Number of Iterations :   
+ 
+    6.

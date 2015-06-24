@@ -1,0 +1,13 @@
+
+case(i) when the losses are included but not coordinated
+Pg1=274.54 MW    Pg2=37.50 MW
+
+case(ii) when the losses are coordinated
+Pg1=128.57 MW    Pg2=125.00 MW
+
+Saving at plant 1 due to loss coordination is = Rs 2923.94/hr
+
+Saving at plant 2 due to loss coordination is = Rs -2034.38/hr
+
+The net saving achieved by coordinating losses while scheduling the recieved load of 237.04MW is Rs 889.56/hr 
+

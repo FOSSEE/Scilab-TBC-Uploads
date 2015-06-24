@@ -1,0 +1,8 @@
+1#Introduction#1.5#Example 5#example_1_5.sce#83/CH1/EX1.5/example_1_5.sce#S##3228
+1#Introduction#1.5#Example 5#result_example_1_5.txt#83/CH1/EX1.5/result_example_1_5.txt#R##3229
+1#Introduction#1.4#Example 4#example_1_4.sce#83/CH1/EX1.4/example_1_4.sce#S##3226
+1#Introduction#1.4#Example 4#result_example_1_4.txt#83/CH1/EX1.4/result_example_1_4.txt#R##3227
+1#Introduction#1.3#Example 3#example_1_3.sce#83/CH1/EX1.3/example_1_3.sce#S##3224
+1#Introduction#1.3#Example 3#result_example_1_3.txt#83/CH1/EX1.3/result_example_1_3.txt#R##3225
+1#Introduction#1.1#Example 1#example_1_1.sce#83/CH1/EX1.1/example_1_1.sce#S##3222
+1#Introduction#1.1#Example 1#result_example_1_1.txt#83/CH1/EX1.1/result_example_1_1.txt#R##3223

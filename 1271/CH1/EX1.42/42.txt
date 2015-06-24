@@ -1,0 +1,2 @@
+﻿
+ The radius of smallest dark ring = 0.589790 mm.

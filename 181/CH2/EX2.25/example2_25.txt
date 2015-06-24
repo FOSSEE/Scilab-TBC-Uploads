@@ -1,0 +1,2 @@
+Forward current through the diode = 5.960e-002 A
+Static resistance = 1.461e+005 ohm 

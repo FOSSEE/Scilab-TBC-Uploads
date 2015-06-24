@@ -1,0 +1,2 @@
+Average LED current is 13.1 mAmperes 
+Power dissipated is 0.588 watts

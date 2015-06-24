@@ -1,0 +1,96 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example14.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            24   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 14    :  Show the use of generating signals and how the system can be made to catch it  
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat signal.c      # to open the file emp.lst /* Program: signal.c -- Waits for 5 seconds for user input and then generates SIGALRM that has a handler specified */
+#include <stdio.h>
+#include <unistd.h>
+#include <signal.h>
+#define BUFSIZE 100
+
+void alrm_handler(int signo);    /* Prototypes declarations for */
+void quit(char *message,int exit_status);  /*signal handler and quit */
+
+char buf[BUFSIZE] = "foo\0";         /* Global variable */
+int main(void) {
+    int n;
+    if (signal(SIGALRM, alrm_handler) == SIG_ERR)   /* signal returns SIG_ERR */
+    quit("sigalrm",1);                              /*on error*/
+    
+    fprintf(stderr, "Enter filename: ");
+    alarm(5);                       /* Sets alarm clock;will deliver */
+    n = read(STDIN_FILENO, buf, BUFSIZE); /* SIGALRM in 5 seconds */
+    if (n>1)                               /* Will come here if user inputs */
+         printf("Filename: %s\n",buf);     /* string within 5 seconds */
+    exit(0);
+}
+
+void alrm_handler(int signo) {      /* Invoked with process recieves SIGALRM */
+        signal(SIGALRM, alrm_handler);  /* Resetting signal handler */
+        fprintf(stderr, "\nSignal %d reeived, default filename: %s\n", signo, buf);
+        exit(1);
+}
+ $ cc signal.c $ a.out  Enter filename:  signal.log [-ENTER-]
+Filename: signal.log$ a.out Enter filename:                  # Nothing entered in 5 seconds 
+Signal 14 received, default filename: foo $ kill -l | grep 14                      # What is signal 14 13) SIGPIPE      14) SIGALRM       15) SIGTERM        16) SIGUSRI
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+ 
+-->diary(0)

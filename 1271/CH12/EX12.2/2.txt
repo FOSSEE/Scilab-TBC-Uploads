@@ -1,0 +1,2 @@
+ Mass attenuation coefficient of Al for this radiation is 5.795590e-03 m^2/kg.
+ Half value thickness is 0.044287 meter.

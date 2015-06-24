@@ -1,0 +1,1 @@
+﻿ Specific rotation of sugar solution = 66.000000 degree/(dm-cc)

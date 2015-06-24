@@ -1,0 +1,11 @@
+ Critical voltage(in kV) =   
+ 
+    1.4810395  
+ 
+ Breakdown Voltage (in kV) =   
+ 
+    2.9620791  
+ 
+ Breakdown Electric field (in V/cm) =   
+ 
+    3.703D+08  

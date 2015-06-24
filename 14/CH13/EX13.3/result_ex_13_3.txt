@@ -1,0 +1,67 @@
+ One third of minimum fault current in A   
+ 
+    55.023923  
+ 
+ For CT ratio 50/5 resulting relay current in A will be   
+ 
+    5.0021749  
+ 
+ Settings for relay R4   
+ 
+ CT ratio = 50:5   
+ 
+ Pick up setting in A = 5   
+ 
+ Time-dial setting = 1/2   
+ 
+ The relay current of both R3 and R4 for higest fault current seen by R4   
+ 
+    30.065788  
+ 
+ Operating time for R4 with time dial setting 1/2 in sec is   
+ 
+    0.135  
+ 
+ Required operating time of relay R3   
+ 
+    0.435  
+ 
+ Settings for relay R3   
+ 
+ CT ratio = 50:5   
+ 
+ Pick up setting in A = 5   
+ 
+ Time-dial setting = 2   
+ 
+ Pickup setting in A   
+ 
+    3.9655172  
+ 
+ Reatio of relay current to picup setting in A for max fault current through R3   
+ 
+    8.6134419  
+ 
+ Operating time of R2 in sec   
+ 
+    0.61  
+ 
+ For backing up R3 the ratio of relay current to pickup setting of R2 in A   
+ 
+    5.3834012  
+ 
+ Settings for relay R2   
+ 
+ CT ratio = 100:5   
+ 
+ Pick up setting in A = 4   
+ 
+ Time-dial setting = 2.6   
+ 
+ Settings for relay R1   
+ 
+ CT ratio = 100:5   
+ 
+ Pick up setting in A = 5   
+ 
+ Time-dial setting = 2.9   

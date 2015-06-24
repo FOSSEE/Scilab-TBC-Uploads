@@ -1,0 +1,5 @@
+ 
+ Example 8.6
+ Material removal rate is 105000 mm^3/min.
+ power required in milling is 1.925 kW.
+ Required time for milling is 1.22 min. 

@@ -1,0 +1,32 @@
+  
+ R_O (in ohms)=   
+ 
+    781.25  
+ 
+ X_O Magnetising reactance (in ohms)=   
+ 
+    216.16077  
+ 
+ Equivalent Resistance reffered to LV Side (in ohms)=   
+ 
+    0.2375  
+ 
+ Equivalent Reactance reffered to LV Side (in ohms)   
+ 
+    0.5781166  
+ 
+ Voltage Regulation at full load (in %)=   
+ 
+    5.1539514  
+ 
+ Voltage Regulation at half load (in %)=   
+ 
+    2.5769757  
+ 
+ Efficiency at full load (in %)=   
+ 
+    95.454365  
+ 
+ Efficiency at half load (in %)=   
+ 
+    95.343247  

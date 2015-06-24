@@ -1,0 +1,24 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('/home/home438/Pictures/Chapter_14/Example_14_8/example_14_8.sce', -1)
+ 
+ The power angle equations for different times of fault are   
+
+ Before the fault : 	 Pmax * sin(delta) = 2.100 * sin(delta)
+
+ During the fault : 	 r1 * Pmax * sin(delta) = 0.808 * sin(delta)
+
+ After the fault : 	 r2 * Pmax * sin(delta) = 1.500 * sin(delta)
+
+
+ r1 = 0.385 
+ r2 = 0.714 
+
+
+ delta_max = 2.412 rad 
+ cos(delta_cr) = 0.126 
+
+ Critical clearing angle is 82.780 degrees 
+-->diary(0)

@@ -1,0 +1,3 @@
+  Example 17.2
+
+ Electrical Conductivity is 0.52 (Ohm-m)^-1

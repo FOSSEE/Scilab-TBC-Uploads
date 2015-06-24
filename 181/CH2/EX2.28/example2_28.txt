@@ -1,0 +1,2 @@
+(a)Maximum forward current = 2.78 A
+(b)Forward diode resistance = 0.517 ohm 

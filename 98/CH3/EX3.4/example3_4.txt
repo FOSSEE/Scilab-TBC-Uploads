@@ -1,0 +1,7 @@
+(i)	 Reserve capacity of plant = 5.0 MW 
+
+(ii)	 Daily energy produced = 360.0 MWh 
+
+(iii)	 Maximum energy produced = 500.0 MWh/day 
+
+

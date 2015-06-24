@@ -1,0 +1,2 @@
+E_f = ((-E_g/2) - 0.014) eV
+Thus Fermi level is below center of forbidden gap by 0.014 eV 

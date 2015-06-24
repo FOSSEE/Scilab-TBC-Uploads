@@ -1,0 +1,5 @@
+ # # PROBLEM 45 # 
+Standard formula used 
+  lambda = h/(3*m*k*T)^1/2
+
+ Ratio of de-Broglie wavelengths is 2 .

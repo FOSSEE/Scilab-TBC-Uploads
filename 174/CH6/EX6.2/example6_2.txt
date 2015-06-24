@@ -1,0 +1,6 @@
+(a)  The rms value of the sawtooth wave = 86 V 
+The average value of the sawtooth wave = 75 V
+The form factor of the sawtooth wave =1.155
+(b)  The ratio of the two form factors = 0.961
+The meter indication is low by a factor of 0.961
+The percentage error in meter indication = -3.9 % 

@@ -1,0 +1,12 @@
+ 
+ Average carrier power  =   
+ 
+    1.37641  
+ 
+ watts   
+ 
+ Channel Bandwidth  =   
+ 
+    1.  
+ 
+ MHz 

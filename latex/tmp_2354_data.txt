@@ -1,0 +1,107 @@
+18#Heat transfer by radiation#18.9#9#18_9.sce#2354/CH18/EX18.9/18_9.sce#S##82807
+18#Heat transfer by radiation#18.8#8#18_8.sce#2354/CH18/EX18.8/18_8.sce#S##82806
+18#Heat transfer by radiation#18.7#7#18_7.sce#2354/CH18/EX18.7/18_7.sce#S##82805
+18#Heat transfer by radiation#18.6#6#18_6.sce#2354/CH18/EX18.6/18_6.sce#S##82804
+18#Heat transfer by radiation#18.5#5#18_5.sce#2354/CH18/EX18.5/18_5.sce#S##82803
+18#Heat transfer by radiation#18.4#4#18_4.sce#2354/CH18/EX18.4/18_4.sce#S##82802
+18#Heat transfer by radiation#18.2#2#18_2.sce#2354/CH18/EX18.2/18_2.sce#S##82801
+18#Heat transfer by radiation#18.10#10#18_10.sce#2354/CH18/EX18.10/18_10.sce#S##82808
+18#Heat transfer by radiation#18.1#1#18_1.sce#2354/CH18/EX18.1/18_1.sce#S##82800
+17#Heat transfer by Convection#17.9#9#17_9.sce#2354/CH17/EX17.9/17_9.sce#S##82793
+17#Heat transfer by Convection#17.7#7#17_7.sce#2354/CH17/EX17.7/17_7.sce#S##82792
+17#Heat transfer by Convection#17.6#6#17_6.sce#2354/CH17/EX17.6/17_6.sce#S##82791
+17#Heat transfer by Convection#17.5#5#17_5.sce#2354/CH17/EX17.5/17_5.sce#S##82790
+17#Heat transfer by Convection#17.4#4#17_4.sce#2354/CH17/EX17.4/17_4.sce#S##82789
+17#Heat transfer by Convection#17.3#3#17_3.sce#2354/CH17/EX17.3/17_3.sce#S##87931
+17#Heat transfer by Convection#17.2#2#17_2.sce#2354/CH17/EX17.2/17_2.sce#S##82787
+17#Heat transfer by Convection#17.15#15#17_15.sce#2354/CH17/EX17.15/17_15.sce#S##82799
+17#Heat transfer by Convection#17.14#14#17_14.sce#2354/CH17/EX17.14/17_14.sce#S##82798
+17#Heat transfer by Convection#17.13#13#17_13.sce#2354/CH17/EX17.13/17_13.sce#S##82797
+17#Heat transfer by Convection#17.12#12#17_12.sce#2354/CH17/EX17.12/17_12.sce#S##82796
+17#Heat transfer by Convection#17.11#11#17_11.sce#2354/CH17/EX17.11/17_11.sce#S##82795
+17#Heat transfer by Convection#17.10#10#17_10.sce#2354/CH17/EX17.10/17_10.sce#S##82794
+17#Heat transfer by Convection#17.1#1#17_1.sce#2354/CH17/EX17.1/17_1.sce#S##82786
+16#Heat Transfer by Conduction#16.9#9#16_9.sce#2354/CH16/EX16.9/16_9.sce#S##87929
+16#Heat Transfer by Conduction#16.8#8#16_8.sce#2354/CH16/EX16.8/16_8.sce#S##82778
+16#Heat Transfer by Conduction#16.7#7#16_7.sce#2354/CH16/EX16.7/16_7.sce#S##82777
+16#Heat Transfer by Conduction#16.6#6#16_6.sce#2354/CH16/EX16.6/16_6.sce#S##82776
+16#Heat Transfer by Conduction#16.4#4#16_4.sce#2354/CH16/EX16.4/16_4.sce#S##82775
+16#Heat Transfer by Conduction#16.3#3#16_3.sce#2354/CH16/EX16.3/16_3.sce#S##82774
+16#Heat Transfer by Conduction#16.2#2#16_2.sce#2354/CH16/EX16.2/16_2.sce#S##82772
+16#Heat Transfer by Conduction#16.10#10#16_10.sce#2354/CH16/EX16.10/16_10.sce#S##87930
+16#Heat Transfer by Conduction#16.1#1#16_1.sce#2354/CH16/EX16.1/16_1.sce#S##82771
+15#Getting Started in Heat Transfer#15.6#6#15_6.sce#2354/CH15/EX15.6/15_6.sce#S##82770
+15#Getting Started in Heat Transfer#15.5#5#15_5.sce#2354/CH15/EX15.5/15_5.sce#S##82769
+15#Getting Started in Heat Transfer#15.2#2#15_2.sce#2354/CH15/EX15.2/15_2.sce#S##82768
+15#Getting Started in Heat Transfer#15.1#1#15_1.sce#2354/CH15/EX15.1/15_1.sce#S##82767
+14#Internal and External Flow#14.9#9#14_9.sce#2354/CH14/EX14.9/14_9.sce#S##82785
+14#Internal and External Flow#14.8#8#14_8.sce#2354/CH14/EX14.8/14_8.sce#S##82784
+14#Internal and External Flow#14.7#7#14_7.sce#2354/CH14/EX14.7/14_7.sce#S##82783
+14#Internal and External Flow#14.3#3#14_3.sce#2354/CH14/EX14.3/14_3.sce#S##82782
+14#Internal and External Flow#14.2#2#14_2.sce#2354/CH14/EX14.2/14_2.sce#S##82781
+14#Internal and External Flow#14.1#1#14_1.sce#2354/CH14/EX14.1/14_1.sce#S##82780
+12#The Momentum and Mechanical Energy Equations#12.9#9#12_9.sce#2354/CH12/EX12.9/12_9.sce#S##82766
+12#The Momentum and Mechanical Energy Equations#12.8#8#12_8.sce#2354/CH12/EX12.8/12_8.sce#S##82765
+12#The Momentum and Mechanical Energy Equations#12.7#7#12_7.sce#2354/CH12/EX12.7/12_7.sce#S##82764
+12#The Momentum and Mechanical Energy Equations#12.6#6#12_6.sce#2354/CH12/EX12.6/12_6.sce#S##82763
+12#The Momentum and Mechanical Energy Equations#12.5#5#12_5.sce#2354/CH12/EX12.5/12_5.sce#S##82762
+12#The Momentum and Mechanical Energy Equations#12.3#3#12_3.sce#2354/CH12/EX12.3/12_3.sce#S##82761
+12#The Momentum and Mechanical Energy Equations#12.2#2#12_2.sce#2354/CH12/EX12.2/12_2.sce#S##82760
+12#The Momentum and Mechanical Energy Equations#12.1#1#12_1.sce#2354/CH12/EX12.1/12_1.sce#S##82759
+11#Getting Started in Fluid Mechanics#11.3#3#11_3.sce#2354/CH11/EX11.3/11_3.sce#S##82758
+11#Getting Started in Fluid Mechanics#11.2#2#11_2.sce#2354/CH11/EX11.2/11_2.sce#S##82757
+11#Getting Started in Fluid Mechanics#11.1#1#11_1.sce#2354/CH11/EX11.1/11_1.sce#S##82756
+10#Psychrometric Operations#10.7#7#10_7.sce#2354/CH10/EX10.7/10_7.sce#S##82755
+10#Psychrometric Operations#10.6#6#10_6.sce#2354/CH10/EX10.6/10_6.sce#S##82754
+10#Psychrometric Operations#10.5#5#10_5.sce#2354/CH10/EX10.5/10_5.sce#S##82753
+10#Psychrometric Operations#10.4#4#10_4.sce#2354/CH10/EX10.4/10_4.sce#S##82752
+10#Psychrometric Operations#10.3#3#10_3.sce#2354/CH10/EX10.3/10_3.sce#S##82751
+10#Psychrometric Operations#10.2#2#10_2.sce#2354/CH10/EX10.2/10_2.sce#S##82750
+10#Psychrometric Operations#10.1#1#10_1.sce#2354/CH10/EX10.1/10_1.sce#S##82749
+9#Gas Power Systems#9.6#6#9_6.sce#2354/CH9/EX9.6/9_6.sce#S##82741
+9#Gas Power Systems#9.5#5#9_5.sce#2354/CH9/EX9.5/9_5.sce#S##82740
+9#Gas Power Systems#9.4#4#9_4.sce#2354/CH9/EX9.4/9_4.sce#S##82739
+9#Gas Power Systems#9.3#3#9_3.sce#2354/CH9/EX9.3/9_3.sce#S##82738
+9#Gas Power Systems#9.2#2#9_2.sce#2354/CH9/EX9.2/9_2.sce#S##82737
+9#Gas Power Systems#9.1#1#9_1.sce#2354/CH9/EX9.1/9_1.sce#S##82736
+8#Vapor Power and Refrigeration Sysytem#8.7#7#8_7.sce#2354/CH8/EX8.7/8_7.sce#S##82748
+8#Vapor Power and Refrigeration Sysytem#8.6#6#8_6.sce#2354/CH8/EX8.6/8_6.sce#S##82747
+8#Vapor Power and Refrigeration Sysytem#8.5#5#8_5.sce#2354/CH8/EX8.5/8_5.sce#S##82746
+8#Vapor Power and Refrigeration Sysytem#8.4#4#8_4.sce#2354/CH8/EX8.4/8_4.sce#S##82745
+8#Vapor Power and Refrigeration Sysytem#8.3#3#8_3.sce#2354/CH8/EX8.3/8_3.sce#S##82744
+8#Vapor Power and Refrigeration Sysytem#8.2#2#8_2.sce#2354/CH8/EX8.2/8_2.sce#S##82743
+8#Vapor Power and Refrigeration Sysytem#8.1#1#8_1.sce#2354/CH8/EX8.1/8_1.sce#S##82742
+7#Using Entropy#7.9#9#7_9.sce#2354/CH7/EX7.9/7_9.sce#S##82733
+7#Using Entropy#7.8#8#7_8.sce#2354/CH7/EX7.8/7_8.sce#S##82732
+7#Using Entropy#7.6#6#7_6.sce#2354/CH7/EX7.6/7_6.sce#S##82731
+7#Using Entropy#7.5#5#7_5.sce#2354/CH7/EX7.5/7_5.sce#S##82730
+7#Using Entropy#7.4#4#7_4.sce#2354/CH7/EX7.4/7_4.sce#S##82729
+7#Using Entropy#7.2#2#7_2.sce#2354/CH7/EX7.2/7_2.sce#S##82728
+7#Using Entropy#7.13#13#7_13.sce#2354/CH7/EX7.13/7_13.sce#S##82735
+7#Using Entropy#7.10#10#7_10.sce#2354/CH7/EX7.10/7_10.sce#S##82734
+7#Using Entropy#7.1#1#7_1.sce#2354/CH7/EX7.1/7_1.sce#S##82727
+6#The Second Law of Thermodynamics#6.3#3#6_3.sce#2354/CH6/EX6.3/6_3.sce#S##82726
+6#The Second Law of Thermodynamics#6.2#2#6_2.sce#2354/CH6/EX6.2/6_2.sce#S##82725
+6#The Second Law of Thermodynamics#6.1#1#6_1.sce#2354/CH6/EX6.1/6_1.sce#S##82724
+5#Control Volume Analysis Using Energy#5.9#9#5_9.sce#2354/CH5/EX5.9/5_9.sce#S##82723
+5#Control Volume Analysis Using Energy#5.8#8#5_8.sce#2354/CH5/EX5.8/5_8.sce#S##82722
+5#Control Volume Analysis Using Energy#5.7#7#5_7.sce#2354/CH5/EX5.7/5_7.sce#S##82721
+5#Control Volume Analysis Using Energy#5.5#5#5_5.sce#2354/CH5/EX5.5/5_5.sce#S##82720
+5#Control Volume Analysis Using Energy#5.4#4#5_4.sce#2354/CH5/EX5.4/5_4.sce#S##82719
+5#Control Volume Analysis Using Energy#5.3#3#5_3.sce#2354/CH5/EX5.3/5_3.sce#S##82718
+5#Control Volume Analysis Using Energy#5.1#1#5_1.sce#2354/CH5/EX5.1/5_1.sce#S##82717
+4#Evaluating Properties#4.8#8#4_8.sce#2354/CH4/EX4.8/4_8.sce#S##82714
+4#Evaluating Properties#4.7#7#4_7.sce#2354/CH4/EX4.7/4_7.sce#S##82712
+4#Evaluating Properties#4.6#6#4_6.sce#2354/CH4/EX4.6/4_6.sce#S##82713
+4#Evaluating Properties#4.4#4#4_4.sce#2354/CH4/EX4.4/4_4.sce#S##82711
+4#Evaluating Properties#4.3#3#4_3.sce#2354/CH4/EX4.3/4_3.sce#S##82710
+4#Evaluating Properties#4.2#2#4_2.sce#2354/CH4/EX4.2/4_2.sce#S##82709
+4#Evaluating Properties#4.11#11#4_11.sce#2354/CH4/EX4.11/4_11.sce#S##82716
+4#Evaluating Properties#4.10#10#4_10.sce#2354/CH4/EX4.10/4_10.sce#S##82715
+4#Evaluating Properties#4.1#1#4_1.sce#2354/CH4/EX4.1/4_1.sce#S##82708
+3#Using Energy and First Law of thermodynamics#3.6#6#3_6.sce#2354/CH3/EX3.6/3_6.sce#S##82707
+3#Using Energy and First Law of thermodynamics#3.5#5#3_5.sce#2354/CH3/EX3.5/3_5.sce#S##82706
+3#Using Energy and First Law of thermodynamics#3.4#4#3_4.sce#2354/CH3/EX3.4/3_4.sce#S##82705
+3#Using Energy and First Law of thermodynamics#3.3#3#3_3.sce#2354/CH3/EX3.3/3_3.sce#S##82704
+3#Using Energy and First Law of thermodynamics#3.2#2#3_2.sce#2354/CH3/EX3.2/3_2.sce#S##82703
+3#Using Energy and First Law of thermodynamics#3.1#1#3_1.sce#2354/CH3/EX3.1/3_1.sce#S##82702

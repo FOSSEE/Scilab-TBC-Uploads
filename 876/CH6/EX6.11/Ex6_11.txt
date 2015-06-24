@@ -1,0 +1,7 @@
+(a)output voltage after 1sec(in V)=   
+ 
+    10.  
+ 
+ (b)fall time reference voltage waveform(in second)=   
+ 
+    0.2 

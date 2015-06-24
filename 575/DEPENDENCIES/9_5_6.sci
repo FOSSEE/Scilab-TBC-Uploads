@@ -1,0 +1,12 @@
+x=0.1
+y=0.2
+MAcid=98.1
+MS=32
+MSalt=142
+MBase=40
+MWater=18
+MNa=46
+basis=1000 //g
+T2=35
+T1=25
+T3=40

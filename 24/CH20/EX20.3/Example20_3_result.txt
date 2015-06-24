@@ -1,0 +1,5 @@
+**Sample Problem 20-3a**
+The average value of numbers is 40.80
+
+**Sample Problem 20-3b**
+The rms value of numbers is 52.12 

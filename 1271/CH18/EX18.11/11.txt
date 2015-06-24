@@ -1,0 +1,5 @@
+ # PROBLEM 11 # 
+Standard formula used 
+ B = mu*N*I 
+
+ Current through the winding is 3.846154 A. 

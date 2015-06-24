@@ -1,0 +1,20 @@
+clear;
+clc;
+f=5000;
+w=2*%pi*f;
+R=3;
+L=60*10^-6;
+xie=R/(2*L);
+C=7.5*10^-6;
+w_o=1/sqrt(L*C);
+w_r=sqrt(w_o^2-xie^2);
+t1=%pi/(2*w_r);
+V_s=220;
+V_co=80;
+I_omx=(V_s+V_co)*exp(-xie*t1)/(w_r*L);
+I_rms=I_omx/sqrt(2);
+P=I_rms^2*R;    printf("load power=%.2f W",P);
+printf("\nrms value of thyristor current=%.3f A",I_omx/2);
+I_SA=P/V_s;
+printf("\navg thyristor current=%.3f A",I_SA/2);
+//error in the book. wrong values are placed in the I_omx formulae. so all answer varies

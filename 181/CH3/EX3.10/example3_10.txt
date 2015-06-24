@@ -1,0 +1,1 @@
+Full scale reading = 5.02 V

@@ -1,0 +1,7 @@
+ 
+ example 13 10   
+ 
+ a   
+fault current 5524.88ohm 
+ b   
+reactance required 1.1495ohm 

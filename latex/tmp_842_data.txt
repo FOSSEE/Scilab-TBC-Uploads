@@ -1,0 +1,124 @@
+11#Linear Feedback Systems#11.9#Gain and Phase Margins#Example11_9.sce#842/CH11/EX11.9/Example11_9.sce#S##32394
+11#Linear Feedback Systems#11.8#Nyquist Plot#Example11_8.sce#842/CH11/EX11.8/Example11_8.sce#S##32393
+11#Linear Feedback Systems#11.7#Nyquist Plot#Example11_7.sce#842/CH11/EX11.7/Example11_7.sce#S##32392
+11#Linear Feedback Systems#11.6#Nyquist Plot#Example11_6.sce#842/CH11/EX11.6/Example11_6.sce#S##32391
+11#Linear Feedback Systems#11.5#Bode Plot#Example11_5Bode.sce#842/CH11/EX11.5/Example11_5Bode.sce#S##32389
+11#Linear Feedback Systems#11.3#Discrete time system#Example11_3.sce#842/CH11/EX11.3/Example11_3.sce#S##32388
+11#Linear Feedback Systems#11.2#Continuous Time Systems#Example11_2.sce#842/CH11/EX11.2/Example11_2.sce#S##32387
+11#Linear Feedback Systems#11.1#Root locus Analysis of Linear Feedback Systems#Example11_1.sce#842/CH11/EX11.1/Example11_1.sce#S##32386
+11#Linear Feedback Systems#11.09#Root locus analysis of Linear feedback systems#Figure11_09.sce#842/CH11/EX11.09/Figure11_09.sce#S##32395
+11#Linear Feedback Systems#11.05#Nyquist criterion for Continuous Time Systems#Example11_05Nyquist.sce#842/CH11/EX11.05/Example11_05Nyquist.sce#S##32390
+10#The Z Transform#10.9#clear#Example10_9.sce#842/CH10/EX10.9/Example10_9.sce#S##32373
+10#The Z Transform#10.7#Z transform of x[n]#Example10_7.sce#842/CH10/EX10.7/Example10_7.sce#S##32372
+10#The Z Transform#10.6#Z transform of x[n]#Example10_6.sce#842/CH10/EX10.6/Example10_6.sce#S##32371
+10#The Z Transform#10.5#Z-transform of Impulse Sequence#Example10_5.sce#842/CH10/EX10.5/Example10_5.sce#S##32370
+10#The Z Transform#10.4#Z-transform of sine signal#Example10_4.sce#842/CH10/EX10.4/Example10_4.sce#S##32369
+10#The Z Transform#10.37#Output response of an LTI System#Example10_37.sce#842/CH10/EX10.37/Example10_37.sce#S##32385
+10#The Z Transform#10.36#Output response of an LTI System#Example10_36.sce#842/CH10/EX10.36/Example10_36.sce#S##32384
+10#The Z Transform#10.34#Unilateral Ztransform- partial fraction#Example10_34.sce#842/CH10/EX10.34/Example10_34.sce#S##32383
+10#The Z Transform#10.33#Differentiation Property of Unilateral Ztransform#Example10_33.sce#842/CH10/EX10.33/Example10_33.sce#S##32382
+10#The Z Transform#10.3#Z transform of x[n]#Example10_3.sce#842/CH10/EX10.3/Example10_3.sce#S##32368
+10#The Z Transform#10.25#Coefficient Difference equations#Example10_25.sce#842/CH10/EX10.25/Example10_25.sce#S##32381
+10#The Z Transform#10.23#Inverse Z Transform H(z) =z/z-a#Example10_23.sce#842/CH10/EX10.23/Example10_23.sce#S##32380
+10#The Z Transform#10.2#Z transform of x[n] = -a^n. u[-n-1]#Example10_2.sce#842/CH10/EX10.2/Example10_2.sce#S##32367
+10#The Z Transform#10.19#Z Transform : Initial Value Theorem#Example10_19.sce#842/CH10/EX10.19/Example10_19.sce#S##32379
+10#The Z Transform#10.18#Ztransform-Differentiation Property#Example10_18.sce#842/CH10/EX10.18/Example10_18.sce#S##32378
+10#The Z Transform#10.13#Inverse z tranform of InFinite duration discrete sequence#Example10_13.sce#842/CH10/EX10.13/Example10_13.sce#S##32377
+10#The Z Transform#10.12#Inverse z tranform#Example10_12.sce#842/CH10/EX10.12/Example10_12.sce#S##32376
+10#The Z Transform#10.11#Inverse Z Transform#Example10_11.sce#842/CH10/EX10.11/Example10_11.sce#S##32375
+10#The Z Transform#10.10#Inverse Z Transform#Example10_10.sce#842/CH10/EX10.10/Example10_10.sce#S##32374
+10#The Z Transform#10.1#Ztransform of x[n]#Example10_1.sce#842/CH10/EX10.1/Example10_1.sce#S##32366
+9#The Laplace Transform#9.9#clear#Example9_9.sce#842/CH9/EX9.9/Example9_9.sce#S##32345
+9#The Laplace Transform#9.8#clear#Example9_8.sce#842/CH9/EX9.8/Example9_8.sce#S##32344
+9#The Laplace Transform#9.7#clear#Example9_7.sce#842/CH9/EX9.7/Example9_7.sce#S##32343
+9#The Laplace Transform#9.6#clear#Example9_6.sce#842/CH9/EX9.6/Example9_6.sce#S##32342
+9#The Laplace Transform#9.5#clear#Example9_5.sce#842/CH9/EX9.5/Example9_5.sce#S##32341
+9#The Laplace Transform#9.4#clear#Example9_4.sce#842/CH9/EX9.4/Example9_4.sce#S##32340
+9#The Laplace Transform#9.38#clear#Example9_38.sce#842/CH9/EX9.38/Example9_38.sce#S##32365
+9#The Laplace Transform#9.37#clear#Example9_37.sce#842/CH9/EX9.37/Example9_37.sce#S##32364
+9#The Laplace Transform#9.36#clear#Example9_36.sce#842/CH9/EX9.36/Example9_36.sce#S##32363
+9#The Laplace Transform#9.35#clear#Example9_35.sce#842/CH9/EX9.35/Example9_35.sce#S##32362
+9#The Laplace Transform#9.34#Unilateral Laplace Transform#Example9_34.sce#842/CH9/EX9.34/Example9_34.sce#S##32361
+9#The Laplace Transform#9.33#Unilateral Laplace Transform#Example9_33.sce#842/CH9/EX9.33/Example9_33.sce#S##32360
+9#The Laplace Transform#9.31#Partial Fraction#Example9_31.sce#842/CH9/EX9.31/Example9_31.sce#S##32359
+9#The Laplace Transform#9.3#Lapalce Transform x(t)#Example9_3.sce#842/CH9/EX9.3/Example9_3.sce#S##32339
+9#The Laplace Transform#9.25#Finding Transfer function H(S) of LTI system#Example9_25.sce#842/CH9/EX9.25/Example9_25.sce#S##32358
+9#The Laplace Transform#9.21#Analysis and Characterization of LTI System#Example9_21.sce#842/CH9/EX9.21/Example9_21.sce#S##32357
+9#The Laplace Transform#9.20#Inverse Lapalce Transform#Example9_20.sce#842/CH9/EX9.20/Example9_20.sce#S##32356
+9#The Laplace Transform#9.2#Lapalce Transform x(t)#Example9_2.sce#842/CH9/EX9.2/Example9_2.sce#S##32337
+9#The Laplace Transform#9.19#Analysis and Characterization of LTI System#Example9_19.sce#842/CH9/EX9.19/Example9_19.sce#S##32355
+9#The Laplace Transform#9.18#Analysis and Characterization of LTI System#Example9_18.sce#842/CH9/EX9.18/Example9_18.sce#S##32354
+9#The Laplace Transform#9.17#Analysis and Characterization of LTI System#Example9_17.sce#842/CH9/EX9.17/Example9_17.sce#S##32353
+9#The Laplace Transform#9.16#Initial Value Theorem of Lapalace Transform#Example9_16.sce#842/CH9/EX9.16/Example9_16.sce#S##32352
+9#The Laplace Transform#9.15#Inverse Lapalce Transform#Example9_15.sce#842/CH9/EX9.15/Example9_15.sce#S##32351
+9#The Laplace Transform#9.14#Lapalce Transform #Example9_14.sce#842/CH9/EX9.14/Example9_14.sce#S##32350
+9#The Laplace Transform#9.13#Inverse Lapalce Transform#Example9_13.sce#842/CH9/EX9.13/Example9_13.sce#S##32349
+9#The Laplace Transform#9.12#Inverse Lapalce Transform#Example9_12.sce#842/CH9/EX9.12/Example9_12.sce#S##32348
+9#The Laplace Transform#9.11#Inverse Lapalce Transform#Example9_11.sce#842/CH9/EX9.11/Example9_11.sce#S##32347
+9#The Laplace Transform#9.10#Inverse Lapalce Transform#Example9_10.sce#842/CH9/EX9.10/Example9_10.sce#S##32346
+9#The Laplace Transform#9.1#Lapalce Transform x(t)#Example9_1.sce#842/CH9/EX9.1/Example9_1.sce#S##32336
+7#Sampling#7.5#Multirate Signal Processing#Example7_5.sce#842/CH7/EX7.5/Example7_5.sce#S##32316
+7#Sampling#7.4#Period of the sampled signal and Sampling frequency#Example7_4.sce#842/CH7/EX7.4/Example7_4.sce#S##32315
+7#Sampling#7.3#Half Sample Delay system#Example7_3.sce#842/CH7/EX7.3/Example7_3.sce#S##32314
+7#Sampling#7.2#Digital Differentiator#Example7_2.sce#842/CH7/EX7.2/Example7_2.sce#S##32307
+7#Sampling#7.1#Sinusoidal signal#Example7_1.sce#842/CH7/EX7.1/Example7_1.sce#S##32303
+6#Time and Frequency Characterization of Signals and Systems#6.5#Bode Plot#Example6_5.sce#842/CH6/EX6.5/Example6_5.sce#S##32302
+6#Time and Frequency Characterization of Signals and Systems#6.4#Bode Plot#Example6_4.sce#842/CH6/EX6.4/Example6_4.sce#S##32301
+6#Time and Frequency Characterization of Signals and Systems#6.3#Analog Lowpass IIR filter design#Example6_3.sce#842/CH6/EX6.3/Example6_3.sce#S##32297
+6#Time and Frequency Characterization of Signals and Systems#6.1#Phase Response and Group Delay#Example6_1.sce#842/CH6/EX6.1/Example6_1.sce#S##32296
+5#The Discreet Time Fourier Transform#5.9#Expansion Property of DTFT#Example5_9.sce#842/CH5/EX5.9/Example5_9.sce#S##32290
+5#The Discreet Time Fourier Transform#5.7#Frequency Shifting Property of DTFT#Example5_7.sce#842/CH5/EX5.7/Example5_7.sce#S##32289
+5#The Discreet Time Fourier Transform#5.6#Discrete Time Fourier Transform#Example5_6.sce#842/CH5/EX5.6/Example5_6.sce#S##32288
+5#The Discreet Time Fourier Transform#5.5#Time Fourier Transform:x[n]= cos(nWo)#Example5_5.sce#842/CH5/EX5.5/Example5_5.sce#S##32287
+5#The Discreet Time Fourier Transform#5.3#Discrete Time Fourier Transform#Example5_3.sce#842/CH5/EX5.3/Example5_3.sce#S##32286
+5#The Discreet Time Fourier Transform#5.2#Discrete Time Fourier Transform#Example5_2.sce#842/CH5/EX5.2/Example5_2.sce#S##32285
+5#The Discreet Time Fourier Transform#5.15#Multiplication Property of DTFT#Example5_15.sce#842/CH5/EX5.15/Example5_15.sce#S##32292
+5#The Discreet Time Fourier Transform#5.12#IDTFT:Impulse Response of Ideal Low pass Filter#Example5_12.sce#842/CH5/EX5.12/Example5_12.sce#S##32291
+5#The Discreet Time Fourier Transform#5.1#Discrete Time Fourier Transform of discrete sequence#Example5_1.sce#842/CH5/EX5.1/Example5_1.sce#S##32284
+4#The Cotntinuous Time Fourier Transform#4.9#clear#Example4_9.sce#842/CH4/EX4.9/Example4_9.sce#S##32273
+4#The Cotntinuous Time Fourier Transform#4.8#clear#Example4_8.sce#842/CH4/EX4.8/Example4_8.sce#S##32272
+4#The Cotntinuous Time Fourier Transform#4.7#clear#Example4_7.sce#842/CH4/EX4.7/Example4_7.sce#S##32271
+4#The Cotntinuous Time Fourier Transform#4.6#clear#Example4_6.sce#842/CH4/EX4.6/Example4_6.sce#S##32264
+4#The Cotntinuous Time Fourier Transform#4.5#clear#Example4_5.sce#842/CH4/EX4.5/Example4_5.sce#S##32215
+4#The Cotntinuous Time Fourier Transform#4.4#clear#Example4_4.sce#842/CH4/EX4.4/Example4_4.sce#S##32214
+4#The Cotntinuous Time Fourier Transform#4.23#clear#Example4_23.sce#842/CH4/EX4.23/Example4_23.sce#S##32276
+4#The Cotntinuous Time Fourier Transform#4.22#clear#Figure4_22.sce#842/CH4/EX4.22/Figure4_22.sce#S##32277
+4#The Cotntinuous Time Fourier Transform#4.2#clear#Example4_2.sce#842/CH4/EX4.2/Example4_2.sce#S##32212
+4#The Cotntinuous Time Fourier Transform#4.18#clear#Example4_18.sce#842/CH4/EX4.18/Example4_18.sce#S##32275
+4#The Cotntinuous Time Fourier Transform#4.12#clear#Example4_12.sce#842/CH4/EX4.12/Example4_12.sce#S##32274
+4#The Cotntinuous Time Fourier Transform#4.1#clear#Example4_1.sce#842/CH4/EX4.1/Example4_1.sce#S##32210
+3#Fourier Series Repreentation of Periodic Signals#3.8#Fourier Series Representation of Periodic Impulse Train#Example3_8.sce#842/CH3/EX3.8/Example3_8.sce#S##32192
+3#Fourier Series Repreentation of Periodic Signals#3.7#Derivative Property of CTFS#Example3_7.sce#842/CH3/EX3.7/Example3_7.sce#S##32191
+3#Fourier Series Repreentation of Periodic Signals#3.6#Time Shift Property of CTFS#Example3_6.sce#842/CH3/EX3.6/Example3_6.sce#S##32190
+3#Fourier Series Repreentation of Periodic Signals#3.5#CTFS coefficients of a periodic signal #Example3_5.sce#842/CH3/EX3.5/Example3_5.sce#S##32189
+3#Fourier Series Repreentation of Periodic Signals#3.4#CTFS coefficients of a periodic signal#Example3_4.sce#842/CH3/EX3.4/Example3_4.sce#S##32188
+3#Fourier Series Repreentation of Periodic Signals#3.3#Continuous Time Fourier Series Coefficients#Example3_3.sce#842/CH3/EX3.3/Example3_3.sce#S##32187
+3#Fourier Series Repreentation of Periodic Signals#3.2#CTFS of a periodic signal x(t)#Example3_2.sce#842/CH3/EX3.2/Example3_2.sce#S##32186
+3#Fourier Series Repreentation of Periodic Signals#3.15#DTFS:Periodic Convolution Property#Example3_15.sce#842/CH3/EX3.15/Example3_15.sce#S##32198
+3#Fourier Series Repreentation of Periodic Signals#3.14#Parseval's relation of DTFS#Example3_14.sce#842/CH3/EX3.14/Example3_14.sce#S##32197
+3#Fourier Series Repreentation of Periodic Signals#3.13#Periodic sequence#Example3_13.sce#842/CH3/EX3.13/Example3_13.sce#S##32196
+3#Fourier Series Repreentation of Periodic Signals#3.12#DTFS coefficients of periodic square wave#Example3_12.sce#842/CH3/EX3.12/Example3_12.sce#S##32195
+3#Fourier Series Repreentation of Periodic Signals#3.11#DTFS of x[n]#Example3_11.sce#842/CH3/EX3.11/Example3_11.sce#S##32194
+3#Fourier Series Repreentation of Periodic Signals#3.10#DTFS of x[n]#Example3_10.sce#842/CH3/EX3.10/Example3_10.sce#S##32193
+2#Linear Time Invariant Systems#2.8#Convolution Integral of input#Example2_8.sce#842/CH2/EX2.8/Example2_8.sce#S##32185
+2#Linear Time Invariant Systems#2.7#Convolution Integral of fintie duration signals#Example2_7.sce#842/CH2/EX2.7/Example2_7.sce#S##32184
+2#Linear Time Invariant Systems#2.6#Convolution Integral of input#Example2_6.sce#842/CH2/EX2.6/Example2_6.sce#S##32183
+2#Linear Time Invariant Systems#2.5#Convolution Sum of input sequence#Example2_5.sce#842/CH2/EX2.5/Example2_5.sce#S##32182
+2#Linear Time Invariant Systems#2.4#Convolution Sum of finite duration sequences#Example2_4.sce#842/CH2/EX2.4/Example2_4.sce#S##32181
+2#Linear Time Invariant Systems#2.3#Convolution of x[n] and Unit Impulse response h[n]#Example2_3.sce#842/CH2/EX2.3/Example2_3.sce#S##32180
+2#Linear Time Invariant Systems#2.1#Linear Convolution Sum#Example2_1.sce#842/CH2/EX2.1/Example2_1.sce#S##32179
+1#Signals and Systems#1.6#Fundamental period of composite discrete time signal#Example1_6.sce#842/CH1/EX1.6/Example1_6.sce#S##32168
+1#Signals and Systems#1.4#Combinationation two periodic signals#Example1_4.sce#842/CH1/EX1.4/Example1_4.sce#S##32167
+1#Signals and Systems#1.3#Time Scaling and Time Shifting#Example1_3.sce#842/CH1/EX1.3/Example1_3.sce#S##32166
+1#Signals and Systems#1.20#Linearity Property#Example1_20.sce#842/CH1/EX1.20/Example1_20.sce#S##32177
+1#Signals and Systems#1.2#Time Scaling#Example1_2.sce#842/CH1/EX1.2/Example1_2.sce#S##32165
+1#Signals and Systems#1.18#Linearity Property#Example1_18.sce#842/CH1/EX1.18/Example1_18.sce#S##32176
+1#Signals and Systems#1.17#Linearity Property#Example1_17.sce#842/CH1/EX1.17/Example1_17.sce#S##32175
+1#Signals and Systems#1.16#Time Invariance Property#Example1_16.sce#842/CH1/EX1.16/Example1_16.sce#S##32174
+1#Signals and Systems#1.15#Classification of a System#Example1_15.sce#842/CH1/EX1.15/Example1_15.sce#S##32173
+1#Signals and Systems#1.14#Time Invariance Property#Example1_14.sce#842/CH1/EX1.14/Example1_14.sce#S##32172
+1#Signals and Systems#1.13#Determination of stablility of a given system#Example1_13.sce#842/CH1/EX1.13/Example1_13.sce#S##32170
+1#Signals and Systems#1.12#Classification of system#Example1_12.sce#842/CH1/EX1.12/Example1_12.sce#S##32169
+1#Signals and Systems#1.1#Time Shifting#Example1_1.sce#842/CH1/EX1.1/Example1_1.sce#S##32164
+1#Signals and Systems#01.13#Determination of stability of a given system#Example01_13b.sce#842/CH1/EX01.13/Example01_13b.sce#S##32171
+1#Signals and Systems#0.15#Sum of two complex exponentials#Example0_15.sce#842/CH1/EX0.15/Example0_15.sce#S##32178

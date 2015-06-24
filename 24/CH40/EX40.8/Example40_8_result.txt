@@ -1,0 +1,2 @@
+**Sample Prblem 40-8**
+The possible value of radius is 2.66*a

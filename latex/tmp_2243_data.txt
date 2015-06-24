@@ -1,0 +1,231 @@
+16#Acoustics#16.9#Noise pollution#Ex16_9.sce#2243/CH16/EX16.9/Ex16_9.sce#S##103321
+16#Acoustics#16.9#Noise pollution#Res16_9.txt#2243/CH16/EX16.9/Res16_9.txt#R##103322
+16#Acoustics#16.8#Ultrasonic generators#Ex16_8.sce#2243/CH16/EX16.8/Ex16_8.sce#S##103319
+16#Acoustics#16.8#Ultrasonic generators#Res16_8.txt#2243/CH16/EX16.8/Res16_8.txt#R##103320
+16#Acoustics#16.7#Use of ultrasound by bats#Ex16_7.sce#2243/CH16/EX16.7/Ex16_7.sce#S##103317
+16#Acoustics#16.7#Use of ultrasound by bats#Res16_7.txt#2243/CH16/EX16.7/Res16_7.txt#R##103318
+16#Acoustics#16.6#Determination of unknown absorption coefficient#Ex16_6.sce#2243/CH16/EX16.6/Ex16_6.sce#S##103315
+16#Acoustics#16.6#Determination of unknown absorption coefficient#Res16_6.txt#2243/CH16/EX16.6/Res16_6.txt#R##103316
+16#Acoustics#16.5#Determination of reverberation time#Ex16_5.sce#2243/CH16/EX16.5/Ex16_5.sce#S##103313
+16#Acoustics#16.5#Determination of reverberation time#Res16_5.txt#2243/CH16/EX16.5/Res16_5.txt#R##103314
+16#Acoustics#16.4#Sound intensities#Ex16_4.sce#2243/CH16/EX16.4/Ex16_4.sce#S##103309
+16#Acoustics#16.4#Sound intensities#Res16_4.txt#2243/CH16/EX16.4/Res16_4.txt#R##103310
+16#Acoustics#16.3#Imax by Imin#Ex16_3.sce#2243/CH16/EX16.3/Ex16_3.sce#S##103311
+16#Acoustics#16.3#Imax by Imin#Res16_3.txt#2243/CH16/EX16.3/Res16_3.txt#R##103312
+16#Acoustics#16.2#Limits of displacement amplitudes#Ex16_2.sce#2243/CH16/EX16.2/Ex16_2.sce#S##103307
+16#Acoustics#16.2#Limits of displacement amplitudes#Res16_2.txt#2243/CH16/EX16.2/Res16_2.txt#R##103308
+16#Acoustics#16.10#Determination of sea depth#Ex16_10.sce#2243/CH16/EX16.10/Ex16_10.sce#S##103323
+16#Acoustics#16.10#Determination of sea depth#Res16_10.txt#2243/CH16/EX16.10/Res16_10.txt#R##103324
+16#Acoustics#16.1#Increase in Sound velocity#Ex16_1.sce#2243/CH16/EX16.1/Ex16_1.sce#S##103305
+16#Acoustics#16.1#Increase in Sound velocity#Res16_1.txt#2243/CH16/EX16.1/Res16_1.txt#R##103306
+15#Fibre Optics#15.5#Calculation of maximum delay#Ex15_5.sce#2243/CH15/EX15.5/Ex15_5.sce#S##103303
+15#Fibre Optics#15.5#Calculation of maximum delay#Res15_5.txt#2243/CH15/EX15.5/Res15_5.txt#R##103304
+15#Fibre Optics#15.4#Calculation of attenuation#Ex15_4.sce#2243/CH15/EX15.4/Ex15_4.sce#S##103301
+15#Fibre Optics#15.4#Calculation of attenuation#Res15_4.txt#2243/CH15/EX15.4/Res15_4.txt#R##103302
+15#Fibre Optics#15.3#Determining Limiting Diameter#Ex15_3.sce#2243/CH15/EX15.3/Ex15_3.sce#S##103299
+15#Fibre Optics#15.3#Determining Limiting Diameter#Res15_3.txt#2243/CH15/EX15.3/Res15_3.txt#R##103300
+15#Fibre Optics#15.2#Number of reflections#Ex15_2.sce#2243/CH15/EX15.2/Ex15_2.sce#S##103297
+15#Fibre Optics#15.2#Number of reflections#Res15_2.txt#2243/CH15/EX15.2/Res15_2.txt#R##103298
+15#Fibre Optics#15.1#Importance of cladding material#Ex15_1.sce#2243/CH15/EX15.1/Ex15_1.sce#S##103295
+15#Fibre Optics#15.1#Importance of cladding material#Res15_1.txt#2243/CH15/EX15.1/Res15_1.txt#R##103296
+14#Lasers#14.7#Information capacity of laser#Ex14_7.sce#2243/CH14/EX14.7/Ex14_7.sce#S##103293
+14#Lasers#14.7#Information capacity of laser#Res14_7.txt#2243/CH14/EX14.7/Res14_7.txt#R##103294
+14#Lasers#14.6#Intensity of a laser beam#Ex14_6.sce#2243/CH14/EX14.6/Ex14_6.sce#S##103291
+14#Lasers#14.6#Intensity of a laser beam#Res14_6.txt#2243/CH14/EX14.6/Res14_6.txt#R##103292
+14#Lasers#14.5#deltalambda by lambda #Ex14_5.sce#2243/CH14/EX14.5/Ex14_5.sce#S##103289
+14#Lasers#14.5#deltalambda by lambda #Res14_5.txt#2243/CH14/EX14.5/Res14_5.txt#R##103290
+14#Lasers#14.3#Calculating wavelength difference#Ex14_3.sce#2243/CH14/EX14.3/Ex14_3.sce#S##103287
+14#Lasers#14.3#Calculating wavelength difference#Res14_3.txt#2243/CH14/EX14.3/Res14_3.txt#R##103288
+14#Lasers#14.2#Thermal pumping#Ex14_2.sce#2243/CH14/EX14.2/Ex14_2.sce#S##103285
+14#Lasers#14.2#Thermal pumping#Res14_2.txt#2243/CH14/EX14.2/Res14_2.txt#R##103286
+13#Charged Particles in Electric and Magnetic Fields#13.9#Electrons orbit in magnetic field#Ex13_9.sce#2243/CH13/EX13.9/Ex13_9.sce#S##103277
+13#Charged Particles in Electric and Magnetic Fields#13.9#Electrons orbit in magnetic field#Res13_9.txt#2243/CH13/EX13.9/Res13_9.txt#R##103278
+13#Charged Particles in Electric and Magnetic Fields#13.7#Helical path of an electron#Ex13_7.sce#2243/CH13/EX13.7/Ex13_7.sce#S##103275
+13#Charged Particles in Electric and Magnetic Fields#13.7#Helical path of an electron#Res13_7.txt#2243/CH13/EX13.7/Res13_7.txt#R##103276
+13#Charged Particles in Electric and Magnetic Fields#13.5#Projected electron#Ex13_5.sce#2243/CH13/EX13.5/Ex13_5.sce#S##103273
+13#Charged Particles in Electric and Magnetic Fields#13.5#Projected electron#Res13_5.txt#2243/CH13/EX13.5/Res13_5.txt#R##103274
+13#Charged Particles in Electric and Magnetic Fields#13.13#Deuteron motion in a cyclotron#Ex13_13.sce#2243/CH13/EX13.13/Ex13_13.sce#S##103283
+13#Charged Particles in Electric and Magnetic Fields#13.13#Deuteron motion in a cyclotron#Res13_13.txt#2243/CH13/EX13.13/Res13_13.txt#R##103284
+13#Charged Particles in Electric and Magnetic Fields#13.12#Bainbridge mass spectograph#Res13_12.txt#2243/CH13/EX13.12/Res13_12.txt#R##103282
+13#Charged Particles in Electric and Magnetic Fields#13.12#Bainbridge mass spectograph#Ex13_12.sce#2243/CH13/EX13.12/Ex13_12.sce#S##103281
+13#Charged Particles in Electric and Magnetic Fields#13.11#Angle of refraction#Ex13_11.sce#2243/CH13/EX13.11/Ex13_11.sce#S##103279
+13#Charged Particles in Electric and Magnetic Fields#13.11#Angle of refraction#Res13_11.txt#2243/CH13/EX13.11/Res13_11.txt#R##103280
+13#Charged Particles in Electric and Magnetic Fields#13.1#Electron in an electric field#Ex13_1.sce#2243/CH13/EX13.1/Ex13_1.sce#S##103271
+13#Charged Particles in Electric and Magnetic Fields#13.1#Electron in an electric field#Res13_1.txt#2243/CH13/EX13.1/Res13_1.txt#R##103272
+12#Diodes and Transistors#12.5#Voltage gain#Ex12_5.sce#2243/CH12/EX12.5/Ex12_5.sce#S##103269
+12#Diodes and Transistors#12.5#Voltage gain#Res12_5.txt#2243/CH12/EX12.5/Res12_5.txt#R##103270
+12#Diodes and Transistors#12.4#Voltage regulation using Zener diode#Ex12_4.sce#2243/CH12/EX12.4/Ex12_4.sce#S##103267
+12#Diodes and Transistors#12.4#Voltage regulation using Zener diode#Res12_4.txt#2243/CH12/EX12.4/Res12_4.txt#R##103268
+12#Diodes and Transistors#12.3#Current through pn junction diode#Ex12_3.sce#2243/CH12/EX12.3/Ex12_3.sce#S##103265
+12#Diodes and Transistors#12.3#Current through pn junction diode#Res12_3.txt#2243/CH12/EX12.3/Res12_3.txt#R##103266
+12#Diodes and Transistors#12.2#Carrier concentration#Ex12_2.sce#2243/CH12/EX12.2/Ex12_2.sce#S##103263
+12#Diodes and Transistors#12.2#Carrier concentration#Res12_2.txt#2243/CH12/EX12.2/Res12_2.txt#R##103264
+12#Diodes and Transistors#12.1#Determination of V0#Ex12_1.sce#2243/CH12/EX12.1/Ex12_1.sce#S##103261
+12#Diodes and Transistors#12.1#Determination of V0#Res12_1.txt#2243/CH12/EX12.1/Res12_1.txt#R##103262
+11#Conductors Semiconductors and Superconductors#11.9#Ef equals to Ec#Ex11_9.sce#2243/CH11/EX11.9/Ex11_9.sce#S##103249
+11#Conductors Semiconductors and Superconductors#11.9#Ef equals to Ec#Res11_9.txt#2243/CH11/EX11.9/Res11_9.txt#R##103250
+11#Conductors Semiconductors and Superconductors#11.8#Variation of n by N#Ex11_8.sce#2243/CH11/EX11.8/Ex11_8.sce#S##103247
+11#Conductors Semiconductors and Superconductors#11.8#Variation of n by N#Res11_8.txt#2243/CH11/EX11.8/Res11_8.txt#R##103248
+11#Conductors Semiconductors and Superconductors#11.7#Variation of n by N#Ex11_7.sce#2243/CH11/EX11.7/Ex11_7.sce#S##103245
+11#Conductors Semiconductors and Superconductors#11.7#Variation of n by N#Res11_7.txt#2243/CH11/EX11.7/Res11_7.txt#R##103246
+11#Conductors Semiconductors and Superconductors#11.6#Intrinsic resistivity#Ex11_6.sce#2243/CH11/EX11.6/Ex11_6.sce#S##103243
+11#Conductors Semiconductors and Superconductors#11.6#Intrinsic resistivity#Res11_6.txt#2243/CH11/EX11.6/Res11_6.txt#R##103244
+11#Conductors Semiconductors and Superconductors#11.4#Fraction of electrons#Ex11_4.sce#2243/CH11/EX11.4/Ex11_4.sce#S##103241
+11#Conductors Semiconductors and Superconductors#11.4#Fraction of electrons#Res11_4.txt#2243/CH11/EX11.4/Res11_4.txt#R##103242
+11#Conductors Semiconductors and Superconductors#11.3#Fermi energy in metals#Ex11_3.sce#2243/CH11/EX11.3/Ex11_3.sce#S##103239
+11#Conductors Semiconductors and Superconductors#11.3#Fermi energy in metals#Res11_3.txt#2243/CH11/EX11.3/Res11_3.txt#R##103240
+11#Conductors Semiconductors and Superconductors#11.14#Increase in conductivity#Ex11_14.sce#2243/CH11/EX11.14/Ex11_14.sce#S##103259
+11#Conductors Semiconductors and Superconductors#11.14#Increase in conductivity#Res11_14.txt#2243/CH11/EX11.14/Res11_14.txt#R##103260
+11#Conductors Semiconductors and Superconductors#11.13#Photon energy#Ex11_13.sce#2243/CH11/EX11.13/Ex11_13.sce#S##103257
+11#Conductors Semiconductors and Superconductors#11.13#Photon energy#Res11_13.txt#2243/CH11/EX11.13/Res11_13.txt#R##103258
+11#Conductors Semiconductors and Superconductors#11.12#Increase in conductivity #Ex11_12.sce#2243/CH11/EX11.12/Ex11_12.sce#S##103255
+11#Conductors Semiconductors and Superconductors#11.12#Increase in conductivity #Res11_12.txt#2243/CH11/EX11.12/Res11_12.txt#R##103256
+11#Conductors Semiconductors and Superconductors#11.11#Silicon wafer doped with phosphorus#Ex11_11.sce#2243/CH11/EX11.11/Ex11_11.sce#S##103253
+11#Conductors Semiconductors and Superconductors#11.11#Silicon wafer doped with phosphorus#Res11_11.txt#2243/CH11/EX11.11/Res11_11.txt#R##103254
+11#Conductors Semiconductors and Superconductors#11.10#Si doped with phosphorus#Ex11_10.sce#2243/CH11/EX11.10/Ex11_10.sce#S##103251
+11#Conductors Semiconductors and Superconductors#11.10#Si doped with phosphorus#Res11_10.txt#2243/CH11/EX11.10/Res11_10.txt#R##103252
+10#Dielectric and Magnetic Materials#10.9#Saturation Magnetisation#Ex10_9.sce#2243/CH10/EX10.9/Ex10_9.sce#S##103235
+10#Dielectric and Magnetic Materials#10.9#Saturation Magnetisation#Res10_9.txt#2243/CH10/EX10.9/Res10_9.txt#R##103236
+10#Dielectric and Magnetic Materials#10.8#Classical model of internal field#Ex10_8.sce#2243/CH10/EX10.8/Ex10_8.sce#S##103233
+10#Dielectric and Magnetic Materials#10.8#Classical model of internal field#Res10_8.txt#2243/CH10/EX10.8/Res10_8.txt#R##103234
+10#Dielectric and Magnetic Materials#10.7#Power loss due to hysteresis#Ex10_7.sce#2243/CH10/EX10.7/Ex10_7.sce#S##103231
+10#Dielectric and Magnetic Materials#10.7#Power loss due to hysteresis#Res10_7.txt#2243/CH10/EX10.7/Res10_7.txt#R##103232
+10#Dielectric and Magnetic Materials#10.6#Relative dielectric constant#Ex10_6.sce#2243/CH10/EX10.6/Ex10_6.sce#S##103229
+10#Dielectric and Magnetic Materials#10.6#Relative dielectric constant#Res10_6.txt#2243/CH10/EX10.6/Res10_6.txt#R##103230
+10#Dielectric and Magnetic Materials#10.5#Susceptibility of paramagnetic materials#Ex10_5.sce#2243/CH10/EX10.5/Ex10_5.sce#S##103227
+10#Dielectric and Magnetic Materials#10.5#Susceptibility of paramagnetic materials#Res10_5.txt#2243/CH10/EX10.5/Res10_5.txt#R##103228
+10#Dielectric and Magnetic Materials#10.4#Orientational polarisation#Ex10_4.sce#2243/CH10/EX10.4/Ex10_4.sce#S##103225
+10#Dielectric and Magnetic Materials#10.4#Orientational polarisation#Res10_4.txt#2243/CH10/EX10.4/Res10_4.txt#R##103226
+10#Dielectric and Magnetic Materials#10.3#Dipole moment and polarisability#Ex10_3.sce#2243/CH10/EX10.3/Ex10_3.sce#S##103223
+10#Dielectric and Magnetic Materials#10.3#Dipole moment and polarisability#Res10_3.txt#2243/CH10/EX10.3/Res10_3.txt#R##103224
+10#Dielectric and Magnetic Materials#10.2#Diamagnetism#Ex10_2.sce#2243/CH10/EX10.2/Ex10_2.sce#S##103221
+10#Dielectric and Magnetic Materials#10.2#Diamagnetism#Res10_2.txt#2243/CH10/EX10.2/Res10_2.txt#R##103222
+10#Dielectric and Magnetic Materials#10.10#Electronic and Ionic polarisability#Ex10_10.sce#2243/CH10/EX10.10/Ex10_10.sce#S##103237
+10#Dielectric and Magnetic Materials#10.10#Electronic and Ionic polarisability#Res10_10.txt#2243/CH10/EX10.10/Res10_10.txt#R##103238
+10#Dielectric and Magnetic Materials#10.1#Electronic polarisation#Ex10_1.sce#2243/CH10/EX10.1/Ex10_1.sce#S##103219
+10#Dielectric and Magnetic Materials#10.1#Electronic polarisation#Res10_1.txt#2243/CH10/EX10.1/Res10_1.txt#R##103220
+9#Structure and Properties of Matter#9.8#Determination of density#Ex9_8.sce#2243/CH9/EX9.8/Ex9_8.sce#S##103217
+9#Structure and Properties of Matter#9.8#Determination of density#Res9_8.txt#2243/CH9/EX9.8/Res9_8.txt#R##103218
+9#Structure and Properties of Matter#9.7#Determination of crystal structure#Ex9_7.sce#2243/CH9/EX9.7/Ex9_7.sce#S##103215
+9#Structure and Properties of Matter#9.7#Determination of crystal structure#Res9_7.txt#2243/CH9/EX9.7/Res9_7.txt#R##103216
+9#Structure and Properties of Matter#9.3#Miller indices of planes#Ex9_3.sce#2243/CH9/EX9.3/Ex9_3.sce#S##103213
+9#Structure and Properties of Matter#9.3#Miller indices of planes#Res9_3.txt#2243/CH9/EX9.3/Res9_3.txt#R##103214
+8#Nuclear Physics#8.9#Energy released in Fission#Ex8_9.sce#2243/CH8/EX8.9/Ex8_9.sce#S##103203
+8#Nuclear Physics#8.9#Energy released in Fission#Res8_9.txt#2243/CH8/EX8.9/Res8_9.txt#R##103204
+8#Nuclear Physics#8.8#Electronic and nuclear energy levels#Ex8_8.sce#2243/CH8/EX8.8/Ex8_8.sce#S##103201
+8#Nuclear Physics#8.8#Electronic and nuclear energy levels#Res8_8.txt#2243/CH8/EX8.8/Res8_8.txt#R##103202
+8#Nuclear Physics#8.7#Angle of ejection#Ex8_7.sce#2243/CH8/EX8.7/Ex8_7.sce#S##103199
+8#Nuclear Physics#8.7#Angle of ejection#Res8_7.txt#2243/CH8/EX8.7/Res8_7.txt#R##103200
+8#Nuclear Physics#8.5#Q value of a nuclear reaction#Ex8_5.sce#2243/CH8/EX8.5/Ex8_5.sce#S##103197
+8#Nuclear Physics#8.5#Q value of a nuclear reaction#Res8_5.txt#2243/CH8/EX8.5/Res8_5.txt#R##103198
+8#Nuclear Physics#8.4#Average Binding Energy#Ex8_4.sce#2243/CH8/EX8.4/Ex8_4.sce#S##103195
+8#Nuclear Physics#8.4#Average Binding Energy#Res8_4.txt#2243/CH8/EX8.4/Res8_4.txt#R##103196
+8#Nuclear Physics#8.3#Nuclear and Electronic Binding Energy#Ex8_3.sce#2243/CH8/EX8.3/Ex8_3.sce#S##103193
+8#Nuclear Physics#8.3#Nuclear and Electronic Binding Energy#Res8_3.txt#2243/CH8/EX8.3/Res8_3.txt#R##103194
+8#Nuclear Physics#8.2#Rest mass of a pion#Ex8_2.sce#2243/CH8/EX8.2/Ex8_2.sce#S##103191
+8#Nuclear Physics#8.2#Rest mass of a pion#Res8_2.txt#2243/CH8/EX8.2/Res8_2.txt#R##103192
+8#Nuclear Physics#8.13#Co 60 gamma rays#Ex8_13.sce#2243/CH8/EX8.13/Ex8_13.sce#S##103211
+8#Nuclear Physics#8.13#Co 60 gamma rays#Res8_13.txt#2243/CH8/EX8.13/Res8_13.txt#R##103212
+8#Nuclear Physics#8.12#Radioactivity of iodine 131#Ex8_12.sce#2243/CH8/EX8.12/Ex8_12.sce#S##103209
+8#Nuclear Physics#8.12#Radioactivity of iodine 131#Res8_12.txt#2243/CH8/EX8.12/Res8_12.txt#R##103210
+8#Nuclear Physics#8.11#Radioactive dating of a tree#Ex8_11.sce#2243/CH8/EX8.11/Ex8_11.sce#S##103207
+8#Nuclear Physics#8.11#Radioactive dating of a tree#Res8_11.txt#2243/CH8/EX8.11/Res8_11.txt#R##103208
+8#Nuclear Physics#8.10#Power output#Ex8_10.sce#2243/CH8/EX8.10/Ex8_10.sce#S##103205
+8#Nuclear Physics#8.10#Power output#Res8_10.txt#2243/CH8/EX8.10/Res8_10.txt#R##103206
+8#Nuclear Physics#8.1#Nuclear and atomic density#Ex8_1.sce#2243/CH8/EX8.1/Ex8_1.sce#S##103189
+8#Nuclear Physics#8.1#Nuclear and atomic density#Res8_1.txt#2243/CH8/EX8.1/Res8_1.txt#R##103190
+7#Atomic Physics#7.4#Bohrs radius#Ex7_4.sce#2243/CH7/EX7.4/Ex7_4.sce#S##103187
+7#Atomic Physics#7.4#Bohrs radius#Res7_4.txt#2243/CH7/EX7.4/Res7_4.txt#R##103188
+7#Atomic Physics#7.3#Bohrs theory for helium#Ex7_3.sce#2243/CH7/EX7.3/Ex7_3.sce#S##103185
+7#Atomic Physics#7.3#Bohrs theory for helium#Res7_3.txt#2243/CH7/EX7.3/Res7_3.txt#R##103186
+7#Atomic Physics#7.2#Bohr Theory#Ex7_2.sce#2243/CH7/EX7.2/Ex7_2.sce#S##103183
+7#Atomic Physics#7.2#Bohr Theory#Res7_2.txt#2243/CH7/EX7.2/Res7_2.txt#R##103184
+7#Atomic Physics#7.1#Hydrogen atom#Ex7_1.sce#2243/CH7/EX7.1/Ex7_1.sce#S##103181
+7#Atomic Physics#7.1#Hydrogen atom#Res7_1.txt#2243/CH7/EX7.1/Res7_1.txt#R##103182
+6#Quantum Physics#6.9#deBroglie wavelength of an electron#Ex6_9.sce#2243/CH6/EX6.9/Ex6_9.sce#S##103171
+6#Quantum Physics#6.9#deBroglie wavelength of an electron#Res6_9.txt#2243/CH6/EX6.9/Res6_9.txt#R##103172
+6#Quantum Physics#6.8#Wave particle characteristics#Ex6_8.sce#2243/CH6/EX6.8/Ex6_8.sce#S##103173
+6#Quantum Physics#6.8#Wave particle characteristics#Res6_8.txt#2243/CH6/EX6.8/Res6_8.txt#R##103174
+6#Quantum Physics#6.7#Finding pe by pp ratio#Ex6_7.sce#2243/CH6/EX6.7/Ex6_7.sce#S##103169
+6#Quantum Physics#6.7#Finding pe by pp ratio#Res6_7.txt#2243/CH6/EX6.7/Res6_7.txt#R##103170
+6#Quantum Physics#6.6#Observability of Compton effect#Ex6_6.sce#2243/CH6/EX6.6/Ex6_6.sce#S##103167
+6#Quantum Physics#6.6#Observability of Compton effect#Res6_6.txt#2243/CH6/EX6.6/Res6_6.txt#R##103168
+6#Quantum Physics#6.5#Incident wavelength in Compton Scattering#Ex6_5.sce#2243/CH6/EX6.5/Ex6_5.sce#S##103165
+6#Quantum Physics#6.5#Incident wavelength in Compton Scattering#Res6_5.txt#2243/CH6/EX6.5/Res6_5.txt#R##103166
+6#Quantum Physics#6.4#Determination of h and phi#Ex6_4.sce#2243/CH6/EX6.4/Ex6_4.sce#S##103163
+6#Quantum Physics#6.4#Determination of h and phi#Res6_4.txt#2243/CH6/EX6.4/Res6_4.txt#R##103164
+6#Quantum Physics#6.3#Failure of wave theory#Ex6_3.sce#2243/CH6/EX6.3/Ex6_3.sce#S##103161
+6#Quantum Physics#6.3#Failure of wave theory#Res6_3.txt#2243/CH6/EX6.3/Res6_3.txt#R##103162
+6#Quantum Physics#6.2#Finding Photon Energy#Ex6_2.sce#2243/CH6/EX6.2/Ex6_2.sce#S##103159
+6#Quantum Physics#6.2#Finding Photon Energy#Res6_2.txt#2243/CH6/EX6.2/Res6_2.txt#R##103160
+6#Quantum Physics#6.17#Application of Schrodinger equation#Ex6_17.sce#2243/CH6/EX6.17/Ex6_17.sce#S##103179
+6#Quantum Physics#6.17#Application of Schrodinger equation#Res6_17.txt#2243/CH6/EX6.17/Res6_17.txt#R##103180
+6#Quantum Physics#6.14#Application of uncertainty principle#Ex6_14.sce#2243/CH6/EX6.14/Ex6_14.sce#S##103177
+6#Quantum Physics#6.14#Application of uncertainty principle#Res6_14.txt#2243/CH6/EX6.14/Res6_14.txt#R##103178
+6#Quantum Physics#6.10#de Broglie wavelength#Ex6_10.sce#2243/CH6/EX6.10/Ex6_10.sce#S##103175
+6#Quantum Physics#6.10#de Broglie wavelength#Res6_10.txt#2243/CH6/EX6.10/Res6_10.txt#R##103176
+6#Quantum Physics#6.1#Quantised energy levels#Ex6_1.sce#2243/CH6/EX6.1/Ex6_1.sce#S##103157
+6#Quantum Physics#6.1#Quantised energy levels#Res6_1.txt#2243/CH6/EX6.1/Res6_1.txt#R##103158
+5#Polarisation#5.9#Application of Optical Activity#Ex5_9.sce#2243/CH5/EX5.9/Ex5_9.sce#S##103155
+5#Polarisation#5.9#Application of Optical Activity#Res5_9.txt#2243/CH5/EX5.9/Res5_9.txt#R##103156
+5#Polarisation#5.7#Birefringent crystal#Ex5_7.sce#2243/CH5/EX5.7/Ex5_7.sce#S##103153
+5#Polarisation#5.7#Birefringent crystal#Res5_7.txt#2243/CH5/EX5.7/Res5_7.txt#R##103154
+5#Polarisation#5.6#Minimum thickness of wave plate#Ex5_6.sce#2243/CH5/EX5.6/Ex5_6.sce#S##103151
+5#Polarisation#5.6#Minimum thickness of wave plate#Res5_6.txt#2243/CH5/EX5.6/Res5_6.txt#R##103152
+5#Polarisation#5.5#Critical angle for TIR#Ex5_5.sce#2243/CH5/EX5.5/Ex5_5.sce#S##103149
+5#Polarisation#5.5#Critical angle for TIR#Res5_5.txt#2243/CH5/EX5.5/Res5_5.txt#R##103150
+5#Polarisation#5.4#Brewster Law#Ex5_4.sce#2243/CH5/EX5.4/Ex5_4.sce#S##103147
+5#Polarisation#5.4#Brewster Law#Res5_4.txt#2243/CH5/EX5.4/Res5_4.txt#R##103148
+4#Diffraction#4.9#Determination of separation of lines#Res4_9.txt#2243/CH4/EX4.9/Res4_9.txt#R##103142
+4#Diffraction#4.9#Determination of separation of lines#Ex4_9.sce#2243/CH4/EX4.9/Ex4_9.sce#S##103141
+4#Diffraction#4.8#Dispersion and resolving power#Res4_8.txt#2243/CH4/EX4.8/Res4_8.txt#R##103140
+4#Diffraction#4.8#Dispersion and resolving power#Ex4_8.sce#2243/CH4/EX4.8/Ex4_8.sce#S##103139
+4#Diffraction#4.6#Angles of Diffraction#Res4_6.txt#2243/CH4/EX4.6/Res4_6.txt#R##103138
+4#Diffraction#4.6#Angles of Diffraction#Ex4_6.sce#2243/CH4/EX4.6/Ex4_6.sce#S##103137
+4#Diffraction#4.4#Interference minima#Res4_4.txt#2243/CH4/EX4.4/Res4_4.txt#R##103136
+4#Diffraction#4.4#Interference minima#Ex4_4.sce#2243/CH4/EX4.4/Ex4_4.sce#S##103135
+4#Diffraction#4.11#Resolution of human eye#Ex4_11.sce#2243/CH4/EX4.11/Ex4_11.sce#S##103145
+4#Diffraction#4.11#Resolution of human eye#Res4_11.txt#2243/CH4/EX4.11/Res4_11.txt#R##103146
+4#Diffraction#4.10#Diffraction of Xrays#Ex4_10.sce#2243/CH4/EX4.10/Ex4_10.sce#S##103143
+4#Diffraction#4.10#Diffraction of Xrays#Res4_10.txt#2243/CH4/EX4.10/Res4_10.txt#R##103144
+3#Interference#3.9#Interference pattern#Ex3_9.sce#2243/CH3/EX3.9/Ex3_9.sce#S##103119
+3#Interference#3.9#Interference pattern#Res3_9.txt#2243/CH3/EX3.9/Res3_9.txt#R##103120
+3#Interference#3.8#Maximum observable fringes#Ex3_8.sce#2243/CH3/EX3.8/Ex3_8.sce#S##103117
+3#Interference#3.8#Maximum observable fringes#Res3_8.txt#2243/CH3/EX3.8/Res3_8.txt#R##103118
+3#Interference#3.6#Total optical path#Ex3_6.sce#2243/CH3/EX3.6/Ex3_6.sce#S##103115
+3#Interference#3.6#Total optical path#Res3_6.txt#2243/CH3/EX3.6/Res3_6.txt#R##103116
+3#Interference#3.5#Optical path #Ex3_5.sce#2243/CH3/EX3.5/Ex3_5.sce#S##103113
+3#Interference#3.5#Optical path #Res3_5.txt#2243/CH3/EX3.5/Res3_5.txt#R##103114
+3#Interference#3.4#Ordinary and Laser source#Ex3_4.sce#2243/CH3/EX3.4/Ex3_4.sce#S##103111
+3#Interference#3.4#Ordinary and Laser source#Res3_4.txt#2243/CH3/EX3.4/Res3_4.txt#R##103112
+3#Interference#3.3#Incoherence#Ex3_3.sce#2243/CH3/EX3.3/Ex3_3.sce#S##103109
+3#Interference#3.3#Incoherence#Res3_3.txt#2243/CH3/EX3.3/Res3_3.txt#R##103110
+3#Interference#3.18#Anti Reflection Coating#Ex3_18.sce#2243/CH3/EX3.18/Ex3_18.sce#S##103133
+3#Interference#3.18#Anti Reflection Coating#Res3_18.txt#2243/CH3/EX3.18/Res3_18.txt#R##103134
+3#Interference#3.17#Newtons ring apparatus#Ex3_17.sce#2243/CH3/EX3.17/Ex3_17.sce#S##103131
+3#Interference#3.17#Newtons ring apparatus#Res3_17.txt#2243/CH3/EX3.17/Res3_17.txt#R##103132
+3#Interference#3.16#Michelsons interferometer#Ex3_16.sce#2243/CH3/EX3.16/Ex3_16.sce#S##103129
+3#Interference#3.16#Michelsons interferometer#Res3_16.txt#2243/CH3/EX3.16/Res3_16.txt#R##103130
+3#Interference#3.15#Linear expansivity #Ex3_15.sce#2243/CH3/EX3.15/Ex3_15.sce#S##103127
+3#Interference#3.15#Linear expansivity #Res3_15.txt#2243/CH3/EX3.15/Res3_15.txt#R##103128
+3#Interference#3.14#Intensity distribution #Ex3_14.sce#2243/CH3/EX3.14/Ex3_14.sce#S##103125
+3#Interference#3.14#Intensity distribution #Res3_14.txt#2243/CH3/EX3.14/Res3_14.txt#R##103126
+3#Interference#3.13#Interference for different waves#Ex3_13.sce#2243/CH3/EX3.13/Ex3_13.sce#S##103123
+3#Interference#3.13#Interference for different waves#Res3_13.txt#2243/CH3/EX3.13/Res3_13.txt#R##103124
+3#Interference#3.10#Wedge angle#Ex3_10.sce#2243/CH3/EX3.10/Ex3_10.sce#S##103121
+3#Interference#3.10#Wedge angle#Res3_10.txt#2243/CH3/EX3.10/Res3_10.txt#R##103122
+2#What is Light#2.6#Sound and Light waves#Ex2_6.sce#2243/CH2/EX2.6/Ex2_6.sce#S##103108
+2#What is Light#2.6#Sound and Light waves#Res2_6.txt#2243/CH2/EX2.6/Res2_6.txt#R##103107
+2#What is Light#2.3#Wave Parameters#Ex2_3.sce#2243/CH2/EX2.3/Ex2_3.sce#S##103105
+2#What is Light#2.3#Wave Parameters#Res2_3.txt#2243/CH2/EX2.3/Res2_3.txt#R##103106
+2#What is Light#2.2#Space and Time profile#Ex2_2.sce#2243/CH2/EX2.2/Ex2_2.sce#S##103102
+2#What is Light#2.2#Space and Time profile#Fig2_2_a.jpg#2243/CH2/EX2.2/Fig2_2_a.jpg#R##103103
+2#What is Light#2.2#Space and Time profile#Fig2_2_b.jpg#2243/CH2/EX2.2/Fig2_2_b.jpg#R##103104
+1#Physics and Engineering#1.4#Refinement in theory#Ex1_4.sce#2243/CH1/EX1.4/Ex1_4.sce#S##103100
+1#Physics and Engineering#1.4#Refinement in theory#Res1_4.txt#2243/CH1/EX1.4/Res1_4.txt#R##103101
+1#Physics and Engineering#1.3#Refinement in experiment#Ex1_3.sce#2243/CH1/EX1.3/Ex1_3.sce#S##103098
+1#Physics and Engineering#1.3#Refinement in experiment#Res1_3.txt#2243/CH1/EX1.3/Res1_3.txt#R##103099
+1#Physics and Engineering#1.2#Error Estimation#Ex1_2.sce#2243/CH1/EX1.2/Ex1_2.sce#S##103096
+1#Physics and Engineering#1.2#Error Estimation#Res1_2.txt#2243/CH1/EX1.2/Res1_2.txt#R##103097
+1#Physics and Engineering#1.1#Error Estimation#Res1_1.txt#2243/CH1/EX1.1/Res1_1.txt#R##103095
+1#Physics and Engineering#1.1#Error Estimation#Ex1_1.sce#2243/CH1/EX1.1/Ex1_1.sce#S##103094

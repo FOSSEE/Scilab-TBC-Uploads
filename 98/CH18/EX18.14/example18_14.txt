@@ -1,0 +1,12 @@
+(i) Total impedance to any sequence current is sum of generator and feeder impedances of that sequence currents 
+	Total Z(1) = j(2.2) ohm 
+	Total Z(2) = j(1.9) ohm 
+	Total Z(3) = j(3.4) ohm 
+I1 = I2 = I0 = j(-846) A 
+
+Fault current = j(-2540) A 
+
+
+(ii) Line to nuetral voltage of R-phase = 4233.90 V 
+
+

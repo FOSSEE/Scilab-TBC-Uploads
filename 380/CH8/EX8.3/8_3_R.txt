@@ -1,0 +1,20 @@
+ (a) Power factor=   
+ 
+    0.9682794  
+ 
+ (b) power angle (in Degree)=   
+ 
+  - 25.99621  
+ 
+ (c) line to line excitation voltage (in Volts)=   
+ 
+    560.  
+ 
+ phase angle of line to line excitation voltage (in Degree)   
+ 
+    4.0037903  
+ 
+ (d) Torque developed (in Newton-meter)=   
+ 
+    47.745358  
+ 

@@ -1,0 +1,2 @@
+load regulation is 0.0985%
+line regulation is 0.894%

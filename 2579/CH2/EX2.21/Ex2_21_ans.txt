@@ -1,0 +1,2 @@
+ The equivalent temperature= 13.667279 k
+ The answer is wrong in the textbook 

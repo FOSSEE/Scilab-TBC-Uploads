@@ -1,0 +1,5 @@
+  
+ Power loss due to Hysteresis (in W) =    
+ 
+    300.  
+ 

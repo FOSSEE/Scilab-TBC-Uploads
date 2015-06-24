@@ -1,0 +1,33 @@
+
+ example =2.1   
+
+ 
+ solution for (a)   
+connected load = 8X100W+2X60W+2X100W=1120W
+ 
+ solution for (b)   
+ 
+ total wattage at different times is   
+	60W
+	220W
+	0W
+	120W
+	520W
+the maximum demand is 520W
+ 
+ solution for (c)   
+
+demand factor =0.464286
+ 
+ solution for (d)   
+	300Wh
+	440Wh
+	0Wh
+	1080Wh
+	3120Wh
+total energy consumed during 24 hours =300Wh+440Wh+0Wh+1080Wh+3120Wh=4940Wh
+ 
+ solution for (e)   
+
+if all devices are used throughout the day the energy consumed in Wh is 26880Wh 
+		26.88kWh 

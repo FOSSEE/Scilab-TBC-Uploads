@@ -1,0 +1,4 @@
+  
+ Activation Energy in Silver diffusion (in kJ/mol) =    
+ 
+    154.03271  

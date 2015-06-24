@@ -1,0 +1,13 @@
+clear;
+clc;
+C=20*10^-6;
+L=5*10^-6;
+V_s=230;
+I_p=V_s*sqrt(C/L);
+w_o=sqrt(1/(L*C));
+t_o=%pi/w_o;    printf("conduction time of auxillery thyristor=%.3f us",t_o*10^6);
+I_o=300;
+//a=w_o*(t3-t2)=asind(I_o/(2*V_s));
+a=asind(I_o/(2*V_s));
+V_ab=V_s*cosd(a);    printf("\nvoltage across main thyristor=%.3f V",V_ab);
+t_c=C*V_ab/I_o;    printf("\nckt turn off time=%.3f us",t_c*10^6);

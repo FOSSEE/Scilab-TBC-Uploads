@@ -1,0 +1,7 @@
+
+ Example 12.3
+ Part A:
+ Transition temperature for strain rate 1e-02 s^-1 is 302 K
+
+ Part B:
+ Transition temperature for strain rate 1e-05 s^-1 is 229 K 

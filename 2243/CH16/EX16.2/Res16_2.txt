@@ -1,0 +1,2 @@
+Minimum displacement amplitude = 10.85  pm 
+Maximum displacement amplitude = 11 mu m 

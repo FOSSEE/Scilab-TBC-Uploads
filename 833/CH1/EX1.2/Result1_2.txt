@@ -1,0 +1,19 @@
+(a)Power factor on no load=   
+ 
+    0.125  
+ 
+ (b)Active current(in A)=   
+ 
+    0.25  
+ 
+ (c)magnetising current is(in A)=   
+ 
+    1.8154547  
+ 
+ (d)copper loss in the primary winding is(in watt)=   
+ 
+    3.2  
+ 
+ (e)core loss(in watt)=   
+ 
+    56.8  

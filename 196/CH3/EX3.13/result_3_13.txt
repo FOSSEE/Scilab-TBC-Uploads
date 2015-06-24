@@ -1,0 +1,7 @@
+Value of o/p voltage =  4.0000 V 
+
+
+Value of load current =  0.0004 A 
+
+
+Value of output current =  0.0004 A 

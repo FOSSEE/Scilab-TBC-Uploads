@@ -1,0 +1,6 @@
+ # PROBLEM 16 # 
+
+ Standard formula used 
+ (mu - 1)*t = n*lambda
+
+ Thickness of glass plate is 0.003270 mm.

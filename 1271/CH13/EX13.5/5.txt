@@ -1,0 +1,3 @@
+
+ Miller indices of the plane are (2 1 0).
+ Inter planar distance is sqrt(5) angstrom.

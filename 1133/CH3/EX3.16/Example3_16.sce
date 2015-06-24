@@ -1,0 +1,27 @@
+//Example 3.16
+clc
+disp("Refer example 3.15")
+disp("  A_vf = -h_fe*Rc*[1/1+(Rs/Rb)] / R''s+h_ie+(1+h_fe)*Re     where R''s = Rs||R1||R2")
+avf=(-50*(1.8*10^3)*[1/(1+(1000/4272))])/(810+1000+((1+50)*1000))
+format(5)
+disp(avf,"  A_vf =")
+gmf=-1.38/(1.8*10^3)
+format(9)
+disp(gmf,"  G_Mf = A_vf / R_L =")
+disp("  beta = Vf / Io = Ie*Re / Io = -Io*Re / Io = -Re = -1 K")
+disp("  G_Mf = G_M / 1+beta*G_M")
+gm=1/((1/(-7.66*10^-4))+1000)
+format(10)
+disp(gm,"Therefore,  G_M =")
+d=1+(-1000*-3.2735*10^-3)
+format(7)
+disp(d,"  D = 1 + G_M*beta =")
+ri=(1+1.36)  // in k-ohm
+format(5)
+disp(ri,"  R_i(in k-ohm) = Rs+(h_ie+Re) || R_D =")
+rif=2.36*4.2735  // in k-ohm
+format(3)
+disp(rif,"  R_if(in k-ohm) = R_i * D =")
+disp("  R_o = infinity")
+disp("  R_of = R_o * D = infinity")
+disp("  R''_of = R_of || R_L = R_L = 1.8 k-ohm")

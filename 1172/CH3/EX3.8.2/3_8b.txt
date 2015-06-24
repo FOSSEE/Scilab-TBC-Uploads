@@ -1,0 +1,4 @@
+ # Problem 8b # 
+
+ As the threshold wavelength is greater than wavelength of incident radiation So 
+ electron will be ejected with velocity 4.548627e+05 m/s. 

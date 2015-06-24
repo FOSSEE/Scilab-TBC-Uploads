@@ -1,0 +1,77 @@
+7#Integrated circuit timer and phase locked loops#7.8#Design astable circuit#Ex7_8.sce#2582/CH7/EX7.8/Ex7_8.sce#S##98286
+7#Integrated circuit timer and phase locked loops#7.7#Value of R and Vth#Ex7_7.sce#2582/CH7/EX7.7/Ex7_7.sce#S##87438
+7#Integrated circuit timer and phase locked loops#7.5#Design components of PLL#Ex7_5.sce#2582/CH7/EX7.5/Ex7_5.sce#S##92349
+7#Integrated circuit timer and phase locked loops#7.4#Capture range#Ex7_4.sce#2582/CH7/EX7.4/Ex7_4.sce#S##98287
+7#Integrated circuit timer and phase locked loops#7.3#Loop lock#Ex7_3.sce#2582/CH7/EX7.3/Ex7_3.sce#S##87435
+7#Integrated circuit timer and phase locked loops#7.2#Calculate timing interval#Ex7_2.sce#2582/CH7/EX7.2/Ex7_2.sce#S##87434
+7#Integrated circuit timer and phase locked loops#7.1#tHIGH tLOW and free running frequency #Ex7_1.sce#2582/CH7/EX7.1/Ex7_1.sce#S##87433
+6#Integrated circuit timer and phase locked loops#6.9#Conversion time#Ex6_9.sce#2582/CH6/EX6.9/Ex6_9.sce#S##87432
+6#Integrated circuit timer and phase locked loops#6.8#Input voltage and digital output#Ex6_8.sce#2582/CH6/EX6.8/Ex6_8.sce#S##98285
+6#Integrated circuit timer and phase locked loops#6.7#Minimum output voltage#Ex6_7.sce#2582/CH6/EX6.7/Ex6_7.sce#S##98284
+6#Integrated circuit timer and phase locked loops#6.6#Offset voltage#Ex6_6.sce#2582/CH6/EX6.6/Ex6_6.sce#S##87429
+6#Integrated circuit timer and phase locked loops#6.5#Analog output voltage#Ex6_5.sce#2582/CH6/EX6.5/Ex6_5.sce#S##87428
+6#Integrated circuit timer and phase locked loops#6.4#Produced output#Ex6_4.sce#2582/CH6/EX6.4/Ex6_4.sce#S##98283
+6#Integrated circuit timer and phase locked loops#6.3#LSB MSB and full scale output#Ex6_3.sce#2582/CH6/EX6.3/Ex6_3.sce#S##98282
+6#Integrated circuit timer and phase locked loops#6.2#Produced output#Ex6_2.sce#2582/CH6/EX6.2/Ex6_2.sce#S##98281
+6#Integrated circuit timer and phase locked loops#6.1#Output change per bit Full scale output#Ex6_1.sce#2582/CH6/EX6.1/Ex6_1.sce#S##87424
+5#Non Linear Applications of IC OPamps#5.9#Design of rectifier#Ex5_9.sce#2582/CH5/EX5.9/Ex5_9.sce#S##97239
+5#Non Linear Applications of IC OPamps#5.8#Average output voltage#Ex5_8.sce#2582/CH5/EX5.8/Ex5_8.sce#S##97244
+5#Non Linear Applications of IC OPamps#5.7#Frequency of oscillation#Ex5_7.sce#2582/CH5/EX5.7/Ex5_7.sce#S##98280
+5#Non Linear Applications of IC OPamps#5.5#Maximum diode current#Ex5_5.sce#2582/CH5/EX5.5/Ex5_5.sce#S##87422
+5#Non Linear Applications of IC OPamps#5.4#Design a square wave oscillator#Ex5_4.sce#2582/CH5/EX5.4/Ex5_4.sce#S##87421
+5#Non Linear Applications of IC OPamps#5.3#Frequency of oscillation#Ex5_3.sce#2582/CH5/EX5.3/Ex5_3.sce#S##87419
+5#Non Linear Applications of IC OPamps#5.2#Period of multivbator and frequency#Ex5_2.sce#2582/CH5/EX5.2/Ex5_2.sce#S##87418
+5#Non Linear Applications of IC OPamps#5.12#Frequency of oscillation#Ex5_12.sce#2582/CH5/EX5.12/Ex5_12.sce#S##97241
+5#Non Linear Applications of IC OPamps#5.11#Triangular wave generator#Ex5_11.sce#2582/CH5/EX5.11/Ex5_11.sce#S##97240
+5#Non Linear Applications of IC OPamps#5.1#Find VUT and VLT#Ex5_1.sce#2582/CH5/EX5.1/Ex5_1.sce#S##98279
+4#Digital Integrated Circuit Design#4.3#Gain in transition region#Ex4_3.sce#2582/CH4/EX4.3/Ex4_3.sce#S##97246
+3#Linear Applications of IC OPamp#3.9#Second order low pass filter#Ex3_9.sce#2582/CH3/EX3.9/Ex3_9.sce#S##98268
+3#Linear Applications of IC OPamp#3.8#Second order low pass filter#Ex3_8.sce#2582/CH3/EX3.8/Ex3_8.sce#S##98267
+3#Linear Applications of IC OPamp#3.7#Second order Butterworth filter#Ex3_7.sce#2582/CH3/EX3.7/Ex3_7.sce#S##98266
+3#Linear Applications of IC OPamp#3.6#Second order low pass filter#Ex3_6.sce#2582/CH3/EX3.6/Ex3_6.sce#S##98265
+3#Linear Applications of IC OPamp#3.5#First order low pass filter#Ex3_5.sce#2582/CH3/EX3.5/Ex3_5.sce#S##98264
+3#Linear Applications of IC OPamp#3.4#Approximate values of attenuation#Ex3_4.sce#2582/CH3/EX3.4/Ex3_4.sce#S##98263
+3#Linear Applications of IC OPamp#3.3#Design invertin amplifier#Ex3_3.sce#2582/CH3/EX3.3/Ex3_3.sce#S##87392
+3#Linear Applications of IC OPamp#3.28#Design the KHN circuit#Ex3_28.sce#2582/CH3/EX3.28/Ex3_28.sce#S##87416
+3#Linear Applications of IC OPamp#3.26#Resulting shift#Ex3_26.sce#2582/CH3/EX3.26/Ex3_26.sce#S##92345
+3#Linear Applications of IC OPamp#3.25#Value of R#Ex3_25.sce#2582/CH3/EX3.25/Ex3_25.sce#S##98293
+3#Linear Applications of IC OPamp#3.24#Cascading components#Ex3_24.sce#2582/CH3/EX3.24/Ex3_24.sce#S##98292
+3#Linear Applications of IC OPamp#3.23#First order opamp high pass filter#Ex3_23.sce#2582/CH3/EX3.23/Ex3_23.sce#S##98291
+3#Linear Applications of IC OPamp#3.22#First order opamp RC low pass filter#Ex3_22.sce#2582/CH3/EX3.22/Ex3_22.sce#S##98290
+3#Linear Applications of IC OPamp#3.21#Value of T and FI#Ex3_21.sce#2582/CH3/EX3.21/Ex3_21.sce#S##98289
+3#Linear Applications of IC OPamp#3.20#First order low pass filter#Ex3_20.sce#2582/CH3/EX3.20/Ex3_20.sce#S##98288
+3#Linear Applications of IC OPamp#3.2#Output Voltage#Ex3_2.sce#2582/CH3/EX3.2/Ex3_2.sce#S##87391
+3#Linear Applications of IC OPamp#3.19#Frequency of oscillation#Ex3_19.sce#2582/CH3/EX3.19/Ex3_19.sce#S##98278
+3#Linear Applications of IC OPamp#3.18#Wein Bridge Oscillator#Ex3_18.sce#2582/CH3/EX3.18/Ex3_18.sce#S##98277
+3#Linear Applications of IC OPamp#3.17#Frequency of oscillation#Ex3_17.sce#2582/CH3/EX3.17/Ex3_17.sce#S##98276
+3#Linear Applications of IC OPamp#3.16#Minimum Gain#Ex3_16.sce#2582/CH3/EX3.16/Ex3_16.sce#S##98275
+3#Linear Applications of IC OPamp#3.15#Low pass filter#Ex3_15.sce#2582/CH3/EX3.15/Ex3_15.sce#S##98274
+3#Linear Applications of IC OPamp#3.14#Active notch filter#Ex3_14.sce#2582/CH3/EX3.14/Ex3_14.sce#S##98273
+3#Linear Applications of IC OPamp#3.13#Wide band stop filter#Ex3_13.sce#2582/CH3/EX3.13/Ex3_13.sce#S##98272
+3#Linear Applications of IC OPamp#3.12#Design a band pass filter#Ex3_12.sce#2582/CH3/EX3.12/Ex3_12.sce#S##98271
+3#Linear Applications of IC OPamp#3.11#Design a band pass filter#Ex3_11.sce#2582/CH3/EX3.11/Ex3_11.sce#S##98270
+3#Linear Applications of IC OPamp#3.10#Design a band pass filter#Ex3_10.sce#2582/CH3/EX3.10/Ex3_10.sce#S##98269
+3#Linear Applications of IC OPamp#3.1#Value of Rf#Ex3_1.sce#2582/CH3/EX3.1/Ex3_1.sce#S##87390
+2#The 741 IC OPamp#2.5#Output voltage limits#Ex2_5.sce#2582/CH2/EX2.5/Ex2_5.sce#S##87388
+2#The 741 IC OPamp#2.4#Full power Bandwidth#Ex2_4.sce#2582/CH2/EX2.4/Ex2_4.sce#S##98104
+2#The 741 IC OPamp#2.3#Slew rate#Ex2_3.sce#2582/CH2/EX2.3/Ex2_3.sce#S##98105
+2#The 741 IC OPamp#2.2#Design a widlar current source#Ex2_2.sce#2582/CH2/EX2.2/Ex2_2.sce#S##98103
+2#The 741 IC OPamp#2.1#Input reference current#Ex2_1.sce#2582/CH2/EX2.1/Ex2_1.sce#S##98102
+1#Analog Integrated Circuit Design#1.9#Current gain#Ex1_9.sce#2582/CH1/EX1.9/Ex1_9.sce#S##98091
+1#Analog Integrated Circuit Design#1.7#Transistor ratio#Ex1_7.sce#2582/CH1/EX1.7/Ex1_7.sce#S##98090
+1#Analog Integrated Circuit Design#1.4#Current transfer ratio#Ex1_4.sce#2582/CH1/EX1.4/Ex1_4.sce#S##98089
+1#Analog Integrated Circuit Design#1.3.1#Current gain#Ex1_3_page20.sce#2582/CH1/EX1.3.1/Ex1_3_page20.sce#S##97238
+1#Analog Integrated Circuit Design#1.3#Design a current source#Ex1_3.sce#2582/CH1/EX1.3/Ex1_3.sce#S##87367
+1#Analog Integrated Circuit Design#1.21#IC2 IC3 IC4#Ex1_21.sce#2582/CH1/EX1.21/Ex1_21.sce#S##98101
+1#Analog Integrated Circuit Design#1.20#IC1 IC2 and RC#Ex1_20.sce#2582/CH1/EX1.20/Ex1_20.sce#S##98100
+1#Analog Integrated Circuit Design#1.19#Calculate current#Ex1_19.sce#2582/CH1/EX1.19/Ex1_19.sce#S##98099
+1#Analog Integrated Circuit Design#1.18#Design a widlar current source#Ex1_18.sce#2582/CH1/EX1.18/Ex1_18.sce#S##98098
+1#Analog Integrated Circuit Design#1.17#Design a widlar current source#Ex1_17.sce#2582/CH1/EX1.17/Ex1_17.sce#S##98097
+1#Analog Integrated Circuit Design#1.16#Find Iout#Ex1_16.sce#2582/CH1/EX1.16/Ex1_16.sce#S##98096
+1#Analog Integrated Circuit Design#1.15#Modified current mirror circuit#Ex1_15.sce#2582/CH1/EX1.15/Ex1_15.sce#S##98095
+1#Analog Integrated Circuit Design#1.14#CIrcuit of current source#Ex1_14.sce#2582/CH1/EX1.14/Ex1_14.sce#S##98094
+1#Analog Integrated Circuit Design#1.13#Design a current mirror circuit#Ex1_13.sce#2582/CH1/EX1.13/Ex1_13.sce#S##98093
+1#Analog Integrated Circuit Design#1.12#Design a current mirror circuit#Ex1_12.sce#2582/CH1/EX1.12/Ex1_12.sce#S##98092
+1#Analog Integrated Circuit Design#1.11#Lowest output voltage#Ex1_11.sce#2582/CH1/EX1.11/Ex1_11.sce#S##87373
+1#Analog Integrated Circuit Design#1.10#Change in IO#Ex1_10.sce#2582/CH1/EX1.10/Ex1_10.sce#S##87372
+1#Analog Integrated Circuit Design#1.1#Lowest value of VO#Ex1_1.sce#2582/CH1/EX1.1/Ex1_1.sce#S##87366

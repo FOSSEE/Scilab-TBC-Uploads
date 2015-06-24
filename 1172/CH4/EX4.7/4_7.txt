@@ -1,0 +1,5 @@
+
+ # Problem 7 # 
+Standard formula used is 
+ coriolis force = -2*m*f x v
+ Angular velocity of Earth will be 6.187184e-04 rad/s 

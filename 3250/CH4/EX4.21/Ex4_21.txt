@@ -1,0 +1,3 @@
+ # PROBLEM 4.21 # 
+ 
+ Grinding force = 3 N

@@ -1,0 +1,5 @@
+ # PROBLEM 16 # 
+Standard formula used 
+  nu = a*(Z-b)^2 ........Moseley law 
+
+ Wavelength of x-ray is 0.199796 Angstrom.

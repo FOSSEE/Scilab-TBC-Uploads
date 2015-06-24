@@ -1,0 +1,1 @@
+Supply voltage that turns the crowbar is 6.35 volts

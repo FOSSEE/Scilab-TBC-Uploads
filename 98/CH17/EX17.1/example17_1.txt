@@ -1,0 +1,11 @@
+% Reactance of alternator 1 is = 70.00 % 
+
+% Reactance of alternator 2 is = 87.50 % 
+
+Line current = 1684 A 
+
+Total percentage reactance from generator nuetral upto fault point = 38.89 % 
+
+Short circuit current = 4330 A 
+
+

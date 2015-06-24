@@ -1,0 +1,12 @@
+speed of the motor when 50 Amp current taking from supply(in rpm)=   
+ 
+    1241.8605  
+ 
+ electro-magnetic torque generatedwhen motor running at 600 rpm(in Nw-m)   
+ 
+    342.35669  
+ 
+ electro-magnetic torque generated in second case(in Nw-m)   
+ 
+    85.589172  
+ 

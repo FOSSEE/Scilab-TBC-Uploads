@@ -1,0 +1,7 @@
+ 
+ example 10_15   
+
+loads on generaating station by economic creatirian method is 85MW,14MW,100MW
+load on generating station 2 is less then minimum value 36MW 
+ so it is made equal to minimum value 36MW
+loads on generaating station by economic creatirian method is 72.750MW,91.250MW 

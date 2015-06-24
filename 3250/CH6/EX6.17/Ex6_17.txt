@@ -1,0 +1,4 @@
+
+ # PROBLEM 6.17 # 
+
+ The time required to drill a through hole = 0.001500 sec 

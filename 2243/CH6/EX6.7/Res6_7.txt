@@ -1,0 +1,15 @@
+ Photoelectric effect :
+
+Electron energy : 3.9 eV 
+ Electron momentum  : 1.07 x 10^-24 kg m/s 
+ Momentum of incident photon : 3.31 x 10^-27 kg m/s 
+ pe/pp : 322 
+
+Compton  effect :
+
+Electron energy : 568.9 eV 
+ Electron momentum  : 1.3 x 10^-23 kg m/s 
+ Momentum of incident photon : 6.63 x 10^-24 kg m/s 
+ pe/pp : 1.94 
+
+ 

@@ -1,0 +1,39 @@
+ 
+ Let us go on modifying Zbus by including nodes and the elements connected to it one by  
+      one as given in the textbook                                                       
+
+step-1 type1 modification
+Zbus= 
+    0.25  
+
+step-2 type2 modification
+Zbus= 
+    0.25    0.25  
+    0.25    0.35  
+
+step-3 type2 modification
+Zbus= 
+    0.25    0.25    0.25  
+    0.25    0.35    0.25  
+    0.25    0.25    0.35  
+
+step-4 type3 modification
+Zbus= 
+    0.1458333    0.1041667    0.1458333  
+    0.1041667    0.1458333    0.1041667  
+    0.1458333    0.1041667    0.2458333  
+This is the final Zbus matrix after including all the elements
+
+step-5 type4 modification
+Zbus= 
+    0.1397059    0.1102941    0.125  
+    0.1102941    0.1397059    0.125  
+    0.125        0.125        0.175  
+ 
+ opening a line between 2-3 is equivalent to connecting (-0.1) between bus3 bus2   
+Zbus= 
+    0.1458333    0.1041667    0.1458333  
+    0.1041667    0.1458333    0.1041667  
+    0.1458333    0.1041667    0.2458333  
+(same as in step 4) 
+

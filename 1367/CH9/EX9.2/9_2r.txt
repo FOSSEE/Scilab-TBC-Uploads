@@ -1,0 +1,9 @@
+  
+ Average area of one grain (in sq cm) =    
+ 
+    0.0000403  
+ 
+ Boundary Area per cubic centimetre of steel (in sq cm) =    
+ 
+    472.44094  
+ 

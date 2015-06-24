@@ -1,0 +1,16 @@
+(a)% resistance(in %)=   
+ 
+    1.  
+ 
+ (b)Regulation at unity power factor(in%)=   
+ 
+    1.  
+ 
+ Regulation at 0.8 lagging power factor(in%)=   
+ 
+    4.4  
+ 
+ Regulation at leading power factor(in%)=   
+ 
+  - 2.8  
+ 

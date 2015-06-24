@@ -1,0 +1,13 @@
+// Example 1.42 One urn contains 2 white and 2 black balls;
+clc;
+clear;
+E1=(2/4)*(2/6);
+E2=(2/4)*(4/6);
+disp(E2, "Probab. that balls are of black colour=",E1,"Probab. that balls are of white colour=");
+disp(E1+E2,"The required Probability that they will be of same colour=");
+S=1/2;
+disp(S,"Selection of one urn out of two urn=");
+P1=S*(2/4);
+P2=S*(2/6);
+disp(P1, "Probab. that white ball is selected from urn I=", P2,"Probab. that white ball is selected from urn II");
+disp(P1+P2,"The required Probability that it will be a white colour=");

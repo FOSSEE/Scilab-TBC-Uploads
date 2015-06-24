@@ -1,0 +1,1 @@
+AcclInitial=1 //cm/s^2

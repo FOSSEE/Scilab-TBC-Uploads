@@ -1,0 +1,8 @@
+ 
+
+
+Mutual inductance between power line and telephone line = 0.075774 mH/km
+
+
+
+Voltage induced in the telephone circuit = 2.381 V/km

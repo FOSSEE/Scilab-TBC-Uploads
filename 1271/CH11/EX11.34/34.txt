@@ -1,0 +1,2 @@
+
+ Proper life time of particle is 7.180220e-08 sec.

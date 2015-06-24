@@ -1,0 +1,12 @@
+(a) R = 10K.Assume both diodes are conducting.We have:
+100 = 10.02*I1 + 10*I2 + 0.2
+ 100 = 10.01*I2 + 10*I1 + 0.6
+I1 = 15.692 A,I2 = -5.744 A
+Solving,we find I2<0.Thus D is not ON
+I1 = 9.96e+000 A and I2 = 0
+
+(b) R=1K.Assume both diodes are ON,we have:
+100 = 1.52*I1 + 1.5*I2 + 0.2
+ 100 = 1.515*I2 + 1.5*I1 + 0.6
+Solving,we find
+I1 = 39.716 A and I2 = 26.288 A.Hence assumption is valid 

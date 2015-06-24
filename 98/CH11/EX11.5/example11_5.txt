@@ -1,0 +1,7 @@
+Capacitance of the cable = 0.254 uF 
+
+Voltage between core and sheath = 38105 V 
+
+Charging current = 3.04 A 
+
+

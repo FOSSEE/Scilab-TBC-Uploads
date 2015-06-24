@@ -1,0 +1,18 @@
+
+ example 4 16   
+ load current i1 962.24-721.68A 
+ load current current on improved power factor 962.24-316.27jA 
+ (a)   
+ line current of 400V capacitor bank 405.41A
+ line current of 2200 capacitor bank 73.71A 
+ phase current of capacitor bank 42.56A 
+ reactance 51.70 
+ capacitance 61.57F*10^(-6) 
+ (b)   
+ kVA rating 280.9kVA 
+ kVA rating of transformer to convert 400V to 2200V will be the same as the kVA rating of capacitor bankpercentage reduction in losses 29 percent 
+ (d)   
+ phase current 234.1A 
+ reactance 1.71ohm 
+ capasitance 1862.61*10^-6F 
+ ratio of capacitance 0.033 

@@ -1,0 +1,9 @@
+ 
+ Power in port1 (in mW) =   
+ 
+    9.9173554  
+ 
+ Power in port2 (in mW) =   
+ 
+    9.6  
+ 

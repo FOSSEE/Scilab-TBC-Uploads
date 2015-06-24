@@ -1,0 +1,2 @@
+ The power radiated = 15405.625000 watts
+ The radiation resistance = 3.081125 ohm 

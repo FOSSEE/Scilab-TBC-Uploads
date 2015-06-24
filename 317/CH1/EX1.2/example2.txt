@@ -1,0 +1,1 @@
+The stiff range for the current source is a load resistance from 0 to 100 killo ohms.

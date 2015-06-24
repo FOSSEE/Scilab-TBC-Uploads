@@ -1,0 +1,3 @@
+ relative permittivity of the specimen=   
+ 
+    6.  

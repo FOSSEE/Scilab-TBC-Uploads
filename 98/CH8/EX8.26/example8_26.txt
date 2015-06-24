@@ -1,0 +1,19 @@
+Effective height of each tower = 20 m 
+
+Vertical distance between towers is = 15 m 
+
+Horizontal distance between two towers = 299 m 
+
+x1+x2=299 
+
+x2-x2=150 m 
+
+Solving the two, x1 = 74 m , x2 = 224 m 
+
+Sag S2 = 16.86 m 
+
+BC = 35.00 m 
+
+Clearance from the lowest point O from the ground = 14.40 m 
+
+

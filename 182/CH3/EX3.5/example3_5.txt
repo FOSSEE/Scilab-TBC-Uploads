@@ -1,0 +1,3 @@
+ Ammeter range when switch is at B is 10.05 mA
+Ammeter range when switch is at C is 100.50 mA
+Ammeter range when switch is at D is 1005.00 mA

@@ -1,0 +1,4 @@
+  
+ Example 3.8   
+I1=11.361713A
+primary power factor=0.831741degrees 

@@ -1,0 +1,10 @@
+ R  =
+ 
+    1000.  
+ g  =
+ 
+    1000.  
+
+
+	 noise voltage = 1.812667 uV  
+ Execution done.   

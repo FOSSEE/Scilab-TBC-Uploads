@@ -1,0 +1,6 @@
+# PROBLEM 14 # 
+ Standard formula used 
+ l = l_0/((1-v^2/c^2)^1/2)  
+ l^2 = l_x^2 + l_y^2 
+
+ Percentage length contraction is 8.348486 percent.

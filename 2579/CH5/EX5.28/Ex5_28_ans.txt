@@ -1,0 +1,3 @@
+ The line of sight range = 61.612339 km
+ The field strength = 23.950566 mV/m
+ The distance = 58727 km

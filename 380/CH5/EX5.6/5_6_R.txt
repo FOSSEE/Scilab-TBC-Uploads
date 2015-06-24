@@ -1,0 +1,15 @@
+ R_fx (in ohms)=   
+ 
+    18.571429  
+ 
+ (a) Terminal voltage (in Volts)=   
+ 
+    142.406  
+ 
+ (b) Voltage Regulation (%)=   
+ 
+    19.376993  
+ 
+ (c) Efficiency (%)=   
+ 
+    79.215166  

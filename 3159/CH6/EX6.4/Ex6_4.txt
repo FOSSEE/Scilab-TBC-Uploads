@@ -1,0 +1,3 @@
+ 
+ Example 6.4
+ Average down climb of crystal is 2.62e-06m 

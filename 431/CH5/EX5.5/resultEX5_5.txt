@@ -1,0 +1,11 @@
+  
+ example 5.5   
+ 
+ E(line to line)=  440V   
+P=  8
+E(per phase)=  254V
+slot angle=  30 degree electrical
+pitch factor=1.000000
+distribution factor=  0.965926
+
+flux per pole=  0.037021Wb

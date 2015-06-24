@@ -1,0 +1,5 @@
+ # Problem 8a # 
+
+ Standard formula used 
+ l = l_o* sqrt ( 1- (v/c)^2)
+ Speed of spaceship is 2.598076e+08 m/s.

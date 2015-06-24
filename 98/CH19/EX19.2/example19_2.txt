@@ -1,0 +1,13 @@
+Inductance per phase = 0.01592 H 
+
+(i) Maximum value of recovery voltage = 8.98 kV 
+
+    Peak restriking voltage = 17.96 kV 
+
+(ii) Frequency of oscillation = 12616 Hz 
+
+(iii) Time t at which peak restriking voltage occurs = 39.63 us 
+
+      Average rate of rise of recovery voltage = 453228 kV/sec 
+
+

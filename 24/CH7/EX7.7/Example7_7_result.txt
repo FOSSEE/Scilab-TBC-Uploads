@@ -1,0 +1,5 @@
+**Sample Problem 7-7a**
+The work done by the spring force is -0.059004J
+
+**Sample Problem 7-7b**
+The work done by the spring is 0.029604J 

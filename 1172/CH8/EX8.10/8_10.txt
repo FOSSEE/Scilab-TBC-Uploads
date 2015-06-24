@@ -1,0 +1,4 @@
+ # Problem 10 # 
+Standard formula used U_f - U_i = 1/2 * m *(u^2 - v^2)
+ 
+ Velocity required by mass is 1.118313e+04 m/s.

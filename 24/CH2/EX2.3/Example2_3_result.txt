@@ -1,0 +1,2 @@
+**Sample Problem 2-3**
+Velocity at t=3.5 second is equal to -67.975000 m/s 

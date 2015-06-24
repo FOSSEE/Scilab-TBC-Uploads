@@ -1,0 +1,8 @@
+**Sample Problem 5-8a**
+The reading of the scale in case a is 707.560000 **Sample Problem 5-8b**
+The reading of the scale in case b if cab moves upaward is 938.600000
+The reading of the scale in case b if cab moves downaward is 476.520000
+
+**Sample Problem 5-8b**
+The net force on passenger during upward journey is 231.040000 N
+The acceleration of passenger in the frame if cab is 0 

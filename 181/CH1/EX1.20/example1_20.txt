@@ -1,0 +1,2 @@
+ Electron concentration is 8.66e+009 cm^-3
+Hole concentration is 2.60e+010 cm^-3 

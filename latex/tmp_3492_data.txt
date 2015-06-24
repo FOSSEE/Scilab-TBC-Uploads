@@ -1,0 +1,86 @@
+8#Magnetic properties and conductivity#8.7#Energy stored in the solenoid#Ex8_7.sce#3492/CH8/EX8.7/Ex8_7.sce#S##117365
+8#Magnetic properties and conductivity#8.5#Inductance#Ex8_5.sce#3492/CH8/EX8.5/Ex8_5.sce#S##117364
+8#Magnetic properties and conductivity#8.3#Saturation magnetization in iron#Ex8_3.sce#3492/CH8/EX8.3/Ex8_3.sce#S##117363
+7#Dielectric Materials and Insulation#7.7#Dielectric loss#Ex7_7.sce#3492/CH7/EX7.7/Ex7_7.sce#S##117387
+7#Dielectric Materials and Insulation#7.6#Dielectric loss per unit capacitance#Ex7_6.sce#3492/CH7/EX7.6/Ex7_6.sce#S##117386
+7#Dielectric Materials and Insulation#7.3#dielectric constant#Ex7_3.sce#3492/CH7/EX7.3/Ex7_3.sce#S##117356
+7#Dielectric Materials and Insulation#7.2#Electronic Polarizability of covalent solids#Ex7_2.sce#3492/CH7/EX7.2/Ex7_2.sce#S##117355
+7#Dielectric Materials and Insulation#7.15#Minimum radiation intensity#Ex7_15.sce#3492/CH7/EX7.15/Ex7_15.sce#S##117362
+7#Dielectric Materials and Insulation#7.14#Quality factor of the crystal#Ex7_14.sce#3492/CH7/EX7.14/Ex7_14.sce#S##117361
+7#Dielectric Materials and Insulation#7.13#frequency#Ex7_13.sce#3492/CH7/EX7.13/Ex7_13.sce#S##117360
+7#Dielectric Materials and Insulation#7.12#Force#Ex7_12.sce#3492/CH7/EX7.12/Ex7_12.sce#S##117359
+7#Dielectric Materials and Insulation#7.11#conductance#Ex7_11.sce#3492/CH7/EX7.11/Ex7_11.sce#S##117358
+7#Dielectric Materials and Insulation#7.10#Dielectric Breakdown in a coaxial cable#Ex7_10.sce#3492/CH7/EX7.10/Ex7_10.sce#S##117357
+7#Dielectric Materials and Insulation#7.1#dielectric constant#Ex7_1.sce#3492/CH7/EX7.1/Ex7_1.sce#S##117354
+6#Semiconductor devices#6.9#power and voltage#Ex6_9.sce#3492/CH6/EX6.9/Ex6_9.sce#S##117350
+6#Semiconductor devices#6.8#Emitter Injection Efficiency #Ex6_8.sce#3492/CH6/EX6.8/Ex6_8.sce#S##117349
+6#Semiconductor devices#6.7#A pnp transistor#Ex6_7.sce#3492/CH6/EX6.7/Ex6_7.sce#S##117485
+6#Semiconductor devices#6.6#Avalanche breakdown#Ex6_6.sce#3492/CH6/EX6.6/Ex6_6.sce#S##117347
+6#Semiconductor devices#6.5#resistance and capacitance#Ex6_5.sce#3492/CH6/EX6.5/Ex6_5.sce#S##117346
+6#Semiconductor devices#6.3#Forward and Reverse biased#Ex6_3.sce#3492/CH6/EX6.3/Ex6_3.sce#S##117409
+6#Semiconductor devices#6.2#depletion width#Ex6_2.sce#3492/CH6/EX6.2/Ex6_2.sce#S##117344
+6#Semiconductor devices#6.13#shot noise#Ex6_13.sce#3492/CH6/EX6.13/Ex6_13.sce#S##117353
+6#Semiconductor devices#6.11#drain current#Ex6_11.sce#3492/CH6/EX6.11/Ex6_11.sce#S##117352
+6#Semiconductor devices#6.10#jet amplifier#Ex6_10.sce#3492/CH6/EX6.10/Ex6_10.sce#S##117351
+6#Semiconductor devices#6.1#Built in potential#Ex6_1.sce#3492/CH6/EX6.1/Ex6_1.sce#S##117343
+5#Semiconductors#5.9#Compensation Doped Si#Ex5_9.sce#3492/CH5/EX5.9/Ex5_9.sce#S##117338
+5#Semiconductors#5.7#Saturation and Intrinsic temperatures#Ex5_7.sce#3492/CH5/EX5.7/Ex5_7.sce#S##117337
+5#Semiconductors#5.5#fermi level#Ex5_5.sce#3492/CH5/EX5.5/Ex5_5.sce#S##117336
+5#Semiconductors#5.4#compensation doping#Ex5_4.sce#3492/CH5/EX5.4/Ex5_4.sce#S##117335
+5#Semiconductors#5.3#Resistivity of intrinsic and doped Si#Ex5_3.sce#3492/CH5/EX5.3/Ex5_3.sce#S##117334
+5#Semiconductors#5.2#Mean speed of electrons in conduction band#Ex5_2.sce#3492/CH5/EX5.2/Ex5_2.sce#S##117333
+5#Semiconductors#5.18#Schottky diode#Ex5_18.sce#3492/CH5/EX5.18/Ex5_18.sce#S##117342
+5#Semiconductors#5.17#Photogeneration in GaAs#Ex5_17.sce#3492/CH5/EX5.17/Ex5_17.sce#S##117341
+5#Semiconductors#5.13#Diffusion coefficient of electrons in Si#Ex5_13.sce#3492/CH5/EX5.13/Ex5_13.sce#S##117340
+5#Semiconductors#5.11#Photoconductivity#Ex5_11.sce#3492/CH5/EX5.11/Ex5_11.sce#S##117339
+5#Semiconductors#5.1#Intrinsic concentration and conduction of Si#Ex5_1.sce#3492/CH5/EX5.1/Ex5_1.sce#S##117332
+4#Bonding the Band Theory of Solids and Statistics#4.9#Mean speed of conduction electrons#Ex4_9.sce#3492/CH4/EX4.9/Ex4_9.sce#S##117327
+4#Bonding the Band Theory of Solids and Statistics#4.8#Total number of states in a band#Ex4_8.sce#3492/CH4/EX4.8/Ex4_8.sce#S##117326
+4#Bonding the Band Theory of Solids and Statistics#4.7#Density of states in a band#Ex4_7.sce#3492/CH4/EX4.7/Ex4_7.sce#S##117325
+4#Bonding the Band Theory of Solids and Statistics#4.6#Cutt Off wavelength#Ex4_6.sce#3492/CH4/EX4.6/Ex4_6.sce#S##117407
+4#Bonding the Band Theory of Solids and Statistics#4.5#Fermi speed#EX4_5.sce#3492/CH4/EX4.5/EX4_5.sce#S##117323
+4#Bonding the Band Theory of Solids and Statistics#4.14#Field Assisted Thermionic Emission#Ex4_14.sce#3492/CH4/EX4.14/Ex4_14.sce#S##117435
+4#Bonding the Band Theory of Solids and Statistics#4.13#Vacuum tubes#Ex4_13.sce#3492/CH4/EX4.13/Ex4_13.sce#S##117330
+4#Bonding the Band Theory of Solids and Statistics#4.11#Thermocouple EMF#Ex4_11.sce#3492/CH4/EX4.11/Ex4_11.sce#S##117329
+4#Bonding the Band Theory of Solids and Statistics#4.10#Mean free path of electrons in a metal#Ex4_10.sce#3492/CH4/EX4.10/Ex4_10.sce#S##117328
+3#Elementary Quantum Physics#3.9#uncertainity principle with macroscopic objects#Ex3_9.sce#3492/CH3/EX3.9/Ex3_9.sce#S##117313
+3#Elementary Quantum Physics#3.8#uncertainity principle on Atomic scale#Ex3_8.sce#3492/CH3/EX3.8/Ex3_8.sce#S##117312
+3#Elementary Quantum Physics#3.6#separation of energy levels#Ex3_6.sce#3492/CH3/EX3.6/Ex3_6.sce#S##117311
+3#Elementary Quantum Physics#3.5#energy #Ex3_5.sce#3492/CH3/EX3.5/Ex3_5.sce#S##117310
+3#Elementary Quantum Physics#3.4#wavelength of electron#Ex3_4.sce#3492/CH3/EX3.4/Ex3_4.sce#S##117309
+3#Elementary Quantum Physics#3.21#Doppler Broadened Linewidth#Ex3_21.sce#3492/CH3/EX3.21/Ex3_21.sce#S##117322
+3#Elementary Quantum Physics#3.20#efficiency of HeNe laser#Ex3_20.sce#3492/CH3/EX3.20/Ex3_20.sce#S##117321
+3#Elementary Quantum Physics#3.2#Photoelectric experiment#Ex3_2.sce#3492/CH3/EX3.2/Ex3_2.sce#S##117308
+3#Elementary Quantum Physics#3.16#Giant atoms in space#Ex3_16.sce#3492/CH3/EX3.16/Ex3_16.sce#S##117406
+3#Elementary Quantum Physics#3.15#Fraunhofer lines#Ex3_15.sce#3492/CH3/EX3.15/Ex3_15.sce#S##117319
+3#Elementary Quantum Physics#3.14#Ionization energy#Ex3_14.sce#3492/CH3/EX3.14/Ex3_14.sce#S##117318
+3#Elementary Quantum Physics#3.13#wavelengths of radiation#Ex3_13.sce#3492/CH3/EX3.13/Ex3_13.sce#S##117317
+3#Elementary Quantum Physics#3.12#number of states with same energy#Ex3_12.sce#3492/CH3/EX3.12/Ex3_12.sce#S##117316
+3#Elementary Quantum Physics#3.11#significance of small h#Ex3_11.sce#3492/CH3/EX3.11/Ex3_11.sce#S##117315
+3#Elementary Quantum Physics#3.10#Transmission coefficient#Ex3_10.sce#3492/CH3/EX3.10/Ex3_10.sce#S##117314
+3#Elementary Quantum Physics#3.1#energy #Ex3_1.sce#3492/CH3/EX3.1/Ex3_1.sce#S##117307
+2#Electrical and thermal conduction in solids#2.9#temperature of the filament#Ex2_9.sce#3492/CH2/EX2.9/Ex2_9.sce#S##117297
+2#Electrical and thermal conduction in solids#2.7#TCR and n#Ex2_7.sce#3492/CH2/EX2.7/Ex2_7.sce#S##117296
+2#Electrical and thermal conduction in solids#2.5#drift mobility and conductivity#Ex2_5.sce#3492/CH2/EX2.5/Ex2_5.sce#S##117405
+2#Electrical and thermal conduction in solids#2.4#percentage change in the resistance#Ex2_4.sce#3492/CH2/EX2.4/Ex2_4.sce#S##117294
+2#Electrical and thermal conduction in solids#2.3#Applied electric field#Ex2_3.sce#3492/CH2/EX2.3/Ex2_3.sce#S##117293
+2#Electrical and thermal conduction in solids#2.21#temperature drop#Ex2_21.sce#3492/CH2/EX2.21/Ex2_21.sce#S##117306
+2#Electrical and thermal conduction in solids#2.20#Thermal conductivity#Ex2_20.sce#3492/CH2/EX2.20/Ex2_20.sce#S##117305
+2#Electrical and thermal conduction in solids#2.2#drift mobility of electrons#Ex2_2.sce#3492/CH2/EX2.2/Ex2_2.sce#S##117292
+2#Electrical and thermal conduction in solids#2.19#concentration of conduction electrons#Ex2_19.sce#3492/CH2/EX2.19/Ex2_19.sce#S##117304
+2#Electrical and thermal conduction in solids#2.18#drift mobility #Ex2_18.sce#3492/CH2/EX2.18/Ex2_18.sce#S##117303
+2#Electrical and thermal conduction in solids#2.16#change in dc resistance#Ex2_16.sce#3492/CH2/EX2.16/Ex2_16.sce#S##117302
+2#Electrical and thermal conduction in solids#2.14#Effective Resistivity#Ex2_14.sce#3492/CH2/EX2.14/Ex2_14.sce#S##117301
+2#Electrical and thermal conduction in solids#2.13#effective resistivity#Ex2_13.sce#3492/CH2/EX2.13/Ex2_13.sce#S##117300
+2#Electrical and thermal conduction in solids#2.11#worst case resistivity#Ex2_11.sce#3492/CH2/EX2.11/Ex2_11.sce#S##117299
+2#Electrical and thermal conduction in solids#2.10#resistivity #Ex2_10.sce#3492/CH2/EX2.10/Ex2_10.sce#S##117298
+1#Elementary Materials Science Concepts#1.9#fractional concentration of vacancies#Ex1_9.sce#3492/CH1/EX1.9/Ex1_9.sce#S##117289
+1#Elementary Materials Science Concepts#1.8#miller indices#Ex1_8.sce#3492/CH1/EX1.8/Ex1_8.sce#S##117288
+1#Elementary Materials Science Concepts#1.7#density of Cu#Ex1_7.sce#3492/CH1/EX1.7/Ex1_7.sce#S##117287
+1#Elementary Materials Science Concepts#1.5#Minimum rms radio signal#Ex1_5.sce#3492/CH1/EX1.5/Ex1_5.sce#S##117404
+1#Elementary Materials Science Concepts#1.4#speed of gas with non interacting electrons#Ex1_4.sce#3492/CH1/EX1.4/Ex1_4.sce#S##117285
+1#Elementary Materials Science Concepts#1.3#heat capacity#Ex1_3.sce#3492/CH1/EX1.3/Ex1_3.sce#S##117284
+1#Elementary Materials Science Concepts#1.2#rms velocity#Ex1_2.sce#3492/CH1/EX1.2/Ex1_2.sce#S##117283
+1#Elementary Materials Science Concepts#1.11#weight fractions#Ex1_11.sce#3492/CH1/EX1.11/Ex1_11.sce#S##117291
+1#Elementary Materials Science Concepts#1.10#concentration of vacancies#Ex1_10.sce#3492/CH1/EX1.10/Ex1_10.sce#S##117290
+1#Elementary Materials Science Concepts#1.1#Bond length and bond energy#Ex1_1.sce#3492/CH1/EX1.1/Ex1_1.sce#S##117282

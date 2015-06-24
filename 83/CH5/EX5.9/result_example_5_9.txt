@@ -1,0 +1,11 @@
+
+
+case(a)
+Power at unity powerfactor that can be received =117.6 MW
+
+case(b)
+Rating of the compensating equipment = 27.40 MVAR
+i.e the compensating equipment must feed positive VARs into the line
+
+case(c)
+Receiving end voltage = 244.9 kV 

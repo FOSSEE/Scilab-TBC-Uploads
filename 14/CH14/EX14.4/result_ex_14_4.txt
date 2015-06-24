@@ -1,0 +1,24 @@
+
+ Ybus formed by inspection is   
+ 
+  - 3.33i    0       3.33i   
+    0      - 7.5i    2.5i    
+    3.33i    2.5i  - 10.83i  
+ 
+ Ybus formed after elimination of Bus 3   
+ 
+  - 2.3060942i    0.7686981i  
+    0.7686981i  - 6.9228994i  
+ 
+ The power abgle equation is   
+
+ Pe = 0.807 * sin(delta) 
+ where delta is the machine rotor angle wrt to the infinite bus 
+ The swing equation is   
+
+ (5.00/180f) * d(delta)^2/dt^2 = 1.00 - 0.81sin(delta) 
+
+ Intial Accelerating power is 0.616 per unit 
+
+ Initial acceleration is 22.16*f 
+ where f is the system frequency 

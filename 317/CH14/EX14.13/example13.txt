@@ -1,0 +1,3 @@
+Constant k is 104 mAmperes/Volts^2
+Drain current when Vgs is 3 Volts is 84.4 mAmperes 
+Drain current when Vgs is 4.5 Volts is 600 mAmperes

@@ -1,0 +1,22 @@
+ 
+
+
+Prefault Voltage = 0.9636pu
+
+Prefault current = 0.7783 at 36.9 deg  PU
+
+Voltage behind subtransient reactance(Generator) = 0.7533+j0.28 pu
+'
+Voltage behind subtransient reactance(Motor) = 1.0337-j0.0934 pu
+
+Under Faulted condition 
+ Ig"=0.6224-j1.6741 pu
+ Im"=-0.6224-j6.8916 pu
+
+Current in fault= -j8.5657 pu
+
+Now
+Ig"= 816.7-j2196.7 A
+Im"= -816.7-j9042.8 A
+If= -j11239 A 
+

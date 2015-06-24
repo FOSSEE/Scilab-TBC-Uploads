@@ -1,0 +1,2 @@
+Number of modes in first case = 44.104795. 
+ Number of modes in second case = 4410.479467.

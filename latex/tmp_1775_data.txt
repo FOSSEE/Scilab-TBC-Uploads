@@ -1,0 +1,108 @@
+7#Air Conditioning#7.3#Supply air condition and Refrigeration load and Total refrigeration capacity and Quantity of fresh air supplied#Chapter7_Example3.sce#1775/CH7/EX7.3/Chapter7_Example3.sce#S##65203
+7#Air Conditioning#7.2#Capacity of coils and Amount of water vapour removed and by pass factor#Chapter7_Example2.sce#1775/CH7/EX7.2/Chapter7_Example2.sce#S##65202
+7#Air Conditioning#7.1#Heating capacity of coil and Surface temperature and Capacity#Chapter7_Example1.sce#1775/CH7/EX7.1/Chapter7_Example1.sce#S##65201
+6#Refrigeration Cycles#6.9#COP when there is no subcooling and when there is subcooling#Chapter6_Example9.sce#1775/CH6/EX6.9/Chapter6_Example9.sce#S##65318
+6#Refrigeration Cycles#6.8#Refrigerating effect and Mass flow rate of refrigerant and Theoretical power and COP and Theoretical bore and stroke of compressor#Chapter6_Example8.sce#1775/CH6/EX6.8/Chapter6_Example8.sce#S##65317
+6#Refrigeration Cycles#6.7#Circulation rate of ammonia and Power required and COP#Chapter6_Example7.sce#1775/CH6/EX6.7/Chapter6_Example7.sce#S##65316
+6#Refrigeration Cycles#6.6#Capacity of refrigeration plant and Mass flow rate of refrigerant and Discharge temperature and Cylinder dimensions and Power of compressor and Theoretical and actual COP#Chapter6_Example6.sce#1775/CH6/EX6.6/Chapter6_Example6.sce#S##65315
+6#Refrigeration Cycles#6.5#COP of system#Chapter6_Example5.sce#1775/CH6/EX6.5/Chapter6_Example5.sce#S##65314
+6#Refrigeration Cycles#6.4#Rate of heat removed and Power input to compreesor and Rate of heat rejection to environment and Coefficient of performance#Chapter6_Example4.sce#1775/CH6/EX6.4/Chapter6_Example4.sce#S##65313
+6#Refrigeration Cycles#6.3#Mass of ice formed#Chapter6_Example3.sce#1775/CH6/EX6.3/Chapter6_Example3.sce#S##65312
+6#Refrigeration Cycles#6.2#Weight of ice formed and Minimum power required#Chapter6_Example2.sce#1775/CH6/EX6.2/Chapter6_Example2.sce#S##65311
+6#Refrigeration Cycles#6.17#COP and Theoretical power required#Chapter6_Example17.sce#1775/CH6/EX6.17/Chapter6_Example17.sce#S##65326
+6#Refrigeration Cycles#6.16#Theoretical COP of refrigerator and Capacity of refrigerator#Chapter6_Example16.sce#1775/CH6/EX6.16/Chapter6_Example16.sce#S##65325
+6#Refrigeration Cycles#6.15#Theoretical COP of machine#Chapter6_Example15.sce#1775/CH6/EX6.15/Chapter6_Example15.sce#S##65324
+6#Refrigeration Cycles#6.14#Theoretical COP and Net cooling produced#Chapter6_Example14.sce#1775/CH6/EX6.14/Chapter6_Example14.sce#S##65323
+6#Refrigeration Cycles#6.13#COP of refrigerator and Driving power required and Air mass flow rate#Chapter6_Example13.sce#1775/CH6/EX6.13/Chapter6_Example13.sce#S##65322
+6#Refrigeration Cycles#6.12#Work developed and Refrigerating effect and COP#Chapter6_Example12.sce#1775/CH6/EX6.12/Chapter6_Example12.sce#S##65321
+6#Refrigeration Cycles#6.11#Maximum and minimum temperature in cycle and COP and Rate of refrigeration#Chapter6_Example11.sce#1775/CH6/EX6.11/Chapter6_Example11.sce#S##65320
+6#Refrigeration Cycles#6.10#Ideal COP of system#Chapter6_Example10.sce#1775/CH6/EX6.10/Chapter6_Example10.sce#S##65319
+6#Refrigeration Cycles#6.1#Claim is correct or not#Chapter6_Example1.sce#1775/CH6/EX6.1/Chapter6_Example1.sce#S##65310
+5#Air Compressors#5.9#Cylinder dimensions#Chapter5_Example9.sce#1775/CH5/EX5.9/Chapter5_Example9.sce#S##65298
+5#Air Compressors#5.8#Mean effective pressure and Brake power#Chapter5_Example8.sce#1775/CH5/EX5.8/Chapter5_Example8.sce#S##65297
+5#Air Compressors#5.7#Free air delivered and Volumetric efficiency and Delivery temperature and Cycle power and Isothermal efficiency#Chapter5_Example7.sce#1775/CH5/EX5.7/Chapter5_Example7.sce#S##65296
+5#Air Compressors#5.6#Mean effective pressure and Power required#Chapter5_Example6.sce#1775/CH5/EX5.6/Chapter5_Example6.sce#S##65295
+5#Air Compressors#5.5#Theoretical volume of air taken#Chapter5_Example5.sce#1775/CH5/EX5.5/Chapter5_Example5.sce#S##65294
+5#Air Compressors#5.4#Volumetric efficiency and Volumetric efficiency referred to atmospheric conditions and Work required#Chapter5_Example4.sce#1775/CH5/EX5.4/Chapter5_Example4.sce#S##65242
+5#Air Compressors#5.3#Cylinder dimensions#Chapter5_Example3.sce#1775/CH5/EX5.3/Chapter5_Example3.sce#S##65237
+5#Air Compressors#5.20#Number of stages and Exact stage pressure ratio and Intermediate pressures#Chapter5_Example20.sce#1775/CH5/EX5.20/Chapter5_Example20.sce#S##65309
+5#Air Compressors#5.2#Size of cylinder#Chapter5_Example2.sce#1775/CH5/EX5.2/Chapter5_Example2.sce#S##65236
+5#Air Compressors#5.19#Intermediate pressures and Effective swept volume and Temperature and volume of air delivered and Workdone#Chapter5_Example19.sce#1775/CH5/EX5.19/Chapter5_Example19.sce#S##65308
+5#Air Compressors#5.18#Delivery pressures and Ratio of cylinder volumes and Temperature and Heat rejected in intercooler and Total indicated power#Chapter5_Example18.sce#1775/CH5/EX5.18/Chapter5_Example18.sce#S##65307
+5#Air Compressors#5.17#Ratio of cylinder diameters#Chapter5_Example17.sce#1775/CH5/EX5.17/Chapter5_Example17.sce#S##65306
+5#Air Compressors#5.16#Heat rejected and Diameter of HP cylinder and Power required#Chapter5_Example16.sce#1775/CH5/EX5.16/Chapter5_Example16.sce#S##65305
+5#Air Compressors#5.15#Power of compressor#Chapter5_Example15.sce#1775/CH5/EX5.15/Chapter5_Example15.sce#S##65304
+5#Air Compressors#5.14#Intermediate pressure and Total volume of each cylinder and Cycle power#Chapter5_Example14.sce#1775/CH5/EX5.14/Chapter5_Example14.sce#S##65303
+5#Air Compressors#5.13#Minimum indicated power and Maximum temperature and Heat to be removed and Mass of cooling water#Chapter5_Example13.sce#1775/CH5/EX5.13/Chapter5_Example13.sce#S##65302
+5#Air Compressors#5.12#Theoretical volume efficiency and Volume of air delivered and Power of compressor#Chapter5_Example12.sce#1775/CH5/EX5.12/Chapter5_Example12.sce#S##65301
+5#Air Compressors#5.11#Power required#Chapter5_Example11.sce#1775/CH5/EX5.11/Chapter5_Example11.sce#S##65300
+5#Air Compressors#5.10#Volumetric efficiency and Indicated power and Isothermal efficiency of compressor#Chapter5_Example10.sce#1775/CH5/EX5.10/Chapter5_Example10.sce#S##65299
+5#Air Compressors#5.1#Indicated power and Mass of air and Temperature delivered by compressor#Chapter5_Example1.sce#1775/CH5/EX5.1/Chapter5_Example1.sce#S##65234
+4#Steam nozzles and Steam turbines#4.9#Type of nozzle and Minimum area of nozzle#Chapter4_Example9.sce#1775/CH4/EX4.9/Chapter4_Example9.sce#S##65351
+4#Steam nozzles and Steam turbines#4.8#Maximum discharge and Area of nozzle at exit#Chapter4_Example8.sce#1775/CH4/EX4.8/Chapter4_Example8.sce#S##65350
+4#Steam nozzles and Steam turbines#4.7#Areas at throat and exit and Steam quality at exit#Chapter4_Example7.sce#1775/CH4/EX4.7/Chapter4_Example7.sce#S##65348
+4#Steam nozzles and Steam turbines#4.6#Nozzle efficiency and Exit area and Throat velocity#Chapter4_Example6.sce#1775/CH4/EX4.6/Chapter4_Example6.sce#S##65347
+4#Steam nozzles and Steam turbines#4.5#Nozzle dimensions and Degree of undercooling and supersaturation and Loss in available heat and Increase in entropy and Ratio of mass flow rate#Chapter4_Example5.sce#1775/CH4/EX4.5/Chapter4_Example5.sce#S##65346
+4#Steam nozzles and Steam turbines#4.4#Throat and exit velocities and Throat and exit areas#Chapter4_Example4.sce#1775/CH4/EX4.4/Chapter4_Example4.sce#S##65345
+4#Steam nozzles and Steam turbines#4.3#Throat area and exit area and Degree of undercooling at exit#Chapter4_Example3.sce#1775/CH4/EX4.3/Chapter4_Example3.sce#S##65342
+4#Steam nozzles and Steam turbines#4.27#Rotor blade angles and Power developed and Isentropic enthalpy drop#Chapter4_Example27.sce#1775/CH4/EX4.27/Chapter4_Example27.sce#S##65369
+4#Steam nozzles and Steam turbines#4.26#Rotor blade angles#Chapter4_Example26.sce#1775/CH4/EX4.26/Chapter4_Example26.sce#S##65368
+4#Steam nozzles and Steam turbines#4.25#Rotor blade angles and Power developed and Final state of steam and Blade height#Chapter4_Example25.sce#1775/CH4/EX4.25/Chapter4_Example25.sce#S##65367
+4#Steam nozzles and Steam turbines#4.24#Rotor blade angles and Power developed and Final state of steam and Blade height#Chapter4_Example24.sce#1775/CH4/EX4.24/Chapter4_Example24.sce#S##65366
+4#Steam nozzles and Steam turbines#4.23#Rotor blade angles and Flow coefficient and Blade loading coefficient and Power developed#Chapter4_Example23.sce#1775/CH4/EX4.23/Chapter4_Example23.sce#S##65365
+4#Steam nozzles and Steam turbines#4.22#Drum diameter and Blade height#Chapter4_Example22.sce#1775/CH4/EX4.22/Chapter4_Example22.sce#S##65364
+4#Steam nozzles and Steam turbines#4.21#Mean diameter of drum and Volume of steam#Chapter4_Example21.sce#1775/CH4/EX4.21/Chapter4_Example21.sce#S##65363
+4#Steam nozzles and Steam turbines#4.20#Blade speed and Turbine power#Chapter4_Example20.sce#1775/CH4/EX4.20/Chapter4_Example20.sce#S##65362
+4#Steam nozzles and Steam turbines#4.2#Increase in pressure and temperature and internal energy#Chapter4_Example2.sce#1775/CH4/EX4.2/Chapter4_Example2.sce#S##65341
+4#Steam nozzles and Steam turbines#4.19#Blade speed and Blade tip angles and Diagram efficiency#Chapter4_Example19.sce#1775/CH4/EX4.19/Chapter4_Example19.sce#S##65361
+4#Steam nozzles and Steam turbines#4.18#Diagram efficiency#Chapter4_Example18.sce#1775/CH4/EX4.18/Chapter4_Example18.sce#S##65360
+4#Steam nozzles and Steam turbines#4.17#Nozzle angle and Blade angle at entry and exit#Chapter4_Example17.sce#1775/CH4/EX4.17/Chapter4_Example17.sce#S##65359
+4#Steam nozzles and Steam turbines#4.16#Blade angles and Turbine power#Chapter4_Example16.sce#1775/CH4/EX4.16/Chapter4_Example16.sce#S##65358
+4#Steam nozzles and Steam turbines#4.15#Blading efficiency and Blade velocity coefficient#Chapter4_Example15.sce#1775/CH4/EX4.15/Chapter4_Example15.sce#S##65357
+4#Steam nozzles and Steam turbines#4.14#Power developed and Blade efficiency and Steam consumption#Chapter4_Example14.sce#1775/CH4/EX4.14/Chapter4_Example14.sce#S##65356
+4#Steam nozzles and Steam turbines#4.13#Blade angles and Tangential force and Axial thrust and Diagram power and Diagram efficiency#Chapter4_Example13.sce#1775/CH4/EX4.13/Chapter4_Example13.sce#S##65355
+4#Steam nozzles and Steam turbines#4.12#Quantity of steam used and Exit velocity of steam#Chapter4_Example12.sce#1775/CH4/EX4.12/Chapter4_Example12.sce#S##65354
+4#Steam nozzles and Steam turbines#4.11#Degree of undercooling and supersaturation#Chapter4_Example11.sce#1775/CH4/EX4.11/Chapter4_Example11.sce#S##65353
+4#Steam nozzles and Steam turbines#4.10#Throat velocity and Mass flow rate of steam#Chapter4_Example10.sce#1775/CH4/EX4.10/Chapter4_Example10.sce#S##65352
+4#Steam nozzles and Steam turbines#4.1#Throat area and Exit area and Mach number at exit#Chapter4_Example1.sce#1775/CH4/EX4.1/Chapter4_Example1.sce#S##65336
+3#Internal Combustion Engines#3.7#Engine dimensions and Brake power#Chapter3_Example7.sce#1775/CH3/EX3.7/Chapter3_Example7.sce#S##65200
+3#Internal Combustion Engines#3.6#Indicated power and Mechanical efficiency of engine#Chapter3_Example6.sce#1775/CH3/EX3.6/Chapter3_Example6.sce#S##65199
+3#Internal Combustion Engines#3.5#Brake power and Brake specific fuel consumption and Indicated thermal efficiency and Energy balance#Chapter3_Example5.sce#1775/CH3/EX3.5/Chapter3_Example5.sce#S##65198
+3#Internal Combustion Engines#3.4#Indicated power and Brake output and Mechanical efficiency and Overall energy balance#Chapter3_Example4.sce#1775/CH3/EX3.4/Chapter3_Example4.sce#S##65197
+3#Internal Combustion Engines#3.3#Indicated power and Brake power and and Brake thermal efficiency and Brake mean effective pressure and Mechanical efficiency and Brake specific fuel consumption#Chapter3_Example3.sce#1775/CH3/EX3.3/Chapter3_Example3.sce#S##65196
+3#Internal Combustion Engines#3.2#Relative efficiency of engine#Chapter3_Example2.sce#1775/CH3/EX3.2/Chapter3_Example2.sce#S##65195
+3#Internal Combustion Engines#3.1#Air standard efficiency and Indicated Power and Indicated thermal efficiency#Chapter3_Example1.sce#1775/CH3/EX3.1/Chapter3_Example1.sce#S##65194
+2#Gas Power Cycles#2.9#Maximum temperature and Thermal efficiency of cycle#Chapter2_Example9.sce#1775/CH2/EX2.9/Chapter2_Example9.sce#S##65180
+2#Gas Power Cycles#2.8#Air standard efficiency and percentage loss in efficiency#Chapter2_Example8.sce#1775/CH2/EX2.8/Chapter2_Example8.sce#S##65179
+2#Gas Power Cycles#2.7#Cutoff ratio and Heat supplied and Cycle efficiency and MEP#Chapter2_Example7.sce#1775/CH2/EX2.7/Chapter2_Example7.sce#S##65178
+2#Gas Power Cycles#2.6#Air standard efficiency#Chapter2_Example6.sce#1775/CH2/EX2.6/Chapter2_Example6.sce#S##65177
+2#Gas Power Cycles#2.5#Pressure and Temperature at the end of heat addition process and Net work output and Thermal efficiency and Mean effective pressure#Chapter2_Example5.sce#1775/CH2/EX2.5/Chapter2_Example5.sce#S##65176
+2#Gas Power Cycles#2.4#Highest temperature and pressure in cycle and Amount of heat transferred and Thermal efficiency and Mean effective pressure#Chapter2_Example4.sce#1775/CH2/EX2.4/Chapter2_Example4.sce#S##65175
+2#Gas Power Cycles#2.3#Air standard efficiency#Chapter2_Example3.sce#1775/CH2/EX2.3/Chapter2_Example3.sce#S##65174
+2#Gas Power Cycles#2.22#Turbine exit pressure and Velocity of exhaust gases and Propulsive efficiency#Chapter2_Example22.sce#1775/CH2/EX2.22/Chapter2_Example22.sce#S##65193
+2#Gas Power Cycles#2.21#Velocity of air leaving nozzle #Chapter2_Example21.sce#1775/CH2/EX2.21/Chapter2_Example21.sce#S##65192
+2#Gas Power Cycles#2.20#Percentage increase in cycle efficiency#Chapter2_Example20.sce#1775/CH2/EX2.20/Chapter2_Example20.sce#S##65191
+2#Gas Power Cycles#2.2#Relative efficiency of engine#Chapter2_Example2.sce#1775/CH2/EX2.2/Chapter2_Example2.sce#S##65173
+2#Gas Power Cycles#2.19#Net power output and Thermal efficiency and Work ratio#Chapter2_Example19.sce#1775/CH2/EX2.19/Chapter2_Example19.sce#S##65190
+2#Gas Power Cycles#2.18#Maximum work output and Cycle efficiency and Comparison with carnot efficiency#Chapter2_Example18.sce#1775/CH2/EX2.18/Chapter2_Example18.sce#S##65189
+2#Gas Power Cycles#2.17#Pressure ratio and Maximum net specific work output and Thermal efficiency and Work ratio and Carnot efficiency#Chapter2_Example17.sce#1775/CH2/EX2.17/Chapter2_Example17.sce#S##65188
+2#Gas Power Cycles#2.16#Cycle efficiency and Heat supplied and rejected and Work output and Turbine exit temperature#Chapter2_Example16.sce#1775/CH2/EX2.16/Chapter2_Example16.sce#S##65187
+2#Gas Power Cycles#2.15#MEP and Thermal efficiency#Chapter2_Example15.sce#1775/CH2/EX2.15/Chapter2_Example15.sce#S##65186
+2#Gas Power Cycles#2.14#Amount of heat added and rejected and Work done and Thermal efficiency#Chapter2_Example14.sce#1775/CH2/EX2.14/Chapter2_Example14.sce#S##65185
+2#Gas Power Cycles#2.13#Ideal efficiency of engine#Chapter2_Example13.sce#1775/CH2/EX2.13/Chapter2_Example13.sce#S##65184
+2#Gas Power Cycles#2.12#Ideal efficiency of cycle#Chapter2_Example12.sce#1775/CH2/EX2.12/Chapter2_Example12.sce#S##65183
+2#Gas Power Cycles#2.11#Cutoff ratio and air standard efficiency#Chapter2_Example11.sce#1775/CH2/EX2.11/Chapter2_Example11.sce#S##65182
+2#Gas Power Cycles#2.10#Thermal efficiency and MEP#Chapter2_Example10.sce#1775/CH2/EX2.10/Chapter2_Example10.sce#S##65181
+2#Gas Power Cycles#2.1#Maximum pressure and temperature of cycle and Cycle efficiency and Mean effective pressure#Chapter2_Example1.sce#1775/CH2/EX2.1/Chapter2_Example1.sce#S##65172
+1#Fuels and Combustion#1.9#Mass of excess air supplied and air fuel ratio#Chapter1_Example9.sce#1775/CH1/EX1.9/Chapter1_Example9.sce#S##65168
+1#Fuels and Combustion#1.8#Mass of air actually supplied and Percentage of excess air supplied#Chapter1_Example8.sce#1775/CH1/EX1.8/Chapter1_Example8.sce#S##65167
+1#Fuels and Combustion#1.7#Total mass of dry flue gases and Percentage composition of dry flue gases by volume#Chapter1_Example7.sce#1775/CH1/EX1.7/Chapter1_Example7.sce#S##65166
+1#Fuels and Combustion#1.6#Mass of air to be supplied and Mass of gaseous products#Chapter1_Example6.sce#1775/CH1/EX1.6/Chapter1_Example6.sce#S##65165
+1#Fuels and Combustion#1.5#Minimum air required and Mass of air actually supplied and Amount of excess air supplied#Chapter1_Example5.sce#1775/CH1/EX1.5/Chapter1_Example5.sce#S##65163
+1#Fuels and Combustion#1.4#Mass of dry flue gas#Chapter1_Example4.sce#1775/CH1/EX1.4/Chapter1_Example4.sce#S##65093
+1#Fuels and Combustion#1.3#Minimum quantity of air and Total mass of products of combustion#Chapter1_Example3.sce#1775/CH1/EX1.3/Chapter1_Example3.sce#S##65089
+1#Fuels and Combustion#1.2#Theoretical volume of air required#Chapter1_Example2.sce#1775/CH1/EX1.2/Chapter1_Example2.sce#S##65086
+1#Fuels and Combustion#1.12#Volume and analysis of products of combustion#Chapter1_Example12.sce#1775/CH1/EX1.12/Chapter1_Example12.sce#S##65171
+1#Fuels and Combustion#1.11#Air fuel ratio#Chapter1_Example11.sce#1775/CH1/EX1.11/Chapter1_Example11.sce#S##65170
+1#Fuels and Combustion#1.10#Volume of air required#Chapter1_Example10.sce#1775/CH1/EX1.10/Chapter1_Example10.sce#S##65169
+1#Fuels and Combustion#1.1#Minimum mass of air required#Chapter1_Example1.sce#1775/CH1/EX1.1/Chapter1_Example1.sce#S##65080

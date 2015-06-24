@@ -1,0 +1,2 @@
+**Sample Problem 43-8**
+The life of rock is 4.372814e+009years

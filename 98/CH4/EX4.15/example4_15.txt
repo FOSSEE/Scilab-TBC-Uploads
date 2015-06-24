@@ -1,0 +1,24 @@
+ x kW - maximum demand 
+y -annual load factor at which cost for both stations are same 
+Units generated per annum = 8760xy kWh 
+
+Installed capacity of steam plant = 1.25x kW 
+Installed capacity of hydro plant = 1.33x kW 
+
+STEAM STATION: 
+Capital cost = Rs. 1500x 
+Interest and depreciation = Rs. 135x 
+Running cost/annum = Rs 438xy 
+Overall cost/kWh = Rs (135x+438xy)/(8760xy) 
+
+HYDRO STATION: 
+Capital cost = Rs. 2793x 
+Interest and depreciation = Rs. 209x 
+Running cost/annum = Rs 280xy 
+Overall cost/kWh = Rs (209x+280xy)/(8760xy) 
+
+Equating operating cost, Load factor y = 47.46 % 
+Max demand = x = 9.62*10^3 kW 
+Cost of generation = Rs. 3298.86*10^3 
+
+

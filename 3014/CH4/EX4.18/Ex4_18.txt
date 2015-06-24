@@ -1,0 +1,4 @@
+
+Example 4.18
+ Frequency is 8.841941 KHz
+ Phase difference between current and voltage is 45 degree.

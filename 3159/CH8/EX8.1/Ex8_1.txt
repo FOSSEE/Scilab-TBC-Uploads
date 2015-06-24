@@ -1,0 +1,3 @@
+
+ Example 8.1
+ Outward flux is 2e-06 kg m^-2 s^-1 

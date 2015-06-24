@@ -1,0 +1,2 @@
+minimum voltage gain is 10
+maximum voltage gain is 110

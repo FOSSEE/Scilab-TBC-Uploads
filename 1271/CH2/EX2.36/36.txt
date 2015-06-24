@@ -1,0 +1,1 @@
+﻿ Dispersive power = 1.897367e+06 rad/m

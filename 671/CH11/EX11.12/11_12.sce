@@ -1,0 +1,12 @@
+P=1000000
+V=6600
+Xs=25
+pf=0.8
+theta=acos(pf)
+Ia=P/sqrt(3)/V*exp(-%i*theta)
+Vt=V/sqrt(3)
+Ef=Vt+%i*Xs*Ia
+delta=asin(norm(Xs*Ia*cos(theta)/Ef))
+Vt=norm(Ia)*Xs*sin(%pi-asin(pf)-delta)/sin(delta)
+Vl=Vt*sqrt(3)
+disp(Vl)

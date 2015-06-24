@@ -1,0 +1,46 @@
+-->//(Brakes) Example 12.7
+ 
+-->//Angle subtended by the block at the drum theta (deg)
+ 
+-->theta = 100
+ theta  =
+ 
+    100.  
+ 
+-->//Diameter of the brake drum D (mm)
+ 
+-->D = 500
+ D  =
+ 
+    500.  
+ 
+-->//Width of the friction lining w (mm)
+ 
+-->w = 100
+ w  =
+ 
+    100.  
+ 
+-->//Coefficient of friction mu
+ 
+-->mu = 0.2
+ mu  =
+ 
+    0.2  
+ 
+-->//Maximum intensity of pressure pmax (N/mm2)
+ 
+-->pmax = 0.5
+ pmax  =
+ 
+    0.5  
+ 
+
+Distance of pivot from axis of the drum(h) = 280.588279 mm
+
+Torque capacity of each shoe(Mt) = 957555.553899 N-mm
+
+Reaction in x-direction(Rx) = 17063.356281 N
+
+Reaction in y-direction(Ry) = 3412.671256 N
+ 

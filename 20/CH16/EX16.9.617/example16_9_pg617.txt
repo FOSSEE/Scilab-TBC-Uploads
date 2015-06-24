@@ -1,0 +1,7 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_16/code/example16_9_pg617.sce', -1)
+
+
+Effect of phase control here is to reduce the dc voltage to 77.77 % of the value it would have in the absence of phase control
+ 
+-->diary(0);

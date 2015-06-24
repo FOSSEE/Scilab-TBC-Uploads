@@ -1,0 +1,8 @@
+ load resistance (in ohms)=   
+ 
+    12.  
+ 
+ max power (in watts)=   
+ 
+    102.08333  
+ 

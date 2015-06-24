@@ -1,0 +1,7 @@
+ # PROBLEM 8 # 
+Standard formula used 
+ J = I*A 	
+ v_d = J/ne 
+
+ Current density = 3.248060e+06 amp/m^2.
+ Drift velocity is 2.400581e-06 m/sec.

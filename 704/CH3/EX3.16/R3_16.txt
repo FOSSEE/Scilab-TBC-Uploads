@@ -1,0 +1,24 @@
+Equivalent resistance as referred to primary(in Ohm)=   
+ 
+    7.05  
+ 
+ Equivalent resistance as referred to secondary(in Ohm)=   
+ 
+    0.017625  
+ 
+ Equivalent reactance as referred to primary(in Ohm)=   
+ 
+    11.2  
+ 
+ Equivalent reactance as referred to secondary(in Ohm)=   
+ 
+    0.028  
+ 
+ Equivalent impedence as referred to primary(in Ohm)=   
+ 
+    13.234141  
+ 
+ Equivalent impedence as referred to secondary(in Ohm)=   
+ 
+    0.0330854  
+ 

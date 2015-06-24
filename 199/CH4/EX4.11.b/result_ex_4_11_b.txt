@@ -1,0 +1,3 @@
+* Total output offset voltage is = -0.9968 V
+  (OR)
+* Total output offset voltage is = -1.0032 V 

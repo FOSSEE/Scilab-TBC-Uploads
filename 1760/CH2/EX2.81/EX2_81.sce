@@ -1,0 +1,19 @@
+                          //EXAMPLE 2-81  PG NO-116-117
+Z1=10+%i*10;
+Z2=20+%i*0;
+Z3=20-%i*0.2;
+V=100+%i*0;
+I1=V/Z1;
+disp('i) CURRENT  (I1) is  in polar form  =  '+string (I1) +' A ')
+I2=V/Z2;
+disp('i) CURRENT  (I2) is  in polar form  =  '+string (I2) +' A ')
+I3=V/Z3;
+disp('i) CURRENT  (I3) is  in polar form  =  '+string (I3) +' A ')
+I=I1+I2+I3;
+disp('i) CURRENT  (I) is  in polar form  =  '+string (I) +' A ')
+S=V*I;
+disp('i)  Apparent Power (S) is    in  polar form  =  '+string (S) +'  VA ');
+P=V*I*0.95;
+disp('i) Active Power (P) is  in polar form   =  '+string (P) +'  W ');
+Q=[S^2-P^2]^0.5;
+disp('i) Reactive Power (Q) is   in  polar form  =  '+string (Q) +'  Var ');

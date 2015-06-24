@@ -1,0 +1,30 @@
+//Zero interpolation and spectrum replication
+XF=[0 1 2 1];
+X1F=[XF XF XF 0];
+YF=[X1F X1F];
+DF=0.5*[XF XF 0];
+GF=0.5*[XF 0 XF 0 XF 0];
+f=-0.2:0.1:1;
+f1=-0.1:0.05:1.15;
+f2=-0.4:0.2:1.2;
+f3=-0.2:0.1:1.2;
+length(f3),length(GF)
+a=gca();
+a.y_location="origin";
+subplot(211);
+plot2d(f,X1F);
+ylabel('X1F');
+subplot(212);
+a.y_location="origin";
+plot2d(f1,YF);
+ylabel('YF');
+xset('window',1);
+b=gca();
+b.y_location="origin";
+subplot(211);
+plot2d(f2,DF);
+ylabel('DF');
+subplot(212);
+b.y_location="origin";
+plot2d(f3,GF);
+ylabel('GF');

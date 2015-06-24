@@ -1,0 +1,4 @@
+ # Problem 15a # 
+
+ Standard formula used E = m*c^2
+ Loss in mass during formation of 1 atom of hydrogen is 2.417778e-32 g.

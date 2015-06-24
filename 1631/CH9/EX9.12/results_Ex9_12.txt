@@ -1,0 +1,3 @@
+ Average rate of information
+  
+ 	 R = 256 Mbs

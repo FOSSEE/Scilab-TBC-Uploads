@@ -1,0 +1,1 @@
+Icq=456 mAmperes,Vceq=4.7 ohms,re=8 ohms

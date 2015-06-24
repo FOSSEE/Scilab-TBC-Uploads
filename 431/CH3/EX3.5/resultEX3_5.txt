@@ -1,0 +1,2 @@
+ Example 3.5   
+primary power factor=0.786863degrees 

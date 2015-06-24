@@ -1,0 +1,2 @@
+Vds = Vgs = 3.24 V
+Rd = 1.35e+004 ohm 

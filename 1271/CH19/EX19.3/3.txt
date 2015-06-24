@@ -1,0 +1,6 @@
+ # PROBLEM 3 # 
+Standard formula used 
+  H = H_0 * (1 - (T / T_c)^2) 
+ I = 2*pi*r*H 
+
+ Critical current density is 1.712973e+08 A/m^2

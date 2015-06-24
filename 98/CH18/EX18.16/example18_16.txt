@@ -1,0 +1,10 @@
+Per unit value of Xn = 0.0620 p.u 
+
+I1=I2=I0=j(-1.572) A 
+
+Fault current = j(-4.717) A 
+
+Fault current in amperes = Rated current * Per unit value
+                           6189 A 
+
+

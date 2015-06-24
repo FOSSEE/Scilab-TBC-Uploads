@@ -1,0 +1,5 @@
+# PROBLEM 10 # 
+ Standard formula used 
+ theta = 1.22*lambda/a  
+
+ Missing order will be 6*n, where n is a natural number.

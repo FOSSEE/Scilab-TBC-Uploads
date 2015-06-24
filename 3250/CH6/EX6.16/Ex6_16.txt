@@ -1,0 +1,3 @@
+ # PROBLEM 6.16 # 
+
+ Minimum value of beam power intensity to achieve the melting = 7.310000e+06 W/cm^2 

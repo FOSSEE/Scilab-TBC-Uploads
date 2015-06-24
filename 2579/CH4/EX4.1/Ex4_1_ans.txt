@@ -1,0 +1,2 @@
+ The wavelength = 3.409091 meter
+ The overall length of the antenna support boom = 1.011784 meter 

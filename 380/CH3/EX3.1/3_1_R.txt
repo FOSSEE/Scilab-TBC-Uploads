@@ -1,0 +1,7 @@
+ mass of object (in grams)=   
+ 
+    3.6052768  
+ 
+ energy stored in the feild (in micro-joules)=   
+ 
+    176.83883

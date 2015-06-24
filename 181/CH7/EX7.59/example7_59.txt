@@ -1,0 +1,5 @@
+ R1 = 5.0e+002 ohms
+R2 = 1.5e+003 ohms
+Ro = 5.0e+002 ohms
+Av = 0.8*Av1
+Effective input resistance R1 = 2.5*R3 

@@ -1,0 +1,11 @@
+Standby station
+
+	 Annual loadfactor = 27.97 % 
+
+	 Annual plan capacity factor = 4.20 % 
+
+Base load station
+
+Annual load factor = 64.28 % 
+
+

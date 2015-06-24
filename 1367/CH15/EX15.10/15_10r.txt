@@ -1,0 +1,4 @@
+ thickness of insulation (in mm) =    
+ 
+    0.825  
+ 

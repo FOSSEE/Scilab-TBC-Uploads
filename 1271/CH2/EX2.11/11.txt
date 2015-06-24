@@ -1,0 +1,2 @@
+﻿ 
+ Distance of first image from zone plate = 3.585144 meter 

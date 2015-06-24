@@ -1,0 +1,12 @@
+massin=100 //kg
+M1=100 //kg
+M2=75 //Kg
+massout=43.1 //kg
+inputx=0.5
+outputxA=0.053
+outputxM=0.016
+m1xA=0.275
+m1xM=0.725
+m3xW=0.03
+m3xA=0.09
+m3xM=0.88

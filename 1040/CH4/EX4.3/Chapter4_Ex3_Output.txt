@@ -1,0 +1,4 @@
+
+ The effectiveness from graph = 0.42 
+ The calculated effectiveness = 0.42
+ The pore diffusion decreased the rate by 58%

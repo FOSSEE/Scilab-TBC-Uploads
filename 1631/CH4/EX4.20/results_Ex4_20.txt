@@ -1,0 +1,5 @@
+ Output Signal to Quantization noise ratio   
+ 
+    43.9  
+ 
+ dB  

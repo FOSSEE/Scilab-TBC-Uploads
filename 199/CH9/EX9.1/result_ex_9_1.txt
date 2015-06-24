@@ -1,0 +1,7 @@
+* Resistance R2 is = 31600.0 ohm 
+* Resistance R3 is = 3268.0 ohm 
+* Resistance R1 is Open 
+* Resistance R4 is = 25150.0 ohm 
+* Resistance R5 is = 25150.0 ohm
+* Resistance R7 is = 9000.0 ohm 
+* Resistance R8 is = 1500.000 ohm 

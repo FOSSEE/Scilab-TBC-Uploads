@@ -1,0 +1,2 @@
+* Upper threshold voltage is = 0.0250 V
+* Lower threshold voltage is = -0.0250 V

@@ -1,0 +1,33 @@
+Er = -100.00 /_0.00 V 
+Ey = 100.00 /_60.00 V 
+Eb = 100.00 /_-60.00 V 
+
+Ir = -20.00 /_0.00 A 
+Iy = 10.00 /_60.00 A 
+Ib = 5.00 /_-60.00 A 
+
+ 
+ SEQUENCE CURRENTS IN RESISTORS:    
+Ir0 = 4.41 /_160.89 A 
+Ir1 = 11.67 /_180.00 A 
+Ir2 = 4.41 /_-160.89 A 
+
+Iy0 = 4.41 /_160.89 A 
+Iy1 = 11.67 /_60.00 A 
+Iy2 = 4.41 /_-40.89 A 
+
+Ib0 = 4.41 /_160.89 A 
+Ib1 = 11.67 /_300.00 A 
+Ib2 = 4.41 /_79.11 A 
+
+ 
+ SEQUENCE CURRENTS IN SUPPLY LINES:    
+Line current in R-line = Ir = 13.23 /_-100.89 A 
+Line current in Y-line = Iy = 22.91 /_169.11 A 
+Line current in B-line = Ib = 26.46 /_19.11 A 
+
+Ir0 = 0 A 
+Ir1 = 20.21 /_-90.00 A 
+Ir2 = 7.64 /_109.11 A 
+
+

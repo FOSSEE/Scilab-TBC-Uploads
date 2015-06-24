@@ -1,0 +1,6 @@
+  
+ Exa-6.5   
+The freq. corresponding to the longest wavelength of balmer is 4.572474e+014 & First longest wavelength  of Lymann is 2.469000e+015.
+The sum of which s equal to 2.926248e+015
+The freq. corresponding to 2nd longest wavelength was found out to be 2.926223e+015
+.Hence Ritz combination principle is satisfied.

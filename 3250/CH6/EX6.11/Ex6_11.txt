@@ -1,0 +1,3 @@
+ # PROBLEM 6.11 # 
+
+ Speed of cutting = 4.629630 cm/sec 

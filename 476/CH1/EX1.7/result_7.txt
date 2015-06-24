@@ -1,0 +1,9 @@
+A Textbook of Chemical Engineering Thermodynamics
+Chapter 1
+Introduction and Basic Concepts
+
+
+
+Example 7:
+
+My answer is different from that of book. This is because the volume of CO2 gas calculated in the book is incorrect.

@@ -1,0 +1,17 @@
+  
+ example 5.8   
+ 
+ P=6   , f=50   
+total number of slots=72
+total number of slots per phase= 24
+total number of conductors per phase= 96
+total number of turns per phase=48
+number of slots per pole per phase,m= 4
+distribution factor=0.957662
+
+ 
+ coil pitch is 5/6 of full-pitch   
+
+short pitch angle= 30 degrees
+pitch factor= 0.965926 
+induced per phase=  14785.689892V

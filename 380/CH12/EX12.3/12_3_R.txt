@@ -1,0 +1,7 @@
+ developed power (in Kilo-Watts)   
+ 
+    5555.  
+ 
+ Copper loss (in Kilo-Watts)=   
+ 
+    444. 

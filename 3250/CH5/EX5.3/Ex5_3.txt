@@ -1,0 +1,3 @@
+ # PROBLEM 5.3 # 
+
+ Maximum passible welding speed = 0.015988 m/sec 

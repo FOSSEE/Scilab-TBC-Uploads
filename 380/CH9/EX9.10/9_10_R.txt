@@ -1,0 +1,9 @@
+ Rotor Parameters as reffered to stator:   
+ 
+ R_2 (in mili ohms)=   
+ 
+    14.58  
+ 
+ X_2 (in ohms)=   
+ 
+    1.458 

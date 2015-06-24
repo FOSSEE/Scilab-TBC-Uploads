@@ -1,0 +1,2 @@
+  Example 2.4
+ Stretched length should be 0.2500 m 

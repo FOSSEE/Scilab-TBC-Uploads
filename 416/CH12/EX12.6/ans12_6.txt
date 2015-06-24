@@ -1,0 +1,4 @@
+ 
+ example 12 6   
+ synchronous power 502.7kW per mech.degree 
+ synchrounous torque 6400N-m 

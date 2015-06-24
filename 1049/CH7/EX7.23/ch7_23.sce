@@ -1,0 +1,12 @@
+clear;
+clc;
+V_s=230;
+C=50*10^-6;
+L=20*10^-6;
+I_cp=V_s*sqrt(C/L);
+I_o=200;
+x=I_cp/I_o;
+t_c=(%pi-2*asin(1/x))*sqrt(C*L);    printf("turn off time of main thyristor=%.2f us",t_c*10^6);
+th1=asind(1/x);
+t=(5*%pi/2-th1*%pi/180)*sqrt(L*C)+C*V_s*(1-cosd(th1))/I_o;    printf("\ntotal commutation interval=%.3f us",t*10^6);
+t=(%pi-th1*%pi/180)*sqrt(L*C);    printf("\nturn off time of auxillery thyristor=%.3f us",t*10^6);

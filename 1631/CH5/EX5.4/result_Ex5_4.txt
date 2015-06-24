@@ -1,0 +1,12 @@
+  
+ Signaling rate   
+ 
+    60.  
+ 
+ K bits/sec   
+ 
+ Bandwith to avoid the cross talk in TDM is   
+ 
+    30.  
+ 
+ kHz 

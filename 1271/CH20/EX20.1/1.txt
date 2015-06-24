@@ -1,0 +1,10 @@
+ # PROBLEM 1 # 
+Standard formula used 
+ 1/2*m*v^2 = eV 
+
+ Max. speed of electrons at 40000 Volts is 1.186000e+08 m/sec.
+ Max. speed of electrons at 20000 Volts is 8.386286e+07 m/sec./sec.
+ Max. speed of electrons at 100000 Volts is 1.875231e+08 m/sec. 
+ Shortest wavelength of x-ray = 0.310000 Angstrom.
+ Shortest wavelength of x-ray = 0.620000 Angstrom.
+ Shortest wavelength of x-ray = 0.124000 Angstrom.

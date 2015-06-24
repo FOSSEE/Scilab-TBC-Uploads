@@ -1,0 +1,106 @@
+20#Additional applications#20.8.4#Clamp on Plastic Heating#Ex20_8d.sce#3516/CH20/EX20.8.4/Ex20_8d.sce#S##117780
+20#Additional applications#20.8.3#Finned strip Heater#Ex20_8c.sce#3516/CH20/EX20.8.3/Ex20_8c.sce#S##117779
+20#Additional applications#20.8.2#Strip Heater for Air Heating#Ex20_8b.sce#3516/CH20/EX20.8.2/Ex20_8b.sce#S##117778
+20#Additional applications#20.8.1#Immersion Water Heater#Ex20_8a.sce#3516/CH20/EX20.8.1/Ex20_8a.sce#S##117777
+20#Additional applications#20.7#calculation of Sand Cooling with Negllgible Resistance#Ex20_7.sce#3516/CH20/EX20.7/Ex20_7.sce#S##117776
+20#Additional applications#20.6#Calculation of the True Temperature Difference#Ex20_6.sce#3516/CH20/EX20.6/Ex20_6.sce#S##117775
+20#Additional applications#20.5#Calculation of an Atmospheric Jacket Water Cooler#Ex20_5.sce#3516/CH20/EX20.5/Ex20_5.sce#S##117774
+20#Additional applications#20.4#Calculation of a Trombone 2#Ex20_4.sce#3516/CH20/EX20.4/Ex20_4.sce#S##117773
+20#Additional applications#20.3#Calculation of a Submerged pipe Coil Slurry Cooler#Ex20_3.sce#3516/CH20/EX20.3/Ex20_3.sce#S##117772
+20#Additional applications#20.2#Calculation of a Tube Coil#Ex20_2.sce#3516/CH20/EX20.2/Ex20_2.sce#S##117771
+20#Additional applications#20.1#Calculation of a Jacketed Vessel#Ex20_1.sce#3516/CH20/EX20.1/Ex20_1.sce#S##117770
+19#Furnace Calculations#19.5#Furnace calculation#Ex19_5.sce#3516/CH19/EX19.5/Ex19_5.sce#S##117769
+19#Furnace Calculations#19.4#Calculation of the Equivalent Radiant Coefficient#Ex19_4.sce#3516/CH19/EX19.4/Ex19_4.sce#S##117768
+19#Furnace Calculations#19.3#Calculation of Performance by the Orrok Hudson Equation#Ex19_3.sce#3516/CH19/EX19.3/Ex19_3.sce#S##117767
+19#Furnace Calculations#19.2#Calculation of a Furnace by the Method of Wilson and Lobo and Hottel#Ex19_2.sce#3516/CH19/EX19.2/Ex19_2.sce#S##117766
+19#Furnace Calculations#19.1# Lobo and Evans#Ex19_1.sce#3516/CH19/EX19.1/Ex19_1.sce#S##117765
+18#Batch and unsteady process#18.9#Calculation of the Length of a Bed#Ex18_9.sce#3516/CH18/EX18.9/Ex18_9.sce#S##117764
+18#Batch and unsteady process#18.8#Calculations for a Wall with Periodic Temperature Variation#Ex18_8.sce#3516/CH18/EX18.8/Ex18_8.sce#S##117763
+18#Batch and unsteady process#18.7#The Graphical Determination of the Time Temperature Distribution#Ex18_7.sce#3516/CH18/EX18.7/Ex18_7.sce#S##117762
+18#Batch and unsteady process#18.6#The Application of Newmans Method to Heating a Brick#Ex18_6.sce#3516/CH18/EX18.6/Ex18_6.sce#S##117761
+18#Batch and unsteady process#18.5#The Gumey Lurle Chart#Ex18_5.sce#3516/CH18/EX18.5/Ex18_5.sce#S##117760
+18#Batch and unsteady process#18.4#The Schack Chart#Ex18_4.sce#3516/CH18/EX18.4/Ex18_4.sce#S##117759
+18#Batch and unsteady process#18.3#Center line Temperature of a Shaft#Ex18_3.sce#3516/CH18/EX18.3/Ex18_3.sce#S##117758
+18#Batch and unsteady process#18.2#Heat Flow through a Wall#Ex18_2.sce#3516/CH18/EX18.2/Ex18_2.sce#S##117757
+18#Batch and unsteady process#18.1#Calculation of Batch Heating#Ex18_1.sce#3516/CH18/EX18.1/Ex18_1.sce#S##117756
+17#Cooling Towers#17.7#Approximate Calculation of a Gas Cooler#Ex17_7.sce#3516/CH17/EX17.7/Ex17_7.sce#S##117755
+17#Cooling Towers#17.6#Calculation of a Direct contact Gas Cooler#Ex17_6.sce#3516/CH17/EX17.6/Ex17_6.sce#S##117754
+17#Cooling Towers#17.5#The Recalculation of Cooling tower Performance#Ex17_5.sce#3516/CH17/EX17.5/Ex17_5.sce#S##117753
+17#Cooling Towers#17.4#Determination of a Cooling tower Guarantee#Ex17_4.sce#3516/CH17/EX17.4/Ex17_4.sce#S##117752
+17#Cooling Towers#17.3#Calculation of the Required Height of Fill#Ex17_3.sce#3516/CH17/EX17.3/Ex17_3.sce#S##117751
+17#Cooling Towers#17.2#Calculation of the Number of Diffusion Units#Ex17_2.sce#3516/CH17/EX17.2/Ex17_2.sce#S##117750
+17#Cooling Towers#17.1#Calculation of the Enthalpy of Saturated Air#Ex17_1.sce#3516/CH17/EX17.1/Ex17_1.sce#S##117749
+16#Extended Surfaces#16.5#Calculation of a Transverse fin Air Cooler#Ex16_5.sce#3516/CH16/EX16.5/Ex16_5.sce#S##117748
+16#Extended Surfaces#16.4#Calculation of a Longitudinal Fin Shell and tube Exchanger#Ex16_4.sce#3516/CH16/EX16.4/Ex16_4.sce#S##117747
+16#Extended Surfaces#16.3#Calculation of a Double Pipe Extended surface Gas Oil Cooler#Ex16_3.sce#3516/CH16/EX16.3/Ex16_3.sce#S##117746
+16#Extended Surfaces#16.2#Calculation of a Heat transfer Curve from Experimental Data#Ex16_2.sce#3516/CH16/EX16.2/Ex16_2.sce#S##117745
+16#Extended Surfaces#16.1#Calculation of the Fin Efficiency and a Weighted Efficiency Curve#Ex16_1.sce#3516/CH16/EX16.1/Ex16_1.sce#S##117744
+15#Vaporizers Evoparators and Reboilers#15.8#The Reboiler Duty for a Multicomponent Mixture#ex15_8.sce#3516/CH15/EX15.8/ex15_8.sce#S##117743
+15#Vaporizers Evoparators and Reboilers#15.7#Distillation of a Binary Mixture#Ex15_7.sce#3516/CH15/EX15.7/Ex15_7.sce#S##117742
+15#Vaporizers Evoparators and Reboilers#15.6#Calculation of the Reboiler Duty#Ex15_6.sce#3516/CH15/EX15.6/Ex15_6.sce#S##117741
+15#Vaporizers Evoparators and Reboilers#15.5#Calculation of a Vertical Thennosyphon Reboiler#Ex15_5.sce#3516/CH15/EX15.5/Ex15_5.sce#S##117740
+15#Vaporizers Evoparators and Reboilers#15.4#Calculation of a Once through Horizontal Thermosyphon Reboiler#Ex15_4.sce#3516/CH15/EX15.4/Ex15_4.sce#S##117739
+15#Vaporizers Evoparators and Reboilers#15.3#Calculation of a Kettle Reboiler#Ex15_3.sce#3516/CH15/EX15.3/Ex15_3.sce#S##117738
+15#Vaporizers Evoparators and Reboilers#15.2#Vaporizer or Pump through Reboiler with Isothermal Boiling#ex15_2.sce#3516/CH15/EX15.2/ex15_2.sce#S##117737
+15#Vaporizers Evoparators and Reboilers#15.1#Calculation of the Average Specific Volume#Ex15_1.sce#3516/CH15/EX15.1/Ex15_1.sce#S##117736
+14#Evopartion#14.7#heat and steam#Ex14_7.sce#3516/CH14/EX14.7/Ex14_7.sce#S##117735
+14#Evopartion#14.6#Evoparator specification#Ex14_6.sce#3516/CH14/EX14.6/Ex14_6.sce#S##117734
+14#Evopartion#14.5#unit calculation#Ex14_5.sce#3516/CH14/EX14.5/Ex14_5.sce#S##117733
+14#Evopartion#14.4#evoparator installer#Ex14_4.sce#3516/CH14/EX14.4/Ex14_4.sce#S##117732
+14#Evopartion#14.3#Backward feed Multiple effect Evaporator#Ex14_3.sce#3516/CH14/EX14.3/Ex14_3.sce#S##117731
+14#Evopartion#14.2#Calculation of a Triple effect Forward feed Evaporator#Ex14_2.sce#3516/CH14/EX14.2/Ex14_2.sce#S##117730
+14#Evopartion#14.1#Calculation of Evaporator Surface#Ex14_1.sce#3516/CH14/EX14.1/Ex14_1.sce#S##117729
+13#Condensation of Mixed vapors#13.6#Calculation of a Condenser#Ex13_6.sce#3516/CH13/EX13.6/Ex13_6.sce#S##117728
+13#Condensation of Mixed vapors#13.5#Calculation of a Steam Carbon Dioxide Condenser#Ex13_5.sce#3516/CH13/EX13.5/Ex13_5.sce#S##117727
+13#Condensation of Mixed vapors#13.4#Vapor#Ex13_4.sce#3516/CH13/EX13.4/Ex13_4.sce#S##117726
+13#Condensation of Mixed vapors#13.3#Condenser Calculations for a Multicomponent Mixture#Ex13_3.sce#3516/CH13/EX13.3/Ex13_3.sce#S##117725
+13#Condensation of Mixed vapors#13.2#Calculation of the Bubble Point and Vapor Composition by Relative#Ex13_2.sce#3516/CH13/EX13.2/Ex13_2.sce#S##117724
+13#Condensation of Mixed vapors#13.1#Calculation of the Bubble Point#Ex13_1.sce#3516/CH13/EX13.1/Ex13_1.sce#S##117723
+12#Condensation of single vapor#12.7#Calculation of a Surface Condenser#Ex12_7.sce#3516/CH12/EX12.7/Ex12_7.sce#S##117722
+12#Condensation of single vapor#12.6#Calculation of Vertical Reflux type CSo Condenser#Ex12_6.sce#3516/CH12/EX12.6/Ex12_6.sce#S##117721
+12#Condensation of single vapor#12.5#Calculation of a Horizontal Condenser subcooler#Ex12_5.sce#3516/CH12/EX12.5/Ex12_5.sce#S##117720
+12#Condensation of single vapor#12.4#Calculation of a Vertical Condenser subeooler#Ex12_4.sce#3516/CH12/EX12.4/Ex12_4.sce#S##117719
+12#Condensation of single vapor#12.3#Calculation of a Butane Desuperheater condenser#Ex12_3.sce#3516/CH12/EX12.3/Ex12_3.sce#S##117718
+12#Condensation of single vapor#12.2#Design of a Vertical n Propanol Condenser#Ex12_2.sce#3516/CH12/EX12.2/Ex12_2.sce#S##117717
+12#Condensation of single vapor#12.1#Calculation of a Horizontal n Propanol Condenser#Ex12_1.sce#3516/CH12/EX12.1/Ex12_1.sce#S##117716
+11#Calculations for process conditions#11.5#Calculation of a Flue Gas Cooler#Ex11_5.sce#3516/CH11/EX11.5/Ex11_5.sce#S##117714
+11#Calculations for process conditions#11.4#Calculation of an Alcohol Heater#Ex11_4.sce#3516/CH11/EX11.4/Ex11_4.sce#S##117713
+11#Calculations for process conditions#11.3#Calculation of a Caustic Solution Cooler#Ex11_3.sce#3516/CH11/EX11.3/Ex11_3.sce#S##117712
+11#Calculations for process conditions#11.2#Calculation of a Flue Gas Cooler#Ex11_2.sce#3516/CH11/EX11.2/Ex11_2.sce#S##117715
+11#Calculations for process conditions#11.1#Calculation of a Straw Oil Naphtha Exchanger#Ex11_1.sce#3516/CH11/EX11.1/Ex11_1.sce#S##117711
+10#Streamlineflow and steam convection#10.4#Calculation of a Heating Bundle for an Aniline Storage Tank#Ex10_4.sce#3516/CH10/EX10.4/Ex10_4.sce#S##117710
+10#Streamlineflow and steam convection#10.3#Gas Oil Heater Using Cores#Ex10_3.sce#3516/CH10/EX10.3/Ex10_3.sce#S##117709
+10#Streamlineflow and steam convection#10.2#Kerosene Heater#Ex10_2.sce#3516/CH10/EX10.2/Ex10_2.sce#S##117708
+10#Streamlineflow and steam convection#10.1#Crude Oil Heater#Ex10_1.sce#3516/CH10/EX10.1/Ex10_1.sce#S##117707
+9#Gases#9.3#Calculation of the Dew Point after Compression#Ex9_3.sce#3516/CH9/EX9.3/Ex9_3.sce#S##117706
+9#Gases#9.2#Calculation of the Heat Load for an Air Intercooler#Ex9_2.sce#3516/CH9/EX9.2/Ex9_2.sce#S##117705
+9#Gases#9.1#Calculation of an Ammonia Compressor Aftercooler#Ex9_1.sce#3516/CH9/EX9.1/Ex9_1.sce#S##117704
+8#Flow Arrangements for increased heat recovery#8.2#calculation of an Acetone Acetic Acid Exchanger#Ex8_2.sce#3516/CH8/EX8.2/Ex8_2.sce#S##117703
+8#Flow Arrangements for increased heat recovery#8.1#Calculation of a Oil Cooler#Ex8_1.sce#3516/CH8/EX8.1/Ex8_1.sce#S##117702
+7#Parallel Counterflow Shell and Tube Excahngers#7.9#Outlet Temperatures#Ex7_9.sce#3516/CH7/EX7.9/Ex7_9.sce#S##117701
+7#Parallel Counterflow Shell and Tube Excahngers#7.8#Calculation of a Sugar solution Heater without Baflles#Ex7_8.sce#3516/CH7/EX7.8/Ex7_8.sce#S##117700
+7#Parallel Counterflow Shell and Tube Excahngers#7.7#The Optimum Use of Exhaust and Process Steam#Ex7_7.sce#3516/CH7/EX7.7/Ex7_7.sce#S##117699
+7#Parallel Counterflow Shell and Tube Excahngers#7.6#Calculation of a Phosphate Solution Cooler#Ex7_6.sce#3516/CH7/EX7.6/Ex7_6.sce#S##117698
+7#Parallel Counterflow Shell and Tube Excahngers#7.5# Calculation of the Optimum Outlet water Temperature#Ex7_5.sce#3516/CH7/EX7.5/Ex7_5.sce#S##117697
+7#Parallel Counterflow Shell and Tube Excahngers#7.4#Calculation of a Distilled water Raw water Exchanger#Ex7_4.sce#3516/CH7/EX7.4/Ex7_4.sce#S##117696
+7#Parallel Counterflow Shell and Tube Excahngers#7.3#Calculation of a Kerosene Crude Oil Exchanger#Ex7_3.sce#3516/CH7/EX7.3/Ex7_3.sce#S##117695
+7#Parallel Counterflow Shell and Tube Excahngers#7.2#Calculation of FT for Fluids with Equal Ranges#Ex7_2.sce#3516/CH7/EX7.2/Ex7_2.sce#S##117694
+7#Parallel Counterflow Shell and Tube Excahngers#7.1#shell side equivalent #Ex7_1.sce#3516/CH7/EX7.1/Ex7_1.sce#S##117693
+6#CounterflowDouble pipe exchangers#6.3#Double Pipe Lube Oil Crude Oil Exchanger#6_3.sce#3516/CH6/EX6.3/6_3.sce#S##117692
+6#CounterflowDouble pipe exchangers#6.2#Calculation of the True Temperature Difference#Ex6_2.sce#3516/CH6/EX6.2/Ex6_2.sce#S##117691
+6#CounterflowDouble pipe exchangers#6.1#Double Pipe Benzene Toluene Exchanger#Ex6_1.sce#3516/CH6/EX6.1/Ex6_1.sce#S##117690
+5#Temperature#5.6#Calculation of the Caloric Temperature#Ex5_6.sce#3516/CH5/EX5.6/Ex5_6.sce#S##117689
+5#Temperature#5.5#Calculation of point#Ex5_5.sce#3516/CH5/EX5.5/Ex5_5.sce#S##117688
+5#Temperature#5.4#Calculation of the LMTD with One Isothermal Fluid#Ex5_4.sce#3516/CH5/EX5.4/Ex5_4.sce#S##117687
+5#Temperature#5.3#Calculation of the LMTD#Ex5_3.sce#3516/CH5/EX5.3/Ex5_3.sce#S##117686
+5#Temperature#5.2#Calculation of the LMTD with Equal Outlet Temperatures#Ex5_2.sce#3516/CH5/EX5.2/Ex5_2.sce#S##117685
+5#Temperature#5.1#Calculation of the LMTD#Ex5_1.sce#3516/CH5/EX5.1/Ex5_1.sce#S##117684
+4#Radiation#4.4#Radiation from a Pipe to a Duct#Ex4_4.sce#3516/CH4/EX4.4/Ex4_4.sce#S##117683
+4#Radiation#4.3#Calculation of Radiation from a Pipe#Ex4_3.sce#3516/CH4/EX4.3/Ex4_3.sce#S##117682
+4#Radiation#4.2#Radiation between Planes with Different Emissivities#Ex4_2.sce#3516/CH4/EX4.2/Ex4_2.sce#S##117681
+4#Radiation#4.1#Radiation between large 2 planes#4_1.sce#3516/CH4/EX4.1/4_1.sce#S##117680
+2#Conduction#2.5#Temperature#Ex2_5.sce#3516/CH2/EX2.5/Ex2_5.sce#S##117679
+2#Conduction#2.4#Heat flow through pipe wall#Ex2_4.sce#3516/CH2/EX2.4/Ex2_4.sce#S##117678
+2#Conduction#2.3#Value of Q#Ex2_3.sce#3516/CH2/EX2.3/Ex2_3.sce#S##117677
+2#Conduction#2.2#Temperature increase#Ex2_2.sce#3516/CH2/EX2.2/Ex2_2.sce#S##117676
+2#Conduction#2.1#Value of Q#Ex2_1.sce#3516/CH2/EX2.1/Ex2_1.sce#S##117675

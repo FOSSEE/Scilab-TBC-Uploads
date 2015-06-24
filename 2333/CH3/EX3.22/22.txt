@@ -1,0 +1,5 @@
+# PROBLEM 22 # 
+ Standard formula used 
+ d_theta /d_lambda = n/(e+d)*cos(theta)  
+
+ Difference in two wavelengths is 86.602540 angstrom.

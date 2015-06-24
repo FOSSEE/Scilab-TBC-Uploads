@@ -1,0 +1,8 @@
+ (a)Regulation by two reaction method(in%)=   
+ 
+    67.42083  
+ 
+ (b)Regulation by Synchronous impedance method(in%)=   
+ 
+    69.472594  
+ 

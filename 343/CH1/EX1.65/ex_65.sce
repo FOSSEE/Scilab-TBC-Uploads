@@ -1,0 +1,22 @@
+V1=12;                     //Assigning values to parameters
+V2=8;
+I1=4;
+R1=2;
+R2=10;
+R3=20;
+R4=5;
+R5=15;
+R6=25;
+R7=5;
+A=[1,-1,0;-12,-20,15;0,15,-45];   //Current coeffecients
+B=[4;-12;8];
+I=inv(A)*B;
+Vth=V1-R1*I(1,1)-R2*I(1,1);     //Thevenin voltage
+Ra=R1+R2;
+Rb=R6+R7;
+Rc=(R5*Rb)/(R5+Rb);
+Rd=R4+Rc;
+Rth=(Ra*Rd)/(Ra+Rd);          //Thevenin resistance
+Il=Vth/(R3+Rth);
+P=Il*Il*R3;
+disp("Watts",P,"Power drawn by 20 Ohm resistor");

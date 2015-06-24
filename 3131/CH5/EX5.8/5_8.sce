@@ -1,0 +1,12 @@
+clear all; clc;
+disp("Ex 5_8")
+disp("Free body diagram is as shown in fig 5-16b")
+disp("Summing moments about A:")
+disp("-90-60*1+N_B*0.75=0")
+disp("N_B=200 N")
+disp("Summing forces in X-direction:")
+disp("A_x-200*sin30=0")
+disp("A_x=100.0 N")
+disp("Summing forces in Y-direction:")
+disp("A_y-200*cos30-60=0")
+disp("A_y=233 N")

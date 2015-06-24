@@ -1,0 +1,6 @@
+Resultant excitation(in per unit) and regulation(in %)=   
+ 
+    1.7888544  
+ 
+    25.  
+ 

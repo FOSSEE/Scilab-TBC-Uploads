@@ -1,0 +1,2 @@
+Energy for an electron : 0.6 x 10^-17 x n^2  J 
+Energy for a nucleon : 3.29 x 10^-11 x n^2  J 

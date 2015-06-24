@@ -1,0 +1,15 @@
+(i) Private oil engine generating plant
+ Annual fuel consumption = 1314000 kg 
+ Annual cost of fuel = Rs. 2102400 
+ Annual cost of maintainence and repair = Rs. 21900 
+ Annual wages = Rs. 50000 
+ Annual interest and depreciation = Rs. 120000 
+
+ Total annual charges = Rs. 2294300 
+
+(ii) Public supply
+ Annual fixed charges = Rs. 150000 
+Annual running charges = Rs. 657000 
+Total annual charges = Rs. 807000 
+
+

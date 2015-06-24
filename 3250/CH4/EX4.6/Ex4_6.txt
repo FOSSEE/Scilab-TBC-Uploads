@@ -1,0 +1,3 @@
+ # PROBLEM 4.6 # 
+ 
+ Maximum temperature along the rake face of the tool = 835°C. 

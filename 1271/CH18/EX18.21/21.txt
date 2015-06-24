@@ -1,0 +1,5 @@
+ # PROBLEM 21 # 
+Standard formula used 
+ K = a * k * k_.
+
+ Hysteresis loss per sec is 25.650000 W

@@ -1,0 +1,3 @@
+probability of symbol error   
+ 
+    0.0007827

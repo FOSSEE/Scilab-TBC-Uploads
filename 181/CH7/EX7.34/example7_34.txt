@@ -1,0 +1,2 @@
+ The equivalent circuit at low-frequency small signal model is as shown in the figure
+Zo = 4.55e+003 ohms 

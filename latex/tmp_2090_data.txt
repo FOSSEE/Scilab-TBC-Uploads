@@ -1,0 +1,84 @@
+16#Engine Testing and Performance #16.9#Six cylinder four stroke#Chapter16_example9.sce#2090/CH16/EX16.9/Chapter16_example9.sce#S##68712
+16#Engine Testing and Performance #16.8#The efficiencies#Chapter16_example8.sce#2090/CH16/EX16.8/Chapter16_example8.sce#S##68710
+16#Engine Testing and Performance #16.7#Six cylinder four stroke#Chapter16_example7.sce#2090/CH16/EX16.7/Chapter16_example7.sce#S##68707
+16#Engine Testing and Performance #16.6#Eight cylinder four stroke SI engine#Chapter16_example6.sce#2090/CH16/EX16.6/Chapter16_example6.sce#S##68706
+16#Engine Testing and Performance #16.5#The efficiencies#Chapter16_example5.sce#2090/CH16/EX16.5/Chapter16_example5.sce#S##68705
+16#Engine Testing and Performance #16.4#Four cylinder SI engine#Chapter16_example4.sce#2090/CH16/EX16.4/Chapter16_example4.sce#S##68704
+16#Engine Testing and Performance #16.3#The bmep#Chapter16_example3.sce#2090/CH16/EX16.3/Chapter16_example3.sce#S##68703
+16#Engine Testing and Performance #16.2#Single cylinder four stroke#Chapter16_example2.sce#2090/CH16/EX16.2/Chapter16_example2.sce#S##68702
+16#Engine Testing and Performance #16.12#Heat balance sheet#Chapter16_example12.sce#2090/CH16/EX16.12/Chapter16_example12.sce#S##68715
+16#Engine Testing and Performance #16.11#Heat balance sheet#Chapter16_example11.sce#2090/CH16/EX16.11/Chapter16_example11.sce#S##68714
+16#Engine Testing and Performance #16.10#Heat balance sheet#Chapter16_example10.sce#2090/CH16/EX16.10/Chapter16_example10.sce#S##68713
+16#Engine Testing and Performance #16.1#Three litre spark ignition#Chapter16_example1.sce#2090/CH16/EX16.1/Chapter16_example1.sce#S##68701
+15#Air Capacity and Supercharging#15.7#The power#Chapter15_example7.sce#2090/CH15/EX15.7/Chapter15_example7.sce#S##95505
+15#Air Capacity and Supercharging#15.6#Turbocharger#Chapter15_example6.sce#2090/CH15/EX15.6/Chapter15_example6.sce#S##68699
+15#Air Capacity and Supercharging#15.5#Six cylinder engine#Chapter15_example5.sce#2090/CH15/EX15.5/Chapter15_example5.sce#S##68698
+15#Air Capacity and Supercharging#15.4#Centrifugal compressor#Chapter15_example4.sce#2090/CH15/EX15.4/Chapter15_example4.sce#S##68697
+15#Air Capacity and Supercharging#15.3#Four stroke SI engine#Chapter15_example3.sce#2090/CH15/EX15.3/Chapter15_example3.sce#S##68696
+15#Air Capacity and Supercharging#15.2#Engine capacity#Chapter15_example2.sce#2090/CH15/EX15.2/Chapter15_example2.sce#S##68694
+15#Air Capacity and Supercharging#15.1#The efficiencies#Chapter15_example1.sce#2090/CH15/EX15.1/Chapter15_example1.sce#S##68693
+13#Engine Friction and Lubrication#13.2#A four cylinder IC engine#Chapter13_example2.sce#2090/CH13/EX13.2/Chapter13_example2.sce#S##68692
+13#Engine Friction and Lubrication#13.1#The friction force#Chapter13_example1.sce#2090/CH13/EX13.1/Chapter13_example1.sce#S##68691
+11#Two Stroke Engines#11.6#The flow coefficient#Chapter11_example6.sce#2090/CH11/EX11.6/Chapter11_example6.sce#S##68690
+11#Two Stroke Engines#11.5#The scavenging efficiency#Chapter11_example5.sce#2090/CH11/EX11.5/Chapter11_example5.sce#S##68689
+11#Two Stroke Engines#11.4#The scavenging ratio#Chapter11_example4.sce#2090/CH11/EX11.4/Chapter11_example4.sce#S##68688
+11#Two Stroke Engines#11.3#The bore#Chapter11_example3.sce#2090/CH11/EX11.3/Chapter11_example3.sce#S##68687
+11#Two Stroke Engines#11.2#Scavenging ratio#Chapter11_example2.sce#2090/CH11/EX11.2/Chapter11_example2.sce#S##68686
+11#Two Stroke Engines#11.1#Scavenging ratio#Chapter11_example1.sce#2090/CH11/EX11.1/Chapter11_example1.sce#S##68685
+10#CI Engines Fuel Injection System#10.7#The Velocity #Chapter10_example7.sce#2090/CH10/EX10.7/Chapter10_example7.sce#S##68684
+10#CI Engines Fuel Injection System#10.6#The displacement volume#Chapter10_example6.sce#2090/CH10/EX10.6/Chapter10_example6.sce#S##68683
+10#CI Engines Fuel Injection System#10.5#The pump displacement#Chapter10_example5.sce#2090/CH10/EX10.5/Chapter10_example5.sce#S##68682
+10#CI Engines Fuel Injection System#10.4#The time#Chapter10_example4.sce#2090/CH10/EX10.4/Chapter10_example4.sce#S##68681
+10#CI Engines Fuel Injection System#10.3#The discharge of fuel#Chapter10_example3.sce#2090/CH10/EX10.3/Chapter10_example3.sce#S##68680
+10#CI Engines Fuel Injection System#10.2#Velocity of injection#Chapter10_example2.sce#2090/CH10/EX10.2/Chapter10_example2.sce#S##68679
+10#CI Engines Fuel Injection System#10.1#The diameter of the orifice#Chapter10_example1.sce#2090/CH10/EX10.1/Chapter10_example1.sce#S##68678
+9#Carburettors and Fuel Injection in SI Engines#9.9#The venturi throat diameter#Chapter9_example9.sce#2090/CH9/EX9.9/Chapter9_example9.sce#S##68677
+9#Carburettors and Fuel Injection in SI Engines#9.8#Throat pressure#Chapter9_example8.sce#2090/CH9/EX9.8/Chapter9_example8.sce#S##68676
+9#Carburettors and Fuel Injection in SI Engines#9.7#Air fuel ratio#Chapter9_example7.sce#2090/CH9/EX9.7/Chapter9_example7.sce#S##68675
+9#Carburettors and Fuel Injection in SI Engines#9.6#A simple carburettor#Chapter9_example6.sce#2090/CH9/EX9.6/Chapter9_example6.sce#S##68674
+9#Carburettors and Fuel Injection in SI Engines#9.5#The critical air velocity#Chapter9_example5.sce#2090/CH9/EX9.5/Chapter9_example5.sce#S##68673
+9#Carburettors and Fuel Injection in SI Engines#9.4#The depression at the throat#Chapter9_example4.sce#2090/CH9/EX9.4/Chapter9_example4.sce#S##68672
+9#Carburettors and Fuel Injection in SI Engines#9.3#The fuel flow rate#Chapter9_example3.sce#2090/CH9/EX9.3/Chapter9_example3.sce#S##68671
+9#Carburettors and Fuel Injection in SI Engines#9.2#Suitable choke#Chapter9_example2.sce#2090/CH9/EX9.2/Chapter9_example2.sce#S##68670
+9#Carburettors and Fuel Injection in SI Engines#9.1#The orifice diameter#Chapter9_example1.sce#2090/CH9/EX9.1/Chapter9_example1.sce#S##68668
+4#Fuel Air Cycles and Their Analysis#4.9#Fuel Air Cycles and Their Analysis#Chapter4_Example9.sce#2090/CH4/EX4.9/Chapter4_Example9.sce#S##74163
+4#Fuel Air Cycles and Their Analysis#4.8#Internal energy#Chapter4_Example8.sce#2090/CH4/EX4.8/Chapter4_Example8.sce#S##74162
+4#Fuel Air Cycles and Their Analysis#4.7#Residual air#Chapter4_Example7.sce#2090/CH4/EX4.7/Chapter4_Example7.sce#S##74161
+4#Fuel Air Cycles and Their Analysis#4.6#Molecular expansion#Chapter4_Example6.sce#2090/CH4/EX4.6/Chapter4_Example6.sce#S##74160
+4#Fuel Air Cycles and Their Analysis#4.5#The pressure#Chapter4_Example5.sce#2090/CH4/EX4.5/Chapter4_Example5.sce#S##93680
+4#Fuel Air Cycles and Their Analysis#4.4#The percentage of stroke#Chapter4_Example4.sce#2090/CH4/EX4.4/Chapter4_Example4.sce#S##93679
+4#Fuel Air Cycles and Their Analysis#4.3#Temperature#Chapter4_Example3.sce#2090/CH4/EX4.3/Chapter4_Example3.sce#S##74156
+4#Fuel Air Cycles and Their Analysis#4.2#Efficiency#Chapter4_Example2.sce#2090/CH4/EX4.2/Chapter4_Example2.sce#S##74155
+4#Fuel Air Cycles and Their Analysis#4.14#The temperature and pressure#Chapter4_Example14.sce#2090/CH4/EX4.14/Chapter4_Example14.sce#S##74167
+4#Fuel Air Cycles and Their Analysis#4.13#The temperature and pressure#Chapter4_Example13.sce#2090/CH4/EX4.13/Chapter4_Example13.sce#S##74166
+4#Fuel Air Cycles and Their Analysis#4.11#Work#Chapter4_Example11.sce#2090/CH4/EX4.11/Chapter4_Example11.sce#S##74165
+4#Fuel Air Cycles and Their Analysis#4.10#Work input#Chapter4_Example10.sce#2090/CH4/EX4.10/Chapter4_Example10.sce#S##74164
+4#Fuel Air Cycles and Their Analysis#4.1#Efficiency#Chapter4_Example1.sce#2090/CH4/EX4.1/Chapter4_Example1.sce#S##74154
+3#Reactive Systems#3.9#The heat transfer#Chapter3_Example9.sce#2090/CH3/EX3.9/Chapter3_Example9.sce#S##73823
+3#Reactive Systems#3.8#The fuel consumption#Chapter3_Example8.sce#2090/CH3/EX3.8/Chapter3_Example8.sce#S##73822
+3#Reactive Systems#3.7#The work for a fuel rate#Chapter3_Example7.sce#2090/CH3/EX3.7/Chapter3_Example7.sce#S##73821
+3#Reactive Systems#3.6#Heat transfer#Chapter3_Example6.sce#2090/CH3/EX3.6/Chapter3_Example6.sce#S##73820
+3#Reactive Systems#3.5#Percentage analysis#Chapter3_Example5.sce#2090/CH3/EX3.5/Chapter3_Example5.sce#S##73819
+3#Reactive Systems#3.4#Fuel consumption#Chapter3_Example4.sce#2090/CH3/EX3.4/Chapter3_Example4.sce#S##73818
+3#Reactive Systems#3.3#Volumetric analysis#Chapter3_Example3.sce#2090/CH3/EX3.3/Chapter3_Example3.sce#S##73791
+3#Reactive Systems#3.20#The adiabatic flame temperature#Chapter3_Example20.sce#2090/CH3/EX3.20/Chapter3_Example20.sce#S##73833
+3#Reactive Systems#3.2#Mass of exhaust gases#Chapter3_Example2.sce#2090/CH3/EX3.2/Chapter3_Example2.sce#S##73790
+3#Reactive Systems#3.19#The mole fraction#Chapter3_Example19.sce#2090/CH3/EX3.19/Chapter3_Example19.sce#S##73832
+3#Reactive Systems#3.18#Dissociation of carbondioxide#Chapter3_Example18.sce#2090/CH3/EX3.18/Chapter3_Example18.sce#S##73831
+3#Reactive Systems#3.16#The adiabatic flame temperature#Chapter3_Example16.sce#2090/CH3/EX3.16/Chapter3_Example16.sce#S##73830
+3#Reactive Systems#3.15#The adiabatic flame temperature#Chapter3_Example15.sce#2090/CH3/EX3.15/Chapter3_Example15.sce#S##73829
+3#Reactive Systems#3.14#The adiabatic flame temperature#Chapter3_Example14.sce#2090/CH3/EX3.14/Chapter3_Example14.sce#S##73828
+3#Reactive Systems#3.13#The calorific value#Chapter3_Example13.sce#2090/CH3/EX3.13/Chapter3_Example13.sce#S##73827
+3#Reactive Systems#3.12#The standard enthalpy#Chapter3_Example12.sce#2090/CH3/EX3.12/Chapter3_Example12.sce#S##73826
+3#Reactive Systems#3.11#The heat transfer#Chapter3_Example11.sce#2090/CH3/EX3.11/Chapter3_Example11.sce#S##73825
+3#Reactive Systems#3.10#The enthalpy of reaction#Chapter3_Example10.sce#2090/CH3/EX3.10/Chapter3_Example10.sce#S##73824
+3#Reactive Systems#3.1#Volume of air#Chapter3_Example1.sce#2090/CH3/EX3.1/Chapter3_Example1.sce#S##73773
+2#Air Standard Cycles and Their Analysis#2.9#Dual combustion cycle#Chapter2_example9.sce#2090/CH2/EX2.9/Chapter2_example9.sce#S##68664
+2#Air Standard Cycles and Their Analysis#2.8#Air standard Dual cycle#Chapter2_example8.sce#2090/CH2/EX2.8/Chapter2_example8.sce#S##68663
+2#Air Standard Cycles and Their Analysis#2.7#The air standard efficiency#Chapter2_example7.sce#2090/CH2/EX2.7/Chapter2_example7.sce#S##68662
+2#Air Standard Cycles and Their Analysis#2.6#The Ideal efficiency#Chapter2_example6.sce#2090/CH2/EX2.6/Chapter2_example6.sce#S##68661
+2#Air Standard Cycles and Their Analysis#2.5#Diesel cycle#Chapter2_example5.sce#2090/CH2/EX2.5/Chapter2_example5.sce#S##68660
+2#Air Standard Cycles and Their Analysis#2.4#Diesel cycle#Chapter2_example4.sce#2090/CH2/EX2.4/Chapter2_example4.sce#S##68658
+2#Air Standard Cycles and Their Analysis#2.2#The specific fuel consumption#Chapter2_example2.sce#2090/CH2/EX2.2/Chapter2_example2.sce#S##68656
+2#Air Standard Cycles and Their Analysis#2.10#Atkinson cycle#Chapter2_example10.sce#2090/CH2/EX2.10/Chapter2_example10.sce#S##68665
+2#Air Standard Cycles and Their Analysis#2.1#The Ideal power develped#Chapter2_example1.sce#2090/CH2/EX2.1/Chapter2_example1.sce#S##68655

@@ -1,0 +1,1 @@
+Power per unit area delivered by the laser = 5.658842e+15 watt/square meter

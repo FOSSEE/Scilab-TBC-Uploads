@@ -1,0 +1,5 @@
+ 
+ Fc = 95.492966 MHz
+ Fm = 198.943679Hz
+ Power = 7.200000W 
+ Execution done.  

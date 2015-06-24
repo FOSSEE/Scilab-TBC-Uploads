@@ -1,0 +1,257 @@
+34#Chapter 33 Operational Amplifiers#33.9#Example 243#EX33_9.sce#2240/CH34/EX33.9/EX33_9.sce#S##84014
+34#Chapter 33 Operational Amplifiers#33.8#Example 242#EX33_8.sce#2240/CH34/EX33.8/EX33_8.sce#S##84013
+34#Chapter 33 Operational Amplifiers#33.7#Example 241#EX33_7.sce#2240/CH34/EX33.7/EX33_7.sce#S##84012
+34#Chapter 33 Operational Amplifiers#33.6#Example 240#EX33_6.sce#2240/CH34/EX33.6/EX33_6.sce#S##84010
+34#Chapter 33 Operational Amplifiers#33.5#Example 239#EX33_5.sce#2240/CH34/EX33.5/EX33_5.sce#S##84009
+34#Chapter 33 Operational Amplifiers#33.4#Example 238#EX33_4.sce#2240/CH34/EX33.4/EX33_4.sce#S##84011
+34#Chapter 33 Operational Amplifiers#33.3#Example 237#EX33_3.sce#2240/CH34/EX33.3/EX33_3.sce#S##84008
+34#Chapter 33 Operational Amplifiers#33.23#Example 257#EX33_23.sce#2240/CH34/EX33.23/EX33_23.sce#S##84028
+34#Chapter 33 Operational Amplifiers#33.22#Example 256#EX33_22.sce#2240/CH34/EX33.22/EX33_22.sce#S##84027
+34#Chapter 33 Operational Amplifiers#33.21#Example 255#EX33_21.sce#2240/CH34/EX33.21/EX33_21.sce#S##84026
+34#Chapter 33 Operational Amplifiers#33.20#Example 254#EX33_20.sce#2240/CH34/EX33.20/EX33_20.sce#S##84024
+34#Chapter 33 Operational Amplifiers#33.2#Example 236#EX33_2.sce#2240/CH34/EX33.2/EX33_2.sce#S##84007
+34#Chapter 33 Operational Amplifiers#33.19#Example 253#EX33_19.sce#2240/CH34/EX33.19/EX33_19.sce#S##84025
+34#Chapter 33 Operational Amplifiers#33.18#Example 252#EX33_18.sce#2240/CH34/EX33.18/EX33_18.sce#S##84023
+34#Chapter 33 Operational Amplifiers#33.17#Example 251#EX33_17.sce#2240/CH34/EX33.17/EX33_17.sce#S##84022
+34#Chapter 33 Operational Amplifiers#33.16#Example 250#EX33_16.sce#2240/CH34/EX33.16/EX33_16.sce#S##84021
+34#Chapter 33 Operational Amplifiers#33.15#Example 249#EX33_15.sce#2240/CH34/EX33.15/EX33_15.sce#S##84020
+34#Chapter 33 Operational Amplifiers#33.14#Example 248#EX33_14.sce#2240/CH34/EX33.14/EX33_14.sce#S##84019
+34#Chapter 33 Operational Amplifiers#33.13#Example 247#EX33_13.sce#2240/CH34/EX33.13/EX33_13.sce#S##84018
+34#Chapter 33 Operational Amplifiers#33.12#Example 246#EX33_12.sce#2240/CH34/EX33.12/EX33_12.sce#S##84017
+34#Chapter 33 Operational Amplifiers#33.11#Example 245#EX33_11.sce#2240/CH34/EX33.11/EX33_11.sce#S##84016
+34#Chapter 33 Operational Amplifiers#33.10#Example 244#EX33_10.sce#2240/CH34/EX33.10/EX33_10.sce#S##84015
+34#Chapter 33 Operational Amplifiers#33.1#Example 235#EX33_1.sce#2240/CH34/EX33.1/EX33_1.sce#S##84006
+33#Chapter 32 Thyristors#32.1#Example 234#EX32_1.sce#2240/CH33/EX32.1/EX32_1.sce#S##84005
+32#Chapter 31 Power Amplifiers#31.7#Example 233#EX31_7.sce#2240/CH32/EX31.7/EX31_7.sce#S##84003
+32#Chapter 31 Power Amplifiers#31.6#Example 232#EX31_6.sce#2240/CH32/EX31.6/EX31_6.sce#S##84004
+32#Chapter 31 Power Amplifiers#31.5#Example 231#EX31_5.sce#2240/CH32/EX31.5/EX31_5.sce#S##84002
+32#Chapter 31 Power Amplifiers#31.4#Example 230#EX31_4.sce#2240/CH32/EX31.4/EX31_4.sce#S##84001
+32#Chapter 31 Power Amplifiers#31.3#Example 229#EX31_3.sce#2240/CH32/EX31.3/EX31_3.sce#S##84000
+32#Chapter 31 Power Amplifiers#31.2#Example 228#EX31_2.sce#2240/CH32/EX31.2/EX31_2.sce#S##83999
+32#Chapter 31 Power Amplifiers#31.1#Example 227#EX31_1.sce#2240/CH32/EX31.1/EX31_1.sce#S##83998
+31#Chapter 30 Field Effect Transistors#30.9#Example 225#EX30_9.sce#2240/CH31/EX30.9/EX30_9.sce#S##83996
+31#Chapter 30 Field Effect Transistors#30.8#Example 224#EX30_8.sce#2240/CH31/EX30.8/EX30_8.sce#S##83995
+31#Chapter 30 Field Effect Transistors#30.7#Example 223#EX30_7.sce#2240/CH31/EX30.7/EX30_7.sce#S##83994
+31#Chapter 30 Field Effect Transistors#30.6#Example 222#EX30_6.sce#2240/CH31/EX30.6/EX30_6.sce#S##83993
+31#Chapter 30 Field Effect Transistors#30.5#Example 221#EX30_5.sce#2240/CH31/EX30.5/EX30_5.sce#S##83992
+31#Chapter 30 Field Effect Transistors#30.4#Example 220#EX30_4.sce#2240/CH31/EX30.4/EX30_4.sce#S##83991
+31#Chapter 30 Field Effect Transistors#30.3#Example 219#EX30_3.sce#2240/CH31/EX30.3/EX30_3.sce#S##83990
+31#Chapter 30 Field Effect Transistors#30.2#Example 218#EX30_2.sce#2240/CH31/EX30.2/EX30_2.sce#S##83989
+31#Chapter 30 Field Effect Transistors#30.10#Example 226#EX30_10.sce#2240/CH31/EX30.10/EX30_10.sce#S##83997
+31#Chapter 30 Field Effect Transistors#30.1#Example 217#EX30_1.sce#2240/CH31/EX30.1/EX30_1.sce#S##83988
+30#Chapter 29 Transistor Amplifiers#29.9#Example 215#EX29_9.sce#2240/CH30/EX29.9/EX29_9.sce#S##83986
+30#Chapter 29 Transistor Amplifiers#29.8#Example 214#EX29_8.sce#2240/CH30/EX29.8/EX29_8.sce#S##83985
+30#Chapter 29 Transistor Amplifiers#29.7#Example 213#EX29_7.sce#2240/CH30/EX29.7/EX29_7.sce#S##83984
+30#Chapter 29 Transistor Amplifiers#29.6#Example 212#EX29_6.sce#2240/CH30/EX29.6/EX29_6.sce#S##83983
+30#Chapter 29 Transistor Amplifiers#29.5#Example 211#EX29_5.sce#2240/CH30/EX29.5/EX29_5.sce#S##83982
+30#Chapter 29 Transistor Amplifiers#29.4#Example 210#EX29_4.sce#2240/CH30/EX29.4/EX29_4.sce#S##83981
+30#Chapter 29 Transistor Amplifiers#29.3#Example 209#EX29_3.sce#2240/CH30/EX29.3/EX29_3.sce#S##83980
+30#Chapter 29 Transistor Amplifiers#29.2#Example 208#EX29_2.sce#2240/CH30/EX29.2/EX29_2.sce#S##83979
+30#Chapter 29 Transistor Amplifiers#29.10#Example 216#EX29_10.sce#2240/CH30/EX29.10/EX29_10.sce#S##83987
+30#Chapter 29 Transistor Amplifiers#29.1#Example 207#EX29_1.sce#2240/CH30/EX29.1/EX29_1.sce#S##83978
+29#Chapter 28 Bipolar Junction Transistors#28.9#Example 200#EX28_9.sce#2240/CH29/EX28.9/EX28_9.sce#S##83971
+29#Chapter 28 Bipolar Junction Transistors#28.8#Example 199#EX28_8.sce#2240/CH29/EX28.8/EX28_8.sce#S##83970
+29#Chapter 28 Bipolar Junction Transistors#28.7#Example 198#EX28_7.sce#2240/CH29/EX28.7/EX28_7.sce#S##83969
+29#Chapter 28 Bipolar Junction Transistors#28.6#Example 197#EX28_6.sce#2240/CH29/EX28.6/EX28_6.sce#S##83968
+29#Chapter 28 Bipolar Junction Transistors#28.5#Example 196#EX28_5.sce#2240/CH29/EX28.5/EX28_5.sce#S##83967
+29#Chapter 28 Bipolar Junction Transistors#28.4#Example 195#EX28_4.sce#2240/CH29/EX28.4/EX28_4.sce#S##83966
+29#Chapter 28 Bipolar Junction Transistors#28.3#Example 194#EX28_3.sce#2240/CH29/EX28.3/EX28_3.sce#S##83965
+29#Chapter 28 Bipolar Junction Transistors#28.2#Example 193#EX28_2.sce#2240/CH29/EX28.2/EX28_2.sce#S##83964
+29#Chapter 28 Bipolar Junction Transistors#28.15#Example 206#EX28_15.sce#2240/CH29/EX28.15/EX28_15.sce#S##83977
+29#Chapter 28 Bipolar Junction Transistors#28.14#Example 205#EX28_14.sce#2240/CH29/EX28.14/EX28_14.sce#S##83976
+29#Chapter 28 Bipolar Junction Transistors#28.13#Example 204#EX28_13.sce#2240/CH29/EX28.13/EX28_13.sce#S##83975
+29#Chapter 28 Bipolar Junction Transistors#28.12#Example 203#EX28_12.sce#2240/CH29/EX28.12/EX28_12.sce#S##83974
+29#Chapter 28 Bipolar Junction Transistors#28.11#Example 202#EX28_11.sce#2240/CH29/EX28.11/EX28_11.sce#S##83973
+29#Chapter 28 Bipolar Junction Transistors#28.10#Example 201#EX28_10.sce#2240/CH29/EX28.10/EX28_10.sce#S##83972
+29#Chapter 28 Bipolar Junction Transistors#28.1#Example 192#EX28_1.sce#2240/CH29/EX28.1/EX28_1.sce#S##83963
+28#Chapter 27 Diodes and Diode Applications#27.9#Example 187#EX27_9.sce#2240/CH28/EX27.9/EX27_9.sce#S##83958
+28#Chapter 27 Diodes and Diode Applications#27.8#Example 186#EX27_8.sce#2240/CH28/EX27.8/EX27_8.sce#S##83957
+28#Chapter 27 Diodes and Diode Applications#27.7#Example 185#EX27_7.sce#2240/CH28/EX27.7/EX27_7.sce#S##83956
+28#Chapter 27 Diodes and Diode Applications#27.6#Example 184#EX27_6.sce#2240/CH28/EX27.6/EX27_6.sce#S##83955
+28#Chapter 27 Diodes and Diode Applications#27.5#Example 183#EX27_5.sce#2240/CH28/EX27.5/EX27_5.sce#S##83953
+28#Chapter 27 Diodes and Diode Applications#27.4#Example 182#EX27_4.sce#2240/CH28/EX27.4/EX27_4.sce#S##83952
+28#Chapter 27 Diodes and Diode Applications#27.3#Example 181#EX27_3.sce#2240/CH28/EX27.3/EX27_3.sce#S##83951
+28#Chapter 27 Diodes and Diode Applications#27.2#Example 180#EX27_2.sce#2240/CH28/EX27.2/EX27_2.sce#S##83950
+28#Chapter 27 Diodes and Diode Applications#27.13#Example 191#EX27_13.sce#2240/CH28/EX27.13/EX27_13.sce#S##83962
+28#Chapter 27 Diodes and Diode Applications#27.12#Example 190#EX27_12.sce#2240/CH28/EX27.12/EX27_12.sce#S##83961
+28#Chapter 27 Diodes and Diode Applications#27.11#Example 189#EX27_11.sce#2240/CH28/EX27.11/EX27_11.sce#S##83960
+28#Chapter 27 Diodes and Diode Applications#27.10#Example 188#EX27_10.sce#2240/CH28/EX27.10/EX27_10.sce#S##83959
+28#Chapter 27 Diodes and Diode Applications#27.1#Example 179#EX27_1.sce#2240/CH28/EX27.1/EX27_1.sce#S##83949
+27#Chapter 26 Filters#26.9#Example 178#EX26_9.sce#2240/CH27/EX26.9/EX26_9.sce#S##83948
+27#Chapter 26 Filters#26.8#Example 177#EX26_8.sce#2240/CH27/EX26.8/EX26_8.sce#S##83947
+27#Chapter 26 Filters#26.7#Example 176#EX26_7.sce#2240/CH27/EX26.7/EX26_7.sce#S##83946
+27#Chapter 26 Filters#26.6#Example 175#EX26_6.sce#2240/CH27/EX26.6/EX26_6.sce#S##83945
+27#Chapter 26 Filters#26.5#Example 174#EX26_5.sce#2240/CH27/EX26.5/EX26_5.sce#S##83944
+27#Chapter 26 Filters#26.4#Example 173#EX26_4.sce#2240/CH27/EX26.4/EX26_4.sce#S##83943
+27#Chapter 26 Filters#26.3#Example 172#EX26_3.sce#2240/CH27/EX26.3/EX26_3.sce#S##83942
+27#Chapter 26 Filters#26.2#Example 171#EX26_2.sce#2240/CH27/EX26.2/EX26_2.sce#S##83941
+27#Chapter 26 Filters#26.1#Example 170#EX26_1.sce#2240/CH27/EX26.1/EX26_1.sce#S##83940
+26#Chapter 25 Resonance#25.9#Example 168#EX25_9.sce#2240/CH26/EX25.9/EX25_9.sce#S##83938
+26#Chapter 25 Resonance#25.8#Example 167#EX25_8.sce#2240/CH26/EX25.8/EX25_8.sce#S##83937
+26#Chapter 25 Resonance#25.7#Example 166#EX25_7.sce#2240/CH26/EX25.7/EX25_7.sce#S##83936
+26#Chapter 25 Resonance#25.6#Example 165#EX25_6.sce#2240/CH26/EX25.6/EX25_6.sce#S##83935
+26#Chapter 25 Resonance#25.5#Example 164#EX25_5.sce#2240/CH26/EX25.5/EX25_5.sce#S##83934
+26#Chapter 25 Resonance#25.4#Example 163#EX25_4.sce#2240/CH26/EX25.4/EX25_4.sce#S##83933
+26#Chapter 25 Resonance#25.3#Example 162#EX25_3.sce#2240/CH26/EX25.3/EX25_3.sce#S##83932
+26#Chapter 25 Resonance#25.2#Example 161#EX25_2.sce#2240/CH26/EX25.2/EX25_2.sce#S##83931
+26#Chapter 25 Resonance#25.10#Example 169#EX25_10.sce#2240/CH26/EX25.10/EX25_10.sce#S##83939
+26#Chapter 25 Resonance#25.1#Example 160#EX25_1.sce#2240/CH26/EX25.1/EX25_1.sce#S##83930
+24#Chapter 23 Alternating Current Circuits#23.2#Example 159#EX23_2.sce#2240/CH24/EX23.2/EX23_2.sce#S##83929
+24#Chapter 23 Alternating Current Circuits#23.1#Example 158#EX23_1.sce#2240/CH24/EX23.1/EX23_1.sce#S##83928
+23#Chapter 22 RC and LR Time Constants#22.9#Example 156#EX22_9.sce#2240/CH23/EX22.9/EX22_9.sce#S##83926
+23#Chapter 22 RC and LR Time Constants#22.8#Example 155#EX22_8.sce#2240/CH23/EX22.8/EX22_8.sce#S##83925
+23#Chapter 22 RC and LR Time Constants#22.7#Example 154#EX22_7.sce#2240/CH23/EX22.7/EX22_7.sce#S##83924
+23#Chapter 22 RC and LR Time Constants#22.6#Example 153#EX22_6.sce#2240/CH23/EX22.6/EX22_6.sce#S##83923
+23#Chapter 22 RC and LR Time Constants#22.5#Example 152#EX22_5.sce#2240/CH23/EX22.5/EX22_5.sce#S##83922
+23#Chapter 22 RC and LR Time Constants#22.4#Example 151#EX22_4.sce#2240/CH23/EX22.4/EX22_4.sce#S##83921
+23#Chapter 22 RC and LR Time Constants#22.3#Example 150#EX22_3.sce#2240/CH23/EX22.3/EX22_3.sce#S##83920
+23#Chapter 22 RC and LR Time Constants#22.2#Example 149#EX22_2.sce#2240/CH23/EX22.2/EX22_2.sce#S##83919
+23#Chapter 22 RC and LR Time Constants#22.10#Example 157#EX22_10.sce#2240/CH23/EX22.10/EX22_10.sce#S##83927
+23#Chapter 22 RC and LR Time Constants#22.1#Example 148#EX22_1.sce#2240/CH23/EX22.1/EX22_1.sce#S##83918
+22#Chapter 21 Inductive Circuits#21.4#Example 147#EX21_4.sce#2240/CH22/EX21.4/EX21_4.sce#S##83917
+22#Chapter 21 Inductive Circuits#21.3#Example 146#EX21_3.sce#2240/CH22/EX21.3/EX21_3.sce#S##83916
+22#Chapter 21 Inductive Circuits#21.2#Example 145#EX21_2.sce#2240/CH22/EX21.2/EX21_2.sce#S##83915
+22#Chapter 21 Inductive Circuits#21.1#Example 144#EX21_1.sce#2240/CH22/EX21.1/EX21_1.sce#S##83914
+21#Chapter 20 Inductive Reactance#20.7#Example 143#EX20_7.sce#2240/CH21/EX20.7/EX20_7.sce#S##83912
+21#Chapter 20 Inductive Reactance#20.6#Example 142#EX20_6.sce#2240/CH21/EX20.6/EX20_6.sce#S##83911
+21#Chapter 20 Inductive Reactance#20.5#Example 141#EX20_5.sce#2240/CH21/EX20.5/EX20_5.sce#S##83913
+21#Chapter 20 Inductive Reactance#20.4#Example 140#EX20_4.sce#2240/CH21/EX20.4/EX20_4.sce#S##83909
+21#Chapter 20 Inductive Reactance#20.3#Example 139#EX20_3.sce#2240/CH21/EX20.3/EX20_3.sce#S##83908
+21#Chapter 20 Inductive Reactance#20.2#Example 138#EX20_2.sce#2240/CH21/EX20.2/EX20_2.sce#S##83907
+21#Chapter 20 Inductive Reactance#20.1#Example 137#EX20_1.sce#2240/CH21/EX20.1/EX20_1.sce#S##83906
+20#Chapter 19 Inductance#19.9#Example 124#EX19_9.sce#2240/CH20/EX19.9/EX19_9.sce#S##83720
+20#Chapter 19 Inductance#19.8#Example 123#EX19_8.sce#2240/CH20/EX19.8/EX19_8.sce#S##83719
+20#Chapter 19 Inductance#19.7#Example 122#EX19_7.sce#2240/CH20/EX19.7/EX19_7.sce#S##83718
+20#Chapter 19 Inductance#19.6#Example 121#EX19_6.sce#2240/CH20/EX19.6/EX19_6.sce#S##83711
+20#Chapter 19 Inductance#19.5#Example 120#EX19_5.sce#2240/CH20/EX19.5/EX19_5.sce#S##83710
+20#Chapter 19 Inductance#19.4#Example 119#EX19_4.sce#2240/CH20/EX19.4/EX19_4.sce#S##83709
+20#Chapter 19 Inductance#19.3#Example 118#EX19_3.sce#2240/CH20/EX19.3/EX19_3.sce#S##83706
+20#Chapter 19 Inductance#19.21#Example 136#EX19_21.sce#2240/CH20/EX19.21/EX19_21.sce#S##83732
+20#Chapter 19 Inductance#19.20#Example 135#EX19_20.sce#2240/CH20/EX19.20/EX19_20.sce#S##83731
+20#Chapter 19 Inductance#19.2#Example 117#EX19_2.sce#2240/CH20/EX19.2/EX19_2.sce#S##83705
+20#Chapter 19 Inductance#19.19#Example 134#EX19_19.sce#2240/CH20/EX19.19/EX19_19.sce#S##83730
+20#Chapter 19 Inductance#19.18#Example 133#EX19_18.sce#2240/CH20/EX19.18/EX19_18.sce#S##83729
+20#Chapter 19 Inductance#19.17#Example 132#EX19_17.sce#2240/CH20/EX19.17/EX19_17.sce#S##83728
+20#Chapter 19 Inductance#19.16#Example 131#EX19_16.sce#2240/CH20/EX19.16/EX19_16.sce#S##83727
+20#Chapter 19 Inductance#19.15#Example 130#EX19_15.sce#2240/CH20/EX19.15/EX19_15.sce#S##83726
+20#Chapter 19 Inductance#19.14#Example 129#EX19_14.sce#2240/CH20/EX19.14/EX19_14.sce#S##83725
+20#Chapter 19 Inductance#19.13#Example 128#EX19_13.sce#2240/CH20/EX19.13/EX19_13.sce#S##83724
+20#Chapter 19 Inductance#19.12#Example 127#EX19_12.sce#2240/CH20/EX19.12/EX19_12.sce#S##83723
+20#Chapter 19 Inductance#19.11#Example 126#EX19_11.sce#2240/CH20/EX19.11/EX19_11.sce#S##83722
+20#Chapter 19 Inductance#19.10#Example 125#EX19_10.sce#2240/CH20/EX19.10/EX19_10.sce#S##83721
+20#Chapter 19 Inductance#19.1#Example 116#EX19_1.sce#2240/CH20/EX19.1/EX19_1.sce#S##83092
+19#Chapter 18 Capacitive Circuits#18.2#Example 115#EX18_2.sce#2240/CH19/EX18.2/EX18_2.sce#S##83088
+19#Chapter 18 Capacitive Circuits#18.1#Example 114#EX18_1.sce#2240/CH19/EX18.1/EX18_1.sce#S##83086
+18#Chapter 17 Capacitive Reactance#17.7#Example 113#EX17_7.sce#2240/CH18/EX17.7/EX17_7.sce#S##83083
+18#Chapter 17 Capacitive Reactance#17.6#Example 112#EX17_6.sce#2240/CH18/EX17.6/EX17_6.sce#S##83080
+18#Chapter 17 Capacitive Reactance#17.5#Example 111#EX17_5.sce#2240/CH18/EX17.5/EX17_5.sce#S##83078
+18#Chapter 17 Capacitive Reactance#17.4#Example 110#EX17_4.sce#2240/CH18/EX17.4/EX17_4.sce#S##83072
+18#Chapter 17 Capacitive Reactance#17.3#Example 109#EX17_3.sce#2240/CH18/EX17.3/EX17_3.sce#S##83069
+18#Chapter 17 Capacitive Reactance#17.2#Example 108#EX17_2.sce#2240/CH18/EX17.2/EX17_2.sce#S##83064
+18#Chapter 17 Capacitive Reactance#17.1#Example 107#EX17_1.sce#2240/CH18/EX17.1/EX17_1.sce#S##83058
+17#Chapter 16 Capacitance#16.9#Example 103#EX16_9.sce#2240/CH17/EX16.9/EX16_9.sce#S##83043
+17#Chapter 16 Capacitance#16.8#Example 102#EX16_8.sce#2240/CH17/EX16.8/EX16_8.sce#S##83041
+17#Chapter 16 Capacitance#16.7#Example 101#EX16_7.sce#2240/CH17/EX16.7/EX16_7.sce#S##83039
+17#Chapter 16 Capacitance#16.6#Example 100#EX16_6.sce#2240/CH17/EX16.6/EX16_6.sce#S##83038
+17#Chapter 16 Capacitance#16.5#Example 99#EX16_5.sce#2240/CH17/EX16.5/EX16_5.sce#S##83034
+17#Chapter 16 Capacitance#16.4#Example 98#EX16_4.sce#2240/CH17/EX16.4/EX16_4.sce#S##83033
+17#Chapter 16 Capacitance#16.3#Example 97#EX16_3.sce#2240/CH17/EX16.3/EX16_3.sce#S##83030
+17#Chapter 16 Capacitance#16.2#Example 96#EX16_2.sce#2240/CH17/EX16.2/EX16_2.sce#S##83027
+17#Chapter 16 Capacitance#16.12#Example 106#EX16_12.sce#2240/CH17/EX16.12/EX16_12.sce#S##83050
+17#Chapter 16 Capacitance#16.11#Example 105#EX16_11.sce#2240/CH17/EX16.11/EX16_11.sce#S##83049
+17#Chapter 16 Capacitance#16.10#Example 104#EX16_10.sce#2240/CH17/EX16.10/EX16_10.sce#S##83045
+17#Chapter 16 Capacitance#16.1#Example 95#EX16_1.sce#2240/CH17/EX16.1/EX16_1.sce#S##83026
+16#Chapter 15 Alternating Voltage and Current#15.8#Example 94#EX15_8.sce#2240/CH16/EX15.8/EX15_8.sce#S##83023
+16#Chapter 15 Alternating Voltage and Current#15.7#Example 93#EX15_7.sce#2240/CH16/EX15.7/EX15_7.sce#S##83021
+16#Chapter 15 Alternating Voltage and Current#15.6#Example 92#EX15_6.sce#2240/CH16/EX15.6/EX15_6.sce#S##83019
+16#Chapter 15 Alternating Voltage and Current#15.5#Example 91#EX15_5.sce#2240/CH16/EX15.5/EX15_5.sce#S##83018
+16#Chapter 15 Alternating Voltage and Current#15.4#Example 90#EX15_4.sce#2240/CH16/EX15.4/EX15_4.sce#S##83016
+16#Chapter 15 Alternating Voltage and Current#15.3#Example 89#EX15_3.sce#2240/CH16/EX15.3/EX15_3.sce#S##83015
+16#Chapter 15 Alternating Voltage and Current#15.2#Example 88#EX15_2.sce#2240/CH16/EX15.2/EX15_2.sce#S##83013
+16#Chapter 15 Alternating Voltage and Current#15.1#Example 87#EX15_1.sce#2240/CH16/EX15.1/EX15_1.sce#S##83010
+15#Chapter 14 Electromagnetism#14.6#Example 86#EX14_6.sce#2240/CH15/EX14.6/EX14_6.sce#S##83007
+15#Chapter 14 Electromagnetism#14.5#Example 85#EX14_5.sce#2240/CH15/EX14.5/EX14_5.sce#S##83005
+15#Chapter 14 Electromagnetism#14.4#Example 84#EX14_4.sce#2240/CH15/EX14.4/EX14_4.sce#S##83004
+15#Chapter 14 Electromagnetism#14.3#Example 83#EX14_3.sce#2240/CH15/EX14.3/EX14_3.sce#S##83002
+15#Chapter 14 Electromagnetism#14.2#Example 82#EX14_2.sce#2240/CH15/EX14.2/EX14_2.sce#S##83000
+15#Chapter 14 Electromagnetism#14.1#Example 81#EX14_1.sce#2240/CH15/EX14.1/EX14_1.sce#S##82998
+14#Chapter 13 Magnetism#13.4#Example 80#EX13_4.sce#2240/CH14/EX13.4/EX13_4.sce#S##82994
+14#Chapter 13 Magnetism#13.3#Example 79#EX13_3.sce#2240/CH14/EX13.3/EX13_3.sce#S##82991
+14#Chapter 13 Magnetism#13.2#Example 78#EX13_2.sce#2240/CH14/EX13.2/EX13_2.sce#S##82990
+14#Chapter 13 Magnetism#13.1#Example 77#EX13_1.sce#2240/CH14/EX13.1/EX13_1.sce#S##82987
+13#Chapter 12 Battries#12.1#Example 76#EX12_1.sce#2240/CH13/EX12.1/EX12_1.sce#S##82983
+12#Chapter 11 Conductors and Insulators#11.6#Example 75#EX11_6.sce#2240/CH12/EX11.6/EX11_6.sce#S##82981
+12#Chapter 11 Conductors and Insulators#11.5#Example 74#EX11_5.sce#2240/CH12/EX11.5/EX11_5.sce#S##82977
+12#Chapter 11 Conductors and Insulators#11.4#Example 73#EX11_4.sce#2240/CH12/EX11.4/EX11_4.sce#S##82976
+12#Chapter 11 Conductors and Insulators#11.3#Example 72#EX11_3.sce#2240/CH12/EX11.3/EX11_3.sce#S##82973
+12#Chapter 11 Conductors and Insulators#11.2#Example 71#EX11_2.sce#2240/CH12/EX11.2/EX11_2.sce#S##82970
+12#Chapter 11 Conductors and Insulators#11.1#Example 70#EX11_1.sce#2240/CH12/EX11.1/EX11_1.sce#S##82967
+10#Chapter 09 Kirchhoffs Laws#9.2#Example 69#EX9_2.sce#2240/CH10/EX9.2/EX9_2.sce#S##82962
+10#Chapter 09 Kirchhoffs Laws#9.1#Example 68#EX9_1.sce#2240/CH10/EX9.1/EX9_1.sce#S##82961
+9#Chapter 08 Analog and Digital Multimeters#8.2#Example 67#EX8_2.sce#2240/CH9/EX8.2/EX8_2.sce#S##82956
+9#Chapter 08 Analog and Digital Multimeters#8.1#Example 66#EX8_1.sce#2240/CH9/EX8.1/EX8_1.sce#S##82954
+8#Chapter 07 Voltage and Current Dividers#7.1#Example 65#EX7_1.sce#2240/CH8/EX7.1/EX7_1.sce#S##82951
+7#Chapter 06 Series Parallel Circuits#6.4#Example 64#EX6_4.sce#2240/CH7/EX6.4/EX6_4.sce#S##82945
+7#Chapter 06 Series Parallel Circuits#6.3#Example 63#EX6_3.sce#2240/CH7/EX6.3/EX6_3.sce#S##82942
+7#Chapter 06 Series Parallel Circuits#6.2#Example 62#EX6_2.sce#2240/CH7/EX6.2/EX6_2.sce#S##82941
+7#Chapter 06 Series Parallel Circuits#6.1#Example 61#EX6_1.sce#2240/CH7/EX6.1/EX6_1.sce#S##82939
+6#Chapter 05 Parallel Circuits#5.8#Example 60#EX5_8.sce#2240/CH6/EX5.8/EX5_8.sce#S##82938
+6#Chapter 05 Parallel Circuits#5.7#Example 59#EX5_7.sce#2240/CH6/EX5.7/EX5_7.sce#S##82936
+6#Chapter 05 Parallel Circuits#5.6#Example 58#EX5_6.sce#2240/CH6/EX5.6/EX5_6.sce#S##82933
+6#Chapter 05 Parallel Circuits#5.5#Example 57#EX5_5.sce#2240/CH6/EX5.5/EX5_5.sce#S##82935
+6#Chapter 05 Parallel Circuits#5.4#Example 56#EX5_4.sce#2240/CH6/EX5.4/EX5_4.sce#S##82932
+6#Chapter 05 Parallel Circuits#5.3#Example 55#EX5_3.sce#2240/CH6/EX5.3/EX5_3.sce#S##82931
+6#Chapter 05 Parallel Circuits#5.2#Example 54#EX5_2.sce#2240/CH6/EX5.2/EX5_2.sce#S##82930
+6#Chapter 05 Parallel Circuits#5.1#Example 53#EX5_1.sce#2240/CH6/EX5.1/EX5_1.sce#S##82929
+5#Chapter 04 Series Circuits#4.7#Example 52#EX4_7.sce#2240/CH5/EX4.7/EX4_7.sce#S##82928
+5#Chapter 04 Series Circuits#4.6#Example 51#EX4_6.sce#2240/CH5/EX4.6/EX4_6.sce#S##82927
+5#Chapter 04 Series Circuits#4.5#Example 50#EX4_5.sce#2240/CH5/EX4.5/EX4_5.sce#S##82926
+5#Chapter 04 Series Circuits#4.4#Example 49#EX4_4.sce#2240/CH5/EX4.4/EX4_4.sce#S##82925
+5#Chapter 04 Series Circuits#4.3#Example 48#EX4_3.sce#2240/CH5/EX4.3/EX4_3.sce#S##82923
+5#Chapter 04 Series Circuits#4.2#Example 47#EX4_2.sce#2240/CH5/EX4.2/EX4_2.sce#S##82921
+5#Chapter 04 Series Circuits#4.1#Example 46#EX4_1.sce#2240/CH5/EX4.1/EX4_1.sce#S##82919
+4#Chapter 03 Ohms Law#3.9#Example 37#EX3_9.sce#2240/CH4/EX3.9/EX3_9.sce#S##82894
+4#Chapter 03 Ohms Law#3.8#Example 36#EX3_8.sce#2240/CH4/EX3.8/EX3_8.sce#S##82892
+4#Chapter 03 Ohms Law#3.7#Example 35#EX3_7.sce#2240/CH4/EX3.7/EX3_7.sce#S##82890
+4#Chapter 03 Ohms Law#3.6#Example 34#EX3_6.sce#2240/CH4/EX3.6/EX3_6.sce#S##82887
+4#Chapter 03 Ohms Law#3.5#Example 33#EX3_5.sce#2240/CH4/EX3.5/EX3_5.sce#S##82888
+4#Chapter 03 Ohms Law#3.4#Example 32#EX3_4.sce#2240/CH4/EX3.4/EX3_4.sce#S##82882
+4#Chapter 03 Ohms Law#3.3#Example 31#EX3_3.sce#2240/CH4/EX3.3/EX3_3.sce#S##82879
+4#Chapter 03 Ohms Law#3.2#Example 30#EX3_2.sce#2240/CH4/EX3.2/EX3_2.sce#S##82875
+4#Chapter 03 Ohms Law#3.17#Example 45#EX3_17.sce#2240/CH4/EX3.17/EX3_17.sce#S##82914
+4#Chapter 03 Ohms Law#3.16#Example 44#EX3_16.sce#2240/CH4/EX3.16/EX3_16.sce#S##82911
+4#Chapter 03 Ohms Law#3.15#Example 43#EX3_15.sce#2240/CH4/EX3.15/EX3_15.sce#S##82910
+4#Chapter 03 Ohms Law#3.14#Example 42#EX3_14.sce#2240/CH4/EX3.14/EX3_14.sce#S##82907
+4#Chapter 03 Ohms Law#3.13#Example 41#EX3_13.sce#2240/CH4/EX3.13/EX3_13.sce#S##82905
+4#Chapter 03 Ohms Law#3.12#Example 40#EX3_12.sce#2240/CH4/EX3.12/EX3_12.sce#S##82902
+4#Chapter 03 Ohms Law#3.11#Example 39#EX3_11.sce#2240/CH4/EX3.11/EX3_11.sce#S##82900
+4#Chapter 03 Ohms Law#3.10#Example 38#EX3_10.sce#2240/CH4/EX3.10/EX3_10.sce#S##82897
+4#Chapter 03 Ohms Law#3.1#Example 29#EX3_1.sce#2240/CH4/EX3.1/EX3_1.sce#S##82871
+3#Chapter 02 Resistors#2.2#Example 28#EX2_2.sce#2240/CH3/EX2.2/EX2_2.sce#S##82867
+3#Chapter 02 Resistors#2.1#Example 27#EX2_1.sce#2240/CH3/EX2.1/EX2_1.sce#S##82864
+2#Chapter 01 Electricity#1.9#Example 26#EX1_9.sce#2240/CH2/EX1.9/EX1_9.sce#S##82861
+2#Chapter 01 Electricity#1.8#Example 25#EX1_8.sce#2240/CH2/EX1.8/EX1_8.sce#S##82858
+2#Chapter 01 Electricity#1.7#Example 24#EX1_7.sce#2240/CH2/EX1.7/EX1_7.sce#S##82856
+2#Chapter 01 Electricity#1.6#Example 23#EX1_6.sce#2240/CH2/EX1.6/EX1_6.sce#S##82853
+2#Chapter 01 Electricity#1.5#Example 22#EX1_5.sce#2240/CH2/EX1.5/EX1_5.sce#S##82850
+2#Chapter 01 Electricity#1.4#Example 21#EX1_4.sce#2240/CH2/EX1.4/EX1_4.sce#S##82845
+2#Chapter 01 Electricity#1.3#Example 20#EX1_3.sce#2240/CH2/EX1.3/EX1_3.sce#S##82843
+2#Chapter 01 Electricity#1.2#Example 19#EX1_2.sce#2240/CH2/EX1.2/EX1_2.sce#S##82841
+2#Chapter 01 Electricity#1.1#Example 18#EX1_1.sce#2240/CH2/EX1.1/EX1_1.sce#S##82836
+1#Chapter Introduction to Powers of 10#0.9#Example 9#EXI_9.sce#2240/CH1/EX0.9/EXI_9.sce#S##84053
+1#Chapter Introduction to Powers of 10#0.8#Example 8#EXI_8.sce#2240/CH1/EX0.8/EXI_8.sce#S##84050
+1#Chapter Introduction to Powers of 10#0.7#Example 7#EXI_7.sce#2240/CH1/EX0.7/EXI_7.sce#S##84049
+1#Chapter Introduction to Powers of 10#0.6#Example 6#EXI_6.sce#2240/CH1/EX0.6/EXI_6.sce#S##84048
+1#Chapter Introduction to Powers of 10#0.5#Example 5#EXI_5.sce#2240/CH1/EX0.5/EXI_5.sce#S##84047
+1#Chapter Introduction to Powers of 10#0.4#Example 4#EXI_4.sce#2240/CH1/EX0.4/EXI_4.sce#S##84032
+1#Chapter Introduction to Powers of 10#0.3#Example 3#EXI_3.sce#2240/CH1/EX0.3/EXI_3.sce#S##84031
+1#Chapter Introduction to Powers of 10#0.2#Example 2#EXI_2.sce#2240/CH1/EX0.2/EXI_2.sce#S##84030
+1#Chapter Introduction to Powers of 10#0.17#Example 17#EXI_17.sce#2240/CH1/EX0.17/EXI_17.sce#S##84067
+1#Chapter Introduction to Powers of 10#0.16#Example 16#EXI_16.sce#2240/CH1/EX0.16/EXI_16.sce#S##84066
+1#Chapter Introduction to Powers of 10#0.15#Example 15#EXI_15.sce#2240/CH1/EX0.15/EXI_15.sce#S##84065
+1#Chapter Introduction to Powers of 10#0.14#Example 14#EXI_14.sce#2240/CH1/EX0.14/EXI_14.sce#S##84064
+1#Chapter Introduction to Powers of 10#0.13#Example 13#EXI_13.sce#2240/CH1/EX0.13/EXI_13.sce#S##84063
+1#Chapter Introduction to Powers of 10#0.12#Example 12#EXI_12.sce#2240/CH1/EX0.12/EXI_12.sce#S##84061
+1#Chapter Introduction to Powers of 10#0.11#Example 11#EXI_11.sce#2240/CH1/EX0.11/EXI_11.sce#S##84059
+1#Chapter Introduction to Powers of 10#0.10#Example 10#EXI_10.sce#2240/CH1/EX0.10/EXI_10.sce#S##84055
+1#Chapter Introduction to Powers of 10#0.1#Example 1#EXI_1.sce#2240/CH1/EX0.1/EXI_1.sce#S##84029

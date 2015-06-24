@@ -1,0 +1,7 @@
+ 
+ example14.14   
+the reactive power supply and reseving power is 132kV 
+reactive power -15.91Mvar
+the required compensator network neeeded 45.91Mvar 
+ (b)   
+thus under no load condition the line delivers 3.33Mvar at receiving end.the reactive power must be absorbed by shunt reactor at receving end. thus the capacity of shunt reactor, for no load condition is 3.33Mvar.  

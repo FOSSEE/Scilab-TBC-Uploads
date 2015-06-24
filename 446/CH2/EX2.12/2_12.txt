@@ -1,0 +1,4 @@
+  
+ Exa-2.12   
+The relativistic total energy is 1837.46 MeV.
+The kinetic energy of the proton is 899.5 MeV. 

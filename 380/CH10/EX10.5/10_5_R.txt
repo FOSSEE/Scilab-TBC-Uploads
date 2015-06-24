@@ -1,0 +1,19 @@
+ (a) induced emf in the armature (in Volts)=   
+ 
+    74.1042  
+ 
+ phase of induced emf in the armature (in Degree)=   
+ 
+  - 24.217693  
+ 
+ (b) power output (in Watts)=   
+ 
+    1222.7518  
+ 
+ (c) shaft torque (in Newton-meter)=   
+ 
+    1.4595525  
+ 
+ (d) Efficiency (%)=   
+ 
+    63.55407  

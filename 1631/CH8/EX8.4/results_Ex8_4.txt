@@ -1,0 +1,5 @@
+ Error probability of PSK is    
+ 
+ P(e) =   
+ 
+    0.0015654  

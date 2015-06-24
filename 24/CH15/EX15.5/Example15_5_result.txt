@@ -1,0 +1,2 @@
+**Sample Problem 15-5**
+The maximum mass attached can be 7693.670127kg 

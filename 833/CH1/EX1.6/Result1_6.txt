@@ -1,0 +1,12 @@
+(a)Impedance(in ohms)=   
+ 
+    0.05  
+ 
+ (b) Resistance(in %)=   
+ 
+    2.  
+ 
+ Reactance(in %)=   
+ 
+    9.797959  
+ 

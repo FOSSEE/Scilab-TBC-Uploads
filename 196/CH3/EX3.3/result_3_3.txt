@@ -1,0 +1,10 @@
+Value of current through Rf =  0.000050 A 
+
+
+Voltage through Rf =  12.5000 V 
+
+
+Output Voltage =  12.5000 V 
+
+
+Thus the magnitude of the output voltage does equal the voltage across Rf and Acl=-25

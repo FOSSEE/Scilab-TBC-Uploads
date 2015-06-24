@@ -1,0 +1,2 @@
+ Numerical apperture is NA=0.377
+Angle of acceptance is ia=22.18 Degrees 

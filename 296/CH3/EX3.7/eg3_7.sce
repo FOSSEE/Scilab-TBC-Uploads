@@ -1,0 +1,14 @@
+un= 700;
+q = 1.6*10^-19;
+n0 = 10^17;
+L = 0.1;
+A = 10^-6;
+V = 10;
+sigma = q*un*n0;
+rho = 1/sigma;
+R = rho*L/A;
+I = V/R;
+disp(sigma,"Conductivity (in per ohm-cm)=")
+disp(rho,"resistivity (in ohm-cm)=")
+disp(R,"resistance (in ohm)=")
+disp(I,"current (in ampere)=")

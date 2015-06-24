@@ -1,0 +1,5 @@
+ # PROBLEM 10 # 
+Standard formula used 
+  1/2 m*v^2 = h*(mu - mu_0) 
+
+ Maximum energy of photoelectron is 0.413750 eV.

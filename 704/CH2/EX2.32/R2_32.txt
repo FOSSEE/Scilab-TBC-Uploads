@@ -1,0 +1,4 @@
+speed of the machine when running as shunt motor and taking 50 KW power at 250 volt(in r.p.m.)=   
+ 
+    381.25732  
+ 

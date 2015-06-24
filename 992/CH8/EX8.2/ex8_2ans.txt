@@ -1,0 +1,5 @@
+ 
+ Nyquist sampling rate = 6600.000000 Hz
+ Bit rate is = 66000.000000 bits/sec
+ Digital bandwidth = 330.000000 KHz 
+ Execution done.   

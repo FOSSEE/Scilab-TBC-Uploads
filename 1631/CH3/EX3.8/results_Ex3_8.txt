@@ -1,0 +1,9 @@
+  
+ Transmission Bandwidth of PAM signal is     
+ 
+ BW>=   
+ 
+    40.  
+ 
+ kHz   
+ 

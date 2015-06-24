@@ -1,0 +1,8 @@
+ 
+ # PROBLEM 2.5 # 
+ The value of Beta2 is 1.748516,  The value of Beta2 is -0.252713, 
+ We only take the positive value of Beta2 , 
+ Hence Beta2=1.75
+
+ Solidification time for slab-shaped casting = 0.671318 hr,
+ Solidification time for sphere = 0.054495 hr 

@@ -1,0 +1,2 @@
+**Sample Problem 26-3**
+The final potential difference between each capacitor is equal to 1.789200V

@@ -1,0 +1,817 @@
+\nonstopmode
+\documentclass[12pt]{report} 
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue}
+\usepackage{theorem,graphicx}
+\usepackage{listings,alltt}
+\bibliographystyle{plain}
+
+
+\lstset{ %configuring the display of scilab codes
+             tabsize=4,
+             language=scilab,
+             basicstyle=\ttfamily,
+             aboveskip={1\baselineskip},
+             showstringspaces=false,
+             breaklines=true,
+             showspaces=false,
+             numbers=left,
+             numberstyle=\small,
+             stringstyle=\normalfont,
+             keywordstyle=\color{red},
+             emph={clc, all, gca},
+             emphstyle=\color{red},
+             commentstyle=\color{blue}\normalfont}
+
+ 
+% code environment
+{\theorembodyfont{\rmfamily} \newtheorem{codemass}{Scilab code}[chapter]}
+\newenvironment{code}%
+{\begin{codemass}}{\hrule \end{codemass}}
+
+{\theorembodyfont{\rmfamily} \newtheorem{accmass}{Acc}[chapter]}
+\newenvironment{acc-code}%
+{\begin{accmass}}{\end{accmass}}
+
+
+% create listing for code
+
+\newcommand\tcaption[1]
+     {\addcontentsline{cod}{section}{\protect\numberline {\thecodemass}#1}}
+\makeatletter \newcommand\listofcode
+     {\chapter*{List of Scilab Codes\markboth%
+                        {\bf List of Scilab Codes}{}}%
+\renewcommand*\l@section{\@dottedtocline{1}{1.5em}{5em}}%
+\addcontentsline{toc}{chapter}{\protect\numberline{List of Scilab Codes}}
+\@starttoc{cod}}
+\newcommand\l@matlab[3]
+     {#1 \par\noindent#2, #3 \par}
+\renewcommand\@pnumwidth{2.1em}
+%\makeatother
+
+\makeatletter
+\def\curlable#1{\def\thecodemass{#1}\def\@currentlabel{#1}}
+\makeatother
+
+\newcommand{\coderef}[1]{Exa~\ref{#1}}
+\newcommand{\figref}[1]{Fig.~\ref{#1}}
+
+\title{Scilab Textbook Companion for \\Coulson And Richardson's Chemical Engineering, Volume 2\\by J. M. Coulson, J. F. Richardson, J. R. Backhurst And J. H. Harker\footnote{Funded by a grant from the National Mission on Education through ICT, http://spoken-tutorial.org/NMEICT-Intro. This Textbook Companion and Scilab codes written in it can be downloaded from the "Textbook Companion Project" section at the website http://scilab.in}}
+\author{ Created by \\Ankit Mishra\\B.Tech\\Chemical Engineering\\IT-BHU, VARANASI\\ College Teacher\\R.S.singh\\Cross-Checked by \\\\}
+\date{\today}
+\begin{document}
+\maketitle
+
+\chapter*{Book Description}
+\begin{description}
+\item [Title:] Coulson And Richardson's Chemical Engineering, Volume 2
+\item [Author:] J. M. Coulson, J. F. Richardson, J. R. Backhurst And J. H. Harker
+\item [Publisher:] Elsevier India
+\item [Edition:] 5
+\item [Year:] 2006
+\item [ISBN:] 9788181471444
+\end{description}
+
+\newpage
+\vspace*{3cm}
+Scilab numbering policy used in this document and the relation to the above book.
+\begin{description}
+\item[Exa] Example (Solved example)
+\item[Eqn] Equation (Particular equation of the above book)
+\item[AP] Appendix to Example(Scilab Code that is an Appednix to a particular Example of the above book)
+\end{description}
+For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means a scilab code whose theory is explained in Section 2.3 of the book.
+
+\tableofcontents
+\listofcode
+
+\chapter{Particulate Solids}
+
+\vspace*{10mm}
+\curlable{Exa~1.1}
+\begin{code}
+\tcaption{Surface mean diameter}{Surface mean diameter}
+\lstinputlisting{../542/CH1/EX1.1/Example_1_1.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.2}
+\begin{code}
+\tcaption{Surface and mass distribution curve and surface mean diameter}{Surface and mass distribution curve and surface mean diameter}
+\lstinputlisting{../542/CH1/EX1.2/Example_1_2.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.3}
+\begin{code}
+\tcaption{variation of mixing index with time}{variation of mixing index with time}
+\lstinputlisting{../542/CH1/EX1.3/Example_1_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.4}
+\begin{code}
+\tcaption{minimum apparent density for seperation}{minimum apparent density for seperation}
+\lstinputlisting{../542/CH1/EX1.4/Example_1_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.5}
+\begin{code}
+\tcaption{efficiency of collection for dust}{efficiency of collection for dust}
+\lstinputlisting{../542/CH1/EX1.5/Example_1_5.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.6}
+\begin{code}
+\tcaption{Overall efficiency of collector}{Overall efficiency of collector}
+\lstinputlisting{../542/CH1/EX1.6/Example_1_6.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.7}
+\begin{code}
+\tcaption{Estimation of particle size}{Estimation of particle size}
+\lstinputlisting{../542/CH1/EX1.7/Example_1_7.sce}
+\end{code}
+
+\chapter{Particle size reduction and enlargement}
+
+\vspace*{10mm}
+\curlable{Exa~2.1}
+\begin{code}
+\tcaption{Consumption of energy}{Consumption of energy}
+\lstinputlisting{../542/CH2/EX2.1/Example_2_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.2}
+\begin{code}
+\tcaption{Maximum size of the particle}{Maximum size of the particle}
+\lstinputlisting{../542/CH2/EX2.2/Example_2_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.3}
+\begin{code}
+\tcaption{Proposed modifications in ball mill}{Proposed modifications in ball mill}
+\lstinputlisting{../542/CH2/EX2.3/Example_2_3.sci}
+\end{code}
+
+\chapter{Motion of particles in a fluid}
+
+\vspace*{10mm}
+\curlable{Exa~3.1}
+\begin{code}
+\tcaption{terminal velocity}{terminal velocity}
+\lstinputlisting{../542/CH3/EX3.1/Example_3_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.2}
+\begin{code}
+\tcaption{Estimation of galena}{Estimation of galena}
+\lstinputlisting{../542/CH3/EX3.2/Example_3_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.3}
+\begin{code}
+\tcaption{terminal velocity}{terminal velocity}
+\lstinputlisting{../542/CH3/EX3.3/Example_3_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.4}
+\begin{code}
+\tcaption{Approximate distance travelled}{Approximate distance travelled}
+\lstinputlisting{../542/CH3/EX3.4/Example_3_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.5}
+\begin{code}
+\tcaption{maximum size of crystals}{maximum size of crystals}
+\lstinputlisting{../542/CH3/EX3.5/Example_3_5.sci}
+\end{code}
+
+\chapter{Flow of fluids through granular beds and packed columns}
+
+\vspace*{10mm}
+\curlable{Exa~4.1}
+\begin{code}
+\tcaption{pressure calculation}{pressure calculation}
+\lstinputlisting{../542/CH4/EX4.1/Example_4_1.sci}
+\end{code}
+
+\chapter{Sedimentation}
+
+\vspace*{10mm}
+\curlable{Exa~5.1}
+\begin{code}
+\tcaption{Minimum area of thickener}{Minimum area of thickener}
+\lstinputlisting{../542/CH5/EX5.1/Example_5_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.2}
+\begin{code}
+\tcaption{Sedimentation velocity and solids flux}{Sedimentation velocity and solids flux}
+\lstinputlisting{../542/CH5/EX5.2/Example_5_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.3}
+\begin{code}
+\tcaption{Rate of deposition and maximum flux}{Rate of deposition and maximum flux}
+\lstinputlisting{../542/CH5/EX5.3/Example_5_3.sci}
+\end{code}
+
+\chapter{Fluidisation}
+
+\vspace*{10mm}
+\curlable{Exa~6.1}
+\begin{code}
+\tcaption{minimum fluidising velocity}{minimum fluidising velocity}
+\lstinputlisting{../542/CH6/EX6.1/Example_6_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.2}
+\begin{code}
+\tcaption{fluidisation and transport of particles}{fluidisation and transport of particles}
+\lstinputlisting{../542/CH6/EX6.2/Example_6_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.3}
+\begin{code}
+\tcaption{Voidage of the bed}{Voidage of the bed}
+\lstinputlisting{../542/CH6/EX6.3/Example_6_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.4}
+\begin{code}
+\tcaption{slope of adsorption isotherm}{slope of adsorption isotherm}
+\lstinputlisting{../542/CH6/EX6.4/Example_6_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.5}
+\begin{code}
+\tcaption{Coefficient of heat transfer between gas and the particles}{Coefficient of heat transfer between gas and the particles}
+\lstinputlisting{../542/CH6/EX6.5/Example_6_5.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.6}
+\begin{code}
+\tcaption{Volumetric fraction of the bed carrying out evaporation}{Volumetric fraction of the bed carrying out evaporation}
+\lstinputlisting{../542/CH6/EX6.6/Example_6_6.sci}
+\end{code}
+
+\chapter{Liquid filtration}
+
+\vspace*{10mm}
+\curlable{Exa~7.1}
+\begin{code}
+\tcaption{volume of filtrate collected per cycle}{volume of filtrate collected per cycle}
+\lstinputlisting{../542/CH7/EX7.1/Example_7_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.2}
+\begin{code}
+\tcaption{Effect on optimium thickness of the cake}{Effect on optimium thickness of the cake}
+\lstinputlisting{../542/CH7/EX7.2/Example_7_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.3}
+\begin{code}
+\tcaption{Time taken to produce 1 m3 of filtrate and pressure in this time}{Time taken to produce 1 m3 of filtrate and pressure in this time}
+\lstinputlisting{../542/CH7/EX7.3/Example_7_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.4}
+\begin{code}
+\tcaption{Speed of rotation for maximum throughput}{Speed of rotation for maximum throughput}
+\lstinputlisting{../542/CH7/EX7.4/Example_7_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.5}
+\begin{code}
+\tcaption{Optimum filtration time for maximum throughput}{Optimum filtration time for maximum throughput}
+\lstinputlisting{../542/CH7/EX7.5/Example_7_5.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.6}
+\begin{code}
+\tcaption{Thickness of cake produced}{Thickness of cake produced}
+\lstinputlisting{../542/CH7/EX7.6/Example_7_6.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.7}
+\begin{code}
+\tcaption{Increase in the overall throughput of the press}{Increase in the overall throughput of the press}
+\lstinputlisting{../542/CH7/EX7.7/Example_7_7.sci}
+\end{code}
+
+\chapter{Membrane Seperation Processes}
+
+\vspace*{10mm}
+\curlable{Exa~8.2}
+\begin{code}
+\tcaption{Area of membrane and average flux}{Area of membrane and average flux}
+\lstinputlisting{../542/CH8/EX8.2/Example_8_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.3}
+\begin{code}
+\tcaption{Minimum number of membrane modules required}{Minimum number of membrane modules required}
+\lstinputlisting{../542/CH8/EX8.3/Example_8_3.sci}
+\end{code}
+
+\chapter{Centrifugal Seperations}
+
+\vspace*{10mm}
+\curlable{Exa~9.1}
+\begin{code}
+\tcaption{Value of capacity factor}{Value of capacity factor}
+\lstinputlisting{../542/CH9/EX9.1/Example_9_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.3}
+\begin{code}
+\tcaption{TIme taken to produce filtrate}{TIme taken to produce filtrate}
+\lstinputlisting{../542/CH9/EX9.3/Example_9_3.sci}
+\end{code}
+
+\chapter{Leaching}
+
+\vspace*{10mm}
+\curlable{Exa~10.1}
+\begin{code}
+\tcaption{Time required for solute to dissolve}{Time required for solute to dissolve}
+\lstinputlisting{../542/CH10/EX10.1/Example_10_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.2}
+\begin{code}
+\tcaption{Rate of feed of neutral water to the thickeners}{Rate of feed of neutral water to the thickeners}
+\lstinputlisting{../542/CH10/EX10.2/Example_10_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.3}
+\begin{code}
+\tcaption{Required number of thickners}{Required number of thickners}
+\lstinputlisting{../542/CH10/EX10.3/Example_10_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.4}
+\begin{code}
+\tcaption{Number of ideal stages required}{Number of ideal stages required}
+\lstinputlisting{../542/CH10/EX10.4/Example_10_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.5}
+\begin{code}
+\tcaption{Number of theoretical stages required}{Number of theoretical stages required}
+\lstinputlisting{../542/CH10/EX10.5/Example_10_5.sci}
+\end{code}
+
+\chapter{Distillation}
+
+\vspace*{10mm}
+\curlable{Exa~11.1}
+\begin{code}
+\tcaption{Mole fraction calculation}{Mole fraction calculation}
+\lstinputlisting{../542/CH11/EX11.1/Example_11_1.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.2}
+\begin{code}
+\tcaption{Saturated Pressure calculation}{Saturated Pressure calculation}
+\lstinputlisting{../542/CH11/EX11.2/Example_11_2.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.3}
+\begin{code}
+\tcaption{Vapour phase composition of a mixture}{Vapour phase composition of a mixture}
+\lstinputlisting{../542/CH11/EX11.3/Example_11_3.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.4}
+\begin{code}
+\tcaption{Boiling point of equimolar mixture}{Boiling point of equimolar mixture}
+\lstinputlisting{../542/CH11/EX11.4/Example_11_4.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.5}
+\begin{code}
+\tcaption{Dew point of a equimolar mixture}{Dew point of a equimolar mixture}
+\lstinputlisting{../542/CH11/EX11.5/Example_11_5.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.6}
+\begin{code}
+\tcaption{Composition of vapour and liquid}{Composition of vapour and liquid}
+\lstinputlisting{../542/CH11/EX11.6/Example_11_6.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.7}
+\begin{code}
+\tcaption{Number of theoretical plates needed}{Number of theoretical plates needed}
+\lstinputlisting{../542/CH11/EX11.7/Example_11_7.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.8}
+\begin{code}
+\tcaption{The Mc Cabe Thiele method}{The Mc Cabe Thiele method}
+\lstinputlisting{../542/CH11/EX11.8/Example_11_8.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.9}
+\begin{code}
+\tcaption{Number of plates required at total reflux}{Number of plates required at total reflux}
+\lstinputlisting{../542/CH11/EX11.9/Example_11_9.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.10}
+\begin{code}
+\tcaption{Heat required}{Heat required}
+\lstinputlisting{../542/CH11/EX11.10/Example_11_10.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.11}
+\begin{code}
+\tcaption{Number of theoretical stages required}{Number of theoretical stages required}
+\lstinputlisting{../542/CH11/EX11.11/Example_11_11.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.12}
+\begin{code}
+\tcaption{Amount of distillate}{Amount of distillate}
+\lstinputlisting{../542/CH11/EX11.12/Example_11_12.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.13}
+\begin{code}
+\tcaption{Heat required and average composition}{Heat required and average composition}
+\lstinputlisting{../542/CH11/EX11.13/Example_11_13.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.14}
+\begin{code}
+\tcaption{Ideal plates required}{Ideal plates required}
+\lstinputlisting{../542/CH11/EX11.14/Example_11_14.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.15}
+\begin{code}
+\tcaption{Minimum reflux ratio}{Minimum reflux ratio}
+\lstinputlisting{../542/CH11/EX11.15/Example_11_15.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.16}
+\begin{code}
+\tcaption{Minimum reflux ratio}{Minimum reflux ratio}
+\lstinputlisting{../542/CH11/EX11.16/Example_11_16.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.17}
+\begin{code}
+\tcaption{Number of theoretical plates required}{Number of theoretical plates required}
+\lstinputlisting{../542/CH11/EX11.17/Example_11_17.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.18}
+\begin{code}
+\tcaption{Xhange in n with R}{Xhange in n with R}
+\lstinputlisting{../542/CH11/EX11.18/Example_11_18.sce}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.19}
+\begin{code}
+\tcaption{Optimum reflux ratio}{Optimum reflux ratio}
+\lstinputlisting{../542/CH11/EX11.19/Example_11_19.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.20}
+\begin{code}
+\tcaption{Plate efficiency for the given data}{Plate efficiency for the given data}
+\lstinputlisting{../542/CH11/EX11.20/Example_11_20.sce}
+\end{code}
+
+\chapter{Absorption of gases}
+
+\vspace*{10mm}
+\curlable{Exa~12.1}
+\begin{code}
+\tcaption{Overall liquid film coefficient}{Overall liquid film coefficient}
+\lstinputlisting{../542/CH12/EX12.1/Example_12_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.2}
+\begin{code}
+\tcaption{Mass transfer coefficient}{Mass transfer coefficient}
+\lstinputlisting{../542/CH12/EX12.2/Example_12_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.3}
+\begin{code}
+\tcaption{Overall transfer units required}{Overall transfer units required}
+\lstinputlisting{../542/CH12/EX12.3/Example_12_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.4}
+\begin{code}
+\tcaption{Height of transfer units and number of transfer units}{Height of transfer units and number of transfer units}
+\lstinputlisting{../542/CH12/EX12.4/Example_12_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.5}
+\begin{code}
+\tcaption{Height of the tower}{Height of the tower}
+\lstinputlisting{../542/CH12/EX12.5/Example_12_5.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.6}
+\begin{code}
+\tcaption{specific steam consumption}{specific steam consumption}
+\lstinputlisting{../542/CH12/EX12.6/Example_12_6.sci}
+\end{code}
+
+\chapter{Liquid liquid extraction}
+
+\vspace*{10mm}
+\curlable{Exa~13.1}
+\begin{code}
+\tcaption{Composition of final raffinate}{Composition of final raffinate}
+\lstinputlisting{../542/CH13/EX13.1/Example_13_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.3}
+\begin{code}
+\tcaption{Overall transfer coefficient}{Overall transfer coefficient}
+\lstinputlisting{../542/CH13/EX13.3/Example_13_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.4}
+\begin{code}
+\tcaption{Surface mean droplet size}{Surface mean droplet size}
+\lstinputlisting{../542/CH13/EX13.4/Example_13_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.5}
+\begin{code}
+\tcaption{Number of overall transfer units in raffinate phase}{Number of overall transfer units in raffinate phase}
+\lstinputlisting{../542/CH13/EX13.5/Example_13_5.sci}
+\end{code}
+
+\chapter{Evaporation}
+
+\vspace*{10mm}
+\curlable{Exa~14.1}
+\begin{code}
+\tcaption{Heat surface required}{Heat surface required}
+\lstinputlisting{../542/CH14/EX14.1/Example_14_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.2A}
+\begin{code}
+\tcaption{Forward feed}{Forward feed}
+\lstinputlisting{../542/CH14/EX14.2A/Example_14_2a.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.2B}
+\begin{code}
+\tcaption{Backward feed}{Backward feed}
+\lstinputlisting{../542/CH14/EX14.2B/Example_14_2b.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.3}
+\begin{code}
+\tcaption{Efficiency of the compressor}{Efficiency of the compressor}
+\lstinputlisting{../542/CH14/EX14.3/Example_14_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.4}
+\begin{code}
+\tcaption{Quantity of additional stream required}{Quantity of additional stream required}
+\lstinputlisting{../542/CH14/EX14.4/Example_14_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.5}
+\begin{code}
+\tcaption{Capacity and economy of the system}{Capacity and economy of the system}
+\lstinputlisting{../542/CH14/EX14.5/Example_14_5.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.6}
+\begin{code}
+\tcaption{Method to drive the compressor}{Method to drive the compressor}
+\lstinputlisting{../542/CH14/EX14.6/Example_14_6.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.7}
+\begin{code}
+\tcaption{Optimum boiling time}{Optimum boiling time}
+\lstinputlisting{../542/CH14/EX14.7/Example_14_7.sci}
+\end{code}
+
+\chapter{Crystallisation}
+
+\vspace*{10mm}
+\curlable{Exa~15.1}
+\begin{code}
+\tcaption{Supersaturation ratio}{Supersaturation ratio}
+\lstinputlisting{../542/CH15/EX15.1/Example_15_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.2}
+\begin{code}
+\tcaption{Increase in solubility}{Increase in solubility}
+\lstinputlisting{../542/CH15/EX15.2/Example_15_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.3}
+\begin{code}
+\tcaption{Theoretical yield}{Theoretical yield}
+\lstinputlisting{../542/CH15/EX15.3/Example_15_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.4}
+\begin{code}
+\tcaption{Yield of Sodium acetate}{Yield of Sodium acetate}
+\lstinputlisting{../542/CH15/EX15.4/Example_15_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.5}
+\begin{code}
+\tcaption{Length of crystalliser}{Length of crystalliser}
+\lstinputlisting{../542/CH15/EX15.5/Example_15_5.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.6}
+\begin{code}
+\tcaption{Crystal production rate}{Crystal production rate}
+\lstinputlisting{../542/CH15/EX15.6/Example_15_6.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.7}
+\begin{code}
+\tcaption{Vapour pressure}{Vapour pressure}
+\lstinputlisting{../542/CH15/EX15.7/Example_15_7.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.8}
+\begin{code}
+\tcaption{Mass sublimation rates}{Mass sublimation rates}
+\lstinputlisting{../542/CH15/EX15.8/Example_15_8.sci}
+\end{code}
+
+\chapter{Drying}
+
+\vspace*{10mm}
+\curlable{Exa~16.1}
+\begin{code}
+\tcaption{Time taken to dry the solids}{Time taken to dry the solids}
+\lstinputlisting{../542/CH16/EX16.1/Example_16_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.2}
+\begin{code}
+\tcaption{Time taken to dry the solids}{Time taken to dry the solids}
+\lstinputlisting{../542/CH16/EX16.2/Example_16_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.3}
+\begin{code}
+\tcaption{Mass flow rate of dry air}{Mass flow rate of dry air}
+\lstinputlisting{../542/CH16/EX16.3/Example_16_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.4}
+\begin{code}
+\tcaption{Approximate drying time}{Approximate drying time}
+\lstinputlisting{../542/CH16/EX16.4/Example_16_4.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.5}
+\begin{code}
+\tcaption{Proposed diameter and length}{Proposed diameter and length}
+\lstinputlisting{../542/CH16/EX16.5/Example_16_5.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.6}
+\begin{code}
+\tcaption{Specified diameter of the bed}{Specified diameter of the bed}
+\lstinputlisting{../542/CH16/EX16.6/Example_16_6.sci}
+\end{code}
+
+\chapter{Adsorption}
+
+\vspace*{10mm}
+\curlable{Exa~17.1}
+\begin{code}
+\tcaption{Comparison of estimates with the geometric surfaces}{Comparison of estimates with the geometric surfaces}
+\lstinputlisting{../542/CH17/EX17.1/Example_17_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~17.2}
+\begin{code}
+\tcaption{Applicability of various equilibrium theories}{Applicability of various equilibrium theories}
+\lstinputlisting{../542/CH17/EX17.2/Example_17_2.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~17.3}
+\begin{code}
+\tcaption{Length of the bed}{Length of the bed}
+\lstinputlisting{../542/CH17/EX17.3/Example_17_3.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~17.5}
+\begin{code}
+\tcaption{Moving bed adsorption design}{Moving bed adsorption design}
+\lstinputlisting{../542/CH17/EX17.5/Example_17_5.sce}
+\end{code}
+
+\chapter{Ion Exchange}
+
+\vspace*{10mm}
+\curlable{Exa~18.1}
+\begin{code}
+\tcaption{Prediction of time t against xs values}{Prediction of time t against xs values}
+\lstinputlisting{../542/CH18/EX18.1/Example_18_1.sci}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~18.2}
+\begin{code}
+\tcaption{Concentration of HNO3 in solution}{Concentration of HNO3 in solution}
+\lstinputlisting{../542/CH18/EX18.2/Example_18_2.sci}
+\end{code}
+
+\end{document}

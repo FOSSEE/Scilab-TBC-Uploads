@@ -1,0 +1,7 @@
+ # PROBLEM 26 # 
+ Standard formula used 
+
+ m = m_0/((1-v^2/c^2)^1/2) 
+
+  momentum of particle is 2.990565e-21 kg m /sec 
+ Kinetic energy of particle is 5.118750e+06 eV.

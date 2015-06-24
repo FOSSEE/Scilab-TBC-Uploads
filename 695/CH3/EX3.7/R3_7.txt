@@ -1,0 +1,28 @@
+  
+ (a)Equivalent resistance reffered to high voltage side (in ohms)=   
+ 
+    4.3  
+ 
+    Equivalent reactance reffered to high voltage side (in ohms)=   
+ 
+    9.  
+ 
+    Equivalent impedance reffered to high voltage side (in ohms)=   
+ 
+    9.9744674  
+ 
+ (b)Equivalent resistance reffered to low voltage side (in ohms)=   
+ 
+    0.043  
+ 
+    Equivalent reactance reffered to low voltage side (in ohms)=   
+ 
+    0.09  
+ 
+    Equivalent impedance reffered to low voltage side (in ohms)=   
+ 
+    0.0997447  
+ 
+ (c)Total copper loss of transformer (in watts)=   
+ 
+    430.

@@ -1,0 +1,9 @@
+  
+ Exa-9.4   
+The value of energy is 0.015150 eV
+The respective wavelength is is 81.849284 um
+The value of energy is 0.030300 eV
+The respective wavelength is is 40.924642 um
+The value of energy is 0.045449 eV
+The respective wavelength is is 27.283095 um
+ 

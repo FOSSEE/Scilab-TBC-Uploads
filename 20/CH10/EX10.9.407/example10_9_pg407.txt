@@ -1,0 +1,21 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_10/code/example10_9_pg407.sce', -1)
+ 
+ The open-circuit voltage corresponding to this excitation, determined from 
+       Fig. 10-12, is 4450 volts;                                           
+
+
+The regulation for 80% power factor is 16.8 %  
+ The open-circuit voltage corresponding to this excitation, determined from 
+       Fig. 10-12, is 4150 volts;                                           
+
+
+The regulation for 100% power factor is 8.9 % 
+The value F_R corresponding to Fig 10-12 is 29300 Volts
+ 
+ The open-circuit voltage corresponding to this excitation, determined from 
+       Fig. 10-12, is 4500 volts;                                           
+
+The regulation for 0% power factor is 18.1 % 
+ 
+-->diary(0);

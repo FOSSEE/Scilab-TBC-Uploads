@@ -1,0 +1,12 @@
+(a)Speed at full load torque(in r.p.m)=   
+ 
+    348.93617  
+ 
+ (b)Speed at double full load torque(in r.p.m)=   
+ 
+    272.34043  
+ 
+ (c)Stalling torque=times the full load torque=   
+ 
+    5.5555556  
+ 

@@ -1,0 +1,11 @@
+i)Signaling rate of PCM is   
+ 
+    48.  
+ 
+ kHz   
+ 
+ ii)The signaling rate of DM is   
+ 
+    603.18579  
+ 
+ kHz  

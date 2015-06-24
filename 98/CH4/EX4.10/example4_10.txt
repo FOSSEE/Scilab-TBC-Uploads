@@ -1,0 +1,9 @@
+Units generated per annum = 262800000 kWh 
+
+Annual fixed cost = Rs. 500000 
+
+Annual semi fixed cost = Rs. 8.33 
+
+Annual running cost = Rs. 0.00342 
+
+

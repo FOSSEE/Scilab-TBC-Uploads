@@ -1,0 +1,3 @@
+ Coil span factor=   
+ 
+    0.9848078 

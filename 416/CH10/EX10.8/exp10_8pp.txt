@@ -1,0 +1,7 @@
+  
+ example 10.8   
+l1=1/(1-0.003*p1)
+l2=[1/(1-0)]=1
+given lamda=60
+since ic1*l1=lamda ;ic2*l2=lamda
+total load=285MW 

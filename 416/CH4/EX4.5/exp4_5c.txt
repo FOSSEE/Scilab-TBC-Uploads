@@ -1,0 +1,5 @@
+ 
+ 
+ example 4 5   
+if energy consumption per month is more than 1428.6kWh,
+tariff is more suitable 

@@ -1,0 +1,11 @@
+clc;
+clear;
+i=10;
+v=200;
+z=v/i;
+I1=20/i;
+I2=.2/i;
+v1=50/v;
+r=2/z;
+mprintf("the base impedence=%dohm\n",z);
+mprintf("the base values for 20A=%dp.u.\n.the base values for 2A=%fp.u.\nthe base values for 50V=%fp.u.\n the base values for 2ohm=%fp.u",I1,I2,v1,r);

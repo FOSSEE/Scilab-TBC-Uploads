@@ -1,0 +1,16 @@
+ Power at port 1(in W)=   
+ 
+    0.4311236  
+ 
+ Power at port 2(in W)=   
+ 
+    0.5739578  
+ 
+ Power at port 3(in W)=   
+ 
+    0.4271930  
+ 
+ Power at port 4(in W)=   
+ 
+    0.0000635  
+ 

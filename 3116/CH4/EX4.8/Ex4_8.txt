@@ -1,0 +1,7 @@
+ Example 4.8
+
+ Answer A:
+ Interplanar spacing is 0.1013 nm.
+
+ Answer B:
+ Diffraction angle is 124.08 degree.

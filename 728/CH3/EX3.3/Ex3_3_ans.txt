@@ -1,0 +1,4 @@
+Phase velocity (in km/sec) =   
+ 
+    494155.35  
+

@@ -1,0 +1,8 @@
+**Sample Problem 38-7a**
+The velocity is approximately equal to 1.00*c
+
+**Sample Problem 38-7b**
+The time taken is 9.8e+004y
+
+**Sample Problem 38-7c**
+The time taken in reference frame of proton is 9.68s 

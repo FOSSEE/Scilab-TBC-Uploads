@@ -1,0 +1,8 @@
+ # PROBLEM 16 # 
+Standard Formula used 
+ E = (n^2 * h^2) / (8 * m * L^2)) 
+
+ Energy of electron -
+ For (n=1) is 6.688706e-19 J.
+ For (n=2) is 2.675482e-18 J.
+ For (n=3) is 6.019835e-18 J.

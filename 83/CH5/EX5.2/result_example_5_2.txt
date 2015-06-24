@@ -1,0 +1,10 @@
+
+Cable impedance= (0.037+j0.0115) pu
+
+Equivalent star impedance of 6.6kV winding of the transformer =(0.02+j0.12) pu
+
+Per unit transformer impedance,Zt=(0.0046+j0.031) pu
+
+Total series impedance=(0.046+j0.073) pu
+
+Sending end Voltage =|Vs|=6.56kV (line-to-line) 

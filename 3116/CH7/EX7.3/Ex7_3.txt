@@ -1,0 +1,10 @@
+ Example 7.3
+
+ Part A:
+ Mass fraction for alpha and beta phases is 0.66 and 0.34 respectively
+
+ Part B:
+ Density of alpha phase is : 10.64 g/cm^3
+ Density of beta phase is : 7.29 g/cm^3
+ Volume fraction of alpha phase : 0.57
+ Volume fraction of beta phase : 0.43 

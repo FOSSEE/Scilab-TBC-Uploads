@@ -1,0 +1,6 @@
+
+ # Problem 17 # 
+
+ Standard formula Used 
+ lambda * T = constant
+ Blackbody will emit  wavelength 1.4e-5 cm at 20727 K.

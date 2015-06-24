@@ -1,0 +1,2 @@
+Series resonant frequency of the crystal is 411 Khertz
+Parallel resonant frequency of the crystal is 412 Khertz

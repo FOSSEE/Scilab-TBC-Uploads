@@ -1,0 +1,7 @@
+
+ example 5.11   
+
+ 
+ field exitation current=10A   
+synchronous impedence,Z_s= 6 ohm
+internal voltage drop when the load current is 60amp=  360 V 

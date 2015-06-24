@@ -1,0 +1,4 @@
+r.m.s value of induced emf in the secondary (in Volts)=   
+ 
+    244.2  
+ 

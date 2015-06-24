@@ -1,0 +1,26 @@
+//Example 9.26
+clc
+disp("f = 1 kHz")
+disp("D = 75% = 0.75")
+disp("Now  f = 1.44 / (R_A+2*R_B)*C")
+disp("Therefore,  1*10^3 = 1.44 / (R_A+2*R_B)*C")
+disp("Therefore,  (R_A+2*R_B)*C = 1.44*10^-3      ....(1)")
+disp("Therefore, while  %D = ((R_A+R_B)/(R_A+2*R_B))*100")
+disp("Therefore,  0.75 = R_A+R_B / R_A+2*R_B")
+disp("Therefore,  R_A+2*R_B = (R_A+R_B)/0.75")
+disp("Therefore,  R_A+2*R_B = 1.33*(R_A+R_B)")
+disp("Therefore,  0.66*R_B = 0.33*R_A")
+disp("Therefore,  R_B = 0.5*R_A                   ....(2)")
+disp("Choose  C = 0.1 uF")
+disp("Substituting in (1),")
+disp("(R_A+2*R_B)*0.1*10^-6 = 1.44*10^-3")
+disp("Therefore,  R_A+2*R_B = 14400               ....(3)")
+disp("Substituting (2) in (3),")
+disp("R_A + 2(0.5*R_A) = 14400")
+ra=(14400/2)*10^-3
+format(4)
+disp(ra,"Therefore,  R_A(in k-ohm) =")
+rb=0.5*7.2
+disp(rb,"Therefore,  R_B(in k-ohm) =")
+disp("and  C = 0.1 uF")
+disp("Hence the circuit diagram is as shown in fig.9.100")

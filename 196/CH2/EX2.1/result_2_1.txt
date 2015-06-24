@@ -1,0 +1,11 @@
+Value of o/p voltage1 = -1.0000 V 
+
+Value of o/p voltage2 =  5.0000 V 
+
+Value of o/p voltage3 =  1.0000 V 
+
+Value of o/p voltage4 = -0.2000 V 
+ 
+Value of o/p voltage5 = -13.0000V   
+ 
+Value of o/p voltage6 =  13.0000V   

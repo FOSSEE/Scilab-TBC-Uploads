@@ -1,0 +1,7 @@
+ 
+ Example 7.4
+
+ Part A:
+ Total work done on ignoring end effect and bending is 3174 Nm.
+ Part B: 
+ Maximum value of alpha before necking begins is 35.5 degrees. 

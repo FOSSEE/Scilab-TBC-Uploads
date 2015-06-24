@@ -1,0 +1,6 @@
+ # PROBLEM 11 # 
+Standard formula used 
+  E = h*c/lambda 
+
+ Work function for wavelength 6.200000e-07 angstrom is 2.002016 eV.
+ Work function for wavelength 5.000000e-07 angstrom is 2.482500 eV

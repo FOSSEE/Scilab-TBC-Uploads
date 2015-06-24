@@ -1,0 +1,3 @@
+(a)Id = 1e-003 A,
+(b)Vd = 15 V
+Since Vds=15>Vgs-Vt=2,active region operation is confirmed 

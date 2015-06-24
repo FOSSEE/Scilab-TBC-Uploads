@@ -1,0 +1,5 @@
+**Sample Problem 6-8a**
+The minimum spped of the cylender should be 7.172866 m/s
+
+**Sample Problem 6-8b**
+The Centripetal force on the rider would be 1200.500000 N 

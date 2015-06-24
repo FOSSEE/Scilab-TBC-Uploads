@@ -1,0 +1,2 @@
+ The strength of electric field = 376.991118 mV/m
+ The radiated power = 157.913670 KW 

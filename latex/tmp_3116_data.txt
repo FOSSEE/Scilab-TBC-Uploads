@@ -1,0 +1,125 @@
+18#Magnetic Properties#18.3#Designing a cubic mixed ferrite magnetic material#Ex18_3.sce#3116/CH18/EX18.3/Ex18_3.sce#S##109354
+18#Magnetic Properties#18.3#Designing a cubic mixed ferrite magnetic material#Ex18_3.txt#3116/CH18/EX18.3/Ex18_3.txt#R##109355
+18#Magnetic Properties#18.2#Calculation of saturation magnetization of Fe3O4#Ex18_2.sce#3116/CH18/EX18.2/Ex18_2.sce#S##109352
+18#Magnetic Properties#18.2#Calculation of saturation magnetization of Fe3O4#Ex18_2.txt#3116/CH18/EX18.2/Ex18_2.txt#R##109353
+18#Magnetic Properties#18.1#Calculation of saturation magnetization and flux density for Nickel#Ex18_1.sce#3116/CH18/EX18.1/Ex18_1.sce#S##109350
+18#Magnetic Properties#18.1#Calculation of saturation magnetization and flux density for Nickel#Ex18_1.txt#3116/CH18/EX18.1/Ex18_1.txt#R##109351
+17#Electrical properties of materials#17.6#Acceptor impurity doping in Silicon#Ex17_6.sce#3116/CH17/EX17.6/Ex17_6.sce#S##109348
+17#Electrical properties of materials#17.6#Acceptor impurity doping in Silicon#Ex17_6.txt#3116/CH17/EX17.6/Ex17_6.txt#R##109349
+17#Electrical properties of materials#17.5#Computation of Capacitor properties#Ex17_5.sce#3116/CH17/EX17.5/Ex17_5.sce#S##109346
+17#Electrical properties of materials#17.5#Computation of Capacitor properties#Ex17_5.txt#3116/CH17/EX17.5/Ex17_5.txt#R##109347
+17#Electrical properties of materials#17.4#Hall Voltage Computation#Ex17_4.sce#3116/CH17/EX17.4/Ex17_4.sce#S##109344
+17#Electrical properties of materials#17.4#Hall Voltage Computation#Ex17_4.txt#3116/CH17/EX17.4/Ex17_4.txt#R##109345
+17#Electrical properties of materials#17.3#Room Temperature for Extrinsic Silicon#Ex17_3.sce#3116/CH17/EX17.3/Ex17_3.sce#S##109342
+17#Electrical properties of materials#17.3#Room Temperature for Extrinsic Silicon#Ex17_3.txt#3116/CH17/EX17.3/Ex17_3.txt#R##109343
+17#Electrical properties of materials#17.2#Electrical Conductivity Determination for Intrinsic Silicon at 150 degree C#Ex17_2.sce#3116/CH17/EX17.2/Ex17_2.sce#S##109340
+17#Electrical properties of materials#17.2#Electrical Conductivity Determination for Intrinsic Silicon at 150 degree C#Ex17_2.txt#3116/CH17/EX17.2/Ex17_2.txt#R##109341
+17#Electrical properties of materials#17.1#Computation of the Room Temperature Intrinsic Carrier Concentration for Gallium Arsenide#Ex17_1.sce#3116/CH17/EX17.1/Ex17_1.sce#S##109338
+17#Electrical properties of materials#17.1#Computation of the Room Temperature Intrinsic Carrier Concentration for Gallium Arsenide#Ex17_1.txt#3116/CH17/EX17.1/Ex17_1.txt#R##109339
+16#Corrosion and degradation#16.2#Rate of Oxidation Computation#Ex16_2.sce#3116/CH16/EX16.2/Ex16_2.sce#S##109336
+16#Corrosion and degradation#16.2#Rate of Oxidation Computation#Ex16_2.txt#3116/CH16/EX16.2/Ex16_2.txt#R##109337
+16#Corrosion and degradation#16.1#Determination of Electrochemical Cell Characteristics#Ex16_1.sce#3116/CH16/EX16.1/Ex16_1.sce#S##109334
+16#Corrosion and degradation#16.1#Determination of Electrochemical Cell Characteristics#Ex16_1.txt#3116/CH16/EX16.1/Ex16_1.txt#R##109335
+15#Composite materials#15.3#Design a tubular composite shaft#Ex15_3.sce#3116/CH15/EX15.3/Ex15_3.sce#S##110388
+15#Composite materials#15.3#Design a tubular composite shaft#Ex15_3.txt#3116/CH15/EX15.3/Ex15_3.txt#R##110389
+15#Composite materials#15.2#Elastic Modulus Determination for a Glass Fiber Reinforced Composite Transverse Direction#Ex15_2.sce#3116/CH15/EX15.2/Ex15_2.sce#S##109330
+15#Composite materials#15.2#Elastic Modulus Determination for a Glass Fiber Reinforced Composite Transverse Direction#Ex15_2.txt#3116/CH15/EX15.2/Ex15_2.txt#R##109331
+15#Composite materials#15.1#Property Determination for a glass fiber reinforced composite longitudinal direction#Ex15_1.sce#3116/CH15/EX15.1/Ex15_1.sce#S##109328
+15#Composite materials#15.1#Property Determination for a glass fiber reinforced composite longitudinal direction#Ex15_1.txt#3116/CH15/EX15.1/Ex15_1.txt#R##109329
+13#Structure of polymers#13.1#Computation of Average molecular weights and degree of polymerization#Ex13_1.sce#3116/CH13/EX13.1/Ex13_1.sce#S##109326
+13#Structure of polymers#13.1#Computation of Average molecular weights and degree of polymerization#Ex13_1.txt#3116/CH13/EX13.1/Ex13_1.txt#R##109327
+11#Failure of metals#11.3#Rupture Lifetime Prediction#Ex11_3.sce#3116/CH11/EX11.3/Ex11_3.sce#S##109324
+11#Failure of metals#11.3#Rupture Lifetime Prediction#Ex11_3.txt#3116/CH11/EX11.3/Ex11_3.txt#R##109325
+11#Failure of metals#11.2#Materials specification for a pressurized steel tank#Ex11_2.sce#3116/CH11/EX11.2/Ex11_2.sce#S##109322
+11#Failure of metals#11.2#Materials specification for a pressurized steel tank#Ex11_2.txt#3116/CH11/EX11.2/Ex11_2.txt#R##109323
+11#Failure of metals#11.1#Maximum Flaw Length Computation#Ex11_1.sce#3116/CH11/EX11.1/Ex11_1.sce#S##109320
+11#Failure of metals#11.1#Maximum Flaw Length Computation#Ex11_1.txt#3116/CH11/EX11.1/Ex11_1.txt#R##109321
+10#Dislocation and strengthening mechanism#10.3#Tensile strength and ductility Determination for cold worked copper#Ex10_3.sce#3116/CH10/EX10.3/Ex10_3.sce#S##109318
+10#Dislocation and strengthening mechanism#10.3#Tensile strength and ductility Determination for cold worked copper#Ex10_3.txt#3116/CH10/EX10.3/Ex10_3.txt#R##109319
+10#Dislocation and strengthening mechanism#10.2#Tensile strength and ductility Determination for cold worked copper#Ex10_2.sce#3116/CH10/EX10.2/Ex10_2.sce#S##110390
+10#Dislocation and strengthening mechanism#10.2#Tensile strength and ductility Determination for cold worked copper#Ex10_2.txt#3116/CH10/EX10.2/Ex10_2.txt#R##110387
+10#Dislocation and strengthening mechanism#10.1#Resolved shear stress and stress to initiate yielding computations#Ex10_1.sce#3116/CH10/EX10.1/Ex10_1.sce#S##109314
+10#Dislocation and strengthening mechanism#10.1#Resolved shear stress and stress to initiate yielding computations#Ex10_1.txt#3116/CH10/EX10.1/Ex10_1.txt#R##109315
+9#Mechanical properties of metals#9.7#Specification of support Post Diameter#Ex9_7.sce#3116/CH9/EX9.7/Ex9_7.sce#S##109312
+9#Mechanical properties of metals#9.7#Specification of support Post Diameter#Ex9_7.txt#3116/CH9/EX9.7/Ex9_7.txt#R##109313
+9#Mechanical properties of metals#9.6#Average Computations#Ex9_6.sce#3116/CH9/EX9.6/Ex9_6.sce#S##109309
+9#Mechanical properties of metals#9.6#Average Computations#Ex9_6.txt#3116/CH9/EX9.6/Ex9_6.txt#R##109310
+9#Mechanical properties of metals#9.6#Average Computations#Ex9_6.JPG#3116/CH9/EX9.6/Ex9_6.JPG#R##109311
+9#Mechanical properties of metals#9.5#Calculation of Strain Hardening Exponent#Ex9_5.sce#3116/CH9/EX9.5/Ex9_5.sce#S##109307
+9#Mechanical properties of metals#9.5#Calculation of Strain Hardening Exponent#Ex9_5.txt#3116/CH9/EX9.5/Ex9_5.txt#R##109308
+9#Mechanical properties of metals#9.4#Ductile and true stress at fracture composition#Ex9_4.sce#3116/CH9/EX9.4/Ex9_4.sce#S##109305
+9#Mechanical properties of metals#9.4#Ductile and true stress at fracture composition#Ex9_4.txt#3116/CH9/EX9.4/Ex9_4.txt#R##109306
+9#Mechanical properties of metals#9.3#Mechanical property determination from stress stain curve#Ex9_3.sce#3116/CH9/EX9.3/Ex9_3.sce#S##109303
+9#Mechanical properties of metals#9.3#Mechanical property determination from stress stain curve#Ex9_3.txt#3116/CH9/EX9.3/Ex9_3.txt#R##109304
+9#Mechanical properties of metals#9.2#Computation of Load to Produce Specified Diameter Change#Ex9_2.sce#3116/CH9/EX9.2/Ex9_2.sce#S##109301
+9#Mechanical properties of metals#9.2#Computation of Load to Produce Specified Diameter Change#Ex9_2.txt#3116/CH9/EX9.2/Ex9_2.txt#R##109302
+9#Mechanical properties of metals#9.1#Elongation or Elastic Computation#Ex9_1.sce#3116/CH9/EX9.1/Ex9_1.sce#S##109299
+9#Mechanical properties of metals#9.1#Elongation or Elastic Computation#Ex9_1.txt#3116/CH9/EX9.1/Ex9_1.txt#R##109300
+8#Phase transformation#8.2#Microstructure determination for three isothermal heat transfer#Ex8_2.sce#3116/CH8/EX8.2/Ex8_2.sce#S##109297
+8#Phase transformation#8.2#Microstructure determination for three isothermal heat transfer#Ex8_2.txt#3116/CH8/EX8.2/Ex8_2.txt#R##109298
+8#Phase transformation#8.1#Computation of Critical Nuclear Radius and Activation energy#Ex8_1.sce#3116/CH8/EX8.1/Ex8_1.sce#S##109295
+8#Phase transformation#8.1#Computation of Critical Nuclear Radius and Activation energy#Ex8_1.txt#3116/CH8/EX8.1/Ex8_1.txt#R##109296
+7#Phase diagram#7.4# Determining ferrite and cementite phase#Ex7_4.sce#3116/CH7/EX7.4/Ex7_4.sce#S##109291
+7#Phase diagram#7.4# Determining ferrite and cementite phase#Ex7_4.txt#3116/CH7/EX7.4/Ex7_4.txt#R##109292
+7#Phase diagram#7.3#Determination of  phase present and computation of phase composition #Ex7_3.sce#3116/CH7/EX7.3/Ex7_3.sce#S##109293
+7#Phase diagram#7.3#Determination of  phase present and computation of phase composition #Ex7_3.txt#3116/CH7/EX7.3/Ex7_3.txt#R##109356
+7#Phase diagram#7.2#Relative phase amount determination  mass and volume fraction#Ex7_2.sce#3116/CH7/EX7.2/Ex7_2.sce#S##109289
+7#Phase diagram#7.2#Relative phase amount determination  mass and volume fraction#Ex7_2.txt#3116/CH7/EX7.2/Ex7_2.txt#R##109290
+7#Phase diagram#7.1#Derive Lever rule#Ex7_1.sce#3116/CH7/EX7.1/Ex7_1.sce#S##109287
+7#Phase diagram#7.1#Derive Lever rule#Ex7_1.txt#3116/CH7/EX7.1/Ex7_1.txt#R##109288
+6#Diffusion#6.6#Computation of Diffusion Flux of carbon dioxide through a plastic beverage shelf life#Ex6_6.sce#3116/CH6/EX6.6/Ex6_6.sce#S##109285
+6#Diffusion#6.6#Computation of Diffusion Flux of carbon dioxide through a plastic beverage shelf life#Ex6_6.txt#3116/CH6/EX6.6/Ex6_6.txt#R##109286
+6#Diffusion#6.5#Diffusion Coefficient Activation Energy and Preexponential Calculations#Ex6_5.sce#3116/CH6/EX6.5/Ex6_5.sce#S##109283
+6#Diffusion#6.5#Diffusion Coefficient Activation Energy and Preexponential Calculations#Ex6_5.txt#3116/CH6/EX6.5/Ex6_5.txt#R##109284
+6#Diffusion#6.4#Diffusion Coefficient Determination#Ex6_4.sce#3116/CH6/EX6.4/Ex6_4.sce#S##109281
+6#Diffusion#6.4#Diffusion Coefficient Determination#Ex6_4.txt#3116/CH6/EX6.4/Ex6_4.txt#R##109282
+6#Diffusion#6.3#Nonsteady State Diffusion Time Computation II#Ex6_3.sce#3116/CH6/EX6.3/Ex6_3.sce#S##109279
+6#Diffusion#6.3#Nonsteady State Diffusion Time Computation II#Ex6_3.txt#3116/CH6/EX6.3/Ex6_3.txt#R##109280
+6#Diffusion#6.2#Nonsteady State Diffusion Time Computation I#Ex6_2.sce#3116/CH6/EX6.2/Ex6_2.sce#S##109277
+6#Diffusion#6.2#Nonsteady State Diffusion Time Computation I#Ex6_2.txt#3116/CH6/EX6.2/Ex6_2.txt#R##109278
+6#Diffusion#6.1#Diffusion Flux Computation#Ex6_1.sce#3116/CH6/EX6.1/Ex6_1.sce#S##109275
+6#Diffusion#6.1#Diffusion Flux Computation#Ex6_1.txt#3116/CH6/EX6.1/Ex6_1.txt#R##109276
+5#Imperfection in solids#5.6#Computations of ASTM Grain Size Number of Grains per Unit Area#Ex5_6.sce#3116/CH5/EX5.6/Ex5_6.sce#S##109273
+5#Imperfection in solids#5.6#Computations of ASTM Grain Size Number of Grains per Unit Area#Ex5_6.txt#3116/CH5/EX5.6/Ex5_6.txt#R##109274
+5#Imperfection in solids#5.5#Determination of possible point defect types in Nacl due to presence of  Ca ions#Ex5_5.sce#3116/CH5/EX5.5/Ex5_5.sce#S##109271
+5#Imperfection in solids#5.5#Determination of possible point defect types in Nacl due to presence of  Ca ions#Ex5_5.txt#3116/CH5/EX5.5/Ex5_5.txt#R##109272
+5#Imperfection in solids#5.4#Computation of Number of Scotty Defect in KCl#Ex5_4.sce#3116/CH5/EX5.4/Ex5_4.sce#S##109269
+5#Imperfection in solids#5.4#Computation of Number of Scotty Defect in KCl#Ex5_4.txt#3116/CH5/EX5.4/Ex5_4.txt#R##109270
+5#Imperfection in solids#5.3#Composition Conversion From weight percent to Atom percent#Ex5_3.sce#3116/CH5/EX5.3/Ex5_3.sce#S##109267
+5#Imperfection in solids#5.3#Composition Conversion From weight percent to Atom percent#Ex5_3.txt#3116/CH5/EX5.3/Ex5_3.txt#R##109268
+5#Imperfection in solids#5.2#Derivation of composition conversion equation#Ex5_2.sce#3116/CH5/EX5.2/Ex5_2.sce#S##109265
+5#Imperfection in solids#5.2#Derivation of composition conversion equation#Ex5_2.txt#3116/CH5/EX5.2/Ex5_2.txt#R##109266
+5#Imperfection in solids#5.1#Number of Vacancies Computation at a Specified temperature#Ex5_1.sce#3116/CH5/EX5.1/Ex5_1.sce#S##109263
+5#Imperfection in solids#5.1#Number of Vacancies Computation at a Specified temperature#Ex5_1.txt#3116/CH5/EX5.1/Ex5_1.txt#R##109264
+4#Structure of crystalline solids#4.8#Inter planer angle and Diffraction Angle Computations#Ex4_8.sce#3116/CH4/EX4.8/Ex4_8.sce#S##109261
+4#Structure of crystalline solids#4.8#Inter planer angle and Diffraction Angle Computations#Ex4_8.txt#3116/CH4/EX4.8/Ex4_8.txt#R##109262
+4#Structure of crystalline solids#4.7#Computation of density and percentage crystallinity of polyethylene#Ex4_7.sce#3116/CH4/EX4.7/Ex4_7.sce#S##109259
+4#Structure of crystalline solids#4.7#Computation of density and percentage crystallinity of polyethylene#Ex4_7.txt#3116/CH4/EX4.7/Ex4_7.txt#R##109260
+4#Structure of crystalline solids#4.6#Theoretical density calculation for Sodium chloride#Ex4_6.sce#3116/CH4/EX4.6/Ex4_6.sce#S##109257
+4#Structure of crystalline solids#4.6#Theoretical density calculation for Sodium chloride#Ex4_6.txt#3116/CH4/EX4.6/Ex4_6.txt#R##109258
+4#Structure of crystalline solids#4.5#Ceramic crystal structure prediction#Ex4_5.sce#3116/CH4/EX4.5/Ex4_5.sce#S##110384
+4#Structure of crystalline solids#4.5#Ceramic crystal structure prediction#Ex4_5.txt#3116/CH4/EX4.5/Ex4_5.txt#R##110385
+4#Structure of crystalline solids#4.4#Computation of minimum cation to anion radius ratio for a coordination number of 3#Ex4_4.sce#3116/CH4/EX4.4/Ex4_4.sce#S##109253
+4#Structure of crystalline solids#4.4#Computation of minimum cation to anion radius ratio for a coordination number of 3#Ex4_4.txt#3116/CH4/EX4.4/Ex4_4.txt#R##109254
+4#Structure of crystalline solids#4.3#Theoretical Density Computation for Copper#Ex4_3.sce#3116/CH4/EX4.3/Ex4_3.sce#S##109251
+4#Structure of crystalline solids#4.3#Theoretical Density Computation for Copper#Ex4_3.txt#3116/CH4/EX4.3/Ex4_3.txt#R##109252
+4#Structure of crystalline solids#4.2#Computation of the Atomic Packing Factor for FCC#Ex4_2.sce#3116/CH4/EX4.2/Ex4_2.sce#S##109249
+4#Structure of crystalline solids#4.2#Computation of the Atomic Packing Factor for FCC#Ex4_2.txt#3116/CH4/EX4.2/Ex4_2.txt#R##109250
+4#Structure of crystalline solids#4.1#Determination of FCC Unit Cell Volume#Ex4_1.sce#3116/CH4/EX4.1/Ex4_1.sce#S##109247
+4#Structure of crystalline solids#4.1#Determination of FCC Unit Cell Volume#Ex4_1.txt#3116/CH4/EX4.1/Ex4_1.txt#R##109248
+3#Fundamentals of structure of crystalline solids#3.8#Determination of directional indices for a hexagonal unit cell#Ex3_8.sce#3116/CH3/EX3.8/Ex3_8.sce#S##109245
+3#Fundamentals of structure of crystalline solids#3.8#Determination of directional indices for a hexagonal unit cell#Ex3_8.txt#3116/CH3/EX3.8/Ex3_8.txt#R##109246
+3#Fundamentals of structure of crystalline solids#3.7#Construction of specified crystallographic plane#Ex3_7.sce#3116/CH3/EX3.7/Ex3_7.sce#S##109243
+3#Fundamentals of structure of crystalline solids#3.7#Construction of specified crystallographic plane#Ex3_7.txt#3116/CH3/EX3.7/Ex3_7.txt#R##109244
+3#Fundamentals of structure of crystalline solids#3.6#Specification of support Post Diameter#Ex3_6.sce#3116/CH3/EX3.6/Ex3_6.sce#S##109774
+3#Fundamentals of structure of crystalline solids#3.6#Specification of support Post Diameter#Ex3_6.txt#3116/CH3/EX3.6/Ex3_6.txt#R##109242
+3#Fundamentals of structure of crystalline solids#3.5#Determination of directional indices for a hexagonal unit cell#Ex3_5.sce#3116/CH3/EX3.5/Ex3_5.sce#S##109239
+3#Fundamentals of structure of crystalline solids#3.5#Determination of directional indices for a hexagonal unit cell#Ex3_5.txt#3116/CH3/EX3.5/Ex3_5.txt#R##109240
+3#Fundamentals of structure of crystalline solids#3.4#Construction of specified crystallographic direction#Ex3_4.sce#3116/CH3/EX3.4/Ex3_4.sce#S##109237
+3#Fundamentals of structure of crystalline solids#3.4#Construction of specified crystallographic direction#Ex3_4.txt#3116/CH3/EX3.4/Ex3_4.txt#R##109238
+3#Fundamentals of structure of crystalline solids#3.3#Specification of support Post Diameter#Ex3_3.sce#3116/CH3/EX3.3/Ex3_3.sce#S##109235
+3#Fundamentals of structure of crystalline solids#3.3#Specification of support Post Diameter#Ex3_3.txt#3116/CH3/EX3.3/Ex3_3.txt#R##109236
+3#Fundamentals of structure of crystalline solids#3.2#Specification of point coordinates#Ex3_2.sce#3116/CH3/EX3.2/Ex3_2.sce#S##109233
+3#Fundamentals of structure of crystalline solids#3.2#Specification of point coordinates#Ex3_2.txt#3116/CH3/EX3.2/Ex3_2.txt#R##109234
+3#Fundamentals of structure of crystalline solids#3.1#Location of point having specified coordinates#Ex3_1.sce#3116/CH3/EX3.1/Ex3_1.sce#S##109231
+3#Fundamentals of structure of crystalline solids#3.1#Location of point having specified coordinates#Ex3_1.txt#3116/CH3/EX3.1/Ex3_1.txt#R##109232

@@ -1,0 +1,15 @@
+ i)step size   
+ 
+    1.5707963  
+ 
+ Volt   
+ 
+ ii)noise power   
+ 
+    0.8224670  
+ 
+ W   
+ 
+ iii)SNR=   
+ 
+    19.453667 

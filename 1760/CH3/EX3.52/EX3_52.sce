@@ -1,0 +1,22 @@
+                      //EXAMPLE 3-52   PG NO-205-206
+Vp=230.94;
+R=20+%i*30;
+V=400;
+IL=Vp/R;
+disp('i) CURRENT  (IL) is  in rectangular form  =  '+string (IL) +' A ');
+PF=0.555;
+P=sqrt(3)*V*IL*PF;
+disp('ii)ACTIVE POWER  (P) is  in rectangular form  =  '+string (P) +' W ');
+Q=sqrt(3)*V*IL*56.289;
+disp('iii) REACTIVE POWER  (Q) is  in rectangular form  =  '+string (Q) +' vars ');
+S=sqrt(3)*V*IL;
+disp('iv)APPARENT POWER  (S) is  in rectangular form  =  '+string (S) +' VA ');
+Ip=3.698;
+Z=V/Ip;
+disp('i) IMPEDANCE  (Z) is  in rectangular form  =  '+string (Z) +' ohm ');
+R1=Z*0.555;
+disp('i) RESISTANCE  (R1) is  in rectangular form  =  '+string (R1) +' ohm ');
+Xc=Z*0.83;
+disp('i) INDUCTANCE  (Xc) is  in rectangular form  =  '+string (Xc) +' ohm ');
+C=Xc/(2*%pi*50);
+disp('i) CAPACITOR  (C) is  in rectangular form  =  '+string (C) +' F ');

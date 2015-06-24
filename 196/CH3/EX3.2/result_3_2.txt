@@ -1,0 +1,6 @@
+Value of load current =  0.0004 A 
+
+Total current into the output pin of the opamp =  0.0005 A 
+
+The input resistance seen by Ei is Ri. In order to keep input resistance of the circuit high,
+Ri should be equal to or greater than 10KiloOhm 

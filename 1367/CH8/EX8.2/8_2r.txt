@@ -1,0 +1,9 @@
+  
+ Load P for steel specimen (in kgf) =    
+ 
+    750.  
+ 
+ BRINELL HARDNESS NUMBER of the steel specimen =    
+ 
+    79.596014  
+ 

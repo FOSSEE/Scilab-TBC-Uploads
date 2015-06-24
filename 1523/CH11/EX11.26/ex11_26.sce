@@ -1,0 +1,31 @@
+//Two-Port Networks : example 11.22 :(pg11.52 & 11.53)
+printf("\nApplying KVL to Mesh 1 \nV1 = 2I1 + I2 - - - -(i)");
+printf("\nApplying KVL to Mesh 2 \nV2 = 10I1 + 11I2 - - - -(ii)");
+//observing (i) & (ii)
+printf("\nV1 = (4/5)I1 - (4/5)I2 \nV2 = (2/5)I1 - (12/5)I2");
+printf("\nZ-parameters:");
+a=2;b=1;c=10;d=11;
+disp([a b;c d]);
+dZ=(a*d)-(b*c);
+Y11=(d/dZ);
+Y12=(-b/dZ);
+Y21=(-c/dZ);
+Y22=(a/dZ);
+printf("\nY-parameters are:");
+printf("\ndZ = Z11.Z22 - Z12.Z21 = %.1f",dZ);
+printf("\nY11 = Z22/dZ = %.1f mho",Y11);
+printf("\nY12 = -Z12/dY = %.1f mho",Y12);
+printf("\nY21 = -Z21/-dY = %.1f mho",Y21);
+printf("\nY22 = Z11/dY = %.1f mho",Y22);
+disp([Y11 Y12;Y21 Y22]); 
+h11=(dZ/d);
+h12=(b/d);
+h21=(-c/d);
+h22=(1/d);
+printf("\ndZ = Z11.Z22 - Z12.Z21 = %.1f",dZ);
+printf("\nh11 = dZ/Z22 = %.1f Ohm ",h11);
+printf("\nh12 = Z12/Z22 = %.1f ",h12);
+printf("\nh21 = -Z21/Z22 = %.1f ",h21);
+printf("\nh22 = 1/Z22 = %.1f mho",h22);
+printf("\nh-parameters are:");
+disp([h11 h12;h21 h22]); 

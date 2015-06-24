@@ -1,0 +1,9 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_10/code/example10_12_pg416.sce', -1)
+
+ Magnitude of F is 23866.02 amp-turns per pole 
+ This magnitude of F corresponds to Open-circuit voltage of 4330 Volts   
+
+Regulation is found to be 13.6 % 
+ 
+-->diary(0);

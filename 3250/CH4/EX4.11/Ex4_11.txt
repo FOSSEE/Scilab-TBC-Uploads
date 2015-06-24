@@ -1,0 +1,5 @@
+ # PROBLEM 4.11 # 
+
+ The value of k=0.002859,which is near to 0. Hence the case is close to orthogonal one.
+ 
+ Normal rake angle = 11.599142°.

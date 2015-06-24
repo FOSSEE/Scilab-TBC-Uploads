@@ -1,0 +1,5 @@
+ 
+ Example 12.1
+ velocity for aluminum is 34.5 mm/sec. 
+ velocity for carbon is 8.1 mm/sec. 
+ velocity for titanium is 7.0 mm/sec.  

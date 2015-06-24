@@ -1,0 +1,8 @@
+Mc/Pc (in m^3/mol)   
+ 
+    0.0065966  
+ 
+ Mm/Pm (in m^3/mol)   
+ 
+    0.0105523  
+           Mc/Pc > Mm/Pm Hence protective layer of NiO will form over Ni   

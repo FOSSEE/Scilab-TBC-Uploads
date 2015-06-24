@@ -1,0 +1,100 @@
+18#Magnetic Materials#18.5#loss of energy#ex_18_5.sce#2153/CH18/EX18.5/ex_18_5.sce#S##77587
+18#Magnetic Materials#18.4#power loss#ex_18_4.sce#2153/CH18/EX18.4/ex_18_4.sce#S##77586
+18#Magnetic Materials#18.3#magnetic moments#ex_18_3.sce#2153/CH18/EX18.3/ex_18_3.sce#S##73629
+18#Magnetic Materials#18.2.b#saturation flux density#ex_18_2_b.sce#2153/CH18/EX18.2.b/ex_18_2_b.sce#S##73628
+18#Magnetic Materials#18.2.a#saturation magnetisation#ex_18_2_a.sce#2153/CH18/EX18.2.a/ex_18_2_a.sce#S##73627
+18#Magnetic Materials#18.1#magnetization and flux density#ex_18_1.sce#2153/CH18/EX18.1/ex_18_1.sce#S##73626
+17#Insulating Materials#17.1#greater charge#ex_17_1.sce#2153/CH17/EX17.1/ex_17_1.sce#S##73625
+16#Semiconductors#16.7#conductivity#ex_16_7.sce#2153/CH16/EX16.7/ex_16_7.sce#S##73624
+16#Semiconductors#16.6#intrinsic carrier density#ex_16_6.sce#2153/CH16/EX16.6/ex_16_6.sce#S##73623
+16#Semiconductors#16.5#concentration of impurity#ex_16_5.sce#2153/CH16/EX16.5/ex_16_5.sce#S##73622
+16#Semiconductors#16.4#concentration number of electrons carrier#ex_16_4.sce#2153/CH16/EX16.4/ex_16_4.sce#S##73621
+16#Semiconductors#16.3#concentration of N type impurity#ex_16_3.sce#2153/CH16/EX16.3/ex_16_3.sce#S##73620
+16#Semiconductors#16.2#intrinsic carrier density#ex_16_2.sce#2153/CH16/EX16.2/ex_16_2.sce#S##73619
+16#Semiconductors#16.1#concentration of conductive electrons#ex_16_1.sce#2153/CH16/EX16.1/ex_16_1.sce#S##73618
+15#Composite Materials and Ceramics#15.1#volume ratio of aluminium and boron#ex_15_1.sce#2153/CH15/EX15.1/ex_15_1.sce#S##73632
+9#Fracture of Metals#9.4.b#temperature#ex_9_4_b.sce#2153/CH9/EX9.4.b/ex_9_4_b.sce#S##73617
+9#Fracture of Metals#9.4.a#temperture#ex_9_4_a.sce#2153/CH9/EX9.4.a/ex_9_4_a.sce#S##73616
+9#Fracture of Metals#9.3#maximum length#ex_9_3.sce#2153/CH9/EX9.3/ex_9_3.sce#S##73615
+9#Fracture of Metals#9.2#fracture strength#ex_9_2.sce#2153/CH9/EX9.2/ex_9_2.sce#S##73614
+9#Fracture of Metals#9.1#fracture strength#ex_9_1.sce#2153/CH9/EX9.1/ex_9_1.sce#S##73613
+8#Mechanical Tests of Metals#8.4#grain diameter#ex_8_4.sce#2153/CH8/EX8.4/ex_8_4.sce#S##73612
+8#Mechanical Tests of Metals#8.3#yield stress#ex_8_3.sce#2153/CH8/EX8.3/ex_8_3.sce#S##73611
+8#Mechanical Tests of Metals#8.2#yield strength#ex_8_2.sce#2153/CH8/EX8.2/ex_8_2.sce#S##73610
+8#Mechanical Tests of Metals#8.1#critical resolved shear stress#ex_8_1.sce#2153/CH8/EX8.1/ex_8_1.sce#S##73609
+7#Mechanical Tests of Metals#7.8#greater stress#ex_7_8.sce#2153/CH7/EX7.8/ex_7_8.sce#S##80200
+7#Mechanical Tests of Metals#7.7#true stress and true strain#ex_7_7.sce#2153/CH7/EX7.7/ex_7_7.sce#S##73607
+7#Mechanical Tests of Metals#7.6#strain#ex_7_6.sce#2153/CH7/EX7.6/ex_7_6.sce#S##73606
+7#Mechanical Tests of Metals#7.5.d#percentage elongation#ex_7_5_d.sce#2153/CH7/EX7.5.d/ex_7_5_d.sce#S##73605
+7#Mechanical Tests of Metals#7.5.c#percentage reduction#ex_7_5_c.sce#2153/CH7/EX7.5.c/ex_7_5_c.sce#S##73604
+7#Mechanical Tests of Metals#7.5.b#ultimate tesnile stress#ex_7_5_b.sce#2153/CH7/EX7.5.b/ex_7_5_b.sce#S##73603
+7#Mechanical Tests of Metals#7.5.a#yield stress#ex_7_5_A.sce#2153/CH7/EX7.5.a/ex_7_5_A.sce#S##73602
+7#Mechanical Tests of Metals#7.4#true breaking and nominal breaking stress#ex_7_4.sce#2153/CH7/EX7.4/ex_7_4.sce#S##77569
+7#Mechanical Tests of Metals#7.3.g#modulus of toughness#ex_7_3_g.sce#2153/CH7/EX7.3.g/ex_7_3_g.sce#S##77568
+7#Mechanical Tests of Metals#7.3.f#fracture stress#ex_7_3_f.sce#2153/CH7/EX7.3.f/ex_7_3_f.sce#S##73598
+7#Mechanical Tests of Metals#7.3.e#modulus of resilience#ex_7_3_e.sce#2153/CH7/EX7.3.e/ex_7_3_e.sce#S##73597
+7#Mechanical Tests of Metals#7.3.d#modulus of elasticity#ex_7_3_d.sce#2153/CH7/EX7.3.d/ex_7_3_d.sce#S##73596
+7#Mechanical Tests of Metals#7.3.c#percentage elongation#ex_7_3_c.sce#2153/CH7/EX7.3.c/ex_7_3_c.sce#S##73595
+7#Mechanical Tests of Metals#7.3.b#ultimate tensile strength#ex_7_3_b.sce#2153/CH7/EX7.3.b/ex_7_3_b.sce#S##73594
+7#Mechanical Tests of Metals#7.3.a#yield point stress#ex_7_3_A.sce#2153/CH7/EX7.3.a/ex_7_3_A.sce#S##73593
+7#Mechanical Tests of Metals#7.2#young modulus of elasticity yield point uttimate stress and percentage elongation#ex_7_2.sce#2153/CH7/EX7.2/ex_7_2.sce#S##73633
+7#Mechanical Tests of Metals#7.1#shear modulus#ex_7_1.sce#2153/CH7/EX7.1/ex_7_1.sce#S##73591
+5#Electron Theory of Metals#5.9#mobility of electrons and drift velocity#ex_5_9.sce#2153/CH5/EX5.9/ex_5_9.sce#S##80199
+5#Electron Theory of Metals#5.8#mobility of electrons#ex_5_8.sce#2153/CH5/EX5.8/ex_5_8.sce#S##73574
+5#Electron Theory of Metals#5.7#mobility of electrons#ex_5_7.sce#2153/CH5/EX5.7/ex_5_7.sce#S##73573
+5#Electron Theory of Metals#5.6#conductivity#ex_5_6.sce#2153/CH5/EX5.6/ex_5_6.sce#S##73571
+5#Electron Theory of Metals#5.5#drift velocity#ex_5_5.sce#2153/CH5/EX5.5/ex_5_5.sce#S##73570
+5#Electron Theory of Metals#5.4#conductivity#ex_5_4.sce#2153/CH5/EX5.4/ex_5_4.sce#S##73568
+5#Electron Theory of Metals#5.3#resistance#ex_5_3.sce#2153/CH5/EX5.3/ex_5_3.sce#S##73567
+5#Electron Theory of Metals#5.2#resistance#ex_5_2.sce#2153/CH5/EX5.2/ex_5_2.sce#S##73565
+5#Electron Theory of Metals#5.15#electrical resistivity#ex_5_15.sce#2153/CH5/EX5.15/ex_5_15.sce#S##73584
+5#Electron Theory of Metals#5.14#mobility and average time #ex_5_14.sce#2153/CH5/EX5.14/ex_5_14.sce#S##73582
+5#Electron Theory of Metals#5.13#mean free path#ex_5_13.sce#2153/CH5/EX5.13/ex_5_13.sce#S##73581
+5#Electron Theory of Metals#5.12.b#mobility of electrons#ex_5_12_b.sce#2153/CH5/EX5.12.b/ex_5_12_b.sce#S##77562
+5#Electron Theory of Metals#5.12.a#velocity#ex_5_12_a.sce#2153/CH5/EX5.12.a/ex_5_12_a.sce#S##73579
+5#Electron Theory of Metals#5.11#velocity#ex_5_11.sce#2153/CH5/EX5.11/ex_5_11.sce#S##73578
+5#Electron Theory of Metals#5.10#density and drift velocity#ex_5_10.sce#2153/CH5/EX5.10/ex_5_10.sce#S##73577
+5#Electron Theory of Metals#5.1.b#probability#ex_5_1_b.sce#2153/CH5/EX5.1.b/ex_5_1_b.sce#S##73562
+5#Electron Theory of Metals#5.1.a#probability#ex_5_1_a.sce#2153/CH5/EX5.1.a/ex_5_1_a.sce#S##73560
+3#crystal structure#3.9#atoms per unit cell#ex_3_9.sce#2153/CH3/EX3.9/ex_3_9.sce#S##73521
+3#crystal structure#3.5#miller indices#ex_3_5.sce#2153/CH3/EX3.5/ex_3_5.sce#S##80214
+3#crystal structure#3.4#miller indices#ex_3_4.sce#2153/CH3/EX3.4/ex_3_4.sce#S##73520
+3#crystal structure#3.37#interplanar spacing and diffraction angke#ex_3_37.sce#2153/CH3/EX3.37/ex_3_37.sce#S##73559
+3#crystal structure#3.36#interplanar spacing and Miller Indices#ex_3_36.sce#2153/CH3/EX3.36/ex_3_36.sce#S##73557
+3#crystal structure#3.35#Bragg angle#ex_3_35.sce#2153/CH3/EX3.35/ex_3_35.sce#S##73555
+3#crystal structure#3.34#size of unit cell#ex_3_34.sce#2153/CH3/EX3.34/ex_3_34.sce#S##73554
+3#crystal structure#3.33#order of Braggs reflection#ex_3_33.sce#2153/CH3/EX3.33/ex_3_33.sce#S##73553
+3#crystal structure#3.32#interatomic spacing#ex_3_32.sce#2153/CH3/EX3.32/ex_3_32.sce#S##77487
+3#crystal structure#3.31#interplanar spacing#ex_3_31.sce#2153/CH3/EX3.31/ex_3_31.sce#S##77486
+3#crystal structure#3.30#number of vacancies in copper#ex_3_30.sce#2153/CH3/EX3.30/ex_3_30.sce#S##73549
+3#crystal structure#3.3#miller indices#ex_3_3.sce#2153/CH3/EX3.3/ex_3_3.sce#S##77474
+3#crystal structure#3.29#number of atoms#ex_3_29.sce#2153/CH3/EX3.29/ex_3_29.sce#S##73548
+3#crystal structure#3.28#lattice constants#ex_3_28.sce#2153/CH3/EX3.28/ex_3_28.sce#S##73546
+3#crystal structure#3.27#number of atoms#ex_3_27.sce#2153/CH3/EX3.27/ex_3_27.sce#S##73545
+3#crystal structure#3.26#density#ex_3_26.sce#2153/CH3/EX3.26/ex_3_26.sce#S##73544
+3#crystal structure#3.25#lattice constants#ex_3_25.sce#2153/CH3/EX3.25/ex_3_25.sce#S##77485
+3#crystal structure#3.24#concentration of iron atoms#ex_3_24.sce#2153/CH3/EX3.24/ex_3_24.sce#S##73541
+3#crystal structure#3.23#angle#ex_3_23.sce#2153/CH3/EX3.23/ex_3_23.sce#S##73540
+3#crystal structure#3.22#perpendicular distance#ex_3_22.sce#2153/CH3/EX3.22/ex_3_22.sce#S##73539
+3#crystal structure#3.21#ratio of cubic lattice sepration between the successive lattice planes#ex_3_21.sce#2153/CH3/EX3.21/ex_3_21.sce#S##77484
+3#crystal structure#3.20#interplanar spacing#ex_3_20.sce#2153/CH3/EX3.20/ex_3_20.sce#S##73536
+3#crystal structure#3.2#miller indices#ex_3_2.sce#2153/CH3/EX3.2/ex_3_2.sce#S##80213
+3#crystal structure#3.19#interplanar spacing#ex_3_19.sce#2153/CH3/EX3.19/ex_3_19.sce#S##77483
+3#crystal structure#3.18#interplanar distance#ex_3_18.sce#2153/CH3/EX3.18/ex_3_18.sce#S##77482
+3#crystal structure#3.17#packing efficiency and lattice parameter#ex_3_17.sce#2153/CH3/EX3.17/ex_3_17.sce#S##77480
+3#crystal structure#3.16#volume#ex_3_16.sce#2153/CH3/EX3.16/ex_3_16.sce#S##73531
+3#crystal structure#3.15#planar density#ex_3_15.sce#2153/CH3/EX3.15/ex_3_15.sce#S##80198
+3#crystal structure#3.14#number of atoms#ex_3_14.sce#2153/CH3/EX3.14/ex_3_14.sce#S##77479
+3#crystal structure#3.13#number of atoms#ex_3_13.sce#2153/CH3/EX3.13/ex_3_13.sce#S##77478
+3#crystal structure#3.12#number of atoms#ex_3_12.sce#2153/CH3/EX3.12/ex_3_12.sce#S##77476
+3#crystal structure#3.11#volume change#ex_3_11.sce#2153/CH3/EX3.11/ex_3_11.sce#S##73524
+3#crystal structure#3.10#diameter#ex_3_10.sce#2153/CH3/EX3.10/ex_3_10.sce#S##77475
+3#crystal structure#3.1#miller indices#ex_3_1.sce#2153/CH3/EX3.1/ex_3_1.sce#S##80212
+2#structure of atoms#2.6.c#wavelength#ex_2_6_c.sce#2153/CH2/EX2.6.c/ex_2_6_c.sce#S##73517
+2#structure of atoms#2.6.b#frequency#ex_2_6_b.sce#2153/CH2/EX2.6.b/ex_2_6_b.sce#S##73516
+2#structure of atoms#2.6.a#energy of photon emitted#ex_2_6_a.sce#2153/CH2/EX2.6.a/ex_2_6_a.sce#S##73514
+2#structure of atoms#2.5#orbital frequency#ex_2_5.sce#2153/CH2/EX2.5/ex_2_5.sce#S##73512
+2#structure of atoms#2.4#velocity#ex_2_4.sce#2153/CH2/EX2.4/ex_2_4.sce#S##73510
+2#structure of atoms#2.3#ratio of energy#ex_2_3.sce#2153/CH2/EX2.3/ex_2_3.sce#S##73509
+2#structure of atoms#2.2#radius#ex_2_2.sce#2153/CH2/EX2.2/ex_2_2.sce#S##77473
+2#structure of atoms#2.1#radius#ex_2_1.sce#2153/CH2/EX2.1/ex_2_1.sce#S##77472

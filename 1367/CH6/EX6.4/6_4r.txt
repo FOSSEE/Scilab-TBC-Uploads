@@ -1,0 +1,12 @@
+  
+ Elastic Strain Energy of Edge dislocation (in J/m) =    
+ 
+    3.255D-09  
+ 
+ Elastic Strain Energy of Screw dislocation (in J/m) =    
+ 
+    2.246D-09  
+ 
+ Ratio of energies of edge dislocation over screw dislocation =    
+ 
+    1.4492754 

@@ -1,0 +1,9 @@
+ # Problem 23b # 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N 
+
+ Total number of lines on diffraction grating 850 
+ 
+ So  Lines will be resolved in 2 order
+as 490  lines are required  for diffraction are . 

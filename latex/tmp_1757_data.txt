@@ -1,0 +1,157 @@
+14#Special Function ICs#14.9#determine the output voltage of the audio power amplifier IC LM380#EX14_9.sce#1757/CH14/EX14.9/EX14_9.sce#S##87877
+14#Special Function ICs#14.8#determine the output voltage of the audio power amplifier IC LM380#EX14_8.sce#1757/CH14/EX14.8/EX14_8.sce#S##87876
+14#Special Function ICs#14.7#determine the duty cycle of the switching regulator circuit#EX14_7.sce#1757/CH14/EX14.7/EX14_7.sce#S##87875
+14#Special Function ICs#14.6#determine the duty cycle of the switching regulator circuit#EX14_6.sce#1757/CH14/EX14.6/EX14_6.sce#S##87874
+14#Special Function ICs#14.5#determine the duty cycle of the switching regulator circuit#EX14_5.sce#1757/CH14/EX14.5/EX14_5.sce#S##87873
+14#Special Function ICs#14.4#determine the output voltage of the switching regulator circuit#EX14_4.sce#1757/CH14/EX14.4/EX14_4.sce#S##87872
+14#Special Function ICs#14.3#to determine the output voltage #EX14_3.sce#1757/CH14/EX14.3/EX14_3.sce#S##87871
+14#Special Function ICs#14.2#to determine the current drawn from the dual power supply #EX14_2.sce#1757/CH14/EX14.2/EX14_2.sce#S##87870
+14#Special Function ICs#14.13#Determine the output voltage of an isolation amplifier IC ISO100#EX14_13.sce#1757/CH14/EX14.13/EX14_13.sce#S##87880
+14#Special Function ICs#14.12#Determine the output voltage of an isolation amplifier IC ISO100#EX14_12.sce#1757/CH14/EX14.12/EX14_12.sce#S##87879
+14#Special Function ICs#14.11#Design a video amplifier of IC 1550 circuit#EX14_11.sce#1757/CH14/EX14.11/EX14_11.sce#S##87927
+14#Special Function ICs#14.10#Design a video amplifier of IC 1550 circuit#EX14_10.sce#1757/CH14/EX14.10/EX14_10.sce#S##109197
+14#Special Function ICs#14.1#to determine the regulated voltage#EX14_1.sce#1757/CH14/EX14.1/EX14_1.sce#S##87869
+13#Wave Form Generators#13.9#Design a monostable circuit with frequency 25KHz#EX13_9.sce#1757/CH13/EX13.9/EX13_9.sce#S##109198
+13#Wave Form Generators#13.8#to design astable multivibrator #EX13_8.sce#1757/CH13/EX13.8/EX13_8.sce#S##87865
+13#Wave Form Generators#13.7#Design astable multivibrator for the frequency f is 10 KHz#EX13_7.sce#1757/CH13/EX13.7/EX13_7.sce#S##87864
+13#Wave Form Generators#13.6#Determine the frequency response of the astable multivibrator circuit#EX13_6.sce#1757/CH13/EX13.6/EX13_6.sce#S##87863
+13#Wave Form Generators#13.5#to calculate the frequency of a wein bridge oscillator#EX13_5.sce#1757/CH13/EX13.5/EX13_5.sce#S##87862
+13#Wave Form Generators#13.4#to design the wien bridge oscillator for the oscillation frequency f is 1 KHz#EX13_4.sce#1757/CH13/EX13.4/EX13_4.sce#S##87861
+13#Wave Form Generators#13.3#to calculate the frequency of a wein bridge oscillator#EX13_3.sce#1757/CH13/EX13.3/EX13_3.sce#S##87860
+13#Wave Form Generators#13.2#to determine the oscillaton frequency of the phase shift oscillator#EX13_2.sce#1757/CH13/EX13.2/EX13_2.sce#S##87859
+13#Wave Form Generators#13.11#Determine the frequency of the monostable multivibrator#EX13_11.sce#1757/CH13/EX13.11/EX13_11.sce#S##87868
+13#Wave Form Generators#13.10#Determine the frequency of the monostable multivibrator#EX13_10.sce#1757/CH13/EX13.10/EX13_10.sce#S##87867
+13#Wave Form Generators#13.1#to design RC phase shift oscillator for the oscillation frequency f is 1 KHz#EX13_1.sce#1757/CH13/EX13.1/EX13_1.sce#S##87858
+12#Analog to Digital converter#12.5#to determine the output time and duty cycle of V to T converter#EX12_5.sce#1757/CH12/EX12.5/EX12_5.sce#S##87857
+12#Analog to Digital converter#12.4#to determine the resolution of 12 bit Analog to Digital converter#EX12_4.sce#1757/CH12/EX12.4/EX12_4.sce#S##87856
+12#Analog to Digital converter#12.3#to determine the binary output of the 8 bit dual slope Analog to Digital converter#EX12_3.sce#1757/CH12/EX12.3/EX12_3.sce#S##87855
+12#Analog to Digital converter#12.2#Determine the different parameter of 8 bit Analog to Digital converter#EX12_2.sce#1757/CH12/EX12.2/EX12_2.sce#S##87854
+11#Digital to Analog converter#11.9#determine the analog output voltage and feed back current If#EX11_9.sce#1757/CH11/EX11.9/EX11_9.sce#S##87851
+11#Digital to Analog converter#11.8#determine the feed back current If and analog output voltage#EX11_8.sce#1757/CH11/EX11.8/EX11_8.sce#S##87850
+11#Digital to Analog converter#11.7#determine the feed back current If and analog output voltage#EX11_7.sce#1757/CH11/EX11.7/EX11_7.sce#S##109199
+11#Digital to Analog converter#11.6#determine the analog output voltage and feed back current If#EX11_6.sce#1757/CH11/EX11.6/EX11_6.sce#S##87848
+11#Digital to Analog converter#11.5#determine the analog output voltage#EX11_5.sce#1757/CH11/EX11.5/EX11_5.sce#S##87847
+11#Digital to Analog converter#11.4#determine the number of bit required to design a 4 bit Digital to Analog converter#EX11_4.sce#1757/CH11/EX11.4/EX11_4.sce#S##87846
+11#Digital to Analog converter#11.3#determine the resolution of 4 bit digital to analog converter#EX11_3.sce#1757/CH11/EX11.3/EX11_3.sce#S##87845
+11#Digital to Analog converter#11.2#determine the output voltage of digital to analog converter for the different binary inputs#EX11_2.sce#1757/CH11/EX11.2/EX11_2.sce#S##87844
+11#Digital to Analog converter#11.11#to find the resolution and analog output voltage of 8 bit Digital to Analog converter#EX11_11.sce#1757/CH11/EX11.11/EX11_11.sce#S##87853
+11#Digital to Analog converter#11.10#determine the analog output voltage and feed back current If#EX11_10.sce#1757/CH11/EX11.10/EX11_10.sce#S##87852
+11#Digital to Analog converter#11.1#to determine the full scale voltage of Digital to analog converter#EX11_1.sce#1757/CH11/EX11.1/EX11_1.sce#S##87843
+9#Phase Locked Loop#9.7#determine the lock range of the FSK demodulator#EX9_7.sce#1757/CH9/EX9.7/EX9_7.sce#S##87842
+9#Phase Locked Loop#9.6#to determine the center frequency of VCO lock and capture range of PLL#EX9_6.sce#1757/CH9/EX9.6/EX9_6.sce#S##87841
+9#Phase Locked Loop#9.5#to design VCO with output square wave pulse time of 50 msec#EX9_5.sce#1757/CH9/EX9.5/EX9_5.sce#S##87840
+9#Phase Locked Loop#9.4#to determine the output frequency capacitor charging time of VCO#EX9_4.sce#1757/CH9/EX9.4/EX9_4.sce#S##87839
+9#Phase Locked Loop#9.3#to determine the lock range of PLL#EX9_3.sce#1757/CH9/EX9.3/EX9_3.sce#S##87838
+9#Phase Locked Loop#9.2#to find VCO output frequency#EX9_2.sce#1757/CH9/EX9.2/EX9_2.sce#S##87837
+9#Phase Locked Loop#9.1#to find output voltage for a constant input signal frequency of 200 KHz#EX9_1.sce#1757/CH9/EX9.1/EX9_1.sce#S##87836
+8#Analog Multiplier#8.5#Output voltage of of RMS detector#EX8_5.sce#1757/CH8/EX8.5/EX8_5.sce#S##87835
+8#Analog Multiplier#8.4#determine the output of balanced demodulator#EX8_4.sce#1757/CH8/EX8.4/EX8_4.sce#S##87834
+8#Analog Multiplier#8.3#to determine the output voltage of multiplier and inverting amplifier#EX8_3.sce#1757/CH8/EX8.3/EX8_3.sce#S##87833
+8#Analog Multiplier#8.2#to determine the output voltage of multiplier#EX8_2.sce#1757/CH8/EX8.2/EX8_2.sce#S##87832
+8#Analog Multiplier#8.1#to determine the output voltage of inverting amplifier#EX8_1.sce#1757/CH8/EX8.1/EX8_1.sce#S##87831
+7#Filters and Rectifiers#7.9#to calculate upper and lower cut off frequency of the band pass filter#EX7_9.sce#1757/CH7/EX7.9/EX7_9.sce#S##87823
+7#Filters and Rectifiers#7.8#to design an active high pass filter with cut off frequency 20KHz#EX7_8.sce#1757/CH7/EX7.8/EX7_8.sce#S##109201
+7#Filters and Rectifiers#7.7#to design an active high pass filter with cut off frequency 25KHz#EX7_7.sce#1757/CH7/EX7.7/EX7_7.sce#S##87821
+7#Filters and Rectifiers#7.6#to design an active high pass filter with cut off frequency 10KHz#EX7_6.sce#1757/CH7/EX7.6/EX7_6.sce#S##87820
+7#Filters and Rectifiers#7.5#to design a first order high pass filter with cut off frequency 2KHz#EX7_5.sce#1757/CH7/EX7.5/EX7_5.sce#S##87819
+7#Filters and Rectifiers#7.4#to determine the cut off frequency and pass band gain Af#EX7_4.sce#1757/CH7/EX7.4/EX7_4.sce#S##87818
+7#Filters and Rectifiers#7.3#Design active low filter with cut off frequency 20 KHz#EX7_3.sce#1757/CH7/EX7.3/EX7_3.sce#S##87817
+7#Filters and Rectifiers#7.2#Design active low filter with cut off frequency 15 KHz#EX7_2.sce#1757/CH7/EX7.2/EX7_2.sce#S##87816
+7#Filters and Rectifiers#7.15#to determine the output voltage of the precision rectifier circuit for different input voltages#EX7_15.sce#1757/CH7/EX7.15/EX7_15.sce#S##87830
+7#Filters and Rectifiers#7.14#to determine the output voltage of the precision rectifier circuit for different input voltages#EX7_14.sce#1757/CH7/EX7.14/EX7_14.sce#S##87828
+7#Filters and Rectifiers#7.13#to determine the output voltage of the precision rectifier circuit#EX7_13.sce#1757/CH7/EX7.13/EX7_13.sce#S##87827
+7#Filters and Rectifiers#7.12#to design an active band pass filter with lower cut off frequency 20 KHz an upper 80 KHz#EX7_12.sce#1757/CH7/EX7.12/EX7_12.sce#S##109200
+7#Filters and Rectifiers#7.11#to design an active band pass filter with lower cut off frequency 20 KHz an upper 40 KHZ#EX7_11.sce#1757/CH7/EX7.11/EX7_11.sce#S##87825
+7#Filters and Rectifiers#7.10#to design an active band pass filter with lower cut off frequency 10 KHz an upper 50 KHZ#EX7_10.sce#1757/CH7/EX7.10/EX7_10.sce#S##87824
+7#Filters and Rectifiers#7.1#Design active low filter with cut off frequency 10 KHz#EX7_1.sce#1757/CH7/EX7.1/EX7_1.sce#S##87815
+6#Application of Operational Amplifier#6.9#determine output voltage for different condition of input voltage#EX6_9.sce#1757/CH6/EX6.9/EX6_9.sce#S##87814
+6#Application of Operational Amplifier#6.8#determine the common mode rejection ratio CMRR#EX6_8.sce#1757/CH6/EX6.8/EX6_8.sce#S##87813
+6#Application of Operational Amplifier#6.7#determine the load current and output voltage#EX6_7.sce#1757/CH6/EX6.7/EX6_7.sce#S##87812
+6#Application of Operational Amplifier#6.6#Design a op amp circuit to provide the given output voltage#EX6_6.sce#1757/CH6/EX6.6/EX6_6.sce#S##87811
+6#Application of Operational Amplifier#6.5#Design a summing amplifier circuit#EX6_5.sce#1757/CH6/EX6.5/EX6_5.sce#S##87810
+6#Application of Operational Amplifier#6.43#Design an integrator circuit#EX6_43.sce#1757/CH6/EX6.43/EX6_43.sce#S##88038
+6#Application of Operational Amplifier#6.42#determine the time constant of an integrator#EX6_42.sce#1757/CH6/EX6.42/EX6_42.sce#S##88039
+6#Application of Operational Amplifier#6.41#To find the value of resistance R1 for instrumentation amplifier#EX6_41.sce#1757/CH6/EX6.41/EX6_41.sce#S##88040
+6#Application of Operational Amplifier#6.40#Design an instrumentation amplifier#EX6_40.sce#1757/CH6/EX6.40/EX6_40.sce#S##88037
+6#Application of Operational Amplifier#6.4#Design a op amp circuit to provide the output voltage is given#EX6_4.sce#1757/CH6/EX6.4/EX6_4.sce#S##87809
+6#Application of Operational Amplifier#6.39#Determine a load current in a V to I converter#EX6_39.sce#1757/CH6/EX6.39/EX6_39.sce#S##88035
+6#Application of Operational Amplifier#6.38#Design high sensitivity current to voltage converter#EX6_38.sce#1757/CH6/EX6.38/EX6_38.sce#S##88034
+6#Application of Operational Amplifier#6.37#Design current to voltage converter#EX6_37.sce#1757/CH6/EX6.37/EX6_37.sce#S##88033
+6#Application of Operational Amplifier#6.36#Calculate CMRR ratio#EX6_36.sce#1757/CH6/EX6.36/EX6_36.sce#S##88032
+6#Application of Operational Amplifier#6.35#Design a difference amplifier#EX6_35.sce#1757/CH6/EX6.35/EX6_35.sce#S##88031
+6#Application of Operational Amplifier#6.34#To design a phase shifter#EX6_34.sce#1757/CH6/EX6.34/EX6_34.sce#S##88030
+6#Application of Operational Amplifier#6.33#To calculate phase shift between two extremes #EX6_33.sce#1757/CH6/EX6.33/EX6_33.sce#S##88029
+6#Application of Operational Amplifier#6.32#Design an non inverting amplifier#EX6_32.sce#1757/CH6/EX6.32/EX6_32.sce#S##88028
+6#Application of Operational Amplifier#6.31#Design an inverting amplifier#EX6_31.sce#1757/CH6/EX6.31/EX6_31.sce#S##88041
+6#Application of Operational Amplifier#6.30#to determine the value of resistance R1 and R2 when low and high saturated output states are given#EX6_30.sce#1757/CH6/EX6.30/EX6_30.sce#S##87941
+6#Application of Operational Amplifier#6.3#design an non inverting amplifier with colsed loop gain of 5#EX6_3.sce#1757/CH6/EX6.3/EX6_3.sce#S##87808
+6#Application of Operational Amplifier#6.29#to determine the resistance R1 when low and high saturated output states are given#EX6_29.sce#1757/CH6/EX6.29/EX6_29.sce#S##87940
+6#Application of Operational Amplifier#6.28#to determine the hysteresis width of a schmitt trigger#EX6_28.sce#1757/CH6/EX6.28/EX6_28.sce#S##87939
+6#Application of Operational Amplifier#6.27#to determine the hysteresis width of a schmitt trigger#EX6_27.sce#1757/CH6/EX6.27/EX6_27.sce#S##87938
+6#Application of Operational Amplifier#6.26#to calculate the output voltage of op amp circuit#EX6_26.sce#1757/CH6/EX6.26/EX6_26.sce#S##109202
+6#Application of Operational Amplifier#6.25#To calculate the output voltage#EX6_25.sce#1757/CH6/EX6.25/EX6_25.sce#S##87936
+6#Application of Operational Amplifier#6.24#To determine the output voltage#EX6_24.sce#1757/CH6/EX6.24/EX6_24.sce#S##87935
+6#Application of Operational Amplifier#6.23#to determine the output voltage of an op amp#EX6_23.sce#1757/CH6/EX6.23/EX6_23.sce#S##87934
+6#Application of Operational Amplifier#6.22#To determine the output voltage#EX6_22.sce#1757/CH6/EX6.22/EX6_22.sce#S##87933
+6#Application of Operational Amplifier#6.21#to determine the input voltage of an op amp#EX6_21.sce#1757/CH6/EX6.21/EX6_21.sce#S##87932
+6#Application of Operational Amplifier#6.20#To determine the magnitude gain of the differentiator#EX6_20.sce#1757/CH6/EX6.20/EX6_20.sce#S##87948
+6#Application of Operational Amplifier#6.2#design an inverting amplifier with a closed loop voltager gain is given#EX6_2.sce#1757/CH6/EX6.2/EX6_2.sce#S##87807
+6#Application of Operational Amplifier#6.19#To determine the magnitude gain of the integrator#EX6_19.sce#1757/CH6/EX6.19/EX6_19.sce#S##87947
+6#Application of Operational Amplifier#6.18#To determine the output voltage of integrator#EX6_18.sce#1757/CH6/EX6.18/EX6_18.sce#S##87946
+6#Application of Operational Amplifier#6.17#determine the closed loop gain#EX6_17.sce#1757/CH6/EX6.17/EX6_17.sce#S##87945
+6#Application of Operational Amplifier#6.16#for the a current to voltage converter#EX6_16.sce#1757/CH6/EX6.16/EX6_16.sce#S##87951
+6#Application of Operational Amplifier#6.15#for the instrumentation amplifier find Vo1  Vo2  Vo #EX6_15.sce#1757/CH6/EX6.15/EX6_15.sce#S##88026
+6#Application of Operational Amplifier#6.14#to design a summing amplifier#EX6_14.sce#1757/CH6/EX6.14/EX6_14.sce#S##87944
+6#Application of Operational Amplifier#6.13#Determine the time constant of the integrator#EX6_13.sce#1757/CH6/EX6.13/EX6_13.sce#S##87950
+6#Application of Operational Amplifier#6.12#Determine the time constant of the integrator#EX6_12.sce#1757/CH6/EX6.12/EX6_12.sce#S##87949
+6#Application of Operational Amplifier#6.11#To design an instrumentation amplifier#EX6_11.sce#1757/CH6/EX6.11/EX6_11.sce#S##93944
+6#Application of Operational Amplifier#6.10#To determine the range of the differential voltage gain#EX6_10.sce#1757/CH6/EX6.10/EX6_10.sce#S##87942
+6#Application of Operational Amplifier#6.1#design an inverting amplifier with a closed loop voltage gain is given#EX6_1.sce#1757/CH6/EX6.1/EX6_1.sce#S##87806
+5#Characteristics of Operational Amplifier#5.9#to determine open loop gain#EX5_9.sce#1757/CH5/EX5.9/EX5_9.sce#S##87786
+5#Characteristics of Operational Amplifier#5.8#determine the feedback transfer function of an op amp for the following condition#EX5_8.sce#1757/CH5/EX5.8/EX5_8.sce#S##87785
+5#Characteristics of Operational Amplifier#5.7#Determine the bias current of inverting and non inverting#EX5_7.sce#1757/CH5/EX5.7/EX5_7.sce#S##87784
+5#Characteristics of Operational Amplifier#5.6#find the input offset current of an op amp circuit#EX5_6.sce#1757/CH5/EX5.6/EX5_6.sce#S##87783
+5#Characteristics of Operational Amplifier#5.5#Determine the bias current effect with and without current compensation method#EX5_5.sce#1757/CH5/EX5.5/EX5_5.sce#S##87782
+5#Characteristics of Operational Amplifier#5.4#find the output voltage of an op amp circuit#EX5_4.sce#1757/CH5/EX5.4/EX5_4.sce#S##87781
+5#Characteristics of Operational Amplifier#5.33#To find Slew rate and closed loop gain of an op amp#EX5_33.sce#1757/CH5/EX5.33/EX5_33.sce#S##87805
+5#Characteristics of Operational Amplifier#5.32#To determine full power and small signal bandwidth of an op amp with unity gain#EX5_32.sce#1757/CH5/EX5.32/EX5_32.sce#S##87804
+5#Characteristics of Operational Amplifier#5.31#To determine full power and small signal bandwidth of an op amp with unity gain#EX5_31.sce#1757/CH5/EX5.31/EX5_31.sce#S##87803
+5#Characteristics of Operational Amplifier#5.30#To find Slew rate of an op amp#EX5_30.sce#1757/CH5/EX5.30/EX5_30.sce#S##87802
+5#Characteristics of Operational Amplifier#5.3#find the input offset voltage of an op amp circuit#EX5_3.sce#1757/CH5/EX5.3/EX5_3.sce#S##87780
+5#Characteristics of Operational Amplifier#5.29#To find Slew rate of an op amp#EX5_29.sce#1757/CH5/EX5.29/EX5_29.sce#S##87801
+5#Characteristics of Operational Amplifier#5.28#To determine the compensated capacitance of an op amp#EX5_28.sce#1757/CH5/EX5.28/EX5_28.sce#S##87800
+5#Characteristics of Operational Amplifier#5.27#To find the maximum frequency of op amp circuit#EX5_27.sce#1757/CH5/EX5.27/EX5_27.sce#S##87799
+5#Characteristics of Operational Amplifier#5.26#To find the maximum frequency of input signal in op amp circuit#EX5_26.sce#1757/CH5/EX5.26/EX5_26.sce#S##109203
+5#Characteristics of Operational Amplifier#5.25#To determine the cut off frequency of an op amp#EX5_25.sce#1757/CH5/EX5.25/EX5_25.sce#S##87797
+5#Characteristics of Operational Amplifier#5.24#To determine the slew rate of an op amp#EX5_24.sce#1757/CH5/EX5.24/EX5_24.sce#S##87796
+5#Characteristics of Operational Amplifier#5.23#To determine input output miller capacitances#EX5_23.sce#1757/CH5/EX5.23/EX5_23.sce#S##87795
+5#Characteristics of Operational Amplifier#5.22#To determine input output miller capacitances#EX5_22.sce#1757/CH5/EX5.22/EX5_22.sce#S##87794
+5#Characteristics of Operational Amplifier#5.21#to design compensating network#EX5_21.sce#1757/CH5/EX5.21/EX5_21.sce#S##87793
+5#Characteristics of Operational Amplifier#5.20#Determine the loop gain of compensated network#5_20.sce#1757/CH5/EX5.20/5_20.sce#S##109505
+5#Characteristics of Operational Amplifier#5.2#find the total offset voltage of feedback op amp#EX5_2.sce#1757/CH5/EX5.2/EX5_2.sce#S##87779
+5#Characteristics of Operational Amplifier#5.19#Determine the loop gain of compensated network#5_19.sce#1757/CH5/EX5.19/5_19.sce#S##109504
+5#Characteristics of Operational Amplifier#5.18#to design compensating network#EX5_18.sce#1757/CH5/EX5.18/EX5_18.sce#S##87792
+5#Characteristics of Operational Amplifier#5.17#Determine the loop gain of compensated network#5_17.sce#1757/CH5/EX5.17/5_17.sce#S##109503
+5#Characteristics of Operational Amplifier#5.16#Determine the loop gain of compensated network#5_16.sce#1757/CH5/EX5.16/5_16.sce#S##109502
+5#Characteristics of Operational Amplifier#5.15#Determine the loop gain of compensated network#5_15.sce#1757/CH5/EX5.15/5_15.sce#S##109501
+5#Characteristics of Operational Amplifier#5.14#To determine the dominant pole frequency of an op amp#EX5_14.sce#1757/CH5/EX5.14/EX5_14.sce#S##87791
+5#Characteristics of Operational Amplifier#5.13#To calculate unity gain bandwidth and maximum close loop gain#EX5_13.sce#1757/CH5/EX5.13/EX5_13.sce#S##87790
+5#Characteristics of Operational Amplifier#5.12#To calculate unity gain bandwidth and maximum close loop gain#EX5_12.sce#1757/CH5/EX5.12/EX5_12.sce#S##87789
+5#Characteristics of Operational Amplifier#5.11#To Determine the bandwidth of feedback amplifier#EX5_11.sce#1757/CH5/EX5.11/EX5_11.sce#S##87788
+5#Characteristics of Operational Amplifier#5.10#To Determine the percent of change in the closed loop gain Af of feedback op amp circuit#EX5_10.sce#1757/CH5/EX5.10/EX5_10.sce#S##87787
+5#Characteristics of Operational Amplifier#5.1#find the total offset voltage of feedback op amp#EX5_1.sce#1757/CH5/EX5.1/EX5_1.sce#S##87776
+4#Operational Amplifier#4.9#Determine the non inverting input voltage#EX4_9.sce#1757/CH4/EX4.9/EX4_9.sce#S##87775
+4#Operational Amplifier#4.8#to find out closed loop gain and output voltage Vo#EX4_8.sce#1757/CH4/EX4.8/EX4_8.sce#S##87774
+4#Operational Amplifier#4.7#To find closed loop gain and output voltage Vo of an non inverting op amp#EX4_7.sce#1757/CH4/EX4.7/EX4_7.sce#S##87773
+4#Operational Amplifier#4.6#To find closed loop gain and output voltage Vo of an inverting op amp#EX4_6.sce#1757/CH4/EX4.6/EX4_6.sce#S##87772
+4#Operational Amplifier#4.5#Determine the differece voltage and open loop gain of an op amp#EX4_5.sce#1757/CH4/EX4.5/EX4_5.sce#S##87769
+4#Operational Amplifier#4.4#Determine the differece voltage and open loop gain of an op amp#EX4_4.sce#1757/CH4/EX4.4/EX4_4.sce#S##87768
+4#Operational Amplifier#4.3#Determine the differece voltage and open loop gain of an op amp#EX4_3.sce#1757/CH4/EX4.3/EX4_3.sce#S##87767
+4#Operational Amplifier#4.2#Determine the differece voltage and open loop gain of an op amp#EX4_2.sce#1757/CH4/EX4.2/EX4_2.sce#S##87764
+4#Operational Amplifier#4.1#For an op amp circuit find 1 closed loop gain Acl 2 input impedance Zin 3 output impedance Zo#EX4_1.sce#1757/CH4/EX4.1/EX4_1.sce#S##87763
+3#Current or Voltage Sources and Differential Amplifier#3.6#determine the differential mode gain when load resistance RL is given#EX3_6.sce#1757/CH3/EX3.6/EX3_6.sce#S##87753
+3#Current or Voltage Sources and Differential Amplifier#3.5#To determine emitter resistance of the difference amplifier#EX3_5.sce#1757/CH3/EX3.5/EX3_5.sce#S##87926
+3#Current or Voltage Sources and Differential Amplifier#3.4#Determine the common mode rejection ratio CMRR of the difference amplifier#EX3_4.sce#1757/CH3/EX3.4/EX3_4.sce#S##87734
+3#Current or Voltage Sources and Differential Amplifier#3.3#To find the output of a difference amplifier when only common mode signal is applied#EX3_3.sce#1757/CH3/EX3.3/EX3_3.sce#S##87925
+3#Current or Voltage Sources and Differential Amplifier#3.2#To determine the difference mode and common mode gain of the difference amplifier#EX3_2.sce#1757/CH3/EX3.2/EX3_2.sce#S##87733
+3#Current or Voltage Sources and Differential Amplifier#3.1#Determine the collector current Ic1 and collector emitter voltage Vce1 for the difference amplifier circuit#EX3_1.sce#1757/CH3/EX3.1/EX3_1.sce#S##87730

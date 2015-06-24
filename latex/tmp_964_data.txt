@@ -1,0 +1,197 @@
+31#Finite Element Method#31.3#Temperature of a heated plate#31_3.sce#964/CH31/EX31.3/31_3.sce#S##39603
+31#Finite Element Method#31.2#Element Equation for Heated Rod#31_2.sce#964/CH31/EX31.2/31_2.sce#S##39560
+31#Finite Element Method#31.1#Analytical Solution for Heated Rod#31_1.sce#964/CH31/EX31.1/31_1.sce#S##42676
+31#Finite Element Method#31.1#Analytical Solution for Heated Rod#31_1.jpeg#964/CH31/EX31.1/31_1.jpeg#R##42677
+30#Finite Difference Parabolic Equations#30.5#ADI Method#30_5.sce#964/CH30/EX30.5/30_5.sce#S##39508
+30#Finite Difference Parabolic Equations#30.4#Comparison of Analytical and Numerical solution#30_4.sce#964/CH30/EX30.4/30_4.sce#S##39507
+30#Finite Difference Parabolic Equations#30.3#Crank Nicolson solution to the heat conduction equation#30_3.sce#964/CH30/EX30.3/30_3.sce#S##39506
+30#Finite Difference Parabolic Equations#30.2#Simple implicit solution of a heat conduction equation#30_2.sce#964/CH30/EX30.2/30_2.sce#S##39505
+30#Finite Difference Parabolic Equations#30.1#Explicit solution of a one dimensional heat conduction equation#30_1.sce#964/CH30/EX30.1/30_1.sce#S##39504
+29#Finite Difference Elliptic Equations#29.4#Heated plate with an irregular boundary#29_4.sce#964/CH29/EX29.4/29_4.sce#S##39503
+29#Finite Difference Elliptic Equations#29.3#Heated plate with a insulated edge#29_3.sce#964/CH29/EX29.3/29_3.sce#S##39502
+29#Finite Difference Elliptic Equations#29.2#Flux distribution for a heated plate#29_2.sce#964/CH29/EX29.2/29_2.sce#S##39501
+29#Finite Difference Elliptic Equations#29.1#Temperature of a heated plate with fixed boundary conditions#29_1.sce#964/CH29/EX29.1/29_1.sce#S##39604
+27#Boundary Value and Eigen Value problems#27.9#Eigenvalues and ODEs#27_9.sce#964/CH27/EX27.9/27_9.sce#S##42669
+27#Boundary Value and Eigen Value problems#27.9#Eigenvalues and ODEs#27_9_1.jpeg#964/CH27/EX27.9/27_9_1.jpeg#R##42670
+27#Boundary Value and Eigen Value problems#27.9#Eigenvalues and ODEs#27_9_2.jpeg#964/CH27/EX27.9/27_9_2.jpeg#R##42671
+27#Boundary Value and Eigen Value problems#27.8#Power Method Lowest Eigenvalue#27_8.sce#964/CH27/EX27.8/27_8.sce#S##39549
+27#Boundary Value and Eigen Value problems#27.7#Power Method Highest Eigenvalue#27_7.sce#964/CH27/EX27.7/27_7.sce#S##39547
+27#Boundary Value and Eigen Value problems#27.6#Polynomial Method#27_6.sce#964/CH27/EX27.6/27_6.sce#S##39546
+27#Boundary Value and Eigen Value problems#27.5#Axially Loaded column#27_5.sce#964/CH27/EX27.5/27_5.sce#S##39545
+27#Boundary Value and Eigen Value problems#27.4#Mass Spring System#27_4.sce#964/CH27/EX27.4/27_4.sce#S##39544
+27#Boundary Value and Eigen Value problems#27.3#Finite Difference Approximation#27_3.sce#964/CH27/EX27.3/27_3.sce#S##39543
+27#Boundary Value and Eigen Value problems#27.2#The shooting method  for non linear problems#27_2.sce#964/CH27/EX27.2/27_2.sce#S##39510
+27#Boundary Value and Eigen Value problems#27.2#The shooting method  for non linear problems#27_2.jpeg#964/CH27/EX27.2/27_2.jpeg#R##39511
+27#Boundary Value and Eigen Value problems#27.11#Solving ODEs#27_11.sce#964/CH27/EX27.11/27_11.sce#S##39557
+27#Boundary Value and Eigen Value problems#27.10.b#Stiff ODEs#27_10_b.sce#964/CH27/EX27.10.b/27_10_b.sce#S##42674
+27#Boundary Value and Eigen Value problems#27.10.b#Stiff ODEs#27_10_b.jpeg#964/CH27/EX27.10.b/27_10_b.jpeg#R##42675
+27#Boundary Value and Eigen Value problems#27.10.a#Stiff ODEs#27_10_a.sce#964/CH27/EX27.10.a/27_10_a.sce#S##42672
+27#Boundary Value and Eigen Value problems#27.10.a#Stiff ODEs#27_10_a.jpeg#964/CH27/EX27.10.a/27_10_a.jpeg#R##42673
+27#Boundary Value and Eigen Value problems#27.1#The shooting method#27_1.sce#964/CH27/EX27.1/27_1.sce#S##39509
+26#Stiffness and multistep methods#26.7#stability of Milnes and Fourth order Adams method#26_7.sce#964/CH26/EX26.7/26_7.sce#S##39499
+26#Stiffness and multistep methods#26.6#Fourth order Adams method#26_6.sce#964/CH26/EX26.6/26_6.sce#S##39498
+26#Stiffness and multistep methods#26.5#Milnes Method#26_5.sce#964/CH26/EX26.5/26_5.sce#S##39497
+26#Stiffness and multistep methods#26.4#Effect of modifier on Predictor Corrector results#26_4.sce#964/CH26/EX26.4/26_4.sce#S##39496
+26#Stiffness and multistep methods#26.3#Estimate of per step truncation error#26_3.sce#964/CH26/EX26.3/26_3.sce#S##39495
+26#Stiffness and multistep methods#26.2#Non self starting Heun method#26_2.sce#964/CH26/EX26.2/26_2.sce#S##39494
+26#Stiffness and multistep methods#26.1#Explicit and Implicit Euler#26_1.sce#964/CH26/EX26.1/26_1.sce#S##42666
+26#Stiffness and multistep methods#26.1#Explicit and Implicit Euler#26_1_1.jpeg#964/CH26/EX26.1/26_1_1.jpeg#R##42667
+26#Stiffness and multistep methods#26.1#Explicit and Implicit Euler#26_1_2.jpeg#964/CH26/EX26.1/26_1_2.jpeg#R##42668
+25#Runga Kutta methods#25.9#Solving systems of ODE using Eulers method#25_9.sce#964/CH25/EX25.9/25_9.sce#S##39487
+25#Runga Kutta methods#25.8#Comparison of Runga Kutta methods#25_8.sce#964/CH25/EX25.8/25_8.sce#S##39484
+25#Runga Kutta methods#25.7#Classical fourth order RK method#25_7.sce#964/CH25/EX25.7/25_7.sce#S##39480
+25#Runga Kutta methods#25.6#Comparison of various second order RK 4 method#25_6.sce#964/CH25/EX25.6/25_6.sce#S##39473
+25#Runga Kutta methods#25.5#Heuns method#25_5.sce#964/CH25/EX25.5/25_5.sce#S##39472
+25#Runga Kutta methods#25.4#Solving ODEs#25_4.sce#964/CH25/EX25.4/25_4.sce#S##42664
+25#Runga Kutta methods#25.4#Solving ODEs#25_4.jpeg#964/CH25/EX25.4/25_4.jpeg#R##42665
+25#Runga Kutta methods#25.3#Effect of reduced step size on Eulers method#25_3.sce#964/CH25/EX25.3/25_3.sce#S##39471
+25#Runga Kutta methods#25.2#Taylor series estimate for error by eulers method#25_2.sce#964/CH25/EX25.2/25_2.sce#S##39470
+25#Runga Kutta methods#25.14#Adaptive Fourth order RK scheme#25_14.sce#964/CH25/EX25.14/25_14.sce#S##39570
+25#Runga Kutta methods#25.14#Adaptive Fourth order RK scheme#25_14.jpeg#964/CH25/EX25.14/25_14.jpeg#R##39571
+25#Runga Kutta methods#25.13#Runga kutta fehlberg method#25_13.sce#964/CH25/EX25.13/25_13.sce#S##39493
+25#Runga Kutta methods#25.12#Adaptive fourth order RK method#25_12.sce#964/CH25/EX25.12/25_12.sce#S##39492
+25#Runga Kutta methods#25.11#Solving systems of ODEs#25_11.sce#964/CH25/EX25.11/25_11.sce#S##39567
+25#Runga Kutta methods#25.11#Solving systems of ODEs#25_11_1.jpeg#964/CH25/EX25.11/25_11_1.jpeg#R##39568
+25#Runga Kutta methods#25.11#Solving systems of ODEs#25_11_2.jpeg#964/CH25/EX25.11/25_11_2.jpeg#R##39569
+25#Runga Kutta methods#25.10#Solving systems of ODE using RK 4 method#25_10.sce#964/CH25/EX25.10/25_10.sce#S##39491
+25#Runga Kutta methods#25.1#Eulers method#25_1.sce#964/CH25/EX25.1/25_1.sce#S##39469
+23#Numerical differentiation#23.5#Integrate a function#23_5.sce#964/CH23/EX23.5/23_5.sce#S##39564
+23#Numerical differentiation#23.4#Integration and Differentiation#23_4.sce#964/CH23/EX23.4/23_4.sce#S##39563
+23#Numerical differentiation#23.3#Differentiating unequally spaced data#23_3.sce#964/CH23/EX23.3/23_3.sce#S##39468
+23#Numerical differentiation#23.2#Richardson extrapolation#23_2.sce#964/CH23/EX23.2/23_2.sce#S##39467
+23#Numerical differentiation#23.1#High accuracy numerical differentiation formulas#23_1.sce#964/CH23/EX23.1/23_1.sce#S##39466
+22#Integration of equations#22.6#Evaluation of improper integral#22_6.sce#964/CH22/EX22.6/22_6.sce#S##39465
+22#Integration of equations#22.5#Applying Gauss Quadrature to the falling Parachutist problem#22_5.sce#964/CH22/EX22.5/22_5.sce#S##39464
+22#Integration of equations#22.4#Three point gauss legendre method#22_4.sce#964/CH22/EX22.4/22_4.sce#S##39463
+22#Integration of equations#22.3#Two point gauss legendre formulae#22_3.sce#964/CH22/EX22.3/22_3.sce#S##39462
+22#Integration of equations#22.2#Higher order error correction of integral estimates#22_2.sce#964/CH22/EX22.2/22_2.sce#S##39461
+22#Integration of equations#22.1#Error corrections of the trapezoidal rule#22_1.sce#964/CH22/EX22.1/22_1.sce#S##39460
+21#Newton Cotes Integration Formulas#21.9#Average Temperature Determination#21_9.sce#964/CH21/EX21.9/21_9.sce#S##39542
+21#Newton Cotes Integration Formulas#21.8#Simpsons Uneven data#21_8.sce#964/CH21/EX21.8/21_8.sce#S##39541
+21#Newton Cotes Integration Formulas#21.7#Unequal Trapezoidal segments#21_7.sce#964/CH21/EX21.7/21_7.sce#S##39540
+21#Newton Cotes Integration Formulas#21.6#Simpsons 3 by 8 rule#21_6.sce#964/CH21/EX21.6/21_6.sce#S##39539
+21#Newton Cotes Integration Formulas#21.5#Multiple Simpsons 1 by 3 rule#21_5.sce#964/CH21/EX21.5/21_5.sce#S##39538
+21#Newton Cotes Integration Formulas#21.4#Single Simpsons 1 by 3 rule#21_4.sce#964/CH21/EX21.4/21_4.sce#S##39537
+21#Newton Cotes Integration Formulas#21.3#Evaluating Integrals#21_3.sce#964/CH21/EX21.3/21_3.sce#S##39536
+21#Newton Cotes Integration Formulas#21.2#Multiple trapezoidal rule#21_2.sce#964/CH21/EX21.2/21_2.sce#S##39535
+21#Newton Cotes Integration Formulas#21.1#Single trapezoidal rule#21_1.sce#964/CH21/EX21.1/21_1.sce#S##39534
+19#Fourier Approximation#19.6#Polynomial Regression#19_6.sce#964/CH19/EX19.6/19_6.sce#S##39422
+19#Fourier Approximation#19.5#Curve Fitting#19_5.sce#964/CH19/EX19.5/19_5.sce#S##42661
+19#Fourier Approximation#19.5#Curve Fitting#19_5a.jpeg#964/CH19/EX19.5/19_5a.jpeg#R##42662
+19#Fourier Approximation#19.5#Curve Fitting#19_5b.jpeg#964/CH19/EX19.5/19_5b.jpeg#R##42663
+19#Fourier Approximation#19.4#Data Analysis#19_4.sce#964/CH19/EX19.4/19_4.sce#S##39405
+19#Fourier Approximation#19.3#Trendline#19_3.sce#964/CH19/EX19.3/19_3.sce#S##39399
+19#Fourier Approximation#19.3#Trendline#19_3.jpeg#964/CH19/EX19.3/19_3.jpeg#R##39400
+19#Fourier Approximation#19.2#Continuous Fourier Series Approximation#19_2.sce#964/CH19/EX19.2/19_2.sce#S##39390
+19#Fourier Approximation#19.1#Least Square Fit#19_1.sce#964/CH19/EX19.1/19_1.sce#S##39384
+18#Interpolation#18.9#Quadratic splines#18_9.sce#964/CH18/EX18.9/18_9.sce#S##42680
+18#Interpolation#18.9#Quadratic splines#18_9.jpeg#964/CH18/EX18.9/18_9.jpeg#R##42658
+18#Interpolation#18.8#First order splines#18_8.sce#964/CH18/EX18.8/18_8.sce#S##42679
+18#Interpolation#18.8#First order splines#18_8.jpeg#964/CH18/EX18.8/18_8.jpeg#R##42657
+18#Interpolation#18.7#Lagrange interpolation using computer#18_7.sce#964/CH18/EX18.7/18_7.sce#S##39453
+18#Interpolation#18.6#Lagrange interpolating polynomials#18_6.sce#964/CH18/EX18.6/18_6.sce#S##39452
+18#Interpolation#18.5#Error Estimates for Order of Interpolation#18_5.sce#964/CH18/EX18.5/18_5.sce#S##39562
+18#Interpolation#18.4#Error estimation for Newtons polynomial#18_4.sce#964/CH18/EX18.4/18_4.sce#S##39451
+18#Interpolation#18.3#Newtons divided difference Interpolating polynomials#18_3.sce#964/CH18/EX18.3/18_3.sce#S##39450
+18#Interpolation#18.2#Quadratic interpolation#18_2.sce#964/CH18/EX18.2/18_2.sce#S##39449
+18#Interpolation#18.10#Cubic splines#18_10.sce#964/CH18/EX18.10/18_10.sce#S##42681
+18#Interpolation#18.10#Cubic splines#18_10.jpeg#964/CH18/EX18.10/18_10.jpeg#R##42660
+18#Interpolation#18.1#Linear interpolation#18_1.sce#964/CH18/EX18.1/18_1.sce#S##39448
+17#Least squares regression#17.8#Gauss Newton method#17_8.sce#964/CH17/EX17.8/17_8.sce#S##39447
+17#Least squares regression#17.7#Confidence interval for linear regression#17_7.sce#964/CH17/EX17.7/17_7.sce#S##39446
+17#Least squares regression#17.6#Multiple linear regression#17_6.sce#964/CH17/EX17.6/17_6.sce#S##39445
+17#Least squares regression#17.5#polynomial regression#17_5.sce#964/CH17/EX17.5/17_5.sce#S##39440
+17#Least squares regression#17.5#polynomial regression#17_5.jpeg#964/CH17/EX17.5/17_5.jpeg#R##39441
+17#Least squares regression#17.4#Linearization of a power function#17_4.sce#964/CH17/EX17.4/17_4.sce#S##39442
+17#Least squares regression#17.4#Linearization of a power function#17_4_a.jpeg#964/CH17/EX17.4/17_4_a.jpeg#R##39443
+17#Least squares regression#17.4#Linearization of a power function#17_4_b.jpeg#964/CH17/EX17.4/17_4_b.jpeg#R##39444
+17#Least squares regression#17.3.b#linear regression using computer#17_3b.sce#964/CH17/EX17.3.b/17_3b.sce#S##39438
+17#Least squares regression#17.3.b#linear regression using computer#17_3b.jpeg#964/CH17/EX17.3.b/17_3b.jpeg#R##39439
+17#Least squares regression#17.3.a#linear regression using computer#17_3_a.sce#964/CH17/EX17.3.a/17_3_a.sce#S##39436
+17#Least squares regression#17.3.a#linear regression using computer#17_3a.jpeg#964/CH17/EX17.3.a/17_3a.jpeg#R##39437
+17#Least squares regression#17.2#Estimation of errors for the linear least square fit#17_2.sce#964/CH17/EX17.2/17_2.sce#S##39435
+17#Least squares regression#17.1#Linear regression#17_1.sce#964/CH17/EX17.1/17_1.sce#S##39434
+15#Constrained Optimization#15.7#Locate Single Optimum#15_7.sce#964/CH15/EX15.7/15_7.sce#S##39369
+15#Constrained Optimization#15.6#Multidimensional Optimization#15_6.sce#964/CH15/EX15.6/15_6.sce#S##39365
+15#Constrained Optimization#15.5#One dimensional Optimization#15_5.sce#964/CH15/EX15.5/15_5.sce#S##39358
+15#Constrained Optimization#15.4#Nonlinear constrained optimization#15_4.sce#964/CH15/EX15.4/15_4.sce#S##39357
+15#Constrained Optimization#15.3#Linear Programming Problem#15_3.sce#964/CH15/EX15.3/15_3.sce#S##39356
+15#Constrained Optimization#15.2#Graphical Solution#15_2.sce#964/CH15/EX15.2/15_2.sce#S##42655
+15#Constrained Optimization#15.2#Graphical Solution#15_2.jpeg#964/CH15/EX15.2/15_2.jpeg#R##42656
+15#Constrained Optimization#15.1#Setting up LP problem#15_1.sce#964/CH15/EX15.1/15_1.sce#S##39302
+14#Multidimensional Unconstrainted Optimization#14.4#Optimal Steepest Descent#14_4.sce#964/CH14/EX14.4/14_4.sce#S##39286
+14#Multidimensional Unconstrainted Optimization#14.3#1 D function along Gradient#14_3.sce#964/CH14/EX14.3/14_3.sce#S##39285
+14#Multidimensional Unconstrainted Optimization#14.2#Path of Steepest Descent#14_2.sce#964/CH14/EX14.2/14_2.sce#S##39284
+14#Multidimensional Unconstrainted Optimization#14.1#Random Search Method#14_1.sce#964/CH14/EX14.1/14_1.sce#S##39283
+13#One dimensional unconstrained optimization#13.3#Newtons method#13_3.sce#964/CH13/EX13.3/13_3.sce#S##39433
+13#One dimensional unconstrained optimization#13.2#Quadratic interpolation#13_2.sce#964/CH13/EX13.2/13_2.sce#S##39432
+13#One dimensional unconstrained optimization#13.1#Golden section method#13_1.sce#964/CH13/EX13.1/13_1.sce#S##39431
+11#Special Matrices and gauss seidel#11.6#Analyze and solve Hilbert matrix#11_6.sce#964/CH11/EX11.6/11_6.sce#S##39423
+11#Special Matrices and gauss seidel#11.5#Manipulate linear algebraic equations#11_5.sce#964/CH11/EX11.5/11_5.sce#S##39419
+11#Special Matrices and gauss seidel#11.4#Linear systems#11_4.sce#964/CH11/EX11.4/11_4.sce#S##39413
+11#Special Matrices and gauss seidel#11.3#Gauss Seidel method#11_3.sce#964/CH11/EX11.3/11_3.sce#S##39406
+11#Special Matrices and gauss seidel#11.2#Cholesky Decomposition#11_2.sce#964/CH11/EX11.2/11_2.sce#S##39402
+11#Special Matrices and gauss seidel#11.1#Tridiagonal solution with Thomas algorithm#11_1.sce#964/CH11/EX11.1/11_1.sce#S##39394
+10#LU Decomposition and matrix inverse#10.4#Matrix condition evaluation#10_4.sce#964/CH10/EX10.4/10_4.sce#S##39389
+10#LU Decomposition and matrix inverse#10.3#Matrix inversion#10_3.sce#964/CH10/EX10.3/10_3.sce#S##39385
+10#LU Decomposition and matrix inverse#10.2#The substitution steps#10_2.sce#964/CH10/EX10.2/10_2.sce#S##39383
+10#LU Decomposition and matrix inverse#10.1#LU decomposition with gauss elimination#10_1.sce#964/CH10/EX10.1/10_1.sce#S##39277
+9#Gauss Elimination#9.9#Partial Pivoting#9_9.sce#964/CH9/EX9.9/9_9.sce#S##39594
+9#Gauss Elimination#9.8#Scaling#9_8.sce#964/CH9/EX9.8/9_8.sce#S##39280
+9#Gauss Elimination#9.7#Effect of Scale on Determinant#9_7.sce#964/CH9/EX9.7/9_7.sce#S##39279
+9#Gauss Elimination#9.6#ill conditioned systems#9_6.sce#964/CH9/EX9.6/9_6.sce#S##39278
+9#Gauss Elimination#9.5#Naive Gauss Elimination#9_5.sce#964/CH9/EX9.5/9_5.sce#S##39276
+9#Gauss Elimination#9.4#Elimination of Unknowns#9_4.sce#964/CH9/EX9.4/9_4.sce#S##39275
+9#Gauss Elimination#9.3#Cramers Rule#9_3.sce#964/CH9/EX9.3/9_3.sce#S##39274
+9#Gauss Elimination#9.2#Deterinants#9_2.sce#964/CH9/EX9.2/9_2.sce#S##39273
+9#Gauss Elimination#9.12#Gauss Jordan method#9_12.sce#964/CH9/EX9.12/9_12.sce#S##39596
+9#Gauss Elimination#9.11#Solution of Linear Algebraic Equations#9_11.sce#964/CH9/EX9.11/9_11.sce#S##39282
+9#Gauss Elimination#9.10#Effect of scaling on Pivoting and round off#9_10.sce#964/CH9/EX9.10/9_10.sce#S##39595
+9#Gauss Elimination#9.1#Graphical Method for two Equations#9_1.sce#964/CH9/EX9.1/9_1.sce#S##39271
+9#Gauss Elimination#9.1#Graphical Method for two Equations#9_1.jpeg#964/CH9/EX9.1/9_1.jpeg#R##39272
+7#Roots of Polynomials#7.8#Root Location#7_8.sce#964/CH7/EX7.8/7_8.sce#S##39270
+7#Roots of Polynomials#7.7#Roots of Polynomials#7_7.sce#964/CH7/EX7.7/7_7.sce#S##39269
+7#Roots of Polynomials#7.6#Root Location#7_6.sce#964/CH7/EX7.6/7_6.sce#S##39268
+7#Roots of Polynomials#7.5#Solving nonlinear system#7_5.sce#964/CH7/EX7.5/7_5.sce#S##39585
+7#Roots of Polynomials#7.4#Locate single root#7_4.sce#964/CH7/EX7.4/7_4.sce#S##39267
+7#Roots of Polynomials#7.3#Bairstows Method#7_3.sce#964/CH7/EX7.3/7_3.sce#S##39266
+7#Roots of Polynomials#7.2#Mullers Method#7_2.sce#964/CH7/EX7.2/7_2.sce#S##39265
+7#Roots of Polynomials#7.1#Polynomial Deflation#7_1.sce#964/CH7/EX7.1/7_1.sce#S##39264
+6#Open Methods#6.9#modified newton raphson method#6_9.sce#964/CH6/EX6.9/6_9.sce#S##39262
+6#Open Methods#6.8#Modified secant method#6_8.sce#964/CH6/EX6.8/6_8.sce#S##39261
+6#Open Methods#6.7#secant and false position techniques#6_7.sce#964/CH6/EX6.7/6_7.sce#S##39260
+6#Open Methods#6.6#The secant method#6_6.sce#964/CH6/EX6.6/6_6.sce#S##39259
+6#Open Methods#6.5#slowly converging function with Newton Raphson method#6_5.sce#964/CH6/EX6.5/6_5.sce#S##39258
+6#Open Methods#6.4#Error analysis of Newton Raphson method#6_4.sce#964/CH6/EX6.4/6_4.sce#S##39257
+6#Open Methods#6.3#Newton Raphson Method#6_3.sce#964/CH6/EX6.3/6_3.sce#S##39256
+6#Open Methods#6.2#The Two curve graphical method#6_2.sce#964/CH6/EX6.2/6_2.sce#S##42678
+6#Open Methods#6.2#The Two curve graphical method#6_2.jpeg#964/CH6/EX6.2/6_2.jpeg#R##42659
+6#Open Methods#6.11#Newton Raphson for a nonlinear Problem#6_11.sce#964/CH6/EX6.11/6_11.sce#S##39561
+6#Open Methods#6.10#fixed point iteration for nonlinear system#6_10.sce#964/CH6/EX6.10/6_10.sce#S##39263
+6#Open Methods#6.1#simple fixed point iteration#6_1.sce#964/CH6/EX6.1/6_1.sce#S##39253
+5#Bracketing Methods#5.6#Bracketing and False Position Methods#5_6.sce#964/CH5/EX5.6/5_6.sce#S##39752
+5#Bracketing Methods#5.5#False Position#5_5.sce#964/CH5/EX5.5/5_5.sce#S##39751
+5#Bracketing Methods#5.4#Error Estimates for Bisection#5_4.sce#964/CH5/EX5.4/5_4.sce#S##39750
+5#Bracketing Methods#5.3#Bisection#5_3.sce#964/CH5/EX5.3/5_3.sce#S##39749
+5#Bracketing Methods#5.2#Computer Graphics to Locate Roots#5_2.sce#964/CH5/EX5.2/5_2.sce#S##39747
+5#Bracketing Methods#5.2#Computer Graphics to Locate Roots#5_2.jpeg#964/CH5/EX5.2/5_2.jpeg#R##39748
+5#Bracketing Methods#5.1#Graphical Approach#5_1.sce#964/CH5/EX5.1/5_1.sce#S##42653
+5#Bracketing Methods#5.1#Graphical Approach#5_1.jpeg#964/CH5/EX5.1/5_1.jpeg#R##42654
+4#Truncation Errors and the Taylor Series#4.7#Condition Number#4_7.sce#964/CH4/EX4.7/4_7.sce#S##39744
+4#Truncation Errors and the Taylor Series#4.6#Error propagation in multivariable function#4_6.sce#964/CH4/EX4.6/4_6.sce#S##39743
+4#Truncation Errors and the Taylor Series#4.5#Error propagation in function of single variable#4_5.sce#964/CH4/EX4.5/4_5.sce#S##39742
+4#Truncation Errors and the Taylor Series#4.4#Finite divided difference approximation of derivatives#4_4.sce#964/CH4/EX4.4/4_4.sce#S##39741
+4#Truncation Errors and the Taylor Series#4.3#Effect of Nonlinearity and Stepsize on Taylor expansion#4_3.sce#964/CH4/EX4.3/4_3.sce#S##39740
+4#Truncation Errors and the Taylor Series#4.2#Taylor Series Expansion#4_2.sce#964/CH4/EX4.2/4_2.sce#S##36791
+4#Truncation Errors and the Taylor Series#4.1#Polynomial Taylor Series#4_1.sce#964/CH4/EX4.1/4_1.sce#S##36790
+3#Approximations and Round off Errors#3.8#Infinite Series Evaluation#3_8.sce#964/CH3/EX3.8/3_8.sce#S##36789
+3#Approximations and Round off Errors#3.7#Subtractive Cancellation#3_7.sce#964/CH3/EX3.7/3_7.sce#S##36788
+3#Approximations and Round off Errors#3.6#Interdependent Computations#3_6.sce#964/CH3/EX3.6/3_6.sce#S##36787
+3#Approximations and Round off Errors#3.5#Machine Epsilon#3_5.sce#964/CH3/EX3.5/3_5.sce#S##36786
+3#Approximations and Round off Errors#3.4#Floating Point Numbers#3_4.sce#964/CH3/EX3.4/3_4.sce#S##36785
+3#Approximations and Round off Errors#3.3#Range of Integers#3_3.sce#964/CH3/EX3.3/3_3.sce#S##36784
+3#Approximations and Round off Errors#3.2#Iterative error estimation#3_2.sce#964/CH3/EX3.2/3_2.sce#S##36783
+3#Approximations and Round off Errors#3.1#Calculations of Errors#3_1.sce#964/CH3/EX3.1/3_1.sce#S##36782
+2#Programming and Software#2.1#roots of quadratic#2_1.sce#964/CH2/EX2.1/2_1.sce#S##36781
+1#Mathematical Modelling and Engineering Problem Solving#1.2#Numerical Solution to Falling Parachutist Problem#1_2.sce#964/CH1/EX1.2/1_2.sce#S##36780
+1#Mathematical Modelling and Engineering Problem Solving#1.1#Analytical Solution to Falling Parachutist Problem#1_1.sce#964/CH1/EX1.1/1_1.sce#S##36779

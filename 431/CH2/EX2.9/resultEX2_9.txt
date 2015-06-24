@@ -1,0 +1,3 @@
+ example 2.9   
+omega=125.600000 
+electromagnetic torque=23.885350 Nm 

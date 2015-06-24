@@ -1,0 +1,4 @@
+
+2.result
+measurement accuracy for analog voltmeter=(+/-)2.500000 percent
+measurement accuracy for digital voltmeter=(+/-)1.100000 percent

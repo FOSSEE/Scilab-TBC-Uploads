@@ -1,0 +1,3 @@
+**Sample Problem 2-1c**
+The average velocity over the whole journey is 16.774194 km/h
+The average velocity from the graph is 16.774194 km/h 

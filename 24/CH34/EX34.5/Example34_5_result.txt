@@ -1,0 +1,2 @@
+**Sample Problem 34-5**
+The index of refraction should be at least 1.4 

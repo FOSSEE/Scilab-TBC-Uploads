@@ -1,0 +1,5 @@
+  
+ Example 4.32   
+Input to the motor on full load=30549W
+Stator I^2R loss on full load=1250W
+Efficiency=87.279597 percent 

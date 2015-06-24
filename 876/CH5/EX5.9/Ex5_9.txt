@@ -1,0 +1,15 @@
+(a)multiplier resistance(in ohm)=   
+ 
+    4900.  
+ 
+ (b)multiplier resistance(in ohm)=   
+ 
+    20000.  
+ 
+ (c)multiplier resistance(in ohm)=   
+ 
+    25000.  
+ 
+ (d)multiplier resistance(in ohm)=   
+ 
+    50000. 

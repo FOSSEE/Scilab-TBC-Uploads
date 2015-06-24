@@ -1,0 +1,2 @@
+**Sample Problem 24-3**
+The flux through the surface is equal to -666.666667N.m^2/C 

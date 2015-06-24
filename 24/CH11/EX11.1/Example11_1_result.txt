@@ -1,0 +1,6 @@
+**Sample Problem 11-1a**
+
+**Sample Problem 11-1b**
+At t=1.200000sec, theta approaches its minimum value equal to -1.360000
+
+**Sample Problem 11-1c**

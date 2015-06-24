@@ -1,0 +1,12 @@
+# Calculation of Control Limits and Standard Deviation# 
+
+
+ Control Limits for Averages are =
+ UCLx =  4.489031 in 
+ UCLy =  4.370169 in
+
+ Control Limits for Ranges are =
+ UCLR =  0.000000 in 
+ UCLR =  0.217845 in
+
+ Standard Deviation = 0.044282 in 

@@ -1,0 +1,3 @@
+ EMF generated in 6 pole lap wound dc generator (in Volts)=   
+ 
+    480.  

@@ -1,0 +1,8 @@
+ 
+ # PROBLEM 6.8 # 
+
+ The equation of required tool geometry is :-
+  y  = 
+                                       2  
+    9.8158651 + 0.3103759x - 0.0517293x   
+ 

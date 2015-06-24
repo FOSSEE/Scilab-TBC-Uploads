@@ -1,0 +1,13 @@
+  Example 17.3
+
+ Part A:
+ 
+ Material is n-type 
+ 
+ Part B
+ 
+ Conductivity is just 1120 (Ohm-m)^-1
+
+ Part C
+
+ Conductivity at T=373 K becomes 640 (Ohm-m)^-1

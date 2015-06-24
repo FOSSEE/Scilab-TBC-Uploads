@@ -1,0 +1,30 @@
+-->//(Introduction) Example 1.2
+ 
+-->//Initial value of the series 
+ 
+-->a = 100
+ a  =
+ 
+    100.  
+ 
+-->//Final value of the series 
+ 
+-->b = 1000
+ b  =
+ 
+    1000.  
+ 
+ 
+
+Number 1: 100.000000 = 100
+
+Number 2: 158.489319 = 158
+
+Number 3: 251.188643 = 251
+
+Number 4: 398.107171 = 398
+
+Number 5: 630.957344 = 630
+
+Number 6: 1000.000000 = 999
+ 

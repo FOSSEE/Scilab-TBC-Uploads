@@ -1,0 +1,4 @@
+  
+ Probability of getting 5 is   
+ 
+    0.1111111

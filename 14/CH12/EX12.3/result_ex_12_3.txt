@@ -1,0 +1,22 @@
+ Line to ground voltages   
+Va = 0.71 /_-0.00 per unit
+ Vb = Vc = 0 per unit 
+
+ 
+ Line to line voltages in per-unit are   
+Vab = 0.71 per unit
+ Vbc = 0.00 per unit
+ Vca = -0.71 per unit 
+
+
+ Base Current = 836.739521 A
+ Subtransient current in line a = 0 A
+ Subtransient current in line b = 4021 /_132.22 A
+ Subtransient current in line c = 4021 /_47.78 A
+ Subtransient current in neutral = 5956 /_90.00 A 
+
+ 
+ Line to line voltages in volts   
+Vab = 5.67 /_-0.00 kV
+ Vbc = 0.00  kV
+ Vca = 5.67 /_180.00 kV 

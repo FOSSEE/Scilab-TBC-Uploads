@@ -1,0 +1,23 @@
+//AC Circuits : example 4.42 :pg(4.32 & 4.33)
+PR=1000;
+VR=200;
+Pcoil=250;
+Vcoil=300;
+R=((VR^2)/PR);
+I=(VR/R);
+r=((Pcoil/(I^2)));
+Zcoil=(Vcoil/I);
+XL=sqrt((Zcoil^2)-(r^2));
+RT=(R+r);
+ZT=sqrt((RT^2)+(XL^2));
+V=(ZT*I);
+printf("\nPR=1000 W \nVR=200 V \nPcoil=250 W \nVcoil=300 V \nPR=(VR^2/R)");
+printf("\nR=%.f Ohms",R);
+printf("\nVR=R*I \nI=%.f A",I);
+disp("Pcoil=(I^2)*r");
+printf("\nResistance of coil      r=%.f Ohm",r);
+printf("\nImpedance of coil       Zcoil=(Vcoil/I)=%.f Ohms",Zcoil);
+printf("\nReactance of coil       XL=sqrt((Zcoil^2)-(r^2)) =%.1f Ohms",XL);
+printf("\nCombined resistance     RT=R+r=%.f Ohms",RT);
+printf("\nCombined impedance      ZT=sqrt(((R+r)^2)+(XL^2)) =%.1f Ohms",ZT);
+printf("\nSupply voltage          V=ZT*I=%.1f V",V);

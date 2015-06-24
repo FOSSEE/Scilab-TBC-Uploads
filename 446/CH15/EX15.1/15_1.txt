@@ -1,0 +1,4 @@
+  
+ Ex-15.1   
+The change in wavelength due to gravitational shift is 0.257 pm
+The change in wavelength due to thermal Doppler broadening effect is 6.7 pm 

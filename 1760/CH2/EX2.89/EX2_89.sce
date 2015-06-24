@@ -1,0 +1,23 @@
+    //example 2-89  pg no-134
+L=8*10^-3;               //INDUCTANCE
+C=16*10^-9;
+Wo=1/[L*C]^0.5;
+R=10;                  //RESISTANCE
+Fo=Wo/(2*%pi);      //FREQUENCY
+Q=(Wo*L)/R;
+Rp=((R*R)+(Wo*Wo*L*L))/R
+Vo1=100;
+B.W1=Wo/Q;
+R2=10*10^3;
+R3=60*10^3;
+LR=(Rp*R2)/R3;
+Q1=(Q*LR)/Rp
+Vo2=16.666;
+B.W2=Wo/Q1;
+disp(' Wo is = '+string(Wo)+' rad/sec');
+disp(' Q is = '+string(Q)+' ');
+disp(' Rp is = '+string(Rp)+' ohm');
+disp('BAND WIDTH 1 is = '+string(B.W1)+' rad/sec');
+disp('Load resistance is = '+string(LR)+' ohm');
+disp('  Q1 is = '+string (Q1)+' ');
+disp('BAND WIDTH2is = '+string(B.W2)+' rad/sec');

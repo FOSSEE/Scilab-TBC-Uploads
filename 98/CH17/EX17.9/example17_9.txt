@@ -1,0 +1,11 @@
+% reactance of each generator = 15 % 
+
+% reactance of each generator = 5 % 
+
+% reactance of each generator = 5 % 
+
+Total % reactance = 12.50 % 
+
+S.C MVA = 40.00 
+
+

@@ -1,0 +1,11 @@
+ concentration gradient (in kg/m4) =    
+ 
+    2000.  
+ 
+ Diffusivity (in sqm/sec) =    
+ 
+    8.028D-17  
+ 
+ Rate at which nitrogen escapes (in kg/sqm/sec) =    
+ 
+  - 1.606D-13  

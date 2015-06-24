@@ -1,0 +1,2 @@
+Closed-loop bandwidth is 100 KHertz
+Peak voltage is 0.795 Volts

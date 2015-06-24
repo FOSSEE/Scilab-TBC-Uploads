@@ -1,0 +1,4 @@
+Optical path = 7.9515 mu m
+Number of waves : 13.5
+The distance in vaccum for those waves is : 7.9515 mu m  
+Phase difference = 84.823

@@ -1,0 +1,27 @@
+ (a) per-phase excitation voltage(in Volts)=   
+ 
+    94.417952  
+ 
+ phase angle of excitation voltage (in degree)=   
+ 
+  - 34.48402  
+ 
+ (b) power developed due to feild excitation(in Watts)=   
+ 
+    7126.9003  
+ 
+ (c) power developed due to saliency of motor (in Watts)=   
+ 
+    4392.1412  
+ 
+ (d) total power developed (in Watts)=   
+ 
+    11519.041  
+ 
+ (e) Efficiency (in %)=   
+ 
+    95.000409  
+ 
+ (f) maximum power developed (in Watts)=   
+ 
+    15024.709 

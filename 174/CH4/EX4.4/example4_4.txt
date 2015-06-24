@@ -1,0 +1,4 @@
+The value of the resistance R_4 = (1000ohm/V *10V)- 100ohm  = 9900 ohm
+The value of the resistance R_3 = (1000ohm/V *50V)- 10000ohm  = 40K ohm
+The value of the resistance R_2 = (1000ohm/V *250V)- 50000ohm  = 200K ohm
+The value of the resistance R_1 = (1000ohm/V *500V)- 250000ohm  = 250K ohm 

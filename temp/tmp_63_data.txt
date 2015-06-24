@@ -1,0 +1,4 @@
+2#Noise#2.4#2.4#chap2_4.sci#63/CH2/EX2.4/chap2_4.sci#S##388
+2#Noise#2.3#2.3#chap2_3.sci#63/CH2/EX2.3/chap2_3.sci#S##387
+2#Noise#2.2#2.2#chap2_2.sci#63/CH2/EX2.2/chap2_2.sci#S##386
+2#Noise#2.1#2.1#chap2_1.sci#63/CH2/EX2.1/chap2_1.sci#S##385

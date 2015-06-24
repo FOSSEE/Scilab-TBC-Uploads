@@ -1,0 +1,16 @@
+w = 0.01;
+w1 = w*10^-3
+t = 10^-3;
+L = 0.5;
+B = 10*10^-5; 
+I = 10^-3;
+Vab = -2 *10^-3;
+Vcd = 0.1; 
+q = 1.6*10^-19;
+q1 = q*10^-3
+n0 = I*B/(q1*-Vab);
+rho = (Vcd/I)/(L/w1);
+u = 1/(rho*q*n0);
+disp(n0,"electron concentration (in per cubic centimeter)=")
+disp(rho,"resisitivity (in ohm-cm)=")
+disp(u,"mobility (in square cm per volt-sec)=")

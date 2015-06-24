@@ -1,0 +1,10 @@
+ 
+Ia1=-j7.527
+ Ia2=j4.301
+ Ia0=j3.226
+
+ Ia=0.000 + j-0.000
+ Ib=-10.243 + j4.839
+ Ic=10.243 + j4.839
+
+ Voltage of the healthy phase Va=3Va1=0.968 

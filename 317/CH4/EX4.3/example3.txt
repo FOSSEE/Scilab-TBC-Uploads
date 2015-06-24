@@ -1,0 +1,3 @@
+peak input voltage is 8.5 volts 
+ideally peak output voltage is 8.5 volts
+with second approximation  peak output voltage is 7.8 volts.

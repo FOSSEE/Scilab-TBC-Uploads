@@ -1,0 +1,5 @@
+When DIAC is not conducting:
+Minimum delay = 15.24 degrees
+
+When DIAC conducts:
+Maximum delay = 101.68 degrees 

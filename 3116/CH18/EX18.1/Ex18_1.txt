@@ -1,0 +1,8 @@
+ Example 18.1
+
+ Part A:
+ Saturation Magnetisation is 5.1e+05 Ampere/m
+
+ Part B:
+ Saturation Flux Density is 0.64 Tesla
+ 

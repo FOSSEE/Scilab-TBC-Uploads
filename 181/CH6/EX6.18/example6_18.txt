@@ -1,0 +1,4 @@
+(a)Id = 1.60e-002 A
+(b)Vds1 = 26.81 V, 1.19 V
+For ohmic operation Vds1 = 1.19 V
+(c)Vds2 = 9.81 V 

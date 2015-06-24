@@ -1,0 +1,15 @@
+ (a)Efficiency on full load(in%)=   
+ 
+    88.780435  
+ 
+ (b)Efficiency on 40A input(in%)=   
+ 
+    88.366848  
+ 
+ (c)Efficiency on 25A input(in%)=   
+ 
+    85.495652  
+ 
+ (d)Full load speed regulation(in%)=   
+ 
+    5.1198257  

@@ -1,0 +1,11 @@
+(i) When power factor is unity
+    MAx demand charge per unit = 5.71 paise 
+    Energy charge per unit = 8 paise 
+    Overall cost per unit = 13.71 paise 
+
+(i) When power factor is unity
+    MAx demand charge per unit = 8.15 paise 
+    Energy charge per unit = 8 paise 
+    Overall cost per unit = 16.15 paise 
+
+

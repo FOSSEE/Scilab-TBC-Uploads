@@ -1,0 +1,5 @@
+
+ # Problem 6 # 
+Standard formula used is g1 = g - R_e*f^2*(cos(theta))^2 
+ Angular velocity of Earth will be 1.250000e-03 rad/s 
+ Time period would be 1.396263 hours

@@ -1,0 +1,2 @@
+**Sample Problem 12-9**
+The final angular velocity of the ball-turnstile is 0.800000rad/s 

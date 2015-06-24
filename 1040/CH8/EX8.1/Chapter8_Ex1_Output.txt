@@ -1,0 +1,5 @@
+
+The Gas absorption coefficient is 0.145500 sec-1
+ The Fraction of overall resistance due to gas absorption
+  Run 1 42% 
+  Run 2 65%

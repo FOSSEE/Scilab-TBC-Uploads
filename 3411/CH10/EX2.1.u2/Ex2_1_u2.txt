@@ -1,0 +1,6 @@
+The number density of electrons is n= 
+    5.861D+28  
+m^-3
+The conductivity is u= 
+    0.0072526  
+m^2 V^-1 sec^-1 

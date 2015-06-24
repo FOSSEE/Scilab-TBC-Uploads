@@ -1,0 +1,9 @@
+ 
+ Example 9.6
+
+ Part A:
+ Machining time for EDM is 5.4 min.
+ This time is 2.46 time of that for ECM. 
+ This time is 17.41 time of that for drilling. 
+ Part B:
+ Wear rate of electrode is 0.064 mm^3/min. 

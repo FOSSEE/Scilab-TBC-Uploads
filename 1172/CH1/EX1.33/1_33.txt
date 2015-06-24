@@ -1,0 +1,5 @@
+ # Problem 33 # 
+  
+ Standard formula used 
+   delta=pi*d*del_mu/lambda 
+Specific rotation of sample is 66 degree. 

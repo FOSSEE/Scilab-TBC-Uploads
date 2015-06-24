@@ -1,0 +1,9 @@
+Chapter 5
+
+Some Applications of Laws of Thermodynamics
+
+Example 19
+
+
+There is slight discrepancy in answer of 3rd part.
+My answer is 4153.943111 kg/h while the book's answer is 4147.5 kg/h

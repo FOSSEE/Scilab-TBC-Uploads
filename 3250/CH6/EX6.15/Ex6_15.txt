@@ -1,0 +1,4 @@
+ 
+ # PROBLEM 6.15 # 
+
+ Time required for the centre of the circular spot to reach the melting point = 0.000126 sec

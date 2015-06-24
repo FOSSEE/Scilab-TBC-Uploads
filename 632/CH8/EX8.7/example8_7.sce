@@ -1,0 +1,21 @@
+//clc()
+T = 300;//K
+P = 100;//kPa
+S = 25000//kJ/m^3
+T1= 295;//K
+P1 = 105;//kPa
+RS = 50;//%
+Ps = 3.5;//kPa
+Ps1 = 2.6;//kPa
+Vstp = 22.4143;//m^3/kmol
+Pstp = 101.3;//kPa
+Tstp = 273.15;//K
+V = 1;//m^3
+N = V * P * Tstp/(Vstp * Pstp * T);
+Nfuel = N * (P - Ps)/P;
+Smol = S / Nfuel;//kJ/kmol
+N1 = V * P1 * Tstp/(Vstp * Pstp * T1);
+Pwater = Ps1 * RS /100;
+Nfuel1 = N1 * (P1 - Pwater )/P1;
+S1 = Smol * Nfuel1;
+disp("kJ/m^3",S1,"Heating value of gas at 295K and 105kPa = ")

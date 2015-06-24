@@ -1,0 +1,3 @@
+  
+ Ex-13.1   
+The rate of neutrons emitted from the target is 9.56e+007 particles per second

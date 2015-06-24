@@ -1,0 +1,12 @@
+d1=1*10^3//dist.direct sig. from A
+d11=1.5*10^3//dist.A and building
+d12=0.5*10^3//dist.mobile and building
+d2=d11+d12//dist.reflected sig.
+d3=3*10^3//dist.direct sig. from B
+c=3*10^8
+D1=(d3-d1)
+t1=D1/c//delay direct signal from A
+D2=(d3-d2)
+t2=D2/c//delay reflected signal from A
+printf('time delay for direct signal from A= %.2f microsecs',t1*10^6)
+printf('\ntime delay for reflected signal from A= %.2f microsecs',t2*10^6)

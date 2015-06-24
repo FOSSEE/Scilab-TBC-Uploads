@@ -1,0 +1,15 @@
+ (a) KVA rating at max efficiency =   
+ 
+    84.  
+ 
+ (b) max efficiency (%)=   
+ 
+    94.002448  
+ 
+ (c) Efficiency at full load (%)=   
+ 
+    93.641407  
+ 
+ (d) equivalent core resistance (in ohms)=   
+ 
+    2686.8805 

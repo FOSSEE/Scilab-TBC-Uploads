@@ -1,0 +1,226 @@
+19#Superconductivity#19.7#Critical temperature for niobium#Ch019Ex7.sce#1646/CH19/EX19.7/Ch019Ex7.sce#S##70642
+19#Superconductivity#19.6#Field strength required by lead to lose its superconducting state at 0 K#Ch019Ex6.sce#1646/CH19/EX19.6/Ch019Ex6.sce#S##70641
+19#Superconductivity#19.5# Critical temperature of lead from London penetration depth#Ch019Ex5.sce#1646/CH19/EX19.5/Ch019Ex5.sce#S##70640
+19#Superconductivity#19.4#Critical current density for superconducting wire of lead at different temperatures#Ch019Ex4.sce#1646/CH19/EX19.4/Ch019Ex4.sce#S##70639
+19#Superconductivity#19.3#Critical current through superconducting aluminium wire#Ch019Ex3.sce#1646/CH19/EX19.3/Ch019Ex3.sce#S##70638
+19#Superconductivity#19.2# Isotopic effect in mercury#Ch019Ex2.sce#1646/CH19/EX19.2/Ch019Ex2.sce#S##70637
+19#Superconductivity#19.1#Critical field for lead at 4 K#Ch019Ex1.sce#1646/CH19/EX19.1/Ch019Ex1.sce#S##70636
+17#Nuclear Physics#17.9#Energy released by the fission of 1 kg of U235#Ch017Ex9.sce#1646/CH17/EX17.9/Ch017Ex9.sce#S##70651
+17#Nuclear Physics#17.8#Kinetic energy of emitted protons and threshold energy#Ch017Ex8.sce#1646/CH17/EX17.8/Ch017Ex8.sce#S##70650
+17#Nuclear Physics#17.7#Threshold energy required to initiate the reaction#Ch017Ex7.sce#1646/CH17/EX17.7/Ch017Ex7.sce#S##70649
+17#Nuclear Physics#17.6#Q value of the formation of P30 in ground state#Ch017Ex6.sce#1646/CH17/EX17.6/Ch017Ex6.sce#S##70648
+17#Nuclear Physics#17.5#Exothermicity and endothermicity of nuclear reactions#Ch017Ex5.sce#1646/CH17/EX17.5/Ch017Ex5.sce#S##70647
+17#Nuclear Physics#17.4#Nuclei stability#Ch017Ex4.sce#1646/CH17/EX17.4/Ch017Ex4.sce#S##70646
+17#Nuclear Physics#17.3# Weizsacker formula for stability of nuclei#Ch017Ex3.sce#1646/CH17/EX17.3/Ch017Ex3.sce#S##70645
+17#Nuclear Physics#17.2#Binding energy for an alpha particle#Ch017Ex2.sce#1646/CH17/EX17.2/Ch017Ex2.sce#S##70644
+17#Nuclear Physics#17.18#Maximum permissible voltage fluctuation in a GM counter#Ch017Ex18.sce#1646/CH17/EX17.18/Ch017Ex18.sce#S##70661
+17#Nuclear Physics#17.17#Avalanche voltage in a GM tube#Ch017Ex17.sce#1646/CH17/EX17.17/Ch017Ex17.sce#S##70660
+17#Nuclear Physics#17.16#Maximum radial field and the life of a GM counter#Ch017Ex16.sce#1646/CH17/EX17.16/Ch017Ex16.sce#S##70659
+17#Nuclear Physics#17.15#Maximum frequency of Dee voltage and gain in energy of the deuteron in a synchrocyclotron#Ch017Ex15.sce#1646/CH17/EX17.15/Ch017Ex15.sce#S##70658
+17#Nuclear Physics#17.14#Energy gained per turn and maximum energy of the electron in a betatron#Ch017Ex14.sce#1646/CH17/EX17.14/Ch017Ex14.sce#S##70657
+17#Nuclear Physics#17.13#Energy of the protons issuing out of the cyclotron#Ch017Ex13.sce#1646/CH17/EX17.13/Ch017Ex13.sce#S##70656
+17#Nuclear Physics#17.12#Energy and oscillator frequency of some positively charged particles accelerating in a cyclotron#Ch017Ex12.sce#1646/CH17/EX17.12/Ch017Ex12.sce#S##70655
+17#Nuclear Physics#17.11#Rate of fission and energy released in the complete fissioning of U235#Ch017Ex11.sce#1646/CH17/EX17.11/Ch017Ex11.sce#S##70654
+17#Nuclear Physics#17.10#Rate of fission of U235#Ch017Ex10.sce#1646/CH17/EX17.10/Ch017Ex10.sce#S##70653
+17#Nuclear Physics#17.1#Binding energy per nucleon for the deutron#Ch017Ex1.sce#1646/CH17/EX17.1/Ch017Ex1.sce#S##70643
+16#Crystal Physics#16.9#Interplanar spacing in cubic crystal#Ch16Ex9.sce#1646/CH16/EX16.9/Ch16Ex9.sce#S##70670
+16#Crystal Physics#16.8#Inter planar spacing for lattice planes#Ch16Ex8.sce#1646/CH16/EX16.8/Ch16Ex8.sce#S##70669
+16#Crystal Physics#16.7#Lattice constant for Cu and distance between the two nearest Cu atoms#Ch16Ex7.sce#1646/CH16/EX16.7/Ch16Ex7.sce#S##70668
+16#Crystal Physics#16.6# Lattice constant for KBr crystal#Ch16Ex6.sce#1646/CH16/EX16.6/Ch16Ex6.sce#S##70667
+16#Crystal Physics#16.5#Lattice constant for NaCl crystal#Ch16Ex5.sce#1646/CH16/EX16.5/Ch16Ex5.sce#S##70666
+16#Crystal Physics#16.4#Length of the intercepts on Y and Z axes#Ch16Ex4.sce#1646/CH16/EX16.4/Ch16Ex4.sce#S##70665
+16#Crystal Physics#16.3#Miller indices of the set of parallel planes#Ch16Ex3.sce#1646/CH16/EX16.3/Ch16Ex3.sce#S##70664
+16#Crystal Physics#16.2#Miller indices of the lattice plane#Ch16Ex2.sce#1646/CH16/EX16.2/Ch16Ex2.sce#S##70663
+16#Crystal Physics#16.10#Interplanar spacing in tetragonal crystal lattice#Ch16Ex10.sce#1646/CH16/EX16.10/Ch16Ex10.sce#S##70671
+16#Crystal Physics#16.1#Miller indices of the crystal plane #Ch16Ex1.sce#1646/CH16/EX16.1/Ch16Ex1.sce#S##70662
+15#Digital Electronics#15.9#Subtraction of two binary numbers#Ch015Ex9.sce#1646/CH15/EX15.9/Ch015Ex9.sce#S##70680
+15#Digital Electronics#15.8#Addition of two binary numbers with fractions#Ch015Ex8.sce#1646/CH15/EX15.8/Ch015Ex8.sce#S##70679
+15#Digital Electronics#15.7#Addition of two binary numbers#Ch015Ex7.sce#1646/CH15/EX15.7/Ch015Ex7.sce#S##70678
+15#Digital Electronics#15.6#Hexadecimal equivalent of decimal numbers#Ch015Ex6.sce#1646/CH15/EX15.6/Ch015Ex6.sce#S##70677
+15#Digital Electronics#15.5# Hexadecimal equivalent of binary numbers#Ch015Ex5.sce#1646/CH15/EX15.5/Ch015Ex5.sce#S##70676
+15#Digital Electronics#15.4#Octal equivalent of decimal number#Ch015Ex4.sce#1646/CH15/EX15.4/Ch015Ex4.sce#S##70675
+15#Digital Electronics#15.3#Decimal equivalent of octal number#Ch015Ex3.sce#1646/CH15/EX15.3/Ch015Ex3.sce#S##70674
+15#Digital Electronics#15.2#Decimal equivalent of 6 bit binary number#Ch015Ex2.sce#1646/CH15/EX15.2/Ch015Ex2.sce#S##70673
+15#Digital Electronics#15.11#Binary division of two numbers#Ch015Ex11.sce#1646/CH15/EX15.11/Ch015Ex11.sce#S##70682
+15#Digital Electronics#15.10#Multiplication of two binary numbers#Ch015Ex10.sce#1646/CH15/EX15.10/Ch015Ex10.sce#S##70681
+15#Digital Electronics#15.1#Binary equivalent of decimal number#Ch015Ex1.sce#1646/CH15/EX15.1/Ch015Ex1.sce#S##70672
+14#Solid State Electronics#14.9#Half wave rectifier parameters#Ch014Ex9.sce#1646/CH14/EX14.9/Ch014Ex9.sce#S##70691
+14#Solid State Electronics#14.8#Static and dynamic values of diode resistance#Ch014Ex8.sce#1646/CH14/EX14.8/Ch014Ex8.sce#S##70690
+14#Solid State Electronics#14.7#Forward voltage to increase the current density of Si diode#Ch014Ex7.sce#1646/CH14/EX14.7/Ch014Ex7.sce#S##70689
+14#Solid State Electronics#14.6#Applied voltage for forward current density#Ch014Ex6.sce#1646/CH14/EX14.6/Ch014Ex6.sce#S##70688
+14#Solid State Electronics#14.5# Voltage required to cause a forward current density in pn junction diode#Ch014Ex5.sce#1646/CH14/EX14.5/Ch014Ex5.sce#S##70687
+14#Solid State Electronics#14.4#Shift in Fermi level due to change in density of donor atoms#Ch014Ex4.sce#1646/CH14/EX14.4/Ch014Ex4.sce#S##70686
+14#Solid State Electronics#14.3#Electrical conductivity of undoped and doped silicon#Ch014Ex3.sce#1646/CH14/EX14.3/Ch014Ex3.sce#S##70685
+14#Solid State Electronics#14.2#Electrical conductivity and resistivity of intrinsic germanium sample#Ch014Ex2.sce#1646/CH14/EX14.2/Ch014Ex2.sce#S##70684
+14#Solid State Electronics#14.15#Voltage and power gain of PNP transistor in CB mode#Ch014Ex15.sce#1646/CH14/EX14.15/Ch014Ex15.sce#S##70697
+14#Solid State Electronics#14.14#Current gain and leakage current of BJT in CE mode#Ch014Ex14.sce#1646/CH14/EX14.14/Ch014Ex14.sce#S##70696
+14#Solid State Electronics#14.13#Current gain and base current of BJT in CB mode#Ch014Ex13.sce#1646/CH14/EX14.13/Ch014Ex13.sce#S##70695
+14#Solid State Electronics#14.12#Base current of BJT in CB mode#Ch014Ex12.sce#1646/CH14/EX14.12/Ch014Ex12.sce#S##70694
+14#Solid State Electronics#14.11#Current gains in BJT#Ch014Ex11.sce#1646/CH14/EX14.11/Ch014Ex11.sce#S##70693
+14#Solid State Electronics#14.10#Full wave rectifier parameters#Ch014Ex10.sce#1646/CH14/EX14.10/Ch014Ex10.sce#S##70692
+14#Solid State Electronics#14.1#Density of impurity atoms to N type and P type silicon#Ch014Ex1.sce#1646/CH14/EX14.1/Ch014Ex1.sce#S##70683
+13#Dielectric Properties of Materials#13.9#Individual dipole moment of carbon tetrachloride#Ch13Ex9.sce#1646/CH13/EX13.9/Ch13Ex9.sce#S##70706
+13#Dielectric Properties of Materials#13.8#Electronic polarizability of argon atom#Ch13Ex8.sce#1646/CH13/EX13.8/Ch13Ex8.sce#S##70705
+13#Dielectric Properties of Materials#13.7#Induced dipole moment and atomic polarizability of neon gas#Ch13Ex7.sce#1646/CH13/EX13.7/Ch13Ex7.sce#S##70704
+13#Dielectric Properties of Materials#13.6#Dipole moment induced in He atom#Ch13Ex6.sce#1646/CH13/EX13.6/Ch13Ex6.sce#S##70703
+13#Dielectric Properties of Materials#13.5#Calculate the values of E D and P#Ch13Ex5.sce#1646/CH13/EX13.5/Ch13Ex5.sce#S##70702
+13#Dielectric Properties of Materials#13.4# Dielectric constant and the electric susceptability of diamond#Ch13Ex4.sce#1646/CH13/EX13.4/Ch13Ex4.sce#S##70701
+13#Dielectric Properties of Materials#13.3#Dielectric constant and the electric permittivity of the material#Ch13Ex3.sce#1646/CH13/EX13.3/Ch13Ex3.sce#S##70700
+13#Dielectric Properties of Materials#13.2#Force acting on an electric dipole in different orientations relative to the electric field#Ch13Ex2.sce#1646/CH13/EX13.2/Ch13Ex2.sce#S##70699
+13#Dielectric Properties of Materials#13.12#Determine the dipole moment#Ch13Ex12.sce#1646/CH13/EX13.12/Ch13Ex12.sce#S##70709
+13#Dielectric Properties of Materials#13.11#Percentage of ionic polarizability in NaCl crystal#Ch13Ex11.sce#1646/CH13/EX13.11/Ch13Ex11.sce#S##70708
+13#Dielectric Properties of Materials#13.10#Atomic radius of He#Ch13Ex10.sce#1646/CH13/EX13.10/Ch13Ex10.sce#S##70707
+13#Dielectric Properties of Materials#13.1#Electric dipole placed in a uniform electric field#Ch13Ex1.sce#1646/CH13/EX13.1/Ch13Ex1.sce#S##70698
+12#Magnetic Properties of Materials#12.9#Hystersis loss from BH loop#Ch12Ex9.sce#1646/CH12/EX12.9/Ch12Ex9.sce#S##70718
+12#Magnetic Properties of Materials#12.8#Hysteresis loss of energy per hour in the iron core of the transformer#Ch12Ex8.sce#1646/CH12/EX12.8/Ch12Ex8.sce#S##70717
+12#Magnetic Properties of Materials#12.7#Magnetization and magnetic moment in the bar#Ch12Ex7.sce#1646/CH12/EX12.7/Ch12Ex7.sce#S##70716
+12#Magnetic Properties of Materials#12.6#Total dipole moment of the sample#Ch12Ex6.sce#1646/CH12/EX12.6/Ch12Ex6.sce#S##70715
+12#Magnetic Properties of Materials#12.5#Magnetic flux density and magnetic intensity#Ch12Ex5.sce#1646/CH12/EX12.5/Ch12Ex5.sce#S##70714
+12#Magnetic Properties of Materials#12.4#Magnetizing force and relative permeability of the material#Ch12Ex4.sce#1646/CH12/EX12.4/Ch12Ex4.sce#S##70713
+12#Magnetic Properties of Materials#12.3#Magnetic moment of the rod placed inside the solenoid#Ch12Ex3.sce#1646/CH12/EX12.3/Ch12Ex3.sce#S##70712
+12#Magnetic Properties of Materials#12.2#Magnetic moment of the iron rod#Ch12Ex2.sce#1646/CH12/EX12.2/Ch12Ex2.sce#S##70711
+12#Magnetic Properties of Materials#12.10#Change in the magnetic dipole moment of the electron#Ch12Ex10.sce#1646/CH12/EX12.10/Ch12Ex10.sce#S##70719
+12#Magnetic Properties of Materials#12.1#Current through the solenoid#Ch12Ex1.sce#1646/CH12/EX12.1/Ch12Ex1.sce#S##70710
+11#Electromagnetic Theory#11.9#Amplitude of electric and magnetic fields of radiation#Ch11Ex9.sce#1646/CH11/EX11.9/Ch11Ex9.sce#S##70724
+11#Electromagnetic Theory#11.8#Average value of the intensity of electric field of radiation#Ch11Ex8.sce#1646/CH11/EX11.8/Ch11Ex8.sce#S##70723
+11#Electromagnetic Theory#11.3#Conduction and displacement current densities in the conducting medium#Ch11Ex3.sce#1646/CH11/EX11.3/Ch11Ex3.sce#S##70722
+11#Electromagnetic Theory#11.2#Maximum value of magnetic induction vector#Ch11Ex2.sce#1646/CH11/EX11.2/Ch11Ex2.sce#S##70721
+11#Electromagnetic Theory#11.14#Skin depth and attenuation constant of sea water#Ch11Ex14.sce#1646/CH11/EX11.14/Ch11Ex14.sce#S##70727
+11#Electromagnetic Theory#11.12#Skin depth of an EM wave in Al#Ch11Ex12.sce#1646/CH11/EX11.12/Ch11Ex12.sce#S##70726
+11#Electromagnetic Theory#11.10#Phase difference between electric and magentic field vectors of an EM wave#Ch11Ex10.sce#1646/CH11/EX11.10/Ch11Ex10.sce#S##70725
+11#Electromagnetic Theory#11.1#Amplitude of field vector E in free space#Ch11Ex1.sce#1646/CH11/EX11.1/Ch11Ex1.sce#S##70720
+10#Electrostatics#10.9#Electric field strength at a point#Ch10Ex09.sce#1646/CH10/EX10.9/Ch10Ex09.sce#S##70734
+10#Electrostatics#10.8#Magnitude and the direction of electric field at a point midway between two charges#Ch10Ex8.sce#1646/CH10/EX10.8/Ch10Ex8.sce#S##70733
+10#Electrostatics#10.7#Magnitude and the direction of electric field which would balance the weight of an electron placed in it#Ch10Ex7.sce#1646/CH10/EX10.7/Ch10Ex7.sce#S##70732
+10#Electrostatics#10.6#New potential when the two charged drops coalesce to form a bigger drop#Ch10Ex6.sce#1646/CH10/EX10.6/Ch10Ex6.sce#S##70731
+10#Electrostatics#10.3#Electric potential at the centre of a square#Ch10Ex3.sce#1646/CH10/EX10.3/Ch10Ex3.sce#S##70730
+10#Electrostatics#10.2#Electric potential at a point equidistant from the three corners of a triangle#Ch10Ex2.sce#1646/CH10/EX10.2/Ch10Ex2.sce#S##70729
+10#Electrostatics#10.12#Maximum electric field strength at an internal point#Ch10Ex12.sce#1646/CH10/EX10.12/Ch10Ex12.sce#S##70736
+10#Electrostatics#10.11#Electric field strength due to spherical charge distribution#Ch10Ex11.sce#1646/CH10/EX10.11/Ch10Ex11.sce#S##70735
+10#Electrostatics#10.1#Potential difference between the two charged horizontal plates#Ch10Ex1.sce#1646/CH10/EX10.1/Ch10Ex1.sce#S##70728
+9#Fibre Optics#9.9#Normalized frequency for the optical fibre#Ch09Ex9.sce#1646/CH9/EX9.9/Ch09Ex9.sce#S##70745
+9#Fibre Optics#9.8#Maximum values of refractive index of cladding and the fractional change in refractive index#Ch09Ex8.sce#1646/CH9/EX9.8/Ch09Ex8.sce#S##70744
+9#Fibre Optics#9.7#v number and the number of modes supported by the optical fibre#Ch09Ex7.sce#1646/CH9/EX9.7/Ch09Ex7.sce#S##70743
+9#Fibre Optics#9.6#NA and the core radius of an optical fibre#Ch09Ex6.sce#1646/CH9/EX9.6/Ch09Ex6.sce#S##70742
+9#Fibre Optics#9.5#Refractive index of core and cladding of an optical fibre#Ch09Ex5.sce#1646/CH9/EX9.5/Ch09Ex5.sce#S##70741
+9#Fibre Optics#9.4#The characteristics of glass clad fibre#Ch09Ex4.sce#1646/CH9/EX9.4/Ch09Ex4.sce#S##70740
+9#Fibre Optics#9.3#Acceptance angle for the optical fibre in water#Ch09Ex3.sce#1646/CH9/EX9.3/Ch09Ex3.sce#S##70739
+9#Fibre Optics#9.2#NA acceptance angle and the critical angle of optical fibre#Ch09Ex2.sce#1646/CH9/EX9.2/Ch09Ex2.sce#S##70738
+9#Fibre Optics#9.13#Minimum optical power input to an optical fibre#Ch09Ex13.sce#1646/CH9/EX9.13/Ch09Ex13.sce#S##70749
+9#Fibre Optics#9.12#Attenuation of power through optical fibre#Ch09Ex12.sce#1646/CH9/EX9.12/Ch09Ex12.sce#S##70748
+9#Fibre Optics#9.11#Power output through optical fibre#Ch09Ex11.sce#1646/CH9/EX9.11/Ch09Ex11.sce#S##70747
+9#Fibre Optics#9.10#Cut off parameter or v number of modes supported by the fibre#Ch09Ex10.sce#1646/CH9/EX9.10/Ch09Ex10.sce#S##70746
+9#Fibre Optics#9.1#NA and the acceptance angle of optical fibre#Ch09Ex1.sce#1646/CH9/EX9.1/Ch09Ex1.sce#S##70737
+8#Ultrasonics#8.8#Length of the copper wire used to introduce ultrasonic delay#Ch08Ex8.sce#1646/CH8/EX8.8/Ch08Ex8.sce#S##70779
+8#Ultrasonics#8.7#Fundamental frequency of a magnetostrictive hydrophone#Ch08Ex7.sce#1646/CH8/EX8.7/Ch08Ex7.sce#S##70777
+8#Ultrasonics#8.6#Maximum acceleration and displacement of a quartz ultrasonic transducer#Ch08Ex6.sce#1646/CH8/EX8.6/Ch08Ex6.sce#S##70774
+8#Ultrasonics#8.5#Position of imperfection and the velocity of pulse inside the rod#Ch08Ex5.sce#1646/CH8/EX8.5/Ch08Ex5.sce#S##70772
+8#Ultrasonics#8.4#Inductance of an inductor to produce ultrasonic waves#Ch08Ex4.sce#1646/CH8/EX8.4/Ch08Ex4.sce#S##70768
+8#Ultrasonics#8.3#Thickness of steel plate using ultrasonic beam#Ch08Ex3.sce#1646/CH8/EX8.3/Ch08Ex3.sce#S##70766
+8#Ultrasonics#8.2#Fundamental frequency of quarts crystal#Ch08Ex2.sce#1646/CH8/EX8.2/Ch08Ex2.sce#S##70762
+8#Ultrasonics#8.1#Frequency of the fundamental mode of ultrasonic wave#Ch08Ex1.sce#1646/CH8/EX8.1/Ch08Ex1.sce#S##70759
+7#Lasers and Holography#7.3#Angular spread and areal spread of laser beam#Ch07Ex3.sce#1646/CH7/EX7.3/Ch07Ex3.sce#S##70787
+7#Lasers and Holography#7.2#Coherence length resultant bandwidth and line width of laser beam#Ch07Ex2.sce#1646/CH7/EX7.2/Ch07Ex2.sce#S##70785
+7#Lasers and Holography#7.1#Energy of the laser pulse#Ch07Ex1.sce#1646/CH7/EX7.1/Ch07Ex1.sce#S##70782
+6#X Rays#6.9#Wavelength of incident photon#Ch06Ex9.sce#1646/CH6/EX6.9/Ch06Ex9.sce#S##70796
+6#X Rays#6.8#Compton shift from a carbon block#Ch06Ex8.sce#1646/CH6/EX6.8/Ch06Ex8.sce#S##70795
+6#X Rays#6.7#Wavelength of gamma radiation at 90 degree#Ch06Ex7.sce#1646/CH6/EX6.7/Ch06Ex7.sce#S##70794
+6#X Rays#6.6#Wavelength of K alpha radiation in copper for its given value in Mo#Ch06Ex6.sce#1646/CH6/EX6.6/Ch06Ex6.sce#S##70793
+6#X Rays#6.5#Interplanar sepration of atomic planes in the crystal#Ch06Ex5.sce#1646/CH6/EX6.5/Ch06Ex5.sce#S##70792
+6#X Rays#6.4#Angles at which the second and the third Bragg diffraction maxima are observed#Ch06Ex4.sce#1646/CH6/EX6.4/Ch06Ex4.sce#S##70791
+6#X Rays#6.3#Longest wavelength that can be analysed by a rock salt crystal#Ch06Ex3.sce#1646/CH6/EX6.3/Ch06Ex3.sce#S##70790
+6#X Rays#6.2#Maximum speed of the electron striking the target#Ch06Ex2.sce#1646/CH6/EX6.2/Ch06Ex2.sce#S##70789
+6#X Rays#6.1#Electrons striking the target in X ray coolidge tube#Ch06Ex1.sce#1646/CH6/EX6.1/Ch06Ex1.sce#S##70788
+5#Physical Optics#5.9#Wavelength of the light used in Newton rings experiment#Ch05Ex9.sce#1646/CH5/EX5.9/Ch05Ex9.sce#S##70607
+5#Physical Optics#5.8#Thickness of a soap bubble film#Ch05Ex8.sce#1646/CH5/EX5.8/Ch05Ex8.sce#S##70606
+5#Physical Optics#5.7#Lateral shift of central maximum#Ch05Ex7.sce#1646/CH5/EX5.7/Ch05Ex7.sce#S##70605
+5#Physical Optics#5.6#Distance between the slits#Ch05Ex6.sce#1646/CH5/EX5.6/Ch05Ex6.sce#S##70604
+5#Physical Optics#5.5#Wavelength of light used in a biprism experiment#Ch05Ex5.sce#1646/CH5/EX5.5/Ch05Ex5.sce#S##70602
+5#Physical Optics#5.40#Length of sugar solution for given concentration and optical rotation#Ch05Ex40.sce#1646/CH5/EX5.40/Ch05Ex40.sce#S##70635
+5#Physical Optics#5.4#Distance between the two coherent sources#Ch05Ex4.sce#1646/CH5/EX5.4/Ch05Ex4.sce#S##70600
+5#Physical Optics#5.39#Strength of the solution#Ch05Ex39.sce#1646/CH5/EX5.39/Ch05Ex39.sce#S##70634
+5#Physical Optics#5.38#Optical rotation produced by new length of sugar solution#Ch05Ex38.sce#1646/CH5/EX5.38/Ch05Ex38.sce#S##70633
+5#Physical Optics#5.37#Angle of rotation produced by quartz plate#Ch05Ex37.sce#1646/CH5/EX5.37/Ch05Ex37.sce#S##70632
+5#Physical Optics#5.36#Specific rotation of sugar solution for given plane of polarization#Ch05Ex36.sce#1646/CH5/EX5.36/Ch05Ex36.sce#S##70631
+5#Physical Optics#5.35#Percentage purity of the sugar sample#Ch05Ex35.sce#1646/CH5/EX5.35/Ch05Ex35.sce#S##70630
+5#Physical Optics#5.34#Thicknass of quarter wave plate#Ch05Ex34.sce#1646/CH5/EX5.34/Ch05Ex34.sce#S##70629
+5#Physical Optics#5.33#Angle of minimum deviation for green light for its passage through a prism#Ch05Ex33.sce#1646/CH5/EX5.33/Ch05Ex33.sce#S##70628
+5#Physical Optics#5.32#Numerical aperature of the objective of microscope for given wavelength of light#Ch05Ex32.sce#1646/CH5/EX5.32/Ch05Ex32.sce#S##70627
+5#Physical Optics#5.31#Minimum distance from the telescope at which the the pinhole can be resolved#Ch05Ex31.sce#1646/CH5/EX5.31/Ch05Ex31.sce#S##70626
+5#Physical Optics#5.30#Aperture of the objective of a telescope#Ch05Ex30.sce#1646/CH5/EX5.30/Ch05Ex30.sce#S##70625
+5#Physical Optics#5.3#Thickness of the mica sheet#Ch05Ex3.sce#1646/CH5/EX5.3/Ch05Ex3.sce#S##70599
+5#Physical Optics#5.29#Numerical aperature of the objective of microscope#Ch05Ex29.sce#1646/CH5/EX5.29/Ch05Ex29.sce#S##70624
+5#Physical Optics#5.28#Distance between two stars which are just resolved#Ch05Ex28.sce#1646/CH5/EX5.28/Ch05Ex28.sce#S##70623
+5#Physical Optics#5.27#Resolution of D1 and D2 lines of sodium#Ch05Ex27.sce#1646/CH5/EX5.27/Ch05Ex27.sce#S##70622
+5#Physical Optics#5.26#Coinciding spectral lines#Ch05Ex26.sce#1646/CH5/EX5.26/Ch05Ex26.sce#S##70621
+5#Physical Optics#5.23#Grating element of diffraction grating#Ch05Ex23.sce#1646/CH5/EX5.23/Ch05Ex23.sce#S##70620
+5#Physical Optics#5.22#Maximum number of visible orders#Ch05Ex22.sce#1646/CH5/EX5.22/Ch05Ex22.sce#S##70619
+5#Physical Optics#5.21#Minimum number of lines in a grating#Ch05Ex21.sce#1646/CH5/EX5.21/Ch05Ex21.sce#S##70618
+5#Physical Optics#5.20#Deduction of wavelength of the light from given data#Ch05Ex20.sce#1646/CH5/EX5.20/Ch05Ex20.sce#S##70617
+5#Physical Optics#5.2#Angle of the biprism#Ch05Ex2.sce#1646/CH5/EX5.2/Ch05Ex2.sce#S##70596
+5#Physical Optics#5.19#Wavelength of light and the missing order of Fraunhofer diffraction#Ch05Ex19.sce#1646/CH5/EX5.19/Ch05Ex19.sce#S##70616
+5#Physical Optics#5.18#Angular position of the first two minima on either side of a central maxima#Ch05Ex18.sce#1646/CH5/EX5.18/Ch05Ex18.sce#S##70615
+5#Physical Optics#5.17#Relation between two wavelengths illuminating a single slit due to Fraunhofer diffraction#Ch05Ex17.sce#1646/CH5/EX5.17/Ch05Ex17.sce#S##70614
+5#Physical Optics#5.16#Angles at which first and second order maxima can be observed#Ch05Ex16.sce#1646/CH5/EX5.16/Ch05Ex16.sce#S##70613
+5#Physical Optics#5.14#Radius of curvature of the lens and the thickness of the corresponding air film#Ch05Ex14.sce#1646/CH5/EX5.14/Ch05Ex14.sce#S##70612
+5#Physical Optics#5.13#Thickness of the wire separating edges of two plane glass surfaces#Ch05Ex13.sce#1646/CH5/EX5.13/Ch05Ex13.sce#S##70611
+5#Physical Optics#5.12#Least thickness of the soap film that will appear bright dark#Ch05Ex12.sce#1646/CH5/EX5.12/Ch05Ex12.sce#S##70610
+5#Physical Optics#5.11#Thickness of the soap film #Ch05Ex11.sce#1646/CH5/EX5.11/Ch05Ex11.sce#S##70609
+5#Physical Optics#5.10#Radius of the curvature of the lens and the thickness of the air film#Ch05Ex10.sce#1646/CH5/EX5.10/Ch05Ex10.sce#S##70608
+5#Physical Optics#5.1#Order of interference maximum with different wavelength#Ch05Ex1.sce#1646/CH5/EX5.1/Ch05Ex1.sce#S##70334
+4#Geometrical Optics#4.9#Focal lengths from dispersive powers of achromatic combination of lenses#Ch04Ex9.sce#1646/CH4/EX4.9/Ch04Ex9.sce#S##70843
+4#Geometrical Optics#4.8#Position of principal points and focal points for two coaxially placed lenses#Ch04Ex8.sce#1646/CH4/EX4.8/Ch04Ex8.sce#S##70842
+4#Geometrical Optics#4.7#Locations of principal points and focal points#Ch04Ex7.sce#1646/CH4/EX4.7/Ch04Ex7.sce#S##70841
+4#Geometrical Optics#4.5#Focal length of the combination of coaxially placed thi convex lenses#Ch04Ex5.sce#1646/CH4/EX4.5/Ch04Ex5.sce#S##70840
+4#Geometrical Optics#4.4#Focal length of the combination of lenses of given powers#Ch04Ex4.sce#1646/CH4/EX4.4/Ch04Ex4.sce#S##70839
+4#Geometrical Optics#4.3#Equivalent focal length of the combinations of lenses#Ch04Ex3.sce#1646/CH4/EX4.3/Ch04Ex3.sce#S##70838
+4#Geometrical Optics#4.21#Focal length of the component lenses and the sepration between them#Ch04Ex21.sce#1646/CH4/EX4.21/Ch04Ex21.sce#S##71028
+4#Geometrical Optics#4.20#Focal lengths of the lenses and the eyepiece#Ch04Ex20.sce#1646/CH4/EX4.20/Ch04Ex20.sce#S##71024
+4#Geometrical Optics#4.2#Light reflected from the inner surface of spherical shell#Ch04Ex2.sce#1646/CH4/EX4.2/Ch04Ex2.sce#S##70837
+4#Geometrical Optics#4.19#Equivalent focal length of a Ramsden eyepiece#Ch04Ex19.sce#1646/CH4/EX4.19/Ch04Ex19.sce#S##71022
+4#Geometrical Optics#4.18#Focal length of the field lens#Ch04Ex18.sce#1646/CH4/EX4.18/Ch04Ex18.sce#S##71012
+4#Geometrical Optics#4.17#Aplanatic surface#Ch04Ex17.sce#1646/CH4/EX4.17/Ch04Ex17.sce#S##71011
+4#Geometrical Optics#4.16#Radii of Aplanatic surfaces and lateral magnification of the image#Ch04Ex16.sce#1646/CH4/EX4.16/Ch04Ex16.sce#S##71010
+4#Geometrical Optics#4.15#Focal length of component lenses of a convergent doublet#Ch04Ex15.sce#1646/CH4/EX4.15/Ch04Ex15.sce#S##71009
+4#Geometrical Optics#4.14#Longitudinal chromatic aberration for an object at infinity#Ch04Ex14.sce#1646/CH4/EX4.14/Ch04Ex14.sce#S##71008
+4#Geometrical Optics#4.13#Focal length of two lenses with no aberration#Ch04Ex13.sce#1646/CH4/EX4.13/Ch04Ex13.sce#S##71007
+4#Geometrical Optics#4.12#Focal length of the convergent lens for C line#Ch04Ex12.sce#1646/CH4/EX4.12/Ch04Ex12.sce#S##71006
+4#Geometrical Optics#4.11#Radii of curvature of the second surface of each of the lens of achromatic doublet#Ch04Ex11.sce#1646/CH4/EX4.11/Ch04Ex11.sce#S##71005
+4#Geometrical Optics#4.10#Focal length of the two component lens of an achromatic doublet#Ch04Ex10.sce#1646/CH4/EX4.10/Ch04Ex10.sce#S##71004
+4#Geometrical Optics#4.1#Actual path of light using Fermat principle#Ch04Ex1.sce#1646/CH4/EX4.1/Ch04Ex1.sce#S##70836
+3#Statistical Mechanics#3.8#Probability of macrostate#Ch03Ex8.sce#1646/CH3/EX3.8/Ch03Ex8.sce#S##70799
+3#Statistical Mechanics#3.7#Three particles obeying Bose Einstein statistics distributed in three cells#Ch03Ex7.sce#1646/CH3/EX3.7/Ch03Ex7.sce#S##70798
+3#Statistical Mechanics#3.6#Thermodynamic probability of the macrostate of distributing 8 distinguishable particles in 2 compartments#Ch03Ex6.sce#1646/CH3/EX3.6/Ch03Ex6.sce#S##70804
+3#Statistical Mechanics#3.5#Most probable distribution of 5 distinguishable particles among 3 cells#Ch03Ex5.sce#1646/CH3/EX3.5/Ch03Ex5.sce#S##70803
+3#Statistical Mechanics#3.4#Fraction of oxygen gas molecules within one percent of most probable speed#Ch03Ex4.sce#1646/CH3/EX3.4/Ch03Ex4.sce#S##70802
+3#Statistical Mechanics#3.3#Temperature to produce invariant average speed of hydrogen molecule#Ch03Ex3.sce#1646/CH3/EX3.3/Ch03Ex3.sce#S##70801
+3#Statistical Mechanics#3.2#Probability that the speed of oxygen molecules#Ch03Ex2.sce#1646/CH3/EX3.2/Ch03Ex2.sce#S##70800
+3#Statistical Mechanics#3.15#Temperature at which the level above the fermi level is occupied by the electron#Ch03Ex15.sce#1646/CH3/EX3.15/Ch03Ex15.sce#S##70808
+3#Statistical Mechanics#3.13#Fermi energy of free electrons in cesium#Ch03Ex14.sce#1646/CH3/EX3.13/Ch03Ex14.sce#S##70807
+3#Statistical Mechanics#3.12#Fermi energy of silver in metallic state#Ch03Ex12.sce#1646/CH3/EX3.12/Ch03Ex12.sce#S##70806
+3#Statistical Mechanics#3.11#Fermi energy of the Na at absolute zero#Ch03Ex11.sce#1646/CH3/EX3.11/Ch03Ex11.sce#S##70805
+3#Statistical Mechanics#3.1#Probability of existence of oxygen molecules within the given velocity range#Ch03Ex1.sce#1646/CH3/EX3.1/Ch03Ex1.sce#S##70797
+2#Quantum Mechanics#2.9#Energy of an electron moving in 1D infinetly high potential box#Ch02Ex9.sce#1646/CH2/EX2.9/Ch02Ex9.sce#S##70832
+2#Quantum Mechanics#2.8#Smallest possible uncertainity in position of an electron#Ch02Ex8.sce#1646/CH2/EX2.8/Ch02Ex8.sce#S##70831
+2#Quantum Mechanics#2.7#Uncertainity in the velocity of an electron#Ch02Ex7.sce#1646/CH2/EX2.7/Ch02Ex7.sce#S##70830
+2#Quantum Mechanics#2.6#Minimum error in measurement of lifetime of excited state of hydrogen atom#Ch02Ex6.sce#1646/CH2/EX2.6/Ch02Ex6.sce#S##70829
+2#Quantum Mechanics#2.5#Uncertainity in determining the position of the electron#Ch02Ex5.sce#1646/CH2/EX2.5/Ch02Ex5.sce#S##70828
+2#Quantum Mechanics#2.3#Wavelength of the matter wave associated with a proton#Ch02Ex3.sce#1646/CH2/EX2.3/Ch02Ex3.sce#S##70827
+2#Quantum Mechanics#2.2#de broglie wavelength associated with a proton#Ch02Ex2.sce#1646/CH2/EX2.2/Ch02Ex2.sce#S##70826
+2#Quantum Mechanics#2.12#Energy difference between the ground state and the first excited state for an electron in 1D box#Ch02Ex12.sce#1646/CH2/EX2.12/Ch02Ex12.sce#S##70835
+2#Quantum Mechanics#2.11#Lowest energy of the neutron confined to the nucleus#Ch02Ex11.sce#1646/CH2/EX2.11/Ch02Ex11.sce#S##70834
+2#Quantum Mechanics#2.10#Lowest two permitted energy values of an electron#Ch02Ex10.sce#1646/CH2/EX2.10/Ch02Ex10.sce#S##70833
+2#Quantum Mechanics#2.1#de broglie wavelength of an electron#Ch02Ex1.sce#1646/CH2/EX2.1/Ch02Ex1.sce#S##70825
+1#Relativistic Mechanics#1.9#Speed at which a moving clock ticks slow#Ch01Ex9.sce#1646/CH1/EX1.9/Ch01Ex9.sce#S##70815
+1#Relativistic Mechanics#1.8#Mean lifetime of meson in motion#Ch01Ex8.sce#1646/CH1/EX1.8/Ch01Ex8.sce#S##70814
+1#Relativistic Mechanics#1.7#Length of a one metre stick moving parallel to its length#Ch01Ex7.sce#1646/CH1/EX1.7/Ch01Ex7.sce#S##70813
+1#Relativistic Mechanics#1.6#Areal contraction of moving circular lamina#Ch01Ex6.sce#1646/CH1/EX1.6/Ch01Ex6.sce#S##70812
+1#Relativistic Mechanics#1.4#Relative speed of one photon with respect to another#Ch01Ex4.sce#1646/CH1/EX1.4/Ch01Ex4.sce#S##70811
+1#Relativistic Mechanics#1.2#Lorentz transformations for space and time#Ch01Ex2.sce#1646/CH1/EX1.2/Ch01Ex2.sce#S##70810
+1#Relativistic Mechanics#1.17#Classical and relativistic speed of an electron of given kinetic energy#Ch01Ex17.sce#1646/CH1/EX1.17/Ch01Ex17.sce#S##70824
+1#Relativistic Mechanics#1.15#Speed of the electron in order to have its mass equal to mass of a proton#Ch01Ex15.sce#1646/CH1/EX1.15/Ch01Ex15.sce#S##70823
+1#Relativistic Mechanics#1.14#Particle moving with relativistic speed#Ch01Ex14.sce#1646/CH1/EX1.14/Ch01Ex14.sce#S##70822
+1#Relativistic Mechanics#1.13#Amount of work to be done to increase the speed of an electron#Ch01Ex13.sce#1646/CH1/EX1.13/Ch01Ex13.sce#S##70819
+1#Relativistic Mechanics#1.12#Kinetic energy and momentum of moving electron#Ch01Ex12.sce#1646/CH1/EX1.12/Ch01Ex12.sce#S##70818
+1#Relativistic Mechanics#1.11#Velocity of the particle when its total energy is thrice its rest energy#Ch01Ex11.sce#1646/CH1/EX1.11/Ch01Ex11.sce#S##70817
+1#Relativistic Mechanics#1.10#Distance that the meson beam can travel before reduction in its flux#Ch01Ex10.sce#1646/CH1/EX1.10/Ch01Ex10.sce#S##70816

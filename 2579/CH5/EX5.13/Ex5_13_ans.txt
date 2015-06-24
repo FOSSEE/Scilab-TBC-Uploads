@@ -1,0 +1,1 @@
+ The critical frequency = 14.456141 MHz

@@ -1,0 +1,4 @@
+Required external resistance per phase(in ohms)=   
+ 
+    1.1785714  
+ 

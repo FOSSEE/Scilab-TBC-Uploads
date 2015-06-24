@@ -1,0 +1,3 @@
+ 
+ Example 2.33   
+approximate efficiency=91.363261percent 

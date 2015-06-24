@@ -1,0 +1,3 @@
+**Sample Problem 13-6**
+The force on the leveled legs is 548.000000N
+The force on the unleveled legs is 1198.000000N 

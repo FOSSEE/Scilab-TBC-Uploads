@@ -1,0 +1,90 @@
+-->//(Power Screws) Example 6.4
+ 
+-->//Refer Fig. 6.13 on page 198
+ 
+-->//Number of starts of the screw n
+ 
+-->n = 1
+ n  =
+ 
+    1.  
+ 
+-->//Outer diameter of the screw d (mm)
+ 
+-->d = 40
+ d  =
+ 
+    40.  
+ 
+-->//Pitch of the screw p (mm)
+ 
+-->p = 7
+ p  =
+ 
+    7.  
+ 
+-->//Weight of the gate w (kN)
+ 
+-->w = 5
+ w  =
+ 
+    5.  
+ 
+-->//Frictional resistance in axial direction fr (kN)
+ 
+-->fr = 2
+ fr  =
+ 
+    2.  
+ 
+-->//Inner diameter of the thrust washer Di (mm)
+ 
+-->Di = 40
+ Di  =
+ 
+    40.  
+ 
+-->//Outer diameter of the thrust washer Do (mm)
+ 
+-->Do = 80
+ Do  =
+ 
+    80.  
+ 
+-->//Coefficient of friction at the threads mu1
+ 
+-->mu1 = 0.15
+ mu1  =
+ 
+    0.15  
+ 
+-->//Coefficient of friction at the washer mu2
+ 
+-->mu2 = 0.12
+ mu2  =
+ 
+    0.12  
+ 
+-->//Radius at which the force is exerted rad (mm)
+ 
+-->rad = 500
+ rad  =
+ 
+    500.  
+ 
+-->//Permissible bearing pressure Sb (N/mm2)
+ 
+-->Sb = 5
+ Sb  =
+ 
+    5.  
+ 
+
+Maximum force exerted by each arm when the gate is being raised(P1) = 52.410253 N
+
+Maximum force exerted by each arm when the gate is being lowered(P2) = 15.626055 N
+
+Efficiency of the gate mechanism(eta) = 14.879898 percent
+
+Length of the nut(L) = 28.000000 mm
+ 

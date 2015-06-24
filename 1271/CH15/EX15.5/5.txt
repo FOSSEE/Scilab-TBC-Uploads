@@ -1,0 +1,5 @@
+ # PROBLEM 5 # 
+Standard formula used 
+ del_x*del_p = h/(4*pi) 
+
+ Uncertainty in momentum is 5.268029e-25 kgm/sec.

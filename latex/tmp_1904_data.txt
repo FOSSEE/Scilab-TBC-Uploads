@@ -1,0 +1,100 @@
+11#Distribution System Reliability#11.9#To Determine the vector of state probabilities at a specific time#11_9.sce#1904/CH11/EX11.9/11_9.sce#S##74646
+11#Distribution System Reliability#11.8#To Determine the Conditional Outage Probabilites#11_8.sce#1904/CH11/EX11.8/11_8.sce#S##74644
+11#Distribution System Reliability#11.8#To Determine the Conditional Outage Probabilites#11_8.jpg#1904/CH11/EX11.8/11_8.jpg#R##74645
+11#Distribution System Reliability#11.7#To Determine Probabilities Using Markovian Principle#11_7.sce#1904/CH11/EX11.7/11_7.sce#S##74642
+11#Distribution System Reliability#11.7#To Determine Probabilities Using Markovian Principle#11_7.jpg#1904/CH11/EX11.7/11_7.jpg#R##74643
+11#Distribution System Reliability#11.6#To Find The Probability on the reliability of transformers#11_6.sce#1904/CH11/EX11.6/11_6.sce#S##74641
+11#Distribution System Reliability#11.5#To Design the system to meet the given Equivalent System Reliability#11_5.sce#1904/CH11/EX11.5/11_5.sce#S##74640
+11#Distribution System Reliability#11.4#To Determine the Equivalent System Reliability of Each configuration#11_4.sce#1904/CH11/EX11.4/11_4.sce#S##74639
+11#Distribution System Reliability#11.3#To Determine the Annual Fault properties for A B C Customers#11_3.sce#1904/CH11/EX11.3/11_3.sce#S##74638
+11#Distribution System Reliability#11.2#To Determine the fault components of the system#11_2.sce#1904/CH11/EX11.2/11_2.sce#S##74637
+11#Distribution System Reliability#11.1#To Determine the Approximate value of the component reliability#11_1.sce#1904/CH11/EX11.1/11_1.sce#S##74636
+10#Distribution System Protection#10.4#To Determine the sequence impedance values#10_4.sce#1904/CH10/EX10.4/10_4.sce#S##75236
+10#Distribution System Protection#10.3#To Determine system parameters for various stabilities#10_3.sce#1904/CH10/EX10.3/10_3.sce#S##75234
+10#Distribution System Protection#10.3#To Determine system parameters for various stabilities#10_3.jpg#1904/CH10/EX10.3/10_3.jpg#R##75235
+10#Distribution System Protection#10.2#To Determine the Fault parameters of Rural Substation#10_2.sce#1904/CH10/EX10.2/10_2.sce#S##75233
+10#Distribution System Protection#10.1#To Determine the necessary realy and recloser coordination#10_1.sce#1904/CH10/EX10.1/10_1.sce#S##75232
+9#Distribution System Voltage Regulation#9.9#To Determine the Design Parameters of a Distributed System#9_9.sce#1904/CH9/EX9.9/9_9.sce#S##75227
+9#Distribution System Voltage Regulation#9.9#To Determine the Design Parameters of a Distributed System#9_9.jpg#1904/CH9/EX9.9/9_9.jpg#R##75228
+9#Distribution System Voltage Regulation#9.8#To Determine the necessary settings of Regulators#9_8.sce#1904/CH9/EX9.8/9_8.sce#S##75226
+9#Distribution System Voltage Regulation#9.6#To determine the number of steps of buck and boost the regulators will achieve#9_6.sce#1904/CH9/EX9.6/9_6.sce#S##75225
+9#Distribution System Voltage Regulation#9.5#To determine the setting of the regulator so that the voltage criteria is met#9_5.sce#1904/CH9/EX9.5/9_5.sce#S##75223
+9#Distribution System Voltage Regulation#9.5#To determine the setting of the regulator so that the voltage criteria is met#9_5.jpg#1904/CH9/EX9.5/9_5.jpg#R##75224
+9#Distribution System Voltage Regulation#9.4#To specify the best settings for regulation#9_4.sce#1904/CH9/EX9.4/9_4.sce#S##75220
+9#Distribution System Voltage Regulation#9.4#To specify the best settings for regulation#9_4_1.jpg#1904/CH9/EX9.4/9_4_1.jpg#R##75221
+9#Distribution System Voltage Regulation#9.4#To specify the best settings for regulation#9_4_2.jpg#1904/CH9/EX9.4/9_4_2.jpg#R##75222
+9#Distribution System Voltage Regulation#9.3#To Determine the Necessary minimum kilovoltampere size of the regulator#9_3.sce#1904/CH9/EX9.3/9_3.sce#S##75218
+9#Distribution System Voltage Regulation#9.3#To Determine the Necessary minimum kilovoltampere size of the regulator#9_3.jpg#1904/CH9/EX9.3/9_3.jpg#R##75219
+9#Distribution System Voltage Regulation#9.2#To Determine the distance at which the regulator must be located#9_2.sce#1904/CH9/EX9.2/9_2.sce#S##75217
+9#Distribution System Voltage Regulation#9.12#To determine the voltage dip due to the motor start for a 100 hp 3Phase Motor#9_12.sce#1904/CH9/EX9.12/9_12.sce#S##75231
+9#Distribution System Voltage Regulation#9.11#To Determine the Voltage dip due to 10hp single phase motor#9_11.sce#1904/CH9/EX9.11/9_11.sce#S##75230
+9#Distribution System Voltage Regulation#9.10#To Determine the proper 3 phase capacitor bank#9_10.sce#1904/CH9/EX9.10/9_10.sce#S##75229
+9#Distribution System Voltage Regulation#9.1#To Determine the parameters of the system regulation#9_1.sce#1904/CH9/EX9.1/9_1.sce#S##75215
+9#Distribution System Voltage Regulation#9.1#To Determine the parameters of the system regulation#9_1.jpg#1904/CH9/EX9.1/9_1.jpg#R##75216
+8#Application of Capacitors to Distribution Systems#8.5#To Determine the savings in kilowatt losses#8_5.sce#1904/CH8/EX8.5/8_5.sce#S##75171
+8#Application of Capacitors to Distribution Systems#8.4#To determine the necessity of additional capacitors#8_4.sce#1904/CH8/EX8.4/8_4.sce#S##75170
+8#Application of Capacitors to Distribution Systems#8.3#To determine the power factors of a 2point4 kV phase circuit feeder#8_3.sce#1904/CH8/EX8.3/8_3.sce#S##75169
+8#Application of Capacitors to Distribution Systems#8.2#To determine the Capacitor bank required to correct power factor of induction motor#8_2.sce#1904/CH8/EX8.2/8_2.sce#S##75168
+8#Application of Capacitors to Distribution Systems#8.1#To Determine the Capacitor Size to improve the power factor to a 700kVA Load#8_1.sce#1904/CH8/EX8.1/8_1.sce#S##75167
+7#Voltage Drop and Power Loss Calculations#7.9#To Determine the location of the substation#7_9.sce#1904/CH7/EX7.9/7_9.sce#S##75212
+7#Voltage Drop and Power Loss Calculations#7.8#To determine the percent drop from the substation to various points#7_8.sce#1904/CH7/EX7.8/7_8.sce#S##75211
+7#Voltage Drop and Power Loss Calculations#7.7#To determine the percent drop from the substation to various points#7_7.sce#1904/CH7/EX7.7/7_7.sce#S##75210
+7#Voltage Drop and Power Loss Calculations#7.5#To Find the Total Load and Total steady state voltage drop#7_5.sce#1904/CH7/EX7.5/7_5.sce#S##75209
+7#Voltage Drop and Power Loss Calculations#7.4#To find the voltage dip in per units for motor starting#7_4.sce#1904/CH7/EX7.4/7_4.sce#S##75208
+7#Voltage Drop and Power Loss Calculations#7.3#To Calculate the Voltage Drop and Verify The Cable Selected#7_3.sce#1904/CH7/EX7.3/7_3.sce#S##75207
+7#Voltage Drop and Power Loss Calculations#7.2#To determine the voltage drop or voltage regulation of a 3phase system#7_2.sce#1904/CH7/EX7.2/7_2.sce#S##75206
+7#Voltage Drop and Power Loss Calculations#7.11#To Determine the Line to Line Voltage at point a#7_11.sce#1904/CH7/EX7.11/7_11.sce#S##75214
+7#Voltage Drop and Power Loss Calculations#7.10#To Determine the Annual Energy Loss#7_10.sce#1904/CH7/EX7.10/7_10.sce#S##100399
+6#Design Considerations of Secondary Systems#6.5#To find the pu voltages and tolerable and favourable voltages#6_5.sce#1904/CH6/EX6.5/6_5.sce#S##75205
+6#Design Considerations of Secondary Systems#6.4#To determine the circuit parameters of an unbalanced load#6_4.sce#1904/CH6/EX6.4/6_4.sce#S##75204
+6#Design Considerations of Secondary Systems#6.2#To determine the coeffcient matrix for a unbalanced load#6_2.sce#1904/CH6/EX6.2/6_2.sce#S##75203
+6#Design Considerations of Secondary Systems#6.1#To Compute the Economical Sizes of the Transformer and its Equipment#6_1.sce#1904/CH6/EX6.1/6_1.sce#S##77646
+5#Design Considerations of Primary Systems#5.5#To find the percent voltage drop at the ends of the most remote laterals#5_5.sce#1904/CH5/EX5.5/5_5.sce#S##75202
+5#Design Considerations of Primary Systems#5.4#To determine the percent voltage drops using nomnial operating voltage as base voltage#5_4.sce#1904/CH5/EX5.4/5_4.sce#S##75201
+5#Design Considerations of Primary Systems#5.3#To find voltge drop percents for a self supporting aerial messenger cable#5_3.sce#1904/CH5/EX5.3/5_3.sce#S##75200
+5#Design Considerations of Primary Systems#5.2#To determine the percent voltage drops#5_2.sce#1904/CH5/EX5.2/5_2.sce#S##75199
+5#Design Considerations of Primary Systems#5.1#To determine the circuit parameters of a radial express feeder#5_1.sce#1904/CH5/EX5.1/5_1.sce#S##75198
+4#Design of Subtransmission Lines and Distribution Substations#4.8#To determine the better susbstation site#4_8.sce#1904/CH4/EX4.8/4_8.sce#S##75111
+4#Design of Subtransmission Lines and Distribution Substations#4.7#To Find feeder properties of TL and VDL#4_7.sce#1904/CH4/EX4.7/4_7.sce#S##75110
+4#Design of Subtransmission Lines and Distribution Substations#4.6#To determine the substation parameters for various Load densities#4_6.sce#1904/CH4/EX4.6/4_6.sce#S##75109
+4#Design of Subtransmission Lines and Distribution Substations#4.5#To Compare the results the percent voltage drop ratio for different loading#4_5.sce#1904/CH4/EX4.5/4_5.sce#S##75108
+4#Design of Subtransmission Lines and Distribution Substations#4.4#To Calculate percent voltage drop in the main for a uniformly increasing load#4_4.sce#1904/CH4/EX4.4/4_4.sce#S##75107
+4#Design of Subtransmission Lines and Distribution Substations#4.3#To Calculate percent voltage drop in the main for a uniformly distributed load#4_3.sce#1904/CH4/EX4.3/4_3.sce#S##75106
+4#Design of Subtransmission Lines and Distribution Substations#4.2#To Calculate the percent voltage drop in the main for a lumped load#4_2.sce#1904/CH4/EX4.2/4_2.sce#S##75104
+4#Design of Subtransmission Lines and Distribution Substations#4.11#To Compare the method of service area coverage with four feeders#4_11.sce#1904/CH4/EX4.11/4_11.sce#S##75113
+4#Design of Subtransmission Lines and Distribution Substations#4.10#To find the substation spacing and load on transformers#4_10.sce#1904/CH4/EX4.10/4_10.sce#S##75112
+4#Design of Subtransmission Lines and Distribution Substations#4.1#To determine the constant K for 16kV feeder#4_1.sce#1904/CH4/EX4.1/4_1.sce#S##75101
+3#Application of Distribution Transformers#3.9#To Determine phasors and phasor diagrams when loaded with a balanced resistor#3_9.sce#1904/CH3/EX3.9/3_9.sce#S##75137
+3#Application of Distribution Transformers#3.9#To Determine phasors and phasor diagrams when loaded with a balanced resistor#3_9.jpg#1904/CH3/EX3.9/3_9.jpg#R##75138
+3#Application of Distribution Transformers#3.8#To Determine the the voltages of a two transformer bank#3_8.sce#1904/CH3/EX3.8/3_8.sce#S##75135
+3#Application of Distribution Transformers#3.8#To Determine the the voltages of a two transformer bank#3_8.jpg#1904/CH3/EX3.8/3_8.jpg#R##75136
+3#Application of Distribution Transformers#3.6#To Determine the Transformer parameters for a 3 phase load of 100kVA#3_6.sce#1904/CH3/EX3.6/3_6.sce#S##75134
+3#Application of Distribution Transformers#3.5#To Determine the Transformer parameters for a 3 phase load of 200kVA#3_5.sce#1904/CH3/EX3.5/3_5.sce#S##75133
+3#Application of Distribution Transformers#3.4#To determine the maximum load carried by the transformer#3_4.sce#1904/CH3/EX3.4/3_4.sce#S##75132
+3#Application of Distribution Transformers#3.3#To determine the service drop and the length of the cable#3_3.sce#1904/CH3/EX3.3/3_3.sce#S##75131
+3#Application of Distribution Transformers#3.2#To determine the fault current in the distribution transformer#3_2.sce#1904/CH3/EX3.2/3_2.sce#S##75128
+3#Application of Distribution Transformers#3.11#To Determine the parameters of two single transformers#3_11.sce#1904/CH3/EX3.11/3_11.sce#S##75141
+3#Application of Distribution Transformers#3.10#To Determine the Voltage Rating of the respective windings of the transformer#3_10.sce#1904/CH3/EX3.10/3_10.sce#S##75139
+3#Application of Distribution Transformers#3.10#To Determine the Voltage Rating of the respective windings of the transformer#3_10.jpg#1904/CH3/EX3.10/3_10.jpg#R##75140
+3#Application of Distribution Transformers#3.1#To Evaluate all the required impedances of a 25kVA Transformer#3_1.sce#1904/CH3/EX3.1/3_1.sce#S##75125
+2#Load Characteristics#2.9#To detemine the annual loss factor#2_9.sce#1904/CH2/EX2.9/2_9.sce#S##75156
+2#Load Characteristics#2.8#To determine the annual load factor on the substation#2_8.sce#1904/CH2/EX2.8/2_8.sce#S##75154
+2#Load Characteristics#2.8#To determine the annual load factor on the substation#2_8.jpg#1904/CH2/EX2.8/2_8.jpg#R##75155
+2#Load Characteristics#2.7#To determine the annual average power demand#2_7.sce#1904/CH2/EX2.7/2_7.sce#S##75152
+2#Load Characteristics#2.7#To determine the annual average power demand#2_7.jpg#1904/CH2/EX2.7/2_7.jpg#R##75153
+2#Load Characteristics#2.6#To determine the class distribution factors#2_6.sce#1904/CH2/EX2.6/2_6.sce#S##75151
+2#Load Characteristics#2.5#To determine the diversity load diversity and coincidence factor#2_5.jpg#1904/CH2/EX2.5/2_5.jpg#R##75150
+2#Load Characteristics#2.5#To determine the diversity load diversity and coincidence factor#2_5.sce#1904/CH2/EX2.5/2_5.sce#S##75149
+2#Load Characteristics#2.4#To determine copper losses of the feeder#2_4.sce#1904/CH2/EX2.4/2_4.sce#S##75148
+2#Load Characteristics#2.3#To determine the diversified demand#2_3.sce#1904/CH2/EX2.3/2_3.sce#S##75147
+2#Load Characteristics#2.2#To determine the annual power loss#2_2.sce#1904/CH2/EX2.2/2_2.sce#S##75146
+2#Load Characteristics#2.15#To determine watt VAr and VA demands#2_15.sce#1904/CH2/EX2.15/2_15.sce#S##75166
+2#Load Characteristics#2.14#To determine instantaneous demands and average demand for transformer type#2_14.sce#1904/CH2/EX2.14/2_14.sce#S##75165
+2#Load Characteristics#2.13#To determine the instantaneous demands and the average demand#2_13.sce#1904/CH2/EX2.13/2_13.sce#S##75164
+2#Load Characteristics#2.12#To find monthly load factor Rating of distribution transformer monthly bill#2_12.sce#1904/CH2/EX2.12/2_12.sce#S##75163
+2#Load Characteristics#2.11#To determine the Thirty min maximum diversified#2_11.sce#1904/CH2/EX2.11/2_11.sce#S##75160
+2#Load Characteristics#2.11#To determine the Thirty min maximum diversified#2_11_1.jpg#1904/CH2/EX2.11/2_11_1.jpg#R##75161
+2#Load Characteristics#2.11#To determine the Thirty min maximum diversified#2_11_2.jpg#1904/CH2/EX2.11/2_11_2.jpg#R##75162
+2#Load Characteristics#2.10#To calculate thirty min annual maximum demand#2_10.sce#1904/CH2/EX2.10/2_10.sce#S##75157
+2#Load Characteristics#2.1#To find the load curve#2_1.sce#1904/CH2/EX2.1/2_1.sce#S##75144
+2#Load Characteristics#2.1#To find the load curve#2_1.jpg#1904/CH2/EX2.1/2_1.jpg#R##75145

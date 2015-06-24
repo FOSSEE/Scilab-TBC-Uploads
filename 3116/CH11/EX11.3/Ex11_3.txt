@@ -1,0 +1,4 @@
+ 
+ Design Example 11.2
+
+ Time to rupture for a component is 232 hours(9.7 days)

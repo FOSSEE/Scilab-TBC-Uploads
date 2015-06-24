@@ -1,0 +1,1 @@
+ Time taken to reach Brillouin zone is 7.298e-012 s 

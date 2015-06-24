@@ -1,0 +1,9 @@
+ 
+ Example 6.1
+ Equilibrium concentration of vacancies of aluminium at 0K is 0
+ Equilibrium concentration of vacancies of aluminium at 300K is 1.44e-12
+ Equilibrium concentration of vacancies of aluminium at 900K is 1.13e-04
+
+ Equilibrium concentration of vacancies of Nickel at 0K is 0
+ Equilibrium concentration of vacancies of Nickel at 300K is 5.59e-30
+ Equilibrium concentration of vacancies of Nickel at 900K is 1.77e-10 

@@ -1,0 +1,38 @@
+  
+ Sturm sequences   
+ 
+    1.  
+    0.  
+  - 1.  
+    1.  
+ 
+ Number of eigen values strickly greater than 2 :    
+ 
+    0.  
+ 
+ Sturm sequences   
+ 
+    1.  
+    1.  
+    0.  
+  - 1.  
+ 
+ Number of eigen values strickly greater than 1 :    
+ 
+    1.  
+ 
+ Sturm sequences   
+ 
+    1.     
+    0.5    
+  - 0.75   
+  - 0.125  
+ 
+ Number of eigen values strickly greater than 1.5 :    
+ 
+    2.  
+ 
+ Eigen value lying between [1.5,2] ie with an error of 0.25  
+      is :                                                   
+ 
+    1.75  

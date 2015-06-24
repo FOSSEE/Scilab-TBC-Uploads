@@ -1,0 +1,5 @@
+for fH=20 MHz,
+trd=27 ns
+for fH=50 MHz,
+trd=22 ns
+ 

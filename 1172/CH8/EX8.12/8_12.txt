@@ -1,0 +1,5 @@
+ # Problem 12 # 
+
+ Standard formula used T^2 = k* r^3 
+ Distance of Saturn from Sun is 1.432098e+09 km .
+

@@ -1,0 +1,5 @@
+ 
+  
+ example13_7   
+bus bar voltage 1.0245.p.u at angle 1.8
+ increase in voltage 0.0240 =2.4000persent 

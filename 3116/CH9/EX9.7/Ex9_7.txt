@@ -1,0 +1,3 @@
+  Design Example 9.1
+
+ Diameter of each of two rods should be 47.5 mm

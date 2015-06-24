@@ -1,0 +1,17 @@
+Recieving end voltage = 6351 V 
+
+Load current = 262.43 A 
+
+Sending ebd voltage = 7295.61 V 
+
+% Regulation = 14.88 % 
+
+Lone losses = 310 kW 
+
+Output power = 4000 kW 
+
+Input power = 4310 kW 
+
+Transmission efficiency = 92.81 % 
+
+

@@ -1,0 +1,5 @@
+ # PROBLEM 16 # 
+Standard formula used 
+  H=N*i 
+
+ Current in solenoid should be 10 A.

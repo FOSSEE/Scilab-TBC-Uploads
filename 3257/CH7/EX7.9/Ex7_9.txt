@@ -1,0 +1,6 @@
+ 
+ Example 7.9 
+
+ For average R value 1.35 LDR of steel can be approximated to be 2.5 (deduced from figure).
+
+ Ear will form in deep drawing of this material. 

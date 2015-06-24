@@ -1,0 +1,4 @@
+	Based on average pressures calculated Rate and Effectiveness factor
+	 r : 1.17E-05 (mol/s cm3)
+	 eta_calc : 0.175 
+ The actual value of Effectiveness factor eta_actual :0.4

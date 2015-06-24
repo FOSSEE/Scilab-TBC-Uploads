@@ -1,0 +1,3 @@
+ Upper Threshold Voltage = 6.9355 V 
+
+ Lower Threshold Voltage = -6.9355 V 

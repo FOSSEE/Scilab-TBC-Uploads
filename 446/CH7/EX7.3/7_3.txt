@@ -1,0 +1,3 @@
+  
+ Exa-7.3   
+The probability for l=0 electron is 0.034 and for l=1 electron is 0.0037. 

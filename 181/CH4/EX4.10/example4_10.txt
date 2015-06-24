@@ -1,0 +1,3 @@
+ (a)Change in Emitter voltage is +0.40 V
+(b)Change in Collector Voltage is 0.00 V
+ 

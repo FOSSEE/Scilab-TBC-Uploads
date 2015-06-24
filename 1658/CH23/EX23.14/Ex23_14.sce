@@ -1,0 +1,11 @@
+clc;
+VCC=15;
+VEE=15;
+RE=3.9*10**3;
+RC=4.7*10**3;
+IE=(VEE-0.7)/RE;
+disp('mA',IE*10**3,"IE=");
+IC=IE/2;
+disp('mA',IC*10**3,"IC=");
+VC=VCC-IC*RC;
+disp('V',VC*1,"VC=");

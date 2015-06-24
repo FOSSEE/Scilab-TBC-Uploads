@@ -1,0 +1,4 @@
+ (a)Vgs = -2 V,-8 V
+(b)id = 4e-003 A
+(c)Vds = 14 V
+Saturation region operation is confirmed from above results 

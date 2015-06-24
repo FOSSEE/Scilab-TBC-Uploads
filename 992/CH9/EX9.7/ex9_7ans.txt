@@ -1,0 +1,3 @@
+ 
+The signal to quantisation ratio is(SQNR)=36.376355dB 
+ Execution done.   

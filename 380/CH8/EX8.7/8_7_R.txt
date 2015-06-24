@@ -1,0 +1,7 @@
+ overall power factor=   
+ 
+    0.7449891  
+ 
+ power factor of motor to improve overall power factor to 0.9=   
+ 
+    0.2120143

@@ -1,0 +1,12 @@
+  
+ example 4 21   
+ initial kVA 1131.54kVA 
+ initial annual fixed charges Rs90523.2 
+ after installation of synchronous motor reactive power of induction motor 800kVars
+ active power input of synchrounous motor 148.59kW
+ reactive power input to synchrounous motor -89.15KVAR 
+ total kW 948.59KW 
+ total kVars 710.85kVARS 
+ total kVA 1185.38kVA 
+ increase in KVA demand 53.84kVA
+ increase in annual fixed charges Rs4306.9  

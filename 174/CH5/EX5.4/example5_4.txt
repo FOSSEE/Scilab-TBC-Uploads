@@ -1,0 +1,3 @@
+The impedence of the unknown arm = 150i ohm
+The result indicates that Z_4 is a pure inductance with an inductive reactance of 150 ohm at a frequency of 1 khz.
+The inductance present in the arm CD = 23.9m H 

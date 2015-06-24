@@ -1,0 +1,5 @@
+ example 5.12   
+
+V/phase= 3810V 
+E=  4378.515597 V per phase
+percentage change in terminal voltage= 14.906234 percent 

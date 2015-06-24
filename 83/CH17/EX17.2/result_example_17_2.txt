@@ -1,0 +1,4 @@
+ 
+
+The capacity of the static VAR compensator is +250 MVAR 
+

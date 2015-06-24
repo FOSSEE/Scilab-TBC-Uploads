@@ -1,0 +1,5 @@
+# PROBLEM 12 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N  
+
+ Difference in deviation of first and third order spectra is 46.700464 degree.

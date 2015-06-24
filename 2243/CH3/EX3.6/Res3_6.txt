@@ -1,0 +1,10 @@
+
+ Parameters 			 Air 			 Water 			 Oil 			Glass 
+
+Wavelength : 		 5890 A 		 4428.6 A 		 4237.4 A 		 3591.5 A 
+Velocity : 		 3 x 10^8 m/s 		 2.26 x 10^8m/s 	 2.16 x 10^8 m/s 	 1.83 x 10^8 m/s 
+Time of travel : 	 33.3 x 10^-10 s	 44.3 x 10^-10 s	 46.3 x 10^-10 s	 54.7 x 10^-10 s 
+Number of waves: 	 1.7 x 10^6 		 2.3 x 10^6 		 2.4 x 10^6 		 2.8 x10^6 
+Optical path : 		 100 cm 		 133 cm 		 139 cm 		 164 cm 
+
+ The total optical path = 536 cm

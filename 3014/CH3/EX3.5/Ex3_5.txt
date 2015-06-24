@@ -1,0 +1,4 @@
+
+
+Example 3.5
+Longest wavelength is 1.710101 angstrom

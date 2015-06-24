@@ -1,0 +1,1 @@
+Voltage across diode = 0.1075V

@@ -1,0 +1,18 @@
+ 
+Per unit impedance of the components of the given power system are as follows :
+
+Transmission line: 0.565 
+
+Transformer T1: 0.419 
+
+Transformer T2: 0.441 
+
+Generator 1: 0.397 
+
+Generator 2: 0.937 
+
+Generator 3: 0.437 
+
+ 
+ Execution done.   
+

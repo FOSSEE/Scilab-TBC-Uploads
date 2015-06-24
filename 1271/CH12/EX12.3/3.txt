@@ -1,0 +1,1 @@
+Time taken for 93.75 per decay of sample is 60 hours.

@@ -1,0 +1,9 @@
+Combined load = 280 kW 
+
+(i) Leading kVAR taken by the motor = 14.39 kVAR 
+
+(ii) kVA rating of the motor = 81.28 kVA 
+
+(iii) pf of the motor = 0.98 
+
+

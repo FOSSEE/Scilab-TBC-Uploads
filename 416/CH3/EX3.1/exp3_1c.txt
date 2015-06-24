@@ -1,0 +1,29 @@
+ 
+
+ example 3.1   
+ 
+ solution for (a)   
+
+afc1=Rs.198000000
+ e1=529980000kWh
+ annualfual1=370986000.000000kg 
+ fc1=Rs.556479000 
+ om1=Rs.111295800 
+ aoc1=Rs.556479000.200000 
+ apc1=Rs.754479000.200000 
+ gc1=1.355809kWh
+ 
+ solution for (b)   
+
+afc2=Rs.330000000
+ e2=578160000kWh
+ annualfual2=375804000.000000kg 
+ fc2=Rs.563706000 
+ om22=Rs.112741200 
+ aoc2=Rs.563706000.200000 
+ apc2=Rs.893706000.200000 
+ gc2=1.355809kWh
+
+
+solution of (c)
+ogc=Rs.1.487344/kWh 

@@ -1,0 +1,17 @@
+disp('chapter 8 ex8.4')
+disp('given')
+disp('Determine required minimum slew rate for circuit designed in example 8.3')
+disp('output voltage Vo=4volt')
+Vo=4
+disp(' change in time t=1*10^(-3)')
+t=1*10^(-3)
+disp('let C1=.1*10^(-6)F')    //(standard value)
+C1=.1*10^(-6)
+disp('R1=12.5kohm')
+R1=12500
+disp('Smin=Vo/(t/10)')
+Smin=Vo/(t/10)
+disp('V/us',Smin)
+disp('fc=1/(2*%pi*R1*C1)')
+fc=1/(2*%pi*R1*C1)
+disp('Hz',fc)

@@ -1,0 +1,4 @@
+ # Problem 11 # 
+Standard formula used T^2 = k* r^3
+ Standers formula used v = 2 * pi * r / T 
+ Ratio of time period is 0.031623 and ratio of speed is 3.162278 .

@@ -1,0 +1,2 @@
+**Sample Problem 9-6**
+The final velocity of the hauler is 2200km/h 

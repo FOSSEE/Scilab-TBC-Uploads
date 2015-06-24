@@ -1,0 +1,2 @@
+Drain current is 5 mAmperes
+Voltage between drain and ground is 10 Volts

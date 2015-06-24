@@ -1,0 +1,6 @@
+  
+ Exa-8.4   
+Considering any two electrons,Value of L2e ranges from 0 to 2 i.e 0 1 2.
+Adding the angular momentum of the third electron to L2emax gives the maximum  whole angular momentum as 2+1=3; and subtracting it from L2e=1 gives 0
+Values of S2e are 1 &0.
+Adding and subtracting the spin of third to S2e=1 and S2e=0 respectively gives the spins 3/2 and 1/2 for the 3 electron system. 

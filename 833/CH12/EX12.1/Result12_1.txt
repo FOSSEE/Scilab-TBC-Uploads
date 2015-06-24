@@ -1,0 +1,32 @@
+(a)Noload power factor=   
+ 
+    0.0993718  
+ 
+ (b)Core and friction loss(in watt)=   
+ 
+    194.875  
+ 
+ (c)Resistance(in ohms)=   
+ 
+    688.9  
+ 
+ (d)Power factor on short circuit=   
+ 
+    0.6410712  
+ 
+ (e)Equivalent impedance in series circuit(in ohms)=   
+ 
+    5.1073293  
+ 
+ (f)Rotor resistance referred to stator(in ohm)=   
+ 
+    1.7741617  
+ 
+ (g)Stator leakage reactance(in ohms)=   
+ 
+    3.9197803  
+ 
+ (h)Rotor leakage reactance referred to stator(in ohms)=   
+ 
+    1.9598901  
+ 

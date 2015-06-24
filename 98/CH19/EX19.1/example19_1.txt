@@ -1,0 +1,13 @@
+(i) Rated normal current = 1500 A 
+
+(ii) Breaking capacity = 1000 MVA 
+
+(iii) Rated symmetrical breaking capacity = 17495 A 
+
+(iv) Rated making current = 44613 A 
+
+(v) Rated short time rating = 17495 A for 3 sec 
+
+(vi) Rated service voltage = 33 kV 
+
+

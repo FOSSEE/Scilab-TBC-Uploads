@@ -1,0 +1,7 @@
+Working tension = 1550 kg 
+
+Sag = 3.7 m 
+
+Conductor should be supported at a height of 13.7 m 
+
+

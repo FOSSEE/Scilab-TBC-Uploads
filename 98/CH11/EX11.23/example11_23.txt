@@ -1,0 +1,7 @@
+Resistance of the loop = 1.625 ohm 
+
+Resistance of faulty cable from test end upto fault point = 0.433 ohm 
+
+Distance of fault point from the testing end = 433 m 
+
+

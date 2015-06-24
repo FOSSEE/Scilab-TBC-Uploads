@@ -1,0 +1,54 @@
+-->//(Welded and Riveted Joints) Example 8.21
+ 
+-->//Refer Fig.8.61 on page 310
+ 
+-->//Width of the plate w (mm)
+ 
+-->w = 250
+ w  =
+ 
+    250.  
+ 
+-->//Thickness of the plate t (mm)
+ 
+-->t = 20
+ t  =
+ 
+    20.  
+ 
+-->//Permissible tensile stress in the plate and rivet sigmat (N/mm2)
+ 
+-->sigmat = 80
+ sigmat  =
+ 
+    80.  
+ 
+-->//Permissible compressive stress in the plate and rivet sigmac (N/mm2)
+ 
+-->sigmac = 120
+ sigmac  =
+ 
+    120.  
+ 
+-->//Permissible shear stress in the plate and rivet tau (N/mm2)
+ 
+-->tau = 60
+ tau  =
+ 
+    60.  
+ 
+
+Diameter of the rivet(d) = 26.832816 or 27.000000 mm
+
+Number of rivets required(n) = 6.000000
+
+Margin(m) = 40.500000 or 45.000000 mm
+
+Transverse pitch(pt) = 54.000000 or 55.000000 mm
+
+Thickness of strap(t1) = 12.500000 mm
+
+Pitch(p) = 80.000000 mm
+
+Efficiency of the joints(eta) = 89.200000 percent
+ 

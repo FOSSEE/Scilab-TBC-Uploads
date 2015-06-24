@@ -1,0 +1,1 @@
+Collector Voltage = 5.0000 V 

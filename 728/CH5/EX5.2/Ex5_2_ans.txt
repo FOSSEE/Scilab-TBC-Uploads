@@ -1,0 +1,6 @@
+Dominant mode is TE101   
+ 
+ Lowest resonant frequency(in GHz) =   
+ 
+    9.0138782  
+ 

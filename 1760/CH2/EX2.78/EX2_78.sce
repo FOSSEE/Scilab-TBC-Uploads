@@ -1,0 +1,19 @@
+                     //EXAMPLE  2-78  PG NO-114-115
+I=10;
+L1=0.0318;                    //INDUCTANCE
+L2=0.0191;
+F=50;                         //FREQUENCY
+C=398*10^-6;                  //CAPACITOR
+XL1=[2*%pi*F*L1];
+disp('i)   INDUCYANCE (XL1) is    =  '+string (XL1) +' ohm ');
+XL2=[2*%pi*F*L2];
+disp('ii)   INDUCYANCE (XL2) is    =  '+string (XL2) +' ohm ');
+XC=1/[2*%pi*F*C];
+disp('iii) CAPACITOR (XC) is    =  '+string (XC) +' ohm ');
+Z1=5+%i*6;
+Z2=7-%i*8;
+Z3=8+%i*9.99;
+Z=[(Z1*Z2)/(Z1+Z2)]+Z3;
+disp('iv)   IMPEDANCE (Z) is  in polar form  =  '+string (Z) +' ohm ');
+VAB=I*Z;
+disp('i) VOLTAGE  (VAB) is  in polar form  =  '+string (VAB) +' V ')

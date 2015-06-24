@@ -1,0 +1,11 @@
+clc;
+close
+clear;
+z=%s;
+b0=1;
+b1=2;
+b2=3;
+a1=4;
+a2=5;
+tf=syslin('d',((b0+b1*z^-1+b2*z^-2)/(1+a1*z^-1+a2*z^-2)));
+ss=tf2ss(tf);

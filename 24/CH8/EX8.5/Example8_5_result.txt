@@ -1,0 +1,9 @@
+**Sample Problem 8-5a**
+The total work done is equal to 1.764000e+006J
+
+**Sample Problem 8-5b**
+The total thermal energy generated is equal to 1.764000e+006J
+
+**Sample Problem 8-5c**
+The total work done is equal to 3.920000e+008J
+The total thermal energy generated is equal to 3.920000e+008J

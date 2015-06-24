@@ -1,0 +1,13 @@
+           //EXAMPLE 2-31  PG NO=82
+Z1=20.15+%i*15.18;
+Z2=6.99+%i*17.29;
+Z=Z1+Z2;                  //impedance
+V=230+%i*0;
+I=V/Z;                     //Current
+PF=0.64;                        //Power   Factotr
+S=V*I;                            //Apparent Power
+P=S*PF;                             //Active Power
+disp(' Impedanceis in rectangular form   = '+string(Z)+' ohm');
+disp(' current  is in rectangular form   = '+string(I)+' A');
+disp(' S  is in rectangular form   = '+string(S)+' VA');
+disp(' POWER  is in rectangular form   = '+string(P)+' W');

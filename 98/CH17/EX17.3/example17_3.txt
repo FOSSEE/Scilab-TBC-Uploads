@@ -1,0 +1,21 @@
+% reactance of alternator = 10.00 % 
+
+% reactance of transformer = 10.00 % 
+
+% reactance of transmission line = 40.00 % 
+
+% resistance of transmission line = 10.00 % 
+
+(i) Total % reactance = 60.00 % 
+
+    Total % resistance = 10.00 % 
+
+    % impedance from generator nuetral upto fault point = 60.83 % 
+
+    Short circuit kva = 16440 kVA 
+
+(ii) % impedance from generator nuetral upto fault point = 20.00 % 
+
+     Short circuit kva = 50000 kVA 
+
+

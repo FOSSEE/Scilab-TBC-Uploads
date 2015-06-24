@@ -1,0 +1,78 @@
+-->//(Springs) Example 10.19
+ 
+-->//Difference between the free lengths of the two springs dif (mm)
+ 
+-->dif = 15
+ dif  =
+ 
+    15.  
+ 
+-->//Maximum force acting on the composite spring P (N)
+ 
+-->P = 1000
+ P  =
+ 
+    1000.  
+ 
+-->//Wire diameter of the inner spring d2 (mm)
+ 
+-->d2 = 5
+ d2  =
+ 
+    5.  
+ 
+-->//Mean coil diameter of the inner spring D2 (mm)
+ 
+-->D2 = 30
+ D2  =
+ 
+    30.  
+ 
+-->//Wire diameter of the outer spring d1 (mm)
+ 
+-->d1 = 6
+ d1  =
+ 
+    6.  
+ 
+-->//Mean coil diameter of the outer spring D1 (mm)
+ 
+-->D1 = 36
+ D1  =
+ 
+    36.  
+ 
+-->//Number of active coils in outer spring N1
+ 
+-->N1 = 10
+ N1  =
+ 
+    10.  
+ 
+-->//Number of active coils in inner spring N2
+ 
+-->N2 = 8
+ N2  =
+ 
+    8.  
+ 
+-->//Modulus of rigidity for the spring G (N/mm2)
+ 
+-->G = 81370
+ G  =
+ 
+    81370.  
+ 
+
+Force transmitted by the outer spring(P1) = 706.021471  N
+
+Force transmitted by the inner spring(P2) = 293.978529  N
+
+Compression of the outer spring(delta1) = 24.988839 mm
+
+Compression of the inner spring(delta2) = 9.988839 mm
+
+Maximum torsional shear stress induced in the outer spring(tau1) = 375.305136 N/mm2
+
+Maximum torsional shear stress induced in the inner spring(tau2) = 225.032219 N/mm2
+ 

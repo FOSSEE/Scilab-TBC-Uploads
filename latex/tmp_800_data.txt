@@ -1,0 +1,54 @@
+14#Models for Nonideal Reactors#14.3#clear#14_3.sce#800/CH14/EX14.3/14_3.sce#S##29677
+13#Distributions of Residence Times for Chemical Reactions#13.9#clear#13_9.sce#800/CH13/EX13.9/13_9.sce#S##29676
+13#Distributions of Residence Times for Chemical Reactions#13.8#clear#13_8.sce#800/CH13/EX13.8/13_8.sce#S##29675
+11#External Diffusion Effects on Hetrogeneous Reactions#11.5#clear#11_5.sce#800/CH11/EX11.5/11_5.sce#S##29674
+11#External Diffusion Effects on Hetrogeneous Reactions#11.4#clear#11_4.sce#800/CH11/EX11.4/11_4.sce#S##29673
+11#External Diffusion Effects on Hetrogeneous Reactions#11.3#clear#11_3.sce#800/CH11/EX11.3/11_3.sce#S##29672
+11#External Diffusion Effects on Hetrogeneous Reactions#11.1#clear#11_1.sce#800/CH11/EX11.1/11_1.sce#S##29671
+10#Catalysis and Catalytic Reactors#10.7#clear#10_7.sce#800/CH10/EX10.7/10_7.sce#S##29670
+10#Catalysis and Catalytic Reactors#10.5#clear#10_5.sce#800/CH10/EX10.5/10_5.sce#S##29669
+10#Catalysis and Catalytic Reactors#10.3#clear#10_3.sce#800/CH10/EX10.3/10_3.sce#S##30285
+10#Catalysis and Catalytic Reactors#10.3#clear#10_3.sci#800/DEPENDENCIES/10_3.sci#D#data#922
+10#Catalysis and Catalytic Reactors#1.7#clear#1_7.sce#800/CH10/EX1.7/1_7.sce#S##29667
+9#Unsteady State Nonisothermal Reactor Design#9.8#clear#9_8.sce#800/CH9/EX9.8/9_8.sce#S##29666
+9#Unsteady State Nonisothermal Reactor Design#9.4#clear#9_4.sce#800/CH9/EX9.4/9_4.sce#S##29665
+9#Unsteady State Nonisothermal Reactor Design#9.3#clear#9_3.sce#800/CH9/EX9.3/9_3.sce#S##29664
+9#Unsteady State Nonisothermal Reactor Design#9.2#clear#9_2.sce#800/CH9/EX9.2/9_2.sce#S##29663
+9#Unsteady State Nonisothermal Reactor Design#9.1#clear#9_1.sce#800/CH9/EX9.1/9_1.sce#S##29662
+8#Steady State Nonisothermal Reactor Design#8.9#clear#8_9.sce#800/CH8/EX8.9/8_9.sce#S##29658
+8#Steady State Nonisothermal Reactor Design#8.8#clear#8_8.sce#800/CH8/EX8.8/8_8.sce#S##29657
+8#Steady State Nonisothermal Reactor Design#8.7#clear#8_7.sce#800/CH8/EX8.7/8_7.sce#S##29656
+8#Steady State Nonisothermal Reactor Design#8.6#clear#8_6.sce#800/CH8/EX8.6/8_6.sce#S##29655
+8#Steady State Nonisothermal Reactor Design#8.4#clear#8_4.sce#800/CH8/EX8.4/8_4.sce#S##29654
+8#Steady State Nonisothermal Reactor Design#8.3#clear#8_3.sce#800/CH8/EX8.3/8_3.sce#S##29653
+8#Steady State Nonisothermal Reactor Design#8.12#clear#8_12.sce#800/CH8/EX8.12/8_12.sce#S##29661
+8#Steady State Nonisothermal Reactor Design#8.11#clear#8_11.sce#800/CH8/EX8.11/8_11.sce#S##29660
+8#Steady State Nonisothermal Reactor Design#8.10#clear#8_10.sce#800/CH8/EX8.10/8_10.sce#S##29659
+7#Nonelementary Reaction Kinetics#7.9#clear#7_9.sce#800/CH7/EX7.9/7_9.sce#S##29652
+7#Nonelementary Reaction Kinetics#7.8#clear#7_8.sce#800/CH7/EX7.8/7_8.sce#S##29651
+7#Nonelementary Reaction Kinetics#7.7#clear#7_7.sce#800/CH7/EX7.7/7_7.sce#S##29650
+6#Multiple Reactions#6.8#clear#6_8.sce#800/CH6/EX6.8/6_8.sce#S##29649
+6#Multiple Reactions#6.6#Clear#6_6.sce#800/CH6/EX6.6/6_6.sce#S##29648
+5#Collection and Analysis of Rate Data#5.4#Clear#5_4.sce#800/CH5/EX5.4/5_4.sce#S##29647
+5#Collection and Analysis of Rate Data#5.3#Clear#5_3.sce#800/CH5/EX5.3/5_3.sce#S##29646
+5#Collection and Analysis of Rate Data#5.2#Clear#5_2.sce#800/CH5/EX5.2/5_2.sce#S##29645
+5#Collection and Analysis of Rate Data#5.1#clear#5_1.sce#800/CH5/EX5.1/5_1.sce#S##29644
+4#Isothermal Reactor Design#4.9#clear#4_9.sce#800/CH4/EX4.9/4_9.sce#S##29614
+4#Isothermal Reactor Design#4.8#clear#4_8.sce#800/CH4/EX4.8/4_8.sce#S##29613
+4#Isothermal Reactor Design#4.7#clear#4_7.sce#800/CH4/EX4.7/4_7.sce#S##29612
+4#Isothermal Reactor Design#4.6#clear#4_6.sce#800/CH4/EX4.6/4_6.sce#S##29611
+4#Isothermal Reactor Design#4.5#clear#4_5.sce#800/CH4/EX4.5/4_5.sce#S##29610
+4#Isothermal Reactor Design#4.4#clear#4_4.sce#800/CH4/EX4.4/4_4.sce#S##29609
+4#Isothermal Reactor Design#4.2#clear#4_2.sce#800/CH4/EX4.2/4_2.sce#S##29608
+4#Isothermal Reactor Design#4.11#clear#4_11.sce#800/CH4/EX4.11/4_11.sce#S##29643
+4#Isothermal Reactor Design#4.10#clear#4_10.sce#800/CH4/EX4.10/4_10.sce#S##29615
+4#Isothermal Reactor Design#4.1#clear#4_1.sce#800/CH4/EX4.1/4_1.sce#S##29607
+3#Rate Laws and Stoichiometry#3.5#clear#3_5.sce#800/CH3/EX3.5/3_5.sce#S##29606
+2#Conversion and Reactor Sizing#2.7#clear#2_7.sce#800/CH2/EX2.7/2_7.sce#S##29605
+2#Conversion and Reactor Sizing#2.6#clear#2_6.sci#800/CH2/EX2.6/2_6.sci#S##29604
+2#Conversion and Reactor Sizing#2.5#clear#2_5.sce#800/CH2/EX2.5/2_5.sce#S##29603
+2#Conversion and Reactor Sizing#2.4#clear#2_4.sce#800/CH2/EX2.4/2_4.sce#S##29602
+2#Conversion and Reactor Sizing#2.3#clear#2_3.sce#800/CH2/EX2.3/2_3.sce#S##29601
+2#Conversion and Reactor Sizing#2.2#clear#2_2.sce#800/CH2/EX2.2/2_2.sce#S##29600
+2#Conversion and Reactor Sizing#2.1#clear#2_1.sce#800/CH2/EX2.1/2_1.sce#S##29599
+1#Mole Balances#1.3#clear#1_3.sce#800/CH1/EX1.3/1_3.sce#S##29598

@@ -1,0 +1,4 @@
+ Minimum voltage needed (in Volts) =   
+ 
+    1.65  
+ 

@@ -1,0 +1,178 @@
+13#Superconductivity#13.2#temperature and critical current density at the temperature#Ex13_2.sce#2780/CH13/EX13.2/Ex13_2.sce#S##101111
+13#Superconductivity#13.1#value of T#Ex13_1.sce#2780/CH13/EX13.1/Ex13_1.sce#S##101110
+12#Electromagnetics#12.9#amplitudes of electric and magnetic fields#Ex12_9.sce#2780/CH12/EX12.9/Ex12_9.sce#S##101113
+12#Electromagnetics#12.8#average values of intensities#Ex12_8.sce#2780/CH12/EX12.8/Ex12_8.sce#S##101112
+12#Electromagnetics#12.7#increase in radius#Ex12_7.sce#2780/CH12/EX12.7/Ex12_7.sce#S##101109
+12#Electromagnetics#12.6#charge#Ex12_6.sce#2780/CH12/EX12.6/Ex12_6.sce#S##101108
+12#Electromagnetics#12.5#force per unit area#Ex12_5.sce#2780/CH12/EX12.5/Ex12_5.sce#S##101107
+12#Electromagnetics#12.4#separation between the equipotential surfaces#Ex12_4.sce#2780/CH12/EX12.4/Ex12_4.sce#S##101106
+12#Electromagnetics#12.3#electric field #Ex12_3.sce#2780/CH12/EX12.3/Ex12_3.sce#S##101105
+12#Electromagnetics#12.2#electric field #Ex12_2.sce#2780/CH12/EX12.2/Ex12_2.sce#S##101104
+12#Electromagnetics#12.14#conduction current and displacement current densities#Ex12_14.sce#2780/CH12/EX12.14/Ex12_14.sce#S##101117
+12#Electromagnetics#12.13#penetration depth#Ex12_13.sce#2780/CH12/EX12.13/Ex12_13.sce#S##107403
+12#Electromagnetics#12.12#frequency and show that frequencies can be considered as good conductor#Ex12_12.sce#2780/CH12/EX12.12/Ex12_12.sce#S##101115
+12#Electromagnetics#12.11#skin depth#Ex12_11.sce#2780/CH12/EX12.11/Ex12_11.sce#S##101114
+12#Electromagnetics#12.1#electric flux and flux #Ex12_1.sce#2780/CH12/EX12.1/Ex12_1.sce#S##107400
+11#Ultrasonics#11.1#fundamental frequency #Ex11_1.sce#2780/CH11/EX11.1/Ex11_1.sce#S##101102
+10#Magnetic Properties of Materials#10.7#magnetising current#Ex10_7.sce#2780/CH10/EX10.7/Ex10_7.sce#S##101101
+10#Magnetic Properties of Materials#10.6#relative permeability #Ex10_6.sce#2780/CH10/EX10.6/Ex10_6.sce#S##101100
+10#Magnetic Properties of Materials#10.5#number of ampere turns #Ex10_5.sce#2780/CH10/EX10.5/Ex10_5.sce#S##101099
+10#Magnetic Properties of Materials#10.4#flux density and magnetic intensity and permeability#Ex10_4.sce#2780/CH10/EX10.4/Ex10_4.sce#S##101098
+10#Magnetic Properties of Materials#10.3#magnetic moment of rod#Ex10_3.sce#2780/CH10/EX10.3/Ex10_3.sce#S##101097
+10#Magnetic Properties of Materials#10.2#current#Ex10_2.sce#2780/CH10/EX10.2/Ex10_2.sce#S##101096
+10#Magnetic Properties of Materials#10.1#permeability and susceptibility of bar#Ex10_1.sce#2780/CH10/EX10.1/Ex10_1.sce#S##107414
+9#Dielectric Properties of Materials#9.3#resultant voltage #Ex9_3.sce#2780/CH9/EX9.3/Ex9_3.sce#S##101094
+9#Dielectric Properties of Materials#9.2#charge on capacitor#Ex9_2.sce#2780/CH9/EX9.2/Ex9_2.sce#S##101093
+9#Dielectric Properties of Materials#9.1#dielectric constant of liquid#Ex9_1.sce#2780/CH9/EX9.1/Ex9_1.sce#S##101092
+8#X Rays#8.9#wavelength of X Rays#Ex8_9.sce#2780/CH8/EX8.9/Ex8_9.sce#S##101084
+8#X Rays#8.8#atomic number#Ex8_8.sce#2780/CH8/EX8.8/Ex8_8.sce#S##101083
+8#X Rays#8.7#thickness #Ex8_7.sce#2780/CH8/EX8.7/Ex8_7.sce#S##101082
+8#X Rays#8.6#wavelength#Ex8_6.sce#2780/CH8/EX8.6/Ex8_6.sce#S##101081
+8#X Rays#8.5#spacing of crystal#Ex8_5.sce#2780/CH8/EX8.5/Ex8_5.sce#S##101080
+8#X Rays#8.4#longest wavelength#Ex8_4.sce#2780/CH8/EX8.4/Ex8_4.sce#S##101079
+8#X Rays#8.3#number of electrons and speed#Ex8_3.sce#2780/CH8/EX8.3/Ex8_3.sce#S##101078
+8#X Rays#8.2#maximum frequency#Ex8_2.sce#2780/CH8/EX8.2/Ex8_2.sce#S##101077
+8#X Rays#8.16#wavelength of two X Rays and maximum wavelength present in the scattered X Rays and maximum kinetic energy#Ex8_16.sce#2780/CH8/EX8.16/Ex8_16.sce#S##101091
+8#X Rays#8.15#wavelength and direction of electron#Ex8_15.sce#2780/CH8/EX8.15/Ex8_15.sce#S##101090
+8#X Rays#8.14#wavelength and energy of photon#Ex8_14.sce#2780/CH8/EX8.14/Ex8_14.sce#S##101089
+8#X Rays#8.13#Compton shift and wavelength and fraction of energy lost#Ex8_13.sce#2780/CH8/EX8.13/Ex8_13.sce#S##101088
+8#X Rays#8.12#possible spacing of the set of planes#Ex8_12.sce#2780/CH8/EX8.12/Ex8_12.sce#S##101087
+8#X Rays#8.11#wavelength of X Ray used#Ex8_11.sce#2780/CH8/EX8.11/Ex8_11.sce#S##101086
+8#X Rays#8.10#wavelength of second X Ray beam#Ex8_10.sce#2780/CH8/EX8.10/Ex8_10.sce#S##101085
+8#X Rays#8.1#value of plancks constant#Ex8_1.sce#2780/CH8/EX8.1/Ex8_1.sce#S##101076
+7#Wave Mechanics#7.9#energy of neutron#Ex7_9.sce#2780/CH7/EX7.9/Ex7_9.sce#S##101057
+7#Wave Mechanics#7.7#de broglie wavelength of electron#Ex7_7.sce#2780/CH7/EX7.7/Ex7_7.sce#S##101056
+7#Wave Mechanics#7.6#wavelength of electron#Ex7_6.sce#2780/CH7/EX7.6/Ex7_6.sce#S##101055
+7#Wave Mechanics#7.5#Kinetic energy of electron#Ex7_5.sce#2780/CH7/EX7.5/Ex7_5.sce#S##101054
+7#Wave Mechanics#7.4#wavelength#Ex7_4.sce#2780/CH7/EX7.4/Ex7_4.sce#S##101053
+7#Wave Mechanics#7.31#frequency of vibration#Ex7_31.sce#2780/CH7/EX7.31/Ex7_31.sce#S##101075
+7#Wave Mechanics#7.30#zero point energy#Ex7_30.sce#2780/CH7/EX7.30/Ex7_30.sce#S##101074
+7#Wave Mechanics#7.29#zero point energy#Ex7_29.sce#2780/CH7/EX7.29/Ex7_29.sce#S##101073
+7#Wave Mechanics#7.28#energy of neutron#Ex7_28.sce#2780/CH7/EX7.28/Ex7_28.sce#S##101072
+7#Wave Mechanics#7.26#probability of particle#Ex7_26.sce#2780/CH7/EX7.26/Ex7_26.sce#S##101071
+7#Wave Mechanics#7.24#energy of electron#Ex7_24.sce#2780/CH7/EX7.24/Ex7_24.sce#S##107399
+7#Wave Mechanics#7.22#probability of finding the particle#Ex7_22.sce#2780/CH7/EX7.22/Ex7_22.sce#S##101069
+7#Wave Mechanics#7.20#uncertainity in frequency and energy of electron #Ex7_20.sce#2780/CH7/EX7.20/Ex7_20.sce#S##101068
+7#Wave Mechanics#7.2#de broglie wavelength#Ex7_2.sce#2780/CH7/EX7.2/Ex7_2.sce#S##101052
+7#Wave Mechanics#7.19#uncertainity in velocity#Ex7_19.sce#2780/CH7/EX7.19/Ex7_19.sce#S##101067
+7#Wave Mechanics#7.18#uncertainity in momentum and kinetic energy of the nucleon#Ex7_18.sce#2780/CH7/EX7.18/Ex7_18.sce#S##107398
+7#Wave Mechanics#7.17#time required for the atomic system#Ex7_17.sce#2780/CH7/EX7.17/Ex7_17.sce#S##101065
+7#Wave Mechanics#7.16#minimum error #Ex7_16.sce#2780/CH7/EX7.16/Ex7_16.sce#S##101064
+7#Wave Mechanics#7.15#uncertainity in frequency  #Ex7_15.sce#2780/CH7/EX7.15/Ex7_15.sce#S##101063
+7#Wave Mechanics#7.14#uncertainity in position of electron#Ex7_14.sce#2780/CH7/EX7.14/Ex7_14.sce#S##101062
+7#Wave Mechanics#7.13#uncertainity in momentum and velocity of electron and alpha particle#Ex7_13.sce#2780/CH7/EX7.13/Ex7_13.sce#S##101061
+7#Wave Mechanics#7.12#uncertainity in velocity#Ex7_12.sce#2780/CH7/EX7.12/Ex7_12.sce#S##101060
+7#Wave Mechanics#7.11#uncertainity in position of electron#Ex7_11.sce#2780/CH7/EX7.11/Ex7_11.sce#S##101059
+7#Wave Mechanics#7.10#wavelength and number of photons#Ex7_10.sce#2780/CH7/EX7.10/Ex7_10.sce#S##101058
+7#Wave Mechanics#7.1#de broglie wavelength#Ex7_1.sce#2780/CH7/EX7.1/Ex7_1.sce#S##101051
+6#Fiber optics and Holography#6.5#maximum and minimum value of phase constant#Ex6_5.sce#2780/CH6/EX6.5/Ex6_5.sce#S##101050
+6#Fiber optics and Holography#6.4#cutoff wavelength #Ex6_4.sce#2780/CH6/EX6.4/Ex6_4.sce#S##101049
+6#Fiber optics and Holography#6.3#refractive index and normalised frequency and total number of guided modes in the fibre#Ex6_3.sce#2780/CH6/EX6.3/Ex6_3.sce#S##101048
+6#Fiber optics and Holography#6.2#numerical aperture and critical angle#Ex6_2.sce#2780/CH6/EX6.2/Ex6_2.sce#S##101047
+6#Fiber optics and Holography#6.1#critical angle and acceptance angle and numerical aperture and percentage of light collected#Ex6_1.sce#2780/CH6/EX6.1/Ex6_1.sce#S##101046
+5#Lasers#5.4#area and intensity of image#Ex5_4.sce#2780/CH5/EX5.4/Ex5_4.sce#S##101045
+5#Lasers#5.3#number of oscillations and coherence time#Ex5_3.sce#2780/CH5/EX5.3/Ex5_3.sce#S##101044
+5#Lasers#5.2#angular spread and areal spread#Ex5_2.sce#2780/CH5/EX5.2/Ex5_2.sce#S##101043
+5#Lasers#5.1#area of spot on the moon#Ex5_1.sce#2780/CH5/EX5.1/Ex5_1.sce#S##101042
+4#Polarisation#4.9#strength of solution#Ex4_9.sce#2780/CH4/EX4.9/Ex4_9.sce#S##101035
+4#Polarisation#4.8#specific rotation#Ex4_8.sce#2780/CH4/EX4.8/Ex4_8.sce#S##101034
+4#Polarisation#4.7#angle of rotation#Ex4_7.sce#2780/CH4/EX4.7/Ex4_7.sce#S##101033
+4#Polarisation#4.6#thickness of doubly refracting plate#Ex4_6.sce#2780/CH4/EX4.6/Ex4_6.sce#S##101032
+4#Polarisation#4.5#thickness of quarter wave plate#Ex4_5.sce#2780/CH4/EX4.5/Ex4_5.sce#S##101031
+4#Polarisation#4.4#thickness of half wave plate#Ex4_4.sce#2780/CH4/EX4.4/Ex4_4.sce#S##101030
+4#Polarisation#4.3#polarising angle and angle of refraction#Ex4_3.sce#2780/CH4/EX4.3/Ex4_3.sce#S##101029
+4#Polarisation#4.2#angle of refraction#Ex4_2.sce#2780/CH4/EX4.2/Ex4_2.sce#S##101028
+4#Polarisation#4.15#percentage purity of sugar sample#Ex4_15.sce#2780/CH4/EX4.15/Ex4_15.sce#S##101041
+4#Polarisation#4.14#rotation of plane of polarisation #Ex4_14.sce#2780/CH4/EX4.14/Ex4_14.sce#S##101040
+4#Polarisation#4.13#length of solution#Ex4_13.sce#2780/CH4/EX4.13/Ex4_13.sce#S##101039
+4#Polarisation#4.12#specific rotation#Ex4_12.sce#2780/CH4/EX4.12/Ex4_12.sce#S##101038
+4#Polarisation#4.11#optical rotation#Ex4_11.sce#2780/CH4/EX4.11/Ex4_11.sce#S##101037
+4#Polarisation#4.10#difference in the refractive indices#Ex4_10.sce#2780/CH4/EX4.10/Ex4_10.sce#S##101036
+4#Polarisation#4.1#compare intensities#Ex4_1.sce#2780/CH4/EX4.1/Ex4_1.sce#S##101027
+3#Diffraction#3.9#distances#Ex3_9.sce#2780/CH3/EX3.9/Ex3_9.sce#S##100997
+3#Diffraction#3.8#angle#Ex3_8.sce#2780/CH3/EX3.8/Ex3_8.sce#S##100996
+3#Diffraction#3.7#half angular width#Ex3_7.sce#2780/CH3/EX3.7/Ex3_7.sce#S##100995
+3#Diffraction#3.6#values of lambda1 and lambda2#Ex3_6.sce#2780/CH3/EX3.6/Ex3_6.sce#S##100994
+3#Diffraction#3.4#wavelength of incident light#Ex3_4.sce#2780/CH3/EX3.4/Ex3_4.sce#S##100993
+3#Diffraction#3.39#resolving power and smallest wavelength#Ex3_39.sce#2780/CH3/EX3.39/Ex3_39.sce#S##101026
+3#Diffraction#3.38#resolving power of grating and smallest wavelength difference#Ex3_38.sce#2780/CH3/EX3.38/Ex3_38.sce#S##101025
+3#Diffraction#3.37#resolving limit of microscope#Ex3_37.sce#2780/CH3/EX3.37/Ex3_37.sce#S##101024
+3#Diffraction#3.36#limit of resolution of telescope#Ex3_36.sce#2780/CH3/EX3.36/Ex3_36.sce#S##101023
+3#Diffraction#3.35#smallest angle between two stars#Ex3_35.sce#2780/CH3/EX3.35/Ex3_35.sce#S##101022
+3#Diffraction#3.34#diameter of a telescope objective#Ex3_34.sce#2780/CH3/EX3.34/Ex3_34.sce#S##101021
+3#Diffraction#3.33#distance between the centres of the images of two stars#Ex3_33.sce#2780/CH3/EX3.33/Ex3_33.sce#S##101020
+3#Diffraction#3.32#will the telescope be able to observe the wiremesh#Ex3_32.sce#2780/CH3/EX3.32/Ex3_32.sce#S##101019
+3#Diffraction#3.31#minimum number of lines#Ex3_31.sce#2780/CH3/EX3.31/Ex3_31.sce#S##101018
+3#Diffraction#3.30#maximum resolving power#Ex3_30.sce#2780/CH3/EX3.30/Ex3_30.sce#S##101017
+3#Diffraction#3.3#width of slit#Ex3_3.sce#2780/CH3/EX3.3/Ex3_3.sce#S##100992
+3#Diffraction#3.29#resolving power#Ex3_29.sce#2780/CH3/EX3.29/Ex3_29.sce#S##101016
+3#Diffraction#3.28#numerical aperture#Ex3_28.sce#2780/CH3/EX3.28/Ex3_28.sce#S##101015
+3#Diffraction#3.27#separation of two points on the moon#Ex3_27.sce#2780/CH3/EX3.27/Ex3_27.sce#S##101014
+3#Diffraction#3.26#aperture #Ex3_26.sce#2780/CH3/EX3.26/Ex3_26.sce#S##101013
+3#Diffraction#3.25#difference in wavelenghts#Ex3_25.sce#2780/CH3/EX3.25/Ex3_25.sce#S##101012
+3#Diffraction#3.24#orders#Ex3_24.sce#2780/CH3/EX3.24/Ex3_24.sce#S##101011
+3#Diffraction#3.23#dispersive power#Ex3_23.sce#2780/CH3/EX3.23/Ex3_23.sce#S##101010
+3#Diffraction#3.22#difference in two wavelenghts#Ex3_22.sce#2780/CH3/EX3.22/Ex3_22.sce#S##101009
+3#Diffraction#3.21#angle of diffraction and absent spectra#Ex3_21.sce#2780/CH3/EX3.21/Ex3_21.sce#S##101008
+3#Diffraction#3.20#grating element#Ex3_20.sce#2780/CH3/EX3.20/Ex3_20.sce#S##101007
+3#Diffraction#3.2#wavelength of light#Ex3_2.sce#2780/CH3/EX3.2/Ex3_2.sce#S##100991
+3#Diffraction#3.19#spectral line#Ex3_19.sce#2780/CH3/EX3.19/Ex3_19.sce#S##101006
+3#Diffraction#3.18#number of lines in one centimeter#Ex3_18.sce#2780/CH3/EX3.18/Ex3_18.sce#S##101005
+3#Diffraction#3.17#angle of diffraction#Ex3_17.sce#2780/CH3/EX3.17/Ex3_17.sce#S##101004
+3#Diffraction#3.15#orders of spectrum#Ex3_15.sce#2780/CH3/EX3.15/Ex3_15.sce#S##101003
+3#Diffraction#3.14#number of lines per cm#Ex3_14.sce#2780/CH3/EX3.14/Ex3_14.sce#S##101002
+3#Diffraction#3.13#orders#Ex3_13.sce#2780/CH3/EX3.13/Ex3_13.sce#S##101001
+3#Diffraction#3.12#difference in deviations#Ex3_12.sce#2780/CH3/EX3.12/Ex3_12.sce#S##101000
+3#Diffraction#3.11#wavelength of spectral line#Ex3_11.sce#2780/CH3/EX3.11/Ex3_11.sce#S##100999
+3#Diffraction#3.10#wavelength of light and missing orders#Ex3_10.sce#2780/CH3/EX3.10/Ex3_10.sce#S##100998
+3#Diffraction#3.1#angular width and linear width#Ex3_1.sce#2780/CH3/EX3.1/Ex3_1.sce#S##107397
+2#interference#2.9#wavelength of light#Ex2_9.sce#2780/CH2/EX2.9/Ex2_9.sce#S##95172
+2#interference#2.8#fringe width#Ex2_8.sce#2780/CH2/EX2.8/Ex2_8.sce#S##95171
+2#interference#2.7#distance between two coherent sources#Ex2_7.sce#2780/CH2/EX2.7/Ex2_7.sce#S##95170
+2#interference#2.5#relative intensities#Ex2_5.sce#2780/CH2/EX2.5/Ex2_5.sce#S##95169
+2#interference#2.4#ratio of intensity#Ex2_4.sce#2780/CH2/EX2.4/Ex2_4.sce#S##95168
+2#interference#2.30#difference of square of diameters#Ex2_30.sce#2780/CH2/EX2.30/Ex2_30.sce#S##95300
+2#interference#2.3#ratio of intensity#Ex2_3.sce#2780/CH2/EX2.3/Ex2_3.sce#S##95167
+2#interference#2.29#diameter of ring#Ex2_29.sce#2780/CH2/EX2.29/Ex2_29.sce#S##95299
+2#interference#2.28#diameter of ring#Ex2_28.sce#2780/CH2/EX2.28/Ex2_28.sce#S##95298
+2#interference#2.27#radius and thickness#Ex2_27.sce#2780/CH2/EX2.27/Ex2_27.sce#S##95297
+2#interference#2.26#distance#Ex2_26.sce#2780/CH2/EX2.26/Ex2_26.sce#S##95296
+2#interference#2.25#radius and thickness#Ex2_25.sce#2780/CH2/EX2.25/Ex2_25.sce#S##95295
+2#interference#2.24#refractive index of liquid#Ex2_24.sce#2780/CH2/EX2.24/Ex2_24.sce#S##95294
+2#interference#2.23#wavelength of light#Ex2_23.sce#2780/CH2/EX2.23/Ex2_23.sce#S##95293
+2#interference#2.22#wavelength of light#Ex2_22.sce#2780/CH2/EX2.22/Ex2_22.sce#S##95292
+2#interference#2.21#angle of wedge#Ex2_21.sce#2780/CH2/EX2.21/Ex2_21.sce#S##95291
+2#interference#2.20#thickness of film#Ex2_20.sce#2780/CH2/EX2.20/Ex2_20.sce#S##95290
+2#interference#2.2#ratio of intensity#Ex2_2.sce#2780/CH2/EX2.2/Ex2_2.sce#S##95166
+2#interference#2.19#thickness of film#Ex2_19.sce#2780/CH2/EX2.19/Ex2_19.sce#S##95289
+2#interference#2.18#least thickness#Ex2_18.sce#2780/CH2/EX2.18/Ex2_18.sce#S##95288
+2#interference#2.17#thickness of plate#Ex2_17.sce#2780/CH2/EX2.17/Ex2_17.sce#S##95287
+2#interference#2.16#refractive index and order and distance and wavelength and fringe width and thickness#Ex2_16.sce#2780/CH2/EX2.16/Ex2_16.sce#S##95286
+2#interference#2.15#distance#Ex2_15.sce#2780/CH2/EX2.15/Ex2_15.sce#S##95178
+2#interference#2.14#spacing between slits#Ex2_14.sce#2780/CH2/EX2.14/Ex2_14.sce#S##95177
+2#interference#2.13#intensity and lateral shift#Ex2_13.sce#2780/CH2/EX2.13/Ex2_13.sce#S##95176
+2#interference#2.12#refrctive index of mica#Ex2_12.sce#2780/CH2/EX2.12/Ex2_12.sce#S##95175
+2#interference#2.11#refractive index of sheet#Ex2_11.sce#2780/CH2/EX2.11/Ex2_11.sce#S##95174
+2#interference#2.10#thickness of glass plate#Ex2_10.sce#2780/CH2/EX2.10/Ex2_10.sce#S##95173
+1#Relativistic Mechanics#1.9#distance travelled by beam#Ex1_9.sce#2780/CH1/EX1.9/Ex1_9.sce#S##95149
+1#Relativistic Mechanics#1.8#speed of clock#Ex1_8.sce#2780/CH1/EX1.8/Ex1_8.sce#S##95146
+1#Relativistic Mechanics#1.7#velocity of circular lamina#Ex1_7.sce#2780/CH1/EX1.7/Ex1_7.sce#S##95145
+1#Relativistic Mechanics#1.4#percentage contraction of rod#Ex1_4.sce#2780/CH1/EX1.4/Ex1_4.sce#S##95144
+1#Relativistic Mechanics#1.27#speed and mass of electron#Ex1_27.sce#2780/CH1/EX1.27/Ex1_27.sce#S##95164
+1#Relativistic Mechanics#1.26#proton gain in mass#Ex1_26.sce#2780/CH1/EX1.26/Ex1_26.sce#S##95163
+1#Relativistic Mechanics#1.25#kinetic energy and momentum of electron#Ex1_25.sce#2780/CH1/EX1.25/Ex1_25.sce#S##95162
+1#Relativistic Mechanics#1.24#velocity#Ex1_24.sce#2780/CH1/EX1.24/Ex1_24.sce#S##95161
+1#Relativistic Mechanics#1.23#speed of rocket and electron#Ex1_23.sce#2780/CH1/EX1.23/Ex1_23.sce#S##95160
+1#Relativistic Mechanics#1.22#speed#Ex1_22.sce#2780/CH1/EX1.22/Ex1_22.sce#S##95159
+1#Relativistic Mechanics#1.21#work to be done#Ex1_21.sce#2780/CH1/EX1.21/Ex1_21.sce#S##95158
+1#Relativistic Mechanics#1.20#mass and speed of an electron#Ex1_20.sce#2780/CH1/EX1.20/Ex1_20.sce#S##95157
+1#Relativistic Mechanics#1.2#velocity of rocket#Ex1_2.sce#2780/CH1/EX1.2/Ex1_2.sce#S##95143
+1#Relativistic Mechanics#1.19#velocity of particle#Ex1_19.sce#2780/CH1/EX1.19/Ex1_19.sce#S##95156
+1#Relativistic Mechanics#1.18#mass and momentum and total energy and kinetic energy#Ex1_18.sce#2780/CH1/EX1.18/Ex1_18.sce#S##95155
+1#Relativistic Mechanics#1.17#resultant velocity#Ex1_17.sce#2780/CH1/EX1.17/Ex1_17.sce#S##95154
+1#Relativistic Mechanics#1.14#velocity in laboratory frame#Ex1_14.sce#2780/CH1/EX1.14/Ex1_14.sce#S##95153
+1#Relativistic Mechanics#1.13#velocity of B with respect to A#Ex1_13.sce#2780/CH1/EX1.13/Ex1_13.sce#S##95152
+1#Relativistic Mechanics#1.12#velocity of beta particle#Ex1_12.sce#2780/CH1/EX1.12/Ex1_12.sce#S##95151
+1#Relativistic Mechanics#1.11#speed#Ex1_11.sce#2780/CH1/EX1.11/Ex1_11.sce#S##95150
+1#Relativistic Mechanics#1.10#distance travelled by particle#Ex1_10.sce#2780/CH1/EX1.10/Ex1_10.sce#S##95148
+1#Relativistic Mechanics#1.1#length of the bar#Ex1_1.sce#2780/CH1/EX1.1/Ex1_1.sce#S##95142

@@ -1,0 +1,8 @@
+Reserve capacity = 50 MW 
+
+Units generated per annum = 1314000000 kWh 
+Annaul fixed charges = Rs. 100000000 
+Annual running charges = Rs. 90000000 
+Total annual charges = Rs. 190000000 
+Cost per kWh = Rs. 0.145 
+

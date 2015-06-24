@@ -1,0 +1,115 @@
+ ans  =
+ 
+    1.  
+ 
+ 
+-->exec('Example3.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            24   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 3    :    Show the effect of changing the childs environment and check its effect in parent 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat childenv.c      # to open the file emp.lst /* Program: childenv.c -- Changes child's environment and then checks the effect in parent*/
+#include <stdio.h>
+#include <sys/types.h>
+#define PATH_LENGTH 30
+
+int main(void) {
+    pid_t pid;
+    int x = 100;
+    char newdir[PATH_LENGTH + 1]; /* Additional space required for \0*/
+    
+    getcwd(newdir, PATH_LENGTH);  /* Get current directory before fork */
+    printf("BEFORE FORK -- Current directory: %s\n", newdir);
+    
+    pid = fork ();
+    switch (pid) {
+        case -1:
+        perror("fork");
+        exit(1);                /*for error*/
+        case 0:  /*Child*/
+        printf("CHILD -- Inherited value of x: %d\n", x);
+        x=200;
+        printf("CHILD -- Changed value of x: %d\n", x);
+        printf("CHILD -- Inherited value of PATH: %s\n", getenv("PATH"));
+        setenv("PATH",".", 1);   /* Change PATH here; use putenv("PATH=.") */
+                                 /* if setenv() not supported */
+        printf("CHILD -- New value of PATH: %s\n", getenv("PATH"));
+        if (chdir("/etc") != -) {       /* "cd" to /etc */
+        getcwd(newdir, PATH_LENGTH);    /* Do a "pwd" */
+        printf("CHILD -- Current directory changed to: %s\n",newdir);
+        }
+        break;
+        exit(0);
+        default:/* Parent */
+        sleep(2);                      /* Allow child to complete */
+        getcwd(newdir, PATH_LENGTH);    /*Getting new directory */
+        printf("PARENT -- Value of x after change by child: %d\n",x);
+        printf("PARENT -- Current directory is still: %s\n", newdir);
+        printf("PARENT -- Value of PATH is unchanged: %s\n",getenv("PATH"));
+        exit(0);
+}
+}
+ $ cc childenv.c $ a.out BEFORE FORK -- Current directory: /users1/home/staff/sumit
+CHILD -- Inherited value of x: 100
+CHILD -- Changed value of x:200
+CHILD -- Inherited value of PATH: /usr/bin::/usr/local/bin:/usr/ccs/bin
+CHILD -- New value of PATH: .
+CHILD -- Current directory changed to: /etc
+PARENT -- Value of x after change to child: 100
+PARENT -- Current directory is still: /users1/home/staff/sumit
+PARENT -- Value of PATH is unchanged: /usr/bin::/usr/local/bin::/usr/ccs/bin 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+ 
+-->diary(0)

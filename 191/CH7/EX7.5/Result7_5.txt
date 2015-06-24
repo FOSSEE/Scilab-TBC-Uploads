@@ -1,0 +1,34 @@
+  
+ Integral 0 to 2 exp(x)dx   
+ 
+ yn(0) =    
+ 
+    0.87725  
+ 
+ yn(i)   
+ 
+    0.87739  
+ 
+ yn(i)   
+ 
+    0.87738  
+ 
+ yn(0) =    
+ 
+    0.84571  
+ 
+ yn(i)   
+ 
+    0.84581  
+ 
+ yn(i)   
+ 
+    0.84581  
+ 
+ The exact value is of y(0.2):    
+ 
+    0.84579  
+ 
+ The error is :   
+ 
+  - 0.00001  

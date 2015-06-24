@@ -1,0 +1,10 @@
+ 
+ Example 11.1
+ Part A:
+ Shape factor for spherical particle is 6
+
+ Part B:
+ Shape factor for cubic particle is 7.44
+
+ Part C:
+ Shape factor for cylindrical particle is 7.21 

@@ -1,0 +1,5 @@
+ # PROBLEM 17 # 
+Standard formula used 
+   N =H*l 
+
+ Number of turns are 7.692308

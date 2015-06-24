@@ -1,0 +1,4 @@
+**Sample Problem 24-2**
+The flux through the top face is equal to 16.000000N.m^2/C
+The flux through the left face is equal to -12.000000N.m^2/C
+The flux through the right face is equal to 36.000000N.m^2/C 

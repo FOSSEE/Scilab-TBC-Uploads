@@ -1,0 +1,6 @@
+ For Germanium:
+(a)Concentration of holes is 3.47e+017 cm^-3
+(b)Concentration of electrons is 1.80e+009 m^-3
+For Silicon:
+(c)Concentration of electrons is 4.81e+014 cm^-3
+(d)Concentration of holes is 4.68e+005 m^-3 

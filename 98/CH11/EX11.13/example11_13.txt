@@ -1,0 +1,10 @@
+d1 = 5.625 cm 
+
+Radial thickness of inner dielectric = 1.312 cm 
+
+Radial thickness of outer dielectric = 1.688 cm 
+
+Permissible peak voltage for the cable = 54.725 kV 
+Safe working rms voltage for the cable = 38.696 kV 
+
+

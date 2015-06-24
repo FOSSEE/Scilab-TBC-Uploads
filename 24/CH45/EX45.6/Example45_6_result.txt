@@ -1,0 +1,2 @@
+**Sample Problem 45-6**
+The quasar is approx at a distance of 1.450777e+010ly

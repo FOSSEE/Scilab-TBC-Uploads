@@ -1,0 +1,19 @@
+                   //EXAMPLE 2-69   PG NO-110
+F=50;
+L=0.6;
+R=100;
+XL=(%pi*2*F*L)
+disp('i)  INDUCTANCE (XL) is    =  '+string (XL) +' ohm ');
+V=230+%i*0;
+IR=V/R;
+disp('ii)  CURRENT (IR) is  in polar form  =  '+string (IR) +' A ');
+IL=V/(0+%i*XL);
+disp('iii)  CURRENT (IL) is  in polar form  =  '+string (IL) +' A ');
+I=IR+IL;
+disp('iv)  CURRENT (I) is  in polar form  =  '+string (I) +' A ');
+P=V*I*cos(degree(27.9));
+disp('v)  POWER (P) is  in polar form  =  '+string (P) +' W ');
+Z=V/I;
+disp('vi)  IMPEDANCE (Z) is    =  '+string (Z) +' ohm ');
+LEQ=41.39/(2*%pi*F);
+disp('ii)  INDUCTANCE (LEQ) is    =  '+string (LEQ) +' H ');

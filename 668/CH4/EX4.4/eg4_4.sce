@@ -1,0 +1,11 @@
+Na = 10^19;
+Nd = 10^16;
+E1 = 4*10^5;
+E2 = 10^7;
+eps0 = 8.84*10^-14; //in F/m
+eps = 11.9*eps0;
+q = 1.6*10^-19;
+V1 = eps*E1^2/(2*Nd*q);
+disp(V1,"breakdown voltage for Si = ")
+V2 = eps*E2^2/(2*Nd*q);
+disp(V2,"breakdown voltage for diamond = ")

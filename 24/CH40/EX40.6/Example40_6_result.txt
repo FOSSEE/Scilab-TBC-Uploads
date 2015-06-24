@@ -1,0 +1,5 @@
+**Sample Prblem 40-6a**
+The wavelength of the least energetic photon in lyman series is 121.69nm
+
+**Sample Prblem 40-6b**
+The wavelength of the lyman series limit is 91.27nm

@@ -1,0 +1,2 @@
+	 total power of modulated signal = 640.625000 W  
+ Execution done.

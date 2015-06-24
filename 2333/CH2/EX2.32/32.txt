@@ -1,0 +1,6 @@
+# PROBLEM 32 # 
+
+ Standard formula used 
+ D_m^2 -D_n^2 = 4*p*r*lambda
+
+ Diameter of 20th ring is 0.905539 cm

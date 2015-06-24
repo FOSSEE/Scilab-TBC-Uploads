@@ -1,0 +1,7 @@
+  
+ Ex-9.6(a)   
+The frequency of the radiation is 8.647e+013.
+The force constant is 2.893e+029.
+ 
+ Ex-9.6(b)   
+The spacing was found out to be 0.002624 which is very close to the graphical value of 0.0026 eV. 

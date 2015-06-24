@@ -1,0 +1,11 @@
+ 
+ # Material Removal Rate , Power required and Cutting Time in slab milling # 
+
+
+ Material Removal Rate = 10 in^3/min
+
+ Cutting power=11 hp
+
+ Cutting torque=578 lb-ft
+
+ Cutting time=37.500000 sec 

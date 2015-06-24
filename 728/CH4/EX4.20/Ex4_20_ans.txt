@@ -1,0 +1,4 @@
+  
+ Maximum power for rectangular waveguide (in kilowatts)=   
+ 
+    11.934  

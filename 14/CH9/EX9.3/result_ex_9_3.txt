@@ -1,0 +1,21 @@
+ Voltage at bus 1,V1 in per unit   
+ 
+    1.04 + 0.16i  
+ 
+ Voltage at bus 2,V2 in per unit   
+ 
+    1.024 + 0.096i  
+ 
+ Transmission Loss Co-efficients   
+ 
+ B11 in per unit   
+ 
+    0.0541908  
+ 
+ B12 in per unit   
+ 
+    0.0184806  
+ 
+ B22 in per unit   
+ 
+    0.0472683  

@@ -1,0 +1,4 @@
+For example 14.13, 
+the answer given in the book is partial pressure of CO2 as 0.0012
+But,I am getting partial pressure of CO2 as 5.787e-009 atm.
+There might be some calculation mistake in the book.

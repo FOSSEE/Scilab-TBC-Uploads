@@ -1,0 +1,4 @@
+(a)Id = 14.9 mA and 4.3 mA
+We consider only 4.3mA
+(b)Vgs = -2.15 V
+(c)Vds = 6.33 V 

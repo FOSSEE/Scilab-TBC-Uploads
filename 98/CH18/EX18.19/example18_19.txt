@@ -1,0 +1,11 @@
+Phase emf of red phase = 6350 V 
+
+X1 = 0.605 ohm 
+
+X2 = 0.302 ohm 
+
+X0 = 1.815 ohm 
+
+Fault current = j(-6998) A 
+
+

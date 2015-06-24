@@ -1,0 +1,5 @@
+
+3.For contact at top of R1,
+  frequency=1166.67 Hz
+  For R1 contact at 10% from bottom,
+  frequency=116.67 Hz

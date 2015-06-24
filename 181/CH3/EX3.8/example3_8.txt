@@ -1,0 +1,6 @@
+ (a)I_dc = 7.13e-002 A
+(b)I_dc(tube) = 3.57e-002 A
+(c)Voltage across conducting diode is sinusoidal with a peak value 0.2 Vm
+(d)Rms voltage V_rms = 358 V
+(e)DC output power = 10.2 W
+(f)Percentage regulation = 25 percent 

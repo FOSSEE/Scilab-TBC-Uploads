@@ -1,0 +1,3 @@
+ # PROBLEM 6.12 # 
+
+ Electron range = 77 micro meter 

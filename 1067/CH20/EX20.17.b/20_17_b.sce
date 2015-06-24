@@ -1,0 +1,17 @@
+clear;
+clc;
+v=3.3e3;
+rb=3e6;
+r1=1e6;
+r2=1.5e6;
+x1=10;
+x2=20;
+X1=x1*rb/r1;
+X2=x2*rb/r2;
+x=inv(inv(X1)+inv(X2));
+kva=rb*100/x;
+ish=kva/(sqrt(3)*v);
+rx=10e6;
+x2=rb*100/rx;
+r=inv(inv(X1)-inv(X2))-30;
+printf("the reactance of generator to be converted=%dpercent",r);

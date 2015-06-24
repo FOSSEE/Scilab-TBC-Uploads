@@ -1,0 +1,11 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_2/code/example2_22_pg111.sce', -1)
+ 
+ Referring to Fig 2.57, we have   
+
+
+Total volt-amperes supplied from the source is = 110000 VA 
+Volt-Amperes supplied inductively is = 10000 VA
+Power supplied conductively is 100000 VA
+ 
+-->diary(0);

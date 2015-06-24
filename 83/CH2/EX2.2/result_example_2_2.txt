@@ -1,0 +1,9 @@
+ 
+
+
+Inductance of each conductor=0.7667 mH/km
+
+Loop Inductance=1.5334 mH/km
+
+Loop Reactance=0.481723 ohms/km
+

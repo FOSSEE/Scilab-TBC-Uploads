@@ -1,0 +1,1 @@
+﻿ Thickness of quartz plate  = 1.472500e-05 meter

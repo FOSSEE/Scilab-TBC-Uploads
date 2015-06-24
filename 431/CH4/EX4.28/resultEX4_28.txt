@@ -1,0 +1,5 @@
+  
+ Example 4.28   
+ At slip=0.04
+For direct-on-line starting, (Tst/Tfl)=1.440000
+For direct-on-line starting, (Tst/Tfl)=0.480000 

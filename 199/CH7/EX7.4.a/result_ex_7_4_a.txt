@@ -1,0 +1,3 @@
+* Resistance R2 is = 33862.8 ohm
+* Resistance R3 is = 33000.0 ohm
+* Resistance Rf is = 15822.0 ohm

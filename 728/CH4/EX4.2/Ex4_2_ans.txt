@@ -1,0 +1,19 @@
+Atteneuation (in Np/m) =   
+ 
+    0.0014053  
+ 
+ Phase constant (in rad/m) =   
+ 
+    105.96066  
+ 
+ Phase velocity (in m/s) =   
+ 
+    1.779D+08  
+ 
+ Relative permittivity =   
+ 
+    2.844  
+ 
+ Power loss (in watts) =   
+ 
+    48000.  

@@ -1,0 +1,3 @@
+ (a)The value of the Base Current is 3.85e-004 A 
+(b)The value of the Collector Current is 3.615e-003 A 
+ 

@@ -1,0 +1,14 @@
+clear;
+clc;
+D=20;Ro=500;
+N=10^(D/20);
+R1=Ro*(N-1)/(N+1);
+R2=Ro*(N+1)/(N-1);
+printf("The elements of the attenuator are:\n");
+printf("R1 = %f ohms\n",round(R1*100)/100);
+printf(" R2 = %f ohms\n\n",round(R2*100)/100);
+r1=R1;
+r2=(R2-R1)/2;
+printf("The equivalent T structure of the designed lattice:\n");
+printf(" R1 = %f ohms\n",round(r1*100)/100);
+printf(" R2 = %f ohms\n",round(r2*100)/100);

@@ -1,0 +1,33 @@
+ 
+ example 4 3   
+ 
+ (a)   
+ capital cost of plant Rs6.000000e+009 
+ total capital cost Rs7.800000e+009
+ interest,depereiation system Rs8.580000e+008 
+ sum of maximum demand of consumers energy prodused 272MW 
+ energy produced 9.811200e+008kWh 
+ energy consumed by auxilliries 4.905600e+007kWh
+ energy output 9.320640e+008kWH 
+ energy sold to consumer 7.922544e+008kWh
+ 
+ (b)fixed cost   
+ interest, deprecition etc Rs8.580000e+008 per year
+ managerial and maintence Rs3e+007per year 
+ total 	 Rs8.880000e+008 
+ profit@25 	Rs2.220000e+008per year 
+ grand total Rs1.110000e+009 per year 
+ Operating cost   
+ Operating labour,supplies maintenance etc Rs.2.360000e+008per year 
+ metering,billing etc Rs9.000000e+007per year
+ total		Rs3.260000e+008 per year
+ profit 	 Rs8.150000e+007per year 
+ grand total 	 Rs4.075000e+008 per year 
+ tariff   
+ cost per kW 	Rs4.080882e+003 
+ cost per kWh 	Rs5.143550e-001 
+ (b)   
+ energy produced 1.121280e+009kWh 
+ energy consumed by auxiliaries 5.606400e+007kWh/year 
+ energy output of plant 1.065216e+009kWh 
+ energy sold to consumer 9.054336e+008kWh 

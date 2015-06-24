@@ -1,0 +1,5 @@
+# PROBLEM 39 # 
+ Standard formula used 
+ lambda/d_lambda = n*N  
+Resolving power in 2nd order is 1.200000e+05 
+ Smallest wavelength that can be resolved is 0.033333 Angstrom 

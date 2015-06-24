@@ -1,0 +1,5 @@
+Critical disruptive voltage = 53.34 kV 
+
+Power loss at 113 kV = 121 kW 
+
+-->diary(0)

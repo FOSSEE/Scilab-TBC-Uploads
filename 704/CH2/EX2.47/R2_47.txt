@@ -1,0 +1,9 @@
+ 
+ input(in watts)=   
+ 
+    54000.  
+ 
+ efficiency of the generator(in %)=   
+ 
+    92.592593  
+ 

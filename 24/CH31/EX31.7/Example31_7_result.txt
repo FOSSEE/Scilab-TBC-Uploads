@@ -1,0 +1,5 @@
+**Sample Problem 31-7a**
+The Energy stored in the inductor in steady state is 31.151020J
+
+**Sample Problem 31-7b**
+After t=-1.2T, the energy stored in the inductor will be half of tis steady state value

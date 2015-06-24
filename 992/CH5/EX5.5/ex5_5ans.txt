@@ -1,0 +1,6 @@
+ 
+	 carrer swing = 0.022000 MHz
+ frequency deviation = 11.000000 KHz
+ career frequency = 107.207000
+ modulation index = 2.750000 
+ Execution done.

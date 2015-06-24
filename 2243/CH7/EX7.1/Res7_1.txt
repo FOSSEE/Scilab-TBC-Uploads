@@ -1,0 +1,4 @@
+ For hydrogen atom : 
+ Radius  = 0.53 A 
+ Velocity = 2.2 x 10^6 m/s 
+ Energy of an electron = -13.6 eV 

@@ -1,0 +1,2 @@
+﻿ Angle between the Nicols in first case = 45.000000 degree
+ And in second case = 60.000000 degree

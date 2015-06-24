@@ -1,0 +1,1 @@
+Value of Upper Threshold Voltage =  0.014000 V 

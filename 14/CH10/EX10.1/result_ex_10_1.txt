@@ -1,0 +1,27 @@
+ For Generator 1   
+Xd11 = 0.375 per unit 
+ Eg1 = 0.957 per unit 
+ 
+ For Generator 2   
+Xd11 = 0.750 per unit 
+ Eg2 = 0.957 per unit 
+ 
+ Subtransient current in the short circuit in per unit is   
+ 
+  - 2.7329193i  
+ 
+ Voltage on the delta side of the transformer in per unit is   
+ 
+    0.2732919  
+ 
+ Subtransient current in generator 1 and 2 in per unit respectively   
+ 
+  - 1.8219462i  
+ 
+  - 0.9109731i  
+ 
+ Subtransient current in generator 1 and 2 in Amperes respectively   
+ 
+    5716.8539  
+ 
+    2858.4269  

@@ -1,0 +1,4 @@
+Voltage gain of channel 1 is -6
+Voltage gain of channel 2 is -3
+Voltage gain of channel 3 is 4.26
+Voltage gain of channel 4 is 3.19

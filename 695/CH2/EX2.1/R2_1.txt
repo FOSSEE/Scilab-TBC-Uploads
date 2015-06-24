@@ -1,0 +1,11 @@
+ (a) Current delievered in 50kw generator (in amperes)=   
+ 
+    62.5  
+ 
+     Current delievered in 100kw generator (in amperes)=   
+ 
+    187.5  
+ 
+ (b) Terminal voltage (in volts)=   
+ 
+    481.25  

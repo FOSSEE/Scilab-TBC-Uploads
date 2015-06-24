@@ -1,0 +1,16 @@
+(a)% slip=   
+ 
+    4.  
+ 
+ (b)Rotor copper loss(in watt)=   
+ 
+    1952.  
+ 
+ (c)Output of rotor(in watt)=   
+ 
+    45048.  
+ 
+ (d)Efficiency(in%)=   
+ 
+    90.096  
+ 

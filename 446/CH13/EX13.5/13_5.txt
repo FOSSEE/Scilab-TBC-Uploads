@@ -1,0 +1,7 @@
+  
+ Exa-13.5(a)   
+The value of q was found out to be -4.033395 MeV
+ 
+ Exa-13.5(b)   
+The threshold kinetic energy in case-1 is 5.381170 MeV
+The threshold kinetic energy in case-2 is 16.103861 MeV 

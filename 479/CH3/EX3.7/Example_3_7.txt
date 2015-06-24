@@ -1,0 +1,3 @@
+For Example 3.7,
+the answer given in the book is 999 hp but i am getting 990.13329 hp.
+There might be some calculation mistake in the book.

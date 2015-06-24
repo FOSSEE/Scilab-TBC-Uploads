@@ -1,0 +1,1 @@
+ The receive power = 0.633257*10^-6 Watts

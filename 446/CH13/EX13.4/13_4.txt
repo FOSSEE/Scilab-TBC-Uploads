@@ -1,0 +1,6 @@
+  
+ Exa-13.4(a)   
+The value of Q is 5.487467 MeV
+ 
+ Exa-13.4(b)   
+The value of Ky was found out to be 0.64 MeV

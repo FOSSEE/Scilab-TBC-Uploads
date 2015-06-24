@@ -1,0 +1,85 @@
+15#Communication systems#6.3#No of cells and frequency#Ex_B_6_3.sce#2627/CH15/EX6.3/Ex_B_6_3.sce#S##95368
+15#Communication systems#6.2#No of channels#Ex_B_6_2.sce#2627/CH15/EX6.2/Ex_B_6_2.sce#S##95366
+15#Communication systems#6.1#Angle of refraction#Ex_B_6_1.sce#2627/CH15/EX6.1/Ex_B_6_1.sce#S##95365
+13#Radio Communication#4.9#Deviation ratio and bandwidth#Ex_B_4_9.sce#2627/CH13/EX4.9/Ex_B_4_9.sce#S##95346
+13#Radio Communication#4.8#Minimum Bandwidth#Ex_B_4_8.sce#2627/CH13/EX4.8/Ex_B_4_8.sce#S##95344
+13#Radio Communication#4.7#Frequency Modulation Index#Ex_B_4_7.sce#2627/CH13/EX4.7/Ex_B_4_7.sce#S##95343
+13#Radio Communication#4.6#Peak frequency and phase deviation#Ex_B_4_6.sce#2627/CH13/EX4.6/Ex_B_4_6.sce#S##95342
+13#Radio Communication#4.5#Noise Figure improvement#Ex_B_4_5.sce#2627/CH13/EX4.5/Ex_B_4_5.sce#S##95341
+13#Radio Communication#4.4#Determine power#Ex_B_4_4.sce#2627/CH13/EX4.4/Ex_B_4_4.sce#S##95340
+13#Radio Communication#4.3#Power and voltage#Ex_B_4_3.sce#2627/CH13/EX4.3/Ex_B_4_3.sce#S##95339
+13#Radio Communication#4.2#Frequency and modulation coefficient#Ex_B_4_2.sce#2627/CH13/EX4.2/Ex_B_4_2.sce#S##95338
+13#Radio Communication#4.11#Reduction in frequency drift#Ex_B_4_11.sce#2627/CH13/EX4.11/Ex_B_4_11.sce#S##95349
+13#Radio Communication#4.10#Frequency and deviation ratio#Ex_B_4_10.sce#2627/CH13/EX4.10/Ex_B_4_10.sce#S##95348
+13#Radio Communication#4.1#Frequency Limits and Bandwidth#Ex_B_4_1.sce#2627/CH13/EX4.1/Ex_B_4_1.sce#S##95337
+11#Digital Systems#2.18#Binary to hexadecimal#Ex_B_2_18.sce#2627/CH11/EX2.18/Ex_B_2_18.sce#S##95362
+11#Digital Systems#2.17#Hexadecimal to binary#Ex_B_2_17.sce#2627/CH11/EX2.17/Ex_B_2_17.sce#S##95361
+11#Digital Systems#2.16#decimal to hexadecimal#Ex_B_2_16.sce#2627/CH11/EX2.16/Ex_B_2_16.sce#S##95360
+11#Digital Systems#2.15#Hexadecimal to decimal#Ex_B_2_15.sce#2627/CH11/EX2.15/Ex_B_2_15.sce#S##95358
+11#Digital Systems#2.14#decimal to binary#Ex_B_2_14.sce#2627/CH11/EX2.14/Ex_B_2_14.sce#S##95356
+11#Digital Systems#2.13#decimal to binary#Ex_B_2_13.sce#2627/CH11/EX2.13/Ex_B_2_13.sce#S##95354
+11#Digital Systems#2.12#Binary to decimal#Ex_B_2_12.sce#2627/CH11/EX2.12/Ex_B_2_12.sce#S##95353
+10#Amplifiers#1.9#Power gain and voltage gain#Ex_B_1_9.sce#2627/CH10/EX1.9/Ex_B_1_9.sce#S##95246
+10#Amplifiers#1.8#Gain in dB#Ex_B_1_8.sce#2627/CH10/EX1.8/Ex_B_1_8.sce#S##95245
+10#Amplifiers#1.7#Power gain in decibels#Ex_B_1_7.sce#2627/CH10/EX1.7/Ex_B_1_7.sce#S##95244
+10#Amplifiers#1.6#Power gain of circuit#Ex_B_1_6.sce#2627/CH10/EX1.6/Ex_B_1_6.sce#S##95243
+10#Amplifiers#1.5#Output Power#Ex_B_1_5.sce#2627/CH10/EX1.5/Ex_B_1_5.sce#S##95242
+10#Amplifiers#1.4#Current Circuit#Ex_B_1_4.sce#2627/CH10/EX1.4/Ex_B_1_4.sce#S##95241
+10#Amplifiers#1.3#Output Voltage#Ex_B_1_3.sce#2627/CH10/EX1.3/Ex_B_1_3.sce#S##95238
+10#Amplifiers#1.2#Voltage Gain#Ex_B_1_2.sce#2627/CH10/EX1.2/Ex_B_1_2.sce#S##95237
+10#Amplifiers#1.14#Overall gain#Ex_B_1_14.sce#2627/CH10/EX1.14/Ex_B_1_14.sce#S##95252
+10#Amplifiers#1.13.1#Effect of overall gain#Ex_B_1_13_page1_47.sce#2627/CH10/EX1.13.1/Ex_B_1_13_page1_47.sce#S##95255
+10#Amplifiers#1.13#SN ratio#Ex_B_1_13.sce#2627/CH10/EX1.13/Ex_B_1_13.sce#S##95251
+10#Amplifiers#1.12#Time constant and frequency#Ex_B_1_12.sce#2627/CH10/EX1.12/Ex_B_1_12.sce#S##95250
+10#Amplifiers#1.11#Determine frequencies#Ex_B_1_11.sce#2627/CH10/EX1.11/Ex_B_1_11.sce#S##95249
+10#Amplifiers#1.10#Time constant and frequency#Ex_B_1_10.sce#2627/CH10/EX1.10/Ex_B_1_10.sce#S##95248
+10#Amplifiers#1.1#Output Voltage#Ex_B_1_1.sce#2627/CH10/EX1.1/Ex_B_1_1.sce#S##95236
+7#Induction Machines#7.2#Rotor emf and phase difference#Ex7_2.sce#2627/CH7/EX7.2/Ex7_2.sce#S##95235
+7#Induction Machines#7.1#Speed and frequency#Ex7_1.sce#2627/CH7/EX7.1/Ex7_1.sce#S##95233
+6#DC Machines#6.7#Power generated#Ex6_7.sce#2627/CH6/EX6.7/Ex6_7.sce#S##95232
+6#DC Machines#6.6#SPeed and gross torque#Ex6_6.sce#2627/CH6/EX6.6/Ex6_6.sce#S##95231
+6#DC Machines#6.5#Approximate speed#Ex6_5.sce#2627/CH6/EX6.5/Ex6_5.sce#S##95230
+6#DC Machines#6.4#Calculate speed#Ex6_4.sce#2627/CH6/EX6.4/Ex6_4.sce#S##95229
+6#DC Machines#6.3#Generated emf#Ex6_3.sce#2627/CH6/EX6.3/Ex6_3.sce#S##95228
+6#DC Machines#6.2#Conductors per slot#Ex6_2.sce#2627/CH6/EX6.2/Ex6_2.sce#S##95227
+6#DC Machines#6.1#Generated emf#Ex6_1.sce#2627/CH6/EX6.1/Ex6_1.sce#S##95226
+5#Single Phase Transformers#5.3#Current and power factor#Ex5_3.sce#2627/CH5/EX5.3/Ex5_3.sce#S##95223
+5#Single Phase Transformers#5.2#Area Voltage ad current#Ex5_2.sce#2627/CH5/EX5.2/Ex5_2.sce#S##95222
+5#Single Phase Transformers#5.1#Curent Turns and flux#Ex5_1.sce#2627/CH5/EX5.1/Ex5_1.sce#S##95220
+3#Single phase AC circuits#3.9#Reactance Impedence Current and phase#Ex3_9.sce#2627/CH3/EX3.9/Ex3_9.sce#S##95213
+3#Single phase AC circuits#3.8#Reactance and current#Ex3_8.sce#2627/CH3/EX3.8/Ex3_8.sce#S##95212
+3#Single phase AC circuits#3.7#Supply voltage and phase angle#Ex3_7.sce#2627/CH3/EX3.7/Ex3_7.sce#S##95210
+3#Single phase AC circuits#3.6#Supply voltage#Ex3_6.sce#2627/CH3/EX3.6/Ex3_6.sce#S##95209
+3#Single phase AC circuits#3.5#Circuit current and phase angle#Ex3_5.sce#2627/CH3/EX3.5/Ex3_5.sce#S##95208
+3#Single phase AC circuits#3.4#Ameter reading Form and Peak factor#Ex3_4.sce#2627/CH3/EX3.4/Ex3_4.sce#S##95207
+3#Single phase AC circuits#3.3#Voltage and frequency#Ex3_3.sce#2627/CH3/EX3.3/Ex3_3.sce#S##95206
+3#Single phase AC circuits#3.2#Peak values of current#Ex3_2.sce#2627/CH3/EX3.2/Ex3_2.sce#S##95205
+3#Single phase AC circuits#3.14#Resistance Inductance and Power factor#Ex3_14.sce#2627/CH3/EX3.14/Ex3_14.sce#S##95219
+3#Single phase AC circuits#3.13#Power dissipated#Ex3_13.sce#2627/CH3/EX3.13/Ex3_13.sce#S##95218
+3#Single phase AC circuits#3.12#Curent Phase angle and power#Ex3_12.sce#2627/CH3/EX3.12/Ex3_12.sce#S##95216
+3#Single phase AC circuits#3.11#Impedence current and voltage#Ex3_11.sce#2627/CH3/EX3.11/Ex3_11.sce#S##95215
+3#Single phase AC circuits#3.10#Capacitance and phase angle#Ex3_10.sce#2627/CH3/EX3.10/Ex3_10.sce#S##95214
+3#Single phase AC circuits#3.1#Frequency Period and emf#Ex3_1.sce#2627/CH3/EX3.1/Ex3_1.sce#S##95204
+2#Magnetic Circuits#2.8#Inductance#Ex2_8.sce#2627/CH2/EX2.8/Ex2_8.sce#S##95202
+2#Magnetic Circuits#2.7#Inductance of coil#Ex2_7.sce#2627/CH2/EX2.7/Ex2_7.sce#S##95201
+2#Magnetic Circuits#2.6#Flux and emf#Ex2_6.sce#2627/CH2/EX2.6/Ex2_6.sce#S##95199
+2#Magnetic Circuits#2.5#Induced emf#Ex2_5.sce#2627/CH2/EX2.5/Ex2_5.sce#S##95198
+2#Magnetic Circuits#2.4#Coil Current#Ex2_4.sce#2627/CH2/EX2.4/Ex2_4.sce#S##95197
+2#Magnetic Circuits#2.3#Reluctance and current#Ex2_3.sce#2627/CH2/EX2.3/Ex2_3.sce#S##95196
+2#Magnetic Circuits#2.2#Magnetomotive force#Ex2_2.sce#2627/CH2/EX2.2/Ex2_2.sce#S##95195
+2#Magnetic Circuits#2.10#Self and mutual inductance#Ex2_10.sce#2627/CH2/EX2.10/Ex2_10.sce#S##95203
+2#Magnetic Circuits#2.1#field strength and flux#Ex2_1.sce#2627/CH2/EX2.1/Ex2_1.sce#S##95194
+1#DC circuits#1.8#Calculate current#Ex1_8.sce#2627/CH1/EX1.8/Ex1_8.sce#S##95186
+1#DC circuits#1.7#Current in the resistor#Ex1_7.sce#2627/CH1/EX1.7/Ex1_7.sce#S##95185
+1#DC circuits#1.6#Effective resistance and Supply current#Ex1_6.sce#2627/CH1/EX1.6/Ex1_6.sce#S##95184
+1#DC circuits#1.5#Supply Current#Ex1_5.sce#2627/CH1/EX1.5/Ex1_5.sce#S##95183
+1#DC circuits#1.4#Resistance R1#Ex1_4.sce#2627/CH1/EX1.4/Ex1_4.sce#S##95182
+1#DC circuits#1.3#Circuit current#Ex1_3.sce#2627/CH1/EX1.3/Ex1_3.sce#S##95181
+1#DC circuits#1.2#Voltage across resistor#Ex1_2.sce#2627/CH1/EX1.2/Ex1_2.sce#S##95180
+1#DC circuits#1.15#Voltage and emf#Ex1_15.sce#2627/CH1/EX1.15/Ex1_15.sce#S##95193
+1#DC circuits#1.14#Calculate VAB#Ex1_14.sce#2627/CH1/EX1.14/Ex1_14.sce#S##95192
+1#DC circuits#1.13#Determine V1 and V3#Ex1_13.sce#2627/CH1/EX1.13/Ex1_13.sce#S##95191
+1#DC circuits#1.12#Determine I1 and I2#Ex1_12.sce#2627/CH1/EX1.12/Ex1_12.sce#S##95189
+1#DC circuits#1.11#Determine the currents#Ex1_11.sce#2627/CH1/EX1.11/Ex1_11.sce#S##95188
+1#DC circuits#1.10#Calculate current#Ex1_10.sce#2627/CH1/EX1.10/Ex1_10.sce#S##95187
+1#DC circuits#1.1#Current in the circuit#Ex1_1.sce#2627/CH1/EX1.1/Ex1_1.sce#S##95179

@@ -1,0 +1,9 @@
+example 5.3   
+
+ plan A is 		Rs.801366999 
+ plan B is 		Rs.858833880 
+ planC is 		Rs.916300760 
+utility services is 	Rs642887142 
+ the utility service has the lowest capitalized cost and is the obvious choice. Out of the other pl 
+      ans,plan A is the best                                                                        
+ 

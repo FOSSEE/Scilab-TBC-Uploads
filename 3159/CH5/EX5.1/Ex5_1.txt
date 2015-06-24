@@ -1,0 +1,8 @@
+ 
+ Example 5.1
+ Part A:
+ Packing efficiency of diamond is 0.34
+
+ Part B:
+ Density of diamond is 3502 Kg/m^3
+ Density of diamond is 3.5 g/cm^3 

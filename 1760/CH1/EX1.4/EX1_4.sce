@@ -1,0 +1,26 @@
+                                   //EXAMPLE 1-4       PG NO 18-19
+R1=2.22;                       //RESISTANCE
+R2=0.6;                        //RESISTANCE
+R3=3;                          //Resistance
+R4=4;
+R5=5;
+R6=6;
+R7=2;
+R=R1+R2+R3;
+disp('i) Resistance (R) is    =  '+string ([R]) +' ohm  ');
+V=12;                              //VOLTAGE
+I=V/R;                              //Current
+disp('ii) CURRENT (I) is    =  '+string ([I]) +' A  ');
+I3=I;                                                 //CURRENT THROUGH 3 ohm RESISTANCE
+disp('iii) CURRENT (I3) is    =  '+string ([I3]) +' A  ');
+I5=(I3*R4)/(R4+R5);                                      //CURRENT THROUGH 5 ohm RESISTANCE
+disp('iv) CURRENT (I5)  is    =  '+string ([I5]) +' A  ');
+I4=(I3*R5)/(R4+R5);                                  //CURRENT THROUGH 4 ohm RESISTANCE
+disp('v) CURRENT (I4)  is    =  '+string ([I4]) +' A  ');
+V1=1.236;                                    //VOLTAGE ACROSS THREE PARALLEL RESISTANCE 
+I2=V1/R7;                                         //current
+disp('vi) CURRENT (I2)  is    =  '+string ([I2]) +' A  ');
+I1=V1;                                               //CURRENT THROUGH 1 ohm RESISTANCE
+disp('iv) CURRENT (I1)  is    =  '+string ([I1]) +' A  ');
+I6=V1/R6;                                            //CURRENT THROUGH 6 ohm RESISTANCE
+disp('vii) CURRENT (I6)  is    =  '+string ([I6]) +' A  ');

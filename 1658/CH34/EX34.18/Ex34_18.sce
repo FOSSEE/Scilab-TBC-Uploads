@@ -1,0 +1,13 @@
+clc;
+Vs=25;
+Vz=15;
+RL=1*10**3;
+VBE2=0.7;
+Vout=(Vz/2)+VBE2;
+disp('V',Vout*1,"Vout=");
+IL=Vout/RL;
+IE1=IL;
+disp('mA',IE1*10**3,"IE1=");
+Vce1=Vs-Vout;
+P1=Vce1*IE1;
+disp('mW',P1*10**3,"P1=");

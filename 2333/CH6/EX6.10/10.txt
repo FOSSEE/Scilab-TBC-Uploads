@@ -1,0 +1,3 @@
+# PROBLEM 10 # 
+
+ Total number of propagating modes are 21932.

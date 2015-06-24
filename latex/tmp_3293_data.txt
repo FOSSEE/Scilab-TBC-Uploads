@@ -1,0 +1,57 @@
+10#Bilinear Forms#10.5#Bilinear Form of vectors#Ex10_5.sce#3293/CH10/EX10.5/Ex10_5.sce#S##114084
+10#Bilinear Forms#10.4#Bilinear Form of vectors#Ex10_4.sce#3293/CH10/EX10.4/Ex10_4.sce#S##114083
+8#Inner Product Spaces#8.9#Standard Inner Product#Ex8_9.sce#3293/CH8/EX8.9/Ex8_9.sce#S##114074
+8#Inner Product Spaces#8.28#Unitary matrix#Ex8_28.sce#3293/CH8/EX8.28/Ex8_28.sce#S##114081
+8#Inner Product Spaces#8.2#Standard Inner Product#Ex8_2.sce#3293/CH8/EX8.2/Ex8_2.sce#S##114073
+8#Inner Product Spaces#8.17#Inner product space and orthogonal projection#Ex8_17.sce#3293/CH8/EX8.17/Ex8_17.sce#S##114086
+8#Inner Product Spaces#8.15#Orthogonal sets#Ex8_15.sce#3293/CH8/EX8.15/Ex8_15.sce#S##114078
+8#Inner Product Spaces#8.14#Orthogonal Projection#Ex8_14.sce#3293/CH8/EX8.14/Ex8_14.sce#S##114077
+8#Inner Product Spaces#8.13#Orthogonal Vectors#Ex8_13.sce#3293/CH8/EX8.13/Ex8_13.sce#S##114076
+8#Inner Product Spaces#8.12#Orthogonal Vectors#Ex8_12.sce#3293/CH8/EX8.12/Ex8_12.sce#S##114075
+8#Inner Product Spaces#8.1#Standard Inner Product#Ex8_1.sce#3293/CH8/EX8.1/Ex8_1.sce#S##114072
+7#The Rational and Jordan Forms#7.7#Characteristic and minimal polynomial of matrix#Ex7_7.sce#3293/CH7/EX7.7/Ex7_7.sce#S##114071
+7#The Rational and Jordan Forms#7.6#Characteristic and minimal polynomial of matrix#Ex7_6.sce#3293/CH7/EX7.6/Ex7_6.sce#S##114070
+7#The Rational and Jordan Forms#7.3#Linear operator annihilator#Ex7_3.sce#3293/CH7/EX7.3/Ex7_3.sce#S##114068
+6#Elementary Canonical Forms#6.5#Characteristic Polynomial of matrix#Ex6_5.sce#3293/CH6/EX6.5/Ex6_5.sce#S##114062
+6#Elementary Canonical Forms#6.4#Diagonalizable Operator#Ex6_4.sce#3293/CH6/EX6.4/Ex6_4.sce#S##114061
+6#Elementary Canonical Forms#6.3#Characteristic Polynomial of a matrix#Ex6_3.sce#3293/CH6/EX6.3/Ex6_3.sce#S##114060
+6#Elementary Canonical Forms#6.2#Characteristic Polynomial of a matrix#Ex6_2.sce#3293/CH6/EX6.2/Ex6_2.sce#S##114059
+6#Elementary Canonical Forms#6.12#Symmetric and skew symmetric matrix#Ex6_12.sce#3293/CH6/EX6.12/Ex6_12.sce#S##114065
+6#Elementary Canonical Forms#6.1#Characteristic Polynomial of a matrix#Ex6_1.sce#3293/CH6/EX6.1/Ex6_1.sce#S##114058
+5#Determinants#5.8#Inverse of a matrix#Ex5_8.sce#3293/CH5/EX5.8/Ex5_8.sce#S##114057
+5#Determinants#5.7#Inverse of a matrix#Ex5_7.sce#3293/CH5/EX5.7/Ex5_7.sce#S##114056
+5#Determinants#5.6#Determinant of a matrix#Ex5_6.sce#3293/CH5/EX5.6/Ex5_6.sce#S##114055
+5#Determinants#5.5#Determinant of a matrix#Ex5_5.sce#3293/CH5/EX5.5/Ex5_5.sce#S##114054
+5#Determinants#5.4#Alternating 3 Linear Functions#Ex5_4.sce#3293/CH5/EX5.4/Ex5_4.sce#S##114053
+5#Determinants#5.3#Two linear function#Ex5_3.sce#3293/CH5/EX5.3/Ex5_3.sce#S##114085
+4#Polynomials#4.9#Ideal of a Polynomial#Ex4_9.sce#3293/CH4/EX4.9/Ex4_9.sce#S##114051
+4#Polynomials#4.8#G C D of polynomials#Ex4_8.sce#3293/CH4/EX4.8/Ex4_8.sce#S##114050
+4#Polynomials#4.7#Ideal of a polynomial#Ex4_7.sce#3293/CH4/EX4.7/Ex4_7.sce#S##114049
+4#Polynomials#4.3#Algebra of linear operators#Ex4_3.sce#3293/CH4/EX4.3/Ex4_3.sce#S##114048
+4#Polynomials#4.10#Reducible Polynomial#Ex4_10.sce#3293/CH4/EX4.10/Ex4_10.sce#S##114052
+3#Linear Transformations#3.6#Linear Transformation function#Ex3_6.sce#3293/CH3/EX3.6/Ex3_6.sce#S##114039
+3#Linear Transformations#3.24#Linear functional on vector space#Ex3_24.sce#3293/CH3/EX3.24/Ex3_24.sce#S##114046
+3#Linear Transformations#3.23#Linear functional on vector space#Ex3_23.sce#3293/CH3/EX3.23/Ex3_23.sce#S##114045
+3#Linear Transformations#3.19#Trace of a matrix#Ex3_19.sce#3293/CH3/EX3.19/Ex3_19.sce#S##114087
+3#Linear Transformations#3.17#Matrix in ordered basis#Ex3_17.sce#3293/CH3/EX3.17/Ex3_17.sce#S##114043
+3#Linear Transformations#3.16#Standard Ordered Basis#Ex3_16.sce#3293/CH3/EX3.16/Ex3_16.sce#S##114042
+3#Linear Transformations#3.15#Matrix in Ordered basis#Ex3_15.sce#3293/CH3/EX3.15/Ex3_15.sce#S##114041
+3#Linear Transformations#3.14#Standard Ordered Basis#Ex3_14.sce#3293/CH3/EX3.14/Ex3_14.sce#S##114040
+3#Linear Transformations#3.12#Singular and onto linear transformation#Ex3_12.sce#3293/CH3/EX3.12/Ex3_12.sce#S##114088
+2#Vector Spaces#2.8#Vector Subspace#Ex2_8.sce#3293/CH2/EX2.8/Ex2_8.sce#S##114027
+2#Vector Spaces#2.22#Standard basis of Matrix#Ex2_22.sce#3293/CH2/EX2.22/Ex2_22.sce#S##114036
+2#Vector Spaces#2.21#Standard basis of matrix#Ex2_21.sce#3293/CH2/EX2.21/Ex2_21.sce#S##114035
+2#Vector Spaces#2.20#Inverse of a matrix#Ex2_20.sce#3293/CH2/EX2.20/Ex2_20.sce#S##114034
+2#Vector Spaces#2.13#Standard basis of Matrix#Ex2_13.sce#3293/CH2/EX2.13/Ex2_13.sce#S##114032
+2#Vector Spaces#2.12#Linear Dependency#Ex2_12.sce#3293/CH2/EX2.12/Ex2_12.sce#S##114031
+2#Vector Spaces#2.11#Space of polynomial function#Ex2_11.sce#3293/CH2/EX2.11/Ex2_11.sce#S##114030
+2#Vector Spaces#2.10#Row space of matrix#Ex2_10.sce#3293/CH2/EX2.10/Ex2_10.sce#S##114029
+1#Linear Equations#1.9#System of Equations#Ex1_9.sce#3293/CH1/EX1.9/Ex1_9.sce#S##114017
+1#Linear Equations#1.8#Row reduced echelon Matrix#Ex1_8.sce#3293/CH1/EX1.8/Ex1_8.sce#S##114016
+1#Linear Equations#1.7#Row reduced echelon Matrix#Ex1_7.sce#3293/CH1/EX1.7/Ex1_7.sce#S##114015
+1#Linear Equations#1.6#Elementary Row Operations#Ex1_6.sce#3293/CH1/EX1.6/Ex1_6.sce#S##114014
+1#Linear Equations#1.5#Elementary Row Operations#Ex1_5.sce#3293/CH1/EX1.5/Ex1_5.sce#S##114013
+1#Linear Equations#1.16#Inverse of a matrix#Ex1_16.sce#3293/CH1/EX1.16/Ex1_16.sce#S##114023
+1#Linear Equations#1.15#Inverse of a matrix#Ex1_15.sce#3293/CH1/EX1.15/Ex1_15.sce#S##114022
+1#Linear Equations#1.14#Inverse of a matrix#Ex1_14.sce#3293/CH1/EX1.14/Ex1_14.sce#S##116293
+1#Linear Equations#1.10#Product of Matrices#Ex1_10.sce#3293/CH1/EX1.10/Ex1_10.sce#S##114018

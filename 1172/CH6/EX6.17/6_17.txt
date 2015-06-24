@@ -1,0 +1,8 @@
+ # Problem 17 # 
+
+ Standard formula used 
+ m = m_o* sqrt ( 1- (v/c)^2) 
+ and 
+ E=m*c^2
+ Velocity of electron is 2.587160e+08 m/s.
+ 

@@ -1,0 +1,8 @@
+I = 2.99e-002 A
+For this current,V = 0.2 V
+(a)Therefore I = 29.8 mA
+(b)If battery is inserted with reverse polarity,voltage drop across the 1.5 K resistors is only 15 mV and may be neglected
+(c)In forward direction, I=29.8 mA
+In reverse direction we draw a load line from V=-30 V to I=-30 mA
+Then,I = -20 mA
+Current=20 mA as there is a 10 V drop 

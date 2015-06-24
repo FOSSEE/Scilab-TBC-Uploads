@@ -1,0 +1,4 @@
+
+Example 2.19
+ Minimum error in measurement of 
+ frequency of photon is 7.957747e+06 per second.

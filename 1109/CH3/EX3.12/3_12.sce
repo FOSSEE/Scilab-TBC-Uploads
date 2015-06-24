@@ -1,0 +1,14 @@
+clear;
+clc;
+l=10;Zo=280*exp(-%i*(%pi/(180/30)));P=0.08*exp(%i*(%pi/(180/40)));f=5000/(2*%pi);
+w=2*%pi*f;
+Z1=Zo*tanh(P*l/2);
+Rs=real(Z1); 
+Ls=imag(Z1)/w;
+printf("-Resistance of series element = %f ohms\n",fix(Rs));
+printf("-Inductance of series element = %f mH\n",round(Ls*(10^3)*100)/100);
+Z2=Zo/(sinh(P*l));
+Rsh=real(Z2);
+Csh=-imag(Z2)/w;
+printf("-Resistance of shunt element = %f ohms\n",round(Rsh*10)/10);
+printf("-Capacitance of shunt element = %f microfarads",fix(Csh*1000)/1000);

@@ -1,0 +1,7 @@
+ # PROBLEM 28 # 
+Standard formula used 
+  delta_lambda = (h / (m * c) * (1 - cos(theta))) 
+ E = h*c*(1/lambda1 - 1/lambda2)
+
+ Wavelength of x-ray is 0.248498 A.
+ Maximum kinetic energy 1.937989e-15 J.

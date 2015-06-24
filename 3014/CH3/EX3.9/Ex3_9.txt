@@ -1,0 +1,3 @@
+
+Example 3.9
+Spacing of crystal is 0.384116 angstrom. 

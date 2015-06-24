@@ -1,0 +1,7 @@
+The energy of this state is E=6.87 eV
+The density of the states for this energy is Z(E)= 
+    1.778D+28  
+met^-3 (eV)^-1
+The population density for this energy is N(E)= 
+    1.600D+28  
+met^-3 (eV)^-1 

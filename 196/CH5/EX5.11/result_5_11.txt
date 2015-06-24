@@ -1,0 +1,1 @@
+Load current = 0.0010 A

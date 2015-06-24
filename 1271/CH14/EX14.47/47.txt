@@ -1,0 +1,6 @@
+ # PROBLEM 47 # 
+Standard formula used 
+  lambda = h/(m*v)
+
+ Group velocity is 6.062271e+06 m/sec.
+ Phase velocity is 3.031136e+06 m/sec.

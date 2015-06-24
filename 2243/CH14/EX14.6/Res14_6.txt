@@ -1,0 +1,2 @@
+ Intensity =  4 x 10^6 kW/cm^2 
+Intensity of this laser source is 0.6 x 10^6 times the intensity of Sun radiation 

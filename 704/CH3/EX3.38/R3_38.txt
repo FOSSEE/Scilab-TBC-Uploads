@@ -1,0 +1,28 @@
+Current rating of 2400 Volts winding(in Amp)=   
+ 
+    4.1666667  
+ 
+ Current rating of 240 Volts winding(in Amp)=   
+ 
+    41.666667  
+ 
+ Total load current(in Amp)=   
+ 
+    45.833333  
+ 
+ KVA output rating(in KVA)=   
+ 
+    110.  
+ 
+ power transferred inductively(in VA)=   
+ 
+    10000.  
+ 
+ power transferred conductively(in VA)=   
+ 
+    100000.  
+ 
+ Saving in copper(in %)=   
+ 
+    90.909091  
+ 

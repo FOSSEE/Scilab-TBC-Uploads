@@ -1,0 +1,1 @@
+Ripple factor = 0.48

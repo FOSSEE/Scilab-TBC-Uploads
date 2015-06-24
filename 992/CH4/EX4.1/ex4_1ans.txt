@@ -1,0 +1,5 @@
+ 
+ After 100percent modulation energy gets doubled
+ So, 
+ (2Ec)^2=4*Pk4*Pk/2=2Pk The SIGNAL POWER GETS DOUBLED N THIS IS TYPICAL OF DIGITAL MODULATION SYSTEM WITH ON-OFF Keys OR OOK signal 
+ Execution done.   

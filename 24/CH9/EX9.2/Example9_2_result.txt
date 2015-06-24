@@ -1,0 +1,2 @@
+**Sample Problem 9-2**
+The CM is located at a distace of 0.333333R to the right of the center 

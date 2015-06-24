@@ -1,0 +1,7 @@
+
+ # PROBLEM 4.27 # 
+ 
+ The minimum cast per piece
+ When material X is used = 4.357033 $,
+ When material Y is used = 4.070737 $
+ So material Y will be suitable for tool as it has low cast 

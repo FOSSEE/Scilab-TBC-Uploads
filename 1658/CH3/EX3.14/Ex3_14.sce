@@ -1,0 +1,15 @@
+clc;
+mun=3800;
+mup=1800;
+ni=2.5*10**13;
+Nge=4.41*10**22;
+q=1.602*10**-19;
+ND=Nge/10**8;
+disp('/cm^3',ND*1,"ND=");
+p=(ni^2)/ND;
+disp('/cm^3',p*1,"p=");
+n=ND;
+sigma=q*n*mun;
+disp('(ohm-cm^)-1',sigma*1,"sigma=");
+rho=1/sigma;
+disp('ohm-cm',rho*1,"rho=");

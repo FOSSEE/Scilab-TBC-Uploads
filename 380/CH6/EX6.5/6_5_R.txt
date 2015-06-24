@@ -1,0 +1,12 @@
+(a) new motor speed (in rpm)=   
+ 
+    2907.  
+ 
+ (b) Power loss in external resistance (in Watts)=   
+ 
+    20.  
+ 
+ (c) Efficiency (%)=   
+ 
+    84.860015  
+ 

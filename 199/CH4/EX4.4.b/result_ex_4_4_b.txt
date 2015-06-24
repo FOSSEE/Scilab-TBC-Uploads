@@ -1,0 +1,1 @@
+* Parallel combination of R1 and Rf,i.e ROM is = 465.3 ohm 

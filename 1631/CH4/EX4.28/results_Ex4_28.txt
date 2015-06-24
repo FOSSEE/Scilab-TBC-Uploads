@@ -1,0 +1,18 @@
+  
+ i)Out put signal noise ratio   
+ 
+    97.76  
+ 
+ dB   
+ 
+ ii)output bit rate   
+ 
+    2.8224  
+ 
+ Mbits/sec   
+ 
+ iii)no.of bits recorded in CD   
+ 
+    10.16064  
+ 
+ gigabits 

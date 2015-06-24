@@ -1,0 +1,1 @@
+ The value of the shunt resistance required, R_s = 1.01 ohm 

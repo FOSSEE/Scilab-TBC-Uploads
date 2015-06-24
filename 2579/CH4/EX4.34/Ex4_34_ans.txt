@@ -1,0 +1,1 @@
+ The dish parameter = 4082.482905 m

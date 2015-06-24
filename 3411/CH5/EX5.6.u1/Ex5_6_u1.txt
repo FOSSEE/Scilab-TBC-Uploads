@@ -1,0 +1,2 @@
+Wavelength lamda=131pm 
+ Interplanar spacing d=168pm 

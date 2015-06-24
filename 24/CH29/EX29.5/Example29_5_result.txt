@@ -1,0 +1,5 @@
+**Sample Problem 29-5a**
+The magnitude of magnetic field should be 1.573938T
+
+**Sample Problem 29-5b**
+The kinetic energy of the deuteron will be 2.666800e-012J 

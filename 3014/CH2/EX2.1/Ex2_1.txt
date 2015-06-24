@@ -1,0 +1,2 @@
+ Example 2.1
+ Uncertainty in momentum of particle is 2.637993e-24 kgm/sec.

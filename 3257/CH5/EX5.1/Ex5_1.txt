@@ -1,0 +1,13 @@
+
+ Example 5.1
+
+ Part A:
+ From figure, Percent gamma is 100 (10 kg) and percent alpha is zero
+
+ Part B:
+ % alpha is : 49.5% 	 % gamma is : 50.5%
+ Mass of alpha is : 4.9 kg 	 mass of gamma is : 5.1 kg
+
+ Part C:
+ % alpha is : 94% 
+ Mass of alpha is : 9.4 kg  

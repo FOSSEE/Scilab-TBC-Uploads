@@ -1,0 +1,2 @@
+(a)Vgs = -2.13 V
+(b)Vp = -Vgs(off) = 6V 

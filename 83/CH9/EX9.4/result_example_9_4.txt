@@ -1,0 +1,13 @@
+ 
+ feeder_impedance  =
+ 
+    0.0688705 + 0.1377410i  
+
+Generator A reactance = j0.125 pu
+Generator B reactance = j0.100 pu
+Generator C reactance = j0.200 pu
+Reactor A reactance = j0.150 pu
+Reactor B reactance = j0.120 pu
+Reactor C reactance = j0.240 pu
+
+SC MVA = 211 MVA 

@@ -1,0 +1,3 @@
+
+16.meter current when Rx=0 ohm is 37.436358 micro-A=full scale =0 ohm
+meter current when Rx=24 ohm is 18.718179 micro-A=half scale=24 ohm

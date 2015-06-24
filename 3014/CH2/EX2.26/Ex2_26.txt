@@ -1,0 +1,4 @@
+Example 2.26 
+
+ Probability of finding electron between 
+ 0.550000L and 0.450000L is 19.836316 percent. 

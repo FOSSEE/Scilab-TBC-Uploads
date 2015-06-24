@@ -1,0 +1,7 @@
+ # Problem 13 # 
+ 
+ Standard formula used 
+   (mu – 1 )*t = n* lambda 
+
+ Refractive index of oil film is 1.000188  .
+

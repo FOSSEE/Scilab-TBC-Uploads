@@ -1,0 +1,22 @@
+Cost at Substation
+
+	 (i) Annual fixed charges
+		 Generation cost = Rs. 4500000 
+		 Transmission cost = Rs. 2000000 
+		 Total annual fixed charges at the substation=Rs. 6500000 
+		 Aggregate of all max demands by various substations =  90000 kW 
+		 Annual cost per kW of maximum demand = Rs. 72.22 
+
+	 (ii) Running charges
+		 Cost per kWh at substation = Rs. 0.0444 
+
+Cost at Consumers premises
+		 Total annual fixed charges at consumers premises = Rs. 8000000 
+
+		 Aggregate of max demands of all consumers = 112500 kW 
+
+		 Annual cost per kW of max demand = Rs. 71 
+
+		 Cost per kWh at consumers premises = Rs. 0.0523 
+
+

@@ -1,0 +1,1 @@
+ the Directivity = 6.989700 dB

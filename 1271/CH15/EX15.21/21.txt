@@ -1,0 +1,8 @@
+ # PROBLEM 21 # 
+Standard formula used 
+ E = (n^2 * h^2) / (8 * m * L^2)) 
+
+ Energy Eigen values -
+ For (n=2) for 80.000000 eV.
+ For (n=3) is 180.000000 eV.
+ For (n=4) is 320.000000 eV.

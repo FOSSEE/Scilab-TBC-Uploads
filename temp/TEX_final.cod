@@ -1,0 +1,171 @@
+\contentsline {section}{\numberline {Exa\nobreakspace {}1.1}Different diode models}{11}{codemass.1.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.1}Average value half wave rectifier}{14}{codemass.2.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.2.a}half wave rectifier}{14}{codemass.2.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.2.b}half wave rectifier}{16}{codemass.2.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.3}Rectifier peak value}{17}{codemass.2.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.4}Average value full wave rectifier}{18}{codemass.2.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.5}PIV full wave}{18}{codemass.2.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.6}Bridge Rectifier}{20}{codemass.2.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.7}Ripple Bridge rectifier}{20}{codemass.2.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.8}Voltage Regulator}{21}{codemass.2.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.9}Load regulation percentage}{22}{codemass.2.10}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.10}Negative diode limiter}{23}{codemass.2.11}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.11}Posiive Negative Limiter}{24}{codemass.2.12}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.12}Positive diode limiter}{25}{codemass.2.13}
+\contentsline {section}{\numberline {Exa\nobreakspace {}2.13}Negative Clamper}{27}{codemass.2.14}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.1}Zener impedance}{30}{codemass.3.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.2}Zener Voltage}{30}{codemass.3.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.3}Temperature coefficient}{31}{codemass.3.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.4}Zener power dissipation}{31}{codemass.3.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.5}Zener voltage regulator}{32}{codemass.3.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.6}Regulation Variable load}{32}{codemass.3.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.7}Zener regulation}{33}{codemass.3.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}3.8}Zener limiting}{34}{codemass.3.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.1}DC beta}{37}{codemass.4.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.2}Current Voltage Analysis}{37}{codemass.4.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.3}Collector characteristic curve}{38}{codemass.4.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.4}DC loadline}{38}{codemass.4.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.5}Transistor rating}{39}{codemass.4.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.6}Maximum Transistor Rating}{39}{codemass.4.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.7}Derating Power maximum}{40}{codemass.4.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.8}Transistor amplification}{40}{codemass.4.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}4.9}Collector in saturation}{40}{codemass.4.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.1}DC bias}{42}{codemass.5.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.2}Input resistance}{42}{codemass.5.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.3}Voltage divider bias}{43}{codemass.5.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.4}Voltage bias PNP}{43}{codemass.5.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.5}PNP Transistor}{44}{codemass.5.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.6}Qpoint base bias}{45}{codemass.5.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.7}Emitter bias}{46}{codemass.5.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}5.8}Q point}{47}{codemass.5.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.1}Linear amplifier}{48}{codemass.6.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.2}AC Emitter resistance}{48}{codemass.6.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.3}Base voltage}{48}{codemass.6.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.4}Emitter bypass capacitor}{49}{codemass.6.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.5}Effect bypass capacitor}{49}{codemass.6.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.6}Gain with load}{50}{codemass.6.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.7}Gain swamped amplifier}{50}{codemass.6.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.8}Common emitter amplifier}{50}{codemass.6.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.9}Current gain}{53}{codemass.6.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.10}Darlington emitter follower}{54}{codemass.6.10}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.11}Common base amplifier}{55}{codemass.6.11}
+\contentsline {section}{\numberline {Exa\nobreakspace {}6.12}Voltage gain decibel}{56}{codemass.6.12}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.1}cutoff FET}{57}{codemass.7.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.2}Drain current}{57}{codemass.7.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.3}JFET current voltage}{58}{codemass.7.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.4}JFET transconductance}{58}{codemass.7.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.5}JFET input resistance}{59}{codemass.7.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.6}Self bias}{59}{codemass.7.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.7}Q point JFET}{59}{codemass.7.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.8}Self bias Q point}{60}{codemass.7.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.9}Midpoint bias}{60}{codemass.7.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.10}Graphical analysis}{61}{codemass.7.10}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.11}Voltage Divider bias}{61}{codemass.7.11}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.12}Graph voltage divider}{62}{codemass.7.12}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.13}DMOSFET}{62}{codemass.7.13}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.14}EMOSFET}{63}{codemass.7.14}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.15}DMOSFET bias}{63}{codemass.7.15}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.16}EMOSFET bias}{63}{codemass.7.16}
+\contentsline {section}{\numberline {Exa\nobreakspace {}7.17}EMOSFET drain current}{64}{codemass.7.17}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.1}Voltage gain}{65}{codemass.8.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.2}Rds effect}{65}{codemass.8.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.3}External source resistance}{65}{codemass.8.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.4}Unloaded amplifier}{66}{codemass.8.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.5}AC load effect}{67}{codemass.8.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.6}Input resistance}{67}{codemass.8.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.7}DMOSFET amplifier}{67}{codemass.8.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.8}MOSFET Q points}{68}{codemass.8.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.9}EMOSFET amplifier}{68}{codemass.8.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}8.10}Common gate amplifier}{69}{codemass.8.10}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.1}classA power amplifier}{71}{codemass.9.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.2}class A efficiency}{72}{codemass.9.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.3}class AB pushpull}{73}{codemass.9.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.4}Single supply pushpull}{73}{codemass.9.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.5}Power of amplifier}{73}{codemass.9.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.6}MOSFET pushpull amplifier}{74}{codemass.9.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.7}class C amplifier}{75}{codemass.9.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}9.8}class C efficiency}{75}{codemass.9.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.1}Gain in decibel}{76}{codemass.10.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.2}Critical frequency}{77}{codemass.10.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.3}Lower critical frequency}{77}{codemass.10.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.4}Voltage gains}{78}{codemass.10.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.5}Output RC circuit}{78}{codemass.10.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.6}Bypass RC circuit BJT}{79}{codemass.10.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.7}input RC circuit FET}{80}{codemass.10.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.8}Low frequency response FET}{80}{codemass.10.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.9}Low frequency response BJT}{81}{codemass.10.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.10}input RC circuit BJT}{82}{codemass.10.10}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.11}Critical frequency BJT output}{83}{codemass.10.11}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.12}FET capacitors}{83}{codemass.10.12}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.13}Critical frequency FET input}{83}{codemass.10.13}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.14}Critical frequency FET input}{84}{codemass.10.14}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.15}Bandwidth}{84}{codemass.10.15}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.16}Bandwidth transistor}{85}{codemass.10.16}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.17}Bandwidth 2stage amplifier}{85}{codemass.10.17}
+\contentsline {section}{\numberline {Exa\nobreakspace {}10.18}Bandwidth 2stage amplifier}{85}{codemass.10.18}
+\contentsline {section}{\numberline {Exa\nobreakspace {}11.1}Four layer diode}{86}{codemass.11.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}11.2}Anode current}{86}{codemass.11.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}11.3}Unijunction transistor}{87}{codemass.11.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}11.4}turn on off UJT}{87}{codemass.11.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}11.5}Critical angle}{87}{codemass.11.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.1}CMRR opamp}{89}{codemass.12.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.2}Slew rate}{89}{codemass.12.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.3}Non inverting amplifier}{90}{codemass.12.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.4}Inverting amplifier}{90}{codemass.12.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.5}Impedance noninverting amplifier}{90}{codemass.12.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.6}Voltage follower impedance}{91}{codemass.12.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.7}Impedance inverting amplifier}{91}{codemass.12.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.8}Open Loop gain}{92}{codemass.12.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.9}phase RC lag}{92}{codemass.12.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.10}Gain and phase lag}{93}{codemass.12.10}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.11}Closed loop bandwidth}{94}{codemass.12.11}
+\contentsline {section}{\numberline {Exa\nobreakspace {}12.12}Amplifier bandwidth}{94}{codemass.12.12}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.1}Comparator}{95}{codemass.13.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.2}Trigger points}{97}{codemass.13.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.3}Comparator hysteris Zener bounding}{97}{codemass.13.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.4}Summing amplifier unity gain}{99}{codemass.13.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.5}Summing amplifier}{99}{codemass.13.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.6}Averaging amplifier}{100}{codemass.13.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.7}Scaling adder}{100}{codemass.13.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.8}Opamp integrator}{101}{codemass.13.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}13.9}Opamp differentiator}{103}{codemass.13.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.1}Gain setting resistor}{107}{codemass.14.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.2}Voltage gain Instrumentation amplifier}{107}{codemass.14.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.3}Isolation amplifier}{108}{codemass.14.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.4}Voltage gain Isolation amplifier}{108}{codemass.14.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.5}Transconductance OTA}{108}{codemass.14.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.6}Voltage gain OTA}{109}{codemass.14.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.7}Output OTA amplitude modulator}{109}{codemass.14.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.8}Output log amplifier}{111}{codemass.14.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.9}Transistor log amplifier}{111}{codemass.14.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}14.10}Antilog amplifier}{111}{codemass.14.10}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.1}Band pass filter}{113}{codemass.15.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.2}Butterworth response}{113}{codemass.15.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.3}Sallen Key lowpass filter}{114}{codemass.15.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.4}4 pole filter}{114}{codemass.15.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.5}Sallen Key highpass filter}{115}{codemass.15.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.6}Cascaded filter}{115}{codemass.15.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.7}State variable filter}{115}{codemass.15.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}15.8}Band stop filter}{116}{codemass.15.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}16.1}Wien bridge oscillator}{117}{codemass.16.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}16.2}Phase shift oscillator}{118}{codemass.16.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}16.3}FET Colpitts oscillator}{118}{codemass.16.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}16.4}Triangular wave oscillator}{118}{codemass.16.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}16.5}Sawtooth VCO}{119}{codemass.16.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}16.6}555 timer}{121}{codemass.16.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.1}Percentage line regulation}{122}{codemass.17.1}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.2}Load regulation percentage}{122}{codemass.17.2}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.3}Series regulator}{123}{codemass.17.3}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.4}Overload protection}{123}{codemass.17.4}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.5}Shunt regulator}{123}{codemass.17.5}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.6}Positive linear voltage regulator}{124}{codemass.17.6}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.7}External pass filter}{124}{codemass.17.7}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.8}Power rating 7824}{124}{codemass.17.8}
+\contentsline {section}{\numberline {Exa\nobreakspace {}17.9}Current regulator}{125}{codemass.17.9}
+\contentsline {section}{\numberline {Exa\nobreakspace {}18.1}Switching capacitor}{126}{codemass.18.1}
+\contentsline {section}{\numberline {AP\nobreakspace {}1}Phase shift in degrees}{127}{codemass.18.2}
+\contentsline {section}{\numberline {AP\nobreakspace {}2}Open loop gain}{127}{codemass.18.3}
+\contentsline {section}{\numberline {AP\nobreakspace {}3}Voltage gain in decibel}{127}{codemass.18.4}
+\contentsline {section}{\numberline {AP\nobreakspace {}4}Power gain in decibel}{127}{codemass.18.5}
+\contentsline {section}{\numberline {AP\nobreakspace {}5}value of K}{127}{codemass.18.6}
+\contentsline {section}{\numberline {AP\nobreakspace {}6}Drain current value}{128}{codemass.18.7}

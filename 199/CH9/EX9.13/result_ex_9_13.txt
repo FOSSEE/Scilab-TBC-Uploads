@@ -1,0 +1,8 @@
+* Sense current,Ipk is = 6 A 
+* Sense resistance,Rsc is = 0.055 ohm 
+* Constant K = 1.06  
+* OFF time period,toff is = 0.00002427 sec 
+* ON time period,ton is = 0.00002573 sec
+* Oscillator timing capacitance,Ct is = 0.0000000109 F
+* Inductance,L is = 0.00002528 H 
+* Output capacitance,Co is = 0.0007500 F 

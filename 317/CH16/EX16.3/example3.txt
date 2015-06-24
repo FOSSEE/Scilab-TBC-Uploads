@@ -1,0 +1,5 @@
+Voltage gain for an input frequency of 100 Hertz is approximately 10000 
+Voltage gain for an input frequency of 1000 Hertz is approximately 1000 
+Voltage gain for an input frequency of 1000 Hertz is approximately 100 
+Voltage gain for an input frequency of 10000Hertz is approximately 10 
+Voltage gain for an input frequency of 100000 Hertz is approximately 1 

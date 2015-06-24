@@ -1,0 +1,96 @@
+3#Lubricants#3.9#Acid value of oil#Ex3_9.sce#2966/CH3/EX3.9/Ex3_9.sce#S##116093
+3#Lubricants#3.8#Acid value of oil#Ex3_8.sce#2966/CH3/EX3.8/Ex3_8.sce#S##116095
+3#Lubricants#3.7#Acid value of oil#Ex3_7.sce#2966/CH3/EX3.7/Ex3_7.sce#S##116096
+3#Lubricants#3.6#Acid value of oil#Ex3_6.sce#2966/CH3/EX3.6/Ex3_6.sce#S##116094
+3#Lubricants#3.5#Acid value of oil#Ex3_5.sce#2966/CH3/EX3.5/Ex3_5.sce#S##116092
+3#Lubricants#3.4#Acid value of oil#Ex3_4.sce#2966/CH3/EX3.4/Ex3_4.sce#S##116100
+3#Lubricants#3.3#Acid value of oil#Ex3_3.sce#2966/CH3/EX3.3/Ex3_3.sce#S##116091
+3#Lubricants#3.20#composition of blended oils by saponification#Ex3_20.sce#2966/CH3/EX3.20/Ex3_20.sce#S##116104
+3#Lubricants#3.2#Acid value of oil#Ex3_2.sce#2966/CH3/EX3.2/Ex3_2.sce#S##116090
+3#Lubricants#3.19#composition of blended oils by saponification#Ex3_19.sce#2966/CH3/EX3.19/Ex3_19.sce#S##116103
+3#Lubricants#3.18#saponification value of oil#Ex3_18.sce#2966/CH3/EX3.18/Ex3_18.sce#S##116102
+3#Lubricants#3.17#saponification value of oil#Ex3_17.sce#2966/CH3/EX3.17/Ex3_17.sce#S##116106
+3#Lubricants#3.16#saponification value of oil#Ex3_16.sce#2966/CH3/EX3.16/Ex3_16.sce#S##116101
+3#Lubricants#3.15#composition of blended oils by saponification#Ex3_15.sce#2966/CH3/EX3.15/Ex3_15.sce#S##116108
+3#Lubricants#3.14#saponification value of oil#Ex3_14.sce#2966/CH3/EX3.14/Ex3_14.sce#S##116099
+3#Lubricants#3.13#alcoholic KOH consumed in saponification#Ex3_13.sce#2966/CH3/EX3.13/Ex3_13.sce#S##116107
+3#Lubricants#3.12#Saponification value of oil#Ex3_12.sce#2966/CH3/EX3.12/Ex3_12.sce#S##116098
+3#Lubricants#3.11#Saponification value of oil#Ex3_11.sce#2966/CH3/EX3.11/Ex3_11.sce#S##116097
+3#Lubricants#3.10#Acid value of oil#Ex3_10.sce#2966/CH3/EX3.10/Ex3_10.sce#S##116105
+3#Lubricants#3.1#Acid value of oil#Ex3_1.sce#2966/CH3/EX3.1/Ex3_1.sce#S##116089
+1#Water#1.9#hardness calculation by EDTA method#Ex1_9.sce#2966/CH1/EX1.9/Ex1_9.sce#S##116029
+1#Water#1.8#hardness calculation#Ex1_8.sce#2966/CH1/EX1.8/Ex1_8.sce#S##116021
+1#Water#1.76#Hardwater quantity softened using Zeolite process#Ex1_76.sce#2966/CH1/EX1.76/Ex1_76.sce#S##116088
+1#Water#1.75#calculation of required lime and soda#Ex1_75.sce#2966/CH1/EX1.75/Ex1_75.sce#S##116087
+1#Water#1.74#calculation of required lime and soda#Ex1_74.sce#2966/CH1/EX1.74/Ex1_74.sce#S##116086
+1#Water#1.73#hardness calculation by EDTA method#Ex1_73.sce#2966/CH1/EX1.73/Ex1_73.sce#S##116085
+1#Water#1.72#hardness calculation by Zeolite process#Ex1_72.sce#2966/CH1/EX1.72/Ex1_72.sce#S##116083
+1#Water#1.71#hardness calculation by Zeolite method#Ex1_71.sce#2966/CH1/EX1.71/Ex1_71.sce#S##116084
+1#Water#1.70#hardness calculation by EDTA method#Ex1_70.sce#2966/CH1/EX1.70/Ex1_70.sce#S##116082
+1#Water#1.7#hardness calculation#Ex1_7.sce#2966/CH1/EX1.7/Ex1_7.sce#S##116020
+1#Water#1.69#calculation of required lime and soda#Ex1_69.sce#2966/CH1/EX1.69/Ex1_69.sce#S##116081
+1#Water#1.68#hardness calculation#Ex1_68.sce#2966/CH1/EX1.68/Ex1_68.sce#S##116078
+1#Water#1.67#hardness calculation by EDTA method#Ex1_67.sce#2966/CH1/EX1.67/Ex1_67.sce#S##116113
+1#Water#1.66#calculation of required lime and soda#Ex1_66.sce#2966/CH1/EX1.66/Ex1_66.sce#S##116075
+1#Water#1.65#calculation of hardness using Zeolite process#Ex1_65.sce#2966/CH1/EX1.65/Ex1_65.sce#S##116074
+1#Water#1.64#Hardwater quantity softened using Zeolite process#Ex1_64.sce#2966/CH1/EX1.64/Ex1_64.sce#S##116073
+1#Water#1.63#calculation of required lime and soda#Ex1_63.sce#2966/CH1/EX1.63/Ex1_63.sce#S##116080
+1#Water#1.62#calculation of required lime and soda#Ex1_62.sce#2966/CH1/EX1.62/Ex1_62.sce#S##116079
+1#Water#1.61#hardness calculation#Ex1_61.sce#2966/CH1/EX1.61/Ex1_61.sce#S##116072
+1#Water#1.60#hardness calculation by EDTA method#Ex1_60.sce#2966/CH1/EX1.60/Ex1_60.sce#S##116110
+1#Water#1.6#hardness calculation#Ex1_6.sce#2966/CH1/EX1.6/Ex1_6.sce#S##116019
+1#Water#1.59#calculation of required lime and soda#Ex1_59.sce#2966/CH1/EX1.59/Ex1_59.sce#S##116071
+1#Water#1.58#hardness calculation#Ex1_58.sce#2966/CH1/EX1.58/Ex1_58.sce#S##116068
+1#Water#1.57#NaCl quantity produced in Zeolite process#Ex1_57.sce#2966/CH1/EX1.57/Ex1_57.sce#S##116070
+1#Water#1.56#calculation of required lime and soda#Ex1_56.sce#2966/CH1/EX1.56/Ex1_56.sce#S##116067
+1#Water#1.55#hardness calculation by EDTA method#Ex1_55.sce#2966/CH1/EX1.55/Ex1_55.sce#S##116069
+1#Water#1.54#calculation of required lime and soda#Ex1_54.sce#2966/CH1/EX1.54/Ex1_54.sce#S##116066
+1#Water#1.53#hardness calculation#Ex1_53.sce#2966/CH1/EX1.53/Ex1_53.sce#S##116064
+1#Water#1.52#calculation of required lime and soda#Ex1_52.sce#2966/CH1/EX1.52/Ex1_52.sce#S##116063
+1#Water#1.51#hardness calculation using Zeolite process#Ex1_51.sce#2966/CH1/EX1.51/Ex1_51.sce#S##116062
+1#Water#1.50#calculation of COD#Ex1_50.sce#2966/CH1/EX1.50/Ex1_50.sce#S##116060
+1#Water#1.5#hardness calculation#Ex1_5.sce#2966/CH1/EX1.5/Ex1_5.sce#S##116018
+1#Water#1.49#calculation of BOD#Ex1_49.sce#2966/CH1/EX1.49/Ex1_49.sce#S##116059
+1#Water#1.48#calculation of hardness using ion exchange process#Ex1_48.sce#2966/CH1/EX1.48/Ex1_48.sce#S##116056
+1#Water#1.47#Hardwater quantity softened using Zeolite process#Ex1_47.sce#2966/CH1/EX1.47/Ex1_47.sce#S##116054
+1#Water#1.46#calculation of hardness using Zeolite process#Ex1_46.sce#2966/CH1/EX1.46/Ex1_46.sce#S##116065
+1#Water#1.45#calculation of hardness using Zeolite process#Ex1_45.sce#2966/CH1/EX1.45/Ex1_45.sce#S##116053
+1#Water#1.44#calculation of hardness using Zeolite process#Ex1_44.sce#2966/CH1/EX1.44/Ex1_44.sce#S##116058
+1#Water#1.43#Hardwater quantity softened using Zeolite process#Ex1_43.sce#2966/CH1/EX1.43/Ex1_43.sce#S##116057
+1#Water#1.42#NaCl required for zeolite bed regeneration#Ex1_42.sce#2966/CH1/EX1.42/Ex1_42.sce#S##116061
+1#Water#1.41#calculation of hardness using Zeolite process#Ex1_41.sce#2966/CH1/EX1.41/Ex1_41.sce#S##116052
+1#Water#1.40#calculation of hardness using Zeolite process#Ex1_40.sce#2966/CH1/EX1.40/Ex1_40.sce#S##116055
+1#Water#1.4#calculation of Fe2O3 required#Ex1_4.sce#2966/CH1/EX1.4/Ex1_4.sce#S##116017
+1#Water#1.39#Hardwater quantity softened using Zeolite process#Ex1_39.sce#2966/CH1/EX1.39/Ex1_39.sce#S##116051
+1#Water#1.38#Hardwater quantity softened using Zeolite process#Ex1_38.sce#2966/CH1/EX1.38/Ex1_38.sce#S##116050
+1#Water#1.37#calculation of hardness using Zeolite process #Ex1_37.sce#2966/CH1/EX1.37/Ex1_37.sce#S##116045
+1#Water#1.36#calculation of hardness using Zeolite process #Ex1_36.sce#2966/CH1/EX1.36/Ex1_36.sce#S##116109
+1#Water#1.35#calculation of required lime and soda#Ex1_35.sce#2966/CH1/EX1.35/Ex1_35.sce#S##116048
+1#Water#1.34#calculation of required lime and soda#Ex1_34.sce#2966/CH1/EX1.34/Ex1_34.sce#S##116044
+1#Water#1.33#calculation of required lime and soda#Ex1_33.sce#2966/CH1/EX1.33/Ex1_33.sce#S##116112
+1#Water#1.32#calculation of required lime and soda#Ex1_32.sce#2966/CH1/EX1.32/Ex1_32.sce#S##116047
+1#Water#1.31#calculation of required lime and soda#Ex1_31.sce#2966/CH1/EX1.31/Ex1_31.sce#S##116040
+1#Water#1.30#calculation of required lime and soda#Ex1_30.sce#2966/CH1/EX1.30/Ex1_30.sce#S##116043
+1#Water#1.3#hardness calculation#Ex1_3.sce#2966/CH1/EX1.3/Ex1_3.sce#S##116016
+1#Water#1.29#calculation of required lime and soda#Ex1_29.sce#2966/CH1/EX1.29/Ex1_29.sce#S##116042
+1#Water#1.28#calculation of required lime and soda#Ex1_28.sce#2966/CH1/EX1.28/Ex1_28.sce#S##116037
+1#Water#1.27#calculation of required lime and soda#Ex1_27.sce#2966/CH1/EX1.27/Ex1_27.sce#S##116039
+1#Water#1.26#calculation of required lime and soda#Ex1_26.sce#2966/CH1/EX1.26/Ex1_26.sce#S##116038
+1#Water#1.25#calculation of required lime and soda#Ex1_25.sce#2966/CH1/EX1.25/Ex1_25.sce#S##116041
+1#Water#1.24#calculation of required lime and soda#Ex1_24.sce#2966/CH1/EX1.24/Ex1_24.sce#S##116049
+1#Water#1.23#calculation of required soda#Ex1_23.sce#2966/CH1/EX1.23/Ex1_23.sce#S##116034
+1#Water#1.22#calculation of required lime#Ex1_22.sce#2966/CH1/EX1.22/Ex1_22.sce#S##116036
+1#Water#1.21#calculation of required lime and soda#Ex1_21.sce#2966/CH1/EX1.21/Ex1_21.sce#S##116033
+1#Water#1.20#calculation of required lime and soda#Ex1_20.sce#2966/CH1/EX1.20/Ex1_20.sce#S##116030
+1#Water#1.2#hardness calculation#Ex1_2.sce#2966/CH1/EX1.2/Ex1_2.sce#S##116015
+1#Water#1.19#calculation of required lime and soda#Ex1_19.sce#2966/CH1/EX1.19/Ex1_19.sce#S##116031
+1#Water#1.18#calculation of required lime and soda#Ex1_18.sce#2966/CH1/EX1.18/Ex1_18.sce#S##116032
+1#Water#1.17#calculation of required lime and soda#Ex1_17.sce#2966/CH1/EX1.17/Ex1_17.sce#S##116026
+1#Water#1.16#hardness calculation by EDTA method#Ex1_16.sce#2966/CH1/EX1.16/Ex1_16.sce#S##116025
+1#Water#1.15#hardness calculation by EDTA method#Ex1_15.sce#2966/CH1/EX1.15/Ex1_15.sce#S##116035
+1#Water#1.14#hardness calculation by EDTA method#Ex1_14.sce#2966/CH1/EX1.14/Ex1_14.sce#S##116028
+1#Water#1.13#hardness calculation by EDTA method#Ex1_13.sce#2966/CH1/EX1.13/Ex1_13.sce#S##116027
+1#Water#1.12#hardness calculation by EDTA method#Ex1_12.sce#2966/CH1/EX1.12/Ex1_12.sce#S##116111
+1#Water#1.11#hardness calculation by EDTA method#Ex1_11.sce#2966/CH1/EX1.11/Ex1_11.sce#S##116023
+1#Water#1.10#hardness calculation by EDTA method#Ex1_10.sce#2966/CH1/EX1.10/Ex1_10.sce#S##116022
+1#Water#1.1#hardness calculation#Ex1_1.sce#2966/CH1/EX1.1/Ex1_1.sce#S##116014

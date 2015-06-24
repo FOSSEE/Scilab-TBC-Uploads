@@ -1,0 +1,8 @@
+ The value of the parameter xo = 1.120256 um
+ The value of the current amplitude parameter ao= 0.704981
+ The value of the current amplitude parameter a1= 1.279939
+ The value of the current amplitude parameter a2= 1.574958
+ The value of the relative amplitude parameter a22= 1.000000
+ The value of the relative amplitude parameter a12= 0.812681
+ The value of the relative amplitude parameter ao2= 0.895238
+ The five element array is shown in figure in the given textbook

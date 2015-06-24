@@ -1,0 +1,6 @@
+  (a)For Sound waves : 18.76 m 
+ (b)For Ultrasonic waves : 2.50 m 
+ (c)For Microwaves  : 0.73 m 
+ (d)For IR waves : 250.1 mu m 
+ (e)For Light waves : 14.73 mu m 
+ 

@@ -1,0 +1,13 @@
+ Thevenin equivalent of the circuit behind node four   
+
+ Eth = 1.43 /_-11.97 per unit 
+
+ 
+ Thevenin equivalent impedance   
+
+ Z_th = j0.47 per unit 
+
+ 
+ Current drawn by the capacitor   
+
+ Ic = 0.32 /_78.03 per unit 

@@ -1,0 +1,4 @@
+Output voltage is 9.07 Volts
+Input current is 593 mAmperes
+Load current is 227 mAmperes
+Collector current is 366 mAmperes

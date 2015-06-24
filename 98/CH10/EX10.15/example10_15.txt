@@ -1,0 +1,9 @@
+Recieving end voltage per phase = 63509 V 
+
+Recieving end current = 131 A 
+
+Sending end voltage = 63575.48+j1046.18 = 110.13 kV 
+
+Sending end current = 133.44+j1.24 = 133.44 A 
+
+

@@ -1,0 +1,1 @@
+collector current is 2.6mAmperes

@@ -1,0 +1,11 @@
+clear;
+clc;
+v1=33e3;
+v2=6.6e3;
+i1=300;
+trn=sqrt(3);
+i2=i1*v2/v1;
+ratio=300/5;
+i1sec=i1/ratio;
+i1sec=fix(i1sec*100/trn)/100;
+mprintf("Ct ratio on HT side = %d:(%f)",i2,i1sec);

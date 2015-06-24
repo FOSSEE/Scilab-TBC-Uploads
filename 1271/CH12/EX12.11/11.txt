@@ -1,0 +1,1 @@
+ Fraction of sample left after 3 half lives is 0.125000 . 

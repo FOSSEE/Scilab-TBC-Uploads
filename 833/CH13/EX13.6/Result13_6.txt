@@ -1,0 +1,4 @@
+Number of armature conductors in series per phase=   
+ 
+    363.22589  
+ 

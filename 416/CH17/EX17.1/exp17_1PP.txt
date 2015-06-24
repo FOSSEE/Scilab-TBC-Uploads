@@ -1,0 +1,6 @@
+ 
+ example 17.1   
+
+number of units out 0 ,capacity out  0MW ,capacity available 80MW ,probability 0.940900 
+number of units out 1 ,capacity out  40MW ,capacity available 40MW ,probability 0.058200 
+number of units out 2 ,capacity out  80MW ,capacity available 0MW ,probability 0.000900  

@@ -1,0 +1,20 @@
+  
+ example 4 12   
+
+ (a)
+ total current 433.01 -286jA 
+ overall power factor 0.834 lagging 
+ copper losses in synchrounous motor 6250W 
+ copper losses in cable 24.25KW
+ (b)
+ total current 433.01 -178jA 
+ overall power factor 0.925 lagging 
+ copper losses in synchrounous motor 6250W 
+ copper losses in cable 19.73KW
+ (c)
+ total current 433.01 -94jA 
+ overall power factor 0.977 lagging 
+ copper losses in synchrounous motor 6250W 
+ copper losses in cable 17.67KW 
+ (d)   
+copper loss of synchronous motor this is evidently minimum when tand=0 cosd=1 

@@ -1,0 +1,2 @@
+ Mean life of radium is 7.202822e+10 year.
+ Half life of radium is 4.991556e+10 year.

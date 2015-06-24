@@ -1,0 +1,8 @@
+  
+ Example 4.30  
+Synchronous speed,Ns=1500rpm
+Output power=14710.000000W
+Output torque=97.598195Nm
+Power developed by the rotor=15004.200000W
+Rotor I^2R-loss=625.175000W
+Rotor input=15629W 

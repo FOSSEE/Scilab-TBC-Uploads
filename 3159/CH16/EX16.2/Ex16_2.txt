@@ -1,0 +1,10 @@
+
+ Example 16.2
+ Part A:
+ At 0 K, Net magnetic moment of gadolinium i.e. 7 is greater than net magnetic moment of cobalt i.e. 1.7 
+ So, Gd will have higher saturation magnetization
+
+ Part B:
+ At temperature 300 K, Gd is above its curie temperature of 289K
+ Gd will be paramagnetic at 300 K and will have negligible magnetization
+ as compared to Co, which has higher curie temperature 

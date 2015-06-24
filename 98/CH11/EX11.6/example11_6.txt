@@ -1,0 +1,9 @@
+(i) Capacitance of the cable = 1.984 uF 
+
+(ii) Voltage between core and sheath = 19053 V 
+
+    Charging current/phase = 11.87 A 
+
+(iii) Total charging kVAR = 678.62*10^3 kVAR 
+
+

@@ -1,0 +1,14 @@
+**Sample Problem 44-2a**
+The efficiency of the power plant is 32/
+
+**Sample Problem 44-2b**
+The fissions in the reactor per second is 1.062500e+020
+
+**Sample Problem 44-2c**
+The uranium use in a day is equal to 4.475250kg/day
+
+**Sample Problem 44-2d**
+The U will long for 576days
+
+**Sample Problem 44-2e**
+The mass conversion rate is 3.777778e-008kg/s

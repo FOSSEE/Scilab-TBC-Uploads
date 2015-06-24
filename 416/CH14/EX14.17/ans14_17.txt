@@ -1,0 +1,5 @@
+ 
+ example 14.7   
+ generation at the plant a is 160MW and 
+ generation at the plant b is 40MW 
+ transfer power from plant a to b is 60MW 

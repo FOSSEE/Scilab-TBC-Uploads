@@ -1,0 +1,7 @@
+Equivalent resistance as referred to secondary(in Ohm)=   
+ 
+    0.408  
+ 
+ Equivalent reactance as referred to secondary(in Ohm)=   
+ 
+    1.  

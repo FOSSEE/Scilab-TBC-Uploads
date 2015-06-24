@@ -1,0 +1,5 @@
+**Sample Problem 39-4a**
+compton shift is equal to 2.21pm
+
+**Sample Problem 39-4b**
+The fraction of energy transfered is 0.091 

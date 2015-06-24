@@ -1,0 +1,20 @@
+Nde = 5*10^17;
+Nab = 10^17;
+Db = 100;
+De = 15;
+Wb = 0.5*10^-4;
+dEg = 0.36;
+Le = 1.5*10^-4;
+ni = 2.2*10^6;
+kT = 26*10^-3; //in eV
+peo = ni^2/Nde;
+nbo = ni^2/Nab;
+disp(peo,"emitter minority carrier concentrations (in per cm cube)= ")
+disp(nbo,"base minority carrier concentrations (in per cm cube) = ")
+gammae = 1- (peo*De*Wb)/(nbo*Db*Le);
+disp(gammae,"emitter efficiency = ")
+peo1 = peo*exp(-dEg/kT);
+disp(peo1,"In the HBT, the value of peo is greatly suppressed. The new value(in per cm cube) = ")
+gamma1 = 1- (peo1*De*Wb)/(nbo*Db*Le);
+disp(gamma1,"emitter efficiency = ")
+disp("In this case the emitter efficiency is essentially unity")

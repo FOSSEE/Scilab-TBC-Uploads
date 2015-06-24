@@ -1,0 +1,3 @@
+ 
+ Example 10_1
+ Degree of polymerization in polyvinyl chloride is 1000 

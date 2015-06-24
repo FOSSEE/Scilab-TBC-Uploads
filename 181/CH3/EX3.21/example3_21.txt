@@ -1,0 +1,2 @@
+(a)Inductance L = 3.02e+006 H
+(b)Output voltage = 32 V 

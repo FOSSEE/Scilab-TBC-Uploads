@@ -1,0 +1,17 @@
+MAximum demand = 150 MW 
+STEAM PLANT: 
+Capital cost = Rs. 240*10^6 
+Annual interest = Rs. 16.80*10^6 
+Fixed cost/unit = Rs. 16.80*10^6/x 
+Running cost/unit = Rs. 0.06 
+Total cost/unit = Rs. 16.80*10^6/x+0.06 
+
+HYDRO PLANT: 
+Capital cost = Rs. 450*10^6 
+Annual interest = Rs. 31.50*10^6 
+Fixed cost/unit = Rs. 31.50*10^6/x 
+Running cost/unit = Rs. 0.03 
+Total cost/unit = Rs. 31.50*10^6/x+0.03 
+
+By equating the overall cost, we get x = 490000000.00 kWh 
+Load factor = 37.29 %-->diary(0)

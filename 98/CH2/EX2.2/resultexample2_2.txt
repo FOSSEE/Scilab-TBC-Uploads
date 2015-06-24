@@ -1,0 +1,7 @@
+
+(i)  Thermal efficiency = 76.50 %
+
+(ii)  Units generated per annum = 7008000000.000 kWh
+	 Coal consumption/annum = 63072.000 tons
+	 Annual coal bill = Rs 18921600.0000
+

@@ -1,0 +1,5 @@
+
+4.Pulse amplitude=8 V
+  frequency=35.7 kHz
+  raise time=2.5 micro-s
+  fall time=3.0 micro-s 

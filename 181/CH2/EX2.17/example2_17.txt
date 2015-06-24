@@ -1,0 +1,4 @@
+ At V=90V,none of the diodes will break down.I is determined by the diode with the smallest I_0
+Thus for D1,I = 1 mu-A and for D2,I = -1 mu-A
+(a)V2 = -3.6e-002 V
+(b)V1 = -89.964 V 

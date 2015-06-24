@@ -1,0 +1,3 @@
+
+4.Power dissipated=82 mW
+Accuracy of the result=(+/-)20%

@@ -1,0 +1,5 @@
+ 
+ Secondary terminal voltage at full load (in Volts)=   
+ 
+    388.46481  
+ 

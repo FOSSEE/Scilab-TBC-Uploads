@@ -1,0 +1,2 @@
+**Sample Problem 39-1**
+The rate at which photons are absorbed is 2.97e+020/s

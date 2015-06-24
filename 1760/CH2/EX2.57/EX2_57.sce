@@ -1,0 +1,23 @@
+                  //EXAMPLE 2-57   PG N0-100-101
+V=240+%i*0;
+R=400+%i*0;
+Z1=%i*50;
+Z2=-%i*40;
+IR=V/R;
+disp('i)   CURRENT (IR) is    =  '+string (IR) +'  A ');
+IL=V/Z1;
+disp('i)   CURRENT (IL) is    =  '+string (IL) +'  A ');
+IC=V/Z2;
+disp('i)   CURRENT (IC) is    =  '+string (IC) +'  A ');
+I=IR+IL+IC;
+disp('i)   CURRENT (I) is    =  '+string (I) +'  A ');
+Z=V/I;
+disp('i)  IMPEDANCE (Z) is    =  '+string (Z) +'  ohms ');
+Y=1/Z;
+disp('i)  ADMITTANCE (Y) is    =  '+string (Y) +'  ohm ');
+S=V*I;
+disp('i)  APPARENT POWER (S) is    =  '+string (S) +'  VA ');
+P=V*I*0.448;
+disp('i)  ACTIVE POWER (P) is    =  '+string (P) +'  W ');
+Q=V*I*-0.94;
+disp('i)  REACTIVE POWER (Q) is    =  '+string (Q) +'  vars ');

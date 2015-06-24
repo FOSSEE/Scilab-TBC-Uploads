@@ -1,0 +1,12 @@
+clear;
+clc;
+R=42.1;L=1*(10^-3);G=1.5*(10^-6);C=0.062*(10^-6);f=796;r=2.7;l=31*(10^-3);
+d=1.135;
+Rc=R+(r/d);
+Lc=round((L+(l/d))*1000)/1000;
+Zo=sqrt(Lc/C);
+printf("-Zo after loading = %f ohms\n",round(Zo));
+al=((Rc/2)*sqrt(C/Lc))+((G/2)*sqrt(Lc/C));
+printf("-a after loading = %f neper/km\n",round(al*10^4)/10^4);
+Vp=1/(sqrt(Lc*C));
+printf("-Approximate value of Vp = %f km/sec",fix(Vp));

@@ -1,0 +1,684 @@
+5#Propagation#5.9#Find the range of LOS system#Ex5_9.sce#2579/CH5/EX5.9/Ex5_9.sce#S##104972
+5#Propagation#5.9#Find the range of LOS system#Ex5_9.txt#2579/CH5/EX5.9/Ex5_9.txt#R##104973
+5#Propagation#5.9#Find the range of LOS system#Ex5_9_ans.txt#2579/CH5/EX5.9/Ex5_9_ans.txt#R##104974
+5#Propagation#5.8#Find the max range of a tropospheric transmission#Ex5_8.sce#2579/CH5/EX5.8/Ex5_8.sce#S##104969
+5#Propagation#5.8#Find the max range of a tropospheric transmission#Ex5_8.txt#2579/CH5/EX5.8/Ex5_8.txt#R##104970
+5#Propagation#5.8#Find the max range of a tropospheric transmission#Ex5_8_ans.txt#2579/CH5/EX5.8/Ex5_8_ans.txt#R##104971
+5#Propagation#5.7#Find the basic path loss#Ex5_7.sce#2579/CH5/EX5.7/Ex5_7.sce#S##104966
+5#Propagation#5.7#Find the basic path loss#Ex5_7.txt#2579/CH5/EX5.7/Ex5_7.txt#R##104967
+5#Propagation#5.7#Find the basic path loss#Ex5_7_ans.txt#2579/CH5/EX5.7/Ex5_7_ans.txt#R##104968
+5#Propagation#5.6#What is the max distance and what is the radio horizon in this case#Ex5_6.sce#2579/CH5/EX5.6/Ex5_6.sce#S##104963
+5#Propagation#5.6#What is the max distance and what is the radio horizon in this case#Ex5_6.txt#2579/CH5/EX5.6/Ex5_6.txt#R##104964
+5#Propagation#5.6#What is the max distance and what is the radio horizon in this case#Ex5_6_ans.txt#2579/CH5/EX5.6/Ex5_6_ans.txt#R##104965
+5#Propagation#5.51#What transmitter power is required for a received signal#Ex5_51.sce#2579/CH5/EX5.51/Ex5_51.sce#S##105098
+5#Propagation#5.51#What transmitter power is required for a received signal#Ex5_51.txt#2579/CH5/EX5.51/Ex5_51.txt#R##105099
+5#Propagation#5.51#What transmitter power is required for a received signal#Ex5_51_ans.txt#2579/CH5/EX5.51/Ex5_51_ans.txt#R##105100
+5#Propagation#5.50#What is the voltage available at the terminals#Ex5_50.sce#2579/CH5/EX5.50/Ex5_50.sce#S##105095
+5#Propagation#5.50#What is the voltage available at the terminals#Ex5_50.txt#2579/CH5/EX5.50/Ex5_50.txt#R##105096
+5#Propagation#5.50#What is the voltage available at the terminals#Ex5_50_ans.txt#2579/CH5/EX5.50/Ex5_50_ans.txt#R##105097
+5#Propagation#5.5#What is the critical frequency for the reflection at vertical incidence#Ex5_5.sce#2579/CH5/EX5.5/Ex5_5.sce#S##104960
+5#Propagation#5.5#What is the critical frequency for the reflection at vertical incidence#Ex5_5.txt#2579/CH5/EX5.5/Ex5_5.txt#R##104961
+5#Propagation#5.5#What is the critical frequency for the reflection at vertical incidence#Ex5_5_ans.txt#2579/CH5/EX5.5/Ex5_5_ans.txt#R##104962
+5#Propagation#5.49#Find the max allowable distance between the two antennas#Ex5_49.sce#2579/CH5/EX5.49/Ex5_49.sce#S##105092
+5#Propagation#5.49#Find the max allowable distance between the two antennas#Ex5_49.txt#2579/CH5/EX5.49/Ex5_49.txt#R##105093
+5#Propagation#5.49#Find the max allowable distance between the two antennas#Ex5_49_ans.txt#2579/CH5/EX5.49/Ex5_49_ans.txt#R##105094
+5#Propagation#5.48#Find the max range of the radar and also the max range when frequency is doubled#Ex5_48.sce#2579/CH5/EX5.48/Ex5_48.sce#S##105089
+5#Propagation#5.48#Find the max range of the radar and also the max range when frequency is doubled#Ex5_48.txt#2579/CH5/EX5.48/Ex5_48.txt#R##105090
+5#Propagation#5.48#Find the max range of the radar and also the max range when frequency is doubled#Ex5_48_ans.txt#2579/CH5/EX5.48/Ex5_48_ans.txt#R##105091
+5#Propagation#5.47#What is the max power thet can be received#Ex5_47.sce#2579/CH5/EX5.47/Ex5_47.sce#S##105086
+5#Propagation#5.47#What is the max power thet can be received#Ex5_47.txt#2579/CH5/EX5.47/Ex5_47.txt#R##105087
+5#Propagation#5.47#What is the max power thet can be received#Ex5_47_ans.txt#2579/CH5/EX5.47/Ex5_47_ans.txt#R##105088
+5#Propagation#5.46#Find the skip distance#Ex5_46.sce#2579/CH5/EX5.46/Ex5_46.sce#S##105083
+5#Propagation#5.46#Find the skip distance#Ex5_46.txt#2579/CH5/EX5.46/Ex5_46.txt#R##105084
+5#Propagation#5.46#Find the skip distance#Ex5_46_ans.txt#2579/CH5/EX5.46/Ex5_46_ans.txt#R##105085
+5#Propagation#5.45#At what frequency a wave must propogate for D region and what is the critical frequency#Ex5_45.sce#2579/CH5/EX5.45/Ex5_45.sce#S##105080
+5#Propagation#5.45#At what frequency a wave must propogate for D region and what is the critical frequency#Ex5_45.txt#2579/CH5/EX5.45/Ex5_45.txt#R##105081
+5#Propagation#5.45#At what frequency a wave must propogate for D region and what is the critical frequency#Ex5_45_ans.txt#2579/CH5/EX5.45/Ex5_45_ans.txt#R##105082
+5#Propagation#5.44#What will be the effects of earth magnetic field on refractive index of th eionosphere#Ex5_44.sce#2579/CH5/EX5.44/Ex5_44.sce#S##105077
+5#Propagation#5.44#What will be the effects of earth magnetic field on refractive index of th eionosphere#Ex5_44.txt#2579/CH5/EX5.44/Ex5_44.txt#R##105078
+5#Propagation#5.44#What will be the effects of earth magnetic field on refractive index of th eionosphere#Ex5_44_ans.txt#2579/CH5/EX5.44/Ex5_44_ans.txt#R##105079
+5#Propagation#5.43#Calculate the value of the frequency #Ex5_43.sce#2579/CH5/EX5.43/Ex5_43.sce#S##105074
+5#Propagation#5.43#Calculate the value of the frequency #Ex5_43.txt#2579/CH5/EX5.43/Ex5_43.txt#R##105075
+5#Propagation#5.43#Calculate the value of the frequency #Ex5_43_ans.txt#2579/CH5/EX5.43/Ex5_43_ans.txt#R##105076
+5#Propagation#5.42#What is standing wave ratio and explain how it is measured experimentally#Ex5_42.sce#2579/CH5/EX5.42/Ex5_42.sce#S##105071
+5#Propagation#5.42#What is standing wave ratio and explain how it is measured experimentally#Ex5_42.txt#2579/CH5/EX5.42/Ex5_42.txt#R##105072
+5#Propagation#5.42#What is standing wave ratio and explain how it is measured experimentally#Ex5_42_ans.txt#2579/CH5/EX5.42/Ex5_42_ans.txt#R##105073
+5#Propagation#5.41#Find the field strenght#Ex5_41.sce#2579/CH5/EX5.41/Ex5_41.sce#S##105068
+5#Propagation#5.41#Find the field strenght#Ex5_41.txt#2579/CH5/EX5.41/Ex5_41.txt#R##105069
+5#Propagation#5.41#Find the field strenght#Ex5_41_ans.txt#2579/CH5/EX5.41/Ex5_41_ans.txt#R##105070
+5#Propagation#5.40#Calculate the LOS range and field strength#Ex5_40.sce#2579/CH5/EX5.40/Ex5_40.sce#S##105065
+5#Propagation#5.40#Calculate the LOS range and field strength#Ex5_40.txt#2579/CH5/EX5.40/Ex5_40.txt#R##105066
+5#Propagation#5.40#Calculate the LOS range and field strength#Ex5_40_ans.txt#2579/CH5/EX5.40/Ex5_40_ans.txt#R##105067
+5#Propagation#5.4#Calculate the max electron concentrations of the layers#Ex5_4.sce#2579/CH5/EX5.4/Ex5_4.sce#S##104957
+5#Propagation#5.4#Calculate the max electron concentrations of the layers#Ex5_4.txt#2579/CH5/EX5.4/Ex5_4.txt#R##104958
+5#Propagation#5.4#Calculate the max electron concentrations of the layers#Ex5_4_ans.txt#2579/CH5/EX5.4/Ex5_4_ans.txt#R##104959
+5#Propagation#5.39#Explain the Directivity polarization and virtual height#Ex5_39.sce#2579/CH5/EX5.39/Ex5_39.sce#S##105062
+5#Propagation#5.39#Explain the Directivity polarization and virtual height#Ex5_39.txt#2579/CH5/EX5.39/Ex5_39.txt#R##105063
+5#Propagation#5.39#Explain the Directivity polarization and virtual height#Ex5_39_ans.txt#2579/CH5/EX5.39/Ex5_39_ans.txt#R##105064
+5#Propagation#5.38#Find the received power #Ex5_38.sce#2579/CH5/EX5.38/Ex5_38.sce#S##105059
+5#Propagation#5.38#Find the received power #Ex5_38.txt#2579/CH5/EX5.38/Ex5_38.txt#R##105060
+5#Propagation#5.38#Find the received power #Ex5_38_ans.txt#2579/CH5/EX5.38/Ex5_38_ans.txt#R##105061
+5#Propagation#5.37#At what frequency a wave must propogate for the D regions #Ex5_37.sce#2579/CH5/EX5.37/Ex5_37.sce#S##105056
+5#Propagation#5.37#At what frequency a wave must propogate for the D regions #Ex5_37.txt#2579/CH5/EX5.37/Ex5_37.txt#R##105057
+5#Propagation#5.37#At what frequency a wave must propogate for the D regions #Ex5_37_ans.txt#2579/CH5/EX5.37/Ex5_37_ans.txt#R##105058
+5#Propagation#5.36#Determine the ground range for which this frequency is MUF#Ex5_36.sce#2579/CH5/EX5.36/Ex5_36.sce#S##105053
+5#Propagation#5.36#Determine the ground range for which this frequency is MUF#Ex5_36.txt#2579/CH5/EX5.36/Ex5_36.txt#R##105054
+5#Propagation#5.36#Determine the ground range for which this frequency is MUF#Ex5_36_ans.txt#2579/CH5/EX5.36/Ex5_36_ans.txt#R##105055
+5#Propagation#5.35#Calculate the value of frequency at which an electromagnetic wave must be propagate#Ex5_35.sce#2579/CH5/EX5.35/Ex5_35.sce#S##105050
+5#Propagation#5.35#Calculate the value of frequency at which an electromagnetic wave must be propagate#Ex5_35.txt#2579/CH5/EX5.35/Ex5_35.txt#R##105051
+5#Propagation#5.35#Calculate the value of frequency at which an electromagnetic wave must be propagate#Ex5_35_ans.txt#2579/CH5/EX5.35/Ex5_35_ans.txt#R##105052
+5#Propagation#5.34#Calculate the MUF for the given path#Ex5_34.sce#2579/CH5/EX5.34/Ex5_34.sce#S##105047
+5#Propagation#5.34#Calculate the MUF for the given path#Ex5_34.txt#2579/CH5/EX5.34/Ex5_34.txt#R##105048
+5#Propagation#5.34#Calculate the MUF for the given path#Ex5_34_ans.txt#2579/CH5/EX5.34/Ex5_34_ans.txt#R##105049
+5#Propagation#5.33#What is the max power received by the receiver#Ex5_33.sce#2579/CH5/EX5.33/Ex5_33.sce#S##105044
+5#Propagation#5.33#What is the max power received by the receiver#Ex5_33.txt#2579/CH5/EX5.33/Ex5_33.txt#R##105045
+5#Propagation#5.33#What is the max power received by the receiver#Ex5_33_ans.txt#2579/CH5/EX5.33/Ex5_33_ans.txt#R##105046
+5#Propagation#5.32#Calculate the power received by an antenna#Ex5_32.sce#2579/CH5/EX5.32/Ex5_32.sce#S##105041
+5#Propagation#5.32#Calculate the power received by an antenna#Ex5_32.txt#2579/CH5/EX5.32/Ex5_32.txt#R##105042
+5#Propagation#5.32#Calculate the power received by an antenna#Ex5_32_ans.txt#2579/CH5/EX5.32/Ex5_32_ans.txt#R##105043
+5#Propagation#5.31#What will be the range for which the MUF is twenty MHz#Ex5_31.sce#2579/CH5/EX5.31/Ex5_31.sce#S##105038
+5#Propagation#5.31#What will be the range for which the MUF is twenty MHz#Ex5_31.txt#2579/CH5/EX5.31/Ex5_31.txt#R##105039
+5#Propagation#5.31#What will be the range for which the MUF is twenty MHz#Ex5_31_ans.txt#2579/CH5/EX5.31/Ex5_31_ans.txt#R##105040
+5#Propagation#5.30#What is the max disance along the surface of the earth#Ex5_30.sce#2579/CH5/EX5.30/Ex5_30.sce#S##105035
+5#Propagation#5.30#What is the max disance along the surface of the earth#Ex5_30.txt#2579/CH5/EX5.30/Ex5_30.txt#R##105036
+5#Propagation#5.30#What is the max disance along the surface of the earth#Ex5_30_ans.txt#2579/CH5/EX5.30/Ex5_30_ans.txt#R##105037
+5#Propagation#5.3#What will be the range for which the MUF is ten MHz#Ex5_3.sce#2579/CH5/EX5.3/Ex5_3.sce#S##104954
+5#Propagation#5.3#What will be the range for which the MUF is ten MHz#Ex5_3.txt#2579/CH5/EX5.3/Ex5_3.txt#R##104955
+5#Propagation#5.3#What will be the range for which the MUF is ten MHz#Ex5_3_ans.txt#2579/CH5/EX5.3/Ex5_3_ans.txt#R##104956
+5#Propagation#5.29#Calculate the power density reating the moon surface#Ex5_29.sce#2579/CH5/EX5.29/Ex5_29.sce#S##105032
+5#Propagation#5.29#Calculate the power density reating the moon surface#Ex5_29.txt#2579/CH5/EX5.29/Ex5_29.txt#R##105033
+5#Propagation#5.29#Calculate the power density reating the moon surface#Ex5_29_ans.txt#2579/CH5/EX5.29/Ex5_29_ans.txt#R##105034
+5#Propagation#5.28#Calculate the max line of sight range and the field strength and also distance#Ex5_28.sce#2579/CH5/EX5.28/Ex5_28.sce#S##105029
+5#Propagation#5.28#Calculate the max line of sight range and the field strength and also distance#Ex5_28.txt#2579/CH5/EX5.28/Ex5_28.txt#R##105030
+5#Propagation#5.28#Calculate the max line of sight range and the field strength and also distance#Ex5_28_ans.txt#2579/CH5/EX5.28/Ex5_28_ans.txt#R##105031
+5#Propagation#5.27#Find the virtual heightof the reflected layer#Ex5_27.sce#2579/CH5/EX5.27/Ex5_27.sce#S##105026
+5#Propagation#5.27#Find the virtual heightof the reflected layer#Ex5_27.txt#2579/CH5/EX5.27/Ex5_27.txt#R##105027
+5#Propagation#5.27#Find the virtual heightof the reflected layer#Ex5_27_ans.txt#2579/CH5/EX5.27/Ex5_27_ans.txt#R##105028
+5#Propagation#5.26#Calculate the max range obtainable in single hop transmission utilizing D layer#Ex5_26.sce#2579/CH5/EX5.26/Ex5_26.sce#S##105023
+5#Propagation#5.26#Calculate the max range obtainable in single hop transmission utilizing D layer#Ex5_26.txt#2579/CH5/EX5.26/Ex5_26.txt#R##105024
+5#Propagation#5.26#Calculate the max range obtainable in single hop transmission utilizing D layer#Ex5_26_ans.txt#2579/CH5/EX5.26/Ex5_26_ans.txt#R##105025
+5#Propagation#5.25#Calculate the max range obtainable in single hop transmission utilizing E layer#Ex5_25.sce#2579/CH5/EX5.25/Ex5_25.sce#S##105020
+5#Propagation#5.25#Calculate the max range obtainable in single hop transmission utilizing E layer#Ex5_25.txt#2579/CH5/EX5.25/Ex5_25.txt#R##105021
+5#Propagation#5.25#Calculate the max range obtainable in single hop transmission utilizing E layer#Ex5_25_ans.txt#2579/CH5/EX5.25/Ex5_25_ans.txt#R##105022
+5#Propagation#5.24#Explain what is meant by the gyro frequency and Calculate the max range obtain able in a single hop transmission utilizing#Ex5_24.sce#2579/CH5/EX5.24/Ex5_24.sce#S##105017
+5#Propagation#5.24#Explain what is meant by the gyro frequency and Calculate the max range obtain able in a single hop transmission utilizing#Ex5_24.txt#2579/CH5/EX5.24/Ex5_24.txt#R##105018
+5#Propagation#5.24#Explain what is meant by the gyro frequency and Calculate the max range obtain able in a single hop transmission utilizing#Ex5_24_ans.txt#2579/CH5/EX5.24/Ex5_24_ans.txt#R##105019
+5#Propagation#5.23#Calculate the the attenuation#Ex5_23.sce#2579/CH5/EX5.23/Ex5_23.sce#S##105014
+5#Propagation#5.23#Calculate the the attenuation#Ex5_23.txt#2579/CH5/EX5.23/Ex5_23.txt#R##105015
+5#Propagation#5.23#Calculate the the attenuation#Ex5_23_ans.txt#2579/CH5/EX5.23/Ex5_23_ans.txt#R##105016
+5#Propagation#5.22#Calculate the field strength at a receiving antenna#Ex5_22.sce#2579/CH5/EX5.22/Ex5_22.sce#S##105011
+5#Propagation#5.22#Calculate the field strength at a receiving antenna#Ex5_22.txt#2579/CH5/EX5.22/Ex5_22.txt#R##105012
+5#Propagation#5.22#Calculate the field strength at a receiving antenna#Ex5_22_ans.txt#2579/CH5/EX5.22/Ex5_22_ans.txt#R##105013
+5#Propagation#5.21#Calculate the open circuit voltage#Ex5_21.sce#2579/CH5/EX5.21/Ex5_21.sce#S##105008
+5#Propagation#5.21#Calculate the open circuit voltage#Ex5_21.txt#2579/CH5/EX5.21/Ex5_21.txt#R##105009
+5#Propagation#5.21#Calculate the open circuit voltage#Ex5_21_ans.txt#2579/CH5/EX5.21/Ex5_21_ans.txt#R##105010
+5#Propagation#5.20#Find the effective area#Ex5_20.sce#2579/CH5/EX5.20/Ex5_20.sce#S##105005
+5#Propagation#5.20#Find the effective area#Ex5_20.txt#2579/CH5/EX5.20/Ex5_20.txt#R##105006
+5#Propagation#5.20#Find the effective area#Ex5_20_ans.txt#2579/CH5/EX5.20/Ex5_20_ans.txt#R##105007
+5#Propagation#5.2#Calculate the field strength#Ex5_2.sce#2579/CH5/EX5.2/Ex5_2.sce#S##104951
+5#Propagation#5.2#Calculate the field strength#Ex5_2.txt#2579/CH5/EX5.2/Ex5_2.txt#R##104952
+5#Propagation#5.2#Calculate the field strength#Ex5_2_ans.txt#2579/CH5/EX5.2/Ex5_2_ans.txt#R##104953
+5#Propagation#5.19#Calculate the transmission path distance for an ionospheric transmission#Ex5_19.sce#2579/CH5/EX5.19/Ex5_19.sce#S##105002
+5#Propagation#5.19#Calculate the transmission path distance for an ionospheric transmission#Ex5_19.txt#2579/CH5/EX5.19/Ex5_19.txt#R##105003
+5#Propagation#5.19#Calculate the transmission path distance for an ionospheric transmission#Ex5_19_ans.txt#2579/CH5/EX5.19/Ex5_19_ans.txt#R##105004
+5#Propagation#5.18#Determine the strength of its ground wave#Ex5_18.sce#2579/CH5/EX5.18/Ex5_18.sce#S##104999
+5#Propagation#5.18#Determine the strength of its ground wave#Ex5_18.txt#2579/CH5/EX5.18/Ex5_18.txt#R##105000
+5#Propagation#5.18#Determine the strength of its ground wave#Ex5_18_ans.txt#2579/CH5/EX5.18/Ex5_18_ans.txt#R##105001
+5#Propagation#5.17#Determine the transmitter power required#Ex5_17.sce#2579/CH5/EX5.17/Ex5_17.sce#S##104996
+5#Propagation#5.17#Determine the transmitter power required#Ex5_17.txt#2579/CH5/EX5.17/Ex5_17.txt#R##104997
+5#Propagation#5.17#Determine the transmitter power required#Ex5_17_ans.txt#2579/CH5/EX5.17/Ex5_17_ans.txt#R##104998
+5#Propagation#5.16#Determine the ground range for which this frequency is the MUF#Ex5_16.sce#2579/CH5/EX5.16/Ex5_16.sce#S##104993
+5#Propagation#5.16#Determine the ground range for which this frequency is the MUF#Ex5_16.txt#2579/CH5/EX5.16/Ex5_16.txt#R##104994
+5#Propagation#5.16#Determine the ground range for which this frequency is the MUF#Ex5_16_ans.txt#2579/CH5/EX5.16/Ex5_16_ans.txt#R##104995
+5#Propagation#5.15#Find the field strength at a distance of twenty km#Ex5_15.sce#2579/CH5/EX5.15/Ex5_15.sce#S##104990
+5#Propagation#5.15#Find the field strength at a distance of twenty km#Ex5_15.txt#2579/CH5/EX5.15/Ex5_15.txt#R##104991
+5#Propagation#5.15#Find the field strength at a distance of twenty km#Ex5_15_ans.txt#2579/CH5/EX5.15/Ex5_15_ans.txt#R##104992
+5#Propagation#5.14#Find the basic path loss#Ex5_14.sce#2579/CH5/EX5.14/Ex5_14.sce#S##104987
+5#Propagation#5.14#Find the basic path loss#Ex5_14.txt#2579/CH5/EX5.14/Ex5_14.txt#R##104988
+5#Propagation#5.14#Find the basic path loss#Ex5_14_ans.txt#2579/CH5/EX5.14/Ex5_14_ans.txt#R##104989
+5#Propagation#5.13#What is the critical frequency for the reflection at vertical incidence#Ex5_13.sce#2579/CH5/EX5.13/Ex5_13.sce#S##104984
+5#Propagation#5.13#What is the critical frequency for the reflection at vertical incidence#Ex5_13.txt#2579/CH5/EX5.13/Ex5_13.txt#R##104985
+5#Propagation#5.13#What is the critical frequency for the reflection at vertical incidence#Ex5_13_ans.txt#2579/CH5/EX5.13/Ex5_13_ans.txt#R##104986
+5#Propagation#5.12#What is the max distance and the radio horizon in this case#Ex5_12.sce#2579/CH5/EX5.12/Ex5_12.sce#S##104981
+5#Propagation#5.12#What is the max distance and the radio horizon in this case#Ex5_12.txt#2579/CH5/EX5.12/Ex5_12.txt#R##104982
+5#Propagation#5.12#What is the max distance and the radio horizon in this case#Ex5_12_ans.txt#2579/CH5/EX5.12/Ex5_12_ans.txt#R##104983
+5#Propagation#5.11#What will be the range for which the MUF is twelve MHz#Ex5_11.sce#2579/CH5/EX5.11/Ex5_11.sce#S##104978
+5#Propagation#5.11#What will be the range for which the MUF is twelve MHz#Ex5_11.txt#2579/CH5/EX5.11/Ex5_11.txt#R##104979
+5#Propagation#5.11#What will be the range for which the MUF is twelve MHz#Ex5_11_ans.txt#2579/CH5/EX5.11/Ex5_11_ans.txt#R##104980
+5#Propagation#5.10#At what frequency a wave must propagate for the D region#Ex5_10.sce#2579/CH5/EX5.10/Ex5_10.sce#S##104975
+5#Propagation#5.10#At what frequency a wave must propagate for the D region#Ex5_10.txt#2579/CH5/EX5.10/Ex5_10.txt#R##104976
+5#Propagation#5.10#At what frequency a wave must propagate for the D region#Ex5_10_ans.txt#2579/CH5/EX5.10/Ex5_10_ans.txt#R##104977
+5#Propagation#5.1#Calculate max line of sight range and the field strength and also calculate the distance#Ex5_1.sce#2579/CH5/EX5.1/Ex5_1.sce#S##104948
+5#Propagation#5.1#Calculate max line of sight range and the field strength and also calculate the distance#Ex5_1.txt#2579/CH5/EX5.1/Ex5_1.txt#R##104949
+5#Propagation#5.1#Calculate max line of sight range and the field strength and also calculate the distance#Ex5_1_ans.txt#2579/CH5/EX5.1/Ex5_1_ans.txt#R##104950
+4#Practical Antennas#4.9#Calculate the power gain of an optimum horn antenna#Ex4_9.sce#2579/CH4/EX4.9/Ex4_9.sce#S##104744
+4#Practical Antennas#4.9#Calculate the power gain of an optimum horn antenna#Ex4_9.txt#2579/CH4/EX4.9/Ex4_9.txt#R##104745
+4#Practical Antennas#4.9#Calculate the power gain of an optimum horn antenna#Ex4_9_ans.txt#2579/CH4/EX4.9/Ex4_9_ans.txt#R##104746
+4#Practical Antennas#4.8#What are the dimensions of the elements#Ex4_8.sce#2579/CH4/EX4.8/Ex4_8.sce#S##104740
+4#Practical Antennas#4.8#What are the dimensions of the elements#Ex4_8.txt#2579/CH4/EX4.8/Ex4_8.txt#R##104741
+4#Practical Antennas#4.8#What are the dimensions of the elements#Ex4_8_ans.txt#2579/CH4/EX4.8/Ex4_8_ans.txt#R##104742
+4#Practical Antennas#4.7#Calculate the beamwidth and gain as a power ratio and in dB#Ex4_7.sce#2579/CH4/EX4.7/Ex4_7.sce#S##104734
+4#Practical Antennas#4.7#Calculate the beamwidth and gain as a power ratio and in dB#Ex4_7.txt#2579/CH4/EX4.7/Ex4_7.txt#R##104735
+4#Practical Antennas#4.7#Calculate the beamwidth and gain as a power ratio and in dB#Ex4_7_ans.txt#2579/CH4/EX4.7/Ex4_7_ans.txt#R##104736
+4#Practical Antennas#4.6#what is the change in gain#Ex4_6.sce#2579/CH4/EX4.6/Ex4_6.sce#S##104729
+4#Practical Antennas#4.6#what is the change in gain#Ex4_6.txt#2579/CH4/EX4.6/Ex4_6.txt#R##104730
+4#Practical Antennas#4.6#what is the change in gain#Ex4_6_ans.txt#2579/CH4/EX4.6/Ex4_6_ans.txt#R##104731
+4#Practical Antennas#4.51#Calculate the number of turns and directivity in dB and the half power point beam width in degree and axial ratio of the helix#Ex4_51.sce#2579/CH4/EX4.51/Ex4_51.sce#S##104939
+4#Practical Antennas#4.51#Calculate the number of turns and directivity in dB and the half power point beam width in degree and axial ratio of the helix#Ex4_51.txt#2579/CH4/EX4.51/Ex4_51.txt#R##104940
+4#Practical Antennas#4.51#Calculate the number of turns and directivity in dB and the half power point beam width in degree and axial ratio of the helix#Ex4_51_ans.txt#2579/CH4/EX4.51/Ex4_51_ans.txt#R##104941
+4#Practical Antennas#4.50#Calculate the HPBW and directivity#Ex4_50.sce#2579/CH4/EX4.50/Ex4_50.sce#S##104935
+4#Practical Antennas#4.50#Calculate the HPBW and directivity#Ex4_50.txt#2579/CH4/EX4.50/Ex4_50.txt#R##104936
+4#Practical Antennas#4.50#Calculate the HPBW and directivity#Ex4_50_ans.txt#2579/CH4/EX4.50/Ex4_50_ans.txt#R##104937
+4#Practical Antennas#4.5#What is the change in gain and beam width #Ex4_5.sce#2579/CH4/EX4.5/Ex4_5.sce#S##104725
+4#Practical Antennas#4.5#What is the change in gain and beam width #Ex4_5.txt#2579/CH4/EX4.5/Ex4_5.txt#R##104726
+4#Practical Antennas#4.5#What is the change in gain and beam width #Ex4_5_ans.txt#2579/CH4/EX4.5/Ex4_5_ans.txt#R##104727
+4#Practical Antennas#4.49#Calculate the gain and half power beam widths#Ex4_49.sce#2579/CH4/EX4.49/Ex4_49.sce#S##104931
+4#Practical Antennas#4.49#Calculate the gain and half power beam widths#Ex4_49.txt#2579/CH4/EX4.49/Ex4_49.txt#R##104932
+4#Practical Antennas#4.49#Calculate the gain and half power beam widths#Ex4_49_ans.txt#2579/CH4/EX4.49/Ex4_49_ans.txt#R##104933
+4#Practical Antennas#4.48#Calculate the gain of the transmitting antenna#Ex4_48.sce#2579/CH4/EX4.48/Ex4_48.sce#S##104927
+4#Practical Antennas#4.48#Calculate the gain of the transmitting antenna#Ex4_48.txt#2579/CH4/EX4.48/Ex4_48.txt#R##104928
+4#Practical Antennas#4.48#Calculate the gain of the transmitting antenna#Ex4_48_ans.txt#2579/CH4/EX4.48/Ex4_48_ans.txt#R##104929
+4#Practical Antennas#4.47#Determine the dimensions of the horn mouth and the directive gain#Ex4_47.sce#2579/CH4/EX4.47/Ex4_47.sce#S##104922
+4#Practical Antennas#4.47#Determine the dimensions of the horn mouth and the directive gain#Ex4_47.txt#2579/CH4/EX4.47/Ex4_47.txt#R##104923
+4#Practical Antennas#4.47#Determine the dimensions of the horn mouth and the directive gain#Ex4_47_ans.txt#2579/CH4/EX4.47/Ex4_47_ans.txt#R##104924
+4#Practical Antennas#4.46#Calculate the aperture height#Ex4_46.sce#2579/CH4/EX4.46/Ex4_46.sce#S##104918
+4#Practical Antennas#4.46#Calculate the aperture height#Ex4_46.txt#2579/CH4/EX4.46/Ex4_46.txt#R##104919
+4#Practical Antennas#4.46#Calculate the aperture height#Ex4_46_ans.txt#2579/CH4/EX4.46/Ex4_46_ans.txt#R##104920
+4#Practical Antennas#4.45#Calculate the directivity and power gain as a ratio and in dB#Ex4_45.sce#2579/CH4/EX4.45/Ex4_45.sce#S##104914
+4#Practical Antennas#4.45#Calculate the directivity and power gain as a ratio and in dB#Ex4_45.txt#2579/CH4/EX4.45/Ex4_45.txt#R##104915
+4#Practical Antennas#4.45#Calculate the directivity and power gain as a ratio and in dB#Ex4_45_ans.txt#2579/CH4/EX4.45/Ex4_45_ans.txt#R##104916
+4#Practical Antennas#4.44#Calculate the diameter of antenna and half power point beam width#Ex4_44.sce#2579/CH4/EX4.44/Ex4_44.sce#S##104909
+4#Practical Antennas#4.44#Calculate the diameter of antenna and half power point beam width#Ex4_44.txt#2579/CH4/EX4.44/Ex4_44.txt#R##104910
+4#Practical Antennas#4.44#Calculate the diameter of antenna and half power point beam width#Ex4_44_ans.txt#2579/CH4/EX4.44/Ex4_44_ans.txt#R##104911
+4#Practical Antennas#4.43#Calculate the power gain and half power point beam width#Ex4_43.sce#2579/CH4/EX4.43/Ex4_43.sce#S##104905
+4#Practical Antennas#4.43#Calculate the power gain and half power point beam width#Ex4_43.txt#2579/CH4/EX4.43/Ex4_43.txt#R##104906
+4#Practical Antennas#4.43#Calculate the power gain and half power point beam width#Ex4_43_ans.txt#2579/CH4/EX4.43/Ex4_43_ans.txt#R##104907
+4#Practical Antennas#4.42#What is its gain#Ex4_42.sce#2579/CH4/EX4.42/Ex4_42.sce#S##104901
+4#Practical Antennas#4.42#What is its gain#Ex4_42.txt#2579/CH4/EX4.42/Ex4_42.txt#R##104902
+4#Practical Antennas#4.42#What is its gain#Ex4_42_ans.txt#2579/CH4/EX4.42/Ex4_42_ans.txt#R##104903
+4#Practical Antennas#4.41#What is the corresponding value of illumination efficiency#Ex4_41.sce#2579/CH4/EX4.41/Ex4_41.sce#S##104894
+4#Practical Antennas#4.41#What is the corresponding value of illumination efficiency#Ex4_41.txt#2579/CH4/EX4.41/Ex4_41.txt#R##104895
+4#Practical Antennas#4.41#What is the corresponding value of illumination efficiency#Ex4_41_ans.txt#2579/CH4/EX4.41/Ex4_41_ans.txt#R##104896
+4#Practical Antennas#4.40#What is the antenna gain in decibels#Ex4_40.sce#2579/CH4/EX4.40/Ex4_40.sce#S##104889
+4#Practical Antennas#4.40#What is the antenna gain in decibels#Ex4_40.txt#2579/CH4/EX4.40/Ex4_40.txt#R##104890
+4#Practical Antennas#4.40#What is the antenna gain in decibels#Ex4_40_ans.txt#2579/CH4/EX4.40/Ex4_40_ans.txt#R##104891
+4#Practical Antennas#4.4#How large is the dish diameter#Ex4_4.sce#2579/CH4/EX4.4/Ex4_4.sce#S##104721
+4#Practical Antennas#4.4#How large is the dish diameter#Ex4_4.txt#2579/CH4/EX4.4/Ex4_4.txt#R##104722
+4#Practical Antennas#4.4#How large is the dish diameter#Ex4_4_ans.txt#2579/CH4/EX4.4/Ex4_4_ans.txt#R##104723
+4#Practical Antennas#4.39#Calculate the capture area of antenna#Ex4_39.sce#2579/CH4/EX4.39/Ex4_39.sce#S##104884
+4#Practical Antennas#4.39#Calculate the capture area of antenna#Ex4_39.txt#2579/CH4/EX4.39/Ex4_39.txt#R##104885
+4#Practical Antennas#4.39#Calculate the capture area of antenna#Ex4_39_ans.txt#2579/CH4/EX4.39/Ex4_39_ans.txt#R##104886
+4#Practical Antennas#4.38#Define folde dipole antenna and drive its input impedance#Ex4_38.sce#2579/CH4/EX4.38/Ex4_38.sce#S##104880
+4#Practical Antennas#4.38#Define folde dipole antenna and drive its input impedance#Ex4_38.txt#2579/CH4/EX4.38/Ex4_38.txt#R##104881
+4#Practical Antennas#4.38#Define folde dipole antenna and drive its input impedance#Ex4_38_ans.txt#2579/CH4/EX4.38/Ex4_38_ans.txt#R##104882
+4#Practical Antennas#4.37#Calculate the gain of the horn antenna#Ex4_37.sce#2579/CH4/EX4.37/Ex4_37.sce#S##104876
+4#Practical Antennas#4.37#Calculate the gain of the horn antenna#Ex4_37.txt#2579/CH4/EX4.37/Ex4_37.txt#R##104877
+4#Practical Antennas#4.37#Calculate the gain of the horn antenna#Ex4_37_ans.txt#2579/CH4/EX4.37/Ex4_37_ans.txt#R##104878
+4#Practical Antennas#4.36#Calculate the beamwidth and gain as a power ratio in dB#Ex4_36.sce#2579/CH4/EX4.36/Ex4_36.sce#S##104872
+4#Practical Antennas#4.36#Calculate the beamwidth and gain as a power ratio in dB#Ex4_36.txt#2579/CH4/EX4.36/Ex4_36.txt#R##104873
+4#Practical Antennas#4.36#Calculate the beamwidth and gain as a power ratio in dB#Ex4_36_ans.txt#2579/CH4/EX4.36/Ex4_36_ans.txt#R##104874
+4#Practical Antennas#4.35#What is the change in gain and beamwidth#Ex4_35.sce#2579/CH4/EX4.35/Ex4_35.sce#S##104866
+4#Practical Antennas#4.35#What is the change in gain and beamwidth#Ex4_35.txt#2579/CH4/EX4.35/Ex4_35.txt#R##104867
+4#Practical Antennas#4.35#What is the change in gain and beamwidth#Ex4_35_ans.txt#2579/CH4/EX4.35/Ex4_35_ans.txt#R##104868
+4#Practical Antennas#4.34#How large is the dish diameter#Ex4_34.sce#2579/CH4/EX4.34/Ex4_34.sce#S##104861
+4#Practical Antennas#4.34#How large is the dish diameter#Ex4_34.txt#2579/CH4/EX4.34/Ex4_34.txt#R##104862
+4#Practical Antennas#4.34#How large is the dish diameter#Ex4_34_ans.txt#2579/CH4/EX4.34/Ex4_34_ans.txt#R##104863
+4#Practical Antennas#4.33#Find the dimensions of three element#Ex4_33.sce#2579/CH4/EX4.33/Ex4_33.sce#S##104854
+4#Practical Antennas#4.33#Find the dimensions of three element#Ex4_33.txt#2579/CH4/EX4.33/Ex4_33.txt#R##104855
+4#Practical Antennas#4.33#Find the dimensions of three element#Ex4_33_ans.txt#2579/CH4/EX4.33/Ex4_33_ans.txt#R##104856
+4#Practical Antennas#4.32#Find the received power #Ex4_32.sce#2579/CH4/EX4.32/Ex4_32.sce#S##104850
+4#Practical Antennas#4.32#Find the received power #Ex4_32.txt#2579/CH4/EX4.32/Ex4_32.txt#R##104851
+4#Practical Antennas#4.32#Find the received power #Ex4_32_ans.txt#2579/CH4/EX4.32/Ex4_32_ans.txt#R##104852
+4#Practical Antennas#4.31#Calculate the directivity in dB#Ex4_31.sce#2579/CH4/EX4.31/Ex4_31.sce#S##104846
+4#Practical Antennas#4.31#Calculate the directivity in dB#Ex4_31.txt#2579/CH4/EX4.31/Ex4_31.txt#R##104847
+4#Practical Antennas#4.31#Calculate the directivity in dB#Ex4_31_ans.txt#2579/CH4/EX4.31/Ex4_31_ans.txt#R##104848
+4#Practical Antennas#4.30#What should be minimum distance between primary and secondary antenna#Ex4_30.sce#2579/CH4/EX4.30/Ex4_30.sce#S##104842
+4#Practical Antennas#4.30#What should be minimum distance between primary and secondary antenna#Ex4_30.txt#2579/CH4/EX4.30/Ex4_30.txt#R##104843
+4#Practical Antennas#4.30#What should be minimum distance between primary and secondary antenna#Ex4_30_ans.txt#2579/CH4/EX4.30/Ex4_30_ans.txt#R##104844
+4#Practical Antennas#4.3#What is the gain in dB and the beam width of a helical antenna#Ex4_3.sce#2579/CH4/EX4.3/Ex4_3.sce#S##104717
+4#Practical Antennas#4.3#What is the gain in dB and the beam width of a helical antenna#Ex4_3.txt#2579/CH4/EX4.3/Ex4_3.txt#R##104718
+4#Practical Antennas#4.3#What is the gain in dB and the beam width of a helical antenna#Ex4_3_ans.txt#2579/CH4/EX4.3/Ex4_3_ans.txt#R##104719
+4#Practical Antennas#4.29#Calculate the beamwidth between first null and what will be its gain in dB#Ex4_29.sce#2579/CH4/EX4.29/Ex4_29.sce#S##104837
+4#Practical Antennas#4.29#Calculate the beamwidth between first null and what will be its gain in dB#Ex4_29.txt#2579/CH4/EX4.29/Ex4_29.txt#R##104838
+4#Practical Antennas#4.29#Calculate the beamwidth between first null and what will be its gain in dB#Ex4_29_ans.txt#2579/CH4/EX4.29/Ex4_29_ans.txt#R##104839
+4#Practical Antennas#4.28#Calculate the max emf in the loop#Ex4_28.sce#2579/CH4/EX4.28/Ex4_28.sce#S##104832
+4#Practical Antennas#4.28#Calculate the max emf in the loop#Ex4_28.txt#2579/CH4/EX4.28/Ex4_28.txt#R##104833
+4#Practical Antennas#4.28#Calculate the max emf in the loop#Ex4_28_ans.txt#2579/CH4/EX4.28/Ex4_28_ans.txt#R##104834
+4#Practical Antennas#4.27#Estimate the voltage across the capacitor#Ex4_27.sce#2579/CH4/EX4.27/Ex4_27.sce#S##104827
+4#Practical Antennas#4.27#Estimate the voltage across the capacitor#Ex4_27.txt#2579/CH4/EX4.27/Ex4_27.txt#R##104828
+4#Practical Antennas#4.27#Estimate the voltage across the capacitor#Ex4_27_ans.txt#2579/CH4/EX4.27/Ex4_27_ans.txt#R##104829
+4#Practical Antennas#4.26#Calculate the input voltage to the receiver#Ex4_26.sce#2579/CH4/EX4.26/Ex4_26.sce#S##104821
+4#Practical Antennas#4.26#Calculate the input voltage to the receiver#Ex4_26.txt#2579/CH4/EX4.26/Ex4_26.txt#R##104822
+4#Practical Antennas#4.26#Calculate the input voltage to the receiver#Ex4_26_ans.txt#2579/CH4/EX4.26/Ex4_26_ans.txt#R##104823
+4#Practical Antennas#4.25#Calculate the peak value of the magnetic field intensity H of the radio wave#Ex4_25.sce#2579/CH4/EX4.25/Ex4_25.sce#S##104817
+4#Practical Antennas#4.25#Calculate the peak value of the magnetic field intensity H of the radio wave#Ex4_25.txt#2579/CH4/EX4.25/Ex4_25.txt#R##104818
+4#Practical Antennas#4.25#Calculate the peak value of the magnetic field intensity H of the radio wave#Ex4_25_ans.txt#2579/CH4/EX4.25/Ex4_25_ans.txt#R##104819
+4#Practical Antennas#4.24#Calculate the angular aperture for paraboloidal reflector antenna#Ex4_24.sce#2579/CH4/EX4.24/Ex4_24.sce#S##104811
+4#Practical Antennas#4.24#Calculate the angular aperture for paraboloidal reflector antenna#Ex4_24.txt#2579/CH4/EX4.24/Ex4_24.txt#R##104812
+4#Practical Antennas#4.24#Calculate the angular aperture for paraboloidal reflector antenna#Ex4_24_ans.txt#2579/CH4/EX4.24/Ex4_24_ans.txt#R##104813
+4#Practical Antennas#4.23#Find out the length and width and half flare angles#Ex4_23.sce#2579/CH4/EX4.23/Ex4_23.sce#S##104807
+4#Practical Antennas#4.23#Find out the length and width and half flare angles#Ex4_23.txt#2579/CH4/EX4.23/Ex4_23.txt#R##104808
+4#Practical Antennas#4.23#Find out the length and width and half flare angles#Ex4_23_ans.txt#2579/CH4/EX4.23/Ex4_23_ans.txt#R##104809
+4#Practical Antennas#4.22#Calculate the directivity in dB#Ex4_22.sce#2579/CH4/EX4.22/Ex4_22.sce#S##104803
+4#Practical Antennas#4.22#Calculate the directivity in dB#Ex4_22.txt#2579/CH4/EX4.22/Ex4_22.txt#R##104804
+4#Practical Antennas#4.22#Calculate the directivity in dB#Ex4_22_ans.txt#2579/CH4/EX4.22/Ex4_22_ans.txt#R##104805
+4#Practical Antennas#4.21#What is the directivities of these two antennas#Ex4_21.sce#2579/CH4/EX4.21/Ex4_21.sce#S##104800
+4#Practical Antennas#4.21#What is the directivities of these two antennas#Ex4_21.txt#2579/CH4/EX4.21/Ex4_21.txt#R##104801
+4#Practical Antennas#4.21#What is the directivities of these two antennas#Ex4_21_ans.txt#2579/CH4/EX4.21/Ex4_21_ans.txt#R##104802
+4#Practical Antennas#4.20#Estimate the diameter of the mouth and the half power beamwidth#Ex4_20.sce#2579/CH4/EX4.20/Ex4_20.sce#S##104795
+4#Practical Antennas#4.20#Estimate the diameter of the mouth and the half power beamwidth#Ex4_20.txt#2579/CH4/EX4.20/Ex4_20.txt#R##104796
+4#Practical Antennas#4.20#Estimate the diameter of the mouth and the half power beamwidth#Ex4_20_ans.txt#2579/CH4/EX4.20/Ex4_20_ans.txt#R##104797
+4#Practical Antennas#4.2#Find the dimenssions of a three element#Ex4_2.sce#2579/CH4/EX4.2/Ex4_2.sce#S##104713
+4#Practical Antennas#4.2#Find the dimenssions of a three element#Ex4_2.txt#2579/CH4/EX4.2/Ex4_2.txt#R##104714
+4#Practical Antennas#4.2#Find the dimenssions of a three element#Ex4_2_ans.txt#2579/CH4/EX4.2/Ex4_2_ans.txt#R##104715
+4#Practical Antennas#4.19#Estimate the diameter and effective aperture#Ex4_19.sce#2579/CH4/EX4.19/Ex4_19.sce#S##104791
+4#Practical Antennas#4.19#Estimate the diameter and effective aperture#Ex4_19.txt#2579/CH4/EX4.19/Ex4_19.txt#R##104792
+4#Practical Antennas#4.19#Estimate the diameter and effective aperture#Ex4_19_ans.txt#2579/CH4/EX4.19/Ex4_19_ans.txt#R##104793
+4#Practical Antennas#4.18#Estimate the diameter of the paraboloidal reflector#Ex4_18.sce#2579/CH4/EX4.18/Ex4_18.sce#S##104787
+4#Practical Antennas#4.18#Estimate the diameter of the paraboloidal reflector#Ex4_18.txt#2579/CH4/EX4.18/Ex4_18.txt#R##104788
+4#Practical Antennas#4.18#Estimate the diameter of the paraboloidal reflector#Ex4_18_ans.txt#2579/CH4/EX4.18/Ex4_18_ans.txt#R##104789
+4#Practical Antennas#4.17#Calculate the gain of the horn antenna#Ex4_17.sce#2579/CH4/EX4.17/Ex4_17.sce#S##104781
+4#Practical Antennas#4.17#Calculate the gain of the horn antenna#Ex4_17.txt#2579/CH4/EX4.17/Ex4_17.txt#R##104782
+4#Practical Antennas#4.17#Calculate the gain of the horn antenna#Ex4_17_ans.txt#2579/CH4/EX4.17/Ex4_17_ans.txt#R##104783
+4#Practical Antennas#4.16#Determine the gain beamwidth and capture area for a parabolic antenna#Ex4_16.sce#2579/CH4/EX4.16/Ex4_16.sce#S##104777
+4#Practical Antennas#4.16#Determine the gain beamwidth and capture area for a parabolic antenna#Ex4_16.txt#2579/CH4/EX4.16/Ex4_16.txt#R##104778
+4#Practical Antennas#4.16#Determine the gain beamwidth and capture area for a parabolic antenna#Ex4_16_ans.txt#2579/CH4/EX4.16/Ex4_16_ans.txt#R##104779
+4#Practical Antennas#4.15#Calculate the antenna gain in dB#Ex4_15.sce#2579/CH4/EX4.15/Ex4_15.sce#S##104773
+4#Practical Antennas#4.15#Calculate the antenna gain in dB#Ex4_15.txt#2579/CH4/EX4.15/Ex4_15.txt#R##104774
+4#Practical Antennas#4.15#Calculate the antenna gain in dB#Ex4_15_ans.txt#2579/CH4/EX4.15/Ex4_15_ans.txt#R##104775
+4#Practical Antennas#4.14#Estimate the diameter and the effective aperture of a paraboloidal reflector antenna#Ex4_14.sce#2579/CH4/EX4.14/Ex4_14.sce#S##104769
+4#Practical Antennas#4.14#Estimate the diameter and the effective aperture of a paraboloidal reflector antenna#Ex4_14.txt#2579/CH4/EX4.14/Ex4_14.txt#R##104770
+4#Practical Antennas#4.14#Estimate the diameter and the effective aperture of a paraboloidal reflector antenna#Ex4_14_ans.txt#2579/CH4/EX4.14/Ex4_14_ans.txt#R##104771
+4#Practical Antennas#4.13#Find the terminal resistance of complementary slot#Ex4_13.sce#2579/CH4/EX4.13/Ex4_13.sce#S##104765
+4#Practical Antennas#4.13#Find the terminal resistance of complementary slot#Ex4_13.txt#2579/CH4/EX4.13/Ex4_13.txt#R##104766
+4#Practical Antennas#4.13#Find the terminal resistance of complementary slot#Ex4_13_ans.txt#2579/CH4/EX4.13/Ex4_13_ans.txt#R##104767
+4#Practical Antennas#4.12#Estimate the diameter of the mouth and the half power beam width of the antenna#Ex4_12.sce#2579/CH4/EX4.12/Ex4_12.sce#S##104760
+4#Practical Antennas#4.12#Estimate the diameter of the mouth and the half power beam width of the antenna#Ex4_12.txt#2579/CH4/EX4.12/Ex4_12.txt#R##104761
+4#Practical Antennas#4.12#Estimate the diameter of the mouth and the half power beam width of the antenna#Ex4_12_ans.txt#2579/CH4/EX4.12/Ex4_12_ans.txt#R##104762
+4#Practical Antennas#4.11#Calculate the radiation resistance#Ex4_11.sce#2579/CH4/EX4.11/Ex4_11.sce#S##104756
+4#Practical Antennas#4.11#Calculate the radiation resistance#Ex4_11.txt#2579/CH4/EX4.11/Ex4_11.txt#R##104757
+4#Practical Antennas#4.11#Calculate the radiation resistance#Ex4_11_ans.txt#2579/CH4/EX4.11/Ex4_11_ans.txt#R##104758
+4#Practical Antennas#4.10#Calculate the peak value of the magnetic field intensity H of the RF wave#Ex4_10.sce#2579/CH4/EX4.10/Ex4_10.sce#S##104749
+4#Practical Antennas#4.10#Calculate the peak value of the magnetic field intensity H of the RF wave#Ex4_10.txt#2579/CH4/EX4.10/Ex4_10.txt#R##104750
+4#Practical Antennas#4.10#Calculate the peak value of the magnetic field intensity H of the RF wave#Ex4_10_ans.txt#2579/CH4/EX4.10/Ex4_10_ans.txt#R##104751
+4#Practical Antennas#4.1#Design a log periodic antenna for a broadcast band#Ex4_1.sce#2579/CH4/EX4.1/Ex4_1.sce#S##104708
+4#Practical Antennas#4.1#Design a log periodic antenna for a broadcast band#Ex4_1.txt#2579/CH4/EX4.1/Ex4_1.txt#R##104709
+4#Practical Antennas#4.1#Design a log periodic antenna for a broadcast band#Ex4_1_ans.txt#2579/CH4/EX4.1/Ex4_1_ans.txt#R##104710
+3#Antenna Arrays#3.9#Calculate the directivity of a given linear broad side#Ex3_9.sce#2579/CH3/EX3.9/Ex3_9.sce#S##104631
+3#Antenna Arrays#3.9#Calculate the directivity of a given linear broad side#Ex3_9.txt#2579/CH3/EX3.9/Ex3_9.txt#R##104632
+3#Antenna Arrays#3.9#Calculate the directivity of a given linear broad side#Ex3_9_ans.txt#2579/CH3/EX3.9/Ex3_9_ans.txt#R##104633
+3#Antenna Arrays#3.8#Design an array to yield an optimum pattern#Ex3_8.sce#2579/CH3/EX3.8/Ex3_8.sce#S##104626
+3#Antenna Arrays#3.8#Design an array to yield an optimum pattern#Ex3_8.txt#2579/CH3/EX3.8/Ex3_8.txt#R##104627
+3#Antenna Arrays#3.8#Design an array to yield an optimum pattern#Ex3_8_ans.txt#2579/CH3/EX3.8/Ex3_8_ans.txt#R##104628
+3#Antenna Arrays#3.7#Determine Dolph Tchebyscheff current distribution and also determine the half power beam width#Ex3_7.sce#2579/CH3/EX3.7/Ex3_7.sce#S##104622
+3#Antenna Arrays#3.7#Determine Dolph Tchebyscheff current distribution and also determine the half power beam width#Ex3_7.txt#2579/CH3/EX3.7/Ex3_7.txt#R##104623
+3#Antenna Arrays#3.7#Determine Dolph Tchebyscheff current distribution and also determine the half power beam width#Ex3_7_ans.txt#2579/CH3/EX3.7/Ex3_7_ans.txt#R##104624
+3#Antenna Arrays#3.6#Design a four element broad side array#Ex3_6.sce#2579/CH3/EX3.6/Ex3_6.sce#S##104619
+3#Antenna Arrays#3.6#Design a four element broad side array#Ex3_6.txt#2579/CH3/EX3.6/Ex3_6.txt#R##104620
+3#Antenna Arrays#3.6#Design a four element broad side array#Ex3_6_ans.txt#2579/CH3/EX3.6/Ex3_6_ans.txt#R##104621
+3#Antenna Arrays#3.5#Design a five element broad side array which has the optimum pattern#Ex3_5.sce#2579/CH3/EX3.5/Ex3_5.sce#S##104615
+3#Antenna Arrays#3.5#Design a five element broad side array which has the optimum pattern#Ex3_5.txt#2579/CH3/EX3.5/Ex3_5.txt#R##104616
+3#Antenna Arrays#3.5#Design a five element broad side array which has the optimum pattern#Ex3_5_ans.txt#2579/CH3/EX3.5/Ex3_5_ans.txt#R##104617
+3#Antenna Arrays#3.4#Design a eight element broad side array#Ex3_4.sce#2579/CH3/EX3.4/Ex3_4.sce#S##104612
+3#Antenna Arrays#3.4#Design a eight element broad side array#Ex3_4.txt#2579/CH3/EX3.4/Ex3_4.txt#R##104613
+3#Antenna Arrays#3.4#Design a eight element broad side array#Ex3_4_ans.txt#2579/CH3/EX3.4/Ex3_4_ans.txt#R##104614
+3#Antenna Arrays#3.3#Discuss the radiation pattern of a linear array#Ex3_3.sce#2579/CH3/EX3.3/Ex3_3.sce#S##104609
+3#Antenna Arrays#3.3#Discuss the radiation pattern of a linear array#Ex3_3.txt#2579/CH3/EX3.3/Ex3_3.txt#R##104610
+3#Antenna Arrays#3.3#Discuss the radiation pattern of a linear array#Ex3_3_ans.txt#2579/CH3/EX3.3/Ex3_3_ans.txt#R##104701
+3#Antenna Arrays#3.25#Find the array length and width of the major lobe and what will be these values for broadside array#Ex3_25.sce#2579/CH3/EX3.25/Ex3_25.sce#S##104696
+3#Antenna Arrays#3.25#Find the array length and width of the major lobe and what will be these values for broadside array#Ex3_25.txt#2579/CH3/EX3.25/Ex3_25.txt#R##104697
+3#Antenna Arrays#3.25#Find the array length and width of the major lobe and what will be these values for broadside array#Ex3_25_ans.txt#2579/CH3/EX3.25/Ex3_25_ans.txt#R##104698
+3#Antenna Arrays#3.24#Calculate the radiated power and also FNBW of the array#Ex3_24.sce#2579/CH3/EX3.24/Ex3_24.sce#S##104692
+3#Antenna Arrays#3.24#Calculate the radiated power and also FNBW of the array#Ex3_24.txt#2579/CH3/EX3.24/Ex3_24.txt#R##104693
+3#Antenna Arrays#3.24#Calculate the radiated power and also FNBW of the array#Ex3_24_ans.txt#2579/CH3/EX3.24/Ex3_24_ans.txt#R##104694
+3#Antenna Arrays#3.23#Find the location of the first nulls on a either side of beam center#Ex3_23.sce#2579/CH3/EX3.23/Ex3_23.sce#S##104688
+3#Antenna Arrays#3.23#Find the location of the first nulls on a either side of beam center#Ex3_23.txt#2579/CH3/EX3.23/Ex3_23.txt#R##104689
+3#Antenna Arrays#3.23#Find the location of the first nulls on a either side of beam center#Ex3_23_ans.txt#2579/CH3/EX3.23/Ex3_23_ans.txt#R##104690
+3#Antenna Arrays#3.22#Find the FNBW and HPBW for a broad side linear array#Ex3_22.sce#2579/CH3/EX3.22/Ex3_22.sce#S##104684
+3#Antenna Arrays#3.22#Find the FNBW and HPBW for a broad side linear array#Ex3_22.txt#2579/CH3/EX3.22/Ex3_22.txt#R##104685
+3#Antenna Arrays#3.22#Find the FNBW and HPBW for a broad side linear array#Ex3_22_ans.txt#2579/CH3/EX3.22/Ex3_22_ans.txt#R##104686
+3#Antenna Arrays#3.21#Derive the expression for beam width#Ex3_21.sce#2579/CH3/EX3.21/Ex3_21.sce#S##104680
+3#Antenna Arrays#3.21#Derive the expression for beam width#Ex3_21.txt#2579/CH3/EX3.21/Ex3_21.txt#R##104681
+3#Antenna Arrays#3.21#Derive the expression for beam width#Ex3_21_ans.txt#2579/CH3/EX3.21/Ex3_21_ans.txt#R##104682
+3#Antenna Arrays#3.20#Find the array length and width and what will be these value for a broad side array#Ex3_20.sce#2579/CH3/EX3.20/Ex3_20.sce#S##104676
+3#Antenna Arrays#3.20#Find the array length and width and what will be these value for a broad side array#Ex3_20.txt#2579/CH3/EX3.20/Ex3_20.txt#R##104677
+3#Antenna Arrays#3.20#Find the array length and width and what will be these value for a broad side array#Ex3_20_ans.txt#2579/CH3/EX3.20/Ex3_20_ans.txt#R##104678
+3#Antenna Arrays#3.2#Calculate the progressive phase shifts and also Calculate the angle at which the main beam is placed for this phase distribution#Ex3_2.sce#2579/CH3/EX3.2/Ex3_2.sce#S##104606
+3#Antenna Arrays#3.2#Calculate the progressive phase shifts and also Calculate the angle at which the main beam is placed for this phase distribution#Ex3_2.txt#2579/CH3/EX3.2/Ex3_2.txt#R##104607
+3#Antenna Arrays#3.2#Calculate the progressive phase shifts and also Calculate the angle at which the main beam is placed for this phase distribution#Ex3_2_ans.txt#2579/CH3/EX3.2/Ex3_2_ans.txt#R##104608
+3#Antenna Arrays#3.19#Define antenna gain and directivity#Ex3_19.sce#2579/CH3/EX3.19/Ex3_19.sce#S##104673
+3#Antenna Arrays#3.19#Define antenna gain and directivity#Ex3_19.txt#2579/CH3/EX3.19/Ex3_19.txt#R##104674
+3#Antenna Arrays#3.19#Define antenna gain and directivity#Ex3_19_ans.txt#2579/CH3/EX3.19/Ex3_19_ans.txt#R##104675
+3#Antenna Arrays#3.18#Find the directivity of a linear end fire#Ex3_18.sce#2579/CH3/EX3.18/Ex3_18.sce#S##104669
+3#Antenna Arrays#3.18#Find the directivity of a linear end fire#Ex3_18.txt#2579/CH3/EX3.18/Ex3_18.txt#R##104670
+3#Antenna Arrays#3.18#Find the directivity of a linear end fire#Ex3_18_ans.txt#2579/CH3/EX3.18/Ex3_18_ans.txt#R##104671
+3#Antenna Arrays#3.17#Find the directivity of linear end fire#Ex3_17.sce#2579/CH3/EX3.17/Ex3_17.sce#S##104664
+3#Antenna Arrays#3.17#Find the directivity of linear end fire#Ex3_17.txt#2579/CH3/EX3.17/Ex3_17.txt#R##104665
+3#Antenna Arrays#3.17#Find the directivity of linear end fire#Ex3_17_ans.txt#2579/CH3/EX3.17/Ex3_17_ans.txt#R##104666
+3#Antenna Arrays#3.16#Find the directivity of linear broad side #Ex3_16.sce#2579/CH3/EX3.16/Ex3_16.sce#S##104659
+3#Antenna Arrays#3.16#Find the directivity of linear broad side #Ex3_16.txt#2579/CH3/EX3.16/Ex3_16.txt#R##104660
+3#Antenna Arrays#3.16#Find the directivity of linear broad side #Ex3_16_ans.txt#2579/CH3/EX3.16/Ex3_16_ans.txt#R##104661
+3#Antenna Arrays#3.15#Determine Dolph Tchebyscheff current distribution for the minimum beamwidth of a linear in phase broad side array of eight isotropic source#Ex3_15.sce#2579/CH3/EX3.15/Ex3_15.sce#S##104655
+3#Antenna Arrays#3.15#Determine Dolph Tchebyscheff current distribution for the minimum beamwidth of a linear in phase broad side array of eight isotropic source#Ex3_15.txt#2579/CH3/EX3.15/Ex3_15.txt#R##104656
+3#Antenna Arrays#3.15#Determine Dolph Tchebyscheff current distribution for the minimum beamwidth of a linear in phase broad side array of eight isotropic source#Ex3_15_ans.txt#2579/CH3/EX3.15/Ex3_15_ans.txt#R##104657
+3#Antenna Arrays#3.14#Calculate the Dolph Tchebyscheff distribution which yield the optimum pattern#Ex3_14.sce#2579/CH3/EX3.14/Ex3_14.sce#S##104651
+3#Antenna Arrays#3.14#Calculate the Dolph Tchebyscheff distribution which yield the optimum pattern#Ex3_14.txt#2579/CH3/EX3.14/Ex3_14.txt#R##104652
+3#Antenna Arrays#3.14#Calculate the Dolph Tchebyscheff distribution which yield the optimum pattern#Ex3_14_ans.txt#2579/CH3/EX3.14/Ex3_14_ans.txt#R##104653
+3#Antenna Arrays#3.13#Prove that directivity for a broadside array of two identical isotropic #Ex3_13.sce#2579/CH3/EX3.13/Ex3_13.sce#S##104646
+3#Antenna Arrays#3.13#Prove that directivity for a broadside array of two identical isotropic #Ex3_13.txt#2579/CH3/EX3.13/Ex3_13.txt#R##104647
+3#Antenna Arrays#3.13#Prove that directivity for a broadside array of two identical isotropic #Ex3_13_ans.txt#2579/CH3/EX3.13/Ex3_13_ans.txt#R##104648
+3#Antenna Arrays#3.12#Prove that the directivity of an end fire array#Ex3_12.sce#2579/CH3/EX3.12/Ex3_12.sce#S##104642
+3#Antenna Arrays#3.12#Prove that the directivity of an end fire array#Ex3_12.txt#2579/CH3/EX3.12/Ex3_12.txt#R##104643
+3#Antenna Arrays#3.12#Prove that the directivity of an end fire array#Ex3_12_ans.txt#2579/CH3/EX3.12/Ex3_12_ans.txt#R##104644
+3#Antenna Arrays#3.11#Design an array that will produce approximately a pattern of the given figure#Ex3_11.sce#2579/CH3/EX3.11/Ex3_11.sce#S##104638
+3#Antenna Arrays#3.11#Design an array that will produce approximately a pattern of the given figure#Ex3_11.txt#2579/CH3/EX3.11/Ex3_11.txt#R##104639
+3#Antenna Arrays#3.11#Design an array that will produce approximately a pattern of the given figure#Ex3_11_ans.txt#2579/CH3/EX3.11/Ex3_11_ans.txt#R##104640
+3#Antenna Arrays#3.10#Calculate the Dolph Tchebysceff distribution which yield the optimum pattern#Ex3_10.sce#2579/CH3/EX3.10/Ex3_10.sce#S##104635
+3#Antenna Arrays#3.10#Calculate the Dolph Tchebysceff distribution which yield the optimum pattern#Ex3_10.txt#2579/CH3/EX3.10/Ex3_10.txt#R##104636
+3#Antenna Arrays#3.10#Calculate the Dolph Tchebysceff distribution which yield the optimum pattern#Ex3_10_ans.txt#2579/CH3/EX3.10/Ex3_10_ans.txt#R##104637
+3#Antenna Arrays#3.1#Calculate the half power beam width of the major lobes of the array in horizontal plane#Ex3_1.sce#2579/CH3/EX3.1/Ex3_1.sce#S##104603
+3#Antenna Arrays#3.1#Calculate the half power beam width of the major lobes of the array in horizontal plane#Ex3_1.txt#2579/CH3/EX3.1/Ex3_1.txt#R##104604
+3#Antenna Arrays#3.1#Calculate the half power beam width of the major lobes of the array in horizontal plane#Ex3_1_ans.txt#2579/CH3/EX3.1/Ex3_1_ans.txt#R##104605
+2#Antenna Terminology#2.9#Find out the radiation resistance#Ex2_9.sce#2579/CH2/EX2.9/Ex2_9.sce#S##104476
+2#Antenna Terminology#2.9#Find out the radiation resistance#Ex2_9.txt#2579/CH2/EX2.9/Ex2_9.txt#R##104477
+2#Antenna Terminology#2.9#Find out the radiation resistance#Ex2_9_ans.txt#2579/CH2/EX2.9/Ex2_9_ans.txt#R##104478
+2#Antenna Terminology#2.8#Calculate the max effective aperture of an antenna#Ex2_8.sce#2579/CH2/EX2.8/Ex2_8.sce#S##104473
+2#Antenna Terminology#2.8#Calculate the max effective aperture of an antenna#Ex2_8.txt#2579/CH2/EX2.8/Ex2_8.txt#R##104474
+2#Antenna Terminology#2.8#Calculate the max effective aperture of an antenna#Ex2_8_ans.txt#2579/CH2/EX2.8/Ex2_8_ans.txt#R##104475
+2#Antenna Terminology#2.7#What is the bandwidth and also bandwidth ratio#Ex2_7.sce#2579/CH2/EX2.7/Ex2_7.sce#S##104470
+2#Antenna Terminology#2.7#What is the bandwidth and also bandwidth ratio#Ex2_7.txt#2579/CH2/EX2.7/Ex2_7.txt#R##104471
+2#Antenna Terminology#2.7#What is the bandwidth and also bandwidth ratio#Ex2_7_ans.txt#2579/CH2/EX2.7/Ex2_7_ans.txt#R##104472
+2#Antenna Terminology#2.6#Find the max directivity and compare it with its exact value#Ex2_6.sce#2579/CH2/EX2.6/Ex2_6.sce#S##104467
+2#Antenna Terminology#2.6#Find the max directivity and compare it with its exact value#Ex2_6.txt#2579/CH2/EX2.6/Ex2_6.txt#R##104468
+2#Antenna Terminology#2.6#Find the max directivity and compare it with its exact value#Ex2_6_ans.txt#2579/CH2/EX2.6/Ex2_6_ans.txt#R##104469
+2#Antenna Terminology#2.50#Find the rms electric and magnetic field and the average value of poynting vector and the average energy density and also the time it takes a signal to reach earth#Ex2_50.sce#2579/CH2/EX2.50/Ex2_50.sce#S##104600
+2#Antenna Terminology#2.50#Find the rms electric and magnetic field and the average value of poynting vector and the average energy density and also the time it takes a signal to reach earth#Ex2_50.txt#2579/CH2/EX2.50/Ex2_50.txt#R##104601
+2#Antenna Terminology#2.50#Find the rms electric and magnetic field and the average value of poynting vector and the average energy density and also the time it takes a signal to reach earth#Ex2_50_ans.txt#2579/CH2/EX2.50/Ex2_50_ans.txt#R##104602
+2#Antenna Terminology#2.5#Calculate the radiation resistance#Ex2_5.sce#2579/CH2/EX2.5/Ex2_5.sce#S##104464
+2#Antenna Terminology#2.5#Calculate the radiation resistance#Ex2_5.txt#2579/CH2/EX2.5/Ex2_5.txt#R##104465
+2#Antenna Terminology#2.5#Calculate the radiation resistance#Ex2_5_ans.txt#2579/CH2/EX2.5/Ex2_5_ans.txt#R##104466
+2#Antenna Terminology#2.49#Find the magnitude of magnetic and electric fields#Ex2_49.sce#2579/CH2/EX2.49/Ex2_49.sce#S##104597
+2#Antenna Terminology#2.49#Find the magnitude of magnetic and electric fields#Ex2_49.txt#2579/CH2/EX2.49/Ex2_49.txt#R##104598
+2#Antenna Terminology#2.49#Find the magnitude of magnetic and electric fields#Ex2_49_ans.txt#2579/CH2/EX2.49/Ex2_49_ans.txt#R##104599
+2#Antenna Terminology#2.48#Find the peak poynting vector and the average poynting vector and also the peak value of magnetic field H#Ex2_48.sce#2579/CH2/EX2.48/Ex2_48.sce#S##104594
+2#Antenna Terminology#2.48#Find the peak poynting vector and the average poynting vector and also the peak value of magnetic field H#Ex2_48.txt#2579/CH2/EX2.48/Ex2_48.txt#R##104595
+2#Antenna Terminology#2.48#Find the peak poynting vector and the average poynting vector and also the peak value of magnetic field H#Ex2_48_ans.txt#2579/CH2/EX2.48/Ex2_48_ans.txt#R##104596
+2#Antenna Terminology#2.47#Find the max radiated electric field and what is the max power density#Ex2_47.sce#2579/CH2/EX2.47/Ex2_47.sce#S##104591
+2#Antenna Terminology#2.47#Find the max radiated electric field and what is the max power density#Ex2_47.txt#2579/CH2/EX2.47/Ex2_47.txt#R##104592
+2#Antenna Terminology#2.47#Find the max radiated electric field and what is the max power density#Ex2_47_ans.txt#2579/CH2/EX2.47/Ex2_47_ans.txt#R##104593
+2#Antenna Terminology#2.46#Find the power density#Ex2_46.sce#2579/CH2/EX2.46/Ex2_46.sce#S##104588
+2#Antenna Terminology#2.46#Find the power density#Ex2_46.txt#2579/CH2/EX2.46/Ex2_46.txt#R##104589
+2#Antenna Terminology#2.46#Find the power density#Ex2_46_ans.txt#2579/CH2/EX2.46/Ex2_46_ans.txt#R##104590
+2#Antenna Terminology#2.45#what is the size of spot illuminated by the antenna#Ex2_45.sce#2579/CH2/EX2.45/Ex2_45.sce#S##104585
+2#Antenna Terminology#2.45#what is the size of spot illuminated by the antenna#Ex2_45.txt#2579/CH2/EX2.45/Ex2_45.txt#R##104586
+2#Antenna Terminology#2.45#what is the size of spot illuminated by the antenna#Ex2_45_ans.txt#2579/CH2/EX2.45/Ex2_45_ans.txt#R##104587
+2#Antenna Terminology#2.44#Find the beam width#Ex2_44.sce#2579/CH2/EX2.44/Ex2_44.sce#S##104582
+2#Antenna Terminology#2.44#Find the beam width#Ex2_44.txt#2579/CH2/EX2.44/Ex2_44.txt#R##104583
+2#Antenna Terminology#2.44#Find the beam width#Ex2_44_ans.txt#2579/CH2/EX2.44/Ex2_44_ans.txt#R##104584
+2#Antenna Terminology#2.43#Find the directivity and gain and effective aperture and beam solid angle and radiation resistance and also terminal resistance#Ex2_43.sce#2579/CH2/EX2.43/Ex2_43.sce#S##104579
+2#Antenna Terminology#2.43#Find the directivity and gain and effective aperture and beam solid angle and radiation resistance and also terminal resistance#Ex2_43.txt#2579/CH2/EX2.43/Ex2_43.txt#R##104580
+2#Antenna Terminology#2.43#Find the directivity and gain and effective aperture and beam solid angle and radiation resistance and also terminal resistance#Ex2_43_ans.txt#2579/CH2/EX2.43/Ex2_43_ans.txt#R##104581
+2#Antenna Terminology#2.42#Calculate the effective aperture and what will the power received#Ex2_42.sce#2579/CH2/EX2.42/Ex2_42.sce#S##104576
+2#Antenna Terminology#2.42#Calculate the effective aperture and what will the power received#Ex2_42.txt#2579/CH2/EX2.42/Ex2_42.txt#R##104577
+2#Antenna Terminology#2.42#Calculate the effective aperture and what will the power received#Ex2_42_ans.txt#2579/CH2/EX2.42/Ex2_42_ans.txt#R##104578
+2#Antenna Terminology#2.41#Calculate the antenna gain#Ex2_41.sce#2579/CH2/EX2.41/Ex2_41.sce#S##104573
+2#Antenna Terminology#2.41#Calculate the antenna gain#Ex2_41.txt#2579/CH2/EX2.41/Ex2_41.txt#R##104574
+2#Antenna Terminology#2.41#Calculate the antenna gain#Ex2_41_ans.txt#2579/CH2/EX2.41/Ex2_41_ans.txt#R##104575
+2#Antenna Terminology#2.40#Calculate the power density and magnetic and electric field strength#Ex2_40.sce#2579/CH2/EX2.40/Ex2_40.sce#S##104570
+2#Antenna Terminology#2.40#Calculate the power density and magnetic and electric field strength#Ex2_40.txt#2579/CH2/EX2.40/Ex2_40.txt#R##104571
+2#Antenna Terminology#2.40#Calculate the power density and magnetic and electric field strength#Ex2_40_ans.txt#2579/CH2/EX2.40/Ex2_40_ans.txt#R##104572
+2#Antenna Terminology#2.4#What is the directicity#Ex2_4.sce#2579/CH2/EX2.4/Ex2_4.sce#S##104461
+2#Antenna Terminology#2.4#What is the directicity#Ex2_4.txt#2579/CH2/EX2.4/Ex2_4.txt#R##104462
+2#Antenna Terminology#2.4#What is the directicity#Ex2_4_ans.txt#2579/CH2/EX2.4/Ex2_4_ans.txt#R##104463
+2#Antenna Terminology#2.39#Define effective aperture and scattering aperture#Ex2_39.sce#2579/CH2/EX2.39/Ex2_39.sce#S##104567
+2#Antenna Terminology#2.39#Define effective aperture and scattering aperture#Ex2_39.txt#2579/CH2/EX2.39/Ex2_39.txt#R##104568
+2#Antenna Terminology#2.39#Define effective aperture and scattering aperture#Ex2_39_ans.txt#2579/CH2/EX2.39/Ex2_39_ans.txt#R##104569
+2#Antenna Terminology#2.38#Show the field strength at adistance r meters from an antenna of gain G and radiating power P#Ex2_38.sce#2579/CH2/EX2.38/Ex2_38.sce#S##104564
+2#Antenna Terminology#2.38#Show the field strength at adistance r meters from an antenna of gain G and radiating power P#Ex2_38.txt#2579/CH2/EX2.38/Ex2_38.txt#R##104565
+2#Antenna Terminology#2.38#Show the field strength at adistance r meters from an antenna of gain G and radiating power P#Ex2_38_ans.txt#2579/CH2/EX2.38/Ex2_38_ans.txt#R##104566
+2#Antenna Terminology#2.37#Show the max effective aperture of a short dipole antenna#Ex2_37.sce#2579/CH2/EX2.37/Ex2_37.sce#S##104561
+2#Antenna Terminology#2.37#Show the max effective aperture of a short dipole antenna#Ex2_37.txt#2579/CH2/EX2.37/Ex2_37.txt#R##104562
+2#Antenna Terminology#2.37#Show the max effective aperture of a short dipole antenna#Ex2_37_ans.txt#2579/CH2/EX2.37/Ex2_37_ans.txt#R##104563
+2#Antenna Terminology#2.36#Find the max directivity of the antenna and write an expression for the directivity#Ex2_36.sce#2579/CH2/EX2.36/Ex2_36.sce#S##104558
+2#Antenna Terminology#2.36#Find the max directivity of the antenna and write an expression for the directivity#Ex2_36.txt#2579/CH2/EX2.36/Ex2_36.txt#R##104559
+2#Antenna Terminology#2.36#Find the max directivity of the antenna and write an expression for the directivity#Ex2_36_ans.txt#2579/CH2/EX2.36/Ex2_36_ans.txt#R##104560
+2#Antenna Terminology#2.35#Find the max directivity of the antenna and write an expression for the directivity#Ex2_35.sce#2579/CH2/EX2.35/Ex2_35.sce#S##104555
+2#Antenna Terminology#2.35#Find the max directivity of the antenna and write an expression for the directivity#Ex2_35.txt#2579/CH2/EX2.35/Ex2_35.txt#R##104556
+2#Antenna Terminology#2.35#Find the max directivity of the antenna and write an expression for the directivity#Ex2_35_ans.txt#2579/CH2/EX2.35/Ex2_35_ans.txt#R##104557
+2#Antenna Terminology#2.34#Determine the total radited power#Ex2_34.sce#2579/CH2/EX2.34/Ex2_34.sce#S##104552
+2#Antenna Terminology#2.34#Determine the total radited power#Ex2_34.txt#2579/CH2/EX2.34/Ex2_34.txt#R##104553
+2#Antenna Terminology#2.34#Determine the total radited power#Ex2_34_ans.txt#2579/CH2/EX2.34/Ex2_34_ans.txt#R##104554
+2#Antenna Terminology#2.33#Calculate the radiation resistance#Ex2_33.sce#2579/CH2/EX2.33/Ex2_33.sce#S##104549
+2#Antenna Terminology#2.33#Calculate the radiation resistance#Ex2_33.txt#2579/CH2/EX2.33/Ex2_33.txt#R##104550
+2#Antenna Terminology#2.33#Calculate the radiation resistance#Ex2_33_ans.txt#2579/CH2/EX2.33/Ex2_33_ans.txt#R##104551
+2#Antenna Terminology#2.32#How much is the new signal picked up by the receiving station#Ex2_32.sce#2579/CH2/EX2.32/Ex2_32.sce#S##104546
+2#Antenna Terminology#2.32#How much is the new signal picked up by the receiving station#Ex2_32.txt#2579/CH2/EX2.32/Ex2_32.txt#R##104547
+2#Antenna Terminology#2.32#How much is the new signal picked up by the receiving station#Ex2_32_ans.txt#2579/CH2/EX2.32/Ex2_32_ans.txt#R##104548
+2#Antenna Terminology#2.31#Calculate the gain and beam width of the antenna#Ex2_31.sce#2579/CH2/EX2.31/Ex2_31.sce#S##104542
+2#Antenna Terminology#2.31#Calculate the gain and beam width of the antenna#Ex2_31.txt#2579/CH2/EX2.31/Ex2_31.txt#R##104543
+2#Antenna Terminology#2.31#Calculate the gain and beam width of the antenna#Ex2_31_ans.txt#2579/CH2/EX2.31/Ex2_31_ans.txt#R##104544
+2#Antenna Terminology#2.30#Calculate the available noise power per unit bandwidth and also Calculate the available noise power for a noise bandwidth#Ex2_30.sce#2579/CH2/EX2.30/Ex2_30.sce#S##104539
+2#Antenna Terminology#2.30#Calculate the available noise power per unit bandwidth and also Calculate the available noise power for a noise bandwidth#Ex2_30.txt#2579/CH2/EX2.30/Ex2_30.txt#R##104540
+2#Antenna Terminology#2.30#Calculate the available noise power per unit bandwidth and also Calculate the available noise power for a noise bandwidth#Ex2_30_ans.txt#2579/CH2/EX2.30/Ex2_30_ans.txt#R##104541
+2#Antenna Terminology#2.3#What is the wavelength in vaccum and in air#Ex2_3.sce#2579/CH2/EX2.3/Ex2_3.sce#S##104458
+2#Antenna Terminology#2.3#What is the wavelength in vaccum and in air#Ex2_3.txt#2579/CH2/EX2.3/Ex2_3.txt#R##104459
+2#Antenna Terminology#2.3#What is the wavelength in vaccum and in air#Ex2_3_ans.txt#2579/CH2/EX2.3/Ex2_3_ans.txt#R##104460
+2#Antenna Terminology#2.29#What is the effective noise temperature#Ex2_29.sce#2579/CH2/EX2.29/Ex2_29.sce#S##104536
+2#Antenna Terminology#2.29#What is the effective noise temperature#Ex2_29.txt#2579/CH2/EX2.29/Ex2_29.txt#R##104537
+2#Antenna Terminology#2.29#What is the effective noise temperature#Ex2_29_ans.txt#2579/CH2/EX2.29/Ex2_29_ans.txt#R##104538
+2#Antenna Terminology#2.28#Find the noise factor#Ex2_28.sce#2579/CH2/EX2.28/Ex2_28.sce#S##104533
+2#Antenna Terminology#2.28#Find the noise factor#Ex2_28.txt#2579/CH2/EX2.28/Ex2_28.txt#R##104534
+2#Antenna Terminology#2.28#Find the noise factor#Ex2_28_ans.txt#2579/CH2/EX2.28/Ex2_28_ans.txt#R##104535
+2#Antenna Terminology#2.27#Find the equivalent temperature#Ex2_27.sce#2579/CH2/EX2.27/Ex2_27.sce#S##104530
+2#Antenna Terminology#2.27#Find the equivalent temperature#Ex2_27.txt#2579/CH2/EX2.27/Ex2_27.txt#R##104531
+2#Antenna Terminology#2.27#Find the equivalent temperature#Ex2_27_ans.txt#2579/CH2/EX2.27/Ex2_27_ans.txt#R##104532
+2#Antenna Terminology#2.26#Calculate the max effective aperture of an antenna#Ex2_26.sce#2579/CH2/EX2.26/Ex2_26.sce#S##104527
+2#Antenna Terminology#2.26#Calculate the max effective aperture of an antenna#Ex2_26.txt#2579/CH2/EX2.26/Ex2_26.txt#R##104528
+2#Antenna Terminology#2.26#Calculate the max effective aperture of an antenna#Ex2_26_ans.txt#2579/CH2/EX2.26/Ex2_26_ans.txt#R##104529
+2#Antenna Terminology#2.25#How much is the new signal picked up by the receiving station#Ex2_25.sce#2579/CH2/EX2.25/Ex2_25.sce#S##104524
+2#Antenna Terminology#2.25#How much is the new signal picked up by the receiving station#Ex2_25.txt#2579/CH2/EX2.25/Ex2_25.txt#R##104525
+2#Antenna Terminology#2.25#How much is the new signal picked up by the receiving station#Ex2_25_ans.txt#2579/CH2/EX2.25/Ex2_25_ans.txt#R##104526
+2#Antenna Terminology#2.24#Calculate the available noise power per unit bandwidth and also Calculate the available noise power for a noise bandwidth#Ex2_24.sce#2579/CH2/EX2.24/Ex2_24.sce#S##104521
+2#Antenna Terminology#2.24#Calculate the available noise power per unit bandwidth and also Calculate the available noise power for a noise bandwidth#Ex2_24.txt#2579/CH2/EX2.24/Ex2_24.txt#R##104522
+2#Antenna Terminology#2.24#Calculate the available noise power per unit bandwidth and also Calculate the available noise power for a noise bandwidth#Ex2_24_ans.txt#2579/CH2/EX2.24/Ex2_24_ans.txt#R##104523
+2#Antenna Terminology#2.23#what is the effective noise temperature#Ex2_23.sce#2579/CH2/EX2.23/Ex2_23.sce#S##104518
+2#Antenna Terminology#2.23#what is the effective noise temperature#Ex2_23.txt#2579/CH2/EX2.23/Ex2_23.txt#R##104519
+2#Antenna Terminology#2.23#what is the effective noise temperature#Ex2_23_ans.txt#2579/CH2/EX2.23/Ex2_23_ans.txt#R##104520
+2#Antenna Terminology#2.22#Find the noise factor#Ex2_22.sce#2579/CH2/EX2.22/Ex2_22.sce#S##104515
+2#Antenna Terminology#2.22#Find the noise factor#Ex2_22.txt#2579/CH2/EX2.22/Ex2_22.txt#R##104516
+2#Antenna Terminology#2.22#Find the noise factor#Ex2_22_ans.txt#2579/CH2/EX2.22/Ex2_22_ans.txt#R##104517
+2#Antenna Terminology#2.21#Find the equivalent temperature#Ex2_21.sce#2579/CH2/EX2.21/Ex2_21.sce#S##104512
+2#Antenna Terminology#2.21#Find the equivalent temperature#Ex2_21.txt#2579/CH2/EX2.21/Ex2_21.txt#R##104513
+2#Antenna Terminology#2.21#Find the equivalent temperature#Ex2_21_ans.txt#2579/CH2/EX2.21/Ex2_21_ans.txt#R##104514
+2#Antenna Terminology#2.20#Calculate the max effective aperture of a microwave antenna#Ex2_20.sce#2579/CH2/EX2.20/Ex2_20.sce#S##104509
+2#Antenna Terminology#2.20#Calculate the max effective aperture of a microwave antenna#Ex2_20.txt#2579/CH2/EX2.20/Ex2_20.txt#R##104510
+2#Antenna Terminology#2.20#Calculate the max effective aperture of a microwave antenna#Ex2_20_ans.txt#2579/CH2/EX2.20/Ex2_20_ans.txt#R##104511
+2#Antenna Terminology#2.2#What is the actual velocity of EM energy#Ex2_2.sce#2579/CH2/EX2.2/Ex2_2.sce#S##104455
+2#Antenna Terminology#2.2#What is the actual velocity of EM energy#Ex2_2.txt#2579/CH2/EX2.2/Ex2_2.txt#R##104456
+2#Antenna Terminology#2.2#What is the actual velocity of EM energy#Ex2_2_ans.txt#2579/CH2/EX2.2/Ex2_2_ans.txt#R##104457
+2#Antenna Terminology#2.19#Calculate the directivity of isotropic antenna#Ex2_19.sce#2579/CH2/EX2.19/Ex2_19.sce#S##104506
+2#Antenna Terminology#2.19#Calculate the directivity of isotropic antenna#Ex2_19.txt#2579/CH2/EX2.19/Ex2_19.txt#R##104507
+2#Antenna Terminology#2.19#Calculate the directivity of isotropic antenna#Ex2_19_ans.txt#2579/CH2/EX2.19/Ex2_19_ans.txt#R##104508
+2#Antenna Terminology#2.18#Calculate the bandwidth of an antennas#Ex2_18.sce#2579/CH2/EX2.18/Ex2_18.sce#S##104503
+2#Antenna Terminology#2.18#Calculate the bandwidth of an antennas#Ex2_18.txt#2579/CH2/EX2.18/Ex2_18.txt#R##104504
+2#Antenna Terminology#2.18#Calculate the bandwidth of an antennas#Ex2_18_ans.txt#2579/CH2/EX2.18/Ex2_18_ans.txt#R##104505
+2#Antenna Terminology#2.17#Find out the quality factor Q of an antenna#Ex2_17.sce#2579/CH2/EX2.17/Ex2_17.sce#S##104500
+2#Antenna Terminology#2.17#Find out the quality factor Q of an antenna#Ex2_17.txt#2579/CH2/EX2.17/Ex2_17.txt#R##104501
+2#Antenna Terminology#2.17#Find out the quality factor Q of an antenna#Ex2_17_ans.txt#2579/CH2/EX2.17/Ex2_17_ans.txt#R##104502
+2#Antenna Terminology#2.16#Calculate the approximate gain and beamwidth of a paraboloidal reflector antenna#Ex2_16.sce#2579/CH2/EX2.16/Ex2_16.sce#S##104497
+2#Antenna Terminology#2.16#Calculate the approximate gain and beamwidth of a paraboloidal reflector antenna#Ex2_16.txt#2579/CH2/EX2.16/Ex2_16.txt#R##104498
+2#Antenna Terminology#2.16#Calculate the approximate gain and beamwidth of a paraboloidal reflector antenna#Ex2_16_ans.txt#2579/CH2/EX2.16/Ex2_16_ans.txt#R##104499
+2#Antenna Terminology#2.15#Calculate the power gain#Ex2_15.sce#2579/CH2/EX2.15/Ex2_15.sce#S##104494
+2#Antenna Terminology#2.15#Calculate the power gain#Ex2_15.txt#2579/CH2/EX2.15/Ex2_15.txt#R##104495
+2#Antenna Terminology#2.15#Calculate the power gain#Ex2_15_ans.txt#2579/CH2/EX2.15/Ex2_15_ans.txt#R##104496
+2#Antenna Terminology#2.14#How much is the new signal picked up by the receiving station#Ex2_14.sce#2579/CH2/EX2.14/Ex2_14.sce#S##104491
+2#Antenna Terminology#2.14#How much is the new signal picked up by the receiving station#Ex2_14.txt#2579/CH2/EX2.14/Ex2_14.txt#R##104492
+2#Antenna Terminology#2.14#How much is the new signal picked up by the receiving station#Ex2_14_ans.txt#2579/CH2/EX2.14/Ex2_14_ans.txt#R##104493
+2#Antenna Terminology#2.13#Find the received power#Ex2_13.sce#2579/CH2/EX2.13/Ex2_13.sce#S##104488
+2#Antenna Terminology#2.13#Find the received power#Ex2_13.txt#2579/CH2/EX2.13/Ex2_13.txt#R##104489
+2#Antenna Terminology#2.13#Find the received power#Ex2_13_ans.txt#2579/CH2/EX2.13/Ex2_13_ans.txt#R##104490
+2#Antenna Terminology#2.12#Calculate the front to back ratio of an antenna in dB#Ex2_12.sce#2579/CH2/EX2.12/Ex2_12.sce#S##104485
+2#Antenna Terminology#2.12#Calculate the front to back ratio of an antenna in dB#Ex2_12.txt#2579/CH2/EX2.12/Ex2_12.txt#R##104486
+2#Antenna Terminology#2.12#Calculate the front to back ratio of an antenna in dB#Ex2_12_ans.txt#2579/CH2/EX2.12/Ex2_12_ans.txt#R##104487
+2#Antenna Terminology#2.11#Calculate the radiation resistance#Ex2_11.sce#2579/CH2/EX2.11/Ex2_11.sce#S##104482
+2#Antenna Terminology#2.11#Calculate the radiation resistance#Ex2_11.txt#2579/CH2/EX2.11/Ex2_11.txt#R##104483
+2#Antenna Terminology#2.11#Calculate the radiation resistance#Ex2_11_ans.txt#2579/CH2/EX2.11/Ex2_11_ans.txt#R##104484
+2#Antenna Terminology#2.10#How much power does a fifty ohms antenna radiate when fed a current five amp#Ex2_10.sce#2579/CH2/EX2.10/Ex2_10.sce#S##104479
+2#Antenna Terminology#2.10#How much power does a fifty ohms antenna radiate when fed a current five amp#Ex2_10.txt#2579/CH2/EX2.10/Ex2_10.txt#R##104480
+2#Antenna Terminology#2.10#How much power does a fifty ohms antenna radiate when fed a current five amp#Ex2_10_ans.txt#2579/CH2/EX2.10/Ex2_10_ans.txt#R##104481
+2#Antenna Terminology#2.1#What is the wavelength#Ex2_1.sce#2579/CH2/EX2.1/Ex2_1.sce#S##104452
+2#Antenna Terminology#2.1#What is the wavelength#Ex2_1.txt#2579/CH2/EX2.1/Ex2_1.txt#R##104453
+2#Antenna Terminology#2.1#What is the wavelength#Ex2_1_ans.txt#2579/CH2/EX2.1/Ex2_1_ans.txt#R##104454
+1#Eletromagnetic Field Radiation#1.9#Estimate the effective height of the antenna#Ex1_9.sce#2579/CH1/EX1.9/Ex1_9.sce#S##104323
+1#Eletromagnetic Field Radiation#1.9#Estimate the effective height of the antenna#Ex1_9.txt#2579/CH1/EX1.9/Ex1_9.txt#R##104324
+1#Eletromagnetic Field Radiation#1.9#Estimate the effective height of the antenna#Ex1_9_ans.txt#2579/CH1/EX1.9/Ex1_9_ans.txt#R##104325
+1#Eletromagnetic Field Radiation#1.8#Calculate the strength of electric field #Ex1_8.sce#2579/CH1/EX1.8/Ex1_8.sce#S##104320
+1#Eletromagnetic Field Radiation#1.8#Calculate the strength of electric field #Ex1_8.txt#2579/CH1/EX1.8/Ex1_8.txt#R##104321
+1#Eletromagnetic Field Radiation#1.8#Calculate the strength of electric field #Ex1_8_ans.txt#2579/CH1/EX1.8/Ex1_8_ans.txt#R##104322
+1#Eletromagnetic Field Radiation#1.7#How much current flows into the antenna#Ex1_7.sce#2579/CH1/EX1.7/Ex1_7.sce#S##104317
+1#Eletromagnetic Field Radiation#1.7#How much current flows into the antenna#Ex1_7.txt#2579/CH1/EX1.7/Ex1_7.txt#R##104318
+1#Eletromagnetic Field Radiation#1.7#How much current flows into the antenna#Ex1_7_ans.txt#2579/CH1/EX1.7/Ex1_7_ans.txt#R##104319
+1#Eletromagnetic Field Radiation#1.6#What is the radiation resistance of an antenna#Ex1_6.sce#2579/CH1/EX1.6/Ex1_6.sce#S##104314
+1#Eletromagnetic Field Radiation#1.6#What is the radiation resistance of an antenna#Ex1_6.txt#2579/CH1/EX1.6/Ex1_6.txt#R##104315
+1#Eletromagnetic Field Radiation#1.6#What is the radiation resistance of an antenna#Ex1_6_ans.txt#2579/CH1/EX1.6/Ex1_6_ans.txt#R##104316
+1#Eletromagnetic Field Radiation#1.51#Calculate the loss resistance and also Calculate the power radiated and the ohmic loss and loss resistance#Ex1_51.sce#2579/CH1/EX1.51/Ex1_51.sce#S##104449
+1#Eletromagnetic Field Radiation#1.51#Calculate the loss resistance and also Calculate the power radiated and the ohmic loss and loss resistance#Ex1_51.txt#2579/CH1/EX1.51/Ex1_51.txt#R##104450
+1#Eletromagnetic Field Radiation#1.51#Calculate the loss resistance and also Calculate the power radiated and the ohmic loss and loss resistance#Ex1_51_ans.txt#2579/CH1/EX1.51/Ex1_51_ans.txt#R##104451
+1#Eletromagnetic Field Radiation#1.50#Show the total far field electric field amplitude and also Calculate the power that could be fed into a dipole antenna#Ex1_50.sce#2579/CH1/EX1.50/Ex1_50.sce#S##104446
+1#Eletromagnetic Field Radiation#1.50#Show the total far field electric field amplitude and also Calculate the power that could be fed into a dipole antenna#Ex1_50.txt#2579/CH1/EX1.50/Ex1_50.txt#R##104447
+1#Eletromagnetic Field Radiation#1.50#Show the total far field electric field amplitude and also Calculate the power that could be fed into a dipole antenna#Ex1_50_ans.txt#2579/CH1/EX1.50/Ex1_50_ans.txt#R##104448
+1#Eletromagnetic Field Radiation#1.5#How much power will an antenna having a radiation rasistance of fifty ohms#Ex1_5.sce#2579/CH1/EX1.5/Ex1_5.sce#S##104311
+1#Eletromagnetic Field Radiation#1.5#How much power will an antenna having a radiation rasistance of fifty ohms#Ex1_5.txt#2579/CH1/EX1.5/Ex1_5.txt#R##104312
+1#Eletromagnetic Field Radiation#1.5#How much power will an antenna having a radiation rasistance of fifty ohms#Ex1_5_ans.txt#2579/CH1/EX1.5/Ex1_5_ans.txt#R##104313
+1#Eletromagnetic Field Radiation#1.49#Calculate the radiated field strength and the total power radiated and also the radiation resistance#Ex1_49.sce#2579/CH1/EX1.49/Ex1_49.sce#S##104443
+1#Eletromagnetic Field Radiation#1.49#Calculate the radiated field strength and the total power radiated and also the radiation resistance#Ex1_49.txt#2579/CH1/EX1.49/Ex1_49.txt#R##104444
+1#Eletromagnetic Field Radiation#1.49#Calculate the radiated field strength and the total power radiated and also the radiation resistance#Ex1_49_ans.txt#2579/CH1/EX1.49/Ex1_49_ans.txt#R##104445
+1#Eletromagnetic Field Radiation#1.48#What is the strength of magnetic field H in free space#Ex1_48.sce#2579/CH1/EX1.48/Ex1_48.sce#S##104440
+1#Eletromagnetic Field Radiation#1.48#What is the strength of magnetic field H in free space#Ex1_48.txt#2579/CH1/EX1.48/Ex1_48.txt#R##104441
+1#Eletromagnetic Field Radiation#1.48#What is the strength of magnetic field H in free space#Ex1_48_ans.txt#2579/CH1/EX1.48/Ex1_48_ans.txt#R##104442
+1#Eletromagnetic Field Radiation#1.47#What is the power radiated#Ex1_47.sce#2579/CH1/EX1.47/Ex1_47.sce#S##104437
+1#Eletromagnetic Field Radiation#1.47#What is the power radiated#Ex1_47.txt#2579/CH1/EX1.47/Ex1_47.txt#R##104438
+1#Eletromagnetic Field Radiation#1.47#What is the power radiated#Ex1_47_ans.txt#2579/CH1/EX1.47/Ex1_47_ans.txt#R##104439
+1#Eletromagnetic Field Radiation#1.46#Find the radiation resistance and efficiency#Ex1_46.sce#2579/CH1/EX1.46/Ex1_46.sce#S##104434
+1#Eletromagnetic Field Radiation#1.46#Find the radiation resistance and efficiency#Ex1_46.txt#2579/CH1/EX1.46/Ex1_46.txt#R##104435
+1#Eletromagnetic Field Radiation#1.46#Find the radiation resistance and efficiency#Ex1_46_ans.txt#2579/CH1/EX1.46/Ex1_46_ans.txt#R##104436
+1#Eletromagnetic Field Radiation#1.45#Calculate the radiation resistance power radiated and the efficiecy of an antenna#Ex1_45.sce#2579/CH1/EX1.45/Ex1_45.sce#S##104431
+1#Eletromagnetic Field Radiation#1.45#Calculate the radiation resistance power radiated and the efficiecy of an antenna#Ex1_45.txt#2579/CH1/EX1.45/Ex1_45.txt#R##104432
+1#Eletromagnetic Field Radiation#1.45#Calculate the radiation resistance power radiated and the efficiecy of an antenna#Ex1_45_ans.txt#2579/CH1/EX1.45/Ex1_45_ans.txt#R##104433
+1#Eletromagnetic Field Radiation#1.44#What is the power radiated and what is the efficiency of the antenna#Ex1_44.sce#2579/CH1/EX1.44/Ex1_44.sce#S##104428
+1#Eletromagnetic Field Radiation#1.44#What is the power radiated and what is the efficiency of the antenna#Ex1_44.txt#2579/CH1/EX1.44/Ex1_44.txt#R##104429
+1#Eletromagnetic Field Radiation#1.44#What is the power radiated and what is the efficiency of the antenna#Ex1_44_ans.txt#2579/CH1/EX1.44/Ex1_44_ans.txt#R##104430
+1#Eletromagnetic Field Radiation#1.43#Define retarded vector potential#Ex1_43.sce#2579/CH1/EX1.43/Ex1_43.sce#S##104425
+1#Eletromagnetic Field Radiation#1.43#Define retarded vector potential#Ex1_43.txt#2579/CH1/EX1.43/Ex1_43.txt#R##104426
+1#Eletromagnetic Field Radiation#1.43#Define retarded vector potential#Ex1_43_ans.txt#2579/CH1/EX1.43/Ex1_43_ans.txt#R##104427
+1#Eletromagnetic Field Radiation#1.42#What is the significance of electrostatic field and induction field and also radiation field of the antenna and at what distance in wavelength the radiation component of magnetic field is hundred times of the induction component#Ex1_42.sce#2579/CH1/EX1.42/Ex1_42.sce#S##104422
+1#Eletromagnetic Field Radiation#1.42#What is the significance of electrostatic field and induction field and also radiation field of the antenna and at what distance in wavelength the radiation component of magnetic field is hundred times of the induction component#Ex1_42.txt#2579/CH1/EX1.42/Ex1_42.txt#R##104423
+1#Eletromagnetic Field Radiation#1.42#What is the significance of electrostatic field and induction field and also radiation field of the antenna and at what distance in wavelength the radiation component of magnetic field is hundred times of the induction component#Ex1_42_ans.txt#2579/CH1/EX1.42/Ex1_42_ans.txt#R##104424
+1#Eletromagnetic Field Radiation#1.41#Define radiation resistance and also Calculate the radiation resistance and efficiency#Ex1_41.sce#2579/CH1/EX1.41/Ex1_41.sce#S##104419
+1#Eletromagnetic Field Radiation#1.41#Define radiation resistance and also Calculate the radiation resistance and efficiency#Ex1_41.txt#2579/CH1/EX1.41/Ex1_41.txt#R##104420
+1#Eletromagnetic Field Radiation#1.41#Define radiation resistance and also Calculate the radiation resistance and efficiency#Ex1_41_ans.txt#2579/CH1/EX1.41/Ex1_41_ans.txt#R##104421
+1#Eletromagnetic Field Radiation#1.40#What is the bandwidth#Ex1_40.sce#2579/CH1/EX1.40/Ex1_40.sce#S##104416
+1#Eletromagnetic Field Radiation#1.40#What is the bandwidth#Ex1_40.txt#2579/CH1/EX1.40/Ex1_40.txt#R##104417
+1#Eletromagnetic Field Radiation#1.40#What is the bandwidth#Ex1_40_ans.txt#2579/CH1/EX1.40/Ex1_40_ans.txt#R##104418
+1#Eletromagnetic Field Radiation#1.4#What is the power radiated and also what is the efficiency of the antenna#Ex1_4.sce#2579/CH1/EX1.4/Ex1_4.sce#S##104308
+1#Eletromagnetic Field Radiation#1.4#What is the power radiated and also what is the efficiency of the antenna#Ex1_4.txt#2579/CH1/EX1.4/Ex1_4.txt#R##104309
+1#Eletromagnetic Field Radiation#1.4#What is the power radiated and also what is the efficiency of the antenna#Ex1_4_ans.txt#2579/CH1/EX1.4/Ex1_4_ans.txt#R##104310
+1#Eletromagnetic Field Radiation#1.39#What is the radiation resistance of an antenna#Ex1_39.sce#2579/CH1/EX1.39/Ex1_39.sce#S##104413
+1#Eletromagnetic Field Radiation#1.39#What is the radiation resistance of an antenna#Ex1_39.txt#2579/CH1/EX1.39/Ex1_39.txt#R##104414
+1#Eletromagnetic Field Radiation#1.39#What is the radiation resistance of an antenna#Ex1_39_ans.txt#2579/CH1/EX1.39/Ex1_39_ans.txt#R##104415
+1#Eletromagnetic Field Radiation#1.38#Determine the radiation resistance#Ex1_38.sce#2579/CH1/EX1.38/Ex1_38.sce#S##104410
+1#Eletromagnetic Field Radiation#1.38#Determine the radiation resistance#Ex1_38.txt#2579/CH1/EX1.38/Ex1_38.txt#R##104411
+1#Eletromagnetic Field Radiation#1.38#Determine the radiation resistance#Ex1_38_ans.txt#2579/CH1/EX1.38/Ex1_38_ans.txt#R##104412
+1#Eletromagnetic Field Radiation#1.37#Calculate the antenna current at a distance of seventh eighth wavelength away from the feed point#Ex1_37.sce#2579/CH1/EX1.37/Ex1_37.sce#S##104407
+1#Eletromagnetic Field Radiation#1.37#Calculate the antenna current at a distance of seventh eighth wavelength away from the feed point#Ex1_37.txt#2579/CH1/EX1.37/Ex1_37.txt#R##104408
+1#Eletromagnetic Field Radiation#1.37#Calculate the antenna current at a distance of seventh eighth wavelength away from the feed point#Ex1_37_ans.txt#2579/CH1/EX1.37/Ex1_37_ans.txt#R##104409
+1#Eletromagnetic Field Radiation#1.36#Find the velocity of a plane wave in a loss less medium#Ex1_36.sce#2579/CH1/EX1.36/Ex1_36.sce#S##104404
+1#Eletromagnetic Field Radiation#1.36#Find the velocity of a plane wave in a loss less medium#Ex1_36.txt#2579/CH1/EX1.36/Ex1_36.txt#R##104405
+1#Eletromagnetic Field Radiation#1.36#Find the velocity of a plane wave in a loss less medium#Ex1_36_ans.txt#2579/CH1/EX1.36/Ex1_36_ans.txt#R##104406
+1#Eletromagnetic Field Radiation#1.35#Find out the field strength#Ex1_35.sce#2579/CH1/EX1.35/Ex1_35.sce#S##104401
+1#Eletromagnetic Field Radiation#1.35#Find out the field strength#Ex1_35.txt#2579/CH1/EX1.35/Ex1_35.txt#R##104402
+1#Eletromagnetic Field Radiation#1.35#Find out the field strength#Ex1_35_ans.txt#2579/CH1/EX1.35/Ex1_35_ans.txt#R##104403
+1#Eletromagnetic Field Radiation#1.34#At what distance in wavelength is the radiation component of magnetic field three times the induction components#Ex1_34.sce#2579/CH1/EX1.34/Ex1_34.sce#S##104398
+1#Eletromagnetic Field Radiation#1.34#At what distance in wavelength is the radiation component of magnetic field three times the induction components#Ex1_34.txt#2579/CH1/EX1.34/Ex1_34.txt#R##104399
+1#Eletromagnetic Field Radiation#1.34#At what distance in wavelength is the radiation component of magnetic field three times the induction components#Ex1_34_ans.txt#2579/CH1/EX1.34/Ex1_34_ans.txt#R##104400
+1#Eletromagnetic Field Radiation#1.33#Find the velocity of propogation and the wavelength and the impedence of the medium and also the rms electric field E#Ex1_33.sce#2579/CH1/EX1.33/Ex1_33.sce#S##104395
+1#Eletromagnetic Field Radiation#1.33#Find the velocity of propogation and the wavelength and the impedence of the medium and also the rms electric field E#Ex1_33.txt#2579/CH1/EX1.33/Ex1_33.txt#R##104396
+1#Eletromagnetic Field Radiation#1.33#Find the velocity of propogation and the wavelength and the impedence of the medium and also the rms electric field E#Ex1_33_ans.txt#2579/CH1/EX1.33/Ex1_33_ans.txt#R##104397
+1#Eletromagnetic Field Radiation#1.32#What is the value of electric field strength at a point twenty five away in the same direction#Ex1_32.sce#2579/CH1/EX1.32/Ex1_32.sce#S##104392
+1#Eletromagnetic Field Radiation#1.32#What is the value of electric field strength at a point twenty five away in the same direction#Ex1_32.txt#2579/CH1/EX1.32/Ex1_32.txt#R##104393
+1#Eletromagnetic Field Radiation#1.32#What is the value of electric field strength at a point twenty five away in the same direction#Ex1_32_ans.txt#2579/CH1/EX1.32/Ex1_32_ans.txt#R##104394
+1#Eletromagnetic Field Radiation#1.31#Determine the radiation resistance#Ex1_31.sce#2579/CH1/EX1.31/Ex1_31.sce#S##104389
+1#Eletromagnetic Field Radiation#1.31#Determine the radiation resistance#Ex1_31.txt#2579/CH1/EX1.31/Ex1_31.txt#R##104390
+1#Eletromagnetic Field Radiation#1.31#Determine the radiation resistance#Ex1_31_ans.txt#2579/CH1/EX1.31/Ex1_31_ans.txt#R##104391
+1#Eletromagnetic Field Radiation#1.30#Find the average energy density#Ex1_30.sce#2579/CH1/EX1.30/Ex1_30.sce#S##104386
+1#Eletromagnetic Field Radiation#1.30#Find the average energy density#Ex1_30.txt#2579/CH1/EX1.30/Ex1_30.txt#R##104387
+1#Eletromagnetic Field Radiation#1.30#Find the average energy density#Ex1_30_ans.txt#2579/CH1/EX1.30/Ex1_30_ans.txt#R##104388
+1#Eletromagnetic Field Radiation#1.3#Calculate the radiation resistance #Ex1_3.sce#2579/CH1/EX1.3/Ex1_3.sce#S##104305
+1#Eletromagnetic Field Radiation#1.3#Calculate the radiation resistance #Ex1_3.txt#2579/CH1/EX1.3/Ex1_3.txt#R##104306
+1#Eletromagnetic Field Radiation#1.3#Calculate the radiation resistance #Ex1_3_ans.txt#2579/CH1/EX1.3/Ex1_3_ans.txt#R##104307
+1#Eletromagnetic Field Radiation#1.29#Calculate the antenna current at a distance of seventh eighth wavelength away from the feed point#Ex1_29.sce#2579/CH1/EX1.29/Ex1_29.sce#S##104383
+1#Eletromagnetic Field Radiation#1.29#Calculate the antenna current at a distance of seventh eighth wavelength away from the feed point#Ex1_29.txt#2579/CH1/EX1.29/Ex1_29.txt#R##104384
+1#Eletromagnetic Field Radiation#1.29#Calculate the antenna current at a distance of seventh eighth wavelength away from the feed point#Ex1_29_ans.txt#2579/CH1/EX1.29/Ex1_29_ans.txt#R##104385
+1#Eletromagnetic Field Radiation#1.28#Derive an expression for the gain of a half wave antenna#Ex1_28.sce#2579/CH1/EX1.28/Ex1_28.sce#S##104380
+1#Eletromagnetic Field Radiation#1.28#Derive an expression for the gain of a half wave antenna#Ex1_28.txt#2579/CH1/EX1.28/Ex1_28.txt#R##104381
+1#Eletromagnetic Field Radiation#1.28#Derive an expression for the gain of a half wave antenna#Ex1_28_ans.txt#2579/CH1/EX1.28/Ex1_28_ans.txt#R##104382
+1#Eletromagnetic Field Radiation#1.27#Calculate the radiation resistance#Ex1_27.sce#2579/CH1/EX1.27/Ex1_27.sce#S##104377
+1#Eletromagnetic Field Radiation#1.27#Calculate the radiation resistance#Ex1_27.txt#2579/CH1/EX1.27/Ex1_27.txt#R##104378
+1#Eletromagnetic Field Radiation#1.27#Calculate the radiation resistance#Ex1_27_ans.txt#2579/CH1/EX1.27/Ex1_27_ans.txt#R##104379
+1#Eletromagnetic Field Radiation#1.26#Calculate the field strength at a distance of twenty five km#Ex1_26.sce#2579/CH1/EX1.26/Ex1_26.sce#S##104374
+1#Eletromagnetic Field Radiation#1.26#Calculate the field strength at a distance of twenty five km#Ex1_26.txt#2579/CH1/EX1.26/Ex1_26.txt#R##104375
+1#Eletromagnetic Field Radiation#1.26#Calculate the field strength at a distance of twenty five km#Ex1_26_ans.txt#2579/CH1/EX1.26/Ex1_26_ans.txt#R##104376
+1#Eletromagnetic Field Radiation#1.25#What is the strength of a magnetic field H in free space#Ex1_25.sce#2579/CH1/EX1.25/Ex1_25.sce#S##104371
+1#Eletromagnetic Field Radiation#1.25#What is the strength of a magnetic field H in free space#Ex1_25.txt#2579/CH1/EX1.25/Ex1_25.txt#R##104372
+1#Eletromagnetic Field Radiation#1.25#What is the strength of a magnetic field H in free space#Ex1_25_ans.txt#2579/CH1/EX1.25/Ex1_25_ans.txt#R##104373
+1#Eletromagnetic Field Radiation#1.24#Find the velocity of a plane wave in a loss less medium#Ex1_24.sce#2579/CH1/EX1.24/Ex1_24.sce#S##104368
+1#Eletromagnetic Field Radiation#1.24#Find the velocity of a plane wave in a loss less medium#Ex1_24.txt#2579/CH1/EX1.24/Ex1_24.txt#R##104369
+1#Eletromagnetic Field Radiation#1.24#Find the velocity of a plane wave in a loss less medium#Ex1_24_ans.txt#2579/CH1/EX1.24/Ex1_24_ans.txt#R##104370
+1#Eletromagnetic Field Radiation#1.23#Find out the field strength#Ex1_23.sce#2579/CH1/EX1.23/Ex1_23.sce#S##104365
+1#Eletromagnetic Field Radiation#1.23#Find out the field strength#Ex1_23.txt#2579/CH1/EX1.23/Ex1_23.txt#R##104366
+1#Eletromagnetic Field Radiation#1.23#Find out the field strength#Ex1_23_ans.txt#2579/CH1/EX1.23/Ex1_23_ans.txt#R##104367
+1#Eletromagnetic Field Radiation#1.22#At what distance from a sixty cycle circuit is the radiation field approximately#Ex1_22.sce#2579/CH1/EX1.22/Ex1_22.sce#S##104362
+1#Eletromagnetic Field Radiation#1.22#At what distance from a sixty cycle circuit is the radiation field approximately#Ex1_22.txt#2579/CH1/EX1.22/Ex1_22.txt#R##104363
+1#Eletromagnetic Field Radiation#1.22#At what distance from a sixty cycle circuit is the radiation field approximately#Ex1_22_ans.txt#2579/CH1/EX1.22/Ex1_22_ans.txt#R##104364
+1#Eletromagnetic Field Radiation#1.21#Find out the field strength#Ex1_21.sce#2579/CH1/EX1.21/Ex1_21.sce#S##104359
+1#Eletromagnetic Field Radiation#1.21#Find out the field strength#Ex1_21.txt#2579/CH1/EX1.21/Ex1_21.txt#R##104360
+1#Eletromagnetic Field Radiation#1.21#Find out the field strength#Ex1_21_ans.txt#2579/CH1/EX1.21/Ex1_21_ans.txt#R##104361
+1#Eletromagnetic Field Radiation#1.20#What is the power radiated#Ex1_20.sce#2579/CH1/EX1.20/Ex1_20.sce#S##104356
+1#Eletromagnetic Field Radiation#1.20#What is the power radiated#Ex1_20.txt#2579/CH1/EX1.20/Ex1_20.txt#R##104357
+1#Eletromagnetic Field Radiation#1.20#What is the power radiated#Ex1_20_ans.txt#2579/CH1/EX1.20/Ex1_20_ans.txt#R##104358
+1#Eletromagnetic Field Radiation#1.2#Find out the field strength#Ex1_2.sce#2579/CH1/EX1.2/Ex1_2.sce#S##104302
+1#Eletromagnetic Field Radiation#1.2#Find out the field strength#Ex1_2.txt#2579/CH1/EX1.2/Ex1_2.txt#R##104303
+1#Eletromagnetic Field Radiation#1.2#Find out the field strength#Ex1_2_ans.txt#2579/CH1/EX1.2/Ex1_2_ans.txt#R##104304
+1#Eletromagnetic Field Radiation#1.19#Find the radiation resistance and power radiated and also antenna efficiency#Ex1_19.sce#2579/CH1/EX1.19/Ex1_19.sce#S##104353
+1#Eletromagnetic Field Radiation#1.19#Find the radiation resistance and power radiated and also antenna efficiency#Ex1_19.txt#2579/CH1/EX1.19/Ex1_19.txt#R##104354
+1#Eletromagnetic Field Radiation#1.19#Find the radiation resistance and power radiated and also antenna efficiency#Ex1_19_ans.txt#2579/CH1/EX1.19/Ex1_19_ans.txt#R##104355
+1#Eletromagnetic Field Radiation#1.18#Calculate the radiation resistance#Ex1_18.sce#2579/CH1/EX1.18/Ex1_18.sce#S##104350
+1#Eletromagnetic Field Radiation#1.18#Calculate the radiation resistance#Ex1_18.txt#2579/CH1/EX1.18/Ex1_18.txt#R##104351
+1#Eletromagnetic Field Radiation#1.18#Calculate the radiation resistance#Ex1_18_ans.txt#2579/CH1/EX1.18/Ex1_18_ans.txt#R##104352
+1#Eletromagnetic Field Radiation#1.17#Calculate the effective height of the antenna in meters#Ex1_17.sce#2579/CH1/EX1.17/Ex1_17.sce#S##104347
+1#Eletromagnetic Field Radiation#1.17#Calculate the effective height of the antenna in meters#Ex1_17.txt#2579/CH1/EX1.17/Ex1_17.txt#R##104348
+1#Eletromagnetic Field Radiation#1.17#Calculate the effective height of the antenna in meters#Ex1_17_ans.txt#2579/CH1/EX1.17/Ex1_17_ans.txt#R##104349
+1#Eletromagnetic Field Radiation#1.16#Determine the field strength of the radiated field produced #Ex1_16.sce#2579/CH1/EX1.16/Ex1_16.sce#S##104344
+1#Eletromagnetic Field Radiation#1.16#Determine the field strength of the radiated field produced #Ex1_16.txt#2579/CH1/EX1.16/Ex1_16.txt#R##104345
+1#Eletromagnetic Field Radiation#1.16#Determine the field strength of the radiated field produced #Ex1_16_ans.txt#2579/CH1/EX1.16/Ex1_16_ans.txt#R##104346
+1#Eletromagnetic Field Radiation#1.15#Calculate the antenna current at a distance of five eight wavelength away from the feed point#Ex1_15.sce#2579/CH1/EX1.15/Ex1_15.sce#S##104341
+1#Eletromagnetic Field Radiation#1.15#Calculate the antenna current at a distance of five eight wavelength away from the feed point#Ex1_15.txt#2579/CH1/EX1.15/Ex1_15.txt#R##104342
+1#Eletromagnetic Field Radiation#1.15#Calculate the antenna current at a distance of five eight wavelength away from the feed point#Ex1_15_ans.txt#2579/CH1/EX1.15/Ex1_15_ans.txt#R##104343
+1#Eletromagnetic Field Radiation#1.14#what is the electric field#Ex1_14.sce#2579/CH1/EX1.14/Ex1_14.sce#S##104338
+1#Eletromagnetic Field Radiation#1.14#what is the electric field#Ex1_14.txt#2579/CH1/EX1.14/Ex1_14.txt#R##104339
+1#Eletromagnetic Field Radiation#1.14#what is the electric field#Ex1_14_ans.txt#2579/CH1/EX1.14/Ex1_14_ans.txt#R##104340
+1#Eletromagnetic Field Radiation#1.13#Calculate the power radiated and what is its radiation resistance#Ex1_13.sce#2579/CH1/EX1.13/Ex1_13.sce#S##104335
+1#Eletromagnetic Field Radiation#1.13#Calculate the power radiated and what is its radiation resistance#Ex1_13.txt#2579/CH1/EX1.13/Ex1_13.txt#R##104336
+1#Eletromagnetic Field Radiation#1.13#Calculate the power radiated and what is its radiation resistance#Ex1_13_ans.txt#2579/CH1/EX1.13/Ex1_13_ans.txt#R##104337
+1#Eletromagnetic Field Radiation#1.12#Calculate the radiation resistance of current elements#Ex1_12.sce#2579/CH1/EX1.12/Ex1_12.sce#S##104332
+1#Eletromagnetic Field Radiation#1.12#Calculate the radiation resistance of current elements#Ex1_12.txt#2579/CH1/EX1.12/Ex1_12.txt#R##104333
+1#Eletromagnetic Field Radiation#1.12#Calculate the radiation resistance of current elements#Ex1_12_ans.txt#2579/CH1/EX1.12/Ex1_12_ans.txt#R##104334
+1#Eletromagnetic Field Radiation#1.11#Calculate the power radiated#Ex1_11.sce#2579/CH1/EX1.11/Ex1_11.sce#S##104329
+1#Eletromagnetic Field Radiation#1.11#Calculate the power radiated#Ex1_11.txt#2579/CH1/EX1.11/Ex1_11.txt#R##104330
+1#Eletromagnetic Field Radiation#1.11#Calculate the power radiated#Ex1_11_ans.txt#2579/CH1/EX1.11/Ex1_11_ans.txt#R##104331
+1#Eletromagnetic Field Radiation#1.10#Find the field strength and the power radiated#Ex1_10.sce#2579/CH1/EX1.10/Ex1_10.sce#S##104326
+1#Eletromagnetic Field Radiation#1.10#Find the field strength and the power radiated#Ex1_10.txt#2579/CH1/EX1.10/Ex1_10.txt#R##104327
+1#Eletromagnetic Field Radiation#1.10#Find the field strength and the power radiated#Ex1_10_ans.txt#2579/CH1/EX1.10/Ex1_10_ans.txt#R##104328
+1#Eletromagnetic Field Radiation#1.1#What is the strength of a magnetic field H in free space#Ex1_1.sce#2579/CH1/EX1.1/Ex1_1.sce#S##104299
+1#Eletromagnetic Field Radiation#1.1#What is the strength of a magnetic field H in free space#Ex1_1.txt#2579/CH1/EX1.1/Ex1_1.txt#R##104300
+1#Eletromagnetic Field Radiation#1.1#What is the strength of a magnetic field H in free space#Ex1_1_ans.txt#2579/CH1/EX1.1/Ex1_1_ans.txt#R##104301

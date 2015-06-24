@@ -1,0 +1,5 @@
+**Sample Problem 27-4(1)**
+The resistance of the block is equal to 1.008333e-004Ohm
+
+**Sample Problem 27-4(2)**
+The resistance of the block is equal to 6.453333e-007Ohm 

@@ -1,0 +1,15 @@
+clear;
+clc;
+Zo=400;ZRa=70,ZRb=800;ZRc=650-(%i*475);
+Ka=(ZRa-Zo)/(ZRa+Zo);
+ampKa=sqrt((real(Ka)^2)+(imag(Ka)^2));
+Sa=(1+ampKa)/(1-ampKa);
+printf("(a)Standing wave ratio = %f\n",round(Sa*100)/100);
+Kb=(ZRb-Zo)/(ZRb+Zo);
+ampKb=sqrt((real(Kb)^2)+(imag(Kb)^2));
+Sb=(1+ampKb)/(1-ampKb);
+printf("(b)Standing wave ratio = %f\n",Sb);
+Kc=(ZRc-Zo)/(ZRc+Zo);
+ampKc=sqrt((real(Kc)^2)+(imag(Kc)^2));
+Sc=(1+ampKc)/(1-ampKc);
+printf("(c)Standing wave ratio = %f",round(Sc*1000)/1000);

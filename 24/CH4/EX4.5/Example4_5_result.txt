@@ -1,0 +1,12 @@
+**Sample Problem 4-5**
+The velocity vector of the particle at t=5sec in m/s is 
+ 
+         column 1
+ 
+  - 11.641814  
+ 
+         column 2
+ 
+    15.490667  
+The magnitude of the velocity vector is 19.377631 m/s
+The angle made by the velocity vector with the x axis in degrees at the same time -53.073771 

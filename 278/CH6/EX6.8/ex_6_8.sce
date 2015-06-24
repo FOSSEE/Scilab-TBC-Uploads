@@ -1,0 +1,29 @@
+Wmin=20*10^3
+Wmax=50*10^3
+l=500
+FS=1.5
+Kf=1
+Ksz=0.85
+Ksur=0.9
+sigmau=650
+sigmay=500
+sigmae=350
+Mmax=(Wmax*l)/4
+disp(Mmax,"Maximum bending moment=")
+Mmin=(Wmin*l)/4
+disp(Mmin,"Minimum bending moment=")
+Mm=(Mmax+Mmin)/2
+disp(Mm,"Mean bending moment=")
+Mv=(Mmax-Mmin)/2
+disp(Mv,"Variable bending moment=")
+syms d
+Z=(%pi/32)*d^3
+sigmam=Mm/Z
+0=(sigmam/sigmay)-((sigmav*Kf)/(sigmae*Ksur*Ksz)-(1/FS)//according to Soderberg's relation
+d=59.3
+disp(d,"According to soderbergs formula, d=")
+0=(sigmam/sigmau)-((sigmav*Kf)/(sigmae*Ksur*Ksz)-(1/FS)//according to Soderberg's relation
+d=62.1
+disp(d,"According to Goodmans formula, d=")
+printf("Taking larger of the two values, d=62.1mm")
+

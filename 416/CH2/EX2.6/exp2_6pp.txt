@@ -1,0 +1,13 @@
+  
+ Example 2.6   
+the energy at different load levels is as under :
+load=20MW,energy=480MWh
+load=40MW,energy=820MWh
+load=80MW,energy=1340MWh
+load=100MW,energy=1420MWh
+the energy load curve is plotted in fig 1 
+the energy supplied up to different times of the day is as under :
+energy supplied upto 5 is 100MWh
+energy supplied upto 9 is 260MWh
+energy supplied upto 18 is 980MWh
+energy supplied upto 22 is 1380MWh 

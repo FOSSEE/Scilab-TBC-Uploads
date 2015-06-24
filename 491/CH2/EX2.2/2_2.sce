@@ -1,0 +1,17 @@
+Fce_ = 2; //dummy variable
+Fbd_ = 3; //dummy variable
+Lbd = 480; //mm
+Lce = 600; //mm
+E = 205e6; //205Gpa
+Abd = 1020; //mm
+Ace = 520; //mm
+Dbd_ = (Fbd_*Lbd)/(E*Abd); //dummy variable
+Dce_ = (Fce_*Lce)/(E*Ace); //dummy variable
+Da = 1; //limiting value
+P = ( ( ((450+225)/225)*(Dbd_ + Dce_) - Dce_ )^(-1) ) * Da ; 
+Fce = 2*P; // Real value in newton
+Fbd = 3*P; //real value in newton
+Dbd = (Fbd*Lbd)/(E*Abd); //displacement in mm
+Dce = (Fce*Lce)/(E*Ace); // displacement in mm
+a = atand((Da+Dce)/675) ; //alpha in degree
+disp("degree",a,"alpha = ")

@@ -1,0 +1,9 @@
+clc;
+R=330;
+VS=5;
+VD=VS;
+disp('V',VD*1,"VD=VS=");
+VR=0;
+disp(VR,"VR=");
+I=0;
+disp(I,"I=");

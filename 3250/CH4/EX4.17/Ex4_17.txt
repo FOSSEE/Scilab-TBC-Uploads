@@ -1,0 +1,3 @@
+ # PROBLEM 4.17 # 
+ 
+ Power required = 257.161051 W. 

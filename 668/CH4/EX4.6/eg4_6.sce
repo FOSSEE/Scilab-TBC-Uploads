@@ -1,0 +1,16 @@
+t0 = 0.6*10^-9;
+tnr = 10^-7;
+p = 10^22;
+kT = 26*10^-3; //in eV
+m0 = 0.91 * 10^-30; //in kg
+m1 = 0.067*m0;
+m2 = 0.45*m0;
+tri = (0.5*p/t0)*(2*%pi*h*h/kT/q/(m1+m2))^1.5;
+tr1 = 1/tri;
+disp(tr1,"When the p-type doping is 10^16 cm−3, the hole density is low and the e-h recombination time (in s) for the injected electrons = ")
+tr2 = t0*((m1+m2)/m1)^1.5;
+disp(tr2,"In the case where the p-doping is high, the recombination time(in s) = ")
+nqr1 = (1+tr1/tnr)^-1;
+disp(nqr1,"For the low-doping case, the internal quantum efficiency for the diode = ")
+nqr2 = (1+tr2/tnr)^-1;
+disp(nqr2,"For the more heavily doped p region, the internal quantum efficiency for the diode = ")

@@ -1,0 +1,3 @@
+ Power absorbed by the load (in watts)=   
+ 
+    8861.0586 

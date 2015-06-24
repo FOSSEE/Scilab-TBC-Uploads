@@ -1,0 +1,12 @@
+ Area =   
+ 
+    1.  
+ 
+   Therefore area under PDF curve is  unity.   
+ 
+ Mean value =   
+ 
+    0.  
+ 
+  Therefore mean value is  zero.   
+ 

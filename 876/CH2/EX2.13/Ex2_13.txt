@@ -1,0 +1,19 @@
+ deviation=   
+ 
+    0.624  
+ 
+ deviation=   
+ 
+  - 0.636  
+ 
+ deviation=   
+ 
+  - 1.276  
+ 
+ deviation=   
+ 
+    1.394  
+ 
+ deviation=   
+ 
+  - 0.106  

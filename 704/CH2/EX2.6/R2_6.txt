@@ -1,0 +1,5 @@
+ 
+ voltage generated in machine (in Volts)=   
+ 
+    357.  
+ 

@@ -1,0 +1,17 @@
+  
+ Transformation ratio=   
+ 
+    0.5  
+ 
+ Secondary current(in Amp)=   
+ 
+    40.  
+ 
+ Primary current(in Amp)=   
+ 
+    20.  
+ 
+ number of turns across secondary winding=   
+ 
+    125.  
+ 

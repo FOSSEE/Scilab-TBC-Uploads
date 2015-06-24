@@ -1,0 +1,24 @@
+                           //EXAMPLE 4-36         PG NO-250-251
+I1=0.3;
+I2=-1.1;
+V1=2*I1;
+disp(' VOLTAGE is = '+string(V1)+' V');
+V2=2*I2;
+disp(' VOLTAGE is = '+string(V2)+' V');
+V3=-5;
+disp(' VOLTAGE is = '+string(V3)+' A');
+V4=-(2*I1)+4;
+disp(' VOLTAGE is = '+string(V4)+' V');
+V5=2.8;
+IAB=V4/2;
+disp(' CURRENT is = '+string(IAB)+' A');
+IAD=V5/2;
+disp(' CURRENT is = '+string(IAD)+' A');
+IAC=-V3/2;
+disp(' CURRENT is = '+string(IAC)+' A');
+IDB=V1/2;
+disp(' CURRENT is = '+string(IDB)+' A');
+IDC=-V2/2;
+disp(' CURRENT is = '+string(IDC)+' A');
+I=IAB+IAD+IAC-2;
+disp(' CURRENT is = '+string(I)+' A');

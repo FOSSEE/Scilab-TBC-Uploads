@@ -1,0 +1,3 @@
+limiting error(in %)=   
+ 
+    3.6144578 

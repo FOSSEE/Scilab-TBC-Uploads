@@ -1,0 +1,220 @@
+18#Miscellaneous Solved Problems in Turbomachines#18.9#Constant Pressure Gas Turbine Plant#Ex18_9.sce#2223/CH18/EX18.9/Ex18_9.sce#S##89717
+18#Miscellaneous Solved Problems in Turbomachines#18.9#Constant Pressure Gas Turbine Plant#Ex18_9.sav#2223/CH18/EX18.9/Ex18_9.sav#R##89718
+18#Miscellaneous Solved Problems in Turbomachines#18.8#Calculation on an air compressor#Ex18_8.sce#2223/CH18/EX18.8/Ex18_8.sce#S##89715
+18#Miscellaneous Solved Problems in Turbomachines#18.8#Calculation on an air compressor#Ex18_8.sav#2223/CH18/EX18.8/Ex18_8.sav#R##89716
+18#Miscellaneous Solved Problems in Turbomachines#18.7#RHF of a three stage turbine#Ex18_7.sce#2223/CH18/EX18.7/Ex18_7.sce#S##89713
+18#Miscellaneous Solved Problems in Turbomachines#18.7#RHF of a three stage turbine#Ex18_7.sav#2223/CH18/EX18.7/Ex18_7.sav#R##89714
+18#Miscellaneous Solved Problems in Turbomachines#18.6#Calculations on a Gas Turbine#Ex18_6.sce#2223/CH18/EX18.6/Ex18_6.sce#S##89711
+18#Miscellaneous Solved Problems in Turbomachines#18.6#Calculations on a Gas Turbine#Ex18_6.sav#2223/CH18/EX18.6/Ex18_6.sav#R##89712
+18#Miscellaneous Solved Problems in Turbomachines#18.55#Propeller Thrust and Power#Ex18_55.sce#2223/CH18/EX18.55/Ex18_55.sce#S##91217
+18#Miscellaneous Solved Problems in Turbomachines#18.55#Propeller Thrust and Power#Ex18_55.sav#2223/CH18/EX18.55/Ex18_55.sav#R##91218
+18#Miscellaneous Solved Problems in Turbomachines#18.54#Maximum Height of Hydro Turbines#Ex18_54.sce#2223/CH18/EX18.54/Ex18_54.sce#S##98083
+18#Miscellaneous Solved Problems in Turbomachines#18.54#Maximum Height of Hydro Turbines#Ex18_54.sav#2223/CH18/EX18.54/Ex18_54.sav#R##91216
+18#Miscellaneous Solved Problems in Turbomachines#18.53#NPSH and Thoma Cavitation Coefficient#Ex18_53.sce#2223/CH18/EX18.53/Ex18_53.sce#S##91213
+18#Miscellaneous Solved Problems in Turbomachines#18.53#NPSH and Thoma Cavitation Coefficient#Ex18_53.sav#2223/CH18/EX18.53/Ex18_53.sav#R##91214
+18#Miscellaneous Solved Problems in Turbomachines#18.52#NPSH for Centrifugal pump#Ex18_52.sce#2223/CH18/EX18.52/Ex18_52.sce#S##91211
+18#Miscellaneous Solved Problems in Turbomachines#18.52#NPSH for Centrifugal pump#Ex18_52.sav#2223/CH18/EX18.52/Ex18_52.sav#R##91212
+18#Miscellaneous Solved Problems in Turbomachines#18.51#Axial pump 360 rpm#Ex18_51.sce#2223/CH18/EX18.51/Ex18_51.sce#S##91209
+18#Miscellaneous Solved Problems in Turbomachines#18.51#Axial pump 360 rpm#Ex18_51.sav#2223/CH18/EX18.51/Ex18_51.sav#R##91210
+18#Miscellaneous Solved Problems in Turbomachines#18.50#Centrifugal pump 1500 rpm#Ex18_50.sce#2223/CH18/EX18.50/Ex18_50.sce#S##91207
+18#Miscellaneous Solved Problems in Turbomachines#18.50#Centrifugal pump 1500 rpm#Ex18_50.sav#2223/CH18/EX18.50/Ex18_50.sav#R##91208
+18#Miscellaneous Solved Problems in Turbomachines#18.5#Calculation on a Draft Tube#Ex18_5.sce#2223/CH18/EX18.5/Ex18_5.sce#S##86730
+18#Miscellaneous Solved Problems in Turbomachines#18.5#Calculation on a Draft Tube#Ex18_5.sav#2223/CH18/EX18.5/Ex18_5.sav#R##86731
+18#Miscellaneous Solved Problems in Turbomachines#18.49#Centrifugal pump 890 kW#Ex18_49.sce#2223/CH18/EX18.49/Ex18_49.sce#S##91205
+18#Miscellaneous Solved Problems in Turbomachines#18.49#Centrifugal pump 890 kW#Ex18_49.sav#2223/CH18/EX18.49/Ex18_49.sav#R##91206
+18#Miscellaneous Solved Problems in Turbomachines#18.48#Calculation on a Draft Tube#Ex18_48.sce#2223/CH18/EX18.48/Ex18_48.sce#S##91203
+18#Miscellaneous Solved Problems in Turbomachines#18.48#Calculation on a Draft Tube#Ex18_48.sav#2223/CH18/EX18.48/Ex18_48.sav#R##91204
+18#Miscellaneous Solved Problems in Turbomachines#18.47#Crossflow Radial Hydro turbine#Ex18_47.sce#2223/CH18/EX18.47/Ex18_47.sce#S##91201
+18#Miscellaneous Solved Problems in Turbomachines#18.47#Crossflow Radial Hydro turbine#Ex18_47.sav#2223/CH18/EX18.47/Ex18_47.sav#R##91202
+18#Miscellaneous Solved Problems in Turbomachines#18.46#Fourneyron Turbine 360 rpm#Ex18_46.sce#2223/CH18/EX18.46/Ex18_46.sce#S##91199
+18#Miscellaneous Solved Problems in Turbomachines#18.46#Fourneyron Turbine 360 rpm#Ex18_46.sav#2223/CH18/EX18.46/Ex18_46.sav#R##91200
+18#Miscellaneous Solved Problems in Turbomachines#18.45#Kaplan turbine 120 rpm#Ex18_45.sce#2223/CH18/EX18.45/Ex18_45.sce#S##91197
+18#Miscellaneous Solved Problems in Turbomachines#18.45#Kaplan turbine 120 rpm#Ex18_45.sav#2223/CH18/EX18.45/Ex18_45.sav#R##91198
+18#Miscellaneous Solved Problems in Turbomachines#18.44#Pelton Wheel 360 rpm#Ex18_44.sce#2223/CH18/EX18.44/Ex18_44.sce#S##91195
+18#Miscellaneous Solved Problems in Turbomachines#18.44#Pelton Wheel 360 rpm#Ex18_44.sav#2223/CH18/EX18.44/Ex18_44.sav#R##91196
+18#Miscellaneous Solved Problems in Turbomachines#18.43#Francis turbine 250 rpm#Ex18_43.sce#2223/CH18/EX18.43/Ex18_43.sce#S##91193
+18#Miscellaneous Solved Problems in Turbomachines#18.43#Francis turbine 250 rpm#Ex18_43.sav#2223/CH18/EX18.43/Ex18_43.sav#R##91194
+18#Miscellaneous Solved Problems in Turbomachines#18.42#Calculation for Tidal Power Plant#Ex18_42.sce#2223/CH18/EX18.42/Ex18_42.sce#S##91191
+18#Miscellaneous Solved Problems in Turbomachines#18.42#Calculation for Tidal Power Plant#Ex18_42.sav#2223/CH18/EX18.42/Ex18_42.sav#R##91192
+18#Miscellaneous Solved Problems in Turbomachines#18.41#Calculation for the Pelton Wheel#Ex18_41.sce#2223/CH18/EX18.41/Ex18_41.sce#S##91189
+18#Miscellaneous Solved Problems in Turbomachines#18.41#Calculation for the Pelton Wheel#Ex18_41.sav#2223/CH18/EX18.41/Ex18_41.sav#R##91190
+18#Miscellaneous Solved Problems in Turbomachines#18.40#Francis turbine 910 rpm#Ex18_40.sce#2223/CH18/EX18.40/Ex18_40.sce#S##91187
+18#Miscellaneous Solved Problems in Turbomachines#18.40#Francis turbine 910 rpm#Ex18_40.sav#2223/CH18/EX18.40/Ex18_40.sav#R##91188
+18#Miscellaneous Solved Problems in Turbomachines#18.4#Calculation on a Diffuser#Ex18_4.sce#2223/CH18/EX18.4/Ex18_4.sce#S##86728
+18#Miscellaneous Solved Problems in Turbomachines#18.4#Calculation on a Diffuser#Ex18_4.sav#2223/CH18/EX18.4/Ex18_4.sav#R##86729
+18#Miscellaneous Solved Problems in Turbomachines#18.39#Calculation for Pelton Wheel prototype#Ex18_39.sce#2223/CH18/EX18.39/Ex18_39.sce#S##91185
+18#Miscellaneous Solved Problems in Turbomachines#18.39#Calculation for Pelton Wheel prototype#Ex18_39.sav#2223/CH18/EX18.39/Ex18_39.sav#R##91186
+18#Miscellaneous Solved Problems in Turbomachines#18.38#Kaplan turbine 70 rpm#Ex18_38.sce#2223/CH18/EX18.38/Ex18_38.sce#S##91183
+18#Miscellaneous Solved Problems in Turbomachines#18.38#Kaplan turbine 70 rpm#Ex18_38.sav#2223/CH18/EX18.38/Ex18_38.sav#R##91184
+18#Miscellaneous Solved Problems in Turbomachines#18.37#Calculation for the specific speed#Ex18_37.sce#2223/CH18/EX18.37/Ex18_37.sce#S##91181
+18#Miscellaneous Solved Problems in Turbomachines#18.37#Calculation for the specific speed#Ex18_37.sav#2223/CH18/EX18.37/Ex18_37.sav#R##91182
+18#Miscellaneous Solved Problems in Turbomachines#18.35#Sirocco Radial fan 1440 rpm#Ex18_35.sce#2223/CH18/EX18.35/Ex18_35.sce#S##91179
+18#Miscellaneous Solved Problems in Turbomachines#18.35#Sirocco Radial fan 1440 rpm#Ex18_35.sav#2223/CH18/EX18.35/Ex18_35.sav#R##91180
+18#Miscellaneous Solved Problems in Turbomachines#18.34#Counter Rotating fan#Ex18_34.sce#2223/CH18/EX18.34/Ex18_34.sce#S##91176
+18#Miscellaneous Solved Problems in Turbomachines#18.34#Counter Rotating fan#Ex18_34.sav#2223/CH18/EX18.34/Ex18_34.sav#R##91177
+18#Miscellaneous Solved Problems in Turbomachines#18.33#Vertical Axis Crossflow Wind turbine#Ex18_33.sce#2223/CH18/EX18.33/Ex18_33.sce#S##91174
+18#Miscellaneous Solved Problems in Turbomachines#18.33#Vertical Axis Crossflow Wind turbine#Ex18_33.sav#2223/CH18/EX18.33/Ex18_33.sav#R##91175
+18#Miscellaneous Solved Problems in Turbomachines#18.32#IFR turbine stage efficiency#Ex18_32.sce#2223/CH18/EX18.32/Ex18_32.sce#S##91172
+18#Miscellaneous Solved Problems in Turbomachines#18.32#IFR turbine stage efficiency#Ex18_32.sav#2223/CH18/EX18.32/Ex18_32.sav#R##91173
+18#Miscellaneous Solved Problems in Turbomachines#18.31#Cantilever Type IFR turbine#Ex18_31.sce#2223/CH18/EX18.31/Ex18_31.sce#S##91170
+18#Miscellaneous Solved Problems in Turbomachines#18.31#Cantilever Type IFR turbine#Ex18_31.sav#2223/CH18/EX18.31/Ex18_31.sav#R##91171
+18#Miscellaneous Solved Problems in Turbomachines#18.30#Inward Flow Radial Gas turbine#Ex18_30.sce#2223/CH18/EX18.30/Ex18_30.sce#S##91168
+18#Miscellaneous Solved Problems in Turbomachines#18.30#Inward Flow Radial Gas turbine#Ex18_30.sav#2223/CH18/EX18.30/Ex18_30.sav#R##91169
+18#Miscellaneous Solved Problems in Turbomachines#18.3#Irreversible flow in nozzles#Ex18_3.sce#2223/CH18/EX18.3/Ex18_3.sce#S##86726
+18#Miscellaneous Solved Problems in Turbomachines#18.3#Irreversible flow in nozzles#Ex18_3.sav#2223/CH18/EX18.3/Ex18_3.sav#R##86727
+18#Miscellaneous Solved Problems in Turbomachines#18.29#Centrifugal compressor with vaned diffuser#Ex18_29.sce#2223/CH18/EX18.29/Ex18_29.sce#S##91166
+18#Miscellaneous Solved Problems in Turbomachines#18.29#Centrifugal compressor with vaned diffuser#Ex18_29.sav#2223/CH18/EX18.29/Ex18_29.sav#R##91167
+18#Miscellaneous Solved Problems in Turbomachines#18.28#centrifugal Air compressor#Ex18_28.sce#2223/CH18/EX18.28/Ex18_28.sce#S##91164
+18#Miscellaneous Solved Problems in Turbomachines#18.28#centrifugal Air compressor#Ex18_28.sav#2223/CH18/EX18.28/Ex18_28.sav#R##91165
+18#Miscellaneous Solved Problems in Turbomachines#18.27#Isentropic Flow Centrifugal Air compressor #Ex18_27.sce#2223/CH18/EX18.27/Ex18_27.sce#S##89750
+18#Miscellaneous Solved Problems in Turbomachines#18.27#Isentropic Flow Centrifugal Air compressor #Ex18_27.sav#2223/CH18/EX18.27/Ex18_27.sav#R##89751
+18#Miscellaneous Solved Problems in Turbomachines#18.26#Calculation on an axial compressor cascade#Ex18_26.sce#2223/CH18/EX18.26/Ex18_26.sce#S##89748
+18#Miscellaneous Solved Problems in Turbomachines#18.26#Calculation on an axial compressor cascade#Ex18_26.sav#2223/CH18/EX18.26/Ex18_26.sav#R##89749
+18#Miscellaneous Solved Problems in Turbomachines#18.25#Calculation on two stage axial compressor#Ex18_25.sce#2223/CH18/EX18.25/Ex18_25.sce#S##91162
+18#Miscellaneous Solved Problems in Turbomachines#18.25#Calculation on two stage axial compressor#Ex18_25.sav#2223/CH18/EX18.25/Ex18_25.sav#R##91163
+18#Miscellaneous Solved Problems in Turbomachines#18.24#Calculation on an axial compressor cascade#Ex18_24.sce#2223/CH18/EX18.24/Ex18_24.sce#S##89746
+18#Miscellaneous Solved Problems in Turbomachines#18.24#Calculation on an axial compressor cascade#Ex18_24.sav#2223/CH18/EX18.24/Ex18_24.sav#R##89747
+18#Miscellaneous Solved Problems in Turbomachines#18.23#axial compressor stage efficiency #Ex18_23.sce#2223/CH18/EX18.23/Ex18_23.sce#S##89744
+18#Miscellaneous Solved Problems in Turbomachines#18.23#axial compressor stage efficiency #Ex18_23.sav#2223/CH18/EX18.23/Ex18_23.sav#R##89745
+18#Miscellaneous Solved Problems in Turbomachines#18.22#Isentropic or Stage Terminal Velocity for Turbines#Ex18_22.sce#2223/CH18/EX18.22/Ex18_22.sce#S##89742
+18#Miscellaneous Solved Problems in Turbomachines#18.22#Isentropic or Stage Terminal Velocity for Turbines#Ex18_22.sav#2223/CH18/EX18.22/Ex18_22.sav#R##89743
+18#Miscellaneous Solved Problems in Turbomachines#18.21#low reaction turbine stage#Ex18_21.sav#2223/CH18/EX18.21/Ex18_21.sav#R##91385
+18#Miscellaneous Solved Problems in Turbomachines#18.21#low reaction turbine stage#Ex18_21.sce#2223/CH18/EX18.21/Ex18_21.sce#S##91384
+18#Miscellaneous Solved Problems in Turbomachines#18.20#Calculation on an axial turbine cascade#Ex18_20.sce#2223/CH18/EX18.20/Ex18_20.sce#S##89740
+18#Miscellaneous Solved Problems in Turbomachines#18.20#Calculation on an axial turbine cascade#Ex18_20.sav#2223/CH18/EX18.20/Ex18_20.sav#R##89741
+18#Miscellaneous Solved Problems in Turbomachines#18.2#Steam Turbine nozzle#Ex18_2.sce#2223/CH18/EX18.2/Ex18_2.sce#S##86724
+18#Miscellaneous Solved Problems in Turbomachines#18.2#Steam Turbine nozzle#Ex18_2.sav#2223/CH18/EX18.2/Ex18_2.sav#R##86725
+18#Miscellaneous Solved Problems in Turbomachines#18.19#blower type wind tunnel#Ex18_19.sce#2223/CH18/EX18.19/Ex18_19.sce#S##89738
+18#Miscellaneous Solved Problems in Turbomachines#18.19#blower type wind tunnel#Ex18_19.sav#2223/CH18/EX18.19/Ex18_19.sav#R##89739
+18#Miscellaneous Solved Problems in Turbomachines#18.18#Ljungstrom turbine 3600 rpm#Ex18_18.sce#2223/CH18/EX18.18/Ex18_18.sce#S##89736
+18#Miscellaneous Solved Problems in Turbomachines#18.18#Ljungstrom turbine 3600 rpm#Ex18_18.sav#2223/CH18/EX18.18/Ex18_18.sav#R##89737
+18#Miscellaneous Solved Problems in Turbomachines#18.17#three stage steam turbine#Ex18_17.sce#2223/CH18/EX18.17/Ex18_17.sce#S##89734
+18#Miscellaneous Solved Problems in Turbomachines#18.17#three stage steam turbine#Ex18_17.sav#2223/CH18/EX18.17/Ex18_17.sav#R##89735
+18#Miscellaneous Solved Problems in Turbomachines#18.16#large Centrifugal pump 1000 rpm#Ex18_16.sce#2223/CH18/EX18.16/Ex18_16.sce#S##89732
+18#Miscellaneous Solved Problems in Turbomachines#18.16#large Centrifugal pump 1000 rpm#Ex18_16.sav#2223/CH18/EX18.16/Ex18_16.sav#R##89733
+18#Miscellaneous Solved Problems in Turbomachines#18.15#Impulse Steam Turbine 3000 rpm#Ex18_15.sce#2223/CH18/EX18.15/Ex18_15.sce#S##91219
+18#Miscellaneous Solved Problems in Turbomachines#18.15#Impulse Steam Turbine 3000 rpm#Ex18_15.sav#2223/CH18/EX18.15/Ex18_15.sav#R##91220
+18#Miscellaneous Solved Problems in Turbomachines#18.13#Turbojet Gas Turbine Engine#Ex18_13.sce#2223/CH18/EX18.13/Ex18_13.sce#S##89730
+18#Miscellaneous Solved Problems in Turbomachines#18.13#Turbojet Gas Turbine Engine#Ex18_13.sav#2223/CH18/EX18.13/Ex18_13.sav#R##89731
+18#Miscellaneous Solved Problems in Turbomachines#18.12#turbo prop Gas Turbine Engine#Ex18_12.sce#2223/CH18/EX18.12/Ex18_12.sce#S##89724
+18#Miscellaneous Solved Problems in Turbomachines#18.12#turbo prop Gas Turbine Engine#Ex18_12.sav#2223/CH18/EX18.12/Ex18_12.sav#R##89725
+18#Miscellaneous Solved Problems in Turbomachines#18.11#Calculation on combined cycle power plant#Ex18_11.sce#2223/CH18/EX18.11/Ex18_11.sce#S##107874
+18#Miscellaneous Solved Problems in Turbomachines#18.11#Calculation on combined cycle power plant#Ex18_11.sav#2223/CH18/EX18.11/Ex18_11.sav#R##107875
+18#Miscellaneous Solved Problems in Turbomachines#18.10#Calculation on combined cycle power plant#Ex18_10.sce#2223/CH18/EX18.10/Ex18_10.sce#S##89721
+18#Miscellaneous Solved Problems in Turbomachines#18.10#Calculation on combined cycle power plant#Ex18_10.sav#2223/CH18/EX18.10/Ex18_10.sav#R##89720
+18#Miscellaneous Solved Problems in Turbomachines#18.1#Gas Turbine nozzle row#Ex18_1.sce#2223/CH18/EX18.1/Ex18_1.sce#S##86722
+18#Miscellaneous Solved Problems in Turbomachines#18.1#Gas Turbine nozzle row#Ex18_1.sav#2223/CH18/EX18.1/Ex18_1.sav#R##86723
+16#Wind Turbines#16.1#Wind turbine output 100 kW#Ex16_1.sce#2223/CH16/EX16.1/Ex16_1.sce#S##86720
+16#Wind Turbines#16.1#Wind turbine output 100 kW#Ex16_1.sav#2223/CH16/EX16.1/Ex16_1.sav#R##86721
+15#Centrifugal Fans and Blowers#15.2#Centrifugal blower 3000 rpm#Ex15_2.sce#2223/CH15/EX15.2/Ex15_2.sce#S##86718
+15#Centrifugal Fans and Blowers#15.2#Centrifugal blower 3000 rpm#Ex15_2.sav#2223/CH15/EX15.2/Ex15_2.sav#R##86719
+15#Centrifugal Fans and Blowers#15.1#Centrifugal fan stage 1450 rpm#Ex15_1.sce#2223/CH15/EX15.1/Ex15_1.sce#S##86716
+15#Centrifugal Fans and Blowers#15.1#Centrifugal fan stage 1450 rpm#Ex15_1.sav#2223/CH15/EX15.1/Ex15_1.sav#R##86717
+14#Axial Fans and Propellers#14.6#open propeller fan#Ex14_6.sce#2223/CH14/EX14.6/Ex14_6.sce#S##85040
+14#Axial Fans and Propellers#14.6#open propeller fan#Ex14_6.sav#2223/CH14/EX14.6/Ex14_6.sav#R##85041
+14#Axial Fans and Propellers#14.5#DGVs and upstream guide vanes#Ex14_5.sce#2223/CH14/EX14.5/Ex14_5.sce#S##85032
+14#Axial Fans and Propellers#14.5#DGVs and upstream guide vanes#Ex14_5.sav#2223/CH14/EX14.5/Ex14_5.sav#R##85033
+14#Axial Fans and Propellers#14.4#rotor and upstream guide blades#Ex14_4.sce#2223/CH14/EX14.4/Ex14_4.sce#S##85016
+14#Axial Fans and Propellers#14.4#rotor and upstream guide blades#Ex14_4.sav#2223/CH14/EX14.4/Ex14_4.sav#R##85017
+14#Axial Fans and Propellers#14.3#upstream guide vanes#Ex14_3.sce#2223/CH14/EX14.3/Ex14_3.sce#S##85004
+14#Axial Fans and Propellers#14.3#upstream guide vanes#Ex14_3.sav#2223/CH14/EX14.3/Ex14_3.sav#R##85005
+14#Axial Fans and Propellers#14.2#Downstream guide vanes#Ex14_2.sav#2223/CH14/EX14.2/Ex14_2.sav#R##91379
+14#Axial Fans and Propellers#14.2#Downstream guide vanes#Ex14_2.sce#2223/CH14/EX14.2/Ex14_2.sce#S##91378
+14#Axial Fans and Propellers#14.1#Axial fan stage 960 rpm#Ex14_1.sce#2223/CH14/EX14.1/Ex14_1.sce#S##84959
+14#Axial Fans and Propellers#14.1#Axial fan stage 960 rpm#Ex14_1.sav#2223/CH14/EX14.1/Ex14_1.sav#R##84960
+13#Radial Turbine Stages#13.3#IFR turbine with Cantilever Blades#Ex13_3.sce#2223/CH13/EX13.3/Ex13_3.sce#S##98084
+13#Radial Turbine Stages#13.3#IFR turbine with Cantilever Blades#Ex13_3.sav#2223/CH13/EX13.3/Ex13_3.sav#R##98085
+13#Radial Turbine Stages#13.2#Mach Number and loss coefficient#Ex13_2.sce#2223/CH13/EX13.2/Ex13_2.sce#S##98820
+13#Radial Turbine Stages#13.2#Mach Number and loss coefficient#Ex13_2.sav#2223/CH13/EX13.2/Ex13_2.sav#R##84958
+13#Radial Turbine Stages#13.1#ninety degree IFR turbine#Ex13_1.sce#2223/CH13/EX13.1/Ex13_1.sce#S##84953
+13#Radial Turbine Stages#13.1#ninety degree IFR turbine#Ex13_1.sav#2223/CH13/EX13.1/Ex13_1.sav#R##84954
+12#Centrifugal Compressor Stage#12.5#Radially tipped blade impeller#Ex12_5.sce#2223/CH12/EX12.5/Ex12_5.sce#S##83902
+12#Centrifugal Compressor Stage#12.5#Radially tipped blade impeller#Ex12_5.sav#2223/CH12/EX12.5/Ex12_5.sav#R##83903
+12#Centrifugal Compressor Stage#12.4#Radially tipped blade impeller#Ex12_4.sav#2223/CH12/EX12.4/Ex12_4.sav#R##91224
+12#Centrifugal Compressor Stage#12.4#Radially tipped blade impeller#Ex12_4.sce#2223/CH12/EX12.4/Ex12_4.sce#S##91223
+12#Centrifugal Compressor Stage#12.3#centrifugal compressor stage 17000 rpm#Ex12_3.sce#2223/CH12/EX12.3/Ex12_3.sce#S##98081
+12#Centrifugal Compressor Stage#12.3#centrifugal compressor stage 17000 rpm#Ex12_3.sav#2223/CH12/EX12.3/Ex12_3.sav#R##91222
+12#Centrifugal Compressor Stage#12.2#Calculation on a centrifugal air compressor#Ex12_2.sce#2223/CH12/EX12.2/Ex12_2.sce#S##82110
+12#Centrifugal Compressor Stage#12.2#Calculation on a centrifugal air compressor#Ex12_2.sav#2223/CH12/EX12.2/Ex12_2.sav#R##82111
+12#Centrifugal Compressor Stage#12.1#Calculation on a centrifugal compressor stage#Ex12_1.sce#2223/CH12/EX12.1/Ex12_1.sce#S##98079
+12#Centrifugal Compressor Stage#12.1#Calculation on a centrifugal compressor stage#Ex12_1.sav#2223/CH12/EX12.1/Ex12_1.sav#R##98080
+11#Axial Compressor Stages#11.7#flow and loading coefficients #Ex11_7.sce#2223/CH11/EX11.7/Ex11_7.sce#S##82106
+11#Axial Compressor Stages#11.7#flow and loading coefficients #Ex11_7.sav#2223/CH11/EX11.7/Ex11_7.sav#R##82107
+11#Axial Compressor Stages#11.6#General Swirl Distribution axial compressor#Ex11_6.sce#2223/CH11/EX11.6/Ex11_6.sce#S##82104
+11#Axial Compressor Stages#11.6#General Swirl Distribution axial compressor#Ex11_6.sav#2223/CH11/EX11.6/Ex11_6.sav#R##82105
+11#Axial Compressor Stages#11.5#Forced Vortex axial compressor stage #Ex11_5.sce#2223/CH11/EX11.5/Ex11_5.sce#S##91365
+11#Axial Compressor Stages#11.5#Forced Vortex axial compressor stage #Ex11_5.sav#2223/CH11/EX11.5/Ex11_5.sav#R##91366
+11#Axial Compressor Stages#11.4#Calculation on hub mean and tip sections#Ex11_4.sce#2223/CH11/EX11.4/Ex11_4.sce#S##81783
+11#Axial Compressor Stages#11.4#Calculation on hub mean and tip sections#Ex11_4.sav#2223/CH11/EX11.4/Ex11_4.sav#R##81784
+11#Axial Compressor Stages#11.3#Calculation on an axial compressor stage#Ex11_3.sce#2223/CH11/EX11.3/Ex11_3.sce#S##82041
+11#Axial Compressor Stages#11.3#Calculation on an axial compressor stage#Ex11_3.sav#2223/CH11/EX11.3/Ex11_3.sav#R##82042
+11#Axial Compressor Stages#11.2#Calculation on an axial compressor stage #Ex11_2.sce#2223/CH11/EX11.2/Ex11_2.sce#S##98078
+11#Axial Compressor Stages#11.2#Calculation on an axial compressor stage #Ex11_2.sav#2223/CH11/EX11.2/Ex11_2.sav#R##81777
+11#Axial Compressor Stages#11.1#Calculation on an axial compressor stage #Ex11_1.sce#2223/CH11/EX11.1/Ex11_1.sce#S##100238
+11#Axial Compressor Stages#11.1#Calculation on an axial compressor stage #Ex11_1.sav#2223/CH11/EX11.1/Ex11_1.sav#R##100239
+9#Axial Turbine Stages#9.5#Calculation on a gas turbine stage #Ex9_5.sce#2223/CH9/EX9.5/Ex9_5.sce#S##98076
+9#Axial Turbine Stages#9.5#Calculation on a gas turbine stage #Ex9_5.sav#2223/CH9/EX9.5/Ex9_5.sav#R##98077
+9#Axial Turbine Stages#9.4#axial turbine stage 3000 rpm#Ex9_4.sav#2223/CH9/EX9.4/Ex9_4.sav#R##91363
+9#Axial Turbine Stages#9.4#axial turbine stage 3000 rpm#Ex9_4.sce#2223/CH9/EX9.4/Ex9_4.sce#S##98898
+9#Axial Turbine Stages#9.3#Calculation on an axial turbine stage #Ex9_3.sce#2223/CH9/EX9.3/Ex9_3.sce#S##98074
+9#Axial Turbine Stages#9.3#Calculation on an axial turbine stage #Ex9_3.sav#2223/CH9/EX9.3/Ex9_3.sav#R##98075
+9#Axial Turbine Stages#9.2#Calculation on an axial turbine stage#Ex9_2.sce#2223/CH9/EX9.2/Ex9_2.sce#S##89521
+9#Axial Turbine Stages#9.2#Calculation on an axial turbine stage#Ex9_2.sav#2223/CH9/EX9.2/Ex9_2.sav#R##89522
+9#Axial Turbine Stages#9.1#Calculation on multi stage turbine#Ex9_1.sce#2223/CH9/EX9.1/Ex9_1.sce#S##89519
+9#Axial Turbine Stages#9.1#Calculation on multi stage turbine#Ex9_1.sav#2223/CH9/EX9.1/Ex9_1.sav#R##89520
+8#Flow Through Cascades#8.5#Calculation on a compressor type radial cascade tunnel#Ex8_5.sce#2223/CH8/EX8.5/Ex8_5.sce#S##89517
+8#Flow Through Cascades#8.5#Calculation on a compressor type radial cascade tunnel#Ex8_5.sav#2223/CH8/EX8.5/Ex8_5.sav#R##89518
+8#Flow Through Cascades#8.4#Calculation on a blower type annular cascade tunnel#Ex8_4.sce#2223/CH8/EX8.4/Ex8_4.sce#S##89515
+8#Flow Through Cascades#8.4#Calculation on a blower type annular cascade tunnel#Ex8_4.sav#2223/CH8/EX8.4/Ex8_4.sav#R##89516
+8#Flow Through Cascades#8.3#Calculation on a compressor cascade#Ex8_3.sce#2223/CH8/EX8.3/Ex8_3.sce#S##89513
+8#Flow Through Cascades#8.3#Calculation on a compressor cascade#Ex8_3.sav#2223/CH8/EX8.3/Ex8_3.sav#R##89514
+8#Flow Through Cascades#8.2#Calculation on a turbine blade row cascade#Ex8_2.sce#2223/CH8/EX8.2/Ex8_2.sce#S##89511
+8#Flow Through Cascades#8.2#Calculation on a turbine blade row cascade#Ex8_2.sav#2223/CH8/EX8.2/Ex8_2.sav#R##89512
+8#Flow Through Cascades#8.1#Calculation on a compressor cascade#Ex8_1.sce#2223/CH8/EX8.1/Ex8_1.sce#S##89509
+8#Flow Through Cascades#8.1#Calculation on a compressor cascade#Ex8_1.sav#2223/CH8/EX8.1/Ex8_1.sav#R##89510
+7#Dimensional Analysis and Performance Parameters#7.4#Calculation on design of a single stage gas turbine#Ex7_4.sce#2223/CH7/EX7.4/Ex7_4.sce#S##89507
+7#Dimensional Analysis and Performance Parameters#7.4#Calculation on design of a single stage gas turbine#Ex7_4.sav#2223/CH7/EX7.4/Ex7_4.sav#R##89508
+7#Dimensional Analysis and Performance Parameters#7.3#Calculation on a small compressor#Ex7_3.sce#2223/CH7/EX7.3/Ex7_3.sce#S##98073
+7#Dimensional Analysis and Performance Parameters#7.3#Calculation on a small compressor#Ex7_3.sav#2223/CH7/EX7.3/Ex7_3.sav#R##89506
+7#Dimensional Analysis and Performance Parameters#7.2#Calculating the discharge and specific speed#Ex7_2.sce#2223/CH7/EX7.2/Ex7_2.sce#S##98072
+7#Dimensional Analysis and Performance Parameters#7.2#Calculating the discharge and specific speed#Ex7_2.sav#2223/CH7/EX7.2/Ex7_2.sav#R##89504
+7#Dimensional Analysis and Performance Parameters#7.1#Calculation for the specific speed#Ex7_1.sav#2223/CH7/EX7.1/Ex7_1.sav#R##89502
+7#Dimensional Analysis and Performance Parameters#7.1#Calculation for the specific speed#Ex7_1.sce#2223/CH7/EX7.1/Ex7_1.sce#S##89501
+6#Fluid dynamics#6.3#Calculation on an axial flow fan#Ex6_3.sce#2223/CH6/EX6.3/Ex6_3.sce#S##89482
+6#Fluid dynamics#6.3#Calculation on an axial flow fan#Ex6_3.sav#2223/CH6/EX6.3/Ex6_3.sav#R##89483
+6#Fluid dynamics#6.2#radially tipped Centrifugal blower 3000rpm#Ex6_2.sce#2223/CH6/EX6.2/Ex6_2.sce#S##89480
+6#Fluid dynamics#6.2#radially tipped Centrifugal blower 3000rpm#Ex6_2.sav#2223/CH6/EX6.2/Ex6_2.sav#R##89481
+6#Fluid dynamics#6.1#inward flow radial turbine 32000rpm#Ex6_1.sce#2223/CH6/EX6.1/Ex6_1.sce#S##89478
+6#Fluid dynamics#6.1#inward flow radial turbine 32000rpm#Ex6_1.sav#2223/CH6/EX6.1/Ex6_1.sav#R##89479
+5#Combined Cycle Plants#5.2#combined gas and steam cycle power plant#Ex5_2.sce#2223/CH5/EX5.2/Ex5_2.sce#S##89476
+5#Combined Cycle Plants#5.2#combined gas and steam cycle power plant#Ex5_2.sav#2223/CH5/EX5.2/Ex5_2.sav#R##89477
+5#Combined Cycle Plants#5.1#Calculation on combined cycle power plant#Ex5_1.sce#2223/CH5/EX5.1/Ex5_1.sce#S##107872
+5#Combined Cycle Plants#5.1#Calculation on combined cycle power plant#Ex5_1.sav#2223/CH5/EX5.1/Ex5_1.sav#R##107873
+4#Steam Turbine Plants#4.3#Calculations on Steam Turbine Plant#Ex4_3.sav#2223/CH4/EX4.3/Ex4_3.sav#R##91387
+4#Steam Turbine Plants#4.3#Calculations on Steam Turbine Plant#Ex4_3.sce#2223/CH4/EX4.3/Ex4_3.sce#S##91386
+4#Steam Turbine Plants#4.2#Steam Turbine Plant for different reheat cycles#Ex4_2.sce#2223/CH4/EX4.2/Ex4_2.sce#S##107870
+4#Steam Turbine Plants#4.2#Steam Turbine Plant for different reheat cycles#Ex4_2.sav#2223/CH4/EX4.2/Ex4_2.sav#R##107871
+4#Steam Turbine Plants#4.1#Calculations on Steam Turbine Plant #Ex4_1.sce#2223/CH4/EX4.1/Ex4_1.sce#S##89470
+4#Steam Turbine Plants#4.1#Calculations on Steam Turbine Plant #Ex4_1.sav#2223/CH4/EX4.1/Ex4_1.sav#R##89471
+3#Gas Turbine Plants#3.5#Calculations on Gas Turbine Plant #Ex3_5.sce#2223/CH3/EX3.5/Ex3_5.sce#S##107868
+3#Gas Turbine Plants#3.5#Calculations on Gas Turbine Plant #Ex3_5.sav#2223/CH3/EX3.5/Ex3_5.sav#R##107869
+3#Gas Turbine Plants#3.4#Calculations on Gas Turbine Plant#Ex3_4.sce#2223/CH3/EX3.4/Ex3_4.sce#S##89466
+3#Gas Turbine Plants#3.4#Calculations on Gas Turbine Plant#Ex3_4.sav#2223/CH3/EX3.4/Ex3_4.sav#R##89467
+3#Gas Turbine Plants#3.3#ideal reheat cycle Gas Turbine Plant#Ex3_3.sce#2223/CH3/EX3.3/Ex3_3.sce#S##98071
+3#Gas Turbine Plants#3.3#ideal reheat cycle Gas Turbine Plant#Ex3_3.sav#2223/CH3/EX3.3/Ex3_3.sav#R##89465
+3#Gas Turbine Plants#3.2#Gas Turbine Plant with an exhaust HE#Ex3_2.sce#2223/CH3/EX3.2/Ex3_2.sce#S##98069
+3#Gas Turbine Plants#3.2#Gas Turbine Plant with an exhaust HE#Ex3_2.sav#2223/CH3/EX3.2/Ex3_2.sav#R##98070
+3#Gas Turbine Plants#3.1#Constant Pressure Gas Turbine Plant#Ex3_1.sce#2223/CH3/EX3.1/Ex3_1.sce#S##89458
+3#Gas Turbine Plants#3.1#Constant Pressure Gas Turbine Plant#Ex3_1.sav#2223/CH3/EX3.1/Ex3_1.sav#R##89459
+2#Thermodynamics#2.6#Calculations on a Gas Turbine#Ex2_6.sce#2223/CH2/EX2.6/Ex2_6.sce#S##107866
+2#Thermodynamics#2.6#Calculations on a Gas Turbine#Ex2_6.sav#2223/CH2/EX2.6/Ex2_6.sav#R##107867
+2#Thermodynamics#2.5#Calculations on three stage gas turbine#Ex2_5.sce#2223/CH2/EX2.5/Ex2_5.sce#S##89454
+2#Thermodynamics#2.5#Calculations on three stage gas turbine#Ex2_5.sav#2223/CH2/EX2.5/Ex2_5.sav#R##89455
+2#Thermodynamics#2.4#compressor with same temperature rise#Ex2_4.sce#2223/CH2/EX2.4/Ex2_4.sce#S##98068
+2#Thermodynamics#2.4#compressor with same temperature rise#Ex2_4.sav#2223/CH2/EX2.4/Ex2_4.sav#R##89453
+2#Thermodynamics#2.3#Calculations on air compressor#Ex2_3.sce#2223/CH2/EX2.3/Ex2_3.sce#S##89450
+2#Thermodynamics#2.3#Calculations on air compressor#Ex2_3.sav#2223/CH2/EX2.3/Ex2_3.sav#R##89451
+2#Thermodynamics#2.2#Determining the infinitesimal stage efficiencies#Ex2_2.sav#2223/CH2/EX2.2/Ex2_2.sav#R##89449
+2#Thermodynamics#2.2#Determining the infinitesimal stage efficiencies#Ex2_2.sce#2223/CH2/EX2.2/Ex2_2.sce#S##89448
+2#Thermodynamics#2.1#Calculation on a Diffuser #Ex2_1.sce#2223/CH2/EX2.1/Ex2_1.sce#S##89430
+2#Thermodynamics#2.1#Calculation on a Diffuser #Ex2_1.sav#2223/CH2/EX2.1/Ex2_1.sav#R##81779

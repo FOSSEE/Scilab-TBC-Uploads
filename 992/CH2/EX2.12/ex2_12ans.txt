@@ -1,0 +1,19 @@
+  20.  
+ bg  =
+ 
+    100.  
+ bw  =
+ 
+    5.  
+
+
+	 first sideband pair 95 to 100Hz and 100Hz to 105 bg2  =
+ 
+    120.  
+ bw  =
+ 
+    5.  
+
+
+	 second sideband pair 115 to 120Hz and 120Hz to 125No overlap occurs 
+ Execution done.   

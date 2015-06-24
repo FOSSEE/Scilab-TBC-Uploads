@@ -1,0 +1,12 @@
+Efficiency of the transformer at unity power factor(in %)=   
+ 
+    97.021442  
+ 
+ the maximum efficiency occurs at the full load of=   
+ 
+    0.8570083  
+ 
+ Maximum Efficiency of the transformer(in %)=   
+ 
+    95.714126  
+ 

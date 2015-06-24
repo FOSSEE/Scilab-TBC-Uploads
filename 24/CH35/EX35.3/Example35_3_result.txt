@@ -1,0 +1,9 @@
+**Sample Problem 35-3a**
+The image is real real because m<0 as well as m<1
+The mens is converging because magnification is negative for real image
+The object is outside the focal length because m<1
+The image is on the opposite side of the image from the lens
+The image is erect
+
+**Sample Problem 35-3b**
+The radius of curvature of the lens is 4.00cm 

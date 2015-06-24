@@ -1,0 +1,7 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_3_June/Codes/Chapter_1/code/example1_6_pg14.sce', -1)
+The ratio of transformation is 4 
+ Hence,   
+Secondary resistance referred to the primary = 0.512 Ohm 
+Secondary reactance referred to the primary = 0.96 Ohm 
+-->diary(0);

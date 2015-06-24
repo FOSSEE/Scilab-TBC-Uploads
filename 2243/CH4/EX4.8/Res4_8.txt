@@ -1,0 +1,4 @@
+  Number of lines 	Grating element (in A)	 Angle of diffraction(degrees)	 Dispersion (degrees/A) 	 Resolving Power
+15000 /inch			 16933		 20.36 				 0.37 x 10^-3			 15000
+15000 /cm			 6667		 62.07 				 1.89 x 10^-3			 15000
+5906 /cm			 16932		 20.36 				 0.37 x 10^-3			 5906

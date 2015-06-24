@@ -1,0 +1,3 @@
+**Sample Problem 24-4**
+Charge on the inner surface is equal to 5microCoulomb
+Charge on the outer surface is equal to -5microCoulomb

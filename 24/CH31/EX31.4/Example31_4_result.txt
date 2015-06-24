@@ -1,0 +1,5 @@
+**Sample Problem 31-4a**
+The induced electric field is equal to 3.380000e-003V/m
+
+**Sample Problem 31-4b**
+The induced electric field is equal to 3.757000e-003V/m

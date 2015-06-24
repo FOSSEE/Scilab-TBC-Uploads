@@ -1,0 +1,6 @@
+  
+ Exa-10.4(a)   
+The energy of interaction with magnetic field is given by uB and the degeneracy of the states are +-1/2 which are identical.
+The ratio is therefore pE2/pE1 which gives e^(-2*u*B/k*T) 
+ Ex-10.4(b)   
+The value of temperature ar which the given ratio exists is 140.46 K 

@@ -1,0 +1,4 @@
+**Sample Problem 5-1**
+The acceleration of puck in case a is 20 m/s^2
+The acceleration of puck in case b is -10 m/s^2
+The acceleration of puck in case c is -5.669873  m/s^2

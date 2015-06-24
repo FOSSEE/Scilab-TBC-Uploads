@@ -1,0 +1,3 @@
+ 
+ Example 16.5
+ Eddy current loss at normal voltage and frequency is 1600W 

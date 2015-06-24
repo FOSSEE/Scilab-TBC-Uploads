@@ -1,0 +1,6 @@
+   
+ exanple7.1   
+energy output in 1 hour is 3.600000e+011Watt.sec 
+energy input in one hour is 1.304348e+012joules Watt.sec
+ energy input in 1 hour is 3.117391e+008kcal.
+ coal required is 48709.239kg per hour 

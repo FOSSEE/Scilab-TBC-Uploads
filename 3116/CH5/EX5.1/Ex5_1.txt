@@ -1,0 +1,3 @@
+ Example 5.1
+
+ Equilibrium number of vacancies/m^3 is 2.2e+25 for 1273K 

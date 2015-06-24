@@ -1,0 +1,5 @@
+ Example 8.10
+Standard formula used 
+lambda_0 = lambda_t*sqrt(1-(T_1/T_c)^4) 
+
+ Penetration depth at 0 K is 527.960928 angstrom.

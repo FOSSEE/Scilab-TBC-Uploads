@@ -1,0 +1,29 @@
+// Calculate the value of resistance at different values of time
+clc;
+Gain=0.3925;
+T=75;
+p_duration=Gain*T;
+tc=5.5;
+Rin=100;
+t=1;
+Rt=p_duration*(1-exp(-t/tc))+Rin;
+disp(Rt,'Value of resistance after 1s(ohm)=')
+t=2;
+Rt=p_duration*(1-exp(-t/tc))+Rin;
+disp(Rt,'Value of resistance after 2s(ohm)=')
+t=3;
+Rt=p_duration*(1-exp(-t/tc))+Rin;
+disp(Rt,'Value of resistance after 3s(ohm)=')
+R_inc=Rt-Rin;
+t=5;
+Rt=(R_inc)*[exp(-(t-3)/(5.5))]+Rin;
+disp(Rt,'Value of resistance after 5s(ohm)=')
+t=10;
+Rt=(R_inc)*[exp(-(t-3)/(5.5))]+Rin;
+disp(Rt,'Value of resistance after 10s(ohm)=')
+t=20;
+Rt=(R_inc)*[exp(-(t-3)/(5.5))]+Rin;
+disp(Rt,'Value of resistance after 20s(ohm)=')
+t=30;
+Rt=(R_inc)*[exp(-(t-3)/(5.5))]+Rin;
+disp(Rt,'Value of resistance after 30s(ohm)=')

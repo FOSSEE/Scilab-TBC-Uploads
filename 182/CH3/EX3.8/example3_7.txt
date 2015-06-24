@@ -1,0 +1,9 @@
+
+7. for circuit as in figure 3-16(a)
+R1=198300 ohm
+R2=998300 ohm
+R3=1998300 ohm
+for circuit as in figure 3-16(b)
+R1=198300 ohm 
+R2=800000 ohm 
+R3=1000000 ohm 

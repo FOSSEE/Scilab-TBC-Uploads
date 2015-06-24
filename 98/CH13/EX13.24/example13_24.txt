@@ -1,0 +1,25 @@
+I = 336.75 A 
+Vab = 6.735 V 
+Vbc = 3.361 V 
+Vcd = 2.831 V 
+Vda = 7.265 V 
+
+Vb = 243.265 V 
+Vc = 239.904 V 
+Vd = 242.735 V 
+
+WITH INTERCONNECTOR: 
+Thevenin voltage = 10.096 V 
+Rac = 0.02 ohms 
+Current in interconnecter = 248.67 A 
+
+I1 = 201.93 A 
+Drop in AB = 4.039 V 
+Drop in BC = 0.957 V 
+Drop in AD = 4.889 V 
+
+Potential of B = 245.961 V 
+Potential of C = 245.005 V 
+Potential of D = 245.111 V 
+
+

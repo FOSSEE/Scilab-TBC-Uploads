@@ -1,0 +1,7 @@
+ when take + sign, angle for maxima = 60 degree
+ when take - sign, angle for maxima= 120 degree
+ when take + sign, angle for minima= 0 degree
+ when take - sign, angle for minima= 180 degree
+ when take + sign, the value of HPPD= 53 degree
+ when take - sign, the value of HPPD= 126 degree
+ The Radiation pattern of the 3-element is shown in figure in the given text book 

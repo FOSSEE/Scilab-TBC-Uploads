@@ -1,0 +1,39 @@
+ Maximum fault current at bus 5 in A   
+ 
+  - 202.73368i  
+ 
+ Minimum fault current at bus 5 in A   
+ 
+  - 165.07177i  
+ 
+ Maximum fault current at bus 4 in A   
+ 
+  - 300.65788i  
+ 
+ Minimum fault current at bus 4 in A   
+ 
+  - 237.93103i  
+ 
+ Maximum fault current at bus 3 in A   
+ 
+  - 430.67209i  
+ 
+ Minimum fault current at bus 3 in A   
+ 
+  - 328.57143i  
+ 
+ Maximum fault current at bus 2 in A   
+ 
+  - 658.4656i  
+ 
+ Minimum fault current at bus 2 in A   
+ 
+  - 472.60274i  
+ 
+ Maximum fault current at bus 1 in A   
+ 
+  - 3186.9735i  
+ 
+ Minimum fault current at bus 1 in A   
+ 
+  - 1380.i  

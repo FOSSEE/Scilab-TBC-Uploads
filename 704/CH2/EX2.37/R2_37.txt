@@ -1,0 +1,8 @@
+Speed of the machine at which emf will be 250 Volts=   
+ 
+    852.27273  
+ 
+ Percentage change in flux when induced emf 250 Volts and speed 700 rpm(in %)=   
+ 
+    21.753247  
+ 

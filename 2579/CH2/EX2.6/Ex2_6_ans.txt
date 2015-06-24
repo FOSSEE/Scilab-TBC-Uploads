@@ -1,0 +1,3 @@
+ The max directivity = 2.864789 (dimensionless)
+ The exact value of the max directivity = 4 (dimensionless)
+ The exact max directivity is 4 and its approx. value is 2.84. Better approximations can be obtained if the patterns have much narrower beamwidths.

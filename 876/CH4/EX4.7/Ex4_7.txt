@@ -1,0 +1,11 @@
+resistance(in ohm)=   
+ 
+    4545.4545  
+ 
+ inductance(in H)=   
+ 
+    0.22  
+ 
+ Q value of the bridge=   
+ 
+    0.3041062

@@ -1,0 +1,11 @@
+ Line current (in Amperes)=   
+ 
+    64.  
+ 
+ Line voltage (in Volts)=   
+ 
+    11000.  
+ 
+ Power on the transmission line (in Watts)=   
+ 
+    563200.

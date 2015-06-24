@@ -1,0 +1,7 @@
+ (a)For the given values of Rd,Rs,rd and mu we have:
+A1 = -9.50
+A2 = 4.75
+
+(b)If Rs-->infinity,
+A1 = -7.13 = -A2
+Or A1 = -A2 = -7.13 

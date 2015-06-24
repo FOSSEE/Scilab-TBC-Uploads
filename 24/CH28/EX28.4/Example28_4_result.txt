@@ -1,0 +1,5 @@
+**Sample Problem 28-4a**
+The magnitude of current produced in the water is 0.500000A
+
+**Sample Problem 28-4b**
+Current in each row is equal to 0.006623A 

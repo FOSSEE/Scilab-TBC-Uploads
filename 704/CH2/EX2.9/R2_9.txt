@@ -1,0 +1,4 @@
+ emf generated (in Volts)=   
+ 
+    48000.  
+ 

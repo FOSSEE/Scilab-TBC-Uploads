@@ -1,0 +1,12 @@
+  
+ Exa-3.6(a)   
+The wavelength of x-rays after scattering is 0.2412 nm
+ 
+ Exa-3.6(b)   
+The energy of scattered x-rays is 5141 eV
+ 
+ Exa-3.6(c)   
+The kinetic energy of the x-rays is 26.025 eV
+ 
+ Exa-3.6(d)   
+The direction of the scattered eletron is 59.7 degrees 

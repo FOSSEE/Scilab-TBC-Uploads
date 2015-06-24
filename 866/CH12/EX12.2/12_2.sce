@@ -1,0 +1,20 @@
+clc
+TimberB=100 //mm
+TimberH=200 //mm
+It=TimberB*TimberH^3 /12
+SteelB=15 //mm
+SteelH=100 //mm
+ratio=15
+Is=2*SteelB*SteelH*(SteelH+SteelB/2)^2
+Load=10 //KN/m
+Span=4 //m
+Mmax=Load*Span^2 *10^6 /8 //Nm
+sigmaT=Mmax*TimberH/2/(It+ratio*Is)
+sigmaS=Mmax*(SteelH+SteelB)/(Is+It/ratio)
+printf("The maximum stress in Timber=%f N/mm^2",sigmaT)
+printf(" \n The maximum stress in Steel=%f N/mm^2",sigmaS)
+Shear=Load*Span/2
+printf("Max. Shear force in beam at the supports = %f kN", Shear)
+Tav=Mmax/(TimberH*TimberB)
+ShearPerlength=Tav*TimberB
+printf("\n Shear force per unit length in timber/steel connection= %f N/m",ShearPerlength)

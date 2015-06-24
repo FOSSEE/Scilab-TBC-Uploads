@@ -1,0 +1,7 @@
+ # PROBLEM 3 # 
+Standard formula used 
+1/2 * m*v^2 = E_0 
+ E_0 = (h^2 /(8 * pi^2 * m))*(3 * pi^2 * n)^(2/3) * (1 / e)
+
+ Fermi energy is 3.119408 eV.
+ Speed of electron is 1.047347e+06 m/sec.

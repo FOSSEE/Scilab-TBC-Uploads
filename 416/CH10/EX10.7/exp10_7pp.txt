@@ -1,0 +1,14 @@
+ 
+ example10.7   
+bus voltages at 2 buses are 
+v1=1.081+i0.123,
+v2=0.929+i-0.043
+loss coffecients are 
+b11=0.07877p.u
+b22=0.07735p.u
+b12=-0.00714p.u 
+loss coffecients in actual values is 
+b11=7.877236e-004M(W)-1
+b22=7.734557e-004M(W)-1
+b12=-7.136298e-005M(W)-1
+ 

@@ -1,0 +1,16 @@
+For s suborbit b/a =    
+ 
+    0.25  
+ 
+ For p suborbit b/a =    
+ 
+    0.5  
+ 
+ For d suborbit b/a =    
+ 
+    0.75  
+ 
+ For f suborbit b/a =    
+ 
+    1.  
+ 

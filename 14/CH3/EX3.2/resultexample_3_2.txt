@@ -1,0 +1,24 @@
+ The GMD between the sides X and Y = 10.743 m 
+
+
+
+ The GMR for side X = 0.481 m 
+
+
+
+ The GMR for side Y = 0.153 m 
+
+
+
+ Inductance of side X = 6.212e-7 H/m 
+
+ 
+
+ Inductance of side Y = 8.505e-7 H/m 
+
+
+
+ Inductance of Complete line = 14.718e-7 H/m
+
+			 	= 2.37 mH/mi 
+

@@ -1,0 +1,22 @@
+  
+ In this case n = 2. The legranges polynomial and their deri 
+      vative .                                               
+ 
+ L0(x)=2*x^2-11*x+15  L1(x)= -4*x^2+20x-24  L2(x)=2x^2-9x+10 
+ 
+ L0d(x)=4*x-11  L1d(x)= -8*x+20  L2d(x)=4*x-9   
+ 
+ ri(x) = [1-2(x-xi)Lid(xi)][Li(x)]^2   si(x) = (x-xi)[Li(x)] 
+      ^2                                                     
+ 
+ The calculated value of y(2.7):   
+ 
+    0.993253  
+ 
+ The exact value is of y(2.7):    
+ 
+    0.993252  
+ 
+ The error is :   
+ 
+  - 0.000001  

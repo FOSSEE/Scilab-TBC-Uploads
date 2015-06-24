@@ -1,0 +1,5 @@
+(i) Insulation thickness = 3 cm 
+
+(ii) Operating voltage = 55.45 kV rms 
+
+

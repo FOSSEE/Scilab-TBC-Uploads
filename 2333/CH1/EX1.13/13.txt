@@ -1,0 +1,5 @@
+ # PROBLEM 13 # 
+ Standard formula used 
+ l = l_0/((1-v^2/c^2)^1/2)  
+
+ Speed of rocket ship is 4.232021e+07 m/s.

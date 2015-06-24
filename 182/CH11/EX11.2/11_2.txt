@@ -1,0 +1,4 @@
+
+2.R1=4 K-ohm
+  R2=45 K-ohm
+  R3=1 K-ohm 

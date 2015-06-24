@@ -1,0 +1,3 @@
+arithmetic mean(in W)=   
+ 
+    25.026

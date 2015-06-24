@@ -1,0 +1,7 @@
+
+9.part a,
+  Rs=0.186531 ohm
+  Ls=62.998601 mH
+  part b,
+  R3=3.377373 M-ohm
+  R1=1.259972 K-ohm 

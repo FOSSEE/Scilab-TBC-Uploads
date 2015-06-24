@@ -1,0 +1,2 @@
+ Conductivity of germanium is 0.022 (s/cm)^-1
+Therefore resistivity is 44.6 ohm-cm 

@@ -1,0 +1,4 @@
+  
+ Exa-2.13   
+The momentum of electron is 10.5 MeV/c
+The velocity of electron is 0.9988 c 

@@ -1,0 +1,28 @@
+  
+ For W/h=0.5 ,   
+ 
+ Effective dielectric constant =   
+ 
+    6.2165339  
+ 
+ Charcteristic impedance (in ohms) =   
+ 
+    66.908274  
+ 
+ Velocity of propagation (in m/s) =   
+ 
+    1.203D+08  
+ 
+ For W/h=5,   
+ 
+ Effective dielectric constant =   
+ 
+    7.7091187  
+ 
+ Charcteristic impedance (in ohms) =   
+ 
+    17.781923  
+ 
+ Velocity of propagation (in m/s) =   
+ 
+    1.080D+08  

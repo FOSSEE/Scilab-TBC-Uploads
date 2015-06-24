@@ -1,0 +1,2 @@
+ Kinetic energy of electron is 5.118750 MeV.
+ Momentum of particle is 2.990565e-21 N-sec.

@@ -1,0 +1,5 @@
+The true voltage across resistor R_2 = 50 V
+The reading of the first voltmeter = 30 V
+The reading of the second voltmeter = 48.37 V
+The error in the reading due to voltmeter 1 =40%
+The error in the reading due to voltmeter 2 =3.26% 

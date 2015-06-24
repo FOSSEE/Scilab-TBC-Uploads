@@ -1,0 +1,15 @@
+clear;
+clc;
+P=4;
+f=50;
+w_s=4*%pi*f/P;
+X_d=8;
+X_q=2;
+T_e=80;
+V=400;
+V_t=V/sqrt(3);
+dl=(1/2)*asind(T_e*w_s/((3/2)*(V_t)^2*(1/X_q-1/X_d)));    printf("load angle=%.3f deg",dl);
+I_d=V_t*cosd(dl)/X_d;
+I_q=V_t*sind(dl)/X_q;
+I_a=sqrt(I_d^2+I_q^2);    printf("\narmature current=%.2f A",I_a);
+pf=T_e*w_s/(sqrt(3)*V*I_a);    printf("\ninput power factor=%.4f",pf);

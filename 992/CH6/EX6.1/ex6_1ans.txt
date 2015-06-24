@@ -1,0 +1,11 @@
+  IF  =
+ 
+    455.  
+
+
+	 (a)image frequency is 1910.000000 KHz 
+ rejection ratio is 42.838246 dB
+
+	 (b)image frequency is 25.910000 KHz 
+ rejection ratio is 39.541885 dB 
+ Execution done.  

@@ -1,0 +1,12 @@
+output power of motor(in watts)=   
+ 
+    7128.875  
+ 
+ the shunt motor H.P.=   
+ 
+    9.5561327  
+ 
+ efficiency of the shunt motor when input current is 35 Amp(in %)=   
+ 
+    88.557453  
+ 

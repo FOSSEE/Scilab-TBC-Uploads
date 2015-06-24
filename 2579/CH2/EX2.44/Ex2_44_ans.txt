@@ -1,0 +1,1 @@
+ The beam width = 1.446048 degree

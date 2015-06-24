@@ -1,0 +1,9 @@
+With reactors: 
+Total % reactance from generator to fault = 6.67 % 
+Short circuit input = 75.000 MVA 
+
+Without reactors: 
+Total % reactance from generator to fault = 4.00 % 
+Short circuit input = 125.000 MVA 
+
+

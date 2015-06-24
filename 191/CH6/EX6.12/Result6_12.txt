@@ -1,0 +1,14 @@
+  
+ Integral 0 to 2 exp(x)dx   
+ 
+ Calculated integration :    
+ 
+    6.3890553  
+ 
+ The exact value of intergation is :   
+ 
+    6.3890561  
+ 
+ Error :    
+ 
+    0.0000008  

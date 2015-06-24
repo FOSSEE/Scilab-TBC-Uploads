@@ -1,0 +1,3 @@
+weight fractions =    
+ 
+    0.9150991  

@@ -1,0 +1,294 @@
+6#OPTICAL FIBRE#6.9#Calculation of  critical angle and numerical aperture and acceptance angle#9.sce#2333/CH6/EX6.9/9.sce#S##88492
+6#OPTICAL FIBRE#6.9#Calculation of  critical angle and numerical aperture and acceptance angle#9.txt#2333/CH6/EX6.9/9.txt#R##88493
+6#OPTICAL FIBRE#6.8#Calculation of  cladding index and maximum acceptance angle#8.sce#2333/CH6/EX6.8/8.sce#S##97501
+6#OPTICAL FIBRE#6.8#Calculation of  cladding index and maximum acceptance angle#8.txt#2333/CH6/EX6.8/8.txt#R##97502
+6#OPTICAL FIBRE#6.7#Calculation of comparison of number of modes#7.sce#2333/CH6/EX6.7/7.sce#S##88484
+6#OPTICAL FIBRE#6.7#Calculation of comparison of number of modes#7.txt#2333/CH6/EX6.7/7.txt#R##88485
+6#OPTICAL FIBRE#6.6#Calculation of  cut off perimeter and number of modes#6.sce#2333/CH6/EX6.6/6.sce#S##97499
+6#OPTICAL FIBRE#6.6#Calculation of  cut off perimeter and number of modes#6.txt#2333/CH6/EX6.6/6.txt#R##97500
+6#OPTICAL FIBRE#6.5#Calculation of  critical angle at core cladding boundary and cladding air boundary#5.sce#2333/CH6/EX6.5/5.sce#S##88474
+6#OPTICAL FIBRE#6.5#Calculation of  critical angle at core cladding boundary and cladding air boundary#5.txt#2333/CH6/EX6.5/5.txt#R##88475
+6#OPTICAL FIBRE#6.4#Calculation of numerical aperture and acceptance angle and number of reflections#4.sce#2333/CH6/EX6.4/4.sce#S##88460
+6#OPTICAL FIBRE#6.4#Calculation of numerical aperture and acceptance angle and number of reflections#4.txt#2333/CH6/EX6.4/4.txt#R##88461
+6#OPTICAL FIBRE#6.3#Calculation of acceptance angle#3.sce#2333/CH6/EX6.3/3.sce#S##88468
+6#OPTICAL FIBRE#6.3#Calculation of acceptance angle#3.txt#2333/CH6/EX6.3/3.txt#R##88469
+6#OPTICAL FIBRE#6.2#Calculation of refractive index and numerical aperture and acceptance angle#2.sce#2333/CH6/EX6.2/2.sce#S##88454
+6#OPTICAL FIBRE#6.2#Calculation of refractive index and numerical aperture and acceptance angle#2.txt#2333/CH6/EX6.2/2.txt#R##88455
+6#OPTICAL FIBRE#6.17#Calculation of delay difference and rms pulse broadening and max bit rate and bandwidth length#17.sce#2333/CH6/EX6.17/17.sce#S##88530
+6#OPTICAL FIBRE#6.17#Calculation of delay difference and rms pulse broadening and max bit rate and bandwidth length#17.txt#2333/CH6/EX6.17/17.txt#R##88531
+6#OPTICAL FIBRE#6.16#Calculation of light pulse spread #16.sce#2333/CH6/EX6.16/16.sce#S##88524
+6#OPTICAL FIBRE#6.16#Calculation of light pulse spread #16.txt#2333/CH6/EX6.16/16.txt#R##88525
+6#OPTICAL FIBRE#6.15#Calculation of output power#15.sce#2333/CH6/EX6.15/15.sce#S##97503
+6#OPTICAL FIBRE#6.15#Calculation of output power#15.txt#2333/CH6/EX6.15/15.txt#R##97504
+6#OPTICAL FIBRE#6.14#Calculation of fiber losses#14.sce#2333/CH6/EX6.14/14.sce#S##88518
+6#OPTICAL FIBRE#6.14#Calculation of fiber losses#14.txt#2333/CH6/EX6.14/14.txt#R##88519
+6#OPTICAL FIBRE#6.13#Calculation of losses#13.sce#2333/CH6/EX6.13/13.sce#S##88512
+6#OPTICAL FIBRE#6.13#Calculation of losses#13.txt#2333/CH6/EX6.13/13.txt#R##88513
+6#OPTICAL FIBRE#6.12#Calculation of  attenuation#12.sce#2333/CH6/EX6.12/12.sce#S##88502
+6#OPTICAL FIBRE#6.12#Calculation of  attenuation#12.txt#2333/CH6/EX6.12/12.txt#R##88503
+6#OPTICAL FIBRE#6.11#Calculation of  operating wavelength and attenuation#11.sce#2333/CH6/EX6.11/11.sce#S##88500
+6#OPTICAL FIBRE#6.11#Calculation of  operating wavelength and attenuation#11.txt#2333/CH6/EX6.11/11.txt#R##88501
+6#OPTICAL FIBRE#6.10#Calculation of  total number of propagating modes#10.sce#2333/CH6/EX6.10/10.sce#S##88490
+6#OPTICAL FIBRE#6.10#Calculation of  total number of propagating modes#10.txt#2333/CH6/EX6.10/10.txt#R##88491
+6#OPTICAL FIBRE#6.1#Calculation of numerical aperture and acceptance angle#1.sce#2333/CH6/EX6.1/1.sce#S##88450
+6#OPTICAL FIBRE#6.1#Calculation of numerical aperture and acceptance angle#1.txt#2333/CH6/EX6.1/1.txt#R##88451
+5#LASER#5.6#Calculation of maximum length of cavity#6.sce#2333/CH5/EX5.6/6.sce#S##88574
+5#LASER#5.6#Calculation of maximum length of cavity#6.txt#2333/CH5/EX5.6/6.txt#R##88575
+5#LASER#5.5#Calculation of energy of one photon and total energy available per laser pulse#5.sce#2333/CH5/EX5.5/5.sce#S##88570
+5#LASER#5.5#Calculation of energy of one photon and total energy available per laser pulse#5.txt#2333/CH5/EX5.5/5.txt#R##88571
+5#LASER#5.4#Calculation of energy difference between levels#4.sce#2333/CH5/EX5.4/4.sce#S##88566
+5#LASER#5.4#Calculation of energy difference between levels#4.txt#2333/CH5/EX5.4/4.txt#R##88567
+5#LASER#5.3#Calculation of number of oscillation and coherent time#3.sce#2333/CH5/EX5.3/3.sce#S##88548
+5#LASER#5.3#Calculation of number of oscillation and coherent time#3.txt#2333/CH5/EX5.3/3.txt#R##88549
+5#LASER#5.2#Angular spread of beam #2.sce#2333/CH5/EX5.2/2.sce#S##88544
+5#LASER#5.2#Angular spread of beam #2.txt#2333/CH5/EX5.2/2.txt#R##88545
+5#LASER#5.1#Calculation of number of oscillation and coherent time #1.sce#2333/CH5/EX5.1/1.sce#S##88542
+5#LASER#5.1#Calculation of number of oscillation and coherent time #1.txt#2333/CH5/EX5.1/1.txt#R##88543
+4#POLARISATION#4.9#Calculation of angle of refraction and refractive index of liquid#9.sce#2333/CH4/EX4.9/9.sce#S##88632
+4#POLARISATION#4.9#Calculation of angle of refraction and refractive index of liquid#9.txt#2333/CH4/EX4.9/9.txt#R##88633
+4#POLARISATION#4.8#Calculation of angle of refraction#8.sce#2333/CH4/EX4.8/8.sce#S##88604
+4#POLARISATION#4.8#Calculation of angle of refraction#8.txt#2333/CH4/EX4.8/8.txt#R##88605
+4#POLARISATION#4.7#Calculation of polarization angle#7.sce#2333/CH4/EX4.7/7.sce#S##88628
+4#POLARISATION#4.7#Calculation of polarization angle#7.txt#2333/CH4/EX4.7/7.txt#R##88629
+4#POLARISATION#4.6#Calculation of refractive index of glass#6.sce#2333/CH4/EX4.6/6.sce#S##88624
+4#POLARISATION#4.6#Calculation of refractive index of glass#6.txt#2333/CH4/EX4.6/6.txt#R##88625
+4#POLARISATION#4.5#Calculation of refractive index of glass#5.sce#2333/CH4/EX4.5/5.sce#S##88620
+4#POLARISATION#4.5#Calculation of refractive index of glass#5.txt#2333/CH4/EX4.5/5.txt#R##88621
+4#POLARISATION#4.4#Analysis of polarization angle#4.sce#2333/CH4/EX4.4/4.sce#S##88616
+4#POLARISATION#4.4#Analysis of polarization angle#4.txt#2333/CH4/EX4.4/4.txt#R##88617
+4#POLARISATION#4.3#Calculation of angle of polarization of water#3.sce#2333/CH4/EX4.3/3.sce#S##88614
+4#POLARISATION#4.3#Calculation of angle of polarization of water#3.txt#2333/CH4/EX4.3/3.txt#R##88615
+4#POLARISATION#4.24#Calculation of percentage purity of solution#24.sce#2333/CH4/EX4.24/24.sce#S##88672
+4#POLARISATION#4.24#Calculation of percentage purity of solution#24.txt#2333/CH4/EX4.24/24.txt#R##88673
+4#POLARISATION#4.23#Calculation of optical rotation#23.sce#2333/CH4/EX4.23/23.sce#S##88670
+4#POLARISATION#4.23#Calculation of optical rotation#23.txt#2333/CH4/EX4.23/23.txt#R##88671
+4#POLARISATION#4.22#Calculation of differences in indices#22.sce#2333/CH4/EX4.22/22.sce#S##88668
+4#POLARISATION#4.22#Calculation of differences in indices#22.txt#2333/CH4/EX4.22/22.txt#R##88669
+4#POLARISATION#4.21#Calculation of specific rotation of solution#21.sce#2333/CH4/EX4.21/21.sce#S##97497
+4#POLARISATION#4.21#Calculation of specific rotation of solution#21.txt#2333/CH4/EX4.21/21.txt#R##97498
+4#POLARISATION#4.20#Calculation of strength of solution#20.sce#2333/CH4/EX4.20/20.sce#S##88664
+4#POLARISATION#4.20#Calculation of strength of solution#20.txt#2333/CH4/EX4.20/20.txt#R##88665
+4#POLARISATION#4.2#Calculation of angle of refraction and refractive index of water#2.sce#2333/CH4/EX4.2/2.sce#S##88610
+4#POLARISATION#4.2#Calculation of angle of refraction and refractive index of water#2.txt#2333/CH4/EX4.2/2.txt#R##88611
+4#POLARISATION#4.19#Calculation of rotation of plane of polarization#19.sce#2333/CH4/EX4.19/19.sce#S##88662
+4#POLARISATION#4.19#Calculation of rotation of plane of polarization#19.txt#2333/CH4/EX4.19/19.txt#R##88663
+4#POLARISATION#4.18#Calculation of constants and thickness of plate#18.sce#2333/CH4/EX4.18/18.sce#S##88660
+4#POLARISATION#4.18#Calculation of constants and thickness of plate#18.txt#2333/CH4/EX4.18/18.txt#R##88661
+4#POLARISATION#4.17#Calculation of difference in refractive indices#17.sce#2333/CH4/EX4.17/17.sce#S##88658
+4#POLARISATION#4.17#Calculation of difference in refractive indices#17.txt#2333/CH4/EX4.17/17.txt#R##88659
+4#POLARISATION#4.16#Calculation of thickness of plate#16.sce#2333/CH4/EX4.16/16.sce#S##97493
+4#POLARISATION#4.16#Calculation of thickness of plate#16.txt#2333/CH4/EX4.16/16.txt#R##97494
+4#POLARISATION#4.15#Calculation of thickness of quarter plate#15.sce#2333/CH4/EX4.15/15.sce#S##88654
+4#POLARISATION#4.15#Calculation of thickness of quarter plate#15.txt#2333/CH4/EX4.15/15.txt#R##88655
+4#POLARISATION#4.14#Calculation of thickness of plate#14.sce#2333/CH4/EX4.14/14.sce#S##88650
+4#POLARISATION#4.14#Calculation of thickness of plate#14.txt#2333/CH4/EX4.14/14.txt#R##88651
+4#POLARISATION#4.13#Calculation of rotation of prism required#13.sce#2333/CH4/EX4.13/13.sce#S##88646
+4#POLARISATION#4.13#Calculation of rotation of prism required#13.txt#2333/CH4/EX4.13/13.txt#R##88647
+4#POLARISATION#4.12#Calculation of percentage of passed light#12.sce#2333/CH4/EX4.12/12.sce#S##88642
+4#POLARISATION#4.12#Calculation of percentage of passed light#12.txt#2333/CH4/EX4.12/12.txt#R##88643
+4#POLARISATION#4.11#Comparison of intensities of ordinary and extra ordinary rays#11.sce#2333/CH4/EX4.11/11.sce#S##97495
+4#POLARISATION#4.11#Comparison of intensities of ordinary and extra ordinary rays#11.txt#2333/CH4/EX4.11/11.txt#R##97496
+4#POLARISATION#4.10#Calculation of velocities of ordinary and extra ordinary rays#10.sce#2333/CH4/EX4.10/10.sce#S##88636
+4#POLARISATION#4.10#Calculation of velocities of ordinary and extra ordinary rays#10.txt#2333/CH4/EX4.10/10.txt#R##88637
+4#POLARISATION#4.1#Calculation of angle of polarization#1.sce#2333/CH4/EX4.1/1.sce#S##88608
+4#POLARISATION#4.1#Calculation of angle of polarization#1.txt#2333/CH4/EX4.1/1.txt#R##88609
+3#Diffraction#3.9#Calculation of distance for first dark band and next bright band#9.sce#2333/CH3/EX3.9/9.sce#S##91683
+3#Diffraction#3.9#Calculation of distance for first dark band and next bright band#9.txt#2333/CH3/EX3.9/9.txt#R##88699
+3#Diffraction#3.8#Calculation of angle for first dark band and next bright band#8.sce#2333/CH3/EX3.8/8.sce#S##88694
+3#Diffraction#3.8#Calculation of angle for first dark band and next bright band#8.txt#2333/CH3/EX3.8/8.txt#R##88695
+3#Diffraction#3.7#Calculation of half angular width#7.sce#2333/CH3/EX3.7/7.sce#S##88690
+3#Diffraction#3.7#Calculation of half angular width#7.txt#2333/CH3/EX3.7/7.txt#R##88691
+3#Diffraction#3.6#Calculation of wavelengths of light #6.sce#2333/CH3/EX3.6/6.sce#S##88686
+3#Diffraction#3.6#Calculation of wavelengths of light #6.txt#2333/CH3/EX3.6/6.txt#R##88687
+3#Diffraction#3.4#Calculation of wavelength of light#4.sce#2333/CH3/EX3.4/4.sce#S##88682
+3#Diffraction#3.4#Calculation of wavelength of light#4.txt#2333/CH3/EX3.4/4.txt#R##88683
+3#Diffraction#3.39# Calculation of resolving power in second order and Estimation of smallest wavelength that can be resolved in third order #39.sce#2333/CH3/EX3.39/39.sce#S##88680
+3#Diffraction#3.39# Calculation of resolving power in second order and Estimation of smallest wavelength that can be resolved in third order #39.txt#2333/CH3/EX3.39/39.txt#R##88681
+3#Diffraction#3.38#Estimation of resolving limit of microscope#38.sce#2333/CH3/EX3.38/38.sce#S##88684
+3#Diffraction#3.38#Estimation of resolving limit of microscope#38.txt#2333/CH3/EX3.38/38.txt#R##88685
+3#Diffraction#3.37#Calculation of resolving power of grating and smallest wavelength difference #37.sce#2333/CH3/EX3.37/37.sce#S##88688
+3#Diffraction#3.37#Calculation of resolving power of grating and smallest wavelength difference #37.txt#2333/CH3/EX3.37/37.txt#R##88689
+3#Diffraction#3.36#Calculation of limit of resolution#36.sce#2333/CH3/EX3.36/36.sce#S##88692
+3#Diffraction#3.36#Calculation of limit of resolution#36.txt#2333/CH3/EX3.36/36.txt#R##88693
+3#Diffraction#3.35#Calculation for the required objective for telescope#35.sce#2333/CH3/EX3.35/35.sce#S##88696
+3#Diffraction#3.35#Calculation for the required objective for telescope#35.txt#2333/CH3/EX3.35/35.txt#R##88697
+3#Diffraction#3.34#Calculation of distance between centers of two stars which are just resolved#34.sce#2333/CH3/EX3.34/34.sce#S##88700
+3#Diffraction#3.34#Calculation of distance between centers of two stars which are just resolved#34.txt#2333/CH3/EX3.34/34.txt#R##88701
+3#Diffraction#3.33#Calculation of smallest angle between two stars#33.sce#2333/CH3/EX3.33/33.sce#S##88704
+3#Diffraction#3.33#Calculation of smallest angle between two stars#33.txt#2333/CH3/EX3.33/33.txt#R##88705
+3#Diffraction#3.32#Determining the ability of telescope#32.sce#2333/CH3/EX3.32/32.sce#S##97488
+3#Diffraction#3.32#Determining the ability of telescope#32.txt#2333/CH3/EX3.32/32.txt#R##97489
+3#Diffraction#3.31#Calculation of minimum number of lines required#31.sce#2333/CH3/EX3.31/31.sce#S##88712
+3#Diffraction#3.31#Calculation of minimum number of lines required#31.txt#2333/CH3/EX3.31/31.txt#R##88713
+3#Diffraction#3.30# Calculation of maximum resolving power#30.sce#2333/CH3/EX3.30/30.sce#S##88716
+3#Diffraction#3.30# Calculation of maximum resolving power#30.txt#2333/CH3/EX3.30/30.txt#R##88717
+3#Diffraction#3.3#Calculation of width of slit#3.sce#2333/CH3/EX3.3/3.sce#S##88678
+3#Diffraction#3.3#Calculation of width of slit#3.txt#2333/CH3/EX3.3/3.txt#R##88679
+3#Diffraction#3.29#Calculation of resolving power of a microscope#29.sce#2333/CH3/EX3.29/29.sce#S##88718
+3#Diffraction#3.29#Calculation of resolving power of a microscope#29.txt#2333/CH3/EX3.29/29.txt#R##88719
+3#Diffraction#3.28#Calculation of aperture of object#28.sce#2333/CH3/EX3.28/28.sce#S##88722
+3#Diffraction#3.28#Calculation of aperture of object#28.txt#2333/CH3/EX3.28/28.txt#R##88723
+3#Diffraction#3.27#Calculation for the separation between two points on moon#27.sce#2333/CH3/EX3.27/27.sce#S##88726
+3#Diffraction#3.27#Calculation for the separation between two points on moon#27.txt#2333/CH3/EX3.27/27.txt#R##88727
+3#Diffraction#3.26#Calculation of aperture of objective of telescope#26.sce#2333/CH3/EX3.26/26.sce#S##88730
+3#Diffraction#3.26#Calculation of aperture of objective of telescope#26.txt#2333/CH3/EX3.26/26.txt#R##88731
+3#Diffraction#3.25#Calculation for the difference between two wavelengths#25.sce#2333/CH3/EX3.25/25.sce#S##88740
+3#Diffraction#3.25#Calculation for the difference between two wavelengths#25.txt#2333/CH3/EX3.25/25.txt#R##88741
+3#Diffraction#3.24#Determination of observed orders due to grating#24.sce#2333/CH3/EX3.24/24.sce#S##88744
+3#Diffraction#3.24#Determination of observed orders due to grating#24.txt#2333/CH3/EX3.24/24.txt#R##88745
+3#Diffraction#3.23# Calculation of dispersive power of grating #23.sce#2333/CH3/EX3.23/23.sce#S##88746
+3#Diffraction#3.23# Calculation of dispersive power of grating #23.txt#2333/CH3/EX3.23/23.txt#R##88747
+3#Diffraction#3.22#Calculation for the difference between two wavelengths#22.sce#2333/CH3/EX3.22/22.sce#S##88748
+3#Diffraction#3.22#Calculation for the difference between two wavelengths#22.txt#2333/CH3/EX3.22/22.txt#R##88749
+3#Diffraction#3.21#Calculation of angle of diffraction#21.sce#2333/CH3/EX3.21/21.sce#S##97486
+3#Diffraction#3.21#Calculation of angle of diffraction#21.txt#2333/CH3/EX3.21/21.txt#R##97487
+3#Diffraction#3.20#Calculation of grating element#20.sce#2333/CH3/EX3.20/20.sce#S##88738
+3#Diffraction#3.20#Calculation of grating element#20.txt#2333/CH3/EX3.20/20.txt#R##88739
+3#Diffraction#3.2#Calculation of wavelength of light#2.sce#2333/CH3/EX3.2/2.sce#S##88676
+3#Diffraction#3.2#Calculation of wavelength of light#2.txt#2333/CH3/EX3.2/2.txt#R##88677
+3#Diffraction#3.19#Calculation for the overlapping of spectral lines#19.sce#2333/CH3/EX3.19/19.sce#S##88736
+3#Diffraction#3.19#Calculation for the overlapping of spectral lines#19.txt#2333/CH3/EX3.19/19.txt#R##88737
+3#Diffraction#3.18#Calculation of number of lines per centimeter in a grating#18.sce#2333/CH3/EX3.18/18.sce#S##88732
+3#Diffraction#3.18#Calculation of number of lines per centimeter in a grating#18.txt#2333/CH3/EX3.18/18.txt#R##88733
+3#Diffraction#3.17#Calculation of angle of diffraction for maximum intensity in first order#17.sce#2333/CH3/EX3.17/17.sce#S##88728
+3#Diffraction#3.17#Calculation of angle of diffraction for maximum intensity in first order#17.txt#2333/CH3/EX3.17/17.txt#R##88729
+3#Diffraction#3.15#Calculation of number of lines per centimeter#15.sce#2333/CH3/EX3.15/15.sce#S##88724
+3#Diffraction#3.15#Calculation of number of lines per centimeter#15.txt#2333/CH3/EX3.15/15.txt#R##88725
+3#Diffraction#3.14#Calculation of order numbers for visible spectrum#14.sce#2333/CH3/EX3.14/14.sce#S##88720
+3#Diffraction#3.14#Calculation of order numbers for visible spectrum#14.txt#2333/CH3/EX3.14/14.txt#R##88721
+3#Diffraction#3.13#Calculation of number of visible orders#13.sce#2333/CH3/EX3.13/13.sce#S##88714
+3#Diffraction#3.13#Calculation of number of visible orders#13.txt#2333/CH3/EX3.13/13.txt#R##88715
+3#Diffraction#3.12#Calculation of difference in deviation in first and third order spectra#12.sce#2333/CH3/EX3.12/12.sce#S##88710
+3#Diffraction#3.12#Calculation of difference in deviation in first and third order spectra#12.txt#2333/CH3/EX3.12/12.txt#R##88711
+3#Diffraction#3.11#Calculation of wavelength of light#11.sce#2333/CH3/EX3.11/11.sce#S##88706
+3#Diffraction#3.11#Calculation of wavelength of light#11.txt#2333/CH3/EX3.11/11.txt#R##88707
+3#Diffraction#3.10#Calculation of wavelength of light and missing wavelengths#10.sce#2333/CH3/EX3.10/10.sce#S##88702
+3#Diffraction#3.10#Calculation of wavelength of light and missing wavelengths#10.txt#2333/CH3/EX3.10/10.txt#R##88703
+3#Diffraction#3.1#Calculation of angular and linear width of central maxima#1.sce#2333/CH3/EX3.1/1.sce#S##88674
+3#Diffraction#3.1#Calculation of angular and linear width of central maxima#1.txt#2333/CH3/EX3.1/1.txt#R##88675
+2#Interference#2.9#Calculation of distance between two coherent sources#9.sce#2333/CH2/EX2.9/9.sce#S##88556
+2#Interference#2.9#Calculation of distance between two coherent sources#9.txt#2333/CH2/EX2.9/9.txt#R##88557
+2#Interference#2.8#Calculation of visible order in wavelength is replaced#8.sce#2333/CH2/EX2.8/8.sce#S##88554
+2#Interference#2.8#Calculation of visible order in wavelength is replaced#8.txt#2333/CH2/EX2.8/8.txt#R##88555
+2#Interference#2.7#Calculation of refractive index of transparent material#7.sce#2333/CH2/EX2.7/7.sce#S##88552
+2#Interference#2.7#Calculation of refractive index of transparent material#7.txt#2333/CH2/EX2.7/7.txt#R##88553
+2#Interference#2.6#Calculation of third bright fringe and coincidental distance for two wavelengths#6.sce#2333/CH2/EX2.6/6.sce#S##88550
+2#Interference#2.6#Calculation of third bright fringe and coincidental distance for two wavelengths#6.txt#2333/CH2/EX2.6/6.txt#R##88551
+2#Interference#2.5#Calculation of spacing between slit#5.sce#2333/CH2/EX2.5/5.sce#S##88546
+2#Interference#2.5#Calculation of spacing between slit#5.txt#2333/CH2/EX2.5/5.txt#R##88547
+2#Interference#2.34#Calculation for difference in diameter of successive rings when conditions are changed#34.sce#2333/CH2/EX2.34/34.sce#S##88652
+2#Interference#2.34#Calculation for difference in diameter of successive rings when conditions are changed#34.txt#2333/CH2/EX2.34/34.txt#R##88653
+2#Interference#2.33#Calculation of diameter of dark ring#33.sce#2333/CH2/EX2.33/33.sce#S##88648
+2#Interference#2.33#Calculation of diameter of dark ring#33.txt#2333/CH2/EX2.33/33.txt#R##88649
+2#Interference#2.32#Calculation of diameter of dark ring#32.sce#2333/CH2/EX2.32/32.sce#S##88644
+2#Interference#2.32#Calculation of diameter of dark ring#32.txt#2333/CH2/EX2.32/32.txt#R##88645
+2#Interference#2.31#Calculation of radius of curvature of lens and thickness of film#31.sce#2333/CH2/EX2.31/31.sce#S##88640
+2#Interference#2.31#Calculation of radius of curvature of lens and thickness of film#31.txt#2333/CH2/EX2.31/31.txt#R##88641
+2#Interference#2.30#Calculation of distance from apex#30.sce#2333/CH2/EX2.30/30.sce#S##97484
+2#Interference#2.30#Calculation of distance from apex#30.txt#2333/CH2/EX2.30/30.txt#R##97485
+2#Interference#2.3#Calculation of ratio of relative intensities of sources#3.sce#2333/CH2/EX2.3/3.sce#S##88540
+2#Interference#2.3#Calculation of ratio of relative intensities of sources#3.txt#2333/CH2/EX2.3/3.txt#R##88541
+2#Interference#2.29#Calculation of radius of curvature of lens and thickness of air film#29.sce#2333/CH2/EX2.29/29.sce#S##88630
+2#Interference#2.29#Calculation of radius of curvature of lens and thickness of air film#29.txt#2333/CH2/EX2.29/29.txt#R##88631
+2#Interference#2.28#Calculation of refractive index of liquid#28.sce#2333/CH2/EX2.28/28.sce#S##88626
+2#Interference#2.28#Calculation of refractive index of liquid#28.txt#2333/CH2/EX2.28/28.txt#R##88627
+2#Interference#2.27#Calculation of wavelength of light#27.sce#2333/CH2/EX2.27/27.sce#S##88622
+2#Interference#2.27#Calculation of wavelength of light#27.txt#2333/CH2/EX2.27/27.txt#R##88623
+2#Interference#2.26#Calculation of wavelength of light#26.sce#2333/CH2/EX2.26/26.sce#S##88618
+2#Interference#2.26#Calculation of wavelength of light#26.txt#2333/CH2/EX2.26/26.txt#R##88619
+2#Interference#2.25#Calculation of angle of wedge#25.sce#2333/CH2/EX2.25/25.sce#S##88612
+2#Interference#2.25#Calculation of angle of wedge#25.txt#2333/CH2/EX2.25/25.txt#R##88613
+2#Interference#2.24#Calculation of thickness of film#24.sce#2333/CH2/EX2.24/24.sce#S##88606
+2#Interference#2.24#Calculation of thickness of film#24.txt#2333/CH2/EX2.24/24.txt#R##88607
+2#Interference#2.23#Calculation of thickness of film#23.sce#2333/CH2/EX2.23/23.sce#S##88602
+2#Interference#2.23#Calculation of thickness of film#23.txt#2333/CH2/EX2.23/23.txt#R##88603
+2#Interference#2.22#Calculation of least thickness for black and bright#22.sce#2333/CH2/EX2.22/22.sce#S##88598
+2#Interference#2.22#Calculation of least thickness for black and bright#22.txt#2333/CH2/EX2.22/22.txt#R##88599
+2#Interference#2.21#Calculation of smallest thickness of the plate which will appear dark in reflection#21.sce#2333/CH2/EX2.21/21.sce#S##88592
+2#Interference#2.21#Calculation of smallest thickness of the plate which will appear dark in reflection#21.txt#2333/CH2/EX2.21/21.txt#R##88593
+2#Interference#2.20#Calculation of thickness of mica sheet#20.sce#2333/CH2/EX2.20/20.sce#S##88586
+2#Interference#2.20#Calculation of thickness of mica sheet#20.txt#2333/CH2/EX2.20/20.txt#R##88587
+2#Interference#2.2#Calculation of ratio of maximum to minimum intensities#2.sce#2333/CH2/EX2.2/2.sce#S##97482
+2#Interference#2.2#Calculation of ratio of maximum to minimum intensities#2.txt#2333/CH2/EX2.2/2.txt#R##97483
+2#Interference#2.19#Calculation of intensity at central maxima and its lateral shift#19.sce#2333/CH2/EX2.19/19.sce#S##88582
+2#Interference#2.19#Calculation of intensity at central maxima and its lateral shift#19.txt#2333/CH2/EX2.19/19.txt#R##88583
+2#Interference#2.18#Calculation of refractive index of mica#18.sce#2333/CH2/EX2.18/18.sce#S##88578
+2#Interference#2.18#Calculation of refractive index of mica#18.txt#2333/CH2/EX2.18/18.txt#R##88579
+2#Interference#2.17#Calculation of refractive index of sheet#17.sce#2333/CH2/EX2.17/17.sce#S##88576
+2#Interference#2.17#Calculation of refractive index of sheet#17.txt#2333/CH2/EX2.17/17.txt#R##88577
+2#Interference#2.16#Calculation of thickness of plate#16.sce#2333/CH2/EX2.16/16.sce#S##88754
+2#Interference#2.16#Calculation of thickness of plate#16.txt#2333/CH2/EX2.16/16.txt#R##88755
+2#Interference#2.15#Calculation of wavelength of light#15.sce#2333/CH2/EX2.15/15.sce#S##88568
+2#Interference#2.15#Calculation of wavelength of light#15.txt#2333/CH2/EX2.15/15.txt#R##88569
+2#Interference#2.14#Calculation of fringe width#14.sce#2333/CH2/EX2.14/14.sce#S##88564
+2#Interference#2.14#Calculation of fringe width#14.txt#2333/CH2/EX2.14/14.txt#R##88565
+2#Interference#2.13#Calculation of distance between two coherent sources#13.sce#2333/CH2/EX2.13/13.sce#S##88752
+2#Interference#2.13#Calculation of distance between two coherent sources#13.txt#2333/CH2/EX2.13/13.txt#R##88753
+2#Interference#2.12#Calculation of changed fringe width#12.txt#2333/CH2/EX2.12/12.txt#R##88751
+2#Interference#2.12#Calculation of changed fringe width#12.sce#2333/CH2/EX2.12/12.sce#S##88750
+2#Interference#2.11#Calculation of wavelength of light#11.sce#2333/CH2/EX2.11/11.sce#S##88560
+2#Interference#2.11#Calculation of wavelength of light#11.txt#2333/CH2/EX2.11/11.txt#R##88561
+2#Interference#2.10#Calculation of wavelength of light #10.sce#2333/CH2/EX2.10/10.sce#S##88558
+2#Interference#2.10#Calculation of wavelength of light #10.txt#2333/CH2/EX2.10/10.txt#R##88559
+2#Interference#2.1#Calculation of ratio of intensities#1.sce#2333/CH2/EX2.1/1.sce#S##88536
+2#Interference#2.1#Calculation of ratio of intensities#1.txt#2333/CH2/EX2.1/1.txt#R##88537
+1#Theory of relativity#1.7#Calculation of relative velocity#7.sce#2333/CH1/EX1.7/7.sce#S##88452
+1#Theory of relativity#1.7#Calculation of relative velocity#7.txt#2333/CH1/EX1.7/7.txt#R##88453
+1#Theory of relativity#1.5#Calculation of relative velocity#5.sce#2333/CH1/EX1.5/5.sce#S##97476
+1#Theory of relativity#1.5#Calculation of relative velocity#5.txt#2333/CH1/EX1.5/5.txt#R##97477
+1#Theory of relativity#1.4#Calculation of fringe shift#4.sce#2333/CH1/EX1.4/4.sce#S##88446
+1#Theory of relativity#1.4#Calculation of fringe shift#4.txt#2333/CH1/EX1.4/4.txt#R##88447
+1#Theory of relativity#1.35#Calculation of loss of mass in formation of 1 atom of hydrogen#35.sce#2333/CH1/EX1.35/35.sce#S##88534
+1#Theory of relativity#1.35#Calculation of loss of mass in formation of 1 atom of hydrogen#35.txt#2333/CH1/EX1.35/35.txt#R##88535
+1#Theory of relativity#1.34#Calculation of speed of a 1one tenth MeV electron by classical and quantum mechanics#34.sce#2333/CH1/EX1.34/34.sce#S##88532
+1#Theory of relativity#1.34#Calculation of speed of a 1one tenth MeV electron by classical and quantum mechanics#34.txt#2333/CH1/EX1.34/34.txt#R##88533
+1#Theory of relativity#1.33#Calculation of speed of an electron accelerated through a potential of 1 million volts#33.sce#2333/CH1/EX1.33/33.sce#S##88528
+1#Theory of relativity#1.33#Calculation of speed of an electron accelerated through a potential of 1 million volts#33.txt#2333/CH1/EX1.33/33.txt#R##88529
+1#Theory of relativity#1.32#Calculation of amount of work done to increase speed of an electron #32.sce#2333/CH1/EX1.32/32.sce#S##88526
+1#Theory of relativity#1.32#Calculation of amount of work done to increase speed of an electron #32.txt#2333/CH1/EX1.32/32.txt#R##88527
+1#Theory of relativity#1.31#Calculation of mass and speed of an electron having one and half Mev kinetic energy#31.sce#2333/CH1/EX1.31/31.sce#S##88520
+1#Theory of relativity#1.31#Calculation of mass and speed of an electron having one and half Mev kinetic energy#31.txt#2333/CH1/EX1.31/31.txt#R##88521
+1#Theory of relativity#1.30#Calculation of speed when total energy of a body is thrice of its rest mass#30.sce#2333/CH1/EX1.30/30.sce#S##88516
+1#Theory of relativity#1.30#Calculation of speed when total energy of a body is thrice of its rest mass#30.txt#2333/CH1/EX1.30/30.txt#R##88517
+1#Theory of relativity#1.29#Calculation of speed when kinetic energy of a body is thrice of its rest mass#29.sce#2333/CH1/EX1.29/29.sce#S##88514
+1#Theory of relativity#1.29#Calculation of speed when kinetic energy of a body is thrice of its rest mass#29.txt#2333/CH1/EX1.29/29.txt#R##88515
+1#Theory of relativity#1.28#Calculation of speed of electron for which its mass equals rest mass of proton#28.sce#2333/CH1/EX1.28/28.sce#S##97480
+1#Theory of relativity#1.28#Calculation of speed of electron for which its mass equals rest mass of proton#28.txt#2333/CH1/EX1.28/28.txt#R##97481
+1#Theory of relativity#1.27#Calculation of gain in mass by a proton accelerated through 500MeV#27.sce#2333/CH1/EX1.27/27.sce#S##88508
+1#Theory of relativity#1.27#Calculation of gain in mass by a proton accelerated through 500MeV#27.txt#2333/CH1/EX1.27/27.txt#R##88509
+1#Theory of relativity#1.26#Calculation of kinetic energy and momentum of particle with mass 11 time rest mass#26.sce#2333/CH1/EX1.26/26.sce#S##88506
+1#Theory of relativity#1.26#Calculation of kinetic energy and momentum of particle with mass 11 time rest mass#26.txt#2333/CH1/EX1.26/26.txt#R##88507
+1#Theory of relativity#1.25#Calculation of mass momentum total energy and kinetic energy of particle moving at high speed#25.sce#2333/CH1/EX1.25/25.sce#S##88504
+1#Theory of relativity#1.25#Calculation of mass momentum total energy and kinetic energy of particle moving at high speed#25.txt#2333/CH1/EX1.25/25.txt#R##88505
+1#Theory of relativity#1.24#Calculation of meter stick moving a higher mass than rest mass#24.sce#2333/CH1/EX1.24/24.sce#S##88498
+1#Theory of relativity#1.24#Calculation of meter stick moving a higher mass than rest mass#24.txt#2333/CH1/EX1.24/24.txt#R##88499
+1#Theory of relativity#1.22#Calculation of relative velocity vector in laboratory frame#22.sce#2333/CH1/EX1.22/22.sce#S##88496
+1#Theory of relativity#1.22#Calculation of relative velocity vector in laboratory frame#22.txt#2333/CH1/EX1.22/22.txt#R##88497
+1#Theory of relativity#1.21#Calculation of relative velocity of beta particle by experimenter#21.sce#2333/CH1/EX1.21/21.sce#S##88494
+1#Theory of relativity#1.21#Calculation of relative velocity of beta particle by experimenter#21.txt#2333/CH1/EX1.21/21.txt#R##88495
+1#Theory of relativity#1.20#Calculation of relative velocity#20.sce#2333/CH1/EX1.20/20.sce#S##88488
+1#Theory of relativity#1.20#Calculation of relative velocity#20.txt#2333/CH1/EX1.20/20.txt#R##88489
+1#Theory of relativity#1.2#Calculation of error involved I position of particle#2.sce#2333/CH1/EX1.2/2.sce#S##88444
+1#Theory of relativity#1.2#Calculation of error involved I position of particle#2.txt#2333/CH1/EX1.2/2.txt#R##88445
+1#Theory of relativity#1.19#Calculation of mean life of pi meson and distance traveled by meson during mean life#19.sce#2333/CH1/EX1.19/19.sce#S##88486
+1#Theory of relativity#1.19#Calculation of mean life of pi meson and distance traveled by meson during mean life#19.txt#2333/CH1/EX1.19/19.txt#R##88487
+1#Theory of relativity#1.18#Calculation of average distance traveled by meson#18.sce#2333/CH1/EX1.18/18.sce#S##88482
+1#Theory of relativity#1.18#Calculation of average distance traveled by meson#18.txt#2333/CH1/EX1.18/18.txt#R##88483
+1#Theory of relativity#1.17#Calculation of distance traveled by meson#17.sce#2333/CH1/EX1.17/17.sce#S##88476
+1#Theory of relativity#1.17#Calculation of distance traveled by meson#17.txt#2333/CH1/EX1.17/17.txt#R##88477
+1#Theory of relativity#1.16#Calculation of relative velocity#16.sce#2333/CH1/EX1.16/16.sce#S##97478
+1#Theory of relativity#1.16#Calculation of relative velocity#16.txt#2333/CH1/EX1.16/16.txt#R##97479
+1#Theory of relativity#1.15#Calculation of relative velocity#15.sce#2333/CH1/EX1.15/15.sce#S##88470
+1#Theory of relativity#1.15#Calculation of relative velocity#15.txt#2333/CH1/EX1.15/15.txt#R##88471
+1#Theory of relativity#1.14#Calculation of percentage contraction in rod#14.sce#2333/CH1/EX1.14/14.sce#S##88466
+1#Theory of relativity#1.14#Calculation of percentage contraction in rod#14.txt#2333/CH1/EX1.14/14.txt#R##88467
+1#Theory of relativity#1.13#Calculation of relative velocity#13.sce#2333/CH1/EX1.13/13.sce#S##88464
+1#Theory of relativity#1.13#Calculation of relative velocity#13.txt#2333/CH1/EX1.13/13.txt#R##88465
+1#Theory of relativity#1.12#Calculation of percentage contraction in length#12.sce#2333/CH1/EX1.12/12.sce#S##88462
+1#Theory of relativity#1.12#Calculation of percentage contraction in length#12.txt#2333/CH1/EX1.12/12.txt#R##88463
+1#Theory of relativity#1.11#Calculation of relative velocity of circular lamina#11.sce#2333/CH1/EX1.11/11.sce#S##88458
+1#Theory of relativity#1.11#Calculation of relative velocity of circular lamina#11.txt#2333/CH1/EX1.11/11.txt#R##88459
+1#Theory of relativity#1.10#Calculation of relative velocity#10.sce#2333/CH1/EX1.10/10.sce#S##88456
+1#Theory of relativity#1.10#Calculation of relative velocity#10.txt#2333/CH1/EX1.10/10.txt#R##88457
+1#Theory of relativity#1.1#Calculation of fictitious forces#1.sce#2333/CH1/EX1.1/1.sce#S##88442
+1#Theory of relativity#1.1#Calculation of fictitious forces#1.txt#2333/CH1/EX1.1/1.txt#R##88443

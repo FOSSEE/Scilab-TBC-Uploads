@@ -1,0 +1,5 @@
+**Sample Problem 5-9a**
+The comon acceleration of the blocks is 2.000000 m/s^2
+
+**Sample Problem 5-9b**
+The force on block B by Block A is 12.000000 N 

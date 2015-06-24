@@ -1,0 +1,5 @@
+**Sample Problem 33-5a**
+The voltage drop across the capacitor is Vc=36.00*sin(376.99*t)
+
+**Sample Problem 33-5b**
+The current in the capacitor as a function of time is Ic=0.20*cos(376.99*t) 

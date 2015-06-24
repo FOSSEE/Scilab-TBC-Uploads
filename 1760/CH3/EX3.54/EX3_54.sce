@@ -1,0 +1,21 @@
+                            //EXAMPLE 3-54  PG NO-207-208
+Van=161.66+%i*0;
+Vbn=-80.83-%i*140;
+Vcn=-80.83+%i*140;
+Z1=10+%i*0;
+Z2=8.66+%i*5;
+Z3=8.66-%i*5;
+YA=1/Z1;
+disp('i) ADMITTANCE  (YA) is  in rectangular form  =  '+string (YA) +' siemens ');
+YB=1/Z2;
+disp('ii) ADMITTANCE  (YB) is  in rectangular form  =  '+string (YB) +' siemens ');
+YC=1/Z3;
+disp('iii) ADMITTANCE  (YC) is  in rectangular form  =  '+string (YC) +' siemens ');
+Von=-[(Van*YA)+(Vbn*YB)+(Vcn*YC)]/[YA+YB+YC];
+disp('iv) VOLTAGE  (Von) is  in rectangular form  =  '+string (Von) +' V ');
+Vao=Van-Von;
+disp('v) VOLTAGE  (Vao) is  in rectangular form  =  '+string (Vao) +' V ');
+Vbo=Vbn-Von;
+disp('vi) VOLTAGE  (Vbo) is  in  rectangular form  =  '+string (Vbo) +' V ');
+Vco=Vcn-Von;
+disp('vii) VOLTAGE  (Vco) is  in rectangular form  =  '+string (Vco) +' V ');

@@ -1,0 +1,9 @@
+ 
+ example 12 5   
+ 
+ (a)   
+ synchronous power 872kW 
+ synchronous torque for 0.5 displacement 2777N-M 
+ (b) full load   
+ synchronous power 977kW 
+ synchronous torque for 0.5 displacement 3111N-M 

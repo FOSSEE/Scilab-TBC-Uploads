@@ -1,0 +1,7 @@
+
+4.At calibiration,
+  current through AB=20 mA
+  Resistance R1=50 v
+  Vx=1.88 V
+
+  R2=200 K-ohm 

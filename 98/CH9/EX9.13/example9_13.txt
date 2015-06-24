@@ -1,0 +1,5 @@
+(i) Line to nuetral Capacitance for 100km line = 0.9102 uF 
+
+(ii) Charging current per phase = 10.90 A 
+
+

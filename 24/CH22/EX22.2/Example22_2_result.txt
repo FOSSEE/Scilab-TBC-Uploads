@@ -1,0 +1,2 @@
+**Sample Problem 22-2**
+the proton should be placed at a distance 0.7L from q1 

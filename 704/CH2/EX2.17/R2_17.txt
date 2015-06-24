@@ -1,0 +1,5 @@
+ 
+ Torque generated in machine (in Nw-m)=   
+ 
+    1030.968  
+ 

@@ -1,0 +1,4 @@
+**Sample Problem 3-3**
+The team displacement vector had a magnitude 4.687283 km,
+ and was at an angle of 56 south of west and
+ at an angle of 0.305592 upward 

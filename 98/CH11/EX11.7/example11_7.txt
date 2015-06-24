@@ -1,0 +1,5 @@
+Maximum stress in the insulation = 47.61 kV/cm 
+
+Minimum stress in the insulation = 11.90 kV/cm 
+
+

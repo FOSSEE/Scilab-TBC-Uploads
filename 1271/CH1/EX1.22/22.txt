@@ -1,0 +1,2 @@
+﻿
+  Thickness of oil film = 1.717559e-03 mm. 

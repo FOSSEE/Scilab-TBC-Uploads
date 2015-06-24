@@ -1,0 +1,55 @@
+ I_na_mag (in Amperes)=   
+ 
+    4.9998533  
+ 
+ I_na_phase (in Degrees)=   
+ 
+    53.130102  
+ 
+ I_nb_mag (in Amperes)=   
+ 
+    4.9998533  
+ 
+ I_nb_phase (in Degrees)=   
+ 
+  - 66.869898  
+ 
+ I_nc_mag (in Amperes)=   
+ 
+    4.9998533  
+ 
+ I_nc_phase (in Degrees)=   
+ 
+    173.1301  
+ 
+ I_AB_mag (in Amperes)=   
+ 
+    2.8866667  
+ 
+ I_AB_phase (in Degrees)=   
+ 
+    83.130102  
+ 
+ I_BC_mag (in Amperes)=   
+ 
+    2.8866667  
+ 
+ I_BC_phase (in Degrees)=   
+ 
+  - 36.869898  
+ 
+ I_CA_mag (in Amperes)=   
+ 
+    2.8866667  
+ 
+ I_CA_phase (in Degrees)=   
+ 
+  - 156.8699  
+ 
+ Power dissipated (in Watts)=   
+ 
+    4424.7404  
+ 
+ Power dissipated by transmission line (in Watts)=   
+ 
+    74.9956  

@@ -1,0 +1,7 @@
+ (a) power generated (in per unit)=   
+ 
+    0.9520487  
+ 
+ (b) critical fault clearing time (in sec)=   
+ 
+    0.5810606 

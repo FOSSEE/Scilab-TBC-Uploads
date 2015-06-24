@@ -1,0 +1,4 @@
+
+1.meter current=1 mA
+input resistance with transistor=1 M-ohm
+nput resistance with out transistor=9300 ohm

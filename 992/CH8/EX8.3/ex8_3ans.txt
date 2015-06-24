@@ -1,0 +1,4 @@
+ 
+ Nyquist sampling rate = 50.000000 samples/seconds
+ Transmitted elements = 400000.000000 elements 
+ Execution done. 

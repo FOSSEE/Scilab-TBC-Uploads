@@ -1,0 +1,4 @@
+
+ Frequency when Ri is 10KiloOhm is 1000.0000 Hz 
+
+ Frequency when Ri is 100KiloOhm is 100.0000 Hz  

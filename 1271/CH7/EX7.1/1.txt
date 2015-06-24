@@ -1,0 +1,2 @@
+ Amplitude = 0.160000 meter,
+ Mass of particle = 0.080000 kg

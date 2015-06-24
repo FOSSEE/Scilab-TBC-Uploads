@@ -1,0 +1,44 @@
+-->//(Cylinders and Pressure Vessels) Example 22.1
+ 
+-->//Storage capacity of the seamless cylinder V (m3)
+ 
+-->V = 0.025
+ V  =
+ 
+    0.025  
+ 
+-->//Internal pressure in the cylinder Pi (MPa)
+ 
+-->Pi = 20
+ Pi  =
+ 
+    20.  
+ 
+-->//Ultimate tensile strength of the material of the cylinder Sut (N/mm2)
+ 
+-->Sut = 390
+ Sut  =
+ 
+    390.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 2.5
+ fs  =
+ 
+    2.5  
+ 
+-->//Ratio of length of the cylinder to its diameter ratio
+ 
+-->ratio = 2
+ ratio  =
+ 
+    2.  
+ 
+
+Diameter of the cylinder(Di) = 251.539800 mm
+
+Length of the cylinder(L) = 503.079599 mm
+
+Thickness of the cylinder(t) = 16.124346 mm
+ 

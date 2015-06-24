@@ -1,0 +1,3 @@
+ Polarization vector is 1.593000e-06 C/m^2. 
+ Displacement vector is 2.478000e-06C/m^2. 
+ Energy density is 0.123900 J/m^2.

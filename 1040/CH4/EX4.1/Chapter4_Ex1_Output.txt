@@ -1,0 +1,12 @@
+
+ OUTPUT Ex4.1.a
+=================================================
+The predicted diffusivity of Chlorine is 2.17e-03 cm2/s 
+
+ OUTPUT Ex4.1.b
+=================================================
+The tortusity value = 1.25
+
+ OUTPUT Ex4.1.b
+=================================================
+The Effective diffusivity of Chlorine at 573 K and 15 atm =  1.83e-09 cm2/sec 

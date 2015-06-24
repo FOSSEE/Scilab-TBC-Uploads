@@ -1,0 +1,8 @@
+ Example 3.26   
+ 
+ Efficiency is maximium when,core-loss=copper-loss   
+ 
+ Maximium efficiency occurs at 240kw,0.8 power factor,i.e., at 300kVA load   
+
+Efficiency at full-load and 071 power factor=98percent
+Maximium efficiency at 300kVA and unity power factor=98.684211percent 

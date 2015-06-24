@@ -1,0 +1,12 @@
+ 
+ example 15.6   
+ energy needed o pump water every day 3.406250kWh/day 
+ overall efficiency 0.34 
+ energy output of pv system 10kWh/day 
+ annual energy out of array 10Wh/Wp 
+daily energy output of array 5.479Wh/Wp 
+ peak wattage of pv array 1825.00Wp 
+ rms output voltage 222.14V
+number of modules in series 13 
+ rated peak power output of each string 520.00W 
+ number of strings in parallel 4 

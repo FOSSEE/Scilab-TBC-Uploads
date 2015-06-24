@@ -1,0 +1,3 @@
+# PROBLEM 6 # 
+
+ Required length of cavity is 10cm. 

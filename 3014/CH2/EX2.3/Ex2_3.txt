@@ -1,0 +1,3 @@
+
+Example 2.3
+ Uncertainty in position of particle is 0.019229 angstrom.

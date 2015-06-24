@@ -1,0 +1,1 @@
+﻿Diameter of nth dark ring of lambda1 = 0.011384 meter.

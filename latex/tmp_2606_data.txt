@@ -1,0 +1,194 @@
+11#Information Theory and Source Coding#11.9#Channel#ex11_9.sce#2606/CH11/EX11.9/ex11_9.sce#S##92314
+11#Information Theory and Source Coding#11.9#Channel#ex11_9.jpg#2606/CH11/EX11.9/ex11_9.jpg#R##92315
+11#Information Theory and Source Coding#11.8#Binary Channel in cascade#ex11_8.sce#2606/CH11/EX11.8/ex11_8.sce#S##92312
+11#Information Theory and Source Coding#11.8#Binary Channel in cascade#ex11_8.jpg#2606/CH11/EX11.8/ex11_8.jpg#R##92313
+11#Information Theory and Source Coding#11.7#Binary Channel#ex11_7.sce#2606/CH11/EX11.7/ex11_7.sce#S##92310
+11#Information Theory and Source Coding#11.7#Binary Channel#ex11_7.jpg#2606/CH11/EX11.7/ex11_7.jpg#R##92311
+11#Information Theory and Source Coding#11.6#Telegraph Source#ex11_6.sce#2606/CH11/EX11.6/ex11_6.sce#S##92308
+11#Information Theory and Source Coding#11.6#Telegraph Source#ex11_6.jpg#2606/CH11/EX11.6/ex11_6.jpg#R##92309
+11#Information Theory and Source Coding#11.5#Black and white TV picture#ex11_5.sce#2606/CH11/EX11.5/ex11_5.sce#S##92306
+11#Information Theory and Source Coding#11.5#Black and white TV picture#ex11_5.jpg#2606/CH11/EX11.5/ex11_5.jpg#R##92307
+11#Information Theory and Source Coding#11.34#DMS X with five symbols#ex11_34.sce#2606/CH11/EX11.34/ex11_34.sce#S##92341
+11#Information Theory and Source Coding#11.34#DMS X with five symbols#ex11_34.jpg#2606/CH11/EX11.34/ex11_34.jpg#R##92342
+11#Information Theory and Source Coding#11.33#Shannon Fano and Huffman#ex11_33.sce#2606/CH11/EX11.33/ex11_33.sce#S##92339
+11#Information Theory and Source Coding#11.33#Shannon Fano and Huffman#ex11_33.jpg#2606/CH11/EX11.33/ex11_33.jpg#R##92340
+11#Information Theory and Source Coding#11.32#Shannon Fano#ex11_32.sce#2606/CH11/EX11.32/ex11_32.sce#S##92337
+11#Information Theory and Source Coding#11.32#Shannon Fano#ex11_32.jpg#2606/CH11/EX11.32/ex11_32.jpg#R##92338
+11#Information Theory and Source Coding#11.3#Binary Memoryless Source#ex11_3.sce#2606/CH11/EX11.3/ex11_3.sce#S##92304
+11#Information Theory and Source Coding#11.3#Binary Memoryless Source#ex11_3.jpg#2606/CH11/EX11.3/ex11_3.jpg#R##92305
+11#Information Theory and Source Coding#11.27#Kraft inequality#ex11_27.sce#2606/CH11/EX11.27/ex11_27.sce#S##92335
+11#Information Theory and Source Coding#11.27#Kraft inequality#ex11_27.jpg#2606/CH11/EX11.27/ex11_27.jpg#R##92336
+11#Information Theory and Source Coding#11.26#Second order extension of DMS#ex11_26.sce#2606/CH11/EX11.26/ex11_26.sce#S##92333
+11#Information Theory and Source Coding#11.26#Second order extension of DMS#ex11_26.jpg#2606/CH11/EX11.26/ex11_26.jpg#R##92334
+11#Information Theory and Source Coding#11.25#DMS X#ex11_25.sce#2606/CH11/EX11.25/ex11_25.sce#S##92343
+11#Information Theory and Source Coding#11.25#DMS X#ex11_25.jpg#2606/CH11/EX11.25/ex11_25.jpg#R##92344
+11#Information Theory and Source Coding#11.24#DMS X with two symbols#ex11_24.sce#2606/CH11/EX11.24/ex11_24.sce#S##92331
+11#Information Theory and Source Coding#11.24#DMS X with two symbols#ex11_24.jpg#2606/CH11/EX11.24/ex11_24.jpg#R##92332
+11#Information Theory and Source Coding#11.23#AWGN Channel#ex11_23.sce#2606/CH11/EX11.23/ex11_23.sce#S##92328
+11#Information Theory and Source Coding#11.23#AWGN Channel#ex11_23.jpg#2606/CH11/EX11.23/ex11_23.jpg#R##92329
+11#Information Theory and Source Coding#11.20#Differential Entropy#ex11_20.sce#2606/CH11/EX11.20/ex11_20.sce#S##92324
+11#Information Theory and Source Coding#11.20#Differential Entropy#ex11_20.jpg#2606/CH11/EX11.20/ex11_20.jpg#R##92325
+11#Information Theory and Source Coding#11.2#DMS X with four symbols#ex11_2.sce#2606/CH11/EX11.2/ex11_2.sce#S##92302
+11#Information Theory and Source Coding#11.2#DMS X with four symbols#ex11_2.jpg#2606/CH11/EX11.2/ex11_2.jpg#R##92303
+11#Information Theory and Source Coding#11.16#BSC#ex11_16.sce#2606/CH11/EX11.16/ex11_16.sce#S##92319
+11#Information Theory and Source Coding#11.16#BSC#ex11_16.jpg#2606/CH11/EX11.16/ex11_16.jpg#R##92320
+10#Digital Modulation and Demodulation#10.6#Satellite Communication#ex10_6.sce#2606/CH10/EX10.6/ex10_6.sce#S##92354
+10#Digital Modulation and Demodulation#10.6#Satellite Communication#ex10_6.jpg#2606/CH10/EX10.6/ex10_6.jpg#R##92355
+10#Digital Modulation and Demodulation#10.27#M level PSK#ex10_27.sce#2606/CH10/EX10.27/ex10_27.sce#S##92370
+10#Digital Modulation and Demodulation#10.27#M level PSK#ex10_27.jpg#2606/CH10/EX10.27/ex10_27.jpg#R##92371
+10#Digital Modulation and Demodulation#10.25#Cohereht Matched Reciever#ex10_25.sce#2606/CH10/EX10.25/ex10_25.sce#S##92368
+10#Digital Modulation and Demodulation#10.25#Cohereht Matched Reciever#ex10_25.jpg#2606/CH10/EX10.25/ex10_25.jpg#R##92369
+10#Digital Modulation and Demodulation#10.24#Voice Transmission BPSK#ex10_24.sce#2606/CH10/EX10.24/ex10_24.sce#S##92366
+10#Digital Modulation and Demodulation#10.24#Voice Transmission BPSK#ex10_24.jpg#2606/CH10/EX10.24/ex10_24.jpg#R##92367
+10#Digital Modulation and Demodulation#10.20#Binary Communication#ex10_20.sce#2606/CH10/EX10.20/ex10_20.sce#S##92364
+10#Digital Modulation and Demodulation#10.20#Binary Communication#ex10_20.jpg#2606/CH10/EX10.20/ex10_20.jpg#R##92365
+10#Digital Modulation and Demodulation#10.2#BPSK Reciever#ex10_2.sce#2606/CH10/EX10.2/ex10_2.sce#S##92352
+10#Digital Modulation and Demodulation#10.2#BPSK Reciever#ex10_2.jpg#2606/CH10/EX10.2/ex10_2.jpg#R##92353
+10#Digital Modulation and Demodulation#10.19#Binary Data Transmission#ex10_19.sce#2606/CH10/EX10.19/ex10_19.sce#S##92362
+10#Digital Modulation and Demodulation#10.19#Binary Data Transmission#ex10_19.jpg#2606/CH10/EX10.19/ex10_19.jpg#R##92363
+10#Digital Modulation and Demodulation#10.18#Binary System#ex10_18.sce#2606/CH10/EX10.18/ex10_18.sce#S##92360
+10#Digital Modulation and Demodulation#10.18#Binary System#ex10_18.jpg#2606/CH10/EX10.18/ex10_18.jpg#R##92361
+10#Digital Modulation and Demodulation#10.17#On Off Binary System#ex10_17.sce#2606/CH10/EX10.17/ex10_17.sce#S##92358
+10#Digital Modulation and Demodulation#10.17#On Off Binary System#ex10_17.jpg#2606/CH10/EX10.17/ex10_17.jpg#R##92359
+10#Digital Modulation and Demodulation#10.11#Baseband Binary Transmission#ex10_11.sce#2606/CH10/EX10.11/ex10_11.sce#S##92356
+10#Digital Modulation and Demodulation#10.11#Baseband Binary Transmission#ex10_11.jpg#2606/CH10/EX10.11/ex10_11.jpg#R##92357
+10#Digital Modulation and Demodulation#10.1#Binary Reciever#ex10_1.sce#2606/CH10/EX10.1/ex10_1.sce#S##92350
+10#Digital Modulation and Demodulation#10.1#Binary Reciever#ex10_1.jpg#2606/CH10/EX10.1/ex10_1.jpg#R##92351
+9#Noise in Analog Communication System#9.9#AM with additive thermal noise#ex9_9.sce#2606/CH9/EX9.9/ex9_9.sce#S##92046
+9#Noise in Analog Communication System#9.9#AM with additive thermal noise#ex9_9.jpg#2606/CH9/EX9.9/ex9_9.jpg#R##92047
+9#Noise in Analog Communication System#9.8#AM with envelope detection#ex9_8.sce#2606/CH9/EX9.8/ex9_8.sce#S##92044
+9#Noise in Analog Communication System#9.8#AM with envelope detection#ex9_8.jpg#2606/CH9/EX9.8/ex9_8.jpg#R##92045
+9#Noise in Analog Communication System#9.4#SNR of filters#ex9_4.sce#2606/CH9/EX9.4/ex9_4.sce#S##92042
+9#Noise in Analog Communication System#9.4#SNR of filters#ex9_4.jpg#2606/CH9/EX9.4/ex9_4.jpg#R##92043
+9#Noise in Analog Communication System#9.21#Normalized Message Signal#ex9_21.sce#2606/CH9/EX9.21/ex9_21.sce#S##92058
+9#Noise in Analog Communication System#9.21#Normalized Message Signal#ex9_21.jpg#2606/CH9/EX9.21/ex9_21.jpg#R##92059
+9#Noise in Analog Communication System#9.18#Modulation Index#ex9_18.sce#2606/CH9/EX9.18/ex9_18.sce#S##92056
+9#Noise in Analog Communication System#9.18#Modulation Index#ex9_18.jpg#2606/CH9/EX9.18/ex9_18.jpg#R##92057
+9#Noise in Analog Communication System#9.17#Audio Signal Over RF Channel#ex9_17.sce#2606/CH9/EX9.17/ex9_17.sce#S##92054
+9#Noise in Analog Communication System#9.17#Audio Signal Over RF Channel#ex9_17.jpg#2606/CH9/EX9.17/ex9_17.jpg#R##92055
+9#Noise in Analog Communication System#9.14#FM broadcast System#ex9_14.sce#2606/CH9/EX9.14/ex9_14.sce#S##92052
+9#Noise in Analog Communication System#9.14#FM broadcast System#ex9_14.jpg#2606/CH9/EX9.14/ex9_14.jpg#R##92053
+9#Noise in Analog Communication System#9.13#SSB System#ex9_13.sce#2606/CH9/EX9.13/ex9_13.sce#S##92050
+9#Noise in Analog Communication System#9.13#SSB System#ex9_13.jpg#2606/CH9/EX9.13/ex9_13.jpg#R##92051
+9#Noise in Analog Communication System#9.10#Modulation Systems transmission Bandwidth#ex9_10.sce#2606/CH9/EX9.10/ex9_10.sce#S##92048
+9#Noise in Analog Communication System#9.10#Modulation Systems transmission Bandwidth#ex9_10.jpg#2606/CH9/EX9.10/ex9_10.jpg#R##92049
+9#Noise in Analog Communication System#9.1#Output Noise Power#ex9_1.sce#2606/CH9/EX9.1/ex9_1.sce#S##92040
+9#Noise in Analog Communication System#9.1#Output Noise Power#ex9_1.jpg#2606/CH9/EX9.1/ex9_1.jpg#R##92041
+8#Noise#8.9#WLAN Reciever#ex8_9.sce#2606/CH8/EX8.9/ex8_9.sce#S##86242
+8#Noise#8.9#WLAN Reciever#ex8_9.jpg#2606/CH8/EX8.9/ex8_9.jpg#R##86243
+8#Noise#8.7#Noise figure and temperature#ex8_7.sce#2606/CH8/EX8.7/ex8_7.sce#S##86240
+8#Noise#8.7#Noise figure and temperature#ex8_7.jpg#2606/CH8/EX8.7/ex8_7.jpg#R##86241
+8#Noise#8.6#Cascaded Amplifiers#ex8_6.sce#2606/CH8/EX8.6/ex8_6.sce#S##86238
+8#Noise#8.6#Cascaded Amplifiers#ex8_6.jpg#2606/CH8/EX8.6/ex8_6.jpg#R##86239
+8#Noise#8.4#Noise Figure#ex8_4.sce#2606/CH8/EX8.4/ex8_4.sce#S##86236
+8#Noise#8.4#Noise Figure#ex8_4.jpg#2606/CH8/EX8.4/ex8_4.jpg#R##86237
+8#Noise#8.3#Output Noise Power#ex8_3.sce#2606/CH8/EX8.3/ex8_3.sce#S##86234
+8#Noise#8.3#Output Noise Power#ex8_3.jpg#2606/CH8/EX8.3/ex8_3.jpg#R##86235
+8#Noise#8.24#White Gaussian Noise#ex8_24.sce#2606/CH8/EX8.24/ex8_24.sce#S##86260
+8#Noise#8.24#White Gaussian Noise#ex8_24.jpg#2606/CH8/EX8.24/ex8_24.jpg#R##86261
+8#Noise#8.23#Noise process#ex8_23.sce#2606/CH8/EX8.23/ex8_23.sce#S##86258
+8#Noise#8.23#Noise process#ex8_23.jpg#2606/CH8/EX8.23/ex8_23.jpg#R##86259
+8#Noise#8.2#Rms Voltage#ex8_2.sce#2606/CH8/EX8.2/ex8_2.sce#S##86232
+8#Noise#8.2#Rms Voltage#ex8_2.jpg#2606/CH8/EX8.2/ex8_2.jpg#R##86233
+8#Noise#8.18#Repeaters#ex8_18.sce#2606/CH8/EX8.18/ex8_18.sce#S##86256
+8#Noise#8.18#Repeaters#ex8_18.jpg#2606/CH8/EX8.18/ex8_18.jpg#R##86257
+8#Noise#8.15#Reciever#ex8_15.sce#2606/CH8/EX8.15/ex8_15.sce#S##86254
+8#Noise#8.15#Reciever#ex8_15.jpg#2606/CH8/EX8.15/ex8_15.jpg#R##86255
+8#Noise#8.14#TV Recievers#ex8_14.sce#2606/CH8/EX8.14/ex8_14.sce#S##86252
+8#Noise#8.14#TV Recievers#ex8_14.jpg#2606/CH8/EX8.14/ex8_14.jpg#R##86253
+8#Noise#8.13#Receiver Antenna System#ex8_13.sce#2606/CH8/EX8.13/ex8_13.sce#S##86250
+8#Noise#8.13#Receiver Antenna System#ex8_13.jpg#2606/CH8/EX8.13/ex8_13.jpg#R##86251
+8#Noise#8.12#Distortion Component#ex8_12.sce#2606/CH8/EX8.12/ex8_12.sce#S##86248
+8#Noise#8.12#Distortion Component#ex8_12.jpg#2606/CH8/EX8.12/ex8_12.jpg#R##86249
+8#Noise#8.11#Cascade Amplifiers A and B#ex8_11.sce#2606/CH8/EX8.11/ex8_11.sce#S##86246
+8#Noise#8.11#Cascade Amplifiers A and B#ex8_11.jpg#2606/CH8/EX8.11/ex8_11.jpg#R##86247
+8#Noise#8.10#Receiver Noise Power#ex8_10.sce#2606/CH8/EX8.10/ex8_10.sce#S##86244
+8#Noise#8.10#Receiver Noise Power#ex8_10.jpg#2606/CH8/EX8.10/ex8_10.jpg#R##86245
+8#Noise#8.1#Units Conversion#ex8_1.sce#2606/CH8/EX8.1/ex8_1.sce#S##86230
+8#Noise#8.1#Units Conversion#ex8_1.jpg#2606/CH8/EX8.1/ex8_1.jpg#R##86231
+6#Probability and Random Variables#6.7#Dot and dash#ex6_7.sce#2606/CH6/EX6.7/ex6_7.sce#S##91931
+6#Probability and Random Variables#6.7#Dot and dash#ex6_7.jpg#2606/CH6/EX6.7/ex6_7.jpg#R##91932
+6#Probability and Random Variables#6.41#16 Binary Digits Transmission#ex6_41.sce#2606/CH6/EX6.41/ex6_41.sce#S##91960
+6#Probability and Random Variables#6.41#16 Binary Digits Transmission#ex6_41.jpg#2606/CH6/EX6.41/ex6_41.jpg#R##91961
+6#Probability and Random Variables#6.23#Pdf of random variable#ex6_23.sce#2606/CH6/EX6.23/ex6_23.sce#S##91954
+6#Probability and Random Variables#6.23#Pdf of random variable#ex6_23.jpg#2606/CH6/EX6.23/ex6_23.jpg#R##91955
+6#Probability and Random Variables#6.20#Noisy Transmission Channel#ex6_20.sce#2606/CH6/EX6.20/ex6_20.sce#S##91950
+6#Probability and Random Variables#6.20#Noisy Transmission Channel#ex6_20.jpg#2606/CH6/EX6.20/ex6_20.jpg#R##91951
+6#Probability and Random Variables#6.17#Binary Source#ex6_17.sce#2606/CH6/EX6.17/ex6_17.sce#S##91944
+6#Probability and Random Variables#6.17#Binary Source#ex6_17.jpg#2606/CH6/EX6.17/ex6_17.jpg#R##91945
+6#Probability and Random Variables#6.16#Pulse Positions#ex6_16.sce#2606/CH6/EX6.16/ex6_16.sce#S##91940
+6#Probability and Random Variables#6.16#Pulse Positions#ex6_16.jpg#2606/CH6/EX6.16/ex6_16.jpg#R##91941
+6#Probability and Random Variables#6.14#Binary Communication#ex6_14.sce#2606/CH6/EX6.14/ex6_14.sce#S##91935
+6#Probability and Random Variables#6.14#Binary Communication#ex6_14.jpg#2606/CH6/EX6.14/ex6_14.jpg#R##91936
+5#Pulse Modulation Systems#5.9#Sampling rate#ex5_9.sce#2606/CH5/EX5.9/ex5_9.sce#S##90893
+5#Pulse Modulation Systems#5.9#Sampling rate#ex5_9.jpg#2606/CH5/EX5.9/ex5_9.jpg#R##90894
+5#Pulse Modulation Systems#5.40#M ary PSK#ex5_40.sce#2606/CH5/EX5.40/ex5_40.sce#S##90928
+5#Pulse Modulation Systems#5.40#M ary PSK#ex5_40.jpg#2606/CH5/EX5.40/ex5_40.jpg#R##90929
+5#Pulse Modulation Systems#5.39#Telemetry System#ex5_39.sce#2606/CH5/EX5.39/ex5_39.sce#S##90926
+5#Pulse Modulation Systems#5.39#Telemetry System#ex5_39.jpg#2606/CH5/EX5.39/ex5_39.jpg#R##90927
+5#Pulse Modulation Systems#5.38#Roll Off Factor#ex5_38.sce#2606/CH5/EX5.38/ex5_38.sce#S##90924
+5#Pulse Modulation Systems#5.38#Roll Off Factor#ex5_38.jpg#2606/CH5/EX5.38/ex5_38.jpg#R##90925
+5#Pulse Modulation Systems#5.37#Telephone Line#ex5_37.sce#2606/CH5/EX5.37/ex5_37.sce#S##90922
+5#Pulse Modulation Systems#5.37#Telephone Line#ex5_37.jpg#2606/CH5/EX5.37/ex5_37.jpg#R##90923
+5#Pulse Modulation Systems#5.35#TDM#ex5_35.sce#2606/CH5/EX5.35/ex5_35.sce#S##90920
+5#Pulse Modulation Systems#5.35#TDM#ex5_35.jpg#2606/CH5/EX5.35/ex5_35.jpg#R##90921
+5#Pulse Modulation Systems#5.34#T1 Carrier System#ex5_34.sce#2606/CH5/EX5.34/ex5_34.sce#S##90917
+5#Pulse Modulation Systems#5.34#T1 Carrier System#ex5_34.jpg#2606/CH5/EX5.34/ex5_34.jpg#R##90918
+5#Pulse Modulation Systems#5.33#TD Multiplexing#ex5_33.sce#2606/CH5/EX5.33/ex5_33.sce#S##90914
+5#Pulse Modulation Systems#5.33#TD Multiplexing#ex5_33.jpg#2606/CH5/EX5.33/ex5_33.jpg#R##90915
+5#Pulse Modulation Systems#5.32#TDM#ex5_32.sce#2606/CH5/EX5.32/ex5_32.sce#S##90912
+5#Pulse Modulation Systems#5.32#TDM#ex5_32.jpg#2606/CH5/EX5.32/ex5_32.jpg#R##90913
+5#Pulse Modulation Systems#5.27#DM system#ex5_27.sce#2606/CH5/EX5.27/ex5_27.sce#S##90910
+5#Pulse Modulation Systems#5.27#DM system#ex5_27.jpg#2606/CH5/EX5.27/ex5_27.jpg#R##90911
+5#Pulse Modulation Systems#5.26#PCM Systems#ex5_26.sce#2606/CH5/EX5.26/ex5_26.sce#S##90908
+5#Pulse Modulation Systems#5.26#PCM Systems#ex5_26.jpg#2606/CH5/EX5.26/ex5_26.jpg#R##90909
+5#Pulse Modulation Systems#5.25#DM System#ex5_25.sce#2606/CH5/EX5.25/ex5_25.sce#S##90906
+5#Pulse Modulation Systems#5.25#DM System#ex5_25.jpg#2606/CH5/EX5.25/ex5_25.jpg#R##90907
+5#Pulse Modulation Systems#5.22#Audio Signal with Spectral Components#ex5_22.sce#2606/CH5/EX5.22/ex5_22.sce#S##90904
+5#Pulse Modulation Systems#5.22#Audio Signal with Spectral Components#ex5_22.jpg#2606/CH5/EX5.22/ex5_22.jpg#R##90905
+5#Pulse Modulation Systems#5.19#CD Recording System#ex5_19.sce#2606/CH5/EX5.19/ex5_19.sce#S##90902
+5#Pulse Modulation Systems#5.19#CD Recording System#ex5_19.jpg#2606/CH5/EX5.19/ex5_19.jpg#R##90903
+5#Pulse Modulation Systems#5.18#Binary PCM System#ex5_18.sce#2606/CH5/EX5.18/ex5_18.sce#S##90900
+5#Pulse Modulation Systems#5.18#Binary PCM System#ex5_18.jpg#2606/CH5/EX5.18/ex5_18.jpg#R##90901
+5#Pulse Modulation Systems#5.15#Analog Signal to PCM System#ex5_15.sce#2606/CH5/EX5.15/ex5_15.sce#S##90898
+5#Pulse Modulation Systems#5.15#Analog Signal to PCM System#ex5_15.jpg#2606/CH5/EX5.15/ex5_15.jpg#R##90899
+5#Pulse Modulation Systems#5.14#Binary Channel#ex5_14.sce#2606/CH5/EX5.14/ex5_14.sce#S##90896
+5#Pulse Modulation Systems#5.14#Binary Channel#ex5_14.jpg#2606/CH5/EX5.14/ex5_14.jpg#R##90897
+4#Angle Modulation#4.9#Peak frequency#ex4_9.sce#2606/CH4/EX4.9/ex4_9.sce#S##88252
+4#Angle Modulation#4.9#Peak frequency#ex4_9.jpg#2606/CH4/EX4.9/ex4_9.jpg#R##88253
+4#Angle Modulation#4.3#Instantaneous frequency#ex4_3.sce#2606/CH4/EX4.3/ex4_3.sce#S##88246
+4#Angle Modulation#4.3#Instantaneous frequency#ex4_3.jpg#2606/CH4/EX4.3/ex4_3.jpg#R##88247
+4#Angle Modulation#4.29#Superheterodyne Receiver#ex4_29.sce#2606/CH4/EX4.29/ex4_29.sce#S##88277
+4#Angle Modulation#4.29#Superheterodyne Receiver#ex4_29.jpg#2606/CH4/EX4.29/ex4_29.jpg#R##88278
+4#Angle Modulation#4.23#Multiplication Factor#ex4_23.sce#2606/CH4/EX4.23/ex4_23.sce#S##88275
+4#Angle Modulation#4.23#Multiplication Factor#ex4_23.jpg#2606/CH4/EX4.23/ex4_23.jpg#R##88276
+4#Angle Modulation#4.22#FM generator#ex4_22.sce#2606/CH4/EX4.22/ex4_22.sce#S##88273
+4#Angle Modulation#4.22#FM generator#ex4_22.jpg#2606/CH4/EX4.22/ex4_22.jpg#R##88274
+4#Angle Modulation#4.21#FM Modulator#ex4_21.sce#2606/CH4/EX4.21/ex4_21.sce#S##88271
+4#Angle Modulation#4.21#FM Modulator#ex4_21.jpg#2606/CH4/EX4.21/ex4_21.jpg#R##88272
+4#Angle Modulation#4.20#FM Transmitter#ex4_20.sce#2606/CH4/EX4.20/ex4_20.sce#S##88269
+4#Angle Modulation#4.20#FM Transmitter#ex4_20.jpg#2606/CH4/EX4.20/ex4_20.jpg#R##88270
+4#Angle Modulation#4.19#Frequency Multiplier#ex4_19.sce#2606/CH4/EX4.19/ex4_19.sce#S##88267
+4#Angle Modulation#4.19#Frequency Multiplier#ex4_19.jpg#2606/CH4/EX4.19/ex4_19.jpg#R##88268
+4#Angle Modulation#4.18#Carsons rule#ex4_18.sce#2606/CH4/EX4.18/ex4_18.sce#S##88265
+4#Angle Modulation#4.18#Carsons rule#ex4_18.jpg#2606/CH4/EX4.18/ex4_18.jpg#R##88266
+4#Angle Modulation#4.17#Frequency Modulated#ex4_17.sce#2606/CH4/EX4.17/ex4_17.sce#S##88263
+4#Angle Modulation#4.17#Frequency Modulated#ex4_17.jpg#2606/CH4/EX4.17/ex4_17.jpg#R##88264
+4#Angle Modulation#4.16#Using FM#ex4_16.sce#2606/CH4/EX4.16/ex4_16.sce#S##88261
+4#Angle Modulation#4.16#Using FM#ex4_16.jpg#2606/CH4/EX4.16/ex4_16.jpg#R##88262
+4#Angle Modulation#4.15#changed fm#ex4_15.sce#2606/CH4/EX4.15/ex4_15.sce#S##88259
+4#Angle Modulation#4.15#changed fm#ex4_15.jpg#2606/CH4/EX4.15/ex4_15.jpg#R##88260
+4#Angle Modulation#4.14#Modulation Index#ex4_14.sce#2606/CH4/EX4.14/ex4_14.sce#S##88257
+4#Angle Modulation#4.14#Modulation Index#ex4_14.jpg#2606/CH4/EX4.14/ex4_14.jpg#R##88258
+4#Angle Modulation#4.13#Bandwidth#ex4_13.sce#2606/CH4/EX4.13/ex4_13.sce#S##88255
+4#Angle Modulation#4.13#Bandwidth#ex4_13.jpg#2606/CH4/EX4.13/ex4_13.jpg#R##88256
+3#Amplitude Modulation#3.8#Sine wave in AM broadcasting#ex3_8.sce#2606/CH3/EX3.8/ex3_8.sce#S##90879
+3#Amplitude Modulation#3.8#Sine wave in AM broadcasting#ex3_8.jpg#2606/CH3/EX3.8/ex3_8.jpg#R##90880
+3#Amplitude Modulation#3.7#Efficiency#ex3_7.sce#2606/CH3/EX3.7/ex3_7.sce#S##90877
+3#Amplitude Modulation#3.7#Efficiency#ex3_7.jpg#2606/CH3/EX3.7/ex3_7.jpg#R##90878
+1#Signals and Spectra#1.9#FT of exponential with step function#ex1_9.sce#2606/CH1/EX1.9/ex1_9.sce#S##90871
+1#Signals and Spectra#1.9#FT of exponential with step function#ex1_9.jpg#2606/CH1/EX1.9/ex1_9.jpg#R##90872
+1#Signals and Spectra#1.11#Rectangular Function#ex1_11.sce#2606/CH1/EX1.11/ex1_11.sce#S##90875
+1#Signals and Spectra#1.11#Rectangular Function#ex1_11.jpg#2606/CH1/EX1.11/ex1_11.jpg#R##90876
+1#Signals and Spectra#1.10#Exponential function#ex1_10.sce#2606/CH1/EX1.10/ex1_10.sce#S##94884
+1#Signals and Spectra#1.10#Exponential function#ex1_10.jpg#2606/CH1/EX1.10/ex1_10.jpg#R##90874

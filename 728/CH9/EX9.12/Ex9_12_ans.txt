@@ -1,0 +1,11 @@
+Maximum Gain (in dB)=   
+ 
+    6.0205999  
+ 
+ Noise figure (in dB) =   
+ 
+    1.0763388  
+ 
+ bandwidth =   
+ 
+    1.1313708 

@@ -1,0 +1,11 @@
+W=2.27*10^4;//weight of the airplane(N)
+S=19;//wing area (m^2)
+V=61;//velocity at sea level(m/s)
+D=1.225;//density at sea level(Kg/m^3)
+Cl=2*W/(D*S*V^2)  //lift coefficient
+a=0.08;//lift slope per degree (from example 7.3)
+a1=Cl/a //absolute angle of attack
+DCmcg=-0.0133;//derivative of Cmcg w.r.t absolute angle of attack(from example 7.5)
+Cmo=0.06;//value of moment coefficient at zero absolute angle of attack (from example 7.5)
+Vh=0.34 //tail volume ratio(from example 7.4)
+DClt=0.04;//elevator control efficiency

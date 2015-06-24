@@ -1,0 +1,6 @@
+ 
+ # PROBLEM 8 # 
+
+ Required maximum value of normalized difference is 0.003952. 
+ Refractive index of cladding is 1.543875. 
+ Maximum acceptance angle is 7.920351 degree.

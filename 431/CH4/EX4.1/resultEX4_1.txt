@@ -1,0 +1,4 @@
+ example 4.1   
+Syhchronous speed,Ns=1000 
+speed of rotor with slip 4 percent,Nr is 960 rpm 
+ 

@@ -1,0 +1,7 @@
+ 
+ Example 11.9
+
+ Part A:
+ Initial length of part is 28.68 mm.
+ Part B:
+ Porosity P_d of dried part is 17.69%. 

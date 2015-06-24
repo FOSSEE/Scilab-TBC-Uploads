@@ -1,0 +1,82 @@
+9#Introduction to Probability Random variable and Random  processes#9.4.A#Density Function#additional_ex_4.sce#2951/CH9/EX9.4.A/additional_ex_4.sce#S##106367
+9#Introduction to Probability Random variable and Random  processes#9.3.A#Error Probability#additional_ex_3.sce#2951/CH9/EX9.3.A/additional_ex_3.sce#S##102959
+9#Introduction to Probability Random variable and Random  processes#9.3#Bayes Theoram#ex_9_3.sce#2951/CH9/EX9.3/ex_9_3.sce#S##102956
+9#Introduction to Probability Random variable and Random  processes#9.2.A#Theoram of Total Probability#additional_ex_2.sce#2951/CH9/EX9.2.A/additional_ex_2.sce#S##102958
+9#Introduction to Probability Random variable and Random  processes#9.2#Conditional Probability#ex_9_2.sce#2951/CH9/EX9.2/ex_9_2.sce#S##106366
+9#Introduction to Probability Random variable and Random  processes#9.1.A#Multiplication Theoram#additional_ex_1.sce#2951/CH9/EX9.1.A/additional_ex_1.sce#S##102961
+9#Introduction to Probability Random variable and Random  processes#9.1#Conditional Probability#ex_9_1.sce#2951/CH9/EX9.1/ex_9_1.sce#S##106365
+8#Information theory#8.8.A#Self Information#additional_ex_8.sce#2951/CH8/EX8.8.A/additional_ex_8.sce#S##102967
+8#Information theory#8.7.A#entropy of equiprobable source#additional_ex_7.sce#2951/CH8/EX8.7.A/additional_ex_7.sce#S##106368
+8#Information theory#8.6.A#Rate of source#additional_ex_6.sce#2951/CH8/EX8.6.A/additional_ex_6.sce#S##102965
+8#Information theory#8.5.A#Throughput efficiency#additional_ex_5.sce#2951/CH8/EX8.5.A/additional_ex_5.sce#S##105847
+8#Information theory#8.3.A#Gaussian Channel#additional_ex_3.sce#2951/CH8/EX8.3.A/additional_ex_3.sce#S##102964
+8#Information theory#8.2.A#ShannonFano and Huffman coding#additional_ex_2.sce#2951/CH8/EX8.2.A/additional_ex_2.sce#S##102963
+8#Information theory#8.10.A#SNR#additional_ex_10.sce#2951/CH8/EX8.10.A/additional_ex_10.sce#S##102968
+8#Information theory#8.1.A#Information Rate#additional_ex_1.sce#2951/CH8/EX8.1.A/additional_ex_1.sce#S##102962
+7#Introduction to Digital Communication #7.4.A#Nyquist Bandwidth#additional_ex_4.sce#2951/CH7/EX7.4.A/additional_ex_4.sce#S##102975
+7#Introduction to Digital Communication #7.3.A#Bandwidth and Baud Rate#additional_ex_3.sce#2951/CH7/EX7.3.A/additional_ex_3.sce#S##102974
+7#Introduction to Digital Communication #7.3#Baud Rate and Bandwidth#ex_7_3.sce#2951/CH7/EX7.3/ex_7_3.sce#S##102971
+7#Introduction to Digital Communication #7.2.A#Bandwidth and Baud Rate#additional_ex_2.sce#2951/CH7/EX7.2.A/additional_ex_2.sce#S##102973
+7#Introduction to Digital Communication #7.2#Baud Rate and Bandwidth#ex_7_2.sce#2951/CH7/EX7.2/ex_7_2.sce#S##102970
+7#Introduction to Digital Communication #7.1.A#Baud Rate and Bandwidth#additional_ex_1.sce#2951/CH7/EX7.1.A/additional_ex_1.sce#S##102972
+7#Introduction to Digital Communication #7.1#Baud Rate#ex_7_1.sce#2951/CH7/EX7.1/ex_7_1.sce#S##102969
+6#Noise#6.A#Thermal Noise Power#additional_ex_1.sce#2951/CH6/EX6.A/additional_ex_1.sce#S##102945
+6#Noise#6.9.A#Noise Temperature#additional_ex_9.sce#2951/CH6/EX6.9.A/additional_ex_9.sce#S##102953
+6#Noise#6.8.A#Noise Temperature#additional_ex_8.sce#2951/CH6/EX6.8.A/additional_ex_8.sce#S##102952
+6#Noise#6.7.A#Overall noise figure#additional_ex_7.sce#2951/CH6/EX6.7.A/additional_ex_7.sce#S##102951
+6#Noise#6.6.A#Noise Figure#additional_ex_6.sce#2951/CH6/EX6.6.A/additional_ex_6.sce#S##102950
+6#Noise#6.6#Output SNR#ex6_6.sce#2951/CH6/EX6.6/ex6_6.sce#S##101915
+6#Noise#6.5.A#Output SNR#additional_ex_5.sce#2951/CH6/EX6.5.A/additional_ex_5.sce#S##102949
+6#Noise#6.5#Output SNR#ex6_5.sce#2951/CH6/EX6.5/ex6_5.sce#S##101914
+6#Noise#6.4.A#Output SNR #additional_ex_4.sce#2951/CH6/EX6.4.A/additional_ex_4.sce#S##102948
+6#Noise#6.4#Shot Noise#ex6_4.sce#2951/CH6/EX6.4/ex6_4.sce#S##101913
+6#Noise#6.3.A#Noise Voltage#additional_ex_3.sce#2951/CH6/EX6.3.A/additional_ex_3.sce#S##102947
+6#Noise#6.3#Thermal Noise Voltage#ex6_3.sce#2951/CH6/EX6.3/ex6_3.sce#S##101912
+6#Noise#6.2.A#SNR and Noise Figure#additional_ex_2.sce#2951/CH6/EX6.2.A/additional_ex_2.sce#S##102946
+6#Noise#6.2#Noise voltage#ex6_2.sce#2951/CH6/EX6.2/ex6_2.sce#S##101911
+6#Noise#6.1#Thermal Noise#ex6_1.sce#2951/CH6/EX6.1/ex6_1.sce#S##101910
+5#Pulse Modulation#5.4.A#Bandwidth of PCM system#additional_ex_4.sce#2951/CH5/EX5.4.A/additional_ex_4.sce#S##101909
+5#Pulse Modulation#5.3.A#PCM system#additional_ex_3.sce#2951/CH5/EX5.3.A/additional_ex_3.sce#S##101908
+5#Pulse Modulation#5.2.A#Aliasing Frequency#additional_ex_2.sce#2951/CH5/EX5.2.A/additional_ex_2.sce#S##101907
+5#Pulse Modulation#5.2#Sampling Rate#ex_5_2.sce#2951/CH5/EX5.2/ex_5_2.sce#S##101905
+5#Pulse Modulation#5.1#Sampling#ex_5_1.sce#2951/CH5/EX5.1/ex_5_1.sce#S##101778
+5#Pulse Modulation#1.A#Sample and Hold#additional_ex_1.sce#2951/CH5/EX1.A/additional_ex_1.sce#S##101906
+4#Angle Modulation#4.9.A#Frequency Deviation#additional_ex_9.sce#2951/CH4/EX4.9.A/additional_ex_9.sce#S##103606
+4#Angle Modulation#4.8.A#Balanced Modulator#additional_ex_8.sce#2951/CH4/EX4.8.A/additional_ex_8.sce#S##103605
+4#Angle Modulation#4.7.A#Unmodulated Carrier Power #additional_ex_7.sce#2951/CH4/EX4.7.A/additional_ex_7.sce#S##103604
+4#Angle Modulation#4.7#Phase Modulation#ex_4_7.sce#2951/CH4/EX4.7/ex_4_7.sce#S##106370
+4#Angle Modulation#4.6.A#Carson Bandwidth#additional_ex_6.sce#2951/CH4/EX4.6.A/additional_ex_6.sce#S##103603
+4#Angle Modulation#4.6#Average Power of signal#ex_4_6.sce#2951/CH4/EX4.6/ex_4_6.sce#S##103596
+4#Angle Modulation#4.5.A#side frequencies and Aplitudes#additional_ex_5.sce#2951/CH4/EX4.5.A/additional_ex_5.sce#S##103602
+4#Angle Modulation#4.5#CArson Bandwidth#ex_4_5.sce#2951/CH4/EX4.5/ex_4_5.sce#S##103595
+4#Angle Modulation#4.4.A#Peak Deviation in FM#additional_ex_4.sce#2951/CH4/EX4.4.A/additional_ex_4.sce#S##103601
+4#Angle Modulation#4.4#Frequency Modulation#ex_4_4.sce#2951/CH4/EX4.4/ex_4_4.sce#S##103594
+4#Angle Modulation#4.3.A#BAndwidth of FM#additional_ex_3.sce#2951/CH4/EX4.3.A/additional_ex_3.sce#S##103600
+4#Angle Modulation#4.3#Peak Phase Deviation#ex_4_3.sce#2951/CH4/EX4.3/ex_4_3.sce#S##103593
+4#Angle Modulation#4.2.A#Power in FM system#additional_ex_2.sce#2951/CH4/EX4.2.A/additional_ex_2.sce#S##103599
+4#Angle Modulation#4.2#Peak Frequency Deviation#ex_4_2.sce#2951/CH4/EX4.2/ex_4_2.sce#S##103592
+4#Angle Modulation#4.10.A#Angle Modulation#additional_ex_10.sce#2951/CH4/EX4.10.A/additional_ex_10.sce#S##103607
+4#Angle Modulation#4.1.A#Frequency Deviation#additional_ex_1.sce#2951/CH4/EX4.1.A/additional_ex_1.sce#S##103598
+4#Angle Modulation#4.1#phase and frequency deviation#ex_4_1.sce#2951/CH4/EX4.1/ex_4_1.sce#S##103591
+3#Amplitude Modulation#3.8.A#Sideband Frequencies#additional_ex_8.sce#2951/CH3/EX3.8.A/additional_ex_8.sce#S##106372
+3#Amplitude Modulation#3.7.A#Diagonal Clipping#additional_ex_7.sce#2951/CH3/EX3.7.A/additional_ex_7.sce#S##104273
+3#Amplitude Modulation#3.5.A#Amplitude Modulation#additional_ex_5.sce#2951/CH3/EX3.5.A/additional_ex_5.sce#S##104272
+3#Amplitude Modulation#3.5#Peak Envelope Power and average power#ex3_5.sce#2951/CH3/EX3.5/ex3_5.sce#S##104265
+3#Amplitude Modulation#3.4.A#DSBFC#additional_ex_4.sce#2951/CH3/EX3.4.A/additional_ex_4.sce#S##104271
+3#Amplitude Modulation#3.4#Modulation index and power#ex3_4.sce#2951/CH3/EX3.4/ex3_4.sce#S##104264
+3#Amplitude Modulation#3.3.A#Efficiency of DSBFC#additional_ex_3.sce#2951/CH3/EX3.3.A/additional_ex_3.sce#S##106371
+3#Amplitude Modulation#3.3#Modulation index#ex3_3.sce#2951/CH3/EX3.3/ex3_3.sce#S##104263
+3#Amplitude Modulation#3.2.A#Amplitude Modulation#additional_ex_2.sce#2951/CH3/EX3.2.A/additional_ex_2.sce#S##104268
+3#Amplitude Modulation#3.2.A#Amplitude Modulation#additional_ex_2.jpeg#2951/CH3/EX3.2.A/additional_ex_2.jpeg#R##104269
+3#Amplitude Modulation#3.2#Total power of AM wave#ex3_2.sce#2951/CH3/EX3.2/ex3_2.sce#S##104262
+3#Amplitude Modulation#3.1.A#AM Sidebands#additional_ex_1.sce#2951/CH3/EX3.1.A/additional_ex_1.sce#S##104266
+3#Amplitude Modulation#3.1.A#AM Sidebands#additional_ex_1.jpeg#2951/CH3/EX3.1.A/additional_ex_1.jpeg#R##104267
+3#Amplitude Modulation#3.1#amplitude modulation#ex3_1.sce#2951/CH3/EX3.1/ex3_1.sce#S##104261
+2#Signals An Introduction#2.5#Properties of Impulse Signal#ex2_5.sce#2951/CH2/EX2.5/ex2_5.sce#S##106845
+2#Signals An Introduction#2.3.A#Power and Rms power of Signal#additional_ex_3.sce#2951/CH2/EX2.3.A/additional_ex_3.sce#S##104279
+2#Signals An Introduction#2.3#Energy of Signal#ex2_3.sce#2951/CH2/EX2.3/ex2_3.sce#S##104277
+2#Signals An Introduction#2.2.A#Even and Odd Part of function#additional_ex_2.sce#2951/CH2/EX2.2.A/additional_ex_2.sce#S##104278
+2#Signals An Introduction#2.2#Real and Imaginary part#ex2_2.sce#2951/CH2/EX2.2/ex2_2.sce#S##106844
+2#Signals An Introduction#2.11#Z transform#ex2_11.sce#2951/CH2/EX2.11/ex2_11.sce#S##105849
+2#Signals An Introduction#2.10#Laplace Transform#ex2_10.sce#2951/CH2/EX2.10/ex2_10.sce#S##105848
+2#Signals An Introduction#2.1.A#Periodicity#additional_ex_1.sce#2951/CH2/EX2.1.A/additional_ex_1.sce#S##105850

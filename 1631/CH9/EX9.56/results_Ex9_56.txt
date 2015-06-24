@@ -1,0 +1,3 @@
+Information capacity of telephone is 
+
+ 	C = 33.89 kbps

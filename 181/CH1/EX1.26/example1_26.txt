@@ -1,0 +1,8 @@
+(a)Concentration of free electrons is 5.902e+012 cm^-3
+(b)Concentration of holes is 1.059e+014 cm^-3
+since p_0>n_0 the sample is p-type
+When N_A=N_D=10^15,
+ n_0=p_0 from the neutrality equation
+Thus the germanium sample in this question is intrinsic by compensationWhen N_D=10^16,
+(c)p_0=6.25e+010 cm^-3
+Since n_0>p_0,germanium sample in this case is n-type 

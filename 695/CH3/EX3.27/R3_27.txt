@@ -1,0 +1,14 @@
+ Percentage Resistance drop (in %)=   
+ 
+    0.9090909  
+ 
+ Percentage Reactance drop (in %)=   
+ 
+    4.0909091  
+ 
+ Max Efficiency will occur at   
+ 
+    98.107084  
+ 
+ percent of full load   
+ 

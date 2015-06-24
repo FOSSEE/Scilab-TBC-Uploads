@@ -1,0 +1,8 @@
+Load on first transformer(in VA)=   
+ 
+    471125.74  
+ 
+ Load on second transformer(inVA)=   
+ 
+    281165.53  
+ 

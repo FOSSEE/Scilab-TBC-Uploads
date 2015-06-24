@@ -1,0 +1,13 @@
+Full load current = 874.77 A 
+
+Minimum fault current which will operate the relay = 174.95 A 
+
+Voltage induced in 15 % winding is 571.58 V 
+
+Earth fault current which 15 % winding will cause = 571.58/r 
+
+This current must be equal to minimum fusing current 174.95 A 
+
+Earthing resistance required = 3.27 ohm 
+
+

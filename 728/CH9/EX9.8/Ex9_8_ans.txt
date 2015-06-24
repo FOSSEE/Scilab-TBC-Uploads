@@ -1,0 +1,9 @@
+ 
+ Natural frequency (in GHz) =   
+ 
+    10.  
+ 
+ Critical voltage (in volts) =   
+ 
+    6.6  
+ 

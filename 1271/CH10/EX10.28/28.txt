@@ -1,0 +1,2 @@
+ Magnitude of electric field vector = 1027.190755 v/m.
+ Magnitude of magnetic field vector = 2.725881 A/m.

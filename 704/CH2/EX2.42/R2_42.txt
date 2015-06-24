@@ -1,0 +1,8 @@
+output (in watts)   
+ 
+    26953.  
+ 
+ efficiency of the motor(in %)=   
+ 
+    84.228047  
+ 

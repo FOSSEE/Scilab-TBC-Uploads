@@ -1,0 +1,13 @@
+clear;
+clc;
+Zoc1=-%i*400;Zoc2=-%i*600;Zsc1=%i*267;Zsc2=%i*400;
+A=Zoc1/Zsc1;
+B=Zoc2/Zsc2;
+printf("(a)Since Zoc1/Zsc1 = Zoc2/Zsc2 = %f the results are consistant\n",round(A*10)/10);
+Zi1=sqrt(Zoc1*Zsc1);
+Zi2=sqrt(Zoc2*Zsc2);
+printf("The image impedances are:\n Zi1 = %f ohms\n Zi2 = %f ohms\n",round(Zi1*10)/10,round(Zi2*10)/10);
+C=(1+sqrt(B))/(1-sqrt(B));
+phi=round(atan(imag(C),real(C))*180*10/%pi)/10;
+theta=round(%i*phi*%pi*1000/(2*180))/1000;
+printf("Image transfer constant = j %f",theta/%i);

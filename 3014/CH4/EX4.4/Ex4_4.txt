@@ -1,0 +1,2 @@
+Example 4.4
+ Dipole moment per atom is 2.446065e-39 Coulomb-meter 

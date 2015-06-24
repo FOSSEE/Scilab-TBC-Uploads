@@ -1,0 +1,109 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example9.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            24   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 9    :    Show the effect of creating a mock child shell which accepts and executes commands 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat shell.c      # to open the file emp.lst /* Program: shell.c -- Accepts user input as a command to be executed. Users the strtok library function for parsing command line*/
+#include <stdio.h>
+#include <unistd.h>
+#include <string.h>        /*for strtok*/
+#include <wait.h>
+
+#define BUFSIZE 200         /*Maximum size for the command line */
+#define ARGVSIZE 40         /* Maximum number of arguments*/
+#define DELIM "\n\t\r"       /* White-space delimiters for strtok */
+
+int main(int argc, char **argv) {
+    int i,n ;
+    char buf[BUFSIZE + 1];      /* Stores the entered command line */
+    char *clargs[ARGVSIZE];     /* Stores the arguments strings */
+    int returnval ;             /* Used by wait */
+    for (;;) {                  /* Loop forever */
+         n = 1;
+         write(STDOUT_FILENO, "Shell> ",7);  /*Display a prompt */
+         read(STDIN_FILENO, buf, BUFSIZE);    /* Read user input into buf */
+         if (!strcmp(buf, "exit\n"))
+         exit(0);                 /* Terminate if user enters exit */
+                                  /* Now parse buf to extract the */
+         clargs[0] = strtok(buf, DELIM); /* first word */
+                                   /* Continue parsing until ... */
+         while ((clargs[n] = strtok(NULL, DELIM) != NULL)
+         n++;                      /* ...all words are extracted */
+         
+         clargs[n] = NULL;         /* Set last arguments pointer to NULL */
+         switch(fork()) {
+                        case 0:
+                             if ((execvp(clargs[0], &clargs[0])) < 0)
+                             exit(200);    /* We will check this value later */
+                     default:       /* Int the parent */
+                     wait(&returnval); /*After the command has completed.. */
+                     printf("Exit status of command: %d\n",WEXITSTATUS(returnval));
+                     for (i=0; i<=n ;i++)  /*...initialise both... */
+                     clargs[i] = "\0";     /*the argument array ...*/
+                     for (i=0; i<BUFSIZE+1; i++)
+                     buf[i] = '\0';     /* ... and the buffer that stores command */
+                     }                  /* line, so next command can work with */
+           }                            /* an initialized buffer and argument */
+}                                        /* array */
+
+ $ cc shell.c $ a.out  Shell> grep  joker  /etc/passwd Exit status of command: 1                      #grep returns 1 if pattern not found Shell> pwd                             #Is this the shell builtin?  /users1/home/staff/sumit
+Exit status of command: 0 Shell> ls -lu  /usr/bin/pwd               # Now check the access time of on-disk pwd -r-xr-xr-x      1  root        bin     4360   May  29  01:33    /use/bin/pwd
+Exit status of command: 0        # Disk file has just been accessed!  Shell> exit$_              # Back to parent shell 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

@@ -1,0 +1,7 @@
+ # PROBLEM 14 # 
+Standard formula used 
+  E_k = h*mu - phi 
+
+ Maximum energy is 3.370100e-19 J.
+ Work function is 1.746313 eV.
+ Threshold frequency is 4.220695e+14 Hz. 

@@ -1,0 +1,2 @@
+ Force constant = 8.000000 J/m,
+ Time period = 3.141593 sec

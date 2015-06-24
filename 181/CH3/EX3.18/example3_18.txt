@@ -1,0 +1,2 @@
+ (a)DC output voltage = 51.77 V
+(b)Pulse frequency of output = 100 Hz 

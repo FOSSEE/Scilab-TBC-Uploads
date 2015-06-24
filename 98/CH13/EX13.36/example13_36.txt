@@ -1,0 +1,9 @@
+Total resistance of line = 1.5 ohm 
+
+Full load voltage drop in the line = 180 V 
+
+Terminal voltage of booster = 180 V 
+
+Output of booster = 21.60 kW 
+
+

@@ -1,0 +1,3 @@
+ Critical clearing angle = 1.426 elec rad 
+
+ Critical clearing angle for the system = 0.222 s 

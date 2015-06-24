@@ -1,0 +1,13 @@
+ (a)Wavelength :4680  A 
+ Angle of 1st order Diffraction : 28.0 degrees 
+ Spacing = 9968.7 A
+
+(b)Wavelength :4800  A 
+ Angle of 1st order Diffraction : 28.7 degrees 
+ Spacing = 9995.3 A
+
+(c)Wavelength :5770  A 
+ Angle of 1st order Diffraction : 35.5 degrees 
+ Spacing = 9936.2 A
+
+Mean Spacing = 9966.7 A 

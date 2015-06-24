@@ -1,0 +1,6 @@
+ (a)R = 500 ohm
+(b)Idss = 1.25e-002  A
+(c)Vds = 28 V
+This confirms active region
+(d)Vgs = -2 V
+Vds=2>Vgs-Vp=-1.5+3=1.5 -> Active region 

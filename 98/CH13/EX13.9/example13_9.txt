@@ -1,0 +1,7 @@
+Voltage drop = 5.4 V 
+
+Voltage at a distance 200 m from supply end = 244.6 V 
+
+Power loss in distributor = 911.25 W 
+
+

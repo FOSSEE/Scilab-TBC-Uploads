@@ -1,0 +1,17 @@
+
+ example 3.6   
+ 
+ solution of (a)   
+ average load = 25000kW 
+ energy consumton =219000000kWh
+ annual expenditure is Rs30000000peryear
+ 
+ (b) private steam plant   
+
+ installed capacity is Rs70000 
+ capital investiment is Rs2100000000 
+ interest and depreciation is Rs.315000000 
+ fuel consumption is Rs.131400000.000000 
+ fuel cost is Rs.183960000.000000 per year 
+ wage,repair and other expenses are Rs175200000.000000 per year 
+ total expenditure is Rs6.741600e+008 per year 

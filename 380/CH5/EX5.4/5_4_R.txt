@@ -1,0 +1,11 @@
+ (a) current in each conductor (in Amperes)=   
+ 
+    12.5  
+ 
+ (b) torque developed by machine (in Newton-meter)=   
+ 
+    171.8875  
+ 
+ (c) Power developed (in Watts)=   
+ 
+    31490. 

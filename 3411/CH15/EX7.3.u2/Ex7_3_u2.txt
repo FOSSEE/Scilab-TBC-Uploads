@@ -1,0 +1,2 @@
+The drift velocity is Vp=10000 cm/sec
+The diffusivity of minority carriers is Dp=5.18 cm^2/sec 

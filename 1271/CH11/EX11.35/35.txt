@@ -1,0 +1,2 @@
+ Velocity of electrons beam w.r.t. another electron beam according to Newtonian mechanics is 1.800000 c.
+ Velocity of electrons beam measured by the observer moving with other electron beam = 0.994475 c.

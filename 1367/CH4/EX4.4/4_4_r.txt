@@ -1,0 +1,8 @@
+  
+ a (in Angstorm) =    
+ 
+    3.6147299  
+ 
+ Density of Copper (in kg/cu m)   
+ 
+    8934.4289 

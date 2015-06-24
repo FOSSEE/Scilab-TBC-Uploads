@@ -1,0 +1,4 @@
+ (a)Calcite crystal : 
+  Phase difference is 9.541 radians 
+(a)Quartz crystal : 
+  Phase difference is 2.247 radians 

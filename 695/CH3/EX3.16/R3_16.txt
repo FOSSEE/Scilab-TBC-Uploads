@@ -1,0 +1,15 @@
+ (a)Efficiency of transformer at full load and at unity power factor (in %)=   
+ 
+    98.741052  
+ 
+ (b)Efficiency of transformer at full load and at 0.8 power factor (in %)=   
+ 
+    98.431252  
+ 
+ (a)Efficiency of transformer at 75% of load and at unity power factor (in %)=   
+ 
+    98.781692  
+ 
+ (b)Efficiency of transformer at 75% of load and at 0.8 power factor (in %)=   
+ 
+    98.48174  

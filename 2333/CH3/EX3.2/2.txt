@@ -1,0 +1,5 @@
+ # PROBLEM 2 # 
+ Standard formula used 
+ lambda = e*sin(theta)  
+
+ Calculation of wavelength 5600 angstrom.

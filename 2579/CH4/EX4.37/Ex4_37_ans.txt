@@ -1,0 +1,2 @@
+ The gain of the horn antenna = 16.753992 dB
+ The half power band width = 4.492661 degree

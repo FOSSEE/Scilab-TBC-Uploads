@@ -1,0 +1,6 @@
+11.for 1 st coil,
+   voltmeter indication=2 V
+   Q=20
+   for 2 st coil,
+   voltmeter indication=1 V
+   Q=10

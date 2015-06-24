@@ -1,0 +1,192 @@
+1#semiconductor basics#1.1#Different diode models#ex1_1.sce#61/CH1/EX1.1/ex1_1.sce#S##165
+2#diode applications#2.1#Average value half wave rectifier#ex2_1.sce#61/CH2/EX2.1/ex2_1.sce#S##166
+2#diode applications#2.2.a#half wave rectifier#ex2_2a.jpg#61/CH2/EX2.2.a/ex2_2a.jpg#R##168
+2#diode applications#2.2.a#half wave rectifier#ex2_2a.sce#61/CH2/EX2.2.a/ex2_2a.sce#S##167
+2#diode applications#2.2.b#half wave rectifier#ex2_2b.JPG#61/CH2/EX2.2.b/ex2_2b.JPG#R##170
+2#diode applications#2.2.b#half wave rectifier#ex2_2b.sce#61/CH2/EX2.2.b/ex2_2b.sce#S##169
+2#diode applications#2.3#Rectifier peak value#ex2_3.sce#61/CH2/EX2.3/ex2_3.sce#S##171
+2#diode applications#2.4#Average value full wave rectifier#ex2_4.sce#61/CH2/EX2.4/ex2_4.sce#S##172
+2#diode applications#2.5#PIV full wave#ex2_5.jpg#61/CH2/EX2.5/ex2_5.jpg#R##174
+2#diode applications#2.5#PIV full wave#ex2_5.sce#61/CH2/EX2.5/ex2_5.sce#S##173
+2#diode applications#2.6#Bridge Rectifier#ex2_6.sce#61/CH2/EX2.6/ex2_6.sce#S##175
+2#diode applications#2.7#Ripple Bridge rectifier#ex2_7.sce#61/CH2/EX2.7/ex2_7.sce#S##176
+2#diode applications#2.8#Voltage Regulator#ex2_8.sce#61/CH2/EX2.8/ex2_8.sce#S##177
+2#diode applications#2.9#Load regulation percentage#ex2_9.sce#61/CH2/EX2.9/ex2_9.sce#S##178
+2#diode applications#2.10#Negative diode limiter#ex2_10.jpg#61/CH2/EX2.10/ex2_10.jpg#R##180
+2#diode applications#2.10#Negative diode limiter#ex2_10.sce#61/CH2/EX2.10/ex2_10.sce#S##179
+2#diode applications#2.11#Posiive Negative Limiter#ex2_11.jpg#61/CH2/EX2.11/ex2_11.jpg#R##182
+2#diode applications#2.11#Posiive Negative Limiter#ex2_11.sce#61/CH2/EX2.11/ex2_11.sce#S##181
+2#diode applications#2.12#Positive diode limiter#ex2_12.jpg#61/CH2/EX2.12/ex2_12.jpg#R##393
+2#diode applications#2.12#Positive diode limiter#ex2_12.sce#61/CH2/EX2.12/ex2_12.sce#S##392
+2#diode applications#2.13#Negative Clamper#ex2_13.jpg#61/CH2/EX2.13/ex2_13.jpg#R##186
+2#diode applications#2.13#Negative Clamper#ex2_13.sce#61/CH2/EX2.13/ex2_13.sce#S##185
+3#Special purpose diodes#3.1#Zener impedance#ex3_1.sce#61/CH3/EX3.1/ex3_1.sce#S##190
+3#Special purpose diodes#3.2#Zener Voltage#ex3_2.sce#61/CH3/EX3.2/ex3_2.sce#S##389
+3#Special purpose diodes#3.3#Temperature coefficient#ex3_3.sce#61/CH3/EX3.3/ex3_3.sce#S##192
+3#Special purpose diodes#3.4#Zener power dissipation#ex3_4.sce#61/CH3/EX3.4/ex3_4.sce#S##193
+3#Special purpose diodes#3.5#Zener voltage regulator#ex3_5.sce#61/CH3/EX3.5/ex3_5.sce#S##390
+3#Special purpose diodes#3.6#Regulation Variable load#ex3_6.sce#61/CH3/EX3.6/ex3_6.sce#S##391
+3#Special purpose diodes#3.7#Zener regulation#ex3_7.sce#61/CH3/EX3.7/ex3_7.sce#S##196
+3#Special purpose diodes#3.8#Zener limiting#ex3_8.jpg#61/CH3/EX3.8/ex3_8.jpg#R##198
+3#Special purpose diodes#3.8#Zener limiting#ex3_8.sce#61/CH3/EX3.8/ex3_8.sce#S##197
+4#Bipolar Junction Transistors#4.1#DC beta#ex4_1.sce#61/CH4/EX4.1/ex4_1.sce#S##203
+4#Bipolar Junction Transistors#4.2#Current Voltage Analysis#ex4_2.sce#61/CH4/EX4.2/ex4_2.sce#S##200
+4#Bipolar Junction Transistors#4.3#Collector characteristic curve#ex4_3.sce#61/CH4/EX4.3/ex4_3.sce#S##201
+4#Bipolar Junction Transistors#4.4#DC loadline#ex4_4.sce#61/CH4/EX4.4/ex4_4.sce#S##202
+4#Bipolar Junction Transistors#4.5#Transistor rating#ex4_5.sce#61/CH4/EX4.5/ex4_5.sce#S##204
+4#Bipolar Junction Transistors#4.6#Maximum Transistor Rating#ex4_6.sce#61/CH4/EX4.6/ex4_6.sce#S##205
+4#Bipolar Junction Transistors#4.7#Derating Power maximum#ex4_7.sce#61/CH4/EX4.7/ex4_7.sce#S##206
+4#Bipolar Junction Transistors#4.8#Transistor amplification#ex4_8.sce#61/CH4/EX4.8/ex4_8.sce#S##207
+4#Bipolar Junction Transistors#4.9#Collector in saturation#ex4_9.sce#61/CH4/EX4.9/ex4_9.sce#S##208
+5#Transistor Bias Circuits#5.1#DC bias#ex5_1.sce#61/CH5/EX5.1/ex5_1.sce#S##209
+5#Transistor Bias Circuits#5.2#Input resistance#ex5_2.sce#61/CH5/EX5.2/ex5_2.sce#S##210
+5#Transistor Bias Circuits#5.3#Voltage divider bias#ex5_3.sce#61/CH5/EX5.3/ex5_3.sce#S##211
+5#Transistor Bias Circuits#5.4#Voltage bias PNP#ex5_4.sce#61/CH5/EX5.4/ex5_4.sce#S##212
+5#Transistor Bias Circuits#5.5#PNP Transistor#ex5_5.sce#61/CH5/EX5.5/ex5_5.sce#S##213
+5#Transistor Bias Circuits#5.6#Qpoint base bias#ex5_6.sce#61/CH5/EX5.6/ex5_6.sce#S##214
+5#Transistor Bias Circuits#5.7#Emitter bias#ex5_7.sce#61/CH5/EX5.7/ex5_7.sce#S##215
+5#Transistor Bias Circuits#5.8#Q point#ex5_8.sce#61/CH5/EX5.8/ex5_8.sce#S##216
+6#BJT Amplifiers#6.1#Linear amplifier#ex6_1.sce#61/CH6/EX6.1/ex6_1.sce#S##217
+6#BJT Amplifiers#6.2#AC Emitter resistance#ex6_2.sce#61/CH6/EX6.2/ex6_2.sce#S##218
+6#BJT Amplifiers#6.3#Base voltage#ex6_3.sce#61/CH6/EX6.3/ex6_3.sce#S##219
+6#BJT Amplifiers#6.4#Emitter bypass capacitor#ex6_4.sce#61/CH6/EX6.4/ex6_4.sce#S##220
+6#BJT Amplifiers#6.5#Effect bypass capacitor#ex6_5.sce#61/CH6/EX6.5/ex6_5.sce#S##221
+6#BJT Amplifiers#6.6#Gain with load#ex6_6.sce#61/CH6/EX6.6/ex6_6.sce#S##222
+6#BJT Amplifiers#6.7#Gain swamped amplifier#ex6_7.sce#61/CH6/EX6.7/ex6_7.sce#S##223
+6#BJT Amplifiers#6.8#Common emitter amplifier#ex6_8.jpg#61/CH6/EX6.8/ex6_8.jpg#R##225
+6#BJT Amplifiers#6.8#Common emitter amplifier#ex6_8.sce#61/CH6/EX6.8/ex6_8.sce#S##224
+6#BJT Amplifiers#6.9#Current gain#ex6_9.sce#61/CH6/EX6.9/ex6_9.sce#S##226
+6#BJT Amplifiers#6.10#Darlington emitter follower#ex6_10.sce#61/CH6/EX6.10/ex6_10.sce#S##227
+6#BJT Amplifiers#6.11#Common base amplifier#ex6_11.sce#61/CH6/EX6.11/ex6_11.sce#S##228
+6#BJT Amplifiers#6.12#Voltage gain decibel#ex6_12.sce#61/CH6/EX6.12/ex6_12.sce#S##229
+7#Field Effect Transistors#7.1#cutoff FET#ex7_1.sce#61/CH7/EX7.1/ex7_1.sce#S##230
+7#Field Effect Transistors#7.2#Drain current#ex7_2.sce#61/CH7/EX7.2/ex7_2.sce#S##231
+7#Field Effect Transistors#7.3#JFET current voltage#value_of_I_D.sci#61/DEPENDENCIES/value_of_I_D.sci#D#Drain current value#4
+7#Field Effect Transistors#7.3#JFET current voltage#ex7_3.sce#61/CH7/EX7.3/ex7_3.sce#S##232
+7#Field Effect Transistors#7.4#JFET transconductance#value_of_I_D.sci#61/DEPENDENCIES/value_of_I_D.sci#D#Drain current value#4
+7#Field Effect Transistors#7.4#JFET transconductance#ex7_4.sce#61/CH7/EX7.4/ex7_4.sce#S##234
+7#Field Effect Transistors#7.5#JFET input resistance#ex7_5.sce#61/CH7/EX7.5/ex7_5.sce#S##394
+7#Field Effect Transistors#7.6#Self bias#ex7_6.sce#61/CH7/EX7.6/ex7_6.sce#S##236
+7#Field Effect Transistors#7.7#Q point JFET#ex7_7.sce#61/CH7/EX7.7/ex7_7.sce#S##237
+7#Field Effect Transistors#7.8#Self bias Q point#value_of_I_D.sci#61/DEPENDENCIES/value_of_I_D.sci#D#Drain current value#4
+7#Field Effect Transistors#7.8#Self bias Q point#ex7_8.sce#61/CH7/EX7.8/ex7_8.sce#S##238
+7#Field Effect Transistors#7.9#Midpoint bias#ex7_9.sce#61/CH7/EX7.9/ex7_9.sce#S##239
+7#Field Effect Transistors#7.10#Graphical analysis#ex7_10.sce#61/CH7/EX7.10/ex7_10.sce#S##240
+7#Field Effect Transistors#7.11#Voltage Divider bias#ex7_11.sce#61/CH7/EX7.11/ex7_11.sce#S##241
+7#Field Effect Transistors#7.12#Graph voltage divider#ex7_12.sce#61/CH7/EX7.12/ex7_12.sce#S##242
+7#Field Effect Transistors#7.13#DMOSFET#value_of_I_D.sci#61/DEPENDENCIES/value_of_I_D.sci#D#Drain current value#4
+7#Field Effect Transistors#7.13#DMOSFET#ex7_13.sce#61/CH7/EX7.13/ex7_13.sce#S##243
+7#Field Effect Transistors#7.14#EMOSFET#value_of_K.sci#61/DEPENDENCIES/value_of_K.sci#D#value of K#5
+7#Field Effect Transistors#7.14#EMOSFET#ex7_14.sce#61/CH7/EX7.14/ex7_14.sce#S##244
+7#Field Effect Transistors#7.15#DMOSFET bias#ex7_15.sce#61/CH7/EX7.15/ex7_15.sce#S##245
+7#Field Effect Transistors#7.16#EMOSFET bias#value_of_K.sci#61/DEPENDENCIES/value_of_K.sci#D#value of K#5
+7#Field Effect Transistors#7.16#EMOSFET bias#ex7_16.sce#61/CH7/EX7.16/ex7_16.sce#S##246
+7#Field Effect Transistors#7.17#EMOSFET drain current#ex7_17.sce#61/CH7/EX7.17/ex7_17.sce#S##247
+8#FET Amplifiers#8.1#Voltage gain#ex8_1.sce#61/CH8/EX8.1/ex8_1.sce#S##248
+8#FET Amplifiers#8.2#Rds effect#ex8_2.sce#61/CH8/EX8.2/ex8_2.sce#S##249
+8#FET Amplifiers#8.3#External source resistance#ex8_3.sce#61/CH8/EX8.3/ex8_3.sce#S##250
+8#FET Amplifiers#8.4#Unloaded amplifier#ex8_4.sce#61/CH8/EX8.4/ex8_4.sce#S##251
+8#FET Amplifiers#8.5#AC load effect#ex8_5.sce#61/CH8/EX8.5/ex8_5.sce#S##252
+8#FET Amplifiers#8.6#Input resistance#ex8_6.sce#61/CH8/EX8.6/ex8_6.sce#S##253
+8#FET Amplifiers#8.7#DMOSFET amplifier#ex8_7.sce#61/CH8/EX8.7/ex8_7.sce#S##254
+8#FET Amplifiers#8.8#MOSFET Q points#ex8_8.SCE#61/CH8/EX8.8/ex8_8.SCE#S##255
+8#FET Amplifiers#8.9#EMOSFET amplifier#value_of_K.sci#61/DEPENDENCIES/value_of_K.sci#D#value of K#5
+8#FET Amplifiers#8.9#EMOSFET amplifier#ex8_9.sce#61/CH8/EX8.9/ex8_9.sce#S##398
+8#FET Amplifiers#8.10#Common gate amplifier#ex8_10.sce#61/CH8/EX8.10/ex8_10.sce#S##257
+9#Power Amplifiers#9.1#classA power amplifier#ex9_1.sce#61/CH9/EX9.1/ex9_1.sce#S##258
+9#Power Amplifiers#9.2#class A efficiency#ex9_2.sce#61/CH9/EX9.2/ex9_2.sce#S##259
+9#Power Amplifiers#9.3#class AB pushpull#ex9_3.sce#61/CH9/EX9.3/ex9_3.sce#S##260
+9#Power Amplifiers#9.4#Single supply pushpull#ex9_4.sce#61/CH9/EX9.4/ex9_4.sce#S##261
+9#Power Amplifiers#9.5#Power of amplifier#ex9_5.sce#61/CH9/EX9.5/ex9_5.sce#S##262
+9#Power Amplifiers#9.6#MOSFET pushpull amplifier#ex9_6.sce#61/CH9/EX9.6/ex9_6.sce#S##263
+9#Power Amplifiers#9.7#class C amplifier#ex9_7.sce#61/CH9/EX9.7/ex9_7.sce#S##264
+9#Power Amplifiers#9.8#class C efficiency#ex9_8.sce#61/CH9/EX9.8/ex9_8.sce#S##265
+10#Amplifier Frequency Response#10.1#Gain in decibel#gain_in_decibel_power.sci#61/DEPENDENCIES/gain_in_decibel_power.sci#D#Power gain in decibel#6
+10#Amplifier Frequency Response#10.1#Gain in decibel#gain_in_decibel_voltage.sci#61/DEPENDENCIES/gain_in_decibel_voltage.sci#D#Voltage gain in decibel#7
+10#Amplifier Frequency Response#10.1#Gain in decibel#ex10_1.sce#61/CH10/EX10.1/ex10_1.sce#S##458
+10#Amplifier Frequency Response#10.2#Critical frequency#ex10_2.sce#61/CH10/EX10.2/ex10_2.sce#S##267
+10#Amplifier Frequency Response#10.3#Lower critical frequency#ex10_3.sce#61/CH10/EX10.3/ex10_3.sce#S##268
+10#Amplifier Frequency Response#10.4#Voltage gains#ex10_4.sce#61/CH10/EX10.4/ex10_4.sce#S##269
+10#Amplifier Frequency Response#10.5#Output RC circuit#ex10_5.sce#61/CH10/EX10.5/ex10_5.sce#S##270
+10#Amplifier Frequency Response#10.6#Bypass RC circuit BJT#ex10_6.sce#61/CH10/EX10.6/ex10_6.sce#S##271
+10#Amplifier Frequency Response#10.7#input RC circuit FET#ex10_7.sce#61/CH10/EX10.7/ex10_7.sce#S##272
+10#Amplifier Frequency Response#10.8#Low frequency response FET#ex10_8.sce#61/CH10/EX10.8/ex10_8.sce#S##273
+10#Amplifier Frequency Response#10.9#Low frequency response BJT#ex10_9.sce#61/CH10/EX10.9/ex10_9.sce#S##274
+10#Amplifier Frequency Response#10.10#input RC circuit BJT#ex10_10.sce#61/CH10/EX10.10/ex10_10.sce#S##275
+10#Amplifier Frequency Response#10.11#Critical frequency BJT output#ex10_11.sce#61/CH10/EX10.11/ex10_11.sce#S##276
+10#Amplifier Frequency Response#10.12#FET capacitors#ex10_12.sce#61/CH10/EX10.12/ex10_12.sce#S##277
+10#Amplifier Frequency Response#10.13#Critical frequency FET input#ex10_13.sce#61/CH10/EX10.13/ex10_13.sce#S##278
+10#Amplifier Frequency Response#10.14#Critical frequency FET input#ex10_14.sce#61/CH10/EX10.14/ex10_14.sce#S##279
+10#Amplifier Frequency Response#10.15#Bandwidth#ex10_15.sce#61/CH10/EX10.15/ex10_15.sce#S##280
+10#Amplifier Frequency Response#10.16#Bandwidth transistor#ex10_16.sce#61/CH10/EX10.16/ex10_16.sce#S##281
+10#Amplifier Frequency Response#10.17#Bandwidth 2stage amplifier#ex10_17.sce#61/CH10/EX10.17/ex10_17.sce#S##282
+10#Amplifier Frequency Response#10.18#Bandwidth 2stage amplifier#ex10_18.sce#61/CH10/EX10.18/ex10_18.sce#S##283
+11#Thyristors and Other Devices#11.1#Four layer diode#ex11_1.sce#61/CH11/EX11.1/ex11_1.sce#S##284
+11#Thyristors and Other Devices#11.2#Anode current#ex11_2.sce#61/CH11/EX11.2/ex11_2.sce#S##285
+11#Thyristors and Other Devices#11.3#Unijunction transistor#ex11_3.sce#61/CH11/EX11.3/ex11_3.sce#S##286
+11#Thyristors and Other Devices#11.4#turn on off UJT#ex11_4.sce#61/CH11/EX11.4/ex11_4.sce#S##287
+11#Thyristors and Other Devices#11.5#Critical angle#ex11_5.sce#61/CH11/EX11.5/ex11_5.sce#S##288
+12#The Operational Amplifier#12.1#CMRR opamp#ex12_1.sce#61/CH12/EX12.1/ex12_1.sce#S##289
+12#The Operational Amplifier#12.2#Slew rate#ex12_2.sce#61/CH12/EX12.2/ex12_2.sce#S##290
+12#The Operational Amplifier#12.3#Non inverting amplifier#ex12_3.sce#61/CH12/EX12.3/ex12_3.sce#S##291
+12#The Operational Amplifier#12.4#Inverting amplifier#ex12_4.sce#61/CH12/EX12.4/ex12_4.sce#S##292
+12#The Operational Amplifier#12.5#Impedance noninverting amplifier#ex12_5.sce#61/CH12/EX12.5/ex12_5.sce#S##293
+12#The Operational Amplifier#12.6#Voltage follower impedance#ex12_6.sce#61/CH12/EX12.6/ex12_6.sce#S##294
+12#The Operational Amplifier#12.7#Impedance inverting amplifier#ex12_7.sce#61/CH12/EX12.7/ex12_7.sce#S##295
+12#The Operational Amplifier#12.8#Open Loop gain#open_loop_gain.sci#61/DEPENDENCIES/open_loop_gain.sci#D#Open loop gain#8
+12#The Operational Amplifier#12.8#Open Loop gain#ex12_8.sce#61/CH12/EX12.8/ex12_8.sce#S##296
+12#The Operational Amplifier#12.9#phase RC lag#phase_shift.sci#61/DEPENDENCIES/phase_shift.sci#D#Phase shift in degrees#9
+12#The Operational Amplifier#12.9#phase RC lag#ex12_9.sce#61/CH12/EX12.9/ex12_9.sce#S##297
+12#The Operational Amplifier#12.10#Gain and phase lag#phase_shift.sci#61/DEPENDENCIES/phase_shift.sci#D#Phase shift in degrees#9
+12#The Operational Amplifier#12.10#Gain and phase lag#ex12_10.sce#61/CH12/EX12.10/ex12_10.sce#S##298
+12#The Operational Amplifier#12.11#Closed loop bandwidth#ex12_11.sce#61/CH12/EX12.11/ex12_11.sce#S##299
+12#The Operational Amplifier#12.12#Amplifier bandwidth#ex12_12.sce#61/CH12/EX12.12/ex12_12.sce#S##300
+13#Basic Opamp Circuits#13.1#Comparator#ex13_1.jpg#61/CH13/EX13.1/ex13_1.jpg#R##302
+13#Basic Opamp Circuits#13.1#Comparator#ex13_1.sce#61/CH13/EX13.1/ex13_1.sce#S##301
+13#Basic Opamp Circuits#13.2#Trigger points#ex13_2.sce#61/CH13/EX13.2/ex13_2.sce#S##303
+13#Basic Opamp Circuits#13.3#Comparator hysteris Zener bounding#ex13_3.jpg#61/CH13/EX13.3/ex13_3.jpg#R##305
+13#Basic Opamp Circuits#13.3#Comparator hysteris Zener bounding#ex13_3.sce#61/CH13/EX13.3/ex13_3.sce#S##304
+13#Basic Opamp Circuits#13.4#Summing amplifier unity gain#ex13_4.sce#61/CH13/EX13.4/ex13_4.sce#S##306
+13#Basic Opamp Circuits#13.5#Summing amplifier#ex13_5.sce#61/CH13/EX13.5/ex13_5.sce#S##307
+13#Basic Opamp Circuits#13.6#Averaging amplifier#ex13_6.sce#61/CH13/EX13.6/ex13_6.sce#S##308
+13#Basic Opamp Circuits#13.7#Scaling adder#ex13_7.sce#61/CH13/EX13.7/ex13_7.sce#S##466
+13#Basic Opamp Circuits#13.8#Opamp integrator#ex13_8.jpg#61/CH13/EX13.8/ex13_8.jpg#R##311
+13#Basic Opamp Circuits#13.8#Opamp integrator#ex13_8.sce#61/CH13/EX13.8/ex13_8.sce#S##310
+13#Basic Opamp Circuits#13.9#Opamp differentiator#ex13_9.jpg#61/CH13/EX13.9/ex13_9.jpg#R##313
+13#Basic Opamp Circuits#13.9#Opamp differentiator#ex13_9.sce#61/CH13/EX13.9/ex13_9.sce#S##312
+14#Special Purpose Opamp Circuits#14.1#Gain setting resistor#ex14_1.sce#61/CH14/EX14.1/ex14_1.sce#S##314
+14#Special Purpose Opamp Circuits#14.2#Voltage gain Instrumentation amplifier#ex14_2.sce#61/CH14/EX14.2/ex14_2.sce#S##317
+14#Special Purpose Opamp Circuits#14.3#Isolation amplifier#ex14_3.sce#61/CH14/EX14.3/ex14_3.sce#S##316
+14#Special Purpose Opamp Circuits#14.4#Voltage gain Isolation amplifier#ex14_4.sce#61/CH14/EX14.4/ex14_4.sce#S##318
+14#Special Purpose Opamp Circuits#14.5#Transconductance OTA#ex14_5.sce#61/CH14/EX14.5/ex14_5.sce#S##319
+14#Special Purpose Opamp Circuits#14.6#Voltage gain OTA#ex14_6.sce#61/CH14/EX14.6/ex14_6.sce#S##470
+14#Special Purpose Opamp Circuits#14.7#Output OTA amplitude modulator#ex14_7.jpg#61/CH14/EX14.7/ex14_7.jpg#R##332
+14#Special Purpose Opamp Circuits#14.7#Output OTA amplitude modulator#ex14_7.sce#61/CH14/EX14.7/ex14_7.sce#S##331
+14#Special Purpose Opamp Circuits#14.8#Output log amplifier#ex14_8.sce#61/CH14/EX14.8/ex14_8.sce#S##333
+14#Special Purpose Opamp Circuits#14.9#Transistor log amplifier#ex14_9.sce#61/CH14/EX14.9/ex14_9.sce#S##334
+14#Special Purpose Opamp Circuits#14.10#Antilog amplifier#ex14_10.sce#61/CH14/EX14.10/ex14_10.sce#S##335
+15#Active Filters#15.1#Band pass filter#ex15_1.sce#61/CH15/EX15.1/ex15_1.sce#S##336
+15#Active Filters#15.2#Butterworth response#ex15_2.sce#61/CH15/EX15.2/ex15_2.sce#S##337
+15#Active Filters#15.3#Sallen Key lowpass filter#ex15_3.sce#61/CH15/EX15.3/ex15_3.sce#S##338
+15#Active Filters#15.4#4 pole filter#ex15_4.sce#61/CH15/EX15.4/ex15_4.sce#S##339
+15#Active Filters#15.5#Sallen Key highpass filter#ex15_5.sce#61/CH15/EX15.5/ex15_5.sce#S##340
+15#Active Filters#15.6#Cascaded filter#ex15_6.sce#61/CH15/EX15.6/ex15_6.sce#S##341
+15#Active Filters#15.7#State variable filter#ex15_7.sce#61/CH15/EX15.7/ex15_7.sce#S##342
+15#Active Filters#15.8#Band stop filter#ex15_8.sce#61/CH15/EX15.8/ex15_8.sce#S##343
+16#Oscillators#16.1#Wien bridge oscillator#ex16_1.sce#61/CH16/EX16.1/ex16_1.sce#S##344
+16#Oscillators#16.2#Phase shift oscillator#ex16_2.sce#61/CH16/EX16.2/ex16_2.sce#S##345
+16#Oscillators#16.3#FET Colpitts oscillator#ex16_3.sce#61/CH16/EX16.3/ex16_3.sce#S##346
+16#Oscillators#16.4#Triangular wave oscillator#ex16_4.sce#61/CH16/EX16.4/ex16_4.sce#S##347
+16#Oscillators#16.5#Sawtooth VCO#ex16_5.jpg#61/CH16/EX16.5/ex16_5.jpg#R##349
+16#Oscillators#16.5#Sawtooth VCO#ex16_5.sce#61/CH16/EX16.5/ex16_5.sce#S##348
+16#Oscillators#16.6#555 timer#ex16_6.sce#61/CH16/EX16.6/ex16_6.sce#S##350
+17#Voltage Regulators#17.1#Percentage line regulation#ex17_1.sce#61/CH17/EX17.1/ex17_1.sce#S##351
+17#Voltage Regulators#17.2#Load regulation percentage#ex17_2.sce#61/CH17/EX17.2/ex17_2.sce#S##475
+17#Voltage Regulators#17.3#Series regulator#ex17_3.sce#61/CH17/EX17.3/ex17_3.sce#S##353
+17#Voltage Regulators#17.4#Overload protection#ex17_4.sce#61/CH17/EX17.4/ex17_4.sce#S##354
+17#Voltage Regulators#17.5#Shunt regulator#ex17_5.sce#61/CH17/EX17.5/ex17_5.sce#S##355
+17#Voltage Regulators#17.6#Positive linear voltage regulator#ex17_6.sce#61/CH17/EX17.6/ex17_6.sce#S##356
+17#Voltage Regulators#17.7#External pass filter#ex17_7.sce#61/CH17/EX17.7/ex17_7.sce#S##357
+17#Voltage Regulators#17.8#Power rating 7824#ex17_8.sce#61/CH17/EX17.8/ex17_8.sce#S##359
+17#Voltage Regulators#17.9#Current regulator#ex17_9.sce#61/CH17/EX17.9/ex17_9.sce#S##360
+18#Programmable Analog Arrays#18.1#Switching capacitor#ex18_1.sce#61/CH18/EX18.1/ex18_1.sce#S##573

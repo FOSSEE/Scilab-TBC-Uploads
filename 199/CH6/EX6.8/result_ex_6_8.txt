@@ -1,0 +1,1 @@
+* Change in resistance is = 0.1 V

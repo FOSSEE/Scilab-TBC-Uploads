@@ -1,0 +1,15 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Shell1.sci',-1)
+ 
+ The lines of code for Example 14.1   
+#!/bin/sh
+# script.sh
+echo Today date : `date` 
+echo This month calendar : 
+cal `date +%m%C%y`
+ echo My Shell $Shell 
+ 
+-->diary(0)

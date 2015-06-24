@@ -1,0 +1,107 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example13.sci')
+ 
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 17-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            14   
+ 
+ Chapter Title                         :                                Essential Shell Programming   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 12    :                                      Show the use of set command and the here documenting 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat limitlist      # to open the file emp.lst 01|accounts|6213
+02|admin|5423
+03|marketing|6521
+04|personnel|2365
+05|production|9876
+06|sales|1006
+
+# Enter the name of the shellscript file whichever you desire  
+
+ #! /bin/sh
+# valcode.sh : Uses a here document to look up for a code list
+#
+IFS="|"     # Reset field seperator
+while echo "Enter department code  : \c":do
+read dcode
+set -- `grep "^$dcode" << limit
+01|accounts|6213
+02|admin|5423
+03|marketing|6521
+04|personnel|2365
+05|production|69876
+06|sales|1006
+limit`
+              # Closing ` marks end of standard input
+   case $# in
+            3) echo "Department name     : $2\nEmp-id of head of dept : $3\n"
+               shift 3;;    #Flush out the positional parameters
+            *) echo "Invalid code"  ; continue
+esac
+done
+ 
+# type the following command in the command line interpreter as soon as it appears 
+       "  h.sh     " [COMMANDLINE ARGUMENTS][ENTER]
+
+
+$ h.sh  [COMMANDLINE ARGUMENTS]             #to execute the perlscript 
+
+
+   ---------------->Executing ShellScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

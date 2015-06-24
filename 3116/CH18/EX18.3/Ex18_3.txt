@@ -1,0 +1,4 @@
+  Design Example 18.1
+
+ Replacing 18.1% of Fe++ with Mn++ would produce 
+ the required saturation magnetisation of 5.25e+05.

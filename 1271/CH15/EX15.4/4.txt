@@ -1,0 +1,5 @@
+ # PROBLEM 4 # 
+Standard formula used 
+ del_x*del_p = h/(4*pi) 
+
+ Uncertainty in position is 7.957747 micrometre.

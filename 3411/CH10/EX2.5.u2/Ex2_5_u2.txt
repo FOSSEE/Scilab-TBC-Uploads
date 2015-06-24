@@ -1,0 +1,5 @@
+Available number of energy states is  
+    1.490D+20  
+Average energy interval is 
+    6.709D-23  
+eV 

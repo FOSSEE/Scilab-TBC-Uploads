@@ -1,0 +1,32 @@
+//find
+clc
+//solution
+//given
+D=400//mm
+L=600//mm
+r=300//mm
+pm=0.3//N/mm^2
+p=2.5//N/mm^2
+W=50//kN
+//T1+T2=6.5//kN=P
+P=6.5
+q=(%pi/180)*pb
+//l/r=5
+Fp=(%pi/4)*D^2*p//N
+b=2*D
+b1=b/2
+b2=b/2
+H1=Fp*b1/b/1000//kN
+H2=Fp*b2/b/1000//kN
+//V2=W*c1/c
+//c1=c2=c/2
+V2=W/2
+V2=W/2
+H2b=P/2
+H3b=P/2
+//let dc be crankpin dia,lc be length 
+fb=75//N/mm^2
+//Mc=(%pi/32)*dc^3*fb=7.364*10^-3*dc^3
+Mc1=H1*b2
+dc=(Mc1/(7.364*10^-3))^(1/3)
+printf("dia of crankpin is,%f mm\n",dc)

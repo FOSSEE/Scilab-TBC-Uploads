@@ -1,0 +1,3 @@
+ The array length = 7.500000*y, where y is wavelength
+ The beamwidth of the major lobe = 59.179186 degree
+ The beamwidth for a broadside array = 7.640000 degree

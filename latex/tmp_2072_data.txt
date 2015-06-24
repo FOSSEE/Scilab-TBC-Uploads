@@ -1,0 +1,111 @@
+30#Nuclear Energy and Elementary Particles#30.3#deuterium deuterium reaction#EX30_3.sce#2072/CH30/EX30.3/EX30_3.sce#S##102634
+30#Nuclear Energy and Elementary Particles#30.2#total energy released#EX30_2.sce#2072/CH30/EX30.2/EX30_2.sce#S##102633
+29#Nuclear Physics#29.7#age of teh skeleton#EX29_7.sce#2072/CH29/EX29.7/EX29_7.sce#S##102631
+29#Nuclear Physics#29.6#energy released in beta decay#EX29_6.sce#2072/CH29/EX29.6/EX29_6.sce#S##102630
+29#Nuclear Physics#29.5#Energy liberated #EX29_5.sce#2072/CH29/EX29.5/EX29_5.sce#S##102629
+29#Nuclear Physics#29.4#activity of radon#EX29_4.sce#2072/CH29/EX29.4/EX29_4.sce#S##102632
+29#Nuclear Physics#29.3#Decay rate#EX29_3.sce#2072/CH29/EX29.3/EX29_3.sce#S##102628
+29#Nuclear Physics#29.2#Binding Energy#EX29_2.sce#2072/CH29/EX29.2/EX29_2.sce#S##102627
+29#Nuclear Physics#29.1#Nuclear Density#EX29_1.sce#2072/CH29/EX29.1/EX29_1.sce#S##102626
+28#Atomic Physics#28.6#Energy of the characteristic X ray#ex28_6.sce#2072/CH28/EX28.6/ex28_6.sce#S##102734
+28#Atomic Physics#28.4#energy of the states#EX28_4.sce#2072/CH28/EX28.4/EX28_4.sce#S##102624
+28#Atomic Physics#28.3#energy and radiation #EX28_3.sce#2072/CH28/EX28.3/EX28_3.sce#S##102623
+28#Atomic Physics#28.2#wavelength and energy emitted by the photon#EX28_2.sce#2072/CH28/EX28.2/EX28_2.sce#S##102622
+28#Atomic Physics#28.1#wavelength and frequency#EX28_1.sce#2072/CH28/EX28.1/EX28_1.sce#S##102621
+27#Quantum Physics#27.9#de broglie wavelength of ball#EX27_9.sce#2072/CH27/EX27.9/EX27_9.sce#S##102620
+27#Quantum Physics#27.8#de Broglie wavelength#EX27_8.sce#2072/CH27/EX27.8/EX27_8.sce#S##102617
+27#Quantum Physics#27.7#Compton scattering#ex27_7.sce#2072/CH27/EX27.7/ex27_7.sce#S##102733
+27#Quantum Physics#27.6#Grazing angle#EX27_6.sce#2072/CH27/EX27.6/EX27_6.sce#S##102616
+27#Quantum Physics#27.5#minimum wavelength#EX27_5.sce#2072/CH27/EX27.5/EX27_5.sce#S##102615
+27#Quantum Physics#27.4#Energy and wavelength of photon#EX27_4.sce#2072/CH27/EX27.4/EX27_4.sce#S##102614
+27#Quantum Physics#27.3#Energy of photon#EX27_3.sce#2072/CH27/EX27.3/EX27_3.sce#S##102613
+27#Quantum Physics#27.2#Calculation of Energy and  Quantum number#EX27_2.sce#2072/CH27/EX27.2/EX27_2.sce#S##102612
+27#Quantum Physics#27.11#Uncertainity in energy of excited state#EX27_11.sce#2072/CH27/EX27.11/EX27_11.sce#S##102619
+27#Quantum Physics#27.10#uncertainity of the position of electron#EX27_10.sce#2072/CH27/EX27.10/EX27_10.sce#S##102618
+27#Quantum Physics#27.1#Wavelength of radiation#EX27_1.sce#2072/CH27/EX27.1/EX27_1.sce#S##102611
+26#Relativity#26.9#Conversion of mass to KE#ex26_9.sce#2072/CH26/EX26.9/ex26_9.sce#S##102732
+26#Relativity#26.8#Total energy and kinetic energy of electron#EX26_8.sce#2072/CH26/EX26.8/EX26_8.sce#S##102609
+26#Relativity#26.7#Energy released#EX26_7.sce#2072/CH26/EX26.7/EX26_7.sce#S##102608
+26#Relativity#26.6#speed of light beam#EX26_6.sce#2072/CH26/EX26.6/EX26_6.sce#S##102607
+26#Relativity#26.5#Relativistic Momentum#26_5.sce#2072/CH26/EX26.5/26_5.sce#S##102606
+26#Relativity#26.4#shape of spaceship#EX26_4.sce#2072/CH26/EX26.4/EX26_4.sce#S##102610
+26#Relativity#26.3#Distance from spaceship to ground #26_3.sce#2072/CH26/EX26.3/26_3.sce#S##102605
+26#Relativity#26.2#Length of spaceship with respect to observer#EX26_2.sce#2072/CH26/EX26.2/EX26_2.sce#S##102604
+26#Relativity#26.1#Time period#EX26_1.sce#2072/CH26/EX26.1/EX26_1.sce#S##102603
+25#Optical Instruments#25.9#Resolving Power of grating#EX25_9.sce#2072/CH25/EX25.9/EX25_9.sce#S##102602
+25#Optical Instruments#25.8#Resolving Power#EX25_8.sce#2072/CH25/EX25.8/EX25_8.sce#S##102601
+25#Optical Instruments#25.6#Limiting angle of Resolution#EX25_6.sce#2072/CH25/EX25.6/EX25_6.sce#S##102600
+25#Optical Instruments#25.5#Angular Magnification of telescope#EX25_5.sce#2072/CH25/EX25.5/EX25_5.sce#S##102599
+25#Optical Instruments#25.4#Magnification#EX25_4.sce#2072/CH25/EX25.4/EX25_4.sce#S##102598
+25#Optical Instruments#25.3#Angular Magnification of lens#EX25_3.sce#2072/CH25/EX25.3/EX25_3.sce#S##102597
+25#Optical Instruments#25.1#focal length #Ex25_1.sce#2072/CH25/EX25.1/Ex25_1.sce#S##102595
+24#Wave Optics#24.7#Angle of monochromatic light #EX24_7.sce#2072/CH24/EX24.7/EX24_7.sce#S##102594
+24#Wave Optics#24.6#Position of dark fringe and width of central bright fringe#EX24_6.sce#2072/CH24/EX24.6/EX24_6.sce#S##102593
+24#Wave Optics#24.5#Pit depth in a CD#EX24_5.sce#2072/CH24/EX24.5/EX24_5.sce#S##102592
+24#Wave Optics#24.3#Thickness of film#EX24_3.sce#2072/CH24/EX24.3/EX24_3.sce#S##102590
+24#Wave Optics#24.2#Thickness of soap bubble#EX24_2.sce#2072/CH24/EX24.2/EX24_2.sce#S##102589
+24#Wave Optics#24.1#To find wavelength of light and distance between adjacent bright fringes#EX24_1.sce#2072/CH24/EX24.1/EX24_1.sce#S##102587
+23#Mirrors and Lenses #23.9#lenses in row#ex23_9.sce#2072/CH23/EX23.9/ex23_9.sce#S##102740
+23#Mirrors and Lenses #23.8#lenses#ex23_8.sce#2072/CH23/EX23.8/ex23_8.sce#S##102739
+23#Mirrors and Lenses #23.7#converge#ex23_7.sce#2072/CH23/EX23.7/ex23_7.sce#S##102738
+23#Mirrors and Lenses #23.5#Position of image#Ex23_5.sce#2072/CH23/EX23.5/Ex23_5.sce#S##97727
+23#Mirrors and Lenses #23.4#focal length#Ex23_4.sce#2072/CH23/EX23.4/Ex23_4.sce#S##97726
+23#Mirrors and Lenses #23.3#Magnification#EX23_3.sce#2072/CH23/EX23.3/EX23_3.sce#S##97725
+23#Mirrors and Lenses #23.2#calculation of height#EX23_2.sce#2072/CH23/EX23.2/EX23_2.sce#S##97724
+23#Mirrors and Lenses #23.1#Calculation of height#EX23_1.sce#2072/CH23/EX23.1/EX23_1.sce#S##97719
+22#Relection and refraction of light#22.6#Angle#EX22_6.sce#2072/CH22/EX22.6/EX22_6.sce#S##97723
+22#Relection and refraction of light#22.5#Angle#Ex22_5.sce#2072/CH22/EX22.5/Ex22_5.sce#S##97722
+22#Relection and refraction of light#22.3#Wavelength#Ex22_3.sce#2072/CH22/EX22.3/Ex22_3.sce#S##97721
+22#Relection and refraction of light#22.2#Angle of refraction#Ex22_2.sce#2072/CH22/EX22.2/Ex22_2.sce#S##97720
+21#Alternating current circuits and electromagnetics#21.8#Power#Ex21_8.sce#2072/CH21/EX21.8/Ex21_8.sce#S##97718
+21#Alternating current circuits and electromagnetics#21.7#Percentage power loss#Ex21_7.sce#2072/CH21/EX21.7/Ex21_7.sce#S##97717
+21#Alternating current circuits and electromagnetics#21.6#capacitance#Ex21_6.sce#2072/CH21/EX21.6/Ex21_6.sce#S##97716
+21#Alternating current circuits and electromagnetics#21.5#Power#Ex21_5.sce#2072/CH21/EX21.5/Ex21_5.sce#S##97715
+21#Alternating current circuits and electromagnetics#21.4#Inductance capacitance and resistance#Ex21_4.sce#2072/CH21/EX21.4/Ex21_4.sce#S##97714
+21#Alternating current circuits and electromagnetics#21.3#Resistance and current#Ex21_3.sce#2072/CH21/EX21.3/Ex21_3.sce#S##97713
+21#Alternating current circuits and electromagnetics#21.2#current#Ex21_2.sce#2072/CH21/EX21.2/Ex21_2.sce#S##97712
+21#Alternating current circuits and electromagnetics#21.1#current and voltage#Ex21_1.sce#2072/CH21/EX21.1/Ex21_1.sce#S##97711
+20#Induced Voltages and Inductance #20.9#Time constant and current#ex20_9.sce#2072/CH20/EX20.9/ex20_9.sce#S##97710
+20#Induced Voltages and Inductance #20.8#Inductance and emf#ex20_8.sce#2072/CH20/EX20.8/ex20_8.sce#S##97709
+20#Induced Voltages and Inductance #20.6#Induced current in a motor#Ex20_6.sce#2072/CH20/EX20.6/Ex20_6.sce#S##102731
+20#Induced Voltages and Inductance #20.5#Current and emf#Ex20_5.sce#2072/CH20/EX20.5/Ex20_5.sce#S##97708
+20#Induced Voltages and Inductance #20.3#Energy and force#ex20_3.sce#2072/CH20/EX20.3/ex20_3.sce#S##97707
+20#Induced Voltages and Inductance #20.2#Induced emf#Ex20_2.sce#2072/CH20/EX20.2/Ex20_2.sce#S##97706
+20#Induced Voltages and Inductance #20.1#Magnetic flux#ex20_1.sce#2072/CH20/EX20.1/ex20_1.sce#S##97705
+19#Magnetism#19.9#Magnetic field#Ex19_9.sce#2072/CH19/EX19.9/Ex19_9.sce#S##102737
+19#Magnetism#19.8#Levitating wire#ex19_8.sce#2072/CH19/EX19.8/ex19_8.sce#S##102736
+19#Magnetism#19.7#Magnetic field of long wire#EX19_7.sce#2072/CH19/EX19.7/EX19_7.sce#S##97234
+19#Magnetism#19.6#Mass spectometer#Ex19_6.sce#2072/CH19/EX19.6/Ex19_6.sce#S##97233
+19#Magnetism#19.5#Uniform magnetic field#ex19_5.sce#2072/CH19/EX19.5/ex19_5.sce#S##97232
+19#Magnetism#19.4#Torque#Ex19_4.sce#2072/CH19/EX19.4/Ex19_4.sce#S##97231
+19#Magnetism#19.3#Current in magnetic field#ex19_3.sce#2072/CH19/EX19.3/ex19_3.sce#S##97230
+19#Magnetism#19.2#Magnetic field#Ex19_2.sce#2072/CH19/EX19.2/Ex19_2.sce#S##97229
+19#Magnetism#19.1#Magnetic fueld#ex19_1.sce#2072/CH19/EX19.1/ex19_1.sce#S##97228
+18#Direct Current Circuits#18.7#Discharging of capacitance#Ex18_7.sce#2072/CH18/EX18.7/Ex18_7.sce#S##97227
+18#Direct Current Circuits#18.6#Charging capacitor#Ex18_6.sce#2072/CH18/EX18.6/Ex18_6.sce#S##97226
+18#Direct Current Circuits#18.5#Application of kirchoff law#Ex18_5.sce#2072/CH18/EX18.5/Ex18_5.sce#S##102637
+18#Direct Current Circuits#18.4#Kirchoff law#Ex18_4.sce#2072/CH18/EX18.4/Ex18_4.sce#S##97224
+18#Direct Current Circuits#18.3#Equivalent resistance#EX18_3.sce#2072/CH18/EX18.3/EX18_3.sce#S##97223
+18#Direct Current Circuits#18.2#Parallel resistance#Ex18_2.sce#2072/CH18/EX18.2/Ex18_2.sce#S##97222
+18#Direct Current Circuits#18.1#Four resistors in series#EX18_1.sce#2072/CH18/EX18.1/EX18_1.sce#S##97221
+17#Current and Resistance#17.8#Cost of operating bulb#EX17_8.sce#2072/CH17/EX17.8/EX17_8.sce#S##97220
+17#Current and Resistance#17.7#Light#EX17_7.sce#2072/CH17/EX17.7/EX17_7.sce#S##97219
+17#Current and Resistance#17.6#Power converted#EX17_6.sce#2072/CH17/EX17.6/EX17_6.sce#S##97218
+17#Current and Resistance#17.5#Platinum resistance#EX17_5.sce#2072/CH17/EX17.5/EX17_5.sce#S##97217
+17#Current and Resistance#17.4#resistance#EX17_4.sce#2072/CH17/EX17.4/EX17_4.sce#S##97216
+17#Current and Resistance#17.3#Resistance of steam iron#Ex17_3.sce#2072/CH17/EX17.3/Ex17_3.sce#S##97215
+17#Current and Resistance#17.2#Drift speed#EX17_2.sce#2072/CH17/EX17.2/EX17_2.sce#S##97214
+17#Current and Resistance#17.1#Current in lightbulb#EX17_1.sce#2072/CH17/EX17.1/EX17_1.sce#S##102636
+16#Electrical Energy and Capacitance#16.9#Paper filled capacitor#EX16_9.sce#2072/CH16/EX16.9/EX16_9.sce#S##97212
+16#Electrical Energy and Capacitance#16.8#Voltage Energy and time#EX16_8.sce#2072/CH16/EX16.8/EX16_8.sce#S##97211
+16#Electrical Energy and Capacitance#16.7#Equivalent capacitance#EX16_7.sce#2072/CH16/EX16.7/EX16_7.sce#S##97210
+16#Electrical Energy and Capacitance#16.6#Capacitance#Ex16_6.sce#2072/CH16/EX16.6/Ex16_6.sce#S##97209
+16#Electrical Energy and Capacitance#16.5#parallel capacitors#EX16_5.sce#2072/CH16/EX16.5/EX16_5.sce#S##97208
+16#Electrical Energy and Capacitance#16.4#Parallel plate capacitor#Ex16_4.sce#2072/CH16/EX16.4/Ex16_4.sce#S##97207
+16#Electrical Energy and Capacitance#16.3#Electric Potential#EX16_3.sce#2072/CH16/EX16.3/EX16_3.sce#S##97206
+16#Electrical Energy and Capacitance#16.2#Motion of proton#EX16_2.sce#2072/CH16/EX16.2/EX16_2.sce#S##97205
+16#Electrical Energy and Capacitance#16.1#Field between 2 parallel plates#EX16_1.sce#2072/CH16/EX16.1/EX16_1.sce#S##97204
+15#Electric Forces and Electric Fields#15.5#Fileld#Ex15_5.sce#2072/CH15/EX15.5/Ex15_5.sce#S##102735
+15#Electric Forces and Electric Fields#15.4#Electric force#EX15_4.sce#2072/CH15/EX15.4/EX15_4.sce#S##97202
+15#Electric Forces and Electric Fields#15.2#Superposition Principle#Ex15_2.sce#2072/CH15/EX15.2/Ex15_2.sce#S##97200
+15#Electric Forces and Electric Fields#15.1#Electric Force and Gravitational force#Ex15_1.sce#2072/CH15/EX15.1/Ex15_1.sce#S##102635

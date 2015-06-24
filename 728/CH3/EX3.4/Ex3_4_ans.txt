@@ -1,0 +1,12 @@
+Current drawn from generator(in amps) =   
+ 
+    0.3333333  
+ 
+ Power delivered to load (in watts) =)   
+ 
+    44.444444  
+ 
+ Current flowing in load (in amps) =)   
+ 
+    0.6666667  
+

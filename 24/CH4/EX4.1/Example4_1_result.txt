@@ -1,0 +1,3 @@
+**Sample Problem 4-1**
+The displacement vector of the particle in meter is 
+    12.    0.    3.  

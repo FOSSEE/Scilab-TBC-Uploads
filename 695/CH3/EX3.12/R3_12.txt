@@ -1,0 +1,15 @@
+ (a)Efficiency (in %)=   
+ 
+    95.770494  
+ 
+ (b)Load KVA at which max efficiency occurs=   
+ 
+    7.4065608  
+ 
+    Max Efficiency (in %)=   
+ 
+    97.055593  
+ 
+ (c)Voltage Regulation (in %)=   
+ 
+  - 0.4738276  

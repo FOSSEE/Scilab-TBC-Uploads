@@ -1,0 +1,3 @@
+ Conduction electron and hole density (per cubic m) =    
+ 
+    2.250D+13

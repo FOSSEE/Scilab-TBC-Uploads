@@ -1,0 +1,125 @@
+12#balancing of reciprocating masses#12.8#unbalanced secondary couple#Ex12_8.sce#1835/CH12/EX12.8/Ex12_8.sce#S##81759
+12#balancing of reciprocating masses#12.7#swaying couple#Ex12_7.sce#1835/CH12/EX12.7/Ex12_7.sce#S##81758
+12#balancing of reciprocating masses#12.6#hammer blow#Ex12_6.sce#1835/CH12/EX12.6/Ex12_6.sce#S##81757
+12#balancing of reciprocating masses#12.5#maximum unbalanced secondary force#Ex12_5.sce#1835/CH12/EX12.5/Ex12_5.sce#S##81756
+12#balancing of reciprocating masses#12.4#unbalanced primary couple#Ex12_4.sce#1835/CH12/EX12.4/Ex12_4.sce#S##81755
+12#balancing of reciprocating masses#12.3#swaying couple#Ex12_3.sce#1835/CH12/EX12.3/Ex12_3.sce#S##81754
+12#balancing of reciprocating masses#12.2#swaying couple#Ex12_2.sce#1835/CH12/EX12.2/Ex12_2.sce#S##81753
+12#balancing of reciprocating masses#12.1#Magnitude of balance mass required#Ex12_1.sce#1835/CH12/EX12.1/Ex12_1.sce#S##79977
+11#VIBRATIONS#11.6#FREQUENCY OF TRANSVERSE VIBRATION#Ex11_6.sce#1835/CH11/EX11.6/Ex11_6.sce#S##79971
+11#VIBRATIONS#11.3#FREQUENCY OF TORSIONAL VIBRATION#Ex11_3.sce#1835/CH11/EX11.3/Ex11_3.sce#S##79970
+11#VIBRATIONS#11.2#NATURAL FREQUENCY OF TRANSVERSE VIBRATION#Ex11_2.sce#1835/CH11/EX11.2/Ex11_2.sce#S##79969
+11#VIBRATIONS#11.13#THE RANGE OF SPEED#Ex11_13.sce#1835/CH11/EX11.13/Ex11_13.sce#S##79975
+11#VIBRATIONS#11.12#FREQUENCY OF FREE TORSIONAL VIBRATION#Ex11_12.sce#1835/CH11/EX11.12/Ex11_12.sce#S##79974
+11#VIBRATIONS#11.11#CRITICAL SPEED OF SHAFT#Ex11_11.sce#1835/CH11/EX11.11/Ex11_11.sce#S##79973
+11#VIBRATIONS#11.10#FREQUENCY OF TRANSVERSE VIBRATION#Ex11_10.sce#1835/CH11/EX11.10/Ex11_10.sce#S##79972
+11#VIBRATIONS#11.1#FREQUENCY OF TRANSVERSE VIBRATION#Ex11_1.sce#1835/CH11/EX11.1/Ex11_1.sce#S##79968
+10#Brakes and Dynamometers#10.9#Minimum force required#Ex10_9.sce#1835/CH10/EX10.9/Ex10_9.sce#S##79964
+10#Brakes and Dynamometers#10.8#Time required to bring the shaft to the rest from its running condition#Ex10_8.sce#1835/CH10/EX10.8/Ex10_8.sce#S##79965
+10#Brakes and Dynamometers#10.7#Power TO BD ratio#Ex10_7.sce#1835/CH10/EX10.7/Ex10_7.sce#S##79966
+10#Brakes and Dynamometers#10.6#Torque required#Ex10_6.sce#1835/CH10/EX10.6/Ex10_6.sce#S##79967
+10#Brakes and Dynamometers#10.5#Tensions in the side#Ex10_5.sce#1835/CH10/EX10.5/Ex10_5.sce#S##79962
+10#Brakes and Dynamometers#10.4#The maximum braking torque on the drum#Ex10_4.sce#1835/CH10/EX10.4/Ex10_4.sce#S##79961
+10#Brakes and Dynamometers#10.3#Maximum torque absorbed#Ex10_3.sce#1835/CH10/EX10.3/Ex10_3.sce#S##79960
+10#Brakes and Dynamometers#10.2#DISTANCE TRAVELLED BY CYCLE#Ex10_2.sce#1835/CH10/EX10.2/Ex10_2.sce#S##79959
+10#Brakes and Dynamometers#10.10#Maximum braking torque#Ex10_10.sce#1835/CH10/EX10.10/Ex10_10.sce#S##79963
+10#Brakes and Dynamometers#10.1#Torque transmitted by the block brake#Ex10_1.sce#1835/CH10/EX10.1/Ex10_1.sce#S##79958
+9#cams and followers#9.5#maximum velocity and acceleration#Ex9_5.sce#1835/CH9/EX9.5/Ex9_5.sce#S##81769
+9#cams and followers#9.3#maximum velocity and acceleration#Ex9_3.sce#1835/CH9/EX9.3/Ex9_3.sce#S##81768
+9#cams and followers#9.2#maximum velocity and acceleration#Ex9_2.sce#1835/CH9/EX9.2/Ex9_2.sce#S##81767
+8#balancing of rotating masses #8.7#load on each bearing#Ex8_7.sce#1835/CH8/EX8.7/Ex8_7.sce#S##81766
+8#balancing of rotating masses #8.6#mass of D#Ex8_6.sce#1835/CH8/EX8.6/Ex8_6.sce#S##81765
+8#balancing of rotating masses #8.5#balancing mass and angular position#Ex8_5.sce#1835/CH8/EX8.5/Ex8_5.sce#S##81764
+8#balancing of rotating masses #8.4#balancing mass and angular position#Ex8_4.sce#1835/CH8/EX8.4/Ex8_4.sce#S##81763
+8#balancing of rotating masses #8.3#balancing mass and angular position#Ex8_3.sce#1835/CH8/EX8.3/Ex8_3.sce#S##81762
+8#balancing of rotating masses #8.2#masses of D and E#Ex8_2.sce#1835/CH8/EX8.2/Ex8_2.sce#S##81761
+8#balancing of rotating masses #8.1#magnitude of balancing mass#Ex8_1.sce#1835/CH8/EX8.1/Ex8_1.sce#S##81760
+7#GOVERNORS#7.9#ALTERATION IN SPEED#Ex7_9.sce#1835/CH7/EX7.9/Ex7_9.sce#S##79953
+7#GOVERNORS#7.8#STIFFNESS OF THE SPRING#Ex7_8.sce#1835/CH7/EX7.8/Ex7_8.sce#S##79952
+7#GOVERNORS#7.7#EQUILIBRIUM SPEED CORRESPONDING TO LIFT#Ex7_7.sce#1835/CH7/EX7.7/Ex7_7.sce#S##79957
+7#GOVERNORS#7.6#RANGE OF SPEED OF GOVERNOR#Ex7_6.sce#1835/CH7/EX7.6/Ex7_6.sce#S##79926
+7#GOVERNORS#7.5#RANGE OF SPEED OF GOVERNOR#Ex7_5.sce#1835/CH7/EX7.5/Ex7_5.sce#S##79925
+7#GOVERNORS#7.4#GOVERNOR POWER#Ex7_4.sce#1835/CH7/EX7.4/Ex7_4.sce#S##79924
+7#GOVERNORS#7.3#RANGE OF SPEED#Ex7_3.sce#1835/CH7/EX7.3/Ex7_3.sce#S##79922
+7#GOVERNORS#7.2#RANGE OF SPEED#Ex7_2.sce#1835/CH7/EX7.2/Ex7_2.sce#S##79921
+7#GOVERNORS#7.12# MAXIMUM SPEED OF ROTATION#Ex7_12.sce#1835/CH7/EX7.12/Ex7_12.sce#S##79956
+7#GOVERNORS#7.11#TENSION IN UPPER ARM#Ex7_11.sce#1835/CH7/EX7.11/Ex7_11.sce#S##79955
+7#GOVERNORS#7.10#EQUILIBRIUM SPEED OF GOVERNOR#Ex7_10.sce#1835/CH7/EX7.10/Ex7_10.sce#S##79954
+7#GOVERNORS#7.1#PERCENTAGE CHANGE IN SPEED#Ex7_1.sce#1835/CH7/EX7.1/Ex7_1.sce#S##79920
+6#Turning Moment Diagram and Flywheel#6.9#Reduction in speed after the pressing is over#Ex6_9.sce#1835/CH6/EX6.9/Ex6_9.sce#S##79915
+6#Turning Moment Diagram and Flywheel#6.8#Amount of Torque required#Ex6_8.sce#1835/CH6/EX6.8/Ex6_8.sce#S##79914
+6#Turning Moment Diagram and Flywheel#6.7#Energy expended in performing each operation#Ex6_7.sce#1835/CH6/EX6.7/Ex6_7.sce#S##79917
+6#Turning Moment Diagram and Flywheel#6.6#Angular acceleration#Ex6_6.sce#1835/CH6/EX6.6/Ex6_6.sce#S##80760
+6#Turning Moment Diagram and Flywheel#6.5#Mass of the flywheel#Ex6_5.sce#1835/CH6/EX6.5/Ex6_5.sce#S##79724
+6#Turning Moment Diagram and Flywheel#6.4#Mass of the flywheel#Ex6_4.sce#1835/CH6/EX6.4/Ex6_4.sce#S##79723
+6#Turning Moment Diagram and Flywheel#6.3#Mass of the flywheel required#Ex6_3.sce#1835/CH6/EX6.3/Ex6_3.sce#S##79722
+6#Turning Moment Diagram and Flywheel#6.2#Mass of the flywheel required#Ex6_2.sce#1835/CH6/EX6.2/Ex6_2.sce#S##79721
+6#Turning Moment Diagram and Flywheel#6.10#miminum mass moment of inertia of flywheel#Ex6_10.sce#1835/CH6/EX6.10/Ex6_10.sce#S##93606
+6#Turning Moment Diagram and Flywheel#6.1#Kinetic energy of flywheel#Ex6_1.sce#1835/CH6/EX6.1/Ex6_1.sce#S##79720
+5#Inertia Force Analysis in Machines#5.8#Effective turning moment on the crank shaft#Ex5_8.sce#1835/CH5/EX5.8/Ex5_8.sce#S##79719
+5#Inertia Force Analysis in Machines#5.7#Effective turning moment on the crank shaft#Ex5_7.sce#1835/CH5/EX5.7/Ex5_7.sce#S##79718
+5#Inertia Force Analysis in Machines#5.6#Torque exerted on the crank shaft#Ex5_6.sce#1835/CH5/EX5.6/Ex5_6.sce#S##79717
+5#Inertia Force Analysis in Machines#5.5#Net load on the gudgeon pin#Ex5_5.sce#1835/CH5/EX5.5/Ex5_5.sce#S##79716
+5#Inertia Force Analysis in Machines#5.4#net force on piston#Ex5_4.sce#1835/CH5/EX5.4/Ex5_4.sce#S##79715
+5#Inertia Force Analysis in Machines#5.3#Turning moment on the crank shaft#Ex5_3.sce#1835/CH5/EX5.3/Ex5_3.sce#S##79714
+5#Inertia Force Analysis in Machines#5.2#position of crank from inner dead centre position for zero acceleration of piston#Ex5_2.sce#1835/CH5/EX5.2/Ex5_2.sce#S##79713
+5#Inertia Force Analysis in Machines#5.1#Maximum velocity of the piston#Ex5_1.sce#1835/CH5/EX5.1/Ex5_1.sce#S##79712
+4#Gears and Gear Drivers#4.9#Speed of wheels#Ex4_9.sce#1835/CH4/EX4.9/Ex4_9.sce#S##79688
+4#Gears and Gear Drivers#4.8#Speed of wheel#Ex4_8.sce#1835/CH4/EX4.8/Ex4_8.sce#S##79689
+4#Gears and Gear Drivers#4.7#noof teeth on gears#Ex4_7.sce#1835/CH4/EX4.7/Ex4_7.sce#S##79690
+4#Gears and Gear Drivers#4.6#Number of teeth on gear#Ex4_6.sce#1835/CH4/EX4.6/Ex4_6.sce#S##79603
+4#Gears and Gear Drivers#4.5#Power transmitted#Ex4_5.sce#1835/CH4/EX4.5/Ex4_5.sce#S##79602
+4#Gears and Gear Drivers#4.4#Velocity ratio#Ex4_4.sce#1835/CH4/EX4.4/Ex4_4.sce#S##79601
+4#Gears and Gear Drivers#4.3#Length of arc of contact#Ex4_3.sce#1835/CH4/EX4.3/Ex4_3.sce#S##79600
+4#Gears and Gear Drivers#4.2#Addendum of wheel#Ex4_2.sce#1835/CH4/EX4.2/Ex4_2.sce#S##79599
+4#Gears and Gear Drivers#4.17#ratio of torques#Ex4_17.sce#1835/CH4/EX4.17/Ex4_17.sce#S##79703
+4#Gears and Gear Drivers#4.16#speed of road wheel#Ex4_16.sce#1835/CH4/EX4.16/Ex4_16.sce#S##79702
+4#Gears and Gear Drivers#4.15#Revolution of gears#Ex4_15.sce#1835/CH4/EX4.15/Ex4_15.sce#S##79701
+4#Gears and Gear Drivers#4.14# pitch circle diameter#Ex4_14.sce#1835/CH4/EX4.14/Ex4_14.sce#S##79700
+4#Gears and Gear Drivers#4.13#Speed of driven shaft#Ex4_13.sce#1835/CH4/EX4.13/Ex4_13.sce#S##79699
+4#Gears and Gear Drivers#4.12#Speed of wheel#Ex4_12.sce#1835/CH4/EX4.12/Ex4_12.sce#S##79685
+4#Gears and Gear Drivers#4.11#speed of the arm#Ex4_11.sce#1835/CH4/EX4.11/Ex4_11.sce#S##79686
+4#Gears and Gear Drivers#4.10#Speed of wheels#Ex4_10.sce#1835/CH4/EX4.10/Ex4_10.sce#S##79687
+4#Gears and Gear Drivers#4.1#Length of arc of contact#Ex4_1.sce#1835/CH4/EX4.1/Ex4_1.sce#S##79598
+3#FRICTION#3.9#TO FIND THE DIAMETER OF HAND WHEEL#Ex3_9.sce#1835/CH3/EX3.9/Ex3_9.sce#S##79591
+3#FRICTION#3.8#NO OF TEETH ON PINION#Ex3_8.sce#1835/CH3/EX3.8/Ex3_8.sce#S##79592
+3#FRICTION#3.7#EFFICIENCY OF MACHINE#Ex3_7.sce#1835/CH3/EX3.7/Ex3_7.sce#S##79593
+3#FRICTION#3.6#EFFICIENCY OF THE MACHINE#Ex3_6.sce#1835/CH3/EX3.6/Ex3_6.sce#S##79588
+3#FRICTION#3.5#EFFORT NEED TO APPLIED#Ex3_5.sce#1835/CH3/EX3.5/Ex3_5.sce#S##79587
+3#FRICTION#3.4#FINDING OUT COEFFICIENT OF FRICTION#Ex3_4.sce#1835/CH3/EX3.4/Ex3_4.sce#S##79586
+3#FRICTION#3.3#workdone#Ex3_3.sce#1835/CH3/EX3.3/Ex3_3.sce#S##79585
+3#FRICTION#3.2#DISTANCE ALONG THE INCLINED PLANE#Ex3_2.sce#1835/CH3/EX3.2/Ex3_2.sce#S##79584
+3#FRICTION#3.15#MAX AXIAL INTENSITY OF PRESSURE#Ex3_15.sce#1835/CH3/EX3.15/Ex3_15.sce#S##79597
+3#FRICTION#3.14#FINDING Radii#Ex3_14.sce#1835/CH3/EX3.14/Ex3_14.sce#S##79596
+3#FRICTION#3.13#POWER ABSORBED IN FRICTION#Ex3_13.sce#1835/CH3/EX3.13/Ex3_13.sce#S##79595
+3#FRICTION#3.12#NO OF COLLARS REQUIRED#Ex3_12.sce#1835/CH3/EX3.12/Ex3_12.sce#S##79594
+3#FRICTION#3.11#POWER LOST IN FRICTION#Ex3_11.sce#1835/CH3/EX3.11/Ex3_11.sce#S##79589
+3#FRICTION#3.10#FORCE REQUIRED#Ex3_10.sce#1835/CH3/EX3.10/Ex3_10.sce#S##79590
+3#FRICTION#3.1#finding out the coefficient of friction#Ex3_1.sce#1835/CH3/EX3.1/Ex3_1.sce#S##79583
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.9#thickness of belt#Ex2_9.sce#1835/CH2/EX2.9/Ex2_9.sce#S##79580
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.8#power capacity of belt#Ex2_8.sce#1835/CH2/EX2.8/Ex2_8.sce#S##79578
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.7#power supplied by drum#Ex2_7.sce#1835/CH2/EX2.7/Ex2_7.sce#S##79577
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.6#width of belt required#Ex2_6.sce#1835/CH2/EX2.6/Ex2_6.sce#S##79576
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.5#tension in belt#Ex2_5.sce#1835/CH2/EX2.5/Ex2_5.sce#S##79575
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.4#power required#Ex2_4.sce#1835/CH2/EX2.4/Ex2_4.sce#S##79574
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.3#length of belt#Ex2_3.sce#1835/CH2/EX2.3/Ex2_3.sce#S##79573
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.2#speed of shafts#Ex2_2.sce#1835/CH2/EX2.2/Ex2_2.sce#S##79572
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.14#initial rope tension#Ex2_14.sce#1835/CH2/EX2.14/Ex2_14.sce#S##79995
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.13#no of belts required#Ex2_13.sce#1835/CH2/EX2.13/Ex2_13.sce#S##79993
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.12#efficiency of drive#Ex2_12.sce#1835/CH2/EX2.12/Ex2_12.sce#S##79582
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.11#speed of the pulley#Ex2_11.sce#1835/CH2/EX2.11/Ex2_11.sce#S##79581
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.10#stress developed on tight side of belt#Ex2_10.sce#1835/CH2/EX2.10/Ex2_10.sce#S##79579
+2#TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS#2.1#finding the diameter of the belt#Ex2_1.sce#1835/CH2/EX2.1/Ex2_1.sce#S##79571
+1#Basic kinemtics#1.9#velocity of sliding of the block#Ex1_9.sce#1835/CH1/EX1.9/Ex1_9.sce#S##79568
+1#Basic kinemtics#1.8#Angular velocity of link CD#Ex1_8.sce#1835/CH1/EX1.8/Ex1_8.sce#S##79566
+1#Basic kinemtics#1.7#angular velocity of link BD#Ex1_7.sce#1835/CH1/EX1.7/Ex1_7.sce#S##79563
+1#Basic kinemtics#1.6#velocity of point F#Ex1_6.sce#1835/CH1/EX1.6/Ex1_6.sce#S##79564
+1#Basic kinemtics#1.5#Linear velocity of point P#Ex1_5.sce#1835/CH1/EX1.5/Ex1_5.sce#S##79562
+1#Basic kinemtics#1.4#Angular velocity of connecting rod#Ex1_4.sce#1835/CH1/EX1.4/Ex1_4.sce#S##79561
+1#Basic kinemtics#1.3#Ratio of time taken on the cutting to the return stroke#Ex1_3.sce#1835/CH1/EX1.3/Ex1_3.sce#S##79560
+1#Basic kinemtics#1.2#Ratio of time taken on the cutting to the return stroke#Ex1_2.sce#1835/CH1/EX1.2/Ex1_2.sce#S##79359
+1#Basic kinemtics#1.13#angular acceleration#Ex1_13.sce#1835/CH1/EX1.13/Ex1_13.sce#S##79569
+1#Basic kinemtics#1.12#Accelaration of the slider#Ex1_12.sce#1835/CH1/EX1.12/Ex1_12.sce#S##79570
+1#Basic kinemtics#1.11#angular acceleration of AB#Ex1_11.sce#1835/CH1/EX1.11/Ex1_11.sce#S##80759
+1#Basic kinemtics#1.10#angular acceleration of connecting rod BA#Ex1_10.sce#1835/CH1/EX1.10/Ex1_10.sce#S##79565
+1#Basic kinemtics#1.1#Length of the stroke#Ex1_1.sce#1835/CH1/EX1.1/Ex1_1.sce#S##79358

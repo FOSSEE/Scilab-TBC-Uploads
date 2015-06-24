@@ -1,0 +1,6 @@
+**Sample Problem 8a**
+The total energy at the given altitude is -2.136782e+008 joule
+
+**Sample Problem 8b**
+The total energy on the launchpad is -4.508376e+008 joule
+The differencein both the energy 2.371593e+008 joule 

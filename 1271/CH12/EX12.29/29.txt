@@ -1,0 +1,2 @@
+ Energy  is 24.833533 MeV.
+ Number of revolution made by particle to obtain above energy is 3.049676e+06 per sec

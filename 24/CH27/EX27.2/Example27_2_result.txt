@@ -1,0 +1,5 @@
+**Sample Problem 27-2a**
+The current flowing through the outer portion is 1.884956A
+
+**Sample Problem 27-2b**
+Now the current will be 7.068583A 

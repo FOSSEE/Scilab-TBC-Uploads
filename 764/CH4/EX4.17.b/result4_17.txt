@@ -1,0 +1,92 @@
+-->//(Design against Static Load) Example 4.17
+ 
+-->//Refer Fig.4.54 on page 124 
+ 
+-->//For beam
+ 
+-->//Tensile yield strength of FeE250 Syt (N/mm2)
+ 
+-->Syt = 250
+ Syt  =
+ 
+    250.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 5
+ fs  =
+ 
+    5.  
+ 
+-->//Ratio of width to thickness of the beam cross-section ratio
+ 
+-->ratio = 2
+ ratio  =
+ 
+    2.  
+ 
+-->//For vessel
+ 
+-->//Ultimate tensile strength of FG200 Sut(N/mm2)
+ 
+-->Sut = 200
+ Sut  =
+ 
+    200.  
+ 
+-->//Internal guage pressure p (MPa)
+ 
+-->p = 0.25
+ p  =
+ 
+    0.25  
+ 
+-->//Diameter D (mm)
+ 
+-->D = 500
+ D  =
+ 
+    500.  
+ 
+-->//Refer table for ISO Metric threads-Coarse series
+ 
+-->//Area mm2
+ 
+-->area = [561 817 1120 1470]
+ area  =
+ 
+    561.    817.    1120.    1470.  
+ 
+-->//Pitch (mm)
+ 
+-->pitch = [3.5 4 4.5 5]
+ pitch  =
+ 
+    3.5    4.    4.5    5.  
+ 
+-->//Distance between vessel centre line and beam end l (mm)
+ 
+-->l = 325
+ l  =
+ 
+    325.  
+ 
+
+Select M42 screw
+
+The nominal diameter and pitch of the screw are 42.000000 mm and 4.500000 mm respectively
+
+The width of the beam cross-section(h) = 130.000000 mm
+
+The thickness of the beam cross-section(b) = 65.000000 mm
+
+The value of d0 = 107.000000 mm
+
+The diameter of the pins(d) = 25.000000 mm
+
+The diameter of links 1 and 2(d2) = 25.000000 mm
+
+The width of the vessel extension cross-section(h1) = 90.000000 mm
+
+The thickness of the vessel extension cross-section(b1) = 45.000000 mm
+ 

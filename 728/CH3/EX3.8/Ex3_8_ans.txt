@@ -1,0 +1,28 @@
+VSWR =   
+ 
+    2.  
+ 
+ First Vmax is located --->at the load    
+ 
+ First Vmin is located at --->(wavelength/4)=    
+ 
+ (in meters)   
+ 
+    250.  
+ 
+ Vmax (in volts) =   
+ 
+    2.236068  
+ 
+ Vmin (in volts) =   
+ 
+    1.118034  
+ 
+ Zin at Vmin (in ohms) =:   
+ 
+    25.  
+ 
+ Zin at Vmax (in ohms) =   
+ 
+   100.
+

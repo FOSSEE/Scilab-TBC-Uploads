@@ -1,0 +1,1 @@
+* Max output offset voltage due to input offset current,Ib is = 0.0200 V dc 

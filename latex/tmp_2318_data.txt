@@ -1,0 +1,172 @@
+5#Magnetic Measurement#5.9#magnetic potential difference#ex_5_9.sce#2318/CH5/EX5.9/ex_5_9.sce#S##80891
+5#Magnetic Measurement#5.8#resistance#ex_5_8.sce#2318/CH5/EX5.8/ex_5_8.sce#S##80890
+5#Magnetic Measurement#5.7#relative permeability#ex_5_7.sce#2318/CH5/EX5.7/ex_5_7.sce#S##80889
+5#Magnetic Measurement#5.6#flux per pole and leakage coefficient#ex_5_6.sce#2318/CH5/EX5.6/ex_5_6.sce#S##80888
+5#Magnetic Measurement#5.5#flux density#ex_5_5.sce#2318/CH5/EX5.5/ex_5_5.sce#S##80887
+5#Magnetic Measurement#5.4#flux density#ex_5_4.sce#2318/CH5/EX5.4/ex_5_4.sce#S##80886
+5#Magnetic Measurement#5.3.b#frequency#ex_5_3_b.sce#2318/CH5/EX5.3.b/ex_5_3_b.sce#S##80885
+5#Magnetic Measurement#5.3.a#logarithmic decrement#ex_5_3_a.sce#2318/CH5/EX5.3.a/ex_5_3_a.sce#S##80884
+5#Magnetic Measurement#5.2#coulomb sensivity#ex_5_2.sce#2318/CH5/EX5.2/ex_5_2.sce#S##80883
+5#Magnetic Measurement#5.17#constant#ex_5_17.sce#2318/CH5/EX5.17/ex_5_17.sce#S##80899
+5#Magnetic Measurement#5.16#magnetic force flux density and relative permeability#ex_5_16.sce#2318/CH5/EX5.16/ex_5_16.sce#S##80898
+5#Magnetic Measurement#5.15#loss#ex_5_15.sce#2318/CH5/EX5.15/ex_5_15.sce#S##80897
+5#Magnetic Measurement#5.14#flux density#ex_5_14.sce#2318/CH5/EX5.14/ex_5_14.sce#S##80896
+5#Magnetic Measurement#5.13#hysteresis loss#ex_5_13.sce#2318/CH5/EX5.13/ex_5_13.sce#S##80895
+5#Magnetic Measurement#5.12#hysteresis and eddy current loss#ex_5_12.sce#2318/CH5/EX5.12/ex_5_12.sce#S##80894
+5#Magnetic Measurement#5.11#fluxmeter deflection#ex_5_11.sce#2318/CH5/EX5.11/ex_5_11.sce#S##80893
+5#Magnetic Measurement#5.10#relative permeability#ex_5_10.sce#2318/CH5/EX5.10/ex_5_10.sce#S##80892
+5#Magnetic Measurement#5.1#capacity of capacitor#ex_5_1.sce#2318/CH5/EX5.1/ex_5_1.sce#S##80882
+4#Potentiometer#4.9.c#error#ex_4_9_c.sce#2318/CH4/EX4.9.c/ex_4_9_c.sce#S##80911
+4#Potentiometer#4.9.b#resolution#ex_4_9_b.sce#2318/CH4/EX4.9.b/ex_4_9_b.sce#S##80910
+4#Potentiometer#4.9.a#resistance#ex_4_9_a.sce#2318/CH4/EX4.9.a/ex_4_9_a.sce#S##80909
+4#Potentiometer#4.8#design#ex_4_8.sce#2318/CH4/EX4.8/ex_4_8.sce#S##80908
+4#Potentiometer#4.7#length of slide wire#ex_4_7.sce#2318/CH4/EX4.7/ex_4_7.sce#S##80907
+4#Potentiometer#4.6#resistance#ex_4_6.sce#2318/CH4/EX4.6/ex_4_6.sce#S##80906
+4#Potentiometer#4.5#resistance#ex_4_5.sce#2318/CH4/EX4.5/ex_4_5.sce#S##80905
+4#Potentiometer#4.4#resistance#ex_4_4.sce#2318/CH4/EX4.4/ex_4_4.sce#S##80904
+4#Potentiometer#4.3.b#current and resistance#ex_4_3_b.sce#2318/CH4/EX4.3.b/ex_4_3_b.sce#S##80903
+4#Potentiometer#4.3.a#current and resistance#ex_4_3_a.sce#2318/CH4/EX4.3.a/ex_4_3_a.sce#S##80902
+4#Potentiometer#4.2#emf and percentage error#ex_4_2.sce#2318/CH4/EX4.2/ex_4_2.sce#S##84833
+4#Potentiometer#4.15#current#ex_4_15.sce#2318/CH4/EX4.15/ex_4_15.sce#S##80917
+4#Potentiometer#4.14#limit of error and deflection#ex_4_14.sce#2318/CH4/EX4.14/ex_4_14.sce#S##80916
+4#Potentiometer#4.13#resistanc and reactance#ex_4_13.sce#2318/CH4/EX4.13/ex_4_13.sce#S##80915
+4#Potentiometer#4.12#voltage and percentage error#ex_4_12.sce#2318/CH4/EX4.12/ex_4_12.sce#S##80914
+4#Potentiometer#4.11#measuring range resolution working current and setting#ex_4_11.sce#2318/CH4/EX4.11/ex_4_11.sce#S##80913
+4#Potentiometer#4.10#power dissipated and mean stored energy#ex_4_10.sce#2318/CH4/EX4.10/ex_4_10.sce#S##80912
+4#Potentiometer#4.1#resistance#ex_4_1.sce#2318/CH4/EX4.1/ex_4_1.sce#S##80900
+3#Measurement of parameters#3.9#resistance#ex_3_9.sce#2318/CH3/EX3.9/ex_3_9.sce#S##86659
+3#Measurement of parameters#3.8#resistance#ex_3_8.sce#2318/CH3/EX3.8/ex_3_8.sce#S##80384
+3#Measurement of parameters#3.77#resistance and capacitance#ex_3_77.sce#2318/CH3/EX3.77/ex_3_77.sce#S##80455
+3#Measurement of parameters#3.75#current and iron loss#ex_3_75.sce#2318/CH3/EX3.75/ex_3_75.sce#S##80454
+3#Measurement of parameters#3.74#resistance and inductance#ex_3_74.sce#2318/CH3/EX3.74/ex_3_74.sce#S##80453
+3#Measurement of parameters#3.73#value of M#ex_3_73.sce#2318/CH3/EX3.73/ex_3_73.sce#S##80452
+3#Measurement of parameters#3.72#inductance  resistance and impedance#ex_3_72.sce#2318/CH3/EX3.72/ex_3_72.sce#S##80451
+3#Measurement of parameters#3.71.b#capacitance#ex_3_71_b.sce#2318/CH3/EX3.71.b/ex_3_71_b.sce#S##80450
+3#Measurement of parameters#3.71.a#capacitance#ex_3_71_a.sce#2318/CH3/EX3.71.a/ex_3_71_a.sce#S##80449
+3#Measurement of parameters#3.70#resistance#ex_3_70.sce#2318/CH3/EX3.70/ex_3_70.sce#S##80448
+3#Measurement of parameters#3.7#resistance#ex_3_7.sce#2318/CH3/EX3.7/ex_3_7.sce#S##80383
+3#Measurement of parameters#3.69.b#error#ex_3_69_b.sce#2318/CH3/EX3.69.b/ex_3_69_b.sce#S##80447
+3#Measurement of parameters#3.69.a#resistance and capacitance#ex_3_69_a.sce#2318/CH3/EX3.69.a/ex_3_69_a.sce#S##80446
+3#Measurement of parameters#3.68.b#resistance#ex_3_68_b.sce#2318/CH3/EX3.68.b/ex_3_68_b.sce#S##80445
+3#Measurement of parameters#3.68.a#constant#ex_3_68_a.sce#2318/CH3/EX3.68.a/ex_3_68_a.sce#S##80444
+3#Measurement of parameters#3.67#frequency and resistance#ex_3_67.sce#2318/CH3/EX3.67/ex_3_67.sce#S##80443
+3#Measurement of parameters#3.66.c#voltage#ex_3_66_c.sce#2318/CH3/EX3.66.c/ex_3_66_c.sce#S##80442
+3#Measurement of parameters#3.66.b#voltage#ex_3_66_b.sce#2318/CH3/EX3.66.b/ex_3_66_b.sce#S##80441
+3#Measurement of parameters#3.66.a#capacitance#ex_3_66_a.sce#2318/CH3/EX3.66.a/ex_3_66_a.sce#S##80440
+3#Measurement of parameters#3.65#constant#ex_3_65.sce#2318/CH3/EX3.65/ex_3_65.sce#S##80439
+3#Measurement of parameters#3.64#permittivity and power factor#ex_3_64.sce#2318/CH3/EX3.64/ex_3_64.sce#S##80438
+3#Measurement of parameters#3.63#resistance and inductance#ex_3_63.sce#2318/CH3/EX3.63/ex_3_63.sce#S##80437
+3#Measurement of parameters#3.62#resistance#ex_3_62.sce#2318/CH3/EX3.62/ex_3_62.sce#S##80436
+3#Measurement of parameters#3.61#inductance#ex_3_61.sce#2318/CH3/EX3.61/ex_3_61.sce#S##80435
+3#Measurement of parameters#3.60#capacitance and resistance#ex_3_60.sce#2318/CH3/EX3.60/ex_3_60.sce#S##80434
+3#Measurement of parameters#3.6#resistance#ex_3_6.sce#2318/CH3/EX3.6/ex_3_6.sce#S##80382
+3#Measurement of parameters#3.59#capacitance and resistance#ex_3_59.sce#2318/CH3/EX3.59/ex_3_59.sce#S##80433
+3#Measurement of parameters#3.58#value of X#ex_3_58.sce#2318/CH3/EX3.58/ex_3_58.sce#S##80432
+3#Measurement of parameters#3.57#capacitance and power factor#ex_3_57.sce#2318/CH3/EX3.57/ex_3_57.sce#S##80431
+3#Measurement of parameters#3.56#resistance#ex_3_56.sce#2318/CH3/EX3.56/ex_3_56.sce#S##80430
+3#Measurement of parameters#3.54#capacitance and resistance#ex_3_54.sce#2318/CH3/EX3.54/ex_3_54.sce#S##80429
+3#Measurement of parameters#3.53#resistance#ex_3_53.sce#2318/CH3/EX3.53/ex_3_53.sce#S##80428
+3#Measurement of parameters#3.52#capacitance and resistance#ex_3_52.sce#2318/CH3/EX3.52/ex_3_52.sce#S##80427
+3#Measurement of parameters#3.51#percentage error#ex_3_51.sce#2318/CH3/EX3.51/ex_3_51.sce#S##80426
+3#Measurement of parameters#3.50#resistance and inductance#ex_3_50.sce#2318/CH3/EX3.50/ex_3_50.sce#S##80425
+3#Measurement of parameters#3.5#error#ex_3_5.sce#2318/CH3/EX3.5/ex_3_5.sce#S##80381
+3#Measurement of parameters#3.49#reading#ex_3_49.sce#2318/CH3/EX3.49/ex_3_49.sce#S##80424
+3#Measurement of parameters#3.47#insulation resistance#ex_3_47.sce#2318/CH3/EX3.47/ex_3_47.sce#S##80423
+3#Measurement of parameters#3.46#resistance#ex_3_46.sce#2318/CH3/EX3.46/ex_3_46.sce#S##80422
+3#Measurement of parameters#3.45#insulation resistance#ex_3_45.sce#2318/CH3/EX3.45/ex_3_45.sce#S##80421
+3#Measurement of parameters#3.44#sensitivity#ex_3_44.sce#2318/CH3/EX3.44/ex_3_44.sce#S##80420
+3#Measurement of parameters#3.43#resistance#ex_3_43.sce#2318/CH3/EX3.43/ex_3_43.sce#S##80419
+3#Measurement of parameters#3.42#limits#ex_3_42.sce#2318/CH3/EX3.42/ex_3_42.sce#S##86662
+3#Measurement of parameters#3.41#resistance and capacitance#ex_3_41.sce#2318/CH3/EX3.41/ex_3_41.sce#S##80417
+3#Measurement of parameters#3.40#impedence#ex_3_40.sce#2318/CH3/EX3.40/ex_3_40.sce#S##80416
+3#Measurement of parameters#3.4#power loss#ex_3_4.sce#2318/CH3/EX3.4/ex_3_4.sce#S##80380
+3#Measurement of parameters#3.39#resistance and inductance#ex_3_39.sce#2318/CH3/EX3.39/ex_3_39.sce#S##80415
+3#Measurement of parameters#3.38#resistance and inductance#ex_3_38.sce#2318/CH3/EX3.38/ex_3_38.sce#S##80414
+3#Measurement of parameters#3.37#resistance#ex_3_37.sce#2318/CH3/EX3.37/ex_3_37.sce#S##80413
+3#Measurement of parameters#3.36#sensitivity#ex_3_36.sce#2318/CH3/EX3.36/ex_3_36.sce#S##80412
+3#Measurement of parameters#3.35#resistance#ex_3_35.sce#2318/CH3/EX3.35/ex_3_35.sce#S##80411
+3#Measurement of parameters#3.34#voltmeter#ex_3_34.sce#2318/CH3/EX3.34/ex_3_34.sce#S##80409
+3#Measurement of parameters#3.33#resistance and frequency#ex_3_33.sce#2318/CH3/EX3.33/ex_3_33.sce#S##80410
+3#Measurement of parameters#3.32#resistance#ex_3_32.sce#2318/CH3/EX3.32/ex_3_32.sce#S##80408
+3#Measurement of parameters#3.31#capacitance and angle#ex_3_31.sce#2318/CH3/EX3.31/ex_3_31.sce#S##86661
+3#Measurement of parameters#3.30#capacitance and loss angle#ex_3_30.sce#2318/CH3/EX3.30/ex_3_30.sce#S##86660
+3#Measurement of parameters#3.3#resistance#ex_3_3.sce#2318/CH3/EX3.3/ex_3_3.sce#S##80379
+3#Measurement of parameters#3.29#capacitance#ex_3_29.sce#2318/CH3/EX3.29/ex_3_29.sce#S##80405
+3#Measurement of parameters#3.28#resistance and inductance#ex_3_28.sce#2318/CH3/EX3.28/ex_3_28.sce#S##80404
+3#Measurement of parameters#3.27#resistance and inductance#ex_3_27.sce#2318/CH3/EX3.27/ex_3_27.sce#S##80403
+3#Measurement of parameters#3.26#resistance and inductance#ex_3_26.sce#2318/CH3/EX3.26/ex_3_26.sce#S##80402
+3#Measurement of parameters#3.25#resistance and inductance#ex_3_25.sce#2318/CH3/EX3.25/ex_3_25.sce#S##80401
+3#Measurement of parameters#3.24#inductance and resistance#ex_3_24.sce#2318/CH3/EX3.24/ex_3_24.sce#S##80400
+3#Measurement of parameters#3.23#resistance and inductance#ex_3_23.sce#2318/CH3/EX3.23/ex_3_23.sce#S##80399
+3#Measurement of parameters#3.22#resistance and inductance#ex_3_22.sce#2318/CH3/EX3.22/ex_3_22.sce#S##80398
+3#Measurement of parameters#3.21#impedence#ex_3_21.sce#2318/CH3/EX3.21/ex_3_21.sce#S##80397
+3#Measurement of parameters#3.20#resistance#ex_3_20.sce#2318/CH3/EX3.20/ex_3_20.sce#S##80396
+3#Measurement of parameters#3.2#resistance#ex_3_2.sce#2318/CH3/EX3.2/ex_3_2.sce#S##80378
+3#Measurement of parameters#3.19#resistance and inductance#ex_3_19.sce#2318/CH3/EX3.19/ex_3_19.sce#S##80395
+3#Measurement of parameters#3.18#impedence#ex_3_18.sce#2318/CH3/EX3.18/ex_3_18.sce#S##80394
+3#Measurement of parameters#3.17#balanced bridge#ex_3_17.sce#2318/CH3/EX3.17/ex_3_17.sce#S##80393
+3#Measurement of parameters#3.16#resistance#ex_3_16.sce#2318/CH3/EX3.16/ex_3_16.sce#S##80392
+3#Measurement of parameters#3.15#resistance#ex_3_15.sce#2318/CH3/EX3.15/ex_3_15.sce#S##80391
+3#Measurement of parameters#3.14#resistance#ex_3_14.sce#2318/CH3/EX3.14/ex_3_14.sce#S##80390
+3#Measurement of parameters#3.13#resistance#ex_3_13.sce#2318/CH3/EX3.13/ex_3_13.sce#S##80389
+3#Measurement of parameters#3.12#arm ratio#ex_3_12.sce#2318/CH3/EX3.12/ex_3_12.sce#S##80388
+3#Measurement of parameters#3.11#resistance#ex_3_11.sce#2318/CH3/EX3.11/ex_3_11.sce#S##80387
+3#Measurement of parameters#3.10#resistance#ex_3_10.sce#2318/CH3/EX3.10/ex_3_10.sce#S##80386
+3#Measurement of parameters#3.1#resistance and percentage error#ex_3_1.sce#2318/CH3/EX3.1/ex_3_1.sce#S##80377
+2#Analog Measurement of Electrical Quantities#2.9#wattmeter reading#ex_2_9.sce#2318/CH2/EX2.9/ex_2_9.sce#S##80926
+2#Analog Measurement of Electrical Quantities#2.8#parameters#ex_2_8.sce#2318/CH2/EX2.8/ex_2_8.sce#S##80924
+2#Analog Measurement of Electrical Quantities#2.7#resistance#ex_2_7.sce#2318/CH2/EX2.7/ex_2_7.sce#S##80923
+2#Analog Measurement of Electrical Quantities#2.6#resistance#ex_2_6.sce#2318/CH2/EX2.6/ex_2_6.sce#S##86507
+2#Analog Measurement of Electrical Quantities#2.5#torque#ex_2_5.sce#2318/CH2/EX2.5/ex_2_5.sce#S##80922
+2#Analog Measurement of Electrical Quantities#2.46#inductance and capacitance#ex_2_46.sce#2318/CH2/EX2.46/ex_2_46.sce#S##86578
+2#Analog Measurement of Electrical Quantities#2.45#resistance and error#ex_2_45.sce#2318/CH2/EX2.45/ex_2_45.sce#S##80957
+2#Analog Measurement of Electrical Quantities#2.44#inductance and frequency#ex_2_44.sce#2318/CH2/EX2.44/ex_2_44.sce#S##80956
+2#Analog Measurement of Electrical Quantities#2.43#percentage change in current#ex_2_43.sce#2318/CH2/EX2.43/ex_2_43.sce#S##80955
+2#Analog Measurement of Electrical Quantities#2.42#resistance#ex_2_42.sce#2318/CH2/EX2.42/ex_2_42.sce#S##80954
+2#Analog Measurement of Electrical Quantities#2.41#primary current and phase error#ex_2_41.sce#2318/CH2/EX2.41/ex_2_41.sce#S##86545
+2#Analog Measurement of Electrical Quantities#2.40#true value of voltage current and power#ex_2_40.sce#2318/CH2/EX2.40/ex_2_40.sce#S##86542
+2#Analog Measurement of Electrical Quantities#2.4#true power#ex_2_4.sce#2318/CH2/EX2.4/ex_2_4.sce#S##80921
+2#Analog Measurement of Electrical Quantities#2.39#ratio error RCF and phase angle #ex_2_39.sce#2318/CH2/EX2.39/ex_2_39.sce#S##86540
+2#Analog Measurement of Electrical Quantities#2.38#RCF  ratio error and phase angle error#ex_2_38.sce#2318/CH2/EX2.38/ex_2_38.sce#S##86538
+2#Analog Measurement of Electrical Quantities#2.37#flux and current ratio error#ex_2_37.sce#2318/CH2/EX2.37/ex_2_37.sce#S##86534
+2#Analog Measurement of Electrical Quantities#2.36#error and load#ex_2_36.sce#2318/CH2/EX2.36/ex_2_36.sce#S##80953
+2#Analog Measurement of Electrical Quantities#2.35#error#ex_2_35.sce#2318/CH2/EX2.35/ex_2_35.sce#S##80952
+2#Analog Measurement of Electrical Quantities#2.34#error#ex_2_34.sce#2318/CH2/EX2.34/ex_2_34.sce#S##80951
+2#Analog Measurement of Electrical Quantities#2.33#flux actual ratio and phase angle#ex_2_33.sce#2318/CH2/EX2.33/ex_2_33.sce#S##80950
+2#Analog Measurement of Electrical Quantities#2.32#error#ex_2_32.sce#2318/CH2/EX2.32/ex_2_32.sce#S##80949
+2#Analog Measurement of Electrical Quantities#2.31#resistance#ex_2_31.sce#2318/CH2/EX2.31/ex_2_31.sce#S##86531
+2#Analog Measurement of Electrical Quantities#2.30#error#ex_2_30.sce#2318/CH2/EX2.30/ex_2_30.sce#S##80947
+2#Analog Measurement of Electrical Quantities#2.3#percentage error#ex_2_3.sce#2318/CH2/EX2.3/ex_2_3.sce#S##80920
+2#Analog Measurement of Electrical Quantities#2.29#area and error#ex_2_29.sce#2318/CH2/EX2.29/ex_2_29.sce#S##80946
+2#Analog Measurement of Electrical Quantities#2.28#design#ex_2_28.sce#2318/CH2/EX2.28/ex_2_28.sce#S##80945
+2#Analog Measurement of Electrical Quantities#2.27#resistance and sensivity#ex_2_27.sce#2318/CH2/EX2.27/ex_2_27.sce#S##80944
+2#Analog Measurement of Electrical Quantities#2.26#resistance#ex_2_26.sce#2318/CH2/EX2.26/ex_2_26.sce#S##80943
+2#Analog Measurement of Electrical Quantities#2.25#multiplying power#ex_2_25.sce#2318/CH2/EX2.25/ex_2_25.sce#S##86530
+2#Analog Measurement of Electrical Quantities#2.24#resistance and power#ex_2_24.sce#2318/CH2/EX2.24/ex_2_24.sce#S##86528
+2#Analog Measurement of Electrical Quantities#2.23#resistance#ex_2_23.sce#2318/CH2/EX2.23/ex_2_23.sce#S##80940
+2#Analog Measurement of Electrical Quantities#2.22#error#ex_2_22.sce#2318/CH2/EX2.22/ex_2_22.sce#S##86527
+2#Analog Measurement of Electrical Quantities#2.21#consumer monthly bill and power factor#ex_2_21.sce#2318/CH2/EX2.21/ex_2_21.sce#S##80938
+2#Analog Measurement of Electrical Quantities#2.20#limit of error#ex_2_20.sce#2318/CH2/EX2.20/ex_2_20.sce#S##80937
+2#Analog Measurement of Electrical Quantities#2.2#inductance#ex_2_2.sce#2318/CH2/EX2.2/ex_2_2.sce#S##80919
+2#Analog Measurement of Electrical Quantities#2.19#error#ex_2_19.sce#2318/CH2/EX2.19/ex_2_19.sce#S##80936
+2#Analog Measurement of Electrical Quantities#2.18#time and limits of accuracy#ex_2_18.sce#2318/CH2/EX2.18/ex_2_18.sce#S##86509
+2#Analog Measurement of Electrical Quantities#2.17#error#ex_2_17.sce#2318/CH2/EX2.17/ex_2_17.sce#S##80934
+2#Analog Measurement of Electrical Quantities#2.16#error#ex_2_16.sce#2318/CH2/EX2.16/ex_2_16.sce#S##80933
+2#Analog Measurement of Electrical Quantities#2.15#load current#ex_2_15.sce#2318/CH2/EX2.15/ex_2_15.sce#S##80932
+2#Analog Measurement of Electrical Quantities#2.14#power and power factor#ex_2_14.sce#2318/CH2/EX2.14/ex_2_14.sce#S##80931
+2#Analog Measurement of Electrical Quantities#2.13#power factor#ex_2_13.sce#2318/CH2/EX2.13/ex_2_13.sce#S##80930
+2#Analog Measurement of Electrical Quantities#2.12#power factor and capacitance#ex_2_12.sce#2318/CH2/EX2.12/ex_2_12.sce#S##80929
+2#Analog Measurement of Electrical Quantities#2.11#wattmeter reading#ex_2_11.sce#2318/CH2/EX2.11/ex_2_11.sce#S##80928
+2#Analog Measurement of Electrical Quantities#2.10#impedance power and power factor#ex_2_10.sce#2318/CH2/EX2.10/ex_2_10.sce#S##96309
+2#Analog Measurement of Electrical Quantities#2.1#power and error#ex_2_1.sce#2318/CH2/EX2.1/ex_2_1.sce#S##86502
+1#Philosophy of Measurement#1.9#current and error in current#ex_1_9.sce#2318/CH1/EX1.9/ex_1_9.sce#S##85188
+1#Philosophy of Measurement#1.8#volume and error in volume#ex_1_8.sce#2318/CH1/EX1.8/ex_1_8.sce#S##85187
+1#Philosophy of Measurement#1.7#limiting error#ex_1_7.sce#2318/CH1/EX1.7/ex_1_7.sce#S##80328
+1#Philosophy of Measurement#1.6#arithematic mean#ex_1_6.sce#2318/CH1/EX1.6/ex_1_6.sce#S##85186
+1#Philosophy of Measurement#1.5#power and error#ex_1_5.sce#2318/CH1/EX1.5/ex_1_5.sce#S##80326
+1#Philosophy of Measurement#1.4#arithematic mean average deviation standard deviation and varaiance#ex_1_4.sce#2318/CH1/EX1.4/ex_1_4.sce#S##85185
+1#Philosophy of Measurement#1.3#limiting error#ex_1_3.sce#2318/CH1/EX1.3/ex_1_3.sce#S##80324
+1#Philosophy of Measurement#1.2#apparent value of resistance and gross error#ex_1_2.sce#2318/CH1/EX1.2/ex_1_2.sce#S##80323
+1#Philosophy of Measurement#1.11#resistance and error#ex_1_11.sce#2318/CH1/EX1.11/ex_1_11.sce#S##80332
+1#Philosophy of Measurement#1.10#resistance and error#ex_1_10.sce#2318/CH1/EX1.10/ex_1_10.sce#S##80331
+1#Philosophy of Measurement#1.1#arithmetic mean average deviation standard deviation and probable error#ex_1_1.sce#2318/CH1/EX1.1/ex_1_1.sce#S##85184

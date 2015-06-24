@@ -1,0 +1,9 @@
+ 
+ Drift time (in sec) =   
+ 
+    2.000D-11  
+ 
+ Operating Frequency (in GHz)=   
+ 
+    25.  
+ 

@@ -1,0 +1,7 @@
+ Hole concentration (in per cubic cm) =    
+ 
+    2250.  
+ 
+ Location of Fermi Level (in eV) =    
+ 
+    0.4069571  

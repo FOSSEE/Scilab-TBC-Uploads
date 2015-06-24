@@ -1,0 +1,2 @@
+medium source resistance is 400 ohms
+drain voltage is 25 volts

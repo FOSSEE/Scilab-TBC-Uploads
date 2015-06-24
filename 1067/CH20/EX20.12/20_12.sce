@@ -1,0 +1,10 @@
+clear;
+clc;
+rb=100e6;
+r1=50e6;
+r2=rb;
+x1=rb/r1;
+x2=rb/r2;
+xeq=inv(inv(x1)+inv(x2));
+f=rb/xeq;
+mprintf("the fault level on the line =%dMVA",f/1e6);

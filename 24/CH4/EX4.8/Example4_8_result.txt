@@ -1,0 +1,8 @@
+**Sample Problem 4-8a**
+Yes, It clears the first Ferris wheel
+
+**Sample Problem 4-8b**
+The balls clearance above middle tower is 7.852391 m
+
+**Sample Problem 4-8c**
+The centre of the net should be placed at a diastance of 68.882248 m form the cannon 

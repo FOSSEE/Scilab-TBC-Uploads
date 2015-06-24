@@ -1,0 +1,4 @@
+
+Example 8.6
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+Required temperature is 11.313708 K.

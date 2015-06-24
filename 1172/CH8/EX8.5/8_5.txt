@@ -1,0 +1,8 @@
+ # Problem 5 # 
+Standard formula used 
+	 v_o = sqrt(G*M_e/r) 
+ 
+ 	 T = 2 * pi * r / v_o 
+ 
+ Orbital velocity of satellite is 6.660936 km/s 
+ period of revolution is 2.363462 h.

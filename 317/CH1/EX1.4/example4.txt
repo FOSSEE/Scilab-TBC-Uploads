@@ -1,0 +1,2 @@
+Thevenin voltage is 24 volts
+Thevenin resistance is 6 Kohms

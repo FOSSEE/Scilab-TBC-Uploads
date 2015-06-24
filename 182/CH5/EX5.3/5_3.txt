@@ -1,0 +1,4 @@
+3case 1,
+Total current=0.460000 A
+case 2,
+Total current=0.006900 A

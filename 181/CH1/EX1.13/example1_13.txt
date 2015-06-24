@@ -1,0 +1,6 @@
+(a)Mobility = 3.5e-003 m^2/Vs
+Conductivity of the specimen is 4.43e+007 s/m
+
+(b)Electric field Eo = 3e+003 V/m
+Drift velocity of free electrons is 10.56 m/s
+Current density is 1.33e+011 A/meter^3 

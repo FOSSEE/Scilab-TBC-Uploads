@@ -1,0 +1,8 @@
+  
+ Example 3.12   
+equivalent resistance reffered to primary,Re=1.980000ohms
+equivalent reactance reffered to primary,Xe=9.680000ohms
+equivalent impedance reffered to primary,Ze=9.880425ohms
+secondary current reffered to primary side=1200.000000A
+(a)Voltage to be applied to the high voltage side=11856volts
+(b)Power factor=0.200396 

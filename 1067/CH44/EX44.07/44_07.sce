@@ -1,0 +1,13 @@
+clear;
+clc;
+pm=500;
+d=8;
+pd=pm*sind(d);
+pd=round(pd*10)/10;
+mprintf("the power developed=%fMW",pd);
+d=d*%pi/180;
+v=asind(cos(3.14-d))+31.9;
+p=pm*sind(-v);
+p=round(p);
+pz=p-pd;
+mprintf("permissible sudden action loading without loss of transient stability with initial rotor angle 8degree = %fMW",pz);

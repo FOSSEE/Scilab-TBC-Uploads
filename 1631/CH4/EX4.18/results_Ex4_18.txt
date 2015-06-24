@@ -1,0 +1,9 @@
+ 
+Enter the Nyquist rate of Signal fs(Hz)=2000
+Enter the Quantization levels q =16
+ 
+  Time duration of binary signal  t=   
+ 
+    0.000125  
+ 
+   sec   

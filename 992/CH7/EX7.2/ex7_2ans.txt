@@ -1,0 +1,4 @@
+ 
+ 1)Lock range is from 4.814000MHz to 6.786000MHz
+ 2)Lock range is from 4.466000MHz to 7.134000MHz 
+ Execution done.   

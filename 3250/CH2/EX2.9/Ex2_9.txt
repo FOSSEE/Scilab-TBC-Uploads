@@ -1,0 +1,11 @@
+ 
+ # PROBLEM 2.9 # 
+(A/V)r=0.636422, (A/V)c=0.400000
+ Hence Rr is greater than Rc
+ With minimum value of d Vr=2650 cm^3 .
+ This valume is much more than the minimum Vr necessary. 
+Let us now consider the top riser when the optimum cylindrical shape is obtained with h=d/2 
+and again (A/V)r = 6/d. However, with a large top riser,
+ the cube loses its top surface for the purpose of heat dissipation.
+ d should be greater than or equal to 18 cm
+ The riser volume with minimum diameter is 2290 cm^3 

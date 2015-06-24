@@ -1,0 +1,82 @@
+// Scilab code Exa7.2.1: To calculate the  energy of alpha particle :P.no. 308 (2011)
+  E_p = 30; // Energy required for one pair, eV
+  n = 150000; // Number of pairs 
+ E_a = n*E_p/10^6; // Energy of alpha particle, Mev
+  printf("\n The energy of alpha particle  : %3.1f Mev", E_a)
+// Result
+//     The  energy of alpha particle  : 4.5 Mev
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

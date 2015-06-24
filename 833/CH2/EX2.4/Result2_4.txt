@@ -1,0 +1,7 @@
+ Regulation on full load at 0.8 power factor lagging(in volt)=   
+ 
+    37.393877  
+ 
+ Percentage Regulation(in%)=   
+ 
+    7.4787754  

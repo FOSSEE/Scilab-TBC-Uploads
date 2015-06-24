@@ -1,0 +1,3 @@
+Back emf produced in motor(in Volts)=   
+ 
+    188.95182  

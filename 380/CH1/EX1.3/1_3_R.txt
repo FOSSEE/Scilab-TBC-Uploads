@@ -1,0 +1,3 @@
+ Value of capacitance (in Farad) is=   
+ 
+    0.0001085  

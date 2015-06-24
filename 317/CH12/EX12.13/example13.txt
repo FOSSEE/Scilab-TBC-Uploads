@@ -1,0 +1,1 @@
+worst-case power dissipation is 26 mWatts

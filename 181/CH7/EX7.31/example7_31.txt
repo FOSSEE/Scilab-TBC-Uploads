@@ -1,0 +1,7 @@
+(a)Vgsq = -1.216 V
+(b)gm = 5.742e-004 A/V
+(c)Rs = 1.520e+003 ohms
+(d)Rl = 1.74e+004 ohms
+(e)Vds = 8.852 V
+Therefore,
+(e)Vdsq = 16.48 V 

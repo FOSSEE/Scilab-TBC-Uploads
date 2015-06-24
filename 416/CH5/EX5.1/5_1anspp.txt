@@ -1,0 +1,8 @@
+ 
+ solution of exp 5.1   
+depreciation rate 0.024393 
+ total fixed rate =0.139393
+annual fixed cost of a is Rs37636089   fuel cost of plan a is Rs18000000 and total cost of a is Rs56095689
+annual fixed cost of b is Rs43908771   fuel cost of plan b is Rs15750000 and total cost of b is Rs60118371
+annual fixed cost of c is Rs50181453   fuel cost of plan c is Rs13500000 and total cost of c is Rs64141053
+annual cost of purchasing electricty from utility is Rs600x25000+0.3x1.0e+008 is Rs45000000 

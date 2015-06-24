@@ -1,0 +1,10 @@
+ 
+
+Capacitance to neutral /km of the given single phase line neglecting presence of the earth (using Eq 3.6) is = 0.00817 uF/km
+
+Capacitance to neutral /km of the given single phase line neglecting presence of the earth (using Eq 3.7) is = 0.00817 uF/km
+
+Capacitance to neutral /km of the given single phase line considering the presence of the earth and neglecting non uniformity of charge distribution (using Eq 3.26b) is = 0.00820 uF/km
+
+ 
+

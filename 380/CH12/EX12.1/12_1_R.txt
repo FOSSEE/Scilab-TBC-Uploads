@@ -1,0 +1,7 @@
+ speed of motor (in rpm)=   
+ 
+    942.  
+ 
+ torque developed under blocked rotor condition (in Newton-meter)=   
+ 
+    19.

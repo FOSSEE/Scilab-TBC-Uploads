@@ -1,0 +1,7 @@
+ 
+Radius of the receiving-end circle=544.3 MVA
+
+Location of the center of receiving-end circle= 487.6 MVA
+
+From the graph, 55 MVA shunt reactor is required
+

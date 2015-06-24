@@ -1,0 +1,16 @@
+Resistance per 100 m of distributor = 0.02 ohm 
+
+Resistance of section AC = 0.030 ohm 
+Resistance of section CD = 0.030 ohm 
+Resistance of section DE = 0.010 ohm 
+Resistance of section EF = 0.020 ohm 
+Resistance of section FB = 0.030 ohm 
+
+Ia = 437.5 A 
+
+(i) Current supplied from end A = Ia = 437.50 A 
+    Current supplied from end B = Ib = 412.50 A 
+
+(ii) Power loss in the distributor = 14.706 kW 
+
+

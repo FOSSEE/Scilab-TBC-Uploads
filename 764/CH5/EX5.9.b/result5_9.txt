@@ -1,0 +1,116 @@
+-->//(Design against Fluctuating Load) Example 5.9
+ 
+-->//Refer Fig.5.34 on page 164
+ 
+-->//Bending moment acting at section X-X Mb (kN-m)
+ 
+-->Mb = 500
+ Mb  =
+ 
+    500.  
+ 
+-->//Ultimate tensile strength of shaft material Sut (MN/m2)
+ 
+-->Sut = 500
+ Sut  =
+ 
+    500.  
+ 
+-->//Minimum value of N is Nmin
+ 
+-->Nmin = (10^3)
+ Nmin  =
+ 
+    1000.  
+ 
+-->//Maximum value of N is Nmax
+ 
+-->Nmax = (10^6)
+ Nmax  =
+ 
+    1000000.  
+ 
+-->//Yield point of shaft material Syt (MN/m2)
+ 
+-->Syt = 350
+ Syt  =
+ 
+    350.  
+ 
+-->//Endurance limit in bending for specimen Sdash (MN/m2)
+ 
+-->Sdash = 210
+ Sdash  =
+ 
+    210.  
+ 
+-->//Specimen shaft diameter ds (mm)
+ 
+-->ds = 7.5
+ ds  =
+ 
+    7.5  
+ 
+-->//Notch sensitivity factor q
+ 
+-->q = 0.8
+ q  =
+ 
+    0.8  
+ 
+-->//Fillet radius rf (mm)
+ 
+-->rf = 8
+ rf  =
+ 
+    8.  
+ 
+-->//Shaft diameter d (mm)
+ 
+-->d = 300
+ d  =
+ 
+    300.  
+ 
+-->//Theoretical stress concentration table
+ 
+-->ratioVal = {0.025 0.05 0.1}
+ ratioVal  =
+ 
+    0.025    0.05    0.1  
+ 
+-->Ktval = {2.6 2.05 1.66}
+ Ktval  =
+ 
+    2.6    2.05    1.66  
+ 
+-->//Reliability (%)
+ 
+-->reliability = 90
+ reliability  =
+ 
+    90.  
+ 
+-->//Operation
+ 
+-->    //Nomenclature: 
+ 
+-->    //1 - Ground
+ 
+-->    //2 - Machined or cold drawn
+ 
+-->    //3 - Hot-rolled
+ 
+-->    //4 - Forged
+ 
+-->op = 2
+ op  =
+ 
+    2.  
+ 
+
+The life of the shaft is 17219.681605 cycles
+
+Answer is slightly different because of use of equation 5.18
+Use value of Ka from Fig.5.24 in order to obtain the mentioned result
+ 

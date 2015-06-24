@@ -1,0 +1,8 @@
+  Example 9.6 
+
+ Part A:
+ Average tensile strength is 517 MPa.
+
+
+ Part B:
+ Standard deviation is 4.6 MPa

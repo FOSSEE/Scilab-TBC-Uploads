@@ -1,0 +1,4 @@
+
+ Example 16.1
+ Net magnetic moment per iron atom in crystal is 2.068e-23 Am^2
+ In unit of mu_b, Net magnetic moment per iron atom in crystal is 2.2

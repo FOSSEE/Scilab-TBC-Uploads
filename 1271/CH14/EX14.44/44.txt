@@ -1,0 +1,5 @@
+ # PROBLEM 44 # 
+Standard formula used 
+  E = (13.6 / n^2)
+
+ de-Broglie wavelength is 3.326541 Angstrom.

@@ -1,0 +1,5 @@
+ # PROBLEM 3 # 
+Standard formula used 
+n_c = n_d * e^(E_f-E_c)/kT 
+
+ New position of fermi level is 0.330000 eV.

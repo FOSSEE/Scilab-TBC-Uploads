@@ -1,0 +1,5 @@
+# PROBLEM 7 # 
+Standard formula used 
+ mu=tan(Ip)
+ 
+ Polarization angle of material is 35.264390 degree.

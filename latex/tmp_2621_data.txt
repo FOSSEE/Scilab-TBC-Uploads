@@ -1,0 +1,96 @@
+10#Voltage Regulators#10.6#Duty cycle of the pulses#Ex10_6.sce#2621/CH10/EX10.6/Ex10_6.sce#S##114970
+10#Voltage Regulators#10.5#Regulated output voltage#Ex10_5.sce#2621/CH10/EX10.5/Ex10_5.sce#S##114969
+10#Voltage Regulators#10.4#Minimum and maximum output voltage#Ex10_4.sce#2621/CH10/EX10.4/Ex10_4.sce#S##114968
+10#Voltage Regulators#10.3#Regulated output voltage#Ex10_3.sce#2621/CH10/EX10.3/Ex10_3.sce#S##114967
+10#Voltage Regulators#10.2#Input voltage#Ex10_2.sce#2621/CH10/EX10.2/Ex10_2.sce#S##114966
+10#Voltage Regulators#10.1#Minimum input voltage#Ex10_1.sce#2621/CH10/EX10.1/Ex10_1.sce#S##114965
+8#Non Linear circuits#8.9#Output voltage#Ex8_9.sce#2621/CH8/EX8.9/Ex8_9.sce#S##114962
+8#Non Linear circuits#8.7#DC voltage with proper sign#Ex8_7.sce#2621/CH8/EX8.7/Ex8_7.sce#S##116687
+8#Non Linear circuits#8.2#Peak value and average value of voltage#Ex8_2.sce#2621/CH8/EX8.2/Ex8_2.sce#S##114960
+8#Non Linear circuits#8.10#Schmitt trigger#Ex8_10.sce#2621/CH8/EX8.10/Ex8_10.sce#S##114963
+7#Active Filters#7.8#Centre frequency and gain#Ex7_8.sce#2621/CH7/EX7.8/Ex7_8.sce#S##114951
+7#Active Filters#7.7#Cut off frequency#Ex7_7.sce#2621/CH7/EX7.7/Ex7_7.sce#S##114950
+7#Active Filters#7.5#Flattest passband second order active filter#Ex7_5.sce#2621/CH7/EX7.5/Ex7_5.sce#S##114949
+7#Active Filters#7.4#Flattest band second order active filter#Ex7_4.sce#2621/CH7/EX7.4/Ex7_4.sce#S##114948
+7#Active Filters#7.3#Second order low pass filter#Ex7_3.sce#2621/CH7/EX7.3/Ex7_3.sce#S##114947
+7#Active Filters#7.2#Second order low pass filter#Ex7_2.sce#2621/CH7/EX7.2/Ex7_2.sce#S##114946
+7#Active Filters#7.18#Bandpass centre frequency#Ex7_18.sce#2621/CH7/EX7.18/Ex7_18.sce#S##114959
+7#Active Filters#7.16#Phase shift#Ex7_16.sce#2621/CH7/EX7.16/Ex7_16.sce#S##114958
+7#Active Filters#7.15#A 50 Hz active notch filter#Ex7_15.sce#2621/CH7/EX7.15/Ex7_15.sce#S##114957
+7#Active Filters#7.14#A wide band stop filter#Ex7_14.sce#2621/CH7/EX7.14/Ex7_14.sce#S##114956
+7#Active Filters#7.13#Designing of a bandpass filter#Ex7_13.sce#2621/CH7/EX7.13/Ex7_13.sce#S##114955
+7#Active Filters#7.12#Cut off frequencies#Ex7_12.sce#2621/CH7/EX7.12/Ex7_12.sce#S##114954
+7#Active Filters#7.11#Narror bandpass filter#Ex7_11.sce#2621/CH7/EX7.11/Ex7_11.sce#S##116686
+7#Active Filters#7.10#Bandpass active filter#Ex7_10.sce#2621/CH7/EX7.10/Ex7_10.sce#S##114952
+7#Active Filters#7.1#Low pass filter#Ex7_1.sce#2621/CH7/EX7.1/Ex7_1.sce#S##114945
+6#Digitally Controlled Frequency Synthesizers#6.2#Frequency of reference oscillator#Ex6_2.sce#2621/CH6/EX6.2/Ex6_2.sce#S##114944
+6#Digitally Controlled Frequency Synthesizers#6.1#Free runnting frequency#Ex6_1.sce#2621/CH6/EX6.1/Ex6_1.sce#S##114943
+5#Waveform Generators#5.8#Signal frequency and amplitude of triangular and square wave#Ex5_8.sce#2621/CH5/EX5.8/Ex5_8.sce#S##114940
+5#Waveform Generators#5.7#Power dissipated in the crystal#Ex5_7.sce#2621/CH5/EX5.7/Ex5_7.sce#S##114939
+5#Waveform Generators#5.6#Resonance frequencies#Ex5_6.sce#2621/CH5/EX5.6/Ex5_6.sce#S##114938
+5#Waveform Generators#5.5#Designing of a 555 timer#Ex5_5.sce#2621/CH5/EX5.5/Ex5_5.sce#S##114937
+5#Waveform Generators#5.4#Designing of a 555 timer#Ex5_4.sce#2621/CH5/EX5.4/Ex5_4.sce#S##116685
+5#Waveform Generators#5.3#Required resistor#Ex5_3.sce#2621/CH5/EX5.3/Ex5_3.sce#S##114935
+5#Waveform Generators#5.2#Positive and negative pulse width and free running frequency#Ex5_2.sce#2621/CH5/EX5.2/Ex5_2.sce#S##114934
+5#Waveform Generators#5.11#Frequency of oscillation#Ex5_11.sce#2621/CH5/EX5.11/Ex5_11.sce#S##114942
+5#Waveform Generators#5.10#A Wien bridge oscillator#Ex5_10.sce#2621/CH5/EX5.10/Ex5_10.sce#S##114941
+5#Waveform Generators#5.1#Frequency and duty cycle#Ex5_1.sce#2621/CH5/EX5.1/Ex5_1.sce#S##114933
+4#Linear Applications of Op Amps#4.9#Output voltage#Ex4_9.sce#2621/CH4/EX4.9/Ex4_9.sce#S##114928
+4#Linear Applications of Op Amps#4.8#Value of R1 and Rf#Ex4_8.sce#2621/CH4/EX4.8/Ex4_8.sce#S##114927
+4#Linear Applications of Op Amps#4.7#Capacitor voltage at the end of pulse#Ex4_7.sce#2621/CH4/EX4.7/Ex4_7.sce#S##114926
+4#Linear Applications of Op Amps#4.5#Output voltage#Ex4_5.sce#2621/CH4/EX4.5/Ex4_5.sce#S##114925
+4#Linear Applications of Op Amps#4.4#Value of R1 R2 and Rf#Ex4_4.sce#2621/CH4/EX4.4/Ex4_4.sce#S##114924
+4#Linear Applications of Op Amps#4.3#Summing amplifier#Ex4_3.sce#2621/CH4/EX4.3/Ex4_3.sce#S##114923
+4#Linear Applications of Op Amps#4.2#Output voltage#Ex4_2.sce#2621/CH4/EX4.2/Ex4_2.sce#S##114922
+4#Linear Applications of Op Amps#4.15#Instrumentation amplifier#Ex4_15.sce#2621/CH4/EX4.15/Ex4_15.sce#S##114932
+4#Linear Applications of Op Amps#4.13#Differentiator to differentiate an input signal#Ex4_13.sce#2621/CH4/EX4.13/Ex4_13.sce#S##116684
+4#Linear Applications of Op Amps#4.12#Output voltage#Ex4_12.sce#2621/CH4/EX4.12/Ex4_12.sce#S##114930
+4#Linear Applications of Op Amps#4.10#Time duration required for saturation#Ex4_10.sce#2621/CH4/EX4.10/Ex4_10.sce#S##114929
+4#Linear Applications of Op Amps#4.1#Designing of an adder circuit#Ex4_1.sce#2621/CH4/EX4.1/Ex4_1.sce#S##114921
+3#Op Amps With Negative Feedback#3.9#Input impedance voltage gain and power gain#Ex3_9.sce#2621/CH3/EX3.9/Ex3_9.sce#S##114913
+3#Op Amps With Negative Feedback#3.8#Voltage gain input resistance and output resistance#Ex3_8.sce#2621/CH3/EX3.8/Ex3_8.sce#S##114912
+3#Op Amps With Negative Feedback#3.7#Value of Af RIF Rof ff and VooT#Ex3_7.sce#2621/CH3/EX3.7/Ex3_7.sce#S##114911
+3#Op Amps With Negative Feedback#3.6#Voltage gain input resistance output resistance and bandwidth#Ex3_6.sce#2621/CH3/EX3.6/Ex3_6.sce#S##114910
+3#Op Amps With Negative Feedback#3.5#Voltage gain input resistance output resistance and bandwidth#Ex3_5.sce#2621/CH3/EX3.5/Ex3_5.sce#S##114909
+3#Op Amps With Negative Feedback#3.4#Voltage gain input resistance output resistance and bandwidth#Ex3_4.sce#2621/CH3/EX3.4/Ex3_4.sce#S##114908
+3#Op Amps With Negative Feedback#3.3#Voltage gain input resistance output resistance and bandwidth#Ex3_3.sce#2621/CH3/EX3.3/Ex3_3.sce#S##114907
+3#Op Amps With Negative Feedback#3.20#Voltage gain input resistance output resistance and bandwidth#Ex3_20.sce#2621/CH3/EX3.20/Ex3_20.sce#S##116782
+3#Op Amps With Negative Feedback#3.2#Minimum and maximum closed loop voltage gains#Ex3_2.sce#2621/CH3/EX3.2/Ex3_2.sce#S##114906
+3#Op Amps With Negative Feedback#3.19#Gain of the circuit#Ex3_19.sce#2621/CH3/EX3.19/Ex3_19.sce#S##114919
+3#Op Amps With Negative Feedback#3.18#Voltage gain output voltage and internal resistance#Ex3_18.sce#2621/CH3/EX3.18/Ex3_18.sce#S##114918
+3#Op Amps With Negative Feedback#3.17#Output voltage#Ex3_17.sce#2621/CH3/EX3.17/Ex3_17.sce#S##114917
+3#Op Amps With Negative Feedback#3.14#Gain of the amplifier circuit#Ex3_14.sce#2621/CH3/EX3.14/Ex3_14.sce#S##114916
+3#Op Amps With Negative Feedback#3.11#Designing of an Inverting op amp circuit#Ex3_11.sce#2621/CH3/EX3.11/Ex3_11.sce#S##114915
+3#Op Amps With Negative Feedback#3.10#Designing of an Inverting op amp circuit#Ex3_10.sce#2621/CH3/EX3.10/Ex3_10.sce#S##114914
+3#Op Amps With Negative Feedback#3.1#Non inverting amplifier#Ex3_1.sce#2621/CH3/EX3.1/Ex3_1.sce#S##114905
+2#Operational Amplifiers and Their Parameters#2.9#Output voltage and percentage error #Ex2_9.sce#2621/CH2/EX2.9/Ex2_9.sce#S##114899
+2#Operational Amplifiers and Their Parameters#2.8#Percentage error in the output voltage#Ex2_8.sce#2621/CH2/EX2.8/Ex2_8.sce#S##114898
+2#Operational Amplifiers and Their Parameters#2.7#Common mode gain#Ex2_7.sce#2621/CH2/EX2.7/Ex2_7.sce#S##114897
+2#Operational Amplifiers and Their Parameters#2.6#CMRR in dB#Ex2_6.sce#2621/CH2/EX2.6/Ex2_6.sce#S##114896
+2#Operational Amplifiers and Their Parameters#2.4#Input resistance#Ex2_4.sce#2621/CH2/EX2.4/Ex2_4.sce#S##114895
+2#Operational Amplifiers and Their Parameters#2.2#Output voltage#Ex2_2.sce#2621/CH2/EX2.2/Ex2_2.sce#S##114894
+2#Operational Amplifiers and Their Parameters#2.14#Required slew rate#Ex2_14.sce#2621/CH2/EX2.14/Ex2_14.sce#S##114904
+2#Operational Amplifiers and Their Parameters#2.13#Limiting frequency#Ex2_13.sce#2621/CH2/EX2.13/Ex2_13.sce#S##114903
+2#Operational Amplifiers and Their Parameters#2.12#Input bias current and input offset current#Ex2_12.sce#2621/CH2/EX2.12/Ex2_12.sce#S##114902
+2#Operational Amplifiers and Their Parameters#2.11#Slew rate#Ex2_11.sce#2621/CH2/EX2.11/Ex2_11.sce#S##114901
+2#Operational Amplifiers and Their Parameters#2.10#Output voltage#Ex2_10.sce#2621/CH2/EX2.10/Ex2_10.sce#S##114900
+1#Differential Amplifiers#1.9#Dual input unbalanced output#Ex1_9.sce#2621/CH1/EX1.9/Ex1_9.sce#S##116683
+1#Differential Amplifiers#1.8#Output voltage#Ex1_8.sce#2621/CH1/EX1.8/Ex1_8.sce#S##114881
+1#Differential Amplifiers#1.7#Common mode gain and CMRR#Ex1_7.sce#2621/CH1/EX1.7/Ex1_7.sce#S##114880
+1#Differential Amplifiers#1.6#Magnitude of differential gain#Ex1_6.sce#2621/CH1/EX1.6/Ex1_6.sce#S##114879
+1#Differential Amplifiers#1.5#Voltage gain input resistance output resistance and CMRR#Ex1_5.sce#2621/CH1/EX1.5/Ex1_5.sce#S##116682
+1#Differential Amplifiers#1.4#ICQ and VCEQ#Ex1_4.sce#2621/CH1/EX1.4/Ex1_4.sce#S##116681
+1#Differential Amplifiers#1.3#Output voltage#Ex1_3.sce#2621/CH1/EX1.3/Ex1_3.sce#S##114876
+1#Differential Amplifiers#1.20#Voltage gain#Ex1_20.sce#2621/CH1/EX1.20/Ex1_20.sce#S##114893
+1#Differential Amplifiers#1.2#Quiescent collector current and collector emitter voltage#Ex1_2.sce#2621/CH1/EX1.2/Ex1_2.sce#S##114875
+1#Differential Amplifiers#1.19#Differential input resistance#Ex1_19.sce#2621/CH1/EX1.19/Ex1_19.sce#S##114892
+1#Differential Amplifiers#1.18#Collector current of each transistor#Ex1_18.sce#2621/CH1/EX1.18/Ex1_18.sce#S##114891
+1#Differential Amplifiers#1.17#Value of each current#Ex1_17.sce#2621/CH1/EX1.17/Ex1_17.sce#S##114890
+1#Differential Amplifiers#1.16#Value of Current#Ex1_16.sce#2621/CH1/EX1.16/Ex1_16.sce#S##114889
+1#Differential Amplifiers#1.15#Value of Current#Ex1_15.sce#2621/CH1/EX1.15/Ex1_15.sce#S##114888
+1#Differential Amplifiers#1.14#Reference current and output current#Ex1_14.sce#2621/CH1/EX1.14/Ex1_14.sce#S##114887
+1#Differential Amplifiers#1.13#Mirrored current#Ex1_13.sce#2621/CH1/EX1.13/Ex1_13.sce#S##114886
+1#Differential Amplifiers#1.12#Voltage gain input resistance and operation point#Ex1_12.sce#2621/CH1/EX1.12/Ex1_12.sce#S##114885
+1#Differential Amplifiers#1.11#Q point differential voltage gain and output resistance#Ex1_11.sce#2621/CH1/EX1.11/Ex1_11.sce#S##114884
+1#Differential Amplifiers#1.10#Single input unbalanced output#Ex1_10.sce#2621/CH1/EX1.10/Ex1_10.sce#S##114883
+1#Differential Amplifiers#1.1#DC voltages and currents#Ex1_1.sce#2621/CH1/EX1.1/Ex1_1.sce#S##114874

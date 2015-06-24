@@ -1,0 +1,7 @@
+ Circuit 1:
+(a)Base Voltage = 0.0 V
+(b)Emitter Voltage = -0.7 V
+Circuit 2:
+(a)Emitter Voltage = 0.7 V
+(b)Collector Voltage = -5.7 V
+ 

@@ -1,0 +1,15 @@
+Sum of maximum demands on transformer 1 = 6.50 kW 
+
+Maximum demand on transformer 1 = 4.333 kW 
+
+Sum of maximum demands on transformer 2 = 7.20 kW 
+
+Maximum demand on transformer 2 = 2.057 kW 
+
+Sum of maximum demands on transformer 3 = 10.50 kW 
+
+Maximum demand on transformer 3 = 7.000 kW 
+
+Maximum demand on feeder = 10.30 kW 
+
+

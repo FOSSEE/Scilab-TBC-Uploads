@@ -1,0 +1,1 @@
+Ib is 9.3 microAmperes,Ic is 2.79 mAmperes,Vce is 4.42 volts,Pd is 12.3 mWatts

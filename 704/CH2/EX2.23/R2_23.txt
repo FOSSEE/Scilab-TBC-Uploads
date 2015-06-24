@@ -1,0 +1,4 @@
+speed of the motor when machine drawing 10 Amp current(in rpm)=   
+ 
+    1244.8598  
+ 

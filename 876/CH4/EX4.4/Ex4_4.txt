@@ -1,0 +1,3 @@
+deflection of the galvenometer(in m)=   
+ 
+    0.0000332  

@@ -1,0 +1,2 @@
+ Dipole moment = 0.96 debye 
+Sum =  1.6 x 10^-39 farad m^2  

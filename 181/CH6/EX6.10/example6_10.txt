@@ -1,0 +1,2 @@
+(a)Pinch off voltage = 9.040 V
+(b)Saturation voltage = 7.040 V 

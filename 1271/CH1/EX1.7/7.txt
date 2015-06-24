@@ -1,0 +1,3 @@
+﻿Coherence length of monochromatic light = 3.000000e-02 meter. 
+ band width = 1.000000e+10 Hz. 
+ line width = 0.133479 A.

@@ -1,0 +1,3 @@
+ average value of emf induced across the feild terminals (in volts)=   
+ 
+    1400. 

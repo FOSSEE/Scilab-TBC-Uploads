@@ -1,0 +1,1 @@
+ The current produced = 2.006400e-13 Amp

@@ -1,0 +1,14 @@
+new = 3;
+working = 4;
+defective =5;
+total = factorial(12)/(factorial(3)*factorial(9));
+disp(factorial(5)/(factorial(3)*factorial(2)*total), "Probability that X=0 and Y=0");
+disp(factorial(5)*factorial(4)/(factorial(3)*factorial(2)*factorial(3)*total), "Probability that X=0 and Y=1");
+disp(factorial(5)*factorial(4)/(factorial(2)*factorial(2)*factorial(4)*total), "Probability that X=0 and Y=2");
+disp(factorial(4)/(factorial(3)*factorial(1)*total), "Probability that X=0 and Y=3");
+disp(factorial(3)*factorial(5)/(factorial(2)*factorial(2)*factorial(3)*total), "Probability that X=1 and Y=0");
+disp(factorial(5)*factorial(4)*factorial(3)/(factorial(2)*factorial(3)*factorial(4)*total), "Probability that X=1 and Y=1");
+disp(factorial(3)*factorial(4)/(factorial(2)*factorial(2)*factorial(2)*total), "Probability that X=1 and Y=2");
+disp(factorial(3)*factorial(5)/(factorial(2)*factorial(4)*factorial(1)*total), "Probability that X=2 and Y=0");
+disp(factorial(3)*factorial(4)/(factorial(2)*factorial(1)*factorial(3)*total), "Probability that X=2 and Y=1");
+disp(factorial(3)/(factorial(3)*total), "Probability that X=3 and Y=3");

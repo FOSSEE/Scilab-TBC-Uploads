@@ -1,0 +1,5 @@
+ # Problem 20 # 
+
+ Standard formula used 
+ m = m_o* sqrt ( 1- (v/c)^2) 
+ Velocity required to increase mass by one perfect is 4.211123e+07 m/s.

@@ -1,0 +1,14 @@
+**Sample Problem 21-3a**
+The efficiency of the cycle is equal to 0.647059
+
+**Sample Problem 21-3b**
+The average power of the cycle is 4800.000000W
+
+**Sample Problem 21-3c**
+The heat extracted from the reservoir is equal to 1854.545455J
+
+**Sample Problem 21-3d**
+The heat delivered to the reservoir is equal to -654.545455J
+
+**Sample Problem 21-3e**
+The net entropy change for the cycle is -0.000000J/k 

@@ -1,0 +1,13 @@
+Total current on positive side = 2300 A 
+Total current on negative side = 2050 A 
+Current in nuetral wire = 250 A 
+
+(i)BAck emf = 249 V 
+Ib = 130 A 
+Ia = 120 A 
+
+(ii) Voltage across machine A = 225 V 
+     Voltage across machine B = 275 V 
+
+(iii) Load on main generator = 2180 A 
+

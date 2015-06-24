@@ -1,0 +1,3 @@
+ Example 3.24   
+Full load secondary current,I2=208.333333A
+Efficiency=89.217075percent

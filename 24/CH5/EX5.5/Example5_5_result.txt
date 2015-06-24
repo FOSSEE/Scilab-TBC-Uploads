@@ -1,0 +1,3 @@
+**Sample Problem 5-5**
+The acceleration of both the blocks is 3.811111 m/s^2
+The tension in the string is 12.576667 N 

@@ -1,0 +1,5 @@
+ # Problem 23 # 
+
+ Standard formula used 
+ E = h* c / lambda
+ Threshold wavelength for proton - antiproton production is  6.626466 angstrom.

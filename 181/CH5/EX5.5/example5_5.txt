@@ -1,0 +1,19 @@
+ For S=12 
+(a)Ib = 8.00e-005 A 
+(b)Ir1 = 2.44e-004 A 
+(c)Ir2 = 1.64e-004 A 
+(d)Re = 1.47e+003 ohm 
+(e)Rb = 2.26e+004 ohm 
+(f)R1 = 5.65e+004 ohm 
+(g)R2 = 3.77e+004 ohm 
+(h)Base-Ground Voltage Vbn = 6.20 V 
+(i)Thevenin Voltage Vth = 8.01 V 
+
+ For S=3 
+(a)Re = 1.47e+003 ohm 
+(b)Rb = 4.60e+003 ohm 
+(c)R1 = 7.22e+003 ohm 
+(d)R2 = 3.77e+004 ohm 
+(e)Thevenin Voltage Vth = 12.73 V 
+(f)Ir1 = 1.91e-003 A 
+(g)Ir2 = 1.83e-003 A 

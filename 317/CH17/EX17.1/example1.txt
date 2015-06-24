@@ -1,0 +1,3 @@
+Tail current is 2 mAmperes
+Emitter current is 1 mAmperes
+Collector has a quiescent voltage of 10 Volts

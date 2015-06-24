@@ -1,0 +1,32 @@
+(a)Input Current(in A)=   
+ 
+    4.9874006 - 6.8992325i  
+ 
+ (b)Power factor=   
+ 
+    0.5858473  
+ 
+ (c)Input power(in watts)=   
+ 
+    1147.1021  
+ 
+ (d)Torque due to forward field(in Nm)=   
+ 
+    937.73814  
+ 
+ (e)Torque due to backward field(in Nm)=   
+ 
+    64.416849  
+ 
+ (f)Torque(in Nm)=   
+ 
+    873.32129  
+ 
+ (g)Output(in Watts)=   
+ 
+    804.65523  
+ 
+ (h)Efficiency(in %)=   
+ 
+    70.146781  
+ 

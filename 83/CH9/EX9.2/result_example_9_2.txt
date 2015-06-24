@@ -1,0 +1,12 @@
+ 
+
+Subtransient reactance of each motor = j1.25 pu
+
+Subtransient current in the fault =9224.9A
+
+Subtransient current in breaker B=7475.3A
+
+Momentary current through the breaker B=11960A
+
+Current to be interrupted by breaker B in five cycles=7581A
+ 

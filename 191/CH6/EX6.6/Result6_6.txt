@@ -1,0 +1,22 @@
+  
+ n=1   
+ 
+    6.4207278  
+ 
+ n=2   
+ 
+    6.3912102  
+ 
+ n=4   
+ 
+    6.3891937  
+ 
+ The exact value of intergation is :   
+ 
+    6.3890561  
+ 
+ thus corresponding errors are :    
+ 
+  - 0.0316717  
+  - 0.0021541  
+  - 0.0001376  

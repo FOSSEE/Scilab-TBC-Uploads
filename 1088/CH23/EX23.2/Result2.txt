@@ -1,0 +1,161 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example2.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            23   
+ 
+ Chapter Title                         :                              Systems programming I- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 2    :               Show the method of reversing a file using lseek 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However if possible some selected programmes have been TRIED TO BE IMPLEMENTED   
+ 
+ 3.For most of the programmes whose equivalent is NOT THERE IN SCILAB,only the output has been printed as given in the textbook w 
+      ith no interactive input as in the programme below                                                                          
+ 
+ 4.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+ 
+ 5.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat reverse_read.c      # to open the file emp.lst /* Program: reverse_read.c -- Reads a file in reverse - uses lseek */
+
+#include <fcntl.h>               /* For O_RONLY */
+#include <unistd.h>              /* For STDOUT_FILENO */
+
+int main(int argc, char **argv) {
+    char buf;                    /* Single-character buffer; will make */
+    int size, fd;                /* I/O inefficient. See Section 23.4 */
+    
+    fd= open(argv[1], O_RDONLY);
+    size = lseek(fd, -1, SEEK_END);  /* Pointer taken to EOF - 1 ... */
+    while (size-- >= 0) {            /* ... so siz = file size - 1 */
+         read(fd, &buf, 1);          /* Read one character at a time */
+         write(STD_FILENO, &buf, 1); /* and write it immediately */
+         lseek(fd, -2, SEEK_CUR);    /* Now move the file pointer back */
+         }                           /* by two characters */
+        /* exit(0); */              /* done deliberately */
+}
+
+$ ls   
+  ans  =
+ 
+!vv.txt          !
+!                !
+!reverse_read.c  !
+!                !
+!Result2.txt     !
+!                !
+!Example9.sci    !
+!                !
+!Example8.sci    !
+!                !
+!Example7.sci    !
+!                !
+!Example6.sci    !
+!                !
+!Example5.sci    !
+!                !
+!Example4.sci    !
+!                !
+!Example3.sci    !
+!                !
+!Example2.sci    !
+!                !
+!Example13.sci   !
+!                !
+!Example12.sci   !
+!                !
+!Example11.sci   !
+!                !
+!Example10.sci   !
+!                !
+!ex9             !
+!                !
+!ex8             !
+!                !
+!ex7             !
+!                !
+!ex6             !
+!                !
+!ex5             !
+!                !
+!ex4             !
+!                !
+!ex3             !
+!                !
+!ex2             !
+!                !
+!ex13            !
+!                !
+!ex12            !
+!                !
+!ex11            !
+!                !
+!ex10            !
+!                !
+!ex1             !
+
+$ cat vv.txt     Warning: file 'vv.txt' already opened in Scilab.
+hi there
+How are you
+I am fine 
+Thank You
+Good Bye
+$ cc reverse_read.c$ a.out  vv.txt   
+......a blank line...           The terminating \n of the last lineWarning: file 'vv.txt' already opened in Scilab.
+eyB dooG
+
+uoY knahT
+
+ enif ma I
+
+uoy era woH
+
+ereht i 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

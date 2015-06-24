@@ -1,0 +1,10 @@
+ 
+ example 15.4   
+output voltage 302.4V 
+total power 2.3328MW 
+ efficiency 0.7 
+ output power 1.632960MW 
+ open circuit voltage 432V 
+ internal resistence 0.024ohm 
+ short circuit current 18000A 
+ maximum power output is 1.944MW 

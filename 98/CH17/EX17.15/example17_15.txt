@@ -1,0 +1,13 @@
+% reactance of the alternator = 12.00 % 
+
+% reactance of the transformer = 5.00 % 
+
+% reactance of the reactor = 24.00 % 
+
+Total % reactance upto fault point = 10.00 % 
+
+Fault MVA = 100.00 MVA 
+
+Short circuit current fed by the alternator to the fault = 874.77 A 
+
+

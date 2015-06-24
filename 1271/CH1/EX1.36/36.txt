@@ -1,0 +1,2 @@
+﻿
+ Diameter of 7th bright ring = 4.063102e-03 meter.

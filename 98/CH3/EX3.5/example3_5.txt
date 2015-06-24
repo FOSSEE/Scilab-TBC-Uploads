@@ -1,0 +1,7 @@
+Diversity factor = 1.12 
+
+Average demand = 513.70 kW 
+
+Load factor = 20.5 % 
+
+

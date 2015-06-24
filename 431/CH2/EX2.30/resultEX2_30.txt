@@ -1,0 +1,5 @@
+  
+ Example 2.30   
+iron,friction and windage in losses=1195.500000W
+Efficiency of full load=84.262500percent
+Percentage change in speed from no load to full load=5.646173percent 

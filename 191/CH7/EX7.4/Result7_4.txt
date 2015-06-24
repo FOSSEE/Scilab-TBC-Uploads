@@ -1,0 +1,6 @@
+ Value when r = 1 :   
+ 
+    0.95348  
+ Value when r = 1 :   
+ 
+    0.95348  

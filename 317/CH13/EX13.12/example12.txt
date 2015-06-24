@@ -1,0 +1,2 @@
+Gate source cutoff voltage is -2 Volts
+Transconductance is 2500 MicroSeimens

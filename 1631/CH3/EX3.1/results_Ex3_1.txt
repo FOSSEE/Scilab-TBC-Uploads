@@ -1,0 +1,11 @@
+maximum frquency of the signal is   
+ 
+    150.  
+ 
+  Hz   
+ 
+ Nquist Rate of Signal is   
+ 
+    300.  
+ 
+  Hz 

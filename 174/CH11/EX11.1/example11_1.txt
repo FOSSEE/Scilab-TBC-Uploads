@@ -1,0 +1,2 @@
+he change in resistance = 0.001
+The percentage change in resistance = 0.1 % 

@@ -1,0 +1,83 @@
+18#Subsoil Exploration#18.3#solved#18Q3.sce#1793/CH18/EX18.3/18Q3.sce#S##65439
+18#Subsoil Exploration#18.2#solved#18Q2.sce#1793/CH18/EX18.2/18Q2.sce#S##65438
+18#Subsoil Exploration#18.1#solved#18Q1.sce#1793/CH18/EX18.1/18Q1.sce#S##65437
+16#Soil Bearing Capacity for Shallow Foundations#16.7#solved#16Q7.sce#1793/CH16/EX16.7/16Q7.sce#S##65436
+16#Soil Bearing Capacity for Shallow Foundations#16.6#solved#16Q6.sce#1793/CH16/EX16.6/16Q6.sce#S##65435
+16#Soil Bearing Capacity for Shallow Foundations#16.5#solved#16Q5.sce#1793/CH16/EX16.5/16Q5.sce#S##68650
+16#Soil Bearing Capacity for Shallow Foundations#16.4#solved#16Q4.sce#1793/CH16/EX16.4/16Q4.sce#S##65433
+16#Soil Bearing Capacity for Shallow Foundations#16.3#solved#16Q3.sce#1793/CH16/EX16.3/16Q3.sce#S##65432
+16#Soil Bearing Capacity for Shallow Foundations#16.2#solved#16Q2.sce#1793/CH16/EX16.2/16Q2.sce#S##68649
+16#Soil Bearing Capacity for Shallow Foundations#16.1#solved#16Q1.sce#1793/CH16/EX16.1/16Q1.sce#S##65430
+15#Slope Stability#15.9#solved#15Q9.sce#1793/CH15/EX15.9/15Q9.sce#S##65428
+15#Slope Stability#15.8#solved#15Q8.sce#1793/CH15/EX15.8/15Q8.sce#S##65427
+15#Slope Stability#15.7#solved#15Q7.sce#1793/CH15/EX15.7/15Q7.sce#S##65426
+15#Slope Stability#15.6#solved#15Q6.sce#1793/CH15/EX15.6/15Q6.sce#S##68648
+15#Slope Stability#15.5#solved#15Q5.sce#1793/CH15/EX15.5/15Q5.sce#S##65424
+15#Slope Stability#15.4#solved#15Q4.sce#1793/CH15/EX15.4/15Q4.sce#S##65423
+15#Slope Stability#15.3#solved#15Q3.sce#1793/CH15/EX15.3/15Q3.sce#S##65422
+15#Slope Stability#15.2#solved#15Q2.sce#1793/CH15/EX15.2/15Q2.sce#S##65421
+15#Slope Stability#15.11#solved#15Q11.sce#1793/CH15/EX15.11/15Q11.sce#S##65429
+15#Slope Stability#15.1#solved#15Q1.sce#1793/CH15/EX15.1/15Q1.sce#S##65420
+14#Lateral Earth Pressure Curved Failure Surface#14.2#solved#14Q2.sce#1793/CH14/EX14.2/14Q2.sce#S##65418
+14#Lateral Earth Pressure Curved Failure Surface#14.1#solved#14Q1.sce#1793/CH14/EX14.1/14Q1.sce#S##65417
+13#Lateral Earth Pressure#13.9#solved#13Q9.sce#1793/CH13/EX13.9/13Q9.sce#S##65414
+13#Lateral Earth Pressure#13.7#solved#13_7.sce#1793/CH13/EX13.7/13_7.sce#S##95382
+13#Lateral Earth Pressure#13.6#solved#13Q6.sce#1793/CH13/EX13.6/13Q6.sce#S##65412
+13#Lateral Earth Pressure#13.5#solved#13Q5.sce#1793/CH13/EX13.5/13Q5.sce#S##65411
+13#Lateral Earth Pressure#13.4#solved#13Q4.sce#1793/CH13/EX13.4/13Q4.sce#S##65410
+13#Lateral Earth Pressure#13.3#solved#13Q3.sce#1793/CH13/EX13.3/13Q3.sce#S##65409
+13#Lateral Earth Pressure#13.2#solved#13Q2.sce#1793/CH13/EX13.2/13Q2.sce#S##65408
+13#Lateral Earth Pressure#13.10#solved#13Q10.sce#1793/CH13/EX13.10/13Q10.sce#S##65416
+13#Lateral Earth Pressure#13.1#solved#13Q1.sce#1793/CH13/EX13.1/13Q1.sce#S##65407
+12#Shear Strength of Soil#12.8#solved#12Q8.sce#1793/CH12/EX12.8/12Q8.sce#S##65406
+12#Shear Strength of Soil#12.7#solved#12Q7.sce#1793/CH12/EX12.7/12Q7.sce#S##65405
+12#Shear Strength of Soil#12.6#solved#12Q6.sce#1793/CH12/EX12.6/12Q6.sce#S##65404
+12#Shear Strength of Soil#12.5#solved#12Q5.sce#1793/CH12/EX12.5/12Q5.sce#S##65403
+12#Shear Strength of Soil#12.4#solved#12Q4.sce#1793/CH12/EX12.4/12Q4.sce#S##65402
+12#Shear Strength of Soil#12.3#solved#12Q3.sce#1793/CH12/EX12.3/12Q3.sce#S##65401
+12#Shear Strength of Soil#12.2#solved#12Q2.sce#1793/CH12/EX12.2/12Q2.sce#S##65400
+12#Shear Strength of Soil#12.1#solved#12Q1.sce#1793/CH12/EX12.1/12Q1.sce#S##65386
+11#Compressibility of Soil#11.9#solved#11Q9.sce#1793/CH11/EX11.9/11Q9.sce#S##65395
+11#Compressibility of Soil#11.8#solved#11Q8.sce#1793/CH11/EX11.8/11Q8.sce#S##65394
+11#Compressibility of Soil#11.7#solved#11Q7.sce#1793/CH11/EX11.7/11Q7.sce#S##65393
+11#Compressibility of Soil#11.6#solved#11Q6.sce#1793/CH11/EX11.6/11Q6.sce#S##65392
+11#Compressibility of Soil#11.5#solved#11Q5.sce#1793/CH11/EX11.5/11Q5.sce#S##65391
+11#Compressibility of Soil#11.4#solved#11Q4.sce#1793/CH11/EX11.4/11Q4.sce#S##65390
+11#Compressibility of Soil#11.3#solved#11_3.sce#1793/CH11/EX11.3/11_3.sce#S##95381
+11#Compressibility of Soil#11.2#solved#11Q2.sce#1793/CH11/EX11.2/11Q2.sce#S##65388
+11#Compressibility of Soil#11.13#solved#11Q13.sce#1793/CH11/EX11.13/11Q13.sce#S##65399
+11#Compressibility of Soil#11.12#solved#11Q12.sce#1793/CH11/EX11.12/11Q12.sce#S##65398
+11#Compressibility of Soil#11.11#solved#11Q11.sce#1793/CH11/EX11.11/11Q11.sce#S##65397
+11#Compressibility of Soil#11.10#solved#11Q10.sce#1793/CH11/EX11.10/11Q10.sce#S##65396
+11#Compressibility of Soil#11.1#solved#11Q1.sce#1793/CH11/EX11.1/11Q1.sce#S##65387
+10#stress in a soil mass#10.3#solved#10q3.sce#1793/CH10/EX10.3/10q3.sce#S##65385
+10#stress in a soil mass#10.1#solved#10q1.sce#1793/CH10/EX10.1/10q1.sce#S##65384
+9#in situ stresses#9.4#solved#9q4.sce#1793/CH9/EX9.4/9q4.sce#S##65375
+9#in situ stresses#9.3#solved#9q3.sce#1793/CH9/EX9.3/9q3.sce#S##65374
+9#in situ stresses#9.2#solved#9q2.sce#1793/CH9/EX9.2/9q2.sce#S##65373
+9#in situ stresses#9.1#solved#9q1.sce#1793/CH9/EX9.1/9q1.sce#S##65372
+8#seepage#8.5#solved#8q5.sce#1793/CH8/EX8.5/8q5.sce#S##65371
+8#seepage#8.4#solved#8q4.sce#1793/CH8/EX8.4/8q4.sce#S##65370
+8#seepage#8.3#solved#8q3.sce#1793/CH8/EX8.3/8q3.sce#S##65344
+8#seepage#8.2#solved#8q2.sce#1793/CH8/EX8.2/8q2.sce#S##65343
+8#seepage#8.1#solved#8q1.sce#1793/CH8/EX8.1/8q1.sce#S##65340
+7#permiability#7.9#solved#7q9.sce#1793/CH7/EX7.9/7q9.sce#S##65334
+7#permiability#7.8#solved#7q8.sce#1793/CH7/EX7.8/7q8.sce#S##65333
+7#permiability#7.6#solved#7q6.sce#1793/CH7/EX7.6/7q6.sce#S##65332
+7#permiability#7.5#solved#7q5.sce#1793/CH7/EX7.5/7q5.sce#S##65331
+7#permiability#7.4#solved#7q4.sce#1793/CH7/EX7.4/7q4.sce#S##65330
+7#permiability#7.3#solved#7_3.sce#1793/CH7/EX7.3/7_3.sce#S##95380
+7#permiability#7.2#solved#7_2.sce#1793/CH7/EX7.2/7_2.sce#S##95374
+7#permiability#7.12#solved#7q12.sce#1793/CH7/EX7.12/7q12.sce#S##65339
+7#permiability#7.11#solved#7q11.sce#1793/CH7/EX7.11/7q11.sce#S##65337
+7#permiability#7.10#solved#7q10.sce#1793/CH7/EX7.10/7q10.sce#S##65335
+7#permiability#7.1#solved#7q1.sce#1793/CH7/EX7.1/7q1.sce#S##65327
+6#soil compaction#6.4#solved#6q4.sce#1793/CH6/EX6.4/6q4.sce#S##65292
+6#soil compaction#6.3#solved#6q3.sce#1793/CH6/EX6.3/6q3.sce#S##64947
+6#soil compaction#6.2#solved#6q2.sce#1793/CH6/EX6.2/6q2.sce#S##64946
+4#plasticity and structure of soil#4.1#solved#4q1.sce#1793/CH4/EX4.1/4q1.sce#S##64945
+3#weight volume relationships#3.5#solved#3q5.sce#1793/CH3/EX3.5/3q5.sce#S##64944
+3#weight volume relationships#3.4#solved#3q4.sce#1793/CH3/EX3.4/3q4.sce#S##64540
+3#weight volume relationships#3.3#solved#3Q3.sce#1793/CH3/EX3.3/3Q3.sce#S##64538
+3#weight volume relationships#3.2#solved#3Q2.sce#1793/CH3/EX3.2/3Q2.sce#S##64539
+2#weight volume relationships#2.2#solved#2Q2.sce#1793/CH2/EX2.2/2Q2.sce#S##68651

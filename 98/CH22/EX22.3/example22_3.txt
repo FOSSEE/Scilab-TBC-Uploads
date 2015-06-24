@@ -1,0 +1,17 @@
+(i) x% of the winding is unprotected, 
+
+Voltage per phase = 3810 V 
+
+Minimum fault current which will operate the relay = 150 A 
+
+EMF induced in %x winding = 38.11*x V 
+
+Earth fault current which %x winding will cause = 6.35*x A 
+
+This current must be equal to 150 A 
+
+Unprotected winding, x= 23.62 % 
+
+(ii) The minimum earthing resistance required to provide protection for 90 % of stator winding = 2.54 ohm 
+
+

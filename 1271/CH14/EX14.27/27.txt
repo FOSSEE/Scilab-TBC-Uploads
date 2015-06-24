@@ -1,0 +1,7 @@
+ # PROBLEM 27 # 
+Standard formula used 
+  delta_lambda = (h / (m * c) * (1 - cos(theta))) 
+ E = h*c*(1/lambda1 - 1/lambda2)
+
+ Maximum Compton shift is 0.048498 A.
+ Kinetic energy is 21.716784 KeV.

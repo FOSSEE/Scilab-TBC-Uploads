@@ -1,0 +1,16 @@
+Dn = 30;
+Dp =15;
+Na = 5*10^16;
+Nd = 5*10^17;
+q = 1.6*10^-19;
+tn = 10^-8;
+tp = 10^-7;
+ni = 1.84*10^6;
+np = ni^2/Na;
+pn = ni^2/Nd;
+Ln = (Dn*tn)^0.5;
+Lp = (Dp*tp)^0.5;
+disp(Ln,"diffusion length, Ln (in cm) = ")
+disp(Lp,"diffusion length, Lp (in cm) = ")
+n = (q*Dn*np/Ln)/((q*Dn*np/Ln)+(q*Dp*pn/Lp));
+disp(n,"injection efficiency (assuming no recombination via traps) = ")

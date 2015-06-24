@@ -1,0 +1,2 @@
+ The radiated power = 73 watt
+ The FNBW of the array = 60 degree

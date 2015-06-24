@@ -1,0 +1,1 @@
+Diffusion length = 31.84*10^-3 m

@@ -1,0 +1,4 @@
+
+ 							Top	   Bottom
+ Overall mass transfer coefficient (mol/hr ft3 atm): 1.7	 1.9
+ Percenage resistance in gas film:                 22%	      26% 

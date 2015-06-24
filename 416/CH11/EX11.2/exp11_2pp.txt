@@ -1,0 +1,13 @@
+ 
+ example 11.2   
+
+for load condition 700MW 
+ then, 
+ 	 lamda 37.918000 	 p1=347.950000MW 
+ 	 p2=454.559879MW 	 pl=0.454560MW
+for load condition 500MW 
+ then, 
+ 	 lamda 31.705000 	 p1=192.625000MW 
+ 	 p2=377.898428MW 	 pl=0.377898MW
+daily water used 257972328.067993m^3 
+daily operating cost of thermal plant Rs204461.454825 

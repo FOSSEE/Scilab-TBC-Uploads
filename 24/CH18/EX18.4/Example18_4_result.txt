@@ -1,0 +1,5 @@
+**Sample Problem 18-4a**
+The intensity of the sound at a distance 12m is equal to 21.220659W/m^2
+
+**Sample Problem 18-4b**
+The sound energy intercepted by the acoustic detector is 4.244132e-003W 

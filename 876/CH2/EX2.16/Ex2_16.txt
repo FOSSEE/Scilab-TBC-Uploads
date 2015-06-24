@@ -1,0 +1,28 @@
+(a)arithmetic mean=   
+ 
+    10.  
+ 
+ (b)value of deviation=   
+ 
+    0.  
+ 
+    1.  
+ 
+  - 1.  
+ 
+    0.5  
+ 
+  - 0.5  
+ 
+ (c)algebric sum of deviation=   
+ 
+    0.  
+ 
+ (d)average deviation=   
+ 
+    0.6  
+ 
+ (e)standard deviation=   
+ 
+    0.7905694  
+ 

@@ -1,0 +1,39 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example3.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            2   
+ 
+ Chapter Title                         :   THE UNIX ARCHITECTURE AND COMMAND USAGE   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example   3 :  Display the value of the path variable of the current command interpreter   
+ 
+ *************************************************************************   
+ 
+ Answer   :   
+THE FOLLOWING LINES OF CODE RUN 
+ONLY IN SCILAB INSTALLED IN UNIX ENVIRONMENT.....
+THE CONSOLE GIVES DIFFERENT 
+OUTPUT IN OTHER OPERATING SYSTEMS
+
+Continue  ?? ? ...The value of PATH variable is C:\Users\PRANAV~1\AppData\Roaming\Scilab\scilab-5.4.1 
+ ****************************************************************************   
+ 
+-->diary("Result3.txt","close")

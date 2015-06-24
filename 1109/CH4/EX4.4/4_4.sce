@@ -1,0 +1,14 @@
+clear;
+clc;
+l=440;L=2.2*(10^-3);C=0.0136*(10^-6);R=0.120;G=0;f=60;
+w=2*%pi*f;
+Z=R+(%i*w*L);
+Y=G+(%i*w*C);
+Zo=sqrt(Z/Y);
+A=real(Zo);
+B=imag(Zo);
+printf("-Characteristic impedance = %f + j(%f) ohms\n",round(A),round(B));
+P=sqrt(Z*Y);
+E=real(P)*10^4;
+F=imag(P)*10^3;
+printf("-Propagation constant = %f * 10^-4 + j(%f) * 10^-3 per km",fix(E*100)/100,fix(F*100)/100);

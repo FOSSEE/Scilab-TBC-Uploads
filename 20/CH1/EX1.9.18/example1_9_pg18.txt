@@ -1,0 +1,7 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_3_June/Codes/Chapter_1/code/example1_9_pg18.sce', -1)
+
+Secondary Voltage as referred to primary is 1887.30 volts 
+Secondary Terminal Voltage at full load is 377.46 volts 
+ 
+-->diary(0);

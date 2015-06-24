@@ -1,0 +1,2 @@
+Closed loop time constant is 200 seconds
+Output voltage at end of pulse is -4 volts

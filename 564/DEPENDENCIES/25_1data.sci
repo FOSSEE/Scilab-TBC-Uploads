@@ -1,0 +1,10 @@
+Ee=5000;//modulus of epoxy,given,in N/mm^2
+Ec=200000;//modulus of carbon,given,in N/mm^2
+ve=0.2;//poission's ratio of epoxy
+vc=0.3;//poission's ratio of carbon
+L=500;//langth of bar,given,in mm
+L1=80;//langth of cross section ,given,in mm
+Be1=20;//width of first section of epoxy,given,in mm
+Be2=20;//width of other section of epoxy,given,in mm
+Bc=10;//width of section of carbon,given,in mm
+Load=100*10^3;//axial tensile load,given,in N

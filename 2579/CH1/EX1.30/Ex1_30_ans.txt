@@ -1,0 +1,1 @@
+ The average energy density = 50 nJ/m^3 

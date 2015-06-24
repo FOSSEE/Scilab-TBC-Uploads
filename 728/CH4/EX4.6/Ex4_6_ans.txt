@@ -1,0 +1,8 @@
+ Ratio of Circular & Rectangular coss-section area (in TE) =   
+ 
+    2.1576833  
+ 
+ Ratio of Circular & Rectangular coss-section area (in TM) =   
+ 
+    1.4695632  
+ 

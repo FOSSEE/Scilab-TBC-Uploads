@@ -1,0 +1,12 @@
+clear;
+clc;
+a=.26;
+b=.15;
+c=.35;
+y=[(1+b) b;-(1+a) (1+c)];
+z=[1+a;a];
+v=round(inv(y)*z*1e3)*1e-3; 
+t=v(1,1);
+u=v(2,1);
+n=(t+u+1)/(3*u);
+mprintf("the string efficiency is =%.2f",n);

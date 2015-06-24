@@ -1,0 +1,7 @@
+ (a)Rotor copper lossper phase(in watt)=   
+ 
+    1306.6667  
+ 
+ (b)Mechanical power developed(in watt)=   
+ 
+    94080.  

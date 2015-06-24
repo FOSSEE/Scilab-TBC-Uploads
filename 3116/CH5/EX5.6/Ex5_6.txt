@@ -1,0 +1,9 @@
+ Example 5.6
+
+Part A
+ Grain size number is 6.5
+
+ Part B
+ At magnification of 85x
+N of grains per inch square are 62.28
+ 

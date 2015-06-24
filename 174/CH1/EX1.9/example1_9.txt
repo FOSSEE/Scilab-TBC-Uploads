@@ -1,0 +1,9 @@
+(a)  The arithmatic mean of the observations =0.01265 A 
+ (b)  The deviations from the mean are:   
+d_1 = 0.00015 A
+ d_2 = -0.00045 A
+ d_3 = -0.00015 A
+ d_4 = 0.00045 A
+ d_5 = 0.00025 A
+ d_6 = -0.00025 A
+ 

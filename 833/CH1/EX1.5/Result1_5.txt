@@ -1,0 +1,11 @@
+(a)terminal voltage on load(in volt)=   
+ 
+    192.52013  
+ 
+ (b)voltage on load at hgih voltage terminals(in volt)=   
+ 
+    1925.2013  
+ 
+ (c)efficiency of transformer is(in %)=   
+ 
+    93.343093  

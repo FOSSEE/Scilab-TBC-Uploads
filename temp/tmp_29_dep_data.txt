@@ -1,0 +1,2 @@
+series.sce#29/DEPENDENCIES/series.sce#SERIES OF TWO FUNCTION#18
+parallel.sce#29/DEPENDENCIES/parallel.sce#PARALLEL OF TWO FUNCTION#17

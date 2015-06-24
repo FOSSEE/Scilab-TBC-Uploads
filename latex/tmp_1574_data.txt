@@ -1,0 +1,208 @@
+15#Basic Information Theory#15.3#BIT Ex 15 3#BIT_Ex_15_3.sce#1574/CH15/EX15.3/BIT_Ex_15_3.sce#S##60237
+15#Basic Information Theory#15.3#BIT Ex 15 3#Result_of_Chapter_15_Ex15_3.JPG#1574/CH15/EX15.3/Result_of_Chapter_15_Ex15_3.JPG#R##60238
+15#Basic Information Theory#15.2#BIT Ex 15 2#BIT_Ex_15_2.sce#1574/CH15/EX15.2/BIT_Ex_15_2.sce#S##60235
+15#Basic Information Theory#15.2#BIT Ex 15 2#Result_of_Chapter_15_Ex15_2.JPG#1574/CH15/EX15.2/Result_of_Chapter_15_Ex15_2.JPG#R##60236
+15#Basic Information Theory#15.1#BIT Ex 15 1#BIT_Ex_15_1.sce#1574/CH15/EX15.1/BIT_Ex_15_1.sce#S##60233
+15#Basic Information Theory#15.1#BIT Ex 15 1#Result_of_Chapter_15_Ex15_1.JPG#1574/CH15/EX15.1/Result_of_Chapter_15_Ex15_1.JPG#R##60234
+11#BroadBand Communication#11.1#BBC Ex 11 1#BBC_Ex_11_1.sce#1574/CH11/EX11.1/BBC_Ex_11_1.sce#S##60239
+11#BroadBand Communication#11.1#BBC Ex 11 1#Result_of_Chapter_11_Ex11_1.JPG#1574/CH11/EX11.1/Result_of_Chapter_11_Ex11_1.JPG#R##60240
+10#Propagation of Radio Waves#10.4#PoRW Ex 10 4#PoRW_Ex_10_4.sce#1574/CH10/EX10.4/PoRW_Ex_10_4.sce#S##60231
+10#Propagation of Radio Waves#10.4#PoRW Ex 10 4#Result_of_Chapter_10_Ex10_4.JPG#1574/CH10/EX10.4/Result_of_Chapter_10_Ex10_4.JPG#R##60232
+10#Propagation of Radio Waves#10.3#PoRW Ex 10 3#PoRW_Ex_10_3.sce#1574/CH10/EX10.3/PoRW_Ex_10_3.sce#S##60229
+10#Propagation of Radio Waves#10.3#PoRW Ex 10 3#Result_of_Chapter_10_Ex10_3.JPG#1574/CH10/EX10.3/Result_of_Chapter_10_Ex10_3.JPG#R##60230
+10#Propagation of Radio Waves#10.2#PoRW Ex 10 2#PoRW_Ex_10_2.sce#1574/CH10/EX10.2/PoRW_Ex_10_2.sce#S##60227
+10#Propagation of Radio Waves#10.2#PoRW Ex 10 2#Result_of_Chapter_10_Ex10_2.JPG#1574/CH10/EX10.2/Result_of_Chapter_10_Ex10_2.JPG#R##60228
+10#Propagation of Radio Waves#10.1#PoRW Ex 10 1#PoRW_Ex_10_1.sce#1574/CH10/EX10.1/PoRW_Ex_10_1.sce#S##60225
+10#Propagation of Radio Waves#10.1#PoRW Ex 10 1#Result_of_Chapter_10_Ex10_1.JPG#1574/CH10/EX10.1/Result_of_Chapter_10_Ex10_1.JPG#R##60226
+9#Aerials#9.9#Aerials Ex 9 9#Aerials_Ex_9_9.sce#1574/CH9/EX9.9/Aerials_Ex_9_9.sce#S##60223
+9#Aerials#9.9#Aerials Ex 9 9#Result_of_Chapter_9_Ex9_9.JPG#1574/CH9/EX9.9/Result_of_Chapter_9_Ex9_9.JPG#R##60224
+9#Aerials#9.8#Aerials Ex 9 8#Aerials_Ex_9_8.sce#1574/CH9/EX9.8/Aerials_Ex_9_8.sce#S##60221
+9#Aerials#9.8#Aerials Ex 9 8#Result_of_Chapter_9_Ex9_8.JPG#1574/CH9/EX9.8/Result_of_Chapter_9_Ex9_8.JPG#R##60222
+9#Aerials#9.7#Aerials Ex 9 7#Aerials_Ex_9_7.sce#1574/CH9/EX9.7/Aerials_Ex_9_7.sce#S##60219
+9#Aerials#9.7#Aerials Ex 9 7#Result_of_Chapter_9_Ex9_7.JPG#1574/CH9/EX9.7/Result_of_Chapter_9_Ex9_7.JPG#R##60220
+9#Aerials#9.6#Aerials Ex 9 6#Aerials_Ex_9_6.sce#1574/CH9/EX9.6/Aerials_Ex_9_6.sce#S##60217
+9#Aerials#9.6#Aerials Ex 9 6#Result_of_Chapter_9_Ex9_6.JPG#1574/CH9/EX9.6/Result_of_Chapter_9_Ex9_6.JPG#R##60218
+9#Aerials#9.5#Aerials Ex 9 5#Aerials_Ex_9_5.sce#1574/CH9/EX9.5/Aerials_Ex_9_5.sce#S##60215
+9#Aerials#9.5#Aerials Ex 9 5#Result_of_Chapter_9_Ex9_5.JPG#1574/CH9/EX9.5/Result_of_Chapter_9_Ex9_5.JPG#R##60216
+9#Aerials#9.4#Aerials Ex 9 4#Aerials_Ex_9_4.sce#1574/CH9/EX9.4/Aerials_Ex_9_4.sce#S##60213
+9#Aerials#9.4#Aerials Ex 9 4#Result_of_Chapter_9_Ex9_4.JPG#1574/CH9/EX9.4/Result_of_Chapter_9_Ex9_4.JPG#R##60214
+9#Aerials#9.3#Aerials Ex 9 3#Aerials_Ex_9_3.sce#1574/CH9/EX9.3/Aerials_Ex_9_3.sce#S##60211
+9#Aerials#9.3#Aerials Ex 9 3#Result_of_Chapter_9_Ex9_3.JPG#1574/CH9/EX9.3/Result_of_Chapter_9_Ex9_3.JPG#R##60212
+9#Aerials#9.2#Aerials Ex 9 2#Aerials_Ex_9_2.sce#1574/CH9/EX9.2/Aerials_Ex_9_2.sce#S##60209
+9#Aerials#9.2#Aerials Ex 9 2#Result_of_Chapter_9_Ex9_2.JPG#1574/CH9/EX9.2/Result_of_Chapter_9_Ex9_2.JPG#R##60210
+9#Aerials#9.1#Aerials Ex 9 1#Aerials_Ex_9_1.sce#1574/CH9/EX9.1/Aerials_Ex_9_1.sce#S##60207
+9#Aerials#9.1#Aerials Ex 9 1#Result_of_Chapter_9_Ex9_1.JPG#1574/CH9/EX9.1/Result_of_Chapter_9_Ex9_1.JPG#R##60208
+8#Transmission Line#8.6#Transmission Line Ex 8 6#TL_Ex_8_6.sce#1574/CH8/EX8.6/TL_Ex_8_6.sce#S##93642
+8#Transmission Line#8.6#Transmission Line Ex 8 6#Result_of_Chapter_8_Ex8_6.JPG#1574/CH8/EX8.6/Result_of_Chapter_8_Ex8_6.JPG#R##60249
+8#Transmission Line#8.5#Transmission Line Ex 8 5#TL_Ex_8_5.sce#1574/CH8/EX8.5/TL_Ex_8_5.sce#S##93641
+8#Transmission Line#8.5#Transmission Line Ex 8 5#Result_of_Chapter_8_Ex8_5.JPG#1574/CH8/EX8.5/Result_of_Chapter_8_Ex8_5.JPG#R##60247
+8#Transmission Line#8.4#Transmission Line Ex 8 4#TL_Ex_8_4.sce#1574/CH8/EX8.4/TL_Ex_8_4.sce#S##93640
+8#Transmission Line#8.4#Transmission Line Ex 8 4#Result_of_Chapter_8_Ex8_4.JPG#1574/CH8/EX8.4/Result_of_Chapter_8_Ex8_4.JPG#R##60271
+8#Transmission Line#8.3#Transmission Line Ex 8 3#TL_Ex_8_3.sce#1574/CH8/EX8.3/TL_Ex_8_3.sce#S##93639
+8#Transmission Line#8.3#Transmission Line Ex 8 3#Result_of_Chapter_8_Ex8_3.JPG#1574/CH8/EX8.3/Result_of_Chapter_8_Ex8_3.JPG#R##60269
+8#Transmission Line#8.25#Transmission Line Ex 8 25#TL_Ex_8_25.sce#1574/CH8/EX8.25/TL_Ex_8_25.sce#S##93646
+8#Transmission Line#8.25#Transmission Line Ex 8 25#Result_of_Chapter_8_Ex8_25.JPG#1574/CH8/EX8.25/Result_of_Chapter_8_Ex8_25.JPG#R##60275
+8#Transmission Line#8.24#Transmission Line Ex 8 24#TL_Ex_8_24.sce#1574/CH8/EX8.24/TL_Ex_8_24.sce#S##60272
+8#Transmission Line#8.24#Transmission Line Ex 8 24#Result_of_Chapter_8_Ex8_24.JPG#1574/CH8/EX8.24/Result_of_Chapter_8_Ex8_24.JPG#R##60273
+8#Transmission Line#8.23#Transmission Line Ex 8 23#TL_Ex_8_23.sce#1574/CH8/EX8.23/TL_Ex_8_23.sce#S##60258
+8#Transmission Line#8.23#Transmission Line Ex 8 23#Result_of_Chapter_8_Ex8_23.JPG#1574/CH8/EX8.23/Result_of_Chapter_8_Ex8_23.JPG#R##60259
+8#Transmission Line#8.22#Transmission Line Ex 8 22#TL_Ex_8_22.sce#1574/CH8/EX8.22/TL_Ex_8_22.sce#S##60260
+8#Transmission Line#8.22#Transmission Line Ex 8 22#Result_of_Chapter_8_Ex8_22.JPG#1574/CH8/EX8.22/Result_of_Chapter_8_Ex8_22.JPG#R##60261
+8#Transmission Line#8.20#Transmission Line Ex 8 20#TL_Ex_8_20.sce#1574/CH8/EX8.20/TL_Ex_8_20.sce#S##60262
+8#Transmission Line#8.20#Transmission Line Ex 8 20#Result_of_Chapter_8_Ex8_20.JPG#1574/CH8/EX8.20/Result_of_Chapter_8_Ex8_20.JPG#R##60263
+8#Transmission Line#8.2#Transmission Line Ex 8 2#TL_Ex_8_2.sce#1574/CH8/EX8.2/TL_Ex_8_2.sce#S##60243
+8#Transmission Line#8.2#Transmission Line Ex 8 2#Result_of_Chapter_8_Ex8_2.JPG#1574/CH8/EX8.2/Result_of_Chapter_8_Ex8_2.JPG#R##60244
+8#Transmission Line#8.19#Transmission Line Ex 8 19#TL_Ex_8_19.sce#1574/CH8/EX8.19/TL_Ex_8_19.sce#S##60264
+8#Transmission Line#8.19#Transmission Line Ex 8 19#Result_of_Chapter_8_Ex8_19.JPG#1574/CH8/EX8.19/Result_of_Chapter_8_Ex8_19.JPG#R##60265
+8#Transmission Line#8.18#Transmission Line Ex 8 18#TL_Ex_8_18.sce#1574/CH8/EX8.18/TL_Ex_8_18.sce#S##60266
+8#Transmission Line#8.18#Transmission Line Ex 8 18#Result_of_Chapter_8_Ex8_18.JPG#1574/CH8/EX8.18/Result_of_Chapter_8_Ex8_18.JPG#R##60267
+8#Transmission Line#8.17#Transmission Line Ex 8 17#TL_Ex_8_17.sce#1574/CH8/EX8.17/TL_Ex_8_17.sce#S##60256
+8#Transmission Line#8.17#Transmission Line Ex 8 17#Result_of_Chapter_8_Ex8_17.JPG#1574/CH8/EX8.17/Result_of_Chapter_8_Ex8_17.JPG#R##60257
+8#Transmission Line#8.16#Transmission Line Ex 8 16#TL_Ex_8_16.sce#1574/CH8/EX8.16/TL_Ex_8_16.sce#S##93645
+8#Transmission Line#8.16#Transmission Line Ex 8 16#Result_of_Chapter_8_Ex8_16.JPG#1574/CH8/EX8.16/Result_of_Chapter_8_Ex8_16.JPG#R##60255
+8#Transmission Line#8.15.1#Transmission Line Ex 8 15 Pg348#TL_Ex_8_15_Pg_348.sce#1574/CH8/EX8.15.1/TL_Ex_8_15_Pg_348.sce#S##93657
+8#Transmission Line#8.15.1#Transmission Line Ex 8 15 Pg348#Result_of_Chapter_8_Ex8_15_Pg348.JPG#1574/CH8/EX8.15.1/Result_of_Chapter_8_Ex8_15_Pg348.JPG#R##93658
+8#Transmission Line#8.15#Transmission Line Ex 8 15 Pg334#TL_Ex_8_15_Pg_334.sce#1574/CH8/EX8.15/TL_Ex_8_15_Pg_334.sce#S##93655
+8#Transmission Line#8.15#Transmission Line Ex 8 15 Pg334#Result_of_Chapter_8_Ex8_15_Pg334.JPG#1574/CH8/EX8.15/Result_of_Chapter_8_Ex8_15_Pg334.JPG#R##93656
+8#Transmission Line#8.1#Transmission Line Ex 8 1#TL_Ex_8_1.sce#1574/CH8/EX8.1/TL_Ex_8_1.sce#S##60241
+8#Transmission Line#8.1#Transmission Line Ex 8 1#Result_of_Chapter_8_Ex8_1.JPG#1574/CH8/EX8.1/Result_of_Chapter_8_Ex8_1.JPG#R##60242
+7#Noise#7.9#Noise Ex 7 9#N_Ex_7_9.sce#1574/CH7/EX7.9/N_Ex_7_9.sce#S##59961
+7#Noise#7.9#Noise Ex 7 9#Result_of_Chapter_7_Ex7_9.JPG#1574/CH7/EX7.9/Result_of_Chapter_7_Ex7_9.JPG#R##59962
+7#Noise#7.8#Noise Ex 7 8#N_Ex_7_8.sce#1574/CH7/EX7.8/N_Ex_7_8.sce#S##59959
+7#Noise#7.8#Noise Ex 7 8#Result_of_Chapter_7_Ex7_8.JPG#1574/CH7/EX7.8/Result_of_Chapter_7_Ex7_8.JPG#R##59960
+7#Noise#7.7#Noise Ex 7 7#N_Ex_7_7.sce#1574/CH7/EX7.7/N_Ex_7_7.sce#S##59957
+7#Noise#7.7#Noise Ex 7 7#Result_of_Chapter_7_Ex7_7.JPG#1574/CH7/EX7.7/Result_of_Chapter_7_Ex7_7.JPG#R##59958
+7#Noise#7.5#Noise Ex 7 5#N_Ex_7_5.sce#1574/CH7/EX7.5/N_Ex_7_5.sce#S##59955
+7#Noise#7.5#Noise Ex 7 5#Result_of_Chapter_7_Ex7_5.JPG#1574/CH7/EX7.5/Result_of_Chapter_7_Ex7_5.JPG#R##59956
+7#Noise#7.4#Noise Ex 7 4#N_Ex_7_4.sce#1574/CH7/EX7.4/N_Ex_7_4.sce#S##59953
+7#Noise#7.4#Noise Ex 7 4#Result_of_Chapter_7_Ex7_4.JPG#1574/CH7/EX7.4/Result_of_Chapter_7_Ex7_4.JPG#R##59954
+7#Noise#7.3#Noise Ex 7 3#N_Ex_7_3.sce#1574/CH7/EX7.3/N_Ex_7_3.sce#S##59951
+7#Noise#7.3#Noise Ex 7 3#Result_of_Chapter_7_Ex7_3.JPG#1574/CH7/EX7.3/Result_of_Chapter_7_Ex7_3.JPG#R##59952
+7#Noise#7.2#Noise Ex 7 2#N_Ex_7_2.sce#1574/CH7/EX7.2/N_Ex_7_2.sce#S##59949
+7#Noise#7.2#Noise Ex 7 2#Result_of_Chapter_7_Ex7_2.JPG#1574/CH7/EX7.2/Result_of_Chapter_7_Ex7_2.JPG#R##59950
+7#Noise#7.12#Noise Ex 7 12#N_Ex_7_12.sce#1574/CH7/EX7.12/N_Ex_7_12.sce#S##59967
+7#Noise#7.12#Noise Ex 7 12#Result_of_Chapter_7_Ex7_12.JPG#1574/CH7/EX7.12/Result_of_Chapter_7_Ex7_12.JPG#R##59968
+7#Noise#7.11#Noise Ex 7 11#N_Ex_7_11.sce#1574/CH7/EX7.11/N_Ex_7_11.sce#S##59965
+7#Noise#7.11#Noise Ex 7 11#Result_of_Chapter_7_Ex7_11.JPG#1574/CH7/EX7.11/Result_of_Chapter_7_Ex7_11.JPG#R##59966
+7#Noise#7.10#Noise Ex 7 10#N_Ex_7_10.sce#1574/CH7/EX7.10/N_Ex_7_10.sce#S##93638
+7#Noise#7.10#Noise Ex 7 10#Result_of_Chapter_7_Ex7_10.JPG#1574/CH7/EX7.10/Result_of_Chapter_7_Ex7_10.JPG#R##59964
+6#Radio Receivers#6.2#Radio Receivers Ex 6 2#RR_Ex_6_2.sce#1574/CH6/EX6.2/RR_Ex_6_2.sce#S##59947
+6#Radio Receivers#6.2#Radio Receivers Ex 6 2#Result_of_Chapter_6_Ex6_2.JPG#1574/CH6/EX6.2/Result_of_Chapter_6_Ex6_2.JPG#R##59948
+6#Radio Receivers#6.1#Radio Receivers Ex 6 1#RR_Ex_6_1.sce#1574/CH6/EX6.1/RR_Ex_6_1.sce#S##59945
+6#Radio Receivers#6.1#Radio Receivers Ex 6 1#Result_of_Chapter_6_Ex6_1.JPG#1574/CH6/EX6.1/Result_of_Chapter_6_Ex6_1.JPG#R##59946
+5#Radio Transmission System#5.1#RTS Ex 5 1#RTS_Ex_5_1.sce#1574/CH5/EX5.1/RTS_Ex_5_1.sce#S##59943
+5#Radio Transmission System#5.1#RTS Ex 5 1#Result_of_Chapter_5_Ex5_1.JPG#1574/CH5/EX5.1/Result_of_Chapter_5_Ex5_1.JPG#R##59944
+3#Modulation#3.9#Modulation Ex 3 9#M_Ex_3_9.sce#1574/CH3/EX3.9/M_Ex_3_9.sce#S##59900
+3#Modulation#3.9#Modulation Ex 3 9#Result_of_Chapter_3_Ex3_9.JPG#1574/CH3/EX3.9/Result_of_Chapter_3_Ex3_9.JPG#R##59901
+3#Modulation#3.8#Modulation Ex 3 8#M_Ex_3_8.sce#1574/CH3/EX3.8/M_Ex_3_8.sce#S##59898
+3#Modulation#3.8#Modulation Ex 3 8#Result_of_Chapter_3_Ex3_8.JPG#1574/CH3/EX3.8/Result_of_Chapter_3_Ex3_8.JPG#R##59899
+3#Modulation#3.7#Modulation Ex 3 7#M_Ex_3_7.sce#1574/CH3/EX3.7/M_Ex_3_7.sce#S##59896
+3#Modulation#3.7#Modulation Ex 3 7#Result_of_Chapter_3_Ex3_7.JPG#1574/CH3/EX3.7/Result_of_Chapter_3_Ex3_7.JPG#R##59897
+3#Modulation#3.6#Modulation Ex 3 6#M_Ex_3_6.sce#1574/CH3/EX3.6/M_Ex_3_6.sce#S##59894
+3#Modulation#3.6#Modulation Ex 3 6#Result_of_Chapter_3_Ex3_6.JPG#1574/CH3/EX3.6/Result_of_Chapter_3_Ex3_6.JPG#R##59895
+3#Modulation#3.5#Modulation Ex 3 5#M_Ex_3_5.sce#1574/CH3/EX3.5/M_Ex_3_5.sce#S##59892
+3#Modulation#3.5#Modulation Ex 3 5#Result_of_Chapter_3_Ex3_5.JPG#1574/CH3/EX3.5/Result_of_Chapter_3_Ex3_5.JPG#R##59893
+3#Modulation#3.4#Modulation Ex 3 4#M_Ex_3_4.sce#1574/CH3/EX3.4/M_Ex_3_4.sce#S##59889
+3#Modulation#3.4#Modulation Ex 3 4#Result_of_Chapter_3_Ex3_4.JPG#1574/CH3/EX3.4/Result_of_Chapter_3_Ex3_4.JPG#R##59890
+3#Modulation#3.31#Modulation Ex 3 31#M_Ex_3_31.sce#1574/CH3/EX3.31/M_Ex_3_31.sce#S##59939
+3#Modulation#3.31#Modulation Ex 3 31#Result_of_Chapter_3_Ex3_31.JPG#1574/CH3/EX3.31/Result_of_Chapter_3_Ex3_31.JPG#R##59940
+3#Modulation#3.30#Modulation Ex 3 30#M_Ex_3_30.sce#1574/CH3/EX3.30/M_Ex_3_30.sce#S##59937
+3#Modulation#3.30#Modulation Ex 3 30#Result_of_Chapter_3_Ex3_30.JPG#1574/CH3/EX3.30/Result_of_Chapter_3_Ex3_30.JPG#R##59938
+3#Modulation#3.3#Modulation Ex 3 3#M_Ex_3_3.sce#1574/CH3/EX3.3/M_Ex_3_3.sce#S##59886
+3#Modulation#3.3#Modulation Ex 3 3#Result_of_Chapter_3_Ex3_3.JPG#1574/CH3/EX3.3/Result_of_Chapter_3_Ex3_3.JPG#R##59887
+3#Modulation#3.29#Modulation Ex 3 29#M_Ex_3_29.sce#1574/CH3/EX3.29/M_Ex_3_29.sce#S##59935
+3#Modulation#3.29#Modulation Ex 3 29#Result_of_Chapter_3_Ex3_29.JPG#1574/CH3/EX3.29/Result_of_Chapter_3_Ex3_29.JPG#R##59936
+3#Modulation#3.28#Modulation Ex 3 28#M_Ex_3_28.sce#1574/CH3/EX3.28/M_Ex_3_28.sce#S##59933
+3#Modulation#3.28#Modulation Ex 3 28#Result_of_Chapter_3_Ex3_28.JPG#1574/CH3/EX3.28/Result_of_Chapter_3_Ex3_28.JPG#R##59934
+3#Modulation#3.27#Modulation Ex 3 27#M_Ex_3_27.sce#1574/CH3/EX3.27/M_Ex_3_27.sce#S##93637
+3#Modulation#3.27#Modulation Ex 3 27#Result_of_Chapter_3_Ex3_27.JPG#1574/CH3/EX3.27/Result_of_Chapter_3_Ex3_27.JPG#R##59932
+3#Modulation#3.26#Modulation Ex 3 26#M_Ex_3_26.sce#1574/CH3/EX3.26/M_Ex_3_26.sce#S##59929
+3#Modulation#3.26#Modulation Ex 3 26#Result_of_Chapter_3_Ex3_26.JPG#1574/CH3/EX3.26/Result_of_Chapter_3_Ex3_26.JPG#R##59930
+3#Modulation#3.25#Modulation Ex 3 25#M_Ex_3_25.sce#1574/CH3/EX3.25/M_Ex_3_25.sce#S##59926
+3#Modulation#3.25#Modulation Ex 3 25#Result_of_Chapter_3_Ex3_25.JPG#1574/CH3/EX3.25/Result_of_Chapter_3_Ex3_25.JPG#R##59927
+3#Modulation#3.25#Modulation Ex 3 25#Result_Figure_3_Ex3_25.jpg#1574/CH3/EX3.25/Result_Figure_3_Ex3_25.jpg#R##59928
+3#Modulation#3.21#Modulation Ex 3 21#M_Ex_3_21.sce#1574/CH3/EX3.21/M_Ex_3_21.sce#S##59924
+3#Modulation#3.21#Modulation Ex 3 21#Result_of_Chapter_3_Ex3_21.JPG#1574/CH3/EX3.21/Result_of_Chapter_3_Ex3_21.JPG#R##59925
+3#Modulation#3.2#Modulation Ex 3 2#M_Ex_3_2.sce#1574/CH3/EX3.2/M_Ex_3_2.sce#S##59881
+3#Modulation#3.2#Modulation Ex 3 2#Result_of_Chapter_3_Ex3_2.JPG#1574/CH3/EX3.2/Result_of_Chapter_3_Ex3_2.JPG#R##59882
+3#Modulation#3.19#Modulation Ex 3 19#M_Ex_3_19.sce#1574/CH3/EX3.19/M_Ex_3_19.sce#S##59921
+3#Modulation#3.19#Modulation Ex 3 19#Result_of_Chapter_3_Ex3_19.JPG#1574/CH3/EX3.19/Result_of_Chapter_3_Ex3_19.JPG#R##59922
+3#Modulation#3.18#Modulation Ex 3 18#M_Ex_3_18.sce#1574/CH3/EX3.18/M_Ex_3_18.sce#S##59919
+3#Modulation#3.18#Modulation Ex 3 18#Result_of_Chapter_3_Ex3_18.JPG#1574/CH3/EX3.18/Result_of_Chapter_3_Ex3_18.JPG#R##59920
+3#Modulation#3.17#Modulation Ex 3 17#M_Ex_3_17.sce#1574/CH3/EX3.17/M_Ex_3_17.sce#S##59917
+3#Modulation#3.17#Modulation Ex 3 17#Result_of_Chapter_3_Ex3_17.JPG#1574/CH3/EX3.17/Result_of_Chapter_3_Ex3_17.JPG#R##59918
+3#Modulation#3.16#Modulation Ex 3 16#M_Ex_3_16.sce#1574/CH3/EX3.16/M_Ex_3_16.sce#S##59915
+3#Modulation#3.16#Modulation Ex 3 16#Result_of_Chapter_3_Ex3_16.JPG#1574/CH3/EX3.16/Result_of_Chapter_3_Ex3_16.JPG#R##59916
+3#Modulation#3.15#Modulation Ex 3 15#M_Ex_3_15.sce#1574/CH3/EX3.15/M_Ex_3_15.sce#S##59913
+3#Modulation#3.15#Modulation Ex 3 15#Result_of_Chapter_3_Ex3_15.JPG#1574/CH3/EX3.15/Result_of_Chapter_3_Ex3_15.JPG#R##59914
+3#Modulation#3.14#Modulation Ex 3 14#M_Ex_3_14.sce#1574/CH3/EX3.14/M_Ex_3_14.sce#S##59911
+3#Modulation#3.14#Modulation Ex 3 14#Result_of_Chapter_3_Ex3_14.JPG#1574/CH3/EX3.14/Result_of_Chapter_3_Ex3_14.JPG#R##59912
+3#Modulation#3.13#Modulation Ex 3 13#M_Ex_3_13.sce#1574/CH3/EX3.13/M_Ex_3_13.sce#S##59909
+3#Modulation#3.13#Modulation Ex 3 13#Result_of_Chapter_3_Ex3_13.JPG#1574/CH3/EX3.13/Result_of_Chapter_3_Ex3_13.JPG#R##59910
+3#Modulation#3.12#Modulation Ex 3 12#M_Ex_3_12.sce#1574/CH3/EX3.12/M_Ex_3_12.sce#S##59907
+3#Modulation#3.12#Modulation Ex 3 12#Result_of_Chapter_3_Ex3_12.JPG#1574/CH3/EX3.12/Result_of_Chapter_3_Ex3_12.JPG#R##59908
+3#Modulation#3.11#Modulation Ex 3 11#M_Ex_3_11.sce#1574/CH3/EX3.11/M_Ex_3_11.sce#S##59904
+3#Modulation#3.11#Modulation Ex 3 11#Result_of_Chapter_3_Ex3_11.JPG#1574/CH3/EX3.11/Result_of_Chapter_3_Ex3_11.JPG#R##59905
+3#Modulation#3.11#Modulation Ex 3 11#Result_Figure_3_Ex3_11.jpg#1574/CH3/EX3.11/Result_Figure_3_Ex3_11.jpg#R##59906
+3#Modulation#3.10#Modulation Ex 3 10#M_Ex_3_10.sce#1574/CH3/EX3.10/M_Ex_3_10.sce#S##93636
+3#Modulation#3.10#Modulation Ex 3 10#Result_of_Chapter_3_Ex3_10.JPG#1574/CH3/EX3.10/Result_of_Chapter_3_Ex3_10.JPG#R##59903
+3#Modulation#3.1#Modulation Ex 3 1#M_Ex_3_1.sce#1574/CH3/EX3.1/M_Ex_3_1.sce#S##59876
+3#Modulation#3.1#Modulation Ex 3 1#Result_of_Chapter_3_Ex3_1.JPG#1574/CH3/EX3.1/Result_of_Chapter_3_Ex3_1.JPG#R##59877
+2#Switched Communication Systems#2.9#Chapter 2 Example 2 9#SCS_ex_2_9.sce#1574/CH2/EX2.9/SCS_ex_2_9.sce#S##73971
+2#Switched Communication Systems#2.9#Chapter 2 Example 2 9#Result_of_Chapter_2_Ex_2_9.JPG#1574/CH2/EX2.9/Result_of_Chapter_2_Ex_2_9.JPG#R##73972
+2#Switched Communication Systems#2.8#Chapter 2 Example 2 8#SCS_ex_2_8.sce#1574/CH2/EX2.8/SCS_ex_2_8.sce#S##73968
+2#Switched Communication Systems#2.8#Chapter 2 Example 2 8#Result_of_Chapter_2_Ex_2_8.JPG#1574/CH2/EX2.8/Result_of_Chapter_2_Ex_2_8.JPG#R##73969
+2#Switched Communication Systems#2.7#Chapter 2 Example 2 7#SCS_ex_2_7.sce#1574/CH2/EX2.7/SCS_ex_2_7.sce#S##73966
+2#Switched Communication Systems#2.7#Chapter 2 Example 2 7#Result_of_Chapter_2_Ex_2_7.JPG#1574/CH2/EX2.7/Result_of_Chapter_2_Ex_2_7.JPG#R##73967
+2#Switched Communication Systems#2.6#Chapter 2 Example 2 6#SCS_ex_2_6.sce#1574/CH2/EX2.6/SCS_ex_2_6.sce#S##73964
+2#Switched Communication Systems#2.6#Chapter 2 Example 2 6#Result_of_Chapter_2_Ex_2_6.JPG#1574/CH2/EX2.6/Result_of_Chapter_2_Ex_2_6.JPG#R##73965
+2#Switched Communication Systems#2.5#Chapter 2 Example 2 5#SCS_ex_2_5.sce#1574/CH2/EX2.5/SCS_ex_2_5.sce#S##73962
+2#Switched Communication Systems#2.5#Chapter 2 Example 2 5#Result_of_Chapter_2_Ex_2_5.JPG#1574/CH2/EX2.5/Result_of_Chapter_2_Ex_2_5.JPG#R##73963
+2#Switched Communication Systems#2.4.1#Chapter 2 Example 2 4 Pg126 Bottom#SCS_ex_2_4_Pg_126_Bottom.sce#1574/CH2/EX2.4.1/SCS_ex_2_4_Pg_126_Bottom.sce#S##93653
+2#Switched Communication Systems#2.4.1#Chapter 2 Example 2 4 Pg126 Bottom#Result_of_Chapter_2_Ex2_4_Pg126_Bottom.JPG#1574/CH2/EX2.4.1/Result_of_Chapter_2_Ex2_4_Pg126_Bottom.JPG#R##93654
+2#Switched Communication Systems#2.4.0#Chapter 2 Example 2 4 Pg126 Top#Result_of_Chapter_2_Ex2_4_Pg126_Top.JPG#1574/CH2/EX2.4.0/Result_of_Chapter_2_Ex2_4_Pg126_Top.JPG#R##93652
+2#Switched Communication Systems#2.4.0#Chapter 2 Example 2 4 Pg126 Top#SCS_ex_2_4_Pg_126_TOP.sce#1574/CH2/EX2.4.0/SCS_ex_2_4_Pg_126_TOP.sce#S##93651
+2#Switched Communication Systems#2.3#Chapter 2 Example 2 3#Result_of_Chapter_2_Ex2_3.JPG#1574/CH2/EX2.3/Result_of_Chapter_2_Ex2_3.JPG#R##73957
+2#Switched Communication Systems#2.3#Chapter 2 Example 2 3#SCS_ex_2_3.sce#1574/CH2/EX2.3/SCS_ex_2_3.sce#S##73956
+2#Switched Communication Systems#2.2#Chapter 2 Example 2 2#Result_of_Chapter_2_Ex_2_2.JPG#1574/CH2/EX2.2/Result_of_Chapter_2_Ex_2_2.JPG#R##73955
+2#Switched Communication Systems#2.2#Chapter 2 Example 2 2#SCS_Ex_2_2.sce#1574/CH2/EX2.2/SCS_Ex_2_2.sce#S##73954
+1#Signals #1.9#Signals Ex 1 9#Result_of_Chapter_1_Ex1_9.jpeg#1574/CH1/EX1.9/Result_of_Chapter_1_Ex1_9.jpeg#R##93633
+1#Signals #1.9#Signals Ex 1 9#Signals_Ex_1_9.sce#1574/CH1/EX1.9/Signals_Ex_1_9.sce#S##93632
+1#Signals #1.9#Signals Ex 1 9#Result_of_Chapter_1_Ex1_9_b.jpeg#1574/CH1/EX1.9/Result_of_Chapter_1_Ex1_9_b.jpeg#R##93634
+1#Signals #1.8#Signals Ex 1 8#Signals_Ex_1_8.sce#1574/CH1/EX1.8/Signals_Ex_1_8.sce#S##60569
+1#Signals #1.8#Signals Ex 1 8#Result_Figure_1_Ex1_8.jpg#1574/CH1/EX1.8/Result_Figure_1_Ex1_8.jpg#R##60570
+1#Signals #1.7#Signals Ex 1 7#Signals_Ex_1_7.sce#1574/CH1/EX1.7/Signals_Ex_1_7.sce#S##60567
+1#Signals #1.7#Signals Ex 1 7#Result_Figure_1_Ex1_7.jpg#1574/CH1/EX1.7/Result_Figure_1_Ex1_7.jpg#R##60568
+1#Signals #1.6#Signals Ex 1 6#Signals_Ex_1_6.sce#1574/CH1/EX1.6/Signals_Ex_1_6.sce#S##60513
+1#Signals #1.6#Signals Ex 1 6#Result_of_Chapter_1_Ex1_6.JPG#1574/CH1/EX1.6/Result_of_Chapter_1_Ex1_6.JPG#R##60514
+1#Signals #1.5#Signals Ex 1 5#Signals_Ex_1_5.sce#1574/CH1/EX1.5/Signals_Ex_1_5.sce#S##60504
+1#Signals #1.5#Signals Ex 1 5#Result_of_Chapter_1_Ex1_5.JPG#1574/CH1/EX1.5/Result_of_Chapter_1_Ex1_5.JPG#R##60505
+1#Signals #1.4#Signals Ex 1 4#Signals_Ex_1_4.sce#1574/CH1/EX1.4/Signals_Ex_1_4.sce#S##60502
+1#Signals #1.4#Signals Ex 1 4#Result_of_Chapter_1_Ex1_4.JPG#1574/CH1/EX1.4/Result_of_Chapter_1_Ex1_4.JPG#R##60503
+1#Signals #1.3#Signals Ex 1 3#Signals_Ex_1_3.sce#1574/CH1/EX1.3/Signals_Ex_1_3.sce#S##60500
+1#Signals #1.3#Signals Ex 1 3#Result_of_Chapter_1_Ex1_3.JPG#1574/CH1/EX1.3/Result_of_Chapter_1_Ex1_3.JPG#R##60501
+1#Signals #1.2#Signals Ex 1 2#Signals_Ex_1_2.sce#1574/CH1/EX1.2/Signals_Ex_1_2.sce#S##60497
+1#Signals #1.2#Signals Ex 1 2#Result_of_Chapter_1_Ex1_2.JPG#1574/CH1/EX1.2/Result_of_Chapter_1_Ex1_2.JPG#R##60498
+1#Signals #1.18#Signals Ex 1 18#Signals_Ex_1_18.sce#1574/CH1/EX1.18/Signals_Ex_1_18.sce#S##60537
+1#Signals #1.18#Signals Ex 1 18#Result_Figure_1_Ex1_18.jpg#1574/CH1/EX1.18/Result_Figure_1_Ex1_18.jpg#R##60538
+1#Signals #1.17#Signals Ex 1 17#Signals_Ex_1_17.sce#1574/CH1/EX1.17/Signals_Ex_1_17.sce#S##60540
+1#Signals #1.17#Signals Ex 1 17#Result_Figure_1_Ex1_17.jpg#1574/CH1/EX1.17/Result_Figure_1_Ex1_17.jpg#R##60541
+1#Signals #1.16#Signals Ex 1 16#Signals_Ex_1_16.sce#1574/CH1/EX1.16/Signals_Ex_1_16.sce#S##60532
+1#Signals #1.16#Signals Ex 1 16#Result_of_Chapter_1_Ex1_16.JPG#1574/CH1/EX1.16/Result_of_Chapter_1_Ex1_16.JPG#R##60533
+1#Signals #1.15#Signals Ex 1 15#Signals_Ex_1_15.sce#1574/CH1/EX1.15/Signals_Ex_1_15.sce#S##60530
+1#Signals #1.15#Signals Ex 1 15#Result_of_Chapter_1_Ex1_15.JPG#1574/CH1/EX1.15/Result_of_Chapter_1_Ex1_15.JPG#R##60531
+1#Signals #1.14#Signals Ex 1 14#Signals_Ex_1_14.sce#1574/CH1/EX1.14/Signals_Ex_1_14.sce#S##60527
+1#Signals #1.14#Signals Ex 1 14#Result_Figure_1_Ex1_14.jpg#1574/CH1/EX1.14/Result_Figure_1_Ex1_14.jpg#R##60528
+1#Signals #1.14#Signals Ex 1 14#Result_Figure_1_Ex1_14_0.jpg#1574/CH1/EX1.14/Result_Figure_1_Ex1_14_0.jpg#R##60529
+1#Signals #1.13#Signals Ex 1 13#Signals_Ex_1_13.sce#1574/CH1/EX1.13/Signals_Ex_1_13.sce#S##60525
+1#Signals #1.13#Signals Ex 1 13#Result_Figure_1_Ex1_13.jpg#1574/CH1/EX1.13/Result_Figure_1_Ex1_13.jpg#R##60526
+1#Signals #1.12#Signals Ex 1 12#Signals_Ex_1_12.sce#1574/CH1/EX1.12/Signals_Ex_1_12.sce#S##60534
+1#Signals #1.12#Signals Ex 1 12#Result_of_Chapter_1_Ex1_12.JPG#1574/CH1/EX1.12/Result_of_Chapter_1_Ex1_12.JPG#R##60535
+1#Signals #1.11.2#Signals Ex 1 11 Pg43#Signals_Ex_1_11_Pg_43.sce#1574/CH1/EX1.11.2/Signals_Ex_1_11_Pg_43.sce#S##93659
+1#Signals #1.11.2#Signals Ex 1 11 Pg43#Result_Figure_1_Ex1_11_Pg43.jpg#1574/CH1/EX1.11.2/Result_Figure_1_Ex1_11_Pg43.jpg#R##93660
+1#Signals #1.11.1#Signals Ex 1 11 Pg 39#Signals_Ex_1_11_Pg_39.sce#1574/CH1/EX1.11.1/Signals_Ex_1_11_Pg_39.sce#S##93649
+1#Signals #1.11.1#Signals Ex 1 11 Pg 39#Result_Figure_1_Ex1_11_Pg39.jpg#1574/CH1/EX1.11.1/Result_Figure_1_Ex1_11_Pg39.jpg#R##93650
+1#Signals #1.10#Signals Ex 1 10#Signals_Ex_1_10.sce#1574/CH1/EX1.10/Signals_Ex_1_10.sce#S##60521
+1#Signals #1.10#Signals Ex 1 10#Result_of_Chapter_1_Ex1_10.JPG#1574/CH1/EX1.10/Result_of_Chapter_1_Ex1_10.JPG#R##60522
+1#Signals #1.1#Signals Ex 1 1#Signals_Ex_1_1.sce#1574/CH1/EX1.1/Signals_Ex_1_1.sce#S##60495
+1#Signals #1.1#Signals Ex 1 1#Result_of_Chapter_1_Ex1_1.JPG#1574/CH1/EX1.1/Result_of_Chapter_1_Ex1_1.JPG#R##60496

@@ -1,0 +1,6 @@
+ # PROBLEM 41 # 
+Standard formula used 
+  E = 1/2 * m*v^2 
+
+ Velocity is 1.384257e+07 m/sec.
+ From the above result it is clear that the velocity of proton is nearly one twentieth of the velocity of light. So the relativistic calculation are not required.

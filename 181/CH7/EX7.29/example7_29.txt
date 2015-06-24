@@ -1,0 +1,5 @@
+ When Vi is zero:
+(a)Vgs = -3.88 V or -4.78 V
+Since the gate is connected to ground,Vo = -Vgs.Hence Vo = 3.88 V or 4.78 V
+When Vo is zero:
+(b)Vi = -3.2 V 

@@ -1,0 +1,42 @@
+-->//(Friction Clutches) Example 11.9
+ 
+-->//Torque transmitted by oil-immersed multi-disk clutch Mt (N-m)
+ 
+-->Mt = 75
+ Mt  =
+ 
+    75.  
+ 
+-->//Coefficient of friction between the asbestos lining and steel plate mu
+ 
+-->mu = 0.1
+ mu  =
+ 
+    0.1  
+ 
+-->//Permissible intensity of pressure on the asbestos lining Pa (kPa)
+ 
+-->Pa = 500
+ Pa  =
+ 
+    500.  
+ 
+-->//Outer diameter of the friction lining due to space limitations D (mm)
+ 
+-->D = 100
+ D  =
+ 
+    100.  
+ 
+ 
+
+Applying uniform-wear theory
+
+Inner diameter of the friction disks(d) = 57.700000 mm
+
+Total clamping force(P) = 1916.929151 N
+
+The total number disks required(n) = 11.000000
+
+6.00 plane steel disks and 5.00 steel disks with attached asbestos lining can be used or vice versa
+ 

@@ -1,0 +1,3 @@
+Example 2.29   
+Efficiency as a generator when delivering 40A at 220V=87.301587percent
+Efficiency as a motor when taking 40A from at 220V=86.363636percent 

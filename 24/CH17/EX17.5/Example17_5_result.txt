@@ -1,0 +1,5 @@
+**Sample Problem 17-5a**
+The amplitude of resultant wave is 12.598637mm
+
+**Sample Problem 17-5b**
+The phase difference required is 2.636232rad 

@@ -1,0 +1,19 @@
+ (a)Efficiency at full load and at unity power factor (in %)=   
+ 
+    97.88567  
+ 
+ (b)Efficiency at half load and at 0.8 power factor (in %)=   
+ 
+    96.946195  
+ 
+ (c) Efficiency at 75 percent of load and 0.7 power factor(in %)=   
+ 
+    96.979773  
+ 
+ (d)load KVA at which maximum efficiency will occcur (in KVA)=   
+ 
+    89.442719  
+ 
+ (e)maximum efficiency at 0.85 power factor(in %)=   
+ 
+    97.536766  

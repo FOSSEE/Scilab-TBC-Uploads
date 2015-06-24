@@ -1,0 +1,2 @@
+**Sample Problem 4-11**
+The magnitude of velocity of plane relative to ground is 228.372599 km/h 

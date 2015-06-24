@@ -1,0 +1,12 @@
+t = 0.46 *10^-4;
+hv = 2;
+alpha = 5*10^4;
+I0 = 10^-2;
+It = I0*exp(-alpha*t);
+Pabs = I0 - It;
+f = (2-1.43)/2;
+P = f*Pabs;
+n = Pabs/(1.6*10^-19*hv);
+disp(Pabs,"total energy absorbed per second (in watt)=")
+disp(P,"amount of energy converted to heat per second (in watt)=")
+disp(n,"number of photons per second given off form recombination events =")

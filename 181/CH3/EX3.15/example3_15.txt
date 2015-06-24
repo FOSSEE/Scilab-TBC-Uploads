@@ -1,0 +1,5 @@
+Since diode conducts only during pisitive half of the input,Im = 1e-002 A
+(a)Hence i = 10*sin100*pi*t
+(b)V_dc = 15.9 V
+Hence V_0v=15.9sin100*pi*t
+(c)When diode is reverse biased,voltage across diode = 15.9*sin100*pi*t for 0<100*pi*t<pi and 0 for pi,100*pi*t<2*pi 

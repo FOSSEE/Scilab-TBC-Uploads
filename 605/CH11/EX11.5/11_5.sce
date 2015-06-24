@@ -1,0 +1,20 @@
+
+S11=0.75*exp(-%i*120*%pi/180)
+S22=0.6*exp(-%i*70*%pi/180)
+S21=2.5*exp(%i*80*%pi/180)
+function x=mod(n)
+    r=real(n)
+    i=imag(n)
+    x=sqrt(r^2+i^2)
+endfunction
+GSmax=1/(1-mod(S11)^2)
+GLmax=1/(1-mod(S22)^2)
+Go=mod(S21)^2
+disp(GSmax,"GSmax=")
+disp(10*log10(GSmax),"GSmax in dB=")
+disp(GLmax,"GLmax=")
+disp(10*log10(GLmax),"GLmax in dB=")
+disp(Go,"Go=")
+disp(10*log10(Go),"Go in dB=")
+GTUmax=10*log10(GSmax*GLmax*Go)
+disp(GTUmax,"GTUmax=")

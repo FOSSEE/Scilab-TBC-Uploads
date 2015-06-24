@@ -1,0 +1,14 @@
+ 
+ example 10.16   
+ 
+ (a)   
+for full load condition for 18 hours is 4.507200e+009kj 
+ for half load condition for6 s 5.340000e+008kj 
+ total load 5.041200e+009kj 
+ (b)   
+
+ total energy produced	630MW 
+ unifor load	26MW 
+ heat input under uniform load condition 4.871100e+009kj 
+ saving in heat energy 1.701000e+008kj 
+ saving in heat energy per kWh 270kj/kWh 

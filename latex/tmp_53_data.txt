@@ -1,0 +1,27 @@
+9#FURTHER OP AMP APPLICATIONS#9.3#low pass second order filter#example_3.sce#53/CH9/EX9.3/example_3.sce#S##3814
+9#FURTHER OP AMP APPLICATIONS#9.2#design of non inverting amplifier#example_2.sce#53/CH9/EX9.2/example_2.sce#S##3813
+9#FURTHER OP AMP APPLICATIONS#9.1#Design of phase shifter#example_1.sce#53/CH9/EX9.1/example_1.sce#S##4117
+8#SELECTED OP AMP APPLICATIONS#8.3#wein bridge oscillator#example_3.sce#53/CH8/EX8.3/example_3.sce#S##3812
+8#SELECTED OP AMP APPLICATIONS#8.2#Instrumental amplifier#example_2.sce#53/CH8/EX8.2/example_2.sce#S##4116
+8#SELECTED OP AMP APPLICATIONS#8.1#basic differential amplifier#example_1.sce#53/CH8/EX8.1/example_1.sce#S##3810
+7#OP AMP NON IDEALITIES#7.5#Full power bandwith frequency#example_5.sce#53/CH7/EX7.5/example_5.sce#S##4115
+7#OP AMP NON IDEALITIES#7.4#inverting voltage amplifier#example_4.sce#53/CH7/EX7.4/example_4.sce#S##3808
+7#OP AMP NON IDEALITIES#7.2#output offset voltage#example_2.sce#53/CH7/EX7.2/example_2.sce#S##3807
+7#OP AMP NON IDEALITIES#7.1#Output voltage#example_1.sce#53/CH7/EX7.1/example_1.sce#S##3806
+6#THE OP AMPS BASIC IDEAS AND CIRCUITS#6.4#non inverting amplifier#example_4.sce#53/CH6/EX6.4/example_4.sce#S##4066
+6#THE OP AMPS BASIC IDEAS AND CIRCUITS#6.2#gain of a negative feedback amplifier#example_2.sce#53/CH6/EX6.2/example_2.sce#S##3876
+6#THE OP AMPS BASIC IDEAS AND CIRCUITS#6.1#design values of an inverting amplifier#example_1.sce#53/CH6/EX6.1/example_1.sce#S##3803
+5#MORE ABOUT FEEDBACK AMPLIFIERS#5.6#feed back fraction#example_6.sce#53/CH5/EX5.6/example_6.sce#S##3800
+5#MORE ABOUT FEEDBACK AMPLIFIERS#5.5#Voltage shunt feedback circuit#example_5.sce#53/CH5/EX5.5/example_5.sce#S##4111
+5#MORE ABOUT FEEDBACK AMPLIFIERS#5.4#closed loop current gain input output resistance#example_4.sce#53/CH5/EX5.4/example_4.sce#S##4113
+5#MORE ABOUT FEEDBACK AMPLIFIERS#5.2#amplifier parameters#example_2.sce#53/CH5/EX5.2/example_2.sce#S##3796
+5#MORE ABOUT FEEDBACK AMPLIFIERS#5.1#Voltage shunt feedback circuit#example_1.sce#53/CH5/EX5.1/example_1.sce#S##4114
+4#FEEDBACK AMPLIFIER CIRCUITS#4.4#series voltage feedback circuit#example_4.sce#53/CH4/EX4.4/example_4.sce#S##4103
+4#FEEDBACK AMPLIFIER CIRCUITS#4.3#parameters of a feedback amplifier#example_3.sce#53/CH4/EX4.3/example_3.sce#S##3786
+4#FEEDBACK AMPLIFIER CIRCUITS#4.2#input resistance of a feedback amplifier#example_2.sce#53/CH4/EX4.2/example_2.sce#S##3783
+4#FEEDBACK AMPLIFIER CIRCUITS#4.1#input resistance of a feedback amplifier#example_1.sce#53/CH4/EX4.1/example_1.sce#S##3774
+3#AMPLIFIERS WITHOUT FEEDBACK#3.3#Common mode rejection ratio and differential mode#example_3.sce#53/CH3/EX3.3/example_3.sce#S##4101
+3#AMPLIFIERS WITHOUT FEEDBACK#3.2#single stage amplifier parameters#example_2.sce#53/CH3/EX3.2/example_2.sce#S##4106
+3#AMPLIFIERS WITHOUT FEEDBACK#3.1#Output voltage and gain of two stage amplifier#example_1.sce#53/CH3/EX3.1/example_1.sce#S##3764
+2#GENERAL PROPERTIES OF FEEDBACK AMPLIFIERS#2.2#Expected variations in closed loop gain#example_2.sce#53/CH2/EX2.2/example_2.sce#S##4099
+2#GENERAL PROPERTIES OF FEEDBACK AMPLIFIERS#2.1#feedback fraction#example_1.sce#53/CH2/EX2.1/example_1.sce#S##3756

@@ -1,0 +1,49 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_2/code/example2_6_pg76.sce', -1)
+ 
+ z1 =    
+ 
+    0.6059982 + 0.0080014i  
+ 
+ z2 =    
+ 
+    0.5255982 + 0.3080014i  
+ 
+ z3 =    
+ 
+    0.3059982 - 0.5115986i  
+ 
+ By referring to Figure 2.16(b) in page 77, E_A, E_B, E_C can be written in 
+       terms of the unknowns x and y.                                       
+
+E_A = -(x - 150) + j(259.8 - y) 
+E_B = -x - jy 
+E_C = (300 - x) - jy
+
+I_A = E_A / z1 
+I_B = E_B / z2 
+I_C = E_C / z3 
+
+I_A = -1.649x -0.0218y +253.01 + j(425.14 -1.649y +0.0218x) 
+I_B = -1.415x -0.829y + j(0.829x - 1.415y) 
+I_C = -0.860x +1.439y +258 + j(-1.439x -0.860y +431.7)
+ 
+ On simplification and by separating the real and imaginary parts, we get t 
+      wo equations consisting of x and y as variables as shown              
+
+ -3.924x +0.588y +511.01 = 0
+ -0.588x -3.924y +856.84 = 0
+
+
+I_A = 108.89 /_ -82.59 Amps
+
+I_B = 412.73 /_ 20.30 Amps
+
+I_C = 402.59 /_ 4.99 Amps
+
+E_A = 65.99 /_ -81.84 Volts
+
+E_B = 251.44 /_ 50.67 Volts
+
+E_C = 240.00 /_ -54.13 Volts
+-->diary(0);

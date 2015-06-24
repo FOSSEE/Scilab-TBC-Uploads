@@ -1,0 +1,8 @@
+Max demand charge = Rs. 100/kVA/annum 
+Expendiutre on capacitors = Rs. 60/kVA/annum 
+Most economical pf = 0.80 
+Max kW demand = 100 kW 
+Max kVA demand at 0.75 pf = 133.34 kVA 
+Max kVA demand at 0.80 pf = 125.00 kVA 
+Annual saving = Rs. 833 
+

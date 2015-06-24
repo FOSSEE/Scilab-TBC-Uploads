@@ -1,0 +1,2 @@
+**Sample Problem 19-7**
+The additional energy produced by each bee is equal to 0.813472J 

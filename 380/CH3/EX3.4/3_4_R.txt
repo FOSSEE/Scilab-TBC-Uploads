@@ -1,0 +1,8 @@
+current in the coil (in Amperes)=   
+ 
+    14.283518  
+ 
+ energy stored in the magnetic feild  (in mili-Joules)=   
+ 
+    8.5083452  
+ 

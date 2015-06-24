@@ -1,0 +1,6 @@
+15.at Rx=0 & Eb=1.3 V
+R2=68.18 ohm
+At 0.5 FSD with Eb=1.5 V,
+Rx=15 K-ohm 
+At 0.5 FSD with Eb=1.3 V,
+Rx=15 K-ohm 

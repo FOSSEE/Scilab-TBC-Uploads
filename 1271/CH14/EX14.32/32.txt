@@ -1,0 +1,5 @@
+ # PROBLEM 32 # 
+Standard formula used 
+  lambda = h /(m*v) 
+
+ Wavelength of matter wave associated with proton is 1.982036e-15 m

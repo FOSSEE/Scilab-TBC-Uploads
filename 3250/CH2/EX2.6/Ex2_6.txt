@@ -1,0 +1,6 @@
+
+ # PROBLEM 2.6 # 
+
+ Solidification time for slab-shaped casting when the casting is done in a water cooled copper mould = 0.011455 hr,
+ Solidification time for slab-shaped casting when the casting is done in a very thick copper mould = 0.016563 hr,
+ The surface temperature of the mould = 684.364285° C 

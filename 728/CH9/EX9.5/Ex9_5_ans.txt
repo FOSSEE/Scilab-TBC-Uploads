@@ -1,0 +1,4 @@
+ Avalanche zone velocity (in cm/s) =   
+ 
+    8250.  
+ 

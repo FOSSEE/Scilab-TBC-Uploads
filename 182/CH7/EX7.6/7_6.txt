@@ -1,0 +1,1 @@
+6.the minimum change in R which is detected by the bridge is 5.466141 ohm

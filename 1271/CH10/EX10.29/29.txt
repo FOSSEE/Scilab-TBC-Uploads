@@ -1,0 +1,5 @@
+ 
+ # PROBLEM 29 # 
+Standard formula used 
+ H_/E_=sqrt(e_/mu_).
+ Magnitude of electric field vector = 376.828874 v/m.

@@ -1,0 +1,23 @@
+//clc()
+m1 = 250;//kg
+mwater1 = 50;//kg
+mdrysolid1 = m1 - mwater1;
+wfe1 = mwater1 / m1;
+wr1 = mwater1 / mdrysolid1; 
+wtpercentw1 = mwater1 * 100 / m1;
+wtpercentd1 = mwater1 * 100 / mdrysolid1;
+a = 90;//%
+mwater2 = mwater1 * (1 - a/100);
+m2 = mdrysolid1 + mwater2;
+wfe2 = mwater2 / m2;
+wr2 = mwater2 / mdrysolid1; 
+wtpercentw2 = mwater2 * 100 / m2;
+wtpercentd2 = mwater2 * 100 / mdrysolid1;
+disp(wfe1,"(a)weight fraction of water at entrance =")
+disp(wfe2,"weight fraction of water at exit = ")
+disp(wr1,"(b)weight ratio of water at entrance = ")
+disp(wr2,"weight ratio of water at exit = ")
+disp(wtpercentw1,"(c)weight percent of moisture on wet basis at entrance = ")
+disp(wtpercentw2,"weight percent of moisture on wet basis at exit = ")
+disp(wtpercentd1,"(d)weight percent of moisture on dry basis at entrance = ")
+disp(wtpercentd2,"weight percent of moisture on dry basis at exit = ")

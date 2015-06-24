@@ -1,0 +1,3 @@
+ Example 9.1
+
+ Elongation obtained is 0.77 mm 

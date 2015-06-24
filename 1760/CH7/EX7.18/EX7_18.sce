@@ -1,0 +1,19 @@
+                            //EXAMPLE 7-18  PG NO-477-478
+Ra=7;
+Rb=3;
+Rc=3;
+A=(Ra+Rb)/Rb;
+disp(' A  is   = '+string(A)+'');
+B=Ra+Rc+[(Ra*Rc)/Rb];
+disp(' B is   = '+string(B)+'');
+C=1/Rb;
+disp(' C is   = '+string(C)+'');
+D=(Rb+Rc)/Rb;
+disp(' D is   = '+string(D)+'');
+Z11=[(A*B)/(C*D)]^0.5;
+disp(' Impedance is   = '+string(Z11)+'ohm');
+Z12=[(B*D)/(A*C)]^0.5;
+disp(' Impedance is   = '+string(Z12)+'ohm');
+Q=1/cosh(2.62);
+Y12=-(1/17);
+disp(' Admittance is   = '+string(Y12)+'siemens');

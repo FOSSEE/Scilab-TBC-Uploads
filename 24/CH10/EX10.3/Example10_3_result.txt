@@ -1,0 +1,7 @@
+**Sample Problem 10-3a**
+The energy stored in board is 5.248000J
+The energy stored in block is 1.573000J
+
+**Sample Problem 10-3b**
+The minimum velocity required to break the board is 4.241832m/s
+The minimum velocity required to break the block is 5.003958m/s

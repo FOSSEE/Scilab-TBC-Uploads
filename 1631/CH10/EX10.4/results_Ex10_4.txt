@@ -1,0 +1,7 @@
+ i)Number of detected errors 
+
+ 	 s <= 4  
+
+ ii) Number of corrected errors
+
+ 	  t<= 2 

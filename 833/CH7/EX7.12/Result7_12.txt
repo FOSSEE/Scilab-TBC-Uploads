@@ -1,0 +1,8 @@
+ (a)Number of cross magnetising ampereturns=   
+ 
+    694.44444  
+ 
+ (b)Demagnetising ampereturns=   
+ 
+    1388.8889  
+ 

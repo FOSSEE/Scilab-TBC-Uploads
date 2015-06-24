@@ -1,0 +1,9 @@
+
+ example 13 8   
+ 
+ a   
+total reactance 0.1125 p.u 
+ short circuit MVA on l.v.bus 266.67MVA 
+ b   
+total reactance seen from h.v.side of transformer 0.23p.u 
+ short circuit MVA 129.03MVA 

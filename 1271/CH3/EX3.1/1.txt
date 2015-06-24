@@ -1,0 +1,2 @@
+﻿ Brewster angle = 56.309932 degree
+ Angle of refraction = 33.690068 degree

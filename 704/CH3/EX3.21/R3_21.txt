@@ -1,0 +1,12 @@
+  
+ Primary resistance referred to secondary(in Ohm)=   
+ 
+    0.012826  
+ 
+ secondary resistance referred to primary(in Ohm)=   
+ 
+    1.0743802  
+ 
+ total resistance of transformer referred to primary(in Ohm)=   
+ 
+    2.1343802  

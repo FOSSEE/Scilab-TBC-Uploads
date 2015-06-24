@@ -1,0 +1,9 @@
+Hysteresis Voltage = 4.0000 V 
+
+Center Voltage = 10.0000 V 
+
+Resistor Factor = 7.5000 
+
+Reference Voltage = 8.8235 
+
+Feedback resistor = 75000.0000 

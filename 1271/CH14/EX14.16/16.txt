@@ -1,0 +1,5 @@
+ # PROBLEM 16 # 
+Standard formula used 
+  E = (h * c) * (1 / lambda1 - 1 / lambda2) 
+
+ Wavelength of light is 1799.763593 Angstrom.

@@ -1,0 +1,15 @@
+  For Sound wave : 
+
+ Frequency: 440 Hz 
+ Velocity: 340 m/s 
+ Wavelegth: 0.773 m
+ Wave number : 8.13 m 
+ Wave Equation for Sound wave: y =  A*sin((8.13*x)-(2764.602*t)) 
+
+For Light wave : 
+
+ Frequency: 5 x 10^14 Hz 
+ Velocity: 3 x 10^8 m/s 
+ Wavelegth: 6.0 x 10^-7 m
+ Wave number : 1.05 x 10^7 m 
+ Wave Equation for Sound wave: y =  A*sin((1.05*10^7*x)-(3.1*10^15*t)) 

@@ -1,0 +1,4 @@
+ Since v2=v1+0.1*v1^2 and
+ BPF=800Hz to 1200Hz 
+ So,v3(t)=10*cos(2000*pi*t)+4*sin(2200*pi*t)-4*sin(1800*pi*t) 
+ Execution done.   

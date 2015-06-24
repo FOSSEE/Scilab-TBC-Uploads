@@ -1,0 +1,11 @@
+  Low-tension side   
+
+ Base for low tension side is 75 MVA,3.81 kV
+ Base impedance for the low-tension side = 0.19 ohm
+ Per unit impedance of load on the low-tension side = 3.10 per unit 
+
+ 
+ High-tension side   
+
+ Base impedance for the high-tension side = 58.08 ohm
+ Per unit impedance of load on the high-tension side = 3.10 per unit 

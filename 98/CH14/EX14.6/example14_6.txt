@@ -1,0 +1,10 @@
+Current in section AB = 139.70+j(-42.80) A 
+Current in section BC = 99.70+j(-12.80) A 
+Current in section CD = -20.30+j(-12.80) A 
+Current in section DA = -80.90+j(22.20) A 
+
+Voltage at supply end = 6350 V/phase 
+Voltage at station B = 6185.47+j(-41.02) V 
+Voltage at station C = 6054.31+j(-115.39) V 
+Voltage at station D = 6064.15+j(-95.00) V 
+

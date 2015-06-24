@@ -1,0 +1,4 @@
+
+ lower value of capacitance = 25.200000 nf
+ higher value of capacitance = 38.700000 nF 
+ Execution done.   

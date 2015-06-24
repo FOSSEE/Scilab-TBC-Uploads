@@ -1,0 +1,27 @@
+ Readings of transformer for OC test   
+ 
+ Voltage Reading (in volts)=   
+ 
+    460.  
+ 
+ Current Reading (in Amperes)=   
+ 
+    1.9714026  
+ 
+ Power output reading (in watts)=   
+ 
+    325.53846  
+ 
+ Readings of transformer for SC test   
+ 
+ Voltage Reading (in volts)=   
+ 
+    11.000601  
+ 
+ Current Reading (in Amperes)=   
+ 
+    8.6956522  
+ 
+ Power output reading (in watts)=   
+ 
+    60.491493 

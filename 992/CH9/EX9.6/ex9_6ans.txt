@@ -1,0 +1,5 @@
+ 
+ Ms(f)=p(f)[fs*sigma{M(f-Kfs)}]
+ 1/(1/30B)*integ(Ae^-j2*pi*f*t)dt from -60dB to 60dB
+ AsinC(2*pi*f/60B) 
+ Execution done.   

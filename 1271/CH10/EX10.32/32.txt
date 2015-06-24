@@ -1,0 +1,2 @@
+ Refractive index of distilled water is 9 .
+ Speed of light in water is 3.333333e+07 m/sec.

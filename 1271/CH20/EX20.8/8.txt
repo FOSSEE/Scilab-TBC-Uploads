@@ -1,0 +1,7 @@
+ # PROBLEM 8 # 
+Standard formula used 
+ I = ne 
+ 1/2*m*v^2 = eV 
+
+ Number of electrons striking the anode per sec is 9.375000e+16.
+ Minimum wavelength produced  is 1.240000 Angstrom.

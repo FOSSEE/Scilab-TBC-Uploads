@@ -1,0 +1,2 @@
+Example 4.13
+ Relative permittivity is 1.875912

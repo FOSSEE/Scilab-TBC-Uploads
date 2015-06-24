@@ -1,0 +1,2 @@
+Angular spread = 1.834560e-04 radian ,
+ Areal spread = 5.384977e+09 square meter

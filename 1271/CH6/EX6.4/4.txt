@@ -1,0 +1,3 @@
+Radius of circle traced by the beam = 2.272727e-01 meter, 
+ Speed of beam in second case = 2.651974e+09 meter/sec,
+ Speed of beam in second case is greater than speed of light so we cannot use above formula

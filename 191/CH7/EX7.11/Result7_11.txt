@@ -1,0 +1,14 @@
+
+ Integral 0 to 2 exp(x)dx   
+ 
+    1.15  
+ 
+  - 1.04207  
+ 
+    1.33596  
+ 
+  - 1.09629  
+ 
+ Calculated U2 n V2 values :    
+ 
+    1.33596  - 1.09629  

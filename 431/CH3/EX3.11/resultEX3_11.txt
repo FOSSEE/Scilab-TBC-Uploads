@@ -1,0 +1,4 @@
+ Example 3.11   
+R2=0.250000 ohms
+X2=0.875000 ohms
+Equivqlent impedence=2.050152 

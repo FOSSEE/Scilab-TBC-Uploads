@@ -1,0 +1,4 @@
+ 
+ # PROBLEM 7.1 # 
+
+ Maximum allowable wavelength of the exposing light = 533 nm 

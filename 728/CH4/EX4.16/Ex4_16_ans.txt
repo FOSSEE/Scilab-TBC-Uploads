@@ -1,0 +1,4 @@
+ Characteristic impedance (in ohms) =   
+ 
+    163.24194  
+ 

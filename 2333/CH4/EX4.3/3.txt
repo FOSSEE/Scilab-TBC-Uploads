@@ -1,0 +1,5 @@
+# PROBLEM 3 # 
+Standard formula used 
+ mu=tan(Ip)
+
+ Polarization angle of water is 53 degree

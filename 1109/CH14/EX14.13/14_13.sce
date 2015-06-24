@@ -1,0 +1,12 @@
+clear;
+clc;
+f1=1000;f2=4000;Rk=600;
+C1=(f2-f1)/(4*%pi*Rk*f1*f2);
+L1=Rk/(%pi*(f2-f1));
+C2=1/(%pi*Rk*(f2-f1));
+L2=Rk*(f2-f1)/(4*%pi*f1*f2);
+printf("The elements of the prototype band pass filter are:\n");
+printf("  L1 = %f mH\n",fix(L1*(10^5))/100);
+printf("  C1 = %f microfarads\n",round(C1*(10^11))/10^5);
+printf("  L2 = %f mH\n",round(L2*(10^4))/10);
+printf("  C2 = %f microfarads",round(C2*(10^10))/10^4);

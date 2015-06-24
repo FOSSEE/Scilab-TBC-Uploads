@@ -1,0 +1,53 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example2.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            2   
+ 
+ Chapter Title                         :   THE UNIX ARCHITECTURE AND COMMAND USAGE   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 2: Display the type of a given variable or a command    
+ 
+    
+
+*******************************************************************
+ 
+ Answer   :   
+THE FOLLOWING LINES OF CODE RUN 
+ONLY IN SCILAB INSTALLED IN UNIX ENVIRONMENT.....
+THE CONSOLE GIVES DIFFERENT 
+OUTPUT IN OTHER OPERATING SYSTEMS ctd  =
+ 
+[files]=ctd(varargin)
+ pt  =
+ 
+ ls   
+Continue?....
+y :Yes
+Any other key:No st  =
+ 
+ y   
+ n  =
+ 
+    13.  
+ls is a a compiled function .
+*******************************************************************
+ 
+-->diary("Result2.txt","close")

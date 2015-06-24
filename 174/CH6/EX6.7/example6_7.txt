@@ -1,0 +1,3 @@
+The effective Q of the coil = 295
+The indicated Q of the coil = 246
+The percentage error is = 17 % 

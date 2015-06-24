@@ -1,0 +1,5 @@
+ # Problem 20 # 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c)
+ wavelength of scattered photon is  1.049186e-03 Angstrom. 

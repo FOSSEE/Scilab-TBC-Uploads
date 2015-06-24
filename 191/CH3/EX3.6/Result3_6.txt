@@ -1,0 +1,20 @@
+  
+ Number of iterations :    
+ 
+    5.  
+ 
+ The negative root of the function is :    
+ 
+  - 1.841406  
+ 
+ Number of iteration :    
+ 
+    18.  
+ 
+ The positive root of the function is :    
+ 
+    1.146193  
+ 
+ Order of Secant Method :    
+ 
+    1.608  

@@ -1,0 +1,1 @@
+As power dissipation is less than rated power at ambient temperature,transistor(2N3904) is safe 

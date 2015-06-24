@@ -1,0 +1,112 @@
+12#Fuels and Combustion#12.9#Find the heat transfer from the combustor#Ex12_9.sce#2507/CH12/EX12.9/Ex12_9.sce#S##100029
+12#Fuels and Combustion#12.8#Find the actual air and excess air#Ex12_8.sce#2507/CH12/EX12.8/Ex12_8.sce#S##100028
+12#Fuels and Combustion#12.7#Find the actual air excess air theoretical air mass fraction and dew point temperature#Ex12_7.sce#2507/CH12/EX12.7/Ex12_7.sce#S##100027
+12#Fuels and Combustion#12.6#Find the volume fraction and mass fraction of the products of combustion#Ex12_6.sce#2507/CH12/EX12.6/Ex12_6.sce#S##100026
+12#Fuels and Combustion#12.5#Find the Orsat analysis#Ex12_5.sce#2507/CH12/EX12.5/Ex12_5.sce#S##100025
+12#Fuels and Combustion#12.4#Find the excess air and percent theoretical air#Ex12_4.sce#2507/CH12/EX12.4/Ex12_4.sce#S##100024
+12#Fuels and Combustion#12.3#Find the stoichiometric air#Ex12_3.sce#2507/CH12/EX12.3/Ex12_3.sce#S##100023
+12#Fuels and Combustion#12.2#Find the stoichiometric air#Ex12_2.sce#2507/CH12/EX12.2/Ex12_2.sce#S##100022
+12#Fuels and Combustion#12.14#Find the LCV and HCV of gaseous hexane#Ex12_14.sce#2507/CH12/EX12.14/Ex12_14.sce#S##100034
+12#Fuels and Combustion#12.13#Find the adiabatic combustion temperature#Ex12_13.sce#2507/CH12/EX12.13/Ex12_13.sce#S##100033
+12#Fuels and Combustion#12.12#Frind the heat transferred from the combustor#Ex12_12.sce#2507/CH12/EX12.12/Ex12_12.sce#S##100032
+12#Fuels and Combustion#12.11#Find the standard change in enthalpy for the reaction#Ex12_11.sce#2507/CH12/EX12.11/Ex12_11.sce#S##100031
+12#Fuels and Combustion#12.10#Find the enthalpy of reaction#Ex12_10.sce#2507/CH12/EX12.10/Ex12_10.sce#S##100030
+12#Fuels and Combustion#12.1#Find the gravimetric and ultimate analysis#Ex12_1.sce#2507/CH12/EX12.1/Ex12_1.sce#S##100021
+11#Real Gas#11.7#Determine the pressure in rigid vessel#Ex11_7.sce#2507/CH11/EX11.7/Ex11_7.sce#S##100020
+11#Real Gas#11.6#Determine the pressure exerted by Carbon dioxide#Ex11_6.sce#2507/CH11/EX11.6/Ex11_6.sce#S##100019
+11#Real Gas#11.5#Calculate specific volume of gaseous propane#Ex11_5.sce#2507/CH11/EX11.5/Ex11_5.sce#S##100018
+11#Real Gas#11.4#Find Z for air#Ex11_4.sce#2507/CH11/EX11.4/Ex11_4.sce#S##100017
+11#Real Gas#11.3#At what temperature and pressure steam be similar to air#Ex11_3.sce#2507/CH11/EX11.3/Ex11_3.sce#S##100016
+11#Real Gas#11.2#Find the reduced properties of air#Ex11_2.sce#2507/CH11/EX11.2/Ex11_2.sce#S##100015
+11#Real Gas#11.1#Calculate the specific volume of propane#Ex11_1.sce#2507/CH11/EX11.1/Ex11_1.sce#S##100014
+10#Properties of Pure Substance Water#10.9#Find the all other thermodynamic properties of steam#Ex10_9.sce#2507/CH10/EX10.9/Ex10_9.sce#S##100008
+10#Properties of Pure Substance Water#10.8#Find all other thermodynamic properties of steam#Ex10_8.sce#2507/CH10/EX10.8/Ex10_8.sce#S##100007
+10#Properties of Pure Substance Water#10.7#Find all other thermodynamic properties#Ex10_7.sce#2507/CH10/EX10.7/Ex10_7.sce#S##100006
+10#Properties of Pure Substance Water#10.6#Find all other properties of steam#Ex10_6.sce#2507/CH10/EX10.6/Ex10_6.sce#S##100005
+10#Properties of Pure Substance Water#10.5#Find other properties of water#Ex10_5.sce#2507/CH10/EX10.5/Ex10_5.sce#S##100004
+10#Properties of Pure Substance Water#10.4#Find temperature and all other specific properties#Ex10_4.sce#2507/CH10/EX10.4/Ex10_4.sce#S##100003
+10#Properties of Pure Substance Water#10.3#Find volume enthalpy internal energy and entropy per kg water#Ex10_3.sce#2507/CH10/EX10.3/Ex10_3.sce#S##100002
+10#Properties of Pure Substance Water#10.2#Find ratio of mass of saturated liquid to saturated steam#Ex10_2.sce#2507/CH10/EX10.2/Ex10_2.sce#S##100001
+10#Properties of Pure Substance Water#10.14#Find the flow rate of feed water#Ex10_14.sce#2507/CH10/EX10.14/Ex10_14.sce#S##100013
+10#Properties of Pure Substance Water#10.13#Find the exit area of the nozzle#Ex10_13.sce#2507/CH10/EX10.13/Ex10_13.sce#S##100012
+10#Properties of Pure Substance Water#10.12#Find work and heat interaction during expansion process#Ex10_12.sce#2507/CH10/EX10.12/Ex10_12.sce#S##100011
+10#Properties of Pure Substance Water#10.11#Find the heat rejected from steam#Ex10_11.sce#2507/CH10/EX10.11/Ex10_11.sce#S##100010
+10#Properties of Pure Substance Water#10.10#Find the temperature of steam#Ex10_10.sce#2507/CH10/EX10.10/Ex10_10.sce#S##100009
+10#Properties of Pure Substance Water#10.1#Find dryness fraction of mixture#Ex10_1.sce#2507/CH10/EX10.1/Ex10_1.sce#S##100000
+9#Ideal Gas and Ideal Gas Mixtures#9.9#Find the molar mass and the gas constant of the mixture#Ex9_9.sce#2507/CH9/EX9.9/Ex9_9.sce#S##99391
+9#Ideal Gas and Ideal Gas Mixtures#9.8#Calculate work per kilogram of air and change in entropy#Ex9_8.sce#2507/CH9/EX9.8/Ex9_8.sce#S##99390
+9#Ideal Gas and Ideal Gas Mixtures#9.7#Find the enthalpy entropy and internal energy of Nitrogen#Ex9_7.sce#2507/CH9/EX9.7/Ex9_7.sce#S##99389
+9#Ideal Gas and Ideal Gas Mixtures#9.6#Find the final temperature of air#Ex9_6.sce#2507/CH9/EX9.6/Ex9_6.sce#S##99387
+9#Ideal Gas and Ideal Gas Mixtures#9.6#Find the final temperature of air#Ex9_6.png#2507/CH9/EX9.6/Ex9_6.png#R##99388
+9#Ideal Gas and Ideal Gas Mixtures#9.5#Calculate the increase in specific enthalpy and change in enthalpy#Ex9_5.sce#2507/CH9/EX9.5/Ex9_5.sce#S##99386
+9#Ideal Gas and Ideal Gas Mixtures#9.4#Calculate the value of Cp for air#Ex9_4.sce#2507/CH9/EX9.4/Ex9_4.sce#S##99385
+9#Ideal Gas and Ideal Gas Mixtures#9.3#Find internal energy and enthalpy#Ex9_3.sce#2507/CH9/EX9.3/Ex9_3.sce#S##99384
+9#Ideal Gas and Ideal Gas Mixtures#9.2#Find the final volume#Ex9_2.sce#2507/CH9/EX9.2/Ex9_2.sce#S##99383
+9#Ideal Gas and Ideal Gas Mixtures#9.14#Determine mixture temperature and rate of entropy generation#Ex9_14.sce#2507/CH9/EX9.14/Ex9_14.sce#S##99999
+9#Ideal Gas and Ideal Gas Mixtures#9.13#Calculate magnitude and direction of heat transfer and pressure of the mixture#Ex9_13.sce#2507/CH9/EX9.13/Ex9_13.sce#S##99998
+9#Ideal Gas and Ideal Gas Mixtures#9.12#Determine specific heat internal energy enthalpy and entropy change#Ex9_12.sce#2507/CH9/EX9.12/Ex9_12.sce#S##99997
+9#Ideal Gas and Ideal Gas Mixtures#9.11#Evaluate the mass fraction and volume fractions of nitrogen and hydrogen in the mixture#Ex9_11.sce#2507/CH9/EX9.11/Ex9_11.sce#S##99393
+9#Ideal Gas and Ideal Gas Mixtures#9.10#Find the molar mass and gas constant for the mixture and mole fractions partial pressures and partial volumes of the constituents#Ex9_10.sce#2507/CH9/EX9.10/Ex9_10.sce#S##99392
+9#Ideal Gas and Ideal Gas Mixtures#9.1#What is the volume occupied by Nitrogen#Ex9_1.sce#2507/CH9/EX9.1/Ex9_1.sce#S##99382
+8#Entropy Available and Unavailable Energy#8.9#Find the change in entropy#Ex8_9.sce#2507/CH8/EX8.9/Ex8_9.sce#S##99374
+8#Entropy Available and Unavailable Energy#8.8#Determine the change in entropy#Ex8_8.sce#2507/CH8/EX8.8/Ex8_8.sce#S##99373
+8#Entropy Available and Unavailable Energy#8.7#State whether entropy change of the universe is positive negative or zero#Ex8_7.sce#2507/CH8/EX8.7/Ex8_7.sce#S##99372
+8#Entropy Available and Unavailable Energy#8.6#Identify processes as reversible irreversible or impossible#Ex8_6.sce#2507/CH8/EX8.6/Ex8_6.sce#S##99371
+8#Entropy Available and Unavailable Energy#8.5#Identify possible and impossible processes#Ex8_5.sce#2507/CH8/EX8.5/Ex8_5.sce#S##99370
+8#Entropy Available and Unavailable Energy#8.4#Find the change in entropy for paddle stirred gas#Ex8_4.sce#2507/CH8/EX8.4/Ex8_4.sce#S##104294
+8#Entropy Available and Unavailable Energy#8.3#Find change in entropy if reservoir temperature is 100 degree Celsius#Ex8_3.sce#2507/CH8/EX8.3/Ex8_3.sce#S##99368
+8#Entropy Available and Unavailable Energy#8.2#Find change in entropy#Ex8_2.sce#2507/CH8/EX8.2/Ex8_2.sce#S##99367
+8#Entropy Available and Unavailable Energy#8.16#What are the available and unavailable energies#Ex8_16.sce#2507/CH8/EX8.16/Ex8_16.sce#S##99381
+8#Entropy Available and Unavailable Energy#8.15#Evaluate the increase in unavailable energy#Ex8_15.sce#2507/CH8/EX8.15/Ex8_15.sce#S##99380
+8#Entropy Available and Unavailable Energy#8.14#Find the available and unavailable parts of 100 kJ heat#Ex8_14.sce#2507/CH8/EX8.14/Ex8_14.sce#S##99379
+8#Entropy Available and Unavailable Energy#8.13#Find the change in entropy#Ex8_13.sce#2507/CH8/EX8.13/Ex8_13.sce#S##99378
+8#Entropy Available and Unavailable Energy#8.12#Find direction of flow of air#Ex8_12.sce#2507/CH8/EX8.12/Ex8_12.sce#S##99377
+8#Entropy Available and Unavailable Energy#8.11#Can system undergo isentropic process#Ex8_11.sce#2507/CH8/EX8.11/Ex8_11.sce#S##99376
+8#Entropy Available and Unavailable Energy#8.10#Find the change in entropy during melting process#Ex8_10.sce#2507/CH8/EX8.10/Ex8_10.sce#S##99375
+8#Entropy Available and Unavailable Energy#8.1#Clausius inequality#Ex8_1.sce#2507/CH8/EX8.1/Ex8_1.sce#S##99366
+7#Reversibility and the Thermodynamics Temperature Scale#7.5#Find COP#Ex7_5.sce#2507/CH7/EX7.5/Ex7_5.sce#S##99365
+7#Reversibility and the Thermodynamics Temperature Scale#7.4#Find efficiency#Ex7_4.sce#2507/CH7/EX7.4/Ex7_4.sce#S##99364
+7#Reversibility and the Thermodynamics Temperature Scale#7.3#Comment on internal and external reversibility#Ex7_3.sce#2507/CH7/EX7.3/Ex7_3.sce#S##99363
+7#Reversibility and the Thermodynamics Temperature Scale#7.2#Evaluate validity of claim#Ex7_2.sce#2507/CH7/EX7.2/Ex7_2.sce#S##99362
+7#Reversibility and the Thermodynamics Temperature Scale#7.1#Fiind the work output of the engine and the magnitude of heat interaction#Ex7_1.sce#2507/CH7/EX7.1/Ex7_1.sce#S##99361
+6#Heat Engines The Second Law of Thermodynamics#6.3#Find savings in the monthly electricity bill#Ex6_3.sce#2507/CH6/EX6.3/Ex6_3.sce#S##99360
+6#Heat Engines The Second Law of Thermodynamics#6.2#Find the rate of heat transfer power input and COP#Ex6_2.sce#2507/CH6/EX6.2/Ex6_2.sce#S##99359
+6#Heat Engines The Second Law of Thermodynamics#6.1#Find the heat rejected at the condenser and the thermal efficiency of the plant#Ex6_1.sce#2507/CH6/EX6.1/Ex6_1.sce#S##99358
+5#First Law of Thermodynamics for Control Volumes#5.9#Find the inlet air temperature#Ex5_9.sce#2507/CH5/EX5.9/Ex5_9.sce#S##99355
+5#First Law of Thermodynamics for Control Volumes#5.8#Find the mass flow rate of cooling water if the heat loss to surrounding is 10 percent of heat transferred from steam to cooling water#Ex5_8.sce#2507/CH5/EX5.8/Ex5_8.sce#S##99354
+5#First Law of Thermodynamics for Control Volumes#5.7#Find the mass flow rate of cooling water#Ex5_7.sce#2507/CH5/EX5.7/Ex5_7.sce#S##99353
+5#First Law of Thermodynamics for Control Volumes#5.6#Calculate the work input to the compressor#Ex5_6.sce#2507/CH5/EX5.6/Ex5_6.sce#S##99352
+5#First Law of Thermodynamics for Control Volumes#5.5#Find the temperature of air after throttling#Ex5_5.sce#2507/CH5/EX5.5/Ex5_5.sce#S##99351
+5#First Law of Thermodynamics for Control Volumes#5.4#Find the inlet and exit velocities#Ex5_4.sce#2507/CH5/EX5.4/Ex5_4.sce#S##99350
+5#First Law of Thermodynamics for Control Volumes#5.3#Determine the temperature at the inlet and power developed#Ex5_3.sce#2507/CH5/EX5.3/Ex5_3.sce#S##99349
+5#First Law of Thermodynamics for Control Volumes#5.2#Find the change in enthalpy across the turbine#Ex5_2.sce#2507/CH5/EX5.2/Ex5_2.sce#S##99348
+5#First Law of Thermodynamics for Control Volumes#5.11#Show relation between mass and pressure ratios#Ex5_11.sce#2507/CH5/EX5.11/Ex5_11.sce#S##99357
+5#First Law of Thermodynamics for Control Volumes#5.10#Find the mass of air entering and the final temperature of the air in the vessel#Ex5_10.sce#2507/CH5/EX5.10/Ex5_10.sce#S##99356
+5#First Law of Thermodynamics for Control Volumes#5.1#Find work output#Ex5_1.sce#2507/CH5/EX5.1/Ex5_1.sce#S##104293
+4#The First Law of Thermodynamics for Systems  Pure Substances#4.5#Show that work done on system is equal to increase in enthalpy#Ex4_5.sce#2507/CH4/EX4.5/Ex4_5.sce#S##98918
+4#The First Law of Thermodynamics for Systems  Pure Substances#4.4#Find Cv and Cp#Ex4_4.sce#2507/CH4/EX4.4/Ex4_4.sce#S##98917
+4#The First Law of Thermodynamics for Systems  Pure Substances#4.3#Evaluate total energy of the system#Ex4_3.sce#2507/CH4/EX4.3/Ex4_3.sce#S##98914
+4#The First Law of Thermodynamics for Systems  Pure Substances#4.2#Find the change in energy of the system and find the magnitude and direction of work done during B#Ex4_2.sce#2507/CH4/EX4.2/Ex4_2.sce#S##98913
+4#The First Law of Thermodynamics for Systems  Pure Substances#4.1#Find the magnitude and direction of the fourth work interaction#Ex4_1.sce#2507/CH4/EX4.1/Ex4_1.sce#S##98912
+3#Temperature and Heat#3.6#Find thermometer reading when gas thermometer reads 50 degree C#Ex3_6.sce#2507/CH3/EX3.6/Ex3_6.sce#S##98911
+3#Temperature and Heat#3.5#Find the temperature attained by the coil#Ex3_5.sce#2507/CH3/EX3.5/Ex3_5.sce#S##98910
+3#Temperature and Heat#3.4#Determine what A reads when B reads 30#Ex3_4.sce#2507/CH3/EX3.4/Ex3_4.sce#S##104292
+3#Temperature and Heat#3.3#Find temperature in degree Celsius#Ex3_3.sce#2507/CH3/EX3.3/Ex3_3.sce#S##98907
+3#Temperature and Heat#3.2#Find temperature in Kelvin#Ex3_2.sce#2507/CH3/EX3.2/Ex3_2.sce#S##98906
+3#Temperature and Heat#3.1#Temperature in degree Celsius and Fahrenheit#Ex3_1.sce#2507/CH3/EX3.1/Ex3_1.sce#S##98905
+2#Work#2.9#Compute net work for battery and motor#Ex2_9.sce#2507/CH2/EX2.9/Ex2_9.sce#S##98904
+2#Work#2.8#Find the mechanical efficiency of engine#Ex2_8.sce#2507/CH2/EX2.8/Ex2_8.sce#S##98903
+2#Work#2.7#Find the mep and indicated power#Ex2_7.sce#2507/CH2/EX2.7/Ex2_7.sce#S##98902
+2#Work#2.6#Find the work of compression for air#Ex2_6.sce#2507/CH2/EX2.6/Ex2_6.sce#S##98901
+2#Work#2.5#Find the work interaction#Ex2_5.sce#2507/CH2/EX2.5/Ex2_5.sce#S##98900
+2#Work#2.4#Calculate magnitude and direction of work#Ex2_4.sce#2507/CH2/EX2.4/Ex2_4.sce#S##98899
+2#Work#2.3#Identify interaction between battery and resistor#Ex2_3.sce#2507/CH2/EX2.3/Ex2_3.sce#S##98897
+2#Work#2.2#Find magnitude and direction of work#Ex2_2.sce#2507/CH2/EX2.2/Ex2_2.sce#S##98896
+2#Work#2.1#Find the work done by the force#Ex2_1.sce#2507/CH2/EX2.1/Ex2_1.sce#S##98895
+1#Fundamental Concepts and Definitions#1.7#Find corresponding temperature in degree Celsius#Ex1_7.sce#2507/CH1/EX1.7/Ex1_7.sce#S##98894
+1#Fundamental Concepts and Definitions#1.6#Find equivalent temperature in Kelvin scale#Ex1_6.sce#2507/CH1/EX1.6/Ex1_6.sce#S##98893
+1#Fundamental Concepts and Definitions#1.5#Find specific volume and density#Ex1_5.sce#2507/CH1/EX1.5/Ex1_5.sce#S##98892
+1#Fundamental Concepts and Definitions#1.4#Find the steam pressures in kPa#Ex1_4.sce#2507/CH1/EX1.4/Ex1_4.sce#S##98891
+1#Fundamental Concepts and Definitions#1.3#Find the weight of body#Ex1_3.sce#2507/CH1/EX1.3/Ex1_3.sce#S##98890
+1#Fundamental Concepts and Definitions#1.2#Find the force acting on the body#Ex1_2.sce#2507/CH1/EX1.2/Ex1_2.sce#S##98889
+1#Fundamental Concepts and Definitions#1.1#Find velocity of a body#Ex1_1.sce#2507/CH1/EX1.1/Ex1_1.sce#S##98888

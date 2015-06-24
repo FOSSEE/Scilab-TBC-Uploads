@@ -1,0 +1,4 @@
+(a)Vgs = 6 V
+Vds=6V>Vgs-Vt=5V
+(b)Id = 5e-003 A
+(c)Rd = 800 ohms 

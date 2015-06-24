@@ -1,0 +1,7 @@
+ rotor speed(in rad/sec)=   
+ 
+    376.99112  
+ 
+ average torque developed by motor (in Newton-meter)=   
+ 
+    25.

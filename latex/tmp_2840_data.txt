@@ -1,0 +1,112 @@
+14#Dielectrics#14.6#example 6#ex14_6.sce#2840/CH14/EX14.6/ex14_6.sce#S##96308
+14#Dielectrics#14.5#example 5#ex14_5.sce#2840/CH14/EX14.5/ex14_5.sce#S##96307
+14#Dielectrics#14.4#example 4#ex14_4.sce#2840/CH14/EX14.4/ex14_4.sce#S##96306
+14#Dielectrics#14.3#example 3#ex14_3.sce#2840/CH14/EX14.3/ex14_3.sce#S##96305
+14#Dielectrics#14.2#example 2#ex14_2.sce#2840/CH14/EX14.2/ex14_2.sce#S##96304
+14#Dielectrics#14.1#example 1#ex14_1.sce#2840/CH14/EX14.1/ex14_1.sce#S##96302
+13#Magnetic Materials#13.5#example 5#ex13_5.sce#2840/CH13/EX13.5/ex13_5.sce#S##96301
+13#Magnetic Materials#13.4#example 4#ex13_4.sce#2840/CH13/EX13.4/ex13_4.sce#S##99269
+13#Magnetic Materials#13.3#example 3#ex13_3.sce#2840/CH13/EX13.3/ex13_3.sce#S##96299
+13#Magnetic Materials#13.2#example 2#ex13_2.sce#2840/CH13/EX13.2/ex13_2.sce#S##96298
+13#Magnetic Materials#13.1#example 1#ex13_1.sce#2840/CH13/EX13.1/ex13_1.sce#S##96297
+12#Superconductivity#12.6#example 6#ex12_6.sce#2840/CH12/EX12.6/ex12_6.sce#S##96296
+12#Superconductivity#12.5#example 5#ex12_5.sce#2840/CH12/EX12.5/ex12_5.sce#S##96295
+12#Superconductivity#12.4#example 4#ex12_4.sce#2840/CH12/EX12.4/ex12_4.sce#S##96294
+12#Superconductivity#12.3#example 3#ex12_3.sce#2840/CH12/EX12.3/ex12_3.sce#S##96293
+12#Superconductivity#12.2#example 2#ex12_2.sce#2840/CH12/EX12.2/ex12_2.sce#S##96292
+12#Superconductivity#12.1#example 1#ex12_1.sce#2840/CH12/EX12.1/ex12_1.sce#S##96183
+11#Semiconductors#11.9#example 9#ex11_9.sce#2840/CH11/EX11.9/ex11_9.sce#S##96284
+11#Semiconductors#11.8#example 8#ex11_8.sce#2840/CH11/EX11.8/ex11_8.sce#S##96283
+11#Semiconductors#11.7#example 7#ex11_7.sce#2840/CH11/EX11.7/ex11_7.sce#S##97907
+11#Semiconductors#11.6#example 6#ex11_6.sce#2840/CH11/EX11.6/ex11_6.sce#S##96279
+11#Semiconductors#11.5#example 5#ex11_5.sce#2840/CH11/EX11.5/ex11_5.sce#S##96271
+11#Semiconductors#11.4#example 4#ex11_4.sce#2840/CH11/EX11.4/ex11_4.sce#S##96274
+11#Semiconductors#11.3#example 3#ex11_3.sce#2840/CH11/EX11.3/ex11_3.sce#S##96268
+11#Semiconductors#11.2#example 2#ex11_2.sce#2840/CH11/EX11.2/ex11_2.sce#S##96265
+11#Semiconductors#11.10#example 10#ex11_10.sce#2840/CH11/EX11.10/ex11_10.sce#S##96289
+11#Semiconductors#11.1#example 1#ex11_1.sce#2840/CH11/EX11.1/ex11_1.sce#S##96262
+10#Energy Bands in Solids#10.4#example 4#Ex10_4.sce#2840/CH10/EX10.4/Ex10_4.sce#S##96259
+10#Energy Bands in Solids#10.3#example 3#Ex10_3.sce#2840/CH10/EX10.3/Ex10_3.sce#S##96185
+10#Energy Bands in Solids#10.2#example 2#Ex10_2.sce#2840/CH10/EX10.2/Ex10_2.sce#S##97906
+10#Energy Bands in Solids#10.1#example 1#Ex10_1.sce#2840/CH10/EX10.1/Ex10_1.sce#S##96184
+9#Quantum Physics#9.9#example 9#ex9_9.sce#2840/CH9/EX9.9/ex9_9.sce#S##96231
+9#Quantum Physics#9.8#example 8#ex9_8.sce#2840/CH9/EX9.8/ex9_8.sce#S##96228
+9#Quantum Physics#9.7#example 7#ex9_7.sce#2840/CH9/EX9.7/ex9_7.sce#S##96225
+9#Quantum Physics#9.6#example 6#ex9_6.sce#2840/CH9/EX9.6/ex9_6.sce#S##96224
+9#Quantum Physics#9.5#example 5#ex9_5.sce#2840/CH9/EX9.5/ex9_5.sce#S##96223
+9#Quantum Physics#9.4#example 4#ex9_4.sce#2840/CH9/EX9.4/ex9_4.sce#S##96222
+9#Quantum Physics#9.3#example 3#ex9_3.sce#2840/CH9/EX9.3/ex9_3.sce#S##96221
+9#Quantum Physics#9.2#example 2#ex9_2.sce#2840/CH9/EX9.2/ex9_2.sce#S##96220
+9#Quantum Physics#9.16#example 16#ex9_16.sce#2840/CH9/EX9.16/ex9_16.sce#S##96253
+9#Quantum Physics#9.15#example 15#ex9_15.sce#2840/CH9/EX9.15/ex9_15.sce#S##96250
+9#Quantum Physics#9.14#example 14#ex9_14.sce#2840/CH9/EX9.14/ex9_14.sce#S##96247
+9#Quantum Physics#9.13#example 13#ex9_13.sce#2840/CH9/EX9.13/ex9_13.sce#S##96242
+9#Quantum Physics#9.12#example 12#ex9_12.sce#2840/CH9/EX9.12/ex9_12.sce#S##96239
+9#Quantum Physics#9.11#example 11#ex9_11.sce#2840/CH9/EX9.11/ex9_11.sce#S##96234
+9#Quantum Physics#9.10#example 10#ex9_10.sce#2840/CH9/EX9.10/ex9_10.sce#S##96181
+9#Quantum Physics#9.1#example 1#ex9_1.sce#2840/CH9/EX9.1/ex9_1.sce#S##96219
+8#Conducting Materials #8.5#example 5#ex8_5.sce#2840/CH8/EX8.5/ex8_5.sce#S##96218
+8#Conducting Materials #8.4#example 4#ex8_4.sce#2840/CH8/EX8.4/ex8_4.sce#S##96217
+8#Conducting Materials #8.3#example 3#ex8_3.sce#2840/CH8/EX8.3/ex8_3.sce#S##96216
+8#Conducting Materials #8.2#example 2#ex8_2.sce#2840/CH8/EX8.2/ex8_2.sce#S##96215
+8#Conducting Materials #8.1#example 1#ex8_1.sce#2840/CH8/EX8.1/ex8_1.sce#S##96214
+7#Optical Fiber Communication#7.7#example 7#ex7_7.sce#2840/CH7/EX7.7/ex7_7.sce#S##96182
+7#Optical Fiber Communication#7.6#example 6#ex7_6.sce#2840/CH7/EX7.6/ex7_6.sce#S##96213
+7#Optical Fiber Communication#7.5#example 7#ex7_5.sce#2840/CH7/EX7.5/ex7_5.sce#S##96212
+7#Optical Fiber Communication#7.4#example 4#ex7_4.sce#2840/CH7/EX7.4/ex7_4.sce#S##96211
+7#Optical Fiber Communication#7.3#example 3#ex7_3.sce#2840/CH7/EX7.3/ex7_3.sce#S##96210
+7#Optical Fiber Communication#7.2#example 2#ex7_2.sce#2840/CH7/EX7.2/ex7_2.sce#S##96209
+7#Optical Fiber Communication#7.1#example 1#ex7_1.sce#2840/CH7/EX7.1/ex7_1.sce#S##96208
+6#Lasers#6.3#example 3#ex6_3.sce#2840/CH6/EX6.3/ex6_3.sce#S##96180
+6#Lasers#6.2#example 2#ex6_2.sce#2840/CH6/EX6.2/ex6_2.sce#S##96179
+6#Lasers#6.1#example 1#ex6_1.sce#2840/CH6/EX6.1/ex6_1.sce#S##96178
+5#Wave Optics#5.8#example 8#ex5_8.sce#2840/CH5/EX5.8/ex5_8.sce#S##96207
+5#Wave Optics#5.7#example 7#ex5_7.sce#2840/CH5/EX5.7/ex5_7.sce#S##96206
+5#Wave Optics#5.6#example 6#ex5_6.sce#2840/CH5/EX5.6/ex5_6.sce#S##96205
+5#Wave Optics#5.5#example 5#ex5_5.sce#2840/CH5/EX5.5/ex5_5.sce#S##96204
+5#Wave Optics#5.4#example 4#ex5_4.sce#2840/CH5/EX5.4/ex5_4.sce#S##96203
+5#Wave Optics#5.3#example 3#ex5_3.sce#2840/CH5/EX5.3/ex5_3.sce#S##96202
+5#Wave Optics#5.2#example 2#ex5_2.sce#2840/CH5/EX5.2/ex5_2.sce#S##96201
+5#Wave Optics#5.1#example 1#ex5_1.sce#2840/CH5/EX5.1/ex5_1.sce#S##96200
+4#Crystal Physics#4.9#example 9#ex4_9.sce#2840/CH4/EX4.9/ex4_9.sce#S##96198
+4#Crystal Physics#4.8#example 8#ex4_8.sce#2840/CH4/EX4.8/ex4_8.sce#S##96197
+4#Crystal Physics#4.7#example 7#ex4_7.sce#2840/CH4/EX4.7/ex4_7.sce#S##96196
+4#Crystal Physics#4.6#example 6#ex4_6.sce#2840/CH4/EX4.6/ex4_6.sce#S##96195
+4#Crystal Physics#4.5#example 5#ex4_5.sce#2840/CH4/EX4.5/ex4_5.sce#S##96194
+4#Crystal Physics#4.4#example 4#ex4_4.sce#2840/CH4/EX4.4/ex4_4.sce#S##96193
+4#Crystal Physics#4.3#example 3#ex4_3.sce#2840/CH4/EX4.3/ex4_3.sce#S##96192
+4#Crystal Physics#4.2#example 2#ex4_2.sce#2840/CH4/EX4.2/ex4_2.sce#S##96191
+4#Crystal Physics#4.10#example 10#ex4_10.sce#2840/CH4/EX4.10/ex4_10.sce#S##96199
+4#Crystal Physics#4.1#example 1#ex4_1.sce#2840/CH4/EX4.1/ex4_1.sce#S##96190
+3#Ultrasonics#3.4#example 4#ex3_4.sce#2840/CH3/EX3.4/ex3_4.sce#S##96189
+3#Ultrasonics#3.3#example 3#ex3_3.sce#2840/CH3/EX3.3/ex3_3.sce#S##96188
+3#Ultrasonics#3.2#example 2#ex3_2.sce#2840/CH3/EX3.2/ex3_2.sce#S##96187
+3#Ultrasonics#3.1#example 1#ex3_1.sce#2840/CH3/EX3.1/ex3_1.sce#S##96186
+2#Acoustics Of Buildings#2.9#example 9#Ex2_9.sce#2840/CH2/EX2.9/Ex2_9.sce#S##96176
+2#Acoustics Of Buildings#2.8#example 8#Ex2_8.sce#2840/CH2/EX2.8/Ex2_8.sce#S##96175
+2#Acoustics Of Buildings#2.7#example 7#Ex2_7.sce#2840/CH2/EX2.7/Ex2_7.sce#S##96174
+2#Acoustics Of Buildings#2.6#example 6#Ex2_6.sce#2840/CH2/EX2.6/Ex2_6.sce#S##96173
+2#Acoustics Of Buildings#2.5#example 5#Ex2_5.sce#2840/CH2/EX2.5/Ex2_5.sce#S##96172
+2#Acoustics Of Buildings#2.4#example 4#Ex2_4.sce#2840/CH2/EX2.4/Ex2_4.sce#S##96171
+2#Acoustics Of Buildings#2.3#example 3#Ex2_3.sce#2840/CH2/EX2.3/Ex2_3.sce#S##96170
+2#Acoustics Of Buildings#2.2#example 2#Ex2_2.sce#2840/CH2/EX2.2/Ex2_2.sce#S##96168
+2#Acoustics Of Buildings#2.10#example 10#Ex2_10.sce#2840/CH2/EX2.10/Ex2_10.sce#S##96177
+2#Acoustics Of Buildings#2.1#example 1#Ex2_1.sce#2840/CH2/EX2.1/Ex2_1.sce#S##96166
+1#Elasticity#1.9#example 9#ex1_9.sce#2840/CH1/EX1.9/ex1_9.sce#S##96155
+1#Elasticity#1.8#example 8#ex1_8.sce#2840/CH1/EX1.8/ex1_8.sce#S##96152
+1#Elasticity#1.7#example 7#ex1_7.sce#2840/CH1/EX1.7/ex1_7.sce#S##96151
+1#Elasticity#1.6#example 6#ex1_6.sce#2840/CH1/EX1.6/ex1_6.sce#S##96150
+1#Elasticity#1.5#example 5 #ex1_5.sce#2840/CH1/EX1.5/ex1_5.sce#S##95999
+1#Elasticity#1.4#example 4#ex1_4.sce#2840/CH1/EX1.4/ex1_4.sce#S##95998
+1#Elasticity#1.3#example 3#ex1_3.sce#2840/CH1/EX1.3/ex1_3.sce#S##95997
+1#Elasticity#1.2#example 2 #ex1_2.sce#2840/CH1/EX1.2/ex1_2.sce#S##95996
+1#Elasticity#1.18#example 18#ex1_18.sce#2840/CH1/EX1.18/ex1_18.sce#S##96165
+1#Elasticity#1.17#example 17#ex1_17.sce#2840/CH1/EX1.17/ex1_17.sce#S##96164
+1#Elasticity#1.16#example 16#ex1_16.sce#2840/CH1/EX1.16/ex1_16.sce#S##96163
+1#Elasticity#1.15#example 15#ex1_15.sce#2840/CH1/EX1.15/ex1_15.sce#S##96162
+1#Elasticity#1.14#example 14#ex1_14.sce#2840/CH1/EX1.14/ex1_14.sce#S##96161
+1#Elasticity#1.13#example 13#ex1_13.sce#2840/CH1/EX1.13/ex1_13.sce#S##96160
+1#Elasticity#1.12#example 12#ex1_12.sce#2840/CH1/EX1.12/ex1_12.sce#S##99268
+1#Elasticity#1.11#example 11#ex1_11.sce#2840/CH1/EX1.11/ex1_11.sce#S##99267
+1#Elasticity#1.10#example 1#ex1_10.sce#2840/CH1/EX1.10/ex1_10.sce#S##99266
+1#Elasticity#1.1#example 1 #ex1_1.sce#2840/CH1/EX1.1/ex1_1.sce#S##95995

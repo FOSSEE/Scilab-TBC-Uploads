@@ -1,0 +1,13 @@
+On level ground: 
+Height of tower = 18 m 
+
+On sloping ground: 
+Vertical distance between two towers = 20 m 
+From the graph: 
+x1 = 75m, x2 = 225m 
+S1 = 2.50 m 
+S2 = 22.50 m 
+Clearance = 10.50 m 
+x = 75 m 
+Minimum clearance = 8 m 
+

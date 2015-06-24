@@ -1,0 +1,4 @@
+ # Problem 11 # 
+
+ Standard formula used m = m_o / sqrt ( 1- (v/c)^2)
+ Velocity of particle is 0.866025 c.

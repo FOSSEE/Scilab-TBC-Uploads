@@ -1,0 +1,208 @@
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.6#solution to the BVP by finite differences#ex_7_6.sce#50/CH7/EX7.6/ex_7_6.sce#S##3936
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.5#solution to the BVP #ex_7_5.sce#50/CH7/EX7.5/ex_7_5.sce#S##3935
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.4#solution to the BVP by  shooting method#ex_7_4.sce#50/CH7/EX7.4/ex_7_4.sce#S##3934
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.4#solution to the BVP by  shooting method#shooting.sci#50/DEPENDENCIES/shooting.sci#D#shooting method for solving BVP#133
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.3#solution to the BVP by  shooting method#ex_7_3.sce#50/CH7/EX7.3/ex_7_3.sce#S##3933
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.3#solution to the BVP by  shooting method#shooting.sci#50/DEPENDENCIES/shooting.sci#D#shooting method for solving BVP#133
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.11#solution to the BVP by finite differences#ex_7_11.sce#50/CH7/EX7.11/ex_7_11.sce#S##3937
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.1#solution to the BVP by  shooting method#ex_7_1.sce#50/CH7/EX7.1/ex_7_1.sce#S##3932
+7#ORDINARY DIFFERENTIAL EQUATIONS BOUNDARY VALUE PROBLEM#7.1#solution to the BVP by  shooting method#shooting.sci#50/DEPENDENCIES/shooting.sci#D#shooting method for solving BVP#133
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.9#euler method to solve the IVP#ex_6_9.sce#50/CH6/EX6.9/ex_6_9.sce#S##3879
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.9#euler method to solve the IVP#Euler1.sce#50/DEPENDENCIES/Euler1.sce#D#euler method#96
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.4#solution ti the IVP#ex_6_4.sce#50/CH6/EX6.4/ex_6_4.sce#S##3878
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.4#solution ti the IVP#eigenvectors.sci#50/DEPENDENCIES/eigenvectors.sci#D#eigen vectors and eigen values#95
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.32#solution by numerov method#ex_6_32.sce#50/CH6/EX6.32/ex_6_32.sce#S##3891
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.3#solution to the system of equations#ex_6_3.sce#50/CH6/EX6.3/ex_6_3.sce#S##3877
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.3#solution to the system of equations#eigenvectors.sci#50/DEPENDENCIES/eigenvectors.sci#D#eigen vectors and eigen values#95
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.27#solution ti IVP by third order adams moult  method#ex_6_27.sce#50/CH6/EX6.27/ex_6_27.sce#S##3890
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.25#solution ti IVP by third order adamsbashfort meth#ex_6_25.sce#50/CH6/EX6.25/ex_6_25.sce#S##3888
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.25#solution ti IVP by third order adamsbashfort meth#adamsbashforth3.sci#50/DEPENDENCIES/adamsbashforth3.sci#D#adams bashforth third order  method#93
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.21#solution ti IVP by second order range kutta method#ex_6_21.sce#50/CH6/EX6.21/ex_6_21.sce#S##3887
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.21#solution ti IVP by second order range kutta method#newtonrap.sce#50/DEPENDENCIES/newtonrap.sce#D#newton raphson method#101
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.20#solution to the IVP systems#ex_6_20.sce#50/CH6/EX6.20/ex_6_20.sce#S##4036
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.20#solution to the IVP systems#Vsim_eulercauchy.sce#50/DEPENDENCIES/Vsim_eulercauchy.sce#D#euler cauchy solution to the simultanioys equations#141
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.20#solution to the IVP systems#simRK4.sci#50/DEPENDENCIES/simRK4.sci#D#simultaneous  fourth order range kutta#104
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.18#solution ti IVP by fourth order range kutta method#ex_6_18.sce#50/CH6/EX6.18/ex_6_18.sce#S##3885
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.18#solution ti IVP by fourth order range kutta method#RK4.sci#50/DEPENDENCIES/RK4.sci#D#fourth order range kutta method#102
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.17#solution ti IVP by modified euler cauchy and heun#ex_6_17.sce#50/CH6/EX6.17/ex_6_17.sce#S##4034
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.17#solution ti IVP by modified euler cauchy and heun#modifiedeuler.sci#50/DEPENDENCIES/modifiedeuler.sci#D#modified euler method#100
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.17#solution ti IVP by modified euler cauchy and heun#heun.sci#50/DEPENDENCIES/heun.sci#D#euler cauchy or heun#99
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.15#solution ti IVP by taylor expansion#ex_6_15.sce#50/CH6/EX6.15/ex_6_15.sce#S##4035
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.15#solution ti IVP by taylor expansion#taylor.sci#50/DEPENDENCIES/taylor.sci#D#taylor series#105
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.15#solution ti IVP by taylor expansion#fact.sci#50/DEPENDENCIES/fact.sci#D#factorial#98
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.13#solution ti IVP by euler  mid point method#ex_6_13.sce#50/CH6/EX6.13/ex_6_13.sce#S##3881
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.13#solution ti IVP by euler  mid point method#eulermidpoint.sci#50/DEPENDENCIES/eulermidpoint.sci#D#mid point nmethod#97
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.12#solution ti IVP by back euler method#ex_6_12.sce#50/CH6/EX6.12/ex_6_12.sce#S##3880
+6#ORDINARY DIFFERENTIAL EQUATIONS INNITIAL VALUE PROBLEMS#6.12#solution ti IVP by back euler method#backeuler.sci#50/DEPENDENCIES/backeuler.sci#D#back euler method#94
+5#DIFFERENTIATION AND INTEGRATION#5.30#double integral using simpson rule#ex_5_30.sce#50/CH5/EX5.30/ex_5_30.sce#S##3911
+5#DIFFERENTIATION AND INTEGRATION#5.29#double integral using simpson rule#ex_5_29.sce#50/CH5/EX5.29/ex_5_29.sce#S##3910
+5#DIFFERENTIATION AND INTEGRATION#5.27#integral approximation by gauss legurre method#ex_5_27.sce#50/CH5/EX5.27/ex_5_27.sce#S##3909
+5#DIFFERENTIATION AND INTEGRATION#5.26#composite trapizoidal and composite simpson#ex_5_26.sce#50/CH5/EX5.26/ex_5_26.sce#S##3908
+5#DIFFERENTIATION AND INTEGRATION#5.26#composite trapizoidal and composite simpson#comp_trapezoidal.sci#50/DEPENDENCIES/comp_trapezoidal.sci#D#composite trapizoidal rule#116
+5#DIFFERENTIATION AND INTEGRATION#5.26#composite trapizoidal and composite simpson#simpson13.sci#50/DEPENDENCIES/simpson13.sci#D#simpson rule#120
+5#DIFFERENTIATION AND INTEGRATION#5.22#integral approximation by gauss legurre method#ex_5_22.sce#50/CH5/EX5.22/ex_5_22.sce#S##3907
+5#DIFFERENTIATION AND INTEGRATION#5.21#integral approximation by gauss legurre method#ex_5_21.sce#50/CH5/EX5.21/ex_5_21.sce#S##3906
+5#DIFFERENTIATION AND INTEGRATION#5.20#integral approximation by gauss legurre method#ex_5_20.sce#50/CH5/EX5.20/ex_5_20.sce#S##3905
+5#DIFFERENTIATION AND INTEGRATION#5.2#quadratic interpolation#ex_5_2.sce#50/CH5/EX5.2/ex_5_2.sce#S##3896
+5#DIFFERENTIATION AND INTEGRATION#5.18#integral approximation by gauss chebishev#ex_5_18.sce#50/CH5/EX5.18/ex_5_18.sce#S##3904
+5#DIFFERENTIATION AND INTEGRATION#5.17#gauss legendary method#ex_5_17.sce#50/CH5/EX5.17/ex_5_17.sce#S##3903
+5#DIFFERENTIATION AND INTEGRATION#5.16#gauss legendary three point method#ex_5_16.sce#50/CH5/EX5.16/ex_5_16.sce#S##3902
+5#DIFFERENTIATION AND INTEGRATION#5.15#quadrature formula#ex_5_15.sce#50/CH5/EX5.15/ex_5_15.sce#S##3901
+5#DIFFERENTIATION AND INTEGRATION#5.13#integral approximation by simpson three eight rule#ex_5_13.sce#50/CH5/EX5.13/ex_5_13.sce#S##3900
+5#DIFFERENTIATION AND INTEGRATION#5.13#integral approximation by simpson three eight rule#simpson38.sci#50/DEPENDENCIES/simpson38.sci#D#simpson rule#121
+5#DIFFERENTIATION AND INTEGRATION#5.12#integral approximation by mid point and two point#ex_5_12.sce#50/CH5/EX5.12/ex_5_12.sce#S##3899
+5#DIFFERENTIATION AND INTEGRATION#5.11#solution by trapizoidal and simpsons#ex_5_11.sce#50/CH5/EX5.11/ex_5_11.sce#S##3898
+5#DIFFERENTIATION AND INTEGRATION#5.11#solution by trapizoidal and simpsons#simpson.sci#50/DEPENDENCIES/simpson.sci#D#approximation to the integral by simpson method#119
+5#DIFFERENTIATION AND INTEGRATION#5.11#solution by trapizoidal and simpsons#trapezoidal.sci#50/DEPENDENCIES/trapezoidal.sci#D#integration by trapizoidal method#122
+5#DIFFERENTIATION AND INTEGRATION#5.10#jacobian matrix of the given system #ex_5_10.sce#50/CH5/EX5.10/ex_5_10.sce#S##3897
+5#DIFFERENTIATION AND INTEGRATION#5.10#jacobian matrix of the given system #jacobianmat.sci#50/DEPENDENCIES/jacobianmat.sci#D#jacobian of a given matrix#117
+5#DIFFERENTIATION AND INTEGRATION#5.1#linear interpolation#ex_5_1.sce#50/CH5/EX5.1/ex_5_1.sce#S##3895
+5#DIFFERENTIATION AND INTEGRATION#5.1#linear interpolation#linearinterpol.sci#50/DEPENDENCIES/linearinterpol.sci#D#linear interpolating polinomial#118
+4#INTERPOLATION AND APPROXIMATION#4.9#polinomial of  degree two#ex_4_9.sce#50/CH4/EX4.9/ex_4_9.sce#S##3916
+4#INTERPOLATION AND APPROXIMATION#4.9#polinomial of  degree two#iteratedinterpol.sci#50/DEPENDENCIES/iteratedinterpol.sci#D#iterated interpolation#125
+4#INTERPOLATION AND APPROXIMATION#4.9#polinomial of  degree two#NDDinterpol2.sci#50/DEPENDENCIES/NDDinterpol2.sci#D#newton divided differences interpolation _order two#130
+4#INTERPOLATION AND APPROXIMATION#4.8#solution by quadratic interpolation#ex_4_8.sce#50/CH4/EX4.8/ex_4_8.sce#S##3915
+4#INTERPOLATION AND APPROXIMATION#4.8#solution by quadratic interpolation#lagrangefundamentalpoly.sci#50/DEPENDENCIES/lagrangefundamentalpoly.sci#D#legrange fundamental polynomial#126
+4#INTERPOLATION AND APPROXIMATION#4.7#polynomial of degree two#ex_4_7.sce#50/CH4/EX4.7/ex_4_7.sce#S##3914
+4#INTERPOLATION AND APPROXIMATION#4.7#polynomial of degree two#lagrangefundamentalpoly.sci#50/DEPENDENCIES/lagrangefundamentalpoly.sci#D#legrange fundamental polynomial#126
+4#INTERPOLATION AND APPROXIMATION#4.6#legrange linear interpolation polinomial#ex_4_6.sce#50/CH4/EX4.6/ex_4_6.sce#S##3913
+4#INTERPOLATION AND APPROXIMATION#4.6#legrange linear interpolation polinomial#legrangeinterpol.sci#50/DEPENDENCIES/legrangeinterpol.sci#D#legrange interpolation#127
+4#INTERPOLATION AND APPROXIMATION#4.41#chebishev polinomial#ex_4_41.sce#50/CH4/EX4.41/ex_4_41.sce#S##3930
+4#INTERPOLATION AND APPROXIMATION#4.4#linear interpolation polinomial#ex_4_4.sce#50/CH4/EX4.4/ex_4_4.sce#S##3931
+4#INTERPOLATION AND APPROXIMATION#4.4#linear interpolation polinomial#legrangeinterpol.sci#50/DEPENDENCIES/legrangeinterpol.sci#D#legrange interpolation#127
+4#INTERPOLATION AND APPROXIMATION#4.39#gram schmidt orthogonalisation#ex_4_39.sce#50/CH4/EX4.39/ex_4_39.sce#S##4032
+4#INTERPOLATION AND APPROXIMATION#4.38#gram schmidt orthogonalisation#ex_4_38.sce#50/CH4/EX4.38/ex_4_38.sce#S##3928
+4#INTERPOLATION AND APPROXIMATION#4.37#least square fit#ex_4_37.sce#50/CH4/EX4.37/ex_4_37.sce#S##3927
+4#INTERPOLATION AND APPROXIMATION#4.36#least square fit#ex_4_36.sce#50/CH4/EX4.36/ex_4_36.sce#S##3926
+4#INTERPOLATION AND APPROXIMATION#4.35#least square approximation#ex_4_35.sce#50/CH4/EX4.35/ex_4_35.sce#S##3925
+4#INTERPOLATION AND APPROXIMATION#4.35#least square approximation#quadraticapprox.sci#50/DEPENDENCIES/quadraticapprox.sci#D#quadratic approximation#131
+4#INTERPOLATION AND APPROXIMATION#4.34#least square straight fit#ex_4_34.sce#50/CH4/EX4.34/ex_4_34.sce#S##3924
+4#INTERPOLATION AND APPROXIMATION#4.34#least square straight fit#straightlineapprox.sce#50/DEPENDENCIES/straightlineapprox.sce#D#straight line approximation#132
+4#INTERPOLATION AND APPROXIMATION#4.32#linear polinomial approximation#ex_4_32.sce#50/CH4/EX4.32/ex_4_32.sce#S##3923
+4#INTERPOLATION AND APPROXIMATION#4.31#linear approximation#ex_4_31.sce#50/CH4/EX4.31/ex_4_31.sce#S##3922
+4#INTERPOLATION AND APPROXIMATION#4.3#linear interpolation polinomial#ex_4_3.sce#50/CH4/EX4.3/ex_4_3.sce#S##3912
+4#INTERPOLATION AND APPROXIMATION#4.3#linear interpolation polinomial#aitkeninterpol.sci#50/DEPENDENCIES/aitkeninterpol.sci#D#aitken interpolation#123
+4#INTERPOLATION AND APPROXIMATION#4.3#linear interpolation polinomial#legrangeinterpol.sci#50/DEPENDENCIES/legrangeinterpol.sci#D#legrange interpolation#127
+4#INTERPOLATION AND APPROXIMATION#4.3#linear interpolation polinomial#NDDinterpol.sci#50/DEPENDENCIES/NDDinterpol.sci#D#newton divided differences interpolation#129
+4#INTERPOLATION AND APPROXIMATION#4.23#piecewise cubical interpolating polinomial#ex_4_23.sce#50/CH4/EX4.23/ex_4_23.sce#S##3921
+4#INTERPOLATION AND APPROXIMATION#4.23#piecewise cubical interpolating polinomial#lagrangefundamentalpoly.sci#50/DEPENDENCIES/lagrangefundamentalpoly.sci#D#legrange fundamental polynomial#126
+4#INTERPOLATION AND APPROXIMATION#4.22#piecewise quadratic interpolating polinomial#ex_4_22.sce#50/CH4/EX4.22/ex_4_22.sce#S##3920
+4#INTERPOLATION AND APPROXIMATION#4.22#piecewise quadratic interpolating polinomial#lagrangefundamentalpoly.sci#50/DEPENDENCIES/lagrangefundamentalpoly.sci#D#legrange fundamental polynomial#126
+4#INTERPOLATION AND APPROXIMATION#4.21#piecewise linear interpolating polinomial#ex_4_21.sce#50/CH4/EX4.21/ex_4_21.sce#S##4084
+4#INTERPOLATION AND APPROXIMATION#4.21#piecewise linear interpolating polinomial#legrangeinterpol.sci#50/DEPENDENCIES/legrangeinterpol.sci#D#legrange interpolation#127
+4#INTERPOLATION AND APPROXIMATION#4.20#hermite interpolation#ex_4_20.sce#50/CH4/EX4.20/ex_4_20.sce#S##3918
+4#INTERPOLATION AND APPROXIMATION#4.20#hermite interpolation#hermiteinterpol.sci#50/DEPENDENCIES/hermiteinterpol.sci#D#hermite interpolation#124
+4#INTERPOLATION AND APPROXIMATION#4.15#forward and backward difference polynomial#ex_4_15.sce#50/CH4/EX4.15/ex_4_15.sce#S##4029
+4#INTERPOLATION AND APPROXIMATION#4.15#forward and backward difference polynomial#NBDP.sci#50/DEPENDENCIES/NBDP.sci#D#newton backward differences polinomial#128
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.9#solution using the inverse of the matrix#ex_3_9.sce#50/CH3/EX3.9/ex_3_9.sce#S##4134
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.9#solution using the inverse of the matrix#jordan.sce#50/DEPENDENCIES/jordan.sce#D#gauss jorden#154
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.8#solution by pivoted gauss elimination method#ex_3_8.sce#50/CH3/EX3.8/ex_3_8.sce#S##4133
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.8#solution by pivoted gauss elimination method#pivotgausselim.sci#50/DEPENDENCIES/pivotgausselim.sci#D#gauss elimination  with pivoting#157
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.6#solution by pivoted gauss elimination method#ex_3_6.sce#50/CH3/EX3.6/ex_3_6.sce#S##4123
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.6#solution by pivoted gauss elimination method#pivotgausselim.sci#50/DEPENDENCIES/pivotgausselim.sci#D#gauss elimination  with pivoting#157
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.5#solution by gauss elimination method#ex_3_5.sce#50/CH3/EX3.5/ex_3_5.sce#S##4122
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.5#solution by gauss elimination method#Vgausselim.sce#50/DEPENDENCIES/Vgausselim.sce#D#gauss elimination#151
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.4#solution to the system of equations#ex_3_4.sce#50/CH3/EX3.4/ex_3_4.sce#S##4121
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.27#eigen vale and eigen vector#ex_3_27.sce#50/CH3/EX3.27/ex_3_27.sce#S##4145
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.27#eigen vale and eigen vector#geigenvectors.sci#50/DEPENDENCIES/geigenvectors.sci#D#eigen vector and eigen value#148
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.22#solution by gauss siedal method#ex_3_22.sce#50/CH3/EX3.22/ex_3_22.sce#S##4144
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.22#solution by gauss siedal method#Vgaussseidel.sce#50/DEPENDENCIES/Vgaussseidel.sce#D#gauss siedel method#152
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.21#jacobi iteration method#ex_3_21.sce#50/CH3/EX3.21/ex_3_21.sce#S##4141
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.21#jacobi iteration method#jacobiiteration.sce#50/DEPENDENCIES/jacobiiteration.sce#D#jacobi iteration method#153
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.2#property A in the book#ex_3_2.sce#50/CH3/EX3.2/ex_3_2.sce#S##4119
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.15#cholesky method#ex_3_15.sce#50/CH3/EX3.15/ex_3_15.sce#S##4140
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.15#cholesky method#back.sce#50/DEPENDENCIES/back.sce#D#back substitution#146
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.15#cholesky method#cholesky.sce#50/DEPENDENCIES/cholesky.sce#D#cholesky method#147
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.15#cholesky method#fore.sce#50/DEPENDENCIES/fore.sce#D#forward substitution#149
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.14#cholesky method#ex_3_14.sce#50/CH3/EX3.14/ex_3_14.sce#S##4139
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.14#cholesky method#back.sce#50/DEPENDENCIES/back.sce#D#back substitution#146
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.14#cholesky method#cholesky.sce#50/DEPENDENCIES/cholesky.sce#D#cholesky method#147
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.14#cholesky method#fact.sci#50/DEPENDENCIES/fact.sci#D#factorial#98
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.13#LU decomposition#ex_3_13.sce#50/CH3/EX3.13/ex_3_13.sce#S##4138
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.13#LU decomposition#back.sce#50/DEPENDENCIES/back.sce#D#back substitution#146
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.13#LU decomposition#fore.sce#50/DEPENDENCIES/fore.sce#D#forward substitution#149
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.13#LU decomposition#LandU.sce#50/DEPENDENCIES/LandU.sce#D#L and U matrices#155
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.12#solution by decomposition method#ex_3_12.sce#50/CH3/EX3.12/ex_3_12.sce#S##4137
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.12#solution by decomposition method#back.sce#50/DEPENDENCIES/back.sce#D#back substitution#146
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.12#solution by decomposition method#fore.sce#50/DEPENDENCIES/fore.sce#D#forward substitution#149
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.12#solution by decomposition method#LandU.sce#50/DEPENDENCIES/LandU.sce#D#L and U matrices#155
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.11#inverse using LU decoposition#ex_3_11.sce#50/CH3/EX3.11/ex_3_11.sce#S##4129
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.11#inverse using LU decoposition#LandU.sce#50/DEPENDENCIES/LandU.sce#D#L and U matrices#155
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.10#decomposition method#ex_3_10.sce#50/CH3/EX3.10/ex_3_10.sce#S##4128
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.10#decomposition method#back.sce#50/DEPENDENCIES/back.sce#D#back substitution#146
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.10#decomposition method#fore.sce#50/DEPENDENCIES/fore.sce#D#forward substitution#149
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.10#decomposition method#LandU.sce#50/DEPENDENCIES/LandU.sce#D#L and U matrices#155
+3#SYSTEM OF LINEAR ALGEBRIC EQUATIONS AND EIGENVALUE PROBLEMS#3.1#determinent#ex_3_1.sce#50/CH3/EX3.1/ex_3_1.sce#S##4118
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.9#solution to the equation by newton raphson method#2_9.PNG#50/CH2/EX2.9/2_9.PNG#R##4052
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.9#solution to the equation by newton raphson method#ex_9.sce#50/CH2/EX2.9/ex_9.sce#S##4051
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.9#solution to the equation by newton raphson method#Vnewton.sce#50/DEPENDENCIES/Vnewton.sce#D#newton raphson method#68
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.8#solution to the equation by newton raphson method#2_8.PNG#50/CH2/EX2.8/2_8.PNG#R##4050
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.8#solution to the equation by newton raphson method#ex_8.sce#50/CH2/EX2.8/ex_8.sce#S##4049
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.8#solution to the equation by newton raphson method#Vnewton4.sce#50/DEPENDENCIES/Vnewton4.sce#D#four itterations of newton raphson method#73
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.7#solution to the equation by newton raphson method#2_7.PNG#50/CH2/EX2.7/2_7.PNG#R##4048
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.7#solution to the equation by newton raphson method#ex_7.sce#50/CH2/EX2.7/ex_7.sce#S##4047
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.7#solution to the equation by newton raphson method#Vnewton4.sce#50/DEPENDENCIES/Vnewton4.sce#D#four itterations of newton raphson method#73
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.6#solution by secant  and regula falsi#2_6.PNG#50/CH2/EX2.6/2_6.PNG#R##4046
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.6#solution by secant  and regula falsi#ex_6.sce#50/CH2/EX2.6/ex_6.sce#S##4045
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.6#solution by secant  and regula falsi#Vsecant.sce#50/DEPENDENCIES/Vsecant.sce#D#secant method#66
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.6#solution by secant  and regula falsi#regulafalsi.sce#50/DEPENDENCIES/regulafalsi.sce#D#regula falsi method#84
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.5#solution to the given equation#ex_5.sce#50/CH2/EX2.5/ex_5.sce#S##4185
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.5#solution to the given equation#regulafalsi4.sce#50/DEPENDENCIES/regulafalsi4.sce#D#four iterations of regula falsi method#92
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.5#solution to the given equation#secant4.sce#50/DEPENDENCIES/secant4.sce#D#four iterations of secant method#91
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.4#solution to the  eq by bisection method#2_4.PNG#50/CH2/EX2.4/2_4.PNG#R##4042
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.4#solution to the  eq by bisection method#ex_4.sce#50/CH2/EX2.4/ex_4.sce#S##4041
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.4#solution to the  eq by bisection method#Vbisection5.sce#50/DEPENDENCIES/Vbisection5.sce#D#five itterations by bisection method#71
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.4#solution to the  eq by bisection method#Vbisection.sce#50/DEPENDENCIES/Vbisection.sce#D#bisection method#70
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.3#solution to the  eq by bisection method#2_3.PNG#50/CH2/EX2.3/2_3.PNG#R##4040
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.3#solution to the  eq by bisection method#ex_3.sce#50/CH2/EX2.3/ex_3.sce#S##4039
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.3#solution to the  eq by bisection method#Vbisection.sce#50/DEPENDENCIES/Vbisection.sce#D#bisection method#70
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.3#solution to the  eq by bisection method#Vbisection5.sce#50/DEPENDENCIES/Vbisection5.sce#D#five itterations by bisection method#71
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.27#solution to the given transcendental equation#ex_27.sce#50/CH2/EX2.27/ex_27.sce#S##4081
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.27#solution to the given transcendental equation#2_27.PNG#50/CH2/EX2.27/2_27.PNG#R##4082
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.27#solution to the given transcendental equation#newton63.sce#50/DEPENDENCIES/newton63.sce#D#solution by newton method given in equation 2.63#89
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.27#solution to the given transcendental equation#secant64.sce#50/DEPENDENCIES/secant64.sce#D#solution by secant method given in equation 2.64#87
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.27#solution to the given transcendental equation#secant65.sce#50/DEPENDENCIES/secant65.sce#D#solution by secant method given in equation 2.65#88
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.27#solution to the given transcendental equation#Vnewton.sce#50/DEPENDENCIES/Vnewton.sce#D#newton raphson method#68
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.27#solution to the given transcendental equation#Vnewton4.sce#50/DEPENDENCIES/Vnewton4.sce#D#four itterations of newton raphson method#73
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.26#solution to the eq with multiple roots#ex_26.sce#50/CH2/EX2.26/ex_26.sce#S##4079
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.26#solution to the eq with multiple roots#2_26.PNG#50/CH2/EX2.26/2_26.PNG#R##4080
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.26#solution to the eq with multiple roots#Vnewton.sce#50/DEPENDENCIES/Vnewton.sce#D#newton raphson method#68
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.26#solution to the eq with multiple roots#modified_newton.sce#50/DEPENDENCIES/modified_newton.sce#D#solution to the equation having multiple roots#79
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.25#solution by  general iteration and aitken method#ex_25.sce#50/CH2/EX2.25/ex_25.sce#S##4077
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.25#solution by  general iteration and aitken method#2_25.PNG#50/CH2/EX2.25/2_25.PNG#R##4078
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.25#solution by  general iteration and aitken method#generaliteration2.sce#50/DEPENDENCIES/generaliteration2.sce#D#solution by two iterations of general iteration#77
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.25#solution by  general iteration and aitken method#aitken.sce#50/DEPENDENCIES/aitken.sce#D#solution by aitken method#74
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.2#solution by  general iteration and aitken method#2_24_2.PNG#50/CH2/EX2.24.2/2_24_2.PNG#R##4076
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.2#solution by  general iteration and aitken method#ex_24_2.sce#50/CH2/EX2.24.2/ex_24_2.sce#S##4075
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.2#solution by  general iteration and aitken method#generaliteration2.sce#50/DEPENDENCIES/generaliteration2.sce#D#solution by two iterations of general iteration#77
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.2#solution by  general iteration and aitken method#aitken.sce#50/DEPENDENCIES/aitken.sce#D#solution by aitken method#74
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.1#solution by  general iteration and aitken method#2_24_1.PNG#50/CH2/EX2.24.1/2_24_1.PNG#R##4074
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.1#solution by  general iteration and aitken method#ex_24_1.sce#50/CH2/EX2.24.1/ex_24_1.sce#S##4073
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.1#solution by  general iteration and aitken method#aitken.sce#50/DEPENDENCIES/aitken.sce#D#solution by aitken method#74
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.24.1#solution by  general iteration and aitken method#generaliteration2.sce#50/DEPENDENCIES/generaliteration2.sce#D#solution by two iterations of general iteration#77
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.23#general iteration#ex_23.sce#50/CH2/EX2.23/ex_23.sce#S##4069
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.23#general iteration#generaliteration.sce#50/DEPENDENCIES/generaliteration.sce#D#solution by general iteration#76
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.2#interval containing the roots#ex_2.sce#50/CH2/EX2.2/ex_2.sce#S##4037
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.2#interval containing the roots#2_2.PNG#50/CH2/EX2.2/2_2.PNG#R##4038
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.17#multipoint iteration#ex_17.sce#50/CH2/EX2.17/ex_17.sce#S##4067
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.17#multipoint iteration#multipoint_iteration33.sce#50/DEPENDENCIES/multipoint_iteration33.sce#D#solution by multipoint iteration given in equation 33#86
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.16#multipoint iteration#2_16.PNG#50/CH2/EX2.16/2_16.PNG#R##4065
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.16#multipoint iteration#ex_16.sce#50/CH2/EX2.16/ex_16.sce#S##4064
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.16#multipoint iteration#multipoint_iteration33.sce#50/DEPENDENCIES/multipoint_iteration33.sce#D#solution by multipoint iteration given in equation 33#86
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.16#multipoint iteration#multipoint_iteration31.sce#50/DEPENDENCIES/multipoint_iteration31.sce#D#solution by multipoint iteration given in equation 31#85
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.15#solution by  chebeshev method#2_15.PNG#50/CH2/EX2.15/2_15.PNG#R##4063
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.15#solution by  chebeshev method#ex_15.sce#50/CH2/EX2.15/ex_15.sce#S##4062
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.15#solution by  chebeshev method#chebyshev.sce#50/DEPENDENCIES/chebyshev.sce#D#solution by chebeshev method#75
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.14#solution by  chebeshev method#2_14.PNG#50/CH2/EX2.14/2_14.PNG#R##4061
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.14#solution by  chebeshev method#ex_14.sce#50/CH2/EX2.14/ex_14.sce#S##4060
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.14#solution by  chebeshev method#chebyshev.sce#50/DEPENDENCIES/chebyshev.sce#D#solution by chebeshev method#75
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.13#solution by  chebeshev method#2_13.PNG#50/CH2/EX2.13/2_13.PNG#R##4059
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.13#solution by  chebeshev method#ex_13.sce#50/CH2/EX2.13/ex_13.sce#S##4058
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.13#solution by  chebeshev method#chebyshev.sce#50/DEPENDENCIES/chebyshev.sce#D#solution by chebeshev method#75
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.12#solution by five itrations of muller method#ex_12.sce#50/CH2/EX2.12/ex_12.sce#S##4056
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.12#solution by five itrations of muller method#2_12.PNG#50/CH2/EX2.12/2_12.PNG#R##4057
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.12#solution by five itrations of muller method#muller5.sce#50/DEPENDENCIES/muller5.sce#D#solution by five iterations of muller method#81
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.11#solution to the given equation by muller method#ex_11.sce#50/CH2/EX2.11/ex_11.sce#S##4186
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.11#solution to the given equation by muller method#muller3.sce#50/DEPENDENCIES/muller3.sce#D#solution by three iterations of muller method#80
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.1#intervals containing the roots of the equation#ex_1.sce#50/CH2/EX2.1/ex_1.sce#S##3710
+2#TRANSCENDENTAL AND POLINOMIAL EQUATIONS#2.1#intervals containing the roots of the equation#2_1.PNG#50/CH2/EX2.1/2_1.PNG#R##3711

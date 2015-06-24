@@ -1,0 +1,19 @@
+                         //EXAMPLE 2-83    PG NO-117-118
+V=125+%i*0;
+I1=5+%i*0;
+I2=1.2+%i*1.964;
+Z2=V/I2;
+disp('iv)   IMPEDANCE (Z2) is  in polar form  =  '+string (Z2) +' ohm ');
+R=28.26;
+XC=46.43;
+F=50;
+C=1/[2*%pi*F*XC];
+disp('iv)   CAPACITOR (C) is  in polar form  =  '+string (C) +' F ');
+I=I1+I2;
+disp('iv)   CURRENT (I) is  in polar form  =  '+string (I) +' A ');
+S=V*I;
+disp('i)  Apparent Power (S) is    in  polar form  =  '+string (S) +'  VA ');
+P=S*0.953;
+disp('i) Active Power (P) is  in polar form   =  '+string (P) +'  W ');
+Q=S*0.302;
+disp('i) Reactive Power (Q) is   in  polar form  =  '+string (Q) +'  Var ');

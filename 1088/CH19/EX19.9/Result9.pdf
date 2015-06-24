@@ -1,0 +1,99 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example9.sci')
+ 
+-->clear
+ 
+-->mode(-1)
+Current date is 11-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            19   
+ 
+ Chapter Title                         :                  perl-THE MASTER MANIPULATOR   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 9    :               Show the method of  joining an array using 'join' in perl 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+
+6.A file named "emp.lst" with the necessary details gets created automatically for the session.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat emp.lst      # to open the file emp.lst 2233|a.k.shukla             |g.m.        |sales           |12/12/52|6000
+9876|jai sharma             |director  |production |12/03/50|7000
+5678|sumit chakrobarty|d.g.m      |marketing  |19/04/43|6000
+2356|barun sengupta      |director  |personnel  |11/05/47|7800
+5423|n.k. gupta              |chairman |admin       |30/08/56|5400
+1006|chanchal singhvi   |director  |sales          |03/09/38|6700
+6213|karuna ganguly      |g.m.        |accounts   |05/06/62|6300
+1265|s.n. dasgupta         |manager  |sales          |12/09/63|5600
+4290|jayant Choudhary  |executive |production|07/09/50|6000
+2476|anil aggarwal        |manager   |sales          |01/05/59|5000
+6521|lalit chowdury       |director    |marketing |26/09/45|8200
+3212|shyam saksena      |d.g.m        |accounts   |12/12/55|6000
+3564|sudhir Agarwal     |executive  |personnel  |06/07/47|7500
+2345|j.b. saxena            |g.m.           |marketing |12/03/45|8000
+0110|v.k. agrawal         |g.m.           |marketing  |31/02/40|9000
+
+# Enter the name of the perlscript file whichever you desire  
+
+  #!/usr/bin/perl  -n 
+# Script: hither.pl  - Uppercases the name and adds century  prefix to the date 
+#
+@line = split(/\|/) ;                                                                                      # $_ is assumed 
+($day, $month, $year) =  split(/\// , $line[4]);                                           #  Splits date field
+$year = "19" . $year ;                                            #  Adds century prefix
+$line[4] = join("\/", $day , $month , $year)  ;      #  Rebuilds date field
+$line = join("\|", @line);                                      #  Rebuilds line
+print  $line; 
+
+# type the following command in the command line interpreter as soon as it appears 
+       " hither.pl  emp.lst   "[ENTER]
+
+
+$ hither.pl   emp.lst            #to execute the perlscript 
+
+
+   ---------------->Executing PerlScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

@@ -1,0 +1,73 @@
+
+ Refer to fig:4.31a   
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    240.  
+ 
+ (c) ratio of transformation=   
+ 
+    11.  
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    26.4  
+ 
+ Refer to fig:4.31b   
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    240.  
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ (c) ratio of transformation=   
+ 
+    0.0909091  
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    26.4  
+ 
+ Refer to fig:4.31c   
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    2400.  
+ 
+ (c) ratio of transformation=   
+ 
+    1.1  
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    264.  
+ 
+ Refer to fig:4.31d   
+ 
+ (a) primary winding voltage (in Volts)=   
+ 
+    2400.  
+ 
+ (b) secondary winding voltage (in Volts)=   
+ 
+    2640.  
+ 
+ (c) ratio of transformation=   
+ 
+    0.9090909  
+ 
+ (d) nominal rating of transformer (KVA)=   
+ 
+    264.  
+ 

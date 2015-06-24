@@ -1,0 +1,2 @@
+RC time constant is 6.67 seconds
+Lamp power is 73.4 Watts

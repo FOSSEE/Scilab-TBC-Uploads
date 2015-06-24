@@ -1,0 +1,5 @@
+ # PROBLEM 8 # 
+Standard formula used 
+ del_x*del_p = h/(4*pi) 
+
+ Uncertainty in determining the position of electron is 3.859362e-04 m.

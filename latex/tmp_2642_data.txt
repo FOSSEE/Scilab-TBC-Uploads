@@ -1,0 +1,104 @@
+11#SINGLE PHASE MOTORS#11.6#determine tooth pitch and step angle #Ex11_6.sce#2642/CH11/EX11.6/Ex11_6.sce#S##91351
+11#SINGLE PHASE MOTORS#11.5#calculate the equivalent circuit parameters #Ex11_5.sce#2642/CH11/EX11.5/Ex11_5.sce#S##91350
+11#SINGLE PHASE MOTORS#11.4#find value of capacitance #Ex11_4.sce#2642/CH11/EX11.4/Ex11_4.sce#S##91349
+11#SINGLE PHASE MOTORS#11.3#starting current main winding current and line current #Ex11_3.sce#2642/CH11/EX11.3/Ex11_3.sce#S##91348
+11#SINGLE PHASE MOTORS#11.2#calculate in put current power developed power  and torque developed #Ex11_2.sce#2642/CH11/EX11.2/Ex11_2.sce#S##91347
+11#SINGLE PHASE MOTORS#11.1#determine slip due to forward and backward field and effective rotor resistance #Ex11_1.sce#2642/CH11/EX11.1/Ex11_1.sce#S##91352
+10#SYNCHRONOUS MOTOR #10.4#determine max power and max torque #Ex10_4.sce#2642/CH10/EX10.4/Ex10_4.sce#S##91344
+10#SYNCHRONOUS MOTOR #10.3#calculate maximum power #Ex10_3.sce#2642/CH10/EX10.3/Ex10_3.sce#S##91343
+10#SYNCHRONOUS MOTOR #10.2#calculate the excitation voltage per phase and torque angle #Ex10_2.sce#2642/CH10/EX10.2/Ex10_2.sce#S##91345
+10#SYNCHRONOUS MOTOR #10.1#determine excitation voltage per phase  #Ex10_1.sce#2642/CH10/EX10.1/Ex10_1.sce#S##91341
+9#SYNCHRONOUS GENERETOR#9.9#determine synchronous impedance reactance full load VR   #Ex9_9.sce#2642/CH9/EX9.9/Ex9_9.sce#S##91340
+9#SYNCHRONOUS GENERETOR#9.8#determine noload induced voltage per phase and VR#Ex9_8.sce#2642/CH9/EX9.8/Ex9_8.sce#S##91335
+9#SYNCHRONOUS GENERETOR#9.7#determine rms value of the induced voltage per phase#Ex9_7.sce#2642/CH9/EX9.7/Ex9_7.sce#S##91334
+9#SYNCHRONOUS GENERETOR#9.6#determine voltage per pahse#Ex9_6.sce#2642/CH9/EX9.6/Ex9_6.sce#S##91333
+9#SYNCHRONOUS GENERETOR#9.5#determine line voltage #Ex9_5.sce#2642/CH9/EX9.5/Ex9_5.sce#S##91332
+9#SYNCHRONOUS GENERETOR#9.4#find distribution factor #Ex9_4.sce#2642/CH9/EX9.4/Ex9_4.sce#S##91331
+9#SYNCHRONOUS GENERETOR#9.3#determine pitch factor #Ex9_3.sce#2642/CH9/EX9.3/Ex9_3.sce#S##91329
+9#SYNCHRONOUS GENERETOR#9.2#determine pitch factor #Ex9_2.sce#2642/CH9/EX9.2/Ex9_2.sce#S##91330
+9#SYNCHRONOUS GENERETOR#9.12#determine load current terminal voltage and power per pahse#Ex9_12.sce#2642/CH9/EX9.12/Ex9_12.sce#S##91339
+9#SYNCHRONOUS GENERETOR#9.11#determine torque angle induced voltage per phase VR#Ex9_11.sce#2642/CH9/EX9.11/Ex9_11.sce#S##91338
+9#SYNCHRONOUS GENERETOR#9.10#determine power delivered and three phase max power #Ex9_10.sce#2642/CH9/EX9.10/Ex9_10.sce#S##91337
+9#SYNCHRONOUS GENERETOR#9.1#determine number of poles#Ex9_1.sce#2642/CH9/EX9.1/Ex9_1.sce#S##91327
+8#STARTING CONTROL AND TESTING OF AN INDUCTION MOTOR#8.7#determine combined slip combined synchronous speed out put#Ex8_7.sce#2642/CH8/EX8.7/Ex8_7.sce#S##91326
+8#STARTING CONTROL AND TESTING OF AN INDUCTION MOTOR#8.6#determine equivalent parameters#Ex8_6.sce#2642/CH8/EX8.6/Ex8_6.sce#S##91325
+8#STARTING CONTROL AND TESTING OF AN INDUCTION MOTOR#8.5#determine the equivalent parameters #Ex8_5.sce#2642/CH8/EX8.5/Ex8_5.sce#S##91324
+8#STARTING CONTROL AND TESTING OF AN INDUCTION MOTOR#8.4#determine torques#Ex8_4.sce#2642/CH8/EX8.4/Ex8_4.sce#S##91323
+8#STARTING CONTROL AND TESTING OF AN INDUCTION MOTOR#8.3#determine the full load current#Ex8_3.sce#2642/CH8/EX8.3/Ex8_3.sce#S##91322
+8#STARTING CONTROL AND TESTING OF AN INDUCTION MOTOR#8.2#determine percentage taping on the autotransformer#Ex8_2.sce#2642/CH8/EX8.2/Ex8_2.sce#S##91311
+7#THREE PHASE INDUCTION MOTOR#7.8#determine length #Ex7_8.sce#2642/CH7/EX7.8/Ex7_8.sce#S##91310
+7#THREE PHASE INDUCTION MOTOR#7.7#determine slip rotor cu loss shaft motor efficiency#Ex7_7.sce#2642/CH7/EX7.7/Ex7_7.sce#S##91309
+7#THREE PHASE INDUCTION MOTOR#7.6#determine max mechanical power Tmax and slip #Ex7_6.sce#2642/CH7/EX7.6/Ex7_6.sce#S##91308
+7#THREE PHASE INDUCTION MOTOR#7.5#determine slip synchronous speed shaft speed and mechanical power#Ex7_5.sce#2642/CH7/EX7.5/Ex7_5.sce#S##91305
+7#THREE PHASE INDUCTION MOTOR#7.4#find speed and ratio #Ex7_4.sce#2642/CH7/EX7.4/Ex7_4.sce#S##91304
+7#THREE PHASE INDUCTION MOTOR#7.3#find the value of starting torque and current#Ex7_3.sce#2642/CH7/EX7.3/Ex7_3.sce#S##91303
+7#THREE PHASE INDUCTION MOTOR#7.2#determine synchronous speed rotor frequency and rotor voltage#Ex7_2.sce#2642/CH7/EX7.2/Ex7_2.sce#S##91302
+7#THREE PHASE INDUCTION MOTOR#7.1#determine synchronous speed slip and rotor frequency #Ex7_1.sce#2642/CH7/EX7.1/Ex7_1.sce#S##91301
+6#CONTROL AND STARTING OF A DC MOTOR#6.6#find the value of resistance #Ex6_6.sce#2642/CH6/EX6.6/Ex6_6.sce#S##91300
+6#CONTROL AND STARTING OF A DC MOTOR#6.5#calculate value of resistance#Ex6_5.sce#2642/CH6/EX6.5/Ex6_5.sce#S##91299
+6#CONTROL AND STARTING OF A DC MOTOR#6.4#determine the speed #Ex6_4.sce#2642/CH6/EX6.4/Ex6_4.sce#S##91298
+6#CONTROL AND STARTING OF A DC MOTOR#6.3#find new speed#Ex6_3.sce#2642/CH6/EX6.3/Ex6_3.sce#S##91297
+6#CONTROL AND STARTING OF A DC MOTOR#6.2#find the speed at full load and half load torque#Ex6_2.sce#2642/CH6/EX6.2/Ex6_2.sce#S##91296
+6#CONTROL AND STARTING OF A DC MOTOR#6.1#find value of resistance#Ex6_1.sce#2642/CH6/EX6.1/Ex6_1.sce#S##91295
+5#DIRECT CURRENT MOTORS#5.9#determine Pcu  Ta  Tsh and efficiency#Ex5_9.sce#2642/CH5/EX5.9/Ex5_9.sce#S##91294
+5#DIRECT CURRENT MOTORS#5.8#calculate the iron and friction loss and efficiency#Ex5_8.sce#2642/CH5/EX5.8/Ex5_8.sce#S##91293
+5#DIRECT CURRENT MOTORS#5.7#find the speed of the motor#Ex5_7.sce#2642/CH5/EX5.7/Ex5_7.sce#S##91292
+5#DIRECT CURRENT MOTORS#5.6#determine the motor speed under load condition#Ex5_6.sce#2642/CH5/EX5.6/Ex5_6.sce#S##91291
+5#DIRECT CURRENT MOTORS#5.5#find speed and shaft torque#Ex5_5.sce#2642/CH5/EX5.5/Ex5_5.sce#S##91289
+5#DIRECT CURRENT MOTORS#5.4#find torque developed by armature#Ex5_4.sce#2642/CH5/EX5.4/Ex5_4.sce#S##91288
+5#DIRECT CURRENT MOTORS#5.3#determine change in back emf #Ex5_3.sce#2642/CH5/EX5.3/Ex5_3.sce#S##91287
+5#DIRECT CURRENT MOTORS#5.2#determine value of back emf and mechanical power developed#Ex5_2.sce#2642/CH5/EX5.2/Ex5_2.sce#S##91286
+5#DIRECT CURRENT MOTORS#5.1#determine magnitude of force#Ex5_1.sce#2642/CH5/EX5.1/Ex5_1.sce#S##91156
+4#DIRECT CURRENT GENERATORS#4.9#determine ATc and ATd#Ex4_9.sce#2642/CH4/EX4.9/Ex4_9.sce#S##91151
+4#DIRECT CURRENT GENERATORS#4.8#determine the generated volatge and PD#Ex4_8.sce#2642/CH4/EX4.8/Ex4_8.sce#S##91152
+4#DIRECT CURRENT GENERATORS#4.7#determine generated emf #Ex4_7.sce#2642/CH4/EX4.7/Ex4_7.sce#S##91150
+4#DIRECT CURRENT GENERATORS#4.6#calculate the generated voltage#Ex4_6.sce#2642/CH4/EX4.6/Ex4_6.sce#S##91149
+4#DIRECT CURRENT GENERATORS#4.5#find electromagnetic torque#Ex4_5.sce#2642/CH4/EX4.5/Ex4_5.sce#S##91148
+4#DIRECT CURRENT GENERATORS#4.4#calculate generated emf#Ex4_4.sce#2642/CH4/EX4.4/Ex4_4.sce#S##91146
+4#DIRECT CURRENT GENERATORS#4.3#determine induced voltage#Ex4_3.sce#2642/CH4/EX4.3/Ex4_3.sce#S##91145
+4#DIRECT CURRENT GENERATORS#4.2#determine induced voltage#Ex4_2.sce#2642/CH4/EX4.2/Ex4_2.sce#S##91144
+4#DIRECT CURRENT GENERATORS#4.11#determine induced voltage and efficiency#Ex4_11.sce#2642/CH4/EX4.11/Ex4_11.sce#S##91154
+4#DIRECT CURRENT GENERATORS#4.10#determine flux per pole#Ex4_10.sce#2642/CH4/EX4.10/Ex4_10.sce#S##91153
+3#TRANSFORMER AND PER UNIT SYSTEM#3.9#full load efficiency output kVA#Ex3_9.sce#2642/CH3/EX3.9/Ex3_9.sce#S##91134
+3#TRANSFORMER AND PER UNIT SYSTEM#3.8#calculate efficiency #Ex3_8.sce#2642/CH3/EX3.8/Ex3_8.sce#S##91133
+3#TRANSFORMER AND PER UNIT SYSTEM#3.7#find voltage regulation#Ex3_7.sce#2642/CH3/EX3.7/Ex3_7.sce#S##91132
+3#TRANSFORMER AND PER UNIT SYSTEM#3.6#determine impedance referred to the primary and secondary #Ex3_6.sce#2642/CH3/EX3.6/Ex3_6.sce#S##91131
+3#TRANSFORMER AND PER UNIT SYSTEM#3.5#determine primary current#Ex3_5.sce#2642/CH3/EX3.5/Ex3_5.sce#S##91130
+3#TRANSFORMER AND PER UNIT SYSTEM#3.4#find turns ratio load impedance primary current#Ex3_4.sce#2642/CH3/EX3.4/Ex3_4.sce#S##91129
+3#TRANSFORMER AND PER UNIT SYSTEM#3.3#find iron loss and magnetizing component of currents#Ex3_3.sce#2642/CH3/EX3.3/Ex3_3.sce#S##91128
+3#TRANSFORMER AND PER UNIT SYSTEM#3.2#determine turns ratio and mutual flux#Ex3_2.sce#2642/CH3/EX3.2/Ex3_2.sce#S##91127
+3#TRANSFORMER AND PER UNIT SYSTEM#3.17#find grid bus voltage#Ex3_17.sce#2642/CH3/EX3.17/Ex3_17.sce#S##91142
+3#TRANSFORMER AND PER UNIT SYSTEM#3.16#determine the per unit values of R L Z #Ex3_16.sce#2642/CH3/EX3.16/Ex3_16.sce#S##91141
+3#TRANSFORMER AND PER UNIT SYSTEM#3.15#determine line voltage and current at secondary side#Ex3_15.sce#2642/CH3/EX3.15/Ex3_15.sce#S##91140
+3#TRANSFORMER AND PER UNIT SYSTEM#3.14#determine circulating current#Ex3_14.sce#2642/CH3/EX3.14/Ex3_14.sce#S##91139
+3#TRANSFORMER AND PER UNIT SYSTEM#3.13#determine kVA ratings #Ex3_13.sce#2642/CH3/EX3.13/Ex3_13.sce#S##91138
+3#TRANSFORMER AND PER UNIT SYSTEM#3.12#find equivlent R L Z referred to primary and secondary and VR#Ex3_12.sce#2642/CH3/EX3.12/Ex3_12.sce#S##91137
+3#TRANSFORMER AND PER UNIT SYSTEM#3.11#determine noload circuit resisatnce and reactance#Ex3_11.sce#2642/CH3/EX3.11/Ex3_11.sce#S##91136
+3#TRANSFORMER AND PER UNIT SYSTEM#3.10#calculate all day efficiency #Ex3_10.sce#2642/CH3/EX3.10/Ex3_10.sce#S##91135
+3#TRANSFORMER AND PER UNIT SYSTEM#3.1#find no of primary turns primary full load current and secondary full load current#Ex3_1.sce#2642/CH3/EX3.1/Ex3_1.sce#S##91126
+2#BASICS OF MAGNETIC CIRCUITS#9.2#determine pitch factor #Ex9_2.sce#2642/CH2/EX9.2/Ex9_2.sce#S##91328
+2#BASICS OF MAGNETIC CIRCUITS#2.9#find relucatance and relative permeability#Ex2_9.sce#2642/CH2/EX2.9/Ex2_9.sce#S##91121
+2#BASICS OF MAGNETIC CIRCUITS#2.8#calculate current#Ex2_8.sce#2642/CH2/EX2.8/Ex2_8.sce#S##91120
+2#BASICS OF MAGNETIC CIRCUITS#2.7#calculate flux flux density and field intensity#Ex2_7.sce#2642/CH2/EX2.7/Ex2_7.sce#S##91119
+2#BASICS OF MAGNETIC CIRCUITS#2.6#find MFS flux density and flux#Ex2_6.sce#2642/CH2/EX2.6/Ex2_6.sce#S##91118
+2#BASICS OF MAGNETIC CIRCUITS#2.5#find MFD#Ex2_5.sce#2642/CH2/EX2.5/Ex2_5.sce#S##91117
+2#BASICS OF MAGNETIC CIRCUITS#2.4#find MMF and reluctance#Ex2_4.sce#2642/CH2/EX2.4/Ex2_4.sce#S##91115
+2#BASICS OF MAGNETIC CIRCUITS#2.3#find permeability MFI MFD #Ex2_3.sce#2642/CH2/EX2.3/Ex2_3.sce#S##91113
+2#BASICS OF MAGNETIC CIRCUITS#2.2#calculate flux density MMF magnetic field intensity#Ex2_2.sce#2642/CH2/EX2.2/Ex2_2.sce#S##91112
+2#BASICS OF MAGNETIC CIRCUITS#2.13#determine hysteresis loss#Ex2_13.sce#2642/CH2/EX2.13/Ex2_13.sce#S##91125
+2#BASICS OF MAGNETIC CIRCUITS#2.12#determine the inductance of the coil#Ex2_12.sce#2642/CH2/EX2.12/Ex2_12.sce#S##91124
+2#BASICS OF MAGNETIC CIRCUITS#2.11#determine force#Ex2_11.sce#2642/CH2/EX2.11/Ex2_11.sce#S##91123
+2#BASICS OF MAGNETIC CIRCUITS#2.10#calculate current#Ex2_10.sce#2642/CH2/EX2.10/Ex2_10.sce#S##91122
+2#BASICS OF MAGNETIC CIRCUITS#2.1#calculate total flux#Ex2_1.sce#2642/CH2/EX2.1/Ex2_1.sce#S##91111
+1#REVIEW OF ELECTRIC CIRCUITS#1.9#find phase currents and neutral current#Ex1_9.sce#2642/CH1/EX1.9/Ex1_9.sce#S##91102
+1#REVIEW OF ELECTRIC CIRCUITS#1.8#find line currents and load phase voltages#Ex1_8.sce#2642/CH1/EX1.8/Ex1_8.sce#S##95829
+1#REVIEW OF ELECTRIC CIRCUITS#1.7#find magnitude of  phase currents and line current#Ex1_7.sce#2642/CH1/EX1.7/Ex1_7.sce#S##91086
+1#REVIEW OF ELECTRIC CIRCUITS#1.6#find line currents and power factor#Ex1_6.sce#2642/CH1/EX1.6/Ex1_6.sce#S##91075
+1#REVIEW OF ELECTRIC CIRCUITS#1.5#calculate the magnitude of the line voltage#Ex1_5.sce#2642/CH1/EX1.5/Ex1_5.sce#S##91072
+1#REVIEW OF ELECTRIC CIRCUITS#1.4#find the rms value#Ex1_4.sce#2642/CH1/EX1.4/Ex1_4.sce#S##91061
+1#REVIEW OF ELECTRIC CIRCUITS#1.3#use Thevenin theorem to find current #Ex1_3.sce#2642/CH1/EX1.3/Ex1_3.sce#S##91054
+1#REVIEW OF ELECTRIC CIRCUITS#1.2#determine magnitude and sign of power#Ex1_2.sce#2642/CH1/EX1.2/Ex1_2.sce#S##91044
+1#REVIEW OF ELECTRIC CIRCUITS#1.12#find second wattmeter reading#Ex1_12.sce#2642/CH1/EX1.12/Ex1_12.sce#S##91105
+1#REVIEW OF ELECTRIC CIRCUITS#1.11#calculate line currents pf power supplied#Ex1_11.sce#2642/CH1/EX1.11/Ex1_11.sce#S##91104
+1#REVIEW OF ELECTRIC CIRCUITS#1.10#find current in each load and line currents#Ex1_10.sce#2642/CH1/EX1.10/Ex1_10.sce#S##91110
+1#REVIEW OF ELECTRIC CIRCUITS#1.1#calculate current#Ex1_1.sce#2642/CH1/EX1.1/Ex1_1.sce#S##91035

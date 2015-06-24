@@ -1,0 +1,12 @@
+Reflection loss (in dB) =   
+ 
+    0.0360412  
+ 
+ Transmisson loss (in dB) =   
+ 
+    0.0360412  
+ 
+ Return loss(in dB) =   
+ 
+  - 10.413927  
+

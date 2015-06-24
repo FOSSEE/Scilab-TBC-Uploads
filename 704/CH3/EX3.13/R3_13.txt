@@ -1,0 +1,8 @@
+Active component of no load current (in Amp)=   
+ 
+    0.1818182  
+ 
+ Reactive component of no load current (in Amp)=   
+ 
+    0.5781450  
+ 

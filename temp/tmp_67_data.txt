@@ -1,0 +1,123 @@
+8#Discrete Fourier Transform and Fast Fourier Transform#8.9#IDFT computation#example89.sce#67/CH8/EX8.9/example89.sce#S##3190
+8#Discrete Fourier Transform and Fast Fourier Transform#8.8#DFT computation#example88.sce#67/CH8/EX8.8/example88.sce#S##3189
+8#Discrete Fourier Transform and Fast Fourier Transform#8.7#DFT computation#example87.sce#67/CH8/EX8.7/example87.sce#S##3188
+8#Discrete Fourier Transform and Fast Fourier Transform#8.6#DFT of sequence#example86.sce#67/CH8/EX8.6/example86.sce#S##3187
+8#Discrete Fourier Transform and Fast Fourier Transform#8.5#DFT computation#example85.sce#67/CH8/EX8.5/example85.sce#S##686
+8#Discrete Fourier Transform and Fast Fourier Transform#8.4#DFT computation#example84.sce#67/CH8/EX8.4/example84.sce#S##685
+8#Discrete Fourier Transform and Fast Fourier Transform#8.3#DFT and IDFT#example8_3.sce#67/CH8/EX8.3/example8_3.sce#S##426
+8#Discrete Fourier Transform and Fast Fourier Transform#8.2#Responce of an FIR filter#example82.sce#67/CH8/EX8.2/example82.sce#S##683
+8#Discrete Fourier Transform and Fast Fourier Transform#8.17#DFT computation#example817.sce#67/CH8/EX8.17/example817.sce#S##3198
+8#Discrete Fourier Transform and Fast Fourier Transform#8.16#DFT computation#example816.sce#67/CH8/EX8.16/example816.sce#S##3197
+8#Discrete Fourier Transform and Fast Fourier Transform#8.15#DFT computation#example815.sce#67/CH8/EX8.15/example815.sce#S##3196
+8#Discrete Fourier Transform and Fast Fourier Transform#8.14#DFT computation#example814.sce#67/CH8/EX8.14/example814.sce#S##3195
+8#Discrete Fourier Transform and Fast Fourier Transform#8.13#DFT computation#example813.sce#67/CH8/EX8.13/example813.sce#S##3194
+8#Discrete Fourier Transform and Fast Fourier Transform#8.12#DFT computation using FFT algorithm#example812.sce#67/CH8/EX8.12/example812.sce#S##3193
+8#Discrete Fourier Transform and Fast Fourier Transform#8.11#DFT computation using FFT algorithm#example811.sce#67/CH8/EX8.11/example811.sce#S##3192
+8#Discrete Fourier Transform and Fast Fourier Transform#8.10#IDFT computation#example810.sce#67/CH8/EX8.10/example810.sce#S##3191
+8#Discrete Fourier Transform and Fast Fourier Transform#8.1#Convolution of two finite duration sequences#example81.sce#67/CH8/EX8.1/example81.sce#S##684
+7#The Z Transform#7.7#z transform of sequence#example77.sce#67/CH7/EX7.7/example77.sce#S##1493
+7#The Z Transform#7.68.b#z transform of discrete signal#example768b.sce#67/CH7/EX7.68.b/example768b.sce#S##3319
+7#The Z Transform#7.68.a#z transform of discrete signal#example768a.sce#67/CH7/EX7.68.a/example768a.sce#S##3318
+7#The Z Transform#7.65#z transform#example765.sce#67/CH7/EX7.65/example765.sce#S##3317
+7#The Z Transform#7.61.c#z transform of discrete signal#example761c.sce#67/CH7/EX7.61.c/example761c.sce#S##3316
+7#The Z Transform#7.61.b#z transform of discrete signal#example761b.sce#67/CH7/EX7.61.b/example761b.sce#S##3315
+7#The Z Transform#7.61.a#z transform of discrete signal#example761a.sce#67/CH7/EX7.61.a/example761a.sce#S##3314
+7#The Z Transform#7.6#z transform#example76.sce#67/CH7/EX7.6/example76.sce#S##1492
+7#The Z Transform#7.59.b#z transform#example759b.sce#67/CH7/EX7.59.b/example759b.sce#S##3313
+7#The Z Transform#7.59.a#z transform#example759a.sce#67/CH7/EX7.59.a/example759a.sce#S##3312
+7#The Z Transform#7.56#Find Discrete time input signal#example756.sce#67/CH7/EX7.56/example756.sce#S##3550
+7#The Z Transform#7.54#Inverse Z transform#example754.sce#67/CH7/EX7.54/example754.sce#S##3547
+7#The Z Transform#7.52#z transform of discrete signal#example752.sce#67/CH7/EX7.52/example752.sce#S##3309
+7#The Z Transform#7.50#z transform of sequence#example750.sce#67/CH7/EX7.50/example750.sce#S##3308
+7#The Z Transform#7.5#z transform of cosine#example75.sce#67/CH7/EX7.5/example75.sce#S##1491
+7#The Z Transform#7.48.b#z transform#example748b.sce#67/CH7/EX7.48.b/example748b.sce#S##3305
+7#The Z Transform#7.48.a#z transform#example748a.sce#67/CH7/EX7.48.a/example748a.sce#S##3302
+7#The Z Transform#7.43#z transform#example743.sce#67/CH7/EX7.43/example743.sce#S##3299
+7#The Z Transform#7.42.b#z transform of sequence#example742b.sce#67/CH7/EX7.42.b/example742b.sce#S##3296
+7#The Z Transform#7.42.a#z transform of sequence#example742a.sce#67/CH7/EX7.42.a/example742a.sce#S##3293
+7#The Z Transform#7.39#z transform using differentiation property#example739.sce#67/CH7/EX7.39/example739.sce#S##3290
+7#The Z Transform#7.38#z transform#example738.sce#67/CH7/EX7.38/example738.sce#S##3289
+7#The Z Transform#7.37#z transform#example737.sce#67/CH7/EX7.37/example737.sce#S##3288
+7#The Z Transform#7.36#z transform#example736.sce#67/CH7/EX7.36/example736.sce#S##3286
+7#The Z Transform#7.3#z transform of unit step#example73.sce#67/CH7/EX7.3/example73.sce#S##1490
+7#The Z Transform#7.24.a#Inverse Z transform using long division method#example724a.sce#67/CH7/EX7.24.a/example724a.sce#S##3545
+7#The Z Transform#7.2#z transform of unit impulse#example72.sce#67/CH7/EX7.2/example72.sce#S##1489
+7#The Z Transform#7.19#Inverse Z transform#example719.sce#67/CH7/EX7.19/example719.sce#S##3543
+7#The Z Transform#7.18#Find Discrete time input signal#example718.sce#67/CH7/EX7.18/example718.sce#S##3540
+7#The Z Transform#7.13#z transform #example713.sce#67/CH7/EX7.13/example713.sce#S##1513
+7#The Z Transform#7.12#z transform using differentiation property #example712.sce#67/CH7/EX7.12/example712.sce#S##1512
+7#The Z Transform#7.11.b#z transform#example711b.sce#67/CH7/EX7.11.b/example711b.sce#S##1496
+7#The Z Transform#7.11.a#z transform#example711a.sce#67/CH7/EX7.11.a/example711a.sce#S##1495
+7#The Z Transform#7.10#z transform#example710.sce#67/CH7/EX7.10/example710.sce#S##1494
+7#The Z Transform#7.1#z transform#example71.sce#67/CH7/EX7.1/example71.sce#S##1488
+6#Sampling And Laplace Transform#6.48#Find responce of system#example648.sce#67/CH6/EX6.48/example648.sce#S##3328
+6#Sampling And Laplace Transform#6.4#Find nyquist rate#example64.sce#67/CH6/EX6.4/example64.sce#S##3574
+6#Sampling And Laplace Transform#6.27.e#Laplace transform of function#example627e.sce#67/CH6/EX6.27.e/example627e.sce#S##3327
+6#Sampling And Laplace Transform#6.27.d#Laplace transform of function#example627d.sce#67/CH6/EX6.27.d/example627d.sce#S##3326
+6#Sampling And Laplace Transform#6.27.c#Laplace transform of function#example627c.sce#67/CH6/EX6.27.c/example627c.sce#S##3325
+6#Sampling And Laplace Transform#6.27.b#Laplace transform of function#example627b.sce#67/CH6/EX6.27.b/example627b.sce#S##3324
+6#Sampling And Laplace Transform#6.27.a#Laplace transform of function#example627a.sce#67/CH6/EX6.27.a/example627a.sce#S##3323
+6#Sampling And Laplace Transform#6.26#Laplace transform of signal#example626.sce#67/CH6/EX6.26/example626.sce#S##3322
+6#Sampling And Laplace Transform#6.2#Find nyquist rate#example62.sce#67/CH6/EX6.2/example62.sce#S##3573
+6#Sampling And Laplace Transform#6.1#Find nyquist rate#example61.sce#67/CH6/EX6.1/example61.sce#S##3572
+5#Time and Frequency characterisation of signals and systems#5.2#Bode Plot#example52.sce#67/CH5/EX5.2/example52.sce#S##3321
+5#Time and Frequency characterisation of signals and systems#5.1#Bode Plot#example51.sce#67/CH5/EX5.1/example51.sce#S##3320
+4#The Discrete Time Fourier Transform#4.9#Sketch discrete time signal#example49.sce#67/CH4/EX4.9/example49.sce#S##3199
+4#The Discrete Time Fourier Transform#4.5#DTFT computation#example45.sce#67/CH4/EX4.5/example45.sce#S##1529
+4#The Discrete Time Fourier Transform#4.3#DTFT computation of unit impluse#example43.sce#67/CH4/EX4.3/example43.sce#S##1528
+4#The Discrete Time Fourier Transform#4.22#DTFT computation#example422.sce#67/CH4/EX4.22/example422.sce#S##1540
+4#The Discrete Time Fourier Transform#4.2#DTFT computation#example42.sce#67/CH4/EX4.2/example42.sce#S##1527
+4#The Discrete Time Fourier Transform#4.16#DTFT computation#example416.sce#67/CH4/EX4.16/example416.sce#S##1539
+4#The Discrete Time Fourier Transform#4.12#DTFT of unit step#example412.sce#67/CH4/EX4.12/example412.sce#S##1538
+4#The Discrete Time Fourier Transform#4.10#DTFT of cosine#example410.sce#67/CH4/EX4.10/example410.sce#S##1537
+4#The Discrete Time Fourier Transform#4.1#DTFT computation#example41.sce#67/CH4/EX4.1/example41.sce#S##1524
+3#Fourier Analysis of Periodic and APeriodic Continous Time Signal#3.9#Fourier Transform#example39.sce#67/CH3/EX3.9/example39.sce#S##3523
+3#Fourier Analysis of Periodic and APeriodic Continous Time Signal#3.8#Fourier Transform#example38.sce#67/CH3/EX3.8/example38.sce#S##3479
+3#Fourier Analysis of Periodic and APeriodic Continous Time Signal#3.31#Fourier Transform#example331.sce#67/CH3/EX3.31/example331.sce#S##3528
+3#Fourier Analysis of Periodic and APeriodic Continous Time Signal#3.15#Fourier Transform#example315.sce#67/CH3/EX3.15/example315.sce#S##3526
+2#Linear Time Invariant System#2.8#Find responce of system#example28.sce#67/CH2/EX2.8/example28.sce#S##3405
+2#Linear Time Invariant System#2.7#Convolution of two discrete time signals#example27.sce#67/CH2/EX2.7/example27.sce#S##3404
+2#Linear Time Invariant System#2.6#Find responce of system#example26.sce#67/CH2/EX2.6/example26.sce#S##3403
+2#Linear Time Invariant System#2.59#Convolution of two discrete time signals#example259.sce#67/CH2/EX2.59/example259.sce#S##3575
+2#Linear Time Invariant System#2.5#Evaluation of output of LTI system#example25.sce#67/CH2/EX2.5/example25.sce#S##3221
+2#Linear Time Invariant System#2.4#Convolution of two continous time functions#example24.sce#67/CH2/EX2.4/example24.sce#S##3402
+2#Linear Time Invariant System#2.3#Find unit step responce of system#example23.sce#67/CH2/EX2.3/example23.sce#S##3401
+2#Linear Time Invariant System#2.25#Check for linear systems#example225.sce#67/CH2/EX2.25/example225.sce#S##3419
+2#Linear Time Invariant System#2.21.b#Check for linear systems#example221b.sce#67/CH2/EX2.21.b/example221b.sce#S##3417
+2#Linear Time Invariant System#2.21.a#Check for linear systems#example221a.sce#67/CH2/EX2.21.a/example221a.sce#S##3415
+2#Linear Time Invariant System#2.2#Find responce of system#example22.sce#67/CH2/EX2.2/example22.sce#S##3400
+2#Linear Time Invariant System#2.19.b#Check for linear systems#example219b.sce#67/CH2/EX2.19.b/example219b.sce#S##3412
+2#Linear Time Invariant System#2.19.a#Check for linear systems#example219a.sce#67/CH2/EX2.19.a/example219a.sce#S##3410
+2#Linear Time Invariant System#2.17.c#Check for causal system#example217c.sce#67/CH2/EX2.17.c/example217c.sce#S##3408
+2#Linear Time Invariant System#2.17.b#Check for causal system#example217b.sce#67/CH2/EX2.17.b/example217b.sce#S##3407
+2#Linear Time Invariant System#2.17.a#Check for causal system#example217a.sce#67/CH2/EX2.17.a/example217a.sce#S##3406
+2#Linear Time Invariant System#2.1#Convolution of two continous time functions#example21.sce#67/CH2/EX2.1/example21.sce#S##3399
+1#Introduction to signals and systems#1.8#Find power of signal#example18.sce#67/CH1/EX1.8/example18.sce#S##3514
+1#Introduction to signals and systems#1.6#Sketch and find energy#example16.sce#67/CH1/EX1.6/example16.sce#S##3333
+1#Introduction to signals and systems#1.5#Sketch and find energy#example15.sce#67/CH1/EX1.5/example15.sce#S##3332
+1#Introduction to signals and systems#1.49.b#Check for periodicity#example149b.sce#67/CH1/EX1.49.b/example149b.sce#S##3359
+1#Introduction to signals and systems#1.49.a#Check for periodicity#example149a.sce#67/CH1/EX1.49.a/example149a.sce#S##3358
+1#Introduction to signals and systems#1.47#Check for time invariant systems#example147.sce#67/CH1/EX1.47/example147.sce#S##3357
+1#Introduction to signals and systems#1.43#Check for linear systems#example143.sce#67/CH1/EX1.43/example143.sce#S##3356
+1#Introduction to signals and systems#1.4#Sketch and find power#example14.sce#67/CH1/EX1.4/example14.sce#S##3331
+1#Introduction to signals and systems#1.39.b#Sketch continous time signal#example139b.sce#67/CH1/EX1.39.b/example139b.sce#S##3354
+1#Introduction to signals and systems#1.39.a#Sketch continous time signal#example139a.sce#67/CH1/EX1.39.a/example139a.sce#S##3353
+1#Introduction to signals and systems#1.34#Find energy of signal#example134.sce#67/CH1/EX1.34/example134.sce#S##3351
+1#Introduction to signals and systems#1.33#Find power of signal#example133.sce#67/CH1/EX1.33/example133.sce#S##3512
+1#Introduction to signals and systems#1.31.b#Check for periodicity#example131b.sce#67/CH1/EX1.31.b/example131b.sce#S##3349
+1#Introduction to signals and systems#1.31.a#Check for periodicity#example131a.sce#67/CH1/EX1.31.a/example131a.sce#S##3348
+1#Introduction to signals and systems#1.30#Find energy of signal#example130.sce#67/CH1/EX1.30/example130.sce#S##3347
+1#Introduction to signals and systems#1.28#Find power of signal#example128.sce#67/CH1/EX1.28/example128.sce#S##3346
+1#Introduction to signals and systems#1.27#Find energy of signal#example127.sce#67/CH1/EX1.27/example127.sce#S##3345
+1#Introduction to signals and systems#1.25#Check for linear systems#example125.sce#67/CH1/EX1.25/example125.sce#S##3518
+1#Introduction to signals and systems#1.22#Check for linear systems#example122.sce#67/CH1/EX1.22/example122.sce#S##3343
+1#Introduction to signals and systems#1.21#Check for linear systems#example121.sce#67/CH1/EX1.21/example121.sce#S##3516
+1#Introduction to signals and systems#1.20.b#Check for linear systems#example120b.sce#67/CH1/EX1.20.b/example120b.sce#S##3341
+1#Introduction to signals and systems#1.19.b#Check for linear systems#example119b.sce#67/CH1/EX1.19.b/example119b.sce#S##3340
+1#Introduction to signals and systems#1.19.a#Check for linear systems#example119a.sce#67/CH1/EX1.19.a/example119a.sce#S##3339
+1#Introduction to signals and systems#1.18.c#Check for time invariant systems#example118c.sce#67/CH1/EX1.18.c/example118c.sce#S##3338
+1#Introduction to signals and systems#1.18.b#Check for time invariant systems#example118b.sce#67/CH1/EX1.18.b/example118b.sce#S##3337
+1#Introduction to signals and systems#1.18.a#Check for time invariant systems#example118a.sce#67/CH1/EX1.18.a/example118a.sce#S##3336
+1#Introduction to signals and systems#1.14.a#Check for causal system#example114a.sce#67/CH1/EX1.14.a/example114a.sce#S##3335
+1#Introduction to signals and systems#1.1.b#Check for periodicity#example11b.sce#67/CH1/EX1.1.b/example11b.sce#S##3330
+1#Introduction to signals and systems#1.1.a#Check for periodicity#example11a.sce#67/CH1/EX1.1.a/example11a.sce#S##3329

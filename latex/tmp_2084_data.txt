@@ -1,0 +1,312 @@
+22#Photometry#22.5w#calculation of the luminous flux emitted into a cone of given solid angle #22_5w.sce#2084/CH22/EX22.5w/22_5w.sce#S##86978
+22#Photometry#22.4w#calculation of the illuminance at a small surface area of the table top#22_4w.sce#2084/CH22/EX22.4w/22_4w.sce#S##86977
+22#Photometry#22.3w#calculation of the luminous flux falling on a plane#22_3w.sce#2084/CH22/EX22.3w/22_3w.sce#S##89709
+22#Photometry#22.2w#calculation of the total luminous flux emitted by the source and the total luminous intensity of the source#22_2w.sce#2084/CH22/EX22.2w/22_2w.sce#S##86975
+22#Photometry#22.1w#calculation of the total radiant flux  total luminous flux and the luminous efficiency#22_1w.sce#2084/CH22/EX22.1w/22_1w.sce#S##86974
+22#Photometry#22.1#calculation of the luminous flux#22_1.sce#2084/CH22/EX22.1/22_1.sce#S##89710
+20#Dispersion and Spectra#20.3w#calculation of the refracting angles of the two prisms#20_3w.sce#2084/CH20/EX20.3w/20_3w.sce#S##87003
+20#Dispersion and Spectra#20.2w#calculation of the angle of flint glass prism and angular dispersion produced by the combination#20_2w.sce#2084/CH20/EX20.2w/20_2w.sce#S##87002
+20#Dispersion and Spectra#20.2#calculation of the dispersive power of the material of the lens#20_2.sce#2084/CH20/EX20.2/20_2.sce#S##87000
+20#Dispersion and Spectra#20.1w#calculation of the angular dispersion produced by a thin prism of the flint glass#20_1w.sce#2084/CH20/EX20.1w/20_1w.sce#S##87001
+20#Dispersion and Spectra#20.1#calculation of the dispersive power of the flint glass#20_1.sce#2084/CH20/EX20.1/20_1.sce#S##86999
+19#Optical Instruments#19.9w#calculation of the power of lens and maximum distance that can be seen clearly#19_9w.sce#2084/CH19/EX19.9w/19_9w.sce#S##86971
+19#Optical Instruments#19.8w#calculation of the angular magnification due to the converging lens#19_8w.sce#2084/CH19/EX19.8w/19_8w.sce#S##86970
+19#Optical Instruments#19.7w#calculation of the tube length  magnifying power and angular magnification#19_7w.sce#2084/CH19/EX19.7w/19_7w.sce#S##89708
+19#Optical Instruments#19.6w#calculation of the length of the tube and the angular magnification produced by the telescope#19_6w.sce#2084/CH19/EX19.6w/19_6w.sce#S##86968
+19#Optical Instruments#19.5w#calculation of the object distance and the angular magnification for the least strain in the eyes#19_5w.sce#2084/CH19/EX19.5w/19_5w.sce#S##86967
+19#Optical Instruments#19.4w#calculation of the object distance and the angular magnification#19_4w.sce#2084/CH19/EX19.4w/19_4w.sce#S##86966
+19#Optical Instruments#19.3w#calculation of the position of the image   linear magnification and the angular magnification#19_3w.sce#2084/CH19/EX19.3w/19_3w.sce#S##86965
+19#Optical Instruments#19.3#calculation of the power of lens for the spectacles#19_3.sce#2084/CH19/EX19.3/19_3.sce#S##86962
+19#Optical Instruments#19.2w#calculation of the object distance to obtain maximum angular magnification for a normal eye#19_2w.sce#2084/CH19/EX19.2w/19_2w.sce#S##86964
+19#Optical Instruments#19.2#calculation of the angular magnification and the length of the microscope tube#19_2.sce#2084/CH19/EX19.2/19_2.sce#S##86961
+19#Optical Instruments#19.1w#calculation of the angular magnification #19_1w.sce#2084/CH19/EX19.1w/19_1w.sce#S##86963
+19#Optical Instruments#19.10w#calculation of the near point and the distance of the retina from the lens #19_10w.sce#2084/CH19/EX19.10w/19_10w.sce#S##86972
+19#Optical Instruments#19.1#determining which boy appears taller #19_1.sce#2084/CH19/EX19.1/19_1.sce#S##86960
+18#Geometrical Optics#18.9#calculation of size of the image of an object placed at a distance from a convex lens#18_9.sce#2084/CH18/EX18.9/18_9.sce#S##77688
+18#Geometrical Optics#18.8#calculation of focal length of a biconvex lens from known value of radii of curvature of refracting surfaces#18_8.sce#2084/CH18/EX18.8/18_8.sce#S##77687
+18#Geometrical Optics#18.7#calculation of the size of the image of an object placed at a distance from the spherical concave surface#18_7.sce#2084/CH18/EX18.7/18_7.sce#S##77686
+18#Geometrical Optics#18.6bw#verification of total internal reflection for given conditions of right prism#18_6bw.sce#2084/CH18/EX18.6bw/18_6bw.sce#S##82122
+18#Geometrical Optics#18.6aw#calculation of minimum refractive index for parallel emergence for given condition in right prism#18_6aw.sce#2084/CH18/EX18.6aw/18_6aw.sce#S##82121
+18#Geometrical Optics#18.6#calculation of position of the image of an object placed at a distance from spherical convex surface#18_6.sce#2084/CH18/EX18.6/18_6.sce#S##77685
+18#Geometrical Optics#18.5w#calculation of maximum angle of reflection for a surface#18_5w.sce#2084/CH18/EX18.5w/18_5w.sce#S##82120
+18#Geometrical Optics#18.5#calculation of refractive index of material from known value of angle of minimum deviation by prism#18_5.sce#2084/CH18/EX18.5/18_5.sce#S##77684
+18#Geometrical Optics#18.4w#calculation of image distance and focal length of concave mirror#18_4w.sce#2084/CH18/EX18.4w/18_4w.sce#S##82119
+18#Geometrical Optics#18.4#calculation of refractive index of material from known critical angle#18_4.sce#2084/CH18/EX18.4/18_4.sce#S##77683
+18#Geometrical Optics#18.3w#calculation of object distance for half image height as compared to original height in case of reflection by convex mirror#18_3w.sce#2084/CH18/EX18.3w/18_3w.sce#S##82118
+18#Geometrical Optics#18.3#calculation of shift in the position of printed letters by a glass cube#18_3.sce#2084/CH18/EX18.3/18_3.sce#S##77682
+18#Geometrical Optics#18.2w#calculation of length of the image of an object placed horizontal at a distance from the mirror#18_2w.sce#2084/CH18/EX18.2w/18_2w.sce#S##82117
+18#Geometrical Optics#18.28bw#finding the image of a distant object formed by combination of two convex lens by using equivalent lens method#18_28bw.sce#2084/CH18/EX18.28bw/18_28bw.sce#S##82141
+18#Geometrical Optics#18.28aw#finding the image of a distant object formed by combination of two convex lens by using thin lens formula#18_28aw.sce#2084/CH18/EX18.28aw/18_28aw.sce#S##82140
+18#Geometrical Optics#18.27w#calculation of position of the object to get a focused image#18_27w.sce#2084/CH18/EX18.27w/18_27w.sce#S##82139
+18#Geometrical Optics#18.26w#calculation of new position of the slide of projector if the position of the screen is changed#18_26w.sce#2084/CH18/EX18.26w/18_26w.sce#S##82138
+18#Geometrical Optics#18.25w#calculation of location of final image for an object on the axis of a cylindrical tube containing water closed by an equiconvex lens#18_25w.sce#2084/CH18/EX18.25w/18_25w.sce#S##82137
+18#Geometrical Optics#18.24w#calculation of new focal length of a lens on immersing in water #18_24w.sce#2084/CH18/EX18.24w/18_24w.sce#S##82136
+18#Geometrical Optics#18.23w#calculation of location of image of an object placed in front of a concavo convex lens made of glass#18_23w.sce#2084/CH18/EX18.23w/18_23w.sce#S##82135
+18#Geometrical Optics#18.22w#calculation of object distance from the lens with one side silvered#18_22w.sce#2084/CH18/EX18.22w/18_22w.sce#S##89707
+18#Geometrical Optics#18.21w#calculation of separation between mirror and the lens for parallel emergence of the final beam#18_21w.sce#2084/CH18/EX18.21w/18_21w.sce#S##82133
+18#Geometrical Optics#18.20w#calculation of position of diverging mirror to obtain real image at the source itself for given system#18_20w.sce#2084/CH18/EX18.20w/18_20w.sce#S##82132
+18#Geometrical Optics#18.2#calculation of length of the image of an object placed at a distance from a concave mirror#18_2.sce#2084/CH18/EX18.2/18_2.sce#S##77681
+18#Geometrical Optics#18.1w#calculation of position and nature of the image of an object placed at a distance from a concave mirror#18_1w.sce#2084/CH18/EX18.1w/18_1w.sce#S##82116
+18#Geometrical Optics#18.19w#calculation of focal length of thin lens#18_19w.sce#2084/CH18/EX18.19w/18_19w.sce#S##82131
+18#Geometrical Optics#18.18w#calculation of position of image due to refraction at the first surface and position of final image#18_18w.sce#2084/CH18/EX18.18w/18_18w.sce#S##82130
+18#Geometrical Optics#18.17w#calculation of apparent depth of a air bubble inside a glass sphere#18_17w.sce#2084/CH18/EX18.17w/18_17w.sce#S##82129
+18#Geometrical Optics#18.16w#calculation of height of the image of an object placed along axis at a distance from a horizontal cylindrical glass rod#18_16w.sce#2084/CH18/EX18.16w/18_16w.sce#S##91770
+18#Geometrical Optics#18.15w#calculation of location of the image of an object placed at a distance from the spherical convex surface#18_15w.sce#2084/CH18/EX18.15w/18_15w.sce#S##82127
+18#Geometrical Optics#18.14w#calculation of angle of rotation of the mirror in given setup#18_14w.sce#2084/CH18/EX18.14w/18_14w.sce#S##82126
+18#Geometrical Optics#18.13w#calculation angle of minimum deviation for equilateral prism of silicate flint glass from known value of wavelength#18_13w.sce#2084/CH18/EX18.13w/18_13w.sce#S##82125
+18#Geometrical Optics#18.12w#calculation of position of final image formed due to a system of glass slab and a concave mirror#18_12w.sce#2084/CH18/EX18.12w/18_12w.sce#S##82124
+18#Geometrical Optics#18.11w#locating image of a dust particle on the surface of water filled in a concave mirror as observed from top#18_11w.sce#2084/CH18/EX18.11w/18_11w.sce#S##82123
+18#Geometrical Optics#18.1#calculation of position of the image of an object placed at a distance from the mirror#18_1.sce#2084/CH18/EX18.1/18_1.sce#S##77680
+17#Light Waves#17.9w#calculation of the number of fringes that will shift due to introduction of the sheet#17_9w.sce#2084/CH17/EX17.9w/17_9w.sce#S##86955
+17#Light Waves#17.8w#calculation of the distance of bright fringe from the central maximum#17_8w.sce#2084/CH17/EX17.8w/17_8w.sce#S##86954
+17#Light Waves#17.7w#calculation of the maximum and the minimum path difference at the detector #17_7w.sce#2084/CH17/EX17.7w/17_7w.sce#S##86952
+17#Light Waves#17.6w#calculation of the ratio of maximum intensity to the minimum intensity in the interference pattern#17_6w.sce#2084/CH17/EX17.6w/17_6w.sce#S##86951
+17#Light Waves#17.6#calculation of the diameter of the disc image#17_6.sce#2084/CH17/EX17.6/17_6.sce#S##86947
+17#Light Waves#17.5w#calculation of the ratio of maximum intensity to the minimum intensity in the interference fringe pattern#17_5w.sce#2084/CH17/EX17.5w/17_5w.sce#S##86959
+17#Light Waves#17.5#calculation of the angular divergence for most of the light getting diffracted#17_5.sce#2084/CH17/EX17.5/17_5.sce#S##86946
+17#Light Waves#17.4w#calculation of the separation between the slits#17_4w.sce#2084/CH17/EX17.4w/17_4w.sce#S##86950
+17#Light Waves#17.4#calculation of the minimum thickness of the film#17_4.sce#2084/CH17/EX17.4/17_4.sce#S##86945
+17#Light Waves#17.3w# calculation of the wavelengths of the violet and the red lightcalculation of the wavelengths of the violet and the red light#17_3w.sce#2084/CH17/EX17.3w/17_3w.sce#S##86958
+17#Light Waves#17.3#calculation of the wavelength of light in the water #17_3.sce#2084/CH17/EX17.3/17_3.sce#S##86944
+17#Light Waves#17.2w#calculation of the refractive index of the glass#17_2w.sce#2084/CH17/EX17.2w/17_2w.sce#S##86949
+17#Light Waves#17.2#calculation of the separation between successive bright fringes#17_2.sce#2084/CH17/EX17.2/17_2.sce#S##89706
+17#Light Waves#17.1w#calculation of the limits of wavelengths in the water#17_1w.sce#2084/CH17/EX17.1w/17_1w.sce#S##86948
+17#Light Waves#17.11w#calculation of the distance between the two first order minima#17_11w.sce#2084/CH17/EX17.11w/17_11w.sce#S##86957
+17#Light Waves#17.10w#calculation of the wavelengths in the visible region that are strongly reflected#17_10w.sce#2084/CH17/EX17.10w/17_10w.sce#S##86956
+17#Light Waves#17.1#calculation of the speed of light in glass#17_1.sce#2084/CH17/EX17.1/17_1.sce#S##86942
+16#Sound Waves#16.9w#calculation of the factor by which the pressure amplituide increases#16_9w.sce#2084/CH16/EX16.9w/16_9w.sce#S##86926
+16#Sound Waves#16.8w#calculation of the amplitude of vibration of the particles of the air#16_8w.sce#2084/CH16/EX16.8w/16_8w.sce#S##86925
+16#Sound Waves#16.8#calculation of the most dominant frequency#16_8.sce#2084/CH16/EX16.8/16_8.sce#S##86916
+16#Sound Waves#16.7w#calculation of the energy delivered to the microphone#16_7w.sce#2084/CH16/EX16.7w/16_7w.sce#S##86924
+16#Sound Waves#16.7#calculation of the tunning frequency of fork B#16_7.sce#2084/CH16/EX16.7/16_7.sce#S##86915
+16#Sound Waves#16.6w#calculation of the speed of sound wave in hydrogen#16_6w.sce#2084/CH16/EX16.6w/16_6w.sce#S##86923
+16#Sound Waves#16.6#calculation of the distance of the piston from the open end  for tube to vibrate in its first overtone #16_6.sce#2084/CH16/EX16.6/16_6.sce#S##86914
+16#Sound Waves#16.5w#calculation of the atmospheric temperature#16_5w.sce#2084/CH16/EX16.5w/16_5w.sce#S##89702
+16#Sound Waves#16.5#calculation of the nature of interference#16_5.sce#2084/CH16/EX16.5/16_5.sce#S##86913
+16#Sound Waves#16.4w#calculation of the minimum separation between the two points for a given phase difference #16_4w.sce#2084/CH16/EX16.4w/16_4w.sce#S##86921
+16#Sound Waves#16.4#calculation of the increase in the sound level in decibels#16_4.sce#2084/CH16/EX16.4/16_4.sce#S##86912
+16#Sound Waves#16.3w#calculation of the frequency  wavelength  speed  maximum and minimum pressures of the sound wave#16_3w.sce#2084/CH16/EX16.3w/16_3w.sce#S##86920
+16#Sound Waves#16.3#calculation of the intensity of the sound wave#16_3.sce#2084/CH16/EX16.3/16_3.sce#S##89703
+16#Sound Waves#16.2w#calculation of the location of the plane#16_2w.sce#2084/CH16/EX16.2w/16_2w.sce#S##86919
+16#Sound Waves#16.23w#calculation of the frequency of train whistle heard by the person standing on the road perpendicular to the track#16_23w.sce#2084/CH16/EX16.23w/16_23w.sce#S##86940
+16#Sound Waves#16.22w#calculation of the speed of the car#16_22w.sce#2084/CH16/EX16.22w/16_22w.sce#S##86939
+16#Sound Waves#16.21w#calculation of the original frequency of the source#16_21w.sce#2084/CH16/EX16.21w/16_21w.sce#S##86938
+16#Sound Waves#16.20w#calculation of the main frequency heard by the person#16_20w.sce#2084/CH16/EX16.20w/16_20w.sce#S##86937
+16#Sound Waves#16.2#calculation of the amplitude of vibration of the particles of the medium#16_2.sce#2084/CH16/EX16.2/16_2.sce#S##86909
+16#Sound Waves#16.1w#calculation of the depth of the sea and wavelength of the signal in the water#16_1w.sce#2084/CH16/EX16.1w/16_1w.sce#S##86917
+16#Sound Waves#16.19w#calculation of the frequency of the whistle of the train#16_19w.sce#2084/CH16/EX16.19w/16_19w.sce#S##86936
+16#Sound Waves#16.18w#calculation of the apparent frequency#16_18w.sce#2084/CH16/EX16.18w/16_18w.sce#S##86935
+16#Sound Waves#16.17w#calculation of the frequency of the note emitted by the taut string#16_17w.sce#2084/CH16/EX16.17w/16_17w.sce#S##86941
+16#Sound Waves#16.16w#calculation of the speed  wavelength in the rod  frequency  wavelength in the air#16_16w.sce#2084/CH16/EX16.16w/16_16w.sce#S##89705
+16#Sound Waves#16.15w#calculation of the fundamental frequency if the air is replaced by hydrogen#16_15w.sce#2084/CH16/EX16.15w/16_15w.sce#S##86932
+16#Sound Waves#16.14w#calculation of the speed of the sound in air#16_14w.sce#2084/CH16/EX16.14w/16_14w.sce#S##86931
+16#Sound Waves#16.13w#calculation of the length of the closed pipe#16_13w.sce#2084/CH16/EX16.13w/16_13w.sce#S##86930
+16#Sound Waves#16.12w#calculation of the length of the shortest closed organ pipe that will resonate with the tunning fork#16_12w.sce#2084/CH16/EX16.12w/16_12w.sce#S##86929
+16#Sound Waves#16.11w#calculation of the minimum distance between the source and the detector for maximum sound detection#16_11w.sce#2084/CH16/EX16.11w/16_11w.sce#S##86928
+16#Sound Waves#16.10w#calculation of the frequency at which the maxima of intensity are detected#16_10w.sce#2084/CH16/EX16.10w/16_10w.sce#S##86927
+16#Sound Waves#16.1#calculation of the audibility of a wave #16_1.sce#2084/CH16/EX16.1/16_1.sce#S##86908
+15#Wave Motion and Waves on a String#15.9w#calculation of the position of bridges in sonometer wire#15_9w.sce#2084/CH15/EX15.9w/15_9w.sce#S##86657
+15#Wave Motion and Waves on a String#15.8w#calculation of the pressing in the guitar to produce required fundamental frequency#15_8w.sce#2084/CH15/EX15.8w/15_8w.sce#S##86656
+15#Wave Motion and Waves on a String#15.8#calculation of the length of the experimental wire to get the resonance#15_8.sce#2084/CH15/EX15.8/15_8.sce#S##86647
+15#Wave Motion and Waves on a String#15.7w#calculation of the maximum displacement  wavelengths and wave speed  velocity  nodes and antinodes  number of loops#15_7w.sce#2084/CH15/EX15.7w/15_7w.sce#S##89700
+15#Wave Motion and Waves on a String#15.7#calculation of the fundamental frequency of the portion of the string between the wall and the pulley #15_7.sce#2084/CH15/EX15.7/15_7.sce#S##86643
+15#Wave Motion and Waves on a String#15.6w#calculation of the displacement of the particle#15_6w.sce#2084/CH15/EX15.6w/15_6w.sce#S##89699
+15#Wave Motion and Waves on a String#15.6#calculation of the velocity  node closest to origin  antinode closest to origin  amplitude at x#15_6.sce#2084/CH15/EX15.6/15_6.sce#S##86641
+15#Wave Motion and Waves on a String#15.5w#calculation of the wavelength of the pulse when it reaches the top of the rope#15_5w.sce#2084/CH15/EX15.5w/15_5w.sce#S##86653
+15#Wave Motion and Waves on a String#15.5#calculation of the phase difference between the waves and amplitude of the resultant wave#15_5.sce#2084/CH15/EX15.5/15_5.sce#S##89696
+15#Wave Motion and Waves on a String#15.4w#calculation of the extension of the wire over its natural length#15_4w.sce#2084/CH15/EX15.4w/15_4w.sce#S##86652
+15#Wave Motion and Waves on a String#15.4#calculation of the power transmitted through a given point#15_4.sce#2084/CH15/EX15.4/15_4.sce#S##86635
+15#Wave Motion and Waves on a String#15.3w#calculation of the speed and displacement of the particle#15_3w.sce#2084/CH15/EX15.3w/15_3w.sce#S##89698
+15#Wave Motion and Waves on a String#15.3#calculation of the time taken by the pulse in travelling through a distance#15_3.sce#2084/CH15/EX15.3/15_3.sce#S##86633
+15#Wave Motion and Waves on a String#15.2w#calculation of the maximum velocity and acceleraion of the particle#15_2w.sce#2084/CH15/EX15.2w/15_2w.sce#S##86650
+15#Wave Motion and Waves on a String#15.2#calculation of the amplitude  wave number  wavelength  frequency  time period  wave velocity#15_2.sce#2084/CH15/EX15.2/15_2.sce#S##89695
+15#Wave Motion and Waves on a String#15.1w#calculation of the amplitude  wavelength  frequency  speed of the wave#15_1w.sce#2084/CH15/EX15.1w/15_1w.sce#S##89697
+15#Wave Motion and Waves on a String#15.10w#calculation of the length of the wire#15_10w.sce#2084/CH15/EX15.10w/15_10w.sce#S##86658
+15#Wave Motion and Waves on a String#15.1#calculation of the velocity  function ft giving displacement  function gx giving shape#15_1.sce#2084/CH15/EX15.1/15_1.sce#S##86631
+14#Some Mechanical Properties of Matter#14.9w#calculation of the elongation of the wire #14_9w.sce#2084/CH14/EX14.9w/14_9w.sce#S##86605
+14#Some Mechanical Properties of Matter#14.9#calculation of the value of the coefficient of viscosity of the solution#14_9.sce#2084/CH14/EX14.9/14_9.sce#S##86576
+14#Some Mechanical Properties of Matter#14.8w#calculation of the elastic potential energy stored in the wire#14_8w.sce#2084/CH14/EX14.8w/14_8w.sce#S##86603
+14#Some Mechanical Properties of Matter#14.8#calculation of the height of the water in the column#14_8.sce#2084/CH14/EX14.8/14_8.sce#S##86573
+14#Some Mechanical Properties of Matter#14.7w#calculation of the longitudinal strain developed in each wire#14_7w.sce#2084/CH14/EX14.7w/14_7w.sce#S##89694
+14#Some Mechanical Properties of Matter#14.7#calculation of the density of the liquid#14_7.sce#2084/CH14/EX14.7/14_7.sce#S##86571
+14#Some Mechanical Properties of Matter#14.6w#calculation of the longitudinal strain in two wires#14_6w.sce#2084/CH14/EX14.6w/14_6w.sce#S##86597
+14#Some Mechanical Properties of Matter#14.6#calculation of the excess pressure inside a mercury drop #14_6.sce#2084/CH14/EX14.6/14_6.sce#S##86570
+14#Some Mechanical Properties of Matter#14.5w#calculation of the decrease in the volume of the sample of water#14_5w.sce#2084/CH14/EX14.5w/14_5w.sce#S##86596
+14#Some Mechanical Properties of Matter#14.5#calculation of the gain in the surface energy#14_5.sce#2084/CH14/EX14.5/14_5.sce#S##86568
+14#Some Mechanical Properties of Matter#14.4w#calculation of the ratio of the lengths of the two wire#14_4w.sce#2084/CH14/EX14.4w/14_4w.sce#S##89693
+14#Some Mechanical Properties of Matter#14.4#calculation of the force by which the surface on one side of the diameter pulls the suface on the other side#14_4.sce#2084/CH14/EX14.4/14_4.sce#S##86564
+14#Some Mechanical Properties of Matter#14.3w#calculation of the minimum radius of the wire used if it is not to break#14_3w.sce#2084/CH14/EX14.3w/14_3w.sce#S##89692
+14#Some Mechanical Properties of Matter#14.3#calculation of the elastic potential energy stored in the stretched steel wire#14_3.sce#2084/CH14/EX14.3/14_3.sce#S##86560
+14#Some Mechanical Properties of Matter#14.2w#calculation of the elongation of the rope and corresponding change in the diameter#14_2w.sce#2084/CH14/EX14.2w/14_2w.sce#S##86589
+14#Some Mechanical Properties of Matter#14.2#calculation of the value of Young modulus#14_2.sce#2084/CH14/EX14.2/14_2.sce#S##86555
+14#Some Mechanical Properties of Matter#14.1w#calculation of the extension of the wire#14_1w.sce#2084/CH14/EX14.1w/14_1w.sce#S##86587
+14#Some Mechanical Properties of Matter#14.17w#calculation of the terminal velocity of the rain drop#14_17w.sce#2084/CH14/EX14.17w/14_17w.sce#S##86619
+14#Some Mechanical Properties of Matter#14.16w#calculation of the shearing stress between the horizontal layers of water#14_16w.sce#2084/CH14/EX14.16w/14_16w.sce#S##86616
+14#Some Mechanical Properties of Matter#14.15w#calculation of the tangential force needed to keep the plate moving#14_15w.sce#2084/CH14/EX14.15w/14_15w.sce#S##86615
+14#Some Mechanical Properties of Matter#14.13w#calculation of the radius of the capillary tube#14_13w.sce#2084/CH14/EX14.13w/14_13w.sce#S##86612
+14#Some Mechanical Properties of Matter#14.12w#calculation of the load W suspended from wire to keep it in equilibrium#14_12w.sce#2084/CH14/EX14.12w/14_12w.sce#S##86610
+14#Some Mechanical Properties of Matter#14.11w#calculation of the amount by which the pressure inside the bubble is greater than the atmospheric pressure#14_11w.sce#2084/CH14/EX14.11w/14_11w.sce#S##86608
+14#Some Mechanical Properties of Matter#14.1#calculation of the tensile stress developed in the wire#14_1.sce#2084/CH14/EX14.1/14_1.sce#S##86553
+13#Fluid Mechanics#13.8w#calculation of the angle that the plank makes with the vertical in equilibrium#13_8w.sce#2084/CH13/EX13.8w/13_8w.sce#S##86539
+13#Fluid Mechanics#13.7w#calculation of the maximum weight that can be put on the block without wetting it#13_7w.sce#2084/CH13/EX13.7w/13_7w.sce#S##86537
+13#Fluid Mechanics#13.6w#calculation of the elongation of the spring#13_6w.sce#2084/CH13/EX13.6w/13_6w.sce#S##86536
+13#Fluid Mechanics#13.5w#calculation of the force applied on the water in the thicker arm#13_5w.sce#2084/CH13/EX13.5w/13_5w.sce#S##86535
+13#Fluid Mechanics#13.5#calculation of the speed of the water coming out of the tap#13_5.sce#2084/CH13/EX13.5/13_5.sce#S##86526
+13#Fluid Mechanics#13.4#calculation of the difference in the pressures at A and B point#13_4.sce#2084/CH13/EX13.4/13_4.sce#S##86525
+13#Fluid Mechanics#13.3w#calculation of the height of the water coloumn#13_3w.sce#2084/CH13/EX13.3w/13_3w.sce#S##86533
+13#Fluid Mechanics#13.3#calculation of the speed of the outgoing liquid#13_3.sce#2084/CH13/EX13.3/13_3.sce#S##86524
+13#Fluid Mechanics#13.2w#calculation of the height of the atmosphere to exert the same pressure as at the surface of the earth#13_2w.sce#2084/CH13/EX13.2w/13_2w.sce#S##86532
+13#Fluid Mechanics#13.2#calculation of the volume of the cube outside the water#13_2.sce#2084/CH13/EX13.2/13_2.sce#S##86523
+13#Fluid Mechanics#13.1w#calculation of the force exerted by the mercury on the bottom of the beaker#13_1w.sce#2084/CH13/EX13.1w/13_1w.sce#S##86529
+13#Fluid Mechanics#13.11w#calculation of the velocity of the water coming out of the opening #13_11w.sce#2084/CH13/EX13.11w/13_11w.sce#S##86544
+13#Fluid Mechanics#13.10w#calculation of the rate of water flow through the tube#13_10w.sce#2084/CH13/EX13.10w/13_10w.sce#S##86541
+13#Fluid Mechanics#13.1#calculation of the force exerted by the water on the bottom#13_1.sce#2084/CH13/EX13.1/13_1.sce#S##86522
+12#Simple Harmonic Motion#12.9#calculation of the time period of oscillation#12_9.sce#2084/CH12/EX12.9/12_9.sce#S##86510
+12#Simple Harmonic Motion#12.8#calculation of the value of the acceleration due to gravity#12_8.sce#2084/CH12/EX12.8/12_8.sce#S##86506
+12#Simple Harmonic Motion#12.7#calculation of the time period of a pendulum#12_7.sce#2084/CH12/EX12.7/12_7.sce#S##86505
+12#Simple Harmonic Motion#12.6w#calculation of the maximum speed of the block and the speed when the spring is stretched #12_6w.sce#2084/CH12/EX12.6w/12_6w.sce#S##86516
+12#Simple Harmonic Motion#12.6#writing the equation giving angular displacement as a function of time#12_6.sce#2084/CH12/EX12.6/12_6.sce#S##86503
+12#Simple Harmonic Motion#12.5#calculation of the total mechanical energy of the system#12_5.sce#2084/CH12/EX12.5/12_5.sce#S##86501
+12#Simple Harmonic Motion#12.4#calculation of the value of phase constant#12_4.sce#2084/CH12/EX12.4/12_4.sce#S##86500
+12#Simple Harmonic Motion#12.3w#calculation of the maximum time period  maximum speed  maximum acceleration  speed for a given displacement  speed at a given time#12_3w.sce#2084/CH12/EX12.3w/12_3w.sce#S##86515
+12#Simple Harmonic Motion#12.3#calculation of the time period of oscillation of the particle#12_3.sce#2084/CH12/EX12.3/12_3.sce#S##86499
+12#Simple Harmonic Motion#12.2w#calculation of the maximum force exerted by the spring on the block#12_2w.sce#2084/CH12/EX12.2w/12_2w.sce#S##86514
+12#Simple Harmonic Motion#12.22w#calculation of the phase difference between the individual motions#12_22w.sce#2084/CH12/EX12.22w/12_22w.sce#S##86521
+12#Simple Harmonic Motion#12.2#calculation of the amplitude of the motion#12_2.sce#2084/CH12/EX12.2/12_2.sce#S##86498
+12#Simple Harmonic Motion#12.1w#calculation of the amplitude time period maximum speed and velocity at time t#12_1w.sce#2084/CH12/EX12.1w/12_1w.sce#S##86513
+12#Simple Harmonic Motion#12.19w#calculation of the moment of inertia of the second disc about the wire#12_19w.sce#2084/CH12/EX12.19w/12_19w.sce#S##86520
+12#Simple Harmonic Motion#12.18w#calculation of the time period of small oscillation about the point of suspension#12_18w.sce#2084/CH12/EX12.18w/12_18w.sce#S##86519
+12#Simple Harmonic Motion#12.16w#calculation of the time period of small oscillations#12_16w.sce#2084/CH12/EX12.16w/12_16w.sce#S##86518
+12#Simple Harmonic Motion#12.14w#calculation of the time period  linear amplitudde  speed and angular acceleration#12_14w.sce#2084/CH12/EX12.14w/12_14w.sce#S##89691
+12#Simple Harmonic Motion#12.11#calculation of the amplitude of the simple harmonic motion#12_11.sce#2084/CH12/EX12.11/12_11.sce#S##86512
+12#Simple Harmonic Motion#12.10#calculation of the value of torsional constant of the wire#12_10.sce#2084/CH12/EX12.10/12_10.sce#S##86511
+12#Simple Harmonic Motion#12.1#calculation of the spring constant#12_1.sce#2084/CH12/EX12.1/12_1.sce#S##86497
+11#Gravitation#11.9w#calculation of the maximum height attained by the particle#11_9w.sce#2084/CH11/EX11.9w/11_9w.sce#S##86492
+11#Gravitation#11.9#calculation of the speed and time period of the satellite #11_9.sce#2084/CH11/EX11.9/11_9.sce#S##86487
+11#Gravitation#11.8#calculation of the value of acceleration due to gavity#11_8.sce#2084/CH11/EX11.8/11_8.sce#S##86486
+11#Gravitation#11.7#calculation of the gravitational field due to the moon at its surface#11_7.sce#2084/CH11/EX11.7/11_7.sce#S##86485
+11#Gravitation#11.5w#calculation of the work done by an external agent#11_5w.sce#2084/CH11/EX11.5w/11_5w.sce#S##86491
+11#Gravitation#11.4w#calculation of the separation between the particles under mutual attraction#11_4w.sce#2084/CH11/EX11.4w/11_4w.sce#S##86490
+11#Gravitation#11.4#calculation of the gravitational field #11_4.sce#2084/CH11/EX11.4/11_4.sce#S##86484
+11#Gravitation#11.2w#calculation of the distance from the earth surface where resultant gravitational field due to the earth and the moon is zero#11_2w.sce#2084/CH11/EX11.2w/11_2w.sce#S##86489
+11#Gravitation#11.2#calculation of the work done in bringing three particles together#11_2.sce#2084/CH11/EX11.2/11_2.sce#S##86483
+11#Gravitation#11.13w#calculation of the speed and the angular speed of the satellite S2 relative to the satellite S1#11_13w.sce#2084/CH11/EX11.13w/11_13w.sce#S##86496
+11#Gravitation#11.12w#calculation of the speed of projection of the satellite into an orbit#11_12w.sce#2084/CH11/EX11.12w/11_12w.sce#S##86495
+11#Gravitation#11.11w#calculation of time period of the pendulum if used at the equator#11_11w.sce#2084/CH11/EX11.11w/11_11w.sce#S##86494
+11#Gravitation#11.10w#calculation of the stretch produced in the spring#11_10w.sce#2084/CH11/EX11.10w/11_10w.sce#S##86493
+11#Gravitation#11.10#calculation of the escape velocity from the moon#11_10.sce#2084/CH11/EX11.10/11_10.sce#S##86488
+11#Gravitation#11.1#calculation of the initial acceleration of the particles#11_1.sce#2084/CH11/EX11.1/11_1.sce#S##86482
+10#Rotational Mechanics#10.9w#calculation of the contact force exerted by the floor on each leg of ladder#10_9w.sce#2084/CH10/EX10.9w/10_9w.sce#S##85068
+10#Rotational Mechanics#10.8w#calculation of the normal force and the frictional force that the floor exerts on the ladder#10_8w.sce#2084/CH10/EX10.8w/10_8w.sce#S##85067
+10#Rotational Mechanics#10.7w#calculation of the position of second kid on a balanced seesaw#10_7w.sce#2084/CH10/EX10.7w/10_7w.sce#S##85066
+10#Rotational Mechanics#10.5#calculation of the moment of inertia of the wheel#10_5.sce#2084/CH10/EX10.5/10_5.sce#S##85060
+10#Rotational Mechanics#10.4w#calculation of the angular velocity of the wheel#10_4w.sce#2084/CH10/EX10.4w/10_4w.sce#S##85065
+10#Rotational Mechanics#10.3w#calculation of the torque required to stop the wheel in one minute#10_3w.sce#2084/CH10/EX10.3w/10_3w.sce#S##85064
+10#Rotational Mechanics#10.3#calculation of the angular velocity and angular acceleration of the pulley #10_3.sce#2084/CH10/EX10.3/10_3.sce#S##85059
+10#Rotational Mechanics#10.2w#calculation of the angle rotated during the next second#10_2w.sce#2084/CH10/EX10.2w/10_2w.sce#S##85063
+10#Rotational Mechanics#10.22w#calculation of the number of revolutions made by the wheel per second#10_22w.sce#2084/CH10/EX10.22w/10_22w.sce#S##85072
+10#Rotational Mechanics#10.2#calculation of the time taken by the fan to attain half of the maximum speed#10_2.sce#2084/CH10/EX10.2/10_2.sce#S##85058
+10#Rotational Mechanics#10.1w#calculation of the number of revolutions made by the wheel #10_1w.sce#2084/CH10/EX10.1w/10_1w.sce#S##85062
+10#Rotational Mechanics#10.19w#calculation of the moment of inertia of the system about the axis perpendicular to the rod passing through its middle point#10_19w.sce#2084/CH10/EX10.19w/10_19w.sce#S##85071
+10#Rotational Mechanics#10.14w#calculation of the work done by the torque in first two seconds#10_14w.sce#2084/CH10/EX10.14w/10_14w.sce#S##85070
+10#Rotational Mechanics#10.13w#calculation of the kinetic energy and angular momentum of the disc#10_13w.sce#2084/CH10/EX10.13w/10_13w.sce#S##85069
+10#Rotational Mechanics#10.12#calculation of the kinetic energy of the sphere#10_12.sce#2084/CH10/EX10.12/10_12.sce#S##85061
+10#Rotational Mechanics#10.1#calculation of the number of revolutions made#10_1.sce#2084/CH10/EX10.1/10_1.sce#S##85057
+9#Centre of Mass  Linear momentum  Collision#9.9w#calculation of the distance moved by the bigger block#9_9w.sce#2084/CH9/EX9.9w/9_9w.sce#S##85050
+9#Centre of Mass  Linear momentum  Collision#9.8w#calculation of the distance from launching point#9_8w.sce#2084/CH9/EX9.8w/9_8w.sce#S##85049
+9#Centre of Mass  Linear momentum  Collision#9.6w#calculation of the acceleration of the centre of mass#9_6w.sce#2084/CH9/EX9.6w/9_6w.sce#S##85048
+9#Centre of Mass  Linear momentum  Collision#9.5#calculation of the speed of combined mass#9_5.sce#2084/CH9/EX9.5/9_5.sce#S##85046
+9#Centre of Mass  Linear momentum  Collision#9.4#calculation of the maximum compression of the string#9_4.sce#2084/CH9/EX9.4/9_4.sce#S##89689
+9#Centre of Mass  Linear momentum  Collision#9.22w#calculation of the loss of kinetic energy due to the collision#9_22w.sce#2084/CH9/EX9.22w/9_22w.sce#S##89690
+9#Centre of Mass  Linear momentum  Collision#9.1w#Locating the centre of maass of the system#9_1w.sce#2084/CH9/EX9.1w/9_1w.sce#S##85047
+9#Centre of Mass  Linear momentum  Collision#9.17w#calculation of the speed of the bullet#9_17w.sce#2084/CH9/EX9.17w/9_17w.sce#S##85055
+9#Centre of Mass  Linear momentum  Collision#9.14w#calculation of the velocity with which the board recoils #9_14w.sce#2084/CH9/EX9.14w/9_14w.sce#S##85054
+9#Centre of Mass  Linear momentum  Collision#9.13w#calculation of the final velocity of the shuttle#9_13w.sce#2084/CH9/EX9.13w/9_13w.sce#S##85053
+9#Centre of Mass  Linear momentum  Collision#9.11w#calculation of the fractional change in kinetic energy#9_11w.sce#2084/CH9/EX9.11w/9_11w.sce#S##85052
+9#Centre of Mass  Linear momentum  Collision#9.10w#calculation of the average force exerted by the hero on the machine gun#9_10w.sce#2084/CH9/EX9.10w/9_10w.sce#S##85051
+8#Work and Energy#8.5#calculation of the speed of the pendulum of bob when it makes an angle of 60 degree with the vertical#8_5.sce#2084/CH8/EX8.5/8_5.sce#S##85044
+8#Work and Energy#8.4w#calculation of the work done by the given force#8_4w.sce#2084/CH8/EX8.4w/8_4w.sce#S##85043
+8#Work and Energy#8.3w#calculation of the power delivered by the pulling force and average power#8_3w.sce#2084/CH8/EX8.3w/8_3w.sce#S##85042
+8#Work and Energy#8.2w#calculation of the value of minimum horsepower of the motor to be used#8_2w.sce#2084/CH8/EX8.2w/8_2w.sce#S##85039
+8#Work and Energy#8.2#calculation of the work done by force of gravity#8_2.sce#2084/CH8/EX8.2/8_2.sce#S##85038
+8#Work and Energy#8.1w#calculation of the work done by the porter on the suitcase#8_1w.sce#2084/CH8/EX8.1w/8_1w.sce#S##85037
+8#Work and Energy#8.12w#calculation of the maximum compression of the spring#8_12w.sce#2084/CH8/EX8.12w/8_12w.sce#S##85036
+8#Work and Energy#8.11w#calculation of the speed of the particle at a given point#8_11w.sce#2084/CH8/EX8.11w/8_11w.sce#S##85035
+8#Work and Energy#8.1#calculation of the work done by the spring force#8_1.sce#2084/CH8/EX8.1/8_1.sce#S##85034
+7#Circular Motion#7.8w#calculation of the angular speed of rotation#7_8w.sce#2084/CH7/EX7.8w/7_8w.sce#S##85029
+7#Circular Motion#7.7w#calculation of the value of force exerted by the air on the plane#7_7w.sce#2084/CH7/EX7.7w/7_7w.sce#S##85028
+7#Circular Motion#7.7#calculation of the weight of the body if spring balance is shifted to the equator#7_7.sce#2084/CH7/EX7.7/7_7.sce#S##85024
+7#Circular Motion#7.6#calculation of the speed of vehicle on the turn#7_6.sce#2084/CH7/EX7.6/7_6.sce#S##85031
+7#Circular Motion#7.5#calculation of the normal contact force by the side wall of the groove#7_5.sce#2084/CH7/EX7.5/7_5.sce#S##85022
+7#Circular Motion#7.4w#calculation of the value of elongation of the spring#7_4w.sce#2084/CH7/EX7.4w/7_4w.sce#S##89688
+7#Circular Motion#7.4#calculation of the value of radial and tangential acceleration#7_4.sce#2084/CH7/EX7.4/7_4.sce#S##85021
+7#Circular Motion#7.3#calculation of the magnitude of linear acceleration#7_3.sce#2084/CH7/EX7.3/7_3.sce#S##85020
+7#Circular Motion#7.2w#calculation of the value of angle of banking#7_2w.sce#2084/CH7/EX7.2w/7_2w.sce#S##85026
+7#Circular Motion#7.2#calculation of the angular acceleration#7_2.sce#2084/CH7/EX7.2/7_2.sce#S##85019
+7#Circular Motion#7.1w#calculation of the maximum speed the car can take on the turn without skidding#7_1w.sce#2084/CH7/EX7.1w/7_1w.sce#S##85025
+7#Circular Motion#7.10w#calculation of the minimum speed at which floor may be removed#7_10w.sce#2084/CH7/EX7.10w/7_10w.sce#S##85030
+7#Circular Motion#7.1#calculation of the angular velocity#7_1.sce#2084/CH7/EX7.1/7_1.sce#S##85018
+6#Friction#6.6w#calculation of the values of coefficient of static and kinetic friction#6_6w.sce#2084/CH6/EX6.6w/6_6w.sce#S##85014
+6#Friction#6.5w#calculation of the coefficient of kinetic friction #6_5w.sce#2084/CH6/EX6.5w/6_5w.sce#S##85013
+6#Friction#6.4#calculation of coefficient of static friction and kinetic friction between the block and the plank#6_4.sce#2084/CH6/EX6.4/6_4.sce#S##89687
+6#Friction#6.3w#calculation of the maximum value of mass of the block#6_3w.sce#2084/CH6/EX6.3w/6_3w.sce#S##85012
+6#Friction#6.3#calculation of the force of friction exerted by the horse and condition of boy for sliding back#6_3.sce#2084/CH6/EX6.3/6_3.sce#S##85008
+6#Friction#6.2w#calculation of frictional force and minimum value of coefficient of static friction#6_2w.sce#2084/CH6/EX6.2w/6_2w.sce#S##85011
+6#Friction#6.2#calculation of the force of friction exerted by the horizontal surface on the box#6_2.sce#2084/CH6/EX6.2/6_2.sce#S##85007
+6#Friction#6.1w#calculation of the maximum angle to prevent slipping#6_1w.sce#2084/CH6/EX6.1w/6_1w.sce#S##85010
+6#Friction#6.10w#calculation of mimimum and maximum values of mass and the acceleration if given a gentle push#6_10w.sce#2084/CH6/EX6.10w/6_10w.sce#S##85015
+6#Friction#6.1#calculation of the angle made by the contact force with the vertical and the magnitude of contact force#6_1.sce#2084/CH6/EX6.1/6_1.sce#S##85006
+5#Newton s Laws of Motion#5.8w#calculation of the maximum acceleration of the man for safe climbing#5_8w.sce#2084/CH5/EX5.8w/5_8w.sce#S##85003
+5#Newton s Laws of Motion#5.7w#calculation of acceleration with which ring starts moving if released from rest at an angle theta#5_7w.sce#2084/CH5/EX5.7w/5_7w.sce#S##85002
+5#Newton s Laws of Motion#5.4w#calculation of the position of a particle#5_4w.sce#2084/CH5/EX5.4w/5_4w.sce#S##85001
+5#Newton s Laws of Motion#5.3w#calculation of the force exerted by the tree limb on the bullet#5_3w.sce#2084/CH5/EX5.3w/5_3w.sce#S##85000
+5#Newton s Laws of Motion#5.1#calculation of force exerted by the string on a particle#5_1.sce#2084/CH5/EX5.1/5_1.sce#S##84999
+4#The Forces#4.3w#calculation of ratio of the electrical force to the gravitational force between two electrons#4_3w.sce#2084/CH4/EX4.3w/4_3w.sce#S##84998
+4#The Forces#4.1#calculation of coulomb force#4_1.sce#2084/CH4/EX4.1/4_1.sce#S##84997
+3#Rest and Motion Kinematics#3.9w#drawing graph of x versus t  v versus t and a versus t#3_9w.sce#2084/CH3/EX3.9w/3_9w.sce#S##84968
+3#Rest and Motion Kinematics#3.9#calculation of horizontal range of the projectile#3_9.sce#2084/CH3/EX3.9/3_9.sce#S##82150
+3#Rest and Motion Kinematics#3.8w#calculation of total distance and number of trips#3_8w.sce#2084/CH3/EX3.8w/3_8w.sce#S##84967
+3#Rest and Motion Kinematics#3.8#calculation of velocity and position of the particle#3_8.sce#2084/CH3/EX3.8/3_8.sce#S##82149
+3#Rest and Motion Kinematics#3.7#calculation of maximum height reached by the ball#3_7.sce#2084/CH3/EX3.7/3_7.sce#S##82148
+3#Rest and Motion Kinematics#3.6w#calculation of acceleration#3_6w.sce#2084/CH3/EX3.6w/3_6w.sce#S##84966
+3#Rest and Motion Kinematics#3.6#calculation of displacement of particle in last 1 second#3_6.sce#2084/CH3/EX3.6/3_6.sce#S##89682
+3#Rest and Motion Kinematics#3.5w#calculation of acceleration and distance travelled#3_5w.sce#2084/CH3/EX3.5w/3_5w.sce#S##89684
+3#Rest and Motion Kinematics#3.5#calculation of distance travelled in given time time taken to reach a particular velocity and distance covered to reach particular velocity#3_5.sce#2084/CH3/EX3.5/3_5.sce#S##82146
+3#Rest and Motion Kinematics#3.4w#calculation of distance travelled displacement and acceleration#3_4w.sce#2084/CH3/EX3.4w/3_4w.sce#S##84964
+3#Rest and Motion Kinematics#3.4#calculation of average velocity of the tip of minute hand in a table clock#3_4.sce#2084/CH3/EX3.4/3_4.sce#S##82145
+3#Rest and Motion Kinematics#3.3w#calculation of average velocity and average acceleration #3_3w.sce#2084/CH3/EX3.3w/3_3w.sce#S##84963
+3#Rest and Motion Kinematics#3.3#calculation of distance from speed versus time graph#3_3.sce#2084/CH3/EX3.3/3_3.sce#S##82144
+3#Rest and Motion Kinematics#3.2w#calculation of average speed and average velocity#3_2w.sce#2084/CH3/EX3.2w/3_2w.sce#S##84962
+3#Rest and Motion Kinematics#3.2#calculation of average speed and instantaneous speed#3_2.sce#2084/CH3/EX3.2/3_2.sce#S##82143
+3#Rest and Motion Kinematics#3.1w#calculation of average speed of the walk#3_1w.sce#2084/CH3/EX3.1w/3_1w.sce#S##84961
+3#Rest and Motion Kinematics#3.19w#calculation of speed and direction of rain with respect to the road#3_19w.sce#2084/CH3/EX3.19w/3_19w.sce#S##84974
+3#Rest and Motion Kinematics#3.18w#calculation of speed of raindrops with respect to road and the moving man#3_18w.sce#2084/CH3/EX3.18w/3_18w.sce#S##84973
+3#Rest and Motion Kinematics#3.17w#calculation of time taken and position of the arrival on opposite bank#3_17w.sce#2084/CH3/EX3.17w/3_17w.sce#S##89686
+3#Rest and Motion Kinematics#3.16w#calculation of angle of the swim and time to cross the river#3_16w.sce#2084/CH3/EX3.16w/3_16w.sce#S##89685
+3#Rest and Motion Kinematics#3.11w#calculation of time of flight horizontal range and vertical range#3_11w.sce#2084/CH3/EX3.11w/3_11w.sce#S##89683
+3#Rest and Motion Kinematics#3.11#calculation of velocity of the raindrops with respect to the man#3_11.sce#2084/CH3/EX3.11/3_11.sce#S##82152
+3#Rest and Motion Kinematics#3.10w#calculation of height of balloon when stone reaches ground#3_10w.sce#2084/CH3/EX3.10w/3_10w.sce#S##84969
+3#Rest and Motion Kinematics#3.10#calculation of velocity of the swimmer with respect to ground#3_10.sce#2084/CH3/EX3.10/3_10.sce#S##82151
+3#Rest and Motion Kinematics#3.1#calculation of distance and displacement#3_1.sce#2084/CH3/EX3.1/3_1.sce#S##82142
+2#Physics and Mathematics#2.9w#calculation of angle between two vectors #2_9w.sce#2084/CH2/EX2.9w/2_9w.sce#S##91768
+2#Physics and Mathematics#2.9#evaluation of a integral#2_9.sce#2084/CH2/EX2.9/2_9.sce#S##84980
+2#Physics and Mathematics#2.7w#calculation of unit vector#2_7w.sce#2084/CH2/EX2.7w/2_7w.sce#S##84990
+2#Physics and Mathematics#2.6w#calculation of angle #2_6w.sce#2084/CH2/EX2.6w/2_6w.sce#S##84989
+2#Physics and Mathematics#2.6#calculation of the slope of curve at a given point#2_6.sce#2084/CH2/EX2.6/2_6.sce#S##84979
+2#Physics and Mathematics#2.5#calculation of angle between two vectors from known value of their cross product#2_5.sce#2084/CH2/EX2.5/2_5.sce#S##84978
+2#Physics and Mathematics#2.4w#calculation of direction of resultant vector#2_4w.sce#2084/CH2/EX2.4w/2_4w.sce#S##84988
+2#Physics and Mathematics#2.4#calculation of work done by the force during displacement#2_4.sce#2084/CH2/EX2.4/2_4.sce#S##84977
+2#Physics and Mathematics#2.3w#calculation of resultant of the vectors#2_3w.sce#2084/CH2/EX2.3w/2_3w.sce#S##84987
+2#Physics and Mathematics#2.3#calculation of component of force in vertical direction#2_3.sce#2084/CH2/EX2.3/2_3.sce#S##84976
+2#Physics and Mathematics#2.2w#calculation of resultant of three vectors#2_2w.sce#2084/CH2/EX2.2w/2_2w.sce#S##84986
+2#Physics and Mathematics#2.2#calculation of sum of vectors and difference of the vectors#2_2.sce#2084/CH2/EX2.2/2_2.sce#S##84975
+2#Physics and Mathematics#2.1w#calculation of magnitude and direction of vector#2_1w.sce#2084/CH2/EX2.1w/2_1w.sce#S##84985
+2#Physics and Mathematics#2.18w#calculation of value#2_18w.sce#2084/CH2/EX2.18w/2_18w.sce#S##84996
+2#Physics and Mathematics#2.14w#calculation of the area under curve#2_14w.sce#2084/CH2/EX2.14w/2_14w.sce#S##84995
+2#Physics and Mathematics#2.13w#calculation of maximum and minimum value of a given function#2_13w.sce#2084/CH2/EX2.13w/2_13w.sce#S##84994
+2#Physics and Mathematics#2.13#calculation of average focal length of concave mirror considering uncertainity#2_13.sce#2084/CH2/EX2.13/2_13.sce#S##84984
+2#Physics and Mathematics#2.12#calculation of value#2_12.sce#2084/CH2/EX2.12/2_12.sce#S##84983
+2#Physics and Mathematics#2.11w#calculation of change in volume of sphere as radius is changed#2_11w.sce#2084/CH2/EX2.11w/2_11w.sce#S##84993
+2#Physics and Mathematics#2.11#calculation of value#2_11.sce#2084/CH2/EX2.11/2_11.sce#S##84982
+2#Physics and Mathematics#2.10w#calculation of value of the given scalar#2_10w.sce#2084/CH2/EX2.10w/2_10w.sce#S##84992
+2#Physics and Mathematics#2.10#calculation of round off value upto three digits#2_10.sce#2084/CH2/EX2.10/2_10.sce#S##84981

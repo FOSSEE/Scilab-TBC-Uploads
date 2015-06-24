@@ -1,0 +1,7 @@
+ Efficiency of transformer at 75 percent of full load(in %)=   
+ 
+    90.502793  
+ 
+ Maximum efficiency (in %)=   
+ 
+    90.517679

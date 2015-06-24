@@ -1,0 +1,4 @@
+
+Example 2.15
+ Uncertainty in momentum of ball is 1.055197e-28 kgm/s.
+ Percentage error in calculation of momentum is 8.793311e-27.

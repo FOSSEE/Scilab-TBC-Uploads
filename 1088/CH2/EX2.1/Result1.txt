@@ -1,0 +1,34 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example1.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            2   
+ 
+ Chapter Title                         :   THE UNIX ARCHITECTURE AND COMMAND USAGE   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ 
+ Example 1   :                                                  Display the current working shell    
+ 
+ ***************************************************************************   
+ 
+ Answer    :    
+The current Working Shell is cmd 
+ ***************************************************************************   
+ 
+-->diary("Result1.txt","close")

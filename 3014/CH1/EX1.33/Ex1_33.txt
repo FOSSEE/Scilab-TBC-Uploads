@@ -1,0 +1,7 @@
+
+
+Example 1.33
+ Kinetic energy of electron is 293.330537 KeV.
+ Group velocity of de Broglie waves is 0.771930c m/s and
+ phase velocity is 1.295454c m/s.
+

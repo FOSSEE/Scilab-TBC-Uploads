@@ -1,0 +1,8 @@
+example 13_6   
+ 
+ a   
+short circuit current is 8.333p.u 
+ ratio of mechanical stress on short circuit to aech. stresses on full load 69.44 
+ b   
+short circuit current is with reactor 5.000p.u 
+ ratio of mechanical stress on short circuit to aech. stresses on full load with reactor 25 

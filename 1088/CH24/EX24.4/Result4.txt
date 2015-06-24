@@ -1,0 +1,96 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example4.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            24   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 4    :    Show the effect of obtaining child termination status by WEXITSTATUS 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat wait.c      # to open the file  /* Program: wait.c -- Uses wait to obtain child's termination status.The WEXITSTATUS macro fetches the exit status */
+#include <stdio.h>
+#include <fcntl.h>
+#include <sys/wait.h>
+
+int main(int argc, char **argv) {
+    int fd,exitstatus;
+    int exitval = 10;   /* Value to be returned by child */
+    
+    fd= open(argv[1], O_WRONLY | O_CREAT | O_TRUNC, 0644);
+    write(fd, "Original process writes\n",24); /* First write */
+
+    switch(fork()) {
+       case 0:
+            write(fd,"Child writes\n",13);       /* Second write */
+            close(fd);        /*Closing here doesn't affect parent's copy */
+            printf("CHILD: Terminating with exit value %d\n", exitval);
+            exit(exitval);   /* Can also use_exit(exitval) */
+            
+            default:
+                    wait(&exitstatus);  /* Waits for child to die */
+                    printf("PARENT: Child terminated with exit value %d\n",WEXITSTATUS(exitstatus));
+                                                           /*Extracting exit status */
+                    write(fd, "Parent writes\n", 14);      /* Third write */
+                    exit(20);           /* Value returned to shell; try echo $? */
+                    }
+}
+ $ cc wait.c $ a.out  foo CHILD: Terminating with exit value 10
+PARENT: Child terminated with exit value 10
+ $ cat foo  Original process writes
+Child writes
+Parent writes
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

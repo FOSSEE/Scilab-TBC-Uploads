@@ -1,0 +1,5 @@
+ 
+ resistance applied in series with armature to reduce the speed to 500 rpm(in Ohm)=   
+ 
+    6.  
+ 

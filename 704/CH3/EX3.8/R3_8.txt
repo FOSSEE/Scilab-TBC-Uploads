@@ -1,0 +1,8 @@
+Peak value of flux density in the core(in T)=   
+ 
+    0.6756757  
+ 
+ Induced emf in the secondary winding(in Volts)=   
+ 
+    720.  
+ 

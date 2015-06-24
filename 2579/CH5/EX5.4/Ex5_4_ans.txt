@@ -1,0 +1,2 @@
+ The maximum electron concentration of E layer = 0.771605*10^11 per cubic meter
+ The maximum electron concentration of F layer = 8.711111*10^11 per cubic meter

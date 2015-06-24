@@ -1,0 +1,5 @@
+**Sample Problem 28-1a**
+The current in the circuit is equal to 0.239583A
+
+**Sample Problem 28-1b**
+The potential difference between the terminal of the battery is equal to 3.848958V 

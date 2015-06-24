@@ -1,0 +1,115 @@
+11#Heat recovery#11.9#Regenerators#Ex11_9.sce#2471/CH11/EX11.9/Ex11_9.sce#S##100654
+11#Heat recovery#11.8#Incineration plant#Ex11_8.sce#2471/CH11/EX11.8/Ex11_8.sce#S##100653
+11#Heat recovery#11.7#Coefficient of performance#Ex11_7.sce#2471/CH11/EX11.7/Ex11_7.sce#S##100652
+11#Heat recovery#11.6#Heat pumps and COP#Ex11_6.sce#2471/CH11/EX11.6/Ex11_6.sce#S##100651
+11#Heat recovery#11.5#Heat pipes#Ex11_5.sce#2471/CH11/EX11.5/Ex11_5.sce#S##100650
+11#Heat recovery#11.4#Thermal wheel#Ex11_4.sce#2471/CH11/EX11.4/Ex11_4.sce#S##100649
+11#Heat recovery#11.3#Vapour recompression#Ex11_3.sce#2471/CH11/EX11.3/Ex11_3.sce#S##100648
+11#Heat recovery#11.2#Multiple effect evaporation#Ex11_2.sce#2471/CH11/EX11.2/Ex11_2.sce#S##100647
+11#Heat recovery#11.10#Waste heat boilers#Ex11_10.sce#2471/CH11/EX11.10/Ex11_10.sce#S##100655
+11#Heat recovery#11.1#Shell and tube heat exchangers#Ex11_1.sce#2471/CH11/EX11.1/Ex11_1.sce#S##100646
+10#Air conditioning#10.2#Sensible cooling#Ex10_2.sce#2471/CH10/EX10.2/Ex10_2.sce#S##96539
+10#Air conditioning#10.1#Sensible heating#Ex10_1.sce#2471/CH10/EX10.1/Ex10_1.sce#S##96538
+9#Building construction#9.9#Design data#Ex9_9.sce#2471/CH9/EX9.9/Ex9_9.sce#S##100645
+9#Building construction#9.8#Glazing#Ex9_8.sce#2471/CH9/EX9.8/Ex9_8.sce#S##100644
+9#Building construction#9.7#Interstitial condensataion#Ex9_7.sce#2471/CH9/EX9.7/Ex9_7.sce#S##100643
+9#Building construction#9.6#Surface condensation#Ex9_6.sce#2471/CH9/EX9.6/Ex9_6.sce#S##100642
+9#Building construction#9.5#The degree day method#Ex9_5.sce#2471/CH9/EX9.5/Ex9_5.sce#S##100641
+9#Building construction#9.4#Environmental temperature#Ex9_4.sce#2471/CH9/EX9.4/Ex9_4.sce#S##100640
+9#Building construction#9.3#Ventilation loss#Ex9_3.sce#2471/CH9/EX9.3/Ex9_3.sce#S##100639
+9#Building construction#9.2#U value calculation#Ex9_2.sce#2471/CH9/EX9.2/Ex9_2.sce#S##100638
+9#Building construction#9.1#Fabric loss#Ex9_1.sce#2471/CH9/EX9.1/Ex9_1.sce#S##100637
+8#Electrical energy#8.9#Capacitor rating#Ex8_9.sce#2471/CH8/EX8.9/Ex8_9.sce#S##100629
+8#Electrical energy#8.8#Motive power and power factor improvement#Ex8_8.sce#2471/CH8/EX8.8/Ex8_8.sce#S##100628
+8#Electrical energy#8.7#Natural lighting#Ex8_7.sce#2471/CH8/EX8.7/Ex8_7.sce#S##100627
+8#Electrical energy#8.6#Illumination#Ex8_6.sce#2471/CH8/EX8.6/Ex8_6.sce#S##100626
+8#Electrical energy#8.5#Annual saving#Ex8_5.sce#2471/CH8/EX8.5/Ex8_5.sce#S##100625
+8#Electrical energy#8.4#Cost of electrical energy#Ex8_4.sce#2471/CH8/EX8.4/Ex8_4.sce#S##100624
+8#Electrical energy#8.3#Power factor#Ex8_3.sce#2471/CH8/EX8.3/Ex8_3.sce#S##100623
+8#Electrical energy#8.2#Kirchhoff law#Ex8_2.sce#2471/CH8/EX8.2/Ex8_2.sce#S##100622
+8#Electrical energy#8.15#Atmosphere generators#Ex8_15.sce#2471/CH8/EX8.15/Ex8_15.sce#S##100636
+8#Electrical energy#8.14#Induction heating#Ex8_14.sce#2471/CH8/EX8.14/Ex8_14.sce#S##100634
+8#Electrical energy#8.13#Optimum start control#Ex8_13.sce#2471/CH8/EX8.13/Ex8_13.sce#S##100633
+8#Electrical energy#8.12#Effects of power factor improvement#Ex8_12.sce#2471/CH8/EX8.12/Ex8_12.sce#S##100632
+8#Electrical energy#8.11#Effects of power factor improvement#Ex8_11.sce#2471/CH8/EX8.11/Ex8_11.sce#S##100631
+8#Electrical energy#8.10#Effects of power factor improvement#Ex8_10.sce#2471/CH8/EX8.10/Ex8_10.sce#S##100630
+8#Electrical energy#8.1#Ohms law#Ex8_1.sce#2471/CH8/EX8.1/Ex8_1.sce#S##100621
+7#Energy utilisation and conversion systems#7.8#Economics of a CHP system#Ex7_8.sce#2471/CH7/EX7.8/Ex7_8.sce#S##100620
+7#Energy utilisation and conversion systems#7.7#Steam turbines as alternatives to electric motors#Ex7_7.sce#2471/CH7/EX7.7/Ex7_7.sce#S##100619
+7#Energy utilisation and conversion systems#7.6#Heat recovery#Ex7_6.sce#2471/CH7/EX7.6/Ex7_6.sce#S##100618
+7#Energy utilisation and conversion systems#7.5#Insulation#Ex7_5.sce#2471/CH7/EX7.5/Ex7_5.sce#S##100617
+7#Energy utilisation and conversion systems#7.4#Furnace efficiency #Ex7_4.sce#2471/CH7/EX7.4/Ex7_4.sce#S##100616
+7#Energy utilisation and conversion systems#7.3#Heat loss in flue gas and ashes#Ex7_3.sce#2471/CH7/EX7.3/Ex7_3.sce#S##100615
+7#Energy utilisation and conversion systems#7.2#Financial saving and capital cost#Ex7_2.sce#2471/CH7/EX7.2/Ex7_2.sce#S##100614
+7#Energy utilisation and conversion systems#7.1#Combustion process#Ex7_1.sce#2471/CH7/EX7.1/Ex7_1.sce#S##100613
+6#Heat transfer equipment#6.9#Boiler efficiency#Ex6_9.sce#2471/CH6/EX6.9/Ex6_9.sce#S##100608
+6#Heat transfer equipment#6.8#Calorific Values#Ex6_8.sce#2471/CH6/EX6.8/Ex6_8.sce#S##100607
+6#Heat transfer equipment#6.7#Flue gas analysis with Excess air#Ex6_7.sce#2471/CH6/EX6.7/Ex6_7.sce#S##100606
+6#Heat transfer equipment#6.6#Flue gas analysis#Ex6_6.sce#2471/CH6/EX6.6/Ex6_6.sce#S##100605
+6#Heat transfer equipment#6.5#Combustion of coal#Ex6_5.sce#2471/CH6/EX6.5/Ex6_5.sce#S##100604
+6#Heat transfer equipment#6.4#Combustion theory#Ex6_4.sce#2471/CH6/EX6.4/Ex6_4.sce#S##100603
+6#Heat transfer equipment#6.3#L M T D for types of flow#Ex6_3.sce#2471/CH6/EX6.3/Ex6_3.sce#S##100602
+6#Heat transfer equipment#6.2#Number of tube passes#Ex6_2.sce#2471/CH6/EX6.2/Ex6_2.sce#S##100601
+6#Heat transfer equipment#6.13#Desuperheaters#Ex6_13.sce#2471/CH6/EX6.13/Ex6_13.sce#S##100612
+6#Heat transfer equipment#6.12#Thermal balance sheet for coal analysis#Ex6_12.sce#2471/CH6/EX6.12/Ex6_12.sce#S##100611
+6#Heat transfer equipment#6.11#Thermal balance sheet#Ex6_11.sce#2471/CH6/EX6.11/Ex6_11.sce#S##100610
+6#Heat transfer equipment#6.10#Equivalent evaporation#Ex6_10.sce#2471/CH6/EX6.10/Ex6_10.sce#S##100609
+6#Heat transfer equipment#6.1#Shell and tube heat exchangers#Ex6_1.sce#2471/CH6/EX6.1/Ex6_1.sce#S##100600
+5#Heat transfer media#5.9#Wiredrawing#Ex5_9.sce#2471/CH5/EX5.9/Ex5_9.sce#S##100593
+5#Heat transfer media#5.8#Superheated steam#Ex5_8.sce#2471/CH5/EX5.8/Ex5_8.sce#S##100592
+5#Heat transfer media#5.7#Diameter of pipe#Ex5_7.sce#2471/CH5/EX5.7/Ex5_7.sce#S##100591
+5#Heat transfer media#5.6#Direct contact condenser#Ex5_6.sce#2471/CH5/EX5.6/Ex5_6.sce#S##100590
+5#Heat transfer media#5.5#Condensing Steam#Ex5_5.sce#2471/CH5/EX5.5/Ex5_5.sce#S##100589
+5#Heat transfer media#5.4#Thermal efficiency#Ex5_4.sce#2471/CH5/EX5.4/Ex5_4.sce#S##100588
+5#Heat transfer media#5.3#Addition of heat to water#Ex5_3.sce#2471/CH5/EX5.3/Ex5_3.sce#S##100587
+5#Heat transfer media#5.2#Properties of water#Ex5_2.sce#2471/CH5/EX5.2/Ex5_2.sce#S##100586
+5#Heat transfer media#5.15#The humidity chart and its uses#Ex5_15.sce#2471/CH5/EX5.15/Ex5_15.sce#S##100599
+5#Heat transfer media#5.14#The humidity chart#Ex5_14.sce#2471/CH5/EX5.14/Ex5_14.sce#S##100598
+5#Heat transfer media#5.13#Heat transfer coefficients#Ex5_13.sce#2471/CH5/EX5.13/Ex5_13.sce#S##100597
+5#Heat transfer media#5.12#Synthetic organic chemicals#Ex5_12.sce#2471/CH5/EX5.12/Ex5_12.sce#S##100596
+5#Heat transfer media#5.11#Synthetic organic chemicals#Ex5_11.sce#2471/CH5/EX5.11/Ex5_11.sce#S##100595
+5#Heat transfer media#5.10#Desuperheating#Ex5_10.sce#2471/CH5/EX5.10/Ex5_10.sce#S##100594
+5#Heat transfer media#5.1#Water treatment#Ex5_1.sce#2471/CH5/EX5.1/Ex5_1.sce#S##100585
+4#Heat transfer theory#4.9#Heat loss from bare surfaces#Ex4_9.sce#2471/CH4/EX4.9/Ex4_9.sce#S##100583
+4#Heat transfer theory#4.8#Rate oh heat transfer#Ex4_8.sce#2471/CH4/EX4.8/Ex4_8.sce#S##100582
+4#Heat transfer theory#4.7#Free convection#Ex4_7.sce#2471/CH4/EX4.7/Ex4_7.sce#S##100581
+4#Heat transfer theory#4.6#Forced convection  turbulent flow#Ex4_6.sce#2471/CH4/EX4.6/Ex4_6.sce#S##100580
+4#Heat transfer theory#4.5#L M T D#Ex4_5.sce#2471/CH4/EX4.5/Ex4_5.sce#S##100579
+4#Heat transfer theory#4.4#Fouling factors#Ex4_4.sce#2471/CH4/EX4.4/Ex4_4.sce#S##100578
+4#Heat transfer theory#4.3#Conduction through  pipe with insulation#Ex4_3.sce#2471/CH4/EX4.3/Ex4_3.sce#S##100577
+4#Heat transfer theory#4.2#Conduction through cylindrical pipe#Ex4_2.sce#2471/CH4/EX4.2/Ex4_2.sce#S##100576
+4#Heat transfer theory#4.10#Heat loss from insulated surfaces#Ex4_10.sce#2471/CH4/EX4.10/Ex4_10.sce#S##100584
+4#Heat transfer theory#4.1#Conduction#Ex4_1.sce#2471/CH4/EX4.1/Ex4_1.sce#S##100575
+3#Economics#3.9#Discounted cash flow#Ex3_9.sce#2471/CH3/EX3.9/Ex3_9.sce#S##100566
+3#Economics#3.8#Discounted cash flow#Ex3_8.sce#2471/CH3/EX3.8/Ex3_8.sce#S##100565
+3#Economics#3.7#Pay back method#Ex3_7.sce#2471/CH3/EX3.7/Ex3_7.sce#S##100564
+3#Economics#3.6#Rate of Return#Ex3_6.sce#2471/CH3/EX3.6/Ex3_6.sce#S##100563
+3#Economics#3.5#Depreciation and Asset value#Ex3_5.sce#2471/CH3/EX3.5/Ex3_5.sce#S##100562
+3#Economics#3.4#Depreciation#Ex3_4.sce#2471/CH3/EX3.4/Ex3_4.sce#S##100561
+3#Economics#3.3#Capital recovery#Ex3_3.sce#2471/CH3/EX3.3/Ex3_3.sce#S##100560
+3#Economics#3.2#Compound interest#Ex3_2.sce#2471/CH3/EX3.2/Ex3_2.sce#S##100559
+3#Economics#3.17#Optimisation with more than one variable #Ex3_17.sce#2471/CH3/EX3.17/Ex3_17.sce#S##100574
+3#Economics#3.16#Optimum operating time#Ex3_16.sce#2471/CH3/EX3.16/Ex3_16.sce#S##100573
+3#Economics#3.15#Optimisation with one variable#Ex3_15.sce#2471/CH3/EX3.15/Ex3_15.sce#S##100572
+3#Economics#3.14#Discount factor#Ex3_14.sce#2471/CH3/EX3.14/Ex3_14.sce#S##100571
+3#Economics#3.13#Internal rate of return#Ex3_13.sce#2471/CH3/EX3.13/Ex3_13.sce#S##100570
+3#Economics#3.12#Profitability index#Ex3_12.sce#2471/CH3/EX3.12/Ex3_12.sce#S##100569
+3#Economics#3.11#Net present value #Ex3_11.sce#2471/CH3/EX3.11/Ex3_11.sce#S##100568
+3#Economics#3.10#Net present value#Ex3_10.sce#2471/CH3/EX3.10/Ex3_10.sce#S##100567
+3#Economics#3.1#Simple interest#Ex3_1.sce#2471/CH3/EX3.1/Ex3_1.sce#S##100558
+2#Energy Sources#2.6#Cycle Efficiency#Ex2_6.sce#2471/CH2/EX2.6/Ex2_6.sce#S##100557
+2#Energy Sources#2.5#Economic saving#Ex2_5.sce#2471/CH2/EX2.5/Ex2_5.sce#S##100556
+2#Energy Sources#2.4#Choice of fuels#Ex2_4.sce#2471/CH2/EX2.4/Ex2_4.sce#S##100555
+2#Energy Sources#2.3#Choice of fuels#Ex2_3.sce#2471/CH2/EX2.3/Ex2_3.sce#S##100554
+2#Energy Sources#2.2#Energy audit scheme#Ex2_2.sce#2471/CH2/EX2.2/Ex2_2.sce#S##100553
+2#Energy Sources#2.1#Energy audit scheme#Ex2_1.sce#2471/CH2/EX2.1/Ex2_1.sce#S##100552
+1#Energy auditing#1.9#General Auditing#Ex1_9.sce#2471/CH1/EX1.9/Ex1_9.sce#S##100550
+1#Energy auditing#1.8#General auditing#Ex1_8.sce#2471/CH1/EX1.8/Ex1_8.sce#S##100549
+1#Energy auditing#1.7#Pie chart#Ex1_7.sce#2471/CH1/EX1.7/Ex1_7.sce#S##100548
+1#Energy auditing#1.6#Pie chart#Ex1_6.sce#2471/CH1/EX1.6/Ex1_6.sce#S##100547
+1#Energy auditing#1.5#Cost Index#Ex1_5.sce#2471/CH1/EX1.5/Ex1_5.sce#S##100546
+1#Energy auditing#1.4#Energy Costs#Ex1_4.sce#2471/CH1/EX1.4/Ex1_4.sce#S##100545
+1#Energy auditing#1.3#Energy Index#Ex1_3.sce#2471/CH1/EX1.3/Ex1_3.sce#S##100544
+1#Energy auditing#1.2#Energy conversion#Ex1_2.sce#2471/CH1/EX1.2/Ex1_2.sce#S##100543
+1#Energy auditing#1.10#Detailed energy audits#Ex1_10.sce#2471/CH1/EX1.10/Ex1_10.sce#S##100551
+1#Energy auditing#1.1#Energy Conversion#Ex1_1.sce#2471/CH1/EX1.1/Ex1_1.sce#S##100541

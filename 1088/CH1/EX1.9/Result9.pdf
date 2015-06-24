@@ -1,0 +1,44 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example9.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            1   
+ 
+ Chapter Title                         :                                             GETTING STARTED   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 9: Write a code-sequence to exit the console   
+
+*******************************************************************
+ 
+ Answer   :     
+Ready???...Press Enter to continueClose the Scilab Console?....
+y :Yes
+Any other key:No st  =
+ 
+ y   
+
+*******************************************************************
+ 
+-->'The code gets exitted which cant be shown at the result document'
+ ans  =
+ 
+ The code gets exitted which cant be shown at the result document   
+ 
+-->diary('Result9.txt','close')

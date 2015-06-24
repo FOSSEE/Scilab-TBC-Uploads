@@ -1,0 +1,103 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example1.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            21   
+ 
+ Chapter Title                         :                                Advanced Shell Programming   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 1    :               Show the method of using arrays in advanced shellscripting 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the shellscript file whichever you desire  
+
+ #!/usr/bin/ksh
+# Script: dateval.sh - validates a date field using an array
+IFS="/"
+n="[0-9][0-9]"
+set -A month arr 0 31 29 31 30 31 30 31 30 31 30 31
+while echo "Enter a date: \c" ; do
+     read value
+     case "$value" in
+           "") echo "No date entered" ; continue ;;
+     $n/$n/$n) set $value
+               let rem="$3 % $4"
+               if [ $2 -gt 12 -o $2 -eq 0 ] ; then
+                  echo "Illegal month" ; continue
+               else
+                  case "$value" in
+               29/02/??) [ $rem -gt 0 ] &&
+                         { echo "20$3 is not a leap year" ; continue ; } ;;
+                      *) [ $1 -gt ${month_arr[$2]} -o $1 -eq 0 ] &&
+                         { echo "Illegal day" ; continue ; } ;;
+                  esac
+               fi;;
+              *) echo "Invalid date" ; continue ;;
+    esac
+    echo "$1/$2/$3" is a valid date
+done
+ 
+# type the following command in the command line interpreter as soon as it appears 
+       "  h.sh     " [COMMANDLINE ARGUMENTS][ENTER]
+
+
+$ h.sh  [COMMANDLINE ARGUMENTS]             #to execute the perlscript 
+
+
+   ---------------->Executing ShellScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+ 
+-->diary(0)

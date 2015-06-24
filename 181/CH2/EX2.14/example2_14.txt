@@ -1,0 +1,1 @@
+Current flowing through the diode under forward bias = 48.15  mu- A

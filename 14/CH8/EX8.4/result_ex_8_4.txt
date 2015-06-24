@@ -1,0 +1,41 @@
+ Y21 = 10.00 /_93.00 per unit 
+
+ Y21 = -10.00j per unit 
+ 
+ For the two transformers in parallel   
+ 
+ Y21 in per unit   
+ 
+  - 0.5233596 + 19.986295i  
+ 
+ Y21 in per unit   
+ 
+  - 20.i  
+ 
+ V1 in per unit =   
+ 
+    1.0310474 + 0.0130285i  
+ 
+ Difference between V1 and V2 in per unit   
+ 
+    0.0310474 + 0.0130285i  
+ 
+ Complex power transmitted from the two transformers to the load   
+ 
+ From transformer Ta in per unit   
+ 
+    0.1302850 + 0.3104744i  
+ 
+ From transformer Tb in per unit   
+ 
+    0.6697150 + 0.2895256i  
+ 
+ Complex power transmitted from the two transformers to the load   
+ 
+ From transformer Ta in per unit   
+ 
+    0.1383202 + 0.3068523i  
+ 
+ From transformer Tb in per unit   
+ 
+    0.6616798 + 0.2931477i  

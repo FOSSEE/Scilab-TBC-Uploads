@@ -1,0 +1,2 @@
+(a)Voltage gain = 3.17
+(b)Output impedance = 6.67e+003 

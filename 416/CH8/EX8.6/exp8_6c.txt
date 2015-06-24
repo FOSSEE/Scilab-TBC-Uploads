@@ -1,0 +1,11 @@
+
+ example 8.6   
+
+water used is 		31.709792m^3/sec
+effective head is 	200m
+power generated is 	53175.418569kW =	53.175419MW
+peak load is 		70.900558Mw 
+therefore the MW rating of station is 	70.900558MW
+for a head above 200m pelton turbine is suitable,
+francis turbine is suitable in the range of 30m-200m.,
+however pelton is most suitable 

@@ -1,0 +1,11 @@
+* Sense current,Ipk is = 1 A
+* Sense resistance,Rsc is = 0.33 ohm 
+* Constant K = 1.06  
+* OFF time period,toff is = 0.00002427 sec 
+* ON time period,ton is = 0.00002573 sec
+* Oscillator timing capacitance,Ct is = 0.0000000109 F 
+* Inductance,L is = 0.00015170 H 
+* Output capacitance,Co is = 0.0001250 F 
+* Resistance R2 is = 12450.0 ohm 
+* Resistance R1 is = 38000.0 ohm 
+* efficiency is = 81.0

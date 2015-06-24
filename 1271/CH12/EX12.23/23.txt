@@ -1,0 +1,2 @@
+ Heat produce by complete disintegration is 1.967738e+08 cal.
+ Energy released is 3.200000e-11 J.

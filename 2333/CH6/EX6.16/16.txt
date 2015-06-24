@@ -1,0 +1,3 @@
+# PROBLEM 16 # 
+
+ Time taken by light pulse is 529.729730 nsec.

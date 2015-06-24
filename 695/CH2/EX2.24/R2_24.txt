@@ -1,0 +1,7 @@
+ Speed (in rpm)=   
+ 
+    679.  
+ 
+ Percentage change in torque=   
+ 
+    43.75 

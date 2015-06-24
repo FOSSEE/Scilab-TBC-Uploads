@@ -1,0 +1,4 @@
+(a)The Current gain alpha for BJT is 0.989 
+(b)The value of the base Current is 4.44e-005 A 
+(c)The value of the Emitter Current is 4.04e-003 A 
+ 

@@ -1,0 +1,2 @@
+**Sample Problem 7-1**
+The total kinetic energy of two locomotive just before the collision is 2.037551e+008 J 

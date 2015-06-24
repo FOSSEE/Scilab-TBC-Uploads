@@ -1,0 +1,5 @@
+# PROBLEM 1 # 
+Standard formula used 
+  lambda = lambda_0 * (1 - (T / T_c)^4)^(-1/2) 
+
+ Penetration depth is 439.295827 Angstrom.

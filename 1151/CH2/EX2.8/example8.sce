@@ -1,0 +1,11 @@
+ printf("closed loop transfer function =K/(s^2+s/T+K/T))");
+printf("characterstic equation of the given system is s^2+s/T+K/T=0");
+printf("compare it with the standard second order characterstic equation s^2+2*d*w*s+w^2=0");
+m1=.75;
+m2=.25;
+t1=-log(m1);
+t2=-log(m2);
+c=t1/t2;
+d1=.4037;d2=.09118;
+e=d1/d2;
+disp(e^2,"K1/K2=");

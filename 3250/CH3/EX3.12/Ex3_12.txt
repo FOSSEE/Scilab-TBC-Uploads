@@ -1,0 +1,5 @@
+ # PROBLEM 3.12 # 
+
+ The proper clearance between die and punch = 0.329240 mm, 
+ Maximum punching force = 108.605364 N, 
+ Energy required to punch the hole = 48.101933 J 

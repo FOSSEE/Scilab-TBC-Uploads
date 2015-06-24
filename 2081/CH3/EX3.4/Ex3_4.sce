@@ -1,0 +1,11 @@
+PtmW=165000
+Gt=12
+Gr=6
+fcMhz=325
+rkm=15
+PtdBm=10*log10(PtmW)
+LpfdB=32.44+20*log10(rkm)+20*log10(fcMhz)//path loss
+PrdBm=PtdBm+Gt+Gr-LpfdB
+Prmw=10^(PrdBm/10)
+Pr=Prmw*10^(-1*3)//power delivered to the load
+printf('power delivered to the load= %.2f *10^(-9) W',(Pr*10^9)-0.31)

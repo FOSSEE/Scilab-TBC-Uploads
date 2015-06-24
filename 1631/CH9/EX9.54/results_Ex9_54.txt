@@ -1,0 +1,4 @@
+
+ 	 i)Entropy of system 
+
+ 	  H(X)=1.9591 bits/symbol

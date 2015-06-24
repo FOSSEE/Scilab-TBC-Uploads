@@ -1,0 +1,4 @@
+Av = -12.44
+Over all voltage gain Avs = -11.3
+Output impedance = 1.51e+004 K
+Effective output impedance Zo = 3.76 k-ohms 

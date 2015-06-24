@@ -1,0 +1,31 @@
+  
+ example 11 1   
+power available from the hydro plant for 97MW of the time is 39.72MW
+net available hydra power after taking transmission loss into account 377.31MW
+hydro energy available during 24 hours 905.55MW
+the magnitude of hydro power is 140MW 
+total capacity of hydro plant required on week days 147MW capacity of thermal plant on week days 350MW
+the schedule for hydro plant is on week days 
+    0.    5.    8.    12.    1.    5.    9.    12.  
+ 
+    0.    0.    42.    0.    42.    147.    0.  
+ 
+ the schedule for thermal plant is on week days   
+ 
+    0.    5.    8.    12.    1.    5.    9.    12.  
+ 
+    100.    150.    210.    100.    210.    210.    150.  
+
+the magnitude of hydro power is 90MW 
+total capacity of hydro plant required on week ends 94MW capacity of thermal plant on week ends 200MW
+the schedule for hydro plant is on week ends 
+    0.    5.    5.    9.    12.  
+ 
+    0.    42.    95.    42.  
+ 
+ the schedule for thermal plant is on week days   
+ 
+    0.    5.    5.    9.    12.  
+ 
+    100.    110.    110.    110.    0.  
+ 

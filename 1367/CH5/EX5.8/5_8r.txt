@@ -1,0 +1,8 @@
+  
+ Glancing angle for third order diffraction =    
+ 
+    26.587921  
+ 
+ Interplanar spacing of the crystal (in Angstorm) =    
+ 
+    2.7615756

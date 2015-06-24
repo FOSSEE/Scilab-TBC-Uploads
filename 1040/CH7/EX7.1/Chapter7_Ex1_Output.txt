@@ -1,0 +1,12 @@
+
+ OUTPUT Ex7.1.a
+==========================================================
+The percentage  gas-film resistance : 0.7%
+The percentage liquid-film resistance: 95.4%
+The percentage chemical reaction resistance: 3.9%
+
+
+ OUTPUT Ex7.1.b
+==========================================================
+ Reaction volume  calculated : 18009 L 
+ Reactor size to be chosen : 21610 L

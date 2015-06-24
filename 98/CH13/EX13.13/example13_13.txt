@@ -1,0 +1,4 @@
+(i) x = 3.425 km 
+(ii) Current suplied by A = 170.45 A 
+     Current suplied by B = 129.55 A 
+

@@ -1,0 +1,25 @@
+printf("closed loop transfer function =16/(s^2+s+16)");
+printf("characterstic equation of the given system is s^2+s+16=0");
+printf("compare it with the standard second order characterstic equation s^2+2*d*w*s+w^2=0");
+w=sqrt(16);
+d=0.5/w;
+disp(d,"damping ratio=");
+disp(w,"undamped natural frequency(in rad/sec)=");
+printf("now consider H(s)=1+Ks");
+printf("characterstic equation of this system is s^2+(1+16K)*s+16=0");
+printf("compare it with the standard second order characterstic equation s^2+2*d*w*s+w^2=0");
+d1=0.6;
+k=(2*w*d1-1)/16;
+disp(k," value of K when d=0.6 is")
+pt1=%pi/(w*sqrt(1-d^2));
+pt2=%pi/(w*sqrt(1-d1^2));
+mo1=exp((-%pi*d)/sqrt(1-d^2))*100;
+mo2=exp((-%pi*d1)/sqrt(1-d1^2))*100;
+st1=4/(d*w);
+st2=4/(d1*w);
+disp(pt1,"peak time (in sec) when damping ratio is 0.125:");
+disp(pt2,"peak time(in sec) when damping ratio is 0.6:");
+disp(mo1,"mAXIMUM OVERSHOOT (in %) when damping ratio is 0.125:");
+disp(mo2,"mAXIMUM OVERSHOOT (in %) when damping ratio is 0.6:");
+disp(st1,"setlling time(in sec) when damping ratio is 0.125:");
+disp(st2,"setlling time (in sec) when damping ratio is 0.:");

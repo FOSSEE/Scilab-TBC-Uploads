@@ -1,0 +1,11 @@
+
+Receiving current =I=707 A
+Sending end voltage =Vs=12174 V
+Voltage Regulation=21.75 %
+
+Capacitance to be connected across the load so as to reduce voltage regulation by half of the above voltage regulation is given by :
+ C = 87 uF
+
+ Efficiency in : 
+Case(i) 	 n=96.2%
+Case(ii) 	 n=97.7% 

@@ -1,0 +1,14 @@
+printf("closed loop transfer function =16/(s^2+(0.8+16K)*s+16");
+printf("characterstic equation of this system is s^2+(0.8+16K)*s+16=0");
+printf("compare it with the standard second order characterstic equation s^2+2*d*w*s+w^2=0");
+w=sqrt(16);
+d=0.5;
+k=(2*w*d-0.8)/16;
+rt=(%pi-atan(sqrt((1-d)/d)))/(w*sqrt(1-d^2));
+pt1=%pi/(w*sqrt(1-d^2));
+mo1=exp((-%pi*d)/sqrt(1-d^2))*100;
+st1=4/(d*w);
+disp(k," value of K is");
+disp(pt1,"peak time (in sec) :");
+disp(mo1,"mAXIMUM OVERSHOOT (in %) :");
+disp(st1,"setlling time(in sec):");

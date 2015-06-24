@@ -1,0 +1,44 @@
+ 
+ Y_bus1 = Y_bus2 =    
+ 
+  - 13.334078i    10.i  
+    10.i        - 20.i  
+ 
+ Y_bus0 =    
+ 
+  - 6.6666667i    0     
+    0           - 15.i  
+ 
+ Z_bus1 = Z_bus2 =    
+ 
+    0.1199893i    0.0599946i  
+    0.0599946i    0.0799973i  
+ 
+ Z_bus0 =    
+ 
+    0.15i    0           
+    0        0.0666667i  
+ 
+ The current in fault on bus 1 in per unit is   
+ 
+  - 7.6927308i  
+ 
+ The current in fault on bus 2 in per unit is   
+ 
+  - 13.235607i  
+ 
+ Sequence components of phase A in the order Va1,Va2,Va0 in per unit are   
+ 
+    0.8461591  
+ 
+  - 0.1538409  
+ 
+    0  
+ 
+ Currents in phases in the order VA,VB,VC in per unit are   
+ 
+  - i    
+ 
+  - 0.5995652 + 0.5i  
+ 
+    0.5995652 + 0.5i  

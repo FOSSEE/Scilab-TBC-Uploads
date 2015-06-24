@@ -1,0 +1,5 @@
+**Sample Problem 13-4a**
+The minimum horiontal push on the wall should be 299.444444N
+
+**Sample Problem 13-4b**
+The vertical distance between her shoulder and her feet should be 0.740000m 

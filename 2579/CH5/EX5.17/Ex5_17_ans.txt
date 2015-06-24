@@ -1,0 +1,2 @@
+ The transmitter power = 31.604938 watts
+ since antenna efficiency is 50 percent, the transmitter must deliver 31.6049*2=63.2098 watts to the antenna.

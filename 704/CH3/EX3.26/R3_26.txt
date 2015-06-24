@@ -1,0 +1,8 @@
+Efficiency of the transformer for 75% of full load output at power factor unity(in %)=   
+ 
+    98.239869  
+ 
+ Efficiency of the transformer for 75% of full load output at power factor 0.8 lagging(in %)=   
+ 
+    97.809475  
+ 

@@ -1,0 +1,21 @@
+    //EXAMPLE 2-86 PG NO 126
+L=0.5;                        //inductance
+C=40*10^-6;                   //capacitor
+Wo=1/(L*C)^0.5;
+R=10;                       //resistance
+V=100;                     //voltage
+Fo=Wo/(2*%pi);            //frequency
+Q=(Wo*L)/R;
+W2=233.6;              //frequency
+W1=213.6;            //frequency
+B.W=W2-W1;          //Band width
+Io=V/R;          //current at resonance
+Io1=0.707*Io;   //current at half power points
+V1=Q*V;         //voltage aacross inductance at resonance
+disp(' frequency is = '+string(Wo)+' rad/sec');
+disp(' frequency is = '+string(Fo)+' Hz');
+disp(' Q is = '+string(Q)+' ');
+disp(' BAND WIDTH is = '+string(B.W)+' rad/sec');  
+disp(' current at resonance is = '+string(Io)+' A');
+disp(' current at half power points is = '+string(Io1)+' A');
+disp('voltage aacross inductance at resonance  is = '+string(V1)+' V');

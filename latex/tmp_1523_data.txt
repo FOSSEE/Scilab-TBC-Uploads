@@ -1,0 +1,172 @@
+12#Network Synthesis#12.9#Hurwitz Polynomials#ex12_9.sce#1523/CH12/EX12.9/ex12_9.sce#S##63658
+12#Network Synthesis#12.8#Hurwitz Polynomials#ex12_8.sce#1523/CH12/EX12.8/ex12_8.sce#S##63657
+12#Network Synthesis#12.7#Hurwitz Polynomials#ex12_7.sce#1523/CH12/EX12.7/ex12_7.sce#S##63656
+12#Network Synthesis#12.6#Hurwitz Polynomials#ex12_6.sce#1523/CH12/EX12.6/ex12_6.sce#S##63655
+12#Network Synthesis#12.5#Hurwitz Polynomials#ex12_5.sce#1523/CH12/EX12.5/ex12_5.sce#S##63654
+12#Network Synthesis#12.4#Hurwitz Polynomials#ex12_4.sce#1523/CH12/EX12.4/ex12_4.sce#S##63653
+12#Network Synthesis#12.3#Hurwitz Polynomial#ex12_3.sce#1523/CH12/EX12.3/ex12_3.sce#S##63652
+12#Network Synthesis#12.2#Hurwitz Polynomials#ex12_2.sce#1523/CH12/EX12.2/ex12_2.sce#S##63651
+12#Network Synthesis#12.10#Hurwitz Polynomials#ex12_10.sce#1523/CH12/EX12.10/ex12_10.sce#S##63659
+11#Two Port Networks#11.31#Interrelationships between parameters#ex11_31.sce#1523/CH11/EX11.31/ex11_31.sce#S##63650
+11#Two Port Networks#11.30#Interrelationships between parameters#ex11_30.sce#1523/CH11/EX11.30/ex11_30.sce#S##63649
+11#Two Port Networks#11.29#Interrelationships between parameters#ex11_29.sce#1523/CH11/EX11.29/ex11_29.sce#S##63648
+11#Two Port Networks#11.28#Interrelationships between parameters#ex11_28.sce#1523/CH11/EX11.28/ex11_28.sce#S##63647
+11#Two Port Networks#11.27#Interrelationships between parameters#ex11_27.sce#1523/CH11/EX11.27/ex11_27.sce#S##63646
+11#Two Port Networks#11.26#Interrelationships between parameters#ex11_26.sce#1523/CH11/EX11.26/ex11_26.sce#S##63645
+11#Two Port Networks#11.25#Interrelationships between parameters#ex11_25.sce#1523/CH11/EX11.25/ex11_25.sce#S##63644
+11#Two Port Networks#11.24#Interrelationships between parameters#ex11_24.sce#1523/CH11/EX11.24/ex11_24.sce#S##63643
+11#Two Port Networks#11.23#Interrelationships between parameters#ex11_23.sce#1523/CH11/EX11.23/ex11_23.sce#S##63642
+11#Two Port Networks#11.22#Interrelationships between parameters#ex11_22.sce#1523/CH11/EX11.22/ex11_22.sce#S##63641
+11#Two Port Networks#11.20#Interrelationships between parameters#ex11_20.sce#1523/CH11/EX11.20/ex11_20.sce#S##63640
+11#Two Port Networks#11.19#Interrelationships between parameters#ex11_19.sce#1523/CH11/EX11.19/ex11_19.sce#S##63639
+11#Two Port Networks#11.16#Two Port Parameters#ex11_16.sce#1523/CH11/EX11.16/ex11_16.sce#S##63638
+10#Network Functions#10.36#Determination of Residue#ex10_36.sce#1523/CH10/EX10.36/ex10_36.sce#S##63637
+10#Network Functions#10.35#Determination of Residue#ex10_35.sce#1523/CH10/EX10.35/ex10_35.sce#S##63636
+8#Transient Analysis#8.14#example14#8_14.sce#1523/CH8/EX8.14/8_14.sce#S##63635
+8#Transient Analysis#8.13#example13#8_13.sce#1523/CH8/EX8.13/8_13.sce#S##63634
+7#Graph Theory#7.8#Graph of a Network#ex7_8.sce#1523/CH7/EX7.8/ex7_8.sce#S##66889
+7#Graph Theory#7.7#Graph of a Network#ex7_7.sce#1523/CH7/EX7.7/ex7_7.sce#S##63626
+7#Graph Theory#7.21#Network Equilibrium Equation#ex7_21.sce#1523/CH7/EX7.21/ex7_21.sce#S##63633
+7#Graph Theory#7.20#Network Equilibrium Equation#ex7_20.sce#1523/CH7/EX7.20/ex7_20.sce#S##63632
+7#Graph Theory#7.19#Network Equilibrium Equation#ex7_19.sce#1523/CH7/EX7.19/ex7_19.sce#S##63631
+7#Graph Theory#7.15#Network Equilibrium Equation#ex7_15.sce#1523/CH7/EX7.15/ex7_15.sce#S##63630
+7#Graph Theory#7.14#Network Equilibrium Equation#ex7_14.sce#1523/CH7/EX7.14/ex7_14.sce#S##63629
+7#Graph Theory#7.11#Graph of a Network#ex7_11.sce#1523/CH7/EX7.11/ex7_11.sce#S##63628
+6#Three phase Circuits#6.9#Interconnection of Three phases#ex6_9.sce#1523/CH6/EX6.9/ex6_9.sce#S##63611
+6#Three phase Circuits#6.8#Interconnection of Three phases#ex6_8.sce#1523/CH6/EX6.8/ex6_8.sce#S##63610
+6#Three phase Circuits#6.31#Measurement of three phase power#ex6_31.sce#1523/CH6/EX6.31/ex6_31.sce#S##63624
+6#Three phase Circuits#6.30#Measurement of three phase power#ex6_30.sce#1523/CH6/EX6.30/ex6_30.sce#S##63623
+6#Three phase Circuits#6.29#Measurement of three phase power#ex6_29.sce#1523/CH6/EX6.29/ex6_29.sce#S##63622
+6#Three phase Circuits#6.28#Measurement of three phase power#ex6_28.sce#1523/CH6/EX6.28/ex6_28.sce#S##63621
+6#Three phase Circuits#6.27#Measurement of three phase power#ex6_27.sce#1523/CH6/EX6.27/ex6_27.sce#S##63620
+6#Three phase Circuits#6.20#Interconnection of Three phases#ex6_20.sce#1523/CH6/EX6.20/ex6_20.sce#S##63619
+6#Three phase Circuits#6.19#Interconnection of Three phases#ex6_19.sce#1523/CH6/EX6.19/ex6_19.sce#S##63618
+6#Three phase Circuits#6.18#Interconnection of Three phases#ex6_18.sce#1523/CH6/EX6.18/ex6_18.sce#S##63617
+6#Three phase Circuits#6.17#Interconnection of Three phases#ex6_17.sce#1523/CH6/EX6.17/ex6_17.sce#S##63625
+6#Three phase Circuits#6.14#Interconnection of Three phases#ex6_14.sce#1523/CH6/EX6.14/ex6_14.sce#S##63616
+6#Three phase Circuits#6.13#Interconnection of Three phases#ex6_13.sce#1523/CH6/EX6.13/ex6_13.sce#S##63615
+6#Three phase Circuits#6.12#Interconnection of Three phases#ex6_12.sce#1523/CH6/EX6.12/ex6_12.sce#S##63614
+6#Three phase Circuits#6.11#Interconnection of Three phases#ex6_11.sce#1523/CH6/EX6.11/ex6_11.sce#S##63613
+6#Three phase Circuits#6.10#Interconnection of Three phases#ex6_10.sce#1523/CH6/EX6.10/ex6_10.sce#S##63612
+5#Steady State AC Analysis#5.2#example2#5_2.sce#1523/CH5/EX5.2/5_2.sce#S##63608
+5#Steady State AC Analysis#5.11#example11#5_11.sce#1523/CH5/EX5.11/5_11.sce#S##63609
+5#Steady State AC Analysis#5.1#example1#5_1.sce#1523/CH5/EX5.1/5_1.sce#S##63607
+4#AC Circuits#4.89#Parallel Resonance#ex4_89.sce#1523/CH4/EX4.89/ex4_89.sce#S##63606
+4#AC Circuits#4.88#Parallel Resonance#ex4_88.sce#1523/CH4/EX4.88/ex4_88.sce#S##63605
+4#AC Circuits#4.87#Series Resonance#ex4_87.sce#1523/CH4/EX4.87/ex4_87.sce#S##66888
+4#AC Circuits#4.85#Series Resonance#ex4_85.sce#1523/CH4/EX4.85/ex4_85.sce#S##63602
+4#AC Circuits#4.84#Series Resonance#ex4_84.sce#1523/CH4/EX4.84/ex4_84.sce#S##63604
+4#AC Circuits#4.83#Series Resonance#ex4_83.sce#1523/CH4/EX4.83/ex4_83.sce#S##63601
+4#AC Circuits#4.82#Series Resonance#ex4_82.sce#1523/CH4/EX4.82/ex4_82.sce#S##63600
+4#AC Circuits#4.81#Series Resonance#ex4_81.sce#1523/CH4/EX4.81/ex4_81.sce#S##63599
+4#AC Circuits#4.80#Series Resonance#ex4_80.sce#1523/CH4/EX4.80/ex4_80.sce#S##63598
+4#AC Circuits#4.79#Series Resonance#ex4_79.sce#1523/CH4/EX4.79/ex4_79.sce#S##63597
+4#AC Circuits#4.60#Series RLC Circuit#ex4_60.sce#1523/CH4/EX4.60/ex4_60.sce#S##63596
+4#AC Circuits#4.59#Series RLC circuit#ex4_59.sce#1523/CH4/EX4.59/ex4_59.sce#S##63595
+4#AC Circuits#4.58#Series RLC circuit#ex4_58.sce#1523/CH4/EX4.58/ex4_58.sce#S##63594
+4#AC Circuits#4.57#Series RLC circuit#ex4_57.sce#1523/CH4/EX4.57/ex4_57.sce#S##63593
+4#AC Circuits#4.54#example54#ex4_54.sce#1523/CH4/EX4.54/ex4_54.sce#S##63592
+4#AC Circuits#4.53#example53#ex4_53.sce#1523/CH4/EX4.53/ex4_53.sce#S##63591
+4#AC Circuits#4.52#example52#ex4_52.sce#1523/CH4/EX4.52/ex4_52.sce#S##63590
+4#AC Circuits#4.51#example51#ex4_51.sce#1523/CH4/EX4.51/ex4_51.sce#S##63589
+4#AC Circuits#4.5#example5#ex4_5.sce#1523/CH4/EX4.5/ex4_5.sce#S##63581
+4#AC Circuits#4.49#example49#ex4_49.sce#1523/CH4/EX4.49/ex4_49.sce#S##63588
+4#AC Circuits#4.48#example48#ex4_48.sce#1523/CH4/EX4.48/ex4_48.sce#S##63587
+4#AC Circuits#4.47#example47#ex4_47.sce#1523/CH4/EX4.47/ex4_47.sce#S##63586
+4#AC Circuits#4.42#example42#ex4_42.sce#1523/CH4/EX4.42/ex4_42.sce#S##63585
+4#AC Circuits#4.4#example4#ex4_4.sce#1523/CH4/EX4.4/ex4_4.sce#S##63579
+4#AC Circuits#4.33#example33#ex4_33.sce#1523/CH4/EX4.33/ex4_33.sce#S##63584
+4#AC Circuits#4.3#example3#ex4_3.sce#1523/CH4/EX4.3/ex4_3.sce#S##63580
+4#AC Circuits#4.2#example2#ex4_2.sce#1523/CH4/EX4.2/ex4_2.sce#S##63578
+4#AC Circuits#4.15#example15#ex4_15.sce#1523/CH4/EX4.15/ex4_15.sce#S##63582
+4#AC Circuits#4.14#example14#ex4_14.sce#1523/CH4/EX4.14/ex4_14.sce#S##63583
+4#AC Circuits#4.1#example1#ex4_1.sce#1523/CH4/EX4.1/ex4_1.sce#S##63577
+3#Network Theorem 2#3.9#example9#3_9.sce#1523/CH3/EX3.9/3_9.sce#S##90834
+3#Network Theorem 2#3.8#example8#3_8.sce#1523/CH3/EX3.8/3_8.sce#S##90833
+3#Network Theorem 2#3.7#example7#3_7.sce#1523/CH3/EX3.7/3_7.sce#S##90832
+3#Network Theorem 2#3.6#example6#3_6.sce#1523/CH3/EX3.6/3_6.sce#S##90831
+3#Network Theorem 2#3.51#example51#3_51.sce#1523/CH3/EX3.51/3_51.sce#S##90888
+3#Network Theorem 2#3.50#example50#3_50.sce#1523/CH3/EX3.50/3_50.sce#S##90885
+3#Network Theorem 2#3.5#example5#3_5.sce#1523/CH3/EX3.5/3_5.sce#S##63576
+3#Network Theorem 2#3.49#example49#3_49.sce#1523/CH3/EX3.49/3_49.sce#S##90884
+3#Network Theorem 2#3.48#example48#3_48.sce#1523/CH3/EX3.48/3_48.sce#S##90883
+3#Network Theorem 2#3.47#example47#3_47.sce#1523/CH3/EX3.47/3_47.sce#S##90882
+3#Network Theorem 2#3.46#example46#3_46.sce#1523/CH3/EX3.46/3_46.sce#S##90881
+3#Network Theorem 2#3.45#example45#3_45.sce#1523/CH3/EX3.45/3_45.sce#S##90863
+3#Network Theorem 2#3.44#example44#3_44.sce#1523/CH3/EX3.44/3_44.sce#S##90862
+3#Network Theorem 2#3.43#example43#3_43.sce#1523/CH3/EX3.43/3_43.sce#S##90860
+3#Network Theorem 2#3.42#example42#3_42.sce#1523/CH3/EX3.42/3_42.sce#S##90859
+3#Network Theorem 2#3.41#example41#3_41.sce#1523/CH3/EX3.41/3_41.sce#S##90858
+3#Network Theorem 2#3.4#example4#3_4.sce#1523/CH3/EX3.4/3_4.sce#S##63575
+3#Network Theorem 2#3.33#example33#3_33.sce#1523/CH3/EX3.33/3_33.sce#S##90857
+3#Network Theorem 2#3.31#example31#3_31.sce#1523/CH3/EX3.31/3_31.sce#S##90856
+3#Network Theorem 2#3.30#example30#3_30.sce#1523/CH3/EX3.30/3_30.sce#S##90855
+3#Network Theorem 2#3.3#example3#3_3.sce#1523/CH3/EX3.3/3_3.sce#S##63574
+3#Network Theorem 2#3.29#example29#3_29.sce#1523/CH3/EX3.29/3_29.sce#S##90854
+3#Network Theorem 2#3.28#example28#3_28.sce#1523/CH3/EX3.28/3_28.sce#S##90853
+3#Network Theorem 2#3.27#example27#3_27.sce#1523/CH3/EX3.27/3_27.sce#S##90852
+3#Network Theorem 2#3.26#example26#3_26.sce#1523/CH3/EX3.26/3_26.sce#S##90851
+3#Network Theorem 2#3.25#example25#3_25.sce#1523/CH3/EX3.25/3_25.sce#S##90850
+3#Network Theorem 2#3.24#example24#3_24.sce#1523/CH3/EX3.24/3_24.sce#S##90849
+3#Network Theorem 2#3.23#example23#3_23.sce#1523/CH3/EX3.23/3_23.sce#S##90848
+3#Network Theorem 2#3.22#example22#3_22.sce#1523/CH3/EX3.22/3_22.sce#S##90847
+3#Network Theorem 2#3.21#example21#3_21.sce#1523/CH3/EX3.21/3_21.sce#S##90846
+3#Network Theorem 2#3.20#example20#3_20.sce#1523/CH3/EX3.20/3_20.sce#S##93916
+3#Network Theorem 2#3.2#example2#3_2.sce#1523/CH3/EX3.2/3_2.sce#S##63573
+3#Network Theorem 2#3.19#example19#3_19.sce#1523/CH3/EX3.19/3_19.sce#S##90844
+3#Network Theorem 2#3.18#example18#3_18.sce#1523/CH3/EX3.18/3_18.sce#S##90843
+3#Network Theorem 2#3.17#example17#3_17.sce#1523/CH3/EX3.17/3_17.sce#S##90842
+3#Network Theorem 2#3.16#example16#3_16.sce#1523/CH3/EX3.16/3_16.sce#S##90841
+3#Network Theorem 2#3.15#example15#3_15.sce#1523/CH3/EX3.15/3_15.sce#S##90840
+3#Network Theorem 2#3.14#example14#3_14.sce#1523/CH3/EX3.14/3_14.sce#S##90839
+3#Network Theorem 2#3.13#example13#3_13.sce#1523/CH3/EX3.13/3_13.sce#S##90838
+3#Network Theorem 2#3.12#example12#3_12.sce#1523/CH3/EX3.12/3_12.sce#S##90837
+3#Network Theorem 2#3.11#example11#3_11.sce#1523/CH3/EX3.11/3_11.sce#S##90836
+3#Network Theorem 2#3.10#example10#3_10.sce#1523/CH3/EX3.10/3_10.sce#S##90835
+3#Network Theorem 2#3.1#example1#3_1.sce#1523/CH3/EX3.1/3_1.sce#S##63572
+2#Network Theorem 1#2.9#example9#2_9.sce#1523/CH2/EX2.9/2_9.sce#S##63560
+2#Network Theorem 1#2.8#example8#2_8.sce#1523/CH2/EX2.8/2_8.sce#S##88022
+2#Network Theorem 1#2.5#example5#2_5.sce#1523/CH2/EX2.5/2_5.sce#S##88025
+2#Network Theorem 1#2.40#example40#2_40.sce#1523/CH2/EX2.40/2_40.sce#S##88217
+2#Network Theorem 1#2.39#example39#2_39.sce#1523/CH2/EX2.39/2_39.sce#S##88216
+2#Network Theorem 1#2.38#example38#2_38.sce#1523/CH2/EX2.38/2_38.sce#S##88211
+2#Network Theorem 1#2.37#example37#2_37.sce#1523/CH2/EX2.37/2_37.sce#S##88205
+2#Network Theorem 1#2.35#example35#2_35.sce#1523/CH2/EX2.35/2_35.sce#S##88204
+2#Network Theorem 1#2.34#example34#2_34.sce#1523/CH2/EX2.34/2_34.sce#S##88201
+2#Network Theorem 1#2.33#example33#2_33.sce#1523/CH2/EX2.33/2_33.sce#S##88194
+2#Network Theorem 1#2.32#example32#2_32.sce#1523/CH2/EX2.32/2_32.sce#S##88188
+2#Network Theorem 1#2.31#example31#2_31.sce#1523/CH2/EX2.31/2_31.sce#S##88184
+2#Network Theorem 1#2.30#example30#2_30.sce#1523/CH2/EX2.30/2_30.sce#S##88180
+2#Network Theorem 1#2.3#example3#2_3.sce#1523/CH2/EX2.3/2_3.sce#S##88021
+2#Network Theorem 1#2.29#example29#2_29.sce#1523/CH2/EX2.29/2_29.sce#S##88179
+2#Network Theorem 1#2.28#example28#2_28.sce#1523/CH2/EX2.28/2_28.sce#S##88178
+2#Network Theorem 1#2.27#example27#2_27.sce#1523/CH2/EX2.27/2_27.sce#S##88176
+2#Network Theorem 1#2.26#example26#2_26.sce#1523/CH2/EX2.26/2_26.sce#S##88175
+2#Network Theorem 1#2.25#example25#2_25.sce#1523/CH2/EX2.25/2_25.sce#S##88177
+2#Network Theorem 1#2.24#example24#2_24.sce#1523/CH2/EX2.24/2_24.sce#S##88173
+2#Network Theorem 1#2.22#example22#2_22.sce#1523/CH2/EX2.22/2_22.sce#S##88172
+2#Network Theorem 1#2.21#example21#2_21.sce#1523/CH2/EX2.21/2_21.sce#S##63571
+2#Network Theorem 1#2.20#example20#2_20.sce#1523/CH2/EX2.20/2_20.sce#S##88171
+2#Network Theorem 1#2.2#example2#2_2.sce#1523/CH2/EX2.2/2_2.sce#S##88024
+2#Network Theorem 1#2.19#example19#2_19.sce#1523/CH2/EX2.19/2_19.sce#S##63570
+2#Network Theorem 1#2.18#example18#2_18.sce#1523/CH2/EX2.18/2_18.sce#S##88170
+2#Network Theorem 1#2.17#example17#2_17.sce#1523/CH2/EX2.17/2_17.sce#S##63569
+2#Network Theorem 1#2.15#example15#2_15.sce#1523/CH2/EX2.15/2_15.sce#S##63568
+2#Network Theorem 1#2.14#example14#2_14.sce#1523/CH2/EX2.14/2_14.sce#S##63567
+2#Network Theorem 1#2.13#example13#2_13.sce#1523/CH2/EX2.13/2_13.sce#S##63566
+2#Network Theorem 1#2.12#example12#2_12.sce#1523/CH2/EX2.12/2_12.sce#S##63565
+2#Network Theorem 1#2.11#example11#2_11.sce#1523/CH2/EX2.11/2_11.sce#S##63564
+2#Network Theorem 1#2.10#example10#2_10.sce#1523/CH2/EX2.10/2_10.sce#S##63563
+2#Network Theorem 1#2.1#example1#2_1.sce#1523/CH2/EX2.1/2_1.sce#S##88023
+1#basic circuit concept#1.8#example8#1_8.sce#1523/CH1/EX1.8/1_8.sce#S##63556
+1#basic circuit concept#1.7#example7#1_7.sce#1523/CH1/EX1.7/1_7.sce#S##63555
+1#basic circuit concept#1.6#example6#1_6.sce#1523/CH1/EX1.6/1_6.sce#S##63554
+1#basic circuit concept#1.5#example5#1_5.sce#1523/CH1/EX1.5/1_5.sce#S##63553
+1#basic circuit concept#1.4#example4#1_4.sce#1523/CH1/EX1.4/1_4.sce#S##63552
+1#basic circuit concept#1.3#example3#1_3.sce#1523/CH1/EX1.3/1_3.sce#S##63551
+1#basic circuit concept#1.2#example2#1_2.sce#1523/CH1/EX1.2/1_2.sce#S##63550
+1#basic circuit concept#1.15#example15#1_15.sce#1523/CH1/EX1.15/1_15.sce#S##88020
+1#basic circuit concept#1.14#example14#1_14.sce#1523/CH1/EX1.14/1_14.sce#S##63559
+1#basic circuit concept#1.13#example13#1_13.sce#1523/CH1/EX1.13/1_13.sce#S##63558
+1#basic circuit concept#1.12#example12#1_12.sce#1523/CH1/EX1.12/1_12.sce#S##63557
+1#basic circuit concept#1.1#example1#1_1.sce#1523/CH1/EX1.1/1_1.sce#S##63549

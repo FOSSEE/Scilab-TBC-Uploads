@@ -1,0 +1,5 @@
+Q is 2
+peak frequency is 5.31 kHertz
+cutoff frequency is 4.02 kHertz
+resonant frequency is 5.65 kHertz
+3-db frequency is 3.59 kHertz

@@ -1,0 +1,15 @@
+ Zth in per unit   
+ 
+    0.12i  
+ 
+ Subtransient fault current in per unit   
+ 
+  - 8.0808081i  
+ 
+ Subtransient fault current in generator side in per unit   
+ 
+    0.687229 - 2.7163371i  
+ 
+ Subtransient fault current in motor side in per unit   
+ 
+  - 0.687229 - 5.364471i  

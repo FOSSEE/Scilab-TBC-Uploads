@@ -1,0 +1,2 @@
+The value of dv/dt of the given SCR is 8.00e+008 volt/second 
+ 

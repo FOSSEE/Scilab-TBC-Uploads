@@ -1,0 +1,5 @@
+# PROBLEM 7 # 
+ Standard formula used 
+ lambda = e*sin(theta)  
+
+ Total Angular width of central maxima is 30 degree.

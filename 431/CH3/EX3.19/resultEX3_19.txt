@@ -1,0 +1,6 @@
+  
+ Example 3.19   
+From the open-circuit test, core-loss=460W
+From short circuit test, copper loss=540W
+The efficiency at full-load and 0.8 lagging power factor=97.560976
+Voltage regulation=3percent 

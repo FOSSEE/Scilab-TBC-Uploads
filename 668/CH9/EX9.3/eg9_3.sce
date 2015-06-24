@@ -1,0 +1,19 @@
+Na = 3*10^16;
+t = 500*10^-8;
+Vfb = -1.13;
+T = 300;
+kT = 26*10^-3; //in eV
+q = 1.6*10^-19;
+ni = 1.5*10^10;
+eps0 = 8.85*10^-14; //in F/m
+eps = 11.9*eps0;
+eps1 = 3.9*eps0;
+c = 10^11;
+phiF = kT*log(Na/ni);
+disp(phiF,"The position of the Fermi level (in V) is given by (measured from the intrinsic Fermi level)")
+Qs = (4*eps*phiF*q*Na)^0.5;
+disp(Qs,"Under the assumption that the charge Qs is simple NaW where W is the maximum depletion width, we get Qs (in C per cm2)= ")
+Vt = Vfb+2*phiF+(Qs*t/eps1);
+disp(Vt,"In the absence of any oxide charge, the threshold voltage (in V) = ")
+dVt = c*q*(t/eps1);
+disp(dVt,"In the case where the oxide has trap charges, the threshold voltage is shifted by ΔVT (in V)= ")

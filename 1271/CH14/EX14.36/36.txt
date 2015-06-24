@@ -1,0 +1,5 @@
+ # PROBLEM 36 # 
+Standard formula used 
+  lambda = h /(m*v)
+
+ de-Broglie wavelength is 1.982036 Angstrom.

@@ -1,0 +1,11 @@
+ Interplanar Spacing (200) (in Angstorm) =    
+ 
+    1.7621101  
+ 
+ Interplanar Spacing (220) (in Angstorm) =    
+ 
+    1.246  
+ 
+ Interplanar Spacing (111) (in Angstorm) =    
+ 
+    2.0347095  

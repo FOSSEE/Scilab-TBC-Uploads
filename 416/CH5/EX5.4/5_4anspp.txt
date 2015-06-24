@@ -1,0 +1,24 @@
+
+ for (a)   
+total annual cost Rs.30609600
+investement Rs.270000000
+annuity Rs35390400 
+ratio of a and b 0.131076 
+rate of return 11.4percent 
+ for (b)   
+total annual cost Rs.30384600
+investement Rs.315000000
+annuity Rs35615400 
+ratio of a and b 0.113065 
+rate of return 8.9percent 
+ for (c)   
+total annual cost Rs.30159600
+investement Rs.360000000
+annuity Rs35840400 
+ratio of a and b 0.099557 
+rate of return 7.6percent
+saving in annual cost excluding interest and depreciation B over A 	 225000 C over A 	 225000
+additional investement P is 				B over A 	 45000000 C over A 	 45000000
+rate of saving to investement 				AoverB 		 0.005000 BoverC  	0.005000
+rate of return on capital investement
+ evidently plan A is the best 				A over B 	Negative B over C 	Negative 

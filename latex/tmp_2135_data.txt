@@ -1,0 +1,187 @@
+7#IC Engines#7.9#Power and Efficiency#Example7_9.sce#2135/CH7/EX7.9/Example7_9.sce#S##72019
+7#IC Engines#7.8#Engine Crank Shaft Speed#Example7_8.sce#2135/CH7/EX7.8/Example7_8.sce#S##72018
+7#IC Engines#7.7#Indicated Power of Engine#Example7_7.sce#2135/CH7/EX7.7/Example7_7.sce#S##72017
+7#IC Engines#7.6#Diameter and stroke of engine#Example7_6.sce#2135/CH7/EX7.6/Example7_6.sce#S##72016
+7#IC Engines#7.5#Indicated Power of Engine#Example7_5.sce#2135/CH7/EX7.5/Example7_5.sce#S##72014
+7#IC Engines#7.4#Bore and length of stroke#Example7_4.sce#2135/CH7/EX7.4/Example7_4.sce#S##72013
+7#IC Engines#7.3#Power and Efficiencies#Example7_3.sce#2135/CH7/EX7.3/Example7_3.sce#S##72012
+7#IC Engines#7.2#BP of the engine#Example7_2.sce#2135/CH7/EX7.2/Example7_2.sce#S##72011
+7#IC Engines#7.11#IP BP and Efficiency#Example7_11.sce#2135/CH7/EX7.11/Example7_11.sce#S##72021
+7#IC Engines#7.10#Fuel Consumption and Efficiency#Example7_10.sce#2135/CH7/EX7.10/Example7_10.sce#S##72020
+7#IC Engines#7.1#Friction Power#Example7_1.sce#2135/CH7/EX7.1/Example7_1.sce#S##72010
+6#Properties of Steam#6.e#Find Specific Enthalpy#Example.sce#2135/CH6/EX6.e/Example.sce#S##71570
+6#Properties of Steam#6.9#Required Heat#Exa_6_9.sce#2135/CH6/EX6.9/Exa_6_9.sce#S##71580
+6#Properties of Steam#6.8#Added heat#Exa_6_8.sce#2135/CH6/EX6.8/Exa_6_8.sce#S##71579
+6#Properties of Steam#6.7#Dryness fraction of steam#Exa_6_7.sce#2135/CH6/EX6.7/Exa_6_7.sce#S##71578
+6#Properties of Steam#6.6#Enthalpy Energy and Mass#Exa_6_6.sce#2135/CH6/EX6.6/Exa_6_6.sce#S##71577
+6#Properties of Steam#6.5#Ratio of mass flow rate#Exa_6_5.sce#2135/CH6/EX6.5/Exa_6_5.sce#S##71576
+6#Properties of Steam#6.4#Enthalpy Specific Volume and Entropy#Exa_6_4.sce#2135/CH6/EX6.4/Exa_6_4.sce#S##71575
+6#Properties of Steam#6.35#Heat supplied Dryness Fraction Work done Efficiency#Exa_6_35.sce#2135/CH6/EX6.35/Exa_6_35.sce#S##71606
+6#Properties of Steam#6.34#Thermal Efficiency and Turbine work#Exa_6_34.sce#2135/CH6/EX6.34/Exa_6_34.sce#S##71605
+6#Properties of Steam#6.33#Net work done and Rankine Efficiency#Exa_6_33.sce#2135/CH6/EX6.33/Exa_6_33.sce#S##71604
+6#Properties of Steam#6.32#Dryness fraction of steam#Exa_6_32.sce#2135/CH6/EX6.32/Exa_6_32.sce#S##71603
+6#Properties of Steam#6.31#Quality of steam#Exa_6_31.sce#2135/CH6/EX6.31/Exa_6_31.sce#S##71602
+6#Properties of Steam#6.30#Dryness fraction of steam#Exa_6_30.sce#2135/CH6/EX6.30/Exa_6_30.sce#S##71601
+6#Properties of Steam#6.3#Volume Enthalpy and Internal energy#Exa_6_3.sce#2135/CH6/EX6.3/Exa_6_3.sce#S##71573
+6#Properties of Steam#6.29#Minimum value of dryness fraction#Exa_6_29.sce#2135/CH6/EX6.29/Exa_6_29.sce#S##71600
+6#Properties of Steam#6.28#Dryness Fraction of steam#Exa_6_28.sce#2135/CH6/EX6.28/Exa_6_28.sce#S##71599
+6#Properties of Steam#6.27#Dryness Fraction of steam#Exa_6_27.sce#2135/CH6/EX6.27/Exa_6_27.sce#S##71598
+6#Properties of Steam#6.26#State of steam Exit area of nozzle#Exa_6_26.sce#2135/CH6/EX6.26/Exa_6_26.sce#S##71597
+6#Properties of Steam#6.25#Pressure at exit of throttle valve#Exa_6_25.sce#2135/CH6/EX6.25/Exa_6_25.sce#S##71596
+6#Properties of Steam#6.24#Condition of steam and change in entropy#Exa_6_24.sce#2135/CH6/EX6.24/Exa_6_24.sce#S##71595
+6#Properties of Steam#6.23#Final Specific volume temperature and entropy#Exa_6_23.sce#2135/CH6/EX6.23/Exa_6_23.sce#S##71594
+6#Properties of Steam#6.22#Specific work of expansion#Exa_6_22.sce#2135/CH6/EX6.22/Exa_6_22.sce#S##71593
+6#Properties of Steam#6.21#Amount of work done#Exa_6_21.sce#2135/CH6/EX6.21/Exa_6_21.sce#S##71592
+6#Properties of Steam#6.20#Work done and condition of steam#Exa_6_20.sce#2135/CH6/EX6.20/Exa_6_20.sce#S##71591
+6#Properties of Steam#6.2#Temperature Enthalpy and Specific Volume#Exa_6_2.sce#2135/CH6/EX6.2/Exa_6_2.sce#S##71574
+6#Properties of Steam#6.19#Condition of steam#Exa_6_19.sce#2135/CH6/EX6.19/Exa_6_19.sce#S##71590
+6#Properties of Steam#6.18#Dryness fraction and Mass of steam#Exa_6_18.sce#2135/CH6/EX6.18/Exa_6_18.sce#S##71589
+6#Properties of Steam#6.17#Heat transfered per Kg of steam#Exa_6_17.sce#2135/CH6/EX6.17/Exa_6_17.sce#S##71588
+6#Properties of Steam#6.16#Quantity of heat#Exa_6_16.sce#2135/CH6/EX6.16/Exa_6_16.sce#S##71587
+6#Properties of Steam#6.15#Rate of heat transfer and Density#Exa_6_15.sce#2135/CH6/EX6.15/Exa_6_15.sce#S##71586
+6#Properties of Steam#6.14#Work done Enthalpy and Heat Transfered#Exa_6_14.sce#2135/CH6/EX6.14/Exa_6_14.sce#S##71585
+6#Properties of Steam#6.13#Temperature and Pressure#Exa_6_13.sce#2135/CH6/EX6.13/Exa_6_13.sce#S##71584
+6#Properties of Steam#6.12#Enthalpy Internal Energy Entropy#Exa_6_12.sce#2135/CH6/EX6.12/Exa_6_12.sce#S##71583
+6#Properties of Steam#6.11#Quality of steam#Exa_6_11.sce#2135/CH6/EX6.11/Exa_6_11.sce#S##71582
+6#Properties of Steam#6.10#Workdone and latent heat of steam#Exa_6_10.sce#2135/CH6/EX6.10/Exa_6_10.sce#S##78816
+6#Properties of Steam#6.1#Type of steam#Exa_6_1.sce#2135/CH6/EX6.1/Exa_6_1.sce#S##71571
+5#Properties of Steam#5.9#Heat abstracted Availability and Loss Availability#Exa_5_9.sce#2135/CH5/EX5.9/Exa_5_9.sce#S##71564
+5#Properties of Steam#5.8#Available and unavailable energy#Exa_5_8.sce#2135/CH5/EX5.8/Exa_5_8.sce#S##71563
+5#Properties of Steam#5.7#Available energy added to the system#Exa_5_7.sce#2135/CH5/EX5.7/Exa_5_7.sce#S##71562
+5#Properties of Steam#5.6#Availability of heat energy and unavailable heat#Exa_5_6.sce#2135/CH5/EX5.6/Exa_5_6.sce#S##71561
+5#Properties of Steam#5.5#Motor Capability#Exa_5_5.sce#2135/CH5/EX5.5/Exa_5_5.sce#S##71560
+5#Properties of Steam#5.4#Availability and unavailable energy#Exa_5_4.sce#2135/CH5/EX5.4/Exa_5_4.sce#S##71559
+5#Properties of Steam#5.3#Increase in available energy#Exa_5_3.sce#2135/CH5/EX5.3/Exa_5_3.sce#S##71558
+5#Properties of Steam#5.2#Reversible work and Irreversibility#Exa_5_2.sce#2135/CH5/EX5.2/Exa_5_2.sce#S##71557
+5#Properties of Steam#5.14#Loss in available energy#Exa_5_14.sce#2135/CH5/EX5.14/Exa_5_14.sce#S##71569
+5#Properties of Steam#5.13#Loss of availability#Exa_5_13.sce#2135/CH5/EX5.13/Exa_5_13.sce#S##71568
+5#Properties of Steam#5.12#Mass flow rate and other parameters#Exa_5_12.sce#2135/CH5/EX5.12/Exa_5_12.sce#S##71567
+5#Properties of Steam#5.11#Change in entropy#Exa_5_11.sce#2135/CH5/EX5.11/Exa_5_11.sce#S##71566
+5#Properties of Steam#5.10#Availability of products#Exa_5_10.sce#2135/CH5/EX5.10/Exa_5_10.sce#S##71565
+5#Properties of Steam#5.1#Available and unavailable energy#Exa_5_1.sce#2135/CH5/EX5.1/Exa_5_1.sce#S##71556
+4#Entropy#4.9#Increase of entropy#Exa_4_9.sce#2135/CH4/EX4.9/Exa_4_9.sce#S##71548
+4#Entropy#4.8#Increase in entropy#Exa_4_8.sce#2135/CH4/EX4.8/Exa_4_8.sce#S##71547
+4#Entropy#4.7#Change in entropy#Exa_4_7.sce#2135/CH4/EX4.7/Exa_4_7.sce#S##71546
+4#Entropy#4.6#Change in entropy#Exa_4_6.sce#2135/CH4/EX4.6/Exa_4_6.sce#S##71545
+4#Entropy#4.5#Change in entropy#Exa_4_5.sce#2135/CH4/EX4.5/Exa_4_5.sce#S##71544
+4#Entropy#4.4#Efficiency and Lowest temperature#Exa_4_4.sce#2135/CH4/EX4.4/Exa_4_4.sce#S##71543
+4#Entropy#4.3#Entropy Change#Exa_4_3.sce#2135/CH4/EX4.3/Exa_4_3.sce#S##71542
+4#Entropy#4.22#Change in entropy#Exa_4_22.sce#2135/CH4/EX4.22/Exa_4_22.sce#S##71555
+4#Entropy#4.21#Entropy Change#Exa_4_21.sce#2135/CH4/EX4.21/Exa_4_21.sce#S##71554
+4#Entropy#4.2#Classify the cycle#Exa_4_2.sce#2135/CH4/EX4.2/Exa_4_2.sce#S##71541
+4#Entropy#4.18#Index Work done Specific entropy#Exa_4_18.sce#2135/CH4/EX4.18/Exa_4_18.sce#S##71553
+4#Entropy#4.17#Final temperature Work done heat transfer#Exa_4_17.sce#2135/CH4/EX4.17/Exa_4_17.sce#S##71552
+4#Entropy#4.15#Entropy change of universe#Exa_4_15.sce#2135/CH4/EX4.15/Exa_4_15.sce#S##71551
+4#Entropy#4.14#Change in internal energy Work done Heat transfer#Exa_4_14.sce#2135/CH4/EX4.14/Exa_4_14.sce#S##71550
+4#Entropy#4.11#Increase in entropy#Exa_4_11.sce#2135/CH4/EX4.11/Exa_4_11.sce#S##71549
+4#Entropy#4.1#Clausias Inequality#Exa_4_1.sce#2135/CH4/EX4.1/Exa_4_1.sce#S##71540
+3#Second Law of Thermodynamics#3.8#Temperature of cold space#Exa_3_8.sce#2135/CH3/EX3.8/Exa_3_8.sce#S##74076
+3#Second Law of Thermodynamics#3.7#Operation in which engine delivers more power#Exa_3_7.sce#2135/CH3/EX3.7/Exa_3_7.sce#S##71524
+3#Second Law of Thermodynamics#3.6#Power required to heat pump#Exa_3_6.sce#2135/CH3/EX3.6/Exa_3_6.sce#S##71523
+3#Second Law of Thermodynamics#3.5#Source and sink temperature#Exa_3_5.sce#2135/CH3/EX3.5/Exa_3_5.sce#S##71522
+3#Second Law of Thermodynamics#3.4#COP and Heat transfer rate#Exa_3_4.sce#2135/CH3/EX3.4/Exa_3_4.sce#S##71521
+3#Second Law of Thermodynamics#3.3#Power Input COP#Exa_3_3.sce#2135/CH3/EX3.3/Exa_3_3.sce#S##71520
+3#Second Law of Thermodynamics#3.26#Heat Supplied and efficiency#Exa_3_26.sce#2135/CH3/EX3.26/Exa_3_26.sce#S##71539
+3#Second Law of Thermodynamics#3.25#Determine the COP#Exa_3_25.sce#2135/CH3/EX3.25/Exa_3_25.sce#S##71538
+3#Second Law of Thermodynamics#3.24#COP and Work input#Exa_3_24.sce#2135/CH3/EX3.24/Exa_3_24.sce#S##71537
+3#Second Law of Thermodynamics#3.21#Minimum Theoretical area#Exa_3_21.sce#2135/CH3/EX3.21/Exa_3_21.sce#S##71536
+3#Second Law of Thermodynamics#3.20#Expansion Ratio#Exa_3_20.sce#2135/CH3/EX3.20/Exa_3_20.sce#S##71535
+3#Second Law of Thermodynamics#3.2#COP Temperature and Heat Rejected#Exa_3_2.sce#2135/CH3/EX3.2/Exa_3_2.sce#S##71519
+3#Second Law of Thermodynamics#3.18#Max Power and Max Temperature#Exa_3_18.sce#2135/CH3/EX3.18/Exa_3_18.sce#S##71534
+3#Second Law of Thermodynamics#3.17#Inventors Claim#Exa_3_17.sce#2135/CH3/EX3.17/Exa_3_17.sce#S##71533
+3#Second Law of Thermodynamics#3.16#Rate of heat supply and heat rejection#Exa_3_16.sce#2135/CH3/EX3.16/Exa_3_16.sce#S##71532
+3#Second Law of Thermodynamics#3.15#Heat absorbed by the refrigerant#Exa_3_15.sce#2135/CH3/EX3.15/Exa_3_15.sce#S##71531
+3#Second Law of Thermodynamics#3.14#Heat rejected Work done and Efficiency#Exa_3_14.sce#2135/CH3/EX3.14/Exa_3_14.sce#S##71530
+3#Second Law of Thermodynamics#3.13#Patent of engine#Exa_3_13.sce#2135/CH3/EX3.13/Exa_3_13.sce#S##71529
+3#Second Law of Thermodynamics#3.12#Power required to run the heat pump#Exa_3_12.sce#2135/CH3/EX3.12/Exa_3_12.sce#S##78815
+3#Second Law of Thermodynamics#3.11#Possibilty of claim#Exa_3_11.sce#2135/CH3/EX3.11/Exa_3_11.sce#S##71527
+3#Second Law of Thermodynamics#3.10#Time required to freeze water#Exa_3_10.sce#2135/CH3/EX3.10/Exa_3_10.sce#S##71526
+3#Second Law of Thermodynamics#3.1#Determine COP#Exa_3_1.sce#2135/CH3/EX3.1/Exa_3_1.sce#S##71518
+2#First Law of Thermodynamics#2.9#Net heat transfer#Exa_2_9.sce#2135/CH2/EX2.9/Exa_2_9.sce#S##71467
+2#First Law of Thermodynamics#2.8#Change in internal energy#Exa_2_8.sce#2135/CH2/EX2.8/Exa_2_8.sce#S##71466
+2#First Law of Thermodynamics#2.7#Rate of work in KW#Exa_2_7.sce#2135/CH2/EX2.7/Exa_2_7.sce#S##71465
+2#First Law of Thermodynamics#2.6#DeltaU DeltaPE DeltaKE#Exa_2_6.sce#2135/CH2/EX2.6/Exa_2_6.sce#S##71464
+2#First Law of Thermodynamics#2.5#Change in internal energy#Exa_2_5.sce#2135/CH2/EX2.5/Exa_2_5.sce#S##71463
+2#First Law of Thermodynamics#2.48#Work done by the air#Exa_2_48.sce#2135/CH2/EX2.48/Exa_2_48.sce#S##71507
+2#First Law of Thermodynamics#2.47#Amount of discharged air#Exa_2_47.sce#2135/CH2/EX2.47/Exa_2_47.sce#S##71506
+2#First Law of Thermodynamics#2.46#Rate of flow of water#Exa_2_46.sce#2135/CH2/EX2.46/Exa_2_46.sce#S##71505
+2#First Law of Thermodynamics#2.45#Exit temperature of air#Exa_2_45.sce#2135/CH2/EX2.45/Exa_2_45.sce#S##71504
+2#First Law of Thermodynamics#2.44#Power required to drive the pump#Exa_2_44.sce#2135/CH2/EX2.44/Exa_2_44.sce#S##71503
+2#First Law of Thermodynamics#2.43#Mass flow rate and specific enthalpy#Exa_2_43.sce#2135/CH2/EX2.43/Exa_2_43.sce#S##71502
+2#First Law of Thermodynamics#2.42#Power required and ratio of diameter#Exa_2_42.sce#2135/CH2/EX2.42/Exa_2_42.sce#S##71501
+2#First Law of Thermodynamics#2.41#Flow of work Mass flow rate#Exa_2_41.sce#2135/CH2/EX2.41/Exa_2_41.sce#S##71500
+2#First Law of Thermodynamics#2.40#Output of turbine#Exa_2_40.sce#2135/CH2/EX2.40/Exa_2_40.sce#S##71499
+2#First Law of Thermodynamics#2.4#Net work for cycle#Exa_2_4.sce#2135/CH2/EX2.4/Exa_2_4.sce#S##71462
+2#First Law of Thermodynamics#2.39#Power required to drive the compressor#Exa_2_39.sce#2135/CH2/EX2.39/Exa_2_39.sce#S##71498
+2#First Law of Thermodynamics#2.38#Change in enthalpy and rate of workdone#Exa_2_38.sce#2135/CH2/EX2.38/Exa_2_38.sce#S##78814
+2#First Law of Thermodynamics#2.37#Enthalpy of second exit stream#Exa_2_37.sce#2135/CH2/EX2.37/Exa_2_37.sce#S##71496
+2#First Law of Thermodynamics#2.36#Heat transfered per Kg of air#Exa_2_36.sce#2135/CH2/EX2.36/Exa_2_36.sce#S##71495
+2#First Law of Thermodynamics#2.35#Velocity Mass flow rate Diameter#Exa_2_35.sce#2135/CH2/EX2.35/Exa_2_35.sce#S##71494
+2#First Law of Thermodynamics#2.34#Temperature of air#Exa_2_34.sce#2135/CH2/EX2.34/Exa_2_34.sce#S##71493
+2#First Law of Thermodynamics#2.33#Work done Internal energy heat transfer#Exa_2_33.sce#2135/CH2/EX2.33/Exa_2_33.sce#S##71492
+2#First Law of Thermodynamics#2.32#Calculate power required#Exa_2_32.sce#2135/CH2/EX2.32/Exa_2_32.sce#S##71491
+2#First Law of Thermodynamics#2.31#Workdone heat transfer and internal energy#Exa_2_31.sce#2135/CH2/EX2.31/Exa_2_31.sce#S##71490
+2#First Law of Thermodynamics#2.30#Density and mass flow rate#Exa_2_30.sce#2135/CH2/EX2.30/Exa_2_30.sce#S##71489
+2#First Law of Thermodynamics#2.3#Change in internal energy#Exa_2_3.sce#2135/CH2/EX2.3/Exa_2_3.sce#S##71461
+2#First Law of Thermodynamics#2.29.a#Q DeltaU and W#Exa_2_29A.sce#2135/CH2/EX2.29.a/Exa_2_29A.sce#S##71488
+2#First Law of Thermodynamics#2.29#Max Temperature Work done heat transfer#Exa_2_29.sce#2135/CH2/EX2.29/Exa_2_29.sce#S##71487
+2#First Law of Thermodynamics#2.28#Work done and index#Exa_2_28.sce#2135/CH2/EX2.28/Exa_2_28.sce#S##71486
+2#First Law of Thermodynamics#2.27#Amount of work#Exa_2_27.sce#2135/CH2/EX2.27/Exa_2_27.sce#S##71485
+2#First Law of Thermodynamics#2.26#Net work done#Exa_2_26.sce#2135/CH2/EX2.26/Exa_2_26.sce#S##71484
+2#First Law of Thermodynamics#2.25#heat transfer and maximum internal energy#Exa_2_25.sce#2135/CH2/EX2.25/Exa_2_25.sce#S##71483
+2#First Law of Thermodynamics#2.24#Work done in expansion#Exa_2_24.sce#2135/CH2/EX2.24/Exa_2_24.sce#S##71482
+2#First Law of Thermodynamics#2.23#Work transfer and change in energy#Exa_2_23.sce#2135/CH2/EX2.23/Exa_2_23.sce#S##71481
+2#First Law of Thermodynamics#2.22#Workdone and final pressure#Exa_2_22.sce#2135/CH2/EX2.22/Exa_2_22.sce#S##71480
+2#First Law of Thermodynamics#2.21#Mass Index Workdone Heat#Exa_2_21.sce#2135/CH2/EX2.21/Exa_2_21.sce#S##71479
+2#First Law of Thermodynamics#2.20#Find specific heat#Exa_2_20.sce#2135/CH2/EX2.20/Exa_2_20.sce#S##71478
+2#First Law of Thermodynamics#2.2#Steam flow rate#Exa_2_2.sce#2135/CH2/EX2.2/Exa_2_2.sce#S##71460
+2#First Law of Thermodynamics#2.19#Net workdone#Exa_2_19.sce#2135/CH2/EX2.19/Exa_2_19.sce#S##71477
+2#First Law of Thermodynamics#2.18#Heat transfer and workdone#Exa_2_18.sce#2135/CH2/EX2.18/Exa_2_18.sce#S##71476
+2#First Law of Thermodynamics#2.17#Find the distance#Exa_2_17.sce#2135/CH2/EX2.17/Exa_2_17.sce#S##71475
+2#First Law of Thermodynamics#2.16#Heat Work Energy Enthalpy#Exa_2_16.sce#2135/CH2/EX2.16/Exa_2_16.sce#S##71474
+2#First Law of Thermodynamics#2.15#Heat added Work done temperature#Exa_2_15.sce#2135/CH2/EX2.15/Exa_2_15.sce#S##71473
+2#First Law of Thermodynamics#2.14#Specific heat gas constant and density#Exa_2_14.sce#2135/CH2/EX2.14/Exa_2_14.sce#S##71472
+2#First Law of Thermodynamics#2.13#Mass of oxygen used#Exa_2_13.sce#2135/CH2/EX2.13/Exa_2_13.sce#S##71471
+2#First Law of Thermodynamics#2.12#Final temperature of gas#Exa_2_12.sce#2135/CH2/EX2.12/Exa_2_12.sce#S##71470
+2#First Law of Thermodynamics#2.11#Heat transfer across the system#Exa_2_11.sce#2135/CH2/EX2.11/Exa_2_11.sce#S##71469
+2#First Law of Thermodynamics#2.10#Change in internal energy#Exa_2_10.sce#2135/CH2/EX2.10/Exa_2_10.sce#S##71468
+2#First Law of Thermodynamics#2.1#Calculate Equillibrium temperature#Exa_2_1.sce#2135/CH2/EX2.1/Exa_2_1.sce#S##71459
+1#Thermodynamics Concepts#1.9#Height of fluid#Exa_1_9.sce#2135/CH1/EX1.9/Exa_1_9.sce#S##71424
+1#Thermodynamics Concepts#1.8#Absolute pressure of steam#Exa_1_8.sce#2135/CH1/EX1.8/Exa_1_8.sce#S##71425
+1#Thermodynamics Concepts#1.7#Water level and mass change#Exa_1_7.sce#2135/CH1/EX1.7/Exa_1_7.sce#S##71422
+1#Thermodynamics Concepts#1.6#Determine the pressure#Exa_1_6.sce#2135/CH1/EX1.6/Exa_1_6.sce#S##71421
+1#Thermodynamics Concepts#1.5#Absolute Pressure#Exa_1_5.sce#2135/CH1/EX1.5/Exa_1_5.sce#S##71420
+1#Thermodynamics Concepts#1.44#Specific heats of gases#Exa_1_44.sce#2135/CH1/EX1.44/Exa_1_44.sce#S##71458
+1#Thermodynamics Concepts#1.43#Molecular mass Gas constant Pressure#Exa_1_43.sce#2135/CH1/EX1.43/Exa_1_43.sce#S##71457
+1#Thermodynamics Concepts#1.42#Gas Constant Molecular weight#Exa_1_42.sce#2135/CH1/EX1.42/Exa_1_42.sce#S##71456
+1#Thermodynamics Concepts#1.41#Partial pressure of each gas#Exa_1_41.sce#2135/CH1/EX1.41/Exa_1_41.sce#S##71455
+1#Thermodynamics Concepts#1.40#Partial Pressure of each constituent#Exa_1_40.sce#2135/CH1/EX1.40/Exa_1_40.sce#S##71454
+1#Thermodynamics Concepts#1.4#Kinetic and Potential Energy#Exa_1_4.sce#2135/CH1/EX1.4/Exa_1_4.sce#S##71419
+1#Thermodynamics Concepts#1.39#Temperature of cylinder#Exa_1_39.sce#2135/CH1/EX1.39/Exa_1_39.sce#S##71453
+1#Thermodynamics Concepts#1.38#Pressure and Temperature of Gas#Exa_1_38.sce#2135/CH1/EX1.38/Exa_1_38.sce#S##71452
+1#Thermodynamics Concepts#1.37#Determine specific Volume#Exa_1_37.sce#2135/CH1/EX1.37/Exa_1_37.sce#S##71451
+1#Thermodynamics Concepts#1.36#Pressure exerted by air#Exa_1_36.sce#2135/CH1/EX1.36/Exa_1_36.sce#S##71450
+1#Thermodynamics Concepts#1.35#Pressure exerted by CO2#Exa_1_35.sce#2135/CH1/EX1.35/Exa_1_35.sce#S##71449
+1#Thermodynamics Concepts#1.34#Pressure of O2#Exa_1_34.sce#2135/CH1/EX1.34/Exa_1_34.sce#S##71448
+1#Thermodynamics Concepts#1.33#Change in enthalpy and internal energy#Exa_1_33.sce#2135/CH1/EX1.33/Exa_1_33.sce#S##71447
+1#Thermodynamics Concepts#1.32#Work done by the air#Exa_1_32.sce#2135/CH1/EX1.32/Exa_1_32.sce#S##71446
+1#Thermodynamics Concepts#1.31#Work done by the system#Exa_1_31.sce#2135/CH1/EX1.31/Exa_1_31.sce#S##71445
+1#Thermodynamics Concepts#1.30#Final Pressure and Volume#Exa_1_30.sce#2135/CH1/EX1.30/Exa_1_30.sce#S##78813
+1#Thermodynamics Concepts#1.29#Workk done by the fluid#Exa_1_29.sce#2135/CH1/EX1.29/Exa_1_29.sce#S##71443
+1#Thermodynamics Concepts#1.28#Amount of work will be done#Exa_1_28.sce#2135/CH1/EX1.28/Exa_1_28.sce#S##71442
+1#Thermodynamics Concepts#1.27#Time required for cooling#Exa_1_27.sce#2135/CH1/EX1.27/Exa_1_27.sce#S##71441
+1#Thermodynamics Concepts#1.26#Specific heat of metal#Exa_1_26.sce#2135/CH1/EX1.26/Exa_1_26.sce#S##71440
+1#Thermodynamics Concepts#1.24#Mass of air#Exa_1_24.sce#2135/CH1/EX1.24/Exa_1_24.sce#S##71439
+1#Thermodynamics Concepts#1.23#Mass and No of moles of air#Exa_1_23.sce#2135/CH1/EX1.23/Exa_1_23.sce#S##71438
+1#Thermodynamics Concepts#1.22#Mass of oxygen used#Exa_1_22.sce#2135/CH1/EX1.22/Exa_1_22.sce#S##71437
+1#Thermodynamics Concepts#1.21#Specific Volume and Density#Exa_1_21.sce#2135/CH1/EX1.21/Exa_1_21.sce#S##71436
+1#Thermodynamics Concepts#1.20#Reading of thermometers#Exa_1_20.sce#2135/CH1/EX1.20/Exa_1_20.sce#S##71435
+1#Thermodynamics Concepts#1.19#Thermometer Reading#Exa_1_19.sce#2135/CH1/EX1.19/Exa_1_19.sce#S##71434
+1#Thermodynamics Concepts#1.18#Temperature#Exa_1_18.sce#2135/CH1/EX1.18/Exa_1_18.sce#S##71433
+1#Thermodynamics Concepts#1.17#Calculate the temperature#Exa_1_17.sce#2135/CH1/EX1.17/Exa_1_17.sce#S##71432
+1#Thermodynamics Concepts#1.16#Temperature of fluid#Exa_1_16.sce#2135/CH1/EX1.16/Exa_1_16.sce#S##71431
+1#Thermodynamics Concepts#1.14#Calculate the temperature#Exa_1_14.sce#2135/CH1/EX1.14/Exa_1_14.sce#S##71430
+1#Thermodynamics Concepts#1.13#temperature in degree C#Exa_1_13.sce#2135/CH1/EX1.13/Exa_1_13.sce#S##71429
+1#Thermodynamics Concepts#1.12#Temperature corresponding to Thermometric Property#Exa_1_12.sce#2135/CH1/EX1.12/Exa_1_12.sce#S##71428
+1#Thermodynamics Concepts#1.11#Absolute pressure in KPa#Exa_1_11.sce#2135/CH1/EX1.11/Exa_1_11.sce#S##71427
+1#Thermodynamics Concepts#1.10#Absolute pressure of gas#Exa_1_10.sce#2135/CH1/EX1.10/Exa_1_10.sce#S##71426

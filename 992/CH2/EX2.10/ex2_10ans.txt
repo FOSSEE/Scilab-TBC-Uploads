@@ -1,0 +1,12 @@
+ 
+
+	 (a)when m=1 Pt=1.5Pc
+ and carrier and one sideband supressed Pt=1.25Pc
+
+	 Percent power saving =83.333333percent
+
+	 (b)when m=0.5 Pt=1.125Pc
+ and carrier and one sideband supressed Pt=1.0625Pc
+
+	 Percent power saving =94.444444percent 
+ Execution done.   

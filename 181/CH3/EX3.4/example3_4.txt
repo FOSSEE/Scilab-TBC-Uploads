@@ -1,0 +1,6 @@
+ (a)Im = 5.39e-002 A
+(b)I_dc = 1.72e-002 A
+(c)I_rms = 2.70e-002 A
+(d)V_dc = 1.699e+001 V
+(e)Input power = 0.74 W
+(f)Percentage regulation = 106.061 percent 

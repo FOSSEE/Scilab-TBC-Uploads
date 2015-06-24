@@ -1,0 +1,46 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example4.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            1   
+ 
+ Chapter Title                         :                                             GETTING STARTED   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 4   :                         Display all the current users in the Current Unix Session   
+ 
+    
+
+*******************************************************************
+ 
+ Answer   :   
+THE FOLLOWING LINES OF CODE RUN 
+ONLY IN SCILAB INSTALLED IN UNIX ENVIRONMENT.....
+THE CONSOLE GETS EXITED IN OTHER
+ OPERATING SYSTEMS 
+    
+Press any key to end the script since the OS is not LinuxClose the Scilab Console?....
+y :Yes
+Any other key:No st  =
+ 
+ n   
+
+*******************************************************************
+ 
+-->diary('Result4.txt','close')

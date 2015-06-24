@@ -1,0 +1,5 @@
+﻿ Percentage reduction in intensity of ligth-
+(i)25.000000 per
+(ii)50.000000 per
+(iii)75.000000 per
+(iv)100.000000 per

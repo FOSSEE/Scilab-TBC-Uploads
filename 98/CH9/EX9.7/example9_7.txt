@@ -1,0 +1,17 @@
+GMR of conductor = 1.01 cm 
+
+Distance a to b_dash = 6.71 m 
+Distance a to a_dash = 8.49 m 
+
+Ds1 = 0.29 m 
+Ds2 = 0.25 m 
+Ds = 0.28 m 
+
+Dab = 4.49 m 
+Dbc = 4.49 m 
+Dca = 6.00 m 
+Dm = 4.94 m 
+
+Inductance per phase per metre length = 0.58 mH 
+
+

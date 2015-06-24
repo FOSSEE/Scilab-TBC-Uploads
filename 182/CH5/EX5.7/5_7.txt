@@ -1,0 +1,2 @@
+
+7.out put voltage=6.250000 V 

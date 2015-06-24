@@ -1,0 +1,6 @@
+ 
+ 1)when local oscillator tracks above frequency of received frequency 
+ Flo= 995.000000KHz 
+ 1)when local oscillator tracks below frequency of received frequency 
+ Flo= 85.000000KHz  
+ Execution done.   

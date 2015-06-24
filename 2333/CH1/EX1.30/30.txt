@@ -1,0 +1,6 @@
+ # PROBLEM 30 # 
+ Standard formula used 
+
+ E = m*c^2 
+
+ Velocity of moving electron is  2.828427e+08 m/sec. 

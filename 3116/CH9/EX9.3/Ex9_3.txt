@@ -1,0 +1,11 @@
+ Example 9.3
+
+ Part A
+ Modulus of elasticity is 93.8 GPa 
+ which is very close to its true value 97 GPa
+
+ Part C
+ Maximum load sustained is 57900 N
+
+ Part D
+ Change in length is 15 mm 

@@ -1,0 +1,18 @@
+Design Example 15.1 
+
+ Part A:
+
+ Carbon (standard modulus), when embedded in epoxy matrix, meet the stipulated criteria. 
+
+ Carbon (intermediate modulus), when embedded in epoxy matrix, meet the stipulated criteria.
+ 
+ Carbon (high modulus), when embedded in epoxy matrix, meet the stipulated criteria.
+
+ Part B:
+ Cost of Carbon (standard modulus) composite is:48.47 
+ Cost of Carbon (intermediate modulus) composite is:71.04  
+ Cost of Carbon (high modulus) composite is:115.84 
+
+ The material of choice (i.e. least expensive) 
+ is standard modulus carbon fiber composite; the relatively low cost per unit mass of this fiber offsets its relatively low modulus of elasticity and 
+ required high Volume fraction. 

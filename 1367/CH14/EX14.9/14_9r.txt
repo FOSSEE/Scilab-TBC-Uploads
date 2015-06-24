@@ -1,0 +1,7 @@
+Eddy current loss at 60 Hz (in W) =    
+ 
+    144.  
+ 
+ Eddy current loss at 100 Hz (in W) =    
+ 
+    400.  

@@ -1,0 +1,2 @@
+**Sample Problem 45-7**
+The galaxy is at a distance of 1.554404e+009ly

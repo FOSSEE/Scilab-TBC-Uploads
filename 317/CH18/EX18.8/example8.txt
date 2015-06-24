@@ -1,0 +1,1 @@
+Output voltage will be (+ or -) 94.9 mVolts

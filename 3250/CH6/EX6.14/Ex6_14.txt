@@ -1,0 +1,4 @@
+ 
+ # PROBLEM 6.14 # 
+
+ Time required for the surface to reach the melting point = 0.000053 sec 

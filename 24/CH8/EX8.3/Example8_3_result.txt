@@ -1,0 +1,2 @@
+**Sample Problem 8-3**
+The velocity of child at the bottom will be 12.907362m/s 

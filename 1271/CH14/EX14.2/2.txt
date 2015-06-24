@@ -1,0 +1,5 @@
+ # PROBLEM 2 # 
+Standard formula used 
+ E = h*mu 
+
+ Number of quanta emitted per sec is 3.082804e+30 . 

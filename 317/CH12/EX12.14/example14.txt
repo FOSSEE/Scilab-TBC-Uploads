@@ -1,0 +1,1 @@
+maximum power rating is 500 mWatts.

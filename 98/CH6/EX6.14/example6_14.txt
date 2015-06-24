@@ -1,0 +1,13 @@
+Max kW demand = 800 kW 
+
+(i) Leading kVAR taken by the phase advancing equipment = 337.05 kVAR 
+    Capacity of phase advancing equipment = 337.05 kVAR 
+
+(ii) Max demand charges = 50 kW 
+     Expenditure on phase advnacing equipement = Rs. 10.00 /kVAR/annnum 
+     Max demand at 0.8 pf = 1000.00 kVA 
+     Max demand at 0.9 pf = 842.11 kVA 
+     Annual saving in max demand charges = Rs. 7894.74 
+     Annual expenditure in max demand charges = Rs. 3370.53 
+     Net Annual saving = Rs. 4524.21 
+

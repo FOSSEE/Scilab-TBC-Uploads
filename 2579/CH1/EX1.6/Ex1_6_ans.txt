@@ -1,0 +1,1 @@
+ The radiation resistance = 22.222222 ohm

@@ -1,0 +1,4 @@
+temperature at which thevenin voltage is 50mV(in degree centigra 
+      te)=                                                        
+ 
+    49.

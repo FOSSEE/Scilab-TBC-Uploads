@@ -1,0 +1,13 @@
+clc;
+hie=1.1*10**3;
+hre=2.5*10**-4;
+hfe=50;
+hoe=25*10**-6;
+rs=1*10**3;
+rL=1*10**3;
+Ai=hfe/(1+hoe*rL);
+disp(Ai);
+Ri=hie+hre*Ai*rL;
+disp('Ohm',Ri*1,"Ri=");
+Av=(Ai*rL)/Ri;
+disp(Av);

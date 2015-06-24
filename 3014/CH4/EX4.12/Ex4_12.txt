@@ -1,0 +1,5 @@
+Example 4.12
+
+ Deformational Polarizability is 1.000000e-39 C^2mN^-1
+ Orientational Polarizability at 300 degree Celcius is 1.500000e-39 C^2mN^-1
+ Orientational Polarizability at 600 degree Celcius is 7.500000e-40 C^2mN^-1 

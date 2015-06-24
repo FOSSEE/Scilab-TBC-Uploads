@@ -1,0 +1,23 @@
+clear;
+clc;
+Zl=100;Zsh=500;Zg=300;
+Zoc=Zl+Zsh;
+Zsc=Zl+(1/((1/Zl)+(1/Zsh)));
+Zi1=sqrt(Zoc*Zsc);
+Zi2=Zi1;
+theta=atanh(sqrt(Zsc/Zoc));
+att=theta*8.686;
+printf("-Attenuation loss = %f db\n",round(att*10)/10);
+inp=20*log10(round((Zi1+Zg))/(2*sqrt(Zi1*Zg)));
+printf("-Loss due to mismatch at the input = %f db\n",round(inp*100)/100);
+out=20*log10((Zi2+Zl)/(2*(sqrt(Zi2*Zl))));
+printf("-Loss due to mismatch at output = %f db\n",round(out*100)/100);
+Ki1=(Zi1-Zg)/(Zi1+Zg);
+Ki2=(Zi2-Zl)/(Zi2+Zl);
+inte=-20*log10(1-(Ki1*Ki2*exp(-2*theta)));
+printf("-Loss due to interaction = %f db\n",fix(inte*100)/100);
+ext=20*log10((Zg+Zl)/(2*sqrt(Zg*Zl)));
+printf("-External reflection loss = %f db\n",round(ext*100)/100);
+tot=att+inp+out-inte-ext;
+printf("-Total insertion loss = %f db\n",fix(tot*100)/100);
+

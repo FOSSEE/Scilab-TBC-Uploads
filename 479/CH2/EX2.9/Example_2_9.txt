@@ -1,0 +1,4 @@
+For example 2.9, 
+In the (iii) part, i am getting answer as P = 843 atm.
+But the answer given in the book is 833 atm.
+There might be some calculation mistke in the book.  

@@ -1,0 +1,2 @@
+**Sample Problem 31-3**
+The induced emf is equal to 14.400000V 

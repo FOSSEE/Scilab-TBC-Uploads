@@ -1,0 +1,15 @@
+(a)value of R1(in ohm)=   
+ 
+    4944.4444  
+ 
+ (a)value of R2(in ohm)=   
+ 
+    125.  
+ 
+ (b)change in value of R2(in ohm)=   
+ 
+    161.29032  
+ 
+ (c)half scale deflection(in ohm)=   
+ 
+    5006.1728  

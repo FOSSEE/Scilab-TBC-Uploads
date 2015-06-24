@@ -1,0 +1,4 @@
+
+3.R from circuit 7-1(a)=990 ohm
+  R from circuit 7-1(b)=1000 ohm
+  thus circuit 7-1(a) gives the more accurate result 

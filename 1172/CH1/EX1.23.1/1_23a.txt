@@ -1,0 +1,9 @@
+ # Problem 23a # 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N 
+
+ Total number of lines on diffraction grating is 850 
+  So
+  Lines will not be resolved in 1 order .
+as 981  lines are required  for diffraction 

@@ -1,0 +1,82 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example5.sci',-1)
+Current date is 02-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            4   
+ 
+ Chapter Title                         :                                              THE FILE SYSTEM   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 5    :               Show the method of  removing a directory
+ named pis(after creating a directory named pis) 
+ 		and surf to the same directory 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ mkdir  pis                        #To make a directory named pis
+
+........# (hit [ENTER] )
+
+
+$ cd pis;pwd                      #To go to the  directory named pis and open it
+
+........# (hit [ENTER] ) C:\Users\Pranav Bhat\Documents\TCPMUM\Chapter4\pis 
+........# (hit [ENTER] )
+
+
+$ cd  ..                      #To go to the parent directory
+
+........# (hit [ENTER] )
+
+
+$ pwd                             
+
+........# (hit [ENTER] for result) C:\Users\Pranav Bhat\Documents\TCPMUM\Chapter4 
+........# (hit [ENTER] for next instruction)
+
+
+$ rmdir pis                         #To make a directory named pis     
+
+........# (hit [ENTER] )
+
+
+$ ls  pis                      #To go to the current directory
+
+........# (hit [ENTER] ) pis : No such file or directory 
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] )
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

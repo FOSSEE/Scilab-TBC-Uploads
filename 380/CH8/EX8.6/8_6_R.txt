@@ -1,0 +1,11 @@
+ (a) New armature current (in Ampere)=   
+ 
+    20.059341  
+ 
+ Phase angle of new armature current (in Degree)=   
+ 
+    4.9276299  
+ 
+ (b) New Power factor=   
+ 
+    0.9963040 

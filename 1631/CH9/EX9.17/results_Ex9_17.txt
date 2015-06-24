@@ -1,0 +1,8 @@
+ i) Entropy
+
+  	H(X) = 1.88 bits/symbol
+
+
+ ii)information rate 
+
+ 	 R = 30 bits/sec

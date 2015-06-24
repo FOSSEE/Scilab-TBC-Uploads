@@ -1,0 +1,3 @@
+
+Example 3.10
+  Energy of recoiled electron is 2.550573 KeV

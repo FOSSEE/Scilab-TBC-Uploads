@@ -1,0 +1,152 @@
+26#optical properties of materials and materials for opto electronic devices#26.7#energy of photoelectron#Ex26_7.sce#1538/CH26/EX26.7/Ex26_7.sce#S##109104
+26#optical properties of materials and materials for opto electronic devices#26.5#energy of absorbed light#Ex26_5.sce#1538/CH26/EX26.5/Ex26_5.sce#S##109103
+26#optical properties of materials and materials for opto electronic devices#26.4#optical fibre#Ex26_4.sce#1538/CH26/EX26.4/Ex26_4.sce#S##109102
+26#optical properties of materials and materials for opto electronic devices#26.3#energy of photon#Ex26_3.sce#1538/CH26/EX26.3/Ex26_3.sce#S##109101
+26#optical properties of materials and materials for opto electronic devices#26.2#absorption#Ex26_2.sce#1538/CH26/EX26.2/Ex26_2.sce#S##109100
+26#optical properties of materials and materials for opto electronic devices#26.1#energy of photon#Ex26_1.sce#1538/CH26/EX26.1/Ex26_1.sce#S##109099
+23#thermal properties and materials#23.2#stress strain#Ex23_2.sce#1538/CH23/EX23.2/Ex23_2.sce#S##109098
+23#thermal properties and materials#23.1#coefficient of linear expansion#Ex23_1.sce#1538/CH23/EX23.1/Ex23_1.sce#S##109097
+22#superconducting materials properties behaviour and application#22.9#magnetic field#Ex22_9.sce#1538/CH22/EX22.9/Ex22_9.sce#S##109094
+22#superconducting materials properties behaviour and application#22.4#superconducting material#Ex22_4.sce#1538/CH22/EX22.4/Ex22_4.sce#S##109093
+22#superconducting materials properties behaviour and application#22.3#critical current#Ex22_3.sce#1538/CH22/EX22.3/Ex22_3.sce#S##109092
+22#superconducting materials properties behaviour and application#22.2#critical field#Ex22_2.sce#1538/CH22/EX22.2/Ex22_2.sce#S##109091
+22#superconducting materials properties behaviour and application#22.11#superconductors#Ex22_11.sce#1538/CH22/EX22.11/Ex22_11.sce#S##109096
+22#superconducting materials properties behaviour and application#22.10#superconductors#Ex22_10.sce#1538/CH22/EX22.10/Ex22_10.sce#S##109095
+21#magnetic materials properties behaviour and application#21.8#hysteresis loss#Ex21_8.sce#1538/CH21/EX21.8/Ex21_8.sce#S##109087
+21#magnetic materials properties behaviour and application#21.7#hysteresis loss#Ex21_7.sce#1538/CH21/EX21.7/Ex21_7.sce#S##109086
+21#magnetic materials properties behaviour and application#21.6#eddy current#Ex21_6.sce#1538/CH21/EX21.6/Ex21_6.sce#S##109085
+21#magnetic materials properties behaviour and application#21.5#eddy current#Ex21_5.sce#1538/CH21/EX21.5/Ex21_5.sce#S##109084
+21#magnetic materials properties behaviour and application#21.4#B H curve#Ex21_4.sce#1538/CH21/EX21.4/Ex21_4.sce#S##109083
+21#magnetic materials properties behaviour and application#21.3#magnetic field#Ex21_3.sce#1538/CH21/EX21.3/Ex21_3.sce#S##109082
+21#magnetic materials properties behaviour and application#21.2#magnetic field#Ex21_2.sce#1538/CH21/EX21.2/Ex21_2.sce#S##109081
+21#magnetic materials properties behaviour and application#21.15#magnetic field strength and flux density#Ex21_15.sce#1538/CH21/EX21.15/Ex21_15.sce#S##109089
+21#magnetic materials properties behaviour and application#21.11#eddy current loss#Ex21_11.sce#1538/CH21/EX21.11/Ex21_11.sce#S##109090
+21#magnetic materials properties behaviour and application#21.1#magnetic field#Ex21_1.sce#1538/CH21/EX21.1/Ex21_1.sce#S##109080
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.9#capacitor#Ex20_9.sce#1538/CH20/EX20.9/Ex20_9.sce#S##109078
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.8#thickness of crystal#Ex20_8.sce#1538/CH20/EX20.8/Ex20_8.sce#S##109077
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.7#potential differnce#Ex20_7.sce#1538/CH20/EX20.7/Ex20_7.sce#S##109076
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.6#measurement of polarization#Ex20_6.sce#1538/CH20/EX20.6/Ex20_6.sce#S##109075
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.5#measurement of polarization#Ex20_5.sce#1538/CH20/EX20.5/Ex20_5.sce#S##109074
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.4#measurement of polarization#Ex20_4.sce#1538/CH20/EX20.4/Ex20_4.sce#S##109073
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.3#polarization#Ex20_3.sce#1538/CH20/EX20.3/Ex20_3.sce#S##109072
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.2#dielectric loss#Ex20_2.sce#1538/CH20/EX20.2/Ex20_2.sce#S##109071
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.10#capacitor#Ex20_10.sce#1538/CH20/EX20.10/Ex20_10.sce#S##109079
+20#dielectric ferroelectric piezoelastic and pyroelastic materials #20.1#dielectric strength#Ex20_1.sce#1538/CH20/EX20.1/Ex20_1.sce#S##109070
+19#semiconducting materials properties behaviour and applications#19.9#hall effect#Ex19_9.sce#1538/CH19/EX19.9/Ex19_9.sce#S##109064
+19#semiconducting materials properties behaviour and applications#19.8#density of state#Ex19_8.sce#1538/CH19/EX19.8/Ex19_8.sce#S##109063
+19#semiconducting materials properties behaviour and applications#19.7#density of state#Ex19_7.sce#1538/CH19/EX19.7/Ex19_7.sce#S##109062
+19#semiconducting materials properties behaviour and applications#19.6#extrinsic semiconductor#Ex19_6.sce#1538/CH19/EX19.6/Ex19_6.sce#S##109061
+19#semiconducting materials properties behaviour and applications#19.5#extrinsic semiconductor#Ex19_5.sce#1538/CH19/EX19.5/Ex19_5.sce#S##109060
+19#semiconducting materials properties behaviour and applications#19.4#extrinsic semiconductor#Ex19_4.sce#1538/CH19/EX19.4/Ex19_4.sce#S##109059
+19#semiconducting materials properties behaviour and applications#19.3#resistivity#Ex19_3.sce#1538/CH19/EX19.3/Ex19_3.sce#S##109058
+19#semiconducting materials properties behaviour and applications#19.2#intrinsic charge carriers#Ex19_2.sce#1538/CH19/EX19.2/Ex19_2.sce#S##109057
+19#semiconducting materials properties behaviour and applications#19.19#band gap#Ex19_19.sce#1538/CH19/EX19.19/Ex19_19.sce#S##109069
+19#semiconducting materials properties behaviour and applications#19.18#fermienergy #Ex19_18.sce#1538/CH19/EX19.18/Ex19_18.sce#S##109068
+19#semiconducting materials properties behaviour and applications#19.15#hall angle#Ex19_15.sce#1538/CH19/EX19.15/Ex19_15.sce#S##109067
+19#semiconducting materials properties behaviour and applications#19.14#hall effect#Ex19_14.sce#1538/CH19/EX19.14/Ex19_14.sce#S##109066
+19#semiconducting materials properties behaviour and applications#19.13#hall effect#Ex19_13.sce#1538/CH19/EX19.13/Ex19_13.sce#S##109065
+19#semiconducting materials properties behaviour and applications#19.1#fermi energy#Ex19_1.sce#1538/CH19/EX19.1/Ex19_1.sce#S##109056
+18#electron theories and conducting materialproperties behaviour and application#18.6#resistivity#Ex18_6.sce#1538/CH18/EX18.6/Ex18_6.sce#S##109055
+18#electron theories and conducting materialproperties behaviour and application#18.5#temp coefficient of resistance#Ex18_5.sce#1538/CH18/EX18.5/Ex18_5.sce#S##109054
+18#electron theories and conducting materialproperties behaviour and application#18.4#specific resistance#Ex18_4.sce#1538/CH18/EX18.4/Ex18_4.sce#S##109053
+18#electron theories and conducting materialproperties behaviour and application#18.3#drift velocity#Ex18_3.sce#1538/CH18/EX18.3/Ex18_3.sce#S##109052
+18#electron theories and conducting materialproperties behaviour and application#18.2#electric field#Ex18_2.sce#1538/CH18/EX18.2/Ex18_2.sce#S##109051
+18#electron theories and conducting materialproperties behaviour and application#18.1#energy#Ex18_1.sce#1538/CH18/EX18.1/Ex18_1.sce#S##109050
+17#corrosion and oxidation#17.4#protection against corrosion#Ex17_4.sce#1538/CH17/EX17.4/Ex17_4.sce#S##109049
+17#corrosion and oxidation#17.3#protection against corrosion#Ex17_3.sce#1538/CH17/EX17.3/Ex17_3.sce#S##109048
+17#corrosion and oxidation#17.2#laws of corrosion#Ex17_2.sce#1538/CH17/EX17.2/Ex17_2.sce#S##109047
+17#corrosion and oxidation#17.1#oxidation of nickel#Ex17_1.sce#1538/CH17/EX17.1/Ex17_1.sce#S##109046
+16#Heat Treatment#16.3#annealing#Ex16_3.sce#1538/CH16/EX16.3/Ex16_3.sce#S##109045
+16#Heat Treatment#16.1#allotropy#Ex16_1.sce#1538/CH16/EX16.1/Ex16_1.sce#S##109044
+15#Phase Transformation#15.7#recovery#Ex15_7.sce#1538/CH15/EX15.7/Ex15_7.sce#S##109043
+15#Phase Transformation#15.5#strengthening#Ex15_5.sce#1538/CH15/EX15.5/Ex15_5.sce#S##109042
+15#Phase Transformation#15.3#homogenous nucleation#Ex15_3.sce#1538/CH15/EX15.3/Ex15_3.sce#S##109041
+15#Phase Transformation#15.2#homogeneous nucleation#Ex15_2.sce#1538/CH15/EX15.2/Ex15_2.sce#S##109040
+15#Phase Transformation#15.1#arrhenius concept#Ex15_1.sce#1538/CH15/EX15.1/Ex15_1.sce#S##109039
+14#composite material#14.5#longitudinal strength and modulus#Ex14_5.sce#1538/CH14/EX14.5/Ex14_5.sce#S##109038
+14#composite material#14.4#composite#Ex14_4.sce#1538/CH14/EX14.4/Ex14_4.sce#S##109037
+14#composite material#14.3#composite material#Ex14_3.sce#1538/CH14/EX14.3/Ex14_3.sce#S##109036
+14#composite material#14.2#composite material#Ex14_2.sce#1538/CH14/EX14.2/Ex14_2.sce#S##109035
+14#composite material#14.1#composite material#Ex14_1.sce#1538/CH14/EX14.1/Ex14_1.sce#S##109034
+12#organic materials plastics rubber elastomers and wood#12.4#vulcanization of rubber#Ex12_4.sce#1538/CH12/EX12.4/Ex12_4.sce#S##109033
+12#organic materials plastics rubber elastomers and wood#12.3#natural rubber#Ex12_3.sce#1538/CH12/EX12.3/Ex12_3.sce#S##109032
+12#organic materials plastics rubber elastomers and wood#12.2#polymers#Ex12_2.sce#1538/CH12/EX12.2/Ex12_2.sce#S##109031
+12#organic materials plastics rubber elastomers and wood#12.1#polymers#Ex12_1.sce#1538/CH12/EX12.1/Ex12_1.sce#S##109030
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.9#surface energy#Ex11_9.sce#1538/CH11/EX11.9/Ex11_9.sce#S##109027
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.8#youngs modulus#Ex11_8.sce#1538/CH11/EX11.8/Ex11_8.sce#S##109026
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.7#relaxation time#Ex11_7.sce#1538/CH11/EX11.7/Ex11_7.sce#S##109025
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.6#stress strain#Ex11_6.sce#1538/CH11/EX11.6/Ex11_6.sce#S##109024
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.5#stress and strain#Ex11_5.sce#1538/CH11/EX11.5/Ex11_5.sce#S##109023
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.4#rate of straining#Ex11_4.sce#1538/CH11/EX11.4/Ex11_4.sce#S##109022
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.3#dislocation density#Ex11_3.sce#1538/CH11/EX11.3/Ex11_3.sce#S##109021
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.2#plastic deformation#Ex11_2.sce#1538/CH11/EX11.2/Ex11_2.sce#S##109020
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.11#crack length#Ex11_11.sce#1538/CH11/EX11.11/Ex11_11.sce#S##109029
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.10#griffiths energy#Ex11_10.sce#1538/CH11/EX11.10/Ex11_10.sce#S##109028
+11#Theories of Inelastic Anelastic and Viscoelastic Deformations and Fractura#11.1#shear stress#Ex11_1.sce#1538/CH11/EX11.1/Ex11_1.sce#S##109019
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.9#ASTM Number#Ex10_9.sce#1538/CH10/EX10.9/Ex10_9.sce#S##109016
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.8#ASTM Number#Ex10_8.sce#1538/CH10/EX10.8/Ex10_8.sce#S##109017
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.7#yield strength#Ex10_7.sce#1538/CH10/EX10.7/Ex10_7.sce#S##109015
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.6#endurance stress#Ex10_6.sce#1538/CH10/EX10.6/Ex10_6.sce#S##109014
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.5#mechanical properties#Ex10_5.sce#1538/CH10/EX10.5/Ex10_5.sce#S##109013
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.4#BHN Number#Ex10_4.sce#1538/CH10/EX10.4/Ex10_4.sce#S##109012
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.3#Mechanical properties#Ex10_3.sce#1538/CH10/EX10.3/Ex10_3.sce#S##109011
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.2#stress strain#Ex10_2.sce#1538/CH10/EX10.2/Ex10_2.sce#S##109010
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.16#ASTM Number#Ex10_16.sce#1538/CH10/EX10.16/Ex10_16.sce#S##109018
+10#Mechanical Tests and Factors Affecting Mechanical Properties#10.1#stress strain#Ex10_1.sce#1538/CH10/EX10.1/Ex10_1.sce#S##109009
+9#mechanical properties#9.7#creep#Ex9_7.sce#1538/CH9/EX9.7/Ex9_7.sce#S##109008
+9#mechanical properties#9.5#stress#Ex9_5.sce#1538/CH9/EX9.5/Ex9_5.sce#S##109007
+9#mechanical properties#9.4#stress strain#Ex9_4.sce#1538/CH9/EX9.4/Ex9_4.sce#S##109006
+9#mechanical properties#9.1#tensile strain and youngs modulus#Ex9_1.sce#1538/CH9/EX9.1/Ex9_1.sce#S##109005
+8#phase and phase diagrams#8.7#eutectoid mixture of pearlite#Ex8_7.sce#1538/CH8/EX8.7/Ex8_7.sce#S##109004
+8#phase and phase diagrams#8.6#eutectic system#Ex8_6.sce#1538/CH8/EX8.6/Ex8_6.sce#S##109003
+8#phase and phase diagrams#8.5#eutectic system#Ex8_5.sce#1538/CH8/EX8.5/Ex8_5.sce#S##109002
+8#phase and phase diagrams#8.4#peritectic system#Ex8_4.sce#1538/CH8/EX8.4/Ex8_4.sce#S##109001
+8#phase and phase diagrams#8.2#composition of alloy#Ex8_2.sce#1538/CH8/EX8.2/Ex8_2.sce#S##109000
+8#phase and phase diagrams#8.1#gibbs phase rule#Ex8_1.sce#1538/CH8/EX8.1/Ex8_1.sce#S##108999
+7#diffusion in solids#7.7#activation energy#Ex7_7.sce#1538/CH7/EX7.7/Ex7_7.sce#S##108998
+7#diffusion in solids#7.6#diffusivity#Ex7_6.sce#1538/CH7/EX7.6/Ex7_6.sce#S##108997
+7#diffusion in solids#7.5#depth of material#Ex7_5.sce#1538/CH7/EX7.5/Ex7_5.sce#S##108996
+7#diffusion in solids#7.4#duration for which material is to kept at high temperature#Ex7_4.sce#1538/CH7/EX7.4/Ex7_4.sce#S##108995
+7#diffusion in solids#7.3#depth for post machining#Ex7_3.sce#1538/CH7/EX7.3/Ex7_3.sce#S##108994
+7#diffusion in solids#7.2#depth of carburization#Ex7_2.sce#1538/CH7/EX7.2/Ex7_2.sce#S##108993
+7#diffusion in solids#7.1#Ficks law#Ex7_1.sce#1538/CH7/EX7.1/Ex7_1.sce#S##108992
+6#Crystal Imperfection#6.8#spacing between dislocation#Ex6_8.sce#1538/CH6/EX6.8/Ex6_8.sce#S##108991
+6#Crystal Imperfection#6.7#line energy of dislocation#Ex6_7.sce#1538/CH6/EX6.7/Ex6_7.sce#S##108990
+6#Crystal Imperfection#6.6#number of vacncies#Ex6_6.sce#1538/CH6/EX6.6/Ex6_6.sce#S##108989
+6#Crystal Imperfection#6.5#enrgy of dislocation#Ex6_5.sce#1538/CH6/EX6.5/Ex6_5.sce#S##108988
+6#Crystal Imperfection#6.3#ratio of enthalpy of formation#Ex6_3.sce#1538/CH6/EX6.3/Ex6_3.sce#S##108987
+6#Crystal Imperfection#6.2#enthalpy of formation of vacancies#Ex6_2.sce#1538/CH6/EX6.2/Ex6_2.sce#S##108986
+6#Crystal Imperfection#6.1#frenkel defect#Ex6_1.sce#1538/CH6/EX6.1/Ex6_1.sce#S##108984
+5#Material Characterization#5.8#boundary area using ASTM Number#Ex5_8.sce#1538/CH5/EX5.8/Ex5_8.sce#S##108985
+5#Material Characterization#5.7#area density and grain size of grains#Ex5_7.sce#1538/CH5/EX5.7/Ex5_7.sce#S##108983
+5#Material Characterization#5.6#ASTM Number#Ex5_6.sce#1538/CH5/EX5.6/Ex5_6.sce#S##108982
+5#Material Characterization#5.5#structure and lattice parameter of a material#Ex5_5.sce#1538/CH5/EX5.5/Ex5_5.sce#S##108981
+5#Material Characterization#5.3#miller indices of reflecting planes#Ex5_3.sce#1538/CH5/EX5.3/Ex5_3.sce#S##108980
+5#Material Characterization#5.2#lattice parameter and miller indices#Ex5_2.sce#1538/CH5/EX5.2/Ex5_2.sce#S##108979
+5#Material Characterization#5.1#diffraction#Ex5_1.sce#1538/CH5/EX5.1/Ex5_1.sce#S##108978
+4#soid structure and allotropy#4.7#density of crystal#Ex4_7.sce#1538/CH4/EX4.7/Ex4_7.sce#S##108977
+4#soid structure and allotropy#4.6#density of crystal#Ex4_6.sce#1538/CH4/EX4.6/Ex4_6.sce#S##108976
+4#soid structure and allotropy#4.3#radius of cation#Ex4_3.sce#1538/CH4/EX4.3/Ex4_3.sce#S##108975
+4#soid structure and allotropy#4.2#HCP Structure#Ex4_2.sce#1538/CH4/EX4.2/Ex4_2.sce#S##108974
+4#soid structure and allotropy#4.1#structural transformation#Ex4_1.sce#1538/CH4/EX4.1/Ex4_1.sce#S##108973
+3#crystal geometry of metal and miller indices#3.9#miller indices#Ex3_9.sce#1538/CH3/EX3.9/Ex3_9.sce#S##108967
+3#crystal geometry of metal and miller indices#3.8#miller indices#Ex3_8.sce#1538/CH3/EX3.8/Ex3_8.sce#S##108966
+3#crystal geometry of metal and miller indices#3.7#miller indices#Ex3_7.sce#1538/CH3/EX3.7/Ex3_7.sce#S##108965
+3#crystal geometry of metal and miller indices#3.6#density#Ex3_6.sce#1538/CH3/EX3.6/Ex3_6.sce#S##108964
+3#crystal geometry of metal and miller indices#3.5#density#Ex3_5.sce#1538/CH3/EX3.5/Ex3_5.sce#S##108963
+3#crystal geometry of metal and miller indices#3.4#density#Ex3_4.sce#1538/CH3/EX3.4/Ex3_4.sce#S##108962
+3#crystal geometry of metal and miller indices#3.3#packing fraction#Ex3_3.sce#1538/CH3/EX3.3/Ex3_3.sce#S##108961
+3#crystal geometry of metal and miller indices#3.17#planer density#Ex3_17.sce#1538/CH3/EX3.17/Ex3_17.sce#S##108972
+3#crystal geometry of metal and miller indices#3.15#linear density#Ex3_15.sce#1538/CH3/EX3.15/Ex3_15.sce#S##108971
+3#crystal geometry of metal and miller indices#3.14#linear density#Ex3_14.sce#1538/CH3/EX3.14/Ex3_14.sce#S##108970
+3#crystal geometry of metal and miller indices#3.12#interplaner spacing#Ex3_12.sce#1538/CH3/EX3.12/Ex3_12.sce#S##108969
+3#crystal geometry of metal and miller indices#3.11#interplaner spacing#Ex3_11.sce#1538/CH3/EX3.11/Ex3_11.sce#S##109105
+2#atomic model and bonding in solids#2.6#uncertainity principle#Ex2_6.sce#1538/CH2/EX2.6/Ex2_6.sce#S##108957
+2#atomic model and bonding in solids#2.5#relativistic atomic model#Ex2_5.sce#1538/CH2/EX2.5/Ex2_5.sce#S##108956
+2#atomic model and bonding in solids#2.4#bohrs theory#Ex2_4.sce#1538/CH2/EX2.4/Ex2_4.sce#S##108955
+2#atomic model and bonding in solids#2.3#Bohrs theory#Ex2_3.sce#1538/CH2/EX2.3/Ex2_3.sce#S##108954
+2#atomic model and bonding in solids#2.2#scattering angles#Ex2_2.sce#1538/CH2/EX2.2/Ex2_2.sce#S##108953
+2#atomic model and bonding in solids#2.12#ionic character#Ex2_12.sce#1538/CH2/EX2.12/Ex2_12.sce#S##108960
+2#atomic model and bonding in solids#2.11#dipole moment#Ex2_11.sce#1538/CH2/EX2.11/Ex2_11.sce#S##108959
+2#atomic model and bonding in solids#2.10#ionization potential#Ex2_10.sce#1538/CH2/EX2.10/Ex2_10.sce#S##108958
+2#atomic model and bonding in solids#2.1#distance of closest approach#Ex2_1.sce#1538/CH2/EX2.1/Ex2_1.sce#S##102763

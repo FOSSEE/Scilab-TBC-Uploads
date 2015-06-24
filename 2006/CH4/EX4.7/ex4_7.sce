@@ -1,0 +1,19 @@
+clc;
+D=150; // Cylinder Diameter in mm
+L=200; // Piston stroke in mm
+C=0.05; // Clearance factor
+p1=15; // Steam inlet conditions (saturated) in bar
+p4=1; // Exhaust or back pressure in bar
+p2=p1; // Constant pressure process
+p5=p4; // Constant pressure process
+Vp=(%pi*(D*10^-3)^2*L*10^-3)/4; // Swept volme of cylinder
+Vc=C*Vp; // Clearance volume of cylinder
+V3=Vc+Vp; // Total volume of cylinder
+V1=Vc; // Clearance volume
+V6=V1; // constant volume process
+V4=V3; // constant volume process
+V5=Vc+0.3*Vp; // Compression begins at 30% of stroke
+V2=Vc+0.4*Vp; // Cut-off occurs at 40% of stroke
+p6=p5*(V5/V6); // Pressure after compression
+Wcycle=(p1*10^2*(V2-V1))+(p2*10^2*V2*log (V3/V2))-(p4*10^2*(V4-V5))-(p5*10^2*V5* log(V5/V6)); // Work per Cycle
+disp("kJ",Wcycle,"Work per cycle =");

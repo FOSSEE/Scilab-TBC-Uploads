@@ -1,0 +1,370 @@
+13#One Dimensional Compressible Fluid Flow#13.5#Engineering Thermodynamics by Onkar Singh Chapter 13 Example 5#Ex13_5.sce#2873/CH13/EX13.5/Ex13_5.sce#S##105112
+13#One Dimensional Compressible Fluid Flow#13.4#Engineering Thermodynamics by Onkar Singh Chapter 13 Example 4#Ex13_4.sce#2873/CH13/EX13.4/Ex13_4.sce#S##105111
+13#One Dimensional Compressible Fluid Flow#13.3#Engineering Thermodynamics by Onkar Singh Chapter 13 Example 3#Ex13_3.sce#2873/CH13/EX13.3/Ex13_3.sce#S##105110
+13#One Dimensional Compressible Fluid Flow#13.2#Engineering Thermodynamics by Onkar Singh Chapter 13 Example 2#Ex13_2.sce#2873/CH13/EX13.2/Ex13_2.sce#S##105109
+13#One Dimensional Compressible Fluid Flow#13.2#Engineering Thermodynamics by Onkar Singh Chapter 13 Example 2#Ex13_2.jpg#2873/CH13/EX13.2/Ex13_2.jpg#R##107200
+13#One Dimensional Compressible Fluid Flow#13.1#Engineering Thermodynamics by Onkar Singh Chapter 13 Example 1#Ex13_1.sce#2873/CH13/EX13.1/Ex13_1.sce#S##105108
+12#Introduction To Heat Transfer#12.9#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 9#Ex12_9.sce#2873/CH12/EX12.9/Ex12_9.sce#S##107468
+12#Introduction To Heat Transfer#12.8#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 8#Ex12_8.sce#2873/CH12/EX12.8/Ex12_8.sce#S##107466
+12#Introduction To Heat Transfer#12.8#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 8#Ex12_8.jpg#2873/CH12/EX12.8/Ex12_8.jpg#R##107467
+12#Introduction To Heat Transfer#12.7#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 7#Ex12_7.sce#2873/CH12/EX12.7/Ex12_7.sce#S##107464
+12#Introduction To Heat Transfer#12.7#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 7#Ex12_7.jpg#2873/CH12/EX12.7/Ex12_7.jpg#R##107465
+12#Introduction To Heat Transfer#12.6#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 6#Ex12_6.sce#2873/CH12/EX12.6/Ex12_6.sce#S##107463
+12#Introduction To Heat Transfer#12.5#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 5#Ex12_5.sce#2873/CH12/EX12.5/Ex12_5.sce#S##107461
+12#Introduction To Heat Transfer#12.5#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 5#Ex12_5.jpg#2873/CH12/EX12.5/Ex12_5.jpg#R##107462
+12#Introduction To Heat Transfer#12.4#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 4#Ex12_4.sce#2873/CH12/EX12.4/Ex12_4.sce#S##107460
+12#Introduction To Heat Transfer#12.3#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 3#Ex12_3.sce#2873/CH12/EX12.3/Ex12_3.sce#S##107457
+12#Introduction To Heat Transfer#12.3#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 3#Ex12_3_1.jpg#2873/CH12/EX12.3/Ex12_3_1.jpg#R##107458
+12#Introduction To Heat Transfer#12.3#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 3#Ex12_3_2.jpg#2873/CH12/EX12.3/Ex12_3_2.jpg#R##107459
+12#Introduction To Heat Transfer#12.2#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 2#Ex12_2.sce#2873/CH12/EX12.2/Ex12_2.sce#S##107455
+12#Introduction To Heat Transfer#12.2#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 2#Ex12_2.jpg#2873/CH12/EX12.2/Ex12_2.jpg#R##107456
+12#Introduction To Heat Transfer#12.12#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 12#Ex12_12.sce#2873/CH12/EX12.12/Ex12_12.sce#S##107472
+12#Introduction To Heat Transfer#12.11#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 11#Ex12_11.sce#2873/CH12/EX12.11/Ex12_11.sce#S##107471
+12#Introduction To Heat Transfer#12.10#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 10#Ex12_10.sce#2873/CH12/EX12.10/Ex12_10.sce#S##107469
+12#Introduction To Heat Transfer#12.10#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 10#Ex12_10.jpg#2873/CH12/EX12.10/Ex12_10.jpg#R##107470
+12#Introduction To Heat Transfer#12.1#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 1#Ex12_1.sce#2873/CH12/EX12.1/Ex12_1.sce#S##107453
+12#Introduction To Heat Transfer#12.1#Engineering Thermodynamics by Onkar Singh Chapter 12 Example 1#Ex12_1.jpg#2873/CH12/EX12.1/Ex12_1.jpg#R##107454
+11#Introduction To Refrigeration And Air Conditioning#11.9#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 9#Ex11_9.sce#2873/CH11/EX11.9/Ex11_9.sce#S##107436
+11#Introduction To Refrigeration And Air Conditioning#11.9#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 9#Ex11_9.jpg#2873/CH11/EX11.9/Ex11_9.jpg#R##107437
+11#Introduction To Refrigeration And Air Conditioning#11.8#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 8#Ex11_8.sce#2873/CH11/EX11.8/Ex11_8.sce#S##107434
+11#Introduction To Refrigeration And Air Conditioning#11.8#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 8#Ex11_8.jpg#2873/CH11/EX11.8/Ex11_8.jpg#R##107435
+11#Introduction To Refrigeration And Air Conditioning#11.7#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 7#Ex11_7.sce#2873/CH11/EX11.7/Ex11_7.sce#S##107432
+11#Introduction To Refrigeration And Air Conditioning#11.7#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 7#Ex11_7.jpg#2873/CH11/EX11.7/Ex11_7.jpg#R##107433
+11#Introduction To Refrigeration And Air Conditioning#11.6#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 6#Ex11_6.sce#2873/CH11/EX11.6/Ex11_6.sce#S##107430
+11#Introduction To Refrigeration And Air Conditioning#11.6#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 6#Ex11_6.jpg#2873/CH11/EX11.6/Ex11_6.jpg#R##107431
+11#Introduction To Refrigeration And Air Conditioning#11.5#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 5#Ex11_5.sce#2873/CH11/EX11.5/Ex11_5.sce#S##107428
+11#Introduction To Refrigeration And Air Conditioning#11.5#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 5#Ex11_5.jpg#2873/CH11/EX11.5/Ex11_5.jpg#R##107429
+11#Introduction To Refrigeration And Air Conditioning#11.4#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 4#Ex11_4.sce#2873/CH11/EX11.4/Ex11_4.sce#S##107426
+11#Introduction To Refrigeration And Air Conditioning#11.4#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 4#Ex11_4.jpg#2873/CH11/EX11.4/Ex11_4.jpg#R##107427
+11#Introduction To Refrigeration And Air Conditioning#11.3#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 3#Ex11_3.sce#2873/CH11/EX11.3/Ex11_3.sce#S##107424
+11#Introduction To Refrigeration And Air Conditioning#11.3#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 3#Ex11_3.jpg#2873/CH11/EX11.3/Ex11_3.jpg#R##107425
+11#Introduction To Refrigeration And Air Conditioning#11.2#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 2#Ex11_2.sce#2873/CH11/EX11.2/Ex11_2.sce#S##107423
+11#Introduction To Refrigeration And Air Conditioning#11.16#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 16#Ex11_16.sce#2873/CH11/EX11.16/Ex11_16.sce#S##107452
+11#Introduction To Refrigeration And Air Conditioning#11.15#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 15#Ex11_15.sce#2873/CH11/EX11.15/Ex11_15.sce#S##107450
+11#Introduction To Refrigeration And Air Conditioning#11.15#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 15#Ex11_15.jpg#2873/CH11/EX11.15/Ex11_15.jpg#R##107451
+11#Introduction To Refrigeration And Air Conditioning#11.14#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 14#Ex11_14.sce#2873/CH11/EX11.14/Ex11_14.sce#S##107448
+11#Introduction To Refrigeration And Air Conditioning#11.14#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 14#Ex11_14.jpg#2873/CH11/EX11.14/Ex11_14.jpg#R##107449
+11#Introduction To Refrigeration And Air Conditioning#11.13#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 13#Ex11_13.sce#2873/CH11/EX11.13/Ex11_13.sce#S##107446
+11#Introduction To Refrigeration And Air Conditioning#11.13#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 13#Ex11_13.jpg#2873/CH11/EX11.13/Ex11_13.jpg#R##107447
+11#Introduction To Refrigeration And Air Conditioning#11.12#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 12#Ex11_12.sce#2873/CH11/EX11.12/Ex11_12.sce#S##107444
+11#Introduction To Refrigeration And Air Conditioning#11.12#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 12#Ex11_12.jpg#2873/CH11/EX11.12/Ex11_12.jpg#R##107445
+11#Introduction To Refrigeration And Air Conditioning#11.11#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 11#Ex11_11.sce#2873/CH11/EX11.11/Ex11_11.sce#S##107441
+11#Introduction To Refrigeration And Air Conditioning#11.11#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 11#Ex11_11_1.jpg#2873/CH11/EX11.11/Ex11_11_1.jpg#R##107442
+11#Introduction To Refrigeration And Air Conditioning#11.11#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 11#Ex11_11_2.jpg#2873/CH11/EX11.11/Ex11_11_2.jpg#R##107443
+11#Introduction To Refrigeration And Air Conditioning#11.10#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 10#Ex11_10.sce#2873/CH11/EX11.10/Ex11_10.sce#S##107438
+11#Introduction To Refrigeration And Air Conditioning#11.10#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 10#Ex11_10_1.jpg#2873/CH11/EX11.10/Ex11_10_1.jpg#R##107439
+11#Introduction To Refrigeration And Air Conditioning#11.10#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 10#Ex11_10_2.jpg#2873/CH11/EX11.10/Ex11_10_2.jpg#R##107440
+11#Introduction To Refrigeration And Air Conditioning#11.1#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 1#Ex11_1.sce#2873/CH11/EX11.1/Ex11_1.sce#S##107421
+11#Introduction To Refrigeration And Air Conditioning#11.1#Engineering Thermodynamics by Onkar Singh Chapter 11 Example 1#Ex11_1.jpg#2873/CH11/EX11.1/Ex11_1.jpg#R##107422
+10#Introduction To Internal Combustion Engines#10.9#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 9#Ex10_9.sce#2873/CH10/EX10.9/Ex10_9.sce#S##107410
+10#Introduction To Internal Combustion Engines#10.9#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 9#Ex10_9.jpg#2873/CH10/EX10.9/Ex10_9.jpg#R##107411
+10#Introduction To Internal Combustion Engines#10.8#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 8#Ex10_8.sce#2873/CH10/EX10.8/Ex10_8.sce#S##107409
+10#Introduction To Internal Combustion Engines#10.7#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 7#Ex10_7.sce#2873/CH10/EX10.7/Ex10_7.sce#S##107408
+10#Introduction To Internal Combustion Engines#10.6#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 6#Ex10_6.sce#2873/CH10/EX10.6/Ex10_6.sce#S##107407
+10#Introduction To Internal Combustion Engines#10.5#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 5#Ex10_5.sce#2873/CH10/EX10.5/Ex10_5.sce#S##107406
+10#Introduction To Internal Combustion Engines#10.4#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 4#Ex10_4.sce#2873/CH10/EX10.4/Ex10_4.sce#S##107405
+10#Introduction To Internal Combustion Engines#10.3#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 3#Ex10_3.sce#2873/CH10/EX10.3/Ex10_3.sce#S##107404
+10#Introduction To Internal Combustion Engines#10.2#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 2#Ex10_2.sce#2873/CH10/EX10.2/Ex10_2.sce#S##107402
+10#Introduction To Internal Combustion Engines#10.13#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 13#Ex10_13.sce#2873/CH10/EX10.13/Ex10_13.sce#S##107419
+10#Introduction To Internal Combustion Engines#10.13#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 13#Ex10_13.jpg#2873/CH10/EX10.13/Ex10_13.jpg#R##107420
+10#Introduction To Internal Combustion Engines#10.12#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 12#Ex10_12.sce#2873/CH10/EX10.12/Ex10_12.sce#S##107417
+10#Introduction To Internal Combustion Engines#10.12#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 12#Ex10_12.jpg#2873/CH10/EX10.12/Ex10_12.jpg#R##107418
+10#Introduction To Internal Combustion Engines#10.11#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 11#Ex10_11.sce#2873/CH10/EX10.11/Ex10_11.sce#S##107415
+10#Introduction To Internal Combustion Engines#10.11#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 11#Ex10_11.jpg#2873/CH10/EX10.11/Ex10_11.jpg#R##107416
+10#Introduction To Internal Combustion Engines#10.10#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 10#Ex10_10.sce#2873/CH10/EX10.10/Ex10_10.sce#S##107412
+10#Introduction To Internal Combustion Engines#10.10#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 10#Ex10_10.jpg#2873/CH10/EX10.10/Ex10_10.jpg#R##107413
+10#Introduction To Internal Combustion Engines#10.1#Engineering Thermodynamics by Onkar Singh Chapter 10 Example 1#Ex10_1.sce#2873/CH10/EX10.1/Ex10_1.sce#S##107401
+9#Gas Power Cycles#9.9#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 9#Ex9_9.sce#2873/CH9/EX9.9/Ex9_9.sce#S##107709
+9#Gas Power Cycles#9.9#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 9#Ex9_9_1.jpg#2873/CH9/EX9.9/Ex9_9_1.jpg#R##107710
+9#Gas Power Cycles#9.9#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 9#Ex9_9_2.jpg#2873/CH9/EX9.9/Ex9_9_2.jpg#R##107711
+9#Gas Power Cycles#9.8#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 8#Ex9_8.sce#2873/CH9/EX9.8/Ex9_8.sce#S##107707
+9#Gas Power Cycles#9.8#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 8#Ex9_8.jpg#2873/CH9/EX9.8/Ex9_8.jpg#R##107708
+9#Gas Power Cycles#9.7#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 7#Ex9_7.sce#2873/CH9/EX9.7/Ex9_7.sce#S##107706
+9#Gas Power Cycles#9.6#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 6#Ex9_6.sce#2873/CH9/EX9.6/Ex9_6.sce#S##107704
+9#Gas Power Cycles#9.6#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 6#Ex9_6.jpg#2873/CH9/EX9.6/Ex9_6.jpg#R##107705
+9#Gas Power Cycles#9.5#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 5#Ex9_5.sce#2873/CH9/EX9.5/Ex9_5.sce#S##107702
+9#Gas Power Cycles#9.5#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 5#Ex9_5.jpg#2873/CH9/EX9.5/Ex9_5.jpg#R##107703
+9#Gas Power Cycles#9.4#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 4#Ex9_4.sce#2873/CH9/EX9.4/Ex9_4.sce#S##107700
+9#Gas Power Cycles#9.4#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 4#Ex9_4.jpg#2873/CH9/EX9.4/Ex9_4.jpg#R##107701
+9#Gas Power Cycles#9.3#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 3#Ex9_3.sce#2873/CH9/EX9.3/Ex9_3.sce#S##107698
+9#Gas Power Cycles#9.3#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 3#Ex9_3.jpg#2873/CH9/EX9.3/Ex9_3.jpg#R##107699
+9#Gas Power Cycles#9.2#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 2#Ex9_2.sce#2873/CH9/EX9.2/Ex9_2.sce#S##107696
+9#Gas Power Cycles#9.2#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 2#Ex9_2.jpg#2873/CH9/EX9.2/Ex9_2.jpg#R##107697
+9#Gas Power Cycles#9.16#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 16#Ex9_16.sce#2873/CH9/EX9.16/Ex9_16.sce#S##107726
+9#Gas Power Cycles#9.16#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 16#Ex9_16.jpg#2873/CH9/EX9.16/Ex9_16.jpg#R##107727
+9#Gas Power Cycles#9.15#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 15#Ex9_15.sce#2873/CH9/EX9.15/Ex9_15.sce#S##107723
+9#Gas Power Cycles#9.15#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 15#Ex9_15_1.jpg#2873/CH9/EX9.15/Ex9_15_1.jpg#R##107724
+9#Gas Power Cycles#9.15#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 15#Ex9_15_2.pdf#2873/CH9/EX9.15/Ex9_15_2.pdf#R##107725
+9#Gas Power Cycles#9.14#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 14#Ex9_14.sce#2873/CH9/EX9.14/Ex9_14.sce#S##107720
+9#Gas Power Cycles#9.14#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 14#Ex9_14_1.jpg#2873/CH9/EX9.14/Ex9_14_1.jpg#R##107721
+9#Gas Power Cycles#9.14#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 14#Ex9_14_2.jpg#2873/CH9/EX9.14/Ex9_14_2.jpg#R##107722
+9#Gas Power Cycles#9.13#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 13#Ex9_13.sce#2873/CH9/EX9.13/Ex9_13.sce#S##107718
+9#Gas Power Cycles#9.13#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 13#Ex9_13.jpg#2873/CH9/EX9.13/Ex9_13.jpg#R##107719
+9#Gas Power Cycles#9.12#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 12#Ex9_12.sce#2873/CH9/EX9.12/Ex9_12.sce#S##107716
+9#Gas Power Cycles#9.12#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 12#Ex9_12.jpg#2873/CH9/EX9.12/Ex9_12.jpg#R##107717
+9#Gas Power Cycles#9.11#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 11#Ex9_11.sce#2873/CH9/EX9.11/Ex9_11.sce#S##107714
+9#Gas Power Cycles#9.11#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 11#Ex9_11.jpg#2873/CH9/EX9.11/Ex9_11.jpg#R##107715
+9#Gas Power Cycles#9.10#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 10#Ex9_10.sce#2873/CH9/EX9.10/Ex9_10.sce#S##107712
+9#Gas Power Cycles#9.10#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 10#Ex9_10.jpg#2873/CH9/EX9.10/Ex9_10.jpg#R##107713
+9#Gas Power Cycles#9.1#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 1#Ex9_1.sce#2873/CH9/EX9.1/Ex9_1.sce#S##107694
+9#Gas Power Cycles#9.1#Engineering Thermodynamics by Onkar Singh Chapter 9 Example 1#Ex9_1.jpg#2873/CH9/EX9.1/Ex9_1.jpg#R##107695
+8#Vapour Power Cycles#8.9#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 9#Ex8_9.sce#2873/CH8/EX8.9/Ex8_9.sce#S##107618
+8#Vapour Power Cycles#8.9#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 9#Ex8_9_1.jpg#2873/CH8/EX8.9/Ex8_9_1.jpg#R##107619
+8#Vapour Power Cycles#8.9#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 9#Ex8_9_2.jpg#2873/CH8/EX8.9/Ex8_9_2.jpg#R##107620
+8#Vapour Power Cycles#8.8#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 8#Ex8_8.sce#2873/CH8/EX8.8/Ex8_8.sce#S##107615
+8#Vapour Power Cycles#8.8#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 8#Ex8_8_1.jpg#2873/CH8/EX8.8/Ex8_8_1.jpg#R##107616
+8#Vapour Power Cycles#8.8#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 8#Ex8_8_2.pdf#2873/CH8/EX8.8/Ex8_8_2.pdf#R##107617
+8#Vapour Power Cycles#8.7#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 7#Ex8_7.sce#2873/CH8/EX8.7/Ex8_7.sce#S##107612
+8#Vapour Power Cycles#8.7#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 7#Ex8_7_1.jpg#2873/CH8/EX8.7/Ex8_7_1.jpg#R##107613
+8#Vapour Power Cycles#8.7#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 7#Ex8_7_2.pdf#2873/CH8/EX8.7/Ex8_7_2.pdf#R##107614
+8#Vapour Power Cycles#8.6#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 6#Ex8_6.sce#2873/CH8/EX8.6/Ex8_6.sce#S##107610
+8#Vapour Power Cycles#8.6#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 6#Ex8_6.pdf#2873/CH8/EX8.6/Ex8_6.pdf#R##107611
+8#Vapour Power Cycles#8.5#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 5#Ex8_5.sce#2873/CH8/EX8.5/Ex8_5.sce#S##107607
+8#Vapour Power Cycles#8.5#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 5#Ex8_5_1.jpg#2873/CH8/EX8.5/Ex8_5_1.jpg#R##107608
+8#Vapour Power Cycles#8.5#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 5#Ex8_5_2.pdf#2873/CH8/EX8.5/Ex8_5_2.pdf#R##107609
+8#Vapour Power Cycles#8.4#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 4#Ex8_4.sce#2873/CH8/EX8.4/Ex8_4.sce#S##107604
+8#Vapour Power Cycles#8.4#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 4#Ex8_4_1.jpg#2873/CH8/EX8.4/Ex8_4_1.jpg#R##107605
+8#Vapour Power Cycles#8.4#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 4#Ex8_4_2.pdf#2873/CH8/EX8.4/Ex8_4_2.pdf#R##107606
+8#Vapour Power Cycles#8.3#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 3#Ex8_3.sce#2873/CH8/EX8.3/Ex8_3.sce#S##107601
+8#Vapour Power Cycles#8.3#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 3#Ex8_3_1.jpg#2873/CH8/EX8.3/Ex8_3_1.jpg#R##107602
+8#Vapour Power Cycles#8.3#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 3#Ex8_3_2.pdf#2873/CH8/EX8.3/Ex8_3_2.pdf#R##107603
+8#Vapour Power Cycles#8.2#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 2#Ex8_2.sce#2873/CH8/EX8.2/Ex8_2.sce#S##107598
+8#Vapour Power Cycles#8.2#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 2#Ex8_2_1.jpg#2873/CH8/EX8.2/Ex8_2_1.jpg#R##107599
+8#Vapour Power Cycles#8.2#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 2#Ex8_2_2.pdf#2873/CH8/EX8.2/Ex8_2_2.pdf#R##107600
+8#Vapour Power Cycles#8.18#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 18#Ex8_18.sce#2873/CH8/EX8.18/Ex8_18.sce#S##107642
+8#Vapour Power Cycles#8.18#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 18#Ex8_18_1.jpg#2873/CH8/EX8.18/Ex8_18_1.jpg#R##107643
+8#Vapour Power Cycles#8.18#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 18#Ex8_18_2.pdf#2873/CH8/EX8.18/Ex8_18_2.pdf#R##107644
+8#Vapour Power Cycles#8.17#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 17#Ex8_17.sce#2873/CH8/EX8.17/Ex8_17.sce#S##107640
+8#Vapour Power Cycles#8.17#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 17#Ex8_17.jpg#2873/CH8/EX8.17/Ex8_17.jpg#R##107641
+8#Vapour Power Cycles#8.16#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 16#Ex8_16.sce#2873/CH8/EX8.16/Ex8_16.sce#S##107637
+8#Vapour Power Cycles#8.16#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 16#Ex8_16_1.jpg#2873/CH8/EX8.16/Ex8_16_1.jpg#R##107638
+8#Vapour Power Cycles#8.16#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 16#Ex8_16_2.jpg#2873/CH8/EX8.16/Ex8_16_2.jpg#R##107639
+8#Vapour Power Cycles#8.15#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 15#Ex8_15.sce#2873/CH8/EX8.15/Ex8_15.sce#S##107634
+8#Vapour Power Cycles#8.15#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 15#Ex8_15_1.jpg#2873/CH8/EX8.15/Ex8_15_1.jpg#R##107635
+8#Vapour Power Cycles#8.15#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 15#Ex8_15_2.pdf#2873/CH8/EX8.15/Ex8_15_2.pdf#R##107636
+8#Vapour Power Cycles#8.14#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 14#Ex8_14.sce#2873/CH8/EX8.14/Ex8_14.sce#S##107632
+8#Vapour Power Cycles#8.14#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 14#Ex8_14.pdf#2873/CH8/EX8.14/Ex8_14.pdf#R##107633
+8#Vapour Power Cycles#8.13#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 13#Ex8_13.sce#2873/CH8/EX8.13/Ex8_13.sce#S##107629
+8#Vapour Power Cycles#8.13#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 13#Ex8_13.jpg#2873/CH8/EX8.13/Ex8_13.jpg#R##107631
+8#Vapour Power Cycles#8.12#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 12#Ex8_12.sce#2873/CH8/EX8.12/Ex8_12.sce#S##107627
+8#Vapour Power Cycles#8.12#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 12#Ex8_12.pdf#2873/CH8/EX8.12/Ex8_12.pdf#R##107628
+8#Vapour Power Cycles#8.11#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 11#Ex8_11.sce#2873/CH8/EX8.11/Ex8_11.sce#S##107624
+8#Vapour Power Cycles#8.11#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 11#Ex8_11_1.jpg#2873/CH8/EX8.11/Ex8_11_1.jpg#R##107625
+8#Vapour Power Cycles#8.11#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 11#Ex8_11_2.pdf#2873/CH8/EX8.11/Ex8_11_2.pdf#R##107626
+8#Vapour Power Cycles#8.10#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 10#Ex8_10.sce#2873/CH8/EX8.10/Ex8_10.sce#S##107621
+8#Vapour Power Cycles#8.10#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 10#Ex8_10_1.jpg#2873/CH8/EX8.10/Ex8_10_1.jpg#R##107622
+8#Vapour Power Cycles#8.10#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 10#Ex8_10_2.pdf#2873/CH8/EX8.10/Ex8_10_2.pdf#R##107623
+8#Vapour Power Cycles#8.1#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 1#Ex8_1.sce#2873/CH8/EX8.1/Ex8_1.sce#S##107595
+8#Vapour Power Cycles#8.1#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 1#Ex8_1_1.jpg#2873/CH8/EX8.1/Ex8_1_1.jpg#R##107596
+8#Vapour Power Cycles#8.1#Engineering Thermodynamics by Onkar Singh Chapter 8 Example 1#Ex8_1_2.pdf#2873/CH8/EX8.1/Ex8_1_2.pdf#R##107597
+7#Availability And General Thermodynamic Relations#7.9#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 9#Ex7_9.sce#2873/CH7/EX7.9/Ex7_9.sce#S##107488
+7#Availability And General Thermodynamic Relations#7.9#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 9#Ex7_9.jpg#2873/CH7/EX7.9/Ex7_9.jpg#R##107489
+7#Availability And General Thermodynamic Relations#7.8#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 8#Ex7_8.sce#2873/CH7/EX7.8/Ex7_8.sce#S##107485
+7#Availability And General Thermodynamic Relations#7.8#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 8#Ex7_8_1.jpg#2873/CH7/EX7.8/Ex7_8_1.jpg#R##107486
+7#Availability And General Thermodynamic Relations#7.8#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 8#Ex7_8_2.jpg#2873/CH7/EX7.8/Ex7_8_2.jpg#R##107487
+7#Availability And General Thermodynamic Relations#7.7#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 7#Ex7_7.sce#2873/CH7/EX7.7/Ex7_7.sce#S##107484
+7#Availability And General Thermodynamic Relations#7.6#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 6#Ex7_6.sce#2873/CH7/EX7.6/Ex7_6.sce#S##107483
+7#Availability And General Thermodynamic Relations#7.5#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 5#Ex7_5.sce#2873/CH7/EX7.5/Ex7_5.sce#S##107481
+7#Availability And General Thermodynamic Relations#7.5#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 5#Ex7_5.jpg#2873/CH7/EX7.5/Ex7_5.jpg#R##107482
+7#Availability And General Thermodynamic Relations#7.4#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 4#Ex7_4.sce#2873/CH7/EX7.4/Ex7_4.sce#S##107480
+7#Availability And General Thermodynamic Relations#7.3#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 3#Ex7_3.sce#2873/CH7/EX7.3/Ex7_3.sce#S##107477
+7#Availability And General Thermodynamic Relations#7.3#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 3#Ex7_3_1.jpg#2873/CH7/EX7.3/Ex7_3_1.jpg#R##107478
+7#Availability And General Thermodynamic Relations#7.3#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 3#Ex7_3_2.jpg#2873/CH7/EX7.3/Ex7_3_2.jpg#R##107479
+7#Availability And General Thermodynamic Relations#7.24#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 24#Ex7_24.sce#2873/CH7/EX7.24/Ex7_24.sce#S##107507
+7#Availability And General Thermodynamic Relations#7.24#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 24#Ex7_24_1.jpg#2873/CH7/EX7.24/Ex7_24_1.jpg#R##107508
+7#Availability And General Thermodynamic Relations#7.24#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 24#Ex7_24_2.jpg#2873/CH7/EX7.24/Ex7_24_2.jpg#R##107509
+7#Availability And General Thermodynamic Relations#7.23#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 23#Ex7_23.sce#2873/CH7/EX7.23/Ex7_23.sce#S##107506
+7#Availability And General Thermodynamic Relations#7.22#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 22#Ex7_22.sce#2873/CH7/EX7.22/Ex7_22.sce#S##107505
+7#Availability And General Thermodynamic Relations#7.21#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 21#Ex7_21.sce#2873/CH7/EX7.21/Ex7_21.sce#S##107503
+7#Availability And General Thermodynamic Relations#7.21#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 21#Ex7_21.jpg#2873/CH7/EX7.21/Ex7_21.jpg#R##107504
+7#Availability And General Thermodynamic Relations#7.20#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 20#Ex7_20.sce#2873/CH7/EX7.20/Ex7_20.sce#S##107502
+7#Availability And General Thermodynamic Relations#7.2#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 2#Ex7_2.sce#2873/CH7/EX7.2/Ex7_2.sce#S##107476
+7#Availability And General Thermodynamic Relations#7.19#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 19#Ex7_19.sce#2873/CH7/EX7.19/Ex7_19.sce#S##107500
+7#Availability And General Thermodynamic Relations#7.19#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 19#Ex7_19.jpg#2873/CH7/EX7.19/Ex7_19.jpg#R##107501
+7#Availability And General Thermodynamic Relations#7.18#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 18#Ex7_18.sce#2873/CH7/EX7.18/Ex7_18.sce#S##107499
+7#Availability And General Thermodynamic Relations#7.17#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 17#Ex7_17.sce#2873/CH7/EX7.17/Ex7_17.sce#S##107498
+7#Availability And General Thermodynamic Relations#7.16#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 16#Ex7_16.sce#2873/CH7/EX7.16/Ex7_16.sce#S##107497
+7#Availability And General Thermodynamic Relations#7.15#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 15#Ex7_15.sce#2873/CH7/EX7.15/Ex7_15.sce#S##107496
+7#Availability And General Thermodynamic Relations#7.14#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 14#Ex7_14.sce#2873/CH7/EX7.14/Ex7_14.sce#S##107494
+7#Availability And General Thermodynamic Relations#7.14#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 14#Ex7_14.jpg#2873/CH7/EX7.14/Ex7_14.jpg#R##107495
+7#Availability And General Thermodynamic Relations#7.13#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 13#Ex7_13.sce#2873/CH7/EX7.13/Ex7_13.sce#S##107493
+7#Availability And General Thermodynamic Relations#7.12#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 12#Ex7_12.sce#2873/CH7/EX7.12/Ex7_12.sce#S##107492
+7#Availability And General Thermodynamic Relations#7.11#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 11#Ex7_11.sce#2873/CH7/EX7.11/Ex7_11.sce#S##107491
+7#Availability And General Thermodynamic Relations#7.10#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 10#Ex7_10.sce#2873/CH7/EX7.10/Ex7_10.sce#S##107490
+7#Availability And General Thermodynamic Relations#7.1#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 1#Ex7_1.sce#2873/CH7/EX7.1/Ex7_1.sce#S##107473
+7#Availability And General Thermodynamic Relations#7.1#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 1#Ex7_1_1.jpg#2873/CH7/EX7.1/Ex7_1_1.jpg#R##107474
+7#Availability And General Thermodynamic Relations#7.1#Engineering Thermodynamics by Onkar Singh Chapter 7 Example 1#Ex7_1_2.jpg#2873/CH7/EX7.1/Ex7_1_2.jpg#R##107475
+6#Thermodynamic Properties Of Pure Substance#6.9#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 9#Ex6_9.sce#2873/CH6/EX6.9/Ex6_9.sce#S##107660
+6#Thermodynamic Properties Of Pure Substance#6.9#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 9#Ex6_9_1.jpg#2873/CH6/EX6.9/Ex6_9_1.jpg#R##107661
+6#Thermodynamic Properties Of Pure Substance#6.9#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 9#Ex6_9_2.jpg#2873/CH6/EX6.9/Ex6_9_2.jpg#R##107662
+6#Thermodynamic Properties Of Pure Substance#6.8#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 8#Ex6_8.sce#2873/CH6/EX6.8/Ex6_8.sce#S##107658
+6#Thermodynamic Properties Of Pure Substance#6.8#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 8#Ex6_8.jpg#2873/CH6/EX6.8/Ex6_8.jpg#R##107659
+6#Thermodynamic Properties Of Pure Substance#6.7#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 7#Ex6_7.sce#2873/CH6/EX6.7/Ex6_7.sce#S##107657
+6#Thermodynamic Properties Of Pure Substance#6.6#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 6#Ex6_6.sce#2873/CH6/EX6.6/Ex6_6.sce#S##107655
+6#Thermodynamic Properties Of Pure Substance#6.6#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 6#Ex6_6.jpg#2873/CH6/EX6.6/Ex6_6.jpg#R##107656
+6#Thermodynamic Properties Of Pure Substance#6.5#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 5#Ex6_5.sce#2873/CH6/EX6.5/Ex6_5.sce#S##107652
+6#Thermodynamic Properties Of Pure Substance#6.5#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 5#Ex6_5_1.jpg#2873/CH6/EX6.5/Ex6_5_1.jpg#R##107653
+6#Thermodynamic Properties Of Pure Substance#6.5#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 5#Ex6_5_2.jpg#2873/CH6/EX6.5/Ex6_5_2.jpg#R##107654
+6#Thermodynamic Properties Of Pure Substance#6.4#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 4#Ex6_4.sce#2873/CH6/EX6.4/Ex6_4.sce#S##107650
+6#Thermodynamic Properties Of Pure Substance#6.4#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 4#Ex6_4.jpg#2873/CH6/EX6.4/Ex6_4.jpg#R##107651
+6#Thermodynamic Properties Of Pure Substance#6.3#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 3#Ex6_3.sce#2873/CH6/EX6.3/Ex6_3.sce#S##107649
+6#Thermodynamic Properties Of Pure Substance#6.20#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 20#Ex6_20.sce#2873/CH6/EX6.20/Ex6_20.sce#S##107691
+6#Thermodynamic Properties Of Pure Substance#6.20#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 20#Ex6_20_1.jpg#2873/CH6/EX6.20/Ex6_20_1.jpg#R##107692
+6#Thermodynamic Properties Of Pure Substance#6.20#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 20#Ex6_20_2.jpg#2873/CH6/EX6.20/Ex6_20_2.jpg#R##107693
+6#Thermodynamic Properties Of Pure Substance#6.2#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 2#Ex6_2.sce#2873/CH6/EX6.2/Ex6_2.sce#S##107646
+6#Thermodynamic Properties Of Pure Substance#6.2#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 2#Ex6_2_1.jpg#2873/CH6/EX6.2/Ex6_2_1.jpg#R##107647
+6#Thermodynamic Properties Of Pure Substance#6.2#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 2#Ex6_2_2.pdf#2873/CH6/EX6.2/Ex6_2_2.pdf#R##107648
+6#Thermodynamic Properties Of Pure Substance#6.19#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 19#Ex6_19.sce#2873/CH6/EX6.19/Ex6_19.sce#S##107688
+6#Thermodynamic Properties Of Pure Substance#6.19#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 19#Ex6_19_1.jpg#2873/CH6/EX6.19/Ex6_19_1.jpg#R##107689
+6#Thermodynamic Properties Of Pure Substance#6.19#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 19#Ex6_19_2.jpg#2873/CH6/EX6.19/Ex6_19_2.jpg#R##107690
+6#Thermodynamic Properties Of Pure Substance#6.18#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 18#Ex6_18.sce#2873/CH6/EX6.18/Ex6_18.sce#S##107686
+6#Thermodynamic Properties Of Pure Substance#6.18#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 18#Ex6_18.jpg#2873/CH6/EX6.18/Ex6_18.jpg#R##107687
+6#Thermodynamic Properties Of Pure Substance#6.17#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 17#Ex6_17.sce#2873/CH6/EX6.17/Ex6_17.sce#S##107683
+6#Thermodynamic Properties Of Pure Substance#6.17#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 17#Ex6_17_1.jpg#2873/CH6/EX6.17/Ex6_17_1.jpg#R##107684
+6#Thermodynamic Properties Of Pure Substance#6.17#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 17#Ex6_17_2.pdf#2873/CH6/EX6.17/Ex6_17_2.pdf#R##107685
+6#Thermodynamic Properties Of Pure Substance#6.16#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 16#Ex6_16.sce#2873/CH6/EX6.16/Ex6_16.sce#S##107680
+6#Thermodynamic Properties Of Pure Substance#6.16#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 16#Ex6_16_1.jpg#2873/CH6/EX6.16/Ex6_16_1.jpg#R##107681
+6#Thermodynamic Properties Of Pure Substance#6.16#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 16#Ex6_16_2.jpg#2873/CH6/EX6.16/Ex6_16_2.jpg#R##107682
+6#Thermodynamic Properties Of Pure Substance#6.15#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 15#Ex6_15.sce#2873/CH6/EX6.15/Ex6_15.sce#S##107677
+6#Thermodynamic Properties Of Pure Substance#6.15#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 15#Ex6_15_1.jpg#2873/CH6/EX6.15/Ex6_15_1.jpg#R##107678
+6#Thermodynamic Properties Of Pure Substance#6.15#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 15#Ex6_15_2.jpg#2873/CH6/EX6.15/Ex6_15_2.jpg#R##107679
+6#Thermodynamic Properties Of Pure Substance#6.14#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 14#Ex6_14.sce#2873/CH6/EX6.14/Ex6_14.sce#S##107674
+6#Thermodynamic Properties Of Pure Substance#6.14#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 14#Ex6_14_1.jpg#2873/CH6/EX6.14/Ex6_14_1.jpg#R##107675
+6#Thermodynamic Properties Of Pure Substance#6.14#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 14#Ex6_14_2.jpg#2873/CH6/EX6.14/Ex6_14_2.jpg#R##107676
+6#Thermodynamic Properties Of Pure Substance#6.13#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 13#Ex6_13.sce#2873/CH6/EX6.13/Ex6_13.sce#S##107671
+6#Thermodynamic Properties Of Pure Substance#6.13#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 13#Ex6_13_1.jpg#2873/CH6/EX6.13/Ex6_13_1.jpg#R##107672
+6#Thermodynamic Properties Of Pure Substance#6.13#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 13#Ex6_13_2.pdf#2873/CH6/EX6.13/Ex6_13_2.pdf#R##107673
+6#Thermodynamic Properties Of Pure Substance#6.12#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 12#Ex6_12.sce#2873/CH6/EX6.12/Ex6_12.sce#S##107669
+6#Thermodynamic Properties Of Pure Substance#6.12#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 12#Ex6_12.jpg#2873/CH6/EX6.12/Ex6_12.jpg#R##107670
+6#Thermodynamic Properties Of Pure Substance#6.11#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 11#Ex6_11.sce#2873/CH6/EX6.11/Ex6_11.sce#S##107666
+6#Thermodynamic Properties Of Pure Substance#6.11#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 11#Ex6_11_1.jpg#2873/CH6/EX6.11/Ex6_11_1.jpg#R##107667
+6#Thermodynamic Properties Of Pure Substance#6.11#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 11#Ex6_11_2.jpg#2873/CH6/EX6.11/Ex6_11_2.jpg#R##107668
+6#Thermodynamic Properties Of Pure Substance#6.10#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 10#Ex6_10.sce#2873/CH6/EX6.10/Ex6_10.sce#S##107663
+6#Thermodynamic Properties Of Pure Substance#6.10#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 10#Ex6_10_1.jpg#2873/CH6/EX6.10/Ex6_10_1.jpg#R##107664
+6#Thermodynamic Properties Of Pure Substance#6.10#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 10#Ex6_10_2.jpg#2873/CH6/EX6.10/Ex6_10_2.jpg#R##107665
+6#Thermodynamic Properties Of Pure Substance#6.1#Engineering Thermodynamics by Onkar Singh Chapter 6 Example 1#Ex6_1.sce#2873/CH6/EX6.1/Ex6_1.sce#S##107645
+5#Entropy#5.9#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 9#Ex5_9.sce#2873/CH5/EX5.9/Ex5_9.sce#S##107348
+5#Entropy#5.9#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 9#Ex5_9.jpg#2873/CH5/EX5.9/Ex5_9.jpg#R##107349
+5#Entropy#5.8#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 8#Ex5_8.sce#2873/CH5/EX5.8/Ex5_8.sce#S##107346
+5#Entropy#5.8#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 8#Ex5_8.jpg#2873/CH5/EX5.8/Ex5_8.jpg#R##107347
+5#Entropy#5.7#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 7#Ex5_7.sce#2873/CH5/EX5.7/Ex5_7.sce#S##107345
+5#Entropy#5.6#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 6#Ex5_6.sce#2873/CH5/EX5.6/Ex5_6.sce#S##107344
+5#Entropy#5.5#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 5#Ex5_5.sce#2873/CH5/EX5.5/Ex5_5.sce#S##107343
+5#Entropy#5.4#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 4#Ex5_4.sce#2873/CH5/EX5.4/Ex5_4.sce#S##107342
+5#Entropy#5.3#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 3#Ex5_3.sce#2873/CH5/EX5.3/Ex5_3.sce#S##107341
+5#Entropy#5.2#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 2#Ex5_2.sce#2873/CH5/EX5.2/Ex5_2.sce#S##107340
+5#Entropy#5.18#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 18#Ex5_18.sce#2873/CH5/EX5.18/Ex5_18.sce#S##107362
+5#Entropy#5.18#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 18#Ex5_18.jpg#2873/CH5/EX5.18/Ex5_18.jpg#R##107363
+5#Entropy#5.17#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 17#Ex5_17.sce#2873/CH5/EX5.17/Ex5_17.sce#S##107358
+5#Entropy#5.17#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 17#Ex5_17.jpg#2873/CH5/EX5.17/Ex5_17.jpg#R##107359
+5#Entropy#5.16#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 16#Ex5_16.sce#2873/CH5/EX5.16/Ex5_16.sce#S##107356
+5#Entropy#5.15#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 15#Ex5_15.sce#2873/CH5/EX5.15/Ex5_15.sce#S##107355
+5#Entropy#5.14#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 14#Ex5_14.sce#2873/CH5/EX5.14/Ex5_14.sce#S##107354
+5#Entropy#5.13#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 13#Ex5_13.sce#2873/CH5/EX5.13/Ex5_13.sce#S##107353
+5#Entropy#5.12#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 12#Ex5_12.sce#2873/CH5/EX5.12/Ex5_12.sce#S##107352
+5#Entropy#5.11#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 11#Ex5_11.sce#2873/CH5/EX5.11/Ex5_11.sce#S##107351
+5#Entropy#5.10#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 10#Ex5_10.sce#2873/CH5/EX5.10/Ex5_10.sce#S##107350
+5#Entropy#5.1#Engineering Thermodynamics by Onkar Singh Chapter 5 Example 1#Ex5_1.sce#2873/CH5/EX5.1/Ex5_1.sce#S##107339
+4#Second Law Of Thermodynamics#4.9#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 9#Ex4_9.sce#2873/CH4/EX4.9/Ex4_9.sce#S##107321
+4#Second Law Of Thermodynamics#4.9#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 9#Ex4_9.jpg#2873/CH4/EX4.9/Ex4_9.jpg#R##107322
+4#Second Law Of Thermodynamics#4.8#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 8#Ex4_8.sce#2873/CH4/EX4.8/Ex4_8.sce#S##107318
+4#Second Law Of Thermodynamics#4.8#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 8#Ex4_8.jpg#2873/CH4/EX4.8/Ex4_8.jpg#R##107319
+4#Second Law Of Thermodynamics#4.7#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 7#Ex4_7.sce#2873/CH4/EX4.7/Ex4_7.sce#S##107320
+4#Second Law Of Thermodynamics#4.6#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 6#Ex4_6.sce#2873/CH4/EX4.6/Ex4_6.sce#S##107316
+4#Second Law Of Thermodynamics#4.6#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 6#Ex4_6.jpg#2873/CH4/EX4.6/Ex4_6.jpg#R##107317
+4#Second Law Of Thermodynamics#4.5#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 5#Ex4_5.sce#2873/CH4/EX4.5/Ex4_5.sce#S##107314
+4#Second Law Of Thermodynamics#4.5#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 5#Ex4_5.jpg#2873/CH4/EX4.5/Ex4_5.jpg#R##107315
+4#Second Law Of Thermodynamics#4.4#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 4#Ex4_4.sce#2873/CH4/EX4.4/Ex4_4.sce#S##107312
+4#Second Law Of Thermodynamics#4.4#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 4#Ex4_4.jpg#2873/CH4/EX4.4/Ex4_4.jpg#R##107313
+4#Second Law Of Thermodynamics#4.3#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 3#Ex4_3.sce#2873/CH4/EX4.3/Ex4_3.sce#S##107310
+4#Second Law Of Thermodynamics#4.3#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 3#Ex4_3.jpg#2873/CH4/EX4.3/Ex4_3.jpg#R##107311
+4#Second Law Of Thermodynamics#4.2#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 2#Ex4_2.sce#2873/CH4/EX4.2/Ex4_2.sce#S##107308
+4#Second Law Of Thermodynamics#4.2#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 2#Ex4_2.jpg#2873/CH4/EX4.2/Ex4_2.jpg#R##107309
+4#Second Law Of Thermodynamics#4.17#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 17#Ex4_17.sce#2873/CH4/EX4.17/Ex4_17.sce#S##107338
+4#Second Law Of Thermodynamics#4.16#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 16#Ex4_16.sce#2873/CH4/EX4.16/Ex4_16.sce#S##107336
+4#Second Law Of Thermodynamics#4.15#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 15#Ex4_15.sce#2873/CH4/EX4.15/Ex4_15.sce#S##107334
+4#Second Law Of Thermodynamics#4.15#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 15#Ex4_15.jpg#2873/CH4/EX4.15/Ex4_15.jpg#R##107335
+4#Second Law Of Thermodynamics#4.14#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 14#Ex4_14.sce#2873/CH4/EX4.14/Ex4_14.sce#S##107332
+4#Second Law Of Thermodynamics#4.14#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 14#Ex4_14.jpg#2873/CH4/EX4.14/Ex4_14.jpg#R##107333
+4#Second Law Of Thermodynamics#4.13#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 13#Ex4_13.sce#2873/CH4/EX4.13/Ex4_13.sce#S##107330
+4#Second Law Of Thermodynamics#4.13#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 13#Ex4_13.jpg#2873/CH4/EX4.13/Ex4_13.jpg#R##107331
+4#Second Law Of Thermodynamics#4.12#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 12#Ex4_12.sce#2873/CH4/EX4.12/Ex4_12.sce#S##107327
+4#Second Law Of Thermodynamics#4.12#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 12#Ex4_12_1.jpg#2873/CH4/EX4.12/Ex4_12_1.jpg#R##107328
+4#Second Law Of Thermodynamics#4.12#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 12#Ex4_12_2.jpg#2873/CH4/EX4.12/Ex4_12_2.jpg#R##107329
+4#Second Law Of Thermodynamics#4.11#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 11#Ex4_11.sce#2873/CH4/EX4.11/Ex4_11.sce#S##107325
+4#Second Law Of Thermodynamics#4.11#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 11#Ex4_11.jpg#2873/CH4/EX4.11/Ex4_11.jpg#R##107326
+4#Second Law Of Thermodynamics#4.10#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 10#Ex4_10.sce#2873/CH4/EX4.10/Ex4_10.sce#S##107323
+4#Second Law Of Thermodynamics#4.10#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 10#Ex4_10.jpg#2873/CH4/EX4.10/Ex4_10.jpg#R##107324
+4#Second Law Of Thermodynamics#4.1#Engineering Thermodynamics by Onkar Singh Chapter 4 Example 1#Ex4_1.sce#2873/CH4/EX4.1/Ex4_1.sce#S##107307
+3#First Law Of Thermodynamics#3.9#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 9#Ex3_9.sce#2873/CH3/EX3.9/Ex3_9.sce#S##107212
+3#First Law Of Thermodynamics#3.8#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 8#Ex3_8.sce#2873/CH3/EX3.8/Ex3_8.sce#S##107211
+3#First Law Of Thermodynamics#3.7#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 7#Ex3_7.sce#2873/CH3/EX3.7/Ex3_7.sce#S##107210
+3#First Law Of Thermodynamics#3.6#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 6#Ex3_6.sce#2873/CH3/EX3.6/Ex3_6.sce#S##107209
+3#First Law Of Thermodynamics#3.5#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 5#Ex3_5.sce#2873/CH3/EX3.5/Ex3_5.sce#S##107208
+3#First Law Of Thermodynamics#3.4#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 4#Ex3_4.sce#2873/CH3/EX3.4/Ex3_4.sce#S##107207
+3#First Law Of Thermodynamics#3.3#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 3#Ex3_3.sce#2873/CH3/EX3.3/Ex3_3.sce#S##107205
+3#First Law Of Thermodynamics#3.3#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 3#Ex3_3.jpg#2873/CH3/EX3.3/Ex3_3.jpg#R##107206
+3#First Law Of Thermodynamics#3.23#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 23#Ex3_23.sce#2873/CH3/EX3.23/Ex3_23.sce#S##107234
+3#First Law Of Thermodynamics#3.22#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 22#Ex3_22.sce#2873/CH3/EX3.22/Ex3_22.sce#S##107232
+3#First Law Of Thermodynamics#3.22#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 22#Ex3_22.jpg#2873/CH3/EX3.22/Ex3_22.jpg#R##107233
+3#First Law Of Thermodynamics#3.21#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 21#Ex3_21.sce#2873/CH3/EX3.21/Ex3_21.sce#S##107231
+3#First Law Of Thermodynamics#3.20#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 20#Ex3_20.sce#2873/CH3/EX3.20/Ex3_20.sce#S##107229
+3#First Law Of Thermodynamics#3.20#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 20#Ex3_20.jpg#2873/CH3/EX3.20/Ex3_20.jpg#R##107230
+3#First Law Of Thermodynamics#3.2#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 2#Ex3_2.sce#2873/CH3/EX3.2/Ex3_2.sce#S##107203
+3#First Law Of Thermodynamics#3.2#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 2#Ex3_2.jpg#2873/CH3/EX3.2/Ex3_2.jpg#R##107204
+3#First Law Of Thermodynamics#3.19#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 19#Ex3_19.sce#2873/CH3/EX3.19/Ex3_19.sce#S##107228
+3#First Law Of Thermodynamics#3.18#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 18#Ex3_18.sce#2873/CH3/EX3.18/Ex3_18.sce#S##107227
+3#First Law Of Thermodynamics#3.17#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 17#Ex3_17.sce#2873/CH3/EX3.17/Ex3_17.sce#S##107225
+3#First Law Of Thermodynamics#3.17#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 17#Ex3_17.jpg#2873/CH3/EX3.17/Ex3_17.jpg#R##107226
+3#First Law Of Thermodynamics#3.16#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 16#Ex3_16.sce#2873/CH3/EX3.16/Ex3_16.sce#S##107223
+3#First Law Of Thermodynamics#3.16#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 16#Ex3_16.jpg#2873/CH3/EX3.16/Ex3_16.jpg#R##107224
+3#First Law Of Thermodynamics#3.15#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 15#Ex3_15.sce#2873/CH3/EX3.15/Ex3_15.sce#S##107222
+3#First Law Of Thermodynamics#3.14#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 14#Ex3_14.sce#2873/CH3/EX3.14/Ex3_14.sce#S##107220
+3#First Law Of Thermodynamics#3.14#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 14#Ex3_14.jpg#2873/CH3/EX3.14/Ex3_14.jpg#R##107221
+3#First Law Of Thermodynamics#3.13#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 13#Ex3_13.sce#2873/CH3/EX3.13/Ex3_13.sce#S##107218
+3#First Law Of Thermodynamics#3.13#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 13#Ex3_13.jpg#2873/CH3/EX3.13/Ex3_13.jpg#R##107219
+3#First Law Of Thermodynamics#3.12#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 12#Ex3_12.sce#2873/CH3/EX3.12/Ex3_12.sce#S##107216
+3#First Law Of Thermodynamics#3.12#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 12#Ex3_12.jpg#2873/CH3/EX3.12/Ex3_12.jpg#R##107217
+3#First Law Of Thermodynamics#3.11#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 11#Ex3_11.sce#2873/CH3/EX3.11/Ex3_11.sce#S##107214
+3#First Law Of Thermodynamics#3.11#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 11#Ex3_11.jpg#2873/CH3/EX3.11/Ex3_11.jpg#R##107215
+3#First Law Of Thermodynamics#3.10#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 10#Ex3_10.sce#2873/CH3/EX3.10/Ex3_10.sce#S##107213
+3#First Law Of Thermodynamics#3.1#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 1#Ex3_1.sce#2873/CH3/EX3.1/Ex3_1.sce#S##107201
+3#First Law Of Thermodynamics#3.1#Engineering Thermodynamics by Onkar Singh Chapter 3 Example 1#Ex3_1.jpg#2873/CH3/EX3.1/Ex3_1.jpg#R##107202
+2#Zeroth Law Of Thermodynamics#2.5#Engineering Thermodynamics by Onkar Singh Chapter 2 Example 5#Ex2_5.sce#2873/CH2/EX2.5/Ex2_5.sce#S##105107
+2#Zeroth Law Of Thermodynamics#2.4#Engineering Thermodynamics by Onkar Singh Chapter 2 Example 4#Ex2_4.sce#2873/CH2/EX2.4/Ex2_4.sce#S##105106
+2#Zeroth Law Of Thermodynamics#2.3#Engineering Thermodynamics by Onkar Singh Chapter 2 Example 3#Ex2_3.sce#2873/CH2/EX2.3/Ex2_3.sce#S##105105
+2#Zeroth Law Of Thermodynamics#2.2#Engineering Thermodynamics by Onkar Singh Chapter 2 Example 2#Ex2_2.sce#2873/CH2/EX2.2/Ex2_2.sce#S##105104
+2#Zeroth Law Of Thermodynamics#2.1#Engineering Thermodynamics by Onkar Singh Chapter 2 Example 1#Ex2_1.sce#2873/CH2/EX2.1/Ex2_1.sce#S##105103
+1#Fundamental Concepts And Definitions#1.9# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 9#Ex1_9.sce#2873/CH1/EX1.9/Ex1_9.sce#S##107177
+1#Fundamental Concepts And Definitions#1.9# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 9#Ex1_9.jpg#2873/CH1/EX1.9/Ex1_9.jpg#R##107178
+1#Fundamental Concepts And Definitions#1.8# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 8#Ex1_8.sce#2873/CH1/EX1.8/Ex1_8.sce#S##107175
+1#Fundamental Concepts And Definitions#1.8# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 8#Ex1_8.jpg#2873/CH1/EX1.8/Ex1_8.jpg#R##107176
+1#Fundamental Concepts And Definitions#1.7# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 7#Ex1_7.sce#2873/CH1/EX1.7/Ex1_7.sce#S##107174
+1#Fundamental Concepts And Definitions#1.6# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 6#Ex1_6.sce#2873/CH1/EX1.6/Ex1_6.sce#S##107173
+1#Fundamental Concepts And Definitions#1.5# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 5#Ex1_5.sce#2873/CH1/EX1.5/Ex1_5.sce#S##107171
+1#Fundamental Concepts And Definitions#1.5# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 5#Ex1_5.jpg#2873/CH1/EX1.5/Ex1_5.jpg#R##107172
+1#Fundamental Concepts And Definitions#1.4# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 4#Ex1_4.sce#2873/CH1/EX1.4/Ex1_4.sce#S##107170
+1#Fundamental Concepts And Definitions#1.3# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 3#Ex1_3.sce#2873/CH1/EX1.3/Ex1_3.sce#S##107169
+1#Fundamental Concepts And Definitions#1.28# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 28#Ex1_28.sce#2873/CH1/EX1.28/Ex1_28.sce#S##107199
+1#Fundamental Concepts And Definitions#1.27# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 27#Ex1_27.sce#2873/CH1/EX1.27/Ex1_27.sce#S##107198
+1#Fundamental Concepts And Definitions#1.26# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 26#Ex1_26.sce#2873/CH1/EX1.26/Ex1_26.sce#S##107197
+1#Fundamental Concepts And Definitions#1.25# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 25#Ex1_25.sce#2873/CH1/EX1.25/Ex1_25.sce#S##107196
+1#Fundamental Concepts And Definitions#1.24# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 24#Ex1_24.sce#2873/CH1/EX1.24/Ex1_24.sce#S##107195
+1#Fundamental Concepts And Definitions#1.23# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 23#Ex1_23.sce#2873/CH1/EX1.23/Ex1_23.sce#S##107194
+1#Fundamental Concepts And Definitions#1.22# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 22#Ex1_22.sce#2873/CH1/EX1.22/Ex1_22.sce#S##107193
+1#Fundamental Concepts And Definitions#1.21# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 21#Ex1_21.sce#2873/CH1/EX1.21/Ex1_21.sce#S##107192
+1#Fundamental Concepts And Definitions#1.20# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 20#Ex1_20.sce#2873/CH1/EX1.20/Ex1_20.sce#S##107191
+1#Fundamental Concepts And Definitions#1.2# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 2#Ex1_2.sce#2873/CH1/EX1.2/Ex1_2.sce#S##107168
+1#Fundamental Concepts And Definitions#1.19# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 19#Ex1_19.sce#2873/CH1/EX1.19/Ex1_19.sce#S##107190
+1#Fundamental Concepts And Definitions#1.18# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 18#Ex1_18.sce#2873/CH1/EX1.18/Ex1_18.sce#S##107189
+1#Fundamental Concepts And Definitions#1.17# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 17#Ex1_17.sce#2873/CH1/EX1.17/Ex1_17.sce#S##107188
+1#Fundamental Concepts And Definitions#1.16# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 16#Ex1_16.sce#2873/CH1/EX1.16/Ex1_16.sce#S##107187
+1#Fundamental Concepts And Definitions#1.15# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 15#Ex1_15.sce#2873/CH1/EX1.15/Ex1_15.sce#S##107186
+1#Fundamental Concepts And Definitions#1.14# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 14#Ex1_14.sce#2873/CH1/EX1.14/Ex1_14.sce#S##107185
+1#Fundamental Concepts And Definitions#1.13# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 13#Ex1_13.sce#2873/CH1/EX1.13/Ex1_13.sce#S##107184
+1#Fundamental Concepts And Definitions#1.12# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 12#Ex1_12.sce#2873/CH1/EX1.12/Ex1_12.sce#S##107183
+1#Fundamental Concepts And Definitions#1.11# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 11#Ex1_11.sce#2873/CH1/EX1.11/Ex1_11.sce#S##107181
+1#Fundamental Concepts And Definitions#1.11# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 11#Ex1_11.jpg#2873/CH1/EX1.11/Ex1_11.jpg#R##107182
+1#Fundamental Concepts And Definitions#1.10# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 10#Ex1_10.sce#2873/CH1/EX1.10/Ex1_10.sce#S##107179
+1#Fundamental Concepts And Definitions#1.10# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 10#Ex1_10.jpg#2873/CH1/EX1.10/Ex1_10.jpg#R##107180
+1#Fundamental Concepts And Definitions#1.1# Engineering Thermodynamics by Onkar Singh Chapter 1 Example 1#Ex1_1.sce#2873/CH1/EX1.1/Ex1_1.sce#S##107167

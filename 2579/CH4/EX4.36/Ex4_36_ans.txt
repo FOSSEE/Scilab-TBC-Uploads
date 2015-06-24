@@ -1,0 +1,2 @@
+ The beamwidth = 15.000000 degree
+ The gain as a power ratio in dB = 9.542425 dB

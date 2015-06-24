@@ -1,0 +1,2 @@
+﻿
+ Thickness of calcite plate  = 8.561047e-07 meter

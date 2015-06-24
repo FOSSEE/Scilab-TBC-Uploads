@@ -1,0 +1,2 @@
+**Sample Problem 3-1**
+The maximum possible value is 4.836559 m 

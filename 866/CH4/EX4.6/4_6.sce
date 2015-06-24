@@ -1,0 +1,54 @@
+clc
+//initialisation of variables
+xa= -2
+ya= -2
+za= -4
+xb= -2
+yb= -2
+zb= 2
+xc= 2
+yc= -2
+zc= -4
+xd= 2
+yd= -2
+zd= 2
+xf= 0
+yf= 0
+zf= 0
+xe= 0
+ye= 0
+ze= -2
+Fe= -60 //KN
+Ff= 40 //KN
+//CALCULATIONS
+A=[(xd-xf),(xb-xf),(xe-xf); (yd-yf),(yb-yf),(ye-yf); (zd-zf),(zb-zf),(ze-zf)]
+b=[Ff;0;0]
+c=A\b
+tfd= c(1,1)
+tfb= c(2,1)
+tfe= c(3,1)
+B=[(xb-xe),(xc-xe),(xa-xe); (yb-ye),(yc-ye),(ya-ye); (zb-ze),(zc-ze),(za-ze)]
+e=[0-tfe*(xf-xe);-Fe-tfe*(yf-ye);-tfe*(zf-ze)]
+f=B\e
+teb= f(1,1)
+tec= f(2,1)
+tea= f(3,1)
+Lfb= sqrt((xb-xf)^2+(yb-yf)^2+(zb-zf)^2)
+Lfd= sqrt((xd-xf)^2+(yd-yf)^2+(zd-zf)^2)
+Lfe= sqrt((xe-xf)^2+(ye-yf)^2+(ze-zf)^2)
+Lec= sqrt((xc-xe)^2+(yc-ye)^2+(zc-ze)^2)
+Lea= sqrt((xa-xe)^2+(ya-ye)^2+(za-ze)^2)
+Leb= sqrt((xb-xe)^2+(yb-ye)^2+(zb-ze)^2)
+Tfb= tfb*Lfb
+Tfd= tfd*Lfd
+Tfe= tfe*Lfe
+Tec= tec*Lec
+Tea= tea*Lea
+Teb= teb*Leb
+//RESULTS
+printf ('Tfb= %.1f KN(compression)',Tfb)
+printf (' \n Tfd=%.1f KN(tension)',Tfd)
+printf (' \n Tfe=%.1f KN',Tfe)
+printf (' \n Tec=%.1f KN(compression)',Tec)
+printf (' \n Tea=%.1f KN(compression)',Tea)
+printf (' \n Teb=%.1f KN(compression)',Teb)

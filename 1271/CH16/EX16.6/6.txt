@@ -1,0 +1,8 @@
+ 
+ # PROBLEM 6 # 
+Standard formula used 
+E = (h^2 / (8 * pi^2 * m)) * (3 * pi^2 * N/V)^(2/3) 
+
+ Fermi energy is 5.745999 eV.
+ Fermi vector is 1.227723e+10 per m.
+ Total kinetic energy is 2.154750e+29 eV. 

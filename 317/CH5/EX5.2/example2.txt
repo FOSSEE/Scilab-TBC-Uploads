@@ -1,0 +1,1 @@
+Since thevenin voltage is greater than zener voltage,zener diode is operating in the breakdown region

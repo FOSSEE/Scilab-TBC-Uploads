@@ -1,0 +1,103 @@
+27#Testing of Internal Combustion Engines According to Indian and International Standards#27.7#Calculations on turbocharged CI engine#Ex27_7.sce#2657/CH27/EX27.7/Ex27_7.sce#S##99319
+27#Testing of Internal Combustion Engines According to Indian and International Standards#27.6#Calculations on turbocharged CI engine#Ex27_6.sce#2657/CH27/EX27.6/Ex27_6.sce#S##99318
+27#Testing of Internal Combustion Engines According to Indian and International Standards#27.5#Calculations on unsupercharged SI engine#Ex27_5.sce#2657/CH27/EX27.5/Ex27_5.sce#S##99317
+27#Testing of Internal Combustion Engines According to Indian and International Standards#27.4#Simulating site ambient conditions#Ex27_4.sce#2657/CH27/EX27.4/Ex27_4.sce#S##99316
+27#Testing of Internal Combustion Engines According to Indian and International Standards#27.3#Calculations on turbocharged CI engine#Ex27_3.sce#2657/CH27/EX27.3/Ex27_3.sce#S##105870
+27#Testing of Internal Combustion Engines According to Indian and International Standards#27.2#Calculations on turbocharged CI engine#Ex27_2.sce#2657/CH27/EX27.2/Ex27_2.sce#S##99314
+27#Testing of Internal Combustion Engines According to Indian and International Standards#27.1#Calculations on non supercharged CI engine#Ex27_1.sce#2657/CH27/EX27.1/Ex27_1.sce#S##105869
+26#Gas Turbines#26.9#Calculations on Helium gas turbine#Ex26_9.sce#2657/CH26/EX26.9/Ex26_9.sce#S##99328
+26#Gas Turbines#26.8#Calculations on automotive gas turbine#Ex26_8.sce#2657/CH26/EX26.8/Ex26_8.sce#S##99327
+26#Gas Turbines#26.7#Calculations on compound gas turbine#Ex26_7.sce#2657/CH26/EX26.7/Ex26_7.sce#S##99326
+26#Gas Turbines#26.6#Calculations on gas turbine with heat exchanger#Ex26_6.sce#2657/CH26/EX26.6/Ex26_6.sce#S##99325
+26#Gas Turbines#26.5#Calculations on gas turbine#Ex26_5.sce#2657/CH26/EX26.5/Ex26_5.sce#S##99324
+26#Gas Turbines#26.4#Calculations on gas turbine#Ex26_4.sce#2657/CH26/EX26.4/Ex26_4.sce#S##99323
+26#Gas Turbines#26.3#Calculations for zero efficiency#Ex26_3.sce#2657/CH26/EX26.3/Ex26_3.sce#S##99322
+26#Gas Turbines#26.2#Calculations on Joule cycle#Ex26_2.sce#2657/CH26/EX26.2/Ex26_2.sce#S##105868
+26#Gas Turbines#26.10#Calculations on closed cycle gas turbine#Ex26_10.sce#2657/CH26/EX26.10/Ex26_10.sce#S##99329
+26#Gas Turbines#26.1#Calculations on Brayton cycle#Ex26_1.sce#2657/CH26/EX26.1/Ex26_1.sce#S##99320
+18#Testing and Performance#18.9#Calculations on six cylinder petrol engine#Ex18_9.sce#2657/CH18/EX18.9/Ex18_9.sce#S##99338
+18#Testing and Performance#18.8#Calculations on six cylinder diesel engine#Ex18_8.sce#2657/CH18/EX18.8/Ex18_8.sce#S##99337
+18#Testing and Performance#18.7#Calculations by Morse test#Ex18_7.sce#2657/CH18/EX18.7/Ex18_7.sce#S##99336
+18#Testing and Performance#18.6#Calculations on two stroke engine#Ex18_6.sce#2657/CH18/EX18.6/Ex18_6.sce#S##99335
+18#Testing and Performance#18.5#Calculations on six cylinder petrol engine#Ex18_5.sce#2657/CH18/EX18.5/Ex18_5.sce#S##99334
+18#Testing and Performance#18.4#Calculations on oil engine#Ex18_4.sce#2657/CH18/EX18.4/Ex18_4.sce#S##99333
+18#Testing and Performance#18.3#Calculations on oil engine#Ex18_3.sce#2657/CH18/EX18.3/Ex18_3.sce#S##99332
+18#Testing and Performance#18.2#Calculations on Gas engine#Ex18_2.sce#2657/CH18/EX18.2/Ex18_2.sce#S##99331
+18#Testing and Performance#18.16#Calculations on two stroke engine#Ex18_16.sce#2657/CH18/EX18.16/Ex18_16.sce#S##99345
+18#Testing and Performance#18.15#Hit and miss governing#Ex18_15.sce#2657/CH18/EX18.15/Ex18_15.sce#S##105867
+18#Testing and Performance#18.14#Calculations on petrol engine#Ex18_14.sce#2657/CH18/EX18.14/Ex18_14.sce#S##99343
+18#Testing and Performance#18.13#Calculations on four stroke engine#Ex18_13.sce#2657/CH18/EX18.13/Ex18_13.sce#S##99342
+18#Testing and Performance#18.12#Calculations on diesel engine#Ex18_12.sce#2657/CH18/EX18.12/Ex18_12.sce#S##99341
+18#Testing and Performance#18.11#Calculations from indicator diagram#Ex18_11.sce#2657/CH18/EX18.11/Ex18_11.sce#S##99340
+18#Testing and Performance#18.10#Calculations on gas engine#Ex18_10.sce#2657/CH18/EX18.10/Ex18_10.sce#S##99339
+18#Testing and Performance#18.1#Calculations on petrol engine#Ex18_1.sce#2657/CH18/EX18.1/Ex18_1.sce#S##99330
+17#Supercharging#17.4#Supercharged four stroke oil engine#Ex17_4.sce#2657/CH17/EX17.4/Ex17_4.sce#S##99312
+17#Supercharging#17.3#Normally aspirated and supercharged engine#Ex17_3.sce#2657/CH17/EX17.3/Ex17_3.sce#S##99311
+17#Supercharging#17.2#Supercharged diesel engine#Ex17_2.sce#2657/CH17/EX17.2/Ex17_2.sce#S##99310
+17#Supercharging#17.1#Estimation of increase in brake power#Ex17_1.sce#2657/CH17/EX17.1/Ex17_1.sce#S##99309
+16#Two Stroke Engines#16.1#Calculations on 2 stroke IC engine#Ex16_1.sce#2657/CH16/EX16.1/Ex16_1.sce#S##99308
+15#Engine Cooling#15.1#Comparison of cooling water required#Ex15_1.sce#2657/CH15/EX15.1/Ex15_1.sce#S##99307
+14#Engine Friction and Lubrication#14.2#Variation of bsfc with speed#Ex14_2.sce#2657/CH14/EX14.2/Ex14_2.sce#S##99306
+14#Engine Friction and Lubrication#14.1#Calculation of saving in fuel#Ex14_1.sce#2657/CH14/EX14.1/Ex14_1.sce#S##99305
+12#Fuel Injection#12.5#Calculations on diesel engine fuel pump#Ex12_5.sce#2657/CH12/EX12.5/Ex12_5.sce#S##99304
+12#Fuel Injection#12.4#Calculations on spray penetration#Ex12_4.sce#2657/CH12/EX12.4/Ex12_4.sce#S##99303
+12#Fuel Injection#12.3#Calculation of orifice diameter#Ex12_3.sce#2657/CH12/EX12.3/Ex12_3.sce#S##99302
+12#Fuel Injection#12.2#Calculation of orifice area#Ex12_2.sce#2657/CH12/EX12.2/Ex12_2.sce#S##99301
+12#Fuel Injection#12.1#Calculation of quantity of fuel injected#Ex12_1.sce#2657/CH12/EX12.1/Ex12_1.sce#S##99300
+11#Carburetion#11.9#Effect of air cleaner#Ex11_9.sce#2657/CH11/EX11.9/Ex11_9.sce#S##99299
+11#Carburetion#11.8#Calculation of air fuel ratio#Ex11_8.sce#2657/CH11/EX11.8/Ex11_8.sce#S##99298
+11#Carburetion#11.7#Change in air fuel ratio at altitude#Ex11_7.sce#2657/CH11/EX11.7/Ex11_7.sce#S##99297
+11#Carburetion#11.6#Calculations on carburettor#Ex11_6.sce#2657/CH11/EX11.6/Ex11_6.sce#S##105866
+11#Carburetion#11.5#Calculations on carburettor#Ex11_5.sce#2657/CH11/EX11.5/Ex11_5.sce#S##99295
+11#Carburetion#11.4#Calculation of the diameter of fuel jet#Ex11_4.sce#2657/CH11/EX11.4/Ex11_4.sce#S##99294
+11#Carburetion#11.3#Calculation of suction at throat#Ex11_3.sce#2657/CH11/EX11.3/Ex11_3.sce#S##99293
+11#Carburetion#11.2#Calculation of throat diameter and orifice diameter#Ex11_2.sce#2657/CH11/EX11.2/Ex11_2.sce#S##99292
+11#Carburetion#11.1#Calculation of the throat diameter#Ex11_1.sce#2657/CH11/EX11.1/Ex11_1.sce#S##99291
+10#Air Capacity of Four Stroke Engines#10.1#Calculations on SI engine#Ex10_1.sce#2657/CH10/EX10.1/Ex10_1.sce#S##99290
+8#Fuels#8.9#Calculations on gas engine#Ex8_9.sce#2657/CH8/EX8.9/Ex8_9.sce#S##99289
+8#Fuels#8.8#Orsat analysis#Ex8_8.sce#2657/CH8/EX8.8/Ex8_8.sce#S##99288
+8#Fuels#8.7#Analysis of fuel from exhaust gas analysis#Ex8_7.sce#2657/CH8/EX8.7/Ex8_7.sce#S##99287
+8#Fuels#8.6#Incomplete combustion of Petrol#Ex8_6.sce#2657/CH8/EX8.6/Ex8_6.sce#S##99286
+8#Fuels#8.5#C7H16 in Petrol engine#Ex8_5.sce#2657/CH8/EX8.5/Ex8_5.sce#S##99285
+8#Fuels#8.4#Calculation of mass of air#Ex8_4.sce#2657/CH8/EX8.4/Ex8_4.sce#S##99284
+8#Fuels#8.3#Calculations on Petrol engine#Ex8_3.sce#2657/CH8/EX8.3/Ex8_3.sce#S##99283
+8#Fuels#8.2#Calculation of relative fuel air ratio by volume#Ex8_2.sce#2657/CH8/EX8.2/Ex8_2.sce#S##99282
+8#Fuels#8.1#Calculation of lowest calorific value#Ex8_1.sce#2657/CH8/EX8.1/Ex8_1.sce#S##99281
+7#Comparison of SI and CI Engines#7.2#Calculations for comparison of SI and CI engine#Ex7_2.sce#2657/CH7/EX7.2/Ex7_2.sce#S##99280
+7#Comparison of SI and CI Engines#7.1#Calculations for comparison of SI and CI engine#Ex7_1.sce#2657/CH7/EX7.1/Ex7_1.sce#S##99279
+5#Combustion in SI Engines#5.1#Calculation of optimum spark timing#Ex5_1.sce#2657/CH5/EX5.1/Ex5_1.sce#S##99278
+3#Fuel Air Cycles#3.6#Calculations on Otto cycle#Ex3_6.sce#2657/CH3/EX3.6/Ex3_6.sce#S##105859
+3#Fuel Air Cycles#3.5#Effect of molecular contraction#Ex3_5.sce#2657/CH3/EX3.5/Ex3_5.sce#S##105865
+3#Fuel Air Cycles#3.4#Calculations on dual combustion cycle#Ex3_4.sce#2657/CH3/EX3.4/Ex3_4.sce#S##99276
+3#Fuel Air Cycles#3.3#Calculations on diesel engine#Ex3_3.sce#2657/CH3/EX3.3/Ex3_3.sce#S##99275
+3#Fuel Air Cycles#3.2#Effect of variable specific heat on maximum pressure#Ex3_2.sce#2657/CH3/EX3.2/Ex3_2.sce#S##99274
+3#Fuel Air Cycles#3.1#Effect of variable specific heat on efficiency#Ex3_1.sce#2657/CH3/EX3.1/Ex3_1.sce#S##99273
+2#Air Standard Cycles#2.9#Calculations on Otto cycle#Ex2_9.sce#2657/CH2/EX2.9/Ex2_9.sce#S##99252
+2#Air Standard Cycles#2.8#Calculations on Otto cycle#Ex2_8.sce#2657/CH2/EX2.8/Ex2_8.sce#S##99251
+2#Air Standard Cycles#2.7#Calculations on Otto cycle#Ex2_7.sce#2657/CH2/EX2.7/Ex2_7.sce#S##99250
+2#Air Standard Cycles#2.6#Calculations on Otto cycle#Ex2_6.sce#2657/CH2/EX2.6/Ex2_6.sce#S##105864
+2#Air Standard Cycles#2.5#Calculations on Otto cycle#Ex2_5.sce#2657/CH2/EX2.5/Ex2_5.sce#S##105863
+2#Air Standard Cycles#2.4#Calculations on constant volume cycle#Ex2_4.sce#2657/CH2/EX2.4/Ex2_4.sce#S##99247
+2#Air Standard Cycles#2.3#Calculation of air standard efficiency of Otto cycle#Ex2_3.sce#2657/CH2/EX2.3/Ex2_3.sce#S##99245
+2#Air Standard Cycles#2.22#Calculations on Joule cycle#Ex2_22.sce#2657/CH2/EX2.22/Ex2_22.sce#S##99265
+2#Air Standard Cycles#2.21#Calculations for comparision of Atkinson and Otto cycle#Ex2_21.sce#2657/CH2/EX2.21/Ex2_21.sce#S##99264
+2#Air Standard Cycles#2.20#Calculations for Otto cycle and Limited pressure cycle#Ex2_20.sce#2657/CH2/EX2.20/Ex2_20.sce#S##99263
+2#Air Standard Cycles#2.2#Calculations on the Carnot cycle#Ex2_2.sce#2657/CH2/EX2.2/Ex2_2.sce#S##99244
+2#Air Standard Cycles#2.19#Calculations for comparision of Otto cycle and Diesel cycle#Ex2_19.sce#2657/CH2/EX2.19/Ex2_19.sce#S##105862
+2#Air Standard Cycles#2.18#Calculations on dual combustion cycle#Ex2_18.sce#2657/CH2/EX2.18/Ex2_18.sce#S##99261
+2#Air Standard Cycles#2.17#Calculations on dual combustion cycle#Ex2_17.sce#2657/CH2/EX2.17/Ex2_17.sce#S##105861
+2#Air Standard Cycles#2.16#Calculations on dual combustion cycle#Ex2_16.sce#2657/CH2/EX2.16/Ex2_16.sce#S##99259
+2#Air Standard Cycles#2.15#Calculations on dual combustion cycle#Ex2_15.sce#2657/CH2/EX2.15/Ex2_15.sce#S##99258
+2#Air Standard Cycles#2.14#Calculations on diesel cycle#Ex2_14.sce#2657/CH2/EX2.14/Ex2_14.sce#S##99257
+2#Air Standard Cycles#2.13#Calculations on diesel cycle#Ex2_13.sce#2657/CH2/EX2.13/Ex2_13.sce#S##99256
+2#Air Standard Cycles#2.12#Calculations on diesel cycle#Ex2_12.sce#2657/CH2/EX2.12/Ex2_12.sce#S##99255
+2#Air Standard Cycles#2.11#Calculations on diesel cycle#Ex2_11.sce#2657/CH2/EX2.11/Ex2_11.sce#S##99254
+2#Air Standard Cycles#2.10#Calculations on Otto cycle#Ex2_10.sce#2657/CH2/EX2.10/Ex2_10.sce#S##99253
+2#Air Standard Cycles#2.1#Calculations on Carnot engine#Ex2_1.sce#2657/CH2/EX2.1/Ex2_1.sce#S##99246
+1#Introduction#1.7#Calculations on two stroke CI engine#Ex1_7.sce#2657/CH1/EX1.7/Ex1_7.sce#S##99243
+1#Introduction#1.6#Calculations on diesel engine#Ex1_6.sce#2657/CH1/EX1.6/Ex1_6.sce#S##99242
+1#Introduction#1.5#Calculations on SI engine#Ex1_5.sce#2657/CH1/EX1.5/Ex1_5.sce#S##99241
+1#Introduction#1.4#Calculations on four stroke petrol engine#Ex1_4.sce#2657/CH1/EX1.4/Ex1_4.sce#S##105860
+1#Introduction#1.3#Calculation of mechanical efficiency#Ex1_3.sce#2657/CH1/EX1.3/Ex1_3.sce#S##99239
+1#Introduction#1.2#Calculation of brake power and friction power#Ex1_2.sce#2657/CH1/EX1.2/Ex1_2.sce#S##99238
+1#Introduction#1.1#Calculation of cubic capacity and clearance volume#Ex1_1.sce#2657/CH1/EX1.1/Ex1_1.sce#S##99237

@@ -1,0 +1,9 @@
+Line current of delta connected CTs on 0 V side = 8.66 A 
+
+Phase current of star connected CTs on 11 V side = 8.66 A 
+
+The line current on the 11 V side = 18.18 A 
+
+Turn ratio of CTs on 11 V side = 2.1:1 
+
+

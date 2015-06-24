@@ -1,0 +1,10 @@
+disp('chapter 2 ex2.2')
+disp('given')
+disp("supply voltage=+15V and -15V")
+disp("ripple voltaage supply=2mV with 120 Hz")
+Vrip=2*(10^(-3))
+disp("PSRR for an Op-amp=30uV/V")
+PSRR=(30*(10^(-6)))
+disp("output voltage produced by the power ripple=")
+Vo=Vrip*PSRR
+disp('volt',Vo)

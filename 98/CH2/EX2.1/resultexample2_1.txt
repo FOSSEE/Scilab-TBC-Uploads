@@ -1,0 +1,7 @@
+
+Let x kcal/kg be the calorific value of fuel.
+Heat produced by 0.6 kg of coal = 0.6 x kcal
+Heat equivalent of 1 kWh = 860 k cal
+Now, n_overall = Electrical output in heat units/ Heat of combustion
+x = 7166.6667 kcal/kg
+

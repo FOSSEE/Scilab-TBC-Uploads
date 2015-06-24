@@ -1,0 +1,6 @@
+**Sample Problem 20-4a**
+The mean free path is equal to 1.094091e-007m
+
+**Sample Problem 20-4b**
+The time between two collisions is 2.431314e-010sec
+The frequency of collision is 4.113003e+009Hz 

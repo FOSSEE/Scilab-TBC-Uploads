@@ -1,0 +1,2 @@
+(a)  The density of water in lb/cubic inch = 0.036169 lb/(in^3).
+(b)  The density of water in g/cubic cm = 1.001171 g/(cm^3). 

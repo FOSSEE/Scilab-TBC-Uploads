@@ -1,0 +1,5 @@
+(a)The current gain of circuit Ai = 45.3 
+(b)The input resistance of circuit Ri = 2.28e+005 ohm 
+(c)The voltage gain of circuit Av = 0.9956 
+(d)The voltage gain of circuit Avs = 0.9934 
+ 

@@ -1,0 +1,3 @@
+  
+ Exa-9.5   
+The value of rotational inertia is 2.70e-047 kg m2 which in terms of amu is 0.016 u.nm2 

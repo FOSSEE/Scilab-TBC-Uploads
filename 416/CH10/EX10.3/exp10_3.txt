@@ -1,0 +1,7 @@
+
+ example 10.3   
+p1=21.42857MW
+ p2=28.57143MW
+the total load on 2 units would be 221.43MW and 228.57MW respectevily. it is easy to check that incremental cost will be same for two units at these loading.
+ incremental cost of unit1 is 74.29Rs.MW,
+ incremantal cost of unit 2 is 74.29Rs./MW 

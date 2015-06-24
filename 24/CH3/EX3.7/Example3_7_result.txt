@@ -1,0 +1,3 @@
+**Sample Problem 3-7**
+The magnitude of cross product of given vectors is 216.000000 
+ and angle  with the x axis in degrees is 160.000000 

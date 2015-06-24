@@ -1,0 +1,3 @@
+Average value of emf induced in the coil (in volts)=   
+ 
+    20.  

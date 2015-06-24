@@ -1,0 +1,5 @@
+ 
+ modulation index = 6.666667 
+ modulation index = 20.000000 
+ when deviation is tripled m becomes = 0.333333times  
+ Execution done.   

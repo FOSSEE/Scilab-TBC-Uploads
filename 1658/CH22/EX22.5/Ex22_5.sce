@@ -1,0 +1,13 @@
+clc;
+//e.g22.5
+VP=5;
+IDSS=12*10**-3;
+VDD=12;
+ID=4*10**-3;
+VDS=6;
+VGS=VP*(1-sqrt(ID/IDSS));
+VS=VGS;
+RS=VS/ID;
+disp('ohm',RS*1,"RS=");
+RD=VDS/ID;
+disp('Kohm',RD*10**-3,"RD=")

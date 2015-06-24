@@ -1,0 +1,16 @@
+ Reading of wattmeter W1 (in Watts) =   
+ 
+    2679.616  
+ 
+ Reading of wattmeter W2 (in Watts)=   
+ 
+    1640.3852  
+ 
+ Total power developed (in Watts)=   
+ 
+    4320.0012  
+ 
+ power factor=   
+ 
+    0.9230769  
+ 

@@ -1,0 +1,35 @@
+//clc()
+Nflue = 100;//kmol
+NCO2 = 14.84;
+NCO = 1.65;
+NO2 = 5.16;
+NN2 = 78.35;
+PCF = 85;//PERCENT CARBON IN FEED
+PIF = 15;//PERCENT INERT IN FEED
+//F - amount of coke charged, W - mass of coke left,W = 0.05F
+NCflue = NCO2 + NCO ;
+MC = 12;
+mC = MC * NCflue ;
+//carbon balance gives, F * PCF / 100 = W * PCF + mC 
+F = mC / ( PCF / 100 - 0.05*PCF / 100);
+//let A kmol air supplied, taking N2 balance,
+Nair = NN2 * 100/79;
+NO2supplied = Nair - NN2;
+Ntheoretical = F * PCF / (100 * MC);
+Pexcess = ( NO2supplied - Ntheoretical ) * 100 / ( Ntheoretical );
+disp("%",Pexcess,"(a)Percentage excess air = ")
+mair = Nair * 29;
+m = mair / F ;//air supplied per kg of coke charged
+disp("kg",m,"(b)air supplied per kg of coke charged = ")
+P = 100;//kPa
+T = 500;//K
+V = Nflue *22.4143*101.325 * T / (F * P * 273.15);
+disp("m^3",V,"(c)volume of flue gas per kg of coke = ")
+W = 0.05*F;
+mCr = W * PCF/100;//carbon in refuse
+mir = F * (1-PCF/100);//inert in refuse
+mr = mCr + mir;
+C = mCr * 100 / mr;
+I = mir *100/ mr;
+disp("%",C,"(d)Carbon = ")
+disp("%",I,"Inert = ")

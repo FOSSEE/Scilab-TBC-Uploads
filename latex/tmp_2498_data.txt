@@ -1,0 +1,198 @@
+8#Metal Oxide Semiconductor Field Effect Transistor#8.5#IDQ and VDS#ex8_5.sce#2498/CH8/EX8.5/ex8_5.sce#S##97447
+8#Metal Oxide Semiconductor Field Effect Transistor#8.4#Value of ID#ex8_4.sce#2498/CH8/EX8.4/ex8_4.sce#S##97446
+8#Metal Oxide Semiconductor Field Effect Transistor#8.3#Drain curent#ex8_3.sce#2498/CH8/EX8.3/ex8_3.sce#S##97445
+8#Metal Oxide Semiconductor Field Effect Transistor#8.2#Value of VDS#ex8_2.sce#2498/CH8/EX8.2/ex8_2.sce#S##97444
+8#Metal Oxide Semiconductor Field Effect Transistor#8.1#Transfer Characteristics#ex8_1.sce#2498/CH8/EX8.1/ex8_1.sce#S##97442
+7#Junction Field Effect Transistor#7.9#AC drain resistance#ex7_9.sce#2498/CH7/EX7.9/ex7_9.sce#S##97430
+7#Junction Field Effect Transistor#7.8#Value of RGS#ex7_8.sce#2498/CH7/EX7.8/ex7_8.sce#S##97429
+7#Junction Field Effect Transistor#7.7#VGS IDQ VDS VD VG and VS#ex7_7.sce#2498/CH7/EX7.7/ex7_7.sce#S##97428
+7#Junction Field Effect Transistor#7.6#VGS gm Rs and Rd#ex7_6.sce#2498/CH7/EX7.6/ex7_6.sce#S##97427
+7#Junction Field Effect Transistor#7.5#Pinch off voltage and chanel half width#ex7_5.sce#2498/CH7/EX7.5/ex7_5.sce#S##97351
+7#Junction Field Effect Transistor#7.4#VDS and VGS#ex7_4.sce#2498/CH7/EX7.4/ex7_4.sce#S##97350
+7#Junction Field Effect Transistor#7.3#Value of RS and RD#ex7_3.sce#2498/CH7/EX7.3/ex7_3.sce#S##97349
+7#Junction Field Effect Transistor#7.21#IDQ VGSQ and VDS#ex7_21.sce#2498/CH7/EX7.21/ex7_21.sce#S##97440
+7#Junction Field Effect Transistor#7.20#Vds Id and VGS#ex7_20.sce#2498/CH7/EX7.20/ex7_20.sce#S##97439
+7#Junction Field Effect Transistor#7.2#Drain current#ex7_2.sce#2498/CH7/EX7.2/ex7_2.sce#S##97348
+7#Junction Field Effect Transistor#7.19#Change in output voltage#ex7_19.sce#2498/CH7/EX7.19/ex7_19.sce#S##97438
+7#Junction Field Effect Transistor#7.18#Voltage gain and change in output voltage#ex7_18.sce#2498/CH7/EX7.18/ex7_18.sce#S##97437
+7#Junction Field Effect Transistor#7.17#Quiescent drain current drain to source voltage and Av#ex7_17.sce#2498/CH7/EX7.17/ex7_17.sce#S##97436
+7#Junction Field Effect Transistor#7.16#Voltage gain#ex7_16.sce#2498/CH7/EX7.16/ex7_16.sce#S##97435
+7#Junction Field Effect Transistor#7.14#gm rd Zi Zo and Av#ex7_14.sce#2498/CH7/EX7.14/ex7_14.sce#S##97434
+7#Junction Field Effect Transistor#7.12#Pinch off voltage for Si and Ge#ex7_12.sce#2498/CH7/EX7.12/ex7_12.sce#S##97433
+7#Junction Field Effect Transistor#7.11#Id and gm#ex7_11.sce#2498/CH7/EX7.11/ex7_11.sce#S##97432
+7#Junction Field Effect Transistor#7.10#Transconductance#ex7_10.sce#2498/CH7/EX7.10/ex7_10.sce#S##97431
+7#Junction Field Effect Transistor#7.1#Transfer characteristics#ex7_1.sce#2498/CH7/EX7.1/ex7_1.sce#S##97347
+6#Operational Amplifiers#6.m.9#Output voltage#ex_m_6_9.sce#2498/CH6/EX6.m.9/ex_m_6_9.sce#S##97416
+6#Operational Amplifiers#6.m.8#Closed loop voltage gain#ex_m_6_8.sce#2498/CH6/EX6.m.8/ex_m_6_8.sce#S##97415
+6#Operational Amplifiers#6.m.7#Closed loop voltage gain#ex_m_6_7.sce#2498/CH6/EX6.m.7/ex_m_6_7.sce#S##97414
+6#Operational Amplifiers#6.m.6#Maximum and minimum closed loop voltage gain#ex_m_6_6.sce#2498/CH6/EX6.m.6/ex_m_6_6.sce#S##97413
+6#Operational Amplifiers#6.m.5#Minimum and maximum closed loop voltage gain#ex_m_6_5.sce#2498/CH6/EX6.m.5/ex_m_6_5.sce#S##97412
+6#Operational Amplifiers#6.m.4#Range of output voltage#ex_m_6_4.sce#2498/CH6/EX6.m.4/ex_m_6_4.sce#S##97411
+6#Operational Amplifiers#6.m.3#Range of voltage gain#ex_m_6_3.sce#2498/CH6/EX6.m.3/ex_m_6_3.sce#S##97410
+6#Operational Amplifiers#6.m.25#Current through RL resistor#ex_m_6_25.sce#2498/CH6/EX6.m.25/ex_m_6_25.sce#S##97425
+6#Operational Amplifiers#6.m.22#Output voltage#ex_m_6_22.sce#2498/CH6/EX6.m.22/ex_m_6_22.sce#S##97424
+6#Operational Amplifiers#6.m.21#Output voltage#ex_m_6_21.sce#2498/CH6/EX6.m.21/ex_m_6_21.sce#S##97426
+6#Operational Amplifiers#6.m.2#Closed loop gain#ex_m_6_2.sce#2498/CH6/EX6.m.2/ex_m_6_2.sce#S##97409
+6#Operational Amplifiers#6.m.19#Input impedance voltage gain and power gain#ex_m_6_19.sce#2498/CH6/EX6.m.19/ex_m_6_19.sce#S##97423
+6#Operational Amplifiers#6.m.18#Output voltage and percentage error due to common mode#ex_m_6_18.sce#2498/CH6/EX6.m.18/ex_m_6_18.sce#S##97422
+6#Operational Amplifiers#6.m.15#Maximum loop voltage gain#ex_m_6_15.sce#2498/CH6/EX6.m.15/ex_m_6_15.sce#S##97421
+6#Operational Amplifiers#6.m.13#Output voltage#ex_m_6_13.sce#2498/CH6/EX6.m.13/ex_m_6_13.sce#S##97420
+6#Operational Amplifiers#6.m.12#Output voltage#ex_m_6_12.sce#2498/CH6/EX6.m.12/ex_m_6_12.sce#S##97419
+6#Operational Amplifiers#6.m.11#Output voltage#ex_m_6_11.sce#2498/CH6/EX6.m.11/ex_m_6_11.sce#S##97418
+6#Operational Amplifiers#6.m.10#Voltage produced at output terminal#ex_m_6_10.sce#2498/CH6/EX6.m.10/ex_m_6_10.sce#S##97417
+6#Operational Amplifiers#6.m.1#CMRR#ex_m_6_1.sce#2498/CH6/EX6.m.1/ex_m_6_1.sce#S##97408
+6#Operational Amplifiers#6.9#R1 and Rf#ex6_9.sce#2498/CH6/EX6.9/ex6_9.sce#S##97403
+6#Operational Amplifiers#6.8#Output voltage#ex6_8.sce#2498/CH6/EX6.8/ex6_8.sce#S##97402
+6#Operational Amplifiers#6.7#R1 and Rf#ex6_7.sce#2498/CH6/EX6.7/ex6_7.sce#S##97401
+6#Operational Amplifiers#6.6#Output voltage#ex6_6.sce#2498/CH6/EX6.6/ex6_6.sce#S##97400
+6#Operational Amplifiers#6.5#R1 and R2#ex6_5.sce#2498/CH6/EX6.5/ex6_5.sce#S##97399
+6#Operational Amplifiers#6.4#Closed loop voltage gain and input impedance#ex6_4.sce#2498/CH6/EX6.4/ex6_4.sce#S##97398
+6#Operational Amplifiers#6.3#Slew rate#ex6_3.sce#2498/CH6/EX6.3/ex6_3.sce#S##97397
+6#Operational Amplifiers#6.2#Slew rate#ex6_2.sce#2498/CH6/EX6.2/ex6_2.sce#S##97396
+6#Operational Amplifiers#6.14#Closed loop differential gain and output voltage#ex6_14.sce#2498/CH6/EX6.14/ex6_14.sce#S##97407
+6#Operational Amplifiers#6.13#Output voltage#ex6_13.sce#2498/CH6/EX6.13/ex6_13.sce#S##97406
+6#Operational Amplifiers#6.11#Output voltage#ex6_11.sce#2498/CH6/EX6.11/ex6_11.sce#S##97405
+6#Operational Amplifiers#6.10#R1 and Rf#ex6_10.sce#2498/CH6/EX6.10/ex6_10.sce#S##97404
+6#Operational Amplifiers#6.1#Common mode gain#ex6_1.sce#2498/CH6/EX6.1/ex6_1.sce#S##97395
+5#Transistor Amplifier#5.7#Value of Ai Av Avs Ri and Ro#ex5_7.sce#2498/CH5/EX5.7/ex5_7.sce#S##97346
+5#Transistor Amplifier#5.5#h parameters#ex5_5.sce#2498/CH5/EX5.5/ex5_5.sce#S##97345
+5#Transistor Amplifier#5.4#h parameters#ex5_4.sce#2498/CH5/EX5.4/ex5_4.sce#S##97343
+5#Transistor Amplifier#5.36#Frequency of oscillations#ex5_36.sce#2498/CH5/EX5.36/ex5_36.sce#S##97394
+5#Transistor Amplifier#5.34#Frequency of oscillations#ex5_34.sce#2498/CH5/EX5.34/ex5_34.sce#S##97393
+5#Transistor Amplifier#5.33#Value of C#ex5_33.sce#2498/CH5/EX5.33/ex5_33.sce#S##97392
+5#Transistor Amplifier#5.32#Value of capacitor of oscillatory#ex5_32.sce#2498/CH5/EX5.32/ex5_32.sce#S##97391
+5#Transistor Amplifier#5.31#Operating frequency and feedback fraction#ex5_31.sce#2498/CH5/EX5.31/ex5_31.sce#S##97390
+5#Transistor Amplifier#5.30#Range of variable capacitor#ex5_30.sce#2498/CH5/EX5.30/ex5_30.sce#S##97389
+5#Transistor Amplifier#5.3#Paraller and seried resonant frequency and Q factor#ex5_3.sce#2498/CH5/EX5.3/ex5_3.sce#S##97344
+5#Transistor Amplifier#5.29#Frequency of oscillations#ex5_29.sce#2498/CH5/EX5.29/ex5_29.sce#S##97388
+5#Transistor Amplifier#5.27#Stability of an amplifier#ex5_27.sce#2498/CH5/EX5.27/ex5_27.sce#S##97387
+5#Transistor Amplifier#5.26#Minimum gain required for oscillation#ex5_26.sce#2498/CH5/EX5.26/ex5_26.sce#S##97386
+5#Transistor Amplifier#5.25#Percentage reduction in harmonic distortion#ex5_25.sce#2498/CH5/EX5.25/ex5_25.sce#S##97385
+5#Transistor Amplifier#5.24#Feedback fraction#ex5_24.sce#2498/CH5/EX5.24/ex5_24.sce#S##97384
+5#Transistor Amplifier#5.23#Gain and frequency responce#ex5_23.sce#2498/CH5/EX5.23/ex5_23.sce#S##97383
+5#Transistor Amplifier#5.22#Input and output impedance#ex5_22.sce#2498/CH5/EX5.22/ex5_22.sce#S##97382
+5#Transistor Amplifier#5.21#Gain input voltage output voltage with feedback#ex5_21.sce#2498/CH5/EX5.21/ex5_21.sce#S##97381
+5#Transistor Amplifier#5.20#Distortion and new value of input required#ex5_20.sce#2498/CH5/EX5.20/ex5_20.sce#S##97380
+5#Transistor Amplifier#5.2#Value of C#ex5_2.sce#2498/CH5/EX5.2/ex5_2.sce#S##97342
+5#Transistor Amplifier#5.19#Required feedback ration#ex5_19.sce#2498/CH5/EX5.19/ex5_19.sce#S##97379
+5#Transistor Amplifier#5.18#output and input voltage#ex5_18.sce#2498/CH5/EX5.18/ex5_18.sce#S##97378
+5#Transistor Amplifier#5.17#Feedback Factor#ex5_17.sce#2498/CH5/EX5.17/ex5_17.sce#S##97377
+5#Transistor Amplifier#5.16#Change in overall gain#ex5_16.sce#2498/CH5/EX5.16/ex5_16.sce#S##97376
+5#Transistor Amplifier#5.15#Value of A and B#ex5_15.sce#2498/CH5/EX5.15/ex5_15.sce#S##97375
+5#Transistor Amplifier#5.14#Gain of negative feedback amplifier#ex5_14.sce#2498/CH5/EX5.14/ex5_14.sce#S##97374
+5#Transistor Amplifier#5.13#Voltage gain current gain and power gain#ex5_13.sce#2498/CH5/EX5.13/ex5_13.sce#S##97373
+5#Transistor Amplifier#5.11#Ai Ri Av Ro Ro1 and Ap#ex5_11.sce#2498/CH5/EX5.11/ex5_11.sce#S##97372
+5#Transistor Amplifier#5.10#Ai Ri Av and gammaO#ex5_10.sce#2498/CH5/EX5.10/ex5_10.sce#S##97371
+5#Transistor Amplifier#5.1#Value of C and hfe#ex5_1.sce#2498/CH5/EX5.1/ex5_1.sce#S##97341
+4#Bipolar Junction Transistor#4.9#Value of IC and VCE#ex4_9.sce#2498/CH4/EX4.9/ex4_9.sce#S##97339
+4#Bipolar Junction Transistor#4.8#Collector current#ex4_8.sce#2498/CH4/EX4.8/ex4_8.sce#S##97338
+4#Bipolar Junction Transistor#4.7#Collector and emitter current#ex4_7.sce#2498/CH4/EX4.7/ex4_7.sce#S##97337
+4#Bipolar Junction Transistor#4.6#Value of alpha and bita#ex4_6.sce#2498/CH4/EX4.6/ex4_6.sce#S##97336
+4#Bipolar Junction Transistor#4.5#Value of IC using alpha and bita#ex4_5.sce#2498/CH4/EX4.5/ex4_5.sce#S##97335
+4#Bipolar Junction Transistor#4.4#Base current#ex4_4.sce#2498/CH4/EX4.4/ex4_4.sce#S##97334
+4#Bipolar Junction Transistor#4.38#Zi Zo and Av#ex4_38.sce#2498/CH4/EX4.38/ex4_38.sce#S##97370
+4#Bipolar Junction Transistor#4.37#VCE and IE#ex4_37.sce#2498/CH4/EX4.37/ex4_37.sce#S##97369
+4#Bipolar Junction Transistor#4.36#Load line#ex4_36.sce#2498/CH4/EX4.36/ex4_36.sce#S##97368
+4#Bipolar Junction Transistor#4.34#Beta VCC and RB#ex4_34.sce#2498/CH4/EX4.34/ex4_34.sce#S##97367
+4#Bipolar Junction Transistor#4.30#Q point#ex4_30.sce#2498/CH4/EX4.30/ex4_30.sce#S##97366
+4#Bipolar Junction Transistor#4.3#value of Bita#ex4_3.sce#2498/CH4/EX4.3/ex4_3.sce#S##97333
+4#Bipolar Junction Transistor#4.29#ICQ and VCEQ#ex4_29.sce#2498/CH4/EX4.29/ex4_29.sce#S##97365
+4#Bipolar Junction Transistor#4.28#ICO and VCEQ #ex4_28.sce#2498/CH4/EX4.28/ex4_28.sce#S##97364
+4#Bipolar Junction Transistor#4.27#IC and Vo#ex4_27.sce#2498/CH4/EX4.27/ex4_27.sce#S##97363
+4#Bipolar Junction Transistor#4.26#VBB to saturate the transistor#ex4_26.sce#2498/CH4/EX4.26/ex4_26.sce#S##97362
+4#Bipolar Junction Transistor#4.25#Values of resistors#ex4_25.sce#2498/CH4/EX4.25/ex4_25.sce#S##97361
+4#Bipolar Junction Transistor#4.24#Limiting value of R1 and R2#ex4_24.sce#2498/CH4/EX4.24/ex4_24.sce#S##97360
+4#Bipolar Junction Transistor#4.23#Value of RE#ex4_23.sce#2498/CH4/EX4.23/ex4_23.sce#S##97359
+4#Bipolar Junction Transistor#4.21#Q point value#ex4_21.sce#2498/CH4/EX4.21/ex4_21.sce#S##97358
+4#Bipolar Junction Transistor#4.20#Vo and minimum value of RC#ex4_20.sce#2498/CH4/EX4.20/ex4_20.sce#S##97357
+4#Bipolar Junction Transistor#4.2#Collector and base current#ex4_2.sce#2498/CH4/EX4.2/ex4_2.sce#S##97332
+4#Bipolar Junction Transistor#4.19#Region of transistor#ex4_19.sce#2498/CH4/EX4.19/ex4_19.sce#S##97356
+4#Bipolar Junction Transistor#4.15#Value of R1 R2 and RE#ex4_15.sce#2498/CH4/EX4.15/ex4_15.sce#S##97355
+4#Bipolar Junction Transistor#4.13#Q point and stability factor#ex4_13.sce#2498/CH4/EX4.13/ex4_13.sce#S##97354
+4#Bipolar Junction Transistor#4.12#Value of RB#ex4_12.sce#2498/CH4/EX4.12/ex4_12.sce#S##97353
+4#Bipolar Junction Transistor#4.11#Emitter current and collector voltage#ex4_11.sce#2498/CH4/EX4.11/ex4_11.sce#S##97352
+4#Bipolar Junction Transistor#4.10#DC laod line#ex4_10.sce#2498/CH4/EX4.10/ex4_10.sce#S##97340
+4#Bipolar Junction Transistor#4.1#Base current#ex4_1.sce#2498/CH4/EX4.1/ex4_1.sce#S##97331
+3#Zener Diode And LED#3.9#Current flowing through resistance R#ex3_9.sce#2498/CH3/EX3.9/ex3_9.sce#S##97320
+3#Zener Diode And LED#3.8#Zener current#ex3_8.sce#2498/CH3/EX3.8/ex3_8.sce#S##97319
+3#Zener Diode And LED#3.7#Whether zener diode operating in Breakdown region#ex3_7.sce#2498/CH3/EX3.7/ex3_7.sce#S##97318
+3#Zener Diode And LED#3.6#Range of value of Vi#ex3_6.sce#2498/CH3/EX3.6/ex3_6.sce#S##97317
+3#Zener Diode And LED#3.5#Value of VL VR VZ and PZ#ex3_5.sce#2498/CH3/EX3.5/ex3_5.sce#S##97316
+3#Zener Diode And LED#3.4#Maximum power dissipation#ex3_4.sce#2498/CH3/EX3.4/ex3_4.sce#S##97315
+3#Zener Diode And LED#3.3#Value of IZM#ex3_3.sce#2498/CH3/EX3.3/ex3_3.sce#S##97314
+3#Zener Diode And LED#3.2#Terminal voltage#ex3_2.sce#2498/CH3/EX3.2/ex3_2.sce#S##97313
+3#Zener Diode And LED#3.19#Range of possible load current#ex3_19.sce#2498/CH3/EX3.19/ex3_19.sce#S##97330
+3#Zener Diode And LED#3.18#Value of RL#ex3_18.sce#2498/CH3/EX3.18/ex3_18.sce#S##97329
+3#Zener Diode And LED#3.17#Power dissipation in zener diode#ex3_17.sce#2498/CH3/EX3.17/ex3_17.sce#S##97328
+3#Zener Diode And LED#3.16#Minimum value of R#ex3_16.sce#2498/CH3/EX3.16/ex3_16.sce#S##97327
+3#Zener Diode And LED#3.15#Value of RLmin#ex3_15.sce#2498/CH3/EX3.15/ex3_15.sce#S##97326
+3#Zener Diode And LED#3.14#Value of VL IL IZ and IR#ex3_14.sce#2498/CH3/EX3.14/ex3_14.sce#S##97325
+3#Zener Diode And LED#3.13#value of VZ IZ and PZ#ex3_13.sce#2498/CH3/EX3.13/ex3_13.sce#S##97324
+3#Zener Diode And LED#3.12#Output voltage and current through the zener diode#ex3_12.sce#2498/CH3/EX3.12/ex3_12.sce#S##97323
+3#Zener Diode And LED#3.11#Maximum value of Ri#ex3_11.sce#2498/CH3/EX3.11/ex3_11.sce#S##97322
+3#Zener Diode And LED#3.10#Value of VL IL IR and IZ#ex3_10.sce#2498/CH3/EX3.10/ex3_10.sce#S##97321
+3#Zener Diode And LED#3.1#Resistance of device#ex3_1.sce#2498/CH3/EX3.1/ex3_1.sce#S##97312
+2#Diode Applications#2.9#PIV of diode#ex2_9.sce#2498/CH2/EX2.9/ex2_9.sce#S##97291
+2#Diode Applications#2.7#PIV rating#ex2_7.sce#2498/CH2/EX2.7/ex2_7.sce#S##97290
+2#Diode Applications#2.31#Output voltage#ex2_31.sce#2498/CH2/EX2.31/ex2_31.sce#S##97311
+2#Diode Applications#2.30#Output voltage#ex2_30.sce#2498/CH2/EX2.30/ex2_30.sce#S##97310
+2#Diode Applications#2.3#Output DC voltage and current#ex2_3.sce#2498/CH2/EX2.3/ex2_3.sce#S##97289
+2#Diode Applications#2.29#Output waveform#ex2_29.sce#2498/CH2/EX2.29/ex2_29.sce#S##97309
+2#Diode Applications#2.28#Output voltage and voltage across R#ex2_28.sce#2498/CH2/EX2.28/ex2_28.sce#S##97308
+2#Diode Applications#2.27#IR and IRmax#ex2_27.sce#2498/CH2/EX2.27/ex2_27.sce#S##97307
+2#Diode Applications#2.26#Peak output voltage#ex2_26.sce#2498/CH2/EX2.26/ex2_26.sce#S##97306
+2#Diode Applications#2.25#Peak output voltage#ex2_25.sce#2498/CH2/EX2.25/ex2_25.sce#S##97305
+2#Diode Applications#2.24#Percentage ripple#ex2_24.sce#2498/CH2/EX2.24/ex2_24.sce#S##97304
+2#Diode Applications#2.23#Output voltage current and ripple#ex2_23.sce#2498/CH2/EX2.23/ex2_23.sce#S##97303
+2#Diode Applications#2.22#Designing of a filter for full wave circuit#ex2_22.sce#2498/CH2/EX2.22/ex2_22.sce#S##97302
+2#Diode Applications#2.21#Filter capacitor#ex2_21.sce#2498/CH2/EX2.21/ex2_21.sce#S##97301
+2#Diode Applications#2.2#Input AC power#ex2_2.sce#2498/CH2/EX2.2/ex2_2.sce#S##97288
+2#Diode Applications#2.18#DC output voltage and output frequency#ex2_18.sce#2498/CH2/EX2.18/ex2_18.sce#S##97300
+2#Diode Applications#2.17#DC output voltage PIV and rectification efficiency#ex2_17.sce#2498/CH2/EX2.17/ex2_17.sce#S##97299
+2#Diode Applications#2.15#Output voltage for a complete cycle#ex2_15.sce#2498/CH2/EX2.15/ex2_15.sce#S##97298
+2#Diode Applications#2.14#Mean and rms load current and output efficiency#ex2_14.sce#2498/CH2/EX2.14/ex2_14.sce#S##97296
+2#Diode Applications#2.13#Ripple factor#ex2_13.sce#2498/CH2/EX2.13/ex2_13.sce#S##97295
+2#Diode Applications#2.12#Idc and Irms#ex2_12.sce#2498/CH2/EX2.12/ex2_12.sce#S##97294
+2#Diode Applications#2.11#Output waveform#ex2_11.sce#2498/CH2/EX2.11/ex2_11.sce#S##97293
+2#Diode Applications#2.10#Average load current and rectification efficiency#ex2_10.sce#2498/CH2/EX2.10/ex2_10.sce#S##97292
+2#Diode Applications#2.1#Average current and load voltage#ex2_1.sce#2498/CH2/EX2.1/ex2_1.sce#S##97287
+1#Semiconductor Materials And Junction Diode#1.9#Value of temperature#ex1_9.sce#2498/CH1/EX1.9/ex1_9.sce#S##97255
+1#Semiconductor Materials And Junction Diode#1.8#Resistivity of intrinsic Si#ex1_8.sce#2498/CH1/EX1.8/ex1_8.sce#S##97254
+1#Semiconductor Materials And Junction Diode#1.7#Resistivity of Ge sample#ex1_7.sce#2498/CH1/EX1.7/ex1_7.sce#S##97253
+1#Semiconductor Materials And Junction Diode#1.6#Concentration of holes and electrons#ex1_6.sce#2498/CH1/EX1.6/ex1_6.sce#S##97252
+1#Semiconductor Materials And Junction Diode#1.5#Conductivity of the copper#ex1_5.sce#2498/CH1/EX1.5/ex1_5.sce#S##97251
+1#Semiconductor Materials And Junction Diode#1.45#Output waveform#ex1_45.sce#2498/CH1/EX1.45/ex1_45.sce#S##97286
+1#Semiconductor Materials And Junction Diode#1.44#I1 and I2#ex1_44.sce#2498/CH1/EX1.44/ex1_44.sce#S##97285
+1#Semiconductor Materials And Junction Diode#1.43#Voltages#ex1_43.sce#2498/CH1/EX1.43/ex1_43.sce#S##97284
+1#Semiconductor Materials And Junction Diode#1.40#Operating Point#ex1_40.sce#2498/CH1/EX1.40/ex1_40.sce#S##97283
+1#Semiconductor Materials And Junction Diode#1.4#Conductivity of Si sample#ex1_4.sce#2498/CH1/EX1.4/ex1_4.sce#S##97250
+1#Semiconductor Materials And Junction Diode#1.39#Current in each branch#ex1_39.sce#2498/CH1/EX1.39/ex1_39.sce#S##97282
+1#Semiconductor Materials And Junction Diode#1.38#Vo and ID#ex1_38.sce#2498/CH1/EX1.38/ex1_38.sce#S##97281
+1#Semiconductor Materials And Junction Diode#1.37#Drain current#ex1_37.sce#2498/CH1/EX1.37/ex1_37.sce#S##97280
+1#Semiconductor Materials And Junction Diode#1.36#Voltage#ex1_36.sce#2498/CH1/EX1.36/ex1_36.sce#S##97279
+1#Semiconductor Materials And Junction Diode#1.35#Transition capacitance#ex1_35.sce#2498/CH1/EX1.35/ex1_35.sce#S##97278
+1#Semiconductor Materials And Junction Diode#1.34#Transition capacitance#ex1_34.sce#2498/CH1/EX1.34/ex1_34.sce#S##97277
+1#Semiconductor Materials And Junction Diode#1.33#Space charge capacitance of Ge diode#ex1_33.sce#2498/CH1/EX1.33/ex1_33.sce#S##97276
+1#Semiconductor Materials And Junction Diode#1.32#VOlage drop across the forward bias diode#ex1_32.sce#2498/CH1/EX1.32/ex1_32.sce#S##97275
+1#Semiconductor Materials And Junction Diode#1.31#Operating Point#ex1_31.sce#2498/CH1/EX1.31/ex1_31.sce#S##97274
+1#Semiconductor Materials And Junction Diode#1.30#Factor#ex1_30.sce#2498/CH1/EX1.30/ex1_30.sce#S##97273
+1#Semiconductor Materials And Junction Diode#1.3#Intrinsic carrier concentration#ex1_3.sce#2498/CH1/EX1.3/ex1_3.sce#S##97249
+1#Semiconductor Materials And Junction Diode#1.29#Voltage#ex1_29.sce#2498/CH1/EX1.29/ex1_29.sce#S##97272
+1#Semiconductor Materials And Junction Diode#1.28#Dynamic resistance#ex1_28.sce#2498/CH1/EX1.28/ex1_28.sce#S##97271
+1#Semiconductor Materials And Junction Diode#1.26#Flowing current#ex1_26.sce#2498/CH1/EX1.26/ex1_26.sce#S##97270
+1#Semiconductor Materials And Junction Diode#1.25#Dopping efficiency of sample#ex1_25.sce#2498/CH1/EX1.25/ex1_25.sce#S##97269
+1#Semiconductor Materials And Junction Diode#1.24#Concentration of donar atoms added#ex1_24.sce#2498/CH1/EX1.24/ex1_24.sce#S##97268
+1#Semiconductor Materials And Junction Diode#1.23#Position of Fermi level#ex1_23.sce#2498/CH1/EX1.23/ex1_23.sce#S##97267
+1#Semiconductor Materials And Junction Diode#1.22#Dopping needed#ex1_22.sce#2498/CH1/EX1.22/ex1_22.sce#S##97266
+1#Semiconductor Materials And Junction Diode#1.21#Concentration of donar atoms#ex1_21.sce#2498/CH1/EX1.21/ex1_21.sce#S##97265
+1#Semiconductor Materials And Junction Diode#1.20#Voltage between contact#ex1_20.sce#2498/CH1/EX1.20/ex1_20.sce#S##97264
+1#Semiconductor Materials And Junction Diode#1.2#Intrinsic Conductivity#ex1_2.sce#2498/CH1/EX1.2/ex1_2.sce#S##97248
+1#Semiconductor Materials And Junction Diode#1.19#Hall angle#ex1_19.sce#2498/CH1/EX1.19/ex1_19.sce#S##97263
+1#Semiconductor Materials And Junction Diode#1.18#Concentration of holes and electrons#ex1_18.sce#2498/CH1/EX1.18/ex1_18.sce#S##97262
+1#Semiconductor Materials And Junction Diode#1.17#Conductivity mobility and drift velocity#ex1_17.sce#2498/CH1/EX1.17/ex1_17.sce#S##97261
+1#Semiconductor Materials And Junction Diode#1.15#Doping level and drift velocity#ex1_15.sce#2498/CH1/EX1.15/ex1_15.sce#S##97260
+1#Semiconductor Materials And Junction Diode#1.14#Minority carrier concentration#ex1_14.sce#2498/CH1/EX1.14/ex1_14.sce#S##97259
+1#Semiconductor Materials And Junction Diode#1.12#Resistivity#ex1_12.sce#2498/CH1/EX1.12/ex1_12.sce#S##97258
+1#Semiconductor Materials And Junction Diode#1.11#Conductivity and resistivity of an intrinsic sample#ex1_12.sce#2498/CH1/EX1.11/ex1_12.sce#S##97257
+1#Semiconductor Materials And Junction Diode#1.10#Minority carrier concentration#ex1_10.sce#2498/CH1/EX1.10/ex1_10.sce#S##97256
+1#Semiconductor Materials And Junction Diode#1.1#Drift velocity#ex1_1.sce#2498/CH1/EX1.1/ex1_1.sce#S##97247

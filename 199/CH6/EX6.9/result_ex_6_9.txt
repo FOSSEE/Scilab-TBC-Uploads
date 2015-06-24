@@ -1,0 +1,2 @@
+* Feedback resisrance is = 1849.5 ohm
+* Gain of the differential amplifier is = 38.0

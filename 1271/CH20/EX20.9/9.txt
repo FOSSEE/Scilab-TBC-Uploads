@@ -1,0 +1,5 @@
+ # PROBLEM 9 # 
+Standard formula used 
+ I = ne 
+
+ Number of electrons striking the anode per sec is 6.250000e+15.

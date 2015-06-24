@@ -1,0 +1,114 @@
+11#Power supply for electric traction#11.9#voltage#ex_11_9.sce#2213/CH11/EX11.9/ex_11_9.sce#S##92703
+11#Power supply for electric traction#11.8#rating of the booster#ex_11_8.sce#2213/CH11/EX11.8/ex_11_8.sce#S##76226
+11#Power supply for electric traction#11.7#voltage and kW#ex_11_7.sce#2213/CH11/EX11.7/ex_11_7.sce#S##76225
+11#Power supply for electric traction#11.6#current#ex_11_6.sce#2213/CH11/EX11.6/ex_11_6.sce#S##76224
+11#Power supply for electric traction#11.5#potential#ex_11_5.sce#2213/CH11/EX11.5/ex_11_5.sce#S##76223
+11#Power supply for electric traction#11.4#current#ex_11_4.sce#2213/CH11/EX11.4/ex_11_4.sce#S##76222
+11#Power supply for electric traction#11.3#sag#ex_11_3.sce#2213/CH11/EX11.3/ex_11_3.sce#S##80758
+11#Power supply for electric traction#11.2#sag#ex_11_2.sce#2213/CH11/EX11.2/ex_11_2.sce#S##76220
+11#Power supply for electric traction#11.1#total length#ex_11_1.sce#2213/CH11/EX11.1/ex_11_1.sce#S##76219
+10#Braking Mechanical Consideration and Control Equipment#10.6#power#ex_10_6.sce#2213/CH10/EX10.6/ex_10_6.sce#S##76218
+10#Braking Mechanical Consideration and Control Equipment#10.5#power#ex_10_5.sce#2213/CH10/EX10.5/ex_10_5.sce#S##76217
+10#Braking Mechanical Consideration and Control Equipment#10.4#energy returned#ex_10_4.sce#2213/CH10/EX10.4/ex_10_4.sce#S##76216
+10#Braking Mechanical Consideration and Control Equipment#10.3#electrical energy and average power#ex_10_3.sce#2213/CH10/EX10.3/ex_10_3.sce#S##76215
+10#Braking Mechanical Consideration and Control Equipment#10.2#resistance#ex_10_2.sce#2213/CH10/EX10.2/ex_10_2.sce#S##80757
+10#Braking Mechanical Consideration and Control Equipment#10.1#braking torque#ex_10_1.sce#2213/CH10/EX10.1/ex_10_1.sce#S##76213
+9#Control of Traction Motors#9.6#speed and drawbar pull#ex_9_6.sce#2213/CH9/EX9.6/ex_9_6.sce#S##76212
+9#Control of Traction Motors#9.5#diverter resistance#ex_9_5.sce#2213/CH9/EX9.5/ex_9_5.sce#S##76211
+9#Control of Traction Motors#9.4#time duration speed and rheostatic losses#ex_9_4.sce#2213/CH9/EX9.4/ex_9_4.sce#S##92702
+9#Control of Traction Motors#9.3#efficiency and speed#ex_9_3.sce#2213/CH9/EX9.3/ex_9_3.sce#S##92701
+9#Control of Traction Motors#9.2#rheostatic losses and train speed#ex_9_2.sce#2213/CH9/EX9.2/ex_9_2.sce#S##92700
+9#Control of Traction Motors#9.1#energy lost and total energy#ex_9_1.sce#2213/CH9/EX9.1/ex_9_1.sce#S##92699
+8#Electric Traction Motors#8.9#power input and tractive efforts#ex_8_9.sce#2213/CH8/EX8.9/ex_8_9.sce#S##80754
+8#Electric Traction Motors#8.8#motor speed#ex_8_8.sce#2213/CH8/EX8.8/ex_8_8.sce#S##76199
+8#Electric Traction Motors#8.7#new characterstics#ex_8_7.sce#2213/CH8/EX8.7/ex_8_7.sce#S##76198
+8#Electric Traction Motors#8.6#power delivered#ex_8_6.sce#2213/CH8/EX8.6/ex_8_6.sce#S##92698
+8#Electric Traction Motors#8.5#current#ex_8_5.sce#2213/CH8/EX8.5/ex_8_5.sce#S##76195
+8#Electric Traction Motors#8.4#speed and voltage#ex_8_4.sce#2213/CH8/EX8.4/ex_8_4.sce#S##76194
+8#Electric Traction Motors#8.3#motor speed and current#ex_8_3.sce#2213/CH8/EX8.3/ex_8_3.sce#S##76193
+8#Electric Traction Motors#8.2#speed torque curve#ex_8_2.sce#2213/CH8/EX8.2/ex_8_2.sce#S##80753
+8#Electric Traction Motors#8.10#linear synchronous and vehicle speed#ex_8_10.sce#2213/CH8/EX8.10/ex_8_10.sce#S##76200
+8#Electric Traction Motors#8.1#speed armature current characterstic#ex_8_1.sce#2213/CH8/EX8.1/ex_8_1.sce#S##80752
+7#Train Movement and Energy Consumption#7.9#time taken and current#ex_7_9.sce#2213/CH7/EX7.9/ex_7_9.sce#S##80746
+7#Train Movement and Energy Consumption#7.8#torque#ex_7_8.sce#2213/CH7/EX7.8/ex_7_8.sce#S##80745
+7#Train Movement and Energy Consumption#7.7#duration of acceleration coasting and braking periods#ex_7_7.sce#2213/CH7/EX7.7/ex_7_7.sce#S##80744
+7#Train Movement and Energy Consumption#7.6#retardation#ex_7_6.sce#2213/CH7/EX7.6/ex_7_6.sce#S##76159
+7#Train Movement and Energy Consumption#7.5#acceleration#ex_7_5.sce#2213/CH7/EX7.5/ex_7_5.sce#S##76158
+7#Train Movement and Energy Consumption#7.4#sceduled speed#ex_7_4.sce#2213/CH7/EX7.4/ex_7_4.sce#S##80743
+7#Train Movement and Energy Consumption#7.3#speed#ex_7_3.sce#2213/CH7/EX7.3/ex_7_3.sce#S##76156
+7#Train Movement and Energy Consumption#7.27#torque and weight#ex_7_27.sce#2213/CH7/EX7.27/ex_7_27.sce#S##76190
+7#Train Movement and Energy Consumption#7.26#acceleration#ex_7_26.sce#2213/CH7/EX7.26/ex_7_26.sce#S##76189
+7#Train Movement and Energy Consumption#7.25#trailing weight and maximum gradiant#ex_7_25.sce#2213/CH7/EX7.25/ex_7_25.sce#S##92697
+7#Train Movement and Energy Consumption#7.24#weight and number of axles#ex_7_24.sce#2213/CH7/EX7.24/ex_7_24.sce#S##76186
+7#Train Movement and Energy Consumption#7.23#weight and number of axles#ex_7_23.sce#2213/CH7/EX7.23/ex_7_23.sce#S##76185
+7#Train Movement and Energy Consumption#7.22#specific energy consumption#ex_7_22.sce#2213/CH7/EX7.22/ex_7_22.sce#S##76184
+7#Train Movement and Energy Consumption#7.21#Schedule speed specific energy consumption total energy consumption and distance#ex_7_21.sce#2213/CH7/EX7.21/ex_7_21.sce#S##92696
+7#Train Movement and Energy Consumption#7.20#maximum power and specific energy consumption#ex_7_20.sce#2213/CH7/EX7.20/ex_7_20.sce#S##92695
+7#Train Movement and Energy Consumption#7.2#plot the curve#ex_7_2.sce#2213/CH7/EX7.2/ex_7_2.sce#S##80751
+7#Train Movement and Energy Consumption#7.19#maximum power and energy taken#ex_7_19.sce#2213/CH7/EX7.19/ex_7_19.sce#S##92694
+7#Train Movement and Energy Consumption#7.18#maximum power total energy consumption and specific energy consumption#ex_7_18.sce#2213/CH7/EX7.18/ex_7_18.sce#S##92693
+7#Train Movement and Energy Consumption#7.17#sceduled speed and specific energy consumption#ex_7_17.sce#2213/CH7/EX7.17/ex_7_17.sce#S##80748
+7#Train Movement and Energy Consumption#7.16#sceduled speed and specific energy consumption#ex_7_16.sce#2213/CH7/EX7.16/ex_7_16.sce#S##80747
+7#Train Movement and Energy Consumption#7.15#specific energy consumption#ex_7_15.sce#2213/CH7/EX7.15/ex_7_15.sce#S##76170
+7#Train Movement and Energy Consumption#7.14#energy consumption#ex_7_14.sce#2213/CH7/EX7.14/ex_7_14.sce#S##76169
+7#Train Movement and Energy Consumption#7.13#maximum power and distance travelled#ex_7_13.sce#2213/CH7/EX7.13/ex_7_13.sce#S##76168
+7#Train Movement and Energy Consumption#7.12#sceduled speed#ex_7_12.sce#2213/CH7/EX7.12/ex_7_12.sce#S##76167
+7#Train Movement and Energy Consumption#7.11#acceleration coasting retardation and scheduled speed#ex_7_11.sce#2213/CH7/EX7.11/ex_7_11.sce#S##92692
+7#Train Movement and Energy Consumption#7.10#time taken and current#ex_7_10.sce#2213/CH7/EX7.10/ex_7_10.sce#S##76163
+7#Train Movement and Energy Consumption#7.1#distance average speed and scheduled speed#ex_7_1.sce#2213/CH7/EX7.1/ex_7_1.sce#S##92691
+5#Refrigeration and Air conditioning#5.2#rating of heater#ex_5_2.sce#2213/CH5/EX5.2/ex_5_2.sce#S##76152
+5#Refrigeration and Air conditioning#5.1#power#ex_5_1.sce#2213/CH5/EX5.1/ex_5_1.sce#S##76151
+4#Illumination#4.9#candle power#ex_4_9.sce#2213/CH4/EX4.9/ex_4_9.sce#S##76127
+4#Illumination#4.8#height and Illumination#ex_4_8.sce#2213/CH4/EX4.8/ex_4_8.sce#S##76126
+4#Illumination#4.7#Illumination and lamp efficiency#ex_4_7.sce#2213/CH4/EX4.7/ex_4_7.sce#S##80736
+4#Illumination#4.5#average intensity of Illumination#ex_4_5.sce#2213/CH4/EX4.5/ex_4_5.sce#S##80735
+4#Illumination#4.4#Illumination#ex_4_4.sce#2213/CH4/EX4.4/ex_4_4.sce#S##76123
+4#Illumination#4.31#number and size#ex_4_31.sce#2213/CH4/EX4.31/ex_4_31.sce#S##80740
+4#Illumination#4.30#Illumination#ex_4_30.sce#2213/CH4/EX4.30/ex_4_30.sce#S##76149
+4#Illumination#4.3#average luminance#ex_4_3.sce#2213/CH4/EX4.3/ex_4_3.sce#S##76122
+4#Illumination#4.29#space height ratio#ex_4_29.sce#2213/CH4/EX4.29/ex_4_29.sce#S##76148
+4#Illumination#4.28#number spacing height and totl wattge#ex_4_28.sce#2213/CH4/EX4.28/ex_4_28.sce#S##76147
+4#Illumination#4.27#number and wattage#ex_4_27.sce#2213/CH4/EX4.27/ex_4_27.sce#S##76146
+4#Illumination#4.26#number rating and dipsotion of lamps#ex_4_26.sce#2213/CH4/EX4.26/ex_4_26.sce#S##80741
+4#Illumination#4.25#number rating and dipsotion of lamps#ex_4_25.sce#2213/CH4/EX4.25/ex_4_25.sce#S##76145
+4#Illumination#4.24#number location and wattage#ex_4_24.sce#2213/CH4/EX4.24/ex_4_24.sce#S##76144
+4#Illumination#4.23#average Illumination#ex_4_23.sce#2213/CH4/EX4.23/ex_4_23.sce#S##76143
+4#Illumination#4.22#constants and change of candle power per volt#ex_4_22.sce#2213/CH4/EX4.22/ex_4_22.sce#S##92690
+4#Illumination#4.21#compare diameter and length#ex_4_21.sce#2213/CH4/EX4.21/ex_4_21.sce#S##80739
+4#Illumination#4.20#capacitance#ex_4_20.sce#2213/CH4/EX4.20/ex_4_20.sce#S##80738
+4#Illumination#4.2#lumens per watt and MSCP#ex_4_2.sce#2213/CH4/EX4.2/ex_4_2.sce#S##80734
+4#Illumination#4.19#candle power#ex_4_19.sce#2213/CH4/EX4.19/ex_4_19.sce#S##80737
+4#Illumination#4.18#wattage#ex_4_18.sce#2213/CH4/EX4.18/ex_4_18.sce#S##76137
+4#Illumination#4.17#spacing#ex_4_17.sce#2213/CH4/EX4.17/ex_4_17.sce#S##81513
+4#Illumination#4.16#Illumination#ex_4_16.sce#2213/CH4/EX4.16/ex_4_16.sce#S##76135
+4#Illumination#4.15#Illumination#ex_4_15.sce#2213/CH4/EX4.15/ex_4_15.sce#S##76134
+4#Illumination#4.14#Illumination#ex_4_14.sce#2213/CH4/EX4.14/ex_4_14.sce#S##76133
+4#Illumination#4.13#Illumination#ex_4_13.sce#2213/CH4/EX4.13/ex_4_13.sce#S##92689
+4#Illumination#4.12#maximum and minimum Illumination#ex_4_12.sce#2213/CH4/EX4.12/ex_4_12.sce#S##76130
+4#Illumination#4.11#total light flux and average Illumination#ex_4_11.sce#2213/CH4/EX4.11/ex_4_11.sce#S##76129
+4#Illumination#4.10#distance#ex_4_10.sce#2213/CH4/EX4.10/ex_4_10.sce#S##76128
+4#Illumination#4.1#MSCP#ex_4_1.sce#2213/CH4/EX4.1/ex_4_1.sce#S##80733
+3#Electrolytic processes#3.9#WEIGHT OF ALUMINIUM#ex_3_9.sce#2213/CH3/EX3.9/ex_3_9.sce#S##76118
+3#Electrolytic processes#3.8#voltage#ex_3_8.sce#2213/CH3/EX3.8/ex_3_8.sce#S##76117
+3#Electrolytic processes#3.7#energy consumption#ex_3_7.sce#2213/CH3/EX3.7/ex_3_7.sce#S##76116
+3#Electrolytic processes#3.6#current#ex_3_6.sce#2213/CH3/EX3.6/ex_3_6.sce#S##76115
+3#Electrolytic processes#3.5#thickness#ex_3_5.sce#2213/CH3/EX3.5/ex_3_5.sce#S##80732
+3#Electrolytic processes#3.4#thickness#ex_3_4.sce#2213/CH3/EX3.4/ex_3_4.sce#S##76113
+3#Electrolytic processes#3.3#weight of copper#ex_3_3.sce#2213/CH3/EX3.3/ex_3_3.sce#S##80731
+3#Electrolytic processes#3.2#amount of copper#ex_3_2.sce#2213/CH3/EX3.2/ex_3_2.sce#S##80730
+3#Electrolytic processes#3.10#quantity of electricity and ime taken#ex_3_10.sce#2213/CH3/EX3.10/ex_3_10.sce#S##76119
+3#Electrolytic processes#3.1#ampere hours#ex_3_1.sce#2213/CH3/EX3.1/ex_3_1.sce#S##80729
+1#Electric heating#1.9#power absorbed and power factor#ex_1_9.sce#2213/CH1/EX1.9/ex_1_9.sce#S##76103
+1#Electric heating#1.8#efficiency#ex_1_8.sce#2213/CH1/EX1.8/ex_1_8.sce#S##76102
+1#Electric heating#1.7#rating#ex_1_7.sce#2213/CH1/EX1.7/ex_1_7.sce#S##76101
+1#Electric heating#1.6#average kW and kVA and pf#ex_1_6.sce#2213/CH1/EX1.6/ex_1_6.sce#S##92705
+1#Electric heating#1.5#average kW and kVA and pf#ex_1_5.sce#2213/CH1/EX1.5/ex_1_5.sce#S##92704
+1#Electric heating#1.4#efficiency#ex_1_4.sce#2213/CH1/EX1.4/ex_1_4.sce#S##76098
+1#Electric heating#1.3#design the heating element#ex_1_3.sce#2213/CH1/EX1.3/ex_1_3.sce#S##76097
+1#Electric heating#1.2#diameter and length of wire#ex_1_2.sce#2213/CH1/EX1.2/ex_1_2.sce#S##76096
+1#Electric heating#1.14#voltage and current#ex_1_14.sce#2213/CH1/EX1.14/ex_1_14.sce#S##92688
+1#Electric heating#1.13#voltage and current#ex_1_13.sce#2213/CH1/EX1.13/ex_1_13.sce#S##80728
+1#Electric heating#1.12#power required#ex_1_12.sce#2213/CH1/EX1.12/ex_1_12.sce#S##81512
+1#Electric heating#1.11#frequency#ex_1_11.sce#2213/CH1/EX1.11/ex_1_11.sce#S##76105
+1#Electric heating#1.10#height#ex_1_10.sce#2213/CH1/EX1.10/ex_1_10.sce#S##80726
+1#Electric heating#1.1#power drawm#ex_1_1.sce#2213/CH1/EX1.1/ex_1_1.sce#S##92687

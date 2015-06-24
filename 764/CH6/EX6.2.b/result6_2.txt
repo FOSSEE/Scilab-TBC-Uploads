@@ -1,0 +1,53 @@
+-->//(Power Screws) Example 6.1
+ 
+-->//Number of threads n
+ 
+-->n = 2
+ n  =
+ 
+    2.  
+ 
+-->//Load to be raised W (kN)
+ 
+-->W = 300
+ W  =
+ 
+    300.  
+ 
+-->//Nominal diameter of the screw d (mm)
+ 
+-->d = 100
+ d  =
+ 
+    100.  
+ 
+-->//Pitch of the screw p (mm)
+ 
+-->p = 12
+ p  =
+ 
+    12.  
+ 
+-->//Coefficient of friction at the screw threads mu
+ 
+-->mu = 0.15
+ mu  =
+ 
+    0.15  
+ 
+-->//For ISO Metric Trapezoidal threads theta (degree)
+ 
+-->theta = 15
+ theta  =
+ 
+    15.  
+ 
+-->//Neglect collar friction
+ 
+
+Torque required to raise the load(Mt) = 3378.159205 N-m
+
+Torque required to lower the load(Ml) = 1030.685630 N-m
+
+Efficiency of screw(eta) = 33.921302 percent
+ 

@@ -1,0 +1,10 @@
+printf("closed loop transfer function =1/(s^2+R/L*s+1/LC)");
+printf("characterstic equation of the given system is s^2+R/L*s+1/LC=0");
+printf("compare it with the standard second order characterstic equation s^2+2*d*w*s+w^2=0");
+R=1000; //given
+L=10^-2;//given
+C=10^-8;//given
+d=R/2*sqrt(C/L);
+w=1/sqrt(L*C);
+disp(d,"damping ratio=");
+disp(w,"undamped natural frequency(in rad/sec)=");

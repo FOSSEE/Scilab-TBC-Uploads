@@ -1,0 +1,7 @@
+ # PROBLEM 20 # 
+Standard formula used 
+  E = (h * c) * (1 / lambda1 - 1 / lambda2) 
+ E = (h * c)/ lambda 
+
+ Threshold wavelength is 5642 Angstrom.
+ Incident electromagnetic wavelength is 2002.016129 Angstrom

@@ -1,0 +1,3 @@
+ Speed of generator (in rpm)=   
+ 
+    1441.788

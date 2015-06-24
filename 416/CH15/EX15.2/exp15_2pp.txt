@@ -1,0 +1,6 @@
+  
+ example 15.2   
+voltage E=1512V 
+ voltage gradient 2520V/m 
+ voltage across load 982.8V 
+ voltage gradient due to load voltage 1638v 

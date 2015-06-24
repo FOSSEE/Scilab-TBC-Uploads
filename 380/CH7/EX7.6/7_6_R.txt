@@ -1,0 +1,17 @@
+ (a)  For 80% lagging power factor of load   
+ 
+ voltage regulation (%)=   
+ 
+    94.804478  
+ 
+ (b)  For Unity power factor of load   
+ 
+ voltage regulation (%)=   
+ 
+    55.02296  
+ 
+ (c)  For 80% leading power factor of load   
+ 
+ voltage regulation (%)=   
+ 
+  - 0.2564051 

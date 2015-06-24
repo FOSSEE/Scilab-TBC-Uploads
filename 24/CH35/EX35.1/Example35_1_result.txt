@@ -1,0 +1,5 @@
+**Sample Problem 35-1a**
+The image is virtual & on the opposite side of mirror because of having same orientation
+
+**Sample Problem 35-1b**
+The height of image is smaller than the object. Therefore, the mirror is concave

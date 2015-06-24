@@ -1,0 +1,2 @@
+ (a)AC voltage required = 326.73 V
+(b)Rectification efficiency = 39 percent 

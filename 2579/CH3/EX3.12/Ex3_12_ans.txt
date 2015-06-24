@@ -1,0 +1,1 @@
+ The directivity of an end fire array, D=2/(1+sin(2Bd)/2Bd)

@@ -1,0 +1,2 @@
+**Sample Problem 42-6**
+The fraction of Phosphorus atoms with Silicon atoms is equal to 2.002341e-007

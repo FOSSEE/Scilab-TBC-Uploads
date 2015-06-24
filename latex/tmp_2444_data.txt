@@ -1,0 +1,121 @@
+10#Multivibrators#10.5#Stable current and voltages#ex10_5.sce#2444/CH10/EX10.5/ex10_5.sce#S##92228
+10#Multivibrators#10.4#Component value of monostable mutivibrator#ex10_4.sce#2444/CH10/EX10.4/ex10_4.sce#S##92226
+10#Multivibrators#10.3#Check up the saturation of the transistor#ex10_3.sce#2444/CH10/EX10.3/ex10_3.sce#S##90152
+10#Multivibrators#10.2#Astable multivibrator#ex10_2.sce#2444/CH10/EX10.2/ex10_2.sce#S##90151
+10#Multivibrators#10.1#Time period and frequency#ex10_1.sce#2444/CH10/EX10.1/ex10_1.sce#S##90150
+9#Tuned Amplifiers#9.1#Resonant frequency and Q factor and bandwidth#ex9_1.sce#2444/CH9/EX9.1/ex9_1.sce#S##90149
+8#Multistage Amplifiers#8.9#Transformer turn ratio and load voltage#ex8_9.sce#2444/CH8/EX8.9/ex8_9.sce#S##90143
+8#Multistage Amplifiers#8.8#Transformer turn ratio#ex8_8.sce#2444/CH8/EX8.8/ex8_8.sce#S##90142
+8#Multistage Amplifiers#8.7#Transformer turn ratio#ex8_7.sce#2444/CH8/EX8.7/ex8_7.sce#S##90141
+8#Multistage Amplifiers#8.5#Input and output impedance voltage gain#ex8_5.sce#2444/CH8/EX8.5/ex8_5.sce#S##90140
+8#Multistage Amplifiers#8.4#Input and output impedance and overall voltage gain#ex8_4.sce#2444/CH8/EX8.4/ex8_4.sce#S##90139
+8#Multistage Amplifiers#8.3#Overall voltage gain#ex8_3.sce#2444/CH8/EX8.3/ex8_3.sce#S##90138
+8#Multistage Amplifiers#8.2#Voltage gain of the first stage in dB#ex8_2.sce#2444/CH8/EX8.2/ex8_2.sce#S##90137
+8#Multistage Amplifiers#8.14#Z matrix for idential T1 and T2#ex8_14.sce#2444/CH8/EX8.14/ex8_14.sce#S##90148
+8#Multistage Amplifiers#8.13#Upper and lower 3dB frequency#ex8_13.sce#2444/CH8/EX8.13/ex8_13.sce#S##90147
+8#Multistage Amplifiers#8.12#Voltage gain and input output impedance and output voltage#ex8_12.sce#2444/CH8/EX8.12/ex8_12.sce#S##90146
+8#Multistage Amplifiers#8.11#Voltage gain and input resistance#ex8_11.sce#2444/CH8/EX8.11/ex8_11.sce#S##90145
+8#Multistage Amplifiers#8.10#Av2 and Av1 and Av in dB#ex8_10.sce#2444/CH8/EX8.10/ex8_10.sce#S##90144
+8#Multistage Amplifiers#8.1#Overall voltage gain in dB#ex8_1.sce#2444/CH8/EX8.1/ex8_1.sce#S##90136
+7#Oscillators#7.9#Value of inductance#ex7_9.sce#2444/CH7/EX7.9/ex7_9.sce#S##90128
+7#Oscillators#7.8#Resonance frequencies#ex7_8.sce#2444/CH7/EX7.8/ex7_8.sce#S##90127
+7#Oscillators#7.7#Frequency of oscillations#ex7_7.sce#2444/CH7/EX7.7/ex7_7.sce#S##90126
+7#Oscillators#7.6#Frequency of oscillaiton#ex7_6.sce#2444/CH7/EX7.6/ex7_6.sce#S##90125
+7#Oscillators#7.5#Range of inductance#ex7_5.sce#2444/CH7/EX7.5/ex7_5.sce#S##90124
+7#Oscillators#7.4#Operating frequency#ex7_4.sce#2444/CH7/EX7.4/ex7_4.sce#S##90123
+7#Oscillators#7.3#Transformer winding turn ratio#ex7_3.sce#2444/CH7/EX7.3/ex7_3.sce#S##90122
+7#Oscillators#7.2#Range of required capacitor#ex7_2.sce#2444/CH7/EX7.2/ex7_2.sce#S##90121
+7#Oscillators#7.16#Pulse repetition frequency#ex7_16.sce#2444/CH7/EX7.16/ex7_16.sce#S##90135
+7#Oscillators#7.15#Frequency of oscillations#ex7_15.sce#2444/CH7/EX7.15/ex7_15.sce#S##90134
+7#Oscillators#7.14#RC elements of a Wien bridge oscillator#ex7_14.sce#2444/CH7/EX7.14/ex7_14.sce#S##90133
+7#Oscillators#7.13#RC elements of a Wien bridge oscillator#ex7_13.sce#2444/CH7/EX7.13/ex7_13.sce#S##90132
+7#Oscillators#7.12#Value of resistances#ex7_12.sce#2444/CH7/EX7.12/ex7_12.sce#S##90131
+7#Oscillators#7.11#Frequency of oscillations#ex7_11.sce#2444/CH7/EX7.11/ex7_11.sce#S##90130
+7#Oscillators#7.10#Percentage by parallel resosnant frequency greater than series#ex7_10.sce#2444/CH7/EX7.10/ex7_10.sce#S##90129
+7#Oscillators#7.1#Frequency of oscillaiton#ex7_1.sce#2444/CH7/EX7.1/ex7_1.sce#S##90120
+6#Feedback Amplifiers#6.9#Voltage gain without feedback#ex6_9.sce#2444/CH6/EX6.9/ex6_9.sce#S##90103
+6#Feedback Amplifiers#6.8#Percentage of output#ex6_8.sce#2444/CH6/EX6.8/ex6_8.sce#S##90102
+6#Feedback Amplifiers#6.7#Feedback factor#ex6_7.sce#2444/CH6/EX6.7/ex6_7.sce#S##90101
+6#Feedback Amplifiers#6.6#Gain with feedback#ex6_6.sce#2444/CH6/EX6.6/ex6_6.sce#S##90100
+6#Feedback Amplifiers#6.5#Gain in dB#ex6_5.sce#2444/CH6/EX6.5/ex6_5.sce#S##90099
+6#Feedback Amplifiers#6.4#Voltage gain with feedback#ex6_4.sce#2444/CH6/EX6.4/ex6_4.sce#S##90098
+6#Feedback Amplifiers#6.3#Gain of a negative feedback amplifier#ex6_3.sce#2444/CH6/EX6.3/ex6_3.sce#S##90097
+6#Feedback Amplifiers#6.25#Input impedance#ex6_25.sce#2444/CH6/EX6.25/ex6_25.sce#S##90119
+6#Feedback Amplifiers#6.24#New bandwidth and gain#ex6_24.sce#2444/CH6/EX6.24/ex6_24.sce#S##90118
+6#Feedback Amplifiers#6.23#Feedback factor and bandwidth#ex6_23.sce#2444/CH6/EX6.23/ex6_23.sce#S##90117
+6#Feedback Amplifiers#6.22#Amplifier voltage gain#ex6_22.sce#2444/CH6/EX6.22/ex6_22.sce#S##90116
+6#Feedback Amplifiers#6.21#Feedback factor and percentage change in overall gain#ex6_21.sce#2444/CH6/EX6.21/ex6_21.sce#S##90115
+6#Feedback Amplifiers#6.20#Voltage gain and input output resistance#ex6_20.sce#2444/CH6/EX6.20/ex6_20.sce#S##90114
+6#Feedback Amplifiers#6.2#Voltage gain#ex6_2.sce#2444/CH6/EX6.2/ex6_2.sce#S##90096
+6#Feedback Amplifiers#6.19#Required input signal#ex6_19.sce#2444/CH6/EX6.19/ex6_19.sce#S##90113
+6#Feedback Amplifiers#6.18#Gain and output voltage with feedback#ex6_18.sce#2444/CH6/EX6.18/ex6_18.sce#S##90112
+6#Feedback Amplifiers#6.17#Distortion of the amplifier#ex6_17.sce#2444/CH6/EX6.17/ex6_17.sce#S##90111
+6#Feedback Amplifiers#6.16#Open and closed loop gain#ex6_16.sce#2444/CH6/EX6.16/ex6_16.sce#S##90110
+6#Feedback Amplifiers#6.15#Percentage change in closed loop gain#ex6_15.sce#2444/CH6/EX6.15/ex6_15.sce#S##90109
+6#Feedback Amplifiers#6.14#Percentage change in closed loop gain#ex6_14.sce#2444/CH6/EX6.14/ex6_14.sce#S##90108
+6#Feedback Amplifiers#6.13#Av and bita#ex6_13.sce#2444/CH6/EX6.13/ex6_13.sce#S##90107
+6#Feedback Amplifiers#6.12#Feedback ration and factor#ex6_12.sce#2444/CH6/EX6.12/ex6_12.sce#S##90106
+6#Feedback Amplifiers#6.11#Change in overall gain#ex6_11.sce#2444/CH6/EX6.11/ex6_11.sce#S##90105
+6#Feedback Amplifiers#6.10#Amount of feedback in dB#ex6_10.sce#2444/CH6/EX6.10/ex6_10.sce#S##90104
+6#Feedback Amplifiers#6.1#Voltage gain and power gain#ex6_1.sce#2444/CH6/EX6.1/ex6_1.sce#S##92224
+5#Amplifier Frequency Response#5.9#The midband gain and upper 3 dB frequency#ex5_9.sce#2444/CH5/EX5.9/ex5_9.sce#S##90094
+5#Amplifier Frequency Response#5.8#All hybrid parameters#ex5_8.sce#2444/CH5/EX5.8/ex5_8.sce#S##90093
+5#Amplifier Frequency Response#5.7#Value of gm#ex5_7.sce#2444/CH5/EX5.7/ex5_7.sce#S##90092
+5#Amplifier Frequency Response#5.6#Miller capacitance#ex5_6.sce#2444/CH5/EX5.6/ex5_6.sce#S##90091
+5#Amplifier Frequency Response#5.5#Input capacitance#ex5_5.sce#2444/CH5/EX5.5/ex5_5.sce#S##90090
+5#Amplifier Frequency Response#5.4#Lower cut off frequency#ex5_4.sce#2444/CH5/EX5.4/ex5_4.sce#S##90089
+5#Amplifier Frequency Response#5.3#Voltage gain and lower cut off frequency#ex5_3.sce#2444/CH5/EX5.3/ex5_3.sce#S##90088
+5#Amplifier Frequency Response#5.2#Cut off frequency#ex5_2.sce#2444/CH5/EX5.2/ex5_2.sce#S##90087
+5#Amplifier Frequency Response#5.10#The midband gain and upper 3 dB frequency#ex5_10.sce#2444/CH5/EX5.10/ex5_10.sce#S##90095
+5#Amplifier Frequency Response#5.1#fbita and bita#ex5_1.sce#2444/CH5/EX5.1/ex5_1.sce#S##90086
+4#Transistor Amplifiers#4.9#Dynamic input resistance#ex4_9.sce#2444/CH4/EX4.9/ex4_9.sce#S##90069
+4#Transistor Amplifiers#4.8#Current gain and base current#ex4_8.sce#2444/CH4/EX4.8/ex4_8.sce#S##90067
+4#Transistor Amplifiers#4.7#Base and collector current#ex4_7.sce#2444/CH4/EX4.7/ex4_7.sce#S##90066
+4#Transistor Amplifiers#4.6#Base current#ex4_6.sce#2444/CH4/EX4.6/ex4_6.sce#S##90065
+4#Transistor Amplifiers#4.5#Dynamic input resistance#ex4_5.sce#2444/CH4/EX4.5/ex4_5.sce#S##90064
+4#Transistor Amplifiers#4.4#Alpha Bita and IE#ex4_4.sce#2444/CH4/EX4.4/ex4_4.sce#S##90063
+4#Transistor Amplifiers#4.3#Base current#ex4_3.sce#2444/CH4/EX4.3/ex4_3.sce#S##90062
+4#Transistor Amplifiers#4.25#Input and output impedance voltage gain#ex4_25.sce#2444/CH4/EX4.25/ex4_25.sce#S##90085
+4#Transistor Amplifiers#4.24#RD and Rs#ex4_24.sce#2444/CH4/EX4.24/ex4_24.sce#S##90084
+4#Transistor Amplifiers#4.23#RD and Rs#ex4_23.sce#2444/CH4/EX4.23/ex4_23.sce#S##90083
+4#Transistor Amplifiers#4.22#Voltage gain and output resistance#ex4_22.sce#2444/CH4/EX4.22/ex4_22.sce#S##90082
+4#Transistor Amplifiers#4.21#Voltage gain of amplifier circuit#ex4_21.sce#2444/CH4/EX4.21/ex4_21.sce#S##90081
+4#Transistor Amplifiers#4.20#Current gain and overall current gain#ex4_20.sce#2444/CH4/EX4.20/ex4_20.sce#S##90080
+4#Transistor Amplifiers#4.2#Voltage gain#ex4_2.sce#2444/CH4/EX4.2/ex4_2.sce#S##90061
+4#Transistor Amplifiers#4.19#Ri Ro Av Ai and Ap#ex4_19.sce#2444/CH4/EX4.19/ex4_19.sce#S##90079
+4#Transistor Amplifiers#4.18#Input and output resistance#ex4_18.sce#2444/CH4/EX4.18/ex4_18.sce#S##90077
+4#Transistor Amplifiers#4.17#Hybrid parameters#ex4_17.sce#2444/CH4/EX4.17/ex4_17.sce#S##90076
+4#Transistor Amplifiers#4.16#Current gain and input impedance#ex4_16.sce#2444/CH4/EX4.16/ex4_16.sce#S##90075
+4#Transistor Amplifiers#4.15#Hybrid parameters#ex4_15.sce#2444/CH4/EX4.15/ex4_15.sce#S##90074
+4#Transistor Amplifiers#4.14#h parameters#ex4_14.sce#2444/CH4/EX4.14/ex4_14.sce#S##92223
+4#Transistor Amplifiers#4.13#IC IE ICEO and alpha#ex4_13.sce#2444/CH4/EX4.13/ex4_13.sce#S##90073
+4#Transistor Amplifiers#4.12#Bita dc and leakage current#ex4_12.sce#2444/CH4/EX4.12/ex4_12.sce#S##90072
+4#Transistor Amplifiers#4.11#Collector emitter voltage and base current#ex4_11.sce#2444/CH4/EX4.11/ex4_11.sce#S##90071
+4#Transistor Amplifiers#4.10#Dynamic output resistance#ex4_10.sce#2444/CH4/EX4.10/ex4_10.sce#S##90070
+4#Transistor Amplifiers#4.1#DC and AC load line#ex4_1.sce#2444/CH4/EX4.1/ex4_1.sce#S##90060
+3#Magnetic Materials#3.4#Eddy current loss#ex3_4.sce#2444/CH3/EX3.4/ex3_4.sce#S##90059
+3#Magnetic Materials#3.3#Loss of energy#ex3_3.sce#2444/CH3/EX3.3/ex3_3.sce#S##90058
+3#Magnetic Materials#3.2#Hysteresis loss#ex3_2.sce#2444/CH3/EX3.2/ex3_2.sce#S##90057
+3#Magnetic Materials#3.1#Hysteresis loss per cubic merter per cycle#ex3_1.sce#2444/CH3/EX3.1/ex3_1.sce#S##90056
+2#Crystal Structure Of Materials#2.5#Wavelength of X ray#ex2_5.sce#2444/CH2/EX2.5/ex2_5.sce#S##90055
+2#Crystal Structure Of Materials#2.4#Interplaner distance in a crystal#ex2_4.sce#2444/CH2/EX2.4/ex2_4.sce#S##90054
+2#Crystal Structure Of Materials#2.3#Density of copper crystal#ex2_3.sce#2444/CH2/EX2.3/ex2_3.sce#S##90052
+1#Crystal Structure Of Materials#1.9#Electron and hole densities#ex1_9.sce#2444/CH1/EX1.9/ex1_9.sce#S##90037
+1#Crystal Structure Of Materials#1.8#Drift velocity#ex1_8.sce#2444/CH1/EX1.8/ex1_8.sce#S##90036
+1#Crystal Structure Of Materials#1.7#Concentration of acceptor atoms required#ex1_7.sce#2444/CH1/EX1.7/ex1_7.sce#S##90035
+1#Crystal Structure Of Materials#1.6#Dopant density#ex1_6.sce#2444/CH1/EX1.6/ex1_6.sce#S##90034
+1#Crystal Structure Of Materials#1.5#Charge density of free electrons#ex1_5.sce#2444/CH1/EX1.5/ex1_5.sce#S##90032
+1#Crystal Structure Of Materials#1.4#Relaxation time of conducting electorns#ex1_4.sce#2444/CH1/EX1.4/ex1_4.sce#S##90031
+1#Crystal Structure Of Materials#1.3#Resistivity of conductor#ex1_3.sce#2444/CH1/EX1.3/ex1_3.sce#S##90029
+1#Crystal Structure Of Materials#1.2#Ratio of electron to hole concentration#ex1_2.sce#2444/CH1/EX1.2/ex1_2.sce#S##90027
+1#Crystal Structure Of Materials#1.19#New position of Fermi Level#ex1_19.sce#2444/CH1/EX1.19/ex1_19.sce#S##90050
+1#Crystal Structure Of Materials#1.18#New position of Fermi Level#ex1_18.sce#2444/CH1/EX1.18/ex1_18.sce#S##90049
+1#Crystal Structure Of Materials#1.17#Mobility of electrons#ex1_17.sce#2444/CH1/EX1.17/ex1_17.sce#S##90047
+1#Crystal Structure Of Materials#1.16#Intrinsic carrier concentration in Si#ex1_16.sce#2444/CH1/EX1.16/ex1_16.sce#S##90046
+1#Crystal Structure Of Materials#1.15#Diffusion coefficients of electrons#ex1_15.sce#2444/CH1/EX1.15/ex1_15.sce#S##90044
+1#Crystal Structure Of Materials#1.14#Ratio of electron to hole #ex1_14.sce#2444/CH1/EX1.14/ex1_14.sce#S##90043
+1#Crystal Structure Of Materials#1.13#Electron and hole drift velocity#ex1_13.sce#2444/CH1/EX1.13/ex1_13.sce#S##90041
+1#Crystal Structure Of Materials#1.12#Conductivity of intrinsic Ge#ex1_12.sce#2444/CH1/EX1.12/ex1_12.sce#S##90040
+1#Crystal Structure Of Materials#1.11#Mobility of electrons and holes#ex1_11.sce#2444/CH1/EX1.11/ex1_11.sce#S##90039
+1#Crystal Structure Of Materials#1.10#Density of free electrons#ex1_10.sce#2444/CH1/EX1.10/ex1_10.sce#S##90038
+1#Crystal Structure Of Materials#1.1#Fraction of the total number of electrons#ex1_1.sce#2444/CH1/EX1.1/ex1_1.sce#S##90025

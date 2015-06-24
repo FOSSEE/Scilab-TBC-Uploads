@@ -1,0 +1,12 @@
+Core loss(in watt)=   
+ 
+    187.  
+ 
+ Loss component of current(in Amp)=   
+ 
+    0.8130435  
+ 
+ Magnetising current(in Amp)=   
+ 
+    41.58896  
+ 

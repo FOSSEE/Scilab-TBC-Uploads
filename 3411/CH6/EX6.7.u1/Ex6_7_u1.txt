@@ -1,0 +1,3 @@
+The no of photons emitted by the ruby laser is n= 
+    3.491D+18  
+ 

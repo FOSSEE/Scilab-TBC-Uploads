@@ -1,0 +1,11 @@
+Delta = 0.952 
+
+Disruptive critical voltage per phase = 125.96 kV 
+
+Supply voltage per phase = 127.02 kV 
+
+Corona loss = 0.01846 kW/km/phase 
+
+Total corona loss = 0.05537 kW 
+
+

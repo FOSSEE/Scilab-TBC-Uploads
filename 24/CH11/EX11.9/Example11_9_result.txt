@@ -1,0 +1,2 @@
+**Sample Problem 11-9**
+The rotational kinetic energy of the disk will be 90.000000J 

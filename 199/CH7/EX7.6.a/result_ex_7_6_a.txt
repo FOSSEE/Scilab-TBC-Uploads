@@ -1,0 +1,2 @@
+* Low cutoff freq fl is = 1026.1 Hz 
+                                                                                                  

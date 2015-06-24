@@ -1,0 +1,7 @@
+ # PROBLEM 26 # 
+Standard formula used 
+  delta_lambda = (h / (m * c) * (1 - cos(theta))) 
+ E = h*c*(1/lambda1 - 1/lambda2)
+
+ Compton shift is 2.424908e-12 m.
+ Kinetic energy is 293.865782 eV.

@@ -1,0 +1,25 @@
+Impedance of distributor/km = 1.00+j(0.50) ohm 
+
+Impedance of section AC = Zac = 0.60+j(0.30) ohm 
+Impedance of section CB = Zcb = 0.40+j(0.20) ohm 
+
+
+Voltage at point B taken as the reference vector = 231+j0 
+Line current at B = 14.08 A 
+
+Load current at point B = 11.97+j(-7.42) A 
+Load current at point C = 4.00+j(-3.00) A 
+
+Current in section CB = 11.97+j(-7.42) A 
+Current in section AC = 15.97+j(-10.42) A 
+
+Voltage drop in section CB = 6.27+j(-0.57) A 
+Voltage drop in section AC = 12.71+j(-1.46) A 
+
+Voltage at A/phase = 249.92+j(-2.03) A 
+
+Magnitude of Va/phase = 249.92 V 
+
+Line voltage at A = 432.88 V 
+
+

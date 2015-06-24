@@ -1,0 +1,41 @@
+ The positive sequnce impedances of the three line in ohms in the order line 1-2,line 2-3,line 2-4 are   
+ 
+    3.2 + 32.i  
+ 
+    3.2 + 32.i  
+ 
+    4.8 + 48.i  
+ 
+ Maximum load current in A   
+ 
+    209.18488  
+ 
+ System Voltage to neutral   
+ 
+    79674.337  
+ 
+ cvt ratio = 1089.1/1   
+ 
+ The impedance of the lines as seen by R12 in ohms in the order line 1-2,line 2-3,line 2-4 are   
+ 
+    0.1076382 + 1.0763817i  
+ 
+    0.1076382 + 1.0763817i  
+ 
+    0.1614573 + 1.6145726i  
+ 
+ Impedance of load current   
+ 
+    10.249307 + 7.68698i  
+ 
+ Setting of zone one on secondary in ohms   
+ 
+    0.0861105 + 0.8611054i  
+ 
+ Setting of zone two on secondary in ohms   
+ 
+    0.1291658 + 1.2916581i  
+ 
+ Setting of zone three on secondary in ohms   
+ 
+    0.3013869 + 3.0138688i  

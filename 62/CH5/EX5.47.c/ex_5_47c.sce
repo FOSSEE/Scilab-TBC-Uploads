@@ -1,0 +1,10 @@
+clear;
+clc;
+s=poly(0,'s'); 
+H=syslin('c',[(10^4+s*10^4)/((100+s)*(10+s))]) ;
+a=pfss(H);
+fmin=0.1; 
+fmax=1000; 
+scf(1);clf;
+bode(a(1),fmin,fmax); 
+show_margins(H) ;

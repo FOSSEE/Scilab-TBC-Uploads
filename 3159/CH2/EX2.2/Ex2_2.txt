@@ -1,0 +1,7 @@
+Example 2.2
+
+ Part A:
+ Fraction of atoms with energy equal to or greater than 1eV at temperature 300 K is 1.64e-17 
+
+ Part B:
+ Fraction of atoms with energy equal to or greater than 1eV at temperature 1500 K is 4.40e-04  

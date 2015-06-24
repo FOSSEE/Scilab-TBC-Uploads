@@ -1,0 +1,13 @@
+
+
+
+ I_1 = 6.10 /_-4.67 A 
+
+
+
+ V_2 = 292.90 /_-4.67 V 
+
+
+
+ Voltage Regulation = 2.41 percent 
+

@@ -1,0 +1,4 @@
+
+
+2.when the moving contact is at the bottom of R4,Eo=15.2 V
+  when the moving contact is at the top of R4,Eo=9.9 V

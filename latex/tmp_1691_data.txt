@@ -1,0 +1,122 @@
+6#Power Amplifier Large Signal Amplifiers#6.9#find power developed#e6_9.sce#1691/CH6/EX6.9/e6_9.sce#S##75280
+6#Power Amplifier Large Signal Amplifiers#6.8#max power output and max power dissipation and max base and collector current#Exmp6_8.sce#1691/CH6/EX6.8/Exmp6_8.sce#S##60886
+6#Power Amplifier Large Signal Amplifiers#6.7#class B amplifier#Exmp6_7.sce#1691/CH6/EX6.7/Exmp6_7.sce#S##60876
+6#Power Amplifier Large Signal Amplifiers#6.6#second harmonic distortion#Exmp6_6.sce#1691/CH6/EX6.6/Exmp6_6.sce#S##60875
+6#Power Amplifier Large Signal Amplifiers#6.4#find power dissipation#e6_4.sce#1691/CH6/EX6.4/e6_4.sce#S##75275
+6#Power Amplifier Large Signal Amplifiers#6.35#output and input power and collector efficiency and power dissipated#Exmp6_35.sce#1691/CH6/EX6.35/Exmp6_35.sce#S##60885
+6#Power Amplifier Large Signal Amplifiers#6.34#power transfer#Exmp6_34.sce#1691/CH6/EX6.34/Exmp6_34.sce#S##60884
+6#Power Amplifier Large Signal Amplifiers#6.33#distortion factor#Exmp6_33.sce#1691/CH6/EX6.33/Exmp6_33.sce#S##60883
+6#Power Amplifier Large Signal Amplifiers#6.32#find R#e6_32.sce#1691/CH6/EX6.32/e6_32.sce#S##75286
+6#Power Amplifier Large Signal Amplifiers#6.30#find efficiency#e6_30.sce#1691/CH6/EX6.30/e6_30.sce#S##75285
+6#Power Amplifier Large Signal Amplifiers#6.3#turns ratio#Exmp6_3.sce#1691/CH6/EX6.3/Exmp6_3.sce#S##60873
+6#Power Amplifier Large Signal Amplifiers#6.27#find min breakdown voltage#e6_27.sce#1691/CH6/EX6.27/e6_27.sce#S##75284
+6#Power Amplifier Large Signal Amplifiers#6.26#total harmonic distortion#Exmp6_26.sce#1691/CH6/EX6.26/Exmp6_26.sce#S##60882
+6#Power Amplifier Large Signal Amplifiers#6.22#input and output power and efficiency#Exmp6_22.sce#1691/CH6/EX6.22/Exmp6_22.sce#S##60881
+6#Power Amplifier Large Signal Amplifiers#6.21#value of Vcc#Exmp6_21.sce#1691/CH6/EX6.21/Exmp6_21.sce#S##60880
+6#Power Amplifier Large Signal Amplifiers#6.20#base current and power delivered and efficiency#Exmp6_20.sce#1691/CH6/EX6.20/Exmp6_20.sce#S##60879
+6#Power Amplifier Large Signal Amplifiers#6.2#reflected load impedance#Exmp6_2.sce#1691/CH6/EX6.2/Exmp6_2.sce#S##60872
+6#Power Amplifier Large Signal Amplifiers#6.19#find efficiency#e6_19.sce#1691/CH6/EX6.19/e6_19.sce#S##75283
+6#Power Amplifier Large Signal Amplifiers#6.16#find turns ratio#e6_16.sce#1691/CH6/EX6.16/e6_16.sce#S##75282
+6#Power Amplifier Large Signal Amplifiers#6.15#power dissipated#Exmp6_15.sce#1691/CH6/EX6.15/Exmp6_15.sce#S##60878
+6#Power Amplifier Large Signal Amplifiers#6.13#find dc power developed#e6_13.sce#1691/CH6/EX6.13/e6_13.sce#S##75281
+6#Power Amplifier Large Signal Amplifiers#6.12#Pac and PD and efficiency#Exmp6_12.sce#1691/CH6/EX6.12/Exmp6_12.sce#S##60877
+6#Power Amplifier Large Signal Amplifiers#6.1#ICQ and VCEQ and PDC and Pac and efficency#Exmp6_1.sce#1691/CH6/EX6.1/Exmp6_1.sce#S##60871
+5#Tuned Amplifier#5.8#resonant frequency and impedance and voltage gain#exmp5_8.sce#1691/CH5/EX5.8/exmp5_8.sce#S##60866
+5#Tuned Amplifier#5.6#find frequency#e5_6.sce#1691/CH5/EX5.6/e5_6.sce#S##75265
+5#Tuned Amplifier#5.3#bandwidth for four stages#exmp5_3.sce#1691/CH5/EX5.3/exmp5_3.sce#S##60865
+5#Tuned Amplifier#5.2#design single tuned amplifier#exmp5_2.sce#1691/CH5/EX5.2/exmp5_2.sce#S##60864
+5#Tuned Amplifier#5.13#tank circuit elements#exmp5_13.sce#1691/CH5/EX5.13/exmp5_13.sce#S##60870
+5#Tuned Amplifier#5.12#resonant frequency and tank circuit impedance#exmp5_12.sce#1691/CH5/EX5.12/exmp5_12.sce#S##60869
+5#Tuned Amplifier#5.11#resonant frequency and omega#exmp5_11.sce#1691/CH5/EX5.11/exmp5_11.sce#S##60868
+5#Tuned Amplifier#5.10#find BW#e5_10.sce#1691/CH5/EX5.10/e5_10.sce#S##75272
+5#Tuned Amplifier#5.1#Rs and Rp of inductor#exmp5_1.sce#1691/CH5/EX5.1/exmp5_1.sce#S##60863
+4#High Frequency Amplifiers#4.20#voltage gain#Exmp4_20.sce#1691/CH4/EX4.20/Exmp4_20.sce#S##60862
+4#High Frequency Amplifiers#4.2#fT and hfe and Ai#Exmp4_2.sce#1691/CH4/EX4.2/Exmp4_2.sce#S##60858
+4#High Frequency Amplifiers#4.17#source resistance and Rs and midband voltage gain#Exmp4_17.sce#1691/CH4/EX4.17/Exmp4_17.sce#S##60861
+4#High Frequency Amplifiers#4.16#mid frequency voltage gain and fb and fT#Exmp4_16.sce#1691/CH4/EX4.16/Exmp4_16.sce#S##60860
+4#High Frequency Amplifiers#4.12#find resistance#e4_12.sce#1691/CH4/EX4.12/e4_12.sce#S##75263
+4#High Frequency Amplifiers#4.10#find gain#e4_10.sce#1691/CH4/EX4.10/e4_10.sce#S##75260
+4#High Frequency Amplifiers#4.1#gm and rbe and Ce and omegaB#Exmp4_1.sce#1691/CH4/EX4.1/Exmp4_1.sce#S##60857
+3#Multivibrators and Blocking Oscillators#3.8#design a free running blocking oscillator#exp3_8.sce#1691/CH3/EX3.8/exp3_8.sce#S##60855
+3#Multivibrators and Blocking Oscillators#3.7#peak voltages and currents#exp3_7.sce#1691/CH3/EX3.7/exp3_7.sce#S##60854
+3#Multivibrators and Blocking Oscillators#3.5#various voltage levels and frequency of oscillations#exp3_5.sce#1691/CH3/EX3.5/exp3_5.sce#S##60853
+3#Multivibrators and Blocking Oscillators#3.4#pulse width and period and frequency of output#exp3_4.sce#1691/CH3/EX3.4/exp3_4.sce#S##60852
+3#Multivibrators and Blocking Oscillators#3.3#component values of monostable multivibrator#exp3_3.sce#1691/CH3/EX3.3/exp3_3.sce#S##60851
+3#Multivibrators and Blocking Oscillators#3.2#min value of hfe and stable state currents and voltages#exp3_2.sce#1691/CH3/EX3.2/exp3_2.sce#S##60850
+3#Multivibrators and Blocking Oscillators#3.15#find Voltage#e3_15.sce#1691/CH3/EX3.15/e3_15.sce#S##75257
+3#Multivibrators and Blocking Oscillators#3.14#find R#e3_14.sce#1691/CH3/EX3.14/e3_14.sce#S##75253
+3#Multivibrators and Blocking Oscillators#3.13#waveform at the base Q2 and and value of RC#exp3_13.sce#1691/CH3/EX3.13/exp3_13.sce#S##60856
+3#Multivibrators and Blocking Oscillators#3.11#find V#e3_11.sce#1691/CH3/EX3.11/e3_11.sce#S##75252
+3#Multivibrators and Blocking Oscillators#3.10#max I#e3_10.sce#1691/CH3/EX3.10/e3_10.sce#S##75251
+3#Multivibrators and Blocking Oscillators#3.1#stable state currents and voltages#exp3_1.sce#1691/CH3/EX3.1/exp3_1.sce#S##60847
+3#Multivibrators and Blocking Oscillators#3.1#stable state currents and voltages#exp3_1_d3_4_a.xcos#1691/CH3/EX3.1/exp3_1_d3_4_a.xcos#X##60848
+3#Multivibrators and Blocking Oscillators#3.1#stable state currents and voltages#exp3_1_d3_4_b.xcos#1691/CH3/EX3.1/exp3_1_d3_4_b.xcos#X##60849
+2#Oscillators#2.9#frequency of oscillations#exmp2_9.sce#1691/CH2/EX2.9/exmp2_9.sce#S##60817
+2#Oscillators#2.8#range over which capacitor is varied#exmp2_8.sce#1691/CH2/EX2.8/exmp2_8.sce#S##60816
+2#Oscillators#2.7#min and max R2#exmp2_7.sce#1691/CH2/EX2.7/exmp2_7.sce#S##60815
+2#Oscillators#2.6#frequency of oscillator#exmp2_6.sce#1691/CH2/EX2.6/exmp2_6.sce#S##60814
+2#Oscillators#2.5#C and RD#exmp2_5.sce#1691/CH2/EX2.5/exmp2_5.sce#S##60813
+2#Oscillators#2.4#R and C#exmp2_4.sce#1691/CH2/EX2.4/exmp2_4.sce#S##60812
+2#Oscillators#2.36#design phase shift oscillator#exmp2_36.sce#1691/CH2/EX2.36/exmp2_36.sce#S##60846
+2#Oscillators#2.34#value of inductance#exmp2_34.sce#1691/CH2/EX2.34/exmp2_34.sce#S##60844
+2#Oscillators#2.33#value of C and RD#exmp2_33.sce#1691/CH2/EX2.33/exmp2_33.sce#S##60843
+2#Oscillators#2.32#operating frequency  and feedback fraction#exmp2_32.sce#1691/CH2/EX2.32/exmp2_32.sce#S##60842
+2#Oscillators#2.31#determine percentage#exmp2_31.sce#1691/CH2/EX2.31/exmp2_31.sce#S##60841
+2#Oscillators#2.3#frequency of oscillations#exmp2_3.sce#1691/CH2/EX2.3/exmp2_3.sce#S##60811
+2#Oscillators#2.29#resonating frequencies#exmp2_29.sce#1691/CH2/EX2.29/exmp2_29.sce#S##60839
+2#Oscillators#2.28#frequency of oscillations#exmp2_28.sce#1691/CH2/EX2.28/exmp2_28.sce#S##60838
+2#Oscillators#2.27#design colpitts oscillator#exmp2_27.sce#1691/CH2/EX2.27/exmp2_27.sce#S##60836
+2#Oscillators#2.27#design colpitts oscillator#exmpd2_27.xcos#1691/CH2/EX2.27/exmpd2_27.xcos#X##60837
+2#Oscillators#2.26#frequency of oscillations and feedback voltage and C1#exmp2_26.sce#1691/CH2/EX2.26/exmp2_26.sce#S##60835
+2#Oscillators#2.25#design a RC phase shift oscillator#exmp2_25.sce#1691/CH2/EX2.25/exmp2_25.sce#S##60833
+2#Oscillators#2.25#design a RC phase shift oscillator#exmpd2_25.xcos#1691/CH2/EX2.25/exmpd2_25.xcos#X##60834
+2#Oscillators#2.24#percentage change in frequency#exmp2_24.sce#1691/CH2/EX2.24/exmp2_24.sce#S##60832
+2#Oscillators#2.22#gain of the transistor#exmp2_22.sce#1691/CH2/EX2.22/exmp2_22.sce#S##60830
+2#Oscillators#2.21#min and max value of R2#exmp2_21.sce#1691/CH2/EX2.21/exmp2_21.sce#S##60829
+2#Oscillators#2.20#C and hfe#exmp2_20.sce#1691/CH2/EX2.20/exmp2_20.sce#S##60828
+2#Oscillators#2.2#C and hfe#exmp2_2.sce#1691/CH2/EX2.2/exmp2_2.sce#S##60810
+2#Oscillators#2.19#change in frequency of oscillations#exmp2_19.sce#1691/CH2/EX2.19/exmp2_19.sce#S##60827
+2#Oscillators#2.18#R and hfe#exmp2_18.sce#1691/CH2/EX2.18/exmp2_18.sce#S##60826
+2#Oscillators#2.17#frequency of oscillations and min value of hfe#exmp2_17.sce#1691/CH2/EX2.17/exmp2_17.sce#S##60825
+2#Oscillators#2.16#series and parallel resonating frequency#exmp2_16.sce#1691/CH2/EX2.16/exmp2_16.sce#S##60824
+2#Oscillators#2.15#series and parallel resonant frequency#exmp2_15.sce#1691/CH2/EX2.15/exmp2_15.sce#S##60823
+2#Oscillators#2.14#range of tuning capacitor#exmp2_14.sce#1691/CH2/EX2.14/exmp2_14.sce#S##60822
+2#Oscillators#2.13#value of inductor#exmp2_13.sce#1691/CH2/EX2.13/exmp2_13.sce#S##60821
+2#Oscillators#2.12#value of C#exmp2_12.sce#1691/CH2/EX2.12/exmp2_12.sce#S##60820
+2#Oscillators#2.11#frequency of oscillations#exmp2_11.sce#1691/CH2/EX2.11/exmp2_11.sce#S##60819
+2#Oscillators#2.10#range of C#exmp2_10.sce#1691/CH2/EX2.10/exmp2_10.sce#S##60818
+2#Oscillators#2.1#verify barkhausen criterion#exmp2_1.sce#1691/CH2/EX2.1/exmp2_1.sce#S##60809
+1#Feedback Amplifiers#1.9#voltage gain and input and output impedance#Example1_9.sce#1691/CH1/EX1.9/Example1_9.sce#S##60783
+1#Feedback Amplifiers#1.8#A1 and A2#Example1_8.sce#1691/CH1/EX1.8/Example1_8.sce#S##60782
+1#Feedback Amplifiers#1.7#amount of feedback#Example1_7.sce#1691/CH1/EX1.7/Example1_7.sce#S##60781
+1#Feedback Amplifiers#1.6#beta and Af#Example1_6.sce#1691/CH1/EX1.6/Example1_6.sce#S##60780
+1#Feedback Amplifiers#1.5#input signal and second harmonic distortion with feedback#Example1_5.sce#1691/CH1/EX1.5/Example1_5.sce#S##60779
+1#Feedback Amplifiers#1.4#gain with feedback#Example1_4.sce#1691/CH1/EX1.4/Example1_4.sce#S##60778
+1#Feedback Amplifiers#1.34#gain with feedback and new bandwidth#Example1_34.sce#1691/CH1/EX1.34/Example1_34.sce#S##60808
+1#Feedback Amplifiers#1.33#feedback factor#Example1_33.sce#1691/CH1/EX1.33/Example1_33.sce#S##60807
+1#Feedback Amplifiers#1.32#voltage#Example1_32.sce#1691/CH1/EX1.32/Example1_32.sce#S##64344
+1#Feedback Amplifiers#1.31#voltage gain and input and output impedance#Example1_31.sce#1691/CH1/EX1.31/Example1_31.sce#S##60805
+1#Feedback Amplifiers#1.30#voltage gain and feedback voltage and output voltage#Example1_30.sce#1691/CH1/EX1.30/Example1_30.sce#S##60804
+1#Feedback Amplifiers#1.3#open and closed loop gain#Example1_3.sce#1691/CH1/EX1.3/Example1_3.sce#S##60777
+1#Feedback Amplifiers#1.29#Avf and Rif and Rof#Example1_29.sce#1691/CH1/EX1.29/Example1_29.sce#S##60803
+1#Feedback Amplifiers#1.28#Avf and Rif and Rof#Example1_28.sce#1691/CH1/EX1.28/Example1_28.sce#S##60802
+1#Feedback Amplifiers#1.27#Aif and Avf and Rif and Rof and Ai#Example1_27.sce#1691/CH1/EX1.27/Example1_27.sce#S##60801
+1#Feedback Amplifiers#1.26#Aof and Rif and Rof#Example1_26.sce#1691/CH1/EX1.26/Example1_26.sce#S##60800
+1#Feedback Amplifiers#1.25#D and Rmf and Avf and Rif and Rof#Example1_25.sce#1691/CH1/EX1.25/Example1_25.sce#S##60799
+1#Feedback Amplifiers#1.24#Avf and Rif and Rof#Example1_24.sce#1691/CH1/EX1.24/Example1_24.sce#S##60798
+1#Feedback Amplifiers#1.23#Rmf and Aof and Rif and Rof#Example1_23.sce#1691/CH1/EX1.23/Example1_23.sce#S##60797
+1#Feedback Amplifiers#1.22#Avf and Rif and Rof#Example1_22.sce#1691/CH1/EX1.22/Example1_22.sce#S##60796
+1#Feedback Amplifiers#1.21#Rif and Aif and Avf#Example1_21.sce#1691/CH1/EX1.21/Example1_21.sce#S##60795
+1#Feedback Amplifiers#1.20#voltage gain with feedback#Example1_20.sce#1691/CH1/EX1.20/Example1_20.sce#S##60794
+1#Feedback Amplifiers#1.2#closed loop gain with negative feedback#Example1_2.sce#1691/CH1/EX1.2/Example1_2.sce#S##60776
+1#Feedback Amplifiers#1.19#Avf#Example1_19.sce#1691/CH1/EX1.19/Example1_19.sce#S##60793
+1#Feedback Amplifiers#1.18#voltage gain including feeback#Example1_18.sce#1691/CH1/EX1.18/Example1_18.sce#S##60792
+1#Feedback Amplifiers#1.17#D and Avf anf Rif and Rof#Example1_17.sce#1691/CH1/EX1.17/Example1_17.sce#S##60791
+1#Feedback Amplifiers#1.16#Avf and Rif#Example1_16.sce#1691/CH1/EX1.16/Example1_16.sce#S##60790
+1#Feedback Amplifiers#1.15#determine Avf#Example1_15.sce#1691/CH1/EX1.15/Example1_15.sce#S##60789
+1#Feedback Amplifiers#1.14#Av and beta of amplifier#Example1_14.sce#1691/CH1/EX1.14/Example1_14.sce#S##60788
+1#Feedback Amplifiers#1.13#feedback ratio and input voltage#Example1_13.sce#1691/CH1/EX1.13/Example1_13.sce#S##60787
+1#Feedback Amplifiers#1.12#single stage RC coupled amplifier#Example1_12.sce#1691/CH1/EX1.12/Example1_12.sce#S##60786
+1#Feedback Amplifiers#1.11#gain with feedback#Example1_11.sce#1691/CH1/EX1.11/Example1_11.sce#S##60785
+1#Feedback Amplifiers#1.10#amplifier without feedback#Example1_10.sce#1691/CH1/EX1.10/Example1_10.sce#S##60784
+1#Feedback Amplifiers#1.1#transistor in the feedback amplifier#Example1_1.sce#1691/CH1/EX1.1/Example1_1.sce#S##60775

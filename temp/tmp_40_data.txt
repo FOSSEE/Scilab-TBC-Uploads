@@ -1,0 +1,223 @@
+10#Design of FIR filters#10.9#Multistage Decimation#Exa_10_9.sce#40/CH10/EX10.9/Exa_10_9.sce#S##682
+10#Design of FIR filters#10.8#Design of Interpolating Filters#Exa_10_8.sce#40/CH10/EX10.8/Exa_10_8.sce#S##681
+10#Design of FIR filters#10.7#Multistage Interpolation#Exa_10_7.sce#40/CH10/EX10.7/Exa_10_7.sce#S##680
+10#Design of FIR filters#10.6b#Optimal Half Band Filter Design#Exa_10_6b.sce#40/CH10/EX10.6b/Exa_10_6b.sce#S##678
+10#Design of FIR filters#10.6b#Optimal Half Band Filter Design#Exa_10_6b.jpg#40/CH10/EX10.6b/Exa_10_6b.jpg#R##679
+10#Design of FIR filters#10.6a#Optimal FIR Bandstop Filter Design#Exa_10_6a.sce#40/CH10/EX10.6a/Exa_10_6a.sce#S##676
+10#Design of FIR filters#10.6a#Optimal FIR Bandstop Filter Design#Exa_10_6a.jpg#40/CH10/EX10.6a/Exa_10_6a.jpg#R##677
+10#Design of FIR filters#10.5b#Design by Frequency Sampling#Exa_10_5b.sce#40/CH10/EX10.5b/Exa_10_5b.sce#S##689
+10#Design of FIR filters#10.5b#Design by Frequency Sampling#Exa_10_5b.jpg#40/CH10/EX10.5b/Exa_10_5b.jpg#R##690
+10#Design of FIR filters#10.5a#Design by Frequency Sampling#Exa_10_5a.jpg#40/CH10/EX10.5a/Exa_10_5a.jpg#R##688
+10#Design of FIR filters#10.5a#Design by Frequency Sampling#Exa_10_5a.sce#40/CH10/EX10.5a/Exa_10_5a.sce#S##687
+10#Design of FIR filters#10.4b#Half Band bandstop FIR filter Design#Exa_10_4b.sce#40/CH10/EX10.4b/Exa_10_4b.sce#S##700
+10#Design of FIR filters#10.4b#Half Band bandstop FIR filter Design#Exa_10_4b_0.jpg#40/CH10/EX10.4b/Exa_10_4b_0.jpg#R##701
+10#Design of FIR filters#10.4b#Half Band bandstop FIR filter Design#Exa_10_4b_1.jpg#40/CH10/EX10.4b/Exa_10_4b_1.jpg#R##702
+10#Design of FIR filters#10.4a#Half Band lowpass FIR filter Design#Exa_10_4a_1.jpg#40/CH10/EX10.4a/Exa_10_4a_1.jpg#R##699
+10#Design of FIR filters#10.4a#Half Band lowpass FIR filter Design#Exa_10_4a_0.jpg#40/CH10/EX10.4a/Exa_10_4a_0.jpg#R##698
+10#Design of FIR filters#10.4a#Half Band lowpass FIR filter Design#Exa_10_4.sce#40/CH10/EX10.4a/Exa_10_4.sce#S##697
+10#Design of FIR filters#10.3cd#FIR filter Design #Exa_10_3cd_1.jpg#40/CH10/EX10.3cd/Exa_10_3cd_1.jpg#R##696
+10#Design of FIR filters#10.3cd#FIR filter Design #Exa_10_3cd_0.jpg#40/CH10/EX10.3cd/Exa_10_3cd_0.jpg#R##695
+10#Design of FIR filters#10.3cd#FIR filter Design #Exa_10_3cd.sce#40/CH10/EX10.3cd/Exa_10_3cd.sce#S##694
+10#Design of FIR filters#10.3ab#FIR lowpass Filter design#Exa_10_3ab_1.jpg#40/CH10/EX10.3ab/Exa_10_3ab_1.jpg#R##705
+10#Design of FIR filters#10.3ab#FIR lowpass Filter design#Exa_10_3ab_0.jpg#40/CH10/EX10.3ab/Exa_10_3ab_0.jpg#R##704
+10#Design of FIR filters#10.3ab#FIR lowpass Filter design#Exa_10_3ab.sce#40/CH10/EX10.3ab/Exa_10_3ab.sce#S##703
+10#Design of FIR filters#10.2#Truncation and Windowing#Exa_10_2.sce#40/CH10/EX10.2/Exa_10_2.sce#S##675
+10#Design of FIR filters#10.10#Maximally Flat FIR filter Design#Exa_10_10.sce#40/CH10/EX10.10/Exa_10_10.sce#S##693
+9#Design of IIR Filters#9.9#D2D transformations#Exa_9_9.sce#40/CH9/EX9.9/Exa_9_9.sce#S##623
+9#Design of IIR Filters#9.9#D2D transformations#Exa_9_9.jpg#40/CH9/EX9.9/Exa_9_9.jpg#R##624
+9#Design of IIR Filters#9.8b#Bilinear Transformation#Exa_9_8b.sce#40/CH9/EX9.8b/Exa_9_8b.sce#S##621
+9#Design of IIR Filters#9.8b#Bilinear Transformation#Exa_9_8b.jpg#40/CH9/EX9.8b/Exa_9_8b.jpg#R##622
+9#Design of IIR Filters#9.8a#Bilinear Transformation#Exa_9_8a.sce#40/CH9/EX9.8a/Exa_9_8a.sce#S##619
+9#Design of IIR Filters#9.8a#Bilinear Transformation#Exa_9_8a.jpg#40/CH9/EX9.8a/Exa_9_8a.jpg#R##620
+9#Design of IIR Filters#9.7#DTFT of Numerical Algorithms#Exa_9_7.sce#40/CH9/EX9.7/Exa_9_7.sce#S##616
+9#Design of IIR Filters#9.7#DTFT of Numerical Algorithms#Exa_9_7_0.jpg#40/CH9/EX9.7/Exa_9_7_0.jpg#R##617
+9#Design of IIR Filters#9.7#DTFT of Numerical Algorithms#Exa_9_7_1.jpg#40/CH9/EX9.7/Exa_9_7_1.jpg#R##618
+9#Design of IIR Filters#9.6#Mappings From Integration Algorithms#Exa_9_6.sce#40/CH9/EX9.6/Exa_9_6.sce#S##615
+9#Design of IIR Filters#9.5#Mappings from Difference Algorithms#Exa_9_5.sce#40/CH9/EX9.5/Exa_9_5.sce#S##614
+9#Design of IIR Filters#9.3cd#Modified Impulse Invariant Design#Exa_9_3cd.sce#40/CH9/EX9.3cd/Exa_9_3cd.sce#S##612
+9#Design of IIR Filters#9.3ab#Modified Impulse Invariant Design#Exa_9_3ab.sce#40/CH9/EX9.3ab/Exa_9_3ab.sce#S##608
+9#Design of IIR Filters#9.3ab#Modified Impulse Invariant Design#Exa_9_3ab.jpg#40/CH9/EX9.3ab/Exa_9_3ab.jpg#R##609
+9#Design of IIR Filters#9.2#Impulse Invariant Mappings#Exa_9_2.sce#40/CH9/EX9.2/Exa_9_2.sce#S##599
+9#Design of IIR Filters#9.12#IIR Filter Design#Exa_9_12.sce#40/CH9/EX9.12/Exa_9_12.sce#S##633
+9#Design of IIR Filters#9.12#IIR Filter Design#Exa_9_12.jpg#40/CH9/EX9.12/Exa_9_12.jpg#R##634
+9#Design of IIR Filters#9.11#Interference Rejection#Exa_9_11.sce#40/CH9/EX9.11/Exa_9_11.sce#S##631
+9#Design of IIR Filters#9.11#Interference Rejection#Exa_9_11.jpg#40/CH9/EX9.11/Exa_9_11.jpg#R##632
+9#Design of IIR Filters#9.10c#Bilinear Design of Second Order Filters#Exa_9_10c.sce#40/CH9/EX9.10c/Exa_9_10c.sce#S##629
+9#Design of IIR Filters#9.10c#Bilinear Design of Second Order Filters#Exa_9_10c.jpg#40/CH9/EX9.10c/Exa_9_10c.jpg#R##630
+9#Design of IIR Filters#9.10b#Bilinear Design of Second Order Filters#Exa_9_10b.sce#40/CH9/EX9.10b/Exa_9_10b.sce#S##627
+9#Design of IIR Filters#9.10b#Bilinear Design of Second Order Filters#Exa_9_10b.jpg#40/CH9/EX9.10b/Exa_9_10b.jpg#R##628
+9#Design of IIR Filters#9.10a#Bilinear Design of Second Order Filters#Exa_9_10a.sce#40/CH9/EX9.10a/Exa_9_10a.sce#S##625
+9#Design of IIR Filters#9.10a#Bilinear Design of Second Order Filters#Exa_9_10a.jpg#40/CH9/EX9.10a/Exa_9_10a.jpg#R##626
+9#Design of IIR Filters#9.1#Response Invariant Mappings#Exa_9_1.sce#40/CH9/EX9.1/Exa_9_1.sce#S##596
+9#Design of IIR Filters#9.1#Response Invariant Mappings#Exa_9_1_0.jpg#40/CH9/EX9.1/Exa_9_1_0.jpg#R##597
+9#Design of IIR Filters#9.1#Response Invariant Mappings#Exa_9_1_1.jpg#40/CH9/EX9.1/Exa_9_1_1.jpg#R##598
+8#The Discrete Fourier Transform and its Applications#8.9d#The DFT and DFS of sinusoids#Exa_8_9d.sce#40/CH8/EX8.9d/Exa_8_9d.sce#S##654
+8#The Discrete Fourier Transform and its Applications#8.9d#The DFT and DFS of sinusoids#exa_8_9d_0.jpg#40/CH8/EX8.9d/exa_8_9d_0.jpg#R##655
+8#The Discrete Fourier Transform and its Applications#8.9d#The DFT and DFS of sinusoids#Exa_8_9d_1.jpg#40/CH8/EX8.9d/Exa_8_9d_1.jpg#R##656
+8#The Discrete Fourier Transform and its Applications#8.9c#The DFT and DFS of sinusoids#Exa_8_9c.sce#40/CH8/EX8.9c/Exa_8_9c.sce#S##649
+8#The Discrete Fourier Transform and its Applications#8.9c#The DFT and DFS of sinusoids#Exa_8_9c_0.jpg#40/CH8/EX8.9c/Exa_8_9c_0.jpg#R##650
+8#The Discrete Fourier Transform and its Applications#8.9c#The DFT and DFS of sinusoids#Exa_8_9c_1.jpg#40/CH8/EX8.9c/Exa_8_9c_1.jpg#R##651
+8#The Discrete Fourier Transform and its Applications#8.9b#The DFT and DFS of sinusoids#Exa_8_9b.sce#40/CH8/EX8.9b/Exa_8_9b.sce#S##646
+8#The Discrete Fourier Transform and its Applications#8.9b#The DFT and DFS of sinusoids#Exa_8_9b_0.jpg#40/CH8/EX8.9b/Exa_8_9b_0.jpg#R##647
+8#The Discrete Fourier Transform and its Applications#8.9b#The DFT and DFS of sinusoids#Exa_8_9b_1.jpg#40/CH8/EX8.9b/Exa_8_9b_1.jpg#R##648
+8#The Discrete Fourier Transform and its Applications#8.9a#The DFT and DFS of sinusoids#Exa_8_9a.sce#40/CH8/EX8.9a/Exa_8_9a.sce#S##643
+8#The Discrete Fourier Transform and its Applications#8.9a#The DFT and DFS of sinusoids#Exa_8_9a_0.jpg#40/CH8/EX8.9a/Exa_8_9a_0.jpg#R##644
+8#The Discrete Fourier Transform and its Applications#8.9a#The DFT and DFS of sinusoids#Exa_8_9a_1.jpg#40/CH8/EX8.9a/Exa_8_9a_1.jpg#R##645
+8#The Discrete Fourier Transform and its Applications#8.8#Relating DFT and DTFT#Exa_8_8.sce#40/CH8/EX8.8/Exa_8_8.sce#S##642
+8#The Discrete Fourier Transform and its Applications#8.7#Relating DFT and DTFT#Exa_8_7.sce#40/CH8/EX8.7/Exa_8_7.sce#S##641
+8#The Discrete Fourier Transform and its Applications#8.6#Signal and Spectrum Replication#Exa_8_6.sce#40/CH8/EX8.6/Exa_8_6.sce#S##550
+8#The Discrete Fourier Transform and its Applications#8.5c#Properties of DFT#Exa_8_5c.sce#40/CH8/EX8.5c/Exa_8_5c.sce#S##549
+8#The Discrete Fourier Transform and its Applications#8.5b#Properties of DFT#Exa_8_5b.sce#40/CH8/EX8.5b/Exa_8_5b.sce#S##548
+8#The Discrete Fourier Transform and its Applications#8.5a#Properties of DFT#Exa_8_5a.sce#40/CH8/EX8.5a/Exa_8_5a.sce#S##547
+8#The Discrete Fourier Transform and its Applications#8.4#Properties of DFT#Exa_8_4.sce#40/CH8/EX8.4/Exa_8_4.sce#S##546
+8#The Discrete Fourier Transform and its Applications#8.3#Circular Shift and Flipping#Exa_8_3.sce#40/CH8/EX8.3/Exa_8_3.sce#S##545
+8#The Discrete Fourier Transform and its Applications#8.24#The importance of Periodic Extension#Exa_8_24.sce#40/CH8/EX8.24/Exa_8_24.sce#S##674
+8#The Discrete Fourier Transform and its Applications#8.23#3 point IDFT from 4 point DFT#Exa_8_23.sce#40/CH8/EX8.23/Exa_8_23.sce#S##673
+8#The Discrete Fourier Transform and its Applications#8.22#4 point DFT from 3 point sequence#Exa_8_22.sce#40/CH8/EX8.22/Exa_8_22.sce#S##672
+8#The Discrete Fourier Transform and its Applications#8.21#Decimation in time FFT algorithm#Exa_8_21.sce#40/CH8/EX8.21/Exa_8_21.sce#S##671
+8#The Discrete Fourier Transform and its Applications#8.20#Decimation in Frequency FFT algorithm#Exa_8_20.sce#40/CH8/EX8.20/Exa_8_20.sce#S##670
+8#The Discrete Fourier Transform and its Applications#8.2#The DFT and conjugate Symmetry#Exa_8_2.sce#40/CH8/EX8.2/Exa_8_2.sce#S##544
+8#The Discrete Fourier Transform and its Applications#8.19#Using DFT to find IDFT#Exa_8_19.sce#40/CH8/EX8.19/Exa_8_19.sce#S##668
+8#The Discrete Fourier Transform and its Applications#8.18#DFT from matrix formulation#Exa_8_18.sce#40/CH8/EX8.18/Exa_8_18.sce#S##667
+8#The Discrete Fourier Transform and its Applications#8.17#The Concept of Periodogram#Exa_8_17.sce#40/CH8/EX8.17/Exa_8_17.sce#S##666
+8#The Discrete Fourier Transform and its Applications#8.16#Signal Interpolation using FFT#Exa_8_16.sce#40/CH8/EX8.16/Exa_8_16.sce#S##664
+8#The Discrete Fourier Transform and its Applications#8.16#Signal Interpolation using FFT#Exa_8_16.jpg#40/CH8/EX8.16/Exa_8_16.jpg#R##665
+8#The Discrete Fourier Transform and its Applications#8.15b#Methods to find convolution#Exa_8_15b.sce#40/CH8/EX8.15b/Exa_8_15b.sce#S##662
+8#The Discrete Fourier Transform and its Applications#8.15a#Methods to find convolution#Exa_8_15a.sce#40/CH8/EX8.15a/Exa_8_15a.sce#S##660
+8#The Discrete Fourier Transform and its Applications#8.11#The effects of leakage#Exa_8_11.sce#40/CH8/EX8.11/Exa_8_11.sce#S##657
+8#The Discrete Fourier Transform and its Applications#8.11#The effects of leakage#Exa_8_11_0.jpg#40/CH8/EX8.11/Exa_8_11_0.jpg#R##658
+8#The Discrete Fourier Transform and its Applications#8.11#The effects of leakage#Exa_8_11_1.jpg#40/CH8/EX8.11/Exa_8_11_1.jpg#R##659
+8#The Discrete Fourier Transform and its Applications#8.10#DFS of sampled Periodic Signals#Exa_8_10.sce#40/CH8/EX8.10/Exa_8_10.sce#S##652
+8#The Discrete Fourier Transform and its Applications#8.1#DFT from Defining Relation#Exa_8_1.sce#40/CH8/EX8.1/Exa_8_1.sce#S##543
+7#Digital Processing of Analog Signals#7.9#Quantisation Effects#Exa_7_9.sce#40/CH7/EX7.9/Exa_7_9.sce#S##538
+7#Digital Processing of Analog Signals#7.8#Up Sampling and Filtering#Exa_7_8_1.jpg#40/CH7/EX7.8/Exa_7_8_1.jpg#R##588
+7#Digital Processing of Analog Signals#7.8#Up Sampling and Filtering#Exa_7_8_0.jpg#40/CH7/EX7.8/Exa_7_8_0.jpg#R##587
+7#Digital Processing of Analog Signals#7.8#Up Sampling and Filtering#Exa_7_8.sce#40/CH7/EX7.8/Exa_7_8.sce#S##586
+7#Digital Processing of Analog Signals#7.7#Zero Interpolation and Spectrum Replication#Exa_7_7.sce#40/CH7/EX7.7/Exa_7_7.sce#S##532
+7#Digital Processing of Analog Signals#7.7#Zero Interpolation and Spectrum Replication#Exa_7_7_0.jpg#40/CH7/EX7.7/Exa_7_7_0.jpg#R##533
+7#Digital Processing of Analog Signals#7.7#Zero Interpolation and Spectrum Replication#Exa_7_7_1.jpg#40/CH7/EX7.7/Exa_7_7_1.jpg#R##534
+7#Digital Processing of Analog Signals#7.6#Signal Reconstruction from Samples#Exa_7_6.sce#40/CH7/EX7.6/Exa_7_6.sce#S##531
+7#Digital Processing of Analog Signals#7.4#Sampling of Band pass signals#Exa_7_4.sce#40/CH7/EX7.4/Exa_7_4.sce#S##528
+7#Digital Processing of Analog Signals#7.4#Sampling of Band pass signals#Exa_7_4_0.jpg#40/CH7/EX7.4/Exa_7_4_0.jpg#R##529
+7#Digital Processing of Analog Signals#7.4#Sampling of Band pass signals#Exa_7_4_1.jpg#40/CH7/EX7.4/Exa_7_4_1.jpg#R##530
+7#Digital Processing of Analog Signals#7.3#Sampling oscilloscope#Exa_7_3.sce#40/CH7/EX7.3/Exa_7_3.sce#S##527
+7#Digital Processing of Analog Signals#7.12#Anti Imaging Filter Considerations#Exa_7_12.sce#40/CH7/EX7.12/Exa_7_12.sce#S##590
+7#Digital Processing of Analog Signals#7.12#Anti Imaging Filter Considerations#Exa_7_12.jpg#40/CH7/EX7.12/Exa_7_12.jpg#R##591
+7#Digital Processing of Analog Signals#7.11#Anti Aliasing Filter Considerations#Exa_7_11.sce#40/CH7/EX7.11/Exa_7_11.sce#S##589
+7#Digital Processing of Analog Signals#7.10#ADC considerations#Exa_7_10.sce#40/CH7/EX7.10/Exa_7_10.sce#S##539
+6#Filter Concepts#6.9#Periodic Notch Filter Design#Exa_6_9.sce#40/CH6/EX6.9/Exa_6_9.sce#S##524
+6#Filter Concepts#6.9#Periodic Notch Filter Design#Exa_6_9_0.jpg#40/CH6/EX6.9/Exa_6_9_0.jpg#R##525
+6#Filter Concepts#6.9#Periodic Notch Filter Design#Exa_6_9_1.jpg#40/CH6/EX6.9/Exa_6_9_1.jpg#R##526
+6#Filter Concepts#6.8#Digital resonator Design#Exa_6_8.sce#40/CH6/EX6.8/Exa_6_8.sce#S##521
+6#Filter Concepts#6.8#Digital resonator Design#Exa_6_8_0.jpg#40/CH6/EX6.8/Exa_6_8_0.jpg#R##522
+6#Filter Concepts#6.8#Digital resonator Design#Exa_6_8_1.jpg#40/CH6/EX6.8/Exa_6_8_1.jpg#R##523
+6#Filter Concepts#6.7b#Filters and Pole Zero Plots#Exa_6_7b_1.jpg#40/CH6/EX6.7b/Exa_6_7b_1.jpg#R##733
+6#Filter Concepts#6.7b#Filters and Pole Zero Plots#Exa_6_7b_0.jpg#40/CH6/EX6.7b/Exa_6_7b_0.jpg#R##732
+6#Filter Concepts#6.7b#Filters and Pole Zero Plots#Exa_6_7b.sce#40/CH6/EX6.7b/Exa_6_7b.sce#S##731
+6#Filter Concepts#6.7a#Filters and Pole Zero Plots#Exa_6_7a_1.jpg#40/CH6/EX6.7a/Exa_6_7a_1.jpg#R##730
+6#Filter Concepts#6.7a#Filters and Pole Zero Plots#Exa_6_7a_0.jpg#40/CH6/EX6.7a/Exa_6_7a_0.jpg#R##729
+6#Filter Concepts#6.7a#Filters and Pole Zero Plots#Exa_6_7a.sce#40/CH6/EX6.7a/Exa_6_7a.sce#S##728
+6#Filter Concepts#6.6#Frequency Response and Filter characteristics#Exa_6_6.sce#40/CH6/EX6.6/Exa_6_6.sce#S##513
+6#Filter Concepts#6.6#Frequency Response and Filter characteristics#Exa_6_6.jpg#40/CH6/EX6.6/Exa_6_6.jpg#R##514
+6#Filter Concepts#6.4#Linear Phase Filters#Exa_6_4.sce#40/CH6/EX6.4/Exa_6_4.sce#S##577
+6#Filter Concepts#6.4#Linear Phase Filters#Exa_6_4_1.jpg#40/CH6/EX6.4/Exa_6_4_1.jpg#R##578
+6#Filter Concepts#6.4#Linear Phase Filters#Exa_6_4_2.jpg#40/CH6/EX6.4/Exa_6_4_2.jpg#R##579
+6#Filter Concepts#6.1#The Minimum Phase Concept#Exa_6_1.sce#40/CH6/EX6.1/Exa_6_1.sce#S##575
+6#Filter Concepts#6.1#The Minimum Phase Concept#Exa_6_1.jpg#40/CH6/EX6.1/Exa_6_1.jpg#R##576
+5#Frequency Domain Analysis#5.9b#DTFT and steady state response#Exa_5_9b.sce#40/CH5/EX5.9b/Exa_5_9b.sce#S##492
+5#Frequency Domain Analysis#5.9a#DTFT and steady state response#Exa_5_9a.sce#40/CH5/EX5.9a/Exa_5_9a.sce#S##490
+5#Frequency Domain Analysis#5.9a#DTFT and steady state response#Exa_5_9a.jpg#40/CH5/EX5.9a/Exa_5_9a.jpg#R##491
+5#Frequency Domain Analysis#5.8b#The DTFT in System Analysis#Exa_5_8b.sce#40/CH5/EX5.8b/Exa_5_8b.sce#S##488
+5#Frequency Domain Analysis#5.8b#The DTFT in System Analysis#Exa_5_8b.jpg#40/CH5/EX5.8b/Exa_5_8b.jpg#R##489
+5#Frequency Domain Analysis#5.8a#The DTFT in System Analysis#Exa_5_8a.sce#40/CH5/EX5.8a/Exa_5_8a.sce#S##486
+5#Frequency Domain Analysis#5.8a#The DTFT in System Analysis#Exa_5_8a.jpg#40/CH5/EX5.8a/Exa_5_8a.jpg#R##487
+5#Frequency Domain Analysis#5.7#Frequency Response of Recursive Filter#Exa_5_7.sce#40/CH5/EX5.7/Exa_5_7.sce#S##484
+5#Frequency Domain Analysis#5.7#Frequency Response of Recursive Filter#Exa_5_7.jpg#40/CH5/EX5.7/Exa_5_7.jpg#R##485
+5#Frequency Domain Analysis#5.5#The DFT,DFS and DTFT#Exa_5_5.sce#40/CH5/EX5.5/Exa_5_5.sce#S##574
+5#Frequency Domain Analysis#5.4#DTFT of periodic Signals#Exa_5_4.sce#40/CH5/EX5.4/Exa_5_4.sce#S##480
+5#Frequency Domain Analysis#5.4#DTFT of periodic Signals#Exa_5_4_0.jpg#40/CH5/EX5.4/Exa_5_4_0.jpg#R##481
+5#Frequency Domain Analysis#5.4#DTFT of periodic Signals#Exa_5_4_1.jpg#40/CH5/EX5.4/Exa_5_4_1.jpg#R##482
+5#Frequency Domain Analysis#5.3e#Some DTFT pairs using properties#Exa_5_3e.sce#40/CH5/EX5.3e/Exa_5_3e.sce#S##505
+5#Frequency Domain Analysis#5.3e#Some DTFT pairs using properties#Exa_5_3e_0.jpg#40/CH5/EX5.3e/Exa_5_3e_0.jpg#R##506
+5#Frequency Domain Analysis#5.3e#Some DTFT pairs using properties#Exa_5_3e_1.jpg#40/CH5/EX5.3e/Exa_5_3e_1.jpg#R##507
+5#Frequency Domain Analysis#5.3d#Some DTFT pairs using properties#Exa_5_3d.sce#40/CH5/EX5.3d/Exa_5_3d.sce#S##503
+5#Frequency Domain Analysis#5.3d#Some DTFT pairs using properties#Exa_5_3d.jpg#40/CH5/EX5.3d/Exa_5_3d.jpg#R##504
+5#Frequency Domain Analysis#5.3b#Some DTFT pairs using properties#Exa_5_3_b.sce#40/CH5/EX5.3b/Exa_5_3_b.sce#S##500
+5#Frequency Domain Analysis#5.3b#Some DTFT pairs using properties#Exa_5_3b_0.jpg#40/CH5/EX5.3b/Exa_5_3b_0.jpg#R##501
+5#Frequency Domain Analysis#5.3b#Some DTFT pairs using properties#Exa_5_3b_1.jpg#40/CH5/EX5.3b/Exa_5_3b_1.jpg#R##502
+5#Frequency Domain Analysis#5.3a#Some DTFT pairs using properties#Exa_5_3a.sce#40/CH5/EX5.3a/Exa_5_3a.sce#S##497
+5#Frequency Domain Analysis#5.3a#Some DTFT pairs using properties#Exa_5_3a_0.jpg#40/CH5/EX5.3a/Exa_5_3a_0.jpg#R##498
+5#Frequency Domain Analysis#5.3a#Some DTFT pairs using properties#Exa_5_3a_1.jpg#40/CH5/EX5.3a/Exa_5_3a_1.jpg#R##499
+5#Frequency Domain Analysis#5.1c#DTFT from Defining Relation#Exa_5_1c.sce#40/CH5/EX5.1c/Exa_5_1c.sce#S##477
+5#Frequency Domain Analysis#5.1c#DTFT from Defining Relation#Exa_5_1c_0.jpg#40/CH5/EX5.1c/Exa_5_1c_0.jpg#R##478
+5#Frequency Domain Analysis#5.1c#DTFT from Defining Relation#Exa_5_1c_1.jpg#40/CH5/EX5.1c/Exa_5_1c_1.jpg#R##479
+5#Frequency Domain Analysis#5.10b#System Representation in various forms#Exa_5_10_b.sce#40/CH5/EX5.10b/Exa_5_10_b.sce#S##495
+5#Frequency Domain Analysis#5.10b#System Representation in various forms#Exa_5_10b.jpg#40/CH5/EX5.10b/Exa_5_10b.jpg#R##496
+5#Frequency Domain Analysis#5.10a#System Representation in various forms#Exa_5_10_a.sce#40/CH5/EX5.10a/Exa_5_10_a.sce#S##493
+5#Frequency Domain Analysis#5.10a#System Representation in various forms#Exa_5_10a.jpg#40/CH5/EX5.10a/Exa_5_10a.jpg#R##494
+4#z Transform Analysis#4.9#Inverse Systems#Exa_4_9.sce#40/CH4/EX4.9/Exa_4_9.sce#S##636
+4#z Transform Analysis#4.8#Stability of Recursive Filters#Exa_4_8.sce#40/CH4/EX4.8/Exa_4_8.sce#S##635
+4#z Transform Analysis#4.4b#Pole Zero plots#Exa_4_4b.sce#40/CH4/EX4.4b/Exa_4_4b.sce#S##561
+4#z Transform Analysis#4.4b#Pole Zero plots#Exa_4_4b.jpg#40/CH4/EX4.4b/Exa_4_4b.jpg#R##562
+4#z Transform Analysis#4.4a#Pole Zero Plots#Exa_4_4a.sce#40/CH4/EX4.4a/Exa_4_4a.sce#S##734
+4#z Transform Analysis#4.4a#Pole Zero Plots#Exa_4_4a.jpg#40/CH4/EX4.4a/Exa_4_4a.jpg#R##735
+4#z Transform Analysis#4.20#z Transform of Switched periodic Signals#Exa_4_20.sce#40/CH4/EX4.20/Exa_4_20.sce#S##640
+4#z Transform Analysis#4.1b#z transform of finite length sequences#Exa_4_1b.sci#40/CH4/EX4.1b/Exa_4_1b.sci#S##554
+4#z Transform Analysis#4.12#Inverse transform of Right sided sequences#Exa_4_12.sce#40/CH4/EX4.12/Exa_4_12.sce#S##639
+4#z Transform Analysis#4.11#Inverse Transform by Long Division#Exa_4_11.sce#40/CH4/EX4.11/Exa_4_11.sce#S##638
+4#z Transform Analysis#4.10#Inverse Transform of sequences#Exa_4_10.sce#40/CH4/EX4.10/Exa_4_10.sce#S##637
+3#Response of Digital Filters#3.5#FIR filter response#Exa_3_5.sce#40/CH3/EX3.5/Exa_3_5.sce#S##384
+3#Response of Digital Filters#3.35#Periodic Autocorrelation and Cross Correlation#Exa_3_35.sce#40/CH3/EX3.35/Exa_3_35.sce#S##462
+3#Response of Digital Filters#3.33#Autocorrelation and Cross Correlation#Exa_3_33.sce#40/CH3/EX3.33/Exa_3_33.sce#S##461
+3#Response of Digital Filters#3.32#Deconvolution By polynomial Division#Exa_3_32.sce#40/CH3/EX3.32/Exa_3_32.sce#S##460
+3#Response of Digital Filters#3.30#Periodic Convolution by Circulant Matrix#Exa_3_30.sce#40/CH3/EX3.30/Exa_3_30.sce#S##459
+3#Response of Digital Filters#3.29#Periodic Convolution#Exa_3_29.sce#40/CH3/EX3.29/Exa_3_29.sce#S##455
+3#Response of Digital Filters#3.28#System Response to Periodic Inputs#Exa_3_28.sce#40/CH3/EX3.28/Exa_3_28.sce#S##453
+3#Response of Digital Filters#3.27#Periodic Extension#Exa_3_27.sce#40/CH3/EX3.27/Exa_3_27.sce#S##450
+3#Response of Digital Filters#3.26#Response to Periodic Inputs#Exa_3_26.sci#40/CH3/EX3.26/Exa_3_26.sci#S##446
+3#Response of Digital Filters#3.25#Stability and Causality#Exa_3_25.sce#40/CH3/EX3.25/Exa_3_25.sce#S##445
+3#Response of Digital Filters#3.23#effect of Zero Insertion,Zero Padding on convol.#Exa_3_23.sce#40/CH3/EX3.23/Exa_3_23.sce#S##444
+3#Response of Digital Filters#3.22#Convolution of finite length Signals#Exa_3_22.sce#40/CH3/EX3.22/Exa_3_22.sce#S##441
+3#Response of Digital Filters#3.22#Convolution of finite length Signals#Exa_3_22_0.jpg#40/CH3/EX3.22/Exa_3_22_0.jpg#R##442
+3#Response of Digital Filters#3.22#Convolution of finite length Signals#Exa_3_22_1.jpg#40/CH3/EX3.22/Exa_3_22_1.jpg#R##443
+3#Response of Digital Filters#3.21c#Convolution of finite length Signals#Exa_3_21c.sce#40/CH3/EX3.21c/Exa_3_21c.sce#S##438
+3#Response of Digital Filters#3.21c#Convolution of finite length Signals#Exa_3_21c_0.jpg#40/CH3/EX3.21c/Exa_3_21c_0.jpg#R##439
+3#Response of Digital Filters#3.21c#Convolution of finite length Signals#Exa_3_21c_1.jpg#40/CH3/EX3.21c/Exa_3_21c_1.jpg#R##440
+3#Response of Digital Filters#3.21b#Convolution of finite length Signals#Exa_3_21b.sce#40/CH3/EX3.21b/Exa_3_21b.sce#S##435
+3#Response of Digital Filters#3.21b#Convolution of finite length Signals#Exa_3_21b_0.jpg#40/CH3/EX3.21b/Exa_3_21b_0.jpg#R##436
+3#Response of Digital Filters#3.21b#Convolution of finite length Signals#Exa_3_21b_1.jpg#40/CH3/EX3.21b/Exa_3_21b_1.jpg#R##437
+3#Response of Digital Filters#3.21a#Convolution of finite length Signals#Exa_3_21a.sce#40/CH3/EX3.21a/Exa_3_21a.sce#S##432
+3#Response of Digital Filters#3.21a#Convolution of finite length Signals#Exa_3_21a_0.jpg#40/CH3/EX3.21a/Exa_3_21a_0.jpg#R##433
+3#Response of Digital Filters#3.21a#Convolution of finite length Signals#Exa_3_21a_1.jpg#40/CH3/EX3.21a/Exa_3_21a_1.jpg#R##434
+3#Response of Digital Filters#3.20b#Properties of Convolution#Exa_3_20_b.sce#40/CH3/EX3.20b/Exa_3_20_b.sce#S##431
+3#Response of Digital Filters#3.20a#Properties of Convolution#Exa_3_20_a.sce#40/CH3/EX3.20a/Exa_3_20_a.sce#S##430
+3#Response of Digital Filters#3.19c#Analytical Evaluation of Discrete Convolution#Exa_3_19c.sce#40/CH3/EX3.19c/Exa_3_19c.sce#S##427
+3#Response of Digital Filters#3.19c#Analytical Evaluation of Discrete Convolution#Exa_3_19c_0.jpg#40/CH3/EX3.19c/Exa_3_19c_0.jpg#R##428
+3#Response of Digital Filters#3.19c#Analytical Evaluation of Discrete Convolution#Exa_3_19c_1.jpg#40/CH3/EX3.19c/Exa_3_19c_1.jpg#R##429
+3#Response of Digital Filters#3.19b#Analytical Evaluation of Discrete Convolution#Exa_3_19b.sce#40/CH3/EX3.19b/Exa_3_19b.sce#S##399
+3#Response of Digital Filters#3.19b#Analytical Evaluation of Discrete Convolution#Exa_3_19b_0.jpg#40/CH3/EX3.19b/Exa_3_19b_0.jpg#R##400
+3#Response of Digital Filters#3.19b#Analytical Evaluation of Discrete Convolution#Exa_3_19b_1.jpg#40/CH3/EX3.19b/Exa_3_19b_1.jpg#R##401
+3#Response of Digital Filters#3.19a#Analytical Evaluation of Discrete Convolution#Exa_3_19a.sce#40/CH3/EX3.19a/Exa_3_19a.sce#S##395
+3#Response of Digital Filters#3.19a#Analytical Evaluation of Discrete Convolution#Exa_3_19a_0.jpg#40/CH3/EX3.19a/Exa_3_19a_0.jpg#R##396
+3#Response of Digital Filters#3.19a#Analytical Evaluation of Discrete Convolution#Exa_3_19a_1.jpg#40/CH3/EX3.19a/Exa_3_19a_1.jpg#R##397
+2#Discrete Signals#2.8#Signal Reconstruction#Exa_2_8.sce#40/CH2/EX2.8/Exa_2_8.sce#S##692
+2#Discrete Signals#2.8#Signal Reconstruction#Aliasfrequency.sci#40/DEPENDENCIES/Aliasfrequency.sci#D#Alias Frequency#10
+2#Discrete Signals#2.7#Aliasing and its effects#Exa_2_7.sce#40/CH2/EX2.7/Exa_2_7.sce#S##691
+2#Discrete Signals#2.7#Aliasing and its effects#Aliasfrequency.sci#40/DEPENDENCIES/Aliasfrequency.sci#D#Alias Frequency#10
+2#Discrete Signals#2.6#Discrete time Harmonics and Periodicity#Exa_2_6.sci#40/CH2/EX2.6/Exa_2_6.sci#S##572
+2#Discrete Signals#2.5#Describing Sequences and signals#Exa_2_5.sce#40/CH2/EX2.5/Exa_2_5.sce#S##374
+2#Discrete Signals#2.4d#Decimation and Interpolation of Discrete signals#Exa_2_4d.sce#40/CH2/EX2.4d/Exa_2_4d.sce#S##373
+2#Discrete Signals#2.4c#Decimation and Interpolation of Discrete signals#Exa_2_4c.sce#40/CH2/EX2.4c/Exa_2_4c.sce#S##372
+2#Discrete Signals#2.4b#Decimation and Interpolation of Discrete signals#Exa_2_4b.sce#40/CH2/EX2.4b/Exa_2_4b.sce#S##371
+2#Discrete Signals#2.4a#Decimation and Interpolation of Discrete signals#Exa_2_4a.sce#40/CH2/EX2.4a/Exa_2_4a.sce#S##370
+2#Discrete Signals#2.3b#Even and Odd parts of Discrete signals#Exa_2_3b.sce#40/CH2/EX2.3b/Exa_2_3b.sce#S##568
+2#Discrete Signals#2.3b#Even and Odd parts of Discrete signals#Exa_2_3b_0.jpg#40/CH2/EX2.3b/Exa_2_3b_0.jpg#R##569
+2#Discrete Signals#2.3b#Even and Odd parts of Discrete signals#Exa_2_3b_1.jpg#40/CH2/EX2.3b/Exa_2_3b_1.jpg#R##570
+2#Discrete Signals#2.3a#Even and Odd parts of Discrete signals#Exa_2_3a.sce#40/CH2/EX2.3a/Exa_2_3a.sce#S##564
+2#Discrete Signals#2.3a#Even and Odd parts of Discrete signals#Exa_2_3a_0.jpg#40/CH2/EX2.3a/Exa_2_3a_0.jpg#R##565
+2#Discrete Signals#2.3a#Even and Odd parts of Discrete signals#Exa_2_3a_1.jpg#40/CH2/EX2.3a/Exa_2_3a_1.jpg#R##566
+2#Discrete Signals#2.2#Operations on Discrete Signals#Exa_2_2.sce#40/CH2/EX2.2/Exa_2_2.sce#S##362
+2#Discrete Signals#2.2#Operations on Discrete Signals#Exa_2_2.jpg#40/CH2/EX2.2/Exa_2_2.jpg#R##363
+2#Discrete Signals#2.1c#Average power of periodic signals#Exa_2_1c.sce#40/CH2/EX2.1c/Exa_2_1c.sce#S##139
+2#Discrete Signals#2.1b#Average power of periodic signals#Exa_2_1b.sce#40/CH2/EX2.1b/Exa_2_1b.sce#S##138
+2#Discrete Signals#2.1a#Signal energy and power#Exa_2_1a.sce#40/CH2/EX2.1a/Exa_2_1a.sce#S##137

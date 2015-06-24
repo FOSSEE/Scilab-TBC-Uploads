@@ -1,0 +1,7 @@
+Equivalent equilateral spacing = 282.31 cm 
+
+Inductance/phase/m = 12.74*10^-7 H 
+
+ Inductance/phase/km = 1.274 mH 
+
+

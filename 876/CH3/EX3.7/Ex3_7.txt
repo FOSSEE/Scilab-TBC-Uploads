@@ -1,0 +1,3 @@
+capacitance(in F)=   
+ 
+    5.000D-10

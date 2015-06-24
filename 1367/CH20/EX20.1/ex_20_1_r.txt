@@ -1,0 +1,7 @@
+ Fracture strength (in MPa) =    
+ 
+    176.66406  
+ 
+ Ratio of fracture strength to Youngs modulous =    
+ 
+    0.0025238  

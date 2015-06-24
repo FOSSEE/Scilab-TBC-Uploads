@@ -1,0 +1,5 @@
+ # Problem 19 # 
+
+ Standard formula used 
+ t = t_o /sqrt ( 1- (v/c)^2)
+ Distance traveled by particle is 4.631830e+03 m.

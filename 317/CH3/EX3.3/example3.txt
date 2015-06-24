@@ -1,0 +1,2 @@
+load current is 10 milliampears
+load voltage is 10 volt

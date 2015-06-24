@@ -1,0 +1,2 @@
+**Sample Problem 34-2**
+The radius of the dust particle is 1.670e-007m 

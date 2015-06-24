@@ -1,0 +1,2 @@
+Assuming zero forward resistance and infinite reverse resistance   
+The value of the multiplier resistor, R_s = 8950 ohm 

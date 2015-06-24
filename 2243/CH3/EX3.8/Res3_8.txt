@@ -1,0 +1,7 @@
+ The maximum number of fringes observable are :
+
+(a) For a krypton source : 605800 
+
+(b) For a laser source : 40386666 
+
+ 

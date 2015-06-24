@@ -1,0 +1,4 @@
+
+	Local selectivity due to mass transfer limitations 
+	The local selectivity for Zero Conversion is 98%
+	The local selectivity for 50% Conversion is 87%

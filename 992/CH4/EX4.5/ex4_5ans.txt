@@ -1,0 +1,5 @@
+ 
+ 1)equivalent ressitance = 31.250000ohm 
+ 2)indutance = 0.140092 microhenry
+ 3)capacitance = 89.658828 pF 
+ Execution done.   

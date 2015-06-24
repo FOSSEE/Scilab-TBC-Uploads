@@ -1,0 +1,5 @@
+ new diameter=2D 
+ Gain=2*2=3 times compared to D
+ the increase in gain is 4 times or 6 dB
+ Bw varies inverse of D
+ Bw is half of previous value 

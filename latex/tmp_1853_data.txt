@@ -1,0 +1,85 @@
+5#Electrical Machine#5.9#speed#Ex5_9.sce#1853/CH5/EX5.9/Ex5_9.sce#S##107584
+5#Electrical Machine#5.8#power#Ex5_8.sce#1853/CH5/EX5.8/Ex5_8.sce#S##107583
+5#Electrical Machine#5.7#back emf#Ex5_7.sce#1853/CH5/EX5.7/Ex5_7.sce#S##109371
+5#Electrical Machine#5.6#emf induced#Ex5_6.sce#1853/CH5/EX5.6/Ex5_6.sce#S##107581
+5#Electrical Machine#5.5#emf induced#Ex5_5.sce#1853/CH5/EX5.5/Ex5_5.sce#S##107580
+5#Electrical Machine#5.4#induced emf#Ex5_4.sce#1853/CH5/EX5.4/Ex5_4.sce#S##107579
+5#Electrical Machine#5.3#speed#Ex5_3.sce#1853/CH5/EX5.3/Ex5_3.sce#S##107578
+5#Electrical Machine#5.2#emf induced in coil#Ex5_2.sce#1853/CH5/EX5.2/Ex5_2.sce#S##107577
+5#Electrical Machine#5.19#induced emf#Ex5_19.sce#1853/CH5/EX5.19/Ex5_19.sce#S##107594
+5#Electrical Machine#5.18#poles speed frequency#Ex5_18.sce#1853/CH5/EX5.18/Ex5_18.sce#S##107593
+5#Electrical Machine#5.17#speed#Ex5_17.sce#1853/CH5/EX5.17/Ex5_17.sce#S##107592
+5#Electrical Machine#5.16#speed and emf#Ex5_16.sce#1853/CH5/EX5.16/Ex5_16.sce#S##107591
+5#Electrical Machine#5.15#efficiency#Ex5_15.sce#1853/CH5/EX5.15/Ex5_15.sce#S##107590
+5#Electrical Machine#5.14#current#Ex5_14.sce#1853/CH5/EX5.14/Ex5_14.sce#S##107589
+5#Electrical Machine#5.13#flux density#Ex5_13.sce#1853/CH5/EX5.13/Ex5_13.sce#S##107588
+5#Electrical Machine#5.12#number of turns and current#Ex5_12.sce#1853/CH5/EX5.12/Ex5_12.sce#S##107587
+5#Electrical Machine#5.11#torque#Ex5_11.sce#1853/CH5/EX5.11/Ex5_11.sce#S##107586
+5#Electrical Machine#5.10#speed of rotor#Ex5_10.sce#1853/CH5/EX5.10/Ex5_10.sce#S##107585
+5#Electrical Machine#5.1#determine the emf induced in the coil#Ex5_1.sce#1853/CH5/EX5.1/Ex5_1.sce#S##107576
+4#Ac circuit#4.43#power factor#Ex4_43.sce#1853/CH4/EX4.43/Ex4_43.sce#S##107575
+4#Ac circuit#4.42#power absorbed#Ex4_42.sce#1853/CH4/EX4.42/Ex4_42.sce#S##109370
+4#Ac circuit#4.41#power absorbed#Ex4_41.sce#1853/CH4/EX4.41/Ex4_41.sce#S##107573
+4#Ac circuit#4.40#voltage and current#Ex4_40.sce#1853/CH4/EX4.40/Ex4_40.sce#S##107572
+4#Ac circuit#4.38#current and power#Ex4_38.sce#1853/CH4/EX4.38/Ex4_38.sce#S##107571
+4#Ac circuit#4.37#current voltage and power#Ex4_37.sce#1853/CH4/EX4.37/Ex4_37.sce#S##107570
+4#Ac circuit#4.36#frequency response#Ex4_36.sce#1853/CH4/EX4.36/Ex4_36.sce#S##107569
+4#Ac circuit#4.35#maximum current#Ex4_35.sce#1853/CH4/EX4.35/Ex4_35.sce#S##107568
+4#Ac circuit#4.34#current and voltage#Ex4_34.sce#1853/CH4/EX4.34/Ex4_34.sce#S##107567
+4#Ac circuit#4.33#voltage across RLC#Ex4_33.sce#1853/CH4/EX4.33/Ex4_33.sce#S##107566
+4#Ac circuit#4.32#capacitance#Ex4_32.sce#1853/CH4/EX4.32/Ex4_32.sce#S##109369
+4#Ac circuit#4.31#resistance and capacitance#Ex4_31.sce#1853/CH4/EX4.31/Ex4_31.sce#S##109368
+4#Ac circuit#4.30#voltage across R and C#Ex4_30.sce#1853/CH4/EX4.30/Ex4_30.sce#S##107563
+4#Ac circuit#4.3#volatage and time#Ex4_3.sce#1853/CH4/EX4.3/Ex4_3.sce#S##107546
+4#Ac circuit#4.29#current and voltage#Ex4_29.sce#1853/CH4/EX4.29/Ex4_29.sce#S##107562
+4#Ac circuit#4.28#time equation for v and i#Ex4_28.sce#1853/CH4/EX4.28/Ex4_28.sce#S##107561
+4#Ac circuit#4.27#voltage across choking coil#Ex4_27.sce#1853/CH4/EX4.27/Ex4_27.sce#S##107560
+4#Ac circuit#4.25#inductance#Ex4_25.sce#1853/CH4/EX4.25/Ex4_25.sce#S##107559
+4#Ac circuit#4.24#resistance#Ex4_24.sce#1853/CH4/EX4.24/Ex4_24.sce#S##107558
+4#Ac circuit#4.23#voltage#Ex4_23.sce#1853/CH4/EX4.23/Ex4_23.sce#S##107557
+4#Ac circuit#4.22#voltage and current#Ex4_22.sce#1853/CH4/EX4.22/Ex4_22.sce#S##107556
+4#Ac circuit#4.21#phase angle#Ex4_21.sce#1853/CH4/EX4.21/Ex4_21.sce#S##109367
+4#Ac circuit#4.20#frequency#Ex4_20.sce#1853/CH4/EX4.20/Ex4_20.sce#S##107554
+4#Ac circuit#4.2#voltage equation#Ex4_2.sce#1853/CH4/EX4.2/Ex4_2.sce#S##107545
+4#Ac circuit#4.19#capacitance current#Ex4_19.sce#1853/CH4/EX4.19/Ex4_19.sce#S##107553
+4#Ac circuit#4.18#current#Ex4_18.sce#1853/CH4/EX4.18/Ex4_18.sce#S##107552
+4#Ac circuit#4.17#voltage and current#Ex4_17.sce#1853/CH4/EX4.17/Ex4_17.sce#S##109366
+4#Ac circuit#4.16#inductance and current#Ex4_16.sce#1853/CH4/EX4.16/Ex4_16.sce#S##109365
+4#Ac circuit#4.15#current#Ex4_15.sce#1853/CH4/EX4.15/Ex4_15.sce#S##109364
+4#Ac circuit#4.13#inductive reactance#Ex4_14.sce#1853/CH4/EX4.13/Ex4_14.sce#S##107548
+4#Ac circuit#4.12#power dissipated#Ex4_12.sce#1853/CH4/EX4.12/Ex4_12.sce#S##109363
+4#Ac circuit#4.1#voltage and current factors#Ex4_1.sce#1853/CH4/EX4.1/Ex4_1.sce#S##107544
+3#Electromagnetism#3.9#energy stored#Ex3_9.sce#1853/CH3/EX3.9/Ex3_9.sce#S##107542
+3#Electromagnetism#3.8#mutual inductance and emf induced#Ex3_8.sce#1853/CH3/EX3.8/Ex3_8.sce#S##107541
+3#Electromagnetism#3.7#inductance and emf induced#Ex3_7.sce#1853/CH3/EX3.7/Ex3_7.sce#S##107540
+3#Electromagnetism#3.6#inductance and emf induced#Ex3_6.sce#1853/CH3/EX3.6/Ex3_6.sce#S##107539
+3#Electromagnetism#3.5#inductance and emf induced #Ex3_5.sce#1853/CH3/EX3.5/Ex3_5.sce#S##107538
+3#Electromagnetism#3.4#self inductance#Ex3_4.sce#1853/CH3/EX3.4/Ex3_4.sce#S##107537
+3#Electromagnetism#3.3#inductance of the coil#Ex3_3.sce#1853/CH3/EX3.3/Ex3_3.sce#S##107525
+3#Electromagnetism#3.2#emf induced#Ex3_2.sce#1853/CH3/EX3.2/Ex3_2.sce#S##107524
+3#Electromagnetism#3.10#force#Ex3_10.sce#1853/CH3/EX3.10/Ex3_10.sce#S##107543
+3#Electromagnetism#3.1#emf induced#Ex3_1.sce#1853/CH3/EX3.1/Ex3_1.sce#S##107523
+2#Magnetic Current#2.9#ampere turns#Ex2_9.sce#1853/CH2/EX2.9/Ex2_9.sce#S##107535
+2#Magnetic Current#2.8#number of amperes turns#Ex2_8.sce#1853/CH2/EX2.8/Ex2_8.sce#S##107533
+2#Magnetic Current#2.7#Magnetising Current#Ex2_7.sce#1853/CH2/EX2.7/Ex2_7.sce#S##107532
+2#Magnetic Current#2.6#magnetising force relative permeability magnetic flux density#Ex2_6.sce#1853/CH2/EX2.6/Ex2_6.sce#S##107531
+2#Magnetic Current#2.5#mmf#Ex2_5.sce#1853/CH2/EX2.5/Ex2_5.sce#S##107530
+2#Magnetic Current#2.4#relative permeability#Ex2_4.sce#1853/CH2/EX2.4/Ex2_4.sce#S##107528
+2#Magnetic Current#2.3#reluctance current and #Ex2_3.sce#1853/CH2/EX2.3/Ex2_3.sce#S##107529
+2#Magnetic Current#2.2#Magnetic field strength#Ex2_2.sce#1853/CH2/EX2.2/Ex2_2.sce#S##107527
+2#Magnetic Current#2.11#hysteris loop#Ex2_11.sce#1853/CH2/EX2.11/Ex2_11.sce#S##107534
+2#Magnetic Current#2.10#exciting current#Ex2_10.sce#1853/CH2/EX2.10/Ex2_10.sce#S##107536
+2#Magnetic Current#2.1#flux density#Ex2_1.sce#1853/CH2/EX2.1/Ex2_1.sce#S##107526
+1#concept of electric current and laws#1.9#current#Ex1_9.sce#1853/CH1/EX1.9/Ex1_9.sce#S##107516
+1#concept of electric current and laws#1.7#current#Ex1_7.sce#1853/CH1/EX1.7/Ex1_7.sce#S##107515
+1#concept of electric current and laws#1.6#resistance#Ex1_6.sce#1853/CH1/EX1.6/Ex1_6.sce#S##109360
+1#concept of electric current and laws#1.5#resistance#Ex1_5.sce#1853/CH1/EX1.5/Ex1_5.sce#S##109359
+1#concept of electric current and laws#1.4#resistance#Ex1_4.sce#1853/CH1/EX1.4/Ex1_4.sce#S##107512
+1#concept of electric current and laws#1.3#resistance and current#Ex1_3.sce#1853/CH1/EX1.3/Ex1_3.sce#S##107511
+1#concept of electric current and laws#1.2#resistance#Ex1_2.sce#1853/CH1/EX1.2/Ex1_2.sce#S##109358
+1#concept of electric current and laws#1.19#resistance#Ex1_19.sce#1853/CH1/EX1.19/Ex1_19.sce#S##107521
+1#concept of electric current and laws#1.18#resistance#Ex1_18.sce#1853/CH1/EX1.18/Ex1_18.sce#S##107520
+1#concept of electric current and laws#1.12#Bill amount#Ex1_12.sce#1853/CH1/EX1.12/Ex1_12.sce#S##107519
+1#concept of electric current and laws#1.11#power#Ex1_11.sce#1853/CH1/EX1.11/Ex1_11.sce#S##109362
+1#concept of electric current and laws#1.10#resistance of coil#Ex1_10.sce#1853/CH1/EX1.10/Ex1_10.sce#S##109361
+1#concept of electric current and laws#1.1#specific resistance#Ex1_1.sce#1853/CH1/EX1.1/Ex1_1.sce#S##109357

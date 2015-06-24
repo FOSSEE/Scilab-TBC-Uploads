@@ -1,0 +1,103 @@
+-->//(Power Screws) Example 6.8
+ 
+-->//Refer Fig.6.15 on page 202
+ 
+-->//Maximum force exerted by the clamp W (kN)
+ 
+-->W = 5
+ W  =
+ 
+    5.  
+ 
+-->//Force exerted by the operator F (N)
+ 
+-->F = 250
+ F  =
+ 
+    250.  
+ 
+-->//Yield tensile strength of 45C8 Syt (N/mm2)
+ 
+-->Syt = 330
+ Syt  =
+ 
+    330.  
+ 
+-->//Outer diameter of the collar Do (mm)
+ 
+-->Do = 17
+ Do  =
+ 
+    17.  
+ 
+-->//Inner diameter of the collar Di (mm)
+ 
+-->Di = 6
+ Di  =
+ 
+    6.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 2
+ fs  =
+ 
+    2.  
+ 
+-->//Number of starts of the screw n
+ 
+-->n = 2
+ n  =
+ 
+    2.  
+ 
+-->//Coefficient of friction at threads mu1
+ 
+-->mu1 = 0.15
+ mu1  =
+ 
+    0.15  
+ 
+-->//Coefficient of friction at collar mu2
+ 
+-->mu2 = 0.17
+ mu2  =
+ 
+    0.17  
+ 
+-->//Distance between the handwheel and the frame-top dist (mm)
+ 
+-->dist = 275
+ dist  =
+ 
+    275.  
+ 
+-->//Assume screw pitch p (mm)
+ 
+-->p = 5
+ p  =
+ 
+    5.  
+ 
+-->//Unit bearing pressure Sb (N/mm2)
+ 
+-->Sb = 15
+ Sb  =
+ 
+    15.  
+ 
+
+Screw
+
+Nominal diameter of the screw(d) = 22.000000 mm
+
+Core diameter of the screw(dcNew) = 17.000000 mm
+
+Nut
+
+Length of the nut(L) = 15.000000 mm
+
+Number of threads(z) = 3.000000
+
+Radius of the ball hand(Rm) = 82.164119 mm
+ 

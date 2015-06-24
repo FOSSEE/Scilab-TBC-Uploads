@@ -1,0 +1,11 @@
+(i)	 Specific fuel consumption = 0.25 kg/kWh 
+
+		 Electrical output in heat units per day =3440000 kcal 
+
+(ii)	 Overall efficiency = 34.40 % 
+
+		 Engine efficiency = 35.83 % 
+
+(iii)	 Thermal efficiency = 37.72 % 
+
+

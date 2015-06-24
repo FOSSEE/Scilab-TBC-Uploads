@@ -1,0 +1,17 @@
+
+ The terminal voltage after considering the angle is,in per unit   
+ 
+    0.9539392 + 0.3i  
+ 
+ The output current from the generator in per unit is   
+ 
+    1. + 0.153536i  
+ 
+ The transient internal voltage in per unit   
+ 
+    0.923232 + 0.5i  
+ 
+ Power angle equation is   
+
+ Pe = 2.10 * sin(delta) 
+ where delta is the machine rotor angle wrt to the infinite bus 

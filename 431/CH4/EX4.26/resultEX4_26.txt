@@ -1,0 +1,5 @@
+  
+ Example 4.25   
+current taken when delta-connected=75A
+current taken when star-connected=25A
+Starting torque with winding star connected=0.500000 times of Tfl 

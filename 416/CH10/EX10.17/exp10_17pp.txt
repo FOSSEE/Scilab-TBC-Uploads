@@ -1,0 +1,5 @@
+ 
+ example 10.17   
+
+loads on generaating station by economic creatirian method isp1=669.734705MW,p2=116.134272MW,p3=14.131023MW
+loads on generating station under critical conditions p1=600MW p2=150MW p3=50MW 

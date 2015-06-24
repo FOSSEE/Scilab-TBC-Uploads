@@ -1,0 +1,5 @@
+Example 3.4  
+Total resistance of the transformer in terms of the secondary winding=0.033469ohms
+Full load secondary current=160A
+Total resistance load on full load=5.355000Volts
+Total copper loss on full load=856.800000Watts 

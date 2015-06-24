@@ -1,0 +1,16 @@
+ 
+ example 4 9   
+ for 300kW unit power factor load 
+ power factor angle 0
+ reactive power 0kvr 
+for 1000kW unit power factor load 
+ power factor angle 25.84
+ reactive power 484.32kvr 
+for 1500kW unit power factor load 
+ power factor angle 36.87
+ reactive power 1125.00kvr
+ total kW 	2800kW
+ total kVAR 1609.3kVAR 
+ total kVA 3229.54kVA 
+ overall power factor 0.867lagging
+ the maximum unity power factor load which yhe station can supply is equal to the kVA i.e.3229.54kVR 

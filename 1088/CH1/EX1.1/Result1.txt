@@ -1,0 +1,39 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example1.sci',0)
+ dt  =
+ 
+    2013.    5.    22.    149.    4.    29.    15.    43.    40.    732.  
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                            4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                             1   
+ 
+ Chapter Title                         :                             GETTING STARTED   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 1 : Write a code sequence to display the current date and time   
+
+**********************************************************
+ 
+ Answer :     
+
+The current date is 29-May-2013 and the current time is 15 : 43 : 40 
+The day is Wednesday.
+**********************************************************
+ 
+-->diary('Result1.txt','close')

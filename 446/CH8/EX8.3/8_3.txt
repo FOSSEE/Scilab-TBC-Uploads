@@ -1,0 +1,4 @@
+  
+ Exa-8.3   
+Value of L ranges from 0 to 2 i.e 0 1 2.
+Values of S are 1 &0.

@@ -1,0 +1,12 @@
+Annual fixed charges
+Interest and depreciation = Rs. 1320000 
+Wages and taxation = Rs. 400000 
+Total annual fixed charges = Rs. 1720000 
+
+Annual running charges
+Units generated per annum = 175200000 kWh 
+Cost of fuel and lubrication = Rs. 1752000 
+Total annual charges = Rs. 3472000 
+Cost per kWh = Rs. 0.0198 
+
+

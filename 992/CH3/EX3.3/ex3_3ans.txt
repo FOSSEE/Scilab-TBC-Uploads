@@ -1,0 +1,4 @@
+ 
+ 1)modulation indexat 300Hz = 20.000000 
+ 2)modulation indexat 3000Hz = 2.000000  
+ Execution done. 

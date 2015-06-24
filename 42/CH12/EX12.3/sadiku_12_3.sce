@@ -1,0 +1,13 @@
+clear;
+clc;
+format('v',7);
+a=1.5*10^-2,b=.8*10^-2,c=0,Uo=4*%pi*10^-7,Ur=1,Eo=10^-9/(36*%pi),Er=4,C=3*10^8,w=%pi*10^11,m=1,n=3;
+u=C/2;
+f=w/(2*%pi);
+fc=u*((m*m)/(a*a) + (n*n)/(b*b) )^.5/2;
+disp(fc*10^-9,'Cutoff frequency = ');
+B=w*sqrt(Uo*Ur*Eo*Er)*sqrt(1-(fc/f)^2);
+disp(B,'Phase constant = ');
+disp(%i*B,'Propagation constant = ');
+n=377/sqrt(Er)*sqrt(1-(fc/f)^2);
+disp(n,'Intrinsic wave impedence = ');

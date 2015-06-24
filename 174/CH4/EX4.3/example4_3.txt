@@ -1,0 +1,4 @@
+ The value of the resistance R_4 = 9900 ohm
+The value of the resistance R_3 = 40k ohm
+The value of the resistance R_2 = 200k ohm
+The value of the resistance R_1 = 250k ohm 

@@ -1,0 +1,5 @@
+**Sample Problem 31-2a**
+The Emf induced is equal to 5.152212V
+
+**Sample Problem 31-2b**
+The induced current is equal to 1.576106A 

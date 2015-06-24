@@ -1,0 +1,5 @@
+ # Problem 18a # 
+ 
+ Standard formula used 
+   r_n^2 = n*lambda*R 
+Radius of curvature is 0.105932 m.

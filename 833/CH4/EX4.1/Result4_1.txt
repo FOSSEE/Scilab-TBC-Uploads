@@ -1,0 +1,31 @@
+(a)Voltage per turn(in volts)=   
+ 
+    1.677051  
+ 
+ (b)Cross sectional area of core(in mm^2)=   
+ 
+    4721.4273  
+ 
+ (c)Cross sectional area of conductor for low voltage side(in mm^2)=   
+ 
+    10.416667  
+ 
+ (d)Cross sectional area of conductor for high voltage side(in mm^2)=   
+ 
+    6.0240964  
+ 
+ (e)Number of turns in low voltage winding=   
+ 
+    143.10835  
+ 
+ (f)Number of turns in high voltage winding=   
+ 
+    247.45819  
+ 
+ (g)Window area(in mm^2)=   
+ 
+    3.895D+08  
+ 
+ (i)Copper used in windings(in mm^2)=   
+ 
+    2981.424  

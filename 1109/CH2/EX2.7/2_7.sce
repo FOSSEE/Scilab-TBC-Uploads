@@ -1,0 +1,13 @@
+clear;
+clc;
+Zoc=2500*exp(%i*(-%pi/(180/70)));Zsc=49*exp(%i*(%pi/(180/25)));l=1;
+f=(8000)/(2*%pi);
+w=2*%pi*f;
+Zo=sqrt(Zoc*Zsc);
+A=atanh(sqrt(Zsc/Zoc));
+P=A/l;
+P1=P*l/1000;
+Z=P1*Zo;
+printf("Series impedance of line is Z = %f /_ %f ohms/km\n",round(abs(Z)*1000)/1000,atan(imag(Z),real(Z))*180/%pi);
+Y=P1/Zo;
+printf("Shunt admittance of line is Y = %f /_ %f mhos/km",round(abs(Y)*10^6*10)/10,atan(imag(Y),real(Y))*180/%pi);

@@ -1,0 +1,5 @@
+# PROBLEM 18 # 
+Standard formula used 
+  nu = a*(Z-b)^2 ........Moseley law 
+
+ Frequency of k line is 1.501683e+19 Hz.

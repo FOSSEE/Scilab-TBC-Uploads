@@ -1,0 +1,8 @@
+  
+ The amount of Information 
+ 
+	 I(X1) = 01 bit
+ 
+ The amount of Information 
+ 
+	 I(X2) = 01 bit 

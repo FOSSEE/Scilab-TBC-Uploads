@@ -1,0 +1,76 @@
+-->//(Brakes) Example 12.10
+ 
+-->//Width of the steel band w (mm)
+ 
+-->w = 100
+ w  =
+ 
+    100.  
+ 
+-->//Thickness of the steel band t (mm)
+ 
+-->t = 3
+ t  =
+ 
+    3.  
+ 
+-->//Maximum tensile stress in the band sigmat (N/mm2)
+ 
+-->sigmat = 50
+ sigmat  =
+ 
+    50.  
+ 
+-->//Coefficient of friction between the friction lining and the drum mu
+ 
+-->mu = 0.25
+ mu  =
+ 
+    0.25  
+ 
+-->//Radius of the drum R (mm)
+ 
+-->R = 300
+ R  =
+ 
+    300.  
+ 
+-->//Angle of wrap theta (deg)
+ 
+-->theta = 240
+ theta  =
+ 
+    240.  
+ 
+-->//Distance of the loose end from the pivot d1 (mm)
+ 
+-->d1 = 200
+ d1  =
+ 
+    200.  
+ 
+-->//Distance of the tight end from the pivot d2 (mm)
+ 
+-->d2 = 50
+ d2  =
+ 
+    50.  
+ 
+-->//Distance of the force from the loose end d3 (mm)
+ 
+-->d3 = 750
+ d3  =
+ 
+    750.  
+ 
+
+The brake is not self-locking
+
+Tension in the band on the tight side(P1) = 15000.000000 N
+
+Tension in the band on the loose side(P2) = 5263.797108 N
+
+Actuating force(P) = 318.694128 N
+
+Torque capacity of the brake(Mt) = 2920.860868 N-m
+ 

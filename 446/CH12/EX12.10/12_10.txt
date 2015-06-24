@@ -1,0 +1,9 @@
+  
+ Exa-12.10(a)   
+The Q value for -VE beta emission is 1.312 Mev 
+ 
+ Exa-12.10(b)   
+The Q value for +VE beta emission is 0.482 Mev 
+ 
+ Exa-12.10(c)   
+The Q value for +VE beta emission is 1.504 Mev 

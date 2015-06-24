@@ -1,0 +1,22 @@
+
+ OUTPUT Ex7.6.a
+==========================================================
+At the peak demand, fraction of the oxygen supplied = 0.592 
+
+
+ OUTPUT Ex7.6.b
+==========================================================
+The total power required for the agitator before the air is turned on: 316 kW
+The total power required for the agitator after the air is turned on: 203 kW
+
+
+ OUTPUT Ex7.6.c
+==========================================================
+The calculated value of kLa (mass transfer coefficient) of solution:0.22 (sec-1)
+The calculated value of average dissolved O2 concentration: 2.87 (mg/L)
+
+
+ OUTPUT Ex7.6.d
+==========================================================
+The new calculated value of average dissolved O2 concentration  1.68 (mg/L)
+The reactor is operated above critical O2 concentration 

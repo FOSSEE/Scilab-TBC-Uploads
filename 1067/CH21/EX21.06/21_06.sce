@@ -1,0 +1,15 @@
+clear;
+clc;
+e=1;
+x1=.25*%i;
+x2=.35*%i;
+x0=.1*%i;
+ia0=e/(x1+x2+x0);
+ia1=ia0;
+ia2=ia0;
+ia=ia0+ia1+ia2;
+iar=real(ia);
+iai=imag(ia);
+iam=round(sqrt((iar^2)+(iai^2))*100)/100;
+iaa=0;
+mprintf("the current levels are \n ia=%f+j(%f) A \tor\t %f/_%d A",iar,iai,iam,iaa);

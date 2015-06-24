@@ -1,0 +1,6 @@
+# PROBLEM 4 # 
+Standard formula used 
+ mu=tan(Ip)
+
+ Polarizing angle for water to glass = 49.184916 degree,
+ Polarizing angle for glass to water = 40.815084 degree

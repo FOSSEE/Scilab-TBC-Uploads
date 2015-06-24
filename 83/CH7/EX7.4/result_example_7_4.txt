@@ -1,0 +1,15 @@
+ 
+
+Lagrange's multiplier (lamda) is
+ Lamda =24.9
+
+Required generation for optimum loading are 
+ Pg1=128.57 MW 
+ Pg2=125 MW
+
+The transmission power loss is
+ PL=16.53 MW
+
+The load is 
+ Pd=237.04 MW 
+

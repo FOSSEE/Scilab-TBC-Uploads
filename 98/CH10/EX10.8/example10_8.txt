@@ -1,0 +1,21 @@
+Resistance of each conductor = 0.48 ohm 
+
+Reactance of each conductor = 3.52 ohm 
+
+Recieving end voltage = 6351 V 
+
+Load current = 65.61 A 
+
+Sending end voltage = 6514.55 V 
+
+% Regulation = 2.58 % 
+
+Line losses = 6.198 kW 
+
+Output power = 1000 kW 
+
+Input power = 1006.2 kW 
+
+Transmission efficiency = 99.38 % 
+
+

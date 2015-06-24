@@ -1,0 +1,4 @@
+  
+ Exa-6.6   
+Wavelength of trnasition from n1=3 to n2=2 is 656.335 nm
+Wavelength of trnasition from n1=3 to n2=2 is 486.174 nm 

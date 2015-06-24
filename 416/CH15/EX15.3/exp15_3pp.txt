@@ -1,0 +1,13 @@
+  
+ example 15.3   
+resistence of duct 0.016807ohms 
+ voltage drop in duct 529.2V 
+ current 31487.4A 
+current density 52920.000000A/m^2 
+short circuit current 89964.0A 
+short current density 151200.000000A/m^2 
+ power 47.608949MW 
+power delivered to load 30.945817W 
+ loss in duct 16.663132W 
+efficiency is 0.650000 
+maximum power delivered to load 34MW 

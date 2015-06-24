@@ -1,0 +1,220 @@
+11#Heat Transfer#11.9#The heat loss from the pipe#Ex11_9.sce#2417/CH11/EX11.9/Ex11_9.sce#S##95562
+11#Heat Transfer#11.8#total heat loss#Ex11_8.sce#2417/CH11/EX11.8/Ex11_8.sce#S##95561
+11#Heat Transfer#11.7#The temperature at the interfaces#Ex11_7.sce#2417/CH11/EX11.7/Ex11_7.sce#S##95560
+11#Heat Transfer#11.6#Heat transfer per square meter of wall#Ex11_6.sce#2417/CH11/EX11.6/Ex11_6.sce#S##95559
+11#Heat Transfer#11.5#The interface temperatures#Ex11_5.sce#2417/CH11/EX11.5/Ex11_5.sce#S##95558
+11#Heat Transfer#11.4#Heat transfer per sqr foot of wall#Ex11_4.sce#2417/CH11/EX11.4/Ex11_4.sce#S##95557
+11#Heat Transfer#11.3#determine the resistance needed#Ex11_3.sce#2417/CH11/EX11.3/Ex11_3.sce#S##95556
+11#Heat Transfer#11.27#True mean temperature difference#Ex11_27.sce#2417/CH11/EX11.27/Ex11_27.sce#S##95578
+11#Heat Transfer#11.26#the outside surface area required#Ex11_26.sce#2417/CH11/EX11.26/Ex11_26.sce#S##95577
+11#Heat Transfer#11.25#Determine the outside surface area required#Ex11_25.sce#2417/CH11/EX11.25/Ex11_25.sce#S##95576
+11#Heat Transfer#11.24#Determine the outside tube surface required#Ex11_24.sce#2417/CH11/EX11.24/Ex11_24.sce#S##95575
+11#Heat Transfer#11.23#Determine the overall heat transfer coefficient of outside and inside area#Ex11_23.sce#2417/CH11/EX11.23/Ex11_23.sce#S##95574
+11#Heat Transfer#11.22#Determine the overall heat transfer coefficient#Ex11_22.sce#2417/CH11/EX11.22/Ex11_22.sce#S##95573
+11#Heat Transfer#11.21#Determine the heat loss due to convection#Ex11_21.sce#2417/CH11/EX11.21/Ex11_21.sce#S##95572
+11#Heat Transfer#11.20#Determine the heat transfer coefficient#Ex11_20.sce#2417/CH11/EX11.20/Ex11_20.sce#S##95571
+11#Heat Transfer#11.2#Heat transfer per unit wall area#Ex11_2.sce#2417/CH11/EX11.2/Ex11_2.sce#S##95555
+11#Heat Transfer#11.19#Determine the heat loss by radiation#Ex11_19.sce#2417/CH11/EX11.19/Ex11_19.sce#S##95570
+11#Heat Transfer#11.18#Determine the inside film coefficient#Ex11_18.sce#2417/CH11/EX11.18/Ex11_18.sce#S##95569
+11#Heat Transfer#11.17#Determine the heat transfer coefficient#Ex11_17.sce#2417/CH11/EX11.17/Ex11_17.sce#S##95568
+11#Heat Transfer#11.16#Determine the heat transfer through the wall and wall temperature#Ex11_16.sce#2417/CH11/EX11.16/Ex11_16.sce#S##95567
+11#Heat Transfer#11.15#Convection#Ex11_15.sce#2417/CH11/EX11.15/Ex11_15.sce#S##95566
+11#Heat Transfer#11.12#Convection#Ex11_12.sce#2417/CH11/EX11.12/Ex11_12.sce#S##95565
+11#Heat Transfer#11.11#heat loss from mineral of wool#Ex11_11.sce#2417/CH11/EX11.11/Ex11_11.sce#S##95564
+11#Heat Transfer#11.10#heat loss from the pipe#Ex11_10.sce#2417/CH11/EX11.10/Ex11_10.sce#S##95563
+11#Heat Transfer#11.1#Heat transfer per square foot of wall#Ex11_1.sce#2417/CH11/EX11.1/Ex11_1.sce#S##95554
+10#Refrigeration#10.9#Coefficient of performance#Ex10_9.sce#2417/CH10/EX10.9/Ex10_9.sce#S##95546
+10#Refrigeration#10.8#An ideal Refrigeration cycle#Ex10_8.sce#2417/CH10/EX10.8/Ex10_8.sce#S##95545
+10#Refrigeration#10.7#Refrigeration cycles#Ex10_7.sce#2417/CH10/EX10.7/Ex10_7.sce#S##95544
+10#Refrigeration#10.6#Refrigeration cycles#Ex10_6.sce#2417/CH10/EX10.6/Ex10_6.sce#S##95543
+10#Refrigeration#10.5#Defined Ratings#Ex10_5.sce#2417/CH10/EX10.5/Ex10_5.sce#S##95539
+10#Refrigeration#10.4#Defined Ratings#Ex10_4.sce#2417/CH10/EX10.4/Ex10_4.sce#S##95538
+10#Refrigeration#10.3#Defined Ratings#Ex10_3.sce#2417/CH10/EX10.3/Ex10_3.sce#S##95537
+10#Refrigeration#10.2#A carnot refrigeration cycle#Ex10_2.sce#2417/CH10/EX10.2/Ex10_2.sce#S##95536
+10#Refrigeration#10.16#The heat pump#Ex10_16.sce#2417/CH10/EX10.16/Ex10_16.sce#S##95553
+10#Refrigeration#10.15#The heat pump#Ex10_15.sce#2417/CH10/EX10.15/Ex10_15.sce#S##95552
+10#Refrigeration#10.14#A vacuum Refrigeration system#Ex10_14.sce#2417/CH10/EX10.14/Ex10_14.sce#S##95551
+10#Refrigeration#10.13#A vacuum Refrigeration system#Ex10_13.sce#2417/CH10/EX10.13/Ex10_13.sce#S##95550
+10#Refrigeration#10.12#Determine the airflow required per ton of refrigeration#Ex10_12.sce#2417/CH10/EX10.12/Ex10_12.sce#S##95549
+10#Refrigeration#10.11#Work and mass#Ex10_11.sce#2417/CH10/EX10.11/Ex10_11.sce#S##95548
+10#Refrigeration#10.10#total work and mass#Ex10_10.sce#2417/CH10/EX10.10/Ex10_10.sce#S##95547
+10#Refrigeration#10.1#A Carnot Refrigeration Cycle#Ex10_1.sce#2417/CH10/EX10.1/Ex10_1.sce#S##95535
+9#Gas Power Cycles#9.9#Compression ratio#Ex9_9.sce#2417/CH9/EX9.9/Ex9_9.sce#S##95529
+9#Gas Power Cycles#9.7#Determine the horsepower#Ex9_7.sce#2417/CH9/EX9.7/Ex9_7.sce#S##95528
+9#Gas Power Cycles#9.4#Determine temperature pressure and specific volume at each point#Ex9_4.sce#2417/CH9/EX9.4/Ex9_4.sce#S##95527
+9#Gas Power Cycles#9.3#Determine the Peak temperature #Ex9_3.sce#2417/CH9/EX9.3/Ex9_3.sce#S##95526
+9#Gas Power Cycles#9.2#Efficiency and net work out#Ex9_2.sce#2417/CH9/EX9.2/Ex9_2.sce#S##95525
+9#Gas Power Cycles#9.14#Ddetermine Heat in and heat rejected#Ex9_14.sce#2417/CH9/EX9.14/Ex9_14.sce#S##95534
+9#Gas Power Cycles#9.13#Determine net work and mean effective pressure#Ex9_13.sce#2417/CH9/EX9.13/Ex9_13.sce#S##95533
+9#Gas Power Cycles#9.12#Efficiency and temperature of the exhaust #Ex9_12.sce#2417/CH9/EX9.12/Ex9_12.sce#S##95532
+9#Gas Power Cycles#9.11#The mean effective pressure#Ex9_11.sce#2417/CH9/EX9.11/Ex9_11.sce#S##95531
+9#Gas Power Cycles#9.10#Determine the mean effective pressure#Ex9_10.sce#2417/CH9/EX9.10/Ex9_10.sce#S##95530
+9#Gas Power Cycles#9.1#The efficiency of Otto cycle and Carnot cycle#Ex9_1.sce#2417/CH9/EX9.1/Ex9_1.sce#S##95524
+8#Vapor Power Cycles#8.9#Efficiency of reheat cycle#Ex8_9.sce#2417/CH8/EX8.9/Ex8_9.sce#S##95517
+8#Vapor Power Cycles#8.8#Heat rate and steam rate per kilowatt hour #Ex8_8.sce#2417/CH8/EX8.8/Ex8_8.sce#S##95516
+8#Vapor Power Cycles#8.7#Thermal efficiency#Ex8_7.sce#2417/CH8/EX8.7/Ex8_7.sce#S##95515
+8#Vapor Power Cycles#8.6#Efficiency of Rankine cycle#Ex8_6.sce#2417/CH8/EX8.6/Ex8_6.sce#S##95514
+8#Vapor Power Cycles#8.5#Carnot cycle efficiency and type efficiency#Ex8_5.sce#2417/CH8/EX8.5/Ex8_5.sce#S##95513
+8#Vapor Power Cycles#8.4#Thermal efficiency using computer generated property values#Ex8_4.sce#2417/CH8/EX8.4/Ex8_4.sce#S##95512
+8#Vapor Power Cycles#8.3#Thermal efficiency#Ex8_3.sce#2417/CH8/EX8.3/Ex8_3.sce#S##95511
+8#Vapor Power Cycles#8.2#Thermal efficiency using computer disk property values#Ex8_2.sce#2417/CH8/EX8.2/Ex8_2.sce#S##95510
+8#Vapor Power Cycles#8.14#efficiency of energy utilization and thermal efficiency#Ex8_14.sce#2417/CH8/EX8.14/Ex8_14.sce#S##95522
+8#Vapor Power Cycles#8.13#efficiency of cycle and comparision#Ex8_13.sce#2417/CH8/EX8.13/Ex8_13.sce#S##95521
+8#Vapor Power Cycles#8.12#The efficiency of the cycle#Ex8_12.sce#2417/CH8/EX8.12/Ex8_12.sce#S##95520
+8#Vapor Power Cycles#8.11#Efficiency of Rankine and regenerative cycle#Ex8_11.sce#2417/CH8/EX8.11/Ex8_11.sce#S##95519
+8#Vapor Power Cycles#8.10#efficiency of reheat cycle by computerized properties#Ex8_10.sce#2417/CH8/EX8.10/Ex8_10.sce#S##95518
+8#Vapor Power Cycles#8.1#Thermal efficiency neglecting pump work  and including pump work#Ex8_1.sce#2417/CH8/EX8.1/Ex8_1.sce#S##95509
+7#Mixtures Of Ideal Gases#7.9#Thermodynamic properties of a gas mixture#Ex7_9.sce#2417/CH7/EX7.9/Ex7_9.sce#S##95405
+7#Mixtures Of Ideal Gases#7.8#Mixture Composition#Ex7_8.sce#2417/CH7/EX7.8/Ex7_8.sce#S##95404
+7#Mixtures Of Ideal Gases#7.7#Mixture Composition#Ex7_7.sce#2417/CH7/EX7.7/Ex7_7.sce#S##95403
+7#Mixtures Of Ideal Gases#7.6#Mixture composition#Ex7_6.sce#2417/CH7/EX7.6/Ex7_6.sce#S##95402
+7#Mixtures Of Ideal Gases#7.5#The volume of a mixture#Ex7_5.sce#2417/CH7/EX7.5/Ex7_5.sce#S##95401
+7#Mixtures Of Ideal Gases#7.4#Volume of a mixture#Ex7_4.sce#2417/CH7/EX7.4/Ex7_4.sce#S##95400
+7#Mixtures Of Ideal Gases#7.3#Determine moles moles fraction molecular weight and gas constant#Ex7_3.sce#2417/CH7/EX7.3/Ex7_3.sce#S##95620
+7#Mixtures Of Ideal Gases#7.23#The cooling tower#Ex7_23.sce#2417/CH7/EX7.23/Ex7_23.sce#S##95411
+7#Mixtures Of Ideal Gases#7.22#The final mixture composition#Ex7_22.sce#2417/CH7/EX7.22/Ex7_22.sce#S##95410
+7#Mixtures Of Ideal Gases#7.21#Determine relative humidity#Ex7_21.sce#2417/CH7/EX7.21/Ex7_21.sce#S##95493
+7#Mixtures Of Ideal Gases#7.20#Determine the heat required#Ex7_20.sce#2417/CH7/EX7.20/Ex7_20.sce#S##95494
+7#Mixtures Of Ideal Gases#7.2#Determine molecular weight and partial pressure#Ex7_2.sce#2417/CH7/EX7.2/Ex7_2.sce#S##95496
+7#Mixtures Of Ideal Gases#7.19#Determine water removed from the air using psychrometric chart#Ex7_19.sce#2417/CH7/EX7.19/Ex7_19.sce#S##95501
+7#Mixtures Of Ideal Gases#7.18#Determine partial pressure and relative humidity and dew point temperature using psychrometric chart#Ex7_18.sce#2417/CH7/EX7.18/Ex7_18.sce#S##95500
+7#Mixtures Of Ideal Gases#7.17#Determine dew point temperature using psychrometric chart#Ex7_17.sce#2417/CH7/EX7.17/Ex7_17.sce#S##95499
+7#Mixtures Of Ideal Gases#7.16#Determine how much water was removed from the air#Ex7_16.sce#2417/CH7/EX7.16/Ex7_16.sce#S##95498
+7#Mixtures Of Ideal Gases#7.15#Determine partial pressure and relative humidity and dew point temperature#Ex7_15.sce#2417/CH7/EX7.15/Ex7_15.sce#S##95497
+7#Mixtures Of Ideal Gases#7.14#Air water vapor mixture#Ex7_14.sce#2417/CH7/EX7.14/Ex7_14.sce#S##95409
+7#Mixtures Of Ideal Gases#7.13#The dew point temperature#Ex7_13.sce#2417/CH7/EX7.13/Ex7_13.sce#S##95408
+7#Mixtures Of Ideal Gases#7.12#The change in entropy#Ex7_12.sce#2417/CH7/EX7.12/Ex7_12.sce#S##95407
+7#Mixtures Of Ideal Gases#7.10#The final temperature of the mixture#Ex7_10.sce#2417/CH7/EX7.10/Ex7_10.sce#S##95406
+7#Mixtures Of Ideal Gases#7.1#Dry air mixture of oxygen and nitrogen#Ex7_1.sce#2417/CH7/EX7.1/Ex7_1.sce#S##95495
+6#The Ideal Gas#6.9#Determine the mean specific heat#Ex6_9.sce#2417/CH6/EX6.9/Ex6_9.sce#S##95587
+6#The Ideal Gas#6.8#Determine the gas in the tank#Ex6_8.sce#2417/CH6/EX6.8/Ex6_8.sce#S##95586
+6#The Ideal Gas#6.7#Determine final pressure#Ex6_7.sce#2417/CH6/EX6.7/Ex6_7.sce#S##95585
+6#The Ideal Gas#6.6#The gas in the container#Ex6_6.sce#2417/CH6/EX6.6/Ex6_6.sce#S##95584
+6#The Ideal Gas#6.5#Determine Final volume#Ex6_5.sce#2417/CH6/EX6.5/Ex6_5.sce#S##95583
+6#The Ideal Gas#6.41#Real Gases#Ex6_41.sce#2417/CH6/EX6.41/Ex6_41.sce#S##95619
+6#The Ideal Gas#6.40#Converging and Diverging Nozzles#Ex6_40.sce#2417/CH6/EX6.40/Ex6_40.sce#S##95618
+6#The Ideal Gas#6.4#Percent increase in ideal gas#Ex6_4.sce#2417/CH6/EX6.4/Ex6_4.sce#S##95582
+6#The Ideal Gas#6.39#Converging and Diverging Nozzles#Ex6_39.sce#2417/CH6/EX6.39/Ex6_39.sce#S##95617
+6#The Ideal Gas#6.38#Determine the total enthalpy#Ex6_38.sce#2417/CH6/EX6.38/Ex6_38.sce#S##95616
+6#The Ideal Gas#6.37#Determine the mach number#Ex6_37.sce#2417/CH6/EX6.37/Ex6_37.sce#S##95615
+6#The Ideal Gas#6.36#Determine the velocity of sound air and hydrogen#Ex6_36.sce#2417/CH6/EX6.36/Ex6_36.sce#S##95614
+6#The Ideal Gas#6.35#Determine final temperature and workdone#Ex6_35.sce#2417/CH6/EX6.35/Ex6_35.sce#S##95613
+6#The Ideal Gas#6.34#Change in enthalpy internal energy and entropy#Ex6_34.sce#2417/CH6/EX6.34/Ex6_34.sce#S##95612
+6#The Ideal Gas#6.33#Ratio of inlet pressure to outlet pressure#Ex6_33.sce#2417/CH6/EX6.33/Ex6_33.sce#S##95611
+6#The Ideal Gas#6.32#Determine q work and change in entropy#Ex6_32.sce#2417/CH6/EX6.32/Ex6_32.sce#S##95610
+6#The Ideal Gas#6.31#Determine value of k#Ex6_31.sce#2417/CH6/EX6.31/Ex6_31.sce#S##95609
+6#The Ideal Gas#6.30#Determine the final state and work done#Ex6_30.sce#2417/CH6/EX6.30/Ex6_30.sce#S##95608
+6#The Ideal Gas#6.3#Charles law#Ex6_3.sce#2417/CH6/EX6.3/Ex6_3.sce#S##95581
+6#The Ideal Gas#6.29#Determine the final state and work done by the air#Ex6_29.sce#2417/CH6/EX6.29/Ex6_29.sce#S##95607
+6#The Ideal Gas#6.28#Determine the change in entropy#Ex6_28.sce#2417/CH6/EX6.28/Ex6_28.sce#S##95606
+6#The Ideal Gas#6.27#Determine the heat added and workout of the system#Ex6_27.sce#2417/CH6/EX6.27/Ex6_27.sce#S##95605
+6#The Ideal Gas#6.26#Determine the heat added and work out of the system#Ex6_26.sce#2417/CH6/EX6.26/Ex6_26.sce#S##95604
+6#The Ideal Gas#6.25#Determine the heat transferred and the increase in entropy per kg of air#Ex6_25.sce#2417/CH6/EX6.25/Ex6_25.sce#S##95603
+6#The Ideal Gas#6.24#Determine deltas deltas and flow work#Ex6_24.sce#2417/CH6/EX6.24/Ex6_24.sce#S##95602
+6#The Ideal Gas#6.23#Determine the initial temperature#Ex6_23.sce#2417/CH6/EX6.23/Ex6_23.sce#S##95601
+6#The Ideal Gas#6.22#Determine the higher temperature#Ex6_22.sce#2417/CH6/EX6.22/Ex6_22.sce#S##95600
+6#The Ideal Gas#6.21#Determine the change in entropy#Ex6_21.sce#2417/CH6/EX6.21/Ex6_21.sce#S##95599
+6#The Ideal Gas#6.20#Determine change in entropy#Ex6_20.sce#2417/CH6/EX6.20/Ex6_20.sce#S##95598
+6#The Ideal Gas#6.2#Boyles law#Ex6_2.sce#2417/CH6/EX6.2/Ex6_2.sce#S##95580
+6#The Ideal Gas#6.19#Determine the increase in pressure#Ex6_19.sce#2417/CH6/EX6.19/Ex6_19.sce#S##95597
+6#The Ideal Gas#6.18#Determine the change in entropy#Ex6_18.sce#2417/CH6/EX6.18/Ex6_18.sce#S##95596
+6#The Ideal Gas#6.17#Determine change in entropy#Ex6_17.sce#2417/CH6/EX6.17/Ex6_17.sce#S##95595
+6#The Ideal Gas#6.16#Determine the change in entropy#Ex6_16.sce#2417/CH6/EX6.16/Ex6_16.sce#S##95594
+6#The Ideal Gas#6.15#Find the specific heat at constant pressure#Ex6_15.sce#2417/CH6/EX6.15/Ex6_15.sce#S##95593
+6#The Ideal Gas#6.14#Determine k cp and cv for the gas#Ex6_14.sce#2417/CH6/EX6.14/Ex6_14.sce#S##95592
+6#The Ideal Gas#6.13#Determine cv and cp in SI units#Ex6_13.sce#2417/CH6/EX6.13/Ex6_13.sce#S##95591
+6#The Ideal Gas#6.12#Determine cv#Ex6_12.sce#2417/CH6/EX6.12/Ex6_12.sce#S##95590
+6#The Ideal Gas#6.11#Determine the mean specific heat#Ex6_11.sce#2417/CH6/EX6.11/Ex6_11.sce#S##95589
+6#The Ideal Gas#6.10#The mean specific heat at constant pressure#Ex6_10.sce#2417/CH6/EX6.10/Ex6_10.sce#S##95588
+6#The Ideal Gas#6.1#Boyles law#Ex6_1.sce#2417/CH6/EX6.1/Ex6_1.sce#S##95579
+5#Properties Of Liquids And Gases#5.9#Quality of the steam#Ex5_9.sce#2417/CH5/EX5.9/Ex5_9.sce#S##95465
+5#Properties Of Liquids And Gases#5.8#Determine sx hx ux and vx when quality is given#Ex5_8.sce#2417/CH5/EX5.8/Ex5_8.sce#S##95464
+5#Properties Of Liquids And Gases#5.7#Determine sx hx ux and vx#Ex5_7.sce#2417/CH5/EX5.7/Ex5_7.sce#S##95463
+5#Properties Of Liquids And Gases#5.6#Determine hfg #Ex5_6.sce#2417/CH5/EX5.6/Ex5_6.sce#S##95462
+5#Properties Of Liquids And Gases#5.5#find hfg #Ex5_5.sce#2417/CH5/EX5.5/Ex5_5.sce#S##95461
+5#Properties Of Liquids And Gases#5.44#Heat removed#Ex5_44.sce#2417/CH5/EX5.44/Ex5_44.sce#S##95492
+5#Properties Of Liquids And Gases#5.43#Heat added per pound#Ex5_43.sce#2417/CH5/EX5.43/Ex5_43.sce#S##95491
+5#Properties Of Liquids And Gases#5.42#Determine the final velocity#Ex5_42.sce#2417/CH5/EX5.42/Ex5_42.sce#S##95490
+5#Properties Of Liquids And Gases#5.41#Determine Final velocity of the steam#Ex5_41.sce#2417/CH5/EX5.41/Ex5_41.sce#S##95489
+5#Properties Of Liquids And Gases#5.40#Change in enthalpy#Ex5_40.sce#2417/CH5/EX5.40/Ex5_40.sce#S##95488
+5#Properties Of Liquids And Gases#5.4#hfg for saturated steam#Ex5_4.sce#2417/CH5/EX5.4/Ex5_4.sce#S##95460
+5#Properties Of Liquids And Gases#5.39#Determine the final state of the steam#Ex5_39.sce#2417/CH5/EX5.39/Ex5_39.sce#S##95486
+5#Properties Of Liquids And Gases#5.38#Determine the change in enthalpy#Ex5_38.sce#2417/CH5/EX5.38/Ex5_38.sce#S##95487
+5#Properties Of Liquids And Gases#5.37#Heat added per unit mass#Ex5_37.sce#2417/CH5/EX5.37/Ex5_37.sce#S##95485
+5#Properties Of Liquids And Gases#5.36#The final pressure of the steam and the heat added#Ex5_36.sce#2417/CH5/EX5.36/Ex5_36.sce#S##95484
+5#Properties Of Liquids And Gases#5.35#Determine the moisture in the steam flowing in the pipe#Ex5_35.sce#2417/CH5/EX5.35/Ex5_35.sce#S##95483
+5#Properties Of Liquids And Gases#5.34#Determine entropy and enthalpy#Ex5_34.sce#2417/CH5/EX5.34/Ex5_34.sce#S##95482
+5#Properties Of Liquids And Gases#5.33#Determine the quality of steam#Ex5_33.sce#2417/CH5/EX5.33/Ex5_33.sce#S##95481
+5#Properties Of Liquids And Gases#5.32#Determine hx and sx#Ex5_32.sce#2417/CH5/EX5.32/Ex5_32.sce#S##95480
+5#Properties Of Liquids And Gases#5.31#determine hg#Ex5_31.sce#2417/CH5/EX5.31/Ex5_31.sce#S##95479
+5#Properties Of Liquids And Gases#5.30#Determine the enthalpy of steam#Ex5_30.sce#2417/CH5/EX5.30/Ex5_30.sce#S##95478
+5#Properties Of Liquids And Gases#5.3#Determine hg vg sg and ug#Ex5_3.sce#2417/CH5/EX5.3/Ex5_3.sce#S##95459
+5#Properties Of Liquids And Gases#5.29#Determine the enthalpy and entropy of steam#Ex5_29.sce#2417/CH5/EX5.29/Ex5_29.sce#S##95477
+5#Properties Of Liquids And Gases#5.28#determine the enthalpy of steam#Ex5_28.sce#2417/CH5/EX5.28/Ex5_28.sce#S##95476
+5#Properties Of Liquids And Gases#5.27#quality of a wet steam mixture#Ex5_27.sce#2417/CH5/EX5.27/Ex5_27.sce#S##95475
+5#Properties Of Liquids And Gases#5.26#Enthalpy of a wet steam#Ex5_26.sce#2417/CH5/EX5.26/Ex5_26.sce#S##95474
+5#Properties Of Liquids And Gases#5.25#the enthalpy of saturated steam#Ex5_25.sce#2417/CH5/EX5.25/Ex5_25.sce#S##95473
+5#Properties Of Liquids And Gases#5.2#Determine the enthalpy of saturated steam#Ex5_2.sce#2417/CH5/EX5.2/Ex5_2.sce#S##95458
+5#Properties Of Liquids And Gases#5.16#Determine enthalpy of subcooled water#Ex5_16.sce#2417/CH5/EX5.16/Ex5_16.sce#S##95472
+5#Properties Of Liquids And Gases#5.15#Determine h s v and u of subcooled water#Ex5_15.sce#2417/CH5/EX5.15/Ex5_15.sce#S##95471
+5#Properties Of Liquids And Gases#5.14#Determine specific volume and enthalpy of superheated steam#Ex5_14.sce#2417/CH5/EX5.14/Ex5_14.sce#S##95470
+5#Properties Of Liquids And Gases#5.13#Determine v h s and u of superheated steam#Ex5_13.sce#2417/CH5/EX5.13/Ex5_13.sce#S##95469
+5#Properties Of Liquids And Gases#5.12#Determine v u h and s of superheated steam#Ex5_12.sce#2417/CH5/EX5.12/Ex5_12.sce#S##95468
+5#Properties Of Liquids And Gases#5.11#Determine h v u and s of superheated steam#Ex5_11.sce#2417/CH5/EX5.11/Ex5_11.sce#S##95467
+5#Properties Of Liquids And Gases#5.10#Determine the quality #Ex5_10.sce#2417/CH5/EX5.10/Ex5_10.sce#S##95466
+5#Properties Of Liquids And Gases#5.1#The enthalpy#Ex5_1.sce#2417/CH5/EX5.1/Ex5_1.sce#S##95457
+4#The Second Law Of Thermodynamics#4.9#work done per pound and energy rejected#Ex4_9.sce#2417/CH4/EX4.9/Ex4_9.sce#S##95450
+4#The Second Law Of Thermodynamics#4.8#Change in entropy#Ex4_8.sce#2417/CH4/EX4.8/Ex4_8.sce#S##95449
+4#The Second Law Of Thermodynamics#4.7#Two Carnot engines#Ex4_7.sce#2417/CH4/EX4.7/Ex4_7.sce#S##95448
+4#The Second Law Of Thermodynamics#4.5#The Carnot engine#Ex4_5.sce#2417/CH4/EX4.5/Ex4_5.sce#S##95447
+4#The Second Law Of Thermodynamics#4.4#A Carnot engine#Ex4_4.sce#2417/CH4/EX4.4/Ex4_4.sce#S##95446
+4#The Second Law Of Thermodynamics#4.3#Minimum input required#Ex4_3.sce#2417/CH4/EX4.3/Ex4_3.sce#S##95445
+4#The Second Law Of Thermodynamics#4.2#Work and the heat removed from reservoir#Ex4_2.sce#2417/CH4/EX4.2/Ex4_2.sce#S##95444
+4#The Second Law Of Thermodynamics#4.15#Change in entropy#Ex4_15.sce#2417/CH4/EX4.15/Ex4_15.sce#S##95456
+4#The Second Law Of Thermodynamics#4.14#Net Change in entropy#Ex4_14.sce#2417/CH4/EX4.14/Ex4_14.sce#S##95455
+4#The Second Law Of Thermodynamics#4.13#The final temperature#Ex4_13.sce#2417/CH4/EX4.13/Ex4_13.sce#S##95454
+4#The Second Law Of Thermodynamics#4.12#energy unavailable at receiver#Ex4_12.sce#2417/CH4/EX4.12/Ex4_12.sce#S##95453
+4#The Second Law Of Thermodynamics#4.11#Heat rejected#Ex4_11.sce#2417/CH4/EX4.11/Ex4_11.sce#S##95452
+4#The Second Law Of Thermodynamics#4.10#Determine the change in entropy#Ex4_10.sce#2417/CH4/EX4.10/Ex4_10.sce#S##95451
+4#The Second Law Of Thermodynamics#4.1#Efficiency#Ex4_1.sce#2417/CH4/EX4.1/Ex4_1.sce#S##95443
+3#The First Law Of Thermodynamics#3.9#Inlet and outlet velocities#Ex3_9.sce#2417/CH3/EX3.9/Ex3_9.sce#S##95431
+3#The First Law Of Thermodynamics#3.8#Velocity at inlet and outlet#Ex3_8.sce#2417/CH3/EX3.8/Ex3_8.sce#S##95430
+3#The First Law Of Thermodynamics#3.7#The mass flow rate#Ex3_7.sce#2417/CH3/EX3.7/Ex3_7.sce#S##95429
+3#The First Law Of Thermodynamics#3.6#The mass flow rate and the exit velocity#Ex3_6.sce#2417/CH3/EX3.6/Ex3_6.sce#S##95428
+3#The First Law Of Thermodynamics#3.5#The mass flow rate and exit velocity#Ex3_5.sce#2417/CH3/EX3.5/Ex3_5.sce#S##95427
+3#The First Law Of Thermodynamics#3.4#Change in internal energy#Ex3_4.sce#2417/CH3/EX3.4/Ex3_4.sce#S##95426
+3#The First Law Of Thermodynamics#3.21#The heat exchanger#Ex3_21.sce#2417/CH3/EX3.21/Ex3_21.sce#S##95442
+3#The First Law Of Thermodynamics#3.19#Nozzle#Ex3_19.sce#2417/CH3/EX3.19/Ex3_19.sce#S##95441
+3#The First Law Of Thermodynamics#3.18#The final velocity of the nozzle #Ex3_18.sce#2417/CH3/EX3.18/Ex3_18.sce#S##95440
+3#The First Law Of Thermodynamics#3.17#The boiler example#Ex3_17.sce#2417/CH3/EX3.17/Ex3_17.sce#S##95439
+3#The First Law Of Thermodynamics#3.16#Determine the heat transfer#Ex3_16.sce#2417/CH3/EX3.16/Ex3_16.sce#S##95438
+3#The First Law Of Thermodynamics#3.15#Determine the heat transfer#Ex3_15.sce#2417/CH3/EX3.15/Ex3_15.sce#S##95437
+3#The First Law Of Thermodynamics#3.14#The work output per pound#Ex3_14.sce#2417/CH3/EX3.14/Ex3_14.sce#S##95436
+3#The First Law Of Thermodynamics#3.13#The work output per pound#Ex3_13.sce#2417/CH3/EX3.13/Ex3_13.sce#S##95435
+3#The First Law Of Thermodynamics#3.12#Work output per kg#Ex3_12.sce#2417/CH3/EX3.12/Ex3_12.sce#S##95434
+3#The First Law Of Thermodynamics#3.11#Determine the Power Produced#Ex3_11.sce#2417/CH3/EX3.11/Ex3_11.sce#S##95433
+3#The First Law Of Thermodynamics#3.10#Workdone#Ex3_10.sce#2417/CH3/EX3.10/Ex3_10.sce#S##95432
+3#The First Law Of Thermodynamics#3.1#Change in internal energy#Ex3_1.sce#2417/CH3/EX3.1/Ex3_1.sce#S##95425
+2#Work energy and heat#2.9#Change in Kinetic Energy#Ex2_9.sce#2417/CH2/EX2.9/Ex2_9.sce#S##95419
+2#Work energy and heat#2.8#Kinetic Energy#Ex2_8.sce#2417/CH2/EX2.8/Ex2_8.sce#S##95418
+2#Work energy and heat#2.7#Power#Ex2_7.sce#2417/CH2/EX2.7/Ex2_7.sce#S##95417
+2#Work energy and heat#2.6#power generated#Ex2_6.sce#2417/CH2/EX2.6/Ex2_6.sce#S##95416
+2#Work energy and heat#2.5#Potential Energy#Ex2_5.sce#2417/CH2/EX2.5/Ex2_5.sce#S##95415
+2#Work energy and heat#2.4#Potential Energy#Ex2_4.sce#2417/CH2/EX2.4/Ex2_4.sce#S##95414
+2#Work energy and heat#2.3#Work#Ex2_3.sce#2417/CH2/EX2.3/Ex2_3.sce#S##95413
+2#Work energy and heat#2.2#Work#Ex2_2.sce#2417/CH2/EX2.2/Ex2_2.sce#S##95412
+2#Work energy and heat#2.15#Work done#Ex2_15.sce#2417/CH2/EX2.15/Ex2_15.sce#S##95424
+2#Work energy and heat#2.14#Work done#Ex2_14.sce#2417/CH2/EX2.14/Ex2_14.sce#S##95423
+2#Work energy and heat#2.12#Flow work#Ex2_12.sce#2417/CH2/EX2.12/Ex2_12.sce#S##95422
+2#Work energy and heat#2.11#Flow work#Ex2_11.sce#2417/CH2/EX2.11/Ex2_11.sce#S##95421
+2#Work energy and heat#2.10#Kinetic Energy#Ex2_10.sce#2417/CH2/EX2.10/Ex2_10.sce#S##95420
+1#Fundamental Concepts#1.9#Absolute pressure#Ex1_9.sce#2417/CH1/EX1.9/Ex1_9.sce#S##95391
+1#Fundamental Concepts#1.8#Pressure#Ex1_8.sce#2417/CH1/EX1.8/Ex1_8.sce#S##95390
+1#Fundamental Concepts#1.7#Pressure#Ex1_7.sce#2417/CH1/EX1.7/Ex1_7.sce#S##95389
+1#Fundamental Concepts#1.5#The SI Unit#Ex1_5.sce#2417/CH1/EX1.5/Ex1_5.sce#S##95388
+1#Fundamental Concepts#1.4#Force and mass#Ex1_4.sce#2417/CH1/EX1.4/Ex1_4.sce#S##95387
+1#Fundamental Concepts#1.3#Calculating weight#Ex1_3.sce#2417/CH1/EX1.3/Ex1_3.sce#S##95385
+1#Fundamental Concepts#1.2#Force And Mass#Ex1_2.sce#2417/CH1/EX1.2/Ex1_2.sce#S##95384
+1#Fundamental Concepts#1.11#Absolute pressure#Ex1_11.sce#2417/CH1/EX1.11/Ex1_11.sce#S##95398
+1#Fundamental Concepts#1.10#Pressure#Ex1_10.sce#2417/CH1/EX1.10/Ex1_10.sce#S##95397
+1#Fundamental Concepts#1.1#Temperature indicated on same on both Fahrenheit and Celsius thermometers #Ex1_1.sce#2417/CH1/EX1.1/Ex1_1.sce#S##95383

@@ -1,0 +1,36 @@
+
+The weighted least square s estimate of the vector x =
+ 
+!0.5238095y1-0.4761905y2+0.4761905y3   !
+!                                      !
+!-0.0476190y1+0.9523810y2+0.0476190y3  !
+
+
+The matrix k is in this case found to be 
+ 
+!0.5238095   -0.4761905  0.4761905  !
+!                                   !
+!-0.0476190  0.9523810   0.0476190  !
+
+
+The covariance of the estimation error is obtained as Px=
+ 
+    0.7278912  - 0.4557823  
+  - 0.4557823    0.9115646  
+
+
+
+ Now choosing W=1
+
+
+The matrix k is in this case found to be 
+ 
+    0.6666667  - 0.3333333    0.3333333  
+  - 0.3333333    0.6666667    0.3333333  
+
+
+The covariance of the estimation error is obtained as Px=
+ 
+    0.6666667  - 0.3333333  
+  - 0.3333333    0.6666667  
+

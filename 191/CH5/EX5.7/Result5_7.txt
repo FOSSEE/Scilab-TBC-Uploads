@@ -1,0 +1,29 @@
+ First Order Difference :   
+ 
+    0.19867    0.19075    0.17522    0.15271    0.12411    0.09057 
+ Second Order Difference :   
+ 
+  - 0.00792  - 0.01552  - 0.02251  - 0.02860  - 0.03355  
+ Third Order Difference :   
+ 
+  - 0.00760  - 0.00699  - 0.00609  - 0.00495 
+ Fourth Order Difference :   
+ 
+    0.00062    0.00090    0.00114  
+ Fifth Order Difference :   
+ 
+    0.00028    0.00024  
+
+ Sixth Order Difference :   
+ 
+  - 0.00004 
+ Value of p2(0.67) :    
+ 
+    0.62065 
+ Value of p4(0.67) :    
+ 
+    0.62098 
+ 
+ Error in estimation :    
+ 
+    0.00001

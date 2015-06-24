@@ -1,0 +1,15 @@
+Resistance of one conductor = 0.100/a ohm 
+
+Line current = 109.35 A 
+
+Energy lost per annum = 31422.2/a kWh 
+
+Annual cost of energy lost = Rs. 1256/a 
+
+Capital cost is given to be Rs.20*a per metre. Threfore for 1km cable = Rs. 25000*a 
+
+Variable annual charge = Rs. 2500*a 
+
+Area of cross section = 0.71 cm^2 
+
+

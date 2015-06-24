@@ -1,0 +1,20 @@
+ Outputs of each unit and total output for various values of incremental fuel cost   
+
+ Plant 	 Unit 1 P1 	 Unit 2 P2 	 P1+P2
+ 7.84 	 100.00 	 150.00 	 250.00
+ 8.80 	 100.00 	 250.00 	 350.00
+ 9.60 	 200.00 	 333.33 	 533.33
+ 10.40 	 300.00 	 416.67 	 716.67
+ 11.20 	 400.00 	 500.00 	 900.00
+ 12.00 	 500.00 	 583.33 	 1083.33
+ 12.40 	 550.00 	 625.00 	 1175.00
+ 13.00 	 625.00 	 687.50 	 1312.50
+
+ 
+ The allocation of load between units for the minimum cost of various total loads in MW(P1 followed by P2)   
+ 
+    454.54545    545.45455  
+ 
+ Incremental fuels cost for the above mentioned load is   
+ 
+    11.636364  

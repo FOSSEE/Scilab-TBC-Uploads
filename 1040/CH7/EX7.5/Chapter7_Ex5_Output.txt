@@ -1,0 +1,20 @@
+
+ OUTPUT Ex7.5.a
+==========================================================
+	The maximum rate of CO absorption at 15 atm : 0.030172 (mol/L s)
+	The kinetic rate of CO absorption at 180(°C) : 0.003003 (mol/L s)
+	The predicted value of k_L_a : 0.29 (s-1)
+
+
+ OUTPUT Ex7.5.b
+==========================================================
+	The Dimensions of the reactor are 
+	Diameter:2 m
+	Height:14.34 m
+
+
+ OUTPUT Ex7.5.c
+==========================================================
+	The new dimensions of the reactor
+	Diameter:2.8 m
+	Height:6.3 m

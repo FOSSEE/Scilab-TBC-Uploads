@@ -1,0 +1,2 @@
+The height of the barrier energy is 0.86 V
+Width of depletion zone is 3.345e-005 cm 

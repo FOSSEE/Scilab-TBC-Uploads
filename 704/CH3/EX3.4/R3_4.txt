@@ -1,0 +1,3 @@
+Primary current (in Amp)=   
+ 
+    20.  

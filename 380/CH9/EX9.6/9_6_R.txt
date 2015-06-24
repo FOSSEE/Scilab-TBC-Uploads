@@ -1,0 +1,22 @@
+ (a) breakdown slip=   
+ 
+    0.25  
+ 
+ Breakdown torque (in Newton-meter)=   
+ 
+    1.1459156  
+ 
+ (b) Starting Torque (in Newton-meter)=   
+ 
+    0.5392544  
+ 
+ Starting torque is =   
+ 
+    0.4705882  
+ 
+ times the max torque   
+ 
+ rotor resistance (in ohms)=   
+ 
+    0.04  
+ 

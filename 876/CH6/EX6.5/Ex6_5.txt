@@ -1,0 +1,7 @@
+ resolution(in V)=   
+ 
+    0.125  
+ 
+ accuracy(in V)=   
+ 
+    0.005 

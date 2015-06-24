@@ -1,0 +1,10 @@
+ 
+
+
+Incident Vvoltage=63.51 kV
+Reflected Vvoltage=63.51 kV
+
+Incident voltage=65.62 @ 12.3 deg kV
+Reflected voltage=61.47 @ -12.3 deg kV
+
+Resultant line-to-line voltage at 200km =215.09 kV 

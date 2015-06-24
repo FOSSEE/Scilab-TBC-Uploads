@@ -1,0 +1,5 @@
+ At 150 degrees:
+I = 1403698 * Io(25)
+At 25 degrees:
+I = 2396 * Io(25)
+Factor to be multiplied with current = 242 

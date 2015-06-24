@@ -1,0 +1,3 @@
+ Rd when Vgg is 4 V = 1.4e+004 ohm
+Rd when Vgg is 10 V = 5.0e+002 ohm
+ 

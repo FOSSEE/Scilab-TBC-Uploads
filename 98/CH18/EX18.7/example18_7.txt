@@ -1,0 +1,39 @@
+ 
+ (i) BEFORE REMOVAL OF FUSES:    
+Ir = 90.00 /_0.00 A 
+Iy = 90.00 /_240.00 A 
+Ib = 90.00 /_120.00 A 
+
+Zero sequence components of three line currents are: 
+Ir0 = Iy0 = Ib0 = 0 A 
+
+Ir2 = 0 A 
+Iy2 = 0 A 
+Ib2 = 0 A 
+
+Ir1 = 90.00 /_0.00 A 
+Iy1 = 90.00 /_240.00 A 
+Ib1 = 90.00 /_120.00 A 
+
+
+ 
+ AFTER REMOVAL OF FUSES:    
+Ir = 90.00 /_0.00 A 
+Iy = 0 A 
+Ib = 0 A 
+
+Zero sequence components of three line currents are: 
+Ir0 = Iy0 = Ib0 = 30 /_0 A 
+
+Ir1 = 30.00 /_0.00 A 
+Ir2 = 30.00 /_180.00 A 
+
+Iy1 = 30.00 /_240.00 A 
+Iy2 = 30.00 /_120.00 A 
+
+Ib1 = 30.00 /_120.00 A 
+Ib2 = 30.00 /_240.00 A 
+
+Curretn in yellow line = 0 A 
+
+

@@ -1,0 +1,28 @@
+//AC Circuits : example 4.48 :(pg 4.37)
+f=50;
+pi=3.14;
+Vdc=12;
+Idc=2.5;
+Vac=230;
+Iac=2;
+Pac=50;
+R=(Vdc/Idc);
+Z=(Vac/Iac);
+Pi=(Pac-((Iac^2)*R));
+RT=(Pac/(Iac^2));
+XL=sqrt((Z^2)-(RT^2));
+L=(XL/(2*pi*f));
+pf=(RT/Z);
+i=(Pi/(Iac^2));
+printf("\nFor dc      V=12 V,      I=2.5 A  \nFor ac      V=230 V,      I=2 A,      P=50 W");
+printf("\nIn an iron-cored coil,there are two types of losses \n(i)Losses in core known as core or iron loss \n(ii)Losses in winding known as copper loss");
+printf("\nP=(I^2)*R+Pi \nP/(I^2)=R+((Pi)/(I^2)) \nRT=R+(Pi/(I^2)) \nwhere R is the resistance of the coil and (Pi/I^2) is the resistance which is equivalent to the effect of iron loss");
+printf("\nFor dc supply,   f=0 \nXL=0");
+printf("\nR=%.1f Ohm",R);
+printf("\nFor ac supply \nZ=%.f Ohms",Z);
+printf("\nIron loss     Pi=P-I^2*R=%.1f W",Pi);
+printf("\nRT=(P/I^2)=%.1f Ohm",RT);
+printf("\nXL=sqrt((Z^2)-(RT^2))=%.1f Ohm",XL);
+printf("\nXL=2*pi*L \nInductance      L=%.3f H",L);
+printf("\nPower factor      =RT/Z=%.3f (lagging)",pf);
+printf("\nThe series resistance equivalent to the effect of iron loss= Pi/(I^2)=%.1f Ohms",i);

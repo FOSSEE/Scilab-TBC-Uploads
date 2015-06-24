@@ -1,0 +1,5 @@
+ # Problem 16b # 
+
+ Standard formula Used 
+ For Lyman series 1/lambda =  R*((1/2)^2 -(1/n)^2)
+ Wavelength of first line of Lyman series is 1025 Angstrom. 

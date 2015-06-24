@@ -1,0 +1,4 @@
+
+ example 11.3   
+ hydro plant power is 237.040686MW 
+ the cost of water is 0.788492Rs.per hour/m^3/sec 

@@ -1,0 +1,5 @@
+Input Voltages are 0.9000,1.8000,4.5000,8.1000 V
+
+ Output Voltages are 0.8509,0.8940,-0.9301,0.2623 V 
+
+ Angles are in radians 

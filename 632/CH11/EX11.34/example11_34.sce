@@ -1,0 +1,29 @@
+//clc()
+P1 = 5;//bar
+P2 = 4;//bar
+T1 = 600;//K
+V = 0.1;//m^3
+T2 = 400;//K
+T = 298;//K
+Cp = 30;//J/molK
+//step1 - isothermal condition
+U1 = 0;
+H1 = 0;
+P = 1;//bar
+R = 8.314;
+W1 = R*T1*log(P1/P2);
+Q1 = W1;
+disp("kJ/kmol",U1,"(a)Change in the internal energy in isothermal condition = ")
+disp("kJ/kmol",H1,"Change in the enthalpy energy in isothermal condition = ")
+disp("kJ/kmol",W1,"Work done in isothermal condition = ")
+disp("kJ/kmol",Q1,"Heat supplied in isothermal condition = ")
+N = P * (1.01325 * 10^5) * V / ( R * T );
+Cv = Cp - R;
+U2 = Cv * (T2 - T)*N;
+H2 = Cp * (T2 - T)*N;
+W2 = 0;
+Q2 = U2 + W2;
+disp("kJ/kmol",U2,"(b)Change in the internal energy at constant volume condition = ")
+disp("kJ/kmol",H2,"Change in the enthalpy energy at constant volume condition = ")
+disp("kJ/kmol",W2,"Work done at constant volume condition = ")
+disp("kJ/kmol",Q2,"Heat supplied at constant volume condition = ")

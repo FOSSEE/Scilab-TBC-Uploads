@@ -1,0 +1,4 @@
+Energy of a photon is 19.8750 x 10^-16 /lambda(in A)  J
+Energy of a photon is 12422/lambda(in A)  eV
+
+Hence the range of energies for visible photos is  1.8 eV  to  3.1 eV 

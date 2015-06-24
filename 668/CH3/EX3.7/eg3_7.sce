@@ -1,0 +1,15 @@
+E1 = 10^3; //in V/cm
+E2 = 10^5; //in V/cm
+v1 = 1.4*10^6; //in cm/s
+v2 = 1*10^7;//in cm/s
+m0 = 0.91 * 10^-30; //in kg
+m = 0.26*m0;
+q = 1.6*10^-19;
+u1 = v1/E1;
+u2 = v2/E2;
+disp(u1,"mobility (in cm square per V.s) at 1 kV/cm = ")
+disp(u2,"mobility (in cm square per V.s) at 100 kV/cm = ")
+t1 = m*u1*10^-4/q;
+t2 = m*u2*10^-4/q;
+disp(t1,"relaxation time (in s) at 1 kV/cm = ")
+disp(t2,"relaxation time (in s) at 100 kV/cm = ")

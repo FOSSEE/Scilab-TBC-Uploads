@@ -1,0 +1,7 @@
+ # PROBLEM 11 # 
+
+ Standard formula used 
+ P_b = 4.4*1e-3*d^2*lambda^2*alpha.
+P_r = 5.9*1e-3*d^2*lambda^2*alpha 
+
+ wavelength of laser is 1.270335micron. 

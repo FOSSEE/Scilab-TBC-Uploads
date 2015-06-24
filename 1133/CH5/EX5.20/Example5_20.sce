@@ -1,0 +1,3 @@
+//Exmaple 5.20
+clc
+disp("The fig. 5.37 shows the implementation of 1 to 32 demultiplexer using two 74X154 ICs. Here, the most significant bit of select signal (A4) is used to enable either upper 1 to 16 demultiplexer or lower 1 to 16 demultiplexer. The data input and other select signals are connected parallel to both the demultiplexer ICs. When A4 = 0, upper demultiplexer is enabled and the data input is routed to the output corresponds to the status of A0 A1 A2 and A3 lines. When A4 = 1, lower miltiplexer is enabled and the data input is routed to the output corresponds to the status of A0 A1 A2 and A3 lines.")

@@ -1,0 +1,104 @@
+17#Dielectric Materials#17.2#Calculate the polarization of a BaTio3 crystal#Ex17_2.sce#3159/CH17/EX17.2/Ex17_2.sce#S##111114
+17#Dielectric Materials#17.2#Calculate the polarization of a BaTio3 crystal#Ex17_2.txt#3159/CH17/EX17.2/Ex17_2.txt#R##111115
+17#Dielectric Materials#17.1#Calculation of relative dielectric constant#Ex17_1.sce#3159/CH17/EX17.1/Ex17_1.sce#S##111112
+17#Dielectric Materials#17.1#Calculation of relative dielectric constant#Ex17_1.txt#3159/CH17/EX17.1/Ex17_1.txt#R##111113
+16#Magnetic Materials#16.5#Calculation of eddy current loss at normal voltage and frequency#Ex16_5.sce#3159/CH16/EX16.5/Ex16_5.sce#S##111116
+16#Magnetic Materials#16.5#Calculation of eddy current loss at normal voltage and frequency#Ex16_5.txt#3159/CH16/EX16.5/Ex16_5.txt#R##111117
+16#Magnetic Materials#16.4#Calculation of hysteresis loss#Ex16_4.sce#3159/CH16/EX16.4/Ex16_4.sce#S##111118
+16#Magnetic Materials#16.4#Calculation of hysteresis loss#Ex16_4.txt#3159/CH16/EX16.4/Ex16_4.txt#R##111119
+16#Magnetic Materials#16.2#Comparison of saturation temperatures#Ex16_2.sce#3159/CH16/EX16.2/Ex16_2.sce#S##111953
+16#Magnetic Materials#16.2#Comparison of saturation temperatures#Ex16_2.txt#3159/CH16/EX16.2/Ex16_2.txt#R##111954
+16#Magnetic Materials#16.1#Calculate the net magnetic moment per iron atom in crystal#Ex16_1.sce#3159/CH16/EX16.1/Ex16_1.sce#S##111122
+16#Magnetic Materials#16.1#Calculate the net magnetic moment per iron atom in crystal#Ex16_1.txt#3159/CH16/EX16.1/Ex16_1.txt#R##111123
+15#Semiconductors#15.1#Calculate intrinsic carrier density#Ex15_1.sce#3159/CH15/EX15.1/Ex15_1.sce#S##111124
+15#Semiconductors#15.1#Calculate intrinsic carrier density#Ex15_1.txt#3159/CH15/EX15.1/Ex15_1.txt#R##111125
+14#Conductors and Resistors#14.3#Estimation of resistivity due to impurity scattering of 1 percent of Nickel in copper lattice#Ex14_3.sce#3159/CH14/EX14.3/Ex14_3.sce#S##111130
+14#Conductors and Resistors#14.3#Estimation of resistivity due to impurity scattering of 1 percent of Nickel in copper lattice#Ex14_3.txt#3159/CH14/EX14.3/Ex14_3.txt#R##111367
+14#Conductors and Resistors#14.2#Calculate conductivity of copper at 300 K#Ex14_2.sce#3159/CH14/EX14.2/Ex14_2.sce#S##111128
+14#Conductors and Resistors#14.2#Calculate conductivity of copper at 300 K#Ex14_2.txt#3159/CH14/EX14.2/Ex14_2.txt#R##111129
+14#Conductors and Resistors#14.1#Calculate energy difference#Ex14_1.sce#3159/CH14/EX14.1/Ex14_1.sce#S##111126
+14#Conductors and Resistors#14.1#Calculate energy difference#Ex14_1.txt#3159/CH14/EX14.1/Ex14_1.txt#R##111127
+13#Oxidation and Corrosion#13.2#Calculation of required quantity of magnesium#Ex13_2.sce#3159/CH13/EX13.2/Ex13_2.sce#S##111152
+13#Oxidation and Corrosion#13.2#Calculation of required quantity of magnesium#Ex13_2.txt#3159/CH13/EX13.2/Ex13_2.txt#R##111153
+12#Fracture#12.3#Estimate the temperature at which the ductility of brittle transition occurs at given strain rates#Ex12_3.sce#3159/CH12/EX12.3/Ex12_3.sce#S##111366
+12#Fracture#12.3#Estimate the temperature at which the ductility of brittle transition occurs at given strain rates#Ex12_3.txt#3159/CH12/EX12.3/Ex12_3.txt#R##111151
+12#Fracture#12.2#Estimate the brittle fracture strength at low temperatures#Ex12_2.sce#3159/CH12/EX12.2/Ex12_2.sce#S##111148
+12#Fracture#12.2#Estimate the brittle fracture strength at low temperatures#Ex12_2.txt#3159/CH12/EX12.2/Ex12_2.txt#R##111149
+12#Fracture#12.1#Estimate fracture strength#Ex12_1.sce#3159/CH12/EX12.1/Ex12_1.sce#S##111146
+12#Fracture#12.1#Estimate fracture strength#Ex12_1.txt#3159/CH12/EX12.1/Ex12_1.txt#R##111147
+11#Plastic Deformation and Creep in Crystalline Materials#11.5#Estimate the change in yield strength#Ex11_5.sce#3159/CH11/EX11.5/Ex11_5.sce#S##111144
+11#Plastic Deformation and Creep in Crystalline Materials#11.5#Estimate the change in yield strength#Ex11_5.txt#3159/CH11/EX11.5/Ex11_5.txt#R##111145
+11#Plastic Deformation and Creep in Crystalline Materials#11.4#Find the yield stress for a grain size of ASTM 9#Ex11_4.sce#3159/CH11/EX11.4/Ex11_4.sce#S##111142
+11#Plastic Deformation and Creep in Crystalline Materials#11.4#Find the yield stress for a grain size of ASTM 9#Ex11_4.txt#3159/CH11/EX11.4/Ex11_4.txt#R##111143
+11#Plastic Deformation and Creep in Crystalline Materials#11.3#Calculate the dislocation density in copper#Ex11_3.sce#3159/CH11/EX11.3/Ex11_3.sce#S##111140
+11#Plastic Deformation and Creep in Crystalline Materials#11.3#Calculate the dislocation density in copper#Ex11_3.txt#3159/CH11/EX11.3/Ex11_3.txt#R##111141
+11#Plastic Deformation and Creep in Crystalline Materials#11.2#Calculate the stress required to move the dislocation at given temperature#Ex11_2.sce#3159/CH11/EX11.2/Ex11_2.sce#S##111138
+11#Plastic Deformation and Creep in Crystalline Materials#11.2#Calculate the stress required to move the dislocation at given temperature#Ex11_2.txt#3159/CH11/EX11.2/Ex11_2.txt#R##111139
+10#Elastic Anelastic and Viscoelastic Behaviour#10.3#Estimate diffusion coefficient#Ex10_3.sce#3159/CH10/EX10.3/Ex10_3.sce#S##111136
+10#Elastic Anelastic and Viscoelastic Behaviour#10.3#Estimate diffusion coefficient#Ex10_3.txt#3159/CH10/EX10.3/Ex10_3.txt#R##111137
+10#Elastic Anelastic and Viscoelastic Behaviour#10.2#Calculation of stress in fibers#Ex10_2.sce#3159/CH10/EX10.2/Ex10_2.sce#S##111134
+10#Elastic Anelastic and Viscoelastic Behaviour#10.2#Calculation of stress in fibers#Ex10_2.txt#3159/CH10/EX10.2/Ex10_2.txt#R##111135
+10#Elastic Anelastic and Viscoelastic Behaviour#10.1#Estimate Youngs modulus of material#Ex10_1.sce#3159/CH10/EX10.1/Ex10_1.sce#S##111952
+10#Elastic Anelastic and Viscoelastic Behaviour#10.1#Estimate Youngs modulus of material#Ex10_1.txt#3159/CH10/EX10.1/Ex10_1.txt#R##111133
+9#Phase Transformation#9.6#Calculate the free energy change during recrystallization#Ex9_6.sce#3159/CH9/EX9.6/Ex9_6.sce#S##111110
+9#Phase Transformation#9.6#Calculate the free energy change during recrystallization#Ex9_6.txt#3159/CH9/EX9.6/Ex9_6.txt#R##111111
+9#Phase Transformation#9.4#Calculate delta f of heterogeneous as a fraction of delta f of homogeneous#Ex9_4.sce#3159/CH9/EX9.4/Ex9_4.sce#S##111108
+9#Phase Transformation#9.4#Calculate delta f of heterogeneous as a fraction of delta f of homogeneous#Ex9_4.txt#3159/CH9/EX9.4/Ex9_4.txt#R##111109
+9#Phase Transformation#9.2#Calculate the change in delta f required to increase nucleation rate#Ex9_2.sce#3159/CH9/EX9.2/Ex9_2.sce#S##111951
+9#Phase Transformation#9.2#Calculate the change in delta f required to increase nucleation rate#Ex9_2.txt#3159/CH9/EX9.2/Ex9_2.txt#R##111955
+9#Phase Transformation#9.1#Calculate the critical free energy of nucleation of ice from water and critical radius#Ex9_1.sce#3159/CH9/EX9.1/Ex9_1.sce#S##111104
+9#Phase Transformation#9.1#Calculate the critical free energy of nucleation of ice from water and critical radius#Ex9_1.txt#3159/CH9/EX9.1/Ex9_1.txt#R##111105
+8#Diffusion in Solids#8.5#Calculate ratio of cross sectional areas#Ex8_5.sce#3159/CH8/EX8.5/Ex8_5.sce#S##111102
+8#Diffusion in Solids#8.5#Calculate ratio of cross sectional areas#Ex8_5.txt#3159/CH8/EX8.5/Ex8_5.txt#R##111103
+8#Diffusion in Solids#8.4#Calculate time required to get required boron concentration#Ex8_4.sce#3159/CH8/EX8.4/Ex8_4.sce#S##111100
+8#Diffusion in Solids#8.4#Calculate time required to get required boron concentration#Ex8_4.txt#3159/CH8/EX8.4/Ex8_4.txt#R##111101
+8#Diffusion in Solids#8.3#Calculate minimum depth up to which post machining is to be done#Ex8_3.sce#3159/CH8/EX8.3/Ex8_3.sce#S##111950
+8#Diffusion in Solids#8.3#Calculate minimum depth up to which post machining is to be done#Ex8_3.txt#3159/CH8/EX8.3/Ex8_3.txt#R##111099
+8#Diffusion in Solids#8.2#Calculate maximum time till which material can be kept at 550 degree Celsius#Ex8_2.sce#3159/CH8/EX8.2/Ex8_2.sce#S##111096
+8#Diffusion in Solids#8.2#Calculate maximum time till which material can be kept at 550 degree Celsius#Ex8_2.txt#3159/CH8/EX8.2/Ex8_2.txt#R##111097
+8#Diffusion in Solids#8.1#Calculate the rate at which hydrogen escapes through the walls of the steel tank#Ex8_1.sce#3159/CH8/EX8.1/Ex8_1.sce#S##111094
+8#Diffusion in Solids#8.1#Calculate the rate at which hydrogen escapes through the walls of the steel tank#Ex8_1.txt#3159/CH8/EX8.1/Ex8_1.txt#R##111095
+7#Phase Diagram #7.5#Calculate proeutectoid ferrite and eutectoid ferrite in 6 tenth percent steel#Ex7_5.sce#3159/CH7/EX7.5/Ex7_5.sce#S##111092
+7#Phase Diagram #7.5#Calculate proeutectoid ferrite and eutectoid ferrite in 6 tenth percent steel#Ex7_5.txt#3159/CH7/EX7.5/Ex7_5.txt#R##111093
+7#Phase Diagram #7.3#Calculate amount of pure water that can be extracted from sea water#Ex7_3.sce#3159/CH7/EX7.3/Ex7_3.sce#S##111090
+7#Phase Diagram #7.3#Calculate amount of pure water that can be extracted from sea water#Ex7_3.txt#3159/CH7/EX7.3/Ex7_3.txt#R##111091
+7#Phase Diagram #7.2#Find minimum number of component in system#Ex7_2.sce#3159/CH7/EX7.2/Ex7_2.sce#S##111088
+7#Phase Diagram #7.2#Find minimum number of component in system#Ex7_2.txt#3159/CH7/EX7.2/Ex7_2.txt#R##111089
+7#Phase Diagram #7.1#Find degrees of freedom of a system of two components#Ex7_1.sce#3159/CH7/EX7.1/Ex7_1.sce#S##111086
+7#Phase Diagram #7.1#Find degrees of freedom of a system of two components#Ex7_1.txt#3159/CH7/EX7.1/Ex7_1.txt#R##111087
+6#Crystal Imperfection#6.6#Compute the angle at the bottom of groove of a boundary#Ex6_6.sce#3159/CH6/EX6.6/Ex6_6.sce#S##111084
+6#Crystal Imperfection#6.6#Compute the angle at the bottom of groove of a boundary#Ex6_6.txt#3159/CH6/EX6.6/Ex6_6.txt#R##111085
+6#Crystal Imperfection#6.5#Calculate surface energy of copper crystal of type 111#Ex6_5.sce#3159/CH6/EX6.5/Ex6_5.sce#S##111082
+6#Crystal Imperfection#6.5#Calculate surface energy of copper crystal of type 111#Ex6_5.txt#3159/CH6/EX6.5/Ex6_5.txt#R##111083
+6#Crystal Imperfection#6.4#Calculation of down climb of crystal on heating#Ex6_4.sce#3159/CH6/EX6.4/Ex6_4.sce#S##111080
+6#Crystal Imperfection#6.4#Calculation of down climb of crystal on heating#Ex6_4.txt#3159/CH6/EX6.4/Ex6_4.txt#R##111081
+6#Crystal Imperfection#6.2#Compute the line energy of dislocation#Ex6_2.sce#3159/CH6/EX6.2/Ex6_2.sce#S##111949
+6#Crystal Imperfection#6.2#Compute the line energy of dislocation#Ex6_2.txt#3159/CH6/EX6.2/Ex6_2.txt#R##111079
+6#Crystal Imperfection#6.1#Find equilibrium concentration of vacancies in metals at given temperature#Ex6_1.sce#3159/CH6/EX6.1/Ex6_1.sce#S##111076
+6#Crystal Imperfection#6.1#Find equilibrium concentration of vacancies in metals at given temperature#Ex6_1.txt#3159/CH6/EX6.1/Ex6_1.txt#R##111077
+5#Structure of Solid#5.6#Calculate density of MgO#Ex5_6.sce#3159/CH5/EX5.6/Ex5_6.sce#S##111074
+5#Structure of Solid#5.6#Calculate density of MgO#Ex5_6.txt#3159/CH5/EX5.6/Ex5_6.txt#R##111075
+5#Structure of Solid#5.5#Find critical radius ratio for triangular coordination#Ex5_5.sce#3159/CH5/EX5.5/Ex5_5.sce#S##111072
+5#Structure of Solid#5.5#Find critical radius ratio for triangular coordination#Ex5_5.txt#3159/CH5/EX5.5/Ex5_5.txt#R##111073
+5#Structure of Solid#5.4#find the size of largest sphere that can fit into a tetrahedral void#Ex5_4.sce#3159/CH5/EX5.4/Ex5_4.sce#S##111070
+5#Structure of Solid#5.4#find the size of largest sphere that can fit into a tetrahedral void#Ex5_4.txt#3159/CH5/EX5.4/Ex5_4.txt#R##111071
+5#Structure of Solid#5.3#Calculate the cation to anion ratio for an ideally close packed HCP crystal#Ex5_3.sce#3159/CH5/EX5.3/Ex5_3.sce#S##111948
+5#Structure of Solid#5.3#Calculate the cation to anion ratio for an ideally close packed HCP crystal#Ex5_3.txt#3159/CH5/EX5.3/Ex5_3.txt#R##111069
+5#Structure of Solid#5.1#Calculate packing efficiency and density of diamond#Ex5_1.sce#3159/CH5/EX5.1/Ex5_1.sce#S##111066
+5#Structure of Solid#5.1#Calculate packing efficiency and density of diamond#Ex5_1.txt#3159/CH5/EX5.1/Ex5_1.txt#R##111067
+4#Atomic Structure and Chemical Bonding#4.4#Calculation of fraction of hydrogen bonds which breaks during ice melting#Ex4_4.sce#3159/CH4/EX4.4/Ex4_4.sce#S##111947
+4#Atomic Structure and Chemical Bonding#4.4#Calculation of fraction of hydrogen bonds which breaks during ice melting#Ex4_4.txt#3159/CH4/EX4.4/Ex4_4.txt#R##111065
+4#Atomic Structure and Chemical Bonding#4.3#Reconcile the difference of energy#Ex4_3.sce#3159/CH4/EX4.3/Ex4_3.sce#S##111062
+4#Atomic Structure and Chemical Bonding#4.3#Reconcile the difference of energy#Ex4_3.txt#3159/CH4/EX4.3/Ex4_3.txt#R##111063
+4#Atomic Structure and Chemical Bonding#4.1#Calculate frequency and wavelength of radiation#Ex4_1.sce#3159/CH4/EX4.1/Ex4_1.sce#S##111060
+4#Atomic Structure and Chemical Bonding#4.1#Calculate frequency and wavelength of radiation#Ex4_1.txt#3159/CH4/EX4.1/Ex4_1.txt#R##111061
+3#Crystal Geometry and Structure Determination#3.8#Determine structure and lattice parameter of material#Ex3_8.sce#3159/CH3/EX3.8/Ex3_8.sce#S##111946
+3#Crystal Geometry and Structure Determination#3.8#Determine structure and lattice parameter of material#Ex3_8.txt#3159/CH3/EX3.8/Ex3_8.txt#R##111059
+3#Crystal Geometry and Structure Determination#3.7#Determine interplanar spacing and miller indices#Ex3_7.sce#3159/CH3/EX3.7/Ex3_7.sce#S##111056
+3#Crystal Geometry and Structure Determination#3.7#Determine interplanar spacing and miller indices#Ex3_7.txt#3159/CH3/EX3.7/Ex3_7.txt#R##111057
+3#Crystal Geometry and Structure Determination#3.2#Calculate effective number of lattice point in three cubic space lattice#Ex3_2.sce#3159/CH3/EX3.2/Ex3_2.sce#S##111054
+3#Crystal Geometry and Structure Determination#3.2#Calculate effective number of lattice point in three cubic space lattice#Ex3_2.txt#3159/CH3/EX3.2/Ex3_2.txt#R##111055
+2#Equilibrium and Kinetics#2.2#Calculation of fraction of atoms with energy equal to or greater than 1eV at temperatures#Ex2_2.sce#3159/CH2/EX2.2/Ex2_2.sce#S##111052
+2#Equilibrium and Kinetics#2.2#Calculation of fraction of atoms with energy equal to or greater than 1eV at temperatures#Ex2_2.txt#3159/CH2/EX2.2/Ex2_2.txt#R##111053
+2#Equilibrium and Kinetics#2.1#Calculate the entropy increase#Ex2_1.sce#3159/CH2/EX2.1/Ex2_1.sce#S##111050
+2#Equilibrium and Kinetics#2.1#Calculate the entropy increase#Ex2_1.txt#3159/CH2/EX2.1/Ex2_1.txt#R##111051

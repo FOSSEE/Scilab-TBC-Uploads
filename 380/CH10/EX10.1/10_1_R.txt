@@ -1,0 +1,16 @@
+ (a) slip in forward direction=   
+ 
+    0.05  
+ 
+ (b) slip in backward direction=   
+ 
+    1.95  
+ 
+ effective rotor resistance in forward branch (in ohms)=   
+ 
+    125.  
+ 
+ effective rotor resistance in backward branch (in ohms)=   
+ 
+    3.2051282  
+ 

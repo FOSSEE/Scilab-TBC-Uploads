@@ -1,0 +1,6 @@
+ 
+ example 15.7   
+power 406kW 
+ power density 5.172kW/m^3 
+maximum power 240.881303kW 
+ maximum torque 15335.0N-m 

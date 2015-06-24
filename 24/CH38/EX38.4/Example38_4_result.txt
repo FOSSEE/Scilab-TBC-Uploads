@@ -1,0 +1,3 @@
+**Sample Problem 38-4**
+The distance in earth frame is 3.85e+008m
+The time interval in earth frame is -1.04 

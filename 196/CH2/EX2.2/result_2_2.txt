@@ -1,0 +1,4 @@
+
+High Time = 0.0080 s 
+
+Duty cycle = 40.0000 percent

@@ -1,0 +1,2 @@
+**Sample Problem 8-8**
+The thermal energy generated is equal to 29.640000J 

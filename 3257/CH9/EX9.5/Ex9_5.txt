@@ -1,0 +1,5 @@
+ 
+ Example 9.5
+ Machining time in electrochemical is 2.17 min.
+ Machining time in drilling is 0.31 min.
+ Machining time in drilling is 14 % of ECM.  

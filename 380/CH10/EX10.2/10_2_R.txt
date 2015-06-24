@@ -1,0 +1,7 @@
+ shaft torque (in Newton-meter)=   
+ 
+    1.2949391  
+ 
+ Efficiency of motor (%)=   
+ 
+    65.861477 

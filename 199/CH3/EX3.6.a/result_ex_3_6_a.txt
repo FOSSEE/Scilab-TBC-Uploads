@@ -1,0 +1,3 @@
+* Voltage gain is AD = 11
+* Input resistance of first stage amplifier is RiFy = 363638363636.4 ohms
+* Input resistance of second stage amplifier is RiFx = 36365636363.6 ohms

@@ -1,0 +1,44 @@
+ ans  =
+Total resistance per phase = 10.00 ohm 
+
+Total reactance per phase = 20.00 ohm 
+
+Total susceptance per phase = 0.00040 ohm 
+
+Recieving end voltage = 38105 V 
+
+Load current = 109.35 A 
+
+Impedance per phase = 10.00+j20.00 
+
+Receiving end voltage is the reference phasor = 38105.12+j0 
+
+Load current = 87.48+j-65.61 
+
+Voltage across C = 39198.58+j546.73 
+
+Charging current = -0.22+j15.68 
+
+Sending end current = 87.26+j-49.93 
+
+Sending end current magnitude = 100.53 A 
+
+Sending end voltage = 40134.16+j1169.68 
+
+Sending end voltage magnitude = 69.54 V 
+
+Phase angle between Vr and Vs = 1.67 degrees 
+
+Phase angle between Vr and Is = 29.78 degrees 
+
+Sending end power factor angle = 31.45 degrees 
+
+Sending end power factor = 0.85 
+
+Sending end power = 10330.954 kW 
+
+Power delivered = 10000 kW 
+
+Transmission efficiency = 96.80 % 
+
+

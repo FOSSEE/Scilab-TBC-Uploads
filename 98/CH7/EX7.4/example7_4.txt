@@ -1,0 +1,5 @@
+Power supplied by 3-phase, 3-wire a.c. system is = 400 kW 
+
+Thus three phase three wire system can supply 100 % additional load 
+
+

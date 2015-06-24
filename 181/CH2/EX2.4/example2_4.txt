@@ -1,0 +1,5 @@
+ (1)delta_V at 70 degrees = -0.09 V
+Thus the barrier potential at 70 degress = 0.61 V
+(2)delta_V at 0 degrees = 0.05 V
+Thus the barrier potential at 0 degress = 0.75 V
+ 

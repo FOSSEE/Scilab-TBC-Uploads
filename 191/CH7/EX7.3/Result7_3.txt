@@ -1,0 +1,24 @@
+  
+ The Y :   
+ 
+    0.91344  
+ 
+ The Y :   
+ 
+    0.87750  
+ 
+ The Y :   
+ 
+    0.84648  
+ 
+ The calculated value of y(0.2):   
+ 
+    0.84648  
+ 
+ The exact value is of y(0.2):    
+ 
+    0.84579  
+ 
+ The error is :   
+ 
+  - 0.00069  

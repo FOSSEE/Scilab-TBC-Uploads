@@ -1,0 +1,12 @@
+clc;
+re=8;
+RC=220;
+RE=47;
+R1=4.7*10**3;
+R2=470;
+B=50;
+rL=RC;
+AV=rL/re;
+Ai=B;
+Ap=AV*Ai;
+disp(Ap);

@@ -1,0 +1,2 @@
+ (a)Output voltage = 362.14 V
+(b)Ripple voltage = 0.529 V 

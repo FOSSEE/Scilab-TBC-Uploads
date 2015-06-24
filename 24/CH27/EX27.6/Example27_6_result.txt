@@ -1,0 +1,3 @@
+**Sample Problem 27-6**
+The Power dissipated in first case is equal to 200W
+The Power dissipated in second case is equal to 800W

@@ -1,0 +1,37 @@
+ Ybus   
+ 
+  - 22.888889i    5.952381i     0             0             7.9365079i  
+    5.952381i   - 13.888889i    7.9365079i    0             0           
+    0             7.9365079i  - 23.174603i    2.9761905i    4.7619048i  
+    0             0             2.9761905i  - 6.9444444i    3.968254i   
+    7.9365079i    0             4.7619048i    3.968254i   - 16.666667i  
+ 
+ Zbus   
+ 
+    0.0792966i    0.0557999i    0.0381774i    0.0511283i    0.0608415i  
+    0.0557999i    0.1338419i    0.0663734i    0.0630432i    0.0605455i  
+    0.0381774i    0.0663734i    0.0875205i    0.0719793i    0.0603235i  
+    0.0511283i    0.0630432i    0.0719793i    0.2320893i    0.1001717i  
+    0.0608415i    0.0605455i    0.0603235i    0.1001717i    0.1300578i  
+ 
+ The subtransient current in a three-phase fault on bus 4 in per unit is   
+ 
+  - 4.3086871i  
+ 
+ Voltages at bus 3 and 5 repectively in per unit   
+ 
+    0.5683915  
+ 
+    0.6898635  
+ 
+ Currents to fault from bus 3 in per unit   
+ 
+  - 2.0531653i  
+ 
+ Currents to fault from bus 5 in per unit   
+ 
+  - 2.2555218i  
+ 
+ Total current to fault in per unit   
+ 
+  - 4.3086871i  

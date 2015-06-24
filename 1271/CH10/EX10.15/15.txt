@@ -1,0 +1,4 @@
+  The total charge within volume(in C) =    
+ 
+    1.770D-08  
+

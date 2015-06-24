@@ -1,0 +1,4 @@
+**Sample Problem 13-2**
+The normal force from the wall is equal to 407.553838N
+The normal force from the pavement is equal to 1146.600000N
+The frictional force from the pavement is equal to 407.553838N 

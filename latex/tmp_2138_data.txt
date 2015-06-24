@@ -1,0 +1,130 @@
+12#polyphase system#12.5.b#power factor#EX_12_5_b.sce#2138/CH12/EX12.5.b/EX_12_5_b.sce#S##71254
+12#polyphase system#12.5.a#power factor when both readings are positive#EX_12_5_a.sce#2138/CH12/EX12.5.a/EX_12_5_a.sce#S##71253
+12#polyphase system#12.4#reading#EX_12_4.sce#2138/CH12/EX12.4/EX_12_4.sce#S##71252
+12#polyphase system#12.3.b#current in each phase of the generator#EX_12_3_b.sce#2138/CH12/EX12.3.b/EX_12_3_b.sce#S##74397
+12#polyphase system#12.3.a#current in each phase of the motor#EX_12_3_a.sce#2138/CH12/EX12.3.a/EX_12_3_a.sce#S##74396
+12#polyphase system#12.2.b#line current and total power#EX_12_2_b.sce#2138/CH12/EX12.2.b/EX_12_2_b.sce#S##71249
+12#polyphase system#12.2.a#line current and total power#EX_12_2_a.sce#2138/CH12/EX12.2.a/EX_12_2_a.sce#S##71248
+12#polyphase system#12.1.b#line current and phase current#EX_12_1_b.sce#2138/CH12/EX12.1.b/EX_12_1_b.sce#S##71247
+12#polyphase system#12.1.a#line current and phase current#EX_12_1_a.sce#2138/CH12/EX12.1.a/EX_12_1_a.sce#S##71246
+11#single phase AC circuits#11.9#capacitance#ex_11_9.sce#2138/CH11/EX11.9/ex_11_9.sce#S##71233
+11#single phase AC circuits#11.8#inductance and phase angle#ex_11_8.sce#2138/CH11/EX11.8/ex_11_8.sce#S##71232
+11#single phase AC circuits#11.7.d#angle of phase difference#ex_11_7_d.sce#2138/CH11/EX11.7.d/ex_11_7_d.sce#S##71231
+11#single phase AC circuits#11.7.c#current#ex_11_7_c.sce#2138/CH11/EX11.7.c/ex_11_7_c.sce#S##71230
+11#single phase AC circuits#11.7.b#impedance#ex_11_7_b.sce#2138/CH11/EX11.7.b/ex_11_7_b.sce#S##71229
+11#single phase AC circuits#11.7.a#inductive reactance#ex_11_7_a.sce#2138/CH11/EX11.7.a/ex_11_7_a.sce#S##71228
+11#single phase AC circuits#11.6.b#value of current flowing#ex_11_6_b.sce#2138/CH11/EX11.6.b/ex_11_6_b.sce#S##71227
+11#single phase AC circuits#11.6.a#value of current flowing#ex_11_6_a.sce#2138/CH11/EX11.6.a/ex_11_6_a.sce#S##71226
+11#single phase AC circuits#11.5.b#value of current flowing#ex_11_5_b.sce#2138/CH11/EX11.5.b/ex_11_5_b.sce#S##71225
+11#single phase AC circuits#11.5.a#value of current flowing#ex_11_5_a.sce#2138/CH11/EX11.5.a/ex_11_5_a.sce#S##74392
+11#single phase AC circuits#11.4#current#ex_11_4.sce#2138/CH11/EX11.4/ex_11_4.sce#S##71221
+11#single phase AC circuits#11.3#current drawn#ex_11_3.sce#2138/CH11/EX11.3/ex_11_3.sce#S##71220
+11#single phase AC circuits#11.2#rms value of alternating current#ex_11_2.sce#2138/CH11/EX11.2/ex_11_2.sce#S##71219
+11#single phase AC circuits#11.12.c#series equivalent arrangement of resistance and reactance#ex_11_12_c.sce#2138/CH11/EX11.12.c/ex_11_12_c.sce#S##71245
+11#single phase AC circuits#11.12.b#phase angle#ex_11_12_b.sce#2138/CH11/EX11.12.b/ex_11_12_b.sce#S##74395
+11#single phase AC circuits#11.12.a#current taken#ex_11_12_a.sce#2138/CH11/EX11.12.a/ex_11_12_a.sce#S##74394
+11#single phase AC circuits#11.11.c#power factor#ex_11_11_c.sce#2138/CH11/EX11.11.c/ex_11_11_c.sce#S##71242
+11#single phase AC circuits#11.11.b#current taken#ex_11_11_b.sce#2138/CH11/EX11.11.b/ex_11_11_b.sce#S##71241
+11#single phase AC circuits#11.11.a#total impedance#ex_11_11_a.sce#2138/CH11/EX11.11.a/ex_11_11_a.sce#S##71240
+11#single phase AC circuits#11.10.f#total power taken#ex_11_10_f.sce#2138/CH11/EX11.10.f/ex_11_10_f.sce#S##74393
+11#single phase AC circuits#11.10.e#voltage across the coil#ex_11_10_e.sce#2138/CH11/EX11.10.e/ex_11_10_e.sce#S##71238
+11#single phase AC circuits#11.10.d#voltage#ex_11_10_d.sce#2138/CH11/EX11.10.d/ex_11_10_d.sce#S##71237
+11#single phase AC circuits#11.10.c#phase angles#ex_11_10_c.sce#2138/CH11/EX11.10.c/ex_11_10_c.sce#S##71236
+11#single phase AC circuits#11.10.b#current#ex_11_10_b.sce#2138/CH11/EX11.10.b/ex_11_10_b.sce#S##71235
+11#single phase AC circuits#11.10.a#impedance#ex_11_10_a.sce#2138/CH11/EX11.10.a/ex_11_10_a.sce#S##71234
+11#single phase AC circuits#11.1#instantaneous emf#ex_11_1.sce#2138/CH11/EX11.1/ex_11_1.sce#S##71218
+9#cells and batteries#9.9.c#power dissipated#ex_9_9_c.sce#2138/CH9/EX9.9.c/ex_9_9_c.sce#S##71216
+9#cells and batteries#9.9.b#total current#ex_9_9_b.sce#2138/CH9/EX9.9.b/ex_9_9_b.sce#S##71215
+9#cells and batteries#9.9.a#value and direction of current#ex_9_9_a.sce#2138/CH9/EX9.9.a/ex_9_9_a.sce#S##71214
+9#cells and batteries#9.8.b#final charging current#ex_9_8_b.sce#2138/CH9/EX9.8.b/ex_9_8_b.sce#S##71213
+9#cells and batteries#9.8.a#initial charging current#ex_9_8_a.sce#2138/CH9/EX9.8.a/ex_9_8_a.sce#S##71212
+9#cells and batteries#9.7.b#watt hour efficiency#ex_9_7_b.sce#2138/CH9/EX9.7.b/ex_9_7_b.sce#S##71211
+9#cells and batteries#9.7.a#ampere hour efficiency#ex_9_7_a.sce#2138/CH9/EX9.7.a/ex_9_7_a.sce#S##71210
+9#cells and batteries#9.6#ampere hour capacity#ex_9_6.sce#2138/CH9/EX9.6/ex_9_6.sce#S##71209
+9#cells and batteries#9.5#emf of each cell and its internal resistance#ex_9_5.sce#2138/CH9/EX9.5/ex_9_5.sce#S##71208
+9#cells and batteries#9.4.b#value of current flowing#ex_9_4_b.sce#2138/CH9/EX9.4.b/ex_9_4_b.sce#S##71207
+9#cells and batteries#9.4.a#internal resistance#ex_9_4_a.sce#2138/CH9/EX9.4.a/ex_9_4_a.sce#S##71206
+9#cells and batteries#9.3#value of current flowing#ex_9_3.sce#2138/CH9/EX9.3/ex_9_3.sce#S##71205
+9#cells and batteries#9.2#value of current flowing#ex_9_2.sce#2138/CH9/EX9.2/ex_9_2.sce#S##71204
+9#cells and batteries#9.10#direction of current and total resistance#ex_9_10.sce#2138/CH9/EX9.10/ex_9_10.sce#S##71217
+9#cells and batteries#9.1#value of current flowing#ex_9_1.sce#2138/CH9/EX9.1/ex_9_1.sce#S##71203
+8#DC motors#8.7#speed#ex_8_7.sce#2138/CH8/EX8.7/ex_8_7.sce#S##71201
+8#DC motors#8.6#current taken#ex_8_6.sce#2138/CH8/EX8.6/ex_8_6.sce#S##71200
+8#DC motors#8.5.g#commercial efficiency#ex_8_5_g.sce#2138/CH8/EX8.5.g/ex_8_5_g.sce#S##71199
+8#DC motors#8.5.f#lost torque#ex_8_5_f.sce#2138/CH8/EX8.5.f/ex_8_5_f.sce#S##71198
+8#DC motors#8.5.e#shaft torque#ex_8_5_e.sce#2138/CH8/EX8.5.e/ex_8_5_e.sce#S##71197
+8#DC motors#8.5.d#total torque#ex_8_5_d.sce#2138/CH8/EX8.5.d/ex_8_5_d.sce#S##71196
+8#DC motors#8.5.c#Bhp#ex_8_5_c.sce#2138/CH8/EX8.5.c/ex_8_5_c.sce#S##71195
+8#DC motors#8.5.b#copper losses#ex_8_5_b.sce#2138/CH8/EX8.5.b/ex_8_5_b.sce#S##71194
+8#DC motors#8.5.a#back emf#ex_8_5_a.sce#2138/CH8/EX8.5.a/ex_8_5_a.sce#S##71193
+8#DC motors#8.4.c#efficiency#ex_8_4_c.sce#2138/CH8/EX8.4.c/ex_8_4_c.sce#S##71192
+8#DC motors#8.4.b#horsepower of the motor#ex_8_4_b.sce#2138/CH8/EX8.4.b/ex_8_4_b.sce#S##71191
+8#DC motors#8.4.a#stray losses#ex_8_4_A.sce#2138/CH8/EX8.4.a/ex_8_4_A.sce#S##71190
+8#DC motors#8.3#speed#ex_8_3.sce#2138/CH8/EX8.3/ex_8_3.sce#S##71189
+8#DC motors#8.2.f#commercial efficiency#ex_8_2_f.sce#2138/CH8/EX8.2.f/ex_8_2_f.sce#S##71188
+8#DC motors#8.2.e#lost torque#ex_8_2_e.sce#2138/CH8/EX8.2.e/ex_8_2_e.sce#S##71187
+8#DC motors#8.2.d#shaft torque#ex_8_2_d.sce#2138/CH8/EX8.2.d/ex_8_2_d.sce#S##71186
+8#DC motors#8.2.c#armature torque#ex_8_2_c.sce#2138/CH8/EX8.2.c/ex_8_2_c.sce#S##71185
+8#DC motors#8.2.b#copper losses#ex_8_2_b.sce#2138/CH8/EX8.2.b/ex_8_2_b.sce#S##71184
+8#DC motors#8.2.a#Bhp#ex_8_2_a.sce#2138/CH8/EX8.2.a/ex_8_2_a.sce#S##71183
+8#DC motors#8.1#speed#ex_8_1.sce#2138/CH8/EX8.1/ex_8_1.sce#S##71182
+7#DC generators#7.5.g.3#mechanical efficiency#ex_7_5_g_3.sce#2138/CH7/EX7.5.g.3/ex_7_5_g_3.sce#S##71181
+7#DC generators#7.5.g.2#commercial efficiency#ex_7_5_g_2.sce#2138/CH7/EX7.5.g.2/ex_7_5_g_2.sce#S##71180
+7#DC generators#7.5.g.1#electrical efficiency#ex_7_5_g_1.sce#2138/CH7/EX7.5.g.1/ex_7_5_g_1.sce#S##71179
+7#DC generators#7.5.f#stray losses#ex_7_5_f.sce#2138/CH7/EX7.5.f/ex_7_5_f.sce#S##71178
+7#DC generators#7.5.e#copper losses#ex_7_5_e.sce#2138/CH7/EX7.5.e/ex_7_5_e.sce#S##71177
+7#DC generators#7.5.d#power developed#ex_7_5_d.sce#2138/CH7/EX7.5.d/ex_7_5_d.sce#S##71175
+7#DC generators#7.5.c#emf generated#ex_7_5_c.sce#2138/CH7/EX7.5.c/ex_7_5_c.sce#S##71174
+7#DC generators#7.5.b#current#ex_7_5_b.sce#2138/CH7/EX7.5.b/ex_7_5_b.sce#S##71173
+7#DC generators#7.5.a#total armature current#ex_7_5_a.sce#2138/CH7/EX7.5.a/ex_7_5_a.sce#S##71172
+7#DC generators#7.4.e#commercial efficiency#ex_7_4_e.sce#2138/CH7/EX7.4.e/ex_7_4_e.sce#S##74391
+7#DC generators#7.4.d#Bhp metric of the primemover#ex_7_4_d.sce#2138/CH7/EX7.4.d/ex_7_4_d.sce#S##71170
+7#DC generators#7.4.c#copper losses#ex_7_4_c.sce#2138/CH7/EX7.4.c/ex_7_4_c.sce#S##71168
+7#DC generators#7.4.b#emf generated#ex_7_4_b.sce#2138/CH7/EX7.4.b/ex_7_4_b.sce#S##71167
+7#DC generators#7.4.a#terminal voltage#ex_7_4_a.sce#2138/CH7/EX7.4.a/ex_7_4_a.sce#S##71166
+7#DC generators#7.3.b#emf generated#ex_7_3_b.sce#2138/CH7/EX7.3.b/ex_7_3_b.sce#S##71165
+7#DC generators#7.3.a#terminal voltage#ex_7_3_a.sce#2138/CH7/EX7.3.a/ex_7_3_a.sce#S##71164
+7#DC generators#7.2.c#emf generated#ex_7_2_c.sce#2138/CH7/EX7.2.c/ex_7_2_c.sce#S##71163
+7#DC generators#7.2.b#current per armature path#ex_7_2_b.sce#2138/CH7/EX7.2.b/ex_7_2_b.sce#S##71162
+7#DC generators#7.2.a#total armature current#ex_7_2_a.sce#2138/CH7/EX7.2.a/ex_7_2_a.sce#S##71161
+7#DC generators#7.1.b#emf generated#ex_7_1_b.sce#2138/CH7/EX7.1.b/ex_7_1_b.sce#S##71160
+7#DC generators#7.1.a#emf induced#ex_7_1_a.sce#2138/CH7/EX7.1.a/ex_7_1_a.sce#S##71159
+6#magnetism and electromagnetism#6.3#emf induced#ex_6_3.sce#2138/CH6/EX6.3/ex_6_3.sce#S##74390
+6#magnetism and electromagnetism#6.2#force#ex_6_2.sce#2138/CH6/EX6.2/ex_6_2.sce#S##71256
+6#magnetism and electromagnetism#6.1#field strength#ex_6_1.sce#2138/CH6/EX6.1/ex_6_1.sce#S##71255
+5#effects of electric current#5.4#potential difference#EX_5_4.sce#2138/CH5/EX5.4/EX_5_4.sce#S##71158
+5#effects of electric current#5.3#resistance#EX_5_3.sce#2138/CH5/EX5.3/EX_5_3.sce#S##71157
+5#effects of electric current#5.2#thickness of coper#ex_5_2.sce#2138/CH5/EX5.2/ex_5_2.sce#S##71156
+5#effects of electric current#5.1#ECE of silver#ex_5_1.sce#2138/CH5/EX5.1/ex_5_1.sce#S##71155
+4#Work power and energy#4.9#amount of bills#EX_4_9.sce#2138/CH4/EX4.9/EX_4_9.sce#S##71149
+4#Work power and energy#4.8#current taken#ex_4_8.sce#2138/CH4/EX4.8/ex_4_8.sce#S##71148
+4#Work power and energy#4.7#voltage current power and bill amount#EX_4_7.sce#2138/CH4/EX4.7/EX_4_7.sce#S##78696
+4#Work power and energy#4.6#total cots of electric energy and total charges of bill#EX_4_6.sce#2138/CH4/EX4.6/EX_4_6.sce#S##71141
+4#Work power and energy#4.5.b#current taken#ex_4_5_b.sce#2138/CH4/EX4.5.b/ex_4_5_b.sce#S##71140
+4#Work power and energy#4.5.a#total load#ex_4_5_a.sce#2138/CH4/EX4.5.a/ex_4_5_a.sce#S##71139
+4#Work power and energy#4.4.b#power taken in series case#ex_4_4_b.sce#2138/CH4/EX4.4.b/ex_4_4_b.sce#S##71138
+4#Work power and energy#4.4.a#power taken in parallel case#ex_4_4_a.sce#2138/CH4/EX4.4.a/ex_4_4_a.sce#S##71137
+4#Work power and energy#4.3#resistance#ex_4_3.sce#2138/CH4/EX4.3/ex_4_3.sce#S##71136
+4#Work power and energy#4.2#resistance#ex_4_2.sce#2138/CH4/EX4.2/ex_4_2.sce#S##71135
+4#Work power and energy#4.12.b#cost of the energy#EX_4_12_b.sce#2138/CH4/EX4.12.b/EX_4_12_b.sce#S##71154
+4#Work power and energy#4.12.a#Bhp of the motor#EX_4_12_a.sce#2138/CH4/EX4.12.a/EX_4_12_a.sce#S##74389
+4#Work power and energy#4.11#horsepower of the motor#ex_4_11.sce#2138/CH4/EX4.11/ex_4_11.sce#S##71152
+4#Work power and energy#4.10.b#total load current#EX_4_10_b.sce#2138/CH4/EX4.10.b/EX_4_10_b.sce#S##71151
+4#Work power and energy#4.10.a#total load of light and fans#EX_4_10_a.sce#2138/CH4/EX4.10.a/EX_4_10_a.sce#S##74388
+4#Work power and energy#4.1.b#power lost#ex_4_1_b.sce#2138/CH4/EX4.1.b/ex_4_1_b.sce#S##71134
+4#Work power and energy#4.1#resistance#ex_4_1_a.sce#2138/CH4/EX4.1/ex_4_1_a.sce#S##71133
+3#electricity and its fundamental law#3.9#effective resistance and current#ex_3_9.sce#2138/CH3/EX3.9/ex_3_9.sce#S##71127
+3#electricity and its fundamental law#3.8#voltage#ex_3_8.sce#2138/CH3/EX3.8/ex_3_8.sce#S##71126
+3#electricity and its fundamental law#3.7#total resistance#ex_3_7.sce#2138/CH3/EX3.7/ex_3_7.sce#S##71125
+3#electricity and its fundamental law#3.6#voltage#ex_3_6.sce#2138/CH3/EX3.6/ex_3_6.sce#S##71124
+3#electricity and its fundamental law#3.5.b#current flowing#ex_3_5_b.sce#2138/CH3/EX3.5.b/ex_3_5_b.sce#S##71123
+3#electricity and its fundamental law#3.5.a#total resistance#ex_3_5_a.sce#2138/CH3/EX3.5.a/ex_3_5_a.sce#S##71122
+3#electricity and its fundamental law#3.4#resistance#ex_3_4.sce#2138/CH3/EX3.4/ex_3_4.sce#S##71121
+3#electricity and its fundamental law#3.3#specific resistance#ex_3_3.sce#2138/CH3/EX3.3/ex_3_3.sce#S##71120
+3#electricity and its fundamental law#3.2#voltage#ex_3_2.sce#2138/CH3/EX3.2/ex_3_2.sce#S##71119
+3#electricity and its fundamental law#3.11.d#total resistance#ex_3_11_d.sce#2138/CH3/EX3.11.d/ex_3_11_d.sce#S##71132
+3#electricity and its fundamental law#3.11.c#current#ex_3_11_c.sce#2138/CH3/EX3.11.c/ex_3_11_c.sce#S##71131
+3#electricity and its fundamental law#3.11.b#potential drop#ex_3_11_B.sce#2138/CH3/EX3.11.b/ex_3_11_B.sce#S##71130
+3#electricity and its fundamental law#3.11.a#unknow resistance#ex_3_11_a.sce#2138/CH3/EX3.11.a/ex_3_11_a.sce#S##71129
+3#electricity and its fundamental law#3.10#current#ex_3_10.sce#2138/CH3/EX3.10/ex_3_10.sce#S##71128
+3#electricity and its fundamental law#3.1#resistance#ex_3_1.sce#2138/CH3/EX3.1/ex_3_1.sce#S##71118

@@ -1,0 +1,119 @@
+14#Phase Locked Loops#14.2#Frequency and number of bits#ex14_2.sce#2204/CH14/EX14.2/ex14_2.sce#S##74953
+14#Phase Locked Loops#14.1#Free running frequency and Lock range#ex14_1.sce#2204/CH14/EX14.1/ex14_1.sce#S##74952
+13#Integrated Circuit Timer#13.9#A 555 timer#ex13_9.sce#2204/CH13/EX13.9/ex13_9.sce#S##74942
+13#Integrated Circuit Timer#13.8#A 555 timer#ex13_8.sce#2204/CH13/EX13.8/ex13_8.sce#S##74941
+13#Integrated Circuit Timer#13.7#Value of resistor required#ex13_7.sce#2204/CH13/EX13.7/ex13_7.sce#S##74940
+13#Integrated Circuit Timer#13.6#Positive and negative pulse width#ex13_6.sce#2204/CH13/EX13.6/ex13_6.sce#S##74939
+13#Integrated Circuit Timer#13.5#Frequency and duty cycle#ex13_5.sce#2204/CH13/EX13.5/ex13_5.sce#S##74938
+13#Integrated Circuit Timer#13.4#A 555 timer#ex13_4.sce#2204/CH13/EX13.4/ex13_4.sce#S##74937
+13#Integrated Circuit Timer#13.3#Resistor required#ex13_3.sce#2204/CH13/EX13.3/ex13_3.sce#S##74936
+13#Integrated Circuit Timer#13.2#Positive and negative pulse width#ex13_2.sce#2204/CH13/EX13.2/ex13_2.sce#S##74935
+13#Integrated Circuit Timer#13.19#Value of RA#ex13_19.sce#2204/CH13/EX13.19/ex13_19.sce#S##74951
+13#Integrated Circuit Timer#13.18#Relationship between tp and T#ex13_18.sce#2204/CH13/EX13.18/ex13_18.sce#S##79082
+13#Integrated Circuit Timer#13.17#Output pulse width#ex13_17.sce#2204/CH13/EX13.17/ex13_17.sce#S##74950
+13#Integrated Circuit Timer#13.16#A 555 timer#ex13_16.sce#2204/CH13/EX13.16/ex13_16.sce#S##79080
+13#Integrated Circuit Timer#13.15#A 555 timer#ex13_15.sce#2204/CH13/EX13.15/ex13_15.sce#S##74948
+13#Integrated Circuit Timer#13.14#A 555 based square wave generator#ex13_14.sce#2204/CH13/EX13.14/ex13_14.sce#S##79081
+13#Integrated Circuit Timer#13.13#Resistor required#ex13_13.sce#2204/CH13/EX13.13/ex13_13.sce#S##74946
+13#Integrated Circuit Timer#13.12#Value of RLED#ex13_12.sce#2204/CH13/EX13.12/ex13_12.sce#S##74945
+13#Integrated Circuit Timer#13.11#Resistor required#ex13_11.sce#2204/CH13/EX13.11/ex13_11.sce#S##74944
+13#Integrated Circuit Timer#13.10#Resistor required#ex13_10.sce#2204/CH13/EX13.10/ex13_10.sce#S##74943
+13#Integrated Circuit Timer#13.1#Frequency and duty cycle#ex13_1.sce#2204/CH13/EX13.1/ex13_1.sce#S##74934
+12#Digital to Analog and Analog to Digital Converters#12.9#The value of t2#ex12_9.sce#2204/CH12/EX12.9/ex12_9.sce#S##74930
+12#Digital to Analog and Analog to Digital Converters#12.8#Quantizing error#ex12_8.sce#2204/CH12/EX12.8/ex12_8.sce#S##74929
+12#Digital to Analog and Analog to Digital Converters#12.7#Resolution and digital output #ex12_7.sce#2204/CH12/EX12.7/ex12_7.sce#S##74928
+12#Digital to Analog and Analog to Digital Converters#12.6#Values of resistors#ex12_6.sce#2204/CH12/EX12.6/ex12_6.sce#S##74927
+12#Digital to Analog and Analog to Digital Converters#12.5#Full scale output voltage and percentage resolution#ex12_5.sce#2204/CH12/EX12.5/ex12_5.sce#S##74926
+12#Digital to Analog and Analog to Digital Converters#12.4#Step size and analog output#ex12_4.sce#2204/CH12/EX12.4/ex12_4.sce#S##74925
+12#Digital to Analog and Analog to Digital Converters#12.3#VoFS and Vout#ex12_3.sce#2204/CH12/EX12.3/ex12_3.sce#S##74924
+12#Digital to Analog and Analog to Digital Converters#12.2#Final output voltage#ex12_2.sce#2204/CH12/EX12.2/ex12_2.sce#S##74923
+12#Digital to Analog and Analog to Digital Converters#12.12#Maximum frequency#ex12_12.sce#2204/CH12/EX12.12/ex12_12.sce#S##74933
+12#Digital to Analog and Analog to Digital Converters#12.11#Conversion time#ex12_12.sce#2204/CH12/EX12.11/ex12_12.sce#S##74932
+12#Digital to Analog and Analog to Digital Converters#12.10#Digital output#ex12_10.sce#2204/CH12/EX12.10/ex12_10.sce#S##74931
+12#Digital to Analog and Analog to Digital Converters#12.1#Resolution#ex12_1.sce#2204/CH12/EX12.1/ex12_1.sce#S##74922
+10#Nonlinear Applications of IC Op Amps#10.7#Threshold voltages and hysteresis voltage#ex10_7.sce#2204/CH10/EX10.7/ex10_7.sce#S##74919
+10#Nonlinear Applications of IC Op Amps#10.6#values of VLT VUT and VH#ex10_6.sce#2204/CH10/EX10.6/ex10_6.sce#S##74918
+10#Nonlinear Applications of IC Op Amps#10.4#Value of R1 and R2#ex10_4.sce#2204/CH10/EX10.4/ex10_4.sce#S##74917
+10#Nonlinear Applications of IC Op Amps#10.3#Time duration#ex10_3.sce#2204/CH10/EX10.3/ex10_3.sce#S##74916
+10#Nonlinear Applications of IC Op Amps#10.2#Value of R1 and R2#ex10_2.sce#2204/CH10/EX10.2/ex10_2.sce#S##74915
+10#Nonlinear Applications of IC Op Amps#10.12#Change in output voltage#ex10_12.sce#2204/CH10/EX10.12/ex10_12.sce#S##74921
+10#Nonlinear Applications of IC Op Amps#10.10#Values of VUT VLT and oscillation frequency#ex10_10.sce#2204/CH10/EX10.10/ex10_10.sce#S##74920
+10#Nonlinear Applications of IC Op Amps#10.1#Threshold voltages#ex10_1.sce#2204/CH10/EX10.1/ex10_1.sce#S##74914
+8#CMOS Realization Of Inverters#8.6#Value of Vx#ex8_6.sce#2204/CH8/EX8.6/ex8_6.sce#S##79089
+8#CMOS Realization Of Inverters#8.5#Value of VOH VOL and Vth#ex8_5.sce#2204/CH8/EX8.5/ex8_5.sce#S##79088
+8#CMOS Realization Of Inverters#8.4#CMOS Inverter#ex8_4.sce#2204/CH8/EX8.4/ex8_4.sce#S##79087
+8#CMOS Realization Of Inverters#8.2#Value of RL ans WbyL#ex8_2.sce#2204/CH8/EX8.2/ex8_2.sce#S##79086
+6#Sinusoidal Oscillators#6.4#Wien Bridge Oscillator#ex6_4.sce#2204/CH6/EX6.4/ex6_4.sce#S##74913
+6#Sinusoidal Oscillators#6.3#Frequency of oscillaitor#ex6_3.sce#2204/CH6/EX6.3/ex6_3.sce#S##74912
+5#Filters#5.9#Second order Butterworth filter#ex5_9.sce#2204/CH5/EX5.9/ex5_9.sce#S##78938
+5#Filters#5.8#Second order Butterworth filter#ex5_8.sce#2204/CH5/EX5.8/ex5_8.sce#S##74905
+5#Filters#5.7#Second order low pass filter#ex5_7.sce#2204/CH5/EX5.7/ex5_7.sce#S##74904
+5#Filters#5.6#Second order low pass filter#ex5_6.sce#2204/CH5/EX5.6/ex5_6.sce#S##74903
+5#Filters#5.5#Second order low pass filter#ex5_5.sce#2204/CH5/EX5.5/ex5_5.sce#S##74902
+5#Filters#5.4#Second order low pass filter#ex5_4.sce#2204/CH5/EX5.4/ex5_4.sce#S##79077
+5#Filters#5.3#Low pass filter#ex5_3.sce#2204/CH5/EX5.3/ex5_3.sce#S##74900
+5#Filters#5.24#Wide bandpass Filter#ex5_24.sce#2204/CH5/EX5.24/ex5_24.sce#S##79085
+5#Filters#5.23#Center frequency and quality factor#ex5_23.sce#2204/CH5/EX5.23/ex5_23.sce#S##74911
+5#Filters#5.22#Phase shift between input and output voltages#ex5_22.sce#2204/CH5/EX5.22/ex5_22.sce#S##74910
+5#Filters#5.21#Active notch filter#ex5_21.sce#2204/CH5/EX5.21/ex5_21.sce#S##74909
+5#Filters#5.20#Wide band reject Filter#ex5_20.sce#2204/CH5/EX5.20/ex5_20.sce#S##79084
+5#Filters#5.2#First order low pass filter#ex5_2.sce#2204/CH5/EX5.2/ex5_2.sce#S##74899
+5#Filters#5.19#Narror band pass filter#ex5_19.sce#2204/CH5/EX5.19/ex5_19.sce#S##78942
+5#Filters#5.18#Wide band pass filter#ex5_18.sce#2204/CH5/EX5.18/ex5_18.sce#S##79079
+5#Filters#5.17#Second order Bessel Filter#ex5_17.sce#2204/CH5/EX5.17/ex5_17.sce#S##78940
+5#Filters#5.16#Cut off frequency and passband voltage gain#ex5_16.sce#2204/CH5/EX5.16/ex5_16.sce#S##79078
+5#Filters#5.15#Passband gain#ex5_15.sce#2204/CH5/EX5.15/ex5_15.sce#S##74907
+5#Filters#5.14#Value of Resistance#ex5_14.sce#2204/CH5/EX5.14/ex5_14.sce#S##74906
+5#Filters#5.13#Fourth order Butterworth filter#ex5_13.sce#2204/CH5/EX5.13/ex5_13.sce#S##78939
+5#Filters#5.12#Second order low pass filter#ex5_12.sce#2204/CH5/EX5.12/ex5_12.sce#S##80463
+5#Filters#5.1#Cut off frequency and passband voltage gain#ex5_1.sce#2204/CH5/EX5.1/ex5_1.sce#S##74898
+4#Linear Applications of IC Op Amps#4.9#Maximum change in output voltage#ex4_9.sce#2204/CH4/EX4.9/ex4_9.sce#S##74879
+4#Linear Applications of IC Op Amps#4.8#Practical integrator circuit#ex4_8.sce#2204/CH4/EX4.8/ex4_8.sce#S##74878
+4#Linear Applications of IC Op Amps#4.7#Limiting frequency#ex4_7.sce#2204/CH4/EX4.7/ex4_7.sce#S##74877
+4#Linear Applications of IC Op Amps#4.6#Output voltage#ex4_6.sce#2204/CH4/EX4.6/ex4_6.sce#S##74872
+4#Linear Applications of IC Op Amps#4.5#Values of resistances#ex4_5.sce#2204/CH4/EX4.5/ex4_5.sce#S##74870
+4#Linear Applications of IC Op Amps#4.4#Summing amplifier#ex4_4.sce#2204/CH4/EX4.4/ex4_4.sce#S##74864
+4#Linear Applications of IC Op Amps#4.31#Three op amp instrumentation amplifier#ex4_31.sce#2204/CH4/EX4.31/ex4_31.sce#S##79083
+4#Linear Applications of IC Op Amps#4.3#Output voltage#ex4_3.sce#2204/CH4/EX4.3/ex4_3.sce#S##74858
+4#Linear Applications of IC Op Amps#4.28#Value of RG#ex4_28.sce#2204/CH4/EX4.28/ex4_28.sce#S##74897
+4#Linear Applications of IC Op Amps#4.27#Output voltage#ex4_27.sce#2204/CH4/EX4.27/ex4_27.sce#S##74896
+4#Linear Applications of IC Op Amps#4.25#Gain of instrumentation amplifier#ex4_25.sce#2204/CH4/EX4.25/ex4_25.sce#S##74895
+4#Linear Applications of IC Op Amps#4.24#Expression for output voltage#ex4_24.sce#2204/CH4/EX4.24/ex4_24.sce#S##74894
+4#Linear Applications of IC Op Amps#4.23#Instrumentation amplifier#ex4_23.sce#2204/CH4/EX4.23/ex4_23.sce#S##74893
+4#Linear Applications of IC Op Amps#4.22#Transconductance resistance#ex4_22.sce#2204/CH4/EX4.22/ex4_22.sce#S##74892
+4#Linear Applications of IC Op Amps#4.21#Value of RG#ex4_21.sce#2204/CH4/EX4.21/ex4_21.sce#S##74891
+4#Linear Applications of IC Op Amps#4.20#Range of gain#ex4_20.sce#2204/CH4/EX4.20/ex4_20.sce#S##74890
+4#Linear Applications of IC Op Amps#4.2#Design an adder circuit#ex4_2.sce#2204/CH4/EX4.2/ex4_2.sce#S##74855
+4#Linear Applications of IC Op Amps#4.19#Values of ROM and Vout#ex4_19.sce#2204/CH4/EX4.19/ex4_19.sce#S##74889
+4#Linear Applications of IC Op Amps#4.18#Output voltage#ex4_18.sce#2204/CH4/EX4.18/ex4_18.sce#S##74888
+4#Linear Applications of IC Op Amps#4.17#Practical differentiator circuit#ex4_17.sce#2204/CH4/EX4.17/ex4_17.sce#S##74887
+4#Linear Applications of IC Op Amps#4.16#Values of resistors#ex4_16.sce#2204/CH4/EX4.16/ex4_16.sce#S##79076
+4#Linear Applications of IC Op Amps#4.15#Time duration for saturation#ex4_15.sce#2204/CH4/EX4.15/ex4_15.sce#S##74885
+4#Linear Applications of IC Op Amps#4.14#Sketch of output voltage#ex4_14.sce#2204/CH4/EX4.14/ex4_14.sce#S##74884
+4#Linear Applications of IC Op Amps#4.13#Values of R1 and RF#ex4_13.sce#2204/CH4/EX4.13/ex4_13.sce#S##74883
+4#Linear Applications of IC Op Amps#4.12#Closed loop time constant#ex4_12.sce#2204/CH4/EX4.12/ex4_12.sce#S##74882
+4#Linear Applications of IC Op Amps#4.11#Output voltage#ex4_11.sce#2204/CH4/EX4.11/ex4_11.sce#S##74881
+4#Linear Applications of IC Op Amps#4.10#Safe frequency and dc gain#ex4_10.sce#2204/CH4/EX4.10/ex4_10.sce#S##74880
+4#Linear Applications of IC Op Amps#4.1#Output voltage#ex4_1.sce#2204/CH4/EX4.1/ex4_1.sce#S##74851
+3#Op Amp With Negative Feedback#3.9#Input impedance voltage gain and power gain#ex3_9.sce#2204/CH3/EX3.9/ex3_9.sce#S##79074
+3#Op Amp With Negative Feedback#3.8#Voltage gain and input output resistance#ex3_8.sce#2204/CH3/EX3.8/ex3_8.sce#S##74827
+3#Op Amp With Negative Feedback#3.7#Value of Af Rif RoF and fF#ex3_7.sce#2204/CH3/EX3.7/ex3_7.sce#S##79073
+3#Op Amp With Negative Feedback#3.6#Voltage gain and input resistance#ex3_6.sce#2204/CH3/EX3.6/ex3_6.sce#S##79072
+3#Op Amp With Negative Feedback#3.5#Closed loop gain and input resistance#ex3_5.sce#2204/CH3/EX3.5/ex3_5.sce#S##74819
+3#Op Amp With Negative Feedback#3.4#Feedback resistance#ex3_4.sce#2204/CH3/EX3.4/ex3_4.sce#S##74818
+3#Op Amp With Negative Feedback#3.2#Inverting op amp#ex3_2.sce#2204/CH3/EX3.2/ex3_2.sce#S##74817
+3#Op Amp With Negative Feedback#3.11#Inverting op amp#ex3_11.sce#2204/CH3/EX3.11/ex3_11.sce#S##74838
+3#Op Amp With Negative Feedback#3.10#Inverting op amp#ex3_10.sce#2204/CH3/EX3.10/ex3_10.sce#S##79075
+3#Op Amp With Negative Feedback#3.1#Closed loop voltage gain#ex3_1.sce#2204/CH3/EX3.1/ex3_1.sce#S##74816
+2#The 741 IC Op Amp#2.6.2#Input offset voltage#ex2_6_2.sce#2204/CH2/EX2.6.2/ex2_6_2.sce#S##74813
+2#The 741 IC Op Amp#2.6#CMRR#ex2_6.sce#2204/CH2/EX2.6/ex2_6.sce#S##74812
+2#The 741 IC Op Amp#2.5#Output voltage#ex2_5.sce#2204/CH2/EX2.5/ex2_5.sce#S##74811
+2#The 741 IC Op Amp#2.4#Slew rate and maximum possible frequency#ex2_4.sce#2204/CH2/EX2.4/ex2_4.sce#S##74810
+2#The 741 IC Op Amp#2.2#Input bias current#ex2_2.sce#2204/CH2/EX2.2/ex2_2.sce#S##74809
+2#The 741 IC Op Amp#2.18#Slew rate and maximum possible frequency#ex2_18.sce#2204/CH2/EX2.18/ex2_18.sce#S##74815
+2#The 741 IC Op Amp#2.17#Lowest value of RL#ex2_17.sce#2204/CH2/EX2.17/ex2_17.sce#S##74814
+1#Analog Integrated Circuit Design An Overview#1.5#Output resistance#ex1_5.sce#2204/CH1/EX1.5/ex1_5.sce#S##79071
+1#Analog Integrated Circuit Design An Overview#1.4#Collector current#ex1_4.sce#2204/CH1/EX1.4/ex1_4.sce#S##74807
+1#Analog Integrated Circuit Design An Overview#1.3#Collector current#ex1_3.sce#2204/CH1/EX1.3/ex1_3.sce#S##74806
+1#Analog Integrated Circuit Design An Overview#1.2#Value of RE#ex1_2.sce#2204/CH1/EX1.2/ex1_2.sce#S##74805
+1#Analog Integrated Circuit Design An Overview#1.1#Constant current#ex1_1.sce#2204/CH1/EX1.1/ex1_1.sce#S##74804

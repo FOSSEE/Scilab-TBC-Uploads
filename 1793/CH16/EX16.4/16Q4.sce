@@ -1,0 +1,20 @@
+clc
+e=0.1
+B=1
+X=B-2*e
+Y=1.5
+B1=0.8
+L1=1.5
+c=30
+Df=1
+Nq=18.4
+Ng=15.668
+q=1*18
+G=18
+Lqs=1+e*(B1/L1)*(tand(45+c/2))^2
+Lgs=Lqs
+Lqd=1+e*(Df/B1)*tand(45+c/2)
+Lgd=Lqd
+qu=q*Lqs*Lqd*Nq+Lgs*Lgd*G*B1*Ng/2
+Qu=qu*B1*L1
+printf('The magnitude of the gross ultimate load = %f kN',Qu)

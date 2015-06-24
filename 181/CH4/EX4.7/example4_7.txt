@@ -1,0 +1,10 @@
+ Circuit 1:
+(a)Emitter Current=9.30e-004 A
+(b)Base Current=9.21e-006 A
+(c)Collector Voltage=0.792 V
+
+Circuit 2:
+(a)Emitter Current=1.86e-003 A
+(b)Collector Current=1.842e-003 A
+(c)Collector Voltage=-5.700 V
+ 

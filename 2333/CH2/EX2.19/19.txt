@@ -1,0 +1,7 @@
+# PROBLEM 19 # 
+
+ Standard formula used 
+ (mu - 1)*t = n*lambda
+
+ Intensity at center of screen is 0.
+ Shift due to sheet is 1.500000 mm.

@@ -1,0 +1,9 @@
+
+ Penalty factors are 
+ L1 = 1 / (1 - 0.000800P1) 
+ L2 = 1
+ Required generation from plant 
+ P1 = 200MW 
+ P2 = 200MW
+ Power loss in transmisison is 16MW
+ The delivered load is 384MW 

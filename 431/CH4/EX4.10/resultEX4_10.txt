@@ -1,0 +1,3 @@
+  
+ Example 4.10   
+frequency of rotor current=1.546392Hz 

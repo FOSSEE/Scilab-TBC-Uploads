@@ -1,0 +1,8 @@
+(a)Efficiency of motor(in%)=   
+ 
+    89.74377  
+ 
+ (b)Efficiency of generator(in%)=   
+ 
+    90.245947  
+ 

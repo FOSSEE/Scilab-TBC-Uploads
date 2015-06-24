@@ -1,0 +1,3 @@
+ Example 9.2
+  A change of 23 KJ mol^-1 energy is required to increase nucleation factor from 
+  1e+04 m^-3 s^-1  to  1e+10 m^-3 s^-1  

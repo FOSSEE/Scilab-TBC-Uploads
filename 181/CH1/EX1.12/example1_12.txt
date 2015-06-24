@@ -1,0 +1,3 @@
+Drift velocity in first case is 2.62e+004 m/s
+Drift velocity in second case is 2.62e+005 m/s
+Drift velocity in third case is 2.62e+006 m/s 

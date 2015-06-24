@@ -1,0 +1,3 @@
+ # PROBLEM 5.4 # 
+
+ The maximum shear stress the lap joint can withstand = 0.297680 N/mm^2 

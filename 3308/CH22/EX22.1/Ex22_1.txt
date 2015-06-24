@@ -1,0 +1,12 @@
+ # Material Removal Rate and Cutting Force in Turning # 
+
+
+ Cutting speed=628 in/min
+
+ Material Removal Rate 0.123088=in^3/min
+
+ Cutting time=0.750000 min
+
+ Cutting power=0.180349 hp
+
+ Cutting force=116 lb 

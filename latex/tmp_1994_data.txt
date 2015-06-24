@@ -1,0 +1,155 @@
+10#Three Phase Induction Motors#10.9#star connected induction motor#Example10_9.sce#1994/CH10/EX10.9/Example10_9.sce#S##78603
+10#Three Phase Induction Motors#10.8#calculate starting torque and full load torque#Example10_8.sce#1994/CH10/EX10.8/Example10_8.sce#S##78600
+10#Three Phase Induction Motors#10.7#calculate full load torque#Example10_7.sce#1994/CH10/EX10.7/Example10_7.sce#S##78599
+10#Three Phase Induction Motors#10.6#find rotor current and rotor power factor#Example10_6.sce#1994/CH10/EX10.6/Example10_6.sce#S##78598
+10#Three Phase Induction Motors#10.5#calculate rotor frequency and induced emf#Example10_5.sce#1994/CH10/EX10.5/Example10_5.sce#S##78597
+10#Three Phase Induction Motors#10.4#find full load slip and speed#Example10_4.sce#1994/CH10/EX10.4/Example10_4.sce#S##78596
+10#Three Phase Induction Motors#10.31#find ratio of torques#Example10_31.sce#1994/CH10/EX10.31/Example10_31.sce#S##78625
+10#Three Phase Induction Motors#10.30#calculate motor output and efficiency#Example10_30.sce#1994/CH10/EX10.30/Example10_30.sce#S##78624
+10#Three Phase Induction Motors#10.3#calculate rotor frequency#Example10_3.sce#1994/CH10/EX10.3/Example10_3.sce#S##78595
+10#Three Phase Induction Motors#10.29#calculate speed torque and external resistance#Example10_29.sce#1994/CH10/EX10.29/Example10_29.sce#S##78623
+10#Three Phase Induction Motors#10.28#calculate starting torque#Example10_28.sce#1994/CH10/EX10.28/Example10_28.sce#S##78622
+10#Three Phase Induction Motors#10.27#determine full load speed and speed at max torque#Example10_27.sce#1994/CH10/EX10.27/Example10_27.sce#S##78621
+10#Three Phase Induction Motors#10.26#find power factor of rotor#Example10_26.sce#1994/CH10/EX10.26/Example10_26.sce#S##78620
+10#Three Phase Induction Motors#10.25#calculate slip and line current#Example10_25.sce#1994/CH10/EX10.25/Example10_25.sce#S##78619
+10#Three Phase Induction Motors#10.24#calculate full load torque and external resistance#Example10_24.sce#1994/CH10/EX10.24/Example10_24.sce#S##78618
+10#Three Phase Induction Motors#10.23#calculate starting torque and speed#Example10_23.sce#1994/CH10/EX10.23/Example10_23.sce#S##78617
+10#Three Phase Induction Motors#10.22#find rotor current and rotor emf per phase#Example10_22.sce#1994/CH10/EX10.22/Example10_22.sce#S##78616
+10#Three Phase Induction Motors#10.21#calculate new speed#Example10_21.sce#1994/CH10/EX10.21/Example10_21.sce#S##78615
+10#Three Phase Induction Motors#10.20#calculate efficiency on full load#Example10_20.sce#1994/CH10/EX10.20/Example10_20.sce#S##78614
+10#Three Phase Induction Motors#10.2#calculate full load speed#Example10_2.sce#1994/CH10/EX10.2/Example10_2.sce#S##78594
+10#Three Phase Induction Motors#10.19#calculate starting torque and speed #Example10_19.sce#1994/CH10/EX10.19/Example10_19.sce#S##78613
+10#Three Phase Induction Motors#10.18#calculate rotor current and external resistance#Example10_18.sce#1994/CH10/EX10.18/Example10_18.sce#S##94756
+10#Three Phase Induction Motors#10.17#determine ratios of torques#Example10_17.sce#1994/CH10/EX10.17/Example10_17.sce#S##78611
+10#Three Phase Induction Motors#10.16#calculate tapping and supply start current#Example10_16.sce#1994/CH10/EX10.16/Example10_16.sce#S##78610
+10#Three Phase Induction Motors#10.15#calculate shaft torque and full load efficiency#Example10_15.sce#1994/CH10/EX10.15/Example10_15.sce#S##78609
+10#Three Phase Induction Motors#10.14#calculate gross mechanical power and efficiency#Example10_14.sce#1994/CH10/EX10.14/Example10_14.sce#S##78608
+10#Three Phase Induction Motors#10.13#calculate slip and rotor resistance per phase#Example10_13.sce#1994/CH10/EX10.13/Example10_13.sce#S##78607
+10#Three Phase Induction Motors#10.12#calculate full load efficiency#Example10_12.sce#1994/CH10/EX10.12/Example10_12.sce#S##78606
+10#Three Phase Induction Motors#10.11#calculate rotor copper loss#Example10_11.sce#1994/CH10/EX10.11/Example10_11.sce#S##83745
+10#Three Phase Induction Motors#10.10#calculate external resistance #Example10_10.sce#1994/CH10/EX10.10/Example10_10.sce#S##78604
+10#Three Phase Induction Motors#10.1#calculate full load slip#Example10_1.sce#1994/CH10/EX10.1/Example10_1.sce#S##78593
+9#DC Motors#9.9#calculate speed on full load#Example9_9.sce#1994/CH9/EX9.9/Example9_9.sce#S##83742
+9#DC Motors#9.8#find armature current and back emf#Example9_8.sce#1994/CH9/EX9.8/Example9_8.sce#S##78565
+9#DC Motors#9.7#calculate speed #Example9_7.sce#1994/CH9/EX9.7/Example9_7.sce#S##78564
+9#DC Motors#9.6#calculate induced emf and lost torque#Example9_6.sce#1994/CH9/EX9.6/Example9_6.sce#S##78563
+9#DC Motors#9.5#calculate gross torque#Example9_5.sce#1994/CH9/EX9.5/Example9_5.sce#S##78562
+9#DC Motors#9.4#calculate back emf and speed#Example9_4.sce#1994/CH9/EX9.4/Example9_4.sce#S##78561
+9#DC Motors#9.33#calculate speed on given load#Example9_33.sce#1994/CH9/EX9.33/Example9_33.sce#S##78592
+9#DC Motors#9.32#calculate efficiency and power output#Example9_32.sce#1994/CH9/EX9.32/Example9_32.sce#S##78591
+9#DC Motors#9.31#calculate speed of motor combination#Example9_31.sce#1994/CH9/EX9.31/Example9_31.sce#S##78590
+9#DC Motors#9.30#calculate efficiency of motor#Example9_30.sce#1994/CH9/EX9.30/Example9_30.sce#S##78589
+9#DC Motors#9.3#calculate induced emf#Example9_3.sce#1994/CH9/EX9.3/Example9_3.sce#S##78560
+9#DC Motors#9.29#determine efficiency and speed of motor#Example9_29.sce#1994/CH9/EX9.29/Example9_29.sce#S##78588
+9#DC Motors#9.28#calculate torque and efficiency#Example9_28.sce#1994/CH9/EX9.28/Example9_28.sce#S##78587
+9#DC Motors#9.27#calculate back emf#Example9_27.sce#1994/CH9/EX9.27/Example9_27.sce#S##78586
+9#DC Motors#9.26#calculate efficiency and armature current#Example9_26.sce#1994/CH9/EX9.26/Example9_26.sce#S##78583
+9#DC Motors#9.25#find efficiency and power input#Example9_25.sce#1994/CH9/EX9.25/Example9_25.sce#S##78582
+9#DC Motors#9.24#estimate supply voltage #Example9_24.sce#1994/CH9/EX9.24/Example9_24.sce#S##78581
+9#DC Motors#9.23#find external resistance#Example9_23.sce#1994/CH9/EX9.23/Example9_23.sce#S##78580
+9#DC Motors#9.22#find new speed and armature current#Example9_22.sce#1994/CH9/EX9.22/Example9_22.sce#S##78579
+9#DC Motors#9.21#find speed for parallel field groups#Example9_21.sce#1994/CH9/EX9.21/Example9_21.sce#S##78578
+9#DC Motors#9.20#determine full load speed and efficiency#Example9_20.sce#1994/CH9/EX9.20/Example9_20.sce#S##78577
+9#DC Motors#9.2#calculate speed and generated emf#Example9_2.sce#1994/CH9/EX9.2/Example9_2.sce#S##78559
+9#DC Motors#9.19#calculate full load speed#Example9_19.sce#1994/CH9/EX9.19/Example9_19.sce#S##78576
+9#DC Motors#9.18#determine mechanical power on full load#Example9_18.sce#1994/CH9/EX9.18/Example9_18.sce#S##78575
+9#DC Motors#9.17#determine armature current ansd speed of machine#Example9_17.sce#1994/CH9/EX9.17/Example9_17.sce#S##78574
+9#DC Motors#9.16#find speed on full load#Example9_16.sce#1994/CH9/EX9.16/Example9_16.sce#S##78573
+9#DC Motors#9.15#find speed and torque of motor#Example9_15.sce#1994/CH9/EX9.15/Example9_15.sce#S##78572
+9#DC Motors#9.14#find out speed of motor#Example9_14.sce#1994/CH9/EX9.14/Example9_14.sce#S##78571
+9#DC Motors#9.13#calculate speed of motor#Example9_13.sce#1994/CH9/EX9.13/Example9_13.sce#S##78570
+9#DC Motors#9.12#find external resistance#Example9_12.sce#1994/CH9/EX9.12/Example9_12.sce#S##78569
+9#DC Motors#9.11#find new speed and armature current#Example9_11.sce#1994/CH9/EX9.11/Example9_11.sce#S##83744
+9#DC Motors#9.10#calculate speed on new load#Example9_10.sce#1994/CH9/EX9.10/Example9_10.sce#S##83743
+9#DC Motors#9.1#calculate generated emf#Example9_1.sce#1994/CH9/EX9.1/Example9_1.sce#S##78558
+8#Measurement Of Resistance Capacitance And Inductance#8.9#find components of branch BC#Example8_9.sce#1994/CH8/EX8.9/Example8_9.sce#S##77095
+8#Measurement Of Resistance Capacitance And Inductance#8.8#find equivalent series circuit#Example8_8.sce#1994/CH8/EX8.8/Example8_8.sce#S##77094
+8#Measurement Of Resistance Capacitance And Inductance#8.7#find equivalent series circuit#Example8_7.sce#1994/CH8/EX8.7/Example8_7.sce#S##77093
+8#Measurement Of Resistance Capacitance And Inductance#8.6#determine balance of bridge#Example8_6.sce#1994/CH8/EX8.6/Example8_6.sce#S##77092
+8#Measurement Of Resistance Capacitance And Inductance#8.5#find constants of unknown impedance#Example8_5.sce#1994/CH8/EX8.5/Example8_5.sce#S##77091
+8#Measurement Of Resistance Capacitance And Inductance#8.4#find unknown resisance#Example8_4.sce#1994/CH8/EX8.4/Example8_4.sce#S##77090
+8#Measurement Of Resistance Capacitance And Inductance#8.3#find current through galvanometer#Example8_3.sce#1994/CH8/EX8.3/Example8_3.sce#S##77089
+8#Measurement Of Resistance Capacitance And Inductance#8.27#find limiting values of unknown resistance#Example8_27.sce#1994/CH8/EX8.27/Example8_27.sce#S##77113
+8#Measurement Of Resistance Capacitance And Inductance#8.26#find resistance and inductance of coil#Example8_26.sce#1994/CH8/EX8.26/Example8_26.sce#S##77112
+8#Measurement Of Resistance Capacitance And Inductance#8.25#determine unknown parameters of arm AB#Example8_25.sce#1994/CH8/EX8.25/Example8_25.sce#S##83741
+8#Measurement Of Resistance Capacitance And Inductance#8.24#find unknown impedance and dissipation factor#Example8_24.sce#1994/CH8/EX8.24/Example8_24.sce#S##86693
+8#Measurement Of Resistance Capacitance And Inductance#8.23#find unknown impedance #Example8_23.sce#1994/CH8/EX8.23/Example8_23.sce#S##77109
+8#Measurement Of Resistance Capacitance And Inductance#8.22#find constants of Zx#Example8_22.sce#1994/CH8/EX8.22/Example8_22.sce#S##77108
+8#Measurement Of Resistance Capacitance And Inductance#8.21#find constants of arm CD#Example8_21.sce#1994/CH8/EX8.21/Example8_21.sce#S##77107
+8#Measurement Of Resistance Capacitance And Inductance#8.20#find unknown resisance Rx#Example8_20.sce#1994/CH8/EX8.20/Example8_20.sce#S##77106
+8#Measurement Of Resistance Capacitance And Inductance#8.2#find unknown resistance#Example8_2.sce#1994/CH8/EX8.2/Example8_2.sce#S##77088
+8#Measurement Of Resistance Capacitance And Inductance#8.19#find series resistance#Example8_19.sce#1994/CH8/EX8.19/Example8_19.sce#S##77105
+8#Measurement Of Resistance Capacitance And Inductance#8.18#find unknown resisance and unbalance in bridge#Example8_18.sce#1994/CH8/EX8.18/Example8_18.sce#S##77104
+8#Measurement Of Resistance Capacitance And Inductance#8.17#find value of unknown resistance#Example8_17.sce#1994/CH8/EX8.17/Example8_17.sce#S##77103
+8#Measurement Of Resistance Capacitance And Inductance#8.16#calculate balance temperature and error#Example8_16.sce#1994/CH8/EX8.16/Example8_16.sce#S##77102
+8#Measurement Of Resistance Capacitance And Inductance#8.15#calculate smallest change in resistance#Example8_15.sce#1994/CH8/EX8.15/Example8_15.sce#S##77101
+8#Measurement Of Resistance Capacitance And Inductance#8.14#find current through galanometer#Example8_14.sce#1994/CH8/EX8.14/Example8_14.sce#S##77100
+8#Measurement Of Resistance Capacitance And Inductance#8.13#find deflection of galvanometer#Example8_13.sce#1994/CH8/EX8.13/Example8_13.sce#S##83739
+8#Measurement Of Resistance Capacitance And Inductance#8.12#find deflection of galvanometer#Example8_12.sce#1994/CH8/EX8.12/Example8_12.sce#S##77098
+8#Measurement Of Resistance Capacitance And Inductance#8.11#calculate unknown capacitance and dissipation factor#Example8_11.sce#1994/CH8/EX8.11/Example8_11.sce#S##77097
+8#Measurement Of Resistance Capacitance And Inductance#8.10#find constants of unknown impedance#Example8_10.sce#1994/CH8/EX8.10/Example8_10.sce#S##86692
+8#Measurement Of Resistance Capacitance And Inductance#8.1#calculate R1 and R2 of ohmmeter#Example8_1.sce#1994/CH8/EX8.1/Example8_1.sce#S##77087
+7#Basic Measuring Instruments#7.9#design D arsonoval movement voltmeter#Example7_9.sce#1994/CH7/EX7.9/Example7_9.sce#S##77066
+7#Basic Measuring Instruments#7.8#calculate shunt and multiplier resistance#Example7_8.sce#1994/CH7/EX7.8/Example7_8.sce#S##77065
+7#Basic Measuring Instruments#7.7#calculate multiplier resistance#Example7_7.sce#1994/CH7/EX7.7/Example7_7.sce#S##77064
+7#Basic Measuring Instruments#7.6#design aryton shunt#Example7_6.sce#1994/CH7/EX7.6/Example7_6.sce#S##77063
+7#Basic Measuring Instruments#7.5#design multirange dc milliammeter#Example7_5.sce#1994/CH7/EX7.5/Example7_5.sce#S##77062
+7#Basic Measuring Instruments#7.4#calculate shunt current and meter resistance#Example7_4.sce#1994/CH7/EX7.4/Example7_4.sce#S##77061
+7#Basic Measuring Instruments#7.3#calculate value of shunt resistance#Example7_3.sce#1994/CH7/EX7.3/Example7_3.sce#S##77060
+7#Basic Measuring Instruments#7.29#calculate actual primary current and ratio error#Example7_29.sce#1994/CH7/EX7.29/Example7_29.sce#S##77086
+7#Basic Measuring Instruments#7.28#find percentage ratio error#Example7_28.sce#1994/CH7/EX7.28/Example7_28.sce#S##77085
+7#Basic Measuring Instruments#7.27#estimate line voltage#Example7_27.sce#1994/CH7/EX7.27/Example7_27.sce#S##77084
+7#Basic Measuring Instruments#7.26#estimate line current#Example7_26.sce#1994/CH7/EX7.26/Example7_26.sce#S##77083
+7#Basic Measuring Instruments#7.25#limits of error of wattmeter#Example7_25.sce#1994/CH7/EX7.25/Example7_25.sce#S##77082
+7#Basic Measuring Instruments#7.24#find error at given power factor#Example7_24.sce#1994/CH7/EX7.24/Example7_24.sce#S##77081
+7#Basic Measuring Instruments#7.23#find speed of disc and error of meter#Example7_23.sce#1994/CH7/EX7.23/Example7_23.sce#S##77080
+7#Basic Measuring Instruments#7.22#calculate power factor of load#Example7_22.sce#1994/CH7/EX7.22/Example7_22.sce#S##77079
+7#Basic Measuring Instruments#7.21#determine meter errror at half load#Example7_21.sce#1994/CH7/EX7.21/Example7_21.sce#S##77078
+7#Basic Measuring Instruments#7.20#find revolutions and percentage error#Example7_20.sce#1994/CH7/EX7.20/Example7_20.sce#S##77077
+7#Basic Measuring Instruments#7.2#find deflection#Example7_2.sce#1994/CH7/EX7.2/Example7_2.sce#S##77059
+7#Basic Measuring Instruments#7.19#difference between dc and ac readings of voltmeter#Example7_19.sce#1994/CH7/EX7.19/Example7_19.sce#S##77076
+7#Basic Measuring Instruments#7.18#find deflecting torque#Example7_18.sce#1994/CH7/EX7.18/Example7_18.sce#S##77075
+7#Basic Measuring Instruments#7.17#determine inductance of instrument#Example7_17.sce#1994/CH7/EX7.17/Example7_17.sce#S##77074
+7#Basic Measuring Instruments#7.16#find shunt current and resistance for fsd#Example7_16.sce#1994/CH7/EX7.16/Example7_16.sce#S##77073
+7#Basic Measuring Instruments#7.15#basic PMMC measurement#Example7_15.sce#1994/CH7/EX7.15/Example7_15.sce#S##77072
+7#Basic Measuring Instruments#7.14#error and accuracy measurement#Example7_14.sce#1994/CH7/EX7.14/Example7_14.sce#S##77071
+7#Basic Measuring Instruments#7.13#accuracy of meter comparison#Example7_13.sce#1994/CH7/EX7.13/Example7_13.sce#S##77070
+7#Basic Measuring Instruments#7.12#sensitivity of meter comparison#Example7_12.sce#1994/CH7/EX7.12/Example7_12.sce#S##95621
+7#Basic Measuring Instruments#7.11#find multiplier resistance#Example7_11.sce#1994/CH7/EX7.11/Example7_11.sce#S##83738
+7#Basic Measuring Instruments#7.10#senstivity method design#Example7_10.sce#1994/CH7/EX7.10/Example7_10.sce#S##77067
+7#Basic Measuring Instruments#7.1#calculate deflection#Example7_1.sce#1994/CH7/EX7.1/Example7_1.sce#S##77058
+6#Oscilloscopes#6.6#find frequency at vertical plate#Example6_6.sce#1994/CH6/EX6.6/Example6_6.sce#S##77057
+6#Oscilloscopes#6.5#find phase difference between two waves#Example6_5.sce#1994/CH6/EX6.5/Example6_5.sce#S##77056
+6#Oscilloscopes#6.4#calculate frequency and rms value#Example6_4.sce#1994/CH6/EX6.4/Example6_4.sce#S##77055
+6#Oscilloscopes#6.3#calculate amplitude and rms value#Example6_3.sce#1994/CH6/EX6.3/Example6_3.sce#S##77054
+6#Oscilloscopes#6.2#find minimum rise time of plulse#Example6_2.sce#1994/CH6/EX6.2/Example6_2.sce#S##77053
+6#Oscilloscopes#6.1#calculate bandwidth of CRO#Example6_1.sce#1994/CH6/EX6.1/Example6_1.sce#S##77052
+4#Frequency Meters And Phase Meters#4.2#calculate output voltage#Example4_2.sce#1994/CH4/EX4.2/Example4_2.sce#S##77051
+4#Frequency Meters And Phase Meters#4.1#plot graph between phase voltage and output#Example4_1.sce#1994/CH4/EX4.1/Example4_1.sce#S##95622
+3#Analog To Digital Converters And Digital Voltmeters#3.9#find senstivity of meter#Example3_9.sce#1994/CH3/EX3.9/Example3_9.sce#S##77048
+3#Analog To Digital Converters And Digital Voltmeters#3.8#find percentage error#Example3_8.sce#1994/CH3/EX3.8/Example3_8.sce#S##94753
+3#Analog To Digital Converters And Digital Voltmeters#3.7#find resolution#Example3_7.sce#1994/CH3/EX3.7/Example3_7.sce#S##77046
+3#Analog To Digital Converters And Digital Voltmeters#3.6#find maximum input frequency#Example3_6.sce#1994/CH3/EX3.6/Example3_6.sce#S##77045
+3#Analog To Digital Converters And Digital Voltmeters#3.5#find conversion time#Example3_5.sce#1994/CH3/EX3.5/Example3_5.sce#S##83778
+3#Analog To Digital Converters And Digital Voltmeters#3.4#find digital output#Example3_4.sce#1994/CH3/EX3.4/Example3_4.sce#S##77043
+3#Analog To Digital Converters And Digital Voltmeters#3.3#calculate time period #Example3_3.sce#1994/CH3/EX3.3/Example3_3.sce#S##77042
+3#Analog To Digital Converters And Digital Voltmeters#3.2#calculate quantisation error#Example3_2.sce#1994/CH3/EX3.2/Example3_2.sce#S##77041
+3#Analog To Digital Converters And Digital Voltmeters#3.10#find resolution and display voltage#Example3_10.sce#1994/CH3/EX3.10/Example3_10.sce#S##77049
+3#Analog To Digital Converters And Digital Voltmeters#3.1#find resolution and digital output#Example3_1.sce#1994/CH3/EX3.1/Example3_1.sce#S##95523
+2#Digital To Analog Converters#2.6#find output voltage#Example2_6.sce#1994/CH2/EX2.6/Example2_6.sce#S##77039
+2#Digital To Analog Converters#2.5#find step size and analog output#Example2_5.sce#1994/CH2/EX2.5/Example2_5.sce#S##77038
+2#Digital To Analog Converters#2.4#calculate full scale output#Example2_4.sce#1994/CH2/EX2.4/Example2_4.sce#S##77037
+2#Digital To Analog Converters#2.3#calculate final output voltage#Example2_3.sce#1994/CH2/EX2.3/Example2_3.sce#S##77036
+2#Digital To Analog Converters#2.2#calculate resolution #Example2_2.sce#1994/CH2/EX2.2/Example2_2.sce#S##77035
+2#Digital To Analog Converters#2.1#design 4 bit DAC#Example2_1.sce#1994/CH2/EX2.1/Example2_1.sce#S##94751
+1#Electronic Voltmeters#1.9#calculate series resistance#Example1_9.sce#1994/CH1/EX1.9/Example1_9.sce#S##77031
+1#Electronic Voltmeters#1.8#design FET voltmeter#Example1_8.sce#1994/CH1/EX1.8/Example1_8.sce#S##77030
+1#Electronic Voltmeters#1.7#calibrate meter#Example1_7.sce#1994/CH1/EX1.7/Example1_7.sce#S##77029
+1#Electronic Voltmeters#1.6#calculate meter current#Example1_6.sce#1994/CH1/EX1.6/Example1_6.sce#S##77028
+1#Electronic Voltmeters#1.5#calculate series resistance#Example1_5.sce#1994/CH1/EX1.5/Example1_5.sce#S##77027
+1#Electronic Voltmeters#1.4#calculate percentage error#Example1_4.sce#1994/CH1/EX1.4/Example1_4.sce#S##77026
+1#Electronic Voltmeters#1.3#calculate form factor and error#Example1_3.sce#1994/CH1/EX1.3/Example1_3.sce#S##77025
+1#Electronic Voltmeters#1.2#calculate multiplier resistance#Example1_2.sce#1994/CH1/EX1.2/Example1_2.sce#S##77024
+1#Electronic Voltmeters#1.11#design FET voltmeter#Example1_11.sce#1994/CH1/EX1.11/Example1_11.sce#S##77033
+1#Electronic Voltmeters#1.10#find calibration resistance#Example1_10.sce#1994/CH1/EX1.10/Example1_10.sce#S##83737
+1#Electronic Voltmeters#1.1#calculate multiplier resistance#Example1_1.sce#1994/CH1/EX1.1/Example1_1.sce#S##77023

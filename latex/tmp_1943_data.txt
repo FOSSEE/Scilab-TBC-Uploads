@@ -1,0 +1,130 @@
+12#Flywheel Energy storage#12.2#Storage time#Ex12_2.sce#1943/CH12/EX12.2/Ex12_2.sce#S##97463
+12#Flywheel Energy storage#12.1#Compressed air temperature#Ex12_1.sce#1943/CH12/EX12.1/Ex12_1.sce#S##97462
+11#Diesel engine and Gas Turbine Power Plants#11.8#Airfuel ratio#Ex11_8.sce#1943/CH11/EX11.8/Ex11_8.sce#S##99717
+11#Diesel engine and Gas Turbine Power Plants#11.7#Workdone factor#Ex11_7.sce#1943/CH11/EX11.7/Ex11_7.sce#S##99716
+11#Diesel engine and Gas Turbine Power Plants#11.6#Impeller tip diameter#Ex11_6.sce#1943/CH11/EX11.6/Ex11_6.sce#S##99715
+11#Diesel engine and Gas Turbine Power Plants#11.5#Blade angles#Ex11_5.sce#1943/CH11/EX11.5/Ex11_5.sce#S##99714
+11#Diesel engine and Gas Turbine Power Plants#11.4#Energy balance sheet#Ex11_4.sce#1943/CH11/EX11.4/Ex11_4.sce#S##99713
+11#Diesel engine and Gas Turbine Power Plants#11.3#Energy balance sheet#Ex11_3.sce#1943/CH11/EX11.3/Ex11_3.sce#S##99712
+11#Diesel engine and Gas Turbine Power Plants#11.2#Temperature of air#Ex11_2.sce#1943/CH11/EX11.2/Ex11_2.sce#S##99711
+11#Diesel engine and Gas Turbine Power Plants#11.1#Net increase in brake power#Ex11_1.sce#1943/CH11/EX11.1/Ex11_1.sce#S##99710
+10#Hydroelecric power plant#10.9#Discharge of turbine#Ex10_9.sce#1943/CH10/EX10.9/Ex10_9.sce#S##99699
+10#Hydroelecric power plant#10.8#The guide vane angle#Ex10_8.sce#1943/CH10/EX10.8/Ex10_8.sce#S##99698
+10#Hydroelecric power plant#10.7#Outlet and inlet blade angles#Ex10_7.sce#1943/CH10/EX10.7/Ex10_7.sce#S##99697
+10#Hydroelecric power plant#10.6#Head on the wheel#Ex10_6.sce#1943/CH10/EX10.6/Ex10_6.sce#S##99696
+10#Hydroelecric power plant#10.5#Velocity of jet#Ex10_5.sce#1943/CH10/EX10.5/Ex10_5.sce#S##99695
+10#Hydroelecric power plant#10.4#Specific speed#Ex10_4.sce#1943/CH10/EX10.4/Ex10_4.sce#S##99694
+10#Hydroelecric power plant#10.3#Diameter of jet#Ex10_3.sce#1943/CH10/EX10.3/Ex10_3.sce#S##99693
+10#Hydroelecric power plant#10.2#Number of jets#Ex10_2.sce#1943/CH10/EX10.2/Ex10_2.sce#S##99692
+10#Hydroelecric power plant#10.19#Power developed#Ex10_19.sce#1943/CH10/EX10.19/Ex10_19.sce#S##99709
+10#Hydroelecric power plant#10.18#Power developed#Ex10_18.sce#1943/CH10/EX10.18/Ex10_18.sce#S##99708
+10#Hydroelecric power plant#10.17#Least number of turbines#Ex10_17.sce#1943/CH10/EX10.17/Ex10_17.sce#S##99707
+10#Hydroelecric power plant#10.16#Efficiency#Ex10_16.sce#1943/CH10/EX10.16/Ex10_16.sce#S##99706
+10#Hydroelecric power plant#10.15#Speed and power#Ex10_15.sce#1943/CH10/EX10.15/Ex10_15.sce#S##99705
+10#Hydroelecric power plant#10.14#Speed power and scale ratio#Ex10_14.sce#1943/CH10/EX10.14/Ex10_14.sce#S##99704
+10#Hydroelecric power plant#10.13#Number of turbines#Ex10_13.sce#1943/CH10/EX10.13/Ex10_13.sce#S##99703
+10#Hydroelecric power plant#10.12#Specific speed#Ex10_12.sce#1943/CH10/EX10.12/Ex10_12.sce#S##99702
+10#Hydroelecric power plant#10.11#Speed and diameter#Ex10_11.sce#1943/CH10/EX10.11/Ex10_11.sce#S##99701
+10#Hydroelecric power plant#10.10#Blade angles#Ex10_10.sce#1943/CH10/EX10.10/Ex10_10.sce#S##99700
+10#Hydroelecric power plant#10.1#Efficiency of the runner#Ex10_1.sce#1943/CH10/EX10.1/Ex10_1.sce#S##99691
+9#Nuclear Power Plants#9.9#Rating of reactor#Ex9_9.sce#1943/CH9/EX9.9/Ex9_9.sce#S##99688
+9#Nuclear Power Plants#9.8#Number of collisions#Ex9_8.sce#1943/CH9/EX9.8/Ex9_8.sce#S##99687
+9#Nuclear Power Plants#9.7#Thermal neutron flux#Ex9_7.sce#1943/CH9/EX9.7/Ex9_7.sce#S##99686
+9#Nuclear Power Plants#9.6#Microscopic absorption#Ex9_6.sce#1943/CH9/EX9.6/Ex9_6.sce#S##99685
+9#Nuclear Power Plants#9.5#Microscopic absorption#Ex9_5.sce#1943/CH9/EX9.5/Ex9_5.sce#S##99684
+9#Nuclear Power Plants#9.4#Area required#Ex9_4.sce#1943/CH9/EX9.4/Ex9_4.sce#S##99683
+9#Nuclear Power Plants#9.3#Fuel consumption#Ex9_3.sce#1943/CH9/EX9.3/Ex9_3.sce#S##99682
+9#Nuclear Power Plants#9.2#Decay constant#Ex9_2.sce#1943/CH9/EX9.2/Ex9_2.sce#S##99681
+9#Nuclear Power Plants#9.11#Reactor power level#Ex9_11.sce#1943/CH9/EX9.11/Ex9_11.sce#S##99690
+9#Nuclear Power Plants#9.10#Specific energy release rate#Ex9_10.sce#1943/CH9/EX9.10/Ex9_10.sce#S##99689
+9#Nuclear Power Plants#9.1#Mass defect and binding energy#Ex9_1.sce#1943/CH9/EX9.1/Ex9_1.sce#S##99676
+8#Condenser Feedwater and Circulating water systems#8.4#Temperature of water#Ex8_4.sce#1943/CH8/EX8.4/Ex8_4.sce#S##99680
+8#Condenser Feedwater and Circulating water systems#8.3#Temperature of water#Ex8_3.sce#1943/CH8/EX8.3/Ex8_3.sce#S##99679
+8#Condenser Feedwater and Circulating water systems#8.2#Rate of flow#Ex8_2.sce#1943/CH8/EX8.2/Ex8_2.sce#S##99678
+8#Condenser Feedwater and Circulating water systems#8.1#Rate of flow#Ex8_1.sce#1943/CH8/EX8.1/Ex8_1.sce#S##99677
+7#Steam Turbines#7.9#Force Thrust and efficiency#Ex7_9.sce#1943/CH7/EX7.9/Ex7_9.sce#S##99657
+7#Steam Turbines#7.8#Exit area#Ex7_8.sce#1943/CH7/EX7.8/Ex7_8.sce#S##99656
+7#Steam Turbines#7.7#Exit area#Ex7_7.sce#1943/CH7/EX7.7/Ex7_7.sce#S##99655
+7#Steam Turbines#7.6#Mass flow rate#Ex7_6.sce#1943/CH7/EX7.6/Ex7_6.sce#S##99654
+7#Steam Turbines#7.5#Throat and exit area#Ex7_5.sce#1943/CH7/EX7.5/Ex7_5.sce#S##99653
+7#Steam Turbines#7.4#Throat and exit area#Ex7_4.sce#1943/CH7/EX7.4/Ex7_4.sce#S##99652
+7#Steam Turbines#7.3#Throat and exit area#Ex7_3.sce#1943/CH7/EX7.3/Ex7_3.sce#S##99651
+7#Steam Turbines#7.28#Efficiency#Ex7_28.sce#1943/CH7/EX7.28/Ex7_28.sce#S##99675
+7#Steam Turbines#7.27#Intercasting steam condition#Ex7_27.sce#1943/CH7/EX7.27/Ex7_27.sce#S##99674
+7#Steam Turbines#7.26#Height of blades#Ex7_26.sce#1943/CH7/EX7.26/Ex7_26.sce#S##99673
+7#Steam Turbines#7.25#Mean blade diameter#Ex7_25.sce#1943/CH7/EX7.25/Ex7_25.sce#S##99672
+7#Steam Turbines#7.23#Interstage pressures#Ex7_23.sce#1943/CH7/EX7.23/Ex7_23.sce#S##99671
+7#Steam Turbines#7.22#Number of stages#Ex7_22.sce#1943/CH7/EX7.22/Ex7_22.sce#S##99670
+7#Steam Turbines#7.21#Mean diamter of wheel#Ex7_21.sce#1943/CH7/EX7.21/Ex7_21.sce#S##99669
+7#Steam Turbines#7.20#Height of blades#Ex7_20.sce#1943/CH7/EX7.20/Ex7_20.sce#S##99668
+7#Steam Turbines#7.2#Minimum area#Ex7_2.sce#1943/CH7/EX7.2/Ex7_2.sce#S##99650
+7#Steam Turbines#7.19#Number of impulse stages#Ex7_19.sce#1943/CH7/EX7.19/Ex7_19.sce#S##99667
+7#Steam Turbines#7.18#Diagram power#Ex7_18.sce#1943/CH7/EX7.18/Ex7_18.sce#S##99666
+7#Steam Turbines#7.17#Power developed#Ex7_17.sce#1943/CH7/EX7.17/Ex7_17.sce#S##99665
+7#Steam Turbines#7.16#Power developed#Ex7_16.sce#1943/CH7/EX7.16/Ex7_16.sce#S##99664
+7#Steam Turbines#7.15#Power output and efficiency#Ex7_15.sce#1943/CH7/EX7.15/Ex7_15.sce#S##99663
+7#Steam Turbines#7.14#Workdone and efficiency#Ex7_14.sce#1943/CH7/EX7.14/Ex7_14.sce#S##99662
+7#Steam Turbines#7.13#Thrust Power and efficiency#Ex7_13.sce#1943/CH7/EX7.13/Ex7_13.sce#S##99661
+7#Steam Turbines#7.12#Thrust Power and efficiency#Ex7_12.sce#1943/CH7/EX7.12/Ex7_12.sce#S##99660
+7#Steam Turbines#7.11#Power developed#Ex7_11.sce#1943/CH7/EX7.11/Ex7_11.sce#S##99659
+7#Steam Turbines#7.10#Workdone and efficiency#Ex7_10.sce#1943/CH7/EX7.10/Ex7_10.sce#S##99658
+7#Steam Turbines#7.1#Maximum area#Ex7_1.sce#1943/CH7/EX7.1/Ex7_1.sce#S##99649
+6#Steam generators#6.8#Number of coils needed#Ex6_8.sce#1943/CH6/EX6.8/Ex6_8.sce#S##99648
+6#Steam generators#6.7#Number of tubes and the length#Ex6_7.sce#1943/CH6/EX6.7/Ex6_7.sce#S##99647
+6#Steam generators#6.6#Number of coils needed#Ex6_6.sce#1943/CH6/EX6.6/Ex6_6.sce#S##99646
+6#Steam generators#6.5#Blowdown#Ex6_5.sce#1943/CH6/EX6.5/Ex6_5.sce#S##99645
+6#Steam generators#6.4#Steam generation rate#Ex6_4.sce#1943/CH6/EX6.4/Ex6_4.sce#S##99644
+6#Steam generators#6.3#Pressure head#Ex6_3.sce#1943/CH6/EX6.3/Ex6_3.sce#S##99643
+6#Steam generators#6.2#Amount of water required#Ex6_2.sce#1943/CH6/EX6.2/Ex6_2.sce#S##99642
+6#Steam generators#6.1#Pressure head#Ex6_1.sce#1943/CH6/EX6.1/Ex6_1.sce#S##99641
+5#Combustion Mechanism Combustion equipment and Firing Methods#5.6#Platform area#Ex5_6.sce#1943/CH5/EX5.6/Ex5_6.sce#S##99640
+5#Combustion Mechanism Combustion equipment and Firing Methods#5.5#Rate of heat removed#Ex5_5.sce#1943/CH5/EX5.5/Ex5_5.sce#S##99639
+5#Combustion Mechanism Combustion equipment and Firing Methods#5.4#Flow rate of limestone#Ex5_4.sce#1943/CH5/EX5.4/Ex5_4.sce#S##99638
+5#Combustion Mechanism Combustion equipment and Firing Methods#5.3#Sphericity of particles#Ex5_3.sce#1943/CH5/EX5.3/Ex5_3.sce#S##99637
+5#Combustion Mechanism Combustion equipment and Firing Methods#5.2#Voidage of the bed#Ex5_2.sce#1943/CH5/EX5.2/Ex5_2.sce#S##99636
+5#Combustion Mechanism Combustion equipment and Firing Methods#5.1#Total surface area#Ex5_1.sce#1943/CH5/EX5.1/Ex5_1.sce#S##99635
+4#Fuels and combustion#4.9#Motor capacity#Ex4_9.sce#1943/CH4/EX4.9/Ex4_9.sce#S##99630
+4#Fuels and combustion#4.8#Height of stack and diameter of base#Ex4_8.sce#1943/CH4/EX4.8/Ex4_8.sce#S##99629
+4#Fuels and combustion#4.7#Air leakage#Ex4_7.sce#1943/CH4/EX4.7/Ex4_7.sce#S##99628
+4#Fuels and combustion#4.6#Flue gas analysis#Ex4_6.sce#1943/CH4/EX4.6/Ex4_6.sce#S##99627
+4#Fuels and combustion#4.5#Total volume of combustion#Ex4_5.sce#1943/CH4/EX4.5/Ex4_5.sce#S##99626
+4#Fuels and combustion#4.4#Power output and efficiency#Ex4_4.sce#1943/CH4/EX4.4/Ex4_4.sce#S##99625
+4#Fuels and combustion#4.3#Air fuel ratio#Ex4_3.sce#1943/CH4/EX4.3/Ex4_3.sce#S##99624
+4#Fuels and combustion#4.2#Percentage of excess air#Ex4_2.sce#1943/CH4/EX4.2/Ex4_2.sce#S##99623
+4#Fuels and combustion#4.13#Thermal efficiency#Ex4_13.sce#1943/CH4/EX4.13/Ex4_13.sce#S##99634
+4#Fuels and combustion#4.12#Height of gas plume#Ex4_12.sce#1943/CH4/EX4.12/Ex4_12.sce#S##99633
+4#Fuels and combustion#4.11#Volumetric composition#Ex4_11.sce#1943/CH4/EX4.11/Ex4_11.sce#S##99632
+4#Fuels and combustion#4.10#Motor capacity#Ex4_10.sce#1943/CH4/EX4.10/Ex4_10.sce#S##99631
+4#Fuels and combustion#4.1#Mass flow rate#Ex4_1.sce#1943/CH4/EX4.1/Ex4_1.sce#S##99622
+3#Combined Cycle Power Generation#3.8#Thermal efficiency#Ex3_8.sce#1943/CH3/EX3.8/Ex3_8.sce#S##99621
+3#Combined Cycle Power Generation#3.7#Power output and efficiency#Ex3_7.sce#1943/CH3/EX3.7/Ex3_7.sce#S##99620
+3#Combined Cycle Power Generation#3.6#Overall efficiency#Ex3_6.sce#1943/CH3/EX3.6/Ex3_6.sce#S##99619
+3#Combined Cycle Power Generation#3.5#Overall efficiency#Ex3_5.sce#1943/CH3/EX3.5/Ex3_5.sce#S##99618
+3#Combined Cycle Power Generation#3.4#Power output and efficiency#Ex3_4.sce#1943/CH3/EX3.4/Ex3_4.sce#S##99617
+3#Combined Cycle Power Generation#3.3#Mass flow rate#Ex3_3.sce#1943/CH3/EX3.3/Ex3_3.sce#S##99616
+3#Combined Cycle Power Generation#3.2#Rate of heat transfer#Ex3_2.sce#1943/CH3/EX3.2/Ex3_2.sce#S##99615
+3#Combined Cycle Power Generation#3.1#Efficiency of combined cycle#Ex3_1.sce#1943/CH3/EX3.1/Ex3_1.sce#S##99614
+2#Analysis of Steam Cycles#2.9#Power developed#Ex2_9.sce#1943/CH2/EX2.9/Ex2_9.sce#S##99613
+2#Analysis of Steam Cycles#2.8#Steam generation capacity#Ex2_8.sce#1943/CH2/EX2.8/Ex2_8.sce#S##99612
+2#Analysis of Steam Cycles#2.7#Steam condition#Ex2_7.sce#1943/CH2/EX2.7/Ex2_7.sce#S##99611
+2#Analysis of Steam Cycles#2.6#Cycle efficiency#Ex2_6.sce#1943/CH2/EX2.6/Ex2_6.sce#S##99610
+2#Analysis of Steam Cycles#2.5#Percentage of total heat absorption#Ex2_5.sce#1943/CH2/EX2.5/Ex2_5.sce#S##99609
+2#Analysis of Steam Cycles#2.4#Percentage of total electricity#Ex2_4.sce#1943/CH2/EX2.4/Ex2_4.sce#S##99608
+2#Analysis of Steam Cycles#2.3#Optimum pressures and temperatures#Ex2_3.sce#1943/CH2/EX2.3/Ex2_3.sce#S##99607
+2#Analysis of Steam Cycles#2.2#Mass flow rate #Ex2_2.sce#1943/CH2/EX2.2/Ex2_2.sce#S##99606
+2#Analysis of Steam Cycles#2.1#Power output and efficiency#Ex2_1.sce#1943/CH2/EX2.1/Ex2_1.sce#S##99605
+1#Introduction Economics of Power Generation#1.9#Load factor and capacity factor#Ex1_9.sce#1943/CH1/EX1.9/Ex1_9.sce#S##99598
+1#Introduction Economics of Power Generation#1.8#Cost of power generation#Ex1_8.sce#1943/CH1/EX1.8/Ex1_8.sce#S##99597
+1#Introduction Economics of Power Generation#1.7#Economic loading#Ex1_7.sce#1943/CH1/EX1.7/Ex1_7.sce#S##99596
+1#Introduction Economics of Power Generation#1.6#Cost of power generation#Ex1_6.sce#1943/CH1/EX1.6/Ex1_6.sce#S##99595
+1#Introduction Economics of Power Generation#1.5#Overall cost#Ex1_5.sce#1943/CH1/EX1.5/Ex1_5.sce#S##99594
+1#Introduction Economics of Power Generation#1.4#Annual energy #Ex1_4.sce#1943/CH1/EX1.4/Ex1_4.sce#S##99593
+1#Introduction Economics of Power Generation#1.3#Annual Revenue#Ex1_3.sce#1943/CH1/EX1.3/Ex1_3.sce#S##97634
+1#Introduction Economics of Power Generation#1.2#Average load#Ex1_2.sce#1943/CH1/EX1.2/Ex1_2.sce#S##97633
+1#Introduction Economics of Power Generation#1.15#Cost of electrical energy#Ex1_15.sce#1943/CH1/EX1.15/Ex1_15.sce#S##99604
+1#Introduction Economics of Power Generation#1.14#Increamental heat rate#Ex1_14.sce#1943/CH1/EX1.14/Ex1_14.sce#S##99603
+1#Introduction Economics of Power Generation#1.13#Present worth of the payments#Ex1_13.sce#1943/CH1/EX1.13/Ex1_13.sce#S##99602
+1#Introduction Economics of Power Generation#1.12#Amount of money saved#Ex1_12.sce#1943/CH1/EX1.12/Ex1_12.sce#S##99601
+1#Introduction Economics of Power Generation#1.11#Overall cost#Ex1_11.sce#1943/CH1/EX1.11/Ex1_11.sce#S##99600
+1#Introduction Economics of Power Generation#1.10#Load factor and capacity factor#Ex1_10.sce#1943/CH1/EX1.10/Ex1_10.sce#S##99599
+1#Introduction Economics of Power Generation#1.1#Load factor#Ex1_1.sce#1943/CH1/EX1.1/Ex1_1.sce#S##97632

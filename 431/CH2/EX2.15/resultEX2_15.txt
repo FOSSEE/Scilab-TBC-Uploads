@@ -1,0 +1,8 @@
+  
+ Example 2.15   
+Full load current=2727.272727A
+Ra=0.003361ohms
+Induced emf=559.166667volts
+flux density=0.900000Wb/m^2
+flux=0.089467Wb
+ Area of pole shoe=994.074074cm^2 

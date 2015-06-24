@@ -1,0 +1,3 @@
+total conversion time(in second)=   
+ 
+    0.00173

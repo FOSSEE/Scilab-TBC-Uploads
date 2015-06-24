@@ -1,0 +1,2 @@
+ Polarisation vector is 1.770000e-05 C/m^2. 
+ Displacement vector is 2.655000e-05 C/m^2

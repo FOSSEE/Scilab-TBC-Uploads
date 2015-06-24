@@ -1,0 +1,1 @@
+ Amount of fuel required per day is 3.511539 kg.

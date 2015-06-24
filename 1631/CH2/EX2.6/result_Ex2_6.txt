@@ -1,0 +1,3 @@
+ probability that problem willbe solved   
+ 
+    0.9375  

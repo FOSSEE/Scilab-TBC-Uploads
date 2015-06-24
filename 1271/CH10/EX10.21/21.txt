@@ -1,0 +1,5 @@
+
+ # PROBLEM 21 # 
+Standard formula used 
+ E = q * v.
+ Energy gained by alpha particle = 3.200000e-16 J.

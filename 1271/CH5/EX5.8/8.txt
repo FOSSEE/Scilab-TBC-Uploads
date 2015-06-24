@@ -1,0 +1,2 @@
+ Diameter of core < 7.896296e-06 meter,
+ number of modes = 115

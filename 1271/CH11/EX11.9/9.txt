@@ -1,0 +1,2 @@
+ Speed of electron is 0.979016 c.
+ Mass of electron is 4.465556e-30 kg.

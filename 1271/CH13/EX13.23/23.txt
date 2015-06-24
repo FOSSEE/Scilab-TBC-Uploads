@@ -1,0 +1,2 @@
+
+ Ratio of number of Schottky defects to total number of cation-anion pairs is 1.116423e-17 . 

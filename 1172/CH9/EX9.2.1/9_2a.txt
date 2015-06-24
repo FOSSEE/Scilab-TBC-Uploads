@@ -1,0 +1,4 @@
+ # Problem 2a # 
+Standard formula used 
+	 M = m - 2.5log(L/L_0) 
+ Change in magnitude is 0.752575 times

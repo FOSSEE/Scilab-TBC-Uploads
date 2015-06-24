@@ -1,0 +1,6 @@
+
+ # Problem 19a # 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c)
+ Change in frequency  is 0.024259 Hz.

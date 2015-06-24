@@ -1,0 +1,11 @@
+clear;
+clc;
+Ri1=72;Ri2=52;
+R1=Ri1*sqrt(1-(Ri2/Ri1));
+R2=Ri2/sqrt(1-(Ri2/Ri1));
+x=sqrt(Ri1/Ri2);
+L=20*log10(x+(sqrt((x*x)-1)));
+printf("The desired elements will be:\n");
+printf(" R1 = %f ohms\n",round(R1));
+printf(" R2 = %f ohms\n",fix(R2*10)/10);
+printf(" Value of loss produced by the network = %f db",round(L));

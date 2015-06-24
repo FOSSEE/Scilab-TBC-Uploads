@@ -1,0 +1,13 @@
+
+Average Demand= 15.00 MW 
+
+Installed capacity= 30.00 MW 
+
+Reserve capacity of the plant= 5.00 MW 
+
+Daily energy produced= 360 MWh 
+
+Energy corresponding to installed capacity per day= 720 MWh 
+
+Maximum energy that could be produced = 500 MWh/day 
+

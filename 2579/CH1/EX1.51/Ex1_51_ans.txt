@@ -1,0 +1,3 @@
+ The power radiated = 144.000000 Watts
+ The loss resistance = 2 ohm
+ The ohmic loss = 16.000000 watts

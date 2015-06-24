@@ -1,0 +1,6 @@
+# PROBLEM 26 # 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+
+ Wavelength of light is 6787 angstrom.

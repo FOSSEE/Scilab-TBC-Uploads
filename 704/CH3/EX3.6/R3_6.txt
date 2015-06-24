@@ -1,0 +1,4 @@
+voltage of the secondary terminal(in Volts)=   
+ 
+    200.  
+ 

@@ -1,0 +1,3 @@
+
+ Example 2.3
+ Modulus of resilience of body is 4.16 Nm/m^3. 

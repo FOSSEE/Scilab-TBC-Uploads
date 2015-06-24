@@ -1,0 +1,10 @@
+Indices of the plane corresponding to peak 1 is 1
+Indices of the plane corresponding to peak 2 is 2.0
+Indices of the plane corresponding to peak 3 is 3.0
+Indices of the plane corresponding to peak 4 is 4.0
+Indices of the plane corresponding to peak 5 is 5.0
+Indices of the plane corresponding to peak 6 is 6.0
+Indices of the plane corresponding to peak 7 is 7.0
+Indices of the plane corresponding to peak 8 is 8.0
+The material corresonds to bcc structure
+Lattice parameter of the material a=0.2868nm 

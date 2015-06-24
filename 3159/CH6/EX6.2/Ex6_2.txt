@@ -1,0 +1,3 @@
+
+ Example 6.2
+ Line energy of dislocation is 2.49e-09 J m^-1 

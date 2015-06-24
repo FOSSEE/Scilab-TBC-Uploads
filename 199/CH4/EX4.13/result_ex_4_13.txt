@@ -1,0 +1,1 @@
+* Change in output offset voltage is = 0.0028 V 

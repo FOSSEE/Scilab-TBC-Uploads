@@ -1,0 +1,7 @@
+Linear Density per unit length along direction [110] (in atoms/mm) =   
+ 
+    3917489.1  
+ 
+ Linear Density per unit length along direction [111] (in atoms/mm) =   
+ 
+    1599308.2  

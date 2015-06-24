@@ -1,0 +1,9 @@
+(i)	 Max. demand on station = 20 MW 
+
+(ii)	 Units generated/day = 105120000 kWh 
+
+(iii)	 Installed capacity = 24.0 MW 
+
+		 Suitable unit sizes are 6.0 MW 
+
+

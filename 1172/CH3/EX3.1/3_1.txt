@@ -1,0 +1,5 @@
+
+ # Problem 1 # 
+Standard formula Used 
+ ( 1/2)*m*v^2 = h*nu - phi
+ Maximum velocity of photoelectron can be 1.211060e+06  m/s.. 

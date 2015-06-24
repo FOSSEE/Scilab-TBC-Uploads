@@ -1,0 +1,11 @@
+ Example 2.14   
+Field current,If=2.500000 
+ When machine is generating   
+
+Ia=82.500000A
+Eg=259.900000V 
+ When machine is motoring   
+
+Ia=77.500000A
+Eg=240.700000V
+Ratio of speeds=1.079767 

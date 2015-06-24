@@ -1,0 +1,4 @@
+
+
+Example 1.30
+ Group velocity of seawater waves is 16.283493 m/s.

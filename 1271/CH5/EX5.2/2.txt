@@ -1,0 +1,2 @@
+Numerical aperture = 0.556776.
+ Maximum incidence angle = 33.833159 degree.

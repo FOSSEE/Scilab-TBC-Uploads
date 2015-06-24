@@ -1,0 +1,4 @@
+MAx demand charges = Rs. 72 per kVA per annum
+Expenditure on phase advancing equipment = Rs. 12 /kVAR/annum 
+Most economical power factor at which factory should operate = 0.986 lag 
+

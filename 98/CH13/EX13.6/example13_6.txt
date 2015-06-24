@@ -1,0 +1,5 @@
+Resistance per metre length of the distributor = 0.20*10^-3 ohm 
+
+Area of cross section of the distributor = 1.7 cm^2 
+
+

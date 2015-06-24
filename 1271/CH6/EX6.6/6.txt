@@ -1,0 +1,1 @@
+Lamoure radius = 6.745369 meter

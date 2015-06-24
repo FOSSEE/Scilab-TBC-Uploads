@@ -1,0 +1,20 @@
+  
+ Rupture Energy (in kgf-m) =    
+ 
+    5.8  
+ 
+ Modulous Of Rupture (in kgf/sqm) =    
+ 
+    966666.67  
+ 
+ Notch Imapct Strength (in kg/m) =    
+ 
+    72500.  
+ 
+ Height risen by Hammer (in m) =    
+ 
+    1.25194  
+ 
+ Angle after Breaking the specimen (in degress) =    
+ 
+    124.39708 

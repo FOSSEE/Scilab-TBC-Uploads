@@ -1,0 +1,2 @@
+**Sample Problem 16-6**
+The time period of oscillation is 0.348528s 

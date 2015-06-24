@@ -1,0 +1,7 @@
+  
+ Exa-3.3(a)   
+The Energy of the electron is 3.060e-019 J which is equivalent to 1.912500 eV
+The momentum of electron is p=E/c i.e 1.91/c 
+ 
+ Exa-3.3(b)   
+The wavelength of the photon is 517.97 nm

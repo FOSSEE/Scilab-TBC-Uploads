@@ -1,0 +1,5 @@
+ The magnitude of electric field = 12.566371 uV/m
+ The magnitude of magnetic field = 3.333333*10^-8 AT/m
+ The maximum power radiated = 0.877298 watts
+ The average power radiated = 0.438649 watts
+ The radiation resistance = 0.877298 ohm

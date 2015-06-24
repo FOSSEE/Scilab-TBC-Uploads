@@ -1,0 +1,7 @@
+(a)% reduction in stator voltage(in %)=   
+ 
+    24.239555  
+ 
+ (b)Power factor=   
+ 
+    0.3589791 

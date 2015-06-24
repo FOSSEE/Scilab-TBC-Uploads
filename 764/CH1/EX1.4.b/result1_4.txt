@@ -1,0 +1,46 @@
+-->//Introduction Example 1.4
+ 
+-->//Initial value of the series (diameter in mm)
+ 
+-->a = 100
+ a  =
+ 
+    100.  
+ 
+-->//Final value of the series (diameter in mm)
+ 
+-->b = 1000
+ b  =
+ 
+    1000.  
+ 
+-->//Eleven shafts to be standardized
+ 
+-->n = 11 - 1
+ n  =
+ 
+    10.  
+ 
+
+Diameter 1: 100.000000 = 100.000000
+
+Diameter 2: 125.892541 = 126.000000
+
+Diameter 3: 158.489319 = 158.000000
+
+Diameter 4: 199.526231 = 200.000000
+
+Diameter 5: 251.188643 = 251.000000
+
+Diameter 6: 316.227766 = 316.000000
+
+Diameter 7: 398.107171 = 398.000000
+
+Diameter 8: 501.187234 = 501.000000
+
+Diameter 9: 630.957344 = 631.000000
+
+Diameter 10: 794.328235 = 794.000000
+
+Diameter 11: 1000.000000 = 1000.000000
+ 

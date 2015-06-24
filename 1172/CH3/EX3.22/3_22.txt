@@ -1,0 +1,16 @@
+ # Problem 22 # 
+
+ Standard formula Used 
+ E= h^2 * (n_x^2+n_y^2+n_z^2) / (8*m*L^2)Warning : redefining function: sum                     . Use funcprot(0) to avoid this message
+
+
+ 
+ E111 is  112.190934 eV. 
+ 
+ E112 is  224.381868 eV. 
+ 
+ E211 is  224.381868 eV. 
+ 
+ E212 is  336.572802 eV. 
+ 
+ E311 is  411.366758 eV. 

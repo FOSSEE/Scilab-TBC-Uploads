@@ -1,0 +1,2 @@
+Peak-to-peak output is 0.26 Volts
+Frequency is 250 Hertz

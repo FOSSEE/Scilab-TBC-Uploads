@@ -1,0 +1,3 @@
+ Probability of balls will be in different colours   
+ 
+    0.25 

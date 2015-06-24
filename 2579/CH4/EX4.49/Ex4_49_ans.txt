@@ -1,0 +1,4 @@
+ The gain of the horn = 27.590165
+ The the gain of the horn in dB = 14.407543 dB
+ The half power point beam width in E-plane = 40.263158 degree
+ The half power point beam width in H-plane = 38.653846 degree 

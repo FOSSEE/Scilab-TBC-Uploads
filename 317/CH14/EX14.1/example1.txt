@@ -1,0 +1,1 @@
+Values of Drain current is 2.67, 0.667, 6, 10.7, 16.7  mAmperes respectively.

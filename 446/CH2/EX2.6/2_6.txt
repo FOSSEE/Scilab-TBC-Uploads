@@ -1,0 +1,17 @@
+ 
+ Exa-2.6(a)   
+The time for rocket to pass a point as measured by O is 2.71e-007.
+ 
+ Exa-2.6(b)   
+Actual length according to O is 108.33.
+ 
+ Exa-2.6(c)   
+Contracted length according to O' is 3.90e+001.
+ 
+ Exa-2.6(d)   
+Time taken according to O is 4.51e-007.
+ 
+ Exa-2.6(e)   
+Time taken according to O' is 2.89e-007.
+ 
+ The value of t1 and t2 did not match.  

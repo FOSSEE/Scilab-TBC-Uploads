@@ -1,0 +1,2 @@
+Velocity of rocket w.r.t. earth in first case = 0.915493 c away from the earth.
+ Velocity of rocket w.r.t. earth in second case = -0.172414 c away from the earth 

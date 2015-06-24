@@ -1,0 +1,5 @@
+  
+ Voltage standing wave ratio =   
+ 
+    1.4467052  
+ 

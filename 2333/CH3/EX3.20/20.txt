@@ -1,0 +1,5 @@
+# PROBLEM 20 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N 
+ 
+ Grating Element is 3.200000e-04 cm.

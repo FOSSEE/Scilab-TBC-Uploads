@@ -1,0 +1,13 @@
+ # PROBLEM 20 # 
+Standard formula used 
+ E = (n^2 * h^2) / (8 * m * L^2)) 
+ p_n = n*h/(2*pi) 
+
+ Energy Eigen value of electron -
+ For (n=1) is 6.019835e-18 J.
+ For (n=2) is 2.407934e-17 J.
+ For (n=3) is 5.417852e-17 J. 
+de-Broglie wavelength of electron -
+ For (n=1) is 2.000000 A.
+ For (n=2) is 1.000000 A. 
+ For (n=3) is 0.666667 A

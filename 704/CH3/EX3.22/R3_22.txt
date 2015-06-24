@@ -1,0 +1,12 @@
+ 
+ Voltage regulation at 0.8 lagging power factor(in %)=   
+ 
+    3.6869936  
+ 
+ Voltage regulation at unity power factor(in %)=   
+ 
+    2.1982736  
+ 
+ Voltage regulation at 0.8 leading power factor(in %)=   
+ 
+  - 0.1697557  

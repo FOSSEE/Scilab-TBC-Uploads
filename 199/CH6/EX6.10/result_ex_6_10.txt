@@ -1,0 +1,2 @@
+* Minimum input voltage is = 1.1 V 
+* Maximum input voltage is = 7.48 V 

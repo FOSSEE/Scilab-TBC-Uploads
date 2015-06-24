@@ -1,0 +1,2 @@
+**Sample Problem 10-2**
+The velocity of the bullet before collision is 632.749529m/s 

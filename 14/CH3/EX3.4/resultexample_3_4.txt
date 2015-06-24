@@ -1,0 +1,9 @@
+ Inductance = 12.9969e-7 H/m 
+
+
+
+ Inductive reactance = 0.7884 ohm/mi/phase 
+
+
+
+ Inductive reactance from Xa and Xd = 0.7880 ohm/mi/phase 

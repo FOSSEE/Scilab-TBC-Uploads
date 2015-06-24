@@ -1,0 +1,190 @@
+18#Electrical Measuring Instruments#18.9#Angle of Deflection#Ex18_9.sce#1628/CH18/EX18.9/Ex18_9.sce#S##81332
+18#Electrical Measuring Instruments#18.8#Deflection in the  Torque#Ex18_8.sce#1628/CH18/EX18.8/Ex18_8.sce#S##81331
+18#Electrical Measuring Instruments#18.7#Angle of Deflection#Ex18_7.sce#1628/CH18/EX18.7/Ex18_7.sce#S##81330
+18#Electrical Measuring Instruments#18.6#Voltage And Error#Ex18_6.sce#1628/CH18/EX18.6/Ex18_6.sce#S##81329
+18#Electrical Measuring Instruments#18.5#Resistance And Multiplying Factor#Ex18_5.sce#1628/CH18/EX18.5/Ex18_5.sce#S##81328
+18#Electrical Measuring Instruments#18.4#Resistance#Ex18_4.sce#1628/CH18/EX18.4/Ex18_4.sce#S##81327
+18#Electrical Measuring Instruments#18.2#Resistance#Ex18_2.sce#1628/CH18/EX18.2/Ex18_2.sce#S##81326
+18#Electrical Measuring Instruments#18.10#Current#Ex18_10.sce#1628/CH18/EX18.10/Ex18_10.sce#S##81333
+18#Electrical Measuring Instruments#18.1#Torque#Ex18_1.sce#1628/CH18/EX18.1/Ex18_1.sce#S##81324
+17#Fractional Horse Power Motors#17.6#No of Rotors And Stators Theeth#Ex17_6.sce#1628/CH17/EX17.6/Ex17_6.sce#S##81321
+17#Fractional Horse Power Motors#17.5#No of Rotors And Stators#Ex17_5.sce#1628/CH17/EX17.5/Ex17_5.sce#S##81319
+17#Fractional Horse Power Motors#17.4#Revolution Steps And Speed#Ex17_4.sce#1628/CH17/EX17.4/Ex17_4.sce#S##81318
+17#Fractional Horse Power Motors#17.3#Capacitor#Ex17_3.sce#1628/CH17/EX17.3/Ex17_3.sce#S##81316
+17#Fractional Horse Power Motors#17.2#Current Phase Angle And Power Factor#Ex17_2.sce#1628/CH17/EX17.2/Ex17_2.sce#S##81314
+17#Fractional Horse Power Motors#17.1#Slip And Efficiency#Ex17_1.sce#1628/CH17/EX17.1/Ex17_1.sce#S##81313
+16#DC Machines#16.9#Current And Resistance#Ex16_9.sce#1628/CH16/EX16.9/Ex16_9.sce#S##87147
+16#DC Machines#16.8#Voltage Efficiency And Power#Ex16_8.sce#1628/CH16/EX16.8/Ex16_8.sce#S##81292
+16#DC Machines#16.7#Emf#Ex16_7.sce#1628/CH16/EX16.7/Ex16_7.sce#S##81290
+16#DC Machines#16.6#Voltage And Current#Ex16_6.sce#1628/CH16/EX16.6/Ex16_6.sce#S##81288
+16#DC Machines#16.5#Voltage#Ex16_5.sce#1628/CH16/EX16.5/Ex16_5.sce#S##81287
+16#DC Machines#16.4#Speed And increase in flux#Ex16_4.sce#1628/CH16/EX16.4/Ex16_4.sce#S##81285
+16#DC Machines#16.3#Emf#Ex16_3.sce#1628/CH16/EX16.3/Ex16_3.sce#S##81284
+16#DC Machines#16.20#Speed#Ex16_20.sce#1628/CH16/EX16.20/Ex16_20.sce#S##81310
+16#DC Machines#16.2#Emf#Ex16_2.sce#1628/CH16/EX16.2/Ex16_2.sce#S##81283
+16#DC Machines#16.19#Resistance#Ex16_19.sce#1628/CH16/EX16.19/Ex16_19.sce#S##81309
+16#DC Machines#16.18#Speed And Torque#Ex16_18.sce#1628/CH16/EX16.18/Ex16_18.sce#S##81308
+16#DC Machines#16.17#Current#Ex16_17.sce#1628/CH16/EX16.17/Ex16_17.sce#S##81306
+16#DC Machines#16.16#Speed#Ex16_16.sce#1628/CH16/EX16.16/Ex16_16.sce#S##81305
+16#DC Machines#16.15#Power#Ex16_15.sce#1628/CH16/EX16.15/Ex16_15.sce#S##81303
+16#DC Machines#16.14#Speed And Torque#Ex16_14.sce#1628/CH16/EX16.14/Ex16_14.sce#S##81302
+16#DC Machines#16.13#Speed#Ex16_13.sce#1628/CH16/EX16.13/Ex16_13.sce#S##81301
+16#DC Machines#16.12#Speed#Ex16_12.sce#1628/CH16/EX16.12/Ex16_12.sce#S##81299
+16#DC Machines#16.11#Voltage#Ex16_11.sce#1628/CH16/EX16.11/Ex16_11.sce#S##81298
+16#DC Machines#16.10#Turns#Ex16_10.sce#1628/CH16/EX16.10/Ex16_10.sce#S##81295
+16#DC Machines#16.1#Voltage Current And Power#Ex16_1.sce#1628/CH16/EX16.1/Ex16_1.sce#S##81282
+15#Induction Motors#15.8#Resistance#Ex15_8.sce#1628/CH15/EX15.8/Ex15_8.sce#S##81279
+15#Induction Motors#15.7#Current Power And Speed#Ex15_7.sce#1628/CH15/EX15.7/Ex15_7.sce#S##81278
+15#Induction Motors#15.6#Power And Speed#Ex15_6.sce#1628/CH15/EX15.6/Ex15_6.sce#S##81276
+15#Induction Motors#15.5#Current#Ex15_5.sce#1628/CH15/EX15.5/Ex15_5.sce#S##81274
+15#Induction Motors#15.4#Speed And Frequency#Ex15_4.sce#1628/CH15/EX15.4/Ex15_4.sce#S##81273
+15#Induction Motors#15.3#Speed#Ex15_3.sce#1628/CH15/EX15.3/Ex15_3.sce#S##81272
+15#Induction Motors#15.2#Speed And Frequency#Ex15_2.sce#1628/CH15/EX15.2/Ex15_2.sce#S##81271
+15#Induction Motors#15.1#Speed And Frequency#Ex15_1.sce#1628/CH15/EX15.1/Ex15_1.sce#S##81270
+14#Alternators And Synchronous Motors#14.9#Current Power And Torque#Ex14_9.sce#1628/CH14/EX14.9/Ex14_9.sce#S##80719
+14#Alternators And Synchronous Motors#14.8#Emf#Ex14_8.sce#1628/CH14/EX14.8/Ex14_8.sce#S##80718
+14#Alternators And Synchronous Motors#14.7#Emf#Ex14_7.sce#1628/CH14/EX14.7/Ex14_7.sce#S##80717
+14#Alternators And Synchronous Motors#14.6#Emf And Angle#Ex14_6.sce#1628/CH14/EX14.6/Ex14_6.sce#S##80716
+14#Alternators And Synchronous Motors#14.5#Voltage Regulation#Ex14_5.sce#1628/CH14/EX14.5/Ex14_5.sce#S##80715
+14#Alternators And Synchronous Motors#14.4#Voltage Regulation#Ex14_4.sce#1628/CH14/EX14.4/Ex14_4.sce#S##80714
+14#Alternators And Synchronous Motors#14.3#Speed Emf And Voltage#Ex14_3.sce#1628/CH14/EX14.3/Ex14_3.sce#S##80713
+14#Alternators And Synchronous Motors#14.2#Distribution Factor#Ex14_2.sce#1628/CH14/EX14.2/Ex14_2.sce#S##80712
+14#Alternators And Synchronous Motors#14.1#Speed#Ex14_1.sce#1628/CH14/EX14.1/Ex14_1.sce#S##80711
+13#Transformers#13.9#Current And Power Factor#Ex13_9.sce#1628/CH13/EX13.9/Ex13_9.sce#S##80693
+13#Transformers#13.8#Power#Ex13_8.sce#1628/CH13/EX13.8/Ex13_8.sce#S##87148
+13#Transformers#13.7#Current And Power Factor#Ex13_7.sce#1628/CH13/EX13.7/Ex13_7.sce#S##80690
+13#Transformers#13.6#Turns#Ex13_6.sce#1628/CH13/EX13.6/Ex13_6.sce#S##80689
+13#Transformers#13.5#Power#Ex13_5.sce#1628/CH13/EX13.5/Ex13_5.sce#S##80687
+13#Transformers#13.4#Current#Ex13_4.sce#1628/CH13/EX13.4/Ex13_4.sce#S##80685
+13#Transformers#13.3#Turns Ratio#Ex13_3.sce#1628/CH13/EX13.3/Ex13_3.sce#S##80684
+13#Transformers#13.2#Flux Density Current And Voltage#Ex13_2.sce#1628/CH13/EX13.2/Ex13_2.sce#S##80683
+13#Transformers#13.16#Current And Resistance#Ex13_16.sce#1628/CH13/EX13.16/Ex13_16.sce#S##80707
+13#Transformers#13.15#Voltage#Ex13_15.sce#1628/CH13/EX13.15/Ex13_15.sce#S##80706
+13#Transformers#13.14#Power#Ex13_14.sce#1628/CH13/EX13.14/Ex13_14.sce#S##80704
+13#Transformers#13.13#Efficiency#Ex13_13.sce#1628/CH13/EX13.13/Ex13_13.sce#S##80703
+13#Transformers#13.12#Efficiency And Power#Ex13_12.sce#1628/CH13/EX13.12/Ex13_12.sce#S##80701
+13#Transformers#13.11#Regulation#Ex13_11.sce#1628/CH13/EX13.11/Ex13_11.sce#S##80698
+13#Transformers#13.10#Resistance And Power#Ex13_10.sce#1628/CH13/EX13.10/Ex13_10.sce#S##80696
+13#Transformers#13.1#Megnetic Flux And Voltage#Ex13_1.sce#1628/CH13/EX13.1/Ex13_1.sce#S##80682
+12#Three Phase Circuits And System#12.6#Current Power And Power Factor#Ex12_6.sce#1628/CH12/EX12.6/Ex12_6.sce#S##80674
+12#Three Phase Circuits And System#12.5#Power And Power Factor#Ex12_5.sce#1628/CH12/EX12.5/Ex12_5.sce#S##80672
+12#Three Phase Circuits And System#12.4#Current Power And Power Factor#Ex12_4.sce#1628/CH12/EX12.4/Ex12_4.sce#S##80671
+12#Three Phase Circuits And System#12.3#Current#Ex12_3.sce#1628/CH12/EX12.3/Ex12_3.sce#S##80669
+12#Three Phase Circuits And System#12.2#Current#Ex12_2.sce#1628/CH12/EX12.2/Ex12_2.sce#S##80668
+12#Three Phase Circuits And System#12.1#Current#Ex12_1.sce#1628/CH12/EX12.1/Ex12_1.sce#S##80665
+11#Resonance in AC Circuits#11.8#Frequence And Q Factor#Ex11_8.sce#1628/CH11/EX11.8/Ex11_8.sce#S##80662
+11#Resonance in AC Circuits#11.7#Resistance Current And Capacitor#Ex11_7.sce#1628/CH11/EX11.7/Ex11_7.sce#S##80661
+11#Resonance in AC Circuits#11.6#Frequence#Ex11_6.sce#1628/CH11/EX11.6/Ex11_6.sce#S##80660
+11#Resonance in AC Circuits#11.5#Frequence And Q Factor#Ex11_5.sce#1628/CH11/EX11.5/Ex11_5.sce#S##80659
+11#Resonance in AC Circuits#11.4#Capacitor Current And Enegy#Ex11_4.sce#1628/CH11/EX11.4/Ex11_4.sce#S##80657
+11#Resonance in AC Circuits#11.3#Inductor Current And Voltage#Ex11_3.sce#1628/CH11/EX11.3/Ex11_3.sce#S##80655
+11#Resonance in AC Circuits#11.2#Capacitor Voltage And Q FActor#Ex11_2.sce#1628/CH11/EX11.2/Ex11_2.sce#S##80653
+11#Resonance in AC Circuits#11.1#Frequence And Voltage#Ex11_1.sce#1628/CH11/EX11.1/Ex11_1.sce#S##80652
+10#AC Circuits#10.7#Resistance Power And Power Factor#Ex10_7.sce#1628/CH10/EX10.7/Ex10_7.sce#S##80648
+10#AC Circuits#10.6#Resistance And Capacitor#Ex10_6.sce#1628/CH10/EX10.6/Ex10_6.sce#S##80647
+10#AC Circuits#10.5#Reluctance And Inductor#Ex10_5.sce#1628/CH10/EX10.5/Ex10_5.sce#S##80646
+10#AC Circuits#10.4#Resistance Power And Power Factor#Ex10_4.sce#1628/CH10/EX10.4/Ex10_4.sce#S##80645
+10#AC Circuits#10.3# Resistance Voltage And Power#Ex10_3.sce#1628/CH10/EX10.3/Ex10_3.sce#S##80643
+10#AC Circuits#10.2#Current Power And Power Factor#Ex10_2.sce#1628/CH10/EX10.2/Ex10_2.sce#S##80641
+10#AC Circuits#10.1#Current Power And Power Factor#Ex10_1.sce#1628/CH10/EX10.1/Ex10_1.sce#S##80640
+9#Alternating Voltage And Current#9.9#Current#Ex9_9.sce#1628/CH9/EX9.9/Ex9_9.sce#S##80627
+9#Alternating Voltage And Current#9.8#Current#Ex9_8.sce#1628/CH9/EX9.8/Ex9_8.sce#S##80625
+9#Alternating Voltage And Current#9.7#Current#Ex9_7.sce#1628/CH9/EX9.7/Ex9_7.sce#S##80624
+9#Alternating Voltage And Current#9.6#Power#Ex9_6.sce#1628/CH9/EX9.6/Ex9_6.sce#S##80622
+9#Alternating Voltage And Current#9.5#Time#Ex9_5.sce#1628/CH9/EX9.5/Ex9_5.sce#S##80621
+9#Alternating Voltage And Current#9.4#Current And Time#Ex9_4.sce#1628/CH9/EX9.4/Ex9_4.sce#S##80618
+9#Alternating Voltage And Current#9.3#Voltage#Ex9_3.sce#1628/CH9/EX9.3/Ex9_3.sce#S##80616
+9#Alternating Voltage And Current#9.2#Voltage Time And Frequency#Ex9_2.sce#1628/CH9/EX9.2/Ex9_2.sce#S##80614
+9#Alternating Voltage And Current#9.15#Power And Power Factor#Ex9_15.sce#1628/CH9/EX9.15/Ex9_15.sce#S##80634
+9#Alternating Voltage And Current#9.14#Voltage And Power Factor#Ex9_14.sce#1628/CH9/EX9.14/Ex9_14.sce#S##80633
+9#Alternating Voltage And Current#9.13#Current And Power Factor#Ex9_13.sce#1628/CH9/EX9.13/Ex9_13.sce#S##80632
+9#Alternating Voltage And Current#9.12#Voltage#Ex9_12.sce#1628/CH9/EX9.12/Ex9_12.sce#S##80631
+9#Alternating Voltage And Current#9.11#Voltage#Ex9_11.sce#1628/CH9/EX9.11/Ex9_11.sce#S##80630
+9#Alternating Voltage And Current#9.10#Current#Ex9_10.sce#1628/CH9/EX9.10/Ex9_10.sce#S##80629
+9#Alternating Voltage And Current#9.1#Voltage And Angle#Ex9_1.sce#1628/CH9/EX9.1/Ex9_1.sce#S##80612
+8#DC Transients#8.8#Current#Ex8_8.sce#1628/CH8/EX8.8/Ex8_8.sce#S##80594
+8#DC Transients#8.7#Voltage And Current#Ex8_7.sce#1628/CH8/EX8.7/Ex8_7.sce#S##80592
+8#DC Transients#8.6#Voltage And Current#Ex8_6.sce#1628/CH8/EX8.6/Ex8_6.sce#S##80590
+8#DC Transients#8.5#Current#Ex8_5.sce#1628/CH8/EX8.5/Ex8_5.sce#S##80588
+8#DC Transients#8.4#Current#Ex8_4.sce#1628/CH8/EX8.4/Ex8_4.sce#S##80587
+8#DC Transients#8.3#Current And Time#Ex8_3.sce#1628/CH8/EX8.3/Ex8_3.sce#S##80586
+8#DC Transients#8.2#Current And Power#Ex8_2.sce#1628/CH8/EX8.2/Ex8_2.sce#S##80584
+8#DC Transients#8.1#Voltage#Ex8_1.sce#1628/CH8/EX8.1/Ex8_1.sce#S##81334
+7#Self And Mutual Inductances#7.9#Inductor#Ex7_9.sce#1628/CH7/EX7.9/Ex7_9.sce#S##80568
+7#Self And Mutual Inductances#7.8#Inductor#Ex7_8.sce#1628/CH7/EX7.8/Ex7_8.sce#S##80566
+7#Self And Mutual Inductances#7.7#Inductor And Voltage#Ex7_7.sce#1628/CH7/EX7.7/Ex7_7.sce#S##80565
+7#Self And Mutual Inductances#7.6#Voltage#Ex7_6.sce#1628/CH7/EX7.6/Ex7_6.sce#S##80563
+7#Self And Mutual Inductances#7.5#Megnetic Field Strength And Voltage#Ex7_5.sce#1628/CH7/EX7.5/Ex7_5.sce#S##80562
+7#Self And Mutual Inductances#7.4#Inductor And Energy#Ex7_4.sce#1628/CH7/EX7.4/Ex7_4.sce#S##80560
+7#Self And Mutual Inductances#7.3#Inductor And Voltage#Ex7_3.sce#1628/CH7/EX7.3/Ex7_3.sce#S##80558
+7#Self And Mutual Inductances#7.2#Inductor And Voltage#Ex7_2.sce#1628/CH7/EX7.2/Ex7_2.sce#S##80556
+7#Self And Mutual Inductances#7.12#Inductor#Ex7_12.sce#1628/CH7/EX7.12/Ex7_12.sce#S##80574
+7#Self And Mutual Inductances#7.11#Inductor#Ex7_11.sce#1628/CH7/EX7.11/Ex7_11.sce#S##80571
+7#Self And Mutual Inductances#7.10#Inductor#Ex7_10.sce#1628/CH7/EX7.10/Ex7_10.sce#S##80569
+7#Self And Mutual Inductances#7.1#Voltage#Ex7_1.sce#1628/CH7/EX7.1/Ex7_1.sce#S##80554
+6#Magnetic Circuits#6.4#Current#Ex6_4.sce#1628/CH6/EX6.4/Ex6_4.sce#S##80544
+6#Magnetic Circuits#6.3#Reluctance And Current#Ex6_3.sce#1628/CH6/EX6.3/Ex6_3.sce#S##80543
+6#Magnetic Circuits#6.2#Megnetomotive Force#Ex6_2.sce#1628/CH6/EX6.2/Ex6_2.sce#S##80542
+6#Magnetic Circuits#6.1#Megnetic Field Strength And Flux#Ex6_1.sce#1628/CH6/EX6.1/Ex6_1.sce#S##80541
+5#Electromagnetism#5.8#Voltage Time And Force#Ex5_8.sce#1628/CH5/EX5.8/Ex5_8.sce#S##80539
+5#Electromagnetism#5.7#Voltage#Ex5_7.sce#1628/CH5/EX5.7/Ex5_7.sce#S##80538
+5#Electromagnetism#5.6#Voltage#Ex5_6.sce#1628/CH5/EX5.6/Ex5_6.sce#S##80537
+5#Electromagnetism#5.5#Voltage#Ex5_5.sce#1628/CH5/EX5.5/Ex5_5.sce#S##80536
+5#Electromagnetism#5.4#Force#Ex5_4.sce#1628/CH5/EX5.4/Ex5_4.sce#S##80535
+5#Electromagnetism#5.3#Force#Ex5_3.sce#1628/CH5/EX5.3/Ex5_3.sce#S##80534
+5#Electromagnetism#5.2#Megnetic Field Strength#Ex5_2.sce#1628/CH5/EX5.2/Ex5_2.sce#S##80533
+5#Electromagnetism#5.1#Current#Ex5_1.sce#1628/CH5/EX5.1/Ex5_1.sce#S##80532
+4#Network Theorems#4.9#Power#Ex4_9.sce#1628/CH4/EX4.9/Ex4_9.sce#S##80530
+4#Network Theorems#4.8#Power#Ex4_8.sce#1628/CH4/EX4.8/Ex4_8.sce#S##80529
+4#Network Theorems#4.7#Current#Ex4_7.sce#1628/CH4/EX4.7/Ex4_7.sce#S##80528
+4#Network Theorems#4.6#Voltage#Ex4_6.sce#1628/CH4/EX4.6/Ex4_6.sce#S##80527
+4#Network Theorems#4.5#Voltage#Ex4_5.sce#1628/CH4/EX4.5/Ex4_5.sce#S##80526
+4#Network Theorems#4.4#Current#Ex4_4.sce#1628/CH4/EX4.4/Ex4_4.sce#S##80525
+4#Network Theorems#4.3#Voltage#Ex4_3.sce#1628/CH4/EX4.3/Ex4_3.sce#S##80524
+4#Network Theorems#4.2#Current#Ex4_2.sce#1628/CH4/EX4.2/Ex4_2.sce#S##80523
+4#Network Theorems#4.11#Current And Resistance#Ex4_11.sce#1628/CH4/EX4.11/Ex4_11.sce#S##80531
+4#Network Theorems#4.10#Voltage And Power#Ex4_10.sce#1628/CH4/EX4.10/Ex4_10.sce#S##81335
+4#Network Theorems#4.1#Current#Ex4_1.sce#1628/CH4/EX4.1/Ex4_1.sce#S##80522
+3#Network Analysis#3.9#Voltage And Power#Ex3_9.sce#1628/CH3/EX3.9/Ex3_9.sce#S##80359
+3#Network Analysis#3.8#Voltage And Current#Ex3_8.sce#1628/CH3/EX3.8/Ex3_8.sce#S##80358
+3#Network Analysis#3.7#Capacitor#Ex3_7.sce#1628/CH3/EX3.7/Ex3_7.sce#S##80357
+3#Network Analysis#3.6#Voltage And Energy#Ex3_6.sce#1628/CH3/EX3.6/Ex3_6.sce#S##80356
+3#Network Analysis#3.5#Voltage#Ex3_5.sce#1628/CH3/EX3.5/Ex3_5.sce#S##80355
+3#Network Analysis#3.4#Voltage#Ex3_4.sce#1628/CH3/EX3.4/Ex3_4.sce#S##80354
+3#Network Analysis#3.3#Inductor#Ex3_3.sce#1628/CH3/EX3.3/Ex3_3.sce#S##80353
+3#Network Analysis#3.25#Voltage#Ex3_25.sce#1628/CH3/EX3.25/Ex3_25.sce#S##80373
+3#Network Analysis#3.24#Current#Ex3_24.sce#1628/CH3/EX3.24/Ex3_24.sce#S##80372
+3#Network Analysis#3.23#Current#Ex3_23.sce#1628/CH3/EX3.23/Ex3_23.sce#S##80371
+3#Network Analysis#3.22#Voltage#Ex3_22.sce#1628/CH3/EX3.22/Ex3_22.sce#S##80370
+3#Network Analysis#3.21#Current#Ex3_21.sce#1628/CH3/EX3.21/Ex3_21.sce#S##80369
+3#Network Analysis#3.20#Current#Ex3_20.sce#1628/CH3/EX3.20/Ex3_20.sce#S##80368
+3#Network Analysis#3.2#Inductor#Ex3_2.sce#1628/CH3/EX3.2/Ex3_2.sce#S##80352
+3#Network Analysis#3.19#Voltage#Ex3_19.sce#1628/CH3/EX3.19/Ex3_19.sce#S##80367
+3#Network Analysis#3.18#Current#Ex3_18.sce#1628/CH3/EX3.18/Ex3_18.sce#S##80366
+3#Network Analysis#3.17#Resistance#Ex3_17.sce#1628/CH3/EX3.17/Ex3_17.sce#S##80365
+3#Network Analysis#3.16#Current#Ex3_16.sce#1628/CH3/EX3.16/Ex3_16.sce#S##80364
+3#Network Analysis#3.15#Voltage#Ex3_15.sce#1628/CH3/EX3.15/Ex3_15.sce#S##80363
+3#Network Analysis#3.14#Voltage#Ex3_14.sce#1628/CH3/EX3.14/Ex3_14.sce#S##80362
+3#Network Analysis#3.13#Current And Power#Ex3_13.sce#1628/CH3/EX3.13/Ex3_13.sce#S##80361
+3#Network Analysis#3.10#Current#Ex3_10.sce#1628/CH3/EX3.10/Ex3_10.sce#S##80360
+3#Network Analysis#3.1#capacitor#Ex3_1.sce#1628/CH3/EX3.1/Ex3_1.sce#S##80351
+3#Network Analysis#2.27#Current#Ex3_27.sce#1628/CH3/EX2.27/Ex3_27.sce#S##80375
+3#Network Analysis#2.26#Current#Ex3_26.sce#1628/CH3/EX2.26/Ex3_26.sce#S##80374
+2#Ohms law#2.9#Resistance#Ex2_9.sce#1628/CH2/EX2.9/Ex2_9.sce#S##80341
+2#Ohms law#2.8#Voltage#Ex2_8.sce#1628/CH2/EX2.8/Ex2_8.sce#S##80340
+2#Ohms law#2.7#Current#Ex2_7.sce#1628/CH2/EX2.7/Ex2_7.sce#S##80339
+2#Ohms law#2.6#Current#Ex2_6.sce#1628/CH2/EX2.6/Ex2_6.sce#S##80338
+2#Ohms law#2.5#Resistance#Ex2_5.sce#1628/CH2/EX2.5/Ex2_5.sce#S##80337
+2#Ohms law#2.4#Voltage And Current#Ex2_4.sce#1628/CH2/EX2.4/Ex2_4.sce#S##80336
+2#Ohms law#2.3#Resistance#Ex2_3.sce#1628/CH2/EX2.3/Ex2_3.sce#S##80335
+2#Ohms law#2.2#Resistance#Ex2_2.sce#1628/CH2/EX2.2/Ex2_2.sce#S##80334
+2#Ohms law#2.18#Temperature#Ex2_18.sce#1628/CH2/EX2.18/Ex2_18.sce#S##80350
+2#Ohms law#2.17#Resistance#Ex2_17.sce#1628/CH2/EX2.17/Ex2_17.sce#S##80349
+2#Ohms law#2.16#Resistance#Ex2_16.sce#1628/CH2/EX2.16/Ex2_16.sce#S##80348
+2#Ohms law#2.15#Resistance#Ex2_15.sce#1628/CH2/EX2.15/Ex2_15.sce#S##80347
+2#Ohms law#2.14#Rating#Ex2_14.sce#1628/CH2/EX2.14/Ex2_14.sce#S##80346
+2#Ohms law#2.13#Cost#Ex2_13.sce#1628/CH2/EX2.13/Ex2_13.sce#S##80345
+2#Ohms law#2.12#Resistance#Ex2_12.sce#1628/CH2/EX2.12/Ex2_12.sce#S##80344
+2#Ohms law#2.11#Resistance#Ex2_11.sce#1628/CH2/EX2.11/Ex2_11.sce#S##80343
+2#Ohms law#2.10#Resistance#Ex2_10.sce#1628/CH2/EX2.10/Ex2_10.sce#S##80342
+2#Ohms law#2.1#Resistance#Ex2_1.sce#1628/CH2/EX2.1/Ex2_1.sce#S##80333

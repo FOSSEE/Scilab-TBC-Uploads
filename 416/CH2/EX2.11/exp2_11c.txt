@@ -1,0 +1,7 @@
+ 
+ example 2.11   
+ sum of maximum=31MW
+ maximum demand = sum of max.demands/diversity factor =31/1.500000 = 20.666667MW
+ annual energy =117676.000000MWh 
+ increase in maximum demand =12.400000MW 
+ installed capacity =33.066667MW 

@@ -1,0 +1,29 @@
+      //EXAMPLE-2-39    PG NO-89
+V=7.07;
+I=4.24;
+W=500;
+S=V*I;
+cosQ=0.6428;
+sinQ=0.766;
+P=S*cosQ;                   //ACTIVE POWER
+Q=S*sinQ;                  //REACTIVE POWER
+Z=V/I;                    //IMPEDANCE
+R=Z*cosQ;                //RESISTANCE
+Xc=Z*sinQ;              //Xc
+C=1/(W*Xc);            //CAPACITOR
+P2 =S*(cosQ-1);     //NEGATIVE PEAK  POWER
+P3 =S*(cosQ+1);   //POSITIVE PEAK POWER
+P1=(P3 +P2)/2;     // POWER
+S1=(P3-P1);                  //apparent power
+disp(' S is = '+string(S)+' VA');
+disp(' ACTIVE POWER  is = '+string(P)+' W');
+disp(' REACTIVE POWER is = '+string(Q)+' VAr');
+disp(' IMPEDANCE is = '+string(Z)+' ohm');
+disp(' RESISTANCE is = '+string(R)+'ohm ');
+disp(' Xc is = '+string(Xc)+' ohm');
+disp(' CAPACITOR is = '+string(C)+' F');
+disp(' POWER CURVE is = '+string(P2)+' W');
+disp(' POWER CURVE is = '+string(P3)+' W');
+disp(' POWER  is = '+string(P1)+' W');
+disp(' S is = '+string(S1)+' VA');
+

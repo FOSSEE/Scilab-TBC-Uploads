@@ -1,0 +1,15 @@
+ % Resistance drop (in %)=   
+ 
+    2.000091  
+ 
+ % Reactance drop (in %)=   
+ 
+    4.0817635  
+ 
+ Voltage regulation (in %)=   
+ 
+    4.0491309  
+ 
+ Efficiency (in %)=   
+ 
+    95.61753  

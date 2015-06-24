@@ -1,0 +1,4 @@
+ # PROBLEM 3.8 # 
+
+ Drawing force = 89210 N, 
+ Minimum passible radius of the cup which can drawn from the given blank without causing a fracture = 9.198393 mm 

@@ -1,0 +1,20 @@
+GMR of conductor = 0.584 cm 
+
+Distance a to b = 3.09 m 
+Distance a to b-dash = 5.62 m 
+Distance a to a-dash = 7.21 m 
+
+Ds1 = 0.205 m 
+Ds2 = 0.179 m 
+Ds3 = 0.205 m 
+Equivalent self GMD of one phase = 0.196 m 
+
+DAB = 4.168 m 
+DBC = 4.168 m 
+DCA = 4.899 m 
+Equivalent mutual GMD = 4.399 m 
+
+Inductance/phase/m = 0.622*10^-3 mH 
+
+Inductance/phase/km = 0.622 mH 
+

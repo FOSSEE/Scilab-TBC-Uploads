@@ -1,0 +1,9 @@
+
+ # PROBLEM 16 # 
+
+ Standard formula used 
+ t = lambda / (4 * (mu_o - mu_e)) 
+ Thickness of plate of calcite is 
+ 2.747253e-05 meter,
+ 8.241758e-05 meter, 
+ 1.373626e-04 meter and so on ..... 

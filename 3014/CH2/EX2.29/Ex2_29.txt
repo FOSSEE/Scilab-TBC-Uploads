@@ -1,0 +1,6 @@
+
+Example 2.29
+  Energy state  E1 of ball is 3.434133e-48 eV
+  Energy state  E2 of ball is 1.373653e-47 eV
+  Energy state  E3 of ball is 3.090720e-47 eV
+ As energy difference is very small so we cannot see energy states.

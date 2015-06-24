@@ -1,0 +1,5 @@
+ # Problem 31 # 
+  
+ Standard formula used 
+   lambda= 2t (mu_e-mu_o)
+Thickness of half wave plate of quartz is 2.252252e-03 cm

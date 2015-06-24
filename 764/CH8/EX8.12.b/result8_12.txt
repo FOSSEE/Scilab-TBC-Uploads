@@ -1,0 +1,49 @@
+-->//(Welded and Riveted Joints) Example 8.12
+ 
+-->//Eccentric load acting on the bracket P (kN)
+ 
+-->P = 10
+ P  =
+ 
+    10.  
+ 
+-->//Permissible shear stress in the welds tau (N/mm2)
+ 
+-->tau = 70
+ tau  =
+ 
+    70.  
+ 
+-->//Lenght of the parallel welds l (mm)
+ 
+-->l = 50
+ l  =
+ 
+    50.  
+ 
+-->//Width of the bracket plate w (mm)
+ 
+-->w = 100
+ w  =
+ 
+    100.  
+ 
+-->//Number of parallel welds N
+ 
+-->N = 2
+ N  =
+ 
+    2.  
+ 
+-->//Force eccentricity value e (mm)
+ 
+-->e = 100
+ e  =
+ 
+    100.  
+ 
+
+Throat of the weld(t) = 2.020271 mm
+
+Leg of the weld(h) = 2.857527 or 3.000000 mm
+ 

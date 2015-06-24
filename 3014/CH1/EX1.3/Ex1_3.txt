@@ -1,0 +1,3 @@
+
+Example 1.3
+ de Broglie wavelength of body is 6.625000e-09 m.

@@ -1,0 +1,8 @@
+ Value of generated voltage (in volts)=   
+ 
+    320.135  
+ 
+ Value of armature current (in Ampers)=   
+ 
+    201.5  
+ 

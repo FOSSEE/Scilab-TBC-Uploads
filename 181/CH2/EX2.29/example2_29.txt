@@ -1,0 +1,9 @@
+(a)For Ge:
+N_A = 1.74e+015 /cm^3
+N_D = 1.64e+015 /cm^3
+Therefore barrier potential energy for Ge = 0.22 eV
+
+(b)For Si:
+N_A = 6.25e+015 /cm^3
+N_D = 4.81e+015 /cm^3
+Therefore barrier potential energy for Si = 0.666 eV 

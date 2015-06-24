@@ -1,0 +1,15 @@
+ 
+ example 2.9   
+ 
+ load duration curve in fig1   
+ 
+ the energy consumed upto different times is as    
+
+from mid night upto 5,energy=250MWh
+from mid night upto 9,energy=550MWh
+from mid night upto 18,energy=1450MWh
+from mid night upto 20,energy=1700MWh
+from mid night upto 22,energy=1930MWh
+from mid night upto 24,energy=2060MWh 
+ energy curve in fig 2   
+ 

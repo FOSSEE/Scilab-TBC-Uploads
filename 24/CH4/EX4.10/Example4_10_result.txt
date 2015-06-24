@@ -1,0 +1,8 @@
+**Sample Problem 4-10a**
+The velocity of P as measured by Barbara is -130 km/hr
+
+**Sample Problem 4-10b**
+The accleration of P in frame of Alex is 2.166667 m/s^2
+
+**Sample Problem 4-10c**
+The acceleration of P as measured by B is 2.166667 m/s^2 

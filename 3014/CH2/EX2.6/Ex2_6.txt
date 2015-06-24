@@ -1,0 +1,3 @@
+
+Example 2.6
+ Uncertainty in position of particle is 3.865191e-03 m.

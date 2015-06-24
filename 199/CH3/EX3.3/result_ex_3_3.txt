@@ -1,0 +1,5 @@
+* Closed-loop voltage gain is Af = -10
+* Input resistance with feedback is RiF = 470.0 ohms
+* Output resistance with feedback is RoF = 0.004125 ohms
+* Bandwidth with feedback is vo = 100005.50 Hz
+* Total output offset voltage with feedback is VooT = 0.000715 V 

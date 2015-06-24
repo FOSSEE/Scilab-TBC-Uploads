@@ -1,0 +1,11 @@
+(a)Frequency(in hertz)=   
+ 
+    50.  
+ 
+ (b)Phase e.m.f(in volts)=   
+ 
+    2014.4393  
+ 
+ (c)Line e.m.f(in volts)=   
+ 
+    3489.1112  

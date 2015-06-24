@@ -1,0 +1,9 @@
+
+ OUTPUT Ex6.4.a
+==========================================================
+The average converion when each section has same superficial velocity:94.1%
+
+
+ OUTPUT Ex6.4.b
+==========================================================
+The overall conversion for different velocities:92.7% 

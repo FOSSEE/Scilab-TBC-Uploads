@@ -1,0 +1,3 @@
+
+Example 7.3
+ Skin depth penetration is 9.188815e-04 cm. 

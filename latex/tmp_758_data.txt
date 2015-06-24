@@ -1,0 +1,83 @@
+12#Spectral Estimation#12.4#Frequency resolution#Ex_12_4.sce#758/CH12/EX12.4/Ex_12_4.sce#S##43220
+12#Spectral Estimation#12.2#Power Spectrum#Ex_12_2.sce#758/CH12/EX12.2/Ex_12_2.sce#S##43219
+11#Multirate Digital Signal Processing#11.6#Decimator implementation#Ex_11_6.sce#758/CH11/EX11.6/Ex_11_6.sce#S##43586
+11#Multirate Digital Signal Processing#11.5#Decimator implementation#Ex_11_5.sce#758/CH11/EX11.5/Ex_11_5.sce#S##43585
+11#Multirate Digital Signal Processing#11.4#Polyphase Decomposition#Ex_11_4.sce#758/CH11/EX11.4/Ex_11_4.sce#S##43588
+11#Multirate Digital Signal Processing#11.2#Interpolation#Ex_11_2.sce#758/CH11/EX11.2/Ex_11_2.sce#S##43218
+11#Multirate Digital Signal Processing#11.1#Time Decimation#Ex_11_1.sce#758/CH11/EX11.1/Ex_11_1.sce#S##43217
+10#Effects of Finite Word Length in Digital Filters#10.5#Output Quantisation Noise for Cascade realisation#Ex_10_5.sce#758/CH10/EX10.5/Ex_10_5.sce#S##43597
+10#Effects of Finite Word Length in Digital Filters#10.4#Deadband Interval#Ex_10_4.sce#758/CH10/EX10.4/Ex_10_4.sce#S##43598
+10#Effects of Finite Word Length in Digital Filters#10.3#Deadband Interval#Ex_10_3.sce#758/CH10/EX10.3/Ex_10_3.sce#S##43596
+10#Effects of Finite Word Length in Digital Filters#10.2#Output Quantisation Noise#Ex_10_2.sce#758/CH10/EX10.2/Ex_10_2.sce#S##43595
+9#Realisation of Digital Linear Systems#9.5.b#Parallel Realisation#Ex_9_5_b.sce#758/CH9/EX9.5.b/Ex_9_5_b.sce#S##43216
+9#Realisation of Digital Linear Systems#9.5.a#Parallel Realisation#Ex_9_5_a.sce#758/CH9/EX9.5.a/Ex_9_5_a.sce#S##43215
+9#Realisation of Digital Linear Systems#9.4#Cascade Realisation#Ex_9_4.sce#758/CH9/EX9.4/Ex_9_4.sce#S##43214
+8#Infinite Impulse Response Filters#8.9#IIR filter Design by Bilinear Transformation method#Ex_8_9.sce#758/CH8/EX8.9/Ex_8_9.sce#S##41736
+8#Infinite Impulse Response Filters#8.8#IIR filter Design by Bilinear Transformation method#Ex_8_8.sce#758/CH8/EX8.8/Ex_8_8.sce#S##41735
+8#Infinite Impulse Response Filters#8.7#IIR filter Design by Bilinear Transformation method#Ex_8_7.sce#758/CH8/EX8.7/Ex_8_7.sce#S##41734
+8#Infinite Impulse Response Filters#8.6#IIR filter Design by Impulse Invariant method#Ex_8_6.sce#758/CH8/EX8.6/Ex_8_6.sce#S##41733
+8#Infinite Impulse Response Filters#8.5#IIR filter Design by Impulse Invariant method#Ex_8_5.sce#758/CH8/EX8.5/Ex_8_5.sce#S##41732
+8#Infinite Impulse Response Filters#8.4#IIR filter Design by Impulse Invariant method#Ex_8_4.sce#758/CH8/EX8.4/Ex_8_4.sce#S##41731
+8#Infinite Impulse Response Filters#8.3#IIR filter Design byBackward Difference For Derivative method#Ex_8_3.sce#758/CH8/EX8.3/Ex_8_3.sce#S##41730
+8#Infinite Impulse Response Filters#8.2#IIR filter Design byBackward Difference For Derivative method#Ex_8_2.sce#758/CH8/EX8.2/Ex_8_2.sce#S##41729
+8#Infinite Impulse Response Filters#8.15#Filter transformation#Ex_8_15.sce#758/CH8/EX8.15/Ex_8_15.sce#S##41741
+8#Infinite Impulse Response Filters#8.14#Filter transformation#Ex_8_14.sce#758/CH8/EX8.14/Ex_8_14.sce#S##41740
+8#Infinite Impulse Response Filters#8.12#Butterworth Filter using Bilinear transformation#Ex_8_12.sce#758/CH8/EX8.12/Ex_8_12.sce#S##41739
+8#Infinite Impulse Response Filters#8.11#Butterworth Filter using Impulse Invariant transformation#Ex_8_11.sce#758/CH8/EX8.11/Ex_8_11.sce#S##41738
+8#Infinite Impulse Response Filters#8.10#IIR filter Design by Bilinear Transformation method#Ex_8_10.sce#758/CH8/EX8.10/Ex_8_10.sce#S##41737
+8#Infinite Impulse Response Filters#8.1#IIR filter Design byBackward Difference For Derivative method#Ex_8_1.sce#758/CH8/EX8.1/Ex_8_1.sce#S##41728
+7#Finite Impulse Response Filters#7.4#Low pass filter using Type 1 frequency sampling technique#Ex_7_4.sce#758/CH7/EX7.4/Ex_7_4.sce#S##41727
+7#Finite Impulse Response Filters#7.3#Low pass filter using fourier series method#Ex_7_3.sce#758/CH7/EX7.3/Ex_7_3.sce#S##41726
+6#Discrete and Fast Fourier Transforms#6.9#DFT#Ex_6_9.sce#758/CH6/EX6.9/Ex_6_9.sce#S##41716
+6#Discrete and Fast Fourier Transforms#6.8#DFT#Ex_6_8.sce#758/CH6/EX6.8/Ex_6_8.sce#S##41715
+6#Discrete and Fast Fourier Transforms#6.6#Convolution#Ex_6_6.sce#758/CH6/EX6.6/Ex_6_6.sce#S##41714
+6#Discrete and Fast Fourier Transforms#6.5#Convolution#Ex_6_5.sce#758/CH6/EX6.5/Ex_6_5.sce#S##41713
+6#Discrete and Fast Fourier Transforms#6.4#Convolution#Ex_6_4.sce#758/CH6/EX6.4/Ex_6_4.sce#S##41712
+6#Discrete and Fast Fourier Transforms#6.37#Circular Correlation#Ex_6_37.sce#758/CH6/EX6.37/Ex_6_37.sce#S##41725
+6#Discrete and Fast Fourier Transforms#6.36#Cross Correlation#Ex_6_36.sce#758/CH6/EX6.36/Ex_6_36.sce#S##41724
+6#Discrete and Fast Fourier Transforms#6.35#Overlap Save Convolution#Ex_6_35.sce#758/CH6/EX6.35/Ex_6_35.sce#S##41723
+6#Discrete and Fast Fourier Transforms#6.34#Overlap Add Convolution#Ex_6_34.sce#758/CH6/EX6.34/Ex_6_34.sce#S##41722
+6#Discrete and Fast Fourier Transforms#6.3#Convolution#Ex_6_3.sce#758/CH6/EX6.3/Ex_6_3.sce#S##41711
+6#Discrete and Fast Fourier Transforms#6.27#IFFT#Ex_6_27.sce#758/CH6/EX6.27/Ex_6_27.sce#S##43213
+6#Discrete and Fast Fourier Transforms#6.26#IFFT#Ex_6_26.sce#758/CH6/EX6.26/Ex_6_26.sce#S##43212
+6#Discrete and Fast Fourier Transforms#6.25#IFFT#Ex_6_25.sce#758/CH6/EX6.25/Ex_6_25.sce#S##43211
+6#Discrete and Fast Fourier Transforms#6.24#IFFT#Ex_6_24.sce#758/CH6/EX6.24/Ex_6_24.sce#S##43210
+6#Discrete and Fast Fourier Transforms#6.23#IFFT#Ex_6_23.sce#758/CH6/EX6.23/Ex_6_23.sce#S##43209
+6#Discrete and Fast Fourier Transforms#6.22#DIF FFT#Ex_6_22.sce#758/CH6/EX6.22/Ex_6_22.sce#S##43208
+6#Discrete and Fast Fourier Transforms#6.21#DIF FFT#Ex_6_21.sce#758/CH6/EX6.21/Ex_6_21.sce#S##43207
+6#Discrete and Fast Fourier Transforms#6.20#DIF FFT#Ex_6_20.sce#758/CH6/EX6.20/Ex_6_20.sce#S##43206
+6#Discrete and Fast Fourier Transforms#6.2#FIR filter response#Ex_6_2.sce#758/CH6/EX6.2/Ex_6_2.sce#S##41710
+6#Discrete and Fast Fourier Transforms#6.19#DIF FFT#Ex_6_19.sce#758/CH6/EX6.19/Ex_6_19.sce#S##43205
+6#Discrete and Fast Fourier Transforms#6.18#DIT FFT#Ex_6_18.sce#758/CH6/EX6.18/Ex_6_18.sce#S##43204
+6#Discrete and Fast Fourier Transforms#6.17#DIT FFT#Ex_6_17.sce#758/CH6/EX6.17/Ex_6_17.sce#S##43203
+6#Discrete and Fast Fourier Transforms#6.16#DIT FFT#Ex_6_16.sce#758/CH6/EX6.16/Ex_6_16.sce#S##43202
+6#Discrete and Fast Fourier Transforms#6.15#DIT FFT#Ex_6_15.sce#758/CH6/EX6.15/Ex_6_15.sce#S##43201
+6#Discrete and Fast Fourier Transforms#6.14#Inverse DFT#Ex_6_14.sce#758/CH6/EX6.14/Ex_6_14.sce#S##41721
+6#Discrete and Fast Fourier Transforms#6.13#Inverse DFT#Ex_6_13.sce#758/CH6/EX6.13/Ex_6_13.sce#S##41720
+6#Discrete and Fast Fourier Transforms#6.12#DFT#Ex_6_12.sce#758/CH6/EX6.12/Ex_6_12.sce#S##41719
+6#Discrete and Fast Fourier Transforms#6.11#DFT#Ex_6_11.sce#758/CH6/EX6.11/Ex_6_11.sce#S##41718
+6#Discrete and Fast Fourier Transforms#6.10#DFT#Ex_6_10.sce#758/CH6/EX6.10/Ex_6_10.sce#S##41717
+6#Discrete and Fast Fourier Transforms#6.10#DFT#Ex_6_10.jpg#758/CH6/EX6.10/Ex_6_10.jpg#R##40956
+6#Discrete and Fast Fourier Transforms#6.1#Linear and Circular convolution#Ex_6_1.sce#758/CH6/EX6.1/Ex_6_1.sce#S##41709
+5#Linear Time Invariant Systems#5.21#Poles and zeros#Ex_5_21.sce#758/CH5/EX5.21/Ex_5_21.sce#S##41708
+5#Linear Time Invariant Systems#5.20#System response#Ex_5_20.sce#758/CH5/EX5.20/Ex_5_20.sce#S##41707
+4#Z Transforms#4.4#Z transform#Ex_4_4.sce#758/CH4/EX4.4/Ex_4_4.sce#S##41702
+4#Z Transforms#4.2#Z transform#Ex_4_2.sce#758/CH4/EX4.2/Ex_4_2.sce#S##41701
+4#Z Transforms#4.19#System response#Ex_4_19.sce#758/CH4/EX4.19/Ex_4_19.sce#S##41706
+4#Z Transforms#4.16#Cross correlation#Ex_4_16.sce#758/CH4/EX4.16/Ex_4_16.sce#S##41705
+4#Z Transforms#4.14#Convolution#Ex_4_14.sce#758/CH4/EX4.14/Ex_4_14.sce#S##41704
+4#Z Transforms#4.13#Convolution#Ex_4_13.sce#758/CH4/EX4.13/Ex_4_13.sce#S##41703
+3#Applications of Laplace Transform to System Analysis#3.12#Poles and zeros#Ex_3_12.sce#758/CH3/EX3.12/Ex_3_12.sce#S##41700
+3#Applications of Laplace Transform to System Analysis#3.11#Poles and zeros#Ex_3_11.sce#758/CH3/EX3.11/Ex_3_11.sce#S##41699
+3#Applications of Laplace Transform to System Analysis#3.10#Poles and Zeros#Ex_3_10.sce#758/CH3/EX3.10/Ex_3_10.sce#S##41698
+2#Fourier Analysis of Preiodic and Aperiodic Continuous Time Signals and Systems#2.8#Complex fourier series representation#Ex_2_8.sce#758/CH2/EX2.8/Ex_2_8.sce#S##43200
+2#Fourier Analysis of Preiodic and Aperiodic Continuous Time Signals and Systems#2.6#Fourier Series of Square Wave#Ex_2_6.sce#758/CH2/EX2.6/Ex_2_6.sce#S##41696
+2#Fourier Analysis of Preiodic and Aperiodic Continuous Time Signals and Systems#2.5#Fourier Series of Periodic Rectangular Pulse#Ex_2_5.sce#758/CH2/EX2.5/Ex_2_5.sce#S##41697
+2#Fourier Analysis of Preiodic and Aperiodic Continuous Time Signals and Systems#2.4#Fourier Series of Periodic Triangular Wave#Ex_2_4.sce#758/CH2/EX2.4/Ex_2_4.sce#S##41695
+2#Fourier Analysis of Preiodic and Aperiodic Continuous Time Signals and Systems#2.3#Fourier Series of Periodic Half Wave Rectified Sine Wave#Ex_2_3.sce#758/CH2/EX2.3/Ex_2_3.sce#S##41694
+2#Fourier Analysis of Preiodic and Aperiodic Continuous Time Signals and Systems#2.2#Fourier Series of Periodic Rectangular Wave#Ex_2_2.sce#758/CH2/EX2.2/Ex_2_2.sce#S##41693
+2#Fourier Analysis of Preiodic and Aperiodic Continuous Time Signals and Systems#2.1#Fourier Series of Periodic Square Wave#Ex_2_1.sce#758/CH2/EX2.1/Ex_2_1.sce#S##41692
+1#Classifications of signals and systems#1.2.d#Ramp wave#Ex_1_2_d.sce#758/CH1/EX1.2.d/Ex_1_2_d.sce#S##41691
+1#Classifications of signals and systems#1.2.c#Cosine wave#Ex_1_2_c.sce#758/CH1/EX1.2.c/Ex_1_2_c.sce#S##41690
+1#Classifications of signals and systems#1.2.b#Rectangular wave#Ex_1_2_b.sce#758/CH1/EX1.2.b/Ex_1_2_b.sce#S##41689
+1#Classifications of signals and systems#1.2.a#Rectangular wave#Ex_1_2_a.sce#758/CH1/EX1.2.a/Ex_1_2_a.sce#S##41688

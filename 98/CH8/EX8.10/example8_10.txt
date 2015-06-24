@@ -1,0 +1,12 @@
+V1 = 0.327 V 
+V2 = 0.308 V 
+V3 = 0.365 V 
+
+(i) Voltage expressed as a percentage of V : 
+    Top unit = 32.68 % 
+    Middle unit = 30.83 % 
+    Third unit = 36.50 % 
+
+(ii) String efficiency = 91.33 % 
+
+

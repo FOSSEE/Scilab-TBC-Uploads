@@ -1,0 +1,11 @@
+  
+ Example 2.18   
+E=220V 
+ when extra resistance is added in the armature circuit,the speed is halved   
+ 
+ The load torque is conatant   
+extra resistance in the armature circui,R=5.500000ohms 
+ The load torque directly proportional to square of speed   
+ 
+ if N is halfed, Iais one-fourthed   
+extra resistance in the armature circui,R=23.500000ohms 

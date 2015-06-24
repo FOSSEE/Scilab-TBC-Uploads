@@ -1,0 +1,7 @@
+Value of feedback voltage =  2.0000 V 
+
+Value of output voltage =  4.0000 V 
+
+Value of reference voltage =  -4.0000 V 
+
+Value of capacitor voltage =  6.0000 V 

@@ -1,0 +1,6 @@
+ # PROBLEM 28 # 
+ Standard formula used 
+
+ m = m_0/sqrt(1-(v/c)^2) 
+
+ Velocity of moving electron is  3.000000e+08 m/sec. 

@@ -1,0 +1,9 @@
+ 
+ Current in primary winding(in Amp)=   
+ 
+    80.  
+ 
+ Economy of copper(in %)=   
+ 
+    80.  
+ 

@@ -1,0 +1,5 @@
+ # PROBLEM 5 # 
+Standard formula used 
+ 1/2*m*v^2 = eV 
+
+ Velocity of electron is 5.930000e+07 m/sec.

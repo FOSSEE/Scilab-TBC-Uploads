@@ -1,0 +1,4 @@
+ electro magnetic torque developed in dc machine(in Nw-m)=   
+ 
+    31.82  
+ 

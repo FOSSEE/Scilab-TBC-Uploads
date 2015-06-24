@@ -1,0 +1,5 @@
+ The number of turns = 24.993109
+ The directivity of the antenna = 49.663744
+ The directivity of the antenna in dB = 16.026901 dB
+ The half power point beam width in degree = 28.577830 degree
+ The axial ratio = 1.020006

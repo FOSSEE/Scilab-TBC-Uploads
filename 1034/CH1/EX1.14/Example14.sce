@@ -1,0 +1,11 @@
+clear;
+clc;
+printf("\n Example 1.14");
+printf("\n \n [Theta]f(n)=theta(g(n))");
+printf("\n \n 3n+2=theta(n) as 3n+2>=3n for al  n>=2");
+printf("\n \n 3n+3=theta(n)");
+printf("\n \n 10n^2+4n+2=theta(n^2)");
+printf("\n \n 6*2^n+n^2=theta(2^n)");
+printf("\n \n 3n+2 is not theta(1) ");
+printf("\n \n 3n+3 is not theta(n^2) \n");
+printf("\n \n The Theta notation is more precise than both big oh and omega notaion");

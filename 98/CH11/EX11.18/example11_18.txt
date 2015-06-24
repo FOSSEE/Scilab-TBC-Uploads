@@ -1,0 +1,9 @@
+Core-core capacitance of the cable = 1.60 uF 
+
+Core-earth capacitance of the cable = 4.20 uF 
+
+Core to nuetral capacitance of the cable = 9.00 uF 
+
+Charging current = 107.74 A 
+
+

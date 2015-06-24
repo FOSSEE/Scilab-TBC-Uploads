@@ -1,0 +1,43 @@
+-->//(Design against Fluctuating Load) Example 5.17
+ 
+-->//Minimum stress acting on the machine component sigmaMin (N/mm2)
+ 
+-->sigmaMin = 40
+ sigmaMin  =
+ 
+    40.  
+ 
+-->//Maximum stress acting on the machine component sigmaMax (N/mm2)
+ 
+-->sigmaMax = 100
+ sigmaMax  =
+ 
+    100.  
+ 
+-->//Corrected endurance stress Se (N/mm2)
+ 
+-->Se = 270
+ Se  =
+ 
+    270.  
+ 
+-->//Ultimate tensile strength of the material Sut (N/mm2)
+ 
+-->Sut = 600
+ Sut  =
+ 
+    600.  
+ 
+-->//Yield strength of the material Syt (N/mm2)
+ 
+-->Syt = 450
+ Syt  =
+ 
+    450.  
+ 
+ 
+Factor of safety using Gerber theory = 5.412003
+Factor of safety using Soderberg line = 3.750000
+Factor of safety using Goodman line = 4.390244
+Factor of safety against static failure = 4.500000
+ 

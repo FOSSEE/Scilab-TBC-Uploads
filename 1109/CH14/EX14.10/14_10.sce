@@ -1,0 +1,25 @@
+clear;
+clc;
+fc=1.2*(10^3);fi=1.1*(10^3);Rk=600; //fi=frequency at which infinite attenuation occrus
+L0=Rk/(4*%pi*fc);
+C0=1/(4*%pi*fc*Rk);
+printf("The elements of the constant-K H.P. are:\n");
+printf("  L = %f mH\n",fix(L0*(10^3)*100)/100);
+printf("  C = %f microfarads\n\n",fix(C0*(10^6)*100)/100);
+m1=round(sqrt(1-((fi/fc)^2))*10)/10;
+C1=2*C0/m1;
+L1=L0/m1;
+C2=4*m1*C0/(1-(m1*m1));
+printf("The elements of the m-derived H.P.T. filter are:\n");
+printf("  2C/m = %f microfarads\n",fix(C1*(10^6)*100)/100);
+printf("  L/m = %f mH\n",round(L1*(10^3)*10)/10);
+printf("  4mC/(1-m^2) = %f microfarads\n\n",fix(C2*(10^6)*100)/100);
+m2=0.6;
+C3=2*C0/m2;
+L2=L0/m2;
+C4=4*m2*C0/(1-(m2*m2));
+printf("The elements of the terminating half section m-derived H.P.T. filter are:\n");
+printf("  2C/m = %f microfarads\n",round(C3*(10^6)*100)/100);
+printf("  L/m = %f mH\n",round(L2*(10^3)*100)/100);
+printf("  4mC/(1-m^2) = %f microfarads\n\n",round(C4*(10^6)*100)/100);
+printf("The complete composite filter is constructed by using the  constant-K in cascade with the sharp-cut off m-derived section and terminating half section");

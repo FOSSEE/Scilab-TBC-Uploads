@@ -1,0 +1,8 @@
+Position of stub (in meters) =   
+ 
+    0.1850638  
+ 
+ Length of stub (in meters) =   
+ 
+    0.7512725
+

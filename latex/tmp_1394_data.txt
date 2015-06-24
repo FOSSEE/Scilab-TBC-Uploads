@@ -1,0 +1,87 @@
+21#Simultaneous Heat and Mass Transfer#21.5.1#Time taken#Ex21_5_1.sce#1394/CH21/EX21.5.1/Ex21_5_1.sce#S##99804
+21#Simultaneous Heat and Mass Transfer#21.4.1#Flow rate area and length#Ex21_4_1.sce#1394/CH21/EX21.4.1/Ex21_4_1.sce#S##99805
+21#Simultaneous Heat and Mass Transfer#21.3.2#Mass transfer and time taken#Ex21_3_2.sce#1394/CH21/EX21.3.2/Ex21_3_2.sce#S##99803
+21#Simultaneous Heat and Mass Transfer#21.3.1#Time taken#Ex21_3_1.sce#1394/CH21/EX21.3.1/Ex21_3_1.sce#S##99802
+21#Simultaneous Heat and Mass Transfer#21.1.2#Thermal diffusivity#Ex21_1_2.sce#1394/CH21/EX21.1.2/Ex21_1_2.sce#S##99801
+20#Heat Transfer#20.4.2#heat transfer coefficient#Ex20_4_2.sce#1394/CH20/EX20.4.2/Ex20_4_2.sce#S##99800
+20#Heat Transfer#20.4.1#Overall heat transfer coefficient#Ex20_4_1.sce#1394/CH20/EX20.4.1/Ex20_4_1.sce#S##99799
+20#Heat Transfer#20.3.3#Savings calculation#Ex20_3_3.sce#1394/CH20/EX20.3.3/Ex20_3_3.sce#S##99798
+20#Heat Transfer#20.3.2#Time taken#Ex20_3_2.sce#1394/CH20/EX20.3.2/Ex20_3_2.sce#S##99797
+20#Heat Transfer#20.3.1#Overall heat transfer coefficient#Ex20_3_1.sce#1394/CH20/EX20.3.1/Ex20_3_1.sce#S##99796
+20#Heat Transfer#20.1.1#Thermal diffusivity#Ex20_1_1.sce#1394/CH20/EX20.1.1/Ex20_1_1.sce#S##99795
+19#Controlled Release and Phenomena#19.2.1#Membrane area calculation#Ex19_2_1.sce#1394/CH19/EX19.2.1/Ex19_2_1.sce#S##99794
+19#Controlled Release and Phenomena#19.1.1#Permeability#Ex19_1_1.sce#1394/CH19/EX19.1.1/Ex19_1_1.sce#S##99793
+18#Membranes#18.5.2#total flux#Ex18_5_2.sce#1394/CH18/EX18.5.2/Ex18_5_2.sce#S##99792
+18#Membranes#18.4.1#Membrane selectivity#Ex18_4_1.sce#1394/CH18/EX18.4.1/Ex18_4_1.sce#S##99791
+18#Membranes#18.3.2#Transport coefficient#Ex18_3_2.sce#1394/CH18/EX18.3.2/Ex18_3_2.sce#S##99790
+18#Membranes#18.3.1#Osmotic pressure difference#Ex18_3_1.sce#1394/CH18/EX18.3.1/Ex18_3_1.sce#S##99789
+18#Membranes#18.2.2#Time spent#Ex18_2_2.sce#1394/CH18/EX18.2.2/Ex18_2_2.sce#S##99788
+18#Membranes#18.2.1#Permeability calculation#Ex18_2_1.sce#1394/CH18/EX18.2.1/Ex18_2_1.sce#S##99787
+18#Membranes#18.1.1#Rapidness calculation#Ex18_1_1.sce#1394/CH18/EX18.1.1/Ex18_1_1.sce#S##99786
+17#Homogenous Chemical Reactions#17.5.1#relaxation time#Ex17_5_1.sce#1394/CH17/EX17.5.1/Ex17_5_1.sce#S##99785
+17#Homogenous Chemical Reactions#17.4.1#Rate constant#Ex17_4_1.sce#1394/CH17/EX17.4.1/Ex17_4_1.sce#S##99784
+17#Homogenous Chemical Reactions#17.2.1#Increase in rate#Ex17_2_1.sce#1394/CH17/EX17.2.1/Ex17_2_1.sce#S##99783
+17#Homogenous Chemical Reactions#17.1.3#rate constant#Ex17_1_3.sce#1394/CH17/EX17.1.3/Ex17_1_3.sce#S##99782
+17#Homogenous Chemical Reactions#17.1.2#Reduction in reaction rate#Ex17_1_2.sce#1394/CH17/EX17.1.2/Ex17_1_2.sce#S##99781
+17#Homogenous Chemical Reactions#17.1.1#Diffusion coefficient#Ex17_1_1.sce#1394/CH17/EX17.1.1/Ex17_1_1.sce#S##99780
+16#General Questions and Heterogenous Chemical Reactions#16.3.3#rate of reaction#Ex16_3_3.sce#1394/CH16/EX16.3.3/Ex16_3_3.sce#S##99779
+16#General Questions and Heterogenous Chemical Reactions#16.3.2#rate constant#Ex16_3_2.sce#1394/CH16/EX16.3.2/Ex16_3_2.sce#S##99778
+15#Adsorption#15.4.2#rate constant#Ex15_4_2.sce#1394/CH15/EX15.4.2/Ex15_4_2.sce#S##99777
+15#Adsorption#15.4.1#Breakthrough time#Ex15_4_1.sce#1394/CH15/EX15.4.1/Ex15_4_1.sce#S##99776
+15#Adsorption#15.3.3#volume of adsorbent#Ex15_3_3.sce#1394/CH15/EX15.3.3/Ex15_3_3.sce#S##99775
+15#Adsorption#15.3.2#Length of bed#Ex15_3_2.sce#1394/CH15/EX15.3.2/Ex15_3_2.sce#S##99774
+14#Extraction#14.5.1#No of stages including feed#Ex14_5_1.sce#1394/CH14/EX14.5.1/Ex14_5_1.sce#S##99773
+14#Extraction#14.4.1#No of stages required#Ex14_4_1.sce#1394/CH14/EX14.4.1/Ex14_4_1.sce#S##99772
+14#Extraction#14.3.1#Length required#Ex14_3_1.sce#1394/CH14/EX14.3.1/Ex14_3_1.sce#S##99771
+13#Staged Distillation#13.4.2#Murphree efficiency#Ex13_4_2.sce#1394/CH13/EX13.4.2/Ex13_4_2.sce#S##99770
+13#Staged Distillation#13.4.1#Murphree efficiency#Ex13_4_1.sce#1394/CH13/EX13.4.1/Ex13_4_1.sce#S##99769
+13#Staged Distillation#13.2.2#Number of stages#Ex13_2_2.sce#1394/CH13/EX13.2.2/Ex13_2_2.sce#S##99768
+13#Staged Distillation#13.2.1#Number of stages#Ex13_2_1.sce#1394/CH13/EX13.2.1/Ex13_2_1.sce#S##99767
+13#Staged Distillation#13.1.1#Column diameter#Ex13_1_1.sce#1394/CH13/EX13.1.1/Ex13_1_1.sce#S##99766
+12#Differential Distillation#12.4.1#length of tower#Ex12_4_1.sce#1394/CH12/EX12.4.1/Ex12_4_1.sce#S##99765
+12#Differential Distillation#12.2.2#NTU#Ex12_2_2.sce#1394/CH12/EX12.2.2/Ex12_2_2.sce#S##99764
+12#Differential Distillation#12.2.1#Mass transfer#Ex12_2_1.sce#1394/CH12/EX12.2.1/Ex12_2_1.sce#S##99763
+11#Mass Transfer in Biology and Medicine#11.2.2#Percentage of toxins#Ex11_2_2.sce#1394/CH11/EX11.2.2/Ex11_2_2.sce#S##99762
+11#Mass Transfer in Biology and Medicine#11.2.1#Mass transfer coefficient#Ex11_2_1.sce#1394/CH11/EX11.2.1/Ex11_2_1.sce#S##99761
+11#Mass Transfer in Biology and Medicine#11.1.1#Mass transfer coefficient#Ex11_1_1.sce#1394/CH11/EX11.1.1/Ex11_1_1.sce#S##99760
+10#Absorption#10.4.1#Length and diameter of tower#Ex10_4_1.sce#1394/CH10/EX10.4.1/Ex10_4_1.sce#S##99759
+10#Absorption#10.3.2#Percentage of oxygen#Ex10_3_2.sce#1394/CH10/EX10.3.2/Ex10_3_2.sce#S##99758
+10#Absorption#10.3.1#Length of tower#Ex10_3_1.sce#1394/CH10/EX10.3.1/Ex10_3_1.sce#S##99757
+10#Absorption#10.2.1#Diameter of tower#Ex10_2_1.sce#1394/CH10/EX10.2.1/Ex10_2_1.sce#S##99756
+9#Theories of Mass Transfer#9.4.2#Local Mtc#Ex9_4_2.sce#1394/CH9/EX9.4.2/Ex9_4_2.sce#S##99755
+9#Theories of Mass Transfer#9.4.1#Average Mass transfer coefficient#Ex9_4_1.sce#1394/CH9/EX9.4.1/Ex9_4_1.sce#S##99754
+9#Theories of Mass Transfer#9.3.1#Apparent Mass transfer coefficient#Ex9_3_1.sce#1394/CH9/EX9.3.1/Ex9_3_1.sce#S##99753
+9#Theories of Mass Transfer#9.2.1#Contact time and residence time#Ex9_2_1.sce#1394/CH9/EX9.2.1/Ex9_2_1.sce#S##99752
+9#Theories of Mass Transfer#9.1.1#Film thickness#Ex9_1_1.sce#1394/CH9/EX9.1.1/Ex9_1_1.sce#S##99751
+8#Fundamentals of Mass Transfer#8.5.4#Overall Mass transfer coefficient#Ex8_5_4.sce#1394/CH8/EX8.5.4/Ex8_5_4.sce#S##99750
+8#Fundamentals of Mass Transfer#8.5.3#Overall Mass transfer coefficient#Ex8_5_3.sce#1394/CH8/EX8.5.3/Ex8_5_3.sce#S##99749
+8#Fundamentals of Mass Transfer#8.5.2#Overall Mass transfer coefficient#Ex8_5_2.sce#1394/CH8/EX8.5.2/Ex8_5_2.sce#S##99748
+8#Fundamentals of Mass Transfer#8.5.1#Overall Mass transfer coefficient#Ex8_5_1.sce#1394/CH8/EX8.5.1/Ex8_5_1.sce#S##99747
+8#Fundamentals of Mass Transfer#8.3.2#Mass flux in air and water#Ex8_3_2.sce#1394/CH8/EX8.3.2/Ex8_3_2.sce#S##99746
+8#Fundamentals of Mass Transfer#8.3.1#Column length#Ex8_3_1.sce#1394/CH8/EX8.3.1/Ex8_3_1.sce#S##99745
+8#Fundamentals of Mass Transfer#8.2.2#Mass transfer coefficient liquid and gas#Ex8_2_2.sce#1394/CH8/EX8.2.2/Ex8_2_2.sce#S##99743
+8#Fundamentals of Mass Transfer#8.2.1#Mass transfer coefficient#Ex8_2_1.sce#1394/CH8/EX8.2.1/Ex8_2_1.sce#S##99744
+8#Fundamentals of Mass Transfer#8.1.4#Mass transfer coefficient#Ex8_1_4.sce#1394/CH8/EX8.1.4/Ex8_1_4.sce#S##99741
+8#Fundamentals of Mass Transfer#8.1.3#Mass transfer coefficient#Ex8_1_3.sce#1394/CH8/EX8.1.3/Ex8_1_3.sce#S##99740
+8#Fundamentals of Mass Transfer#8.1.2#Mass transfer coefficient#Ex8_1_2.sce#1394/CH8/EX8.1.2/Ex8_1_2.sce#S##99739
+8#Fundamentals of Mass Transfer#8.1.1#Time taken #Ex8_1_1.sce#1394/CH8/EX8.1.1/Ex8_1_1.sce#S##99738
+6#Diffusion of Interacting Species#6.4.4#Diffusion coefficient in gel#Ex6_4_4.sce#1394/CH6/EX6.4.4/Ex6_4_4.sce#S##99737
+6#Diffusion of Interacting Species#6.4.3#Diffusion flux#Ex6_4_3.sce#1394/CH6/EX6.4.3/Ex6_4_3.sce#S##99736
+6#Diffusion of Interacting Species#6.4.2#Diffusion coefficient#Ex6_4_2.sce#1394/CH6/EX6.4.2/Ex6_4_2.sce#S##99735
+6#Diffusion of Interacting Species#6.4.1#Tortuosity calculation#Ex6_4_1.sce#1394/CH6/EX6.4.1/Ex6_4_1.sce#S##99734
+6#Diffusion of Interacting Species#6.2.1#Diffusion coefficient#Ex6_2_1.sce#1394/CH6/EX6.2.1/Ex6_2_1.sce#S##99733
+6#Diffusion of Interacting Species#6.1.5#Diffusion coefficient#Ex6_1_5.sce#1394/CH6/EX6.1.5/Ex6_1_5.sce#S##99732
+6#Diffusion of Interacting Species#6.1.2#Diffusion coefficient#Ex6_1_2.sce#1394/CH6/EX6.1.2/Ex6_1_2.sce#S##99731
+6#Diffusion of Interacting Species#6.1.1#Diffusion coefficient and transference#Ex6_1_1.sce#1394/CH6/EX6.1.1/Ex6_1_1.sce#S##99730
+5#Values of Diffusion Coefficients#5.5.2#Diffusion coefficient#Ex5_5_2.sce#1394/CH5/EX5.5.2/Ex5_5_2.sce#S##99729
+5#Values of Diffusion Coefficients#5.5.1#Diffusion coefficient#Ex5_5_1.sce#1394/CH5/EX5.5.1/Ex5_5_1.sce#S##99728
+5#Values of Diffusion Coefficients#5.2.3#Diffusion coefficient#Ex5_2_3.sce#1394/CH5/EX5.2.3/Ex5_2_3.sce#S##99727
+5#Values of Diffusion Coefficients#5.2.2#a b calculation#Ex5_2_2.sce#1394/CH5/EX5.2.2/Ex5_2_2.sce#S##99726
+5#Values of Diffusion Coefficients#5.2.1#Diffusion coefficient stokes#Ex5_2_1.sce#1394/CH5/EX5.2.1/Ex5_2_1.sce#S##99725
+5#Values of Diffusion Coefficients#5.1.3#Diffusion coefficient#Ex5_1_3.sce#1394/CH5/EX5.1.3/Ex5_1_3.sce#S##104260
+5#Values of Diffusion Coefficients#5.1.2#Diffusion coefficient and error#Ex5_1_2.sce#1394/CH5/EX5.1.2/Ex5_1_2.sce#S##99723
+5#Values of Diffusion Coefficients#5.1.1#Diffusion Coefficient#Ex5_5_1.sce#1394/CH5/EX5.1.1/Ex5_5_1.sce#S##99722
+4#Dispersion#4.2.2#Percent of pipe#Ex4_2_2.sce#1394/CH4/EX4.2.2/Ex4_2_2.sce#S##99721
+4#Dispersion#4.2.1#Dispersion coefficient#Ex4_2_1.sce#1394/CH4/EX4.2.1/Ex4_2_1.sce#S##99720
+3#Diffusion in concentrated solutions#3.3.1#Error calculation#Ex3_3_1.sce#1394/CH3/EX3.3.1/Ex3_3_1.sce#S##99719
+3#Diffusion in concentrated solutions#3.2.4#Average velocity#Ex3_2_4.sce#1394/CH3/EX3.2.4/Ex3_2_4.sce#S##99718

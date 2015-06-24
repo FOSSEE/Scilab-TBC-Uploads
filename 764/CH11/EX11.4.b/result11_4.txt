@@ -1,0 +1,24 @@
+-->//Declare tchar function for torque characteristic computation
+ 
+-->//x = d/D
+ 
+-->function [T] = tchar(x)
+-->    T = x * (1 - (x^2))
+-->endfunction
+ 
+
+Torque characteristic(T) is given by:
+
+T = (8 * Mt)/(pi * mu * Pa * (D^3))
+
+d/D = x
+
+Maximum value of torque characteristic(Tmax) = 0.384891
+
+x,y and z are the three real roots of this cubic equation
+x = 0.579697
+y = 0.575000
+z = -1.154697
+
+d/D value corresponding to Tmax = 0.579697
+ 

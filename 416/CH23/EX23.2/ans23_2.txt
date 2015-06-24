@@ -1,0 +1,10 @@
+ 
+ example 23.2   
+net capital cost Rs560*10^6 
+net capital cost per KW Rs22400.000000/kW 
+crf 0.117460 
+annual fixed cost Rs2631 per kW 
+annual operation and maintenance cost Rs1120per kW 
+Total annual cost Rs3751per kW 
+Annual energy generated per kW of plant capacity 5256.0kWh 
+generation cost Rs0.714kWh 

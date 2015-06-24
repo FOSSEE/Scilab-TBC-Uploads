@@ -1,0 +1,5 @@
+**Sample Problem 18-6a**
+The frequency of sound in case of open end is 255.970149Hz
+
+**Sample Problem 18-6b**
+The frequency of sound in case of open ends is 127.985075Hz 

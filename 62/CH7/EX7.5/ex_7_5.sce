@@ -1,0 +1,9 @@
+clc;
+clear;
+close;
+s=%s;
+r=2;
+L=4;
+c=6;
+tf=syslin('c',(1/(L*s+r+(1/(c*s)))));
+ss=tf2ss(tf)

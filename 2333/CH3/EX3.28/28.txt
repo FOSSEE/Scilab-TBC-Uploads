@@ -1,0 +1,5 @@
+# PROBLEM 28 # 
+ Standard formula used 
+ S = 1.22*lambda/(2*NA)  
+
+ Numerical aperture is 0.600218.

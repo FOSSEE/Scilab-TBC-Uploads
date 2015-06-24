@@ -1,0 +1,176 @@
+10#Appendix 2#10.9#Work done#ExampleA9.sce#2741/CH10/EX10.9/ExampleA9.sce#S##92327
+10#Appendix 2#10.8#Gas#ExampleA8.sce#2741/CH10/EX10.8/ExampleA8.sce#S##92326
+10#Appendix 2#10.7#Pressure #ExampleA7.sce#2741/CH10/EX10.7/ExampleA7.sce#S##92323
+10#Appendix 2#10.65#Radiant#ExampleA65.sce#2741/CH10/EX10.65/ExampleA65.sce#S##93982
+10#Appendix 2#10.64#Radiant#ExampleA64.sce#2741/CH10/EX10.64/ExampleA64.sce#S##93981
+10#Appendix 2#10.63#Heat#ExampleA63.sce#2741/CH10/EX10.63/ExampleA63.sce#S##93980
+10#Appendix 2#10.62#Temperature#ExampleA62.sce#2741/CH10/EX10.62/ExampleA62.sce#S##93979
+10#Appendix 2#10.61#Time#ExampleA61.sce#2741/CH10/EX10.61/ExampleA61.sce#S##93978
+10#Appendix 2#10.60#Entropy#ExampleA60.sce#2741/CH10/EX10.60/ExampleA60.sce#S##93977
+10#Appendix 2#10.6#Mean free path#ExampleA6.sce#2741/CH10/EX10.6/ExampleA6.sce#S##92322
+10#Appendix 2#10.59#Entropy#ExampleA59.sce#2741/CH10/EX10.59/ExampleA59.sce#S##93976
+10#Appendix 2#10.58#Entropy#ExampleA58.sce#2741/CH10/EX10.58/ExampleA58.sce#S##93975
+10#Appendix 2#10.57#Temperature#ExampleA57.sce#2741/CH10/EX10.57/ExampleA57.sce#S##93974
+10#Appendix 2#10.56#Temperature#ExampleA56.sce#2741/CH10/EX10.56/ExampleA56.sce#S##93973
+10#Appendix 2#10.55#Temperature#ExampleA55.sce#2741/CH10/EX10.55/ExampleA55.sce#S##93972
+10#Appendix 2#10.54#Power#ExampleA54.sce#2741/CH10/EX10.54/ExampleA54.sce#S##93971
+10#Appendix 2#10.53#Work done #ExampleA53.sce#2741/CH10/EX10.53/ExampleA53.sce#S##93970
+10#Appendix 2#10.52#Temperature#ExampleA52.sce#2741/CH10/EX10.52/ExampleA52.sce#S##93969
+10#Appendix 2#10.51#Work done#ExampleA51.sce#2741/CH10/EX10.51/ExampleA51.sce#S##93968
+10#Appendix 2#10.50#Temperature#ExampleA50.sce#2741/CH10/EX10.50/ExampleA50.sce#S##93967
+10#Appendix 2#10.49#Entropy#ExampleA49.sce#2741/CH10/EX10.49/ExampleA49.sce#S##93966
+10#Appendix 2#10.48#Collision#ExampleA48.sce#2741/CH10/EX10.48/ExampleA48.sce#S##93965
+10#Appendix 2#10.47#Mean Free path#ExampleA47.sce#2741/CH10/EX10.47/ExampleA47.sce#S##93964
+10#Appendix 2#10.44#Pressure#ExampleA44.sce#2741/CH10/EX10.44/ExampleA44.sce#S##93963
+10#Appendix 2#10.43#Heat#ExampleA43.sce#2741/CH10/EX10.43/ExampleA43.sce#S##93962
+10#Appendix 2#10.42#Fermi energy#ExampleA42.sce#2741/CH10/EX10.42/ExampleA42.sce#S##93961
+10#Appendix 2#10.41#Heat#ExampleA41.sce#2741/CH10/EX10.41/ExampleA41.sce#S##93960
+10#Appendix 2#10.40#Speed#ExampleA40.sce#2741/CH10/EX10.40/ExampleA40.sce#S##93959
+10#Appendix 2#10.4#Mean free path#ExampleA4.sce#2741/CH10/EX10.4/ExampleA4.sce#S##92321
+10#Appendix 2#10.39#mass#ExampleA39.sce#2741/CH10/EX10.39/ExampleA39.sce#S##93958
+10#Appendix 2#10.38#Energy#ExampleA38.sce#2741/CH10/EX10.38/ExampleA38.sce#S##93957
+10#Appendix 2#10.37#Temperature#ExampleA37.sce#2741/CH10/EX10.37/ExampleA37.sce#S##93956
+10#Appendix 2#10.36#Temperature#ExampleA36.sce#2741/CH10/EX10.36/ExampleA36.sce#S##93955
+10#Appendix 2#10.35#Energy#ExampleA35.sce#2741/CH10/EX10.35/ExampleA35.sce#S##93954
+10#Appendix 2#10.34#Pressure#ExampleA34.sce#2741/CH10/EX10.34/ExampleA34.sce#S##93953
+10#Appendix 2#10.33#Energy#ExampleA33.sce#2741/CH10/EX10.33/ExampleA33.sce#S##93952
+10#Appendix 2#10.32#Energy#ExampleA32.sce#2741/CH10/EX10.32/ExampleA32.sce#S##93951
+10#Appendix 2#10.31#Temperature#ExampleA31.sce#2741/CH10/EX10.31/ExampleA31.sce#S##93950
+10#Appendix 2#10.30#Temperature#ExampleA30.sce#2741/CH10/EX10.30/ExampleA30.sce#S##93949
+10#Appendix 2#10.3#Avogadro number#ExampleA3.sce#2741/CH10/EX10.3/ExampleA3.sce#S##92318
+10#Appendix 2#10.29#Temperature#ExampleA29.sce#2741/CH10/EX10.29/ExampleA29.sce#S##93948
+10#Appendix 2#10.28#Radius#ExampleA28.sce#2741/CH10/EX10.28/ExampleA28.sce#S##93947
+10#Appendix 2#10.27#Index#ExampleA27.sce#2741/CH10/EX10.27/ExampleA27.sce#S##93946
+10#Appendix 2#10.26#Temperature#ExampleA26.sce#2741/CH10/EX10.26/ExampleA26.sce#S##93945
+10#Appendix 2#10.25#Specific heat#ExampleA25.sce#2741/CH10/EX10.25/ExampleA25.sce#S##92487
+10#Appendix 2#10.24#Temperature#ExampleA24.sce#2741/CH10/EX10.24/ExampleA24.sce#S##92486
+10#Appendix 2#10.23#Entropy#ExampleA23.sce#2741/CH10/EX10.23/ExampleA23.sce#S##92485
+10#Appendix 2#10.22#Entropy#ExampleA22.sce#2741/CH10/EX10.22/ExampleA22.sce#S##92484
+10#Appendix 2#10.21#Temperature#ExampleA21.sce#2741/CH10/EX10.21/ExampleA21.sce#S##92483
+10#Appendix 2#10.20#Entropy#ExampleA20.sce#2741/CH10/EX10.20/ExampleA20.sce#S##92482
+10#Appendix 2#10.2#Temperature#ExampleA2.sce#2741/CH10/EX10.2/ExampleA2.sce#S##92317
+10#Appendix 2#10.19#Entropy#ExampleA19.sce#2741/CH10/EX10.19/ExampleA19.sce#S##92481
+10#Appendix 2#10.18#Entropy#ExampleA18.sce#2741/CH10/EX10.18/ExampleA18.sce#S##92480
+10#Appendix 2#10.17#Entropy#ExampleA17.sce#2741/CH10/EX10.17/ExampleA17.sce#S##92479
+10#Appendix 2#10.16#Entropy#ExampleA16.sce#2741/CH10/EX10.16/ExampleA16.sce#S##92478
+10#Appendix 2#10.15#Efficiency#ExampleA15.sce#2741/CH10/EX10.15/ExampleA15.sce#S##92477
+10#Appendix 2#10.14#Work done#ExampleA14.sce#2741/CH10/EX10.14/ExampleA14.sce#S##92475
+10#Appendix 2#10.13#Efficiency#ExampleA13.sce#2741/CH10/EX10.13/ExampleA13.sce#S##92473
+10#Appendix 2#10.12#Efficiency#ExampleA12.sce#2741/CH10/EX10.12/ExampleA12.sce#S##92471
+10#Appendix 2#10.11#Temperature#ExampleA11.sce#2741/CH10/EX10.11/ExampleA11.sce#S##92468
+10#Appendix 2#10.10#temperature#ExampleA10.sce#2741/CH10/EX10.10/ExampleA10.sce#S##92330
+10#Appendix 2#10.1#Kinetic energy#ExampleA1.sce#2741/CH10/EX10.1/ExampleA1.sce#S##92316
+9#STATISTICAL THERMODYNAMICS#9.1#Relative probabilities#Chapter9_Example1.sce#2741/CH9/EX9.1/Chapter9_Example1.sce#S##91256
+8#TRANSMISSION OF HEAT#8.9#Emittance#Chapter8_Example9.sce#2741/CH8/EX8.9/Chapter8_Example9.sce#S##91251
+8#TRANSMISSION OF HEAT#8.8#Radiant#Chapter8_Example8.sce#2741/CH8/EX8.8/Chapter8_Example8.sce#S##91250
+8#TRANSMISSION OF HEAT#8.7#Rate of energy transfer#Chapter8_Example7.sce#2741/CH8/EX8.7/Chapter8_Example7.sce#S##91249
+8#TRANSMISSION OF HEAT#8.6#Time#Chapter8_Example6.sce#2741/CH8/EX8.6/Chapter8_Example6.sce#S##91248
+8#TRANSMISSION OF HEAT#8.5#Time#Chapter8_Example5.sce#2741/CH8/EX8.5/Chapter8_Example5.sce#S##91247
+8#TRANSMISSION OF HEAT#8.4#Temperature#Chapter8_Example4.sce#2741/CH8/EX8.4/Chapter8_Example4.sce#S##91246
+8#TRANSMISSION OF HEAT#8.3#Heat#Chapter8_Example3.sce#2741/CH8/EX8.3/Chapter8_Example3.sce#S##91245
+8#TRANSMISSION OF HEAT#8.2#Heat#Chapter8_Example2.sce#2741/CH8/EX8.2/Chapter8_Example2.sce#S##91244
+8#TRANSMISSION OF HEAT#8.13#Temperature#Chapter8_Example13.sce#2741/CH8/EX8.13/Chapter8_Example13.sce#S##91255
+8#TRANSMISSION OF HEAT#8.12#Temperature#Chapter8_Example12.sce#2741/CH8/EX8.12/Chapter8_Example12.sce#S##91254
+8#TRANSMISSION OF HEAT#8.11#Energy radiated#Chapter8_Example11.sce#2741/CH8/EX8.11/Chapter8_Example11.sce#S##91253
+8#TRANSMISSION OF HEAT#8.10#Rate of heat transfer#Chapter8_Example10.sce#2741/CH8/EX8.10/Chapter8_Example10.sce#S##91252
+8#TRANSMISSION OF HEAT#8.1#Conductivity of iron#Chapter8_Example1.sce#2741/CH8/EX8.1/Chapter8_Example1.sce#S##91243
+6#THERMODYNAMICS#6.9#Efficiency#Chapter6_Example9.sce#2741/CH6/EX6.9/Chapter6_Example9.sce#S##90339
+6#THERMODYNAMICS#6.8#Efficiency#Chapter6_Example8.sce#2741/CH6/EX6.8/Chapter6_Example8.sce#S##90338
+6#THERMODYNAMICS#6.7#Pressure#Chapter6_Example7.sce#2741/CH6/EX6.7/Chapter6_Example7.sce#S##90337
+6#THERMODYNAMICS#6.6#Temperature#Chapter6_Example6.sce#2741/CH6/EX6.6/Chapter6_Example6.sce#S##90336
+6#THERMODYNAMICS#6.5#Temperature#Chapter6_Example5.sce#2741/CH6/EX6.5/Chapter6_Example5.sce#S##90335
+6#THERMODYNAMICS#6.45#Specific heat#Chapter6_Example45.sce#2741/CH6/EX6.45/Chapter6_Example45.sce#S##91242
+6#THERMODYNAMICS#6.44#Specific heat#Chapter6_Example44.sce#2741/CH6/EX6.44/Chapter6_Example44.sce#S##91241
+6#THERMODYNAMICS#6.43#Pressure#Chapter6_Example43.sce#2741/CH6/EX6.43/Chapter6_Example43.sce#S##91240
+6#THERMODYNAMICS#6.42#Pressure#Chapter6_Example42.sce#2741/CH6/EX6.42/Chapter6_Example42.sce#S##91239
+6#THERMODYNAMICS#6.4#Temperature#Chapter6_Example4.sce#2741/CH6/EX6.4/Chapter6_Example4.sce#S##90334
+6#THERMODYNAMICS#6.37#Entropy#Chapter6_Example37.sce#2741/CH6/EX6.37/Chapter6_Example37.sce#S##91238
+6#THERMODYNAMICS#6.36#Entropy#Chapter6_Example36.sce#2741/CH6/EX6.36/Chapter6_Example36.sce#S##91237
+6#THERMODYNAMICS#6.35#Entropy#Chapter6_Example35.sce#2741/CH6/EX6.35/Chapter6_Example35.sce#S##91236
+6#THERMODYNAMICS#6.34#Entropy#Chapter6_Example34.sce#2741/CH6/EX6.34/Chapter6_Example34.sce#S##91235
+6#THERMODYNAMICS#6.33#Entropy#Chapter6_Example33.sce#2741/CH6/EX6.33/Chapter6_Example33.sce#S##91234
+6#THERMODYNAMICS#6.32#Entropy#Chapter6_Example32.sce#2741/CH6/EX6.32/Chapter6_Example32.sce#S##91233
+6#THERMODYNAMICS#6.31#Entropy#Chapter6_Example31.sce#2741/CH6/EX6.31/Chapter6_Example31.sce#S##91232
+6#THERMODYNAMICS#6.30#Entropy#Chapter6_Example30.sce#2741/CH6/EX6.30/Chapter6_Example30.sce#S##91231
+6#THERMODYNAMICS#6.3#Temperature#Chapter6_Example3.sce#2741/CH6/EX6.3/Chapter6_Example3.sce#S##90333
+6#THERMODYNAMICS#6.29#Entropy#Chapter6_Example29.sce#2741/CH6/EX6.29/Chapter6_Example29.sce#S##91230
+6#THERMODYNAMICS#6.28#Pressure#Chapter6_Example28.sce#2741/CH6/EX6.28/Chapter6_Example28.sce#S##91229
+6#THERMODYNAMICS#6.26#Temperature#Chapter6_Example26.sce#2741/CH6/EX6.26/Chapter6_Example26.sce#S##91228
+6#THERMODYNAMICS#6.25#Latent heat#Chapter6_Example25.sce#2741/CH6/EX6.25/Chapter6_Example25.sce#S##91227
+6#THERMODYNAMICS#6.24#Pressure#Chapter6_Example24.sce#2741/CH6/EX6.24/Chapter6_Example24.sce#S##91226
+6#THERMODYNAMICS#6.23#Temperature#Chapter6_Example23.sce#2741/CH6/EX6.23/Chapter6_Example23.sce#S##91225
+6#THERMODYNAMICS#6.22#Temperature#Chapter6_Example22.sce#2741/CH6/EX6.22/Chapter6_Example22.sce#S##90887
+6#THERMODYNAMICS#6.21#Temperature#Chapter6_Example21.sce#2741/CH6/EX6.21/Chapter6_Example21.sce#S##90886
+6#THERMODYNAMICS#6.20#Temperature#Chapter6_Example20.sce#2741/CH6/EX6.20/Chapter6_Example20.sce#S##90350
+6#THERMODYNAMICS#6.2#Temperature#Chapter6_Example2.sce#2741/CH6/EX6.2/Chapter6_Example2.sce#S##90332
+6#THERMODYNAMICS#6.19#Temperature#Chapter6_Example19.sce#2741/CH6/EX6.19/Chapter6_Example19.sce#S##90349
+6#THERMODYNAMICS#6.18#Temperature#Chapter6_Example18.sce#2741/CH6/EX6.18/Chapter6_Example18.sce#S##90348
+6#THERMODYNAMICS#6.17#Temperature#Chapter6_Example17.sce#2741/CH6/EX6.17/Chapter6_Example17.sce#S##90347
+6#THERMODYNAMICS#6.16#Power#Chapter6_Example16.sce#2741/CH6/EX6.16/Chapter6_Example16.sce#S##90346
+6#THERMODYNAMICS#6.15#Efficiency#Chapter6_Example15.sce#2741/CH6/EX6.15/Chapter6_Example15.sce#S##90345
+6#THERMODYNAMICS#6.14#Temperature#Chapter6_Example14.sce#2741/CH6/EX6.14/Chapter6_Example14.sce#S##90344
+6#THERMODYNAMICS#6.13#Performance#Chapter6_Example13.sce#2741/CH6/EX6.13/Chapter6_Example13.sce#S##90343
+6#THERMODYNAMICS#6.12#Work done#Chapter6_Example12.sce#2741/CH6/EX6.12/Chapter6_Example12.sce#S##90342
+6#THERMODYNAMICS#6.11#Work done#Chapter6_Example11.sce#2741/CH6/EX6.11/Chapter6_Example11.sce#S##90341
+6#THERMODYNAMICS#6.10#Temperature#Chapter6_Example10.sce#2741/CH6/EX6.10/Chapter6_Example10.sce#S##90340
+6#THERMODYNAMICS#6.1#Heat#Chapter6_Example1.sce#2741/CH6/EX6.1/Chapter6_Example1.sce#S##90331
+5#NATURE OF HEAT#5.9#Molecules#Chapter5_Example9.sce#2741/CH5/EX5.9/Chapter5_Example9.sce#S##90248
+5#NATURE OF HEAT#5.7#Volume#Chapter5_Example7.sce#2741/CH5/EX5.7/Chapter5_Example7.sce#S##90245
+5#NATURE OF HEAT#5.6#Velocity#Chapter5_Example6.sce#2741/CH5/EX5.6/Chapter5_Example6.sce#S##90243
+5#NATURE OF HEAT#5.5#Temperature#Chapter5_Example5.sce#2741/CH5/EX5.5/Chapter5_Example5.sce#S##90242
+5#NATURE OF HEAT#5.4#Molecules#Chapter5_Example4.sce#2741/CH5/EX5.4/Chapter5_Example4.sce#S##90239
+5#NATURE OF HEAT#5.3#Temperature#Chapter5_Example3.sce#2741/CH5/EX5.3/Chapter5_Example3.sce#S##90234
+5#NATURE OF HEAT#5.25#Van der Waals#Chapter5_Example25.sce#2741/CH5/EX5.25/Chapter5_Example25.sce#S##90271
+5#NATURE OF HEAT#5.24#Mean free path#Chapter5_Example24.sce#2741/CH5/EX5.24/Chapter5_Example24.sce#S##90270
+5#NATURE OF HEAT#5.23#Mean free path#Chapter5_Example23.sce#2741/CH5/EX5.23/Chapter5_Example23.sce#S##90269
+5#NATURE OF HEAT#5.22#Mean free path#Chapter5_Example22.sce#2741/CH5/EX5.22/Chapter5_Example22.sce#S##90268
+5#NATURE OF HEAT#5.21#Mean free path#Chapter5_Example21.sce#2741/CH5/EX5.21/Chapter5_Example21.sce#S##90267
+5#NATURE OF HEAT#5.20#Temperature#Chapter5_Example20.sce#2741/CH5/EX5.20/Chapter5_Example20.sce#S##90266
+5#NATURE OF HEAT#5.2#Energy#Chapter5_Example2.sce#2741/CH5/EX5.2/Chapter5_Example2.sce#S##90232
+5#NATURE OF HEAT#5.19#Temperature#Chapter5_Example19.sce#2741/CH5/EX5.19/Chapter5_Example19.sce#S##90265
+5#NATURE OF HEAT#5.18#Speed#Chapter5_Example18.sce#2741/CH5/EX5.18/Chapter5_Example18.sce#S##90264
+5#NATURE OF HEAT#5.17#Velocity#Chapter5_Example17.sce#2741/CH5/EX5.17/Chapter5_Example17.sce#S##90263
+5#NATURE OF HEAT#5.16#Kinetic energy#Chapter5_Example16.sce#2741/CH5/EX5.16/Chapter5_Example16.sce#S##90261
+5#NATURE OF HEAT#5.15#Kinetic energy#Chapter5_Example15.sce#2741/CH5/EX5.15/Chapter5_Example15.sce#S##90260
+5#NATURE OF HEAT#5.14#Kinetic energy#Chapter5_Example14.sce#2741/CH5/EX5.14/Chapter5_Example14.sce#S##90259
+5#NATURE OF HEAT#5.13#Kinetic energy#Chapter5_Example13.sce#2741/CH5/EX5.13/Chapter5_Example13.sce#S##90257
+5#NATURE OF HEAT#5.12#Kinetic energy#Chapter5_Example12.sce#2741/CH5/EX5.12/Chapter5_Example12.sce#S##90256
+5#NATURE OF HEAT#5.11#Molecules#Chapter5_Example11.sce#2741/CH5/EX5.11/Chapter5_Example11.sce#S##90255
+5#NATURE OF HEAT#5.10#Molecules#Chapter5_Example10.sce#2741/CH5/EX5.10/Chapter5_Example10.sce#S##90252
+5#NATURE OF HEAT#5.1#Temperature#Chapter5_Example1.sce#2741/CH5/EX5.1/Chapter5_Example1.sce#S##90230
+4#CHANGE OF STATE#4.9#Dew point#Chapter4_Example9.sce#2741/CH4/EX4.9/Chapter4_Example9.sce#S##90227
+4#CHANGE OF STATE#4.8#Relative humidity#Chapter4_Example8.sce#2741/CH4/EX4.8/Chapter4_Example8.sce#S##90224
+4#CHANGE OF STATE#4.7#Specific heat#Chapter4_Example7.sce#2741/CH4/EX4.7/Chapter4_Example7.sce#S##90221
+4#CHANGE OF STATE#4.6#Specific heat#Chapter4_Example6.sce#2741/CH4/EX4.6/Chapter4_Example6.sce#S##90219
+4#CHANGE OF STATE#4.5#Heat removed#Chapter4_Example5.sce#2741/CH4/EX4.5/Chapter4_Example5.sce#S##90216
+4#CHANGE OF STATE#4.4#Latent heat#Chapter4_Example4.sce#2741/CH4/EX4.4/Chapter4_Example4.sce#S##90214
+4#CHANGE OF STATE#4.3#Ice#Chapter4_Example3.sce#2741/CH4/EX4.3/Chapter4_Example3.sce#S##90211
+4#CHANGE OF STATE#4.2#Amount of ice#Chapter4_Example2.sce#2741/CH4/EX4.2/Chapter4_Example2.sce#S##90209
+4#CHANGE OF STATE#4.1#Heat required#Chapter4_Example1.sce#2741/CH4/EX4.1/Chapter4_Example1.sce#S##90206
+3#CALORIMETRY#3.9#Specific heat#Chapter3_Example9.sce#2741/CH3/EX3.9/Chapter3_Example9.sce#S##90197
+3#CALORIMETRY#3.8#Gas constant#Chapter3_Example8.sce#2741/CH3/EX3.8/Chapter3_Example8.sce#S##90195
+3#CALORIMETRY#3.7#Thermal constant#Chapter3_Example7.sce#2741/CH3/EX3.7/Chapter3_Example7.sce#S##90194
+3#CALORIMETRY#3.6#Temperature#Chapter3_Example6.sce#2741/CH3/EX3.6/Chapter3_Example6.sce#S##90191
+3#CALORIMETRY#3.5#Temperature#Chapter3_Example5.sce#2741/CH3/EX3.5/Chapter3_Example5.sce#S##90188
+3#CALORIMETRY#3.4#Time#Chapter3_Example4.sce#2741/CH3/EX3.4/Chapter3_Example4.sce#S##90186
+3#CALORIMETRY#3.3#Temperature#Chapter3_Example3.sce#2741/CH3/EX3.3/Chapter3_Example3.sce#S##90184
+3#CALORIMETRY#3.2#Thermal capacity#Chapter3_Example2.sce#2741/CH3/EX3.2/Chapter3_Example2.sce#S##90182
+3#CALORIMETRY#3.11#Efficiency#Chapter3_Example11.sce#2741/CH3/EX3.11/Chapter3_Example11.sce#S##90203
+3#CALORIMETRY#3.10#Specific heat#Chapter3_Example10.sce#2741/CH3/EX3.10/Chapter3_Example10.sce#S##90200
+3#CALORIMETRY#3.1#Time#Chapter3_Example1.sce#2741/CH3/EX3.1/Chapter3_Example1.sce#S##90179
+2#EXPANSION#2.5#Force#Chapter2_Example5.sce#2741/CH2/EX2.5/Chapter2_Example5.sce#S##90053
+2#EXPANSION#2.4#Energy#Chapter2_Example4.sce#2741/CH2/EX2.4/Chapter2_Example4.sce#S##90051
+2#EXPANSION#2.3#Tension#Chapter2_Example3.sce#2741/CH2/EX2.3/Chapter2_Example3.sce#S##90048
+2#EXPANSION#2.2#Stress#Chapter2_Example2.sce#2741/CH2/EX2.2/Chapter2_Example2.sce#S##90045
+2#EXPANSION#2.1#Expansion#Chapter2_Example1.sce#2741/CH2/EX2.1/Chapter2_Example1.sce#S##90042
+1#THERMOMETRY#1.9#Temperature#9.sce#2741/CH1/EX1.9/9.sce#S##90028
+1#THERMOMETRY#1.8#Temperature#8.sce#2741/CH1/EX1.8/8.sce#S##90026
+1#THERMOMETRY#1.7#Temperature#7.sce#2741/CH1/EX1.7/7.sce#S##90024
+1#THERMOMETRY#1.6#Temperature#6.sce#2741/CH1/EX1.6/6.sce#S##90023
+1#THERMOMETRY#1.5#Temperature#5.sce#2741/CH1/EX1.5/5.sce#S##90022
+1#THERMOMETRY#1.4#Temperature#4.sce#2741/CH1/EX1.4/4.sce#S##90021
+1#THERMOMETRY#1.3#Temperature#3.sce#2741/CH1/EX1.3/3.sce#S##90020
+1#THERMOMETRY#1.2#Temperature#2.sce#2741/CH1/EX1.2/2.sce#S##90019
+1#THERMOMETRY#1.11#Temperature#Chapter1_Example11.sce#2741/CH1/EX1.11/Chapter1_Example11.sce#S##90033
+1#THERMOMETRY#1.10#Temperature#10.sce#2741/CH1/EX1.10/10.sce#S##90030
+1#THERMOMETRY#1.1#Temperature#1.sce#2741/CH1/EX1.1/1.sce#S##90018

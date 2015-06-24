@@ -1,0 +1,1 @@
+ The radiation resistance of an antenna = 30.864198 ohm 

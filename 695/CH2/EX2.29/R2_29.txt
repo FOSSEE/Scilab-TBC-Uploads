@@ -1,0 +1,7 @@
+ (a) Additional resistance at starting (in ohms)=   
+ 
+    5.7  
+ 
+ (b) Additional resistance at 1000 rpm (in ohms)=   
+ 
+    1.9  

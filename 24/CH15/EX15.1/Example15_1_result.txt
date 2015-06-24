@@ -1,0 +1,5 @@
+**Sample Problem 15-1a**
+The weight of the air in the room is equal to 418.350240kg
+
+**Sample Problem 15-1b**
+The magnitude of atmosphere force on the floor of the 

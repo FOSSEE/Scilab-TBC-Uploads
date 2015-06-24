@@ -1,0 +1,3 @@
+The impedence of the unknown arm = 1000 ohm /_ -50 deg
+Here the magnitude of impedence is 1000 and phase angle is 50 in degrees
+The above value indicates that we are dealing with a capacitive element, possibly consisting of a series combination of a resistor and capacitance 

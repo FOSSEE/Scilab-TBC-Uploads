@@ -1,0 +1,2 @@
+* Output voltage at 0 degree is = 1.47 V 
+* Output voltage at 100 degree is = -4.41 V

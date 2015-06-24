@@ -1,0 +1,15 @@
+Energy at First three levels for a 1s simple pendulum :
+
+E_1 : 6.625 x 10^-34 J
+E_2 : 13.250 x 10^-34 J
+E_3 : 19.875 x 10^-34 J
+Energy at First three levels  for a hydrogen electron :
+
+E_1 : -13.60 J
+E_2 : -3.40 J
+E_3 : -1.51 J
+Quantum number n is : 2.98 x 10^28 
+
+Percentage change in energy ( pendulum ) is 3.356 x 10^-27 
+
+Percentage change in energy (hydrogen electron) is  75.0 

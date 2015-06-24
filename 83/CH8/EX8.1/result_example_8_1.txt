@@ -1,0 +1,8 @@
+ 
+
+Kinetic Energy stored in the rotating parts of generator and turbine = 500000 kW-sec
+Excess power input to generator before the stem valve begins to close=50 MW
+Excess energy input to rotating parts in 0.4sec=20000 kW-sec
+Frequency at the end of 0.4sec=50.99 Hz
+
+ 

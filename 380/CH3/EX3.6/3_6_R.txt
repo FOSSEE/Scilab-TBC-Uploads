@@ -1,0 +1,15 @@
+ (a) frequency of induced emf (in Hertz)=   
+ 
+    60.  
+ 
+ (b) max value of induced emf in coil (in Volts)=   
+ 
+    169.646  
+ 
+ (c) rms value of induced emf (in Volts)=   
+ 
+    119.95784  
+ 
+ (d) average value of induced emf (in Volts)=   
+ 
+    108.

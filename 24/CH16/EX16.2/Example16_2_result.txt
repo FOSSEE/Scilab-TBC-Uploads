@@ -1,0 +1,6 @@
+**Sample Problem 16-2a**
+The angular frequency of SHM is equal to 23.514701rad/s
+
+**Sample Problem 16-2b**
+The value of phi is -24.716037 degrees
+The maximum value of displacement is equal to -9.357202cm 

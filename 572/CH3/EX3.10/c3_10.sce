@@ -1,0 +1,3 @@
+//(3.10)  One kmol of carbon dioxide gas (CO2) in a piston–cylinder assembly undergoes a constant-pressure process at 1 bar from T1 = 300 K to T2. Plot the heat transfer to the gas, in kJ, versus T2 ranging from 300 to 1500 K. Assume the ideal gas model, and determine the specific internal energy change of the gas using. (a)Ubar data from IT.(b) a constant Cv bar evaluated at T1 from IT.
+
+printf('This is solved by the referred software ')

@@ -1,0 +1,75 @@
+
+
+ Input Rating of the single equivalent motor = 5001117 kVA 
+ 
+ For Motor   
+
+X11 = 0.3 per unit
+ X_2 = 0.3 per unit
+ X_0 = 0.06 per unit
+ 3X_n = 0.09 per unit
+
+ The equivalent generator reactance from neutral to ground in the zero-sequence network = 0.15 per unit
+
+ Base current in motor circuit = 7217 
+
+
+ Prefault current through line a = 0.565 - j0.350 per unit
+
+
+
+ Z1 = j0.12 per unit
+ Z2 = j0.12 per unit
+ Z0 = j0.15 per unit
+
+ Current Ia in fault = -j7.693 per unit 
+ 
+ Currents in the line at the fault from the transformer in the order Ia,Ib,Ic in per unit are   
+ 
+  - 3.0768173i              
+    6.661D-16 + 1.5384086i  
+    6.661D-16 + 1.5384086i  
+ 
+ Currents in the line at the fault from the transformer in the order Ia,Ib,Ic in A are   
+ 
+    22205.016  
+    11102.508  
+    11102.508  
+ 
+ Currents in the line at the fault from the motor in the order Ia,Ib,Ic in per unit are   
+ 
+  - 4.6159135i              
+    3.331D-16 - 1.5384086i  
+    3.331D-16 - 1.5384086i  
+ 
+ Currents in the line at the fault from the motor in the order Ia,Ib,Ic in A are   
+ 
+    33312.486  
+    11102.508  
+    11102.508  
+ 
+ Per Units currents in the order I_A,I_B,I_C in per unit are   
+ 
+    0  
+ 
+    8.882D-16 + 2.6646019i  
+ 
+  - 8.882D-16 - 2.6646019i  
+ 
+ Per Units currents in the order I_A,I_B,I_C in A are   
+ 
+    0.  
+ 
+    2775.627  
+ 
+    2775.627  
+ 
+ Under loaded conditions   
+ 
+ Current from transformer to the fault phase a   
+ 
+    0.5651515 - 1.8886581i  
+ 
+ Current from motor to the fault phase a   
+ 
+  - 0.5651515 - 0.6755855i  

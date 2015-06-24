@@ -1,0 +1,56 @@
+-->//(Power Screws) Example 6.7
+ 
+-->//Speed of the tool holder v (m/min)
+ 
+-->v = 5
+ v  =
+ 
+    5.  
+ 
+-->//Number of starts of the screw n
+ 
+-->n = 1
+ n  =
+ 
+    1.  
+ 
+-->//Nominal diameter of the screw d (mm)
+ 
+-->d = 48
+ d  =
+ 
+    48.  
+ 
+-->//Pitch of the screw p (mm)
+ 
+-->p = 8
+ p  =
+ 
+    8.  
+ 
+-->//Force exerted by operating nut W (N)
+ 
+-->W = 500
+ W  =
+ 
+    500.  
+ 
+-->//Mean radius of the friction collar rm (mm)
+ 
+-->rm = 40
+ rm  =
+ 
+    40.  
+ 
+-->//Coefficient of friction at thread and collar surfaces mu
+ 
+-->mu = 0.15
+ mu  =
+ 
+    0.15  
+ 
+
+The power required to drive the screw(kW) = 0.347319 kW
+
+Efficiency of the mechanism(eta) = 11.996655 percent
+ 

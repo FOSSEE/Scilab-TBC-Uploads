@@ -1,0 +1,79 @@
+-->//(Springs) Example 10.2
+ 
+-->//Minimum force acting on the helical spring Pmin (kN)
+ 
+-->Pmin = 2.5
+ Pmin  =
+ 
+    2.5  
+ 
+-->//Maximum force acting on the helical spring Pmax (kN)
+ 
+-->Pmax = 3.5
+ Pmax  =
+ 
+    3.5  
+ 
+-->//Deflection of the spring delta (mm)
+ 
+-->delta = 5
+ delta  =
+ 
+    5.  
+ 
+-->//Spring index C
+ 
+-->C = 5
+ C  =
+ 
+    5.  
+ 
+-->//Ultimate tensile strength of the spring material Sut (N/mm2)
+ 
+-->Sut = 1050
+ Sut  =
+ 
+    1050.  
+ 
+-->//Rigidity modulus of the material G (N/mm2)
+ 
+-->G = 81370
+ G  =
+ 
+    81370.  
+ 
+-->//For plain ends, endtype = 1
+ 
+-->//For plain ends(ground), endtype = 2
+ 
+-->//For square ends, endtype = 3
+ 
+-->//For square ends(ground), endtype = 4
+ 
+-->endtype = 4
+ endtype  =
+ 
+    4.  
+ 
+-->//Gap between consecutive coils g (mm)
+ 
+-->g = 0.5
+ g  =
+ 
+    0.5  
+ 
+
+Wire diameter(d) = 10.546976 or 11.000000 mm
+
+Mean coil diameter(D) = 55.000000 mm
+
+Number of active coils(N) = 5
+
+Total number of coils(Nt) = 7
+
+Free length of the spring(l) = 99.551543 or 100.000000 mm
+
+Required spring rate(kreq) = 200.000000 N/mm
+
+Actual spring rate(kact) = 179.014000 N/mm
+ 

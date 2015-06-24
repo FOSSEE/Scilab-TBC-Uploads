@@ -1,0 +1,3 @@
+
+12.inductance=110.281560 micro-henry
+   R=8.838259 ohm 

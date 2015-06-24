@@ -1,0 +1,8 @@
+ Power gain (in dB) =   
+ 
+    2.3025851  
+ 
+ Power gain as USB converter (in dB) =   
+ 
+    19.459101  
+ 

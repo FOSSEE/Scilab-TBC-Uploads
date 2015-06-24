@@ -1,0 +1,3 @@
+maximum power dissipation is 1.25 watts
+maximum output power is 6.25 watts
+

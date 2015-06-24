@@ -1,0 +1,2 @@
+ (a)Av when v2 is zero = -0.499
+(b)Av when v1 is zero = 0.952 

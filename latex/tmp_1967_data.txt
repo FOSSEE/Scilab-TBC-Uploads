@@ -1,0 +1,107 @@
+19#EMF and the thermodynamics of ions#19.6#example 6#19_6.sce#1967/CH19/EX19.6/19_6.sce#S##67937
+19#EMF and the thermodynamics of ions#19.5#example 5#19_5.sce#1967/CH19/EX19.5/19_5.sce#S##67936
+19#EMF and the thermodynamics of ions#19.4#example 4#19_4.sce#1967/CH19/EX19.4/19_4.sce#S##67935
+19#EMF and the thermodynamics of ions#19.3#example 3#19_3.sce#1967/CH19/EX19.3/19_3.sce#S##67934
+19#EMF and the thermodynamics of ions#19.2#example 2#19_2.sce#1967/CH19/EX19.2/19_2.sce#S##69642
+19#EMF and the thermodynamics of ions#19.1#example 1#19_1.sce#1967/CH19/EX19.1/19_1.sce#S##67933
+18#Partial Molar Properties#18.7#example 7#18_7.sce#1967/CH18/EX18.7/18_7.sce#S##69537
+18#Partial Molar Properties#18.6#example 6#18_6.sce#1967/CH18/EX18.6/18_6.sce#S##67931
+18#Partial Molar Properties#18.5#example 5#18_5.sce#1967/CH18/EX18.5/18_5.sce#S##69536
+18#Partial Molar Properties#18.4#example 4#18_4.sce#1967/CH18/EX18.4/18_4.sce#S##67929
+18#Partial Molar Properties#18.3#example 3#18_3.sce#1967/CH18/EX18.3/18_3.sce#S##67928
+18#Partial Molar Properties#18.2#example 2#18_2.sce#1967/CH18/EX18.2/18_2.sce#S##67927
+18#Partial Molar Properties#18.1#example 1#18_1.sce#1967/CH18/EX18.1/18_1.sce#S##67926
+17#The Debye Huckel Theory#17.2#example 2#17_2.sce#1967/CH17/EX17.2/17_2.sce#S##67925
+17#The Debye Huckel Theory#17.1#example 1#17_1.sce#1967/CH17/EX17.1/17_1.sce#S##67924
+16#Solutions of Electrolytes#16.3#example 3#16_3.sce#1967/CH16/EX16.3/16_3.sce#S##69535
+16#Solutions of Electrolytes#16.2#example 2#16_2.sce#1967/CH16/EX16.2/16_2.sce#S##67922
+16#Solutions of Electrolytes#16.1#example 1#16_1.sce#1967/CH16/EX16.1/16_1.sce#S##69539
+15#Activities and Activity coefficients#15.6#example 6#15_6.sce#1967/CH15/EX15.6/15_6.sce#S##67920
+15#Activities and Activity coefficients#15.5#example 5#15_5.sce#1967/CH15/EX15.5/15_5.sce#S##67919
+15#Activities and Activity coefficients#15.4#example 4#15_4.sce#1967/CH15/EX15.4/15_4.sce#S##67918
+15#Activities and Activity coefficients#15.3#example 3#15_3.sce#1967/CH15/EX15.3/15_3.sce#S##69641
+15#Activities and Activity coefficients#15.2#example 2#15_2.sce#1967/CH15/EX15.2/15_2.sce#S##67917
+15#Activities and Activity coefficients#15.1#example 1#15_1.sce#1967/CH15/EX15.1/15_1.sce#S##67916
+14#The Properties of Solution#14.5#example 5#14_5.sce#1967/CH14/EX14.5/14_5.sce#S##69640
+14#The Properties of Solution#14.4#example 4#14_4.sce#1967/CH14/EX14.4/14_4.sce#S##67914
+14#The Properties of Solution#14.3#example 3#14_3.sce#1967/CH14/EX14.3/14_3.sce#S##67913
+14#The Properties of Solution#14.2#example 2#14_2.sce#1967/CH14/EX14.2/14_2.sce#S##67912
+14#The Properties of Solution#14.1#example 1#14_1.sce#1967/CH14/EX14.1/14_1.sce#S##67911
+13#Free Energy and Chemical Reactions#13.9#example 9#13_9.sce#1967/CH13/EX13.9/13_9.sce#S##69499
+13#Free Energy and Chemical Reactions#13.8#example 8#13_8.sce#1967/CH13/EX13.8/13_8.sce#S##69500
+13#Free Energy and Chemical Reactions#13.7#example 7#13_7.sce#1967/CH13/EX13.7/13_7.sce#S##67905
+13#Free Energy and Chemical Reactions#13.6#example 6#13_6.sce#1967/CH13/EX13.6/13_6.sce#S##67904
+13#Free Energy and Chemical Reactions#13.5#example 5#13_5.sce#1967/CH13/EX13.5/13_5.sce#S##67903
+13#Free Energy and Chemical Reactions#13.4#example 4#13_4.sce#1967/CH13/EX13.4/13_4.sce#S##67902
+13#Free Energy and Chemical Reactions#13.3#example 3#13_3.sce#1967/CH13/EX13.3/13_3.sce#S##67901
+13#Free Energy and Chemical Reactions#13.2#example 2#13_2.sce#1967/CH13/EX13.2/13_2.sce#S##69638
+13#Free Energy and Chemical Reactions#13.12#example 12#13_12.sce#1967/CH13/EX13.12/13_12.sce#S##67910
+13#Free Energy and Chemical Reactions#13.11#example 11#13_11.sce#1967/CH13/EX13.11/13_11.sce#S##67909
+13#Free Energy and Chemical Reactions#13.10#example 10#13_10.sce#1967/CH13/EX13.10/13_10.sce#S##67908
+13#Free Energy and Chemical Reactions#13.1#example 1#13_1.sce#1967/CH13/EX13.1/13_1.sce#S##67899
+12#Fugacity and Activity#12.3#example 3#12_3.sce#1967/CH12/EX12.3/12_3.sce#S##67898
+12#Fugacity and Activity#12.2#example 2#12_2.sce#1967/CH12/EX12.2/12_2.sce#S##67897
+12#Fugacity and Activity#12.1#example 1#12_1.sce#1967/CH12/EX12.1/12_1.sce#S##69637
+11#Phase Equilibria#11.9#example 9#11_9.sce#1967/CH11/EX11.9/11_9.sce#S##67896
+11#Phase Equilibria#11.8#example 8#11_8.sce#1967/CH11/EX11.8/11_8.sce#S##69480
+11#Phase Equilibria#11.7#example 7#11_7.sce#1967/CH11/EX11.7/11_7.sce#S##69475
+11#Phase Equilibria#11.6#example 6#11_6.sce#1967/CH11/EX11.6/11_6.sce#S##69479
+11#Phase Equilibria#11.5#example 5#11_5.sce#1967/CH11/EX11.5/11_5.sce#S##67893
+11#Phase Equilibria#11.4#example 4#11_4.sce#1967/CH11/EX11.4/11_4.sce#S##67892
+11#Phase Equilibria#11.3#example 3#11_3.sce#1967/CH11/EX11.3/11_3.sce#S##69478
+11#Phase Equilibria#11.2#example 2#11_2.sce#1967/CH11/EX11.2/11_2.sce#S##67890
+11#Phase Equilibria#11.1#example 1#11_1.sce#1967/CH11/EX11.1/11_1.sce#S##69476
+9#Entropy determination and Significance#9.4#example 4#9_4.sce#1967/CH9/EX9.4/9_4.sce#S##67888
+9#Entropy determination and Significance#9.3#example 3#9_3.sce#1967/CH9/EX9.3/9_3.sce#S##67887
+9#Entropy determination and Significance#9.2#example 2#9_2.sce#1967/CH9/EX9.2/9_2.sce#S##67886
+9#Entropy determination and Significance#9.1#example 1#9_1.sce#1967/CH9/EX9.1/9_1.sce#S##69456
+8#Entropy relationships and applications#8.9#example 9#8_9.sce#1967/CH8/EX8.9/8_9.sce#S##69453
+8#Entropy relationships and applications#8.8#example 8#8_8.sce#1967/CH8/EX8.8/8_8.sce#S##67883
+8#Entropy relationships and applications#8.7#example 7#8_7.sce#1967/CH8/EX8.7/8_7.sce#S##67882
+8#Entropy relationships and applications#8.6#example 6#8_6.sce#1967/CH8/EX8.6/8_6.sce#S##67881
+8#Entropy relationships and applications#8.5#example 5#8_5.sce#1967/CH8/EX8.5/8_5.sce#S##69454
+8#Entropy relationships and applications#8.4#example 4#8_4.sce#1967/CH8/EX8.4/8_4.sce#S##69452
+8#Entropy relationships and applications#8.3#example 3#8_3.sce#1967/CH8/EX8.3/8_3.sce#S##67878
+8#Entropy relationships and applications#8.2#example 2#8_2.sce#1967/CH8/EX8.2/8_2.sce#S##67877
+8#Entropy relationships and applications#8.1#example 1#8_1.sce#1967/CH8/EX8.1/8_1.sce#S##67876
+7#The second law of thermodynamics#7.3#example 3#7_3.sce#1967/CH7/EX7.3/7_3.sce#S##67875
+7#The second law of thermodynamics#7.2#example 2#7_2.sce#1967/CH7/EX7.2/7_2.sce#S##69451
+7#The second law of thermodynamics#7.1#example 1#7_1.sce#1967/CH7/EX7.1/7_1.sce#S##67873
+6#Calculation of energy and heat capcity#6.9#example 9#6_9.sce#1967/CH6/EX6.9/6_9.sce#S##69450
+6#Calculation of energy and heat capcity#6.8#example 8#6_8.sce#1967/CH6/EX6.8/6_8.sce#S##69449
+6#Calculation of energy and heat capcity#6.7#example 7#6_7.sce#1967/CH6/EX6.7/6_7.sce#S##69448
+6#Calculation of energy and heat capcity#6.6#example 6#6_6.sce#1967/CH6/EX6.6/6_6.sce#S##69636
+6#Calculation of energy and heat capcity#6.5#example 5#6_5.sce#1967/CH6/EX6.5/6_5.sce#S##67869
+6#Calculation of energy and heat capcity#6.4#example 4#6_4.sce#1967/CH6/EX6.4/6_4.sce#S##67868
+6#Calculation of energy and heat capcity#6.3#example 3#6_3.sce#1967/CH6/EX6.3/6_3.sce#S##67867
+6#Calculation of energy and heat capcity#6.2#example 2#6_2.sce#1967/CH6/EX6.2/6_2.sce#S##69447
+6#Calculation of energy and heat capcity#6.1#example 1#6_1.sce#1967/CH6/EX6.1/6_1.sce#S##67865
+5#Thermochemistry#5.9#example 9#5_9.sce#1967/CH5/EX5.9/5_9.sce#S##67862
+5#Thermochemistry#5.8#example 8#5_8.sce#1967/CH5/EX5.8/5_8.sce#S##69635
+5#Thermochemistry#5.7#example 7#5_7.sce#1967/CH5/EX5.7/5_7.sce#S##67861
+5#Thermochemistry#5.6#example 6#5_6.sce#1967/CH5/EX5.6/5_6.sce#S##69446
+5#Thermochemistry#5.5#example 5#5_5.sce#1967/CH5/EX5.5/5_5.sce#S##67859
+5#Thermochemistry#5.4#example 4#5_4.sce#1967/CH5/EX5.4/5_4.sce#S##67858
+5#Thermochemistry#5.3#example 3#5_3.sce#1967/CH5/EX5.3/5_3.sce#S##67857
+5#Thermochemistry#5.2#example 2#5_2.sce#1967/CH5/EX5.2/5_2.sce#S##67856
+5#Thermochemistry#5.11#example 11#5_11.sce#1967/CH5/EX5.11/5_11.sce#S##67864
+5#Thermochemistry#5.10#example 10#5_10.sce#1967/CH5/EX5.10/5_10.sce#S##67863
+5#Thermochemistry#5.1#example 1#5_1.sce#1967/CH5/EX5.1/5_1.sce#S##67855
+4#Heat changes and heat capacities#4.6#example 6#4_6.sce#1967/CH4/EX4.6/4_6.sce#S##69443
+4#Heat changes and heat capacities#4.5#example 5#4_5.sce#1967/CH4/EX4.5/4_5.sce#S##69444
+4#Heat changes and heat capacities#4.4#example 4#4_4.sce#1967/CH4/EX4.4/4_4.sce#S##67853
+4#Heat changes and heat capacities#4.3#example 3#4_3.sce#1967/CH4/EX4.3/4_3.sce#S##67852
+4#Heat changes and heat capacities#4.2#example 2#4_2.sce#1967/CH4/EX4.2/4_2.sce#S##67851
+4#Heat changes and heat capacities#4.1#example 1#4_1.sce#1967/CH4/EX4.1/4_1.sce#S##69445
+3#The first law of thermodynamics#3.2#example 2#3_2.sce#1967/CH3/EX3.2/3_2.sce#S##67849
+3#The first law of thermodynamics#3.1#example 1#3_1.sce#1967/CH3/EX3.1/3_1.sce#S##67848
+2#Properties of thromodynamic systems#2.6#example 6#2_6.sce#1967/CH2/EX2.6/2_6.sce#S##69441
+2#Properties of thromodynamic systems#2.5#example 5#2_5.sce#1967/CH2/EX2.5/2_5.sce#S##69442
+2#Properties of thromodynamic systems#2.4#example 4#2_4.sce#1967/CH2/EX2.4/2_4.sce#S##67846
+2#Properties of thromodynamic systems#2.3#example 3#2_3.sce#1967/CH2/EX2.3/2_3.sce#S##67845
+2#Properties of thromodynamic systems#2.2#example 2#2_2.sce#1967/CH2/EX2.2/2_2.sce#S##67844
+2#Properties of thromodynamic systems#2.1#example 2#2_1.sce#1967/CH2/EX2.1/2_1.sce#S##67843
+1#Heat work and energy#1.4#example 4#1_4.sce#1967/CH1/EX1.4/1_4.sce#S##69440
+1#Heat work and energy#1.3#example 3#1_3.sce#1967/CH1/EX1.3/1_3.sce#S##69439
+1#Heat work and energy#1.2#example 1#1_2.sce#1967/CH1/EX1.2/1_2.sce#S##67841
+1#Heat work and energy#1.1#example 1#1_1.sce#1967/CH1/EX1.1/1_1.sce#S##67840

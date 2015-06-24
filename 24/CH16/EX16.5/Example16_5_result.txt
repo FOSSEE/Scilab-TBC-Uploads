@@ -1,0 +1,5 @@
+**Sample Problem 16-5a**
+The time period of SHm is 1.638782s
+
+**Sample Problem 16-5b**
+The distance of center of oscillation from the pivot is 66.666667cm 

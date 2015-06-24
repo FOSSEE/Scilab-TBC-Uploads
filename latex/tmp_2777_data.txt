@@ -1,0 +1,132 @@
+7#Special Motors and Introduction to Generalized Machines Theory#7.9#To find no load slips#Ex7_9.sce#2777/CH7/EX7.9/Ex7_9.sce#S##106121
+7#Special Motors and Introduction to Generalized Machines Theory#7.8#To find current and pf of the motor#Ex7_8.sce#2777/CH7/EX7.8/Ex7_8.sce#S##106120
+7#Special Motors and Introduction to Generalized Machines Theory#7.7#To find line current pf and efficiency of motor#Ex7_7.sce#2777/CH7/EX7.7/Ex7_7.sce#S##106119
+7#Special Motors and Introduction to Generalized Machines Theory#7.6#To find current pf torque at rated condition and speed pf torque and efficiency at load current is halved#Ex7_6.sce#2777/CH7/EX7.6/Ex7_6.sce#S##106118
+7#Special Motors and Introduction to Generalized Machines Theory#7.5#To find speed and pf#Ex7_5.sce#2777/CH7/EX7.5/Ex7_5.sce#S##106117
+7#Special Motors and Introduction to Generalized Machines Theory#7.4#To find the resultant torque#Ex7_4.sce#2777/CH7/EX7.4/Ex7_4.sce#S##106116
+7#Special Motors and Introduction to Generalized Machines Theory#7.3#To find resultant torque and stator phase currents#Ex7_3.sce#2777/CH7/EX7.3/Ex7_3.sce#S##106115
+7#Special Motors and Introduction to Generalized Machines Theory#7.2#To find torque and number of the conductors required#Ex7_2.sce#2777/CH7/EX7.2/Ex7_2.sce#S##106114
+7#Special Motors and Introduction to Generalized Machines Theory#7.14#To find positive sequence negative sequence zero sequence voltages#Ex7_14.sce#2777/CH7/EX7.14/Ex7_14.sce#S##106125
+7#Special Motors and Introduction to Generalized Machines Theory#7.13#To find torque and state whether force is positive or negative#Ex7_13.sce#2777/CH7/EX7.13/Ex7_13.sce#S##106124
+7#Special Motors and Introduction to Generalized Machines Theory#7.11#To find input pulse rate in pulses per second #Ex7_11.sce#2777/CH7/EX7.11/Ex7_11.sce#S##106123
+7#Special Motors and Introduction to Generalized Machines Theory#7.10#To find synchronous linear speed per phase current and pf#Ex7_10.sce#2777/CH7/EX7.10/Ex7_10.sce#S##106122
+7#Special Motors and Introduction to Generalized Machines Theory#7.1#To find induced EMF#Ex7_1.sce#2777/CH7/EX7.1/Ex7_1.sce#S##106113
+6#Synchronous Machines#6.9#To find induced EMF power angle and percent regulation#Ex6_9.sce#2777/CH6/EX6.9/Ex6_9.sce#S##106135
+6#Synchronous Machines#6.7#To find open circuit EMF in each cases#Ex6_7.sce#2777/CH6/EX6.7/Ex6_7.sce#S##106133
+6#Synchronous Machines#6.6#To find open circuit EMF in each cases#Ex6_6.sce#2777/CH6/EX6.6/Ex6_6.sce#S##106132
+6#Synchronous Machines#6.5a#To find Synchronous reactance and open circuit EMF in each cases#Ex6_5a.sce#2777/CH6/EX6.5a/Ex6_5a.sce#S##106130
+6#Synchronous Machines#6.4#To find leakage reactance and open circuit EMF in each cases#Ex6_4.sce#2777/CH6/EX6.4/Ex6_4.sce#S##106129
+6#Synchronous Machines#6.33#To find the ratio of the maximum electromagnetic torque to the actual electromagnetic torque#Ex6_33.sce#2777/CH6/EX6.33/Ex6_33.sce#S##106158
+6#Synchronous Machines#6.32#To find induced EMF per phase power angle and percent regulation#Ex6_32.sce#2777/CH6/EX6.32/Ex6_32.sce#S##106157
+6#Synchronous Machines#6.31#To find induced EMF per phase torque angle and power in each cases#Ex6_31.sce#2777/CH6/EX6.31/Ex6_31.sce#S##106156
+6#Synchronous Machines#6.30#To find power and torque#Ex6_30.sce#2777/CH6/EX6.30/Ex6_30.sce#S##106155
+6#Synchronous Machines#6.3#To find Synchronous speed in each cases#Ex6_3.sce#2777/CH6/EX6.3/Ex6_3.sce#S##106128
+6#Synchronous Machines#6.29#To find torque and operating speed#Ex6_29.sce#2777/CH6/EX6.29/Ex6_29.sce#S##106154
+6#Synchronous Machines#6.28#To find torque and operating speed#Ex6_28.sce#2777/CH6/EX6.28/Ex6_28.sce#S##106153
+6#Synchronous Machines#6.27#To find Overall and individual currents of the machines and pf#Ex6_27.sce#2777/CH6/EX6.27/Ex6_27.sce#S##106152
+6#Synchronous Machines#6.25#To find reactive kVA of the motor and overall pf of the motor and load and resultant current#Ex6_25.sce#2777/CH6/EX6.25/Ex6_25.sce#S##106151
+6#Synchronous Machines#6.23#To find maximum value of power angle and maximum value of overshoot#Ex6_23.sce#2777/CH6/EX6.23/Ex6_23.sce#S##106149
+6#Synchronous Machines#6.23#To find maximum value of power angle and maximum value of overshoot#Ex6_23.png#2777/CH6/EX6.23/Ex6_23.png#R##106855
+6#Synchronous Machines#6.23#To find maximum value of power angle and maximum value of overshoot#Ex6_23.xcos#2777/CH6/EX6.23/Ex6_23.xcos#X##106856
+6#Synchronous Machines#6.22#To find terminal voltages load currents active power output and no load circulating current#Ex6_22.sce#2777/CH6/EX6.22/Ex6_22.sce#S##106148
+6#Synchronous Machines#6.21#To find induced EMF torque angle power torque current and pf#Ex6_21.sce#2777/CH6/EX6.21/Ex6_21.sce#S##106147
+6#Synchronous Machines#6.20#To find induced voltage power and torque in each cases#Ex6_20.sce#2777/CH6/EX6.20/Ex6_20.sce#S##106146
+6#Synchronous Machines#6.2#To find frequency#Ex6_2.sce#2777/CH6/EX6.2/Ex6_2.sce#S##106127
+6#Synchronous Machines#6.19#To find efficiency induced voltage torque angle power torque#Ex6_19.sce#2777/CH6/EX6.19/Ex6_19.sce#S##106145
+6#Synchronous Machines#6.18#To find excitation EMF per phase line current pf power torque#Ex6_18.sce#2777/CH6/EX6.18/Ex6_18.sce#S##106144
+6#Synchronous Machines#6.17#To find line current pf power torque and excitation EMF and power angle at UPF#Ex6_17.sce#2777/CH6/EX6.17/Ex6_17.sce#S##106143
+6#Synchronous Machines#6.16#To find induced EMF power angle power and counter torque#Ex6_16.sce#2777/CH6/EX6.16/Ex6_16.sce#S##106142
+6#Synchronous Machines#6.15#To find field current#Ex6_15.sce#2777/CH6/EX6.15/Ex6_15.sce#S##106141
+6#Synchronous Machines#6.14#To find induced EMF power angle and percent regulation#Ex6_14.sce#2777/CH6/EX6.14/Ex6_14.sce#S##106140
+6#Synchronous Machines#6.13#To find induced EMF power angle and percent regulation#Ex6_13.sce#2777/CH6/EX6.13/Ex6_13.sce#S##106139
+6#Synchronous Machines#6.12#To find leakage and synchronous reactance and field current#Ex6_12.sce#2777/CH6/EX6.12/Ex6_12.sce#S##106138
+6#Synchronous Machines#6.11#To find leakage and synchronous reactance and field current#Ex6_11.sce#2777/CH6/EX6.11/Ex6_11.sce#S##106137
+6#Synchronous Machines#6.10#To find field current #Ex6_10.sce#2777/CH6/EX6.10/Ex6_10.sce#S##106136
+6#Synchronous Machines#6.1#To find number of poles in each cases#Ex6_1.sce#2777/CH6/EX6.1/Ex6_1.sce#S##106126
+5#Induction Machines#5.9#To find the slip and frequency of rotor current#Ex5_9.sce#2777/CH5/EX5.9/Ex5_9.sce#S##106165
+5#Induction Machines#5.8#To find the frequency of the rotor current#Ex5_8.sce#2777/CH5/EX5.8/Ex5_8.sce#S##106164
+5#Induction Machines#5.7#To find the synchronous speed#Ex5_7.sce#2777/CH5/EX5.7/Ex5_7.sce#S##106163
+5#Induction Machines#5.4#To find distribution factor#Ex5_4.sce#2777/CH5/EX5.4/Ex5_4.sce#S##106162
+5#Induction Machines#5.32#To find To find equivalent circuit parameters of the induction motor current pf forwrad torque backward torque net torque#Ex5_32.sce#2777/CH5/EX5.32/Ex5_32.sce#S##106197
+5#Induction Machines#5.31#To find equivalent circuit parameters of the induction motor current and pf#Ex5_31.sce#2777/CH5/EX5.31/Ex5_31.sce#S##106196
+5#Induction Machines#5.30#To find input current pf and running torque#Ex5_30.sce#2777/CH5/EX5.30/Ex5_30.sce#S##106195
+5#Induction Machines#5.3#To find pitch factor#Ex5_3.sce#2777/CH5/EX5.3/Ex5_3.sce#S##106161
+5#Induction Machines#5.29#To find running torque#Ex5_29.sce#2777/CH5/EX5.29/Ex5_29.sce#S##106194
+5#Induction Machines#5.28#To find starting torque and running torque#Ex5_28.sce#2777/CH5/EX5.28/Ex5_28.sce#S##106192
+5#Induction Machines#5.27#To find slip at maximum torque and find torque at 5 percent and minus 5 percent of slip#Ex5_27.sce#2777/CH5/EX5.27/Ex5_27.sce#S##106191
+5#Induction Machines#5.26#To find current and torque in each cases#Ex5_26.sce#2777/CH5/EX5.26/Ex5_26.sce#S##106190
+5#Induction Machines#5.25#To find range of speed#Ex5_25.sce#2777/CH5/EX5.25/Ex5_25.sce#S##106189
+5#Induction Machines#5.24#To find initial starting current during DOL starting#Ex5_24.sce#2777/CH5/EX5.24/Ex5_24.sce#S##106188
+5#Induction Machines#5.23#To find initial starting current and torque in each cases#Ex5_23.sce#2777/CH5/EX5.23/Ex5_23.sce#S##106187
+5#Induction Machines#5.22#To find current pf and torque#Ex5_22.sce#2777/CH5/EX5.22/Ex5_22.sce#S##106186
+5#Induction Machines#5.21#To find torque and output power#Ex5_21.sce#2777/CH5/EX5.21/Ex5_21.sce#S##106184
+5#Induction Machines#5.20#To find input line current pf torque Hp output efficiency#Ex5_20.sce#2777/CH5/EX5.20/Ex5_20.sce#S##106182
+5#Induction Machines#5.2#To find slot per pole per phase phase allocation series and state whether balanced winding is possible#Ex5_2.sce#2777/CH5/EX5.2/Ex5_2.sce#S##106160
+5#Induction Machines#5.19#To find input line current  pf torque Hp output and efficiency#Ex5_19.sce#2777/CH5/EX5.19/Ex5_19.sce#S##106181
+5#Induction Machines#5.18#To find current pf torque output power#Ex5_18.sce#2777/CH5/EX5.18/Ex5_18.sce#S##106180
+5#Induction Machines#5.17#To find per phase core loss resistance and magnetizing reactance of equivalent circuit#Ex5_17.sce#2777/CH5/EX5.17/Ex5_17.sce#S##106179
+5#Induction Machines#5.15#To find equivalent circuit parameters current pf torque output power#Ex5_15.sce#2777/CH5/EX5.15/Ex5_15.sce#S##106177
+5#Induction Machines#5.14#To find the speed of rotor#Ex5_14.sce#2777/CH5/EX5.14/Ex5_14.sce#S##106176
+5#Induction Machines#5.13#To find the speed of forward and backward rotating magnetic field with respect field to rotor to stator#Ex5_13.sce#2777/CH5/EX5.13/Ex5_13.sce#S##106175
+5#Induction Machines#5.12#To find the speed of forward and backward rotating magnetic field with respect to stator and rotor#Ex5_12.sce#2777/CH5/EX5.12/Ex5_12.sce#S##106174
+5#Induction Machines#5.11#To find the speed of forward and backward rotating magnetic field with respect to stator and rotor#Ex5_11.sce#2777/CH5/EX5.11/Ex5_11.sce#S##106173
+5#Induction Machines#5.10#To find the rotor speed#Ex5_10.sce#2777/CH5/EX5.10/Ex5_10.sce#S##106166
+5#Induction Machines#5.1#To find slot per pole per phase in each case#Ex5_1.sce#2777/CH5/EX5.1/Ex5_1.sce#S##106159
+4#Direct Current Machines#4.9#To find Ampere turn per pole the demagnetizing armature turn per pole cross magnetizing armature turn per pole and ampere turn of compensating winding when lap and wave conncted#Ex4_9.sce#2777/CH4/EX4.9/Ex4_9.sce#S##106209
+4#Direct Current Machines#4.8#To find approximate time of commutation#Ex4_8.sce#2777/CH4/EX4.8/Ex4_8.sce#S##106208
+4#Direct Current Machines#4.7#To find reactance voltage#Ex4_7.sce#2777/CH4/EX4.7/Ex4_7.sce#S##106207
+4#Direct Current Machines#4.6#To find Torque#Ex4_6.sce#2777/CH4/EX4.6/Ex4_6.sce#S##106206
+4#Direct Current Machines#4.5#To find useful flux per pole when the armature is lap and wave connected#Ex4_5.sce#2777/CH4/EX4.5/Ex4_5.sce#S##106205
+4#Direct Current Machines#4.4#To find torque#Ex4_4.sce#2777/CH4/EX4.4/Ex4_4.sce#S##106204
+4#Direct Current Machines#4.30#To find efficiency of motor and generator and also torque#Ex4_30.sce#2777/CH4/EX4.30/Ex4_30.sce#S##106217
+4#Direct Current Machines#4.3#To find the number of conductors in parallel path#Ex4_3.sce#2777/CH4/EX4.3/Ex4_3.sce#S##106203
+4#Direct Current Machines#4.29#To find efficiency of each machine#Ex4_29.sce#2777/CH4/EX4.29/Ex4_29.sce#S##106235
+4#Direct Current Machines#4.28#To find speed torque efficiency of the motor#Ex4_28.sce#2777/CH4/EX4.28/Ex4_28.sce#S##106234
+4#Direct Current Machines#4.27#To find new speed and current#Ex4_27.sce#2777/CH4/EX4.27/Ex4_27.sce#S##106233
+4#Direct Current Machines#4.26#To find voltage and current when magnetic circuit unsaturated and saturated#Ex4_26.sce#2777/CH4/EX4.26/Ex4_26.sce#S##106232
+4#Direct Current Machines#4.25#To find resistance must be added in the field circuit#Ex4_25.sce#2777/CH4/EX4.25/Ex4_25.sce#S##106231
+4#Direct Current Machines#4.24#To find resistances for both dynamic and counter current braking#Ex4_24.sce#2777/CH4/EX4.24/Ex4_24.sce#S##106230
+4#Direct Current Machines#4.23#To find new speed of the motor#Ex4_23.sce#2777/CH4/EX4.23/Ex4_23.sce#S##106229
+4#Direct Current Machines#4.22#To find new speed of the motor#Ex4_22.sce#2777/CH4/EX4.22/Ex4_22.sce#S##106227
+4#Direct Current Machines#4.21#To find speed control range of the duty cycle#Ex4_21.sce#2777/CH4/EX4.21/Ex4_21.sce#S##106226
+4#Direct Current Machines#4.20#To find the firing angle and no load speed at 0 and 30 deg firing angle#Ex4_20.sce#2777/CH4/EX4.20/Ex4_20.sce#S##106225
+4#Direct Current Machines#4.2#To find EMF induced#Ex4_2.sce#2777/CH4/EX4.2/Ex4_2.sce#S##106201
+4#Direct Current Machines#4.19#To find speed power torque of the motor#Ex4_19.sce#2777/CH4/EX4.19/Ex4_19.sce#S##106224
+4#Direct Current Machines#4.18#To find resistance steps in series motor starter#Ex4_18.sce#2777/CH4/EX4.18/Ex4_18.sce#S##106223
+4#Direct Current Machines#4.17#To find lower current limit and resistance each section#Ex4_17.sce#2777/CH4/EX4.17/Ex4_17.sce#S##106221
+4#Direct Current Machines#4.16#To find the graded resistance#Ex4_16.sce#2777/CH4/EX4.16/Ex4_16.sce#S##106220
+4#Direct Current Machines#4.15#To find sharing of the two transformers when the load is 800kVA#Ex4_15.sce#2777/CH4/EX4.15/Ex4_15.sce#S##106218
+4#Direct Current Machines#4.14#To find current and percentage change in speed of the machine#Ex4_14.sce#2777/CH4/EX4.14/Ex4_14.sce#S##106215
+4#Direct Current Machines#4.13#To find load current#Ex4_13.sce#2777/CH4/EX4.13/Ex4_13.sce#S##106214
+4#Direct Current Machines#4.12#To find critical resistance and terminal voltage#Ex4_12.sce#2777/CH4/EX4.12/Ex4_12.sce#S##106212
+4#Direct Current Machines#4.11#To find voltage at the terminal of the machine and critical resistance#Ex4_11.sce#2777/CH4/EX4.11/Ex4_11.sce#S##106211
+4#Direct Current Machines#4.10#To find the number of turns on each interpole#Ex4_10.sce#2777/CH4/EX4.10/Ex4_10.sce#S##106210
+4#Direct Current Machines#4.1#To find maximum induced EMF in the armature conductor#Ex4_1.sce#2777/CH4/EX4.1/Ex4_1.sce#S##106199
+3#Transformers#3.9#To find equivalent resistance referred from primary side#Ex3_9.sce#2777/CH3/EX3.9/Ex3_9.sce#S##106245
+3#Transformers#3.8#To find equivalent resistance as referred to primary and secondary side and full load copper loss#Ex3_8.sce#2777/CH3/EX3.8/Ex3_8.sce#S##106243
+3#Transformers#3.7#To find referred value of resistance from primary side#Ex3_7.sce#2777/CH3/EX3.7/Ex3_7.sce#S##106242
+3#Transformers#3.6#To find turn ratio primary and secondary currents at full load and at 4kW load at pf lagging 80 percent#Ex3_6.sce#2777/CH3/EX3.6/Ex3_6.sce#S##106241
+3#Transformers#3.5#To find maximum flux no load current no load power factor of the transformer#Ex3_5.sce#2777/CH3/EX3.5/Ex3_5.sce#S##106240
+3#Transformers#3.4#To find rated currents of the two windings#Ex3_4.sce#2777/CH3/EX3.4/Ex3_4.sce#S##106239
+3#Transformers#3.3#To find maximum value of the core flux#Ex3_3.sce#2777/CH3/EX3.3/Ex3_3.sce#S##106238
+3#Transformers#3.24#To find secondary line voltage and current primary and secondary phase current and the output for star star connection star delta connection delta delta connection and delta star connection#Ex3_24.sce#2777/CH3/EX3.24/Ex3_24.sce#S##106261
+3#Transformers#3.23#To find current and phase voltages and the voltage across the neutral assuming ideal transformer#Ex3_23.sce#2777/CH3/EX3.23/Ex3_23.sce#S##106260
+3#Transformers#3.22#To find current supplied by the common winding kVA rating of the auto transformer and voltage on secondary if common winding are open#Ex3_22.sce#2777/CH3/EX3.22/Ex3_22.sce#S##106259
+3#Transformers#3.21#To find calculate the kVA rating and currents of autotransformers as shown in figure 3 31b and 3 31c#Ex3_21.sce#2777/CH3/EX3.21/Ex3_21.sce#S##106257
+3#Transformers#3.20#To find current flowing in the primary winding#Ex3_20.sce#2777/CH3/EX3.20/Ex3_20.sce#S##106256
+3#Transformers#3.2#To find numbers of turns in each winding and voltage per turn#Ex3_2.sce#2777/CH3/EX3.2/Ex3_2.sce#S##106237
+3#Transformers#3.19#To find how will sharing of the two transformers if the total load of 400kW at UPF#Ex3_19.sce#2777/CH3/EX3.19/Ex3_19.sce#S##106255
+3#Transformers#3.17#To find load pf at which secondary terminal voltage will be minimum#Ex3_17.sce#2777/CH3/EX3.17/Ex3_17.sce#S##106254
+3#Transformers#3.16#To find percentage regulation at full load UPF and at 60 percentage lagging and leading pf#Ex3_16.sce#2777/CH3/EX3.16/Ex3_16.sce#S##106253
+3#Transformers#3.15#To find all day efficiency #Ex3_15.sce#2777/CH3/EX3.15/Ex3_15.sce#S##106251
+3#Transformers#3.14#To find efficiency at full load and half load at power factor of unity 80 percentage lagging and leading and also maximum efficiency ant output at which maximum efficiency occurs#Ex3_14.sce#2777/CH3/EX3.14/Ex3_14.sce#S##106250
+3#Transformers#3.13#To find hysteresis and eddy currents#Ex3_13.sce#2777/CH3/EX3.13/Ex3_13.sce#S##106249
+3#Transformers#3.12#To find hysteresis and eddy current losses st 50Hz#Ex3_12.sce#2777/CH3/EX3.12/Ex3_12.sce#S##106248
+3#Transformers#3.11#To find core loss no load pf angle pf current through core loss component and core loss resistance current through Xm percentage of exciting current#Ex3_11.sce#2777/CH3/EX3.11/Ex3_11.sce#S##106247
+3#Transformers#3.10#To find current taken  by primary side#Ex3_10.sce#2777/CH3/EX3.10/Ex3_10.sce#S##106246
+3#Transformers#3.1#To find voltage drops line losses and generating voltage#Ex3_1.sce#2777/CH3/EX3.1/Ex3_1.sce#S##106236
+2#Forces in a Electromagnetic System#2.5#To find how many turns should the exciting coil have in order to establish a flux density of 1 Wb per meter square if core made up of silicon steel having 1 telsa and 200 At per meter and ferrite core having relative permeability of 20000#Ex2_5.sce#2777/CH2/EX2.5/Ex2_5.sce#S##106112
+2#Forces in a Electromagnetic System#2.4#To find flux density in air gap output of the sensor if hall effect generates voltage of 50 millivolt per 1 telsa and ratio of flux density without and with air gap#Ex2_4.sce#2777/CH2/EX2.4/Ex2_4.sce#S##106111
+2#Forces in a Electromagnetic System#2.3#To find magnetic field produced by an appiled MMf of 35At#Ex2_3.sce#2777/CH2/EX2.3/Ex2_3.sce#S##106110
+2#Forces in a Electromagnetic System#2.2#To find Total MMF coil current relative permeability of each ferromagnetic material and inductance of the coil#Ex2_2.sce#2777/CH2/EX2.2/Ex2_2.sce#S##106109
+2#Forces in a Electromagnetic System#2.1#To find flux flux density and magnetic field intensity in the core #Ex2_1.sce#2777/CH2/EX2.1/Ex2_1.sce#S##106108

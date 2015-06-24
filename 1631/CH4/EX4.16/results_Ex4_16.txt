@@ -1,0 +1,5 @@
+ Signal to Quatization noise ratio of PCM system is   
+ 
+    49.8  
+ 
+ dB  

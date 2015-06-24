@@ -1,0 +1,143 @@
+11#Information Theory#11.9#entropy and amount of information for the given messages#EXAMPLE11_9.SCE#1895/CH11/EX11.9/EXAMPLE11_9.SCE#S##81458
+11#Information Theory#11.56#information capacity of the telephone channel#EXAMPLE11_56.SCE#1895/CH11/EX11.56/EXAMPLE11_56.SCE#S##81508
+11#Information Theory#11.55#average number of bits#EXAMPLE11_55.SCE#1895/CH11/EX11.55/EXAMPLE11_55.SCE#S##81507
+11#Information Theory#11.54#entropy of the source#EXAMPLE11_54.SCE#1895/CH11/EX11.54/EXAMPLE11_54.SCE#S##81506
+11#Information Theory#11.52#entropy of the second order extension#EXAMPLE11_52.SCE#1895/CH11/EX11.52/EXAMPLE11_52.SCE#S##81505
+11#Information Theory#11.51#entropy #EXAMPLE11_51.SCE#1895/CH11/EX11.51/EXAMPLE11_51.SCE#S##81504
+11#Information Theory#11.50#entropy of the system and information rate#EXAMPLE11_50.SCE#1895/CH11/EX11.50/EXAMPLE11_50.SCE#S##81503
+11#Information Theory#11.49#variance of codeword length#EXAMPLE11_49.SCE#1895/CH11/EX11.49/EXAMPLE11_49.SCE#S##81502
+11#Information Theory#11.47#efficiency of huffman code#EXAMPLE11_47.SCE#1895/CH11/EX11.47/EXAMPLE11_47.SCE#S##81501
+11#Information Theory#11.46#efficiency of shannon fano code and huffman code#EXAMPLE11_46.sce#1895/CH11/EX11.46/EXAMPLE11_46.sce#S##81500
+11#Information Theory#11.44#efficiency of shannon fano code#EXAMPLE11_44.SCE#1895/CH11/EX11.44/EXAMPLE11_44.SCE#S##81499
+11#Information Theory#11.4#amount of information content wrt to binary PCMs#EXAMPLE11_4.sce#1895/CH11/EX11.4/EXAMPLE11_4.sce#S##81456
+11#Information Theory#11.38#efficiency of the code and code redundancy#EXAMPLE11_38.SCE#1895/CH11/EX11.38/EXAMPLE11_38.SCE#S##81495
+11#Information Theory#11.37#efficiency of the code and code redundancy#EXAMPLE11_37.SCE#1895/CH11/EX11.37/EXAMPLE11_37.SCE#S##81494
+11#Information Theory#11.35#capacity of the channel#EXAMPLE11_35.SCE#1895/CH11/EX11.35/EXAMPLE11_35.SCE#S##81493
+11#Information Theory#11.32#entropy for the given probability density function#EXAMPLE11_32.SCE#1895/CH11/EX11.32/EXAMPLE11_32.SCE#S##81492
+11#Information Theory#11.3#amount of information content wrt to binary PCMs#EXAMPLE11_3.SCE#1895/CH11/EX11.3/EXAMPLE11_3.SCE#S##81455
+11#Information Theory#11.28#mutual information #EXAMPLE11_28.SCE#1895/CH11/EX11.28/EXAMPLE11_28.SCE#S##81509
+11#Information Theory#11.21#probabilities associated with the channel outputs#EXAMPLE11_21.SCE#1895/CH11/EX11.21/EXAMPLE11_21.SCE#S##81490
+11#Information Theory#11.20#channel matrix and probabilities#EXAMPLE11_20.sce#1895/CH11/EX11.20/EXAMPLE11_20.sce#S##81488
+11#Information Theory#11.2#amount of information for a given probability of a symbol#EXAMPLE11_2.SCE#1895/CH11/EX11.2/EXAMPLE11_2.SCE#S##81454
+11#Information Theory#11.19#channel matrix and joint probabilities#EXAMPLE11_19.SCE#1895/CH11/EX11.19/EXAMPLE11_19.SCE#S##81487
+11#Information Theory#11.18#rate of information#EXAMPLE11_18.SCE#1895/CH11/EX11.18/EXAMPLE11_18.SCE#S##81485
+11#Information Theory#11.17#rate of information#EXAMPLE11_17.SCE#1895/CH11/EX11.17/EXAMPLE11_17.SCE#S##81484
+11#Information Theory#11.16#entropy and rate of information of  given symbols#EXAMPLE11_16.SCE#1895/CH11/EX11.16/EXAMPLE11_16.SCE#S##81463
+11#Information Theory#11.15#information rate of given symbols probabilities#EXAMPLE11_15.SCE#1895/CH11/EX11.15/EXAMPLE11_15.SCE#S##81511
+11#Information Theory#11.14#entropy and rate of information for given porbabilities#EXAMPLE11_14.SCE#1895/CH11/EX11.14/EXAMPLE11_14.SCE#S##81510
+11#Information Theory#11.13#average information rate#EXAMPLE11_13.SCE#1895/CH11/EX11.13/EXAMPLE11_13.SCE#S##81461
+11#Information Theory#11.12#average rate of information convyed#EXAMPLE11_12.SCE#1895/CH11/EX11.12/EXAMPLE11_12.SCE#S##81460
+11#Information Theory#11.1#information content of given symbols#EXAMPLE11_1.SCE#1895/CH11/EX11.1/EXAMPLE11_1.SCE#S##81453
+10#Digital multiplexers#10.4#signaling rate and channel bandwidth#EXAMPLE10_4.SCE#1895/CH10/EX10.4/EXAMPLE10_4.SCE#S##81451
+10#Digital multiplexers#10.3#spacing between successive pulses of multiplxed signal#EXAMPLE10_3.SCE#1895/CH10/EX10.3/EXAMPLE10_3.SCE#S##94541
+10#Digital multiplexers#10.2#signalling rate and channel bandwidth#EXAMPLE10_2.SCE#1895/CH10/EX10.2/EXAMPLE10_2.SCE#S##81448
+10#Digital multiplexers#10.1#sampling rate#EXAMPLE10_1.SCE#1895/CH10/EX10.1/EXAMPLE10_1.SCE#S##81445
+8#Waveform Coding Techniques#8.8#signal to the noise ratio#EXAMPLE8_8.SCE#1895/CH8/EX8.8/EXAMPLE8_8.SCE#S##81434
+8#Waveform Coding Techniques#8.7#number of bits in codeword and sampling rate and bit rate#EXAMPLE8_7.SCE#1895/CH8/EX8.7/EXAMPLE8_7.SCE#S##81433
+8#Waveform Coding Techniques#8.6#message bandwidth and signal to noise ratio#EXAMPLE8_6.SCE#1895/CH8/EX8.6/EXAMPLE8_6.SCE#S##81432
+8#Waveform Coding Techniques#8.5#transmission bandwidth and sampling frequency#EXAMPLE8_5.SCE#1895/CH8/EX8.5/EXAMPLE8_5.SCE#S##81431
+8#Waveform Coding Techniques#8.4#sampling rate and number of bits in each PCM and  bit rate and transmission bandwidth#EXAMPLE8_4.SCE#1895/CH8/EX8.4/EXAMPLE8_4.SCE#S##81430
+8#Waveform Coding Techniques#8.3#number of bits required and bandwidth of pcms and signalling rate#EXAMPLE8_3.SCE#1895/CH8/EX8.3/EXAMPLE8_3.SCE#S##94692
+8#Waveform Coding Techniques#8.21#quantizing levels and number of bits and bandwidth#EXAMPLE8_21.SCE#1895/CH8/EX8.21/EXAMPLE8_21.SCE#S##81443
+8#Waveform Coding Techniques#8.20#number of required levels and signal to noise ratio#EXAMPLE8_20.SCE#1895/CH8/EX8.20/EXAMPLE8_20.SCE#S##81442
+8#Waveform Coding Techniques#8.2#code word length and transission bandwidth and final bit rate and quantization noise ratio#EXAMPLE8_2.SCE#1895/CH8/EX8.2/EXAMPLE8_2.SCE#S##81428
+8#Waveform Coding Techniques#8.17#sampling frequency and number of binary digits and quantizing level#EXAMPLE8_17.SCE#1895/CH8/EX8.17/EXAMPLE8_17.SCE#S##81441
+8#Waveform Coding Techniques#8.16#signal to the noise ratio#EXAMPLE8_16.SCE#1895/CH8/EX8.16/EXAMPLE8_16.SCE#S##81440
+8#Waveform Coding Techniques#8.15#signal to the noise ratio of linear delta modulation system#EXAMPLE8_15.SCE#1895/CH8/EX8.15/EXAMPLE8_15.SCE#S##81439
+8#Waveform Coding Techniques#8.14#signalling rate#EXAMPLE8_14.SCE#1895/CH8/EX8.14/EXAMPLE8_14.SCE#S##81438
+8#Waveform Coding Techniques#8.13#maximum amplitude#EXAMPLE8_13.SCE#1895/CH8/EX8.13/EXAMPLE8_13.SCE#S##81437
+8#Waveform Coding Techniques#8.11#maximum frequency#EXAMPLE8_11.SCE#1895/CH8/EX8.11/EXAMPLE8_11.SCE#S##81436
+8#Waveform Coding Techniques#8.10#signal to the noise ratio and number of bits#EXAMPLE8_10.SCE#1895/CH8/EX8.10/EXAMPLE8_10.SCE#S##81435
+7#Sampling Theory and Pulse Modulation#7.4#Nyquist rate for the continuous signal#EXAMPLE7_4.SCE#1895/CH7/EX7.4/EXAMPLE7_4.SCE#S##81325
+7#Sampling Theory and Pulse Modulation#7.3#discrete time signal for the given conditions#EXAMPLE7_3.SCE#1895/CH7/EX7.3/EXAMPLE7_3.SCE#S##81323
+7#Sampling Theory and Pulse Modulation#7.2#Nyquist rate and Nyquist interval#EXAMPLE7_2.SCE#1895/CH7/EX7.2/EXAMPLE7_2.SCE#S##81322
+7#Sampling Theory and Pulse Modulation#7.1#Nyquist rate#EXAMPLE7_1.SCE#1895/CH7/EX7.1/EXAMPLE7_1.SCE#S##81320
+6#Noise#6.9#noise figure#EXAMPLE6_9.SCE#1895/CH6/EX6.9/EXAMPLE6_9.SCE#S##81291
+6#Noise#6.8#noise figure and equivalent temperature#EXAMPLE6_8.SCE#1895/CH6/EX6.8/EXAMPLE6_8.SCE#S##81289
+6#Noise#6.7#output voltage across the circuit measured by a wide band voltmeter#EXAMPLE6_7.SCE#1895/CH6/EX6.7/EXAMPLE6_7.SCE#S##81286
+6#Noise#6.4#equivalent input noise resistance#EXAMPLE6_4.SCE#1895/CH6/EX6.4/EXAMPLE6_4.SCE#S##81281
+6#Noise#6.3#rms voltage due individual resistance and resistances in parallel and series#EXAMPLE6_3.SCE#1895/CH6/EX6.3/EXAMPLE6_3.SCE#S##84839
+6#Noise#6.21#overall noise temperature of the receiver and overall noise figure#EXAMPLE6_21.SCE#1895/CH6/EX6.21/EXAMPLE6_21.SCE#S##81317
+6#Noise#6.20#noise temperature of the receiver and overall noise temperature#EXAMPLE6_20.SCE#1895/CH6/EX6.20/EXAMPLE6_20.SCE#S##81315
+6#Noise#6.2#rms noise voltage#EXAMPLE6_2.SCE#1895/CH6/EX6.2/EXAMPLE6_2.SCE#S##81277
+6#Noise#6.19#overall noise figure#EXAMPLE6_19.SCE#1895/CH6/EX6.19/EXAMPLE6_19.SCE#S##81312
+6#Noise#6.18#overall noise figure and overall gain#EXAMPLE6_18.SCE#1895/CH6/EX6.18/EXAMPLE6_18.SCE#S##81311
+6#Noise#6.17#overall noise figure of two stage cascaded amplifier#EXAMPLE6_17.SCE#1895/CH6/EX6.17/EXAMPLE6_17.SCE#S##81307
+6#Noise#6.16#overall noise figure of three stage cascade amplifier#EXAMPLE6_16.SCE#1895/CH6/EX6.16/EXAMPLE6_16.SCE#S##81304
+6#Noise#6.14#meter reading in volts and resistance at given temperature#EXAMPLE6_14.SCE#1895/CH6/EX6.14/EXAMPLE6_14.SCE#S##81300
+6#Noise#6.12#rms noise voltage#EXAMPLE6_12.SCE#1895/CH6/EX6.12/EXAMPLE6_12.SCE#S##81297
+6#Noise#6.11#overall noise figure#EXAMPLE6_11.SCE#1895/CH6/EX6.11/EXAMPLE6_11.SCE#S##81296
+6#Noise#6.10#overall noise figure#EXAMPLE6_10.SCE#1895/CH6/EX6.10/EXAMPLE6_10.SCE#S##81293
+6#Noise#6.1#rms noise voltage#EXAMPLE6_1.SCE#1895/CH6/EX6.1/EXAMPLE6_1.SCE#S##81275
+5#Angle Modulation#5.9#modulation index and bandwidth of FM signal#EXAMPLE5_9.SCE#1895/CH5/EX5.9/EXAMPLE5_9.SCE#S##80867
+5#Angle Modulation#5.8#bandwidth of a signal when modulating amplitude is doubled#EXAMPLE5_8.SCE#1895/CH5/EX5.8/EXAMPLE5_8.SCE#S##80866
+5#Angle Modulation#5.7#bandwidth of narrowband FM signal#EXAMPLE5_7.SCE#1895/CH5/EX5.7/EXAMPLE5_7.SCE#S##80865
+5#Angle Modulation#5.6#bandwidth of FM transmission#EXAMPLE5_6.SCE#1895/CH5/EX5.6/EXAMPLE5_6.SCE#S##80864
+5#Angle Modulation#5.52#frequency multiplication#EXAMPLE5_52.SCE#1895/CH5/EX5.52/EXAMPLE5_52.SCE#S##81269
+5#Angle Modulation#5.51#multiplier and mixer oscillating frequency for Armstrong type FM generator#EXAMPLE5_51.SCE#1895/CH5/EX5.51/EXAMPLE5_51.SCE#S##81268
+5#Angle Modulation#5.50#maximum frequency deviation and carrier frequency for given maximum and minimum frequencies#EXAMPLE5_50.SCE#1895/CH5/EX5.50/EXAMPLE5_50.SCE#S##81267
+5#Angle Modulation#5.5#percentage modulation index#EXAMPLE5_5.SCE#1895/CH5/EX5.5/EXAMPLE5_5.SCE#S##80863
+5#Angle Modulation#5.49#frequency multiplication and maximum frequency deviation#EXAMPLE5_49.SCE#1895/CH5/EX5.49/EXAMPLE5_49.SCE#S##81266
+5#Angle Modulation#5.48#bandwidth calculation using the given formula and carsons rule#EXAMPLE5_48.SCE#1895/CH5/EX5.48/EXAMPLE5_48.SCE#S##81265
+5#Angle Modulation#5.47#bandwidth and frequency deviation of FM signal#EXAMPLE5_47.SCE#1895/CH5/EX5.47/EXAMPLE5_47.SCE#S##81264
+5#Angle Modulation#5.46#bandwidth of FM signal#EXAMPLE5_46.SCE#1895/CH5/EX5.46/EXAMPLE5_46.SCE#S##81263
+5#Angle Modulation#5.45#bandwidth of angle modulated signal#EXAMPLE5_45.SCE#1895/CH5/EX5.45/EXAMPLE5_45.SCE#S##81262
+5#Angle Modulation#5.44#modulation index and bandwidth of FM signal#EXAMPLE5_44.SCE#1895/CH5/EX5.44/EXAMPLE5_44.SCE#S##81261
+5#Angle Modulation#5.43#bandwidth of angle modulated signal#EXAMPLE5_43.SCE#1895/CH5/EX5.43/EXAMPLE5_43.SCE#S##81260
+5#Angle Modulation#5.4#modulation index#EXAMPLE5_4.SCE#1895/CH5/EX5.4/EXAMPLE5_4.SCE#S##80862
+5#Angle Modulation#5.39#maximum frequency deviation#EXAMPLE5_39.SCE#1895/CH5/EX5.39/EXAMPLE5_39.SCE#S##81259
+5#Angle Modulation#5.37#carrier frequency and modulating frequency and modulation index and maximum frequency deviation and power dissipated in FM wave#EXAMPLE5_37.SCE#1895/CH5/EX5.37/EXAMPLE5_37.SCE#S##81258
+5#Angle Modulation#5.36#frequency deviation and modulation index #EXAMPLE5_36.SCE#1895/CH5/EX5.36/EXAMPLE5_36.SCE#S##81257
+5#Angle Modulation#5.35#percentage modulation index#EXAMPLE5_35.SCE#1895/CH5/EX5.35/EXAMPLE5_35.SCE#S##81256
+5#Angle Modulation#5.34#frequency deviation and carrier frequency and lower frequency reached by modulated FM wave #EXAMPLE5_34.SCE#1895/CH5/EX5.34/EXAMPLE5_34.SCE#S##81255
+5#Angle Modulation#5.33#carrier swing and modulation index and highest and lowest frequency attained by FM signal#EXAMPLE5_33.SCE#1895/CH5/EX5.33/EXAMPLE5_33.SCE#S##81254
+5#Angle Modulation#5.32#Carrier Power and power in each sideband#EXAMPLE5_32.SCE#1895/CH5/EX5.32/EXAMPLE5_32.SCE#S##81251
+5#Angle Modulation#5.31#bandwidth of FM signal#EXAMPLE5_31.SCE#1895/CH5/EX5.31/EXAMPLE5_31.SCE#S##81249
+5#Angle Modulation#5.30#fracation of signal power included in the frequency band#EXAMPLE5_30.SCE#1895/CH5/EX5.30/EXAMPLE5_30.SCE#S##81245
+5#Angle Modulation#5.3#frequency deviation and carrier swing and lowest frequency of modulated wave#EXAMPLE5_3.SCE#1895/CH5/EX5.3/EXAMPLE5_3.SCE#S##80861
+5#Angle Modulation#5.29#bandwidth of FM signal using carsons rule#EXAMPLE5_29.SCE#1895/CH5/EX5.29/EXAMPLE5_29.SCE#S##81241
+5#Angle Modulation#5.24#frequency sensitivity and modulation index#EXAMPLE5_24.SCE#1895/CH5/EX5.24/EXAMPLE5_24.SCE#S##81237
+5#Angle Modulation#5.23#modulation index and equation for carrier waveform#EXAMPLE5_23.SCE#1895/CH5/EX5.23/EXAMPLE5_23.SCE#S##81232
+5#Angle Modulation#5.22#modulation index for minimum and maximum modulating frequency of FM signal#EXAMPLE5_22.SCE#1895/CH5/EX5.22/EXAMPLE5_22.SCE#S##81227
+5#Angle Modulation#5.21#carrier frequency and frequency deviation and modulation index and minimum and maximum frequency at a given point#EXAMPLE5_21.SCE#1895/CH5/EX5.21/EXAMPLE5_21.SCE#S##81218
+5#Angle Modulation#5.20#capacitive reactance#EXAMPLE5_20.SCE#1895/CH5/EX5.20/EXAMPLE5_20.SCE#S##81216
+5#Angle Modulation#5.2#carrier frequency and highest and lowest frequency and modulation index#EXAMPLE5_2.SCE#1895/CH5/EX5.2/EXAMPLE5_2.SCE#S##80860
+5#Angle Modulation#5.19#modulation index and bandwidth of a signal#EXAMPLE5_19.SCE#1895/CH5/EX5.19/EXAMPLE5_19.SCE#S##80877
+5#Angle Modulation#5.18#maximum frequency devaiation and modulation index#EXAMPLE5_18.SCE#1895/CH5/EX5.18/EXAMPLE5_18.SCE#S##80876
+5#Angle Modulation#5.17#carrier amplitude and amplitude of sidebands and minimum and maximum frequency of sidebands #EXAMPLE5_17.SCE#1895/CH5/EX5.17/EXAMPLE5_17.SCE#S##80875
+5#Angle Modulation#5.16#repersentation of FM and PM signal or wave#EXAMPLE5_16.SCE#1895/CH5/EX5.16/EXAMPLE5_16.SCE#S##80874
+5#Angle Modulation#5.15#bandwidth of FM and DSB FC signal#EXAMPLE5_15.SCE#1895/CH5/EX5.15/EXAMPLE5_15.SCE#S##80873
+5#Angle Modulation#5.14#modulation index#EXAMPLE5_14.SCE#1895/CH5/EX5.14/EXAMPLE5_14.SCE#S##84840
+5#Angle Modulation#5.13#frequency deviation for given modulating volatge#EXAMPLE5_13.SCE#1895/CH5/EX5.13/EXAMPLE5_13.SCE#S##80871
+5#Angle Modulation#5.12#carrier frequency and modulating frequency and modulation index and maximum deviation and power dissipated#EXAMPLE5_12.SCE#1895/CH5/EX5.12/EXAMPLE5_12.SCE#S##80870
+5#Angle Modulation#5.11#modulation index and bandwidth of FM and PM signal#EXAMPLE5_11.SCE#1895/CH5/EX5.11/EXAMPLE5_11.SCE#S##80869
+5#Angle Modulation#5.10#modulating frequency#EXAMPLE5_10.SCE#1895/CH5/EX5.10/EXAMPLE5_10.SCE#S##80868
+5#Angle Modulation#5.1#carrier frequency and modulating frequency and modulation index and maximum deviation and power dissipated#EXAMPLE5_1.SCE#1895/CH5/EX5.1/EXAMPLE5_1.SCE#S##80859
+4#Radio Receivers#4.6#image frequency and image rejection ratio and intermediate frequency#EXAMPLE4_6.SCE#1895/CH4/EX4.6/EXAMPLE4_6.SCE#S##80858
+4#Radio Receivers#4.5#oscillator frequency and image frequency and image rejection ratio#EXAMPLE4_5.SCE#1895/CH4/EX4.5/EXAMPLE4_5.SCE#S##80857
+4#Radio Receivers#4.3#quality factor and new intermediate frequency#EXAMPLE4_3.SCE#1895/CH4/EX4.3/EXAMPLE4_3.SCE#S##80856
+4#Radio Receivers#4.2#image frequency and image rejection ratio#EXAMPLE4_2.SCE#1895/CH4/EX4.2/EXAMPLE4_2.SCE#S##80855
+4#Radio Receivers#4.1#image frequency and image rejection ratio#EXAMPLE4_1.SCE#1895/CH4/EX4.1/EXAMPLE4_1.SCE#S##80854
+3#Radio Transmitters#3.3#appropriate multiplexer values and oscillator frequency#EXAMPLE3_3.SCE#1895/CH3/EX3.3/EXAMPLE3_3.SCE#S##80853
+3#Radio Transmitters#3.2#carrier frequency and frequency deviation#EXAMPLE3_2.SCE#1895/CH3/EX3.2/EXAMPLE3_2.SCE#S##80852
+3#Radio Transmitters#3.1#total radiated power#EXAMPLE3_1.SCE#1895/CH3/EX3.1/EXAMPLE3_1.SCE#S##80851
+2#Amplitude Modulation#2.9#percentage modulation index#EXAMPLE2_9.SCE#1895/CH2/EX2.9/EXAMPLE2_9.SCE#S##80838
+2#Amplitude Modulation#2.7#modulating volatage and minimum and maximum voltage#EXAMPLE2_7.SCE#1895/CH2/EX2.7/EXAMPLE2_7.SCE#S##80837
+2#Amplitude Modulation#2.6#carrier current and modulation of signal and modulation index of second signal#EXAMPLE2_6.SCE#1895/CH2/EX2.6/EXAMPLE2_6.SCE#S##80836
+2#Amplitude Modulation#2.5#antenna current and percentage modulation#EXAMPLE2_5.SCE#1895/CH2/EX2.5/EXAMPLE2_5.SCE#S##80835
+2#Amplitude Modulation#2.4#Carrier Power#EXAMPLE2_4.SCE#1895/CH2/EX2.4/EXAMPLE2_4.SCE#S##80834
+2#Amplitude Modulation#2.32#carrier frequency#EXAMPLE2_32.SCE#1895/CH2/EX2.32/EXAMPLE2_32.SCE#S##80850
+2#Amplitude Modulation#2.31#percentage power saving#EXAMPLE2_31.SCE#1895/CH2/EX2.31/EXAMPLE2_31.SCE#S##80849
+2#Amplitude Modulation#2.3#total power in amplitude modulated wave#EXAMPLE2_3.SCE#1895/CH2/EX2.3/EXAMPLE2_3.SCE#S##80833
+2#Amplitude Modulation#2.29#modulation depth#EXAMPLE2_29.SCE#1895/CH2/EX2.29/EXAMPLE2_29.SCE#S##80848
+2#Amplitude Modulation#2.21#carrier power and transmission efficiency and carrier amplitude#EXAMPLE2_21.SCE#1895/CH2/EX2.21/EXAMPLE2_21.SCE#S##80847
+2#Amplitude Modulation#2.2#Bandwidth of modulated signal#EXAMPLE2_2.SCE#1895/CH2/EX2.2/EXAMPLE2_2.SCE#S##80832
+2#Amplitude Modulation#2.18#percentage modulation index#EXAMPLE2_18.SCE#1895/CH2/EX2.18/EXAMPLE2_18.SCE#S##80846
+2#Amplitude Modulation#2.17#percentage modulation index#EXAMPLE2_17.SCE#1895/CH2/EX2.17/EXAMPLE2_17.SCE#S##80845
+2#Amplitude Modulation#2.16#power content of carrier and upper and lower sidebands#EXAMPLE2_16.SCE#1895/CH2/EX2.16/EXAMPLE2_16.SCE#S##80844
+2#Amplitude Modulation#2.15#percentage power saving#EXAMPLE2_15.SCE#1895/CH2/EX2.15/EXAMPLE2_15.SCE#S##80843
+2#Amplitude Modulation#2.13#percentage power saving#EXAMPLE2_13.SCE#1895/CH2/EX2.13/EXAMPLE2_13.SCE#S##80842
+2#Amplitude Modulation#2.12#total radiated power#EXAMPLE2_12.SCE#1895/CH2/EX2.12/EXAMPLE2_12.SCE#S##80841
+2#Amplitude Modulation#2.11#total radiated power#EXAMPLE2_11.SCE#1895/CH2/EX2.11/EXAMPLE2_11.SCE#S##80840
+2#Amplitude Modulation#2.10#percentage modulation index of second wave#EXAMPLE2_10.SCE#1895/CH2/EX2.10/EXAMPLE2_10.SCE#S##80839
+2#Amplitude Modulation#2.1#frequency range of sidebands#EXAMPLE2_1.SCE#1895/CH2/EX2.1/EXAMPLE2_1.SCE#S##80831

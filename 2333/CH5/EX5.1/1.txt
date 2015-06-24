@@ -1,0 +1,4 @@
+ # PROBLEM 1 # 
+
+ Number of oscillation corresponding to coherent length is 5.000000e+04 
+ Coherent time is 9.816667e-11sec.

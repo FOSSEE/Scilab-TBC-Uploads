@@ -1,0 +1,1 @@
+ Velocity of frame S_ w.r.t. frame S is 2.598076e+08 meter/sec.

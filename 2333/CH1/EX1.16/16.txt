@@ -1,0 +1,6 @@
+
+ # PROBLEM 16 # 
+ Standard formula used 
+ t = t_0/((1-v^2/c^2)^1/2) 
+
+ Speed of clock is 2.236068e+07 meter/sec. 

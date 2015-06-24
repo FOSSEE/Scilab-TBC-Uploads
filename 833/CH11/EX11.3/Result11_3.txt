@@ -1,0 +1,12 @@
+ (a)Number of poles=   
+ 
+    6.  
+ 
+ (b)Slip(in%)=   
+ 
+    3.  
+ 
+ (c)Required slip(in%)=   
+ 
+    6.  
+ 

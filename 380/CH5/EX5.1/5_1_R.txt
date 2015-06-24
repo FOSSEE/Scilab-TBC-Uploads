@@ -1,0 +1,7 @@
+ coil pitch for 2-pole winding (electrical)=   
+ 
+    180.  
+ 
+ coil pitch for 4-pole winding(electrical)=   
+ 
+    144.

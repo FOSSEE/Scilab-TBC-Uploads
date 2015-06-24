@@ -1,0 +1,4 @@
+ 
+ Example 10.3
+ It will take time of 64.6 days 
+ for stress level to reach one tenth of its original value. 

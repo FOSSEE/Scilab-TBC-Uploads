@@ -1,0 +1,84 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec("Example6.sci",-1)
+Current date is 05-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            5   
+ 
+ Chapter Title                         :                                   HANDLING ORDINARY FILES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 6    :               Show the method of file counting using the wc command 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the file which you want to access  
+
+# This searches for a file named hithern to display
+
+
+ $ cat hithern    
+Hi I am Pranav
+I am an intern at FOSSE project
+I hope this project helps students well
+Thank You
+
+
+$ wc hithern                      #to get the count in file named hithern 
+	4	20	98   hithern
+
+# This means there are 20 words,98 characters
+ 	 and 4 lines in the file hithern 
+
+
+$ wc -l  hithern                      #to get the line count in file named hithern 
+	4  hithern
+
+# Number of lines 
+
+
+$ wc -w  hithern                      #to get the word count in file named hithern 
+	20  hithern
+
+# Number of words 
+
+
+$ wc -c  hithern                      #to get the character count in file named hithern 
+	98  hithern
+
+# Number of characters 
+
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

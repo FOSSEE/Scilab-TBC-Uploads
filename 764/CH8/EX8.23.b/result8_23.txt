@@ -1,0 +1,87 @@
+-->//(Welded and Riveted Joints) Example 8.23
+ 
+-->//Inner diameter of the cylindrical pressure vessel Di (m)
+ 
+-->Di = 1
+ Di  =
+ 
+    1.  
+ 
+-->//Internal steam pressure Pi (MPa)
+ 
+-->Pi = 1.5
+ Pi  =
+ 
+    1.5  
+ 
+-->//Permissible tensile stress in the plate and rivet sigmat (N/mm2)
+ 
+-->sigmat = 80
+ sigmat  =
+ 
+    80.  
+ 
+-->//Permissible shear stress in the plate and rivet tau (N/mm2)
+ 
+-->tau = 60
+ tau  =
+ 
+    60.  
+ 
+-->//Permissible compressive stress in the plate and rivet sigmac (N/mm2)
+ 
+-->sigmac = 120
+ sigmac  =
+ 
+    120.  
+ 
+-->//Corrosion allowance CA (mm)
+ 
+-->CA = 2
+ CA  =
+ 
+    2.  
+ 
+-->//Efficiency of the longitudinal joint eta (%)
+ 
+-->eta = 80
+ eta  =
+ 
+    80.  
+ 
+-->//Efficiency of the circumferential lap joint eta1 (%)
+ 
+-->eta1 = 62
+ eta1  =
+ 
+    62.  
+ 
+-->//Value of C
+ 
+-->C = 1.31
+ C  =
+ 
+    1.31  
+ 
+-->//Transverse pitch pt (mm)
+ 
+-->pt = 0
+ pt  =
+ 
+    0.  
+ 
+
+Code is applicable only when thickness of the plate is greater than 8mm.
+
+Thickness of the plate(tround) = 14.000000 mm
+
+Diameter of the rivets(dceil) = 21.000000 mm
+
+Number of rivets(n1) = 58 mm
+
+Pitch of the rivets(p1) = 55 mm
+
+Number of rows of rivets(assumed) = 1
+
+Overlap of plates(a) = 70.000000 mm
+ 

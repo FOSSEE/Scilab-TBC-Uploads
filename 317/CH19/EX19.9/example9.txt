@@ -1,0 +1,1 @@
+ closed-loop bandwidth is 160 KHertz

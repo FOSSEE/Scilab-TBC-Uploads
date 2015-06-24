@@ -1,0 +1,5 @@
+ Example 17.4
+
+ Hall coefficient is -3.16e-11 V-m/A-Tesla
+
+ Hall Voltage is -3.16e-08 V

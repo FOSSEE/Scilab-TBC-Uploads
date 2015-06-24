@@ -1,0 +1,3 @@
+value of multiplier resistance(in ohm)=   
+ 
+    449900.  

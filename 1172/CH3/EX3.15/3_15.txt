@@ -1,0 +1,7 @@
+
+ # Problem 15 # 
+
+ Standard formula Used 
+ f =  sqrt(k / m ) 
+ U = 1/2* h * nu 
+ Zero point energy of a linear harmonic oscillator  is 1.174408e-32 J.

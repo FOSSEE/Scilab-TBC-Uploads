@@ -1,0 +1,6 @@
+# PROBLEM 23 # 
+
+ Standard formula used 
+ 2*mu*t*cos(r) = n*lambda
+
+ Thickness of film is 1.715625e-02 mm.

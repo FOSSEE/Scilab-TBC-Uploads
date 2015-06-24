@@ -1,0 +1,3 @@
+ The half power point beam width = 20.661965 degree
+ The directivity = 98.696044
+ The directivity in dB= 19.942997 dB

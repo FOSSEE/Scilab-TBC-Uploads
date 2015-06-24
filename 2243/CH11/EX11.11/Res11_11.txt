@@ -1,0 +1,3 @@
+ Major carrier concentration  = 1.0 x 10^21 electrons/m^3 
+Minor carrier concentration  = 2.25 x 10^11 holes/m^3
+Resistivity  = 0.046 ohm m 

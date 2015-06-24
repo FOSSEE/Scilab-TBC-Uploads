@@ -1,0 +1,1 @@
+ The strength of ground wave= 0.145675 mV/meter 

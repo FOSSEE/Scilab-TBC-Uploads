@@ -1,0 +1,4 @@
+ 
+ example12_2   
+induced emf of a machine a 5.35+1.52i =5.565708kV per phase
+induced emf of a machine b 4.60+1.28i =4.776461kV per phase 

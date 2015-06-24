@@ -1,0 +1,30 @@
+clear all; clc;
+disp("Ex 2_11")
+a1=60
+a=a1*%pi/180
+b1=45
+b=b1*%pi/180
+c1=120
+c=c1*%pi/180
+f1=300
+f2=700
+f1_x=f1*cos(b)
+f1_y=f1*cos(a)
+f1_z=f1*cos(c)
+printf('\n\nF1 = (%.1fi+%.0fj%.0fk) N',f1_x,f1_y,f1_z)
+FR=800
+f2_x=0-f1_x
+f2_y=800-f1_y
+f2_z=0-f1_z
+printf('\n\nF_2x = %.1f N',f2_x)
+printf('\n\nF_2y = %.0f N',f2_y)
+printf('\n\nF_2z = %.0f N',f2_z)
+p1=acos(f2_x/f2)
+p=p1*180/%pi
+q1=acos(f2_y/f2)
+q=q1*180/%pi
+r1=acos(f2_z/f2)
+r=r1*180/%pi
+printf('\n\n alpha2 = %.0f degrees',p)
+printf('\n\n beta2 = %.1f degrees',q)
+printf('\n\n gamma2 = %.1f degrees',r)

@@ -1,0 +1,6 @@
+ 
+ example10.14   
+
+power at station 1 is 111MW 	 power at station 2 is 89MW 
+ total cost on economic critieria method Rs109879 per hour
+extra operating cost due to erroneous scheduling Rs.121 per hour 

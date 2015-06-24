@@ -1,0 +1,23 @@
+V1 = 1;
+nqr = 0.5;
+A = 10^-2;
+Dn = 30;
+Dp =15;
+Na = 5*10^16;
+Nd = 5*10^17;
+q = 1.6*10^-19;
+tn = 10^-8;
+tp = 10^-7;
+ni = 1.84*10^6;
+np = ni^2/Na;
+pn = ni^2/Nd;
+Ln = (Dn*tn)^0.5;
+Lp = (Dp*tp)^0.5;
+kT = 26*10^-3; //in eV
+In = A*q*Dn*np/Ln*(exp(V1/kT)-1);
+disp(In,"The electron current injected into the p-region will be responsible for the photon generation. This current (in A) = ")
+Iph = In*nqr/q;
+disp(Iph,"photons generated per second = ")
+E = 1.41; //in eV
+P = Iph*E*q;
+disp(P,"Each photon has an energy of 1.41 eV (= bandgap of GaAs). The optical power (in W) = ")

@@ -1,0 +1,14 @@
+ 
+ example 10.1   
+ 
+ minimum load ic is   
+ic of unit1 =ic of unit2 when unit2=20MW and unit1=65MWload division 
+
+ for plant ic 50MW 	then p1 is 100MW	 plant2 is 66MW and total is 166MW 
+ for plant ic 55MW 	then p1 is 125MW	 plant2 is 100MW and total is 225MW 
+ for plant ic 60MW 	then p1 is 150MW	 plant2 is 133MW and total is 283MW 
+ for plant ic 65MW 	then p1 is 175MW	 plant2 is 166MW and total is 341MW 
+ for plant ic 70MW 	then p1 is 200MW	 plant2 is 200MW and total is 400MW 
+ for plant ic 75MW 	then p1 is 225MW	 plant2 is 233MW and total is 458MW 
+ for plant ic 77.5MW 	then p1=237MW	 p2 =250MW
+ for plant ic 80MW 	then p1 is 250MW	 plant2 is 250MW and total is 500MW  

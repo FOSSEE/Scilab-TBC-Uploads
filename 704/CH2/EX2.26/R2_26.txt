@@ -1,0 +1,3 @@
+motor speed when armature current is 75 Amp and the excitation is increased by 15 %(in rpm)=   
+ 
+    770.  

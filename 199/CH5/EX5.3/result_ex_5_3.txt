@@ -1,0 +1,1 @@
+* Magnitude at which voltage follower is stable is = 0 dB 

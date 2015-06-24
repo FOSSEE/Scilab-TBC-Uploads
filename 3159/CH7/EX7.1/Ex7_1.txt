@@ -1,0 +1,14 @@
+ 
+ Example 7.1
+
+ Degree of freedom for two components when 
+ number of phases is 1 is 3
+
+ Degree of freedom for two components when 
+ number of phases is 2 is 2
+
+ Degree of freedom for two components when 
+ number of phases is 3 is 1
+
+ Degree of freedom for two components when 
+ number of phases is 4 is 0 

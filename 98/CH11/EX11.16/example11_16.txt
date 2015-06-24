@@ -1,0 +1,15 @@
+(i) POSITIONS OF INTERSHEATHS: 
+d1 = 2.77 cm 
+d2 = 3.83 cm 
+
+(ii) VOLTAGE ON INTERSHEATH: 
+V1 = 12.54 kV 
+V2 = 17.35 kV 
+Voltage on first intersheath = 41.35 kV 
+Voltage on second intersheath = 24.01 kV 
+
+(iii) STRESSES ON DIELECTRIC: 
+Maximum stress = 38.59 kV/cm 
+Minimum stress = 27.89 kV/cm 
+
+

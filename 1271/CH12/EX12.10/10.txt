@@ -1,0 +1,1 @@
+ Activity of sample is 1.159450e+09 decays/sec.

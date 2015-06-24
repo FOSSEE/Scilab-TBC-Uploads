@@ -1,0 +1,15 @@
+
+(i) V1 = 1.00 V 
+V2 = 1.20 V 
+V3 = 1.64 V 
+V4 = 2.41 V 
+
+Voltage across the string = 6.25 V 
+The voltage across each unit expressed as a percentage becomes: 
+	 Top unit = 16.01 % 
+	 Second from top = 19.21 % 
+	 Third from top = 26.25 % 
+	 Fourth from top = 38.54 % 
+
+(ii) String efficiency = 64.87 % 
+

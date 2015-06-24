@@ -1,0 +1,11 @@
+(a)sensitivity of LVDT(in mV/mm)=   
+ 
+    4.  
+ 
+ (b)sensitivity of entire setup(in mV/mm)=   
+ 
+    1000.  
+ 
+ (c)resolution of the instrument(in mm)=   
+ 
+    0.0025

@@ -1,0 +1,3 @@
+ The reflective = 1.575000 m
+ The director = 1.425000 m
+ The spacing between terminal = 0.600000 m 

@@ -1,0 +1,8 @@
+ 
+
+Load shared by the generator:
+	 Generator1=230.77 MW
+	Generator2=369.23 MW
+
+System Frequency=47.69 Hz
+

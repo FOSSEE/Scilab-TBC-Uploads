@@ -1,0 +1,101 @@
+9#Underground Cables#9.9#find radial thickness and safe working voltage of cable#ex9_9.sce#2273/CH9/EX9.9/ex9_9.sce#S##86995
+9#Underground Cables#9.8#find safe working voltage of cable#ex9_8.sce#2273/CH9/EX9.8/ex9_8.sce#S##86994
+9#Underground Cables#9.7#Determine most economical value of diameter of single core cable#ex9_7.sce#2273/CH9/EX9.7/ex9_7.sce#S##86993
+9#Underground Cables#9.6#Determine most economical value of diameter and overall diameter of insulation#ex9_6.sce#2273/CH9/EX9.6/ex9_6.sce#S##86992
+9#Underground Cables#9.5#Determine internal diameter of shealth D and diameter of conductor d#ex9_5.sce#2273/CH9/EX9.5/ex9_5.sce#S##86991
+9#Underground Cables#9.4#Find max electrostatic stresses and charging kVA#ex9_4.sce#2273/CH9/EX9.4/ex9_4.sce#S##86989
+9#Underground Cables#9.3#Find max and min electrostatic stresses and capacitance and charging current#ex9_3.sce#2273/CH9/EX9.3/ex9_3.sce#S##86988
+9#Underground Cables#9.2#Determine resistivity of dielectric in a cable#ex9_2.sce#2273/CH9/EX9.2/ex9_2.sce#S##86987
+9#Underground Cables#9.14#Calculate the charging current#ex9_14.sce#2273/CH9/EX9.14/ex9_14.sce#S##86998
+9#Underground Cables#9.13#Calculate the kVA taken#ex9_13.sce#2273/CH9/EX9.13/ex9_13.sce#S##86997
+9#Underground Cables#9.12#Calculate the charging current#ex9_12.sce#2273/CH9/EX9.12/ex9_12.sce#S##86996
+9#Underground Cables#9.11#find the position and voltage on the intersheaths and max and min stress#ex9_11.sce#2273/CH9/EX9.11/ex9_11.sce#S##87364
+9#Underground Cables#9.10#find the voltage on the intersheaths#ex9_10.sce#2273/CH9/EX9.10/ex9_10.sce#S##87365
+9#Underground Cables#9.1#Determine insulation resistance#ex9_1.sce#2273/CH9/EX9.1/ex9_1.sce#S##86986
+8#Insulators#8.9#Calculate voltage on line end unit and capacitance Cx required#ex8_9.sce#2273/CH8/EX8.9/ex8_9.sce#S##86985
+8#Insulators#8.8#find string efficiency#ex8_8.sce#2273/CH8/EX8.8/ex8_8.sce#S##87420
+8#Insulators#8.7#Find the values of line to pin capacitance#ex8_7.sce#2273/CH8/EX8.7/ex8_7.sce#S##86984
+8#Insulators#8.5#find max safe working voltage#ex8_5.sce#2273/CH8/EX8.5/ex8_5.sce#S##86983
+8#Insulators#8.4#find system line voltage and string efficiency#ex8_4.sce#2273/CH8/EX8.4/ex8_4.sce#S##86982
+8#Insulators#8.3#find ratio of ground to mutual capacitance and system line voltage and string efficiency#ex8_3.sce#2273/CH8/EX8.3/ex8_3.sce#S##86981
+8#Insulators#8.2#find max safe working voltage and string efficiency#ex8_2.sce#2273/CH8/EX8.2/ex8_2.sce#S##86980
+8#Insulators#8.1#find voltage distribution across each insulator and string efficiency#ex8_1.sce#2273/CH8/EX8.1/ex8_1.sce#S##86979
+7#Corona#7.8#Find corona characteristics#ex7_8.sce#2273/CH7/EX7.8/ex7_8.sce#S##84923
+7#Corona#7.7#Determine critical disruptive voltage and Visual critical voltage and Corona loss#ex7_7.sce#2273/CH7/EX7.7/ex7_7.sce#S##84922
+7#Corona#7.6#Determine critical discruptive voltage for line and corona loss#ex7_6.sce#2273/CH7/EX7.6/ex7_6.sce#S##84921
+7#Corona#7.5#Determine critical discruptive voltage for line#ex7_5.sce#2273/CH7/EX7.5/ex7_5.sce#S##84920
+7#Corona#7.4#Find spacing between the conductor#ex7_4.sce#2273/CH7/EX7.4/ex7_4.sce#S##84919
+7#Corona#7.3#Determine critical discruptive voltage for line#ex7_3.sce#2273/CH7/EX7.3/ex7_3.sce#S##84918
+7#Corona#7.2#Determine whether corona will be there or not#ex7_2.sce#2273/CH7/EX7.2/ex7_2.sce#S##84917
+7#Corona#7.1#Determine line voltage for commencing of corona#ex7_1.sce#2273/CH7/EX7.1/ex7_1.sce#S##84916
+6#Performance of Long Transmission Lines#6.9#find sending end voltage and regulation and recieving end rective and synchornous power#ex6_9.sce#2273/CH6/EX6.9/ex6_9.sce#S##84909
+6#Performance of Long Transmission Lines#6.8#find sending end reactive and active power#ex6_8.sce#2273/CH6/EX6.8/ex6_8.sce#S##84908
+6#Performance of Long Transmission Lines#6.7#calculate equivalent T and pi constants#ex6_7.sce#2273/CH6/EX6.7/ex6_7.sce#S##84542
+6#Performance of Long Transmission Lines#6.6#calculate Ao and Bo and Co and Do constants#ex6_6.sce#2273/CH6/EX6.6/ex6_6.sce#S##84541
+6#Performance of Long Transmission Lines#6.5#calculate constants of equivalent circuit of line#ex6_5.sce#2273/CH6/EX6.5/ex6_5.sce#S##84540
+6#Performance of Long Transmission Lines#6.4#alculate constants of equivalent circuit of line#ex6_4.sce#2273/CH6/EX6.4/ex6_4.sce#S##84539
+6#Performance of Long Transmission Lines#6.3#Determine percentage rise in voltage#ex6_3.sce#2273/CH6/EX6.3/ex6_3.sce#S##84538
+6#Performance of Long Transmission Lines#6.2#Determine sending end voltage and current#ex6_2.sce#2273/CH6/EX6.2/ex6_2.sce#S##84537
+6#Performance of Long Transmission Lines#6.15#Determine the induced voltage in the telephone line#ex6_15.sce#2273/CH6/EX6.15/ex6_15.sce#S##84915
+6#Performance of Long Transmission Lines#6.14#Determine recieving end voltage and current#ex6_14.sce#2273/CH6/EX6.14/ex6_14.sce#S##84914
+6#Performance of Long Transmission Lines#6.13#Find characteristics impedance and propogation constant and ABCD constants#ex6_13.sce#2273/CH6/EX6.13/ex6_13.sce#S##84913
+6#Performance of Long Transmission Lines#6.12#Find sending end voltage and current and power factor#ex6_12.sce#2273/CH6/EX6.12/ex6_12.sce#S##84912
+6#Performance of Long Transmission Lines#6.11#Determine sending end voltage and current and power factor and MVA and power angle#ex6_11.sce#2273/CH6/EX6.11/ex6_11.sce#S##84911
+6#Performance of Long Transmission Lines#6.10#find sending end voltage and charging current and power#ex6_10.sce#2273/CH6/EX6.10/ex6_10.sce#S##84910
+6#Performance of Long Transmission Lines#6.1#Determine auxiliary constants#ex6_1.sce#2273/CH6/EX6.1/ex6_1.sce#S##84536
+5#Performance of Short and Medium Transmission Lines#5.9#Find current and voltage of sending end#ex5_9.sce#2273/CH5/EX5.9/ex5_9.sce#S##84525
+5#Performance of Short and Medium Transmission Lines#5.8#Find current and voltage of sending end and percentage regulation#ex5_8.sce#2273/CH5/EX5.8/ex5_8.sce#S##84524
+5#Performance of Short and Medium Transmission Lines#5.7#Find current and voltage of sending end and percentage regulation and transmission efficiency#ex5_7.sce#2273/CH5/EX5.7/ex5_7.sce#S##84522
+5#Performance of Short and Medium Transmission Lines#5.6#Find current and voltage of sending end and percentage regulation and line losses and sending end power factor and transmission efficiency#ex5_6.sce#2273/CH5/EX5.6/ex5_6.sce#S##84521
+5#Performance of Short and Medium Transmission Lines#5.5#Find load end voltage and efficieny#ex5_5.sce#2273/CH5/EX5.5/ex5_5.sce#S##84520
+5#Performance of Short and Medium Transmission Lines#5.4#Find sending end voltage and power factor and efficieny and regulation#ex5_4.sce#2273/CH5/EX5.4/ex5_4.sce#S##84519
+5#Performance of Short and Medium Transmission Lines#5.3#find sending end voltage and regulation#ex5_3.sce#2273/CH5/EX5.3/ex5_3.sce#S##84517
+5#Performance of Short and Medium Transmission Lines#5.2#voltage at sending end and percentage regulation and total line losses and transmission efficiency#ex5_2.sce#2273/CH5/EX5.2/ex5_2.sce#S##84516
+5#Performance of Short and Medium Transmission Lines#5.14#Determine ABCD constant and sending end power factor#ex5_14.sce#2273/CH5/EX5.14/ex5_14.sce#S##84531
+5#Performance of Short and Medium Transmission Lines#5.13#find sending end voltage and current and power and efficiency#ex5_13.sce#2273/CH5/EX5.13/ex5_13.sce#S##84530
+5#Performance of Short and Medium Transmission Lines#5.12#Find ABCD parameters and sending end voltage and current and power factor and transmission eficiency#ex5_12.sce#2273/CH5/EX5.12/ex5_12.sce#S##84528
+5#Performance of Short and Medium Transmission Lines#5.11#find sending end voltage and current and power and efficiency#ex5_11.sce#2273/CH5/EX5.11/ex5_11.sce#S##84527
+5#Performance of Short and Medium Transmission Lines#5.10#Find regulation and charging current using nominal T method#ex5_10.sce#2273/CH5/EX5.10/ex5_10.sce#S##84526
+5#Performance of Short and Medium Transmission Lines#5.1#Find voltage at sending end and percentage regulation and transmission efficiency#ex5_1.sce#2273/CH5/EX5.1/ex5_1.sce#S##84509
+4#Transmission Line Parameters  #4.9#Find the loop inductance per phase#ex4_9.sce#2273/CH4/EX4.9/ex4_9.sce#S##82691
+4#Transmission Line Parameters  #4.8#Find the inductance of a 3 phase line arranged in horizontal plane#ex4_8.sce#2273/CH4/EX4.8/ex4_8.sce#S##82690
+4#Transmission Line Parameters  #4.7#Find the inductance of a 3 phase line situated at cornes of a triangle#ex4_7.sce#2273/CH4/EX4.7/ex4_7.sce#S##82689
+4#Transmission Line Parameters  #4.6#Find the inductance per phase of 30 km line#ex4_6.sce#2273/CH4/EX4.6/ex4_6.sce#S##82688
+4#Transmission Line Parameters  #4.5#Find the loop inductance#ex4_5.sce#2273/CH4/EX4.5/ex4_5.sce#S##82687
+4#Transmission Line Parameters  #4.4#Find the total inductance of the line#ex4_4.sce#2273/CH4/EX4.4/ex4_4.sce#S##82686
+4#Transmission Line Parameters  #4.3#Calculate GMR pf ACSR conductor#ex4_3.sce#2273/CH4/EX4.3/ex4_3.sce#S##82685
+4#Transmission Line Parameters  #4.2#Find the loop inductance#ex4_2.sce#2273/CH4/EX4.2/ex4_2.sce#S##82684
+4#Transmission Line Parameters  #4.19#Calculate the capacitance per phase#ex4_19.sce#2273/CH4/EX4.19/ex4_19.sce#S##82701
+4#Transmission Line Parameters  #4.18#find capacitive reactance to neutral and charging current#ex4_18.sce#2273/CH4/EX4.18/ex4_18.sce#S##82700
+4#Transmission Line Parameters  #4.17#Find the capacitance and charging current#ex4_17.sce#2273/CH4/EX4.17/ex4_17.sce#S##82699
+4#Transmission Line Parameters  #4.16#Find the capacitance of 3 phase 3 wire line#ex4_16.sce#2273/CH4/EX4.16/ex4_16.sce#S##82698
+4#Transmission Line Parameters  #4.15#Find the capacitance of 3 phase line#ex4_15.sce#2273/CH4/EX4.15/ex4_15.sce#S##82697
+4#Transmission Line Parameters  #4.14#Find the capacitance of 2 wire 1 phase line#ex4_14.sce#2273/CH4/EX4.14/ex4_14.sce#S##82696
+4#Transmission Line Parameters  #4.13#Find the capacitance of 1 phase line#ex4_13.sce#2273/CH4/EX4.13/ex4_13.sce#S##82695
+4#Transmission Line Parameters  #4.12#Find inductive reactance of 3 phase bundled conductor#ex4_12.sce#2273/CH4/EX4.12/ex4_12.sce#S##82694
+4#Transmission Line Parameters  #4.11#Find the inductance of an ASCR 3 phase line#ex4_11.sce#2273/CH4/EX4.11/ex4_11.sce#S##82693
+4#Transmission Line Parameters  #4.10#Find the loop inductance per phase#ex4_10.sce#2273/CH4/EX4.10/ex4_10.sce#S##82692
+4#Transmission Line Parameters  #4.1#Find the loop inductance and reactance#ex4_1.sce#2273/CH4/EX4.1/ex4_1.sce#S##82683
+3#Mechanical Features of Overhead Line#3.9#Calculate sag from taller of the two supports#ex3_9.sce#2273/CH3/EX3.9/ex3_9.sce#S##82669
+3#Mechanical Features of Overhead Line#3.8#Calculate the minimum clearance of conductor and water#ex3_8.sce#2273/CH3/EX3.8/ex3_8.sce#S##82668
+3#Mechanical Features of Overhead Line#3.7#Calculate the vertical sag#ex3_7.sce#2273/CH3/EX3.7/ex3_7.sce#S##82667
+3#Mechanical Features of Overhead Line#3.6#Calculate the max sag#ex3_6.sce#2273/CH3/EX3.6/ex3_6.sce#S##82665
+3#Mechanical Features of Overhead Line#3.5#Calculate the max sag in still air and wind pressure#ex3_5.sce#2273/CH3/EX3.5/ex3_5.sce#S##82664
+3#Mechanical Features of Overhead Line#3.4#Calculate horizontal component of tension and max sag#ex3_4.sce#2273/CH3/EX3.4/ex3_4.sce#S##82663
+3#Mechanical Features of Overhead Line#3.3#Calculate the hieght above ground at which conductor should be supported#ex3_3.sce#2273/CH3/EX3.3/ex3_3.sce#S##82662
+3#Mechanical Features of Overhead Line#3.2#Calculate the max sag#ex3_2.sce#2273/CH3/EX3.2/ex3_2.sce#S##82660
+3#Mechanical Features of Overhead Line#3.14#Determine Sag and Tension under erection conditions#ex3_14.sce#2273/CH3/EX3.14/ex3_14.sce#S##82674
+3#Mechanical Features of Overhead Line#3.13#find the clearance of conductor from ground 1 At its lowest elevation 2 the min clearance of the line#ex3_13.sce#2273/CH3/EX3.13/ex3_13.sce#S##82673
+3#Mechanical Features of Overhead Line#3.12#find the clearance of conductor from water level at mid point#ex3_12.sce#2273/CH3/EX3.12/ex3_12.sce#S##82672
+3#Mechanical Features of Overhead Line#3.11#Find stringing tension in the conductor#ex3_11.sce#2273/CH3/EX3.11/ex3_11.sce#S##82671
+3#Mechanical Features of Overhead Line#3.10#find the clearance of conductor from ground#ex3_10.sce#2273/CH3/EX3.10/ex3_10.sce#S##95624
+3#Mechanical Features of Overhead Line#3.1#calculate the weight of the conductor required#ex3_1.sce#2273/CH3/EX3.1/ex3_1.sce#S##82659
+2#Distribution System#2.6#Calculate the most economical cross sectional area#ex2_6.sce#2273/CH2/EX2.6/ex2_6.sce#S##77471
+2#Distribution System#2.5#Calculate the most economical cross sectional area#ex2_5.sce#2273/CH2/EX2.5/ex2_5.sce#S##95623
+2#Distribution System#2.4#Calculate the most economical cross sectional area#ex2_4.sce#2273/CH2/EX2.4/ex2_4.sce#S##84512
+2#Distribution System#2.3#Calculate the most economical current density and diameter of conductor#ex2_3.sce#2273/CH2/EX2.3/ex2_3.sce#S##84511
+2#Distribution System#2.2#Calculate the most economical current density#ex2_2.sce#2273/CH2/EX2.2/ex2_2.sce#S##77467
+2#Distribution System#2.1#Calculate the most economical cross sectional area#ex2_1.sce#2273/CH2/EX2.1/ex2_1.sce#S##77466
+1#Supply System#1.5#Calculate DC supply voltage#ex1_5.sce#2273/CH1/EX1.5/ex1_5.sce#S##77443
+1#Supply System#1.4#Calculate volume of conductor required in 1 phase 2 wire and 3 phase 3 wire system#ex1_4.sce#2273/CH1/EX1.4/ex1_4.sce#S##77442
+1#Supply System#1.1#Find the copper saving#ex1_1.sce#2273/CH1/EX1.1/ex1_1.sce#S##84510

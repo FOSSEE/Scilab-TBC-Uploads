@@ -1,0 +1,14 @@
+(i) CURRENTS IN VARIOUS SECTIONS: 
+I_AB = 47 A 
+I_BC = 35 A 
+I_CD = 20 A 
+
+(ii) Single core resistance of the section of 100m length = 0.066 ohm 
+Resistance of section AB = 0.099 ohm 
+Resistance of section BC = 0.132 ohm 
+Resistance of section CD = 0.066 ohm 
+
+(iii) Voltage at tapping point B = Vb = 245.35 V 
+Voltage at tapping point C = Vc = 240.74 V 
+Voltage at tapping point D = Vd = 239.42 V 
+

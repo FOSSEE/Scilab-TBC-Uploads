@@ -1,0 +1,11 @@
+Tangent Modulous of elasticity (in Gpa) =    
+ 
+    112.5  
+ 
+ Secant modulous of elasticity (in Gpa) =    
+ 
+    123.28767  
+ 
+ Youngs modulous (in Gpa) =    
+ 
+    125.  

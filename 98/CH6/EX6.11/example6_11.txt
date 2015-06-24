@@ -1,0 +1,7 @@
+Total lagging kVAR taken = 1066.79 
+Leading kVAR taken = 600.00 
+Total leading kVAR taken = 466.79 
+Motor input = 600.00 kW 
+phi = 0.66 radians
+Power factor of synchronous motor = 0.79 lead
+

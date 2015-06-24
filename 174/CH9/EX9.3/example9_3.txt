@@ -1,0 +1,3 @@
+ The ratio of the spectral calculation = 0.25 Hz
+The maximum calculated spectral frequency = 10000 Hz
+The dynamic range = 60 dB 

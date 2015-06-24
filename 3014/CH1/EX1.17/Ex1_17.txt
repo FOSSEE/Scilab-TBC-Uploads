@@ -1,0 +1,5 @@
+
+
+Example 1.17
+ de Broglie wavelength of ball is 6.620000e-26 angstrom.
+ de Broglie wavelength of electron is 7.274725 angstrom.

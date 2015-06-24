@@ -1,0 +1,7 @@
+ 
+ # PROBLEM 21 # 
+
+ Standard formula used 
+ c = theta / (s * l). 
+
+ Specific rotation of sugar solution is 66 percent. 

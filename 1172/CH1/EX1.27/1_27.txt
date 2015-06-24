@@ -1,0 +1,5 @@
+ # Problem 27 # 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N”)
+Grating will well resolve two spectral lines. 

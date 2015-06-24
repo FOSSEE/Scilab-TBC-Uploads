@@ -1,0 +1,138 @@
+6#Digital Design#6.9#calculating WCC radiation#ex6_9.sce#2234/CH6/EX6.9/ex6_9.sce#S##100193
+6#Digital Design#6.8#calculating voltage#ex6_8.sce#2234/CH6/EX6.8/ex6_8.sce#S##100192
+6#Digital Design#6.7#calculating voltage#ex6_7.sce#2234/CH6/EX6.7/ex6_7.sce#S##100191
+6#Digital Design#6.6#calculating radiation level#ex6_6.sce#2234/CH6/EX6.6/ex6_6.sce#S##100190
+6#Digital Design#6.5#calculating radiation level#ex6_5.sce#2234/CH6/EX6.5/ex6_5.sce#S##100189
+6#Digital Design#6.4#calculating voltage#ex6_4.sce#2234/CH6/EX6.4/ex6_4.sce#S##100188
+6#Digital Design#6.3#calculating size#ex6_3.sce#2234/CH6/EX6.3/ex6_3.sce#S##100187
+6#Digital Design#6.2#calculating output#ex6_2.sce#2234/CH6/EX6.2/ex6_2.sce#S##100186
+6#Digital Design#6.16#observing output#ex6_16.sce#2234/CH6/EX6.16/ex6_16.sce#S##100200
+6#Digital Design#6.15#calculating common mode voltage#ex6_15.sce#2234/CH6/EX6.15/ex6_15.sce#S##100199
+6#Digital Design#6.14#determining the type of filter#ex6_14.sce#2234/CH6/EX6.14/ex6_14.sce#S##100198
+6#Digital Design#6.13#finding the mode of coupling#ex6_13.sce#2234/CH6/EX6.13/ex6_13.sce#S##100197
+6#Digital Design#6.12#calculating WCC#ex6_12.sce#2234/CH6/EX6.12/ex6_12.sce#S##100196
+6#Digital Design#6.11#calculating H field#ex6_11.sce#2234/CH6/EX6.11/ex6_11.sce#S##100195
+6#Digital Design#6.10#calculating radiation#ex6_10.sce#2234/CH6/EX6.10/ex6_10.sce#S##100194
+6#Digital Design#6.1#calculating dielectric constant#ex6_1.sce#2234/CH6/EX6.1/ex6_1.sce#S##100185
+5#Analog Design#5.9#calculating voltage#ex5_9.sce#2234/CH5/EX5.9/ex5_9.sce#S##98767
+5#Analog Design#5.8#calculating rms current#ex5_8.sce#2234/CH5/EX5.8/ex5_8.sce#S##98766
+5#Analog Design#5.7#calculating size#ex5_7.sce#2234/CH5/EX5.7/ex5_7.sce#S##98765
+5#Analog Design#5.6#calculating max peak current#ex5_6.sce#2234/CH5/EX5.6/ex5_6.sce#S##98764
+5#Analog Design#5.5#calculating energy loss#ex5_5.sce#2234/CH5/EX5.5/ex5_5.sce#S##98763
+5#Analog Design#5.4#calculating output signal#ex5_4.sce#2234/CH5/EX5.4/ex5_4.sce#S##98762
+5#Analog Design#5.3#calculating output common mode signal#ex5_3.sce#2234/CH5/EX5.3/ex5_3.sce#S##98761
+5#Analog Design#5.2#calculating output signal#ex5_2.sce#2234/CH5/EX5.2/ex5_2.sce#S##98760
+5#Analog Design#5.19#calculating time#ex5_19.sce#2234/CH5/EX5.19/ex5_19.sce#S##98739
+5#Analog Design#5.18#calculating time#ex5_18.sce#2234/CH5/EX5.18/ex5_18.sce#S##98741
+5#Analog Design#5.17#calculating max voltage#ex5_17.sce#2234/CH5/EX5.17/ex5_17.sce#S##98746
+5#Analog Design#5.16#calculating max voltage#ex5_16.sce#2234/CH5/EX5.16/ex5_16.sce#S##98747
+5#Analog Design#5.15#calculating capacitance#ex5_15.sce#2234/CH5/EX5.15/ex5_15.sce#S##98749
+5#Analog Design#5.14#calculating radiation#ex5_14.sce#2234/CH5/EX5.14/ex5_14.sce#S##98751
+5#Analog Design#5.13#calculating size#ex5_13.sce#2234/CH5/EX5.13/ex5_13.sce#S##98753
+5#Analog Design#5.12#calculating input capacitance#ex5_12.sce#2234/CH5/EX5.12/ex5_12.sce#S##98755
+5#Analog Design#5.11#calculating output inductance#ex5_11.sce#2234/CH5/EX5.11/ex5_11.sce#S##98771
+5#Analog Design#5.10#calculating output impedance#ex5_10.sce#2234/CH5/EX5.10/ex5_10.sce#S##98768
+5#Analog Design#5.1#calculating delay#ex5_1.sce#2234/CH5/EX5.1/ex5_1.sce#S##98759
+4#A few more tools#4.9#calculating distance#ex4_9.sce#2234/CH4/EX4.9/ex4_9.sce#S##98699
+4#A few more tools#4.8#calculating H#ex4_8.sce#2234/CH4/EX4.8/ex4_8.sce#S##98698
+4#A few more tools#4.7#calculating frequency#ex4_7.sce#2234/CH4/EX4.7/ex4_7.sce#S##98697
+4#A few more tools#4.6#calculating H#ex4_6.sce#2234/CH4/EX4.6/ex4_6.sce#S##98695
+4#A few more tools#4.5#calculating resistance#ex4_5.sce#2234/CH4/EX4.5/ex4_5.sce#S##98694
+4#A few more tools#4.4#calculating resistance#ex4_4.sce#2234/CH4/EX4.4/ex4_4.sce#S##98693
+4#A few more tools#4.3#calculating inductance#ex4_3.sce#2234/CH4/EX4.3/ex4_3.sce#S##98692
+4#A few more tools#4.27#calculating radiation#ex4_27.sce#2234/CH4/EX4.27/ex4_27.sce#S##98718
+4#A few more tools#4.26#calculating primary current#ex4_26.sce#2234/CH4/EX4.26/ex4_26.sce#S##98717
+4#A few more tools#4.25#calculating radiation#ex4_25.sce#2234/CH4/EX4.25/ex4_25.sce#S##98716
+4#A few more tools#4.24#calculating peak voltage#ex4_24.sce#2234/CH4/EX4.24/ex4_24.sce#S##98715
+4#A few more tools#4.23#calculating magnetising current max#ex4_23.sce#2234/CH4/EX4.23/ex4_23.sce#S##98714
+4#A few more tools#4.22#calculating WCC#ex4_22.sce#2234/CH4/EX4.22/ex4_22.sce#S##98713
+4#A few more tools#4.21#calculating WCC#ex4_21.sce#2234/CH4/EX4.21/ex4_21.sce#S##98712
+4#A few more tools#4.20#calculating WCC#ex4_20.sce#2234/CH4/EX4.20/ex4_20.sce#S##98711
+4#A few more tools#4.2#calculating resistance#ex4_2.sce#2234/CH4/EX4.2/ex4_2.sce#S##98691
+4#A few more tools#4.19#calculating WCC#ex4_19.sce#2234/CH4/EX4.19/ex4_19.sce#S##98710
+4#A few more tools#4.18#calculating skin depth#ex4_18.sce#2234/CH4/EX4.18/ex4_18.sce#S##98708
+4#A few more tools#4.17#calculating one skin depth#ex4_17.sce#2234/CH4/EX4.17/ex4_17.sce#S##98707
+4#A few more tools#4.16#calculating one skin depth#ex4_16.sce#2234/CH4/EX4.16/ex4_16.sce#S##98706
+4#A few more tools#4.15#calculating E#ex4_15.sce#2234/CH4/EX4.15/ex4_15.sce#S##98705
+4#A few more tools#4.14#calculating E#ex4_14.sce#2234/CH4/EX4.14/ex4_14.sce#S##98704
+4#A few more tools#4.13#calculating field strength#ex4_13.sce#2234/CH4/EX4.13/ex4_13.sce#S##98703
+4#A few more tools#4.12#calculating H #ex4_12.sce#2234/CH4/EX4.12/ex4_12.sce#S##98702
+4#A few more tools#4.11#calculating wave impedance#ex4_11.sce#2234/CH4/EX4.11/ex4_11.sce#S##98701
+4#A few more tools#4.10#calculating wave impedance#ex4_10.sce#2234/CH4/EX4.10/ex4_10.sce#S##98700
+4#A few more tools#4.1#calculating resistance#ex4_1.sce#2234/CH4/EX4.1/ex4_1.sce#S##98690
+3#Utility power and circuit concepts#3.9#calculating slope#ex3_9.sce#2234/CH3/EX3.9/ex3_9.sce#S##98683
+3#Utility power and circuit concepts#3.8#calculating reactance#ex3_8.sce#2234/CH3/EX3.8/ex3_8.sce#S##98682
+3#Utility power and circuit concepts#3.7#calculating impedance#ex3_7.sce#2234/CH3/EX3.7/ex3_7.sce#S##98681
+3#Utility power and circuit concepts#3.6#calculating impedance#ex3_6.sce#2234/CH3/EX3.6/ex3_6.sce#S##98680
+3#Utility power and circuit concepts#3.5#calculating peak current#ex3_5.sce#2234/CH3/EX3.5/ex3_5.sce#S##98679
+3#Utility power and circuit concepts#3.4#calculating impedance#ex3_4.sce#2234/CH3/EX3.4/ex3_4.sce#S##98678
+3#Utility power and circuit concepts#3.3#calculating impedance#ex3_3.sce#2234/CH3/EX3.3/ex3_3.sce#S##98677
+3#Utility power and circuit concepts#3.29#calculating current#ex3_29.sce#2234/CH3/EX3.29/ex3_29.sce#S##100184
+3#Utility power and circuit concepts#3.28#calculating total voltage#ex3_28.sce#2234/CH3/EX3.28/ex3_28.sce#S##100183
+3#Utility power and circuit concepts#3.27#calculating power dissipated#ex3_27.sce#2234/CH3/EX3.27/ex3_27.sce#S##100182
+3#Utility power and circuit concepts#3.26#calculating peak voltage#ex3_26.sce#2234/CH3/EX3.26/ex3_26.sce#S##100181
+3#Utility power and circuit concepts#3.25#calculating H field and voltage#ex3_25.sce#2234/CH3/EX3.25/ex3_25.sce#S##100180
+3#Utility power and circuit concepts#3.24#calculating current#ex3_24.sce#2234/CH3/EX3.24/ex3_24.sce#S##100179
+3#Utility power and circuit concepts#3.23#calculating time#ex3_23.sce#2234/CH3/EX3.23/ex3_23.sce#S##100178
+3#Utility power and circuit concepts#3.22#calculating rms heating#ex3_22.sce#2234/CH3/EX3.22/ex3_22.sce#S##100177
+3#Utility power and circuit concepts#3.21#calculating average dc voltage #ex3_21.sce#2234/CH3/EX3.21/ex3_21.sce#S##100176
+3#Utility power and circuit concepts#3.20#calculating rms voltage#ex3_20.sce#2234/CH3/EX3.20/ex3_20.sce#S##100175
+3#Utility power and circuit concepts#3.2#calculating reactance#ex3_2.sce#2234/CH3/EX3.2/ex3_2.sce#S##98676
+3#Utility power and circuit concepts#3.19#calculating rms voltage#ex3_19.sce#2234/CH3/EX3.19/ex3_19.sce#S##100174
+3#Utility power and circuit concepts#3.18#calculating peak voltage#ex3_18.sce#2234/CH3/EX3.18/ex3_18.sce#S##100173
+3#Utility power and circuit concepts#3.17#calculating rms voltage#ex3_17.sce#2234/CH3/EX3.17/ex3_17.sce#S##100172
+3#Utility power and circuit concepts#3.16#calculating phase angle#ex3_16.sce#2234/CH3/EX3.16/ex3_16.sce#S##100171
+3#Utility power and circuit concepts#3.15#calculating reactance#ex3_15.sce#2234/CH3/EX3.15/ex3_15.sce#S##98689
+3#Utility power and circuit concepts#3.14#calculating impedance#ex3_14.sce#2234/CH3/EX3.14/ex3_14.sce#S##98688
+3#Utility power and circuit concepts#3.13#calculating phase angle#ex3_13.sce#2234/CH3/EX3.13/ex3_13.sce#S##98687
+3#Utility power and circuit concepts#3.12#calculating current#ex3_12.sce#2234/CH3/EX3.12/ex3_12.sce#S##98686
+3#Utility power and circuit concepts#3.11#calculating natural frequency#ex3_11.sce#2234/CH3/EX3.11/ex3_11.sce#S##98685
+3#Utility power and circuit concepts#3.10#calculating resonant frequency#ex3_10.sce#2234/CH3/EX3.10/ex3_10.sce#S##98684
+3#Utility power and circuit concepts#3.1#calculating reactance#ex3_1.sce#2234/CH3/EX3.1/ex3_1.sce#S##98675
+2#Capacitance#2.9#finding H field intensity#ex2_9.sce#2234/CH2/EX2.9/ex2_9.sce#S##100151
+2#Capacitance#2.8#calculating energy#ex2_8.sce#2234/CH2/EX2.8/ex2_8.sce#S##98674
+2#Capacitance#2.7#calculating resistance#ex2_7.sce#2234/CH2/EX2.7/ex2_7.sce#S##98673
+2#Capacitance#2.6#calculating voltage#ex2_6.sce#2234/CH2/EX2.6/ex2_6.sce#S##98672
+2#Capacitance#2.5#calculating time constant#ex2_5.sce#2234/CH2/EX2.5/ex2_5.sce#S##98671
+2#Capacitance#2.4#calculating current#ex2_4.sce#2234/CH2/EX2.4/ex2_4.sce#S##98670
+2#Capacitance#2.3#calculating D#ex2_3.sce#2234/CH2/EX2.3/ex2_3.sce#S##98669
+2#Capacitance#2.22#calculating H field#ex2_22.sce#2234/CH2/EX2.22/ex2_22.sce#S##100165
+2#Capacitance#2.21#calculating energy#ex2_21.sce#2234/CH2/EX2.21/ex2_21.sce#S##100164
+2#Capacitance#2.20#calculating lowest frequency square wave#ex2_20.sce#2234/CH2/EX2.20/ex2_20.sce#S##100163
+2#Capacitance#2.2#calculating charge#ex2_2.sce#2234/CH2/EX2.2/ex2_2.sce#S##98666
+2#Capacitance#2.19#calculating time#ex2_19.sce#2234/CH2/EX2.19/ex2_19.sce#S##100162
+2#Capacitance#2.18#calculating flux#ex2_18.sce#2234/CH2/EX2.18/ex2_18.sce#S##100160
+2#Capacitance#2.17#calculating B field#ex2_17.sce#2234/CH2/EX2.17/ex2_17.sce#S##100159
+2#Capacitance#2.16#calculating H field#ex2_16.sce#2234/CH2/EX2.16/ex2_16.sce#S##100158
+2#Capacitance#2.15#calculating energy#ex2_15.sce#2234/CH2/EX2.15/ex2_15.sce#S##100157
+2#Capacitance#2.14#calculating time #ex2_14.sce#2234/CH2/EX2.14/ex2_14.sce#S##100156
+2#Capacitance#2.13#calculating H field intensity#ex2_13.sce#2234/CH2/EX2.13/ex2_13.sce#S##100155
+2#Capacitance#2.12#calculating H field intensity#ex2_12.sce#2234/CH2/EX2.12/ex2_12.sce#S##100154
+2#Capacitance#2.11#calculating H field intensity#ex2_11.sce#2234/CH2/EX2.11/ex2_11.sce#S##100153
+2#Capacitance#2.10#calculating H field intensity#ex2_10.sce#2234/CH2/EX2.10/ex2_10.sce#S##100152
+2#Capacitance#2.1#calculating capacitance#ex2_1.sce#2234/CH2/EX2.1/ex2_1.sce#S##98665
+1#Electric field#1.9#calculating internal resistance#ex1_9.sce#2234/CH1/EX1.9/ex1_9.sce#S##98657
+1#Electric field#1.8#calculating voltage#ex1_8.sce#2234/CH1/EX1.8/ex1_8.sce#S##98656
+1#Electric field#1.7#calculating voltage#ex1_7.sce#2234/CH1/EX1.7/ex1_7.sce#S##98655
+1#Electric field#1.6#calculating resistance#ex1_6.sce#2234/CH1/EX1.6/ex1_6.sce#S##98654
+1#Electric field#1.5#calculating work#ex1_5.sce#2234/CH1/EX1.5/ex1_5.sce#S##98653
+1#Electric field#1.4#calculating current#ex1_4.sce#2234/CH1/EX1.4/ex1_4.sce#S##98652
+1#Electric field#1.3#calculating resistance and conductance#ex1_3.sce#2234/CH1/EX1.3/ex1_3.sce#S##98651
+1#Electric field#1.25#calculating peak power#ex1_25.sce#2234/CH1/EX1.25/ex1_25.sce#S##100150
+1#Electric field#1.24#calculating average power#ex1_24.sce#2234/CH1/EX1.24/ex1_24.sce#S##100149
+1#Electric field#1.23#calculating force#ex1_23.sce#2234/CH1/EX1.23/ex1_23.sce#S##100148
+1#Electric field#1.22#calculating voltage#ex1_22.sce#2234/CH1/EX1.22/ex1_22.sce#S##100147
+1#Electric field#1.21#calculating energy#ex1_21.sce#2234/CH1/EX1.21/ex1_21.sce#S##100146
+1#Electric field#1.20#calculating current#ex1_20.sce#2234/CH1/EX1.20/ex1_20.sce#S##100145
+1#Electric field#1.2#calculating current#ex1_2.sce#2234/CH1/EX1.2/ex1_2.sce#S##98650
+1#Electric field#1.19#calculating wattage#ex1_19.sce#2234/CH1/EX1.19/ex1_19.sce#S##100144
+1#Electric field#1.18#calculating joules#ex1_18.sce#2234/CH1/EX1.18/ex1_18.sce#S##100143
+1#Electric field#1.17#calculating power dissipation#ex1_17.sce#2234/CH1/EX1.17/ex1_17.sce#S##100142
+1#Electric field#1.16#calculating wattage rating#ex1_16.sce#2234/CH1/EX1.16/ex1_16.sce#S##100141
+1#Electric field#1.15#no of resistances#ex1_15.sce#2234/CH1/EX1.15/ex1_15.sce#S##100139
+1#Electric field#1.14#finding configuration#ex1_14.sce#2234/CH1/EX1.14/ex1_14.sce#S##100138
+1#Electric field#1.13#calculating the power level#ex1_13.sce#2234/CH1/EX1.13/ex1_13.sce#S##100137
+1#Electric field#1.12#calculating power dissipated#ex1_12.sce#2234/CH1/EX1.12/ex1_12.sce#S##98664
+1#Electric field#1.11#calculating power dissipated#ex1_11.sce#2234/CH1/EX1.11/ex1_11.sce#S##98663
+1#Electric field#1.10#calculating voltage#ex1_10.sce#2234/CH1/EX1.10/ex1_10.sce#S##98662
+1#Electric field#1.1#calculating Electric field intensity#ex1_1.sce#2234/CH1/EX1.1/ex1_1.sce#S##98649

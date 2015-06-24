@@ -1,0 +1,201 @@
+11#DIGITAL SIGNAL PROCESSORS#11.5#Function Value Calculation#Program11_5.sce#52/CH11/EX11.5/Program11_5.sce#S##3355
+11#DIGITAL SIGNAL PROCESSORS#11.3#Program for Integer Multiplication#Program11_3.sce#52/CH11/EX11.3/Program11_3.sce#S##3352
+9#STATISTICAL DIGITAL SIGNAL PROCESSING#9.8.b#Quality Factor Computation#Example9_8_b.sce#52/CH9/EX9.8.b/Example9_8_b.sce#S##3233
+9#STATISTICAL DIGITAL SIGNAL PROCESSING#9.8.a#Smallest Record Length Computation#Example9_8_a.sce#52/CH9/EX9.8.a/Example9_8_a.sce#S##3232
+9#STATISTICAL DIGITAL SIGNAL PROCESSING#9.7.b#Record Length Determination#Example9_7_b.sce#52/CH9/EX9.7.b/Example9_7_b.sce#S##3231
+9#STATISTICAL DIGITAL SIGNAL PROCESSING#9.7.a#Frequency Resolution Determination#Example9_7_a.sce#52/CH9/EX9.7.a/Example9_7_a.sce#S##3230
+8#MULTIRATE SIGNAL PROCESSING#8.9#Two Component Decomposition#Example8_9.sce#52/CH8/EX8.9/Example8_9.sce#S##3361
+8#MULTIRATE SIGNAL PROCESSING#8.10#Two Band Polyphase Decomposition#Example8_10.sce#52/CH8/EX8.10/Example8_10.sce#S##3362
+7#FINITE WORD LENGTH EFFECTS IN DIGITAL FILTERS#7.2#Subtraction Computation#Example7_2.sce#52/CH7/EX7.2/Example7_2.sce#S##3480
+7#FINITE WORD LENGTH EFFECTS IN DIGITAL FILTERS#7.14#Variance of Output due to AD Conversion Process#Example7_14.sce#52/CH7/EX7.14/Example7_14.sce#S##3481
+6#FINITE IMPULSE RESPONSE FILTERS#6.9.b#HPF Magnitude Response using Hamming Window#Example6_9_b.sce#52/CH6/EX6.9.b/Example6_9_b.sce#S##3265
+6#FINITE IMPULSE RESPONSE FILTERS#6.9.b#HPF Magnitude Response using Hamming Window#Example6_9_b.jpg#52/CH6/EX6.9.b/Example6_9_b.jpg#R##3266
+6#FINITE IMPULSE RESPONSE FILTERS#6.9.a#HPF Magnitude Response using Hanning Window#Example6_9_a.sce#52/CH6/EX6.9.a/Example6_9_a.sce#S##3263
+6#FINITE IMPULSE RESPONSE FILTERS#6.9.a#HPF Magnitude Response using Hanning Window#Example6_9_a.jpg#52/CH6/EX6.9.a/Example6_9_a.jpg#R##3264
+6#FINITE IMPULSE RESPONSE FILTERS#6.8#BRF Magnitude Response#Example6_8.sce#52/CH6/EX6.8/Example6_8.sce#S##3261
+6#FINITE IMPULSE RESPONSE FILTERS#6.8#BRF Magnitude Response#Example6_8.jpg#52/CH6/EX6.8/Example6_8.jpg#R##3262
+6#FINITE IMPULSE RESPONSE FILTERS#6.7#BPF Magnitude Response#Example6_7.sce#52/CH6/EX6.7/Example6_7.sce#S##3259
+6#FINITE IMPULSE RESPONSE FILTERS#6.7#BPF Magnitude Response#Example6_7.jpg#52/CH6/EX6.7/Example6_7.jpg#R##3260
+6#FINITE IMPULSE RESPONSE FILTERS#6.6#HPF Magnitude Response#Example6_6.sce#52/CH6/EX6.6/Example6_6.sce#S##3253
+6#FINITE IMPULSE RESPONSE FILTERS#6.6#HPF Magnitude Response#Example6_6.jpg#52/CH6/EX6.6/Example6_6.jpg#R##3254
+6#FINITE IMPULSE RESPONSE FILTERS#6.5#LPF Magnitude Response#Example6_5.sce#52/CH6/EX6.5/Example6_5.sce#S##3251
+6#FINITE IMPULSE RESPONSE FILTERS#6.5#LPF Magnitude Response#Example6_5.jpg#52/CH6/EX6.5/Example6_5.jpg#R##3252
+6#FINITE IMPULSE RESPONSE FILTERS#6.29#Lattice Filter Coefficients Determination#Example6_29.sce#52/CH6/EX6.29/Example6_29.sce#S##3393
+6#FINITE IMPULSE RESPONSE FILTERS#6.28#Filter Coefficients for Direct Form Structure#Example6_28.sce#52/CH6/EX6.28/Example6_28.sce#S##3392
+6#FINITE IMPULSE RESPONSE FILTERS#6.21#LPF Filter using Rectangular Window#Example6_21.sce#52/CH6/EX6.21/Example6_21.sce#S##3303
+6#FINITE IMPULSE RESPONSE FILTERS#6.21#LPF Filter using Rectangular Window#Example6_21.jpg#52/CH6/EX6.21/Example6_21.jpg#R##3304
+6#FINITE IMPULSE RESPONSE FILTERS#6.20#Filter Coefficients using Hamming Window#Example6_20.sce#52/CH6/EX6.20/Example6_20.sce#S##3300
+6#FINITE IMPULSE RESPONSE FILTERS#6.20#Filter Coefficients using Hamming Window#Example6_20.jpg#52/CH6/EX6.20/Example6_20.jpg#R##3301
+6#FINITE IMPULSE RESPONSE FILTERS#6.19#Filter Coefficients Determination#Example6_19.sce#52/CH6/EX6.19/Example6_19.sce#S##3297
+6#FINITE IMPULSE RESPONSE FILTERS#6.19#Filter Coefficients Determination#Example6_19.jpg#52/CH6/EX6.19/Example6_19.jpg#R##3298
+6#FINITE IMPULSE RESPONSE FILTERS#6.18.b#Frequency Sampling Method FIR LPF Filter#Example6_18_b.sce#52/CH6/EX6.18.b/Example6_18_b.sce#S##3294
+6#FINITE IMPULSE RESPONSE FILTERS#6.18.b#Frequency Sampling Method FIR LPF Filter#Example6_18_b.jpg#52/CH6/EX6.18.b/Example6_18_b.jpg#R##3295
+6#FINITE IMPULSE RESPONSE FILTERS#6.18.a#Frequency Sampling Method FIR LPF Filter#Example6_18_a.sce#52/CH6/EX6.18.a/Example6_18_a.sce#S##3291
+6#FINITE IMPULSE RESPONSE FILTERS#6.18.a#Frequency Sampling Method FIR LPF Filter#Example6_18_a.jpg#52/CH6/EX6.18.a/Example6_18_a.jpg#R##3292
+6#FINITE IMPULSE RESPONSE FILTERS#6.17#BPF Filter Design using Sampling Method#Example6_17.sce#52/CH6/EX6.17/Example6_17.sce#S##3287
+6#FINITE IMPULSE RESPONSE FILTERS#6.16#Coefficients of Linear phase FIR Filter#Example6_16.sce#52/CH6/EX6.16/Example6_16.sce#S##3285
+6#FINITE IMPULSE RESPONSE FILTERS#6.15#Filter Coefficients obtained by Sampling #Example6_15.sce#52/CH6/EX6.15/Example6_15.sce#S##3283
+6#FINITE IMPULSE RESPONSE FILTERS#6.14.b#Hilbert Transformer using Blackman Window#Example6_14_b.sce#52/CH6/EX6.14.b/Example6_14_b.sce#S##3281
+6#FINITE IMPULSE RESPONSE FILTERS#6.14.b#Hilbert Transformer using Blackman Window#Example6_14_b.jpg#52/CH6/EX6.14.b/Example6_14_b.jpg#R##3282
+6#FINITE IMPULSE RESPONSE FILTERS#6.14.a#Hilbert Transformer using Rectangular Window#Example6_14_a.sce#52/CH6/EX6.14.a/Example6_14_a.sce#S##3279
+6#FINITE IMPULSE RESPONSE FILTERS#6.14.a#Hilbert Transformer using Rectangular Window#Example6_14_a.jpg#52/CH6/EX6.14.a/Example6_14_a.jpg#R##3280
+6#FINITE IMPULSE RESPONSE FILTERS#6.13.b#Digital Differentiator using Hamming Window#Example6_13_b.sce#52/CH6/EX6.13.b/Example6_13_b.sce#S##3277
+6#FINITE IMPULSE RESPONSE FILTERS#6.13.b#Digital Differentiator using Hamming Window#Example6_13_b.jpg#52/CH6/EX6.13.b/Example6_13_b.jpg#R##3278
+6#FINITE IMPULSE RESPONSE FILTERS#6.13.a#Digital Differentiator using Rectangular Window#Example6_13_a.sce#52/CH6/EX6.13.a/Example6_13_a.sce#S##3275
+6#FINITE IMPULSE RESPONSE FILTERS#6.13.a#Digital Differentiator using Rectangular Window#Example6_13_a.jpg#52/CH6/EX6.13.a/Example6_13_a.jpg#R##3276
+6#FINITE IMPULSE RESPONSE FILTERS#6.12#BPF Filter Design using Kaiser Window#Example6_12.sce#52/CH6/EX6.12/Example6_12.sce#S##3273
+6#FINITE IMPULSE RESPONSE FILTERS#6.12#BPF Filter Design using Kaiser Window#Example6_12.jpg#52/CH6/EX6.12/Example6_12.jpg#R##3274
+6#FINITE IMPULSE RESPONSE FILTERS#6.11#LPF Filter Design using Kaiser Window#Example6_11.sce#52/CH6/EX6.11/Example6_11.sce#S##3270
+6#FINITE IMPULSE RESPONSE FILTERS#6.11#LPF Filter Design using Kaiser Window#Example6_11.jpg#52/CH6/EX6.11/Example6_11.jpg#R##3271
+6#FINITE IMPULSE RESPONSE FILTERS#6.10#Hanning Window Filter Design#Example6_10.sce#52/CH6/EX6.10/Example6_10.sce#S##3267
+6#FINITE IMPULSE RESPONSE FILTERS#6.10#Hanning Window Filter Design#Example6_10.jpg#52/CH6/EX6.10/Example6_10.jpg#R##3268
+6#FINITE IMPULSE RESPONSE FILTERS#6.1#Group Delay and Phase Delay#Example6_1.sce#52/CH6/EX6.1/Example6_1.sce#S##3250
+5#INFINITE IMPULSE RESPONSE FILTERS#5.9#Chebyshev Filter Design#Example5_9.sce#52/CH5/EX5.9/Example5_9.sce#S##3411
+5#INFINITE IMPULSE RESPONSE FILTERS#5.8#Order of Type 1 Low Pass Chebyshev Filter#Example5_8.sce#52/CH5/EX5.8/Example5_8.sce#S##3409
+5#INFINITE IMPULSE RESPONSE FILTERS#5.7#Chebyshev Filter Design#Example5_7.sce#52/CH5/EX5.7/Example5_7.sce#S##3391
+5#INFINITE IMPULSE RESPONSE FILTERS#5.6#Order of Chebyshev Filter#Example5_6.sce#52/CH5/EX5.6/Example5_6.sce#S##3390
+5#INFINITE IMPULSE RESPONSE FILTERS#5.5#Analog Butterworth Filter Design#Example5_5.sce#52/CH5/EX5.5/Example5_5.sce#S##3389
+5#INFINITE IMPULSE RESPONSE FILTERS#5.4#Analog Butterworth Filter Design#Example5_4.sce#52/CH5/EX5.4/Example5_4.sce#S##3388
+5#INFINITE IMPULSE RESPONSE FILTERS#5.29#Pole Zero IIR Filter into Lattice Ladder Structure#Example5_29.sce#52/CH5/EX5.29/Example5_29.sce#S##3425
+5#INFINITE IMPULSE RESPONSE FILTERS#5.2#Order of Low Pass Butterworth Filter#Example5_2.sce#52/CH5/EX5.2/Example5_2.sce#S##3387
+5#INFINITE IMPULSE RESPONSE FILTERS#5.19#Single Pole LPF into BPF Conversion#Example5_19.sce#52/CH5/EX5.19/Example5_19.sce#S##3424
+5#INFINITE IMPULSE RESPONSE FILTERS#5.18#Bilinear Transformation Method Filter Design#Example5_18.sce#52/CH5/EX5.18/Example5_18.sce#S##3423
+5#INFINITE IMPULSE RESPONSE FILTERS#5.17#HPF Design using Bilinear Transform#Example5_17.sce#52/CH5/EX5.17/Example5_17.sce#S##3422
+5#INFINITE IMPULSE RESPONSE FILTERS#5.16#Bilinear Transformation Method Filter Design#Example5_16.sce#52/CH5/EX5.16/Example5_16.sce#S##3421
+5#INFINITE IMPULSE RESPONSE FILTERS#5.15#Impulse Invariant Method Filter Design#Example5_15.sce#52/CH5/EX5.15/Example5_15.sce#S##3420
+5#INFINITE IMPULSE RESPONSE FILTERS#5.13#Impulse Invariant Method Filter Design#Example5_13.sce#52/CH5/EX5.13/Example5_13.sce#S##3418
+5#INFINITE IMPULSE RESPONSE FILTERS#5.12#Impulse Invariant Method Filter Design#Example5_12.sce#52/CH5/EX5.12/Example5_12.sce#S##3416
+5#INFINITE IMPULSE RESPONSE FILTERS#5.11#Impulse Invariant Method Filter Design#Example5_11.sce#52/CH5/EX5.11/Example5_11.sce#S##3414
+5#INFINITE IMPULSE RESPONSE FILTERS#5.10#HPF Filter Design with given Specifications#Example5_10.sce#52/CH5/EX5.10/Example5_10.sce#S##3413
+5#INFINITE IMPULSE RESPONSE FILTERS#5.1#Order of the Filter Determination#Example5_1.sce#52/CH5/EX5.1/Example5_1.sce#S##3386
+4#THE FAST FOURIER TRANSFORM#4.9#8 Point DFT of the Sequence#Example4_9.sce#52/CH4/EX4.9/Example4_9.sce#S##3204
+4#THE FAST FOURIER TRANSFORM#4.8#DFT using DIF Algorithm#Example4_8.sce#52/CH4/EX4.8/Example4_8.sce#S##3203
+4#THE FAST FOURIER TRANSFORM#4.6#DFT using DIT Algorithm#Example4_6.sce#52/CH4/EX4.6/Example4_6.sce#S##3202
+4#THE FAST FOURIER TRANSFORM#4.4#Twiddle Factor Exponents Calculation#Example4_4.sce#52/CH4/EX4.4/Example4_4.sce#S##3201
+4#THE FAST FOURIER TRANSFORM#4.3#Shortest Sequence N Computation#Example4_3.sce#52/CH4/EX4.3/Example4_3.sce#S##3200
+4#THE FAST FOURIER TRANSFORM#4.24#8 Point DFT of the Sequence#Example4_24.sce#52/CH4/EX4.24/Example4_24.sce#S##3220
+4#THE FAST FOURIER TRANSFORM#4.23#DFT using DIF FFT Algorithm#Example4_23.sce#52/CH4/EX4.23/Example4_23.sce#S##3219
+4#THE FAST FOURIER TRANSFORM#4.22#Compute X using DIT FFT#Example4_22.sce#52/CH4/EX4.22/Example4_22.sce#S##3218
+4#THE FAST FOURIER TRANSFORM#4.21#DFT using DIT FFT Algorithm#Example4_21.sce#52/CH4/EX4.21/Example4_21.sce#S##3217
+4#THE FAST FOURIER TRANSFORM#4.20#8 Point DFT by Radix 2 DIT FFT#Example4_20.sce#52/CH4/EX4.20/Example4_20.sce#S##3216
+4#THE FAST FOURIER TRANSFORM#4.19#FFT Computation of the Sequence#Example4_19.sce#52/CH4/EX4.19/Example4_19.sce#S##3215
+4#THE FAST FOURIER TRANSFORM#4.18#IDFT using DIT Algorithm#Example4_18.sce#52/CH4/EX4.18/Example4_18.sce#S##3214
+4#THE FAST FOURIER TRANSFORM#4.17#IDFT using DIF Algorithm#Example4_17.sce#52/CH4/EX4.17/Example4_17.sce#S##3213
+4#THE FAST FOURIER TRANSFORM#4.16.b#8 Point DFT using DIT FFT#Example4_16_b.sce#52/CH4/EX4.16.b/Example4_16_b.sce#S##3212
+4#THE FAST FOURIER TRANSFORM#4.16.a#8 Point DFT using DIT FFT#Example4_16_a.sce#52/CH4/EX4.16.a/Example4_16_a.sce#S##3211
+4#THE FAST FOURIER TRANSFORM#4.15#DFT using DIF Algorithm#Example4_15.sce#52/CH4/EX4.15/Example4_15.sce#S##3210
+4#THE FAST FOURIER TRANSFORM#4.14#DFT using DIT Algorithm#Example4_14.sce#52/CH4/EX4.14/Example4_14.sce#S##3209
+4#THE FAST FOURIER TRANSFORM#4.13#8 Point DFT of the Sequence#Example4_13.sce#52/CH4/EX4.13/Example4_13.sce#S##3208
+4#THE FAST FOURIER TRANSFORM#4.12#8 Point DFT of the Sequence#Example4_12.sce#52/CH4/EX4.12/Example4_12.sce#S##3207
+4#THE FAST FOURIER TRANSFORM#4.11#IDFT of the Sequence using DIT Algorithm#Example4_11.sce#52/CH4/EX4.11/Example4_11.sce#S##3206
+4#THE FAST FOURIER TRANSFORM#4.10#4 Point DFT of the Sequence#Example4_10.sce#52/CH4/EX4.10/Example4_10.sce#S##3205
+3#THE DISCRETE FOURIER TRANSFORM#3.9#Remaining Samples#Example3_9.sce#52/CH3/EX3.9/Example3_9.sce#S##708
+3#THE DISCRETE FOURIER TRANSFORM#3.7#Plot the Sequence#Example3_7.jpg#52/CH3/EX3.7/Example3_7.jpg#R##424
+3#THE DISCRETE FOURIER TRANSFORM#3.7#Plot the Sequence#Example3_7.sce#52/CH3/EX3.7/Example3_7.sce#S##423
+3#THE DISCRETE FOURIER TRANSFORM#3.4#IDFT of the given Sequence#Example3_4.sce#52/CH3/EX3.4/Example3_4.sce#S##119
+3#THE DISCRETE FOURIER TRANSFORM#3.36#Determine IDFT#Example3_36.sce#52/CH3/EX3.36/Example3_36.sce#S##715
+3#THE DISCRETE FOURIER TRANSFORM#3.32#Sketch Sequence#Example3_32.jpg#52/CH3/EX3.32/Example3_32.jpg#R##714
+3#THE DISCRETE FOURIER TRANSFORM#3.32#Sketch Sequence#Example3_32.sce#52/CH3/EX3.32/Example3_32.sce#S##713
+3#THE DISCRETE FOURIER TRANSFORM#3.30#Calculate value of N#Example3_30.sce#52/CH3/EX3.30/Example3_30.sce#S##712
+3#THE DISCRETE FOURIER TRANSFORM#3.3#8 Point DFT#Example3_3.sce#52/CH3/EX3.3/Example3_3.sce#S##707
+3#THE DISCRETE FOURIER TRANSFORM#3.27.b#Circular Convolution Computation#Example3_27_b.sce#52/CH3/EX3.27.b/Example3_27_b.sce#S##3235
+3#THE DISCRETE FOURIER TRANSFORM#3.27.a#Circular Convolution Computation#Example3_27_a.sce#52/CH3/EX3.27.a/Example3_27_a.sce#S##3234
+3#THE DISCRETE FOURIER TRANSFORM#3.26#Linear Convolution using DFT#Example3_26.sce#52/CH3/EX3.26/Example3_26.sce#S##457
+3#THE DISCRETE FOURIER TRANSFORM#3.25#8 Point Circular Convolution#Example3_25.sce#52/CH3/EX3.25/Example3_25.sce#S##711
+3#THE DISCRETE FOURIER TRANSFORM#3.24#DFT of the Sequence#Example3_24.sce#52/CH3/EX3.24/Example3_24.sce#S##454
+3#THE DISCRETE FOURIER TRANSFORM#3.23.f#N Point DFT Computation#Example3_23_f.sce#52/CH3/EX3.23.f/Example3_23_f.sce#S##3241
+3#THE DISCRETE FOURIER TRANSFORM#3.23.e#N Point DFT Computation#Example3_23_e.sce#52/CH3/EX3.23.e/Example3_23_e.sce#S##3240
+3#THE DISCRETE FOURIER TRANSFORM#3.23.d#N Point DFT Computation#Example3_23_d.sce#52/CH3/EX3.23.d/Example3_23_d.sce#S##3239
+3#THE DISCRETE FOURIER TRANSFORM#3.23.c#N Point DFT Computation#Example3_23_c.sce#52/CH3/EX3.23.c/Example3_23_c.sce#S##3238
+3#THE DISCRETE FOURIER TRANSFORM#3.23.b#N Point DFT Computation#Example3_23_b.sce#52/CH3/EX3.23.b/Example3_23_b.sce#S##3237
+3#THE DISCRETE FOURIER TRANSFORM#3.23.a#N Point DFT Computation#Example3_23_a.sce#52/CH3/EX3.23.a/Example3_23_a.sce#S##3236
+3#THE DISCRETE FOURIER TRANSFORM#3.21#Linear Convolution#Example3_21.sce#52/CH3/EX3.21/Example3_21.sce#S##406
+3#THE DISCRETE FOURIER TRANSFORM#3.20#Output Response#Example3_20.sce#52/CH3/EX3.20/Example3_20.sce#S##710
+3#THE DISCRETE FOURIER TRANSFORM#3.2#DFT of the Sequence#Example3_2.sce#52/CH3/EX3.2/Example3_2.sce#S##421
+3#THE DISCRETE FOURIER TRANSFORM#3.2#DFT of the Sequence#Example3_2.jpg#52/CH3/EX3.2/Example3_2.jpg#R##422
+3#THE DISCRETE FOURIER TRANSFORM#3.18#Output Response#Example3_18.sce#52/CH3/EX3.18/Example3_18.sce#S##663
+3#THE DISCRETE FOURIER TRANSFORM#3.17#Circular Convolution#Example3_17.sce#52/CH3/EX3.17/Example3_17.sce#S##403
+3#THE DISCRETE FOURIER TRANSFORM#3.16#Circular Convolution#Example3_16.sce#52/CH3/EX3.16/Example3_16.sce#S##402
+3#THE DISCRETE FOURIER TRANSFORM#3.15#Determine Sequence x3#Example3_15.sce#52/CH3/EX3.15/Example3_15.sce#S##709
+3#THE DISCRETE FOURIER TRANSFORM#3.14#Circular Convolution#Example3_14.sce#52/CH3/EX3.14/Example3_14.sce#S##451
+3#THE DISCRETE FOURIER TRANSFORM#3.13#Circular Convolution#Example3_13.sce#52/CH3/EX3.13/Example3_13.sce#S##449
+3#THE DISCRETE FOURIER TRANSFORM#3.11#DFT Computation#Example3_11.sce#52/CH3/EX3.11/Example3_11.sce#S##448
+3#THE DISCRETE FOURIER TRANSFORM#3.1#DFT and IDFT#Example3_1.sce#52/CH3/EX3.1/Example3_1.sce#S##706
+2#THE Z TRANSFORM#2.9#z Transform of the Sequence#Example2_9.sce#52/CH2/EX2.9/Example2_9.sce#S##3435
+2#THE Z TRANSFORM#2.8.a#z Transform of the Signal#Example2_8_a.sce#52/CH2/EX2.8.a/Example2_8_a.sce#S##3434
+2#THE Z TRANSFORM#2.7#z Transform of the Signal#Example2_7.sce#52/CH2/EX2.7/Example2_7.sce#S##3433
+2#THE Z TRANSFORM#2.6#Stability of the System#Example2_6.sce#52/CH2/EX2.6/Example2_6.sce#S##3432
+2#THE Z TRANSFORM#2.58#Impulse Response of the System#Example2_58.sce#52/CH2/EX2.58/Example2_58.sce#S##3477
+2#THE Z TRANSFORM#2.58#Impulse Response of the System#Example2_58.jpg#52/CH2/EX2.58/Example2_58.jpg#R##3478
+2#THE Z TRANSFORM#2.54#z Transform of Cosine Signal#Example2_54.sce#52/CH2/EX2.54/Example2_54.sce#S##3476
+2#THE Z TRANSFORM#2.53.d#z Transform of the Signal#Example2_53_d.sce#52/CH2/EX2.53.d/Example2_53_d.sce#S##3475
+2#THE Z TRANSFORM#2.53.c#z Transform of the Signal#Example2_53_c.sce#52/CH2/EX2.53.c/Example2_53_c.sce#S##3474
+2#THE Z TRANSFORM#2.53.b#z Transform of the Signal#Example2_53_b.sce#52/CH2/EX2.53.b/Example2_53_b.sce#S##3473
+2#THE Z TRANSFORM#2.53.a#z Transform of the Sequence#Example2_53_a.sce#52/CH2/EX2.53.a/Example2_53_a.sce#S##3470
+2#THE Z TRANSFORM#2.5#z Transform and ROC of the Signal#Example2_5.sce#52/CH2/EX2.5/Example2_5.sce#S##3431
+2#THE Z TRANSFORM#2.45#Pole Zero Pattern of the System#Example2_45.sce#52/CH2/EX2.45/Example2_45.sce#S##3468
+2#THE Z TRANSFORM#2.45#Pole Zero Pattern of the System#Example2_45.jpg#52/CH2/EX2.45/Example2_45.jpg#R##3469
+2#THE Z TRANSFORM#2.41.c#z Transform of the Signal#Example2_41_c.sce#52/CH2/EX2.41.c/Example2_41_c.sce#S##3465
+2#THE Z TRANSFORM#2.41.b#z Transform of the Signal#Example2_41_b.sce#52/CH2/EX2.41.b/Example2_41_b.sce#S##3462
+2#THE Z TRANSFORM#2.41.a#z Transform of the Signal#Example2_41_a.sce#52/CH2/EX2.41.a/Example2_41_a.sce#S##3461
+2#THE Z TRANSFORM#2.40#Input Sequence Computation#Example2_40.sce#52/CH2/EX2.40/Example2_40.sce#S##3458
+2#THE Z TRANSFORM#2.4#z Transform and ROC of the Signal#Example2_4.sce#52/CH2/EX2.4/Example2_4.sce#S##3430
+2#THE Z TRANSFORM#2.38#Determine Output Response#Example2_38.sce#52/CH2/EX2.38/Example2_38.sce#S##3456
+2#THE Z TRANSFORM#2.38#Determine Output Response#Example2_38.jpg#52/CH2/EX2.38/Example2_38.jpg#R##3457
+2#THE Z TRANSFORM#2.35.b#Unit Sample Response of the System#Example2_35_b.sce#52/CH2/EX2.35.b/Example2_35_b.sce#S##3454
+2#THE Z TRANSFORM#2.35.b#Unit Sample Response of the System#Example2_35_b.jpg#52/CH2/EX2.35.b/Example2_35_b.jpg#R##3455
+2#THE Z TRANSFORM#2.35.a#Pole Zero Plot of the System#Example2_35_a.sce#52/CH2/EX2.35.a/Example2_35_a.sce#S##3452
+2#THE Z TRANSFORM#2.35.a#Pole Zero Plot of the System#Example2_35_a.jpg#52/CH2/EX2.35.a/Example2_35_a.jpg#R##3453
+2#THE Z TRANSFORM#2.34#Impulse Response of the System#Example2_34.sce#52/CH2/EX2.34/Example2_34.sce#S##3450
+2#THE Z TRANSFORM#2.34#Impulse Response of the System#Example2_34.jpg#52/CH2/EX2.34/Example2_34.jpg#R##3451
+2#THE Z TRANSFORM#2.3#z Transform of the Sequence#Example2_3.sce#52/CH2/EX2.3/Example2_3.sce#S##3429
+2#THE Z TRANSFORM#2.23#Causal Sequence Determination#Example2_23.sce#52/CH2/EX2.23/Example2_23.sce#S##3449
+2#THE Z TRANSFORM#2.22#Inverse z Transform Computation#Example2_22.sce#52/CH2/EX2.22/Example2_22.sce#S##3448
+2#THE Z TRANSFORM#2.20.a#Inverse z Transform Computation#Example2_20_a.sce#52/CH2/EX2.20.a/Example2_20_a.sce#S##3447
+2#THE Z TRANSFORM#2.2#z Transform and ROC of Anticausal Sequence#Example2_2.sce#52/CH2/EX2.2/Example2_2.sce#S##3428
+2#THE Z TRANSFORM#2.19#Frequency Response of the System#Example2_19.sce#52/CH2/EX2.19/Example2_19.sce#S##3445
+2#THE Z TRANSFORM#2.19#Frequency Response of the System#Example2_19.jpg#52/CH2/EX2.19/Example2_19.jpg#R##3446
+2#THE Z TRANSFORM#2.17#Pole Zero Plot of the Difference Equation#Example2_17.sce#52/CH2/EX2.17/Example2_17.sce#S##3443
+2#THE Z TRANSFORM#2.17#Pole Zero Plot of the Difference Equation#Example2_17.jpg#52/CH2/EX2.17/Example2_17.jpg#R##3444
+2#THE Z TRANSFORM#2.16#Impulse Response of the System#Example2_16.sce#52/CH2/EX2.16/Example2_16.sce#S##3442
+2#THE Z TRANSFORM#2.13.d#z Transform of Discrete Time Signals#Example2_13_d.sce#52/CH2/EX2.13.d/Example2_13_d.sce#S##3441
+2#THE Z TRANSFORM#2.13.c#z Transform of Discrete Time Signals#Example2_13_c.sce#52/CH2/EX2.13.c/Example2_13_c.sce#S##3440
+2#THE Z TRANSFORM#2.13.b#z Transform of Discrete Time Signals#Example2_13_b.sce#52/CH2/EX2.13.b/Example2_13_b.sce#S##3439
+2#THE Z TRANSFORM#2.13.a#z Transform of Discrete Time Signals#Example2_13_a.sce#52/CH2/EX2.13.a/Example2_13_a.sce#S##3438
+2#THE Z TRANSFORM#2.11#z Transform of the Sequence#Example2_11.sce#52/CH2/EX2.11/Example2_11.sce#S##3437
+2#THE Z TRANSFORM#2.10#z Transform Computation#Example2_10.sce#52/CH2/EX2.10/Example2_10.sce#S##3436
+2#THE Z TRANSFORM#2.1#z Transform and ROC of Causal Sequence#Example2_1.sce#52/CH2/EX2.1/Example2_1.sce#S##3426
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.64.c#Frequency Response of LTI System#Example1_64_c.sce#52/CH1/EX1.64.c/Example1_64_c.sce#S##3553
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.64.c#Frequency Response of LTI System#Example1_64_c.jpg#52/CH1/EX1.64.c/Example1_64_c.jpg#R##3554
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.64.a#Frequency Response of LTI System#Example1_64_a.sce#52/CH1/EX1.64.a/Example1_64_a.sce#S##3551
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.64.a#Frequency Response of LTI System#Example1_64_a.jpg#52/CH1/EX1.64.a/Example1_64_a.jpg#R##3552
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.62#Fourier Transform#Example1_62.sce#52/CH1/EX1.62/Example1_62.sce#S##3549
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.61#Fourier Transform#Example1_61.sce#52/CH1/EX1.61/Example1_61.sce#S##3546
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.57.a#Discrete Convolution of Sequences#Example1_57_a.sce#52/CH1/EX1.57.a/Example1_57_a.sce#S##3544
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.5.d#Determining Periodicity of Signal#Example1_5_d.sce#52/CH1/EX1.5.d/Example1_5_d.sce#S##3524
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.5.d#Determining Periodicity of Signal#Example1_5_d.jpg#52/CH1/EX1.5.d/Example1_5_d.jpg#R##3525
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.5.c#Determining Periodicity of Signal#Example1_5_c.sce#52/CH1/EX1.5.c/Example1_5_c.sce#S##3521
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.5.c#Determining Periodicity of Signal#Example1_5_c.jpg#52/CH1/EX1.5.c/Example1_5_c.jpg#R##3522
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.5.a#Determining Periodicity of Signal#Example1_5_a.sce#52/CH1/EX1.5.a/Example1_5_a.sce#S##3519
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.5.a#Determining Periodicity of Signal#Example1_5_a.jpg#52/CH1/EX1.5.a/Example1_5_a.jpg#R##3520
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.45#Filter to Eliminate High Frequency Component#Example1_45.sce#52/CH1/EX1.45/Example1_45.sce#S##3541
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.45#Filter to Eliminate High Frequency Component#Example1_45.jpg#52/CH1/EX1.45/Example1_45.jpg#R##3542
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.4.d#Check for Energy or Power Signals#Example1_4_d.sce#52/CH1/EX1.4.d/Example1_4_d.sce#S##3517
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.4.a#Check for Energy or Power Signals#Example1_4_a.sce#52/CH1/EX1.4.a/Example1_4_a.sce#S##3515
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.38#Plot Magnitude and Phase Response#Example1_38.sce#52/CH1/EX1.38/Example1_38.sce#S##3538
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.38#Plot Magnitude and Phase Response#Example1_38.jpg#52/CH1/EX1.38/Example1_38.jpg#R##3539
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.37#Sketch Magnitude and Phase Response#Example1_37.sce#52/CH1/EX1.37/Example1_37.sce#S##3536
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.37#Sketch Magnitude and Phase Response#Example1_37.jpg#52/CH1/EX1.37/Example1_37.jpg#R##3537
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.32.a#Plot Magnitude and Phase Response#Example1_32_a.sce#52/CH1/EX1.32.a/Example1_32_a.sce#S##3534
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.32.a#Plot Magnitude and Phase Response#Example1_32_a.jpg#52/CH1/EX1.32.a/Example1_32_a.jpg#R##3535
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.3.b#Evaluate the Summations#Example1_3_b.sce#52/CH1/EX1.3.b/Example1_3_b.sce#S##3513
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.3.a#Evaluate the Summations#Example1_3_a.sce#52/CH1/EX1.3.a/Example1_3_a.sce#S##3511
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.2#Continuous Time Plot and Discrete Time Plot#Example1_2.sce#52/CH1/EX1.2/Example1_2.sce#S##3486
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.2#Continuous Time Plot and Discrete Time Plot#Example1_2.jpg#52/CH1/EX1.2/Example1_2.jpg#R##3487
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.19#Determination of Input Sequence#Example1_19.sce#52/CH1/EX1.19/Example1_19.sce#S##3532
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.18#Cross Correlation of Two Sequences#Example1_18.sce#52/CH1/EX1.18/Example1_18.sce#S##3531
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.13#Convolution of Two Signals#Example1_13.sce#52/CH1/EX1.13/Example1_13.sce#S##3530
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.12#Convolution Sum of Two Sequences#Example1_12.sce#52/CH1/EX1.12/Example1_12.sce#S##3529
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.11#Stability of the System#Example1_11.sce#52/CH1/EX1.11/Example1_11.sce#S##3527
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.1#Continuous Time Plot and Discrete Time Plot#Example1_1.sce#52/CH1/EX1.1/Example1_1.sce#S##3484
+1#DISCRETE TIME SIGNALS AND LINEAR SYSTEMS#1.1#Continuous Time Plot and Discrete Time Plot#Example1_1.jpg#52/CH1/EX1.1/Example1_1.jpg#R##3485

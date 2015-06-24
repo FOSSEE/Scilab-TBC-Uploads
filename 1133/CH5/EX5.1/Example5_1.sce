@@ -1,0 +1,17 @@
+//Example 5.1
+clc
+disp("Given problem specific that there are three input variables and one output variable. We assign  A, B and C letter symbols to three input variables and assign Y letter symbol to one output variable. The relationship between input variables and output variable can be tabulated as shown in truth table 5.1")
+disp("  A    B    C    Y")
+disp("  0    0    0    0")
+disp("  0    0    1    0")
+disp("  0    1    0    0")
+disp("  0    1    1    1")
+disp("  1    0    0    0")
+disp("  1    0    1    1")
+disp("  1    1    0    1")
+disp("  1    1    1    1")
+disp("Now we obtain the simplified Boolean expression for output variable Y using K-map simplification.")
+disp("    BC    BC''      B''C''      B''C")
+disp("A   0      0        1         0")
+disp("A''  0      1        1         1")
+disp("  Y = AC + BC + AB")

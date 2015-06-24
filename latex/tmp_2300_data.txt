@@ -1,0 +1,148 @@
+23#Lasers Fibre Optics and Holography#23.31.9#To calculate the probability of stimulated emission#Ex23_9.sce#2300/CH23/EX23.31.9/Ex23_9.sce#S##105253
+23#Lasers Fibre Optics and Holography#23.31.8#To find the amount of pumping energy required for transition from 3s to 2p#Ex23_8.sce#2300/CH23/EX23.31.8/Ex23_8.sce#S##105252
+23#Lasers Fibre Optics and Holography#23.31.7#To find the radius along with the power density of the image and the coherence length#Ex23_7.sce#2300/CH23/EX23.31.7/Ex23_7.sce#S##105251
+23#Lasers Fibre Optics and Holography#23.31.6#To find the line width and the coherence length#Ex23_6.sce#2300/CH23/EX23.31.6/Ex23_6.sce#S##105247
+23#Lasers Fibre Optics and Holography#23.31.5#To determine coherence time and the coherence length#Ex23_5.sce#2300/CH23/EX23.31.5/Ex23_5.sce#S##105250
+23#Lasers Fibre Optics and Holography#23.31.4#To show that emission for a normal optical source is predominantly due to spontaneous transitions#Ex23_4.sce#2300/CH23/EX23.31.4/Ex23_4.sce#S##105246
+23#Lasers Fibre Optics and Holography#23.31.3#To calculate the minimum difference between two arms of a Michelson interferometer#Ex23_3.sce#2300/CH23/EX23.31.3/Ex23_3.sce#S##105249
+23#Lasers Fibre Optics and Holography#23.31.2#To calculate the coherence time and the longitudinal coherence length#Ex23_2.sce#2300/CH23/EX23.31.2/Ex23_2.sce#S##105248
+23#Lasers Fibre Optics and Holography#23.31.10#To calculate the NA and the acceptance angle along with number of reflections per metre#Ex23_10.sce#2300/CH23/EX23.31.10/Ex23_10.sce#S##105254
+23#Lasers Fibre Optics and Holography#23.31.1#To calculate the number of photons emitted per second#Ex23_1.sce#2300/CH23/EX23.31.1/Ex23_1.sce#S##105245
+21#Communication Systems#21.13.3#To find the height of the point above the ground from which the wave is reflected back#Ex21_3.sce#2300/CH21/EX21.13.3/Ex21_3.sce#S##105256
+21#Communication Systems#21.13.2#To find the maximum distance between the transmitting and receiving points#Ex21_2.sce#2300/CH21/EX21.13.2/Ex21_2.sce#S##105257
+21#Communication Systems#21.13.1#To calculate the critical frequencies and the maximum frequencies#Ex21_1.sce#2300/CH21/EX21.13.1/Ex21_1.sce#S##105255
+20#Cathode Ray Oscilloscope#20.9.6#To find the phase difference between the voltages#Ex20_6.sce#2300/CH20/EX20.9.6/Ex20_6.sce#S##105261
+20#Cathode Ray Oscilloscope#20.9.5#To find the frequency of the vertical signal#Ex20_5.sce#2300/CH20/EX20.9.5/Ex20_5.sce#S##105260
+20#Cathode Ray Oscilloscope#20.9.4#To calculate the frequency of the signal#Ex20_4.sce#2300/CH20/EX20.9.4/Ex20_4.sce#S##105259
+20#Cathode Ray Oscilloscope#20.9.3#To find the deflection of the spot and the magnetic deflection sensitivity#Ex20_3.sce#2300/CH20/EX20.9.3/Ex20_3.sce#S##105263
+20#Cathode Ray Oscilloscope#20.9.2#To calculate the highest frequency of the deflecting voltage#Ex20_2.sce#2300/CH20/EX20.9.2/Ex20_2.sce#S##105258
+20#Cathode Ray Oscilloscope#20.9.1#To determine the transit time along with transverse acceleration and spot deflection#Ex20_1.sce#2300/CH20/EX20.9.1/Ex20_1.sce#S##105262
+19#VLSI Technology and Circuits#19.29.6#To calculate the required metal line width#Ex19_6.sce#2300/CH19/EX19.29.6/Ex19_6.sce#S##105269
+19#VLSI Technology and Circuits#19.29.5#To calculate the channel transit time#Ex19_5.sce#2300/CH19/EX19.29.5/Ex19_5.sce#S##105268
+19#VLSI Technology and Circuits#19.29.4#To determine the maximum permissible number of fan outs#Ex19_4.sce#2300/CH19/EX19.29.4/Ex19_4.sce#S##105267
+19#VLSI Technology and Circuits#19.29.3#To find the value of inverse of aspect ratio of the PMOS transistor for a symmetrical inverter#Ex19_3.sce#2300/CH19/EX19.29.3/Ex19_3.sce#S##105266
+19#VLSI Technology and Circuits#19.29.2#To find the pull up and pull down aspect ratio#Ex19_2.sce#2300/CH19/EX19.29.2/Ex19_2.sce#S##105265
+19#VLSI Technology and Circuits#19.29.1#To find the value of inverse of aspect ratio along with power dissipated and load resistance#Ex19_1.sce#2300/CH19/EX19.29.1/Ex19_1.sce#S##105264
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.9#To obtain the output levels of a silicon transistor for given input levels and to show that circuit has performed NOT operation using positive logic#Ex17_9.sce#2300/CH17/EX17.17.9/Ex17_9.sce#S##105278
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.8#To perform the binary subtraction#Ex17_8.sce#2300/CH17/EX17.17.8/Ex17_8.sce#S##105277
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.7#To perform binary addition and also to show the corresponding decimal addition#Ex17_7.sce#2300/CH17/EX17.17.7/Ex17_7.sce#S##105276
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.6#To perform binary addition corresponding to decimal addition#Ex17_6.sce#2300/CH17/EX17.17.6/Ex17_6.sce#S##105275
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.5#To find the equivalent of given number in a code base 5#Ex17_5.sce#2300/CH17/EX17.17.5/Ex17_5.sce#S##105274
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.4#To convert from decimal system to binary system#Ex17_4.sce#2300/CH17/EX17.17.4/Ex17_4.sce#S##105273
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.3#To convert from binary system to decimal system#Ex17_3.sce#2300/CH17/EX17.17.3/Ex17_3.sce#S##105272
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.2#To determine the decimal equivalent#Ex17_2.sce#2300/CH17/EX17.17.2/Ex17_2.sce#S##105271
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.10#To solve the Boolean expression#Ex17_10.sce#2300/CH17/EX17.17.10/Ex17_10.sce#S##105279
+17#Number Systems Boolean Algebra and Digital Circuits#17.17.1#To determine the binary equivalents #Ex17_1.sce#2300/CH17/EX17.17.1/Ex17_1.sce#S##105270
+16#Special Devices#16.10.1#To determine the time period of the sawtooth voltage across capacitor C#Ex16_1.sce#2300/CH16/EX16.10.1/Ex16_1.sce#S##105280
+15#Active Filters#15.7.4#To design a notch filter#Ex15_4.sce#2300/CH15/EX15.7.4/Ex15_4.sce#S##105284
+15#Active Filters#15.7.3#To design a second order band pass Butterworth filter#Ex15_3.sce#2300/CH15/EX15.7.3/Ex15_3.sce#S##105283
+15#Active Filters#15.7.2#To design a first order Butterworth active High Pass filter#Ex15_2.sce#2300/CH15/EX15.7.2/Ex15_2.sce#S##105282
+15#Active Filters#15.7.1#To design a Butterworth low pass filter#Ex15_1.sce#2300/CH15/EX15.7.1/Ex15_1.sce#S##105281
+14#Integrated Circuits and Operational Amplifiers#14.12.9#To find the differential mode gain#Ex14_9.sce#2300/CH14/EX14.12.9/Ex14_9.sce#S##105291
+14#Integrated Circuits and Operational Amplifiers#14.12.8#To calculate the output voltage#Ex14_8.sce#2300/CH14/EX14.12.8/Ex14_8.sce#S##105290
+14#Integrated Circuits and Operational Amplifiers#14.12.6#To find the output voltage of the differentiator#Ex14_6.sce#2300/CH14/EX14.12.6/Ex14_6.sce#S##105289
+14#Integrated Circuits and Operational Amplifiers#14.12.5#To find the voltage gain along with the output voltage#Ex14_5.sce#2300/CH14/EX14.12.5/Ex14_5.sce#S##105288
+14#Integrated Circuits and Operational Amplifiers#14.12.4#To find the output voltage of the three input summing amplifier#Ex14_4.sce#2300/CH14/EX14.12.4/Ex14_4.sce#S##105287
+14#Integrated Circuits and Operational Amplifiers#14.12.3#To calculate the voltage gains for difference and common mode signals along with CMRR#Ex14_3.sce#2300/CH14/EX14.12.3/Ex14_3.sce#S##105292
+14#Integrated Circuits and Operational Amplifiers#14.12.2#To calculate the voltage gain#Ex14_2.sce#2300/CH14/EX14.12.2/Ex14_2.sce#S##105286
+14#Integrated Circuits and Operational Amplifiers#14.12.1#To determine the output voltage along with input resistance and the input current#Ex14_1.sce#2300/CH14/EX14.12.1/Ex14_1.sce#S##105285
+13#Field Effect Transistors#13.16.9#To determine gate source voltage and the transconductance#Ex13_9.sce#2300/CH13/EX13.16.9/Ex13_9.sce#S##105421
+13#Field Effect Transistors#13.16.8#To find the saturation drain current and the minimum value of drain source voltage#Ex13_8.sce#2300/CH13/EX13.16.8/Ex13_8.sce#S##105420
+13#Field Effect Transistors#13.16.7#To calculate the drain current #Ex13_7.sce#2300/CH13/EX13.16.7/Ex13_7.sce#S##105419
+13#Field Effect Transistors#13.16.6#To determine drain current along with drain source voltage along with gate source voltage#Ex13_6.sce#2300/CH13/EX13.16.6/Ex13_6.sce#S##105418
+13#Field Effect Transistors#13.16.5#To find the drain current and the pinch off voltage#Ex13_5.sce#2300/CH13/EX13.16.5/Ex13_5.sce#S##105417
+13#Field Effect Transistors#13.16.4#To calculate the voltage gain and the output resistance#Ex13_4.sce#2300/CH13/EX13.16.4/Ex13_4.sce#S##105416
+13#Field Effect Transistors#13.16.3#To find the transconductance of the FET along with the amplification factor#Ex13_3.sce#2300/CH13/EX13.16.3/Ex13_3.sce#S##105415
+13#Field Effect Transistors#13.16.2#To find the resistance RS#Ex13_2.sce#2300/CH13/EX13.16.2/Ex13_2.sce#S##105414
+13#Field Effect Transistors#13.16.16#To find the small signal voltage gain#Ex13_16.sce#2300/CH13/EX13.16.16/Ex13_16.sce#S##105426
+13#Field Effect Transistors#13.16.15#To calculate the voltage gain and the output resistance#Ex13_15.sce#2300/CH13/EX13.16.15/Ex13_15.sce#S##105425
+13#Field Effect Transistors#13.16.14#To calculate K along with drain current and drain source voltage#Ex13_14.sce#2300/CH13/EX13.16.14/Ex13_14.sce#S##105428
+13#Field Effect Transistors#13.16.13#To calculate drain current along with gate source voltage and drain source voltage#Ex13_13.sce#2300/CH13/EX13.16.13/Ex13_13.sce#S##105427
+13#Field Effect Transistors#13.16.12#To find the saturation drain current#Ex13_12.sce#2300/CH13/EX13.16.12/Ex13_12.sce#S##105424
+13#Field Effect Transistors#13.16.11#To calculate Rs and the channel resistance#Ex13_11.sce#2300/CH13/EX13.16.11/Ex13_11.sce#S##105423
+13#Field Effect Transistors#13.16.10#To find the gate source voltage#Ex13_10.sce#2300/CH13/EX13.16.10/Ex13_10.sce#S##105422
+13#Field Effect Transistors#13.16.1#To find the pinch off voltage and the saturation voltage#Ex13_1.sce#2300/CH13/EX13.16.1/Ex13_1.sce#S##105413
+12#Modulation and Demodulation#12.9.7#To find the depth of modulation and the total radiated power#Ex12_7.sce#2300/CH12/EX12.9.7/Ex12_7.sce#S##105412
+12#Modulation and Demodulation#12.9.6#To find the highest modulation frequency#Ex12_6.sce#2300/CH12/EX12.9.6/Ex12_6.sce#S##105411
+12#Modulation and Demodulation#12.9.5#To find the modulation index three pairs of side frequency and the channelwidth#Ex12_5.sce#2300/CH12/EX12.9.5/Ex12_5.sce#S##105410
+12#Modulation and Demodulation#12.9.4#To determine the necessary audio power#Ex12_4.sce#2300/CH12/EX12.9.4/Ex12_4.sce#S##105409
+12#Modulation and Demodulation#12.9.3#To calculate the power developed by an AM wave#Ex12_3.sce#2300/CH12/EX12.9.3/Ex12_3.sce#S##105408
+12#Modulation and Demodulation#12.9.2#To find the frequency span of each sideband and maximum upper and minimum lower side frequency along with the channelwidth#Ex12_2.sce#2300/CH12/EX12.9.2/Ex12_2.sce#S##105407
+12#Modulation and Demodulation#12.9.1#To find the percentage modulation and the amplitude of the unmodulated carrier #Ex12_1.sce#2300/CH12/EX12.9.1/Ex12_1.sce#S##105406
+11#Sinusoidal Oscillators and Multivibrators#11.12.6#To find the quality factor of the crystal#Ex11_6.sce#2300/CH11/EX11.12.6/Ex11_6.sce#S##105405
+11#Sinusoidal Oscillators and Multivibrators#11.12.5#To find the resistances needed to span the frequency range and to find the ratio of the resistances #Ex11_5.sce#2300/CH11/EX11.12.5/Ex11_5.sce#S##105404
+11#Sinusoidal Oscillators and Multivibrators#11.12.4#To determine the frequency of oscillation #Ex11_4.sce#2300/CH11/EX11.12.4/Ex11_4.sce#S##105403
+11#Sinusoidal Oscillators and Multivibrators#11.12.3#To calculate the frequency of oscillation#Ex11_3.sce#2300/CH11/EX11.12.3/Ex11_3.sce#S##105402
+11#Sinusoidal Oscillators and Multivibrators#11.12.2#To find the values of the inductances#Ex11_2.sce#2300/CH11/EX11.12.2/Ex11_2.sce#S##105401
+11#Sinusoidal Oscillators and Multivibrators#11.12.1#To calculate the frequency of oscillation and mutual inductance#Ex11_1.sce#2300/CH11/EX11.12.1/Ex11_1.sce#S##105400
+10#Feedback In Amplifiers#10.7.5#To calculate the voltage gain and input output resistances#Ex10_5.sce#2300/CH10/EX10.7.5/Ex10_5.sce#S##105398
+10#Feedback In Amplifiers#10.7.4#To find voltages current and power dissipation of a given transistor circuit#Ex10_4.sce#2300/CH10/EX10.7.4/Ex10_4.sce#S##105397
+10#Feedback In Amplifiers#10.7.3#To find the reverse transmission factor#Ex10_3.sce#2300/CH10/EX10.7.3/Ex10_3.sce#S##105396
+10#Feedback In Amplifiers#10.7.2#To find the minimum value of the feedback ratio and the open loop gain#Ex10_2.sce#2300/CH10/EX10.7.2/Ex10_2.sce#S##105399
+10#Feedback In Amplifiers#10.7.1#To find the voltage gain with feedback the amount of feedback in dB the output voltage of the feedback amplifier the feedback factor the feedback voltage #Ex10_1.sce#2300/CH10/EX10.7.1/Ex10_1.sce#S##105395
+9#Basic Voltage and Power Amplifiers#9.12.9#To find the rms output voltage and rms input voltage along with the output power in the midband region#Ex9_9.sce#2300/CH9/EX9.12.9/Ex9_9.sce#S##105394
+9#Basic Voltage and Power Amplifiers#9.12.8#To find out the decibel change in the output power level#Ex9_8.sce#2300/CH9/EX9.12.8/Ex9_8.sce#S##105393
+9#Basic Voltage and Power Amplifiers#9.12.7#To calculate the resonant frequency along with the bandwidth and the maximum voltage gain#Ex9_7.sce#2300/CH9/EX9.12.7/Ex9_7.sce#S##105392
+9#Basic Voltage and Power Amplifiers#9.12.6#To determine the maximum dc power and the maximum output power along with the efficiency#Ex9_6.sce#2300/CH9/EX9.12.6/Ex9_6.sce#S##105391
+9#Basic Voltage and Power Amplifiers#9.12.5#To calculate dc input and ac output power along with the collector dissipation and the efficiency#Ex9_5.sce#2300/CH9/EX9.12.5/Ex9_5.sce#S##105390
+9#Basic Voltage and Power Amplifiers#9.12.4#To calculate the output power#Ex9_4.sce#2300/CH9/EX9.12.4/Ex9_4.sce#S##105389
+9#Basic Voltage and Power Amplifiers#9.12.3#To find the gain relative to the mid frequency gain#Ex9_3.sce#2300/CH9/EX9.12.3/Ex9_3.sce#S##105388
+9#Basic Voltage and Power Amplifiers#9.12.2#To determine the lower and upper half power frequencies#Ex9_2.sce#2300/CH9/EX9.12.2/Ex9_2.sce#S##105387
+9#Basic Voltage and Power Amplifiers#9.12.1#To determine the lower and upper half power frequencies#Ex9_1.sce#2300/CH9/EX9.12.1/Ex9_1.sce#S##105386
+8#Junction Transistors Biasing and Amplification#8.14.9#To find the resistance R1#Ex8_9.sce#2300/CH8/EX8.14.9/Ex8_9.sce#S##105380
+8#Junction Transistors Biasing and Amplification#8.14.8#To design a CE transistor amplifier#Ex8_8.sce#2300/CH8/EX8.14.8/Ex8_8.sce#S##105379
+8#Junction Transistors Biasing and Amplification#8.14.7#To determine the input and output resistances as well as the voltage gain and Q point#Ex8_7.sce#2300/CH8/EX8.14.7/Ex8_7.sce#S##105378
+8#Junction Transistors Biasing and Amplification#8.14.6#To determine the current and voltage gain as well as the input and output resistances#Ex8_6.sce#2300/CH8/EX8.14.6/Ex8_6.sce#S##105377
+8#Junction Transistors Biasing and Amplification#8.14.5#To find the current amplification and voltage and power gains#Ex8_5.sce#2300/CH8/EX8.14.5/Ex8_5.sce#S##105376
+8#Junction Transistors Biasing and Amplification#8.14.4#To find the input and output resistance#Ex8_4.sce#2300/CH8/EX8.14.4/Ex8_4.sce#S##105375
+8#Junction Transistors Biasing and Amplification#8.14.3#To calculate the input and output resistances and current voltage and power gain#Ex8_3.sce#2300/CH8/EX8.14.3/Ex8_3.sce#S##105374
+8#Junction Transistors Biasing and Amplification#8.14.2#To find the resistances R1 R2 and Re#Ex8_2.sce#2300/CH8/EX8.14.2/Ex8_2.sce#S##105373
+8#Junction Transistors Biasing and Amplification#8.14.14#To determine the ac as well as dc load line and the amplitude of the output voltage#Ex8_14.sce#2300/CH8/EX8.14.14/Ex8_14.sce#S##105385
+8#Junction Transistors Biasing and Amplification#8.14.13#To determine the operating point#Ex8_13.sce#2300/CH8/EX8.14.13/Ex8_13.sce#S##105384
+8#Junction Transistors Biasing and Amplification#8.14.12#To determine the operating point#Ex8_12.sce#2300/CH8/EX8.14.12/Ex8_12.sce#S##105383
+8#Junction Transistors Biasing and Amplification#8.14.11#To calculate the quiescent values of IB IC IE and VCE#Ex8_11.sce#2300/CH8/EX8.14.11/Ex8_11.sce#S##105382
+8#Junction Transistors Biasing and Amplification#8.14.10#To find the quiescent values of IE and VCE#Ex8_10.sce#2300/CH8/EX8.14.10/Ex8_10.sce#S##105381
+8#Junction Transistors Biasing and Amplification#8.14.1#To find the Q point and stability factors#Ex8_1.sce#2300/CH8/EX8.14.1/Ex8_1.sce#S##105372
+7#Junction Transistor Characteristics#7.13.8#To find the resistance R1 R2 and the range of RL#Ex7_8.sce#2300/CH7/EX7.13.8/Ex7_8.sce#S##105371
+7#Junction Transistor Characteristics#7.13.7#To calculate the output resistance along with the current gain#Ex7_7.sce#2300/CH7/EX7.13.7/Ex7_7.sce#S##105370
+7#Junction Transistor Characteristics#7.13.6#To check whether transistor is operating in the saturation region for the given hFE #Ex7_6.sce#2300/CH7/EX7.13.6/Ex7_6.sce#S##105369
+7#Junction Transistor Characteristics#7.13.5#To check what happens if resistance Rc is indefinitely increased#Ex7_5.sce#2300/CH7/EX7.13.5/Ex7_5.sce#S##105368
+7#Junction Transistor Characteristics#7.13.4#To calculate the voltage between collector and emitter terminals#Ex7_4.sce#2300/CH7/EX7.13.4/Ex7_4.sce#S##105367
+7#Junction Transistor Characteristics#7.13.3#To calculate the emitter and collector current of a given transistor#Ex7_3.sce#2300/CH7/EX7.13.3/Ex7_3.sce#S##105366
+7#Junction Transistor Characteristics#7.13.2#To find the base and collector current of a given transistor#Ex7_2.sce#2300/CH7/EX7.13.2/Ex7_2.sce#S##105365
+7#Junction Transistor Characteristics#7.13.1#To find the voltage gain and power gain of a transistor#Ex7_1.sce#2300/CH7/EX7.13.1/Ex7_1.sce#S##105364
+6#Diode Circuits#6.11.5#To design a full wave rectifier with L type LC filter #Ex6_5.sce#2300/CH6/EX6.11.5/Ex6_5.sce#S##105363
+6#Diode Circuits#6.11.4#To calculate ripple voltage and the percentage ripple#Ex6_4.sce#2300/CH6/EX6.11.4/Ex6_4.sce#S##105362
+6#Diode Circuits#6.11.3#To calculate the dc load voltage ripple voltage and the percentage regulation  #Ex6_3.sce#2300/CH6/EX6.11.3/Ex6_3.sce#S##105360
+6#Diode Circuits#6.11.2#To find various currents power ripple voltage percentage regulation and effiiciency of rectification#Ex6_2.sce#2300/CH6/EX6.11.2/Ex6_2.sce#S##105358
+6#Diode Circuits#6.11.1#To find various currents voltages power conversion efficiency and percentage regulation#Ex6_1.sce#2300/CH6/EX6.11.1/Ex6_1.sce#S##105356
+5#Semiconductor Junction Diodes#5.7.9#To determine the limits between which the supply voltage can vary#Ex5_9.sce#2300/CH5/EX5.7.9/Ex5_9.sce#S##105345
+5#Semiconductor Junction Diodes#5.7.8#To calculate series resistance and the range over which load resistance can be varied#Ex5_8.sce#2300/CH5/EX5.7.8/Ex5_8.sce#S##105342
+5#Semiconductor Junction Diodes#5.7.7#To calculate the maximum permissible battery voltage#Ex5_7.sce#2300/CH5/EX5.7.7/Ex5_7.sce#S##105340
+5#Semiconductor Junction Diodes#5.7.6#To calculate the rise in temperature#Ex5_6.sce#2300/CH5/EX5.7.6/Ex5_6.sce#S##105337
+5#Semiconductor Junction Diodes#5.7.5#To find the bias voltage of pn junction diode#Ex5_5.sce#2300/CH5/EX5.7.5/Ex5_5.sce#S##105335
+5#Semiconductor Junction Diodes#5.7.4#To calculate the increase in the bias voltage#Ex5_4.sce#2300/CH5/EX5.7.4/Ex5_4.sce#S##105333
+5#Semiconductor Junction Diodes#5.7.3#To determine the static and dynamic resistance of the diode#Ex5_3.sce#2300/CH5/EX5.7.3/Ex5_3.sce#S##105330
+5#Semiconductor Junction Diodes#5.7.2#To calculate the ratio of current for forward bias to that of reverse bias#Ex5_2.sce#2300/CH5/EX5.7.2/Ex5_2.sce#S##105323
+5#Semiconductor Junction Diodes#5.7.12#To find the value of resistance R#Ex5_12.sce#2300/CH5/EX5.7.12/Ex5_12.sce#S##105351
+5#Semiconductor Junction Diodes#5.7.11#To determine the range of variation of the output voltage#Ex5_11.sce#2300/CH5/EX5.7.11/Ex5_11.sce#S##105349
+5#Semiconductor Junction Diodes#5.7.10#To find whether power dissipated exceeds the maximum power limit#Ex5_10.sce#2300/CH5/EX5.7.10/Ex5_10.sce#S##105347
+5#Semiconductor Junction Diodes#5.7.1#To find the voltage to be applied across the junction#Ex5_1.sce#2300/CH5/EX5.7.1/Ex5_1.sce#S##105321
+4#Metal Semiconductor Contacts#4.7.5#to calculate current in a Schottky diode#Ex4_5.sce#2300/CH4/EX4.7.5/Ex4_5.sce#S##105311
+4#Metal Semiconductor Contacts#4.7.4#to determine the effective richardson constant#Ex4_4.sce#2300/CH4/EX4.7.4/Ex4_4.sce#S##105310
+4#Metal Semiconductor Contacts#4.7.3#to calculate barrier lowering and the position of the maximum barrier height#Ex4_3.sce#2300/CH4/EX4.7.3/Ex4_3.sce#S##105309
+4#Metal Semiconductor Contacts#4.7.2#to find the barrier height and concentration#Ex4_2.sce#2300/CH4/EX4.7.2/Ex4_2.sce#S##105307
+4#Metal Semiconductor Contacts#4.7.1#to find barrier height and depletion region width and maximum electric field #Ex4_1.sce#2300/CH4/EX4.7.1/Ex4_1.sce#S##105306
+3#PROPERTIES OF SEMICONDUCTORS#3.11.8#To find the magnetic and hall field#Ex3_8.sce#2300/CH3/EX3.11.8/Ex3_8.sce#S##105305
+3#PROPERTIES OF SEMICONDUCTORS#3.11.7#To find the required wavelength#Ex3_7.sce#2300/CH3/EX3.11.7/Ex3_7.sce#S##105304
+3#PROPERTIES OF SEMICONDUCTORS#3.11.6#To find the electron and hole concentration and conductivity of doped sample#Ex3_6.sce#2300/CH3/EX3.11.6/Ex3_6.sce#S##105303
+3#PROPERTIES OF SEMICONDUCTORS#3.11.5#To find the conductivity and current density of doped sample#Ex3_5.sce#2300/CH3/EX3.11.5/Ex3_5.sce#S##105302
+3#PROPERTIES OF SEMICONDUCTORS#3.11.4#To find intrinsic conductivity and resistance required#Ex3_4.sce#2300/CH3/EX3.11.4/Ex3_4.sce#S##105301
+3#PROPERTIES OF SEMICONDUCTORS#3.11.2#To find Concentration of donor atoms#Ex3_2.sce#2300/CH3/EX3.11.2/Ex3_2.sce#S##105300
+3#PROPERTIES OF SEMICONDUCTORS#3.11.1#To find the conductivity and resistivity#Ex3_1.sce#2300/CH3/EX3.11.1/Ex3_1.sce#S##105299
+2#Electron Emission from Solid#2.7.4#to find the anode voltage#Ex2_4.sce#2300/CH2/EX2.7.4/Ex2_4.sce#S##105298
+2#Electron Emission from Solid#2.7.3#difference between thermionic work function of the two emitters#Ex2_3.sce#2300/CH2/EX2.7.3/Ex2_3.sce#S##105297
+2#Electron Emission from Solid#2.7.2#To find the percentage change in emission current #Ex2_2.sce#2300/CH2/EX2.7.2/Ex2_2.sce#S##105296
+2#Electron Emission from Solid#2.7.1#to calculate the number of electrons emitted per unit area per second#Ex2_1.sce#2300/CH2/EX2.7.1/Ex2_1.sce#S##105295
+1#Basic Ideas Energy Bands In Solids#1.7.2#To find the velocity and kinetic energy of ion#Ex1_2.sce#2300/CH1/EX1.7.2/Ex1_2.sce#S##105294
+1#Basic Ideas Energy Bands In Solids#1.7.1#To find the final velocity of electron#Ex1_1.sce#2300/CH1/EX1.7.1/Ex1_1.sce#S##105293

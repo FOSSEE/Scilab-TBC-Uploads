@@ -1,0 +1,19 @@
+ (a) Torque range (in Newton-meter) is :-   
+ 
+ minimum value=   
+ 
+    6.7488397  
+ 
+ maximum value=   
+ 
+    10.0793  
+ 
+ (b) Current range (in Amperes) is :-   
+ 
+ minimum value=   
+ 
+    4.05  
+ 
+ maximum value=   
+ 
+    4.95  

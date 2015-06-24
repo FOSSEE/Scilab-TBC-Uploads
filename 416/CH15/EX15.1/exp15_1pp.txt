@@ -1,0 +1,5 @@
+
+ example 15.1   
+E=1500V 
+internal resistence 0.5ohm 
+maximum power output 1125000W =1.125MW 

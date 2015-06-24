@@ -1,0 +1,2 @@
+**Sample Problem 12-1**
+The total kinetic energy of the disk is 0.023625J 

@@ -1,0 +1,4 @@
+ The number of turns on each commutating pole=   
+ 
+    11.892676  
+ 

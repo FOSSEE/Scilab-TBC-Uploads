@@ -1,0 +1,14 @@
+  
+ Example 3.21   
+From open circuit test , cos(phi0)=-0.606173
+Loss component of no-load current,Ic=0.320000A
+Magnetising current,Im=0.947418A
+
+Equvalent resistance referred to secondary=0.694444ohms
+Equvalent reactance referred to secondary=1.515099ohms
+Equvalent impedance referred to secondary=1.666667ohms
+
+Equvalent resistance referred to primary=0.173611ohms
+Equvalent reactance referred to primary=0.378775ohms
+Equvalent impedance referred to primary=0.416667ohms
+Effiency=96.398447percent 

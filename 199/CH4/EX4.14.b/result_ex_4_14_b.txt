@@ -1,0 +1,2 @@
+* CMRR is = 31622.78
+* Output common-mode voltage is = 0.00000063 V

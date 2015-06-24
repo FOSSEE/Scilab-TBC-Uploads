@@ -1,0 +1,2 @@
+ Fermi energy is Ef=11.65 eV
+Fermi factor f(E) is 0.0205 

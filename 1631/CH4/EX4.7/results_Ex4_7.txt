@@ -1,0 +1,12 @@
+
+ bits in code word   
+ 
+    4.  
+ 
+ bits   
+ 
+ bit trasmission rate   
+ 
+    24000.  
+ 
+ bits per second  

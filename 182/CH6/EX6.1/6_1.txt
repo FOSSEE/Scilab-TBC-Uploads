@@ -1,0 +1,2 @@
+1.maximum time for the dac=1.332667 ms
+suggested frequency of the ramp=600 Hz 

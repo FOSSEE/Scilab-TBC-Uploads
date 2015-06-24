@@ -1,0 +1,5 @@
+# PROBLEM 1 # 
+Standard formula used 
+ mu=tan(Ip)
+
+  Brewster Angle = 35.264390 degree

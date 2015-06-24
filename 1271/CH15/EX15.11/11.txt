@@ -1,0 +1,5 @@
+ # PROBLEM 11 # 
+Standard formula used 
+ del_E*del_t = h/(4*pi) 
+
+ Minimum error in measurement of the energy is 2.107211e-21 J.

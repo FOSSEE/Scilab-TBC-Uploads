@@ -1,0 +1,19 @@
+ (a) a-ratio=   
+ 
+    0.2  
+ 
+ (b) current in primary (in Amperes)=   
+ 
+    20.  
+ 
+ (c) voltage on secondary side (in Volts)=   
+ 
+    1200.  
+ 
+ (d) power supplied to the load (in Watts)=   
+ 
+    3840.  
+ 
+ (e) flux in the core (in mili-Weber)=   
+ 
+    7.2072072 

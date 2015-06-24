@@ -1,0 +1,28 @@
+(a)(in A),(in volts)=   
+ 
+    300.  
+ 
+    440.  
+ 
+ (b)(in A),(in volts)=   
+ 
+    300.  
+ 
+    440.  
+ 
+ (c)(in A),(in volts)=   
+ 
+    173.20508  
+ 
+    762.10236  
+ 
+ (d)(in A),(in volts)=   
+ 
+    519.61524  
+ 
+    254.03412  
+ 
+ (d)Output Power (in KVA)=   
+ 
+    228.63071  
+ 

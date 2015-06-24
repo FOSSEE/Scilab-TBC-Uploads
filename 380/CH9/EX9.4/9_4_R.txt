@@ -1,0 +1,11 @@
+ Slip=   
+ 
+    0.2857143  
+ 
+ max power developed (in Kilo-Watts)=   
+ 
+    27.  
+ 
+ Torque developed (in Newton-meter)=   
+ 
+    300.80284  

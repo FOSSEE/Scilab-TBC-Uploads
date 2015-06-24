@@ -1,0 +1,2 @@
+* Resistance Rb is = 10000 ohms 
+* Resistance Ra is = 4000 ohms

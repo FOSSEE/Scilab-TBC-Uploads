@@ -1,0 +1,7 @@
+ # Problem 15 # 
+ 
+ Standard formula used 
+   2*mu*t*cos r = (p +0.5)*lambda 
+
+ Thickness of oil film  is 6731 Angstrom.  
+

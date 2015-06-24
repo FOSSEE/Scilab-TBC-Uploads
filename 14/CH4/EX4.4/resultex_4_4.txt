@@ -1,0 +1,5 @@
+ Capacitance = 18.812e-12 F/m 
+
+
+
+ Capacitive susceptance = 11.41e-6 mho per mi per phase to neutral 

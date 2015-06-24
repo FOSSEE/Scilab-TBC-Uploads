@@ -1,0 +1,16 @@
+(a)R_o(in ohms)=   
+ 
+    645.33333  
+ 
+ (b)X_o(in ohms)=   
+ 
+    329.32029  
+ 
+ (c)resistance reffered to low voltage side(in ohms)=   
+ 
+    0.15488  
+ 
+ (d)reactane reffered to low voltage side(in ohms)=   
+ 
+    0.3160952  
+ 

@@ -1,0 +1,7 @@
+current per path in case of wave winding(in Amp)=   
+ 
+    100.  
+ 
+ current per path in case of lap winding(in Amp)=   
+ 
+    16.666667  

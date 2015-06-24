@@ -1,0 +1,3 @@
+ Example 2.34   
+Efficiences of the generator at full load assuming equal efficiencies=91.669850percent
+Efficiency of the generator at full load=91.846461percent 

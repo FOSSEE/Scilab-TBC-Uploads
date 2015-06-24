@@ -1,0 +1,4 @@
+ 
+ modulation index = 5.000000 
+ Band width required = 32.000000 KHz 
+ Execution done.   

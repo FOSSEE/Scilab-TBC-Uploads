@@ -1,0 +1,1 @@
+ The directivity = 22.500000 

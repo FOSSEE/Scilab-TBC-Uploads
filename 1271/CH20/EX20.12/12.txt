@@ -1,0 +1,5 @@
+ # PROBLEM 12 # 
+Standard formula used 
+ lambda_min = 12400/V 
+
+ Excitation potential is 124 kV.

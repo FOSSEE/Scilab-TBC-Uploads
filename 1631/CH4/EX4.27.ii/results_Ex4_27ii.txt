@@ -1,0 +1,5 @@
+ bit transmission rate   
+ 
+    48.  
+ 
+ K bits/s

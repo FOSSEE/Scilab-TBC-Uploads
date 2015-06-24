@@ -1,0 +1,7 @@
+ # Problem 9 # 
+ 
+ Standard formula used 
+   (mu – 1 )*t = n* lambda 
+
+ Refractive index of sheet is 1.628571 .
+

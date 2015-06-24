@@ -1,0 +1,7 @@
+
+ Example 11.3
+
+ Part A:
+ Value of X must approach infinity for pressure to decay to zero.
+ Part B:
+ Value of X, required to get pressure to decay to 0.5 is 7.22 mm.  

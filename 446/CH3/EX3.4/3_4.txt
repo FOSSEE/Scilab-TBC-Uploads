@@ -1,0 +1,9 @@
+  
+ Exa-3.4(a)   
+The cutoff wavelength of the tungsten metal is 274.336nm
+  
+ Exa-3.4(b)   
+The max value of kinetic energy is 1.743 eV
+ 
+ Exa-3.4(c)   
+The numerical value of the max kinetic energy is same as stopping potential in volts.Hence 1.74 V 

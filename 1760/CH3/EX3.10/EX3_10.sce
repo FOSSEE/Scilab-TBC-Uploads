@@ -1,0 +1,27 @@
+                     //EXAMPLE 3-10          PG NO-180
+Za=6+%i*0;
+Zb=5.26+%i*3;
+Zc=3.535+%i*3.535;
+Van=230.94+%i*0;
+Vcn=-115.47-%i*200;
+Vbn=-115.47+%i*200;
+Ya=1/Za;
+disp('i) admittance  (Ya) is  in rectangular form  =  '+string (Ya) +' siemens ');
+Yb=1/Zb;
+disp('i) admittance  (Yb) is  in  rectangular form  =  '+string (Yb) +' siemens ');
+Yc=1/Zc;
+disp('i) admittance  (Yc) is  in rectangular form  =  '+string (Yc) +' siemens ');
+Von=[(Van*Ya)+(Vbn*Yb)+(Vcn*Yc)]/(Ya+Yb+Yc);
+disp('i) Voltage  (Von) is  in rectangular form  =  '+string (Von) +' V');
+Vao=Van-Von;
+disp('i) Voltage  (Vao) is  in rectangular form  =  '+string (Vao) +' V');
+Vbo=Vbn-Von;
+disp('i) Voltage  (Vbo) is  in rectangular form  =  '+string (Vbo) +' V');
+Vco=Vcn-Von;
+disp('i) Voltage  (Vco) is  in rectangular form  =  '+string (Vco) +' V');
+Ia=Vao*Ya;
+disp('i) CURRENT  (Ia) is  in rectangular form  =  '+string (Ia) +' A ');
+Ib=Vbo*Yc;
+disp('i) CURRENT  (Ib) is  in rectangular form  =  '+string (Ib) +' A ');
+Ic=Vco*Yc;
+disp('i) CURRENT  (Ic) is  in rectangular form  =  '+string (Ic) +' A ');

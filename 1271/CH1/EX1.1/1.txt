@@ -1,0 +1,1 @@
+﻿Coherence time = 4.400000e-14 sec

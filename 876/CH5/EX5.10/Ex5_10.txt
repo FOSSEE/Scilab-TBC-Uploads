@@ -1,0 +1,15 @@
+(a)reading of voltmeter(in V)=   
+ 
+    3.3333333  
+ 
+ (a)error(in %)=   
+ 
+    33.333333  
+ 
+ (b)reading of voltmeter(in V)=   
+ 
+    4.5454545  
+ 
+ (b)error (in %)=   
+ 
+    9.0909091  

@@ -1,0 +1,4 @@
+  
+ example 14.1   
+speed regulation of alternator is 0.02Hz/MW 
+ change in power output 5MW 

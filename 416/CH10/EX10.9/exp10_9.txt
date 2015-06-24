@@ -1,0 +1,4 @@
+ 
+ example 10.9   
+net change in cost =Rs.832per hour
+thus scheduling the generation by taking transmission losses into account would mean a saving of Rs.832per hour in fuel cost 

@@ -1,0 +1,9 @@
+Deq = 5.04 m 
+
+Capacitance of each conductor to nuetral = 0.0089 uF/km 
+
+Capacitance/phase for 100km line = 0.8940 uF/km 
+
+Charging current per phase= 21.41 A 
+
+

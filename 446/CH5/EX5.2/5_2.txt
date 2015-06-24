@@ -1,0 +1,9 @@
+  
+ Exa-5.2(a)   
+Energy to be supplied is 112 eV
+ 
+ Exa-5.2(b)   
+The percentage probablility of finding an electron in the ground state is 0.38
+ 
+ Exa-5.2(c)   
+The probablility of finding an electron in the excited state is 0.25

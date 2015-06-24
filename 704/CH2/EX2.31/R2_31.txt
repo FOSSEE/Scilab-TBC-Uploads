@@ -1,0 +1,3 @@
+D.c. motor speed at full load when flux assumed constant(In rpm)=   
+ 
+    1406.  

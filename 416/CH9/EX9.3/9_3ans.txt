@@ -1,0 +1,14 @@
+
+ example 9.3   
+	(a)
+ mass defect is for hydrogen 0.002390amu 
+ total binding energy for hydrogens 2.225090Mev 
+ average binding energy for hydrogen is 1.112545MeV
+	(b)
+ mass defect is for nickel 0.553515amu 
+ total binding energy for nickel is 515.322465Mev 
+ average binding energy for nickelis 8.734279MeV
+	(c)
+ mass defect of uranium is 1.915095amu 
+ total binding energy uranium is 1782.953445Mev 
+ average binding energy uranium is 7.587036MeV 

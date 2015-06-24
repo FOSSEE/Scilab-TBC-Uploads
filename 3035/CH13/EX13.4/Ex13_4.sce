@@ -1,0 +1,40 @@
+
+// Variable Declaration
+MVA_G1 = 20.0       //MVA rating of generator 1(MVA)
+kv_G1 = 13.2        //Voltage rating of generator 1(kV)
+x_G1 = 0.14         //Reactance of generator 1(p.u)
+MVA_T1 = 20.0       //MVA rating of transformer 1(MVA)
+kv_T1_lv = 13.2     //L.V voltage rating of transformer 1(kV)
+kv_T1_hv = 132.0    //H.V voltage rating of transformer 1(kV)
+x_T1 = 0.08         //Reactance of transformer 1(p.u)
+MVA_G2 = 30.0       //MVA rating of generator 2(MVA)
+kv_G2 = 13.2        //Voltage rating of generator 2(kV)
+x_G2 = 0.16         //Reactance of generator 2(p.u)
+MVA_T2 = 30.0       //MVA rating of transformer 2(MVA)
+kv_T2_lv = 13.2     //L.V voltage rating of transformer 2(kV)
+kv_T2_hv = 132.0    //H.V voltage rating of transformer 2(kV)
+x_T2 = 0.12         //Reactance of transformer 2(p.u)
+x_L = 75.0          //Line reactance(ohm)
+
+// Calculation Section
+MVA_base = 45.0                                 //Base MVA
+kv_lv_base = 13.2                               //L.T base voltage(kV)
+kv_hv_base = 132.0                              //H.T base voltage(kV)
+I_lt_base = MVA_base*1000/(3**0.5*kv_lv_base)   //Base current on LT side(A)
+x_G1_new = x_G1*(MVA_base/MVA_G1)               //New reactance of generator 1(p.u)
+x_G2_new = x_G2*(MVA_base/MVA_G2)               //New reactance of generator 2(p.u)
+x_T1_new = x_T1*(MVA_base/MVA_T1)               //New reactance of transformer 1(p.u)
+x_T2_new = x_T2*(MVA_base/MVA_T2)               //New reactance of transformer 2(p.u)
+x_L_new = x_L*(MVA_base/kv_hv_base**2)          //New line reactance(p.u)
+V_f = 1.0                                       //Pre-fault voltage at fault point FF(p.u)
+x_T = (x_L_new/2)+((x_G1_new+x_T1_new)*(x_G2_new+x_T2_new)/(x_G1_new+x_T1_new+x_G2_new+x_T2_new)) //Thevenin reactance(p.u)
+I_f = V_f/complex(0,x_T)                                                //Fault current(A)
+I_G1 = I_f*(x_G2_new+x_T2_new)/(x_G1_new+x_T1_new+x_G2_new+x_T2_new)    //Fault current shared by generator 1(p.u)
+I_f_G1 = I_G1*I_lt_base                                                 //Fault current shared by generator 1(A)
+I_G2 = I_f*(x_G1_new+x_T1_new)/(x_G1_new+x_T1_new+x_G2_new+x_T2_new)    //Fault current shared by generator 2(p.u)
+I_f_G2 = I_G2*I_lt_base                                                 //Fault current shared by generator 2(A)
+
+// Result Section
+printf('Fault current fed by generator 1 = %.1fj A' ,imag(I_f_G1))
+printf('Fault current fed by generator 2 = %.1fj A' ,imag(I_f_G2))
+printf('\nNOTE : ERROR : MVA ratings of G2 & T2 are 30 MVA , not 25 MVA as in textbook question')

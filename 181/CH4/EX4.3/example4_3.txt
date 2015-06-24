@@ -1,0 +1,2 @@
+ (a)The value of Current gain beta for BJT is 9 
+(b)The value of the Collector Current is 4.65e-003 A 

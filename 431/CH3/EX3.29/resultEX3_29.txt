@@ -1,0 +1,6 @@
+ Example 3.29   
+Full-load copper loss=375.000000W
+Total loss on full load=0.575000kW
+Total loss on half load=0.293750kW
+Efficiency at full load,0.8 power factor lagging=98.582871 percent
+Efficiency at half load,0.8 power factor lagging=98.552510 percent 

@@ -1,0 +1,2 @@
+
+ The effect of radial diffusion makes conversion almost as same as plug flow as alpha = 4

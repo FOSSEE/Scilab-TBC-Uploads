@@ -1,0 +1,4 @@
+
+7. R3=45 ohm
+When E=50 mV,
+meter deflection=Iav=0.000500 A

@@ -1,0 +1,11 @@
+Sy=100*10^3;//given in N
+Aco=900;//area of corner booms,given in mm^2
+Ace=1200;//area of central booms,given in mm^2
+tl=2;//thickness,given in mm
+tb=3;//thickness,given in mm
+L1=1.6*10^3;//leangth of built in end,given in mm
+L2=0.8*10^3;//leangth of open end,given in mm
+B1=0.8*10^3;//breadth of built in end,given in mm
+B2=0.4*10^3;//breadth of open end,given in mm
+Lc=2*10^3;//distence of the section from the built in end,given in mm
+L=4*10^3;//leangth of Beam,given in mm

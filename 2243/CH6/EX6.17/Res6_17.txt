@@ -1,0 +1,10 @@
+ (a)Marble 
+
+E_1 : 5.5 x 10^-64 J
+E_2 : 21.9 x 10^-64 J
+E_3 : 49.4 x 10^-64 J
+(b)For an electron 
+
+E_1 : 37.6 eV
+E_2 : 150.5 eV
+E_3 : 338.7 eV

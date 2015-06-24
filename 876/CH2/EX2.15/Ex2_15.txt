@@ -1,0 +1,11 @@
+arithmatic mean(in mm)=   
+ 
+    30.2375  
+ 
+ standard deviation(in mm)=   
+ 
+    0.1701715  
+ 
+ probable error(in mm)=   
+ 
+    0.1147807

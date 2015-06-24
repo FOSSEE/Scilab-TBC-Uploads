@@ -1,0 +1,13 @@
+clear;
+clc;
+K_m=1;
+N=1400;
+w_m=2*%pi*N/60;
+E_a=K_m*w_m;
+V=230;
+a=60;
+a1=212;
+V_t=sqrt(2)*V/%pi*(cosd(a)-cosd(a1))+E_a*(180+a-a1)/180;
+r_a=3;
+I_a=(V_t-E_a)/r_a;
+T_e=K_m*I_a;    printf("motor torque=%.3f Nm",T_e);

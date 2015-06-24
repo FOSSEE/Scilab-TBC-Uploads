@@ -1,0 +1,4 @@
+Threshold Electric field (in kV/cm) =   
+ 
+    333333.33  
+ 

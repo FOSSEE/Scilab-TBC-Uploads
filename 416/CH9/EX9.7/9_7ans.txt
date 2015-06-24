@@ -1,0 +1,5 @@
+ example 9.6   
+total energy input 7.410960e+015Watt sec 
+ energy input is 2.245745e+016Watt-sec
+ total number of fissions required is 6.961811e+026fissions 
+ fuel required is 2.716274e+005 grams 271kg 

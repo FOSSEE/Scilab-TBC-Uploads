@@ -1,0 +1,2 @@
+ Maximum velocity = 0.010000 meter/sec,
+ acceleration = 0.002000 m/sec^2

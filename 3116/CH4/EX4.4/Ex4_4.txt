@@ -1,0 +1,3 @@
+Example 4.4
+
+ Minimum cation to anion radius ratio is 0.155 

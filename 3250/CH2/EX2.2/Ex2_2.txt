@@ -1,0 +1,4 @@
+
+ # PROBLEM 2.2 # 
+
+ Filling time for first design = 31.653919 sec.

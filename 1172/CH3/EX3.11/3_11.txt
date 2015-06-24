@@ -1,0 +1,5 @@
+# Problem 11 # 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c)
+ Frequency after scattering  is 2.541919e+19 Hz.

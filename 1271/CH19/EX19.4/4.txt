@@ -1,0 +1,5 @@
+ # PROBLEM 4 # 
+Standard formula used 
+  T_c*M^(1/2) = constant 
+
+ Critical temperature is 4.145674 K.

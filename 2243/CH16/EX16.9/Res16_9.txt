@@ -1,0 +1,3 @@
+ Amplified Rock Music : 0.10 W/m^2 
+Jet plane  : 1.0 x 10^3 W/m^2 
+Rocket engine : 1.0 x 10^6 W/m^2 

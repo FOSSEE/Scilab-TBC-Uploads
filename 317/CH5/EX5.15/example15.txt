@@ -1,0 +1,1 @@
+Average LED current is 13.9 mAmperes

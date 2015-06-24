@@ -1,0 +1,4 @@
+x=12 
+y=20000 kW 
+Capacity of steam plant = 40000 kW 
+

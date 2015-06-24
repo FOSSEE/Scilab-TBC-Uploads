@@ -1,0 +1,11 @@
+Input power (in watts) =   
+ 
+    6.  
+ 
+ Output power (in watts) =   
+ 
+    1.3641852  
+ 
+ Efficiency (in percent) =   
+ 
+    22.73642  

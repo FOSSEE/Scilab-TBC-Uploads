@@ -1,0 +1,5 @@
+ # PROBLEM 10 # 
+Standard formula used 
+ B = mu*N*I 
+
+ Number of ampere turns is 200 A/m. 

@@ -1,0 +1,25 @@
+clear;
+clc;
+r1=.6;
+r2=.4;
+s=0.04;
+x1=1.6;
+x2=1.6;
+Z=(r1+r2/s)+%i*(x1+x2);
+V=400;
+I1=V/Z;    printf("source current=%.3f A and with %.1f deg phase",atand(imag(I1)/real(I1)),abs(I1));
+I2=V/Z;
+N=1500;
+w_s=2*%pi*N/60;
+T_e=(3/w_s)*abs(I2)^2*r2/s;    printf("\nmotor torque=%.2f Nm",T_e);
+N_r=N*(1-s);
+
+f=45;
+N_s1=120*f/4;
+w_s=2*%pi*N_s1/60;
+s1=(N_s1-N_r)/N_s1;
+Z=(r1+r2/s1)+%i*(x1+x2)*f/50;
+V=360;
+I1=V/Z;    printf("\nsource current=%.3f A and with %.1f deg phase",atand(imag(I1)/real(I1)),abs(I1));
+I2=V/Z;
+T_e=(3/w_s)*abs(I2)^2*r2/s1;    printf("\nmotor torque=%.2f Nm",T_e);

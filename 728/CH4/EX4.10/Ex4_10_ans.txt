@@ -1,0 +1,13 @@
+ Radius of circular waveguide(in cm) =   
+ 
+    2.9300425  
+ 
+ Area of cross-section of circular waveguide(in cm) =   
+ 
+    26.971041  
+ 
+ Frequency above   
+ 
+    3.000D+09  
+ 
+ can be propagated   

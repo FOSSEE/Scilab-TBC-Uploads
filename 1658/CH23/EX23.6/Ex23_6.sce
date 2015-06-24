@@ -1,0 +1,14 @@
+clc;
+Vcc=15;
+RB=2.4*10**6;
+BD=6000;
+RE=510;
+Vi=120*10**-3;
+VBE=1.6;
+IB=(Vcc-VBE)/(RB+BD*RE);
+disp('microA',IB*10**6,"IB=");
+IE=BD*IB;
+disp('mA',IE*10**3,"IE=");
+IE2=IE
+VE2=IE2*RE;
+disp('V',VE2*1,"VE2=");

@@ -1,0 +1,2 @@
+ The cut off frequancy, fc= 9 MHz
+ The skip distance = 18.270000*10^6 meter 

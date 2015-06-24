@@ -1,0 +1,9 @@
+Capacitance between pair of cores with third core = 3.60 uF 
+
+Core to nuetral capacitance of the cable = 7.20 uF 
+
+Charging current = 4.31 A 
+
+kVA taken by the cable = 24.63 kVA 
+
+

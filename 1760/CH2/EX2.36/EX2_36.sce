@@ -1,0 +1,20 @@
+                   //EXAMPLE 2-36    PG NO-87
+F=50;             //FREQUENCY
+L=0.2;            //INDUCTANCE
+C=150*10^-6;       //CAPACITOR
+R=20;
+V=230;
+XL=2*%pi*L*F;
+disp('i)   INDUCTANCE (XL) is    =  '+string (XL) +'  ohm ');
+XC=1/(2*%pi*F*C)
+disp('i)   CAPACITOR (Xc) is    =  '+string (XC) +'  ohm ');
+Z=R+%i*(XL-XC)
+disp('i)   IMPEDANCE (Z) is    in  polar form =  '+string (Z) +'  ohm ');
+I=V/Z;                       //CURRENT
+disp('i)   CURRENT (I) is in polar form   =  '+string (I) +'  ohm ');
+AP=V*I;               //APPARENT POWER
+disp('i)   Apparent Power (AP) is  in polar form  =  '+string (AP) +'  VA ');
+P=V*I*0.433;                   //active power
+disp('i)   ACTIVE POWER (P) is  in  polar form  =  '+string (P) +'  W ');
+Q=V*I*0.9013;                  //Reactive Power
+disp('i)   Reactive Power (Q) is in polar form   =  '+string (Q) +'  vars ');

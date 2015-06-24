@@ -1,0 +1,3 @@
+rms value of signal under test(in V)=   
+ 
+    176.7767  

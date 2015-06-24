@@ -1,0 +1,17 @@
+% x(1) = 12 
+
+% x(2) = 12 
+
+% x(3) = 36 
+
+% Xt = 10 
+
+(i) Total percentage reactance from generator to fault F1 = 5.14 % 
+
+    Fault MVA = 194.44 
+
+(ii) Total percentage reactance from generator to fault to F2 = 15.14 % 
+
+     Fault MVA = 66.04 
+
+

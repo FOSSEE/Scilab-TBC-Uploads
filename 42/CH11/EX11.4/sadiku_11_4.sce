@@ -1,0 +1,12 @@
+clear;
+clc;
+format('v',6);
+l=30,Zo=50,f=2*10^6,Zl=60+40*%i,u=.6*3*10^8;
+w=2*%pi*f;
+T=(Zl-Zo)/(Zl+Zo);
+disp(T,'Reflection coefficient  =');
+s=(1+abs(T))/(1-abs(T));
+disp(s,'Standing wave ratio =');
+B=w/u;disp(B*l);
+Zin=Zo*(Zl+Zo*tan(B*l)*%i)/(Zo+Zl*tan(B*l)*%i);
+disp(Zin);

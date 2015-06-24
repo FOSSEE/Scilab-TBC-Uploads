@@ -1,0 +1,2 @@
+**Sample Problem 6b**
+The eccentricity of the path is 9.668281e-001  

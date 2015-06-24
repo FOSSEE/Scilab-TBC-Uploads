@@ -1,0 +1,2 @@
+Maximum voltage gain is 5
+Other resistance is 1.875 Kohms

@@ -1,0 +1,14 @@
+
+ example 20.2   
+ depreciation rate 0.01235 
+ total fixed charge rate 0.142350
+ annual cost of efficiency motor Rs7.118000e+005per year 
+ total electrical bill with present motors Rs2.050000e+007per year 
+ total electrical bill with efficiency motor Rs.1.845000e+007 
+ total annual cost if motors are replaced by high efficiency motors Rs1.916180e+007 per year 
+ annual saving Rs1338200 per year 
+ b   
+present worth factor 0.14235 
+ present worth of annual cost with existing motors Rs1.440100e+008 
+ present worth of annual cost with new motor Rs1.296100e+008 
+ total present worth 1.346100e+008 per year 

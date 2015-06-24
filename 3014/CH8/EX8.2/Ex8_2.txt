@@ -1,0 +1,4 @@
+
+Example 8.2
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+Magnetic Field at 5 K is 6.373770e+04 A/m

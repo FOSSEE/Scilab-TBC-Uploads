@@ -1,0 +1,4 @@
+ Rds = 1000 ohm
+Rds = 500 ohm
+Rds = 250 ohm
+ 

@@ -1,0 +1,6 @@
+
+(i) Input Power, Pi = 4200.0000 J/s = 4200 W
+ Output Power, Po = 3864.0000 W
+ Efficiency, n = 92.00 %
+(ii) Power lost, Pl = 336.0000 W
+ Energy lost per minute(=60s) of operation= Pl*t = 20160.0000 J

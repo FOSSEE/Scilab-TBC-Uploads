@@ -1,0 +1,19 @@
+  
+ example 5.17   
+ 
+ power factor of existing load is 0.8 lagging   
+phi= 36 degree
+kVAr1= 599 
+ 
+ output for the synchronous motor is 200kW   
+Input to the synchronous motor= 222.222222kW
+Total load on the system= 1022.222222kW
+ 
+ overall power factor of the load is to be raised to 0.92 lagging   
+kVAr2=435.464843
+lagging kVAr of synchronous codenser= 164.535157
+leading kVAr supplied by the motor= 164.535157
+phi= 36 degree
+
+Power factor of the synchronos motor= 0.803685 leading 
+KVA rating of the synchronous motor= 276.504130 

@@ -1,0 +1,5 @@
+ # PROBLEM 8 # 
+Standard formula used 
+ E = h*c/lambda 
+
+ Number of photons of yellow light = 4.154079e+18 .

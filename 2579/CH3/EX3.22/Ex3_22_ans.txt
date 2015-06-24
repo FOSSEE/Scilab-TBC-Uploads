@@ -1,0 +1,4 @@
+ The beamwidth for a broad side array = 11.459156 degree
+ The half power beam width for broad side array = 5.729578 degree
+ The beam width for end fire array = 72.474065 degree
+ The half power beam width for end fire array = 48.316044 degree 

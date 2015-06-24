@@ -1,0 +1,3 @@
+ Max efficiency of generator  (%)=   
+ 
+    82.357607

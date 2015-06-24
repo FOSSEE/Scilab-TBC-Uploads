@@ -1,0 +1,11 @@
+Sending end voltage per- phase = 19052 V 
+Line current = 15*10^5/Vr 
+(i) Vr = 18435 V 
+    Line voltage at recieving end = 31.93 kV 
+
+(ii) Line current = 81.37 A 
+
+(iii) Line losses = 105.466 kW 
+      Transmission efficiency = 97.15 % 
+
+

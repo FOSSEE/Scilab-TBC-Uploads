@@ -1,0 +1,2 @@
+1.Tolerance=+/- 5%
+maximum resistance at 75 degree celsius=1.2915 kohm

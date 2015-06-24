@@ -1,0 +1,6 @@
+
+ # PROBLEM 21 # 
+ Standard formula used 
+ u_x = u_x_ + v / (1+ v*u_x_/c^2) 
+ 
+ Velocity of one particle relative to other is 2.816327e+08 m/sec.

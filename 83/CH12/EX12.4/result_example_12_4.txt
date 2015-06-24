@@ -1,0 +1,7 @@
+
+
+Initial rotor angular acceleration = 1379 elect deg/s^2
+Delta_change=1.7 deg
+New delta =delta1=35.6 deg
+Angular acceleration at the end of 0.05s =1340 elect deg/s^2
+

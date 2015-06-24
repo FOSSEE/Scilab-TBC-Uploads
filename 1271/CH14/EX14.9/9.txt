@@ -1,0 +1,8 @@
+ # PROBLEM 9 # 
+Standard formula used 
+  1/2 m*v^2 = eV 
+  E = h*c/lambda 
+
+ Work function is 3.664207e-19 J.
+ Stopping potential is 0.563319 V.
+ Maximum velocity is 4.450733e+05 m/sec.

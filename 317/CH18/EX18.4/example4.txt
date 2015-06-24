@@ -1,0 +1,1 @@
+Slew rate of the op-amp is 2.5 Megavolts/second

@@ -1,0 +1,4 @@
+# PROBLEM 4.1 # 
+
+ Shear plane angle = 21.555321°, 
+ Magnitude of the shear strain = 2.735935 

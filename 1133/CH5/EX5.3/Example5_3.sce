@@ -1,0 +1,18 @@
+//Example 5.3
+clc
+disp("Truth table")
+disp("      Input                    Output")
+disp("  Decimal Digit        Digit 1        Digit 0")
+disp("   A  B  C  D      Y7  Y6  Y5  Y4  Y3  Y2  Y1  Y0")
+disp("   0  0  0  0      0   0   0   0   0   0   0   0")
+disp("   0  0  0  1      0   0   0   0   0   1   0   1")
+disp("   0  0  1  0      0   0   0   1   0   0   0   0")
+disp("   0  0  1  1      0   0   0   1   0   1   0   1")
+disp("   0  1  0  0      0   0   1   0   0   0   0   0")
+disp("   0  1  0  1      0   0   1   0   0   1   0   1")
+disp("   0  1  1  0      0   0   1   1   0   0   0   0")
+disp("   0  1  1  1      0   0   1   1   0   1   0   1")
+disp("   1  0  0  0      0   1   0   0   0   0   0   0")
+disp("   1  0  0  1      0   1   0   0   0   1   0   1")
+disp("")
+disp("Here  Y0 = D,  Y1 = 0,  Y2 = D,  Y3 = 0,  Y4 = C,  Y5 = B,  Y6 = A and Y7 = 0. Therefore, the given circuit can be obtained from the input lines without using any logic gates")

@@ -1,0 +1,5 @@
+
+ Stress Remaining (in kgf/sq cm) =    
+ 
+    161.97533  
+ 

@@ -1,0 +1,8 @@
+**Sample Problem 37-5a**
+The first order maxima occurs at an angle of 16.988581degree from the center
+
+**Sample Problem 37-5b**
+The anglar sepration between the two first orderlines is 3.372079e-004rad
+
+**Sample Problem 37-5c**
+The least number of rulings a grating can have is 998

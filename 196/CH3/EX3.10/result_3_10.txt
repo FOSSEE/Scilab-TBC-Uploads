@@ -1,0 +1,5 @@
+If Edc = 0 V , Eac appears inverted at Vo ( Gain is -1 )
+
+If Edc = - 5 V , Eac appears at the output as a 5 V dc-offset voltage upon which rides the inverted Eac 
+
+If Edc = 7 V , then Eac shifts down by 7 V 

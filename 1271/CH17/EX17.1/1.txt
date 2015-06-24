@@ -1,0 +1,8 @@
+
+ # PROBLEM 1 # 
+Standard formula used 
+ E = P^2 / (2*m) 
+ P = h_cut*k 
+
+ Electron momentum value at the sides of first Brillion zone is 1.103333e-24 kg-m/sec.
+ Enrgy of free electron is 4.180441 eV.

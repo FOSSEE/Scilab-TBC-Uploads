@@ -1,0 +1,3 @@
+ (b) Additional resistance(in ohms)=   
+ 
+    3.815  

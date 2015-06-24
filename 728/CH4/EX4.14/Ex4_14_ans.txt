@@ -1,0 +1,12 @@
+  
+ Guide wavelength (in cm) =   
+ 
+    5.0390326  
+ 
+ Phase constant =   
+ 
+    1.2469031  
+ 
+ Phase velocity (in cm/s) =   
+ 
+    3.359D+10  

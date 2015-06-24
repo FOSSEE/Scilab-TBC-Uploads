@@ -1,0 +1,5 @@
+ # PROBLEM 13 # 
+Standard formula used 
+ del_x*del_p = h/(4*pi) 
+
+ Ratio of uncertainty in velocity of a proton and an electron is 5.449102e-04. 

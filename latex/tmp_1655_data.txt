@@ -1,0 +1,118 @@
+10#Fiber Measurements#10.6.1#Determine attenuation and estimate accuracy#Example_10_6_1.sce#1655/CH10/EX10.6.1/Example_10_6_1.sce#S##57577
+10#Fiber Measurements#10.5.1#Calculate 3 dB pulse broadening and bandwidth length product#Example_10_5_1.sce#1655/CH10/EX10.5.1/Example_10_5_1.sce#S##57576
+9#Link Designs and Optical Amplifiers#9.6.3#Determine whether or not combination of component gives an adequate response#Example_9_6_3.sce#1655/CH9/EX9.6.3/Example_9_6_3.sce#S##57573
+9#Link Designs and Optical Amplifiers#9.6.2#Estimate maximum bit rate#Example_9_6_2.sce#1655/CH9/EX9.6.2/Example_9_6_2.sce#S##57572
+9#Link Designs and Optical Amplifiers#9.6.1#Find maximum bit rate#Example_9_6_1.sce#1655/CH9/EX9.6.1/Example_9_6_1.sce#S##57571
+9#Link Designs and Optical Amplifiers#9.4.5#Determine link length#Example_9_4_5.sce#1655/CH9/EX9.4.5/Example_9_4_5.sce#S##57570
+9#Link Designs and Optical Amplifiers#9.4.4#Determine safety margin and link length#Example_9_4_4.sce#1655/CH9/EX9.4.4/Example_9_4_4.sce#S##57569
+9#Link Designs and Optical Amplifiers#9.4.3#Determine safety margin#Example_9_4_3.sce#1655/CH9/EX9.4.3/Example_9_4_3.sce#S##57568
+9#Link Designs and Optical Amplifiers#9.4.2#Determine safety margin#Example_9_4_2.sce#1655/CH9/EX9.4.2/Example_9_4_2.sce#S##57567
+9#Link Designs and Optical Amplifiers#9.4.1#Find safty margin#Example_9_4_1.sce#1655/CH9/EX9.4.1/Example_9_4_1.sce#S##57566
+9#Link Designs and Optical Amplifiers#9.20.1#Maximum input and output power#Example_9_20_1.sce#1655/CH9/EX9.20.1/Example_9_20_1.sce#S##57575
+9#Link Designs and Optical Amplifiers#9.16.1#Find amplifier gain and minimum pump power required#Example_9_16_1.sce#1655/CH9/EX9.16.1/Example_9_16_1.sce#S##57574
+8#Optical Receiver Operation#8.3.2#Calculate incident optical power#Example_8_3_2.sce#1655/CH8/EX8.3.2/Example_8_3_2.sce#S##57559
+8#Optical Receiver Operation#8.3.1#Find quantum efficiency and minimum incident power#Example_8_3_1.sce#1655/CH8/EX8.3.1/Example_8_3_1.sce#S##57558
+8#Optical Receiver Operation#8.18.1#Calculate maximum load resistance#Example_8_18_1.sce#1655/CH8/EX8.18.1/Example_8_18_1.sce#S##57564
+8#Optical Receiver Operation#8.17.2#Find signal to noise ratio#Example_8_17_2.sce#1655/CH8/EX8.17.2/Example_8_17_2.sce#S##57563
+8#Optical Receiver Operation#8.17.1#Calculate shot noise and thermal noise#Example_8_17_1.sce#1655/CH8/EX8.17.1/Example_8_17_1.sce#S##57562
+8#Optical Receiver Operation#8.11.1#Find photon energy#Example_8_11_1.sce#1655/CH8/EX8.11.1/Example_8_11_1.sce#S##57561
+8#Optical Receiver Operation#8.10.1#Find signal to noise ratio#Example_8_10_1.sce#1655/CH8/EX8.10.1/Example_8_10_1.sce#S##57560
+8#Optical Receiver Operation#7.q#Determine maximum response time#Question_7.sce#1655/CH8/EX7.q/Question_7.sce#S##57565
+7#Source to Fiber Power Launching and Photodetectors#7.9.2#Find mean square quantum noise current and mean square dark current#Example_7_9_2.sce#1655/CH7/EX7.9.2/Example_7_9_2.sce#S##57551
+7#Source to Fiber Power Launching and Photodetectors#7.9.1#Calculate noise equivalent power and specific directivity#Example_7_9_1.sce#1655/CH7/EX7.9.1/Example_7_9_1.sce#S##57550
+7#Source to Fiber Power Launching and Photodetectors#7.8.2#Find maximum response time#Example_7_8_2.sce#1655/CH7/EX7.8.2/Example_7_8_2.sce#S##57549
+7#Source to Fiber Power Launching and Photodetectors#7.8.1#Determine drift time and junction temperature#Example_7_8_1.sce#1655/CH7/EX7.8.1/Example_7_8_1.sce#S##57548
+7#Source to Fiber Power Launching and Photodetectors#7.5.8#Find quantum efficiency#Example_7_5_8.sce#1655/CH7/EX7.5.8/Example_7_5_8.sce#S##57547
+7#Source to Fiber Power Launching and Photodetectors#7.5.7#Calculate wavelength and incident optical power#Example_7_5_7.sce#1655/CH7/EX7.5.7/Example_7_5_7.sce#S##60770
+7#Source to Fiber Power Launching and Photodetectors#7.5.6#Determine wavelength#Example_7_5_6.sce#1655/CH7/EX7.5.6/Example_7_5_6.sce#S##57545
+7#Source to Fiber Power Launching and Photodetectors#7.5.5#Find wavelength and incident power#Example_7_5_5.sce#1655/CH7/EX7.5.5/Example_7_5_5.sce#S##60769
+7#Source to Fiber Power Launching and Photodetectors#7.5.4#Determine quantum efficiency and responsivity#Example_7_5_4.sce#1655/CH7/EX7.5.4/Example_7_5_4.sce#S##57543
+7#Source to Fiber Power Launching and Photodetectors#7.5.3#Find cut off wavelength#Example_7_5_3.sce#1655/CH7/EX7.5.3/Example_7_5_3.sce#S##57542
+7#Source to Fiber Power Launching and Photodetectors#7.5.2#Find photocurrent #Example_7_5_2.sce#1655/CH7/EX7.5.2/Example_7_5_2.sce#S##57541
+7#Source to Fiber Power Launching and Photodetectors#7.5.1#Estimate upper wavelength cutoff#Example_7_5_1.sce#1655/CH7/EX7.5.1/Example_7_5_1.sce#S##57540
+7#Source to Fiber Power Launching and Photodetectors#7.2.4#Estimate external power efficiency#Example_7_2_4.sce#1655/CH7/EX7.2.4/Example_7_2_4.sce#S##57539
+7#Source to Fiber Power Launching and Photodetectors#7.2.3#Calculate coupled power#Example_7_2_3.sce#1655/CH7/EX7.2.3/Example_7_2_3.sce#S##57538
+7#Source to Fiber Power Launching and Photodetectors#7.2.2#Compute optical power coupled#Example_7_2_2.sce#1655/CH7/EX7.2.2/Example_7_2_2.sce#S##57537
+7#Source to Fiber Power Launching and Photodetectors#7.2.1#Find Fresnel reflection and power loss#Example_7_2_1.sce#1655/CH7/EX7.2.1/Example_7_2_1.sce#S##57536
+7#Source to Fiber Power Launching and Photodetectors#7.10.6#Calculate quantum efficiency and output photocurrent#Example_7_10_6.sce#1655/CH7/EX7.10.6/Example_7_10_6.sce#S##57557
+7#Source to Fiber Power Launching and Photodetectors#7.10.5#Find multiplication factor#Example_7_10_5.sce#1655/CH7/EX7.10.5/Example_7_10_5.sce#S##57556
+7#Source to Fiber Power Launching and Photodetectors#7.10.4#Find wavelength incident optical power and responsivity#Example_7_10_4.sce#1655/CH7/EX7.10.4/Example_7_10_4.sce#S##57555
+7#Source to Fiber Power Launching and Photodetectors#7.10.3#Find multiplication factor#Example_7_10_3.sce#1655/CH7/EX7.10.3/Example_7_10_3.sce#S##57554
+7#Source to Fiber Power Launching and Photodetectors#7.10.2#Find avalanche gain#Example_7_10_2.sce#1655/CH7/EX7.10.2/Example_7_10_2.sce#S##57553
+7#Source to Fiber Power Launching and Photodetectors#7.10.1#Find multiplication factor#Example_7_10_1.sce#1655/CH7/EX7.10.1/Example_7_10_1.sce#S##57552
+6#Optical Sources#6.3.2#Find out number of longitudinal modes and frequency separation#Example_6_3_2.sce#1655/CH6/EX6.3.2/Example_6_3_2.sce#S##57529
+6#Optical Sources#6.3.1#Find operating wavelength#Example_6_3_1.sce#1655/CH6/EX6.3.1/Example_6_3_1.sce#S##57528
+6#Optical Sources#6.22.3#Find operating lifetime#Example_6_22_3.sce#1655/CH6/EX6.22.3/Example_6_22_3.sce#S##57535
+6#Optical Sources#6.22.2#To calculate emitted optical power as percent of internal optical power#Example_6_22_2.sce#1655/CH6/EX6.22.2/Example_6_22_2.sce#S##60604
+6#Optical Sources#6.22.1#Determine optical power#Example_6_22_1.sce#1655/CH6/EX6.22.1/Example_6_22_1.sce#S##57534
+6#Optical Sources#6.21.3#Determine total recombination lifetime and internally generated power#Example_6_21_3.sce#1655/CH6/EX6.21.3/Example_6_21_3.sce#S##57533
+6#Optical Sources#6.21.2#Determine total recombination life time internal quantum efficiency internal power level#Example_6_21_2.sce#1655/CH6/EX6.21.2/Example_6_21_2.sce#S##57532
+6#Optical Sources#6.21.1#Determine total recombination lifetime and internally generated power emission#Example_6_21_1.sce#1655/CH6/EX6.21.1/Example_6_21_1.sce#S##57531
+6#Optical Sources#6.14.1#Single longitudinal mode#Example_6_14_1.sce#1655/CH6/EX6.14.1/Example_6_14_1.sce#S##57530
+5#Fiber Optic Splices Connectors and Couplers#5.6.2#Find total loss and average insertion loss#Example_5_6_2.sce#1655/CH5/EX5.6.2/Example_5_6_2.sce#S##57527
+5#Fiber Optic Splices Connectors and Couplers#5.6.1#Determine excess loss insertion loss cross talk and split ratio#Example_5_6_1.sce#1655/CH5/EX5.6.1/Example_5_6_1.sce#S##57526
+5#Fiber Optic Splices Connectors and Couplers#5.4.2#Find angular misalignment loss#Example_5_4_2.sce#1655/CH5/EX5.4.2/Example_5_4_2.sce#S##57525
+5#Fiber Optic Splices Connectors and Couplers#5.4.1#Find insertion loss#Example_5_4_1.sce#1655/CH5/EX5.4.1/Example_5_4_1.sce#S##57524
+5#Fiber Optic Splices Connectors and Couplers#5.2.6#Total insertion loss#Example_5_2_6.sce#1655/CH5/EX5.2.6/Example_5_2_6.sce#S##57523
+5#Fiber Optic Splices Connectors and Couplers#5.2.5#Estimate insertion loss due to lateral misalignment#Example_5_2_5.sce#1655/CH5/EX5.2.5/Example_5_2_5.sce#S##57522
+5#Fiber Optic Splices Connectors and Couplers#5.2.4#Loss due to Fresnel reflection#Example_5_2_4.sce#1655/CH5/EX5.2.4/Example_5_2_4.sce#S##57521
+5#Fiber Optic Splices Connectors and Couplers#5.2.3#Estimate angular misalignment insertion loss#Example_5_2_3.sce#1655/CH5/EX5.2.3/Example_5_2_3.sce#S##57520
+5#Fiber Optic Splices Connectors and Couplers#5.2.2#Estimate insertion loss due to lateral misalingment#Example_5_2_2.sce#1655/CH5/EX5.2.2/Example_5_2_2.sce#S##57519
+5#Fiber Optic Splices Connectors and Couplers#5.2.1#Calculate loss due to Fresnel reflection#Example_5_2_1.sce#1655/CH5/EX5.2.1/Example_5_2_1.sce#S##57518
+4#Signal Degradation in Fibers#4.9.2#Find critical radius for both single mode and multi mode fiber#Example_4_9_2.sce#1655/CH4/EX4.9.2/Example_4_9_2.sce#S##57504
+4#Signal Degradation in Fibers#4.9.1#Find critical radius of curvature#Example_4_9_1.sce#1655/CH4/EX4.9.1/Example_4_9_1.sce#S##57503
+4#Signal Degradation in Fibers#4.8.1#Compare SRS and SBS threshold powers#Example_4_8_1.sce#1655/CH4/EX4.8.1/Example_4_8_1.sce#S##57502
+4#Signal Degradation in Fibers#4.6.2#Determine attenuation due to Rayleigh scattering#Example_4_6_2.sce#1655/CH4/EX4.6.2/Example_4_6_2.sce#S##57501
+4#Signal Degradation in Fibers#4.6.1#Find attenuation due to Rayleigh scattering#Example_4_6_1.sce#1655/CH4/EX4.6.1/Example_4_6_1.sce#S##57500
+4#Signal Degradation in Fibers#4.4.1#Find output power#Example_4_4_1.sce#1655/CH4/EX4.4.1/Example_4_4_1.sce#S##57499
+4#Signal Degradation in Fibers#4.3.1#Find signal attenuation and InputOutput ratio#Example_4_3_1.sce#1655/CH4/EX4.3.1/Example_4_3_1.sce#S##82816
+4#Signal Degradation in Fibers#4.18.1#Find delay difference and rms pulse broadening#Example_4_18_1.sce#1655/CH4/EX4.18.1/Example_4_18_1.sce#S##57517
+4#Signal Degradation in Fibers#4.16.1#Estimate rms pulse broadening#Example_4_16_1.sce#1655/CH4/EX4.16.1/Example_4_16_1.sce#S##57516
+4#Signal Degradation in Fibers#4.15.9#Estimate rms pulse broadening#Example_4_15_9.sce#1655/CH4/EX4.15.9/Example_4_15_9.sce#S##57514
+4#Signal Degradation in Fibers#4.15.8#Estimate Bandwidth dispersion and bandwidth length product#Example_4_15_8.sce#1655/CH4/EX4.15.8/Example_4_15_8.sce#S##57513
+4#Signal Degradation in Fibers#4.15.7#Estimate rms pulse broadening and bandwidth length product#Example_4_15_7.sce#1655/CH4/EX4.15.7/Example_4_15_7.sce#S##57512
+4#Signal Degradation in Fibers#4.15.6#Compute delay difference rms pulse broadening and maximum bit rate#Example_4_15_6.sce#1655/CH4/EX4.15.6/Example_4_15_6.sce#S##57511
+4#Signal Degradation in Fibers#4.15.5#Calculate maximum possible bandwidth and dispersion#Example_4_15_5.sce#1655/CH4/EX4.15.5/Example_4_15_5.sce#S##57510
+4#Signal Degradation in Fibers#4.15.4#Determine maximum bit rate#Example_4_15_4.sce#1655/CH4/EX4.15.4/Example_4_15_4.sce#S##57509
+4#Signal Degradation in Fibers#4.15.3#Calculate bandwidth dispersion and bandwidth length product#Example_4_15_3.sce#1655/CH4/EX4.15.3/Example_4_15_3.sce#S##57508
+4#Signal Degradation in Fibers#4.15.2#Calculate overall signal attenuation#Example_4_15_2.sce#1655/CH4/EX4.15.2/Example_4_15_2.sce#S##57507
+4#Signal Degradation in Fibers#4.15.10#Estimate bandwidth pulse broadening and bandwidth length product#Example_4_15_10.sce#1655/CH4/EX4.15.10/Example_4_15_10.sce#S##57515
+4#Signal Degradation in Fibers#4.15.1#Find maximum possible bandwidth pulse dispersion and bandwidth length product#Example_4_15_1.sce#1655/CH4/EX4.15.1/Example_4_15_1.sce#S##57506
+4#Signal Degradation in Fibers#4.14.1#Compute material dispersion#Example_4_14_1.sce#1655/CH4/EX4.14.1/Example_4_14_1.sce#S##57505
+2#Optical Fibers#5.q#Determine modal briefringence#Question_5.sce#1655/CH2/EX5.q/Question_5.sce#S##57497
+2#Optical Fibers#4.q#Find briefrengence#Question_4.sce#1655/CH2/EX4.q/Question_4.sce#S##57496
+2#Optical Fibers#2.7.9#Estimate diameter of the core#Example_2_7_9.sce#1655/CH2/EX2.7.9/Example_2_7_9.sce#S##57479
+2#Optical Fibers#2.7.8#Calculate normalized frequency and number of guided modes#Example_2_7_8.sce#1655/CH2/EX2.7.8/Example_2_7_8.sce#S##57478
+2#Optical Fibers#2.7.7#Calculate NA and maximum angle of entrance#Example_2_7_7.sce#1655/CH2/EX2.7.7/Example_2_7_7.sce#S##57477
+2#Optical Fibers#2.7.6#Estimate diameter of core#Example_2_7_6.sce#1655/CH2/EX2.7.6/Example_2_7_6.sce#S##57476
+2#Optical Fibers#2.7.5#Determine normalized frequency and number of guided modes#Example_2_7_5.sce#1655/CH2/EX2.7.5/Example_2_7_5.sce#S##57475
+2#Optical Fibers#2.7.4#Estimate number of guided modes#Example_2_7_4.sce#1655/CH2/EX2.7.4/Example_2_7_4.sce#S##57474
+2#Optical Fibers#2.7.3#Find core radius NA and acceptance angle#Example_2_7_3.sce#1655/CH2/EX2.7.3/Example_2_7_3.sce#S##57473
+2#Optical Fibers#2.7.2#Find wavelength#Example_2_7_2.sce#1655/CH2/EX2.7.2/Example_2_7_2.sce#S##57472
+2#Optical Fibers#2.7.18#Compute cutoff parameter and number of modes#Example_2_7_18.sce#1655/CH2/EX2.7.18/Example_2_7_18.sce#S##57488
+2#Optical Fibers#2.7.17#Estimate number of guided modes#Example_2_7_17.sce#1655/CH2/EX2.7.17/Example_2_7_17.sce#S##57487
+2#Optical Fibers#2.7.16#Find number of guided modes#Example_2_7_16.sce#1655/CH2/EX2.7.16/Example_2_7_16.sce#S##57486
+2#Optical Fibers#2.7.15#Determine core diameter#Example_2_7_15.sce#1655/CH2/EX2.7.15/Example_2_7_15.sce#S##57485
+2#Optical Fibers#2.7.14#Estimate number of guided modes#Example_2_7_14.sce#1655/CH2/EX2.7.14/Example_2_7_14.sce#S##57484
+2#Optical Fibers#2.7.13#Estimate range of wavelength for single mode transmission#Example_2_7_13.sce#1655/CH2/EX2.7.13/Example_2_7_13.sce#S##82482
+2#Optical Fibers#2.7.12#Compute core radius and acceptance angle#Example_2_7_12.sce#1655/CH2/EX2.7.12/Example_2_7_12.sce#S##57482
+2#Optical Fibers#2.7.11#Compute NA and number of guided modes#Example_2_7_11.sce#1655/CH2/EX2.7.11/Example_2_7_11.sce#S##82815
+2#Optical Fibers#2.7.10#Determine normalized frequency and number of guided modes#Example_2_7_10.sce#1655/CH2/EX2.7.10/Example_2_7_10.sce#S##57480
+2#Optical Fibers#2.7.1#Find normalized frequency and number of guided modes#Example_2_7_1.sce#1655/CH2/EX2.7.1/Example_2_7_1.sce#S##57471
+2#Optical Fibers#2.5.1#Find acceptance angle#Example_2_5_1.sce#1655/CH2/EX2.5.1/Example_2_5_1.sce#S##57470
+2#Optical Fibers#2.4.5#Compute numerical aperture and full cone angle#Example_2_4_5.sce#1655/CH2/EX2.4.5/Example_2_4_5.sce#S##57469
+2#Optical Fibers#2.4.4#Find acceptance angle#Example_2_4_4.sce#1655/CH2/EX2.4.4/Example_2_4_4.sce#S##57468
+2#Optical Fibers#2.4.3#Find numerical aperture and acceptance angle#Example_2_4_3.sce#1655/CH2/EX2.4.3/Example_2_4_3.sce#S##57467
+2#Optical Fibers#2.4.2#Determine numerical aperture#Example_2_4_2.sce#1655/CH2/EX2.4.2/Example_2_4_2.sce#S##57466
+2#Optical Fibers#2.4.1#Determine critical angle numerical aperture and acceptance angle#Example_2_4_1.sce#1655/CH2/EX2.4.1/Example_2_4_1.sce#S##57465
+2#Optical Fibers#2.3.2#Estimate numerical aperture#Example_2_3_2.sce#1655/CH2/EX2.3.2/Example_2_3_2.sce#S##57464
+2#Optical Fibers#2.3.1#Estimate numerical aperture and critical angle#Example_2_3_1.sce#1655/CH2/EX2.3.1/Example_2_3_1.sce#S##57463
+2#Optical Fibers#2.16.1#Calculate NA and maximum acceptance angle#Example_2_16_1.sce#1655/CH2/EX2.16.1/Example_2_16_1.sce#S##57495
+2#Optical Fibers#2.13.2#Find output power#Example_2_13_2.sce#1655/CH2/EX2.13.2/Example_2_13_2.sce#S##57494
+2#Optical Fibers#2.13.1#Find modal briefringence#Example_2_13_1.sce#1655/CH2/EX2.13.1/Example_2_13_1.sce#S##57493
+2#Optical Fibers#2.10.4#Calculate delay difference#Example_2_10_4.sce#1655/CH2/EX2.10.4/Example_2_10_4.sce#S##57492
+2#Optical Fibers#2.10.3#Compute number of modes#Example_2_10_3.sce#1655/CH2/EX2.10.3/Example_2_10_3.sce#S##57491
+2#Optical Fibers#2.10.2#Calculate cutoff number and number of modes#Example_2_10_2.sce#1655/CH2/EX2.10.2/Example_2_10_2.sce#S##57490
+2#Optical Fibers#2.10.1#Determine cutoff wavelength#Example_2_10_1.sce#1655/CH2/EX2.10.1/Example_2_10_1.sce#S##57489
+1#Introduction to Optical Fiber Communication#1.13.1#Determine duration of shortest and widest optical pulse#Example_1_13_1.sce#1655/CH1/EX1.13.1/Example_1_13_1.sce#S##57212
+1#Introduction to Optical Fiber Communication#1.10.1#Computing maximum capacity of channel#Example_1_10_1.sce#1655/CH1/EX1.10.1/Example_1_10_1.sce#S##57210

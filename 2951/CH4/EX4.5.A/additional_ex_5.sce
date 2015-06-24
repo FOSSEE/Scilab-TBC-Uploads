@@ -1,0 +1,13 @@
+clc;
+clear;
+disp("for B=2, The number of significant frequencies are 6");
+disp("They are J1,J2,J3,J4,J5 and J6");
+disp('Their amplitudes with carriers are');
+J0= 0.224*8;
+J1= 0.577*8;
+J2= 0.353*8;
+J3= 0.129*8;
+J4= 0.034*8;
+J5= 0.007*8;
+J6= 0.001*8;
+disp(J6, J5,J4,J3,J2,J1,J0,"they are (in V)");

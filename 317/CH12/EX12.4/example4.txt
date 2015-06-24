@@ -1,0 +1,2 @@
+transistor power dissipation is 1.34 watts  
+efficiency of stage is 3.72%

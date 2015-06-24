@@ -1,0 +1,1 @@
+ The gain of the reflector antenna = 59.308135 dB 

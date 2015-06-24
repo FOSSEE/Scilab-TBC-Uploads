@@ -1,0 +1,6 @@
+Power(in KW) and Torque(in Nm) developed is=   
+ 
+    2.9452431  
+ 
+    28.125  
+ 

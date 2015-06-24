@@ -1,0 +1,6 @@
+Period of output pulses is 400 Microseconds
+Quiescent pulse width is 100 Micro seconds
+Minium UTP is 6 Volts
+Maximum UTP is 10 Volts
+Minimum pulse width is 63.1 Microseconds
+Maximum pulse width is 163 Microseconds

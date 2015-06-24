@@ -1,0 +1,15 @@
+ (a)Speed at full load (in rpm)=   
+ 
+    975.61487  
+ 
+ Torque Developed (in N-m)=   
+ 
+    83.107036  
+ 
+ (b)Shaft Power (in watts)=   
+ 
+    7712.7245  
+ 
+ (c)Efficiency (in %)=   
+ 
+    81.789231

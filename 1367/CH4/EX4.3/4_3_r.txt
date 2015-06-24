@@ -1,0 +1,8 @@
+ Lattice constant =    
+ 
+    5.58  
+ 
+ atomic packing fraction of NaCl having FCC structure =    
+ 
+    0.6622798  
+ 

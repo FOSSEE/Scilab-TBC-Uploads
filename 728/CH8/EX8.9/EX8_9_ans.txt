@@ -1,0 +1,8 @@
+Axial phase velocity (in m/s) =   
+ 
+    9549296.6  
+ 
+ Anode Voltage (in kV) =   
+ 
+    259.20712  
+ 

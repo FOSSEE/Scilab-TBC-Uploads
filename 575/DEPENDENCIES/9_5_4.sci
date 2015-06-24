@@ -1,0 +1,10 @@
+basis=150 //mol/s
+x=0.9
+HinEthanol= -212.19
+HinEthanone= -147.07
+HoutEthanol= -216.81
+HoutEthanone= -150.9
+HoutHydrogen=6.595
+NinEthanol=135
+NinEthanone=15
+Q=2440 //KW

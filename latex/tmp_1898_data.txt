@@ -1,0 +1,161 @@
+14#Energy Methods#14.9#EM9#Ex14_9.sce#1898/CH14/EX14.9/Ex14_9.sce#S##85776
+14#Energy Methods#14.8#EM8#Ex14_8.sce#1898/CH14/EX14.8/Ex14_8.sce#S##85775
+14#Energy Methods#14.6#EM6#Ex14_6.sce#1898/CH14/EX14.6/Ex14_6.sce#S##85774
+14#Energy Methods#14.5#EM5#Ex14_5.sce#1898/CH14/EX14.5/Ex14_5.sce#S##85773
+14#Energy Methods#14.21#EM21#Ex14_21.sce#1898/CH14/EX14.21/Ex14_21.sce#S##85784
+14#Energy Methods#14.18#EM18#Ex14_18.sce#1898/CH14/EX14.18/Ex14_18.sce#S##85783
+14#Energy Methods#14.17#EM17#Ex14_17.sce#1898/CH14/EX14.17/Ex14_17.sce#S##85782
+14#Energy Methods#14.16#EM16#Ex14_16.sce#1898/CH14/EX14.16/Ex14_16.sce#S##85781
+14#Energy Methods#14.13#EM13#Ex14_13.sce#1898/CH14/EX14.13/Ex14_13.sce#S##85780
+14#Energy Methods#14.12#EM12#Ex14_12.sce#1898/CH14/EX14.12/Ex14_12.sce#S##85779
+14#Energy Methods#14.11#EM11#Ex14_11.sce#1898/CH14/EX14.11/Ex14_11.sce#S##85778
+14#Energy Methods#14.10#EM10#Ex14_10.sce#1898/CH14/EX14.10/Ex14_10.sce#S##85777
+14#Energy Methods#14.1#EM1#Ex14_1.sce#1898/CH14/EX14.1/Ex14_1.sce#S##85772
+13#Buckling of Columns#13.9#BoC9#Ex13_9.sce#1898/CH13/EX13.9/Ex13_9.sce#S##85766
+13#Buckling of Columns#13.8#BoC8#Ex13_8.sce#1898/CH13/EX13.8/Ex13_8.sce#S##85765
+13#Buckling of Columns#13.7#BoC7#Ex13_7.sce#1898/CH13/EX13.7/Ex13_7.sce#S##85764
+13#Buckling of Columns#13.6#BoC6#Ex13_6.sce#1898/CH13/EX13.6/Ex13_6.sce#S##85763
+13#Buckling of Columns#13.5#BoC5#Ex13_5.sce#1898/CH13/EX13.5/Ex13_5.sce#S##85762
+13#Buckling of Columns#13.4#BoC4#Ex13_4.sce#1898/CH13/EX13.4/Ex13_4.sce#S##85761
+13#Buckling of Columns#13.3#BoC3#Ex13_3.sce#1898/CH13/EX13.3/Ex13_3.sce#S##85760
+13#Buckling of Columns#13.2#BoC2#Ex13_2.sce#1898/CH13/EX13.2/Ex13_2.sce#S##85759
+13#Buckling of Columns#13.14#BoC14#Ex13_14.sce#1898/CH13/EX13.14/Ex13_14.sce#S##94770
+13#Buckling of Columns#13.13#BoC13#Ex13_13.sce#1898/CH13/EX13.13/Ex13_13.sce#S##85770
+13#Buckling of Columns#13.12#BoC12#Ex13_12.sce#1898/CH13/EX13.12/Ex13_12.sce#S##85769
+13#Buckling of Columns#13.11#BoC11#Ex13_11.sce#1898/CH13/EX13.11/Ex13_11.sce#S##85768
+13#Buckling of Columns#13.10#BoC10#Ex13_10.sce#1898/CH13/EX13.10/Ex13_10.sce#S##85767
+13#Buckling of Columns#13.1#BoC1#Ex13_1.sce#1898/CH13/EX13.1/Ex13_1.sce#S##85758
+12#Deflection of Beams and Shafts#12.6#DefBS6#Ex12_6.sce#1898/CH12/EX12.6/Ex12_6.sce#S##94769
+12#Deflection of Beams and Shafts#12.24#DefBS24#Ex12_24.sce#1898/CH12/EX12.24/Ex12_24.sce#S##85757
+12#Deflection of Beams and Shafts#12.23#DefBS23#Ex12_23.sce#1898/CH12/EX12.23/Ex12_23.sce#S##85756
+12#Deflection of Beams and Shafts#12.22#DefBS22#Ex12_22.sce#1898/CH12/EX12.22/Ex12_22.sce#S##85755
+12#Deflection of Beams and Shafts#12.21#DefBS21#Ex12_21.sce#1898/CH12/EX12.21/Ex12_21.sce#S##85754
+12#Deflection of Beams and Shafts#12.16#DefBS16#Ex12_16.sce#1898/CH12/EX12.16/Ex12_16.sce#S##85753
+12#Deflection of Beams and Shafts#12.15#DefBS15#Ex12_15.sce#1898/CH12/EX12.15/Ex12_15.sce#S##85752
+12#Deflection of Beams and Shafts#12.14#DefBS14#Ex12_14.sce#1898/CH12/EX12.14/Ex12_14.sce#S##85751
+12#Deflection of Beams and Shafts#12.13#DefBS13#Ex12_13.sce#1898/CH12/EX12.13/Ex12_13.sce#S##85750
+12#Deflection of Beams and Shafts#12.12#DefBS12#Ex12_12.sce#1898/CH12/EX12.12/Ex12_12.sce#S##85749
+12#Deflection of Beams and Shafts#12.10#DefBS10#Ex12_10.sce#1898/CH12/EX12.10/Ex12_10.sce#S##85748
+11#Design of Beams and Shafts#11.6#DBS6#Ex11_6.sce#1898/CH11/EX11.6/Ex11_6.sce#S##85440
+11#Design of Beams and Shafts#11.3#DBS3#Ex11_3.sce#1898/CH11/EX11.3/Ex11_3.sce#S##85439
+11#Design of Beams and Shafts#11.2#DBS2#Ex11_2.sce#1898/CH11/EX11.2/Ex11_2.sce#S##85438
+11#Design of Beams and Shafts#11.1#DBS1#Ex11_1.sce#1898/CH11/EX11.1/Ex11_1.sce#S##85437
+10#Strain Transformation#10.9#StnT9#Ex10_9.sce#1898/CH10/EX10.9/Ex10_9.sce#S##85741
+10#Strain Transformation#10.8#StnT8#Ex10_8.sce#1898/CH10/EX10.8/Ex10_8.sce#S##85740
+10#Strain Transformation#10.7#StnT7#Ex10_7.sce#1898/CH10/EX10.7/Ex10_7.sce#S##85739
+10#Strain Transformation#10.6#StnT6#Ex10_6.sce#1898/CH10/EX10.6/Ex10_6.sce#S##85738
+10#Strain Transformation#10.5#StnT5#Ex10_5.sce#1898/CH10/EX10.5/Ex10_5.sce#S##85737
+10#Strain Transformation#10.4#StnT4#Ex10_4.sce#1898/CH10/EX10.4/Ex10_4.sce#S##85736
+10#Strain Transformation#10.3#StnT3#Ex10_3.sce#1898/CH10/EX10.3/Ex10_3.sce#S##85735
+10#Strain Transformation#10.2#StnT2#Ex10_2.sce#1898/CH10/EX10.2/Ex10_2.sce#S##85734
+10#Strain Transformation#10.14#StnT14#Ex10_14.sce#1898/CH10/EX10.14/Ex10_14.sce#S##85746
+10#Strain Transformation#10.13#StnT13#Ex10_13.sce#1898/CH10/EX10.13/Ex10_13.sce#S##85745
+10#Strain Transformation#10.12#StnT12#Ex10_12.sce#1898/CH10/EX10.12/Ex10_12.sce#S##85744
+10#Strain Transformation#10.11#StnT11#Ex10_11.sce#1898/CH10/EX10.11/Ex10_11.sce#S##85743
+10#Strain Transformation#10.10#StnT10#Ex10_10.sce#1898/CH10/EX10.10/Ex10_10.sce#S##85742
+10#Strain Transformation#10.1#StnT1#Ex10_1.sce#1898/CH10/EX10.1/Ex10_1.sce#S##85733
+9#Stress Transformation#9.9#ST9#Ex9_9.sce#1898/CH9/EX9.9/Ex9_9.sce#S##85726
+9#Stress Transformation#9.6#ST6#Ex9_6.sce#1898/CH9/EX9.6/Ex9_6.sce#S##94764
+9#Stress Transformation#9.5#ST5#Ex9_5.sce#1898/CH9/EX9.5/Ex9_5.sce#S##85724
+9#Stress Transformation#9.2#ST2#Ex9_2.sce#1898/CH9/EX9.2/Ex9_2.sce#S##85723
+9#Stress Transformation#9.15#ST15#Ex9_15.sce#1898/CH9/EX9.15/Ex9_15.sce#S##85732
+9#Stress Transformation#9.14#ST14#Ex9_14.sce#1898/CH9/EX9.14/Ex9_14.sce#S##85731
+9#Stress Transformation#9.13#ST13#Ex9_13.sce#1898/CH9/EX9.13/Ex9_13.sce#S##85730
+9#Stress Transformation#9.12#ST12#Ex9_12.sce#1898/CH9/EX9.12/Ex9_12.sce#S##85729
+9#Stress Transformation#9.11#ST11#Ex9_11.sce#1898/CH9/EX9.11/Ex9_11.sce#S##94765
+9#Stress Transformation#9.10#ST10#Ex9_10.sce#1898/CH9/EX9.10/Ex9_10.sce#S##85727
+9#Stress Transformation#9.1#ST1#Ex9_1.sce#1898/CH9/EX9.1/Ex9_1.sce#S##94763
+8#Combined Loadings#8.6#CL6#Ex8_6.sce#1898/CH8/EX8.6/Ex8_6.sce#S##85402
+8#Combined Loadings#8.5#CL5#Ex8_5.sce#1898/CH8/EX8.5/Ex8_5.sce#S##85401
+8#Combined Loadings#8.4#CL4#Ex8_4.sce#1898/CH8/EX8.4/Ex8_4.sce#S##85400
+8#Combined Loadings#8.3#CL3#Ex8_3.sce#1898/CH8/EX8.3/Ex8_3.sce#S##85399
+8#Combined Loadings#8.2#CL2#Ex8_2.sce#1898/CH8/EX8.2/Ex8_2.sce#S##85398
+8#Combined Loadings#8.1#CL1#Ex8_1.sce#1898/CH8/EX8.1/Ex8_1.sce#S##85397
+7#Transverse Shear#7.7#TS7#Ex7_7.sce#1898/CH7/EX7.7/Ex7_7.sce#S##85396
+7#Transverse Shear#7.6#TS6#Ex7_6.sce#1898/CH7/EX7.6/Ex7_6.sce#S##85395
+7#Transverse Shear#7.5#TS5#Ex7_5.sce#1898/CH7/EX7.5/Ex7_5.sce#S##85394
+7#Transverse Shear#7.4#TS4#Ex7_4.sce#1898/CH7/EX7.4/Ex7_4.sce#S##85393
+7#Transverse Shear#7.3#TS3#Ex7_3.sce#1898/CH7/EX7.3/Ex7_3.sce#S##85392
+7#Transverse Shear#7.2#TS2#Ex7_2.sce#1898/CH7/EX7.2/Ex7_2.sce#S##85391
+7#Transverse Shear#7.1#TS1#Ex7_1.sce#1898/CH7/EX7.1/Ex7_1.sce#S##85390
+6#Bending#6.5#B5#Ex6_5.sce#1898/CH6/EX6.5/Ex6_5.sce#S##85684
+6#Bending#6.30#B30#Ex6_30.sce#1898/CH6/EX6.30/Ex6_30.sce#S##85721
+6#Bending#6.29#B29#Ex6_29.sce#1898/CH6/EX6.29/Ex6_29.sce#S##85720
+6#Bending#6.28#B28#Ex6_28.sce#1898/CH6/EX6.28/Ex6_28.sce#S##85719
+6#Bending#6.27#B27#Ex6_27.sce#1898/CH6/EX6.27/Ex6_27.sce#S##85718
+6#Bending#6.26#B26#Ex6_26.sce#1898/CH6/EX6.26/Ex6_26.sce#S##85717
+6#Bending#6.25#B25#Ex6_25.sce#1898/CH6/EX6.25/Ex6_25.sce#S##85716
+6#Bending#6.24#B24#Ex6_24.sce#1898/CH6/EX6.24/Ex6_24.sce#S##85715
+6#Bending#6.23#B23#Ex6_23.sce#1898/CH6/EX6.23/Ex6_23.sce#S##85714
+6#Bending#6.22#B22#Ex6_22.sce#1898/CH6/EX6.22/Ex6_22.sce#S##85713
+6#Bending#6.21#B21#Ex6_21.sce#1898/CH6/EX6.21/Ex6_21.sce#S##85712
+6#Bending#6.20#B20#Ex6_20.sce#1898/CH6/EX6.20/Ex6_20.sce#S##85711
+6#Bending#6.19#B19#Ex6_19.sce#1898/CH6/EX6.19/Ex6_19.sce#S##85710
+6#Bending#6.18#B18#Ex6_18.sce#1898/CH6/EX6.18/Ex6_18.sce#S##85709
+6#Bending#6.17#B17#Ex6_17.sce#1898/CH6/EX6.17/Ex6_17.sce#S##85708
+6#Bending#6.16#B16#Ex6_16.sce#1898/CH6/EX6.16/Ex6_16.sce#S##85707
+6#Bending#6.15#B15#Ex6_15.sce#1898/CH6/EX6.15/Ex6_15.sce#S##85702
+6#Bending#6.14#B14#Ex6_14.sce#1898/CH6/EX6.14/Ex6_14.sce#S##85699
+6#Bending#6.13#B13#Ex6_13.sce#1898/CH6/EX6.13/Ex6_13.sce#S##85688
+6#Bending#6.11#B11#Ex6_11.sce#1898/CH6/EX6.11/Ex6_11.sce#S##85687
+5#Torsion#5.9#T9#Ex5_9.sce#1898/CH5/EX5.9/Ex5_9.sce#S##85426
+5#Torsion#5.8#T8#Ex5_8.sce#1898/CH5/EX5.8/Ex5_8.sce#S##85425
+5#Torsion#5.7#T7#Ex5_7.sce#1898/CH5/EX5.7/Ex5_7.sce#S##85424
+5#Torsion#5.6#T6#Ex5_6.sce#1898/CH5/EX5.6/Ex5_6.sce#S##85423
+5#Torsion#5.5#T5#Ex5_5.sce#1898/CH5/EX5.5/Ex5_5.sce#S##85422
+5#Torsion#5.4#T4#Ex5_4.sce#1898/CH5/EX5.4/Ex5_4.sce#S##85421
+5#Torsion#5.3#T3#Ex5_3.sce#1898/CH5/EX5.3/Ex5_3.sce#S##85420
+5#Torsion#5.21#T21#Ex5_21.sce#1898/CH5/EX5.21/Ex5_21.sce#S##85436
+5#Torsion#5.20#T20#Ex5_20.sce#1898/CH5/EX5.20/Ex5_20.sce#S##85435
+5#Torsion#5.19#T19#Ex5_19.sce#1898/CH5/EX5.19/Ex5_19.sce#S##85434
+5#Torsion#5.18#T18#Ex5_18.sce#1898/CH5/EX5.18/Ex5_18.sce#S##85433
+5#Torsion#5.17#T17#Ex5_17.sce#1898/CH5/EX5.17/Ex5_17.sce#S##85432
+5#Torsion#5.16#T16#Ex5_16.sce#1898/CH5/EX5.16/Ex5_16.sce#S##85431
+5#Torsion#5.15#T15#Ex5_15.sce#1898/CH5/EX5.15/Ex5_15.sce#S##85430
+5#Torsion#5.13#T13#Ex5_13.sce#1898/CH5/EX5.13/Ex5_13.sce#S##85429
+5#Torsion#5.12#T12#Ex5_12.sce#1898/CH5/EX5.12/Ex5_12.sce#S##85428
+5#Torsion#5.11#T11#Ex5_11.sce#1898/CH5/EX5.11/Ex5_11.sce#S##85427
+5#Torsion#5.1#T1#Ex5_1.sce#1898/CH5/EX5.1/Ex5_1.sce#S##85419
+4#Axial Load #4.9#AL9#Ex4_9.sce#1898/CH4/EX4.9/Ex4_9.sce#S##85410
+4#Axial Load #4.8#AL8#Ex4_8.sce#1898/CH4/EX4.8/Ex4_8.sce#S##85409
+4#Axial Load #4.7#AL7#Ex4_7.sce#1898/CH4/EX4.7/Ex4_7.sce#S##85408
+4#Axial Load #4.6#AL6#Ex4_6.sce#1898/CH4/EX4.6/Ex4_6.sce#S##85407
+4#Axial Load #4.5#AL5#Ex4_5.sce#1898/CH4/EX4.5/Ex4_5.sce#S##85406
+4#Axial Load #4.3#AL3#Ex4_3.sce#1898/CH4/EX4.3/Ex4_3.sce#S##85405
+4#Axial Load #4.2#AL2#Ex4_2.sce#1898/CH4/EX4.2/Ex4_2.sce#S##85404
+4#Axial Load #4.17#AL17#Ex4_17.sce#1898/CH4/EX4.17/Ex4_17.sce#S##85418
+4#Axial Load #4.16#AL16#Ex4_16.sce#1898/CH4/EX4.16/Ex4_16.sce#S##85417
+4#Axial Load #4.15#AL15#Ex4_15.sce#1898/CH4/EX4.15/Ex4_15.sce#S##85416
+4#Axial Load #4.14#AL14#Ex4_14.sce#1898/CH4/EX4.14/Ex4_14.sce#S##85415
+4#Axial Load #4.13#AL13#Ex4_13.sce#1898/CH4/EX4.13/Ex4_13.sce#S##85414
+4#Axial Load #4.12#AL12#Ex4_12.sce#1898/CH4/EX4.12/Ex4_12.sce#S##94762
+4#Axial Load #4.11#AL11#Ex4_11.sce#1898/CH4/EX4.11/Ex4_11.sce#S##85412
+4#Axial Load #4.10#AL10#Ex4_10.sce#1898/CH4/EX4.10/Ex4_10.sce#S##85411
+4#Axial Load #4.1#AL1#Ex4_1.sce#1898/CH4/EX4.1/Ex4_1.sce#S##85403
+3#Mechanical Properties of Materials#3.6#MPM6#Ex3_6.sce#1898/CH3/EX3.6/Ex3_6.sce#S##85389
+3#Mechanical Properties of Materials#3.5#MPM5#Ex3_5.sce#1898/CH3/EX3.5/Ex3_5.sce#S##85388
+3#Mechanical Properties of Materials#3.4#MPM4#Ex3_4.sce#1898/CH3/EX3.4/Ex3_4.sce#S##85387
+3#Mechanical Properties of Materials#3.3#MPM3#Ex3_3.sce#1898/CH3/EX3.3/Ex3_3.sce#S##85386
+3#Mechanical Properties of Materials#3.2#MPM2#Ex3_2.sce#1898/CH3/EX3.2/Ex3_2.sce#S##85385
+3#Mechanical Properties of Materials#3.1#MPM1#Ex3_1.sce#1898/CH3/EX3.1/Ex3_1.sce#S##85384
+2#Strain#2.4#Strain4#Ex2_4.sce#1898/CH2/EX2.4/Ex2_4.sce#S##85383
+2#Strain#2.3#Strain3#Ex2_3.sce#1898/CH2/EX2.3/Ex2_3.sce#S##85382
+2#Strain#2.2#Strain2#Ex2_2.sce#1898/CH2/EX2.2/Ex2_2.sce#S##85381
+2#Strain#2.1#Strain1#Ex2_1.sce#1898/CH2/EX2.1/Ex2_1.sce#S##85380
+1#Stress#1.9#S9#Ex1_9.sce#1898/CH1/EX1.9/Ex1_9.sce#S##85371
+1#Stress#1.8#S8#Ex1_8.sce#1898/CH1/EX1.8/Ex1_8.sce#S##85370
+1#Stress#1.7#S7#Ex1_7.sce#1898/CH1/EX1.7/Ex1_7.sce#S##85369
+1#Stress#1.6#S6#Ex1_6.sce#1898/CH1/EX1.6/Ex1_6.sce#S##85368
+1#Stress#1.5#S5#Ex1_5.sce#1898/CH1/EX1.5/Ex1_5.sce#S##85367
+1#Stress#1.4#S4#Ex1_4.sce#1898/CH1/EX1.4/Ex1_4.sce#S##85366
+1#Stress#1.3#S3#Ex1_3.sce#1898/CH1/EX1.3/Ex1_3.sce#S##85365
+1#Stress#1.2#S2#Ex1_2.sce#1898/CH1/EX1.2/Ex1_2.sce#S##85364
+1#Stress#1.17#S17#Ex1_17.sce#1898/CH1/EX1.17/Ex1_17.sce#S##85379
+1#Stress#1.16#S16#Ex1_16.sce#1898/CH1/EX1.16/Ex1_16.sce#S##85378
+1#Stress#1.15#S15#Ex1_15.sce#1898/CH1/EX1.15/Ex1_15.sce#S##85377
+1#Stress#1.14#S14#Ex1_14.sce#1898/CH1/EX1.14/Ex1_14.sce#S##85376
+1#Stress#1.13#S13#Ex1_13.sce#1898/CH1/EX1.13/Ex1_13.sce#S##85375
+1#Stress#1.12#S12#Ex1_12.sce#1898/CH1/EX1.12/Ex1_12.sce#S##85374
+1#Stress#1.11#S11#Ex1_11.sce#1898/CH1/EX1.11/Ex1_11.sce#S##85373
+1#Stress#1.10#S10#Ex1_10.sce#1898/CH1/EX1.10/Ex1_10.sce#S##85372
+1#Stress#1.1#S1#Ex1_1.sce#1898/CH1/EX1.1/Ex1_1.sce#S##85363

@@ -1,0 +1,22 @@
+    //EXAMPLE 5-1  PG NO-294
+TR1=32;
+R1=20;
+R2=30;
+R3=20;
+V=32;
+Ir11=V/TR1;
+Ir12=Ir11*(R1/(R1+R2));
+Ir13=Ir11*(R2/(R1+R3));
+TR2=40;
+I#r2=R3/TR2;
+I#r1=(R3/TR2)*I#r2;
+I#r3=(R3/TR2)*I#r1;
+Ir3=Ir13+I#r3;
+Ir1=Ir11-I#r1;
+Ir2=Ir12-I#r2;
+disp('i) current(Ir3) is   =  '+string (Ir3)+'A ');
+Ir3=Ir13+I#r3;
+disp('i) current(Ir1) is  =  '+string (Ir1)+'A ');
+Ir1=Ir11-I#r1;
+disp('i) current(Ir2) is   =  '+string (Ir2)+'A ');
+Ir2=0.5-0.4;

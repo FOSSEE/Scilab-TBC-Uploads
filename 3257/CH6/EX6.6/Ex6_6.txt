@@ -1,0 +1,3 @@
+ 
+ Example 6.6
+ Force required for rolling is 1.5e+07 N. 

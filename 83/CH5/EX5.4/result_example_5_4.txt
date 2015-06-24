@@ -1,0 +1,12 @@
+ 
+
+Vs(per phase)=(82.26+7.46)kV
+
+|Vs|(line)=143 kV
+
+|Vr0|(line no load)=148.4kV
+
+Voltage Regulation=12.4%
+
+ 
+

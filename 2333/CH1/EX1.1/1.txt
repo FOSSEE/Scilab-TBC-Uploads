@@ -1,0 +1,4 @@
+# Problem 1 
+
+  Force acting on a particle while going upward is 28.800000 N 
+  Force acting on a particle while going downward is 88.800000 N

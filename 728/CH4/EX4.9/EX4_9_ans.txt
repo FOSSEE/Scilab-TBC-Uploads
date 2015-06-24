@@ -1,0 +1,15 @@
+Only TE10 mode is possible   
+ 
+ Cut-off frequency(in Hz) =   
+ 
+    6.000D+09  
+ 
+ Guide wavelength for TE10 (in cm) =   
+ 
+    4.869206  
+ 
+ TM11 also propagates   
+ 
+ Guide wavelength for TM11 (in cm) =   
+ 
+    4.869206  

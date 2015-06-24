@@ -1,0 +1,6 @@
+ 
+ Example 3.20   
+
+Total resistance=4.360000ohms
+Total impedence=10.000000ohms
+full voltage current,V1=6735V 

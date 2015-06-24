@@ -1,0 +1,5 @@
+ # Problem 7 # 
+
+ Standard formula used 
+ m = m_o/sqrt ( 1- (v/c)^2)
+ Ratio of rest mass and relativistic mass of particle is 0.866025.

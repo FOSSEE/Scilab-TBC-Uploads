@@ -1,0 +1,2 @@
+ac collector voltage in first stage is 216*10^-6 Volts
+ac output voltage across the load resistor is 252*10^-6 Volts

@@ -1,0 +1,6 @@
+# PROBLEM 8 # 
+ Standard formula used 
+ lambda = e*sin(theta)  
+
+ First dark band is formed at angle 2.000001e-03 rad. 
+ First bright band is formed at angle 3.000002e-03 rad.

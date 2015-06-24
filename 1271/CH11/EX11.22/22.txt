@@ -1,0 +1,1 @@
+ Speed of clock is 5.454356e+07 meter/sec.

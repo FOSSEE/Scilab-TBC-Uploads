@@ -1,0 +1,2 @@
+**Sample Problem 4-9**
+Centripetal acceleration of the pilot is 8.473540*g m/s^2 

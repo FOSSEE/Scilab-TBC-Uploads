@@ -1,0 +1,2 @@
+Value of capacitor filter = 193 mu-F 
+Input voltage required = 43.52 V

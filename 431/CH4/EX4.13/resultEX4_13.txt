@@ -1,0 +1,6 @@
+  
+ Example 4.13   
+Output of the motor=14710.000000W
+Power developed by the rotor=15210W
+Rotor I^2R-loss=633.750000W
+Ns=1500rpmNr=1440rpm 

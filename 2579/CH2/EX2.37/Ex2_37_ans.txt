@@ -1,0 +1,1 @@
+ The maximum effective aperture of a short dipole antenna, (Ae)max=0.119*y^2, where y is wavelength 

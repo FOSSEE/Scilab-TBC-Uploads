@@ -1,0 +1,4 @@
+ # Problem 2b # 
+Standard formula used 
+	 M = m - 2.5log(L/L_0) 
+ Capella is  155.688334 times brighter than sun.

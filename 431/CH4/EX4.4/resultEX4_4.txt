@@ -1,0 +1,3 @@
+  
+ Example 4.4   
+Rotor frequency=2Hz 

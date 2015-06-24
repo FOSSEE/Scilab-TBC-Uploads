@@ -1,0 +1,3 @@
+ Resistivity of Cu-Ni-Ag alloy at 300 K (in ohm-m) =    
+ 
+    2.440D-08  

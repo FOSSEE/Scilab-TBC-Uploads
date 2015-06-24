@@ -1,0 +1,4 @@
+ # PROBLEM 4.2 # 
+
+ Coefficient of the friction between tool and the chip = 0.500000, 
+ The ultimate shear stress of the material = 380.000000 N/mm^2 

@@ -1,0 +1,13 @@
+i34=10-8 //KCL at node 4
+v34=5*i34
+v23=40-10 //KVL
+vx=v23
+disp(vx,"vx=")
+ix=4-8 //KCL at node 1
+disp(ix,"ix=")
+i23=ix+10 //KCL at node 2
+R2=vx/i23
+disp(R2,"R2=")
+v14=40+6*ix //KVL
+R1=v14/8
+disp(R1,"R1=")

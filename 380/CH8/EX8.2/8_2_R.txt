@@ -1,0 +1,7 @@
+ rms value of excitation voltage (in Volts)=   
+ 
+    525.89024  
+ 
+ power developed by motor (in Kilo-Watts)=   
+ 
+    37.819219 

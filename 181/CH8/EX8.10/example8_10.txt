@@ -1,0 +1,4 @@
+(a)The value of Base-1 Resistance of UJT is 100.00 ohm 
+(b)The value of Base-2 Resistance of UJT is 653.59 ohm 
+(c)Circuit resistance of the arrangement is 4.67e+004 ohm 
+ 

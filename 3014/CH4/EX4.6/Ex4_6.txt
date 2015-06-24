@@ -1,0 +1,5 @@
+
+Example 4.6
+ Electronic polarisability is 1.851132e-41Fm^2 
+ Relative permeability is 1.002049 
+

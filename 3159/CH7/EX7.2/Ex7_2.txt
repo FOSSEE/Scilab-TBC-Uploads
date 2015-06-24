@@ -1,0 +1,3 @@
+
+ Example 7.2
+ Minimum number of components in system is 3 

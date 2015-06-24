@@ -1,0 +1,6 @@
+  
+ Probability Getting white ball or black ball will be    
+ 
+ P(B+W)=   
+ 
+    0.75  

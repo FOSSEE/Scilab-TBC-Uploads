@@ -1,0 +1,9 @@
+ Example 8.1
+
+ Part A
+ Critical Radius is : 1.32 nm
+ Activation free energy is : 9.68e-19 J
+
+ Part B
+ Unit cells per paricle are : 137
+ Total no. of atoms per critical nucleus are : 548

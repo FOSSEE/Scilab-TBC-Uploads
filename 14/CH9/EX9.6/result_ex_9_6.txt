@@ -1,0 +1,15 @@
+ Values of P1 and P2 in MW   
+ 
+    290.67857    127.11904  
+ 
+ Increase in fuel cost due to increase in load on plant 1 in $ per hour   
+ 
+    993.23797  
+ 
+ Increase in fuel cost due to increase in load on plant 2 in $ per hour   
+ 
+    871.17469  
+ 
+ The net savings by accounting for transmission loss in scheduling the received load of 384MW in $ per hour is   
+ 
+    122.06328  

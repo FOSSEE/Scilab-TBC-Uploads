@@ -1,0 +1,4 @@
+
+Example 1.32
+ Group velocity of de Broglie waves is 0.996626c  and
+ phase velocity is 1.003385c .

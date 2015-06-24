@@ -1,0 +1,15 @@
+ (a)Currents in sections Oa,Ob and Oc (in amperes)=   
+ 
+    131.21597  
+ 
+  Currents in sections Aa,Bb and Cc (in amperes)=   
+ 
+    524.86388  
+ 
+ (b)Power transformed by transformer action (in Kw)=   
+ 
+    80.  
+ 
+ (c)Power Conducted directly(in Kw)=   
+ 
+    320.  

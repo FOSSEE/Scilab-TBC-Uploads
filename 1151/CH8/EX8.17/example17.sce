@@ -1,0 +1,9 @@
+s=%s;
+A =[-1 1;0 -2];
+B =[1 0 1;0 1 1];
+x =[1 2;1 0;1 1];
+[r c]= size (A)
+p=s*eye(r,c)-A // s*I-A
+q=inv(p)
+c=x*q*B;
+disp(c,"required transfer function =")

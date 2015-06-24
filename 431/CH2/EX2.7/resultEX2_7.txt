@@ -1,0 +1,6 @@
+
+ example 2.7   
+ 
+ flux is constant   
+K1=0.360000
+ induced emf at 600rpm is=216 V 

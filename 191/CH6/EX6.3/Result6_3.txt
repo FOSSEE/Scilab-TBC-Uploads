@@ -1,0 +1,27 @@
+  
+ Retangular Rule :    
+ 
+    0.  
+ 
+ Trapezoidal Rule :    
+ 
+    0.218090  
+ 
+ Simpson's Rule :    
+ 
+    0.262662  
+ 
+ Simpson's 3/8 Rule :    
+ 
+    0.262553  
+ 
+ The exact value of intergation is :   
+ 
+    0.262467  
+ 
+ thus corresponding errors are :    
+ 
+    0.262467  
+    0.044378  
+  - 0.000194  
+  - 0.000086  

@@ -1,0 +1,11 @@
+ 
+
+
+ |VR|line = 241 kV
+ |Is| = 151 A
+
+ Maximum permissible length of the line = 338 km
+
+ Maximum permissible frequency = 57.9 Hz
+
+

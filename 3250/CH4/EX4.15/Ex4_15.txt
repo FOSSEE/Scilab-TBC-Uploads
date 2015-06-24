@@ -1,0 +1,4 @@
+
+ # PROBLEM 4.15 # 
+ 
+ Power consumption = 87.697869 W. 

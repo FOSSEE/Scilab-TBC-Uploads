@@ -1,0 +1,6 @@
+# PROBLEM 14 # 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+
+ Fringe width is 0.000198 cm.

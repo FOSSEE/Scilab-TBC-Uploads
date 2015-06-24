@@ -1,0 +1,5 @@
+ # PROBLEM 2 # 
+Standard formula used 
+ h*c/lambda = eV 
+
+ Planck constant is 6.624000e-34 J sec.

@@ -1,0 +1,2 @@
+**Sample Probelm 18-1**
+The actual angle at which source is present, is 13.382101degree 

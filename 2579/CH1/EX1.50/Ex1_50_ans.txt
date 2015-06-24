@@ -1,0 +1,2 @@
+ The expression of total electric field amplidude, Ex=(60*Im/r)*(cos(pi/2.cos(x))/sin(x))
+ The value of the average power= 4.562500 watts

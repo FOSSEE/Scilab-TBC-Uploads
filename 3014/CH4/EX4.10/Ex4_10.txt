@@ -1,0 +1,4 @@
+
+Example 4.10
+ Relative permittivity is 27.106393
+ Electrical susceptibility is 2.311460e-10 C^2/N/m^2

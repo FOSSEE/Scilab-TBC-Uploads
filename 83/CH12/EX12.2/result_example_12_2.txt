@@ -1,0 +1,7 @@
+ 
+
+ Steady state power limit without reactor = 0.48980 pu
+
+ Steady state power limit with capacitive reactor = 1.24352 pu
+
+ Steady state power limit with inductive reactor = 0.30496 pu 

@@ -1,0 +1,34 @@
+Total resistance = 25 ohm 
+
+Total reactance = 80 ohm 
+
+Total susceptance = 0 ohm 
+
+Recieving end voltage = 66000 V 
+
+Load current = 284 A 
+
+Vr phasor = 66000.00+j0.00 
+
+Load current phasor = 227.27+j-170.45 
+
+Capacitive current = j92.40 
+
+(i) Sending end current = 227.27+j-78.05 
+    Magnitude = 240 V 
+
+(ii) Voltage drop = 11926.18+j16230.45 
+     Sending end voltage = 77926.18+j16230.45 
+     Magnitude of Vs = 79598 V 
+
+(iii) % Regulation = 20.60 % 
+
+(iv) Phase angle between Vr and Ir = 18.95 degrees 
+
+     Phase angle between Vr and Vs = 11.77 degrees 
+
+     Supply power factor angle = 30.72 degrees 
+
+     Supply power factor = 0.86 lag 
+
+

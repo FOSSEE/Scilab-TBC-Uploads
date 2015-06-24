@@ -1,0 +1,9 @@
+ 
+ torque (in H.P.)=   
+ 
+    15.985455  
+ 
+ efficiency of the motor(in %)=   
+ 
+    58.786509  
+ 

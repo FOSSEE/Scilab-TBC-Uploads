@@ -1,0 +1,5 @@
+ # PROBLEM 23 # 
+Standard formula used 
+  delta_lambda = (h / (m * c) * (1 - cos(theta))) 
+
+ Compton shift is 0.024249 Angstrom

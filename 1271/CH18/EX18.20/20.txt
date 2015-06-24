@@ -1,0 +1,5 @@
+ # PROBLEM 20 # 
+Standard formula used 
+  M = V*d 
+
+ Energy loss per hour is 6.000000e+05 J.

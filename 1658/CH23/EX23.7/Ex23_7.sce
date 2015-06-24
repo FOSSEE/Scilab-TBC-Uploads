@@ -1,0 +1,11 @@
+clc;
+hfe=100;
+B=100;
+BD=100**2;
+RE=1*10**3;
+hie=1*10**3;
+ri=10**3;
+Ri=ri+BD*RE;
+disp('Mohm',Ri*10**-6,"Ri=");
+Ro=ri/BD;
+disp('ohm',Ro*1,"Ro=");

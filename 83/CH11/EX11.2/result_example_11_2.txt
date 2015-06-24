@@ -1,0 +1,11 @@
+ 
+
+Fault current is given by  If  =
+ 
+    2.8234079 - 0.7544381i  
+
+
+Current through grounding resistor Ifg=3.07kA
+
+Voltage across grounding resistor Vgr=6.14kV
+

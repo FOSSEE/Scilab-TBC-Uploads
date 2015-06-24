@@ -1,0 +1,5 @@
+  
+ Exa-12.2   
+The value of mean radius for C is: 2.75 fm
+The value of mean radius for C is: 4.95 fm
+The value of mean radius for C is: 7.12 fm

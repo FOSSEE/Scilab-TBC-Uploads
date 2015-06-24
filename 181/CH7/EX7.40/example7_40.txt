@@ -1,0 +1,2 @@
+Av after neglecting capacitance = -14.29
+Av after considering capacitance = -11.01 

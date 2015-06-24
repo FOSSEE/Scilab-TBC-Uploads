@@ -1,0 +1,8 @@
+# PROBLEM 22 # 
+
+ Standard formula used 
+ 2*mu*t*cos(r) = n*lambda
+
+ Least thickness of sheet for 
+ Black : 2.075000e-04 mm 
+ Bright: 1.037500e-04 mm.

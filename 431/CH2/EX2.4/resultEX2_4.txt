@@ -1,0 +1,3 @@
+example 2.4   
+magnitude of flux at the end of 15sec is 0.100000 wb
+induced emf in the field coil= 800 volts 

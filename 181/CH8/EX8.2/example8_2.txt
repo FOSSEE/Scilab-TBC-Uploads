@@ -1,0 +1,3 @@
+(a) i = 9.990e-003 A
+Since the Gate current is more than Latching Current, SCR will get fired 
+ 

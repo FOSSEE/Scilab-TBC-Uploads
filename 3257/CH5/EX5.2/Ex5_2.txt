@@ -1,0 +1,4 @@
+ 
+ Example 5.2
+ Resultant velocity is 2.05 m/sec 
+ Reynolds number is 9833 

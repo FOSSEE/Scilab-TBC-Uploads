@@ -1,0 +1,11 @@
+ 
+
+Pmax1=2.0 PU	 Pmax2=0.50 PU	 Pmax3=1.50 PU
+
+Delta0=0.524 rad
+
+Delta_max=2.412 rad
+
+Delta_cr=1.227 rad =70.29 deg
+
+

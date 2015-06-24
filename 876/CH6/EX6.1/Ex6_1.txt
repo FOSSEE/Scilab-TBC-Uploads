@@ -1,0 +1,8 @@
+(a)output voltage(in V)=   
+ 
+  - 4.6875  
+ 
+ (b)output voltage(in V)=   
+ 
+  - 3.75  
+ 

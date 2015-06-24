@@ -1,0 +1,854 @@
+22#NANOPHYSICS#22.1#of The ratio of the value of Nb divided by Ns of spherical particle and nanoparticle#example22_1.sce#1271/CH22/EX22.1/example22_1.sce#S##75969
+22#NANOPHYSICS#22.1#of The ratio of the value of Nb divided by Ns of spherical particle and nanoparticle#1.txt#1271/CH22/EX22.1/1.txt#R##75970
+20#X RAY#20.9#Calculation of Number of electrons striking the anode#example20_9.sce#1271/CH20/EX20.9/example20_9.sce#S##75947
+20#X RAY#20.9#Calculation of Number of electrons striking the anode#9.txt#1271/CH20/EX20.9/9.txt#R##75948
+20#X RAY#20.8#Calculation of Number of electrons striking the anode and Minimum wavelength#example20_8.sce#1271/CH20/EX20.8/example20_8.sce#S##75945
+20#X RAY#20.8#Calculation of Number of electrons striking the anode and Minimum wavelength#8.txt#1271/CH20/EX20.8/8.txt#R##75946
+20#X RAY#20.7#Calculation of Number of electrons striking the target and Speed of electrons#example20_7.sce#1271/CH20/EX20.7/example20_7.sce#S##75943
+20#X RAY#20.7#Calculation of Number of electrons striking the target and Speed of electrons#7.txt#1271/CH20/EX20.7/7.txt#R##75944
+20#X RAY#20.6#Calculation of Highest frequency and Minimum wavelength#example20_6.sce#1271/CH20/EX20.6/example20_6.sce#S##75941
+20#X RAY#20.6#Calculation of Highest frequency and Minimum wavelength#6.txt#1271/CH20/EX20.6/6.txt#R##75942
+20#X RAY#20.5#Calculation of Velocity of electron#example20_5.sce#1271/CH20/EX20.5/example20_5.sce#S##75939
+20#X RAY#20.5#Calculation of Velocity of electron#5.txt#1271/CH20/EX20.5/5.txt#R##75940
+20#X RAY#20.4#Calculation of Maximum speed of electron#example20_4.sce#1271/CH20/EX20.4/example20_4.sce#S##75937
+20#X RAY#20.4#Calculation of Maximum speed of electron#4.txt#1271/CH20/EX20.4/4.txt#R##75938
+20#X RAY#20.3#Calculation of Minimum wavelength#example20_3.sce#1271/CH20/EX20.3/example20_3.sce#S##75935
+20#X RAY#20.3#Calculation of Minimum wavelength#3.txt#1271/CH20/EX20.3/3.txt#R##75936
+20#X RAY#20.2#Calculation of Planck constant #example20_2.sce#1271/CH20/EX20.2/example20_2.sce#S##75933
+20#X RAY#20.2#Calculation of Planck constant #2.txt#1271/CH20/EX20.2/2.txt#R##75934
+20#X RAY#20.19#Calculation of Energy and Wavelength of xray#example20_19.sce#1271/CH20/EX20.19/example20_19.sce#S##75965
+20#X RAY#20.19#Calculation of Energy and Wavelength of xray#19.txt#1271/CH20/EX20.19/19.txt#R##75966
+20#X RAY#20.18#Calculation of Frequency of k line#example20_18.sce#1271/CH20/EX20.18/example20_18.sce#S##75963
+20#X RAY#20.18#Calculation of Frequency of k line#18.txt#1271/CH20/EX20.18/18.txt#R##75964
+20#X RAY#20.17#Calculation of Ionization potential of K shell electron of Cu#example20_17.sce#1271/CH20/EX20.17/example20_17.sce#S##75961
+20#X RAY#20.17#Calculation of Ionization potential of K shell electron of Cu#17.txt#1271/CH20/EX20.17/17.txt#R##75962
+20#X RAY#20.16#Calculation of Wavelength of xray#example20_16.sce#1271/CH20/EX20.16/example20_16.sce#S##75959
+20#X RAY#20.16#Calculation of Wavelength of xray#16.txt#1271/CH20/EX20.16/16.txt#R##75960
+20#X RAY#20.15#Calculation of Wavelength#example20_15.sce#1271/CH20/EX20.15/example20_15.sce#S##75957
+20#X RAY#20.15#Calculation of Wavelength#15.txt#1271/CH20/EX20.15/15.txt#R##75958
+20#X RAY#20.14#Calculation of Wavelength of K line#example20_14.sce#1271/CH20/EX20.14/example20_14.sce#S##75955
+20#X RAY#20.14#Calculation of Wavelength of K line#14.txt#1271/CH20/EX20.14/14.txt#R##75956
+20#X RAY#20.13#Calculation of the value of the ratio of plank constant and charge of electron#example20_13.sce#1271/CH20/EX20.13/example20_13.sce#S##75967
+20#X RAY#20.13#Calculation of the value of the ratio of plank constant and charge of electron#13.txt#1271/CH20/EX20.13/13.txt#R##75968
+20#X RAY#20.12#Calculation of Excitation potential#example20_12.sce#1271/CH20/EX20.12/example20_12.sce#S##75953
+20#X RAY#20.12#Calculation of Excitation potential#12.txt#1271/CH20/EX20.12/12.txt#R##75954
+20#X RAY#20.11#Calculation of Planck constant#example20_11.sce#1271/CH20/EX20.11/example20_11.sce#S##75951
+20#X RAY#20.11#Calculation of Planck constant#11.txt#1271/CH20/EX20.11/11.txt#R##75952
+20#X RAY#20.10#Calculation of Applied voltage#example20_10.sce#1271/CH20/EX20.10/example20_10.sce#S##75949
+20#X RAY#20.10#Calculation of Applied voltage#10.txt#1271/CH20/EX20.10/10.txt#R##75950
+20#X RAY#20.1#Calculation of Max speed and Shortest wavelength#example20_1.sce#1271/CH20/EX20.1/example20_1.sce#S##75931
+20#X RAY#20.1#Calculation of Max speed and Shortest wavelength#1.txt#1271/CH20/EX20.1/1.txt#R##75932
+19#SUPERCONDUCTIVITY#19.8#Calculation of Energy gap#example19_8.sce#1271/CH19/EX19.8/example19_8.sce#S##75929
+19#SUPERCONDUCTIVITY#19.8#Calculation of Energy gap#8.txt#1271/CH19/EX19.8/8.txt#R##75930
+19#SUPERCONDUCTIVITY#19.7#Calculation of Critical temperature#example19_7.sce#1271/CH19/EX19.7/example19_7.sce#S##75927
+19#SUPERCONDUCTIVITY#19.7#Calculation of Critical temperature#7.txt#1271/CH19/EX19.7/7.txt#R##75928
+19#SUPERCONDUCTIVITY#19.6#Calculation of Critical temperature#example19_6.sce#1271/CH19/EX19.6/example19_6.sce#S##75925
+19#SUPERCONDUCTIVITY#19.6#Calculation of Critical temperature#6.txt#1271/CH19/EX19.6/6.txt#R##75926
+19#SUPERCONDUCTIVITY#19.5#Calculation of Penetration depth#example19_5.sce#1271/CH19/EX19.5/example19_5.sce#S##75923
+19#SUPERCONDUCTIVITY#19.5#Calculation of Penetration depth#5.txt#1271/CH19/EX19.5/5.txt#R##75924
+19#SUPERCONDUCTIVITY#19.4#Calculation of Critical temperature#example19_4.sce#1271/CH19/EX19.4/example19_4.sce#S##75921
+19#SUPERCONDUCTIVITY#19.4#Calculation of Critical temperature#4.txt#1271/CH19/EX19.4/4.txt#R##75922
+19#SUPERCONDUCTIVITY#19.3#Calculation of Critical current density#example19_3.sce#1271/CH19/EX19.3/example19_3.sce#S##75919
+19#SUPERCONDUCTIVITY#19.3#Calculation of Critical current density#3.txt#1271/CH19/EX19.3/3.txt#R##75920
+19#SUPERCONDUCTIVITY#19.2#Calculation of Transition temperature and Critical field at temperate#example19_2.sce#1271/CH19/EX19.2/example19_2.sce#S##75917
+19#SUPERCONDUCTIVITY#19.2#Calculation of Transition temperature and Critical field at temperate#2.txt#1271/CH19/EX19.2/2.txt#R##75918
+19#SUPERCONDUCTIVITY#19.1#Calculation of Penetration depth#example19_1.sce#1271/CH19/EX19.1/example19_1.sce#S##75915
+19#SUPERCONDUCTIVITY#19.1#Calculation of Penetration depth#1.txt#1271/CH19/EX19.1/1.txt#R##75916
+18#MAGNETIC PROPERTIES OF SOLIDS#18.9#Calculation of Permeability and Susceptibility#example18_9.sce#1271/CH18/EX18.9/example18_9.sce#S##75889
+18#MAGNETIC PROPERTIES OF SOLIDS#18.9#Calculation of Permeability and Susceptibility#9.txt#1271/CH18/EX18.9/9.txt#R##75890
+18#MAGNETIC PROPERTIES OF SOLIDS#18.8#Calculation of Diamagnetic susceptibility#example18_8.sce#1271/CH18/EX18.8/example18_8.sce#S##82102
+18#MAGNETIC PROPERTIES OF SOLIDS#18.8#Calculation of Diamagnetic susceptibility#8.txt#1271/CH18/EX18.8/8.txt#R##82103
+18#MAGNETIC PROPERTIES OF SOLIDS#18.7#Calculation of Magnetic susceptibility and Relative permeability#example18_7.sce#1271/CH18/EX18.7/example18_7.sce#S##75885
+18#MAGNETIC PROPERTIES OF SOLIDS#18.7#Calculation of Magnetic susceptibility and Relative permeability#7.txt#1271/CH18/EX18.7/7.txt#R##75886
+18#MAGNETIC PROPERTIES OF SOLIDS#18.6#Calculation of Absolute permeability and Relative permeability#example18_6.sce#1271/CH18/EX18.6/example18_6.sce#S##75883
+18#MAGNETIC PROPERTIES OF SOLIDS#18.6#Calculation of Absolute permeability and Relative permeability#6.txt#1271/CH18/EX18.6/6.txt#R##75884
+18#MAGNETIC PROPERTIES OF SOLIDS#18.5#Calculation of Permeability of aluminium#example18_5.sce#1271/CH18/EX18.5/example18_5.sce#S##75881
+18#MAGNETIC PROPERTIES OF SOLIDS#18.5#Calculation of Permeability of aluminium#5.txt#1271/CH18/EX18.5/5.txt#R##75882
+18#MAGNETIC PROPERTIES OF SOLIDS#18.4#Calculation of Magnetization and Magnetic flux density #example18_4.sce#1271/CH18/EX18.4/example18_4.sce#S##75879
+18#MAGNETIC PROPERTIES OF SOLIDS#18.4#Calculation of Magnetization and Magnetic flux density #4.txt#1271/CH18/EX18.4/4.txt#R##75880
+18#MAGNETIC PROPERTIES OF SOLIDS#18.3#Calculation of Percentage increase in magnetic induction#example18_3.sce#1271/CH18/EX18.3/example18_3.sce#S##75877
+18#MAGNETIC PROPERTIES OF SOLIDS#18.3#Calculation of Percentage increase in magnetic induction#3.txt#1271/CH18/EX18.3/3.txt#R##75878
+18#MAGNETIC PROPERTIES OF SOLIDS#18.21#Calculation of Hysteresis loss#example18_21.sce#1271/CH18/EX18.21/example18_21.sce#S##75913
+18#MAGNETIC PROPERTIES OF SOLIDS#18.21#Calculation of Hysteresis loss#21.txt#1271/CH18/EX18.21/21.txt#R##75914
+18#MAGNETIC PROPERTIES OF SOLIDS#18.20#Calculation of Energy loss#example18_20.sce#1271/CH18/EX18.20/example18_20.sce#S##75911
+18#MAGNETIC PROPERTIES OF SOLIDS#18.20#Calculation of Energy loss#20.txt#1271/CH18/EX18.20/20.txt#R##75912
+18#MAGNETIC PROPERTIES OF SOLIDS#18.2#Calculation of Magnetization and Flux density and Relative permeability#example18_2.sce#1271/CH18/EX18.2/example18_2.sce#S##75875
+18#MAGNETIC PROPERTIES OF SOLIDS#18.2#Calculation of Magnetization and Flux density and Relative permeability#2.txt#1271/CH18/EX18.2/2.txt#R##75876
+18#MAGNETIC PROPERTIES OF SOLIDS#18.19#Calculation of Relative permeability#example18_19.sce#1271/CH18/EX18.19/example18_19.sce#S##75909
+18#MAGNETIC PROPERTIES OF SOLIDS#18.19#Calculation of Relative permeability#19.txt#1271/CH18/EX18.19/19.txt#R##75910
+18#MAGNETIC PROPERTIES OF SOLIDS#18.18#Calculation of Permeability and Susceptibility#example18_18.sce#1271/CH18/EX18.18/example18_18.sce#S##75907
+18#MAGNETIC PROPERTIES OF SOLIDS#18.18#Calculation of Permeability and Susceptibility#18.txt#1271/CH18/EX18.18/18.txt#R##75908
+18#MAGNETIC PROPERTIES OF SOLIDS#18.17#Calculation of Number of turns#example18_17.sce#1271/CH18/EX18.17/example18_17.sce#S##75905
+18#MAGNETIC PROPERTIES OF SOLIDS#18.17#Calculation of Number of turns#17.txt#1271/CH18/EX18.17/17.txt#R##75906
+18#MAGNETIC PROPERTIES OF SOLIDS#18.16#Calculation of Current in solenoid#example18_16.sce#1271/CH18/EX18.16/example18_16.sce#S##75903
+18#MAGNETIC PROPERTIES OF SOLIDS#18.16#Calculation of Current in solenoid#16.txt#1271/CH18/EX18.16/16.txt#R##75904
+18#MAGNETIC PROPERTIES OF SOLIDS#18.15#Calculation of Total loss of energy #example18_15.sce#1271/CH18/EX18.15/example18_15.sce#S##75901
+18#MAGNETIC PROPERTIES OF SOLIDS#18.15#Calculation of Total loss of energy #15.txt#1271/CH18/EX18.15/15.txt#R##75902
+18#MAGNETIC PROPERTIES OF SOLIDS#18.14#Calculation of Magnetization#example18_14.sce#1271/CH18/EX18.14/example18_14.sce#S##75899
+18#MAGNETIC PROPERTIES OF SOLIDS#18.14#Calculation of Magnetization#14.txt#1271/CH18/EX18.14/14.txt#R##75900
+18#MAGNETIC PROPERTIES OF SOLIDS#18.13#Calculation of Susceptibility#example18_13.sce#1271/CH18/EX18.13/example18_13.sce#S##75897
+18#MAGNETIC PROPERTIES OF SOLIDS#18.13#Calculation of Susceptibility#13.txt#1271/CH18/EX18.13/13.txt#R##75898
+18#MAGNETIC PROPERTIES OF SOLIDS#18.12#Calculation of Radius of  atom#example18_12.sce#1271/CH18/EX18.12/example18_12.sce#S##75895
+18#MAGNETIC PROPERTIES OF SOLIDS#18.12#Calculation of Radius of  atom#12.txt#1271/CH18/EX18.12/12.txt#R##75896
+18#MAGNETIC PROPERTIES OF SOLIDS#18.11#Calculation of Current through the winding#example18_11.sce#1271/CH18/EX18.11/example18_11.sce#S##75893
+18#MAGNETIC PROPERTIES OF SOLIDS#18.11#Calculation of Current through the winding#11.txt#1271/CH18/EX18.11/11.txt#R##75894
+18#MAGNETIC PROPERTIES OF SOLIDS#18.10#Calculation of Number of ampere turns#example18_10.sce#1271/CH18/EX18.10/example18_10.sce#S##75891
+18#MAGNETIC PROPERTIES OF SOLIDS#18.10#Calculation of Number of ampere turns#10.txt#1271/CH18/EX18.10/10.txt#R##75892
+18#MAGNETIC PROPERTIES OF SOLIDS#18.1#Calculation of Magnetic moment and Bohr magneton#example18_1.sce#1271/CH18/EX18.1/example18_1.sce#S##75873
+18#MAGNETIC PROPERTIES OF SOLIDS#18.1#Calculation of Magnetic moment and Bohr magneton#1.txt#1271/CH18/EX18.1/1.txt#R##75874
+17#BAND THEORY OF SOLIDS#17.6#Calculation of Hall coefficient#example17_6.sce#1271/CH17/EX17.6/example17_6.sce#S##75871
+17#BAND THEORY OF SOLIDS#17.6#Calculation of Hall coefficient#6.txt#1271/CH17/EX17.6/6.txt#R##75872
+17#BAND THEORY OF SOLIDS#17.5#Calculation of Hall coefficient#example17_5.sce#1271/CH17/EX17.5/example17_5.sce#S##75869
+17#BAND THEORY OF SOLIDS#17.5#Calculation of Hall coefficient#5.txt#1271/CH17/EX17.5/5.txt#R##75870
+17#BAND THEORY OF SOLIDS#17.4#Calculation of Density of holes and electron#example17_4.sce#1271/CH17/EX17.4/example17_4.sce#S##75867
+17#BAND THEORY OF SOLIDS#17.4#Calculation of Density of holes and electron#4.txt#1271/CH17/EX17.4/4.txt#R##75868
+17#BAND THEORY OF SOLIDS#17.3#Calculation of New position of Fermi level#example17_3.sce#1271/CH17/EX17.3/example17_3.sce#S##75865
+17#BAND THEORY OF SOLIDS#17.3#Calculation of New position of Fermi level#3.txt#1271/CH17/EX17.3/3.txt#R##75866
+17#BAND THEORY OF SOLIDS#17.2#Calculation of Position of Fermi level#example17_2.sce#1271/CH17/EX17.2/example17_2.sce#S##75863
+17#BAND THEORY OF SOLIDS#17.2#Calculation of Position of Fermi level#2.txt#1271/CH17/EX17.2/2.txt#R##75864
+17#BAND THEORY OF SOLIDS#17.1#Calculation of Electron momentum value at the sides of first Brillion zone and Enrgy of free electron#example17_1.sce#1271/CH17/EX17.1/example17_1.sce#S##75861
+17#BAND THEORY OF SOLIDS#17.1#Calculation of Electron momentum value at the sides of first Brillion zone and Enrgy of free electron#1.txt#1271/CH17/EX17.1/1.txt#R##75862
+16#FREE ELECTRON THEORY#16.9#Calculation of Fermi Energy #example16_9.sce#1271/CH16/EX16.9/example16_9.sce#S##75857
+16#FREE ELECTRON THEORY#16.9#Calculation of Fermi Energy #9.txt#1271/CH16/EX16.9/9.txt#R##75858
+16#FREE ELECTRON THEORY#16.8#Calculation of Current density and Drift velocity#example16_8.sce#1271/CH16/EX16.8/example16_8.sce#S##75855
+16#FREE ELECTRON THEORY#16.8#Calculation of Current density and Drift velocity#8.txt#1271/CH16/EX16.8/8.txt#R##75856
+16#FREE ELECTRON THEORY#16.7#Calculation of Drift velocity of electron#example16_7.sce#1271/CH16/EX16.7/example16_7.sce#S##75853
+16#FREE ELECTRON THEORY#16.7#Calculation of Drift velocity of electron#7.txt#1271/CH16/EX16.7/7.txt#R##75854
+16#FREE ELECTRON THEORY#16.6#Calculation of Fermi energy and Fermi vector and Total kinetic energy#example16_6.sce#1271/CH16/EX16.6/example16_6.sce#S##82100
+16#FREE ELECTRON THEORY#16.6#Calculation of Fermi energy and Fermi vector and Total kinetic energy#6.txt#1271/CH16/EX16.6/6.txt#R##82101
+16#FREE ELECTRON THEORY#16.5#Calculation of Fermi energy#example16_5.sce#1271/CH16/EX16.5/example16_5.sce#S##82098
+16#FREE ELECTRON THEORY#16.5#Calculation of Fermi energy#5.txt#1271/CH16/EX16.5/5.txt#R##82099
+16#FREE ELECTRON THEORY#16.4#Calculation of Fermi energy and Average energy#example16_4.sce#1271/CH16/EX16.4/example16_4.sce#S##82096
+16#FREE ELECTRON THEORY#16.4#Calculation of Fermi energy and Average energy#4.txt#1271/CH16/EX16.4/4.txt#R##82097
+16#FREE ELECTRON THEORY#16.3#Calculation of Fermi energy and Speed of electron#example16_3.sce#1271/CH16/EX16.3/example16_3.sce#S##75845
+16#FREE ELECTRON THEORY#16.3#Calculation of Fermi energy and Speed of electron#3.txt#1271/CH16/EX16.3/3.txt#R##75846
+16#FREE ELECTRON THEORY#16.2#Calculation of Average energy of electron and Speed of electron#example16_2.sce#1271/CH16/EX16.2/example16_2.sce#S##75843
+16#FREE ELECTRON THEORY#16.2#Calculation of Average energy of electron and Speed of electron#2.txt#1271/CH16/EX16.2/2.txt#R##75844
+16#FREE ELECTRON THEORY#16.10#Calculation of Energy difference#example16_10.sce#1271/CH16/EX16.10/example16_10.sce#S##75859
+16#FREE ELECTRON THEORY#16.10#Calculation of Energy difference#10.txt#1271/CH16/EX16.10/10.txt#R##75860
+16#FREE ELECTRON THEORY#16.1#Calculation of Average energy of electron and Speed of electron#example16_1.sce#1271/CH16/EX16.1/example16_1.sce#S##75841
+16#FREE ELECTRON THEORY#16.1#Calculation of Average energy of electron and Speed of electron#1.txt#1271/CH16/EX16.1/1.txt#R##75842
+15#QUANTUM MECHANICS#15.9#Calculation of Uncertainty in determining the position#example15_9.sce#1271/CH15/EX15.9/example15_9.sce#S##75811
+15#QUANTUM MECHANICS#15.9#Calculation of Uncertainty in determining the position#9.txt#1271/CH15/EX15.9/9.txt#R##75812
+15#QUANTUM MECHANICS#15.8#Calculation of Uncertainty in determining the position of electron#example15_8.sce#1271/CH15/EX15.8/example15_8.sce#S##75809
+15#QUANTUM MECHANICS#15.8#Calculation of Uncertainty in determining the position of electron#8.txt#1271/CH15/EX15.8/8.txt#R##75810
+15#QUANTUM MECHANICS#15.7#Calculation of Minimum energy of electron #example15_7.sce#1271/CH15/EX15.7/example15_7.sce#S##75807
+15#QUANTUM MECHANICS#15.7#Calculation of Minimum energy of electron #7.txt#1271/CH15/EX15.7/7.txt#R##75808
+15#QUANTUM MECHANICS#15.6#Calculation of Uncertainty in position#example15_6.sce#1271/CH15/EX15.6/example15_6.sce#S##75805
+15#QUANTUM MECHANICS#15.6#Calculation of Uncertainty in position#6.txt#1271/CH15/EX15.6/6.txt#R##75806
+15#QUANTUM MECHANICS#15.5#Calculation of Uncertainty in momentum#example15_5.sce#1271/CH15/EX15.5/example15_5.sce#S##75803
+15#QUANTUM MECHANICS#15.5#Calculation of Uncertainty in momentum#5.txt#1271/CH15/EX15.5/5.txt#R##75804
+15#QUANTUM MECHANICS#15.4#Calculation of Uncertainty in position#example15_4.sce#1271/CH15/EX15.4/example15_4.sce#S##75801
+15#QUANTUM MECHANICS#15.4#Calculation of Uncertainty in position#4.txt#1271/CH15/EX15.4/4.txt#R##75802
+15#QUANTUM MECHANICS#15.3#Calculation of Percentage of uncertainty in momentum#example15_3.sce#1271/CH15/EX15.3/example15_3.sce#S##75799
+15#QUANTUM MECHANICS#15.3#Calculation of Percentage of uncertainty in momentum#3.txt#1271/CH15/EX15.3/3.txt#R##75800
+15#QUANTUM MECHANICS#15.23#Calculation of Energy levels of electron and Energy levels of marble#example15_23.sce#1271/CH15/EX15.23/example15_23.sce#S##75839
+15#QUANTUM MECHANICS#15.23#Calculation of Energy levels of electron and Energy levels of marble#23.txt#1271/CH15/EX15.23/23.txt#R##75840
+15#QUANTUM MECHANICS#15.22#Calculation of Order of exited state#example15_22.sce#1271/CH15/EX15.22/example15_22.sce#S##93620
+15#QUANTUM MECHANICS#15.22#Calculation of Order of exited state#22.txt#1271/CH15/EX15.22/22.txt#R##93621
+15#QUANTUM MECHANICS#15.21#Calculation of Energy Eigen values#example15_21.sce#1271/CH15/EX15.21/example15_21.sce#S##75835
+15#QUANTUM MECHANICS#15.21#Calculation of Energy Eigen values#21.txt#1271/CH15/EX15.21/21.txt#R##75836
+15#QUANTUM MECHANICS#15.20#Calculation of Energy Eigen value of electron and deBroglie wavelength#example15_20.sce#1271/CH15/EX15.20/example15_20.sce#S##75833
+15#QUANTUM MECHANICS#15.20#Calculation of Energy Eigen value of electron and deBroglie wavelength#20.txt#1271/CH15/EX15.20/20.txt#R##75834
+15#QUANTUM MECHANICS#15.19#Calculation of Energy of electron and Momentum of electron#example15_19.sce#1271/CH15/EX15.19/example15_19.sce#S##75831
+15#QUANTUM MECHANICS#15.19#Calculation of Energy of electron and Momentum of electron#19.txt#1271/CH15/EX15.19/19.txt#R##75832
+15#QUANTUM MECHANICS#15.18#Calculation of Lowest energy of neutron confined in the nucleus#example15_18.sce#1271/CH15/EX15.18/example15_18.sce#S##75829
+15#QUANTUM MECHANICS#15.18#Calculation of Lowest energy of neutron confined in the nucleus#18.txt#1271/CH15/EX15.18/18.txt#R##75830
+15#QUANTUM MECHANICS#15.17#Calculation of Energy difference#example15_17.sce#1271/CH15/EX15.17/example15_17.sce#S##75827
+15#QUANTUM MECHANICS#15.17#Calculation of Energy difference#17.txt#1271/CH15/EX15.17/17.txt#R##75828
+15#QUANTUM MECHANICS#15.16#Calculation of Energy difference#example15_16.sce#1271/CH15/EX15.16/example15_16.sce#S##75825
+15#QUANTUM MECHANICS#15.16#Calculation of Energy difference#16.txt#1271/CH15/EX15.16/16.txt#R##75826
+15#QUANTUM MECHANICS#15.15#Calculation of Energy difference#example15_15.sce#1271/CH15/EX15.15/example15_15.sce#S##75823
+15#QUANTUM MECHANICS#15.15#Calculation of Energy difference#15.txt#1271/CH15/EX15.15/15.txt#R##75824
+15#QUANTUM MECHANICS#15.14#Calculation of Energy of electron#example15_14.sce#1271/CH15/EX15.14/example15_14.sce#S##75821
+15#QUANTUM MECHANICS#15.14#Calculation of Energy of electron#14.txt#1271/CH15/EX15.14/14.txt#R##75822
+15#QUANTUM MECHANICS#15.13#Calculation of Ratio of uncertainty in velocity of a proton and an electron#example15_13.sce#1271/CH15/EX15.13/example15_13.sce#S##75819
+15#QUANTUM MECHANICS#15.13#Calculation of Ratio of uncertainty in velocity of a proton and an electron#13.txt#1271/CH15/EX15.13/13.txt#R##75820
+15#QUANTUM MECHANICS#15.12#Calculation of Minimum uncertainty in frequency#example15_12.sce#1271/CH15/EX15.12/example15_12.sce#S##75817
+15#QUANTUM MECHANICS#15.12#Calculation of Minimum uncertainty in frequency#12.txt#1271/CH15/EX15.12/12.txt#R##75818
+15#QUANTUM MECHANICS#15.11#Calculation of Minimum error in measurement of the energy#example15_11.sce#1271/CH15/EX15.11/example15_11.sce#S##75815
+15#QUANTUM MECHANICS#15.11#Calculation of Minimum error in measurement of the energy#11.txt#1271/CH15/EX15.11/11.txt#R##75816
+15#QUANTUM MECHANICS#15.10#Calculation of Uncertainty in determining the position#example15_10.sce#1271/CH15/EX15.10/example15_10.sce#S##75813
+15#QUANTUM MECHANICS#15.10#Calculation of Uncertainty in determining the position#10.txt#1271/CH15/EX15.10/10.txt#R##75814
+15#QUANTUM MECHANICS#15.1#Calculation of Percentage of uncertainty in momentum#example15_1.sce#1271/CH15/EX15.1/example15_1.sce#S##75797
+15#QUANTUM MECHANICS#15.1#Calculation of Percentage of uncertainty in momentum#1.txt#1271/CH15/EX15.1/1.txt#R##75798
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.9#Calculation of Work function and Stopping potential and Maximum velocity#example14_9.sce#1271/CH14/EX14.9/example14_9.sce#S##75721
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.9#Calculation of Work function and Stopping potential and Maximum velocity#9.txt#1271/CH14/EX14.9/9.txt#R##75722
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.8#Calculation of Number of photons of yellow light#example14_8.sce#1271/CH14/EX14.8/example14_8.sce#S##75719
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.8#Calculation of Number of photons of yellow light#8.txt#1271/CH14/EX14.8/8.txt#R##75720
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.7#Calculation of Energy received by the eye#example14_7.sce#1271/CH14/EX14.7/example14_7.sce#S##75717
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.7#Calculation of Energy received by the eye#7.txt#1271/CH14/EX14.7/7.txt#R##75718
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.6#Calculation of Energy of an electron#example14_6.sce#1271/CH14/EX14.6/example14_6.sce#S##75715
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.6#Calculation of Energy of an electron#6.txt#1271/CH14/EX14.6/6.txt#R##75716
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.5#Calculation of Wavelength#example14_5.sce#1271/CH14/EX14.5/example14_5.sce#S##75713
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.5#Calculation of Wavelength#5.txt#1271/CH14/EX14.5/5.txt#R##75714
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.47#Calculation of Group velocity and Phase velocity#example14_47.sce#1271/CH14/EX14.47/example14_47.sce#S##75795
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.47#Calculation of Group velocity and Phase velocity#47.txt#1271/CH14/EX14.47/47.txt#R##75796
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.45#Calculation of Ratio of deBroglie wavelengths#example14_45.sce#1271/CH14/EX14.45/example14_45.sce#S##75793
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.45#Calculation of Ratio of deBroglie wavelengths#45.txt#1271/CH14/EX14.45/45.txt#R##75794
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.44#Calculation of deBrogli wavelength#example14_44.sce#1271/CH14/EX14.44/example14_44.sce#S##75791
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.44#Calculation of deBrogli wavelength#44.txt#1271/CH14/EX14.44/44.txt#R##75792
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.43#Calculation of kinetic energy#example14_43.sce#1271/CH14/EX14.43/example14_43.sce#S##75789
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.43#Calculation of kinetic energy#43.txt#1271/CH14/EX14.43/43.txt#R##75790
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.42#Calculation of deBroglie wavelength#example14_42.sce#1271/CH14/EX14.42/example14_42.sce#S##75787
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.42#Calculation of deBroglie wavelength#42.txt#1271/CH14/EX14.42/42.txt#R##75788
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.41#Calculation of Velocity#example14_41.sce#1271/CH14/EX14.41/example14_41.sce#S##75785
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.41#Calculation of Velocity#41.txt#1271/CH14/EX14.41/41.txt#R##75786
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.40#Calculation of Ratio of deBroglie wavelengths#example14_40.sce#1271/CH14/EX14.40/example14_40.sce#S##75783
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.40#Calculation of Ratio of deBroglie wavelengths#40.txt#1271/CH14/EX14.40/40.txt#R##75784
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.4#Calculation of Number of photons of green light#example14_4.sce#1271/CH14/EX14.4/example14_4.sce#S##75711
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.4#Calculation of Number of photons of green light#4.txt#1271/CH14/EX14.4/4.txt#R##75712
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.39#Calculation of Ratio of deBroglie wavelengths#example14_39.sce#1271/CH14/EX14.39/example14_39.sce#S##75781
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.39#Calculation of Ratio of deBroglie wavelengths#39.txt#1271/CH14/EX14.39/39.txt#R##75782
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.38#Calculation of deBroglie wavelength#example14_38.sce#1271/CH14/EX14.38/example14_38.sce#S##75779
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.38#Calculation of deBroglie wavelength#38.txt#1271/CH14/EX14.38/38.txt#R##75780
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.37#Calculation of Energy#example14_37.sce#1271/CH14/EX14.37/example14_37.sce#S##75777
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.37#Calculation of Energy#37.txt#1271/CH14/EX14.37/37.txt#R##75778
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.36#Calculation of deBroglie wavelength#example14_36.sce#1271/CH14/EX14.36/example14_36.sce#S##75775
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.36#Calculation of deBroglie wavelength#36.txt#1271/CH14/EX14.36/36.txt#R##75776
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.35#Calculation of deBroglie wavelength#example14_35.sce#1271/CH14/EX14.35/example14_35.sce#S##75773
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.35#Calculation of deBroglie wavelength#35.txt#1271/CH14/EX14.35/35.txt#R##75774
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.34#Calculation of deBroglie wavelength#example14_34.sce#1271/CH14/EX14.34/example14_34.sce#S##75771
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.34#Calculation of deBroglie wavelength#34.txt#1271/CH14/EX14.34/34.txt#R##75772
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.33#Calculation of Potential difference#example14_33.sce#1271/CH14/EX14.33/example14_33.sce#S##75769
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.33#Calculation of Potential difference#33.txt#1271/CH14/EX14.33/33.txt#R##75770
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.32#Calculation of Wavelength of matter wave #example14_32.sce#1271/CH14/EX14.32/example14_32.sce#S##75767
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.32#Calculation of Wavelength of matter wave #32.txt#1271/CH14/EX14.32/32.txt#R##75768
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.31#Calculation of Wavelength of thermal neutron#example14_31.sce#1271/CH14/EX14.31/example14_31.sce#S##75765
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.31#Calculation of Wavelength of thermal neutron#31.txt#1271/CH14/EX14.31/31.txt#R##75766
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.30#Calculation of deBroglie wavelength#example14_30.sce#1271/CH14/EX14.30/example14_30.sce#S##75763
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.30#Calculation of deBroglie wavelength#30.txt#1271/CH14/EX14.30/30.txt#R##75764
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.3#Calculation of Energy of photon  #example14_3.sce#1271/CH14/EX14.3/example14_3.sce#S##75709
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.3#Calculation of Energy of photon  #3.txt#1271/CH14/EX14.3/3.txt#R##75710
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.29#Calculation of deBroglie wavelength#example14_29.sce#1271/CH14/EX14.29/example14_29.sce#S##75761
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.29#Calculation of deBroglie wavelength#29.txt#1271/CH14/EX14.29/29.txt#R##75762
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.28#Calculation of Wavelength of x ray and Maximum kinetic energy#example14_28.sce#1271/CH14/EX14.28/example14_28.sce#S##75759
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.28#Calculation of Wavelength of x ray and Maximum kinetic energy#28.txt#1271/CH14/EX14.28/28.txt#R##75760
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.27#Calculation of Maximum Compton shift and Kinetic energy#example14_27.sce#1271/CH14/EX14.27/example14_27.sce#S##75757
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.27#Calculation of Maximum Compton shift and Kinetic energy#27.txt#1271/CH14/EX14.27/27.txt#R##75758
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.26#Calculation of Compton shift and Kinetic energy#example14_26.sce#1271/CH14/EX14.26/example14_26.sce#S##75755
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.26#Calculation of Compton shift and Kinetic energy#26.txt#1271/CH14/EX14.26/26.txt#R##75756
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.25#Calculation of Wavelength of incident beam#example14_25.sce#1271/CH14/EX14.25/example14_25.sce#S##75753
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.25#Calculation of Wavelength of incident beam#25.txt#1271/CH14/EX14.25/25.txt#R##75754
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.24#Calculation of Compton shift and Energy of incident beam#example14_24.sce#1271/CH14/EX14.24/example14_24.sce#S##75751
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.24#Calculation of Compton shift and Energy of incident beam#24.txt#1271/CH14/EX14.24/24.txt#R##75752
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.23#Calculation of Compton shift#example14_23.sce#1271/CH14/EX14.23/example14_23.sce#S##75749
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.23#Calculation of Compton shift#23.txt#1271/CH14/EX14.23/23.txt#R##75750
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.22#Calculation of Value of Planck constant#example14_22.sce#1271/CH14/EX14.22/example14_22.sce#S##75747
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.22#Calculation of Value of Planck constant#22.txt#1271/CH14/EX14.22/22.txt#R##75748
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.21#Calculation of Maximum kinetic energy and Number of electrons emitted per sec#example14_21.sce#1271/CH14/EX14.21/example14_21.sce#S##75745
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.21#Calculation of Maximum kinetic energy and Number of electrons emitted per sec#21.txt#1271/CH14/EX14.21/21.txt#R##75746
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.20#Calculation of Threshold wavelength and Incident electromagnetic wavelength#example14_20.sce#1271/CH14/EX14.20/example14_20.sce#S##75743
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.20#Calculation of Threshold wavelength and Incident electromagnetic wavelength#20.txt#1271/CH14/EX14.20/20.txt#R##75744
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.2#Calculation of Number of quanta#example14_2.sce#1271/CH14/EX14.2/example14_2.sce#S##75707
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.2#Calculation of Number of quanta#2.txt#1271/CH14/EX14.2/2.txt#R##75708
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.19#Calculation of Threshold wavelength for photo emission#example14_19.sce#1271/CH14/EX14.19/example14_19.sce#S##75741
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.19#Calculation of Threshold wavelength for photo emission#19.txt#1271/CH14/EX14.19/19.txt#R##75742
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.18#Calculation of Longest wavelength required for photoemission#example14_18.sce#1271/CH14/EX14.18/example14_18.sce#S##75739
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.18#Calculation of Longest wavelength required for photoemission#18.txt#1271/CH14/EX14.18/18.txt#R##75740
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.17#Calculation of Energy of incident photon and Kinetic energy of the emitted electron#example14_17.sce#1271/CH14/EX14.17/example14_17.sce#S##75737
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.17#Calculation of Energy of incident photon and Kinetic energy of the emitted electron#17.txt#1271/CH14/EX14.17/17.txt#R##75738
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.16#Calculation of Wavelength of light#example14_16.sce#1271/CH14/EX14.16/example14_16.sce#S##75735
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.16#Calculation of Wavelength of light#16.txt#1271/CH14/EX14.16/16.txt#R##75736
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.15#Calculation of Stopping potential and Maximum kinetic energy#example14_15.sce#1271/CH14/EX14.15/example14_15.sce#S##75733
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.15#Calculation of Stopping potential and Maximum kinetic energy#15.txt#1271/CH14/EX14.15/15.txt#R##75734
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.14#Calculation of Work function and Maximum energy and Threshold frequency#example14_14.sce#1271/CH14/EX14.14/example14_14.sce#S##75731
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.14#Calculation of Work function and Maximum energy and Threshold frequency#14.txt#1271/CH14/EX14.14/14.txt#R##75732
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.13#Calculation of work function#example14_13.sce#1271/CH14/EX14.13/example14_13.sce#S##75729
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.13#Calculation of work function#13.txt#1271/CH14/EX14.13/13.txt#R##75730
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.12#Calculation of Work function and Maximum energy and Threshold frequency#example14_12.sce#1271/CH14/EX14.12/example14_12.sce#S##93616
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.12#Calculation of Work function and Maximum energy and Threshold frequency#12.txt#1271/CH14/EX14.12/12.txt#R##93617
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.11#Calculation of Work function #example14_11.sce#1271/CH14/EX14.11/example14_11.sce#S##75725
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.11#Calculation of Work function #11.txt#1271/CH14/EX14.11/11.txt#R##75726
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.10#Calculation of Maximum energy of photoelectron#example14_10.sce#1271/CH14/EX14.10/example14_10.sce#S##75723
+14#DEVELOPMENT OF QUANTUM MECHANICS#14.10#Calculation of Maximum energy of photoelectron#10.txt#1271/CH14/EX14.10/10.txt#R##75724
+14#DEVELOPMENT OF QUANTUM MECHANICS#1.1#Calculation of Frequency and Wavelength#example14_1.sce#1271/CH14/EX1.1/example14_1.sce#S##75705
+14#DEVELOPMENT OF QUANTUM MECHANICS#1.1#Calculation of Frequency and Wavelength#1.txt#1271/CH14/EX1.1/1.txt#R##75706
+13#CRYSTAL STRUCTURE#13.9#Calculation of Distance between two atoms#example13_9.sce#1271/CH13/EX13.9/example13_9.sce#S##71854
+13#CRYSTAL STRUCTURE#13.9#Calculation of Distance between two atoms#9.txt#1271/CH13/EX13.9/9.txt#R##71855
+13#CRYSTAL STRUCTURE#13.8#Calculation of ratio of intercepts and The ratio of  spacing between two planes#example13_8.sce#1271/CH13/EX13.8/example13_8.sce#S##82094
+13#CRYSTAL STRUCTURE#13.8#Calculation of ratio of intercepts and The ratio of  spacing between two planes#8.txt#1271/CH13/EX13.8/8.txt#R##82095
+13#CRYSTAL STRUCTURE#13.7#Calculation of Miller indices of the plane#example13_7.sce#1271/CH13/EX13.7/example13_7.sce#S##71848
+13#CRYSTAL STRUCTURE#13.7#Calculation of Miller indices of the plane#7.txt#1271/CH13/EX13.7/7.txt#R##71849
+13#CRYSTAL STRUCTURE#13.6#Calculation of Miller indices of the plane#example13_6.sce#1271/CH13/EX13.6/example13_6.sce#S##82092
+13#CRYSTAL STRUCTURE#13.6#Calculation of Miller indices of the plane#6.txt#1271/CH13/EX13.6/6.txt#R##82093
+13#CRYSTAL STRUCTURE#13.5#Calculation of Miller indices of the plane and Inter planer distance#example13_5.sce#1271/CH13/EX13.5/example13_5.sce#S##93618
+13#CRYSTAL STRUCTURE#13.5#Calculation of Miller indices of the plane and Inter planer distance#5.txt#1271/CH13/EX13.5/5.txt#R##93619
+13#CRYSTAL STRUCTURE#13.4#Calculation of Spacing between the plane#example13_4.sce#1271/CH13/EX13.4/example13_4.sce#S##71837
+13#CRYSTAL STRUCTURE#13.4#Calculation of Spacing between the plane#4.txt#1271/CH13/EX13.4/4.txt#R##71838
+13#CRYSTAL STRUCTURE#13.3#Calculation of Miller indices of the plane#example13_3.sce#1271/CH13/EX13.3/example13_3.sce#S##71835
+13#CRYSTAL STRUCTURE#13.3#Calculation of Miller indices of the plane#3.txt#1271/CH13/EX13.3/3.txt#R##71836
+13#CRYSTAL STRUCTURE#13.23#Calculation of  Ratio of number of Schottky defects to total number of cation anion pairs#example13_23.sce#1271/CH13/EX13.23/example13_23.sce#S##71929
+13#CRYSTAL STRUCTURE#13.23#Calculation of  Ratio of number of Schottky defects to total number of cation anion pairs#23.txt#1271/CH13/EX13.23/23.txt#R##71930
+13#CRYSTAL STRUCTURE#13.22#Calculation of Cohesive energy of Nacl#example13_22.sce#1271/CH13/EX13.22/example13_22.sce#S##71924
+13#CRYSTAL STRUCTURE#13.22#Calculation of Cohesive energy of Nacl#22.txt#1271/CH13/EX13.22/22.txt#R##71925
+13#CRYSTAL STRUCTURE#13.21#Calculation of Potential energy of molecule#example13_21.sce#1271/CH13/EX13.21/example13_21.sce#S##71909
+13#CRYSTAL STRUCTURE#13.21#Calculation of Potential energy of molecule#21.txt#1271/CH13/EX13.21/21.txt#R##71910
+13#CRYSTAL STRUCTURE#13.20#Calculation of Inter planner distance #example13_20.sce#1271/CH13/EX13.20/example13_20.sce#S##71902
+13#CRYSTAL STRUCTURE#13.20#Calculation of Inter planner distance #20.txt#1271/CH13/EX13.20/20.txt#R##71903
+13#CRYSTAL STRUCTURE#13.2#Calculation of Miller indices of the plane#example13_2.sce#1271/CH13/EX13.2/example13_2.sce#S##71831
+13#CRYSTAL STRUCTURE#13.2#Calculation of Miller indices of the plane#2.txt#1271/CH13/EX13.2/2.txt#R##71832
+13#CRYSTAL STRUCTURE#13.19#Calculation of Inter planner distances#example13_19.sce#1271/CH13/EX13.19/example13_19.sce#S##71893
+13#CRYSTAL STRUCTURE#13.19#Calculation of Inter planner distances#19.txt#1271/CH13/EX13.19/19.txt#R##71894
+13#CRYSTAL STRUCTURE#13.18#Calculation of Lattice parameter#example13_18.sce#1271/CH13/EX13.18/example13_18.sce#S##71889
+13#CRYSTAL STRUCTURE#13.18#Calculation of Lattice parameter#18.txt#1271/CH13/EX13.18/18.txt#R##71890
+13#CRYSTAL STRUCTURE#13.17#Calculation of Wavelength of neutron beam and Speed of neutron beam#example13_17.sce#1271/CH13/EX13.17/example13_17.sce#S##93622
+13#CRYSTAL STRUCTURE#13.17#Calculation of Wavelength of neutron beam and Speed of neutron beam#17.txt#1271/CH13/EX13.17/17.txt#R##93623
+13#CRYSTAL STRUCTURE#13.16#Calculation of Glancing angle#example13_16.sce#1271/CH13/EX13.16/example13_16.sce#S##71880
+13#CRYSTAL STRUCTURE#13.16#Calculation of Glancing angle#16.txt#1271/CH13/EX13.16/16.txt#R##71881
+13#CRYSTAL STRUCTURE#13.15#Calculation of Angle of incidence of x ray on the plane#example13_15.sce#1271/CH13/EX13.15/example13_15.sce#S##71877
+13#CRYSTAL STRUCTURE#13.15#Calculation of Angle of incidence of x ray on the plane#15.txt#1271/CH13/EX13.15/15.txt#R##71878
+13#CRYSTAL STRUCTURE#13.14#Calculation of Lattice constant of NaCl#example13_14.sce#1271/CH13/EX13.14/example13_14.sce#S##71873
+13#CRYSTAL STRUCTURE#13.14#Calculation of Lattice constant of NaCl#14.txt#1271/CH13/EX13.14/14.txt#R##71874
+13#CRYSTAL STRUCTURE#13.13#Calculation of Wavelength of x ray and Glancing angle#example13_13.sce#1271/CH13/EX13.13/example13_13.sce#S##71870
+13#CRYSTAL STRUCTURE#13.13#Calculation of Wavelength of x ray and Glancing angle#13.txt#1271/CH13/EX13.13/13.txt#R##71871
+13#CRYSTAL STRUCTURE#13.12#Calculation of Wavelength of x ray#example13_12.sce#1271/CH13/EX13.12/example13_12.sce#S##71864
+13#CRYSTAL STRUCTURE#13.12#Calculation of Wavelength of x ray#12.txt#1271/CH13/EX13.12/12.txt#R##71865
+13#CRYSTAL STRUCTURE#13.11#Calculation of Number  of atom per unit cell#example13_11.sce#1271/CH13/EX13.11/example13_11.sce#S##71861
+13#CRYSTAL STRUCTURE#13.11#Calculation of Number  of atom per unit cell#11.txt#1271/CH13/EX13.11/11.txt#R##71862
+13#CRYSTAL STRUCTURE#13.10#Calculation of primitive translation vector#example13_10.sce#1271/CH13/EX13.10/example13_10.sce#S##71858
+13#CRYSTAL STRUCTURE#13.10#Calculation of primitive translation vector#10.txt#1271/CH13/EX13.10/10.txt#R##71859
+13#CRYSTAL STRUCTURE#13.1#Calculation of Miller indices of the plane#example13_1.sce#1271/CH13/EX13.1/example13_1.sce#S##71827
+13#CRYSTAL STRUCTURE#13.1#Calculation of Miller indices of the plane#1.txt#1271/CH13/EX13.1/1.txt#R##71828
+12#APPLIED NUCLEAR PHYSICS#12.9#Calculation of Decay constant#example12_9.sce#1271/CH12/EX12.9/example12_9.sce#S##71623
+12#APPLIED NUCLEAR PHYSICS#12.9#Calculation of Decay constant#9.txt#1271/CH12/EX12.9/9.txt#R##71624
+12#APPLIED NUCLEAR PHYSICS#12.8#Calculation of Half life of radioactive material#example12_8.sce#1271/CH12/EX12.8/example12_8.sce#S##71621
+12#APPLIED NUCLEAR PHYSICS#12.8#Calculation of Half life of radioactive material#8.txt#1271/CH12/EX12.8/8.txt#R##71622
+12#APPLIED NUCLEAR PHYSICS#12.7#Calculation of Half life time and Mean life time#example12_7.sce#1271/CH12/EX12.7/example12_7.sce#S##71619
+12#APPLIED NUCLEAR PHYSICS#12.7#Calculation of Half life time and Mean life time#7.txt#1271/CH12/EX12.7/7.txt#R##71620
+12#APPLIED NUCLEAR PHYSICS#12.6#Calculation of Time#example12_6.sce#1271/CH12/EX12.6/example12_6.sce#S##71617
+12#APPLIED NUCLEAR PHYSICS#12.6#Calculation of Time#6.txt#1271/CH12/EX12.6/6.txt#R##71618
+12#APPLIED NUCLEAR PHYSICS#12.5#Calculation of Period#example12_5.sce#1271/CH12/EX12.5/example12_5.sce#S##71615
+12#APPLIED NUCLEAR PHYSICS#12.5#Calculation of Period#5.txt#1271/CH12/EX12.5/5.txt#R##71616
+12#APPLIED NUCLEAR PHYSICS#12.41#Calculation of Debye length and Plasma frequency#example12_41.sce#1271/CH12/EX12.41/example12_41.sce#S##71687
+12#APPLIED NUCLEAR PHYSICS#12.41#Calculation of Debye length and Plasma frequency#41.txt#1271/CH12/EX12.41/41.txt#R##71688
+12#APPLIED NUCLEAR PHYSICS#12.40#Calculation of Debye length and Plasma frequency#example12_40.sce#1271/CH12/EX12.40/example12_40.sce#S##71685
+12#APPLIED NUCLEAR PHYSICS#12.40#Calculation of Debye length and Plasma frequency#40.txt#1271/CH12/EX12.40/40.txt#R##71686
+12#APPLIED NUCLEAR PHYSICS#12.4#Calculation of Time#example12_4.sce#1271/CH12/EX12.4/example12_4.sce#S##71613
+12#APPLIED NUCLEAR PHYSICS#12.4#Calculation of Time#4.txt#1271/CH12/EX12.4/4.txt#R##71614
+12#APPLIED NUCLEAR PHYSICS#12.39#Calculation of Larmour radius#example12_39.sce#1271/CH12/EX12.39/example12_39.sce#S##71683
+12#APPLIED NUCLEAR PHYSICS#12.39#Calculation of Larmour radius#39.txt#1271/CH12/EX12.39/39.txt#R##71684
+12#APPLIED NUCLEAR PHYSICS#12.38#Calculation of Magnetic field#example12_38.sce#1271/CH12/EX12.38/example12_38.sce#S##71681
+12#APPLIED NUCLEAR PHYSICS#12.38#Calculation of Magnetic field#38.txt#1271/CH12/EX12.38/38.txt#R##71682
+12#APPLIED NUCLEAR PHYSICS#12.37#Calculation of Larmour radius#example12_37.sce#1271/CH12/EX12.37/example12_37.sce#S##71679
+12#APPLIED NUCLEAR PHYSICS#12.37#Calculation of Larmour radius#37.txt#1271/CH12/EX12.37/37.txt#R##71680
+12#APPLIED NUCLEAR PHYSICS#12.36#Calculation of Frequency of cyclotron and Larmour radius#example12_36.sce#1271/CH12/EX12.36/example12_36.sce#S##71677
+12#APPLIED NUCLEAR PHYSICS#12.36#Calculation of Frequency of cyclotron and Larmour radius#36.txt#1271/CH12/EX12.36/36.txt#R##71678
+12#APPLIED NUCLEAR PHYSICS#12.35#Calculation of Average current in the circuit#example12_35.sce#1271/CH12/EX12.35/example12_35.sce#S##71675
+12#APPLIED NUCLEAR PHYSICS#12.35#Calculation of Average current in the circuit#35.txt#1271/CH12/EX12.35/35.txt#R##71676
+12#APPLIED NUCLEAR PHYSICS#12.34#Calculation of The current produced#example12_34.sce#1271/CH12/EX12.34/example12_34.sce#S##71673
+12#APPLIED NUCLEAR PHYSICS#12.34#Calculation of The current produced#34.txt#1271/CH12/EX12.34/34.txt#R##71674
+12#APPLIED NUCLEAR PHYSICS#12.33#Calculation of Magnitude of magnetic field#example12_33.sce#1271/CH12/EX12.33/example12_33.sce#S##71671
+12#APPLIED NUCLEAR PHYSICS#12.33#Calculation of Magnitude of magnetic field#33.txt#1271/CH12/EX12.33/33.txt#R##71672
+12#APPLIED NUCLEAR PHYSICS#12.32#Calculation of Energy gained per turn and Final energy#example12_32.sce#1271/CH12/EX12.32/example12_32.sce#S##71669
+12#APPLIED NUCLEAR PHYSICS#12.32#Calculation of Energy gained per turn and Final energy#32.txt#1271/CH12/EX12.32/32.txt#R##71670
+12#APPLIED NUCLEAR PHYSICS#12.31#Calculation of Flux density of the magnetic field and Velocity of the deuterons emerging out of the cyclotron#example12_31.sce#1271/CH12/EX12.31/example12_31.sce#S##71667
+12#APPLIED NUCLEAR PHYSICS#12.31#Calculation of Flux density of the magnetic field and Velocity of the deuterons emerging out of the cyclotron#31.txt#1271/CH12/EX12.31/31.txt#R##71668
+12#APPLIED NUCLEAR PHYSICS#12.30#Calculation of Value of magnetic induction needed to accelerate deuteron#example12_30.sce#1271/CH12/EX12.30/example12_30.sce#S##71665
+12#APPLIED NUCLEAR PHYSICS#12.30#Calculation of Value of magnetic induction needed to accelerate deuteron#30.txt#1271/CH12/EX12.30/30.txt#R##71666
+12#APPLIED NUCLEAR PHYSICS#12.3#Calculation of Time#example12_3.sce#1271/CH12/EX12.3/example12_3.sce#S##71611
+12#APPLIED NUCLEAR PHYSICS#12.3#Calculation of Time#3.txt#1271/CH12/EX12.3/3.txt#R##71612
+12#APPLIED NUCLEAR PHYSICS#12.29#Calculation of Number of revolution#example12_29.sce#1271/CH12/EX12.29/example12_29.sce#S##71663
+12#APPLIED NUCLEAR PHYSICS#12.29#Calculation of Number of revolution#29.txt#1271/CH12/EX12.29/29.txt#R##71664
+12#APPLIED NUCLEAR PHYSICS#12.28#Calculation of Mass of deuterium#example12_28.sce#1271/CH12/EX12.28/example12_28.sce#S##71661
+12#APPLIED NUCLEAR PHYSICS#12.28#Calculation of Mass of deuterium#28.txt#1271/CH12/EX12.28/28.txt#R##71662
+12#APPLIED NUCLEAR PHYSICS#12.27#Calculation of Energy produce by each reaction#example12_27.sce#1271/CH12/EX12.27/example12_27.sce#S##71659
+12#APPLIED NUCLEAR PHYSICS#12.27#Calculation of Energy produce by each reaction#27.txt#1271/CH12/EX12.27/27.txt#R##71660
+12#APPLIED NUCLEAR PHYSICS#12.26#Calculation of Power output of reactor#example12_26.sce#1271/CH12/EX12.26/example12_26.sce#S##71657
+12#APPLIED NUCLEAR PHYSICS#12.26#Calculation of Power output of reactor#26.txt#1271/CH12/EX12.26/26.txt#R##71658
+12#APPLIED NUCLEAR PHYSICS#12.25#Calculation of Amount of fuel required#example12_25.sce#1271/CH12/EX12.25/example12_25.sce#S##71655
+12#APPLIED NUCLEAR PHYSICS#12.25#Calculation of Amount of fuel required#25.txt#1271/CH12/EX12.25/25.txt#R##71656
+12#APPLIED NUCLEAR PHYSICS#12.24#Calculation of Energy released  by fission#example12_24.sce#1271/CH12/EX12.24/example12_24.sce#S##71653
+12#APPLIED NUCLEAR PHYSICS#12.24#Calculation of Energy released  by fission#24.txt#1271/CH12/EX12.24/24.txt#R##71654
+12#APPLIED NUCLEAR PHYSICS#12.23#Calculation of Heat produce by complete disintegration and Energy released#example12_23.sce#1271/CH12/EX12.23/example12_23.sce#S##71651
+12#APPLIED NUCLEAR PHYSICS#12.23#Calculation of Heat produce by complete disintegration and Energy released#23.txt#1271/CH12/EX12.23/23.txt#R##71652
+12#APPLIED NUCLEAR PHYSICS#12.22#Calculation of Q value of reaction#example12_22.sce#1271/CH12/EX12.22/example12_22.sce#S##71649
+12#APPLIED NUCLEAR PHYSICS#12.22#Calculation of Q value of reaction#22.txt#1271/CH12/EX12.22/22.txt#R##71650
+12#APPLIED NUCLEAR PHYSICS#12.21#Calculation of Energy of gamma ray photon#example12_21.sce#1271/CH12/EX12.21/example12_21.sce#S##71647
+12#APPLIED NUCLEAR PHYSICS#12.21#Calculation of Energy of gamma ray photon#21.txt#1271/CH12/EX12.21/21.txt#R##71648
+12#APPLIED NUCLEAR PHYSICS#12.20#Calculation of Mass of radon#example12_20.sce#1271/CH12/EX12.20/example12_20.sce#S##71645
+12#APPLIED NUCLEAR PHYSICS#12.20#Calculation of Mass of radon#20.txt#1271/CH12/EX12.20/20.txt#R##71646
+12#APPLIED NUCLEAR PHYSICS#12.2#Calculation of Mass attenuation coefficient of Al #example12_2.sce#1271/CH12/EX12.2/example12_2.sce#S##71609
+12#APPLIED NUCLEAR PHYSICS#12.2#Calculation of Mass attenuation coefficient of Al #2.txt#1271/CH12/EX12.2/2.txt#R##71610
+12#APPLIED NUCLEAR PHYSICS#12.19#Calculation of Activity of Sr#example12_19.sce#1271/CH12/EX12.19/example12_19.sce#S##94421
+12#APPLIED NUCLEAR PHYSICS#12.19#Calculation of Activity of Sr#19.txt#1271/CH12/EX12.19/19.txt#R##71644
+12#APPLIED NUCLEAR PHYSICS#12.18#Calculation of Mean life of radium and Half life of radium#example12_18.sce#1271/CH12/EX12.18/example12_18.sce#S##71641
+12#APPLIED NUCLEAR PHYSICS#12.18#Calculation of Mean life of radium and Half life of radium#18.txt#1271/CH12/EX12.18/18.txt#R##71642
+12#APPLIED NUCLEAR PHYSICS#12.17#Calculation of Mass of Pb#example12_17.sce#1271/CH12/EX12.17/example12_17.sce#S##71639
+12#APPLIED NUCLEAR PHYSICS#12.17#Calculation of Mass of Pb#17.txt#1271/CH12/EX12.17/17.txt#R##71640
+12#APPLIED NUCLEAR PHYSICS#12.16#Calculation of Mass of Pb#example12_16.sce#1271/CH12/EX12.16/example12_16.sce#S##71637
+12#APPLIED NUCLEAR PHYSICS#12.16#Calculation of Mass of Pb#16.txt#1271/CH12/EX12.16/16.txt#R##71638
+12#APPLIED NUCLEAR PHYSICS#12.15#Calculation of Fraction of radioactive isotope remained#example12_15.sce#1271/CH12/EX12.15/example12_15.sce#S##71635
+12#APPLIED NUCLEAR PHYSICS#12.15#Calculation of Fraction of radioactive isotope remained#15.txt#1271/CH12/EX12.15/15.txt#R##71636
+12#APPLIED NUCLEAR PHYSICS#12.14#Calculation of Half life of sample#example12_14.sce#1271/CH12/EX12.14/example12_14.sce#S##71633
+12#APPLIED NUCLEAR PHYSICS#12.14#Calculation of Half life of sample#14.txt#1271/CH12/EX12.14/14.txt#R##71634
+12#APPLIED NUCLEAR PHYSICS#12.13#Calculation of Decay constant#example12_13.sce#1271/CH12/EX12.13/example12_13.sce#S##94420
+12#APPLIED NUCLEAR PHYSICS#12.13#Calculation of Decay constant#13.txt#1271/CH12/EX12.13/13.txt#R##71632
+12#APPLIED NUCLEAR PHYSICS#12.12#Calculation of Substance remained unchanged#example12_12.sce#1271/CH12/EX12.12/example12_12.sce#S##71629
+12#APPLIED NUCLEAR PHYSICS#12.12#Calculation of Substance remained unchanged#12.txt#1271/CH12/EX12.12/12.txt#R##71630
+12#APPLIED NUCLEAR PHYSICS#12.11#Calculation of Fraction of sample#example12_11.sce#1271/CH12/EX12.11/example12_11.sce#S##71627
+12#APPLIED NUCLEAR PHYSICS#12.11#Calculation of Fraction of sample#11.txt#1271/CH12/EX12.11/11.txt#R##71628
+12#APPLIED NUCLEAR PHYSICS#12.10#Calculation of Activity of sample#example12_10.sce#1271/CH12/EX12.10/example12_10.sce#S##71625
+12#APPLIED NUCLEAR PHYSICS#12.10#Calculation of Activity of sample#10.txt#1271/CH12/EX12.10/10.txt#R##71626
+12#APPLIED NUCLEAR PHYSICS#12.1#Calculation of Mass absorption coefficient of Al and Half value thickness#example12_1.sce#1271/CH12/EX12.1/example12_1.sce#S##71607
+12#APPLIED NUCLEAR PHYSICS#12.1#Calculation of Mass absorption coefficient of Al and Half value thickness#1.txt#1271/CH12/EX12.1/1.txt#R##71608
+11#THEORY OF RELATIVITY#11.9#Calculation of Speed of electron and Mass of electron#example11_9.sce#1271/CH11/EX11.9/example11_9.sce#S##71350
+11#THEORY OF RELATIVITY#11.9#Calculation of Speed of electron and Mass of electron#9.txt#1271/CH11/EX11.9/9.txt#R##71351
+11#THEORY OF RELATIVITY#11.7#Calculation of Speed of particle#example11_7.sce#1271/CH11/EX11.7/example11_7.sce#S##71348
+11#THEORY OF RELATIVITY#11.7#Calculation of Speed of particle#7.txt#1271/CH11/EX11.7/7.txt#R##71349
+11#THEORY OF RELATIVITY#11.6#Calculation of Speed of particle#example11_6.sce#1271/CH11/EX11.6/example11_6.sce#S##71346
+11#THEORY OF RELATIVITY#11.6#Calculation of Speed of particle#6.txt#1271/CH11/EX11.6/6.txt#R##71347
+11#THEORY OF RELATIVITY#11.5#Calculation of Coordinate of the event in reference frame using Galilean transformation and Coordinate of the event in reference frame using Lorentz transformation#example11_5.sce#1271/CH11/EX11.5/example11_5.sce#S##71344
+11#THEORY OF RELATIVITY#11.5#Calculation of Coordinate of the event in reference frame using Galilean transformation and Coordinate of the event in reference frame using Lorentz transformation#5.txt#1271/CH11/EX11.5/5.txt#R##71345
+11#THEORY OF RELATIVITY#11.40#Calculation of Rate of decrement of mass of the sun#example11_40.sce#1271/CH11/EX11.40/example11_40.sce#S##71408
+11#THEORY OF RELATIVITY#11.40#Calculation of Rate of decrement of mass of the sun#40.txt#1271/CH11/EX11.40/40.txt#R##71409
+11#THEORY OF RELATIVITY#11.39#Calculation of Speed of the electron#example11_39.sce#1271/CH11/EX11.39/example11_39.sce#S##71406
+11#THEORY OF RELATIVITY#11.39#Calculation of Speed of the electron#39.txt#1271/CH11/EX11.39/39.txt#R##71407
+11#THEORY OF RELATIVITY#11.38#Calculation of Fraction of total energy content#example11_38.sce#1271/CH11/EX11.38/example11_38.sce#S##71402
+11#THEORY OF RELATIVITY#11.38#Calculation of Fraction of total energy content#38.txt#1271/CH11/EX11.38/38.txt#R##71403
+11#THEORY OF RELATIVITY#11.37#Calculation of Relativistic mass of proton #example11_37.sce#1271/CH11/EX11.37/example11_37.sce#S##71400
+11#THEORY OF RELATIVITY#11.37#Calculation of Relativistic mass of proton #37.txt#1271/CH11/EX11.37/37.txt#R##71401
+11#THEORY OF RELATIVITY#11.36#Calculation of Relative velocity of photons#example11_36.sce#1271/CH11/EX11.36/example11_36.sce#S##71398
+11#THEORY OF RELATIVITY#11.36#Calculation of Relative velocity of photons#36.txt#1271/CH11/EX11.36/36.txt#R##71399
+11#THEORY OF RELATIVITY#11.35#Calculation of Velocity of electrons beam with respect to another electron beam according to Newtonian mechanics and Velocity of electrons beam measured by the observer moving with other electron beam#example11_35.sce#1271/CH11/EX11.35/example11_35.sce#S##71404
+11#THEORY OF RELATIVITY#11.35#Calculation of Velocity of electrons beam with respect to another electron beam according to Newtonian mechanics and Velocity of electrons beam measured by the observer moving with other electron beam#35.txt#1271/CH11/EX11.35/35.txt#R##71405
+11#THEORY OF RELATIVITY#11.34#Calculation of Proper life time of particle#example11_34.sce#1271/CH11/EX11.34/example11_34.sce#S##71396
+11#THEORY OF RELATIVITY#11.34#Calculation of Proper life time of particle#34.txt#1271/CH11/EX11.34/34.txt#R##71397
+11#THEORY OF RELATIVITY#11.33#Calculation of Time taken by the rocket#example11_33.sce#1271/CH11/EX11.33/example11_33.sce#S##71394
+11#THEORY OF RELATIVITY#11.33#Calculation of Time taken by the rocket#33.txt#1271/CH11/EX11.33/33.txt#R##71395
+11#THEORY OF RELATIVITY#11.32#Calculation of Speed of rocket#example11_32.sce#1271/CH11/EX11.32/example11_32.sce#S##71392
+11#THEORY OF RELATIVITY#11.32#Calculation of Speed of rocket#32.txt#1271/CH11/EX11.32/32.txt#R##71393
+11#THEORY OF RELATIVITY#11.31#Calculation of Time lost per day#example11_31.sce#1271/CH11/EX11.31/example11_31.sce#S##94419
+11#THEORY OF RELATIVITY#11.31#Calculation of Time lost per day#31.txt#1271/CH11/EX11.31/31.txt#R##93615
+11#THEORY OF RELATIVITY#11.30#Calculation of half life of particle#example11_30.sce#1271/CH11/EX11.30/example11_30.sce#S##71390
+11#THEORY OF RELATIVITY#11.30#Calculation of half life of particle#30.txt#1271/CH11/EX11.30/30.txt#R##71391
+11#THEORY OF RELATIVITY#11.29#Calculation of Length of the rod in moving frame and Orientation of the rod#example11_29.sce#1271/CH11/EX11.29/example11_29.sce#S##71386
+11#THEORY OF RELATIVITY#11.29#Calculation of Length of the rod in moving frame and Orientation of the rod#29.txt#1271/CH11/EX11.29/29.txt#R##71387
+11#THEORY OF RELATIVITY#11.28#Calculation of Speed of the rod relative to observer#example11_28.sce#1271/CH11/EX11.28/example11_28.sce#S##71384
+11#THEORY OF RELATIVITY#11.28#Calculation of Speed of the rod relative to observer#28.txt#1271/CH11/EX11.28/28.txt#R##71385
+11#THEORY OF RELATIVITY#11.27#Calculation of Percentage length contraction#example11_27.sce#1271/CH11/EX11.27/example11_27.sce#S##71382
+11#THEORY OF RELATIVITY#11.27#Calculation of Percentage length contraction#27.txt#1271/CH11/EX11.27/27.txt#R##71383
+11#THEORY OF RELATIVITY#11.26#Calculation of Length as it appear to the observer#example11_26.sce#1271/CH11/EX11.26/example11_26.sce#S##71380
+11#THEORY OF RELATIVITY#11.26#Calculation of Length as it appear to the observer#26.txt#1271/CH11/EX11.26/26.txt#R##71381
+11#THEORY OF RELATIVITY#11.25#Calculation of Length as it appear to the observer#example11_25.sce#1271/CH11/EX11.25/example11_25.sce#S##71378
+11#THEORY OF RELATIVITY#11.25#Calculation of Length as it appear to the observer#25.txt#1271/CH11/EX11.25/25.txt#R##71379
+11#THEORY OF RELATIVITY#11.24#Calculation of Velocity of rocket with respect to earth#example11_24.sce#1271/CH11/EX11.24/example11_24.sce#S##71376
+11#THEORY OF RELATIVITY#11.24#Calculation of Velocity of rocket with respect to earth#24.txt#1271/CH11/EX11.24/24.txt#R##71377
+11#THEORY OF RELATIVITY#11.23#Calculation of Distance travel by the beam#example11_23.sce#1271/CH11/EX11.23/example11_23.sce#S##71374
+11#THEORY OF RELATIVITY#11.23#Calculation of Distance travel by the beam#23.txt#1271/CH11/EX11.23/23.txt#R##71375
+11#THEORY OF RELATIVITY#11.22#Calculation of Speed of clock#example11_22.sce#1271/CH11/EX11.22/example11_22.sce#S##71372
+11#THEORY OF RELATIVITY#11.22#Calculation of Speed of clock#22.txt#1271/CH11/EX11.22/22.txt#R##71373
+11#THEORY OF RELATIVITY#11.21#Calculation of Velocity of a frame with respect to other frame #example11_21.sce#1271/CH11/EX11.21/example11_21.sce#S##71370
+11#THEORY OF RELATIVITY#11.21#Calculation of Velocity of a frame with respect to other frame #21.txt#1271/CH11/EX11.21/21.txt#R##71371
+11#THEORY OF RELATIVITY#11.20#Calculation of Length of meter stick#example11_20.sce#1271/CH11/EX11.20/example11_20.sce#S##71368
+11#THEORY OF RELATIVITY#11.20#Calculation of Length of meter stick#20.txt#1271/CH11/EX11.20/20.txt#R##71369
+11#THEORY OF RELATIVITY#11.19#Calculation of Speed of electron and Mass of electron#example11_19.sce#1271/CH11/EX11.19/example11_19.sce#S##71366
+11#THEORY OF RELATIVITY#11.19#Calculation of Speed of electron and Mass of electron#19.txt#1271/CH11/EX11.19/19.txt#R##71367
+11#THEORY OF RELATIVITY#11.17#Calculation of Velocity of particle#example11_17.sce#1271/CH11/EX11.17/example11_17.sce#S##71364
+11#THEORY OF RELATIVITY#11.17#Calculation of Velocity of particle#17.txt#1271/CH11/EX11.17/17.txt#R##71365
+11#THEORY OF RELATIVITY#11.15#Calculation of Speed according to classical mechanics and Speed according to relativistic mechanics#example11_15.sce#1271/CH11/EX11.15/example11_15.sce#S##71362
+11#THEORY OF RELATIVITY#11.15#Calculation of Speed according to classical mechanics and Speed according to relativistic mechanics#15.txt#1271/CH11/EX11.15/15.txt#R##71363
+11#THEORY OF RELATIVITY#11.14#Calculation of Velocity of electron#example11_14.sce#1271/CH11/EX11.14/example11_14.sce#S##71360
+11#THEORY OF RELATIVITY#11.14#Calculation of Velocity of electron#14.txt#1271/CH11/EX11.14/14.txt#R##71361
+11#THEORY OF RELATIVITY#11.13#Calculation of Kinetic energy of electron and Momentum of particle#example11_13.sce#1271/CH11/EX11.13/example11_13.sce#S##71358
+11#THEORY OF RELATIVITY#11.13#Calculation of Kinetic energy of electron and Momentum of particle#13.txt#1271/CH11/EX11.13/13.txt#R##71359
+11#THEORY OF RELATIVITY#11.12#Calculation of Velocity of particle#example11_12.sce#1271/CH11/EX11.12/example11_12.sce#S##71356
+11#THEORY OF RELATIVITY#11.12#Calculation of Velocity of particle#12.txt#1271/CH11/EX11.12/12.txt#R##71357
+11#THEORY OF RELATIVITY#11.11#Calculation of Speed of particle#example11_11.sce#1271/CH11/EX11.11/example11_11.sce#S##71354
+11#THEORY OF RELATIVITY#11.11#Calculation of Speed of particle#11.txt#1271/CH11/EX11.11/11.txt#R##71355
+11#THEORY OF RELATIVITY#11.10#Calculation of Velocity#example11_10.sce#1271/CH11/EX11.10/example11_10.sce#S##71352
+11#THEORY OF RELATIVITY#11.10#Calculation of Velocity#10.txt#1271/CH11/EX11.10/10.txt#R##71353
+10#ELECTROMAGNETISM#10.32#Calculation of Refractive index of distilled water and Speed of light in water#example10_32.sce#1271/CH10/EX10.32/example10_32.sce#S##71342
+10#ELECTROMAGNETISM#10.32#Calculation of Refractive index of distilled water and Speed of light in water#32.txt#1271/CH10/EX10.32/32.txt#R##71343
+10#ELECTROMAGNETISM#10.31#Calculation of Average value of the intensity of electric field of radiation#example10_31.sce#1271/CH10/EX10.31/example10_31.sce#S##71340
+10#ELECTROMAGNETISM#10.31#Calculation of Average value of the intensity of electric field of radiation#31.txt#1271/CH10/EX10.31/31.txt#R##71341
+10#ELECTROMAGNETISM#10.29#Calculation of Magnitude of electric field vector#example10_29.sce#1271/CH10/EX10.29/example10_29.sce#S##82090
+10#ELECTROMAGNETISM#10.29#Calculation of Magnitude of electric field vector#29.txt#1271/CH10/EX10.29/29.txt#R##82091
+10#ELECTROMAGNETISM#10.28#Calculation of Magnitude of electric field vector and Magnitude of magnetic field vector#example10_28.sce#1271/CH10/EX10.28/example10_28.sce#S##71334
+10#ELECTROMAGNETISM#10.28#Calculation of Magnitude of electric field vector and Magnitude of magnetic field vector#28.txt#1271/CH10/EX10.28/28.txt#R##71335
+10#ELECTROMAGNETISM#10.24#Calculation of The value of poynting vector at the surface of the sun#example10_24.sce#1271/CH10/EX10.24/example10_24.sce#S##82088
+10#ELECTROMAGNETISM#10.24#Calculation of The value of poynting vector at the surface of the sun#24.txt#1271/CH10/EX10.24/24.txt#R##82089
+10#ELECTROMAGNETISM#10.23#Calculation of Radius of equipotential surface#example10_23.sce#1271/CH10/EX10.23/example10_23.sce#S##82086
+10#ELECTROMAGNETISM#10.23#Calculation of Radius of equipotential surface#23.txt#1271/CH10/EX10.23/23.txt#R##82087
+10#ELECTROMAGNETISM#10.22#Calculation of Potential and Potential energy and Potential difference#example10_22.sce#1271/CH10/EX10.22/example10_22.sce#S##71330
+10#ELECTROMAGNETISM#10.22#Calculation of Potential and Potential energy and Potential difference#22.txt#1271/CH10/EX10.22/22.txt#R##71331
+10#ELECTROMAGNETISM#10.21#Calculation of Energy gained by alpha particle#example10_21.sce#1271/CH10/EX10.21/example10_21.sce#S##82084
+10#ELECTROMAGNETISM#10.21#Calculation of Energy gained by alpha particle#21.txt#1271/CH10/EX10.21/21.txt#R##82085
+10#ELECTROMAGNETISM#10.20#Calculation of Electric field#example10_20.sce#1271/CH10/EX10.20/example10_20.sce#S##82082
+10#ELECTROMAGNETISM#10.20#Calculation of Electric field#20.txt#1271/CH10/EX10.20/20.txt#R##82083
+10#ELECTROMAGNETISM#10.19#Calculation of Electric field intensity#example10_19.sce#1271/CH10/EX10.19/example10_19.sce#S##82080
+10#ELECTROMAGNETISM#10.19#Calculation of Electric field intensity#19.txt#1271/CH10/EX10.19/19.txt#R##82081
+10#ELECTROMAGNETISM#10.18#Calculation of Electric flux through each surface of the cube#example10_18.sce#1271/CH10/EX10.18/example10_18.sce#S##84736
+10#ELECTROMAGNETISM#10.18#Calculation of Electric flux through each surface of the cube#18.txt#1271/CH10/EX10.18/18.txt#R##71323
+10#ELECTROMAGNETISM#10.17#Calculation of Electric flux#example10_17.sce#1271/CH10/EX10.17/example10_17.sce#S##71320
+10#ELECTROMAGNETISM#10.17#Calculation of Electric flux#17.txt#1271/CH10/EX10.17/17.txt#R##71321
+10#ELECTROMAGNETISM#10.16#Calculation of The total charge enclosed by closed surface#example10_16.sce#1271/CH10/EX10.16/example10_16.sce#S##71318
+10#ELECTROMAGNETISM#10.16#Calculation of The total charge enclosed by closed surface#16.txt#1271/CH10/EX10.16/16.txt#R##71319
+10#ELECTROMAGNETISM#10.15#Calculation of The total charge within volume#example10_15.sce#1271/CH10/EX10.15/example10_15.sce#S##71316
+10#ELECTROMAGNETISM#10.15#Calculation of The total charge within volume#15.txt#1271/CH10/EX10.15/15.txt#R##71317
+9#DIELECTRICS#9.6#Calculation of Electric susceptibility at 0 degree centigrade#example9_6.sce#1271/CH9/EX9.6/example9_6.sce#S##71314
+9#DIELECTRICS#9.6#Calculation of Electric susceptibility at 0 degree centigrade#6.txt#1271/CH9/EX9.6/6.txt#R##71315
+9#DIELECTRICS#9.5#Calculation of Induce dipole moment of each#example9_5.sce#1271/CH9/EX9.5/example9_5.sce#S##71312
+9#DIELECTRICS#9.5#Calculation of Induce dipole moment of each#5.txt#1271/CH9/EX9.5/5.txt#R##71313
+9#DIELECTRICS#9.4#Calculation of Value of relative permittivity and Total dipole moment of the slab#example9_4.sce#1271/CH9/EX9.4/example9_4.sce#S##71310
+9#DIELECTRICS#9.4#Calculation of Value of relative permittivity and Total dipole moment of the slab#4.txt#1271/CH9/EX9.4/4.txt#R##71311
+9#DIELECTRICS#9.3#Calculation of Polarization vector and Displacement vector and Energy density#example9_3.sce#1271/CH9/EX9.3/example9_3.sce#S##71308
+9#DIELECTRICS#9.3#Calculation of Polarization vector and Displacement vector and Energy density#3.txt#1271/CH9/EX9.3/3.txt#R##71309
+9#DIELECTRICS#9.2#Calculation of The included charge density on the surface of the dielectric#example9_2.sce#1271/CH9/EX9.2/example9_2.sce#S##82078
+9#DIELECTRICS#9.2#Calculation of The included charge density on the surface of the dielectric#2.txt#1271/CH9/EX9.2/2.txt#R##82079
+9#DIELECTRICS#9.1#Calculation of Polarization vector and Displacement vector#example9_1.sce#1271/CH9/EX9.1/example9_1.sce#S##71304
+9#DIELECTRICS#9.1#Calculation of Polarization vector and Displacement vector#1.txt#1271/CH9/EX9.1/1.txt#R##71305
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.9#Calculation of Acoustic power#example8_9.sce#1271/CH8/EX8.9/example8_9.sce#S##71302
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.9#Calculation of Acoustic power#9.txt#1271/CH8/EX8.9/9.txt#R##71303
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.8#Calculation of Reverberation time#example8_8.sce#1271/CH8/EX8.8/example8_8.sce#S##71300
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.8#Calculation of Reverberation time#8.txt#1271/CH8/EX8.8/8.txt#R##71301
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.7#Calculation of Reverberation time#example8_7.sce#1271/CH8/EX8.7/example8_7.sce#S##71298
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.7#Calculation of Reverberation time#7.txt#1271/CH8/EX8.7/7.txt#R##71299
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.6#Calculation of Reverberation time#example8_6.sce#1271/CH8/EX8.6/example8_6.sce#S##71296
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.6#Calculation of Reverberation time#6.txt#1271/CH8/EX8.6/6.txt#R##71297
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.5#Calculation of The total absorption constant#example8_5.sce#1271/CH8/EX8.5/example8_5.sce#S##71294
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.5#Calculation of The total absorption constant#5.txt#1271/CH8/EX8.5/5.txt#R##71295
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.4#Calculation of Coefficient of absorption to be provided by the walls and floor and ceiling when the hall is fully occupied and Reverberation time if only half upholstered seats are occupied#example8_4.sce#1271/CH8/EX8.4/example8_4.sce#S##71292
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.4#Calculation of Coefficient of absorption to be provided by the walls and floor and ceiling when the hall is fully occupied and Reverberation time if only half upholstered seats are occupied#4.txt#1271/CH8/EX8.4/4.txt#R##71293
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.3#Calculation of Ratio of  two principal specific heats of air#example8_3.sce#1271/CH8/EX8.3/example8_3.sce#S##71290
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.3#Calculation of Ratio of  two principal specific heats of air#3.txt#1271/CH8/EX8.3/3.txt#R##71291
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.2#Calculation of Velocity of sound in the air#example8_2.sce#1271/CH8/EX8.2/example8_2.sce#S##71288
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.2#Calculation of Velocity of sound in the air#2.txt#1271/CH8/EX8.2/2.txt#R##71289
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.1#Calculation of Wavelength range of the sound wave#example8_1.sce#1271/CH8/EX8.1/example8_1.sce#S##71286
+8#SOUND WAVES AND ACOUSTICS OF BUILDINGS#8.1#Calculation of Wavelength range of the sound wave#1.txt#1271/CH8/EX8.1/1.txt#R##71287
+7#WAVES AND OSCILLATIONS#7.9#Calculation of Frequency#example7_9.sce#1271/CH7/EX7.9/example7_9.sce#S##71274
+7#WAVES AND OSCILLATIONS#7.9#Calculation of Frequency#9.txt#1271/CH7/EX7.9/9.txt#R##71275
+7#WAVES AND OSCILLATIONS#7.8#Calculation of The time period of pendulum#example7_8.sce#1271/CH7/EX7.8/example7_8.sce#S##71272
+7#WAVES AND OSCILLATIONS#7.8#Calculation of The time period of pendulum#8.txt#1271/CH7/EX7.8/8.txt#R##71273
+7#WAVES AND OSCILLATIONS#7.7#Calculation of natural frequency#example7_7.sce#1271/CH7/EX7.7/example7_7.sce#S##71270
+7#WAVES AND OSCILLATIONS#7.7#Calculation of natural frequency#7.txt#1271/CH7/EX7.7/7.txt#R##71271
+7#WAVES AND OSCILLATIONS#7.6#Calculation of Maximum velocity#example7_6.sce#1271/CH7/EX7.6/example7_6.sce#S##71268
+7#WAVES AND OSCILLATIONS#7.6#Calculation of Maximum velocity#6.txt#1271/CH7/EX7.6/6.txt#R##71269
+7#WAVES AND OSCILLATIONS#7.5#Calculation of Maximum velocity and acceleration#example7_5.sce#1271/CH7/EX7.5/example7_5.sce#S##71266
+7#WAVES AND OSCILLATIONS#7.5#Calculation of Maximum velocity and acceleration#5.txt#1271/CH7/EX7.5/5.txt#R##71267
+7#WAVES AND OSCILLATIONS#7.4#Calculation of Time taken by the particle#example7_4.sce#1271/CH7/EX7.4/example7_4.sce#S##71264
+7#WAVES AND OSCILLATIONS#7.4#Calculation of Time taken by the particle#4.txt#1271/CH7/EX7.4/4.txt#R##71265
+7#WAVES AND OSCILLATIONS#7.3#3Calculation of Force constant and Time period#example7_3.sce#1271/CH7/EX7.3/example7_3.sce#S##71262
+7#WAVES AND OSCILLATIONS#7.3#3Calculation of Force constant and Time period#3.txt#1271/CH7/EX7.3/3.txt#R##71263
+7#WAVES AND OSCILLATIONS#7.2#Calculation of Maximum amplitude of velocity#example7_2.sce#1271/CH7/EX7.2/example7_2.sce#S##71260
+7#WAVES AND OSCILLATIONS#7.2#Calculation of Maximum amplitude of velocity#2.txt#1271/CH7/EX7.2/2.txt#R##71261
+7#WAVES AND OSCILLATIONS#7.14#Calculation of Time#example7_14.sce#1271/CH7/EX7.14/example7_14.sce#S##71284
+7#WAVES AND OSCILLATIONS#7.14#Calculation of Time#14.txt#1271/CH7/EX7.14/14.txt#R##71285
+7#WAVES AND OSCILLATIONS#7.13#Calculation of Time#example7_13.sce#1271/CH7/EX7.13/example7_13.sce#S##71282
+7#WAVES AND OSCILLATIONS#7.13#Calculation of Time#13.txt#1271/CH7/EX7.13/13.txt#R##71283
+7#WAVES AND OSCILLATIONS#7.12#Calculation of Time period of motion and Compression of the spring due to the weight of the body#example7_12.sce#1271/CH7/EX7.12/example7_12.sce#S##71280
+7#WAVES AND OSCILLATIONS#7.12#Calculation of Time period of motion and Compression of the spring due to the weight of the body#12.txt#1271/CH7/EX7.12/12.txt#R##71281
+7#WAVES AND OSCILLATIONS#7.11#Calculation of Time period of motion#example7_11.sce#1271/CH7/EX7.11/example7_11.sce#S##82076
+7#WAVES AND OSCILLATIONS#7.11#Calculation of Time period of motion#11.txt#1271/CH7/EX7.11/11.txt#R##82077
+7#WAVES AND OSCILLATIONS#7.10#Calculation of Time period of pendulum#example7_10.sce#1271/CH7/EX7.10/example7_10.sce#S##71276
+7#WAVES AND OSCILLATIONS#7.10#Calculation of Time period of pendulum#10.txt#1271/CH7/EX7.10/10.txt#R##71277
+7#WAVES AND OSCILLATIONS#7.1#Calculation of Amplitude and Mass of particle#example7_1.sce#1271/CH7/EX7.1/example7_1.sce#S##71258
+7#WAVES AND OSCILLATIONS#7.1#Calculation of Amplitude and Mass of particle#1.txt#1271/CH7/EX7.1/1.txt#R##71259
+6#ELECTRON OPTICS#6.9#Calculation of The drift of the guiding center#example6_9.sce#1271/CH6/EX6.9/example6_9.sce#S##70507
+6#ELECTRON OPTICS#6.9#Calculation of The drift of the guiding center#9.txt#1271/CH6/EX6.9/9.txt#R##70508
+6#ELECTRON OPTICS#6.8#Calculation of Area traced by the trajectory of helium ion#example6_8.sce#1271/CH6/EX6.8/example6_8.sce#S##70505
+6#ELECTRON OPTICS#6.8#Calculation of Area traced by the trajectory of helium ion#8.txt#1271/CH6/EX6.8/8.txt#R##70506
+6#ELECTRON OPTICS#6.7#Calculation of Lamoure radius#example6_7.sce#1271/CH6/EX6.7/example6_7.sce#S##70501
+6#ELECTRON OPTICS#6.7#Calculation of Lamoure radius#7.txt#1271/CH6/EX6.7/7.txt#R##70502
+6#ELECTRON OPTICS#6.6#Calculation of Lamoure radius#example6_6.sce#1271/CH6/EX6.6/example6_6.sce#S##70503
+6#ELECTRON OPTICS#6.6#Calculation of Lamoure radius#6.txt#1271/CH6/EX6.6/6.txt#R##70504
+6#ELECTRON OPTICS#6.5#Calculation of Ratio of the charge on an electron to the mass of an electron#example6_5.sce#1271/CH6/EX6.5/example6_5.sce#S##70499
+6#ELECTRON OPTICS#6.5#Calculation of Ratio of the charge on an electron to the mass of an electron#5.txt#1271/CH6/EX6.5/5.txt#R##70500
+6#ELECTRON OPTICS#6.4#Calculation of Radius of circle traced by the beam and Speed of beam#example6_4.sce#1271/CH6/EX6.4/example6_4.sce#S##70497
+6#ELECTRON OPTICS#6.4#Calculation of Radius of circle traced by the beam and Speed of beam#4.txt#1271/CH6/EX6.4/4.txt#R##70498
+6#ELECTRON OPTICS#6.2#Calculation of Momentum of acceleration#example6_2.sce#1271/CH6/EX6.2/example6_2.sce#S##70495
+6#ELECTRON OPTICS#6.2#Calculation of Momentum of acceleration#2.txt#1271/CH6/EX6.2/2.txt#R##70496
+6#ELECTRON OPTICS#6.12#Calculation of Ratio of the new focus length to the initial focus length#example6_12.sce#1271/CH6/EX6.12/example6_12.sce#S##70511
+6#ELECTRON OPTICS#6.12#Calculation of Ratio of the new focus length to the initial focus length#12.txt#1271/CH6/EX6.12/12.txt#R##70512
+6#ELECTRON OPTICS#6.10#Calculation of Internal electric field#example6_10.sce#1271/CH6/EX6.10/example6_10.sce#S##70509
+6#ELECTRON OPTICS#6.10#Calculation of Internal electric field#10.txt#1271/CH6/EX6.10/10.txt#R##70510
+6#ELECTRON OPTICS#6.1#Calculation of Energy gained by electron and Speed of electron and Momentum of electron#example6_1.sce#1271/CH6/EX6.1/example6_1.sce#S##70493
+6#ELECTRON OPTICS#6.1#Calculation of Energy gained by electron and Speed of electron and Momentum of electron#1.txt#1271/CH6/EX6.1/1.txt#R##70494
+5#FIBRE OPTICS#5.9#Calculation of Numerical aperture and Number of modes#example5_9.sce#1271/CH5/EX5.9/example5_9.sce#S##70483
+5#FIBRE OPTICS#5.9#Calculation of Numerical aperture and Number of modes#9.txt#1271/CH5/EX5.9/9.txt#R##70484
+5#FIBRE OPTICS#5.8#Calculation of Diameter of core and number of modes#example5_8.sce#1271/CH5/EX5.8/example5_8.sce#S##70481
+5#FIBRE OPTICS#5.8#Calculation of Diameter of core and number of modes#8.txt#1271/CH5/EX5.8/8.txt#R##70482
+5#FIBRE OPTICS#5.7#Calculation of The normalized frequency and number of guided in the core#example5_7.sce#1271/CH5/EX5.7/example5_7.sce#S##70479
+5#FIBRE OPTICS#5.7#Calculation of The normalized frequency and number of guided in the core#7.txt#1271/CH5/EX5.7/7.txt#R##70480
+5#FIBRE OPTICS#5.6#Calculation of Numerical aperture and Acceptance angle and Number of reflections at maximum incidence and Number of reflections #example5_6.sce#1271/CH5/EX5.6/example5_6.sce#S##70477
+5#FIBRE OPTICS#5.6#Calculation of Numerical aperture and Acceptance angle and Number of reflections at maximum incidence and Number of reflections #6.txt#1271/CH5/EX5.6/6.txt#R##70478
+5#FIBRE OPTICS#5.5#Calculation of Refractive index for core Refractive index for cladding#example5_5.sce#1271/CH5/EX5.5/example5_5.sce#S##70475
+5#FIBRE OPTICS#5.5#Calculation of Refractive index for core Refractive index for cladding#5.txt#1271/CH5/EX5.5/5.txt#R##70476
+5#FIBRE OPTICS#5.4#Calculation of Numerical aperture and Maximum incidence angle#example5_4.sce#1271/CH5/EX5.4/example5_4.sce#S##70473
+5#FIBRE OPTICS#5.4#Calculation of Numerical aperture and Maximum incidence angle#4.txt#1271/CH5/EX5.4/4.txt#R##70474
+5#FIBRE OPTICS#5.3#Calculation of Critical angle and Numerical aperture and Acceptance angle and Fractional refractive index#example5_3.sce#1271/CH5/EX5.3/example5_3.sce#S##70471
+5#FIBRE OPTICS#5.3#Calculation of Critical angle and Numerical aperture and Acceptance angle and Fractional refractive index#3.txt#1271/CH5/EX5.3/3.txt#R##70472
+5#FIBRE OPTICS#5.2#Calculation of Numerical aperture and Maximum incidence angle#example5_2.sce#1271/CH5/EX5.2/example5_2.sce#S##70469
+5#FIBRE OPTICS#5.2#Calculation of Numerical aperture and Maximum incidence angle#2.txt#1271/CH5/EX5.2/2.txt#R##70470
+5#FIBRE OPTICS#5.13#Calculation of Output power#example5_13.sce#1271/CH5/EX5.13/example5_13.sce#S##70491
+5#FIBRE OPTICS#5.13#Calculation of Output power#13.txt#1271/CH5/EX5.13/13.txt#R##70492
+5#FIBRE OPTICS#5.12#Calculation of Absorption coefficient#example5_12.sce#1271/CH5/EX5.12/example5_12.sce#S##70485
+5#FIBRE OPTICS#5.12#Calculation of Absorption coefficient#12.txt#1271/CH5/EX5.12/12.txt#R##70486
+5#FIBRE OPTICS#5.11#Calculation of Maximum diameter of core#example5_11.sce#1271/CH5/EX5.11/example5_11.sce#S##70487
+5#FIBRE OPTICS#5.11#Calculation of Maximum diameter of core#11.txt#1271/CH5/EX5.11/11.txt#R##70488
+5#FIBRE OPTICS#5.10#Calculation of Number of modes#example5_10.sce#1271/CH5/EX5.10/example5_10.sce#S##70489
+5#FIBRE OPTICS#5.10#Calculation of Number of modes#10.txt#1271/CH5/EX5.10/10.txt#R##70490
+5#FIBRE OPTICS#5.1#Calculation of Critical angle and Numerical aperture and Maximum incidence angle#example5_1.sce#1271/CH5/EX5.1/example5_1.sce#S##70467
+5#FIBRE OPTICS#5.1#Calculation of Critical angle and Numerical aperture and Maximum incidence angle#1.txt#1271/CH5/EX5.1/1.txt#R##70468
+4#LASERS AND HOLOGRAPHY#4.7#Calculation of Degree of non monochromaticity#example4_7.sce#1271/CH4/EX4.7/example4_7.sce#S##70465
+4#LASERS AND HOLOGRAPHY#4.7#Calculation of Degree of non monochromaticity#7.txt#1271/CH4/EX4.7/7.txt#R##70466
+4#LASERS AND HOLOGRAPHY#4.6#Calculation of Areal spread and Intensity#example4_6.sce#1271/CH4/EX4.6/example4_6.sce#S##70461
+4#LASERS AND HOLOGRAPHY#4.6#Calculation of Areal spread and Intensity#6.txt#1271/CH4/EX4.6/6.txt#R##70462
+4#LASERS AND HOLOGRAPHY#4.5#Calculation of Power per unit area delivered by the laser#example4_5.sce#1271/CH4/EX4.5/example4_5.sce#S##70459
+4#LASERS AND HOLOGRAPHY#4.5#Calculation of Power per unit area delivered by the laser#5.txt#1271/CH4/EX4.5/5.txt#R##70460
+4#LASERS AND HOLOGRAPHY#4.4#Calculation of Power per unit area delivered by the laser#example4_4.sce#1271/CH4/EX4.4/example4_4.sce#S##70463
+4#LASERS AND HOLOGRAPHY#4.4#Calculation of Power per unit area delivered by the laser#4.txt#1271/CH4/EX4.4/4.txt#R##70464
+4#LASERS AND HOLOGRAPHY#4.3#Calculation of Total energy  #example4_3.sce#1271/CH4/EX4.3/example4_3.sce#S##70457
+4#LASERS AND HOLOGRAPHY#4.3#Calculation of Total energy  #3.txt#1271/CH4/EX4.3/3.txt#R##70458
+4#LASERS AND HOLOGRAPHY#4.2#Calculation of Beam divergence angle#example4_2.sce#1271/CH4/EX4.2/example4_2.sce#S##70455
+4#LASERS AND HOLOGRAPHY#4.2#Calculation of Beam divergence angle#2.txt#1271/CH4/EX4.2/2.txt#R##70456
+4#LASERS AND HOLOGRAPHY#4.1#Calculation of Ratio of population of upper level to the lower energy level and Temperature#example4_1.sce#1271/CH4/EX4.1/example4_1.sce#S##94418
+4#LASERS AND HOLOGRAPHY#4.1#Calculation of Ratio of population of upper level to the lower energy level and Temperature#1.txt#1271/CH4/EX4.1/1.txt#R##70454
+3#POLARISATION#3.9#Calculation of Angle between the nicol prisms#example3_9.sce#1271/CH3/EX3.9/example3_9.sce#S##70415
+3#POLARISATION#3.9#Calculation of Angle between the nicol prisms#9.txt#1271/CH3/EX3.9/9.txt#R##70416
+3#POLARISATION#3.8#Calculation of The angle between characteristics directions of the sheet#example3_8.sce#1271/CH3/EX3.8/example3_8.sce#S##70413
+3#POLARISATION#3.8#Calculation of The angle between characteristics directions of the sheet#8.txt#1271/CH3/EX3.8/8.txt#R##70414
+3#POLARISATION#3.7#Calculation of Ratio between transmitted intensity to incident intensity#example3_7.sce#1271/CH3/EX3.7/example3_7.sce#S##70411
+3#POLARISATION#3.7#Calculation of Ratio between transmitted intensity to incident intensity#7.txt#1271/CH3/EX3.7/7.txt#R##70412
+3#POLARISATION#3.6#Calculation of Angle of incidence and angle of refraction#example3_6.sce#1271/CH3/EX3.6/example3_6.sce#S##70409
+3#POLARISATION#3.6#Calculation of Angle of incidence and angle of refraction#6.txt#1271/CH3/EX3.6/6.txt#R##70410
+3#POLARISATION#3.5#Calculation of Brewster angle#example3_5.sce#1271/CH3/EX3.5/example3_5.sce#S##70407
+3#POLARISATION#3.5#Calculation of Brewster angle#5.txt#1271/CH3/EX3.5/5.txt#R##70408
+3#POLARISATION#3.4#Calculation of Angle of minimum deviation#example3_4.sce#1271/CH3/EX3.4/example3_4.sce#S##70405
+3#POLARISATION#3.4#Calculation of Angle of minimum deviation#4.txt#1271/CH3/EX3.4/4.txt#R##70406
+3#POLARISATION#3.3#Calculation of difference between polarization angle#example3_3.sce#1271/CH3/EX3.3/example3_3.sce#S##70403
+3#POLARISATION#3.3#Calculation of difference between polarization angle#3.txt#1271/CH3/EX3.3/3.txt#R##70404
+3#POLARISATION#3.26#Calculation of Optical rotation of diluted solution#26.txt#1271/CH3/EX3.26/26.txt#R##70450
+3#POLARISATION#3.26#Calculation of Optical rotation of diluted solution#example3_26.sce#1271/CH3/EX3.26/example3_26.sce#S##70449
+3#POLARISATION#3.25#Calculation of  Specific rotation of sugar solution #example3_25.sce#1271/CH3/EX3.25/example3_25.sce#S##70447
+3#POLARISATION#3.25#Calculation of  Specific rotation of sugar solution #25.txt#1271/CH3/EX3.25/25.txt#R##70448
+3#POLARISATION#3.24#Calculation of Concentration of sugar solution #example3_24.sce#1271/CH3/EX3.24/example3_24.sce#S##70445
+3#POLARISATION#3.24#Calculation of Concentration of sugar solution #24.txt#1271/CH3/EX3.24/24.txt#R##70446
+3#POLARISATION#3.23#Calculation of Concentration of sugar solution #example3_23.sce#1271/CH3/EX3.23/example3_23.sce#S##70451
+3#POLARISATION#3.23#Calculation of Concentration of sugar solution #23.txt#1271/CH3/EX3.23/23.txt#R##70452
+3#POLARISATION#3.22#Calculation of Specific rotation of sugar solution#example3_22.sce#1271/CH3/EX3.22/example3_22.sce#S##70439
+3#POLARISATION#3.22#Calculation of Specific rotation of sugar solution#22.txt#1271/CH3/EX3.22/22.txt#R##70440
+3#POLARISATION#3.21#Calculation of Specific rotation of sugar solution#example3_21.sce#1271/CH3/EX3.21/example3_21.sce#S##70437
+3#POLARISATION#3.21#Calculation of Specific rotation of sugar solution#21.txt#1271/CH3/EX3.21/21.txt#R##70438
+3#POLARISATION#3.20#Calculation of  Concentration of sugar solution #example3_20.sce#1271/CH3/EX3.20/example3_20.sce#S##70435
+3#POLARISATION#3.20#Calculation of  Concentration of sugar solution #20.txt#1271/CH3/EX3.20/20.txt#R##70436
+3#POLARISATION#3.2#Calculation of Angle of Brewster#example3_2.sce#1271/CH3/EX3.2/example3_2.sce#S##70401
+3#POLARISATION#3.2#Calculation of Angle of Brewster#2.txt#1271/CH3/EX3.2/2.txt#R##70402
+3#POLARISATION#3.19#Calculation of Thickness of quartz plate  #example3_19.sce#1271/CH3/EX3.19/example3_19.sce#S##70433
+3#POLARISATION#3.19#Calculation of Thickness of quartz plate  #19.txt#1271/CH3/EX3.19/19.txt#R##70434
+3#POLARISATION#3.18#Calculation of Thickness of quartz plate  #example3_18.sce#1271/CH3/EX3.18/example3_18.sce#S##70441
+3#POLARISATION#3.18#Calculation of Thickness of quartz plate  #18.txt#1271/CH3/EX3.18/18.txt#R##70442
+3#POLARISATION#3.17#Calculation of Thickness of quartz plate  #example3_17.sce#1271/CH3/EX3.17/example3_17.sce#S##70431
+3#POLARISATION#3.17#Calculation of Thickness of quartz plate  #17.txt#1271/CH3/EX3.17/17.txt#R##70432
+3#POLARISATION#3.16#Calculation of Thickness of quartz plate  #example3_16.sce#1271/CH3/EX3.16/example3_16.sce#S##70429
+3#POLARISATION#3.16#Calculation of Thickness of quartz plate  #16.txt#1271/CH3/EX3.16/16.txt#R##70430
+3#POLARISATION#3.15#Calculation of Thickness of calcite plate#example3_15.sce#1271/CH3/EX3.15/example3_15.sce#S##70427
+3#POLARISATION#3.15#Calculation of Thickness of calcite plate#15.txt#1271/CH3/EX3.15/15.txt#R##70428
+3#POLARISATION#3.14#Calculation of  Thickness quartz plate #example3_14.sce#1271/CH3/EX3.14/example3_14.sce#S##70425
+3#POLARISATION#3.14#Calculation of  Thickness quartz plate #14.txt#1271/CH3/EX3.14/14.txt#R##70426
+3#POLARISATION#3.13#Calculation of  Thickness of quartz plate  #example3_13.sce#1271/CH3/EX3.13/example3_13.sce#S##70421
+3#POLARISATION#3.13#Calculation of  Thickness of quartz plate  #13.txt#1271/CH3/EX3.13/13.txt#R##70422
+3#POLARISATION#3.12#Calculation of  Thickness of half wave plate of quartz#example3_12.sce#1271/CH3/EX3.12/example3_12.sce#S##70423
+3#POLARISATION#3.12#Calculation of  Thickness of half wave plate of quartz#12.txt#1271/CH3/EX3.12/12.txt#R##70424
+3#POLARISATION#3.11#Calculation of Angle between the Nicols#example3_11.sce#1271/CH3/EX3.11/example3_11.sce#S##70419
+3#POLARISATION#3.11#Calculation of Angle between the Nicols#11.txt#1271/CH3/EX3.11/11.txt#R##70420
+3#POLARISATION#3.10#Calculation of Percentage reduction in intensity of light#example3_10.sce#1271/CH3/EX3.10/example3_10.sce#S##70417
+3#POLARISATION#3.10#Calculation of Percentage reduction in intensity of light#10.txt#1271/CH3/EX3.10/10.txt#R##70418
+3#POLARISATION#3.1#Calculation of Brewster angle and Angle of refraction#example3_1.sce#1271/CH3/EX3.1/example3_1.sce#S##70399
+3#POLARISATION#3.1#Calculation of Brewster angle and Angle of refraction#1.txt#1271/CH3/EX3.1/1.txt#R##70400
+2#DIFFRACTION#2.9#Calculation of  Focal length#example2_9.sce#1271/CH2/EX2.9/example2_9.sce#S##69868
+2#DIFFRACTION#2.9#Calculation of  Focal length#9.txt#1271/CH2/EX2.9/9.txt#R##69869
+2#DIFFRACTION#2.8#Calculation of  Focal length and Power and Diameter of first zone#example2_8.sce#1271/CH2/EX2.8/example2_8.sce#S##69866
+2#DIFFRACTION#2.8#Calculation of  Focal length and Power and Diameter of first zone#8.txt#1271/CH2/EX2.8/8.txt#R##69867
+2#DIFFRACTION#2.7#Calculation of  Radius of half period zone#example2_7.sce#1271/CH2/EX2.7/example2_7.sce#S##69864
+2#DIFFRACTION#2.7#Calculation of  Radius of half period zone#7.txt#1271/CH2/EX2.7/7.txt#R##69865
+2#DIFFRACTION#2.6#Calculation of  Radius of first and second and third half period zone#example2_6.sce#1271/CH2/EX2.6/example2_6.sce#S##69862
+2#DIFFRACTION#2.6#Calculation of  Radius of first and second and third half period zone#6.txt#1271/CH2/EX2.6/6.txt#R##69863
+2#DIFFRACTION#2.5#Calculation of  Distance of screen from opening#example2_5.sce#1271/CH2/EX2.5/example2_5.sce#S##69858
+2#DIFFRACTION#2.5#Calculation of  Distance of screen from opening#5.txt#1271/CH2/EX2.5/5.txt#R##69859
+2#DIFFRACTION#2.45#Calculation of Numerical aperture of objective#example2_45.sce#1271/CH2/EX2.45/example2_45.sce#S##70397
+2#DIFFRACTION#2.45#Calculation of Numerical aperture of objective#45.txt#1271/CH2/EX2.45/45.txt#R##70398
+2#DIFFRACTION#2.44#Calculation of The resolving limit of microscope#example2_44.sce#1271/CH2/EX2.44/example2_44.sce#S##70393
+2#DIFFRACTION#2.44#Calculation of The resolving limit of microscope#44.txt#1271/CH2/EX2.44/44.txt#R##70394
+2#DIFFRACTION#2.43#Calculation of Max distance of pin holes from microscope#example2_43.sce#1271/CH2/EX2.43/example2_43.sce#S##70395
+2#DIFFRACTION#2.43#Calculation of Max distance of pin holes from microscope#43.txt#1271/CH2/EX2.43/43.txt#R##70396
+2#DIFFRACTION#2.42#Calculation of Diameter of telescope objective#example2_42.sce#1271/CH2/EX2.42/example2_42.sce#S##70391
+2#DIFFRACTION#2.42#Calculation of Diameter of telescope objective#42.txt#1271/CH2/EX2.42/42.txt#R##70392
+2#DIFFRACTION#2.41#Calculation of Diameter of telescope objective#example2_41.sce#1271/CH2/EX2.41/example2_41.sce#S##70389
+2#DIFFRACTION#2.41#Calculation of Diameter of telescope objective#41.txt#1271/CH2/EX2.41/41.txt#R##70390
+2#DIFFRACTION#2.40#Calculation of The separation of two points on moon#example2_40.sce#1271/CH2/EX2.40/example2_40.sce#S##70387
+2#DIFFRACTION#2.40#Calculation of The separation of two points on moon#40.txt#1271/CH2/EX2.40/40.txt#R##70388
+2#DIFFRACTION#2.4#Calculation of  No of half period zone #example2_4.sce#1271/CH2/EX2.4/example2_4.sce#S##69860
+2#DIFFRACTION#2.4#Calculation of  No of half period zone #4.txt#1271/CH2/EX2.4/4.txt#R##69861
+2#DIFFRACTION#2.39#Calculation of Grating space and Total width of ruled surface#example2_39.sce#1271/CH2/EX2.39/example2_39.sce#S##70383
+2#DIFFRACTION#2.39#Calculation of Grating space and Total width of ruled surface#39.txt#1271/CH2/EX2.39/39.txt#R##70384
+2#DIFFRACTION#2.38#Calculation of Minimum no of lines in grating#example2_38.sce#1271/CH2/EX2.38/example2_38.sce#S##70385
+2#DIFFRACTION#2.38#Calculation of Minimum no of lines in grating#38.txt#1271/CH2/EX2.38/38.txt#R##70386
+2#DIFFRACTION#2.37#Calculation of Minimum no of lines in grating#example2_37.sce#1271/CH2/EX2.37/example2_37.sce#S##70381
+2#DIFFRACTION#2.37#Calculation of Minimum no of lines in grating#37.txt#1271/CH2/EX2.37/37.txt#R##70382
+2#DIFFRACTION#2.36#Calculation of Dispersive power#example2_36.sce#1271/CH2/EX2.36/example2_36.sce#S##70379
+2#DIFFRACTION#2.36#Calculation of Dispersive power#36.txt#1271/CH2/EX2.36/36.txt#R##70380
+2#DIFFRACTION#2.35#Calculation of Observed order#example2_35.sce#1271/CH2/EX2.35/example2_35.sce#S##70377
+2#DIFFRACTION#2.35#Calculation of Observed order#35.txt#1271/CH2/EX2.35/35.txt#R##70378
+2#DIFFRACTION#2.34#Calculation of Order of spectrum#example2_34.sce#1271/CH2/EX2.34/example2_34.sce#S##70372
+2#DIFFRACTION#2.34#Calculation of Order of spectrum#34.txt#1271/CH2/EX2.34/34.txt#R##70374
+2#DIFFRACTION#2.33#Calculation of Order of spectrum#example2_33.sce#1271/CH2/EX2.33/example2_33.sce#S##70375
+2#DIFFRACTION#2.33#Calculation of Order of spectrum#33.txt#1271/CH2/EX2.33/33.txt#R##70376
+2#DIFFRACTION#2.32#Calculation of Difference in two wavelength#example2_32.sce#1271/CH2/EX2.32/example2_32.sce#S##70368
+2#DIFFRACTION#2.32#Calculation of Difference in two wavelength#32.txt#1271/CH2/EX2.32/32.txt#R##70369
+2#DIFFRACTION#2.31#Calculation of No of lines per cm#example2_31.sce#1271/CH2/EX2.31/example2_31.sce#S##70370
+2#DIFFRACTION#2.31#Calculation of No of lines per cm#31.txt#1271/CH2/EX2.31/31.txt#R##70371
+2#DIFFRACTION#2.30#Calculation of Angle of separation #example2_30.sce#1271/CH2/EX2.30/example2_30.sce#S##70366
+2#DIFFRACTION#2.30#Calculation of Angle of separation #30.txt#1271/CH2/EX2.30/30.txt#R##70367
+2#DIFFRACTION#2.3#Calculation of  Radius of  half period zone#example2_3.sce#1271/CH2/EX2.3/example2_3.sce#S##69856
+2#DIFFRACTION#2.3#Calculation of  Radius of  half period zone#3.txt#1271/CH2/EX2.3/3.txt#R##69857
+2#DIFFRACTION#2.29#Calculation of Angle of separation #example2_29.sce#1271/CH2/EX2.29/example2_29.sce#S##70364
+2#DIFFRACTION#2.29#Calculation of Angle of separation #29.txt#1271/CH2/EX2.29/29.txt#R##70365
+2#DIFFRACTION#2.28#Calculation of  No of lines in per cm#example2_28.sce#1271/CH2/EX2.28/example2_28.sce#S##70362
+2#DIFFRACTION#2.28#Calculation of  No of lines in per cm#28.txt#1271/CH2/EX2.28/28.txt#R##70363
+2#DIFFRACTION#2.27#Calculation of Wavelength of light#example2_27.sce#1271/CH2/EX2.27/example2_27.sce#S##93612
+2#DIFFRACTION#2.27#Calculation of Wavelength of light#27.txt#1271/CH2/EX2.27/27.txt#R##93613
+2#DIFFRACTION#2.26#Calculation of Wavelength of light#example2_26.sce#1271/CH2/EX2.26/example2_26.sce#S##70358
+2#DIFFRACTION#2.26#Calculation of Wavelength of light#26.txt#1271/CH2/EX2.26/26.txt#R##70359
+2#DIFFRACTION#2.25#Calculation of Wavelength of light#example2_25.sce#1271/CH2/EX2.25/example2_25.sce#S##70356
+2#DIFFRACTION#2.25#Calculation of Wavelength of light#25.txt#1271/CH2/EX2.25/25.txt#R##70357
+2#DIFFRACTION#2.24#Calculation of Wavelength of light and Missing order#example2_24.sce#1271/CH2/EX2.24/example2_24.sce#S##70354
+2#DIFFRACTION#2.24#Calculation of Wavelength of light and Missing order#24.txt#1271/CH2/EX2.24/24.txt#R##70355
+2#DIFFRACTION#2.23#Calculation of Missing orders#example2_23.sce#1271/CH2/EX2.23/example2_23.sce#S##70352
+2#DIFFRACTION#2.23#Calculation of Missing orders#23.txt#1271/CH2/EX2.23/23.txt#R##70353
+2#DIFFRACTION#2.22#Calculation of Separation of dark band on either side of the central maximum#example2_22.sce#1271/CH2/EX2.22/example2_22.sce#S##70350
+2#DIFFRACTION#2.22#Calculation of Separation of dark band on either side of the central maximum#22.txt#1271/CH2/EX2.22/22.txt#R##70351
+2#DIFFRACTION#2.21#Calculation of Separation of dark band#example2_21.sce#1271/CH2/EX2.21/example2_21.sce#S##70348
+2#DIFFRACTION#2.21#Calculation of Separation of dark band#21.txt#1271/CH2/EX2.21/21.txt#R##70349
+2#DIFFRACTION#2.20#Calculation of Angular width of the central maxima#example2_20.sce#1271/CH2/EX2.20/example2_20.sce#S##70346
+2#DIFFRACTION#2.20#Calculation of Angular width of the central maxima#20.txt#1271/CH2/EX2.20/20.txt#R##70347
+2#DIFFRACTION#2.2#Calculation of  Radius of  half period zone#example2_2.sce#1271/CH2/EX2.2/example2_2.sce#S##70279
+2#DIFFRACTION#2.2#Calculation of  Radius of  half period zone#2.txt#1271/CH2/EX2.2/2.txt#R##70280
+2#DIFFRACTION#2.18#Calculation of Angular spread and linear width #example2_18.sce#1271/CH2/EX2.18/example2_18.sce#S##70344
+2#DIFFRACTION#2.18#Calculation of Angular spread and linear width #18.txt#1271/CH2/EX2.18/18.txt#R##70345
+2#DIFFRACTION#2.17#Calculation of Slit width#example2_17.sce#1271/CH2/EX2.17/example2_17.sce#S##70342
+2#DIFFRACTION#2.17#Calculation of Slit width#17.txt#1271/CH2/EX2.17/17.txt#R##70343
+2#DIFFRACTION#2.16#Calculation of  Half angular width of the central bright maxima#example2_16.sce#1271/CH2/EX2.16/example2_16.sce#S##70340
+2#DIFFRACTION#2.16#Calculation of  Half angular width of the central bright maxima#16.txt#1271/CH2/EX2.16/16.txt#R##70341
+2#DIFFRACTION#2.15#Calculation of Angular position of second and third minima #example2_15.sce#1271/CH2/EX2.15/example2_15.sce#S##70283
+2#DIFFRACTION#2.15#Calculation of Angular position of second and third minima #15.txt#1271/CH2/EX2.15/15.txt#R##70284
+2#DIFFRACTION#2.14#Calculation of  Wavelength of light#example2_14.sce#1271/CH2/EX2.14/example2_14.sce#S##70338
+2#DIFFRACTION#2.14#Calculation of  Wavelength of light#14.txt#1271/CH2/EX2.14/14.txt#R##70339
+2#DIFFRACTION#2.13#Calculation of Angular spread of the central maxima#example2_13.sce#1271/CH2/EX2.13/example2_13.sce#S##69872
+2#DIFFRACTION#2.13#Calculation of Angular spread of the central maxima#13.txt#1271/CH2/EX2.13/13.txt#R##69873
+2#DIFFRACTION#2.12#Calculation of Principal focal length of zone plate#example2_12.sce#1271/CH2/EX2.12/example2_12.sce#S##70281
+2#DIFFRACTION#2.12#Calculation of Principal focal length of zone plate#12.txt#1271/CH2/EX2.12/12.txt#R##70282
+2#DIFFRACTION#2.11#Calculation of  Distance of first image from zone plate#example2_11.sce#1271/CH2/EX2.11/example2_11.sce#S##69870
+2#DIFFRACTION#2.11#Calculation of  Distance of first image from zone plate#11.txt#1271/CH2/EX2.11/11.txt#R##69871
+2#DIFFRACTION#2.10#Calculation of  No of zone of Fresnel#example2_10.sce#1271/CH2/EX2.10/example2_10.sce#S##69874
+2#DIFFRACTION#2.10#Calculation of  No of zone of Fresnel#10.txt#1271/CH2/EX2.10/10.txt#R##69875
+2#DIFFRACTION#2.1#Calculation of Radius of half period zone and Area of half period zone#example2_1.sce#1271/CH2/EX2.1/example2_1.sce#S##69854
+2#DIFFRACTION#2.1#Calculation of Radius of half period zone and Area of half period zone#1.txt#1271/CH2/EX2.1/1.txt#R##69855
+1#INTERFERENCE#1.9#Calculation of Ratio of maximum intensity with minimum intensity#example1_9.sce#1271/CH1/EX1.9/example1_9.sce#S##69762
+1#INTERFERENCE#1.9#Calculation of Ratio of maximum intensity with minimum intensity#9.txt#1271/CH1/EX1.9/9.txt#R##69763
+1#INTERFERENCE#1.8#Calculation of Coherence time of red cadmium line and Spectral line width#example1_8.sce#1271/CH1/EX1.8/example1_8.sce#S##69760
+1#INTERFERENCE#1.8#Calculation of Coherence time of red cadmium line and Spectral line width#8.txt#1271/CH1/EX1.8/8.txt#R##69761
+1#INTERFERENCE#1.7#Calculation of Coherence length of monochromatic light and band width and line width#example1_7.sce#1271/CH1/EX1.7/example1_7.sce#S##69758
+1#INTERFERENCE#1.7#Calculation of Coherence length of monochromatic light and band width and line width#7.txt#1271/CH1/EX1.7/7.txt#R##69759
+1#INTERFERENCE#1.6#Calculation of Coherence length of laser#example1_6.sce#1271/CH1/EX1.6/example1_6.sce#S##69756
+1#INTERFERENCE#1.6#Calculation of Coherence length of laser#6.txt#1271/CH1/EX1.6/6.txt#R##69757
+1#INTERFERENCE#1.54#Calculation of Refractive index of gas#example1_54.sce#1271/CH1/EX1.54/example1_54.sce#S##69852
+1#INTERFERENCE#1.54#Calculation of Refractive index of gas#54.txt#1271/CH1/EX1.54/54.txt#R##69853
+1#INTERFERENCE#1.53#Calculation of Difference between two wavelengths#example1_53.sce#1271/CH1/EX1.53/example1_53.sce#S##69850
+1#INTERFERENCE#1.53#Calculation of Difference between two wavelengths#53.txt#1271/CH1/EX1.53/53.txt#R##69851
+1#INTERFERENCE#1.52#Calculation of The distance through which the movable mirror is move#example1_52.sce#1271/CH1/EX1.52/example1_52.sce#S##69848
+1#INTERFERENCE#1.52#Calculation of The distance through which the movable mirror is move#52.txt#1271/CH1/EX1.52/52.txt#R##69849
+1#INTERFERENCE#1.51#Calculation of Wavelength of monochromatic light#example1_51.sce#1271/CH1/EX1.51/example1_51.sce#S##69846
+1#INTERFERENCE#1.51#Calculation of Wavelength of monochromatic light#51.txt#1271/CH1/EX1.51/51.txt#R##69847
+1#INTERFERENCE#1.50#Calculation of The path difference#example1_50.sce#1271/CH1/EX1.50/example1_50.sce#S##69844
+1#INTERFERENCE#1.50#Calculation of The path difference#50.txt#1271/CH1/EX1.50/50.txt#R##69845
+1#INTERFERENCE#1.5#Calculation of The ratio of coherence length of mercury vapour lamp to the coherence length of He Ne laser#example1_5.sce#1271/CH1/EX1.5/example1_5.sce#S##69754
+1#INTERFERENCE#1.5#Calculation of The ratio of coherence length of mercury vapour lamp to the coherence length of He Ne laser#5.txt#1271/CH1/EX1.5/5.txt#R##69755
+1#INTERFERENCE#1.49#Calculation of Thickness of the plate#example1_49.sce#1271/CH1/EX1.49/example1_49.sce#S##69842
+1#INTERFERENCE#1.49#Calculation of Thickness of the plate#49.txt#1271/CH1/EX1.49/49.txt#R##69843
+1#INTERFERENCE#1.48#Calculation of Wavelength of light#example1_48.sce#1271/CH1/EX1.48/example1_48.sce#S##69840
+1#INTERFERENCE#1.48#Calculation of Wavelength of light#48.txt#1271/CH1/EX1.48/48.txt#R##69841
+1#INTERFERENCE#1.47#Calculation of Refractive index of mica#example1_47.sce#1271/CH1/EX1.47/example1_47.sce#S##69838
+1#INTERFERENCE#1.47#Calculation of Refractive index of mica#47.txt#1271/CH1/EX1.47/47.txt#R##69839
+1#INTERFERENCE#1.46#Calculation of Distance between 5th and 15th dark ring#example1_46.sce#1271/CH1/EX1.46/example1_46.sce#S##69836
+1#INTERFERENCE#1.46#Calculation of Distance between 5th and 15th dark ring#46.txt#1271/CH1/EX1.46/46.txt#R##69837
+1#INTERFERENCE#1.45#Calculation of Refractive index of liquid#example1_45.sce#1271/CH1/EX1.45/example1_45.sce#S##69834
+1#INTERFERENCE#1.45#Calculation of Refractive index of liquid#45.txt#1271/CH1/EX1.45/45.txt#R##69835
+1#INTERFERENCE#1.44#Calculation of Wavelength of light#example1_44.sce#1271/CH1/EX1.44/example1_44.sce#S##69832
+1#INTERFERENCE#1.44#Calculation of Wavelength of light#44.txt#1271/CH1/EX1.44/44.txt#R##69833
+1#INTERFERENCE#1.43#Calculation of the ratio refractive index of media#example1_43.sce#1271/CH1/EX1.43/example1_43.sce#S##69830
+1#INTERFERENCE#1.43#Calculation of the ratio refractive index of media#43.txt#1271/CH1/EX1.43/43.txt#R##69831
+1#INTERFERENCE#1.42#Calculation of The radius of smallest dark ring#example1_42.sce#1271/CH1/EX1.42/example1_42.sce#S##69828
+1#INTERFERENCE#1.42#Calculation of The radius of smallest dark ring#42.txt#1271/CH1/EX1.42/42.txt#R##69829
+1#INTERFERENCE#1.41#Calculation of Refractive index of liquid#example1_41.sce#1271/CH1/EX1.41/example1_41.sce#S##82074
+1#INTERFERENCE#1.41#Calculation of Refractive index of liquid#41.txt#1271/CH1/EX1.41/41.txt#R##82075
+1#INTERFERENCE#1.40#Calculation of Refractive index of liquid#example1_40.sce#1271/CH1/EX1.40/example1_40.sce#S##69824
+1#INTERFERENCE#1.40#Calculation of Refractive index of liquid#40.txt#1271/CH1/EX1.40/40.txt#R##69825
+1#INTERFERENCE#1.4#Calculation of Coherence length#example1_4.sce#1271/CH1/EX1.4/example1_4.sce#S##69752
+1#INTERFERENCE#1.4#Calculation of Coherence length#4.txt#1271/CH1/EX1.4/4.txt#R##69753
+1#INTERFERENCE#1.39#Calculation of Refractive index of liquid#example1_39.sce#1271/CH1/EX1.39/example1_39.sce#S##82072
+1#INTERFERENCE#1.39#Calculation of Refractive index of liquid#39.txt#1271/CH1/EX1.39/39.txt#R##82073
+1#INTERFERENCE#1.38#Calculation of Diameter of nth dark ring#example1_38.sce#1271/CH1/EX1.38/example1_38.sce#S##69818
+1#INTERFERENCE#1.38#Calculation of Diameter of nth dark ring#38.txt#1271/CH1/EX1.38/38.txt#R##69819
+1#INTERFERENCE#1.37#Calculation of Diameter of dark ring#example1_37.sce#1271/CH1/EX1.37/example1_37.sce#S##69820
+1#INTERFERENCE#1.37#Calculation of Diameter of dark ring#37.txt#1271/CH1/EX1.37/37.txt#R##69821
+1#INTERFERENCE#1.36#Calculation of Diameter of 7th bright ring#example1_36.sce#1271/CH1/EX1.36/example1_36.sce#S##69816
+1#INTERFERENCE#1.36#Calculation of Diameter of 7th bright ring#36.txt#1271/CH1/EX1.36/36.txt#R##69817
+1#INTERFERENCE#1.35#Calculation of Wavelength of light#example1_35.sce#1271/CH1/EX1.35/example1_35.sce#S##94417
+1#INTERFERENCE#1.35#Calculation of Wavelength of light#35.txt#1271/CH1/EX1.35/35.txt#R##69815
+1#INTERFERENCE#1.34#Calculation of Wavelength of light#example1_34.sce#1271/CH1/EX1.34/example1_34.sce#S##69812
+1#INTERFERENCE#1.34#Calculation of Wavelength of light#34.txt#1271/CH1/EX1.34/34.txt#R##69813
+1#INTERFERENCE#1.33#Calculation of Angle of wedge#example1_33.sce#1271/CH1/EX1.33/example1_33.sce#S##69810
+1#INTERFERENCE#1.33#Calculation of Angle of wedge#33.txt#1271/CH1/EX1.33/33.txt#R##69811
+1#INTERFERENCE#1.32#Calculation of Distance#example1_32.sce#1271/CH1/EX1.32/example1_32.sce#S##69808
+1#INTERFERENCE#1.32#Calculation of Distance#32.txt#1271/CH1/EX1.32/32.txt#R##69809
+1#INTERFERENCE#1.31#Calculation of Fringe width#example1_31.sce#1271/CH1/EX1.31/example1_31.sce#S##69806
+1#INTERFERENCE#1.31#Calculation of Fringe width#31.txt#1271/CH1/EX1.31/31.txt#R##69807
+1#INTERFERENCE#1.30#Calculation of Fringe width#example1_30.sce#1271/CH1/EX1.30/example1_30.sce#S##69804
+1#INTERFERENCE#1.30#Calculation of Fringe width#30.txt#1271/CH1/EX1.30/30.txt#R##69805
+1#INTERFERENCE#1.3#Calculation of Coherence time and Line width and Frequency stability#example1_3.sce#1271/CH1/EX1.3/example1_3.sce#S##69749
+1#INTERFERENCE#1.3#Calculation of Coherence time and Line width and Frequency stability#3.txt#1271/CH1/EX1.3/3.txt#R##69750
+1#INTERFERENCE#1.29#Calculation of Fringe width#example1_29.sce#1271/CH1/EX1.29/example1_29.sce#S##69802
+1#INTERFERENCE#1.29#Calculation of Fringe width#29.txt#1271/CH1/EX1.29/29.txt#R##69803
+1#INTERFERENCE#1.28#Calculation of Thickness of wire#example1_28.sce#1271/CH1/EX1.28/example1_28.sce#S##69800
+1#INTERFERENCE#1.28#Calculation of Thickness of wire#28.txt#1271/CH1/EX1.28/28.txt#R##69801
+1#INTERFERENCE#1.27#Calculation of Thickness of the film#example1_27.sce#1271/CH1/EX1.27/example1_27.sce#S##69798
+1#INTERFERENCE#1.27#Calculation of Thickness of the film#27.txt#1271/CH1/EX1.27/27.txt#R##69799
+1#INTERFERENCE#1.26#Calculation of Least thickness of soap film for bright fringe#example1_26.sce#1271/CH1/EX1.26/example1_26.sce#S##69796
+1#INTERFERENCE#1.26#Calculation of Least thickness of soap film for bright fringe#26.txt#1271/CH1/EX1.26/26.txt#R##69797
+1#INTERFERENCE#1.25#Calculation of Thickness of the film#example1_25.sce#1271/CH1/EX1.25/example1_25.sce#S##69794
+1#INTERFERENCE#1.25#Calculation of Thickness of the film#25.txt#1271/CH1/EX1.25/25.txt#R##69795
+1#INTERFERENCE#1.24#Calculation of Least thickness of soap film for bright fringe#example1_24.sce#1271/CH1/EX1.24/example1_24.sce#S##69792
+1#INTERFERENCE#1.24#Calculation of Least thickness of soap film for bright fringe#24.txt#1271/CH1/EX1.24/24.txt#R##69793
+1#INTERFERENCE#1.23#Calculation of No of dark bands seen between wavelengths#example1_23.sce#1271/CH1/EX1.23/example1_23.sce#S##69790
+1#INTERFERENCE#1.23#Calculation of No of dark bands seen between wavelengths#23.txt#1271/CH1/EX1.23/23.txt#R##69791
+1#INTERFERENCE#1.22#Calculation of Thickness of oil film#example1_22.sce#1271/CH1/EX1.22/example1_22.sce#S##69788
+1#INTERFERENCE#1.22#Calculation of Thickness of oil film#22.txt#1271/CH1/EX1.22/22.txt#R##69789
+1#INTERFERENCE#1.21#Calculation of Least thickness of soap film for bright fringe#example1_21.sce#1271/CH1/EX1.21/example1_21.sce#S##69786
+1#INTERFERENCE#1.21#Calculation of Least thickness of soap film for bright fringe#21.txt#1271/CH1/EX1.21/21.txt#R##69787
+1#INTERFERENCE#1.20#Calculation of Thickness of oil film#example1_20.sce#1271/CH1/EX1.20/example1_20.sce#S##69784
+1#INTERFERENCE#1.20#Calculation of Thickness of oil film#20.txt#1271/CH1/EX1.20/20.txt#R##69785
+1#INTERFERENCE#1.2#Calculation No of oscillations of #example1_2.sce#1271/CH1/EX1.2/example1_2.sce#S##69747
+1#INTERFERENCE#1.2#Calculation No of oscillations of #2.txt#1271/CH1/EX1.2/2.txt#R##69751
+1#INTERFERENCE#1.19#Calculation of Least thickness of soap film#example1_19.sce#1271/CH1/EX1.19/example1_19.sce#S##69782
+1#INTERFERENCE#1.19#Calculation of Least thickness of soap film#19.txt#1271/CH1/EX1.19/19.txt#R##69783
+1#INTERFERENCE#1.18#Calculation of No of fringes observed in field of view in second case#example1_18.sce#1271/CH1/EX1.18/example1_18.sce#S##69780
+1#INTERFERENCE#1.18#Calculation of No of fringes observed in field of view in second case#18.txt#1271/CH1/EX1.18/18.txt#R##69781
+1#INTERFERENCE#1.17#Calculation of Wavelength of light#example1_17.sce#1271/CH1/EX1.17/example1_17.sce#S##69778
+1#INTERFERENCE#1.17#Calculation of Wavelength of light#17.txt#1271/CH1/EX1.17/17.txt#R##69779
+1#INTERFERENCE#1.16#Calculation of Wavelength of light#example1_16.sce#1271/CH1/EX1.16/example1_16.sce#S##69776
+1#INTERFERENCE#1.16#Calculation of Wavelength of light#16.txt#1271/CH1/EX1.16/16.txt#R##69777
+1#INTERFERENCE#1.15#Calculation of Wavelength of light#example1_15.sce#1271/CH1/EX1.15/example1_15.sce#S##94416
+1#INTERFERENCE#1.15#Calculation of Wavelength of light#15.txt#1271/CH1/EX1.15/15.txt#R##69775
+1#INTERFERENCE#1.14#Calculation of Distance between coherent sources#example1_14.sce#1271/CH1/EX1.14/example1_14.sce#S##69772
+1#INTERFERENCE#1.14#Calculation of Distance between coherent sources#14.txt#1271/CH1/EX1.14/14.txt#R##69773
+1#INTERFERENCE#1.13#Calculation of Thickness of glass#example1_13.sce#1271/CH1/EX1.13/example1_13.sce#S##69770
+1#INTERFERENCE#1.13#Calculation of Thickness of glass#13.txt#1271/CH1/EX1.13/13.txt#R##69771
+1#INTERFERENCE#1.12#Calculation of Fringe width#example1_12.sce#1271/CH1/EX1.12/example1_12.sce#S##69768
+1#INTERFERENCE#1.12#Calculation of Fringe width#12.txt#1271/CH1/EX1.12/12.txt#R##69769
+1#INTERFERENCE#1.11#Calculation of Fringe width#example1_11.sce#1271/CH1/EX1.11/example1_11.sce#S##69766
+1#INTERFERENCE#1.11#Calculation of Fringe width#11.txt#1271/CH1/EX1.11/11.txt#R##69767
+1#INTERFERENCE#1.10#Calculation of Wavelength of light#example1_10.sce#1271/CH1/EX1.10/example1_10.sce#S##69764
+1#INTERFERENCE#1.10#Calculation of Wavelength of light#10.txt#1271/CH1/EX1.10/10.txt#R##69765
+1#INTERFERENCE#1.1#Calculation of time Coherence#1.txt#1271/CH1/EX1.1/1.txt#R##69746
+1#INTERFERENCE#1.1#Calculation of time Coherence#example1_1.sce#1271/CH1/EX1.1/example1_1.sce#S##69745

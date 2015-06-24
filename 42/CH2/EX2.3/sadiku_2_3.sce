@@ -1,0 +1,15 @@
+clear;
+clc;
+E=[-5 10 3];ModE=sqrt((-5)^2+10^2+3^2);
+F=[1 2 -6];
+P=[5,%pi/2,3];
+G1=E(1,2)*F(1,3)-E(1,3)*F(1,2);
+G2=E(1,3)*F(1,1)-E(1,1)*F(1,3);
+G3=E(1,1)*F(1,2)-E(1,2)*F(1,1);
+G=[G1 G2 G3];
+disp(sqrt(G1^2+G2^2+G3^2),'Mod of (E*F)');
+ay=[sin(%pi/2) cos(%pi/2) 0];
+Ey=(E(1,1)*ay(1,1)+E(1,2)*ay(1,2)+E(1,3)*ay(1,3));
+disp(Ey,'Component of E parallel to x=2 & z=3');
+P=acosd(3/ModE);
+disp(90-P,'Angle which make E wid Z=3');

@@ -1,0 +1,5 @@
+**Sample Problem 41-6a**
+The ratio is equal to 1.255602e-038
+
+**Sample Problem 41-6b**
+The temprature required for the given ratio is equal to 37771.466347K 

@@ -1,0 +1,5 @@
+ # Problem 9 # 
+
+ Standard formula Used 
+ 2 * d * sin(theta) = n * lambda 
+ Second order brags reflection occurs at 14.700000 degree for the wavelength 0.771424 Angstrom

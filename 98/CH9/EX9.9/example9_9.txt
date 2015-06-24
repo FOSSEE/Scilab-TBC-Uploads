@@ -1,0 +1,15 @@
+GMR of conductor = 0.0413 cm 
+
+Ds1 = 0.995 m 
+Ds2 = 0.995 m 
+Ds3 = 0.995 m 
+Equivalent self GMD of one phase = 0.995 m 
+
+DAB = 13.454 m 
+DBC = 13.454 m 
+DCA = 16.918 m 
+Equivalent mutual GMD = 14.522 m 
+
+Inductance/phase/m = 5.361*10^-7 mH 
+
+

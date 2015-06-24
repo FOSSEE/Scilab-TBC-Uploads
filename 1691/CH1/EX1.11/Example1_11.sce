@@ -1,0 +1,17 @@
+//Example 1.11
+clc
+disp("(i) The gain of the amplifier is given as")
+disp("60 dB = 20 log(Vo/V_s)")
+disp("Therefore,  A_v = Vo/V_s = 1000")
+disp("beta = 1/20 = 0.05")
+disp("Therefore,  The gain of amplifier with feedback is")
+avf=1000/(1+(1000*0.05))
+format(5)
+disp(avf,"A_vf = A_v / 1+A_v*beta =")
+disp("(ii) The gain of the amplifier is directly proportional to the g_m. Therefore, the gain of the amplifier without feedback changes as same amount as g_m changes")
+disp("Therefore,  A_v = A_v +- 0.5*A_v = 1000 +- 500")
+disp("The gain of the amplifier with feedback is now given as")
+avf1=1500/(1+(1500*0.05))
+avf2=500/(1+(500*0.05))
+format(6)
+disp(avf1,avf2,"A_vf = A_v / 1+A_v*beta =")

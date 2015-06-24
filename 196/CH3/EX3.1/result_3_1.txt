@@ -1,0 +1,7 @@
+current through Rf =  0.0001 A 
+
+
+Value of output voltage =  -10.0000 V 
+
+
+Value of closed loop gain =  -10.0000 

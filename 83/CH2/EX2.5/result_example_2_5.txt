@@ -1,0 +1,15 @@
+
+Flux linkages of the neutral wire = 0.000010 Wb-T/m
+
+Voltage induced in the neutral = 99
+
+The Voltage drop of phase a(in volts) = 
+  - 349.1594 - 204.26943i  
+
+
+The Voltage drop of phase b(in volts) = 
+  - 308.62198 - 140.28272i  
+
+
+The Voltage drop of phase c(in volts) = 
+    621.85121 + 328.22026i  

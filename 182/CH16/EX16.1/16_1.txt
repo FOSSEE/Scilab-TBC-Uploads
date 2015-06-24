@@ -1,0 +1,5 @@
+
+1.source effect=50 mV
+  line regulation=0.42 percent
+  load effect=99 mV
+  line regulation=0.83 percent

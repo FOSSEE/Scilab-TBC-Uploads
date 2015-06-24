@@ -1,0 +1,6 @@
+
+ Example 3.3   
+ 
+ since at no-load E2=V2   
+induced secondary winding,E2=920V
+Maximium flux density in the core=0.414414Wb/m^2 

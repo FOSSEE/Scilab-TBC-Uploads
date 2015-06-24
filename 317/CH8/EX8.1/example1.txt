@@ -1,0 +1,1 @@
+Collector-emitter voltage is 4.92 volts.

@@ -1,0 +1,5 @@
+g1max = 39.37 kV/cm 
+
+g2max = 32.80 kV/cm 
+
+

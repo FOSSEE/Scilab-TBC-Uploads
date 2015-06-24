@@ -1,0 +1,309 @@
+12#CLASSIFIED SOLVED EXAMPLES#12.9#Determine Peak Overshoot#exa12_9.sce#29/CH12/EX12.9/exa12_9.sce#S##3130
+12#CLASSIFIED SOLVED EXAMPLES#12.8#Time Response and Peak Overshoot#exa12_8.sce#29/CH12/EX12.8/exa12_8.sce#S##3127
+12#CLASSIFIED SOLVED EXAMPLES#12.7#Determine Peak Time and Peak Overshoot#exa12_7.sce#29/CH12/EX12.7/exa12_7.sce#S##3121
+12#CLASSIFIED SOLVED EXAMPLES#12.61#Obtain Transfer Matrix#exa12_61.sce#29/CH12/EX12.61/exa12_61.sce#S##3185
+12#CLASSIFIED SOLVED EXAMPLES#12.59#Obtain Time Response#exa12_59.sce#29/CH12/EX12.59/exa12_59.sce#S##3184
+12#CLASSIFIED SOLVED EXAMPLES#12.57#Obtain Time Response#exa12_57.sce#29/CH12/EX12.57/exa12_57.sce#S##3183
+12#CLASSIFIED SOLVED EXAMPLES#12.56#Obtain State Transistion Matrix#exa12_56.sce#29/CH12/EX12.56/exa12_56.sce#S##3182
+12#CLASSIFIED SOLVED EXAMPLES#12.55#Obtain State Matrix#exa12_55.sce#29/CH12/EX12.55/exa12_55.sce#S##3181
+12#CLASSIFIED SOLVED EXAMPLES#12.54#Obtain State Matrix#exa12_54.sce#29/CH12/EX12.54/exa12_54.sce#S##3180
+12#CLASSIFIED SOLVED EXAMPLES#12.51#Root Locus and Gain and Phase Margin#exa12_51.sce#29/CH12/EX12.51/exa12_51.sce#S##3178
+12#CLASSIFIED SOLVED EXAMPLES#12.51#Root Locus and Gain and Phase Margin#exa12_51.jpg#29/CH12/EX12.51/exa12_51.jpg#R##3179
+12#CLASSIFIED SOLVED EXAMPLES#12.50#Root Locus and Closed loop Transfer Function#exa12_50.sce#29/CH12/EX12.50/exa12_50.sce#S##3176
+12#CLASSIFIED SOLVED EXAMPLES#12.50#Root Locus and Closed loop Transfer Function#exa12_50.jpg#29/CH12/EX12.50/exa12_50.jpg#R##3177
+12#CLASSIFIED SOLVED EXAMPLES#12.5#Transfer Function#exa12_5.sce#29/CH12/EX12.5/exa12_5.sce#S##3116
+12#CLASSIFIED SOLVED EXAMPLES#12.49#Root Locus and Value of K#exa12_49.sce#29/CH12/EX12.49/exa12_49.sce#S##3174
+12#CLASSIFIED SOLVED EXAMPLES#12.49#Root Locus and Value of K#exa12_49.jpg#29/CH12/EX12.49/exa12_49.jpg#R##3175
+12#CLASSIFIED SOLVED EXAMPLES#12.48#Root Locus and Value of K#exa12_48.sce#29/CH12/EX12.48/exa12_48.sce#S##3172
+12#CLASSIFIED SOLVED EXAMPLES#12.48#Root Locus and Value of K#exa12_48.jpg#29/CH12/EX12.48/exa12_48.jpg#R##3173
+12#CLASSIFIED SOLVED EXAMPLES#12.46#Root Locus and Value of K#exa12_46.sce#29/CH12/EX12.46/exa12_46.sce#S##3170
+12#CLASSIFIED SOLVED EXAMPLES#12.46#Root Locus and Value of K#exa12_46.jpg#29/CH12/EX12.46/exa12_46.jpg#R##3171
+12#CLASSIFIED SOLVED EXAMPLES#12.45#Root Locus and Value of K#exa12_45.sce#29/CH12/EX12.45/exa12_45.sce#S##3166
+12#CLASSIFIED SOLVED EXAMPLES#12.45#Root Locus and Value of K#exa12_45.jpg#29/CH12/EX12.45/exa12_45.jpg#R##3167
+12#CLASSIFIED SOLVED EXAMPLES#12.44#Root Locus and Value of K#exa12_44.sce#29/CH12/EX12.44/exa12_44.sce#S##3168
+12#CLASSIFIED SOLVED EXAMPLES#12.44#Root Locus and Value of K#exa12_44.jpg#29/CH12/EX12.44/exa12_44.jpg#R##3169
+12#CLASSIFIED SOLVED EXAMPLES#12.43#Root Locus and Value of K#exa12_43.sce#29/CH12/EX12.43/exa12_43.sce#S##3164
+12#CLASSIFIED SOLVED EXAMPLES#12.43#Root Locus and Value of K#exa12_43.jpg#29/CH12/EX12.43/exa12_43.jpg#R##3165
+12#CLASSIFIED SOLVED EXAMPLES#12.42#Root Locus#exa12_42.sce#29/CH12/EX12.42/exa12_42.sce#S##3162
+12#CLASSIFIED SOLVED EXAMPLES#12.42#Root Locus#exa12_42.jpg#29/CH12/EX12.42/exa12_42.jpg#R##3163
+12#CLASSIFIED SOLVED EXAMPLES#12.4#Transfer Function#exa12_4.sce#29/CH12/EX12.4/exa12_4.sce#S##3113
+12#CLASSIFIED SOLVED EXAMPLES#12.33#Determine Close Loop Stability#exa12_33.sce#29/CH12/EX12.33/exa12_33.sce#S##3160
+12#CLASSIFIED SOLVED EXAMPLES#12.33#Determine Close Loop Stability#exa12_33.jpg#29/CH12/EX12.33/exa12_33.jpg#R##3161
+12#CLASSIFIED SOLVED EXAMPLES#12.3#Transfer Function#exa12_3.sce#29/CH12/EX12.3/exa12_3.sce#S##3110
+12#CLASSIFIED SOLVED EXAMPLES#12.27#Gain and Phase Margin#exa12_27.sce#29/CH12/EX12.27/exa12_27.sce#S##3158
+12#CLASSIFIED SOLVED EXAMPLES#12.27#Gain and Phase Margin#exa12_27.jpg#29/CH12/EX12.27/exa12_27.jpg#R##3159
+12#CLASSIFIED SOLVED EXAMPLES#12.23.iii#Stability Using Nyquist Criterion#exa12_23_iii.sce#29/CH12/EX12.23.iii/exa12_23_iii.sce#S##3155
+12#CLASSIFIED SOLVED EXAMPLES#12.23.iii#Stability Using Nyquist Criterion#exa12_23_iii.jpg#29/CH12/EX12.23.iii/exa12_23_iii.jpg#R##3156
+12#CLASSIFIED SOLVED EXAMPLES#12.23.iii#Stability Using Nyquist Criterion#exa12_23_iii_margin.jpg#29/CH12/EX12.23.iii/exa12_23_iii_margin.jpg#R##3157
+12#CLASSIFIED SOLVED EXAMPLES#12.23.ii#Stability Using Nyquist Criterion#exa12_23_ii.sce#29/CH12/EX12.23.ii/exa12_23_ii.sce#S##3152
+12#CLASSIFIED SOLVED EXAMPLES#12.23.ii#Stability Using Nyquist Criterion#exa12_23_ii.jpg#29/CH12/EX12.23.ii/exa12_23_ii.jpg#R##3153
+12#CLASSIFIED SOLVED EXAMPLES#12.23.ii#Stability Using Nyquist Criterion#exa12_23_ii_margin.jpg#29/CH12/EX12.23.ii/exa12_23_ii_margin.jpg#R##3154
+12#CLASSIFIED SOLVED EXAMPLES#12.23.i#Stability Using Nyquist Criterion#exa12_23_i_margin.jpg#29/CH12/EX12.23.i/exa12_23_i_margin.jpg#R##3151
+12#CLASSIFIED SOLVED EXAMPLES#12.23.i#Stability Using Nyquist Criterion#exa12_23_i.jpg#29/CH12/EX12.23.i/exa12_23_i.jpg#R##3150
+12#CLASSIFIED SOLVED EXAMPLES#12.23.i#Stability Using Nyquist Criterion#exa12_23_i.sce#29/CH12/EX12.23.i/exa12_23_i.sce#S##3149
+12#CLASSIFIED SOLVED EXAMPLES#12.21#Determine Frequency of Oscillations#exa12_21.sce#29/CH12/EX12.21/exa12_21.sce#S##3145
+12#CLASSIFIED SOLVED EXAMPLES#12.2#Transfer Function#exa12_2.sce#29/CH12/EX12.2/exa12_2.sce#S##3107
+12#CLASSIFIED SOLVED EXAMPLES#12.19#Stability Using Routh Hurwitz Criterion#exa12_19.sce#29/CH12/EX12.19/exa12_19.sce#S##3144
+12#CLASSIFIED SOLVED EXAMPLES#12.18#Stability Using Routh Hurwitz Criterion#exa12_18.sce#29/CH12/EX12.18/exa12_18.sce#S##3143
+12#CLASSIFIED SOLVED EXAMPLES#12.17#Stability Using Routh Hurwitz Criterion#exa12_17.sce#29/CH12/EX12.17/exa12_17.sce#S##3142
+12#CLASSIFIED SOLVED EXAMPLES#12.16#Stability Using Routh Hurwitz Criterion#exa12_16.sce#29/CH12/EX12.16/exa12_16.sce#S##3141
+12#CLASSIFIED SOLVED EXAMPLES#12.15#Stability Using Routh Hurwitz Criterion#exa12_15.sce#29/CH12/EX12.15/exa12_15.sce#S##3140
+12#CLASSIFIED SOLVED EXAMPLES#12.13#Determine Wn Wd zeta and steady state error#exa12_13.sce#29/CH12/EX12.13/exa12_13.sce#S##3139
+12#CLASSIFIED SOLVED EXAMPLES#12.12#Determine Wn Wd zeta and steady state error#exa12_12.sce#29/CH12/EX12.12/exa12_12.sce#S##3138
+12#CLASSIFIED SOLVED EXAMPLES#12.11#Determine Unit Step and Unit Impulse Response#exa12_11.sce#29/CH12/EX12.11/exa12_11.sce#S##3136
+12#CLASSIFIED SOLVED EXAMPLES#12.10#Determine Unit Step Response#exa12_10.sce#29/CH12/EX12.10/exa12_10.sce#S##3134
+12#CLASSIFIED SOLVED EXAMPLES#12.1#Transfer Function#exa12_1.sce#29/CH12/EX12.1/exa12_1.sce#S##3104
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.9#time response for unit step function#exa11_9.sce#29/CH11/EX11.9/exa11_9.sce#S##3078
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.8#time response for unit step function#exa11_8.sce#29/CH11/EX11.8/exa11_8.sce#S##3076
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.7#time response for  unit step function#exa11_7.sce#29/CH11/EX11.7/exa11_7.sce#S##3075
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.5#time response for unit step function#exa11_6.sce#29/CH11/EX11.5/exa11_6.sce#S##3072
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.4#determine Wn zeta and Mp#exa11_4.sce#29/CH11/EX11.4/exa11_4.sce#S##3071
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.39#determine transfer matrix#exa11_39.sce#29/CH11/EX11.39/exa11_39.sce#S##3137
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.38#determine transfer function#exa11_38.sce#29/CH11/EX11.38/exa11_38.sce#S##3135
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.37#check for contrallability of system#exa11_37.sce#29/CH11/EX11.37/exa11_37.sce#S##3133
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.36#state transition matrix#exa11_36.sce#29/CH11/EX11.36/exa11_36.sce#S##3132
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.35#obtain state matrix#exa11_35.sce#29/CH11/EX11.35/exa11_35.sce#S##3131
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.34#obtain state matrix#exa11_34.sce#29/CH11/EX11.34/exa11_34.sce#S##3129
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.33#obtain state matrix#exa11_33.sce#29/CH11/EX11.33/exa11_33.sce#S##3128
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.32#nicholas chart#exa11_32.sce#29/CH11/EX11.32/exa11_32.sce#S##3125
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.32#nicholas chart#exa11_32.jpg#29/CH11/EX11.32/exa11_32.jpg#R##3126
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.31#design lead compensator#exa11_31.sce#29/CH11/EX11.31/exa11_31.sce#S##3122
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.31#design lead compensator#exa11_31_compensated.jpg#29/CH11/EX11.31/exa11_31_compensated.jpg#R##3123
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.31#design lead compensator#exa11_31_uncompensated.jpg#29/CH11/EX11.31/exa11_31_uncompensated.jpg#R##3124
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.30#root locus#exa11_30.sce#29/CH11/EX11.30/exa11_30.sce#S##3119
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.30#root locus#exa11_30.jpg#29/CH11/EX11.30/exa11_30.jpg#R##3120
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.3#transfer function#exa11_3.sce#29/CH11/EX11.3/exa11_3.sce#S##3070
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.29#root locus#exa11_29.sce#29/CH11/EX11.29/exa11_29.sce#S##3117
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.29#root locus#exa11_29.jpg#29/CH11/EX11.29/exa11_29.jpg#R##3118
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.28#root locus#exa11_28.sce#29/CH11/EX11.28/exa11_28.sce#S##3114
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.28#root locus#exa11_28.jpg#29/CH11/EX11.28/exa11_28.jpg#R##3115
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.27#root locus#exa11_27.sce#29/CH11/EX11.27/exa11_27.sce#S##3111
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.27#root locus#exa11_27.jpg#29/CH11/EX11.27/exa11_27.jpg#R##3112
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.26.ii#stability using Nyquist criterion#exa11_26_ii.sce#29/CH11/EX11.26.ii/exa11_26_ii.sce#S##3108
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.26.ii#stability using Nyquist criterion#exa11_26_ii.jpg#29/CH11/EX11.26.ii/exa11_26_ii.jpg#R##3109
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.26.i#stability using Nyquist criterion#exa11_26_i.sce#29/CH11/EX11.26.i/exa11_26_i.sce#S##3105
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.26.i#stability using Nyquist criterion#exa11_26_i.jpg#29/CH11/EX11.26.i/exa11_26_i.jpg#R##3106
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.25#stability using Nyquist criterion#exa11_25.sce#29/CH11/EX11.25/exa11_25.sce#S##3102
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.25#stability using Nyquist criterion#exa11_25.jpg#29/CH11/EX11.25/exa11_25.jpg#R##3103
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.24#stability using Nyquist criterion#exa11_24.sce#29/CH11/EX11.24/exa11_24.sce#S##3100
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.24#stability using Nyquist criterion#exa11_24.jpg#29/CH11/EX11.24/exa11_24.jpg#R##3101
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.22#gain margin and phase margin#exa11_22.sce#29/CH11/EX11.22/exa11_22.sce#S##3098
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.22#gain margin and phase margin#exa11_22.jpg#29/CH11/EX11.22/exa11_22.jpg#R##3099
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.21.b#bode plot#exa11_21_b.sce#29/CH11/EX11.21.b/exa11_21_b.sce#S##3096
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.21.b#bode plot#exa11_21_b.jpg#29/CH11/EX11.21.b/exa11_21_b.jpg#R##3097
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.21.a#roots of characterstics equation#exa11_21_a.sce#29/CH11/EX11.21.a/exa11_21_a.sce#S##3095
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.2#transfer function#exa11_2.sce#29/CH11/EX11.2/exa11_2.sce#S##3068
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.19#determine transfer function#exa11_19.sce#29/CH11/EX11.19/exa11_19.sce#S##3094
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.18#determine Kp Kv Ka#exa11_18.sce#29/CH11/EX11.18/exa11_18.sce#S##3093
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.17#determine Kp Kv Ka#exa11_17.sce#29/CH11/EX11.17/exa11_17.sce#S##3092
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.16#determine Kp Kv Ka#exa11_16.sce#29/CH11/EX11.16/exa11_16.sce#S##3091
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.15#determine Wn Wd zeta and steady state error#exa11_15.sce#29/CH11/EX11.15/exa11_15.sce#S##3090
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.14#determine Wn Wd Tp zeta and steady state error#exa11_14.sce#29/CH11/EX11.14/exa11_14.sce#S##3089
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.13#determine transfer function#exa11_13.sce#29/CH11/EX11.13/exa11_13.sce#S##3088
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.12#unit step and impulse response#exa11_12.sce#29/CH11/EX11.12/exa11_12.sce#S##3087
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.11#expression for unit step response#exa11_11.sce#29/CH11/EX11.11/exa11_11.sce#S##3084
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.10.b#calculate Td tr Tp Mp#exa11_10_b.sce#29/CH11/EX11.10.b/exa11_10_b.sce#S##3082
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.10.a#calculate tr Tp Mp#exa11_10_a.sce#29/CH11/EX11.10.a/exa11_10_a.sce#S##3080
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.1#pole zero Plot#exa11_1.sce#29/CH11/EX11.1/exa11_1.sce#S##3065
+11#SOLUTION OF PROBLEMS USING COMPUTER#11.1#pole zero Plot#exa11_1.jpg#29/CH11/EX11.1/exa11_1.jpg#R##3066
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.9.1.b#Check for Observability of System#exa9_9_1_b.sce#29/CH9/EX9.9.1.b/exa9_9_1_b.sce#S##3055
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.9.1.a#Check for Observability of System#exa9_9_1_a.sce#29/CH9/EX9.9.1.a/exa9_9_1_a.sce#S##3054
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.8.2#Check for Contrallability of System#exa9_8_2.sce#29/CH9/EX9.8.2/exa9_8_2.sce#S##3053
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.8.1#Check for Contrallability of System#exa9_8_1.sce#29/CH9/EX9.8.1/exa9_8_1.sce#S##3052
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.9#Obtain State Matrix#exa9_10_9.sce#29/CH9/EX9.10.9/exa9_10_9.sce#S##3061
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.7#Obtain State Matrix#exa9_10_7.sce#29/CH9/EX9.10.7/exa9_10_7.sce#S##3060
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.6#Obtain State Matrix#exa9_10_6.sce#29/CH9/EX9.10.6/exa9_10_6.sce#S##3059
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.5#Obtain State Matrix#exa9_10_5.sce#29/CH9/EX9.10.5/exa9_10_5.sce#S##3058
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.4.b#Obtain State Matrix#exa9_10_4_b.sce#29/CH9/EX9.10.4.b/exa9_10_4_b.sce#S##3057
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.4.a#Obtain State Matrix#exa9_10_4_a.sce#29/CH9/EX9.10.4.a/exa9_10_4_a.sce#S##3056
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.22#Check for Contrallability and Observability#exa9_10_22.sce#29/CH9/EX9.10.22/exa9_10_22.sce#S##3086
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.21#Check for Contrallability and Observability#exa9_10_21.sce#29/CH9/EX9.10.21/exa9_10_21.sce#S##3085
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.20#Check for Contrallability of System#exa9_10_20.sce#29/CH9/EX9.10.20/exa9_10_20.sce#S##3083
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.18#Determine Transfer Matrix#exa9_10_18.sce#29/CH9/EX9.10.18/exa9_10_18.sce#S##3081
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.17#Determine Transfer Matrix#exa9_10_17.sce#29/CH9/EX9.10.17/exa9_10_17.sce#S##3079
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.16#Determine Transfer Matrix#exa9_10_16.sce#29/CH9/EX9.10.16/exa9_10_16.sce#S##3077
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.15#Obtain Time Response using Diagonalization Process#exa9_10_15.sce#29/CH9/EX9.10.15/exa9_10_15.sce#S##3074
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.14#Obtain Time Response using Diagonalization Process#exa9_10_14.sce#29/CH9/EX9.10.14/exa9_10_14.sce#S##3073
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.13#Obtain Time Response#exa9_10_13.sce#29/CH9/EX9.10.13/exa9_10_13.sce#S##3069
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.12.ii#Obtain Zero State Response#exa9_10_12_ii.sce#29/CH9/EX9.10.12.ii/exa9_10_12_ii.sce#S##3067
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.12.i#Obtain Zero Input Response#exa9_10_12_i.sce#29/CH9/EX9.10.12.i/exa9_10_12_i.sce#S##3064
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.11#Obtain Time Response#exa9_10_11.sce#29/CH9/EX9.10.11/exa9_10_11.sce#S##3063
+9#INTRODUCTION TO STATE SPACE ANALYSIS OF CONTROL SYSTEMS#9.10.10#Obtain State Matrix#exa9_10_10.sce#29/CH9/EX9.10.10/exa9_10_10.sce#S##3062
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.3#design suitable compensator#exa8_6_3.sce#29/CH8/EX8.6.3/exa8_6_3.sce#S##3004
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.3#design suitable compensator#exa8_6_3_uncompensated.jpg#29/CH8/EX8.6.3/exa8_6_3_uncompensated.jpg#R##3005
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.3#design suitable compensator#exa8_6_3_compensated.jpg#29/CH8/EX8.6.3/exa8_6_3_compensated.jpg#R##3006
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.2#design phase lead compensator#exa8_6_2.sce#29/CH8/EX8.6.2/exa8_6_2.sce#S##3001
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.2#design phase lead compensator#exa8_6_2_uncompensated.jpg#29/CH8/EX8.6.2/exa8_6_2_uncompensated.jpg#R##3002
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.2#design phase lead compensator#exa8_6_2_compensated.jpg#29/CH8/EX8.6.2/exa8_6_2_compensated.jpg#R##3003
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.1#design suitable compensator#exa8_6_1.sce#29/CH8/EX8.6.1/exa8_6_1.sce#S##2998
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.1#design suitable compensator#exa8_6_1_uncompensated.jpg#29/CH8/EX8.6.1/exa8_6_1_uncompensated.jpg#R##2999
+8#COMPENSATION OF CONTROL SYSTEMS#8.6.1#design suitable compensator#exa8_6_1_compensated.jpg#29/CH8/EX8.6.1/exa8_6_1_compensated.jpg#R##3000
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.8#value of K in terms of T1 and T2#exa7_5_8.sce#29/CH7/EX7.5.8/exa7_5_8.sce#S##2952
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.7.b#value of K of characterstics equation#exa7_5_7_b.sce#29/CH7/EX7.5.7.b/exa7_5_7_b.sce#S##2951
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.7.a#stability using Routh hurwitz criterion#exa7_5_7_a.sce#29/CH7/EX7.5.7.a/exa7_5_7_a.sce#S##2950
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.6#stability using Routh hurwitz criterion#exa7_5_6.sce#29/CH7/EX7.5.6/exa7_5_6.sce#S##2949
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.5#stability using Routh hurwitz criterion#exa7_5_5.sce#29/CH7/EX7.5.5/exa7_5_5.sce#S##2948
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.4#stability using Routh hurwitz criterion#exa7_5_4.sce#29/CH7/EX7.5.4/exa7_5_4.sce#S##2947
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.3#stability using Routh hurwitz criterion#exa7_5_3.sce#29/CH7/EX7.5.3/exa7_5_3.sce#S##2946
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.2#stability using Routh hurwitz criterion#exa7_5_2.sce#29/CH7/EX7.5.2/exa7_5_2.sce#S##2945
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.5.1#stability using Routh hurwitz criterion#exa7_5_1.sce#29/CH7/EX7.5.1/exa7_5_1.sce#S##2944
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.9#root locus#exa7_24_9.sce#29/CH7/EX7.24.9/exa7_24_9.sce#S##2992
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.9#root locus#exa7_24_9.jpg#29/CH7/EX7.24.9/exa7_24_9.jpg#R##2993
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.8#root locus#exa7_24_8.sce#29/CH7/EX7.24.8/exa7_24_8.sce#S##2990
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.8#root locus#exa7_24_8.jpg#29/CH7/EX7.24.8/exa7_24_8.jpg#R##2991
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.7#root locus#exa7_24_7.sce#29/CH7/EX7.24.7/exa7_24_7.sce#S##2988
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.7#root locus#exa7_24_7.jpg#29/CH7/EX7.24.7/exa7_24_7.jpg#R##2989
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.6#root locus#exa7_24_6.sce#29/CH7/EX7.24.6/exa7_24_6.sce#S##2986
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.6#root locus#exa7_24_6.jpg#29/CH7/EX7.24.6/exa7_24_6.jpg#R##2987
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.4#root locus#exa7_24_4.sce#29/CH7/EX7.24.4/exa7_24_4.sce#S##2984
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.4#root locus#exa7_24_4.jpg#29/CH7/EX7.24.4/exa7_24_4.jpg#R##2985
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.3#root locus description#exa7_24_3.sce#29/CH7/EX7.24.3/exa7_24_3.sce#S##2982
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.3#root locus description#exa7_24_3.jpg#29/CH7/EX7.24.3/exa7_24_3.jpg#R##2983
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.2#root locus description#exa7_24_2.sce#29/CH7/EX7.24.2/exa7_24_2.sce#S##2980
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.2#root locus description#exa7_24_2.jpg#29/CH7/EX7.24.2/exa7_24_2.jpg#R##2981
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.11#root locus#exa7_24_11.sce#29/CH7/EX7.24.11/exa7_24_11.sce#S##2996
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.11#root locus#exa7_24_11.jpg#29/CH7/EX7.24.11/exa7_24_11.jpg#R##2997
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.10#Overall Transfer Function and Root Locus#exa7_24_10.jpg#29/CH7/EX7.24.10/exa7_24_10.jpg#R##3051
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.10#Overall Transfer Function and Root Locus#exa7_24_10.sce#29/CH7/EX7.24.10/exa7_24_10.sce#S##3050
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.1#root locus description#exa7_24_1.sce#29/CH7/EX7.24.1/exa7_24_1.sce#S##2978
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.24.1#root locus description#exa7_24_1.jpg#29/CH7/EX7.24.1/exa7_24_1.jpg#R##2979
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.19.3#stability using bode plot#exa7_19_3.sce#29/CH7/EX7.19.3/exa7_19_3.sce#S##2976
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.19.3#stability using bode plot#exa7_19_3.jpg#29/CH7/EX7.19.3/exa7_19_3.jpg#R##2977
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.19.2#gain margin and phase margin#exa7_19_2.sce#29/CH7/EX7.19.2/exa7_19_2.sce#S##2974
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.19.2#gain margin and phase margin#exa7_19_2.jpg#29/CH7/EX7.19.2/exa7_19_2.jpg#R##2975
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.19.1#stability using bode plot#exa7_19_1.sce#29/CH7/EX7.19.1/exa7_19_1.sce#S##2972
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.19.1#stability using bode plot#exa7_19_1.jpg#29/CH7/EX7.19.1/exa7_19_1.jpg#R##2973
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.9#gain margin and phase margin#exa7_17_9.sce#29/CH7/EX7.17.9/exa7_17_9.sce#S##2969
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.7#stability using Nyquist criterion#exa7_17_7.sce#29/CH7/EX7.17.7/exa7_17_7.sce#S##2967
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.7#stability using Nyquist criterion#exa7_17_7.jpg#29/CH7/EX7.17.7/exa7_17_7.jpg#R##2968
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.5#Phase Margin#exa7_17_5.sce#29/CH7/EX7.17.5/exa7_17_5.sce#S##2965
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.5#Phase Margin#exa7_17_5.jpg#29/CH7/EX7.17.5/exa7_17_5.jpg#R##2966
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.3#stability using Nyquist criterion#exa7_17_3.sce#29/CH7/EX7.17.3/exa7_17_3.sce#S##2962
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.3#stability using Nyquist criterion#exa7_17_3.jpg#29/CH7/EX7.17.3/exa7_17_3.jpg#R##2963
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.3#stability using Nyquist criterion#exa7_17_3_margin.jpg#29/CH7/EX7.17.3/exa7_17_3_margin.jpg#R##2964
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.2.ii#stability using Nyquist criterion#exa7_17_2_ii.sce#29/CH7/EX7.17.2.ii/exa7_17_2_ii.sce#S##2959
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.2.ii#stability using Nyquist criterion#exa7_17_2_ii.jpg#29/CH7/EX7.17.2.ii/exa7_17_2_ii.jpg#R##2960
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.2.ii#stability using Nyquist criterion#exa7_17_2_ii_margin.jpg#29/CH7/EX7.17.2.ii/exa7_17_2_ii_margin.jpg#R##2961
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.2.i#stability using Nyquist criterion#exa7_17_2_i.sce#29/CH7/EX7.17.2.i/exa7_17_2_i.sce#S##2956
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.2.i#stability using Nyquist criterion#exa7_17_2_i.jpg#29/CH7/EX7.17.2.i/exa7_17_2_i.jpg#R##2957
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.2.i#stability using Nyquist criterion#exa7_17_2_i_margin.jpg#29/CH7/EX7.17.2.i/exa7_17_2_i_margin.jpg#R##2958
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.18#gain phase plot#exa7_17_18.sce#29/CH7/EX7.17.18/exa7_17_18.sce#S##2970
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.18#gain phase plot#exa7_17_18.jpg#29/CH7/EX7.17.18/exa7_17_18.jpg#R##2971
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.1#stability using Nyquist criterion#exa7_17_1.sce#29/CH7/EX7.17.1/exa7_17_1.sce#S##2953
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.1#stability using Nyquist criterion#exa7_17_1.jpg#29/CH7/EX7.17.1/exa7_17_1.jpg#R##2954
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#7.17.1#stability using Nyquist criterion#exa7_17_1_margin.jpg#29/CH7/EX7.17.1/exa7_17_1_margin.jpg#R##2955
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#3.0#root locus#exa3.sce#29/CH7/EX3.0/exa3.sce#S##2942
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#3.0#root locus#exa3.jpg#29/CH7/EX3.0/exa3.jpg#R##2943
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#2.0#root locus#exa2.sce#29/CH7/EX2.0/exa2.sce#S##2940
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#2.0#root locus#exa2.jpg#29/CH7/EX2.0/exa2.jpg#R##2941
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#1.0#root locus#exa1.sce#29/CH7/EX1.0/exa1.sce#S##2938
+7#STABILITY ANALYSIS OF CONTROL SYSTEMS#1.0#root locus#exa1.jpg#29/CH7/EX1.0/exa1.jpg#R##2939
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.9#determine J f K#exa6_10_9.sce#29/CH6/EX6.10.9/exa6_10_9.sce#S##2912
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.8#Determine Steady State Speed and Error#exa6_10_8.sce#29/CH6/EX6.10.8/exa6_10_8.sce#S##3047
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.7#determine factor by which K should be reduced#exa6_10_7.sce#29/CH6/EX6.10.7/exa6_10_7.sce#S##2819
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.6#Time Response#exa6_10_6.sce#29/CH6/EX6.10.6/exa6_10_6.sce#S##3046
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.5#Calculate Wn zeta Wd tp Mp#exa6_10_5.sce#29/CH6/EX6.10.5/exa6_10_5.sce#S##2817
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.4#Time Response for Unit Step Function#exa6_10_4.sce#29/CH6/EX6.10.4/exa6_10_4.sce#S##3045
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.3#Time Response for Unit Step Function#exa6_10_3.sce#29/CH6/EX6.10.3/exa6_10_3.sce#S##2815
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.23#determine sensitivity wrt K and H#exa6_10_23.sce#29/CH6/EX6.10.23/exa6_10_23.sce#S##3043
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.22#determine voltage Er and change in terminalvoltage#exa6_10_22.sce#29/CH6/EX6.10.22/exa6_10_22.sce#S##2931
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.21#determine steady state error and error coefficient#exa6_10_21.sce#29/CH6/EX6.10.21/exa6_10_21.sce#S##2930
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.20#determine steady state error and error coefficient#exa6_10_20.sce#29/CH6/EX6.10.20/exa6_10_20.sce#S##2929
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.2#Time Response for unit Impulse and Step function #exa6_10_2.sce#29/CH6/EX6.10.2/exa6_10_2.sce#S##2814
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.19#determine steady state error#exa6_10_19.sce#29/CH6/EX6.10.19/exa6_10_19.sce#S##2928
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.18#determine Kp Kv and Ka#exa6_10_18.sce#29/CH6/EX6.10.18/exa6_10_18.sce#S##2925
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.17#determine Kp Kv and Ka#exa6_10_17.sce#29/CH6/EX6.10.17/exa6_10_17.sce#S##2924
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.16#determine Wn zeta and M#exa6_10_16.sce#29/CH6/EX6.10.16/exa6_10_16.sce#S##2923
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.14#determine Mp Ess and steady state value#exa6_10_14.sce#29/CH6/EX6.10.14/exa6_10_14.sce#S##3044
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.13#determine K ts tp and Mp#exa6_10_13.sce#29/CH6/EX6.10.13/exa6_10_13.sce#S##2920
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.12#determine WnWd zeta and steady state error#exa6_10_12.sce#29/CH6/EX6.10.12/exa6_10_12.sce#S##2919
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.11#Determine Characterstics eq and Steady State Error#exa6_10_11.sce#29/CH6/EX6.10.11/exa6_10_11.sce#S##3049
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.10#Determine Transfer Function Wn zeta#exa6_10_10.sce#29/CH6/EX6.10.10/exa6_10_10.sce#S##3048
+6#TIME RESPONSE ANALYSIS OF CONTROL SYSTEMS#6.10.1#time response for step function#exa6_10_1.sce#29/CH6/EX6.10.1/exa6_10_1.sce#S##2903
+5#MODELLING A CONTROL SYSTEM#5.9.9#Overall Transfer Function of given System#exa5_9_9.sce#29/CH5/EX5.9.9/exa5_9_9.sce#S##3022
+5#MODELLING A CONTROL SYSTEM#5.9.8#Overall Transfer Function of given System#exa5_9_8.sce#29/CH5/EX5.9.8/exa5_9_8.sce#S##3021
+5#MODELLING A CONTROL SYSTEM#5.9.7#Transfer Function of Generator#exa5_9_7.sce#29/CH5/EX5.9.7/exa5_9_7.sce#S##2719
+5#MODELLING A CONTROL SYSTEM#5.9.6#Calculate Gain of Amplifier Ka#exa5_9_6.sce#29/CH5/EX5.9.6/exa5_9_6.sce#S##3020
+5#MODELLING A CONTROL SYSTEM#5.9.5#Calculate Reference Voltage Vr#exa5_9_5.sce#29/CH5/EX5.9.5/exa5_9_5.sce#S##2715
+5#MODELLING A CONTROL SYSTEM#5.9.5#Calculate Reference Voltage Vr#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+5#MODELLING A CONTROL SYSTEM#5.9.4#Calculate Reference Voltage Vr#exa5_9_4.sce#29/CH5/EX5.9.4/exa5_9_4.sce#S##2713
+5#MODELLING A CONTROL SYSTEM#5.9.4#Calculate Reference Voltage Vr#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+5#MODELLING A CONTROL SYSTEM#5.9.14#Transfer Function Of Motor#exa5_9_14.sce#29/CH5/EX5.9.14/exa5_9_14.sce#S##3027
+5#MODELLING A CONTROL SYSTEM#5.9.13#Overall Transfer Function of Two Phase ac Motor#exa5_9_13.sce#29/CH5/EX5.9.13/exa5_9_13.sce#S##3026
+5#MODELLING A CONTROL SYSTEM#5.9.12#Overall Transfer Function of given System#exa5_9_12.sce#29/CH5/EX5.9.12/exa5_9_12.sce#S##3025
+5#MODELLING A CONTROL SYSTEM#5.9.11#Overall Transfer Function of given System#exa5_9_11.sce#29/CH5/EX5.9.11/exa5_9_11.sce#S##3024
+5#MODELLING A CONTROL SYSTEM#5.9.10#Overall Transfer Function of given System#exa5_9_10.sce#29/CH5/EX5.9.10/exa5_9_10.sce#S##3023
+4#SIGNAL FLOW GRAPHS#4.4.9#Overall Transfer Function#exa4_4_9.sce#29/CH4/EX4.4.9/exa4_4_9.sce#S##2709
+4#SIGNAL FLOW GRAPHS#4.4.8#Transfer function using mason  gain formula#exa4_4_8.sce#29/CH4/EX4.4.8/exa4_4_8.sce#S##2707
+4#SIGNAL FLOW GRAPHS#4.4.7#Transfer function using mason  gain formula#exa4_4_7.sce#29/CH4/EX4.4.7/exa4_4_7.sce#S##2708
+4#SIGNAL FLOW GRAPHS#4.4.6#Transfer function using mason  gain formula#exa4_4_6.sce#29/CH4/EX4.4.6/exa4_4_6.sce#S##2706
+4#SIGNAL FLOW GRAPHS#4.4.5#Transfer function using mason  gain formula#exa4_4_5.sce#29/CH4/EX4.4.5/exa4_4_5.sce#S##2705
+4#SIGNAL FLOW GRAPHS#4.4.4#Transfer function using mason  gain formula#exa4_4_4.sce#29/CH4/EX4.4.4/exa4_4_4.sce#S##2704
+4#SIGNAL FLOW GRAPHS#4.4.3#to find various signal flow graph parameter#exa4_4_3.sce#29/CH4/EX4.4.3/exa4_4_3.sce#S##2703
+4#SIGNAL FLOW GRAPHS#4.4.2#Overall Gain#exa4_4_2.sce#29/CH4/EX4.4.2/exa4_4_2.sce#S##2702
+4#SIGNAL FLOW GRAPHS#4.4.10#Transfer function using mason  gain formula#exa4_4_10.sce#29/CH4/EX4.4.10/exa4_4_10.sce#S##2710
+4#SIGNAL FLOW GRAPHS#4.4.1#Closed Loop Transfer Function#exa4_4_1.sce#29/CH4/EX4.4.1/exa4_4_1.sce#S##2701
+4#SIGNAL FLOW GRAPHS#4.3.2#Overall Transmittance#exa4_3_2.sce#29/CH4/EX4.3.2/exa4_3_2.sce#S##2700
+4#SIGNAL FLOW GRAPHS#4.3.1#Overall Transmittance#exa4_3_1.sce#29/CH4/EX4.3.1/exa4_3_1.sce#S##2699
+3#BLOCK DIAGRAMS#3.2.9#Transfer Function#exa3_2_9.sce#29/CH3/EX3.2.9/exa3_2_9.sce#S##3036
+3#BLOCK DIAGRAMS#3.2.9#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.9#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.8#Transfer Function#exa3_2_8.sce#29/CH3/EX3.2.8/exa3_2_8.sce#S##3035
+3#BLOCK DIAGRAMS#3.2.8#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.8#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.7#Transfer Function#exa3_2_7.sce#29/CH3/EX3.2.7/exa3_2_7.sce#S##3034
+3#BLOCK DIAGRAMS#3.2.7#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.7#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.6#Transfer Function#exa3_2_6.sce#29/CH3/EX3.2.6/exa3_2_6.sce#S##3033
+3#BLOCK DIAGRAMS#3.2.6#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.6#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.5#Transfer Function#exa3_2_5.sce#29/CH3/EX3.2.5/exa3_2_5.sce#S##3032
+3#BLOCK DIAGRAMS#3.2.5#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.5#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.4#Transfer Function#exa3_2_4.sce#29/CH3/EX3.2.4/exa3_2_4.sce#S##3031
+3#BLOCK DIAGRAMS#3.2.4#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.4#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.3#Transfer Function#exa3_2_3.sce#29/CH3/EX3.2.3/exa3_2_3.sce#S##3030
+3#BLOCK DIAGRAMS#3.2.3#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.3#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.2#Transfer Function#exa3_2_2.sce#29/CH3/EX3.2.2/exa3_2_2.sce#S##3029
+3#BLOCK DIAGRAMS#3.2.2#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.2#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.15#Transfer Function#exa3_2_15.sce#29/CH3/EX3.2.15/exa3_2_15.sce#S##3042
+3#BLOCK DIAGRAMS#3.2.15#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.15#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.14#Transfer Function#exa3_2_14.sce#29/CH3/EX3.2.14/exa3_2_14.sce#S##3041
+3#BLOCK DIAGRAMS#3.2.14#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.14#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.13#Transfer Function#exa3_2_13.sce#29/CH3/EX3.2.13/exa3_2_13.sce#S##3040
+3#BLOCK DIAGRAMS#3.2.13#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.13#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.12#Transfer Function#exa3_2_12.sce#29/CH3/EX3.2.12/exa3_2_12.sce#S##3039
+3#BLOCK DIAGRAMS#3.2.12#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.12#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.11#Transfer Function#exa3_2_11.sce#29/CH3/EX3.2.11/exa3_2_11.sce#S##3038
+3#BLOCK DIAGRAMS#3.2.11#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.11#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.10#Transfer Function#exa3_2_10.sce#29/CH3/EX3.2.10/exa3_2_10.sce#S##3037
+3#BLOCK DIAGRAMS#3.2.10#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.10#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+3#BLOCK DIAGRAMS#3.2.1#Transfer Function#exa3_2_1.sce#29/CH3/EX3.2.1/exa3_2_1.sce#S##3028
+3#BLOCK DIAGRAMS#3.2.1#Transfer Function#series.sce#29/DEPENDENCIES/series.sce#D#SERIES OF TWO FUNCTION#18
+3#BLOCK DIAGRAMS#3.2.1#Transfer Function#parallel.sce#29/DEPENDENCIES/parallel.sce#D#PARALLEL OF TWO FUNCTION#17
+2#TRANSFER FUNCTIONS#2.4.2#final value#exa2_4_2.sce#29/CH2/EX2.4.2/exa2_4_2.sce#S##1415
+2#TRANSFER FUNCTIONS#2.4.1#pole zero plot#exa2_4_1.jpg#29/CH2/EX2.4.1/exa2_4_1.jpg#R##2612
+2#TRANSFER FUNCTIONS#2.4.1#pole zero plot#exa2_4_1.sce#29/CH2/EX2.4.1/exa2_4_1.sce#S##2611
+1#INTRODUCTION#1.6.9#initial values#exa1_6_9.sce#29/CH1/EX1.6.9/exa1_6_9.sce#S##2640
+1#INTRODUCTION#1.6.8#steady state value#exa1_6_8.sce#29/CH1/EX1.6.8/exa1_6_8.sce#S##2638
+1#INTRODUCTION#1.6.7#final value#exa1_6_7.sce#29/CH1/EX1.6.7/exa1_6_7.sce#S##2636
+1#INTRODUCTION#1.6.5#initial value#exa1_6_5.sce#29/CH1/EX1.6.5/exa1_6_5.sce#S##2634
+1#INTRODUCTION#1.6.4#solution of differential equation#exa1_6_4.sce#29/CH1/EX1.6.4/exa1_6_4.sce#S##2633
+1#INTRODUCTION#1.6.3#solution of differential equation#exa1_6_3.sce#29/CH1/EX1.6.3/exa1_6_3.sce#S##2632
+1#INTRODUCTION#1.6.2#solution of differential equation#exa1_6_2.sce#29/CH1/EX1.6.2/exa1_6_2.sce#S##2629
+1#INTRODUCTION#1.6.10#final value#exa1_6_10.sce#29/CH1/EX1.6.10/exa1_6_10.sce#S##2642
+1#INTRODUCTION#1.6.1.vi#program laplace transform#exa1_6_1_vi.sce#29/CH1/EX1.6.1.vi/exa1_6_1_vi.sce#S##2620
+1#INTRODUCTION#1.6.1.v#inverse laplace transform#exa1_6_1_v.sce#29/CH1/EX1.6.1.v/exa1_6_1_v.sce#S##2618
+1#INTRODUCTION#1.6.1.iv#inverse laplace transform#exa1_6_1_iv.sce#29/CH1/EX1.6.1.iv/exa1_6_1_iv.sce#S##2617
+1#INTRODUCTION#1.6.1.iii#inverse laplace transform#exa1_6_1_iii.sce#29/CH1/EX1.6.1.iii/exa1_6_1_iii.sce#S##2616
+1#INTRODUCTION#1.6.1.ii#inverse laplace transform#exa1_6_1_ii.sce#29/CH1/EX1.6.1.ii/exa1_6_1_ii.sce#S##2615
+1#INTRODUCTION#1.6.1.i#inverse laplace transform#exa1_6_1_i.sce#29/CH1/EX1.6.1.i/exa1_6_1_i.sce#S##2613

@@ -1,0 +1,6 @@
+ 
+ # PROBLEM 8 # 
+Standard formula used 
+   Chi = mu_0*Z*e^2 *N*R^2 /(6*m) 
+
+ Diamagnetic susceptibility is -1.187812e-07 . 

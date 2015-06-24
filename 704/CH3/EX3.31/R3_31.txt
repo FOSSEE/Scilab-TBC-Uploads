@@ -1,0 +1,4 @@
+Ratio of the iron and copper loss for the maximum efficiency=   
+ 
+    0.5625  
+ 

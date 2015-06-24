@@ -1,0 +1,2 @@
+ Refractive index for core = 1.424373.
+ Refractive index for cladding = 1.407281.

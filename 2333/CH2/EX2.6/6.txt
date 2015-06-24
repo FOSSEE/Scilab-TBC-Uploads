@@ -1,0 +1,7 @@
+# PROBLEM 6 # 
+
+ Standard formula used 
+ x = D*n*lambda/d 
+
+ Distance of third bright fringe from center is 0.117000cm 
+. Common fringe will be formed at distance 0.156000cm from center

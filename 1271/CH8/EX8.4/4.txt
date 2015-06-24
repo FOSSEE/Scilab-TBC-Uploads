@@ -1,0 +1,2 @@
+Coefficient of absorption to be provided by the walls, floor and ceiling when the hall is fully occupied is 99.632353 SI unit.
+ Reverberation time if only half upholstered seats are occupied is 2.025324 sec.

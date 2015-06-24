@@ -1,0 +1,96 @@
+16#Op Amp Negative Feedback#16.6#Value of FCL#ex16_6.sce#2330/CH16/EX16.6/ex16_6.sce#S##108330
+16#Op Amp Negative Feedback#16.5#Closed loop voltage gain#ex16_5.sce#2330/CH16/EX16.5/ex16_5.sce#S##108329
+16#Op Amp Negative Feedback#16.4#Closed loop voltage gain#ex16_4.sce#2330/CH16/EX16.4/ex16_4.sce#S##108328
+16#Op Amp Negative Feedback#16.3#Closed loop input and output impedence#ex16_3.sce#2330/CH16/EX16.3/ex16_3.sce#S##108327
+16#Op Amp Negative Feedback#16.2#ACL Vout and Verror#ex16_2.sce#2330/CH16/EX16.2/ex16_2.sce#S##108326
+16#Op Amp Negative Feedback#16.1#Output voltage and error voltage#ex16_1.sce#2330/CH16/EX16.1/ex16_1.sce#S##108324
+14#Thyristors#14.7#Value of emitter supply voltage#ex14_7.sce#2330/CH14/EX14.7/ex14_7.sce#S##108323
+14#Thyristors#14.6#Ideal emitter current#ex14_6.sce#2330/CH14/EX14.6/ex14_6.sce#S##108322
+14#Thyristors#14.2#Input voltage#ex14_2.sce#2330/CH14/EX14.2/ex14_2.sce#S##108321
+14#Thyristors#14.1#Load current#ex14_1.sce#2330/CH14/EX14.1/ex14_1.sce#S##108320
+12#JFETS#12.4#Voltage gain#ex12_4.sce#2330/CH12/EX12.4/ex12_4.sce#S##108319
+12#JFETS#12.3#Output voltage#ex12_3.sce#2330/CH12/EX12.3/ex12_3.sce#S##108318
+12#JFETS#12.2#Transconductance#ex12_2.sce#2330/CH12/EX12.2/ex12_2.sce#S##108317
+12#JFETS#12.1#Source voltage to ground#ex12_1.sce#2330/CH12/EX12.1/ex12_1.sce#S##108316
+11#More Amplifier Theory#11.4#Voltage gain#ex11_4.sce#2330/CH11/EX11.4/ex11_4.sce#S##108315
+11#More Amplifier Theory#11.3#Value of rdeshb#ex11_3.sce#2330/CH11/EX11.3/ex11_3.sce#S##108314
+11#More Amplifier Theory#11.2#Alpha bita rdeshe and rdeshc#ex11_2.sce#2330/CH11/EX11.2/ex11_2.sce#S##108313
+11#More Amplifier Theory#11.1#Closed loop voltage gain#ex11_1.sce#2330/CH11/EX11.1/ex11_1.sce#S##108312
+10#Other Power Amplifiers#10.9#Input voltage required#ex10_9.sce#2330/CH10/EX10.9/ex10_9.sce#S##108335
+10#Other Power Amplifiers#10.8#Minimum base current that produces saturation#ex10_8.sce#2330/CH10/EX10.8/ex10_8.sce#S##108334
+10#Other Power Amplifiers#10.7#Overall voltage gain#ex10_7.sce#2330/CH10/EX10.7/ex10_7.sce#S##108333
+10#Other Power Amplifiers#10.6#Ideal value of PP and PLmax#ex10_6.sce#2330/CH10/EX10.6/ex10_6.sce#S##108332
+10#Other Power Amplifiers#10.5#Voltage gain of the driver stage#ex10_5.sce#2330/CH10/EX10.5/ex10_5.sce#S##108331
+10#Other Power Amplifiers#10.4#PDQ PDmax and PLmax#ex10_4.sce#2330/CH10/EX10.4/ex10_4.sce#S##108311
+10#Other Power Amplifiers#10.3#DC and AC load line#ex10_3.sce#2330/CH10/EX10.3/ex10_3.sce#S##108310
+10#Other Power Amplifiers#10.2#Efficiency of the amplifier with a maximum output signal#ex10_2.sce#2330/CH10/EX10.2/ex10_2.sce#S##108309
+10#Other Power Amplifiers#10.1#PDQ PDmax and PLmax#ex10_1.sce#2330/CH10/EX10.1/ex10_1.sce#S##108308
+9#Class A Power Amplifiers#9.9#New value of AC compliance#ex9_9.sce#2330/CH9/EX9.9/ex9_9.sce#S##108304
+9#Class A Power Amplifiers#9.7#AC compliance#ex9_7.sce#2330/CH9/EX9.7/ex9_7.sce#S##108303
+9#Class A Power Amplifiers#9.6#Voltage divider biased stage#ex9_6.sce#2330/CH9/EX9.6/ex9_6.sce#S##108302
+9#Class A Power Amplifiers#9.5#Value of ICQrL#ex9_5.sce#2330/CH9/EX9.5/ex9_5.sce#S##108301
+9#Class A Power Amplifiers#9.4#AC compliance#ex9_4.sce#2330/CH9/EX9.4/ex9_4.sce#S##108300
+9#Class A Power Amplifiers#9.3#cutt of value of VCE#ex9_3.sce#2330/CH9/EX9.3/ex9_3.sce#S##108299
+9#Class A Power Amplifiers#9.2#Cut off value of VCE#ex9_2.sce#2330/CH9/EX9.2/ex9_2.sce#S##108298
+9#Class A Power Amplifiers#9.12#Power rating#ex9_12.sce#2330/CH9/EX9.12/ex9_12.sce#S##108307
+9#Class A Power Amplifiers#9.11#Efficiency#ex9_11.sce#2330/CH9/EX9.11/ex9_11.sce#S##108306
+9#Class A Power Amplifiers#9.10#Maximum ac load power#ex9_10.sce#2330/CH9/EX9.10/ex9_10.sce#S##108305
+9#Class A Power Amplifiers#9.1#DC and AC load line#ex9_1.sce#2330/CH9/EX9.1/ex9_1.sce#S##108297
+8#Common Base Approximations#8.4#Output voltage#ex8_4.sce#2330/CH8/EX8.4/ex8_4.sce#S##108296
+8#Common Base Approximations#8.3#Output voltage#ex8_3.sce#2330/CH8/EX8.3/ex8_3.sce#S##108295
+8#Common Base Approximations#8.2#Value of VCB#ex8_2.sce#2330/CH8/EX8.2/ex8_2.sce#S##108294
+8#Common Base Approximations#8.1#Value of VCB#ex8_1.sce#2330/CH8/EX8.1/ex8_1.sce#S##108293
+7#Common Collector Approximations#7.9#re1 and re2#ex7_9.sce#2330/CH7/EX7.9/ex7_9.sce#S##108290
+7#Common Collector Approximations#7.7#AC output voltage#ex7_7.sce#2330/CH7/EX7.7/ex7_7.sce#S##108289
+7#Common Collector Approximations#7.5#AC output voltage#ex7_5.sce#2330/CH7/EX7.5/ex7_5.sce#S##108288
+7#Common Collector Approximations#7.4#Power gain#ex7_4.sce#2330/CH7/EX7.4/ex7_4.sce#S##108287
+7#Common Collector Approximations#7.3#Voltage gain#ex7_3.sce#2330/CH7/EX7.3/ex7_3.sce#S##108286
+7#Common Collector Approximations#7.2#AC output voltage#ex7_2.sce#2330/CH7/EX7.2/ex7_2.sce#S##108285
+7#Common Collector Approximations#7.11#Zener current#ex7_11.sce#2330/CH7/EX7.11/ex7_11.sce#S##108292
+7#Common Collector Approximations#7.10#Input impedance#ex7_10.sce#2330/CH7/EX7.10/ex7_10.sce#S##108291
+7#Common Collector Approximations#7.1#DC load line and Q point#ex7_1.sce#2330/CH7/EX7.1/ex7_1.sce#S##108284
+6#Common Emitter Approximations#6.9#Input impedance of each stage#ex6_9.sce#2330/CH6/EX6.9/ex6_9.sce#S##108343
+6#Common Emitter Approximations#6.8#Input impedance of the amplifier#ex6_8.sce#2330/CH6/EX6.8/ex6_8.sce#S##108342
+6#Common Emitter Approximations#6.7#Minimum and maximum voltage gain#ex6_7.sce#2330/CH6/EX6.7/ex6_7.sce#S##108341
+6#Common Emitter Approximations#6.6#Ac output voltage#ex6_6.sce#2330/CH6/EX6.6/ex6_6.sce#S##108340
+6#Common Emitter Approximations#6.5#Value of VB#ex6_5.sce#2330/CH6/EX6.5/ex6_5.sce#S##108339
+6#Common Emitter Approximations#6.4#Input impedence#ex6_4.sce#2330/CH6/EX6.4/ex6_4.sce#S##108338
+6#Common Emitter Approximations#6.3#Total current#ex6_3.sce#2330/CH6/EX6.3/ex6_3.sce#S##108337
+6#Common Emitter Approximations#6.2#Total voltage#ex6_2.sce#2330/CH6/EX6.2/ex6_2.sce#S##108336
+6#Common Emitter Approximations#6.11#Ac voltage at the final output#ex6_11.sce#2330/CH6/EX6.11/ex6_11.sce#S##108345
+6#Common Emitter Approximations#6.10#Ac output voltage across the final load resistor#ex6_10.sce#2330/CH6/EX6.10/ex6_10.sce#S##108344
+5#Bipolar Transistor#5.9#IC and VCE#ex5_9.sce#2330/CH5/EX5.9/ex5_9.sce#S##108280
+5#Bipolar Transistor#5.8#Minimum and maximum collector current#ex5_8.sce#2330/CH5/EX5.8/ex5_8.sce#S##108279
+5#Bipolar Transistor#5.7#Value of Vc#ex5_7.sce#2330/CH5/EX5.7/ex5_7.sce#S##108278
+5#Bipolar Transistor#5.6#DC collector to ground voltage#ex5_6.sce#2330/CH5/EX5.6/ex5_6.sce#S##108277
+5#Bipolar Transistor#5.5#DC voltage#ex5_5.sce#2330/CH5/EX5.5/ex5_5.sce#S##108276
+5#Bipolar Transistor#5.4#LED current#ex5_4.sce#2330/CH5/EX5.4/ex5_4.sce#S##108275
+5#Bipolar Transistor#5.3#Value of IC and VCE#ex5_3.sce#2330/CH5/EX5.3/ex5_3.sce#S##108269
+5#Bipolar Transistor#5.2#DC load line#ex5_2.sce#2330/CH5/EX5.2/ex5_2.sce#S##108267
+5#Bipolar Transistor#5.12#DC voltage#ex5_12.sce#2330/CH5/EX5.12/ex5_12.sce#S##108283
+5#Bipolar Transistor#5.11#IC and VCE#ex5_11.sce#2330/CH5/EX5.11/ex5_11.sce#S##108282
+5#Bipolar Transistor#5.10#IC and VCE#ex5_10.sce#2330/CH5/EX5.10/ex5_10.sce#S##108281
+5#Bipolar Transistor#5.1#Value of VCE#ex5_1.sce#2330/CH5/EX5.1/ex5_1.sce#S##108266
+4#Diode Applications#4.9#Ripple across the load current#ex4_9.sce#2330/CH4/EX4.9/ex4_9.sce#S##108265
+4#Diode Applications#4.8#Zener current#ex4_8.sce#2330/CH4/EX4.8/ex4_8.sce#S##108264
+4#Diode Applications#4.6#DC load voltage#ex4_6.sce#2330/CH4/EX4.6/ex4_6.sce#S##108263
+4#Diode Applications#4.3#Value of Vdc and PIV#ex4_3.sce#2330/CH4/EX4.3/ex4_3.sce#S##108262
+4#Diode Applications#4.2#DC current through each diode#ex4_2.sce#2330/CH4/EX4.2/ex4_2.sce#S##108261
+4#Diode Applications#4.1#DC voltage across load resistance#ex4_1.sce#2330/CH4/EX4.1/ex4_1.sce#S##108260
+3#Special Diodes#3.9#Values of all currents#ex3_9.sce#2330/CH3/EX3.9/ex3_9.sce#S##108256
+3#Special Diodes#3.8#Value of IS IL IZ#ex3_8.sce#2330/CH3/EX3.8/ex3_8.sce#S##108254
+3#Special Diodes#3.7#Maximum current#ex3_7.sce#2330/CH3/EX3.7/ex3_7.sce#S##108253
+3#Special Diodes#3.6#Minimum and maximum output voltage#ex3_6.sce#2330/CH3/EX3.6/ex3_6.sce#S##108252
+3#Special Diodes#3.5#Minimum and maximum zener current#ex3_5.sce#2330/CH3/EX3.5/ex3_5.sce#S##108251
+3#Special Diodes#3.4#Tuning range#ex3_4.sce#2330/CH3/EX3.4/ex3_4.sce#S##108250
+3#Special Diodes#3.2#LED current#ex3_2.sce#2330/CH3/EX3.2/ex3_2.sce#S##108248
+3#Special Diodes#3.12#Value of IS IL IZ#ex3_12.sce#2330/CH3/EX3.12/ex3_12.sce#S##108259
+3#Special Diodes#3.11#Value of IS IL IZ#ex3_11.sce#2330/CH3/EX3.11/ex3_11.sce#S##108258
+3#Special Diodes#3.10#Value of Change in output voltage#ex3_10.sce#2330/CH3/EX3.10/ex3_10.sce#S##108257
+3#Special Diodes#3.1#LED current#ex3_1.sce#2330/CH3/EX3.1/ex3_1.sce#S##108247
+2#Rectifier Diodes#2.7#Peak load voltage and peak inverse voltage#ex2_7.sce#2330/CH2/EX2.7/ex2_7.sce#S##108246
+2#Rectifier Diodes#2.6#Peak forward current and PIV#ex2_6.sce#2330/CH2/EX2.6/ex2_6.sce#S##108245
+2#Rectifier Diodes#2.5#Power dissipation of the diode#ex2_5.sce#2330/CH2/EX2.5/ex2_5.sce#S##108243
+2#Rectifier Diodes#2.4#Maximum reverse voltage#ex2_4.sce#2330/CH2/EX2.4/ex2_4.sce#S##108242
+2#Rectifier Diodes#2.2#Output voltage#ex2_2.sce#2330/CH2/EX2.2/ex2_2.sce#S##108241
+2#Rectifier Diodes#2.1#Output voltage#ex2_1.sce#2330/CH2/EX2.1/ex2_1.sce#S##108240

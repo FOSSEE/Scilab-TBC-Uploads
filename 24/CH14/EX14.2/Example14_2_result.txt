@@ -1,0 +1,2 @@
+**Sample Problem 14-2**
+The net force on particle 1 is approimately equal to 4.621112e-006 N 

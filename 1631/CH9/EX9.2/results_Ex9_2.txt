@@ -1,0 +1,3 @@
+The amount of Information 
+ 
+	 I(Xi) = 02 bits

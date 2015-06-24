@@ -1,0 +1,5 @@
+ 
+ Attenuation (in dB/m) =   
+ 
+    1091.8468i  
+ 

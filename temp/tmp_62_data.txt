@@ -1,0 +1,365 @@
+7#state space analysis#7.9#state equation for discrete time system#ex_7_9.sce#62/CH7/EX7.9/ex_7_9.sce#S##849
+7#state space analysis#7.8#state equation for discrete time system#ex_7_8.sce#62/CH7/EX7.8/ex_7_8.sce#S##848
+7#state space analysis#7.7#state equation for discrete system#ex_7_7.sce#62/CH7/EX7.7/ex_7_7.sce#S##847
+7#state space analysis#7.54#observability and controllability#ex_7_54.sce#62/CH7/EX7.54/ex_7_54.sce#S##877
+7#state space analysis#7.53#observability and controllability#ex_7_53.sce#62/CH7/EX7.53/ex_7_53.sce#S##876
+7#state space analysis#7.50#stability#ex_7_50.sce#62/CH7/EX7.50/ex_7_50.sce#S##875
+7#state space analysis#7.5#state space representation#ex_7_5.sce#62/CH7/EX7.5/ex_7_5.sce#S##846
+7#state space analysis#7.49#RC circuit response#ex_7_49.sce#62/CH7/EX7.49/ex_7_49.sce#S##874
+7#state space analysis#7.48#second order ODE#ex_7_48.sce#62/CH7/EX7.48/ex_7_48.sce#S##2610
+7#state space analysis#7.47#nilpotent matrix#ex_7_47.sce#62/CH7/EX7.47/ex_7_47.sce#S##872
+7#state space analysis#7.45#e power At#ex_7_45.sce#62/CH7/EX7.45/ex_7_45.sce#S##2608
+7#state space analysis#7.44#e power At#ex_7_44.sce#62/CH7/EX7.44/ex_7_44.sce#S##2607
+7#state space analysis#7.43#e power At#ex_7_43.sce#62/CH7/EX7.43/ex_7_43.sce#S##869
+7#state space analysis#7.39#e power At#ex_7_39.sce#62/CH7/EX7.39/ex_7_39.sce#S##868
+7#state space analysis#7.38#observability and controllability#ex_7_38.sce#62/CH7/EX7.38/ex_7_38.sce#S##867
+7#state space analysis#7.37#finding vector y#ex_7_37.sce#62/CH7/EX7.37/ex_7_37.sce#S##866
+7#state space analysis#7.36#finding vector x#ex_7_36.sce#62/CH7/EX7.36/ex_7_36.sce#S##865
+7#state space analysis#7.35#observability and controllability #ex_7_35.sce#62/CH7/EX7.35/ex_7_35.sce#S##864
+7#state space analysis#7.32#stability#ex_7_32.sce#62/CH7/EX7.32/ex_7_32.sce#S##863
+7#state space analysis#7.31#difference equation#ex_7_31.sce#62/CH7/EX7.31/ex_7_31.sce#S##862
+7#state space analysis#7.30#impulse response#ex_7_30.sce#62/CH7/EX7.30/ex_7_30.sce#S##861
+7#state space analysis#7.29# step response#ex_7_29.sce#62/CH7/EX7.29/ex_7_29.sce#S##860
+7#state space analysis#7.27#minimal polynomial#ex_7_27.sce#62/CH7/EX7.27/ex_7_27.sce#S##859
+7#state space analysis#7.26#decomposition of matrix A#ex_7_26.sce#62/CH7/EX7.26/ex_7_26.sce#S##858
+7#state space analysis#7.25#A power n#ex_7_25.sce#62/CH7/EX7.25/ex_7_25.sce#S##857
+7#state space analysis#7.24#A power n#ex_7_24.sce#62/CH7/EX7.24/ex_7_24.sce#S##856
+7#state space analysis#7.20#A power n#ex_7_20.sce#62/CH7/EX7.20/ex_7_20.sce#S##855
+7#state space analysis#7.18#state equation for continuous time system#ex_7_18.sce#62/CH7/EX7.18/ex_7_18.sce#S##854
+7#state space analysis#7.16#state equation for continuous time system#ex_7_16.sce#62/CH7/EX7.16/ex_7_16.sce#S##853
+7#state space analysis#7.15#state equation for continuous time system#ex_7_15.sce#62/CH7/EX7.15/ex_7_15.sce#S##852
+7#state space analysis#7.14#state equation for continuous time system#ex_7_14.sce#62/CH7/EX7.14/ex_7_14.sce#S##851
+7#state space analysis#7.11#state equation for discrete time system#ex_7_11.sce#62/CH7/EX7.11/ex_7_11.sce#S##850
+6#Fourier analysis of discrete time system and signals#6.61#fourier spectrum using DFT#ex_6_61.sce#62/CH6/EX6.61/ex_6_61.sce#S##1742
+6#Fourier analysis of discrete time system and signals#6.6#discrete fourier series representation#ex_6_6_2.png#62/CH6/EX6.6/ex_6_6_2.png#R##1716
+6#Fourier analysis of discrete time system and signals#6.6#discrete fourier series representation#ex_6_6a.png#62/CH6/EX6.6/ex_6_6a.png#R##1715
+6#Fourier analysis of discrete time system and signals#6.6#discrete fourier series representation#ex_6_6.sce#62/CH6/EX6.6/ex_6_6.sce#S##1714
+6#Fourier analysis of discrete time system and signals#6.59#decimation in time FFT algorithm#ex_6_59.sce#62/CH6/EX6.59/ex_6_59.sce#S##1740
+6#Fourier analysis of discrete time system and signals#6.57#decimation in time FFT algorithm#ex_6_57.sce#62/CH6/EX6.57/ex_6_57.sce#S##1739
+6#Fourier analysis of discrete time system and signals#6.56#DFT using matrices#ex_6_56.sce#62/CH6/EX6.56/ex_6_56.sce#S##1737
+6#Fourier analysis of discrete time system and signals#6.56#DFT using matrices#ex_6_56.png#62/CH6/EX6.56/ex_6_56.png#R##1738
+6#Fourier analysis of discrete time system and signals#6.55#DFT using matrices#ex_6_55.sce#62/CH6/EX6.55/ex_6_55.sce#S##1736
+6#Fourier analysis of discrete time system and signals#6.50#DFT#ex_6_50.sce#62/CH6/EX6.50/ex_6_50.sce#S##1734
+6#Fourier analysis of discrete time system and signals#6.50#DFT#ex_6_50.png#62/CH6/EX6.50/ex_6_50.png#R##1735
+6#Fourier analysis of discrete time system and signals#6.5#fourier coefficients#ex_6_5.sce#62/CH6/EX6.5/ex_6_5.sce#S##1604
+6#Fourier analysis of discrete time system and signals#6.5#fourier coefficients#ex_6_5_1.png#62/CH6/EX6.5/ex_6_5_1.png#R##1605
+6#Fourier analysis of discrete time system and signals#6.5#fourier coefficients#ex_6_5_2.png#62/CH6/EX6.5/ex_6_5_2.png#R##1606
+6#Fourier analysis of discrete time system and signals#6.49#N point DFT#ex_6_49.sce#62/CH6/EX6.49/ex_6_49.sce#S##1731
+6#Fourier analysis of discrete time system and signals#6.49#N point DFT#ex_6_49_1.png#62/CH6/EX6.49/ex_6_49_1.png#R##1732
+6#Fourier analysis of discrete time system and signals#6.49#N point DFT#ex_6_49_2.png#62/CH6/EX6.49/ex_6_49_2.png#R##1733
+6#Fourier analysis of discrete time system and signals#6.45#bilinear transformation#ex_6_45.sce#62/CH6/EX6.45/ex_6_45.sce#S##1729
+6#Fourier analysis of discrete time system and signals#6.45#bilinear transformation#ex_6_45.png#62/CH6/EX6.45/ex_6_45.png#R##1730
+6#Fourier analysis of discrete time system and signals#6.44#frequency response#ex_6_44.sce#62/CH6/EX6.44/ex_6_44.sce#S##1728
+6#Fourier analysis of discrete time system and signals#6.43#Rc low pass filter#ex_6_43.sce#62/CH6/EX6.43/ex_6_43.sce#S##1726
+6#Fourier analysis of discrete time system and signals#6.43#Rc low pass filter#ex_6_43.png#62/CH6/EX6.43/ex_6_43.png#R##1727
+6#Fourier analysis of discrete time system and signals#6.42#causal discrete time FIR filter#ex_6_42.sce#62/CH6/EX6.42/ex_6_42.sce#S##1723
+6#Fourier analysis of discrete time system and signals#6.42#causal discrete time FIR filter#ex_6_42_1.png#62/CH6/EX6.42/ex_6_42_1.png#R##1724
+6#Fourier analysis of discrete time system and signals#6.42#causal discrete time FIR filter#ex_6_42_2.png#62/CH6/EX6.42/ex_6_42_2.png#R##1725
+6#Fourier analysis of discrete time system and signals#6.41#three point moving average discrete time filter#ex_6_41.sce#62/CH6/EX6.41/ex_6_41.sce#S##1720
+6#Fourier analysis of discrete time system and signals#6.41#three point moving average discrete time filter#ex_6_41_1.png#62/CH6/EX6.41/ex_6_41_1.png#R##1721
+6#Fourier analysis of discrete time system and signals#6.41#three point moving average discrete time filter#ex_6_41_2.png#62/CH6/EX6.41/ex_6_41_2.png#R##1722
+6#Fourier analysis of discrete time system and signals#6.40#impulse response os a FIR filter#ex_6_40.sce#62/CH6/EX6.40/ex_6_40.sce#S##1681
+6#Fourier analysis of discrete time system and signals#6.40#impulse response os a FIR filter#ex_6_40a.png#62/CH6/EX6.40/ex_6_40a.png#R##1682
+6#Fourier analysis of discrete time system and signals#6.40#impulse response os a FIR filter#ex_6_40b.png#62/CH6/EX6.40/ex_6_40b.png#R##1683
+6#Fourier analysis of discrete time system and signals#6.4#fourier coefficients of a periodic sequence#ex_6_4.sce#62/CH6/EX6.4/ex_6_4.sce#S##1600
+6#Fourier analysis of discrete time system and signals#6.4#fourier coefficients of a periodic sequence#ex_6_4_1.png#62/CH6/EX6.4/ex_6_4_1.png#R##1601
+6#Fourier analysis of discrete time system and signals#6.4#fourier coefficients of a periodic sequence#ex_6_4_2.png#62/CH6/EX6.4/ex_6_4_2.png#R##1602
+6#Fourier analysis of discrete time system and signals#6.38#convertion of LPF to HPF#ex_6_38.sce#62/CH6/EX6.38/ex_6_38.sce#S##1678
+6#Fourier analysis of discrete time system and signals#6.38#convertion of LPF to HPF#ex_6_38.png#62/CH6/EX6.38/ex_6_38.png#R##1679
+6#Fourier analysis of discrete time system and signals#6.36#discrete time low pass filter#ex_6_36.sce#62/CH6/EX6.36/ex_6_36.sce#S##1676
+6#Fourier analysis of discrete time system and signals#6.36#discrete time low pass filter#ex_6_36.png#62/CH6/EX6.36/ex_6_36.png#R##1677
+6#Fourier analysis of discrete time system and signals#6.35#frequency response#ex_6_35.sce#62/CH6/EX6.35/ex_6_35.sce#S##1744
+6#Fourier analysis of discrete time system and signals#6.35#frequency response#ex_6_35_1.png#62/CH6/EX6.35/ex_6_35_1.png#R##1745
+6#Fourier analysis of discrete time system and signals#6.35#frequency response#ex_6_35_2.png#62/CH6/EX6.35/ex_6_35_2.png#R##1746
+6#Fourier analysis of discrete time system and signals#6.34#magnitude and phase response#ex_6_34.sce#62/CH6/EX6.34/ex_6_34.sce#S##1670
+6#Fourier analysis of discrete time system and signals#6.34#magnitude and phase response#ex_6_34_1.png#62/CH6/EX6.34/ex_6_34_1.png#R##1671
+6#Fourier analysis of discrete time system and signals#6.34#magnitude and phase response#ex_6_34_2.png#62/CH6/EX6.34/ex_6_34_2.png#R##1672
+6#Fourier analysis of discrete time system and signals#6.33#output response#ex_6_33.sce#62/CH6/EX6.33/ex_6_33.sce#S##1665
+6#Fourier analysis of discrete time system and signals#6.33#output response#ex_6_33_1.png#62/CH6/EX6.33/ex_6_33_1.png#R##1666
+6#Fourier analysis of discrete time system and signals#6.33#output response#ex_6_33_2.png#62/CH6/EX6.33/ex_6_33_2.png#R##1667
+6#Fourier analysis of discrete time system and signals#6.32#frequency response#ex_6_32.sce#62/CH6/EX6.32/ex_6_32.sce#S##1660
+6#Fourier analysis of discrete time system and signals#6.32#frequency response#ex_6_32_1.png#62/CH6/EX6.32/ex_6_32_1.png#R##1661
+6#Fourier analysis of discrete time system and signals#6.32#frequency response#ex_6_32_2.png#62/CH6/EX6.32/ex_6_32_2.png#R##1662
+6#Fourier analysis of discrete time system and signals#6.31#frequency response#ex_6_31.sce#62/CH6/EX6.31/ex_6_31.sce#S##1653
+6#Fourier analysis of discrete time system and signals#6.31#frequency response#ex_6_31.png#62/CH6/EX6.31/ex_6_31.png#R##1654
+6#Fourier analysis of discrete time system and signals#6.3#fourier coefficients#ex_6_3.png#62/CH6/EX6.3/ex_6_3.png#R##1599
+6#Fourier analysis of discrete time system and signals#6.3#fourier coefficients#ex_6_3.sce#62/CH6/EX6.3/ex_6_3.sce#S##1598
+6#Fourier analysis of discrete time system and signals#6.28#frequency response#ex_6_28.sce#62/CH6/EX6.28/ex_6_28.sce#S##2604
+6#Fourier analysis of discrete time system and signals#6.28#frequency response#ex_6_28_1.png#62/CH6/EX6.28/ex_6_28_1.png#R##2605
+6#Fourier analysis of discrete time system and signals#6.28#frequency response#ex_6_28_2.png#62/CH6/EX6.28/ex_6_28_2.png#R##2606
+6#Fourier analysis of discrete time system and signals#6.25#inverse fourier transform using convolution #ex_6_25.sce#62/CH6/EX6.25/ex_6_25.sce#S##1647
+6#Fourier analysis of discrete time system and signals#6.25#inverse fourier transform using convolution #ex_6_25.png#62/CH6/EX6.25/ex_6_25.png#R##1648
+6#Fourier analysis of discrete time system and signals#6.22#fourier transform#ex_6_22_2_5.png#62/CH6/EX6.22/ex_6_22_2_5.png#R##1719
+6#Fourier analysis of discrete time system and signals#6.22#fourier transform#ex_6_22_1.png#62/CH6/EX6.22/ex_6_22_1.png#R##1718
+6#Fourier analysis of discrete time system and signals#6.22#fourier transform#ex_6_22.sce#62/CH6/EX6.22/ex_6_22.sce#S##1717
+6#Fourier analysis of discrete time system and signals#6.19#fourier transform of a sinusoidal sequence#ex_6_19.png#62/CH6/EX6.19/ex_6_19.png#R##1639
+6#Fourier analysis of discrete time system and signals#6.19#fourier transform of a sinusoidal sequence#ex_6_19.sce#62/CH6/EX6.19/ex_6_19.sce#S##1638
+6#Fourier analysis of discrete time system and signals#6.18#fourier transform of constant signal#ex_6_18.png#62/CH6/EX6.18/ex_6_18.png#R##1634
+6#Fourier analysis of discrete time system and signals#6.18#fourier transform of constant signal#ex_6_18.sce#62/CH6/EX6.18/ex_6_18.sce#S##1633
+6#Fourier analysis of discrete time system and signals#6.17#inverse fourier transform of a impulse signal#ex_6_17.png#62/CH6/EX6.17/ex_6_17.png#R##1630
+6#Fourier analysis of discrete time system and signals#6.17#inverse fourier transform of a impulse signal#ex_6_17.sce#62/CH6/EX6.17/ex_6_17.sce#S##1629
+6#Fourier analysis of discrete time system and signals#6.15#inverse fourier transform of a rectangular pulse#ex_6_15.png#62/CH6/EX6.15/ex_6_15.png#R##1625
+6#Fourier analysis of discrete time system and signals#6.15#inverse fourier transform of a rectangular pulse#ex_6_15.sce#62/CH6/EX6.15/ex_6_15.sce#S##1624
+6#Fourier analysis of discrete time system and signals#6.14#fourier transform#ex_6_14a.png#62/CH6/EX6.14/ex_6_14a.png#R##1620
+6#Fourier analysis of discrete time system and signals#6.14#fourier transform#ex_6_14b.png#62/CH6/EX6.14/ex_6_14b.png#R##1621
+6#Fourier analysis of discrete time system and signals#6.14#fourier transform#ex_6_14.sce#62/CH6/EX6.14/ex_6_14.sce#S##1619
+6#Fourier analysis of discrete time system and signals#6.12#fourier transform of a rectangular pulse#ex_6_12.png#62/CH6/EX6.12/ex_6_12.png#R##1615
+6#Fourier analysis of discrete time system and signals#6.12#fourier transform of a rectangular pulse#ex_6_12.sce#62/CH6/EX6.12/ex_6_12.sce#S##1614
+6#Fourier analysis of discrete time system and signals#6.11#fourier transform#ex_6_11.png#62/CH6/EX6.11/ex_6_11.png#R##1613
+6#Fourier analysis of discrete time system and signals#6.11#fourier transform#ex_6_11.sce#62/CH6/EX6.11/ex_6_11.sce#S##1612
+5#Fourier analysis of continuous time system and signals#5.9#differentiation property of fourier series#ex_5_9.sce#62/CH5/EX5.9/ex_5_9.sce#S##2044
+5#Fourier analysis of continuous time system and signals#5.9#differentiation property of fourier series#ex_5_9_1.png#62/CH5/EX5.9/ex_5_9_1.png#R##2045
+5#Fourier analysis of continuous time system and signals#5.9#differentiation property of fourier series#ex_5_9_2.png#62/CH5/EX5.9/ex_5_9_2.png#R##2046
+5#Fourier analysis of continuous time system and signals#5.8#fourier series of a periodic impulse train#ex_5_8.sce#62/CH5/EX5.8/ex_5_8.sce#S##2040
+5#Fourier analysis of continuous time system and signals#5.8#fourier series of a periodic impulse train#ex_5_8.png#62/CH5/EX5.8/ex_5_8.png#R##2041
+5#Fourier analysis of continuous time system and signals#5.7#fourier series of a periodic square wave#ex_5_7.sce#62/CH5/EX5.7/ex_5_7.sce#S##2036
+5#Fourier analysis of continuous time system and signals#5.7#fourier series of a periodic square wave#ex_5_7.png#62/CH5/EX5.7/ex_5_7.png#R##2037
+5#Fourier analysis of continuous time system and signals#5.6#fourier series of a periodic square wave#ex_5_6.sce#62/CH5/EX5.6/ex_5_6.sce#S##2602
+5#Fourier analysis of continuous time system and signals#5.6#fourier series of a periodic square wave#ex_5_6.png#62/CH5/EX5.6/ex_5_6.png#R##2603
+5#Fourier analysis of continuous time system and signals#5.58#fourier spectrum#ex_5_58.sce#62/CH5/EX5.58/ex_5_58.sce#S##2204
+5#Fourier analysis of continuous time system and signals#5.58#fourier spectrum#ex_5_58_1.png#62/CH5/EX5.58/ex_5_58_1.png#R##2205
+5#Fourier analysis of continuous time system and signals#5.58#fourier spectrum#ex_5_58_2.png#62/CH5/EX5.58/ex_5_58_2.png#R##2206
+5#Fourier analysis of continuous time system and signals#5.55#equivalent bandwidth#ex_5_55.sce#62/CH5/EX5.55/ex_5_55.sce#S##2199
+5#Fourier analysis of continuous time system and signals#5.55#equivalent bandwidth#ex_5_55.png#62/CH5/EX5.55/ex_5_55.png#R##2200
+5#Fourier analysis of continuous time system and signals#5.54#ideal low pass filter#ex_5_54.sce#62/CH5/EX5.54/ex_5_54.sce#S##2195
+5#Fourier analysis of continuous time system and signals#5.54#ideal low pass filter#ex_5_54.png#62/CH5/EX5.54/ex_5_54.png#R##2196
+5#Fourier analysis of continuous time system and signals#5.53#output of a ideal LPF#ex_5_53.sce#62/CH5/EX5.53/ex_5_53.sce#S##2189
+5#Fourier analysis of continuous time system and signals#5.53#output of a ideal LPF#ex_5_53_1.png#62/CH5/EX5.53/ex_5_53_1.png#R##2190
+5#Fourier analysis of continuous time system and signals#5.53#output of a ideal LPF#ex_5_53_2.png#62/CH5/EX5.53/ex_5_53_2.png#R##2191
+5#Fourier analysis of continuous time system and signals#5.52#output of a ideal LPF#ex_5_52.sce#62/CH5/EX5.52/ex_5_52.sce#S##2192
+5#Fourier analysis of continuous time system and signals#5.52#output of a ideal LPF#ex_5_52_1.png#62/CH5/EX5.52/ex_5_52_1.png#R##2193
+5#Fourier analysis of continuous time system and signals#5.52#output of a ideal LPF#ex_5_52_2.png#62/CH5/EX5.52/ex_5_52_2.png#R##2194
+5#Fourier analysis of continuous time system and signals#5.5#fourier series of a periodic square wave#ex_5_5.sce#62/CH5/EX5.5/ex_5_5.sce#S##2026
+5#Fourier analysis of continuous time system and signals#5.5#fourier series of a periodic square wave#ex_5_5.png#62/CH5/EX5.5/ex_5_5.png#R##2027
+5#Fourier analysis of continuous time system and signals#5.48#impulse response of a phase shifter#ex_5_48.sce#62/CH5/EX5.48/ex_5_48.sce#S##2181
+5#Fourier analysis of continuous time system and signals#5.48#impulse response of a phase shifter#ex_5_48_1.png#62/CH5/EX5.48/ex_5_48_1.png#R##2182
+5#Fourier analysis of continuous time system and signals#5.48#impulse response of a phase shifter#ex_5_48_2.png#62/CH5/EX5.48/ex_5_48_2.png#R##2183
+5#Fourier analysis of continuous time system and signals#5.47.c#bode plot#ex_5_47c.sce#62/CH5/EX5.47.c/ex_5_47c.sce#S##2172
+5#Fourier analysis of continuous time system and signals#5.47.c#bode plot#ex_5_47c.png#62/CH5/EX5.47.c/ex_5_47c.png#R##2173
+5#Fourier analysis of continuous time system and signals#5.47.b#bode plot#ex_5_47b.sce#62/CH5/EX5.47.b/ex_5_47b.sce#S##2174
+5#Fourier analysis of continuous time system and signals#5.47.b#bode plot#ex_5_47b.png#62/CH5/EX5.47.b/ex_5_47b.png#R##2175
+5#Fourier analysis of continuous time system and signals#5.47.a#bode plot#ex_5_47a.sce#62/CH5/EX5.47.a/ex_5_47a.sce#S##2176
+5#Fourier analysis of continuous time system and signals#5.47.a#bode plot#ex_5_47a.png#62/CH5/EX5.47.a/ex_5_47a.png#R##2177
+5#Fourier analysis of continuous time system and signals#5.46#harmonics in the output response#ex_5_46.sce#62/CH5/EX5.46/ex_5_46.sce#S##2164
+5#Fourier analysis of continuous time system and signals#5.46#harmonics in the output response#ex_5_46.png#62/CH5/EX5.46/ex_5_46.png#R##2165
+5#Fourier analysis of continuous time system and signals#5.45.b#output response using fourier transform#ex_5_45b.sce#62/CH5/EX5.45.b/ex_5_45b.sce#S##2166
+5#Fourier analysis of continuous time system and signals#5.45.b#output response using fourier transform#ex_5_45b_1.png#62/CH5/EX5.45.b/ex_5_45b_1.png#R##2167
+5#Fourier analysis of continuous time system and signals#5.45.b#output response using fourier transform#ex_5_45b_2.png#62/CH5/EX5.45.b/ex_5_45b_2.png#R##2168
+5#Fourier analysis of continuous time system and signals#5.45.a#output response using fourier transform#ex_5_45a.sce#62/CH5/EX5.45.a/ex_5_45a.sce#S##2169
+5#Fourier analysis of continuous time system and signals#5.45.a#output response using fourier transform#ex_5_45a_1.png#62/CH5/EX5.45.a/ex_5_45a_1.png#R##2170
+5#Fourier analysis of continuous time system and signals#5.45.a#output response using fourier transform#ex_5_45a_2.png#62/CH5/EX5.45.a/ex_5_45a_2.png#R##2171
+5#Fourier analysis of continuous time system and signals#5.44#impulse response using fourier transform#ex_5_44.sce#62/CH5/EX5.44/ex_5_44.sce#S##2155
+5#Fourier analysis of continuous time system and signals#5.44#impulse response using fourier transform#ex_5_44_1.png#62/CH5/EX5.44/ex_5_44_1.png#R##2156
+5#Fourier analysis of continuous time system and signals#5.44#impulse response using fourier transform#ex_5_44_2.png#62/CH5/EX5.44/ex_5_44_2.png#R##2157
+5#Fourier analysis of continuous time system and signals#5.43#fourier transform of a guassian pulse#ex_5_43.sce#62/CH5/EX5.43/ex_5_43.sce#S##2161
+5#Fourier analysis of continuous time system and signals#5.43#fourier transform of a guassian pulse#ex_5_43_1.png#62/CH5/EX5.43/ex_5_43_1.png#R##2162
+5#Fourier analysis of continuous time system and signals#5.43#fourier transform of a guassian pulse#ex_5_43_2.png#62/CH5/EX5.43/ex_5_43_2.png#R##2163
+5#Fourier analysis of continuous time system and signals#5.42#fourier transform of a exponential signal#ex_5_42.sce#62/CH5/EX5.42/ex_5_42.sce#S##2158
+5#Fourier analysis of continuous time system and signals#5.42#fourier transform of a exponential signal#ex_5_42_1.png#62/CH5/EX5.42/ex_5_42_1.png#R##2159
+5#Fourier analysis of continuous time system and signals#5.42#fourier transform of a exponential signal#ex_5_42_2.png#62/CH5/EX5.42/ex_5_42_2.png#R##2160
+5#Fourier analysis of continuous time system and signals#5.40.b#fourier transform#ex_5_40b.sce#62/CH5/EX5.40.b/ex_5_40b.sce#S##2145
+5#Fourier analysis of continuous time system and signals#5.40.b#fourier transform#ex_5_40b_1.png#62/CH5/EX5.40.b/ex_5_40b_1.png#R##2146
+5#Fourier analysis of continuous time system and signals#5.40.b#fourier transform#ex_5_40b_2.png#62/CH5/EX5.40.b/ex_5_40b_2.png#R##2147
+5#Fourier analysis of continuous time system and signals#5.40.a#fourier transform#ex_5_40a.sce#62/CH5/EX5.40.a/ex_5_40a.sce#S##2151
+5#Fourier analysis of continuous time system and signals#5.40.a#fourier transform#ex_5_40a.png#62/CH5/EX5.40.a/ex_5_40a.png#R##2152
+5#Fourier analysis of continuous time system and signals#5.4.e#fourier series representation#ex_5_4e.sce#62/CH5/EX5.4.e/ex_5_4e.sce#S##2595
+5#Fourier analysis of continuous time system and signals#5.4.d#fourier series representation#ex_5_4d.sce#62/CH5/EX5.4.d/ex_5_4d.sce#S##2594
+5#Fourier analysis of continuous time system and signals#5.4.c#fourier series representation#ex_5_4c.sce#62/CH5/EX5.4.c/ex_5_4c.sce#S##2596
+5#Fourier analysis of continuous time system and signals#5.4.b#fourier series representation#ex_5_4b.sce#62/CH5/EX5.4.b/ex_5_4b.sce#S##2017
+5#Fourier analysis of continuous time system and signals#5.4.a#fourier series representation#ex_5_4a.sce#62/CH5/EX5.4.a/ex_5_4a.sce#S##2006
+5#Fourier analysis of continuous time system and signals#5.34#integration property#ex_5_34.sce#62/CH5/EX5.34/ex_5_34.sce#S##2148
+5#Fourier analysis of continuous time system and signals#5.34#integration property#ex_5_34.png#62/CH5/EX5.34/ex_5_34.png#R##2149
+5#Fourier analysis of continuous time system and signals#5.32#inverse fourier transform using convolution#ex_5_32.sce#62/CH5/EX5.32/ex_5_32.sce#S##2140
+5#Fourier analysis of continuous time system and signals#5.32#inverse fourier transform using convolution#ex_5_32.png#62/CH5/EX5.32/ex_5_32.png#R##2141
+5#Fourier analysis of continuous time system and signals#5.30#fourier transform of a step signal#ex_5_30.sce#62/CH5/EX5.30/ex_5_30.sce#S##2135
+5#Fourier analysis of continuous time system and signals#5.30#fourier transform of a step signal#ex_5_30_1.png#62/CH5/EX5.30/ex_5_30_1.png#R##2136
+5#Fourier analysis of continuous time system and signals#5.30#fourier transform of a step signal#ex_5_30_2.png#62/CH5/EX5.30/ex_5_30_2.png#R##2137
+5#Fourier analysis of continuous time system and signals#5.29#fourier transform of a signum function#ex_5_29.sce#62/CH5/EX5.29/ex_5_29.sce#S##2127
+5#Fourier analysis of continuous time system and signals#5.29#fourier transform of a signum function#ex_5_29_1.png#62/CH5/EX5.29/ex_5_29_1.png#R##2128
+5#Fourier analysis of continuous time system and signals#5.29#fourier transform of a signum function#ex_5_29_2.png#62/CH5/EX5.29/ex_5_29_2.png#R##2129
+5#Fourier analysis of continuous time system and signals#5.27#inverse fourier transform#ex_5_27.sce#62/CH5/EX5.27/ex_5_27.sce#S##2122
+5#Fourier analysis of continuous time system and signals#5.27#inverse fourier transform#ex_5_27_1.png#62/CH5/EX5.27/ex_5_27_1.png#R##2123
+5#Fourier analysis of continuous time system and signals#5.27#inverse fourier transform#ex_5_27_2.png#62/CH5/EX5.27/ex_5_27_2.png#R##2124
+5#Fourier analysis of continuous time system and signals#5.25#fourier transform of a periodic impulse train#ex_5_25.sce#62/CH5/EX5.25/ex_5_25.sce#S##2119
+5#Fourier analysis of continuous time system and signals#5.25#fourier transform of a periodic impulse train#ex_5_25_1.png#62/CH5/EX5.25/ex_5_25_1.png#R##2120
+5#Fourier analysis of continuous time system and signals#5.25#fourier transform of a periodic impulse train#ex_5_25_2.png#62/CH5/EX5.25/ex_5_25_2.png#R##2121
+5#Fourier analysis of continuous time system and signals#5.23.e#fourier transform#ex_5_23e.sce#62/CH5/EX5.23.e/ex_5_23e.sce#S##2115
+5#Fourier analysis of continuous time system and signals#5.23.e#fourier transform#ex_5_23e_1.png#62/CH5/EX5.23.e/ex_5_23e_1.png#R##2116
+5#Fourier analysis of continuous time system and signals#5.23.e#fourier transform#ex_5_23e_2.png#62/CH5/EX5.23.e/ex_5_23e_2.png#R##2117
+5#Fourier analysis of continuous time system and signals#5.23.d#fourier transform#ex_5_23d.sce#62/CH5/EX5.23.d/ex_5_23d.sce#S##2109
+5#Fourier analysis of continuous time system and signals#5.23.d#fourier transform#ex_5_23d_1.png#62/CH5/EX5.23.d/ex_5_23d_1.png#R##2110
+5#Fourier analysis of continuous time system and signals#5.23.d#fourier transform#ex_5_23d_2.png#62/CH5/EX5.23.d/ex_5_23d_2.png#R##2111
+5#Fourier analysis of continuous time system and signals#5.23.c#fourier transform#ex_5_23c.sce#62/CH5/EX5.23.c/ex_5_23c.sce#S##2093
+5#Fourier analysis of continuous time system and signals#5.23.c#fourier transform#ex_5_23c_1.png#62/CH5/EX5.23.c/ex_5_23c_1.png#R##2094
+5#Fourier analysis of continuous time system and signals#5.23.c#fourier transform#ex_5_23c_2.png#62/CH5/EX5.23.c/ex_5_23c_2.png#R##2095
+5#Fourier analysis of continuous time system and signals#5.23.b#fourier transform#ex_5_23b.sce#62/CH5/EX5.23.b/ex_5_23b.sce#S##2088
+5#Fourier analysis of continuous time system and signals#5.23.b#fourier transform#ex_5_23b_1.png#62/CH5/EX5.23.b/ex_5_23b_1.png#R##2089
+5#Fourier analysis of continuous time system and signals#5.23.b#fourier transform#ex_5_23b_2.png#62/CH5/EX5.23.b/ex_5_23b_2.png#R##2090
+5#Fourier analysis of continuous time system and signals#5.23.a#fourier transform#ex_5_23a.sce#62/CH5/EX5.23.a/ex_5_23a.sce#S##2084
+5#Fourier analysis of continuous time system and signals#5.23.a#fourier transform#ex_5_23a_1.png#62/CH5/EX5.23.a/ex_5_23a_1.png#R##2085
+5#Fourier analysis of continuous time system and signals#5.23.a#fourier transform#ex_5_23a_2.png#62/CH5/EX5.23.a/ex_5_23a_2.png#R##2086
+5#Fourier analysis of continuous time system and signals#5.22#fourier transform#ex_5_22.sce#62/CH5/EX5.22/ex_5_22.sce#S##2078
+5#Fourier analysis of continuous time system and signals#5.22#fourier transform#ex_5_22_1.png#62/CH5/EX5.22/ex_5_22_1.png#R##2079
+5#Fourier analysis of continuous time system and signals#5.22#fourier transform#ex_5_22_2.png#62/CH5/EX5.22/ex_5_22_2.png#R##2080
+5#Fourier analysis of continuous time system and signals#5.21#fourier transform#ex_5_21.sce#62/CH5/EX5.21/ex_5_21.sce#S##2075
+5#Fourier analysis of continuous time system and signals#5.21#fourier transform#ex_5_21_1.png#62/CH5/EX5.21/ex_5_21_1.png#R##2076
+5#Fourier analysis of continuous time system and signals#5.21#fourier transform#ex_5_21_2.png#62/CH5/EX5.21/ex_5_21_2.png#R##2077
+5#Fourier analysis of continuous time system and signals#5.20#fourier transform of a sinc function#ex_5_20.sce#62/CH5/EX5.20/ex_5_20.sce#S##2068
+5#Fourier analysis of continuous time system and signals#5.20#fourier transform of a sinc function#ex_5_20_1.png#62/CH5/EX5.20/ex_5_20_1.png#R##2069
+5#Fourier analysis of continuous time system and signals#5.20#fourier transform of a sinc function#ex_5_20_2.png#62/CH5/EX5.20/ex_5_20_2.png#R##2070
+5#Fourier analysis of continuous time system and signals#5.19#fourier transform of a rectangular pulse#ex_5_19.sce#62/CH5/EX5.19/ex_5_19.sce#S##2061
+5#Fourier analysis of continuous time system and signals#5.19#fourier transform of a rectangular pulse#ex_5_19_1.png#62/CH5/EX5.19/ex_5_19_1.png#R##2062
+5#Fourier analysis of continuous time system and signals#5.19#fourier transform of a rectangular pulse#ex_5_19_2.png#62/CH5/EX5.19/ex_5_19_2.png#R##2063
+5#Fourier analysis of continuous time system and signals#5.11#magnitude spectra of a periodic square wave#ex_5_11_1.png#62/CH5/EX5.11/ex_5_11_1.png#R##2600
+5#Fourier analysis of continuous time system and signals#5.11#magnitude spectra of a periodic square wave#ex_5_11.sce#62/CH5/EX5.11/ex_5_11.sce#S##2599
+5#Fourier analysis of continuous time system and signals#5.11#magnitude spectra of a periodic square wave#ex_5_11_2.png#62/CH5/EX5.11/ex_5_11_2.png#R##2601
+5#Fourier analysis of continuous time system and signals#5.10#differentiation property of fourier series#ex_5_10.sce#62/CH5/EX5.10/ex_5_10.sce#S##2049
+5#Fourier analysis of continuous time system and signals#5.10#differentiation property of fourier series#ex_5_10_1.png#62/CH5/EX5.10/ex_5_10_1.png#R##2050
+5#Fourier analysis of continuous time system and signals#5.10#differentiation property of fourier series#ex_5_10_2.png#62/CH5/EX5.10/ex_5_10_2.png#R##2051
+4#The z transform and discrete time LTI systems#4.7#pole zero plot#ex_4_7.sce#62/CH4/EX4.7/ex_4_7.sce#S##2591
+4#The z transform and discrete time LTI systems#4.7#pole zero plot#ex_4_7a.png#62/CH4/EX4.7/ex_4_7a.png#R##2592
+4#The z transform and discrete time LTI systems#4.7#pole zero plot#ex_4_7_2.png#62/CH4/EX4.7/ex_4_7_2.png#R##2593
+4#The z transform and discrete time LTI systems#4.6.c#z transform and pole zero plot#ex_4_6c.sce#62/CH4/EX4.6.c/ex_4_6c.sce#S##820
+4#The z transform and discrete time LTI systems#4.6.b#z transform and pole zero plot#ex_4_6b.sce#62/CH4/EX4.6.b/ex_4_6b.sce#S##818
+4#The z transform and discrete time LTI systems#4.6.b#z transform and pole zero plot#ex_4_6b.png#62/CH4/EX4.6.b/ex_4_6b.png#R##819
+4#The z transform and discrete time LTI systems#4.6.a#z transform and pole zero plot#ex_4_6a.png#62/CH4/EX4.6.a/ex_4_6a.png#R##817
+4#The z transform and discrete time LTI systems#4.6.a#z transform and pole zero plot#ex_4_6a.sce#62/CH4/EX4.6.a/ex_4_6a.sce#S##816
+4#The z transform and discrete time LTI systems#4.4#pole zero plot#ex_4_4.sce#62/CH4/EX4.4/ex_4_4.sce#S##812
+4#The z transform and discrete time LTI systems#4.4#pole zero plot#ex_4_4.png#62/CH4/EX4.4/ex_4_4.png#R##813
+4#The z transform and discrete time LTI systems#4.38#difference equation#ex_4_38.sce#62/CH4/EX4.38/ex_4_38.sce#S##845
+4#The z transform and discrete time LTI systems#4.37#unilateral z transform method#ex_4_37.sce#62/CH4/EX4.37/ex_4_37.sce#S##844
+4#The z transform and discrete time LTI systems#4.35#unilateral z transform#ex_4_35.sce#62/CH4/EX4.35/ex_4_35.sce#S##843
+4#The z transform and discrete time LTI systems#4.32#impulse and step response #ex_4_32.sce#62/CH4/EX4.32/ex_4_32.sce#S##842
+4#The z transform and discrete time LTI systems#4.31#impulse response#ex_4_31.sce#62/CH4/EX4.31/ex_4_31.sce#S##841
+4#The z transform and discrete time LTI systems#4.3#finite sequence z transform#ex_4_3.sce#62/CH4/EX4.3/ex_4_3.sce#S##808
+4#The z transform and discrete time LTI systems#4.29#impulse response and output#ex_4_29.sce#62/CH4/EX4.29/ex_4_29.sce#S##840
+4#The z transform and discrete time LTI systems#4.28#impulse response#ex_4_28.sce#62/CH4/EX4.28/ex_4_28.sce#S##839
+4#The z transform and discrete time LTI systems#4.27#output response#ex_4_27.sce#62/CH4/EX4.27/ex_4_27.sce#S##838
+4#The z transform and discrete time LTI systems#4.26#output response#ex_4_26.sce#62/CH4/EX4.26/ex_4_26.sce#S##837
+4#The z transform and discrete time LTI systems#4.25#inverse z transform#ex_4_25.sce#62/CH4/EX4.25/ex_4_25.sce#S##836
+4#The z transform and discrete time LTI systems#4.23#inverse z transform#ex_4_23.sce#62/CH4/EX4.23/ex_4_23.sce#S##835
+4#The z transform and discrete time LTI systems#4.22#inverse z transform#ex_4_22.sce#62/CH4/EX4.22/ex_4_22.sce#S##834
+4#The z transform and discrete time LTI systems#4.21#inverse z transform#ex_4_21.sce#62/CH4/EX4.21/ex_4_21.sce#S##833
+4#The z transform and discrete time LTI systems#4.20#inverse z transform#ex_4_20.sce#62/CH4/EX4.20/ex_4_20.sce#S##832
+4#The z transform and discrete time LTI systems#4.19#inverse z transform#ex_4_19.sce#62/CH4/EX4.19/ex_4_19.sce#S##831
+4#The z transform and discrete time LTI systems#4.18.b#power series expansion technique#ex_4_18b.sce#62/CH4/EX4.18.b/ex_4_18b.sce#S##830
+4#The z transform and discrete time LTI systems#4.18.a#power series expansion technique#ex_4_18a.sce#62/CH4/EX4.18.a/ex_4_18a.sce#S##829
+4#The z transform and discrete time LTI systems#4.16#inverse z transform#ex_4_16.sce#62/CH4/EX4.16/ex_4_16.sce#S##828
+4#The z transform and discrete time LTI systems#4.15#inverse z transform#ex_4_15.sce#62/CH4/EX4.15/ex_4_15.sce#S##826
+4#The z transform and discrete time LTI systems#4.12#differentiation property#ex_4_12.sce#62/CH4/EX4.12/ex_4_12.sce#S##825
+4#The z transform and discrete time LTI systems#4.10#z transform#ex_4_10.sce#62/CH4/EX4.10/ex_4_10.sce#S##824
+4#The z transform and discrete time LTI systems#4.1.b#z transform#ex_4_1b.sce#62/CH4/EX4.1.b/ex_4_1b.sce#S##811
+4#The z transform and discrete time LTI systems#4.1.a#z transform#ex_4_1a.sce#62/CH4/EX4.1.a/ex_4_1a.sce#S##810
+3#Laplace transform and continuous time LTI systems#3.6#ROC and pole zero plot#ex_3_6.sce#62/CH3/EX3.6/ex_3_6.sce#S##781
+3#Laplace transform and continuous time LTI systems#3.6#ROC and pole zero plot#ex_3_6a.png#62/CH3/EX3.6/ex_3_6a.png#R##782
+3#Laplace transform and continuous time LTI systems#3.6#ROC and pole zero plot#ex_3_6b.png#62/CH3/EX3.6/ex_3_6b.png#R##783
+3#Laplace transform and continuous time LTI systems#3.5#pole zero plot#ex_3_3a.png#62/CH3/EX3.5/ex_3_3a.png#R##1748
+3#Laplace transform and continuous time LTI systems#3.5#pole zero plot#ex_3_5.sce#62/CH3/EX3.5/ex_3_5.sce#S##1747
+3#Laplace transform and continuous time LTI systems#3.5#pole zero plot#ex_3_3_u.png#62/CH3/EX3.5/ex_3_3_u.png#R##1749
+3#Laplace transform and continuous time LTI systems#3.42#circuit analysis#ex_3_42.sce#62/CH3/EX3.42/ex_3_42.sce#S##805
+3#Laplace transform and continuous time LTI systems#3.41#RLC circuit#ex_3_41.sce#62/CH3/EX3.41/ex_3_41.sce#S##804
+3#Laplace transform and continuous time LTI systems#3.40#RC circuit response#ex_3_40.sce#62/CH3/EX3.40/ex_3_40.sce#S##803
+3#Laplace transform and continuous time LTI systems#3.39#RC circuit#ex_3_39.sce#62/CH3/EX3.39/ex_3_39.sce#S##802
+3#Laplace transform and continuous time LTI systems#3.38#second order ODE#ex_3_38.sce#62/CH3/EX3.38/ex_3_38.sce#S##801
+3#Laplace transform and continuous time LTI systems#3.37#unilateral laplace transform method#ex_3_37.sce#62/CH3/EX3.37/ex_3_37.sce#S##799
+3#Laplace transform and continuous time LTI systems#3.36#unilateral laplace transform#ex_3_36.sce#62/CH3/EX3.36/ex_3_36.sce#S##800
+3#Laplace transform and continuous time LTI systems#3.34#bilateral laplace transform#ex_3_34.sce#62/CH3/EX3.34/ex_3_34.sce#S##798
+3#Laplace transform and continuous time LTI systems#3.30#causality and stability#ex_3_30.sce#62/CH3/EX3.30/ex_3_30.sce#S##797
+3#Laplace transform and continuous time LTI systems#3.3#laplace transform #ex_3_3.sce#62/CH3/EX3.3/ex_3_3.sce#S##777
+3#Laplace transform and continuous time LTI systems#3.29#impulse response#ex_3_29.sce#62/CH3/EX3.29/ex_3_29.sce#S##796
+3#Laplace transform and continuous time LTI systems#3.28#first order differntial equation#ex_3_28.sce#62/CH3/EX3.28/ex_3_28.sce#S##795
+3#Laplace transform and continuous time LTI systems#3.27#cascaded system transfer function#ex_3_27.sce#62/CH3/EX3.27/ex_3_27.sce#S##794
+3#Laplace transform and continuous time LTI systems#3.25#impulse response#ex_3_25.sce#62/CH3/EX3.25/ex_3_25.sce#S##793
+3#Laplace transform and continuous time LTI systems#3.24#output response#ex_3_24.sce#62/CH3/EX3.24/ex_3_24.sce#S##792
+3#Laplace transform and continuous time LTI systems#3.22#differentiation in s domain#ex_3_22.sce#62/CH3/EX3.22/ex_3_22.sce#S##827
+3#Laplace transform and continuous time LTI systems#3.21#inverse laplace transform of time shifted signal#ex_3_21.sce#62/CH3/EX3.21/ex_3_21.sce#S##790
+3#Laplace transform and continuous time LTI systems#3.20#inverse laplace transform by partial fractions#ex_3_20.sce#62/CH3/EX3.20/ex_3_20.sce#S##789
+3#Laplace transform and continuous time LTI systems#3.19#inverse laplace transform#ex_3_19.sce#62/CH3/EX3.19/ex_3_19.sce#S##788
+3#Laplace transform and continuous time LTI systems#3.18#inverse laplace transform#ex_3_18.sce#62/CH3/EX3.18/ex_3_18.sce#S##787
+3#Laplace transform and continuous time LTI systems#3.17#inverse laplace transform#ex_3_17.sce#62/CH3/EX3.17/ex_3_17.sce#S##786
+3#Laplace transform and continuous time LTI systems#3.16#inverse laplace transform#ex_3_16.sce#62/CH3/EX3.16/ex_3_16.sce#S##785
+3#Laplace transform and continuous time LTI systems#3.13#derivative and shifting property#ex_3_13.sce#62/CH3/EX3.13/ex_3_13.sce#S##784
+3#Laplace transform and continuous time LTI systems#3.1.b#laplace transform#ex_3_1b.sce#62/CH3/EX3.1.b/ex_3_1b.sce#S##776
+3#Laplace transform and continuous time LTI systems#3.1.a#laplace transform#ex_3_1a.sce#62/CH3/EX3.1.a/ex_3_1a.sce#S##775
+2#Linear Time Invariant Systems#2.9#output response#ex_2_9.sce#62/CH2/EX2.9/ex_2_9.sce#S##1944
+2#Linear Time Invariant Systems#2.9#output response#ex_2_9_1.png#62/CH2/EX2.9/ex_2_9_1.png#R##1945
+2#Linear Time Invariant Systems#2.9#output response#ex_2_9_2.png#62/CH2/EX2.9/ex_2_9_2.png#R##1946
+2#Linear Time Invariant Systems#2.8#periodic convolution#ex_2_8.sce#62/CH2/EX2.8/ex_2_8.sce#S##1935
+2#Linear Time Invariant Systems#2.8#periodic convolution#ex_2_8_1.png#62/CH2/EX2.8/ex_2_8_1.png#R##1936
+2#Linear Time Invariant Systems#2.8#periodic convolution#ex_2_8_2.png#62/CH2/EX2.8/ex_2_8_2.png#R##1937
+2#Linear Time Invariant Systems#2.7.c#convolution of two rectangular pulse#ex_2_7c.sce#62/CH2/EX2.7.c/ex_2_7c.sce#S##1931
+2#Linear Time Invariant Systems#2.7.c#convolution of two rectangular pulse#ex_2_7c.png#62/CH2/EX2.7.c/ex_2_7c.png#R##1932
+2#Linear Time Invariant Systems#2.7.b#convolution of two rectangular pulse#ex_2_7b.sce#62/CH2/EX2.7.b/ex_2_7b.sce#S##1925
+2#Linear Time Invariant Systems#2.7.b#convolution of two rectangular pulse#ex_2_7_b.png#62/CH2/EX2.7.b/ex_2_7_b.png#R##1926
+2#Linear Time Invariant Systems#2.7.a#convolution of two rectangular pulse#ex_2_7a.sce#62/CH2/EX2.7.a/ex_2_7a.sce#S##1923
+2#Linear Time Invariant Systems#2.7.a#convolution of two rectangular pulse#ex_2_7_a.png#62/CH2/EX2.7.a/ex_2_7_a.png#R##1924
+2#Linear Time Invariant Systems#2.6#convolution#ex_2_6.sce#62/CH2/EX2.6/ex_2_6.sce#S##1912
+2#Linear Time Invariant Systems#2.6#convolution#ex_2_6.png#62/CH2/EX2.6/ex_2_6.png#R##1913
+2#Linear Time Invariant Systems#2.5#output response#ex_2_5.sce#62/CH2/EX2.5/ex_2_5.sce#S##1910
+2#Linear Time Invariant Systems#2.5#output response#ex_2_5.png#62/CH2/EX2.5/ex_2_5.png#R##1911
+2#Linear Time Invariant Systems#2.4#output response#ex_2_4.sce#62/CH2/EX2.4/ex_2_4.sce#S##1905
+2#Linear Time Invariant Systems#2.4#output response#ex_2_4_1.png#62/CH2/EX2.4/ex_2_4_1.png#R##1906
+2#Linear Time Invariant Systems#2.38#BIBO stability and causality#ex_2_38.sce#62/CH2/EX2.38/ex_2_38.sce#S##2000
+2#Linear Time Invariant Systems#2.36#causality#ex_2_36.sce#62/CH2/EX2.36/ex_2_36.sce#S##1999
+2#Linear Time Invariant Systems#2.34#output response without using convolution#ex_2_34.sce#62/CH2/EX2.34/ex_2_34.sce#S##1995
+2#Linear Time Invariant Systems#2.34#output response without using convolution#ex_2_34.png#62/CH2/EX2.34/ex_2_34.png#R##1996
+2#Linear Time Invariant Systems#2.30#convolution of discrete signals#ex_2_30.sce#62/CH2/EX2.30/ex_2_30.sce#S##1987
+2#Linear Time Invariant Systems#2.30#convolution of discrete signals#ex_2_30.png#62/CH2/EX2.30/ex_2_30.png#R##1988
+2#Linear Time Invariant Systems#2.29.b#convolution of discrete signals#ex_2_29b.sce#62/CH2/EX2.29.b/ex_2_29b.sce#S##1976
+2#Linear Time Invariant Systems#2.29.b#convolution of discrete signals#ex_2_29_b.png#62/CH2/EX2.29.b/ex_2_29_b.png#R##1977
+2#Linear Time Invariant Systems#2.29.a#convolution of discrete signals#ex_2_29.sce#62/CH2/EX2.29.a/ex_2_29.sce#S##1978
+2#Linear Time Invariant Systems#2.29.a#convolution of discrete signals#ex_2_29_1.png#62/CH2/EX2.29.a/ex_2_29_1.png#R##1979
+2#Linear Time Invariant Systems#2.28#output response of a discrete time system#ex_2_28.sce#62/CH2/EX2.28/ex_2_28.sce#S##1974
+2#Linear Time Invariant Systems#2.28#output response of a discrete time system#ex_2_28.png#62/CH2/EX2.28/ex_2_28.png#R##1975
+2#Linear Time Invariant Systems#2.16#eigen value of the system#ex_2_16.sce#62/CH2/EX2.16/ex_2_16.sce#S##1967
+2#Linear Time Invariant Systems#2.15#eigenfunction of the system#ex_2_15.sce#62/CH2/EX2.15/ex_2_15.sce#S##1964
+2#Linear Time Invariant Systems#2.14.b#BIBO stability#ex_2_14b.sce#62/CH2/EX2.14.b/ex_2_14b.sce#S##1963
+2#Linear Time Invariant Systems#2.14.a#cascaded system#ex_2_14.sce#62/CH2/EX2.14.a/ex_2_14.sce#S##1959
+2#Linear Time Invariant Systems#2.14.a#cascaded system#ex_2_14.png#62/CH2/EX2.14.a/ex_2_14.png#R##1960
+2#Linear Time Invariant Systems#2.10#output response#ex_2_10.sce#62/CH2/EX2.10/ex_2_10.sce#S##1951
+2#Linear Time Invariant Systems#2.10#output response#ex_2_10.png#62/CH2/EX2.10/ex_2_10.png#R##1952
+1#Signals and Systems#1.9#periodicity of exponential signal#ex_1_9.sce#62/CH1/EX1.9/ex_1_9.sce#S##1837
+1#Signals and Systems#1.6#even and odd components#ex_1_6.sce#62/CH1/EX1.6/ex_1_6.sce#S##1829
+1#Signals and Systems#1.6#even and odd components#ex_1_6even.png#62/CH1/EX1.6/ex_1_6even.png#R##1830
+1#Signals and Systems#1.6#even and odd components#ex_1_6odd.png#62/CH1/EX1.6/ex_1_6odd.png#R##1831
+1#Signals and Systems#1.5.d#even and odd components#ex_1_5d.sce#62/CH1/EX1.5.d/ex_1_5d.sce#S##1826
+1#Signals and Systems#1.5.d#even and odd components#ex_1_5_d.png#62/CH1/EX1.5.d/ex_1_5_d.png#R##1827
+1#Signals and Systems#1.5.c#even and odd components#ex_1_5c.sce#62/CH1/EX1.5.c/ex_1_5c.sce#S##1824
+1#Signals and Systems#1.5.c#even and odd components#ex_1_5_c.png#62/CH1/EX1.5.c/ex_1_5_c.png#R##1825
+1#Signals and Systems#1.5.b#even and odd components#ex_1_5b.sce#62/CH1/EX1.5.b/ex_1_5b.sce#S##1822
+1#Signals and Systems#1.5.b#even and odd components#ex_1_5_b.png#62/CH1/EX1.5.b/ex_1_5_b.png#R##1823
+1#Signals and Systems#1.5.a#even and odd components#ex_1_5a.sce#62/CH1/EX1.5.a/ex_1_5a.sce#S##2589
+1#Signals and Systems#1.5.a#even and odd components#ex_1_5_a.png#62/CH1/EX1.5.a/ex_1_5_a.png#R##2590
+1#Signals and Systems#1.41#linearity#ex_1_41.sce#62/CH1/EX1.41/ex_1_41.sce#S##1888
+1#Signals and Systems#1.41#linearity#ex_1_41_1.png#62/CH1/EX1.41/ex_1_41_1.png#R##1889
+1#Signals and Systems#1.41#linearity#ex_1_41_2.png#62/CH1/EX1.41/ex_1_41_2.png#R##1890
+1#Signals and Systems#1.4#discrete time signal#ex_1_4_2.png#62/CH1/EX1.4/ex_1_4_2.png#R##1815
+1#Signals and Systems#1.4#discrete time signal#ex_1_4_1.png#62/CH1/EX1.4/ex_1_4_1.png#R##1814
+1#Signals and Systems#1.4#discrete time signal#ex_1_4.sce#62/CH1/EX1.4/ex_1_4.sce#S##1813
+1#Signals and Systems#1.39#time invariancy#ex_1_39.sce#62/CH1/EX1.39/ex_1_39.sce#S##1886
+1#Signals and Systems#1.38#memoryless causal time invariant system#ex_1_38.sce#62/CH1/EX1.38/ex_1_38.sce#S##1885
+1#Signals and Systems#1.36#memoryless causal stable system#ex_1_36.sce#62/CH1/EX1.36/ex_1_36.sce#S##1881
+1#Signals and Systems#1.35#linearity#ex_1_35.sce#62/CH1/EX1.35/ex_1_35.sce#S##1880
+1#Signals and Systems#1.31#first derivative of the signals#ex_1_31.sce#62/CH1/EX1.31/ex_1_31.sce#S##1874
+1#Signals and Systems#1.31#first derivative of the signals#ex_1_31a.png#62/CH1/EX1.31/ex_1_31a.png#R##1875
+1#Signals and Systems#1.31#first derivative of the signals#ex_1_31_2.png#62/CH1/EX1.31/ex_1_31_2.png#R##1876
+1#Signals and Systems#1.3#sampling of continuous time signal#ex_3_2.png#62/CH1/EX1.3/ex_3_2.png#R##1810
+1#Signals and Systems#1.3#sampling of continuous time signal#ex_3_1.png#62/CH1/EX1.3/ex_3_1.png#R##1809
+1#Signals and Systems#1.3#sampling of continuous time signal#ex_1_3.sce#62/CH1/EX1.3/ex_1_3.sce#S##1808
+1#Signals and Systems#1.23#discrete time signal#ex_1_23.sce#62/CH1/EX1.23/ex_1_23.sce#S##1868
+1#Signals and Systems#1.23#discrete time signal#ex_1_23.png#62/CH1/EX1.23/ex_1_23.png#R##1869
+1#Signals and Systems#1.22#continuous time signal#ex_1_22.sce#62/CH1/EX1.22/ex_1_22.sce#S##2582
+1#Signals and Systems#1.22#continuous time signal#ex_1_22_1.png#62/CH1/EX1.22/ex_1_22_1.png#R##2583
+1#Signals and Systems#1.22#continuous time signal#ex_1_22_2.png#62/CH1/EX1.22/ex_1_22_2.png#R##2584
+1#Signals and Systems#1.21#unit step signal#ex_1_21.sce#62/CH1/EX1.21/ex_1_21.sce#S##1850
+1#Signals and Systems#1.21#unit step signal#ex_1_21_1.png#62/CH1/EX1.21/ex_1_21_1.png#R##1851
+1#Signals and Systems#1.21#unit step signal#ex_1_21_2.png#62/CH1/EX1.21/ex_1_21_2.png#R##1852
+1#Signals and Systems#1.2#shifting and scaling of discrete time signal#ex_1_2.sce#62/CH1/EX1.2/ex_1_2.sce#S##2585
+1#Signals and Systems#1.2#shifting and scaling of discrete time signal#ex_2_1.png#62/CH1/EX1.2/ex_2_1.png#R##2586
+1#Signals and Systems#1.2#shifting and scaling of discrete time signal#ex_2_2.png#62/CH1/EX1.2/ex_2_2.png#R##2587
+1#Signals and Systems#1.16#fundamental period#ex_1_16.sce#62/CH1/EX1.16/ex_1_16.sce#S##1844
+1#Signals and Systems#1.11#periodicity of exponential sequence#ex_1_11.sce#62/CH1/EX1.11/ex_1_11.sce#S##1843
+1#Signals and Systems#1.10#periodicity of sinusoidal signal#ex_1_10.sce#62/CH1/EX1.10/ex_1_10.sce#S##2588
+1#Signals and Systems#1.1#shifting and scaling of continuous time signal#ex_1_1_1.png#62/CH1/EX1.1/ex_1_1_1.png#R##1803
+1#Signals and Systems#1.1#shifting and scaling of continuous time signal#ex_1_1_2.png#62/CH1/EX1.1/ex_1_1_2.png#R##1804
+1#Signals and Systems#1.1#shifting and scaling of continuous time signal#ex_1_1.sce#62/CH1/EX1.1/ex_1_1.sce#S##1802

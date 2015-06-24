@@ -1,0 +1,2 @@
+﻿ Angle of incidence = 59.999272 degree
+ Angle of refraction = 30.000728 degree

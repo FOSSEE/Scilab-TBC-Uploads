@@ -1,0 +1,7 @@
+(i) Point of minimum potential = 50 A 
+
+(ii)Total current = 360 A 
+Current supplied by A = 150 A 
+Current supplied by B = 210 A 
+Minimum potential = 217.50 V 
+

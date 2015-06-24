@@ -1,0 +1,1 @@
+ The directivity of 35 turn helix = 21.482118 dB

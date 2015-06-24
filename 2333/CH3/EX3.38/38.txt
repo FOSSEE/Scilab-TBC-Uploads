@@ -1,0 +1,5 @@
+# PROBLEM 38 # 
+ Standard formula used 
+ S = 1.22*lambda/(2*sin(theta))  
+
+ Resolving limit of microscope is 6.710000e-05 cm.

@@ -1,0 +1,15 @@
+ (a) Value of shunt feild current (in Amperes)=   
+ 
+    5.  
+ 
+ (b) Value of armature current (in Amperes)=   
+ 
+    200.  
+ 
+ (c) Value of generated voltage (in volts)=   
+ 
+    260.  
+ 
+ (d) Value of load resistance (in ohms)=   
+ 
+    1.2820513

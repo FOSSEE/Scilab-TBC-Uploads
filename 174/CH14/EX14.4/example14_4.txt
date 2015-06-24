@@ -1,0 +1,3 @@
+t = 7.2e-006 s 
+ Since twice the time to reach the break is required for the reflection to arrive at the reflectometer,   
+Hence the total elapsed time = 1.447e-005 s 

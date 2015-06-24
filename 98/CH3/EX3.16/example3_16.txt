@@ -1,0 +1,13 @@
+Installed capacity = 25 MW 
+
+Average demand = 12 MW 
+
+Plant factor = 48.00 % 
+
+Units generated per annum = 105.12*10^6 kWh 
+
+Load factor = 60.00 % 
+
+Utilisation factor = 80.00 % 
+
+

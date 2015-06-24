@@ -1,0 +1,11 @@
+Efficiency of the transformer at full load and unity power factor(in %)=   
+ 
+    97.200622  
+ 
+ Efficiency of the transformer at full load and 0.8 lagging power factor(in %)=   
+ 
+    96.525097  
+ 
+ At 0.8 leading power factor. since there is no change in input and output, so efficiency is unchanged(in %)=   
+ 
+    96.525097  

@@ -1,0 +1,4 @@
+
+Example 7.10
+ Average value of electric field at distance 1 m is 122.432765 Volt/m 
+ Average value of magnetic field at distance 1 m is 0.324984 Amp-turn/m 

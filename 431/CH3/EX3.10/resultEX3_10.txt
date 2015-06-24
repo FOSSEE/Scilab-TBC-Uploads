@@ -1,0 +1,4 @@
+ Example 3.10   
+I5=124A
+The current drawn by the primary from 6600Vmains is equal to,Ip=4.516939A
+power factor=0.945934lagging 

@@ -1,0 +1,12 @@
+ (a) Flux per pole (in Weber)=   
+ 
+    0.0235619  
+ 
+ (b) Total no. of conductors=   
+ 
+    340.  
+ 
+ (c) Torque (in Newton-meter)=   
+ 
+    63.666667  
+ 

@@ -1,0 +1,4 @@
+ Efficiency of motor(in %)=   
+ 
+    83.747348  
+ 

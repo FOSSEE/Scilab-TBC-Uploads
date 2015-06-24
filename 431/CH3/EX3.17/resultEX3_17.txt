@@ -1,0 +1,4 @@
+  
+ Example 3.17   
+percentage regulation=7.356922percent
+Power factor for zero regulation=0.866025(leading) 

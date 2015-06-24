@@ -1,0 +1,7 @@
+Thermal resistance of the dielectric of the cable = 1.03 thermal ohms per metre length 
+
+Total thermal resistance = 1.48 thermal ohms per metre legth 
+
+Maximum permissible current loading = 580 A 
+
+

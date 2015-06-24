@@ -1,0 +1,4 @@
+ 
+ Example 8.3
+ On making velocity to 0.5 times of initial, 
+ Increase in life time is 300%.

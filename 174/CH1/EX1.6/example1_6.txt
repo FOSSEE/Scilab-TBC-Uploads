@@ -1,0 +1,2 @@
+ Difference = 25 +/- 8
+The percentage range of doubt = +/-32.00% 

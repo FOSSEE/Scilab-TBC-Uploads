@@ -1,0 +1,2 @@
+﻿ Thickness of plate of quartz in first case = 2.945000e-06 meter,
+ And thickness of plate of quartz in second case = 7.362500e-06 meter

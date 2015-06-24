@@ -1,0 +1,7 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_3_June/Codes/Chapter_1/code/example1_13_pg28.sce', -1)
+
+Regulation of the Transformer by method 1 is 2.85 % 
+Regulation of the Transformer by method 2 is 2.85 % 
+ 
+-->diary(0);

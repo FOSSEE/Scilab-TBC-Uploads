@@ -1,0 +1,8 @@
+(a)Input power(in KVA)=   
+ 
+    18.071732  
+ 
+ (b)Power factor=   
+ 
+    0.6510005  
+ 

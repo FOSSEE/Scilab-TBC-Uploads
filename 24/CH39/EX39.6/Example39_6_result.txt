@@ -1,0 +1,2 @@
+**Sample Probelm 39-6**
+The error in measuring x is 11nm 

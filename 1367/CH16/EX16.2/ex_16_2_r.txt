@@ -1,0 +1,8 @@
+  
+ Critical field at 3K (in A/m) =    
+ 
+    0.0662421  
+ 
+ Critical field at 10K (in A/m) =    
+ 
+  - 0.0758986  

@@ -1,0 +1,3 @@
+
+Example 1.22
+ Wavelength of helium at 27 degree Celsius is 0.726758 angstrom.

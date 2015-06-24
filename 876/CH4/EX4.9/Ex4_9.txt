@@ -1,0 +1,7 @@
+equivalent parallel resistance(in kilo ohm)=   
+ 
+    12.4  
+ 
+ equivalent parallel capacitance(in F)=   
+ 
+    0.0000203

@@ -1,0 +1,20 @@
+                       //EXAMPLE 1-36    PG NO-31
+T=0.99425;    //TIME
+disp('i)Time = '+string (T)+' seconds')
+X=0.37;      //DERAVATIVES OF 'I'  W.R.T
+disp('ii)(di\dt) = '+string (X)+' A\sec')
+LI=0.63;     //CURRENT
+dli=0.37;    // deravatives of 'SI' w.r.t
+disp('iii)(dsi\dt) = '+string (dli)+' Wb-turns\sec')
+VL=dli;
+disp('iv)(VL) = '+string (VL)+' V')
+Ri=0.63;
+VR=Ri;
+disp('v)VR = '+string (VR)+' V')
+E=0.5*LI*LI;    //ENERGY
+disp('vi)ENERGY stored in magnetic field = '+string (E)+' J')
+E1=LI*v;   //ENERGY STORED IN MAGNETIC FIELD
+H=Ri*Ri;     //HEAT
+disp('vii) Rate of Energy stored in magnetic field = '+string (E1)+' W')
+disp('viii)Rate of dissipation of heat in resistor = '+string (H)+' W')
+disp('ix)Rate of supply of battery energy = '+string (Ri)+' W')

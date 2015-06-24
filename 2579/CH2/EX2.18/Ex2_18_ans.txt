@@ -1,0 +1,2 @@
+ The bandwidth= 1.571429 MHz
+ The answer is wrong in the textbook

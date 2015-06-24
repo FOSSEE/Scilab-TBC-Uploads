@@ -1,0 +1,121 @@
+25#ECONOMIC SCHEDULING OF HYDROTHERMAL PLANTS AND OPTIMAL POWER FLOWS#25.1#illustrating the procedure for economic scheduling clear all#ch25_1.sce#1055/CH25/EX25.1/ch25_1.sce#S##60144
+24#UNIT COMMITMENT#24.4#illustrate the dynamic programming for preparing an optimal unit commitment#ch24_4.sce#1055/CH24/EX24.4/ch24_4.sce#S##60142
+24#UNIT COMMITMENT#24.3#Priority List Method#ch24_3.sce#1055/CH24/EX24.3/ch24_3.sce#S##60140
+23#STATE ESTIMATION IN POWER SYSTEMS#23.4#Determine theta1 Theta2#ch23_4.sce#1055/CH23/EX23.4/ch23_4.sce#S##60139
+23#STATE ESTIMATION IN POWER SYSTEMS#23.3#Problem on State Estimator Linear Model#ch23_3.sce#1055/CH23/EX23.3/ch23_3.sce#S##60138
+23#STATE ESTIMATION IN POWER SYSTEMS#23.2#Determine The States of the systems at the end of first iteration#ch23_2.sce#1055/CH23/EX23.2/ch23_2.sce#S##60137
+23#STATE ESTIMATION IN POWER SYSTEMS#23.1#To determine the state vector at the end of first iteration#ch23_1.sce#1055/CH23/EX23.1/ch23_1.sce#S##60136
+22#POWER SYSTEM VOLTAGE STABILITY#22.8#Calculate the additional reactive power capability at full load#ch22_8.sce#1055/CH22/EX22.8/ch22_8.sce#S##60135
+22#POWER SYSTEM VOLTAGE STABILITY#22.7#To determine the effect of tapping to raise the secondary voltage by 10percent#ch22_7.sce#1055/CH22/EX22.7/ch22_7.sce#S##60134
+22#POWER SYSTEM VOLTAGE STABILITY#22.6#To discuss the effect of tap changing#ch22_6.sce#1055/CH22/EX22.6/ch22_6.sce#S##62418
+22#POWER SYSTEM VOLTAGE STABILITY#22.4#To Calculate the new on and off times for constant energy#ch22_4.sce#1055/CH22/EX22.4/ch22_4.sce#S##60132
+22#POWER SYSTEM VOLTAGE STABILITY#22.3#To determine thee Ac system voltage when the dc system is disconnected or shutdown#ch22_3.sce#1055/CH22/EX22.3/ch22_3.sce#S##60131
+22#POWER SYSTEM VOLTAGE STABILITY#22.2#To Determine the source voltage when the load is disconnected to load pf i unity ii 8 lag#ch22_2.sce#1055/CH22/EX22.2/ch22_2.sce#S##60130
+21#COMPENSATION IN POWER SYSTEMS#21.1#Determine the load bus voltage#ch21.sce#1055/CH21/EX21.1/ch21.sce#S##62417
+20#LOAD FREQUENCY CONTROL#20.3#Determine the frequency to which the generated voltage drops before the steam flow commences to increase to meet the new load#ch20_3.sce#1055/CH20/EX20.3/ch20_3.sce#S##60128
+20#LOAD FREQUENCY CONTROL#20.2#Determine the load shared by each machine#ch20_2.sce#1055/CH20/EX20.2/ch20_2.sce#S##60127
+20#LOAD FREQUENCY CONTROL#20.1#Determine the load taken by the set C and indicate the direction in which the energy is flowing#ch20_1.sce#1055/CH20/EX20.1/ch20_1.sce#S##60126
+19#ECONOMIC LOAD DISPATCH#19.4#Determine the minimum cost of generation#ch19_4.sce#1055/CH19/EX19.4/ch19_4.sce#S##60125
+19#ECONOMIC LOAD DISPATCH#19.2#Determine the incremental cost of recieved power and penalty factor of the plant#ch19_2.sce#1055/CH19/EX19.2/ch19_2.sce#S##60124
+19#ECONOMIC LOAD DISPATCH#19.1#To Determine the economic operating schedule and the corresponding cost of generation b Determine the savings obtained by loading the units#ch19_1.sce#1055/CH19/EX19.1/ch19_1.sce#S##60122
+18#LOAD FLOWS#18.5#Determine the equations at the end of first iteration after applying given constraints#ch18_5.sce#1055/CH18/EX18.5/ch18_5.sce#S##60121
+18#LOAD FLOWS#18.4#Determine the set of load flow equations at the end of first iteration by using Newton Raphson method#ch18_4.sce#1055/CH18/EX18.4/ch18_4.sce#S##60120
+18#LOAD FLOWS#18.3#Solve the prevous problem for for voltages at the end of first iteration#ch18_3.sce#1055/CH18/EX18.3/ch18_3.sce#S##60119
+18#LOAD FLOWS#18.2#Determine the voltages starting with a flat voltage profile#ch18_2.sce#1055/CH18/EX18.2/ch18_2.sce#S##62416
+18#LOAD FLOWS#18.1#Determine the voltages at the end of first iteration using gauss seidal method#ch18_1.sce#1055/CH18/EX18.1/ch18_1.sce#S##60116
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.9#Determine the reduced admittance matrices for prefault  fault and post fault conditions and determine the power angle characterstics for three conditions#ch17_9.sce#1055/CH17/EX17.9/ch17_9.sce#S##60115
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.8#Compute the prefault faulted and post fault reduced Y matrices#ch17_8.sce#1055/CH17/EX17.8/ch17_8.sce#S##60114
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.7#To determine the centre and radius for the pull out curve ans also minimum output vars when the output powers are i 0 ii 25pu iii 5pu#ch17_7.sce#1055/CH17/EX17.7/ch17_7.sce#S##60113
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.6#determine the critical clearing angle #ch17_6.sce#1055/CH17/EX17.6/ch17_6.sce#S##60111
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.5#To calculate the critical clearing angle for the generator for a 3phase fault#ch17_5.sce#1055/CH17/EX17.5/ch17_5.sce#S##60110
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.4#To calculate the critical clearing angle for the condition described#ch17_4.sce#1055/CH17/EX17.4/ch17_4.sce#S##60109
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.3#To calculate the maximum value of d during the swinging of the rotor around its new equilibrium position#ch17_3.sce#1055/CH17/EX17.3/ch17_3.sce#S##72475
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.2#To determine the frequency of natural oscillations if the genrator is loaded to i 60 Percent and ii 75 percent of its maximum power transfer capacity#ch17_2.sce#1055/CH17/EX17.2/ch17_2.sce#S##60106
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.10#To Determine the rotor angle and angular frequency  using runga kutta and eulers modified method#ch17_10.sce#1055/CH17/EX17.10/ch17_10.sce#S##66909
+17#POWER SYSTEM SYNCHRONOUS STABILITY#17.1#To determine the acceleration  Also determine the change in torque angle and rpmat the end of 15 cycles#ch17_1.sce#1055/CH17/EX17.1/ch17_1.sce#S##60105
+15#CIRCUIT BREAKERS#15.5#TO Determine i sustained short circuit current in the breaker ii initial symmetrical rms current in the breaker iii maximum possible dc component of the short circuit current in the breaker iv momentary current rating of the breaker v the current #ch15_5.sce#1055/CH15/EX15.5/ch15_5.sce#S##60104
+15#CIRCUIT BREAKERS#15.4#To determine the rated normal current breaking current  making current and short time rating current#ch15_4.sce#1055/CH15/EX15.4/ch15_4.sce#S##60102
+15#CIRCUIT BREAKERS#15.3#To Determine the average rate of rise of restriking voltage#ch15_3.sce#1055/CH15/EX15.3/ch15_3.sce#S##60101
+15#CIRCUIT BREAKERS#15.2#To determine the rate of rise of restriking voltage#ch15_2.sce#1055/CH15/EX15.2/ch15_2.sce#S##60100
+15#CIRCUIT BREAKERS#15.1#To determine the voltage appearing across the pole of CB also determine the value of resistance to be used across contacts#ch15_1.sce#1055/CH15/EX15.1/ch15_1.sce#S##60098
+14#PROTECTIVE RELAYS#14.9#To determine the R1 R2 and C also The potential across relays#ch14_9.sce#1055/CH14/EX14.9/ch14_9.sce#S##60095
+14#PROTECTIVE RELAYS#14.8#To determine the number of turns each current transformer should have#ch14_8.sce#1055/CH14/EX14.8/ch14_8.sce#S##60094
+14#PROTECTIVE RELAYS#14.7#To determine the ratio of CT on HV side#ch14_7.sce#1055/CH14/EX14.7/ch14_7.sce#S##60093
+14#PROTECTIVE RELAYS#14.6#To determine whether relay will operate or not#ch14_6.sce#1055/CH14/EX14.6/ch14_6.sce#S##60092
+14#PROTECTIVE RELAYS#14.5#To determine i percent winding which remains unprotected ii min value of earthing resistance required to protect 80 percent of winding #ch14_5.sce#1055/CH14/EX14.5/ch14_5.sce#S##60091
+14#PROTECTIVE RELAYS#14.4#To determine the proportion of the winding which remains unprotected against earth fault#ch14_4.sce#1055/CH14/EX14.4/ch14_4.sce#S##60090
+14#PROTECTIVE RELAYS#14.3#To provide time current grading#ch14_3.sce#1055/CH14/EX14.3/ch14_3.sce#S##60089
+14#PROTECTIVE RELAYS#14.2#To determine the phase shifting network to be used#ch14_2.sce#1055/CH14/EX14.2/ch14_2.sce#S##60088
+14#PROTECTIVE RELAYS#14.11#To determine the VA output of CT #ch14_11.sce#1055/CH14/EX14.11/ch14_11.sce#S##60097
+14#PROTECTIVE RELAYS#14.10#To determine the kneepoint voltage and cross section of core#ch14_10.sce#1055/CH14/EX14.10/ch14_10.sce#S##60096
+14#PROTECTIVE RELAYS#14.1#To determine the time of operation of relay#ch14_1.sce#1055/CH14/EX14.1/ch14_1.sce#S##60087
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.9#Determine the short circuit capacity of the breaker#ch13_9.sce#1055/CH13/EX13.9/ch13_9.sce#S##60077
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.8#Determine the percent increase of busbar voltage #ch13_8.sce#1055/CH13/EX13.8/ch13_8.sce#S##60076
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.6#Determine the fault current when i LG ii LL iii LLG fault takes place at P#ch13_6.sce#1055/CH13/EX13.6/ch13_6.sce#S##60074
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.5#determine the fault current and line to line voltages at the fault #ch13_5.sce#1055/CH13/EX13.5/ch13_5.sce#S##62415
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.4#determine the fault current and line to line voltages at the fault #ch13_4.sce#1055/CH13/EX13.4/ch13_4.sce#S##60072
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.3#Determine the fault current and line to line voltages#ch13_3.sce#1055/CH13/EX13.3/ch13_3.sce#S##62414
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.2#Find the symmetrical component of currents#ch13_2.sce#1055/CH13/EX13.2/ch13_2.sce#S##60070
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.17#To determine the line voltages and currents in per unit on delta side of the transformer#ch13_17.sce#1055/CH13/EX13.17/ch13_17.sce#S##60086
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.16#Determine the shorrt circuit MVA of the transformer #ch13_16.sce#1055/CH13/EX13.16/ch13_16.sce#S##60085
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.15#To determine the i pre fault current in line a ii the subtransient current in pu iii the subtransient current in each phase of generator in pu #ch13_15.sce#1055/CH13/EX13.15/ch13_15.sce#S##60084
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.14#Determine the subtransient currents in all phases of machine1 the fault current and the voltages of machine 1 and voltage at the fault point#ch13_14.sce#1055/CH13/EX13.14/ch13_14.sce#S##60083
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.13#To Determine the reactance of the reactor to prevent the brakers being overloaded#ch13_13.sce#1055/CH13/EX13.13/ch13_13.sce#S##60082
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.12#To Determine the subtransient current in the alternator  motor and the fault#ch13_12.sce#1055/CH13/EX13.12/ch13_12.sce#S##60081
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.11#Determine the Fault MVA #ch13_11.sce#1055/CH13/EX13.11/ch13_11.sce#S##60079
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.10#To determine the short circuit capacity of each station#ch13_10.sce#1055/CH13/EX13.10/ch13_10.sce#S##60078
+13#SYMMETRICAL COMPONENTS AND FAULT CALCULATIONS#13.1#Determine the symmetrical components of voltages#ch13_1.sce#1055/CH13/EX13.1/ch13_1.sce#S##60069
+12#TRANSIENTS IN POWER SYSTEMS#12.6#Determine i the value of the Voltage wave when it has travelled through a distance 50 Km ii Power loss and Heat loss#ch12_6.sce#1055/CH12/EX12.6/ch12_6.sce#S##60068
+12#TRANSIENTS IN POWER SYSTEMS#12.5#Determine the maximum value of transmitted surge #ch12_5.sce#1055/CH12/EX12.5/ch12_5.sce#S##59605
+12#TRANSIENTS IN POWER SYSTEMS#12.4#Determine the maximum value of transmitted wave#ch12_4.sce#1055/CH12/EX12.4/ch12_4.sce#S##59604
+12#TRANSIENTS IN POWER SYSTEMS#12.3#To find the surge voltages and currents transmitted into branch line#ch12_3.sce#1055/CH12/EX12.3/ch12_3.sce#S##59603
+12#TRANSIENTS IN POWER SYSTEMS#12.2#Find the voltage rise at the junction due to surge #ch12_2.sce#1055/CH12/EX12.2/ch12_2.sce#S##59602
+12#TRANSIENTS IN POWER SYSTEMS#12.1#To determine the i the neutral impedence of line ii line current iii rate of energy absorption  rate of reflection and state form of reflection iv terminating resistance v amount of reflected and transmitted power #ch12_1.sce#1055/CH12/EX12.1/ch12_1.sce#S##59601
+11#NEUTRAL GROUNDING#11.2#Determine the reactance to neutralize the capacitance of i 100 percent of the length of line ii 90 percent of the length of line iii 80 percent of the length of line#ch11_2.sce#1055/CH11/EX11.2/ch11_2.sce#S##59600
+11#NEUTRAL GROUNDING#11.1#To find the inductance and KVA rating of the arc suppressor coil in the system #ch11_1.sce#1055/CH11/EX11.1/ch11_1.sce#S##59599
+10#VOLTAGE CONTROL#10.4#Determine the KV Ar of the Modifier and the maximum load that can be transmitted#ch10_4.sce#1055/CH10/EX10.4/ch10_4.sce#S##59598
+10#VOLTAGE CONTROL#10.3#i Find the sending end Voltage and the regulation of line ii Determine the reactance power supplied by the line and by synchronous capacotor and pf of line iii Determine the maximum power transmitted #ch10_3.sce#1055/CH10/EX10.3/ch10_3.sce#S##59597
+10#VOLTAGE CONTROL#10.2#Determine the settings of the tap changers required to maintain the voltage of load bus bar #ch10_2.sce#1055/CH10/EX10.2/ch10_2.sce#S##59596
+10#VOLTAGE CONTROL#10.1#To determine the total power  active and reactive  supplied by the generator and the pf at which the generator must operate #ch10_1.sce#1055/CH10/EX10.1/ch10_1.sce#S##59595
+9#INSULATED CABLES#9.8#To determine the ratio of sheath loss to core loss of the cable#ch9_8.sce#1055/CH9/EX9.8/ch9_8.sce#S##59594
+9#INSULATED CABLES#9.7#To calculate the induced emf in each sheath #ch9_7.sce#1055/CH9/EX9.7/ch9_7.sce#S##59593
+9#INSULATED CABLES#9.6#Determine the capacitance a between any two conductors b between any two bunched conductors and the third conductor c Also calculate the charging current per phase per km#ch9_6.sce#1055/CH9/EX9.6/ch9_6.sce#S##59591
+9#INSULATED CABLES#9.5#o dtermine the equivalent star connected capacity and the kVA required#ch9_5.sce#1055/CH9/EX9.5/ch9_5.sce#S##59590
+9#INSULATED CABLES#9.4#To determine the maximum stresses in each of the three layers#ch9_4.sce#1055/CH9/EX9.4/ch9_4.sce#S##59589
+9#INSULATED CABLES#9.3#To determine the maximum safe working voltage#ch9_3.sce#1055/CH9/EX9.3/ch9_3.sce#S##59588
+9#INSULATED CABLES#9.2#To determine the minimum internal diameter of the lead sheath#ch9_2.sce#1055/CH9/EX9.2/ch9_2.sce#S##59587
+9#INSULATED CABLES#9.1#To determine the economic overall diameter of a 1core cable metal sheathead#ch9_1.sce#1055/CH9/EX9.1/ch9_1.sce#S##59586
+8#OVERHEAD LINE INSULATORS#8.1#To determine the maximum voltage that the string of the suspension insulators can withstand#ch8_1.sce#1055/CH8/EX8.1/ch8_1.sce#S##59585
+7#MECHANICAL DESIGN OF TRANSMISSION LINES#7.4#To determine the clearence between the conductor and water level#ch7_4.sce#1055/CH7/EX7.4/ch7_4.sce#S##59584
+7#MECHANICAL DESIGN OF TRANSMISSION LINES#7.3#To determine the Sag#ch7_3.sce#1055/CH7/EX7.3/ch7_3.sce#S##59583
+7#MECHANICAL DESIGN OF TRANSMISSION LINES#7.2#To calculate the maximum Sag#ch7_2.sce#1055/CH7/EX7.2/ch7_2.sce#S##59582
+7#MECHANICAL DESIGN OF TRANSMISSION LINES#7.1#Calculate the sag #ch7_1.sce#1055/CH7/EX7.1/ch7_1.sce#S##59581
+6#CORONA#6.5#To determine the corona characterstics#ch6_5.sce#1055/CH6/EX6.5/ch6_5.sce#S##59580
+6#CORONA#6.4#To determine the voltage for which corona will commence on the line#ch6_4.sce#1055/CH6/EX6.4/ch6_4.sce#S##59579
+6#CORONA#6.3#To determine the critical disruptive voltage and corona loss #ch6_3.sce#1055/CH6/EX6.3/ch6_3.sce#S##59578
+6#CORONA#6.2#To determine whether corona will be present in the air space round the conductor#ch6_2.sce#1055/CH6/EX6.2/ch6_2.sce#S##59577
+6#CORONA#6.1#To determine the critical disruptive voltage and critical voltage for local and general corona#ch6_1.sce#1055/CH6/EX6.1/ch6_1.sce#S##59576
+5#HIGH VOLTAGE DC TRANSMISSION#5.4#Calculate the direct current delivered#ch5_4.sce#1055/CH5/EX5.4/ch5_4.sce#S##59575
+5#HIGH VOLTAGE DC TRANSMISSION#5.3#To determine the effective reactance per phase#ch5_3.sce#1055/CH5/EX5.3/ch5_3.sce#S##59574
+5#HIGH VOLTAGE DC TRANSMISSION#5.2#To determine the necessary line secondary voltage and tap ratio required#ch5_2.sce#1055/CH5/EX5.2/ch5_2.sce#S##59573
+5#HIGH VOLTAGE DC TRANSMISSION#5.1#To determine the dc output voltage when delay anglw a0 b30 c45#ch5_1.sce#1055/CH5/EX5.1/ch5_1.sce#S##59572
+4#PERFORMANCE OF LINES#4.9#To determine the sending end voltage and efficiency using Nominal pi and Nominal T method#ch4_9.sce#1055/CH4/EX4.9/ch4_9.sce#S##59570
+4#PERFORMANCE OF LINES#4.8#To determine the ABCD parameters of Line#ch4_8.sce#1055/CH4/EX4.8/ch4_8.sce#S##59569
+4#PERFORMANCE OF LINES#4.7#To determine of efficiency of line#ch4_7.sce#1055/CH4/EX4.7/ch4_7.sce#S##59568
+4#PERFORMANCE OF LINES#4.6#To find the rms value and phase values i The incident voltage to neutral at the recieving end ii The reflected voltage to neutral at the recieving end iii The incident and reflected voltage to neutral at 120 km from the recieving end#ch4_6.sce#1055/CH4/EX4.6/ch4_6.sce#S##59567
+4#PERFORMANCE OF LINES#4.5#To determine efficiency and regulation of 3 phase line#ch4_5.sce#1055/CH4/EX4.5/ch4_5.sce#S##62413
+4#PERFORMANCE OF LINES#4.4#To calculate the voltage across each load impedence and current in the nuetral#ch4_4.sce#1055/CH4/EX4.4/ch4_4.sce#S##59565
+4#PERFORMANCE OF LINES#4.3#To determine efficiency and regulation of line#ch4_3.sce#1055/CH4/EX4.3/ch4_3.sce#S##59564
+4#PERFORMANCE OF LINES#4.2#To determine power input and output i star connected ii delta connected#ch4_2.sce#1055/CH4/EX4.2/ch4_2.sce#S##59563
+4#PERFORMANCE OF LINES#4.10#To determine the sending end voltage and current  power and power factor Evaluate A B  C D parameters#ch4_10.sce#1055/CH4/EX4.10/ch4_10.sce#S##59571
+4#PERFORMANCE OF LINES#4.1#To determine the sending end voltage and current  power and power factor Evaluate A B  C D parameters#ch4_1.sce#1055/CH4/EX4.1/ch4_1.sce#S##59562
+3#CAPACITANCE OF TRANSMISSION LINES#3.3#To determine the capacitance and charging current #ch3_3.sce#1055/CH3/EX3.3/ch3_3.sce#S##59561
+3#CAPACITANCE OF TRANSMISSION LINES#3.2#To determine the capacitance and charging current #ch3_2.sce#1055/CH3/EX3.2/ch3_2.sce#S##59560
+3#CAPACITANCE OF TRANSMISSION LINES#3.1#To determine the capacitance and charging current #ch3_1.sce#1055/CH3/EX3.1/ch3_1.sce#S##59559
+2#LINE CONSTANT CALCULATIONS#2.7#To determine the inductance per Km per phase of single circuit#ch2_7.sce#1055/CH2/EX2.7/ch2_7.sce#S##59558
+2#LINE CONSTANT CALCULATIONS#2.6#To determine the inductance of double circuit line #ch2_6.sce#1055/CH2/EX2.6/ch2_6.sce#S##59557
+2#LINE CONSTANT CALCULATIONS#2.5#To determine the inductance per Km of  3 phase line#ch2_5.sce#1055/CH2/EX2.5/ch2_5.sce#S##59556
+2#LINE CONSTANT CALCULATIONS#2.4#To determine the inductance of single phase Transmission line#ch2_4.sce#1055/CH2/EX2.4/ch2_4.sce#S##59555
+2#LINE CONSTANT CALCULATIONS#2.3#Determine the equivalent radius of bundle conductor having its part conductors r on the periphery of circle  of dia d #ch2_3.sce#1055/CH2/EX2.3/ch2_3.sce#S##59554
+2#LINE CONSTANT CALCULATIONS#2.2#To dtermine inductance of a 3 phase line #ch2_2.sce#1055/CH2/EX2.2/ch2_2.sce#S##59553
+1#FUNDAMENTALS OF POWER SYSTEMS#1.1#To determine the Base values and pu values#ch1_1.sce#1055/CH1/EX1.1/ch1_1.sce#S##59552

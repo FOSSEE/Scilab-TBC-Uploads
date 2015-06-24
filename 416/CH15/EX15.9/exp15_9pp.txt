@@ -1,0 +1,6 @@
+ 
+ example 15.9   
+quantity of water for maximum output 368.330000m^3-sec 
+surface area of reservoir 39.779640km^3 
+wash behind embankment 7.955928km 
+total energy output 3.285000e+006MWh 

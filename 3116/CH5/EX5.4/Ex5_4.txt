@@ -1,0 +1,3 @@
+ Example 5.4
+
+ Number of Schottky defects are 5.31e+19 defects/m^3. 

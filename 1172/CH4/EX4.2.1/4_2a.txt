@@ -1,0 +1,6 @@
+
+ # Problem 2a # 
+ 
+ Directional cosine in X - axis is 0.500000  
+ Directional cosine in Y - axis is 0.500000  
+ Directional cosine in Z - axis is 0.707100  

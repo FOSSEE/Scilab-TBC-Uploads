@@ -1,0 +1,3 @@
+
+4.(b) shunt resistance for 1 A FSD is 0.100010 ohm
+(a) shunt resistance for 100 mA FSD is 1.001001 ohm

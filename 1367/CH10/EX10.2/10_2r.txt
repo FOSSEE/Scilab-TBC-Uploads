@@ -1,0 +1,15 @@
+Density of eutectic composition at point D (in kg/m3) =    
+ 
+    8381.559  
+ 
+ Total weight of lead (in kgf) =    
+ 
+    2829.0733  
+ 
+ Total weight of tin (in kgf) =    
+ 
+    5422.6986  
+ 
+ % of Sn =    
+ 
+    65.715566  

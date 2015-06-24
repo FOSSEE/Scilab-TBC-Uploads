@@ -1,0 +1,129 @@
+9#OPTICAL FIBER SYSTEM  II#9.7#cavity gain#Ex_9_7.sce#2183/CH9/EX9.7/Ex_9_7.sce#S##78444
+9#OPTICAL FIBER SYSTEM  II#9.6#refractive index and bandwidth#Ex_9_6.sce#2183/CH9/EX9.6/Ex_9_6.sce#S##78443
+9#OPTICAL FIBER SYSTEM  II#9.5.b#repeater spacing#Ex_9_5_b.sce#2183/CH9/EX9.5.b/Ex_9_5_b.sce#S##78442
+9#OPTICAL FIBER SYSTEM  II#9.5.a#repeater spacing#Ex_9_5_a.sce#2183/CH9/EX9.5.a/Ex_9_5_a.sce#S##78441
+9#OPTICAL FIBER SYSTEM  II#9.4#incoming power level#Ex_9_4.sce#2183/CH9/EX9.4/Ex_9_4.sce#S##78440
+9#OPTICAL FIBER SYSTEM  II#9.3#number of recieved photons#Ex_9_3.sce#2183/CH9/EX9.3/Ex_9_3.sce#S##78439
+9#OPTICAL FIBER SYSTEM  II#9.2#bandwidth#Ex_9_2.sce#2183/CH9/EX9.2/Ex_9_2.sce#S##78438
+9#OPTICAL FIBER SYSTEM  II#9.1#temperture#Ex_9_1.sce#2183/CH9/EX9.1/Ex_9_1.sce#S##78437
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.9.c#link length#Ex_8_9_c.sce#2183/CH8/EX8.9.c/Ex_8_9_c.sce#S##78426
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.9.b#link length#Ex_8_9_b.sce#2183/CH8/EX8.9.b/Ex_8_9_b.sce#S##78425
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.9.a#lonk length#Ex_8_9_a.sce#2183/CH8/EX8.9.a/Ex_8_9_a.sce#S##78424
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.8#bit rate#Ex_8_8.sce#2183/CH8/EX8.8/Ex_8_8.sce#S##84711
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.7.b#dispersion equalization penalty#Ex_8_7_b.sce#2183/CH8/EX8.7.b/Ex_8_7_b.sce#S##78422
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.7.a#dispersion equalization penalty#Ex_8_7_a.sce#2183/CH8/EX8.7.a/Ex_8_7_a.sce#S##78421
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.6#channel loss#Ex_8_6.sce#2183/CH8/EX8.6/Ex_8_6.sce#S##78420
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.5#incident optical power#Ex_8_5.sce#2183/CH8/EX8.5/Ex_8_5.sce#S##78419
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.4#average number of photons#Ex_8_4.sce#2183/CH8/EX8.4/Ex_8_4.sce#S##78418
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.3.c#duration of a frame and multiframe#Ex_8_3_c.sce#2183/CH8/EX8.3.c/Ex_8_3_c.sce#S##78417
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.3.b#duration of time slot#Ex_8_3_b.sce#2183/CH8/EX8.3.b/Ex_8_3_b.sce#S##78416
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.3.a#bit rate for the system#Ex_8_3_a.sce#2183/CH8/EX8.3.a/Ex_8_3_a.sce#S##78415
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.20#length#Ex_8_20.sce#2183/CH8/EX8.20/Ex_8_20.sce#S##78436
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.2.b#incident power#Ex_8_2_b.sce#2183/CH8/EX8.2.b/Ex_8_2_b.sce#S##78414
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.2.a#quantum limit #Ex_8_2_a.sce#2183/CH8/EX8.2.a/Ex_8_2_a.sce#S##78413
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.19#loss for star and bus distribution system#ex_8_19.sce#2183/CH8/EX8.19/ex_8_19.sce#S##86678
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.18#bandwidth and SNR#Ex_8_18.sce#2183/CH8/EX8.18/Ex_8_18.sce#S##78435
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.17#ration of SNR#Ex_8_17.sce#2183/CH8/EX8.17/Ex_8_17.sce#S##78434
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.16.b#improvement in SNR and bandwidth#Ex_8_16_b.sce#2183/CH8/EX8.16.b/Ex_8_16_b.sce#S##78433
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.15#time#Ex_8_15.sce#2183/CH8/EX8.15/Ex_8_15.sce#S##78432
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.14.b#link length#Ex_8_14_b.sce#2183/CH8/EX8.14.b/Ex_8_14_b.sce#S##78431
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.14.a#optical power budget#Ex_8_14_a.sce#2183/CH8/EX8.14.a/Ex_8_14_a.sce#S##78430
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.13#average incident power#Ex_8_13.sce#2183/CH8/EX8.13/Ex_8_13.sce#S##78429
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.12#average incident power#Ex_8_12.sce#2183/CH8/EX8.12/Ex_8_12.sce#S##78428
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.10#optical power budget#Ex_8_10.sce#2183/CH8/EX8.10/Ex_8_10.sce#S##78427
+8#OPTICAL FIBER COMMUNICATION SYSTEM#8.1#compare shot noise and thermal noise current#Ex_8_1.sce#2183/CH8/EX8.1/Ex_8_1.sce#S##84710
+7#OPTICAL DETECTORS#7.9#NEP and specific detectivity#Ex_7_9.sce#2183/CH7/EX7.9/Ex_7_9.sce#S##78406
+7#OPTICAL DETECTORS#7.8#response time#Ex_7_8.sce#2183/CH7/EX7.8/Ex_7_8.sce#S##78405
+7#OPTICAL DETECTORS#7.7#width#Ex_7_7.sce#2183/CH7/EX7.7/Ex_7_7.sce#S##78404
+7#OPTICAL DETECTORS#7.6#responsivity#Ex_7_6.sce#2183/CH7/EX7.6/Ex_7_6.sce#S##78403
+7#OPTICAL DETECTORS#7.5.a#photocurrent#Ex_7_5_a.sce#2183/CH7/EX7.5.a/Ex_7_5_a.sce#S##78402
+7#OPTICAL DETECTORS#7.4#responsivity#Ex_7_4.sce#2183/CH7/EX7.4/Ex_7_4.sce#S##84709
+7#OPTICAL DETECTORS#7.3#wavelength and optical power#Ex_7_3.sce#2183/CH7/EX7.3/Ex_7_3.sce#S##78400
+7#OPTICAL DETECTORS#7.2#quantum efficiency and responsivity#Ex_7_2.sce#2183/CH7/EX7.2/Ex_7_2.sce#S##84708
+7#OPTICAL DETECTORS#7.14#SNR#Ex_7_14.sce#2183/CH7/EX7.14/Ex_7_14.sce#S##78411
+7#OPTICAL DETECTORS#7.13#maximum 3 dB bandwidth#Ex_7_13.sce#2183/CH7/EX7.13/Ex_7_13.sce#S##78410
+7#OPTICAL DETECTORS#7.12#optical gain and hfe#Ex_7_12.sce#2183/CH7/EX7.12/Ex_7_12.sce#S##78409
+7#OPTICAL DETECTORS#7.11#multiplication factor#Ex_7_11.sce#2183/CH7/EX7.11/Ex_7_11.sce#S##78408
+7#OPTICAL DETECTORS#7.10#bandwidth#Ex_7_10.sce#2183/CH7/EX7.10/Ex_7_10.sce#S##78407
+7#OPTICAL DETECTORS#7.1#cut off wavelength#Ex_7_1.sce#2183/CH7/EX7.1/Ex_7_1.sce#S##78397
+6# OPTICAL SOURCES LEDs#6.9#operating lifetime#Ex_6_9.sce#2183/CH6/EX6.9/Ex_6_9.sce#S##78390
+6# OPTICAL SOURCES LEDs#6.8#optical power and optical bandwidth#Ex_6_8.sce#2183/CH6/EX6.8/Ex_6_8.sce#S##78389
+6# OPTICAL SOURCES LEDs#6.7#compare electrical and optical bandwidth#ex_6_7.sce#2183/CH6/EX6.7/ex_6_7.sce#S##86667
+6# OPTICAL SOURCES LEDs#6.6#overall power conversion efficiency#Ex_6_6.sce#2183/CH6/EX6.6/Ex_6_6.sce#S##84707
+6# OPTICAL SOURCES LEDs#6.5#optical power#Ex_6_5.sce#2183/CH6/EX6.5/Ex_6_5.sce#S##78387
+6# OPTICAL SOURCES LEDs#6.4.c#loss#Ex_6_4_c.sce#2183/CH6/EX6.4.c/Ex_6_4_c.sce#S##78386
+6# OPTICAL SOURCES LEDs#6.4.b#optical loss#Ex_6_4_b.sce#2183/CH6/EX6.4.b/Ex_6_4_b.sce#S##78385
+6# OPTICAL SOURCES LEDs#6.4.a#coupling efficiency#Ex_6_4_a.sce#2183/CH6/EX6.4.a/Ex_6_4_a.sce#S##78384
+6# OPTICAL SOURCES LEDs#6.3.b#external efficiency#Ex_6_3_b.sce#2183/CH6/EX6.3.b/Ex_6_3_b.sce#S##78383
+6# OPTICAL SOURCES LEDs#6.3.a#optical power#Ex_6_3_a.sce#2183/CH6/EX6.3.a/Ex_6_3_a.sce#S##78382
+6# OPTICAL SOURCES LEDs#6.2#total carrier recombination lifetime and power#Ex_6_2.sce#2183/CH6/EX6.2/Ex_6_2.sce#S##78381
+6# OPTICAL SOURCES LEDs#6.15#power coupled#Ex_6_15.sce#2183/CH6/EX6.15/Ex_6_15.sce#S##78396
+6# OPTICAL SOURCES LEDs#6.14#coupling efficiency#Ex_6_14.sce#2183/CH6/EX6.14/Ex_6_14.sce#S##78395
+6# OPTICAL SOURCES LEDs#6.13#coupling efficiency#Ex_6_13.sce#2183/CH6/EX6.13/Ex_6_13.sce#S##78394
+6# OPTICAL SOURCES LEDs#6.12#bandwidth#Ex_6_12.sce#2183/CH6/EX6.12/Ex_6_12.sce#S##78393
+6# OPTICAL SOURCES LEDs#6.11#power coupled#Ex_6_11.sce#2183/CH6/EX6.11/Ex_6_11.sce#S##78392
+6# OPTICAL SOURCES LEDs#6.10#power coupled#Ex_6_10.sce#2183/CH6/EX6.10/Ex_6_10.sce#S##78391
+6# OPTICAL SOURCES LEDs#6.1#internal quantum efficiency#Ex_6_1.sce#2183/CH6/EX6.1/Ex_6_1.sce#S##78380
+5#OPTICAL SOURCES LASER#5.7.b#rms noise current#Ex_5_7_b.sce#2183/CH5/EX5.7.b/Ex_5_7_b.sce#S##78379
+5#OPTICAL SOURCES LASER#5.7.a#rms value of power fluctuation#Ex_5_7_a.sce#2183/CH5/EX5.7.a/Ex_5_7_a.sce#S##78378
+5#OPTICAL SOURCES LASER#5.6#compare ratio of threshold current densities#Ex_5_6.sce#2183/CH5/EX5.6/Ex_5_6.sce#S##78377
+5#OPTICAL SOURCES LASER#5.5#external power efficiency#Ex_5_5.sce#2183/CH5/EX5.5/Ex_5_5.sce#S##78376
+5#OPTICAL SOURCES LASER#5.4#slope efficiency#Ex_5_4.sce#2183/CH5/EX5.4/Ex_5_4.sce#S##78375
+5#OPTICAL SOURCES LASER#5.3#threshold current density#Ex_5_3.sce#2183/CH5/EX5.3/Ex_5_3.sce#S##84706
+5#OPTICAL SOURCES LASER#5.2#radiative minority carrier lifetimes#Ex_5_2.sce#2183/CH5/EX5.2/Ex_5_2.sce#S##78373
+5#OPTICAL SOURCES LASER#5.1#number of longitudinal modes and their frequency separation#Ex_5_1.sce#2183/CH5/EX5.1/Ex_5_1.sce#S##78372
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.9.d#bandwidth length product#Ex_4_9_d.sce#2183/CH4/EX4.9.d/Ex_4_9_d.sce#S##78363
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.9.c#bit rate#Ex_4_9_c.sce#2183/CH4/EX4.9.c/Ex_4_9_c.sce#S##78362
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.9.b#rms pulse broadning#Ex_4_9_b.sce#2183/CH4/EX4.9.b/Ex_4_9_b.sce#S##78361
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.9.a#delay difference#Ex_4_9_a.sce#2183/CH4/EX4.9.a/Ex_4_9_a.sce#S##78360
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.8#pulse spreading#Ex_4_8.sce#2183/CH4/EX4.8/Ex_4_8.sce#S##83501
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.7#rms pulse broadning #Ex_4_7.sce#2183/CH4/EX4.7/Ex_4_7.sce#S##78358
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.6#material dispersion parameter and pulse broadning#Ex_4_6.sce#2183/CH4/EX4.6/Ex_4_6.sce#S##78357
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.5.c#bandwidth length product#Ex_4_5_c.sce#2183/CH4/EX4.5.c/Ex_4_5_c.sce#S##78356
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.5.b#pulse dispersion #Ex_4_5_b.sce#2183/CH4/EX4.5.b/Ex_4_5_b.sce#S##78355
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.5.a#bandwidth#Ex_4_5_a.sce#2183/CH4/EX4.5.a/Ex_4_5_a.sce#S##78354
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.4.b#critical radius#Ex_4_4_b.sce#2183/CH4/EX4.4.b/Ex_4_4_b.sce#S##78353
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.4.a#critical radius#Ex_4_4_a.sce#2183/CH4/EX4.4.a/Ex_4_4_a.sce#S##78352
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.3#threshold stimulated Brillouin and Raman scattering powers#Ex_4_3.sce#2183/CH4/EX4.3/Ex_4_3.sce#S##83500
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.2#attenuation#Ex_4_2.sce#2183/CH4/EX4.2/Ex_4_2.sce#S##78350
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.16#bit rate#Ex_4_16.sce#2183/CH4/EX4.16/Ex_4_16.sce#S##78371
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.15#modal birefringence cohrence length and propogation difference#Ex_4_15.sce#2183/CH4/EX4.15/Ex_4_15.sce#S##83507
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.14#modal birefringence#Ex_4_14.sce#2183/CH4/EX4.14/Ex_4_14.sce#S##78369
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.13#bit rate#Ex_4_13.sce#2183/CH4/EX4.13/Ex_4_13.sce#S##78368
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.12#bit rate#Ex_4_12.sce#2183/CH4/EX4.12/Ex_4_12.sce#S##78367
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.11#compare first order dispersion#Ex_4_11.sce#2183/CH4/EX4.11/Ex_4_11.sce#S##78366
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.10.b#bandwidth length product#Ex_4_10_b.sce#2183/CH4/EX4.10.b/Ex_4_10_b.sce#S##83504
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.10.a#rms pulse broadning#Ex_4_10_a.sce#2183/CH4/EX4.10.a/Ex_4_10_a.sce#S##78364
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.1.d#ratio of input power to output power#Ex_4_1_d.sce#2183/CH4/EX4.1.d/Ex_4_1_d.sce#S##78349
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.1.c#overall signal attenuation#Ex_4_1_c.sce#2183/CH4/EX4.1.c/Ex_4_1_c.sce#S##83498
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.1.b#signal attenuation per km#Ex_4_1_b.sce#2183/CH4/EX4.1.b/Ex_4_1_b.sce#S##78347
+4#TRANSMISSION CHARACTERSTICS OF OPTICAL FIBERS#4.1.a#overall signal attenuation#Ex_4_1_a.sce#2183/CH4/EX4.1.a/Ex_4_1_a.sce#S##78346
+3#OPTICAL FIBER FABRICATION#3.9#total loss and average insertion loss#Ex_3_9.sce#2183/CH3/EX3.9/Ex_3_9.sce#S##78345
+3#OPTICAL FIBER FABRICATION#3.8#excess loss insertion loss cross talk and split ratio#Ex_3_8.sce#2183/CH3/EX3.8/Ex_3_8.sce#S##78344
+3#OPTICAL FIBER FABRICATION#3.7#loss#Ex_3_7.sce#2183/CH3/EX3.7/Ex_3_7.sce#S##78343
+3#OPTICAL FIBER FABRICATION#3.6#total insertion loss#Ex_3_6.sce#2183/CH3/EX3.6/Ex_3_6.sce#S##78342
+3#OPTICAL FIBER FABRICATION#3.5#insertion loss#Ex_3_5.sce#2183/CH3/EX3.5/Ex_3_5.sce#S##78341
+3#OPTICAL FIBER FABRICATION#3.4.b#insertion loss#Ex_3_4_b.sce#2183/CH3/EX3.4.b/Ex_3_4_b.sce#S##78340
+3#OPTICAL FIBER FABRICATION#3.4.a#insertion loss#Ex_3_4_a.sce#2183/CH3/EX3.4.a/Ex_3_4_a.sce#S##78339
+3#OPTICAL FIBER FABRICATION#3.3.b#insertion loss and lateral misalignment#ex_3_3_b.sce#2183/CH3/EX3.3.b/ex_3_3_b.sce#S##78338
+3#OPTICAL FIBER FABRICATION#3.3.a#insertion loss and lateral misalignment#Ex_3_3_a.sce#2183/CH3/EX3.3.a/Ex_3_3_a.sce#S##78337
+3#OPTICAL FIBER FABRICATION#3.2#loss#Ex_3_2.sce#2183/CH3/EX3.2/Ex_3_2.sce#S##78336
+3#OPTICAL FIBER FABRICATION#3.1.b#percentage strain#Ex_3_1_b.sce#2183/CH3/EX3.1.b/Ex_3_1_b.sce#S##78335
+3#OPTICAL FIBER FABRICATION#3.1.a#fracture stress#Ex_3_1_a.sce#2183/CH3/EX3.1.a/Ex_3_1_a.sce#S##78334
+2#OPTICAL FIBER#2.9#radius#EX_2_9.sce#2183/CH2/EX2.9/EX_2_9.sce#S##78327
+2#OPTICAL FIBER#2.8#normalised frequency and number of modes#EX_2_8.sce#2183/CH2/EX2.8/EX_2_8.sce#S##78326
+2#OPTICAL FIBER#2.7#number of modes#EX_2_7.sce#2183/CH2/EX2.7/EX_2_7.sce#S##78325
+2#OPTICAL FIBER#2.6#compare acceptance angle#EX_2_6.sce#2183/CH2/EX2.6/EX_2_6.sce#S##78324
+2#OPTICAL FIBER#2.5#refrative index#EX_2_5.sce#2183/CH2/EX2.5/EX_2_5.sce#S##78323
+2#OPTICAL FIBER#2.4#critical angle#EX_2_4.sce#2183/CH2/EX2.4/EX_2_4.sce#S##78322
+2#OPTICAL FIBER#2.3#NA solid acceptance angle and critical angle#EX_2_3.sce#2183/CH2/EX2.3/EX_2_3.sce#S##78321
+2#OPTICAL FIBER#2.2.c#acceptance angle#EX_2_2_c.sce#2183/CH2/EX2.2.c/EX_2_2_c.sce#S##78320
+2#OPTICAL FIBER#2.2.b#NA#EX_2_2_b.sce#2183/CH2/EX2.2.b/EX_2_2_b.sce#S##78319
+2#OPTICAL FIBER#2.2.a#critical angle#EX_2_2_a.sce#2183/CH2/EX2.2.a/EX_2_2_a.sce#S##78318
+2#OPTICAL FIBER#2.16#ESI refractive index difference#EX_2_16.sce#2183/CH2/EX2.16/EX_2_16.sce#S##78333
+2#OPTICAL FIBER#2.15#core diameter#EX_2_15.sce#2183/CH2/EX2.15/EX_2_15.sce#S##78332
+2#OPTICAL FIBER#2.13#cut off wavelength#EX_2_13.sce#2183/CH2/EX2.13/EX_2_13.sce#S##95141
+2#OPTICAL FIBER#2.12#core diameter#EX_2_12.sce#2183/CH2/EX2.12/EX_2_12.sce#S##78330
+2#OPTICAL FIBER#2.11#core diameter#EX_2_11.sce#2183/CH2/EX2.11/EX_2_11.sce#S##78329
+2#OPTICAL FIBER#2.10#number of modes#EX_2_10.sce#2183/CH2/EX2.10/EX_2_10.sce#S##78328
+2#OPTICAL FIBER#2.1#critical angle#EX_2_1.sce#2183/CH2/EX2.1/EX_2_1.sce#S##78317

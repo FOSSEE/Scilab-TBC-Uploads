@@ -1,0 +1,12 @@
+(a)Power alternator can supply(in KW)=   
+ 
+    125.  
+ 
+ (b)Power factor of synchronous motor=   
+ 
+    0.3162278  
+ 
+ (c)Load taken by motor(in Kw)=   
+ 
+    112.5  
+ 

@@ -1,0 +1,1 @@
+﻿ No. of zone of Fresnel = 2500.000000

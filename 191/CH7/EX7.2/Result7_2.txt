@@ -1,0 +1,60 @@
+  
+ The Y0 :   
+ 
+    0.95  
+ 
+ The Y1 :   
+ 
+    0.95351  
+ 
+ The Y2 :   
+ 
+    0.95335  
+ 
+ The Y0 :   
+ 
+    0.91007  
+ 
+ The Y1 :   
+ 
+    0.91289  
+ 
+ The Y2 :   
+ 
+    0.91277  
+ 
+ The Y0 :   
+ 
+    0.87490  
+ 
+ The Y1 :   
+ 
+    0.87720  
+ 
+ The Y2 :   
+ 
+    0.87711  
+ 
+ The Y0 :   
+ 
+    0.84366  
+ 
+ The Y1 :   
+ 
+    0.84556  
+ 
+ The Y2 :   
+ 
+    0.84549  
+ 
+ The calculated value of y(0.2):   
+ 
+    0.84549  
+ 
+ The exact value is of y(0.2):    
+ 
+    0.84579  
+ 
+ The error is :   
+ 
+    0.00030  

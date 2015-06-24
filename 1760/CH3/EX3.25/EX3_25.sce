@@ -1,0 +1,21 @@
+                    //EXAMPLE 3-25           PG NO-189
+Vac=240+%i*0;
+Vcb=-120-%i*207.84;
+Vba=-120+%i*207.84;
+Zac=20+%i*0;
+Zcb=12.99+%i*7.5;
+Zba=0+%i*25;
+Iac=Vac/Zac;
+disp('i) CURRENT  (Iac) is  in rectangular form  =  '+string (Iac) +' A ');
+Icb=Vcb/Zcb;
+disp('i) CURRENT  (Icb) is  in rectangular form  =  '+string (Icb) +' A ');
+Iba=Vba/Zba;
+disp('i) CURRENT  (Iba) is  in rectangular form  =  '+string (Iba) +' A ');
+Ia=Iac-Iba;
+disp('i) CURRENT  (Ia) is  in rectangular form  =  '+string (Ia) +' A ');
+Ib=Iba-Icb;
+disp('i) CURRENT  (Ib) is  in rectangular form  =  '+string (Ib) +' A ');
+Ic=Icb-Iac;
+disp('i) CURRENT  (Ic) is  in rectangular form  =  '+string (Ic) +' A ');
+P=(240*12)+(240*16*0.866)+(240*9.6*0);
+disp('iv)  Power (P) is     =  '+string (P) +'  W ');

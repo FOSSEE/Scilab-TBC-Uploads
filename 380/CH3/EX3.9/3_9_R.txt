@@ -1,0 +1,4 @@
+  
+ restraining force of the spring(in Newton)=   
+ 
+    350.6901  

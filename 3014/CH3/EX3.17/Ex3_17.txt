@@ -1,0 +1,4 @@
+
+Example 3.17
+ Scattered wavelength is 2.024286 angstrom.
+ Energy of recoiled electron is 74.569954eV. 

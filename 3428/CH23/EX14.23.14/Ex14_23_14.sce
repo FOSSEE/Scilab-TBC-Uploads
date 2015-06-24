@@ -1,0 +1,27 @@
+//Section-14,Example-2,Page no.-PC.107
+//To find which one of the following is strongest and which one is the weakest acid.
+clc;
+K_11=1.8*10^-4         //HCOOH(K_a)
+P_11=-log10(K_11)
+K_12=6.5*10^-5         //C_6H_5COOH(K_a)
+P_12=-log10(K_12)
+K_13=1.8*10^-5         //CH_3COOH(K_a)
+P_13=-log10(K_13)
+//Strong acid HCOOH (least p_Ka)and weak acid CH3COOH(highest p_Ka)
+K_21=3.0*10^-8             //HClO(K_a)
+P_21=-log10(K_21)
+K_22=2.0*10^-9             //HBrO(K_a)
+P_22=-log10(K_22)
+K_23=2.3*10^-11             //HIO(K_a)
+P_23=-log10(K_23)
+//Strong acid HClO(least p_Ka)and weak acid HIO(highest p_Ka)
+K_31=4.3*10^-7                //H2CO3(K_a)
+P_31=-log10(K_31)
+K_32=7.2*10^-10                 //B(OH)3
+P_32=-log10(K_32)
+//Strong acid H2CO3(least p_Ka)and weak acid B(OH)3(highest p_Ka)
+K_41=3.5*10^-4         //HF(K_a)
+P_41=-log10(K_41)
+K_42=4.9*10^-10         //HCN(K_a)
+P_42=-log10(K_42)
+//Strong acid HF(least p_Ka)and weak acid HCN(highest p_Ka)

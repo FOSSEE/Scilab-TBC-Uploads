@@ -1,0 +1,15 @@
+clc;
+Vs=200;
+Imax=700*10**-3;
+Iavg=250*10**-3;
+Imax=0.8*Imax;
+disp('mA',Imax*10**3,"Imax=");
+Vm=sqrt(2)*Vs;
+RL=Vm/Imax;
+disp('ohm',RL*1,"RL=");
+Vdc=2*Vm/%pi;
+disp('V',Vdc*1,"Vdc=");
+Idc=Vdc/RL;
+disp('A',Idc*1,"Idc=");
+PIV=2*Vm;
+disp(PIV);

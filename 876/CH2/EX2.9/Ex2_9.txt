@@ -1,0 +1,8 @@
+limiting error when measured voltage is V1(in %)=   
+ 
+    2.  
+ 
+ limiting error when measured voltage is V2(in %)=   
+ 
+    4.  
+ 

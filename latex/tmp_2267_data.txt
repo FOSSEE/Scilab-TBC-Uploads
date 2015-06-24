@@ -1,0 +1,81 @@
+12#Torsion#4.9#Strength and weight ratio#Ex12_9.sce#2267/CH12/EX4.9/Ex12_9.sce#S##108808
+12#Torsion#4.8#Maximum torque and total rotation#Ex12_8.sce#2267/CH12/EX4.8/Ex12_8.sce#S##108807
+12#Torsion#4.7#Diameter of shaft#Ex12_7.sce#2267/CH12/EX4.7/Ex12_7.sce#S##108806
+12#Torsion#4.6#Diameter of shaft#Ex12_6.sce#2267/CH12/EX4.6/Ex12_6.sce#S##108805
+12#Torsion#4.5#Poisson Ratio and value of E G and K#Ex12_5.sce#2267/CH12/EX4.5/Ex12_5.sce#S##108804
+12#Torsion#4.4#Shear stress and twist angle#Ex12_4.sce#2267/CH12/EX4.4/Ex12_4.sce#S##108803
+12#Torsion#4.3#Internal diameter and bolt diameter#Ex12_3.sce#2267/CH12/EX4.3/Ex12_3.sce#S##108802
+12#Torsion#4.20#Max shear stress#Ex12_20.sce#2267/CH12/EX4.20/Ex12_20.sce#S##108795
+12#Torsion#4.2#Power and angle of twist#Ex12_2.sce#2267/CH12/EX4.2/Ex12_2.sce#S##108794
+12#Torsion#4.19#Diameter of hollow shaft#Ex12_19.sce#2267/CH12/EX4.19/Ex12_19.sce#S##108796
+12#Torsion#4.18#Find maximum torque#Ex12_18.sce#2267/CH12/EX4.18/Ex12_18.sce#S##108797
+12#Torsion#4.17#Fnd torque required#Ex12_17.sce#2267/CH12/EX4.17/Ex12_17.sce#S##108798
+12#Torsion#4.16#Estimate angular twist#Ex12_16.sce#2267/CH12/EX4.16/Ex12_16.sce#S##108799
+12#Torsion#4.15#Max bending and shear stress#Ex12_15.sce#2267/CH12/EX4.15/Ex12_15.sce#S##108800
+12#Torsion#4.14#Safe diameter of shaft#Ex12_14.sce#2267/CH12/EX4.14/Ex12_14.sce#S##108801
+12#Torsion#4.13#Max Power#Ex12_13.sce#2267/CH12/EX4.13/Ex12_13.sce#S##108812
+12#Torsion#4.12#Diameter of bolt#Ex12_12.sce#2267/CH12/EX4.12/Ex12_12.sce#S##108811
+12#Torsion#4.11#Find shear stress#Ex12_11.sce#2267/CH12/EX4.11/Ex12_11.sce#S##108810
+12#Torsion#4.10#Shear stress and angle of twist#Ex12_10.sce#2267/CH12/EX4.10/Ex12_10.sce#S##108809
+12#Torsion#4.1#Angle of twist and shear#Ex12_1.sce#2267/CH12/EX4.1/Ex12_1.sce#S##108793
+11#Bending stresses and strains#3.5#Centroid of built up section#Ex11_5.sce#2267/CH11/EX3.5/Ex11_5.sce#S##108792
+11#Bending stresses and strains#3.4#Location of centroid#Ex11_4.sce#2267/CH11/EX3.4/Ex11_4.sce#S##108791
+11#Bending stresses and strains#3.3#Centroid of area#Ex11_3.sce#2267/CH11/EX3.3/Ex11_3.sce#S##108790
+11#Bending stresses and strains#3.2#Centroid of angle section#Ex11_2.sce#2267/CH11/EX3.2/Ex11_2.sce#S##108789
+11#Bending stresses and strains#3.1#CG of T section#Ex11_1.sce#2267/CH11/EX3.1/Ex11_1.sce#S##108788
+10#Compound stresses and strains#2.9#Find resultant stress#Ex10_9.sce#2267/CH10/EX2.9/Ex10_9.sce#S##108783
+10#Compound stresses and strains#2.8#Principles stress and shear stress#Ex10_8.sce#2267/CH10/EX2.8/Ex10_8.sce#S##108782
+10#Compound stresses and strains#2.7#Minimum principle stress#Ex10_7.sce#2267/CH10/EX2.7/Ex10_7.sce#S##108781
+10#Compound stresses and strains#2.5#Value of shear stress#Ex10_5.sce#2267/CH10/EX2.5/Ex10_5.sce#S##108780
+10#Compound stresses and strains#2.4#Value of shear stress#Ex10_4.sce#2267/CH10/EX2.4/Ex10_4.sce#S##108779
+10#Compound stresses and strains#2.3#Principle stresses and max shear stress#Ex10_3.sce#2267/CH10/EX2.3/Ex10_3.sce#S##108778
+10#Compound stresses and strains#2.2#Find the stresses#Ex10_2.sce#2267/CH10/EX2.2/Ex10_2.sce#S##108777
+10#Compound stresses and strains#2.13#Find sigma and angle fi#Ex10_13.sce#2267/CH10/EX2.13/Ex10_13.sce#S##108787
+10#Compound stresses and strains#2.12#Find sigma and angle fi#Ex10_12.sce#2267/CH10/EX2.12/Ex10_12.sce#S##108786
+10#Compound stresses and strains#2.11#Find sigma and angle fi#Ex10_11.sce#2267/CH10/EX2.11/Ex10_11.sce#S##108785
+10#Compound stresses and strains#2.10#Find sigma and angle of obliquity#Ex10_10.sce#2267/CH10/EX2.10/Ex10_10.sce#S##108784
+10#Compound stresses and strains#2.1#Maximum shear stress#Ex10_1.sce#2267/CH10/EX2.1/Ex10_1.sce#S##108776
+7#Thermodynamic properties of pure substance#7.9#Determine pressure and temperature#ex7_9.sce#2267/CH7/EX7.9/ex7_9.sce#S##85488
+7#Thermodynamic properties of pure substance#7.8#Heat added#ex7_8.sce#2267/CH7/EX7.8/ex7_8.sce#S##85487
+7#Thermodynamic properties of pure substance#7.7#Enthalpy Entropy and specific volume#ex7_7.sce#2267/CH7/EX7.7/ex7_7.sce#S##85486
+7#Thermodynamic properties of pure substance#7.6#Slope of an isobar#ex7_6.sce#2267/CH7/EX7.6/ex7_6.sce#S##85485
+7#Thermodynamic properties of pure substance#7.5#Mass and volume of water#ex7_5.sce#2267/CH7/EX7.5/ex7_5.sce#S##85484
+7#Thermodynamic properties of pure substance#7.4#Boiling tempertaure#ex7_4.sce#2267/CH7/EX7.4/ex7_4.sce#S##85483
+7#Thermodynamic properties of pure substance#7.3#Internal energy of steam#ex7_3.sce#2267/CH7/EX7.3/ex7_3.sce#S##85482
+7#Thermodynamic properties of pure substance#7.2#Dryness fraction of steam#ex7_2.sce#2267/CH7/EX7.2/ex7_2.sce#S##85481
+7#Thermodynamic properties of pure substance#7.16#Dryness fraction#ex7_16.sce#2267/CH7/EX7.16/ex7_16.sce#S##85496
+7#Thermodynamic properties of pure substance#7.15#Dryness fraction and workdone#ex7_15.sce#2267/CH7/EX7.15/ex7_15.sce#S##85495
+7#Thermodynamic properties of pure substance#7.14#State of steam#ex7_14.sce#2267/CH7/EX7.14/ex7_14.sce#S##85494
+7#Thermodynamic properties of pure substance#7.13#Mass of dry saturated steam#ex7_13.sce#2267/CH7/EX7.13/ex7_13.sce#S##85492
+7#Thermodynamic properties of pure substance#7.12#Determine work output#ex7_12.sce#2267/CH7/EX7.12/ex7_12.sce#S##85493
+7#Thermodynamic properties of pure substance#7.11#Quality of water vapour mixture#ex7_11.sce#2267/CH7/EX7.11/ex7_11.sce#S##85490
+7#Thermodynamic properties of pure substance#7.10#Change in enthalpy#ex7_10.sce#2267/CH7/EX7.10/ex7_10.sce#S##85489
+6#Entropy#6.9#Estomate maximum work#ex6_9.sce#2267/CH6/EX6.9/ex6_9.sce#S##85478
+6#Entropy#6.8#Rate of power loss#ex6_8.sce#2267/CH6/EX6.8/ex6_8.sce#S##85477
+6#Entropy#6.6#Entropy change of universe#ex6_6.sce#2267/CH6/EX6.6/ex6_6.sce#S##85476
+6#Entropy#6.5#Change in entropy of universe#ex6_5.sce#2267/CH6/EX6.5/ex6_5.sce#S##85475
+6#Entropy#6.4#Change in entropy of universe#ex6_4.sce#2267/CH6/EX6.4/ex6_4.sce#S##85474
+6#Entropy#6.3#Change in entropy of gas#ex6_3.sce#2267/CH6/EX6.3/ex6_3.sce#S##85473
+6#Entropy#6.2#Change in entropy of steam#ex6_2.sce#2267/CH6/EX6.2/ex6_2.sce#S##85472
+6#Entropy#6.11#Determine entropy change#ex6_11.sce#2267/CH6/EX6.11/ex6_11.sce#S##85480
+6#Entropy#6.10#Change in enthalpy and entropy#ex6_10.sce#2267/CH6/EX6.10/ex6_10.sce#S##85479
+6#Entropy#6.1#Change in entropy#ex6_1.sce#2267/CH6/EX6.1/ex6_1.sce#S##85471
+5#Second law of thermodynamics#5.6#Power required#ex5_6.sce#2267/CH5/EX5.6/ex5_6.sce#S##85470
+5#Second law of thermodynamics#5.5#Estimate minimum power#ex5_5.sce#2267/CH5/EX5.5/ex5_5.sce#S##85469
+5#Second law of thermodynamics#5.4#Heat transfered to refrigerant#ex5_4.sce#2267/CH5/EX5.4/ex5_4.sce#S##85468
+5#Second law of thermodynamics#5.3#Power required#ex5_3.sce#2267/CH5/EX5.3/ex5_3.sce#S##85467
+5#Second law of thermodynamics#5.2#Determine heat supplied#ex5_2.sce#2267/CH5/EX5.2/ex5_2.sce#S##85466
+4#Torsion#4.7#Heat transfer and direction#ex4_7.sce#2267/CH4/EX4.7/ex4_7.sce#S##85465
+4#Torsion#4.6#Heat Work and change in energy#ex4_6.sce#2267/CH4/EX4.6/ex4_6.sce#S##85464
+4#Torsion#4.5#Heat and wok intraction#ex4_5.sce#2267/CH4/EX4.5/ex4_5.sce#S##85463
+4#Torsion#4.4#Work done by the air#ex4_4.sce#2267/CH4/EX4.4/ex4_4.sce#S##85462
+4#Torsion#4.3#Rate of heat removal#Ex4_3.sce#2267/CH4/EX4.3/Ex4_3.sce#S##103505
+4#Torsion#4.2#Amount of heat required#Ex4_2.sce#2267/CH4/EX4.2/Ex4_2.sce#S##103504
+4#Torsion#4.1#Work done by or on the system#Ex4_1.sce#2267/CH4/EX4.1/Ex4_1.sce#S##103503
+3#Zeroth law of thermodynamics#3.3#Temperature shown by thermometer#Ex3_3.sce#2267/CH3/EX3.3/Ex3_3.sce#S##103502
+3#Zeroth law of thermodynamics#3.2#Determine Celsius temperature#Ex3_2.sce#2267/CH3/EX3.2/Ex3_2.sce#S##103501
+3#Zeroth law of thermodynamics#3.1#Determine human body temperature#Ex3_1.sce#2267/CH3/EX3.1/Ex3_1.sce#S##103500
+2#Ideal and real gases#2.1#Determine molecular weight of gas#Ex2_1.sce#2267/CH2/EX2.1/Ex2_1.sce#S##103499
+1#Fundamental concepts and definitions#1.3#Actual pressure of air#Ex1_3.sce#2267/CH1/EX1.3/Ex1_3.sce#S##103498
+1#Fundamental concepts and definitions#1.2#Effort required for lifting the lid#Ex1_2.sce#2267/CH1/EX1.2/Ex1_2.sce#S##103497
+1#Fundamental concepts and definitions#1.1#Pressure Difference#Ex1_1.sce#2267/CH1/EX1.1/Ex1_1.sce#S##103496

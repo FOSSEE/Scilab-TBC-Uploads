@@ -1,0 +1,5 @@
+Value of p = 2.7600 
+
+Value of p1 = 27600.0000 
+
+Value of Ri = 13800.0000 

@@ -1,0 +1,4 @@
+ 
+ Example 2.32   
+Efficiency of the motor=90.520833percent
+Efficiency of the generator=92.059839percent 

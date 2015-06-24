@@ -1,0 +1,3 @@
+(1)r_ds when Vgs = 0 V is 100.00 ohm
+(2)r_ds when Vgs = 0 V is 133.33 ohm
+ 

@@ -1,0 +1,6 @@
+2#Operational amplifier characteristic#2.6#error voltage and output voltage#example6_sce.sce#74/CH2/EX2.6/example6_sce.sce#S##2845
+2#Operational amplifier characteristic#2.5#change in output voltage#example5_sce.sce#74/CH2/EX2.5/example5_sce.sce#S##2844
+2#Operational amplifier characteristic#2.4#Total output offset and compensating resistance#example4_sce.sce#74/CH2/EX2.4/example4_sce.sce#S##2843
+2#Operational amplifier characteristic#2.3#Compensating network#example3_sce.sce#74/CH2/EX2.3/example3_sce.sce#S##2842
+2#Operational amplifier characteristic#2.2#input bais current and input offset current#example2_sce.sce#74/CH2/EX2.2/example2_sce.sce#S##2841
+2#Operational amplifier characteristic#2.1#value of R1#example1_sce.sce#74/CH2/EX2.1/example1_sce.sce#S##2840

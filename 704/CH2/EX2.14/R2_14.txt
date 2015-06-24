@@ -1,0 +1,3 @@
+reduction in speed(in rpm)=   
+ 
+    50. 

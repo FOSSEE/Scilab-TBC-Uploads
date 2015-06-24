@@ -1,0 +1,3 @@
+(a)Av = 18.75
+(b)Zo = 5 k-ohms
+(c)Zi = 1 M-ohms 

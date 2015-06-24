@@ -1,0 +1,6 @@
+ # PROBLEM 33 # 
+ Standard formula used 
+
+ E = m*c^2 
+
+ Velocity of electron is 2.825479e+08 m/sec. 

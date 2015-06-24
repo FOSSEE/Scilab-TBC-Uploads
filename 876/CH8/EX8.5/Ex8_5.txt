@@ -1,0 +1,3 @@
+ value of current(in A)=   
+ 
+    0.01

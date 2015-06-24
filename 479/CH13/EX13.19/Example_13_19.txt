@@ -1,0 +1,4 @@
+For example 13.19, the answer given in the book in part(i), deviation as 0.91% but i am getting deviation as 0.1%.
+		   and for part(ii) i am getting heat of vapourization as 31.74 KJ/gmole and deviation as 2.94%.
+		   but in the book it is given as heat of vapourization as 32.1 KJ/gmole and deviation as 1.8%.
+		   There might be some calculation mistake in the book.

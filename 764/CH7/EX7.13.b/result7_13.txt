@@ -1,0 +1,63 @@
+-->//(Threaded Joints) Example 7.13
+ 
+-->//Refer Fig.7.28 on page 245
+ 
+-->//Maximum force in the tie rod P (kN)
+ 
+-->P = 5
+ P  =
+ 
+    5.  
+ 
+-->//Tie rod inclination with the horizontal theta (degree)
+ 
+-->theta = 30
+ theta  =
+ 
+    30.  
+ 
+-->//Number of bolts N
+ 
+-->N = 4
+ N  =
+ 
+    4.  
+ 
+-->//Tensile yield strength of 30C8 Syt (N/mm2)
+ 
+-->Syt = 400
+ Syt  =
+ 
+    400.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 5
+ fs  =
+ 
+    5.  
+ 
+-->//Distance between boltA and pt.C l1 (mm)
+ 
+-->l1 = 25
+ l1  =
+ 
+    25.  
+ 
+-->//Distance between boltB and pt.C l2 (mm)
+ 
+-->l2 = 150 + 25
+ l2  =
+ 
+    175.  
+ 
+-->//Eccentricity value e (mm)
+ 
+-->e = 50 + 25
+ e  =
+ 
+    75.  
+ 
+
+Area at the core cross-section(A) = 33.170154 mm2
+ 

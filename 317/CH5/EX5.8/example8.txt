@@ -1,0 +1,1 @@
+approximate load ripple is 63 mVolts

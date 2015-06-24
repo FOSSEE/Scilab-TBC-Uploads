@@ -1,0 +1,50 @@
+-->//(Springs) Example 10.5
+ 
+-->//Refer Fig.10.18 on page 411
+ 
+-->//Maximum weight attached to the spring balance P (N)
+ 
+-->P = 1500
+ P  =
+ 
+    1500.  
+ 
+-->//Length of the scale delta (mm)
+ 
+-->delta = 100
+ delta  =
+ 
+    100.  
+ 
+-->//Spring index C
+ 
+-->C = 6
+ C  =
+ 
+    6.  
+ 
+-->//Ultimate tensile strength of the spring material Sut (N/mm2)
+ 
+-->Sut = 1360
+ Sut  =
+ 
+    1360.  
+ 
+-->//Rigidity modulus of the material G (N/mm2)
+ 
+-->G = 81370
+ G  =
+ 
+    81370.  
+ 
+
+Wire diameter(d) = 6.497192 or 7.000000 mm
+
+Mean coil diameter(D) = 42.000000 mm
+
+Number of active coils(N) = 21.974923 or 22
+
+Required spring rate(k) = 15.000000 N/mm
+
+Actual spring rate(kact) = 14.982902 N/mm
+ 

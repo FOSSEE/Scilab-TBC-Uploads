@@ -1,0 +1,4 @@
+ Example 4.1
+ Frequency of emitted radiation is 2.48e+15 Hz
+ Wavelength of emitted radiation is 1.21e-07 m 
+	 	or		 1211 angstrom 

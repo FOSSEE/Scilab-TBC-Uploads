@@ -1,0 +1,8 @@
+
+ # PROBLEM 19 # 
+ Standard formula used 
+ t = t_0/((1-v^2/c^2)^1/2) 
+ s = v*t 
+
+ Mean life of +pi meson is 8.333333e-08 sec 
+ Distance travel by the beam is 20.000000 meter.

@@ -1,0 +1,102 @@
+14#Applications of Digital Signal Processing#14.2#Effect of DFT length#P14_2.sce#692/CH14/EX14.2/P14_2.sce#S##41812
+14#Applications of Digital Signal Processing#14.1#Effect of DFT length#P14_1.sce#692/CH14/EX14.1/P14_1.sce#S##41813
+13#Multirate DIgital Signal Processing Findamentals#13.6#Decimator Computation complexity#P13_6.sce#692/CH13/EX13.6/P13_6.sce#S##41681
+13#Multirate DIgital Signal Processing Findamentals#13.2#Down sampling operation#P13_2.sce#692/CH13/EX13.2/P13_2.sce#S##41811
+13#Multirate DIgital Signal Processing Findamentals#13.1#Up sampling operation#P13_1.sce#692/CH13/EX13.1/P13_1.sce#S##41810
+12#Analysis of Finite Wordlength Effects#12.3#Signal to Quantisation Noise Ratio#P12_3.sce#692/CH12/EX12.3/P12_3.sce#S##41680
+11#DSP Algorithm implementation#11.3#Reconstruction of Transfer function from Impulse response coeeficients#P11_3.sce#692/CH11/EX11.3/P11_3.sce#S##41678
+11#DSP Algorithm implementation#11.11#Cascaded lattice Filter structure#P11_11.sce#692/CH11/EX11.11/P11_11.sce#S##41679
+10#FIR digital filter design#10.8#Kaiser window#P10_8.sce#692/CH10/EX10.8/P10_8.sce#S##41809
+10#FIR digital filter design#10.7#Order Estimation#P10_7.sce#692/CH10/EX10.7/P10_7.sce#S##41677
+10#FIR digital filter design#10.6#Filter length estimation for window based design#P10_6.sce#692/CH10/EX10.6/P10_6.sce#S##41676
+10#FIR digital filter design#10.4#Order Estimation#P10_4.sce#692/CH10/EX10.4/P10_4.sce#S##41675
+10#FIR digital filter design#10.3#Hermann formula#P10_3.sce#692/CH10/EX10.3/P10_3.sce#S##41674
+10#FIR digital filter design#10.2#Bellenger formula#P10_2.sce#692/CH10/EX10.2/P10_2.sce#S##41673
+10#FIR digital filter design#10.1#Kaiser formula#P10_1.sce#692/CH10/EX10.1/P10_1.sce#S##41672
+9#IIR digital filter design#9.7#Design of HP IIR Digital Filter from LP Digital Filter#P9_7.sce#692/CH9/EX9.7/P9_7.sce#S##41669
+9#IIR digital filter design#9.6#Changing passband edge frequencies to LP IIR digital frequencies#P9_6.sce#692/CH9/EX9.6/P9_6.sce#S##41668
+9#IIR digital filter design#9.3#Design of HP Digital Filter#P9_3.sce#692/CH9/EX9.3/P9_3.sce#S##41667
+9#IIR digital filter design#9.2#conversion of bandedged frequencies to Normalized digital frequencies#P9_2.sce#692/CH9/EX9.2/P9_2.sce#S##41666
+9#IIR digital filter design#9.12#Minimum order of Type 2 Chebyshev HP IIR digital filter#P9_12.sce#692/CH9/EX9.12/P9_12.sce#S##41671
+9#IIR digital filter design#9.1#Computating  ripple values#P9_1.sce#692/CH9/EX9.1/P9_1.sce#S##41665
+8#Digital Filter Structures#8.7#Factorization of IIR Transfer Function#P8_7.sce#692/CH8/EX8.7/P8_7.sce#S##41661
+8#Digital Filter Structures#8.6#Factorization of FIR Transfer Function#P8_6.sce#692/CH8/EX8.6/P8_6.sce#S##41660
+8#Digital Filter Structures#8.18#Cascaded lattice realization#P8_18.sce#692/CH8/EX8.18/P8_18.sce#S##41664
+8#Digital Filter Structures#8.12#Gray Markel method of realization#P8_12.sce#692/CH8/EX8.12/P8_12.sce#S##41663
+8#Digital Filter Structures#8.10#Cascaded lattice realization of IIR digital Transfer Function#P8_10.sce#692/CH8/EX8.10/P8_10.sce#S##41662
+8#Digital Filter Structures#8.1#Analysis of Cascaded lattice digital filter structure#P8_1.sce#692/CH8/EX8.1/P8_1.sce#S##60917
+7#LTI Discreet Time systems in the Transform Domain#7.6#FIR Transfer function#P7_6.sce#692/CH7/EX7.6/P7_6.sce#S##41808
+7#LTI Discreet Time systems in the Transform Domain#7.2#Transfer function determination#P7_2.sce#692/CH7/EX7.2/P7_2.sce#S##41658
+7#LTI Discreet Time systems in the Transform Domain#7.1#Bounded real function#P7_1.sce#692/CH7/EX7.1/P7_1.sce#S##60916
+6#z Transform#6.9#z Transform#P6_9.sce#692/CH6/EX6.9/P6_9.sce#S##41806
+6#z Transform#6.5#Z transform of causal sequence#P6_5.sce#692/CH6/EX6.5/P6_5.sce#S##60907
+6#z Transform#6.4#z Transform#P6_4.sce#692/CH6/EX6.4/P6_4.sce#S##60905
+6#z Transform#6.34#Transfer function determination#P6_34.sce#692/CH6/EX6.34/P6_34.sce#S##41807
+6#z Transform#6.33#Transfer Function of Moving Average Filter#P6_33.sce#692/CH6/EX6.33/P6_33.sce#S##60915
+6#z Transform#6.31#Convolution#P6_31.sce#692/CH6/EX6.31/P6_31.sce#S##60914
+6#z Transform#6.30#Convolution#P6_30.sce#692/CH6/EX6.30/P6_30.sce#S##60913
+6#z Transform#6.3#z Transform#P6_3.sce#692/CH6/EX6.3/P6_3.sce#S##60903
+6#z Transform#6.28#Enlargement of ROC by pole zero cancellation#P6_28.sce#692/CH6/EX6.28/P6_28.sce#S##41653
+6#z Transform#6.27#Inverse z Transform#P6_27.sce#692/CH6/EX6.27/P6_27.sce#S##41650
+6#z Transform#6.26#z Transform#P6_26.sce#692/CH6/EX6.26/P6_26.sce#S##60912
+6#z Transform#6.25#z Transform#P6_25.sce#692/CH6/EX6.25/P6_25.sce#S##60910
+6#z Transform#6.24#sum of sequences of non overlapping ROC#P6_24.sce#692/CH6/EX6.24/P6_24.sce#S##60911
+6#z Transform#6.23#z Transform#P6_23.sce#692/CH6/EX6.23/P6_23.sce#S##61637
+6#z Transform#6.22#z Transform#P6_22.sce#692/CH6/EX6.22/P6_22.sce#S##60909
+6#z Transform#6.20#Inverse z Transform#P6_20.sce#692/CH6/EX6.20/P6_20.sce#S##41646
+6#z Transform#6.2#z transform of anticausal sequence#P6_2.sce#692/CH6/EX6.2/P6_2.sce#S##60902
+6#z Transform#6.19#Inverse z Transform using long division#P6_19.sce#692/CH6/EX6.19/P6_19.sce#S##41645
+6#z Transform#6.18#Inverse z Transform using long division#P6_18.sce#692/CH6/EX6.18/P6_18.sce#S##41670
+6#z Transform#6.17#Coefficients of rational form#P6_17.sce#692/CH6/EX6.17/P6_17.sce#S##53703
+6#z Transform#6.16#Inverse z Transform by power series expansion#P6_16.sce#692/CH6/EX6.16/P6_16.sce#S##41644
+6#z Transform#6.15#residue computation using coefficient matching approach#P6_15.sce#692/CH6/EX6.15/P6_15.sce#S##41643
+6#z Transform#6.14#Inverse z Transform by partial fraction expansion#P6_14.sce#692/CH6/EX6.14/P6_14.sce#S##41642
+6#z Transform#6.13#Proper fraction of Rational z Transform#P6_13.sce#692/CH6/EX6.13/P6_13.sce#S##41641
+6#z Transform#6.12#Inverse z Transform#P6_12.sce#692/CH6/EX6.12/P6_12.sce#S##41640
+6#z Transform#6.11#Inverse z Transform#P6_11.sce#692/CH6/EX6.11/P6_11.sce#S##60908
+6#z Transform#6.10#Rational form of z Transform from its zero and pole locations#P6_10.sce#692/CH6/EX6.10/P6_10.sce#S##41638
+6#z Transform#6.1#z Transform of causal exponential sequence#P6_1.sce#692/CH6/EX6.1/P6_1.sce#S##60901
+5#Finite Length Discreet Transform#5.8#Cicular convolution computation#P5_8.sce#692/CH5/EX5.8/P5_8.sce#S##41804
+5#Finite Length Discreet Transform#5.7#Cicular convolution computation#P5_7.sce#692/CH5/EX5.7/P5_7.sce#S##41802
+5#Finite Length Discreet Transform#5.5#DFT computation#P5_5.sce#692/CH5/EX5.5/P5_5.sce#S##41801
+5#Finite Length Discreet Transform#5.4#IDFT Computation#P5_4.sce#692/CH5/EX5.4/P5_4.sce#S##41800
+5#Finite Length Discreet Transform#5.3#DFT computation#P5_3.sce#692/CH5/EX5.3/P5_3.sce#S##41799
+5#Finite Length Discreet Transform#5.2#DFT of sinusoidal sequence#P5_2.sce#692/CH5/EX5.2/P5_2.sce#S##41798
+5#Finite Length Discreet Transform#5.15#DFT computationusing single DFT of shorter length#P5_15.sce#692/CH5/EX5.15/P5_15.sce#S##41629
+5#Finite Length Discreet Transform#5.14#DFT computationusing single DFT#P5_14.sce#692/CH5/EX5.14/P5_14.sce#S##41628
+5#Finite Length Discreet Transform#5.12#Linear Convolution using DFT#P5_12.sce#692/CH5/EX5.12/P5_12.sce#S##41805
+5#Finite Length Discreet Transform#5.11#Cicular convolution computation#P5_11.sce#692/CH5/EX5.11/P5_11.sce#S##41626
+5#Finite Length Discreet Transform#5.10#Generating symmetric parts#P5_10.sce#692/CH5/EX5.10/P5_10.sce#S##41627
+5#Finite Length Discreet Transform#5.1#DFT computation#P5_1.sce#692/CH5/EX5.1/P5_1.sce#S##41625
+4#Digital Processing of Continous TIme Systems#4.8#Order of Analog Lowpass Elliptic Filter#P4_8.sce#692/CH4/EX4.8/P4_8.sce#S##41623
+4#Digital Processing of Continous TIme Systems#4.7#Order of Analog Chebyshev Filter#P4_7.sce#692/CH4/EX4.7/P4_7.sce#S##41622
+4#Digital Processing of Continous TIme Systems#4.6#Order of Analog filter#P4_6.sce#692/CH4/EX4.6/P4_6.sce#S##41621
+4#Digital Processing of Continous TIme Systems#4.5#Passband and Stopband ripple computation#P4_5.sce#692/CH4/EX4.5/P4_5.sce#S##41620
+4#Digital Processing of Continous TIme Systems#4.16#Design of Analof Butterworth HP Filter#P4_16.sce#692/CH4/EX4.16/P4_16.sce#S##41624
+3#Discreet TIme Fourier Transform#3.7#Plotting real and imaginary part#P3_12.sce#692/CH3/EX3.7/P3_12.sce#S##41797
+3#Discreet TIme Fourier Transform#3.6#DTFT computation#P3_6.sce#692/CH3/EX3.6/P3_6.sce#S##41796
+3#Discreet TIme Fourier Transform#3.5#DTFT computation#P3_5.sce#692/CH3/EX3.5/P3_5.sce#S##41795
+3#Discreet TIme Fourier Transform#3.15#Energy of exponential sequence#P3_15.sce#692/CH3/EX3.15/P3_15.sce#S##41686
+3#Discreet TIme Fourier Transform#3.14#Energy of signal#P3_14.sce#692/CH3/EX3.14/P3_14.sce#S##61634
+3#Discreet TIme Fourier Transform#3.13#DTFT computation#P3_13.sce#692/CH3/EX3.13/P3_13.sce#S##41684
+3#Discreet TIme Fourier Transform#3.12#Plotting DTFT of exponential sequence#P3_12.sce#692/CH3/EX3.12/P3_12.sce#S##41803
+3#Discreet TIme Fourier Transform#3.10#DTFT of finite length exponential sequence#P3_10.sce#692/CH3/EX3.10/P3_10.sce#S##61629
+2#Discreet Time Signals and Systems#2.9#Square wave generation#P2_9.sce#692/CH2/EX2.9/P2_9.sce#S##41790
+2#Discreet Time Signals and Systems#2.7#Power Signal#P2_7.sce#692/CH2/EX2.7/P2_7.sce#S##41612
+2#Discreet Time Signals and Systems#2.6#Energy Signal#P2_6.sce#692/CH2/EX2.6/P2_6.sce#S##41610
+2#Discreet Time Signals and Systems#2.5#Generating symmetric parts#P2_5.sce#692/CH2/EX2.5/P2_5.sce#S##41611
+2#Discreet Time Signals and Systems#2.46#Cross coreation computation#P2_46.sce#692/CH2/EX2.46/P2_46.sce#S##41616
+2#Discreet Time Signals and Systems#2.33#Stability of a system#P2_33.sce#692/CH2/EX2.33/P2_33.sce#S##41617
+2#Discreet Time Signals and Systems#2.32#Stability of Anti causal system#P2_32.sce#692/CH2/EX2.32/P2_32.sce#S##41618
+2#Discreet Time Signals and Systems#2.31#Stabbility of causal system#P2_31.sce#692/CH2/EX2.31/P2_31.sce#S##41619
+2#Discreet Time Signals and Systems#2.30#Convolution#P2_30.sce#692/CH2/EX2.30/P2_30.sce#S##41793
+2#Discreet Time Signals and Systems#2.3#Unequal length sequence#P2_3.sce#692/CH2/EX2.3/P2_3.sce#S##41608
+2#Discreet Time Signals and Systems#2.29#Convolution#P2_29.sce#692/CH2/EX2.29/P2_29.sce#S##41687
+2#Discreet Time Signals and Systems#2.28#Convolution#P2_28.sce#692/CH2/EX2.28/P2_28.sce#S##41794
+2#Discreet Time Signals and Systems#2.27#Convolution#P2_27.sce#692/CH2/EX2.27/P2_27.sce#S##41792
+2#Discreet Time Signals and Systems#2.26#Convolution#P2_26.sce#692/CH2/EX2.26/P2_26.sce#S##41615
+2#Discreet Time Signals and Systems#2.22#Impulse response of Accumulator#P2_22.sce#692/CH2/EX2.22/P2_22.sce#S##41791
+2#Discreet Time Signals and Systems#2.20#Passive system#P2_20.sce#692/CH2/EX2.20/P2_20.sce#S##41614
+2#Discreet Time Signals and Systems#2.2#Basic operations#P2_2.sce#692/CH2/EX2.2/P2_2.sce#S##41607
+2#Discreet Time Signals and Systems#2.16#Linearity of accumulator#P2_16.sce#692/CH2/EX2.16/P2_16.sce#S##41613
+2#Discreet Time Signals and Systems#2.1#Ensemble Averaging#P2_1.sce#692/CH2/EX2.1/P2_1.sce#S##41789

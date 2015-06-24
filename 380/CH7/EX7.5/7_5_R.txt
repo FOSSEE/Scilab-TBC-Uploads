@@ -1,0 +1,11 @@
+ (a) frequency of induced voltage (in Hertz)=   
+ 
+    50.  
+ 
+ (b) Rms value of Phase voltage (in Volts)=   
+ 
+    1201.3473  
+ 
+ (c) line voltage (in Volts)=   
+ 
+    2080.7945 

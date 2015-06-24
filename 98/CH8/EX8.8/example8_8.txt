@@ -1,0 +1,9 @@
+Voltage across first unit = V1 = 11.02 kV 
+
+Voltage across fourth unit = V4 = 26.37 kV 
+
+Voltage between line and earth = 68.58 kV 
+
+Voltage between bus bars = 118.79 kV 
+
+

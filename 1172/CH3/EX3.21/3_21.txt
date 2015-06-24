@@ -1,0 +1,5 @@
+ # Problem 21 # 
+
+ Standard formula Used 
+ sqrt(nu1)= a*(Z-b)
+ The unknown substance has atomic number 47. 

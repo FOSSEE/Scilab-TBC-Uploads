@@ -1,0 +1,2 @@
+**Sample Problem 5-4**
+The velocity after trevelling 1 m distance is 0.222457 m/s 

@@ -1,0 +1,4 @@
+# PROBLEM 5 # 
+
+ Energy of one photon  is 1.785971eV. 
+ Total energy is 8.572663J

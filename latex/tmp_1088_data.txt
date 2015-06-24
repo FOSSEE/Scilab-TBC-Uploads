@@ -1,0 +1,283 @@
+24#Systems Programming 2 Process Control#24.9#Program 9#Example9.sce#1088/CH24/EX24.9/Example9.sce#S##58217
+24#Systems Programming 2 Process Control#24.9#Program 9#Result9.txt#1088/CH24/EX24.9/Result9.txt#R##46791
+24#Systems Programming 2 Process Control#24.8#Program 8#Example8.sce#1088/CH24/EX24.8/Example8.sce#S##58215
+24#Systems Programming 2 Process Control#24.8#Program 8#Result8.txt#1088/CH24/EX24.8/Result8.txt#R##46789
+24#Systems Programming 2 Process Control#24.7#Program 7#Example7.sce#1088/CH24/EX24.7/Example7.sce#S##58214
+24#Systems Programming 2 Process Control#24.7#Program 7#Result7.txt#1088/CH24/EX24.7/Result7.txt#R##46787
+24#Systems Programming 2 Process Control#24.6#Program 6#Example6.sce#1088/CH24/EX24.6/Example6.sce#S##58213
+24#Systems Programming 2 Process Control#24.6#Program 6#Result6.txt#1088/CH24/EX24.6/Result6.txt#R##46785
+24#Systems Programming 2 Process Control#24.5#Program 5#Example5.sce#1088/CH24/EX24.5/Example5.sce#S##58212
+24#Systems Programming 2 Process Control#24.5#Program 5#Result5.txt#1088/CH24/EX24.5/Result5.txt#R##46783
+24#Systems Programming 2 Process Control#24.4#Program 4#Example4.sce#1088/CH24/EX24.4/Example4.sce#S##58211
+24#Systems Programming 2 Process Control#24.4#Program 4#Result4.txt#1088/CH24/EX24.4/Result4.txt#R##46781
+24#Systems Programming 2 Process Control#24.3#Program 3#Example3.sce#1088/CH24/EX24.3/Example3.sce#S##58210
+24#Systems Programming 2 Process Control#24.3#Program 3#Result3.txt#1088/CH24/EX24.3/Result3.txt#R##46779
+24#Systems Programming 2 Process Control#24.2#Program 2#Example2.sce#1088/CH24/EX24.2/Example2.sce#S##58209
+24#Systems Programming 2 Process Control#24.2#Program 2#Result2.txt#1088/CH24/EX24.2/Result2.txt#R##46777
+24#Systems Programming 2 Process Control#24.16#Program 16#Example16.sce#1088/CH24/EX24.16/Example16.sce#S##58224
+24#Systems Programming 2 Process Control#24.16#Program 16#Result16.txt#1088/CH24/EX24.16/Result16.txt#R##46805
+24#Systems Programming 2 Process Control#24.15#Program 15#Example15.sce#1088/CH24/EX24.15/Example15.sce#S##58223
+24#Systems Programming 2 Process Control#24.15#Program 15#Result15.txt#1088/CH24/EX24.15/Result15.txt#R##46803
+24#Systems Programming 2 Process Control#24.14#Program 14#Example14.sce#1088/CH24/EX24.14/Example14.sce#S##58222
+24#Systems Programming 2 Process Control#24.14#Program 14#Result14.txt#1088/CH24/EX24.14/Result14.txt#R##46801
+24#Systems Programming 2 Process Control#24.13#Program 13#Example13.sce#1088/CH24/EX24.13/Example13.sce#S##58221
+24#Systems Programming 2 Process Control#24.13#Program 13#Result13.txt#1088/CH24/EX24.13/Result13.txt#R##46799
+24#Systems Programming 2 Process Control#24.12#Program 12#Example12.sce#1088/CH24/EX24.12/Example12.sce#S##58220
+24#Systems Programming 2 Process Control#24.12#Program 12#Result12.txt#1088/CH24/EX24.12/Result12.txt#R##46797
+24#Systems Programming 2 Process Control#24.11#Program 11#Example11.sce#1088/CH24/EX24.11/Example11.sce#S##58219
+24#Systems Programming 2 Process Control#24.11#Program 11#Result11.txt#1088/CH24/EX24.11/Result11.txt#R##46795
+24#Systems Programming 2 Process Control#24.10#Program 10#Example10.sce#1088/CH24/EX24.10/Example10.sce#S##58218
+24#Systems Programming 2 Process Control#24.10#Program 10#Result10.txt#1088/CH24/EX24.10/Result10.txt#R##46793
+24#Systems Programming 2 Process Control#24.1#Program 1#Example1.sce#1088/CH24/EX24.1/Example1.sce#S##58216
+24#Systems Programming 2 Process Control#24.1#Program 1#Result1.txt#1088/CH24/EX24.1/Result1.txt#R##46775
+23#Systems Programming 1 Files#23.9#Program 9#Example9.sce#1088/CH23/EX23.9/Example9.sce#S##58200
+23#Systems Programming 1 Files#23.9#Program 9#Result9.txt#1088/CH23/EX23.9/Result9.txt#R##46765
+23#Systems Programming 1 Files#23.8#Program 8#Example8.sce#1088/CH23/EX23.8/Example8.sce#S##58201
+23#Systems Programming 1 Files#23.8#Program 8#Result8.txt#1088/CH23/EX23.8/Result8.txt#R##46763
+23#Systems Programming 1 Files#23.7#Program 7#Example7.sce#1088/CH23/EX23.7/Example7.sce#S##58202
+23#Systems Programming 1 Files#23.7#Program 7#Result7.txt#1088/CH23/EX23.7/Result7.txt#R##46761
+23#Systems Programming 1 Files#23.6#Program 6#Example6.sce#1088/CH23/EX23.6/Example6.sce#S##58203
+23#Systems Programming 1 Files#23.6#Program 6#Result6.txt#1088/CH23/EX23.6/Result6.txt#R##46759
+23#Systems Programming 1 Files#23.5#Program 5#Example5.sce#1088/CH23/EX23.5/Example5.sce#S##58204
+23#Systems Programming 1 Files#23.5#Program 5#Result5.txt#1088/CH23/EX23.5/Result5.txt#R##46757
+23#Systems Programming 1 Files#23.4#Program 4#Example4.sce#1088/CH23/EX23.4/Example4.sce#S##58205
+23#Systems Programming 1 Files#23.4#Program 4#Result4.txt#1088/CH23/EX23.4/Result4.txt#R##46755
+23#Systems Programming 1 Files#23.3#Program 3#Example3.sce#1088/CH23/EX23.3/Example3.sce#S##58206
+23#Systems Programming 1 Files#23.3#Program 3#Result3.txt#1088/CH23/EX23.3/Result3.txt#R##46753
+23#Systems Programming 1 Files#23.2#Program 2#Example2.sce#1088/CH23/EX23.2/Example2.sce#S##58207
+23#Systems Programming 1 Files#23.2#Program 2#Result2.txt#1088/CH23/EX23.2/Result2.txt#R##46751
+23#Systems Programming 1 Files#23.13#Program 13#Example13.sce#1088/CH23/EX23.13/Example13.sce#S##58196
+23#Systems Programming 1 Files#23.13#Program 13#Result13.txt#1088/CH23/EX23.13/Result13.txt#R##46773
+23#Systems Programming 1 Files#23.12#Program 12#Example12.sce#1088/CH23/EX23.12/Example12.sce#S##58197
+23#Systems Programming 1 Files#23.12#Program 12#Result12.txt#1088/CH23/EX23.12/Result12.txt#R##46771
+23#Systems Programming 1 Files#23.11#Program 11#Example11.sce#1088/CH23/EX23.11/Example11.sce#S##58198
+23#Systems Programming 1 Files#23.11#Program 11#Result11.txt#1088/CH23/EX23.11/Result11.txt#R##46769
+23#Systems Programming 1 Files#23.10#Program 10#Example10.sce#1088/CH23/EX23.10/Example10.sce#S##58199
+23#Systems Programming 1 Files#23.10#Program 10#Result10.txt#1088/CH23/EX23.10/Result10.txt#R##46767
+23#Systems Programming 1 Files#23.1#Program 1#Example1.sce#1088/CH23/EX23.1/Example1.sce#S##58208
+23#Systems Programming 1 Files#23.1#Program 1#Result1.txt#1088/CH23/EX23.1/Result1.txt#R##46749
+21#Advanced Shell Programming#21.4#Program 4#Example4.sce#1088/CH21/EX21.4/Example4.sce#S##58193
+21#Advanced Shell Programming#21.4#Program 4#Result4.txt#1088/CH21/EX21.4/Result4.txt#R##46746
+21#Advanced Shell Programming#21.4#Program 4#Result4.pdf#1088/CH21/EX21.4/Result4.pdf#R##46747
+21#Advanced Shell Programming#21.3#Program 3#Example3.sce#1088/CH21/EX21.3/Example3.sce#S##58194
+21#Advanced Shell Programming#21.3#Program 3#Result3.txt#1088/CH21/EX21.3/Result3.txt#R##46743
+21#Advanced Shell Programming#21.3#Program 3#Result3.pdf#1088/CH21/EX21.3/Result3.pdf#R##46744
+21#Advanced Shell Programming#21.2#Program 2#Example2.sce#1088/CH21/EX21.2/Example2.sce#S##58192
+21#Advanced Shell Programming#21.2#Program 2#Result2.txt#1088/CH21/EX21.2/Result2.txt#R##46740
+21#Advanced Shell Programming#21.2#Program 2#Result2.pdf#1088/CH21/EX21.2/Result2.pdf#R##46741
+21#Advanced Shell Programming#21.1#Program 1#Example1.sce#1088/CH21/EX21.1/Example1.sce#S##58195
+21#Advanced Shell Programming#21.1#Program 1#Result1.txt#1088/CH21/EX21.1/Result1.txt#R##46737
+21#Advanced Shell Programming#21.1#Program 1#Result1.pdf#1088/CH21/EX21.1/Result1.pdf#R##46738
+19#perl The Master Manipulator#19.9#Program 9#Example9.sce#1088/CH19/EX19.9/Example9.sce#S##58181
+19#perl The Master Manipulator#19.9#Program 9#Result9.txt#1088/CH19/EX19.9/Result9.txt#R##44911
+19#perl The Master Manipulator#19.9#Program 9#Result9.pdf#1088/CH19/EX19.9/Result9.pdf#R##44912
+19#perl The Master Manipulator#19.8#Program 8#Example8.sce#1088/CH19/EX19.8/Example8.sce#S##58180
+19#perl The Master Manipulator#19.8#Program 8#Result8.txt#1088/CH19/EX19.8/Result8.txt#R##44908
+19#perl The Master Manipulator#19.8#Program 8#Result8.pdf#1088/CH19/EX19.8/Result8.pdf#R##44909
+19#perl The Master Manipulator#19.7#Program 7#Example7.sce#1088/CH19/EX19.7/Example7.sce#S##58179
+19#perl The Master Manipulator#19.7#Program 7#Result7.txt#1088/CH19/EX19.7/Result7.txt#R##44905
+19#perl The Master Manipulator#19.7#Program 7#Result7.pdf#1088/CH19/EX19.7/Result7.pdf#R##44906
+19#perl The Master Manipulator#19.6#Program 6#Example6.sce#1088/CH19/EX19.6/Example6.sce#S##58191
+19#perl The Master Manipulator#19.6#Program 6#Result6.txt#1088/CH19/EX19.6/Result6.txt#R##44902
+19#perl The Master Manipulator#19.6#Program 6#Result6.pdf#1088/CH19/EX19.6/Result6.pdf#R##44903
+19#perl The Master Manipulator#19.5#Program 5#Example5.sce#1088/CH19/EX19.5/Example5.sce#S##58178
+19#perl The Master Manipulator#19.5#Program 5#Result5.txt#1088/CH19/EX19.5/Result5.txt#R##44899
+19#perl The Master Manipulator#19.5#Program 5#Result5.pdf#1088/CH19/EX19.5/Result5.pdf#R##44900
+19#perl The Master Manipulator#19.4#Program 4#Example4.sce#1088/CH19/EX19.4/Example4.sce#S##58177
+19#perl The Master Manipulator#19.4#Program 4#Result4.txt#1088/CH19/EX19.4/Result4.txt#R##44896
+19#perl The Master Manipulator#19.4#Program 4#Result4.pdf#1088/CH19/EX19.4/Result4.pdf#R##44897
+19#perl The Master Manipulator#19.3#Program 3#Example3.sce#1088/CH19/EX19.3/Example3.sce#S##58176
+19#perl The Master Manipulator#19.3#Program 3#Result3.txt#1088/CH19/EX19.3/Result3.txt#R##44893
+19#perl The Master Manipulator#19.3#Program 3#Result3.pdf#1088/CH19/EX19.3/Result3.pdf#R##44894
+19#perl The Master Manipulator#19.2#Program 2#Example2.sce#1088/CH19/EX19.2/Example2.sce#S##58175
+19#perl The Master Manipulator#19.2#Program 2#Result2.txt#1088/CH19/EX19.2/Result2.txt#R##44890
+19#perl The Master Manipulator#19.2#Program 2#Result2.pdf#1088/CH19/EX19.2/Result2.pdf#R##44891
+19#perl The Master Manipulator#19.18#Program 18#Example18.sce#1088/CH19/EX19.18/Example18.sce#S##58190
+19#perl The Master Manipulator#19.18#Program 18#Result18.txt#1088/CH19/EX19.18/Result18.txt#R##44938
+19#perl The Master Manipulator#19.18#Program 18#Result18.pdf#1088/CH19/EX19.18/Result18.pdf#R##44939
+19#perl The Master Manipulator#19.17#Program 17#Example17.sce#1088/CH19/EX19.17/Example17.sce#S##58189
+19#perl The Master Manipulator#19.17#Program 17#Result17.txt#1088/CH19/EX19.17/Result17.txt#R##44935
+19#perl The Master Manipulator#19.17#Program 17#Result17.pdf#1088/CH19/EX19.17/Result17.pdf#R##44936
+19#perl The Master Manipulator#19.16#Program 16#Example16.sce#1088/CH19/EX19.16/Example16.sce#S##58188
+19#perl The Master Manipulator#19.16#Program 16#Result16.txt#1088/CH19/EX19.16/Result16.txt#R##44932
+19#perl The Master Manipulator#19.16#Program 16#Result16.pdf#1088/CH19/EX19.16/Result16.pdf#R##44933
+19#perl The Master Manipulator#19.15#Program 15#Example15.sce#1088/CH19/EX19.15/Example15.sce#S##58187
+19#perl The Master Manipulator#19.15#Program 15#Result15.txt#1088/CH19/EX19.15/Result15.txt#R##44929
+19#perl The Master Manipulator#19.15#Program 15#Result15.pdf#1088/CH19/EX19.15/Result15.pdf#R##44930
+19#perl The Master Manipulator#19.14#Program 14#Example14.sce#1088/CH19/EX19.14/Example14.sce#S##58186
+19#perl The Master Manipulator#19.14#Program 14#Result14.txt#1088/CH19/EX19.14/Result14.txt#R##44926
+19#perl The Master Manipulator#19.14#Program 14#Result14.pdf#1088/CH19/EX19.14/Result14.pdf#R##44927
+19#perl The Master Manipulator#19.13#Program 13#Example13.sce#1088/CH19/EX19.13/Example13.sce#S##58185
+19#perl The Master Manipulator#19.13#Program 13#Result13.txt#1088/CH19/EX19.13/Result13.txt#R##44923
+19#perl The Master Manipulator#19.13#Program 13#Result13.pdf#1088/CH19/EX19.13/Result13.pdf#R##44924
+19#perl The Master Manipulator#19.12#Program 12#Example12.sce#1088/CH19/EX19.12/Example12.sce#S##58184
+19#perl The Master Manipulator#19.12#Program 12#Result12.txt#1088/CH19/EX19.12/Result12.txt#R##44920
+19#perl The Master Manipulator#19.12#Program 12#Result12.pdf#1088/CH19/EX19.12/Result12.pdf#R##44921
+19#perl The Master Manipulator#19.11#Program 11#Example11.sce#1088/CH19/EX19.11/Example11.sce#S##58183
+19#perl The Master Manipulator#19.11#Program 11#Result11.txt#1088/CH19/EX19.11/Result11.txt#R##44917
+19#perl The Master Manipulator#19.11#Program 11#Result11.pdf#1088/CH19/EX19.11/Result11.pdf#R##44918
+19#perl The Master Manipulator#19.10#Program 10#Example10.sce#1088/CH19/EX19.10/Example10.sce#S##58182
+19#perl The Master Manipulator#19.10#Program 10#Result10.txt#1088/CH19/EX19.10/Result10.txt#R##44914
+19#perl The Master Manipulator#19.10#Program 10#Result10.pdf#1088/CH19/EX19.10/Result10.pdf#R##44915
+19#perl The Master Manipulator#19.1#Program 1#Example1.sce#1088/CH19/EX19.1/Example1.sce#S##58174
+19#perl The Master Manipulator#19.1#Program 1#Result1.txt#1088/CH19/EX19.1/Result1.txt#R##44887
+19#perl The Master Manipulator#19.1#Program 1#Result1.pdf#1088/CH19/EX19.1/Result1.pdf#R##44888
+18#awk An Advanced Filter#18.2#Program 2#Example2.sce#1088/CH18/EX18.2/Example2.sce#S##58173
+18#awk An Advanced Filter#18.2#Program 2#Result2.txt#1088/CH18/EX18.2/Result2.txt#R##46734
+18#awk An Advanced Filter#18.2#Program 2#Result2.pdf#1088/CH18/EX18.2/Result2.pdf#R##46735
+18#awk An Advanced Filter#18.1#Program 1#Example1.sce#1088/CH18/EX18.1/Example1.sce#S##58172
+18#awk An Advanced Filter#18.1#Program 1#Result1.txt#1088/CH18/EX18.1/Result1.txt#R##46731
+18#awk An Advanced Filter#18.1#Program 1#Result1.pdf#1088/CH18/EX18.1/Result1.pdf#R##46732
+14#Essential Shell Programming#14.9#Program 9#Example9.sce#1088/CH14/EX14.9/Example9.sce#S##58167
+14#Essential Shell Programming#14.9#Program 9#Result9.txt#1088/CH14/EX14.9/Result9.txt#R##45963
+14#Essential Shell Programming#14.9#Program 9#Result9.pdf#1088/CH14/EX14.9/Result9.pdf#R##45964
+14#Essential Shell Programming#14.8#Program 8#Example8.sce#1088/CH14/EX14.8/Example8.sce#S##58166
+14#Essential Shell Programming#14.8#Program 8#Result8.txt#1088/CH14/EX14.8/Result8.txt#R##45957
+14#Essential Shell Programming#14.8#Program 8#Result8.pdf#1088/CH14/EX14.8/Result8.pdf#R##45958
+14#Essential Shell Programming#14.7#Program 7#Result7.pdf#1088/CH14/EX14.7/Result7.pdf#R##45952
+14#Essential Shell Programming#14.7#Program 7#Example7.sce#1088/CH14/EX14.7/Example7.sce#S##58165
+14#Essential Shell Programming#14.7#Program 7#Result7.txt#1088/CH14/EX14.7/Result7.txt#R##45951
+14#Essential Shell Programming#14.6#Program 6#Example6.sce#1088/CH14/EX14.6/Example6.sce#S##58164
+14#Essential Shell Programming#14.6#Program 6#Result6.txt#1088/CH14/EX14.6/Result6.txt#R##45945
+14#Essential Shell Programming#14.6#Program 6#Result6.pdf#1088/CH14/EX14.6/Result6.pdf#R##45946
+14#Essential Shell Programming#14.5#Program 5#Result5.pdf#1088/CH14/EX14.5/Result5.pdf#R##45941
+14#Essential Shell Programming#14.5#Program 5#Example5.sce#1088/CH14/EX14.5/Example5.sce#S##58163
+14#Essential Shell Programming#14.5#Program 5#Result5.txt#1088/CH14/EX14.5/Result5.txt#R##45940
+14#Essential Shell Programming#14.4#Program 4#Result4.pdf#1088/CH14/EX14.4/Result4.pdf#R##45934
+14#Essential Shell Programming#14.4#Program 4#Example4.sce#1088/CH14/EX14.4/Example4.sce#S##58162
+14#Essential Shell Programming#14.4#Program 4#Result4.txt#1088/CH14/EX14.4/Result4.txt#R##45933
+14#Essential Shell Programming#14.3#Program 3#Result3.pdf#1088/CH14/EX14.3/Result3.pdf#R##45929
+14#Essential Shell Programming#14.3#Program 3#Example3.sce#1088/CH14/EX14.3/Example3.sce#S##58161
+14#Essential Shell Programming#14.3#Program 3#Result3.txt#1088/CH14/EX14.3/Result3.txt#R##45928
+14#Essential Shell Programming#14.2#Program 2#Result2.pdf#1088/CH14/EX14.2/Result2.pdf#R##45924
+14#Essential Shell Programming#14.2#Program 2#Example2.sce#1088/CH14/EX14.2/Example2.sce#S##58160
+14#Essential Shell Programming#14.2#Program 2#Result2.txt#1088/CH14/EX14.2/Result2.txt#R##45923
+14#Essential Shell Programming#14.13#Program 14#Result13.pdf#1088/CH14/EX14.13/Result13.pdf#R##45978
+14#Essential Shell Programming#14.13#Program 14#Result13.txt#1088/CH14/EX14.13/Result13.txt#R##45977
+14#Essential Shell Programming#14.13#Program 14#Example13.sce#1088/CH14/EX14.13/Example13.sce#S##58171
+14#Essential Shell Programming#14.12#Program 12#Result12.pdf#1088/CH14/EX14.12/Result12.pdf#R##45974
+14#Essential Shell Programming#14.12#Program 12#Result12.txt#1088/CH14/EX14.12/Result12.txt#R##45973
+14#Essential Shell Programming#14.12#Program 12#Example12.sce#1088/CH14/EX14.12/Example12.sce#S##58170
+14#Essential Shell Programming#14.11#Program 11#Result11.pdf#1088/CH14/EX14.11/Result11.pdf#R##45971
+14#Essential Shell Programming#14.11#Program 11#Result11.txt#1088/CH14/EX14.11/Result11.txt#R##45970
+14#Essential Shell Programming#14.11#Program 11#Example11.sce#1088/CH14/EX14.11/Example11.sce#S##58169
+14#Essential Shell Programming#14.10#Program 10#Result10.pdf#1088/CH14/EX14.10/Result10.pdf#R##45968
+14#Essential Shell Programming#14.10#Program 10#Result10.txt#1088/CH14/EX14.10/Result10.txt#R##45967
+14#Essential Shell Programming#14.10#Program 10#Example10.sce#1088/CH14/EX14.10/Example10.sce#S##58168
+14#Essential Shell Programming#14.1#Program 1#Example1.sce#1088/CH14/EX14.1/Example1.sce#S##58159
+14#Essential Shell Programming#14.1#Program 1#Result1.txt#1088/CH14/EX14.1/Result1.txt#R##43621
+14#Essential Shell Programming#14.1#Program 1#Results1.txt#1088/CH14/EX14.1/Results1.txt#R##43622
+5#Handling Ordinary Files#5.8#cmp command#Example8.sce#1088/CH5/EX5.8/Example8.sce#S##58151
+5#Handling Ordinary Files#5.8#cmp command#Result8.txt#1088/CH5/EX5.8/Result8.txt#R##43907
+5#Handling Ordinary Files#5.8#cmp command#Result8.pdf#1088/CH5/EX5.8/Result8.pdf#R##43908
+5#Handling Ordinary Files#5.7#od command#Result7.pdf#1088/CH5/EX5.7/Result7.pdf#R##43905
+5#Handling Ordinary Files#5.7#od command#Example7.sce#1088/CH5/EX5.7/Example7.sce#S##58152
+5#Handling Ordinary Files#5.7#od command#Result7.txt#1088/CH5/EX5.7/Result7.txt#R##43904
+5#Handling Ordinary Files#5.6#wc command#Example6.sce#1088/CH5/EX5.6/Example6.sce#S##58153
+5#Handling Ordinary Files#5.6#wc command#Result6.txt#1088/CH5/EX5.6/Result6.txt#R##43898
+5#Handling Ordinary Files#5.6#wc command#Result6.pdf#1088/CH5/EX5.6/Result6.pdf#R##43899
+5#Handling Ordinary Files#5.5#lp command#Example5.sce#1088/CH5/EX5.5/Example5.sce#S##58154
+5#Handling Ordinary Files#5.5#lp command#Result5.txt#1088/CH5/EX5.5/Result5.txt#R##43886
+5#Handling Ordinary Files#5.5#lp command#Result5.pdf#1088/CH5/EX5.5/Result5.pdf#R##43887
+5#Handling Ordinary Files#5.4#mv command#Example4.sce#1088/CH5/EX5.4/Example4.sce#S##58155
+5#Handling Ordinary Files#5.4#mv command#Result4.txt#1088/CH5/EX5.4/Result4.txt#R##43883
+5#Handling Ordinary Files#5.4#mv command#Result4.pdf#1088/CH5/EX5.4/Result4.pdf#R##43884
+5#Handling Ordinary Files#5.3#rm command#Example3.sce#1088/CH5/EX5.3/Example3.sce#S##58156
+5#Handling Ordinary Files#5.3#rm command#Result3.txt#1088/CH5/EX5.3/Result3.txt#R##43880
+5#Handling Ordinary Files#5.3#rm command#Result3.pdf#1088/CH5/EX5.3/Result3.pdf#R##43881
+5#Handling Ordinary Files#5.2#cp command#Example2.sce#1088/CH5/EX5.2/Example2.sce#S##58157
+5#Handling Ordinary Files#5.2#cp command#Result2.txt#1088/CH5/EX5.2/Result2.txt#R##43877
+5#Handling Ordinary Files#5.2#cp command#Result2.pdf#1088/CH5/EX5.2/Result2.pdf#R##43878
+5#Handling Ordinary Files#5.1#cat command#Example1.sce#1088/CH5/EX5.1/Example1.sce#S##58158
+5#Handling Ordinary Files#5.1#cat command#Result1.txt#1088/CH5/EX5.1/Result1.txt#R##43874
+5#Handling Ordinary Files#5.1#cat command#Result1.pdf#1088/CH5/EX5.1/Result1.pdf#R##43875
+4#The File System#4.7#ls command#Example7.sce#1088/CH4/EX4.7/Example7.sce#S##58144
+4#The File System#4.7#ls command#Result7.txt#1088/CH4/EX4.7/Result7.txt#R##43618
+4#The File System#4.7#ls command#Result7.pdf#1088/CH4/EX4.7/Result7.pdf#R##43619
+4#The File System#4.6#Relative Pathnames#Example6.sce#1088/CH4/EX4.6/Example6.sce#S##58145
+4#The File System#4.6#Relative Pathnames#Result6.txt#1088/CH4/EX4.6/Result6.txt#R##43615
+4#The File System#4.6#Relative Pathnames#Result6.pdf#1088/CH4/EX4.6/Result6.pdf#R##43616
+4#The File System#4.5#Removing Directories#Example5.sce#1088/CH4/EX4.5/Example5.sce#S##58146
+4#The File System#4.5#Removing Directories#Result5.txt#1088/CH4/EX4.5/Result5.txt#R##43612
+4#The File System#4.5#Removing Directories#Result5.pdf#1088/CH4/EX4.5/Result5.pdf#R##43613
+4#The File System#4.4#Creating Directories#Example4.sce#1088/CH4/EX4.4/Example4.sce#S##58147
+4#The File System#4.4#Creating Directories#Result4.txt#1088/CH4/EX4.4/Result4.txt#R##43609
+4#The File System#4.4#Creating Directories#Result4.pdf#1088/CH4/EX4.4/Result4.pdf#R##43610
+4#The File System#4.3#Changing Directory#Example3.sce#1088/CH4/EX4.3/Example3.sce#S##58148
+4#The File System#4.3#Changing Directory#Result3.txt#1088/CH4/EX4.3/Result3.txt#R##43606
+4#The File System#4.3#Changing Directory#Result3.pdf#1088/CH4/EX4.3/Result3.pdf#R##43607
+4#The File System#4.2#Current working Directory#Example2.sce#1088/CH4/EX4.2/Example2.sce#S##58149
+4#The File System#4.2#Current working Directory#Result2.txt#1088/CH4/EX4.2/Result2.txt#R##43603
+4#The File System#4.2#Current working Directory#Result2.pdf#1088/CH4/EX4.2/Result2.pdf#R##43604
+4#The File System#4.1#Displaying the home directory#Example1.sce#1088/CH4/EX4.1/Example1.sce#S##58150
+4#The File System#4.1#Displaying the home directory#Result1.txt#1088/CH4/EX4.1/Result1.txt#R##43600
+4#The File System#4.1#Displaying the home directory#Result1.pdf#1088/CH4/EX4.1/Result1.pdf#R##43601
+3#General Purpose Utilities#3.7#Session recording by script#Example7.sce#1088/CH3/EX3.7/Example7.sce#S##58137
+3#General Purpose Utilities#3.7#Session recording by script#Result7.txt#1088/CH3/EX3.7/Result7.txt#R##43156
+3#General Purpose Utilities#3.7#Session recording by script#Result7.pdf#1088/CH3/EX3.7/Result7.pdf#R##43157
+3#General Purpose Utilities#3.6#Calculator#Example6.sce#1088/CH3/EX3.6/Example6.sce#S##58138
+3#General Purpose Utilities#3.6#Calculator#Result6.txt#1088/CH3/EX3.6/Result6.txt#R##43153
+3#General Purpose Utilities#3.6#Calculator#Result6.pdf#1088/CH3/EX3.6/Result6.pdf#R##43154
+3#General Purpose Utilities#3.5#hexadecimal printing#Example5.sce#1088/CH3/EX3.5/Example5.sce#S##58139
+3#General Purpose Utilities#3.5#hexadecimal printing#Result5.txt#1088/CH3/EX3.5/Result5.txt#R##43150
+3#General Purpose Utilities#3.5#hexadecimal printing#Result5.pdf#1088/CH3/EX3.5/Result5.pdf#R##43151
+3#General Purpose Utilities#3.4#printf usage#Example4.sce#1088/CH3/EX3.4/Example4.sce#S##58140
+3#General Purpose Utilities#3.4#printf usage#Result4.txt#1088/CH3/EX3.4/Result4.txt#R##43147
+3#General Purpose Utilities#3.4#printf usage#Result4.pdf#1088/CH3/EX3.4/Result4.pdf#R##43148
+3#General Purpose Utilities#3.3#Use of echo#Example3.sce#1088/CH3/EX3.3/Example3.sce#S##58141
+3#General Purpose Utilities#3.3#Use of echo#Result3.txt#1088/CH3/EX3.3/Result3.txt#R##43144
+3#General Purpose Utilities#3.3#Use of echo#Result3.pdf#1088/CH3/EX3.3/Result3.pdf#R##43145
+3#General Purpose Utilities#3.2#Date and Time#Example2.sce#1088/CH3/EX3.2/Example2.sce#S##58142
+3#General Purpose Utilities#3.2#Date and Time#Result2.txt#1088/CH3/EX3.2/Result2.txt#R##43141
+3#General Purpose Utilities#3.2#Date and Time#Result2.pdf#1088/CH3/EX3.2/Result2.pdf#R##43142
+3#General Purpose Utilities#3.11#Terminal Name#Example9.sce#1088/CH3/EX3.11/Example9.sce#S##58135
+3#General Purpose Utilities#3.11#Terminal Name#Result11.txt#1088/CH3/EX3.11/Result11.txt#R##43162
+3#General Purpose Utilities#3.11#Terminal Name#Result11.pdf#1088/CH3/EX3.11/Result11.pdf#R##43163
+3#General Purpose Utilities#3.10#Machine Characteristics#Example8.sce#1088/CH3/EX3.10/Example8.sce#S##58136
+3#General Purpose Utilities#3.10#Machine Characteristics#Result10.txt#1088/CH3/EX3.10/Result10.txt#R##43159
+3#General Purpose Utilities#3.10#Machine Characteristics#Result10.pdf#1088/CH3/EX3.10/Result10.pdf#R##43160
+3#General Purpose Utilities#3.1#Calendar#Example1.sce#1088/CH3/EX3.1/Example1.sce#S##58143
+3#General Purpose Utilities#3.1#Calendar#Result1.txt#1088/CH3/EX3.1/Result1.txt#R##43138
+3#General Purpose Utilities#3.1#Calendar#Result1.pdf#1088/CH3/EX3.1/Result1.pdf#R##43139
+2#The Unix Architecture and Command Usage#2.5#Man Pages#Example5.sce#1088/CH2/EX2.5/Example5.sce#S##58130
+2#The Unix Architecture and Command Usage#2.5#Man Pages#Result5.txt#1088/CH2/EX2.5/Result5.txt#R##43025
+2#The Unix Architecture and Command Usage#2.5#Man Pages#Result5.pdf#1088/CH2/EX2.5/Result5.pdf#R##43026
+2#The Unix Architecture and Command Usage#2.4#Option using#Example4.sce#1088/CH2/EX2.4/Example4.sce#S##58131
+2#The Unix Architecture and Command Usage#2.4#Option using#Result4.txt#1088/CH2/EX2.4/Result4.txt#R##43022
+2#The Unix Architecture and Command Usage#2.4#Option using#Result4.pdf#1088/CH2/EX2.4/Result4.pdf#R##43023
+2#The Unix Architecture and Command Usage#2.3#Path Variable#Example3.sce#1088/CH2/EX2.3/Example3.sce#S##58132
+2#The Unix Architecture and Command Usage#2.3#Path Variable#Result3.txt#1088/CH2/EX2.3/Result3.txt#R##43019
+2#The Unix Architecture and Command Usage#2.3#Path Variable#Result3.pdf#1088/CH2/EX2.3/Result3.pdf#R##43020
+2#The Unix Architecture and Command Usage#2.2#Type of keywords#Example2.sce#1088/CH2/EX2.2/Example2.sce#S##58133
+2#The Unix Architecture and Command Usage#2.2#Type of keywords#Result2.txt#1088/CH2/EX2.2/Result2.txt#R##43016
+2#The Unix Architecture and Command Usage#2.2#Type of keywords#Result2.pdf#1088/CH2/EX2.2/Result2.pdf#R##43017
+2#The Unix Architecture and Command Usage#2.1#Shell Name#Example1.sce#1088/CH2/EX2.1/Example1.sce#S##58134
+2#The Unix Architecture and Command Usage#2.1#Shell Name#Result1.txt#1088/CH2/EX2.1/Result1.txt#R##43013
+2#The Unix Architecture and Command Usage#2.1#Shell Name#Result1.pdf#1088/CH2/EX2.1/Result1.pdf#R##43014
+1#Getting Started#1.9#Exitting#Example9.sce#1088/CH1/EX1.9/Example9.sce#S##58126
+1#Getting Started#1.9#Exitting#Result9.txt#1088/CH1/EX1.9/Result9.txt#R##43010
+1#Getting Started#1.9#Exitting#Result9.pdf#1088/CH1/EX1.9/Result9.pdf#R##43011
+1#Getting Started#1.8#Programming basics#Example8.sce#1088/CH1/EX1.8/Example8.sce#S##58127
+1#Getting Started#1.8#Programming basics#Result8.txt#1088/CH1/EX1.8/Result8.txt#R##43007
+1#Getting Started#1.8#Programming basics#Result8.pdf#1088/CH1/EX1.8/Result8.pdf#R##43008
+1#Getting Started#1.7#Number of files Unix only#Example7.sce#1088/CH1/EX1.7/Example7.sce#S##58128
+1#Getting Started#1.7#Number of files Unix only#Result7.txt#1088/CH1/EX1.7/Result7.txt#R##43004
+1#Getting Started#1.7#Number of files Unix only#Result7.pdf#1088/CH1/EX1.7/Result7.pdf#R##43005
+1#Getting Started#1.6#Listing Files#Example6.sce#1088/CH1/EX1.6/Example6.sce#S##58129
+1#Getting Started#1.6#Listing Files#Result6.txt#1088/CH1/EX1.6/Result6.txt#R##43001
+1#Getting Started#1.6#Listing Files#Result6.pdf#1088/CH1/EX1.6/Result6.pdf#R##43002
+1#Getting Started#1.5#Processes#Example5.sce#1088/CH1/EX1.5/Example5.sce#S##58125
+1#Getting Started#1.5#Processes#Result5.txt#1088/CH1/EX1.5/Result5.txt#R##42998
+1#Getting Started#1.5#Processes#Result5.pdf#1088/CH1/EX1.5/Result5.pdf#R##42999
+1#Getting Started#1.4#Users present#Example4.sce#1088/CH1/EX1.4/Example4.sce#S##58124
+1#Getting Started#1.4#Users present#Result4.txt#1088/CH1/EX1.4/Result4.txt#R##42995
+1#Getting Started#1.4#Users present#Result4.pdf#1088/CH1/EX1.4/Result4.pdf#R##42996
+1#Getting Started#1.3#Calendar display#Example3.sce#1088/CH1/EX1.3/Example3.sce#S##58123
+1#Getting Started#1.3#Calendar display#Result3.txt#1088/CH1/EX1.3/Result3.txt#R##42992
+1#Getting Started#1.3#Calendar display#Result3.pdf#1088/CH1/EX1.3/Result3.pdf#R##42993
+1#Getting Started#1.2#Clearing the Screen#Example2.sce#1088/CH1/EX1.2/Example2.sce#S##58122
+1#Getting Started#1.2#Clearing the Screen#Result2.txt#1088/CH1/EX1.2/Result2.txt#R##42989
+1#Getting Started#1.2#Clearing the Screen#Result2.pdf#1088/CH1/EX1.2/Result2.pdf#R##42990
+1#Getting Started#1.1#Date and Time#Example1.sce#1088/CH1/EX1.1/Example1.sce#S##58121
+1#Getting Started#1.1#Date and Time#Result1.txt#1088/CH1/EX1.1/Result1.txt#R##42986
+1#Getting Started#1.1#Date and Time#Result1.pdf#1088/CH1/EX1.1/Result1.pdf#R##42987

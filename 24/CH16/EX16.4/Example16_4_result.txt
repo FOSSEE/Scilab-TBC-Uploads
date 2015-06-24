@@ -1,0 +1,2 @@
+**Sample Problem 16-4**
+The rotational inertail of X is 6.123063e-004kg.m^2 

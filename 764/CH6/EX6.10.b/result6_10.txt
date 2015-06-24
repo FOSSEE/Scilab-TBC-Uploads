@@ -1,0 +1,112 @@
+-->//(Power Screws) Example 6.10
+ 
+-->//Refer Fig.6.17 on page 204
+ 
+-->//Yield tensile strength of 30C8 Syt (N/mm2)
+ 
+-->Syt = 400
+ Syt  =
+ 
+    400.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 3
+ fs  =
+ 
+    3.  
+ 
+-->//Punched holes diameter d (mm)
+ 
+-->d = 50
+ d  =
+ 
+    50.  
+ 
+-->//Mild steel sheet thickness t (mm)
+ 
+-->t = 1.5
+ t  =
+ 
+    1.5  
+ 
+-->//Ultimate shear strength of the sheet metal Sus (N/mm2)
+ 
+-->Sus = 375
+ Sus  =
+ 
+    375.  
+ 
+-->//Mass density of balls dense (kg/m3)
+ 
+-->dense = 7280
+ dense  =
+ 
+    7280.  
+ 
+-->//Mean radius of balls Rm (mm)
+ 
+-->Rm = 500
+ Rm  =
+ 
+    500.  
+ 
+-->//Assume screw pitch p (mm)
+ 
+-->p = 8
+ p  =
+ 
+    8.  
+ 
+-->//Coefficient of friction mu
+ 
+-->mu = 0.15
+ mu  =
+ 
+    0.15  
+ 
+-->//Minimum lead required lmin (mm)
+ 
+-->lmin = 5 * 4
+ lmin  =
+ 
+    20.  
+ 
+-->//Unit bearing pressure Sb (N/mm2)
+ 
+-->Sb = 18
+ Sb  =
+ 
+    18.  
+ 
+-->//Forward stroke displacement fsd (rad)
+ 
+-->fsd = %pi/2
+ fsd  =
+ 
+    1.5707963  
+ 
+-->//Time required for the forward stroke tf (sec)
+ 
+-->tf = 1
+ tf  =
+ 
+    1.  
+ 
+
+Screw
+
+Nominal diameter of the screw(d) = 50.000000 mm
+
+Core diameter of the screw(dc) = 42.000000 mm
+
+Lead of the screw(l) = 24.000000 mm
+
+Nut
+
+Length of the nut(L) = 72.000000 mm
+
+Mass of each ball(m) = 52.421082 kg
+
+Diameter of each ball(dia) = 239.584467 mm
+ 

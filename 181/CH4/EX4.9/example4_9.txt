@@ -1,0 +1,9 @@
+Circuit Parameters:
+(a)Base Voltage = 0.300 V
+(b)Base Current = 1.500e-005 A
+(c)Emitter Current = 8.000e-004 A
+(d)Collector Current = 7.850e-004 A
+(e)Collector Voltage = -1.075 V
+(f)beta gain = 52.333
+(g)alpha gain = 0.981
+ 

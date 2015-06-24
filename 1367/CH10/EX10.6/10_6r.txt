@@ -1,0 +1,9 @@
+  
+ Weight fraction of errite =    
+ 
+    0.8755622  
+ 
+ Weight Fraction of Cementite =    
+ 
+    0.1244378  
+ 

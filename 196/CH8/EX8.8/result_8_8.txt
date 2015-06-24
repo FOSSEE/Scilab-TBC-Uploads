@@ -1,0 +1,8 @@
+
+ Current across Load Resistor = 0.0010 A 
+
+ Voltage across R  = 1.0000 V 
+
+ Reference Voltage  = 5.0000 V 
+
+ Voltage at terminal 9  = 6.0000 V 

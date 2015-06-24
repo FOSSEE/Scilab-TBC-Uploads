@@ -1,0 +1,2 @@
+(a) Dc output voltage = 9.89V
+(b) PIV = 31.11 V

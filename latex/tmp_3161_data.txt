@@ -1,0 +1,68 @@
+15#Spread Spectrum Modulation#15.3#Sequence length#Ex15_3.sce#3161/CH15/EX15.3/Ex15_3.sce#S##113270
+15#Spread Spectrum Modulation#15.2#Ranging using DS spread spectrum#Ex15_2.sce#3161/CH15/EX15.2/Ex15_2.sce#S##115506
+15#Spread Spectrum Modulation#15.1#Jamming#Ex15_1.sce#3161/CH15/EX15.1/Ex15_1.sce#S##115505
+14#Communication Systems and Component Noises#14.3#Transmitted power of antenna#Ex14_3.sce#3161/CH14/EX14.3/Ex14_3.sce#S##113267
+14#Communication Systems and Component Noises#14.2#Output Noise power#Ex14_2.sce#3161/CH14/EX14.2/Ex14_2.sce#S##113266
+14#Communication Systems and Component Noises#14.1#Thermal noise voltage#Ex14_1.sce#3161/CH14/EX14.1/Ex14_1.sce#S##113265
+13#Information Theory and Coding#13.8#Probability of error#Ex13_8.sce#3161/CH13/EX13.8/Ex13_8.sce#S##113259
+13#Information Theory and Coding#13.4#Channel Capacity#Ex13_4.sce#3161/CH13/EX13.4/Ex13_4.sce#S##113258
+13#Information Theory and Coding#13.16#Probability of error for Trellis decoded modulation#Ex13_16.sce#3161/CH13/EX13.16/Ex13_16.sce#S##113264
+13#Information Theory and Coding#13.15#Power of a Transmitter#Ex13_15.sce#3161/CH13/EX13.15/Ex13_15.sce#S##115504
+13#Information Theory and Coding#13.14#GO back N algorithm#Ex13_14.sce#3161/CH13/EX13.14/Ex13_14.sce#S##113262
+13#Information Theory and Coding#13.12#Turbo code#Ex13_12.sce#3161/CH13/EX13.12/Ex13_12.sce#S##113261
+13#Information Theory and Coding#13.11#Turbo code#Ex13_11.sce#3161/CH13/EX13.11/Ex13_11.sce#S##113260
+13#Information Theory and Coding#13.1#Information rate of source#Ex13_1.sce#3161/CH13/EX13.1/Ex13_1.sce#S##113257
+12#Noise in Pulse Code Modulation and Delta Modulation Systems#12.4#Output SNR in DM including Thermal Noise#Ex12_4.sce#3161/CH12/EX12.4/Ex12_4.sce#S##113256
+12#Noise in Pulse Code Modulation and Delta Modulation Systems#12.3#SNR of Optimal reciver#Ex12_3.sce#3161/CH12/EX12.3/Ex12_3.sce#S##115503
+12#Noise in Pulse Code Modulation and Delta Modulation Systems#12.2#SNR Optimal receiver#Ex12_2.sce#3161/CH12/EX12.2/Ex12_2.sce#S##115502
+11#Optimal Reception of Digital Signal#11.9#Probability of error of QPR System#Ex11_9.sce#3161/CH11/EX11.9/Ex11_9.sce#S##113253
+11#Optimal Reception of Digital Signal#11.8#Error probability in Optimal Reception#Ex11_8.sce#3161/CH11/EX11.8/Ex11_8.sce#S##113252
+11#Optimal Reception of Digital Signal#11.7#Error probability of coherent FSK signal#Ex11_7.sce#3161/CH11/EX11.7/Ex11_7.sce#S##113251
+11#Optimal Reception of Digital Signal#11.6#Error probability of BPSK signal#Ex11_6.sce#3161/CH11/EX11.6/Ex11_6.sce#S##113250
+11#Optimal Reception of Digital Signal#11.5#Probability of error of optimum filter#Ex11_5.sce#3161/CH11/EX11.5/Ex11_5.sce#S##113249
+11#Optimal Reception of Digital Signal#11.4#Decision threshold#Ex11_4.sce#3161/CH11/EX11.4/Ex11_4.sce#S##115501
+11#Optimal Reception of Digital Signal#11.3#Optimal threshold and probability of error#Ex11_3.sce#3161/CH11/EX11.3/Ex11_3.sce#S##115500
+10#Phase Locked Loops#10.7#Phase Locked Loops#Ex10_7.sce#3161/CH10/EX10.7/Ex10_7.sce#S##115499
+10#Phase Locked Loops#10.5#Channel Spacing#Ex10_5.sce#3161/CH10/EX10.5/Ex10_5.sce#S##113245
+10#Phase Locked Loops#10.3#SNR of Phase Discriminator #Ex10_3.sce#3161/CH10/EX10.3/Ex10_3.sce#S##113244
+9#Noise in Frequency Modulation Systems#9.6#SNR at Input#Ex9_6.sce#3161/CH9/EX9.6/Ex9_6.sce#S##113243
+9#Noise in Frequency Modulation Systems#9.3#RC Filter Preemphasis Deemphasis#Ex9_3.sce#3161/CH9/EX9.3/Ex9_3.sce#S##115498
+9#Noise in Frequency Modulation Systems#9.2#FM Limiter Discriminator Demodulator#Ex9_2.sce#3161/CH9/EX9.2/Ex9_2.sce#S##113241
+9#Noise in Frequency Modulation Systems#9.1#SNR of an FM Limiter Discriminator Demodulator#Ex9_1.sce#3161/CH9/EX9.1/Ex9_1.sce#S##115497
+8#Noise in Amplitude Modulation System#8.4#SNR of a Square Demodulator#Ex8_4.sce#3161/CH8/EX8.4/Ex8_4.sce#S##115496
+8#Noise in Amplitude Modulation System#8.3#Minimum transmitter power#Ex8_3.sce#3161/CH8/EX8.3/Ex8_3.sce#S##115495
+8#Noise in Amplitude Modulation System#8.2#Signal strength and noise power density#Ex8_2.sce#3161/CH8/EX8.2/Ex8_2.sce#S##115494
+8#Noise in Amplitude Modulation System#8.1#SNR of SSB signal#Ex8_1.sce#3161/CH8/EX8.1/Ex8_1.sce#S##115493
+7#Mathematical Representation of Noise#7.4#SNR at output of equalizer#Ex7_4.sce#3161/CH7/EX7.4/Ex7_4.sce#S##115492
+7#Mathematical Representation of Noise#7.3#Noise Power#Ex7_3.sce#3161/CH7/EX7.3/Ex7_3.sce#S##115491
+6#Digital Modulation and Transmission#6.6#Roll off factor#Ex6_6.sce#3161/CH6/EX6.6/Ex6_6.sce#S##115490
+6#Digital Modulation and Transmission#6.5#Duobinary decoding #Ex6_5.sce#3161/CH6/EX6.5/Ex6_5.sce#S##113661
+6#Digital Modulation and Transmission#6.4#Bandwidth and Noise susceptibility#Ex6_4.sce#3161/CH6/EX6.4/Ex6_4.sce#S##115489
+6#Digital Modulation and Transmission#6.2#DPSK and DEPSK#Ex6_2.sce#3161/CH6/EX6.2/Ex6_2.sce#S##113230
+6#Digital Modulation and Transmission#6.1#Carrier phase variation#Ex6_1.sce#3161/CH6/EX6.1/Ex6_1.sce#S##113229
+5#Pulse Modulation and Digital Transmission of Analog Signal#5.9#LMS Algorithm#Ex5_9.sce#3161/CH5/EX5.9/Ex5_9.sce#S##113227
+5#Pulse Modulation and Digital Transmission of Analog Signal#5.6#Companding#Ex5_6.sce#3161/CH5/EX5.6/Ex5_6.sce#S##113226
+5#Pulse Modulation and Digital Transmission of Analog Signal#5.5#Calculation of minimum number of Binary digits#Ex5_5.sce#3161/CH5/EX5.5/Ex5_5.sce#S##113225
+5#Pulse Modulation and Digital Transmission of Analog Signal#5.3#Calculation of Guard time#Ex5_3.sce#3161/CH5/EX5.3/Ex5_3.sce#S##115488
+5#Pulse Modulation and Digital Transmission of Analog Signal#5.2#Minimum sampling rate#Ex5_2.sce#3161/CH5/EX5.2/Ex5_2.sce#S##115487
+5#Pulse Modulation and Digital Transmission of Analog Signal#5.11#SNR of a DM system#Ex5_11.sce#3161/CH5/EX5.11/Ex5_11.sce#S##113228
+4#Angle Modulation#4.4#Calculation of Bandwidth#Ex4_4.sce#3161/CH4/EX4.4/Ex4_4.sce#S##113222
+4#Angle Modulation#4.2#Calculation of  frequency parameters#Ex4_2.sce#3161/CH4/EX4.2/Ex4_2.sce#S##115486
+3#Amplitude Modulation Systems#3.8#Calculation of Gain and Power radiated of Antenna#Ex3_8.sce#3161/CH3/EX3.8/Ex3_8.sce#S##115485
+3#Amplitude Modulation Systems#3.7#Calculation of L and C of Power Amplifier#Ex3_7.sce#3161/CH3/EX3.7/Ex3_7.sce#S##115484
+3#Amplitude Modulation Systems#3.4#Transmission Power Efficiency#Ex3_4.sce#3161/CH3/EX3.4/Ex3_4.sce#S##113218
+2#Random Variables and Processes#2.8#Probability Distribution Function#Ex2_8.sce#3161/CH2/EX2.8/Ex2_8.sce#S##113214
+2#Random Variables and Processes#2.7#Optimum Receiver#Ex2_7.sce#3161/CH2/EX2.7/Ex2_7.sce#S##115483
+2#Random Variables and Processes#2.6#Optimum Receiver Algorithm#Ex2_6.sce#3161/CH2/EX2.6/Ex2_6.sce#S##113212
+2#Random Variables and Processes#2.5#Optimum Receiver Algorithm#Ex2_5.sce#3161/CH2/EX2.5/Ex2_5.sce#S##113211
+2#Random Variables and Processes#2.2#Bayes Theorem#Ex2_2.sce#3161/CH2/EX2.2/Ex2_2.sce#S##115482
+2#Random Variables and Processes#2.13#Probability of Error#Ex2_13.sce#3161/CH2/EX2.13/Ex2_13.sce#S##113217
+2#Random Variables and Processes#2.11#Probability of Error#Ex2_11.sce#3161/CH2/EX2.11/Ex2_11.sce#S##113216
+2#Random Variables and Processes#2.10#Probability of Error #Ex2_10.sce#3161/CH2/EX2.10/Ex2_10.sce#S##113215
+2#Random Variables and Processes#2.1#Probability of two Events#Ex2_1.sce#3161/CH2/EX2.1/Ex2_1.sce#S##113209
+1#Introduction of Signals and Spectra#1.6#Autocorrelation#Ex1_6.sce#3161/CH1/EX1.6/Ex1_6.sce#S##113208
+1#Introduction of Signals and Spectra#1.5#Crosscorrelation and Autocorrelation#Ex1_5.sce#3161/CH1/EX1.5/Ex1_5.sce#S##113207
+1#Introduction of Signals and Spectra#1.4#Time shifting#Ex1_4.sce#3161/CH1/EX1.4/Ex1_4.sce#S##113206
+1#Introduction of Signals and Spectra#1.3#Time shifting#Ex1_3.sce#3161/CH1/EX1.3/Ex1_3.sce#S##113205
+1#Introduction of Signals and Spectra#1.2#Calculation of Power#Ex1_2.sce#3161/CH1/EX1.2/Ex1_2.sce#S##113204
+1#Introduction of Signals and Spectra#1.1#Calculation of Energy#Ex1_1.sce#3161/CH1/EX1.1/Ex1_1.sce#S##113203

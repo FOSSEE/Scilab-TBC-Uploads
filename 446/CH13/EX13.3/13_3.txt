@@ -1,0 +1,6 @@
+  
+ Exa-13.3(a)   
+The rate of neutrons emitted from the target is 5.46e+008 particles/second
+ 
+ Exa-13.3(b)   
+The activity after 2.0h is 1.823783e+008/sec 

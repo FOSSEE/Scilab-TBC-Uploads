@@ -1,0 +1,6 @@
+
+ Per-Unit Znew = per-unit Zgiven * (base kVgiven/base kVnew)^2 * (base kVAnew/base kVAgiven)   
+ 
+  = 0.25 * (18/20)^2 * (100/500)   
+
+ Per-Unit Znew = 0.040500 per unit

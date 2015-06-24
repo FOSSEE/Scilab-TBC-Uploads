@@ -1,0 +1,4 @@
+Q of the filter is 4.16
+peak frequency is 2.23 kHertz
+cutoff frequency is 3.08 kHertz
+3-db frequency is 3.43 kHertz

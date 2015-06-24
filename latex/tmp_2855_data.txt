@@ -1,0 +1,147 @@
+13#Networks#13.3#Characteristic impedance and propagation delay#Ex13_3.sce#2855/CH13/EX13.3/Ex13_3.sce#S##116661
+13#Networks#13.2#Calculate Led If R3 C4#Ex13_2.sce#2855/CH13/EX13.2/Ex13_2.sce#S##116744
+13#Networks#13.1#Calculate R9 R7 R8  C4#Ex13_1.sce#2855/CH13/EX13.1/Ex13_1.sce#S##109521
+12#Optical Systems #12.9#Compute Maximum link span#Ex12_9.sce#2855/CH12/EX12.9/Ex12_9.sce#S##110435
+12#Optical Systems #12.8#Compute maximum bit rate#Ex12_8.sce#2855/CH12/EX12.8/Ex12_8.sce#S##110434
+12#Optical Systems #12.7#Compute chromatic dispersion#Ex12_7.sce#2855/CH12/EX12.7/Ex12_7.sce#S##110433
+12#Optical Systems #12.6#Calculate maximum link distance#Ex12_6.sce#2855/CH12/EX12.6/Ex12_6.sce#S##110432
+12#Optical Systems #12.51#Compute the soliton collision length#Ex12_51.sce#2855/CH12/EX12.51/Ex12_51.sce#S##110478
+12#Optical Systems #12.50#Calculate the collision length#Ex12_50.sce#2855/CH12/EX12.50/Ex12_50.sce#S##110477
+12#Optical Systems #12.5#Calculate PIN diode required operating power and total power budget#Ex12_5.sce#2855/CH12/EX12.5/Ex12_5.sce#S##116670
+12#Optical Systems #12.49#Calculate the length of dispersion#Ex12_49.sce#2855/CH12/EX12.49/Ex12_49.sce#S##110476
+12#Optical Systems #12.48#Calculate the maximum modulator spacing#Ex12_48.sce#2855/CH12/EX12.48/Ex12_48.sce#S##110474
+12#Optical Systems #12.47#Compute the bit period#Ex12_47.sce#2855/CH12/EX12.47/Ex12_47.sce#S##110473
+12#Optical Systems #12.46#Calculate the channel spacing#Ex12_46.sce#2855/CH12/EX12.46/Ex12_46.sce#S##110472
+12#Optical Systems #12.45#Compute the number of collision#Ex12_45.sce#2855/CH12/EX12.45/Ex12_45.sce#S##110471
+12#Optical Systems #12.44#Compute the maximum number of soliton#Ex12_44.sce#2855/CH12/EX12.44/Ex12_44.sce#S##110470
+12#Optical Systems #12.43#Calculate the minimum number of soliton#Ex12_43.sce#2855/CH12/EX12.43/Ex12_43.sce#S##110469
+12#Optical Systems #12.42#Calculate the half channel length#Ex12_42.sce#2855/CH12/EX12.42/Ex12_42.sce#S##110468
+12#Optical Systems #12.41#Calculate the collision length#Ex12_41.sce#2855/CH12/EX12.41/Ex12_41.sce#S##110467
+12#Optical Systems #12.40#Compute the standard deviation #Ex12_40.sce#2855/CH12/EX12.40/Ex12_40.sce#S##110466
+12#Optical Systems #12.4#Compute link power budget#Ex12_4.sce#2855/CH12/EX12.4/Ex12_4.sce#S##116669
+12#Optical Systems #12.39#Calculate the system BER#Ex12_39.sce#2855/CH12/EX12.39/Ex12_39.sce#S##110465
+12#Optical Systems #12.38#Compute the standard deviation#Ex12_38.sce#2855/CH12/EX12.38/Ex12_38.sce#S##116675
+12#Optical Systems #12.37#Calculate the solition peak pulse#Ex12_37.sce#2855/CH12/EX12.37/Ex12_37.sce#S##110463
+12#Optical Systems #12.36#Calculate the solition pulse width#Ex12_36.sce#2855/CH12/EX12.36/Ex12_36.sce#S##116674
+12#Optical Systems #12.35#Determine maximum dispersion#Ex12_35.sce#2855/CH12/EX12.35/Ex12_35.sce#S##110461
+12#Optical Systems #12.34#Compute the solition characteristic length#Ex12_34.sce#2855/CH12/EX12.34/Ex12_34.sce#S##110460
+12#Optical Systems #12.33#Compute the maximum bit rate#Ex12_33.sce#2855/CH12/EX12.33/Ex12_33.sce#S##110459
+12#Optical Systems #12.32#Compute the transmission length#Ex12_32.sce#2855/CH12/EX12.32/Ex12_32.sce#S##116673
+12#Optical Systems #12.31#Calculate the optical power in fiber#Ex12_31.sce#2855/CH12/EX12.31/Ex12_31.sce#S##116672
+12#Optical Systems #12.30#Calculate the SNR#Ex12_30.sce#2855/CH12/EX12.30/Ex12_30.sce#S##116671
+12#Optical Systems #12.3#Calculate level of additional power launched#Ex12_3.sce#2855/CH12/EX12.3/Ex12_3.sce#S##116668
+12#Optical Systems #12.29#Total fiber span attenuation #Ex12_29.sce#2855/CH12/EX12.29/Ex12_29.sce#S##110455
+12#Optical Systems #12.28#Calculate the CNR#Ex12_28.sce#2855/CH12/EX12.28/Ex12_28.sce#S##110454
+12#Optical Systems #12.27#Calculate the modulation depth#Ex12_27.sce#2855/CH12/EX12.27/Ex12_27.sce#S##110453
+12#Optical Systems #12.26#Determine the optical receiver responsivity#Ex12_26.sce#2855/CH12/EX12.26/Ex12_26.sce#S##110452
+12#Optical Systems #12.25#Calculate the output voltage of an optical receiver#Ex12_25.sce#2855/CH12/EX12.25/Ex12_25.sce#S##110451
+12#Optical Systems #12.24#Calculate the percentage of optical power reflected  back#Ex12_24.sce#2855/CH12/EX12.24/Ex12_24.sce#S##110450
+12#Optical Systems #12.23#Calculate the required optical power#Ex12_23.sce#2855/CH12/EX12.23/Ex12_23.sce#S##110449
+12#Optical Systems #12.22#Calculate the RIN#Ex12_22.sce#2855/CH12/EX12.22/Ex12_22.sce#S##116667
+12#Optical Systems #12.21#Calculate the CNR #Ex12_21.sce#2855/CH12/EX12.21/Ex12_21.sce#S##110447
+12#Optical Systems #12.20#Calculate the CSO and CTO#Ex12_20.sce#2855/CH12/EX12.20/Ex12_20.sce#S##110446
+12#Optical Systems #12.2#Compute power margin#Ex12_2.sce#2855/CH12/EX12.2/Ex12_2.sce#S##116666
+12#Optical Systems #12.19#Compute the CTO distortion#Ex12_19.sce#2855/CH12/EX12.19/Ex12_19.sce#S##110445
+12#Optical Systems #12.18#Calculate the required AM modulation#Ex12_18.sce#2855/CH12/EX12.18/Ex12_18.sce#S##110444
+12#Optical Systems #12.17#Calculate the CSO distortion#Ex12_17.sce#2855/CH12/EX12.17/Ex12_17.sce#S##110443
+12#Optical Systems #12.16#Calculate maximum dispersion and maximum distance#Ex12_16.sce#2855/CH12/EX12.16/Ex12_16.sce#S##110442
+12#Optical Systems #12.15#Compute maximum dispersion and  nominal distribution#Ex12_15.sce#2855/CH12/EX12.15/Ex12_15.sce#S##110441
+12#Optical Systems #12.14#Calculate maximum dispersion mean link margin sigma link margin#Ex12_14.sce#2855/CH12/EX12.14/Ex12_14.sce#S##110440
+12#Optical Systems #12.13#Calculate the maximum length of optical link#Ex12_13.sce#2855/CH12/EX12.13/Ex12_13.sce#S##110439
+12#Optical Systems #12.12#Calculate maximum length #Ex12_12.sce#2855/CH12/EX12.12/Ex12_12.sce#S##110438
+12#Optical Systems #12.11#Calculate dispersion penalty#Ex12_11.sce#2855/CH12/EX12.11/Ex12_11.sce#S##110437
+12#Optical Systems #12.10#Calculate chromatic dispersion#Ex12_10.sce#2855/CH12/EX12.10/Ex12_10.sce#S##110436
+12#Optical Systems #12.1#Compute power margin#Ex12_1.sce#2855/CH12/EX12.1/Ex12_1.sce#S##116777
+11#Multiplexing#11.3#Value of damping coefficient#Ex11_3.sce#2855/CH11/EX11.3/Ex11_3.sce#S##110310
+11#Multiplexing#11.2#Capacitor value of PLL section #Ex11_2.sce#2855/CH11/EX11.2/Ex11_2.sce#S##110309
+11#Multiplexing#11.1#Cross talk in refrence to the number of channel#Ex11_1.sce#2855/CH11/EX11.1/Ex11_1.sce#S##116662
+10#Optical Modulation#10.2#Biasing range#Ex10_2.sce#2855/CH10/EX10.2/Ex10_2.sce#S##116664
+10#Optical Modulation#10.1#Required Biasing voltage#Ex10_1.sce#2855/CH10/EX10.1/Ex10_1.sce#S##116663
+9#Optical Fibers#9.9#SBS threshold optical power#Ex9_9.sce#2855/CH9/EX9.9/Ex9_9.sce#S##116680
+9#Optical Fibers#9.8#SBS threshold optical power#Ex9_8.sce#2855/CH9/EX9.8/Ex9_8.sce#S##116679
+9#Optical Fibers#9.7#SBS threshold optical power#Ex9_7.sce#2855/CH9/EX9.7/Ex9_7.sce#S##116678
+9#Optical Fibers#9.6#SBS threshold optical power#Ex9_6.sce#2855/CH9/EX9.6/Ex9_6.sce#S##116676
+9#Optical Fibers#9.5#SBS threshold optical power#Ex9_5.sce#2855/CH9/EX9.5/Ex9_5.sce#S##116677
+9#Optical Fibers#9.4#Rayleigh attenuation of an optical fibre #Ex9_4.sce#2855/CH9/EX9.4/Ex9_4.sce#S##110402
+9#Optical Fibers#9.3#Maximum length of optical fibre#Ex9_3.sce#2855/CH9/EX9.3/Ex9_3.sce#S##110401
+9#Optical Fibers#9.28#Compute insertion loss at the joint#Ex9_28.sce#2855/CH9/EX9.28/Ex9_28.sce#S##116659
+9#Optical Fibers#9.27#Compute total insertion loss#Ex9_27.sce#2855/CH9/EX9.27/Ex9_27.sce#S##116658
+9#Optical Fibers#9.26#Compute insertion loss#Ex9_26.sce#2855/CH9/EX9.26/Ex9_26.sce#S##116657
+9#Optical Fibers#9.25#Compute insertion loss#Ex9_25.sce#2855/CH9/EX9.25/Ex9_25.sce#S##116656
+9#Optical Fibers#9.24#Compute the insertion loss#Ex9_24.sce#2855/CH9/EX9.24/Ex9_24.sce#S##110426
+9#Optical Fibers#9.23#Compute total attenuation#Ex9_23.sce#2855/CH9/EX9.23/Ex9_23.sce#S##110421
+9#Optical Fibers#9.22#Compute optical attenuation#Ex9_22.sce#2855/CH9/EX9.22/Ex9_22.sce#S##110420
+9#Optical Fibers#9.21#Total chromatic dispersion#Ex9_21.sce#2855/CH9/EX9.21/Ex9_21.sce#S##110419
+9#Optical Fibers#9.20#Channel capacity#Ex9_20.sce#2855/CH9/EX9.20/Ex9_20.sce#S##110418
+9#Optical Fibers#9.2#Fiber Attenuation#Ex9_2.sce#2855/CH9/EX9.2/Ex9_2.sce#S##110400
+9#Optical Fibers#9.19#Channel capacity#Ex9_19.sce#2855/CH9/EX9.19/Ex9_19.sce#S##110417
+9#Optical Fibers#9.18#RMS pulse broadening#Ex9_18.sce#2855/CH9/EX9.18/Ex9_18.sce#S##110416
+9#Optical Fibers#9.17#RMS pulse chirping#Ex9_17.sce#2855/CH9/EX9.17/Ex9_17.sce#S##110415
+9#Optical Fibers#9.16#Maximum operating bandwidth#Ex9_16.sce#2855/CH9/EX9.16/Ex9_16.sce#S##116746
+9#Optical Fibers#9.15#Maximum operating bandwidth#Ex9_15.sce#2855/CH9/EX9.15/Ex9_15.sce#S##116745
+9#Optical Fibers#9.14#Maximum operating bandwidth#Ex9_14.sce#2855/CH9/EX9.14/Ex9_14.sce#S##116747
+9#Optical Fibers#9.13#Maximum modal number#Ex9_13.sce#2855/CH9/EX9.13/Ex9_13.sce#S##110411
+9#Optical Fibers#9.12#Raman sscattering threshold power#Ex9_12.sce#2855/CH9/EX9.12/Ex9_12.sce#S##116651
+9#Optical Fibers#9.11#Raman scattering threshold power#Ex9_11.sce#2855/CH9/EX9.11/Ex9_11.sce#S##116650
+9#Optical Fibers#9.10#Raman scattering threshold power #Ex9_10.sce#2855/CH9/EX9.10/Ex9_10.sce#S##110408
+9#Optical Fibers#9.1#Compute angle of acceptance critical angle and NA#Ex9_1.sce#2855/CH9/EX9.1/Ex9_1.sce#S##110399
+7#Optical Receivers #7.3#Reference voltage and reference resistor#Ex7_3.sce#2855/CH7/EX7.3/Ex7_3.sce#S##109520
+7#Optical Receivers #7.2#Value of Radj#Ex7_2.sce#2855/CH7/EX7.2/Ex7_2.sce#S##116649
+7#Optical Receivers #7.1#PWD of optical receiver#Ex7_1.sce#2855/CH7/EX7.1/Ex7_1.sce#S##109518
+6#Optical Transmittor#6.9#Total power dissipation#Ex6_9.sce#2855/CH6/EX6.9/Ex6_9.sce#S##110290
+6#Optical Transmittor#6.8#compute external resistance and alarm current#Ex6_8.sce#2855/CH6/EX6.8/Ex6_8.sce#S##116648
+6#Optical Transmittor#6.7#Find bandwidth for optical one and zero#Ex6_7.sce#2855/CH6/EX6.7/Ex6_7.sce#S##110288
+6#Optical Transmittor#6.6#Compute required reference current#Ex6_6.sce#2855/CH6/EX6.6/Ex6_6.sce#S##110287
+6#Optical Transmittor#6.5#calculate value of r1 r2 r3 and c1#Ex6_5.sce#2855/CH6/EX6.5/Ex6_5.sce#S##110286
+6#Optical Transmittor#6.4#Find Junction Temperature#Ex6_4.sce#2855/CH6/EX6.4/Ex6_4.sce#S##110285
+6#Optical Transmittor#6.3#Determine wheather heat sink#Ex6_3.sce#2855/CH6/EX6.3/Ex6_3.sce#S##110284
+6#Optical Transmittor#6.2#determine whether or not heat sink#Ex6_2.sce#2855/CH6/EX6.2/Ex6_2.sce#S##110283
+6#Optical Transmittor#6.19#Calculate the effective low frequency component#Ex6_19.sce#2855/CH6/EX6.19/Ex6_19.sce#S##110306
+6#Optical Transmittor#6.18#Calculate effective hight frequency component#Ex6_18.sce#2855/CH6/EX6.18/Ex6_18.sce#S##110303
+6#Optical Transmittor#6.17#Calculate noise bandwidth#Ex6_17.sce#2855/CH6/EX6.17/Ex6_17.sce#S##110302
+6#Optical Transmittor#6.16#compute low frequency component#Ex6_16.sce#2855/CH6/EX6.16/Ex6_16.sce#S##110300
+6#Optical Transmittor#6.15#Calculate high frequency component#Ex6_15.sce#2855/CH6/EX6.15/Ex6_15.sce#S##110298
+6#Optical Transmittor#6.14#Allowed parasitic cable inductance#Ex6_14.sce#2855/CH6/EX6.14/Ex6_14.sce#S##110297
+6#Optical Transmittor#6.13#Compute intermediate frequency#Ex6_13.sce#2855/CH6/EX6.13/Ex6_13.sce#S##110295
+6#Optical Transmittor#6.12#Compute differential mode and common mode impedance#Ex6_12.sce#2855/CH6/EX6.12/Ex6_12.sce#S##110294
+6#Optical Transmittor#6.11#Calculate differential and common mode impedance#Ex6_11.sce#2855/CH6/EX6.11/Ex6_11.sce#S##116776
+6#Optical Transmittor#6.10#find  maximum power dissipation#Ex6_10.sce#2855/CH6/EX6.10/Ex6_10.sce#S##110292
+6#Optical Transmittor#6.1#Determine whether heat sink or not#Ex6_1.sce#2855/CH6/EX6.1/Ex6_1.sce#S##110282
+5#Optical Amplifiers#5.2#Compute pseudo random binary sequence#Ex5_2.sce#2855/CH5/EX5.2/Ex5_2.sce#S##116646
+5#Optical Amplifiers#5.1#Input power#Ex5_1.sce#2855/CH5/EX5.1/Ex5_1.sce#S##109516
+4#Optical Detectors#4.3#Photon  Lifetime#Ex4_3.sce#2855/CH4/EX4.3/Ex4_3.sce#S##109515
+4#Optical Detectors#4.2#MTBF of photodetector#Ex4_2.sce#2855/CH4/EX4.2/Ex4_2.sce#S##116749
+4#Optical Detectors#4.1#Response time of PIN photodetector#Ex4_1.sce#2855/CH4/EX4.1/Ex4_1.sce#S##109513
+3#Optical Sources #3.7#Calculate MTBF#Ex3_7.sce#2855/CH3/EX3.7/Ex3_7.sce#S##109512
+3#Optical Sources #3.6#MTBF of LED source#Ex3_6.sce#2855/CH3/EX3.6/Ex3_6.sce#S##109511
+3#Optical Sources #3.5#Coupling efficiency#Ex3_5.sce#2855/CH3/EX3.5/Ex3_5.sce#S##109510
+3#Optical Sources #3.4#Coupling efficiency of an optical source#Ex3_4.sce#2855/CH3/EX3.4/Ex3_4.sce#S##109509
+3#Optical Sources #3.3#Bandwidth of Led Source#Ex3_3.sce#2855/CH3/EX3.3/Ex3_3.sce#S##109508
+3#Optical Sources #3.2#Power Coupled into fiber#Ex3_2.sce#2855/CH3/EX3.2/Ex3_2.sce#S##109507
+3#Optical Sources #3.1#Determine the power coupled into fiber#Ex3_1.sce#2855/CH3/EX3.1/Ex3_1.sce#S##109506
+2#Fundamental of Semi Conductor Theory #2.8#calculate radiative minority#Ex2_8.sce#2855/CH2/EX2.8/Ex2_8.sce#S##116645
+2#Fundamental of Semi Conductor Theory #2.7#compute saturation current#Ex2_7.sce#2855/CH2/EX2.7/Ex2_7.sce#S##110278
+2#Fundamental of Semi Conductor Theory #2.6#Calculate current#Ex2_6.sce#2855/CH2/EX2.6/Ex2_6.sce#S##116644
+2#Fundamental of Semi Conductor Theory #2.5#Find barrier voltage#Ex2_5.sce#2855/CH2/EX2.5/Ex2_5.sce#S##116643
+2#Fundamental of Semi Conductor Theory #2.4#Find electron density and  type of semi conductor and extrensic semiconductivity#Ex2_4.sce#2855/CH2/EX2.4/Ex2_4.sce#S##110274
+2#Fundamental of Semi Conductor Theory #2.3#Find carrier velocity and current density#Ex2_3.sce#2855/CH2/EX2.3/Ex2_3.sce#S##110277
+2#Fundamental of Semi Conductor Theory #2.2#Find band gap energy#Ex2_2.sce#2855/CH2/EX2.2/Ex2_2.sce#S##110275
+2#Fundamental of Semi Conductor Theory #2.1#maximum number of electron#Ex2_1.sce#2855/CH2/EX2.1/Ex2_1.sce#S##110276
+1#Elements of Optics And Quantum Physics #1.9#Compute length of Tube#Ex1_9.sce#2855/CH1/EX1.9/Ex1_9.sce#S##110265
+1#Elements of Optics And Quantum Physics #1.8#Ratio of input output intensity#Ex1_8.sce#2855/CH1/EX1.8/Ex1_8.sce#S##116642
+1#Elements of Optics And Quantum Physics #1.7#Find wavelength of Light#Ex1_7.sce#2855/CH1/EX1.7/Ex1_7.sce#S##110263
+1#Elements of Optics And Quantum Physics #1.6#find wavelength#Ex1_6.sce#2855/CH1/EX1.6/Ex1_6.sce#S##110262
+1#Elements of Optics And Quantum Physics #1.5#Find Phase velocity#Ex1_5.sce#2855/CH1/EX1.5/Ex1_5.sce#S##110261
+1#Elements of Optics And Quantum Physics #1.4#Find optical Path and angle phi#Ex1_4.sce#2855/CH1/EX1.4/Ex1_4.sce#S##110260
+1#Elements of Optics And Quantum Physics #1.3#Angle of refration and Deviation#Ex1_3.sce#2855/CH1/EX1.3/Ex1_3.sce#S##116641
+1#Elements of Optics And Quantum Physics #1.2#Calculate angle of refraction velocity wavelength#Ex1_2.sce#2855/CH1/EX1.2/Ex1_2.sce#S##116640
+1#Elements of Optics And Quantum Physics #1.18#Compute uncertainity in electron velocity#Ex1_18.sce#2855/CH1/EX1.18/Ex1_18.sce#S##110272
+1#Elements of Optics And Quantum Physics #1.17#Voltage required to accelerate an electron#Ex1_17.sce#2855/CH1/EX1.17/Ex1_17.sce#S##110359
+1#Elements of Optics And Quantum Physics #1.16#Compute the constant phi#Ex1_16.sce#2855/CH1/EX1.16/Ex1_16.sce#S##110271
+1#Elements of Optics And Quantum Physics #1.15#Find wavelength#Ex1_15.sce#2855/CH1/EX1.15/Ex1_15.sce#S##110270
+1#Elements of Optics And Quantum Physics #1.14#find time difference and phase difference#Ex1_14.sce#2855/CH1/EX1.14/Ex1_14.sce#S##110273
+1#Elements of Optics And Quantum Physics #1.13#Angle between polariser and analyzer#Ex1_13.sce#2855/CH1/EX1.13/Ex1_13.sce#S##110269
+1#Elements of Optics And Quantum Physics #1.12#Ratio of Optical Ray#Ex1_12.sce#2855/CH1/EX1.12/Ex1_12.sce#S##110268
+1#Elements of Optics And Quantum Physics #1.11#Number of refractive Plates#Ex1_11.sce#2855/CH1/EX1.11/Ex1_11.sce#S##110267
+1#Elements of Optics And Quantum Physics #1.10#Degree of polarisation#Ex1_10.sce#2855/CH1/EX1.10/Ex1_10.sce#S##110266
+1#Elements of Optics And Quantum Physics #1.1#Arrival time difference between two monochromatic optical beams#Ex1_1.sce#2855/CH1/EX1.1/Ex1_1.sce#S##116639

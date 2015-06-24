@@ -1,0 +1,13 @@
+  
+ Example 4.35   
+Thus the elements of the equivalent circuit are:
+Rm=13964.632361ohms
+Xm=11.763476ohms
+
+R1=0.015000ohms
+rotor resistance referred to stator side,R2=0.437675ohms
+equivalent resistance referred to stator side,Re=0.452675ohms
+
+X1=0.600245ohms
+rotor reactance referred to stator side,X2=0.600245ohms
+equivalent reactance referred to stator side,Xe=1.200490ohms 

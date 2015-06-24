@@ -1,0 +1,104 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example6.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            1   
+ 
+ Chapter Title                         :                                             GETTING STARTED   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 6  :  Display all the files in the current directory and files beginning with ->Ex<-   
+
+*******************************************************************
+ 
+ Answer     :    
+Press [Enter] to continue 
+ Files in the current directory    
+ ans  =
+ 
+!Result6.txt    !
+!               !
+!Result5_0.txt  !
+!               !
+!Result5.txt    !
+!               !
+!Result5.pdf    !
+!               !
+!Result4.txt    !
+!               !
+!Result4.pdf    !
+!               !
+!Result3.txt    !
+!               !
+!Result3.pdf    !
+!               !
+!Result2.txt    !
+!               !
+!Result2.pdf    !
+!               !
+!Result1.txt    !
+!               !
+!Result1.pdf    !
+!               !
+!Result1.docx   !
+!               !
+!Example9.sci   !
+!               !
+!Example8.sci   !
+!               !
+!Example7.sci   !
+!               !
+!Example6.sci   !
+!               !
+!Example5.sci   !
+!               !
+!Example4.sci   !
+!               !
+!Example3.sci   !
+!               !
+!Example2.sci   !
+!               !
+!Example1.sci   !
+Press Enter to see files beginning with ->Ex<-
+-------------------------------------------------------------------------------------------------
+ 
+ Files Beginning with ->Ex<-   
+ ans  =
+ 
+!Example9.sci  !
+!              !
+!Example8.sci  !
+!              !
+!Example7.sci  !
+!              !
+!Example6.sci  !
+!              !
+!Example5.sci  !
+!              !
+!Example4.sci  !
+!              !
+!Example3.sci  !
+!              !
+!Example2.sci  !
+!              !
+!Example1.sci  !
+
+*******************************************************************
+ 
+-->diary('Result6.txt','close')

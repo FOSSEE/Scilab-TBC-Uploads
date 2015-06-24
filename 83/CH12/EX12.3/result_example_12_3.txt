@@ -1,0 +1,20 @@
+ 
+
+Alpha=20.5 deg
+Current to infinte bus=1+j0.181 pu
+Voltage behind transient reactance= E'= 0.892+j0.6 pu = 1.075 @33.9 deg pu
+
+Maximum power that can be transferred under the following condition is
+
+(a)System Healthy:
+Pmax=1.79 pu
+Pe=1.79 sin(delta) pu
+
+(b)One line shorted in the middle:
+Pmax=0.6933 pu
+Pe=0.6933 sin(delta) pu
+
+(c)One line open :
+Pmax=1.2643 pu
+Pe=1.2643 sin(delta) pu 
+

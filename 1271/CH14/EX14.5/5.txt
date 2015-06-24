@@ -1,0 +1,5 @@
+ # PROBLEM 5 # 
+Standard formula used 
+ E = h*c/lambda 
+
+ Wavelength is 3972.000000 Angstrom.

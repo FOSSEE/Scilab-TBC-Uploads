@@ -1,0 +1,4 @@
+grain diameter for ASTM no. 12 (in mm) =    
+ 
+    0.0056120  
+ 

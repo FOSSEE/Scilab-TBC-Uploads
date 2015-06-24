@@ -1,0 +1,1 @@
+Reverse saturation point of current is 2.94 mu-A

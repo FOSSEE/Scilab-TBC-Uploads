@@ -1,0 +1,2 @@
+ Beam divergence angle in first case = 8.757674e-04 radian. 
+ Beam divergence angle in second case = 2.652582e-05 radian. 

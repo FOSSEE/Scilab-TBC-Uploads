@@ -1,0 +1,1 @@
+ Acoustic power = 1.580000e-06 watt.

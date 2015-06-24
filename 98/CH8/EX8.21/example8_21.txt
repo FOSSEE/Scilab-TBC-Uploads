@@ -1,0 +1,9 @@
+Total weight of 1m length of conductor = 1.875 kg 
+
+Working tension = 8192/f kg 
+
+Slant sag = 3.92 m 
+
+Safety factor = 3 
+
+

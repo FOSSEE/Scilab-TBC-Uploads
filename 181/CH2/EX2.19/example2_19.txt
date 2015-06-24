@@ -1,0 +1,7 @@
+(a)Let the reverse saturation current for Ge at 25 degrees be Io(25)
+The factor to be multiplied when temperature is raised to 70 degrees is 23
+Therefore, Io(70) = 23*Io(25)
+
+(b)Let the reverse saturation current for Si at 25 degrees be Io(25)
+The factor to be multiplied when temperature is raised to 150 degrees is 5793
+Therefore, Io(150) = 5793*Io(25) 

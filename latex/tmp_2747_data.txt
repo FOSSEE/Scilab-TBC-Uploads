@@ -1,0 +1,83 @@
+16#Combustion#16.9#Higher heating value calculation#Ex16_9.sce#2747/CH16/EX16.9/Ex16_9.sce#S##98378
+16#Combustion#16.8#Air fuel ratio calculation#Ex16_8.sce#2747/CH16/EX16.8/Ex16_8.sce#S##98377
+16#Combustion#16.7#Air fuel ratio calculation#Ex16_7.sce#2747/CH16/EX16.7/Ex16_7.sce#S##98376
+16#Combustion#16.6#Air fuel ratio calculation#Ex16_6.sce#2747/CH16/EX16.6/Ex16_6.sce#S##98375
+16#Combustion#16.5#Air fuel ratio calculation#Ex16_5.sce#2747/CH16/EX16.5/Ex16_5.sce#S##98374
+16#Combustion#16.4#Air fuel ratio calculation#Ex16_4.sce#2747/CH16/EX16.4/Ex16_4.sce#S##98373
+16#Combustion#16.2#Equation calculation#Ex16_2.sce#2747/CH16/EX16.2/Ex16_2.sce#S##98372
+16#Combustion#16.12#Temperature calculation#Ex16_12.sce#2747/CH16/EX16.12/Ex16_12.sce#S##98381
+16#Combustion#16.11#Heat of reaction calculation#Ex16_11.sce#2747/CH16/EX16.11/Ex16_11.sce#S##98380
+16#Combustion#16.10#Lower heating value calculation#Ex16_10.sce#2747/CH16/EX16.10/Ex16_10.sce#S##98379
+16#Combustion#16.1#Molecule formulation#Ex16_1.sce#2747/CH16/EX16.1/Ex16_1.sce#S##98371
+15#Basic flow equations#15.7#Efficiency calculation#Ex15_7.sce#2747/CH15/EX15.7/Ex15_7.sce#S##98370
+15#Basic flow equations#15.6#Efficiency calculation#Ex15_6.sce#2747/CH15/EX15.6/Ex15_6.sce#S##98369
+15#Basic flow equations#15.5#Friction calculation#Ex15_5.sce#2747/CH15/EX15.5/Ex15_5.sce#S##98368
+15#Basic flow equations#15.4#Friction calculation#Ex15_4.sce#2747/CH15/EX15.4/Ex15_4.sce#S##98367
+15#Basic flow equations#15.3#Work done calculation#Ex15_3.sce#2747/CH15/EX15.3/Ex15_3.sce#S##98366
+15#Basic flow equations#15.1#Temperature and pressure calculations#Ex15_1.sce#2747/CH15/EX15.1/Ex15_1.sce#S##98365
+14#Equilibrium and the third law#14.4#Work done calculations#Ex14_4.sce#2747/CH14/EX14.4/Ex14_4.sce#S##98364
+14#Equilibrium and the third law#14.3#Degree of dissociation calculation#Ex14_3.sce#2747/CH14/EX14.3/Ex14_3.sce#S##98363
+14#Equilibrium and the third law#14.2#Degree of dissociation#Ex14_2.sce#2747/CH14/EX14.2/Ex14_2.sce#S##98362
+14#Equilibrium and the third law#14.1#Equilibrium constant calculations#Ex14_1.sce#2747/CH14/EX14.1/Ex14_1.sce#S##98361
+13#Mixtures#13.9#Percentage calculation#Ex13_9.sce#2747/CH13/EX13.9/Ex13_9.sce#S##98346
+13#Mixtures#13.8#volume and mass calculation#Ex13_8.sce#2747/CH13/EX13.8/Ex13_8.sce#S##98345
+13#Mixtures#13.7#Change in Entropy calculation#Ex13_7.sce#2747/CH13/EX13.7/Ex13_7.sce#S##98344
+13#Mixtures#13.6#Change in Entropy calculation#Ex13_6.sce#2747/CH13/EX13.6/Ex13_6.sce#S##98343
+13#Mixtures#13.5#Pressure and mixing temperature calculation#Ex13_5.sce#2747/CH13/EX13.5/Ex13_5.sce#S##98342
+13#Mixtures#13.4#Internal energy and entropy change calculations#Ex13_4.sce#2747/CH13/EX13.4/Ex13_4.sce#S##98341
+13#Mixtures#13.3#Entropy calculation#Ex13_3.sce#2747/CH13/EX13.3/Ex13_3.sce#S##98340
+13#Mixtures#13.23#Pressure calculation#Ex13_23.sce#2747/CH13/EX13.23/Ex13_23.sce#S##98360
+13#Mixtures#13.22#Pressure calculations#Ex13_22.sce#2747/CH13/EX13.22/Ex13_22.sce#S##98359
+13#Mixtures#13.21#Pressure calculations#Ex13_21.sce#2747/CH13/EX13.21/Ex13_21.sce#S##98358
+13#Mixtures#13.20#cooling range calculations#Ex13_20.sce#2747/CH13/EX13.20/Ex13_20.sce#S##98357
+13#Mixtures#13.2#Volumetric and gravimetric analysis#Ex13_2.sce#2747/CH13/EX13.2/Ex13_2.sce#S##98339
+13#Mixtures#13.19#Humidity calculations#Ex13_19.sce#2747/CH13/EX13.19/Ex13_19.sce#S##98356
+13#Mixtures#13.18#Humidity calculations#Ex13_18.sce#2747/CH13/EX13.18/Ex13_18.sce#S##98355
+13#Mixtures#13.17#Enthalpy change calculation#Ex13_17.sce#2747/CH13/EX13.17/Ex13_17.sce#S##98354
+13#Mixtures#13.16#Partial pressure and humidity calculations#Ex13_16.sce#2747/CH13/EX13.16/Ex13_16.sce#S##98353
+13#Mixtures#13.15#Enthalpy calculation#Ex13_15.sce#2747/CH13/EX13.15/Ex13_15.sce#S##98352
+13#Mixtures#13.14#Enthalpy and sigma function calculation#Ex13_14.sce#2747/CH13/EX13.14/Ex13_14.sce#S##98351
+13#Mixtures#13.13#Humidity calculation#Ex13_13.sce#2747/CH13/EX13.13/Ex13_13.sce#S##98350
+13#Mixtures#13.12#Change in moisture content calculation#Ex13_12.sce#2747/CH13/EX13.12/Ex13_12.sce#S##98349
+13#Mixtures#13.11#Partial pressure and saturation calculations#Ex13_11.sce#2747/CH13/EX13.11/Ex13_11.sce#S##98348
+13#Mixtures#13.10#Partial pressure calculation#Ex13_10.sce#2747/CH13/EX13.10/Ex13_10.sce#S##98347
+13#Mixtures#13.1#Pressure volume calculations#Ex13_1.sce#2747/CH13/EX13.1/Ex13_1.sce#S##98338
+12#The Ideal gas and derivations of real gases#12.4#temperature pressure and work done calculation#Ex12_4.sce#2747/CH12/EX12.4/Ex12_4.sce#S##98337
+12#The Ideal gas and derivations of real gases#12.3#Final temperature calculation#Ex12_3.sce#2747/CH12/EX12.3/Ex12_3.sce#S##98336
+12#The Ideal gas and derivations of real gases#12.2#kinetic energy change#Ex12_2.sce#2747/CH12/EX12.2/Ex12_2.sce#S##98335
+12#The Ideal gas and derivations of real gases#12.1#Work done#Ex12_1.sce#2747/CH12/EX12.1/Ex12_1.sce#S##98334
+10#The pvT relationships#10.3#Pressure calculation#Ex10_3.sce#2747/CH10/EX10.3/Ex10_3.sce#S##98333
+10#The pvT relationships#10.2#volume calculation#Ex10_2.sce#2747/CH10/EX10.2/Ex10_2.sce#S##98332
+10#The pvT relationships#10.1#Pressure calculation#Ex10_1.sce#2747/CH10/EX10.1/Ex10_1.sce#S##98331
+9#Properties of the pure substance#9.8#Heat transferred#Ex9_8.sce#2747/CH9/EX9.8/Ex9_8.sce#S##98321
+9#Properties of the pure substance#9.7#Work done calculation#Ex9_7.sce#2747/CH9/EX9.7/Ex9_7.sce#S##98320
+9#Properties of the pure substance#9.6#Heat transferred#Ex9_6.sce#2747/CH9/EX9.6/Ex9_6.sce#S##98319
+9#Properties of the pure substance#9.5#Enthalpy and quality#Ex9_5.sce#2747/CH9/EX9.5/Ex9_5.sce#S##98318
+9#Properties of the pure substance#9.4#Heat required#Ex9_4.sce#2747/CH9/EX9.4/Ex9_4.sce#S##98317
+9#Properties of the pure substance#9.3#Specific enthalpy calculation#Ex9_3.sce#2747/CH9/EX9.3/Ex9_3.sce#S##98316
+9#Properties of the pure substance#9.2#Change in entropy calculation#Ex9_2.sce#2747/CH9/EX9.2/Ex9_2.sce#S##98315
+9#Properties of the pure substance#9.17#cop calculation#Ex9_17.sce#2747/CH9/EX9.17/Ex9_17.sce#S##98329
+9#Properties of the pure substance#9.16#cop and work calculation#Ex9_16.sce#2747/CH9/EX9.16/Ex9_16.sce#S##98328
+9#Properties of the pure substance#9.15#Efficiency calculation#Ex9_15.sce#2747/CH9/EX9.15/Ex9_15.sce#S##98327
+9#Properties of the pure substance#9.14#Efficiency calculation#Ex9_14.sce#2747/CH9/EX9.14/Ex9_14.sce#S##98326
+9#Properties of the pure substance#9.13#Efficiency calculation#Ex9_13.sce#2747/CH9/EX9.13/Ex9_13.sce#S##98325
+9#Properties of the pure substance#9.12#Efficiency calculation#Ex9_12.sce#2747/CH9/EX9.12/Ex9_12.sce#S##98324
+9#Properties of the pure substance#9.11#Quality calculation#Ex9_11.sce#2747/CH9/EX9.11/Ex9_11.sce#S##98323
+9#Properties of the pure substance#9.10#Work done calculation#Ex9_10.sce#2747/CH9/EX9.10/Ex9_10.sce#S##98322
+9#Properties of the pure substance#9.1#Internal energy calculation#Ex9_1.sce#2747/CH9/EX9.1/Ex9_1.sce#S##98314
+7#The second law#7.5#Energy change calculation#Ex7_5.sce#2747/CH7/EX7.5/Ex7_5.sce#S##98313
+7#The second law#7.4#Thermal efficiency calculation#Ex7_4.sce#2747/CH7/EX7.4/Ex7_4.sce#S##98312
+7#The second law#7.3#Change in entropy calculation#Ex7_3.sce#2747/CH7/EX7.3/Ex7_3.sce#S##98311
+7#The second law#7.2#Entropy and efficiency calculation#Ex7_2.sce#2747/CH7/EX7.2/Ex7_2.sce#S##98310
+5#The first law and the dynamic open system#5.3#Area calculation#Ex5_3.sce#2747/CH5/EX5.3/Ex5_3.sce#S##98309
+5#The first law and the dynamic open system#5.2#Work done and power calculation#Ex5_2.sce#2747/CH5/EX5.2/Ex5_2.sce#S##98308
+3#Temperature and the Ideal gas#3.3#density calculation#Ex3_3.sce#2747/CH3/EX3.3/Ex3_3.sce#S##98307
+3#Temperature and the Ideal gas#3.2#volume calculation#Ex3_2.sce#2747/CH3/EX3.2/Ex3_2.sce#S##98306
+2#Fundamental concepts#2.3#Energy and mass calculation#Ex2_3.sce#2747/CH2/EX2.3/Ex2_3.sce#S##98305
+2#Fundamental concepts#2.1#Potential energy#Ex2_1.sce#2747/CH2/EX2.1/Ex2_1.sce#S##98304
+1#Survey of Units and Dimensions#1.6#density and specific weight#Ex1_6.sce#2747/CH1/EX1.6/Ex1_6.sce#S##98303
+1#Survey of Units and Dimensions#1.5#velocity calculation#Ex1_5.sce#2747/CH1/EX1.5/Ex1_5.sce#S##98302
+1#Survey of Units and Dimensions#1.4#velocity calculation#Ex1_4.sce#2747/CH1/EX1.4/Ex1_4.sce#S##98301
+1#Survey of Units and Dimensions#1.3#Force required#Ex1_3.sce#2747/CH1/EX1.3/Ex1_3.sce#S##98300
+1#Survey of Units and Dimensions#1.2#Force calculation#Ex1_2.sce#2747/CH1/EX1.2/Ex1_2.sce#S##98299
+1#Survey of Units and Dimensions#1.1#Force calculation#Ex1_1.sce#2747/CH1/EX1.1/Ex1_1.sce#S##98298

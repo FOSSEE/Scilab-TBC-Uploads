@@ -1,0 +1,18 @@
+clear;
+clc;
+Za=10;Zb=10;Zc=5;
+Ya=1/Za;Yb=1/Zb;Yc=1/Zc;
+A=1+(Za*Yb);
+printf("The ABCD parameters are:\n");
+printf(" A = %f\n",A);
+B=Za+Zb+(Za*Zb*Yc);
+printf(" B = %f ohm\n",B);
+C=Yc;
+printf(" C = %f mho\n",C);
+D=1+(Zb*Yc);
+printf(" D = %f \n\n",D);
+Zi1=sqrt((A*B)/(C*D));
+printf(" Image impedances of the two port network are:\n");
+printf(" Zi1 = %f ohms\n",round(Zi1*10)/10);
+Zi2=sqrt((D*B)/(A*C));
+printf(" Zi2 = %f ohms",round(Zi2*100)/100);

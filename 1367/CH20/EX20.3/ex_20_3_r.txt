@@ -1,0 +1,4 @@
+
+ Oxidation loss in 300 hours (in mm) =    
+ 
+    0.3464102 

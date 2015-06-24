@@ -1,0 +1,5 @@
+ac load line saturation is 1.04 amperes
+cutoff voltage is 8.35 volts
+MPP output voltage is 7.3 Vpp.
+
+

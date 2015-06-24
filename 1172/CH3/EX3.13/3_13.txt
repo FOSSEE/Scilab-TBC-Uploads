@@ -1,0 +1,5 @@
+ # Problem 13 # 
+
+ Standard formula Used 
+ delta_p * delta_x >= h /(2*pi)
+ Uncertainty in position of electron is 1.923851 mm. 

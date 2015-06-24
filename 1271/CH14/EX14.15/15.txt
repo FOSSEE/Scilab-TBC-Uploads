@@ -1,0 +1,6 @@
+ # PROBLEM 15 # 
+Standard formula used 
+  E = (h * c) * (1 / lambda1 - 1 / lambda2) 
+
+ Stopping potential is 0.411689 V.
+ Maximum kinetic energy is 6.587019e-20 J.

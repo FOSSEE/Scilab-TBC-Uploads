@@ -1,0 +1,5 @@
+ # PROBLEM 3 # 
+Standard formula used 
+ p = (2 * m * E * e)^(1/2) 
+
+ Percentage of uncertainty in momentum is 2.182918.

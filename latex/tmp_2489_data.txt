@@ -1,0 +1,115 @@
+19#PhotoChemistry#19.2#ex 2#19_2.sce#2489/CH19/EX19.2/19_2.sce#S##84440
+19#PhotoChemistry#19.1#ex 1#19_1.sce#2489/CH19/EX19.1/19_1.sce#S##84439
+18#Kinetics of chemical reactions#18.6#ex 6#18_6.sce#2489/CH18/EX18.6/18_6.sce#S##84438
+18#Kinetics of chemical reactions#18.5#ex 5#18_5.sce#2489/CH18/EX18.5/18_5.sce#S##84437
+18#Kinetics of chemical reactions#18.4#ex 4#18_4.sce#2489/CH18/EX18.4/18_4.sce#S##84436
+18#Kinetics of chemical reactions#18.3#ex 3#18_3.sce#2489/CH18/EX18.3/18_3.sce#S##84435
+18#Kinetics of chemical reactions#18.2#ex 2#18_2.sce#2489/CH18/EX18.2/18_2.sce#S##84434
+18#Kinetics of chemical reactions#18.1#ex 1#18_1.sce#2489/CH18/EX18.1/18_1.sce#S##84433
+17#Surface chemistry and colloids#17.2#ex 2#17_2.sce#2489/CH17/EX17.2/17_2.sce#S##84432
+17#Surface chemistry and colloids#17.1#ex 1#17_1.sce#2489/CH17/EX17.1/17_1.sce#S##84425
+16#Hydrolysis and Neutralization#16.9#ex 9#16_9.sce#2489/CH16/EX16.9/16_9.sce#S##84424
+16#Hydrolysis and Neutralization#16.8#ex 8#16_8.sce#2489/CH16/EX16.8/16_8.sce#S##84423
+16#Hydrolysis and Neutralization#16.7#ex 7#16_7.sce#2489/CH16/EX16.7/16_7.sce#S##84422
+16#Hydrolysis and Neutralization#16.6#ex 6#16_6.sce#2489/CH16/EX16.6/16_6.sce#S##84421
+16#Hydrolysis and Neutralization#16.5#ex 5#16_5.sce#2489/CH16/EX16.5/16_5.sce#S##84420
+16#Hydrolysis and Neutralization#16.4#ex 4#16_4.sce#2489/CH16/EX16.4/16_4.sce#S##84419
+16#Hydrolysis and Neutralization#16.3#ex 3#16_3.sce#2489/CH16/EX16.3/16_3.sce#S##84418
+16#Hydrolysis and Neutralization#16.2#ex 2#16_2.sce#2489/CH16/EX16.2/16_2.sce#S##84417
+16#Hydrolysis and Neutralization#16.1#ex 1#16_1.sce#2489/CH16/EX16.1/16_1.sce#S##84416
+15#Equilibria in electrolytes#15.8#ex 8#15_8.sce#2489/CH15/EX15.8/15_8.sce#S##84415
+15#Equilibria in electrolytes#15.7#ex 7#15_7.sce#2489/CH15/EX15.7/15_7.sce#S##84414
+15#Equilibria in electrolytes#15.6#ex 6#15_6.sce#2489/CH15/EX15.6/15_6.sce#S##84413
+15#Equilibria in electrolytes#15.5#ex 5#15_5.sce#2489/CH15/EX15.5/15_5.sce#S##84412
+15#Equilibria in electrolytes#15.4#ex 4#15_4.sce#2489/CH15/EX15.4/15_4.sce#S##84411
+15#Equilibria in electrolytes#15.3#ex 3#15_3.sce#2489/CH15/EX15.3/15_3.sce#S##84410
+15#Equilibria in electrolytes#15.2#ex 2#15_2.sce#2489/CH15/EX15.2/15_2.sce#S##84409
+15#Equilibria in electrolytes#15.1#ex 1#15_1.sce#2489/CH15/EX15.1/15_1.sce#S##84408
+14#Electromotive Force#14.9#ex 9#14_9.sce#2489/CH14/EX14.9/14_9.sce#S##84407
+14#Electromotive Force#14.8#ex 8#14_8.sce#2489/CH14/EX14.8/14_8.sce#S##84406
+14#Electromotive Force#14.7#ex 7#14_7.sce#2489/CH14/EX14.7/14_7.sce#S##84405
+14#Electromotive Force#14.6#ex 6#14_6.sce#2489/CH14/EX14.6/14_6.sce#S##84404
+14#Electromotive Force#14.5#ex 5#14_5.sce#2489/CH14/EX14.5/14_5.sce#S##84403
+14#Electromotive Force#14.4#ex 4#14_4.sce#2489/CH14/EX14.4/14_4.sce#S##84401
+14#Electromotive Force#14.3#ex 3#14_3.sce#2489/CH14/EX14.3/14_3.sce#S##84400
+14#Electromotive Force#14.2#ex 2#14_2.sce#2489/CH14/EX14.2/14_2.sce#S##84399
+14#Electromotive Force#14.1#ex 1#14_1.sce#2489/CH14/EX14.1/14_1.sce#S##84398
+13#The conductance of Electrolytes#13.9#ex 9#13_9.sce#2489/CH13/EX13.9/13_9.sce#S##84397
+13#The conductance of Electrolytes#13.8#ex 8#13_8.sce#2489/CH13/EX13.8/13_8.sce#S##84396
+13#The conductance of Electrolytes#13.7#ex 7#13_7.sce#2489/CH13/EX13.7/13_7.sce#S##84395
+13#The conductance of Electrolytes#13.6#ex 6#13_6.sce#2489/CH13/EX13.6/13_6.sce#S##84394
+13#The conductance of Electrolytes#13.5#ex 5#13_5.sce#2489/CH13/EX13.5/13_5.sce#S##84393
+13#The conductance of Electrolytes#13.4#ex 4#13_4.sce#2489/CH13/EX13.4/13_4.sce#S##89753
+13#The conductance of Electrolytes#13.3#ex 3#13_3.sce#2489/CH13/EX13.3/13_3.sce#S##84391
+13#The conductance of Electrolytes#13.2#ex 2#13_2.sce#2489/CH13/EX13.2/13_2.sce#S##84390
+13#The conductance of Electrolytes#13.1#ex 1#13_1.sce#2489/CH13/EX13.1/13_1.sce#S##84389
+12#Phase equilibria#12.5#ex 5#12_5.sce#2489/CH12/EX12.5/12_5.sce#S##84388
+12#Phase equilibria#12.4#ex 4#12_4.sce#2489/CH12/EX12.4/12_4.sce#S##84387
+12#Phase equilibria#12.3#ex 3#12_3.sce#2489/CH12/EX12.3/12_3.sce#S##84386
+12#Phase equilibria#12.2#ex 2#12_2.sce#2489/CH12/EX12.2/12_2.sce#S##84385
+12#Phase equilibria#12.1#ex 1#12_1.sce#2489/CH12/EX12.1/12_1.sce#S##84384
+11#Free energy and chemical equillibrium#11.4#ex 4#11_4.sce#2489/CH11/EX11.4/11_4.sce#S##84383
+11#Free energy and chemical equillibrium#11.3#ex 3#11_3.sce#2489/CH11/EX11.3/11_3.sce#S##84382
+11#Free energy and chemical equillibrium#11.2#ex 2#11_2.sce#2489/CH11/EX11.2/11_2.sce#S##84381
+11#Free energy and chemical equillibrium#11.1#ex 1#11_1.sce#2489/CH11/EX11.1/11_1.sce#S##84380
+10#Chemical Equillibrium#10.9#ex 9#10_9.sce#2489/CH10/EX10.9/10_9.sce#S##84378
+10#Chemical Equillibrium#10.8#ex 8#10_8.sce#2489/CH10/EX10.8/10_8.sce#S##84377
+10#Chemical Equillibrium#10.7#ex 7#10_7.sce#2489/CH10/EX10.7/10_7.sce#S##84376
+10#Chemical Equillibrium#10.6#ex 6#10_6.sce#2489/CH10/EX10.6/10_6.sce#S##84375
+10#Chemical Equillibrium#10.5#ex 5#10_5.sce#2489/CH10/EX10.5/10_5.sce#S##84374
+10#Chemical Equillibrium#10.4#ex 4#10_4.sce#2489/CH10/EX10.4/10_4.sce#S##84373
+10#Chemical Equillibrium#10.3#ex 3#10_3.sce#2489/CH10/EX10.3/10_3.sce#S##84372
+10#Chemical Equillibrium#10.2#ex 2#10_2.sce#2489/CH10/EX10.2/10_2.sce#S##84371
+10#Chemical Equillibrium#10.10#ex 10#10_10.sce#2489/CH10/EX10.10/10_10.sce#S##84379
+10#Chemical Equillibrium#10.1#ex 1#10_1.sce#2489/CH10/EX10.1/10_1.sce#S##84370
+9#Dilute Solutions#9.6#ex 6#9_6.sce#2489/CH9/EX9.6/9_6.sce#S##84369
+9#Dilute Solutions#9.5#ex 5#9_5.sce#2489/CH9/EX9.5/9_5.sce#S##84368
+9#Dilute Solutions#9.4#ex 4#9_4.sce#2489/CH9/EX9.4/9_4.sce#S##84367
+9#Dilute Solutions#9.3#ex 3#9_3.sce#2489/CH9/EX9.3/9_3.sce#S##84366
+9#Dilute Solutions#9.2#ex 2#9_2.sce#2489/CH9/EX9.2/9_2.sce#S##84365
+9#Dilute Solutions#9.1#ex 1#9_1.sce#2489/CH9/EX9.1/9_1.sce#S##84364
+8#The second law of thermodynamics#8.4#ex 4#8_4.sce#2489/CH8/EX8.4/8_4.sce#S##84363
+8#The second law of thermodynamics#8.3#ex 3#8_3.sce#2489/CH8/EX8.3/8_3.sce#S##84362
+8#The second law of thermodynamics#8.2#ex 2#8_2.sce#2489/CH8/EX8.2/8_2.sce#S##84361
+8#The second law of thermodynamics#8.1#ex 1#8_1.sce#2489/CH8/EX8.1/8_1.sce#S##84360
+7#Thermodynamics and thermochemistry#7.9#ex 9#7_9.sce#2489/CH7/EX7.9/7_9.sce#S##84358
+7#Thermodynamics and thermochemistry#7.8#ex 8#7_8.sce#2489/CH7/EX7.8/7_8.sce#S##84357
+7#Thermodynamics and thermochemistry#7.7#ex 7#7_7.sce#2489/CH7/EX7.7/7_7.sce#S##84356
+7#Thermodynamics and thermochemistry#7.6#ex 6#7_6.sce#2489/CH7/EX7.6/7_6.sce#S##84355
+7#Thermodynamics and thermochemistry#7.5#ex 5#7_5.sce#2489/CH7/EX7.5/7_5.sce#S##84354
+7#Thermodynamics and thermochemistry#7.4#ex 4#7_4.sce#2489/CH7/EX7.4/7_4.sce#S##84353
+7#Thermodynamics and thermochemistry#7.3#ex 3#7_3.sce#2489/CH7/EX7.3/7_3.sce#S##84352
+7#Thermodynamics and thermochemistry#7.2#ex 2#7_2.sce#2489/CH7/EX7.2/7_2.sce#S##84351
+7#Thermodynamics and thermochemistry#7.10#ex 10#7_10.sce#2489/CH7/EX7.10/7_10.sce#S##84359
+7#Thermodynamics and thermochemistry#7.1#ex 1#7_1.sce#2489/CH7/EX7.1/7_1.sce#S##84350
+6#The Solid state#6.2#ex 2#6_2.sce#2489/CH6/EX6.2/6_2.sce#S##84349
+6#The Solid state#6.1#ex 1#6_1.sce#2489/CH6/EX6.1/6_1.sce#S##84348
+5#Liquefication and the properties of liquids#5.9#ex 9#5_9.sce#2489/CH5/EX5.9/5_9.sce#S##84347
+5#Liquefication and the properties of liquids#5.8#ex 8#5_8.sce#2489/CH5/EX5.8/5_8.sce#S##84346
+5#Liquefication and the properties of liquids#5.7#ex 7#5_7.sce#2489/CH5/EX5.7/5_7.sce#S##84345
+5#Liquefication and the properties of liquids#5.6#ex 6#5_6.sce#2489/CH5/EX5.6/5_6.sce#S##84344
+5#Liquefication and the properties of liquids#5.5#ex 5#5_5.sce#2489/CH5/EX5.5/5_5.sce#S##84343
+5#Liquefication and the properties of liquids#5.4#ex 4#5_4.sce#2489/CH5/EX5.4/5_4.sce#S##84342
+5#Liquefication and the properties of liquids#5.3#ex 3#5_3.sce#2489/CH5/EX5.3/5_3.sce#S##84341
+5#Liquefication and the properties of liquids#5.2#ex 2#5_2.sce#2489/CH5/EX5.2/5_2.sce#S##84340
+5#Liquefication and the properties of liquids#5.1#ex 1#5_1.sce#2489/CH5/EX5.1/5_1.sce#S##84339
+4#Electronic structures of atoms and molecules#4.9#ex 9#4_9.sce#2489/CH4/EX4.9/4_9.sce#S##84330
+4#Electronic structures of atoms and molecules#4.8#ex 8#4_8.sce#2489/CH4/EX4.8/4_8.sce#S##84329
+4#Electronic structures of atoms and molecules#4.7#ex 7#4_7.sce#2489/CH4/EX4.7/4_7.sce#S##84328
+4#Electronic structures of atoms and molecules#4.6#ex 6#4_6.sce#2489/CH4/EX4.6/4_6.sce#S##84327
+4#Electronic structures of atoms and molecules#4.5#ex 5#4_5.sce#2489/CH4/EX4.5/4_5.sce#S##84326
+4#Electronic structures of atoms and molecules#4.4#ex 4#4_4.sce#2489/CH4/EX4.4/4_4.sce#S##84325
+4#Electronic structures of atoms and molecules#4.3#ex 3#4_3.sce#2489/CH4/EX4.3/4_3.sce#S##84324
+4#Electronic structures of atoms and molecules#4.2#ex 2#4_2.sce#2489/CH4/EX4.2/4_2.sce#S##84323
+4#Electronic structures of atoms and molecules#4.17#ex 17#4_17.sce#2489/CH4/EX4.17/4_17.sce#S##84338
+4#Electronic structures of atoms and molecules#4.16#ex 16#4_16.sce#2489/CH4/EX4.16/4_16.sce#S##84337
+4#Electronic structures of atoms and molecules#4.15#ex 15#4_15.sce#2489/CH4/EX4.15/4_15.sce#S##84336
+4#Electronic structures of atoms and molecules#4.14#ex 14#4_14.sce#2489/CH4/EX4.14/4_14.sce#S##84335
+4#Electronic structures of atoms and molecules#4.13#ex 13#4_13.sce#2489/CH4/EX4.13/4_13.sce#S##84334
+4#Electronic structures of atoms and molecules#4.12#ex 12#4_12.sce#2489/CH4/EX4.12/4_12.sce#S##84333
+4#Electronic structures of atoms and molecules#4.11#ex 11#4_11.sce#2489/CH4/EX4.11/4_11.sce#S##84332
+4#Electronic structures of atoms and molecules#4.10#ex 10#4_10.sce#2489/CH4/EX4.10/4_10.sce#S##84331
+4#Electronic structures of atoms and molecules#4.1#ex 1#4_1.sce#2489/CH4/EX4.1/4_1.sce#S##84322
+1#Atomic Theory#1.3#ex 3#1_3.sce#2489/CH1/EX1.3/1_3.sce#S##84321
+1#Atomic Theory#1.2#ex 2#1_2.sce#2489/CH1/EX1.2/1_2.sce#S##84320
+1#Atomic Theory#1.1#ex 1#1_1.sce#2489/CH1/EX1.1/1_1.sce#S##84319

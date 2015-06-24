@@ -1,0 +1,31 @@
+ Capacitance = 8.8472e-12 F/m 
+
+
+
+ Capacitive reactance = 0.1863e6 ohm mi 
+
+ 
+ Using capacitive reactance at 1-ft spacing and spacing factor   
+
+
+ Capacitive reactance = 0.1864e6 ohm mi 
+
+ 
+ For a lenght of 175mi   
+
+
+ Capacitive reactance = 1065.1429 ohm to neutral 
+
+
+
+ Charging current per mile = 0.682 A/mi 
+
+ 
+ For a lenght of 175mi   
+
+
+ Charging current = 119 A 
+
+
+
+ Total charging megavolt-amperes = 45.5 Mvar 

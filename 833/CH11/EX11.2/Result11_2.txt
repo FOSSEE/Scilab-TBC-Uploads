@@ -1,0 +1,8 @@
+ (a)Speed of motor(in r.p.m)=   
+ 
+    960.  
+ 
+ (b)%Slip(in %)=   
+ 
+    4.  
+ 

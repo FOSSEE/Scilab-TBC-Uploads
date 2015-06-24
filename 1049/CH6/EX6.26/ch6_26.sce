@@ -1,0 +1,14 @@
+clear;
+clc;
+a=0;
+u=15;
+i=cosd(a)-cosd(a+u);
+disp("for firing angle=30deg");
+a=30;
+u=acosd(cosd(a)-i)-a;    printf("overlap angle=%.1f deg",u);
+disp("for firing angle=45deg");
+a=45;
+u=acosd(cosd(a)-i)-a;    printf("overlap angle=%.1f deg",u);
+disp("for firing angle=60deg");
+a=60;
+u=acosd(cosd(a)-i)-a;    printf("overlap angle=%.2f deg",u);

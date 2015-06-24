@@ -1,0 +1,2 @@
+**Sample Problem 43-3**
+The binding energy per nucleon of Sn is 8.482868Mev/nucleon

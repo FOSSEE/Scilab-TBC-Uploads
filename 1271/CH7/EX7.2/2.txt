@@ -1,0 +1,1 @@
+ Maximum amplitude of velocity = 0.031416 meter/sec

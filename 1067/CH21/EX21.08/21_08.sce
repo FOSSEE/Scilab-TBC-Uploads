@@ -1,0 +1,14 @@
+clear;
+clc;
+r0=.1;
+v=1;
+r1=.05;
+r2=.05;
+r3=.2;
+r4=.2;
+r34=inv(inv(r3)+inv(r4));
+r234=r2+r34;
+r10=r1+r0;
+r=inv(inv(r234)+inv(r10));
+ip=v/r;
+mprintf("the positive sequence current=%fpu",ip);

@@ -1,0 +1,8 @@
+
+# PROBLEM 22 # 
+Standard formula used 
+ E = (n^2 * h^2) / (8 * m * L^2)) 
+ p_n = n*h/(2*pi) 
+
+ Order of exited state is 16.
+ Momentum of electron is 1.326216e-23 kg-m/sec. 

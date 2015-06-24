@@ -1,0 +1,5 @@
+ # Problem 15 # 
+
+ Standard formula used 
+ l = l_o* sqrt ( 1- (v/c)^2)
+ Proper length of rod  is 1.250000 m.

@@ -1,0 +1,42 @@
+ 
+-->exec('/home/samyak/scilab_working_directory/chapter_6/ex_3/example_6_3.sce', -1)
+Ybus matrix of the system is given by 
+Ybus= 
+  - 21.667i    5.i        6.667i     10.i     
+    5.i      - 21.667i    10.i       6.667i   
+    6.667i     10.i     - 16.667i    0        
+    10.i       6.667i     0        - 16.667i  
+
+Delta of the system is given by 
+delta(rad)= 
+    0.         
+    0.0769217  
+  - 0.0738455  
+  - 0.0892280  
+
+Injected reactive power at the buses is given by 
+Qi(in pu)= 
+    0.0727367  
+    0.2200358  
+    0.1316085  
+    0.1315939  
+
+ Reactive power generation at the four buses are 
+Qgi(in pu)= 
+    0.5727367  
+    0.6200358  
+    1.1316085  
+    1.1315939  
+
+Reactive power losses are QL=0.55597 pu
+
+Line Flows are given as:
+
+P13=-P31=0.492 pu
+P12=-P21=-0.384 pu
+P14=-P41=0.891 pu
+
+Q13=-Q31=0.018 pu
+Q12=-Q21=0.015 pu
+Q14=-Q41=0.040 pu 
+-->diary(0);

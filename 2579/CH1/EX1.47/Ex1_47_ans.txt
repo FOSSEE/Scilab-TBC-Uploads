@@ -1,0 +1,3 @@
+ The the value of A = 4000.000000
+ power radiated=4000(pi*dl)^2/y^2
+ Where, y=wavelength & pi=3.14

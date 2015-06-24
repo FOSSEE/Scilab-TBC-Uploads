@@ -1,0 +1,4 @@
+ # PROBLEM 23 # 
+Standard formula used 
+ v = (1/(4*pi*e_)*(q/r)).
+ Radius of equipotential surface = 450 m.

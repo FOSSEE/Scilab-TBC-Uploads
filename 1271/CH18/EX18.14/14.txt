@@ -1,0 +1,5 @@
+ # PROBLEM 14 # 
+Standard formula used 
+   Chi = mu_0*N*M^2 /(3*k*t) 
+
+ Magnetisation is 107.894727 A/m

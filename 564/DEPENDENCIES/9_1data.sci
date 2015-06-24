@@ -1,0 +1,11 @@
+Af=350;//cross sectional area of flanges,given in mm^2
+As=300;//Cross sectional area of stiffners,given in mm^2
+ESM=750;//elastic section modulus,given in mm^3
+t=2;//thickness of web,given in mm
+MA=2000;//2nd moment of area of a stiffner,given in mm^4
+E=70000;//given in N/mm^2
+I=2000;//moment of inertia
+d=400;//given in mm
+b=300;//given in mm
+W=5000;//given (5 KN in N)
+z=1200;//given in mm

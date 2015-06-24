@@ -1,0 +1,7 @@
+Inductive reactance of coil to nuetralize capacitance of 100% of the length of the line is 884.19 ohm 
+
+Inductive reactance of coil to nuetralize capacitance of 90% of the length of the line is 982.44 ohm 
+
+Inductive reactance of coil to nuetralize capacitance of 80% of the length of the line is 1105.24 ohm 
+
+

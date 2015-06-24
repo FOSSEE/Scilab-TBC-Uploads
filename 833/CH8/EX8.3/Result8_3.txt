@@ -1,0 +1,3 @@
+Resistance required(in ohms) is=   
+ 
+    5.625  

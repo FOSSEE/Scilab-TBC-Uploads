@@ -1,0 +1,23 @@
+ i)sampling Frequncy   
+ 
+    200.  
+ 
+ Hz.   
+ 
+ ii)no.of bits in PCM   
+ 
+    14.  
+ 
+ bits.   
+ 
+ iii)sampling rate   
+ 
+    2800.  
+ 
+ bits per second.   
+ 
+ iv)Transmission Bandwidth   
+ 
+    1400.  
+ 
+ Hz. 

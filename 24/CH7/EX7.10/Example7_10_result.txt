@@ -1,0 +1,11 @@
+**Sample Problem 7-10a**
+The power transferred by F1 is -6W
+The power transferred by F2 is 6W
+The net power transferred is 0W
+The Kinetic energy is not changing
+
+**Sample Problem 7-10b**
+The power transferred by F1 is -6W
+The power transferred by F2 is 9W
+The net power transferred is 3W
+The Kinetic Energy is changing

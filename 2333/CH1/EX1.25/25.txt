@@ -1,0 +1,8 @@
+# PROBLEM 25 # 
+ Standard formula used 
+
+ m = m_0/((1-v^2/c^2)^1/2) 
+
+ Mass of particle is 1.414214m_0 
+ momentum of particle is 1.000000*m_0*c 
+ Kinetic energy of particle is 0.414214*m_0*c^2

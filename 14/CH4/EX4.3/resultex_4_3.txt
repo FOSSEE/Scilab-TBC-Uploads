@@ -1,0 +1,5 @@
+ Capacitance = 11.753e-12 F/m 
+
+
+
+ Capacitive reactance = 0.2257e6 ohm km per phase to neutral 

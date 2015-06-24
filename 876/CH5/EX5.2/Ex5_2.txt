@@ -1,0 +1,7 @@
+(a)load current when variable load is 100 ohm(in ohm)=   
+ 
+    5.  
+ 
+ (b)load current when variable load is 10 ohm(in ohm)=   
+ 
+    9.0909091

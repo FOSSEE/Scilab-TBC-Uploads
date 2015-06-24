@@ -1,0 +1,7 @@
+Ionisation Energy (in J) =    
+ 
+    2.172D-18  
+ 
+ Ionisation Energy (in eV) =    
+ 
+    13.557085  

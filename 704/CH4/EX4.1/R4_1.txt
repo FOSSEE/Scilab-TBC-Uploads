@@ -1,0 +1,8 @@
+ turns per phase for the H.V. winding of the 3 phase transformer=   
+ 
+    2065.  
+ 
+ turns per phase for the L.V. winding of the 3 phase transformer=   
+ 
+    44.  
+ 

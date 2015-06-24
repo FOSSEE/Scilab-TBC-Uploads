@@ -1,0 +1,20 @@
+clear;
+clc;
+r1=75;
+c1=.8;
+p1=r1*c1;
+rr1=r1*(sin(acos(c1)));
+r2=150;
+c2=.8;
+p2=r2*c2;
+rr2=r2*(sin(acos(c2)));
+r3=50;
+c3=1;
+p3=r3*c3;
+rr3=r3*(sin(acos(c3)));
+rr=-rr1+rr2+rr3;
+p=p1+p2+p3;
+r=sqrt(p^2+rr^2);
+r=round(r)
+j=p/r;
+mprintf("the power factor of the substation=%f",j);

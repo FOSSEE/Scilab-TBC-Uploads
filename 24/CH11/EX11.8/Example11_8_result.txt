@@ -1,0 +1,5 @@
+**Sample Problem 11-8a**
+The magnitude of F is 300.000000N
+
+**Sample Problem 11-8b**
+The magnitude of F in second case is 613.600000N 

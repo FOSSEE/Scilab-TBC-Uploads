@@ -1,0 +1,2 @@
+With cladding , NA  and Acceptance angle = 0.1225  and 7.035 degrees 
+ Without cladding , NA = 1.1214  

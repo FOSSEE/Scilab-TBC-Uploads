@@ -1,0 +1,11 @@
+# PROBLEM 9 # 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+
+ Maximum radius allowed for fiber is 3.466600 micro meter 
+Critical angle = 84.814454 degree. 
+ Numerical aperture = 0.132499,
+ Maximum incidence angle = 7.614027 degree.

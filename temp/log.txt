@@ -1,0 +1,235 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6)
+ %&-line parsing enabled.
+entering extended mode
+(./TEX_final.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, ukrainian, russian, bulgarian, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo))
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/etc/texmf/tex/latex/config/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty)
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/tools/theorem.sty
+(/usr/share/texmf-texlive/tex/latex/tools/thp.sty))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+(/usr/share/texmf-texlive/tex/latex/listings/lstpatch.sty)
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg))
+(/usr/share/texmf-texlive/tex/latex/base/alltt.sty)
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty) (./TEX_final.aux)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+(/etc/texmf/tex/latex/config/color.cfg))
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./TEX_final.out)
+(./TEX_final.out) (/usr/share/texmf-texlive/tex/context/base/supp-pdf.tex
+[Loading MPS to PDF converter (version 2006.09.02).]
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): 
+destination with the same identifier (name{page.1}) has been already used, dupl
+icate ignored
+<to be read again> 
+                   \relax 
+l.74 \newpage
+              [1] [2] (./TEX_final.toc
+Overfull \hbox (95.60854pt too wide) detected at line 1
+\OT1/cmr/bx/n/12 List of Scilab Codes 
+[3]) [4] (./TEX_final.cod [5] [6] [7] [8]) [9] (./TEX_final.lof) [10]
+Chapter 1.
+(../61/CH1/EX1.1/ex1_1.sce [11] [12]) [13]
+Chapter 2.
+(../61/CH2/EX2.1/ex2_1.sce)
+<../61/CH2/EX2.2.a/ex2_2a.jpg, id=597, 459.21562pt x 346.29375pt>
+<use ../61/CH2/EX2.2.a/ex2_2a.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 109--110
+[][] 
+(../61/CH2/EX2.2.a/ex2_2a.sce
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [14] [15 <../61/CH2/EX2.2.a
+/ex2_2a.jpg>]) (../61/CH2/EX2.2.b/ex2_2b.sce [16]) (../61/CH2/EX2.3/ex2_3.sce
+[17]) (../61/CH2/EX2.4/ex2_4.sce)
+<../61/CH2/EX2.5/ex2_5.jpg, id=676, 459.21562pt x 346.29375pt>
+<use ../61/CH2/EX2.5/ex2_5.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 145--146
+[][] 
+(../61/CH2/EX2.5/ex2_5.sce [18] [19 <../61/CH2/EX2.5/ex2_5.jpg>])
+(../61/CH2/EX2.6/ex2_6.sce) (../61/CH2/EX2.7/ex2_7.sce [20])
+(../61/CH2/EX2.8/ex2_8.sce) [21] (../61/CH2/EX2.9/ex2_9.sce)
+<../61/CH2/EX2.10/ex2_10.jpg, id=773, 459.21562pt x 290.58563pt>
+<use ../61/CH2/EX2.10/ex2_10.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 187--188
+[][] 
+[22 <../61/CH2/EX2.10/ex2_10.jpg>] (../61/CH2/EX2.10/ex2_10.sce)
+<../61/CH2/EX2.11/ex2_11.jpg, id=785, 459.21562pt x 346.29375pt>
+<use ../61/CH2/EX2.11/ex2_11.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 201--202
+[][] 
+[23] (../61/CH2/EX2.11/ex2_11.sce [24 <../61/CH2/EX2.11/ex2_11.jpg>])
+<../61/CH2/EX2.12/ex2_12.jpg, id=828, 459.21562pt x 346.29375pt>
+<use ../61/CH2/EX2.12/ex2_12.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 215--216
+[][] 
+(../61/CH2/EX2.12/ex2_12.sce [25] [26 <../61/CH2/EX2.12/ex2_12.jpg>])
+<../61/CH2/EX2.13/ex2_13.jpg, id=862, 459.21562pt x 346.29375pt>
+<use ../61/CH2/EX2.13/ex2_13.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 229--230
+[][] 
+(../61/CH2/EX2.13/ex2_13.sce [27] [28 <../61/CH2/EX2.13/ex2_13.jpg>]) [29]
+Chapter 3.
+(../61/CH3/EX3.1/ex3_1.sce) (../61/CH3/EX3.2/ex3_2.sce [30])
+(../61/CH3/EX3.3/ex3_3.sce) (../61/CH3/EX3.4/ex3_4.sce) [31]
+(../61/CH3/EX3.5/ex3_5.sce) (../61/CH3/EX3.6/ex3_6.sce [32])
+(../61/CH3/EX3.7/ex3_7.sce [33])
+<../61/CH3/EX3.8/ex3_8.jpg, id=1030, 459.21562pt x 290.58563pt>
+<use ../61/CH3/EX3.8/ex3_8.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 294--295
+[][] 
+(../61/CH3/EX3.8/ex3_8.sce [34 <../61/CH3/EX3.8/ex3_8.jpg>] [35]) [36]
+Chapter 4.
+(../61/CH4/EX4.1/ex4_1.sce) (../61/CH4/EX4.2/ex4_2.sce [37])
+(../61/CH4/EX4.3/ex4_3.sce) (../61/CH4/EX4.4/ex4_4.sce) [38]
+(../61/CH4/EX4.5/ex4_5.sce) (../61/CH4/EX4.6/ex4_6.sce) [39]
+(../61/CH4/EX4.7/ex4_7.sce) (../61/CH4/EX4.8/ex4_8.sce)
+(../61/CH4/EX4.9/ex4_9.sce [40]) [41]
+Chapter 5.
+(../61/CH5/EX5.1/ex5_1.sce) (../61/CH5/EX5.2/ex5_2.sce [42])
+(../61/CH5/EX5.3/ex5_3.sce (/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd))
+ (../61/CH5/EX5.4/ex5_4.sce [43]) (../61/CH5/EX5.5/ex5_5.sce [44])
+(../61/CH5/EX5.6/ex5_6.sce) [45] (../61/CH5/EX5.7/ex5_7.sce) [46]
+(../61/CH5/EX5.8/ex5_8.sce) [47]
+Chapter 6.
+(../61/CH6/EX6.1/ex6_1.sce) (../61/CH6/EX6.2/ex6_2.sce)
+(../61/CH6/EX6.3/ex6_3.sce [48]) (../61/CH6/EX6.4/ex6_4.sce)
+(../61/CH6/EX6.5/ex6_5.sce) [49] (../61/CH6/EX6.6/ex6_6.sce)
+(../61/CH6/EX6.7/ex6_7.sce)
+<../61/CH6/EX6.8/ex6_8.jpg, id=1443, 459.21562pt x 290.58563pt>
+<use ../61/CH6/EX6.8/ex6_8.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 482--483
+[][] 
+(../61/CH6/EX6.8/ex6_8.sce [50] [51 <../61/CH6/EX6.8/ex6_8.jpg>] [52])
+(../61/CH6/EX6.9/ex6_9.sce [53]) (../61/CH6/EX6.10/ex6_10.sce [54])
+(../61/CH6/EX6.11/ex6_11.sce [55]) (../61/CH6/EX6.12/ex6_12.sce) [56]
+Chapter 7.
+(../61/CH7/EX7.1/ex7_1.sce) (../61/CH7/EX7.2/ex7_2.sce) [57]
+(../61/CH7/EX7.3/ex7_3.sce) (../61/CH7/EX7.4/ex7_4.sce) [58]
+(../61/CH7/EX7.5/ex7_5.sce) (../61/CH7/EX7.6/ex7_6.sce)
+(../61/CH7/EX7.7/ex7_7.sce [59]) (../61/CH7/EX7.8/ex7_8.sce)
+(../61/CH7/EX7.9/ex7_9.sce) [60] (../61/CH7/EX7.10/ex7_10.sce)
+(../61/CH7/EX7.11/ex7_11.sce) [61] (../61/CH7/EX7.12/ex7_12.sce)
+(../61/CH7/EX7.13/ex7_13.sce) [62] (../61/CH7/EX7.14/ex7_14.sce)
+(../61/CH7/EX7.15/ex7_15.sce) (../61/CH7/EX7.16/ex7_16.sce [63])
+(../61/CH7/EX7.17/ex7_17.sce) [64]
+Chapter 8.
+(../61/CH8/EX8.1/ex8_1.sce) (../61/CH8/EX8.2/ex8_2.sce)
+(../61/CH8/EX8.3/ex8_3.sce [65]) (../61/CH8/EX8.4/ex8_4.sce) [66]
+(../61/CH8/EX8.5/ex8_5.sce) (../61/CH8/EX8.6/ex8_6.sce)
+(../61/CH8/EX8.7/ex8_7.sce [67]) (../61/CH8/EX8.8/ex8_8.SCE)
+(../61/CH8/EX8.9/ex8_9.sce [68]) (../61/CH8/EX8.10/ex8_10.sce) [69] [70]
+Chapter 9.
+(../61/CH9/EX9.1/ex9_1.sce [71]) (../61/CH9/EX9.2/ex9_2.sce) [72]
+(../61/CH9/EX9.3/ex9_3.sce) (../61/CH9/EX9.4/ex9_4.sce)
+(../61/CH9/EX9.5/ex9_5.sce [73]) (../61/CH9/EX9.6/ex9_6.sce [74])
+(../61/CH9/EX9.7/ex9_7.sce) (../61/CH9/EX9.8/ex9_8.sce) [75]
+Chapter 10.
+(../61/CH10/EX10.1/ex10_1.sce) [76] (../61/CH10/EX10.2/ex10_2.sce)
+(../61/CH10/EX10.3/ex10_3.sce) [77] (../61/CH10/EX10.4/ex10_4.sce)
+(../61/CH10/EX10.5/ex10_5.sce [78]) (../61/CH10/EX10.6/ex10_6.sce) [79]
+(../61/CH10/EX10.7/ex10_7.sce) (../61/CH10/EX10.8/ex10_8.sce) [80]
+(../61/CH10/EX10.9/ex10_9.sce [81]) (../61/CH10/EX10.10/ex10_10.sce) [82]
+(../61/CH10/EX10.11/ex10_11.sce) (../61/CH10/EX10.12/ex10_12.sce)
+(../61/CH10/EX10.13/ex10_13.sce [83]) (../61/CH10/EX10.14/ex10_14.sce)
+(../61/CH10/EX10.15/ex10_15.sce) [84] (../61/CH10/EX10.16/ex10_16.sce)
+(../61/CH10/EX10.17/ex10_17.sce) (../61/CH10/EX10.18/ex10_18.sce) [85]
+Chapter 11.
+(../61/CH11/EX11.1/ex11_1.sce) (../61/CH11/EX11.2/ex11_2.sce) [86]
+(../61/CH11/EX11.3/ex11_3.sce) (../61/CH11/EX11.4/ex11_4.sce)
+(../61/CH11/EX11.5/ex11_5.sce) [87] [88]
+Chapter 12.
+(../61/CH12/EX12.1/ex12_1.sce) (../61/CH12/EX12.2/ex12_2.sce) [89]
+(../61/CH12/EX12.3/ex12_3.sce) (../61/CH12/EX12.4/ex12_4.sce)
+(../61/CH12/EX12.5/ex12_5.sce) [90] (../61/CH12/EX12.6/ex12_6.sce)
+(../61/CH12/EX12.7/ex12_7.sce) [91] (../61/CH12/EX12.8/ex12_8.sce)
+(../61/CH12/EX12.9/ex12_9.sce [92]) (../61/CH12/EX12.10/ex12_10.sce)
+(../61/CH12/EX12.11/ex12_11.sce [93]) (../61/CH12/EX12.12/ex12_12.sce) [94]
+Chapter 13.
+<../61/CH13/EX13.1/ex13_1.jpg, id=2635, 459.21562pt x 346.29375pt>
+<use ../61/CH13/EX13.1/ex13_1.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 1052--1053
+[][] 
+(../61/CH13/EX13.1/ex13_1.sce [95] [96 <../61/CH13/EX13.1/ex13_1.jpg>])
+(../61/CH13/EX13.2/ex13_2.sce)
+<../61/CH13/EX13.3/ex13_3.jpg, id=2664, 459.21562pt x 346.29375pt>
+<use ../61/CH13/EX13.3/ex13_3.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 1073--1074
+[][] 
+(../61/CH13/EX13.3/ex13_3.sce [97] [98 <../61/CH13/EX13.3/ex13_3.jpg>])
+(../61/CH13/EX13.4/ex13_4.sce) (../61/CH13/EX13.5/ex13_5.sce [99])
+(../61/CH13/EX13.6/ex13_6.sce) (../61/CH13/EX13.7/ex13_7.sce [100])
+<../61/CH13/EX13.8/ex13_8.jpg, id=2761, 602.25pt x 451.6875pt>
+<use ../61/CH13/EX13.8/ex13_8.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 1115--1116
+[][] 
+(../61/CH13/EX13.8/ex13_8.sce [101] [102 <../61/CH13/EX13.8/ex13_8.jpg>])
+<../61/CH13/EX13.9/ex13_9.jpg, id=2800, 459.21562pt x 346.29375pt>
+<use ../61/CH13/EX13.9/ex13_9.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 1129--1130
+[][] 
+[103] [104 <../61/CH13/EX13.9/ex13_9.jpg>] (../61/CH13/EX13.9/ex13_9.sce
+[105]) [106]
+Chapter 14.
+(../61/CH14/EX14.1/ex14_1.sce) (../61/CH14/EX14.2/ex14_2.sce) [107]
+(../61/CH14/EX14.3/ex14_3.sce) (../61/CH14/EX14.4/ex14_4.sce)
+(../61/CH14/EX14.5/ex14_5.sce) [108] (../61/CH14/EX14.6/ex14_6.sce)
+<../61/CH14/EX14.7/ex14_7.jpg, id=2925, 602.25pt x 451.6875pt>
+<use ../61/CH14/EX14.7/ex14_7.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 1187--1188
+[][] 
+(../61/CH14/EX14.7/ex14_7.sce [109] [110 <../61/CH14/EX14.7/ex14_7.jpg>])
+(../61/CH14/EX14.8/ex14_8.sce) (../61/CH14/EX14.9/ex14_9.sce)
+(../61/CH14/EX14.10/ex14_10.sce [111]) [112]
+Chapter 15.
+(../61/CH15/EX15.1/ex15_1.sce) (../61/CH15/EX15.2/ex15_2.sce) [113]
+(../61/CH15/EX15.3/ex15_3.sce) (../61/CH15/EX15.4/ex15_4.sce) [114]
+(../61/CH15/EX15.5/ex15_5.sce) (../61/CH15/EX15.6/ex15_6.sce)
+(../61/CH15/EX15.7/ex15_7.sce [115]) (../61/CH15/EX15.8/ex15_8.sce) [116]
+Chapter 16.
+(../61/CH16/EX16.1/ex16_1.sce) [117] (../61/CH16/EX16.2/ex16_2.sce)
+(../61/CH16/EX16.3/ex16_3.sce) (../61/CH16/EX16.4/ex16_4.sce [118])
+<../61/CH16/EX16.5/ex16_5.jpg, id=3158, 459.21562pt x 346.29375pt>
+<use ../61/CH16/EX16.5/ex16_5.jpg>
+Overfull \hbox (43.62pt too wide) in paragraph at lines 1310--1311
+[][] 
+(../61/CH16/EX16.5/ex16_5.sce [119] [120 <../61/CH16/EX16.5/ex16_5.jpg>])
+(../61/CH16/EX16.6/ex16_6.sce) [121]
+Chapter 17.
+(../61/CH17/EX17.1/ex17_1.sce) (../61/CH17/EX17.2/ex17_2.sce [122])
+(../61/CH17/EX17.3/ex17_3.sce) (../61/CH17/EX17.4/ex17_4.sce)
+(../61/CH17/EX17.5/ex17_5.sce [123]) (../61/CH17/EX17.6/ex17_6.sce)
+(../61/CH17/EX17.7/ex17_7.sce) (../61/CH17/EX17.8/ex17_8.sce) [124]
+(../61/CH17/EX17.9/ex17_9.sce) [125]
+Chapter 18.
+(../61/CH18/EX18.1/ex18_1.sce) [126] (../61/DEPENDENCIES/phase_shift.sci)
+(../61/DEPENDENCIES/open_loop_gain.sci)
+(../61/DEPENDENCIES/gain_in_decibel_voltage.sci)
+(../61/DEPENDENCIES/gain_in_decibel_power.sci)
+(../61/DEPENDENCIES/value_of_K.sci [127]) (../61/DEPENDENCIES/value_of_I_D.sci)
+ [128] (./TEX_final.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/
+cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/
+share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf-texlive/
+fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/
+cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/bluesky/cm/cmtt12.pfb>
+Output written on TEX_final.pdf (129 pages, 1407655 bytes).
+Transcript written on TEX_final.log.

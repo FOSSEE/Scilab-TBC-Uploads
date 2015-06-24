@@ -1,0 +1,165 @@
+12#Fiber Optics#12.9#Initial power level of an optical fibre#Ch12Ex9.sce#1871/CH12/EX12.9/Ch12Ex9.sce#S##93901
+12#Fiber Optics#12.8#Intermodal dispersion factor total dispersion and maximum bit rate of an optical fibre#Ch12Ex8.sce#1871/CH12/EX12.8/Ch12Ex8.sce#S##93900
+12#Fiber Optics#12.7#Attenuation of optical signal#Ch12Ex7.sce#1871/CH12/EX12.7/Ch12Ex7.sce#S##93899
+12#Fiber Optics#12.6#Output power level in optical fiber#Ch12Ex6.sce#1871/CH12/EX12.6/Ch12Ex6.sce#S##93898
+12#Fiber Optics#12.5#Single mode operation in step index fiber#Ch12Ex5.sce#1871/CH12/EX12.5/Ch12Ex5.sce#S##93897
+12#Fiber Optics#12.4#Normalized frequency and number of modes for the fiber#Ch12Ex4.sce#1871/CH12/EX12.4/Ch12Ex4.sce#S##93896
+12#Fiber Optics#12.3#Normalized frequency for the fiber#Ch12Ex3.sce#1871/CH12/EX12.3/Ch12Ex3.sce#S##93895
+12#Fiber Optics#12.2#Acceptance angle for fiber in water#Ch12Ex2.sce#1871/CH12/EX12.2/Ch12Ex2.sce#S##93894
+12#Fiber Optics#12.1#Specifications of an optical fibre#Ch12Ex1.sce#1871/CH12/EX12.1/Ch12Ex1.sce#S##93893
+10#Dielectrics#10.6#Frequency and phase difference in the presence of dielectric#Ch010Ex6.sce#1871/CH10/EX10.6/Ch010Ex6.sce#S##93892
+10#Dielectrics#10.5#Ionic polarizability for glass#Ch010Ex5.sce#1871/CH10/EX10.5/Ch010Ex5.sce#S##93891
+10#Dielectrics#10.4#Relative dielectric constant for sulphur#Ch010Ex4.sce#1871/CH10/EX10.4/Ch010Ex4.sce#S##93890
+10#Dielectrics#10.3#Polarizability and relative permittivity of one cubic meter of hydrogen gas#Ch010Ex3.sce#1871/CH10/EX10.3/Ch010Ex3.sce#S##93889
+10#Dielectrics#10.2#Electronic polarizability of an argon atom#Ch010Ex2.sce#1871/CH10/EX10.2/Ch010Ex2.sce#S##93888
+10#Dielectrics#10.1#Relative permittivity of sodium chloride#Ch010Ex1.sce#1871/CH10/EX10.1/Ch010Ex1.sce#S##93887
+8#Number Systems Used in Digital Electronics#8.9#Five digit binary subtraction#Ch08Ex9.sce#1871/CH8/EX8.9/Ch08Ex9.sce#S##93874
+8#Number Systems Used in Digital Electronics#8.8#Binary subtraction of two numbers#Ch08Ex8.sce#1871/CH8/EX8.8/Ch08Ex8.sce#S##93873
+8#Number Systems Used in Digital Electronics#8.7#Binary Subtraction#Ch08Ex7.sce#1871/CH8/EX8.7/Ch08Ex7.sce#S##93872
+8#Number Systems Used in Digital Electronics#8.6#Subtraction of two binary number#Ch08Ex6.sce#1871/CH8/EX8.6/Ch08Ex6.sce#S##93871
+8#Number Systems Used in Digital Electronics#8.5#Addition of two binary numbers#Ch08Ex5.sce#1871/CH8/EX8.5/Ch08Ex5.sce#S##93870
+8#Number Systems Used in Digital Electronics#8.4#Binary equivalent of decimal number#Ch08Ex4.sce#1871/CH8/EX8.4/Ch08Ex4.sce#S##93869
+8#Number Systems Used in Digital Electronics#8.3#Decimal equivalent of 6 bit binary number#Ch08Ex3.sce#1871/CH8/EX8.3/Ch08Ex3.sce#S##93868
+8#Number Systems Used in Digital Electronics#8.21#Octal and hexadecimal equivalent of groups of bytes#Ch08Ex21.sce#1871/CH8/EX8.21/Ch08Ex21.sce#S##93886
+8#Number Systems Used in Digital Electronics#8.20#Conversion of various number systems to decimal number system#Ch08Ex20.sce#1871/CH8/EX8.20/Ch08Ex20.sce#S##93885
+8#Number Systems Used in Digital Electronics#8.2#Conversion of binary fraction to its decimal equivalent#Ch08Ex2.sce#1871/CH8/EX8.2/Ch08Ex2.sce#S##93867
+8#Number Systems Used in Digital Electronics#8.19#Conversion between number systems#Ch08Ex19.sce#1871/CH8/EX8.19/Ch08Ex19.sce#S##93884
+8#Number Systems Used in Digital Electronics#8.18#Division of two binary numbers#Ch08Ex18.sce#1871/CH8/EX8.18/Ch08Ex18.sce#S##93883
+8#Number Systems Used in Digital Electronics#8.17#Binary division of two numbers#Ch08Ex17.sce#1871/CH8/EX8.17/Ch08Ex17.sce#S##93882
+8#Number Systems Used in Digital Electronics#8.16#Product of two binary numbers#Ch08Ex16.sce#1871/CH8/EX8.16/Ch08Ex16.sce#S##93881
+8#Number Systems Used in Digital Electronics#8.15#Multiplication of two binary numbers#Ch08Ex15.sce#1871/CH8/EX8.15/Ch08Ex15.sce#S##93880
+8#Number Systems Used in Digital Electronics#8.14#Binary multiplication of two numbers#Ch08Ex14.sce#1871/CH8/EX8.14/Ch08Ex14.sce#S##93879
+8#Number Systems Used in Digital Electronics#8.13#Twos complement method of binary subtraction#Ch08Ex13.sce#1871/CH8/EX8.13/Ch08Ex13.sce#S##93878
+8#Number Systems Used in Digital Electronics#8.12#Binary subtraction using twos complement method#Ch08Ex12.sce#1871/CH8/EX8.12/Ch08Ex12.sce#S##93877
+8#Number Systems Used in Digital Electronics#8.11#Binary subtraction using ones complement method#Ch08Ex11.sce#1871/CH8/EX8.11/Ch08Ex11.sce#S##93876
+8#Number Systems Used in Digital Electronics#8.10#Ones complement method to subtract two binary numbers #Ch08Ex10.sce#1871/CH8/EX8.10/Ch08Ex10.sce#S##93875
+8#Number Systems Used in Digital Electronics#8.1#Conversion of binary number to decimal number#Ch08Ex1.sce#1871/CH8/EX8.1/Ch08Ex1.sce#S##93866
+7#Nuclear Structure and Nuclear Forces#7.9#Thermal neutrons capture#Ch07Ex9.sce#1871/CH7/EX7.9/Ch07Ex9.sce#S##93858
+7#Nuclear Structure and Nuclear Forces#7.8#Energy per revolution of an electron#Ch07Ex8.sce#1871/CH7/EX7.8/Ch07Ex8.sce#S##93857
+7#Nuclear Structure and Nuclear Forces#7.7#Final energy and average energy gained per revolution by electron#Ch07Ex7.sce#1871/CH7/EX7.7/Ch07Ex7.sce#S##93856
+7#Nuclear Structure and Nuclear Forces#7.6#Energy of an electron undergoing revolutions in a betatron#Ch07Ex6.sce#1871/CH7/EX7.6/Ch07Ex6.sce#S##93855
+7#Nuclear Structure and Nuclear Forces#7.5#Velocity and energy of deutron#Ch07Ex5.sce#1871/CH7/EX7.5/Ch07Ex5.sce#S##93854
+7#Nuclear Structure and Nuclear Forces#7.4#Magnetic field to accelerate protons#Ch07Ex4.sce#1871/CH7/EX7.4/Ch07Ex4.sce#S##93853
+7#Nuclear Structure and Nuclear Forces#7.3#Energy produced when a neutron breaks into a proton and electron#Ch07Ex3.sce#1871/CH7/EX7.3/Ch07Ex3.sce#S##93852
+7#Nuclear Structure and Nuclear Forces#7.2#Energy in joule and electrical energy in kilowatt hours in a thermonuclear reaction#Ch07Ex2.sce#1871/CH7/EX7.2/Ch07Ex2.sce#S##93851
+7#Nuclear Structure and Nuclear Forces#7.16#Mass of the particle in an Aston mass spectrograph#Ch07Ex16.sce#1871/CH7/EX7.16/Ch07Ex16.sce#S##93865
+7#Nuclear Structure and Nuclear Forces#7.15#Average current in the Geiger Muller circuit#Ch07Ex15.sce#1871/CH7/EX7.15/Ch07Ex15.sce#S##93864
+7#Nuclear Structure and Nuclear Forces#7.14#Energy source in stars#Ch07Ex14.sce#1871/CH7/EX7.14/Ch07Ex14.sce#S##93863
+7#Nuclear Structure and Nuclear Forces#7.13#Total energy released in the fission of uranium 235#Ch07Ex13.sce#1871/CH7/EX7.13/Ch07Ex13.sce#S##93862
+7#Nuclear Structure and Nuclear Forces#7.12#Energy liberated by the fission of one kg of substance#Ch07Ex12.sce#1871/CH7/EX7.12/Ch07Ex12.sce#S##93861
+7#Nuclear Structure and Nuclear Forces#7.11#Uranium undergoing fission in a nuclear reactor#Ch07Ex11.sce#1871/CH7/EX7.11/Ch07Ex11.sce#S##93860
+7#Nuclear Structure and Nuclear Forces#7.10#Total energy in fission of uranium reaction in MeV and kilowatt hours#Ch07Ex10.sce#1871/CH7/EX7.10/Ch07Ex10.sce#S##93859
+7#Nuclear Structure and Nuclear Forces#7.1#Binding energy of an alpha particle#Ch07Ex1.sce#1871/CH7/EX7.1/Ch07Ex1.sce#S##93850
+6#Polarization of Light#6.9#Thickness of a quarter wave plate for a crystal#Ch06Ex9.sce#1871/CH6/EX6.9/Ch06Ex9.sce#S##93841
+6#Polarization of Light#6.8#Polarizing angle and the angle of refraction for light incident on water#Ch06Ex8.sce#1871/CH6/EX6.8/Ch06Ex8.sce#S##93840
+6#Polarization of Light#6.7#Intensity ratio of two emerging beams#Ch06Ex7.sce#1871/CH6/EX6.7/Ch06Ex7.sce#S##93843
+6#Polarization of Light#6.6#Intensity of the transmitted light#Ch06Ex6.sce#1871/CH6/EX6.6/Ch06Ex6.sce#S##93838
+6#Polarization of Light#6.5#Angle between two polarizing sheets#Ch06Ex5.sce#1871/CH6/EX6.5/Ch06Ex5.sce#S##93837
+6#Polarization of Light#6.4#Angle of minimum deviation#Ch06Ex4.sce#1871/CH6/EX6.4/Ch06Ex4.sce#S##93836
+6#Polarization of Light#6.3#Comparison of polarizing angle from two different media#Ch06Ex3.sce#1871/CH6/EX6.3/Ch06Ex3.sce#S##93835
+6#Polarization of Light#6.2#Angle of refraction in benzene#Ch06Ex2.sce#1871/CH6/EX6.2/Ch06Ex2.sce#S##93834
+6#Polarization of Light#6.15#Wavelength for a quarter and a half wave plate in the visible region#Ch06Ex15.sce#1871/CH6/EX6.15/Ch06Ex15.sce#S##93849
+6#Polarization of Light#6.14#Thinnest possible quartz plate#Ch06Ex14.sce#1871/CH6/EX6.14/Ch06Ex14.sce#S##93848
+6#Polarization of Light#6.13#Thickness of the doubly refracting crystal#Ch06Ex13.sce#1871/CH6/EX6.13/Ch06Ex13.sce#S##93847
+6#Polarization of Light#6.12#Difference in the refractive indices of two rays#Ch06Ex12.sce#1871/CH6/EX6.12/Ch06Ex12.sce#S##93846
+6#Polarization of Light#6.11#Phase retardation in quarter wave plate for given wavelength#Ch06Ex11.sce#1871/CH6/EX6.11/Ch06Ex11.sce#S##93845
+6#Polarization of Light#6.10#Thickness of a quarter wave plate of quartz#Ch06Ex10.sce#1871/CH6/EX6.10/Ch06Ex10.sce#S##93844
+6#Polarization of Light#6.1#Refractive index of the material and angle of refraction#Ch06Ex1.sce#1871/CH6/EX6.1/Ch06Ex1.sce#S##93833
+5#Diffraction of Light#5.9#Difference in two wavelengths#Ch05Ex9.sce#1871/CH5/EX5.9/Ch05Ex9.sce#S##93811
+5#Diffraction of Light#5.8#Dispersive powers of first and third order spectra of diffraction grating#Ch05Ex8.sce#1871/CH5/EX5.8/Ch05Ex8.sce#S##93810
+5#Diffraction of Light#5.7#Angle of diffraction in first order#Ch05Ex7.sce#1871/CH5/EX5.7/Ch05Ex7.sce#S##93809
+5#Diffraction of Light#5.6#Direction of principal maxima#Ch05Ex6.sce#1871/CH5/EX5.6/Ch05Ex6.sce#S##93808
+5#Diffraction of Light#5.5#Number of lines on the grating surface#Ch05Ex5.sce#1871/CH5/EX5.5/Ch05Ex5.sce#S##93807
+5#Diffraction of Light#5.4#Wavelength of spectral line#Ch05Ex4.sce#1871/CH5/EX5.4/Ch05Ex4.sce#S##93806
+5#Diffraction of Light#5.30#Magnifying power of a microscope#Ch05Ex30.sce#1871/CH5/EX5.30/Ch05Ex30.sce#S##93832
+5#Diffraction of Light#5.3#The wavelengths of incident light in diffraction pattern#Ch05Ex3.sce#1871/CH5/EX5.3/Ch05Ex3.sce#S##93805
+5#Diffraction of Light#5.29#Resolving power of a microscope#Ch05Ex29.sce#1871/CH5/EX5.29/Ch05Ex29.sce#S##93831
+5#Diffraction of Light#5.28#Resolving limit of a microscope#Ch05Ex28.sce#1871/CH5/EX5.28/Ch05Ex28.sce#S##93830
+5#Diffraction of Light#5.27#Minimum focal length of the objective if the full resolving power of the telescope is to be utilized#Ch05Ex27.sce#1871/CH5/EX5.27/Ch05Ex27.sce#S##93829
+5#Diffraction of Light#5.26#Minimum linear resolvable distance between two person#Ch05Ex26.sce#1871/CH5/EX5.26/Ch05Ex26.sce#S##93828
+5#Diffraction of Light#5.25#The distance between two objects on the moon and the magnifying power of a telescope#Ch05Ex25.sce#1871/CH5/EX5.25/Ch05Ex25.sce#S##93827
+5#Diffraction of Light#5.24#Diameter of an objective of a telescope#Ch05Ex24.sce#1871/CH5/EX5.24/Ch05Ex24.sce#S##93826
+5#Diffraction of Light#5.23#Smallest angular separation of two stars resolved by a telescope#Ch05Ex23.sce#1871/CH5/EX5.23/Ch05Ex23.sce#S##93825
+5#Diffraction of Light#5.22#Size of the grating interval#Ch05Ex22.sce#1871/CH5/EX5.22/Ch05Ex22.sce#S##93824
+5#Diffraction of Light#5.21#Smallest difference of wavelengths resolved by a prism of flint glass#Ch05Ex21.sce#1871/CH5/EX5.21/Ch05Ex21.sce#S##93823
+5#Diffraction of Light#5.20#Length of base of a flint glass prism#Ch05Ex20.sce#1871/CH5/EX5.20/Ch05Ex20.sce#S##93822
+5#Diffraction of Light#5.2#Angular position of first two minima on either side of the central maxima#Ch05Ex2.sce#1871/CH5/EX5.2/Ch05Ex2.sce#S##93804
+5#Diffraction of Light#5.19#Resolution of smallest difference of wavelengths by a spectrometer#Ch05Ex19.sce#1871/CH5/EX5.19/Ch05Ex19.sce#S##93821
+5#Diffraction of Light#5.18#Smallest wavelength difference in the second order#Ch05Ex18.sce#1871/CH5/EX5.18/Ch05Ex18.sce#S##93820
+5#Diffraction of Light#5.17#Wavelength of spctral lines and minimum grating width in the second order spectrum of diffraction grating#Ch05Ex17.sce#1871/CH5/EX5.17/Ch05Ex17.sce#S##93819
+5#Diffraction of Light#5.16#Resolving power of the grating in the second order#Ch05Ex16.sce#1871/CH5/EX5.16/Ch05Ex16.sce#S##93818
+5#Diffraction of Light#5.15#Maximum resolving power for normal incidence#Ch05Ex15.sce#1871/CH5/EX5.15/Ch05Ex15.sce#S##93817
+5#Diffraction of Light#5.14#Wavelength difference in the first order spectrum#Ch05Ex14.sce#1871/CH5/EX5.14/Ch05Ex14.sce#S##93816
+5#Diffraction of Light#5.13#Minimum number of lines in the plane diffraction grating in the first and second order spectra#Ch05Ex13.sce#1871/CH5/EX5.13/Ch05Ex13.sce#S##93815
+5#Diffraction of Light#5.12#Resolving power of a grating in the second order#Ch05Ex12.sce#1871/CH5/EX5.12/Ch05Ex12.sce#S##93814
+5#Diffraction of Light#5.11#Separation between two spectral lines in the first order spectrum#Ch05Ex11.sce#1871/CH5/EX5.11/Ch05Ex11.sce#S##93813
+5#Diffraction of Light#5.10#Dispersion in the spectrograph and separation between the spectral lines#Ch05Ex10.sce#1871/CH5/EX5.10/Ch05Ex10.sce#S##93812
+5#Diffraction of Light#5.1#Distance between the first and fourth band#Ch05Ex1.sce#1871/CH5/EX5.1/Ch05Ex1.sce#S##93803
+4#Wave Theory of Light#4.9#Wavelength of light used in double slit experiment#Ch04Ex9.sce#1871/CH4/EX4.9/Ch04Ex9.sce#S##93774
+4#Wave Theory of Light#4.8#Double slit separation#Ch04Ex8.sce#1871/CH4/EX4.8/Ch04Ex8.sce#S##93773
+4#Wave Theory of Light#4.7#Wavelength of light#Ch04Ex7.sce#1871/CH4/EX4.7/Ch04Ex7.sce#S##93772
+4#Wave Theory of Light#4.6#Value of fringe width#Ch04Ex6.sce#1871/CH4/EX4.6/Ch04Ex6.sce#S##93771
+4#Wave Theory of Light#4.4#Lowest phase difference between the waves at interfering point#Ch04Ex4.sce#1871/CH4/EX4.4/Ch04Ex4.sce#S##93770
+4#Wave Theory of Light#4.36#Difference in the wavelengths of the D1 and D2 lines of the sodium lamp#Ch04Ex36.sce#1871/CH4/EX4.36/Ch04Ex36.sce#S##93802
+4#Wave Theory of Light#4.35#Wavelength of light#Ch04Ex35.sce#1871/CH4/EX4.35/Ch04Ex35.sce#S##93801
+4#Wave Theory of Light#4.34#Angular diameter of bright fringe#Ch04Ex34.sce#1871/CH4/EX4.34/Ch04Ex34.sce#S##93800
+4#Wave Theory of Light#4.33#Wedge shaped air film between two optically plane glass plates#Ch04Ex33.sce#1871/CH4/EX4.33/Ch04Ex33.sce#S##93799
+4#Wave Theory of Light#4.32#Thickness of the wire#Ch04Ex32.sce#1871/CH4/EX4.32/Ch04Ex32.sce#S##93798
+4#Wave Theory of Light#4.31#Angle of the wedge#Ch04Ex31.sce#1871/CH4/EX4.31/Ch04Ex31.sce#S##93797
+4#Wave Theory of Light#4.30#Fringe width in air wedge for normal incidence#Ch04Ex30.sce#1871/CH4/EX4.30/Ch04Ex30.sce#S##93796
+4#Wave Theory of Light#4.29#Number of dark bands seen in the interference pattern between the given wavelength range#Ch04Ex29.sce#1871/CH4/EX4.29/Ch04Ex29.sce#S##93795
+4#Wave Theory of Light#4.28#Thickness of the soap film from interference by reflection#Ch04Ex28.sce#1871/CH4/EX4.28/Ch04Ex28.sce#S##93794
+4#Wave Theory of Light#4.27#Thickness of the oil film#Ch04Ex27.sce#1871/CH4/EX4.27/Ch04Ex27.sce#S##93793
+4#Wave Theory of Light#4.26#Thickness of the film for which interference by reflection for violet component takes place#Ch04Ex26.sce#1871/CH4/EX4.26/Ch04Ex26.sce#S##93792
+4#Wave Theory of Light#4.25#The smallest thickness of the plate which makes the glass plate dark by reflection#Ch04Ex25.sce#1871/CH4/EX4.25/Ch04Ex25.sce#S##93791
+4#Wave Theory of Light#4.24#Shift in fringe position due to changed wavelength of path length#Ch04Ex24.sce#1871/CH4/EX4.24/Ch04Ex24.sce#S##93789
+4#Wave Theory of Light#4.23#Intensity and lateral shift of the central fringe#Ch04Ex23.sce#1871/CH4/EX4.23/Ch04Ex23.sce#S##93788
+4#Wave Theory of Light#4.22#Thickness of transparent material in two slit experiment#Ch04Ex22.sce#1871/CH4/EX4.22/Ch04Ex22.sce#S##93787
+4#Wave Theory of Light#4.21#Thickness of mica sheet in the double slit interference experiment#Ch04Ex21.sce#1871/CH4/EX4.21/Ch04Ex21.sce#S##93786
+4#Wave Theory of Light#4.20#Refractive index of transparent plate in the two slit young interference experiment#Ch04Ex20.sce#1871/CH4/EX4.20/Ch04Ex20.sce#S##93785
+4#Wave Theory of Light#4.2#Ratio of maximum intensity to minimum intensity of the two interfering waves#Ch04Ex2.sce#1871/CH4/EX4.2/Ch04Ex2.sce#S##93768
+4#Wave Theory of Light#4.19#Distance between biprism and eye piece and wavelength of light#Ch04Ex19.sce#1871/CH4/EX4.19/Ch04Ex19.sce#S##93784
+4#Wave Theory of Light#4.18#Number of fringes in the biprism experiment with diiferent filters of mercury lamp#Ch04Ex18.sce#1871/CH4/EX4.18/Ch04Ex18.sce#S##93783
+4#Wave Theory of Light#4.17#Wavelength of the light of the source in the biprism experiment#Ch04Ex17.sce#1871/CH4/EX4.17/Ch04Ex17.sce#S##93782
+4#Wave Theory of Light#4.16#Wavelength of sodium light from Fresnel biprism experiment#Ch04Ex16.sce#1871/CH4/EX4.16/Ch04Ex16.sce#S##93781
+4#Wave Theory of Light#4.15#Wavelength of light used with the interference fringes produced by Fresnel biprism#Ch04Ex15.sce#1871/CH4/EX4.15/Ch04Ex15.sce#S##93780
+4#Wave Theory of Light#4.14#Fringe width at a distance of one meter from biprism#Ch04Ex14.sce#1871/CH4/EX4.14/Ch04Ex14.sce#S##93779
+4#Wave Theory of Light#4.13#Width of the fringes observed with the biprism#Ch04Ex13.sce#1871/CH4/EX4.13/Ch04Ex13.sce#S##93778
+4#Wave Theory of Light#4.12#Brightt fringes in Young double slit experiment#Ch04Ex12.sce#1871/CH4/EX4.12/Ch04Ex12.sce#S##93777
+4#Wave Theory of Light#4.11#Position of twentieth order fringes relative to zero order fringe in two slit interference pattern#Ch04Ex11.sce#1871/CH4/EX4.11/Ch04Ex11.sce#S##93776
+4#Wave Theory of Light#4.10#Wavelength of light in two slit experiment#Ch04Ex10.sce#1871/CH4/EX4.10/Ch04Ex10.sce#S##93775
+4#Wave Theory of Light#4.1#Ratio between the amplitude and intensities of the two interfering waves#Ch04Ex1.sce#1871/CH4/EX4.1/Ch04Ex1.sce#S##93767
+3#Geometrical Optics#3.9#Longitudinal chromatic abberation for a lens of crown glass#Ch03Ex9.sce#1871/CH3/EX3.9/Ch03Ex9.sce#S##93758
+3#Geometrical Optics#3.8#Longitudinal chromatic abberation for an object at infinity#Ch03Ex8.sce#1871/CH3/EX3.8/Ch03Ex8.sce#S##93757
+3#Geometrical Optics#3.7#Composition and cardinal points of a Ramsden eye piece#Ch03Ex7.sce#1871/CH3/EX3.7/Ch03Ex7.sce#S##93756
+3#Geometrical Optics#3.6#Focal lengths of two lenses and their separation distance in Huygen and Ramsden eye pieces#Ch03Ex6.sce#1871/CH3/EX3.6/Ch03Ex6.sce#S##93755
+3#Geometrical Optics#3.5#Focal lengths of the plano convex lenses and the equivalent focal length of the Huygen eye piece#Ch03Ex5.sce#1871/CH3/EX3.5/Ch03Ex5.sce#S##93754
+3#Geometrical Optics#3.4#Lens combination in Huygen eye piece#Ch03Ex4.sce#1871/CH3/EX3.4/Ch03Ex4.sce#S##93753
+3#Geometrical Optics#3.3#Combination of a convex and a concave lens placed at a distance#Ch03Ex3.sce#1871/CH3/EX3.3/Ch03Ex3.sce#S##93752
+3#Geometrical Optics#3.2#Coaxial converging and diverging lenses held at a distance#Ch03Ex2.sce#1871/CH3/EX3.2/Ch03Ex2.sce#S##93751
+3#Geometrical Optics#3.18#Design of a no chromatic aberration and minimum spherical abberation doublet lens#Ch03Ex18.sce#1871/CH3/EX3.18/Ch03Ex18.sce#S##93766
+3#Geometrical Optics#3.17#Focal length of component lenses of a convergent doublet#Ch03Ex17.sce#1871/CH3/EX3.17/Ch03Ex17.sce#S##93765
+3#Geometrical Optics#3.16#Spherical aberration for a spherical surface#Ch03Ex16.sce#1871/CH3/EX3.16/Ch03Ex16.sce#S##93764
+3#Geometrical Optics#3.15#Distance between two achromatic lenses#Ch03Ex15.sce#1871/CH3/EX3.15/Ch03Ex15.sce#S##93763
+3#Geometrical Optics#3.13#Radius of curvature of convex lens from given data#Ch03Ex13.sce#1871/CH3/EX3.13/Ch03Ex13.sce#S##93762
+3#Geometrical Optics#3.12#Radius of curvature of the second surface each for crown glass and flint glass lens#Ch03Ex12.sce#1871/CH3/EX3.12/Ch03Ex12.sce#S##93761
+3#Geometrical Optics#3.11#Dispersive power of the flint glass#Ch03Ex11.sce#1871/CH3/EX3.11/Ch03Ex11.sce#S##93760
+3#Geometrical Optics#3.10#Focal length of the crown glass convex lens forming an achromatic doublet with a flint glass concave lens#Ch03Ex10.sce#1871/CH3/EX3.10/Ch03Ex10.sce#S##93759
+3#Geometrical Optics#3.1#Positions of the cardinal points#Ch03Ex1.sce#1871/CH3/EX3.1/Ch03Ex1.sce#S##93750
+2#Electron Optics#2.2#Linear separation between the lines on a photographic plates#Ch02Ex2.sce#1871/CH2/EX2.2/Ch02Ex2.sce#S##93749
+2#Electron Optics#2.1#Potential difference between two regions of an electric field #Ch02Ex1.sce#1871/CH2/EX2.1/Ch02Ex1.sce#S##93748
+1#Quantum Physics#1.9#de Broglie wavelength of proton whose kinetic energy is equal to the rest energy of an electron#Ch01Ex9.sce#1871/CH1/EX1.9/Ch01Ex9.sce#S##93741
+1#Quantum Physics#1.8#de Broglie wavelength of neutron#Ch01Ex8.sce#1871/CH1/EX1.8/Ch01Ex8.sce#S##93740
+1#Quantum Physics#1.7#Wavelength of quantum of radiant energy#Ch01Ex7.sce#1871/CH1/EX1.7/Ch01Ex7.sce#S##93737
+1#Quantum Physics#1.6#Voltage applied to an electron microscope to produce electrons#Ch01Ex6.sce#1871/CH1/EX1.6/Ch01Ex6.sce#S##93731
+1#Quantum Physics#1.5#Energy of an electron wave in electron volt#Ch01Ex5.sce#1871/CH1/EX1.5/Ch01Ex5.sce#S##93717
+1#Quantum Physics#1.4#Energy of neutron in electron volt#Ch01Ex4.sce#1871/CH1/EX1.4/Ch01Ex4.sce#S##93706
+1#Quantum Physics#1.3#de Broglie wavelength of a proton#Ch01Ex3.sce#1871/CH1/EX1.3/Ch01Ex3.sce#S##93702
+1#Quantum Physics#1.2#de Broglie wavelength of an electron#Ch01Ex2.sce#1871/CH1/EX1.2/Ch01Ex2.sce#S##93699
+1#Quantum Physics#1.15#Glancing angle for the first order Bragg spectrum in Sylvine crystal#Ch01Ex15.sce#1871/CH1/EX1.15/Ch01Ex15.sce#S##93747
+1#Quantum Physics#1.14#Wavelength of X rays in Bragg reflection#Ch01Ex14.sce#1871/CH1/EX1.14/Ch01Ex14.sce#S##93746
+1#Quantum Physics#1.13#Minimum voltage applied to an X ray tube to produce X rays#Ch01Ex13.sce#1871/CH1/EX1.13/Ch01Ex13.sce#S##93745
+1#Quantum Physics#1.12#Energy and velocity of an electron beam#Ch01Ex12.sce#1871/CH1/EX1.12/Ch01Ex12.sce#S##93744
+1#Quantum Physics#1.11#Shortest wavelength of X rays in an X ray tube#Ch01Ex11.sce#1871/CH1/EX1.11/Ch01Ex11.sce#S##93743
+1#Quantum Physics#1.10#Maximum speed of electrons striking anticathode in an X ray tube#Ch01Ex10.sce#1871/CH1/EX1.10/Ch01Ex10.sce#S##93742
+1#Quantum Physics#1.1#de Broglie wavelength of a golf ball and sub atomic particles#Ch01Ex1.sce#1871/CH1/EX1.1/Ch01Ex1.sce#S##93698

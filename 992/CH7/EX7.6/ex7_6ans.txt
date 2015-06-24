@@ -1,0 +1,3 @@
+ full deviation = -18.000000 dB	corresponds to 12.6mV
+ half deviation = -9.000000 dB	corresponds to 35.5mV 
+ Execution done.   

@@ -1,0 +1,13 @@
+ For Orange line of Krypton : 
+
+ Coherence Length : 	 0.3670 m 
+ Bandwidth : 		 8.17 x 10^8 Hz 
+ Coherence : 		 0.12 x 10^-8 s 
+ Degree of Monochromaticity :  1.65 x 10^-6  
+
+For Laser Source : 
+
+ Coherence Length : 	 24.47 m 
+ Bandwidth : 		 1.23 x 10^7 Hz 
+ Coherence : 		 8.16 x 10^-8 s 
+ Degree of Monochromaticity :  2.48 x 10^-8  

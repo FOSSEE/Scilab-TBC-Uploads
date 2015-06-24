@@ -1,0 +1,11 @@
+T=2000;    //TEMPERATURE
+T1=15;    //ROOM TEMPERATURE
+V=220;  //VOLTAGE
+P=40;  //POWER
+A15=0.005;
+R=V*V/P;   //RESISTANCE
+R15=R/(1+A15*(T-T1));   //RESISTANCE AT TIME OF SWITICHING
+I=V/R15;      //CURRENT
+disp('i)resistance  = '+string (R)+' ohm')
+disp('ii)resistance  = '+string (R15)+' ohm')
+disp('iii)current   =  '+string (I)+' A')

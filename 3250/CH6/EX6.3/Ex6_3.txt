@@ -1,0 +1,3 @@
+ # PROBLEM 6.3 # 
+
+ Current required = 2240 amp 

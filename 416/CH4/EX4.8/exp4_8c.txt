@@ -1,0 +1,4 @@
+ 
+ example 4 8   
+ the most economic power factor 0.986 lagging 
+ kvar requirement 291.35kVAR 

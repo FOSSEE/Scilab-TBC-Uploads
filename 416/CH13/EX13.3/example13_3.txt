@@ -1,0 +1,4 @@
+  
+ example 13.3   
+ reactance to be added in circuit of generator 2 have 1.5 p.u. 
+ reactance in ohms 871.2 

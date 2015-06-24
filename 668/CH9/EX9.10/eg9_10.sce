@@ -1,0 +1,15 @@
+kT = 26*10^-3; //in eV
+q = 1.6*10^-19;
+ni = 1.5*10^10;
+eps0 = 8.85*10^-14; //in F/m
+eps = 11.9*eps0;
+eps1 = 3.9*eps0;
+Na = 2*10^16;
+dox = 500*10^-8;
+Vsb = 1;
+phiF = kT*log(Na/ni);
+disp(phiF,"The Fermi level position (in V) for the device = ")
+Cox = eps1/dox;
+disp(Cox,"The oxide capacitance (in F/cm2) = ")
+dVt = (2*q*eps*Na)^0.5/Cox*((2*phiF+1)^0.5 - (2*phiF)^0.5);
+disp(dVt,"The change in the threshold voltage (in V) = ")

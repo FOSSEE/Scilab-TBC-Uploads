@@ -1,0 +1,2 @@
+**Sample Probelm 2-1d**
+Average velocity from the begining of the drive till reaching back to the truck is 9.051095 km/h

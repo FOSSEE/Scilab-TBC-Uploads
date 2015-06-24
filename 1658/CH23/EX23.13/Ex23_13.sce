@@ -1,0 +1,16 @@
+clc;
+VC=5;
+Re=2*10**3;
+VCC=6;
+R=2.2*10**3;
+VBE=0.7;
+B=100;
+I="IO";
+I=(VCC-2*VBE)/Re;
+disp('mA',I*10**3,"I=");
+Re=1*10**3;
+I=(VCC-2*VBE)/Re;
+disp('mA',I*10**3,"I=");
+Re=4*10**3;
+I=(VCC-2*VBE)/Re;
+disp('mA',I*10**3,"I=");

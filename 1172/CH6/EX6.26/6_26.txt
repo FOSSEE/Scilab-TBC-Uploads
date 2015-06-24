@@ -1,0 +1,6 @@
+
+ # Problem 26 # 
+
+ Standard formula used 
+ l = l_o* sqrt ( 1- (v/c)^2)
+ Relative speed of meson with respect to earth  is 0.972387 c .

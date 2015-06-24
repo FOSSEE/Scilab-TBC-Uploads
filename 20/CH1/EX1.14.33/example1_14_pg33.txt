@@ -1,0 +1,6 @@
+ 
+-->exec('/home/octav/scilab_iitb/Chapter_1/example1_14_pg33.sce', -1)
+Eddy Current loss at 20 degree celcius = 126 watts
+True Copper loss at 75 degree celcius = 613 watts
+Load loss at 75 degree celcius = 717 watts 
+-->diary(0);

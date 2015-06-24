@@ -1,0 +1,5 @@
+**Sample Problem 12-6a**
+The angular momentum is 6.405481e+007kg.m/s^2
+
+**Sample Problem 12-6b**
+The magnitude of average torque is 1.281096e+007N.m 

@@ -1,0 +1,4 @@
+ On its own base the transformer reactance = 0.10 per unit
+
+ On the chosen base the reactance = 0.0229 per unit 
+

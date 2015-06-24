@@ -1,0 +1,7 @@
+sensitivity(in Volt per degree centigrate)=   
+ 
+    0.0000422  
+ 
+ emf developed(in V)=   
+ 
+    0.00211

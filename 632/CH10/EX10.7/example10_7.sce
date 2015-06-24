@@ -1,0 +1,21 @@
+//clc()
+Pexcess = 20;//%
+PSO3 = 5;//% ( Percent of sulphur burnt to SO3 )
+//S + O2 = SO2
+N = 1;//kmol sulphur
+Orequired = N;//kmol
+Osupplied = Orequired * ( 1 + Pexcess/100);
+Nsupplied = Osupplied * 79/21;
+NSO2 = (1-PSO3/100)*N;
+NSO3 = PSO3 * N /100;
+Oconsumed = NSO2 + 3/2 * PSO3/100;
+Oremaining = Osupplied - Oconsumed;
+Ntotal = NSO2 + NSO3 + Oremaining + Nsupplied;
+PSO2 = NSO2 * 100 / Ntotal;
+PSO3 = NSO3 * 100 / Ntotal;
+PO2 = Oremaining * 100 / Ntotal;
+PN2 = Nsupplied * 100 / Ntotal;
+disp("%",PSO2,"Percent SO2 in burner gas = ")
+disp("%",PSO3,"Percent SO3 in burner gas = ")
+disp("%",PO2,"Percent O2 in burner gas = ")
+disp("%",PN2,"Percent N2 in burner gas = ")

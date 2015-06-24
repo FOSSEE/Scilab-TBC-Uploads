@@ -1,0 +1,9 @@
+  
+ example 12 1   
+ 
+ a   
+ load on 1 alternator 2666.67kW 
+ load on 2 alternator 3333.33kW 
+ b   
+ load supplied by machine 1 with full load on machine2 3200kW 
+ total load is 2666kW 

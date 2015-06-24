@@ -1,0 +1,12 @@
+  
+ (a)No load power factor=   
+ 
+    0.4545455  
+ 
+ (b)Iron loss component of current (in amperes)=   
+ 
+    0.0181818  
+ 
+ (c)Magnetising component of current (in amperes)   
+ 
+    0.0356289 

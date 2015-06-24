@@ -1,0 +1,6 @@
+  
+ Example 2.23   
+In first case,E=186.000000V 
+ when resistace R is added and new conditions   
+Induced emf=188.000000V
+N1=1443.932412rpm

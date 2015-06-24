@@ -1,0 +1,1 @@
+Dynamic resistance Rd = 2.0e+005 ohm 

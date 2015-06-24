@@ -1,0 +1,124 @@
+19#Appendix A Number System#19.9#ADDITION OF TWO POSITIVE NUMBERS#exm19_9.sce#2522/CH19/EX19.9/exm19_9.sce#S##89813
+19#Appendix A Number System#19.9#ADDITION OF TWO POSITIVE NUMBERS#exm19_9_output.jpg#2522/CH19/EX19.9/exm19_9_output.jpg#R##89814
+19#Appendix A Number System#19.8#SUBTRACTION OF SIGNED NUMBERS#exm19_8.sce#2522/CH19/EX19.8/exm19_8.sce#S##89811
+19#Appendix A Number System#19.8#SUBTRACTION OF SIGNED NUMBERS#exm19_8_output.jpg#2522/CH19/EX19.8/exm19_8_output.jpg#R##89812
+19#Appendix A Number System#19.7#SUBTRACTION OF UNSIGNED NUMBERS#exm19_7.sce#2522/CH19/EX19.7/exm19_7.sce#S##89809
+19#Appendix A Number System#19.7#SUBTRACTION OF UNSIGNED NUMBERS#exm19_7_output.jpg#2522/CH19/EX19.7/exm19_7_output.jpg#R##89810
+19#Appendix A Number System#19.6#SUBTRACTION OF TWO NUMBERS#exm19_6.sce#2522/CH19/EX19.6/exm19_6.sce#S##89807
+19#Appendix A Number System#19.6#SUBTRACTION OF TWO NUMBERS#exm19_6_output.jpg#2522/CH19/EX19.6/exm19_6_output.jpg#R##89808
+19#Appendix A Number System#19.5#SUBTRACTION OF TWO NUMBERS#exm19_5.sce#2522/CH19/EX19.5/exm19_5.sce#S##89805
+19#Appendix A Number System#19.5#SUBTRACTION OF TWO NUMBERS#exm19_5_output.jpg#2522/CH19/EX19.5/exm19_5_output.jpg#R##89806
+19#Appendix A Number System#19.4#2s COMPLIMENT OF BINARY NUMBER#exm19_4.sce#2522/CH19/EX19.4/exm19_4.sce#S##89803
+19#Appendix A Number System#19.4#2s COMPLIMENT OF BINARY NUMBER#exm19_4_output.jpg#2522/CH19/EX19.4/exm19_4_output.jpg#R##89804
+19#Appendix A Number System#19.3#SUBTRACTION OF TWO NUMBERS#exm19_3.sce#2522/CH19/EX19.3/exm19_3.sce#S##89801
+19#Appendix A Number System#19.3#SUBTRACTION OF TWO NUMBERS#exm19_3_output.jpg#2522/CH19/EX19.3/exm19_3_output.jpg#R##89802
+19#Appendix A Number System#19.2#SUBTRACTION OF TWO NUMBERS#exm19_2.sce#2522/CH19/EX19.2/exm19_2.sce#S##89799
+19#Appendix A Number System#19.2#SUBTRACTION OF TWO NUMBERS#exm19_2_output.jpg#2522/CH19/EX19.2/exm19_2_output.jpg#R##89800
+19#Appendix A Number System#19.1#BINARY INTO HEX AND OCTAL#exm19_1.sce#2522/CH19/EX19.1/exm19_1.sce#S##89797
+19#Appendix A Number System#19.1#BINARY INTO HEX AND OCTAL#exm19_1_output.jpg#2522/CH19/EX19.1/exm19_1_output.jpg#R##89798
+15#General Purpose Programmable Peripheral Devices#15.8#INITIALIZATION INSTRUCTIONS FOR DMA#exm15_8.sce#2522/CH15/EX15.8/exm15_8.sce#S##89990
+15#General Purpose Programmable Peripheral Devices#15.8#INITIALIZATION INSTRUCTIONS FOR DMA#exm15_8_output1.jpg#2522/CH15/EX15.8/exm15_8_output1.jpg#R##89991
+15#General Purpose Programmable Peripheral Devices#15.8#INITIALIZATION INSTRUCTIONS FOR DMA#exm15_8_output2.jpg#2522/CH15/EX15.8/exm15_8_output2.jpg#R##89992
+15#General Purpose Programmable Peripheral Devices#15.6#EXPLANATION OF INSTRUCTIONS#exm15_6.sce#2522/CH15/EX15.6/exm15_6.sce#S##89795
+15#General Purpose Programmable Peripheral Devices#15.6#EXPLANATION OF INSTRUCTIONS#exm15_6_output.jpg#2522/CH15/EX15.6/exm15_6_output.jpg#R##89796
+15#General Purpose Programmable Peripheral Devices#15.5#SUBROUTINE TO GENERATE AN INTERRUPT#exm15_5.sce#2522/CH15/EX15.5/exm15_5.sce#S##89793
+15#General Purpose Programmable Peripheral Devices#15.5#SUBROUTINE TO GENERATE AN INTERRUPT#exm15_5_output.jpg#2522/CH15/EX15.5/exm15_5_output.jpg#R##89794
+15#General Purpose Programmable Peripheral Devices#15.4#INSTRUCTIONS TO GENERATE SQUARE WAVE PULSE FROM COUNTER 1#exm15_4.sce#2522/CH15/EX15.4/exm15_4.sce#S##89791
+15#General Purpose Programmable Peripheral Devices#15.4#INSTRUCTIONS TO GENERATE SQUARE WAVE PULSE FROM COUNTER 1#exm15_4_output.jpg#2522/CH15/EX15.4/exm15_4_output.jpg#R##89792
+15#General Purpose Programmable Peripheral Devices#15.3#INSTRUCTIONS TO GENERATE A PULSE FROM COUNTER 0#exm15_3.sce#2522/CH15/EX15.3/exm15_3.sce#S##89789
+15#General Purpose Programmable Peripheral Devices#15.3#INSTRUCTIONS TO GENERATE A PULSE FROM COUNTER 0#exm15_3_output.jpg#2522/CH15/EX15.3/exm15_3_output.jpg#R##89790
+15#General Purpose Programmable Peripheral Devices#15.2#BSR CONTROL WORD SUBROUTINE#exm15_2.sce#2522/CH15/EX15.2/exm15_2.sce#S##89787
+15#General Purpose Programmable Peripheral Devices#15.2#BSR CONTROL WORD SUBROUTINE#exm15_2_output.jpg#2522/CH15/EX15.2/exm15_2_output.jpg#R##89788
+15#General Purpose Programmable Peripheral Devices#15.1#PORT ADDRESS CONTROL WORD ADDRESS AND READ THE DIP SWITCHES#exm15_1.sce#2522/CH15/EX15.1/exm15_1.sce#S##89785
+15#General Purpose Programmable Peripheral Devices#15.1#PORT ADDRESS CONTROL WORD ADDRESS AND READ THE DIP SWITCHES#exm15_1_output.jpg#2522/CH15/EX15.1/exm15_1_output.jpg#R##89786
+14#Programmable Interface Devices #14.2#ADDRESS DETERMINATION OF GIVEN FIGURE#exm14_2.sce#2522/CH14/EX14.2/exm14_2.sce#S##89993
+14#Programmable Interface Devices #14.2#ADDRESS DETERMINATION OF GIVEN FIGURE#exm14_2_output.jpg#2522/CH14/EX14.2/exm14_2_output.jpg#R##89994
+14#Programmable Interface Devices #14.1#INITIALIZE HYPOTHETICAL CHIP AS OUTPUT BUFFER#exm14_1.sce#2522/CH14/EX14.1/exm14_1.sce#S##89783
+14#Programmable Interface Devices #14.1#INITIALIZE HYPOTHETICAL CHIP AS OUTPUT BUFFER#exm14_1_output.jpg#2522/CH14/EX14.1/exm14_1_output.jpg#R##89784
+12#Interrupts#12.3#CHECK PENDING INTERRUPT#exm12_3.sce#2522/CH12/EX12.3/exm12_3.sce#S##89988
+12#Interrupts#12.3#CHECK PENDING INTERRUPT#exm12_3_output.jpg#2522/CH12/EX12.3/exm12_3_output.jpg#R##89989
+12#Interrupts#12.2#RESET INTERRUPT#exm12_2.sce#2522/CH12/EX12.2/exm12_2.sce#S##89781
+12#Interrupts#12.2#RESET INTERRUPT#exm12_2_output.jpg#2522/CH12/EX12.2/exm12_2_output.jpg#R##89782
+12#Interrupts#12.1#ENABLE INTERRUPTS#exm12_1.sce#2522/CH12/EX12.1/exm12_1.sce#S##89779
+12#Interrupts#12.1#ENABLE INTERRUPTS#exm12_1_output.jpg#2522/CH12/EX12.1/exm12_1_output.jpg#R##89780
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.8#TRANSFER A PROGRAM TO AN ADDRESS IN HL REGISTER#exm10_8.sce#2522/CH10/EX10.8/exm10_8.sce#S##89986
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.8#TRANSFER A PROGRAM TO AN ADDRESS IN HL REGISTER#exm10_8_output.jpg#2522/CH10/EX10.8/exm10_8_output.jpg#R##89987
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.7#SUBROUTINE TO SET THE ZERO FLAG#exm10_7.sce#2522/CH10/EX10.7/exm10_7.sce#S##89984
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.7#SUBROUTINE TO SET THE ZERO FLAG#exm10_7_output.jpg#2522/CH10/EX10.7/exm10_7_output.jpg#R##89985
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.6#DISPLAY CONTENTS OF STACK#exm10_6.sce#2522/CH10/EX10.6/exm10_6.sce#S##89777
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.6#DISPLAY CONTENTS OF STACK#exm10_6_output.jpg#2522/CH10/EX10.6/exm10_6_output.jpg#R##89778
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.5#SUBTRACTION OF TWO 16 BIT NUMBERS#exm10_5.sce#2522/CH10/EX10.5/exm10_5.sce#S##89775
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.5#SUBTRACTION OF TWO 16 BIT NUMBERS#exm10_5_output.jpg#2522/CH10/EX10.5/exm10_5_output.jpg#R##89776
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.4#ADDITION OF TWO 16 BIT NUMBERS#exm10_4.sce#2522/CH10/EX10.4/exm10_4.sce#S##89773
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.4#ADDITION OF TWO 16 BIT NUMBERS#exm10_4_output.jpg#2522/CH10/EX10.4/exm10_4_output.jpg#R##89774
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.3#EXCHANGE OF DATA#exm10_3.sce#2522/CH10/EX10.3/exm10_3.sce#S##89771
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.3#EXCHANGE OF DATA#exm10_3_output.jpg#2522/CH10/EX10.3/exm10_3_output.jpg#R##89772
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.2#ADDITION OF PACKED BCD NUMBERS#exm10_2.sce#2522/CH10/EX10.2/exm10_2.sce#S##89769
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.2#ADDITION OF PACKED BCD NUMBERS#exm10_2_output.jpg#2522/CH10/EX10.2/exm10_2_output.jpg#R##89770
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.1#BCD TO BINARY#exm10_1.sce#2522/CH10/EX10.1/exm10_1.sce#S##89767
+10#Code Conversion BCD Arithmetic and 16 bit Data Operations#10.1#BCD TO BINARY#exm10_1_output.jpg#2522/CH10/EX10.1/exm10_1_output.jpg#R##89768
+9#Stack And Subroutines#9.3#EXCHANGE INFORMATION BETWEEN STACK AND PROGRAM COUNTER#exm9_3.sce#2522/CH9/EX9.3/exm9_3.sce#S##89765
+9#Stack And Subroutines#9.3#EXCHANGE INFORMATION BETWEEN STACK AND PROGRAM COUNTER#exm9_3_output.jpg#2522/CH9/EX9.3/exm9_3_output.jpg#R##89766
+9#Stack And Subroutines#9.2#EXCHANGE OF DATA USING STACK#exm9_2.sce#2522/CH9/EX9.2/exm9_2.sce#S##89763
+9#Stack And Subroutines#9.2#EXCHANGE OF DATA USING STACK#exm9_2_output.jpg#2522/CH9/EX9.2/exm9_2_output.jpg#R##89764
+9#Stack And Subroutines#9.1#PUSH POP AND DELAY INSTRUCTIONS#exm9_1.sce#2522/CH9/EX9.1/exm9_1.sce#S##89761
+9#Stack And Subroutines#9.1#PUSH POP AND DELAY INSTRUCTIONS#exm9_1_output.jpg#2522/CH9/EX9.1/exm9_1_output.jpg#R##89762
+7#Programming Techniques With Additional Instructions#7.9#LEFT ROTATION RAL OF BITS#exm7_9.sce#2522/CH7/EX7.9/exm7_9.sce#S##88163
+7#Programming Techniques With Additional Instructions#7.9#LEFT ROTATION RAL OF BITS#exm7_9_output.jpg#2522/CH7/EX7.9/exm7_9_output.jpg#R##88164
+7#Programming Techniques With Additional Instructions#7.8#LEFT ROTATION RLC OF BITS#exm7_8.sce#2522/CH7/EX7.8/exm7_8.sce#S##88161
+7#Programming Techniques With Additional Instructions#7.8#LEFT ROTATION RLC OF BITS#exm7_8_output.jpg#2522/CH7/EX7.8/exm7_8_output.jpg#R##88162
+7#Programming Techniques With Additional Instructions#7.7#INCREMENT AND DECREMENT#exm7_7.sce#2522/CH7/EX7.7/exm7_7.sce#S##88159
+7#Programming Techniques With Additional Instructions#7.7#INCREMENT AND DECREMENT#exm7_7_output.jpg#2522/CH7/EX7.7/exm7_7_output.jpg#R##88160
+7#Programming Techniques With Additional Instructions#7.6#ARITHEMETIC OPERATIONS#exm7_6.sce#2522/CH7/EX7.6/exm7_6.sce#S##88157
+7#Programming Techniques With Additional Instructions#7.6#ARITHEMETIC OPERATIONS#exm7_6_output.jpg#2522/CH7/EX7.6/exm7_6_output.jpg#R##88158
+7#Programming Techniques With Additional Instructions#7.5#INCREMENT A NUMBER#exm7_5.sce#2522/CH7/EX7.5/exm7_5.sce#S##88155
+7#Programming Techniques With Additional Instructions#7.5#INCREMENT A NUMBER#exm7_5_output.jpg#2522/CH7/EX7.5/exm7_5_output.jpg#R##88156
+7#Programming Techniques With Additional Instructions#7.4#USE OF ADDRESSING MODES#exm7_4.sce#2522/CH7/EX7.4/exm7_4.sce#S##88152
+7#Programming Techniques With Additional Instructions#7.4#USE OF ADDRESSING MODES#exm7_4_output1.jpg#2522/CH7/EX7.4/exm7_4_output1.jpg#R##88153
+7#Programming Techniques With Additional Instructions#7.4#USE OF ADDRESSING MODES#exm7_4_output2.jpg#2522/CH7/EX7.4/exm7_4_output2.jpg#R##88154
+7#Programming Techniques With Additional Instructions#7.3#TRANSFER OF DATA BYTES TO ACCUMULATOR#exm7_3.sce#2522/CH7/EX7.3/exm7_3.sce#S##88150
+7#Programming Techniques With Additional Instructions#7.3#TRANSFER OF DATA BYTES TO ACCUMULATOR#exm7_3_output.jpg#2522/CH7/EX7.3/exm7_3_output.jpg#R##88151
+7#Programming Techniques With Additional Instructions#7.2#LOADING 16 BIT NUMBER#exm7_2.sce#2522/CH7/EX7.2/exm7_2.sce#S##88148
+7#Programming Techniques With Additional Instructions#7.2#LOADING 16 BIT NUMBER#exm7_2_output.jpg#2522/CH7/EX7.2/exm7_2_output.jpg#R##88149
+7#Programming Techniques With Additional Instructions#7.11#COMPARISION OF DATA#exm7_11.sce#2522/CH7/EX7.11/exm7_11.sce#S##88167
+7#Programming Techniques With Additional Instructions#7.11#COMPARISION OF DATA#exm7_11_output.jpg#2522/CH7/EX7.11/exm7_11_output.jpg#R##88168
+7#Programming Techniques With Additional Instructions#7.10#RIGHT ROTATION RRC AND RAR OF BITS#exm7_10.sce#2522/CH7/EX7.10/exm7_10.sce#S##88165
+7#Programming Techniques With Additional Instructions#7.10#RIGHT ROTATION RRC AND RAR OF BITS#exm7_10_output.jpg#2522/CH7/EX7.10/exm7_10_output.jpg#R##88166
+7#Programming Techniques With Additional Instructions#7.1#STEPS TO ADD 10 BYTES OF DATA#exm7_1.sce#2522/CH7/EX7.1/exm7_1.sce#S##88146
+7#Programming Techniques With Additional Instructions#7.1#STEPS TO ADD 10 BYTES OF DATA#exm7_1_output.jpg#2522/CH7/EX7.1/exm7_1_output.jpg#R##88147
+6#Introduction To 8085 Instructions#6.9#TURN OFF THE AIR CONDITIONER#exm6_9.sce#2522/CH6/EX6.9/exm6_9.sce#S##84734
+6#Introduction To 8085 Instructions#6.9#TURN OFF THE AIR CONDITIONER#exm6_9_output.jpg#2522/CH6/EX6.9/exm6_9_output.jpg#R##84735
+6#Introduction To 8085 Instructions#6.8#KEEPING THE RADIO ON#exm6_8.sce#2522/CH6/EX6.8/exm6_8.sce#S##84732
+6#Introduction To 8085 Instructions#6.8#KEEPING THE RADIO ON#exm6_8_output.jpg#2522/CH6/EX6.8/exm6_8_output.jpg#R##84733
+6#Introduction To 8085 Instructions#6.7#PERFORMING LOGICAL OPERATIONS#exm6_7.sce#2522/CH6/EX6.7/exm6_7.sce#S##84730
+6#Introduction To 8085 Instructions#6.7#PERFORMING LOGICAL OPERATIONS#exm6_7_output.jpg#2522/CH6/EX6.7/exm6_7_output.jpg#R##84731
+6#Introduction To 8085 Instructions#6.6#SUBTRACTION OF TWO NUMBERS#exm6_6.sce#2522/CH6/EX6.6/exm6_6.sce#S##84728
+6#Introduction To 8085 Instructions#6.6#SUBTRACTION OF TWO NUMBERS#exm6_6_output.jpg#2522/CH6/EX6.6/exm6_6_output.jpg#R##84729
+6#Introduction To 8085 Instructions#6.5#INCRIMENTING ACCUMULATOR CONTENT#exm6_5.sce#2522/CH6/EX6.5/exm6_5.sce#S##84726
+6#Introduction To 8085 Instructions#6.5#INCRIMENTING ACCUMULATOR CONTENT#exm6_5_output.jpg#2522/CH6/EX6.5/exm6_5_output.jpg#R##84727
+6#Introduction To 8085 Instructions#6.4#CONTINUATION OF PREVIOUS EXAMPLE#exm6_4.sce#2522/CH6/EX6.4/exm6_4.sce#S##84724
+6#Introduction To 8085 Instructions#6.4#CONTINUATION OF PREVIOUS EXAMPLE#exm6_4_output.jpg#2522/CH6/EX6.4/exm6_4_output.jpg#R##84725
+6#Introduction To 8085 Instructions#6.3#ADDITION OF TWO NUMBERS#exm6_3.sce#2522/CH6/EX6.3/exm6_3.sce#S##84722
+6#Introduction To 8085 Instructions#6.3#ADDITION OF TWO NUMBERS#exm6_3_output.jpg#2522/CH6/EX6.3/exm6_3_output.jpg#R##84723
+6#Introduction To 8085 Instructions#6.2#TO SWITCH ON SOME DEVICES#exm6_2.sce#2522/CH6/EX6.2/exm6_2.sce#S##84720
+6#Introduction To 8085 Instructions#6.2#TO SWITCH ON SOME DEVICES#exm6_2_output.jpg#2522/CH6/EX6.2/exm6_2_output.jpg#R##84721
+6#Introduction To 8085 Instructions#6.1#LOAD A DATA TO ONE REGISTER AND MOVE IT TO ANOTHER#exm6_1.sce#2522/CH6/EX6.1/exm6_1.sce#S##84718
+6#Introduction To 8085 Instructions#6.1#LOAD A DATA TO ONE REGISTER AND MOVE IT TO ANOTHER#exm6_1_output.jpg#2522/CH6/EX6.1/exm6_1_output.jpg#R##84719
+3#8085 Microprocessor Architecture And Memory Interfacing#3.6#MEMORY ADDRESS RANGE OF 8155#exm3_6.sce#2522/CH3/EX3.6/exm3_6.sce#S##88144
+3#8085 Microprocessor Architecture And Memory Interfacing#3.6#MEMORY ADDRESS RANGE OF 8155#exm3_6_output.jpg#2522/CH3/EX3.6/exm3_6_output.jpg#R##88145
+3#8085 Microprocessor Architecture And Memory Interfacing#3.5#MEMORY ADDRESS RANGE OF 6116#exm3_5.sce#2522/CH3/EX3.5/exm3_5.sce#S##88142
+3#8085 Microprocessor Architecture And Memory Interfacing#3.5#MEMORY ADDRESS RANGE OF 6116#exm3_5_output.jpg#2522/CH3/EX3.5/exm3_5_output.jpg#R##88143
+3#8085 Microprocessor Architecture And Memory Interfacing#3.3#TIME REQUIRED FOR EXECUTION#exm3_3.sce#2522/CH3/EX3.3/exm3_3.sce#S##88140
+3#8085 Microprocessor Architecture And Memory Interfacing#3.3#TIME REQUIRED FOR EXECUTION#exm3_3_output.jpg#2522/CH3/EX3.3/exm3_3_output.jpg#R##88141
+3#8085 Microprocessor Architecture And Memory Interfacing#3.2#EXECUTING THE INSTRUCTION#exm3_2.sce#2522/CH3/EX3.2/exm3_2.sce#S##88138
+3#8085 Microprocessor Architecture And Memory Interfacing#3.2#EXECUTING THE INSTRUCTION#exm3_2_output.jpg#2522/CH3/EX3.2/exm3_2_output.jpg#R##88139
+2#Microprocessor Architecture and Microcomputer Systems#2.5#FETCHING AN INSTRUCTION#exm2_5.sce#2522/CH2/EX2.5/exm2_5.sce#S##84932
+2#Microprocessor Architecture and Microcomputer Systems#2.5#FETCHING AN INSTRUCTION#exm2_5_output.jpg#2522/CH2/EX2.5/exm2_5_output.jpg#R##84933
+2#Microprocessor Architecture and Microcomputer Systems#2.4#CALCULATING NO OF CHIPS#exm2_4.sce#2522/CH2/EX2.4/exm2_4.sce#S##84930
+2#Microprocessor Architecture and Microcomputer Systems#2.4#CALCULATING NO OF CHIPS#exm2_4_output.jpg#2522/CH2/EX2.4/exm2_4_output.jpg#R##84931
+2#Microprocessor Architecture and Microcomputer Systems#2.3#CALCULATING ADDRESS LINES#exm2_3.sce#2522/CH2/EX2.3/exm2_3.sce#S##84928
+2#Microprocessor Architecture and Microcomputer Systems#2.3#CALCULATING ADDRESS LINES#exm2_3_output.png#2522/CH2/EX2.3/exm2_3_output.png#R##84929
+2#Microprocessor Architecture and Microcomputer Systems#2.2#MEMORY ADDRESS RANGE#exm2_2.sce#2522/CH2/EX2.2/exm2_2.sce#S##84926
+2#Microprocessor Architecture and Microcomputer Systems#2.2#MEMORY ADDRESS RANGE#exm2_2_output.png#2522/CH2/EX2.2/exm2_2_output.png#R##84927
+2#Microprocessor Architecture and Microcomputer Systems#2.1#MEMORY ADDRESS RANGE#exm2_1.sce#2522/CH2/EX2.1/exm2_1.sce#S##84924
+2#Microprocessor Architecture and Microcomputer Systems#2.1#MEMORY ADDRESS RANGE#exm2_1_output.png#2522/CH2/EX2.1/exm2_1_output.png#R##84925

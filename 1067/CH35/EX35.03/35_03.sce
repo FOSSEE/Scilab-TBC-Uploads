@@ -1,0 +1,14 @@
+clear;
+clc;
+ct=2000/5;
+i=40e3;
+r1=.31;
+a=28.45e-4;
+r2=2;
+is=i/ct;
+e=is*(r1+r2);
+f=50;
+B=e/(4.4*f*ct*a);
+C=B/sqrt(2);
+C=round(C*10)/10;
+mprintf("saturation magnetic field max=%fWb\t rms value=%fWb",B,C);

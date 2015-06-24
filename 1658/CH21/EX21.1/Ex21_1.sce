@@ -1,0 +1,11 @@
+clc;
+Av1=10;
+Av2=20;
+Av3=40;
+Av=Av1*Av2*Av3;
+disp(Av);
+GV1=20*log10(Av1);
+GV2=20*log10(Av2);
+GV3=20*log10(Av3);
+GV=GV1+GV2+GV3;//CORRECTION
+disp('dB',GV*1,"GV=");

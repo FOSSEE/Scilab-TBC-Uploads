@@ -1,0 +1,9 @@
+Voltage across first unit = 10.79 kV 
+
+Voltage across second unit = 12.13 kV 
+
+Voltage between line and earth = 37.92 kV 
+
+String efficiency = 84.27 % 
+
+

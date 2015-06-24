@@ -1,0 +1,1 @@
+closed-loop input impedance is 0.03 ohms

@@ -1,0 +1,6 @@
+# PROBLEM 20 # 
+
+ Standard formula used 
+ c = theta / (s * l). 
+
+ Concentration of sugar solution = 0.100000 gm/cc or 10 percent.

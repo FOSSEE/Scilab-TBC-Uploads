@@ -1,0 +1,2 @@
+ Maximum delay = 16.7 ps 
+Bandwidth of 2MHz can propogate a distance of 15.0  km  

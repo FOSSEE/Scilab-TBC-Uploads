@@ -1,0 +1,5 @@
+**Sample Problem 33-2a**
+The potential defference accross the inductor is V=57*cos(7453*t)
+
+**Sample Problem 33-2b**
+The maximum rate of change in current is 4750.00amp/s 

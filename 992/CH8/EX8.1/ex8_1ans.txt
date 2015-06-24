@@ -1,0 +1,2 @@
+ Nyquist sampling rate = 24.000000 KHz 
+ Execution done.   

@@ -1,0 +1,36 @@
+-->//(Design against Static Load) Example 4.5
+ 
+-->//Tensile force acting on the rods P (N)
+ 
+-->P = 50000
+ P  =
+ 
+    50000.  
+ 
+-->//Tensile yield strength for 30C8 material Syt (N/mm2)
+ 
+-->Syt = 400
+ Syt  =
+ 
+    400.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 5
+ fs  =
+ 
+    5.  
+ 
+
+Diameter of rods(D) = 30.000000 mm
+
+Enlarged diameter of rods(D1) = 33.000000 mm
+
+Dimensions of a and b are 25.000000 mm and 40.000000 mm respectively
+
+Diameter of pin(d) = 40.000000 mm
+
+Dimensions of d0 and d1 are 80.000000 mm and 60.000000 mm respectively
+
+Design of knuckle joint is safe
+ 

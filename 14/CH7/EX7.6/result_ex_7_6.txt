@@ -1,0 +1,15 @@
+ Voltages with all emfs shorted   
+
+ V1 = 0.13 /_-11.97 per unit
+ V2 = 0.13 /_-11.97 per unit
+ V3 = 0.13 /_-11.97 per unit 
+ V4 = 0.15 /_-11.97 per unit 
+
+ 
+ Resulting voltages are determined by superposition of voltages caused by injected current and emfs shorted to the node vo 
+      ltage                                                                                                                
+
+ V1 = 1.57 /_-10.81 per unit
+ V2 = 1.56 /_-14.04 per unit
+ V3 = 1.57 /_-11.41 per unit 
+ V4 = 1.58 /_-11.97 per unit 

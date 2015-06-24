@@ -1,0 +1,2 @@
+ The max directivity = 1.273240
+ The directivity as a function of the directional angles is represented by, D=Do*sin(x), where Do is the max value of directivity

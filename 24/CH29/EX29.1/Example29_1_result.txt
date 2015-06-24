@@ -1,0 +1,2 @@
+**Sample Problem 29-1**
+The magnitude of magnetic force acting on the proton is 6.251067e-015N 

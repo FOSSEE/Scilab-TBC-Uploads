@@ -1,0 +1,2 @@
+**Sample Problem 32-3**
+The magnetic field is at r=R/5 is equal to 2.29e-006T 

@@ -1,0 +1,64 @@
+10#POWER SEMICONDUCTOR CONVERTERS#9#outputcurrent#cha10_9.sce#10/CH10/EX9/cha10_9.sce#S##79
+10#POWER SEMICONDUCTOR CONVERTERS#8#angleshift#cha10_8.sce#10/CH10/EX8/cha10_8.sce#S##78
+10#POWER SEMICONDUCTOR CONVERTERS#7#phasevoltage#cha10_7.sce#10/CH10/EX7/cha10_7.sce#S##77
+10#POWER SEMICONDUCTOR CONVERTERS#6#outputpower#cha10_6.sce#10/CH10/EX6/cha10_6.sce#S##76
+10#POWER SEMICONDUCTOR CONVERTERS#5#supplypower#cha10_5.sce#10/CH10/EX5/cha10_5.sce#S##75
+10#POWER SEMICONDUCTOR CONVERTERS#4#controlfiringangle#cha10_4.sce#10/CH10/EX4/cha10_4.sce#S##74
+10#POWER SEMICONDUCTOR CONVERTERS#3#powerfactor#cha10_3.sce#10/CH10/EX3/cha10_3.sce#S##73
+10#POWER SEMICONDUCTOR CONVERTERS#2#ouputvoltage#cha10_2.sce#10/CH10/EX2/cha10_2.sce#S##72
+10#POWER SEMICONDUCTOR CONVERTERS#1#firingangle#cha10_1.sce#10/CH10/EX1/cha10_1.sce#S##71
+9#TRANSIENTS AND DYNAMICS#3#maximumcurrent#cha9_3.sce#10/CH9/EX3/cha9_3.sce#S##70
+9#TRANSIENTS AND DYNAMICS#1#armaturevoltage#cha9_1.sce#10/CH9/EX1/cha9_1.sce#S##69
+8#SPECIAL MACHINES#4#inductionenergy#cha8_4.sce#10/CH8/EX4/cha8_4.sce#S##68
+8#SPECIAL MACHINES#3#maximumvoltage#cha8_3.sce#10/CH8/EX3/cha8_3.sce#S##67
+8#SPECIAL MACHINES#1#shaftposition#cha8_1.sce#10/CH8/EX1/cha8_1.sce#S##66
+7#SINGLE PHASE MOTORS#6#torquedev#cha7_6.sce#10/CH7/EX6/cha7_6.sce#S##65
+7#SINGLE PHASE MOTORS#5#maximumtorque#cha7_5.sce#10/CH7/EX5/cha7_5.sce#S##64
+7#SINGLE PHASE MOTORS#4#externalresistance#cha7_4.sce#10/CH7/EX4/cha7_4.sce#S##63
+7#SINGLE PHASE MOTORS#2#ouputpower#cha7_2.sce#10/CH7/EX2/cha7_2.sce#S##62
+6#SYNCHRONOUS MACHINES#7#powercurrent#cha6_7.sce#10/CH6/EX7/cha6_7.sce#S##61
+6#SYNCHRONOUS MACHINES#6#statorcurrent#cha6_6.sce#10/CH6/EX6/cha6_6.sce#S##60
+6#SYNCHRONOUS MACHINES#5#fieldcurrent#cha6_5.sce#10/CH6/EX5/cha6_5.sce#S##59
+6#SYNCHRONOUS MACHINES#4#powerangle#cha6_4.sce#10/CH6/EX4/cha6_4.sce#S##58
+6#SYNCHRONOUS MACHINES#3# excitationvoltage#cha6_3.sce#10/CH6/EX3/cha6_3.sce#S##57
+6#SYNCHRONOUS MACHINES#2# unsaturatedvalues#cha6_2.sce#10/CH6/EX2/cha6_2.sce#S##56
+6#SYNCHRONOUS MACHINES#1#powerfactor#cha6_1.sce#10/CH6/EX1/cha6_1.sce#S##55
+5#INDUCTION(ASYNCHRONOUS) MACHINES#7#speedpower#cha5_7.sce#10/CH5/EX7/cha5_7.sce#S##52
+5#INDUCTION(ASYNCHRONOUS) MACHINES#6#startingtorque#cha5_6.sce#10/CH5/EX6/cha5_6.sce#S##51
+5#INDUCTION(ASYNCHRONOUS) MACHINES#5#resistance#cha5_5.sce#10/CH5/EX5/cha5_5.sce#S##50
+5#INDUCTION(ASYNCHRONOUS) MACHINES#4#sliptorque#cha5_4.sce#10/CH5/EX4/cha5_4.sce#S##49
+5#INDUCTION(ASYNCHRONOUS) MACHINES#3#parameters#cha5_3.sce#10/CH5/EX3/cha5_3.sce#S##48
+5#INDUCTION(ASYNCHRONOUS) MACHINES#2#powerloss#cha5_2.sce#10/CH5/EX2/cha5_2.sce#S##47
+5#INDUCTION(ASYNCHRONOUS) MACHINES#11#voltage#cha5_11.sce#10/CH5/EX11/cha5_11.sce#S##54
+5#INDUCTION(ASYNCHRONOUS) MACHINES#10#parasitictorque#cha5_10.sce#10/CH5/EX10/cha5_10.sce#S##53
+5#INDUCTION(ASYNCHRONOUS) MACHINES#1#frequency#cha5_1.sce#10/CH5/EX1/cha5_1.sce#S##46
+4#DC MACHINES#9#startingcurrent#cha4_9.sce#10/CH4/EX9/cha4_9.sce#S##42
+4#DC MACHINES#8#powerresistance#cha4_8.sce#10/CH4/EX8/cha4_8.sce#S##41
+4#DC MACHINES#7#ampereturns#cha4_7.sce#10/CH4/EX7/cha4_7.sce#S##40
+4#DC MACHINES#6#resistance#cha4_6.sce#10/CH4/EX6/cha4_6.sce#S##39
+4#DC MACHINES#5#seriesturns#cha4_5.sce#10/CH4/EX5/cha4_5.sce#S##38
+4#DC MACHINES#4#fullloadvoltage#cha4_4.sce#10/CH4/EX4/cha4_4.sce#S##37
+4#DC MACHINES#3#fieldcurrent#cha4_3.sce#10/CH4/EX3/cha4_3.sce#S##36
+4#DC MACHINES#2#terminalvoltage#cha4_2.sce#10/CH4/EX2/cha4_2.sce#S##35
+4#DC MACHINES#12#speedcontrol#cha4_12.sce#10/CH4/EX12/cha4_12.sce#S##45
+4#DC MACHINES#11#firingangle#cha4_11.sce#10/CH4/EX11/cha4_11.sce#S##44
+4#DC MACHINES#10#speedtorque#cha4_10.sce#10/CH4/EX10/cha4_10.sce#S##43
+4#DC MACHINES#1.b#torque#cha4_1_b.sce#10/CH4/EX1.b/cha4_1_b.sce#S##34
+3#ELECTROMECHNICAL ENERGY CONVERSION#3#liftingforce#cha3_3.sce#10/CH3/EX3/cha3_3.sce#S##32
+3#ELECTROMECHNICAL ENERGY CONVERSION#2#mechanicalforce#cha3_2.sce#10/CH3/EX2/cha3_2.sce#S##31
+3#ELECTROMECHNICAL ENERGY CONVERSION#1#fieldenergy#cha3_1.sce#10/CH3/EX1/cha3_1.sce#S##30
+2#TRANSFORMERS#9#impedances#cha2_9.sce#10/CH2/EX9/cha2_9.sce#S##29
+2#TRANSFORMERS#8#supplyvoltage#cha2_8.sce#10/CH2/EX8/cha2_8.sce#S##28
+2#TRANSFORMERS#7#volcurregulation#cha2_7.sce#10/CH2/EX7/cha2_7.sce#S##27
+2#TRANSFORMERS#6#kvarating#cha2_6.sce#10/CH2/EX6/cha2_6.sce#S##26
+2#TRANSFORMERS#5#efficiency#cha2_5.sce#10/CH2/EX5/cha2_5.sce#S##25
+2#TRANSFORMERS#4#efficiency#cha2_4.sce#10/CH2/EX4/cha2_4.sce#S##24
+2#TRANSFORMERS#3#voltageregulation#cha2_3.sce#10/CH2/EX3/cha2_3.sce#S##23
+2#TRANSFORMERS#2#parameters#cha2_2.sce#10/CH2/EX2/cha2_2.sce#S##22
+2#TRANSFORMERS#1#powertaken#cha2_1.sce#10/CH2/EX1/cha2_1.sce#S##21
+1#magnetic circuit#6#dimensions#cha1_6.sce#10/CH1/EX6/cha1_6.sce#S##20
+1#magnetic circuit#5#fluxvoltage#cha1_5.sce#10/CH1/EX5/cha1_5.sce#S##19
+1#magnetic circuit#4#magneticflux#cha1_4.sce#10/CH1/EX4/cha1_4.sce#S##18
+1#magnetic circuit#3#airgapflux#cha1_3.sce#10/CH1/EX3/cha1_3.sce#S##17
+1#magnetic circuit#2#fluxdensity#cha1_2.sce#10/CH1/EX2/cha1_2.sce#S##16
+1#magnetic circuit#1#current#cha1_1.sce#10/CH1/EX1/cha1_1.sce#S##15

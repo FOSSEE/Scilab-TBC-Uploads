@@ -1,0 +1,3 @@
+Thermal voltage = 2.61e-002 V
+ni^2 = 2.250e+032
+Barrier voltage = 0.645 V 

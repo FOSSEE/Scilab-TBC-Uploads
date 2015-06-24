@@ -1,0 +1,2 @@
+Ls = 1230.9 mu m 
+Reflections per m = 812 

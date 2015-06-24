@@ -1,0 +1,35 @@
+  
+ (a)arithmetic mean(in V)=   
+ 
+    12.65  
+ 
+ (b)value of deviation(in V)=   
+ 
+    0.15  
+ 
+  - 0.45  
+ 
+  - 0.15  
+ 
+    0.45  
+ 
+    0.25  
+ 
+  - 0.25  
+ 
+ (c)average deviation=   
+ 
+    0.2833333  
+ 
+ (d)standard deviation(in V)=   
+ 
+    0.3201562  
+ 
+ (e)variance(in V)=   
+ 
+    0.1025  
+ 
+ (f)probable error of one reading(in V)=   
+ 
+    0.0691363  
+ 

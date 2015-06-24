@@ -1,0 +1,18 @@
+ Z_s= 5 ohm
+X_s= 4.935585 ohm
+ 
+ At unity power factor   
+
+induced emf= 2137.755833V
+regulation= 6.887792 percent
+ 
+ At 0.71 lagging power factor   
+
+induced emf= 2422.283821V
+regulation= 21.114191percent
+ 
+ At 0.8 leading power factor   
+
+induced emf= 1822.487197V
+regulation=  -8.875640percent
+ 

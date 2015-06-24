@@ -1,0 +1,4 @@
+torque in motor (in Nw-m)=   
+ 
+    983.28877  
+ 

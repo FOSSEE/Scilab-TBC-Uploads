@@ -1,0 +1,4 @@
+
+3.current through the ammeter at 1 FSD=0.01 A
+current through the ammeter at 0.5 FSD=0.005 A
+current through the ammeter at 0.25 FSD=0.0025 A

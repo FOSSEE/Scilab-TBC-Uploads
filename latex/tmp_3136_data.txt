@@ -1,0 +1,97 @@
+12#Review on Thermodynamics and Compressible Flow#12.8#A#Ex12_8.sce#3136/CH12/EX12.8/Ex12_8.sce#S##110874
+12#Review on Thermodynamics and Compressible Flow#12.7#A#Ex12_7.sce#3136/CH12/EX12.7/Ex12_7.sce#S##110873
+12#Review on Thermodynamics and Compressible Flow#12.6#A#Ex12_6.sce#3136/CH12/EX12.6/Ex12_6.sce#S##110872
+12#Review on Thermodynamics and Compressible Flow#12.5#A#Ex12_5.sce#3136/CH12/EX12.5/Ex12_5.sce#S##110871
+12#Review on Thermodynamics and Compressible Flow#12.4#A#Ex12_4.sce#3136/CH12/EX12.4/Ex12_4.sce#S##110870
+12#Review on Thermodynamics and Compressible Flow#12.3#A#Ex12_3.sce#3136/CH12/EX12.3/Ex12_3.sce#S##110869
+12#Review on Thermodynamics and Compressible Flow#12.2#A#Ex12_2.sce#3136/CH12/EX12.2/Ex12_2.sce#S##110868
+12#Review on Thermodynamics and Compressible Flow#12.1#A#Ex12_1.sce#3136/CH12/EX12.1/Ex12_1.sce#S##110867
+11#Wind Turbines#11.3#WT#Ex11_3.sce#3136/CH11/EX11.3/Ex11_3.sce#S##110866
+11#Wind Turbines#11.2#WT#Ex11_2.sce#3136/CH11/EX11.2/Ex11_2.sce#S##110865
+11#Wind Turbines#11.1#WT#Ex11_1.sce#3136/CH11/EX11.1/Ex11_1.sce#S##110864
+10#Hydraulic Turbines#10.5#HT#Ex10_5.sce#3136/CH10/EX10.5/Ex10_5.sce#S##110863
+10#Hydraulic Turbines#10.4#HT#Ex10_4.sce#3136/CH10/EX10.4/Ex10_4.sce#S##110862
+10#Hydraulic Turbines#10.3#HT#Ex10_3.sce#3136/CH10/EX10.3/Ex10_3.sce#S##110861
+10#Hydraulic Turbines#10.2#HT#Ex10_2.sce#3136/CH10/EX10.2/Ex10_2.sce#S##110860
+10#Hydraulic Turbines#10.1#HT#Ex10_1.sce#3136/CH10/EX10.1/Ex10_1.sce#S##110859
+9#Steam Turbines#9.6#Steam Turbines#Ex9_6.sce#3136/CH9/EX9.6/Ex9_6.sce#S##110858
+9#Steam Turbines#9.5#ST#Ex9_5.sce#3136/CH9/EX9.5/Ex9_5.sce#S##110857
+9#Steam Turbines#9.4#ST#Ex9_4.sce#3136/CH9/EX9.4/Ex9_4.sce#S##110856
+9#Steam Turbines#9.3#ST#Ex9_3.sce#3136/CH9/EX9.3/Ex9_3.sce#S##110855
+9#Steam Turbines#9.2#ST#Ex9_2.sce#3136/CH9/EX9.2/Ex9_2.sce#S##110854
+9#Steam Turbines#9.1#ST#Ex9_1.sce#3136/CH9/EX9.1/Ex9_1.sce#S##110853
+8#Gas Turbines#8.7#GT#Ex8_7.sce#3136/CH8/EX8.7/Ex8_7.sce#S##110852
+8#Gas Turbines#8.6#GT#Ex8_6.sce#3136/CH8/EX8.6/Ex8_6.sce#S##110851
+8#Gas Turbines#8.5#GT#Ex8_5.sce#3136/CH8/EX8.5/Ex8_5.sce#S##110850
+8#Gas Turbines#8.4#GT#Ex8_4.sce#3136/CH8/EX8.4/Ex8_4.sce#S##110849
+8#Gas Turbines#8.3#GT#Ex8_3.sce#3136/CH8/EX8.3/Ex8_3.sce#S##110848
+8#Gas Turbines#8.2#GT#Ex8_2.sce#3136/CH8/EX8.2/Ex8_2.sce#S##110847
+8#Gas Turbines#8.1#GT#Ex8_1.sce#3136/CH8/EX8.1/Ex8_1.sce#S##110846
+7#Axial Flow Compressors#7.6#AFC#Ex7_6.sce#3136/CH7/EX7.6/Ex7_6.sce#S##110845
+7#Axial Flow Compressors#7.5#AFC#Ex7_5.sce#3136/CH7/EX7.5/Ex7_5.sce#S##110844
+7#Axial Flow Compressors#7.4#AFC#Ex7_4.sce#3136/CH7/EX7.4/Ex7_4.sce#S##110843
+7#Axial Flow Compressors#7.3#AFC#Ex7_3.sce#3136/CH7/EX7.3/Ex7_3.sce#S##110842
+7#Axial Flow Compressors#7.2#AFC#Ex7_2.sce#3136/CH7/EX7.2/Ex7_2.sce#S##110841
+7#Axial Flow Compressors#7.1#AFC#Ex7_1.sce#3136/CH7/EX7.1/Ex7_1.sce#S##110840
+6#Centrifugal Fans Blowers and Compressors#6.9#C#Ex6_9.sce#3136/CH6/EX6.9/Ex6_9.sce#S##110838
+6#Centrifugal Fans Blowers and Compressors#6.8#C#Ex6_8.sce#3136/CH6/EX6.8/Ex6_8.sce#S##110837
+6#Centrifugal Fans Blowers and Compressors#6.7#C#Ex6_7.sce#3136/CH6/EX6.7/Ex6_7.sce#S##110836
+6#Centrifugal Fans Blowers and Compressors#6.6#C#Ex6_6.sce#3136/CH6/EX6.6/Ex6_6.sce#S##110835
+6#Centrifugal Fans Blowers and Compressors#6.5#C#Ex6_5.sce#3136/CH6/EX6.5/Ex6_5.sce#S##110834
+6#Centrifugal Fans Blowers and Compressors#6.4#C#Ex6_4.sce#3136/CH6/EX6.4/Ex6_4.sce#S##110833
+6#Centrifugal Fans Blowers and Compressors#6.3#C#Ex6_3.sce#3136/CH6/EX6.3/Ex6_3.sce#S##110832
+6#Centrifugal Fans Blowers and Compressors#6.2#C#Ex6_2.sce#3136/CH6/EX6.2/Ex6_2.sce#S##110831
+6#Centrifugal Fans Blowers and Compressors#6.10#C#Ex6_10.sce#3136/CH6/EX6.10/Ex6_10.sce#S##110839
+6#Centrifugal Fans Blowers and Compressors#6.1#C#Ex6_1.sce#3136/CH6/EX6.1/Ex6_1.sce#S##110830
+5#Axial Flow Pumps and Fans#5.9#AF#Ex5_9.sce#3136/CH5/EX5.9/Ex5_9.sce#S##110829
+5#Axial Flow Pumps and Fans#5.8#AF#Ex5_8.sce#3136/CH5/EX5.8/Ex5_8.sce#S##110828
+5#Axial Flow Pumps and Fans#5.7#AF#Ex5_7.sce#3136/CH5/EX5.7/Ex5_7.sce#S##110827
+5#Axial Flow Pumps and Fans#5.6#AF#Ex5_6.sce#3136/CH5/EX5.6/Ex5_6.sce#S##110826
+5#Axial Flow Pumps and Fans#5.5#AF#Ex5_5.sce#3136/CH5/EX5.5/Ex5_5.sce#S##110825
+5#Axial Flow Pumps and Fans#5.4#AF#Ex5_4.sce#3136/CH5/EX5.4/Ex5_4.sce#S##111945
+5#Axial Flow Pumps and Fans#5.3#AF#Ex5_3.sce#3136/CH5/EX5.3/Ex5_3.sce#S##110823
+5#Axial Flow Pumps and Fans#5.2#AF#Ex5_2.sce#3136/CH5/EX5.2/Ex5_2.sce#S##110822
+5#Axial Flow Pumps and Fans#5.1#AF#Ex5_1.sce#3136/CH5/EX5.1/Ex5_1.sce#S##110821
+4#Centrifugal Pumps#4.9#CP#Ex4_9.sce#3136/CH4/EX4.9/Ex4_9.sce#S##110816
+4#Centrifugal Pumps#4.8#CP#Ex4_8.sce#3136/CH4/EX4.8/Ex4_8.sce#S##110815
+4#Centrifugal Pumps#4.7#CP#Ex4_7.sce#3136/CH4/EX4.7/Ex4_7.sce#S##110814
+4#Centrifugal Pumps#4.6#CP#Ex4_6.sce#3136/CH4/EX4.6/Ex4_6.sce#S##110813
+4#Centrifugal Pumps#4.5#CP#Ex4_5.sce#3136/CH4/EX4.5/Ex4_5.sce#S##110812
+4#Centrifugal Pumps#4.4#CP#Ex4_4.sce#3136/CH4/EX4.4/Ex4_4.sce#S##110811
+4#Centrifugal Pumps#4.3#CP#Ex4_3.sce#3136/CH4/EX4.3/Ex4_3.sce#S##110810
+4#Centrifugal Pumps#4.2#CP#Ex4_2.sce#3136/CH4/EX4.2/Ex4_2.sce#S##110809
+4#Centrifugal Pumps#4.13#CP#Ex4_13.sce#3136/CH4/EX4.13/Ex4_13.sce#S##111759
+4#Centrifugal Pumps#4.12#CP#Ex4_12.sce#3136/CH4/EX4.12/Ex4_12.sce#S##110819
+4#Centrifugal Pumps#4.11#CP#Ex4_11.sce#3136/CH4/EX4.11/Ex4_11.sce#S##110818
+4#Centrifugal Pumps#4.10#CP#Ex4_10.sce#3136/CH4/EX4.10/Ex4_10.sce#S##110817
+4#Centrifugal Pumps#4.1#CP#Ex4_1.sce#3136/CH4/EX4.1/Ex4_1.sce#S##110808
+3#Energy Transfer in Turbomachines#3.9#ETT#Ex3_9.sce#3136/CH3/EX3.9/Ex3_9.sce#S##111754
+3#Energy Transfer in Turbomachines#3.8#ETT#Ex3_8.sce#3136/CH3/EX3.8/Ex3_8.sce#S##111943
+3#Energy Transfer in Turbomachines#3.7#ETT#Ex3_7.sce#3136/CH3/EX3.7/Ex3_7.sce#S##111752
+3#Energy Transfer in Turbomachines#3.6#ETT#Ex3_6.sce#3136/CH3/EX3.6/Ex3_6.sce#S##111942
+3#Energy Transfer in Turbomachines#3.5#ETT#Ex3_5.sce#3136/CH3/EX3.5/Ex3_5.sce#S##111750
+3#Energy Transfer in Turbomachines#3.4#ETT#Ex3_4.sce#3136/CH3/EX3.4/Ex3_4.sce#S##111749
+3#Energy Transfer in Turbomachines#3.3#ETT#Ex3_3.sce#3136/CH3/EX3.3/Ex3_3.sce#S##111748
+3#Energy Transfer in Turbomachines#3.2#ETT#Ex3_2.sce#3136/CH3/EX3.2/Ex3_2.sce#S##111747
+3#Energy Transfer in Turbomachines#3.13#ETT#Ex3_13.sce#3136/CH3/EX3.13/Ex3_13.sce#S##111758
+3#Energy Transfer in Turbomachines#3.12#ETT#Ex3_12.sce#3136/CH3/EX3.12/Ex3_12.sce#S##111757
+3#Energy Transfer in Turbomachines#3.11#ETT#Ex3_11.sce#3136/CH3/EX3.11/Ex3_11.sce#S##111756
+3#Energy Transfer in Turbomachines#3.10#ETT#Ex3_10.sce#3136/CH3/EX3.10/Ex3_10.sce#S##111755
+3#Energy Transfer in Turbomachines#3.1#ETT#Ex3_1.sce#3136/CH3/EX3.1/Ex3_1.sce#S##111746
+2#Dimensional Analysis#2.9#DA#Ex2_9.sce#3136/CH2/EX2.9/Ex2_9.sce#S##111743
+2#Dimensional Analysis#2.8#DA#Ex2_8.sce#3136/CH2/EX2.8/Ex2_8.sce#S##111940
+2#Dimensional Analysis#2.7#DA#Ex2_7.sce#3136/CH2/EX2.7/Ex2_7.sce#S##111741
+2#Dimensional Analysis#2.6#DA#Ex2_6.sce#3136/CH2/EX2.6/Ex2_6.sce#S##111740
+2#Dimensional Analysis#2.5#DA#Ex2_5.sce#3136/CH2/EX2.5/Ex2_5.sce#S##111739
+2#Dimensional Analysis#2.4#DA#Ex2_4.sce#3136/CH2/EX2.4/Ex2_4.sce#S##111738
+2#Dimensional Analysis#2.3#DA#Ex2_3.sce#3136/CH2/EX2.3/Ex2_3.sce#S##111737
+2#Dimensional Analysis#2.2#DA#Ex2_2.sce#3136/CH2/EX2.2/Ex2_2.sce#S##111736
+2#Dimensional Analysis#2.11#DA#Ex2_11.sce#3136/CH2/EX2.11/Ex2_11.sce#S##111941
+2#Dimensional Analysis#2.10#DA#Ex2_10.sce#3136/CH2/EX2.10/Ex2_10.sce#S##111744
+2#Dimensional Analysis#2.1#DA#Ex2_1.sce#3136/CH2/EX2.1/Ex2_1.sce#S##111735
+1#Introduction#1.6#I#Ex1_6.sce#3136/CH1/EX1.6/Ex1_6.sce#S##111734
+1#Introduction#1.5#I#Ex1_5.sce#3136/CH1/EX1.5/Ex1_5.sce#S##111733
+1#Introduction#1.4#I#Ex1_4.sce#3136/CH1/EX1.4/Ex1_4.sce#S##111732
+1#Introduction#1.3#I#Ex1_3.sce#3136/CH1/EX1.3/Ex1_3.sce#S##111731
+1#Introduction#1.2#I#Ex1_2.sce#3136/CH1/EX1.2/Ex1_2.sce#S##111730
+1#Introduction#1.1#I#Ex1_1.sce#3136/CH1/EX1.1/Ex1_1.sce#S##111729

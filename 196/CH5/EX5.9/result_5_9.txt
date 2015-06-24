@@ -1,0 +1,3 @@
+ Output Voltage for dark Condition = 0.1000 V 
+
+ Output voltage in light condition = 10.0000 V 

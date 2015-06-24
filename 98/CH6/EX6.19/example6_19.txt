@@ -1,0 +1,17 @@
+ 
+ COST OF INCREASING PLANT CAPACITY:    
+The increase in kVA capacity of the plant = 0.2371*OB 
+
+Total cost of increasing the plant capacity = Rs. 2.37*OB 
+
+ 
+ COST OF PHASE ADVANCING EQUIPMENT:    
+Leading kVAR taken by p.f correction equipment = 0.383*OB 
+
+Let the cost per kVAR of the equipment be Rs. y 
+
+Annual cost of phase advancing equipment = Rs. 0.038*y*OB 
+
+Equating the total costs for economy, y = Rs. 61.84 
+
+

@@ -1,0 +1,22 @@
+Impedance of distributor/km = 0.05+j(0.10) ohm 
+
+Impedance of section AC = Zac = 0.05+j(0.10) ohm 
+Impedance of section CB = Zcb = 0.05+j(0.10) ohm 
+
+
+(i)Load current at point B = 96.00+j(-72.00) A 
+Load current at point C = 72.00+j(-34.87) A 
+
+Current in section CB = 96.00+j(-72.00) A 
+Current in section AC = 168.00+j(-106.87) A 
+
+Voltage drop in section CB = 12.00+j(6.00) A 
+Voltage drop in section AC = 19.09+j(11.46) A 
+
+Sending end voltage = 261.09+j(17.46) 
+Magnitude of sending end voltage = 261.67 V 
+
+
+(ii)The phase difference between Va and Vb = 3.82 degrees 
+
+

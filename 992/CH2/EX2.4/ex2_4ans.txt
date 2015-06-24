@@ -1,0 +1,6 @@
+
+	 depth signal = 1.130388 
+ when percent of odulation changed to 6
+
+	 the antenna current = 14.750000 A 
+ Execution done.   

@@ -1,0 +1,3 @@
+Q of the filter is 0.577(Bessel response)
+peak frequency is 8.19 kHertz
+cutoff frequency is 6.44 kHertz

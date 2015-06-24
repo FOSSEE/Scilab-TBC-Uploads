@@ -1,0 +1,6 @@
+# PROBLEM 10 # 
+Standard formula used 
+ mu=tan(Ip)
+
+ Velocity of ordinary ray is 1.809409e+08 m/sec 
+ Velocity of extra ordinary ray is 2.018843e+08 m/sec

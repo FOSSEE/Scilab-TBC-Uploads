@@ -1,0 +1,5 @@
+# PROBLEM 19 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N 
+ 
+ The wavelength of 5th order spectrum is 4712 angstrom.

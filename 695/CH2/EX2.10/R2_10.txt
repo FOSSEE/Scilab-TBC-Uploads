@@ -1,0 +1,11 @@
+ (a) Load current (in amperes)=   
+ 
+    177.5  
+ 
+ (b) Generated emf (in volts)=   
+ 
+    257.2  
+ 
+ (c) flux/pole (in mili weber)=   
+ 
+    22.045714 

@@ -1,0 +1,13 @@
+ 
+ Example 17.5
+ Part A:
+ Capacitance of capacitor is 1.71e-11 F
+
+ Part B:
+ Stored charge in capacitor is 1.71e-10 C
+
+ Part C:
+ Dielectric displacement in capacitor is 2.66e-07 C/m^2
+
+ Part D:
+ Polarization is 2.22e-07 C/m^2 

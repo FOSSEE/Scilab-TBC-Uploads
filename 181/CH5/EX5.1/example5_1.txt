@@ -1,0 +1,8 @@
+ Part 1 
+(a)The value of Base Current in the BJT circuit is 3.079e-005 A 
+(b)The value of Collector Current in the BJT circuit is 3.079e-003 A 
+(c)The value of Collector-Emitter voltage in the circuit is 3.779 V 
+
+Part 2 
+(a)The value of the Base Resistance of the Circuit is 4.242e+005 ohm 
+  

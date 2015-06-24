@@ -1,0 +1,7 @@
+Magnetic field strength (in AT/m) =    
+ 
+    24000.  
+ 
+ Flux density (in Wb/sq m) =    
+ 
+    0.030168  

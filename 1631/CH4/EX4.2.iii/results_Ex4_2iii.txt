@@ -1,0 +1,5 @@
+ Final Bit rate    
+ 
+    75600000.  
+ 
+ bits/sec  

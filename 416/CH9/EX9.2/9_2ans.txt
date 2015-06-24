@@ -1,0 +1,4 @@
+example 9.2   
+energy evalent in joules is 1.494000e-010joules 
+ energy equvalent in Mev is 932MeV 
+ hense shown 

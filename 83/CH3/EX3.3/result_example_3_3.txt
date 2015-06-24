@@ -1,0 +1,8 @@
+ 
+
+Total capacitance to neutral for two conductors in parallel = 0.018088 uF/km 
+
+Charging current/phase = 0.361 A/km 
+
+Charging current/conductor = 0.1804 A/km 
+

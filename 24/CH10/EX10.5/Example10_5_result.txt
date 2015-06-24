@@ -1,0 +1,5 @@
+**Sample Problem 10-5a**
+The common velocity after the collision is 4.854825m/s
+
+**Sample Problem 10-5**
+The velocity of center of mass is not altered due to collision 

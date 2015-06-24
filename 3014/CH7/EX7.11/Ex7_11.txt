@@ -1,0 +1,4 @@
+
+
+Example 7.11
+ Required frequency is 8 MHz. 

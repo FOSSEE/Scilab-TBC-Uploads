@@ -1,0 +1,15 @@
+Voltage per phase = 3811 V 
+
+Full load current = 875 V 
+
+Reactance per phase = 0.436 ohm 
+
+Reactance of 10 percent winding = 0.0436 ohm 
+
+EMF induced in 10 percent winding = 381 V 
+
+Impedance offered by fault by 10 percent winding is Zf=sqrt(0.0436^2+r^2) 
+
+Earthing resistance to be provided = 2.177 ohm 
+
+

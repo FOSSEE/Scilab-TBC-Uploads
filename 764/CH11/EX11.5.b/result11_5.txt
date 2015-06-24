@@ -1,0 +1,37 @@
+-->//(Friction Clutches) Example 11.5
+ 
+-->//Engine develops maximum torque Mt (N-m)
+ 
+-->Mt = 120
+ Mt  =
+ 
+    120.  
+ 
+-->//Factor of safety to account for slippage at full-engine torque fs
+ 
+-->fs = 1.5
+ fs  =
+ 
+    1.5  
+ 
+-->//Permissible intensity of pressure Pa (kPa)
+ 
+-->Pa = 350
+ Pa  =
+ 
+    350.  
+ 
+-->//Coefficient of friction between the contacting surfaces mu
+ 
+-->mu = 0.35
+ mu  =
+ 
+    0.35  
+ 
+
+Results
+
+Inner diameter of the friction lining(d) = 123.220276 mm
+
+Outer diameter of the friction lining(D) = 213.553339 mm
+ 

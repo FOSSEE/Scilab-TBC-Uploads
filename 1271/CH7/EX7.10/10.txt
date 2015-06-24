@@ -1,0 +1,2 @@
+
+ Time period of pendulum = 1.756204 sec.

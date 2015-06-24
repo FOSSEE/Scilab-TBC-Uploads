@@ -1,0 +1,8 @@
+(a)Power supplied by synchronous motor(in KVA)=   
+ 
+    21.253786  
+ 
+ (b)Power factor of synchronous machine=   
+ 
+    0.8830811  
+ 

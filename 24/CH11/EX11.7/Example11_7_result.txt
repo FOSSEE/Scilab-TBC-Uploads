@@ -1,0 +1,4 @@
+**Sample Problem 11-7**
+The acceleration of the block is 4.800000m/s^2
+The angular acceleration of the pulley is 24.000000rad/s^2
+The tension in the string is 6.000000N 

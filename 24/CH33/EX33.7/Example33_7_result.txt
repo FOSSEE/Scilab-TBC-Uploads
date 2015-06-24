@@ -1,0 +1,5 @@
+**Sample Problem 33-7a**
+The amplitude of current in the circuit is 0.16A, Imax
+
+**Sample Problem 33-7a**
+The phase constant is equal to -0.423398degrees 

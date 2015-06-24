@@ -1,0 +1,14 @@
+D=C-P+2   
+ 
+ Total no. of variables = P*(C-1)+2   
+ 
+ Degree of freedom =    
+ 
+    0.  
+ 
+ when p =    
+ 
+    4.  
+ 
+ Two component system cannot have more than 4 phases in an equilibrium   
+ 

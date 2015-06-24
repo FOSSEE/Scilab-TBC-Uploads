@@ -1,0 +1,7 @@
+magnitude of limiting error for R1(in ohm)=   
+ 
+    0.18  
+ 
+ magnitude of limiting error for R2(in ohm)=   
+ 
+    0.375

@@ -1,0 +1,11 @@
+ Increase in cost for unit 1 in $ per hour is   
+ 
+    570.  
+ 
+ Increase in cost for unit 2 in $ per hour is   
+ 
+    548.  
+ 
+ Net increase in cost in $ per hour is   
+ 
+    22.  

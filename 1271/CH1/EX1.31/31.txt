@@ -1,0 +1,2 @@
+﻿
+ Fringe width = 1.500000 mm.

@@ -1,0 +1,12 @@
+clear;
+clc;
+a=90;
+R=10;
+P=5000;
+V_s=sqrt(P*R*4*%pi/(2*3)/((%pi-%pi/2)+(sind(2*a))/2));
+V_ph=V_s/sqrt(3);    printf("per phase voltage, V_ph=%.2f V",V_ph);
+I_or=sqrt(P*R);
+V_s=I_or*2*%pi/(sqrt(2)*3*(1+cosd(a)));
+V_ph=V_s/sqrt(3);    
+printf("\nfor constant load current");
+printf("\nV_ph=%.1f V",V_ph);

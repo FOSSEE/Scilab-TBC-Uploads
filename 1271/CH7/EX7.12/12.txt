@@ -1,0 +1,3 @@
+
+ Time period of motion = 1.256637 sec. 
+ Compression of the spring due to the weight of the body = 0.392000 m. 

@@ -1,0 +1,5 @@
+**Sample Problem 38-5a**
+The speed of gas relative to us is 5.39e+005m/s
+
+**Sample Problem 38-5b**
+The mass of galaxy is 2.07e+009*Ms 

@@ -1,0 +1,172 @@
+18#Elementary Particles#18.9#Decay of sigma particle#CH18Exa9.sce#1970/CH18/EX18.9/CH18Exa9.sce#S##78117
+18#Elementary Particles#18.4#Allowed and forbidden reactions under conservation laws#CH18Exa4.sce#1970/CH18/EX18.4/CH18Exa4.sce#S##78116
+18#Elementary Particles#18.3#Isospin of the strange particles#CH18Exa3.sce#1970/CH18/EX18.3/CH18Exa3.sce#S##78115
+18#Elementary Particles#18.18#Root mean square radius of charge distribution#CH18Exa18.sce#1970/CH18/EX18.18/CH18Exa18.sce#S##78123
+18#Elementary Particles#18.16#Ratio of cross section for reactions#CH18Exa16.sce#1970/CH18/EX18.16/CH18Exa16.sce#S##78122
+18#Elementary Particles#18.15#Branching ratio for resonant decay#CH18Exa15.sce#1970/CH18/EX18.15/CH18Exa15.sce#S##78121
+18#Elementary Particles#18.13#Possible electric charge for a baryon and a meson#CH18Exa13.sce#1970/CH18/EX18.13/CH18Exa13.sce#S##78119
+18#Elementary Particles#18.10#Estimation of the mean life of tau plus#CH18Exa10.sce#1970/CH18/EX18.10/CH18Exa10.sce#S##78118
+18#Elementary Particles#18.1#Root mean square radius of charge distribution#CH18Exa1.sce#1970/CH18/EX18.1/CH18Exa1.sce#S##78114
+16#Chemical and Biological Effects of Radiation#16.4#Amount of liver dose for a liver scan#CH16Exa4.sce#1970/CH16/EX16.4/CH16Exa4.sce#S##78113
+16#Chemical and Biological Effects of Radiation#16.2#Conversion of becquerel into curie#CH16Exa2.sce#1970/CH16/EX16.2/CH16Exa2.sce#S##78112
+16#Chemical and Biological Effects of Radiation#16.1#Radiation dosimetry#CH16Exa1.sce#1970/CH16/EX16.1/CH16Exa1.sce#S##78111
+15#Nuclear Fission Reactors#15.8#Critical volume of the spherical reactor#CH15Exa8.sce#1970/CH15/EX15.8/CH15Exa8.sce#S##78110
+15#Nuclear Fission Reactors#15.7#Dimensions of a reactor#CH15Exa7.sce#1970/CH15/EX15.7/CH15Exa7.sce#S##78109
+15#Nuclear Fission Reactors#15.6#Control poison required to maintain the criticality of U235#CH15Exa6.sce#1970/CH15/EX15.6/CH15Exa6.sce#S##78108
+15#Nuclear Fission Reactors#15.5#Multiplication factor for LOPO nuclear reactor#CH15Exa5.sce#1970/CH15/EX15.5/CH15Exa5.sce#S##78107
+15#Nuclear Fission Reactors#15.4#Ratio of number of uranium atoms to graphite atoms#CH15Exa4.sce#1970/CH15/EX15.4/CH15Exa4.sce#S##78106
+15#Nuclear Fission Reactors#15.3#Multiplication factor for uranium graphite moderated assembly#CH15Exa3.sce#1970/CH15/EX15.3/CH15Exa3.sce#S##78105
+15#Nuclear Fission Reactors#15.2#Neutron multiplication factor of uranium reactor#CH15Exa2.sce#1970/CH15/EX15.2/CH15Exa2.sce#S##78104
+15#Nuclear Fission Reactors#15.1#Estimation of the leakage factor for thermal reactor#CH15Exa1.sce#1970/CH15/EX15.1/CH15Exa1.sce#S##78103
+13#Nuclear Fission and Fusion#13.9#Estimating the asymmetric binding energy term#CH13Exa9.sce#1970/CH13/EX13.9/CH13Exa9.sce#S##78102
+13#Nuclear Fission and Fusion#13.8#Estimating the Q value for symmetric fission of a nucleus#CH13Exa8.sce#1970/CH13/EX13.8/CH13Exa8.sce#S##78101
+13#Nuclear Fission and Fusion#13.7#Energy radiated and the temperature of the sun#CH13Exa7.sce#1970/CH13/EX13.7/CH13Exa7.sce#S##78100
+13#Nuclear Fission and Fusion#13.6#Maximum temperature attained by thermonuclear device#CH13Exa6.sce#1970/CH13/EX13.6/CH13Exa6.sce#S##78099
+13#Nuclear Fission and Fusion#13.5#Total energy released in fusion reaction#CH13Exa5.sce#1970/CH13/EX13.5/CH13Exa5.sce#S##78098
+13#Nuclear Fission and Fusion#13.4#Excitation energy for uranium isotopes#CH13Exa4.sce#1970/CH13/EX13.4/CH13Exa4.sce#S##78097
+13#Nuclear Fission and Fusion#13.3#Number of neutrons released per absorption#CH13Exa3.sce#1970/CH13/EX13.3/CH13Exa3.sce#S##78096
+13#Nuclear Fission and Fusion#13.2#Number of free neutrons in the reactor#CH13Exa2.sce#1970/CH13/EX13.2/CH13Exa2.sce#S##78095
+13#Nuclear Fission and Fusion#13.1#Fission rate and energy released during fission of U235#CH13Exa1.sce#1970/CH13/EX13.1/CH13Exa1.sce#S##78094
+12#Neutrons#12.9#Neutron age and slowing down length of neutrons in graphite and beryllium#CH12Exa9.sce#1970/CH12/EX12.9/CH12Exa9.sce#S##78092
+12#Neutrons#12.8#Diffusion length for thermal neutrons in graphite#CH12Exa8.sce#1970/CH12/EX12.8/CH12Exa8.sce#S##78091
+12#Neutrons#12.7#Diffusion length and neutron flux for thermal neutrons#CH12Exa7.sce#1970/CH12/EX12.7/CH12Exa7.sce#S##78090
+12#Neutrons#12.6#Neutron flux through water tank#CH12Exa6.sce#1970/CH12/EX12.6/CH12Exa6.sce#S##78089
+12#Neutrons#12.5#Average distance travelled by a neutron#CH12Exa5.sce#1970/CH12/EX12.5/CH12Exa5.sce#S##78088
+12#Neutrons#12.4#Number of collisions for neutron loss#CH12Exa4.sce#1970/CH12/EX12.4/CH12Exa4.sce#S##78087
+12#Neutrons#12.3#Energy loss of neutron during collision with carbon#CH12Exa3.sce#1970/CH12/EX12.3/CH12Exa3.sce#S##78086
+12#Neutrons#12.2#Energy loss during neutron scattering#CH12Exa2.sce#1970/CH12/EX12.2/CH12Exa2.sce#S##78085
+12#Neutrons#12.10#Energy of the neutrons reflected from the crystal#CH12Exa10.sce#1970/CH12/EX12.10/CH12Exa10.sce#S##78093
+12#Neutrons#12.1#Maximum activity induced in 100 mg of Cu foil#CH12Exa1.sce#1970/CH12/EX12.1/CH12Exa1.sce#S##78084
+11#Particle Accelerators#11.9#Deuterons accelerated in synchrocyclotron#CH11Exa9.sce#1970/CH11/EX11.9/CH11Exa9.sce#S##78078
+11#Particle Accelerators#11.8#Electrons accelerated into betatron#CH11Exa8.sce#1970/CH11/EX11.8/CH11Exa8.sce#S##78077
+11#Particle Accelerators#11.7#Energy of the electrons in a betatron#CH11Exa7.sce#1970/CH11/EX11.7/CH11Exa7.sce#S##78076
+11#Particle Accelerators#11.6#Protons extracted from a cyclotron#CH11Exa6.sce#1970/CH11/EX11.6/CH11Exa6.sce#S##78075
+11#Particle Accelerators#11.5#Energy and the frequency of deuterons accelerated in cyclotron#CH11Exa5.sce#1970/CH11/EX11.5/CH11Exa5.sce#S##78074
+11#Particle Accelerators#11.3#Linear proton accelerator#CH11Exa3.sce#1970/CH11/EX11.3/CH11Exa3.sce#S##78073
+11#Particle Accelerators#11.2#Charging current and potential of an electrostatic generator#CH11Exa2.sce#1970/CH11/EX11.2/CH11Exa2.sce#S##78070
+11#Particle Accelerators#11.14#Energy of the electron during boson production#CH11Exa14.sce#1970/CH11/EX11.14/CH11Exa14.sce#S##78083
+11#Particle Accelerators#11.13#Energy of the single proton in the colliding beam#CH11Exa13.sce#1970/CH11/EX11.13/CH11Exa13.sce#S##78082
+11#Particle Accelerators#11.12#Maximum magnetic flux density and frequency of proton in cosmotron proton synchrotron#CH11Exa12.sce#1970/CH11/EX11.12/CH11Exa12.sce#S##78081
+11#Particle Accelerators#11.11#Kinetic energy of the accelerated nitrogen ion#CH11Exa11.sce#1970/CH11/EX11.11/CH11Exa11.sce#S##78080
+11#Particle Accelerators#11.10#Electrons accelerated in electron synchrotron#CH11Exa10.sce#1970/CH11/EX11.10/CH11Exa10.sce#S##78079
+11#Particle Accelerators#11.1#Optimum number of stages and ripple voltage in Cockcroft Walton accelerator#CH11Exa1.sce#1970/CH11/EX11.1/CH11Exa1.sce#S##78066
+10#Nuclear Reactions#10.9#Bombardment of protons on Fe54 target#CH10Exa9.sce#1970/CH10/EX10.9/CH10Exa9.sce#S##78057
+10#Nuclear Reactions#10.8#Irradiance of neutron beam with the thin sheet of Co59#CH10Exa8.sce#1970/CH10/EX10.8/CH10Exa8.sce#S##78058
+10#Nuclear Reactions#10.7#Cross section for neutron induced fission#CH10Exa7.sce#1970/CH10/EX10.7/CH10Exa7.sce#S##78055
+10#Nuclear Reactions#10.6#Excitation energy and parity for compound nucleus#CH10Exa6.sce#1970/CH10/EX10.6/CH10Exa6.sce#S##78054
+10#Nuclear Reactions#10.5#Excitation energy of the compound nucleus#CH10Exa5.sce#1970/CH10/EX10.5/CH10Exa5.sce#S##78053
+10#Nuclear Reactions#10.4#Estimating the temperature of nuclear fusion reaction#CH10Exa4.sce#1970/CH10/EX10.4/CH10Exa4.sce#S##78052
+10#Nuclear Reactions#10.3#Kinetic energy of the neutrons emitted at given angle to the incident beam#CH10Exa3.sce#1970/CH10/EX10.3/CH10Exa3.sce#S##78051
+10#Nuclear Reactions#10.2#Q value of the reaction and atomic mass of the residual nucleus#Ch10Exa2.sce#1970/CH10/EX10.2/Ch10Exa2.sce#S##78050
+10#Nuclear Reactions#10.15#Estimating the angular momentum transfer#CH10Exa15.sce#1970/CH10/EX10.15/CH10Exa15.sce#S##78064
+10#Nuclear Reactions#10.14#Angle at which differential cross section is maximumat a givem l value#CH10Exa14.sce#1970/CH10/EX10.14/CH10Exa14.sce#S##78063
+10#Nuclear Reactions#10.13#Peak cross section during neutron capture#CH10Exa13.sce#1970/CH10/EX10.13/CH10Exa13.sce#S##78062
+10#Nuclear Reactions#10.12#Estimating the relative probabilities interactions in the indium#CH10Exa12.sce#1970/CH10/EX10.12/CH10Exa12.sce#S##78061
+10#Nuclear Reactions#10.11#Scattering contribution to the resonance#CH10Exa11.sce#1970/CH10/EX10.11/CH10Exa11.sce#S##78060
+10#Nuclear Reactions#10.10#Fractional attenuation of neutron beam on passing through nickel sheet#CH10Exa10.sce#1970/CH10/EX10.10/CH10Exa10.sce#S##78059
+10#Nuclear Reactions#10.1#Q value for the formation of P30 in the ground state#CH10Exa1.sce#1970/CH10/EX10.1/CH10Exa1.sce#S##78049
+9#Nuclear Models#9.9#Angular momenta and parities#CH09Exa9.sce#1970/CH9/EX9.9/CH09Exa9.sce#S##78044
+9#Nuclear Models#9.7#Angular frequency of the nuclei#CH09Exa7.sce#1970/CH9/EX9.7/CH09Exa7.sce#S##78043
+9#Nuclear Models#9.5#Energy difference between neutron shells#CH09Exa5.sce#1970/CH9/EX9.5/CH09Exa5.sce#S##78042
+9#Nuclear Models#9.4#Stability of the isobar using the liquid drop model#CH09Exa4.sce#1970/CH9/EX9.4/CH09Exa4.sce#S##78041
+9#Nuclear Models#9.3#General propeties of a neutron star#CH09Exa3.sce#1970/CH9/EX9.3/CH09Exa3.sce#S##78040
+9#Nuclear Models#9.16#Energy of lowest lying tungsten states#CH09Exa16.sce#1970/CH9/EX9.16/CH09Exa16.sce#S##78048
+9#Nuclear Models#9.14#Electric quadrupole moment of scandium#CH09Exa14.sce#1970/CH9/EX9.14/CH09Exa14.sce#S##78047
+9#Nuclear Models#9.12#Kinetic energy of iron nucleus#CH09Exa12.sce#1970/CH9/EX9.12/CH09Exa12.sce#S##78046
+9#Nuclear Models#9.11#Quadrupole and magnetic moment of ground state of nuclides#CH09Exa11.sce#1970/CH9/EX9.11/CH09Exa11.sce#S##78045
+9#Nuclear Models#9.1#Estimating the Fermi energies for neutrons and protons#Ch09Exa1.sce#1970/CH9/EX9.1/Ch09Exa1.sce#S##78039
+8#Beta Decay#8.9#States of a two neutron system with given total angular momentum#CH08Exa9.sce#1970/CH8/EX8.9/CH08Exa9.sce#S##78037
+8#Beta Decay#8.8#Possible angular momentum states for the deuterons in an LS coupling scheme#CH08Exa8.sce#1970/CH8/EX8.8/CH08Exa8.sce#S##78036
+8#Beta Decay#8.5#Total cross section for np scattering at neutron energy#CH08Exa5.sce#1970/CH8/EX8.5/CH08Exa5.sce#S##78035
+8#Beta Decay#8.3#Neutron and proton interacting within the deuteron#CH08Exa3.sce#1970/CH8/EX8.3/CH08Exa3.sce#S##78034
+8#Beta Decay#8.10#Kinetic energy of the two interacting nucleons in different frames#CH08Exa10.sce#1970/CH8/EX8.10/CH08Exa10.sce#S##78038
+8#Beta Decay#6.8#Beta decayed particle emission of Li8#Ch06Exa8.sce#1970/CH8/EX6.8/Ch06Exa8.sce#S##78196
+7#Gamma Radiation#7.9#Radioactive lifetime of the lowest energy electric dipole transition for F17#Ch07Exa9.sce#1970/CH7/EX7.9/Ch07Exa9.sce#S##78030
+7#Gamma Radiation#7.8#K electronic states in indium#Ch07Exa8.sce#1970/CH7/EX7.8/Ch07Exa8.sce#S##78029
+7#Gamma Radiation#7.5#Estimating the gamma width from Weisskopf model#Ch07Exa5.sce#1970/CH7/EX7.5/Ch07Exa5.sce#S##78028
+7#Gamma Radiation#7.4#Partial half life for gamma emission of Hg195 isomer #Ch07Exa4.sce#1970/CH7/EX7.4/Ch07Exa4.sce#S##78027
+7#Gamma Radiation#7.3#Attenuation of beam of X rays in passing through human tissue#Ch07Exa3.sce#1970/CH7/EX7.3/Ch07Exa3.sce#S##78026
+7#Gamma Radiation#7.2#Energy of the gamma rays from magnetic spectrograph data#Ch07Exa2.sce#1970/CH7/EX7.2/Ch07Exa2.sce#S##78025
+7#Gamma Radiation#7.14#Estimating the frequency shift of a photon#Ch07Exa14.sce#1970/CH7/EX7.14/Ch07Exa14.sce#S##78033
+7#Gamma Radiation#7.13#Relative source absorber velocity required to obtain resonance absorption#Ch07Exa13.sce#1970/CH7/EX7.13/Ch07Exa13.sce#S##78032
+7#Gamma Radiation#7.10#Electric and magnetic multipolarities of gamma rays from transition between Pb levels#Ch07Exa10.sce#1970/CH7/EX7.10/Ch07Exa10.sce#S##78031
+7#Gamma Radiation#7.1#Bragg reflection for first order in a bent crystal spectrometer#Ch07Exa1.sce#1970/CH7/EX7.1/Ch07Exa1.sce#S##78024
+6#Beta Decay#6.9#The unstable nucleus in the nuclide pair#Ch06Exa9.sce#1970/CH6/EX6.9/Ch06Exa9.sce#S##78197
+6#Beta Decay#6.7#Energies during disintergation of Bi210#Ch06Exa7.sce#1970/CH6/EX6.7/Ch06Exa7.sce#S##78195
+6#Beta Decay#6.6#Linear momenta of particles during beta decay process#Ch06Exa6.sce#1970/CH6/EX6.6/Ch06Exa6.sce#S##78194
+6#Beta Decay#6.5#Maximum energy available to the electrons in the beta decay of Na24#Ch06Exa5.sce#1970/CH6/EX6.5/Ch06Exa5.sce#S##78193
+6#Beta Decay#6.4#Average energy carried away by neutrino during beta decay process#Ch06Exa4.sce#1970/CH6/EX6.4/Ch06Exa4.sce#S##78192
+6#Beta Decay#6.3#K conversion#Ch06Exa3.sce#1970/CH6/EX6.3/Ch06Exa3.sce#S##78191
+6#Beta Decay#6.2# Beta particle placed in the magnetic field#Ch06Exa2.sce#1970/CH6/EX6.2/Ch06Exa2.sce#S##78190
+6#Beta Decay#6.15#Fermi and Gamow Teller selection rule for allowed beta transitions#Ch06Exa15.sce#1970/CH6/EX6.15/Ch06Exa15.sce#S##78203
+6#Beta Decay#6.14#Tritium isotope undergoing beta decay#Ch06Exa14.sce#1970/CH6/EX6.14/Ch06Exa14.sce#S##78202
+6#Beta Decay#6.13#Relative capture rate in holmium for 3p to 3s sublevels#Ch06Exa13.sce#1970/CH6/EX6.13/Ch06Exa13.sce#S##78201
+6#Beta Decay#6.12#Coupling constant and ratio of coupling strengths for beta transitons#Ch06Exa12.sce#1970/CH6/EX6.12/Ch06Exa12.sce#S##78200
+6#Beta Decay#6.11#Degree of forbiddenness of transition#Ch06Exa11.sce#1970/CH6/EX6.11/Ch06Exa11.sce#S##78199
+6#Beta Decay#6.10#Half life of tritium#Ch06Exa10.sce#1970/CH6/EX6.10/Ch06Exa10.sce#S##78198
+6#Beta Decay#6.1#Disintegration of the beta particles by Bi210#Ch06Exa1.sce#1970/CH6/EX6.1/Ch06Exa1.sce#S##78189
+5#Alpha Particles#5.9#Slope of alpha decay energy versus atomic number#Ch05Exa9.sce#1970/CH5/EX5.9/Ch05Exa9.sce#S##78022
+5#Alpha Particles#5.8#Half life of plutonium#Ch05Exa8.sce#1970/CH5/EX5.8/Ch05Exa8.sce#S##78021
+5#Alpha Particles#5.6#Difference in life times of Polonium isotopes#Ch05Exa6.sce#1970/CH5/EX5.6/Ch05Exa6.sce#S##78020
+5#Alpha Particles#5.4#Transmission probability for an alpha particle through a potential barrier#Ch05Exa4.sce#1970/CH5/EX5.4/Ch05Exa4.sce#S##78019
+5#Alpha Particles#5.3#Speed and BR value of alpha particles#Ch05Exa3.sce#1970/CH5/EX5.3/Ch05Exa3.sce#S##78018
+5#Alpha Particles#5.2#Calculation of the barrier height#Ch05Exa2.sce#1970/CH5/EX5.2/Ch05Exa2.sce#S##78017
+5#Alpha Particles#5.10#Degree of hindrance for alpha particle from U238#Ch05Exa10.sce#1970/CH5/EX5.10/Ch05Exa10.sce#S##78023
+5#Alpha Particles#5.1#Disintegration energy of alpha particle #Ch05Exa1.sce#1970/CH5/EX5.1/Ch05Exa1.sce#S##78016
+4#Detection and Measurement of Nuclear Radiations#4.9#Statistical error on the measured ratio#Ch04Exa9.sce#1970/CH4/EX4.9/Ch04Exa9.sce#S##78007
+4#Detection and Measurement of Nuclear Radiations#4.8#Capacitance of  the silicon detector #Ch04Exa8.sce#1970/CH4/EX4.8/Ch04Exa8.sce#S##78006
+4#Detection and Measurement of Nuclear Radiations#4.7#Time measurement of counts in GM counter#Ch04Exa7.sce#1970/CH4/EX4.7/Ch04Exa7.sce#S##78005
+4#Detection and Measurement of Nuclear Radiations#4.6#Voltage fluctuation in GM tube#Ch04Exa6.sce#1970/CH4/EX4.6/Ch04Exa6.sce#S##78004
+4#Detection and Measurement of Nuclear Radiations#4.5#Avalanche voltage in Geiger Muller tube #Ch04Exa5.sce#1970/CH4/EX4.5/Ch04Exa5.sce#S##78003
+4#Detection and Measurement of Nuclear Radiations#4.4#Radial field and life time of Geiger Muller Counter #Ch04Exa4.sce#1970/CH4/EX4.4/Ch04Exa4.sce#S##78002
+4#Detection and Measurement of Nuclear Radiations#4.3#Height of the voltage pulse#Ch04Exa3.sce#1970/CH4/EX4.3/Ch04Exa3.sce#S##78001
+4#Detection and Measurement of Nuclear Radiations#4.2#Energy of the alpha particles #Ch04Exa2.sce#1970/CH4/EX4.2/Ch04Exa2.sce#S##78000
+4#Detection and Measurement of Nuclear Radiations#4.16#Charged particles passing through the Cerenkov detector#Ch04Exa16.sce#1970/CH4/EX4.16/Ch04Exa16.sce#S##78014
+4#Detection and Measurement of Nuclear Radiations#4.15#Fractional error in rest mass of the particle with a Cerenkov Detector#Ch04Exa15.sce#1970/CH4/EX4.15/Ch04Exa15.sce#S##78015
+4#Detection and Measurement of Nuclear Radiations#4.14#Time of flight of proton in scintillation counter#Ch04Exa14.sce#1970/CH4/EX4.14/Ch04Exa14.sce#S##78012
+4#Detection and Measurement of Nuclear Radiations#4.13#Beta particle incident on the scintillator#Ch04Exa13.sce#1970/CH4/EX4.13/Ch04Exa13.sce#S##78011
+4#Detection and Measurement of Nuclear Radiations#4.12#Measurement of the number of counts and determining standard deviation#Ch04Exa12.sce#1970/CH4/EX4.12/Ch04Exa12.sce#S##78010
+4#Detection and Measurement of Nuclear Radiations#4.11#Charge collected at the anode of photo multiplier tube#Ch04Exa11.sce#1970/CH4/EX4.11/Ch04Exa11.sce#S##78009
+4#Detection and Measurement of Nuclear Radiations#4.10#Charge collected at the anode of photo multiplier tube#Ch04Exa10.sce#1970/CH4/EX4.10/Ch04Exa10.sce#S##78008
+4#Detection and Measurement of Nuclear Radiations#4.1#Resultant pulse height recorded in the fission chamber#Ch04Exa1.sce#1970/CH4/EX4.1/Ch04Exa1.sce#S##77999
+3#Interactions of Nuclear Radiations with Matter#3.9#The energy of recoil electrons#Ch03Exa9.sce#1970/CH3/EX3.9/Ch03Exa9.sce#S##78185
+3#Interactions of Nuclear Radiations with Matter#3.8#Thickness of gamma absorption#Ch03Exa8.sce#1970/CH3/EX3.8/Ch03Exa8.sce#S##78184
+3#Interactions of Nuclear Radiations with Matter#3.7#Beta particles passing through lead#Ch03Exa7.sce#1970/CH3/EX3.7/Ch03Exa7.sce#S##78183
+3#Interactions of Nuclear Radiations with Matter#3.4#Thickness of beta absorption#Ch03Exa4.sce#1970/CH3/EX3.4/Ch03Exa4.sce#S##78182
+3#Interactions of Nuclear Radiations with Matter#3.12#Minimum kinetic energy of the electron to emit Cerenkov radiation#Ch03Exa12.sce#1970/CH3/EX3.12/Ch03Exa12.sce#S##78188
+3#Interactions of Nuclear Radiations with Matter#3.11#To calculate the refractive index of the material#Ch03Exa11.sce#1970/CH3/EX3.11/Ch03Exa11.sce#S##78187
+3#Interactions of Nuclear Radiations with Matter#3.10#Average energy of the positron#Ch03Exa10.sce#1970/CH3/EX3.10/Ch03Exa10.sce#S##78186
+3#Interactions of Nuclear Radiations with Matter#3.1#Alpha particle impinging on an aluminium foil#Ch03Exa1.sce#1970/CH3/EX3.1/Ch03Exa1.sce#S##78181
+2#Radioactivity and Isotopes#2.9#Weight and initial acivity of Po210#Ch02Exa9.sce#1970/CH2/EX2.9/Ch02Exa9.sce#S##77968
+2#Radioactivity and Isotopes#2.8#Number of radon half lives #Ch02Exa8.sce#1970/CH2/EX2.8/Ch02Exa8.sce#S##77967
+2#Radioactivity and Isotopes#2.7#Maximum possible age of the earth crust#Ch02Exa7.sce#1970/CH2/EX2.7/Ch02Exa7.sce#S##77966
+2#Radioactivity and Isotopes#2.6#Number of alpha decays in Th232 #Ch02Exa6.sce#1970/CH2/EX2.6/Ch02Exa6.sce#S##77965
+2#Radioactivity and Isotopes#2.5#Activity of the U234 #Ch02Exa5.sce#1970/CH2/EX2.5/Ch02Exa5.sce#S##77964
+2#Radioactivity and Isotopes#2.4#Age of an ancient wooden boat #Ch02Exa4.sce#1970/CH2/EX2.4/Ch02Exa4.sce#S##77963
+2#Radioactivity and Isotopes#2.3#Activity of K40 in man of weight 100 Kg#Ch02Exa3.sce#1970/CH2/EX2.3/Ch02Exa3.sce#S##77962
+2#Radioactivity and Isotopes#2.20#Series radioactive decay of parent isotope#Ch02Exa20.sce#1970/CH2/EX2.20/Ch02Exa20.sce#S##77998
+2#Radioactivity and Isotopes#2.2#Induced radioactivity of sodium by neutron bombardment#Ch02Exa2.sce#1970/CH2/EX2.2/Ch02Exa2.sce#S##77961
+2#Radioactivity and Isotopes#2.19#Pu238 as power source in space flights#Ch02Exa19.sce#1970/CH2/EX2.19/Ch02Exa19.sce#S##77997
+2#Radioactivity and Isotopes#2.18#Activity and the maximum amount of Au198 produced in the foil of Au197 #Ch02Exa18.sce#1970/CH2/EX2.18/Ch02Exa18.sce#S##77974
+2#Radioactivity and Isotopes#2.16#Radiation dose absorbed in 24 hr by the tissue in REP #Ch02Exa16.sce#1970/CH2/EX2.16/Ch02Exa16.sce#S##77973
+2#Radioactivity and Isotopes#2.15#Activity of Na24#Ch02Exa15.sce#1970/CH2/EX2.15/Ch02Exa15.sce#S##77972
+2#Radioactivity and Isotopes#2.14#Disintegration rate of Au199  #Ch02Exa14.sce#1970/CH2/EX2.14/Ch02Exa14.sce#S##77971
+2#Radioactivity and Isotopes#2.13#Half life of Pu239#Ch02Exa13.sce#1970/CH2/EX2.13/Ch02Exa13.sce#S##77970
+2#Radioactivity and Isotopes#2.10#Radioactive disintegration of Bi#Ch02Exa10.sce#1970/CH2/EX2.10/Ch02Exa10.sce#S##77969
+2#Radioactivity and Isotopes#2.1#Weight of one Curie and one Rutherford of RaB#Ch02Exa1.sce#1970/CH2/EX2.1/Ch02Exa1.sce#S##77960
+1#General Properties of Atomic Nucleus#1.9#Silver ions in Smith mass spectrometer#Ch01Exa9.sce#1970/CH1/EX1.9/Ch01Exa9.sce#S##77377
+1#General Properties of Atomic Nucleus#1.8#Calculating the mass of hydrogen#Ch01Exa8.sce#1970/CH1/EX1.8/Ch01Exa8.sce#S##77376
+1#General Properties of Atomic Nucleus#1.7#Ionized atoms in Bainbridge mass spectrograph#Ch01Exa7.sce#1970/CH1/EX1.7/Ch01Exa7.sce#S##77379
+1#General Properties of Atomic Nucleus#1.6#Charge accelerated in mass spectrometer#Ch01Exa6.sce#1970/CH1/EX1.6/Ch01Exa6.sce#S##77374
+1#General Properties of Atomic Nucleus#1.5#Positron emission from Cl33 decays#Ch01Exa5.sce#1970/CH1/EX1.5/Ch01Exa5.sce#S##77373
+1#General Properties of Atomic Nucleus#1.4#Scattering of electron from target nucleus#Ch01Exa4.sce#1970/CH1/EX1.4/Ch01Exa4.sce#S##77372
+1#General Properties of Atomic Nucleus#1.3#Kinetic energy and Coulomb energy for an electron confined within the nucleus#Ch01Exa3.sce#1970/CH1/EX1.3/Ch01Exa3.sce#S##77371
+1#General Properties of Atomic Nucleus#1.21#Spherical symmetry of Gadolinium nucleus#Ch01Exa21.sce#1970/CH1/EX1.21/Ch01Exa21.sce#S##77385
+1#General Properties of Atomic Nucleus#1.2#Nuclear Spin#Ch01Exa2.sce#1970/CH1/EX1.2/Ch01Exa2.sce#S##77369
+1#General Properties of Atomic Nucleus#1.17#Relative error in the electric potential at the first Bohr radius#Ch01Exa17.sce#1970/CH1/EX1.17/Ch01Exa17.sce#S##77384
+1#General Properties of Atomic Nucleus#1.14#To calculate the pairing energy term#Ch01Exa14.sce#1970/CH1/EX1.14/Ch01Exa14.sce#S##77383
+1#General Properties of Atomic Nucleus#1.13#To find the stable Isobar#Ch01Exa13.sce#1970/CH1/EX1.13/Ch01Exa13.sce#S##77382
+1#General Properties of Atomic Nucleus#1.12#Calculation of energy released during nuclear fusion reaction#Ch01Exa12.sce#1970/CH1/EX1.12/Ch01Exa12.sce#S##77381
+1#General Properties of Atomic Nucleus#1.11#Binding energies calculation#Ch01Exa11.sce#1970/CH1/EX1.11/Ch01Exa11.sce#S##77380
+1#General Properties of Atomic Nucleus#1.10#Calculation of energy released during nuclear fusion reaction#Ch01Exa10.sce#1970/CH1/EX1.10/Ch01Exa10.sce#S##77378
+1#General Properties of Atomic Nucleus#1.1#Distance of closest approach#Ch01Exa1.sce#1970/CH1/EX1.1/Ch01Exa1.sce#S##77370

@@ -1,0 +1,12 @@
+//Caption:Program to Bandwidth required.
+//Exa:3.4
+clc;
+clear;
+close;
+//Given:
+w=10;//in KHz
+wm=2;//in KHz
+mf=w/wm;
+Bw=wm*8*2;
+printf("\n modulation index = %f ",mf);
+printf("\n Band width required = %f KHz",Bw);

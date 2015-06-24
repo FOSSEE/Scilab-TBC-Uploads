@@ -1,0 +1,80 @@
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.9#determine the inversion carrier mobility#Ex11_9.sce#3401/CH11/EX11.9/Ex11_9.sce#S##113995
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.8#design the width#Ex11_8.sce#3401/CH11/EX11.8/Ex11_8.sce#S##113994
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.7#calculate Cox#Ex11_7.sce#3401/CH11/EX11.7/Ex11_7.sce#S##113993
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.6#design the semiconductor dnping concentration#Ex11_6.sce#3401/CH11/EX11.6/Ex11_6.sce#S##113992
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.5#calculate the threshold voltage#Ex11_5.sce#3401/CH11/EX11.5/Ex11_5.sce#S##113991
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.4#design the oxide thickness#Ex11_4.sce#3401/CH11/EX11.4/Ex11_4.sce#S##113990
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.3#calculate the flat band voltage#Ex11_3.sce#3401/CH11/EX11.3/Ex11_3.sce#S##113989
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.2#calculate the metal semiconductor work function difference#Ex11_2.sce#3401/CH11/EX11.2/Ex11_2.sce#S##113988
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.11#calculate the cutoff frequency#Ex11_11.sce#3401/CH11/EX11.11/Ex11_11.sce#S##113997
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.10#calculate the change in the threshold voltage#Ex11_10.sce#3401/CH11/EX11.10/Ex11_10.sce#S##113996
+11#Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.1#calculate the maximum space charge width#Ex11_1.sce#3401/CH11/EX11.1/Ex11_1.sce#S##113987
+10#The Bipolar Transistor#10.9#design a bipolar transistor#Ex10_9.sce#3401/CH10/EX10.9/Ex10_9.sce#S##114004
+10#The Bipolar Transistor#10.8#desipn the collector doping#Ex10_8.sce#3401/CH10/EX10.8/Ex10_8.sce#S##114007
+10#The Bipolar Transistor#10.7#determine the increase in pE0#Ex10_7.sce#3401/CH10/EX10.7/Ex10_7.sce#S##114006
+10#The Bipolar Transistor#10.5#calculate the change in the neutral base width#Ex10_5.sce#3401/CH10/EX10.5/Ex10_5.sce#S##114005
+10#The Bipolar Transistor#10.4#calculate the common emitter current gain#Ex10_4.sce#3401/CH10/EX10.4/Ex10_4.sce#S##114002
+10#The Bipolar Transistor#10.3#calculate the forujard biased#Ex10_3.sce#3401/CH10/EX10.3/Ex10_3.sce#S##114001
+10#The Bipolar Transistor#10.2#design the base width #Ex10_2.sce#3401/CH10/EX10.2/Ex10_2.sce#S##114000
+10#The Bipolar Transistor#10.12#calculate the emitter to collector transit time#Ex10_12.sce#3401/CH10/EX10.12/Ex10_12.sce#S##113998
+10#The Bipolar Transistor#10.10#calculate the collector zmitter saturation voltage#Ex10_10.sce#3401/CH10/EX10.10/Ex10_10.sce#S##114003
+10#The Bipolar Transistor#10.1#design the ratio of emitter doping#Ex10_1.sce#3401/CH10/EX10.1/Ex10_1.sce#S##113999
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.8#detcmminc AE At and Vbi#Ex9_8.sce#3401/CH9/EX9.8/Ex9_8.sce#S##114012
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.7#calculate the space charge width#Ex9_7.sce#3401/CH9/EX9.7/Ex9_7.sce#S##113985
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.6#calculate the forward bias voltage#Ex9_6.sce#3401/CH9/EX9.6/Ex9_6.sce#S##113984
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.5#calculate the reverse saturation current densities#Ex9_5.sce#3401/CH9/EX9.5/Ex9_5.sce#S##113983
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.4#calculate the effective Richardson constant#Ex9_4.sce#3401/CH9/EX9.4/Ex9_4.sce#S##113982
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.3#calculalr the Schottky barrier lowering#Ex9_3.sce#3401/CH9/EX9.3/Ex9_3.sce#S##113981
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.2#calculate thc semiconductor doping#Ex9_2.sce#3401/CH9/EX9.2/Ex9_2.sce#S##113980
+9#Metal Semiconductor and Semiconductor Heterojunctions#9.1#calculate the ilieorelical harrier height#Ex9_1.sce#3401/CH9/EX9.1/Ex9_1.sce#S##113979
+8#The pn Junction Diode#8.7#determine the relative magnitudes#ex8_7.sce#3401/CH8/EX8.7/ex8_7.sce#S##113978
+8#The pn Junction Diode#8.6#calculate thc small signal admittance#Ex8_6.sce#3401/CH8/EX8.6/Ex8_6.sce#S##113977
+8#The pn Junction Diode#8.5#determine the change in the forward bias voltage#Ex8_5.sce#3401/CH8/EX8.5/Ex8_5.sce#S##113976
+8#The pn Junction Diode#8.4#calculate the electric field#Ex8_4.sce#3401/CH8/EX8.4/Ex8_4.sce#S##113975
+8#The pn Junction Diode#8.3#design a pn junction diode#Ex8_3.sce#3401/CH8/EX8.3/Ex8_3.sce#S##113974
+8#The pn Junction Diode#8.2#ideal reverse saturation current density#Ex8_2.sce#3401/CH8/EX8.2/Ex8_2.sce#S##113973
+8#The pn Junction Diode#8.1#calculate the minority carrier hole concentration#Ex8_1.sce#3401/CH8/EX8.1/Ex8_1.sce#S##113972
+7#The pn Junction#7.6#determine the impurity doping concentrations#Ex7_6.sce#3401/CH7/EX7.6/Ex7_6.sce#S##113971
+7#The pn Junction#7.5#calculate the junction capacitance#Ex7_5.sce#3401/CH7/EX7.5/Ex7_5.sce#S##113970
+7#The pn Junction#7.4#design a pn junction#Ex7_4.sce#3401/CH7/EX7.4/Ex7_4.sce#S##113969
+7#The pn Junction#7.3#Tocalculate the width of the space charge region#Ex7_3.sce#3401/CH7/EX7.3/Ex7_3.sce#S##113968
+7#The pn Junction#7.2#calculate the space charge width#Ex7_2.sce#3401/CH7/EX7.2/Ex7_2.sce#S##113967
+7#The pn Junction#7.1#calculate the built in potential barrier#Ex7_1.sce#3401/CH7/EX7.1/Ex7_1.sce#S##113966
+6#Nonequilibrium Excess Carriers in Semiconductors#6.8#detrrminr the steady state excess carrier concentration#Ex6_8.sce#3401/CH6/EX6.8/Ex6_8.sce#S##113964
+6#Nonequilibrium Excess Carriers in Semiconductors#6.6#calculate the quasi Fermi energy levels#Ex6_6.sce#3401/CH6/EX6.6/Ex6_6.sce#S##114011
+6#Nonequilibrium Excess Carriers in Semiconductors#6.5#dielechic relaxation time constant#Ex6_5.sce#3401/CH6/EX6.5/Ex6_5.sce#S##113962
+6#Nonequilibrium Excess Carriers in Semiconductors#6.10#determine the value of surface recombinaion velocity#Ex6_10.sce#3401/CH6/EX6.10/Ex6_10.sce#S##113965
+5#Carrier Transport Phenomena#5.7#determine majority carrier#Ex5_7.sce#3401/CH5/EX5.7/Ex5_7.sce#S##113961
+5#Carrier Transport Phenomena#5.6#Determine diffusion coefficient#Ex5_6.sce#3401/CH5/EX5.6/Ex5_6.sce#S##113960
+5#Carrier Transport Phenomena#5.5#Determine induced electric field#Ex5_5.sce#3401/CH5/EX5.5/Ex5_5.sce#S##113959
+5#Carrier Transport Phenomena#5.4#diffusion current density#Ex5_4.sce#3401/CH5/EX5.4/Ex5_4.sce#S##113958
+5#Carrier Transport Phenomena#5.3#design semiconductor resistor#Ex5_3.sce#3401/CH5/EX5.3/Ex5_3.sce#S##113957
+5#Carrier Transport Phenomena#5.2#doping concentration#Ex5_2.sce#3401/CH5/EX5.2/Ex5_2.sce#S##113956
+5#Carrier Transport Phenomena#5.1#Drift current density#Ex5_1.sce#3401/CH5/EX5.1/Ex5_1.sce#S##113955
+4#The Semiconductor in Equilibrium#4.9#Calculate thermal equlilibrium#Ex4_9.sce#3401/CH4/EX4.9/Ex4_9.sce#S##113954
+4#The Semiconductor in Equilibrium#4.7#Determine fraction of total electron#Ex4_7.sce#3401/CH4/EX4.7/Ex4_7.sce#S##113948
+4#The Semiconductor in Equilibrium#4.6#Calculate electron concentration#Ex4_6.sce#3401/CH4/EX4.6/Ex4_6.sce#S##113947
+4#The Semiconductor in Equilibrium#4.5#Calculate thermal equlilibrium#Ex4_5.sce#3401/CH4/EX4.5/Ex4_5.sce#S##113946
+4#The Semiconductor in Equilibrium#4.4#Calculate position#Ex4_4.sce#3401/CH4/EX4.4/Ex4_4.sce#S##113945
+4#The Semiconductor in Equilibrium#4.3#Calculate intrinsic carrier#Ex4_3.sce#3401/CH4/EX4.3/Ex4_3.sce#S##113944
+4#The Semiconductor in Equilibrium#4.2#Calculate thermal equlilibrium#Ex4_2.sce#3401/CH4/EX4.2/Ex4_2.sce#S##113943
+4#The Semiconductor in Equilibrium#4.14#Determine fermi level position#Ex4_14.sce#3401/CH4/EX4.14/Ex4_14.sce#S##113949
+4#The Semiconductor in Equilibrium#4.13#Determine impurity concentration#Ex4_13.sce#3401/CH4/EX4.13/Ex4_13.sce#S##113950
+4#The Semiconductor in Equilibrium#4.12#Determine impurity concentration#Ex4_12.sce#3401/CH4/EX4.12/Ex4_12.sce#S##114010
+4#The Semiconductor in Equilibrium#4.11#Calculate thermal equlilibrium#Ex4_11.sce#3401/CH4/EX4.11/Ex4_11.sce#S##113952
+4#The Semiconductor in Equilibrium#4.10#Calculate thermal equlilibrium#Ex4_10.sce#3401/CH4/EX4.10/Ex4_10.sce#S##113953
+4#The Semiconductor in Equilibrium#4.1#Calculate probability#Ex4_1.sce#3401/CH4/EX4.1/Ex4_1.sce#S##114009
+3#Introduction to the Quantum Theory of Solids#3.7#Determine temp#Ex3_7.sce#3401/CH3/EX3.7/Ex3_7.sce#S##113936
+3#Introduction to the Quantum Theory of Solids#3.6#Calculate probability#Ex3_6.sce#3401/CH3/EX3.6/Ex3_6.sce#S##113937
+3#Introduction to the Quantum Theory of Solids#3.5#Determine possible no of ways#Ex3_5.sce#3401/CH3/EX3.5/Ex3_5.sce#S##113938
+3#Introduction to the Quantum Theory of Solids#3.4#Determine possible no of ways#Ex3_4.sce#3401/CH3/EX3.4/Ex3_4.sce#S##113939
+3#Introduction to the Quantum Theory of Solids#3.3#Calculate density of states#Ex3_3.sce#3401/CH3/EX3.3/Ex3_3.sce#S##113940
+3#Introduction to the Quantum Theory of Solids#3.2#Determine lowest energy bandwidth#Ex3_2.sce#3401/CH3/EX3.2/Ex3_2.sce#S##113941
+3#Introduction to the Quantum Theory of Solids#3.1#Calculate change in KE#Ex3_1.sce#3401/CH3/EX3.1/Ex3_1.sce#S##113935
+2#Introduction to Quantum Mechanics#2.5#Calculate probability #Ex2_5.sce#3401/CH2/EX2.5/Ex2_5.sce#S##113934
+2#Introduction to Quantum Mechanics#2.4#Calculate penetration depth#Ex2_4.sce#3401/CH2/EX2.4/Ex2_4.sce#S##114008
+2#Introduction to Quantum Mechanics#2.3#Calculate first three energy levels#Ex2_3.sce#3401/CH2/EX2.3/Ex2_3.sce#S##113932
+2#Introduction to Quantum Mechanics#2.2#Calculate de broglie wavelength#Ex2_2.sce#3401/CH2/EX2.2/Ex2_2.sce#S##113931
+2#Introduction to Quantum Mechanics#2.1#Calculate photon energy#Ex2_1.sce#3401/CH2/EX2.1/Ex2_1.sce#S##113930
+1#The Crystal Structure of Solids#1.3#Calculate suface density#Ex1_3.sce#3401/CH1/EX1.3/Ex1_3.sce#S##113929
+1#The Crystal Structure of Solids#1.1#find volume density of atoms#Ex1_1.sce#3401/CH1/EX1.1/Ex1_1.sce#S##113928

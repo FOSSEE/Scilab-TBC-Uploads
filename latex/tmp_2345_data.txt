@@ -1,0 +1,76 @@
+15#Miscellaneous Solved Numerical Problems#15.5#Finding mass and energy#Ex15_5.sce#2345/CH15/EX15.5/Ex15_5.sce#S##94185
+15#Miscellaneous Solved Numerical Problems#15.40#Finding current#Ex15_40.sce#2345/CH15/EX15.40/Ex15_40.sce#S##94219
+15#Miscellaneous Solved Numerical Problems#15.4#Finding torque#Ex15_4.sce#2345/CH15/EX15.4/Ex15_4.sce#S##94184
+15#Miscellaneous Solved Numerical Problems#15.39#Resistance and cost#Ex15_39.sce#2345/CH15/EX15.39/Ex15_39.sce#S##94217
+15#Miscellaneous Solved Numerical Problems#15.38#Finding resistance#Ex15_38.sce#2345/CH15/EX15.38/Ex15_38.sce#S##94216
+15#Miscellaneous Solved Numerical Problems#15.37#Finding no of electrons#Ex15_37.sce#2345/CH15/EX15.37/Ex15_37.sce#S##94215
+15#Miscellaneous Solved Numerical Problems#15.36#Finding cost#Ex15_36.sce#2345/CH15/EX15.36/Ex15_36.sce#S##94214
+15#Miscellaneous Solved Numerical Problems#15.35#Finding efficiency#Ex15_35.sce#2345/CH15/EX15.35/Ex15_35.sce#S##94213
+15#Miscellaneous Solved Numerical Problems#15.34#Current Voltage and power#Ex15_34.sce#2345/CH15/EX15.34/Ex15_34.sce#S##94212
+15#Miscellaneous Solved Numerical Problems#15.33#Finding frequency#Ex15_33.sce#2345/CH15/EX15.33/Ex15_33.sce#S##94209
+15#Miscellaneous Solved Numerical Problems#15.32#Finding time#Ex15_32.sce#2345/CH15/EX15.32/Ex15_32.sce#S##94208
+15#Miscellaneous Solved Numerical Problems#15.31#Finding resistance#Ex15_31.sce#2345/CH15/EX15.31/Ex15_31.sce#S##94207
+15#Miscellaneous Solved Numerical Problems#15.30#Finding K and flux density#Ex15_30.sce#2345/CH15/EX15.30/Ex15_30.sce#S##94205
+15#Miscellaneous Solved Numerical Problems#15.3#Finding current#Ex15_3.sce#2345/CH15/EX15.3/Ex15_3.sce#S##94183
+15#Miscellaneous Solved Numerical Problems#15.29#Finding heat#Ex15_29.sce#2345/CH15/EX15.29/Ex15_29.sce#S##94204
+15#Miscellaneous Solved Numerical Problems#15.28#Finding charge and capacity#Ex15_28.sce#2345/CH15/EX15.28/Ex15_28.sce#S##94203
+15#Miscellaneous Solved Numerical Problems#15.27#Finding magnetising current#Ex15_27.sce#2345/CH15/EX15.27/Ex15_27.sce#S##94202
+15#Miscellaneous Solved Numerical Problems#15.26#Finding flux#Ex15_26.sce#2345/CH15/EX15.26/Ex15_26.sce#S##94201
+15#Miscellaneous Solved Numerical Problems#15.25#Finding AmpereTurns#Ex15_25.sce#2345/CH15/EX15.25/Ex15_25.sce#S##94200
+15#Miscellaneous Solved Numerical Problems#15.24#Flux and field strength#Ex15_24.sce#2345/CH15/EX15.24/Ex15_24.sce#S##94199
+15#Miscellaneous Solved Numerical Problems#15.23#Finding inductance and energy#Ex15_23.sce#2345/CH15/EX15.23/Ex15_23.sce#S##94198
+15#Miscellaneous Solved Numerical Problems#15.22#Finding energy loss#Ex15_22.sce#2345/CH15/EX15.22/Ex15_22.sce#S##94197
+15#Miscellaneous Solved Numerical Problems#15.21#Finding loss#Ex15_21.sce#2345/CH15/EX15.21/Ex15_21.sce#S##94196
+15#Miscellaneous Solved Numerical Problems#15.20#Finding current#Ex15_20.sce#2345/CH15/EX15.20/Ex15_20.sce#S##94195
+15#Miscellaneous Solved Numerical Problems#15.2#Resistance and BOT units#Ex15_2.sce#2345/CH15/EX15.2/Ex15_2.sce#S##94182
+15#Miscellaneous Solved Numerical Problems#15.19#Finding potential difference#Ex15_19.sce#2345/CH15/EX15.19/Ex15_19.sce#S##94194
+15#Miscellaneous Solved Numerical Problems#15.17#Finding resistance#Ex15_17.sce#2345/CH15/EX15.17/Ex15_17.sce#S##94193
+15#Miscellaneous Solved Numerical Problems#15.16#Finding resistance#Ex15_16.sce#2345/CH15/EX15.16/Ex15_16.sce#S##94192
+15#Miscellaneous Solved Numerical Problems#15.15#Finding resistance#Ex15_15.sce#2345/CH15/EX15.15/Ex15_15.sce#S##94191
+15#Miscellaneous Solved Numerical Problems#15.14#Finding resistance#Ex15_14.sce#2345/CH15/EX15.14/Ex15_14.sce#S##94190
+15#Miscellaneous Solved Numerical Problems#15.13#Finding resistivity#Ex15_13.sce#2345/CH15/EX15.13/Ex15_13.sce#S##94189
+15#Miscellaneous Solved Numerical Problems#15.12#Finding resistivity#Ex15_12.sce#2345/CH15/EX15.12/Ex15_12.sce#S##94188
+15#Miscellaneous Solved Numerical Problems#15.11#Conductivity and conductance#Ex15_11.sce#2345/CH15/EX15.11/Ex15_11.sce#S##94187
+15#Miscellaneous Solved Numerical Problems#15.10#Finding resistance#Ex15_10.sce#2345/CH15/EX15.10/Ex15_10.sce#S##94186
+15#Miscellaneous Solved Numerical Problems#15.1#Voltage and energy loss#Ex15_1.sce#2345/CH15/EX15.1/Ex15_1.sce#S##94181
+6#Magnetic Materials#6.8#Finding losses#Ex6_8.sce#2345/CH6/EX6.8/Ex6_8.sce#S##94180
+6#Magnetic Materials#6.7#Finding energy loss#Ex6_7.sce#2345/CH6/EX6.7/Ex6_7.sce#S##94179
+6#Magnetic Materials#6.6#Finding core loss#Ex6_6.sce#2345/CH6/EX6.6/Ex6_6.sce#S##94178
+6#Magnetic Materials#6.5#Finding loss and frequency#Ex6_5.sce#2345/CH6/EX6.5/Ex6_5.sce#S##94177
+6#Magnetic Materials#6.4#Finding loss#Ex6_4.sce#2345/CH6/EX6.4/Ex6_4.sce#S##94176
+6#Magnetic Materials#6.3#Field intensity and permeability#Ex6_3.sce#2345/CH6/EX6.3/Ex6_3.sce#S##103492
+6#Magnetic Materials#6.2#Finding relative permeability#Ex6_2.sce#2345/CH6/EX6.2/Ex6_2.sce#S##94174
+6#Magnetic Materials#6.1#Finding current#Ex6_1.sce#2345/CH6/EX6.1/Ex6_1.sce#S##94173
+5#Dielectric Materials#5.5#Finding capacitance#Ex5_5.sce#2345/CH5/EX5.5/Ex5_5.sce#S##94172
+5#Dielectric Materials#5.4#K and flux density #Ex5_4.sce#2345/CH5/EX5.4/Ex5_4.sce#S##103491
+5#Dielectric Materials#5.3#Charge and energy#Ex5_3.sce#2345/CH5/EX5.3/Ex5_3.sce#S##94170
+5#Dielectric Materials#5.2#Charge and potential gradient#Ex5_2.sce#2345/CH5/EX5.2/Ex5_2.sce#S##94169
+5#Dielectric Materials#5.1#Charge and capacitance#Ex5_1.sce#2345/CH5/EX5.1/Ex5_1.sce#S##94168
+4#Insulating Materials#4.7#Finding charge#Ex4_7.sce#2345/CH4/EX4.7/Ex4_7.sce#S##94167
+4#Insulating Materials#4.6#Finding force#Ex4_6.sce#2345/CH4/EX4.6/Ex4_6.sce#S##94166
+4#Insulating Materials#4.5#Finding relative permeability#Ex4_5.sce#2345/CH4/EX4.5/Ex4_5.sce#S##94165
+4#Insulating Materials#4.4#Finding flux density#Ex4_4.sce#2345/CH4/EX4.4/Ex4_4.sce#S##94164
+4#Insulating Materials#4.3#Finding heat #Ex4_3.sce#2345/CH4/EX4.3/Ex4_3.sce#S##94163
+4#Insulating Materials#4.2#Finding capacitance#Ex4_2.sce#2345/CH4/EX4.2/Ex4_2.sce#S##103489
+4#Insulating Materials#4.1#Finding capacitance#Ex4_1.sce#2345/CH4/EX4.1/Ex4_1.sce#S##94161
+2#Conducting Materials#2.9#Resistance and temp coeff#Ex2_9.sce#2345/CH2/EX2.9/Ex2_9.sce#S##91320
+2#Conducting Materials#2.8#Finding resistance#Ex2_8.sce#2345/CH2/EX2.8/Ex2_8.sce#S##91319
+2#Conducting Materials#2.7#Finding resistance#Ex2_7.sce#2345/CH2/EX2.7/Ex2_7.sce#S##91318
+2#Conducting Materials#2.6#Finding temperature coefficient#Ex2_6.sce#2345/CH2/EX2.6/Ex2_6.sce#S##91317
+2#Conducting Materials#2.5#Finding resistance#Ex2_5.sce#2345/CH2/EX2.5/Ex2_5.sce#S##91316
+2#Conducting Materials#2.4#Finding length#Ex2_4.sce#2345/CH2/EX2.4/Ex2_4.sce#S##91315
+2#Conducting Materials#2.3#Finding temperature#Ex2_3.sce#2345/CH2/EX2.3/Ex2_3.sce#S##91314
+2#Conducting Materials#2.21#Finding time#Ex2_21.sce#2345/CH2/EX2.21/Ex2_21.sce#S##94160
+2#Conducting Materials#2.20#Finding heat efficiency#Ex2_20.sce#2345/CH2/EX2.20/Ex2_20.sce#S##94159
+2#Conducting Materials#2.2#Finding resistance#Ex2_2.sce#2345/CH2/EX2.2/Ex2_2.sce#S##91313
+2#Conducting Materials#2.19#Finding resistance#Ex2_19.sce#2345/CH2/EX2.19/Ex2_19.sce#S##94158
+2#Conducting Materials#2.18#Finding ratios#Ex2_18.sce#2345/CH2/EX2.18/Ex2_18.sce#S##94157
+2#Conducting Materials#2.17#Finding fusing current#Ex2_17.sce#2345/CH2/EX2.17/Ex2_17.sce#S##94156
+2#Conducting Materials#2.16#Finding resistance#Ex2_16.sce#2345/CH2/EX2.16/Ex2_16.sce#S##94155
+2#Conducting Materials#2.15#Finding resistance#Ex2_15.sce#2345/CH2/EX2.15/Ex2_15.sce#S##94154
+2#Conducting Materials#2.14#Finding temperature#Ex2_14.sce#2345/CH2/EX2.14/Ex2_14.sce#S##94153
+2#Conducting Materials#2.13#Finding temperature#Ex2_13.sce#2345/CH2/EX2.13/Ex2_13.sce#S##94152
+2#Conducting Materials#2.12#Resistance and Conductivity#Ex2_12.sce#2345/CH2/EX2.12/Ex2_12.sce#S##94151
+2#Conducting Materials#2.11#Finding temperature coefficient#Ex2_11.sce#2345/CH2/EX2.11/Ex2_11.sce#S##94150
+2#Conducting Materials#2.10#Resistance and temperature#Ex2_10.sce#2345/CH2/EX2.10/Ex2_10.sce#S##91321
+2#Conducting Materials#2.1#Finding resistance#Ex2_1.sce#2345/CH2/EX2.1/Ex2_1.sce#S##91312

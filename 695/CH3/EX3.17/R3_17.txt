@@ -1,0 +1,18 @@
+ (a)Max efficiency will occur at   
+ 
+    70.710678  
+ 
+ Percent of full load   
+ 
+ Maximum Efficiency (in %)=   
+ 
+    96.585198  
+ 
+ (b)Core Loss (in watts)=   
+ 
+    314.58636  
+ 
+    Copper Loss (in watts)=   
+ 
+    435.41364  
+ 

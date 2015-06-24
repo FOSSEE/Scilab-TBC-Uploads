@@ -1,0 +1,5 @@
+  
+ Example 4.24   
+synchronous speed=1000rpm
+Slip at maximium torque,Sm=0.075000
+Rotor speed at maximium torque=925rpm 

@@ -1,0 +1,9 @@
+example 10 13   
+ 
+ (a)   
+total cost when each system supplies its own load Rs41525.275 per hour 
+ (b)   
+
+ total cost when load is supplied in economic load dispatch method Rs41447 per hour 
+ saving 77.277 
+ tie line load 30.905 MW 

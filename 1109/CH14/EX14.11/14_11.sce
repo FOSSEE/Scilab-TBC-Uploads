@@ -1,0 +1,17 @@
+clear;
+clc;
+fc=1*(10^6);Rk=75;m=0.6;
+L0=Rk/(4*%pi*fc);
+C0=1/(4*%pi*fc*Rk);
+printf("The elements of the prototype T-section H.P. are:\n");
+printf("  L = %f mH\n",round(L0*(10^3)*1000)/1000);
+printf("  C = %f picofarads\n\n",round(C0*(10^12)));
+C1=2*C0/m;
+L1=L0/m;
+C2=4*m*C0/(1-(m*m));
+printf(" The elements of the terminating half section m-derived H.P.T. filter are:\n");
+printf("  2C/m = %f picofarads\n",fix(C1*(10^12)));
+printf("  L/m = %f mH\n",round(L1*(10^6))/1000);
+printf("  Cshunt = %f picofarads\n\n",round(C2*(10^12)));
+fi=fc*sqrt(1-(m*m));
+printf(" Frequency of peak attenuation = %d kHz",fi*(10^-3));

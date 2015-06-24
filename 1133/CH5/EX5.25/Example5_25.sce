@@ -1,0 +1,16 @@
+//Example 5.25
+clc
+disp("The truth table for full subtractor is as shown below")
+disp("")
+disp(" Inputs      Outputs")
+disp("A  B  Bin    D  Bout")
+disp("0  0   0     0   0")
+disp("0  0   1     1   1")
+disp("0  1   0     1   1")
+disp("0  1   1     0   1")
+disp("1  0   0     1   0")
+disp("1  0   1     0   0")
+disp("1  1   0     0   0")
+disp("1  1   1     1   1")
+disp("")
+disp("Implementation of full subtractor using 3 : 8 decoder is shown in fig. 5.51")

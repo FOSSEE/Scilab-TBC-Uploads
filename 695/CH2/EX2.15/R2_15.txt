@@ -1,0 +1,11 @@
+ (a) Cu-loss (in watts)=   
+ 
+    2242.25  
+ 
+ (b) Iron and friction loss (in watts)=   
+ 
+    847.63764  
+ 
+ (c) Torque (in N-m)=   
+ 
+    268.23867 

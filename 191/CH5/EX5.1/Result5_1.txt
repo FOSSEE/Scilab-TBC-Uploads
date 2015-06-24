@@ -1,0 +1,9 @@
+ The Required Polynomial :    
+  
+  - 0.60761 + 0.81366x - 0.08164x^2
+ Obtained Value of Polynomial at x=2.7   
+ 
+    0.99412  
+ Error in approximation :    
+ 
+  - 0.00086 

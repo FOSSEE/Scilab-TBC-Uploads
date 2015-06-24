@@ -1,0 +1,5 @@
+ # Problem 14b # 
+
+ Standard formula used 
+ m = m_o/ sqrt ( 1- (v/c)^2)
+ Ratio of velocity to velocity of light for particle is 1 -  1.314924e-07 .

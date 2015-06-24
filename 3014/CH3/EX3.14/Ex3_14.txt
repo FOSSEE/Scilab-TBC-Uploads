@@ -1,0 +1,4 @@
+
+Example 3.14
+Wavelength shift is 0.024286 angstrom. 
+Energy of recoiled electron is 511.875000eV. 

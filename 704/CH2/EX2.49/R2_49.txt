@@ -1,0 +1,13 @@
+    
+ iron & friction losses in motor(in watts)=   
+ 
+    4840.  
+ 
+ copper losses in a shunt generator(in watts)=   
+ 
+    4625.  
+ 
+ commerical efficiency(in %)=   
+ 
+    83.914004  
+ 

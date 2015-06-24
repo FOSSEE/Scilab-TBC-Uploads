@@ -1,0 +1,11 @@
+Voltage acorss load CK = 245.48 V 
+
+Voltage acorss load DM = 244.12 V 
+
+Voltage acorss load JG = 248.20 V 
+
+Voltage acorss load LH = 245.88 V 
+
+Voltage acorss load PF = 244.64 V 
+
+

@@ -1,0 +1,11 @@
+Annual fixed charges = Rs. 19200 
+
+When laod factor is 100% 
+Units generated per annum = 876000 kWh 
+Fixed charges per kWh = Rs. 0.02192 
+
+When laod factor is 50% 
+Units generated per annum = 438000 kWh 
+Fixed charges per kWh = Rs. 0.04384 
+
+

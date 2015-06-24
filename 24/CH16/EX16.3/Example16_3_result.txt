@@ -1,0 +1,6 @@
+**Sample Problem 16-3a**
+The mechanical energy of the block is 0.393250J
+
+**Sample Problem 16-3b**
+The potential energy at that position is 0.098312J
+The kinetic energy of the block is 0.294937J 

@@ -1,0 +1,4 @@
+ 
+ Example 5.3
+ Respective time periods are as:
+ t_sphere: 0.043C 	 t_cube = 0.028C 	 t_cylinder = 0.033C

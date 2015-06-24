@@ -1,0 +1,108 @@
+7#Superconductivity#7.3.4#calculate the isotopic mass #Example7_4.sce#1883/CH7/EX7.3.4/Example7_4.sce#S##110876
+7#Superconductivity#7.3.3#calculate the critical current #Example7_3.sce#1883/CH7/EX7.3.3/Example7_3.sce#S##110877
+7#Superconductivity#7.3.2#find the critical field#Example7_2.sce#1883/CH7/EX7.3.2/Example7_2.sce#S##110878
+7#Superconductivity#7.3.1#calculate critical temperature of element#Example7_1.sce#1883/CH7/EX7.3.1/Example7_1.sce#S##110879
+6#Motion of Charged Particle in Electric and Magnetic Fields#6.5.1#calculate phase change #Example6_4.sce#1883/CH6/EX6.5.1/Example6_4.sce#S##110880
+6#Motion of Charged Particle in Electric and Magnetic Fields#6.1.3#find the input voltage #Example6_3.sce#1883/CH6/EX6.1.3/Example6_3.sce#S##110881
+6#Motion of Charged Particle in Electric and Magnetic Fields#6.1.2#calculate radius and pitch #Example6_2.sce#1883/CH6/EX6.1.2/Example6_2.sce#S##110882
+6#Motion of Charged Particle in Electric and Magnetic Fields#6.1.1#calculate radius of revolution and distance covered#Example6_1.sce#1883/CH6/EX6.1.1/Example6_1.sce#S##110883
+5#Quantum Mechanics#5.7.7#find the time spent by an atom in excited state#Example5_21.sce#1883/CH5/EX5.7.7/Example5_21.sce#S##110950
+5#Quantum Mechanics#5.7.6#calculate the uncertainty in energy #Example5_20.sce#1883/CH5/EX5.7.6/Example5_20.sce#S##110949
+5#Quantum Mechanics#5.7.5#calculate the minimum time spent by the electrons #Example5_19.sce#1883/CH5/EX5.7.5/Example5_19.sce#S##110948
+5#Quantum Mechanics#5.7.4#find the accuracy in position of an electron#Example5_18.sce#1883/CH5/EX5.7.4/Example5_18.sce#S##110947
+5#Quantum Mechanics#5.7.3#find the accuracy in position of an electron#Example5_17.sce#1883/CH5/EX5.7.3/Example5_17.sce#S##110946
+5#Quantum Mechanics#5.7.2#calculate the percentage of uncertainty#Example5_16.sce#1883/CH5/EX5.7.2/Example5_16.sce#S##110945
+5#Quantum Mechanics#5.7.1#find the accuracy in position of an electron#Example5_15.sce#1883/CH5/EX5.7.1/Example5_15.sce#S##110944
+5#Quantum Mechanics#5.3.9#find the parameters for an electron wave#Example5_9.sce#1883/CH5/EX5.3.9/Example5_9.sce#S##110938
+5#Quantum Mechanics#5.3.8#find the momentum and energy of an electron#Example5_8.sce#1883/CH5/EX5.3.8/Example5_8.sce#S##110937
+5#Quantum Mechanics#5.3.7#find the de Broglie wavelength #Example5_7.sce#1883/CH5/EX5.3.7/Example5_7.sce#S##110936
+5#Quantum Mechanics#5.3.6#calculate the velocity and kinetic energy of neutron#Example5_6.sce#1883/CH5/EX5.3.6/Example5_6.sce#S##110935
+5#Quantum Mechanics#5.3.5#find the de Broglie wavelength of an electron#Example5_5.sce#1883/CH5/EX5.3.5/Example5_5.sce#S##110934
+5#Quantum Mechanics#5.3.4#find the wavelength of a beam of neutron#Example5_4.sce#1883/CH5/EX5.3.4/Example5_4.sce#S##110933
+5#Quantum Mechanics#5.3.3#calculate kinetic energy of an electron#Example5_3.sce#1883/CH5/EX5.3.3/Example5_3.sce#S##110932
+5#Quantum Mechanics#5.3.2#calculate the velocity#Example5_2.sce#1883/CH5/EX5.3.2/Example5_2.sce#S##110931
+5#Quantum Mechanics#5.3.14#find the de Broglie wavelength of an electron#Example5_14.sce#1883/CH5/EX5.3.14/Example5_14.sce#S##110943
+5#Quantum Mechanics#5.3.13#find the de Broglie wavelengths of photon and electron#Example5_13.sce#1883/CH5/EX5.3.13/Example5_13.sce#S##110942
+5#Quantum Mechanics#5.3.12#calculate the velocity and de Broglie wavelength of an alpha particle#Example5_12.sce#1883/CH5/EX5.3.12/Example5_12.sce#S##110941
+5#Quantum Mechanics#5.3.11#calculate the ratio of de Broglie wavelengths #Example5_11.sce#1883/CH5/EX5.3.11/Example5_11.sce#S##110940
+5#Quantum Mechanics#5.3.10#calculate the de Broglie wavelength and momentum of an electron#Example5_10.sce#1883/CH5/EX5.3.10/Example5_10.sce#S##110939
+5#Quantum Mechanics#5.3.1#calculate de Broglie wavelength and velocity and time #Example5_1.sce#1883/CH5/EX5.3.1/Example5_1.sce#S##110930
+5#Quantum Mechanics#5.15.7#calculate the energy and wavelength of the emitted photon#Example5_26.sce#1883/CH5/EX5.15.7/Example5_26.sce#S##110957
+5#Quantum Mechanics#5.15.6#calculate the width of the well#Example5_25.sce#1883/CH5/EX5.15.6/Example5_25.sce#S##110956
+5#Quantum Mechanics#5.15.5#find the lowest energy states #Example5_24.sce#1883/CH5/EX5.15.5/Example5_24.sce#S##110955
+5#Quantum Mechanics#5.15.4#find the probability of finding the particle#Example5_28.sce#1883/CH5/EX5.15.4/Example5_28.sce#S##110954
+5#Quantum Mechanics#5.15.3#calculate the probability of finding the particle#Example5_27.sce#1883/CH5/EX5.15.3/Example5_27.sce#S##110953
+5#Quantum Mechanics#5.15.2#find the ground state energy of an electron#Example5_23.sce#1883/CH5/EX5.15.2/Example5_23.sce#S##110952
+5#Quantum Mechanics#5.15.1#find the energy of an electron for different states#Example5_22.sce#1883/CH5/EX5.15.1/Example5_22.sce#S##110951
+4#Lasers#4.6.3#calculate the wavelength of photons#Example4_3.sce#1883/CH4/EX4.6.3/Example4_3.sce#S##110884
+4#Lasers#4.6.2#find the ratio of population of two energy levels#Example4_2.sce#1883/CH4/EX4.6.2/Example4_2.sce#S##110885
+4#Lasers#4.6.1#find the number of emitted photons#Example4_1.sce#1883/CH4/EX4.6.1/Example4_1.sce#S##110886
+3#Fibre Optics#3.6.4#find the loss specification in cable#Example3_15.sce#1883/CH3/EX3.6.4/Example3_15.sce#S##110901
+3#Fibre Optics#3.6.3#calculate the fractional initial intensity #Example3_18.sce#1883/CH3/EX3.6.3/Example3_18.sce#S##110902
+3#Fibre Optics#3.6.2#calculate the output power#Example3_16.sce#1883/CH3/EX3.6.2/Example3_16.sce#S##110903
+3#Fibre Optics#3.6.1#calculate the fibre attenuation#Example3_17.sce#1883/CH3/EX3.6.1/Example3_17.sce#S##110904
+3#Fibre Optics#3.4.6#calculate various parameters of fibre#Example3_14.sce#1883/CH3/EX3.4.6/Example3_14.sce#S##110900
+3#Fibre Optics#3.4.5#calculate the number of modes#Example3_13.sce#1883/CH3/EX3.4.5/Example3_13.sce#S##110899
+3#Fibre Optics#3.4.4#calculate various parameters of fibre#Example3_12.sce#1883/CH3/EX3.4.4/Example3_12.sce#S##110898
+3#Fibre Optics#3.4.3#find various parameters of fibre#Example3_11.sce#1883/CH3/EX3.4.3/Example3_11.sce#S##110897
+3#Fibre Optics#3.4.2#calculate the maximum radius for fibre#Example3_10.sce#1883/CH3/EX3.4.2/Example3_10.sce#S##110896
+3#Fibre Optics#3.4.1#calculate normalized frequency and number of modes#Example3_9.sce#1883/CH3/EX3.4.1/Example3_9.sce#S##110895
+3#Fibre Optics#3.3.8#calculate the acceptance angle #Example3_8.sce#1883/CH3/EX3.3.8/Example3_8.sce#S##110894
+3#Fibre Optics#3.3.7#calculate the maximum refractive index of cladding#Example3_7.sce#1883/CH3/EX3.3.7/Example3_7.sce#S##110893
+3#Fibre Optics#3.3.6#calculate the fractional index change #Example3_6.sce#1883/CH3/EX3.3.6/Example3_6.sce#S##110892
+3#Fibre Optics#3.3.5#the refractive index of cladding#Example3_5.sce#1883/CH3/EX3.3.5/Example3_5.sce#S##110891
+3#Fibre Optics#3.3.4#find the critical angle and angle of acceptance cone #Example3_4.sce#1883/CH3/EX3.3.4/Example3_4.sce#S##110890
+3#Fibre Optics#3.3.3#find the numerical aperture and acceptance angle#Example3_3.sce#1883/CH3/EX3.3.3/Example3_3.sce#S##110889
+3#Fibre Optics#3.3.2#find refractive index of core and acceptance angle#Example3_2.sce#1883/CH3/EX3.3.2/Example3_2.sce#S##110888
+3#Fibre Optics#3.3.1#find refractive index of cladding#Example3_1.sce#1883/CH3/EX3.3.1/Example3_1.sce#S##110887
+2#Diffraction of Light#2.6.6#find the resolving power #Example2_24.sce#1883/CH2/EX2.6.6/Example2_24.sce#S##110912
+2#Diffraction of Light#2.6.5#calculate number of lines and the grating element#Example2_23.sce#1883/CH2/EX2.6.5/Example2_23.sce#S##110913
+2#Diffraction of Light#2.6.4#find the resolving power of diffraction#Example2_22.sce#1883/CH2/EX2.6.4/Example2_22.sce#S##110914
+2#Diffraction of Light#2.6.3#find the width of grating #Example2_21.sce#1883/CH2/EX2.6.3/Example2_21.sce#S##110915
+2#Diffraction of Light#2.6.2#find the smallest wavelength interval#Example2_20.sce#1883/CH2/EX2.6.2/Example2_20.sce#S##110918
+2#Diffraction of Light#2.6.1#find angular separation and number of lines per meter#Example2_19.sce#1883/CH2/EX2.6.1/Example2_19.sce#S##110917
+2#Diffraction of Light#2.4.9#calculate the highest order spectrum#Example2_16.sce#1883/CH2/EX2.4.9/Example2_16.sce#S##110921
+2#Diffraction of Light#2.4.8#calculate total number of lines #Example2_15.sce#1883/CH2/EX2.4.8/Example2_15.sce#S##110922
+2#Diffraction of Light#2.4.7#calculate the total number of lines #Example2_14.sce#1883/CH2/EX2.4.7/Example2_14.sce#S##110923
+2#Diffraction of Light#2.4.6#find the longest wavelength #Example2_13.sce#1883/CH2/EX2.4.6/Example2_13.sce#S##110924
+2#Diffraction of Light#2.4.5#calculate the number of lines per meter#Example2_12.sce#1883/CH2/EX2.4.5/Example2_12.sce#S##110925
+2#Diffraction of Light#2.4.4#find the angle of diffraction#Example2_11.sce#1883/CH2/EX2.4.4/Example2_11.sce#S##110926
+2#Diffraction of Light#2.4.3#calculate the wavelength of spectral line#Example2_10.sce#1883/CH2/EX2.4.3/Example2_10.sce#S##110927
+2#Diffraction of Light#2.4.2#find the number of lines per meter#Example2_9.sce#1883/CH2/EX2.4.2/Example2_9.sce#S##110928
+2#Diffraction of Light#2.4.11#calculate total number of lines#Example2_18.sce#1883/CH2/EX2.4.11/Example2_18.sce#S##110919
+2#Diffraction of Light#2.4.10#find the order of absent spectra#Example2_17.sce#1883/CH2/EX2.4.10/Example2_17.sce#S##110920
+2#Diffraction of Light#2.4.1#find the orders #Example2_8.sce#1883/CH2/EX2.4.1/Example2_8.sce#S##110929
+2#Diffraction of Light#2.3.1#calculate the missing orders#Example2_7.sce#1883/CH2/EX2.3.1/Example2_7.sce#S##110911
+2#Diffraction of Light#2.2.6#calculate the angle #Example2_6.sce#1883/CH2/EX2.2.6/Example2_6.sce#S##110910
+2#Diffraction of Light#2.2.5#find half angular width of central maximum#Example2_5.sce#1883/CH2/EX2.2.5/Example2_5.sce#S##110909
+2#Diffraction of Light#2.2.4#find half angular width of  a principal maximum#Example2_4.sce#1883/CH2/EX2.2.4/Example2_4.sce#S##110908
+2#Diffraction of Light#2.2.3#calculate wavelength of light#Example2_3.sce#1883/CH2/EX2.2.3/Example2_3.sce#S##110907
+2#Diffraction of Light#2.2.2#calculate the angular separation between first order minima#Example2_2.sce#1883/CH2/EX2.2.2/Example2_2.sce#S##110906
+2#Diffraction of Light#2.2.1#calculate the width of slit#Example2_1.sce#1883/CH2/EX2.2.1/Example2_1.sce#S##110905
+1#Interference of Light#1.7.2#find the thickness of coating#Example1_2.sce#1883/CH1/EX1.7.2/Example1_2.sce#S##110959
+1#Interference of Light#1.7.1#find the thickness of coating#Example1_1.sce#1883/CH1/EX1.7.1/Example1_1.sce#S##110958
+1#Interference of Light#1.4.8#find the refractive index of liquid#Example1_16.sce#1883/CH1/EX1.4.8/Example1_16.sce#S##110973
+1#Interference of Light#1.4.7#find the diameter of dark ring #Example1_15.sce#1883/CH1/EX1.4.7/Example1_15.sce#S##110972
+1#Interference of Light#1.4.6#find the diameter of dark ring#Example1_14.sce#1883/CH1/EX1.4.6/Example1_14.sce#S##110971
+1#Interference of Light#1.4.5#find the refractive index of liquid#Example1_13.sce#1883/CH1/EX1.4.5/Example1_13.sce#S##110970
+1#Interference of Light#1.4.4#find the wavelength of light #Example1_12.sce#1883/CH1/EX1.4.4/Example1_12.sce#S##110969
+1#Interference of Light#1.4.3#find the radius of curvature#Example1_11.sce#1883/CH1/EX1.4.3/Example1_11.sce#S##110968
+1#Interference of Light#1.4.2#find radius of curvature and thickness of film#Example1_10.sce#1883/CH1/EX1.4.2/Example1_10.sce#S##110967
+1#Interference of Light#1.4.12#calculate the wavelength of light #Example1_18.sce#1883/CH1/EX1.4.12/Example1_18.sce#S##110975
+1#Interference of Light#1.4.11#find the diameter of ring#Example1_17.sce#1883/CH1/EX1.4.11/Example1_17.sce#S##110974
+1#Interference of Light#1.4.1#find the ring number #Example1_9.sce#1883/CH1/EX1.4.1/Example1_9.sce#S##110966
+1#Interference of Light#1.3.6#find the separation between consecutive bright fringes#Example1_8.sce#1883/CH1/EX1.3.6/Example1_8.sce#S##110965
+1#Interference of Light#1.3.5#find the diameter of wire#Example1_7.sce#1883/CH1/EX1.3.5/Example1_7.sce#S##110964
+1#Interference of Light#1.3.4#find the number of fringes#Example1_6.sce#1883/CH1/EX1.3.4/Example1_6.sce#S##110963
+1#Interference of Light#1.3.3#calculate the wavelength of light #Example1_5.sce#1883/CH1/EX1.3.3/Example1_5.sce#S##110962
+1#Interference of Light#1.3.2#calculate the angle of wedge#Example1_4.sce#1883/CH1/EX1.3.2/Example1_4.sce#S##110961
+1#Interference of Light#1.3.1#find wavelength of monochromatic light#Example1_3.sce#1883/CH1/EX1.3.1/Example1_3.sce#S##110960
+1#Interference of Light#1.2.9#find the wavelength of light in the visible region#Example1_27.sce#1883/CH1/EX1.2.9/Example1_27.sce#S##110984
+1#Interference of Light#1.2.8#find the refractive index of oil#Example1_23.sce#1883/CH1/EX1.2.8/Example1_23.sce#S##110983
+1#Interference of Light#1.2.7#find the minimum thickness of film#Example1_22.sce#1883/CH1/EX1.2.7/Example1_22.sce#S##110982
+1#Interference of Light#1.2.6#find the thickness of film#Example1_21.sce#1883/CH1/EX1.2.6/Example1_21.sce#S##110981
+1#Interference of Light#1.2.5#find the thickness of oil layer#Example1_26.sce#1883/CH1/EX1.2.5/Example1_26.sce#S##110980
+1#Interference of Light#1.2.4#find the thickness of soap film#Example1_19.sce#1883/CH1/EX1.2.4/Example1_19.sce#S##110979
+1#Interference of Light#1.2.3#find the order of interference band#Example1_20.sce#1883/CH1/EX1.2.3/Example1_20.sce#S##110978
+1#Interference of Light#1.2.2#find the wavelength of light in the visible spectrum#Example1_25.sce#1883/CH1/EX1.2.2/Example1_25.sce#S##110977
+1#Interference of Light#1.2.1#find the wavelength of light in the visible spectrum#Example1_24.sce#1883/CH1/EX1.2.1/Example1_24.sce#S##110976

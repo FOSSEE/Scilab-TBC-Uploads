@@ -1,0 +1,6 @@
+**Sample Problem 5-7a**
+The tension in the chord is 66.736603 N
+The Normal force is 130.977959 N
+
+**Sample Problem 5-7b**
+The acceleration of block after cutting the chord is 4.449107 m/s^2 

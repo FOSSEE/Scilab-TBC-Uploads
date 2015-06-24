@@ -1,0 +1,10 @@
+Wave parameters from the space profile and time profile
+ (1)Amplitude is 0.02 m 
+ (2)Wavelength  is 6 m 
+ (3)Time period is 2 s 
+ (4)Frequency is 0.5 Hz 
+ (5)Angular Frequency is 3.142 rad/s
+ (6)Wave number is 1.047 rad/m 
+ (7)Initial phase is 3.142 radians
+ (8)The velocity of wave is 3 m/s 
+ (9)Intensity is proportional to : 4.0 x 10^-4 m^2. 

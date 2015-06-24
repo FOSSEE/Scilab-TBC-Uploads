@@ -1,0 +1,27 @@
+
+V=500  //voltage applied to motor
+Ra=.2  //armature resistance
+Il0=4  //no load current taken by motor
+Ish=1  //shunt current
+Pi=V*Il0  //power input at no load
+Ia0=Il0-Ish
+Wcu=Ia0^2*Ra  //armature copper losses at no load
+Wc=Pi-Wcu  //constant losses
+//when input current=20 A
+Il=20
+Ia=Il-Ish
+Wcu=Ia^2*Ra  //armature copper losses
+Wt=Wc+Wcu  //total losses
+Pi=V*Il  //power input to motor
+Po=Pi-Wt
+e=Po/Pi*100
+mprintf("When input current=20 A, output is %f W and efficiency of motor is %f percent\n",Po, e)
+//when input current =100 A
+Il=100
+Ia=Il-Ish
+Wcu=Ia^2*Ra  //armature copper losses
+Wt=Wc+Wcu  //total losses
+Pi=V*Il  //power input to motor
+Po=Pi-Wt
+e=Po/Pi*100
+mprintf("When input current=100 A, output is %f W and efficiency of motor is %f percent\n", Po,e)

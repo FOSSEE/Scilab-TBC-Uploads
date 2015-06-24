@@ -1,0 +1,139 @@
+11#electronics#11.9#finding the parameters of the operating points#chapter11_ex9.sce#2276/CH11/EX11.9/chapter11_ex9.sce#S##82288
+11#electronics#11.8#determination of output resistances#chapter11_ex8.sce#2276/CH11/EX11.8/chapter11_ex8.sce#S##82287
+11#electronics#11.7#calculation of input resistances#chapter11_ex7.sce#2276/CH11/EX11.7/chapter11_ex7.sce#S##82286
+11#electronics#11.6#determination of ac voltage across the load#chapter11_ex6.sce#2276/CH11/EX11.6/chapter11_ex6.sce#S##82285
+11#electronics#11.5#finding the voltage amplification#chapter11_ex5.sce#2276/CH11/EX11.5/chapter11_ex5.sce#S##82284
+11#electronics#11.4#determination of operating points#chapter11_ex4.sce#2276/CH11/EX11.4/chapter11_ex4.sce#S##82283
+11#electronics#11.3#finding the required anode voltage#chapter11_ex3.sce#2276/CH11/EX11.3/chapter11_ex3.sce#S##82282
+11#electronics#11.2#determination of the triode parameters#chapter11_ex2.sce#2276/CH11/EX11.2/chapter11_ex2.sce#S##82281
+11#electronics#11.15#calculation of required load resistance#chapter11_ex15.sce#2276/CH11/EX11.15/chapter11_ex15.sce#S##82294
+11#electronics#11.14#finding voltage gain when h parameters are given#chapter11_ex14.sce#2276/CH11/EX11.14/chapter11_ex14.sce#S##82293
+11#electronics#11.13#calculation of voltage gain#chapter11_ex13.sce#2276/CH11/EX11.13/chapter11_ex13.sce#S##82292
+11#electronics#11.12#calculation of voltage and current gains#chapter11_ex12.sce#2276/CH11/EX11.12/chapter11_ex12.sce#S##82291
+11#electronics#11.11#determination of collector emitter voltage and current gain#chapter11_ex11.sce#2276/CH11/EX11.11/chapter11_ex11.sce#S##82290
+11#electronics#11.10#calculation of current gain#chapter11_ex10.sce#2276/CH11/EX11.10/chapter11_ex10.sce#S##82289
+11#electronics#11.1#determination of anode slope resistance the mutual conductance and the amplification factor#chapter11_ex1.sce#2276/CH11/EX11.1/chapter11_ex1.sce#S##82280
+10#synchronous and asynchronous machines#10.9#calculation of rotor copper loss and the input and efficiency of the motor#chapter10_ex9.sce#2276/CH10/EX10.9/chapter10_ex9.sce#S##82279
+10#synchronous and asynchronous machines#10.8#calculation of slip rotor copper loss total torque and the efficiency#chapter10_ex8.sce#2276/CH10/EX10.8/chapter10_ex8.sce#S##82278
+10#synchronous and asynchronous machines#10.7#finding the rotor speed and the frequency of rotor components#chapter10_ex7.sce#2276/CH10/EX10.7/chapter10_ex7.sce#S##82277
+10#synchronous and asynchronous machines#10.6#finding the slip speed and the slip#chapter10_ex6.sce#2276/CH10/EX10.6/chapter10_ex6.sce#S##82276
+10#synchronous and asynchronous machines#10.5#determination torque produced#chapter10_ex5.sce#2276/CH10/EX10.5/chapter10_ex5.sce#S##82275
+10#synchronous and asynchronous machines#10.4#calculation of torque produced#chapter10_ex4.sce#2276/CH10/EX10.4/chapter10_ex4.sce#S##82274
+10#synchronous and asynchronous machines#10.3#calculation of phase and line voltages#chapter10_ex3.sce#2276/CH10/EX10.3/chapter10_ex3.sce#S##82273
+10#synchronous and asynchronous machines#10.2#finding the emf between the ends of the series connected coils#chapter10_ex2.sce#2276/CH10/EX10.2/chapter10_ex2.sce#S##82272
+10#synchronous and asynchronous machines#10.1#determination of emf between ends of a coil#chapter10_ex1.sce#2276/CH10/EX10.1/chapter10_ex1.sce#S##82271
+9#the single phase transformer#9.9#calculation of different efficiencies and loading for maximum efficiency#chapter9_ex9.sce#2276/CH9/EX9.9/chapter9_ex9.sce#S##82266
+9#the single phase transformer#9.8#estimation of flux density magnetizing current and core loss#chapter9_ex8.sce#2276/CH9/EX9.8/chapter9_ex8.sce#S##82265
+9#the single phase transformer#9.7#finding number of primary and secondary turns#chapter9_ex7.sce#2276/CH9/EX9.7/chapter9_ex7.sce#S##82264
+9#the single phase transformer#9.6#determination of components of parallel circuit#chapter9_ex6.sce#2276/CH9/EX9.6/chapter9_ex6.sce#S##82263
+9#the single phase transformer#9.5#finding the flux density in the core#chapter9_ex5.sce#2276/CH9/EX9.5/chapter9_ex5.sce#S##82262
+9#the single phase transformer#9.4#finding magnetizing current and the no load loss#chapter9_ex4.sce#2276/CH9/EX9.4/chapter9_ex4.sce#S##82261
+9#the single phase transformer#9.3#finding the mutual inductance between the windings#chapter9_ex3.sce#2276/CH9/EX9.3/chapter9_ex3.sce#S##82260
+9#the single phase transformer#9.2#finding the secondary turns and the full load primary and secondary currents#chapter9_ex2.sce#2276/CH9/EX9.2/chapter9_ex2.sce#S##82259
+9#the single phase transformer#9.13#calculation of secondary terminal voltage#chapter9_ex13.sce#2276/CH9/EX9.13/chapter9_ex13.sce#S##82270
+9#the single phase transformer#9.12#finding the primary input current secondary terminal voltage and the efficiency#chapter9_ex12.sce#2276/CH9/EX9.12/chapter9_ex12.sce#S##82269
+9#the single phase transformer#9.11#determination of equivalent circuit#chapter9_ex11.sce#2276/CH9/EX9.11/chapter9_ex11.sce#S##82268
+9#the single phase transformer#9.10#calculation of all day efficiency#chapter9_ex10.sce#2276/CH9/EX9.10/chapter9_ex10.sce#S##82267
+9#the single phase transformer#9.1#finding the number turns on secondary#chapter9_ex1.sce#2276/CH9/EX9.1/chapter9_ex1.sce#S##82258
+8#three phase circuits#8.9#calculation of capacitance per phase#chapter8_ex9.sce#2276/CH8/EX8.9/chapter8_ex9.sce#S##82256
+8#three phase circuits#8.8#determination of line and motor phase currents#chapter8_ex8.sce#2276/CH8/EX8.8/chapter8_ex8.sce#S##82255
+8#three phase circuits#8.7#determination of line currents and phase angle in two cases#chapter8_ex7.sce#2276/CH8/EX8.7/chapter8_ex7.sce#S##82254
+8#three phase circuits#8.6#calculation of line current and phase angle#chapter8_ex6.sce#2276/CH8/EX8.6/chapter8_ex6.sce#S##82253
+8#three phase circuits#8.5#calculation of phase and line currents#chapter8_ex5.sce#2276/CH8/EX8.5/chapter8_ex5.sce#S##82252
+8#three phase circuits#8.4#illustration for neutral current is zero#chapter8_ex4.sce#2276/CH8/EX8.4/chapter8_ex4.sce#S##82251
+8#three phase circuits#8.3#calculation of total line current and total phase angle#chapter8_ex3.sce#2276/CH8/EX8.3/chapter8_ex3.sce#S##82250
+8#three phase circuits#8.2#finding the line current and the phase angle#chapter8_ex2.sce#2276/CH8/EX8.2/chapter8_ex2.sce#S##82249
+8#three phase circuits#8.10#detrmining the wattmeter readings for given conditions#chapter8_ex10.sce#2276/CH8/EX8.10/chapter8_ex10.sce#S##82257
+8#three phase circuits#8.1#finding the phase voltage and line current#chapter8_ex1.sce#2276/CH8/EX8.1/chapter8_ex1.sce#S##82248
+7#power and power factor#7.9#calculation of required capacitance#chapter7_ex9.sce#2276/CH7/EX7.9/chapter7_ex9.sce#S##82242
+7#power and power factor#7.8#calculation of required capacitance#chapter7_ex8.sce#2276/CH7/EX7.8/chapter7_ex8.sce#S##82241
+7#power and power factor#7.7#finding required range of frequency#chapter7_ex7.sce#2276/CH7/EX7.7/chapter7_ex7.sce#S##82240
+7#power and power factor#7.6#calculation of total power and current taken form the supply using admittance method#chapter7_ex6.sce#2276/CH7/EX7.6/chapter7_ex6.sce#S##82239
+7#power and power factor#7.5#finding total active power taken from the supply#chapter7_ex5.sce#2276/CH7/EX7.5/chapter7_ex5.sce#S##82238
+7#power and power factor#7.4#finding the total kVA loading and overall power factor#chapter7_ex4.sce#2276/CH7/EX7.4/chapter7_ex4.sce#S##82237
+7#power and power factor#7.3#calculation of apparent and reactive powers and the inductance of coil#chapter7_ex3.sce#2276/CH7/EX7.3/chapter7_ex3.sce#S##82236
+7#power and power factor#7.2#finding the time elapsed before maximum power#chapter7_ex2.sce#2276/CH7/EX7.2/chapter7_ex2.sce#S##82235
+7#power and power factor#7.14#finding the power for the load and whole circuit#chapter7_ex14.sce#2276/CH7/EX7.14/chapter7_ex14.sce#S##82247
+7#power and power factor#7.13#calculation of inductance resistance and the power loss#chapter7_ex13.sce#2276/CH7/EX7.13/chapter7_ex13.sce#S##82246
+7#power and power factor#7.12#calculation of power dissipated by the inductor#chapter7_ex12.sce#2276/CH7/EX7.12/chapter7_ex12.sce#S##82245
+7#power and power factor#7.11#calculation of components of a fully variable load#chapter7_ex11.sce#2276/CH7/EX7.11/chapter7_ex11.sce#S##82244
+7#power and power factor#7.10#calculation of pure resistive load for maximum power#chapter7_ex10.sce#2276/CH7/EX7.10/chapter7_ex10.sce#S##82243
+7#power and power factor#7.1#finding the average and instantaneous power#chapter7_ex1.sce#2276/CH7/EX7.1/chapter7_ex1.sce#S##82234
+6#operational methods#6.8#finding the magnitude and phase angle of current#chapter6_ex8.sce#2276/CH6/EX6.8/chapter6_ex8.sce#S##82233
+6#operational methods#6.7#calculating the components of equivalent series circuit#chapter6_ex7.sce#2276/CH6/EX6.7/chapter6_ex7.sce#S##82232
+6#operational methods#6.6#finding magnitude and phase angle of the voltage#chapter6_ex6.sce#2276/CH6/EX6.6/chapter6_ex6.sce#S##82231
+6#operational methods#6.5#calculation of current and phase angle#chapter6_ex5.sce#2276/CH6/EX6.5/chapter6_ex5.sce#S##82230
+6#operational methods#6.4#caculation of current taken by a combination#chapter6_ex4.sce#2276/CH6/EX6.4/chapter6_ex4.sce#S##82229
+6#operational methods#6.3#calculation of total impedance and the current#chapter6_ex3.sce#2276/CH6/EX6.3/chapter6_ex3.sce#S##82228
+6#operational methods#6.2#calculation of supply current and voltages and phse angle#chapter6_ex2.sce#2276/CH6/EX6.2/chapter6_ex2.sce#S##82227
+6#operational methods#6.1#calculation of current taken from the supply and its phase angle#chapter6_ex1.sce#2276/CH6/EX6.1/chapter6_ex1.sce#S##82226
+5#the single phase ac parallel circuit#5.9#finding resonant frequency#chapter5_ex9.sce#2276/CH5/EX5.9/chapter5_ex9.sce#S##82223
+5#the single phase ac parallel circuit#5.8#calculation of total current and phase angle#chapter5_ex8.sce#2276/CH5/EX5.8/chapter5_ex8.sce#S##82222
+5#the single phase ac parallel circuit#5.7#finding current taken from the supply by an rlc parallel circuit#chapter5_ex7.sce#2276/CH5/EX5.7/chapter5_ex7.sce#S##82221
+5#the single phase ac parallel circuit#5.6#calculation of current using admittance method#chapter5_ex6.sce#2276/CH5/EX5.6/chapter5_ex6.sce#S##82220
+5#the single phase ac parallel circuit#5.5#determination of total current and phase angle in rc parallel circuit#chapter5_ex5.sce#2276/CH5/EX5.5/chapter5_ex5.sce#S##82219
+5#the single phase ac parallel circuit#5.4#calculation of reactance and inductance#chapter5_ex4.sce#2276/CH5/EX5.4/chapter5_ex4.sce#S##82218
+5#the single phase ac parallel circuit#5.3#calculation of current taken from the supply#chapter5_ex3.sce#2276/CH5/EX5.3/chapter5_ex3.sce#S##82217
+5#the single phase ac parallel circuit#5.2#finding current and phase angle#chapter5_ex2.sce#2276/CH5/EX5.2/chapter5_ex2.sce#S##82216
+5#the single phase ac parallel circuit#5.11#calculation of resistance and inductance of load#chapter5_ex11.sce#2276/CH5/EX5.11/chapter5_ex11.sce#S##82225
+5#the single phase ac parallel circuit#5.10#calculation of ratio between capacitor current and supply current#chapter5_ex10.sce#2276/CH5/EX5.10/chapter5_ex10.sce#S##82224
+5#the single phase ac parallel circuit#5.1#determining the current taken from the supply#chapter5_ex1.sce#2276/CH5/EX5.1/chapter5_ex1.sce#S##82215
+4#the single phase a c series circuit#4.9#calculation of required capacitance#chapter4_ex9.sce#2276/CH4/EX4.9/chapter4_ex9.sce#S##82211
+4#the single phase a c series circuit#4.8#finding frequency and potential differences#chapter4_ex8.sce#2276/CH4/EX4.8/chapter4_ex8.sce#S##82210
+4#the single phase a c series circuit#4.7#determination of voltage equation#chapter4_ex7.sce#2276/CH4/EX4.7/chapter4_ex7.sce#S##82209
+4#the single phase a c series circuit#4.6#determination of current and voltage#chapter4_ex6.sce#2276/CH4/EX4.6/chapter4_ex6.sce#S##82208
+4#the single phase a c series circuit#4.5#calculation of required capacitance#chapter4_ex5.sce#2276/CH4/EX4.5/chapter4_ex5.sce#S##82207
+4#the single phase a c series circuit#4.4#finding the resistance and inductance of a coil#chapter4_ex4.sce#2276/CH4/EX4.4/chapter4_ex4.sce#S##82206
+4#the single phase a c series circuit#4.3#finding required components of a coil#chapter4_ex3.sce#2276/CH4/EX4.3/chapter4_ex3.sce#S##82205
+4#the single phase a c series circuit#4.2#finding the phase angle and magnitude of current#chapter4_ex2.sce#2276/CH4/EX4.2/chapter4_ex2.sce#S##82204
+4#the single phase a c series circuit#4.12#determination of inductance and phase angle of the coil#chapter4_ex12.sce#2276/CH4/EX4.12/chapter4_ex12.sce#S##82214
+4#the single phase a c series circuit#4.11#calculation of ratio between the pd and supply voltage#chapter4_ex11.sce#2276/CH4/EX4.11/chapter4_ex11.sce#S##82213
+4#the single phase a c series circuit#4.10#calculations of required frequency and currents#chapter4_ex10.sce#2276/CH4/EX4.10/chapter4_ex10.sce#S##82212
+4#the single phase a c series circuit#4.1#finding the current taken by the coil#chapter4_ex1.sce#2276/CH4/EX4.1/chapter4_ex1.sce#S##82203
+3#d c machines#3.9#finding power developed in the armature#chapter3_ex9.sce#2276/CH3/EX3.9/chapter3_ex9.sce#S##82189
+3#d c machines#3.8#finding terminal voltage of a shunt generator#chapter3_ex8.sce#2276/CH3/EX3.8/chapter3_ex8.sce#S##82188
+3#d c machines#3.7#finding required flux per pole#chapter3_ex7.sce#2276/CH3/EX3.7/chapter3_ex7.sce#S##82187
+3#d c machines#3.6#finding required torque#chapter3_ex6.sce#2276/CH3/EX3.6/chapter3_ex6.sce#S##82186
+3#d c machines#3.5#finding power output of the motor#chapter3_ex5.sce#2276/CH3/EX3.5/chapter3_ex5.sce#S##82185
+3#d c machines#3.4#determination of torque produced#chapter3_ex4.sce#2276/CH3/EX3.4/chapter3_ex4.sce#S##82184
+3#d c machines#3.3#finding induced emf#chapter3_ex3.sce#2276/CH3/EX3.3/chapter3_ex3.sce#S##82183
+3#d c machines#3.22#calculation of speed of motor#chapter3_ex22.sce#2276/CH3/EX3.22/chapter3_ex22.sce#S##82202
+3#d c machines#3.21#finding value of regulator resistance#chapter3_ex21.sce#2276/CH3/EX3.21/chapter3_ex21.sce#S##82201
+3#d c machines#3.20#finding speed of the motor#chapter3_ex20.sce#2276/CH3/EX3.20/chapter3_ex20.sce#S##82200
+3#d c machines#3.2#finding output of a machine in different cases#chapter3_ex2.sce#2276/CH3/EX3.2/chapter3_ex2.sce#S##82182
+3#d c machines#3.19#finding speed of the motor#chapter3_ex19.sce#2276/CH3/EX3.19/chapter3_ex19.sce#S##82199
+3#d c machines#3.18#finding total and shaft torque#chapter3_ex18.sce#2276/CH3/EX3.18/chapter3_ex18.sce#S##82198
+3#d c machines#3.17#finding required current#chapter3_ex17.sce#2276/CH3/EX3.17/chapter3_ex17.sce#S##82197
+3#d c machines#3.16#finding speed of armature of dc series motor#chapter3_ex16.sce#2276/CH3/EX3.16/chapter3_ex16.sce#S##82196
+3#d c machines#3.15#finding overall efficiency of motor#chapter3_ex15.sce#2276/CH3/EX3.15/chapter3_ex15.sce#S##82195
+3#d c machines#3.14#finding total torque produced#chapter3_ex14.sce#2276/CH3/EX3.14/chapter3_ex14.sce#S##82194
+3#d c machines#3.13#finding velocity of shunt motor#chapter3_ex13.sce#2276/CH3/EX3.13/chapter3_ex13.sce#S##82193
+3#d c machines#3.12#finding different efficiencies of a series generator#chapter3_ex12.sce#2276/CH3/EX3.12/chapter3_ex12.sce#S##82192
+3#d c machines#3.11#finding output of series generator#chapter3_ex11.sce#2276/CH3/EX3.11/chapter3_ex11.sce#S##82191
+3#d c machines#3.10#finding different efficiencies#chapter3_ex10.sce#2276/CH3/EX3.10/chapter3_ex10.sce#S##82190
+3#d c machines#3.1#determination of angular speed#chapter3_ex1.sce#2276/CH3/EX3.1/chapter3_ex1.sce#S##82181
+2#fields#2.9#comparing energies stored in different fields#chapter2_ex9.sce#2276/CH2/EX2.9/chapter2_ex9.sce#S##82176
+2#fields#2.8#finding maximum permissible volume of transformer core#chapter2_ex8.sce#2276/CH2/EX2.8/chapter2_ex8.sce#S##82175
+2#fields#2.7#finding the speed of a machine#chapter2_ex7.sce#2276/CH2/EX2.7/chapter2_ex7.sce#S##82174
+2#fields#2.6#finding area of hysterisis loop and power loss#chapter2_ex6.sce#2276/CH2/EX2.6/chapter2_ex6.sce#S##82173
+2#fields#2.5#finding the load that can be lifted by a magnet#chapter2_ex5.sce#2276/CH2/EX2.5/chapter2_ex5.sce#S##82172
+2#fields#2.4#estimation of coupling factor#chapter2_ex4.sce#2276/CH2/EX2.4/chapter2_ex4.sce#S##82171
+2#fields#2.3#finding energy stored#chapter2_ex3.sce#2276/CH2/EX2.3/chapter2_ex3.sce#S##82169
+2#fields#2.2#finding energy stored in magnetic field#chapter2_ex2.sce#2276/CH2/EX2.2/chapter2_ex2.sce#S##82168
+2#fields#2.13#finding energy dissipated in a material#chapter2_ex13.sce#2276/CH2/EX2.13/chapter2_ex13.sce#S##82180
+2#fields#2.12#finding equivalent resistance#chapter2_ex12.sce#2276/CH2/EX2.12/chapter2_ex12.sce#S##82179
+2#fields#2.11#finding potential difference and different energies#chapter2_ex11.sce#2276/CH2/EX2.11/chapter2_ex11.sce#S##82178
+2#fields#2.10#finding energy stored in capacitor#chapter2_ex10.sce#2276/CH2/EX2.10/chapter2_ex10.sce#S##82177
+2#fields#2.1#finding energy stored in magnetic field#chapter2_ex1.sce#2276/CH2/EX2.1/chapter2_ex1.sce#S##82167
+1#circuit analysis#1.9#finding the currents in wheatstone bridge using delta to star conversion#chapter1_ex9.sce#2276/CH1/EX1.9/chapter1_ex9.sce#S##82162
+1#circuit analysis#1.8#delta to star conversion#chapter1_ex8.sce#2276/CH1/EX1.8/chapter1_ex8.sce#S##82161
+1#circuit analysis#1.7#finding current using nortons theorem#chapter1_ex7.sce#2276/CH1/EX1.7/chapter1_ex7.sce#S##82160
+1#circuit analysis#1.6#finding current using nortons theorem#chapter1_ex6.sce#2276/CH1/EX1.6/chapter1_ex6.sce#S##82159
+1#circuit analysis#1.5#finding current in resistor using nortons theorem#chapter1_ex5.sce#2276/CH1/EX1.5/chapter1_ex5.sce#S##82158
+1#circuit analysis#1.4#finding a current in a branch using thevinins theorem#chapter1_ex4.sce#2276/CH1/EX1.4/chapter1_ex4.sce#S##82157
+1#circuit analysis#1.3#finding current in a branch using thevinins theorem#chapter1_ex3.sce#2276/CH1/EX1.3/chapter1_ex3.sce#S##82156
+1#circuit analysis#1.2#finding thevinins equivalent circuit#chapter1_ex2.sce#2276/CH1/EX1.2/chapter1_ex2.sce#S##82155
+1#circuit analysis#1.12#determining the maximum power transfered#chapter1_ex12.sce#2276/CH1/EX1.12/chapter1_ex12.sce#S##82165
+1#circuit analysis#1.11#finding current using star to delta transform#chapter1_ex11.sce#2276/CH1/EX1.11/chapter1_ex11.sce#S##82164
+1#circuit analysis#1.10#star to delta conversion and finding conductances#chapter1_ex10.sce#2276/CH1/EX1.10/chapter1_ex10.sce#S##82163
+1#circuit analysis#1.1#finding currents using superposition theorem#chapter1_ex1.sce#2276/CH1/EX1.1/chapter1_ex1.sce#S##82154

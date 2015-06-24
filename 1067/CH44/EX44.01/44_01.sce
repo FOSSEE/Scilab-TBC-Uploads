@@ -1,0 +1,10 @@
+clear;
+clc;
+v=115;
+x=7;
+v=v/sqrt(3);
+pm=v^2/x;
+ps=pm*v*v/x;
+pm3=round(pm*100)/100;
+pm3=pm3*3;
+mprintf("the maximum 3 phase=%fMW",pm3);

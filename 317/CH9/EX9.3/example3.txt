@@ -1,0 +1,1 @@
+Maximum small signal emitter current is 130 microApp

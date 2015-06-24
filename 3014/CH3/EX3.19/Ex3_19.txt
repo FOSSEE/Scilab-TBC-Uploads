@@ -1,0 +1,4 @@
+
+
+Example 3.19
+Frequency after collision is 1.721311e+19 Hz 

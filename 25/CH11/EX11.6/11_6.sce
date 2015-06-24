@@ -1,0 +1,29 @@
+// example:11.6,page no.-620.
+// program to design an amplifier for maximum gain at 4 GHZ using single stub matching section.
+s11=0.72*expm(%i*(-116)*%pi/180);
+s22=0.73*expm(%i*(-54)*%pi/180);
+s12=0.03*expm(%i*(57)*%pi/180);
+s21=2.6*expm(%i*(76)*%pi/180);
+delta=(s11*s22)-(s12*s21)
+k=(1+(abs(delta)^2)-(abs(s11)^2)-(abs(s22)^2))/(2*abs(s12*s21))
+B1=1-(abs(delta)^2)+(abs(s11)^2)-(abs(s22)^2);
+B2=1-(abs(delta)^2)-(abs(s11)^2)+(abs(s22)^2);
+C1=s11-delta*conj(s22);
+C2=s22-delta*conj(s11);
+taos=(B1-sqrt(B1^2-4*abs(C1)^2))/(2*C1);
+[mag_taos,theta_taos]=polar(taos);
+taol=(B2-sqrt(B2^2-4*abs(C2)^2))/(2*C2);
+[mag_taol,theta_taol]=polar(taol);
+Gs=1/(1-abs(taos)^2);
+Gs=10*log10(Gs);
+Go=abs(s21)^2;
+Go=10*log10(Go);
+Gl=(1-abs(taol)^2)/(abs(1-s22*taol)^2);
+Gl=10*log10(Gl);
+Gtmax=Gs+Go+Gl;
+disp(Gs,'Gs = ')
+disp(Go,'Go = ')
+disp(Gl,'Gl = ')
+disp(Gtmax,'the over all transducer gain in dB will be = ')
+Gs=1/(1-abs(taos)^2);
+Gs=10*log10(Gs);

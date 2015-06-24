@@ -1,0 +1,3 @@
+ the resistance to be inserted in series (in ohms)=   
+ 
+    6.4548251  

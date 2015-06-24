@@ -1,0 +1,5 @@
+**Sample Problem 18-8a**
+The frequency measured by the detector on the pole is 4245.049505Hz
+
+**Sample Problem 18-8b**
+The frequency measured by the detector on the rocket is 7240.099010Hz 

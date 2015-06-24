@@ -1,0 +1,3 @@
+* Resistance R is = 20 ohm 
+* Output voltage Vo is = 17 V 
+* Min input voltage Vin is = 19 V 

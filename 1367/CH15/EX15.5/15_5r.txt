@@ -1,0 +1,4 @@
+  
+ Intrinsic Carrier density in pure silicon (in per cu m) =    
+ 
+    1.095D+16

@@ -1,0 +1,1 @@
+The value of Emitter source voltage of UJT for turn-off is 7 V.

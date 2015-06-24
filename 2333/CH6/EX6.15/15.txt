@@ -1,0 +1,7 @@
+ 
+ # PROBLEM 15 # 
+
+ Standard formula used 
+ alpha=10/L*log(Pi/Po).
+
+ Power at output end is 4.510685 micro Watt.

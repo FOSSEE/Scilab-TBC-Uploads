@@ -1,0 +1,9 @@
+
+ Example 4.7   
+ 
+ When S=0.04   
+I2=46A
+Phase angle between rotor voltage and rotor current=4.573921 degrees 
+ When S=1   
+I2=516A
+Phase angle between rotor voltage and rotor current=63.434949 degrees 

@@ -1,0 +1,91 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec("Example7.sci",-1)
+Current date is 05-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            5   
+ 
+ Chapter Title                         :                                   HANDLING ORDINARY FILES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 7    :               Show the method of file handling using the od command 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the file which you want to access  
+
+# This searches for a file named hithern 
+
+
+ $ od hithern     #to display hithern in octal characters
+
+
+          ===========> hithern <============
+
+
+ 110 151 40 111 40 141 155 40 120 162 141 156 141 166 12
+ 111 40 141 155 40 141 156 40 151 156 164 145 162 156 40 141 164 40 106 117 123 123 105 40 160 162 157 152 145 143 164 12
+ 111 40 150 157 160 145 40 164 150 151 163 40 160 162 157 152 145 143 164 40 150 145 154 160 163 40 163 164 165 144 145 156 164 163 40 167 145 154 154 12
+ 124 150 141 156 153 40 131 157 165 12
+
+
+98 characters present in the file.
+[hit ENTER to continue]
+
+ $ od -bc hithern     #to display hithern in octal characters
+
+
+          ===========> hithern <============
+
+
+   H     i           I           a     m           P     r     a     n     a     v     
+  110  151  40  111  40  141  155  40  120  162  141  156  141  166  12  
+
+   I           a     m           a     n           i     n     t     e     r     n           a     t           F     O     S     S     E           p     r     o     j     e     c     t     
+  111  40  141  155  40  141  156  40  151  156  164  145  162  156  40  141  164  40  106  117  123  123  105  40  160  162  157  152  145  143  164  12  
+
+   I           h     o     p     e           t     h     i     s           p     r     o     j     e     c     t           h     e     l     p     s           s     t     u     d     e     n     t     s           w     e     l     l     
+  111  40  150  157  160  145  40  164  150  151  163  40  160  162  157  152  145  143  164  40  150  145  154  160  163  40  163  164  165  144  145  156  164  163  40  167  145  154  154  12  
+
+   T     h     a     n     k           Y     o     u     
+  124  150  141  156  153  40  131  157  165  12  
+
+
+
+98 characters present in the file.
+[hit ENTER to continue]
+
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

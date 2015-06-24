@@ -1,0 +1,5 @@
+**Sample Problem 38-6a**
+The actual energy of the elctron is 3.04Mev
+
+**Sample Problem 38-6b**
+The momentum of the electron is 3.04Mev/c 

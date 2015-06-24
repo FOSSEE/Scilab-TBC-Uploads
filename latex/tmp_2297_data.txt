@@ -1,0 +1,55 @@
+7#ELECTROTHERMAL ENERGY CONVERSION#7.3#voltage and current#Ex7_3.sce#2297/CH7/EX7.3/Ex7_3.sce#S##91402
+7#ELECTROTHERMAL ENERGY CONVERSION#7.2#power required#Ex7_2.sce#2297/CH7/EX7.2/Ex7_2.sce#S##91400
+7#ELECTROTHERMAL ENERGY CONVERSION#7.1#length and width#Ex7_1.sce#2297/CH7/EX7.1/Ex7_1.sce#S##91399
+6#ROTATING ELECTRICAL MACHINE#6.9#speed#Ex6_9.sce#2297/CH6/EX6.9/Ex6_9.sce#S##96552
+6#ROTATING ELECTRICAL MACHINE#6.8#resistance and speed#Ex6_8.sce#2297/CH6/EX6.8/Ex6_8.sce#S##91395
+6#ROTATING ELECTRICAL MACHINE#6.7#resistance#Ex6_7.sce#2297/CH6/EX6.7/Ex6_7.sce#S##96551
+6#ROTATING ELECTRICAL MACHINE#6.6#emf generated copper losses output and commercial mechanical and electrical efficiencies#Ex6_6.sce#2297/CH6/EX6.6/Ex6_6.sce#S##91393
+6#ROTATING ELECTRICAL MACHINE#6.5#power absorbed#Ex6_5.sce#2297/CH6/EX6.5/Ex6_5.sce#S##91392
+6#ROTATING ELECTRICAL MACHINE#6.4#speed#Ex6_4.sce#2297/CH6/EX6.4/Ex6_4.sce#S##91391
+6#ROTATING ELECTRICAL MACHINE#6.3#speed torque and efficiency#Ex6_3.sce#2297/CH6/EX6.3/Ex6_3.sce#S##91390
+6#ROTATING ELECTRICAL MACHINE#6.2#induced emf#Ex6_2.sce#2297/CH6/EX6.2/Ex6_2.sce#S##91389
+6#ROTATING ELECTRICAL MACHINE#6.12#emf#Ex6_12.sce#2297/CH6/EX6.12/Ex6_12.sce#S##91398
+6#ROTATING ELECTRICAL MACHINE#6.11#current per phase and power factor#Ex6_11.sce#2297/CH6/EX6.11/Ex6_11.sce#S##91397
+6#ROTATING ELECTRICAL MACHINE#6.10#speed and frequency#Ex6_10.sce#2297/CH6/EX6.10/Ex6_10.sce#S##91396
+6#ROTATING ELECTRICAL MACHINE#6.1#terminal voltage#Ex6_1.sce#2297/CH6/EX6.1/Ex6_1.sce#S##91388
+5#ELECTRICAL MEASUREMENTS#5.9#resolution#Ex5_9.sce#2297/CH5/EX5.9/Ex5_9.sce#S##91372
+5#ELECTRICAL MEASUREMENTS#5.8#resolution#Ex5_8.sce#2297/CH5/EX5.8/Ex5_8.sce#S##91368
+5#ELECTRICAL MEASUREMENTS#5.7#apparent resistance actual resistance and error#Ex5_7.sce#2297/CH5/EX5.7/Ex5_7.sce#S##91367
+5#ELECTRICAL MEASUREMENTS#5.6#multiplier resistance and voltmeter sensivity#Ex5_6.sce#2297/CH5/EX5.6/Ex5_6.sce#S##91364
+5#ELECTRICAL MEASUREMENTS#5.5#resistance and readings#Ex5_5.sce#2297/CH5/EX5.5/Ex5_5.sce#S##91361
+5#ELECTRICAL MEASUREMENTS#5.4#current#Ex5_4.sce#2297/CH5/EX5.4/Ex5_4.sce#S##91360
+5#ELECTRICAL MEASUREMENTS#5.3#power factor#Ex5_3.sce#2297/CH5/EX5.3/Ex5_3.sce#S##91359
+5#ELECTRICAL MEASUREMENTS#5.2#resistance#Ex5_2.sce#2297/CH5/EX5.2/Ex5_2.sce#S##91358
+5#ELECTRICAL MEASUREMENTS#5.12#load#Ex5_12.sce#2297/CH5/EX5.12/Ex5_12.sce#S##103495
+5#ELECTRICAL MEASUREMENTS#5.11#resistance#Ex5_11.sce#2297/CH5/EX5.11/Ex5_11.sce#S##91383
+5#ELECTRICAL MEASUREMENTS#5.10#true resistance of the unknown resistor  percentage error and reading voltmeter#Ex5_10.sce#2297/CH5/EX5.10/Ex5_10.sce#S##91381
+5#ELECTRICAL MEASUREMENTS#5.1#resistance#Ex5_1.sce#2297/CH5/EX5.1/Ex5_1.sce#S##91357
+4#TRANSFORMERS#4.9#equivalent circuit components regulation of transformer and efficiency#Ex4_9.sce#2297/CH4/EX4.9/Ex4_9.sce#S##91283
+4#TRANSFORMERS#4.8#equivalent value of resistances reactances and impedances and  total copper losses#Ex4_8.sce#2297/CH4/EX4.8/Ex4_8.sce#S##91282
+4#TRANSFORMERS#4.7#iron losses#Ex4_7.sce#2297/CH4/EX4.7/Ex4_7.sce#S##91281
+4#TRANSFORMERS#4.6#all day efficiency#Ex4_6.sce#2297/CH4/EX4.6/Ex4_6.sce#S##91280
+4#TRANSFORMERS#4.5#efficiency and percentage of full load#Ex4_5.sce#2297/CH4/EX4.5/Ex4_5.sce#S##91279
+4#TRANSFORMERS#4.4#core losses#Ex4_4.sce#2297/CH4/EX4.4/Ex4_4.sce#S##91278
+4#TRANSFORMERS#4.3#current#Ex4_3.sce#2297/CH4/EX4.3/Ex4_3.sce#S##91277
+4#TRANSFORMERS#4.2#two components of no load current and magnetising and working components of esciting current#Ex4_2.sce#2297/CH4/EX4.2/Ex4_2.sce#S##91276
+4#TRANSFORMERS#4.1#number of turns#Ex4_1.sce#2297/CH4/EX4.1/Ex4_1.sce#S##91275
+3#MAGNETIC CIRCUITS#3.4#ampere turns#Ex3_4.sce#2297/CH3/EX3.4/Ex3_4.sce#S##91274
+3#MAGNETIC CIRCUITS#3.3#hysteresis loss#Ex3_3.sce#2297/CH3/EX3.3/Ex3_3.sce#S##91273
+3#MAGNETIC CIRCUITS#3.2#kb and ke and hysteresis and eddy current loss#Ex3_2.sce#2297/CH3/EX3.2/Ex3_2.sce#S##91272
+3#MAGNETIC CIRCUITS#3.1#ampere turns#Ex3_1.sce#2297/CH3/EX3.1/Ex3_1.sce#S##91271
+2#ELECTRIC CIRCUITS#2.9#time#Ex2_9.sce#2297/CH2/EX2.9/Ex2_9.sce#S##91265
+2#ELECTRIC CIRCUITS#2.8#current equation and time#Ex2_8.sce#2297/CH2/EX2.8/Ex2_8.sce#S##91264
+2#ELECTRIC CIRCUITS#2.7#Nortoan Euivalent Components#Ex2_7.sce#2297/CH2/EX2.7/Ex2_7.sce#S##91263
+2#ELECTRIC CIRCUITS#2.6#current#Ex2_6.sce#2297/CH2/EX2.6/Ex2_6.sce#S##91261
+2#ELECTRIC CIRCUITS#2.5#Norton and Thevenine Euivalent Components#Ex2_5.sce#2297/CH2/EX2.5/Ex2_5.sce#S##91260
+2#ELECTRIC CIRCUITS#2.4#current#Ex2_4.sce#2297/CH2/EX2.4/Ex2_4.sce#S##96810
+2#ELECTRIC CIRCUITS#2.3#current#Ex2_3.sce#2297/CH2/EX2.3/Ex2_3.sce#S##91262
+2#ELECTRIC CIRCUITS#2.2#current#Ex2_2.sce#2297/CH2/EX2.2/Ex2_2.sce#S##102108
+2#ELECTRIC CIRCUITS#2.15#circuit constants#Ex2_15.sce#2297/CH2/EX2.15/Ex2_15.sce#S##91270
+2#ELECTRIC CIRCUITS#2.14#circuit elements#Ex2_14.sce#2297/CH2/EX2.14/Ex2_14.sce#S##91268
+2#ELECTRIC CIRCUITS#2.13#voltmeter reading#Ex2_13.sce#2297/CH2/EX2.13/Ex2_13.sce#S##91269
+2#ELECTRIC CIRCUITS#2.12#circuit elements#Ex2_12.sce#2297/CH2/EX2.12/Ex2_12.sce#S##91267
+2#ELECTRIC CIRCUITS#2.11#average and rms value of current#Ex2_11.sce#2297/CH2/EX2.11/Ex2_11.sce#S##91266
+2#ELECTRIC CIRCUITS#2.10#current#Ex2_10.sce#2297/CH2/EX2.10/Ex2_10.sce#S##91401
+2#ELECTRIC CIRCUITS#2.1#current#Ex2_1.sce#2297/CH2/EX2.1/Ex2_1.sce#S##91257

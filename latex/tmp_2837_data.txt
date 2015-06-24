@@ -1,0 +1,123 @@
+23#Gas vapor mixtures#23.8#Volume calculation#Ex23_8.sce#2837/CH23/EX23.8/Ex23_8.sce#S##99537
+23#Gas vapor mixtures#23.7#Tonnage calculation#Ex23_7.sce#2837/CH23/EX23.7/Ex23_7.sce#S##99536
+23#Gas vapor mixtures#23.6#Tonnage calculation#Ex23_6.sce#2837/CH23/EX23.6/Ex23_6.sce#S##99535
+23#Gas vapor mixtures#23.5#Temperature calculation#Ex23_5.sce#2837/CH23/EX23.5/Ex23_5.sce#S##99534
+23#Gas vapor mixtures#23.4#Heat calculations#Ex23_4.sce#2837/CH23/EX23.4/Ex23_4.sce#S##99533
+23#Gas vapor mixtures#23.3#Temperature calculation#Ex23_3.sce#2837/CH23/EX23.3/Ex23_3.sce#S##99532
+23#Gas vapor mixtures#23.2#RH calculation#Ex23_2.sce#2837/CH23/EX23.2/Ex23_2.sce#S##99531
+23#Gas vapor mixtures#23.1#Specific humidity calculation#Ex23_1.sce#2837/CH23/EX23.1/Ex23_1.sce#S##99530
+22#Refrigeration#22.7#Power calculation#Ex22_7.sce#2837/CH22/EX22.7/Ex22_7.sce#S##99529
+22#Refrigeration#22.6#Power calculation#Ex22_6.sce#2837/CH22/EX22.6/Ex22_6.sce#S##99528
+22#Refrigeration#22.5#cop calculation#Ex22_5.sce#2837/CH22/EX22.5/Ex22_5.sce#S##99527
+22#Refrigeration#22.4#Refrigeration and cop calculation#Ex22_4.sce#2837/CH22/EX22.4/Ex22_4.sce#S##99526
+22#Refrigeration#22.3#Tonnage calculations#Ex22_3.sce#2837/CH22/EX22.3/Ex22_3.sce#S##99525
+22#Refrigeration#22.2#cop calculations#Ex22_2.sce#2837/CH22/EX22.2/Ex22_2.sce#S##99523
+22#Refrigeration#22.1#cop calculations#Ex22_1.sce#2837/CH22/EX22.1/Ex22_1.sce#S##99522
+21#Steam turbines#21.9#Steam rate calculation#Ex21_9.sce#2837/CH21/EX21.9/Ex21_9.sce#S##103765
+21#Steam turbines#21.8#Pressure at Exit calculation#Ex21_8.sce#2837/CH21/EX21.8/Ex21_8.sce#S##99520
+21#Steam turbines#21.7#Shaft output and efficiency calculation#Ex21_7.sce#2837/CH21/EX21.7/Ex21_7.sce#S##99519
+21#Steam turbines#21.6#Pressure calculation#Ex21_6.sce#2837/CH21/EX21.6/Ex21_6.sce#S##99518
+21#Steam turbines#21.5#Blade reheat calculation#Ex21_5.sce#2837/CH21/EX21.5/Ex21_5.sce#S##99517
+21#Steam turbines#21.4#Blade work and efficiency#Ex21_4.sce#2837/CH21/EX21.4/Ex21_4.sce#S##103763
+21#Steam turbines#21.3#Blade work and efficiency#Ex21_3.sce#2837/CH21/EX21.3/Ex21_3.sce#S##103762
+21#Steam turbines#21.2#Rate of flow calculation#Ex21_2.sce#2837/CH21/EX21.2/Ex21_2.sce#S##99514
+21#Steam turbines#21.1#Rate of flow calculation#Ex21_1.sce#2837/CH21/EX21.1/Ex21_1.sce#S##99513
+20#Vapor power cycles#20.6#Heat transferred#Ex20_6.sce#2837/CH20/EX20.6/Ex20_6.sce#S##99512
+20#Vapor power cycles#20.5#Thermal efficiency calculation#Ex20_5.sce#2837/CH20/EX20.5/Ex20_5.sce#S##99511
+20#Vapor power cycles#20.4#Thermal efficiency calculation#Ex20_4.sce#2837/CH20/EX20.4/Ex20_4.sce#S##99510
+20#Vapor power cycles#20.3#Enthalpy calculations#Ex20_3.sce#2837/CH20/EX20.3/Ex20_3.sce#S##99509
+20#Vapor power cycles#20.2#Thermal efficiency calculation#Ex20_2.sce#2837/CH20/EX20.2/Ex20_2.sce#S##99508
+20#Vapor power cycles#20.1#Thermal efficiency calculation#Ex20_1.sce#2837/CH20/EX20.1/Ex20_1.sce#S##99507
+19#Gas turbines#19.9#Air fuel ratio#Ex19_9.sce#2837/CH19/EX19.9/Ex19_9.sce#S##99502
+19#Gas turbines#19.8#Turbine work#Ex19_8.sce#2837/CH19/EX19.8/Ex19_8.sce#S##99501
+19#Gas turbines#19.7#Compressor work#Ex19_7.sce#2837/CH19/EX19.7/Ex19_7.sce#S##99500
+19#Gas turbines#19.6#Pressure calculation#Ex19_6.sce#2837/CH19/EX19.6/Ex19_6.sce#S##99499
+19#Gas turbines#19.5#Thermal efficiency calculation#Ex19_5.sce#2837/CH19/EX19.5/Ex19_5.sce#S##99498
+19#Gas turbines#19.4#Thermal efficiency calculation#Ex19_4.sce#2837/CH19/EX19.4/Ex19_4.sce#S##99497
+19#Gas turbines#19.3#Work and efficiency calculations#Ex19_3.sce#2837/CH19/EX19.3/Ex19_3.sce#S##99496
+19#Gas turbines#19.2#Work and efficiency calculations#Ex19_2.sce#2837/CH19/EX19.2/Ex19_2.sce#S##99495
+19#Gas turbines#19.13#Thermal efficiency calculation#Ex19_13.sce#2837/CH19/EX19.13/Ex19_13.sce#S##99506
+19#Gas turbines#19.12#Thermal efficiency calculation#Ex19_12.sce#2837/CH19/EX19.12/Ex19_12.sce#S##99505
+19#Gas turbines#19.11#Thermal efficiency calculation#Ex19_11.sce#2837/CH19/EX19.11/Ex19_11.sce#S##99504
+19#Gas turbines#19.10#Thermal efficiency calculation#Ex19_10.sce#2837/CH19/EX19.10/Ex19_10.sce#S##99503
+19#Gas turbines#19.1#Efficiency calculations#Ex19_1.sce#2837/CH19/EX19.1/Ex19_1.sce#S##99494
+18#Gas Compressors#18.7#Pressure required#Ex18_7.sce#2837/CH18/EX18.7/Ex18_7.sce#S##99493
+18#Gas Compressors#18.6#Pressure calculations#Ex18_6.sce#2837/CH18/EX18.6/Ex18_6.sce#S##103761
+18#Gas Compressors#18.5#Pressure calculations#Ex18_5.sce#2837/CH18/EX18.5/Ex18_5.sce#S##99491
+18#Gas Compressors#18.4#Piston displacement calculations#Ex18_4.sce#2837/CH18/EX18.4/Ex18_4.sce#S##103767
+18#Gas Compressors#18.3#Piston displacement calculations#Ex18_3.sce#2837/CH18/EX18.3/Ex18_3.sce#S##99489
+18#Gas Compressors#18.2#Horsepower calculations#Ex18_2.sce#2837/CH18/EX18.2/Ex18_2.sce#S##99488
+18#Gas Compressors#18.1#Horsepower calculation#Ex18_1.sce#2837/CH18/EX18.1/Ex18_1.sce#S##99487
+17#Internal combustion engines#17.2#Indicated mep calculations#Ex17_2.sce#2837/CH17/EX17.2/Ex17_2.sce#S##99486
+17#Internal combustion engines#17.1#Indicated efficiency calculations#Ex17_1.sce#2837/CH17/EX17.1/Ex17_1.sce#S##99485
+16#Gas cycles#16.4#mep calculation#Ex16_4.sce#2837/CH16/EX16.4/Ex16_4.sce#S##99484
+16#Gas cycles#16.3#mep calculation#Ex16_3.sce#2837/CH16/EX16.3/Ex16_3.sce#S##99483
+16#Gas cycles#16.2#Temperature and pressure calculations#Ex16_2.sce#2837/CH16/EX16.2/Ex16_2.sce#S##99482
+16#Gas cycles#16.1#Temperature and pressure calculations#Ex16_1.sce#2837/CH16/EX16.1/Ex16_1.sce#S##105129
+15#Thermodynamics of chemical reactions#15.3#Max temperature calculation#Ex15_3.sce#2837/CH15/EX15.3/Ex15_3.sce#S##103771
+15#Thermodynamics of chemical reactions#15.2#Max temperature calculations#Ex15_2.sce#2837/CH15/EX15.2/Ex15_2.sce#S##105128
+15#Thermodynamics of chemical reactions#15.1#Dissociation calculations#Ex15_1.sce#2837/CH15/EX15.1/Ex15_1.sce#S##99478
+14#Energies associated with chemical reactions#14.8#Max amount of work calculations#Ex14_8.sce#2837/CH14/EX14.8/Ex14_8.sce#S##99477
+14#Energies associated with chemical reactions#14.7#Total available energy calculations#Ex14_7.sce#2837/CH14/EX14.7/Ex14_7.sce#S##99476
+14#Energies associated with chemical reactions#14.6#Thermal efficiency calculations#Ex14_6.sce#2837/CH14/EX14.6/Ex14_6.sce#S##99475
+14#Energies associated with chemical reactions#14.5#Thermal efficiency calculations#Ex14_5.sce#2837/CH14/EX14.5/Ex14_5.sce#S##99474
+14#Energies associated with chemical reactions#14.4#Furnace efficiency calculations#Ex14_4.sce#2837/CH14/EX14.4/Ex14_4.sce#S##99473
+14#Energies associated with chemical reactions#14.3#Heat removed calculations#Ex14_3.sce#2837/CH14/EX14.3/Ex14_3.sce#S##105127
+14#Energies associated with chemical reactions#14.2#Heating value calculations#Ex14_2.sce#2837/CH14/EX14.2/Ex14_2.sce#S##99471
+14#Energies associated with chemical reactions#14.1#Heating value calculations#Ex14_1.sce#2837/CH14/EX14.1/Ex14_1.sce#S##105126
+13#Non reactive and reactive gaseous mixtures#13.9#volumetric analysis#Ex13_9.sce#2837/CH13/EX13.9/Ex13_9.sce#S##105125
+13#Non reactive and reactive gaseous mixtures#13.8#Air fuel ratio calculations#Ex13_8.sce#2837/CH13/EX13.8/Ex13_8.sce#S##103755
+13#Non reactive and reactive gaseous mixtures#13.7#Air fuel ratio calculations#Ex13_7.sce#2837/CH13/EX13.7/Ex13_7.sce#S##103754
+13#Non reactive and reactive gaseous mixtures#13.6#Dry analysis calculations#Ex13_6.sce#2837/CH13/EX13.6/Ex13_6.sce#S##105124
+13#Non reactive and reactive gaseous mixtures#13.5#Weight calculations#Ex13_5.sce#2837/CH13/EX13.5/Ex13_5.sce#S##99461
+13#Non reactive and reactive gaseous mixtures#13.4#Change in Entropy calculation#Ex13_4.sce#2837/CH13/EX13.4/Ex13_4.sce#S##99460
+13#Non reactive and reactive gaseous mixtures#13.3#Change in Entropy calculation#Ex13_3.sce#2837/CH13/EX13.3/Ex13_3.sce#S##99459
+13#Non reactive and reactive gaseous mixtures#13.2#Change in Entropy calculation#Ex13_2.sce#2837/CH13/EX13.2/Ex13_2.sce#S##99458
+13#Non reactive and reactive gaseous mixtures#13.13#Weight of dry air calculations#Ex13_13.sce#2837/CH13/EX13.13/Ex13_13.sce#S##99469
+13#Non reactive and reactive gaseous mixtures#13.12#Moles of dry products calculations#Ex13_12.sce#2837/CH13/EX13.12/Ex13_12.sce#S##99468
+13#Non reactive and reactive gaseous mixtures#13.11#Moles of dry products calculations#Ex13_11.sce#2837/CH13/EX13.11/Ex13_11.sce#S##99467
+13#Non reactive and reactive gaseous mixtures#13.10#volumetric analysis#Ex13_10.sce#2837/CH13/EX13.10/Ex13_10.sce#S##99466
+13#Non reactive and reactive gaseous mixtures#13.1#Mass calculations#Ex13_1.sce#2837/CH13/EX13.1/Ex13_1.sce#S##105123
+12#Heat Transfer#12.9#Boiling film coefficient calculation#Ex12_9.sce#2837/CH12/EX12.9/Ex12_9.sce#S##99452
+12#Heat Transfer#12.8#Outer film coefficient calculation#Ex12_8.sce#2837/CH12/EX12.8/Ex12_8.sce#S##99451
+12#Heat Transfer#12.7#convective film coefficient calculation#Ex12_7.sce#2837/CH12/EX12.7/Ex12_7.sce#S##99450
+12#Heat Transfer#12.6#Inside film coefficient calculation#Ex12_6.sce#2837/CH12/EX12.6/Ex12_6.sce#S##99449
+12#Heat Transfer#12.5#Inside film coefficient calculation#Ex12_5.sce#2837/CH12/EX12.5/Ex12_5.sce#S##99448
+12#Heat Transfer#12.4#Energy Exchange calculation#Ex12_4.sce#2837/CH12/EX12.4/Ex12_4.sce#S##103750
+12#Heat Transfer#12.3#Energy exchange calculations#Ex12_3.sce#2837/CH12/EX12.3/Ex12_3.sce#S##103751
+12#Heat Transfer#12.2#Heat flow calculations#Ex12_2.sce#2837/CH12/EX12.2/Ex12_2.sce#S##99445
+12#Heat Transfer#12.13#True MTD Calculation#Ex12_13.sce#2837/CH12/EX12.13/Ex12_13.sce#S##103749
+12#Heat Transfer#12.12#LMTD Calculation#Ex12_12.sce#2837/CH12/EX12.12/Ex12_12.sce#S##99455
+12#Heat Transfer#12.11#Temperature calculation#Ex12_11.sce#2837/CH12/EX12.11/Ex12_11.sce#S##99454
+12#Heat Transfer#12.10#Heat calculation#Ex12_10.sce#2837/CH12/EX12.10/Ex12_10.sce#S##99453
+12#Heat Transfer#12.1#Temperature calculation#Ex12_1.sce#2837/CH12/EX12.1/Ex12_1.sce#S##105122
+11#Thermodynamics of Fluid flow#11.9#Exit area calculation#Ex11_9.sce#2837/CH11/EX11.9/Ex11_9.sce#S##99442
+11#Thermodynamics of Fluid flow#11.8#velocity and density calculations#Ex11_8.sce#2837/CH11/EX11.8/Ex11_8.sce#S##99441
+11#Thermodynamics of Fluid flow#11.7#Velocity calculations#Ex11_7.sce#2837/CH11/EX11.7/Ex11_7.sce#S##99440
+11#Thermodynamics of Fluid flow#11.6#Temperature calculations#Ex11_6.sce#2837/CH11/EX11.6/Ex11_6.sce#S##99439
+11#Thermodynamics of Fluid flow#11.5#Enthalpy and entropy calculations#Ex11_5.sce#2837/CH11/EX11.5/Ex11_5.sce#S##99438
+11#Thermodynamics of Fluid flow#11.4#Change in Entropy#Ex11_4.sce#2837/CH11/EX11.4/Ex11_4.sce#S##99437
+11#Thermodynamics of Fluid flow#11.3#Final pressure calculations#Ex11_3.sce#2837/CH11/EX11.3/Ex11_3.sce#S##99436
+11#Thermodynamics of Fluid flow#11.2#Pressure calculations#Ex11_2.sce#2837/CH11/EX11.2/Ex11_2.sce#S##99435
+11#Thermodynamics of Fluid flow#11.10#Pressure and velocity calculations#Ex11_10.sce#2837/CH11/EX11.10/Ex11_10.sce#S##99443
+11#Thermodynamics of Fluid flow#11.1#Reynolds Number#Ex11_1.sce#2837/CH11/EX11.1/Ex11_1.sce#S##103748
+10#Vapors#10.9#Work and heat calculations#Ex10_9.sce#2837/CH10/EX10.9/Ex10_9.sce#S##99429
+10#Vapors#10.8#State calculations#Ex10_8.sce#2837/CH10/EX10.8/Ex10_8.sce#S##99428
+10#Vapors#10.7#volume state calculations#Ex10_7.sce#2837/CH10/EX10.7/Ex10_7.sce#S##99427
+10#Vapors#10.6#State Enthalpy calculations#Ex10_6.sce#2837/CH10/EX10.6/Ex10_6.sce#S##99426
+10#Vapors#10.5#State calculations#Ex10_5.sce#2837/CH10/EX10.5/Ex10_5.sce#S##103747
+10#Vapors#10.4#State calculations#Ex10_4.sce#2837/CH10/EX10.4/Ex10_4.sce#S##99424
+10#Vapors#10.3#State calculations#Ex10_3.sce#2837/CH10/EX10.3/Ex10_3.sce#S##99423
+10#Vapors#10.2#Moisture content calculation#Ex10_2.sce#2837/CH10/EX10.2/Ex10_2.sce#S##99422
+10#Vapors#10.13#Mean state calculations#Ex10_13.sce#2837/CH10/EX10.13/Ex10_13.sce#S##99433
+10#Vapors#10.12#State calculations#Ex10_12.sce#2837/CH10/EX10.12/Ex10_12.sce#S##99432
+10#Vapors#10.11#Loss calculations#Ex10_11.sce#2837/CH10/EX10.11/Ex10_11.sce#S##99431
+10#Vapors#10.10#Enthalpy calculations#Ex10_10.sce#2837/CH10/EX10.10/Ex10_10.sce#S##99430
+10#Vapors#10.1#Enthalpy calculations#Ex10_1.sce#2837/CH10/EX10.1/Ex10_1.sce#S##99421
+8#Availability of Energy#8.2#Energy loss calculations#Ex8_2.sce#2837/CH8/EX8.2/Ex8_2.sce#S##103746
+8#Availability of Energy#8.1#Energy loss calculations#Ex8_1.sce#2837/CH8/EX8.1/Ex8_1.sce#S##99419
+7#Entropy#7.1#Change in Entropy#Ex7_1.sce#2837/CH7/EX7.1/Ex7_1.sce#S##99418
+5#Actual Gases#5.4#Heat calculations#Ex5_4.sce#2837/CH5/EX5.4/Ex5_4.sce#S##99417
+5#Actual Gases#5.3#Heat calculations#Ex5_3.sce#2837/CH5/EX5.3/Ex5_3.sce#S##99416
+5#Actual Gases#5.2#Pressure calculations#Ex5_2.sce#2837/CH5/EX5.2/Ex5_2.sce#S##99415
+5#Actual Gases#5.1#Volume calculations#Ex5_1.sce#2837/CH5/EX5.1/Ex5_1.sce#S##99414

@@ -1,0 +1,13 @@
+clear;
+clc;
+i=200;
+c=.1;
+v=11e3/sqrt(3);
+per=.15;
+x=per*v/(i);
+ru=c*x;
+vi=v*c;
+y=i\vi;
+r=sqrt((y^2)-(ru^2));
+r=round(r*100)/100;
+printf("the neutral earthing resistance=%fohms",r);

@@ -1,0 +1,2 @@
+ The diameter of the mouth = 1.290994 meter
+ The half power beamwidth of the antenna = 5.422177 degree

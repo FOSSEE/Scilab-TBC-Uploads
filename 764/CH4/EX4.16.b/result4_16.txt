@@ -1,0 +1,71 @@
+-->//(Design against Static Load) Example 4.16
+ 
+-->//Refer Fig.4.53 on page 123
+ 
+-->//Load to be raised F (kN)
+ 
+-->F = 5
+ F  =
+ 
+    5.  
+ 
+-->//Length of short arm l1 (mm)
+ 
+-->l1 = 100
+ l1  =
+ 
+    100.  
+ 
+-->//Length of long arm l2 (mm)
+ 
+-->l2 = 450
+ l2  =
+ 
+    450.  
+ 
+-->//Tensile yield strength of 30C8 Syt (N/mm2)
+ 
+-->Syt = 400
+ Syt  =
+ 
+    400.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 5
+ fs  =
+ 
+    5.  
+ 
+-->//Permissible bearing pressure at the pin in the lever p (N/mm2)
+ 
+-->p = 10
+ p  =
+ 
+    10.  
+ 
+-->//Ratio of width to thickness ratio 
+ 
+-->ratio = 3
+ ratio  =
+ 
+    3.  
+ 
+-->//Ratio of length to diameter of the fulcrum pin rf
+ 
+-->rf = 1.25
+ rf  =
+ 
+    1.25  
+ 
+
+Diameter of the fulcrum pin(df) = 20.242469 mm
+
+Length of the fulcrum pin(lf) = 25.303086 mm
+
+Force to be applied at the long arm end(P) = 1111.111111 mm
+
+Thickness of the cross-section of the lever(b) = 16.091490 mm
+
+Width of the cross-section of the lever(d) = 48.274469 mm
+ 

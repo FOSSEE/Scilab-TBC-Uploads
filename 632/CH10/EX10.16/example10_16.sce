@@ -1,0 +1,33 @@
+//clc()
+m = 100;//kg (basis sodium nitrate reacted)
+NNaNO3 = m/85;
+//2NaNO3 + H2SO4 = 2HNO3 + Na2SO4
+mh2so4 = NNaNO3 * 98.08/2;
+mhno3 = NNaNO3*63.008;
+mna2so4 = NNaNO3 * 142.064 /2;
+Phno3 = 2;//%(percent nitric acid remaining in the cake)
+mhno3cake = mhno3 * Phno3 / 100;
+Ph2so4 = 35;//%
+Pwater = 1.5;//%
+mtotal = (mna2so4 + mhno3cake)*100/(100 - Ph2so4 - Pwater);
+mwater = Pwater * mtotal / 100;
+mh2so4c = Ph2so4 * mtotal / 100;
+Pna2so4 = mna2so4 *100/mtotal;
+Phno3c = mhno3cake * 100 / mtotal;
+disp("kg",mna2so4,"(a)Mass of Na2SO4 in the cake = ")
+disp("kg",mhno3,"Mass of HNO3 in the cake = ")
+disp("kg",mwater,"Mass of water in the cake = ")
+disp("kg",mh2so4c,"Mass of H2SO4 in the cake = ")
+disp("%",Pna2so4,"Percentage of Na2SO4 in the cake = ")
+disp("%",Phno3c,"Percentage of HNO3 in the cake = ")
+disp("%",Pwater,"Percentage of water in the cake = ")
+disp("%",Ph2so4,"Percentage of H2SO4 in the cake = ")
+mh2so4req = mh2so4 + mh2so4c;
+P = 95;//% (95% dilute sulphuric acid)
+w = mh2so4req * 100 / P;
+disp(mh2so4)
+disp("kg",w,"(b)Weight of 95% sulphuric acid required = ")
+mnitric = mhno3 - mhno3cake;
+disp("kg",mnitric,"(c)weight of nitric acid product obtained = ")
+mwaterd = w*(1-P/100)-mwater;
+disp("kg",mwaterd,"(d)the water vapour tha tis distilled from the nitre cake = ")

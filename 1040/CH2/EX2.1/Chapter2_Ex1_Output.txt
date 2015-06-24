@@ -1,0 +1,5 @@
+
+ Solving for the three parameters gives
+ K_H2 = 0.000196 torr^-1
+ K_B = 0.000002 torr^-1
+ k = 1.824995E-08 

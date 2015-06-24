@@ -1,0 +1,17 @@
+clear;
+clc;
+R=10;L=.0037;f=1000;G=.4*(10^-6);C=.0083*(10^-6);
+w=2*%pi*f;
+Z=R+(%i*w*L);
+Y=G+(%i*w*C);
+Zo=sqrt(Z/Y);
+C=round(real(Zo));
+D=round(imag(Zo));
+printf('-Zo = %f + j(%f) ohms\n',C,D);
+P=sqrt(Z*Y);
+a=real(P);
+a1=round(a*10000)/10000;
+printf('-Attenuation constant a = %f neper/km\n',a1);
+b=imag(P);
+b1=round(b*10000)/10000;
+printf('-Phase constant b = %f radians/km',b1);

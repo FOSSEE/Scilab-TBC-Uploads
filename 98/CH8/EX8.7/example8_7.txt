@@ -1,0 +1,11 @@
+Voltage across string = 57.74 kV 
+
+(i) Voltage across top insulator = 8.00 kV 
+    Voltage across second unit = 8.80 V 
+    Voltage across third unit = 10.48 V 
+    Voltage across fourth unit = 13.19 V 
+    Voltage across fifth unit = 17.27 V 
+
+(ii) String efficiency = 66.85 % 
+
+

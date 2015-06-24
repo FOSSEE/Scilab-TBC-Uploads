@@ -1,0 +1,2 @@
+ Velocity of particle if kinetic energy is 3 times of rest mass energy  is 2.904738e+08 meter/sec.
+ Velocity of particle if kinetic energy is 1 times of rest mass energy  is 2.598076e+08 meter/sec.

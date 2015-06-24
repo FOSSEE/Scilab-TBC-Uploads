@@ -1,0 +1,10 @@
+slots,turn coils,coils sides per slot and total number of conductors=   
+ 
+    51.  
+ 
+    3.  
+ 
+    6.  
+ 
+    306.  
+ 

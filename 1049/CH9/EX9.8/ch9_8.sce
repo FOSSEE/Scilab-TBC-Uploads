@@ -1,0 +1,14 @@
+clear;
+clc;
+V_s=230;
+V_m=sqrt(2)*V_s;
+a=60;
+R=20;
+V_or=sqrt((V_m^2/(2*%pi))*(a*%pi/180-sind(2*a)/2)+(2*V_m^2/(%pi))*(%pi-a*%pi/180+sind(2*a)/2));    printf("rms value of o/p voltage=%.2f V",V_or);
+I_T1r=(V_m/R)*sqrt(1/%pi*((%pi-a*%pi/180)+sind(2*a)/2));    printf("\nrms value of current for upper thyristors=%.3f A",I_T1r);
+I_T3r=(V_m/(2*R))*sqrt(1/%pi*((a*%pi/180)-sind(2*a)/2));    printf("\nrms value of current for lower thyristors=%.3f A",I_T3r);
+I1=sqrt(2)*I_T1r;
+I3=sqrt((sqrt(2)*I_T1r)^2+(sqrt(2)*I_T3r)^2);
+r=V_s*(I1+I3);    printf("\nt/f VA rating=%.2f VA",r);
+P_o=V_or^2/R;
+pf=P_o/r;    printf("\ni/p pf=%.4f",pf);

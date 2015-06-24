@@ -1,0 +1,14 @@
+clear;
+clc;
+Za=2;Zb=2.5;Zc=5;
+Ya=1/Za;Yb=1/Zb;Yc=1/Zc;
+Y1=(Ya*Yc)/(Ya+Yb+Yc);
+Z1=1/Y1;
+Y2=(Yb*Yc)/(Ya+Yb+Yc);
+Z2=1/Y2;
+Y3=(Ya*Yb)/(Ya+Yb+Yc);
+Z3=1/Y3;
+printf("The equivalent pi network is: \n");
+printf(" Z1 = %f ohms\n",Z1);
+printf(" Z2 = %f ohms\n",Z2);
+printf(" Z3 = %f ohms\n",Z3);

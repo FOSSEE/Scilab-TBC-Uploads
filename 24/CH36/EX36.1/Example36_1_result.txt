@@ -1,0 +1,5 @@
+**Sample Problem 36-1a**
+The phase difference is equal to 1021.09degrees
+
+**Sample Problem 36-1b**
+The interference produced would be constructive 

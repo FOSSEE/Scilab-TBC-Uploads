@@ -1,0 +1,15 @@
+ 
+
+
+case(i) For 50% loading
+Delta_0=30 deg
+synchronizing_coefficient=0.577 MW(pu)/elect rad
+M=0.0255 s^2/elect rad
+Frequency of oscillations=4.76 rad/sec = 0.758 Hz
+
+
+case(ii) For 80% loading
+Delta_0=53 deg
+Synchronizing_coefficient=0.400 MW(pu)/elect rad
+M=0.0255 s^2/elect rad
+Frequency of oscillations=3.96 rad/sec = 0.631 Hz

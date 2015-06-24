@@ -1,0 +1,11 @@
+ (a) Armature current (in amperes)=   
+ 
+    22.  
+ 
+ (b) Generated emf (in volts)=   
+ 
+    207.48  
+ 
+ (c) flux/pole (in mili weber)=   
+ 
+    15.346154

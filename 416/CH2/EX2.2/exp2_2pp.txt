@@ -1,0 +1,26 @@
+ 
+ example 2.2   
+ 
+ (a)   
+maximum demand of consumer A =1.100000kW 
+ 
+demand factor of consumer A =0.440000 
+ 
+maximum demand of consumer B =1kW
+ 
+demand factor of consumer B = 0.333333 
+ (b)   
+The variation in demand versus time curves are plotted and shown in Fig This is known as chonological load curve. 
+ (c)   
+maximum demand of the group is 1100Wgroup diversity factor = 1.909091 
+ (d)   
+energy consumed by A during 24 hours is =5500Wh
+it is seen that energy consumed by A is equal to the area under the chronological load curve of A 
+ energy consumed by B during 24 hours is300x1+100x2+200x8+600x5=6900Wh 
+ (e)   
+maximum energy which A could consume in 24hours = 26.40kWh 
+maximum energy which B consume in 24 hours is =24.00kWh 
+ (f)   
+actual energy/maximum energy
+for A = 5500/26400 =0.208333 
+for b =6900/24000 =0.287500 

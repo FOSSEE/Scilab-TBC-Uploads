@@ -1,0 +1,1 @@
+﻿Distance of screen from opening = 0.500000 meter 

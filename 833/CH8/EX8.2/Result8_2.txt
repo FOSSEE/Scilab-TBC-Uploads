@@ -1,0 +1,8 @@
+ (a)Current(in A)=   
+ 
+    18.75  
+ 
+ (b)Voltage(in volts)=   
+ 
+    354.6875  
+ 

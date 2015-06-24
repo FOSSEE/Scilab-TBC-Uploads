@@ -1,0 +1,16 @@
+9#Experimental Techniques#9.9#Students t distribution#Ex9_9.sce#3375/CH9/EX9.9/Ex9_9.sce#S##115220
+9#Experimental Techniques#9.8#Students t distribution#Ex9_8.sce#3375/CH9/EX9.8/Ex9_8.sce#S##115219
+7#Turbulent Flow#7.6#Moody design#Ex7_6.sce#3375/CH7/EX7.6/Ex7_6.sce#S##116317
+7#Turbulent Flow#7.5#Drag force#Ex7_5.sce#3375/CH7/EX7.5/Ex7_5.sce#S##116316
+7#Turbulent Flow#7.4#Developed flow of water#Ex7_4.sce#3375/CH7/EX7.4/Ex7_4.sce#S##116315
+7#Turbulent Flow#7.3#Friction Factor#Ex7_3.sce#3375/CH7/EX7.3/Ex7_3.sce#S##116314
+7#Turbulent Flow#7.2#Power required#Ex7_2.sce#3375/CH7/EX7.2/Ex7_2.sce#S##116313
+5#Laminar Boundary Layers#5.9#Mass Flow Rate#Ex5_9.sce#3375/CH5/EX5.9/Ex5_9.sce#S##116311
+5#Laminar Boundary Layers#5.7#Pressure Change#Ex5_7.sce#3375/CH5/EX5.7/Ex5_7.sce#S##116310
+5#Laminar Boundary Layers#5.6#Velocity Boundary Layer#Ex5_6.sce#3375/CH5/EX5.6/Ex5_6.sce#S##116309
+5#Laminar Boundary Layers#5.5#Velocity Boundary Layer#Ex5_5.sce#3375/CH5/EX5.5/Ex5_5.sce#S##116308
+5#Laminar Boundary Layers#5.2#Maximum Bending Moment#Ex5_2.sce#3375/CH5/EX5.2/Ex5_2.sce#S##116307
+5#Laminar Boundary Layers#5.10#Mass flow within boundary layer#Ex5_10.sce#3375/CH5/EX5.10/Ex5_10.sce#S##116312
+5#Laminar Boundary Layers#5.1#Skin Friction Drag#Ex5_1.sce#3375/CH5/EX5.1/Ex5_1.sce#S##116306
+2#Derivation of Equations Governing Fluid Motion#2.6#Pressure Drop#Ex2_6.sce#3375/CH2/EX2.6/Ex2_6.sce#S##116305
+2#Derivation of Equations Governing Fluid Motion#2.5#Pressure Drop#Ex2_5.sce#3375/CH2/EX2.5/Ex2_5.sce#S##116304

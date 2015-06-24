@@ -1,0 +1,5 @@
+Average RRRV = 2000000 kV/sec 
+
+Natural frequency of oscillatins = 10000 Hz 
+
+

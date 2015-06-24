@@ -1,0 +1,10 @@
+Y=4
+d1=100
+B=1//(say)
+Ptm=1//(say)
+Prm1=B*Ptm/(d1)^Y
+d2=10000
+Prm2=B*Ptm/(d2)^Y
+Prm1IPrm2=Prm1/Prm2//expected differnce in recieved power level
+Prm1IPrm2dB=10*log10(Prm1IPrm2)
+printf('expected differnce in recieved power level=%.f dB',-Prm1IPrm2dB)

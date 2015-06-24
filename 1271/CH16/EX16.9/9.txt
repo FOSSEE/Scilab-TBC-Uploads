@@ -1,0 +1,8 @@
+# PROBLEM 9 # 
+Standard formula used 
+E = h^2 / (8 * m * pi^2) * (3*pi^2*N/V)^2/3 
+
+ Fermi Energy 
+ For Li is 4.707789 eV.
+ For Na is 3.155787 eV. 
+ For K is 2.039143 eV

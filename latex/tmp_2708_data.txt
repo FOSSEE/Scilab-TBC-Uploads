@@ -1,0 +1,113 @@
+22#superconductivity#22.4#penetration depth#ex_22_4.sce#2708/CH22/EX22.4/ex_22_4.sce#S##96779
+22#superconductivity#22.3#critical current density#ex_22_3.sce#2708/CH22/EX22.3/ex_22_3.sce#S##96778
+22#superconductivity#22.2#critical temperature#ex_22_2.sce#2708/CH22/EX22.2/ex_22_2.sce#S##96777
+22#superconductivity#22.1#critical field and transition temperature#ex_22_1.sce#2708/CH22/EX22.1/ex_22_1.sce#S##96776
+21#magnetic properties of solids#21.2#diamagnetic susceptibility#ex_21_2.sce#2708/CH21/EX21.2/ex_21_2.sce#S##96775
+21#magnetic properties of solids#21.1#electron spin magnetic dipole moment#ex_21_1.sce#2708/CH21/EX21.1/ex_21_1.sce#S##96774
+19#band theory of solids#19.5#energy of electron #ex_19_5.sce#2708/CH19/EX19.5/ex_19_5.sce#S##96773
+19#band theory of solids#19.4#Hall coefficient and Hall voltage#ex_19_4.sce#2708/CH19/EX19.4/ex_19_4.sce#S##96772
+19#band theory of solids#19.3#position of fermi level#ex_19_3.sce#2708/CH19/EX19.3/ex_19_3.sce#S##96771
+19#band theory of solids#19.2#position of fermi level#ex_19_2.sce#2708/CH19/EX19.2/ex_19_2.sce#S##96770
+19#band theory of solids#19.1#density of electrons and holes#ex_19_1.sce#2708/CH19/EX19.1/ex_19_1.sce#S##96769
+18#free electron theory#18.2#Energy difference#ex_18_2.sce#2708/CH18/EX18.2/ex_18_2.sce#S##96768
+18#free electron theory#18.1#Fermi Energy#ex_18_1.sce#2708/CH18/EX18.1/ex_18_1.sce#S##96767
+17#uncertainty principle and schrodinger equation#17.2#Uncertainty in frequency and uncertainty in velocity#ex_17_2.sce#2708/CH17/EX17.2/ex_17_2.sce#S##96781
+17#uncertainty principle and schrodinger equation#17.1#Uncertainty in angle of Emergence#ex_17_1.sce#2708/CH17/EX17.1/ex_17_1.sce#S##96780
+16#difficulties of classical mechanics abd development of wave mechanics#16.6#energy of photoelectrons emitted#ex_16_6.sce#2708/CH16/EX16.6/ex_16_6.sce#S##96766
+16#difficulties of classical mechanics abd development of wave mechanics#16.5#de broglie wavelength #ex_16_5.sce#2708/CH16/EX16.5/ex_16_5.sce#S##96765
+16#difficulties of classical mechanics abd development of wave mechanics#16.4#de broglie wavelength of neutrons#ex_16_4.sce#2708/CH16/EX16.4/ex_16_4.sce#S##96764
+16#difficulties of classical mechanics abd development of wave mechanics#16.3#frequency and energy of photon#ex_16_3.sce#2708/CH16/EX16.3/ex_16_3.sce#S##96763
+16#difficulties of classical mechanics abd development of wave mechanics#16.2#Energy of Neutrons#ex_16_2.sce#2708/CH16/EX16.2/ex_16_2.sce#S##96762
+16#difficulties of classical mechanics abd development of wave mechanics#16.1#de broglie wavelength #ex_16_1.sce#2708/CH16/EX16.1/ex_16_1.sce#S##96761
+14#crystal structure and x ray diffraction#14.7#glancing  angle#ex_14_7.sce#2708/CH14/EX14.7/ex_14_7.sce#S##96757
+14#crystal structure and x ray diffraction#14.6#spacing#ex_14_6.sce#2708/CH14/EX14.6/ex_14_6.sce#S##96756
+14#crystal structure and x ray diffraction#14.5#wavelength and speed of neutron#ex_14_5.sce#2708/CH14/EX14.5/ex_14_5.sce#S##96755
+14#crystal structure and x ray diffraction#14.4#wavelength and angle#ex_14_4.sce#2708/CH14/EX14.4/ex_14_4.sce#S##96754
+14#crystal structure and x ray diffraction#14.12#fraction of vacancy sites#ex_14_12.sce#2708/CH14/EX14.12/ex_14_12.sce#S##96760
+14#crystal structure and x ray diffraction#14.11#Number  of defects#ex_14_11.sce#2708/CH14/EX14.11/ex_14_11.sce#S##96759
+14#crystal structure and x ray diffraction#14.10#Energy to create defect#ex_14_10.sce#2708/CH14/EX14.10/ex_14_10.sce#S##96758
+8#Dielectrics#8.4#Dipole moment#ex_8_4.sce#2708/CH8/EX8.4/ex_8_4.sce#S##96752
+8#Dielectrics#8.3#electric susceptibility#ex_8_3.sce#2708/CH8/EX8.3/ex_8_3.sce#S##96753
+8#Dielectrics#8.2#Dipole moment of slab#ex_8_2.sce#2708/CH8/EX8.2/ex_8_2.sce#S##96750
+8#Dielectrics#8.1#polarisation and Energy density#ex_8_1.sce#2708/CH8/EX8.1/ex_8_1.sce#S##96749
+7#electromagnetic waves#7.5#Dielelctric constant#ex_7_5.sce#2708/CH7/EX7.5/ex_7_5.sce#S##96748
+7#electromagnetic waves#7.4#solar energy#ex_7_4.sce#2708/CH7/EX7.4/ex_7_4.sce#S##96747
+7#electromagnetic waves#7.3#wavelength of wave and amplitude of magnetic field#ex_7_3.sce#2708/CH7/EX7.3/ex_7_3.sce#S##96746
+7#electromagnetic waves#7.2#impedence of medium and peak magnetic field #ex_7_2.sce#2708/CH7/EX7.2/ex_7_2.sce#S##96745
+7#electromagnetic waves#7.1#Energy of plane wave#ex_7_1.sce#2708/CH7/EX7.1/ex_7_1.sce#S##96744
+6#oscillatory motion#6.9#amplitude of oscillations and relative phase#ex_6_9.sce#2708/CH6/EX6.9/ex_6_9.sce#S##96636
+6#oscillatory motion#6.8#Q factor and half width of power resonance#ex_6_8.sce#2708/CH6/EX6.8/ex_6_8.sce#S##96632
+6#oscillatory motion#6.7#Equilibrium position time#ex_6_7.sce#2708/CH6/EX6.7/ex_6_7.sce#S##96630
+6#oscillatory motion#6.6#oscillation time #ex_6_6.sce#2708/CH6/EX6.6/ex_6_6.sce#S##96626
+6#oscillatory motion#6.4#period of oscillation#ex_6_4.sce#2708/CH6/EX6.4/ex_6_4.sce#S##96625
+6#oscillatory motion#6.3#Period of Oscillation #ex_6_3.sce#2708/CH6/EX6.3/ex_6_3.sce#S##96621
+6#oscillatory motion#6.2#Maximum velocity in SHM#ex_6_2.sce#2708/CH6/EX6.2/ex_6_2.sce#S##96617
+6#oscillatory motion#6.1#Equilibrium position time #ex_6_1.sce#2708/CH6/EX6.1/ex_6_1.sce#S##96615
+5#Fiber Optics#5.4#Numerical Aperture#ex_5_4.sce#2708/CH5/EX5.4/ex_5_4.sce#S##94228
+5#Fiber Optics#5.3#Refractive Index#ex_5_3.sce#2708/CH5/EX5.3/ex_5_3.sce#S##94227
+5#Fiber Optics#5.2#Number of Modes#ex_5_2.sce#2708/CH5/EX5.2/ex_5_2.sce#S##94226
+5#Fiber Optics#5.1#Numerical Aperture#ex_5_1.sce#2708/CH5/EX5.1/ex_5_1.sce#S##94225
+4#Laser#4.3#Degree of Non monochromacity#ex_4_3.sce#2708/CH4/EX4.3/ex_4_3.sce#S##94224
+4#Laser#4.2#Coherence Length#ex_4_2.sce#2708/CH4/EX4.2/ex_4_2.sce#S##94223
+4#Laser#4.1#Coherence Length#ex_4_1.sce#2708/CH4/EX4.1/ex_4_1.sce#S##94222
+3#polarization of light#3.9#specific rotation#ex_3_9.sce#2708/CH3/EX3.9/ex_3_9.sce#S##96606
+3#polarization of light#3.8#phase retardation#ex_3_8.sce#2708/CH3/EX3.8/ex_3_8.sce#S##96603
+3#polarization of light#3.7#amount of optical rotation#ex_3_7.sce#2708/CH3/EX3.7/ex_3_7.sce#S##96602
+3#polarization of light#3.6#thickness of calcite plate#ex_3_6.sce#2708/CH3/EX3.6/ex_3_6.sce#S##96598
+3#polarization of light#3.5#thickness of quarter wave plate#ex_3_5.sce#2708/CH3/EX3.5/ex_3_5.sce#S##96596
+3#polarization of light#3.4#thickness of half wave plate#ex_3_4.sce#2708/CH3/EX3.4/ex_3_4.sce#S##96595
+3#polarization of light#3.3#thickness of refracting crystal#ex_3_3.sce#2708/CH3/EX3.3/ex_3_3.sce#S##96594
+3#polarization of light#3.2#refractive index of glass#ex_3_2.sce#2708/CH3/EX3.2/ex_3_2.sce#S##96593
+3#polarization of light#3.11#optical thickness of quarter wave plate#ex_3_11.sce#2708/CH3/EX3.11/ex_3_11.sce#S##96610
+3#polarization of light#3.10#strength of solution#ex_3_10.sce#2708/CH3/EX3.10/ex_3_10.sce#S##96608
+3#polarization of light#3.1#angle of refraction#ex_3_1.sce#2708/CH3/EX3.1/ex_3_1.sce#S##96592
+2#diffraction of light#2.9#lines no of lines in grating#ex_2_9.sce#2708/CH2/EX2.9/ex_2_9.sce#S##96104
+2#diffraction of light#2.8#Angular separation between lines#ex_2_8.sce#2708/CH2/EX2.8/ex_2_8.sce#S##96103
+2#diffraction of light#2.7#order of spectrum#ex_2_7.sce#2708/CH2/EX2.7/ex_2_7.sce#S##96102
+2#diffraction of light#2.6#No of lines in grating#ex_2_6.sce#2708/CH2/EX2.6/ex_2_6.sce#S##96101
+2#diffraction of light#2.5#wavelength of light#ex_2_5.sce#2708/CH2/EX2.5/ex_2_5.sce#S##96100
+2#diffraction of light#2.4#angular width and linear width of central maxima #ex_2_4.sce#2708/CH2/EX2.4/ex_2_4.sce#S##96099
+2#diffraction of light#2.3#slit width#ex_2_3.sce#2708/CH2/EX2.3/ex_2_3.sce#S##96098
+2#diffraction of light#2.19#angular separation #ex_2_19.sce#2708/CH2/EX2.19/ex_2_19.sce#S##96114
+2#diffraction of light#2.18#focal length of zone#ex_2_18.sce#2708/CH2/EX2.18/ex_2_18.sce#S##96113
+2#diffraction of light#2.17#radii of zones#ex_2_17.sce#2708/CH2/EX2.17/ex_2_17.sce#S##96112
+2#diffraction of light#2.16#position of spot#ex_2_16.sce#2708/CH2/EX2.16/ex_2_16.sce#S##96111
+2#diffraction of light#2.15#radius of first half of zone plate#ex_2_15.sce#2708/CH2/EX2.15/ex_2_15.sce#S##96110
+2#diffraction of light#2.14#resolving power#ex_2_14.sce#2708/CH2/EX2.14/ex_2_14.sce#S##96109
+2#diffraction of light#2.13#resolving power#ex_2_14.sce#2708/CH2/EX2.13/ex_2_14.sce#S##96108
+2#diffraction of light#2.12#resolving power and wavelength#ex_2_12.sce#2708/CH2/EX2.12/ex_2_12.sce#S##96107
+2#diffraction of light#2.11#dispersive power#ex_2_11.sce#2708/CH2/EX2.11/ex_2_11.sce#S##96106
+2#diffraction of light#2.10#difference of wavelength#ex_2_10.sce#2708/CH2/EX2.10/ex_2_10.sce#S##96105
+2#diffraction of light#2.1#half angular width of central maxima#ex_2_1.sce#2708/CH2/EX2.1/ex_2_1.sce#S##96096
+2#diffraction of light#1.2#wavelength of light#ex_2_2.sce#2708/CH2/EX1.2/ex_2_2.sce#S##96097
+1#Interference of Light#1.9#wavelength#ex_1_9.sce#2708/CH1/EX1.9/ex_1_9.sce#S##96071
+1#Interference of Light#1.8#Vertex angle#ex_1_8.sce#2708/CH1/EX1.8/ex_1_8.sce#S##96070
+1#Interference of Light#1.6#Fringe width#ex_1_6.sce#2708/CH1/EX1.6/ex_1_6.sce#S##96069
+1#Interference of Light#1.5#Distance between coherent source#ex_1_5.sce#2708/CH1/EX1.5/ex_1_5.sce#S##96068
+1#Interference of Light#1.4#position of fringe#ex_1_4.sce#2708/CH1/EX1.4/ex_1_4.sce#S##96067
+1#Interference of Light#1.33#diameter of ring#ex_1_33.sce#2708/CH1/EX1.33/ex_1_33.sce#S##96095
+1#Interference of Light#1.32#wavelength of light#ex_1_32.sce#2708/CH1/EX1.32/ex_1_32.sce#S##96094
+1#Interference of Light#1.31#Film Thickness#ex_1_31.sce#2708/CH1/EX1.31/ex_1_31.sce#S##96093
+1#Interference of Light#1.30#Velocity of Light in liquid#ex_1_30.sce#2708/CH1/EX1.30/ex_1_30.sce#S##96092
+1#Interference of Light#1.3#wave length#ex_1_3.sce#2708/CH1/EX1.3/ex_1_3.sce#S##96066
+1#Interference of Light#1.29#Distance between position of mirrors#ex_1_29.sce#2708/CH1/EX1.29/ex_1_29.sce#S##96091
+1#Interference of Light#1.28#Thickness of film#ex_1_28.sce#2708/CH1/EX1.28/ex_1_28.sce#S##96090
+1#Interference of Light#1.27#Refractive Index#ex_1_27.sce#2708/CH1/EX1.27/ex_1_27.sce#S##96089
+1#Interference of Light#1.26#Thickness of film#ex_1_26.sce#2708/CH1/EX1.26/ex_1_26.sce#S##96088
+1#Interference of Light#1.25#Diameter of Ring#ex_1_25.sce#2708/CH1/EX1.25/ex_1_25.sce#S##96087
+1#Interference of Light#1.24#Refractive Index of liquid#ex_1_24.sce#2708/CH1/EX1.24/ex_1_24.sce#S##96086
+1#Interference of Light#1.23#Distance between rings#ex_1_23.sce#2708/CH1/EX1.23/ex_1_23.sce#S##96085
+1#Interference of Light#1.22#Wavelength of light#ex_1_22.sce#2708/CH1/EX1.22/ex_1_22.sce#S##96084
+1#Interference of Light#1.21#Radius of lens#ex_1_21.sce#2708/CH1/EX1.21/ex_1_21.sce#S##96083
+1#Interference of Light#1.20#No of Dark bands#ex_1_20.sce#2708/CH1/EX1.20/ex_1_20.sce#S##96082
+1#Interference of Light#1.2#slit separation#ex_1_2.sce#2708/CH1/EX1.2/ex_1_2.sce#S##96065
+1#Interference of Light#1.19#Wedge angle #ex_1_19.sce#2708/CH1/EX1.19/ex_1_19.sce#S##96081
+1#Interference of Light#1.18#Wavelength of light#ex_1_18.sce#2708/CH1/EX1.18/ex_1_18.sce#S##96080
+1#Interference of Light#1.17#Fringe Width#ex_1_17.sce#2708/CH1/EX1.17/ex_1_17.sce#S##96078
+1#Interference of Light#1.16#Order of interference#ex_1_16.sce#2708/CH1/EX1.16/ex_1_16.sce#S##96077
+1#Interference of Light#1.15#Film Thickness#ex_1_15.sce#2708/CH1/EX1.15/ex_1_15.sce#S##96076
+1#Interference of Light#1.14#Thickness of plate#ex_1_14.sce#2708/CH1/EX1.14/ex_1_14.sce#S##96075
+1#Interference of Light#1.12#Refractive Index of sheet#ex_1_12.sce#2708/CH1/EX1.12/ex_1_12.sce#S##96074
+1#Interference of Light#1.11#distance between coherent sources#ex_1_11.sce#2708/CH1/EX1.11/ex_1_11.sce#S##96073
+1#Interference of Light#1.10#Fringe width#ex_1_10.sce#2708/CH1/EX1.10/ex_1_10.sce#S##96072
+1#Interference of Light#1.1#fringe width#ex_1_1.sce#2708/CH1/EX1.1/ex_1_1.sce#S##96064

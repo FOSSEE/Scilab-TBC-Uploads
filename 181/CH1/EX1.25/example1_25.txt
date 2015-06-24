@@ -1,0 +1,3 @@
+ The drift velocity is 1.79e-003 m/s
+The mobility of electrons is 4.17e-002 m^2/V-s
+Therefore the conductivity is 5.61e+008 /ohm-m 

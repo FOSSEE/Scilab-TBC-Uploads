@@ -1,0 +1,11 @@
+ frequency (in hertz)=   
+ 
+    25.    25.    60.  
+ 
+ Hysteresis loss (in Watts)=   
+ 
+    0.3285714    0.6671783    0.7885714  
+ 
+ eddy current loss (in Watts)=   
+ 
+    0.0714286    0.1328217    0.4114286

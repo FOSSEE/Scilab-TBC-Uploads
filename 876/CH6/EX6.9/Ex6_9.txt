@@ -1,0 +1,7 @@
+total number of pulses=   
+ 
+    10000.  
+ 
+ display reading=   
+ 
+    10000. 

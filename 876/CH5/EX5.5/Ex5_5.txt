@@ -1,0 +1,3 @@
+ shunt resistance(in ohm)=   
+ 
+    4.1666667 

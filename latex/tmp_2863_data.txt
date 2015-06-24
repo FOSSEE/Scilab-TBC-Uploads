@@ -1,0 +1,85 @@
+7#Propagation of Radio Waves#7.9#Electron Density calculation#ex7_9.sce#2863/CH7/EX7.9/ex7_9.sce#S##102721
+7#Propagation of Radio Waves#7.8#Critical freq calculation#ex7_8.sce#2863/CH7/EX7.8/ex7_8.sce#S##102720
+7#Propagation of Radio Waves#7.7#Nmax calculation#ex7_7.sce#2863/CH7/EX7.7/ex7_7.sce#S##102719
+7#Propagation of Radio Waves#7.6#Transmission height calculation#ex7_6.sce#2863/CH7/EX7.6/ex7_6.sce#S##102718
+7#Propagation of Radio Waves#7.5#Efield calculation#ex7_5.sce#2863/CH7/EX7.5/ex7_5.sce#S##102717
+7#Propagation of Radio Waves#7.4#Skip distance calculation#ex7_4.sce#2863/CH7/EX7.4/ex7_4.sce#S##102716
+7#Propagation of Radio Waves#7.3#Critical frequency calculation#ex7_3.sce#2863/CH7/EX7.3/ex7_3.sce#S##102715
+7#Propagation of Radio Waves#7.2#Usable frequency calculation#ex7_2.sce#2863/CH7/EX7.2/ex7_2.sce#S##102714
+7#Propagation of Radio Waves#7.18#Range calculation#ex7_18.sce#2863/CH7/EX7.18/ex7_18.sce#S##102730
+7#Propagation of Radio Waves#7.17#usable freq calculation#ex7_17.sce#2863/CH7/EX7.17/ex7_17.sce#S##102729
+7#Propagation of Radio Waves#7.16#critical freq calculation#ex7_16.sce#2863/CH7/EX7.16/ex7_16.sce#S##102728
+7#Propagation of Radio Waves#7.15#critical freq calculation#ex7_15.sce#2863/CH7/EX7.15/ex7_15.sce#S##102727
+7#Propagation of Radio Waves#7.14#LOS calculation#ex7_14.sce#2863/CH7/EX7.14/ex7_14.sce#S##102726
+7#Propagation of Radio Waves#7.13#virtual height calculation#ex7_13.sce#2863/CH7/EX7.13/ex7_13.sce#S##102725
+7#Propagation of Radio Waves#7.12#Usable freq calculation#ex7_12.sce#2863/CH7/EX7.12/ex7_12.sce#S##102724
+7#Propagation of Radio Waves#7.11#Critical freq calculation#ex7_11.sce#2863/CH7/EX7.11/ex7_11.sce#S##102723
+7#Propagation of Radio Waves#7.10#Frequency calculation#ex7_10.sce#2863/CH7/EX7.10/ex7_10.sce#S##102722
+7#Propagation of Radio Waves#7.1#frequency calculation#ex7_1.sce#2863/CH7/EX7.1/ex7_1.sce#S##102713
+6#Aperture and Lens Antenna#6.2#Effective aperture calculation#ex6_2.sce#2863/CH6/EX6.2/ex6_2.sce#S##102712
+6#Aperture and Lens Antenna#6.1#Directive gain calculation#ex6_1.sce#2863/CH6/EX6.1/ex6_1.sce#S##102711
+4#Antenna Arrays#4.9#Gain calculation#ex4_9.sce#2863/CH4/EX4.9/ex4_9.sce#S##102705
+4#Antenna Arrays#4.8#Dmin calculation#ex4_8.sce#2863/CH4/EX4.8/ex4_8.sce#S##102704
+4#Antenna Arrays#4.7#BWFN calculation#ex4_7.sce#2863/CH4/EX4.7/ex4_7.sce#S##102703
+4#Antenna Arrays#4.6#Lobe calculation#ex4_6.sce#2863/CH4/EX4.6/ex4_6.sce#S##102700
+4#Antenna Arrays#4.5#Null Calculation#ex4_5.sce#2863/CH4/EX4.5/ex4_5.sce#S##102699
+4#Antenna Arrays#4.4#Radiation Pattern calculation#ex4_4.sce#2863/CH4/EX4.4/ex4_4.sce#S##104258
+4#Antenna Arrays#4.3#Maxima Minima calculation#ex4_3.sce#2863/CH4/EX4.3/ex4_3.sce#S##102697
+4#Antenna Arrays#4.2#BWFN calculation#ex4_2.sce#2863/CH4/EX4.2/ex4_2.sce#S##102696
+4#Antenna Arrays#4.14#Directivity calculation#ex4_14.sce#2863/CH4/EX4.14/ex4_14.sce#S##102710
+4#Antenna Arrays#4.13#Directive Gain Calculation#ex4_13.sce#2863/CH4/EX4.13/ex4_13.sce#S##104259
+4#Antenna Arrays#4.12#Effective Aperture calculation#ex4_12.sce#2863/CH4/EX4.12/ex4_12.sce#S##102708
+4#Antenna Arrays#4.11#Directivity calculation#ex4_11.sce#2863/CH4/EX4.11/ex4_11.sce#S##102707
+4#Antenna Arrays#4.10#BWFN calculation#ex4_10.sce#2863/CH4/EX4.10/ex4_10.sce#S##102706
+4#Antenna Arrays#4.1#HPBW calculation#ex4_1.sce#2863/CH4/EX4.1/ex4_1.sce#S##102695
+3#Loop and Helical Antenna#3.4#Radiation Resisitance calculation#ex3_4.sce#2863/CH3/EX3.4/ex3_4.sce#S##102694
+3#Loop and Helical Antenna#3.3#Radiation resistance calculation#ex3_3.sce#2863/CH3/EX3.3/ex3_3.sce#S##102693
+3#Loop and Helical Antenna#3.2#HPBW calculation#ex3_2.sce#2863/CH3/EX3.2/ex3_2.sce#S##102702
+3#Loop and Helical Antenna#3.1#Directive gain calculation#ex3_1.sce#2863/CH3/EX3.1/ex3_1.sce#S##102691
+2#Antenna Fundamentals#2.9#Average power calculation#ex2_9.sce#2863/CH2/EX2.9/ex2_9.sce#S##102645
+2#Antenna Fundamentals#2.8#Noise temperature calculation#ex2_8.sce#2863/CH2/EX2.8/ex2_8.sce#S##102644
+2#Antenna Fundamentals#2.7#Transmitted power calculation#ex2_7.sce#2863/CH2/EX2.7/ex2_7.sce#S##102643
+2#Antenna Fundamentals#2.6#Aperture area calculation#ex2_6.sce#2863/CH2/EX2.6/ex2_6.sce#S##102701
+2#Antenna Fundamentals#2.5#Effective aperture calculation#ex2_6.sce#2863/CH2/EX2.5/ex2_6.sce#S##102642
+2#Antenna Fundamentals#2.47#Radiation resistance calculation#ex2_47.sce#2863/CH2/EX2.47/ex2_47.sce#S##102690
+2#Antenna Fundamentals#2.46#FBR ratio calculation#ex2_46.sce#2863/CH2/EX2.46/ex2_46.sce#S##102689
+2#Antenna Fundamentals#2.45#Effective aperture calculation#ex2_45.sce#2863/CH2/EX2.45/ex2_45.sce#S##102688
+2#Antenna Fundamentals#2.44#Radiation efficiency calculation#ex2_44.sce#2863/CH2/EX2.44/ex2_44.sce#S##102687
+2#Antenna Fundamentals#2.43#Directive gain calculation#ex2_43.sce#2863/CH2/EX2.43/ex2_43.sce#S##102686
+2#Antenna Fundamentals#2.42#Radiation Power calculation#ex2_42.sce#2863/CH2/EX2.42/ex2_42.sce#S##104257
+2#Antenna Fundamentals#2.41#Average power calculation#ex2_41.sce#2863/CH2/EX2.41/ex2_41.sce#S##102684
+2#Antenna Fundamentals#2.40#Radiated power calculation#ex2_40.sce#2863/CH2/EX2.40/ex2_40.sce#S##102683
+2#Antenna Fundamentals#2.4#Rms current calculation#ex2_4.sce#2863/CH2/EX2.4/ex2_4.sce#S##107374
+2#Antenna Fundamentals#2.39#Directive gain calculation#ex2_39.sce#2863/CH2/EX2.39/ex2_39.sce#S##102682
+2#Antenna Fundamentals#2.38#Bandwidth calculation#ex2_38.sce#2863/CH2/EX2.38/ex2_38.sce#S##102681
+2#Antenna Fundamentals#2.37#Gain calculation#ex2_37.sce#2863/CH2/EX2.37/ex2_37.sce#S##102680
+2#Antenna Fundamentals#2.36#power calculation#ex2_36.sce#2863/CH2/EX2.36/ex2_36.sce#S##102679
+2#Antenna Fundamentals#2.35#power calculation#ex2_35.sce#2863/CH2/EX2.35/ex2_35.sce#S##102678
+2#Antenna Fundamentals#2.34#Directive gain calculation#ex2_34.sce#2863/CH2/EX2.34/ex2_34.sce#S##102676
+2#Antenna Fundamentals#2.33#Dipole length calculation#ex2_33.sce#2863/CH2/EX2.33/ex2_33.sce#S##102675
+2#Antenna Fundamentals#2.32#Antenna gain calculation#ex2_32.sce#2863/CH2/EX2.32/ex2_32.sce#S##102673
+2#Antenna Fundamentals#2.31#Tuning factor calculation#ex2_31.sce#2863/CH2/EX2.31/ex2_31.sce#S##102671
+2#Antenna Fundamentals#2.30#Noise power calculation#ex2_30.sce#2863/CH2/EX2.30/ex2_30.sce#S##102670
+2#Antenna Fundamentals#2.3#Radiation Resistance calculation#ex2_3.sce#2863/CH2/EX2.3/ex2_3.sce#S##102640
+2#Antenna Fundamentals#2.29#effective aperture calculation#ex2_29.sce#2863/CH2/EX2.29/ex2_29.sce#S##102668
+2#Antenna Fundamentals#2.28#Dipole length calculation#ex2_28.sce#2863/CH2/EX2.28/ex2_28.sce#S##102667
+2#Antenna Fundamentals#2.27#Voltage calculation#ex2_27.sce#2863/CH2/EX2.27/ex2_27.sce#S##102665
+2#Antenna Fundamentals#2.26#Radiation efficiency calculation#ex2_26.sce#2863/CH2/EX2.26/ex2_26.sce#S##102664
+2#Antenna Fundamentals#2.25#Radiation efficiency calculation#ex2_25.sce#2863/CH2/EX2.25/ex2_25.sce#S##102663
+2#Antenna Fundamentals#2.24#Efield calculation#ex2_24.sce#2863/CH2/EX2.24/ex2_24.sce#S##102662
+2#Antenna Fundamentals#2.23#Efield calculation#ex2_23.sce#2863/CH2/EX2.23/ex2_23.sce#S##102661
+2#Antenna Fundamentals#2.22#Radiation efficiency calculation#ex2_22.sce#2863/CH2/EX2.22/ex2_22.sce#S##102660
+2#Antenna Fundamentals#2.21#Directive gain calculation#ex2_21.sce#2863/CH2/EX2.21/ex2_21.sce#S##102659
+2#Antenna Fundamentals#2.20#Radiation resistance calculation#ex2_20.sce#2863/CH2/EX2.20/ex2_20.sce#S##102658
+2#Antenna Fundamentals#2.2#Directive gain calculation#ex2_2.sce#2863/CH2/EX2.2/ex2_2.sce#S##102639
+2#Antenna Fundamentals#2.19#power calculation#ex2_19.sce#2863/CH2/EX2.19/ex2_19.sce#S##102657
+2#Antenna Fundamentals#2.18#efield calculation#ex2_18.sce#2863/CH2/EX2.18/ex2_18.sce#S##102656
+2#Antenna Fundamentals#2.17#Directivity calculation#ex2_17.sce#2863/CH2/EX2.17/ex2_17.sce#S##102655
+2#Antenna Fundamentals#2.16#power calculation#ex2_16.sce#2863/CH2/EX2.16/ex2_16.sce#S##107375
+2#Antenna Fundamentals#2.15#Current calculation#ex2_15.sce#2863/CH2/EX2.15/ex2_15.sce#S##102653
+2#Antenna Fundamentals#2.14#Dipole length calculation#ex2_14.sce#2863/CH2/EX2.14/ex2_14.sce#S##102652
+2#Antenna Fundamentals#2.13#power calculation#ex2_13.sce#2863/CH2/EX2.13/ex2_13.sce#S##102651
+2#Antenna Fundamentals#2.12#Power calculation#ex2_12.sce#2863/CH2/EX2.12/ex2_12.sce#S##102650
+2#Antenna Fundamentals#2.11#power calculation#ex2_11.sce#2863/CH2/EX2.11/ex2_11.sce#S##102648
+2#Antenna Fundamentals#2.10#Average power calculation#ex2_10.sce#2863/CH2/EX2.10/ex2_10.sce#S##102646
+2#Antenna Fundamentals#2.1#Etheta calculation#ex2_1.sce#2863/CH2/EX2.1/ex2_1.sce#S##102638

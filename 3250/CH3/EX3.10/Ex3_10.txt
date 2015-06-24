@@ -1,0 +1,5 @@
+ 
+ # PROBLEM 3.10 # 
+
+ Minimum value of die length = 34.367396 mm, 
+ Minimum required capacity of the machine = 2313 N 

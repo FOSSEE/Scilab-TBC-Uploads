@@ -1,0 +1,4 @@
+ 
+ example14.4   
+static frequency drop -0.019608Hz 
+frequency drop -1Hz 

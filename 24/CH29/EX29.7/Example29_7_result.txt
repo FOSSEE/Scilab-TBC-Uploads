@@ -1,0 +1,2 @@
+**Sample Problem 29-7**
+The value of constant k is equal to 5.175000e-008N.m/degree 

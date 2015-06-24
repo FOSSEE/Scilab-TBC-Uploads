@@ -1,0 +1,1 @@
+R1=488 ohms, R2=100 ohms, Rc=400 ohms, Re=100 ohms

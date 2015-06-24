@@ -1,0 +1,4 @@
+  
+ probability of first two balls are white and third ball is black   
+ 
+    0.1714286

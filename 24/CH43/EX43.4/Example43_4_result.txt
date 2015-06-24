@@ -1,0 +1,3 @@
+**Sample Problem 43-4**
+The disintegration constant for the radionuclide is 0.027556min-1
+The half life is equal to 25min

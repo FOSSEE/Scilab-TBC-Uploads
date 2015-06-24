@@ -1,0 +1,30 @@
+
+ Given line-line voltage = 4400.0000 V 
+
+
+
+ Line-neutral voltage = 2540.3412 V 
+
+
+
+ Impedance of the load = 20.0000  /_30.0000 ohms 
+
+
+
+ Impedance of the line = 1.4000  /_75.0000 ohms 
+
+
+
+ Van = 2540.3412  /_ 0.0000 V 
+
+
+
+ Ian = 127.0171  /_ -30.0000 V 
+
+
+
+ The line to neutral voltage at the substation = 2669.0452 /_ 2.7002 V 
+
+
+
+ The magnitude of the voltage at the substation bus = 4622.9218 V 

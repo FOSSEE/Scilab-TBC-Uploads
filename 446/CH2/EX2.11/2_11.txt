@@ -1,0 +1,4 @@
+  
+ Exa-2.11   
+The value of momentum was found out to be 8.443e-019 Kg-m/sec.
+The value of momentum was found out to be 1580.81 M.

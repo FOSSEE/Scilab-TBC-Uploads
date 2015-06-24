@@ -1,0 +1,2 @@
+**Sample Problem 9-9**
+The external force on the betal is 0.015273N 

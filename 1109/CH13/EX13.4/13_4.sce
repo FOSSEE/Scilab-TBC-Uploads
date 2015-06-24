@@ -1,0 +1,13 @@
+clear;
+clc;
+z11=10;z22=12;z12=5;z21=5;
+deltaz=(z11*z22)-(z12*z21);
+y11=z22/deltaz;
+printf("The y-parameters are:\n");
+printf("-y11 = %f mho\n",round(y11*10^4)/10^4);
+y22=z11/deltaz;
+printf("-y22 = %f mho\n",round(y22*10^4)/10^4);
+y12=-z12/deltaz;
+printf("-y12 = %f mho\n",round(y12*10^3)/10^3);
+y21=y12;
+printf("-y21 = %f mho",round(y21*10^3)/10^3);

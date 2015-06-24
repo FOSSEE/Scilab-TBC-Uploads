@@ -1,0 +1,7 @@
+ # PROBLEM 2 # 
+Standard formula used 
+  I = cai*H  
+
+ Magnetisation is -0.499800 A/m.
+ Flux density is 0.149539 T.
+ Relative permeability is 0.999996 .

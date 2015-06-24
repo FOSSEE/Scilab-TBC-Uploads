@@ -1,0 +1,5 @@
+**Sample Problem 22-3a**
+The net force between the two sphere is 2.247951e+009Q^2/a^2
+
+**Sample Problem 22-3b**
+The net force between the two sphere is 0.000000N 

@@ -1,0 +1,7 @@
+  
+ Example 3.13   
+Equivalent resistance referred to primary side=0.399573ohms
+Equivalent reactance referred to primary side=1.906048ohms
+equivalent impedance reffered to primary,Ze=1.947480ohms
+I1=205.393656
+Power input=16856.612924W 

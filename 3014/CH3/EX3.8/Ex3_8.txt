@@ -1,0 +1,6 @@
+
+Example 3.8
+ If order is 1 then spacing is 3.635315 angstrom.
+ If order is 2 then spacing is 1.817657 angstrom.
+ If order is 3 then spacing is 1.211772 angstrom.
+ If order is 4 then spacing is 0.908829 angstrom.

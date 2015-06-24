@@ -1,0 +1,17 @@
+Assuming load factor to be unity
+Maximum demand = 4.4 kW 
+
+(i) Units consumed = 2200 kWh 
+
+    Charges = Rs. 440 
+
+    Remaining units = 6560 kWh 
+
+    Extra charges = Rs. 656 
+
+    Total annual bill = Rs. 1096 
+
+
+(ii)Equivalent flat rate = Rs. 0.12511 
+
+

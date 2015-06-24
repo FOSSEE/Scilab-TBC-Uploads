@@ -1,0 +1,17 @@
+              //EXAMPLE 5-32     PG NO=326
+V1=60;             //VOLTAGE
+V2=50;             //VOLTAGE
+V3=100;            //VOLTAGE
+R1=60;           //RESISTANCE
+R2=30;          //RESISTANCE
+R3=40;         //RESISTANCE
+VTH=V2+(R2*(2/3))-(R1*1);
+RTH=((R1*R2)/(R1+R2))+((R1*R3)/(R1+R3));
+RL=RTH;
+I=VTH/(RTH+RTH);                //CURRENT
+P=(I*I)*RL;                     //POWER
+disp('i) Voltage (VTH) is    =  '+string (VTH) +'  V ');
+disp('i) Resistance (RTH) is    =  '+string (RTH) +'   ');
+disp('i) Load Resistance (RL) is    =  '+string (RL) +'  ohm ');
+disp('i) Current (I) is    =  '+string (I) +'  A ');
+disp('i) Power (P) is    =  '+string (I) +'  W ');

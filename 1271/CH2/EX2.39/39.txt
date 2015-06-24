@@ -1,0 +1,2 @@
+﻿ Grating space = 3.535800e-06 meter. 
+ Total width of ruled surface = 1.156992e-03 meter. 

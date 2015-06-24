@@ -1,0 +1,14 @@
+ # PROBLEM 23 # 
+Standard formula used 
+ E = (n^2 * h^2) / (8 * m * L^2)) 
+ p_n = n*h/(2*pi) 
+
+ Energy levels of electron 
+ For (n=1) is 6.019835e-20 J.
+ For (n=2) is 2.407934e-19 J.
+ For (n=3) is 5.417852e-19 J.
+ Energy levels of marble 
+ For (n=1) is 1.369512e-63 J.
+ For (n=2) is 5.478050e-63 J.
+ For (n=3) is 1.232561e-62 J.
+ It is clear that the levels in case of marble are very small and are nearly zero. So it is not possible to measure them experimentally.

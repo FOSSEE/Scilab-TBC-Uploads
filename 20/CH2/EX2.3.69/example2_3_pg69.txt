@@ -1,0 +1,7 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_2/code/example2_3_pg69.sce', -1)
+ Primary Voltage of transformer = 4678.867698 /_ 1.211839 Volts
+ Current Supplied by transformer A = 361.324403 /_ -44.400715 Volts
+ Current Supplied by transformer B = 438.858386 /_ -21.431553 Volts
+ 
+-->diary(0);

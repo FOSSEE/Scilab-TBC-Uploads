@@ -1,0 +1,186 @@
+21#Consumer communication systems#21.4#Transmission bandwidth of monaural television FM#Ex21_4.sce#2414/CH21/EX21.4/Ex21_4.sce#S##94703
+21#Consumer communication systems#21.3#Deviation ratio in TV channel#Ex21_3.sce#2414/CH21/EX21.3/Ex21_3.sce#S##94702
+21#Consumer communication systems#21.2#Monochrome TV#Ex21_2.sce#2414/CH21/EX21.2/Ex21_2.sce#S##94701
+21#Consumer communication systems#21.1#difference  between stereo FM and monaural FM#Ex21_1.sce#2414/CH21/EX21.1/Ex21_1.sce#S##94700
+20#Optical communication#20.7#Loss of multimode cable#Ex20_7.sce#2414/CH20/EX20.7/Ex20_7.sce#S##94699
+20#Optical communication#20.6#Loss in cable#Ex20_6.sce#2414/CH20/EX20.6/Ex20_6.sce#S##94698
+20#Optical communication#20.5#Responsivity of photodiode#Ex20_5.sce#2414/CH20/EX20.5/Ex20_5.sce#S##94697
+20#Optical communication#20.4#Responsivity of photodiode#Ex20_4.sce#2414/CH20/EX20.4/Ex20_4.sce#S##94696
+20#Optical communication#20.3#Critical angle#Ex20_3.sce#2414/CH20/EX20.3/Ex20_3.sce#S##94695
+20#Optical communication#20.2#Angle of refraction#Ex20_2.sce#2414/CH20/EX20.2/Ex20_2.sce#S##94694
+20#Optical communication#20.1#Frequency of the laser#Ex20_1.sce#2414/CH20/EX20.1/Ex20_1.sce#S##94693
+19#Wireless Network communication#19.7#Waveform of DQPSK#Ex19_7.sce#2414/CH19/EX19.7/Ex19_7.sce#S##94691
+19#Wireless Network communication#19.6#Waveform of DBPSK#Ex19_6.sce#2414/CH19/EX19.6/Ex19_6.sce#S##94690
+19#Wireless Network communication#19.5#FHSS frame #Ex19_5.sce#2414/CH19/EX19.5/Ex19_5.sce#S##94689
+19#Wireless Network communication#19.4#Part of FHSS frame#Ex19_4.sce#2414/CH19/EX19.4/Ex19_4.sce#S##94688
+19#Wireless Network communication#19.2#First 10 channel in hop sequence#Ex19_2.sce#2414/CH19/EX19.2/Ex19_2.sce#S##94687
+17#Satellite communication#17.9#Determine C to N ratio#Ex17_9.sce#2414/CH17/EX17.9/Ex17_9.sce#S##94686
+17#Satellite communication#17.8#Determine C to N ratio#Ex17_8.sce#2414/CH17/EX17.8/Ex17_8.sce#S##94684
+17#Satellite communication#17.7#Distance from earth station#Ex17_7.sce#2414/CH17/EX17.7/Ex17_7.sce#S##94683
+17#Satellite communication#17.6#Diameter of ground station uplink antenna#Ex17_6.sce#2414/CH17/EX17.6/Ex17_6.sce#S##94682
+17#Satellite communication#17.5#Gain required#Ex17_5.sce#2414/CH17/EX17.5/Ex17_5.sce#S##94681
+17#Satellite communication#17.4#Gain required#Ex17_4.sce#2414/CH17/EX17.4/Ex17_4.sce#S##94680
+17#Satellite communication#17.3#Satellite transmitter#Ex17_3.sce#2414/CH17/EX17.3/Ex17_3.sce#S##94679
+17#Satellite communication#17.2#Declination offset angle#Ex17_2.sce#2414/CH17/EX17.2/Ex17_2.sce#S##94678
+17#Satellite communication#17.1#Satellite #Ex17_1.sce#2414/CH17/EX17.1/Ex17_1.sce#S##94595
+16#Communication link analysis and Design#16.9#Distance to the target#Ex16_9.sce#2414/CH16/EX16.9/Ex16_9.sce#S##94584
+16#Communication link analysis and Design#16.8#Received power#Ex16_8.sce#2414/CH16/EX16.8/Ex16_8.sce#S##94582
+16#Communication link analysis and Design#16.7#range of transmission #Ex16_7.sce#2414/CH16/EX16.7/Ex16_7.sce#S##94579
+16#Communication link analysis and Design#16.6#Required transmitted power#Ex16_6.sce#2414/CH16/EX16.6/Ex16_6.sce#S##94578
+16#Communication link analysis and Design#16.5#Minimum transmitted power required#Ex16_5.sce#2414/CH16/EX16.5/Ex16_5.sce#S##94574
+16#Communication link analysis and Design#16.4#path loss#Ex16_4.sce#2414/CH16/EX16.4/Ex16_4.sce#S##94571
+16#Communication link analysis and Design#16.3#Path loss#Ex16_3.sce#2414/CH16/EX16.3/Ex16_3.sce#S##94570
+16#Communication link analysis and Design#16.2#dB approach#Ex16_2.sce#2414/CH16/EX16.2/Ex16_2.sce#S##94569
+16#Communication link analysis and Design#16.13#Angle of refraction#Ex16_13.sce#2414/CH16/EX16.13/Ex16_13.sce#S##94592
+16#Communication link analysis and Design#16.12#Speed of automobile#Ex16_12.sce#2414/CH16/EX16.12/Ex16_12.sce#S##94590
+16#Communication link analysis and Design#16.11#Doppler shift#Ex16_11.sce#2414/CH16/EX16.11/Ex16_11.sce#S##94588
+16#Communication link analysis and Design#16.10#Pulse radar system#Ex16_10.sce#2414/CH16/EX16.10/Ex16_10.sce#S##94586
+16#Communication link analysis and Design#16.1#Recieived power#Ex16_1.sce#2414/CH16/EX16.1/Ex16_1.sce#S##94568
+15#Introduction to Antennas#15.7#Radiation resistance#Ex15_7.sce#2414/CH15/EX15.7/Ex15_7.sce#S##94565
+15#Introduction to Antennas#15.6#satellite system#Ex15_6.sce#2414/CH15/EX15.6/Ex15_6.sce#S##94564
+15#Introduction to Antennas#15.5#Power density#Ex15_5.sce#2414/CH15/EX15.5/Ex15_5.sce#S##94563
+15#Introduction to Antennas#15.4#Power gain#Ex15_4.sce#2414/CH15/EX15.4/Ex15_4.sce#S##94562
+15#Introduction to Antennas#15.3#max dB gain#Ex15_3.sce#2414/CH15/EX15.3/Ex15_3.sce#S##94561
+15#Introduction to Antennas#15.2#Distance of boundary#Ex15_2.sce#2414/CH15/EX15.2/Ex15_2.sce#S##94560
+15#Introduction to Antennas#15.12#Effective area#Ex15_12.sce#2414/CH15/EX15.12/Ex15_12.sce#S##94566
+15#Introduction to Antennas#15.11#Parabolic reflector#Ex15_11.sce#2414/CH15/EX15.11/Ex15_11.sce#S##94567
+14#Transmission lines and waves#14.9#Lossless transmission line#Ex14_9.sce#2414/CH14/EX14.9/Ex14_9.sce#S##94556
+14#Transmission lines and waves#14.8#Load power#Ex14_8.sce#2414/CH14/EX14.8/Ex14_8.sce#S##94555
+14#Transmission lines and waves#14.7#mismached load impedance#Ex14_7.sce#2414/CH14/EX14.7/Ex14_7.sce#S##94554
+14#Transmission lines and waves#14.6.1#Coaxial cable#Ex14_6_1.sce#2414/CH14/EX14.6.1/Ex14_6_1.sce#S##94553
+14#Transmission lines and waves#14.6#Dielectric costant#Ex14_6.sce#2414/CH14/EX14.6/Ex14_6.sce#S##94552
+14#Transmission lines and waves#14.5#Velocity of propagation#Ex14_5.sce#2414/CH14/EX14.5/Ex14_5.sce#S##94551
+14#Transmission lines and waves#14.4#Characteristic impedance#Ex14_4.sce#2414/CH14/EX14.4/Ex14_4.sce#S##94550
+14#Transmission lines and waves#14.3#Length of line#Ex14_3.sce#2414/CH14/EX14.3/Ex14_3.sce#S##94549
+14#Transmission lines and waves#14.2#Length of line#Ex14_2.sce#2414/CH14/EX14.2/Ex14_2.sce#S##94548
+14#Transmission lines and waves#14.12#Plane wave propagation #Ex14_12.sce#2414/CH14/EX14.12/Ex14_12.sce#S##94559
+14#Transmission lines and waves#14.11#Lossless transmission line #Ex14_11.sce#2414/CH14/EX14.11/Ex14_11.sce#S##94558
+14#Transmission lines and waves#14.10#Loss less transmission line #Ex14_10.sce#2414/CH14/EX14.10/Ex14_10.sce#S##94557
+14#Transmission lines and waves#14.1#Length of line#Ex14_1.sce#2414/CH14/EX14.1/Ex14_1.sce#S##94547
+13#Performance of Modulation systems with noise#13.9#PSK required reciever power#Ex13_9.sce#2414/CH13/EX13.9/Ex13_9.sce#S##94546
+13#Performance of Modulation systems with noise#13.8#input average carrier power#Ex13_8.sce#2414/CH13/EX13.8/Ex13_8.sce#S##94545
+13#Performance of Modulation systems with noise#13.7#PSK signal to noise ratio#Ex13_7.sce#2414/CH13/EX13.7/Ex13_7.sce#S##94544
+13#Performance of Modulation systems with noise#13.6#Binary digital communication system#Ex13_6.sce#2414/CH13/EX13.6/Ex13_6.sce#S##94543
+13#Performance of Modulation systems with noise#13.5#Minimum number of bits#Ex13_5.sce#2414/CH13/EX13.5/Ex13_5.sce#S##94542
+13#Performance of Modulation systems with noise#13.4#signal to noise ratio#Ex13_4.sce#2414/CH13/EX13.4/Ex13_4.sce#S##94540
+13#Performance of Modulation systems with noise#13.3#signal to noise ratio#Ex13_3.sce#2414/CH13/EX13.3/Ex13_3.sce#S##94539
+13#Performance of Modulation systems with noise#13.2#Receiver processing gain#Ex13_2.sce#2414/CH13/EX13.2/Ex13_2.sce#S##94538
+13#Performance of Modulation systems with noise#13.1#AC system comparison#Ex13_1.sce#2414/CH13/EX13.1/Ex13_1.sce#S##94537
+12#Noise in Communication systems#12.9#output noise power#Ex12_9.sce#2414/CH12/EX12.9/Ex12_9.sce#S##94528
+12#Noise in Communication systems#12.8#white noise#Ex12_8.sce#2414/CH12/EX12.8/Ex12_8.sce#S##94527
+12#Noise in Communication systems#12.7#Power spectral density#Ex12_7.sce#2414/CH12/EX12.7/Ex12_7.sce#S##94526
+12#Noise in Communication systems#12.6#rms noise voltage#Ex12_6.sce#2414/CH12/EX12.6/Ex12_6.sce#S##94525
+12#Noise in Communication systems#12.5#output noise power#Ex12_5.sce#2414/CH12/EX12.5/Ex12_5.sce#S##94524
+12#Noise in Communication systems#12.4#Noise power #Ex12_4.sce#2414/CH12/EX12.4/Ex12_4.sce#S##94523
+12#Noise in Communication systems#12.3#net rms voltage#Ex12_3.sce#2414/CH12/EX12.3/Ex12_3.sce#S##94522
+12#Noise in Communication systems#12.2#rms voltage#Ex12_2.sce#2414/CH12/EX12.2/Ex12_2.sce#S##94521
+12#Noise in Communication systems#12.17#Noise temperature and noise figure#Ex12_17.sce#2414/CH12/EX12.17/Ex12_17.sce#S##94536
+12#Noise in Communication systems#12.16#Cascaded system#Ex12_16.sce#2414/CH12/EX12.16/Ex12_16.sce#S##94535
+12#Noise in Communication systems#12.15#Net noise figure#Ex12_15.sce#2414/CH12/EX12.15/Ex12_15.sce#S##94534
+12#Noise in Communication systems#12.14#Equivalent noise temperature #Ex12_14.sce#2414/CH12/EX12.14/Ex12_14.sce#S##94533
+12#Noise in Communication systems#12.13#output S to  ratio#Ex12_13.sce#2414/CH12/EX12.13/Ex12_13.sce#S##94532
+12#Noise in Communication systems#12.12#RF amplifier#Ex12_12.sce#2414/CH12/EX12.12/Ex12_12.sce#S##94531
+12#Noise in Communication systems#12.11#effective noise temperature#Ex12_11.sce#2414/CH12/EX12.11/Ex12_11.sce#S##94530
+12#Noise in Communication systems#12.10#low noise amplifier#Ex12_10.sce#2414/CH12/EX12.10/Ex12_10.sce#S##94529
+12#Noise in Communication systems#12.1#Mean square and rms values#Ex12_1.sce#2414/CH12/EX12.1/Ex12_1.sce#S##94520
+11#Computer Data communication#11.9#Memory bandwidth#Ex11_9.sce#2414/CH11/EX11.9/Ex11_9.sce#S##94519
+11#Computer Data communication#11.8#DDR SDRAM bandwidth#Ex11_8.sce#2414/CH11/EX11.8/Ex11_8.sce#S##94518
+11#Computer Data communication#11.7#Processor bandwidth#Ex11_7.sce#2414/CH11/EX11.7/Ex11_7.sce#S##94517
+10#Digital communication II M ary system#10.6#QPSK#Ex10_6.sce#2414/CH10/EX10.6/Ex10_6.sce#S##94516
+10#Digital communication II M ary system#10.5#Shannon limit#Ex10_5.sce#2414/CH10/EX10.5/Ex10_5.sce#S##94515
+10#Digital communication II M ary system#10.2#Maximum channel capacity#Ex10_2.sce#2414/CH10/EX10.2/Ex10_2.sce#S##94514
+10#Digital communication II M ary system#10.1#Channel capcity#Ex10_1.sce#2414/CH10/EX10.1/Ex10_1.sce#S##94513
+9#Digital communication I Binary Systems#9.9#NRZ L PCM#Ex9_9.sce#2414/CH9/EX9.9/Ex9_9.sce#S##94511
+9#Digital communication I Binary Systems#9.8#NRZ L PCM#Ex9_8.sce#2414/CH9/EX9.8/Ex9_8.sce#S##94510
+9#Digital communication I Binary Systems#9.7#PCM TDM system#Ex9_7.sce#2414/CH9/EX9.7/Ex9_7.sce#S##94509
+9#Digital communication I Binary Systems#9.6#Micro compression law encoder#Ex9_6.sce#2414/CH9/EX9.6/Ex9_6.sce#S##94508
+9#Digital communication I Binary Systems#9.5#A to D converter#Ex9_5.sce#2414/CH9/EX9.5/Ex9_5.sce#S##94507
+9#Digital communication I Binary Systems#9.4#Quantization error#Ex9_4.sce#2414/CH9/EX9.4/Ex9_4.sce#S##94506
+9#Digital communication I Binary Systems#9.3#Quantization  #Ex9_3.sce#2414/CH9/EX9.3/Ex9_3.sce#S##94505
+9#Digital communication I Binary Systems#9.2#Minimum number of bits#Ex9_2.sce#2414/CH9/EX9.2/Ex9_2.sce#S##94504
+9#Digital communication I Binary Systems#9.10#NRZ L PCM bandwidth#Ex9_10.sce#2414/CH9/EX9.10/Ex9_10.sce#S##94512
+9#Digital communication I Binary Systems#9.1#possible PCM words#Ex9_1.sce#2414/CH9/EX9.1/Ex9_1.sce#S##94503
+8#Pulse modulation and Time division multiplexing #8.9#PWM minimum nyquist rate#Ex8_9.sce#2414/CH8/EX8.9/Ex8_9.sce#S##94502
+8#Pulse modulation and Time division multiplexing #8.8#Nyquist rate based#Ex8_8.sce#2414/CH8/EX8.8/Ex8_8.sce#S##94501
+8#Pulse modulation and Time division multiplexing #8.7#Minimum bandwidth for PAM#Ex8_7.sce#2414/CH8/EX8.7/Ex8_7.sce#S##94500
+8#Pulse modulation and Time division multiplexing #8.6#Pulse amplitude modulation #Ex8_6.sce#2414/CH8/EX8.6/Ex8_6.sce#S##94499
+8#Pulse modulation and Time division multiplexing #8.5#List frequencies#Ex8_5.sce#2414/CH8/EX8.5/Ex8_5.sce#S##94498
+8#Pulse modulation and Time division multiplexing #8.3#Determine total number of samples#Ex8_3.sce#2414/CH8/EX8.3/Ex8_3.sce#S##94497
+8#Pulse modulation and Time division multiplexing #8.2#Sampling rate #Ex8_2.sce#2414/CH8/EX8.2/Ex8_2.sce#S##94496
+8#Pulse modulation and Time division multiplexing #8.1#sampling rate #Ex8_1.sce#2414/CH8/EX8.1/Ex8_1.sce#S##94495
+7#Angle modulation methods#7.9#Transmission bandwidth#Ex7_9.sce#2414/CH7/EX7.9/Ex7_9.sce#S##94485
+7#Angle modulation methods#7.8#Transmission bandwidth#Ex7_8.sce#2414/CH7/EX7.8/Ex7_8.sce#S##94484
+7#Angle modulation methods#7.7#Expression for PM signal#Ex7_7.sce#2414/CH7/EX7.7/Ex7_7.sce#S##94483
+7#Angle modulation methods#7.6#Expression for composite FM#Ex7_6.sce#2414/CH7/EX7.6/Ex7_6.sce#S##94482
+7#Angle modulation methods#7.5#Equation for signal #Ex7_5.sce#2414/CH7/EX7.5/Ex7_5.sce#S##94481
+7#Angle modulation methods#7.4#Equation for FM signal #Ex7_4.sce#2414/CH7/EX7.4/Ex7_4.sce#S##94480
+7#Angle modulation methods#7.3#Maximum phase deviation#Ex7_3.sce#2414/CH7/EX7.3/Ex7_3.sce#S##94479
+7#Angle modulation methods#7.2#Spectrum of tone modulated FM signal#Ex7_2.sce#2414/CH7/EX7.2/Ex7_2.sce#S##94478
+7#Angle modulation methods#7.19#Frequency division modulation#Ex7_19.sce#2414/CH7/EX7.19/Ex7_19.sce#S##94494
+7#Angle modulation methods#7.18#Determine output frequency#Ex7_18.sce#2414/CH7/EX7.18/Ex7_18.sce#S##94493
+7#Angle modulation methods#7.17#Transmitter design#Ex7_17.sce#2414/CH7/EX7.17/Ex7_17.sce#S##94492
+7#Angle modulation methods#7.16#Instantaneous frequency#Ex7_16.sce#2414/CH7/EX7.16/Ex7_16.sce#S##94491
+7#Angle modulation methods#7.14#Frequency tripler#Ex7_14.sce#2414/CH7/EX7.14/Ex7_14.sce#S##94490
+7#Angle modulation methods#7.13#Determine bandwidth#Ex7_13.sce#2414/CH7/EX7.13/Ex7_13.sce#S##94489
+7#Angle modulation methods#7.12#Determine transmission bandwidth#Ex7_12.sce#2414/CH7/EX7.12/Ex7_12.sce#S##94488
+7#Angle modulation methods#7.11#Transmission bandwidth #Ex7_11.sce#2414/CH7/EX7.11/Ex7_11.sce#S##94487
+7#Angle modulation methods#7.10#Approximate transmission bandwidth#Ex7_10.sce#2414/CH7/EX7.10/Ex7_10.sce#S##94486
+7#Angle modulation methods#7.1#single tone angle modulation #Ex7_1.sce#2414/CH7/EX7.1/Ex7_1.sce#S##94477
+6#Amplitude Modulation Methods#6.9#Envelop detection of conventionall FM#Ex6_9.sce#2414/CH6/EX6.9/Ex6_9.sce#S##94353
+6#Amplitude Modulation Methods#6.8#Envelop Detection of conventional FM#Ex6_8.sce#2414/CH6/EX6.8/Ex6_8.sce#S##94352
+6#Amplitude Modulation Methods#6.7#Product detection of DSB and SSB#Ex6_7.sce#2414/CH6/EX6.7/Ex6_7.sce#S##94351
+6#Amplitude Modulation Methods#6.6#Product Detection#Ex6_6.sce#2414/CH6/EX6.6/Ex6_6.sce#S##94350
+6#Amplitude Modulation Methods#6.5#Product Detectio of DSB and SSB#Ex6_5.sce#2414/CH6/EX6.5/Ex6_5.sce#S##94349
+6#Amplitude Modulation Methods#6.4#SSB#Ex6_4.sce#2414/CH6/EX6.4/Ex6_4.sce#S##94348
+6#Amplitude Modulation Methods#6.3#SSB#Ex6_3.sce#2414/CH6/EX6.3/Ex6_3.sce#S##94347
+6#Amplitude Modulation Methods#6.2#Transmission Bandwidth#Ex6_2.sce#2414/CH6/EX6.2/Ex6_2.sce#S##94346
+6#Amplitude Modulation Methods#6.17#rms voltage and current#Ex6_17.sce#2414/CH6/EX6.17/Ex6_17.sce#S##94476
+6#Amplitude Modulation Methods#6.16#Determine power#Ex6_16.sce#2414/CH6/EX6.16/Ex6_16.sce#S##94475
+6#Amplitude Modulation Methods#6.15#Antenna rms voltage and current#Ex6_15.sce#2414/CH6/EX6.15/Ex6_15.sce#S##94474
+6#Amplitude Modulation Methods#6.14#Determine power#Ex6_14.sce#2414/CH6/EX6.14/Ex6_14.sce#S##94473
+6#Amplitude Modulation Methods#6.12#Envelop detector#Ex6_12.sce#2414/CH6/EX6.12/Ex6_12.sce#S##94472
+6#Amplitude Modulation Methods#6.11#Determine Amplitude of sidebands#Ex6_11.sce#2414/CH6/EX6.11/Ex6_11.sce#S##94355
+6#Amplitude Modulation Methods#6.10#Modulation Factor#Ex6_10.sce#2414/CH6/EX6.10/Ex6_10.sce#S##94354
+6#Amplitude Modulation Methods#6.1#Transmission Bandwidth#Ex6_1.sce#2414/CH6/EX6.1/Ex6_1.sce#S##94345
+5#Frequency Generation and Translation#5.9#Double conversion system#Ex5_9.sce#2414/CH5/EX5.9/Ex5_9.sce#S##94341
+5#Frequency Generation and Translation#5.8#Frequency conversion#Ex5_8.sce#2414/CH5/EX5.8/Ex5_8.sce#S##94340
+5#Frequency Generation and Translation#5.7#Frequency conversion#Ex5_7.sce#2414/CH5/EX5.7/Ex5_7.sce#S##94339
+5#Frequency Generation and Translation#5.6#Frequency conversion#Ex5_6.sce#2414/CH5/EX5.6/Ex5_6.sce#S##94338
+5#Frequency Generation and Translation#5.5#mixer#Ex5_5.sce#2414/CH5/EX5.5/Ex5_5.sce#S##94337
+5#Frequency Generation and Translation#5.3#PLL loop#Ex5_3.sce#2414/CH5/EX5.3/Ex5_3.sce#S##94336
+5#Frequency Generation and Translation#5.2#Crystal controlled portable transmitter#Ex5_2.sce#2414/CH5/EX5.2/Ex5_2.sce#S##94335
+5#Frequency Generation and Translation#5.12#Commercial FM reciever#Ex5_12.sce#2414/CH5/EX5.12/Ex5_12.sce#S##94344
+5#Frequency Generation and Translation#5.11#Reciever#Ex5_11.sce#2414/CH5/EX5.11/Ex5_11.sce#S##94343
+5#Frequency Generation and Translation#5.10#Reciever#Ex5_10.sce#2414/CH5/EX5.10/Ex5_10.sce#S##94342
+5#Frequency Generation and Translation#5.1#Oscillator circuits#Ex5_1.sce#2414/CH5/EX5.1/Ex5_1.sce#S##94334
+4#Communication Filters and Signal Transmission#4.7#Determine Bandwidth#Ex4_7.sce#2414/CH4/EX4.7/Ex4_7.sce#S##94333
+4#Communication Filters and Signal Transmission#4.6#Parrale resonant circuit#Ex4_6.sce#2414/CH4/EX4.6/Ex4_6.sce#S##94332
+4#Communication Filters and Signal Transmission#4.5#Amplitude response#Ex4_5.sce#2414/CH4/EX4.5/Ex4_5.sce#S##94331
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.8#Spectrum analyser#Ex3_8.sce#2414/CH3/EX3.8/Ex3_8.sce#S##94330
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.7#RFpulse amplitude spectrum#Ex3_7.sce#2414/CH3/EX3.7/Ex3_7.sce#S##94329
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.6#RF pulse functions#Ex3_6.sce#2414/CH3/EX3.6/Ex3_6.sce#S##94328
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.5#Sketch spectrum#Ex3_5.sce#2414/CH3/EX3.5/Ex3_5.sce#S##94327
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.4#Baseband pulse function#Ex3_4.sce#2414/CH3/EX3.4/Ex3_4.sce#S##94326
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.3#Amplitude spectrum#Ex3_3.sce#2414/CH3/EX3.3/Ex3_3.sce#S##94325
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.2#Fourier Transform#Ex3_2.sce#2414/CH3/EX3.2/Ex3_2.sce#S##94324
+3#Spectral Analysis II Fourier Transform and Pulse Spectra#3.1#Fourier Transform#Ex3_1.sce#2414/CH3/EX3.1/Ex3_1.sce#S##94323
+2#Spectral Analysis I Fourier Series#2.9#Two sided spectrum#Ex2_9.sce#2414/CH2/EX2.9/Ex2_9.sce#S##94322
+2#Spectral Analysis I Fourier Series#2.8#Spectral component#Ex2_8.sce#2414/CH2/EX2.8/Ex2_8.sce#S##94321
+2#Spectral Analysis I Fourier Series#2.7#Table of fourier series#Ex2_7.sce#2414/CH2/EX2.7/Ex2_7.sce#S##94320
+2#Spectral Analysis I Fourier Series#2.6#Spectral Rollof#Ex2_6.sce#2414/CH2/EX2.6/Ex2_6.sce#S##94319
+2#Spectral Analysis I Fourier Series#2.5#Power in a Fourier series#Ex2_5.sce#2414/CH2/EX2.5/Ex2_5.sce#S##94318
+2#Spectral Analysis I Fourier Series#2.4#Fourier series#Ex2_4.sce#2414/CH2/EX2.4/Ex2_4.sce#S##94317
+2#Spectral Analysis I Fourier Series#2.3#Spectral process#Ex2_3.sce#2414/CH2/EX2.3/Ex2_3.sce#S##94316
+2#Spectral Analysis I Fourier Series#2.2#Express function#Ex2_2.sce#2414/CH2/EX2.2/Ex2_2.sce#S##94315
+2#Spectral Analysis I Fourier Series#2.1#Signal terminology#Ex2_1.sce#2414/CH2/EX2.1/Ex2_1.sce#S##94314
+1#Introduction#1.9#Power level#Ex1_9.sce#2414/CH1/EX1.9/Ex1_9.sce#S##94311
+1#Introduction#1.8#Calculate gains#Ex1_8.sce#2414/CH1/EX1.8/Ex1_8.sce#S##94310
+1#Introduction#1.7#Signal Level#Ex1_7.sce#2414/CH1/EX1.7/Ex1_7.sce#S##94309
+1#Introduction#1.6#dB gain and loss#Ex1_6.sce#2414/CH1/EX1.6/Ex1_6.sce#S##94308
+1#Introduction#1.5#Voltage gain#Ex1_5.sce#2414/CH1/EX1.5/Ex1_5.sce#S##94307
+1#Introduction#1.4#Absolute Power gain#Ex1_4.sce#2414/CH1/EX1.4/Ex1_4.sce#S##94306
+1#Introduction#1.3#dB Power gain#Ex1_3.sce#2414/CH1/EX1.3/Ex1_3.sce#S##94305
+1#Introduction#1.2#Determine Wavelength#Ex1_2.sce#2414/CH1/EX1.2/Ex1_2.sce#S##94301
+1#Introduction#1.11#S N ratio#Ex1_11.sce#2414/CH1/EX1.11/Ex1_11.sce#S##94313
+1#Introduction#1.10#Signal level and gain#Ex1_10.sce#2414/CH1/EX1.10/Ex1_10.sce#S##94312
+1#Introduction#1.1#Determine Wavelength#Ex1_1.sce#2414/CH1/EX1.1/Ex1_1.sce#S##94287

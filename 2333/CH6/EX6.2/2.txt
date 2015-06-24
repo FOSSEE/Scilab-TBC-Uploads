@@ -1,0 +1,10 @@
+# PROBLEM 2 # 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+
+ Refractive index of cladding is 1.326000. 
+ Numerical aperture is 0.304105.
+ Acceptance angle is 17.704341 degree.

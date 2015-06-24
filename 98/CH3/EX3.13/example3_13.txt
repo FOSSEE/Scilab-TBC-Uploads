@@ -1,0 +1,5 @@
+Average demand = 1000 kW 
+
+Load factor = 33.33 % 
+
+-->diary(0)

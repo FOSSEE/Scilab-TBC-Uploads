@@ -1,0 +1,6 @@
+# PROBLEM 33 # 
+
+ Standard formula used 
+ D_m^2 -D_n^2 = 4*p*r*lambda
+
+ Diameter of 2th dark ring is 0.254558 cm.

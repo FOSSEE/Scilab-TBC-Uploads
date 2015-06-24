@@ -1,0 +1,83 @@
+18#Fibre Optics#18.5#example5#ex18_5.sce#1595/CH18/EX18.5/ex18_5.sce#S##66206
+18#Fibre Optics#18.4#example4#ex18_4.sce#1595/CH18/EX18.4/ex18_4.sce#S##66205
+18#Fibre Optics#18.3#example3#ex18_3.sce#1595/CH18/EX18.3/ex18_3.sce#S##66204
+18#Fibre Optics#18.2#example2#ex18_2.sce#1595/CH18/EX18.2/ex18_2.sce#S##66202
+18#Fibre Optics#18.1#example1#ex18_1.sce#1595/CH18/EX18.1/ex18_1.sce#S##66201
+17#Television#17.2#example2#ex17_2.sce#1595/CH17/EX17.2/ex17_2.sce#S##66199
+17#Television#17.1#example1#ex17_1.sce#1595/CH17/EX17.1/ex17_1.sce#S##66198
+16#Microwaves and Lasers#16.3#example3#ex16_3.sce#1595/CH16/EX16.3/ex16_3.sce#S##66197
+16#Microwaves and Lasers#16.2#example2#ex16_2.sce#1595/CH16/EX16.2/ex16_2.sce#S##66195
+16#Microwaves and Lasers#16.1#example1#ex16_1.sce#1595/CH16/EX16.1/ex16_1.sce#S##66194
+14#Antennas#14.4#example4#ex14_4.sce#1595/CH14/EX14.4/ex14_4.sce#S##66192
+14#Antennas#14.3#example3#ex14_3.sce#1595/CH14/EX14.3/ex14_3.sce#S##66191
+14#Antennas#14.2#example2#ex14_2.sce#1595/CH14/EX14.2/ex14_2.sce#S##66190
+14#Antennas#14.1#example1#ex14_1.sce#1595/CH14/EX14.1/ex14_1.sce#S##66188
+13#Wave Propagation#13.5#example5#ex13_5.sce#1595/CH13/EX13.5/ex13_5.sce#S##66187
+13#Wave Propagation#13.4#example4#ex13_4.sce#1595/CH13/EX13.4/ex13_4.sce#S##66186
+13#Wave Propagation#13.3#example3#ex13_3.sce#1595/CH13/EX13.3/ex13_3.sce#S##66184
+13#Wave Propagation#13.2#example2#ex13_2.sce#1595/CH13/EX13.2/ex13_2.sce#S##66183
+13#Wave Propagation#13.1#example1#ex13_1.sce#1595/CH13/EX13.1/ex13_1.sce#S##66182
+12#Transmission Lines#12.9#example9#ex12_9.sce#1595/CH12/EX12.9/ex12_9.sce#S##66179
+12#Transmission Lines#12.8#example8#ex12_8.sce#1595/CH12/EX12.8/ex12_8.sce#S##66178
+12#Transmission Lines#12.7#example7#ex12_7.sce#1595/CH12/EX12.7/ex12_7.sce#S##66177
+12#Transmission Lines#12.5#example5#ex12_5.sce#1595/CH12/EX12.5/ex12_5.sce#S##66175
+12#Transmission Lines#12.4#example4#ex12_4.sce#1595/CH12/EX12.4/ex12_4.sce#S##66174
+12#Transmission Lines#12.3#example3#ex12_3.sce#1595/CH12/EX12.3/ex12_3.sce#S##66173
+12#Transmission Lines#12.2#example2#ex12_2.sce#1595/CH12/EX12.2/ex12_2.sce#S##66172
+12#Transmission Lines#12.10#example10#ex12_10.sce#1595/CH12/EX12.10/ex12_10.sce#S##66180
+12#Transmission Lines#12.1#example1#ex12_1.sce#1595/CH12/EX12.1/ex12_1.sce#S##66171
+10#Wireless Digital Communication#10.3#example3#ex10_3.sce#1595/CH10/EX10.3/ex10_3.sce#S##66170
+10#Wireless Digital Communication#10.2#example2#ex10_2.sce#1595/CH10/EX10.2/ex10_2.sce#S##66169
+9#Wired Digital Communications#9.5#example4#ex9_5.sce#1595/CH9/EX9.5/ex9_5.sce#S##66168
+9#Wired Digital Communications#9.4#example4#ex9_4.sce#1595/CH9/EX9.4/ex9_4.sce#S##66167
+9#Wired Digital Communications#9.3#example 3#ex9_3.sce#1595/CH9/EX9.3/ex9_3.sce#S##66166
+9#Wired Digital Communications#9.2#example2#ex9_2.sce#1595/CH9/EX9.2/ex9_2.sce#S##66165
+9#Wired Digital Communications#9.1#example1#ex9_1.sce#1595/CH9/EX9.1/ex9_1.sce#S##66164
+8#Digital Communication Coding Technique#8.4#example4#ex8_4.sce#1595/CH8/EX8.4/ex8_4.sce#S##66163
+8#Digital Communication Coding Technique#8.3#example3#ex8_3.sce#1595/CH8/EX8.3/ex8_3.sce#S##66162
+8#Digital Communication Coding Technique#8.2#example2#ex8_2.sce#1595/CH8/EX8.2/ex8_2.sce#S##66161
+8#Digital Communication Coding Technique#8.1#example1#ex8_1.sce#1595/CH8/EX8.1/ex8_1.sce#S##66160
+7#Communication Techniques#7.9#example9#ex7_9.sce#1595/CH7/EX7.9/ex7_9.sce#S##66158
+7#Communication Techniques#7.8#example8#ex7_8.sce#1595/CH7/EX7.8/ex7_8.sce#S##66157
+7#Communication Techniques#7.7#example7#ex7_7.sce#1595/CH7/EX7.7/ex7_7.sce#S##66156
+7#Communication Techniques#7.6# example#ex7_6.sce#1595/CH7/EX7.6/ex7_6.sce#S##71410
+7#Communication Techniques#7.10#example10#ex7_10.sce#1595/CH7/EX7.10/ex7_10.sce#S##66159
+6#Frequency Modulation Reception#6.2#example2#ex6_2.sce#1595/CH6/EX6.2/ex6_2.sce#S##66154
+6#Frequency Modulation Reception#6.1#example1#ex6_1.sce#1595/CH6/EX6.1/ex6_1.sce#S##66153
+5#Frequency Modulation Transmission#5.9#example9#ex5_9.sce#1595/CH5/EX5.9/ex5_9.sce#S##66152
+5#Frequency Modulation Transmission#5.8#example8#ex5_8.sce#1595/CH5/EX5.8/ex5_8.sce#S##66151
+5#Frequency Modulation Transmission#5.7#example7#ex5_7.sce#1595/CH5/EX5.7/ex5_7.sce#S##66150
+5#Frequency Modulation Transmission#5.6#example6#ex5_6.sce#1595/CH5/EX5.6/ex5_6.sce#S##66149
+5#Frequency Modulation Transmission#5.5#example5#ex5_5.sce#1595/CH5/EX5.5/ex5_5.sce#S##66148
+5#Frequency Modulation Transmission#5.4#example4#ex5_4.sce#1595/CH5/EX5.4/ex5_4.sce#S##66147
+5#Frequency Modulation Transmission#5.3#example3#ex5_3.sce#1595/CH5/EX5.3/ex5_3.sce#S##66146
+5#Frequency Modulation Transmission#5.1#example1#ex5_1.sce#1595/CH5/EX5.1/ex5_1.sce#S##66145
+4#Single Sideband Communications#4.4#example4#ex4_4.sce#1595/CH4/EX4.4/ex4_4.sce#S##64203
+4#Single Sideband Communications#4.2#example2#ex4_2.sce#1595/CH4/EX4.2/ex4_2.sce#S##64202
+4#Single Sideband Communications#4.1#example1#ex4_1.sce#1595/CH4/EX4.1/ex4_1.sce#S##64201
+3#Amplitude Modulation Reception#3.3#example3#ex3_3.sce#1595/CH3/EX3.3/ex3_3.sce#S##64200
+3#Amplitude Modulation Reception#3.2#example2#ex3_2.sce#1595/CH3/EX3.2/ex3_2.sce#S##64199
+3#Amplitude Modulation Reception#3.1#example1#ex3_1.sce#1595/CH3/EX3.1/ex3_1.sce#S##64198
+2#Amplitude Modulation Transmission #2.9#example9#ex2_9.sce#1595/CH2/EX2.9/ex2_9.sce#S##64197
+2#Amplitude Modulation Transmission #2.8#example8#ex2_8.sce#1595/CH2/EX2.8/ex2_8.sce#S##64196
+2#Amplitude Modulation Transmission #2.7#example7#ex2_7.sce#1595/CH2/EX2.7/ex2_7.sce#S##64195
+2#Amplitude Modulation Transmission #2.6#example6#ex2_6.sce#1595/CH2/EX2.6/ex2_6.sce#S##64194
+2#Amplitude Modulation Transmission #2.5#example5#ex2_5.sce#1595/CH2/EX2.5/ex2_5.sce#S##64193
+2#Amplitude Modulation Transmission #2.4#example4#ex2_4.sce#1595/CH2/EX2.4/ex2_4.sce#S##64192
+2#Amplitude Modulation Transmission #2.3#example3#ex2_3.sce#1595/CH2/EX2.3/ex2_3.sce#S##64191
+2#Amplitude Modulation Transmission #2.2#example2#ex2_2.sce#1595/CH2/EX2.2/ex2_2.sce#S##64190
+2#Amplitude Modulation Transmission #2.1#example1#ex2_1.sce#1595/CH2/EX2.1/ex2_1.sce#S##64189
+1#Introductory topics#1.9#example9#ex1_9.sce#1595/CH1/EX1.9/ex1_9.sce#S##64183
+1#Introductory topics#1.8#example8#ex1_8.sce#1595/CH1/EX1.8/ex1_8.sce#S##64182
+1#Introductory topics#1.7#example7#ex1_7.sce#1595/CH1/EX1.7/ex1_7.sce#S##64181
+1#Introductory topics#1.6#example6#ex1_6.sce#1595/CH1/EX1.6/ex1_6.sce#S##64180
+1#Introductory topics#1.5#example5#ex1_5.sce#1595/CH1/EX1.5/ex1_5.sce#S##64179
+1#Introductory topics#1.4#example4#ex1_4.sce#1595/CH1/EX1.4/ex1_4.sce#S##64178
+1#Introductory topics#1.3#example3#ex1_3.sce#1595/CH1/EX1.3/ex1_3.sce#S##64177
+1#Introductory topics#1.2#example2#ex1_2.sce#1595/CH1/EX1.2/ex1_2.sce#S##64176
+1#Introductory topics#1.14#example14#ex1_14.sce#1595/CH1/EX1.14/ex1_14.sce#S##64188
+1#Introductory topics#1.13#example13#ex1_13.sce#1595/CH1/EX1.13/ex1_13.sce#S##64187
+1#Introductory topics#1.12#example12#ex1_12.sce#1595/CH1/EX1.12/ex1_12.sce#S##64186
+1#Introductory topics#1.11#example11#ex1_11.sce#1595/CH1/EX1.11/ex1_11.sce#S##64185
+1#Introductory topics#1.10#example10#ex1_10.sce#1595/CH1/EX1.10/ex1_10.sce#S##64184
+1#Introductory topics#1.1#example1#ex1_1.sce#1595/CH1/EX1.1/ex1_1.sce#S##64175

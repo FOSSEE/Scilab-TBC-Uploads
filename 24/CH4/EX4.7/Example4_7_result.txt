@@ -1,0 +1,5 @@
+**Sample Problem 4-7a**
+The angle at which the ball be fired to hit the ship is 27.352145 degrees or 62.647855
+
+**Sample Problem 4-7b**
+The maximum possible range is 686.122449 m 

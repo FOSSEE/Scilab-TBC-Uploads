@@ -1,0 +1,16 @@
+(a)n-ratio=   
+ 
+    7.9583333  
+ 
+ (b)load current referred to high voltage side (in A)=   
+ 
+    13.089005  
+ 
+ (c)load impedance on low voltage side for full load (in ohm)=   
+ 
+    2.304  
+ 
+ (d)impedance referred to high voltage side(in ohm)=   
+ 
+    145.924  
+ 

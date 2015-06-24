@@ -1,0 +1,9 @@
+ 
+ Dipole moment of HF in fully ionic state (in Cm) =    
+ 
+    1.470D-29  
+ 
+ Percentage ionic character   
+ 
+    43.358038  
+ 

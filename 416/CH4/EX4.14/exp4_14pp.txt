@@ -1,0 +1,14 @@
+ 
+ example 4 14   
+ 
+ (a)   
+ line current of capacitor bank 2.9A 
+ load current 32-24iA 
+ total line current 32-21.1jA 
+ overall p.f 0.835 
+ new line loss to old line loss  0.697
+ phase current of capacitor bank 5.027A
+ line current of capacitor bank 8.7A
+ total current 32-15.3jA =35.47A at an angle -25.54
+ power factor 0.9 
+ ratio of new line loss to original loss 0.786 

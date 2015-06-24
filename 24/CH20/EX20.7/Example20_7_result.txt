@@ -1,0 +1,8 @@
+**Sample Problem 20-7a**
+The heat added to the bubble is equal to 2077.500000J
+
+**Sample Problem 20-7b**
+The change in internal energy is equal to 1246.500000J
+
+**Sample Problem 20-7c**
+The work done by the system is equal to 831.000000J 

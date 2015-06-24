@@ -1,0 +1,14 @@
+Input power to induction motor = 43.88 kW 
+Lagging kVAR taken by induction motor = 32.91 kW 
+
+Input power to synchronous motor = 20.72 kW 
+Leading kVAR taken by synchronous motor = 10.04 kW 
+
+Net lagging kVAR = 22.88 
+Total active power = 74.60 
+Total kVA = 78.03 
+Annual demand charges = Rs. 4681.97 
+Energy consumed per year = 149209.15 kWh 
+Annual energy charges = Rs. 7460.46 
+Total annual bill = Rs. 12142.43 
+

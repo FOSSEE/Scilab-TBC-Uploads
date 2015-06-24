@@ -1,0 +1,3 @@
+﻿ Polarising angle for water to glass = 49.184916 degree,
+ Polarising angle for glass to water = 40.815084 degree
+ So polarising angle is greater for a beam incident from water to glass

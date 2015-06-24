@@ -1,0 +1,10 @@
+# PROBLEM 4 # 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+
+ Numerical aperture = 0.390512,
+ Acceptance angle is 22.986391 degree.
+ No. of reflections per meter is 5206

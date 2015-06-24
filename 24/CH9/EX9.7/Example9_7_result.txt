@@ -1,0 +1,2 @@
+**Sample Problem 9-7**
+The velocity of A is 3m/s & velocity of B is 9.641814m/s after the collision in the given directions 

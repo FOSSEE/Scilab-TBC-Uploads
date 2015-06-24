@@ -1,0 +1,7 @@
+I = 40.96 A 
+Voltage drop along BCD = 0.7836 V 
+Thevenin voltage E0 = 0.7836 V 
+Ro = 0.030 ohms 
+(i) Current in interconnector = 9.76 A 
+(ii) Voltage drop along interconnector = 0.49 V 
+

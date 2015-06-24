@@ -1,0 +1,33 @@
+ 
+
+
+IA1=13.96 @ 41 deg A
+IA2=4.66 @ -111 deg A
+IA0=0.00 A
+
+IB1=13.96 @ -78 deg A
+IB2=4.66 @ 8 deg A
+IB0=0.00 A
+
+IC1=13.96 @ 161 deg A
+IC2=4.66 @ 128 deg A
+IC0=0.00 A
+
+IAB=6.01 @ 86 deg A
+IBC=10.54 @ -41 deg A
+ICA=8.33 @ 173 deg A
+
+IAB1=8.06 @ 71 deg A
+IAB2=2.69 @ -141 deg A
+IAB0=0.00 A
+
+IBC1=8.06 @ -48 deg A
+IBC2=2.69 @ -21 deg A
+IBC0=0.00 A
+
+ICA1=8.06 @ -168 deg A
+ICA2=2.69 @ 98 deg A
+ICA0=0.00 A
+
+ 
+

@@ -1,0 +1,2 @@
+﻿ No. of half period zone in first case = 13 
+ no. of half period zone in second case = 1333 

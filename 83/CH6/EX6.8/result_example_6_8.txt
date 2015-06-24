@@ -1,0 +1,42 @@
+ 
+-->exec('/home/samyak/scilab_working_directory/chapter_6/ex_8/example_6_8.sce', -1)
+
+case(a) Decoupled NR method :
+
+delta_Angle_V2= 
+  - 0.0019022  
+
+delta_Angle_V3= 
+  - 0.0634713  
+
+Q2= 
+  - 1.1119998  
+
+delta_Q2= 
+    2.1119998  
+
+delta_V2=0.086
+
+V2=1.086 pu
+
+Q3= 
+  - 0.9203795  
+
+
+
+case(b) FDLF method :
+
+delta_Angle_V2= 
+  - 0.0027900  
+
+delta_Angle_V3= 
+  - 0.0676290  
+
+delta_V2=0.090
+
+V2=1.090 pu
+
+Q3= 
+  - 0.9890485  
+ 
+-->diary(0);

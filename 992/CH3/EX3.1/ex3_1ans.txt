@@ -1,0 +1,5 @@
+ 
+ 1)deviation = 4.800000 KHz and modulation index = 9.600000
+ 2)deviation = 14.400000 KHz and modulation index = 28.800000
+ 3)deviation = 20.000000 KHz and modulation index = 40.000000 
+ Execution done.

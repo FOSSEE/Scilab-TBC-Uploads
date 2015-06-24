@@ -1,0 +1,1 @@
+Speed of the electron is 2.828427e+08 meter/sec.

@@ -1,0 +1,3 @@
+ 
+ Example 6.1
+ Required upsetting force is 8.35e+07 N 

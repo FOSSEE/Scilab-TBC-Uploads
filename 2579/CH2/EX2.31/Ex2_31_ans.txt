@@ -1,0 +1,2 @@
+ The gain = 28263.254566 
+ The Beamwidth = 1.054614 A 

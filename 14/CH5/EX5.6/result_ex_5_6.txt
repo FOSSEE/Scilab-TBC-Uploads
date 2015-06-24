@@ -1,0 +1,23 @@
+
+
+
+Case(1) Reflected and Receiving End voltages When Zr=90ohm
+At time		V+		Vr		V-
+0		0-->		0-->		0-->
+1T		120-->		180-->		60-->
+2T		-60-->		90-->		-30-->
+3T		30-->		135-->		15-->
+4T		-15-->		112-->		-7-->
+5T		7-->		123-->		3-->
+
+
+Case(2) Reflected and Receiving End voltages When Zr=10ohm
+At time		V+		Vr		V-
+0		0-->		0-->		0-->
+1T		120-->		60-->		-60-->
+2T		60-->		90-->		-30-->
+3T		30-->		105-->		-15-->
+4T		15-->		112-->		-7-->
+5T		7-->		116-->		-3-->
+ 
+

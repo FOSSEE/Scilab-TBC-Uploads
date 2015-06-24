@@ -1,0 +1,117 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example4.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            1   
+ 
+ Chapter Title                         :                                             GETTING STARTED   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 4   :  Show the usage of options in commands by 
+		taking long listing(or detailed file listing)) ls -l as an example 
+ *************************************************************************   
+ 
+ Answer     :     
+Continue  ?? ? ...The details of files  in the current directory are 
+ ans  =
+ 
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!    Directory: C:\Users\Pranav Bhat\Documents\TCPMUM\Chapter2                    !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!Mode                LastWriteTime     Length Name                                !
+!                                                                                 !
+!----                -------------     ------ ----                                !
+!                                                                                 !
+!-a---        29-05-2013     10:25       1557 Example1.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example10.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example11.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example12.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example13.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example14.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example15.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example16.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example17.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example18.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example19.sci                       !
+!                                                                                 !
+!-a---        29-05-2013     11:07       3454 Example2.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example20.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example21.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example22.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example23.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example24.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example25.sci                       !
+!                                                                                 !
+!-a---        29-05-2013     11:15       1754 Example3.sci                        !
+!                                                                                 !
+!-a---        29-05-2013     11:20       1700 Example4.sci                        !
+!                                                                                 !
+!-a---        29-05-2013     11:43       1855 Example5.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:50       1129 Example6.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:50       1130 Example7.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example8.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example9.sci                        !
+!                                                                                 !
+!-a---        29-05-2013     16:36       1448 Result1.pdf                         !
+!                                                                                 !
+!-a---        29-05-2013     16:35       1448 Result1.txt                         !
+!                                                                                 !
+!-a---        29-05-2013     16:40       1661 Result2.pdf                         !
+!                                                                                 !
+!-a---        29-05-2013     16:39       1661 Result2.txt                         !
+!                                                                                 !
+!-a---        29-05-2013     16:43       1648 Result3.pdf                         !
+!                                                                                 !
+!-a---        29-05-2013     16:42       1648 Result3.txt                         !
+!                                                                                 !
+!-a---        29-05-2013     16:45       1396 Result4.txt                         !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+ 
+ ****************************************************************************   
+ 
+-->diary("Result4.txt","close")

@@ -1,0 +1,13 @@
+Active component of Im = 22.19 A 
+
+Active component of I = 0.9*I A 
+
+Reactive component of Im = 22.64 A 
+
+Reactive component of I = 10.75 A 
+
+Current through capacitor = 11.89 A 
+
+C = 94.63 uF 
+
+

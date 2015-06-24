@@ -1,0 +1,2 @@
+The ratio of intensity with central maximum is 0.3363
+The Distance of the point on the screen from center is 0.000147mts 

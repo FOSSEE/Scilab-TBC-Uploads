@@ -1,0 +1,152 @@
+13#Microwave Communication link Basic Design Considerations#13.9#Finding improvement in outrage time#Ex13_9.sce#2219/CH13/EX13.9/Ex13_9.sce#S##91889
+13#Microwave Communication link Basic Design Considerations#13.8#Finding change in value of unavailability Factor#Ex13_8.sce#2219/CH13/EX13.8/Ex13_8.sce#S##91886
+13#Microwave Communication link Basic Design Considerations#13.7#Finding Outrage Time#Ex13_7.sce#2219/CH13/EX13.7/Ex13_7.sce#S##91882
+13#Microwave Communication link Basic Design Considerations#13.6#Finding unavailability factor#Ex13_6.sce#2219/CH13/EX13.6/Ex13_6.sce#S##91880
+13#Microwave Communication link Basic Design Considerations#13.5#Finding improvement in probability of fade margin#Ex13_5.sce#2219/CH13/EX13.5/Ex13_5.sce#S##91876
+13#Microwave Communication link Basic Design Considerations#13.4#Finding outrage time#Ex13_4.sce#2219/CH13/EX13.4/Ex13_4.sce#S##91872
+13#Microwave Communication link Basic Design Considerations#13.3#Finding whether first fresnal zone pass without any obstruction#Ex13_3.sce#2219/CH13/EX13.3/Ex13_3.sce#S##91869
+13#Microwave Communication link Basic Design Considerations#13.2#Finding max tolerable obstacle height#Ex13_2.sce#2219/CH13/EX13.2/Ex13_2.sce#S##91866
+13#Microwave Communication link Basic Design Considerations#13.13#Finding improvement in MTBF#Ex13_13.sce#2219/CH13/EX13.13/Ex13_13.sce#S##91900
+13#Microwave Communication link Basic Design Considerations#13.12#Finding outrage time#Ex13_12.sce#2219/CH13/EX13.12/Ex13_12.sce#S##91897
+13#Microwave Communication link Basic Design Considerations#13.11#proof#Ex13_11.sce#2219/CH13/EX13.11/Ex13_11.sce#S##91894
+13#Microwave Communication link Basic Design Considerations#13.10#Finding composite Fade margin#Ex13_10.sce#2219/CH13/EX13.10/Ex13_10.sce#S##91892
+13#Microwave Communication link Basic Design Considerations#13.1#Finding path length #Ex13_1.sce#2219/CH13/EX13.1/Ex13_1.sce#S##91861
+11#Satellites and Satellite Communications#11.9#Finding apogee perigee and orbit eccentricity#Ex11_9.sce#2219/CH11/EX11.9/Ex11_9.sce#S##91831
+11#Satellites and Satellite Communications#11.8#Finding semi major axis#Ex11_8.sce#2219/CH11/EX11.8/Ex11_8.sce#S##91828
+11#Satellites and Satellite Communications#11.7#Finding centrifugal force#Ex11_7.sce#2219/CH11/EX11.7/Ex11_7.sce#S##91824
+11#Satellites and Satellite Communications#11.6#Finding total time from first day of eclipse to last day of eclipse#Ex11_6.sce#2219/CH11/EX11.6/Ex11_6.sce#S##91823
+11#Satellites and Satellite Communications#11.5#Finding maximum shadow angle and max daily eclipse duration#Ex11_5.sce#2219/CH11/EX11.5/Ex11_5.sce#S##91820
+11#Satellites and Satellite Communications#11.4#Finding magnitude of velocity impulse#Ex11_4.sce#2219/CH11/EX11.4/Ex11_4.sce#S##91818
+11#Satellites and Satellite Communications#11.3#Finding relationship  between orbital periods#Ex11_3.sce#2219/CH11/EX11.3/Ex11_3.sce#S##91815
+11#Satellites and Satellite Communications#11.2#Finding orbital eccentricity#Ex11_2.sce#2219/CH11/EX11.2/Ex11_2.sce#S##91813
+11#Satellites and Satellite Communications#11.18#Finding maximum coverage angle and max slant range#Ex11_18.sce#2219/CH11/EX11.18/Ex11_18.sce#S##91856
+11#Satellites and Satellite Communications#11.17#Finding angle of inclination#Ex11_17.sce#2219/CH11/EX11.17/Ex11_17.sce#S##91853
+11#Satellites and Satellite Communications#11.16#Finding max deviation in latitude and longitude#Ex11_16.sce#2219/CH11/EX11.16/Ex11_16.sce#S##91849
+11#Satellites and Satellite Communications#11.15#Finding apogee and perigee distances#Ex11_15.sce#2219/CH11/EX11.15/Ex11_15.sce#S##91846
+11#Satellites and Satellite Communications#11.14#Finding target eccentricity#Ex11_14.sce#2219/CH11/EX11.14/Ex11_14.sce#S##91843
+11#Satellites and Satellite Communications#11.13#Finding orbital time period velocity at apogee and perigee points#Ex11_13.sce#2219/CH11/EX11.13/Ex11_13.sce#S##91841
+11#Satellites and Satellite Communications#11.12#Finding orbital period#Ex11_12.sce#2219/CH11/EX11.12/Ex11_12.sce#S##91838
+11#Satellites and Satellite Communications#11.11#Finding escape velocity#Ex11_11.sce#2219/CH11/EX11.11/Ex11_11.sce#S##91835
+11#Satellites and Satellite Communications#11.10#Finding apogee and perigee distances#Ex11_10.sce#2219/CH11/EX11.10/Ex11_10.sce#S##91833
+11#Satellites and Satellite Communications#11.1#Finding orbital velocity#Ex11_1.sce#2219/CH11/EX11.1/Ex11_1.sce#S##91812
+10#Radar Systems#10.9#Finding lowest blind speed#Ex10_9.sce#2219/CH10/EX10.9/Ex10_9.sce#S##91785
+10#Radar Systems#10.5#Finding radial velocity#Ex10_5.sce#2219/CH10/EX10.5/Ex10_5.sce#S##91784
+10#Radar Systems#10.4#Finding Range and radial velocity#Ex10_4.sce#2219/CH10/EX10.4/Ex10_4.sce#S##91783
+10#Radar Systems#10.3#Finding error in doppler shift measurement#Ex10_3.sce#2219/CH10/EX10.3/Ex10_3.sce#S##91782
+10#Radar Systems#10.2#Finding Target Range and Radial velocity#Ex10_2.sce#2219/CH10/EX10.2/Ex10_2.sce#S##91781
+10#Radar Systems#10.18#Finding Range Resolution#Ex10_18.sce#2219/CH10/EX10.18/Ex10_18.sce#S##91809
+10#Radar Systems#10.17#Finding doppler shift#Ex10_17.sce#2219/CH10/EX10.17/Ex10_17.sce#S##91805
+10#Radar Systems#10.16#Finding round trip time#Ex10_16.sce#2219/CH10/EX10.16/Ex10_16.sce#S##91802
+10#Radar Systems#10.15#Finding synthesised aperture and cross range resolution#Ex10_15.sce#2219/CH10/EX10.15/Ex10_15.sce#S##91800
+10#Radar Systems#10.14#Finding compression ratio and width of compressed pulse#Ex10_14.sce#2219/CH10/EX10.14/Ex10_14.sce#S##91797
+10#Radar Systems#10.13#Estimating true range#Ex10_13.sce#2219/CH10/EX10.13/Ex10_13.sce#S##91793
+10#Radar Systems#10.12#Finding true range#Ex10_12.sce#2219/CH10/EX10.12/Ex10_12.sce#S##91788
+10#Radar Systems#10.11#Finding Apparent Range#Ex10_11.sce#2219/CH10/EX10.11/Ex10_11.sce#S##91787
+10#Radar Systems#10.10#Finding ratio of operating frequencies#Ex10_10.sce#2219/CH10/EX10.10/Ex10_10.sce#S##91786
+10#Radar Systems#10.1#Finding Target range#Ex10_1.sce#2219/CH10/EX10.1/Ex10_1.sce#S##91780
+9#Radar Fundamentals#9.9#Finding centre of spectrum bandwidth and compressed pulse width#Ex9_9.sce#2219/CH9/EX9.9/Ex9_9.sce#S##91674
+9#Radar Fundamentals#9.8#Finding center frequency#Ex9_8.sce#2219/CH9/EX9.8/Ex9_8.sce#S##91673
+9#Radar Fundamentals#9.7#Significance of denominator#Ex9_7.sce#2219/CH9/EX9.7/Ex9_7.sce#S##91672
+9#Radar Fundamentals#9.6#Finding min look time#Ex9_6.sce#2219/CH9/EX9.6/Ex9_6.sce#S##91671
+9#Radar Fundamentals#9.5#Determining max beamwidth #Ex9_5.sce#2219/CH9/EX9.5/Ex9_5.sce#S##91670
+9#Radar Fundamentals#9.4#Determining Range Resolution#Ex9_4.sce#2219/CH9/EX9.4/Ex9_4.sce#S##91669
+9#Radar Fundamentals#9.3#Determining whether radar is capable of measuring certain radial velocity#Ex9_3.sce#2219/CH9/EX9.3/Ex9_3.sce#S##91668
+9#Radar Fundamentals#9.2#Finding Rx signal frequency#Ex9_2.sce#2219/CH9/EX9.2/Ex9_2.sce#S##91667
+9#Radar Fundamentals#9.17#Finding azimuth coordinates#Ex9_17.sce#2219/CH9/EX9.17/Ex9_17.sce#S##91682
+9#Radar Fundamentals#9.16#Finding noise power#Ex9_16.sce#2219/CH9/EX9.16/Ex9_16.sce#S##91681
+9#Radar Fundamentals#9.15#Determining ratio of noise powers#Ex9_15.sce#2219/CH9/EX9.15/Ex9_15.sce#S##91680
+9#Radar Fundamentals#9.14#Finding Equivalent noise temperature#Ex9_14.sce#2219/CH9/EX9.14/Ex9_14.sce#S##91679
+9#Radar Fundamentals#9.13#finding duty cycle correction factor#Ex9_13.sce#2219/CH9/EX9.13/Ex9_13.sce#S##91678
+9#Radar Fundamentals#9.12#Finding average power and look energy#Ex9_12.sce#2219/CH9/EX9.12/Ex9_12.sce#S##91677
+9#Radar Fundamentals#9.11#Finding matched bandwidth and center frequency of spectrum#Ex9_11.sce#2219/CH9/EX9.11/Ex9_11.sce#S##91676
+9#Radar Fundamentals#9.10#Finding Bandwidth and range resolution#Ex9_10.sce#2219/CH9/EX9.10/Ex9_10.sce#S##91675
+9#Radar Fundamentals#9.1#Finding max unambiguous range of radar #Ex9_1.sce#2219/CH9/EX9.1/Ex9_1.sce#S##91666
+7#Antennas#7.9#Finding beamwidth#Ex7_9.sce#2219/CH7/EX7.9/Ex7_9.sce#S##91655
+7#Antennas#7.8#Finding Beamwidth effective aperture and gain#Ex7_8.sce#2219/CH7/EX7.8/Ex7_8.sce#S##91654
+7#Antennas#7.7#Finding radiation resistance#Ex7_7.sce#2219/CH7/EX7.7/Ex7_7.sce#S##91653
+7#Antennas#7.6#Finding beamwidth effective aperture and gain#Ex7_6.sce#2219/CH7/EX7.6/Ex7_6.sce#S##91652
+7#Antennas#7.5#finding Directivity #Ex7_5.sce#2219/CH7/EX7.5/Ex7_5.sce#S##91651
+7#Antennas#7.4#Finding effective aperture of antenna#Ex7_4.sce#2219/CH7/EX7.4/Ex7_4.sce#S##91650
+7#Antennas#7.3#Finding Aperture and gain of antenna#Ex7_3.sce#2219/CH7/EX7.3/Ex7_3.sce#S##91649
+7#Antennas#7.2#Finding Directivity#Ex7_2.sce#2219/CH7/EX7.2/Ex7_2.sce#S##91648
+7#Antennas#7.19#Finding beam position#Ex7_19.sce#2219/CH7/EX7.19/Ex7_19.sce#S##91665
+7#Antennas#7.18#Finding Phase angles#Ex7_18.sce#2219/CH7/EX7.18/Ex7_18.sce#S##91664
+7#Antennas#7.17#Finding desired phases of all elements#Ex7_17.sce#2219/CH7/EX7.17/Ex7_17.sce#S##91663
+7#Antennas#7.16#Finding distance of the feed#Ex7_16.sce#2219/CH7/EX7.16/Ex7_16.sce#S##91662
+7#Antennas#7.15#Finding focal length of antenna#Ex7_15.sce#2219/CH7/EX7.15/Ex7_15.sce#S##91661
+7#Antennas#7.14#finding beamwidth#Ex7_14.sce#2219/CH7/EX7.14/Ex7_14.sce#S##91660
+7#Antennas#7.13#Designing yagi antenna#Ex7_13.sce#2219/CH7/EX7.13/Ex7_13.sce#S##91659
+7#Antennas#7.12#Finding input impedance#Ex7_12.sce#2219/CH7/EX7.12/Ex7_12.sce#S##91658
+7#Antennas#7.11#Finding length of halfwave dipole#Ex7_11.sce#2219/CH7/EX7.11/Ex7_11.sce#S##91657
+7#Antennas#7.10#Finding Received signal strength#Ex7_10.sce#2219/CH7/EX7.10/Ex7_10.sce#S##91656
+7#Antennas#7.1#Calculating Q#Ex7_1.sce#2219/CH7/EX7.1/Ex7_1.sce#S##91647
+6#Semiconductor Microwave Devices and Integrated Circuits#6.9#Finding length ogf GUN device#Ex6_9.sce#2219/CH6/EX6.9/Ex6_9.sce#S##91635
+6#Semiconductor Microwave Devices and Integrated Circuits#6.8#Finding dielectric relaxation time#Ex6_8.sce#2219/CH6/EX6.8/Ex6_8.sce#S##91634
+6#Semiconductor Microwave Devices and Integrated Circuits#6.7#Proof#Ex6_7.sce#2219/CH6/EX6.7/Ex6_7.sce#S##91633
+6#Semiconductor Microwave Devices and Integrated Circuits#6.6#Finding doping concentration#Ex6_6.sce#2219/CH6/EX6.6/Ex6_6.sce#S##91632
+6#Semiconductor Microwave Devices and Integrated Circuits#6.5#Finding length of active layer#Ex6_5.sce#2219/CH6/EX6.5/Ex6_5.sce#S##91631
+6#Semiconductor Microwave Devices and Integrated Circuits#6.4#finding unity gain cutoff frequency#Ex6_4.sce#2219/CH6/EX6.4/Ex6_4.sce#S##91630
+6#Semiconductor Microwave Devices and Integrated Circuits#6.3#Finding operational frequency#Ex6_3.sce#2219/CH6/EX6.3/Ex6_3.sce#S##91628
+6#Semiconductor Microwave Devices and Integrated Circuits#6.20#Semiconductor Microwave Devices and Integrated Circuits#Ex6_20.sce#2219/CH6/EX6.20/Ex6_20.sce#S##91646
+6#Semiconductor Microwave Devices and Integrated Circuits#6.2#Finding max negative differential conductance#Ex6_2.sce#2219/CH6/EX6.2/Ex6_2.sce#S##91613
+6#Semiconductor Microwave Devices and Integrated Circuits#6.19#Finding capacitance#Ex6_19.sce#2219/CH6/EX6.19/Ex6_19.sce#S##91645
+6#Semiconductor Microwave Devices and Integrated Circuits#6.18#Finding sheet resistivity and Resistance#Ex6_18.sce#2219/CH6/EX6.18/Ex6_18.sce#S##91644
+6#Semiconductor Microwave Devices and Integrated Circuits#6.17#Finding resistance#Ex6_17.sce#2219/CH6/EX6.17/Ex6_17.sce#S##91643
+6#Semiconductor Microwave Devices and Integrated Circuits#6.16#Finding output laser wavelength#Ex6_16.sce#2219/CH6/EX6.16/Ex6_16.sce#S##96898
+6#Semiconductor Microwave Devices and Integrated Circuits#6.15#Finding power gain#Ex6_15.sce#2219/CH6/EX6.15/Ex6_15.sce#S##91641
+6#Semiconductor Microwave Devices and Integrated Circuits#6.14#Finding frequency#Ex6_14.sce#2219/CH6/EX6.14/Ex6_14.sce#S##91640
+6#Semiconductor Microwave Devices and Integrated Circuits#6.13#Finding dielectric relaxation time#Ex6_13.sce#2219/CH6/EX6.13/Ex6_13.sce#S##91639
+6#Semiconductor Microwave Devices and Integrated Circuits#6.12#Finding Hfe#Ex6_12.sce#2219/CH6/EX6.12/Ex6_12.sce#S##91638
+6#Semiconductor Microwave Devices and Integrated Circuits#6.11#Finding electric field and punch through voltage#Ex6_11.sce#2219/CH6/EX6.11/Ex6_11.sce#S##91637
+6#Semiconductor Microwave Devices and Integrated Circuits#6.10#Finding mobility values#Ex6_10.sce#2219/CH6/EX6.10/Ex6_10.sce#S##91636
+6#Semiconductor Microwave Devices and Integrated Circuits#6.1#proof#Ex6_1.sce#2219/CH6/EX6.1/Ex6_1.sce#S##91610
+5#Microwave Tubes#5.8#Finding anode voltage of TWT#Ex5_8.sce#2219/CH5/EX5.8/Ex5_8.sce#S##91606
+5#Microwave Tubes#5.7#Finding peak amplitude#Ex5_7.sce#2219/CH5/EX5.7/Ex5_7.sce#S##91603
+5#Microwave Tubes#5.6#Finding phase difference and number possible useful modes of resonance#Ex5_6.sce#2219/CH5/EX5.6/Ex5_6.sce#S##91602
+5#Microwave Tubes#5.5#Finding no of cycles#Ex5_5.sce#2219/CH5/EX5.5/Ex5_5.sce#S##91597
+5#Microwave Tubes#5.4#Finding electronic efficiency and output power#Ex5_4.sce#2219/CH5/EX5.4/Ex5_4.sce#S##91595
+5#Microwave Tubes#5.3#Finding percentage change in frequency#Ex5_3.sce#2219/CH5/EX5.3/Ex5_3.sce#S##91593
+5#Microwave Tubes#5.2#Finding change in frequency#Ex5_2.sce#2219/CH5/EX5.2/Ex5_2.sce#S##91591
+5#Microwave Tubes#5.1#Finding transit time of electron in repeller space#Ex5_1.sce#2219/CH5/EX5.1/Ex5_1.sce#S##91585
+4#Microwave Components#4.9#Finding length of cavity resonator#Ex4_9.sce#2219/CH4/EX4.9/Ex4_9.sce#S##91511
+4#Microwave Components#4.8#Finding length of cavity resonator#Ex4_8.sce#2219/CH4/EX4.8/Ex4_8.sce#S##91510
+4#Microwave Components#4.7#Finding resonant frequency#Ex4_7.sce#2219/CH4/EX4.7/Ex4_7.sce#S##91509
+4#Microwave Components#4.6#Finding lowest resonant frequency#Ex4_6.sce#2219/CH4/EX4.6/Ex4_6.sce#S##91508
+4#Microwave Components#4.5#Finding directivity#Ex4_5.sce#2219/CH4/EX4.5/Ex4_5.sce#S##91507
+4#Microwave Components#4.4#Finding power available at output port#Ex4_4.sce#2219/CH4/EX4.4/Ex4_4.sce#S##91506
+4#Microwave Components#4.3#Finding directivity power at isolated port#Ex4_3.sce#2219/CH4/EX4.3/Ex4_3.sce#S##91505
+4#Microwave Components#4.2#Finding power available at the straight through port output#Ex4_2.sce#2219/CH4/EX4.2/Ex4_2.sce#S##91504
+4#Microwave Components#4.11#Finding resonant frequency#Ex4_11.sce#2219/CH4/EX4.11/Ex4_11.sce#S##91513
+4#Microwave Components#4.10#Finding length of resonator#Ex4_10.sce#2219/CH4/EX4.10/Ex4_10.sce#S##91512
+4#Microwave Components#4.1#Finding power at coupled port#Ex4_1.sce#2219/CH4/EX4.1/Ex4_1.sce#S##91503
+3#Transmission Media Transmission lines and Waveguides#3.9#Finding magnitude of reflection coefficient and frequency of operation#Ex3_9.sce#2219/CH3/EX3.9/Ex3_9.sce#S##91490
+3#Transmission Media Transmission lines and Waveguides#3.8#Finding expressions for Vin and Vl#Ex3_8.sce#2219/CH3/EX3.8/Ex3_8.sce#S##91487
+3#Transmission Media Transmission lines and Waveguides#3.7#Finding input impedance#Ex3_7.sce#2219/CH3/EX3.7/Ex3_7.sce#S##91483
+3#Transmission Media Transmission lines and Waveguides#3.6#Finding length of line and characteristic impedance #Ex3_6.sce#2219/CH3/EX3.6/Ex3_6.sce#S##91479
+3#Transmission Media Transmission lines and Waveguides#3.5#Finding load resistance reflection coefficient and power#Ex3_5.sce#2219/CH3/EX3.5/Ex3_5.sce#S##91474
+3#Transmission Media Transmission lines and Waveguides#3.4#Finding reflection coefficient and characteristic impedance#Ex3_4.sce#2219/CH3/EX3.4/Ex3_4.sce#S##91468
+3#Transmission Media Transmission lines and Waveguides#3.3#Finding min length of cable#Ex3_3.sce#2219/CH3/EX3.3/Ex3_3.sce#S##91462
+3#Transmission Media Transmission lines and Waveguides#3.22#computing cutoff freq phase velocity and guided wavelength#Ex3_22.sce#2219/CH3/EX3.22/Ex3_22.sce#S##91502
+3#Transmission Media Transmission lines and Waveguides#3.21#computing guide wavelength phase shift constant and phase velocity#Ex3_21.sce#2219/CH3/EX3.21/Ex3_21.sce#S##91501
+3#Transmission Media Transmission lines and Waveguides#3.20#Finding frequency of wave#Ex3_20.sce#2219/CH3/EX3.20/Ex3_20.sce#S##91500
+3#Transmission Media Transmission lines and Waveguides#3.2#Finding reflection coefficient and SWR#Ex3_2.sce#2219/CH3/EX3.2/Ex3_2.sce#S##91458
+3#Transmission Media Transmission lines and Waveguides#3.19#Finding all the possible modes that will propagate in a waveguide#Ex3_19.sce#2219/CH3/EX3.19/Ex3_19.sce#S##91499
+3#Transmission Media Transmission lines and Waveguides#3.18#proof#Ex3_18.sce#2219/CH3/EX3.18/Ex3_18.sce#S##91498
+3#Transmission Media Transmission lines and Waveguides#3.16#Finding group and phase velocity#Ex3_16.sce#2219/CH3/EX3.16/Ex3_16.sce#S##91497
+3#Transmission Media Transmission lines and Waveguides#3.15#Finding frequency range#Ex3_15.sce#2219/CH3/EX3.15/Ex3_15.sce#S##91496
+3#Transmission Media Transmission lines and Waveguides#3.14#Finding longest cutoff wavelength#Ex3_14.sce#2219/CH3/EX3.14/Ex3_14.sce#S##91495
+3#Transmission Media Transmission lines and Waveguides#3.13#Showing certain frequency does not pass through waveguide#Ex3_13.sce#2219/CH3/EX3.13/Ex3_13.sce#S##91494
+3#Transmission Media Transmission lines and Waveguides#3.12#Finding min frequency#Ex3_12.sce#2219/CH3/EX3.12/Ex3_12.sce#S##91493
+3#Transmission Media Transmission lines and Waveguides#3.11#showing certain freq passing through waveguide#Ex3_11.sce#2219/CH3/EX3.11/Ex3_11.sce#S##91492
+3#Transmission Media Transmission lines and Waveguides#3.10#Finding per unit inductance Zo phase shift constant and reflection coefficient#Ex3_10.sce#2219/CH3/EX3.10/Ex3_10.sce#S##91491
+2#Maxwells Equations#2.9#Finding electric and magnetic field intensity#Ex2_9.sce#2219/CH2/EX2.9/Ex2_9.sce#S##91438
+2#Maxwells Equations#2.8#Finding amplitude of displacement current density#Ex2_8.sce#2219/CH2/EX2.8/Ex2_8.sce#S##91434
+2#Maxwells Equations#2.7#Finding Amplitude of Displacement current density#Ex2_7.sce#2219/CH2/EX2.7/Ex2_7.sce#S##91427
+2#Maxwells Equations#2.2#finding expressions of B and H#Ex2_2.sce#2219/CH2/EX2.2/Ex2_2.sce#S##91425
+2#Maxwells Equations#2.14#Finding amplitude of displacement current density#Ex2_14.sce#2219/CH2/EX2.14/Ex2_14.sce#S##91452
+2#Maxwells Equations#2.13#Finding w and Hm#Ex2_13.sce#2219/CH2/EX2.13/Ex2_13.sce#S##91448
+2#Maxwells Equations#2.12#Finding beta and Hm#Ex2_12.sce#2219/CH2/EX2.12/Ex2_12.sce#S##91445
+2#Maxwells Equations#2.10#Finding amplitude of displacement current density#Ex2_10.sce#2219/CH2/EX2.10/Ex2_10.sce#S##91442
+2#Maxwells Equations#2.1#Finding magnetic field intensity#Ex2_1.sce#2219/CH2/EX2.1/Ex2_1.sce#S##91424
+1#Introduction To Microwaves#1.2#Finding height of antenna#Ex1_2.sce#2219/CH1/EX1.2/Ex1_2.sce#S##91419
+1#Introduction To Microwaves#1.1#Finding dielectric constant of medium#Ex1_1.sce#2219/CH1/EX1.1/Ex1_1.sce#S##91416

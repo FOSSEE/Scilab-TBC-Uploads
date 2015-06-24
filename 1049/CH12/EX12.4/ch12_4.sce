@@ -1,0 +1,27 @@
+clear;
+clc;
+V_s=400;
+V_m=sqrt(2)*V_s;
+V_f=2*V_m/%pi;
+r_f=200;
+I_f=V_f/r_f;
+T_e=85;
+K_a=.8;
+I_a=T_e/(I_f*K_a);    printf("rated armature current=%.2f A",I_a);
+n_m=1200;
+w_m=2*%pi*n_m/60;
+r_a=.2;
+V_t=K_a*I_f*w_m+I_a*r_a;
+a=acosd(V_t*%pi/(2*V_m));    printf("\nfiring angle delay=%.2f deg",a);
+E_a=V_t;
+w_mo=E_a/(K_a*I_f);
+N=60*w_mo/(2*%pi);
+reg=((N-n_m)/n_m)*100;    printf("\nspeed regulation at full load=%.2f",reg);
+I_ar=I_a;
+pf=(V_t*I_a)/(V_s*I_ar);    printf("\ninput power factor of armature convertor=%.4f",pf);
+I_fr=I_f;
+I_sr=sqrt(I_fr^2+I_ar^2);
+VA=I_sr*V_s;
+P=V_t*I_a+V_f*I_f;
+printf("\ninput power factor of drive=%.4f",P/VA);
+//Answers have small variations from that in the book due to difference in the rounding off of digits.

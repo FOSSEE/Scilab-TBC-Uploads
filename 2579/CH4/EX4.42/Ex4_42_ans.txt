@@ -1,0 +1,2 @@
+ The gain for y=30.54 cm = 25.211557 dB
+ The gain for y=3.054 cm = 25.211557 dB

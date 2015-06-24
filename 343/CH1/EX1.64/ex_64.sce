@@ -1,0 +1,27 @@
+R1=8;                          //Assigning values to parameters
+R2=4;
+R3=12;
+R4=12;
+R5=34;
+R6=30;
+R7=30;
+R8=17;
+R9=13;
+V=180;
+R10=R1+R2;
+R11=R8+R9;
+Ra=(R10*R3)/(R3+R4+R10);       //Converting Delta to Star
+Rb=(R3*R4)/(R3+R4+R10);
+Rc=(R10*R4)/(R3+R4+R10);
+Rx=(R6*R7)/(R6+R7+R11);       //Converting Delta to Star
+Ry=(R7*R11)/(R6+R7+R11);
+Rz=(R6*R11)/(R6+R7+R11);
+Rp=R5+Ra+Rx;
+Rm=Rc+Ry;
+Rn=(Rp*Rm)/(Rp+Rm);
+Rth=Rb+Rz+Rn;
+I=V/(Rp+Rc+Rz);
+Vth=Rp*I
+Rl=10;
+Il=Vth/(Rl+Rth);
+disp("Amperes",Il,"Current in 10 Ohm load using Thevenin theorem is")

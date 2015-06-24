@@ -1,0 +1,15 @@
+clear;
+clc;
+ud1=510;
+ud2=490;
+ud=(ud1+ud2)/2;
+id=1;
+p=ud*id;
+b=2*p;
+r=(ud1-ud2)/id;
+pl=r;
+pbl=2*pl;
+pdr=ud1;
+pdi=ud2;
+pz=pdr-pdi;
+mprintf("power flow per pole=%dMW\nbipolar line flow=%dMW\nthe line loss per pole in bipolat line=%dMW\nbipolar line loss=%dMW\nreactive power flow through DC link=%dMW",p,b,pl,pbl,0);

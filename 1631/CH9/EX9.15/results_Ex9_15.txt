@@ -1,0 +1,5 @@
+Enter the frequncy of system fm(in Hz) =100
+
+ Entropy H(X) =2 bits/symbol
+ 
+ information rate =400 bits/sec 

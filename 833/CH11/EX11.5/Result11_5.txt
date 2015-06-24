@@ -1,0 +1,12 @@
+(a)Speed of the motor(in r.p.m)=   
+ 
+    585.  
+ 
+ (b)Speed at which torque will be maximum(in r.p.m)=   
+ 
+    564.  
+ 
+ (c)Ratio of maximum to full load torque=   
+ 
+    1.4083333  
+ 

@@ -1,0 +1,4 @@
+(a)Id = 4e-003 A
+(b)Since Id=Idss, Vgs=0 V
+(c)Vds = 10 V
+Since Vds=10V>Vgs-Vp=2V,Active region operation of upper JFET is confirmed 

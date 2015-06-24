@@ -1,0 +1,2 @@
+ The max allowable distance = 14062.500000 km
+ The answer is wronge in the textbook 

@@ -1,0 +1,27 @@
+ (a) induced emf at full load (in Volts)=   
+ 
+    250.  
+ 
+ (b) power developed (in watts)=   
+ 
+    250000.  
+ 
+ (c) torque developed (in Newton-meter)=   
+ 
+    3978.8736  
+ 
+ (d) Applied torque (in Newton-meter)=   
+ 
+    4138.0285  
+ 
+ (e) efficiency (%)=   
+ 
+    92.180058  
+ 
+ (f) external resistance in feild winding (in ohms)=   
+ 
+    10.  
+ 
+ (g) voltage regulation (%)=   
+ 
+    10.833333  

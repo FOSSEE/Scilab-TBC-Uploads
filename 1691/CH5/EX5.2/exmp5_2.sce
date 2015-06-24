@@ -1,0 +1,42 @@
+//Example 5.2
+clc
+disp("From equation 9 we have")
+disp("  BW = 1 / 2*pi*R*C")
+rc=1/(2*%pi*10*10^3)
+format(12)
+disp(rc,"Therefore,  R*C = 1 / 2*pi*BW =")
+disp("From equation 3 we have")
+disp("  R = r_i || R_p || r_b''e")
+disp("where  r_i = 4 k-ohm")
+rbe=100/0.04
+disp(rbe,"r_b''e(in ohm) = h_fe / g_m =")
+disp("R_p = Q_c * omega_0 * L = Q_c / omega_0*C")
+disp("Therefore,  R = 4*10^3 || 2500 || Q_c/omega_0*C")
+disp("C = 1 / 2*pi*10*10^3*R")
+disp("Therefore,  C = 1 / 2*pi*10*10^3*[4*10^3 || 2500 || Q_c/2*pi*500*10^3*C]")
+disp("The typical range for Q_c is 10 to 150. However, we have to assume Q such that value of C_p should be positive. Let us assume Q = 100")
+disp("Therefore,  C = 1 / 2*pi*10*10^3*[1538.5 || 1/2*pi*5000*C]")
+disp("              = 1 / 2*pi*10*10^3*[1 / 1/1538.5+2*pi*5000*C]")
+disp("Solving for C we get")
+disp("  C = 0.02 uF")
+disp("We have")
+disp("  C = C'' + C_b''e + (1+g_m*R_L)*C_b''e")
+disp("Therefore,  C'' = C - [C_b''e + (1+g_m*R_L)*C_b''e]")
+c=((0.02*10^-6)-[(1000*10^-12)+((1+(0.04*510))*100*10^-12)])*10^6
+format(8)
+disp(c,"Therefore,  C''(in uF) =")
+disp("We have,")
+disp("omega_0^2 = 1 / L*C")
+l=(1/(((2*%pi*500*10^3)^2)*(0.02*10^-6)))*10^6
+format(2)
+disp(l,"Therefore,  L(in uH) = 1 / omega_0^2*C =")
+disp("From equation 2 we have,")
+rp=2*%pi*500*5*100*10^-3
+format(5)
+disp(rp,"R_p(in ohm) = omega*L*Q_c =")
+r=(4000*1570*2500)/((1570*2500)+(4000*2500)+(4000*1570))
+format(4)
+disp(r,"Therefore,  R(in ohm) = r_i || R_p || r_b''e =")
+disp("We have mid frequency gain as")
+av=-0.04*777
+disp(av,"A_v(max) = -g_m*R =")

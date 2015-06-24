@@ -1,0 +1,2 @@
+C_d = 1.43E-011 F
+i.e The value of the distributed capacitance = 14.3 pF 

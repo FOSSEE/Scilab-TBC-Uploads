@@ -1,0 +1,2 @@
+Drain current is 2.15 mAmperes
+Drain voltage is 7.85 Volts

@@ -1,0 +1,9 @@
+  
+ emf generated in machine(in Volts)=   
+ 
+    498.  
+ 
+ new speed of the rotor(in rpm)=   
+ 
+    285.62526  
+ 

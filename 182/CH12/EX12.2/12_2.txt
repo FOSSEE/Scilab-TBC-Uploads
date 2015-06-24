@@ -1,0 +1,3 @@
+
+2.correction figure=-6 W
+  wattmeter error=-5 percent 

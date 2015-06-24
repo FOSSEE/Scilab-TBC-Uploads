@@ -1,0 +1,4 @@
+  
+ No. of Frenkel defect per unit volume of Calcium Fluoride (in /m^3) =    
+ 
+    2.017D+23 

@@ -1,0 +1,3 @@
+The lattice parameter is a=0.242nm but a=0.296nm if we consider it as bcc hence it is not bcc
+If we consider it as FCC a=0.296nm hence it is FCC
+ Atomic diameter is 0.2094nm 

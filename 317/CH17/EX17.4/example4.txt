@@ -1,0 +1,2 @@
+Ac output voltage is 200 mVolts
+Input impedance of the differential amplifier is 15 Kohms  

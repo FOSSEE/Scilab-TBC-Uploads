@@ -1,0 +1,14 @@
+clear;
+clc;
+Zg=10000;Zl=24+(%i*7);Vrms=100; 
+Rl=real(Zl);
+Xl=imag(Zl);
+Zeq=sqrt(((Rl+Zg)^2)+((Xl)^2));
+Irms=Vrms/Zeq;
+P=Irms*Irms*Rl;
+printf("(i)Power in the load if connected directly to the generator = %f mW\n",round(P*(10^3)*10)/10);
+ampZl=sqrt((Rl*Rl)+(Xl*Xl));
+n=1/sqrt(ampZl/Zg);
+printf("(ii)The desired turn ratio of transformer is 1:%d\n",n);
+Pl=Vrms*Vrms/(4*Zg);
+printf("(iii)Power transferred under ideal load conditions =%f mW",Pl*(10^3));

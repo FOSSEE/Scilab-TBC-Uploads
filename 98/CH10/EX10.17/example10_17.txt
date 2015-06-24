@@ -1,0 +1,17 @@
+Recieving end voltage per phase = 76210 V 
+
+Recieving end current = 273 A 
+
+Recieving end voltage phasor = 76210+j0 V 
+
+Load current phasor = 218.69+j(-164.02) 
+
+Sending end voltage per phase = 92143.70+j(19030.85) V 
+
+Sending end current = 211.50+j(-36.38) = 214.61 A 
+
+Charging current = -7.19+j(127.64) 
+
+% regulation = 29.92 % 
+
+

@@ -1,0 +1,3 @@
+Change in the minority carrier concentration is Pn= 
+    2.000D+13  
+cm^-3 

@@ -1,0 +1,91 @@
+-->//(Welded and Riveted Joints) Example 8.21
+ 
+-->//Refer Fig.8.63 on page 315
+ 
+-->//Inside diameter of the pressure vessel Di (m)
+ 
+-->Di = 1.5
+ Di  =
+ 
+    1.5  
+ 
+-->//Internal steam pressure Pi (MPa)
+ 
+-->Pi = 1.5
+ Pi  =
+ 
+    1.5  
+ 
+-->//Efficiency of the riveted joint eta (%)
+ 
+-->eta = 80
+ eta  =
+ 
+    80.  
+ 
+-->//Permissible tensile stress in the plate and rivet sigmat (N/mm2)
+ 
+-->sigmat = 80
+ sigmat  =
+ 
+    80.  
+ 
+-->//Permissible compressive stress in the plate and rivet sigmac (N/mm2)
+ 
+-->sigmac = 120
+ sigmac  =
+ 
+    120.  
+ 
+-->//Permissible shear stress in the plate and rivet tau (N/mm2)
+ 
+-->tau = 60
+ tau  =
+ 
+    60.  
+ 
+-->//Corrosion allowance CA (mm)
+ 
+-->CA = 2
+ CA  =
+ 
+    2.  
+ 
+-->//Number of rivets subjected to single shear per pitch length n1
+ 
+-->n1 = 0
+ n1  =
+ 
+    0.  
+ 
+-->//Number of rivets subjected to double shear per pitch length n2
+ 
+-->n2 = 5
+ n2  =
+ 
+    5.  
+ 
+-->//Value of C from Table 8.7
+ 
+-->C = 6.0
+ C  =
+ 
+    6.  
+ 
+
+Thickness of the plate(t) = 19.578125 or 20.000000 mm
+
+Diameter of the plate(d) = 26.832816 or 27.000000 mm
+
+Pitch of rivets(p) = 161.280000 mm
+
+Distance between middle and inner rows of rivets(p2) = 44.701200 or 45.000000 mm
+
+Distance between outer and middle rows of rivets(p1) = 63.306000 or 65.000000 mm
+
+Margin(m) = 40.500000 or 45.000000 mm
+
+Thickness of straps(t1) = 15.645973 or 16.000000 mm
+
+Efficiency of the joint(etaCalc) = 83.258929 percent
+ 

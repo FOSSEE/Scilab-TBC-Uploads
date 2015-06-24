@@ -1,0 +1,15 @@
+ i)signaling rate,   
+ 
+ r=   
+ 
+    576.  
+ 
+ K bits/sec   
+ 
+ ii)bandwidth   
+ 
+ BW min=   
+ 
+    288.  
+ 
+ kHz 

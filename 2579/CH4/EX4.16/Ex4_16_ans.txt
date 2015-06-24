@@ -1,0 +1,3 @@
+ The gain of a parabolic antenna = 666666.666667
+ The beamwidth = 0.420000 degree
+ The capture area in m^2 of a parabolic antenna = 286.478898 meter^2

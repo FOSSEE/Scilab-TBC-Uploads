@@ -1,0 +1,11 @@
+ unknown resistance(in ohm)=   
+ 
+    8250.  
+ 
+ relative limiting error(in %)=   
+ 
+    1.9  
+ 
+ limiting error(in ohm)=   
+ 
+    156.75

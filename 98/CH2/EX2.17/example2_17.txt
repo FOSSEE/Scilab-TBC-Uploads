@@ -1,0 +1,9 @@
+Energy recieved per hour = 108*10^10 J 
+
+Energy released per fission = 3.20*10^-11 J 
+
+Number of atoms fissioned per hour = 33.75*10^21 
+
+Mass of Uranium fissioned per hour = 13.17 g 
+
+

@@ -1,0 +1,110 @@
+12#INTRODUCTION TO MICROWAVE SYSTEMS#12.6#calculate power density of 20 m from anteena#12_6.sce#25/CH12/EX12.6/12_6.sce#S##1345
+12#INTRODUCTION TO MICROWAVE SYSTEMS#12.5#program to find the J by S ratio#12_5.sce#25/CH12/EX12.5/12_5.sce#S##1344
+12#INTRODUCTION TO MICROWAVE SYSTEMS#12.4#program to find the maximum range of radar#12_4.sce#25/CH12/EX12.4/12_4.sce#S##1343
+12#INTRODUCTION TO MICROWAVE SYSTEMS#12.3#calculate the input and output SNR#12_3.sce#25/CH12/EX12.3/12_3.sce#S##1342
+12#INTRODUCTION TO MICROWAVE SYSTEMS#12.2#program to find the reactive power in dbm#12_2.sce#25/CH12/EX12.2/12_2.sce#S##1341
+12#INTRODUCTION TO MICROWAVE SYSTEMS#12.1#compute directivity radiation intensity and others#12_1.sce#25/CH12/EX12.1/12_1.sce#S##1340
+11#ACTIVE MICROWAVE CIRCUITS#11.9#design a load matching network#11_9.sce#25/CH11/EX11.9/11_9.sce#S##1337
+11#ACTIVE MICROWAVE CIRCUITS#11.8#calculate maximum error in Gt and design amplifier#11_8.sce#25/CH11/EX11.8/11_8.sce#S##1336
+11#ACTIVE MICROWAVE CIRCUITS#11.7#design an amplifier to have a gain of 11 dB#11_7.sce#25/CH11/EX11.7/11_7.sce#S##1335
+11#ACTIVE MICROWAVE CIRCUITS#11.6#design an amplifier for maximum gain#11_6.sce#25/CH11/EX11.6/11_6.sce#S##1334
+11#ACTIVE MICROWAVE CIRCUITS#11.5#determine the stability of the transistor#11_5.sce#25/CH11/EX11.5/11_5.sce#S##1333
+11#ACTIVE MICROWAVE CIRCUITS#11.4#calculate the impedence of the diode#11_4.sce#25/CH11/EX11.4/11_4.sce#S##1332
+11#ACTIVE MICROWAVE CIRCUITS#11.3#program to calculate the noise figure#11_3.sce#25/CH11/EX11.3/11_3.sce#S##1331
+11#ACTIVE MICROWAVE CIRCUITS#11.2#find the dynamic range of the amplifier#11_2.sce#25/CH11/EX11.2/11_2.sce#S##1330
+11#ACTIVE MICROWAVE CIRCUITS#11.11#obtain the greatest ratio of off to on attenuation#11_11.sce#25/CH11/EX11.11/11_11.sce#S##1339
+11#ACTIVE MICROWAVE CIRCUITS#11.10#program to design a transistor oscillator#11_10.sce#25/CH11/EX11.10/11_10.sce#S##1338
+11#ACTIVE MICROWAVE CIRCUITS#11.1#determine equivalent noise temperature of amplifie#11_1.sce#25/CH11/EX11.1/11_1.sce#S##3008
+10#THEORY AND DESIGN OF FERRIMAGNETIC COMPONENTS#10.5#design a two slab remanent phase shifter#10_5.sce#25/CH10/EX10.5/10_5.sce#S##1328
+10#THEORY AND DESIGN OF FERRIMAGNETIC COMPONENTS#10.3#program to design a resonance isolator#10_3.sce#25/CH10/EX10.3/10_3.sce#S##1327
+10#THEORY AND DESIGN OF FERRIMAGNETIC COMPONENTS#10.2#program to design an e plane resonance isolator#10_2.sce#25/CH10/EX10.2/10_2.sce#S##1326
+10#THEORY AND DESIGN OF FERRIMAGNETIC COMPONENTS#10.1#calculate and plot phase and attenuation constants#10_1.sce#25/CH10/EX10.1/10_1.sce#S##2486
+10#THEORY AND DESIGN OF FERRIMAGNETIC COMPONENTS#10.1#calculate and plot phase and attenuation constants#ex10_1.jpg#25/CH10/EX10.1/ex10_1.jpg#R##2487
+9#MICROWAVE FILTERS#9.9#design a bandpass filter#9_9.sce#25/CH9/EX9.9/9_9.sce#S##1323
+9#MICROWAVE FILTERS#9.8#design a coupled line band pass filter#9_8.sce#25/CH9/EX9.8/9_8.sce#S##1322
+9#MICROWAVE FILTERS#9.7#design a stepped impedence low pass filter#9_7.sce#25/CH9/EX9.7/9_7.sce#S##1321
+9#MICROWAVE FILTERS#9.6#design a low pass filter using micrstrip lines#9_6.sce#25/CH9/EX9.6/9_6.sce#S##1320
+9#MICROWAVE FILTERS#9.5#program to design a band pass filter#9_5.sce#25/CH9/EX9.5/9_5.sce#S##1319
+9#MICROWAVE FILTERS#9.4#program to design a maximum flat low pass filter#9_4.sce#25/CH9/EX9.4/9_4.sce#S##1318
+9#MICROWAVE FILTERS#9.3#program to find out number of filter elements#9_3.sce#25/CH9/EX9.3/9_3.sce#S##1317
+9#MICROWAVE FILTERS#9.2#program to design a low pass composite filter#9_2.sce#25/CH9/EX9.2/9_2.sce#S##1316
+9#MICROWAVE FILTERS#9.10#design a bandpass filter using capacitive coupled #9_10.sce#25/CH9/EX9.10/9_10.sce#S##1324
+9#MICROWAVE FILTERS#9.1#program to compute the propagation constant#9_1.sce#25/CH9/EX9.1/9_1.sce#S##2484
+9#MICROWAVE FILTERS#9.1#program to compute the propagation constant#ex9_1.jpg#25/CH9/EX9.1/ex9_1.jpg#R##2485
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.9#design a 3 dB 50 ohm langer coupler#8_9.sce#25/CH8/EX8.9/8_9.sce#S##1312
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.8#design a three section 20 db coupler#8_8.sce#25/CH8/EX8.8/8_8.sce#S##1311
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.7#design a 20 db single section coupled line coupler#8_7.sce#25/CH8/EX8.7/8_7.sce#S##1310
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.6#determine even and odd mode characteristic impeden#8_6.sce#25/CH8/EX8.6/8_6.sce#S##1309
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.5#design 50 ohm branchline quadrature hybrid junc #8_5.sce#25/CH8/EX8.5/8_5.sce#S##1308
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.4#program to design a four hole chebysev coupler#8_4.sce#25/CH8/EX8.4/8_4.sce#S##1307
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.3#design bethe hole coupler for x band waveguide#8_3.sce#25/CH8/EX8.3/8_3.sce#S##1306
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.2#design equi split wilkinson power divider#8_2.sce#25/CH8/EX8.2/8_2.sce#S##1305
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.11#calculate even and odd mode characteristic impeden#8_11.sce#25/CH8/EX8.11/8_11.sce#S##1314
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.10#design 180 deg ring hybrid for 50 ohm system imped#8_10.sce#25/CH8/EX8.10/8_10.sce#S##1313
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.1#program to compute the reflection coefficients#8_1.sce#25/CH8/EX8.1/8_1.sce#S##3007
+8#POWER DIVIDERS DIRECTIONAL COUPLERS AND HYBRIDS#8.1#program to compute the reflection coefficients#parallel_impedence.sce#25/DEPENDENCIES/parallel_impedence.sce#D#equivalent of two resistances in parallel#60
+7#MICROWAVE RESONATORS#7.9#derive expression for change in resonant frequency#7_9.sce#25/CH7/EX7.9/7_9.sce#S##1303
+7#MICROWAVE RESONATORS#7.8#derive expression for change in resonant frequency#7_8.sce#25/CH7/EX7.8/7_8.sce#S##1302
+7#MICROWAVE RESONATORS#7.7#program to find value of the coupling capacitor#7_7.sce#25/CH7/EX7.7/7_7.sce#S##1301
+7#MICROWAVE RESONATORS#7.6#program to find the mode number and Q#7_6.sce#25/CH7/EX7.6/7_6.sce#S##1300
+7#MICROWAVE RESONATORS#7.5#program to find resonant frequency and Q #7_5.sce#25/CH7/EX7.5/7_5.sce#S##1299
+7#MICROWAVE RESONATORS#7.4# program to find dimension and Q#7_4.sce#25/CH7/EX7.4/7_4.sce#S##1298
+7#MICROWAVE RESONATORS#7.3#program to find required length and other#7_3.sce#25/CH7/EX7.3/7_3.sce#S##1297
+7#MICROWAVE RESONATORS#7.2#program to compute length and Q of the resonator#7_2.sce#25/CH7/EX7.2/7_2.sce#S##1296
+7#MICROWAVE RESONATORS#7.1#program to compare the Q factor#7_1.sce#25/CH7/EX7.1/7_1.sce#S##1295
+6#IMPEDENCE MATCHING AND TUNNING#6.9#design triangular taper and a klopfenstein taper#6_9.sce#25/CH6/EX6.9/6_9.sce#S##1294
+6#IMPEDENCE MATCHING AND TUNNING#6.8#design three section chebysev transfomer#6_8.sce#25/CH6/EX6.8/6_8.sce#S##1293
+6#IMPEDENCE MATCHING AND TUNNING#6.7#design three section binomial transformer#6_7.sce#25/CH6/EX6.7/6_7.sce#S##1292
+6#IMPEDENCE MATCHING AND TUNNING#6.6#program to evaluate the worst case percent error#6_6.sce#25/CH6/EX6.6/6_6.sce#S##1291
+6#IMPEDENCE MATCHING AND TUNNING#6.5#design quarter wave matching transformer#6_5.sce#25/CH6/EX6.5/6_5.sce#S##1290
+6#IMPEDENCE MATCHING AND TUNNING#6.1#program to design an L section matching network#6_1.sce#25/CH6/EX6.1/6_1.sce#S##1289
+5#MICROWAVE NETWORK ANALYSIS#5.9#program to derive the expression for taoin#5_9.sce#25/CH5/EX5.9/5_9.sce#S##1287
+5#MICROWAVE NETWORK ANALYSIS#5.8#program to compute power gains#5_8.sce#25/CH5/EX5.8/5_8.sce#S##1286
+5#MICROWAVE NETWORK ANALYSIS#5.7#program to find admittance matrix for bridge T#5_7.sce#25/CH5/EX5.7/5_7.sce#S##1285
+5#MICROWAVE NETWORK ANALYSIS#5.6#program to find ABCD parameter of two port network#5_6.sce#25/CH5/EX5.6/5_6.sce#S##1284
+5#MICROWAVE NETWORK ANALYSIS#5.5#program to determine reciprccity and losslessness#5_5.sce#25/CH5/EX5.5/5_5.sce#S##1283
+5#MICROWAVE NETWORK ANALYSIS#5.4#program to find the s parameter of 3 dB attenuator#5_4.sce#25/CH5/EX5.4/5_4.sce#S##1282
+5#MICROWAVE NETWORK ANALYSIS#5.3#program to find z parameter of two port network#5_3.sce#25/CH5/EX5.3/5_3.sce#S##1281
+5#MICROWAVE NETWORK ANALYSIS#5.2#program to compute reflection coefficient#5_2.sce#25/CH5/EX5.2/5_2.sce#S##1280
+5#MICROWAVE NETWORK ANALYSIS#5.12#find excitation coefficient of forward wave TE10#5_12.sce#25/CH5/EX5.12/5_12.sce#S##2576
+5#MICROWAVE NETWORK ANALYSIS#5.11#determine amplitude of forward and backward wave#5_11.sce#25/CH5/EX5.11/5_11.sce#S##2574
+5#MICROWAVE NETWORK ANALYSIS#5.10#program to find out expression for taoin#5_10.sce#25/CH5/EX5.10/5_10.sce#S##1288
+5#MICROWAVE NETWORK ANALYSIS#5.1#program to find equivalent voltages and current#5_1.sce#25/CH5/EX5.1/5_1.sce#S##1279
+4#TRANSMISSION LINE AND WAVEGUIDES#4.9#program to calculate the group velocity#4_9.sce#25/CH4/EX4.9/4_9.sce#S##1278
+4#TRANSMISSION LINE AND WAVEGUIDES#4.7#program to calculate width and length#4_7.sce#25/CH4/EX4.7/4_7.sce#S##1277
+4#TRANSMISSION LINE AND WAVEGUIDES#4.5#program to find width of a copper strip line#4_5.sce#25/CH4/EX4.5/4_5.sce#S##1276
+4#TRANSMISSION LINE AND WAVEGUIDES#4.4#program to calculate and plot propagation constant#4_4.sce#25/CH4/EX4.4/4_4.sce#S##2482
+4#TRANSMISSION LINE AND WAVEGUIDES#4.4#program to calculate and plot propagation constant#ex4_4.jpg#25/CH4/EX4.4/ex4_4.jpg#R##2483
+4#TRANSMISSION LINE AND WAVEGUIDES#4.3#program to find out the highest usable frequency#4_3.sce#25/CH4/EX4.3/4_3.sce#S##1274
+4#TRANSMISSION LINE AND WAVEGUIDES#4.2#program to find the cut off frequency#4_2.sce#25/CH4/EX4.2/4_2.sce#S##1273
+4#TRANSMISSION LINE AND WAVEGUIDES#4.1#program to find the cut off frequency#4_1.sce#25/CH4/EX4.1/4_1.sce#S##1272
+3#TRANSMISSION LINE THEORY#3.9#program to find the attenuation constant#3_9.sce#25/CH3/EX3.9/3_9.sce#S##1268
+3#TRANSMISSION LINE THEORY#3.8#program to calculate attenuation constant#3_8.sce#25/CH3/EX3.8/3_8.sce#S##1267
+3#TRANSMISSION LINE THEORY#3.7#program to determine unknown load impedence#3_7.sce#25/CH3/EX3.7/3_7.sce#S##2480
+3#TRANSMISSION LINE THEORY#3.7#program to determine unknown load impedence#ex3_7.jpg#25/CH3/EX3.7/ex3_7.jpg#R##2481
+3#TRANSMISSION LINE THEORY#3.7#program to determine unknown load impedence#smith_chart_tao.sci#25/DEPENDENCIES/smith_chart_tao.sci#D#smith chart for finding load impedence when reflection coefficient is given.#12
+3#TRANSMISSION LINE THEORY#3.6#program to find out characteristic impedence#3_6.sce#25/CH3/EX3.6/3_6.sce#S##2478
+3#TRANSMISSION LINE THEORY#3.6#program to find out characteristic impedence#ex3_6.jpg#25/CH3/EX3.6/ex3_6.jpg#R##2479
+3#TRANSMISSION LINE THEORY#3.5#program to find out load admittance and other#3_5.sce#25/CH3/EX3.5/3_5.sce#S##1264
+3#TRANSMISSION LINE THEORY#3.4#program to find input impedence and SWR of line#3_4.sce#25/CH3/EX3.4/3_4.sce#S##1346
+3#TRANSMISSION LINE THEORY#3.4#program to find input impedence and SWR of line#input_impedence.sci#25/DEPENDENCIES/input_impedence.sci#D#function for input impedence#16
+3#TRANSMISSION LINE THEORY#3.4#program to find input impedence and SWR of line#reflection_coefficient.sci#25/DEPENDENCIES/reflection_coefficient.sci#D#function for reflection coefficient#15
+3#TRANSMISSION LINE THEORY#3.4#program to find input impedence and SWR of line#swr.sci#25/DEPENDENCIES/swr.sci#D#function to find SWR#13
+3#TRANSMISSION LINE THEORY#3.3#program to find out return loss in dB and others#3_3.sce#25/CH3/EX3.3/3_3.sce#S##2476
+3#TRANSMISSION LINE THEORY#3.3#program to find out return loss in dB and others#ex3_3.jpg#25/CH3/EX3.3/ex3_3.jpg#R##2477
+3#TRANSMISSION LINE THEORY#3.3#program to find out return loss in dB and others#swr.sci#25/DEPENDENCIES/swr.sci#D#function to find SWR#13
+3#TRANSMISSION LINE THEORY#3.3#program to find out return loss in dB and others#smith_chart_tao.sci#25/DEPENDENCIES/smith_chart_tao.sci#D#smith chart for finding load impedence when reflection coefficient is given.#12
+3#TRANSMISSION LINE THEORY#3.3#program to find out return loss in dB and others#reflection_coefficient.sci#25/DEPENDENCIES/reflection_coefficient.sci#D#function for reflection coefficient#15
+3#TRANSMISSION LINE THEORY#3.2#program to find out load impedence#3_2.sce#25/CH3/EX3.2/3_2.sce#S##2466
+3#TRANSMISSION LINE THEORY#3.2#program to find out load impedence#ex3_2.jpg#25/CH3/EX3.2/ex3_2.jpg#R##2467
+3#TRANSMISSION LINE THEORY#3.2#program to find out load impedence#smith_chart_tao.sci#25/DEPENDENCIES/smith_chart_tao.sci#D#smith chart for finding load impedence when reflection coefficient is given.#12
+3#TRANSMISSION LINE THEORY#3.10#program to calculate attenuaton#3_10.sce#25/CH3/EX3.10/3_10.sce#S##1269
+3#TRANSMISSION LINE THEORY#3.1#program to determine transmission line parameters#3_1.sce#25/CH3/EX3.1/3_1.sce#S##1260
+2#ELECTROMAGNETIC THEORY#2.7#program to plot the reflection coefficients#2_7.sce#25/CH2/EX2.7/2_7.sce#S##2330
+2#ELECTROMAGNETIC THEORY#2.7#program to plot the reflection coefficients#ex2_7.jpg#25/CH2/EX2.7/ex2_7.jpg#R##2331
+2#ELECTROMAGNETIC THEORY#2.6#program to compute propagation constant and other#2_6.sce#25/CH2/EX2.6/2_6.sce#S##1258
+2#ELECTROMAGNETIC THEORY#2.5#program to compute the poynting vector#2_5.sce#25/CH2/EX2.5/2_5.sce#S##1257
+2#ELECTROMAGNETIC THEORY#2.4#program to show decomposition in to RHCP and LHCP#2_4.sce#25/CH2/EX2.4/2_4.sce#S##1256
+2#ELECTROMAGNETIC THEORY#2.3#program to find the resulting fields#2_3.sce#25/CH2/EX2.3/2_3.sce#S##1255
+2#ELECTROMAGNETIC THEORY#2.2# progarm to find out skin depth#2_2.sce#25/CH2/EX2.2/2_2.sce#S##1254
+2#ELECTROMAGNETIC THEORY#2.1#program to calculate wavelength phase velocity and#2_1.sce#25/CH2/EX2.1/2_1.sce#S##1253

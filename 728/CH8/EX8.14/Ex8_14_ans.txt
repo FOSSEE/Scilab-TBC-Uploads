@@ -1,0 +1,12 @@
+Cyclotron angular frequency( in rad/s) =   
+ 
+    1.759D+09  
+ 
+ Cut-off voltage (in volts) =   
+ 
+    7915.5  
+ 
+ Cut-off magnetic flux density (in milli weber/sq. m) =   
+ 
+    19.468005  
+ 

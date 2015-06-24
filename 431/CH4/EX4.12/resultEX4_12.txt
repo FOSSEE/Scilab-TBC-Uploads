@@ -1,0 +1,5 @@
+  
+ Example 4.12   
+Power developed by the rotor=46.560000kW
+Output power=45.560000kW
+Efficiency of the motor=91.120000 percent 

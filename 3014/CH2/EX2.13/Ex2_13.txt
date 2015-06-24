@@ -1,0 +1,3 @@
+
+Example 2.13
+ Uncertainty in velocity of particle is 2.898894e+04 m/s.

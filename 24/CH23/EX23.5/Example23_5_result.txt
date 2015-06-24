@@ -1,0 +1,8 @@
+**Sample Problem 23-5a**
+The effective ditance between the positive & negative center is 3.875000e-012m
+
+**Sample Problem 23-5b**
+The net torque on the dipole is 9.300000e-026N.m
+
+**Sample Problem 23-5c**
+The work done by the external agent is equal to 1.860000e-025J

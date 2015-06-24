@@ -1,0 +1,7 @@
+ 
+ example 14.13   
+the damped angular frequency is 7.11radians/sec if speed govenor loop is closed 
+ (b)   
+since the two area are imilier ,each area will supply half of increase in load .this also evident besause ba=bb  
+ change in power 50MW 
+ speed regulation is infininydamped angular frequency if speed governor loop is open 2.687rad/sec  

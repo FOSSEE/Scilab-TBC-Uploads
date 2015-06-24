@@ -1,0 +1,2 @@
+Input resistance is 60 ohms
+Gate-source cutoff voltage is -6 Volts

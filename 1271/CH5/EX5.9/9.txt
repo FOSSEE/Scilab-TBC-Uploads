@@ -1,0 +1,2 @@
+ Numerical aperture = 0.120768.
+ Number of modes = 159. 

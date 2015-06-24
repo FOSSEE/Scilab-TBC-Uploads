@@ -1,0 +1,2 @@
+ Resistivity of Ge 0.446 ohm m 
+Resistivity of Si 2.315 x 10^3 ohm m  

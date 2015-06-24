@@ -1,0 +1,7 @@
+ fraction of load carried by fibres (15 % by volume) =    
+ 
+    0.9547069  
+ 
+ fraction of load carried by fibres (65 % by volume) =    
+ 
+    0.9955122

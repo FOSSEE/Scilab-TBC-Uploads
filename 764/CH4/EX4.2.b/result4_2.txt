@@ -1,0 +1,51 @@
+-->//(Design against Static Load) Example 4.2
+ 
+-->//Refer section 4.10 on page 90
+ 
+-->//Axial tensile force acting on acting on each rod P (kN)
+ 
+-->P = 50
+ P  =
+ 
+    50.  
+ 
+-->//Tensile yield strength of the material Syt (N/mm2)
+ 
+-->Syt = 400
+ Syt  =
+ 
+    400.  
+ 
+-->//Factor of safety for rod f1
+ 
+-->f1 = 6
+ f1  =
+ 
+    6.  
+ 
+-->//Factor of safety for cotter f2
+ 
+-->f2 = 4
+ f2  =
+ 
+    4.  
+ 
+
+Diameter of the rods(d) = 31.000000 mm
+
+Thickness of cotter(t) = 10.000000 mm
+
+Diameter of spigot(d2) = 40.000000 mm
+
+Outer diameter of socket(d1) = 55.000000 mm
+
+Diameter of spigot collar(d3) = 47.000000 mm
+
+Diameter of socket collar(d4) = 80.000000 mm
+
+Width of cotter(b) = 50.000000 mm
+
+Thickness of spigot collar(t1) = 15.000000 mm
+
+Design of cotter joint is safe
+ 

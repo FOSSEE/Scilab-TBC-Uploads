@@ -1,0 +1,2 @@
+﻿ Coherence time = 9.816667e-11 sec.
+ No. of oscillations = 4.994912e+04.

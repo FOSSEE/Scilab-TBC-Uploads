@@ -1,0 +1,4 @@
+* Error voltage is = 0.0306 V dc
+* Output voltage is = 0.1316 V
+  (OR)
+* Output voltage is = 0.0704 V

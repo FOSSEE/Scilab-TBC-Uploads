@@ -1,0 +1,1 @@
+Input Resistance = 100000.0000

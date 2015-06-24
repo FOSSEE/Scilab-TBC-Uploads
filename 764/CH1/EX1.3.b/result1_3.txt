@@ -1,0 +1,73 @@
+-->//Introduction Example 1.3
+ 
+-->//Initial value of the series of power capacities kW
+ 
+-->a = 7.5
+ a  =
+ 
+    7.5  
+ 
+-->//Final value of the series of power capacities kW
+ 
+-->b = 75
+ b  =
+ 
+    75.  
+ 
+-->//For five models
+ 
+-->m = 5 - 1
+ m  =
+ 
+    4.  
+ 
+-->//For nine models
+ 
+-->n = 9 - 1
+ n  =
+ 
+    8.  
+ 
+
+Part I: Starting Plan
+
+Rating of model 1 = 7.500000
+
+Rating of model 2 = 13.337096
+
+Rating of model 3 = 23.717082
+
+Rating of model 4 = 42.175599
+
+Rating of model 5 = 75.000000
+
+Part II: Expansion Plan
+
+Rating of model 5: 7.500000 = 7.500000
+
+Rating of model 5: 10.001411 = 10.000000
+
+Rating of model 5: 13.337096 = 13.000000
+
+Rating of model 5: 17.785303 = 18.000000
+
+Rating of model 5: 23.717082 = 24.000000
+
+Rating of model 5: 31.627238 = 32.000000
+
+Rating of model 5: 42.175599 = 42.000000
+
+Rating of model 5: 56.242066 = 56.000000
+
+Rating of model 5: 75.000000 = 75.000000
+
+4 additional models have following power ratings: 
+
+10.000000
+
+18.000000
+
+32.000000
+
+56.000000
+ 

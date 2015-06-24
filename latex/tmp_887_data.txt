@@ -1,0 +1,119 @@
+17#AC Machines#17.5#example 6#17_5.sce#887/CH17/EX17.5/17_5.sce#S##59298
+17#AC Machines#17.4#example 4#17_4.sce#887/CH17/EX17.4/17_4.sce#S##63767
+17#AC Machines#17.3#example 3#17_3.sce#887/CH17/EX17.3/17_3.sce#S##59296
+17#AC Machines#17.2#example 2#17_2.sce#887/CH17/EX17.2/17_2.sce#S##59295
+17#AC Machines#17.1#example 1#17_1.sce#887/CH17/EX17.1/17_1.sce#S##59294
+16#DC Machines#16.6#example 6#16_6.sce#887/CH16/EX16.6/16_6.sce#S##59293
+16#DC Machines#16.5#example 5#16_5.sce#887/CH16/EX16.5/16_5.sce#S##59292
+16#DC Machines#16.4#example 4#16_4.sce#887/CH16/EX16.4/16_4.sce#S##59291
+16#DC Machines#16.3#example 3#16_3.sce#887/CH16/EX16.3/16_3.sce#S##59290
+16#DC Machines#16.2#example 2#16_2.sce#887/CH16/EX16.2/16_2.sce#S##59289
+16#DC Machines#16.1#example 1#16_1.sce#887/CH16/EX16.1/16_1.sce#S##59288
+15#Magnetic circuits and transformers #15.9#example 9#15_9.sce#887/CH15/EX15.9/15_9.sce#S##59283
+15#Magnetic circuits and transformers #15.8#example 8#15_8.sce#887/CH15/EX15.8/15_8.sce#S##59282
+15#Magnetic circuits and transformers #15.7#example 7#15_7.sce#887/CH15/EX15.7/15_7.sce#S##59281
+15#Magnetic circuits and transformers #15.6#example 6#15_6.sce#887/CH15/EX15.6/15_6.sce#S##59280
+15#Magnetic circuits and transformers #15.5#example 5#15_5.sce#887/CH15/EX15.5/15_5.sce#S##59279
+15#Magnetic circuits and transformers #15.3#example 3#15_3.sce#887/CH15/EX15.3/15_3.sce#S##59277
+15#Magnetic circuits and transformers #15.13#example 13#15_13.sce#887/CH15/EX15.13/15_13.sce#S##59287
+15#Magnetic circuits and transformers #15.12#example 12#15_12.sce#887/CH15/EX15.12/15_12.sce#S##59286
+15#Magnetic circuits and transformers #15.11#example 11#15_11.sce#887/CH15/EX15.11/15_11.sce#S##59285
+15#Magnetic circuits and transformers #15.10#example 10#15_10.sce#887/CH15/EX15.10/15_10.sce#S##59284
+14#Operational Amlifiers#14.7#example 7#14_7.sce#887/CH14/EX14.7/14_7.sce#S##59273
+14#Operational Amlifiers#14.6#example 6#14_6.sce#887/CH14/EX14.6/14_6.sce#S##59274
+14#Operational Amlifiers#14.5#example  5#14_5.sce#887/CH14/EX14.5/14_5.sce#S##59272
+13#Bipolar junction transistors#13.9#example 9#13_9.sce#887/CH13/EX13.9/13_9.sce#S##59270
+13#Bipolar junction transistors#13.8#example 8#13_8.sce#887/CH13/EX13.8/13_8.sce#S##59269
+13#Bipolar junction transistors#13.7#example 7#13_7.sce#887/CH13/EX13.7/13_7.sce#S##59268
+13#Bipolar junction transistors#13.6#example 6#13_6.sce#887/CH13/EX13.6/13_6.sce#S##59267
+13#Bipolar junction transistors#13.5#example 5#13_5.sce#887/CH13/EX13.5/13_5.sce#S##59266
+13#Bipolar junction transistors#13.4#example 4#13_4.sce#887/CH13/EX13.4/13_4.sce#S##59265
+13#Bipolar junction transistors#13.2#example 2#13_2.sce#887/CH13/EX13.2/13_2.sce#S##59263
+13#Bipolar junction transistors#13.1#example 1#13_1.sce#887/CH13/EX13.1/13_1.sce#S##59262
+12#Field effect transistors#12.5#example 5#12_5.sce#887/CH12/EX12.5/12_5.sce#S##59261
+12#Field effect transistors#12.3#example 3#12_3.sce#887/CH12/EX12.3/12_3.sce#S##59260
+12#Field effect transistors#12.2#example 2#12_2.sce#887/CH12/EX12.2/12_2.sce#S##59259
+12#Field effect transistors#12.1#example 1#12_1.sce#887/CH12/EX12.1/12_1.sce#S##59258
+11#Amplifiers Specifications and eternal characterstics#11.9#example 9#11_9.sce#887/CH11/EX11.9/11_9.sce#S##59254
+11#Amplifiers Specifications and eternal characterstics#11.8#example 8#11_8.sce#887/CH11/EX11.8/11_8.sce#S##59253
+11#Amplifiers Specifications and eternal characterstics#11.7#example 7#11_7.sce#887/CH11/EX11.7/11_7.sce#S##59252
+11#Amplifiers Specifications and eternal characterstics#11.6#example 6#11_6.sce#887/CH11/EX11.6/11_6.sce#S##59251
+11#Amplifiers Specifications and eternal characterstics#11.5#example 5#11_5.sce#887/CH11/EX11.5/11_5.sce#S##59250
+11#Amplifiers Specifications and eternal characterstics#11.4#example 4#11_4.sce#887/CH11/EX11.4/11_4.sce#S##59249
+11#Amplifiers Specifications and eternal characterstics#11.3#example 3#11_3.sce#887/CH11/EX11.3/11_3.sce#S##59248
+11#Amplifiers Specifications and eternal characterstics#11.2#example 2#11_2.sce#887/CH11/EX11.2/11_2.sce#S##59247
+11#Amplifiers Specifications and eternal characterstics#11.12#example 12#11_12.sce#887/CH11/EX11.12/11_12.sce#S##59257
+11#Amplifiers Specifications and eternal characterstics#11.11#example 11#11_11.sce#887/CH11/EX11.11/11_11.sce#S##59256
+11#Amplifiers Specifications and eternal characterstics#11.10#example 10#11_10.sce#887/CH11/EX11.10/11_10.sce#S##59255
+11#Amplifiers Specifications and eternal characterstics#11.1#example 1#11_1.sce#887/CH11/EX11.1/11_1.sce#S##59246
+10#Diodes#10.7#example 7#10_7.sce#887/CH10/EX10.7/10_7.sce#S##59245
+10#Diodes#10.5#example 5#10_5.sce#887/CH10/EX10.5/10_5.sce#S##59243
+10#Diodes#10.4#example 4#10_4.sce#887/CH10/EX10.4/10_4.sce#S##68809
+10#Diodes#10.3#example 3#10_3.sce#887/CH10/EX10.3/10_3.sce#S##59241
+10#Diodes#10.2#example 2#10_2.sce#887/CH10/EX10.2/10_2.sce#S##59240
+10#Diodes#10.1#example 1#10_1.sce#887/CH10/EX10.1/10_1.sce#S##59239
+9#Computer based instrumentation diodes#9.1#example 1#9_1.sce#887/CH9/EX9.1/9_1.sce#S##59237
+7#Logic circuits#7.6#example 6#7_6.sce#887/CH7/EX7.6/7_6.sce#S##59236
+7#Logic circuits#7.5#example 5#7_5.sce#887/CH7/EX7.5/7_5.sce#S##59235
+7#Logic circuits#7.4#example 4#7_4.sce#887/CH7/EX7.4/7_4.sce#S##63766
+7#Logic circuits#7.3#example 3#7_3.sce#887/CH7/EX7.3/7_3.sce#S##59233
+7#Logic circuits#7.2#example 2#7_2.sce#887/CH7/EX7.2/7_2.sce#S##59232
+7#Logic circuits#7.1#example 1#7_1.sce#887/CH7/EX7.1/7_1.sce#S##59231
+6#Frequency response bode plots and resonance#6.7#example 7#6_7.sce#887/CH6/EX6.7/6_7.sce#S##59230
+6#Frequency response bode plots and resonance#6.6#example 6#6_6.sce#887/CH6/EX6.6/6_6.sce#S##59229
+6#Frequency response bode plots and resonance#6.5#example 5#6_5.sce#887/CH6/EX6.5/6_5.sce#S##59228
+6#Frequency response bode plots and resonance#6.4#example 4#6_4.sce#887/CH6/EX6.4/6_4.sce#S##59227
+6#Frequency response bode plots and resonance#6.3#example 3#6_3.sce#887/CH6/EX6.3/6_3.sce#S##59226
+6#Frequency response bode plots and resonance#6.2#example 2#6_2.sce#887/CH6/EX6.2/6_2.sce#S##59225
+6#Frequency response bode plots and resonance#6.1#example 1#6_1.sce#887/CH6/EX6.1/6_1.sce#S##59224
+5#Steady state sinusoidal analaysis#5.9#example 9#5_9.sce#887/CH5/EX5.9/5_9.sce#S##59218
+5#Steady state sinusoidal analaysis#5.8#example 8#5_8.sce#887/CH5/EX5.8/5_8.sce#S##68810
+5#Steady state sinusoidal analaysis#5.7#example 7#5_7.sce#887/CH5/EX5.7/5_7.sce#S##63765
+5#Steady state sinusoidal analaysis#5.6#example 6#5_6.sce#887/CH5/EX5.6/5_6.sce#S##59215
+5#Steady state sinusoidal analaysis#5.5#example 5#5_5.sce#887/CH5/EX5.5/5_5.sce#S##59214
+5#Steady state sinusoidal analaysis#5.4#example 4#5_4.sce#887/CH5/EX5.4/5_4.sce#S##59213
+5#Steady state sinusoidal analaysis#5.3#example 3#5_3.sce#887/CH5/EX5.3/5_3.sce#S##59212
+5#Steady state sinusoidal analaysis#5.2#example 2#5_2.sce#887/CH5/EX5.2/5_2.sce#S##59211
+5#Steady state sinusoidal analaysis#5.14#example 14#5_14.sce#887/CH5/EX5.14/5_14.sce#S##59223
+5#Steady state sinusoidal analaysis#5.13#example 13#5_13.sce#887/CH5/EX5.13/5_13.sce#S##59222
+5#Steady state sinusoidal analaysis#5.12#example 12#5_12.sce#887/CH5/EX5.12/5_12.sce#S##59221
+5#Steady state sinusoidal analaysis#5.11#example 11#5_11.sce#887/CH5/EX5.11/5_11.sce#S##59220
+5#Steady state sinusoidal analaysis#5.10#example 10#5_10.sce#887/CH5/EX5.10/5_10.sce#S##59219
+5#Steady state sinusoidal analaysis#5.1#example 1#5_1.sce#887/CH5/EX5.1/5_1.sce#S##59210
+4#Transients#4.2#example 2#4_2.sce#887/CH4/EX4.2/4_2.sce#S##59209
+4#Transients#4.1#example 1#4_1.sce#887/CH4/EX4.1/4_1.sce#S##59208
+3#Inductance and Capacitance#3.6#example 6#3_6.sce#887/CH3/EX3.6/3_6.sce#S##59207
+3#Inductance and Capacitance#3.5#example 5#3_5.sce#887/CH3/EX3.5/3_5.sce#S##59206
+3#Inductance and Capacitance#3.4#example 4#3_4.sce#887/CH3/EX3.4/3_4.sce#S##59205
+3#Inductance and Capacitance#3.3#example 3#3_3.sce#887/CH3/EX3.3/3_3.sce#S##59204
+3#Inductance and Capacitance#3.2#example 2#3_2.sce#887/CH3/EX3.2/3_2.sce#S##59203
+3#Inductance and Capacitance#3.1#example 1#3_1.sce#887/CH3/EX3.1/3_1.sce#S##59202
+2#Resistive Circuits#2.9#example 9#2_9.sce#887/CH2/EX2.9/2_9.sce#S##59187
+2#Resistive Circuits#2.8#example 8#2_8.sce#887/CH2/EX2.8/2_8.sce#S##59186
+2#Resistive Circuits#2.7#example 7#2_7.sce#887/CH2/EX2.7/2_7.sce#S##59185
+2#Resistive Circuits#2.6#example 6#2_6.sce#887/CH2/EX2.6/2_6.sce#S##59184
+2#Resistive Circuits#2.5#example 5#2_5.sce#887/CH2/EX2.5/2_5.sce#S##59183
+2#Resistive Circuits#2.4#example 4#2_4.sce#887/CH2/EX2.4/2_4.sce#S##59182
+2#Resistive Circuits#2.3#example 3#2_3.sce#887/CH2/EX2.3/2_3.sce#S##59181
+2#Resistive Circuits#2.23#example 23#2_23.sce#887/CH2/EX2.23/2_23.sce#S##59200
+2#Resistive Circuits#2.22#example 22#2_22.sce#887/CH2/EX2.22/2_22.sce#S##59199
+2#Resistive Circuits#2.21#example 21#2_21.sce#887/CH2/EX2.21/2_21.sce#S##59198
+2#Resistive Circuits#2.20#example 20#2_20.sce#887/CH2/EX2.20/2_20.sce#S##59197
+2#Resistive Circuits#2.2#example 2#2_2.sce#887/CH2/EX2.2/2_2.sce#S##59180
+2#Resistive Circuits#2.19#example 19#2_19.sce#887/CH2/EX2.19/2_19.sce#S##59196
+2#Resistive Circuits#2.18#example 18#2_18.sce#887/CH2/EX2.18/2_18.sce#S##59195
+2#Resistive Circuits#2.17#example 17#2_17.sce#887/CH2/EX2.17/2_17.sce#S##59194
+2#Resistive Circuits#2.16#example 16#2_16.sce#887/CH2/EX2.16/2_16.sce#S##59193
+2#Resistive Circuits#2.15#example 15#2_15.sce#887/CH2/EX2.15/2_15.sce#S##59192
+2#Resistive Circuits#2.14#example 14#2_14.sce#887/CH2/EX2.14/2_14.sce#S##59191
+2#Resistive Circuits#2.13#example 13#2_13.sce#887/CH2/EX2.13/2_13.sce#S##59190
+2#Resistive Circuits#2.12#example 12#2_12.sce#887/CH2/EX2.12/2_12.sce#S##59201
+2#Resistive Circuits#2.11#example 11#2_11.sce#887/CH2/EX2.11/2_11.sce#S##59189
+2#Resistive Circuits#2.1#example 1#2_1.sce#887/CH2/EX2.1/2_1.sce#S##59179
+1#Introduction#1.7#example 7#1_7.sce#887/CH1/EX1.7/1_7.sce#S##59178
+1#Introduction#1.6#example 6#1_6.sce#887/CH1/EX1.6/1_6.sce#S##59177
+1#Introduction#1.5#example 5#1_5.sce#887/CH1/EX1.5/1_5.sce#S##59176
+1#Introduction#1.4#example 4#1_4.sce#887/CH1/EX1.4/1_4.sce#S##59175
+1#Introduction#1.3#example 3#1_3.sce#887/CH1/EX1.3/1_3.sce#S##69351
+1#Introduction#1.2#example 2#1_2.sce#887/CH1/EX1.2/1_2.sce#S##59173
+1#Introduction#1.1#example 1#1_1.sce#887/CH1/EX1.1/1_1.sce#S##59172

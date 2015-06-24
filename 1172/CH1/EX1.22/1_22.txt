@@ -1,0 +1,5 @@
+ # Problem 22 # 
+ 
+ Standard formula used 
+   n*lambda= (a+b)*sin(theta)
+ Dispersive power   is 15973. 

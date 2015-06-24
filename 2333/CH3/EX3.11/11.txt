@@ -1,0 +1,5 @@
+# PROBLEM 11 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N  
+
+ Wavelength of spectral lines is 5000 angstrom.

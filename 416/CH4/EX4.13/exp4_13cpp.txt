@@ -1,0 +1,12 @@
+ 
+ example 4 13   
+power factor of indection generator is leading therefor induction generator output 2-0.97iMVA /n (a) 
+ total load 10+7.5iMW 
+ synchronous generator load 8+8.469iMW 
+		=11.65MW at angle 46.63 
+ power factor of synchronous generator is 0.69lagging 
+ (b)   
+ total load 5+3.7iMW 
+ synchronous generator load 3+4.719iMW 
+		=5.59MW at angle 57.55 
+ power factor of synchronous generator is 0.54lagging 

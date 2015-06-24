@@ -1,0 +1,1 @@
+﻿Angular position of second and third minima = 30.000000 , 48.590378 degree respectively 

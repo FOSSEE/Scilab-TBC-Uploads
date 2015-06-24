@@ -1,0 +1,24 @@
+                     //EXAMPLE 2-58      PG NO-101-102
+Z1=2+%i*3;
+Z2=1-%i*5;
+Z3=4+%i*2;
+Zeq=[Z2*Z3]/[Z2+Z3];
+disp('i)  IMPEDANCE EQUVALENT (Zeq) is    =  '+string (Zeq) +'  ohms ');
+Z=Z1+Zeq;
+disp('i)  TOTAL IMPEDANCE (Z) is    =  '+string (Z) +'  ohm ');
+V=10;
+R=5.65+%i*1.588;
+I=V/R;
+disp('i)  CURRENT (I) is    =  '+string (I) +'  A ');
+VBC=I*Zeq;
+disp('i)  VOLTAGE (VBC) is    =  '+string (VBC) +'  V ');
+I2=VBC/Z2;
+disp('i)   CURRENT    (I2) is    =  '+string (I2) +'  A ');
+I3=VBC/Z3;
+disp('i)   CURRENT    (I3) is  in polar form  =  '+string (I3) +'  A ');
+S=V*I;
+disp('i)  APPARENT POWER (S) is  in polar form  =  '+string (S) +'  VA ');
+P=V*I*0.963;
+disp('i)  ACTIVE POWER (P) is  in polar form  =  '+string (P) +'  W ');
+Q=V*I*-0.27;
+disp('i)  REACTIVE POWER (Q) is  in polar form  =  '+string (Q) +'  vars ');

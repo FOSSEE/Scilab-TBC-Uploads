@@ -1,0 +1,6 @@
+ 
+ Example 4.1
+ For a change of 40 % in length and 11.8 % in ID, 
+ By interpolation from figure, 
+
+ mu is 0.03 and m is 0.11 

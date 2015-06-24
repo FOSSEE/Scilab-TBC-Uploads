@@ -1,0 +1,5 @@
+# PROBLEM 34 # 
+ Standard formula used 
+ theta = 1.22*lambda/a  
+
+ Separation between center of images is 2.684000e-02 cm.

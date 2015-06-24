@@ -1,0 +1,16 @@
+//Example 24.12.
+clc
+disp("(i) A + AB           = A(1+B)  distributive law")
+disp("                     = A.1     law 2")
+disp("                     = A       law 4")
+disp('')
+disp("(ii) A + A''B         = (A+A'')(A+B)  distributive law")
+disp("                     = 1.(A+B)     law 6")
+disp("                     = A + B       law 4")
+disp('')
+disp("(iii) AB + A''C + BC  = AB + A''C + BC1")
+disp("                     = AB + A''C + BC(A+A'')")
+disp("                     = AB + A''C + ABC + A''BC")
+disp("                     = AB(1+C) + A''C(1+B)")
+disp("                     = AB + A''C")
+disp("The above property, i.e AB + A''C + BC = AB + A''C, is called consensus theorem.")

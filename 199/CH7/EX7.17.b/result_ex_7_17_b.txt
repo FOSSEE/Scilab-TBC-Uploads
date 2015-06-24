@@ -1,0 +1,4 @@
+* Approximate Nominal freq fo1 is = 41666.7 Hz 
+* Approximate Nominal freq fo2 is = 8333.3 Hz
+* Change in output freq delta_fo is = 33333.3 Hz 
+                                                                                                  

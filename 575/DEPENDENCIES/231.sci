@@ -1,0 +1,1 @@
+Initial=23  //lb.ft/min^2

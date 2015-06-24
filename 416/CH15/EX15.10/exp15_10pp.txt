@@ -1,0 +1,6 @@
+  
+ example 15.10   
+total quantity of water in reservoir 5.896832e+008m^3 
+energy generated per year 4.599000e+006MW 
+cost of electrical energy Rs9.657900e+009 
+saving in cost Rs.3.219300e+009  

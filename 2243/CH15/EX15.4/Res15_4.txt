@@ -1,0 +1,1 @@
+ Attenuation = 2.6 dB/km 

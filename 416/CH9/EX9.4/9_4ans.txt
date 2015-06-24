@@ -1,0 +1,5 @@
+  
+ example 9.4   
+(lamda) disintegrations per sec is 3.095054e-017bq 
+ initial activity is lamda*na is 5.261592e+007bq 
+ final number of atoms is 6.405500e+023atoms 

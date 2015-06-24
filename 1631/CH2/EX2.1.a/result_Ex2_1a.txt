@@ -1,0 +1,5 @@
+ Probability Getting red ball is   
+ 
+ P(R)=   
+ 
+    0.25

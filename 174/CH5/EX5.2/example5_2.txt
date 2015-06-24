@@ -1,0 +1,5 @@
+ The deflection of the galvanometer = 2.247 mm 
+ Given that galvanometer is capable of detecting a deflection of 1mm   
+ 
+ Hence looking at the result,it can be seen that this galvanometer produces a deflection that can be easily observed   
+ 

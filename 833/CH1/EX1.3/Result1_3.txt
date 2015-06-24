@@ -1,0 +1,7 @@
+(a)number of turns on low voltage side is=   
+ 
+    14.003641  
+ 
+ (b)number of turns on high voltage side is=   
+ 
+    192.55006  

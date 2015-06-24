@@ -1,0 +1,2 @@
+* Resistance values R1,R2,R3 is = 100000.0 ohm
+* Capacitance values C1,C2,C3 is = 0.00000001 farad                                                                                                   

@@ -1,0 +1,7 @@
+ number of primary turns in transformer=   
+ 
+    209.  
+ 
+ number of secondary turns in transformer=   
+ 
+    105.  

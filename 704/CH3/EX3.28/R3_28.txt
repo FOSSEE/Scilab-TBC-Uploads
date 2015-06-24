@@ -1,0 +1,8 @@
+Efficiency of the transformer on half load (in %)=   
+ 
+    98.039216  
+ 
+ Efficiency of the transformer on full load condition (in %)=   
+ 
+    98.64365  
+ 

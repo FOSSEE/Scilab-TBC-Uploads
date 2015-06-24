@@ -1,0 +1,12 @@
+
+ example 4 10   
+kw rating of induction motor 13.86kW
+ power factor angle 36.87 
+ reactive power 10.39kVR
+ final power factor 25.84 
+ final reactance power 6.71kVR
+ kvar rating of capacitor bank 3.6813 
+ current through each capacitor 5.31A
+ voltage across each capacitor 230.94 
+ reactance of each capacitor 43.46ohm 
+ capacitance of each capacitance 73.24uf 

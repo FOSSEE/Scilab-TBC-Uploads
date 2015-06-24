@@ -1,0 +1,148 @@
+7#Voltage Regulator And Nonlinear Circuits#7.5#Output voltage#exa_7_5.sce#2102/CH7/EX7.5/exa_7_5.sce#S##72287
+7#Voltage Regulator And Nonlinear Circuits#7.4#Resistance and current#exa_7_4.sce#2102/CH7/EX7.4/exa_7_4.sce#S##72286
+7#Voltage Regulator And Nonlinear Circuits#7.3#Base emitter and zener diode current#exa_7_3.sce#2102/CH7/EX7.3/exa_7_3.sce#S##72285
+7#Voltage Regulator And Nonlinear Circuits#7.2#Base emitter and zener diode current#exa_7_2.sce#2102/CH7/EX7.2/exa_7_2.sce#S##72284
+7#Voltage Regulator And Nonlinear Circuits#7.1#Base emitter and zener diode current#exa_7_1.sce#2102/CH7/EX7.1/exa_7_1.sce#S##72283
+6#Bipolar Junction Transistor Fets And Mosfet#6.9#Transconductance#exa_6_9.sce#2102/CH6/EX6.9/exa_6_9.sce#S##72298
+6#Bipolar Junction Transistor Fets And Mosfet#6.8#Maximum transconductance of a certain n channel JFET#exa_6_8.sce#2102/CH6/EX6.8/exa_6_8.sce#S##69166
+6#Bipolar Junction Transistor Fets And Mosfet#6.7#Drain to source voltage#exa_6_7.sce#2102/CH6/EX6.7/exa_6_7.sce#S##69165
+6#Bipolar Junction Transistor Fets And Mosfet#6.6#The value of Vo and Vi#exa_6_6.sce#2102/CH6/EX6.6/exa_6_6.sce#S##69164
+6#Bipolar Junction Transistor Fets And Mosfet#6.5#The value of transconductance of a FET#exa_6_5.sce#2102/CH6/EX6.5/exa_6_5.sce#S##69163
+6#Bipolar Junction Transistor Fets And Mosfet#6.4#value of Vgs#exa_6_4.sce#2102/CH6/EX6.4/exa_6_4.sce#S##69162
+6#Bipolar Junction Transistor Fets And Mosfet#6.3#Value of Vgs and gm#exa_6_3.sce#2102/CH6/EX6.3/exa_6_3.sce#S##69161
+6#Bipolar Junction Transistor Fets And Mosfet#6.27#Minimum value of VDS#exa_6_27.sce#2102/CH6/EX6.27/exa_6_27.sce#S##69183
+6#Bipolar Junction Transistor Fets And Mosfet#6.26#The value of IDSS#exa_6_26.sce#2102/CH6/EX6.26/exa_6_26.sce#S##69182
+6#Bipolar Junction Transistor Fets And Mosfet#6.25#The value of VGS#exa_6_25.sce#2102/CH6/EX6.25/exa_6_25.sce#S##69181
+6#Bipolar Junction Transistor Fets And Mosfet#6.24#Channel resistance#exa_6_24.sce#2102/CH6/EX6.24/exa_6_24.sce#S##72299
+6#Bipolar Junction Transistor Fets And Mosfet#6.23#The value of RD#exa_6_23.sce#2102/CH6/EX6.23/exa_6_23.sce#S##69179
+6#Bipolar Junction Transistor Fets And Mosfet#6.22#The value of Id and VDS#exa_6_22.sce#2102/CH6/EX6.22/exa_6_22.sce#S##69178
+6#Bipolar Junction Transistor Fets And Mosfet#6.21#Drain source resistance#exa_6_21.sce#2102/CH6/EX6.21/exa_6_21.sce#S##69177
+6#Bipolar Junction Transistor Fets And Mosfet#6.20#The value of VGS and ID#exa_6_20.sce#2102/CH6/EX6.20/exa_6_20.sce#S##69176
+6#Bipolar Junction Transistor Fets And Mosfet#6.2#Transfer curve#exa_6_2.sce#2102/CH6/EX6.2/exa_6_2.sce#S##72297
+6#Bipolar Junction Transistor Fets And Mosfet#6.17#The value of IDS gmo and gm#exa_6_17.sce#2102/CH6/EX6.17/exa_6_17.sce#S##69175
+6#Bipolar Junction Transistor Fets And Mosfet#6.16#The value of VGS and ID#exa_6_16.sce#2102/CH6/EX6.16/exa_6_16.sce#S##69174
+6#Bipolar Junction Transistor Fets And Mosfet#6.15#The value of VGS and ID#exa_6_15.sce#2102/CH6/EX6.15/exa_6_15.sce#S##69173
+6#Bipolar Junction Transistor Fets And Mosfet#6.14#The value of VGS and VDS#exa_6_14.sce#2102/CH6/EX6.14/exa_6_14.sce#S##69172
+6#Bipolar Junction Transistor Fets And Mosfet#6.13#q value of VDS#exa_6_13.sce#2102/CH6/EX6.13/exa_6_13.sce#S##69171
+6#Bipolar Junction Transistor Fets And Mosfet#6.12#Effective input impedance#exa_6_12.sce#2102/CH6/EX6.12/exa_6_12.sce#S##69170
+6#Bipolar Junction Transistor Fets And Mosfet#6.11#Minimum value of VDS#exa_6_11.sce#2102/CH6/EX6.11/exa_6_11.sce#S##69169
+6#Bipolar Junction Transistor Fets And Mosfet#6.10#The value of VGS#exa_6_10.sce#2102/CH6/EX6.10/exa_6_10.sce#S##69168
+6#Bipolar Junction Transistor Fets And Mosfet#6.1#Transfer curve#exa_6_1.sce#2102/CH6/EX6.1/exa_6_1.sce#S##72296
+5#Frequency and High Power Devices#5.9#Decrease in capacitance#exa_5_9.sce#2102/CH5/EX5.9/exa_5_9.sce#S##72295
+5#Frequency and High Power Devices#5.8#Transition capacitance#exa_5_8.sce#2102/CH5/EX5.8/exa_5_8.sce#S##69155
+5#Frequency and High Power Devices#5.7#Diffusion capacitance for a Si diode#exa_5_7.sce#2102/CH5/EX5.7/exa_5_7.sce#S##69154
+5#Frequency and High Power Devices#5.6#Decrease in capacitance#exa_5_6.sce#2102/CH5/EX5.6/exa_5_6.sce#S##69153
+5#Frequency and High Power Devices#5.5#The depletion layer capacitance#exa_5_5.sce#2102/CH5/EX5.5/exa_5_5.sce#S##72294
+5#Frequency and High Power Devices#5.4#The value of CT#exa_5_4.sce#2102/CH5/EX5.4/exa_5_4.sce#S##69151
+5#Frequency and High Power Devices#5.3#Space charge capacitance#exa_5_3.sce#2102/CH5/EX5.3/exa_5_3.sce#S##72293
+5#Frequency and High Power Devices#5.2#The value of CT#exa_5_2.sce#2102/CH5/EX5.2/exa_5_2.sce#S##69149
+5#Frequency and High Power Devices#5.11#Tuning range for the circuit#exa_5_11.sce#2102/CH5/EX5.11/exa_5_11.sce#S##69158
+5#Frequency and High Power Devices#5.10#Tuning range for the circuit#exa_5_10.sce#2102/CH5/EX5.10/exa_5_10.sce#S##69157
+5#Frequency and High Power Devices#5.1#Tuning range for the circuit#exa_5_1.sce#2102/CH5/EX5.1/exa_5_1.sce#S##72703
+4#Optoelectonic Devices#4.9#Currents in a circuit#exa_4_9.sce#2102/CH4/EX4.9/exa_4_9.sce#S##69128
+4#Optoelectonic Devices#4.8#Responsivity#exa_4_8.sce#2102/CH4/EX4.8/exa_4_8.sce#S##69127
+4#Optoelectonic Devices#4.7#Responsivity of an InGaAs photo diode#exa_4_7.sce#2102/CH4/EX4.7/exa_4_7.sce#S##69126
+4#Optoelectonic Devices#4.6#Quantum efficiency of photo detector#exa_4_6.sce#2102/CH4/EX4.6/exa_4_6.sce#S##69125
+4#Optoelectonic Devices#4.5#Photocurrent#exa_4_5.sce#2102/CH4/EX4.5/exa_4_5.sce#S##69124
+4#Optoelectonic Devices#4.4#Internal quantum efficiency and optical power generated#exa_4_4.sce#2102/CH4/EX4.4/exa_4_4.sce#S##69123
+4#Optoelectonic Devices#4.3#Power radiated by an LED#exa_4_3.sce#2102/CH4/EX4.3/exa_4_3.sce#S##69122
+4#Optoelectonic Devices#4.29#Ratio of majority to minority charge carrier#exa_4_29.sce#2102/CH4/EX4.29/exa_4_29.sce#S##69148
+4#Optoelectonic Devices#4.28#Probability of exciting electron#exa_4_28.sce#2102/CH4/EX4.28/exa_4_28.sce#S##69147
+4#Optoelectonic Devices#4.27#Power efficiency of a VCSEL diode#exa_4_27.sce#2102/CH4/EX4.27/exa_4_27.sce#S##69146
+4#Optoelectonic Devices#4.26#The slope efficiency#exa_4_26.sce#2102/CH4/EX4.26/exa_4_26.sce#S##69145
+4#Optoelectonic Devices#4.25#Smallest standard resistor value#exa_4_25.sce#2102/CH4/EX4.25/exa_4_25.sce#S##69144
+4#Optoelectonic Devices#4.24#Minimum and maximum values of LED current#exa_4_24.sce#2102/CH4/EX4.24/exa_4_24.sce#S##69143
+4#Optoelectonic Devices#4.23#Power radiated by an LED#exa_4_23.sce#2102/CH4/EX4.23/exa_4_23.sce#S##69142
+4#Optoelectonic Devices#4.22#Internal quantum efficiency and optical power generated#exa_4_22.sce#2102/CH4/EX4.22/exa_4_22.sce#S##69141
+4#Optoelectonic Devices#4.21#Responsivity and received optical power#exa_4_21.sce#2102/CH4/EX4.21/exa_4_21.sce#S##72292
+4#Optoelectonic Devices#4.20#The value of current in the circuit#exa_4_20.sce#2102/CH4/EX4.20/exa_4_20.sce#S##69139
+4#Optoelectonic Devices#4.2#Power efficiency of a VCSEL diode#exa_4_2.sce#2102/CH4/EX4.2/exa_4_2.sce#S##69121
+4#Optoelectonic Devices#4.19#Supply voltage#exa_4_19.sce#2102/CH4/EX4.19/exa_4_19.sce#S##69138
+4#Optoelectonic Devices#4.18#Minimum and maximum values of LED current#exa_4_18.sce#2102/CH4/EX4.18/exa_4_18.sce#S##69137
+4#Optoelectonic Devices#4.17#Responsivity of an InGaAs photo diode#exa_4_17.sce#2102/CH4/EX4.17/exa_4_17.sce#S##69136
+4#Optoelectonic Devices#4.16#Quantum efficiency of photo detector#exa_4_16.sce#2102/CH4/EX4.16/exa_4_16.sce#S##69135
+4#Optoelectonic Devices#4.15#Internal quantum efficiency#exa_4_15.sce#2102/CH4/EX4.15/exa_4_15.sce#S##69134
+4#Optoelectonic Devices#4.14#Power radiated by an LED#exa_4_14.sce#2102/CH4/EX4.14/exa_4_14.sce#S##69133
+4#Optoelectonic Devices#4.13#Responsivity of the photo diode#exa_4_13.sce#2102/CH4/EX4.13/exa_4_13.sce#S##72291
+4#Optoelectonic Devices#4.12#Smallest standard resistor value#exa_4_12.sce#2102/CH4/EX4.12/exa_4_12.sce#S##69131
+4#Optoelectonic Devices#4.11#Supply voltage#exa_4_11.sce#2102/CH4/EX4.11/exa_4_11.sce#S##69130
+4#Optoelectonic Devices#4.10#Minimum and maximum values of LED current#exa_4_10.sce#2102/CH4/EX4.10/exa_4_10.sce#S##69129
+4#Optoelectonic Devices#4.1#The slope efficiency#exa_4_1.sce#2102/CH4/EX4.1/exa_4_1.sce#S##69120
+3#Junction Diode And Capacitance#3.9#Factor by which the current will get multiplied#exa_3_9.sce#2102/CH3/EX3.9/exa_3_9.sce#S##69112
+3#Junction Diode And Capacitance#3.8#Voltage at which the reverse in a Ge diode#exa_3_8.sce#2102/CH3/EX3.8/exa_3_8.sce#S##69111
+3#Junction Diode And Capacitance#3.7#Junction forward bias voltage#exa_3_7.sce#2102/CH3/EX3.7/exa_3_7.sce#S##72290
+3#Junction Diode And Capacitance#3.6#Voltage to be applied across a pn junction#exa_3_6.sce#2102/CH3/EX3.6/exa_3_6.sce#S##69185
+3#Junction Diode And Capacitance#3.5#Voltage to be applied across a pn junction #exa_3_5.sce#2102/CH3/EX3.5/exa_3_5.sce#S##69108
+3#Junction Diode And Capacitance#3.4#The constant n for the diode#exa_3_4.sce#2102/CH3/EX3.4/exa_3_4.sce#S##69107
+3#Junction Diode And Capacitance#3.3#The diode current for the forward bias voltage#exa_3_3.sce#2102/CH3/EX3.3/exa_3_3.sce#S##69106
+3#Junction Diode And Capacitance#3.2#The diffusion capacitance in pn junction diode#exa_3_2.sce#2102/CH3/EX3.2/exa_3_2.sce#S##69184
+3#Junction Diode And Capacitance#3.17#Dynamic resistance#exa_3_17.sce#2102/CH3/EX3.17/exa_3_17.sce#S##72704
+3#Junction Diode And Capacitance#3.16#Dynamic resistance of a diode#exa_3_16.sce#2102/CH3/EX3.16/exa_3_16.sce#S##69119
+3#Junction Diode And Capacitance#3.15#Junction dynamic resistance#exa_3_15.sce#2102/CH3/EX3.15/exa_3_15.sce#S##69118
+3#Junction Diode And Capacitance#3.14#DC resistance levels#exa_3_14.sce#2102/CH3/EX3.14/exa_3_14.sce#S##69117
+3#Junction Diode And Capacitance#3.13#Static and dynamic resistance#exa_3_13.sce#2102/CH3/EX3.13/exa_3_13.sce#S##69116
+3#Junction Diode And Capacitance#3.12#Forward and reverse dynamic resistance#exa_3_12.sce#2102/CH3/EX3.12/exa_3_12.sce#S##69115
+3#Junction Diode And Capacitance#3.11#Dynamic resistance#exa_3_11.sce#2102/CH3/EX3.11/exa_3_11.sce#S##69114
+3#Junction Diode And Capacitance#3.10#Forward and reverse resistance#exa_3_10.sce#2102/CH3/EX3.10/exa_3_10.sce#S##69113
+3#Junction Diode And Capacitance#3.1#The transition capacitance of diode#exa_3_1.sce#2102/CH3/EX3.1/exa_3_1.sce#S##69104
+2#Physics Of Semiconductors#2.9#The value of temperature at which the Fermi level coincides#exa_2_9.sce#2102/CH2/EX2.9/exa_2_9.sce#S##69072
+2#Physics Of Semiconductors#2.8#Resistivity of intrinsic Si#exa_2_8.sce#2102/CH2/EX2.8/exa_2_8.sce#S##69071
+2#Physics Of Semiconductors#2.7#Resistivity of Ge drops#exa_2_7.sce#2102/CH2/EX2.7/exa_2_7.sce#S##69070
+2#Physics Of Semiconductors#2.6#Conductivity of hole and electrons in an n typy Si#exa_2_6.sce#2102/CH2/EX2.6/exa_2_6.sce#S##69069
+2#Physics Of Semiconductors#2.5#Conductivity of copper#exa_2_5.sce#2102/CH2/EX2.5/exa_2_5.sce#S##69068
+2#Physics Of Semiconductors#2.40#Magnitude of r for the Si pn junction #exa_2_40.sce#2102/CH2/EX2.40/exa_2_40.sce#S##69103
+2#Physics Of Semiconductors#2.4#Conductivity of Si sample#exa_2_4.sce#2102/CH2/EX2.4/exa_2_4.sce#S##69067
+2#Physics Of Semiconductors#2.39#AC resistance of a semiconductor diode#exa_2_39.sce#2102/CH2/EX2.39/exa_2_39.sce#S##69102
+2#Physics Of Semiconductors#2.38#Dynamic resistance of Ge pn junction diode#exa_2_38.sce#2102/CH2/EX2.38/exa_2_38.sce#S##69101
+2#Physics Of Semiconductors#2.37#Forward current for a Ge diode at room temperature#exa_2_37.sce#2102/CH2/EX2.37/exa_2_37.sce#S##69100
+2#Physics Of Semiconductors#2.36#Current flowing in the diode#exa_2_36.sce#2102/CH2/EX2.36/exa_2_36.sce#S##69099
+2#Physics Of Semiconductors#2.35#Junction potential#exa_2_35.sce#2102/CH2/EX2.35/exa_2_35.sce#S##69098
+2#Physics Of Semiconductors#2.34#Intrinsic carrier concentration in Si#exa_2_34.sce#2102/CH2/EX2.34/exa_2_34.sce#S##69097
+2#Physics Of Semiconductors#2.33#Electron and hole drift velocity#exa_2_33.sce#2102/CH2/EX2.33/exa_2_33.sce#S##69096
+2#Physics Of Semiconductors#2.32#Conductivity of intrinsic Ge#exa_2_32.sce#2102/CH2/EX2.32/exa_2_32.sce#S##69095
+2#Physics Of Semiconductors#2.31#Drift velocity and time taken by the electron to travel#exa_2_31.sce#2102/CH2/EX2.31/exa_2_31.sce#S##69094
+2#Physics Of Semiconductors#2.30#Charge density of free electrons#exa_2_30.sce#2102/CH2/EX2.30/exa_2_30.sce#S##69093
+2#Physics Of Semiconductors#2.3#Free electrons and hole mobilities#exa_2_3.sce#2102/CH2/EX2.3/exa_2_3.sce#S##69066
+2#Physics Of Semiconductors#2.29#Ratio of electron to hole concentration#exa_2_29.sce#2102/CH2/EX2.29/exa_2_29.sce#S##69092
+2#Physics Of Semiconductors#2.28#Fraction of the total number of electrons#exa_2_28.sce#2102/CH2/EX2.28/exa_2_28.sce#S##69091
+2#Physics Of Semiconductors#2.27#Conductivity of extrinsic semiconductor#exa_2_27.sce#2102/CH2/EX2.27/exa_2_27.sce#S##69090
+2#Physics Of Semiconductors#2.26#Conductivity and resistivity of Ge#exa_2_26.sce#2102/CH2/EX2.26/exa_2_26.sce#S##69089
+2#Physics Of Semiconductors#2.25#Conductivity of Si sample#exa_2_25.sce#2102/CH2/EX2.25/exa_2_25.sce#S##69088
+2#Physics Of Semiconductors#2.24#Intrinsic carrier concentration of Ge#exa_2_24.sce#2102/CH2/EX2.24/exa_2_24.sce#S##69087
+2#Physics Of Semiconductors#2.23#The value of intrinsic conductivity#exa_2_23.sce#2102/CH2/EX2.23/exa_2_23.sce#S##69086
+2#Physics Of Semiconductors#2.22#Conductivity and resistivity of an intrinsic Si#exa_2_22.sce#2102/CH2/EX2.22/exa_2_22.sce#S##69085
+2#Physics Of Semiconductors#2.21#Conductivity and mobility for a copper wire#exa_2_21.sce#2102/CH2/EX2.21/exa_2_21.sce#S##69084
+2#Physics Of Semiconductors#2.20#Resistivity#exa_2_20.sce#2102/CH2/EX2.20/exa_2_20.sce#S##69083
+2#Physics Of Semiconductors#2.2#Value of intrinsic conductivities#exa_2_2.sce#2102/CH2/EX2.2/exa_2_2.sce#S##69065
+2#Physics Of Semiconductors#2.19#Electron hole concentration in the material#exa_2_19.sce#2102/CH2/EX2.19/exa_2_19.sce#S##69082
+2#Physics Of Semiconductors#2.18#Conductivity of Si material#exa_2_18.sce#2102/CH2/EX2.18/exa_2_18.sce#S##69081
+2#Physics Of Semiconductors#2.17#Resistivity of the material#exa_2_17.sce#2102/CH2/EX2.17/exa_2_17.sce#S##69080
+2#Physics Of Semiconductors#2.16#Relaxatime and drift velocity of electron in copper#exa_2_16.sce#2102/CH2/EX2.16/exa_2_16.sce#S##69079
+2#Physics Of Semiconductors#2.15#Doping level and drift velocity#exa_2_15.sce#2102/CH2/EX2.15/exa_2_15.sce#S##69078
+2#Physics Of Semiconductors#2.14#The minority carrier concentration at room temperature#exa_2_14.sce#2102/CH2/EX2.14/exa_2_14.sce#S##69077
+2#Physics Of Semiconductors#2.13#Total conduction current density#exa_2_13.sce#2102/CH2/EX2.13/exa_2_13.sce#S##69076
+2#Physics Of Semiconductors#2.12#Resistivity of Si#exa_2_12.sce#2102/CH2/EX2.12/exa_2_12.sce#S##69075
+2#Physics Of Semiconductors#2.11#Conductivity and resistivity of intrinsic sample of Si#exa_2_11.sce#2102/CH2/EX2.11/exa_2_11.sce#S##69074
+2#Physics Of Semiconductors#2.10#Minority carrier concentration#exa_2_10.sce#2102/CH2/EX2.10/exa_2_10.sce#S##72289
+2#Physics Of Semiconductors#2.1#Mobility and drift velocity#exa_2_1.sce#2102/CH2/EX2.1/exa_2_1.sce#S##69064
+1#Semiconductor And Magnetic Materials#1.9#Time taken by the electron to travel#exa_1_9.sce#2102/CH1/EX1.9/exa_1_9.sce#S##69050
+1#Semiconductor And Magnetic Materials#1.8#Charge density of free electrons#exa_1_8.sce#2102/CH1/EX1.8/exa_1_8.sce#S##69049
+1#Semiconductor And Magnetic Materials#1.7#Ratio of electron to hole concentration#exa_1_7.sce#2102/CH1/EX1.7/exa_1_7.sce#S##69048
+1#Semiconductor And Magnetic Materials#1.6#Fraction of the total number of electrons#exa_1_6.sce#2102/CH1/EX1.6/exa_1_6.sce#S##69047
+1#Semiconductor And Magnetic Materials#1.5#Conductivity#exa_1_5.sce#2102/CH1/EX1.5/exa_1_5.sce#S##69046
+1#Semiconductor And Magnetic Materials#1.4#Conductivity and resistivity#exa_1_4.sce#2102/CH1/EX1.4/exa_1_4.sce#S##69045
+1#Semiconductor And Magnetic Materials#1.3#Hole and electron concentration#exa_1_3.sce#2102/CH1/EX1.3/exa_1_3.sce#S##69044
+1#Semiconductor And Magnetic Materials#1.22#Conductivity of Si material#exa_1_22.sce#2102/CH1/EX1.22/exa_1_22.sce#S##69063
+1#Semiconductor And Magnetic Materials#1.21#Conductivity of Si material#exa_1_21.sce#2102/CH1/EX1.21/exa_1_21.sce#S##69062
+1#Semiconductor And Magnetic Materials#1.20#Drift velocity of free electrons#exa_1_20.sce#2102/CH1/EX1.20/exa_1_20.sce#S##69061
+1#Semiconductor And Magnetic Materials#1.2#Conductivity and mobility#exa_1_2.sce#2102/CH1/EX1.2/exa_1_2.sce#S##69043
+1#Semiconductor And Magnetic Materials#1.19#Conductivity of intrinsic Ge#exa_1_19.sce#2102/CH1/EX1.19/exa_1_19.sce#S##69060
+1#Semiconductor And Magnetic Materials#1.18#Conductivity of the material#exa_1_18.sce#2102/CH1/EX1.18/exa_1_18.sce#S##69059
+1#Semiconductor And Magnetic Materials#1.17#Hole and electron concentration#exa_1_17.sce#2102/CH1/EX1.17/exa_1_17.sce#S##69058
+1#Semiconductor And Magnetic Materials#1.16#Hole concentration and conductivity#exa_1_16.sce#2102/CH1/EX1.16/exa_1_16.sce#S##69057
+1#Semiconductor And Magnetic Materials#1.15#Conductivity of a bar#exa_1_15.sce#2102/CH1/EX1.15/exa_1_15.sce#S##69056
+1#Semiconductor And Magnetic Materials#1.14#Flux density#exa_1_14.sce#2102/CH1/EX1.14/exa_1_14.sce#S##69055
+1#Semiconductor And Magnetic Materials#1.13#Relative permeability#exa_1_13.sce#2102/CH1/EX1.13/exa_1_13.sce#S##69054
+1#Semiconductor And Magnetic Materials#1.12#Magnetic moment of the rod#exa_1_12.sce#2102/CH1/EX1.12/exa_1_12.sce#S##69053
+1#Semiconductor And Magnetic Materials#1.11#Current sending through the solenoid#exa_1_11.sce#2102/CH1/EX1.11/exa_1_11.sce#S##69052
+1#Semiconductor And Magnetic Materials#1.10#Horizontal component of the magnetic intensity#exa_1_10.sce#2102/CH1/EX1.10/exa_1_10.sce#S##72288

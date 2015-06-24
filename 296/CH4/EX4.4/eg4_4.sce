@@ -1,0 +1,11 @@
+n0 = 10^14;
+dn = 2*10^13;
+n = n0+dn;
+kT = 0.0259;
+ni = 1.5*10^10;
+Ei = kT*log(n0/ni);
+Fn = Ei + kT*log(n/ni);
+E = Fn-Ei;
+disp(n,"steady state electron concentration=")
+disp(Ei,"equilibrium Fermi level (in eV)=")
+disp(E,"electron quasi Fermi level position(in eV)=")

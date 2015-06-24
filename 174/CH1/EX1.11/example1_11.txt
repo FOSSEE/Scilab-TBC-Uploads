@@ -1,0 +1,3 @@
+(a)  The arithmatic mean of the readings = 101.3 ohm
+(b)  The standard deviation of the readings = 0.2 ohm
+(c)  The probable error of the readings = 0.1349 ohm 

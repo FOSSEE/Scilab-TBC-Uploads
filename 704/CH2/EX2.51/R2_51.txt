@@ -1,0 +1,7 @@
+speed of the motor (in rpm)=   
+ 
+    283.33333  
+ 
+ B.H.P. of the motor(in H.P)=   
+ 
+    24.316354  

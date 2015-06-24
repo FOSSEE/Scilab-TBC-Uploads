@@ -1,0 +1,5 @@
+**Sample Problem 6-2a**
+The Tension in the string is 90.734256 N
+
+**Sample Problem 6-2b**
+The force of friction will not change 

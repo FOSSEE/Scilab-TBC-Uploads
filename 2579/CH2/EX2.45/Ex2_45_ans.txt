@@ -1,0 +1,1 @@
+ The area of spot = 3.100628*10^9 m^2 

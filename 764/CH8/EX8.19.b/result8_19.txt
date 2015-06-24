@@ -1,0 +1,73 @@
+-->//(Welded and Riveted Joints) Example 8.19
+ 
+-->//Refer Fig.8.60 on page 309
+ 
+-->//Force acting on the plates P (kN)
+ 
+-->P = 250
+ P  =
+ 
+    250.  
+ 
+-->//Width of the plate w (mm)
+ 
+-->w = 200
+ w  =
+ 
+    200.  
+ 
+-->//Permissible tensile stress in the plate and rivet sigmat (N/mm2)
+ 
+-->sigmat = 70
+ sigmat  =
+ 
+    70.  
+ 
+-->//Permissible compressive stress in the plate and rivet sigmac (N/mm2)
+ 
+-->sigmac = 100
+ sigmac  =
+ 
+    100.  
+ 
+-->//Permissible shear stress in the plate and rivet tau (N/mm2)
+ 
+-->tau = 60
+ tau  =
+ 
+    60.  
+ 
+-->//Number of rivets n
+ 
+-->n = 5
+ n  =
+ 
+    5.  
+ 
+-->//Number of rivets considered to calculate plate thickness n1
+ 
+-->n1 = 2
+ n1  =
+ 
+    2.  
+ 
+-->//Number of rivets considered to calculate the pitch n2
+ 
+-->n2 = 3
+ n2  =
+ 
+    3.  
+ 
+
+Diameter of the rivets(ds) = 23.032943 or 25.000000 mm
+
+Thickness of the rivets(t) = 23.809524 or 25.000000 mm
+
+Pitch of the seam(p) = 66.666667 mm
+
+Transverse pitch of the seam(pt) = 40.000000 mm
+
+Margin of the seam(m) = 37.500000 or 40.000000 mm
+
+Efficiency of the joint(eta) = 75.000000 percent
+ 

@@ -1,0 +1,1 @@
+Capacitance of the line = 0.0096 uF/km

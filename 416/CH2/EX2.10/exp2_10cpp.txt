@@ -1,0 +1,7 @@
+ 
+ example 2.10   
+annual load factor =energy generated during 1 year/(max. load)x8760=0.2 
+ maximum load =2500kW
+capacity factor =(max.load/plant capacity)x(load factor)
+ plant capacity =max.load/0.75 =3333.333333MW 
+ reserve capacity =3.333-2.5=833.333333MW 

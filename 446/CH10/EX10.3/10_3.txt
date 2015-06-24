@@ -1,0 +1,6 @@
+  
+ Exa-10.3(a)   
+The number of hydrogen atoms required is 1.526869e+175 which weighs 2.549871e+148 Kg
+ 
+ Ex-10.3(b)   
+The value of temperature at which 1/10 atoms are in excited state is 32905.944 K 

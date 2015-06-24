@@ -1,0 +1,102 @@
+14#Emerging Wireless Network Technologies#14.5#Transmission data rate#Ex14_5.sce#2081/CH14/EX14.5/Ex14_5.sce#S##100135
+14#Emerging Wireless Network Technologies#14.4#Size of file#Ex14_4.sce#2081/CH14/EX14.4/Ex14_4.sce#S##100134
+14#Emerging Wireless Network Technologies#14.3#data transfer time#Ex14_3.sce#2081/CH14/EX14.3/Ex14_3.sce#S##100133
+14#Emerging Wireless Network Technologies#14.10#number of wireless links#Ex14_10.sce#2081/CH14/EX14.10/Ex14_10.sce#S##100136
+12#CDMA Digital Cellular Standards IS 95#12.8#bandwidth efficiency#Ex12_8.sce#2081/CH12/EX12.8/Ex12_8.sce#S##100125
+12#CDMA Digital Cellular Standards IS 95#12.7#capacity of IS 95#Ex12_7.sce#2081/CH12/EX12.7/Ex12_7.sce#S##100124
+12#CDMA Digital Cellular Standards IS 95#12.6#performance improvement factor#Ex12_6.sce#2081/CH12/EX12.6/Ex12_6.sce#S##100123
+12#CDMA Digital Cellular Standards IS 95#12.5#number of users per cell#Ex12_5.sce#2081/CH12/EX12.5/Ex12_5.sce#S##100122
+12#CDMA Digital Cellular Standards IS 95#12.4#capacity of CDMA#Ex12_4.sce#2081/CH12/EX12.4/Ex12_4.sce#S##100121
+12#CDMA Digital Cellular Standards IS 95#12.3#improvement in processing gain#Ex12_3.sce#2081/CH12/EX12.3/Ex12_3.sce#S##100120
+12#CDMA Digital Cellular Standards IS 95#12.19#number of users#Ex12_19.sce#2081/CH12/EX12.19/Ex12_19.sce#S##100132
+12#CDMA Digital Cellular Standards IS 95#12.18#theoretical and practical number of users #Ex12_18.sce#2081/CH12/EX12.18/Ex12_18.sce#S##100131
+12#CDMA Digital Cellular Standards IS 95#12.17#difference in power level#Ex12_17.sce#2081/CH12/EX12.17/Ex12_17.sce#S##100130
+12#CDMA Digital Cellular Standards IS 95#12.15#amount of delay#Ex12_15.sce#2081/CH12/EX12.15/Ex12_15.sce#S##100129
+12#CDMA Digital Cellular Standards IS 95#12.13#open loop power control#Ex12_13.sce#2081/CH12/EX12.13/Ex12_13.sce#S##100128
+12#CDMA Digital Cellular Standards IS 95#12.12#long code repetition time#Ex12_12.sce#2081/CH12/EX12.12/Ex12_12.sce#S##100127
+12#CDMA Digital Cellular Standards IS 95#12.10#processing gain#Ex12_10.sce#2081/CH12/EX12.10/Ex12_10.sce#S##100126
+12#CDMA Digital Cellular Standards IS 95#12.1#minimum number of PN bits#Ex12_1.sce#2081/CH12/EX12.1/Ex12_1.sce#S##100119
+11#Global System for Mobile GSM#11.7#gross channel data rate#Ex11_7.sce#2081/CH11/EX11.7/Ex11_7.sce#S##100117
+11#Global System for Mobile GSM#11.5#frame duration#Ex11_5.sce#2081/CH11/EX11.5/Ex11_5.sce#S##100116
+11#Global System for Mobile GSM#11.4#bandwidth efficiency#Ex11_4.sce#2081/CH11/EX11.4/Ex11_4.sce#S##100115
+11#Global System for Mobile GSM#11.3#theoretical signal to noise ratio#Ex11_3.sce#2081/CH11/EX11.3/Ex11_3.sce#S##100114
+11#Global System for Mobile GSM#11.2#3 dB bandwidth#Ex11_2.sce#2081/CH11/EX11.2/Ex11_2.sce#S##100113
+11#Global System for Mobile GSM#11.10#maximum frequency hop#Ex11_10.sce#2081/CH11/EX11.10/Ex11_10.sce#S##100118
+10#Wireless Communication Systems#10.8#AMPS communication range#Ex10_8.sce#2081/CH10/EX10.8/Ex10_8.sce#S##100107
+10#Wireless Communication Systems#10.6#number of channels in US AMPS#Ex10_6.sce#2081/CH10/EX10.6/Ex10_6.sce#S##100106
+10#Wireless Communication Systems#10.3#increase in capacity#Ex10_3.sce#2081/CH10/EX10.3/Ex10_3.sce#S##100105
+10#Wireless Communication Systems#10.2#number of pages#Ex10_2.sce#2081/CH10/EX10.2/Ex10_2.sce#S##100104
+10#Wireless Communication Systems#10.15#comparison of capacity#Ex10_15.sce#2081/CH10/EX10.15/Ex10_15.sce#S##100112
+10#Wireless Communication Systems#10.14#gross bit rate of TDMA voice frame#Ex10_14.sce#2081/CH10/EX10.14/Ex10_14.sce#S##100111
+10#Wireless Communication Systems#10.13#TDMA voice frame#Ex10_13.sce#2081/CH10/EX10.13/Ex10_13.sce#S##100110
+10#Wireless Communication Systems#10.12#transmission data rate#Ex10_12.sce#2081/CH10/EX10.12/Ex10_12.sce#S##100109
+10#Wireless Communication Systems#10.11#power level in TDMA#Ex10_11.sce#2081/CH10/EX10.11/Ex10_11.sce#S##100108
+10#Wireless Communication Systems#10.1#spectral efficiency#Ex10_1.sce#2081/CH10/EX10.1/Ex10_1.sce#S##100103
+9#A Basic Cellular System#9.9#Trunking efficiency#Ex9_9.sce#2081/CH9/EX9.9/Ex9_9.sce#S##100095
+9#A Basic Cellular System#9.8#number of users in Erlang B#Ex9_8.sce#2081/CH9/EX9.8/Ex9_8.sce#S##100094
+9#A Basic Cellular System#9.7#number of calls per hour per cell#Ex9_7.sce#2081/CH9/EX9.7/Ex9_7.sce#S##100093
+9#A Basic Cellular System#9.6#number of calls per hour per cell#Ex9_6.sce#2081/CH9/EX9.6/Ex9_6.sce#S##100092
+9#A Basic Cellular System#9.5#number of channels#Ex9_5.sce#2081/CH9/EX9.5/Ex9_5.sce#S##100091
+9#A Basic Cellular System#9.4#traffic intensity for cell#Ex9_4.sce#2081/CH9/EX9.4/Ex9_4.sce#S##100090
+9#A Basic Cellular System#9.3#average traffic per subscriber#Ex9_3.sce#2081/CH9/EX9.3/Ex9_3.sce#S##100089
+9#A Basic Cellular System#9.2#average traffic intensity#Ex9_2.sce#2081/CH9/EX9.2/Ex9_2.sce#S##100088
+9#A Basic Cellular System#9.16#capacity of GSM#Ex9_16.sce#2081/CH9/EX9.16/Ex9_16.sce#S##100102
+9#A Basic Cellular System#9.15#radio capacity#Ex9_15.sce#2081/CH9/EX9.15/Ex9_15.sce#S##100101
+9#A Basic Cellular System#9.14#spectral efficiency in TDMA#Ex9_14.sce#2081/CH9/EX9.14/Ex9_14.sce#S##100100
+9#A Basic Cellular System#9.13#number of users in FDMA#Ex9_13.sce#2081/CH9/EX9.13/Ex9_13.sce#S##100099
+9#A Basic Cellular System#9.12#number of users in FDMA#Ex9_12.sce#2081/CH9/EX9.12/Ex9_12.sce#S##100098
+9#A Basic Cellular System#9.11#number of users in Erlang C#Ex9_11.sce#2081/CH9/EX9.11/Ex9_11.sce#S##100097
+9#A Basic Cellular System#9.10#trunking efficiency in sectors#Ex9_10.sce#2081/CH9/EX9.10/Ex9_10.sce#S##100096
+8#Multiple Access Techniques#8.7#frame efficiency of GSM#Ex8_7.sce#2081/CH8/EX8.7/Ex8_7.sce#S##100086
+8#Multiple Access Techniques#8.5#number of simultaneous users#Ex8_5.sce#2081/CH8/EX8.5/Ex8_5.sce#S##100085
+8#Multiple Access Techniques#8.4#number of channel links #Ex8_4.sce#2081/CH8/EX8.4/Ex8_4.sce#S##100084
+8#Multiple Access Techniques#8.3#number of channels in AMPS#Ex8_3.sce#2081/CH8/EX8.3/Ex8_3.sce#S##100083
+8#Multiple Access Techniques#8.11#throughput of pure ALOHA#Ex8_11.sce#2081/CH8/EX8.11/Ex8_11.sce#S##100087
+8#Multiple Access Techniques#8.1#impact of aci in fdma#Ex8_1.sce#2081/CH8/EX8.1/Ex8_1.sce#S##100082
+7#Cellular System Design Tradeoffs#7.8#increase in capacity#Ex7_8.sce#2081/CH7/EX7.8/Ex7_8.sce#S##100079
+7#Cellular System Design Tradeoffs#7.7#Channel capacity#Ex7_7.sce#2081/CH7/EX7.7/Ex7_7.sce#S##100078
+7#Cellular System Design Tradeoffs#7.11#delay in reconstruction#Ex7_11.sce#2081/CH7/EX7.11/Ex7_11.sce#S##100081
+7#Cellular System Design Tradeoffs#7.10#code rate#Ex7_10.sce#2081/CH7/EX7.10/Ex7_10.sce#S##100080
+6#Frequency Management and Channel Assignment#6.5#Fixed Channel Assignment#Ex6_5.sce#2081/CH6/EX6.5/Ex6_5.sce#S##100076
+6#Frequency Management and Channel Assignment#6.4#setup and voice channels per cell#Ex6_4.sce#2081/CH6/EX6.4/Ex6_4.sce#S##100075
+6#Frequency Management and Channel Assignment#6.10#Size of cell#Ex6_10.sce#2081/CH6/EX6.10/Ex6_10.sce#S##100077
+6#Frequency Management and Channel Assignment#6.1#number of channels per cell#Ex6_1.sce#2081/CH6/EX6.1/Ex6_1.sce#S##100074
+5#Cellular antenna system design considerations#5.9#optimum value of cluster size#Ex5_9.sce#2081/CH5/EX5.9/Ex5_9.sce#S##100072
+5#Cellular antenna system design considerations#5.8#carrier to interference ratio in 6 sector system#Ex5_8.sce#2081/CH5/EX5.8/Ex5_8.sce#S##100071
+5#Cellular antenna system design considerations#5.7# Carrier to Interface ratio in 6 sector system#Ex5_7.sce#2081/CH5/EX5.7/Ex5_7.sce#S##100070
+5#Cellular antenna system design considerations#5.6# Carrier to Interface ratio in 3 sector system#Ex5_6.sce#2081/CH5/EX5.6/Ex5_6.sce#S##100069
+5#Cellular antenna system design considerations#5.5# Carrier to Interface ratio in 3 sector system#Ex5_5.sce#2081/CH5/EX5.5/Ex5_5.sce#S##100068
+5#Cellular antenna system design considerations#5.4# Carrier to Interface ratio in omnidirectional antenna system#Ex5_4.sce#2081/CH5/EX5.4/Ex5_4.sce#S##100067
+5#Cellular antenna system design considerations#5.2#minimum cluster size#Ex5_2.sce#2081/CH5/EX5.2/Ex5_2.sce#S##100066
+5#Cellular antenna system design considerations#5.10#Compare cell configurations#Ex5_10.sce#2081/CH5/EX5.10/Ex5_10.sce#S##100073
+5#Cellular antenna system design considerations#5.1#input signal level#Ex5_1.sce#2081/CH5/EX5.1/Ex5_1.sce#S##100065
+4#Principles of Cellular Communication#4.9#cluster size#Ex4_9.sce#2081/CH4/EX4.9/Ex4_9.sce#S##100062
+4#Principles of Cellular Communication#4.7#cluster and system capacity#Ex4_7.sce#2081/CH4/EX4.7/Ex4_7.sce#S##100061
+4#Principles of Cellular Communication#4.6#cellular system capacity#Ex4_6.sce#2081/CH4/EX4.6/Ex4_6.sce#S##100060
+4#Principles of Cellular Communication#4.5#system capacity#Ex4_5.sce#2081/CH4/EX4.5/Ex4_5.sce#S##100059
+4#Principles of Cellular Communication#4.3#cell size#Ex4_3.sce#2081/CH4/EX4.3/Ex4_3.sce#S##100058
+4#Principles of Cellular Communication#4.2#number of clusters#Ex4_2.sce#2081/CH4/EX4.2/Ex4_2.sce#S##100057
+4#Principles of Cellular Communication#4.11#frequency reuse ratio#Ex4_11.sce#2081/CH4/EX4.11/Ex4_11.sce#S##100064
+4#Principles of Cellular Communication#4.10#cluster distance#Ex4_10.sce#2081/CH4/EX4.10/Ex4_10.sce#S##100063
+4#Principles of Cellular Communication#4.1#area and number of voice channels#Ex4_1.sce#2081/CH4/EX4.1/Ex4_1.sce#S##100056
+3#The Propogation Models#3.9#path loss in urban city#Ex3_9.sce#2081/CH3/EX3.9/Ex3_9.sce#S##100054
+3#The Propogation Models#3.8#Fraunhoffer distance#Ex3_8.sce#2081/CH3/EX3.8/Ex3_8.sce#S##100053
+3#The Propogation Models#3.7#propogation path loss#Ex3_7.sce#2081/CH3/EX3.7/Ex3_7.sce#S##100052
+3#The Propogation Models#3.6#power delivered#Ex3_6.sce#2081/CH3/EX3.6/Ex3_6.sce#S##100051
+3#The Propogation Models#3.5#path loss and recieved power and delay#Ex3_5.sce#2081/CH3/EX3.5/Ex3_5.sce#S##100050
+3#The Propogation Models#3.4#recieved power#Ex3_4.sce#2081/CH3/EX3.4/Ex3_4.sce#S##100049
+3#The Propogation Models#3.3#range of base station transmitter #Ex3_3.sce#2081/CH3/EX3.3/Ex3_3.sce#S##100048
+3#The Propogation Models#3.2#Free space path loss#Ex3_2.sce#2081/CH3/EX3.2/Ex3_2.sce#S##100047
+3#The Propogation Models#3.10#path loss in large city#Ex3_10.sce#2081/CH3/EX3.10/Ex3_10.sce#S##100055
+3#The Propogation Models#3.1#EIRP and power density#Ex3_1.sce#2081/CH3/EX3.1/Ex3_1.sce#S##100046
+2#Mobile Communication Engineering#2.9#Fade duration#Ex2_9.sce#2081/CH2/EX2.9/Ex2_9.sce#S##100043
+2#Mobile Communication Engineering#2.8#doppler frequency#Ex2_8.sce#2081/CH2/EX2.8/Ex2_8.sce#S##100042
+2#Mobile Communication Engineering#2.7#mobile antenna beamwidth#Ex2_7.sce#2081/CH2/EX2.7/Ex2_7.sce#S##100041
+2#Mobile Communication Engineering#2.6#maximum speed of vehicle#Ex2_6.sce#2081/CH2/EX2.6/Ex2_6.sce#S##100040
+2#Mobile Communication Engineering#2.5#doppler frequency shift#Ex2_5.sce#2081/CH2/EX2.5/Ex2_5.sce#S##100039
+2#Mobile Communication Engineering#2.4#time between fades#Ex2_4.sce#2081/CH2/EX2.4/Ex2_4.sce#S##100038
+2#Mobile Communication Engineering#2.3#amount of delay#Ex2_3.sce#2081/CH2/EX2.3/Ex2_3.sce#S##100037
+2#Mobile Communication Engineering#2.2#change in recieved signal in mobile radio#Ex2_2.sce#2081/CH2/EX2.2/Ex2_2.sce#S##100036
+2#Mobile Communication Engineering#2.11#Correlative fading#Ex2_11.sce#2081/CH2/EX2.11/Ex2_11.sce#S##100045
+2#Mobile Communication Engineering#2.10#Symbol rate#Ex2_10.sce#2081/CH2/EX2.10/Ex2_10.sce#S##100044
+2#Mobile Communication Engineering#2.1#change in recieved signal in free space#Ex2_1.sce#2081/CH2/EX2.1/Ex2_1.sce#S##100035

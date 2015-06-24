@@ -1,0 +1,10 @@
+(a)Armature current of second machine(in A)=   
+ 
+    60.21201  
+ 
+ (b)Power factor of both machines=   
+ 
+    0.7264108  
+ 
+    0.8747731  
+ 

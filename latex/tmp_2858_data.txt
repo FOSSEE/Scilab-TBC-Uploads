@@ -1,0 +1,94 @@
+14#Soil Improvement and Ground Modification#14.3#3#Ex14_3.sce#2858/CH14/EX14.3/Ex14_3.sce#S##108946
+14#Soil Improvement and Ground Modification#14.2#2#Ex14_2.sce#2858/CH14/EX14.2/Ex14_2.sce#S##108948
+14#Soil Improvement and Ground Modification#14.1#1#Ex14_1.sce#2858/CH14/EX14.1/Ex14_1.sce#S##108947
+13#Foundations on Difficult Soils#13.3#3#Ex13_3.sce#2858/CH13/EX13.3/Ex13_3.sce#S##108943
+13#Foundations on Difficult Soils#13.2#2#Ex13_2.sce#2858/CH13/EX13.2/Ex13_2.sce#S##108945
+13#Foundations on Difficult Soils#13.1#1#Ex13_1.sce#2858/CH13/EX13.1/Ex13_1.sce#S##108944
+12#Drift Shaft Foundations#12.8#8#Ex12_8.sce#2858/CH12/EX12.8/Ex12_8.sce#S##108936
+12#Drift Shaft Foundations#12.7#7#Ex12_7.sce#2858/CH12/EX12.7/Ex12_7.sce#S##108935
+12#Drift Shaft Foundations#12.6#6#Ex12_6.sce#2858/CH12/EX12.6/Ex12_6.sce#S##108942
+12#Drift Shaft Foundations#12.5#5#Ex12_5.sce#2858/CH12/EX12.5/Ex12_5.sce#S##108941
+12#Drift Shaft Foundations#12.4#4#Ex12_4.sce#2858/CH12/EX12.4/Ex12_4.sce#S##108940
+12#Drift Shaft Foundations#12.3#3#Ex12_3.sce#2858/CH12/EX12.3/Ex12_3.sce#S##108939
+12#Drift Shaft Foundations#12.2#2#Ex12_2.sce#2858/CH12/EX12.2/Ex12_2.sce#S##108938
+12#Drift Shaft Foundations#12.1#1#Ex12_1.sce#2858/CH12/EX12.1/Ex12_1.sce#S##108937
+11#Pile Foundations#11.9#9#Ex11_9.sce#2858/CH11/EX11.9/Ex11_9.sce#S##108933
+11#Pile Foundations#11.8#8#Ex11_8.sce#2858/CH11/EX11.8/Ex11_8.sce#S##108932
+11#Pile Foundations#11.7#7#Ex11_7.sce#2858/CH11/EX11.7/Ex11_7.sce#S##108931
+11#Pile Foundations#11.6#6#Ex11_6.sce#2858/CH11/EX11.6/Ex11_6.sce#S##108930
+11#Pile Foundations#11.5#5#Ex11_5.sce#2858/CH11/EX11.5/Ex11_5.sce#S##108929
+11#Pile Foundations#11.4#4#Ex11_4.sce#2858/CH11/EX11.4/Ex11_4.sce#S##108928
+11#Pile Foundations#11.3#3#Ex11_3.sce#2858/CH11/EX11.3/Ex11_3.sce#S##108927
+11#Pile Foundations#11.2#2#Ex11_2.sce#2858/CH11/EX11.2/Ex11_2.sce#S##108926
+11#Pile Foundations#11.12#12#Ex11_12.sce#2858/CH11/EX11.12/Ex11_12.sce#S##108923
+11#Pile Foundations#11.11#11#Ex11_11.sce#2858/CH11/EX11.11/Ex11_11.sce#S##108924
+11#Pile Foundations#11.10#10#Ex11_10.sce#2858/CH11/EX11.10/Ex11_10.sce#S##108934
+11#Pile Foundations#11.1#1#Ex11_1.sce#2858/CH11/EX11.1/Ex11_1.sce#S##108925
+10#Braced Cuts#10.4#4#Ex10_4.sce#2858/CH10/EX10.4/Ex10_4.sce#S##108919
+10#Braced Cuts#10.3#3#Ex10_3.sce#2858/CH10/EX10.3/Ex10_3.sce#S##108922
+10#Braced Cuts#10.2#2#Ex10_2.sce#2858/CH10/EX10.2/Ex10_2.sce#S##108921
+10#Braced Cuts#10.1#1#Ex10_1.sce#2858/CH10/EX10.1/Ex10_1.sce#S##108920
+9#Sheet Pile Piles#9.8#4#Ex9_8.sce#2858/CH9/EX9.8/Ex9_8.sce#S##108911
+9#Sheet Pile Piles#9.7#7#Ex9_7.sce#2858/CH9/EX9.7/Ex9_7.sce#S##108918
+9#Sheet Pile Piles#9.6#6#Ex9_6.sce#2858/CH9/EX9.6/Ex9_6.sce#S##108917
+9#Sheet Pile Piles#9.5#5#Ex9_5.sce#2858/CH9/EX9.5/Ex9_5.sce#S##108916
+9#Sheet Pile Piles#9.4#4#Ex9_4.sce#2858/CH9/EX9.4/Ex9_4.sce#S##108915
+9#Sheet Pile Piles#9.3#3#Ex9_3.sce#2858/CH9/EX9.3/Ex9_3.sce#S##108914
+9#Sheet Pile Piles#9.2#2#Ex9_2.sce#2858/CH9/EX9.2/Ex9_2.sce#S##108913
+9#Sheet Pile Piles#9.1#1#Ex9_1.sce#2858/CH9/EX9.1/Ex9_1.sce#S##108912
+8#Retaining Walls#8.7#7#Ex8_7.sce#2858/CH8/EX8.7/Ex8_7.sce#S##108904
+8#Retaining Walls#8.6#6#Ex8_6.sce#2858/CH8/EX8.6/Ex8_6.sce#S##108910
+8#Retaining Walls#8.5#5#Ex8_5.sce#2858/CH8/EX8.5/Ex8_5.sce#S##108909
+8#Retaining Walls#8.4#4#Ex8_4.sce#2858/CH8/EX8.4/Ex8_4.sce#S##108908
+8#Retaining Walls#8.3#3#Ex8_3.sce#2858/CH8/EX8.3/Ex8_3.sce#S##108907
+8#Retaining Walls#8.2#2#Ex8_2.sce#2858/CH8/EX8.2/Ex8_2.sce#S##108906
+8#Retaining Walls#8.1#1#Ex8_1.sce#2858/CH8/EX8.1/Ex8_1.sce#S##108905
+7#Lateral Earth Pressure#7.7#7#Ex7_7.sce#2858/CH7/EX7.7/Ex7_7.sce#S##108897
+7#Lateral Earth Pressure#7.6#6#Ex7_6.sce#2858/CH7/EX7.6/Ex7_6.sce#S##108903
+7#Lateral Earth Pressure#7.5#5#Ex7_5.sce#2858/CH7/EX7.5/Ex7_5.sce#S##108902
+7#Lateral Earth Pressure#7.4#4#Ex7_4.sce#2858/CH7/EX7.4/Ex7_4.sce#S##108901
+7#Lateral Earth Pressure#7.3#3#Ex7_3.sce#2858/CH7/EX7.3/Ex7_3.sce#S##108900
+7#Lateral Earth Pressure#7.2#2#Ex7_2.sce#2858/CH7/EX7.2/Ex7_2.sce#S##108899
+7#Lateral Earth Pressure#7.1#1#Ex7_1.sce#2858/CH7/EX7.1/Ex7_1.sce#S##108898
+6#Mat Foundations#6.6#6#Ex6_6.sce#2858/CH6/EX6.6/Ex6_6.sce#S##108891
+6#Mat Foundations#6.5#5#Ex6_5.sce#2858/CH6/EX6.5/Ex6_5.sce#S##108896
+6#Mat Foundations#6.4#4#Ex6_4.sce#2858/CH6/EX6.4/Ex6_4.sce#S##108895
+6#Mat Foundations#6.3#3#Ex6_3.sce#2858/CH6/EX6.3/Ex6_3.sce#S##108894
+6#Mat Foundations#6.2#2#Ex6_2.sce#2858/CH6/EX6.2/Ex6_2.sce#S##108893
+6#Mat Foundations#6.1#1#Ex6_1.sce#2858/CH6/EX6.1/Ex6_1.sce#S##108892
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.9#9#Ex5_9.sce#2858/CH5/EX5.9/Ex5_9.sce#S##108889
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.8#8#Ex5_8.sce#2858/CH5/EX5.8/Ex5_8.sce#S##108888
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.7#7#Ex5_8.sce#2858/CH5/EX5.7/Ex5_8.sce#S##108887
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.6#6#Ex5_6.sce#2858/CH5/EX5.6/Ex5_6.sce#S##108886
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.5#5#Ex5_5.sce#2858/CH5/EX5.5/Ex5_5.sce#S##108885
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.4#4#Ex5_4.sce#2858/CH5/EX5.4/Ex5_4.sce#S##108884
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.3#3#Ex5_3.sce#2858/CH5/EX5.3/Ex5_3.sce#S##108883
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.2#2#Ex5_2.sce#2858/CH5/EX5.2/Ex5_2.sce#S##108882
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.11#11#Ex5_11.sce#2858/CH5/EX5.11/Ex5_11.sce#S##108880
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.10#10#Ex5_10.sce#2858/CH5/EX5.10/Ex5_10.sce#S##108890
+5#Shallow Foundations Allowable Bearing Capacity and Settlement#5.1#1#Ex5_1.sce#2858/CH5/EX5.1/Ex5_1.sce#S##108881
+4#Ultimate Bearing Capacity of Shallow Foundations#4.8#8#Ex4_8.sce#2858/CH4/EX4.8/Ex4_8.sce#S##108873
+4#Ultimate Bearing Capacity of Shallow Foundations#4.7#7#Ex4_7.sce#2858/CH4/EX4.7/Ex4_7.sce#S##108879
+4#Ultimate Bearing Capacity of Shallow Foundations#4.6#6#Ex4_6.sce#2858/CH4/EX4.6/Ex4_6.sce#S##108878
+4#Ultimate Bearing Capacity of Shallow Foundations#4.5#5#Ex4_5.sce#2858/CH4/EX4.5/Ex4_5.sce#S##108877
+4#Ultimate Bearing Capacity of Shallow Foundations#4.4#4#Ex4_4.sce#2858/CH4/EX4.4/Ex4_4.sce#S##108876
+4#Ultimate Bearing Capacity of Shallow Foundations#4.3#3#Ex4_3.sce#2858/CH4/EX4.3/Ex4_3.sce#S##108875
+4#Ultimate Bearing Capacity of Shallow Foundations#4.2#2#Ex4_2.sce#2858/CH4/EX4.2/Ex4_2.sce#S##108874
+4#Ultimate Bearing Capacity of Shallow Foundations#4.1#1#Ex4_1.sce#2858/CH4/EX4.1/Ex4_1.sce#S##108872
+3#Shallow Foundations#3.8#8#Ex3_8.sce#2858/CH3/EX3.8/Ex3_8.sce#S##108864
+3#Shallow Foundations#3.7#7#Ex3_7.sce#2858/CH3/EX3.7/Ex3_7.sce#S##108871
+3#Shallow Foundations#3.6#6#Ex3_6.sce#2858/CH3/EX3.6/Ex3_6.sce#S##108870
+3#Shallow Foundations#3.5#5#Ex3_5.sce#2858/CH3/EX3.5/Ex3_5.sce#S##108869
+3#Shallow Foundations#3.4#4#Ex3_4.sce#2858/CH3/EX3.4/Ex3_4.sce#S##108868
+3#Shallow Foundations#3.3#3#Ex3_3.sce#2858/CH3/EX3.3/Ex3_3.sce#S##108867
+3#Shallow Foundations#3.2#2#Ex3_2.sce#2858/CH3/EX3.2/Ex3_2.sce#S##108866
+3#Shallow Foundations#3.1#1#Ex3_1.sce#2858/CH3/EX3.1/Ex3_1.sce#S##108865
+2#Natural Soil Deposits and Subsoil Exploration#2.1#1#Ex2_1.sce#2858/CH2/EX2.1/Ex2_1.sce#S##108863
+1#Geotechnical Properties of Soil#1.8#8#Ex1_8.sce#2858/CH1/EX1.8/Ex1_8.sce#S##108862
+1#Geotechnical Properties of Soil#1.7#7#Ex1_7.sce#2858/CH1/EX1.7/Ex1_7.sce#S##108861
+1#Geotechnical Properties of Soil#1.6#6#Ex1_6.sce#2858/CH1/EX1.6/Ex1_6.sce#S##108860
+1#Geotechnical Properties of Soil#1.5#5#Ex1_5.sce#2858/CH1/EX1.5/Ex1_5.sce#S##108859
+1#Geotechnical Properties of Soil#1.4#4#Ex1_4.sce#2858/CH1/EX1.4/Ex1_4.sce#S##108858
+1#Geotechnical Properties of Soil#1.3#3#Ex1_3.sce#2858/CH1/EX1.3/Ex1_3.sce#S##108857
+1#Geotechnical Properties of Soil#1.2#2#Ex1_2.sce#2858/CH1/EX1.2/Ex1_2.sce#S##108856
+1#Geotechnical Properties of Soil#1.1#1#Ex1_1.sce#2858/CH1/EX1.1/Ex1_1.sce#S##108855

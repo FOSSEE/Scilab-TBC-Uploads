@@ -1,0 +1,5 @@
+
+ # Problem 9 # 
+
+ Standard formula used 
+ Lifetime of meson is 3.333333e-08 sec.

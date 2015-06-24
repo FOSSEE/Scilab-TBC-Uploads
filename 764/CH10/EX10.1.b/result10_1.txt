@@ -1,0 +1,72 @@
+-->//(Springs) Example 10.1
+ 
+-->//Refer Fig.10.16 on page 408
+ 
+-->//Maximum force acting on the helical spring P (N)
+ 
+-->P = 1250
+ P  =
+ 
+    1250.  
+ 
+-->//Deflection of the spring delta (mm)
+ 
+-->delta = 30
+ delta  =
+ 
+    30.  
+ 
+-->//Spring index C
+ 
+-->C = 6
+ C  =
+ 
+    6.  
+ 
+-->//Ultimate tensile strength of the spring material Sut (N/mm2)
+ 
+-->Sut = 1090
+ Sut  =
+ 
+    1090.  
+ 
+-->//Rigidity modulus of the material G (N/mm2)
+ 
+-->G = 81370
+ G  =
+ 
+    81370.  
+ 
+-->//For plain ends, endtype = 1
+ 
+-->//For plain ends(ground), endtype = 2
+ 
+-->//For square ends, endtype = 3
+ 
+-->//For square ends(ground), endtype = 4
+ 
+-->endtype = 4
+ endtype  =
+ 
+    4.  
+ 
+-->//Gap between consecutive coils g (mm)
+ 
+-->g = 1
+ g  =
+ 
+    1.  
+ 
+
+Wire diameter(d) = 6.625083 or 7.000000 mm
+
+Mean coil diameter(D) = 42.000000 mm
+
+Number of active coils(N) = 8
+
+Total number of coils(Nt) = 10
+
+Free length of the spring(l) = 109.337611 or 110.000000 mm
+
+Pitch of the coil(p) = 12.148623 mm
+ 

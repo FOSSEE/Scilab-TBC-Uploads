@@ -1,0 +1,6 @@
+Synchronous reactance and impedance(in ohms)=   
+ 
+    6.3373891  
+ 
+    6.35  
+ 

@@ -1,0 +1,2 @@
+ The max radiated electric field = 2.111150 V/m
+ The max power density = 0.011822 W/m 

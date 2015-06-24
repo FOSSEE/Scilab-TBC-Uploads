@@ -1,0 +1,7 @@
+ 
+ example 10.11   
+
+ce=8.652998e-004
+be=7.8888ae=870.959 
+ cost characteristics of composite unit for demand pt is 
+ ct=870.959+7.8888*p1+8.652998e-004p1^2 

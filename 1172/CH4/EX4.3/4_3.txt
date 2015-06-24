@@ -1,0 +1,4 @@
+ # Problem 3 # 
+Standard formula used is W = F*d 
+  
+ Total work done  is 61 units 

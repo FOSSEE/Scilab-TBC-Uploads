@@ -1,0 +1,2 @@
+Drain current is 4.55 mAmperes
+Voltage gain is 0.822

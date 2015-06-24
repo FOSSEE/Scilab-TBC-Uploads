@@ -1,0 +1,5 @@
+ 
+ Design Example 17.1
+
+ Silicon material of p-type of conductivity 50 (ohm-m)^-1 
+ must have 1.60e-05% doping material 

@@ -1,0 +1,7 @@
+ 
+ # Dimensional changes during the shaping of ceramic components # 
+
+
+ Initial Length=22.765957 mm
+
+Dried porosity is 19 percent 

@@ -1,0 +1,2 @@
+	 carrier power = 689.061154 W  
+ Execution done. 

@@ -1,0 +1,4 @@
+load voltage is 9.3 volts
+load current is 9.3 milli amperes
+diode power is 6.51 milli watt
+

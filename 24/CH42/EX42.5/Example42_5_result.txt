@@ -1,0 +1,2 @@
+**Sample Problem 42-5**
+Number of occupied states per eV at 7 ev is equal to 2.000000e+019

@@ -1,0 +1,168 @@
+8#Cavitation in Hydraulic Machinery#8.0#Theory#Example8.sce#1358/CH8/EX8.0/Example8.sce#S##53869
+7#Axial Flow and Radial Flow Gas Turbines#7.9#Turbine inlet temperature 900C#Example79.sce#1358/CH7/EX7.9/Example79.sce#S##53864
+7#Axial Flow and Radial Flow Gas Turbines#7.8#Equal stage inlet and outlet velocities#Example78.sce#1358/CH7/EX7.8/Example78.sce#S##53863
+7#Axial Flow and Radial Flow Gas Turbines#7.7#Rotation 14500rpm#Example77.sce#1358/CH7/EX7.7/Example77.sce#S##53862
+7#Axial Flow and Radial Flow Gas Turbines#7.6#Inlet stagnation temperature is 1150 K#Example76.sce#1358/CH7/EX7.6/Example76.sce#S##53861
+7#Axial Flow and Radial Flow Gas Turbines#7.5#Inlet stagnation temperature is 1000 K#Example75.sce#1358/CH7/EX7.5/Example75.sce#S##53860
+7#Axial Flow and Radial Flow Gas Turbines#7.4#Throat area for 73#Example74.sce#1358/CH7/EX7.4/Example74.sce#S##53859
+7#Axial Flow and Radial Flow Gas Turbines#7.3#Stagnation temperature of 1100K#Example73.sce#1358/CH7/EX7.3/Example73.sce#S##53857
+7#Axial Flow and Radial Flow Gas Turbines#7.3#Stagnation temperature of 1100K#Ex73.PNG#1358/CH7/EX7.3/Ex73.PNG#R##53858
+7#Axial Flow and Radial Flow Gas Turbines#7.2#Nozzle efflux angle 68#Example72.sce#1358/CH7/EX7.2/Example72.sce#S##53856
+7#Axial Flow and Radial Flow Gas Turbines#7.12#Rotation 30500rpm#Example712.sce#1358/CH7/EX7.12/Example712.sce#S##53868
+7#Axial Flow and Radial Flow Gas Turbines#7.11#Inward radial flow gas turbine#Example711.sce#1358/CH7/EX7.11/Example711.sce#S##53866
+7#Axial Flow and Radial Flow Gas Turbines#7.11#Inward radial flow gas turbine#Ex711.PNG#1358/CH7/EX7.11/Ex711.PNG#R##53867
+7#Axial Flow and Radial Flow Gas Turbines#7.10#Gas leaving stage in axial direction#Example710.sce#1358/CH7/EX7.10/Example710.sce#S##53865
+7#Axial Flow and Radial Flow Gas Turbines#7.1#Impulse gas turbine#Example71.sce#1358/CH7/EX7.1/Example71.sce#S##53854
+7#Axial Flow and Radial Flow Gas Turbines#7.1#Impulse gas turbine#Ex71.PNG#1358/CH7/EX7.1/Ex71.PNG#R##53855
+6#Steam Turbines#6.9#Parson Turbine#Example69.sce#1358/CH6/EX6.9/Example69.sce#S##53835
+6#Steam Turbines#6.9#Parson Turbine#Ex69.PNG#1358/CH6/EX6.9/Ex69.PNG#R##53836
+6#Steam Turbines#6.8#1 stage impulse turbine#Example68.sce#1358/CH6/EX6.8/Example68.sce#S##53833
+6#Steam Turbines#6.8#1 stage impulse turbine#Ex68.PNG#1358/CH6/EX6.8/Ex68.PNG#R##53834
+6#Steam Turbines#6.7#Steam leaving nozzle at 590#Example67.sce#1358/CH6/EX6.7/Example67.sce#S##53831
+6#Steam Turbines#6.7#Steam leaving nozzle at 590#Ex67.PNG#1358/CH6/EX6.7/Ex67.PNG#R##53832
+6#Steam Turbines#6.6#Steam leaving nozzle at 925#Example66.sce#1358/CH6/EX6.6/Example66.sce#S##53829
+6#Steam Turbines#6.6#Steam leaving nozzle at 925#Ex66.PNG#1358/CH6/EX6.6/Ex66.PNG#R##53830
+6#Steam Turbines#6.5#Convergent Divergent Nozzle#Example65.sce#1358/CH6/EX6.5/Example65.sce#S##53827
+6#Steam Turbines#6.5#Convergent Divergent Nozzle#Ex65.PNG#1358/CH6/EX6.5/Ex65.PNG#R##53828
+6#Steam Turbines#6.4#Ratio of cross sectional area#Example64.sce#1358/CH6/EX6.4/Example64.sce#S##53825
+6#Steam Turbines#6.4#Ratio of cross sectional area#Ex64.PNG#1358/CH6/EX6.4/Ex64.PNG#R##53826
+6#Steam Turbines#6.3#Exit area required#Example63.sce#1358/CH6/EX6.3/Example63.sce#S##53824
+6#Steam Turbines#6.2#Mass of steam discharged#Example62.sce#1358/CH6/EX6.2/Example62.sce#S##53823
+6#Steam Turbines#6.17#Series of stages#Example617.sce#1358/CH6/EX6.17/Example617.sce#S##53852
+6#Steam Turbines#6.17#Series of stages#Ex617.PNG#1358/CH6/EX6.17/Ex617.PNG#R##53853
+6#Steam Turbines#6.16#Reaction stage turbine#Example616.sce#1358/CH6/EX6.16/Example616.sce#S##53850
+6#Steam Turbines#6.16#Reaction stage turbine#Ex616.PNG#1358/CH6/EX6.16/Ex616.PNG#R##53851
+6#Steam Turbines#6.15#Two row velocity compounded impulse turbine#Example615.sce#1358/CH6/EX6.15/Example615.sce#S##53847
+6#Steam Turbines#6.15#Two row velocity compounded impulse turbine#Ex615.PNG#1358/CH6/EX6.15/Ex615.PNG#R##53848
+6#Steam Turbines#6.15#Two row velocity compounded impulse turbine#Ex615a.PNG#1358/CH6/EX6.15/Ex615a.PNG#R##53849
+6#Steam Turbines#6.14#RPM 440#Example614.sce#1358/CH6/EX6.14/Example614.sce#S##53845
+6#Steam Turbines#6.14#RPM 440#Ex614.PNG#1358/CH6/EX6.14/Ex614.PNG#R##53846
+6#Steam Turbines#6.13#Blade height and power developed#Example613.sce#1358/CH6/EX6.13/Example613.sce#S##53843
+6#Steam Turbines#6.13#Blade height and power developed#Ex613.PNG#1358/CH6/EX6.13/Ex613.PNG#R##53844
+6#Steam Turbines#6.12#Axial velocity constant#Example612.sce#1358/CH6/EX6.12/Example612.sce#S##53841
+6#Steam Turbines#6.12#Axial velocity constant#Ex612.PNG#1358/CH6/EX6.12/Ex612.PNG#R##53842
+6#Steam Turbines#6.11#Steam leaving nozzle at 700#Example611.sce#1358/CH6/EX6.11/Example611.sce#S##53839
+6#Steam Turbines#6.11#Steam leaving nozzle at 700#Ex611.PNG#1358/CH6/EX6.11/Ex611.PNG#R##53840
+6#Steam Turbines#6.10#Steam leaving nozzle at 950#Example610.sce#1358/CH6/EX6.10/Example610.sce#S##53837
+6#Steam Turbines#6.10#Steam leaving nozzle at 950#Ex610.PNG#1358/CH6/EX6.10/Ex610.PNG#R##53838
+6#Steam Turbines#6.1#Isentropic expansion#Example61.sce#1358/CH6/EX6.1/Example61.sce#S##53822
+5#Axial Flow Compressors and Fans#5.9#Rotor speed 200#Exampl59.sce#1358/CH5/EX5.9/Exampl59.sce#S##53811
+5#Axial Flow Compressors and Fans#5.9#Rotor speed 200#Ex59.PNG#1358/CH5/EX5.9/Ex59.PNG#R##53812
+5#Axial Flow Compressors and Fans#5.8#polytropic efficiency 87#Example58.sce#1358/CH5/EX5.8/Example58.sce#S##53810
+5#Axial Flow Compressors and Fans#5.7#Rpm 152 rps#Example57.sce#1358/CH5/EX5.7/Example57.sce#S##53809
+5#Axial Flow Compressors and Fans#5.6#Temperature rise in first stage#Example56.sce#1358/CH5/EX5.6/Example56.sce#S##53807
+5#Axial Flow Compressors and Fans#5.6#Temperature rise in first stage#Ex56.PNG#1358/CH5/EX5.6/Ex56.PNG#R##53808
+5#Axial Flow Compressors and Fans#5.5#Degree of reaction for Ex54#Example55.sce#1358/CH5/EX5.5/Example55.sce#S##53806
+5#Axial Flow Compressors and Fans#5.4#Stage air angles for vortex#Example54.sce#1358/CH5/EX5.4/Example54.sce#S##53803
+5#Axial Flow Compressors and Fans#5.4#Stage air angles for vortex#Ex54.PNG#1358/CH5/EX5.4/Ex54.PNG#R##53804
+5#Axial Flow Compressors and Fans#5.4#Stage air angles for vortex#Ex54a.png#1358/CH5/EX5.4/Ex54a.png#R##53805
+5#Axial Flow Compressors and Fans#5.3#Compressor 5000rpm#Example53.sce#1358/CH5/EX5.3/Example53.sce#S##53801
+5#Axial Flow Compressors and Fans#5.3#Compressor 5000rpm#Ex53.PNG#1358/CH5/EX5.3/Ex53.PNG#R##53802
+5#Axial Flow Compressors and Fans#5.2#One stage compressor#Example52.sce#1358/CH5/EX5.2/Example52.sce#S##53800
+5#Axial Flow Compressors and Fans#5.15#Rotation 8000rpm#Example515.sce#1358/CH5/EX5.15/Example515.sce#S##53820
+5#Axial Flow Compressors and Fans#5.15#Rotation 8000rpm#Ex515.PNG#1358/CH5/EX5.15/Ex515.PNG#R##53821
+5#Axial Flow Compressors and Fans#5.14#Rotation 5400rpm#Example514.sce#1358/CH5/EX5.14/Example514.sce#S##53819
+5#Axial Flow Compressors and Fans#5.13#10 stage axial#Example513.sce#1358/CH5/EX5.13/Example513.sce#S##53818
+5#Axial Flow Compressors and Fans#5.12#Number of stages#Example512.sce#1358/CH5/EX5.12/Example512.sce#S##53816
+5#Axial Flow Compressors and Fans#5.12#Number of stages#Ex512.PNG#1358/CH5/EX5.12/Ex512.PNG#R##53817
+5#Axial Flow Compressors and Fans#5.11#Rotation 5500rpm#Example511.sce#1358/CH5/EX5.11/Example511.sce#S##53814
+5#Axial Flow Compressors and Fans#5.11#Rotation 5500rpm#Ex511.PNG#1358/CH5/EX5.11/Ex511.PNG#R##53815
+5#Axial Flow Compressors and Fans#5.10#Isentropic Efficiency#Example510.sce#1358/CH5/EX5.10/Example510.sce#S##53813
+5#Axial Flow Compressors and Fans#5.1#Work of compression#Example51.sce#1358/CH5/EX5.1/Example51.sce#S##53798
+5#Axial Flow Compressors and Fans#5.1#Work of compression#Ex51.PNG#1358/CH5/EX5.1/Ex51.PNG#R##53799
+4#Centrifugal Compressors and Fans#4.9#Problem 8 repeat#Example49.sce#1358/CH4/EX4.9/Example49.sce#S##52723
+4#Centrifugal Compressors and Fans#4.8#Centrifugal Compressor 19 vanes#Example48.sce#1358/CH4/EX4.8/Example48.sce#S##52722
+4#Centrifugal Compressors and Fans#4.7#Centrifugal Compressor 10000rpm#Example47.sce#1358/CH4/EX4.7/Example47.sce#S##52721
+4#Centrifugal Compressors and Fans#4.6#Centrifugal Compressor No prewhirl#Example46.sce#1358/CH4/EX4.6/Example46.sce#S##52720
+4#Centrifugal Compressors and Fans#4.5#Centrifugal Compressor 9000rpm#Example45.sce#1358/CH4/EX4.5/Example45.sce#S##52718
+4#Centrifugal Compressors and Fans#4.5#Centrifugal Compressor 9000rpm#Ex45.PNG#1358/CH4/EX4.5/Ex45.PNG#R##52719
+4#Centrifugal Compressors and Fans#4.4#Adiabatic Efficiency#Example44.sce#1358/CH4/EX4.4/Example44.sce#S##52717
+4#Centrifugal Compressors and Fans#4.3#Centrifugal Compressor 16000rpm#Example43.sce#1358/CH4/EX4.3/Example43.sce#S##52715
+4#Centrifugal Compressors and Fans#4.3#Centrifugal Compressor 16000rpm#Ex43.PNG#1358/CH4/EX4.3/Ex43.PNG#R##52716
+4#Centrifugal Compressors and Fans#4.2#Speed Centrifugal Compressor270#Example42.sce#1358/CH4/EX4.2/Example42.sce#S##52714
+4#Centrifugal Compressors and Fans#4.17#Vanes 17 stagnation T and P#Example417.sce#1358/CH4/EX4.17/Example417.sce#S##52845
+4#Centrifugal Compressors and Fans#4.16#Double sided compressor 15500#Example416.sce#1358/CH4/EX4.16/Example416.sce#S##52843
+4#Centrifugal Compressors and Fans#4.16#Double sided compressor 15500#Ex416.PNG#1358/CH4/EX4.16/Ex416.PNG#R##52844
+4#Centrifugal Compressors and Fans#4.15#Centrifugal Compressor 15500rpm#Example415.sce#1358/CH4/EX4.15/Example415.sce#S##52841
+4#Centrifugal Compressors and Fans#4.14#ToT Efficiency 88#Example414.sce#1358/CH4/EX4.14/Example414.sce#S##52839
+4#Centrifugal Compressors and Fans#4.13#Centrifugal Compressor 16500rpm#Example413.sce#1358/CH4/EX4.13/Example413.sce#S##52837
+4#Centrifugal Compressors and Fans#4.12#Recalculating 412#Example412.sce#1358/CH4/EX4.12/Example412.sce#S##52834
+4#Centrifugal Compressors and Fans#4.12#Recalculating 412#Ex412.PNG#1358/CH4/EX4.12/Ex412.PNG#R##52835
+4#Centrifugal Compressors and Fans#4.11#Double sided compressor#Example411.sce#1358/CH4/EX4.11/Example411.sce#S##52832
+4#Centrifugal Compressors and Fans#4.10#Compressor 15000rpm#Example410.sce#1358/CH4/EX4.10/Example410.sce#S##52830
+4#Centrifugal Compressors and Fans#4.10#Compressor 15000rpm#Ex410.PNG#1358/CH4/EX4.10/Ex410.PNG#R##52831
+4#Centrifugal Compressors and Fans#4.1#Air leaving impeller#Example41.sce#1358/CH4/EX4.1/Example41.sce#S##52712
+4#Centrifugal Compressors and Fans#4.1#Air leaving impeller#Ex41.PNG#1358/CH4/EX4.1/Ex41.PNG#R##52713
+3#Hydraulic Turbines#3.9#Inward Flow Reaction Turbine#Ex39.png#1358/CH3/EX3.9/Ex39.png#R##52684
+3#Hydraulic Turbines#3.9#Inward Flow Reaction Turbine#Example39.sce#1358/CH3/EX3.9/Example39.sce#S##52683
+3#Hydraulic Turbines#3.9#Inward Flow Reaction Turbine#Ex39x.PNG#1358/CH3/EX3.9/Ex39x.PNG#R##52685
+3#Hydraulic Turbines#3.8#Single Jet Pelton Wheel#Ex38.PNG#1358/CH3/EX3.8/Ex38.PNG#R##52682
+3#Hydraulic Turbines#3.8#Single Jet Pelton Wheel#Example38.sce#1358/CH3/EX3.8/Example38.sce#S##52681
+3#Hydraulic Turbines#3.7#Pelton Head 90#Example37.sce#1358/CH3/EX3.7/Example37.sce#S##52179
+3#Hydraulic Turbines#3.7#Pelton Head 90#Ex37.PNG#1358/CH3/EX3.7/Ex37.PNG#R##52180
+3#Hydraulic Turbines#3.6#Power Station#Example36.sce#1358/CH3/EX3.6/Example36.sce#S##52178
+3#Hydraulic Turbines#3.6#Power Station#Ex36.PNG#1358/CH3/EX3.6/Ex36.PNG#R##52181
+3#Hydraulic Turbines#3.5#Double Overhung Pelton#Example35.sce#1358/CH3/EX3.5/Example35.sce#S##52177
+3#Hydraulic Turbines#3.4#Pelton Wheel 12900kW#Example34.sce#1358/CH3/EX3.4/Example34.sce#S##52176
+3#Hydraulic Turbines#3.3#Pelton Speed 14#Example33.sce#1358/CH3/EX3.3/Example33.sce#S##52174
+3#Hydraulic Turbines#3.3#Pelton Speed 14#Ex33.PNG#1358/CH3/EX3.3/Ex33.PNG#R##52175
+3#Hydraulic Turbines#3.26#35MW Generator#Example326.sce#1358/CH3/EX3.26/Example326.sce#S##52711
+3#Hydraulic Turbines#3.25#Francis Turbine 500kW#Example325.sce#1358/CH3/EX3.25/Example325.sce#S##52710
+3#Hydraulic Turbines#3.24#Inward Flow 70kW#Example324.sce#1358/CH3/EX3.24/Example324.sce#S##52709
+3#Hydraulic Turbines#3.23#Vanes 12 degrees#Example323.sce#1358/CH3/EX3.23/Example323.sce#S##52707
+3#Hydraulic Turbines#3.23#Vanes 12 degrees#Ex323.PNG#1358/CH3/EX3.23/Ex323.PNG#R##52708
+3#Hydraulic Turbines#3.22#Kaplan 10000kW#Example322.sce#1358/CH3/EX3.22/Example322.sce#S##52706
+3#Hydraulic Turbines#3.21#Overall Efficiency 75#Example321.sce#1358/CH3/EX3.21/Example321.sce#S##52703
+3#Hydraulic Turbines#3.21#Overall Efficiency 75#Ex321.PNG#1358/CH3/EX3.21/Ex321.PNG#R##52704
+3#Hydraulic Turbines#3.21#Overall Efficiency 75#Ex321a.PNG#1358/CH3/EX3.21/Ex321a.PNG#R##52705
+3#Hydraulic Turbines#3.20#Blade tip hub dia#Example320.sce#1358/CH3/EX3.20/Example320.sce#S##52699
+3#Hydraulic Turbines#3.2#Pelton Wheel 725#Example32.sce#1358/CH3/EX3.2/Example32.sce#S##52172
+3#Hydraulic Turbines#3.19#Turbine 130kW#Example319.sce#1358/CH3/EX3.19/Example319.sce#S##52698
+3#Hydraulic Turbines#3.18#Francis Turbine 1250rpm#Example318.sce#1358/CH3/EX3.18/Example318.sce#S##52697
+3#Hydraulic Turbines#3.17#Power 12400#Example317.sce#1358/CH3/EX3.17/Example317.sce#S##52696
+3#Hydraulic Turbines#3.16#Head 30#Example316.sce#1358/CH3/EX3.16/Example316.sce#S##52692
+3#Hydraulic Turbines#3.15#Rotation 290rpm#Example315.sce#1358/CH3/EX3.15/Example315.sce#S##52691
+3#Hydraulic Turbines#3.14#Discharge 500#Example314.sce#1358/CH3/EX3.14/Example314.sce#S##52690
+3#Hydraulic Turbines#3.13#Speed angle reaction turbine#Example313.sce#1358/CH3/EX3.13/Example313.sce#S##52689
+3#Hydraulic Turbines#3.12#Turbine 12000 HP#Example312.sce#1358/CH3/EX3.12/Example312.sce#S##52688
+3#Hydraulic Turbines#3.11#Kaplan runner#Example311.sce#1358/CH3/EX3.11/Example311.sce#S##52687
+3#Hydraulic Turbines#3.10#Runner Axial Flow#Example310.sce#1358/CH3/EX3.10/Example310.sce#S##52686
+3#Hydraulic Turbines#3.1#Generator Pelton Wheel#Example31.sce#1358/CH3/EX3.1/Example31.sce#S##52163
+3#Hydraulic Turbines#3.1#Generator Pelton Wheel#Ex31.PNG#1358/CH3/EX3.1/Ex31.PNG#R##52164
+2#Hyraulic Pumps#2.9#Radial Component Water#Example29.sce#1358/CH2/EX2.9/Example29.sce#S##52068
+2#Hyraulic Pumps#2.8#Vanes Radially Exit#Example28.sce#1358/CH2/EX2.8/Example28.sce#S##52064
+2#Hyraulic Pumps#2.8#Vanes Radially Exit#Ex28.png#1358/CH2/EX2.8/Ex28.png#R##52065
+2#Hyraulic Pumps#2.7#Vanes At 45 Degrees#Example27.sce#1358/CH2/EX2.7/Example27.sce#S##52062
+2#Hyraulic Pumps#2.7#Vanes At 45 Degrees#Ex27.PNG#1358/CH2/EX2.7/Ex27.PNG#R##52063
+2#Hyraulic Pumps#2.6#Impeller Vanes Angled#Example26.sce#1358/CH2/EX2.6/Example26.sce#S##52060
+2#Hyraulic Pumps#2.6#Impeller Vanes Angled#Ex26.PNG#1358/CH2/EX2.6/Ex26.PNG#R##52061
+2#Hyraulic Pumps#2.5#Horse Power Pump#Example25.sce#1358/CH2/EX2.5/Example25.sce#S##52059
+2#Hyraulic Pumps#2.4#Efficiency Lift Discharge#Example24.sce#1358/CH2/EX2.4/Example24.sce#S##52057
+2#Hyraulic Pumps#2.4#Efficiency Lift Discharge#Ex24.PNG#1358/CH2/EX2.4/Ex24.PNG#R##52058
+2#Hyraulic Pumps#2.3#Centrifugal Pump Impeller#Example23.sce#1358/CH2/EX2.3/Example23.sce#S##52055
+2#Hyraulic Pumps#2.3#Centrifugal Pump Impeller#Ex23.PNG#1358/CH2/EX2.3/Ex23.PNG#R##52056
+2#Hyraulic Pumps#2.21#Specific speed 1150#Example221.sce#1358/CH2/EX2.21/Example221.sce#S##52080
+2#Hyraulic Pumps#2.20#Pumps to be Connected#Example220.sce#1358/CH2/EX2.20/Example220.sce#S##52079
+2#Hyraulic Pumps#2.2#Head Imparted#Example22.sce#1358/CH2/EX2.2/Example22.sce#S##52054
+2#Hyraulic Pumps#2.19#Two Multistage Pumps#Example219.sce#1358/CH2/EX2.19/Example219.sce#S##52078
+2#Hyraulic Pumps#2.18#Diameter of Impeller#Example218.sce#1358/CH2/EX2.18/Example218.sce#S##52077
+2#Hyraulic Pumps#2.17#Single Stage Pump#Example217.sce#1358/CH2/EX2.17/Example217.sce#S##52076
+2#Hyraulic Pumps#2.16#Mechanical Efficiency#Example216.sce#1358/CH2/EX2.16/Example216.sce#S##52075
+2#Hyraulic Pumps#2.15#Power Hub dia Angles#Example215.sce#1358/CH2/EX2.15/Example215.sce#S##52074
+2#Hyraulic Pumps#2.14#Vanes 30 Degrees#Example214.sce#1358/CH2/EX2.14/Example214.sce#S##52073
+2#Hyraulic Pumps#2.13#Theoritical Head#Example213.sce#1358/CH2/EX2.13/Example213.sce#S##52072
+2#Hyraulic Pumps#2.12#Actual Work Absolute Velocity#Example212.sce#1358/CH2/EX2.12/Example212.sce#S##52071
+2#Hyraulic Pumps#2.11#Ideal Height Hydraulic Efficiency#Example211.sce#1358/CH2/EX2.11/Example211.sce#S##52070
+2#Hyraulic Pumps#2.10#Centrifugal Pump Running#Example210.sce#1358/CH2/EX2.10/Example210.sce#S##52069
+2#Hyraulic Pumps#2.1#Centrifugal Pump Torque#Example21.sce#1358/CH2/EX2.1/Example21.sce#S##44394
+2#Hyraulic Pumps#2.1#Centrifugal Pump Torque#Ex21.PNG#1358/CH2/EX2.1/Ex21.PNG#R##52049
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.9#Kinetic Energy#Example19.sci#1358/CH1/EX1.9/Example19.sci#S##44389
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.8#Wind Tunnel#Example18.sce#1358/CH1/EX1.8/Example18.sce#S##44388
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.7#Axial Gas Turbine#Example17.sce#1358/CH1/EX1.7/Example17.sce#S##44387
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.6#Axial Pump Power#Example16.sce#1358/CH1/EX1.6/Example16.sce#S##44362
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.5#Drag Force F#Example15.sce#1358/CH1/EX1.5/Example15.sce#S##44359
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.4#Pumping Power#Example14.sce#1358/CH1/EX1.4/Example14.sce#S##44360
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.3#Air Compressor Speed#Example13.sce#1358/CH1/EX1.3/Example13.sce#S##44357
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.2#Centrifugal Pump Head#Example12.sce#1358/CH1/EX1.2/Example12.sce#S##44356
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.10#Radial Inward Flow#Example110.sce#1358/CH1/EX1.10/Example110.sce#S##44390
+1#Introduction Dimensional Analysis Basic Thermodynamics and Fluid Mechanics#1.1#Radial Flow Hydraulic#Example11.sce#1358/CH1/EX1.1/Example11.sce#S##44355

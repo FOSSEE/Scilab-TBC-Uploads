@@ -1,0 +1,6 @@
+**Sample Problem 20-9a**
+The final temprature of the gas is 257.948349K
+
+**Sample Problem 20-9b**
+The final pressure of the gas is 1.263158Pa
+The final temprature of the gas is 310.000000K 

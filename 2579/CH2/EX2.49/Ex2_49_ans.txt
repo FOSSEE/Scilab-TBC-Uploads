@@ -1,0 +1,2 @@
+ The peak value of electric field = 274.462323 V/m
+ The magnetic field = 0.728034 AT/m

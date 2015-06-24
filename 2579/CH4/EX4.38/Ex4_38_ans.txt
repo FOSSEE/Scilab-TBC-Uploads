@@ -1,0 +1,1 @@
+ The input impedance = 292 ohm 

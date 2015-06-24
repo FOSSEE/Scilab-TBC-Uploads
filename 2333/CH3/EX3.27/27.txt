@@ -1,0 +1,5 @@
+# PROBLEM 27 # 
+ Standard formula used 
+ theta = 1.22*lambda/a  
+
+ Separation of two points is 50.996000m.

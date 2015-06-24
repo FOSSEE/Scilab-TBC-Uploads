@@ -1,0 +1,11 @@
+clear;
+clc;
+printf("\n Example 1.13");
+printf("\n \n [Omega]f(n)=omega(g(n))");
+printf("\n \n 3n+2=omega(n) as 3n+2>=3n for n>=1");
+printf("\n \n 3n+3=omega(n) as 3n+3>=3n for n>=1");
+printf("\n \n 100n+6=omega(n) as 100n+6>=100n for n>=1");
+printf("\n \n 10n^2+4n+2=omega(n^2) as 10n^2+4n+2>=n^2 for n>=1");
+printf("\n \n 6*2^n+n^2=omega(n) as 6*2^n+n^2>=2^n for n>=1");
+printf("\n \n 3n+3=omega(1) ");
+printf(" \n \n \t [Omega]f(n)=omega(1)");

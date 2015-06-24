@@ -1,0 +1,31 @@
+ (a) magnitude of line current (in Amperes)=   
+ 
+    1.2066914  
+ 
+   phase of line current (in Degree)   
+ 
+  - 23.47786  
+ 
+ (b) power input (in Watts)=   
+ 
+    254.56271  
+ 
+ (c) Efficiency of motor (%)=   
+ 
+    57.520783  
+ 
+ (d) shaft torque (in Newton-meter)=   
+ 
+    1.487521  
+ 
+ (e) magnitude of voltage across capacitor (in Volts)=   
+ 
+    444.6664  
+ 
+     phase of voltage across capacitor (in Degree)=   
+ 
+  - 68.294737  
+ 
+ (f) starting torque (in Newton-meter)=   
+ 
+    0.5204152

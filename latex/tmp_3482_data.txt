@@ -1,0 +1,58 @@
+10#Method of virtual work#10.4#Angle#Ex10_4.sce#3482/CH10/EX10.4/Ex10_4.sce#S##118175
+10#Method of virtual work#10.3#Force exerted by each cylinder #Ex10_3.sce#3482/CH10/EX10.3/Ex10_3.sce#S##118174
+9#Distributed forces Moment of Inertia#9.7#Principle moment of inertia#Ex9_7.sce#3482/CH9/EX9.7/Ex9_7.sce#S##118173
+9#Distributed forces Moment of Inertia#9.5#Principle moment of inertia#Ex9_5.sce#3482/CH9/EX9.5/Ex9_5.sce#S##118172
+9#Distributed forces Moment of Inertia#9.4#Area of plate#Ex9_4.sce#3482/CH9/EX9.4/Ex9_4.sce#S##118171
+8#Friction#8.8#Torque#Ex8_8.sce#3482/CH8/EX8.8/Ex8_8.sce#S##118170
+8#Friction#8.7#Tension#Ex8_7.sce#3482/CH8/EX8.7/Ex8_7.sce#S##118169
+8#Friction#8.6#force required#Ex8_6.sce#3482/CH8/EX8.6/Ex8_6.sce#S##118168
+8#Friction#8.5#Couple  required to loosen clamp#Ex8_5.sce#3482/CH8/EX8.5/Ex8_5.sce#S##118167
+8#Friction#8.4#force required #Ex8_4.sce#3482/CH8/EX8.4/Ex8_4.sce#S##118166
+8#Friction#8.3#Minimum distance#Ex8_3.sce#3482/CH8/EX8.3/Ex8_3.sce#S##118165
+8#Friction#8.2#Force P to prevent  block #Ex8_2.sce#3482/CH8/EX8.2/Ex8_2.sce#S##118164
+8#Friction#8.1#value of friction force#Ex8_1.sce#3482/CH8/EX8.1/Ex8_1.sce#S##118163
+7#Forces in beams and cable#7.9#free body diagram#Ex7_9.sce#3482/CH7/EX7.9/Ex7_9.sce#S##118182
+7#Forces in beams and cable#7.8#free body diagram#Ex7_8.sce#3482/CH7/EX7.8/Ex7_8.sce#S##118181
+7#Forces in beams and cable#7.5#free body diagram#Ex7_5.sce#3482/CH7/EX7.5/Ex7_5.sce#S##118180
+7#Forces in beams and cable#7.4#free body diagram#Ex7_4.sce#3482/CH7/EX7.4/Ex7_4.sce#S##118179
+7#Forces in beams and cable#7.3#free body diagram#Ex7_3.sce#3482/CH7/EX7.3/Ex7_3.sce#S##118178
+7#Forces in beams and cable#7.2#free body diagram#Ex7_2.sce#3482/CH7/EX7.2/Ex7_2.sce#S##118177
+7#Forces in beams and cable#7.10#free body diagram#Ex7_10.sce#3482/CH7/EX7.10/Ex7_10.sce#S##118183
+7#Forces in beams and cable#7.1#free body diagram we#Ex7_1.sce#3482/CH7/EX7.1/Ex7_1.sce#S##118176
+6#Analysis of structures#6.6#Force#Ex6_6.sce#3482/CH6/EX6.6/Ex6_6.sce#S##117514
+6#Analysis of structures#6.5#components of force#Ex6_5.sce#3482/CH6/EX6.5/Ex6_5.sce#S##117513
+6#Analysis of structures#6.4#components of force#Ex6_4.sce#3482/CH6/EX6.4/Ex6_4.sce#S##117512
+6#Analysis of structures#6.3#Calculation of force#Ex6_3.sce#3482/CH6/EX6.3/Ex6_3.sce#S##117511
+6#Analysis of structures#6.2#force#Ex6_2.sce#3482/CH6/EX6.2/Ex6_2.sce#S##117510
+6#Analysis of structures#6.1#force#Ex6_1.sce#3482/CH6/EX6.1/Ex6_1.sce#S##117509
+5#Distrubuted forces centroids and centers of gravity#5.9#equivalent concentrated mass#Ex5_9.sce#3482/CH5/EX5.9/Ex5_9.sce#S##117505
+5#Distrubuted forces centroids and centers of gravity#5.7#Mass of steel#Ex5_7.sce#3482/CH5/EX5.7/Ex5_7.sce#S##117504
+5#Distrubuted forces centroids and centers of gravity#5.2#Coordinates of centroid#Ex5_2.sce#3482/CH5/EX5.2/Ex5_2.sce#S##117503
+5#Distrubuted forces centroids and centers of gravity#5.12#components of centroids#Ex5_12.sce#3482/CH5/EX5.12/Ex5_12.sce#S##117508
+5#Distrubuted forces centroids and centers of gravity#5.11#Coordinates of centroid#Ex5_11.sce#3482/CH5/EX5.11/Ex5_11.sce#S##117507
+5#Distrubuted forces centroids and centers of gravity#5.10#Reaction and direction#Ex5_10.sce#3482/CH5/EX5.10/Ex5_10.sce#S##117506
+5#Distrubuted forces centroids and centers of gravity#5.1#centroid#Ex5_1.sce#3482/CH5/EX5.1/Ex5_1.sce#S##117502
+4#Equilibrium of rigid bodies#4.9#Tension in vector form#Ex4_9.sce#3482/CH4/EX4.9/Ex4_9.sce#S##117500
+4#Equilibrium of rigid bodies#4.8#Reaction and direction#Ex4_8.sce#3482/CH4/EX4.8/Ex4_8.sce#S##117499
+4#Equilibrium of rigid bodies#4.7#Reaction#Ex4_7.sce#3482/CH4/EX4.7/Ex4_7.sce#S##117498
+4#Equilibrium of rigid bodies#4.6#Tension and angle#Ex4_6.sce#3482/CH4/EX4.6/Ex4_6.sce#S##117497
+4#Equilibrium of rigid bodies#4.5#Angle and degee#Ex4_5.sce#3482/CH4/EX4.5/Ex4_5.sce#S##117496
+4#Equilibrium of rigid bodies#4.4#Reaction and direction#Ex4_4.sce#3482/CH4/EX4.4/Ex4_4.sce#S##117495
+4#Equilibrium of rigid bodies#4.3#Reaction and direction#Ex4_3.sce#3482/CH4/EX4.3/Ex4_3.sce#S##117494
+4#Equilibrium of rigid bodies#4.2#Angle and degee#Ex4_2.sce#3482/CH4/EX4.2/Ex4_2.sce#S##117493
+4#Equilibrium of rigid bodies#4.10#coordinates#Ex4_10.sce#3482/CH4/EX4.10/Ex4_10.sce#S##117501
+4#Equilibrium of rigid bodies#4.1#Angle and degee#Ex4_1.sce#3482/CH4/EX4.1/Ex4_1.sce#S##117492
+3#Rigid bodies equivalent systems of forces#3.7#Distance from the shaft#Ex3_7.sce#3482/CH3/EX3.7/Ex3_7.sce#S##117491
+3#Rigid bodies equivalent systems of forces#3.6#Couple M equivalent to two couple#Ex3_6.sce#3482/CH3/EX3.6/Ex3_6.sce#S##117490
+3#Rigid bodies equivalent systems of forces#3.4#magnitude of force and lambda#Ex3_4.sce#3482/CH3/EX3.4/Ex3_4.sce#S##117489
+3#Rigid bodies equivalent systems of forces#3.3#Moment of force#Ex3_3.sce#3482/CH3/EX3.3/Ex3_3.sce#S##117488
+3#Rigid bodies equivalent systems of forces#3.2#Moment of force#Ex3_2.sce#3482/CH3/EX3.2/Ex3_2.sce#S##117487
+3#Rigid bodies equivalent systems of forces#3.1#Vertical force#Ex3_1.sce#3482/CH3/EX3.1/Ex3_1.sce#S##117486
+2#Statics of particle#2.8#resultant of AB and AC#Ex2_8.sce#3482/CH2/EX2.8/Ex2_8.sce#S##116632
+2#Statics of particle#2.7#Resultant force on AB and Ac#Ex2_7.sce#3482/CH2/EX2.7/Ex2_7.sce#S##116631
+2#Statics of particle#2.6#Drag force#Ex2_6.sce#3482/CH2/EX2.6/Ex2_6.sce#S##116630
+2#Statics of particle#2.5#Force#Ex2_5.sce#3482/CH2/EX2.5/Ex2_5.sce#S##116629
+2#Statics of particle#2.4#Tension of Tab and Tac#Ex2_4.sce#3482/CH2/EX2.4/Ex2_4.sce#S##116628
+2#Statics of particle#2.3#Resultant of forces#Ex2_3.sce#3482/CH2/EX2.3/Ex2_3.sce#S##116627
+2#Statics of particle#2.2#Tension in ropw#Ex2_2.sce#3482/CH2/EX2.2/Ex2_2.sce#S##116626
+2#Statics of particle#2.1#Determine the resultant#Ex2_1.sce#3482/CH2/EX2.1/Ex2_1.sce#S##116625

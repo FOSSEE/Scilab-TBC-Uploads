@@ -1,0 +1,12 @@
+  
+ (a)No load input power (in watts)=   
+ 
+    110.  
+ 
+ (b)No load power factor=   
+ 
+    0.3846154  
+ 
+    Magnetising component of current (in amperes)   
+ 
+    1.2  

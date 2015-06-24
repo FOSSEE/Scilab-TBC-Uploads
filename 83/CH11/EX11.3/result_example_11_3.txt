@@ -1,0 +1,42 @@
+
+sequence impedances are given by 
+Z1=j0.1599 
+Z2=j0.1599 
+Z0=j1.7120
+
+Fault Current= -j1.3422
+
+Components currents flowing from Generator and motor are 
+Ig1= -j0.1363 
+Ig2= -j0.1363 
+Ig0=0
+
+Im1= -j0.3111 
+Im2= -j0.3111 
+Im0= -j0.4474
+
+Fault current from the generator towards g are  
+  - 0.2725981i  
+    0.1362990i  
+    0.1362990i  
+and to g from motors are 
+  - 1.0696512i  
+  - 0.1362990i  
+  - 0.1362990i  
+
+Positive sequence current =-0.136 pu
+Negative sequence current =0.136 pu
+Zero sequence current=0
+
+The per unit motor currents are:
+Motor1:0.66 +j0.495 pu
+Motor2:0.33 +j0.247 pu
+
+Voltage behind subtransient reactances:
+Motor1:Em1= 1.0798-j0.2278
+Motor2:Em2= 1.0798-j0.2278
+Generator:Eg= 0.5193j+0.5199
+
+The actual value of positive sequence current from the generator towards fault is = 0.99+j0.606
+The actual value of positive sequence current from the motors towards fault is = -0.99-j1.054 
+

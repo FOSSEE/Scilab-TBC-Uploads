@@ -1,0 +1,3 @@
+  Example 15.2
+
+ In transverse direction, modulus of elasticity is 5.5 GPa.

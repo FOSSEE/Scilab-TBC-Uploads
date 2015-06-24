@@ -1,0 +1,2 @@
+**Sample Problem 39-7a**
+The transmission coefficient is 4.439423e-005 

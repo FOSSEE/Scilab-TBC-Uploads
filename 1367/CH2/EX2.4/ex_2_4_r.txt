@@ -1,0 +1,5 @@
+  
+ Radius of first orbit of electron in Hydrogen atom (in Angstorm) =    
+ 
+    0.5302104  
+ 

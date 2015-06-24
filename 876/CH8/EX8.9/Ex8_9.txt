@@ -1,0 +1,3 @@
+ frequency of the waveform(in MHz)=   
+ 
+    1.  

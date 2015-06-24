@@ -1,0 +1,28 @@
+clear;
+clc;
+format('v',6);
+an=[0 0 1];
+E1=[5 -2 3];
+er1=4;
+er2=3;
+e=(10^-9)/(36*%pi);
+e1n=E1*an';
+E1n=[0 0 e1n];
+E2n=[0 0 E1n*[0;0;1]];
+E1t=E1-E1n;
+E2t=E1t;
+E2n=(er1*E1n)/er2;
+E2=E2t+E2n;
+disp(E2,'E2=');
+theta1=atand(((E1t(1,1)^2+E1t(1,2)^2+E1t(1,3)^2)^0.5)/e1n);
+alpha1=90-theta1;
+disp(alpha1,'Angle of E1 with interface=');
+alpha2=90-atand(((E2t(1,1)^2+E2t(1,2)^2+E2t(1,3)^2)^0.5)/((E2n(1,1)^2+E2n(1,2)^2+E2n(1,3)^2)^0.5));
+disp(alpha2,'Angle of E2 with interface=');
+wE1=0.5*er1*e*10^12*(E1(1,1)^2+E1(1,2)^2+E1(1,3)^2);
+wE2=0.5*er2*e*10^12*(E2(1,1)^2+E2(1,2)^2+E2(1,3)^2);
+disp(wE1,'Energy densities are wE1(in uJ)=');
+disp(wE2,'                     wE2(in uJ)=');
+We=wE2*integrate('1','x',2,4)*integrate('1','y',3,5)*integrate('1','z',-6,-4)*10^-3;
+disp(We,'We(in mJ)=');
+

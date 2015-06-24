@@ -1,0 +1,48 @@
+-->//(Friction Clutches)Example 11.2
+ 
+-->//Inner diameter of the friction disk d (mm)
+ 
+-->d = 100
+ d  =
+ 
+    100.  
+ 
+-->//Outer diameter of the friction disk D (mm)
+ 
+-->D = 200
+ D  =
+ 
+    200.  
+ 
+-->//Coefficient of friction between the two contacting surfaces mu
+ 
+-->mu = 0.2
+ mu  =
+ 
+    0.2  
+ 
+-->//Permissible intensity of pressure Pa (MPa)
+ 
+-->Pa = 1
+ Pa  =
+ 
+    1.  
+ 
+-->//Number of revolutions of the friction disk per minute n (rpm)
+ 
+-->n = 750
+ n  =
+ 
+    750.  
+ 
+
+Applying uniform-pressure criterion
+
+Results
+
+Total operating force (P) = 23561.944902 N
+
+Torque transmitting capacity by friction(Mf) = 366519.142919 N-mm
+
+Power transmitting capacity of the clutch = 28.786346 kW
+ 

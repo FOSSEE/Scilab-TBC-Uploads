@@ -1,0 +1,8 @@
+
+
+
+Example 8.8
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+Transition temperature is 14.474115 K.
+Critical field at 4.200000 K is 2.731259T.
+Critical field at 0 K is 2.982377T.

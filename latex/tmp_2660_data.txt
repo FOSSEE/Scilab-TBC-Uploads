@@ -1,0 +1,156 @@
+26#Plant layout#26.1#Calculate number of machine required#Ex26_1.sce#2660/CH26/EX26.1/Ex26_1.sce#S##110152
+23#Production planning and control#23.9#Calculate discount offered#Ex23_9.sce#2660/CH23/EX23.9/Ex23_9.sce#S##110150
+23#Production planning and control#23.8#Calculate inventory control terms#Ex23_8.sce#2660/CH23/EX23.8/Ex23_8.sce#S##110149
+23#Production planning and control#23.7#Calculate economic lot size#Ex23_7.sce#2660/CH23/EX23.7/Ex23_7.sce#S##110148
+23#Production planning and control#23.6#Calculate economical order quantity#Ex23_6.sce#2660/CH23/EX23.6/Ex23_6.sce#S##110147
+23#Production planning and control#23.5#Calculate total cost#Ex23_5.sce#2660/CH23/EX23.5/Ex23_5.sce#S##110146
+23#Production planning and control#23.4#Calculate forecast for january#Ex23_4.sce#2660/CH23/EX23.4/Ex23_4.sce#S##110145
+23#Production planning and control#23.3#Calculate forecat by WMA method #Ex23_3.sce#2660/CH23/EX23.3/Ex23_3.sce#S##110144
+23#Production planning and control#23.2#Calculate forecat by SMA method #Ex23_2.sce#2660/CH23/EX23.2/Ex23_2.sce#S##110143
+23#Production planning and control#23.10#Calculate EOQ and reorder point#Ex23_10.sce#2660/CH23/EX23.10/Ex23_10.sce#S##110151
+23#Production planning and control#23.1#Calculate forecast#Ex23_1.sce#2660/CH23/EX23.1/Ex23_1.sce#S##110142
+22#Kinematics of machine tools#22.5#Calculate gear ratio  teeth and speed#Ex22_5.sce#2660/CH22/EX22.5/Ex22_5.sce#S##110141
+22#Kinematics of machine tools#22.4#Calculate common ratio#Ex22_4.sce#2660/CH22/EX22.4/Ex22_4.sce#S##110140
+22#Kinematics of machine tools#22.3#Calculate speed and number of teeths#Ex22_3.sce#2660/CH22/EX22.3/Ex22_3.sce#S##110139
+22#Kinematics of machine tools#22.2#Determine speed ratios and teeth#Ex22_2.sce#2660/CH22/EX22.2/Ex22_2.sce#S##110138
+22#Kinematics of machine tools#22.1#Find range of cutting velocity#Ex22_1.sce#2660/CH22/EX22.1/Ex22_1.sce#S##110250
+21#Statical quality control #21.9#find control limits for charts#Ex21_9.sce#2660/CH21/EX21.9/Ex21_9.sce#S##110136
+21#Statical quality control #21.8# Find control limits for c chart#Ex21_8.sce#2660/CH21/EX21.8/Ex21_8.sce#S##110135
+21#Statical quality control #21.7#Evaluate preliminary and revised control limits#Ex21_7.sce#2660/CH21/EX21.7/Ex21_7.sce#S##110134
+21#Statical quality control #21.6#Determine producers and consumers risk#Ex21_6.sce#2660/CH21/EX21.6/Ex21_6.sce#S##110133
+21#Statical quality control #21.5#Calculate probabilities of defective items #Ex21_5.sce#2660/CH21/EX21.5/Ex21_5.sce#S##110132
+21#Statical quality control #21.4#Calculate poisson probabilities#Ex21_4.sce#2660/CH21/EX21.4/Ex21_4.sce#S##110131
+21#Statical quality control #21.2#Construct the control charts#Ex21_2.sce#2660/CH21/EX21.2/Ex21_2.sce#S##110249
+21#Statical quality control #21.10#Determine producers and consumers risk#Ex21_10.sce#2660/CH21/EX21.10/Ex21_10.sce#S##110137
+21#Statical quality control #21.1#Construct R and X chart#Ex21_1.sce#2660/CH21/EX21.1/Ex21_1.sce#S##110248
+17#Thread manufacturing#17.2#Calculate size and distances over wire#Ex17_2.sce#2660/CH17/EX17.2/Ex17_2.sce#S##110182
+17#Thread manufacturing#17.1#Calculate best wire size#Ex17_1.sce#2660/CH17/EX17.1/Ex17_1.sce#S##110181
+16#Gear manufacture#16.1#Calculate settings of gear tooth#Ex16_1.sce#2660/CH16/EX16.1/Ex16_1.sce#S##110180
+15#Design and manufacture of cutting tools#15.9#To find MRR power and torque#Ex15_9.sce#2660/CH15/EX15.9/Ex15_9.sce#S##110178
+15#Design and manufacture of cutting tools#15.8#find various terms for stainless steel#Ex15_8.sce#2660/CH15/EX15.8/Ex15_8.sce#S##110177
+15#Design and manufacture of cutting tools#15.5#To design single point cutting tool#Ex15_5.sce#2660/CH15/EX15.5/Ex15_5.sce#S##110176
+15#Design and manufacture of cutting tools#15.4#Design shell inserted blade reamer#Ex15_4.sce#2660/CH15/EX15.4/Ex15_4.sce#S##110175
+15#Design and manufacture of cutting tools#15.3#Estimate moment thrust force and power#Ex15_3.sce#2660/CH15/EX15.3/Ex15_3.sce#S##110174
+15#Design and manufacture of cutting tools#15.2#Determine broaching power and Design broach#Ex15_2.sce#2660/CH15/EX15.2/Ex15_2.sce#S##110173
+15#Design and manufacture of cutting tools#15.10# find MRR power torque and time#Ex15_10.sce#2660/CH15/EX15.10/Ex15_10.sce#S##110179
+15#Design and manufacture of cutting tools#15.1#calculate horsepower at cutter and motor#Ex15_1.sce#2660/CH15/EX15.1/Ex15_1.sce#S##110172
+14#Theory of metal cutting#14.9#To find cutting and thrust force#Ex14_9.sce#2660/CH14/EX14.9/Ex14_9.sce#S##110161
+14#Theory of metal cutting#14.8#Determine normal and tangential force#Ex14_8.sce#2660/CH14/EX14.8/Ex14_8.sce#S##110160
+14#Theory of metal cutting#14.7#To solve tool life equation #Ex14_7.sce#2660/CH14/EX14.7/Ex14_7.sce#S##110159
+14#Theory of metal cutting#14.6#To find terms of orthogonal cutting#Ex14_6.sce#2660/CH14/EX14.6/Ex14_6.sce#S##110158
+14#Theory of metal cutting#14.5# find force and coefficient of friction#Ex14_5.sce#2660/CH14/EX14.5/Ex14_5.sce#S##110157
+14#Theory of metal cutting#14.4#To find tool life#Ex14_4.sce#2660/CH14/EX14.4/Ex14_4.sce#S##110184
+14#Theory of metal cutting#14.3#To find different orthogonal cutting picture#Ex14_3.sce#2660/CH14/EX14.3/Ex14_3.sce#S##110155
+14#Theory of metal cutting#14.2#Calculate the optimum cutting speed#Ex14_2.sce#2660/CH14/EX14.2/Ex14_2.sce#S##110154
+14#Theory of metal cutting#14.18#Determine components of force and power#Ex14_18.sce#2660/CH14/EX14.18/Ex14_18.sce#S##110171
+14#Theory of metal cutting#14.17#To find power and different energies #Ex14_17.sce#2660/CH14/EX14.17/Ex14_17.sce#S##110170
+14#Theory of metal cutting#14.16#To find percentage of total energy#Ex14_16.sce#2660/CH14/EX14.16/Ex14_16.sce#S##110169
+14#Theory of metal cutting#14.15#Calculate percentage increase in tool life#Ex14_15.sce#2660/CH14/EX14.15/Ex14_15.sce#S##110168
+14#Theory of metal cutting#14.14#find different powers and resistance#Ex14_14.sce#2660/CH14/EX14.14/Ex14_14.sce#S##110166
+14#Theory of metal cutting#14.13#Calculate inclination and rake angle#Ex14_13.sce#2660/CH14/EX14.13/Ex14_13.sce#S##110165
+14#Theory of metal cutting#14.12#Calculate back and side rake angle#Ex14_12.sce#2660/CH14/EX14.12/Ex14_12.sce#S##110164
+14#Theory of metal cutting#14.11#Calculate CLA #Ex14_11.sce#2660/CH14/EX14.11/Ex14_11.sce#S##110163
+14#Theory of metal cutting#14.10#find terms of orthogonal rake system#Ex14_10.sce#2660/CH14/EX14.10/Ex14_10.sce#S##110162
+14#Theory of metal cutting#14.1#calculate the tool life#Ex14_1.sce#2660/CH14/EX14.1/Ex14_1.sce#S##110153
+13#Analysis of metal forming processes#13.9#To calculate forging loads#Ex13_9.sce#2660/CH13/EX13.9/Ex13_9.sce#S##110127
+13#Analysis of metal forming processes#13.8#calculate drawing load and power rating#Ex13_8.sce#2660/CH13/EX13.8/Ex13_8.sce#S##110126
+13#Analysis of metal forming processes#13.7#To find drawing load and power#Ex13_7.sce#2660/CH13/EX13.7/Ex13_7.sce#S##110125
+13#Analysis of metal forming processes#13.5#Determine sticking radius and total load#Ex13_5.sce#2660/CH13/EX13.5/Ex13_5.sce#S##110124
+13#Analysis of metal forming processes#13.4#To determine maximum force#Ex13_4.sce#2660/CH13/EX13.4/Ex13_4.sce#S##110123
+13#Analysis of metal forming processes#13.3# find neutral section slips and pressure#Ex13_3.sce#2660/CH13/EX13.3/Ex13_3.sce#S##110122
+13#Analysis of metal forming processes#13.2#Calculate drawing force #Ex13_2.sce#2660/CH13/EX13.2/Ex13_2.sce#S##110121
+13#Analysis of metal forming processes#13.12#Determine neutral plane#Ex13_12.sce#2660/CH13/EX13.12/Ex13_12.sce#S##110130
+13#Analysis of metal forming processes#13.11#To find roll pressures#Ex13_11.sce#2660/CH13/EX13.11/Ex13_11.sce#S##110129
+13#Analysis of metal forming processes#13.10#Determine extrusion load#Ex13_10.sce#2660/CH13/EX13.10/Ex13_10.sce#S##110128
+13#Analysis of metal forming processes#13.1#To find drawing load#Ex13_1.sce#2660/CH13/EX13.1/Ex13_1.sce#S##110120
+11#Surface finish#11.2#Calculate average and rms value#Ex11_2.sce#2660/CH11/EX11.2/Ex11_2.sce#S##110119
+11#Surface finish#11.1#Calculate CLA value#Ex11_1.sce#2660/CH11/EX11.1/Ex11_1.sce#S##110118
+9#Limits Tolerences and Fits#9.9#Determine size of two mating parts#Ex9_9.sce#2660/CH9/EX9.9/Ex9_9.sce#S##110116
+9#Limits Tolerences and Fits#9.8#Determine size of bearing and journal#Ex9_8.sce#2660/CH9/EX9.8/Ex9_8.sce#S##110115
+9#Limits Tolerences and Fits#9.7#Determine dimensions of shaft and hole#Ex9_7.sce#2660/CH9/EX9.7/Ex9_7.sce#S##110114
+9#Limits Tolerences and Fits#9.6#Determine limits of shaft and hole#Ex9_6.sce#2660/CH9/EX9.6/Ex9_6.sce#S##110113
+9#Limits Tolerences and Fits#9.5#Find tolerences limits and clearance#Ex9_5.sce#2660/CH9/EX9.5/Ex9_5.sce#S##110112
+9#Limits Tolerences and Fits#9.4#Calculate fundamental deviations and tolerences#Ex9_4.sce#2660/CH9/EX9.4/Ex9_4.sce#S##110111
+9#Limits Tolerences and Fits#9.3# Determine dimensions of hole and shaft#Ex9_3.sce#2660/CH9/EX9.3/Ex9_3.sce#S##110110
+9#Limits Tolerences and Fits#9.2#Determine dimensions of shaft and hole#Ex9_2.sce#2660/CH9/EX9.2/Ex9_2.sce#S##110109
+9#Limits Tolerences and Fits#9.10#Determine size of hole and shaft#Ex9_10.sce#2660/CH9/EX9.10/Ex9_10.sce#S##110117
+9#Limits Tolerences and Fits#9.1#To find allowance and tolerence#Ex9_1.sce#2660/CH9/EX9.1/Ex9_1.sce#S##110108
+5#Economics of tooling#5.9# find ERR and economicality of project#Ex5_9.sce#2660/CH5/EX5.9/Ex5_9.sce#S##110073
+5#Economics of tooling#5.7#find ERR and economicality of project#Ex5_7.sce#2660/CH5/EX5.7/Ex5_7.sce#S##110072
+5#Economics of tooling#5.6#selection of economical machine#Ex5_6.sce#2660/CH5/EX5.6/Ex5_6.sce#S##110071
+5#Economics of tooling#5.5#selection of machine#Ex5_5.sce#2660/CH5/EX5.5/Ex5_5.sce#S##110070
+5#Economics of tooling#5.43#To find most economical lot size#Ex5_43.sce#2660/CH5/EX5.43/Ex5_43.sce#S##110105
+5#Economics of tooling#5.42#Determine optimum lot size#Ex5_42.sce#2660/CH5/EX5.42/Ex5_42.sce#S##110104
+5#Economics of tooling#5.41#To find EOQ and total cost#Ex5_41.sce#2660/CH5/EX5.41/Ex5_41.sce#S##110103
+5#Economics of tooling#5.40#To calculate economic lot size#Ex5_40.sce#2660/CH5/EX5.40/Ex5_40.sce#S##110102
+5#Economics of tooling#5.4#selection of economical machine#Ex5_4.sce#2660/CH5/EX5.4/Ex5_4.sce#S##110069
+5#Economics of tooling#5.39#To determine break even point#Ex5_39.sce#2660/CH5/EX5.39/Ex5_39.sce#S##110101
+5#Economics of tooling#5.38#To find BEP and various sales#Ex5_38.sce#2660/CH5/EX5.38/Ex5_38.sce#S##110100
+5#Economics of tooling#5.37#find preference between machines and production#Ex5_37.sce#2660/CH5/EX5.37/Ex5_37.sce#S##110099
+5#Economics of tooling#5.36#To determine quantity of production#Ex5_36.sce#2660/CH5/EX5.36/Ex5_36.sce#S##110098
+5#Economics of tooling#5.35#To find quantity of pieces#Ex5_35.sce#2660/CH5/EX5.35/Ex5_35.sce#S##110097
+5#Economics of tooling#5.34#To determine the point#Ex5_34.sce#2660/CH5/EX5.34/Ex5_34.sce#S##110096
+5#Economics of tooling#5.33#To calculate minimum number of pieces#Ex5_33.sce#2660/CH5/EX5.33/Ex5_33.sce#S##110095
+5#Economics of tooling#5.32#To do break even analysis#Ex5_32.sce#2660/CH5/EX5.32/Ex5_32.sce#S##110094
+5#Economics of tooling#5.31#To find break even quantity#Ex5_31.sce#2660/CH5/EX5.31/Ex5_31.sce#S##110093
+5#Economics of tooling#5.30#To find break even point#Ex5_30.sce#2660/CH5/EX5.30/Ex5_30.sce#S##110092
+5#Economics of tooling#5.3#find project is economical or not#Ex5_3.sce#2660/CH5/EX5.3/Ex5_3.sce#S##110068
+5#Economics of tooling#5.29#To find BEP Cost and Components#Ex5_29.sce#2660/CH5/EX5.29/Ex5_29.sce#S##110091
+5#Economics of tooling#5.28#To find profit#Ex5_28.sce#2660/CH5/EX5.28/Ex5_28.sce#S##110090
+5#Economics of tooling#5.27#find time to amortize fixture#Ex5_27.sce#2660/CH5/EX5.27/Ex5_27.sce#S##110089
+5#Economics of tooling#5.26#To find cost for new fixture#Ex5_26.sce#2660/CH5/EX5.26/Ex5_26.sce#S##110088
+5#Economics of tooling#5.25#To calculate number of pieces#Ex5_25.sce#2660/CH5/EX5.25/Ex5_25.sce#S##110087
+5#Economics of tooling#5.24#To find minimum number of components#Ex5_24.sce#2660/CH5/EX5.24/Ex5_24.sce#S##110086
+5#Economics of tooling#5.23#To find time and profit#Ex5_23.sce#2660/CH5/EX5.23/Ex5_23.sce#S##110085
+5#Economics of tooling#5.22#To find number of components#Ex5_22.sce#2660/CH5/EX5.22/Ex5_22.sce#S##110084
+5#Economics of tooling#5.21#To find number of components#Ex5_21.sce#2660/CH5/EX5.21/Ex5_21.sce#S##110083
+5#Economics of tooling#5.20#To find cost and pieces#Ex5_20.sce#2660/CH5/EX5.20/Ex5_20.sce#S##110107
+5#Economics of tooling#5.2#To find annual investment#Ex5_2.sce#2660/CH5/EX5.2/Ex5_2.sce#S##110067
+5#Economics of tooling#5.19#To find years for new machine#Ex5_19.sce#2660/CH5/EX5.19/Ex5_19.sce#S##110081
+5#Economics of tooling#5.18#Calculate maximum investment on turret lathe#Ex5_18.sce#2660/CH5/EX5.18/Ex5_18.sce#S##110080
+5#Economics of tooling#5.17#selection of machine for job#Ex5_17.sce#2660/CH5/EX5.17/Ex5_17.sce#S##110079
+5#Economics of tooling#5.16# find time to pay for itself#Ex5_16.sce#2660/CH5/EX5.16/Ex5_16.sce#S##110078
+5#Economics of tooling#5.15#Determine economic repair life#Ex5_15.sce#2660/CH5/EX5.15/Ex5_15.sce#S##110077
+5#Economics of tooling#5.13#To make decision of machines replacement#Ex5_13.sce#2660/CH5/EX5.13/Ex5_13.sce#S##110076
+5#Economics of tooling#5.11# find investment cost and unamortized value#Ex5_11.sce#2660/CH5/EX5.11/Ex5_11.sce#S##110075
+5#Economics of tooling#5.10#To determine acceptance of machine#Ex5_10.sce#2660/CH5/EX5.10/Ex5_10.sce#S##110074
+5#Economics of tooling#5.1#To find value of machine tool#Ex5_1.sce#2660/CH5/EX5.1/Ex5_1.sce#S##110066
+4#Cost Estimating#4.9#To calculate measuring time allowance#Ex4_9.sce#2660/CH4/EX4.9/Ex4_9.sce#S##110052
+4#Cost Estimating#4.8#To find tool change time#Ex4_8.sce#2660/CH4/EX4.8/Ex4_8.sce#S##110051
+4#Cost Estimating#4.7#To find time to change cutter#Ex4_7.sce#2660/CH4/EX4.7/Ex4_7.sce#S##110050
+4#Cost Estimating#4.6#To find lot size and time#Ex4_6.sce#2660/CH4/EX4.6/Ex4_6.sce#S##110049
+4#Cost Estimating#4.5#To find profit#Ex4_5.sce#2660/CH4/EX4.5/Ex4_5.sce#S##110048
+4#Cost Estimating#4.4#find production cost and time taken#Ex4_4.sce#2660/CH4/EX4.4/Ex4_4.sce#S##110047
+4#Cost Estimating#4.3#To find factory cost#Ex4_3.sce#2660/CH4/EX4.3/Ex4_3.sce#S##110046
+4#Cost Estimating#4.22# find time to produce one piece#Ex4_22.sce#2660/CH4/EX4.22/Ex4_22.sce#S##110065
+4#Cost Estimating#4.21#To find time to cut threads#Ex4_21.sce#2660/CH4/EX4.21/Ex4_21.sce#S##110064
+4#Cost Estimating#4.20#To find time to grind shaft#Ex4_20.sce#2660/CH4/EX4.20/Ex4_20.sce#S##110063
+4#Cost Estimating#4.2#To find selling price#Ex4_2.sce#2660/CH4/EX4.2/Ex4_2.sce#S##110045
+4#Cost Estimating#4.19#To find milling time#Ex4_19.sce#2660/CH4/EX4.19/Ex4_19.sce#S##110062
+4#Cost Estimating#4.18#To find cutting time#Ex4_18.sce#2660/CH4/EX4.18/Ex4_18.sce#S##110061
+4#Cost Estimating#4.17# find feed cutter travel and time#Ex4_17.sce#2660/CH4/EX4.17/Ex4_17.sce#S##110060
+4#Cost Estimating#4.16#To find time to broach#Ex4_16.sce#2660/CH4/EX4.16/Ex4_16.sce#S##110059
+4#Cost Estimating#4.15#To find time to complete cut#Ex4_15.sce#2660/CH4/EX4.15/Ex4_15.sce#S##110058
+4#Cost Estimating#4.14#To find time to drill hole#Ex4_14.sce#2660/CH4/EX4.14/Ex4_14.sce#S##110057
+4#Cost Estimating#4.13#calculate time to face on lathe#Ex4_13.sce#2660/CH4/EX4.13/Ex4_13.sce#S##110056
+4#Cost Estimating#4.12#To find time to turn relief#Ex4_12.sce#2660/CH4/EX4.12/Ex4_12.sce#S##110055
+4#Cost Estimating#4.11#To find machining time#Ex4_11.sce#2660/CH4/EX4.11/Ex4_11.sce#S##110054
+4#Cost Estimating#4.10#To find direct labour cost#Ex4_10.sce#2660/CH4/EX4.10/Ex4_10.sce#S##110053
+4#Cost Estimating#4.1#To calculate total cost and SP#Ex4_1.sce#2660/CH4/EX4.1/Ex4_1.sce#S##110044
+2#Press Tool Design#2.9#Calculations for designing drawing die#Ex2_9.sce#2660/CH2/EX2.9/Ex2_9.sce#S##110035
+2#Press Tool Design#2.8#To find economy of material#Ex2_8.sce#2660/CH2/EX2.8/Ex2_8.sce#S##110034
+2#Press Tool Design#2.7#To calculate amount of shear#Ex2_7.sce#2660/CH2/EX2.7/Ex2_7.sce#S##110033
+2#Press Tool Design#2.6#To find cutting forces#Ex2_6.sce#2660/CH2/EX2.6/Ex2_6.sce#S##110032
+2#Press Tool Design#2.5#To find elastic recovery of material#Ex2_5.sce#2660/CH2/EX2.5/Ex2_5.sce#S##110031
+2#Press Tool Design#2.4#find blanking force and work done #Ex2_4.sce#2660/CH2/EX2.4/Ex2_4.sce#S##110030
+2#Press Tool Design#2.3# To calculate bending force#Ex2_3.sce#2660/CH2/EX2.3/Ex2_3.sce#S##110029
+2#Press Tool Design#2.2#To find number of draws#Ex2_2.sce#2660/CH2/EX2.2/Ex2_2.sce#S##110028
+2#Press Tool Design#2.17#Determine developed length#Ex2_17.sce#2660/CH2/EX2.17/Ex2_17.sce#S##110043
+2#Press Tool Design#2.16#To find drawing operations and force#Ex2_16.sce#2660/CH2/EX2.16/Ex2_16.sce#S##110042
+2#Press Tool Design#2.15#Determine blank and punch diameter#Ex2_15.sce#2660/CH2/EX2.15/Ex2_15.sce#S##110041
+2#Press Tool Design#2.14#To calculate cutting force#Ex2_14.sce#2660/CH2/EX2.14/Ex2_14.sce#S##110040
+2#Press Tool Design#2.13#calculate capacity of double bending die#Ex2_13.sce#2660/CH2/EX2.13/Ex2_13.sce#S##110039
+2#Press Tool Design#2.12#To calculate bending force#Ex2_12.sce#2660/CH2/EX2.12/Ex2_12.sce#S##110038
+2#Press Tool Design#2.11#To calculate bending force#Ex2_11.sce#2660/CH2/EX2.11/Ex2_11.sce#S##110037
+2#Press Tool Design#2.10#Determine developed length#Ex2_10.sce#2660/CH2/EX2.10/Ex2_10.sce#S##110036
+2#Press Tool Design#2.1#find total pressure and dimensions #Ex2_1.sce#2660/CH2/EX2.1/Ex2_1.sce#S##110027

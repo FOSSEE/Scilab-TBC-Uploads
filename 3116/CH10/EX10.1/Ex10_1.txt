@@ -1,0 +1,7 @@
+ Example 10.1
+
+ Part A:
+ Resolved shear stress is 21.2 MPa
+
+ Part B:
+ Applied tensile force to initiate yielding is 73.5 MPa

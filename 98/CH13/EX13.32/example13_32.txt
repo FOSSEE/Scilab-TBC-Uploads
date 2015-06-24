@@ -1,0 +1,15 @@
+Load current on +ve outer = 6000 A 
+
+Load current on -ve outer = 8000 A 
+
+Current in nuetral = -2000 A 
+
+Total load on main generator = 3500 W 
+
+Current supplied by main generator = 7000 A 
+
+Current in machine A = 1000 A 
+
+Current in machine B = 1000 A 
+
+

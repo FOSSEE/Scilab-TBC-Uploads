@@ -1,0 +1,6 @@
+ # Problem 1 # 
+ 
+ Magnitude of force F is 7.176350 N 
+ Angle made with X - axis is 69.612564 degree 
+ Angle made with Y - axis is 51.166475 degree 
+ Angle made with Z - axis is 134.165477 degree

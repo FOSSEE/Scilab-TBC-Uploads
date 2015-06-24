@@ -1,0 +1,11 @@
+(1)Width of depletion layer for 10.20 V = 8.45e-006 mu-m
+
+(2)Width of depletion layer for 0.30 V = 1.45e-006 mu-m
+
+(3)Width of depletion layer for 0.10 V = 8.36e-007 mu-m
+
+(1)Space charge capacitance for 8.50 mu-m = 1.66e-011 F
+
+(2)Space charge capacitance for 1.45 mu-m = 9.76e-011 F
+
+ 

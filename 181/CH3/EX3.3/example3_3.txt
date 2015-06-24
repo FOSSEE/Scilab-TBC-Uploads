@@ -1,0 +1,3 @@
+r1/r2 = 10^4
+Break region for silicon = 478 mV
+Break region for Germanium = 239 mV 

@@ -1,0 +1,226 @@
+28#Open Ended Problems#28.11#Example#Ex28_11.sce#2510/CH28/EX28.11/Ex28_11.sce#S##86648
+27#Economics and Finance#27.9#Example#Ex27_9.sce#2510/CH27/EX27.9/Ex27_9.sce#S##86639
+27#Economics and Finance#27.8#Example#Ex27_8.sce#2510/CH27/EX27.8/Ex27_8.sce#S##86637
+27#Economics and Finance#27.7#Example#Ex27_7.sce#2510/CH27/EX27.7/Ex27_7.sce#S##86640
+27#Economics and Finance#27.6#Example#Ex27_6.sce#2510/CH27/EX27.6/Ex27_6.sce#S##86636
+27#Economics and Finance#27.5#Example#Ex27_5.sce#2510/CH27/EX27.5/Ex27_5.sce#S##86634
+27#Economics and Finance#27.15#Example#Ex27_15.sce#2510/CH27/EX27.15/Ex27_15.sce#S##86646
+27#Economics and Finance#27.12#Example#Ex27_12.sce#2510/CH27/EX27.12/Ex27_12.sce#S##86644
+27#Economics and Finance#27.10#Example#Ex27_10.sce#2510/CH27/EX27.10/Ex27_10.sce#S##86642
+26# Numerical Methods#26.9#Example#Ex26_9.sce#2510/CH26/EX26.9/Ex26_9.sce#S##86629
+26# Numerical Methods#26.8#Example#Ex26_8.sce#2510/CH26/EX26.8/Ex26_8.sce#S##86628
+26# Numerical Methods#26.11#Example#Ex26_11.sce#2510/CH26/EX26.11/Ex26_11.sce#S##86630
+24#Accident and Emergency Management#24.9#Example#Ex24_9.sce#2510/CH24/EX24.9/Ex24_9.sce#S##86625
+24#Accident and Emergency Management#24.8#Example#Ex24_8.sce#2510/CH24/EX24.8/Ex24_8.sce#S##86624
+24#Accident and Emergency Management#24.7#Example#Ex24_7.sce#2510/CH24/EX24.7/Ex24_7.sce#S##86623
+24#Accident and Emergency Management#24.6#Example#Ex24_6.sce#2510/CH24/EX24.6/Ex24_6.sce#S##86621
+24#Accident and Emergency Management#24.5#Example#Ex24_5.sce#2510/CH24/EX24.5/Ex24_5.sce#S##86622
+24#Accident and Emergency Management#24.4#Example#Ex24_4.sce#2510/CH24/EX24.4/Ex24_4.sce#S##86620
+24#Accident and Emergency Management#24.15#Example#Ex24_15.sce#2510/CH24/EX24.15/Ex24_15.sce#S##86626
+24#Accident and Emergency Management#24.10#Example#Ex24_10.sce#2510/CH24/EX24.10/Ex24_10.sce#S##86627
+23#Environmental Management#23.7#Example#Ex23_7.sce#2510/CH23/EX23.7/Ex23_7.sce#S##86618
+23#Environmental Management#23.6#Example#Ex23_6.sce#2510/CH23/EX23.6/Ex23_6.sce#S##86617
+22#Design Principles and Industrial Applications#22.9#Example#Ex22_9.sce#2510/CH22/EX22.9/Ex22_9.sce#S##86606
+22#Design Principles and Industrial Applications#22.8#Example#Ex22_8.sce#2510/CH22/EX22.8/Ex22_8.sce#S##86604
+22#Design Principles and Industrial Applications#22.7#Example#Ex22_7.sce#2510/CH22/EX22.7/Ex22_7.sce#S##86602
+22#Design Principles and Industrial Applications#22.6#Example#Ex22_6.sce#2510/CH22/EX22.6/Ex22_6.sce#S##86601
+22#Design Principles and Industrial Applications#22.24#Example#Ex22_24.sce#2510/CH22/EX22.24/Ex22_24.sce#S##86614
+22#Design Principles and Industrial Applications#22.23#Example#Ex22_23.sce#2510/CH22/EX22.23/Ex22_23.sce#S##86613
+22#Design Principles and Industrial Applications#22.13#Example#Ex22_13.sce#2510/CH22/EX22.13/Ex22_13.sce#S##86611
+22#Design Principles and Industrial Applications#22.12#Example#Ex22_12.sce#2510/CH22/EX22.12/Ex22_12.sce#S##86609
+22#Design Principles and Industrial Applications#22.10#Example#Ex22_10.sce#2510/CH22/EX22.10/Ex22_10.sce#S##103414
+21#Entropy Considerations and Analysis#21.3#Example#Ex21_3.sce#2510/CH21/EX21.3/Ex21_3.sce#S##86599
+21#Entropy Considerations and Analysis#21.2#Example#Ex21_2.sce#2510/CH21/EX21.2/Ex21_2.sce#S##86598
+21#Entropy Considerations and Analysis#21.1#Example#Ex21_1.sce#2510/CH21/EX21.1/Ex21_1.sce#S##86595
+19#Insulation and Refractory#19.9#Example#Ex19_9.sce#2510/CH19/EX19.9/Ex19_9.sce#S##92642
+19#Insulation and Refractory#19.7#Example#Ex19_7.sce#2510/CH19/EX19.7/Ex19_7.sce#S##92641
+19#Insulation and Refractory#19.6#Example#Ex19_6.sce#2510/CH19/EX19.6/Ex19_6.sce#S##86581
+19#Insulation and Refractory#19.5#Example#Ex19_5.sce#2510/CH19/EX19.5/Ex19_5.sce#S##86580
+19#Insulation and Refractory#19.4#Example#Ex19_4.sce#2510/CH19/EX19.4/Ex19_4.sce#S##86577
+19#Insulation and Refractory#19.3#Example#Ex19_3.sce#2510/CH19/EX19.3/Ex19_3.sce#S##86575
+19#Insulation and Refractory#19.20#Example#Ex19_20.sce#2510/CH19/EX19.20/Ex19_20.sce#S##92646
+19#Insulation and Refractory#19.2#Example#Ex19_2.sce#2510/CH19/EX19.2/Ex19_2.sce#S##86574
+19#Insulation and Refractory#19.19#Example#Ex19_19.sce#2510/CH19/EX19.19/Ex19_19.sce#S##86592
+19#Insulation and Refractory#19.18#Example#Ex19_18.sce#2510/CH19/EX19.18/Ex19_18.sce#S##86590
+19#Insulation and Refractory#19.16#Example#Ex19_16.sce#2510/CH19/EX19.16/Ex19_16.sce#S##86588
+19#Insulation and Refractory#19.12#Example#Ex19_12.sce#2510/CH19/EX19.12/Ex19_12.sce#S##92645
+19#Insulation and Refractory#19.11#Example#Ex19_11.sce#2510/CH19/EX19.11/Ex19_11.sce#S##92644
+19#Insulation and Refractory#19.10#Example#Ex19_10.sce#2510/CH19/EX19.10/Ex19_10.sce#S##92643
+19#Insulation and Refractory#19.1#Example#Ex19_1.sce#2510/CH19/EX19.1/Ex19_1.sce#S##86572
+18#Other Heat Exchange Equipment#18.7#Example#Ex18_7.sce#2510/CH18/EX18.7/Ex18_7.sce#S##86559
+18#Other Heat Exchange Equipment#18.6#Example#Ex18_6.sce#2510/CH18/EX18.6/Ex18_6.sce#S##86558
+18#Other Heat Exchange Equipment#18.4#Example#Ex18_4.sce#2510/CH18/EX18.4/Ex18_4.sce#S##86557
+18#Other Heat Exchange Equipment#18.3#Example#Ex18_3.sce#2510/CH18/EX18.3/Ex18_3.sce#S##86556
+18#Other Heat Exchange Equipment#18.22#Example#Ex18_22.sce#2510/CH18/EX18.22/Ex18_22.sce#S##86569
+18#Other Heat Exchange Equipment#18.21#Example#Ex18_21.sce#2510/CH18/EX18.21/Ex18_21.sce#S##86567
+18#Other Heat Exchange Equipment#18.20#Example#Ex18_20.sce#2510/CH18/EX18.20/Ex18_20.sce#S##92640
+18#Other Heat Exchange Equipment#18.2#Example#Ex18_2.sce#2510/CH18/EX18.2/Ex18_2.sce#S##86554
+18#Other Heat Exchange Equipment#18.19#Example#Ex18_19.sce#2510/CH18/EX18.19/Ex18_19.sce#S##86565
+18#Other Heat Exchange Equipment#18.18#Example#Ex18_18.sce#2510/CH18/EX18.18/Ex18_18.sce#S##86563
+18#Other Heat Exchange Equipment#18.12#Example#Ex18_12.sce#2510/CH18/EX18.12/Ex18_12.sce#S##86562
+18#Other Heat Exchange Equipment#18.10#Example#Ex18_10.sce#2510/CH18/EX18.10/Ex18_10.sce#S##86561
+17#Fins and Extended Surfaces#17.8#Example#Ex17_8.sce#2510/CH17/EX17.8/Ex17_8.sce#S##86476
+17#Fins and Extended Surfaces#17.6#Example#Ex17_6.sce#2510/CH17/EX17.6/Ex17_6.sce#S##86475
+17#Fins and Extended Surfaces#17.5#Example#Ex17_5.sce#2510/CH17/EX17.5/Ex17_5.sce#S##86474
+17#Fins and Extended Surfaces#17.4#Example#Ex17_4.sce#2510/CH17/EX17.4/Ex17_4.sce#S##86473
+17#Fins and Extended Surfaces#17.3#Example#Ex17_3.sce#2510/CH17/EX17.3/Ex17_3.sce#S##92635
+17#Fins and Extended Surfaces#17.18#Example#Ex17_18.sce#2510/CH17/EX17.18/Ex17_18.sce#S##86552
+17#Fins and Extended Surfaces#17.17#Example#Ex17_17.sce#2510/CH17/EX17.17/Ex17_17.sce#S##86551
+17#Fins and Extended Surfaces#17.16#Example#Ex17_16.sce#2510/CH17/EX17.16/Ex17_16.sce#S##92639
+17#Fins and Extended Surfaces#17.15#Example#Ex17_15.sce#2510/CH17/EX17.15/Ex17_15.sce#S##92638
+17#Fins and Extended Surfaces#17.14#Example#Ex17_14.sce#2510/CH17/EX17.14/Ex17_14.sce#S##86548
+17#Fins and Extended Surfaces#17.13#Example#Ex17_13.sce#2510/CH17/EX17.13/Ex17_13.sce#S##86547
+17#Fins and Extended Surfaces#17.12#Example#Ex17_12.sce#2510/CH17/EX17.12/Ex17_12.sce#S##92637
+17#Fins and Extended Surfaces#17.11#Example#Ex17_11.sce#2510/CH17/EX17.11/Ex17_11.sce#S##86543
+17#Fins and Extended Surfaces#17.10#Example#Ex17_10.sce#2510/CH17/EX17.10/Ex17_10.sce#S##92636
+17#Fins and Extended Surfaces#17.1#Example#Ex17_1.sce#2510/CH17/EX17.1/Ex17_1.sce#S##86471
+16#Shell and Tube Heat Exchangers#16.8#Example#Ex16_8.sce#2510/CH16/EX16.8/Ex16_8.sce#S##86464
+16#Shell and Tube Heat Exchangers#16.7#Example#Ex16_7.sce#2510/CH16/EX16.7/Ex16_7.sce#S##86463
+16#Shell and Tube Heat Exchangers#16.6#Example#Ex16_6.sce#2510/CH16/EX16.6/Ex16_6.sce#S##86462
+16#Shell and Tube Heat Exchangers#16.5#Example#Ex16_5.sce#2510/CH16/EX16.5/Ex16_5.sce#S##86461
+16#Shell and Tube Heat Exchangers#16.22#Example#Ex16_22.sce#2510/CH16/EX16.22/Ex16_22.sce#S##86470
+16#Shell and Tube Heat Exchangers#16.21#Example#Ex16_21.sce#2510/CH16/EX16.21/Ex16_21.sce#S##86469
+16#Shell and Tube Heat Exchangers#16.19#Example#Ex16_19.sce#2510/CH16/EX16.19/Ex16_19.sce#S##86468
+16#Shell and Tube Heat Exchangers#16.18#Example#Ex16_18.sce#2510/CH16/EX16.18/Ex16_18.sce#S##86467
+16#Shell and Tube Heat Exchangers#16.11#Example#Ex16_11.sce#2510/CH16/EX16.11/Ex16_11.sce#S##86466
+16#Shell and Tube Heat Exchangers#16.10#Example#Ex16_10.sce#2510/CH16/EX16.10/Ex16_10.sce#S##86465
+15#Double Pipe Heat Exchangers#15.8#Example#Ex15_8.sce#2510/CH15/EX15.8/Ex15_8.sce#S##86445
+15#Double Pipe Heat Exchangers#15.6#Example#Ex15_6.sce#2510/CH15/EX15.6/Ex15_6.sce#S##86444
+15#Double Pipe Heat Exchangers#15.5#Example#Ex15_5.sce#2510/CH15/EX15.5/Ex15_5.sce#S##86442
+15#Double Pipe Heat Exchangers#15.4#Example#Ex15_4.sce#2510/CH15/EX15.4/Ex15_4.sce#S##86439
+15#Double Pipe Heat Exchangers#15.3#Example#Ex15_3.sce#2510/CH15/EX15.3/Ex15_3.sce#S##86437
+15#Double Pipe Heat Exchangers#15.21#Example#Ex15_21.sce#2510/CH15/EX15.21/Ex15_21.sce#S##86460
+15#Double Pipe Heat Exchangers#15.20#Example#Ex15_20.sce#2510/CH15/EX15.20/Ex15_20.sce#S##86459
+15#Double Pipe Heat Exchangers#15.2#Example#Ex15_2.sce#2510/CH15/EX15.2/Ex15_2.sce#S##86435
+15#Double Pipe Heat Exchangers#15.19#Example#Ex15_19.sce#2510/CH15/EX15.19/Ex15_19.sce#S##86458
+15#Double Pipe Heat Exchangers#15.18#Example#Ex15_18.sce#2510/CH15/EX15.18/Ex15_18.sce#S##86457
+15#Double Pipe Heat Exchangers#15.16#Example#Ex15_16.sce#2510/CH15/EX15.16/Ex15_16.sce#S##86455
+15#Double Pipe Heat Exchangers#15.15#Example#Ex15_15.sce#2510/CH15/EX15.15/Ex15_15.sce#S##92634
+15#Double Pipe Heat Exchangers#15.14#Example#Ex15_14.sce#2510/CH15/EX15.14/Ex15_14.sce#S##92633
+15#Double Pipe Heat Exchangers#15.12#Example#Ex15_12.sce#2510/CH15/EX15.12/Ex15_12.sce#S##86450
+15#Double Pipe Heat Exchangers#15.11#Example#Ex15_11.sce#2510/CH15/EX15.11/Ex15_11.sce#S##86449
+15#Double Pipe Heat Exchangers#15.10#Example#Ex15_10.sce#2510/CH15/EX15.10/Ex15_10.sce#S##86447
+14#Introduction to Heat Exchangers#14.8#Example#Ex14_8.sce#2510/CH14/EX14.8/Ex14_8.sce#S##86417
+14#Introduction to Heat Exchangers#14.7#Example#Ex14_7.sce#2510/CH14/EX14.7/Ex14_7.sce#S##86416
+14#Introduction to Heat Exchangers#14.6#Example#Ex14_6.sce#2510/CH14/EX14.6/Ex14_6.sce#S##86414
+14#Introduction to Heat Exchangers#14.5#Example#Ex14_5.sce#2510/CH14/EX14.5/Ex14_5.sce#S##86412
+14#Introduction to Heat Exchangers#14.4#Example#Ex14_4.sce#2510/CH14/EX14.4/Ex14_4.sce#S##86411
+14#Introduction to Heat Exchangers#14.3#Example#Ex14_3.sce#2510/CH14/EX14.3/Ex14_3.sce#S##86409
+14#Introduction to Heat Exchangers#14.2#Example#Ex14_2.sce#2510/CH14/EX14.2/Ex14_2.sce#S##86408
+14#Introduction to Heat Exchangers#14.17#Example#Ex14_17.sce#2510/CH14/EX14.17/Ex14_17.sce#S##86426
+14#Introduction to Heat Exchangers#14.16#Example#Ex14_16.sce#2510/CH14/EX14.16/Ex14_16.sce#S##86425
+14#Introduction to Heat Exchangers#14.15#Example#Ex14_15.sce#2510/CH14/EX14.15/Ex14_15.sce#S##92632
+14#Introduction to Heat Exchangers#14.14#Example#Ex14_14.sce#2510/CH14/EX14.14/Ex14_14.sce#S##86423
+14#Introduction to Heat Exchangers#14.12#Example#Ex14_12.sce#2510/CH14/EX14.12/Ex14_12.sce#S##86422
+14#Introduction to Heat Exchangers#14.11#Example#Ex14_11.sce#2510/CH14/EX14.11/Ex14_11.sce#S##86420
+14#Introduction to Heat Exchangers#14.10#Example#Ex14_10.sce#2510/CH14/EX14.10/Ex14_10.sce#S##86419
+14#Introduction to Heat Exchangers#14.1#Example#Ex14_1.sce#2510/CH14/EX14.1/Ex14_1.sce#S##86406
+13#Refrigeration and Cryogenics#13.9#Example#Ex13_9.sce#2510/CH13/EX13.9/Ex13_9.sce#S##86393
+13#Refrigeration and Cryogenics#13.3#Example#Ex13_3.sce#2510/CH13/EX13.3/Ex13_3.sce#S##86392
+13#Refrigeration and Cryogenics#13.2#Example#Ex13_2.sce#2510/CH13/EX13.2/Ex13_2.sce#S##86390
+13#Refrigeration and Cryogenics#13.15#Example#Ex13_15.sce#2510/CH13/EX13.15/Ex13_15.sce#S##86402
+13#Refrigeration and Cryogenics#13.14#Example#Ex13_14.sce#2510/CH13/EX13.14/Ex13_14.sce#S##86400
+13#Refrigeration and Cryogenics#13.13#Example#Ex13_13.sce#2510/CH13/EX13.13/Ex13_13.sce#S##86399
+13#Refrigeration and Cryogenics#13.12#Example#Ex13_12.sce#2510/CH13/EX13.12/Ex13_12.sce#S##86397
+13#Refrigeration and Cryogenics#13.11#Example#Ex13_11.sce#2510/CH13/EX13.11/Ex13_11.sce#S##86396
+13#Refrigeration and Cryogenics#13.10#Example#Ex13_10.sce#2510/CH13/EX13.10/Ex13_10.sce#S##86394
+13#Refrigeration and Cryogenics#13.1#Example#Ex13_1.sce#2510/CH13/EX13.1/Ex13_1.sce#S##86389
+12#Condensation and Boiling#12.9#Example#Ex12_9.sce#2510/CH12/EX12.9/Ex12_9.sce#S##86381
+12#Condensation and Boiling#12.7#Example#Ex12_7.sce#2510/CH12/EX12.7/Ex12_7.sce#S##86379
+12#Condensation and Boiling#12.6#Example#Ex12_6.sce#2510/CH12/EX12.6/Ex12_6.sce#S##86378
+12#Condensation and Boiling#12.5#Example#Ex12_5.sce#2510/CH12/EX12.5/Ex12_5.sce#S##86376
+12#Condensation and Boiling#12.4#Example#Ex12_4.sce#2510/CH12/EX12.4/Ex12_4.sce#S##86375
+12#Condensation and Boiling#12.2#Example#Ex12_2.sce#2510/CH12/EX12.2/Ex12_2.sce#S##86373
+12#Condensation and Boiling#12.13#Example#Ex12_13.sce#2510/CH12/EX12.13/Ex12_13.sce#S##86385
+12#Condensation and Boiling#12.12#Example#Ex12_12.sce#2510/CH12/EX12.12/Ex12_12.sce#S##86386
+12#Condensation and Boiling#12.11#Example#Ex12_11.sce#2510/CH12/EX12.11/Ex12_11.sce#S##86383
+12#Condensation and Boiling#12.10#Example#Ex12_10.sce#2510/CH12/EX12.10/Ex12_10.sce#S##86382
+11#Radiation#11.9#Example#Ex11_9.sce#2510/CH11/EX11.9/Ex11_9.sce#S##86347
+11#Radiation#11.8#Example#Ex11_8.sce#2510/CH11/EX11.8/Ex11_8.sce#S##86345
+11#Radiation#11.7#Example#Ex11_7.sce#2510/CH11/EX11.7/Ex11_7.sce#S##86343
+11#Radiation#11.6#Example#Ex11_6.sce#2510/CH11/EX11.6/Ex11_6.sce#S##86342
+11#Radiation#11.5#Example#Ex11_5.sce#2510/CH11/EX11.5/Ex11_5.sce#S##86339
+11#Radiation#11.4#Example#Ex11_4.sce#2510/CH11/EX11.4/Ex11_4.sce#S##86337
+11#Radiation#11.3#Example#Ex11_3.sce#2510/CH11/EX11.3/Ex11_3.sce#S##86326
+11#Radiation#11.17#Example#Ex11_17.sce#2510/CH11/EX11.17/Ex11_17.sce#S##86359
+11#Radiation#11.16#Example#Ex11_16.sce#2510/CH11/EX11.16/Ex11_16.sce#S##86357
+11#Radiation#11.15#Example#Ex11_15.sce#2510/CH11/EX11.15/Ex11_15.sce#S##86356
+11#Radiation#11.14#Example#Ex11_14.sce#2510/CH11/EX11.14/Ex11_14.sce#S##103413
+11#Radiation#11.13#Example#Ex11_13.sce#2510/CH11/EX11.13/Ex11_13.sce#S##86353
+11#Radiation#11.12#Example#Ex11_12.sce#2510/CH11/EX11.12/Ex11_12.sce#S##86351
+11#Radiation#11.11#Example#Ex11_11.sce#2510/CH11/EX11.11/Ex11_11.sce#S##86350
+11#Radiation#11.10#Example#Ex11_10.sce#2510/CH11/EX11.10/Ex11_10.sce#S##86348
+10#Free Convection#10.9#Example#Ex10_9.sce#2510/CH10/EX10.9/Ex10_9.sce#S##86226
+10#Free Convection#10.8#Example#Ex10_8.sce#2510/CH10/EX10.8/Ex10_8.sce#S##86225
+10#Free Convection#10.7#Example#Ex10_7.sce#2510/CH10/EX10.7/Ex10_7.sce#S##86224
+10#Free Convection#10.6#Example#Ex10_6.sce#2510/CH10/EX10.6/Ex10_6.sce#S##86223
+10#Free Convection#10.4#Example#Ex10_4.sce#2510/CH10/EX10.4/Ex10_4.sce#S##86222
+10#Free Convection#10.3#Example#Ex10_3.sce#2510/CH10/EX10.3/Ex10_3.sce#S##86221
+10#Free Convection#10.2#Example#Ex10_2.sce#2510/CH10/EX10.2/Ex10_2.sce#S##86220
+10#Free Convection#10.13#Example#Ex10_13.sce#2510/CH10/EX10.13/Ex10_13.sce#S##86229
+10#Free Convection#10.11#Example#Ex10_11.sce#2510/CH10/EX10.11/Ex10_11.sce#S##86228
+10#Free Convection#10.10#Example#Ex10_10.sce#2510/CH10/EX10.10/Ex10_10.sce#S##86227
+10#Free Convection#10.1#Example#Ex10_1.sce#2510/CH10/EX10.1/Ex10_1.sce#S##86219
+9#Forced Convection#9.9#Example#Ex9_9.sce#2510/CH9/EX9.9/Ex9_9.sce#S##92629
+9#Forced Convection#9.8#Example#Ex9_8.sce#2510/CH9/EX9.8/Ex9_8.sce#S##86212
+9#Forced Convection#9.7#Example#Ex9_7.sce#2510/CH9/EX9.7/Ex9_7.sce#S##86210
+9#Forced Convection#9.5#Example#Ex9_5.sce#2510/CH9/EX9.5/Ex9_5.sce#S##86211
+9#Forced Convection#9.4#Example#Ex9_4.sce#2510/CH9/EX9.4/Ex9_4.sce#S##86209
+9#Forced Convection#9.3#Example#Ex9_3.sce#2510/CH9/EX9.3/Ex9_3.sce#S##86208
+9#Forced Convection#9.2#Example#Ex9_2.sce#2510/CH9/EX9.2/Ex9_2.sce#S##86207
+9#Forced Convection#9.14#Example#Ex9_14.sce#2510/CH9/EX9.14/Ex9_14.sce#S##92630
+9#Forced Convection#9.13#Example#Ex9_13.sce#2510/CH9/EX9.13/Ex9_13.sce#S##86217
+9#Forced Convection#9.12#Example#Ex9_12.sce#2510/CH9/EX9.12/Ex9_12.sce#S##86216
+9#Forced Convection#9.11#Example#Ex9_11.sce#2510/CH9/EX9.11/Ex9_11.sce#S##86215
+9#Forced Convection#9.10#Example#Ex9_10.sce#2510/CH9/EX9.10/Ex9_10.sce#S##86214
+9#Forced Convection#9.1#Example#Ex9_1.sce#2510/CH9/EX9.1/Ex9_1.sce#S##86206
+8#Unsteady State Heat Conduction#8.4#Example#Ex8_4.sce#2510/CH8/EX8.4/Ex8_4.sce#S##86205
+7#Steady State Heat Conduction#7.8#Example#Ex7_8.sce#2510/CH7/EX7.8/Ex7_8.sce#S##86204
+7#Steady State Heat Conduction#7.7#Example#Ex7_7.sce#2510/CH7/EX7.7/Ex7_7.sce#S##86203
+7#Steady State Heat Conduction#7.6#Example#Ex7_6.sce#2510/CH7/EX7.6/Ex7_6.sce#S##86202
+7#Steady State Heat Conduction#7.5#Example#Ex7_5.sce#2510/CH7/EX7.5/Ex7_5.sce#S##86201
+7#Steady State Heat Conduction#7.4#Example#Ex7_4.sce#2510/CH7/EX7.4/Ex7_4.sce#S##86200
+7#Steady State Heat Conduction#7.3#Example#Ex7_3.sce#2510/CH7/EX7.3/Ex7_3.sce#S##86199
+7#Steady State Heat Conduction#7.2#Example#Ex7_2.sce#2510/CH7/EX7.2/Ex7_2.sce#S##86198
+7#Steady State Heat Conduction#7.1#Example#Ex7_1.sce#2510/CH7/EX7.1/Ex7_1.sce#S##86197
+6#Heat Exchanger Pipes and Tubes#6.4#Example#Ex6_4.sce#2510/CH6/EX6.4/Ex6_4.sce#S##86192
+6#Heat Exchanger Pipes and Tubes#6.3#Example#Ex6_3.sce#2510/CH6/EX6.3/Ex6_3.sce#S##86191
+6#Heat Exchanger Pipes and Tubes#6.2#Example#Ex6_2.sce#2510/CH6/EX6.2/Ex6_2.sce#S##86190
+6#Heat Exchanger Pipes and Tubes#6.14#Example#Ex6_14.sce#2510/CH6/EX6.14/Ex6_14.sce#S##86196
+6#Heat Exchanger Pipes and Tubes#6.13#Example#Ex6_13.sce#2510/CH6/EX6.13/Ex6_13.sce#S##86195
+6#Heat Exchanger Pipes and Tubes#6.12#Example#Ex6_12.sce#2510/CH6/EX6.12/Ex6_12.sce#S##86194
+6#Heat Exchanger Pipes and Tubes#6.11#Example#Ex6_11.sce#2510/CH6/EX6.11/Ex6_11.sce#S##86193
+6#Heat Exchanger Pipes and Tubes#6.1#Example#Ex6_1.sce#2510/CH6/EX6.1/Ex6_1.sce#S##86189
+5#Gas Laws#5.9#Example#Ex5_9.sce#2510/CH5/EX5.9/Ex5_9.sce#S##86186
+5#Gas Laws#5.8#Example#Ex5_8.sce#2510/CH5/EX5.8/Ex5_8.sce#S##86185
+5#Gas Laws#5.7#Example#Ex5_7.sce#2510/CH5/EX5.7/Ex5_7.sce#S##86184
+5#Gas Laws#5.6#Example#Ex5_6.sce#2510/CH5/EX5.6/Ex5_6.sce#S##86183
+5#Gas Laws#5.5#Example#Ex5_5.sce#2510/CH5/EX5.5/Ex5_5.sce#S##86182
+5#Gas Laws#5.4#Example#Ex5_4.sce#2510/CH5/EX5.4/Ex5_4.sce#S##86181
+5#Gas Laws#5.3#Example#Ex5_3.sce#2510/CH5/EX5.3/Ex5_3.sce#S##86180
+5#Gas Laws#5.2#Example#Ex5_2.sce#2510/CH5/EX5.2/Ex5_2.sce#S##86179
+5#Gas Laws#5.11#Example#Ex5_11.sce#2510/CH5/EX5.11/Ex5_11.sce#S##86188
+5#Gas Laws#5.10#Example#Ex5_10.sce#2510/CH5/EX5.10/Ex5_10.sce#S##86187
+5#Gas Laws#5.1#Example#Ex5_1.sce#2510/CH5/EX5.1/Ex5_1.sce#S##86178
+4#The Conservation Law for Momentum#4.9#Example#Ex4_9.sce#2510/CH4/EX4.9/Ex4_9.sce#S##86174
+4#The Conservation Law for Momentum#4.8#Example#Ex4_8.sce#2510/CH4/EX4.8/Ex4_8.sce#S##86173
+4#The Conservation Law for Momentum#4.7#Example#Ex4_7.sce#2510/CH4/EX4.7/Ex4_7.sce#S##86172
+4#The Conservation Law for Momentum#4.6#Example#Ex4_6.sce#2510/CH4/EX4.6/Ex4_6.sce#S##86171
+4#The Conservation Law for Momentum#4.5#Example#Ex4_5.sce#2510/CH4/EX4.5/Ex4_5.sce#S##86170
+4#The Conservation Law for Momentum#4.4#Example#Ex4_4.sce#2510/CH4/EX4.4/Ex4_4.sce#S##86169
+4#The Conservation Law for Momentum#4.3#Example#Ex4_3.sce#2510/CH4/EX4.3/Ex4_3.sce#S##86168
+4#The Conservation Law for Momentum#4.2#Example#Ex4_2.sce#2510/CH4/EX4.2/Ex4_2.sce#S##86167
+4#The Conservation Law for Momentum#4.12#Example#Ex4_12.sce#2510/CH4/EX4.12/Ex4_12.sce#S##86177
+4#The Conservation Law for Momentum#4.11#Example#Ex4_11.sce#2510/CH4/EX4.11/Ex4_11.sce#S##86176
+4#The Conservation Law for Momentum#4.10#Example#Ex4_10.sce#2510/CH4/EX4.10/Ex4_10.sce#S##86175
+4#The Conservation Law for Momentum#4.1#Example#Ex4_1.sce#2510/CH4/EX4.1/Ex4_1.sce#S##86166
+3#Process Variables#3.9#Example#Ex3_9.sce#2510/CH3/EX3.9/Ex3_9.sce#S##86163
+3#Process Variables#3.8#Example#Ex3_8.sce#2510/CH3/EX3.8/Ex3_8.sce#S##86162
+3#Process Variables#3.7#Example#Ex3_7.sce#2510/CH3/EX3.7/Ex3_7.sce#S##86161
+3#Process Variables#3.6#Example 6#Ex3_6.sce#2510/CH3/EX3.6/Ex3_6.sce#S##86160
+3#Process Variables#3.5#Example 5#Ex3_5.sce#2510/CH3/EX3.5/Ex3_5.sce#S##86159
+3#Process Variables#3.4#Example 4#Ex3_4.sce#2510/CH3/EX3.4/Ex3_4.sce#S##86158
+3#Process Variables#3.3#Example#Ex3_3.sce#2510/CH3/EX3.3/Ex3_3.sce#S##86157
+3#Process Variables#3.2#Example2#Ex3_2.sce#2510/CH3/EX3.2/Ex3_2.sce#S##86156
+3#Process Variables#3.12#Example#Ex3_12.sce#2510/CH3/EX3.12/Ex3_12.sce#S##86165
+3#Process Variables#3.11#Example#Ex3_11.sce#2510/CH3/EX3.11/Ex3_11.sce#S##86164

@@ -1,0 +1,1 @@
+The value of the unknown resistance R_x = 2.0e+005 ohm 

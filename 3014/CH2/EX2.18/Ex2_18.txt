@@ -1,0 +1,3 @@
+
+Example 2.18
+ Minimum error in measurement of energy of this state is 1.648746e-04 eV.

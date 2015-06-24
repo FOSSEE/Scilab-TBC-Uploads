@@ -1,0 +1,1 @@
+ The total radiated power= pi^2*Ao watts

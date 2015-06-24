@@ -1,0 +1,7 @@
+ # PROBLEM 11 # 
+
+ Standard formula used 
+ k = (m1 * g) / x. 
+ T = (2 * pi) * sqrt(m2 / k).
+
+ Time period of motion = 0.448799 sec.

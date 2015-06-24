@@ -1,0 +1,7 @@
+modifiedEuler.sce#60/DEPENDENCIES/modifiedEuler.sce#Modified euler method#114
+adamsbash.sce#60/DEPENDENCIES/adamsbash.sce#adamsbashforth#115
+secantm.sce#60/DEPENDENCIES/secantm.sce#secant mehod#140
+bisect.sce#60/DEPENDENCIES/bisect.sce#bisection method#107
+fixedp.sce#60/DEPENDENCIES/fixedp.sce#fixed point#108
+newt.sce#60/DEPENDENCIES/newt.sce#newton method#110
+regulfalsi.sce#60/DEPENDENCIES/regulfalsi.sce#Regular falsi method#109

@@ -1,0 +1,88 @@
+-->//(Springs) Example 10.6
+ 
+-->//Velocity of the railway wagon v (m/s)
+ 
+-->v = 1.5
+ v  =
+ 
+    1.5  
+ 
+-->//Mass of the wagon m (kg)
+ 
+-->m = 1500
+ m  =
+ 
+    1500.  
+ 
+-->//Spring compression delta (mm)
+ 
+-->delta = 150
+ delta  =
+ 
+    150.  
+ 
+-->//Spring index C
+ 
+-->C = 6
+ C  =
+ 
+    6.  
+ 
+-->//Ultimate tensile strength of the spring material Sut (N/mm2)
+ 
+-->Sut = 1250
+ Sut  =
+ 
+    1250.  
+ 
+-->//Rigidity modulus of the material G (N/mm2)
+ 
+-->G = 81370
+ G  =
+ 
+    81370.  
+ 
+-->//For plain ends, endtype = 1
+ 
+-->//For plain ends(ground), endtype = 2
+ 
+-->//For square ends, endtype = 3
+ 
+-->//For square ends(ground), endtype = 4
+ 
+-->endtype = 4
+ endtype  =
+ 
+    4.  
+ 
+-->//Number of springs n
+ 
+-->n = 2
+ n  =
+ 
+    2.  
+ 
+-->//Gap between adjacent coils g (mm)
+ 
+-->g = 2
+ g  =
+ 
+    2.  
+ 
+
+Wire diameter(d) = 18.559694 or 20.000000 mm
+
+Mean coil diameter(D) = 120.000000 mm
+
+Number of active coils(N) = 12.557099 or 13
+
+Total number of coils(Nt) = 15
+
+Free length of the spring(len) = 483.290648 or 484.000000 mm
+
+Pitch of the coil(p) = 34.571429 mm
+
+Required spring rate(k) = 75.000000 N/mm
+
+Actual spring rate(kact) = 72.444801 N/mm
+ 

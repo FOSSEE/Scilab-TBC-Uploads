@@ -1,0 +1,5 @@
+ # PROBLEM 31 # 
+ Standard formula used 
+ RP = n*N  
+
+Minimum number of grating required to resolve wavelengths is 491

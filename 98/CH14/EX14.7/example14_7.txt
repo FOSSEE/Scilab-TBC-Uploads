@@ -1,0 +1,9 @@
+(i) Phase voltage = 230.94 V 
+	 Ir = 43.3 A 
+	 Iy = 34.6 A 
+	 Ib = 21.7 A 
+(ii) The three line currents are different in magnitude and displaced by 120 degrees from one another. Resolving currents on x and y axis:
+	 Resultant horizontal component = 11.2 A 
+	 Resultant vertical component = 15.2 A 
+	 Current in nuetral wire = 18.9 A 
+

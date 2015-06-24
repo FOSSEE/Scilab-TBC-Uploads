@@ -1,0 +1,4 @@
+  
+ Change in free energy during recrysatllization (in J/m^3) =    
+ 
+    653.84615 

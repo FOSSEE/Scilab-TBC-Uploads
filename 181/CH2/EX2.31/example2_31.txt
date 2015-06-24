@@ -1,0 +1,2 @@
+ Maximum value of zener current = 2.50e-002 A
+Minimum value of zener current = 1.00e-002 A 

@@ -1,0 +1,5 @@
+ Output signal to noise ratio is   
+ 
+    58.8  
+ 
+ dB 

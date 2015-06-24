@@ -1,0 +1,5 @@
+ 
+ example 10.10   
+thus 	 p1=41.7MW,p2=50.2MW
+ pl=5.7MW
+power resevied 86.2MW 

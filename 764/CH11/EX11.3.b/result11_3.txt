@@ -1,0 +1,53 @@
+-->//(Friction Clutches)Example 11.3
+ 
+-->//The automotive plate clutch consists two pairs of contacting surfaces
+ 
+-->//Total torque transmitting capacity of the clutch Mf (N-m)
+ 
+-->Mt = 550 
+ Mt  =
+ 
+    550.  
+ 
+-->//Coefficient of friction between clutch-pressure plate-flywheel mu
+ 
+-->mu = 0.25
+ mu  =
+ 
+    0.25  
+ 
+-->//Permissible intensity of pressure Pa (MPa)
+ 
+-->Pa = 0.5
+ Pa  =
+ 
+    0.5  
+ 
+-->//Outer diameter of the friction disk due to space limitations D (mm)
+ 
+-->D = 250
+ D  =
+ 
+    250.  
+ 
+
+Applying uniform-wear theory
+
+Inner diameter of the friction disk is d (mm)
+
+Using the torque transmitting capacity formula:
+
+Mf = (pi * mu * Pa * d)*((D^2)-(d^2)))/8
+we get the following cubic equation in d
+
+(d^3) + (-62500.000000d) + (5602253.996835)= 0
+
+x,y and z are the three real roots of this cubic equation
+x = 174.166181
+y = 112.289942
+z = -286.456123
+
+Inner diameter of the friction disk(d)= 174.166181(mm)
+
+Spring force for keeping the clutch engaged(P)= 10373.292814(N)
+ 

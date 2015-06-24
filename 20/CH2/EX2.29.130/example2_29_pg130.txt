@@ -1,0 +1,10 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_2/code/example2_29_pg130.sce', -1)
+ 
+ According to Equations 2-88 and 2-89 in page 130   
+
+
+Positive sequence voltage is = 452.7740 /_ -19.11 Volts 
+Negative sequence voltage is = 605.5265 /_ 19.11 Volts
+ 
+-->diary(0);

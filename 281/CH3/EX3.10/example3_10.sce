@@ -1,0 +1,20 @@
+disp('chapter 3 ex3.10')
+disp('given')
+disp('The difference of two input signals is to be ampliflied by factor of 37')
+Av=37
+disp('amplitude=50mV')
+disp('R2=1Mohms')
+R2=1*10^(6)
+disp('R1=R2/Av')
+R1=R2/Av
+disp('ohms',R1)
+disp('R3=R1=27kohms')
+disp('R4=R2=1Mohms')
+R3=27000
+R4=1*10^(6)
+disp('differential mode input resistance Ridiff=R1+(R3+R4)')
+Ridiff=R1+(R3+R4)
+disp('ohms',Ridiff)
+disp('commom mode input resistance Ricm=R1||(R3+R4)')
+Ricm=R1*(R3+R4)/(R1+R3+R4)
+disp('ohms',Ricm)

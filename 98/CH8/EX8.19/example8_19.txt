@@ -1,0 +1,15 @@
+Working tension = 1088 kg 
+
+Diameter of the conductor = 1.28 
+
+Total weight of the conductor per metre length = 1.95 kg 
+
+Slant sag = 8.97 m 
+
+theta = 53.19 degrees 
+
+Vertical sag = 5.38 m 
+
+
+ 
+ 

@@ -1,0 +1,2 @@
+**Sample Problem 31-8**
+Energy per unit length is equal to 7.80e-007J/m 

@@ -1,0 +1,22 @@
+//clc()
+g = 9.81;//m/s^2
+m = 100 * 0.4536;//kg
+P = 101325;//N/m^2
+D1 = 4;//inch
+D = D1 * 2.54 * 10^-2;//m
+A = 3.1415 * (D^2)/4;//m^2
+F1 = P * A;//N
+F2 = m * g;//N
+F = F1 + F2;
+disp("N",F,"Total force acting on the gas = ")
+P1 = F / A;//N/m^2
+P2 = P1/100000;//bar
+P3 = P1/(6.894757 * 10^3);//psi
+disp("N/m^2",P1,"Pressure in N/m^2 = ")
+disp("bar",P2,"Pressure in bar = ")
+disp("psi",P3,"Pressure in psi = ")
+d = 0.4;//m
+W = F * d;
+disp("J",W,"Work done = ")
+PE = m * g * d;
+disp("J",PE,"Change in potential energy = ")

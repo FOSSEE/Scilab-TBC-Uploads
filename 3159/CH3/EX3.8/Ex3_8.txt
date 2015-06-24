@@ -1,0 +1,5 @@
+ 
+ Example 3.8
+ Within experimental error, values are as in integral ratio are as: 
+ 3:4:8:11:12:16:19
+ So, this structure is FCC and material is copper with 3.62 angstrom lattice parameter 

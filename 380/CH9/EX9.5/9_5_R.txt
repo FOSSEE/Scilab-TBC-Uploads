@@ -1,0 +1,12 @@
+ (a) Breakdown slip=   
+ 
+    0.4850713  
+ 
+ (b) Breakdown Torque (in Newton-meter)=   
+ 
+    335.52384  
+ 
+ (c)  power developed by the motor (in Kilo-Watts)=   
+ 
+    21.710388  
+ 

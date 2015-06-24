@@ -1,0 +1,3 @@
+ Voltage Regulation (in %)=   
+ 
+    3.7531882

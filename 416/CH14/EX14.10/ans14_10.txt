@@ -1,0 +1,11 @@
+
+ example14.10   
+
+transfer function of governor gr= 1/(1+0.2*s) 
+ transfer function of turbine gt=1/(1+2*s)
+transfer function of power system 
+ Gp=(50/(1+10*s)
+ Df=-gp/(1+(0.5*(gr*gt*gp)))
+the largest step in the load if the frequency change by more than 0.01 in steady state -18765MW
+the minu sign is becose of the that if frequency is to increase by 0.010000 
+the change in load be negative. 

@@ -1,0 +1,9 @@
+3#Wave Properties of Particles#3#Find kinetic energy and phase and group velocity#3_3.sci#34/CH3/EX3/3_3.sci#S##329
+3#Wave Properties of Particles#2#To find kinetic energy#3_2.sci#34/CH3/EX2/3_2.sci#S##328
+3#Wave Properties of Particles#1#To find de Broglie wavelength#3_1.sci#34/CH3/EX1/3_1.sci#S##327
+1#Relativity#6#To find mass of body before explosion#Ch1Exa6.sci#34/CH1/EX6/Ch1Exa6.sci#S##324
+1#Relativity#4#Find number of signals received by Dick and Jane#Ch1Exa4.sci#34/CH1/EX4/Ch1Exa4.sci#S##323
+1#Relativity#3#To find red shift in green spectral line#Ch1Exa3.sci#34/CH1/EX3/Ch1Exa3.sci#S##322
+1#Relativity#2#To calculate fine imposed on speeding driver#Ch1Exa2.sci#34/CH1/EX2/Ch1Exa2.sci#S##321
+1#Relativity#1#Find relative speed of spaceship w.r.t Earth#Ch1Exa1.sci#34/CH1/EX1/Ch1Exa1.sci#S##117
+1#Relativity#1#Find relative speed of spaceship w.r.t Earth#Ch1Exa1Res.sci#34/CH1/EX1/Ch1Exa1Res.sci#R##118

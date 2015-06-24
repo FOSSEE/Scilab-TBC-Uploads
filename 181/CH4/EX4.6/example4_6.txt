@@ -1,0 +1,2 @@
+The value of inverse beta of the BJT is 1
+The value of inverse alpha of the BJT is 2

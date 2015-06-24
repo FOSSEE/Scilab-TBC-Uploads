@@ -1,0 +1,116 @@
+16#Cosmology and Modern Astrophysics#16.9#Upper limit of the age of the universe#Ex16_09.sce#2795/CH16/EX16.9/Ex16_09.sce#S##105361
+16#Cosmology and Modern Astrophysics#16.8#Critical density of the universe#Ex16_08.sce#2795/CH16/EX16.8/Ex16_08.sce#S##105359
+16#Cosmology and Modern Astrophysics#16.7#Difference in the travel times of different mass neutrinos#Ex16_07.sce#2795/CH16/EX16.7/Ex16_07.sce#S##105357
+16#Cosmology and Modern Astrophysics#16.6#Redshift versus recession velocity#Ex16_06.sce#2795/CH16/EX16.6/Ex16_06.sce#S##105354
+16#Cosmology and Modern Astrophysics#16.6#Redshift versus recession velocity#Ex16_06.jpg#2795/CH16/EX16.6/Ex16_06.jpg#R##105355
+16#Cosmology and Modern Astrophysics#16.5#Radius of the neutron star#Ex16_05.sce#2795/CH16/EX16.5/Ex16_05.sce#S##105353
+16#Cosmology and Modern Astrophysics#16.4#Mean temperature of the sun#Ex16_04.sce#2795/CH16/EX16.4/Ex16_04.sce#S##105352
+16#Cosmology and Modern Astrophysics#16.3#Ratio of protons to neutrons at 10 billion kelvin temperature of the universe#Ex16_03.sce#2795/CH16/EX16.3/Ex16_03.sce#S##105350
+16#Cosmology and Modern Astrophysics#16.2#Current ratio of protons to neutrons in the universe#Ex16_02.sce#2795/CH16/EX16.2/Ex16_02.sce#S##105348
+16#Cosmology and Modern Astrophysics#16.1#Hubble constant determinantion#Ex16_01.sce#2795/CH16/EX16.1/Ex16_01.sce#S##105346
+15#General Relativity#15.3#Time taken by a black hole to radiate its energy#Ex15_03.sce#2795/CH15/EX15.3/Ex15_03.sce#S##105344
+15#General Relativity#15.2#Schwarzschild radius for the sun and the earth#Ex15_02.sce#2795/CH15/EX15.2/Ex15_02.sce#S##105343
+15#General Relativity#15.1#Gravitational time dilation effect#Ex15_01.sce#2795/CH15/EX15.1/Ex15_01.sce#S##105341
+14#Particle Physics#14.2#Range of the weak interaction#Ex14_02.sce#2795/CH14/EX14.2/Ex14_02.sce#S##105336
+14#Particle Physics#14.11#Energy required by a fixed target accelerator to match with that available for colliding beams at LHC#Ex14_11.sce#2795/CH14/EX14.11/Ex14_11.sce#S##105339
+14#Particle Physics#14.10#Fixed target accelerators#Ex14_10.sce#2795/CH14/EX14.10/Ex14_10.sce#S##105338
+14#Particle Physics#14.1#Mass of the meson from Heisenberg uncertainty principle#Ex14_01.sce#2795/CH14/EX14.1/Ex14_01.sce#S##105334
+13#Nuclear Interactions and Applications#13.9#Ignition temperature needed for the fusion reaction between a deuterium and a tritium#Ex13_09.sce#2795/CH13/EX13.9/Ex13_09.sce#S##105331
+13#Nuclear Interactions and Applications#13.8#Fusion reaction in supergiant stars#Ex13_08.sce#2795/CH13/EX13.8/Ex13_08.sce#S##105328
+13#Nuclear Interactions and Applications#13.7#Nuclear fission through neutron capture#Ex13_07.sce#2795/CH13/EX13.7/Ex13_07.sce#S##105856
+13#Nuclear Interactions and Applications#13.6#Excitation energy of the compound nuclei#Ex13_06.sce#2795/CH13/EX13.6/Ex13_06.sce#S##105327
+13#Nuclear Interactions and Applications#13.5#Ground state Q value of the induced fission reaction#Ex13_05.sce#2795/CH13/EX13.5/Ex13_05.sce#S##105857
+13#Nuclear Interactions and Applications#13.4#Final energy of excitation of product nucleus in the nuclear reaction#Ex13_04.sce#2795/CH13/EX13.4/Ex13_04.sce#S##105325
+13#Nuclear Interactions and Applications#13.3#Nuclear reaction observed by Rutherford#Ex13_03.sce#2795/CH13/EX13.3/Ex13_03.sce#S##105324
+13#Nuclear Interactions and Applications#13.2#Likelihood of a neutron production than a proton#Ex13_02.sce#2795/CH13/EX13.2/Ex13_02.sce#S##105322
+13#Nuclear Interactions and Applications#13.10#Neutron beam study of atomic structures#Ex13_10.sce#2795/CH13/EX13.10/Ex13_10.sce#S##105332
+13#Nuclear Interactions and Applications#13.1#Number of neutrons produced in collision of alpha particle and carbon target#Ex13_01.sce#2795/CH13/EX13.1/Ex13_01.sce#S##105320
+12#The Atomic Nucleus#12.8#Binding energy per nucleon#Ex12_08.sce#2795/CH12/EX12.8/Ex12_08.sce#S##105243
+12#The Atomic Nucleus#12.6#Total Coulomb energy of U238#Ex12_06.sce#2795/CH12/EX12.6/Ex12_06.sce#S##105242
+12#The Atomic Nucleus#12.5#Binding energy of Be#Ex12_05.sce#2795/CH12/EX12.5/Ex12_05.sce#S##105241
+12#The Atomic Nucleus#12.4#A proton subjected to the magnetic field#Ex12_04.sce#2795/CH12/EX12.4/Ex12_04.sce#S##105240
+12#The Atomic Nucleus#12.3#Radii of U238 and He4 nuclei#Ex12_03.sce#2795/CH12/EX12.3/Ex12_03.sce#S##105239
+12#The Atomic Nucleus#12.2#Nuclear radius of calcium#Ex12_02.sce#2795/CH12/EX12.2/Ex12_02.sce#S##105238
+12#The Atomic Nucleus#12.19#C14 dating to determine age of bone#Ex12_19.sce#2795/CH12/EX12.19/Ex12_19.sce#S##105319
+12#The Atomic Nucleus#12.18#Age of the uranium ore#Ex12_18.sce#2795/CH12/EX12.18/Ex12_18.sce#S##105318
+12#The Atomic Nucleus#12.17#Error introduced in the gamma ray energy#Ex12_17.sce#2795/CH12/EX12.17/Ex12_17.sce#S##105317
+12#The Atomic Nucleus#12.16#Allowed decay modes for Ac226#Ex12_16.sce#2795/CH12/EX12.16/Ex12_16.sce#S##105316
+12#The Atomic Nucleus#12.15#Possible reaction with Fe55 isotope#Ex12_15.sce#2795/CH12/EX12.15/Ex12_15.sce#S##105315
+12#The Atomic Nucleus#12.13#Non emission of a neutron by U230#Ex12_13.sce#2795/CH12/EX12.13/Ex12_13.sce#S##105314
+12#The Atomic Nucleus#12.12#Alpha activity of 10 kg sample of U235#Ex12_12.sce#2795/CH12/EX12.12/Ex12_12.sce#S##105313
+12#The Atomic Nucleus#12.11#Time of decay of F18 isotope#Ex12_11.sce#2795/CH12/EX12.11/Ex12_11.sce#S##105312
+12#The Atomic Nucleus#12.10#Radiactive decay of Po210#Ex12_10.sce#2795/CH12/EX12.10/Ex12_10.sce#S##105308
+12#The Atomic Nucleus#12.1#Minimum kinetic energy of a proton in a medium sized nuclecus#Ex12_01.sce#2795/CH12/EX12.1/Ex12_01.sce#S##105237
+11#Semiconductor Theory and Devices#11.6#Data bits stored into CD ROM#Ex11_06.sce#2795/CH11/EX11.6/Ex11_06.sce#S##105855
+11#Semiconductor Theory and Devices#11.5#Energy produced by a solar cell per day#Ex11_05.sce#2795/CH11/EX11.5/Ex11_05.sce#S##105235
+11#Semiconductor Theory and Devices#11.4#Current through a reverse bias pn junction diode#Ex11_04.sce#2795/CH11/EX11.4/Ex11_04.sce#S##105234
+11#Semiconductor Theory and Devices#11.3#Hall effect in zinc strip#Ex11_03.sce#2795/CH11/EX11.3/Ex11_03.sce#S##105858
+11#Semiconductor Theory and Devices#11.1#Relative number of electrons with given energies above the valence band#Ex11_01.sce#2795/CH11/EX11.1/Ex11_01.sce#S##105232
+10#Molecules Lasers and Solids#10.8#Magnetic field perpendicular to the loop#Ex10_08.sce#2795/CH10/EX10.8/Ex10_08.sce#S##105230
+10#Molecules Lasers and Solids#10.7#Superconductivity in niobium#Ex10_07.sce#2795/CH10/EX10.7/Ex10_07.sce#S##105229
+10#Molecules Lasers and Solids#10.6#Paramagnetism in a typical material#Ex10_06.sce#2795/CH10/EX10.6/Ex10_06.sce#S##105228
+10#Molecules Lasers and Solids#10.5#Induced diamagnetism in an atom#Ex10_05.sce#2795/CH10/EX10.5/Ex10_05.sce#S##105231
+10#Molecules Lasers and Solids#10.4#Range parameter for NaCl#Ex10_04.sce#2795/CH10/EX10.4/Ex10_04.sce#S##105227
+10#Molecules Lasers and Solids#10.2#Vibrational energy levels of HCl molecule#Ex10_02.sce#2795/CH10/EX10.2/Ex10_02.sce#S##105854
+10#Molecules Lasers and Solids#10.1#Energy of lowest rotational state of nitrogen gas#Ex10_01.sce#2795/CH10/EX10.1/Ex10_01.sce#S##105224
+9#Statistical Physics#9.8#Electronic contribution to the molar heat capacity of metals#Ex9_08.sce#2795/CH9/EX9.8/Ex9_08.sce#S##105223
+9#Statistical Physics#9.7#Fermi energy and Fermi temperature for copper#Ex9_07.sce#2795/CH9/EX9.7/Ex9_07.sce#S##105222
+9#Statistical Physics#9.6#Relative number of atoms in the ground and first excited states in atomix hydrogen#Ex9_06.sce#2795/CH9/EX9.6/Ex9_06.sce#S##105221
+9#Statistical Physics#9.4#Fraction of molecules in an ideal gas having speed near to the most probable speed#Ex9_04.sce#2795/CH9/EX9.4/Ex9_04.sce#S##105220
+9#Statistical Physics#9.3#Mean molecular speed in light gas hydrogen and heavy radon gas#Ex9_03.sce#2795/CH9/EX9.3/Ex9_03.sce#S##105219
+9#Statistical Physics#9.1#Mean translational kinetic energy of gas molecules at room temperature#Ex9_01.sce#2795/CH9/EX9.1/Ex9_01.sce#S##105218
+8#Atomic Physics#8.8#Internal magnetic field causing spin orbit splitting#Ex8_08.sce#2795/CH8/EX8.8/Ex8_08.sce#S##105217
+8#Atomic Physics#8.5#LS coupling of two electrons in an atom#Ex8_05.sce#2795/CH8/EX8.5/Ex8_05.sce#S##105216
+8#Atomic Physics#8.3#Splitting of 3p subshell of sodium#Ex8_03.sce#2795/CH8/EX8.3/Ex8_03.sce#S##105215
+7#The Hydrogen Atom#7.9#Number of distinct states for the 4d level of atomic hydrogen#Ex7_09.sce#2795/CH7/EX7.9/Ex7_09.sce#S##105212
+7#The Hydrogen Atom#7.8#Separation of the atomic beam#Ex7_08.sce#2795/CH7/EX7.8/Ex7_08.sce#S##105211
+7#The Hydrogen Atom#7.7#Energy difference between components of p states of atomic hydrogen placed in an external field#Ex7_07.sce#2795/CH7/EX7.7/Ex7_07.sce#S##105210
+7#The Hydrogen Atom#7.4#Degeneracy of M level in hydrogen atom#Ex7_04.sce#2795/CH7/EX7.4/Ex7_04.sce#S##105209
+7#The Hydrogen Atom#7.2#Normalization of hydrogen wave function#Ex7_02.sce#2795/CH7/EX7.2/Ex7_02.sce#S##105208
+7#The Hydrogen Atom#7.13#Probability of the electron in the 1s state of the hydrogen atom#Ex7_13.sce#2795/CH7/EX7.13/Ex7_13.sce#S##105214
+7#The Hydrogen Atom#7.10#Energy of allowed transitions for the hydrogen atom#Ex7_10.sce#2795/CH7/EX7.10/Ex7_10.sce#S##105213
+6#Quantum Mechanics II#6.9#Transition energy for a proton confined to a nucleus #Ex6_09.sce#2795/CH6/EX6.9/Ex6_09.sce#S##105202
+6#Quantum Mechanics II#6.4#Probabilities of a particle in the given regions#Ex6_04.sce#2795/CH6/EX6.4/Ex6_04.sce#S##105201
+6#Quantum Mechanics II#6.17#An alpha particle tunnelling through a nucleus#Ex6_17.sce#2795/CH6/EX6.17/Ex6_17.sce#S##105853
+6#Quantum Mechanics II#6.16#A particle penetrating through a potential step #Ex6_16.sce#2795/CH6/EX6.16/Ex6_16.sce#S##105206
+6#Quantum Mechanics II#6.15#Probability of electron tunneling through the barrier#Ex6_15.sce#2795/CH6/EX6.15/Ex6_15.sce#S##105205
+6#Quantum Mechanics II#6.14#Fraction of electrons tunneling through a barrier#Ex6_14.sce#2795/CH6/EX6.14/Ex6_14.sce#S##105203
+5#Wave Properties of Matter and Quantum Mechanics I#5.9#Minimum kinetic energy of an electron in hydrogen atom#Ex5_09.sce#2795/CH5/EX5.9/Ex5_09.sce#S##105197
+5#Wave Properties of Matter and Quantum Mechanics I#5.8#Momentum uncertainty fo a tennis ball and an electron#Ex5_08.sce#2795/CH5/EX5.8/Ex5_08.sce#S##105195
+5#Wave Properties of Matter and Quantum Mechanics I#5.7#Distance between first two maxima in fringe pattern#Ex5_07.sce#2795/CH5/EX5.7/Ex5_07.sce#S##105194
+5#Wave Properties of Matter and Quantum Mechanics I#5.4#Wavelength of a neutron at different temperatures#Ex5_04.sce#2795/CH5/EX5.4/Ex5_04.sce#S##105193
+5#Wave Properties of Matter and Quantum Mechanics I#5.3#de Broglie wavelength of an electron used by Davisson and Germer#Ex5_03.sce#2795/CH5/EX5.3/Ex5_03.sce#S##105192
+5#Wave Properties of Matter and Quantum Mechanics I#5.2#de Broglie wavelength of a tennis ball and an electron#Ex5_02.sce#2795/CH5/EX5.2/Ex5_02.sce#S##105191
+5#Wave Properties of Matter and Quantum Mechanics I#5.13#Energy at diffrent levels#Ex5_13.sce#2795/CH5/EX5.13/Ex5_13.sce#S##105200
+5#Wave Properties of Matter and Quantum Mechanics I#5.12#Energy width of excited state of atom and uncertainty ratio of frequency of emitted photon#Ex5_12.sce#2795/CH5/EX5.12/Ex5_12.sce#S##105199
+5#Wave Properties of Matter and Quantum Mechanics I#5.10#Minimum kinetic energy of electron localized within a typical nuclear radius#Ex5_10.sce#2795/CH5/EX5.10/Ex5_10.sce#S##105198
+5#Wave Properties of Matter and Quantum Mechanics I#5.1#The wavelength of the X rays incident on rock salt#Ex5_01.sce#2795/CH5/EX5.1/Ex5_01.sce#S##105190
+4#Structure of the Atom#4.9#Shortest wavelength emitted by doubly positive Li ion #Ex4_09.sce#2795/CH4/EX4.9/Ex4_09.sce#S##105188
+4#Structure of the Atom#4.8#Wavelengts of H alpha lines for three isotopes of hydrogen#Ex4_08.sce#2795/CH4/EX4.8/Ex4_08.sce#S##105187
+4#Structure of the Atom#4.7#Longest and shortest wavelengths observed in Paschen series for hydrogen#Ex4_07.sce#2795/CH4/EX4.7/Ex4_07.sce#S##105189
+4#Structure of the Atom#4.6#Nonrelativistic justification for the spped of the electron#Ex4_06.sce#2795/CH4/EX4.6/Ex4_06.sce#S##105186
+4#Structure of the Atom#4.5#Size of the nucleus#Ex4_05.sce#2795/CH4/EX4.5/Ex4_05.sce#S##105185
+4#Structure of the Atom#4.3#Fraction of alpha particles deflected from goil foil at a given angle#Ex4_03.sce#2795/CH4/EX4.3/Ex4_03.sce#S##105184
+4#Structure of the Atom#4.2#Fraction of alpha particles deflected from a gold foil#Ex4_02.sce#2795/CH4/EX4.2/Ex4_02.sce#S##105183
+4#Structure of the Atom#4.1#Maximum scattering angle in Geiger and Marsden experiment#Ex4_01.sce#2795/CH4/EX4.1/Ex4_01.sce#S##105182
+3#The Experimental Basis of Quantum Physics#3.5#Sun as a blackbody#Ex3_05.sce#2795/CH3/EX3.5/Ex3_05.sce#S##105851
+3#The Experimental Basis of Quantum Physics#3.4#Maximum wavelength emitted from a heated furnace#Ex3_04.sce#2795/CH3/EX3.4/Ex3_04.sce#S##105174
+3#The Experimental Basis of Quantum Physics#3.3#Hydrogen series of spectral lines#Ex3_03.sce#2795/CH3/EX3.3/Ex3_03.sce#S##105173
+3#The Experimental Basis of Quantum Physics#3.16#X ray scattering from the gold target#Ex3_16.sce#2795/CH3/EX3.16/Ex3_16.sce#S##105181
+3#The Experimental Basis of Quantum Physics#3.15#Minimum wavelength of the X rays#Ex3_15.sce#2795/CH3/EX3.15/Ex3_15.sce#S##105180
+3#The Experimental Basis of Quantum Physics#3.13#Number of photons in the light beam of given wavelength and intensity#Ex3_13.sce#2795/CH3/EX3.13/Ex3_13.sce#S##105179
+3#The Experimental Basis of Quantum Physics#3.12#Lithium exposed to light radiation#Ex3_12.sce#2795/CH3/EX3.12/Ex3_12.sce#S##105852
+3#The Experimental Basis of Quantum Physics#3.11#Photoelectric effect for lithium#Ex3_11.sce#2795/CH3/EX3.11/Ex3_11.sce#S##105177
+3#The Experimental Basis of Quantum Physics#3.10#Exposure time of light to produce a photoelectron of given kinetic energy#Ex3_10.sce#2795/CH3/EX3.10/Ex3_10.sce#S##105176
+3#The Experimental Basis of Quantum Physics#3.1#A moving electron subjected to electric and magnetic fields#Ex3_01.sce#2795/CH3/EX3.1/Ex3_01.sce#S##105172
+2#Special Theory of Relativity#2.8#Relativistic doppler effect in twin paradox #Ex2_08.sce#2795/CH2/EX2.8/Ex2_08.sce#S##105165
+2#Special Theory of Relativity#2.6#Time loss of an atomic clock#Ex2_06.sce#2795/CH2/EX2.6/Ex2_06.sce#S##105164
+2#Special Theory of Relativity#2.4#Speed of the aircraft from the standpoint of length contraction#Ex2_04.sce#2795/CH2/EX2.4/Ex2_04.sce#S##105163
+2#Special Theory of Relativity#2.3#Speed of the aircraft from the standpoint of length contraction#Ex2_03.sce#2795/CH2/EX2.3/Ex2_03.sce#S##105162
+2#Special Theory of Relativity#2.2#Speed of the aircraft#Ex2_02.sce#2795/CH2/EX2.2/Ex2_02.sce#S##105160
+2#Special Theory of Relativity#2.18#Kinetic energy and the mass of sigma particle#Ex2_18.sce#2795/CH2/EX2.18/Ex2_18.sce#S##105171
+2#Special Theory of Relativity#2.17#Fractional mass increase of the Na and Cl atoms#Ex2_17.sce#2795/CH2/EX2.17/Ex2_17.sce#S##105170
+2#Special Theory of Relativity#2.16#Binding energy of He nucleus#Ex2_16.sce#2795/CH2/EX2.16/Ex2_16.sce#S##105169
+2#Special Theory of Relativity#2.15#Minimum kinetic energy of the protons in head on collision#Ex2_15.sce#2795/CH2/EX2.15/Ex2_15.sce#S##105168
+2#Special Theory of Relativity#2.13#Head on collision of two protons#Ex2_13.sce#2795/CH2/EX2.13/Ex2_13.sce#S##105167
+2#Special Theory of Relativity#2.11#Accelerating electrons to produce X rays#Ex2_11.sce#2795/CH2/EX2.11/Ex2_11.sce#S##105166

@@ -1,0 +1,6 @@
+# PROBLEM 14 # 
+
+ Standard formula used 
+ alpha=10/L*log(Pi/Po).
+
+ Attenuation loss is 4 dB/km. 

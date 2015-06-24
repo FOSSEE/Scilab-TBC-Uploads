@@ -1,0 +1,11 @@
+R1=15;
+V=20               //RESISTANCE
+I1=V/R1;
+I2=I1*(1/2);
+R2=15;
+I1=V/R2;
+I2=I1*(1/2);
+disp('ii) CURRENT (I1) is    =  '+string (I1) +'  A ');
+disp('ii) CURRENT (I2) is    =  '+string (I2) +'  A ');
+disp('ii) CURRENT (I1) is    =  '+string (I1) +'  A ');
+disp('ii) CURRENT (I2) is    =  '+string (I2) +'  A ');

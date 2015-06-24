@@ -1,0 +1,13 @@
+clc;
+clear;
+e=1;
+x1=.15*%i;
+x2=.15*%i;
+ia1=e/(x1+x2);
+a=1*%e^(%i*(120*%pi/180));
+b=a^2;
+ia2=-ia1;
+ia=(b-a)*ia1;
+iap=e/x1;
+c=real(ia)/imag(iap);
+mprintf("the ratio to line to line fault to three phase fault=%f",c);

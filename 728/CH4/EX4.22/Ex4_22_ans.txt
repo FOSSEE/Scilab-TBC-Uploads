@@ -1,0 +1,5 @@
+ 
+ Peak value of electric field (in kV/m) =   
+ 
+    113.97239  
+ 

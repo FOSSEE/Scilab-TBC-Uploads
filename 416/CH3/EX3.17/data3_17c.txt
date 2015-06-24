@@ -1,0 +1,6 @@
+  
+ dat 3.17   
+ total annual costs is Rs1.394000e+009 per year 
+ energy generated per year =6.307200e+008kWh/year 
+ energy available at bus bar 6.275664e+008kWh/year 
+ generation cost is Rs.2.221279per kWh 

@@ -1,0 +1,5 @@
+
+  	   	 Temperature_1	 Temperature_2  
+  	   	==================================
+(T_eq - T_opt)(K):  	17     		32
+   T_opt(K):	 	483		668

@@ -1,0 +1,11 @@
+ Piezoelectric generator 
+
+For  n = 1  , Frequency  = 1.42  MHz
+For  n = 2  , Frequency  = 2.84  MHz
+For  n = 3  , Frequency  = 4.26  MHz
+Magnetostriction generator
+
+For  n = 1  , Frequency  = 48.9  kHz
+For  n = 2  , Frequency  = 97.7  kHz
+For  n = 3  , Frequency  = 146.6  kHz
+ 

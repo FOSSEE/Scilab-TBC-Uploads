@@ -1,0 +1,4 @@
+
+ # PROBLEM 5.2 # 
+
+ Rate of heat generated per unit area = 1.154997e+06 W/cm^2 

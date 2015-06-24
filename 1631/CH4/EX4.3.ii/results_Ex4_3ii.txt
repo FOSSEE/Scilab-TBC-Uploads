@@ -1,0 +1,12 @@
+ Transmission Bandwith   
+ 
+    840.  
+ 
+ kHz   
+ 
+ Signaling rate   
+ 
+    1680.  
+ 
+ bits/sec   
+ 

@@ -1,0 +1,8 @@
+ 
+ example 2.4   
+
+the chronological load curve is plotted in fig 1 the durition of loads is as under :
+	100W	100W	100W	100W	80W	80W	80W	80W	80W	80W	80W	80W	80W	40W	40W	40W	40W	20W	20W	20W	20W	20W	20W	20W
+the load duration curve is ploted in 2 the energy produced by plant in 24 hours 
+ =100x4+80x(13-4)+40(17-13)+20(24-17)=1420MWh 
+load factor =1420/2400=0.591667=59.166667 in persent 

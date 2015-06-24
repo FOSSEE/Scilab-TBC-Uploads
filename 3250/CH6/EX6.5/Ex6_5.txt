@@ -1,0 +1,3 @@
+ # PROBLEM 6.5 # 
+
+ Equilibrium gap = 0.037553 cm 

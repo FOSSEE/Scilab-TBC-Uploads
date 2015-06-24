@@ -1,0 +1,3 @@
+load current is 4 milliamperes
+load voltage is 4 volts
+

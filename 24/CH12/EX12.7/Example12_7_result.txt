@@ -1,0 +1,2 @@
+**Sample Problem 12-7**
+The angular speed of the composite system is 1.376471rev/s 

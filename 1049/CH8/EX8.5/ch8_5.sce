@@ -1,0 +1,11 @@
+clear;
+clc;
+V_s=230;
+V_01=4*V_s/(%pi*sqrt(2));
+R=1;
+X_L=6;
+X_c=7;
+I_01=V_01/sqrt(R^2+(X_L-X_c)^2);
+P=I_01^2*R;    printf("power delivered to the source=%.3f kW",P/1000);
+I_s=sqrt(2)*I_01*(2*cosd(45))/%pi;
+P_s=V_s*I_s;    printf("\npower from the source=%.3f kW",P_s/1000);

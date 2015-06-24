@@ -1,0 +1,12 @@
+ Effeciency  (in percentage) =   
+ 
+    65.33  
+ 
+ Total power output (in mW) =   
+ 
+    3.564  
+ 
+ Power delivered to load (in mW) =   
+ 
+    2.8512  
+ 

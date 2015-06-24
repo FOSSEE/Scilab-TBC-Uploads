@@ -1,0 +1,3 @@
+ # PROBLEM 4.26 # 
+ 
+ Cutting speed that will be lead to minimum cast = 27.416642 m/min 

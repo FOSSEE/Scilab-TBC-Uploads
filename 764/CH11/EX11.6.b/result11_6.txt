@@ -1,0 +1,62 @@
+-->//(Friction Clutch) Example 11.6
+ 
+-->//Maximum engine torque Mt (N-m)
+ 
+-->Mt = 250
+ Mt  =
+ 
+    250.  
+ 
+-->//Coeffecient of friction between the contacting surfaces mu
+ 
+-->mu = 0.35
+ mu  =
+ 
+    0.35  
+ 
+-->//Inner diameter of the friction lining d (mm)
+ 
+-->d = 175
+ d  =
+ 
+    175.  
+ 
+-->//Outer diameter of the friction lining D (mm)
+ 
+-->D = 250
+ D  =
+ 
+    250.  
+ 
+-->//Number of springs n
+ 
+-->n = 9
+ n  =
+ 
+    9.  
+ 
+-->//Force required from the springs P (N)
+ 
+-->P = 800 
+ P  =
+ 
+    800.  
+ 
+-->//Spring compression in order to obtain the required force delta (mm)
+ 
+-->delta = 5
+ delta  =
+ 
+    5.  
+ 
+
+Step1: Clutch being brand new,applying uniform-pressure theory
+
+Factor of safety(fsp) = 2.164235
+
+Step2: Clutch being subjected to initial wear,applying uniform-wear theory
+
+Factor of safety(fsw) = 2.142000
+
+Step3: Allowable wear of friction lining(x) = 2.665733 mm
+ 

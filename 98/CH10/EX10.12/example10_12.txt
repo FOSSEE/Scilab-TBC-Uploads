@@ -1,0 +1,37 @@
+Total resistance per phase = 20.00 ohm 
+
+Total reactance per phase = 40.00 ohm 
+
+Total susceptance per phase = 0.00025 ohm 
+
+Phase impedance = 20.00+j(40.00) 
+
+Recieving end voltage = 63509 V 
+
+Load current = 116.64 A 
+
+Impedance per phase = 20.00+j(40.00)
+
+Receiving end voltage is the reference phasor = 63508.53+j0 
+
+Load current = 104.97+j(-50.84) 
+
+Voltage across C = 65575.07+j(1591.05) 
+
+Charging current = -0.40+j(16.39) 
+
+Sending end current = 104.58+j(-34.45) 
+
+Sending end current magnitude = 110.10 A 
+
+Sending end voltage = 67309.76+j(3338.08) 
+
+Sending end voltage magnitude = 67392.48 V 
+
+Line value of sending end voltage = 116.73 V 
+
+Total line losses for three phases = 0.701 MW 
+
+Transmission efficiency = 96.61 % 
+
+

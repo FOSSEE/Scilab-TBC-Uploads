@@ -1,0 +1,1 @@
+Voltage gain = 997.5  

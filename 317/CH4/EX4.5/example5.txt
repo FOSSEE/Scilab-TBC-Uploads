@@ -1,0 +1,4 @@
+peak primary voltage is 170 volts
+peak secondary voltage is 17 volts 
+ideally peak output voltage is 17 volts
+with second approximation  peak output voltage is 15.6 volts.

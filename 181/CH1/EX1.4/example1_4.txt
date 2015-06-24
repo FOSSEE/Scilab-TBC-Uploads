@@ -1,0 +1,2 @@
+(a)Energy of conduction electron in GaAs = 5.09e-002 eV
+(b)Energy of conduction electron in InAs = 3.407e-001 eV 

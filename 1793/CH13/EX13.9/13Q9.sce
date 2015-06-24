@@ -1,0 +1,21 @@
+clc
+kh=0.2
+kv=0
+H=4
+a=0
+b=0
+c=15
+d=30
+G=15.5
+B= atand(kh/(1-kv))
+b1=b+B
+a1=a+B
+Ka=0.452
+Pa=G*H^2*Ka/2
+Pae=Pa*(1-kv)*((cosd(b1))^2/((cosd(b))^2*(cosd(B))^2))
+Ka=0.3014
+Pa=G*H^2*Ka/2
+P1=Pae-Pa
+z= ((Pa*H/3)+P1*0.6*H)/Pae
+printf('Pae = %f kN/m\n',Pae)
+printf(' Z = %f m',z)

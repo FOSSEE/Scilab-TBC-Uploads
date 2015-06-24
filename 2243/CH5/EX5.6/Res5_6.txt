@@ -1,0 +1,5 @@
+ Minimum thickness :
+
+(a)Plane polarised light : 3.27 x 10^-3 cm 
+
+(b)Circularly polarised light : 1.64 x 10^-3 cm  

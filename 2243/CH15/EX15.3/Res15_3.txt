@@ -1,0 +1,1 @@
+Limiting diameter = 7.92 mu m 

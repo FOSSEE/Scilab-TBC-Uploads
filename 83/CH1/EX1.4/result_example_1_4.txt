@@ -1,0 +1,20 @@
+
+ 
+Annual load factor for Unit 1 = 81.54 % 
+
+The maximum demand on Unit 2 is 6 MW 
+
+Annual load factor for Unit 2 = 14.27 % 
+
+Load factor of Unit 2 for the time it takes the load= 31.71 % 
+
+Plant capacity factor of unit 1 = 81.54 % 
+
+Plant use factor of unit 1 = 81.54 % 
+
+Annual plant capacity factor of unit 2 = 8.56 % 
+
+Plant use factor of unit 2 = 19.03 % 
+
+The annual load factor of the total plant = 61.36 % 
+

@@ -1,0 +1,5 @@
+ # PROBLEM 12 # 
+Standard formula used 
+   Chi = mu_0*Z*e^2 *N*R^2 /(6*m) 
+
+ Radius of  atom is 0.887689 A.

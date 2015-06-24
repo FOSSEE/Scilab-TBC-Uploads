@@ -1,0 +1,12 @@
+ Electron density (in per m^3) =    
+ 
+    6.628D+29  
+ 
+ Current density (in A/m^2) =    
+ 
+    1.273D+14  
+ 
+ Depth of penetration (in angstorm) =    
+ 
+    65.34719  
+ 

@@ -1,0 +1,28 @@
+For Star-Delta Configruation   
+ 
+ Line voltage (in volts)=   
+ 
+    190.52559  
+ 
+ Line current (in amperes)=   
+ 
+    173.20508  
+ 
+ Output (in watts)=   
+ 
+    57157.677  
+ 
+ For Delta-Star Configruation   
+ 
+ Line voltage (in volts)=   
+ 
+    571.57677  
+ 
+ Line current (in amperes)=   
+ 
+    57.735027  
+ 
+ Output (in watts)=   
+ 
+    57157.677  
+ 

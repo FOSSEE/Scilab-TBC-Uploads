@@ -1,0 +1,10 @@
+(a)Load supplied by second machine(in KW) and its power factor=   
+ 
+    600.  
+ 
+    0.9238989  
+ 
+ (b)Power factor of load=   
+ 
+    0.8699681  
+ 

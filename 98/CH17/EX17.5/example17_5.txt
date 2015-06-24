@@ -1,0 +1,15 @@
+% reactance of generator 1 = 10 
+
+% reactance of generator 2 = 10 
+
+% reactance of generator 3 = 15 
+
+% reactance of generator 4 = 15 
+
+% reactance of bus bar = 20 
+
+Total % reactance from generator nuetral to fult point is = 5.77 % 
+
+Fault MVA = 173.33 
+
+

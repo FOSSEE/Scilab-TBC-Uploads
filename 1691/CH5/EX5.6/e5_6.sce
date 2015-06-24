@@ -1,0 +1,21 @@
+//example5.6
+clc
+disp("a) We have,")
+disp("A_vmid=(-g_m*R)= -15")
+r=15/(5*10^-3)
+disp(r,"Therefore R(in ohms)=(-15)/(-5*10^-3)= ")
+disp("b) The Miller effect capacitance is given by ")
+disp("C_d(in F)=C_gs+(1+g_m*R)*(C_g*d)")
+c=(10^-12)+((1+15)*(3*10^-12))
+format(8)
+disp(c," = (1*10^-12)+(1+15)*(3*10^-12)=")
+disp("c) The limit frequency of the uncompemsated amplifier is ")
+f=1/(2*%pi*49*3*10^-9)
+format(9)
+disp(f,"f2(in Hz)=1/(2*pi*C_d*R)= ")
+l=0.414*((3*10^3)^2)*(49*10^-12)
+format(12)
+disp(l,"d) L(in H)=q*C_d*R^2= ")
+disp("e) Possible extension of frequency range")
+e=1.72*1.08*10^6
+disp(e,"f''2(in Hz)=1.72*f2= ")

@@ -1,0 +1,4 @@
+  
+ Resonant frequency(in GHz) =   
+ 
+    6.25  

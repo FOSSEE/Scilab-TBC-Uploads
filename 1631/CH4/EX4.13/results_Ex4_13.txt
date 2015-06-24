@@ -1,0 +1,5 @@
+ Maximum Amplitude    
+ 
+    0.5968310  
+ 
+ Volts

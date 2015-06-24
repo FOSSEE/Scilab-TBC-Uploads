@@ -1,0 +1,3 @@
+ac load line saturation is 273 mAmperes
+ac voltage at cutoff point is 19.7 volts
+maximum peak-to-peak output voltage is 18 volts 

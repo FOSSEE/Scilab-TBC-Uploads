@@ -1,0 +1,81 @@
+10#The Unijunction Transistor#10.3#resistance#Ex10_3.sce#2753/CH10/EX10.3/Ex10_3.sce#S##103543
+10#The Unijunction Transistor#10.2#time period#Ex10_2.sce#2753/CH10/EX10.2/Ex10_2.sce#S##103541
+10#The Unijunction Transistor#10.1#stand off and peak point voltage#Ex10_1.sce#2753/CH10/EX10.1/Ex10_1.sce#S##103539
+9#Silicon Controlled Rectifier#9.3#firing angle conducting angle and average current#Ex9_3.sce#2753/CH9/EX9.3/Ex9_3.sce#S##103537
+9#Silicon Controlled Rectifier#9.2#dc load current rms load current amd power dissipiated#Ex9_2.sce#2753/CH9/EX9.2/Ex9_2.sce#S##103534
+9#Silicon Controlled Rectifier#9.1#average voltage#Ex9_1.sce#2753/CH9/EX9.1/Ex9_1.sce#S##103531
+6#Field Effect Transistors#6.7#output voltage#Ex6_7.sce#2753/CH6/EX6.7/Ex6_7.sce#S##103529
+6#Field Effect Transistors#6.6#voltage amplification#Ex6_6.sce#2753/CH6/EX6.6/Ex6_6.sce#S##103527
+6#Field Effect Transistors#6.5#Vgs#Ex6_5.sce#2753/CH6/EX6.5/Ex6_5.sce#S##103525
+6#Field Effect Transistors#6.4#ID gm and gmo#Ex6_4.sce#2753/CH6/EX6.4/Ex6_4.sce#S##103524
+6#Field Effect Transistors#6.3#pinch off voltage#Ex6_3.sce#2753/CH6/EX6.3/Ex6_3.sce#S##103522
+6#Field Effect Transistors#6.2#mutual conductance#Ex6_2.sce#2753/CH6/EX6.2/Ex6_2.sce#S##103520
+6#Field Effect Transistors#6.1#drain resistance transconductance and amplification factor#Ex6_1.sce#2753/CH6/EX6.1/Ex6_1.sce#S##103519
+5#Power Amplifiers#5.7#power dissipated#Ex5_7.sce#2753/CH5/EX5.7/Ex5_7.sce#S##103516
+5#Power Amplifiers#5.6#harmonic distortions and change in power#Ex5_6.sce#2753/CH5/EX5.6/Ex5_6.sce#S##103514
+5#Power Amplifiers#5.5#power#Ex5_5.sce#2753/CH5/EX5.5/Ex5_5.sce#S##103512
+5#Power Amplifiers#5.4#power#Ex5_4.sce#2753/CH5/EX5.4/Ex5_4.sce#S##103510
+5#Power Amplifiers#5.3#collector efficiency and power rating#Ex5_3.sce#2753/CH5/EX5.3/Ex5_3.sce#S##103509
+5#Power Amplifiers#5.2#collector current#Ex5_2.sce#2753/CH5/EX5.2/Ex5_2.sce#S##103507
+5#Power Amplifiers#5.1#efficiency#Ex5_1.sce#2753/CH5/EX5.1/Ex5_1.sce#S##103506
+4#Small signal amplifiers#4.9#maximum collector current#Ex4_9.sce#2753/CH4/EX4.9/Ex4_9.sce#S##103570
+4#Small signal amplifiers#4.8#operating point#Ex4_8.sce#2753/CH4/EX4.8/Ex4_8.sce#S##103568
+4#Small signal amplifiers#4.7#operating point#Ex4_7.sce#2753/CH4/EX4.7/Ex4_7.sce#S##103565
+4#Small signal amplifiers#4.6#operating point#Ex4_6.sce#2753/CH4/EX4.6/Ex4_6.sce#S##103563
+4#Small signal amplifiers#4.5#resistor#Ex4_5.sce#2753/CH4/EX4.5/Ex4_5.sce#S##103559
+4#Small signal amplifiers#4.4#operating point#Ex4_4.sce#2753/CH4/EX4.4/Ex4_4.sce#S##103557
+4#Small signal amplifiers#4.3#base resistance#Ex4_3.sce#2753/CH4/EX4.3/Ex4_3.sce#S##103556
+4#Small signal amplifiers#4.21#Av and beta#Ex4_21.sce#2753/CH4/EX4.21/Ex4_21.sce#S##103584
+4#Small signal amplifiers#4.20#percentage reduction#Ex4_20.sce#2753/CH4/EX4.20/Ex4_20.sce#S##103583
+4#Small signal amplifiers#4.2#vce#Ex4_2.sce#2753/CH4/EX4.2/Ex4_2.sce#S##103554
+4#Small signal amplifiers#4.19#band width#Ex4_19.sce#2753/CH4/EX4.19/Ex4_19.sce#S##103582
+4#Small signal amplifiers#4.18#percentage of feedback#Ex4_18.sce#2753/CH4/EX4.18/Ex4_18.sce#S##103581
+4#Small signal amplifiers#4.17#input voltage#Ex4_17.sce#2753/CH4/EX4.17/Ex4_17.sce#S##103580
+4#Small signal amplifiers#4.16#small change in gain#Ex4_16.sce#2753/CH4/EX4.16/Ex4_16.sce#S##103579
+4#Small signal amplifiers#4.15#voltage gain#Ex4_15.sce#2753/CH4/EX4.15/Ex4_15.sce#S##103578
+4#Small signal amplifiers#4.14#gain and voltage#Ex4_14.sce#2753/CH4/EX4.14/Ex4_14.sce#S##103577
+4#Small signal amplifiers#4.13#gain and resistance#Ex4_13.sce#2753/CH4/EX4.13/Ex4_13.sce#S##103576
+4#Small signal amplifiers#4.12#output voltage#Ex4_12.sce#2753/CH4/EX4.12/Ex4_12.sce#S##103575
+4#Small signal amplifiers#4.11#gain#Ex4_11.sce#2753/CH4/EX4.11/Ex4_11.sce#S##103574
+4#Small signal amplifiers#4.10#maximum collector current#Ex4_10.sce#2753/CH4/EX4.10/Ex4_10.sce#S##103572
+4#Small signal amplifiers#4.1#voltage#Ex4_1.sce#2753/CH4/EX4.1/Ex4_1.sce#S##103552
+3#Bi Polar Junction Transistor#3.9#beta#Ex3_9.sce#2753/CH3/EX3.9/Ex3_9.sce#S##103561
+3#Bi Polar Junction Transistor#3.8#emitter current#Ex3_8.sce#2753/CH3/EX3.8/Ex3_8.sce#S##103560
+3#Bi Polar Junction Transistor#3.7#change in collector current#Ex3_7.sce#2753/CH3/EX3.7/Ex3_7.sce#S##103558
+3#Bi Polar Junction Transistor#3.6#Ic Ib and Iceo#Ex3_6.sce#2753/CH3/EX3.6/Ex3_6.sce#S##103555
+3#Bi Polar Junction Transistor#3.5#collector and base current#Ex3_5.sce#2753/CH3/EX3.5/Ex3_5.sce#S##103553
+3#Bi Polar Junction Transistor#3.4#short circuit current gain#Ex3_4.sce#2753/CH3/EX3.4/Ex3_4.sce#S##103551
+3#Bi Polar Junction Transistor#3.3#base current#Ex3_3.sce#2753/CH3/EX3.3/Ex3_3.sce#S##103549
+3#Bi Polar Junction Transistor#3.2#current amplification factor#Ex3_2.sce#2753/CH3/EX3.2/Ex3_2.sce#S##103547
+3#Bi Polar Junction Transistor#3.16#collector current#Ex3_16.sce#2753/CH3/EX3.16/Ex3_16.sce#S##103573
+3#Bi Polar Junction Transistor#3.15#collector current alfa and beta#Ex3_15.sce#2753/CH3/EX3.15/Ex3_15.sce#S##103571
+3#Bi Polar Junction Transistor#3.14#Beta Iceo and collector current#Ex3_14.sce#2753/CH3/EX3.14/Ex3_14.sce#S##103569
+3#Bi Polar Junction Transistor#3.13#ac current gain#Ex3_13.sce#2753/CH3/EX3.13/Ex3_13.sce#S##103567
+3#Bi Polar Junction Transistor#3.12#collector current base current and alfa#Ex3_12.sce#2753/CH3/EX3.12/Ex3_12.sce#S##103566
+3#Bi Polar Junction Transistor#3.11#change in base current#Ex3_11.sce#2753/CH3/EX3.11/Ex3_11.sce#S##103564
+3#Bi Polar Junction Transistor#3.10#error#Ex3_10.sce#2753/CH3/EX3.10/Ex3_10.sce#S##103562
+3#Bi Polar Junction Transistor#3.1#varitation in alpha and value of beta#Ex3_1.sce#2753/CH3/EX3.1/Ex3_1.sce#S##103544
+2#Special Purpose Diodes#2.3#current#Ex2_3.sce#2753/CH2/EX2.3/Ex2_3.sce#S##103587
+2#Special Purpose Diodes#2.2#resistance#Ex2_2.sce#2753/CH2/EX2.2/Ex2_2.sce#S##103586
+2#Special Purpose Diodes#2.1#maximum current#Ex2_1.sce#2753/CH2/EX2.1/Ex2_1.sce#S##103585
+1#Introduction to solid state electronics#1.9#current#ex1_9.sce#2753/CH1/EX1.9/ex1_9.sce#S##103526
+1#Introduction to solid state electronics#1.8#density#Ex1_8.sce#2753/CH1/EX1.8/Ex1_8.sce#S##103523
+1#Introduction to solid state electronics#1.7#fremi level#ex1_7.sce#2753/CH1/EX1.7/ex1_7.sce#S##103521
+1#Introduction to solid state electronics#1.6#conductivity#ex1_6.sce#2753/CH1/EX1.6/ex1_6.sce#S##103518
+1#Introduction to solid state electronics#1.5#resistivity#ex1_5.sce#2753/CH1/EX1.5/ex1_5.sce#S##103517
+1#Introduction to solid state electronics#1.4#density#ex1_4.sce#2753/CH1/EX1.4/ex1_4.sce#S##103515
+1#Introduction to solid state electronics#1.3#density#ex1_3.sce#2753/CH1/EX1.3/ex1_3.sce#S##103513
+1#Introduction to solid state electronics#1.21#resistance#Ex1_21.sce#2753/CH1/EX1.21/Ex1_21.sce#S##103550
+1#Introduction to solid state electronics#1.20#capacitance#Ex1_20.sce#2753/CH1/EX1.20/Ex1_20.sce#S##103548
+1#Introduction to solid state electronics#1.2#resistivity#ex1_2.sce#2753/CH1/EX1.2/ex1_2.sce#S##103511
+1#Introduction to solid state electronics#1.19#resistance#Ex1_19.sce#2753/CH1/EX1.19/Ex1_19.sce#S##103546
+1#Introduction to solid state electronics#1.18#resistance#Ex1_18.sce#2753/CH1/EX1.18/Ex1_18.sce#S##103545
+1#Introduction to solid state electronics#1.17#resistance#ex1_17.sce#2753/CH1/EX1.17/ex1_17.sce#S##103542
+1#Introduction to solid state electronics#1.16#voltage#ex1_16.sce#2753/CH1/EX1.16/ex1_16.sce#S##103540
+1#Introduction to solid state electronics#1.15#voltage#ex1_15.sce#2753/CH1/EX1.15/ex1_15.sce#S##103538
+1#Introduction to solid state electronics#1.14#diode current and voltage#ex1_14.sce#2753/CH1/EX1.14/ex1_14.sce#S##103535
+1#Introduction to solid state electronics#1.13#current#ex1_13.sce#2753/CH1/EX1.13/ex1_13.sce#S##103533
+1#Introduction to solid state electronics#1.12#resistivity#Ex1_12.sce#2753/CH1/EX1.12/Ex1_12.sce#S##103532
+1#Introduction to solid state electronics#1.11#donor concentration#Ex1_11.sce#2753/CH1/EX1.11/Ex1_11.sce#S##103530
+1#Introduction to solid state electronics#1.10#hole concentration and conductivity#Ex1_10.sce#2753/CH1/EX1.10/Ex1_10.sce#S##103528
+1#Introduction to solid state electronics#1.1#ne#ex1_1.sce#2753/CH1/EX1.1/ex1_1.sce#S##103508

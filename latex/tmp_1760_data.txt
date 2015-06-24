@@ -1,0 +1,376 @@
+9#Network Function#9.56#C#EX9_56.sce#1760/CH9/EX9.56/EX9_56.sce#S##93420
+9#Network Function#9.50#Current#EX9_50.sce#1760/CH9/EX9.50/EX9_50.sce#S##93419
+9#Network Function#9.46#Ia#EX9_46.sce#1760/CH9/EX9.46/EX9_46.sce#S##93418
+9#Network Function#9.38#R  L G C#EX9_38.sce#1760/CH9/EX9.38/EX9_38.sce#S##93417
+9#Network Function#9.37#Poles  and Zero#EX9_37.sce#1760/CH9/EX9.37/EX9_37.sce#S##93416
+9#Network Function#9.32#Q#EX9_32.sce#1760/CH9/EX9.32/EX9_32.sce#S##93415
+9#Network Function#9.26#Resonant frequency Q#EX9_26.sce#1760/CH9/EX9.26/EX9_26.sce#S##93414
+9#Network Function#9.24#Resonant frequency   Q  band width Impedance#EX9_24.sce#1760/CH9/EX9.24/EX9_24.sce#S##93413
+8#filter#8.9#m#EX8_9.sce#1760/CH8/EX8.9/EX8_9.sce#S##93369
+8#filter#8.8#m#EX8_8.sce#1760/CH8/EX8.8/EX8_8.sce#S##93368
+8#filter#8.7#inductance#EX8_7.sce#1760/CH8/EX8.7/EX8_7.sce#S##98745
+8#filter#8.6#Circuits Parameter#EX8_6.sce#1760/CH8/EX8.6/EX8_6.sce#S##93366
+8#filter#8.5#Band Width#EX8_5.sce#1760/CH8/EX8.5/EX8_5.sce#S##93365
+8#filter#8.49#Design lattice attenuator#EX8_49.sce#1760/CH8/EX8.49/EX8_49.sce#S##93412
+8#filter#8.48#Resistance#EX8_48.sce#1760/CH8/EX8.48/EX8_48.sce#S##98752
+8#filter#8.47#Impedance#EX8_47.sce#1760/CH8/EX8.47/EX8_47.sce#S##93410
+8#filter#8.46#Design  lattice attenuator#EX8_46.sce#1760/CH8/EX8.46/EX8_46.sce#S##93409
+8#filter#8.45# design T#EX8_45.sce#1760/CH8/EX8.45/EX8_45.sce#S##93408
+8#filter#8.43#L#EX8_43.sce#1760/CH8/EX8.43/EX8_43.sce#S##93407
+8#filter#8.42#D#EX8_42.sce#1760/CH8/EX8.42/EX8_42.sce#S##93406
+8#filter#8.41#L#EX8_41.sce#1760/CH8/EX8.41/EX8_41.sce#S##93405
+8#filter#8.40#N#EX8_40.sce#1760/CH8/EX8.40/EX8_40.sce#S##93404
+8#filter#8.4#L and C#EX8_4.sce#1760/CH8/EX8.4/EX8_4.sce#S##93363
+8#filter#8.39#N#EX8_39.sce#1760/CH8/EX8.39/EX8_39.sce#S##93403
+8#filter#8.38#Resistance#EX8_38.sce#1760/CH8/EX8.38/EX8_38.sce#S##93402
+8#filter#8.37#Impedance#EX8_37.sce#1760/CH8/EX8.37/EX8_37.sce#S##93400
+8#filter#8.36#Resistance#EX8_36.sce#1760/CH8/EX8.36/EX8_36.sce#S##93399
+8#filter#8.35#Impedance#EX8_35.sce#1760/CH8/EX8.35/EX8_35.sce#S##93398
+8#filter#8.34#Resistance#EX8_34.sce#1760/CH8/EX8.34/EX8_34.sce#S##93401
+8#filter#8.33#Attenuation#EX8_34.sce#1760/CH8/EX8.33/EX8_34.sce#S##93397
+8#filter#8.32#Impedance#EX8_32.sce#1760/CH8/EX8.32/EX8_32.sce#S##93396
+8#filter#8.31#Resistance#EX8_31.sce#1760/CH8/EX8.31/EX8_31.sce#S##93395
+8#filter#8.30#Design a Filter#EX8_30.sce#1760/CH8/EX8.30/EX8_30.sce#S##93394
+8#filter#8.3#Impedance#EX8_3.sce#1760/CH8/EX8.3/EX8_3.sce#S##98743
+8#filter#8.29#Gain at mid band#EX8_29.sce#1760/CH8/EX8.29/EX8_29.sce#S##93393
+8#filter#8.28#Mid abnd Output#EX8_28.sce#1760/CH8/EX8.28/EX8_28.sce#S##93392
+8#filter#8.27#R2  Mid abnd Gain   Cutt of Frequency#EX8_27.sce#1760/CH8/EX8.27/EX8_27.sce#S##93391
+8#filter#8.26#Mid Band Gain#EX8_26.sce#1760/CH8/EX8.26/EX8_26.sce#S##93390
+8#filter#8.25#Gain#EX8_25.sce#1760/CH8/EX8.25/EX8_25.sce#S##93389
+8#filter#8.24#Output Voltage #EX8_24.sce#1760/CH8/EX8.24/EX8_24.sce#S##93388
+8#filter#8.23#Cutt off Frequency#EX8_23.sce#1760/CH8/EX8.23/EX8_23.sce#S##93387
+8#filter#8.22#Resonant Frequency Band Width Cutt off Frequency#EX8_22.sce#1760/CH8/EX8.22/EX8_22.sce#S##93386
+8#filter#8.21#Inductance  Capacitance#EX8_21.sce#1760/CH8/EX8.21/EX8_21.sce#S##98750
+8#filter#8.20#impedance#EX8_20.sce#1760/CH8/EX8.20/EX8_20.sce#S##98748
+8#filter#8.2#L  and C#EX8_2.sce#1760/CH8/EX8.2/EX8_2.sce#S##93361
+8#filter#8.19#m and T#EX8_19.sce#1760/CH8/EX8.19/EX8_19.sce#S##93383
+8#filter#8.18#m#EX8_18.sce#1760/CH8/EX8.18/EX8_18.sce#S##93382
+8#filter#8.17#Cutt off Frequency  Pass band#EX8_17.sce#1760/CH8/EX8.17/EX8_17.sce#S##93381
+8#filter#8.16#Cutt off Frequency  Pass band   #EX8_16.sce#1760/CH8/EX8.16/EX8_16.sce#S##93380
+8#filter#8.15#cutt off  Frequency#EX8_15.sce#1760/CH8/EX8.15/EX8_15.sce#S##93379
+8#filter#8.14#L and C#EX8_14.sce#1760/CH8/EX8.14/EX8_14.sce#S##93376
+8#filter#8.13#C#EX8_13.sce#1760/CH8/EX8.13/EX8_13.sce#S##93375
+8#filter#8.12#L#EX8_12.sce#1760/CH8/EX8.12/EX8_12.sce#S##93374
+8#filter#8.11#L and C#EX8_11.sce#1760/CH8/EX8.11/EX8_11.sce#S##93372
+8#filter#8.10#L and C#EX8_10.sce#1760/CH8/EX8.10/EX8_10.sce#S##93371
+8#filter#8.1#Frequency Impedance      Attenuation Phase Shift#EX8_1.sce#1760/CH8/EX8.1/EX8_1.sce#S##93359
+7#Two Port Network#7.8#Current  and Voltage#EX7_8.sce#1760/CH7/EX7.8/EX7_8.sce#S##93345
+7#Two Port Network#7.5#Z and Y Parameter #EX7_5.sce#1760/CH7/EX7.5/EX7_5.sce#S##93344
+7#Two Port Network#7.42#Z Parameter#EX7_42.sce#1760/CH7/EX7.42/EX7_42.sce#S##93358
+7#Two Port Network#7.4#Z and Y Parameter#EX7_4.sce#1760/CH7/EX7.4/EX7_4.sce#S##93343
+7#Two Port Network#7.38#Impedance#EX7_38.sce#1760/CH7/EX7.38/EX7_38.sce#S##93357
+7#Two Port Network#7.37#Y parameter#EX7_37.sce#1760/CH7/EX7.37/EX7_37.sce#S##93356
+7#Two Port Network#7.34#output Voltage#EX7_34.sce#1760/CH7/EX7.34/EX7_34.sce#S##93355
+7#Two Port Network#7.25#matrix#EX7_25.sce#1760/CH7/EX7.25/EX7_25.sce#S##98740
+7#Two Port Network#7.22#Z and  Y  Parameter#EX7_22.sce#1760/CH7/EX7.22/EX7_22.sce#S##93353
+7#Two Port Network#7.21#Ra  Rb  Rc#EX7_21.sce#1760/CH7/EX7.21/EX7_21.sce#S##93352
+7#Two Port Network#7.20#Admittance  Parameter #EX7_20.sce#1760/CH7/EX7.20/EX7_20.sce#S##93351
+7#Two Port Network#7.2#Z Parameter#EX7_2.sce#1760/CH7/EX7.2/EX7_2.sce#S##93341
+7#Two Port Network#7.18#Impedance#EX7_18.sce#1760/CH7/EX7.18/EX7_18.sce#S##93350
+7#Two Port Network#7.17#Insertion Loss#EX7_17.sce#1760/CH7/EX7.17/EX7_17.sce#S##93349
+7#Two Port Network#7.16#Image Parameter#EX7_16.sce#1760/CH7/EX7.16/EX7_16.sce#S##93348
+7#Two Port Network#7.14#Y Parameter#EX7_14.sce#1760/CH7/EX7.14/EX7_14.sce#S##93347
+5#Network Theorem#5.9#Deflection#EX5_9.sce#1760/CH5/EX5.9/EX5_9.sce#S##93151
+5#Network Theorem#5.8#Current#EX5_8.sce#1760/CH5/EX5.8/EX5_8.sce#S##93150
+5#Network Theorem#5.74#Reciprocity Theorem#EX5_74.sce#1760/CH5/EX5.74/EX5_74.sce#S##93339
+5#Network Theorem#5.73#matrix#EX5_73.sce#1760/CH5/EX5.73/EX5_73.sce#S##98738
+5#Network Theorem#5.71#Current in R3#EX5_71.sce#1760/CH5/EX5.71/EX5_71.sce#S##93258
+5#Network Theorem#5.70#Current#EX5_70.sce#1760/CH5/EX5.70/EX5_70.sce#S##93257
+5#Network Theorem#5.7#Power    Total Power#EX5_7.sce#1760/CH5/EX5.7/EX5_7.sce#S##93149
+5#Network Theorem#5.69#Current#EX5_69.sce#1760/CH5/EX5.69/EX5_69.sce#S##93256
+5#Network Theorem#5.68#Equivalent Voltage#EX5_68.sce#1760/CH5/EX5.68/EX5_68.sce#S##93254
+5#Network Theorem#5.67#Reciprocity Theorem#EX5_67.sce#1760/CH5/EX5.67/EX5_67.sce#S##93253
+5#Network Theorem#5.66#Change in current#EX5_66.sce#1760/CH5/EX5.66/EX5_66.sce#S##93252
+5#Network Theorem#5.65#Current#EX5_65.sce#1760/CH5/EX5.65/EX5_65.sce#S##93251
+5#Network Theorem#5.64#ZL   Power#EX5_64.sce#1760/CH5/EX5.64/EX5_64.sce#S##93250
+5#Network Theorem#5.63#Thevenins Equivalent#EX5_63.sce#1760/CH5/EX5.63/EX5_63.sce#S##93249
+5#Network Theorem#5.62#Nortan equivalent#EX5_62.sce#1760/CH5/EX5.62/EX5_62.sce#S##93248
+5#Network Theorem#5.60#Current#EX5_60.sce#1760/CH5/EX5.60/EX5_60.sce#S##93247
+5#Network Theorem#5.6#Current#EX5_6.sce#1760/CH5/EX5.6/EX5_6.sce#S##93148
+5#Network Theorem#5.58#Resistance#EX5_58.sce#1760/CH5/EX5.58/EX5_58.sce#S##93245
+5#Network Theorem#5.57#Current#EX5_57.sce#1760/CH5/EX5.57/EX5_57.sce#S##93244
+5#Network Theorem#5.56#Current#EX5_56.sce#1760/CH5/EX5.56/EX5_56.sce#S##93243
+5#Network Theorem#5.55#Current#EX5_55.sce#1760/CH5/EX5.55/EX5_55.sce#S##93242
+5#Network Theorem#5.54#Current#EX5_54.sce#1760/CH5/EX5.54/EX5_54.sce#S##93241
+5#Network Theorem#5.53#Vth  Rth#EX5_53.sce#1760/CH5/EX5.53/EX5_53.sce#S##93240
+5#Network Theorem#5.52#Current#EX5_52.sce#1760/CH5/EX5.52/EX5_52.sce#S##93239
+5#Network Theorem#5.51#Resistance   Power#EX5_51.sce#1760/CH5/EX5.51/EX5_51.sce#S##93238
+5#Network Theorem#5.50#Current#EX5_50.sce#1760/CH5/EX5.50/EX5_50.sce#S##93237
+5#Network Theorem#5.49#current#EX5_49.sce#1760/CH5/EX5.49/EX5_49.sce#S##93236
+5#Network Theorem#5.48#Current#EX5_48.sce#1760/CH5/EX5.48/EX5_48.sce#S##93235
+5#Network Theorem#5.47#Thevenins and  Nortan Equivalent#EX5_47.sce#1760/CH5/EX5.47/EX5_47.sce#S##93234
+5#Network Theorem#5.46#Load Resistance#EX5_46.sce#1760/CH5/EX5.46/EX5_46.sce#S##93233
+5#Network Theorem#5.45#Current#EX5_45.sce#1760/CH5/EX5.45/EX5_45.sce#S##93232
+5#Network Theorem#5.44#current resistance#EX5_44.sce#1760/CH5/EX5.44/EX5_44.sce#S##98736
+5#Network Theorem#5.43#Current#EX5_43.sce#1760/CH5/EX5.43/EX5_43.sce#S##93230
+5#Network Theorem#5.42#Current#EX5_42.sce#1760/CH5/EX5.42/EX5_42.sce#S##93229
+5#Network Theorem#5.41#Current#EX5_41.sce#1760/CH5/EX5.41/EX5_41.sce#S##93228
+5#Network Theorem#5.40#R  and Current#EX5_40.sce#1760/CH5/EX5.40/EX5_40.sce#S##93227
+5#Network Theorem#5.4#Current#EX5_4.sce#1760/CH5/EX5.4/EX5_4.sce#S##93147
+5#Network Theorem#5.39#RL and Pmax#EX5_39.sce#1760/CH5/EX5.39/EX5_39.sce#S##93226
+5#Network Theorem#5.38#Current#EX5_38.sce#1760/CH5/EX5.38/EX5_38.sce#S##93225
+5#Network Theorem#5.37#Current#EX5_37.sce#1760/CH5/EX5.37/EX5_37.sce#S##93224
+5#Network Theorem#5.36# maximum Power #EX5_36.sce#1760/CH5/EX5.36/EX5_36.sce#S##93223
+5#Network Theorem#5.35#Thevenins equivalent circuits#EX5_35.sce#1760/CH5/EX5.35/EX5_35.sce#S##93222
+5#Network Theorem#5.34#Pmax  Total Power   RL#EX5_34.sce#1760/CH5/EX5.34/EX5_34.sce#S##93221
+5#Network Theorem#5.33#Current#EX5_33.sce#1760/CH5/EX5.33/EX5_33.sce#S##93220
+5#Network Theorem#5.32#RL for Pmax#EX5_32.sce#1760/CH5/EX5.32/EX5_32.sce#S##93219
+5#Network Theorem#5.31#Current#EX5_31.sce#1760/CH5/EX5.31/EX5_31.sce#S##93218
+5#Network Theorem#5.30#Current#EX5_30.sce#1760/CH5/EX5.30/EX5_30.sce#S##93217
+5#Network Theorem#5.3#Current#EX5_3.sce#1760/CH5/EX5.3/EX5_3.sce#S##93146
+5#Network Theorem#5.29#Current#EX5_29.sce#1760/CH5/EX5.29/EX5_29.sce#S##93216
+5#Network Theorem#5.28#Total Impedance#EX5_28.sce#1760/CH5/EX5.28/EX5_28.sce#S##93215
+5#Network Theorem#5.27#Delta to Star#EX5_27.sce#1760/CH5/EX5.27/EX5_27.sce#S##93214
+5#Network Theorem#5.26#Current#EX5_26.sce#1760/CH5/EX5.26/EX5_26.sce#S##93213
+5#Network Theorem#5.25#Current#EX5_25.sce#1760/CH5/EX5.25/EX5_25.sce#S##93212
+5#Network Theorem#5.24#Voltage#EX5_24.sce#1760/CH5/EX5.24/EX5_24.sce#S##93211
+5#Network Theorem#5.23#Vo#EX5_23.sce#1760/CH5/EX5.23/EX5_23.sce#S##93210
+5#Network Theorem#5.22#VOLTAGE#EX5_22.sce#1760/CH5/EX5.22/EX5_22.sce#S##98648
+5#Network Theorem#5.21#ZL   Power#EX5_21.sce#1760/CH5/EX5.21/EX5_21.sce#S##93208
+5#Network Theorem#5.20#VOLTAGE#EX5_20.sce#1760/CH5/EX5.20/EX5_20.sce#S##98647
+5#Network Theorem#5.2#Voltage#EX5_2.sce#1760/CH5/EX5.2/EX5_2.sce#S##93145
+5#Network Theorem#5.19#RL    Power  #EX5_19.sce#1760/CH5/EX5.19/EX5_19.sce#S##93206
+5#Network Theorem#5.18#Current and Resistance#EX5_18.sce#1760/CH5/EX5.18/EX5_18.sce#S##93204
+5#Network Theorem#5.17#Impedance#EX5_17.sce#1760/CH5/EX5.17/EX5_17.sce#S##93203
+5#Network Theorem#5.16#Impedance#EX5_16.sce#1760/CH5/EX5.16/EX5_16.sce#S##93202
+5#Network Theorem#5.15#Current#EX5_15.sce#1760/CH5/EX5.15/EX5_15.sce#S##93201
+5#Network Theorem#5.14#Current#EX5_14.sce#1760/CH5/EX5.14/EX5_14.sce#S##93200
+5#Network Theorem#5.13#Current#EX5_13.sce#1760/CH5/EX5.13/EX5_13.sce#S##93205
+5#Network Theorem#5.12#Current#EX5_12.sce#1760/CH5/EX5.12/EX5_12.sce#S##93198
+5#Network Theorem#5.11#Voltage#EX5_11.sce#1760/CH5/EX5.11/EX5_11.sce#S##93153
+5#Network Theorem#5.10#Power dissipared#EX5_10.sce#1760/CH5/EX5.10/EX5_10.sce#S##93152
+5#Network Theorem#5.1#Current #EX5_1.sce#1760/CH5/EX5.1/EX5_1.sce#S##93144
+4#network theorem#5.13#Current#EX5_13.sce#1760/CH4/EX5.13/EX5_13.sce#S##93199
+4#network theorem#4.9#current#EX4_9.sce#1760/CH4/EX4.9/EX4_9.sce#S##93095
+4#network theorem#4.8#currents#EX4_8.sce#1760/CH4/EX4.8/EX4_8.sce#S##93094
+4#network theorem#4.62#I1  I2 Active and Reactive Power#EX4_62.sce#1760/CH4/EX4.62/EX4_62.sce#S##93143
+4#network theorem#4.6#Currents#EX4_6.sce#1760/CH4/EX4.6/EX4_6.sce#S##93092
+4#network theorem#4.58#current#Ex4_58.sce#1760/CH4/EX4.58/Ex4_58.sce#S##98645
+4#network theorem#4.57#Primary and Secondry Current and voltage#EX4_57.sce#1760/CH4/EX4.57/EX4_57.sce#S##93140
+4#network theorem#4.56#Input Impedance#EX4_56.sce#1760/CH4/EX4.56/EX4_56.sce#S##93139
+4#network theorem#4.52#Voltage#EX4_52.sce#1760/CH4/EX4.52/EX4_52.sce#S##93138
+4#network theorem#4.51#Current#EX4_51.sce#1760/CH4/EX4.51/EX4_51.sce#S##93137
+4#network theorem#4.50#Voltage Vcd#EX4_50.sce#1760/CH4/EX4.50/EX4_50.sce#S##93136
+4#network theorem#4.49#Node Voltage#EX4_49.sce#1760/CH4/EX4.49/EX4_49.sce#S##93135
+4#network theorem#4.48#Voltage#EX4_48.sce#1760/CH4/EX4.48/EX4_48.sce#S##93134
+4#network theorem#4.47#V2#EX4_47.sce#1760/CH4/EX4.47/EX4_47.sce#S##93133
+4#network theorem#4.46#Current#EX4_46.sci#1760/CH4/EX4.46/EX4_46.sci#S##93132
+4#network theorem#4.44#Current#EX4_44.sce#1760/CH4/EX4.44/EX4_44.sce#S##93131
+4#network theorem#4.43#Node Voltage#EX4_43.sce#1760/CH4/EX4.43/EX4_43.sce#S##93130
+4#network theorem#4.41#Voltage And Current#EX4_41.sce#1760/CH4/EX4.41/EX4_41.sce#S##93129
+4#network theorem#4.4#Numbers of trees#EX4_4.sce#1760/CH4/EX4.4/EX4_4.sce#S##93091
+4#network theorem#4.38#Current#EX4_38.sce#1760/CH4/EX4.38/EX4_38.sce#S##93128
+4#network theorem#4.37#Current#EX4_37.sce#1760/CH4/EX4.37/EX4_37.sce#S##93127
+4#network theorem#4.36#Current#EX4_36.sce#1760/CH4/EX4.36/EX4_36.sce#S##93126
+4#network theorem#4.32#Branch Current#EX4_32.sce#1760/CH4/EX4.32/EX4_32.sce#S##93125
+4#network theorem#4.30#Current#EX4_30.sce#1760/CH4/EX4.30/EX4_30.sce#S##93124
+4#network theorem#4.29#Power#EX4_29.sce#1760/CH4/EX4.29/EX4_29.sce#S##93123
+4#network theorem#4.28#Current#EX4_28.sce#1760/CH4/EX4.28/EX4_28.sce#S##93122
+4#network theorem#4.25#Current#EX4_25.sce#1760/CH4/EX4.25/EX4_25.sce#S##93121
+4#network theorem#4.24#Current#EX4_24.sce#1760/CH4/EX4.24/EX4_24.sce#S##93120
+4#network theorem#4.23#current#EX4_23.sce#1760/CH4/EX4.23/EX4_23.sce#S##93105
+4#network theorem#4.22#voltage#EX4_22.sce#1760/CH4/EX4.22/EX4_22.sce#S##93104
+4#network theorem#4.21#current   and power#EX4_21.sce#1760/CH4/EX4.21/EX4_21.sce#S##93103
+4#network theorem#4.19#currents#EX4_19.sce#1760/CH4/EX4.19/EX4_19.sce#S##93102
+4#network theorem#4.17#voltage#EX4_17.sce#1760/CH4/EX4.17/EX4_17.sce#S##93101
+4#network theorem#4.16#current#EX4_16.sce#1760/CH4/EX4.16/EX4_16.sce#S##93100
+4#network theorem#4.14#current#EX4_14.sce#1760/CH4/EX4.14/EX4_14.sce#S##98644
+4#network theorem#4.13#current#EX4_13.sce#1760/CH4/EX4.13/EX4_13.sce#S##93098
+4#network theorem#4.12#current#EX4_12.sce#1760/CH4/EX4.12/EX4_12.sce#S##93097
+4#network theorem#4.10#Current#EX4_10.sce#1760/CH4/EX4.10/EX4_10.sce#S##93119
+3#Three Phase Circuits#4.14#Current  voltage#EX3_14.sce#1760/CH3/EX4.14/EX3_14.sce#S##98029
+3#Three Phase Circuits#3.9#Line Current Neutral Current#EX3_9.sce#1760/CH3/EX3.9/EX3_9.sce#S##92965
+3#Three Phase Circuits#3.8#Line Current  Neutral Current  Total power#EX3_8.sce#1760/CH3/EX3.8/EX3_8.sce#S##92964
+3#Three Phase Circuits#3.7#line  currents#EX3_7.sce#1760/CH3/EX3.7/EX3_7.sce#S##92963
+3#Three Phase Circuits#3.6#Phase Current  Line Current   Total Active and Reactive Power#EX3_6.sce#1760/CH3/EX3.6/EX3_6.sce#S##92962
+3#Three Phase Circuits#3.59#current#EX3_59.sce#1760/CH3/EX3.59/EX3_59.sce#S##106607
+3#Three Phase Circuits#3.55#Phase and Line Current#EX3_55.sce#1760/CH3/EX3.55/EX3_55.sce#S##93090
+3#Three Phase Circuits#3.54#Voltage load impedance #EX3_54.sce#1760/CH3/EX3.54/EX3_54.sce#S##93089
+3#Three Phase Circuits#3.53#Current Active  and Reactive Power#EX3_53.sce#1760/CH3/EX3.53/EX3_53.sce#S##93088
+3#Three Phase Circuits#3.52#Line Current  Power factor  Active  and Reactive Power #EX3_52.sce#1760/CH3/EX3.52/EX3_52.sce#S##93087
+3#Three Phase Circuits#3.51# Resistance reactance Power Factor#EX3_51.sce#1760/CH3/EX3.51/EX3_51.sce#S##93086
+3#Three Phase Circuits#3.50#Line   current#EX3_50.sce#1760/CH3/EX3.50/EX3_50.sce#S##93085
+3#Three Phase Circuits#3.5#line current active and reactive power#EX3_5.sce#1760/CH3/EX3.5/EX3_5.sce#S##106606
+3#Three Phase Circuits#3.49#Phase Current Line Current  Total active and reactive  Power  W1   w2#EX3_49.sce#1760/CH3/EX3.49/EX3_49.sce#S##93084
+3#Three Phase Circuits#3.48#voltage#EX3_48.sce#1760/CH3/EX3.48/EX3_48.sce#S##93083
+3#Three Phase Circuits#3.47#total votamperes  Active and Reactive Power#EX3_47.sce#1760/CH3/EX3.47/EX3_47.sce#S##93082
+3#Three Phase Circuits#3.45#Line Current #EX3_45.sce#1760/CH3/EX3.45/EX3_45.sce#S##93081
+3#Three Phase Circuits#3.44#Power and Power Factor#EX3_44.sce#1760/CH3/EX3.44/EX3_44.sce#S##93080
+3#Three Phase Circuits#3.43#Total Apparent  active Reactive Power line Current  Power factor#EX3_43.sce#1760/CH3/EX3.43/EX3_43.sce#S##93079
+3#Three Phase Circuits#3.42#Za   Zb Zc#EX3_42.sce#1760/CH3/EX3.42/EX3_42.sce#S##93078
+3#Three Phase Circuits#3.41#Current#EX3_41.sce#1760/CH3/EX3.41/EX3_41.sce#S##93077
+3#Three Phase Circuits#3.40#W1   and W2#EX3_40.sce#1760/CH3/EX3.40/EX3_40.sce#S##93076
+3#Three Phase Circuits#3.4#Current#EX3_4.sce#1760/CH3/EX3.4/EX3_4.sce#S##98024
+3#Three Phase Circuits#3.39#Voltage#EX3_39.sce#1760/CH3/EX3.39/EX3_39.sce#S##93074
+3#Three Phase Circuits#3.37#current#EX3_37.sce#1760/CH3/EX3.37/EX3_37.sce#S##93071
+3#Three Phase Circuits#3.36#Phase current  Total line current #EX3_36.sce#1760/CH3/EX3.36/EX3_36.sce#S##93067
+3#Three Phase Circuits#3.35#Total Active Power  Toal Reactive Power  Voltmetter  Line CurrentThree Phase Circuitsower factor#EX3_35.sce#1760/CH3/EX3.35/EX3_35.sce#S##93063
+3#Three Phase Circuits#3.34#Line Current Total Voltmetter  Active and Reactive  Power#EX3_34.sce#1760/CH3/EX3.34/EX3_34.sce#S##93058
+3#Three Phase Circuits#3.33#Neutral Current#EX3_33.sce#1760/CH3/EX3.33/EX3_33.sce#S##93053
+3#Three Phase Circuits#3.32#Line currents #EX3_32.sce#1760/CH3/EX3.32/EX3_32.sce#S##93049
+3#Three Phase Circuits#3.31#Voltmeter  #EX3_31.sce#1760/CH3/EX3.31/EX3_31.sce#S##93046
+3#Three Phase Circuits#3.30# R  and x#EX3_30.sce#1760/CH3/EX3.30/EX3_30.sce#S##93043
+3#Three Phase Circuits#3.3#Line Current  Active and Reactive  Power#EX3_3.sce#1760/CH3/EX3.3/EX3_3.sce#S##92959
+3#Three Phase Circuits#3.29#Line current#EX3_29.sce#1760/CH3/EX3.29/EX3_29.sce#S##93038
+3#Three Phase Circuits#3.28#Line Current Neutral  Current Total power#EX3_28.sce#1760/CH3/EX3.28/EX3_28.sce#S##93035
+3#Three Phase Circuits#3.27#Line Current and Total Power#EX3_27.sce#1760/CH3/EX3.27/EX3_27.sce#S##93031
+3#Three Phase Circuits#3.26#current Power#EX3_26.sce#1760/CH3/EX3.26/EX3_26.sce#S##98031
+3#Three Phase Circuits#3.25#Line Current  Total Power#EX3_25.sce#1760/CH3/EX3.25/EX3_25.sce#S##93019
+3#Three Phase Circuits#3.24#Total Power and Power Factor#EX3_24.sce#1760/CH3/EX3.24/EX3_24.sce#S##93016
+3#Three Phase Circuits#3.23#impedance#EX3_23.sce#1760/CH3/EX3.23/EX3_23.sce#S##98030
+3#Three Phase Circuits#3.22#Phase Current  Line Current   Power Factor Active Powerand Reactive Power#EX3_22.sce#1760/CH3/EX3.22/EX3_22.sce#S##93010
+3#Three Phase Circuits#3.21#Line current  Volt ampere   Active and  Reactive Power#EX3_21.sce#1760/CH3/EX3.21/EX3_21.sce#S##93005
+3#Three Phase Circuits#3.20#Load Impedance#EX3_20.sce#1760/CH3/EX3.20/EX3_20.sce#S##93002
+3#Three Phase Circuits#3.2#Load Impedance  Line Voltage#EX3_2.sce#1760/CH3/EX3.2/EX3_2.sce#S##92958
+3#Three Phase Circuits#3.19#Current Power factor  Active Reactive  Power#EX3_19.sce#1760/CH3/EX3.19/EX3_19.sce#S##92998
+3#Three Phase Circuits#3.18#Power ouputs#EX3_18.sce#1760/CH3/EX3.18/EX3_18.sce#S##92994
+3#Three Phase Circuits#3.16#Power    and Power factor#EX3_16.sce#1760/CH3/EX3.16/EX3_16.sce#S##92988
+3#Three Phase Circuits#3.15#Line Current   Neutral Currents  Reading of wattmeter#EX3_15.sce#1760/CH3/EX3.15/EX3_15.sce#S##92985
+3#Three Phase Circuits#3.13#Line voltage#EX3_13.sce#1760/CH3/EX3.13/EX3_13.sce#S##92978
+3#Three Phase Circuits#3.12#Phase Current of delta and star Active Power  Power Factor#EX3_12.sce#1760/CH3/EX3.12/EX3_12.sce#S##92973
+3#Three Phase Circuits#3.11#Reading on wattmeter#EX3_11.sce#1760/CH3/EX3.11/EX3_11.sce#S##92968
+3#Three Phase Circuits#3.10#Voltage Line Currents#EX3_10.sce#1760/CH3/EX3.10/EX3_10.sce#S##92966
+3#Three Phase Circuits#3.1#Line Current   Total Volts Ampere   Active Power Reactive Power#EX3_1.sce#1760/CH3/EX3.1/EX3_1.sce#S##92957
+2#single phase AC Circuits#2.99#M   K#EX2_99.sce#1760/CH2/EX2.99/EX2_99.sce#S##93546
+2#single phase AC Circuits#2.98#L1 L2 M  N2#EX2_98.sce#1760/CH2/EX2.98/EX2_98.sce#S##92944
+2#single phase AC Circuits#2.97#L1  L2  M  K#EX2_97.sce#1760/CH2/EX2.97/EX2_97.sce#S##92943
+2#single phase AC Circuits#2.96#  Mutual Inductance    Coefficient  Coupling#EX2_96.sce#1760/CH2/EX2.96/EX2_96.sce#S##92942
+2#single phase AC Circuits#2.95#Mutual Inductance#EX2_95.sce#1760/CH2/EX2.95/EX2_95.sce#S##93545
+2#single phase AC Circuits#2.94#Mutual Inductance     EMF  #EX2_94.sce#1760/CH2/EX2.94/EX2_94.sce#S##92912
+2#single phase AC Circuits#2.93#Self  Inductane   Mutual Inductance     voltage  induce#EX2_93.sce#1760/CH2/EX2.93/EX2_93.sce#S##92911
+2#single phase AC Circuits#2.92#frequency#EX2_92.sce#1760/CH2/EX2.92/EX2_92.sce#S##98022
+2#single phase AC Circuits#2.91#Current   at resonance#EX2_91.sce#1760/CH2/EX2.91/EX2_91.sce#S##92909
+2#single phase AC Circuits#2.90#R   L   C#EX2_90.sce#1760/CH2/EX2.90/EX2_90.sce#S##92908
+2#single phase AC Circuits#2.9#Rate of change of   current#EX2_9.sce#1760/CH2/EX2.9/EX2_9.sce#S##92776
+2#single phase AC Circuits#2.89#Resonant  Frequency     Q  Band Width     Out put Voltage#EX2_89.sce#1760/CH2/EX2.89/EX2_89.sce#S##92907
+2#single phase AC Circuits#2.88#Resonant Frequency   Rc    #EX2_88.sce#1760/CH2/EX2.88/EX2_88.sce#S##92906
+2#single phase AC Circuits#2.87#Inductance    Q  Current  voltage   #EX2_87.sce#1760/CH2/EX2.87/EX2_87.sce#S##92905
+2#single phase AC Circuits#2.86#Resonant Frequency      Upper Lower Half Frequency Band Width   Voltage#EX2_86.sce#1760/CH2/EX2.86/EX2_86.sce#S##92904
+2#single phase AC Circuits#2.85#Current#EX2_85.sce#1760/CH2/EX2.85/EX2_85.sce#S##92903
+2#single phase AC Circuits#2.84#Frequency #EX2_84.sce#1760/CH2/EX2.84/EX2_84.sce#S##93544
+2#single phase AC Circuits#2.83#Active   Reactive Apparent Power#EX2_83.sce#1760/CH2/EX2.83/EX2_83.sce#S##92902
+2#single phase AC Circuits#2.82#Resistance  Capacitance#EX2_82.sce#1760/CH2/EX2.82/EX2_82.sce#S##92901
+2#single phase AC Circuits#2.81#Current in each branch  Total Current   Active  Reactive  Apparent Power#EX2_81.sce#1760/CH2/EX2.81/EX2_81.sce#S##92900
+2#single phase AC Circuits#2.80#R1   X1  X2#EX2_80.sce#1760/CH2/EX2.80/EX2_80.sce#S##92899
+2#single phase AC Circuits#2.8#ADDITION    SUBSTRACTION  MULTIPLICATION  DIVISION  #EX2_8.sce#1760/CH2/EX2.8/EX2_8.sce#S##92775
+2#single phase AC Circuits#2.79#Voltage#EX2_79.sce#1760/CH2/EX2.79/EX2_79.sce#S##92898
+2#single phase AC Circuits#2.78#Voltage#EX2_78.sce#1760/CH2/EX2.78/EX2_78.sce#S##92897
+2#single phase AC Circuits#2.77#Power Factor#EX2_77.sce#1760/CH2/EX2.77/EX2_77.sce#S##92896
+2#single phase AC Circuits#2.76#magnitude  Phase Angle  Total Impedance  #EX2_76.sce#1760/CH2/EX2.76/EX2_76.sce#S##92895
+2#single phase AC Circuits#2.75#Current  Total Apparent  Active  Reactive Power  Power Factor#EX2_75.sce#1760/CH2/EX2.75/EX2_75.sce#S##92894
+2#single phase AC Circuits#2.74#Current in each branch   Total Current  Power Factor   Total apparent   Active  Reactive   Total Current #EX2_74.sce#1760/CH2/EX2.74/EX2_74.sce#S##92893
+2#single phase AC Circuits#2.73#Inductance   Capacitance#EX2_73.sce#1760/CH2/EX2.73/EX2_73.sce#S##92892
+2#single phase AC Circuits#2.72#Power Factor  Total volts   Active Reactive  power     Overall  Power Factor#EX2_72.sce#1760/CH2/EX2.72/EX2_72.sce#S##92891
+2#single phase AC Circuits#2.71#Power    Power Factor  #EX2_71.sce#1760/CH2/EX2.71/EX2_71.sce#S##92890
+2#single phase AC Circuits#2.70#Current Impedance#EX2_70.sce#1760/CH2/EX2.70/EX2_70.sce#S##98017
+2#single phase AC Circuits#2.7#addition and substraction#EX2_7.sce#1760/CH2/EX2.7/EX2_7.sce#S##97841
+2#single phase AC Circuits#2.69#Line Current  Impedance  Circuits Phase Angle#EX2_69.sce#1760/CH2/EX2.69/EX2_69.sce#S##92888
+2#single phase AC Circuits#2.68#Total Power    #EX2_68.sce#1760/CH2/EX2.68/EX2_68.sce#S##92887
+2#single phase AC Circuits#2.67# Branch Impedance   Total Impedance   Branch Current   Total Current#EX2_67.sce#1760/CH2/EX2.67/EX2_67.sce#S##92886
+2#single phase AC Circuits#2.66#Power#EX2_66.sce#1760/CH2/EX2.66/EX2_66.sce#S##92885
+2#single phase AC Circuits#2.64#Current in branch   Total Current#EX2_64.sce#1760/CH2/EX2.64/EX2_64.sce#S##92884
+2#single phase AC Circuits#2.63#Current    Power Factor#EX2_63.sce#1760/CH2/EX2.63/EX2_63.sce#S##92883
+2#single phase AC Circuits#2.62#Current impedance    Active Power TotalActive Power    Power Factor  Apparent Power Reactive Power#EX2_62.sce#1760/CH2/EX2.62/EX2_62.sce#S##92882
+2#single phase AC Circuits#2.61#admittance Impedance   Total Current   Power Factor    Active Power#EX2_61.sce#1760/CH2/EX2.61/EX2_61.sce#S##92881
+2#single phase AC Circuits#2.60#Conductance Susceptance  Current  Power factor#EX2_60.sce#1760/CH2/EX2.60/EX2_60.sce#S##92880
+2#single phase AC Circuits#2.59#Total Current  Shunt Capacitor   #EX2_59.sce#1760/CH2/EX2.59/EX2_59.sce#S##92879
+2#single phase AC Circuits#2.58#Voltage   Current   power Factor Active   Reactive Power   #EX2_58.sce#1760/CH2/EX2.58/EX2_58.sce#S##92878
+2#single phase AC Circuits#2.57#Total  Current  Impedance  Admittance  Power factor Apparent Power Active Power Reactivr Power#EX2_57.sce#1760/CH2/EX2.57/EX2_57.sce#S##92877
+2#single phase AC Circuits#2.56#Current  Power Factor  #EX2_56.sce#1760/CH2/EX2.56/EX2_56.sce#S##92876
+2#single phase AC Circuits#2.55#Resistance#EX2_55.sce#1760/CH2/EX2.55/EX2_55.sce#S##92875
+2#single phase AC Circuits#2.54#Single Phase AC Circuits#EX2_54.sce#1760/CH2/EX2.54/EX2_54.sce#S##92874
+2#single phase AC Circuits#2.53#Inductance    Frequency#EX2_53.sce#1760/CH2/EX2.53/EX2_53.sce#S##92873
+2#single phase AC Circuits#2.52#Total Current   power Factor#EX2_52.sce#1760/CH2/EX2.52/EX2_52.sce#S##92872
+2#single phase AC Circuits#2.51#Impedance    admittance  Current   Power Factor   Apparent Power   active Reactive Power #EX2_51.sce#1760/CH2/EX2.51/EX2_51.sce#S##92871
+2#single phase AC Circuits#2.49#current#EX2_49.sce#1760/CH2/EX2.49/EX2_49.sce#S##92859
+2#single phase AC Circuits#2.47#RMS#EX2_47.sce#1760/CH2/EX2.47/EX2_47.sce#S##92858
+2#single phase AC Circuits#2.46#P#EX2_46.sce#1760/CH2/EX2.46/EX2_46.sce#S##92860
+2#single phase AC Circuits#2.45#Power Inductance#EX2_45.sce#1760/CH2/EX2.45/EX2_45.sce#S##97848
+2#single phase AC Circuits#2.44#Resistance   Capacitance#EX2_44.sce#1760/CH2/EX2.44/EX2_44.sce#S##92856
+2#single phase AC Circuits#2.43#Power Factor #EX2_43.sce#1760/CH2/EX2.43/EX2_43.sce#S##92855
+2#single phase AC Circuits#2.42#Resistance    Inductance#EX2_42.sce#1760/CH2/EX2.42/EX2_42.sce#S##92854
+2#single phase AC Circuits#2.41#Impedance#EX2_41.sce#1760/CH2/EX2.41/EX2_41.sce#S##92853
+2#single phase AC Circuits#2.40#Voltage across v1 v2  Impedance    Admittance   Power factor#EX2_40.sce#1760/CH2/EX2.40/EX2_40.sce#S##92834
+2#single phase AC Circuits#2.39#1 Power  factor 2 Apparent  Reactive   Active Power #EX2_39.sce#1760/CH2/EX2.39/EX2_39.sce#S##92831
+2#single phase AC Circuits#2.38#Current    Voltage#EX2_38.sce#1760/CH2/EX2.38/EX2_38.sce#S##92825
+2#single phase AC Circuits#2.37#active power   impedance#EX2_37.sce#1760/CH2/EX2.37/EX2_37.sce#S##97845
+2#single phase AC Circuits#2.36#XL    XC    Current       Power Factor   Apparent Power      Active Power     Reactive  Power#EX2_36.sce#1760/CH2/EX2.36/EX2_36.sce#S##92819
+2#single phase AC Circuits#2.35#Maximum Charge  and Energy#EX2_35.sce#1760/CH2/EX2.35/EX2_35.sce#S##92815
+2#single phase AC Circuits#2.34#Impedance   Power Factor     Power Consumed#EX2_34.sce#1760/CH2/EX2.34/EX2_34.sce#S##92814
+2#single phase AC Circuits#2.33#Impedance  Admittance  Current  Power Factor      Apparent Power    Active Power     Reactive Power   Voltage  Across resistance  and  capacitance#EX2_33.sce#1760/CH2/EX2.33/EX2_33.sce#S##92813
+2#single phase AC Circuits#2.32#Active Power       Current      Voltage#EX2_32.sce#1760/CH2/EX2.32/EX2_32.sce#S##92804
+2#single phase AC Circuits#2.31#Current                 Apparent Power       Active Power#EX2_31.sce#1760/CH2/EX2.31/EX2_31.sce#S##92803
+2#single phase AC Circuits#2.30#Impedance    Admittance     Current       Power Factor         Active power     Reactive Power       Apparent Power#EX2_30.sce#1760/CH2/EX2.30/EX2_30.sce#S##92802
+2#single phase AC Circuits#2.3#Form Factor           Peak  Factor#EX2_3.sce#1760/CH2/EX2.3/EX2_3.sce#S##92773
+2#single phase AC Circuits#2.29#Capacitive Reactance             susceptance and current#EX2_29.sce#1760/CH2/EX2.29/EX2_29.sce#S##92801
+2#single phase AC Circuits#2.28#FREQUENCY#EX2_28.sce#1760/CH2/EX2.28/EX2_28.sce#S##92799
+2#single phase AC Circuits#2.27#CURRENT    POWER DISSIPATED    INSTANTANEOUS CURRENT#EX2_27.sce#1760/CH2/EX2.27/EX2_27.sce#S##92800
+2#single phase AC Circuits#2.26#Reading of moving coil  Reading of hot wire    Total Power   Power dissipated #EX2_26.sce#1760/CH2/EX2.26/EX2_26.sce#S##92798
+2#single phase AC Circuits#2.25#VOLTAGE#EX2_25.sce#1760/CH2/EX2.25/EX2_25.sce#S##92797
+2#single phase AC Circuits#2.24#Current#EX2_24.sce#1760/CH2/EX2.24/EX2_24.sce#S##93537
+2#single phase AC Circuits#2.23#Average Energy#EX2_23.sce#1760/CH2/EX2.23/EX2_23.sce#S##93536
+2#single phase AC Circuits#2.22#Average#EX2_22.sce#1760/CH2/EX2.22/EX2_22.sce#S##93535
+2#single phase AC Circuits#2.21#Voltage#EX2_21.sce#1760/CH2/EX2.21/EX2_21.sce#S##93534
+2#single phase AC Circuits#2.20#Voltage#EX2_20.sce#1760/CH2/EX2.20/EX2_20.sce#S##93533
+2#single phase AC Circuits#2.17#RMS#EX2_17.sce#1760/CH2/EX2.17/EX2_17.sce#S##92796
+2#single phase AC Circuits#2.16#ENERGY       FORM FACTOR#EX2_16.sce#1760/CH2/EX2.16/EX2_16.sce#S##92795
+2#single phase AC Circuits#2.15#Average Value     Effective Value Form Factor#EX2_15.sce#1760/CH2/EX2.15/EX2_15.sce#S##92794
+2#single phase AC Circuits#2.14#Effective Value       Form Factor#EX2_14.sce#1760/CH2/EX2.14/EX2_14.sce#S##92792
+2#single phase AC Circuits#2.13#Average Value of Voltage#EX2_13.sce#1760/CH2/EX2.13/EX2_13.sce#S##92791
+2#single phase AC Circuits#2.12#current#EX2_12.sce#1760/CH2/EX2.12/EX2_12.sce#S##92779
+2#single phase AC Circuits#2.113#Resonant Frequency  Dynamic  Resistance  Band width#EX2_113.sce#1760/CH2/EX2.113/EX2_113.sce#S##92955
+2#single phase AC Circuits#2.112#impedance  resistance  reactance#EX2_112.sce#1760/CH2/EX2.112/EX2_112.sce#S##92954
+2#single phase AC Circuits#2.111#Total Power Factor   Total  Active and Reactive Power#EX2_111.sce#1760/CH2/EX2.111/EX2_111.sce#S##92953
+2#single phase AC Circuits#2.11#INSTANTANEOUS  VALUE#EX2_11.sce#1760/CH2/EX2.11/EX2_11.sce#S##92778
+2#single phase AC Circuits#2.109#Real Power   Reactive Power  Power Factor#EX2_109.sce#1760/CH2/EX2.109/EX2_109.sce#S##92952
+2#single phase AC Circuits#2.108#RMS#EX2_108.sce#1760/CH2/EX2.108/EX2_108.sce#S##92951
+2#single phase AC Circuits#2.107#Average  Value  RMS Value#EX2_107.sce#1760/CH2/EX2.107/EX2_107.sce#S##92950
+2#single phase AC Circuits#2.106#Resonant Frequency      Current    #EX2_106.sce#1760/CH2/EX2.106/EX2_106.sce#S##92949
+2#single phase AC Circuits#2.105#Self Inductance    Mutual Inductance  Turns of coil#EX2_105.sce#1760/CH2/EX2.105/EX2_105.sce#S##92948
+2#single phase AC Circuits#2.104#Self  Inductance       Total Inductance    Energy    #EX2_104.sce#1760/CH2/EX2.104/EX2_104.sce#S##92947
+2#single phase AC Circuits#2.103#Equivalent    Inductance#EX2_103.sce#1760/CH2/EX2.103/EX2_103.sce#S##92946
+2#single phase AC Circuits#2.102#Equivalent  Inductance#EX2_102.sce#1760/CH2/EX2.102/EX2_102.sce#S##93547
+2#single phase AC Circuits#2.100#Self  Inductance   Mutual  Inductance    Coefficient  of coupling#EX2_100.sce#1760/CH2/EX2.100/EX2_100.sce#S##92945
+2#single phase AC Circuits#2.10#rms#EX2_10.sce#1760/CH2/EX2.10/EX2_10.sce#S##92777
+2#single phase AC Circuits#2.1#average value    RMS Value  Form Factor        Peak Factor         RMS Value of sine wave#EX2_1.sce#1760/CH2/EX2.1/EX2_1.sce#S##92772
+1#Introduction to electronic circuits#1.7#Power current voltage#EX1_7.sce#1760/CH1/EX1.7/EX1_7.sce#S##107864
+1#Introduction to electronic circuits#1.6#cost  quantity of electricity  number of electron   rate of electrical energy#EX1_6.sce#1760/CH1/EX1.6/EX1_6.sce#S##92735
+1#Introduction to electronic circuits#1.53#equvalent resistance#EX1_53.sce#1760/CH1/EX1.53/EX1_53.sce#S##92771
+1#Introduction to electronic circuits#1.52#equvalent inductance#EX1_52.sce#1760/CH1/EX1.52/EX1_52.sce#S##92770
+1#Introduction to electronic circuits#1.51#Power#EX1_51.sce#1760/CH1/EX1.51/EX1_51.sce#S##92769
+1#Introduction to electronic circuits#1.50#voltage#EX1_50.sce#1760/CH1/EX1.50/EX1_50.sce#S##92768
+1#Introduction to electronic circuits#1.5#Power and Resistance#EX1_5.sce#1760/CH1/EX1.5/EX1_5.sce#S##92734
+1#Introduction to electronic circuits#1.48#Current#EX1_48.sce#1760/CH1/EX1.48/EX1_48.sce#S##92767
+1#Introduction to electronic circuits#1.47#Resistance#EX1_47.sce#1760/CH1/EX1.47/EX1_47.sce#S##92766
+1#Introduction to electronic circuits#1.46#current#EX1_46sce.sce#1760/CH1/EX1.46/EX1_46sce.sce#S##107876
+1#Introduction to electronic circuits#1.44#voltage #EX1_44.sce#1760/CH1/EX1.44/EX1_44.sce#S##92764
+1#Introduction to electronic circuits#1.42#Resistance#EX1_42.sce#1760/CH1/EX1.42/EX1_42.sce#S##92763
+1#Introduction to electronic circuits#1.41#Resistance#EX1_41.sce#1760/CH1/EX1.41/EX1_41.sce#S##92762
+1#Introduction to electronic circuits#1.40#Resistance#EX1_40.sce#1760/CH1/EX1.40/EX1_40.sce#S##92761
+1#Introduction to electronic circuits#1.4#Current#EX1_4.sce#1760/CH1/EX1.4/EX1_4.sce#S##92733
+1#Introduction to electronic circuits#1.39#Insulation resistance#EX1_39.sce#1760/CH1/EX1.39/EX1_39.sce#S##92760
+1#Introduction to electronic circuits#1.38#Current#EX1_38.sce#1760/CH1/EX1.38/EX1_38.sce#S##92759
+1#Introduction to electronic circuits#1.37#Current#EX1_37.sce#1760/CH1/EX1.37/EX1_37.sce#S##92758
+1#Introduction to electronic circuits#1.36#change  flux  flux change  voltage  energy in inductor#EX1_36.sce#1760/CH1/EX1.36/EX1_36.sce#S##107877
+1#Introduction to electronic circuits#1.35#Resistance#EX1_35.sce#1760/CH1/EX1.35/EX1_35.sce#S##92754
+1#Introduction to electronic circuits#1.34#Power#EX1_34.sce#1760/CH1/EX1.34/EX1_34.sce#S##93543
+1#Introduction to electronic circuits#1.33#Introduction of Electric Circuits#EX1_33.sce#1760/CH1/EX1.33/EX1_33.sce#S##92753
+1#Introduction to electronic circuits#1.32# Current and Resistance#EX1_32.sce#1760/CH1/EX1.32/EX1_32.sce#S##92752
+1#Introduction to electronic circuits#1.30#VLTAGE   AND ENERGY#EX1_30.sce#1760/CH1/EX1.30/EX1_30.sce#S##92751
+1#Introduction to electronic circuits#1.3#Alpha Rise in Temperature#EX1_3.sce#1760/CH1/EX1.3/EX1_3.sce#S##107863
+1#Introduction to electronic circuits#1.29#Equivalent Capacitor#EX1_29.sce#1760/CH1/EX1.29/EX1_29.sce#S##92750
+1#Introduction to electronic circuits#1.28#Capacitor#EX1_28.sce#1760/CH1/EX1.28/EX1_28.sce#S##93542
+1#Introduction to electronic circuits#1.27#Flux#EX1_27.sce#1760/CH1/EX1.27/EX1_27.sce#S##107865
+1#Introduction to electronic circuits#1.26#Inductor#EX1_26.sce#1760/CH1/EX1.26/EX1_26.sce#S##92748
+1#Introduction to electronic circuits#1.21#Voltage Across Inductor#EX1_21.sce#1760/CH1/EX1.21/EX1_21.sce#S##92747
+1#Introduction to electronic circuits#1.20#Resistance#EX1_20.sce#1760/CH1/EX1.20/EX1_20.sce#S##92746
+1#Introduction to electronic circuits#1.2#Diameter#EX1_2.sce#1760/CH1/EX1.2/EX1_2.sce#S##92731
+1#Introduction to electronic circuits#1.19#Inductance#EX1_19.sce#1760/CH1/EX1.19/EX1_19.sce#S##92745
+1#Introduction to electronic circuits#1.18#Inductance of Coil#EX1_18.sce#1760/CH1/EX1.18/EX1_18.sce#S##92743
+1#Introduction to electronic circuits#1.17#EMF#EX1_17.sce#1760/CH1/EX1.17/EX1_17.sce#S##92744
+1#Introduction to electronic circuits#1.16# ENERGY         PERCENTAGE OF ENERGY#EX1_16.sce#1760/CH1/EX1.16/EX1_16.sce#S##92741
+1#Introduction to electronic circuits#1.15#RESISTANCE   CURRENT#EX1_15.sce#1760/CH1/EX1.15/EX1_15.sce#S##92740
+1#Introduction to electronic circuits#1.14#Resistance#EX1_14.sce#1760/CH1/EX1.14/EX1_14.sce#S##92739
+1#Introduction to electronic circuits#1.13#Resistance      total power#EX1_13.sce#1760/CH1/EX1.13/EX1_13.sce#S##92738
+1#Introduction to electronic circuits#1.11#Temperature coefficient#EX1_11.sce#1760/CH1/EX1.11/EX1_11.sce#S##92737
+1#Introduction to electronic circuits#1.1#Resistance#EX1_1.sce#1760/CH1/EX1.1/EX1_1.sce#S##92730

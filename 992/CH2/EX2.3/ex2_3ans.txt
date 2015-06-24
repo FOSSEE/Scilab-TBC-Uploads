@@ -1,0 +1,2 @@
+ power of carrier signal = 17.777778 kW  
+ Execution done.

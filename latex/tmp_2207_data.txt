@@ -1,0 +1,73 @@
+11#Appendix B#5.b#speed slip and torque#ex_5_b.sce#2207/CH11/EX5.b/ex_5_b.sce#S##80723
+11#Appendix B#2.b#power absorbed#ex_2_b.sce#2207/CH11/EX2.b/ex_2_b.sce#S##80722
+10#Control of AC drivers#10.15.6#supply voltage slip slip frequency and percentage rotor loss#ex_10_15_6.sce#2207/CH10/EX10.15.6/ex_10_15_6.sce#S##76093
+10#Control of AC drivers#10.15.2#Supply voltage per phase slip slip frequency slip and rotor los#ex_10_15_2.sce#2207/CH10/EX10.15.2/ex_10_15_2.sce#S##92686
+10#Control of AC drivers#10.15.1#slip the air gap power and  efficiency#ex_10_15_1.sce#2207/CH10/EX10.15.1/ex_10_15_1.sce#S##92685
+9#Power factor improvement#9.5.3#parameters#ex_9_5_3.sce#2207/CH9/EX9.5.3/ex_9_5_3.sce#S##80459
+9#Power factor improvement#9.5.2#parameters amd average voltage#ex_9_5_2.sce#2207/CH9/EX9.5.2/ex_9_5_2.sce#S##76082
+9#Power factor improvement#9.5.1#ISrms  I1rms FPF PF and HF#ex_9_5_1.sce#2207/CH9/EX9.5.1/ex_9_5_1.sce#S##92684
+9#Power factor improvement#9.4.3#plot the variation#ex_9_4_3.sce#2207/CH9/EX9.4.3/ex_9_4_3.sce#S##80228
+8#Control of DC drivers#8.21.1#average armature current#ex_8_21_1.sce#2207/CH8/EX8.21.1/ex_8_21_1.sce#S##76079
+8#Control of DC drivers#8.19.4#develepoed back emf required armature voltage and firing angle and rated armature current#ex_8_19_4.sce#2207/CH8/EX8.19.4/ex_8_19_4.sce#S##92680
+8#Control of DC drivers#8.19.3#torque developed speed and input power factor#ex_8_19_3.sce#2207/CH8/EX8.19.3/ex_8_19_3.sce#S##92681
+8#Control of DC drivers#8.19.2#Average armature voltage  back emf  speed of the motor  motor torque and supply power factor#ex_8_19_2.sce#2207/CH8/EX8.19.2/ex_8_19_2.sce#S##92683
+8#Control of DC drivers#8.19.1#Firing angle to keep the motor current and Power fed back #ex_8_19_1.sce#2207/CH8/EX8.19.1/ex_8_19_1.sce#S##92682
+8#Control of DC drivers#8.18.3#alphas speed and delay angle#ex_8_18_3.sce#2207/CH8/EX8.18.3/ex_8_18_3.sce#S##92678
+8#Control of DC drivers#8.18.2#Delay Angel of Armature No load speed and speed regulation#ex_8_18_2.sce#2207/CH8/EX8.18.2/ex_8_18_2.sce#S##92676
+8#Control of DC drivers#8.18.1#No load speed  firing angle  Power Factor and speed regulation#ex_8_18_1.sce#2207/CH8/EX8.18.1/ex_8_18_1.sce#S##92679
+8#Control of DC drivers#8.12.6#draw characterstics#ex_8_12_6.sce#2207/CH8/EX8.12.6/ex_8_12_6.sce#S##76055
+8#Control of DC drivers#8.12.4#Motor torque#ex_8_12_4.sce#2207/CH8/EX8.12.4/ex_8_12_4.sce#S##92675
+8#Control of DC drivers#8.12.3#torque #ex_8_12_3.sce#2207/CH8/EX8.12.3/ex_8_12_3.sce#S##92674
+8#Control of DC drivers#8.12.2#the field current Evaluation of alfa Evaluation of power factor#ex_8_12_2.sce#2207/CH8/EX8.12.2/ex_8_12_2.sce#S##92672
+8#Control of DC drivers#8.12.1#back emf Required armature voltage and Rated armatuer current#ex_8_12_1.sce#2207/CH8/EX8.12.1/ex_8_12_1.sce#S##92671
+6#Choppers#6.9.2#chopping frequency and output voltage#ex_6_9_2.sce#2207/CH6/EX6.9.2/ex_6_9_2.sce#S##76042
+6#Choppers#6.9.1#output voltage#ex_6_9_1.sce#2207/CH6/EX6.9.1/ex_6_9_1.sce#S##76041
+6#Choppers#6.6.9#load current is continuous or not Average output current  maximum and minimum steady state output current and  RMS values of first and second harmonics of the load current#ex_6_6_9.sce#2207/CH6/EX6.6.9/ex_6_6_9.sce#S##92474
+6#Choppers#6.6.7#load inductance#ex_6_6_7.sce#2207/CH6/EX6.6.7/ex_6_6_7.sce#S##76035
+6#Choppers#6.6.6#minimum instantaneous load current peak instantaneous current and maximum peak to peak ripple#ex_6_6_6.sce#2207/CH6/EX6.6.6/ex_6_6_6.sce#S##92472
+6#Choppers#6.6.5#average armature current#ex_6_6_5.sce#2207/CH6/EX6.6.5/ex_6_6_5.sce#S##76031
+6#Choppers#6.6.11#value of current limiting resistor maximum and minimum duty cycle#ex_6_6_11.sce#2207/CH6/EX6.6.11/ex_6_6_11.sce#S##92476
+6#Choppers#6.5.7#average output voltage and average load current#ex_6_5_7.sce#2207/CH6/EX6.5.7/ex_6_5_7.sce#S##76030
+6#Choppers#6.5.6#Average output voltage RMS output voltage chopper efficiency and Effective input resistance#ex_6_5_6.sce#2207/CH6/EX6.5.6/ex_6_5_6.sce#S##92469
+6#Choppers#6.5.5#plot the variation#ex_6_5_5.sce#2207/CH6/EX6.5.5/ex_6_5_5.sce#S##81773
+6#Choppers#6.5.4#plot the variation#ex_6_5_4.sce#2207/CH6/EX6.5.4/ex_6_5_4.sce#S##80252
+6#Choppers#6.5.3#Duty Cycle Average Load voltage and RMS Load Voltage#ex_6_5_3.sce#2207/CH6/EX6.5.3/ex_6_5_3.sce#S##92465
+6#Choppers#6.5.2#chooper efficiency input resistance and average load curren#ex_6_5_2.sce#2207/CH6/EX6.5.2/ex_6_5_2.sce#S##92461
+6#Choppers#6.5.1#average load voltage RMS load voltage  Form factor and Ripple factor#ex_6_5_1.sce#2207/CH6/EX6.5.1/ex_6_5_1.sce#S##92456
+5#Inverters#5.3.1#frequency#ex_5_3_1.sce#2207/CH5/EX5.3.1/ex_5_3_1.sce#S##80247
+5#Inverters#5.12.4#compare performance#ex_5_12_4.sce#2207/CH5/EX5.12.4/ex_5_12_4.sce#S##76013
+5#Inverters#5.12.3#amplitude of the first three lower order harmonics#ex_5_12_3.sce#2207/CH5/EX5.12.3/ex_5_12_3.sce#S##76012
+5#Inverters#5.12.2#rms output voltage output power average and peak currents peak reverse blocking voltage THD DF harmonic factor and distortion factor of the lowest order harmonic#ex_5_12_2.sce#2207/CH5/EX5.12.2/ex_5_12_2.sce#S##92434
+5#Inverters#5.12.1#rms output voltage output power average and peak currents peak reverse blocking voltage THD DF harmonic factor and distortion factor of the lowest order harmonic#ex_5_12_1.sce#2207/CH5/EX5.12.1/ex_5_12_1.sce#S##92439
+4#Three phase controlled rectifiers#4.8.2#current#ex_4_8_2.sce#2207/CH4/EX4.8.2/ex_4_8_2.sce#S##80961
+3#Single phase controlled rectifiers#3.7.7#amplitude of the first three lower order harmonics#ex_3_7_7.sce#2207/CH3/EX3.7.7/ex_3_7_7.sce#S##75995
+3#Single phase controlled rectifiers#3.7.6#average output voltage supply rms current  supply fundamental current current displacement factor supply factor and supply harmonic factor#ex_3_7_6.sce#2207/CH3/EX3.7.6/ex_3_7_6.sce#S##92424
+3#Single phase controlled rectifiers#3.7.5#alpha#ex_3_7_5.sce#2207/CH3/EX3.7.5/ex_3_7_5.sce#S##92427
+3#Single phase controlled rectifiers#3.7.4#Vldc FPF and PF#ex_3_7_4.sce#2207/CH3/EX3.7.4/ex_3_7_4.sce#S##92420
+3#Single phase controlled rectifiers#3.7.3#amlitude of first four harmonic components#ex_3_7_3.sce#2207/CH3/EX3.7.3/ex_3_7_3.sce#S##75984
+3#Single phase controlled rectifiers#3.7.2#Vldc Vn Vlrms HF DF and PF#ex_3_7_2.sce#2207/CH3/EX3.7.2/ex_3_7_2.sce#S##75983
+3#Single phase controlled rectifiers#3.7.1#device rating#ex_3_7_1.sce#2207/CH3/EX3.7.1/ex_3_7_1.sce#S##80242
+3#Single phase controlled rectifiers#3.6.1#average load voltage rms load voltage average and rms load currents form factor and ripple factor#ex_3_6_1.sce#2207/CH3/EX3.6.1/ex_3_6_1.sce#S##92408
+3#Single phase controlled rectifiers#3.4.5#delay angle average output current average and rms thyristor current#ex_3_4_5.sce#2207/CH3/EX3.4.5/ex_3_4_5.sce#S##92419
+3#Single phase controlled rectifiers#3.4.1#plot the variation#ex_3_4_1.sce#2207/CH3/EX3.4.1/ex_3_4_1.sce#S##80222
+3#Single phase controlled rectifiers#3.3.1#form factor ripple factor transformation utilization factor and peak inverse voltage#ex_3_3_1.sce#2207/CH3/EX3.3.1/ex_3_3_1.sce#S##92414
+2#Gate triggering Circuits#2.7.9#series resistance#ex_2_7_9.sce#2207/CH2/EX2.7.9/ex_2_7_9.sce#S##80239
+2#Gate triggering Circuits#2.7.8#resistance and gate power dissipation and frequency#ex_2_7_8.sce#2207/CH2/EX2.7.8/ex_2_7_8.sce#S##92399
+2#Gate triggering Circuits#2.7.7#resistance#ex_2_7_7.sce#2207/CH2/EX2.7.7/ex_2_7_7.sce#S##80236
+2#Gate triggering Circuits#2.7.6#resistance and frequency#ex_2_7_6.sce#2207/CH2/EX2.7.6/ex_2_7_6.sce#S##80235
+2#Gate triggering Circuits#2.7.5#gate source resistance#ex_2_7_5.sce#2207/CH2/EX2.7.5/ex_2_7_5.sce#S##80234
+2#Gate triggering Circuits#2.7.4#resistance and duty cycle#ex_2_7_4.sce#2207/CH2/EX2.7.4/ex_2_7_4.sce#S##92395
+2#Gate triggering Circuits#2.7.3#minimum width of gate pulse#ex_2_7_3.sce#2207/CH2/EX2.7.3/ex_2_7_3.sce#S##80232
+2#Gate triggering Circuits#2.7.2#minimum width of gate pulse#ex_2_7_2.sce#2207/CH2/EX2.7.2/ex_2_7_2.sce#S##80231
+2#Gate triggering Circuits#2.7.13#design the triggering circuit#ex_2_7_13.sce#2207/CH2/EX2.7.13/ex_2_7_13.sce#S##80241
+2#Gate triggering Circuits#2.7.12#pulse width#ex_2_7_12.sce#2207/CH2/EX2.7.12/ex_2_7_12.sce#S##92400
+2#Gate triggering Circuits#2.7.11#trigger angle#ex_2_7_11.sce#2207/CH2/EX2.7.11/ex_2_7_11.sce#S##75578
+2#Gate triggering Circuits#2.7.10#design#ex_2_7_10.sce#2207/CH2/EX2.7.10/ex_2_7_10.sce#S##80240
+2#Gate triggering Circuits#2.7.1#load current#ex_2_7_1.sce#2207/CH2/EX2.7.1/ex_2_7_1.sce#S##75542
+2#Gate triggering Circuits#2.6.1#design the triggering circuit#ex_2_6_1.sce#2207/CH2/EX2.6.1/ex_2_6_1.sce#S##80230
+1#Thyristors#1.21.1#inductance and capacitance#ex_1_21_1.sce#2207/CH1/EX1.21.1/ex_1_21_1.sce#S##80229
+1#Thyristors#1.20.2#state thyristor current and circuit turn off time#ex_1_20_2.sce#2207/CH1/EX1.20.2/ex_1_20_2.sce#S##91515
+1#Thyristors#1.20.1#turn off time#ex_1_20_1.sce#2207/CH1/EX1.20.1/ex_1_20_1.sce#S##75535
+1#Thyristors#1.18.2#voltage of the capacitor#ex_1_18_2.sce#2207/CH1/EX1.18.2/ex_1_18_2.sce#S##80221
+1#Thyristors#1.18.1#voltage#ex_1_18_1.sce#2207/CH1/EX1.18.1/ex_1_18_1.sce#S##75534
+1#Thyristors#1.11.1#peak reverse recovery current#ex_1_11_1.sce#2207/CH1/EX1.11.1/ex_1_11_1.sce#S##75533

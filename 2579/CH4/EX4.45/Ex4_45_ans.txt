@@ -1,0 +1,3 @@
+ The directivity of the horn antenna = 17.066667 degree
+ The power gain = 10.240000
+ The power gain in dB = 10.103000 dB

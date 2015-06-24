@@ -1,0 +1,10 @@
+clear;
+clc;
+I_1=12;
+I_2=16;
+I_0=(I_1+I_2)/2;
+R=10;
+V_0=I_0*R;
+V_s=200;
+a=V_0/V_s;
+r=a/(1-a);    printf("time ratio(T_on/T_off)=%.3f",r);

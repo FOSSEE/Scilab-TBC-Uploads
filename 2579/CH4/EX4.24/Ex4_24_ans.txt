@@ -1,0 +1,6 @@
+ The angular aperture for aperture number 0.30 = 159.222284 degree
+ The angular aperture for aperture number 0.55 = 97.775819 degree
+ The angular aperture for aperture number 0.80 = 69.416099 degree
+ The position of focal point for aperture number 0.30 = 6.000000 meter
+ The position of focal point for aperture number 0.55 = 11.000000 meter
+ The position of focal point for aperture number 0.80 = 16.000000 meter 

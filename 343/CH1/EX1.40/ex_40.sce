@@ -1,0 +1,22 @@
+R1=6;              //Assigning values to parameters
+R2=8;
+R3=5;
+R4=10;
+R5=5;
+R6=10;
+R7=15;
+V=100;
+Rx=R3+R6+(R3*R6)/R4;      //Converting Star to Delta
+Ry=R4+R6+(R4*R6)/R3;
+Rz=R3+R4+(R3*R4)/R6;
+Ra=(R5*Rx)/(Rx+R5);
+Rb=(Ry*R7)/(Ry+R7);
+Rl=(R1*R2)/(R1+R2+Rz);    //Converting Delta to Star
+Rm=(R1*Rz)/(R1+R2+Rz);
+Rn=(R2*Rz)/(R1+R2+Rz);
+R8=Ra+Rm;
+R9=Rb+Rn;
+R10=(R8*R9)/(R8+R9);
+R=R10+Rl;
+I=V/R;
+disp("Amperes",I,"Current in the circuit");

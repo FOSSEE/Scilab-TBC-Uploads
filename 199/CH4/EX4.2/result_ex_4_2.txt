@@ -1,0 +1,1 @@
+* Max output offset voltage is = 0.110 V 

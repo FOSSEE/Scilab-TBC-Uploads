@@ -1,0 +1,5 @@
+ # PROBLEM 5 # 
+Standard formula used 
+  lambda_0 = lambda * (1 - (T / T_c)^4)^(1/2) 
+
+ Penetration depth at 0 K is 50.104991 nm.

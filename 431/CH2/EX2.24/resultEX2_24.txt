@@ -1,0 +1,4 @@
+Example 2.24   
+resistance when 1ohm=185.000000V
+Resistance when 5ohms connected in series=110.000000V
+speed at which motor will run when resistance is 5ohms=475.675676rpm 

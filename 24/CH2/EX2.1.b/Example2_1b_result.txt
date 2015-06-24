@@ -1,0 +1,2 @@
+**Sample Problem 2-1b**
+Time interval from the begining of the drive to the arrival at the station is 0.620000 hr 

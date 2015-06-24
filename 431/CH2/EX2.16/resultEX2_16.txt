@@ -1,0 +1,3 @@
+ Example 2.16   
+peripheral speed of commutator,V=23.864000m/sec
+Time of commutation=0.000629seconds 

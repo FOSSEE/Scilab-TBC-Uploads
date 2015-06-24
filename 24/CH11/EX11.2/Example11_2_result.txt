@@ -1,0 +1,5 @@
+**Sample Problem 11-2a**
+At time equal to -5.662149sec, the reference line will be at given position
+
+**Sample Problem 11-2c**
+At time equal to 13.731343sec, the disk momentarily stops 

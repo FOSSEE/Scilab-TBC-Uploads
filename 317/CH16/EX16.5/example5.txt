@@ -1,0 +1,4 @@
+decibal power gain for a voltage gain of 1 is 0 dB
+decibal power gain for a voltage gain of 0.5 is -3 dB
+decibal power gain for a voltage gain of 0.25 is -6 dB
+decibal power gain for a voltage gain of 0.125 is -9 dB

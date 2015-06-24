@@ -1,0 +1,1 @@
+﻿Separation of dark band on either side of the central maximum = 2.357200e-03 meter

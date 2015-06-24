@@ -1,0 +1,3 @@
+
+Example 3.4
+ Crystal spacing in angstrom is 2.151107e-08 cm. 

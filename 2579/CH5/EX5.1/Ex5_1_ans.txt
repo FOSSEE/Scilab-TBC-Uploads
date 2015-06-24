@@ -1,0 +1,2 @@
+ The field strength = 15.840000 mV/m
+ The distance at which the field strength reuces to 1 mV/meter = 39.799497*10^3 meter

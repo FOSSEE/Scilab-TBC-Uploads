@@ -1,0 +1,4 @@
+
+Minimum capacity of station required=315.83 kW 
+
+

@@ -1,0 +1,11 @@
+ (a)speed (in rpm) =   
+ 
+    864.  
+ 
+ (b)Torque (in N-m)=   
+ 
+    61.12  
+ 
+ (c)Efficiency (in %)=   
+ 
+    78.826667 

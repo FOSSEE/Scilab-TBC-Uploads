@@ -1,0 +1,16 @@
+
+ example 20.1   
+(a)
+economic power factor 0.927lagging 
+(b) 
+capacitor kVAr to improve the power factor 0.3979 
+(c) 
+initial kVA 1282.05KVA 
+annual energy used 7.008e+009kWh 
+electrical bill Rs2.452826e+010 per year
+(d)
+KVA after installation of capacitors 1078.75KVA 
+energy bill after installation of capacitor Rs2.452822e+010 per year 
+annual interest and depreciation of capacitor bank Rs29842.5per year 
+total expendition after installation of capacitors Rs2.452825e+010 per year 
+ annual savings due to installation of capacitors Rs10817 per year 

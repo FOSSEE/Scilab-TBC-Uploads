@@ -1,0 +1,21 @@
+//to determine value of minimum ultimate strength
+s=%s
+sigma1=300
+sigma2=-150
+sigmay=0.55*s
+sigmae=0.5*s
+FS=2
+sigmam=(sigma1+sigma2)/2
+sigmav=(sigma1-sigma2)/2
+disp(sigmam,"Mean stress=")
+disp(sigmav,"Variable stress=")
+p=s^2-900*s-22500
+sigmau=roots(p)
+sigmau1=924.35
+disp(sigmau1,"Minimum ultimate strength according to gerber equation=")
+0=(sigmam/s)+(sigmay/sigmae)-(1/FS)//Modified Goodman relation
+sigmau=2*525
+disp(sigmau,"Minimum ultimate strength according to Modified Goodman Relation is=")
+0=(sigmam/sigmay)+(sigmav/sigmae)-(1/FS)//Soderberg equation
+sigmau=2*586.36
+disp(sigmau,"Minimum ultimate strength according to Soderberg equation=")

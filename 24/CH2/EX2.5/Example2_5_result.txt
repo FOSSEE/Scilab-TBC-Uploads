@@ -1,0 +1,5 @@
+**Sample Problem 2-5a
+The acceleration is equal to -1.578283 m/sec^2
+
+**Sample Problem 2-5a**
+The time taken to decrease the speed is 3.520000 sec

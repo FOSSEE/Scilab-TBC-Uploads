@@ -1,0 +1,2 @@
+Rs = 6.0e+002 ohms
+Rd = 6.07e+003 ohms 

@@ -1,0 +1,5 @@
+ # Problem 14c # 
+
+ Standard formula used 
+ E = m*c^2
+ Ratio of energy to rest mass energy is 1.975309e+03.

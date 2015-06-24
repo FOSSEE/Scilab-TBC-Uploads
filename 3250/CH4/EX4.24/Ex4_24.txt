@@ -1,0 +1,5 @@
+
+ # PROBLEM 4.24 # 
+ 
+ Maximum height of uneveness in first tool case = 0.014332 mm,
+ In second tool case = 0.002790 mm 

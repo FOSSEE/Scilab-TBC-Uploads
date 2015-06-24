@@ -1,0 +1,3 @@
+//Example 5.22
+clc
+disp("The Fig. 5.45 shows the construction of 5 to 32 decoder using four 74LS138s and half 74LS139. The half section of 74LS139 IC used as a 2 to 4 decoder to decode the two higher order inputs, D and E. The four outputs of this decoder are used to enable one of the four 3 to 8 decoders. The three lower inputs A, B and C are connected in  parallel to four 3 to 8 decoders. This means that the same output pin of each of the four 3 to 8 decoders is selected but only one is enable. The remaining enables signals of four 3 to 8 decoders ICs are connected in parallel to construct enable signals for 5 to 32 decoder.")

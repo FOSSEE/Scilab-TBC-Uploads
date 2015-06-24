@@ -1,0 +1,9 @@
+(i)Voltage across top unit = 5.52 kV 
+
+   Voltage across middle unit = 6.13 kV 
+
+   Voltage across bottom unit = 7.41 kV 
+
+(ii) String efficiency = 85.74 % 
+
+

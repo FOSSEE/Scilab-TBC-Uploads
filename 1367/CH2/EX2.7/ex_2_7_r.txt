@@ -1,0 +1,4 @@
+Minimum Uncertainity in Position (in m) =    
+ 
+    0.0000001  
+ 

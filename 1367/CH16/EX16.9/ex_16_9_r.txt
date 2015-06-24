@@ -1,0 +1,4 @@
+  
+ current density (in A/m^2) =    
+ 
+    1.710D+08

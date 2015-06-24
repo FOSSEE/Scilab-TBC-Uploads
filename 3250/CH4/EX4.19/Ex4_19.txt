@@ -1,0 +1,3 @@
+ # PROBLEM 4.19 # 
+ 
+ Peak broaching load = 22323 N. 

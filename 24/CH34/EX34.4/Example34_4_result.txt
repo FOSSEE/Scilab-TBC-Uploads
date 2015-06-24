@@ -1,0 +1,6 @@
+**Sample Problem 34-4a**
+The angle of reflection is 40.00degrees
+The angle of refraction is 28.88degrees
+
+**Sample Problem 34-4b**
+The final angle of refraction is 58.75degrees 

@@ -1,0 +1,27 @@
+                          //EXAMPLE 2-67      PG NO-108-109
+Z1=5;
+V=100+%i*200;
+I1=16;                      //CURRENT
+P1=I1*I1*Z1;
+disp('i)  POWER (P1) is    =  '+string (P1) +' W ');
+P2=5000-P1;
+disp('ii)  POWER (P2) is    =  '+string (P2) +' W ');
+Q1=-69.02;
+cos(-69.02)=0.35;
+Z2=Z1/0.358;
+disp('iii)  IMPEDANCE (Z2) is  in polar form   =  '+string (Z2) +'  ohms ');
+X1=Z2*-0.933;
+disp('i)   (X1) is  in polar form   =  '+string (X1) +'  ohms ');
+Z3=5-%i*13.04;
+I1=V/Z3;
+disp('ii)  CURRENT (I1) is  in polar form  =  '+string (I1) +' A ');
+P3=3720;
+I2=P3/(223.6*0.8);
+disp('ii)  CURRENT (I2) is  in polar form  =  '+string (I2) +' A ');
+z2=8.6+%i*6.45;
+I3=V/z2;
+disp('ii)  CURRENT (I3) is  in polar form  =  '+string (I3) +' A ');
+I=I1+I3;
+disp('ii)  CURRENT (I) is  in polar form  =  '+string (I) +' A ');
+Z=V/I;
+disp('iii)  IMPEDANCE (Z) is  in polar form   =  '+string (Z) +'  ohms ')

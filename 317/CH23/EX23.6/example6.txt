@@ -1,0 +1,3 @@
+Minimum trigger voltage is 4 Volts
+Maximum capacitor voltage is 8 Volts
+Pulse width is 17.1 mSeconds

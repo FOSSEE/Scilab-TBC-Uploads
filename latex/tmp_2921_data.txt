@@ -1,0 +1,83 @@
+20#Ball and Roller Bearings#20.4#Life of 6200 Series Bearing#Ex20_4.sce#2921/CH20/EX20.4/Ex20_4.sce#S##107373
+20#Ball and Roller Bearings#20.3#Selection of Bearing to Meet Given Criteria#Ex20_3.sce#2921/CH20/EX20.3/Ex20_3.sce#S##107372
+20#Ball and Roller Bearings#20.2#Selection of Bearing to Meet Given Criteria#Ex20_2.sce#2921/CH20/EX20.2/Ex20_2.sce#S##107371
+20#Ball and Roller Bearings#20.1#Life Expectancy of Ball Bearing#Ex20_1.sce#2921/CH20/EX20.1/Ex20_1.sce#S##107370
+19#Plain Surface Bearings#19.2#Wear#Ex19_2.sce#2921/CH19/EX19.2/Ex19_2.sce#S##107369
+19#Plain Surface Bearings#19.1#Shaft Considerations#Ex19_1.sce#2921/CH19/EX19.1/Ex19_1.sce#S##107368
+18#Power Screws and Ball Screws#18.4#Torque and Ball Screws#Ex18_4.sce#2921/CH18/EX18.4/Ex18_4.sce#S##107367
+18#Power Screws and Ball Screws#18.3#Acme Threads#Ex18_3.sce#2921/CH18/EX18.3/Ex18_3.sce#S##107366
+18#Power Screws and Ball Screws#18.2#Efficiency of a Power Screw#Ex18_2.sce#2921/CH18/EX18.2/Ex18_2.sce#S##107365
+18#Power Screws and Ball Screws#18.1#Torque and Power in Power Screw#Ex18_1.sce#2921/CH18/EX18.1/Ex18_1.sce#S##107364
+17#Shaft Design#17.5#Critical Speed#Ex17_5.sce#2921/CH17/EX17.5/Ex17_5.sce#S##107361
+17#Shaft Design#17.4#Comparison of Stresses to Allowable Values and Endurance Limit#Ex17_4.sce#2921/CH17/EX17.4/Ex17_4.sce#S##107360
+17#Shaft Design#17.3#Combined Stress Using Maximum Normal Stress Theory#Ex17_3.sce#2921/CH17/EX17.3/Ex17_3.sce#S##107357
+17#Shaft Design#17.2#Combined Stresses in Shaft#Ex17_2.sce#2921/CH17/EX17.2/Ex17_2.sce#S##107306
+17#Shaft Design#17.1#Design Stresses in Shaft#Ex17_1.sce#2921/CH17/EX17.1/Ex17_1.sce#S##107305
+16#Clutches and Brakes#16.5#Rotational Inertia and Brake Power#Ex16_5.sce#2921/CH16/EX16.5/Ex16_5.sce#S##107304
+16#Clutches and Brakes#16.4#Calculation of Stopping Force Torque per Brake Normal Brake Force etc#Ex16_4.sce#2921/CH16/EX16.4/Ex16_4.sce#S##107303
+16#Clutches and Brakes#16.3#Torque Transmitting Capacity#Ex16_3.sce#2921/CH16/EX16.3/Ex16_3.sce#S##107302
+16#Clutches and Brakes#16.2#Determination of Breaking Torque#Ex16_2.sce#2921/CH16/EX16.2/Ex16_2.sce#S##107301
+16#Clutches and Brakes#16.1#Calculation of Torque and Power#Ex16_1.sce#2921/CH16/EX16.1/Ex16_1.sce#S##107300
+15#Keys and Couplings#15.2#Splines#Ex15_2.sce#2921/CH15/EX15.2/Ex15_2.sce#S##107299
+15#Keys and Couplings#15.1#Design of Keys#Ex15_1.sce#2921/CH15/EX15.1/Ex15_1.sce#S##107298
+14#Belt and Chain Drives#14.4#Chain Drive#Ex14_4.sce#2921/CH14/EX14.4/Ex14_4.sce#S##107297
+14#Belt and Chain Drives#14.3#V Belts#Ex14_3.sce#2921/CH14/EX14.3/Ex14_3.sce#S##107296
+14#Belt and Chain Drives#14.2#Calculation of Angle of Contact Length of Belt Ratio and Surface Speed etc#Ex14_2.sce#2921/CH14/EX14.2/Ex14_2.sce#S##107295
+14#Belt and Chain Drives#14.1#Calculation of Front Force Net Driving Force Force on Shaft etc#Ex14_1.sce#2921/CH14/EX14.1/Ex14_1.sce#S##107294
+13#Helical Bevel and Worm Gears#13.7#Heat Generated#Ex13_7.sce#2921/CH13/EX13.7/Ex13_7.sce#S##107293
+13#Helical Bevel and Worm Gears#13.6#Efficiency of Worm Gear Drive#Ex13_6.sce#2921/CH13/EX13.6/Ex13_6.sce#S##107292
+13#Helical Bevel and Worm Gears#13.5#Calculation of Normal Circular Pitch Dynamic Load Force Allowable#Ex13_5.sce#2921/CH13/EX13.5/Ex13_5.sce#S##107291
+13#Helical Bevel and Worm Gears#13.4#Worm Gear Forces#Ex13_4.sce#2921/CH13/EX13.4/Ex13_4.sce#S##107290
+13#Helical Bevel and Worm Gears#13.3#Bevel Gear Forces#Ex13_3.sce#2921/CH13/EX13.3/Ex13_3.sce#S##107289
+13#Helical Bevel and Worm Gears#13.2#Helical Gear Stresses#Ex13_2.sce#2921/CH13/EX13.2/Ex13_2.sce#S##107288
+13#Helical Bevel and Worm Gears#13.1#Helical Gears#Ex13_1.sce#2921/CH13/EX13.1/Ex13_1.sce#S##107287
+12#Spur Gear Design and Selection#12.8#Wear of Gears#Ex12_8.sce#2921/CH12/EX12.8/Ex12_8.sce#S##107286
+12#Spur Gear Design and Selection#12.7#Buckingham Method of Gear Design#Ex12_7.sce#2921/CH12/EX12.7/Ex12_7.sce#S##107285
+12#Spur Gear Design and Selection#12.6#Spur Gear Design#Ex12_6.sce#2921/CH12/EX12.6/Ex12_6.sce#S##107284
+12#Spur Gear Design and Selection#12.5#Calculation of Factor of Safety Used in Catalog#Ex12_5.sce#2921/CH12/EX12.5/Ex12_5.sce#S##107283
+12#Spur Gear Design and Selection#12.4#Dynamic Load#Ex12_4.sce#2921/CH12/EX12.4/Ex12_4.sce#S##107282
+12#Spur Gear Design and Selection#12.3#Strength of Gear Teeth#Ex12_3.sce#2921/CH12/EX12.3/Ex12_3.sce#S##107281
+12#Spur Gear Design and Selection#12.2#Surface Speed#Ex12_2.sce#2921/CH12/EX12.2/Ex12_2.sce#S##107280
+12#Spur Gear Design and Selection#12.1#Forces on Spur Gear Teeth#Ex12_1.sce#2921/CH12/EX12.1/Ex12_1.sce#S##107279
+11#Gear Design#11.6#Precision Spur Gears#Ex11_6.sce#2921/CH11/EX11.6/Ex11_6.sce#S##107278
+11#Gear Design#11.5#Calculation of Gear Train Value Input and Output Torque and Speed#Ex11_5.sce#2921/CH11/EX11.5/Ex11_5.sce#S##107277
+11#Gear Design#11.4#Bevel Gear#Ex11_4.sce#2921/CH11/EX11.4/Ex11_4.sce#S##107276
+11#Gear Design#11.3#Calculation of Pitch Diameter Circular Pitch and Shaft Centre to Centre Distance #Ex11_3.sce#2921/CH11/EX11.3/Ex11_3.sce#S##107275
+11#Gear Design#11.2#Double Reduction Spur Gear Set with Idler#Ex11_2.sce#2921/CH11/EX11.2/Ex11_2.sce#S##107274
+11#Gear Design#11.1#Double Reduction Spur Gear Set#Ex11_1.sce#2921/CH11/EX11.1/Ex11_1.sce#S##107273
+10#Pneumatic and Hydraulic Drives#10.2#Pneumatic Pop Rivet Gun#Ex10_2.sce#2921/CH10/EX10.2/Ex10_2.sce#S##107272
+10#Pneumatic and Hydraulic Drives#10.1#Calculation of Hydraulic Cylinder Diameter and Standard Rod Size#Ex10_1.sce#2921/CH10/EX10.1/Ex10_1.sce#S##107271
+8#Spring Design#8.6#Energy from Deflection#Ex8_6.sce#2921/CH8/EX8.6/Ex8_6.sce#S##107270
+8#Spring Design#8.5#Flat Springs#Ex8_5.sce#2921/CH8/EX8.5/Ex8_5.sce#S##114104
+8#Spring Design#8.4#Deflection of Spring#Ex8_4.sce#2921/CH8/EX8.4/Ex8_4.sce#S##107268
+8#Spring Design#8.3#Stability of Spring#Ex8_3.sce#2921/CH8/EX8.3/Ex8_3.sce#S##107267
+8#Spring Design#8.2# Determination of number of coils#Ex8_2.sce#2921/CH8/EX8.2/Ex8_2.sce#S##114103
+8#Spring Design#8.1#Design of Helical Compression Spring#Ex8_1.sce#2921/CH8/EX8.1/Ex8_1.sce#S##107265
+7#Impact and Energy Analysis#7.4#Designing for Impact#Ex7_4.sce#2921/CH7/EX7.4/Ex7_4.sce#S##107264
+7#Impact and Energy Analysis#7.3#Impact on Beam#Ex7_3.sce#2921/CH7/EX7.3/Ex7_3.sce#S##107263
+7#Impact and Energy Analysis#7.2#Velocity and Impact#Ex7_2.sce#2921/CH7/EX7.2/Ex7_2.sce#S##107262
+7#Impact and Energy Analysis#7.1#Impact Energy#Ex7_1.sce#2921/CH7/EX7.1/Ex7_1.sce#S##107261
+6#Fasteners and Fastening Methods#6.4#Elastic Analysis of Bolted Connections#Ex6_4.sce#2921/CH6/EX6.4/Ex6_4.sce#S##107260
+6#Fasteners and Fastening Methods#6.3#Elastic Analysis of Bolted Connections#Ex6_3.sce#2921/CH6/EX6.3/Ex6_3.sce#S##107259
+6#Fasteners and Fastening Methods#6.2#Turn of Nut Method#Ex6_2.sce#2921/CH6/EX6.2/Ex6_2.sce#S##107258
+6#Fasteners and Fastening Methods#6.1#Torquing Method#Ex6_1.sce#2921/CH6/EX6.1/Ex6_1.sce#S##107257
+5#Repeated Loading#5.6#Factor of Safety for Design when Desired Life is known#Ex5_6.sce#2921/CH5/EX5.6/Ex5_6.sce#S##107256
+5#Repeated Loading#5.5#Factor of Safety for Design with Stress Concentration Factor#Ex5_5.sce#2921/CH5/EX5.5/Ex5_5.sce#S##107255
+5#Repeated Loading#5.4#Design of Water Pump Connecting Rod#Ex5_4.sce#2921/CH5/EX5.4/Ex5_4.sce#S##107254
+5#Repeated Loading#5.3#Design of a Cantilever Beam using the Modified Goodman Method#Ex5_3.sce#2921/CH5/EX5.3/Ex5_3.sce#S##107253
+5#Repeated Loading#5.2#Design of a Cantilever Beam using the Soderberg Method#Ex5_2.sce#2921/CH5/EX5.2/Ex5_2.sce#S##107252
+5#Repeated Loading#5.1#Design of a Shaft using the Soderberg Method#Ex5_1.sce#2921/CH5/EX5.1/Ex5_1.sce#S##107251
+4#Combined Stress and Failure Theories#4.4#Combined Normal and Shear Stress#Ex4_4.sce#2921/CH4/EX4.4/Ex4_4.sce#S##107249
+4#Combined Stress and Failure Theories#4.3#Combined Torsion and Shear#Ex4_3.sce#2921/CH4/EX4.3/Ex4_3.sce#S##107248
+4#Combined Stress and Failure Theories#4.2#Coplanar Shear#Ex4_2.sce#2921/CH4/EX4.2/Ex4_2.sce#S##107247
+4#Combined Stress and Failure Theories#4.1#Design of Short Column with Eccentric Load#Ex4_1.sce#2921/CH4/EX4.1/Ex4_1.sce#S##107246
+3#Stress and Deformation#3.6#Critical Load in Fixed End Column#Ex3_6.sce#2921/CH3/EX3.6/Ex3_6.sce#S##107245
+3#Stress and Deformation#3.5#Critical Load in Pinned End Column#Ex3_5.sce#2921/CH3/EX3.5/Ex3_5.sce#S##107244
+3#Stress and Deformation#3.4#Torsional Shear Stress#Ex3_4.sce#2921/CH3/EX3.4/Ex3_4.sce#S##107243
+3#Stress and Deformation#3.3#Shear Stress#Ex3_3.sce#2921/CH3/EX3.3/Ex3_3.sce#S##107242
+3#Stress and Deformation#3.2#Stress and Deflection due to Bending#Ex3_2.sce#2921/CH3/EX3.2/Ex3_2.sce#S##114101
+3#Stress and Deformation#3.1#Stress and Deflection under Compressive Axial Load#Ex3_1.sce#2921/CH3/EX3.1/Ex3_1.sce#S##114100
+2#Force Work and Power#2.3#Force Pressure Relationship#Ex2_3.sce#2921/CH2/EX2.3/Ex2_3.sce#S##107239
+2#Force Work and Power#2.2#Work and Power#Ex2_2.sce#2921/CH2/EX2.2/Ex2_2.sce#S##114102
+2#Force Work and Power#2.1#Torque#Ex2_1.sce#2921/CH2/EX2.1/Ex2_1.sce#S##107237
+1#What Is Mechanical Design#1.2#Sample Engineering Calculation#Ex1_2.sce#2921/CH1/EX1.2/Ex1_2.sce#S##114099

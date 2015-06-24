@@ -1,0 +1,2 @@
+8.volume resistance=666666666 ohm
+  surface leakage resistance=285714285 ohm 

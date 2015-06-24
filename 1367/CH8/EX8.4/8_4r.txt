@@ -1,0 +1,17 @@
+  
+ Maximum Stress Level (in MPa) =    
+ 
+    175.  
+ 
+ Minimum Stress Level (in MPa) =    
+ 
+  - 35.  
+ 
+ Stress Ratio =    
+ 
+  - 0.2  
+ 
+ Stress Range (in MPa) =    
+ 
+    210.  
+ 

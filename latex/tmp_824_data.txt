@@ -1,0 +1,100 @@
+14#Models for Nonideal Reactors#14.3#clear#14_3.sce#824/CH14/EX14.3/14_3.sce#S##31449
+13#Distributions of Residence Times for Chemical Reactions#13.9#clear#13_9.sce#824/CH13/EX13.9/13_9.sce#S##31448
+13#Distributions of Residence Times for Chemical Reactions#13.9#clear#13_9.sci#800/DEPENDENCIES/13_9.sci#D#data#930
+13#Distributions of Residence Times for Chemical Reactions#13.8#clear#13_8.sce#824/CH13/EX13.8/13_8.sce#S##31447
+13#Distributions of Residence Times for Chemical Reactions#13.8#clear#13_8.sci#800/DEPENDENCIES/13_8.sci#D#data#925
+11#External Diffusion Effects on Hetrogeneous Reactions#11.5#clear#11_5.sce#824/CH11/EX11.5/11_5.sce#S##31446
+11#External Diffusion Effects on Hetrogeneous Reactions#11.5#clear#11_5.sci#800/DEPENDENCIES/11_5.sci#D#data#929
+11#External Diffusion Effects on Hetrogeneous Reactions#11.4#clear#11_4.sce#824/CH11/EX11.4/11_4.sce#S##31445
+11#External Diffusion Effects on Hetrogeneous Reactions#11.4#clear#11_4.sci#800/DEPENDENCIES/11_4.sci#D#data#928
+11#External Diffusion Effects on Hetrogeneous Reactions#11.3#clear#11_3.sce#824/CH11/EX11.3/11_3.sce#S##31444
+11#External Diffusion Effects on Hetrogeneous Reactions#11.3#clear#11_3.sci#800/DEPENDENCIES/11_3.sci#D#data#927
+11#External Diffusion Effects on Hetrogeneous Reactions#11.1#clear#11_1.sce#824/CH11/EX11.1/11_1.sce#S##31443
+11#External Diffusion Effects on Hetrogeneous Reactions#11.1#clear#11_1.sci#800/DEPENDENCIES/11_1.sci#D#data#926
+10#Catalysis and Catalytic Reactors#13.8#clear#13_8.sci#824/CH10/EX13.8/13_8.sci#S##31442
+10#Catalysis and Catalytic Reactors#10.7#clear#10_7.sce#824/CH10/EX10.7/10_7.sce#S##31441
+10#Catalysis and Catalytic Reactors#10.7#clear#10_7.sci#800/DEPENDENCIES/10_7.sci#D#data#924
+10#Catalysis and Catalytic Reactors#10.5#clear#10_5.sce#824/CH10/EX10.5/10_5.sce#S##31440
+10#Catalysis and Catalytic Reactors#10.5#clear#10_5.sci#800/DEPENDENCIES/10_5.sci#D#data#923
+10#Catalysis and Catalytic Reactors#10.3#clear#10_3.sce#824/CH10/EX10.3/10_3.sce#S##31439
+10#Catalysis and Catalytic Reactors#10.3#clear#10_3.sci#800/DEPENDENCIES/10_3.sci#D#data#922
+9#Unsteady State Nonisothermal Reactor Design#9.8#clear#9_8.sce#824/CH9/EX9.8/9_8.sce#S##31438
+9#Unsteady State Nonisothermal Reactor Design#9.8#clear#9_8.sci#800/DEPENDENCIES/9_8.sci#D#data#921
+9#Unsteady State Nonisothermal Reactor Design#9.4#clear#9_4.sce#824/CH9/EX9.4/9_4.sce#S##31437
+9#Unsteady State Nonisothermal Reactor Design#9.4#clear#9_4.sci#800/DEPENDENCIES/9_4.sci#D#data#920
+9#Unsteady State Nonisothermal Reactor Design#9.3#clear#9_3.sce#824/CH9/EX9.3/9_3.sce#S##31436
+9#Unsteady State Nonisothermal Reactor Design#9.3#clear#9_3.sci#800/DEPENDENCIES/9_3.sci#D#data#919
+9#Unsteady State Nonisothermal Reactor Design#9.2#clear#9_2.sce#824/CH9/EX9.2/9_2.sce#S##31435
+9#Unsteady State Nonisothermal Reactor Design#9.2#clear#9_2.sci#800/DEPENDENCIES/9_2.sci#D#data#918
+9#Unsteady State Nonisothermal Reactor Design#9.1#clear#9_1.sce#824/CH9/EX9.1/9_1.sce#S##31434
+9#Unsteady State Nonisothermal Reactor Design#9.1#clear#9_1.sci#800/DEPENDENCIES/9_1.sci#D#data#917
+8#Steady State Nonisothermal Reactor Design#8.9#clear#8_9.sce#824/CH8/EX8.9/8_9.sce#S##31430
+8#Steady State Nonisothermal Reactor Design#8.7#clear#8_8.sce#824/CH8/EX8.7/8_8.sce#S##31429
+8#Steady State Nonisothermal Reactor Design#8.7#clear#8_8.sci#800/DEPENDENCIES/8_8.sci#D#data#915
+8#Steady State Nonisothermal Reactor Design#8.6#clear#8_6.sce#824/CH8/EX8.6/8_6.sce#S##31428
+8#Steady State Nonisothermal Reactor Design#8.6#clear#8_6.sci#800/DEPENDENCIES/8_6.sci#D#data#913
+8#Steady State Nonisothermal Reactor Design#8.4#clear#8_4.sce#824/CH8/EX8.4/8_4.sce#S##31427
+8#Steady State Nonisothermal Reactor Design#8.4#clear#8_4.sci#800/DEPENDENCIES/8_4.sci#D#data#912
+8#Steady State Nonisothermal Reactor Design#8.3#clear#8_3.sce#824/CH8/EX8.3/8_3.sce#S##31426
+8#Steady State Nonisothermal Reactor Design#8.3#clear#8_3.sci#800/DEPENDENCIES/8_3.sci#D#data#911
+8#Steady State Nonisothermal Reactor Design#8.12#clear#8_12.sce#824/CH8/EX8.12/8_12.sce#S##31433
+8#Steady State Nonisothermal Reactor Design#8.12#clear#8_12.sci#800/DEPENDENCIES/8_12.sci#D#data#916
+8#Steady State Nonisothermal Reactor Design#8.11#clear#8_11.sce#824/CH8/EX8.11/8_11.sce#S##31432
+8#Steady State Nonisothermal Reactor Design#8.11#clear#8__11.sci#800/DEPENDENCIES/8__11.sci#D#data#939
+8#Steady State Nonisothermal Reactor Design#8.10#clear#8_10.sce#824/CH8/EX8.10/8_10.sce#S##31431
+7#Nonelementary Reaction Kinetics#7.9#clear#7_9.sce#824/CH7/EX7.9/7_9.sce#S##31425
+7#Nonelementary Reaction Kinetics#7.9#clear#7_9.sci#800/DEPENDENCIES/7_9.sci#D#data#910
+7#Nonelementary Reaction Kinetics#7.8#clear#7_8.sce#824/CH7/EX7.8/7_8.sce#S##31424
+7#Nonelementary Reaction Kinetics#7.8#clear#7_8.sci#800/DEPENDENCIES/7_8.sci#D#data#909
+7#Nonelementary Reaction Kinetics#7.7#clear#7_7.sce#824/CH7/EX7.7/7_7.sce#S##31423
+7#Nonelementary Reaction Kinetics#7.7#clear#7_7.sci#800/DEPENDENCIES/7_7.sci#D#data#908
+6#Multiple Reactions#6.8#clear#6_8.sce#824/CH6/EX6.8/6_8.sce#S##31422
+6#Multiple Reactions#6.8#clear#6_8.sci#800/DEPENDENCIES/6_8.sci#D#data#907
+6#Multiple Reactions#6.6#clear#6_6.sce#824/CH6/EX6.6/6_6.sce#S##31421
+6#Multiple Reactions#6.6#clear#6_6.sci#800/DEPENDENCIES/6_6.sci#D#data#906
+5#Collection and Analysis of Rate Data#5.4#clear#5_4.sce#824/CH5/EX5.4/5_4.sce#S##31420
+5#Collection and Analysis of Rate Data#5.4#clear#4__4.sci#800/DEPENDENCIES/4__4.sci#D#data#938
+5#Collection and Analysis of Rate Data#5.4#clear#5_4.sci#800/DEPENDENCIES/5_4.sci#D#data#905
+5#Collection and Analysis of Rate Data#5.3#clear#5_3.sce#824/CH5/EX5.3/5_3.sce#S##31419
+5#Collection and Analysis of Rate Data#5.3#clear#5_3.sci#800/DEPENDENCIES/5_3.sci#D#data#904
+5#Collection and Analysis of Rate Data#5.2#clear#5_2.sce#824/CH5/EX5.2/5_2.sce#S##31418
+5#Collection and Analysis of Rate Data#5.2#clear#5_2.sci#800/DEPENDENCIES/5_2.sci#D#data#903
+5#Collection and Analysis of Rate Data#5.1#clear#5_1.sce#824/CH5/EX5.1/5_1.sce#S##31417
+4#Isothermal Reactor Design#4.9#clear#4_9.sce#824/CH4/EX4.9/4_9.sce#S##31414
+4#Isothermal Reactor Design#4.9#clear#4_9.sci#800/DEPENDENCIES/4_9.sci#D#data#902
+4#Isothermal Reactor Design#4.8#clear#4_8.sce#824/CH4/EX4.8/4_8.sce#S##31413
+4#Isothermal Reactor Design#4.8#clear#4_8.sci#800/DEPENDENCIES/4_8.sci#D#data#901
+4#Isothermal Reactor Design#4.7#clear#4_7.sce#824/CH4/EX4.7/4_7.sce#S##31411
+4#Isothermal Reactor Design#4.7#clear#4_7.sci#800/DEPENDENCIES/4_7.sci#D#data#900
+4#Isothermal Reactor Design#4.6#clear#4_6.sce#824/CH4/EX4.6/4_6.sce#S##31412
+4#Isothermal Reactor Design#4.6#clear#4_6.sci#800/DEPENDENCIES/4_6.sci#D#data#899
+4#Isothermal Reactor Design#4.5#clear#4_5.sce#824/CH4/EX4.5/4_5.sce#S##31410
+4#Isothermal Reactor Design#4.5#clear#4_5.sci#800/DEPENDENCIES/4_5.sci#D#data#898
+4#Isothermal Reactor Design#4.4#clear#4_4.sce#824/CH4/EX4.4/4_4.sce#S##31409
+4#Isothermal Reactor Design#4.4#clear#4_4.sci#800/DEPENDENCIES/4_4.sci#D#data#897
+4#Isothermal Reactor Design#4.2#clear#4_2.sce#824/CH4/EX4.2/4_2.sce#S##31408
+4#Isothermal Reactor Design#4.2#clear#4_2.sci#800/DEPENDENCIES/4_2.sci#D#data#896
+4#Isothermal Reactor Design#4.11#clear#4_11.sce#824/CH4/EX4.11/4_11.sce#S##31416
+4#Isothermal Reactor Design#4.11#clear#4__11.sci#800/DEPENDENCIES/4__11.sci#D#data#937
+4#Isothermal Reactor Design#4.10#clear#4_10.sce#824/CH4/EX4.10/4_10.sce#S##31415
+4#Isothermal Reactor Design#4.10#clear#4__10.sci#800/DEPENDENCIES/4__10.sci#D#data#936
+4#Isothermal Reactor Design#4.1#clear#4_1.sce#824/CH4/EX4.1/4_1.sce#S##31407
+4#Isothermal Reactor Design#4.1#clear#4_1.sci#800/DEPENDENCIES/4_1.sci#D#data#895
+3#Rate Laws and Stoichiometry#3.5#clear#3_5.sce#824/CH3/EX3.5/3_5.sce#S##31406
+3#Rate Laws and Stoichiometry#3.5#clear#3_5.sci#800/DEPENDENCIES/3_5.sci#D#data#894
+2#Conversion and Reactor Sizing#2.7#clear#2_7.sce#824/CH2/EX2.7/2_7.sce#S##31405
+2#Conversion and Reactor Sizing#2.7#clear#2_7.sci#800/DEPENDENCIES/2_7.sci#D#data#893
+2#Conversion and Reactor Sizing#2.6#clear#2_6.sci#824/CH2/EX2.6/2_6.sci#S##31404
+2#Conversion and Reactor Sizing#2.6#clear#2_6.sce#800/DEPENDENCIES/2_6.sce#D#data#892
+2#Conversion and Reactor Sizing#2.5#clear#2_5.sce#824/CH2/EX2.5/2_5.sce#S##31403
+2#Conversion and Reactor Sizing#2.5#clear#2_5.sci#800/DEPENDENCIES/2_5.sci#D#data#891
+2#Conversion and Reactor Sizing#2.4#clear#2_4.sce#824/CH2/EX2.4/2_4.sce#S##31401
+2#Conversion and Reactor Sizing#2.4#clear#2_4.sci#800/DEPENDENCIES/2_4.sci#D#data#890
+2#Conversion and Reactor Sizing#2.3#clear#2_3.sce#824/CH2/EX2.3/2_3.sce#S##31400
+2#Conversion and Reactor Sizing#2.3#clear#2_3.sci#800/DEPENDENCIES/2_3.sci#D#data#889
+2#Conversion and Reactor Sizing#2.2#clear#2_2.sce#824/CH2/EX2.2/2_2.sce#S##31399
+2#Conversion and Reactor Sizing#2.2#clear#2_2.sci#800/DEPENDENCIES/2_2.sci#D#data#888
+2#Conversion and Reactor Sizing#2.1#clear#2_1.sce#824/CH2/EX2.1/2_1.sce#S##31398
+2#Conversion and Reactor Sizing#2.1#clear#2_1.sci#800/DEPENDENCIES/2_1.sci#D#data#887
+1#Mole Balances#1.3#clear#1_3.sce#824/CH1/EX1.3/1_3.sce#S##31397
+1#Mole Balances#1.3#clear#10_3.sci#800/DEPENDENCIES/10_3.sci#D#data#922

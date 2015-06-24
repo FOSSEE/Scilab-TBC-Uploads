@@ -1,0 +1,2 @@
+Minimum frequency of osscillation is 158 Hertz
+Maximum frequency of osscillation is 15.9 KHertz

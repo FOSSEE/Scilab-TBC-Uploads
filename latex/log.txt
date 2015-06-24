@@ -1,0 +1,85 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6)
+ %&-line parsing enabled.
+entering extended mode
+(./TEX_final.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+
+(/usr/share/texmf/tex/latex/base/report.cls
+Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size12.clo))
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty)
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf/tex/latex/tools/theorem.sty
+(/usr/share/texmf/tex/latex/tools/thp.sty))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+(/usr/share/texmf/tex/latex/graphics/trig.sty)
+(/usr/share/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf/tex/latex/listings/listings.sty
+(/usr/share/texmf/tex/latex/listings/lstpatch.sty)
+(/usr/share/texmf/tex/latex/listings/lstmisc.sty)
+(/usr/share/texmf/tex/latex/listings/listings.cfg))
+(/usr/share/texmf/tex/latex/base/alltt.sty)
+(/usr/share/texmf/tex/latex/listings/lstlang1.sty)
+No file TEX_final.aux.
+(/usr/share/texmf/tex/latex/graphics/color.sty
+(/usr/share/texmf/tex/latex/config/color.cfg))
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty)) [1{/usr/share/texmf/fonts/m
+ap/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): destination with the same i
+dentifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.75 \newpage
+              [1] [2] [3] [4]
+Chapter 1.
+(../2075/CH1/EX1.1/pe1_1.sce) (../2075/CH1/EX1.2/pe1_2.sce [5])
+(../2075/CH1/EX1.3/pe1_3.sce) [6] (../2075/CH1/EX1.4/pe1_4.sce)
+(../2075/CH1/EX1.5/pe1_5.sce [7]) (../2075/CH1/EX1.6a/pe1_6a.sce [8])
+(../2075/CH1/EX1.6b/pe1_6b.sce [9]) (../2075/CH1/EX1.7/pe1_7.sce) [10]
+(../2075/CH1/EX1.9/pe1_9.sce) (../2075/CH1/EX1.11/pe1_11.sce [11]) [12]
+Chapter 2.
+(../2075/CH2/EX2.9/pe2_9.sce) [13]
+Chapter 3.
+(../2075/CH3/EX3.1/pe3_1.sce) (../2075/CH3/EX3.2/pe3_2.sce [14]
+(/usr/share/texmf/tex/latex/base/omlcmr.fd)) (../2075/CH3/EX3.3/pe3_3.sce)
+(../2075/CH3/EX3.4/pe3_4.sce [15]) (../2075/CH3/EX3.5/pe3_5.sce)
+(../2075/CH3/EX3.6/pe3_6.sce [16]) (../2075/CH3/EX3.7/pe3_7.sce)
+(../2075/CH3/EX3.8/pe3_8.sce [17]) (../2075/CH3/EX3.9/pe3_9.sce)
+(../2075/CH3/EX3.10/pe3_10.sce [18]) (../2075/CH3/EX3.11/pe3_11.sce) [19]
+Chapter 4.
+(../2075/CH4/EX4.1/pe4_1.sce) (../2075/CH4/EX4.2/pe4_2.sce [20])
+(../2075/CH4/EX4.3/pe4_3.sce) [21] (../2075/CH4/EX4.4/pe4_4.sce
+(/usr/share/texmf/tex/latex/base/omscmr.fd)) [22] (../2075/CH4/EX4.5/pe4_5.sce)
+ (../2075/CH4/EX4.6/pe4_6.sce [23]) (../2075/CH4/EX4.7/pe4_7.sce [24])
+(../2075/CH4/EX4.8/pe4_8.sce) (../2075/CH4/EX4.9/pe4_9.sce [25])
+(../2075/CH4/EX4.10/pe4_10.sce) (../2075/CH4/EX4.11/pe4_11.sce [26])
+
+! Package Listings Error: File `../2075/CH4/EX4.12/pe4_12(.sce)' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sce)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.331 ...putlisting{../2075/CH4/EX4.12/pe4_12.sce}
+                                                  ^^M
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on TEX_final.log.

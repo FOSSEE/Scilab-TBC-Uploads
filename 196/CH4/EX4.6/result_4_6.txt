@@ -1,0 +1,7 @@
+Hysteresis Voltage = 3.0000  
+
+Center Voltage = 12.0000  
+
+Resistor mR = 12500.0000  
+
+Resistor nR = 86666.6667 

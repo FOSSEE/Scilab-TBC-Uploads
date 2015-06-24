@@ -1,0 +1,12 @@
+
+Normal Operation (prefault):
+X1=0.522 PU
+Pe1=2.3sin(delta)
+
+During Fault:
+Pe2=0
+
+Post fault operation(fault cleared by opening the faulted line):
+X3=0.8PU
+Pe3=1.5sin(delta)
+Delta_cr=0.9742 rad =55.82 deg 

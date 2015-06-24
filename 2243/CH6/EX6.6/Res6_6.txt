@@ -1,0 +1,5 @@
+ Percentage change in energy for radiation in microwave range is : 8 x 10^-9 
+Percentage change in energy for radiation in visible range is : 5 x 10^-4 
+Percentage change in energy for radiation in X-ray range is : 2.4
+Percentage change in energy for radiation in Gamma range is : 66.9
+ 

@@ -1,0 +1,81 @@
+-->//(Springs) Example 10.8
+ 
+-->//Refer Fig.10.20 on page 414
+ 
+-->//Diameter of the valve dia (mm)
+ 
+-->dia = 50
+ dia  =
+ 
+    50.  
+ 
+-->//Pressure inside the chamber when the valve is closed Pc (N/mm2)
+ 
+-->Pc = 0.5
+ Pc  =
+ 
+    0.5  
+ 
+-->//Pressure inside the chamber when the valve just opens Po (N/mm2)
+ 
+-->Po = 0.6
+ Po  =
+ 
+    0.6  
+ 
+-->//Maximum lift of the valve l (mm)
+ 
+-->l = 5
+ l  =
+ 
+    5.  
+ 
+-->//Spring index C
+ 
+-->C = 8
+ C  =
+ 
+    8.  
+ 
+-->//Ultimate tensile strength of the spring Sut (N/mm2)
+ 
+-->Sut = 1200
+ Sut  =
+ 
+    1200.  
+ 
+-->//Modulus of rigidity G (N/mm2)
+ 
+-->G = 81370
+ G  =
+ 
+    81370.  
+ 
+-->//Distance of the valve from the pivot dist_v (mm)
+ 
+-->dist_v = 75
+ dist_v  =
+ 
+    75.  
+ 
+-->//Distance of the spring from the pivot dist_s (mm)
+ 
+-->dist_s = 150
+ dist_s  =
+ 
+    150.  
+ 
+-->//The permissible shear stress for the spring wire is r% of the ultimate tensile strength
+ 
+-->r = 30
+ r  =
+ 
+    30.  
+ 
+
+Wire diameter(d) = 6.282298 or 7.000000 mm
+
+Mean coil diameter(D) = 56.000000 mm
+
+Number of active coils(N) = 14.164541 or 15.000000
+ 

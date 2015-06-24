@@ -1,0 +1,20 @@
+ R_O (in ohms)=   
+ 
+    500.  
+ 
+ X_O Magnetising reactance (in ohms)=   
+ 
+    288.67513  
+ 
+ Equivalent Resistance reffered to LV Side (in ohms)=   
+ 
+    0.225  
+ 
+ Equivalent Reactance reffered to LV Side (in ohms)   
+ 
+    0.5830952  
+ 
+ Efficiency (in %)=   
+ 
+    95.816033  
+ 

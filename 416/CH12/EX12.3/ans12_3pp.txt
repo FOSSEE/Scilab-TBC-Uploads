@@ -1,0 +1,3 @@
+  
+ example12_3   
+current is 10.37-4.56iA =11.33A 

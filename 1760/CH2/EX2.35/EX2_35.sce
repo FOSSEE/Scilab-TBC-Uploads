@@ -1,0 +1,23 @@
+                        //EXAMPLE-2-35          PG NO-86
+Vr=100;                  //VOLTAGE
+P=300;                 //POWER
+I=P/Vr;                //CURRENT
+V=240;                 //voltage
+F=50;                 //frequency
+Z=V/I;                   //IMPEDANCE
+R=Vr/I;
+Xc=[Z^2-R^2]^0.5;
+C=1/[2*F*%pi*Xc];         //CAPACITOR
+Vc=[(V*V)-(Vr*Vr)]^0.5;
+Vm=sqrt(2)*Vc;
+Qm=(sqrt(2)*Vc)*(C);                 //CHARGE
+Em=0.5*[Xc*Vm*Vm];         //MAXIMUM ENERGY
+disp('i)   CURRENT (I) is    =  '+string (I) +'  A ');
+disp('ii)  IMPEDANCE (Z) is    =  '+string (Z) +'  ohm ');
+disp('iii)   RESISTANCE (R) is    =  '+string (R) +'  ohm ');
+disp('i)   CAPACITOR (Xc) is    =  '+string (Xc) +'  ohm ');
+disp('i)  CAPACITOR (C) is    =  '+string (C) +'  F ');
+disp('i)   VOLTAGE (Vc) is    =  '+string (Vc) +'  V ');
+disp('i)  MAXIMUM VOLTAGE (Vm) is    =  '+string (Vm) +'  V ');
+disp('i)  MAXIMUM CHARGE (Qm) is    =  '+string (Qm) +'  C ');
+disp('i)  MAXIMUM ENERGY (Em) is    =  '+string (Em) +'  J ');

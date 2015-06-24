@@ -1,0 +1,5 @@
+**Sample Problem 22-4a**
+The force of repulsion is 1.438689e+001N
+
+**Sample Problem 22-4b**
+The magnitude of gravitational force between two proton is 1.162623e-035N

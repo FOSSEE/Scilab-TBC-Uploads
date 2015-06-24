@@ -1,0 +1,11 @@
+Capacitance between phase and nuetral = 9.29*10^-9 F/km 
+
+Capacitance between phase and earth = 18.57*10^-7 F 
+
+Required Inductance of the arc supression coil = 1.82 H 
+
+Current through the coil = 133 A 
+
+Rating of the coil = 10165 kVA 
+
+

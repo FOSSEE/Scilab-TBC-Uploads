@@ -1,0 +1,2 @@
+dc load voltage is 9.9 volts
+ripple is 35 mVpp

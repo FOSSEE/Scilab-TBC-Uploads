@@ -1,0 +1,1 @@
+Time after which element present in specimen reduce to 1/64 of its original value is 24 years.

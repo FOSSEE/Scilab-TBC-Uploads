@@ -1,0 +1,1 @@
+ Absorption coefficient = 69.897000 dB/km. 

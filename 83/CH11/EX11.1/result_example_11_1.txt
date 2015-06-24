@@ -1,0 +1,19 @@
+ 
+ 
+ Sequence networks of synchronous generator grounded through neutral impedance has been drawn using XCOS    
+ 
+ Since the derivation can not be done here, let us do this problem by taking a suitable values for the sequence reactances of the generator   
+ 
+ X1=j0.18, X2=j0.15, X0=j0.10 pu and Ea=1   
+ 
+ From the figs 11.13 and 11.14 in the textbook,we can find Ilg and I3L   
+ IaLG  =
+ 
+  - 6.5217391i  
+ Ia3L  =
+ 
+  - 5.5555556i  
+ 
+ Same values of sequence impedance have been used in XCOS simulation also to varify the result   
+ 
+

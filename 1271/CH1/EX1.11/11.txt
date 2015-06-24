@@ -1,0 +1,2 @@
+﻿ 
+ Fringe width = 8.441101e-05 meter.

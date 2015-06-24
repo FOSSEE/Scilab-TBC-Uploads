@@ -1,0 +1,8 @@
+(a)Starting current(in A)=   
+ 
+    46.913043  
+ 
+ (b)Starting torque(in N-m)=   
+ 
+    95.567391  
+ 

@@ -1,0 +1,8 @@
+ i) source entropy
+
+  	H(X) = 1.88 bits/symbol
+
+
+ ii)information rate 
+
+ 	 R = 1875 bits/sec 

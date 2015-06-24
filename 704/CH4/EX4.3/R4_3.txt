@@ -1,0 +1,16 @@
+  
+ Value of primary phase and line current(in Amp)=   
+ 
+    2.6243194  
+ 
+ Value of secondary phase and line voltage(in Volts)=   
+ 
+    571.57677  
+ 
+ Value of secondary phase current(in Amp) =   
+ 
+    29.159105  
+ 
+ Value of secondary line current(in Amp) =   
+ 
+    50.505051  

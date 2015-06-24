@@ -1,0 +1,35 @@
+ Line current in secondary side (in Amperes)=   
+ 
+    86.6  
+ 
+ phase angle of induced line current in secondary (in Degree)=   
+ 
+  - 36.869898  
+ 
+ Line current in primary side (in Amperes)=   
+ 
+    100.67653  
+ 
+ phase angle of induced line current in primary (in Degree) =   
+ 
+  - 6.8821937  
+ 
+ Line voltage induced  in secondary side (in Volts)=   
+ 
+    251.40194  
+ 
+ phase angle of induced line voltage in secondary (in Degree)=   
+ 
+    30.91961  
+ 
+ Line voltage induced  in primary side (in Volts)=   
+ 
+    229.77546  
+ 
+ phase angle of induced line voltage  in primary (in Degree)=   
+ 
+    61.979867  
+ 
+ Efficiency (%)=   
+ 
+    92.308106  

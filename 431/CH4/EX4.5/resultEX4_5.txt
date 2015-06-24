@@ -1,0 +1,5 @@
+  
+ Example 4.5   
+synchronous speed=750.000000rpm
+motor running speed=727.500000rpm
+slip percent=3.000000percent 

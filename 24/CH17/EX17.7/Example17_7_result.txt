@@ -1,0 +1,5 @@
+**Sample Problem 17-7a**
+The value of m should be 0.846367kg
+
+**Sample Problem 17-7b**
+No wave mode will be allowed 

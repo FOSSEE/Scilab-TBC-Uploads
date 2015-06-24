@@ -1,0 +1,10 @@
+
+theta=73.872 deg
+Vt=0.333+j1.153 pu
+I=1.153+j0.667 pu
+E=1.729 @ -90 deg pu
+
+Steady state power limit is given by:	Pmax=1.153 pu
+
+If the generator emf is held fixed at a value 1.2pu,steady state power limit would be :	 Pmax=0.80 pu
+

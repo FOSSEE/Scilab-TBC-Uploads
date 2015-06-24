@@ -1,0 +1,11 @@
+Recieving end voltage = 63509 V 
+
+Sending end voltage = 69282 V 
+
+Load current = 649.65 A 
+
+(i) Power output = 111397 kW 
+
+(ii) Sending end power factor = 0.88 lag 
+
+

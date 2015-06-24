@@ -1,0 +1,22 @@
+R1=2;                     //Assigning values to parameters
+R2=4;
+R3=1;
+R4=5;
+R5=8;
+V=50;
+Ra=(R1*R2)/(R1+R2+R4);   //Converting Delta to Star
+Rb=(R1*R4)/(R1+R2+R4);
+Rc=(R2*R4)/(R1+R2+R4);
+Rm=R3+Ra;
+Rn=Rb+R5;
+Rth=Rc+((Rm*Rn)/(Rm+Rn)); //Calculating Thevenin resistance
+Rl=Rth;
+Rp=R2+R4;
+Rq=R3+R5;
+Rr=(Rp*Rq)/(Rp+Rq);
+I=V/(R1+Rr);
+I1=I*Rp/(Rp+Rq);
+I2=I*Rq/(Rp+Rq);
+Vth=R3*I2-R2*I1;        //Calculating Thevenin voltage
+Pmax=(Vth*Vth)/(4*Rth); //Calculating Maximum Power
+disp("Watts",Pmax,"Maximum Power");

@@ -1,0 +1,13 @@
+A Textbook of Chemical Engineering Thermodynamics
+
+Chapter 3
+
+P-V-T Behaviour and Heat Effects
+
+
+
+Example 3
+
+There is slight variation in answers of book and my scialb coding.
+This might be due to the value of gamma taken by book correct to 1 decimal place.
+

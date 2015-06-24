@@ -1,0 +1,5 @@
+ 
+ example 14.18   
+the current transfer is 1312.2A at an angle -36.87
+voltage drop in the interconnector is 3542.83+j1443.38V 
+ so voltage boost needed is 3542.83+j1443.38V  

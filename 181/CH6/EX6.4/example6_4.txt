@@ -1,0 +1,7 @@
+Id = 1.20e-002 A
+Vds = 3 V
+Consider it to be operating in the ohmic region
+Then Vds = 6.00 V,3.33 V
+6V is neglected since it is lesser than -Vp
+(a)Id = 1.167e-002 A
+(b)Vds = 3.33 VSince Vds<Vgs-Vp,operation region is confirmed in the ohmic region 

@@ -1,0 +1,10 @@
+clear;
+clc;
+disp("T(x,y,z)=x^(y^+z)");
+disp("**To determine the canonical product of sums form you need to check for a product which is not a max term and then add it with the missing terms such that the expression value is not altered**");
+disp("T(x,y,z)=(x^+yy^+zz^)(xx^+y^+z)");
+disp("a+b+cc^ can be written as product of 2 max terms (a+b+c)(a+b+c^)");
+disp("a+bb^+cc^ can be written as (a+b+c)(a+b+c^)(a+b^+c)(a+b^+c^)");
+disp("from the above two properties we can write the T(x,y,z) as");
+disp("T(x,y,z)=(x^+y+z)(x^+y+z^)(x^+y^+z)(x^+y^+z^)(x+y^+z)(x^+y^+z)");
+disp("T(x,y,z)=(x^+y+z)(x^+y+z^)(x^+y^+z)(x^+y^+z^)(x+y^+z)");

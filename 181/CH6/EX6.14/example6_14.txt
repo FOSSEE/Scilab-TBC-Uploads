@@ -1,0 +1,4 @@
+ Vds=Vgs>Vgs-Vt=Active region operation
+(a)Vgs = 5 V,
+(b)Vds = 5 V,
+(c)Rd = 1.56e+003 ohm 

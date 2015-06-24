@@ -1,0 +1,55 @@
+8#Graphs#8.8#Dijkstras Algorithm#s8.sci#37/CH8/EX8.8/s8.sci#S##2804
+8#Graphs#8.7#BFS Traversal#s7.sci#37/CH8/EX8.7/s7.sci#S##2803
+8#Graphs#8.6#Depth First Search Traversal#s6.sci#37/CH8/EX8.6/s6.sci#S##2801
+8#Graphs#8.5#Warshalls Algorithm#s5.sci#37/CH8/EX8.5/s5.sci#S##2802
+8#Graphs#8.4#Finding Transitive Closure#s4.sci#37/CH8/EX8.4/s4.sci#S##2800
+8#Graphs#8.3#Finding The  Number Of Simple Paths From One Point#s3.sci#37/CH8/EX8.3/s3.sci#S##2799
+8#Graphs#8.2#Finding The Number Of Paths From One VertexToOther#s2.sci#37/CH8/EX8.2/s2.sci#S##2798
+8#Graphs#8.1#Simple Graph Functions#s1.sci#37/CH8/EX8.1/s1.sci#S##2797
+7#Searching#7.3#Binary Search#s3.sci#37/CH7/EX7.3/s3.sci#S##2796
+7#Searching#7.2#Sorted sequential search#s2.sci#37/CH7/EX7.2/s2.sci#S##2795
+7#Searching#7.1#Sequential Search#s1.sci#37/CH7/EX7.1/s1.sci#S##2794
+6#Sorting#6.7#Binary Tree Sort#s7.sci#37/CH6/EX6.7/s7.sci#S##2793
+6#Sorting#6.6#Merge Sort#6s6.sci#37/CH6/EX6.6/6s6.sci#S##3186
+6#Sorting#6.5#Shell sort#s5.sci#37/CH6/EX6.5/s5.sci#S##2791
+6#Sorting#6.4#Insertion Sort#s4.sci#37/CH6/EX6.4/s4.sci#S##2790
+6#Sorting#6.3#Selection Sort#s3.sci#37/CH6/EX6.3/s3.sci#S##2789
+6#Sorting#6.2#Quick Sort#s2.sci#37/CH6/EX6.2/s2.sci#S##2788
+6#Sorting#6.1#Bubble Sort#s1.sci#37/CH6/EX6.1/s1.sci#S##2787
+5#Trees#5.4#Checking the duplicate number using BST#5s4.sci#37/CH5/EX5.4/5s4.sci#S##3016
+5#Trees#5.3#Implementing And traversing a Binary Search Tree#5s3.sci#37/CH5/EX5.3/5s3.sci#S##3015
+5#Trees#5.2#Tree Trversal Techniques#s2.sci#37/CH5/EX5.2/s2.sci#S##2784
+5#Trees#5.1#Implementing Binary Tree#5s1.sci#37/CH5/EX5.1/5s1.sci#S##3017
+4#Queues and linked list#4.6#Implementing Priority Queue Using Lists#s6.sci#37/CH4/EX4.6/s6.sci#S##2782
+4#Queues and linked list#4.5#Implementing Stack using circular Linked list#s5.sci#37/CH4/EX4.5/s5.sci#S##2781
+4#Queues and linked list#4.4#Implementing Doubly connected Linked List#s4.sci#37/CH4/EX4.4/s4.sci#S##2780
+4#Queues and linked list#4.3#Implementing Circular Linked List#s3.sci#37/CH4/EX4.3/s3.sci#S##2779
+4#Queues and linked list#4.2#Implementing Queue Operarions#s2.sci#37/CH4/EX4.2/s2.sci#S##2778
+4#Queues and linked list#4.1#Implementing Singly Connected Linked List#4s1.sci#37/CH4/EX4.1/4s1.sci#S##3014
+3#Recursion#3.7#Simulating Factorial By Non recursion#s7.sci#37/CH3/EX3.7/s7.sci#S##2774
+3#Recursion#3.6#Prefix To Postfix Conversion#3s6.sci#37/CH3/EX3.6/3s6.sci#S##3013
+3#Recursion#3.5#Tower Of Hanoi#s5.sci#37/CH3/EX3.5/s5.sci#S##2772
+3#Recursion#3.4#Binary Search#s4.sci#37/CH3/EX3.4/s4.sci#S##2771
+3#Recursion#3.3#Fibbonacci series#s3.sci#37/CH3/EX3.3/s3.sci#S##2776
+3#Recursion#3.2#Factorial of a number#s2.sci#37/CH3/EX3.2/s2.sci#S##2775
+3#Recursion#3.1#Multiplication of 2 numbers#s1.sci#37/CH3/EX3.1/s1.sci#S##2768
+2#Stacks#2.4#Convering an infix expression to a Postfix Express#2solved4.sci#37/CH2/EX2.4/2solved4.sci#S##3012
+2#Stacks#2.3#Implementing Push And Pop Functions#2Solved3.sci#37/CH2/EX2.3/2Solved3.sci#S##3011
+2#Stacks#2.2.3#Check if string is of certain form#US2.sci#37/CH2/EX2.2.3/US2.sci#S##3019
+2#Stacks#2.2#Implementing Stack using union#Solved2.sci#37/CH2/EX2.2/Solved2.sci#S##2764
+2#Stacks#2.1.2#To  determine the syntacticaly valid string#US1.sci#37/CH2/EX2.1.2/US1.sci#S##2766
+2#Stacks#2.1#To  determine the syntacticaly valid string#solved1.sci#37/CH2/EX2.1/solved1.sci#S##2762
+1#Introduction To Data Structures#1.6#Equality check of 2 rational nos by reduction#Solved6.sci#37/CH1/EX1.6/Solved6.sci#S##2747
+1#Introduction To Data Structures#1.5#Reducing the given rational number#Solved5.sci#37/CH1/EX1.5/Solved5.sci#S##2746
+1#Introduction To Data Structures#1.4#Raising the salary of employee#1Solved4.sci#37/CH1/EX1.4/1Solved4.sci#S##3010
+1#Introduction To Data Structures#1.3.7#Checking Equality Of 2 Rational Numbers#Us8.sci#37/CH1/EX1.3.7/Us8.sci#S##2757
+1#Introduction To Data Structures#1.3.6#Adding Substracting and multiplying Rational Nos#Us7.sci#37/CH1/EX1.3.6/Us7.sci#S##2756
+1#Introduction To Data Structures#1.3.1#Implementing Complex Numbers by structure#Us6.sci#37/CH1/EX1.3.1/Us6.sci#S##2761
+1#Introduction To Data Structures#1.3#Writing name from structure and counting alphabets#Solved3.sci#37/CH1/EX1.3/Solved3.sci#S##2744
+1#Introduction To Data Structures#1.2.6#Finding the adress in a row major array#Us5.sci#37/CH1/EX1.2.6/Us5.sci#S##2760
+1#Introduction To Data Structures#1.2.1#Calculate Median And Mode Of an  Array#Us4.sci#37/CH1/EX1.2.1/Us4.sci#S##2759
+1#Introduction To Data Structures#1.2#String Manipulations#Solved2.sci#37/CH1/EX1.2/Solved2.sci#S##3009
+1#Introduction To Data Structures#1.1.7#TO Convert Binary To Ternary#Us3.sci#37/CH1/EX1.1.7/Us3.sci#S##2758
+1#Introduction To Data Structures#1.1.5#Add Substract And Multiply binary numbers#Unsolved2.sci#37/CH1/EX1.1.5/Unsolved2.sci#S##2752
+1#Introduction To Data Structures#1.1.4#Decimal form of given no represented variably#Unsolved1.sci#37/CH1/EX1.1.4/Unsolved1.sci#S##2748
+1#Introduction To Data Structures#1.1#To  calcualte Average And Deviation#Solved1.sci#37/CH1/EX1.1/Solved1.sci#S##2742

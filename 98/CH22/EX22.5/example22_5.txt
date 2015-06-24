@@ -1,0 +1,9 @@
+Line current of delta connected CTs on 220 V side = 8.66 A 
+
+Phase current of star connected CTs on 11000 V side = 8.66 A 
+
+The line current on the 11000 V side = 12.00 A 
+
+Turn ratio of CTs on 11000 V side = 1.386:1 
+
+

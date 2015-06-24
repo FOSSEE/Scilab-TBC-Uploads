@@ -1,0 +1,4 @@
+Example 4.33   
+induced emf per phase=57.735027V
+rotor current at slip 0.03 =8.564440A per phase
+rotor current when the rotor develops maximum torque=40.824829A per phase 

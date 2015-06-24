@@ -1,0 +1,22 @@
+A = 10^-3;
+Na = 10^19;
+Nd = 10^16;
+q = 1.6*10^-19;
+Tp = 10^-6;
+Tn = 10^-6;
+Dp = 10.5;
+kT = 26*10^-3; //in eV
+T = 300;
+Vs = -0.67;
+Vf = 0.3;
+eRc = 110;
+Is = A*eRc*T^2*exp(Vs/kT);
+disp(Is,"Reverse saturation current (in Ampere) = ")
+I = Is*exp(Vf/kT);
+disp(I,"For a forward bias of 0.3 V, the current(in Ampere) = ")
+Lp = (Dp*Tp)^0.5;
+disp(Lp, "Lp(in cm) = ")
+pn = 2.25*10^4;
+I0 = A*q*Dp*pn/Lp;
+disp(I0,"Saturation current (in Ampere) = ")
+disp("For the p-n diode to have the same current that the Schottky diode has at 0.3 V, the voltage required is 0.71 V.")

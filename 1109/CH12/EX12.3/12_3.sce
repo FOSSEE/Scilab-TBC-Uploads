@@ -1,0 +1,11 @@
+clear;
+clc;
+R1=5;R2=%i*5;R3=3+(%i*4);V1=50*exp(%i*90/(180/%pi));V2=50;
+Z1=R1+(1/((1/R2)+(1/R3)));
+I1=V1/Z1;
+Iz1=I1*R2/(R2+R3);
+Z2=R2+(1/((1/R1)+(1/R3)));
+I2=V2/Z2;
+Iz2=-I2*R1/(R1+R3);
+Iz=Iz1+Iz2;
+printf("Total current in the (3+j4)ohm branch = %f /_ %f Amp",round(abs(Iz)*10)/10,round(atan(imag(Iz),real(Iz))*180*10/%pi)/10);

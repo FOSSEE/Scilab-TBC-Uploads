@@ -1,0 +1,4 @@
+ 
+ Minimum Time Period= 18.240800 10^-6
+ Maximum Bit rate = 54.822157Kb/sec 
+ Execution done.   

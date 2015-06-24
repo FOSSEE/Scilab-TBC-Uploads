@@ -1,0 +1,9 @@
+GMR of conductor = 0.7788 cm 
+
+Equivalent self GMD of one phase = 3.947 m 
+
+Equivalent mutual GMD = 119.158 m 
+
+Loop Inductance/km = 1.363 mH/km 
+
+

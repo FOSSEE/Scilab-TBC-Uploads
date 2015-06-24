@@ -1,0 +1,1 @@
+ Value of Lower Threshold Voltage =  -0.013000 V 

@@ -1,0 +1,13 @@
+ 
+ Example 15.1
+ Part A:
+ Modulus of elasticity of composite is 30 GPa
+
+ Part B:
+ Force supported by m is 862 N 
+ Force supported by fibre is 11637 N
+
+ Part C
+ Strain for matrix phase is 1.69e-03
+ Strain for fibre phase is 1.69e-03.
+ Both are identical 

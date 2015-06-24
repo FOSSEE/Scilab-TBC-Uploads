@@ -1,0 +1,17 @@
+ Answers are :   
+ 
+    0.9976    1.0007  
+    0.9976    0.9998  
+    0.9989    1.0018
+Number of Iterations :   
+ 
+    11.
+
+Answers are :   
+ 
+   Inf       Inf  
+  -Inf      -Inf  
+  - 2.+307   Nan 
+Number of Iterations :   
+ 
+    538.

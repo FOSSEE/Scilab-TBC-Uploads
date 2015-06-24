@@ -1,0 +1,4 @@
+ 
+ # PROBLEM 3.5 # 
+
+ The maximum forging force = 2.361194e+05 N 

@@ -1,0 +1,6 @@
+
+Example 4.11
+ Magnitude of Electrical vector is 1.125000e+04 Volt/meter.
+ Magnitude of Electrical Displacement vector is 7.968600e-07 C/m^2.
+ Magnitude of Electric polarization vector is 6.972525e-07 C/m^2.
+

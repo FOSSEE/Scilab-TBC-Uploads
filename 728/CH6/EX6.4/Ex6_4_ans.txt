@@ -1,0 +1,13 @@
+  
+ Power at port1(in mW)=   
+ 
+    8.  
+ 
+ Power at port2(in mW) =   
+ 
+    8.  
+ 
+ Power at port3(in mW) =   
+ 
+    16.  
+ 

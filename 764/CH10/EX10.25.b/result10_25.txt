@@ -1,0 +1,68 @@
+-->//(Springs) Example 10.25
+ 
+-->//Number of extra full length leaves nf
+ 
+-->nf = 2
+ nf  =
+ 
+    2.  
+ 
+-->//Number of graduated length leaves ng
+ 
+-->ng = 10
+ ng  =
+ 
+    10.  
+ 
+-->//Centre-to-centre distance between two eyes l (m)
+ 
+-->l = 1.2
+ l  =
+ 
+    1.2  
+ 
+-->L = l/2
+ L  =
+ 
+    0.6  
+ 
+-->//Maximum force acting on each eye of the spring P (kN)
+ 
+-->P = 30/2
+ P  =
+ 
+    15.  
+ 
+-->//Modulus of elasticity E (N/mm2)
+ 
+-->E = 207000
+ E  =
+ 
+    207000.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 2.5
+ fs  =
+ 
+    2.5  
+ 
+-->//Tensile yield strength Syt (N/mm2)
+ 
+-->Syt = 1500
+ Syt  =
+ 
+    1500.  
+ 
+-->//Assume width b (mm)
+ 
+-->b = 60
+ b  =
+ 
+    60.  
+ 
+
+Cross-section of leaves = 60.000000 x 12.000000 mm
+
+Deflection of the spring end(delta) = 69.676700 mm
+ 

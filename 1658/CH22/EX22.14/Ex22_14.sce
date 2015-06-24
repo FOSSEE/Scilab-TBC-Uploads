@@ -1,0 +1,13 @@
+clc;
+//e.g 22.14;
+gm=4*10**-3;
+RD=1.5*10**3;
+RG=10*10**6;
+rs=500;
+rl=RD;
+AV=-(gm*rl)/(1+gm*rs);
+disp(AV);
+RL=100*10^3;
+rL=(RD*RL)/(RD+RL);
+AV=-(gm*rL)/(1+gm*rs);
+disp(AV);

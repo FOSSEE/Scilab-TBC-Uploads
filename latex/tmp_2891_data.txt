@@ -1,0 +1,109 @@
+9#WAVE PROPAGATION#9.9#maximum wavelength at which propagation is possible#Ex9_9.sce#2891/CH9/EX9.9/Ex9_9.sce#S##108444
+9#WAVE PROPAGATION#9.8#range of the space wave#Ex9_8.sce#2891/CH9/EX9.8/Ex9_8.sce#S##108443
+9#WAVE PROPAGATION#9.7#Radio horizon distance for transmitting and receiving antenna and maximum range#Ex9_7.sce#2891/CH9/EX9.7/Ex9_7.sce#S##108442
+9#WAVE PROPAGATION#9.6#Required height of receiving antenna#Ex9_6.sce#2891/CH9/EX9.6/Ex9_6.sce#S##108441
+9#WAVE PROPAGATION#9.5#maximum distance covered by the space wave#Ex9_5.sce#2891/CH9/EX9.5/Ex9_5.sce#S##108440
+9#WAVE PROPAGATION#9.4#Radio horizon distance#Ex9_4.sce#2891/CH9/EX9.4/Ex9_4.sce#S##108439
+9#WAVE PROPAGATION#9.3#maximum range of tropospheric transmission#Ex9_3.sce#2891/CH9/EX9.3/Ex9_3.sce#S##108438
+9#WAVE PROPAGATION#9.2#field strength of the ground wave#Ex9_2.sce#2891/CH9/EX9.2/Ex9_2.sce#S##108437
+9#WAVE PROPAGATION#9.19#Critical angle of propagation for D layer#Ex9_19.sce#2891/CH9/EX9.19/Ex9_19.sce#S##108454
+9#WAVE PROPAGATION#9.18#Range of line of sight#Ex9_18.sce#2891/CH9/EX9.18/Ex9_18.sce#S##108453
+9#WAVE PROPAGATION#9.17#frequency of propagating wave for D layer#Ex9_17.sce#2891/CH9/EX9.17/Ex9_17.sce#S##108452
+9#WAVE PROPAGATION#9.16#maximum usable frequency#Ex9_16.sce#2891/CH9/EX9.16/Ex9_16.sce#S##108451
+9#WAVE PROPAGATION#9.15#Critical frequency#Ex9_15.sce#2891/CH9/EX9.15/Ex9_15.sce#S##108450
+9#WAVE PROPAGATION#9.14#critical frequency of an electromagnetic wave#Ex9_14.sce#2891/CH9/EX9.14/Ex9_14.sce#S##108449
+9#WAVE PROPAGATION#9.13#Angle of refraction#Ex9_13.sce#2891/CH9/EX9.13/Ex9_13.sce#S##108448
+9#WAVE PROPAGATION#9.12#Relative permittivity of D E F layers#Ex9_12.sce#2891/CH9/EX9.12/Ex9_12.sce#S##108447
+9#WAVE PROPAGATION#9.11#range if the frequency is MUF itself#Ex9_11.sce#2891/CH9/EX9.11/Ex9_11.sce#S##108446
+9#WAVE PROPAGATION#9.10#Electron density of the layer#Ex9_10.sce#2891/CH9/EX9.10/Ex9_10.sce#S##108445
+9#WAVE PROPAGATION#9.1#Required transmitter power#Ex9_1.sce#2891/CH9/EX9.1/Ex9_1.sce#S##108436
+7#MICROWAVE ANTENNAS#7.9#capture area and beam width of paraboloid antenna#Ex7_9.sce#2891/CH7/EX7.9/Ex7_9.sce#S##108424
+7#MICROWAVE ANTENNAS#7.8#mouth diameter and beam width#Ex7_8.sce#2891/CH7/EX7.8/Ex7_8.sce#S##108423
+7#MICROWAVE ANTENNAS#7.7#minimum distance required between two antennas#Ex7_7.sce#2891/CH7/EX7.7/Ex7_7.sce#S##108422
+7#MICROWAVE ANTENNAS#7.6#beam width directivity and capoture area#Ex7_6.sce#2891/CH7/EX7.6/Ex7_6.sce#S##108421
+7#MICROWAVE ANTENNAS#7.5#mouth diameter HPBW and power gain#Ex7_5.sce#2891/CH7/EX7.5/Ex7_5.sce#S##108420
+7#MICROWAVE ANTENNAS#7.4#Power gain in Decibels#Ex7_4.sce#2891/CH7/EX7.4/Ex7_4.sce#S##108419
+7#MICROWAVE ANTENNAS#7.3#band width between first null and half power points#Ex7_3.sce#2891/CH7/EX7.3/Ex7_3.sce#S##108418
+7#MICROWAVE ANTENNAS#7.20#complementary slot impedances#Ex7_20.sce#2891/CH7/EX7.20/Ex7_20.sce#S##108435
+7#MICROWAVE ANTENNAS#7.2#gain of the paraboloid reflector antenna#Ex7_2.sce#2891/CH7/EX7.2/Ex7_2.sce#S##108417
+7#MICROWAVE ANTENNAS#7.19#power gain and directivity of a horn antenna#Ex7_19.sce#2891/CH7/EX7.19/Ex7_19.sce#S##108434
+7#MICROWAVE ANTENNAS#7.18#power gain of a square horn antenna#Ex7_18.sce#2891/CH7/EX7.18/Ex7_18.sce#S##108433
+7#MICROWAVE ANTENNAS#7.17#beam width power gain and directivity#Ex7_17.sce#2891/CH7/EX7.17/Ex7_17.sce#S##108432
+7#MICROWAVE ANTENNAS#7.16#null to null and half power beam width and directivity#Ex7_16.sce#2891/CH7/EX7.16/Ex7_16.sce#S##108431
+7#MICROWAVE ANTENNAS#7.15#Power gain of a paraboloid reflector antenna#Ex7_15.sce#2891/CH7/EX7.15/Ex7_15.sce#S##108430
+7#MICROWAVE ANTENNAS#7.14#null to null beam width and power gain of paraboloid reflector antenna#Ex7_14.sce#2891/CH7/EX7.14/Ex7_14.sce#S##108429
+7#MICROWAVE ANTENNAS#7.13#mouth diameter and power gain of paraboloid reflector antenna#Ex7_13.sce#2891/CH7/EX7.13/Ex7_13.sce#S##108428
+7#MICROWAVE ANTENNAS#7.12#mouth diameter and capture area of a paraboloid antenna#Ex7_12.sce#2891/CH7/EX7.12/Ex7_12.sce#S##108427
+7#MICROWAVE ANTENNAS#7.11#power gain #Ex7_11.sce#2891/CH7/EX7.11/Ex7_11.sce#S##108426
+7#MICROWAVE ANTENNAS#7.10#HPBW BWFN and power gain#Ex7_10.sce#2891/CH7/EX7.10/Ex7_10.sce#S##108425
+7#MICROWAVE ANTENNAS#7.1#null to null and half power beam width of a paraboloid reflector#Ex7_1.sce#2891/CH7/EX7.1/Ex7_1.sce#S##108416
+6#HF VHF AND UHF ANTEENAS#6.9#induced voltage in a loop antenna#Ex6_9.sce#2891/CH6/EX6.9/Ex6_9.sce#S##108410
+6#HF VHF AND UHF ANTEENAS#6.8#Designing of a long periodic antenna#Ex6_8.sce#2891/CH6/EX6.8/Ex6_8.sce#S##108409
+6#HF VHF AND UHF ANTEENAS#6.7#Designing of a six element yagi uda antenna#Ex6_7.sce#2891/CH6/EX6.7/Ex6_7.sce#S##108408
+6#HF VHF AND UHF ANTEENAS#6.6#Design a three element yagi uda antenna#Ex6_6.sce#2891/CH6/EX6.6/Ex6_6.sce#S##108407
+6#HF VHF AND UHF ANTEENAS#6.5#Design parameters of rhombic anteena#Ex6_5.sce#2891/CH6/EX6.5/Ex6_5.sce#S##108406
+6#HF VHF AND UHF ANTEENAS#6.4#Design parameters of rhombic anteena#Ex6_4.sce#2891/CH6/EX6.4/Ex6_4.sce#S##108405
+6#HF VHF AND UHF ANTEENAS#6.3#Designing of a rhombic antenna#Ex6_3.sce#2891/CH6/EX6.3/Ex6_3.sce#S##108404
+6#HF VHF AND UHF ANTEENAS#6.2#Designing of a rhombic antenna#Ex6_2.sce#2891/CH6/EX6.2/Ex6_2.sce#S##108403
+6#HF VHF AND UHF ANTEENAS#6.15#null to null and half power beam width and directivity#Ex6_15.sce#2891/CH6/EX6.15/Ex6_15.sce#S##108415
+6#HF VHF AND UHF ANTEENAS#6.14#array length number of elements and null to null beam width#Ex6_14.sce#2891/CH6/EX6.14/Ex6_14.sce#S##108414
+6#HF VHF AND UHF ANTEENAS#6.13#Directivity and radiation resistance of a loop antenna#Ex6_13.sce#2891/CH6/EX6.13/Ex6_13.sce#S##108413
+6#HF VHF AND UHF ANTEENAS#6.11#Directivity of a loop antenna#Ex6_11.sce#2891/CH6/EX6.11/Ex6_11.sce#S##108412
+6#HF VHF AND UHF ANTEENAS#6.10#radiation resistance of a loop antenna#Ex6_10.sce#2891/CH6/EX6.10/Ex6_10.sce#S##108411
+6#HF VHF AND UHF ANTEENAS#6.1#Designing of a rhombic antenna#Ex6_1.sce#2891/CH6/EX6.1/Ex6_1.sce#S##108402
+4#ANALYSIS OF LINEAR ARRAYS#4.9#relative excitation levels#Ex4_9.sce#2891/CH4/EX4.9/Ex4_9.sce#S##108397
+4#ANALYSIS OF LINEAR ARRAYS#4.5#null to null and half power beam width and directivity#Ex4_5.sce#2891/CH4/EX4.5/Ex4_5.sce#S##108396
+4#ANALYSIS OF LINEAR ARRAYS#4.4#Progressive phase shift and array length#Ex4_4.sce#2891/CH4/EX4.4/Ex4_4.sce#S##108395
+4#ANALYSIS OF LINEAR ARRAYS#4.3#null to null beam width and directivity#Ex4_3.sce#2891/CH4/EX4.3/Ex4_3.sce#S##108394
+4#ANALYSIS OF LINEAR ARRAYS#4.2#null to null beam width of a endfire array#Ex4_2.sce#2891/CH4/EX4.2/Ex4_2.sce#S##108393
+4#ANALYSIS OF LINEAR ARRAYS#4.13#receiving power#Ex4_13.sce#2891/CH4/EX4.13/Ex4_13.sce#S##108401
+4#ANALYSIS OF LINEAR ARRAYS#4.12#Actual transmission loss#Ex4_12.sce#2891/CH4/EX4.12/Ex4_12.sce#S##108400
+4#ANALYSIS OF LINEAR ARRAYS#4.11#basic transmission loss#Ex4_11.sce#2891/CH4/EX4.11/Ex4_11.sce#S##108399
+4#ANALYSIS OF LINEAR ARRAYS#4.10#basic and actual transmission loss#Ex4_10.sce#2891/CH4/EX4.10/Ex4_10.sce#S##108398
+4#ANALYSIS OF LINEAR ARRAYS#4.1#null to null beam width of a broadside array#Ex4_1.sce#2891/CH4/EX4.1/Ex4_1.sce#S##108392
+3#RADIATION AND ANTENNAS#3.6#effective area of hertzian dipole#Ex3_6.sce#2891/CH3/EX3.6/Ex3_6.sce#S##108391
+3#RADIATION AND ANTENNAS#3.5#effective area of half wave dipole#Ex3_5.sce#2891/CH3/EX3.5/Ex3_5.sce#S##108390
+3#RADIATION AND ANTENNAS#3.4#Power radiated#Ex3_4.sce#2891/CH3/EX3.4/Ex3_4.sce#S##108389
+3#RADIATION AND ANTENNAS#3.3#Directivity of half wave dipole#Ex3_3.sce#2891/CH3/EX3.3/Ex3_3.sce#S##108388
+3#RADIATION AND ANTENNAS#3.1#radiation resistance#Ex3_1.sce#2891/CH3/EX3.1/Ex3_1.sce#S##108387
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.9#electric field and electric flux density#Ex2_9.sce#2891/CH2/EX2.9/Ex2_9.sce#S##108368
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.8#magnetic field and its magnitude#Ex2_8.sce#2891/CH2/EX2.8/Ex2_8.sce#S##108367
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.32#average power density absorbed#Ex2_32.sce#2891/CH2/EX2.32/Ex2_32.sce#S##108386
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.31#incident and reflected magnetic field and reflected electric field#Ex2_31.sce#2891/CH2/EX2.31/Ex2_31.sce#S##108385
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.30#transmitted distance of an electromagnetic wave#Ex2_30.sce#2891/CH2/EX2.30/Ex2_30.sce#S##108384
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.29#energy density and total energy #Ex2_29.sce#2891/CH2/EX2.29/Ex2_29.sce#S##108383
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.28#average power and maximum energy density of wave#Ex2_28.sce#2891/CH2/EX2.28/Ex2_28.sce#S##108382
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.27#Power per unit area#Ex2_27.sce#2891/CH2/EX2.27/Ex2_27.sce#S##108381
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.25#reachable depth of the sea#Ex2_25.sce#2891/CH2/EX2.25/Ex2_25.sce#S##108380
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.23#displacement current#Ex2_23.sce#2891/CH2/EX2.23/Ex2_23.sce#S##108379
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.22#depth of penetation#Ex2_22.sce#2891/CH2/EX2.22/Ex2_22.sce#S##108378
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.21#attenuation constant phase constant phase velocity propagation constant and intrinsic impedance#Ex2_21.sce#2891/CH2/EX2.21/Ex2_21.sce#S##108377
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.20#conducting characteristics of earrth #Ex2_20.sce#2891/CH2/EX2.20/Ex2_20.sce#S##108376
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.19#frequency phase constant and wavelength#Ex2_19.sce#2891/CH2/EX2.19/Ex2_19.sce#S##108375
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.18#frequency and permittivity#Ex2_18.sce#2891/CH2/EX2.18/Ex2_18.sce#S##108374
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.17#propagation constant and intrinsic impedance#Ex2_17.sce#2891/CH2/EX2.17/Ex2_17.sce#S##108373
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.16#electric field in free space and in medium#Ex2_16.sce#2891/CH2/EX2.16/Ex2_16.sce#S##108455
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.15#amplitude frequency wavelength and phase constant#Ex2_15.sce#2891/CH2/EX2.15/Ex2_15.sce#S##108371
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.14#propagation constant#Ex2_14.sce#2891/CH2/EX2.14/Ex2_14.sce#S##108370
+2#MAXWELL EQUATIONS AND ELECTROMAGNETIC WAVES#2.12#frequency wavelength intrinsic impedance and phase constant#Ex2_12.sce#2891/CH2/EX2.12/Ex2_12.sce#S##108369
+1#MATHEMATICAL PRELIMINARIES#1.9#Representation of point in cylindrical coordinates#Ex1_9.sce#2891/CH1/EX1.9/Ex1_9.sce#S##108351
+1#MATHEMATICAL PRELIMINARIES#1.5#Dot product of two vectors#Ex1_5.sce#2891/CH1/EX1.5/Ex1_5.sce#S##108350
+1#MATHEMATICAL PRELIMINARIES#1.4#cross product of two vectors A and B#Ex1_4.sce#2891/CH1/EX1.4/Ex1_4.sce#S##108349
+1#MATHEMATICAL PRELIMINARIES#1.31#factorial of 4 and 6#Ex1_31.sce#2891/CH1/EX1.31/Ex1_31.sce#S##108366
+1#MATHEMATICAL PRELIMINARIES#1.3#Dot product of two vectors#Ex1_3.sce#2891/CH1/EX1.3/Ex1_3.sce#S##108348
+1#MATHEMATICAL PRELIMINARIES#1.28#Roots of the quadratic equation#Ex1_28.sce#2891/CH1/EX1.28/Ex1_28.sce#S##108365
+1#MATHEMATICAL PRELIMINARIES#1.27#ratio of two complex numbers#Ex1_27.sce#2891/CH1/EX1.27/Ex1_27.sce#S##108364
+1#MATHEMATICAL PRELIMINARIES#1.26#Product of two complex numbers#Ex1_26.sce#2891/CH1/EX1.26/Ex1_26.sce#S##108363
+1#MATHEMATICAL PRELIMINARIES#1.25#Subtraction of two complex numbers#Ex1_25.sce#2891/CH1/EX1.25/Ex1_25.sce#S##108362
+1#MATHEMATICAL PRELIMINARIES#1.24#Addition of two complex numbers#Ex1_24.sce#2891/CH1/EX1.24/Ex1_24.sce#S##108361
+1#MATHEMATICAL PRELIMINARIES#1.23#real and imaginary part of a complex number#Ex1_23.sce#2891/CH1/EX1.23/Ex1_23.sce#S##108360
+1#MATHEMATICAL PRELIMINARIES#1.22#magnitude complex conjugate and phase of complex number#Ex1_22.sce#2891/CH1/EX1.22/Ex1_22.sce#S##108359
+1#MATHEMATICAL PRELIMINARIES#1.21#magnitude and phase of a complex number#Ex1_21.sce#2891/CH1/EX1.21/Ex1_21.sce#S##108358
+1#MATHEMATICAL PRELIMINARIES#1.20#Current gain in nepers#Ex1_20.sce#2891/CH1/EX1.20/Ex1_20.sce#S##108357
+1#MATHEMATICAL PRELIMINARIES#1.2#Addition and Subtraction of two vectors#Ex1_2.sce#2891/CH1/EX1.2/Ex1_2.sce#S##108347
+1#MATHEMATICAL PRELIMINARIES#1.19#Power gain in nepers#Ex1_19.sce#2891/CH1/EX1.19/Ex1_19.sce#S##108356
+1#MATHEMATICAL PRELIMINARIES#1.18#Current gain in Decibels#Ex1_18.sce#2891/CH1/EX1.18/Ex1_18.sce#S##108355
+1#MATHEMATICAL PRELIMINARIES#1.17#Power gain in Decibels#Ex1_17.sce#2891/CH1/EX1.17/Ex1_17.sce#S##108354
+1#MATHEMATICAL PRELIMINARIES#1.12#Representation of point in spherical coordinates#Ex1_12.sce#2891/CH1/EX1.12/Ex1_12.sce#S##108353
+1#MATHEMATICAL PRELIMINARIES#1.10#Representation of point in cylindrical coordinates#Ex1_10.sce#2891/CH1/EX1.10/Ex1_10.sce#S##108352
+1#MATHEMATICAL PRELIMINARIES#1.1#magnitude and direction of a vector#Ex1_1.sce#2891/CH1/EX1.1/Ex1_1.sce#S##108346

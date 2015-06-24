@@ -1,0 +1,1 @@
+ Time taken by electron is 7.298e-012 s 

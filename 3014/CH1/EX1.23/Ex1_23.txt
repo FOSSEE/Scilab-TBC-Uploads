@@ -1,0 +1,4 @@
+
+Example 1.23
+ Interatomic spacing of crystal is 8.685393 angstrom.
+

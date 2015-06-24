@@ -1,0 +1,2 @@
+**Sample Problem 20-1**
+The final pressure of the gas is 22.260590atm 

@@ -1,0 +1,14 @@
+
+ 
+ Case (i): When Ef is increased by 20%    
+
+	Power factor pf= 0.75 lagging 
+	Reactive power drawn by the load = 511.2 MVAR 
+ 
+ Case (ii): When Ef is decreased by 20%    
+
+	Power factor pf= 1.00 lagging 
+	Reactive power drawn by the load = 19.5 MVAR 
+ 
+ The answers given here are exact values.Textbook answers has an approximat 
+      ion of upto 2 decimal places on Xs,Ia,pf.                             

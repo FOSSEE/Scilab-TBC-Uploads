@@ -1,0 +1,13 @@
+clc;
+syms K s a;
+G = K/(s*(s+a));
+E = (1/s^2)/(1+G);
+e = limit(s*E,s,0);
+e = simple(e);
+disp(e,"steady state error = ");
+sea = (a/e)*diff(e,a);
+sek = (K/e)*diff(e,K);
+sea = simple(sea);
+sek = simple(sek);
+disp(sea,"sensitivity of error wrt parameter a = ");
+disp(sek,"\n sensitivity of error wrt parameter K =");

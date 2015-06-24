@@ -1,0 +1,3 @@
+ 
+ Example 8.2
+ Material can be kept at 550 degree Celsius for nearly 102 minute. 

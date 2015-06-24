@@ -1,0 +1,3 @@
+example 14.15   
+ tapping ratio at the source 1.058  
+ tapping ratio at the receving end 0.94 

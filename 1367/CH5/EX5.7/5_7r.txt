@@ -1,0 +1,13 @@
+  
+ Planar Density on [100] in Polonium (per sqm) =    
+ 
+    8.651D+18  
+ 
+ Planar Density on [110] in Rhodium (per sqm) =    
+ 
+    9.844D+18  
+ 
+ Planar Density on [111] in Chromium (per sqm) =    
+ 
+    2.078D+19  
+ 

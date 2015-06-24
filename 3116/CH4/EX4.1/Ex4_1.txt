@@ -1,0 +1,3 @@
+ Example 4.1
+
+ Volume of an FCC unit cell is 22.627417R^3  

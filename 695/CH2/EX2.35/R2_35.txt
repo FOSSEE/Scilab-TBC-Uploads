@@ -1,0 +1,8 @@
+ (a)no load speed (in rpm) =   
+ 
+    722.23273  
+ 
+ (b)Percentage reduction in flux per pole (in %)=   
+ 
+    21.295859  
+ 

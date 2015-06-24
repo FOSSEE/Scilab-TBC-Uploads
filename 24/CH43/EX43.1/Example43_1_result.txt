@@ -1,0 +1,2 @@
+**Sample Problem 43-1**
+The distance of the alpha particles from gold nucleus is equal to 4.292830e-014m

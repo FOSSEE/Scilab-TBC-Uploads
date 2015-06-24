@@ -1,0 +1,3 @@
+﻿
+
+ Wavelength of light in first case = 4096 A 

@@ -1,0 +1,65 @@
+12#Monolithic Microwave Integrated Circuits#12.4.3#Planar Capacitor#12_4_3.sce#72/CH12/EX12.4.3/12_4_3.sce#S##2677
+12#Monolithic Microwave Integrated Circuits#12.4.2#Planar Circular Spiral inductor#12_4_2.sce#72/CH12/EX12.4.2/12_4_2.sce#S##2676
+12#Monolithic Microwave Integrated Circuits#12.4.1#Resistance of a planar resistor#12_4_1.sce#72/CH12/EX12.4.1/12_4_1.sce#S##2675
+11#Strip lines#11.4.1#Characteristic Impedance of a Shielded Strip Line#11_4_1.sce#72/CH11/EX11.4.1/11_4_1.sce#S##2674
+11#Strip lines#11.3.1#Characteristic Impedance of a Coplanar Stripline#11_3_1.sce#72/CH11/EX11.3.1/11_3_1.sce#S##2673
+11#Strip lines#11.2.1#Characteristics of a Parallel Strip Line#11_2-1.sce#72/CH11/EX11.2.1/11_2-1.sce#S##2672
+11#Strip lines#11.1.1#Characteristic Impedance of Microstrip line#11_1_1.sce#72/CH11/EX11.1.1/11_1_1.sce#S##2671
+10#Microwave crossed field tubes M type#10.4.1#Carcinotron Characteristics#10_4_1.sce#72/CH10/EX10.4.1/10_4_1.sce#S##2698
+10#Microwave crossed field tubes M type#10.3.1#Amplitron characteristics#10_3_1.sce#72/CH10/EX10.3.1/10_3_1.sce#S##2697
+10#Microwave crossed field tubes M type#10.2.1#Crossed Field Amplifier#10_2_1.sce#72/CH10/EX10.2.1/10_2_1.sce#S##2696
+10#Microwave crossed field tubes M type#10.1.6#Frequency Agile Magnetron#10_1_6.sce#72/CH10/EX10.1.6/10_1_6.sce#S##2695
+10#Microwave crossed field tubes M type#10.1.5#Inverted Coaxial Magnetron#10_1_5.sce#72/CH10/EX10.1.5/10_1_5.sce#S##2694
+10#Microwave crossed field tubes M type#10.1.2.a#Linear Magnetron#10_1_2_a.sce#72/CH10/EX10.1.2.a/10_1_2_a.sce#S##2693
+10#Microwave crossed field tubes M type#10.1.2#Linear Magnetron#10_1_2.sce#72/CH10/EX10.1.2/10_1_2.sce#S##2692
+10#Microwave crossed field tubes M type#10.1.1.A#Pulsed Magnetron#10_1_1_A.sce#72/CH10/EX10.1.1.A/10_1_1_A.sce#S##2690
+10#Microwave crossed field tubes M type#10.1.1#Conventional Magnetron#10_1_1.sce#72/CH10/EX10.1.1/10_1_1.sce#S##2688
+9#microwave linear beam tubes O type#9.7.1#Gridded Travelling Wave Tube#9_7_1.sce#72/CH9/EX9.7.1/9_7_1.sce#S##2687
+9#microwave linear beam tubes O type#9.5.1#Operation of Travelling WAVE TUBE#9_5_1.sce#72/CH9/EX9.5.1/9_5_1.sce#S##2686
+9#microwave linear beam tubes O type#9.4.1#Reflex Klystron#9_4_1.sce#72/CH9/EX9.4.1/9_4_1.sce#S##2685
+9#microwave linear beam tubes O type#9.3.4#Output Power of Four Cavity Klystron#9_3_4.sce#72/CH9/EX9.3.4/9_3_4.sce#S##2684
+9#microwave linear beam tubes O type#9.3.3#Characteristics of Two Cavity Klystron#9_3_3.sce#72/CH9/EX9.3.3/9_3_3.sce#S##2683
+9#microwave linear beam tubes O type#9.3.2#Operation of a FourCavity Klystron#9_3_2.sce#72/CH9/EX9.3.2/9_3_2.sce#S##2682
+9#microwave linear beam tubes O type#9.3.1#Four Cavity Klystron#9_3_1.sce#72/CH9/EX9.3.1/9_3_1.sce#S##2681
+9#microwave linear beam tubes O type#9.2.1#Klystron Amplifier#9_2_1.sce#72/CH9/EX9.2.1/9_2_1.sce#S##2680
+8#Avalanche transit time Devices#8.5.1#UP Converter parametric Amplifier#8_5_1.sce#72/CH8/EX8.5.1/8_5_1.sce#S##2670
+8#Avalanche transit time Devices#8.4.1#Breakdown voltage Of a BARITT Diode#8_4_1.sce#72/CH8/EX8.4.1/8_4_1.sce#S##2669
+8#Avalanche transit time Devices#8.3.1#Calculate the avalanche zone velocity#8_3_1.sce#72/CH8/EX8.3.1/8_3_1.sce#S##2668
+8#Avalanche transit time Devices#8.2.1#CW Output Power Of an IMPATT Diode#8_2_1.sce#72/CH8/EX8.2.1/8_2_1.sce#S##2667
+7#transferred electron devices#7.4.1#Output power of an LSA Oscillator#7_4_1.sce#72/CH7/EX7.4.1/7_4_1.sce#S##2666
+7#transferred electron devices#7.3.1#Criterion of Mode Operation#7_3_1.sce#72/CH7/EX7.3.1/7_3_1.sce#S##2664
+7#transferred electron devices#7.2.2#Charactristics of a GaAs Gunn Diode#7_2_2.sce#72/CH7/EX7.2.2/7_2_2.sce#S##2663
+7#transferred electron devices#7.2.1#Conductivity of an n Type GaAs Gunn Diode#7_2_1.sce#72/CH7/EX7.2.1/7_2_1.sce#S##2665
+6#microwave field effect transistors#6.6.2#Design of N Type Three Phase Surface Channel CCD#6_6_2.sce#72/CH6/EX6.6.2/6_6_2.sce#S##2661
+6#microwave field effect transistors#6.6.1#Power Dissipation of a Three Phase CCD#6_6_1.sce#72/CH6/EX6.6.1/6_6_1.sce#S##2660
+6#microwave field effect transistors#6.4.2#Characteristics Of a MOSFET#6_4_2.sce#72/CH6/EX6.4.2/6_4_2.sce#S##2659
+6#microwave field effect transistors#6.4.1#Threshold Voltage of an Ideal MOSFET#6_4_1.sce#72/CH6/EX6.4.1/6_4_1.sce#S##2658
+6#microwave field effect transistors#6.3.2#Sensitivity Of HEMT#6_3_2.sce#72/CH6/EX6.3.2/6_3_2.sce#S##2657
+6#microwave field effect transistors#6.3.1#Current of a HEMT#6_3_1.sce#72/CH6/EX6.3.1/6_3_1.sce#S##2656
+6#microwave field effect transistors#6.2.3#CutOff frequency of a MESFET#6_2_3.sce#72/CH6/EX6.2.3/6_2_3.sce#S##2655
+6#microwave field effect transistors#6.2.2#Current Voltage Characteristics Of a GaAs MESFET#6_2_2.sce#72/CH6/EX6.2.2/6_2_2.sce#S##2654
+6#microwave field effect transistors#6.2.1# Pinch Off Voltage Of a MESFET#6_2_1.sce#72/CH6/EX6.2.1/6_2_1.sce#S##2653
+6#microwave field effect transistors#6.1.2#current of a JFET#6_1_2.sce#72/CH6/EX6.1.2/6_1_2.sce#S##2652
+6#microwave field effect transistors#6.1.1#Pinch Off Voltage Of a Silicon JFET#6_1_1.sce#72/CH6/EX6.1.1/6_1_1.sce#S##2651
+5#microwave transistors and tunnel diodes #5.2.2#n Ge p GaAs n GaAs HBT#5_2_2.sce#72/CH5/EX5.2.2/5_2_2.sce#S##2650
+5#microwave transistors and tunnel diodes #5.2.1#Heterojunction Bipolar Transistor#5_2_1.sce#72/CH5/EX5.2.1/5_2_1.sce#S##2649
+5#microwave transistors and tunnel diodes #5.1.4#Power Frequency Limitation#5_1_4.sce#72/CH5/EX5.1.4/5_1_4.sce#S##2648
+5#microwave transistors and tunnel diodes #5.1.3#Silicon Bipolar Transistor#5_1_3.sce#72/CH5/EX5.1.3/5_1_3.sce#S##2647
+5#microwave transistors and tunnel diodes #5.1.2#I V Characteristics of n p n transistor#5_1_2.sce#72/CH5/EX5.1.2/5_1_2.sce#S##2646
+5#microwave transistors and tunnel diodes #5.1.1#Elements of Hybrid Pi Common Emitter Circuit #5_1_1.sce#72/CH5/EX5.1.1/5_1_1.sce#S##2645
+4#microwave waveguides and components#4.5.2#Operation Of a Balanced Amplifier#4_5_2.sce#72/CH4/EX4.5.2/4_5_2.sce#S##2644
+4#microwave waveguides and components#4.5.1#Directional Coupler#4_5_1.sce#72/CH4/EX4.5.1/4_5_1.sce#S##2643
+4#microwave waveguides and components#4.2.2#Wave Propagation in Circular Waveguide#4_2_2.sce#72/CH4/EX4.2.2/4_2_2.sce#S##2641
+4#microwave waveguides and components#4.2.1#TE10 Mode in Circular Waveguide#4_2_1.sce#72/CH4/EX4.2.1/4_2_1.sce#S##2639
+4#microwave waveguides and components#4.1.2#TE10 mode in Rectangular Waveguide#4_1_2.sce#72/CH4/EX4.1.2/4_1_2.sce#S##2637
+4#microwave waveguides and components#4.1.1#TE10 in Rectangular Waveguide#4_1_1.sce#72/CH4/EX4.1.1/4_1_1.sce#S##2635
+3#Electromagnetic plane waves#3.6.2#Double Stub Matching#3_6_2.sce#72/CH3/EX3.6.2/3_6_2.sce#S##2631
+3#Electromagnetic plane waves#3.6.1#Single Stub Matching#3_6_1.sce#72/CH3/EX3.6.1/3_6_1.sce#S##2628
+3#Electromagnetic plane waves#3.5.2#Impedance with short circuit minima shift#3_5_2.sce#72/CH3/EX3.5.2/3_5_2.sce#S##2630
+3#Electromagnetic plane waves#3.5.1#Location of Voltage maxima and minima from load #3_5_1.sce#72/CH3/EX3.5.1/3_5_1.sce#S##2627
+3#Electromagnetic plane waves#3.4.1#Line Impedance#3_4_1.sce#72/CH3/EX3.4.1/3_4_1.sce#S##2679
+3#Electromagnetic plane waves#3.3.1#Standing Wave Ratio#3_3_1.sce#72/CH3/EX3.3.1/3_3_1.sce#S##2678
+3#Electromagnetic plane waves#3.2.1#reflection coefficient and transmissioncoefficient#3_2_1.sce#72/CH3/EX3.2.1/3_2_1.sce#S##2624
+3#Electromagnetic plane waves#3.1.1#Line characteristic impedance and phase constant#3_1_1.sce#72/CH3/EX3.1.1/3_1_1.sce#S##2623
+2#Electromagnetic plane waves#2.6.6#Computation of a Copper Film Coating#2_6_6.sce#72/CH2/EX2.6.6/2_6_6.sce#S##2622
+2#Electromagnetic plane waves#2.6.5#Calculation of a Gold Film Coating#2_6_5.sce#72/CH2/EX2.6.5/2_6_5.sce#S##2621

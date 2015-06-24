@@ -1,0 +1,13 @@
+clear;
+clc;
+V=120;R1=6;R2=8;R3=3;R4=5;
+a=[7 -4;-1 2];
+b=[60;0];
+b=inv(a)*b;
+I1=b(1,1);
+I2=b(2,1);
+VI1=(R1*I1)+(R2*(I1-I2))-V;
+printf("Summation V*I for first loop = %d\n",VI1);
+VI2=(R3*I2)+(R4*I2)-(R2*(I1-I2));
+printf("Summation V*I for second loop = %d\n",VI2);
+printf("Hence Tellegens theorem has been verified.");

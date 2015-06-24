@@ -1,0 +1,80 @@
+14#APPENDIX C  REVIEW OF BASICS#6.C#determine shunt capacitive reactance using equ C156 and tables#ExampleC_6.sce#1820/CH14/EX6.C/ExampleC_6.sce#S##72047
+14#APPENDIX C  REVIEW OF BASICS#5.C#determine inductive reactance using equ C135 and tables#ExampleC_5.sce#1820/CH14/EX5.C/ExampleC_5.sce#S##72046
+14#APPENDIX C  REVIEW OF BASICS#4.C#determine KVA KV Zb Ib I new Zpu V1 V2 V4 S1 S2 S4 table#ExampleC_4.sce#1820/CH14/EX4.C/ExampleC_4.sce#S##72045
+14#APPENDIX C  REVIEW OF BASICS#3.C#determine turns ratio Xlv Xpu#ExampleC_3.sce#1820/CH14/EX3.C/ExampleC_3.sce#S##72044
+14#APPENDIX C  REVIEW OF BASICS#2.C#determine reactance Zbhv Zblv Xhv Xlv #ExampleC_2.sce#1820/CH14/EX2.C/ExampleC_2.sce#S##72043
+14#APPENDIX C  REVIEW OF BASICS#1.C#determine power S12 P12 Q12#ExampleC_1.sce#1820/CH14/EX1.C/ExampleC_1.sce#S##71991
+13#SAG AND TENSION ANALYSIS#13.2#calculate Wi Wt P We sag vertical sag#Example13_2.sce#1820/CH13/EX13.2/Example13_2.sce#S##71990
+13#SAG AND TENSION ANALYSIS#13.1#calculate length sag Tmax Tmin Tappr#Example13_1.sce#1820/CH13/EX13.1/Example13_1.sce#S##71989
+12#CONSTRUCTION OF OVERHEAD LINES#12.4#calculate Th beta Tv Tg#Example12_4.sce#1820/CH12/EX12.4/Example12_4.sce#S##71988
+12#CONSTRUCTION OF OVERHEAD LINES#12.3#calculate min required pole circumference at ground line#Example12_3.sce#1820/CH12/EX12.3/Example12_3.sce#S##71987
+12#CONSTRUCTION OF OVERHEAD LINES#12.2#calculate pressure of wind on pole and conductors#Example12_2.sce#1820/CH12/EX12.2/Example12_2.sce#S##71986
+12#CONSTRUCTION OF OVERHEAD LINES#12.1#calculate cost of relocating affordability#Example12_1.sce#1820/CH12/EX12.1/Example12_1.sce#S##71985
+10#PROTECTIVE EQUIPMENT AND TRANSMISSION SYSTEM PROTECTION#10.7#determine setting of zone1 zone2 zone3 of mho relay R12#Example10_7.sce#1820/CH10/EX10.7/Example10_7.sce#S##93599
+10#PROTECTIVE EQUIPMENT AND TRANSMISSION SYSTEM PROTECTION#10.6#determine Imax CT VT ZLoad Zr#Example10_6.sce#1820/CH10/EX10.6/Example10_6.sce#S##93598
+10#PROTECTIVE EQUIPMENT AND TRANSMISSION SYSTEM PROTECTION#10.5#determine protection zones and plot of operating time vs impedance#Example10_5.sce#1820/CH10/EX10.5/Example10_5.sce#S##71982
+10#PROTECTIVE EQUIPMENT AND TRANSMISSION SYSTEM PROTECTION#10.4#determine Rarc Z LineImpedanceAngle with Rarc and without#Example10_4.sce#1820/CH10/EX10.4/Example10_4.sce#S##84494
+10#PROTECTIVE EQUIPMENT AND TRANSMISSION SYSTEM PROTECTION#10.2#determine max Idc Imax Imomentary Sinterrupting Smomentary#Example10_2.sce#1820/CH10/EX10.2/Example10_2.sce#S##71981
+10#PROTECTIVE EQUIPMENT AND TRANSMISSION SYSTEM PROTECTION#10.1#calculate subtransient fault current in pu and ampere#Example10_1.sce#1820/CH10/EX10.1/Example10_1.sce#S##71980
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.9#determine Iphase Isequence Vphase Vsequence LinetoLineVoltages at Faultpoints#Example9_9.sce#1820/CH9/EX9.9/Example9_9.sce#S##84534
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.6# determine Pabc Cabc C012 d0 d2#Example9_6.sce#1820/CH9/EX9.6/Example9_6.sce#S##84843
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.5#determine mo m2 for zero negative sequence unbalance#Example9_5.sce#1820/CH9/EX9.5/Example9_5.sce#S##72052
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.4#determine line impedance and sequence impedance matrix of transposed line#Example9_4.sce#1820/CH9/EX9.4/Example9_4.sce#S##72051
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.3#determine line impedance and sequence impedance matrix#Example9_3.sce#1820/CH9/EX9.3/Example9_3.sce#S##72050
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.2#determine complex power V012 I012#Example9_2.sce#1820/CH9/EX9.2/Example9_2.sce#S##72049
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.16#determine Xc0 C0 Ipc Xpc Lpc Spc Vpc#Example9_16.sce#1820/CH9/EX9.16/Example9_16.sce#S##84508
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.15#determine uncoupled positive and negative sequence#Example9_15.sce#1820/CH9/EX9.15/Example9_15.sce#S##84844
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.14#determine admittance matrix#Example9_14.sce#1820/CH9/EX9.14/Example9_14.sce#S##84518
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.13#determine Iphase Isequence Vphase Vsequence LinetoLineVoltages at Faultpoints#Example9_13.sce#1820/CH9/EX9.13/Example9_13.sce#S##84523
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.12#determine Iphase Isequence Vphase Vsequence LinetoLineVoltages at Faultpoints#Example9_12.sce#1820/CH9/EX9.12/Example9_12.sce#S##84529
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.11#determine Iphase Isequence Vphase Vsequence LinetoLineVoltages at Faultpoints#Example9_11.sce#1820/CH9/EX9.11/Example9_11.sce#S##84532
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.10#determine Isequence Iphase Vsequence at fault G1 G2#Example9_10.sce#1820/CH9/EX9.10/Example9_10.sce#S##84533
+9#SYMMETRICAL COMPONENTS AND FAULT ANALYSIS#9.1#determine symmetrical components for phase voltages#Example9_1.sce#1820/CH9/EX9.1/Example9_1.sce#S##72048
+8#LIMITING FACTORS FOR EXTRA HIGH AND ULTRAHIGH VOLTAGE TRANSMISSION#8.2#determine total fair weather corona loss Pc#Example8_2.sce#1820/CH8/EX8.2/Example8_2.sce#S##71897
+8#LIMITING FACTORS FOR EXTRA HIGH AND ULTRAHIGH VOLTAGE TRANSMISSION#8.1#determine disruptive critical rms V0 and visual critical rms Vv#Example8_1.sce#1820/CH8/EX8.1/Example8_1.sce#S##71886
+7#TRANSIENT OVERVOLTAGES AND INSULATION COORDINATION#7.6#determine Crs Crr lattice diagram volatge plot of receiving end voltage with time#Example7_6.sce#1820/CH7/EX7.6/Example7_6.sce#S##71856
+7#TRANSIENT OVERVOLTAGES AND INSULATION COORDINATION#7.5#determine if Cr Crf v i vb ib plot of voltage and current surges#Example7_5.sce#1820/CH7/EX7.5/Example7_5.sce#S##71850
+7#TRANSIENT OVERVOLTAGES AND INSULATION COORDINATION#7.4#determine Crv Cri vb v Crfv ib i Crfi#Example7_4.sce#1820/CH7/EX7.4/Example7_4.sce#S##71839
+7#TRANSIENT OVERVOLTAGES AND INSULATION COORDINATION#7.2#determine surge Power surge current#Example7_2.sce#1820/CH7/EX7.2/Example7_2.sce#S##71817
+7#TRANSIENT OVERVOLTAGES AND INSULATION COORDINATION#7.1#determine surge Power surge current#Example7_1.sce#1820/CH7/EX7.1/Example7_1.sce#S##71815
+6#DIRECT CURRENT POWER TRANSMISSION#6.7#determine u mode Id or Vdr#Example6_7.sce#1820/CH6/EX6.7/Example6_7.sce#S##71796
+6#DIRECT CURRENT POWER TRANSMISSION#6.6#determine alpha u pf Qr#Example6_6.sce#1820/CH6/EX6.6/Example6_6.sce#S##71789
+6#DIRECT CURRENT POWER TRANSMISSION#6.5#calculate u Vdr pf Qr#Example6_5.sce#1820/CH6/EX6.5/Example6_5.sce#S##71779
+6#DIRECT CURRENT POWER TRANSMISSION#6.4#determine Xc for all 3 possible values of ac system reactance#Example6_4.sce#1820/CH6/EX6.4/Example6_4.sce#S##71775
+6#DIRECT CURRENT POWER TRANSMISSION#6.3#calculate KVA rating Wye side KV rating#Example6_3.sce#1820/CH6/EX6.3/Example6_3.sce#S##71770
+6#DIRECT CURRENT POWER TRANSMISSION#6.2#determine Vd ratio of Pdc to Pac and Ploss dc to Ploss ac#Example6_2.sce#1820/CH6/EX6.2/Example6_2.sce#S##71767
+6#DIRECT CURRENT POWER TRANSMISSION#6.10#determine Vd0 E u pf Qr No of bucks#Example6_10.sce#1820/CH6/EX6.10/Example6_10.sce#S##71802
+6#DIRECT CURRENT POWER TRANSMISSION#6.1#determine Vd Id ratio of dc to ac insulation level#Example6_1.sce#1820/CH6/EX6.1/Example6_1.sce#S##71766
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.9#calculate Xm Rs deltaR Ra ratio Ps#Example5_9.sce#1820/CH5/EX5.9/Example5_9.sce#S##71757
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.8#calculate Rdc Reff percent reduction#Example5_8.sce#1820/CH5/EX5.8/Example5_8.sce#S##71756
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.7#calculate Emax C Ic Ri Plc Pdl Pdh#Example5_7.sce#1820/CH5/EX5.7/Example5_7.sce#S##71755
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.6#calculate Geometric factor G1 Ic#Example5_6.sce#1820/CH5/EX5.6/Example5_6.sce#S##71754
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.5#calculate Ic Is pf#Example5_5.sce#1820/CH5/EX5.5/Example5_5.sce#S##71753
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.4#calculate charging current Ic#Example5_4.sce#1820/CH5/EX5.4/Example5_4.sce#S##71752
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.3#calculate Ri Power loss#Example5_3.sce#1820/CH5/EX5.3/Example5_3.sce#S##71751
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.2#calculate potential gradient E1#Example5_2.sce#1820/CH5/EX5.2/Example5_2.sce#S##71750
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.16#calculate A1 A2 A of OH GIL and submarine transmission line#Example5_16.sce#1820/CH5/EX5.16/Example5_16.sce#S##71764
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.15#calculate PlOH PlGIL ElOH ElGIL ClOH ElavgGIL ClavgOH ClavgGIL Csavings breakeven period#Example5_15.sce#1820/CH5/EX5.15/Example5_15.sce#S##71763
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.12#calculate Zabc Z012#Example5_12.sce#1820/CH5/EX5.12/Example5_12.sce#S##71760
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.11#calculate C0 C1 C2 X0 X1 X2 I0 I1 I2#Example5_11.sce#1820/CH5/EX5.11/Example5_11.sce#S##71759
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.10#calculate zero sequence impedance Z00 Z0 Z0a#Example5_10.sce#1820/CH5/EX5.10/Example5_10.sce#S##71758
+5#UNDERGROUND POWER TRANSMISSION AND GAS INSULATED TRANSMISSION LINES#5.1#calculate Emax Emin r#Example5_1.sce#1820/CH5/EX5.1/Example5_1.sce#S##71749
+4#OVERHEAD POWER TRANSMISSION#4.9#calculate SIL#Example4_9.sce#1820/CH4/EX4.9/Example4_9.sce#S##71723
+4#OVERHEAD POWER TRANSMISSION#4.8#calculate attenuation phase change lamda v Vir Vrr Vr Vis Vrs Vs#Example4_8.sce#1820/CH4/EX4.8/Example4_8.sce#S##71719
+4#OVERHEAD POWER TRANSMISSION#4.7#find equivalent pi T circuit and Nominal pi T circuit#Example4_7.sce#1820/CH4/EX4.7/Example4_7.sce#S##84841
+4#OVERHEAD POWER TRANSMISSION#4.6#calculate A B C D Vs I pf P Ploss n VR Is Vr#Example4_6.sce#1820/CH4/EX4.6/Example4_6.sce#S##71716
+4#OVERHEAD POWER TRANSMISSION#4.5#calculate A B C D Vs I pf efficiency using nominal pi#Example4_5.sce#1820/CH4/EX4.5/Example4_5.sce#S##71715
+4#OVERHEAD POWER TRANSMISSION#4.4#calculate A B C D Vs I pf efficiency#Example4_4.sce#1820/CH4/EX4.4/Example4_4.sce#S##71714
+4#OVERHEAD POWER TRANSMISSION#4.3#mutual impedance between the feeders#Example4_3.sce#1820/CH4/EX4.3/Example4_3.sce#S##84697
+4#OVERHEAD POWER TRANSMISSION#4.2#calculate percentage voltage regulation using equation#Example4_2.sce#1820/CH4/EX4.2/Example4_2.sce#S##71416
+4#OVERHEAD POWER TRANSMISSION#4.15#calculate La XL Cn Xc#Example4_15.sce#1820/CH4/EX4.15/Example4_15.sce#S##71748
+4#OVERHEAD POWER TRANSMISSION#4.14#calculate SIL Pmax Qc cost Vroc#Example4_14.sce#1820/CH4/EX4.14/Example4_14.sce#S##71747
+4#OVERHEAD POWER TRANSMISSION#4.13#calculate SIL Pmax Qc Vroc#Example4_13.sce#1820/CH4/EX4.13/Example4_13.sce#S##71746
+4#OVERHEAD POWER TRANSMISSION#4.12#calculate Is Vs Zin P var#Example4_12.sce#1820/CH4/EX4.12/Example4_12.sce#S##71743
+4#OVERHEAD POWER TRANSMISSION#4.11#determine equ A B C D constant#Example4_11.sce#1820/CH4/EX4.11/Example4_11.sce#S##71734
+4#OVERHEAD POWER TRANSMISSION#4.10#determine equ A B C D constant#Example4_10.sce#1820/CH4/EX4.10/Example4_10.sce#S##71730
+4#OVERHEAD POWER TRANSMISSION#4.1#calculate LinetoNeutralVoltage LinetoLineVoltage LoadAngle#Example4_1.sce#1820/CH4/EX4.1/Example4_1.sce#S##71415
+3#FUNDAMENTAL CONCEPTS#3.3#calculate RatedCurrent MVARrating CurrentValue#Example3_3.sce#1820/CH3/EX3.3/Example3_3.sce#S##71414
+3#FUNDAMENTAL CONCEPTS#3.2#determine effective SIL#Example3_2.sce#1820/CH3/EX3.2/Example3_2.sce#S##71413
+3#FUNDAMENTAL CONCEPTS#3.1#determine SIL of the line#Example3_1.sce#1820/CH3/EX3.1/Example3_1.sce#S##71412
+2#TRANSMISSION LINE STRUCTURES AND EQUIPMENT#2.1#calculate tolerable touch step potential#Example2_1.sce#1820/CH2/EX2.1/Example2_1.sce#S##71411

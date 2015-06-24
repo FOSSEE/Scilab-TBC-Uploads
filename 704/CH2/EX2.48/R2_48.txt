@@ -1,0 +1,11 @@
+internal losses in motor(in watts)=   
+ 
+    4490.  
+ 
+ torque generated in motor(in Nw-m)=   
+ 
+    108.10877  
+ 
+ efficiency of the motor(in %)=   
+ 
+    76.614583  

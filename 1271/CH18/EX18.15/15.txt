@@ -1,0 +1,5 @@
+# PROBLEM 15 # 
+Standard formula used 
+   M = V*d 
+
+ Total loss of energy per hour is 6.000000e+11 ergs.

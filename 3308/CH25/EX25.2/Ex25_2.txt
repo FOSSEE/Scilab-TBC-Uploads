@@ -1,0 +1,7 @@
+
+ # force in Surface Grinding # 
+
+
+ Cutting Force = 5.675159 lb
+
+ Thrust Force = 7.377707 lb 

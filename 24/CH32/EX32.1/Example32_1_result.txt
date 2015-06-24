@@ -1,0 +1,3 @@
+**Sample Problem 32-1**
+The average translation kinetic energy of the atoms is 3.88e-002eV
+The difference between the energy of the two arrangement is 1.74e-004eV 

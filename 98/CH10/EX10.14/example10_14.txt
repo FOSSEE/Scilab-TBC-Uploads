@@ -1,0 +1,43 @@
+Total resistance / phase = 10.00 ohm 
+
+Total reactance / phase = 50.00 ohm 
+
+Total susceptance / phase = 0.001000 S 
+
+Recieving end voltage = 38105 V 
+
+Load current = 194.39 A 
+
+Recieving end voltage phasor = 38105+j0 
+
+Load current = 174.95+j(-84.73) 
+
+Charging current at load end = j(19.05) 
+
+Line current = 174.95+j(-65.68) 
+
+Sending end voltage = 43138.76+j(8090.91) 
+
+Line to line sending end voltage = 76.02 kV 
+
+Charging current at sending end = -4.05+j(21.57) 
+
+Sending end current = 170.91+j(-44.11) A 
+
+Sending end current = 176.51 A 
+
+(i) Angle between Vr and Vs = 10.62 degrees 
+
+    Angle between Vr and Is = -14.47 degrees 
+
+    Angle between Is and Vs = 25.10 degrees 
+
+    Sending end power factor = 0.91 
+
+(ii) % Voltage regulation = 15.18 % 
+
+(iii) Sending end power = 21.05 MW 
+
+      Transmission efficiency = 95.02 % 
+
+

@@ -1,0 +1,6 @@
+ # Problem 4 # 
+
+ Standard formula used 
+ E = m*c^2
+ Amount of mass consumed is 30 kg.
+ 

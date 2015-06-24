@@ -1,0 +1,10 @@
+ 
+
+Case(i)
+Total fuel cost for the load of 220MW during 6AM to 6PM = Rs. 127440
+Total fuel cost for the load of 76MW during 6PM to 6AM if both the units run = Rs. 37584
+Total fuel cost for the load during 24hrs if both the units run = Rs. 165024
+
+Case(ii)
+Total fuel cost for the 24hrs laod if only unit 2 run during light loads is = Rs. 165064 
+

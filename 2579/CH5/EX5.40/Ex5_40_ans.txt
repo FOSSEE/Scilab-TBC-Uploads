@@ -1,0 +1,2 @@
+ The line of sight range = 61.612339 km
+ The field strength at a receiving antenna = 23.950566 mV

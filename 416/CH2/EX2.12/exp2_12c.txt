@@ -1,0 +1,19 @@
+  
+ example 2.12   
+ 
+ from the above data,the durations of different loads d 
+      uring one week are                                
+ load            duration 
+ 350MW  4x5   =20hours 
+ 250MW  20+8x5=60hours 
+ 200MW  60+4x2 =68hours 
+ 150MW  68+6x5+15x2 =128hours 
+ 100MW  128+6x5+5x2 =168hours 
+ the load duration curve is plotted in fig   
+ 
+ the total area under the load duration curve is 31600M 
+      Wh which represents the energy conumption in one  
+      week.                                             
+total energy consumed is 24600
+total maximum energy could consume 58800
+load factor =0.418367 

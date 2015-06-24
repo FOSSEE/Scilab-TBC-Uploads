@@ -1,0 +1,12 @@
+B=[600;900;600;600;900;600];//matrix having the values of B
+t=[0.8;0.8;1;0.8;0.8;1;1];//thickness,in order-12,23,34,45,56,61,25;
+L11=200;//leangth 1 of built in end,given in mm
+L12=400;//leangth 2 of built in end,given in mm
+W1=180;//breadth of built in end,given in mm
+L21=150;//leangth 1 of open end,given in mm
+L22=300;//leangth 2 of open end,given in mm
+W2=80;//breadth of open end,given in mm
+L=1.2*10^3;//leangth of Beam,given in mm
+Mx=1.65*10^6;//given,in N.mm
+Sy=10*10^3;//given,in N
+G=27600;//in N/mm^2

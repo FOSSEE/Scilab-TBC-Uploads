@@ -1,0 +1,4 @@
+ Average reactance voltage(in volts)=   
+ 
+    3.4482759  
+ 

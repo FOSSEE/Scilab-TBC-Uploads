@@ -1,0 +1,16 @@
+ Primary current on full load (in Amp)=   
+ 
+    60.606061  
+ 
+ secondary current on full load (in Amp)=   
+ 
+    833.33333  
+ 
+ Maximum value of flux(in Wb)=   
+ 
+    0.0108108  
+ 
+ Primary turns=   
+ 
+    1375.  
+ 

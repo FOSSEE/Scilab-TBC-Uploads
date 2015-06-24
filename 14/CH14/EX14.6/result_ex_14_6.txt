@@ -1,0 +1,5 @@
+ The angular frequency of oscillation is 8.343 elec rad/s 
+
+ The corresponding frquency of oscillation is 1.33 Hz 
+
+ The period of oscillation is 0.753 s 

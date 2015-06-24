@@ -1,0 +1,2 @@
+**Sample Problem 3-6**
+The angle between given vectors is 109.440035 degress 

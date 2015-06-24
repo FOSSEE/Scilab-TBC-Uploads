@@ -1,0 +1,5 @@
+Current density in Copper is jcu=510867.72 A/met^2
+Current density in Aluminium is jal=264833.83 A/met^2
+Drift speed of electrons in copper vdcu=0.000038 met/sec
+Drift speed of electrons in Aluminium vdal=0.000009 met/sec
+ 

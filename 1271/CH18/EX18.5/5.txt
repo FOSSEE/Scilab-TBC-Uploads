@@ -1,0 +1,5 @@
+ # PROBLEM 5 # 
+Standard formula used 
+  mu_r = 1 + Chi 
+
+ Permeability of aluminium is 1.256666e-06 N/A^2.

@@ -1,0 +1,4 @@
+ 
+ nyquist sampling rate = 8000.000000Hz
+ Bit rate = 64000.000000Kb/sec 
+ Execution done.   

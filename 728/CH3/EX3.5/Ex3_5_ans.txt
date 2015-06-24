@@ -1,0 +1,16 @@
+Reflection coefficient =   
+ 
+    0.2 + 0.4i  
+ 
+ Magnitude of reflection coeffcient =   
+ 
+    0.4472136  
+ 
+ Angle (in degree) =   
+ 
+    63.434949  
+ 
+ VSWR =   
+ 
+    2.618034  
+

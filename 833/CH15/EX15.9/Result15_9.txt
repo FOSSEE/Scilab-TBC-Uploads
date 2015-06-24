@@ -1,0 +1,4 @@
+ Efficieny of machine(in %)=   
+ 
+    97.50172  
+ 

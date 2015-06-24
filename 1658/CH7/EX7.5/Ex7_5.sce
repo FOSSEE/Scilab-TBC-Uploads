@@ -1,0 +1,15 @@
+clc;
+//e.g7.5
+C1=5*10**-12;//min
+C2=5*10**-12;//min
+L=10*10**-3;
+CT=(C1*C2)/(C1+C2);//CTmax
+disp('F',CT*1,"CT=");
+fo=1/(2*%pi*sqrt(L*CT));
+disp('MHZ',fo*10**-6,"fo=");
+C1=50*10**-12;//max
+C2=50*10**-12;//max
+CT=(C1*C2)/(C1+C2);//CTmin
+disp('F',CT*1,"CT=");
+fo=1/(2*%pi*sqrt(L*CT));
+disp('kHZ',fo*10**-3,"fo=");

@@ -1,0 +1,2 @@
+ The transmitter antenna gain = 121.346150
+ The transmitter antenna gain in dB = 20.840260 dB

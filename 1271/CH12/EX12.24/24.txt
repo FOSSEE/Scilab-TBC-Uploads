@@ -1,0 +1,1 @@
+ Energy released  by fission of 1 kg of U(235)is 8.201532e+13 J.

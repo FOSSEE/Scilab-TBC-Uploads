@@ -1,0 +1,2 @@
+**Sample Problem 11-6**
+The energy released during the explosion is 2.110520e+007J 

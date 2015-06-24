@@ -1,0 +1,31 @@
+//to calculate %voltage reg and efficiency
+
+clc;
+P=500000;
+V1=2200;
+V2=1100;
+V0=110;
+I0=10;
+P0=400;
+Y0=I0/V0;
+Gi=P0/(V0^2);
+Bm=sqrt(Y0^2-Gi^2);
+Vsc=90;
+Isc=20.5;
+Psc=808;
+Z=Vsc/Isc;
+R=Psc/Isc^2;
+X=sqrt(Z^2-R^2);
+TR=V1/V2;
+Gi_HV=Gi/TR^2;
+Bm_HV=Bm/TR^2;
+R_LV=R/TR^2;
+X_LV=X/TR^2;
+I2=P/V2;
+pf=.8;
+Th=acos(pf);
+dV=I2*(R_LV*cos(Th)+X_LV*sin(Th));
+VR=(dV/V2)*100;    disp(VR,'voltage regulation(%)');
+Pi=P0;
+Pc=Psc;
+n=P*100/(P+Pi+Pc);disp(n,'eff(%)');

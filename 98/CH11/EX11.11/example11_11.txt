@@ -1,0 +1,9 @@
+Phase value of cable voltage = 76.21 kV 
+
+Peak value of phase voltage = 107.78 kV 
+
+Most economical conductor diameter = 3.59 cm 
+
+Internal diameter of sheath = 9.76 cm 
+
+

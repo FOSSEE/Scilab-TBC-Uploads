@@ -1,0 +1,3 @@
+
+ Example 12.2
+ Brittle fracture strength at low temperatures is 309 MNm^-2  

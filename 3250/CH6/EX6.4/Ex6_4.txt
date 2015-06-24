@@ -1,0 +1,3 @@
+ # PROBLEM 6.4 # 
+
+ Removal rate = 2.152707 cm^3/min 

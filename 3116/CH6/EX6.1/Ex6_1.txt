@@ -1,0 +1,3 @@
+ Example 6.1
+
+ Diffusion flux is 2.4e-09 kg/m^2-s 

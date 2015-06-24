@@ -1,0 +1,23 @@
+(i) GENERALISED CONSTANTS OF LINE: 
+    A = 0.992+j(0.003150) 
+    B = 19.84+j(51.82) 
+    C = 0.000000+j(0.0003) 
+    D = 0.992+j(0.003150) 
+
+(ii) SENDING END VOLTAGE: 
+     Recieving end voltage per phase = 76 kV 
+
+     Recieving end current = 154 A 
+
+     Recieving end current phasor = 131.22+j(-81.32) 
+
+     Sending end voltage per phase = 82402.80+j(5426.40) V 
+
+     Magnitude of Sending end voltage = 82.58 kV 
+
+     Line value = 143.03 kV 
+
+(iii) REGULATION: 
+      % regulation = 9.25 % 
+
+

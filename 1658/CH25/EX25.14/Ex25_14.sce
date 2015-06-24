@@ -1,0 +1,9 @@
+clc;
+no=0.6;
+Pcdc=2.5;
+//Poac=Pindc*no;
+//Pindc=2*Pcdc+Poac;
+Pindc=(2*Pcdc)/(1-no);
+disp('W',Pindc,"Pindc=");
+Poac=0.6*Pindc;
+disp('W',Poac,"Poac=");

@@ -1,0 +1,4 @@
+(a)Vd=Vgs<Vgs-Vp.Hence ohmic region operation is confirmed
+(b)Vgs = 2.72 V,-14.72 V
+(c)Vds = 2.72 V,
+(d)Id = 7.28e-003 A 

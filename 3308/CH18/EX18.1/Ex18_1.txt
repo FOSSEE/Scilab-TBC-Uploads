@@ -1,0 +1,4 @@
+ # Blown Film # 
+
+
+ Extrusion Die Diameter =101 mm 

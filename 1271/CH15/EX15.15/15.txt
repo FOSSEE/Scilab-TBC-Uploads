@@ -1,0 +1,5 @@
+ # PROBLEM 15 # 
+Standard formula used 
+ E = (n^2 * h^2) / (8 * m * L^2)) 
+
+ Energy difference is 1.805951e-17 J.

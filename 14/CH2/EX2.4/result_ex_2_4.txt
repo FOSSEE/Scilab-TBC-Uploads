@@ -1,0 +1,61 @@
+
+ Given line-line voltage = 4400.0000 V 
+
+
+
+ Impedance of the load = 20.0000  /_30.0000 ohms 
+
+
+
+ Impedance of the line = 1.4000  /_75.0000 ohms 
+
+
+
+ Base Voltage = 4400.0000 V 
+
+ 
+
+ Base Current = 127.0000 V 
+
+
+
+ Base Impedance = 20.0027 V 
+
+
+
+ Van = 2540.3412  /_ 0.0000 V 
+
+
+
+ Ian = 127.0171  /_ -30.0000 V 
+
+ 
+ Per-unit Quantities   
+
+
+ Per Unit line-line voltage = 1.0000  /_0.0000 per unit 
+
+
+
+ Per Unit line-neutral current = 1.0001  /_-30.0000 per unit 
+
+
+
+ Per Unit line-neutral voltage = 1.0507  /_2.7002 per unit 
+
+
+
+ Per Unit line impedance  = 0.0700  /_75.0000 per unit 
+
+
+
+ Per Unit load impedance = 0.9999  /_30.0000 per unit 
+
+
+
+ The line to neutral voltage at the substation , VLN = 2669.0452 /_0.0000 V 
+
+
+
+ The magnitude of the voltage at the substation bus , VLL= 4622.9218 V 
+

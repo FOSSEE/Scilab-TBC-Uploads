@@ -1,0 +1,2 @@
+C_d = 2E-011 F
+i.e The value of the distributed capacitance = 20 pF 

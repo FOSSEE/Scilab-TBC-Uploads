@@ -1,0 +1,23 @@
+ (a) Current supplied by generator-1(in amperes)=   
+ 
+    23.636364  
+ 
+     Current supplied by generator-2(in amperes)=   
+ 
+    36.363636  
+ 
+ (b) Output voltage of generator-1(in volts)=   
+ 
+    256.36364  
+ 
+ (b) Output voltage of generator-2(in volts)=   
+ 
+    256.36364  
+ 
+ (c) Output KW of generator-1(in Kilo watts)=   
+ 
+    6.0595041  
+ 
+ (c) Output KW of generator-2(in Kilo watts)=   
+ 
+    9.322314               

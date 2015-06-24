@@ -1,0 +1,3 @@
+ 
+
+Reactive power Sensitivity at the bus is = 0.40 pu 

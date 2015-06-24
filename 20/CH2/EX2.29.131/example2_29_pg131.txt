@@ -1,0 +1,11 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_2/code/example2_29_pg131.sce', -1)
+ 
+ According to Equations 2-90, 2-88 and 2-89   
+
+
+Zero sequence voltage is = 302.6549 /_ 7.59 Volts 
+Positive sequence voltage is = 558.9050 /_ 13.62 Volts 
+Negative sequence voltage is = 757.9524 /_ -3.15 Volts
+ 
+-->diary(0);

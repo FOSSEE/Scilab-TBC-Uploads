@@ -1,0 +1,83 @@
+7#Satellite Link Design Fundamentals#7.9#carrier to interface ratio#ex7_9.sce#2282/CH7/EX7.9/ex7_9.sce#S##81621
+7#Satellite Link Design Fundamentals#7.8# System noise temperature#ex7_8.sce#2282/CH7/EX7.8/ex7_8.sce#S##81618
+7#Satellite Link Design Fundamentals#7.7#Loss factor#ex7_7.sce#2282/CH7/EX7.7/ex7_7.sce#S##81617
+7#Satellite Link Design Fundamentals#7.6#noise figure#ex7_6.sce#2282/CH7/EX7.6/ex7_6.sce#S##81615
+7#Satellite Link Design Fundamentals#7.5#overall noise figure#ex7_5.sce#2282/CH7/EX7.5/ex7_5.sce#S##81614
+7#Satellite Link Design Fundamentals#7.4#Noise temperature and noise figure#ex7_4.sce#2282/CH7/EX7.4/ex7_4.sce#S##81613
+7#Satellite Link Design Fundamentals#7.3#Attenuation#ex7_3.sce#2282/CH7/EX7.3/ex7_3.sce#S##81612
+7#Satellite Link Design Fundamentals#7.2#free space path loss#ex7_2.sce#2282/CH7/EX7.2/ex7_2.sce#S##81611
+7#Satellite Link Design Fundamentals#7.15#Link Margin#ex7_15.sce#2282/CH7/EX7.15/ex7_15.sce#S##81628
+7#Satellite Link Design Fundamentals#7.14#Gain per degree Kelvin#ex7_14.sce#2282/CH7/EX7.14/ex7_14.sce#S##81627
+7#Satellite Link Design Fundamentals#7.13#Gain per degree Kelvin#ex7_13.sce#2282/CH7/EX7.13/ex7_13.sce#S##81626
+7#Satellite Link Design Fundamentals#7.12#Longitudinal separation between two satellites#ex7_12.sce#2282/CH7/EX7.12/ex7_12.sce#S##81625
+7#Satellite Link Design Fundamentals#7.11#carrier to interface ratio#ex7_11.sce#2282/CH7/EX7.11/ex7_11.sce#S##81624
+7#Satellite Link Design Fundamentals#7.10#carrier to interface ratio#ex7_10.sce#2282/CH7/EX7.10/ex7_10.sce#S##81623
+7#Satellite Link Design Fundamentals#7.1#Power received by the receiving antenna#ex7_1.sce#2282/CH7/EX7.1/ex7_1.sce#S##81610
+6#Multiple Access Techniques #6.7#Noise reduction#ex6_7.sce#2282/CH6/EX6.7/ex6_7.sce#S##81588
+6#Multiple Access Techniques #6.6#Maximum Permissible Doppler Effect#ex6_6.sce#2282/CH6/EX6.6/ex6_6.sce#S##81587
+6#Multiple Access Techniques #6.5#Chip Duration and chip rate#ex6_5.sce#2282/CH6/EX6.5/ex6_5.sce#S##81586
+6#Multiple Access Techniques #6.4#Doppler Shift#ex6_4.sce#2282/CH6/EX6.4/ex6_4.sce#S##81585
+6#Multiple Access Techniques #6.3#TDMA Frame#ex6_3.sce#2282/CH6/EX6.3/ex6_3.sce#S##81584
+6#Multiple Access Techniques #6.2#Frame efficiency#ex6_2.sce#2282/CH6/EX6.2/ex6_2.sce#S##81583
+6#Multiple Access Techniques #6.1#TDMA frame#ex6_1.sce#2282/CH6/EX6.1/ex6_1.sce#S##81580
+5#Communication Techniques#5.9#modulation index and Bandwidth#ex5_9.sce#2282/CH5/EX5.9/ex5_9.sce#S##81602
+5#Communication Techniques#5.8#modulation index and Bandwidth#ex5_8.sce#2282/CH5/EX5.8/ex5_8.sce#S##81601
+5#Communication Techniques#5.7#frequency deviation and Bandwidth#ex5_7.sce#2282/CH5/EX5.7/ex5_7.sce#S##81600
+5#Communication Techniques#5.6#maximum phase and frequency deviation#ex5_6.sce#2282/CH5/EX5.6/ex5_6.sce#S##81599
+5#Communication Techniques#5.5#modulation parameters#ex5_5.sce#2282/CH5/EX5.5/ex5_5.sce#S##81598
+5#Communication Techniques#5.4#Carrier Frequency#ex5_4.sce#2282/CH5/EX5.4/ex5_4.sce#S##81597
+5#Communication Techniques#5.3#Percentage power saving#ex5_3.sce#2282/CH5/EX5.3/ex5_3.sce#S##81596
+5#Communication Techniques#5.2#Total Power in the modulated signal#ex5_2.sce#2282/CH5/EX5.2/ex5_2.sce#S##81595
+5#Communication Techniques#5.16#Bit duration and Transmission Rate#ex5_16.sce#2282/CH5/EX5.16/ex5_16.sce#S##81609
+5#Communication Techniques#5.15#Sampling rate and sampling interval#ex5_15.sce#2282/CH5/EX5.15/ex5_15.sce#S##81608
+5#Communication Techniques#5.13#bits per sample and time duration for one bit#ex5_13.sce#2282/CH5/EX5.13/ex5_13.sce#S##81606
+5#Communication Techniques#5.12#Nyquist rate#ex5_12.sce#2282/CH5/EX5.12/ex5_12.sce#S##81605
+5#Communication Techniques#5.11#Sampling level quantizing levels and no of bits#ex5_11.sce#2282/CH5/EX5.11/ex5_11.sce#S##81604
+5#Communication Techniques#5.10#Daviation ratio and Bandwidth#ex5_10.sce#2282/CH5/EX5.10/ex5_10.sce#S##81603
+5#Communication Techniques#5.1#Power Saving#ex5_1.sce#2282/CH5/EX5.1/ex5_1.sce#S##81594
+4#Satellite Hardware#4.9#Directivity#ex4_9.sce#2282/CH4/EX4.9/ex4_9.sce#S##81547
+4#Satellite Hardware#4.8#Aperture efficiency and effective aperture#ex4_8.sce#2282/CH4/EX4.8/ex4_8.sce#S##81546
+4#Satellite Hardware#4.7#Antenna Gain#ex4_7.sce#2282/CH4/EX4.7/ex4_7.sce#S##81544
+4#Satellite Hardware#4.6#Mass of battery system#ex4_6.sce#2282/CH4/EX4.6/ex4_6.sce#S##81545
+4#Satellite Hardware#4.5# Required no of solar cells#ex4_5.sce#2282/CH4/EX4.5/ex4_5.sce#S##81543
+4#Satellite Hardware#4.3#Mass of propellant to be burnt#ex4_3.sce#2282/CH4/EX4.3/ex4_3.sce#S##81541
+4#Satellite Hardware#4.2#Mass of propellant to be burnt#ex4_2.sce#2282/CH4/EX4.2/ex4_2.sce#S##81540
+4#Satellite Hardware#4.15#Earth station EIRP#ex4_15.sce#2282/CH4/EX4.15/ex4_15.sce#S##81577
+4#Satellite Hardware#4.14#phase angle #ex4_14.sce#2282/CH4/EX4.14/ex4_14.sce#S##81575
+4#Satellite Hardware#4.13#beam width#ex4_13.sce#2282/CH4/EX4.13/ex4_13.sce#S##81563
+4#Satellite Hardware#4.12#gain and beam width#ex4_12.sce#2282/CH4/EX4.12/ex4_12.sce#S##81551
+4#Satellite Hardware#4.11#received signal strength#ex4_11.sce#2282/CH4/EX4.11/ex4_11.sce#S##81549
+4#Satellite Hardware#4.10#null to null beam width#ex4_10.sce#2282/CH4/EX4.10/ex4_10.sce#S##81548
+4#Satellite Hardware#4.1#Ejection velocity#ex4_1.sce#2282/CH4/EX4.1/ex4_1.sce#S##81539
+3#Satellite Launch and In orbit Operations#3.9#line of sight distance#ex3_9.sce#2282/CH3/EX3.9/ex3_9.sce#S##81532
+3#Satellite Launch and In orbit Operations#3.8#Maximum line of sight distance#ex3_8.sce#2282/CH3/EX3.8/ex3_8.sce#S##81531
+3#Satellite Launch and In orbit Operations#3.7#Velocity thrust#ex3_7.sce#2282/CH3/EX3.7/ex3_7.sce#S##81530
+3#Satellite Launch and In orbit Operations#3.6#Velocity thrust#ex3_6.sce#2282/CH3/EX3.6/ex3_6.sce#S##81529
+3#Satellite Launch and In orbit Operations#3.5#Velocity thrust#ex3_5.sce#2282/CH3/EX3.5/ex3_5.sce#S##81528
+3#Satellite Launch and In orbit Operations#3.4#Velocity thrust#ex3_4.sce#2282/CH3/EX3.4/ex3_4.sce#S##81527
+3#Satellite Launch and In orbit Operations#3.3#Velocity thrust#ex3_3.sce#2282/CH3/EX3.3/ex3_3.sce#S##81526
+3#Satellite Launch and In orbit Operations#3.2#Velocity thrust#ex3_2.sce#2282/CH3/EX3.2/ex3_2.sce#S##81525
+3#Satellite Launch and In orbit Operations#3.15#Area swept by ground track of satellite#ex3_15.sce#2282/CH3/EX3.15/ex3_15.sce#S##81538
+3#Satellite Launch and In orbit Operations#3.14#covered surface area#ex3_14.sce#2282/CH3/EX3.14/ex3_14.sce#S##81537
+3#Satellite Launch and In orbit Operations#3.13#Angular spacing and intersatellite distance#ex3_13.sce#2282/CH3/EX3.13/ex3_13.sce#S##81536
+3#Satellite Launch and In orbit Operations#3.12#Delay calculation#ex3_12.sce#2282/CH3/EX3.12/ex3_12.sce#S##81535
+3#Satellite Launch and In orbit Operations#3.11#Azimuth and elevation angle#ex3_11.sce#2282/CH3/EX3.11/ex3_11.sce#S##81534
+3#Satellite Launch and In orbit Operations#3.10#Inter satellite distance#ex3_10.sce#2282/CH3/EX3.10/ex3_10.sce#S##81533
+3#Satellite Launch and In orbit Operations#3.1#Inclination Angle#ex3_1.sce#2282/CH3/EX3.1/ex3_1.sce#S##81524
+2#Satellite orbits and Trajectories#2.9#Orbital time period#ex2_9.sce#2282/CH2/EX2.9/ex2_9.sce#S##80769
+2#Satellite orbits and Trajectories#2.8#Satellite velocity at particular point#ex2_8.sce#2282/CH2/EX2.8/ex2_8.sce#S##80768
+2#Satellite orbits and Trajectories#2.7#Satellite velocity at particular point#ex2_7.sce#2282/CH2/EX2.7/ex2_7.sce#S##80767
+2#Satellite orbits and Trajectories#2.6#Satellite velocity at particular point #ex2_6.sce#2282/CH2/EX2.6/ex2_6.sce#S##80766
+2#Satellite orbits and Trajectories#2.5#Orbit eccentricity#ex2_5.sce#2282/CH2/EX2.5/ex2_5.sce#S##80765
+2#Satellite orbits and Trajectories#2.4#Orbit parameters#ex2_4.sce#2282/CH2/EX2.4/ex2_4.sce#S##80764
+2#Satellite orbits and Trajectories#2.3#Orbit parameters#ex2_3.sce#2282/CH2/EX2.3/ex2_3.sce#S##80763
+2#Satellite orbits and Trajectories#2.2#Orbit parameters#ex2_2.sce#2282/CH2/EX2.2/ex2_2.sce#S##80762
+2#Satellite orbits and Trajectories#2.18#Apogee Distance#ex2_18.sce#2282/CH2/EX2.18/ex2_18.sce#S##80779
+2#Satellite orbits and Trajectories#2.17#velocity of satellite#ex2_17.sce#2282/CH2/EX2.17/ex2_17.sce#S##80778
+2#Satellite orbits and Trajectories#2.16#Apogee distance#ex2_16.sce#2282/CH2/EX2.16/ex2_16.sce#S##80776
+2#Satellite orbits and Trajectories#2.14#velocity of satellite at particular point#ex2_14.sce#2282/CH2/EX2.14/ex2_14.sce#S##80774
+2#Satellite orbits and Trajectories#2.13#velocity at apogee#ex2_13.sce#2282/CH2/EX2.13/ex2_13.sce#S##80773
+2#Satellite orbits and Trajectories#2.12#Time required to move between two points#ex2_12.sce#2282/CH2/EX2.12/ex2_12.sce#S##80772
+2#Satellite orbits and Trajectories#2.11#Orbit parameters#ex2_11.sce#2282/CH2/EX2.11/ex2_11.sce#S##80771
+2#Satellite orbits and Trajectories#2.10#Ratio of orbital time period#ex2_10.sce#2282/CH2/EX2.10/ex2_10.sce#S##80770
+2#Satellite orbits and Trajectories#2.1#velocity of satellite#ex2_1.sce#2282/CH2/EX2.1/ex2_1.sce#S##80761

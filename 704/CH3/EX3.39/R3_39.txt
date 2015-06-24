@@ -1,0 +1,17 @@
+  
+ KVA transformed(in KVA)=   
+ 
+    25.  
+ 
+ Power transformed(in KW)=   
+ 
+    20.  
+ 
+ Power conducted(in KW)=   
+ 
+    200.  
+ 
+ Efficiency of the auto transformer(in %)=   
+ 
+    99.  
+ 

@@ -1,0 +1,87 @@
+ ans  =
+ 
+    2.  
+ 
+-->exec('Example12.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            24   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 12    :    Show the effect of sharing a pipe between two processes from parent to child 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat pipe.c      # to open the file emp.lst /* Program: pipe.c -- Shares a pipe between two processes for data to flow from parent to child*/
+#include <stdio.h>
+#include <unistd.h>
+
+void quit(char *, int);
+int main(void) {
+    int n,fd[2];       /* fd[2] to be filled up by pipe() */
+    char buf[100];     /* Buffer to be used by read() */
+    
+    if (pipe(fd) < 0)  /* fd[0] is read end */
+    quit("pipe",1);    /* fd[1] is write end */
+   
+    switch (fork()) {    /* Pipe has four descriptors now */
+    case -1:quit("Fork error",2);
+     case 0:close(fd[1]); /* CHILD-Close write end of pipe */
+            n=read(fd[0],buf,100);  /* and read from its read end */
+            write(STDOUT_FILENO,buf,n);
+            break;
+     default: close(fd[0]);  /*PARENT-Close read end of pipe */
+            write(fd[1],"Writing to pipe\n", 16); /* write to write end */
+     }
+     exit(0);
+}
+ $ cc shell.c $ a.out  Writing to pipe 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

@@ -1,0 +1,16 @@
+ Characteristic impedance (in ohms) =   
+ 
+    1012.5002 - 155.81342i  
+ 
+ Atteneuation constant (in NP/km) =   
+ 
+    0.0039869  
+ 
+ Phase constant (in radian/km) =   
+ 
+    0.0254360  
+ 
+ Power delivered to load (in microwatt =)   
+ 
+    72.141799
+

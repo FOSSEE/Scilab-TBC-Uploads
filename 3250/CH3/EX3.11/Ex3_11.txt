@@ -1,0 +1,4 @@
+ # PROBLEM 3.11 # 
+
+ Maximum force required for extruding the cylindrical aluminium billet = 2436266 N, 
+ Percent of the total power input will be lost in friction at the start of the operation = 66.024761 percent.  

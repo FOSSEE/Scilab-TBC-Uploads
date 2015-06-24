@@ -1,0 +1,1 @@
+The velocity of a plane wave = 1.500000*10^8 m/s

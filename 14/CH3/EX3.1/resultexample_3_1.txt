@@ -1,0 +1,13 @@
+ The dc resistance at 20 degree Celsius = 0.015580 ohm per 1000 ft
+
+
+
+ The dc resistance at 50 degree Celsius = 0.017464 ohm per 1000 ft 
+
+
+
+ Ratio of ac to dc resistance = 1.037  
+
+
+
+ Skin effect causes a 3.7 increase in resistance.

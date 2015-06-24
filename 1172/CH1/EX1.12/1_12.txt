@@ -1,0 +1,7 @@
+# Problem 12 # 
+ 
+ Standard formula used 
+ D_a^2 – D_b^2 = 4*p*R*lambda 
+
+ Wavelength of light used is 5880 Angstrom.
+

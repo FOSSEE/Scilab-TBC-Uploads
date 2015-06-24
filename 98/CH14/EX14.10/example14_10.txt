@@ -1,0 +1,13 @@
+Vr = 230/_0 
+Vy = 230/_-120 
+Vb = 230/_120 
+
+Ir = 30/_-30 
+Iy = 30/_-90 
+Ib = 30/_120 
+
+Nuetral current = 10.98+j(-19.02) 
+
+The supply voltage of phase R to nuetral = Er = 239.82/_-2.54 volts 
+
+

@@ -1,0 +1,4 @@
+  
+ probability of getting recorded number is 2   
+ 
+    0.0972222 

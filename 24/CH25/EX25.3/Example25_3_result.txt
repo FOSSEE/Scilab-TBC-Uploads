@@ -1,0 +1,2 @@
+**Sample Problem 25-3**
+The electric potential at point P is equal to 3.521446e+002V

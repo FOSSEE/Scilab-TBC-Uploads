@@ -1,0 +1,5 @@
+ # PROBLEM 3.9 # 
+
+ Maximum bending force = 4124 N, 
+ The required puch angle = 88.681608°,
+ The stock length = 89.175451 mm 

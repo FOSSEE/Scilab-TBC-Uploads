@@ -1,0 +1,65 @@
+-->//(Springs) Example 10.24
+ 
+-->//Number of extra full length leaves nf
+ 
+-->nf = 3
+ nf  =
+ 
+    3.  
+ 
+-->//Number of graduated length leaves ng
+ 
+-->ng = 15
+ ng  =
+ 
+    15.  
+ 
+-->//Centre-to-centre distance between two eyes l (m)
+ 
+-->l = 1
+ l  =
+ 
+    1.  
+ 
+-->L = l/2
+ L  =
+ 
+    0.5  
+ 
+-->//Maximum force acting on each eye of the spring P (kN)
+ 
+-->P = 75/2
+ P  =
+ 
+    37.5  
+ 
+-->//Ratio of width to thickness of the spring r (mm)
+ 
+-->r = 9
+ r  =
+ 
+    9.  
+ 
+-->//Modulus of elasticity E (N/mm2)
+ 
+-->E = 207000
+ E  =
+ 
+    207000.  
+ 
+-->//Stress induced in the leaves sigmab (N/mm2)
+ 
+-->sigmab = 450
+ sigmab  =
+ 
+    450.  
+ 
+
+Thickness of the leaves(t) = 11.556021 or 12.000000 mm
+
+Width of the leaves(b) = 108.000000 mm
+
+Initial nip(C) = 13.482205 mm
+
+Initial pre-load(Pi) = 4807.692308 N
+ 

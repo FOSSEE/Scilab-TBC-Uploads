@@ -1,0 +1,15 @@
+ P = 0.776 per unit 
+ Q = 0.194 per unit
+
+ Eg = 1.42 /_34.36 per unit 
+
+ Eth = 0.94 /_-9.76 per unit 
+
+ Phase angle of Vt = 9.47 
+
+ I_b = 0.85 /_-24.32 per unit 
+
+ P = 0.776 per unit 
+ Q = 0.346 per unit
+
+ Eg = 1.55 /_29.67 per unit 

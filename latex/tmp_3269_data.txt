@@ -1,0 +1,118 @@
+11#Reactor Licensing Safety and the Environment#11.9#Activity of radionuclide release into atmosphere#Ex11_9.sce#3269/CH11/EX11.9/Ex11_9.sce#S##114422
+11#Reactor Licensing Safety and the Environment#11.8#Direct dose from gamma rays#Ex11_8.sce#3269/CH11/EX11.8/Ex11_8.sce#S##114421
+11#Reactor Licensing Safety and the Environment#11.7#External dose from gamma rays#Ex11_7.sce#3269/CH11/EX11.7/Ex11_7.sce#S##114420
+11#Reactor Licensing Safety and the Environment#11.6#Ground exposure from gamma rays#Ex11_6.sce#3269/CH11/EX11.6/Ex11_6.sce#S##114419
+11#Reactor Licensing Safety and the Environment#11.5#Dose rate to thyroid#Ex11_5.sce#3269/CH11/EX11.5/Ex11_5.sce#S##114418
+11#Reactor Licensing Safety and the Environment#11.4#External dose from gamma rays#Ex11_4.sce#3269/CH11/EX11.4/Ex11_4.sce#S##114417
+11#Reactor Licensing Safety and the Environment#11.3#External dose from gamma rays#Ex11_3.sce#3269/CH11/EX11.3/Ex11_3.sce#S##114416
+11#Reactor Licensing Safety and the Environment#11.2#External dose from gamma rays#Ex11_2.sce#3269/CH11/EX11.2/Ex11_2.sce#S##114415
+11#Reactor Licensing Safety and the Environment#11.12#Activity of radioactive liquid effluent#Ex11_12.sce#3269/CH11/EX11.12/Ex11_12.sce#S##114425
+11#Reactor Licensing Safety and the Environment#11.11#Activity of radioactive gas effluent#Ex11_11.sce#3269/CH11/EX11.11/Ex11_11.sce#S##114424
+11#Reactor Licensing Safety and the Environment#11.10#Concentration of radionuclide#Ex11_10.sce#3269/CH11/EX11.10/Ex11_10.sce#S##114423
+11#Reactor Licensing Safety and the Environment#11.1#Diffusion of radioactive effluents#Ex11_1.sce#3269/CH11/EX11.1/Ex11_1.sce#S##114414
+10#Radiation Shielding#10.9#Coolant activity#Ex10_9.sce#3269/CH10/EX10.9/Ex10_9.sce#S##114413
+10#Radiation Shielding#10.8#Shielding of prompt fission gamma rays#Ex10_8.sce#3269/CH10/EX10.8/Ex10_8.sce#S##114412
+10#Radiation Shielding#10.7#Dose equivalent rate and thickness#Ex10_7.sce#3269/CH10/EX10.7/Ex10_7.sce#S##114411
+10#Radiation Shielding#10.6#Removal cross section#Ex10_6.sce#3269/CH10/EX10.6/Ex10_6.sce#S##114410
+10#Radiation Shielding#10.5#Removal cross section#Ex10_5.sce#3269/CH10/EX10.5/Ex10_5.sce#S##114409
+10#Radiation Shielding#10.4#Multilayered shielding#Ex10_4.sce#3269/CH10/EX10.4/Ex10_4.sce#S##114408
+10#Radiation Shielding#10.3#Shielding of infinite planar source#Ex10_3.sce#3269/CH10/EX10.3/Ex10_3.sce#S##114406
+10#Radiation Shielding#10.3#Shielding of infinite planar source#Ex10_3.jpg#3269/CH10/EX10.3/Ex10_3.jpg#R##114407
+10#Radiation Shielding#10.2#Gamma ray buildup factor#Ex10_2.sce#3269/CH10/EX10.2/Ex10_2.sce#S##114404
+10#Radiation Shielding#10.2#Gamma ray buildup factor#Ex10_2.jpg#3269/CH10/EX10.2/Ex10_2.jpg#R##114405
+10#Radiation Shielding#10.1#Gamma ray buildup factor#Ex10_1.sce#3269/CH10/EX10.1/Ex10_1.sce#S##114403
+9#Radiation Protection#9.9#External exposure due to neutrons#Ex9_9.sce#3269/CH9/EX9.9/Ex9_9.sce#S##114398
+9#Radiation Protection#9.8#External exposure due to neutrons#Ex9_8.sce#3269/CH9/EX9.8/Ex9_8.sce#S##114397
+9#Radiation Protection#9.7#External exposure due to X rays#Ex9_7.sce#3269/CH9/EX9.7/Ex9_7.sce#S##114396
+9#Radiation Protection#9.6#External exposure due to gamma rays#Ex9_6.sce#3269/CH9/EX9.6/Ex9_6.sce#S##114395
+9#Radiation Protection#9.5#Chronic radiation exposure#Ex9_5.sce#3269/CH9/EX9.5/Ex9_5.sce#S##114394
+9#Radiation Protection#9.4#Acute radiation exposure#Ex9_4.sce#3269/CH9/EX9.4/Ex9_4.sce#S##114393
+9#Radiation Protection#9.3#Acute radiation exposure#Ex9_3.sce#3269/CH9/EX9.3/Ex9_3.sce#S##114392
+9#Radiation Protection#9.2#Absorbed dose rate and dose equivalent rate#Ex9_2.sce#3269/CH9/EX9.2/Ex9_2.sce#S##114391
+9#Radiation Protection#9.13#Acute radiation exposure#Ex9_13.sce#3269/CH9/EX9.13/Ex9_13.sce#S##114402
+9#Radiation Protection#9.12#Acute radiation exposure#Ex9_12.sce#3269/CH9/EX9.12/Ex9_12.sce#S##114401
+9#Radiation Protection#9.11#Maximum Permissible Concentration#Ex9_11.sce#3269/CH9/EX9.11/Ex9_11.sce#S##114400
+9#Radiation Protection#9.10#Internal exposure due to radionuclide#Ex9_10.sce#3269/CH9/EX9.10/Ex9_10.sce#S##114399
+9#Radiation Protection#9.1#Gamma ray interaction#Ex9_1.sce#3269/CH9/EX9.1/Ex9_1.sce#S##114390
+8#Heat Removal from Nuclear Reactors#8.9#Heat transfer coefficient#Ex8_9.sce#3269/CH8/EX8.9/Ex8_9.sce#S##114386
+8#Heat Removal from Nuclear Reactors#8.8#Reynolds number#Ex8_8.sce#3269/CH8/EX8.8/Ex8_8.sce#S##114385
+8#Heat Removal from Nuclear Reactors#8.7#Fuel rod temperature parameters and coolant temperature#Ex8_7.sce#3269/CH8/EX8.7/Ex8_7.sce#S##114384
+8#Heat Removal from Nuclear Reactors#8.6#Coolant temperature#Ex8_6.sce#3269/CH8/EX8.6/Ex8_6.sce#S##114383
+8#Heat Removal from Nuclear Reactors#8.5#Fuel rod temperature parameters#Ex8_5.sce#3269/CH8/EX8.5/Ex8_5.sce#S##114382
+8#Heat Removal from Nuclear Reactors#8.4#Decay energy#Ex8_4.sce#3269/CH8/EX8.4/Ex8_4.sce#S##114381
+8#Heat Removal from Nuclear Reactors#8.3#Heat production in fuel rods#Ex8_3.sce#3269/CH8/EX8.3/Ex8_3.sce#S##114380
+8#Heat Removal from Nuclear Reactors#8.2#Steam temperature#Ex8_2.sce#3269/CH8/EX8.2/Ex8_2.sce#S##114379
+8#Heat Removal from Nuclear Reactors#8.12#Fuel rod calculation#Ex8_12.sce#3269/CH8/EX8.12/Ex8_12.sce#S##114389
+8#Heat Removal from Nuclear Reactors#8.11#Engineering sub factor#Ex8_11.sce#3269/CH8/EX8.11/Ex8_11.sce#S##114388
+8#Heat Removal from Nuclear Reactors#8.10#Boiling crisis#Ex8_10.sce#3269/CH8/EX8.10/Ex8_10.sce#S##114387
+8#Heat Removal from Nuclear Reactors#8.1#Coolant temperature#Ex8_1.sce#3269/CH8/EX8.1/Ex8_1.sce#S##114378
+7#The Time Dependent Reactor#7.9#Total control rod worth#Ex7_9.sce#3269/CH7/EX7.9/Ex7_9.sce#S##114372
+7#The Time Dependent Reactor#7.8#Total control rod worth#Ex7_8.sce#3269/CH7/EX7.8/Ex7_8.sce#S##114371
+7#The Time Dependent Reactor#7.7#Control worth of a center rod#Ex7_7.sce#3269/CH7/EX7.7/Ex7_7.sce#S##114370
+7#The Time Dependent Reactor#7.6#Prompt drop#Ex7_6.sce#3269/CH7/EX7.6/Ex7_6.sce#S##116297
+7#The Time Dependent Reactor#7.5#Reactivity#Ex7_5.sce#3269/CH7/EX7.5/Ex7_5.sce#S##114368
+7#The Time Dependent Reactor#7.4#Reactor period#Ex7_4.sce#3269/CH7/EX7.4/Ex7_4.sce#S##116296
+7#The Time Dependent Reactor#7.3#Reactivity#Ex7_3.sce#3269/CH7/EX7.3/Ex7_3.sce#S##114366
+7#The Time Dependent Reactor#7.2#Reactor period#Ex7_2.sce#3269/CH7/EX7.2/Ex7_2.sce#S##114365
+7#The Time Dependent Reactor#7.14#Fission product poisons#Ex7_14.sce#3269/CH7/EX7.14/Ex7_14.sce#S##114377
+7#The Time Dependent Reactor#7.13#Temperature coefficient of reactivity#Ex7_13.sce#3269/CH7/EX7.13/Ex7_13.sce#S##114376
+7#The Time Dependent Reactor#7.12#Chemical Shim#Ex7_12.sce#3269/CH7/EX7.12/Ex7_12.sce#S##114375
+7#The Time Dependent Reactor#7.11#Differential control rod worth#Ex7_11.sce#3269/CH7/EX7.11/Ex7_11.sce#S##114374
+7#The Time Dependent Reactor#7.10#Total control rod worth#Ex7_10.sce#3269/CH7/EX7.10/Ex7_10.sce#S##114373
+7#The Time Dependent Reactor#7.1#Reactor kinetics#Ex7_1.sce#3269/CH7/EX7.1/Ex7_1.sce#S##114364
+6#Neutron Reactor Theory#6.9#Critical radius and mass#Ex6_9.sce#3269/CH6/EX6.9/Ex6_9.sce#S##114359
+6#Neutron Reactor Theory#6.8#Critical radius#Ex6_8.sce#3269/CH6/EX6.8/Ex6_8.sce#S##114358
+6#Neutron Reactor Theory#6.7#Critical concentration#Ex6_7.sce#3269/CH6/EX6.7/Ex6_7.sce#S##114357
+6#Neutron Reactor Theory#6.6#Critical mass#Ex6_6.sce#3269/CH6/EX6.6/Ex6_6.sce#S##114356
+6#Neutron Reactor Theory#6.5#Critical parameter calculations#Ex6_5.sce#3269/CH6/EX6.5/Ex6_5.sce#S##114355
+6#Neutron Reactor Theory#6.4#Non leakage probability#Ex6_4.sce#3269/CH6/EX6.4/Ex6_4.sce#S##114354
+6#Neutron Reactor Theory#6.3#Critical radius#Ex6_3.sce#3269/CH6/EX6.3/Ex6_3.sce#S##114353
+6#Neutron Reactor Theory#6.2#Maximum and average flux#Ex6_2.sce#3269/CH6/EX6.2/Ex6_2.sce#S##114352
+6#Neutron Reactor Theory#6.13#Critical parameter for heterogenous reactor#Ex6_13.sce#3269/CH6/EX6.13/Ex6_13.sce#S##114363
+6#Neutron Reactor Theory#6.12#Critical parameter for heterogenous reactor#Ex6_12.sce#3269/CH6/EX6.12/Ex6_12.sce#S##114362
+6#Neutron Reactor Theory#6.11#Critical parameter for heterogenous reactor#Ex6_11.sce#3269/CH6/EX6.11/Ex6_11.sce#S##114361
+6#Neutron Reactor Theory#6.10#Critical parameters for heterogenous reactor#Ex6_10.sce#3269/CH6/EX6.10/Ex6_10.sce#S##114360
+6#Neutron Reactor Theory#6.1#Critical neutron parameters#Ex6_1.sce#3269/CH6/EX6.1/Ex6_1.sce#S##114351
+5#Neutron Diffusion and Moderation#5.7#Neutron diffusion#Ex5_7.sce#3269/CH5/EX5.7/Ex5_7.sce#S##114350
+5#Neutron Diffusion and Moderation#5.6#Neutron diffusion#Ex5_6.sce#3269/CH5/EX5.6/Ex5_6.sce#S##114349
+5#Neutron Diffusion and Moderation#5.5#Multigroup diffusion theory#Ex5_5.sce#3269/CH5/EX5.5/Ex5_5.sce#S##114348
+5#Neutron Diffusion and Moderation#5.2#Neutron diffusion#Ex5_2.sce#3269/CH5/EX5.2/Ex5_2.sce#S##114347
+4#Nuclear Reactors and Nuclear Power#4.6#Separative work#Ex4_6.sce#3269/CH4/EX4.6/Ex4_6.sce#S##116295
+4#Nuclear Reactors and Nuclear Power#4.5#Nuclear fuel utlization#Ex4_5.sce#3269/CH4/EX4.5/Ex4_5.sce#S##114345
+4#Nuclear Reactors and Nuclear Power#4.4#Plant availability factor and capacity factor#Ex4_4.sce#3269/CH4/EX4.4/Ex4_4.sce#S##116294
+4#Nuclear Reactors and Nuclear Power#4.3#Nuclear fuel performance#Ex4_3.sce#3269/CH4/EX4.3/Ex4_3.sce#S##114343
+4#Nuclear Reactors and Nuclear Power#4.2#Production and doubling time of nuclear fuels#Ex4_2.sce#3269/CH4/EX4.2/Ex4_2.sce#S##114342
+4#Nuclear Reactors and Nuclear Power#4.1#Conversion and Breeding of nuclear fuels#Ex4_1.sce#3269/CH4/EX4.1/Ex4_1.sce#S##114341
+3#Interaction of Radiation with Matter#3.9#Radiative capture reaction#Ex3_9.sce#3269/CH3/EX3.9/Ex3_9.sce#S##114332
+3#Interaction of Radiation with Matter#3.8#Elastic scattering#Ex3_8.sce#3269/CH3/EX3.8/Ex3_8.sce#S##114331
+3#Interaction of Radiation with Matter#3.7#Reactor power#Ex3_7.sce#3269/CH3/EX3.7/Ex3_7.sce#S##114330
+3#Interaction of Radiation with Matter#3.6#Scattering cross section#Ex3_6.sce#3269/CH3/EX3.6/Ex3_6.sce#S##114329
+3#Interaction of Radiation with Matter#3.5#Absorption cross section#Ex3_5.sce#3269/CH3/EX3.5/Ex3_5.sce#S##114328
+3#Interaction of Radiation with Matter#3.4#Mean free path#Ex3_4.sce#3269/CH3/EX3.4/Ex3_4.sce#S##114327
+3#Interaction of Radiation with Matter#3.3#Neutron collsion#Ex3_3.sce#3269/CH3/EX3.3/Ex3_3.sce#S##114326
+3#Interaction of Radiation with Matter#3.2#Probability of nuclear reaction#Ex3_2.sce#3269/CH3/EX3.2/Ex3_2.sce#S##114325
+3#Interaction of Radiation with Matter#3.17#Range of charged particles#Ex3_17.sce#3269/CH3/EX3.17/Ex3_17.sce#S##114340
+3#Interaction of Radiation with Matter#3.16#Energy deposition of radioactive samples#Ex3_16.sce#3269/CH3/EX3.16/Ex3_16.sce#S##114339
+3#Interaction of Radiation with Matter#3.15#Gamma ray attenuation in materials#Ex3_15.sce#3269/CH3/EX3.15/Ex3_15.sce#S##114338
+3#Interaction of Radiation with Matter#3.14#Energy released in fission reaction#Ex3_14.sce#3269/CH3/EX3.14/Ex3_14.sce#S##114337
+3#Interaction of Radiation with Matter#3.13#Fission neutron estimation#Ex3_13.sce#3269/CH3/EX3.13/Ex3_13.sce#S##114336
+3#Interaction of Radiation with Matter#3.12#Activity estimation#Ex3_12.sce#3269/CH3/EX3.12/Ex3_12.sce#S##114335
+3#Interaction of Radiation with Matter#3.11#Neutron absorption rate#Ex3_11.sce#3269/CH3/EX3.11/Ex3_11.sce#S##114334
+3#Interaction of Radiation with Matter#3.10#Energy loss in scattering reactions#Ex3_10.sce#3269/CH3/EX3.10/Ex3_10.sce#S##114333
+3#Interaction of Radiation with Matter#3.1#Neutron collsion#Ex3_1.sce#3269/CH3/EX3.1/Ex3_1.sce#S##114324
+2#Atomic and Nuclear Physics#2.9#Binding energy#Ex2_9.sce#3269/CH2/EX2.9/Ex2_9.sce#S##114316
+2#Atomic and Nuclear Physics#2.8#Q value of nuclear reaction#Ex2_8.sce#3269/CH2/EX2.8/Ex2_8.sce#S##114315
+2#Atomic and Nuclear Physics#2.7#Nuclear Reaction#Ex2_7.sce#3269/CH2/EX2.7/Ex2_7.sce#S##114314
+2#Atomic and Nuclear Physics#2.6#Activity of radioactive foil#Ex2_6.sce#3269/CH2/EX2.6/Ex2_6.sce#S##114313
+2#Atomic and Nuclear Physics#2.5#Excited states and radiation#Ex2_5.sce#3269/CH2/EX2.5/Ex2_5.sce#S##114312
+2#Atomic and Nuclear Physics#2.4#Mass and Energy#Ex2_4.sce#3269/CH2/EX2.4/Ex2_4.sce#S##114311
+2#Atomic and Nuclear Physics#2.3#Mass and Energy#Ex2_3.sce#3269/CH2/EX2.3/Ex2_3.sce#S##114310
+2#Atomic and Nuclear Physics#2.2#Atomic and Molecular weight#Ex2_2.sce#3269/CH2/EX2.2/Ex2_2.sce#S##114309
+2#Atomic and Nuclear Physics#2.16#Atom density#Ex2_16.sce#3269/CH2/EX2.16/Ex2_16.sce#S##114323
+2#Atomic and Nuclear Physics#2.15#Atom density#Ex2_15.sce#3269/CH2/EX2.15/Ex2_15.sce#S##114322
+2#Atomic and Nuclear Physics#2.14#Atom density#Ex2_14.sce#3269/CH2/EX2.14/Ex2_14.sce#S##114321
+2#Atomic and Nuclear Physics#2.13#Atom density#Ex2_13.sce#3269/CH2/EX2.13/Ex2_13.sce#S##114320
+2#Atomic and Nuclear Physics#2.12#Atom density#Ex2_12.sce#3269/CH2/EX2.12/Ex2_12.sce#S##114319
+2#Atomic and Nuclear Physics#2.11#Energy of Maxwellian distribution#Ex2_11.sce#3269/CH2/EX2.11/Ex2_11.sce#S##114318
+2#Atomic and Nuclear Physics#2.10#Mass equation#Ex2_10.sce#3269/CH2/EX2.10/Ex2_10.sce#S##114317
+2#Atomic and Nuclear Physics#2.1#Number of deuterium atoms#Ex2_1.sce#3269/CH2/EX2.1/Ex2_1.sce#S##114308

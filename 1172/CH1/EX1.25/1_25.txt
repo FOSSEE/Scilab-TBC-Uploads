@@ -1,0 +1,5 @@
+ # Problem 25 # 
+ 
+ Standard formula used 
+   lambda / d_lambda = n*N 
+ Minimum number of lines required is 491 . 

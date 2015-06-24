@@ -1,0 +1,4 @@
+Bandwidth is 0.025
+Ideal closed-loop voltage gain is 40
+Exact closed-loop voltage gain is 39.984
+Percentage error is 0.04%

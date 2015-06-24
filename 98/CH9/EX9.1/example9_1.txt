@@ -1,0 +1,5 @@
+Loop indictance per length of the line = 24.24*10^-7 H 
+
+Loop indictance per km of the line = 2.424 mH 
+
+

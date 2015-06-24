@@ -1,0 +1,19 @@
+% reactance of station A = 6.67 % 
+
+% reactance of station B = 8.33 % 
+
+% reactance of interconnector = 9.18 % 
+
+FAULT ON STATION A: 
+
+Total % reactance upto fault point F2 = 4.83 % 
+
+Short circuit MVA = 2070.90 
+
+FAULT ON STATION B: 
+
+Total % reactance upto fault point F1 = 5.46 % 
+
+Short circuit MVA = 1830.94 
+
+

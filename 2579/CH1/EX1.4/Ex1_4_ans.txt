@@ -1,0 +1,2 @@
+ The power radiated = 56.848921 KW
+ The efficiency of the antenna = 25.065662 %

@@ -1,0 +1,137 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example8.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            23   
+ 
+ Chapter Title                         :                              Systems programming I- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 8    :               Show the method of using readdir to populate a dirent structure 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However if possible some selected programmes have been TRIED TO BE IMPLEMENTED   
+ 
+ 3.For most of the programmes whose equivalent is NOT THERE IN SCILAB,only the output has been printed as given in the textbook w 
+      ith no interactive input as in the programme below                                                                          
+ 
+ 4.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+ 
+ 5.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat dir.c      # to open the file emp.lst /* Program: lls.c -- Uses readdir to populate a dirent structure */
+
+#include <stdio.h>
+#include <dirent.h>
+
+int main(int argc, int **argv) {
+    DIR *dir;                   /* Returned by opendir*/
+    struct dirent *direntry;    /* Returned by readdir*/
+    
+    if ((dir = opendir(argv[1])) == NULL) /* Directory must exist and*/
+        quit("opendir", 1);               /* have read permission*/
+        
+    while ((direntry = readdir(dir)) != NULL)   /* Till there are new entries*/
+           printf("%10d %s\n",direntry->d_ino,direntry->d_name);
+    closedir(dir);
+    exit(0);
+}       
+ $ cc dir.c  
+ #  Please enter the name of the directory which you want to go as the command line argument   
+ 
+    
+ $Recycle.Bin           :   02013-005-024            15:16:15
+$SysReset              :   02013-005-025            13:33:44
+Boot                   :   02012-010-011            22:26:46
+bootmgr                :   02012-007-026            09:14:30
+BOOTNXT                :   02012-006-002            20:00:55
+BOOTSECT.BAK           :   02012-010-010            05:37:57
+Dev-Cpp                :   02013-006-020            20:08:08
+Documents and Settings   :   02012-007-026            12:52:08
+Downloads              :   02013-006-005            19:58:14
+Dwimperl               :   02013-006-007            14:57:51
+eula.1028.txt          :   02007-011-007            08:00:40
+eula.1031.txt          :   02007-011-007            08:00:40
+eula.1033.txt          :   02007-011-007            08:00:40
+eula.1036.txt          :   02007-011-007            08:00:40
+eula.1040.txt          :   02007-011-007            08:00:40
+eula.1041.txt          :   02007-011-007            08:00:40
+eula.1042.txt          :   02007-011-007            08:00:40
+eula.2052.txt          :   02007-011-007            08:00:40
+eula.3082.txt          :   02007-011-007            08:00:40
+globdata.ini           :   02007-011-007            08:00:40
+hiberfil.sys           :   02013-006-022            23:28:13
+install.exe            :   02007-011-007            08:03:18
+install.ini            :   02007-011-007            08:00:40
+install.res.1028.dll   :   02007-011-007            08:03:18
+install.res.1031.dll   :   02007-011-007            08:03:18
+install.res.1033.dll   :   02007-011-007            08:03:18
+install.res.1036.dll   :   02007-011-007            08:03:18
+install.res.1040.dll   :   02007-011-007            08:03:18
+install.res.1041.dll   :   02007-011-007            08:03:18
+install.res.1042.dll   :   02007-011-007            08:03:18
+install.res.2052.dll   :   02007-011-007            08:03:18
+install.res.3082.dll   :   02007-011-007            08:03:18
+odf                    :   02013-005-026            19:47:02
+pagefile.sys           :   02013-006-022            23:28:14
+PerfLogs               :   02012-007-026            13:03:46
+Perl64                 :   02013-006-007            14:45:48
+Program Files          :   02013-006-015            21:23:32
+Program Files (x86)    :   02013-006-020            18:47:25
+ProgramData            :   02013-006-015            21:22:33
+Remote Programs        :   02013-003-008            00:55:16
+S                      :   02013-005-026            00:36:20
+swapfile.sys           :   02013-006-022            23:28:14
+System Volume Information   :   02013-006-022            19:56:57
+UserGuidePDF           :   02013-003-008            00:45:51
+Users                  :   02013-005-022            14:20:13
+VC_RED.cab             :   02007-011-007            08:09:22
+VC_RED.MSI             :   02007-011-007            08:12:28
+vcredist.bmp           :   02007-011-007            08:00:40
+Windows                :   02013-006-020            16:24:21
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

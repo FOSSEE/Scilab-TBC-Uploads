@@ -1,0 +1,4 @@
+speed of the motor when it connected in series with a 4 Ohm resistance(in rpm)=   
+ 
+    540.54054  
+ 

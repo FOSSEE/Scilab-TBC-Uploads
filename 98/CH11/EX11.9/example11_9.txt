@@ -1,0 +1,9 @@
+(i) Maximum stress in the insulation = 27.66 kV/cm 
+
+(ii) Minimum stress in the insulation = 11.50 kV/cm 
+
+(iii) Capacitance of the cable = 0.222 uF 
+
+(iv) Charging current = 0.77 A 
+
+

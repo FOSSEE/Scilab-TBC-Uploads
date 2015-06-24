@@ -1,0 +1,2 @@
+5.number of pulses counted for Vi=0.750000 V are 75000
+number of pulses counted for Vi=0.900000 V are 90000

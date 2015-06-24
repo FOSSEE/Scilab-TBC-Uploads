@@ -1,0 +1,3 @@
+ Example 4.2
+
+ Atomic packing factor is 0.74 

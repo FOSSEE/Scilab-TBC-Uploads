@@ -1,0 +1,2 @@
+**Sample Problem 43-5**
+The half life of the substance is 3.954307e+016Sec

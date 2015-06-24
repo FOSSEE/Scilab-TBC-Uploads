@@ -1,0 +1,9 @@
+L12=375;//given,in mm
+L23=500;//given,in mm
+L34=125;//given,in mm
+t12=1.6;//given,in mm
+t23=1;//given,in mm
+t34=1.2;//given,in mm
+x=100;//given,in mm
+Load=22000;//given,in mm
+G=70000;//in N/mm^2

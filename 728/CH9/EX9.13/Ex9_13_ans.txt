@@ -1,0 +1,16 @@
+ 
+ Equivalent noise resistance (in ohm) =   
+ 
+    1.5514806  
+ 
+ Gain (in dB) =   
+ 
+    20.087158  
+ 
+ Noise figure (in dB) =   
+ 
+    0.8635983  
+ 
+ Bandwidth =   
+ 
+    0.0617375  

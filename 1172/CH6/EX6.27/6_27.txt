@@ -1,0 +1,6 @@
+
+ # Problem 27 # 
+
+ Standard formula used 
+ E_total = KE + E_mass
+ Kinetic energy of proton is 627MeV.

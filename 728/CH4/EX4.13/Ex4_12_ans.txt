@@ -1,0 +1,12 @@
+Cut-off wavelength (in cm) =   
+ 
+    6.8258396  
+ 
+ Cut-off frequency (in Hz) =   
+ 
+    4.395D+09  
+ 
+ Guide wavelength (in cm) =   
+ 
+    12.583938  
+ 

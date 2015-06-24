@@ -1,0 +1,14 @@
+Annual fixed charges
+	 Depreciation = Rs. 5000000 
+	 Sales, maintainence = Rs. 140000 
+	 Total annual fixed charges = Rs. 5140000 
+	 Cost per kW = Rs. 129.50 
+
+Annual running charges
+	 Salaries, maintainence = Rs. 560000 
+	 Cost per kWh = Rs. 0.1027 
+
+Total generation cost in two part form is given by: 
+ 							 Rs. (129.50 *kW + 0.1027 *kWh) 
+
+

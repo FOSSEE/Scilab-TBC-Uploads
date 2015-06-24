@@ -1,0 +1,11 @@
+ (a) synchronous speed of induction motor (in rpm)=   
+ 
+    1800.  
+ 
+ (b) Slip at full load =   
+ 
+    0.025  
+ 
+ (c) rotor frequency at full load (in Hertzs)=   
+ 
+    1.5  

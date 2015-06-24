@@ -1,0 +1,4 @@
+decibal power gain for a voltage gain of 1 is 0 dB
+decibal power gain for a voltage gain of 10 is 10 dB
+decibal power gain for a voltage gain of 100 is 20 dB
+decibal power gain for a voltage gain of 1000 is 30 dB

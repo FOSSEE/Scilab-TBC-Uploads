@@ -1,0 +1,11 @@
+Volume of water which can be utilised per annum =5000000000 m^3 
+
+Weight of water available =49050000000000.00 N 
+
+Electrical energy available pr annum = 286125000.00 kWh
+
+Average power = 32662.7 kW 
+
+MAximum demand = 81657 kW 
+
+

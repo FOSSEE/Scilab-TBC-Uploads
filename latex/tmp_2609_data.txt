@@ -1,0 +1,123 @@
+13#Voltage Regulators#13.9#Regulated Power Supply#ex_13_9.sce#2609/CH13/EX13.9/ex_13_9.sce#S##89211
+13#Voltage Regulators#13.8#Adjustable Voltage regulator#ex_13_8.sce#2609/CH13/EX13.8/ex_13_8.sce#S##89210
+13#Voltage Regulators#13.7#Value of R1#ex_13_7.sce#2609/CH13/EX13.7/ex_13_7.sce#S##89209
+13#Voltage Regulators#13.6#Calculate Iext#ex_13_6.sce#2609/CH13/EX13.6/ex_13_6.sce#S##89208
+13#Voltage Regulators#13.5#Design a regulator circuit#ex_13_5.sce#2609/CH13/EX13.5/ex_13_5.sce#S##89207
+13#Voltage Regulators#13.4#Determine the output#ex_13_4.sce#2609/CH13/EX13.4/ex_13_4.sce#S##89206
+13#Voltage Regulators#13.3#Calculate Load Current#ex_13_3.sce#2609/CH13/EX13.3/ex_13_3.sce#S##89205
+13#Voltage Regulators#13.2#Load Regulation#ex_13_2.sce#2609/CH13/EX13.2/ex_13_2.sce#S##89204
+13#Voltage Regulators#13.10#Regulated Power Supply#ex_13_10.sce#2609/CH13/EX13.10/ex_13_10.sce#S##89212
+13#Voltage Regulators#13.1#Regulation#ex_13_1.sce#2609/CH13/EX13.1/ex_13_1.sce#S##89203
+12#Operational Transconductance Amplifier#12.1#f3dB frequency#ex_12_1.sce#2609/CH12/EX12.1/ex_12_1.sce#S##89202
+11#Non linear applications of opamp#11.8#Calculate Output#ex_11_8.sce#2609/CH11/EX11.8/ex_11_8.sce#S##89201
+11#Non linear applications of opamp#11.7#Calculate Output#ex_11_7.sce#2609/CH11/EX11.7/ex_11_7.sce#S##89200
+11#Non linear applications of opamp#11.4#Output Voltage#ex_11_4.sce#2609/CH11/EX11.4/ex_11_4.sce#S##89199
+11#Non linear applications of opamp#11.3#Output Voltage#ex_11_3.sce#2609/CH11/EX11.3/ex_11_3.sce#S##89198
+11#Non linear applications of opamp#11.1#Output Voltage#ex_11_1.sce#2609/CH11/EX11.1/ex_11_1.sce#S##89197
+10#Comparators#10.5#Threshold and hysteresis voltage#ex_10_5.sce#2609/CH10/EX10.5/ex_10_5.sce#S##89196
+10#Comparators#10.4#Output Voltage#Ex10_4.sce#2609/CH10/EX10.4/Ex10_4.sce#S##99996
+10#Comparators#10.3#Phase shift#ex_10_3.sce#2609/CH10/EX10.3/ex_10_3.sce#S##89195
+10#Comparators#10.2#Upper and Lower Trip points#ex_10_2.sce#2609/CH10/EX10.2/ex_10_2.sce#S##89194
+10#Comparators#10.1#Output Voltage#Ex10_1.sce#2609/CH10/EX10.1/Ex10_1.sce#S##99995
+9#Active Filters#9.9#Second order Butterworth filter#Ex9_9.sce#2609/CH9/EX9.9/Ex9_9.sce#S##99968
+9#Active Filters#9.8#Second order Butterworth filter#Ex9_8.sce#2609/CH9/EX9.8/Ex9_8.sce#S##99967
+9#Active Filters#9.7#Retune the high pass filter#Ex9_7.sce#2609/CH9/EX9.7/Ex9_7.sce#S##99966
+9#Active Filters#9.6#First order high pass filter#Ex9_6.sce#2609/CH9/EX9.6/Ex9_6.sce#S##99965
+9#Active Filters#9.5#Convert Cutoff frequency#Ex9_5.sce#2609/CH9/EX9.5/Ex9_5.sce#S##99964
+9#Active Filters#9.4#First order low pass filter#Ex9_4.sce#2609/CH9/EX9.4/Ex9_4.sce#S##99963
+9#Active Filters#9.3#Find Bandwidth#Ex9_3.sce#2609/CH9/EX9.3/Ex9_3.sce#S##99962
+9#Active Filters#9.20#Second order notch filter#Ex9_20.sce#2609/CH9/EX9.20/Ex9_20.sce#S##99978
+9#Active Filters#9.2#First order low pass filter#Ex9_2.sce#2609/CH9/EX9.2/Ex9_2.sce#S##99961
+9#Active Filters#9.18#Design a band pass filter#Ex9_18.sce#2609/CH9/EX9.18/Ex9_18.sce#S##99977
+9#Active Filters#9.17#Design a band pass filter#Ex9_17.sce#2609/CH9/EX9.17/Ex9_17.sce#S##99976
+9#Active Filters#9.16#Design a band pass filter#Ex9_16.sce#2609/CH9/EX9.16/Ex9_16.sce#S##99975
+9#Active Filters#9.15#Design a band pass filter#Ex9_15.sce#2609/CH9/EX9.15/Ex9_15.sce#S##99974
+9#Active Filters#9.14#Third order low pass butterworth filter#Ex9_14.sce#2609/CH9/EX9.14/Ex9_14.sce#S##99973
+9#Active Filters#9.13#Second order low pass filter#Ex9_13.sce#2609/CH9/EX9.13/Ex9_13.sce#S##99972
+9#Active Filters#9.12#Second order low pass filter#Ex9_12.sce#2609/CH9/EX9.12/Ex9_12.sce#S##99971
+9#Active Filters#9.11#Low pass bessel filter#Ex9_11.sce#2609/CH9/EX9.11/Ex9_11.sce#S##99970
+9#Active Filters#9.10#Second order low pass filter#Ex9_10.sce#2609/CH9/EX9.10/Ex9_10.sce#S##99969
+8#Frequency Synthesizers and PLL#8.3#Clock frequency and no of bits#ex_8_3.sce#2609/CH8/EX8.3/ex_8_3.sce#S##89193
+8#Frequency Synthesizers and PLL#8.2#Design a FM demodulator#ex_8_2.sce#2609/CH8/EX8.2/ex_8_2.sce#S##89192
+8#Frequency Synthesizers and PLL#8.1#Lock Capture and pullin range#ex_8_1.sce#2609/CH8/EX8.1/ex_8_1.sce#S##89191
+7#The 555 timer#7.7#Astable Multivibrator#ex_7_7.sce#2609/CH7/EX7.7/ex_7_7.sce#S##89190
+7#The 555 timer#7.6#Astable Multivibrator#ex_7_6.sce#2609/CH7/EX7.6/ex_7_6.sce#S##89189
+7#The 555 timer#7.5#Astable Multivibrator#ex_7_5.sce#2609/CH7/EX7.5/ex_7_5.sce#S##89188
+7#The 555 timer#7.4#Design a square wave generator#ex_7_4.sce#2609/CH7/EX7.4/ex_7_4.sce#S##89187
+7#The 555 timer#7.3#Astable Multivibrator#ex_7_3.sce#2609/CH7/EX7.3/ex_7_3.sce#S##89186
+7#The 555 timer#7.2#Value of R#ex_7_2.sce#2609/CH7/EX7.2/ex_7_2.sce#S##89185
+7#The 555 timer#7.1#Monostable Multivibrator#ex_7_1.sce#2609/CH7/EX7.1/ex_7_1.sce#S##89184
+6#Oscillators and waveform generators#6.9#Frequency of oscillation#Ex6_9.sce#2609/CH6/EX6.9/Ex6_9.sce#S##99950
+6#Oscillators and waveform generators#6.8#Causes of distortion#Ex6_8.sce#2609/CH6/EX6.8/Ex6_8.sce#S##99949
+6#Oscillators and waveform generators#6.7#Design a quadrature oscillator#Ex6_7.sce#2609/CH6/EX6.7/Ex6_7.sce#S##99948
+6#Oscillators and waveform generators#6.6#Frequency of oscillation#Ex6_6.sce#2609/CH6/EX6.6/Ex6_6.sce#S##99947
+6#Oscillators and waveform generators#6.5#Design a wein bridge oscillator#Ex6_5.sce#2609/CH6/EX6.5/Ex6_5.sce#S##99946
+6#Oscillators and waveform generators#6.3#Design a wein bridge oscillator#Ex6_3.sce#2609/CH6/EX6.3/Ex6_3.sce#S##99945
+6#Oscillators and waveform generators#6.19#V0 V7 I and fo#Ex6_19.sce#2609/CH6/EX6.19/Ex6_19.sce#S##99960
+6#Oscillators and waveform generators#6.18#Design a function generator#Ex6_18.sce#2609/CH6/EX6.18/Ex6_18.sce#S##99959
+6#Oscillators and waveform generators#6.17#Series and parallel resonant frequencies#Ex6_17.sce#2609/CH6/EX6.17/Ex6_17.sce#S##99958
+6#Oscillators and waveform generators#6.16#Frequency of output#Ex6_16.sce#2609/CH6/EX6.16/Ex6_16.sce#S##99957
+6#Oscillators and waveform generators#6.15#Triangular wave generator#Ex6_15.sce#2609/CH6/EX6.15/Ex6_15.sce#S##99956
+6#Oscillators and waveform generators#6.14#Peak output voltage#Ex6_14.sce#2609/CH6/EX6.14/Ex6_14.sce#S##99955
+6#Oscillators and waveform generators#6.13#Triangular wave generator#Ex6_13.sce#2609/CH6/EX6.13/Ex6_13.sce#S##99954
+6#Oscillators and waveform generators#6.12#Frequency of output#Ex6_12.sce#2609/CH6/EX6.12/Ex6_12.sce#S##99953
+6#Oscillators and waveform generators#6.11#Find Rf and C#Ex6_11.sce#2609/CH6/EX6.11/Ex6_11.sce#S##99952
+6#Oscillators and waveform generators#6.10#Design a square wave generator#Ex6_10.sce#2609/CH6/EX6.10/Ex6_10.sce#S##99951
+6#Oscillators and waveform generators#6.1#Design a RC phase shift oscillator#Ex6_1.sce#2609/CH6/EX6.1/Ex6_1.sce#S##99944
+5#Linear Applications of OPamps#5.9#Output Voltage#ex_5_9.sce#2609/CH5/EX5.9/ex_5_9.sce#S##89220
+5#Linear Applications of OPamps#5.8#Output Voltage#ex_5_8.sce#2609/CH5/EX5.8/ex_5_8.sce#S##89219
+5#Linear Applications of OPamps#5.6#Gain and Impedence#ex_5_6.sce#2609/CH5/EX5.6/ex_5_6.sce#S##89218
+5#Linear Applications of OPamps#5.5#Instrumentation Amplifier#ex_5_5.sce#2609/CH5/EX5.5/ex_5_5.sce#S##89217
+5#Linear Applications of OPamps#5.4#Output Voltage#ex_5_4.sce#2609/CH5/EX5.4/ex_5_4.sce#S##89216
+5#Linear Applications of OPamps#5.3#Output Voltage#ex_5_3.sce#2609/CH5/EX5.3/ex_5_3.sce#S##89215
+5#Linear Applications of OPamps#5.20#Rf Ri and Cf#Ex5_20.sce#2609/CH5/EX5.20/Ex5_20.sce#S##99943
+5#Linear Applications of OPamps#5.2#Resistor R1 and R2#ex_5_2.sce#2609/CH5/EX5.2/ex_5_2.sce#S##89214
+5#Linear Applications of OPamps#5.19#Design a differentiator#Ex5_19.sce#2609/CH5/EX5.19/Ex5_19.sce#S##99942
+5#Linear Applications of OPamps#5.18#Design a differentiator#Ex5_18.sce#2609/CH5/EX5.18/Ex5_18.sce#S##99941
+5#Linear Applications of OPamps#5.17#Output of opamp#Ex5_17.sce#2609/CH5/EX5.17/Ex5_17.sce#S##99940
+5#Linear Applications of OPamps#5.16#Design required circuit#Ex5_16.sce#2609/CH5/EX5.16/Ex5_16.sce#S##99939
+5#Linear Applications of OPamps#5.14#Output Voltage#ex_5_14.sce#2609/CH5/EX5.14/ex_5_14.sce#S##89222
+5#Linear Applications of OPamps#5.13#Output of opamp#Ex5_13.sce#2609/CH5/EX5.13/Ex5_13.sce#S##99938
+5#Linear Applications of OPamps#5.11#Resistor Ri and Rf#ex_5_11.sce#2609/CH5/EX5.11/ex_5_11.sce#S##89221
+5#Linear Applications of OPamps#5.1#Output Voltage#ex_5_1.sce#2609/CH5/EX5.1/ex_5_1.sce#S##89213
+4#Opamps with negative feedback#4.9#Variation in output Voltage#ex_4_9.sce#2609/CH4/EX4.9/ex_4_9.sce#S##89179
+4#Opamps with negative feedback#4.8#Output Voltage#ex_4_8.sce#2609/CH4/EX4.8/ex_4_8.sce#S##89178
+4#Opamps with negative feedback#4.7#Acl Rif Rof#ex_4_7.sce#2609/CH4/EX4.7/ex_4_7.sce#S##89177
+4#Opamps with negative feedback#4.6#Close Loop Voltage Gain#ex_4_6.sce#2609/CH4/EX4.6/ex_4_6.sce#S##95883
+4#Opamps with negative feedback#4.5#Non Inverting Amplifier#ex_4_5.sce#2609/CH4/EX4.5/ex_4_5.sce#S##95882
+4#Opamps with negative feedback#4.4#Input and output impedence#ex_4_4.sce#2609/CH4/EX4.4/ex_4_4.sce#S##89174
+4#Opamps with negative feedback#4.3#Impedence and gain#ex_4_3.sce#2609/CH4/EX4.3/ex_4_3.sce#S##89173
+4#Opamps with negative feedback#4.2#Acl Rif Rof fodash#ex_4_2.sce#2609/CH4/EX4.2/ex_4_2.sce#S##99936
+4#Opamps with negative feedback#4.13#Input and output impedence#ex_4_13.sce#2609/CH4/EX4.13/ex_4_13.sce#S##95884
+4#Opamps with negative feedback#4.12#Calculate Gain#ex_4_12.sce#2609/CH4/EX4.12/ex_4_12.sce#S##99937
+4#Opamps with negative feedback#4.11#Gain and Bandwidth#ex_4_11.sce#2609/CH4/EX4.11/ex_4_11.sce#S##89181
+4#Opamps with negative feedback#4.10#Gain and impedence#ex_4_10.sce#2609/CH4/EX4.10/ex_4_10.sce#S##89180
+4#Opamps with negative feedback#4.1#Bandwidth with feedback#ex_4_1.sce#2609/CH4/EX4.1/ex_4_1.sce#S##89171
+3#Operational Amlifiers and their Parameters#3.7#Limiting Frequency#ex_3_7.sce#2609/CH3/EX3.7/ex_3_7.sce#S##89170
+3#Operational Amlifiers and their Parameters#3.6#Close Loop Voltage Gain#ex_3_6.sce#2609/CH3/EX3.6/ex_3_6.sce#S##89169
+3#Operational Amlifiers and their Parameters#3.5#Slew rate#ex_3_5.sce#2609/CH3/EX3.5/ex_3_5.sce#S##89168
+3#Operational Amlifiers and their Parameters#3.4#Maximum Frequency#ex_3_4.sce#2609/CH3/EX3.4/ex_3_4.sce#S##89167
+3#Operational Amlifiers and their Parameters#3.3#Maximum Voltage#ex_3_3.sce#2609/CH3/EX3.3/ex_3_3.sce#S##89166
+3#Operational Amlifiers and their Parameters#3.2#Time taken#ex_3_2.sce#2609/CH3/EX3.2/ex_3_2.sce#S##89165
+3#Operational Amlifiers and their Parameters#3.1#Open loop gain#ex_3_1.sce#2609/CH3/EX3.1/ex_3_1.sce#S##89164
+2#Differentials Aplifiers#2.9#Operating point Gain and Resistance#ex_2_9.sce#2609/CH2/EX2.9/ex_2_9.sce#S##95879
+2#Differentials Aplifiers#2.8#RC RE Rid Rid#ex_2_8.sce#2609/CH2/EX2.8/ex_2_8.sce#S##95878
+2#Differentials Aplifiers#2.7#Q point and voltage gain#ex_2_7.sce#2609/CH2/EX2.7/ex_2_7.sce#S##95877
+2#Differentials Aplifiers#2.6#Gain and input resistance#ex_2_6.sce#2609/CH2/EX2.6/ex_2_6.sce#S##95876
+2#Differentials Aplifiers#2.5#Operating point Gain and Resistance#ex_2_5.sce#2609/CH2/EX2.5/ex_2_5.sce#S##99935
+2#Differentials Aplifiers#2.4#Gain and CMRR#ex_2_4.sce#2609/CH2/EX2.4/ex_2_4.sce#S##95874
+2#Differentials Aplifiers#2.3#Current Ad Ac CMRR#ex_2_3.sce#2609/CH2/EX2.3/ex_2_3.sce#S##95873
+2#Differentials Aplifiers#2.2#Output  Voltage and percent error#ex_2_2.sce#2609/CH2/EX2.2/ex_2_2.sce#S##99934
+2#Differentials Aplifiers#2.11#Gain and input resistance#ex_2_11.sce#2609/CH2/EX2.11/ex_2_11.sce#S##95880
+2#Differentials Aplifiers#2.10#Differential input resistance#ex_2_10.sce#2609/CH2/EX2.10/ex_2_10.sce#S##89162
+2#Differentials Aplifiers#2.1#Output Voltage#ex_2_1.sce#2609/CH2/EX2.1/ex_2_1.sce#S##95872
+1#Constant Current Sources#1.9#Calculate Current#ex_1_9.sce#2609/CH1/EX1.9/ex_1_9.sce#S##89151
+1#Constant Current Sources#1.8#Design a widlar current source#ex_1_8.sce#2609/CH1/EX1.8/ex_1_8.sce#S##89150
+1#Constant Current Sources#1.7#Design a widlar current source#ex_1_7.sce#2609/CH1/EX1.7/ex_1_7.sce#S##89149
+1#Constant Current Sources#1.6#Find Iout#ex_1_6.sce#2609/CH1/EX1.6/ex_1_6.sce#S##89148
+1#Constant Current Sources#1.5#Modified current mirror circuit#ex_1_5.sce#2609/CH1/EX1.5/ex_1_5.sce#S##89147
+1#Constant Current Sources#1.4#Design a current mirror circuit#ex_1_4.sce#2609/CH1/EX1.4/ex_1_4.sce#S##89146
+1#Constant Current Sources#1.3#Design a current source#ex_1_3.sce#2609/CH1/EX1.3/ex_1_3.sce#S##89145
+1#Constant Current Sources#1.2#Design a current mirror circuit#ex_1_2.sce#2609/CH1/EX1.2/ex_1_2.sce#S##89144
+1#Constant Current Sources#1.10#Determine IC1 and IC2#ex_1_10.sce#2609/CH1/EX1.10/ex_1_10.sce#S##95871
+1#Constant Current Sources#1.1#Design a current mirror circuit#ex_1_1.sce#2609/CH1/EX1.1/ex_1_1.sce#S##89143

@@ -1,0 +1,5 @@
+Inductance/phase/m = 12*10^-7 H 
+
+ Inductance/phase/km = 1.2 mH 
+
+

@@ -1,0 +1,2 @@
+ # Problem 4 # 
+ Energy stored in given length is 1.500000e-14 J 

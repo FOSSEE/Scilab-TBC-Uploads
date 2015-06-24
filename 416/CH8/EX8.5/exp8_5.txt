@@ -1,0 +1,11 @@
+solution of 8.5   
+ 
+ load duration data is as under   
+ 
+    250.    200.    150.    120.    100.    80.    50.    40.    20.    0.   
+    1.      2.      3.      4.      6.      8.     9.     10.    11.    12.  
+ 
+ (a)   
+meanflow is 459.104938m^3-sec 
+ (b)   
+power delevered in 36018312kW=36018.313MW 

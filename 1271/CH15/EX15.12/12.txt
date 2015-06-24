@@ -1,0 +1,5 @@
+# PROBLEM 12 # 
+Standard formula used 
+ del_E*del_t = h/(4*pi) 
+
+ Minimum uncertainty in frequency is 7.957747e+06 Hz.

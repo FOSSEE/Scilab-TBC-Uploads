@@ -1,0 +1,2 @@
+ Ratio of population of upper level to the lower energy level = 1.100524e-38. 
+ Temperature for the second condition = 37836.557031 K. 

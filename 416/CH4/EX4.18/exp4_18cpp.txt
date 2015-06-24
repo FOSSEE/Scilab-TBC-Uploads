@@ -1,0 +1,8 @@
+ 
+ example 4 18   
+ 
+ a   
+when pf is rased to 1 the alternator can supply 500kW for the same value of armture current hence it can supply 100KW to synchronous motor 
+ b   
+b.h.p =113.94HP
+cosd=0.316leading 

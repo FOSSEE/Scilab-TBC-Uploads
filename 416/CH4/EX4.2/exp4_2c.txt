@@ -1,0 +1,4 @@
+
+ example 4 2   
+ energy consumption 525600kWh 
+ total electricity bill per year Rs1008080 

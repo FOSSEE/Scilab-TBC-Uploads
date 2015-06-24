@@ -1,0 +1,3 @@
+# PROBLEM 4 # 
+
+ Energy difference is 0.365641eV.

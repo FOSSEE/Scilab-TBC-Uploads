@@ -1,0 +1,5 @@
+  
+ example 4 1   
+total energy consumption in 30 day 123units 
+the monthly bill Rs308.16 
+net monthly bill Rs292.75 

@@ -1,0 +1,8 @@
+ 
+
+	 modualtion index = 0.707107
+
+	 total modulation index = 0.866025
+
+	 total power of modulated signal = 8.250000 kW  
+ Execution done.

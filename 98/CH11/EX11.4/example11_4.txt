@@ -1,0 +1,3 @@
+Capacitance of the cable = 0.378 uF 
+
+

@@ -1,0 +1,9 @@
+flowinA=400 //L/min
+flowinN=419 // m^3   STP /min
+Pfinal=6.3 //gauge
+Tfinal=325 // C
+Pacetone=501 //mm of Hg
+Dacetone=791  //g/L
+Macetone=58.08  //g
+T1=300 //k
+P1=1238 //mm Hg original

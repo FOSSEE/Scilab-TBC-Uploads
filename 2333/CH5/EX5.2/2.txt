@@ -1,0 +1,4 @@
+ # PROBLEM 2 # 
+
+ Angular  spread  is 1.600000e-04 rad. 
+ Areal spread is 4.096000e+09m^2.

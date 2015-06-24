@@ -1,0 +1,3 @@
+
+ Wavelength of neutron beam is 3.840000 angstrom.
+ Speed of neutron beam is 1.032310e+03 meter/sec.

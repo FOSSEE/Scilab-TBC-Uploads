@@ -1,0 +1,10 @@
+A Textbook of Chemical Engineering Thermodynamics
+
+Chapter 3
+
+P-V-T Behaviour and Heat Effects
+
+
+Example 4
+
+There is again the slight variation in the answers. This is due to the value of n taken correct to to decimal places in the book.

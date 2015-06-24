@@ -1,0 +1,8 @@
+# PROBLEM 34 # 
+ Standard formula used 
+
+ KE = m*v^2 
+ E_total = KE+E_rest 
+
+ Classical velocity of electron is 1.874199e+08 m/sec 
+ Relativistic velocity of electron is 1.643437e+08 m/sec.

@@ -1,0 +1,5 @@
+# PROBLEM 18 # 
+Standard formula used 
+ E = (n^2 * h^2) / (8 * m * L^2)) 
+
+ Lowest energy of neutron confined in the nucleus is 3.280269e-13 J.

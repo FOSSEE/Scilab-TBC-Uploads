@@ -1,0 +1,1 @@
+ Magnetic field is 4.860550e-02 tesla.

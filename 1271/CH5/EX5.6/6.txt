@@ -1,0 +1,4 @@
+ Numerical aperture = 0.639375. 
+ Acceptance angle = 39.745208 degree. 
+ Number of reflections at maximum incidence = 6468.493987. 
+ Number of reflections in second case = 3204.446178. 

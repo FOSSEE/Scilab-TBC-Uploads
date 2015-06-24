@@ -1,0 +1,10 @@
+
+ example 12 7   
+ 
+ a   
+ open circuit emf 6598volts per phase and -2.78 degree 
+ b.   
+ current 365.6A 
+ power factor 0.998 
+ c.   
+current 456.25A 

@@ -1,0 +1,8 @@
+Secondary line voltage when windings are star delta connected(in Volts)=   
+ 
+    163.30765  
+ 
+ Secondary line voltage when windings are delta star connected(in Volts)=   
+ 
+    489.92294  
+ 

@@ -1,0 +1,3 @@
+
+ Ex-4.9   
+The value of minimum velocity was found out to be 1.05e-033 m/sec 

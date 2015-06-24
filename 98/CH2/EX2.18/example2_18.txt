@@ -1,0 +1,9 @@
+Number of atoms = 5.13*10^24 
+
+Fission rate = 1.951*10^18 
+
+Energy per fission = 3.20*10^-11 J 
+
+Energy released per second = 62.417 MW 
+
+

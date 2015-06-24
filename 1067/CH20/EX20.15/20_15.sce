@@ -1,0 +1,25 @@
+clear;
+clc;
+x=1;
+e=1;
+i=e/x;
+r=7.5e6;
+v=6.6e3;
+i=r/(sqrt(3)*v);
+i=fix(i);
+x2=.09;
+i2=e/x2;
+I2=i2*i;
+I2=fix(I2/10)*10
+idc=sqrt(2)*I2;
+mc=idc*2;
+x3=.15;
+i3=e/x3;
+I3=i3*i;
+ib=I3*1.4;
+Mva=sqrt(3)*v*ib;
+idc=round(idc/1e2)*1e2;
+mc=round(mc/1e2)*1e2;
+I3=round(I3/10)*10;
+Mva=fix(Mva/1e4)*1e4
+mprintf("sustained short circuit current=%dA\ninitial symmetric SC current=%fkA\nmaximum dc component=%fkA\nmaking capacity required=%fkA\ntransient short circuit current=%fkA\n interrupting capacity required=%fMVA,Asymmetric",i,I2/1e3,idc/1e3,mc/1e3,I3/1e3,Mva/1e6);

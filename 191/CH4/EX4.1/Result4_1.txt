@@ -1,0 +1,9 @@
+ Eigen value :   
+ 
+    7.  
+ 
+ Eigen vector :   
+ 
+    0.25  
+    0.5   
+    1.

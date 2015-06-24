@@ -1,0 +1,11 @@
+Resistance of distributor per metre = 0.0002 ohm 
+
+(i) Minimum potential occurs at 300 m from A 
+
+    Minimum voltage Vc = 246 V 
+
+(ii) Current supplied from A = 300 A 
+
+     Current supplied from B = 200 A 
+
+

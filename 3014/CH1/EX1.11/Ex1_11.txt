@@ -1,0 +1,4 @@
+
+Example 1.11
+ velocity of neutron is 3.964072e+03 m/s.
+ Kinetic energy of neutron is 0.082007 eV.

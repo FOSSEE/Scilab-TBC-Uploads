@@ -1,0 +1,50 @@
+//clc()
+Ncgas = 100;//kmol ( basis - SO3 free converter gas )
+NSO2 = 4.5;//kmol
+NO2 = 7.5;//kmol
+NN2 = 88.0;//kmol
+NOsupplied = NN2 * 21/ 79;
+NOconverter = NO2 + NSO2;
+NOconsumed = NOsupplied - NOconverter;//(Oxygen consumed for SO3)
+NSO3c = NOconsumed / 1.5;
+NStotal = NSO3c + NSO2;
+Nbgas = 100;//kmol ( basis - SO3 free burner gas )
+NSO21 = 15;//%
+NO21 = 5;//%
+NN21 = 80;//%
+NOburner = NO21 + NSO21;
+NOsupplied1 = NN21 * 21 / 79;
+NOconsumed1 = NOsupplied1 - NOburner;//(Oxygen consumed for SO3)
+NSO3b = NOconsumed1 / 1.5;
+NStotal1 = NSO3b + NSO21;
+mS = 100;//kg ( basis - sulphur charged )
+Pburned = 95;//%
+mburned = mS * Pburned / 100;
+Nburned = mburned / 32.064;
+//let x be the SO3 free burner gas produced, then sulphur balance gives,
+x = Nburned * Nbgas / NStotal1;
+NSO2b = NSO21 * x / 100;
+NO2b = NO21 * x / 100;
+NN2b = NN21 * x / 100;
+Ntotalb = NSO2b + NO2b + NN2b;
+NSO3b1 = NSO3b * x / 100;
+//let y be the no. of converter gas produced
+y = Nburned * Ncgas / NStotal;
+NSO2c = NSO2 * y / 100;
+NO2c = NO2 * y / 100;
+NN2c = NN2 * y / 100;
+Ntotalc = NSO2c + NO2c + NN2c;
+NSO3c1 = NSO3c * y / 100;
+Nairsec = (NN2c - NN2b ) * 100 / 79;
+P = 100;//kPa
+T = 300;//K
+V = Nairsec * 22.414 * 101.3 * T / (P * 273.15);
+disp("m^3/h",V,"(a)The volume of secondary air at 100kPa and 300K = ")
+NSabsorbed = 95;//%
+mSO3abs = NSabsorbed * NSO3c1 * 80.064 / 100;
+//let z be the amount of 98% H2SO4, therefore , 100% H2SO4 produced = z + mSO3abs
+// taking SO3 balance
+z = (mSO3abs - mSO3abs * 80.064 / 98.08) / ( 80.064 / 98.08 - 0.98 * 80.064/98.08);
+disp("kg",z,"(b)98% H2SO4 required per hour = ")
+w = z + mSO3abs;
+disp("kg",w,"(c)100% H2SO4 produced per hour = ")

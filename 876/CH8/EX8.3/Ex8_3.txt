@@ -1,0 +1,3 @@
+amplitude of the waveform(in V)=   
+ 
+    12.5

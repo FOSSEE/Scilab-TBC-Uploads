@@ -1,0 +1,4 @@
+resistance added in series with the armature circuit to reduced the speed of motor(in Ohm)=   
+ 
+    1.2777778  
+ 

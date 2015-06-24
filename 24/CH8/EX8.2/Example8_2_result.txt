@@ -1,0 +1,8 @@
+**Sample Problem 8-2a**
+The potential energy at y1 is 98J if reference is assumed to be at y=0
+The potential energy at y1 is 39J if reference is assumed to be at y=3
+The potential energy at y1 is 0J if reference is assumed to be at y=5
+The potential energy at y1 is -19J if reference is assumed to be at y=6
+
+**Sample Problem 8-2b**
+The change in potential energy is -98J same for all the references 

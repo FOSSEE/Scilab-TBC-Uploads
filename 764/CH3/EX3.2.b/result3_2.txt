@@ -1,0 +1,61 @@
+-->//(Manufacturing Considerations in Design) Example 3.2
+ 
+-->//Refer Fig. 3.26 on page 70
+ 
+-->//Basic diameter of housing Dh mm
+ 
+-->Dh = 20
+ Dh  =
+ 
+    20.  
+ 
+-->//Refer tables 3.2 and 3.3b for tolerances of H7-s6 fit
+ 
+-->//Upper deviation for housing Uh mm
+ 
+-->Uh = 0.021
+ Uh  =
+ 
+    0.021  
+ 
+-->//Lower deviation for housing Lh mm
+ 
+-->Lh = 0.000
+ Lh  =
+ 
+    0.  
+ 
+-->//Basic diameter of valve seat(outer diameter) Dv mm
+ 
+-->Dv = 20
+ Dv  =
+ 
+    20.  
+ 
+-->//Upper deviation for valve seat Uv mm
+ 
+-->Uv = 0.048
+ Uv  =
+ 
+    0.048  
+ 
+-->//Lower deviation for valve seat Lv mm
+ 
+-->Lv = 0.035
+ Lv  =
+ 
+    0.035  
+ 
+
+Maximum diameter of housing is: 20.021000 mm
+
+Minimum diameter of housing is: 20.000000 mm
+
+Maximum diameter of valve seating is: 20.048000 mm
+
+Minimum diameter of valve seating is: 20.035000 mm
+
+Minimum interference is: 0.014000 mm
+
+Maximum interference is: 0.048000 mm
+ 

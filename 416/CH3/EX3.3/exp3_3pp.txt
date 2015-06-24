@@ -1,0 +1,5 @@
+ 
+ example 3.3   
+rate of depretion by fixed percentage method =7.307702persent
+remaining depreciation at the end of 10th year =Rs.93641098.400924=Rs.0.936411x10^8
+accumulated depreciation at the end of 10 year is Rs.106358901.599076 =Rs.1.063589x10^8 

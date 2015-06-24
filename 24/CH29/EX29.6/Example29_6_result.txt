@@ -1,0 +1,2 @@
+**Sample Problem 29-6**
+The minimum magnetic field required to suspend the wire is equal to 1.631000e-002T 

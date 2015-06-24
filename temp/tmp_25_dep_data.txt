@@ -1,0 +1,5 @@
+parallel_impedence.sce#25/DEPENDENCIES/parallel_impedence.sce#equivalent of two resistances in parallel#60
+smith_chart_tao.sci#25/DEPENDENCIES/smith_chart_tao.sci#smith chart for finding load impedence when reflection coefficient is given.#12
+input_impedence.sci#25/DEPENDENCIES/input_impedence.sci#function for input impedence#16
+reflection_coefficient.sci#25/DEPENDENCIES/reflection_coefficient.sci#function for reflection coefficient#15
+swr.sci#25/DEPENDENCIES/swr.sci#function to find SWR#13

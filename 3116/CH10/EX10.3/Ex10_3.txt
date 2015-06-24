@@ -1,0 +1,4 @@
+ Design Example 10.1
+
+ Theoretical % Cold Work is 36.5
+ Original Diameter for second drawing is 5.7 mm 

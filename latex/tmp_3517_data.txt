@@ -1,0 +1,81 @@
+15#Samping conversion modulation and multiplexing#15.4#Calculate the output voltage#Ex15_4.sce#3517/CH15/EX15.4/Ex15_4.sce#S##117842
+15#Samping conversion modulation and multiplexing#15.3#Determine the error due to capacitance#Ex15_3.sce#3517/CH15/EX15.3/Ex15_3.sce#S##117841
+15#Samping conversion modulation and multiplexing#15.2#Determine capacitance and minimum acquisition time#Ex15_2.sce#3517/CH15/EX15.2/Ex15_2.sce#S##117840
+15#Samping conversion modulation and multiplexing#15.1#Determine the errors due to Rs and Rd#Ex15_1.sce#3517/CH15/EX15.1/Ex15_1.sce#S##117839
+14#Digital counting and measurement#14.6#Determine required current#Ex14_6.sce#3517/CH14/EX14.6/Ex14_6.sce#S##117838
+14#Digital counting and measurement#14.5#Determine meter indication when time base uses#Ex14_5.sce#3517/CH14/EX14.5/Ex14_5.sce#S##117837
+14#Digital counting and measurement#14.1#Determine Resistors Rc and Rb#Ex14_1.sce#3517/CH14/EX14.1/Ex14_1.sce#S##117836
+13#Bistable Multivibrators#13.4#Determine the capacitance for flip flop #Ex13_4.sce#3517/CH13/EX13.4/Ex13_4.sce#S##117835
+13#Bistable Multivibrators#13.1#Design a collector coupled bistable multivibrator#Ex13_1.sce#3517/CH13/EX13.1/Ex13_1.sce#S##117834
+12#IC logic gates#12.4#Design a interface circuit for CMOS#Ex12_4.sce#3517/CH12/EX12.4/Ex12_4.sce#S##117833
+12#IC logic gates#12.2#Determine Resistance to drive inputs of 5 TTL gates#Ex12_2.sce#3517/CH12/EX12.2/Ex12_2.sce#S##117832
+12#IC logic gates#12.1# Determine fan out for DTL NAND gate#Ex12_1.sce#3517/CH12/EX12.1/Ex12_1.sce#S##117831
+11#Logic circuits#11.3#Determine output for given logic circuit#Ex11_3.sce#3517/CH11/EX11.3/Ex11_3.sce#S##117830
+10#Basic Logic gates and logic functions#10.2#Find minimum value of the resistance to design OR Gate#Ex10_2.sce#3517/CH10/EX10.2/Ex10_2.sce#S##117829
+10#Basic Logic gates and logic functions#10.1#Determine low and high voltage outputs #Ex10_1.sce#3517/CH10/EX10.1/Ex10_1.sce#S##117828
+9#Ramp Pulse and function generator#9.9#Calculate drain current#Ex9_9.sce#3517/CH9/EX9.9/Ex9_9.sce#S##117825
+9#Ramp Pulse and function generator#9.6#Design a transistor bootstrap ramp generator#Ex9_6.sce#3517/CH9/EX9.6/Ex9_6.sce#S##117824
+9#Ramp Pulse and function generator#9.5# find peak to peak output amplitude#Ex9_5.sce#3517/CH9/EX9.5/Ex9_5.sce#S##117823
+9#Ramp Pulse and function generator#9.4#Determine Rsmax,Rsmin,and minimum drain source voltage#Ex9_4.sce#3517/CH9/EX9.4/Ex9_4.sce#S##117822
+9#Ramp Pulse and function generator#9.2#Design a linear ramp generator#Ex9_2.sce#3517/CH9/EX9.2/Ex9_2.sce#S##117821
+9#Ramp Pulse and function generator#9.13#Calculate output maximum and minimum frequencies#Ex9_13.sce#3517/CH9/EX9.13/Ex9_13.sce#S##117827
+9#Ramp Pulse and function generator#9.12#Design a pulse generator using 8038 IC#Ex9_12.sce#3517/CH9/EX9.12/Ex9_12.sce#S##117826
+9#Ramp Pulse and function generator#9.1#esign RC ramp generator//Ex9.1#Ex9_1.sce#3517/CH9/EX9.1/Ex9_1.sce#S##117820
+8#IC timer circuits#8.4#Design a square wave generator using 7555 CMOS#Ex8_4.sce#3517/CH8/EX8.4/Ex8_4.sce#S##117819
+8#IC timer circuits#8.3#Determine actual PRF and duty cycle#Ex8_3.sce#3517/CH8/EX8.3/Ex8_3.sce#S##117818
+8#IC timer circuits#8.2#Design a 555 astable multivibrator#Ex8_2.sce#3517/CH8/EX8.2/Ex8_2.sce#S##117817
+8#IC timer circuits#8.1#Design a 555 monostable circuit#Ex8_1.sce#3517/CH8/EX8.1/Ex8_1.sce#S##117816
+7#Monostable and astable multivibrators#7.6#Design a astable multivibrator using 311 comparator#Ex7_6.sce#3517/CH7/EX7.6/Ex7_6.sce#S##117815
+7#Monostable and astable multivibrators#7.5#Design a astable multivibrator using 741 op amp//Ex7.5#Ex7_5.sce#3517/CH7/EX7.5/Ex7_5.sce#S##117814
+7#Monostable and astable multivibrators#7.4#Design a astable multivibrator #Ex7_4.sce#3517/CH7/EX7.4/Ex7_4.sce#S##117813
+7#Monostable and astable multivibrators#7.3#Design a monostable multivibrator using op amp 741#Ex7_3.sce#3517/CH7/EX7.3/Ex7_3.sce#S##117812
+7#Monostable and astable multivibrators#7.2#Find capacitance#Ex7_2.sce#3517/CH7/EX7.2/Ex7_2.sce#S##117811
+7#Monostable and astable multivibrators#7.1#Design a collector coupled monostable multivibrator#Ex7_1.sce#3517/CH7/EX7.1/Ex7_1.sce#S##117810
+6#Schmit Trigger Circuits and voltage comparators#6.6#Design a non inverting schmitt trigger circuit#Ex6_6.sce#3517/CH6/EX6.6/Ex6_6.sce#S##117809
+6#Schmit Trigger Circuits and voltage comparators#6.5#Design Schmitt circuit components #Ex6_5.sce#3517/CH6/EX6.5/Ex6_5.sce#S##117808
+6#Schmit Trigger Circuits and voltage comparators#6.4#Actual UTP and LTP#Ex6_4.sce#3517/CH6/EX6.4/Ex6_4.sce#S##117807
+6#Schmit Trigger Circuits and voltage comparators#6.3#Determine Largest speed up capacitance#Ex6_3.sce#3517/CH6/EX6.3/Ex6_3.sce#S##117806
+6#Schmit Trigger Circuits and voltage comparators#6.2#Find circuit components for designing a schmitt trigger circuit#Ex6_2.sce#3517/CH6/EX6.2/Ex6_2.sce#S##117805
+6#Schmit Trigger Circuits and voltage comparators#6.1#Determine schmitt trigger circuit components for designing it#Ex6_1.sce#3517/CH6/EX6.1/Ex6_1.sce#S##117804
+5#IC operational amplifiers in switching circuits#5.5#Calculate lowest operating frequency for circuit#Ex5_5.sce#3517/CH5/EX5.5/Ex5_5.sce#S##117803
+5#IC operational amplifiers in switching circuits#5.4#Design a differentiating circuit by determining required resistances #Ex5_4.sce#3517/CH5/EX5.4/Ex5_4.sce#S##117802
+5#IC operational amplifiers in switching circuits#5.3#Design an inverter by determining input resistance#Ex5_3.sce#3517/CH5/EX5.3/Ex5_3.sce#S##117801
+5#IC operational amplifiers in switching circuits#5.1#design a non inverting amplifier#Ex5_1.sce#3517/CH5/EX5.1/Ex5_1.sce#S##117800
+4#Transistor switching#4.9#Determine required capacitance#Ex4_9.sce#3517/CH4/EX4.9/Ex4_9.sce#S##117798
+4#Transistor switching#4.8#Calculate Rc Rb and Cc#Ex4_8.sce#3517/CH4/EX4.8/Ex4_8.sce#S##117797
+4#Transistor switching#4.7#Design a transistor by determining Rc#Ex4_7.sce#3517/CH4/EX4.7/Ex4_7.sce#S##117796
+4#Transistor switching#4.6#Determine maximum value of capacitor#Ex4_6.sce#3517/CH4/EX4.6/Ex4_6.sce#S##117795
+4#Transistor switching#4.5#Calculate Rc and Rb#Ex4_5.sce#3517/CH4/EX4.5/Ex4_5.sce#S##117794
+4#Transistor switching#4.4#Capacitance that can give max turn on time#Ex4_4.sce#3517/CH4/EX4.4/Ex4_4.sce#S##117793
+4#Transistor switching#4.3#Before input pulse is applied#Ex4_3.sce#3517/CH4/EX4.3/Ex4_3.sce#S##117792
+4#Transistor switching#4.2#Calculate the transistor power dissipation at#Ex4_2.sce#3517/CH4/EX4.2/Ex4_2.sce#S##117791
+4#Transistor switching#4.10#Determine output voltage#Ex4_10.sce#3517/CH4/EX4.10/Ex4_10.sce#S##117799
+4#Transistor switching#4.1#hfe for changed resistor#Ex4_1.sce#3517/CH4/EX4.1/Ex4_1.sce#S##117790
+3#Diode switching#3.9#Calculate Capacitance#Ex3_9.sce#3517/CH3/EX3.9/Ex3_9.sce#S##117788
+3#Diode switching#3.8#Find Capacitance and Resistance required to design the circuit#Ex3_8.sce#3517/CH3/EX3.8/Ex3_8.sce#S##117787
+3#Diode switching#3.7#Calculate Capacitance and Resistance#Ex3_7.sce#3517/CH3/EX3.7/Ex3_7.sce#S##117786
+3#Diode switching#3.6#Find Zener voltage and Resistance#Ex3_6.sce#3517/CH3/EX3.6/Ex3_6.sce#S##117785
+3#Diode switching#3.5#Calculate Resistance#Ex3_5.sce#3517/CH3/EX3.5/Ex3_5.sce#S##117784
+3#Diode switching#3.4#Calculate Resistance and diode forward current#Ex3_4.sce#3517/CH3/EX3.4/Ex3_4.sce#S##117783
+3#Diode switching#3.3#Calculate resistance and amplitude of output signal//Ex3.3#Ex3_3.sce#3517/CH3/EX3.3/Ex3_3.sce#S##117782
+3#Diode switching#3.10#Calculate Capacitance C1and C2#Ex3_10.sce#3517/CH3/EX3.10/Ex3_10.sce#S##117789
+3#Diode switching#3.1#Forward Current#Ex3_1.sce#3517/CH3/EX3.1/Ex3_1.sce#S##117781
+2#RC circuits#2.9#Determine max and min voltage at which capacitor voltage will settle#Ex2_9.sce#3517/CH2/EX2.9/Ex2_9.sce#S##117671
+2#RC circuits#2.8#Calculate voltage at 14 ms#Ex2_8.sce#3517/CH2/EX2.8/Ex2_8.sce#S##117670
+2#RC circuits#2.7#Determine fastest rise time#Ex2_7.sce#3517/CH2/EX2.7/Ex2_7.sce#S##117669
+2#RC circuits#2.6#Calculate minimum square wave frequency#Ex2_6.sce#3517/CH2/EX2.6/Ex2_6.sce#S##117668
+2#RC circuits#2.5#Calculate Rise time#Ex2_5.sce#3517/CH2/EX2.5/Ex2_5.sce#S##117667
+2#RC circuits#2.4#Determine EC#Ex2_4.sce#3517/CH2/EX2.4/Ex2_4.sce#S##117666
+2#RC circuits#2.3#Calculate voltage after 8ms#Ex2_3.sce#3517/CH2/EX2.3/Ex2_3.sce#S##117665
+2#RC circuits#2.12#Calculate amplitude of output waveform#Ex2_12.sce#3517/CH2/EX2.12/Ex2_12.sce#S##117674
+2#RC circuits#2.11#Calculate output voltage#Ex2_11.sce#3517/CH2/EX2.11/Ex2_11.sce#S##117673
+2#RC circuits#2.10#Calculate output voltage#Ex2_10.sce#3517/CH2/EX2.10/Ex2_10.sce#S##117672
+1#Pulse Fundamentals#1.9#Determine upper and lower Frequencies#Ex1_9.sce#3517/CH1/EX1.9/Ex1_9.sce#S##117664
+1#Pulse Fundamentals#1.8#Determine upper cutoff frequency and lower cutoff frequency#Ex1_8.sce#3517/CH1/EX1.8/Ex1_8.sce#S##117663
+1#Pulse Fundamentals#1.7#Calculate lowest input frequency #Ex1_7.sce#3517/CH1/EX1.7/Ex1_7.sce#S##117662
+1#Pulse Fundamentals#1.6#Calculate Rise time in output waveform and Minimum upper cut off frequency and displayed rise time#Ex1_6.sce#3517/CH1/EX1.6/Ex1_6.sce#S##117661
+1#Pulse Fundamentals#1.5#Determine Minimum upper cut frequency Minimum pulse width and duty cycle#Ex1_5.sce#3517/CH1/EX1.5/Ex1_5.sce#S##117660
+1#Pulse Fundamentals#1.4#Determine the upper 3db frequency of the amplifier#Ex1_4.sce#3517/CH1/EX1.4/Ex1_4.sce#S##117659
+1#Pulse Fundamentals#1.3#Average voltage level#Ex1_3.sce#3517/CH1/EX1.3/Ex1_3.sce#S##117658
+1#Pulse Fundamentals#1.2#pulse amplitude#Ex1_2.sce#3517/CH1/EX1.2/Ex1_2.sce#S##117657
+1#Pulse Fundamentals#1.1#Duty cycle#Ex1_1.sce#3517/CH1/EX1.1/Ex1_1.sce#S##117656

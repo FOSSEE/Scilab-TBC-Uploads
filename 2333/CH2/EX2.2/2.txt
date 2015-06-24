@@ -1,0 +1,4 @@
+ 
+ # Problem 2 # 
+
+ Ratio of intensities is 121 : 81 

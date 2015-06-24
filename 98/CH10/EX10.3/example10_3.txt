@@ -1,0 +1,19 @@
+Impedance per phase = 4+j(6) 
+
+Line current = 164.02 A 
+
+             = 131.22+j(-98.41) 
+
+(i) Sending end voltage phasor =13817.04+j(393.65) 
+
+    Magnitude of Vs = 13822.65 V 
+
+    Line value of Vs = 23.94 kV 
+
+(ii) Percentage regulation = 8.825 % 
+
+(iii) Line losses = 322.831 kW 
+
+      Transmission efficiency = 93.93 % 
+
+

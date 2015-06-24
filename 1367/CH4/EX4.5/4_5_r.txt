@@ -1,0 +1,7 @@
+unit cell dimension (in angstorm) =    
+ 
+    5.6275  
+ 
+ Distance between two adjacent atoms (in Angstorm) =    
+ 
+    2.81375 

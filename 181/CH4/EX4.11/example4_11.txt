@@ -1,0 +1,23 @@
+ Assume active mode for circuit 1
+(a)Ve = 1.30 V
+(b)Ic = 9.90e-004 A
+(c)Ve = 3.03 V
+Thus the circuit operates in an active mode
+
+For circuit 2,assume active mode
+(a)Ve = 1.7 V
+(b)Ie = 4.30e-004 A
+(c)Vc = 4.30 V
+This circuit operates in a saturated mode
+
+For circuit 3,assume active mode
+(a)Ve = -4.3 V
+(b)Ie = 6.9000e-005 A
+(c)Ic = 6.832e-005 A
+(d)Vc = -40.2 V
+The circuit operates in an active mode
+
+For circuit 4,assume active mode
+(a)Ie = 1.86e-003 A
+(b)Vc = -13.68 V
+The circuit operates in an active mode 

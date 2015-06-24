@@ -1,0 +1,5 @@
+ # Problem 20 # 
+ 
+ Standard formula used 
+   n*lambda= (a+b)*sin(theta) 
+ Wavelength is 4.166667e-05 cm.

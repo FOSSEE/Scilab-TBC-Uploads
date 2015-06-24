@@ -1,0 +1,10 @@
+clear;
+clc;
+f=50;
+CRF=0.05;
+R=300;
+L=sqrt((CRF/(.4715*R))^-2-R^2)/(2*2*%pi*f);    printf("L=%.4f H",L);
+R=30;
+L=sqrt((CRF/(.4715*R))^-2-R^2)/(2*2*%pi*f);    printf("\nL=%.4f H",L);
+L=0;
+CRF=.4715*R/sqrt(R^2+(2*2*%pi*f*L)^2);    printf("\nCRF=%.4f",CRF);

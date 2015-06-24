@@ -1,0 +1,4 @@
+  
+ Probability that one card is Diamond and Othercard is Heart   
+ 
+    0.1274510  

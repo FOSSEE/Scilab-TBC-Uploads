@@ -1,0 +1,15 @@
+(i) Purchasing diesel set: 
+Capital cost = Rs. 400000 
+Annual interest and depreciation = Rs. 40000 
+Extra power to be generated = 500 kW 
+Annual charge due to extra kW max demand = Rs. 37500 
+Annual charge due to extra kWh consumption = Rs. 275000 
+Total Annual cost = Rs. 352500 
+
+(ii) Purchasing from grid supply: 
+Annual charge due to extra kW max demand = Rs. 60000 
+Annual charge due to extra kWh consumption = Rs. 165000 
+Total Annual cost = Rs. 225000 
+
+Alternative (ii) is cheaper by Rs. 127500
+

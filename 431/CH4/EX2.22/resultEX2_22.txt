@@ -1,0 +1,3 @@
+ Example 2.22   
+Ia1=35.355339A
+value of extra resistance added=6.511746ohms 

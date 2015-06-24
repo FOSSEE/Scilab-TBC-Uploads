@@ -1,0 +1,77 @@
+11#Fluid Machinary#11.9#Chapter11 Example9#Ex11_9.sce#2783/CH11/EX11.9/Ex11_9.sce#S##96403
+11#Fluid Machinary#11.8#Chapter11 Example8#Ex11_8.sce#2783/CH11/EX11.8/Ex11_8.sce#S##96402
+11#Fluid Machinary#11.7#Chapter11 Example7#Ex11_7.sce#2783/CH11/EX11.7/Ex11_7.sce#S##96401
+11#Fluid Machinary#11.6#Chapter11 Example6#Ex11_6.sce#2783/CH11/EX11.6/Ex11_6.sce#S##96400
+11#Fluid Machinary#11.5#Chapter11 Example5#Ex11_5.sce#2783/CH11/EX11.5/Ex11_5.sce#S##96399
+11#Fluid Machinary#11.4#Chapter11 Example4#Ex11_4.sce#2783/CH11/EX11.4/Ex11_4.sce#S##110026
+11#Fluid Machinary#11.3#Chapter11 Example3#Ex11_3.sce#2783/CH11/EX11.3/Ex11_3.sce#S##110025
+11#Fluid Machinary#11.2#Chapter11 Example2#Ex11_2.sce#2783/CH11/EX11.2/Ex11_2.sce#S##96396
+11#Fluid Machinary#11.12#Chapter11 Example12#Ex11_12.sce#2783/CH11/EX11.12/Ex11_12.sce#S##96406
+11#Fluid Machinary#11.11#Chapter11 Example11#Ex11_11.sce#2783/CH11/EX11.11/Ex11_11.sce#S##96405
+11#Fluid Machinary#11.10#Chapter11 Example10#Ex11_10.sce#2783/CH11/EX11.10/Ex11_10.sce#S##96404
+11#Fluid Machinary#11.1#Chapter11 Example1#Ex11_1.sce#2783/CH11/EX11.1/Ex11_1.sce#S##96395
+10#Elements of Inviscid Compressible flow#10.6#Chapter10 Example6#Ex10_6.sce#2783/CH10/EX10.6/Ex10_6.sce#S##96393
+10#Elements of Inviscid Compressible flow#10.5#Chapter10 Example5#Ex10_5.sce#2783/CH10/EX10.5/Ex10_5.sce#S##96392
+10#Elements of Inviscid Compressible flow#10.3#Chapter10 Example3#Ex10_3.sce#2783/CH10/EX10.3/Ex10_3.sce#S##96391
+10#Elements of Inviscid Compressible flow#10.2#Chapter10 Example2#Ex10_2.sce#2783/CH10/EX10.2/Ex10_2.sce#S##96390
+10#Elements of Inviscid Compressible flow#10.1#Chapter10 Example1#Ex10_1.sce#2783/CH10/EX10.1/Ex10_1.sce#S##96389
+8#High Reynolds Number Flow Over Bodies#8.9#Chapter8 Example9#Ex8_9.sce#2783/CH8/EX8.9/Ex8_9.sce#S##96372
+8#High Reynolds Number Flow Over Bodies#8.8#Chapter8 Example8#Ex8_8.sce#2783/CH8/EX8.8/Ex8_8.sce#S##96371
+8#High Reynolds Number Flow Over Bodies#8.7#Chapter8 Example7#Ex8_7.sce#2783/CH8/EX8.7/Ex8_7.sce#S##96370
+8#High Reynolds Number Flow Over Bodies#8.6#Chapter8 Example6#Ex8_6.sce#2783/CH8/EX8.6/Ex8_6.sce#S##96369
+8#High Reynolds Number Flow Over Bodies#8.3#Chapter8 Example3#Ex8_3.sce#2783/CH8/EX8.3/Ex8_3.sce#S##96368
+8#High Reynolds Number Flow Over Bodies#8.25#Chapter8 Example25#Ex8_25.sce#2783/CH8/EX8.25/Ex8_25.sce#S##96388
+8#High Reynolds Number Flow Over Bodies#8.24#Chapter8 Example24#Ex8_24.sce#2783/CH8/EX8.24/Ex8_24.sce#S##110024
+8#High Reynolds Number Flow Over Bodies#8.23#Chapter8 Example23#Ex8_23.sce#2783/CH8/EX8.23/Ex8_23.sce#S##110023
+8#High Reynolds Number Flow Over Bodies#8.22#Chapter8 Example22#Ex8_22.sce#2783/CH8/EX8.22/Ex8_22.sce#S##96385
+8#High Reynolds Number Flow Over Bodies#8.21#Chapter8 Example21#Ex8_21.sce#2783/CH8/EX8.21/Ex8_21.sce#S##96384
+8#High Reynolds Number Flow Over Bodies#8.20#Chapter8 Example20#Ex8_20.sce#2783/CH8/EX8.20/Ex8_20.sce#S##96383
+8#High Reynolds Number Flow Over Bodies#8.2#Chapter8 Example2#Ex8_2.sce#2783/CH8/EX8.2/Ex8_2.sce#S##96367
+8#High Reynolds Number Flow Over Bodies#8.19#Chapter8 Example19#Ex8_19.sce#2783/CH8/EX8.19/Ex8_19.sce#S##96382
+8#High Reynolds Number Flow Over Bodies#8.18#Chapter8 Example18#Ex8_18.sce#2783/CH8/EX8.18/Ex8_18.sce#S##96381
+8#High Reynolds Number Flow Over Bodies#8.17#Chapter8 Example17#Ex8_17.sce#2783/CH8/EX8.17/Ex8_17.sce#S##96380
+8#High Reynolds Number Flow Over Bodies#8.16#Chapter8 Example16#Ex8_16.sce#2783/CH8/EX8.16/Ex8_16.sce#S##96379
+8#High Reynolds Number Flow Over Bodies#8.15#Chapter8 Example15#Ex8_15.sce#2783/CH8/EX8.15/Ex8_15.sce#S##96378
+8#High Reynolds Number Flow Over Bodies#8.14#Chapter8 Example14#Ex8_14.sce#2783/CH8/EX8.14/Ex8_14.sce#S##96377
+8#High Reynolds Number Flow Over Bodies#8.13#Chapter8 Example13#Ex8_13.sce#2783/CH8/EX8.13/Ex8_13.sce#S##96376
+8#High Reynolds Number Flow Over Bodies#8.12#Chapter8 Example12#Ex8_12.sce#2783/CH8/EX8.12/Ex8_12.sce#S##96375
+8#High Reynolds Number Flow Over Bodies#8.11#Chapter8 Example11#Ex8_11.sce#2783/CH8/EX8.11/Ex8_11.sce#S##96374
+8#High Reynolds Number Flow Over Bodies#8.10#Chapter8 Example10#Ex8_10.sce#2783/CH8/EX8.10/Ex8_10.sce#S##96373
+8#High Reynolds Number Flow Over Bodies#8.1#Chapter8 Example1#Ex8_1.sce#2783/CH8/EX8.1/Ex8_1.sce#S##96366
+7#The Laminar Boundary Layer#7.2#Chapter7 Example2#Ex7_2.sce#2783/CH7/EX7.2/Ex7_2.sce#S##96365
+7#The Laminar Boundary Layer#7.1#Chapter7 Example1#Ex7_1.sce#2783/CH7/EX7.1/Ex7_1.sce#S##96364
+5#Viscous Incompressible Flow Exact Solutions#5.9#Chapter5 Example9#Ex5_9.sce#2783/CH5/EX5.9/Ex5_9.sce#S##96357
+5#Viscous Incompressible Flow Exact Solutions#5.8#Chapter5 Example8#Ex5_8.sce#2783/CH5/EX5.8/Ex5_8.sce#S##96356
+5#Viscous Incompressible Flow Exact Solutions#5.7#Chapter5 Example7#Ex5_7.sce#2783/CH5/EX5.7/Ex5_7.sce#S##96355
+5#Viscous Incompressible Flow Exact Solutions#5.6#Chapter5 Example6#Ex5_6.sce#2783/CH5/EX5.6/Ex5_6.sce#S##96354
+5#Viscous Incompressible Flow Exact Solutions#5.5#Chapter5 Example5#Ex5_5.sce#2783/CH5/EX5.5/Ex5_5.sce#S##96353
+5#Viscous Incompressible Flow Exact Solutions#5.4#Chapter5 Example4#Ex5_4.sce#2783/CH5/EX5.4/Ex5_4.sce#S##110022
+5#Viscous Incompressible Flow Exact Solutions#5.3#Chapter5 Example3#Ex5_3.sce#2783/CH5/EX5.3/Ex5_3.sce#S##96351
+5#Viscous Incompressible Flow Exact Solutions#5.2#Chapter5 Example2#Ex5_2.sce#2783/CH5/EX5.2/Ex5_2.sce#S##96350
+5#Viscous Incompressible Flow Exact Solutions#5.17#Chapter5 Example17#Ex5_17.sce#2783/CH5/EX5.17/Ex5_17.sce#S##96363
+5#Viscous Incompressible Flow Exact Solutions#5.16#Chapter5 Example16#Ex5_16.sce#2783/CH5/EX5.16/Ex5_16.sce#S##96362
+5#Viscous Incompressible Flow Exact Solutions#5.15#Chapter5 Example15#Ex5_15.sce#2783/CH5/EX5.15/Ex5_15.sce#S##96414
+5#Viscous Incompressible Flow Exact Solutions#5.15#Chapter5 Example15#Ex5_15.jpeg#2783/CH5/EX5.15/Ex5_15.jpeg#R##96415
+5#Viscous Incompressible Flow Exact Solutions#5.14#Chapter5 Example14#Ex5_14.sce#2783/CH5/EX5.14/Ex5_14.sce#S##96412
+5#Viscous Incompressible Flow Exact Solutions#5.14#Chapter5 Example14#Ex5_14.jpeg#2783/CH5/EX5.14/Ex5_14.jpeg#R##96413
+5#Viscous Incompressible Flow Exact Solutions#5.13#Chapter5 Example13#Ex5_13.sce#2783/CH5/EX5.13/Ex5_13.sce#S##96361
+5#Viscous Incompressible Flow Exact Solutions#5.12#Chapter5 Example12#Ex5_12.sce#2783/CH5/EX5.12/Ex5_12.sce#S##96360
+5#Viscous Incompressible Flow Exact Solutions#5.11#Chapter5 Example11#Ex5_11.sce#2783/CH5/EX5.11/Ex5_11.sce#S##96359
+5#Viscous Incompressible Flow Exact Solutions#5.10#Chapter5 Example10#Ex5_10.sce#2783/CH5/EX5.10/Ex5_10.sce#S##96358
+4#Introduction to Fluid in Motion#4.8#Chapter4 Example8#Ex4_8.sce#2783/CH4/EX4.8/Ex4_8.sce#S##96349
+4#Introduction to Fluid in Motion#4.7#Chapter4 Example7#Ex4_7.sce#2783/CH4/EX4.7/Ex4_7.sce#S##96348
+4#Introduction to Fluid in Motion#4.2#Chapter4 Example2#Ex4_2.sce#2783/CH4/EX4.2/Ex4_2.sce#S##96343
+4#Introduction to Fluid in Motion#4.1#Chapter4 Example1#Ex4_1.sce#2783/CH4/EX4.1/Ex4_1.sce#S##96342
+3#Fluid Statics#3.5#Chapter3 Example5#Ex3_5.sce#2783/CH3/EX3.5/Ex3_5.sce#S##96341
+3#Fluid Statics#3.4#Chapter3 Example4#Ex3_4.sce#2783/CH3/EX3.4/Ex3_4.sce#S##96340
+3#Fluid Statics#3.3#Chapter3 Example3#Ex3_3.sce#2783/CH3/EX3.3/Ex3_3.sce#S##110021
+3#Fluid Statics#3.2#Chapter3 Example2#Ex3_2.sce#2783/CH3/EX3.2/Ex3_2.sce#S##110020
+3#Fluid Statics#3.1#Chapter3 Example1#Ex3_1.sce#2783/CH3/EX3.1/Ex3_1.sce#S##96337
+2#The Fluid Dynamic Eqaution#2.4#Chapter2 Example4#Ex2_4.sce#2783/CH2/EX2.4/Ex2_4.sce#S##110019
+2#The Fluid Dynamic Eqaution#2.3#Chapter2 Example3#Ex2_3.sce#2783/CH2/EX2.3/Ex2_3.sce#S##110018
+1#Basic Concepts and Fluid Properties#1.7#Chapter1 Example7#Ex1_7.sce#2783/CH1/EX1.7/Ex1_7.sce#S##96333
+1#Basic Concepts and Fluid Properties#1.6#Chapter1 Example6#Ex1_6.sce#2783/CH1/EX1.6/Ex1_6.sce#S##110017
+1#Basic Concepts and Fluid Properties#1.5#Chapter1 Example5#Ex1_5.sce#2783/CH1/EX1.5/Ex1_5.sce#S##96331
+1#Basic Concepts and Fluid Properties#1.4#Chapter1 Example4#Ex1_4.sce#2783/CH1/EX1.4/Ex1_4.sce#S##96330
+1#Basic Concepts and Fluid Properties#1.2#Chapter1 Example2#Ex1_2.sce#2783/CH1/EX1.2/Ex1_2.sce#S##110016
+1#Basic Concepts and Fluid Properties#1.1#Chapter1 Example1#Ex1_1.sce#2783/CH1/EX1.1/Ex1_1.sce#S##110015

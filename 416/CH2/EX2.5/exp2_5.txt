@@ -1,0 +1,4 @@
+ 
+ example 2.5   
+capacity factor =0.473360
+utilisation factor =169.004563 

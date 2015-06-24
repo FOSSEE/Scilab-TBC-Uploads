@@ -1,0 +1,3 @@
+ # PROBLEM 4.7 # 
+ 
+ Maximum speed at which cutting is passible = 2.759951 m/sec. 

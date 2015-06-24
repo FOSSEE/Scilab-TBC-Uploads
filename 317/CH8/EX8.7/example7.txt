@@ -1,0 +1,3 @@
+collector-ground voltage is 3.96 volts
+base-ground voltage is 8.2 volts
+emitter-ground voltage is 8.9 volts

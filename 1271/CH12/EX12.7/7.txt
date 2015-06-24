@@ -1,0 +1,2 @@
+Half life time is 1619.158879 years.
+ Mean life time is 2336.448598 years.

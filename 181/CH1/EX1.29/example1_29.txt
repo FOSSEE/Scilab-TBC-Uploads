@@ -1,0 +1,6 @@
+ (a)Intrinsic conductivity=0.0224 s/cm
+p_0=1.42e+011 /cm^3
+(b)Since n_0>p_0, Conductivity=2.68 s/cm
+With given acceptor impurity, 
+n_0=1.42e+011 /cm^3
+(c)Since p_0>n_0, Conductivity=1.27 s/cm 

@@ -1,0 +1,118 @@
+17#Thermal conduction#17.7#Thermal gradient#Chapter17_example7.sce#1985/CH17/EX17.7/Chapter17_example7.sce#S##70598
+17#Thermal conduction#17.6#Temperature at interface#Chapter17_example6.sce#1985/CH17/EX17.6/Chapter17_example6.sce#S##70597
+17#Thermal conduction#17.5#Time taken#Chapter17_example5.sce#1985/CH17/EX17.5/Chapter17_example5.sce#S##70595
+17#Thermal conduction#17.4#Thermal conductivity#Chapter17_example4.sce#1985/CH17/EX17.4/Chapter17_example4.sce#S##70594
+17#Thermal conduction#17.3#Energy#Chapter17_example3.sce#1985/CH17/EX17.3/Chapter17_example3.sce#S##70593
+17#Thermal conduction#17.2#Thermal conductivity#Chapter17_example2.sce#1985/CH17/EX17.2/Chapter17_example2.sce#S##70592
+17#Thermal conduction#17.1#Thermal conductivity#Chapter17_example1.sce#1985/CH17/EX17.1/Chapter17_example1.sce#S##70591
+16#Thermal Physics#16.6#Heat supplied#Chapter16_example6.sce#1985/CH16/EX16.6/Chapter16_example6.sce#S##70590
+16#Thermal Physics#16.5#Temperature of source#Chapter16_example5.sce#1985/CH16/EX16.5/Chapter16_example5.sce#S##70589
+16#Thermal Physics#16.4#Change in temperature#Chapter16_example4.sce#1985/CH16/EX16.4/Chapter16_example4.sce#S##70588
+16#Thermal Physics#16.3#Efficiency#Chapter16_example3.sce#1985/CH16/EX16.3/Chapter16_example3.sce#S##70587
+16#Thermal Physics#16.2#Specific heat#Chapter16_example2.sce#1985/CH16/EX16.2/Chapter16_example2.sce#S##70586
+16#Thermal Physics#16.1#Temperature of the body#Chapter16_example1.sce#1985/CH16/EX16.1/Chapter16_example1.sce#S##70585
+15#Photoelasticity#15.2#Maximum shearing stress#Chapter15_example2.sce#1985/CH15/EX15.2/Chapter15_example2.sce#S##70584
+15#Photoelasticity#15.1#Difference between refractive indices#Chapter15_example1.sce#1985/CH15/EX15.1/Chapter15_example1.sce#S##70583
+14#Engineering Materials#14.9#Average Magnetization#Chapter14_example9.sce#1985/CH14/EX14.9/Chapter14_example9.sce#S##70582
+14#Engineering Materials#14.8#Magnetization#Chapter14_example8.sce#1985/CH14/EX14.8/Chapter14_example8.sce#S##70581
+14#Engineering Materials#14.7#Magnetizing force#Chapter14_example7.sce#1985/CH14/EX14.7/Chapter14_example7.sce#S##70580
+14#Engineering Materials#14.6#Ratio of internal field to applied field#Chapter14_example6.sce#1985/CH14/EX14.6/Chapter14_example6.sce#S##70579
+14#Engineering Materials#14.5#Energy stored in the capacitor#Chapter14_example5.sce#1985/CH14/EX14.5/Chapter14_example5.sce#S##70578
+14#Engineering Materials#14.4#Relaxation time#Chapter14_example4.sce#1985/CH14/EX14.4/Chapter14_example4.sce#S##70577
+14#Engineering Materials#14.3#Electrical conductivity#Chapter14_example3.sce#1985/CH14/EX14.3/Chapter14_example3.sce#S##70576
+14#Engineering Materials#14.2#Electrical conductivity#Chapter14_example2.sce#1985/CH14/EX14.2/Chapter14_example2.sce#S##70575
+14#Engineering Materials#14.1#Lorentz number#Chapter14_example1.sce#1985/CH14/EX14.1/Chapter14_example1.sce#S##70574
+13#Crystallography#13.9#Seperation between planes#Chapter13_example9.sce#1985/CH13/EX13.9/Chapter13_example9.sce#S##70573
+13#Crystallography#13.8#Lattice spacing#Chapter13_example8.sce#1985/CH13/EX13.8/Chapter13_example8.sce#S##70572
+13#Crystallography#13.7#intercepts#Chapter13_example7.sce#1985/CH13/EX13.7/Chapter13_example7.sce#S##70571
+13#Crystallography#13.6#Length of intercepts#Chapter13_example6.sce#1985/CH13/EX13.6/Chapter13_example6.sce#S##70570
+13#Crystallography#13.5#Miller Indices#Chapter13_example5.sce#1985/CH13/EX13.5/Chapter13_example5.sce#S##70569
+13#Crystallography#13.3#Avagadro Constant#Chapter13_example3.sce#1985/CH13/EX13.3/Chapter13_example3.sce#S##70568
+13#Crystallography#13.2#Lattice constant#Chapter13_example2.sce#1985/CH13/EX13.2/Chapter13_example2.sce#S##70567
+12#Quantum Theory of Radiation and Photoelectric Effect#12.9#Stopping Potential#Chapter12_example9.sce#1985/CH12/EX12.9/Chapter12_example9.sce#S##70564
+12#Quantum Theory of Radiation and Photoelectric Effect#12.8#Energy of photoelectrons#Chapter12_example8.sce#1985/CH12/EX12.8/Chapter12_example8.sce#S##70563
+12#Quantum Theory of Radiation and Photoelectric Effect#12.7#Photoelectric work function#Chapter12_example7.sce#1985/CH12/EX12.7/Chapter12_example7.sce#S##70562
+12#Quantum Theory of Radiation and Photoelectric Effect#12.6#Kinetic Energy#Chapter12_example6.sce#1985/CH12/EX12.6/Chapter12_example6.sce#S##70561
+12#Quantum Theory of Radiation and Photoelectric Effect#12.5#Threshold Wavelength#Chapter12_example5.sce#1985/CH12/EX12.5/Chapter12_example5.sce#S##70560
+12#Quantum Theory of Radiation and Photoelectric Effect#12.4#Number of photons#Chapter12_example4.sce#1985/CH12/EX12.4/Chapter12_example4.sce#S##70559
+12#Quantum Theory of Radiation and Photoelectric Effect#12.3#Number of photons#Chapter12_example3.sce#1985/CH12/EX12.3/Chapter12_example3.sce#S##70558
+12#Quantum Theory of Radiation and Photoelectric Effect#12.2#Momentum of photons#Chapter12_example2.sce#1985/CH12/EX12.2/Chapter12_example2.sce#S##70557
+12#Quantum Theory of Radiation and Photoelectric Effect#12.11#Kinetic Energy#Chapter12_example11.sce#1985/CH12/EX12.11/Chapter12_example11.sce#S##70566
+12#Quantum Theory of Radiation and Photoelectric Effect#12.10#Threshold frequency#Chapter12_example10.sce#1985/CH12/EX12.10/Chapter12_example10.sce#S##70565
+12#Quantum Theory of Radiation and Photoelectric Effect#12.1#Wavelength#Chapter12_example1.sce#1985/CH12/EX12.1/Chapter12_example1.sce#S##70556
+11#X rays#11.7#wavelength and energy#Chapter11_Example7.sce#1985/CH11/EX11.7/Chapter11_Example7.sce#S##70255
+11#X rays#11.6#Compton Shift#Chapter11_Example6.sce#1985/CH11/EX11.6/Chapter11_Example6.sce#S##70254
+11#X rays#11.5#wavelength#Chapter11_Example5.sce#1985/CH11/EX11.5/Chapter11_Example5.sce#S##70253
+11#X rays#11.4#Grating spacing#Chapter11_Example4.sce#1985/CH11/EX11.4/Chapter11_Example4.sce#S##81744
+11#X rays#11.3#wavelength#Chapter11_Example3.sce#1985/CH11/EX11.3/Chapter11_Example3.sce#S##81743
+11#X rays#11.2#Number of electrons#Chapter11_Example2.sce#1985/CH11/EX11.2/Chapter11_Example2.sce#S##70250
+11#X rays#11.1#Shortest wavelength#Chapter11_Example1.sce#1985/CH11/EX11.1/Chapter11_Example1.sce#S##70249
+10#Nuclear Physics#10.7#Total energy released#Chapter10_example7.sce#1985/CH10/EX10.7/Chapter10_example7.sce#S##70248
+10#Nuclear Physics#10.6#Reactor consumption#Chapter10_example6.sce#1985/CH10/EX10.6/Chapter10_example6.sce#S##70247
+10#Nuclear Physics#10.5#Amount of fuel#Chapter10_example5.sce#1985/CH10/EX10.5/Chapter10_example5.sce#S##70246
+10#Nuclear Physics#10.4#Reactor consumption#Chapter10_example4.sce#1985/CH10/EX10.4/Chapter10_example4.sce#S##70245
+10#Nuclear Physics#10.3#Number of nuclei#Chapter10_example3.sce#1985/CH10/EX10.3/Chapter10_example3.sce#S##70244
+10#Nuclear Physics#10.2#Energy released#Chapter10_example2.sce#1985/CH10/EX10.2/Chapter10_example2.sce#S##70243
+10#Nuclear Physics#10.1#Energy released#Chapter10_example1.sce#1985/CH10/EX10.1/Chapter10_example1.sce#S##70242
+9#Atomic Physics#9.7#Energy#Chapter9_Example7.sce#1985/CH9/EX9.7/Chapter9_Example7.sce#S##70241
+9#Atomic Physics#9.6#Uncertainity in momentum#Chapter9_Example6.sce#1985/CH9/EX9.6/Chapter9_Example6.sce#S##70240
+9#Atomic Physics#9.5#Uncertainity in momentum#Chapter9_Example5.sce#1985/CH9/EX9.5/Chapter9_Example5.sce#S##70239
+9#Atomic Physics#9.4#Velocity and wavelength#Chapter9_Example4.sce#1985/CH9/EX9.4/Chapter9_Example4.sce#S##70238
+9#Atomic Physics#9.3#de Broglie wavelength#Chapter9_Example3.sce#1985/CH9/EX9.3/Chapter9_Example3.sce#S##70237
+9#Atomic Physics#9.2#de Broglie wavelength#Chapter9_Example2.sce#1985/CH9/EX9.2/Chapter9_Example2.sce#S##70236
+9#Atomic Physics#9.1#de Broglie wavelength#Chapter9_Example1.sce#1985/CH9/EX9.1/Chapter9_Example1.sce#S##70235
+8#Ultrasonics#8.4#Youngs Modulus#Chapter8_Example4.sce#1985/CH8/EX8.4/Chapter8_Example4.sce#S##70234
+8#Ultrasonics#8.3#Thickness#Chapter8_Example3.sce#1985/CH8/EX8.3/Chapter8_Example3.sce#S##70233
+8#Ultrasonics#8.2#Fundamental frequency#Chapter8_Example2.sce#1985/CH8/EX8.2/Chapter8_Example2.sce#S##70232
+8#Ultrasonics#8.1#Fundamental frequency#Chapter8_Example1.sce#1985/CH8/EX8.1/Chapter8_Example1.sce#S##70231
+7#Acoustics#7.9#Reverberation time#Chapter7_Example9.sce#1985/CH7/EX7.9/Chapter7_Example9.sce#S##70229
+7#Acoustics#7.8#Average absorption coefficient#Chapter7_Example8.sce#1985/CH7/EX7.8/Chapter7_Example8.sce#S##70228
+7#Acoustics#7.7#Reverberation time#Chapter7_Example7.sce#1985/CH7/EX7.7/Chapter7_Example7.sce#S##70227
+7#Acoustics#7.6#Intensity level#Chapter7_Example6.sce#1985/CH7/EX7.6/Chapter7_Example6.sce#S##70226
+7#Acoustics#7.5#Intensity level#Chapter7_Example5.sce#1985/CH7/EX7.5/Chapter7_Example5.sce#S##70225
+7#Acoustics#7.4#Intensity level of sound#Chapter7_Example4.sce#1985/CH7/EX7.4/Chapter7_Example4.sce#S##70224
+7#Acoustics#7.3#Acoustic intensity#Chapter7_Example3.sce#1985/CH7/EX7.3/Chapter7_Example3.sce#S##70223
+7#Acoustics#7.2#Relative sound intensity#Chapter7_Example2.sce#1985/CH7/EX7.2/Chapter7_Example2.sce#S##70222
+7#Acoustics#7.10#Intensity level of jet plane#Chapter7_Example10.sce#1985/CH7/EX7.10/Chapter7_Example10.sce#S##70230
+7#Acoustics#7.1#Intensity level#Chapter7_Example1.sce#1985/CH7/EX7.1/Chapter7_Example1.sce#S##70603
+6#Geometrical Optics#6.4#Time of exposure#Chapter6_Example4.sce#1985/CH6/EX6.4/Chapter6_Example4.sce#S##70220
+6#Geometrical Optics#6.3#Dispersive power#Chapter6_Example3.sce#1985/CH6/EX6.3/Chapter6_Example3.sce#S##70219
+6#Geometrical Optics#6.2#Longitudinal Chromatic aberration#Chapter6_Example2.sce#1985/CH6/EX6.2/Chapter6_Example2.sce#S##70601
+6#Geometrical Optics#6.1#Focal length#Chapter6_Example1.sce#1985/CH6/EX6.1/Chapter6_Example1.sce#S##70215
+5#Laser and Fibre Optics#5.8#Number of modes#chapter5_Example8.sce#1985/CH5/EX5.8/chapter5_Example8.sce#S##70212
+5#Laser and Fibre Optics#5.7#Properties#chapter5_Example7.sce#1985/CH5/EX5.7/chapter5_Example7.sce#S##81752
+5#Laser and Fibre Optics#5.6#Number of photons#chapter5_Example6.sce#1985/CH5/EX5.6/chapter5_Example6.sce#S##70208
+5#Laser and Fibre Optics#5.5#Ratio of emission#chapter5_Example5.sce#1985/CH5/EX5.5/chapter5_Example5.sce#S##70206
+5#Laser and Fibre Optics#5.4#Difference in states#chapter5_Example4.sce#1985/CH5/EX5.4/chapter5_Example4.sce#S##70204
+5#Laser and Fibre Optics#5.3#Ratio of emission#chapter5_Example3.sce#1985/CH5/EX5.3/chapter5_Example3.sce#S##70202
+5#Laser and Fibre Optics#5.2#Ratio of atoms#chapter5_Example2.sce#1985/CH5/EX5.2/chapter5_Example2.sce#S##70200
+5#Laser and Fibre Optics#5.1#Energy#chapter5_Example1.sce#1985/CH5/EX5.1/chapter5_Example1.sce#S##70198
+4#Diffraction#4.7#Diffraction#Chapter4_Example7.sce#1985/CH4/EX4.7/Chapter4_Example7.sce#S##70195
+4#Diffraction#4.6#Angular Seperation#Chapter4_Example6.sce#1985/CH4/EX4.6/Chapter4_Example6.sce#S##81751
+4#Diffraction#4.5#Dispersive power#Chapter4_Example5.sce#1985/CH4/EX4.5/Chapter4_Example5.sce#S##70191
+4#Diffraction#4.4#Seperation of two lines#Chapter4_Example4.sce#1985/CH4/EX4.4/Chapter4_Example4.sce#S##70190
+4#Diffraction#4.3#Third order#Chapter4_Example3.sce#1985/CH4/EX4.3/Chapter4_Example3.sce#S##81750
+4#Diffraction#4.2#Minimum number of lines#Chapter4_Example2.sce#1985/CH4/EX4.2/Chapter4_Example2.sce#S##70186
+4#Diffraction#4.1#Angular Seperation#Chapter4_Example1.sce#1985/CH4/EX4.1/Chapter4_Example1.sce#S##81749
+3#Special Theory of Relativity#3.9#Relativistic mass#Chapter3_Example9.sce#1985/CH3/EX3.9/Chapter3_Example9.sce#S##70180
+3#Special Theory of Relativity#3.8#Contracted length#Chapter3_Example8.sce#1985/CH3/EX3.8/Chapter3_Example8.sce#S##70178
+3#Special Theory of Relativity#3.6#Properties#Chapter3_Example6.sce#1985/CH3/EX3.6/Chapter3_Example6.sce#S##81747
+3#Special Theory of Relativity#3.5#Speed of rocket#Chapter3_Example5.sce#1985/CH3/EX3.5/Chapter3_Example5.sce#S##70174
+3#Special Theory of Relativity#3.4#Time Interval#Chapter3_Example4.sce#1985/CH3/EX3.4/Chapter3_Example4.sce#S##81746
+3#Special Theory of Relativity#3.3#Mass of electron#Chapter3_Example3.sce#1985/CH3/EX3.3/Chapter3_Example3.sce#S##70171
+3#Special Theory of Relativity#3.2#Mass of Object#Chapter3_Example2.sce#1985/CH3/EX3.2/Chapter3_Example2.sce#S##70169
+3#Special Theory of Relativity#3.10#Speed of electron#Chapter3_Example10.sce#1985/CH3/EX3.10/Chapter3_Example10.sce#S##81748
+3#Special Theory of Relativity#3.1#Relative Speed#Chapter3_Example1.sce#1985/CH3/EX3.1/Chapter3_Example1.sce#S##70168
+2#Elasticity#2.9#Poissions ratio#Chapter2_example9.sce#1985/CH2/EX2.9/Chapter2_example9.sce#S##70163
+2#Elasticity#2.8#Couple to be applied#Chapter2_example8.sce#1985/CH2/EX2.8/Chapter2_example8.sce#S##70162
+2#Elasticity#2.7#Lateral Compression#Chapter2_example7.sce#1985/CH2/EX2.7/Chapter2_example7.sce#S##81745
+2#Elasticity#2.6#Poissions ratio#Chapter2_example6.sce#1985/CH2/EX2.6/Chapter2_example6.sce#S##70160
+2#Elasticity#2.4#Shearing Force#Chapter2_example4.sce#1985/CH2/EX2.4/Chapter2_example4.sce#S##70159
+2#Elasticity#2.3#Shearing Stress#Chapter2_example3.sce#1985/CH2/EX2.3/Chapter2_example3.sce#S##70158
+2#Elasticity#2.2#Increase in length#Chapter2_example2.sce#1985/CH2/EX2.2/Chapter2_example2.sce#S##70156
+2#Elasticity#2.10#Change in Volume#Chapter2_example10.sce#1985/CH2/EX2.10/Chapter2_example10.sce#S##70165
+2#Elasticity#2.1#Youngs Modulus#Chapter2_example1.sce#1985/CH2/EX2.1/Chapter2_example1.sce#S##70154
+1#Gravity#1.4#Time Period#chapter1_Example4.sce#1985/CH1/EX1.4/chapter1_Example4.sce#S##70152
+1#Gravity#1.3#Time Period and distance#chapter1_Example3.sce#1985/CH1/EX1.3/chapter1_Example3.sce#S##70150
+1#Gravity#1.2#Acceleration due to gravity#chapter1_Example2.sce#1985/CH1/EX1.2/chapter1_Example2.sce#S##70147
+1#Gravity#1.1#Time Period#chapter1_Example1.sce#1985/CH1/EX1.1/chapter1_Example1.sce#S##70144

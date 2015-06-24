@@ -1,0 +1,4 @@
+ The power density at earth = 5.510905*10^-13 W/m^2
+ The rms value of E = 1.441375*10^-5 V/m
+ The rms value of H = 3.823366*10^-8 AT/m
+ The time taken by the signal to reach earth = 1.266667 sec

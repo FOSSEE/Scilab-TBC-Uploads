@@ -1,0 +1,2 @@
+**Sample Problem 6-4**
+The final velocity of cat will be 68.589358 km/hr 

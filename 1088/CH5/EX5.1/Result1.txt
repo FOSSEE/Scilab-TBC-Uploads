@@ -1,0 +1,76 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec("Example1.sci",-1)
+Current date is 05-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            5   
+ 
+ Chapter Title                         :                                   HANDLING ORDINARY FILES   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 6    :               Show the method of file handling using the cat command 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the file which you want to access  
+
+# This searches for a file named hither 
+
+
+hither : file not found 
+# Create a new file named hither?
+ # y : Yes 
+ # n : No 
+
+#***Enter the contents of the file hither*****
+# [Enter ^ in a newline to end and close the file]
+
+
+$ cat > hither                      #to create a file named hither and fill its contents
+
+          ===========> hither <============
+
+
+Hi I am Pranav
+I am an intern at FOSSE project
+I hope this project helps students well
+Thank You
+
+
+98 characters present in the file.
+[hit ENTER to continue]
+
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

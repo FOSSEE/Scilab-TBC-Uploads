@@ -1,0 +1,5 @@
+Load current across Rl = 0.0005 A 
+
+Voltage across load resistance = 2.5000 V 
+
+Output Voltage = 5.0000 V  

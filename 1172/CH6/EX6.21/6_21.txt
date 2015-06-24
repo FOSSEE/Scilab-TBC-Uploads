@@ -1,0 +1,5 @@
+ # Problem 21 # 
+
+ Standard formula used 
+ m = m_o* sqrt ( 1- (v/c)^2) 
+ Velocity required to increase mass by 2000 times is 3.000000e+08 - 37.500002 m/s.

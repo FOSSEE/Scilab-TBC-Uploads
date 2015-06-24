@@ -1,0 +1,3 @@
+ The Radiation resistance of an antenna = 15.240402 ohm
+ The power radiated = 38.101006 KW
+ The efficiency = 30.480805 %

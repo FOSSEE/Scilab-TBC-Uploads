@@ -1,0 +1,3 @@
+ (a)  The apparent circuit resistance neglecting the resistance of milliammeter, R_T = 20000 ohm
+(b)  The actual circuit resistance with the loading effect of voltmeter, R_X = 23076.92 ohm
+(c)  The percentage error due to loading effect of voltmeter = 13.33% 

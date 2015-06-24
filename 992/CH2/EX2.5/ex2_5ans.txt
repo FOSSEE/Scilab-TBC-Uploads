@@ -1,0 +1,7 @@
+
+	 carrier signal current = 9.428090 A 
+
+	 total modulation index = 0.987737  // there is calculation error in the answer given in book
+
+	 modulation index due to second wave= 0.851836   
+ Execution done.   

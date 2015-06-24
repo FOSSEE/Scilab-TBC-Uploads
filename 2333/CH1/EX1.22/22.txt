@@ -1,0 +1,5 @@
+# PROBLEM 22 # 
+ Standard formula used 
+ u_x = u_x_ + v / (1+ v*u_x_/c^2) 
+ 
+ Velocity of particle is 2.400000e+08 i+ 2.400000 j+ 7.200000 k 

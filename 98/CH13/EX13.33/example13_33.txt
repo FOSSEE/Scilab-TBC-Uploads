@@ -1,0 +1,19 @@
+(i) Total load on main generator = 256 kW 
+
+(ii) Current supplied by main generator = 512 A 
+
+	 Load current on +ve outer = 600 A 
+
+	 Load current on -ve outer = 400 A 
+
+	 Current in nuetral = 200 A 
+
+	 Current in machine A = 88 A 
+
+	 Current in machine B = 112 A 
+
+	 Load on machine A = 22 kW 
+
+	 Load on machine B = 28 kW 
+
+

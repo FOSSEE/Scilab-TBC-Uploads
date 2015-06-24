@@ -1,0 +1,12 @@
+ Viewed from low-tension side   
+
+ Leakage reactance from low-tension side = 0.06 ohm
+ Low-tension base impedance = 4.84 ohmn
+ Leakage reactance in per unit from Low-tension side = 0.0124 per unit 
+
+ 
+ Viewed from high-tension side   
+
+ Leakage reactance from high-tension side = 0.96 ohm
+ High-tension base impedance = 77.44 ohmn
+ Leakage reactance in per unit from Low-tension side = 0.0124 per unit 

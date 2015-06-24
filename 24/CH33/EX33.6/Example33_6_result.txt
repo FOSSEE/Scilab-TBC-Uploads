@@ -1,0 +1,5 @@
+**Sample Problem 33-6a**
+The voltage drop across the inductor is Vi=36.00*sin(376.99*t)
+
+**Sample Problem 33-6b**
+The current in the inductor as a function of time is Ic=-0.42*cos(376.99*t) 

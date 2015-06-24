@@ -1,0 +1,4 @@
+  
+ example 8.1   
+
+power developed by hydro plant is 1.765200e+005kW 

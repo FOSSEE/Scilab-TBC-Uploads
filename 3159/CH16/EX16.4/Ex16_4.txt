@@ -1,0 +1,3 @@
+ 
+ Example 16.4
+ Power loss due to hysteresis is 300 W 

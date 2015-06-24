@@ -1,0 +1,13 @@
+  
+ output of the motor(in watts)=   
+ 
+    23001.8  
+ 
+ the shunt motor H.P.=   
+ 
+    31.273691  
+ 
+ efficiency of the full load shunt motor when input current is 52 Amp(in %)=   
+ 
+    88.468462  
+ 

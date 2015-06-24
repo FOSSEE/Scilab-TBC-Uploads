@@ -1,0 +1,35 @@
+  (a) magnitude of phase voltage (in Volts)=   
+ 
+    82.174516  
+ 
+ phase angle of voltage (in Degree)=   
+ 
+  - 5.9327036  
+ 
+ (b) magnitude of armature current of generator 1 (in Amperes)=   
+ 
+    9.3560414  
+ 
+ phase angle of armature current of generator 1 (in Degree)=   
+ 
+  - 51.170595  
+ 
+ magnitude of armature current of generator 2 (in Amperes)=   
+ 
+    7.306458  
+ 
+ phase angle of armature current of generator 2 (in Degree)=   
+ 
+  - 32.062512  
+ 
+  (c) Power developed of generator 1 (in Watts)=   
+ 
+    1624.1452  
+ 
+  Power developed of generator 2 (in Watts)=   
+ 
+    1617.1273  
+ 
+ (d) total power output (in Watts)=   
+ 
+    3241.2725  

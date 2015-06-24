@@ -1,0 +1,22 @@
+clear;
+clc;
+disp("Air conditioning system of a storage warehouse will be turned on if and only if it satisfies these conditions");
+disp("let W denotes weight of 100 tons or more");
+disp("H denotes relative humidity of atleast 60 percent");
+disp("T denotes temparature above 60 degrees");
+disp("P denotes barometric pressure of 30 or more");
+disp("*-first condition-*");
+disp("W<100 tons => W^ ,H>=60 => H , T>60 ");
+disp("A1=W^HT");
+disp("*-second condition-*");
+disp("W>100 tons => W , T>60 => T");
+disp("A2=WT");
+disp("*-third condition-*");
+disp("W<100 tons => W^ ,P>30 => P");
+disp("A3=W^P");
+disp("since Air condtioning system should be activated if any one of the above is satisfied so ");
+disp("A=A1+A2+A3");
+disp("A=W^HT+WT+W^P");
+disp("A=T(W^H+W)+W^P");
+disp("A=T(W+H)+W^P");
+disp("Thus a combinational system with above expression makes the air conditioning system on when required")

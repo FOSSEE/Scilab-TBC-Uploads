@@ -1,0 +1,17 @@
+
+ OUTPUT Ex6.1.a
+==========================================================
+ The Power consumption per unit volume at 300rpm = 1.64 HP/1000 gal
+ The Power consumption scaling up sixfold in diameter = 59 HP/1000 gal
+
+
+ OUTPUT Ex6.1.b
+==========================================================
+ The speed of the stirrer  = 2.76 sec-1 or 166 rpm
+ Blending time increases by factor of 1.81 
+
+
+ OUTPUT Ex6.1.c
+==========================================================
+ The new stirrer speed = 1.41 sec-1 or 84 rpm
+ The new blending time  for Da/Dt ratio of 0.5 = 11.4 sec

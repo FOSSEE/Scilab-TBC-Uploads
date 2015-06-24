@@ -1,0 +1,29 @@
+Resistance of each conductor = 8.00 ohm 
+
+Reactance of each conductor = 10.00 ohm 
+
+Equivalent resistance of transformer referred to primary = 16.25 ohm 
+
+Equivalent reactance of transformer referred to primary = 29.45 ohm 
+
+Total resistance of line and transformer = 24.25 ohm 
+
+Total Reactance of line and transformer = 39.45 ohm 
+
+Recieving end voltage per phase = 19053 V 
+
+Load current = 34.99 A 
+
+Sending end voltage = 35.61 kV 
+
+Sending end power factor = 0.78 
+
+Line losses = 89.073 kW 
+
+Output power = 1600 kW 
+
+Input power = 1689.1 kW 
+
+Transmission efficiency = 94.73 % 
+
+

@@ -1,0 +1,4 @@
+* Inductance is = 0.0099 H 
+* Figure of merit of the coil is = 33.5 
+* Parallel resistance of the tank circuit is = 33688.2 ohm
+* Feedback resistance is = 1030.6 ohm 

@@ -1,0 +1,5 @@
+**Sample Problem 5-2**
+The third Force vector F3 in N is 
+    12.51698  - 10.403733  
+The magnitude F3 is 16.276131 m/s
+The angle made by F3 with the x axis in degrees -39.732330 

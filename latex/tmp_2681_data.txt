@@ -1,0 +1,99 @@
+8#MICROWAVE ANTENNAS#8.9#beamwidth directivity and capture area#Ex8_9.sce#2681/CH8/EX8.9/Ex8_9.sce#S##107103
+8#MICROWAVE ANTENNAS#8.8#mouth diameter and the beamwidth of antenna#Ex8_8.sce#2681/CH8/EX8.8/Ex8_8.sce#S##107104
+8#MICROWAVE ANTENNAS#8.7#minimum distance between two antennas#Ex8_7.sce#2681/CH8/EX8.7/Ex8_7.sce#S##107105
+8#MICROWAVE ANTENNAS#8.6#beamwidth directivity and capture area#Ex8_6.sce#2681/CH8/EX8.6/Ex8_6.sce#S##107106
+8#MICROWAVE ANTENNAS#8.5#half power beam width the gain power#Ex8_5.sce#2681/CH8/EX8.5/Ex8_5.sce#S##107107
+8#MICROWAVE ANTENNAS#8.4#gain of paraboloid#Ex8_4.sce#2681/CH8/EX8.4/Ex8_4.sce#S##107108
+8#MICROWAVE ANTENNAS#8.3#half power radiation pattern and beamwidth between first null#Ex8_3.sce#2681/CH8/EX8.3/Ex8_3.sce#S##107109
+8#MICROWAVE ANTENNAS#8.25#effective area of hertzian dipole#Ex8_25.sce#2681/CH8/EX8.25/Ex8_25.sce#S##107121
+8#MICROWAVE ANTENNAS#8.24#effective area of a half wave dipole#Ex8_24.sce#2681/CH8/EX8.24/Ex8_24.sce#S##107122
+8#MICROWAVE ANTENNAS#8.23#radiated power of an  antenna#Ex8_23.sce#2681/CH8/EX8.23/Ex8_23.sce#S##107123
+8#MICROWAVE ANTENNAS#8.22#directivity of half wave dipole#Ex8_22.sce#2681/CH8/EX8.22/Ex8_22.sce#S##107124
+8#MICROWAVE ANTENNAS#8.21#radiation resistance of hertzian dipole#Ex8_21.sce#2681/CH8/EX8.21/Ex8_21.sce#S##107125
+8#MICROWAVE ANTENNAS#8.20#complementary slot impedence#Ex8_20.sce#2681/CH8/EX8.20/Ex8_20.sce#S##107112
+8#MICROWAVE ANTENNAS#8.2#gain of paraboloid#Ex8_2.sce#2681/CH8/EX8.2/Ex8_2.sce#S##107110
+8#MICROWAVE ANTENNAS#8.19#power gain and directivity of a horn#Ex8_19.sce#2681/CH8/EX8.19/Ex8_19.sce#S##107113
+8#MICROWAVE ANTENNAS#8.18#power gain of square horn antenna#Ex8_18.sce#2681/CH8/EX8.18/Ex8_18.sce#S##107114
+8#MICROWAVE ANTENNAS#8.17#beamwidth power gain and directivity#Ex8_17.sce#2681/CH8/EX8.17/Ex8_17.sce#S##107115
+8#MICROWAVE ANTENNAS#8.16#HPBW NNBW directivity#Ex8_16.sce#2681/CH8/EX8.16/Ex8_16.sce#S##107116
+8#MICROWAVE ANTENNAS#8.15#power gain of paraboloid reflector#Ex8_15.sce#2681/CH8/EX8.15/Ex8_15.sce#S##107117
+8#MICROWAVE ANTENNAS#8.14#null to null beamwidth and the gain power#Ex8_14.sce#2681/CH8/EX8.14/Ex8_14.sce#S##107118
+8#MICROWAVE ANTENNAS#8.13#mouth diameter and power gain#Ex8_13.sce#2681/CH8/EX8.13/Ex8_13.sce#S##107119
+8#MICROWAVE ANTENNAS#8.12#mouth diameter and capture area#Ex8_12.sce#2681/CH8/EX8.12/Ex8_12.sce#S##107120
+8#MICROWAVE ANTENNAS#8.11#half power radiation pattern and beamwidth between first null#Ex8_11.sce#2681/CH8/EX8.11/Ex8_11.sce#S##107101
+8#MICROWAVE ANTENNAS#8.10#half power radiation pattern and beamwidth between first null#Ex8_10.sce#2681/CH8/EX8.10/Ex8_10.sce#S##107102
+8#MICROWAVE ANTENNAS#8.1#half power beam width#Ex8_1.sce#2681/CH8/EX8.1/Ex8_1.sce#S##107111
+7#MICROWAVE INTEGRATED CIRCUITS#7.9#resistance per square#Ex7_9.sce#2681/CH7/EX7.9/Ex7_9.sce#S##107088
+7#MICROWAVE INTEGRATED CIRCUITS#7.8#resistance of a planer resistor#Ex7_8.sce#2681/CH7/EX7.8/Ex7_8.sce#S##107089
+7#MICROWAVE INTEGRATED CIRCUITS#7.7#inductance #Ex7_7.sce#2681/CH7/EX7.7/Ex7_7.sce#S##107090
+7#MICROWAVE INTEGRATED CIRCUITS#7.6#inductance#Ex7_6.sce#2681/CH7/EX7.6/Ex7_6.sce#S##107091
+7#MICROWAVE INTEGRATED CIRCUITS#7.5#resistance #Ex7_5.sce#2681/CH7/EX7.5/Ex7_5.sce#S##107092
+7#MICROWAVE INTEGRATED CIRCUITS#7.4#resistance #Ex7_4.sce#2681/CH7/EX7.4/Ex7_4.sce#S##107093
+7#MICROWAVE INTEGRATED CIRCUITS#7.3#resistance #Ex7_3.sce#2681/CH7/EX7.3/Ex7_3.sce#S##107094
+7#MICROWAVE INTEGRATED CIRCUITS#7.2#inductance  for  given dimensions#Ex7_2.sce#2681/CH7/EX7.2/Ex7_2.sce#S##107095
+7#MICROWAVE INTEGRATED CIRCUITS#7.14#inductance of circular spiral#Ex7_14.sce#2681/CH7/EX7.14/Ex7_14.sce#S##107097
+7#MICROWAVE INTEGRATED CIRCUITS#7.13#resistance per square#Ex7_13.sce#2681/CH7/EX7.13/Ex7_13.sce#S##107098
+7#MICROWAVE INTEGRATED CIRCUITS#7.12#resistance per square#Ex7_12.sce#2681/CH7/EX7.12/Ex7_12.sce#S##107099
+7#MICROWAVE INTEGRATED CIRCUITS#7.11#resistance per square#Ex7_11.sce#2681/CH7/EX7.11/Ex7_11.sce#S##107100
+7#MICROWAVE INTEGRATED CIRCUITS#7.10#resistance per square#Ex7_10.sce#2681/CH7/EX7.10/Ex7_10.sce#S##107087
+7#MICROWAVE INTEGRATED CIRCUITS#7.1#resistance of a planar resistor#Ex7_1.sce#2681/CH7/EX7.1/Ex7_1.sce#S##107096
+6#MICROWAVE TRANSMISSION LINE #6.9#percenage of reflected voltage#Ex6_9.sce#2681/CH6/EX6.9/Ex6_9.sce#S##107072
+6#MICROWAVE TRANSMISSION LINE #6.8#reflected voltage#Ex6_8.sce#2681/CH6/EX6.8/Ex6_8.sce#S##107071
+6#MICROWAVE TRANSMISSION LINE #6.7#characteristic impedance#Ex6_7.sce#2681/CH6/EX6.7/Ex6_7.sce#S##107068
+6#MICROWAVE TRANSMISSION LINE #6.6#time required for wave to travell#Ex6_6.sce#2681/CH6/EX6.6/Ex6_6.sce#S##107069
+6#MICROWAVE TRANSMISSION LINE #6.5#input impedance of a lossless transmission#Ex6_5.sce#2681/CH6/EX6.5/Ex6_5.sce#S##107066
+6#MICROWAVE TRANSMISSION LINE #6.4#input of lossless transmission line#Ex6_4.sce#2681/CH6/EX6.4/Ex6_4.sce#S##107067
+6#MICROWAVE TRANSMISSION LINE #6.3#input impedance#Ex6_3.sce#2681/CH6/EX6.3/Ex6_3.sce#S##107070
+6#MICROWAVE TRANSMISSION LINE #6.23#resonant frequency of TE101 and its quality factor#Ex6_23.sce#2681/CH6/EX6.23/Ex6_23.sce#S##107082
+6#MICROWAVE TRANSMISSION LINE #6.22#resonant frequency and quality cycle#Ex6_22.sce#2681/CH6/EX6.22/Ex6_22.sce#S##107083
+6#MICROWAVE TRANSMISSION LINE #6.21#resonant frequency#Ex6_21.sce#2681/CH6/EX6.21/Ex6_21.sce#S##107084
+6#MICROWAVE TRANSMISSION LINE #6.20#radius of the outer conductor#Ex6_20.sce#2681/CH6/EX6.20/Ex6_20.sce#S##107085
+6#MICROWAVE TRANSMISSION LINE #6.2#characteristic impedence#Ex6_2.sce#2681/CH6/EX6.2/Ex6_2.sce#S##107064
+6#MICROWAVE TRANSMISSION LINE #6.19#time delay propogaion velocity propagation delay#Ex6_19.sce#2681/CH6/EX6.19/Ex6_19.sce#S##107086
+6#MICROWAVE TRANSMISSION LINE #6.18#characteristc impedance of the line for air dielectric#Ex6_18.sce#2681/CH6/EX6.18/Ex6_18.sce#S##107075
+6#MICROWAVE TRANSMISSION LINE #6.17#input impedance of the shorted line#Ex6_17.sce#2681/CH6/EX6.17/Ex6_17.sce#S##107076
+6#MICROWAVE TRANSMISSION LINE #6.16#reflection coefficent#Ex6_16.sce#2681/CH6/EX6.16/Ex6_16.sce#S##107077
+6#MICROWAVE TRANSMISSION LINE #6.15#characteristic impedance#Ex6_15.sce#2681/CH6/EX6.15/Ex6_15.sce#S##107078
+6#MICROWAVE TRANSMISSION LINE #6.14#length and characteristic impedance of transformer#Ex6_14.sce#2681/CH6/EX6.14/Ex6_14.sce#S##107079
+6#MICROWAVE TRANSMISSION LINE #6.13#input impedance#Ex6_13.sce#2681/CH6/EX6.13/Ex6_13.sce#S##107080
+6#MICROWAVE TRANSMISSION LINE #6.12#voltage standing wave ratio#Ex6_12.sce#2681/CH6/EX6.12/Ex6_12.sce#S##107126
+6#MICROWAVE TRANSMISSION LINE #6.11#maximum impedance of the line#Ex6_11.sce#2681/CH6/EX6.11/Ex6_11.sce#S##107081
+6#MICROWAVE TRANSMISSION LINE #6.10#voltage standing wave ratio#Ex6_10.sce#2681/CH6/EX6.10/Ex6_10.sce#S##107073
+6#MICROWAVE TRANSMISSION LINE #6.1#determine Z0 for given transmission line#Ex6_1.sce#2681/CH6/EX6.1/Ex6_1.sce#S##107065
+5#MICROWAVE PASSIVE COMPONENTS #5.9#VSWR FOR LOAD impedence#Ex5_9.sce#2681/CH5/EX5.9/Ex5_9.sce#S##107061
+5#MICROWAVE PASSIVE COMPONENTS #5.8#voltage standing wave ratio#Ex5_8.sce#2681/CH5/EX5.8/Ex5_8.sce#S##107060
+5#MICROWAVE PASSIVE COMPONENTS #5.7#percentage of reflected power#Ex5_7.sce#2681/CH5/EX5.7/Ex5_7.sce#S##107059
+5#MICROWAVE PASSIVE COMPONENTS #5.6#output power of cable#Ex5_6.sce#2681/CH5/EX5.6/Ex5_6.sce#S##107058
+5#MICROWAVE PASSIVE COMPONENTS #5.5#Zo of the coaxial cable#Ex5_5.sce#2681/CH5/EX5.5/Ex5_5.sce#S##107055
+5#MICROWAVE PASSIVE COMPONENTS #5.4#frequency of air dielectric and highest frequency#Ex5_4.sce#2681/CH5/EX5.4/Ex5_4.sce#S##107056
+5#MICROWAVE PASSIVE COMPONENTS #5.3#wavelength in coaxial line#Ex5_3.sce#2681/CH5/EX5.3/Ex5_3.sce#S##107057
+5#MICROWAVE PASSIVE COMPONENTS #5.2#Zo of a transmission line#Ex5_2.sce#2681/CH5/EX5.2/Ex5_2.sce#S##107054
+5#MICROWAVE PASSIVE COMPONENTS #5.11#magnitude of the reflection coefficent#Ex5_11.sce#2681/CH5/EX5.11/Ex5_11.sce#S##107063
+5#MICROWAVE PASSIVE COMPONENTS #5.10#voltage standing wave ratio#Ex5_10.sce#2681/CH5/EX5.10/Ex5_10.sce#S##107062
+5#MICROWAVE PASSIVE COMPONENTS #5.1#Zo of a two wire transmission  line#Ex5_1.sce#2681/CH5/EX5.1/Ex5_1.sce#S##107053
+4#SCATTERING MATRIX PARAMETERS#4.5#wave guide length#Ex4_5.sce#2681/CH4/EX4.5/Ex4_5.sce#S##107050
+4#SCATTERING MATRIX PARAMETERS#4.4#scattering matrix of inductor#Ex4_4.sce#2681/CH4/EX4.4/Ex4_4.sce#S##107051
+4#SCATTERING MATRIX PARAMETERS#4.3#voltage standing wave ratio#Ex4_3.sce#2681/CH4/EX4.3/Ex4_3.sce#S##107052
+3#MICROWAVE SEMICONDUCTOR DEVICES#3.5#minimum voltage to operate#Ex3_5.sce#2681/CH3/EX3.5/Ex3_5.sce#S##107044
+3#MICROWAVE SEMICONDUCTOR DEVICES#3.4#frequency of gunn diode oscillator#Ex3_4.sce#2681/CH3/EX3.4/Ex3_4.sce#S##107046
+3#MICROWAVE SEMICONDUCTOR DEVICES#3.3#avalanche zone velocity of TRAPATT diode#Ex3_3.sce#2681/CH3/EX3.3/Ex3_3.sce#S##107047
+3#MICROWAVE SEMICONDUCTOR DEVICES#3.2#frequency of IMPATT diode#Ex3_2.sce#2681/CH3/EX3.2/Ex3_2.sce#S##107048
+3#MICROWAVE SEMICONDUCTOR DEVICES#3.1#frequency of IMPATT diode#Ex3_1.sce#2681/CH3/EX3.1/Ex3_1.sce#S##107049
+2#MICROWAVE TUBES FOR MICROWAVE SIGNAL GENERATION#2.5#efficency of kylstron#Ex2_5.sce#2681/CH2/EX2.5/Ex2_5.sce#S##107045
+2#MICROWAVE TUBES FOR MICROWAVE SIGNAL GENERATION#2.4#electron velocity transit angle and beam coupling coefficent#Ex2_4.sce#2681/CH2/EX2.4/Ex2_4.sce#S##107042
+2#MICROWAVE TUBES FOR MICROWAVE SIGNAL GENERATION#2.3#angular frequency and the cutoff voltage#Ex2_3.sce#2681/CH2/EX2.3/Ex2_3.sce#S##107043
+2#MICROWAVE TUBES FOR MICROWAVE SIGNAL GENERATION#2.2#gain parameter output power and Be#Ex2_2.sce#2681/CH2/EX2.2/Ex2_2.sce#S##107041
+2#MICROWAVE TUBES FOR MICROWAVE SIGNAL GENERATION#2.1#maximum power  for given beam current#Ex2_1.sce#2681/CH2/EX2.1/Ex2_1.sce#S##107040
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.7#magnetic field at distance of 2m in free space#Ex1_7.sce#2681/CH1/EX1.7/Ex1_7.sce#S##107031
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.6# electric field at location of 3 coulombs#Ex1_6.sce#2681/CH1/EX1.6/Ex1_6.sce#S##107030
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.5#electric field at Q1#Ex1_5.sce#2681/CH1/EX1.5/Ex1_5.sce#S##107034
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.4#charge Q at the point  2 0  0#Ex1_4.sce#2681/CH1/EX1.4/Ex1_4.sce#S##107033
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.3#TOTAL FIELD AT A POINT P DUE TO ALL THE THREE CHARGES#Ex1_3.sce#2681/CH1/EX1.3/Ex1_3.sce#S##107029
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.2#electric field at a point#Ex1_2.sce#2681/CH1/EX1.2/Ex1_2.sce#S##107028
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.15#phase shift of the wave#Ex1_15.sce#2681/CH1/EX1.15/Ex1_15.sce#S##107039
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.14#wavelength of microwave frequency#Ex1_14.sce#2681/CH1/EX1.14/Ex1_14.sce#S##107037
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.13#velocity of propogation of microwave#Ex1_13.sce#2681/CH1/EX1.13/Ex1_13.sce#S##107036
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.12#frequency of the wave#Ex1_12.sce#2681/CH1/EX1.12/Ex1_12.sce#S##107035
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.11#pointing vector and direction of power flow of microwave#Ex1_11.sce#2681/CH1/EX1.11/Ex1_11.sce#S##107032
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.10#direction of power flow of microwave#Ex1_10.sce#2681/CH1/EX1.10/Ex1_10.sce#S##107038
+1#INTRODUCTION TO MICROWAVE AND THEIR APPLICATIONS#1.1#electric field its magnitude and direction#Ex1_1.sce#2681/CH1/EX1.1/Ex1_1.sce#S##107027

@@ -1,0 +1,5 @@
+**Sample Problem 12-2a**
+The speed of the disk at the bottom is 4.098780m/s
+
+**Sample Problem 12-2b**
+The frictinal force on the disk is equal to 8.400000N 

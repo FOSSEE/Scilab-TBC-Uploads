@@ -1,0 +1,8 @@
+3#Solar  Radiation#9#Monthly Avg Hourly Radiation#39.sce#58/CH3/EX9/39.sce#S##115
+3#Solar  Radiation#7#Monthly Avg Hourly Global and Diffuse#37.sce#58/CH3/EX7/37.sce#S##114
+3#Solar  Radiation#6#Monthly Avg Daily Diffuse Radiation#36.sce#58/CH3/EX6/36.sce#S##113
+3#Solar  Radiation#5#Gopinathan's correlation#35.sce#58/CH3/EX5/35.sce#S##112
+3#Solar  Radiation#4#Monthly Average Global Daily Radiation#34.sce#58/CH3/EX4/34.sce#S##111
+3#Solar  Radiation#3#Local Apparent Time #33.sce#58/CH3/EX3/33.sce#S##120
+3#Solar  Radiation#2#Hour Angle#32.sce#58/CH3/EX2/32.sce#S##109
+3#Solar  Radiation#1#Beam Radiation Angle#31.sce#58/CH3/EX1/31.sce#S##108

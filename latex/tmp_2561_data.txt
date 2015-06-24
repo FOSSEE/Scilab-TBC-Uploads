@@ -1,0 +1,120 @@
+14#Digital Analog Systems#14.7#Find highest analog  input frequency for 12 bit ADC#Ex14_7.sce#2561/CH14/EX14.7/Ex14_7.sce#S##100989
+14#Digital Analog Systems#14.5#Quantization error and percentage resolution for 12 bit DAC#Ex14_5.sce#2561/CH14/EX14.5/Ex14_5.sce#S##100988
+14#Digital Analog Systems#14.4#Output for resistor ladder DAC#Ex14_4.sce#2561/CH14/EX14.4/Ex14_4.sce#S##100987
+14#Digital Analog Systems#14.3#Find output voltage for weighted resistor DAC#Ex14_3.sce#2561/CH14/EX14.3/Ex14_3.sce#S##100986
+14#Digital Analog Systems#14.2#Find parameters for 3 bit ADC#Ex14_2.sce#2561/CH14/EX14.2/Ex14_2.sce#S##100985
+14#Digital Analog Systems#14.1#Find quantization error and resolution#Ex14_1.sce#2561/CH14/EX14.1/Ex14_1.sce#S##100984
+13#Non Linear Analog Systems#13.3#output for antilog amplifier#Ex13_3.sce#2561/CH13/EX13.3/Ex13_3.sce#S##100983
+13#Non Linear Analog Systems#13.2#output voltage for log amplifier#Ex13_2.sce#2561/CH13/EX13.2/Ex13_2.sce#S##100982
+13#Non Linear Analog Systems#13.1#output voltage for log amplifier#Ex13_1.sce#2561/CH13/EX13.1/Ex13_1.sce#S##100981
+12#Waveshaping and Waveform Generation#12.5#Find parameters for feedback op amp  soft limiter circuit#Ex12_5.sce#2561/CH12/EX12.5/Ex12_5.sce#S##100980
+12#Waveshaping and Waveform Generation#12.4#Find sweep rate and amplitude Vsw for sweep generator#Ex12_4.sce#2561/CH12/EX12.4/Ex12_4.sce#S##100979
+12#Waveshaping and Waveform Generation#12.3#Find capacitor C2 for triangular wave generator#Ex12_3.sce#2561/CH12/EX12.3/Ex12_3.sce#S##100978
+12#Waveshaping and Waveform Generation#12.2#Calculate component values for astable multivibrator#Ex12_2.sce#2561/CH12/EX12.2/Ex12_2.sce#S##100977
+12#Waveshaping and Waveform Generation#12.1#Find parameters for op amp based schmitt trigger#Ex12_1.sce#2561/CH12/EX12.1/Ex12_1.sce#S##100976
+11#Sequential Logic Systems#11.6#Find display count for decade counter#Ex11_6.sce#2561/CH11/EX11.6/Ex11_6.sce#S##100975
+11#Sequential Logic Systems#11.4#Find maximum counting rate for 3 bit ripple count#Ex11_4.sce#2561/CH11/EX11.4/Ex11_4.sce#S##100974
+11#Sequential Logic Systems#11.1#Find maximum operating clock frequency for flip flop#Ex11_1.sce#2561/CH11/EX11.1/Ex11_1.sce#S##100973
+10#Combinational Logic Systems#10.9#Convert hexadecimal to binary#Ex10_9.sce#2561/CH10/EX10.9/Ex10_9.sce#S##100970
+10#Combinational Logic Systems#10.8#Convert hexadecimal to decimal#Ex10_8.sce#2561/CH10/EX10.8/Ex10_8.sce#S##100969
+10#Combinational Logic Systems#10.7#Convert decimal to hexadecimal#Ex10_7.sce#2561/CH10/EX10.7/Ex10_7.sce#S##100968
+10#Combinational Logic Systems#10.6#Convert octal to decimal#Ex10_6.sce#2561/CH10/EX10.6/Ex10_6.sce#S##100966
+10#Combinational Logic Systems#10.5#Convert octal to binary#Ex10_5.sce#2561/CH10/EX10.5/Ex10_5.sce#S##100967
+10#Combinational Logic Systems#10.4#Convert decimal to octal #Ex10_4.sce#2561/CH10/EX10.4/Ex10_4.sce#S##100965
+10#Combinational Logic Systems#10.3#Convert binary to octal#Ex10_3.sce#2561/CH10/EX10.3/Ex10_3.sce#S##100964
+10#Combinational Logic Systems#10.2#Convert binary to decimal#Ex10_2.sce#2561/CH10/EX10.2/Ex10_2.sce#S##100963
+10#Combinational Logic Systems#10.11#Convert  decimal to BCD#Ex10_11.sce#2561/CH10/EX10.11/Ex10_11.sce#S##100972
+10#Combinational Logic Systems#10.10#convert binary to hexadecimal#Ex10_10.sce#2561/CH10/EX10.10/Ex10_10.sce#S##100971
+10#Combinational Logic Systems#10.1#Convert decimal to binary#Ex10_1.sce#2561/CH10/EX10.1/Ex10_1.sce#S##100962
+9#Digital Circuits and Logic Families#9.9#Find low and high level noise immunities#Ex9_9.sce#2561/CH9/EX9.9/Ex9_9.sce#S##100959
+9#Digital Circuits and Logic Families#9.8#Find low and high level noise immunities#Ex9_8.sce#2561/CH9/EX9.8/Ex9_8.sce#S##100958
+9#Digital Circuits and Logic Families#9.7#Find fan out of TTL#Ex9_7.sce#2561/CH9/EX9.7/Ex9_7.sce#S##100957
+9#Digital Circuits and Logic Families#9.6#Find low and high level noise immunities#Ex9_6.sce#2561/CH9/EX9.6/Ex9_6.sce#S##100956
+9#Digital Circuits and Logic Families#9.3#Calculate output voltage Vx for diode AND logic gate#Ex9_3.sce#2561/CH9/EX9.3/Ex9_3.sce#S##100955
+9#Digital Circuits and Logic Families#9.2#calculate output voltage Vx for OR logic gate#Ex9_2.sce#2561/CH9/EX9.2/Ex9_2.sce#S##100954
+9#Digital Circuits and Logic Families#9.11#find low and high  level noise immunities#Ex9_11.sce#2561/CH9/EX9.11/Ex9_11.sce#S##100961
+9#Digital Circuits and Logic Families#9.10#Show ECL gate works properly as OR and NOR  logic gates BJT do not go in saturation #Ex9_10.sce#2561/CH9/EX9.10/Ex9_10.sce#S##100960
+9#Digital Circuits and Logic Families#9.1#Find minimum gain for proper operation of NOT gate#Ex9_1.sce#2561/CH9/EX9.1/Ex9_1.sce#S##100953
+8#Linear Op Amp Applications#8.9#Design 2nd order LP Butterworth filter#Ex8_9.sce#2561/CH8/EX8.9/Ex8_9.sce#S##100946
+8#Linear Op Amp Applications#8.8#Find worst case change in output voltage Vo#Ex8_8.sce#2561/CH8/EX8.8/Ex8_8.sce#S##100945
+8#Linear Op Amp Applications#8.7#Find resistances R1 and input feedback resistance Rif for full scale moving coil meter#Ex8_7.sce#2561/CH8/EX8.7/Ex8_7.sce#S##100944
+8#Linear Op Amp Applications#8.6#Find resistances R1 and RF for non inverting op amp#Ex8_6.sce#2561/CH8/EX8.6/Ex8_6.sce#S##100943
+8#Linear Op Amp Applications#8.5#Find effective resistance and sensitivity and feedback resistance RF of DC ammeter#Ex8_5.sce#2561/CH8/EX8.5/Ex8_5.sce#S##100942
+8#Linear Op Amp Applications#8.4#Find scale factor of photometer#Ex8_4.sce#2561/CH8/EX8.4/Ex8_4.sce#S##100941
+8#Linear Op Amp Applications#8.3#Find resistances R11 and R12 and R13 for op amp adder and output voltage#Ex8_3.sce#2561/CH8/EX8.3/Ex8_3.sce#S##100940
+8#Linear Op Amp Applications#8.2#Design an inverting op amp#Ex8_2.sce#2561/CH8/EX8.2/Ex8_2.sce#S##100939
+8#Linear Op Amp Applications#8.15#calculate full power bandwidth#Ex8_15.sce#2561/CH8/EX8.15/Ex8_15.sce#S##100952
+8#Linear Op Amp Applications#8.14#Find power supply voltage regulation#Ex8_14.sce#2561/CH8/EX8.14/Ex8_14.sce#S##100951
+8#Linear Op Amp Applications#8.13#find resistance R2 to minimize offset and output offset voltage at 25 and 75 degree celsius#Ex8_13.sce#2561/CH8/EX8.13/Ex8_13.sce#S##100950
+8#Linear Op Amp Applications#8.12#Find output offset voltage with and without comensation#Ex8_12.sce#2561/CH8/EX8.12/Ex8_12.sce#S##100949
+8#Linear Op Amp Applications#8.11#Determine filter response for state variable filter#Ex8_11.sce#2561/CH8/EX8.11/Ex8_11.sce#S##100948
+8#Linear Op Amp Applications#8.10#Design 2nd order single op amp band pass filter#Ex8_10.sce#2561/CH8/EX8.10/Ex8_10.sce#S##100947
+8#Linear Op Amp Applications#8.1#calculate feedback factor and variation in feedback gain Af#Ex8_1.sce#2561/CH8/EX8.1/Ex8_1.sce#S##100938
+7#Feedback Amplifiers and Sinusoidal oscillators#7.9#find feedback resistances RF and R1 and resulting output  resistance and voltage gain and power gain with feedback#Ex7_9.sce#2561/CH7/EX7.9/Ex7_9.sce#S##100936
+7#Feedback Amplifiers and Sinusoidal oscillators#7.8#find output voltage and error for gain and value of gain to reduce output error#Ex7_8.sce#2561/CH7/EX7.8/Ex7_8.sce#S##100935
+7#Feedback Amplifiers and Sinusoidal oscillators#7.7#Find maximum allowed input voltage without causing  output clipping#Ex7_7.sce#2561/CH7/EX7.7/Ex7_7.sce#S##100934
+7#Feedback Amplifiers and Sinusoidal oscillators#7.6#calculate phase margin for different feedback gains#Ex7_6.sce#2561/CH7/EX7.6/Ex7_6.sce#S##100933
+7#Feedback Amplifiers and Sinusoidal oscillators#7.5#find midband gain and  higher cut off frequency fHf and lower cut off frequency fLf#Ex7_5.sce#2561/CH7/EX7.5/Ex7_5.sce#S##100932
+7#Feedback Amplifiers and Sinusoidal oscillators#7.4#find signal bandwidth and frequency below which midband gain will not deviate #Ex7_4.sce#2561/CH7/EX7.4/Ex7_4.sce#S##100931
+7#Feedback Amplifiers and Sinusoidal oscillators#7.3#calculate amount of feedback and gain Af and new input voltage#Ex7_3.sce#2561/CH7/EX7.3/Ex7_3.sce#S##100930
+7#Feedback Amplifiers and Sinusoidal oscillators#7.2#Find gain with feedback#Ex7_2.sce#2561/CH7/EX7.2/Ex7_2.sce#S##100929
+7#Feedback Amplifiers and Sinusoidal oscillators#7.10#Find different parameters for Pierce oscillator#Ex7_10.sce#2561/CH7/EX7.10/Ex7_10.sce#S##100937
+7#Feedback Amplifiers and Sinusoidal oscillators#7.1#Calculate amount of negative feedback and feedback factor#Ex7_1.sce#2561/CH7/EX7.1/Ex7_1.sce#S##100928
+6#Multitransistor Multistage Amplifiers#6.6#Find maximum difference voltage Vdmax for op amp without feedback#Ex6_6.sce#2561/CH6/EX6.6/Ex6_6.sce#S##100927
+6#Multitransistor Multistage Amplifiers#6.5#calculate output power Po and DC power PDC and efficiency at different conditions #Ex6_5.sce#2561/CH6/EX6.5/Ex6_5.sce#S##100926
+6#Multitransistor Multistage Amplifiers#6.4#Find load resistance and collector to emitter voltage and output power and  DC power and dissipated power #Ex6_4.sce#2561/CH6/EX6.4/Ex6_4.sce#S##100925
+6#Multitransistor Multistage Amplifiers#6.3#Find common mode and differential gain and CMRR and input resistances and output voltage and error #Ex6_3.sce#2561/CH6/EX6.3/Ex6_3.sce#S##100924
+6#Multitransistor Multistage Amplifiers#6.2#Find voltage gain Av and current gain Ai and power gain Ap for amplifier#Ex6_2.sce#2561/CH6/EX6.2/Ex6_2.sce#S##100923
+6#Multitransistor Multistage Amplifiers#6.1#Express voltage gains in decibels#Ex6_1.sce#2561/CH6/EX6.1/Ex6_1.sce#S##100922
+5#Basic Transistor Amplifiers#5.8#Find load resistance RL and coupling capacitor#Ex5_8.sce#2561/CH5/EX5.8/Ex5_8.sce#S##100921
+5#Basic Transistor Amplifiers#5.7#Compare perrformance  of  CE and CC and CB configuration of BJT#Ex5_7.sce#2561/CH5/EX5.7/Ex5_7.sce#S##100920
+5#Basic Transistor Amplifiers#5.6#Find percentage second harmonic distortion in  small signal CS JFET amplifier#Ex5_6.sce#2561/CH5/EX5.6/Ex5_6.sce#S##100919
+5#Basic Transistor Amplifiers#5.5#Find high cut off frequency and bandwidth and unity gain bandwidth#Ex5_5.sce#2561/CH5/EX5.5/Ex5_5.sce#S##100918
+5#Basic Transistor Amplifiers#5.4#Find overall voltage gain Avs and  input resistance Ri and   output resistance Ro  for CB and CG amplifier#Ex5_4.sce#2561/CH5/EX5.4/Ex5_4.sce#S##103486
+5#Basic Transistor Amplifiers#5.3#Find  input resistance  and voltage gain and current gain and output resistance for CE amplifier#Ex5_3.sce#2561/CH5/EX5.3/Ex5_3.sce#S##100916
+5#Basic Transistor Amplifiers#5.2#Find voltage gain and overall voltage gain and current gain and  input resistance and output resistance for CC amplifier#Ex5_2.sce#2561/CH5/EX5.2/Ex5_2.sce#S##100915
+5#Basic Transistor Amplifiers#5.1#Find voltage gain and input resistance and output resistance and current gain for CE and CS amplifiers #Ex5_1.sce#2561/CH5/EX5.1/Ex5_1.sce#S##100914
+4#Field Effect Transistors#4.9#Find operating values of drain current ID and drain to source voltage VDS and gate to source voltage VGS for FET #Ex4_9.sce#2561/CH4/EX4.9/Ex4_9.sce#S##100900
+4#Field Effect Transistors#4.8#Find operating values of drain current  and drain to source voltage and gate to source voltage#Ex4_8.sce#2561/CH4/EX4.8/Ex4_8.sce#S##100895
+4#Field Effect Transistors#4.7#Find drain current ID and verify operating region is pinch off#Ex4_7.sce#2561/CH4/EX4.7/Ex4_7.sce#S##100892
+4#Field Effect Transistors#4.6#calculate feedback resistance RF for n channel JFET#Ex4_6.sce#2561/CH4/EX4.6/Ex4_6.sce#S##100890
+4#Field Effect Transistors#4.5#Design potential divider biasing for JFET#Ex4_5.sce#2561/CH4/EX4.5/Ex4_5.sce#S##100884
+4#Field Effect Transistors#4.4#calculate transconductance gm for FETs at various device parameters#Ex4_4.sce#2561/CH4/EX4.4/Ex4_4.sce#S##100882
+4#Field Effect Transistors#4.3#Find load resistance RL for EMOSFET#Ex4_3.sce#2561/CH4/EX4.3/Ex4_3.sce#S##100878
+4#Field Effect Transistors#4.2#Find drain to source resistance RDS for JFET#Ex4_2.sce#2561/CH4/EX4.2/Ex4_2.sce#S##100877
+4#Field Effect Transistors#4.15#Determine ON voltage and off  isolation errors for RL and analog  shunt switch#Ex4_15.sce#2561/CH4/EX4.15/Ex4_15.sce#S##100913
+4#Field Effect Transistors#4.14#Find resistance value to obtain constant current source for MOS current mirror#Ex4_14.sce#2561/CH4/EX4.14/Ex4_14.sce#S##100912
+4#Field Effect Transistors#4.13#Verify DEMOSFET act as DC constant current source#Ex4_13.sce#2561/CH4/EX4.13/Ex4_13.sce#S##100911
+4#Field Effect Transistors#4.12#Find ON stage output voltage VDON for EMOSFET#Ex4_12.sce#2561/CH4/EX4.12/Ex4_12.sce#S##103484
+4#Field Effect Transistors#4.11#Calculate load resistance RL and percentage change in drain current ID for JFET#Ex4_11.sce#2561/CH4/EX4.11/Ex4_11.sce#S##100906
+4#Field Effect Transistors#4.10#Find operating values of drain current IDQ and drain to source voltage VDSQ and gate to source voltage VGSQ for EMOSFET  #Ex4_10.sce#2561/CH4/EX4.10/Ex4_10.sce#S##100903
+4#Field Effect Transistors#4.1#Find drain to source voltage VDS  and drain current ID for JFET#Ex4_1.sce#2561/CH4/EX4.1/Ex4_1.sce#S##100876
+3#Bipolar Junction Transistor#3.9#find forced vaue of current gain  for BJT in saturation region#Ex3_9.sce#2561/CH3/EX3.9/Ex3_9.sce#S##100872
+3#Bipolar Junction Transistor#3.8#find value of collector current Ic and check is BJT in active region#Ex3_8.sce#2561/CH3/EX3.8/Ex3_8.sce#S##100871
+3#Bipolar Junction Transistor#3.7#Calculate extreme variation in operating collector current ICQ#Ex3_7.sce#2561/CH3/EX3.7/Ex3_7.sce#S##100870
+3#Bipolar Junction Transistor#3.6#Find operating point of BJT#Ex3_6.sce#2561/CH3/EX3.6/Ex3_6.sce#S##100869
+3#Bipolar Junction Transistor#3.5#Find operating point of BJT#Ex3_5.sce#2561/CH3/EX3.5/Ex3_5.sce#S##100868
+3#Bipolar Junction Transistor#3.4#operating point of BJT#Ex3_4.sce#2561/CH3/EX3.4/Ex3_4.sce#S##100867
+3#Bipolar Junction Transistor#3.3#Find transconductance gm and hybrid parameter hie and unity gain frequency#Ex3_3.sce#2561/CH3/EX3.3/Ex3_3.sce#S##100866
+3#Bipolar Junction Transistor#3.2#find current gain and voltage gain#Ex3_2.sce#2561/CH3/EX3.2/Ex3_2.sce#S##100865
+3#Bipolar Junction Transistor#3.12#Calculate resistance R for BJT current mirror#Ex3_12.sce#2561/CH3/EX3.12/Ex3_12.sce#S##100875
+3#Bipolar Junction Transistor#3.11#Find maximum  allowed power dissipation at 25 and 75 degree celsius#Ex3_11.sce#2561/CH3/EX3.11/Ex3_11.sce#S##100874
+3#Bipolar Junction Transistor#3.10#Find maximum  allowed power dissipation at 25 and 75 degree celsius#Ex3_10.sce#2561/CH3/EX3.10/Ex3_10.sce#S##100873
+3#Bipolar Junction Transistor#3.1#BJT current and voltages#Ex3_1.sce#2561/CH3/EX3.1/Ex3_1.sce#S##89125
+2#The Semiconductor diode#2.9#load voltage and current#Ex2_9.sce#2561/CH2/EX2.9/Ex2_9.sce#S##89123
+2#The Semiconductor diode#2.8#reference voltage and temperature coefficient#Ex2_8.sce#2561/CH2/EX2.8/Ex2_8.sce#S##89121
+2#The Semiconductor diode#2.7#Zener diode parameters#Ex2_7.sce#2561/CH2/EX2.7/Ex2_7.sce#S##89119
+2#The Semiconductor diode#2.6#full wave rectifier parameters#Ex2_6.sce#2561/CH2/EX2.6/Ex2_6.sce#S##89117
+2#The Semiconductor diode#2.5#calculation of resistance#Ex2_5.sce#2561/CH2/EX2.5/Ex2_5.sce#S##89115
+2#The Semiconductor diode#2.4#various parameters for two diode rectifier#Ex2_4.sce#2561/CH2/EX2.4/Ex2_4.sce#S##89113
+2#The Semiconductor diode#2.3#small signal forward  and reverse resistance#Ex2_3.sce#2561/CH2/EX2.3/Ex2_3.sce#S##89111
+2#The Semiconductor diode#2.2#Diode current and diode junction voltage calculation#Ex2_2.sce#2561/CH2/EX2.2/Ex2_2.sce#S##89109
+2#The Semiconductor diode#2.1#calculate diode current#Ex2_1.sce#2561/CH2/EX2.1/Ex2_1.sce#S##89107
+1#Vacuum tubes and semiconductors#1.8#diffusion hole current#Ex1_8.sce#2561/CH1/EX1.8/Ex1_8.sce#S##89141
+1#Vacuum tubes and semiconductors#1.7#N type Silicon parameters#Ex1_7.sce#2561/CH1/EX1.7/Ex1_7.sce#S##89139
+1#Vacuum tubes and semiconductors#1.6#parameters for Silicon atoms#Ex1_6.sce#2561/CH1/EX1.6/Ex1_6.sce#S##89137
+1#Vacuum tubes and semiconductors#1.5#calculation of resistance#Ex1_5.sce#2561/CH1/EX1.5/Ex1_5.sce#S##89135
+1#Vacuum tubes and semiconductors#1.4#calculate drift velocity#Ex1_4.sce#2561/CH1/EX1.4/Ex1_4.sce#S##89133
+1#Vacuum tubes and semiconductors#1.3# Find deflection of electron beam#Ex1_3.sce#2561/CH1/EX1.3/Ex1_3.sce#S##89131
+1#Vacuum tubes and semiconductors#1.2#CRT parameters#Ex1_2.sce#2561/CH1/EX1.2/Ex1_2.sce#S##89129
+1#Vacuum tubes and semiconductors#1.1#small signal parameters#Ex1_1.sce#2561/CH1/EX1.1/Ex1_1.sce#S##89127

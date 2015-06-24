@@ -1,0 +1,1 @@
+﻿ Least thickness of soap film for bright fringe = 1.025290e-07 meter. 

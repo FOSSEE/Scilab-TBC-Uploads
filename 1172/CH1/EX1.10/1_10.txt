@@ -1,0 +1,6 @@
+ # Problem 10 # 
+Standard formula used 
+	 2*mu*t*cos(r) = n*lambda  
+
+ The lowest order n = 2 will be absent in visible region.
+

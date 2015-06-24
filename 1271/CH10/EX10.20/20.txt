@@ -1,0 +1,4 @@
+# PROBLEM 20 # 
+Standard formula used 
+ E = (1 / (4 * pi * e0)) * (q / d^2).
+ Electric field = 1.438689e+11 V/m. 

@@ -1,0 +1,2 @@
+ The radiation resistance = 3.509193 ohm
+ The effeciency = 70 % 

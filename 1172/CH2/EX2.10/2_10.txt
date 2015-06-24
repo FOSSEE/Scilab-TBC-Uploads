@@ -1,0 +1,2 @@
+ # Problem 10 # 
+ Charge contained in sphere is  4.448495e-11 C 

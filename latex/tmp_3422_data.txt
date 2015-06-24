@@ -1,0 +1,19 @@
+7#Rating and Heating Motors#7.5#Weight of fly wheel#Ex5_7.sce#3422/CH7/EX7.5/Ex5_7.sce#S##114306
+7#Rating and Heating Motors#7.4#Power#Ex7_4.sce#3422/CH7/EX7.4/Ex7_4.sce#S##114305
+7#Rating and Heating Motors#7.3#power#Ex7_3.sce#3422/CH7/EX7.3/Ex7_3.sce#S##114304
+7#Rating and Heating Motors#7.1#Final tempearture#Ex7_1.sce#3422/CH7/EX7.1/Ex7_1.sce#S##114303
+6#Electric Braking#6.8#Number of revolutions made#Ex6_8.sce#3422/CH6/EX6.8/Ex6_8.sce#S##114302
+6#Electric Braking#6.7#Minimum time to bring rotor to rest#Ex6_7.sce#3422/CH6/EX6.7/Ex6_7.sce#S##114301
+6#Electric Braking#6.6#number of starts and stops#Ex6_6.sce#3422/CH6/EX6.6/Ex6_6.sce#S##114300
+6#Electric Braking#6.5#Initial braking torque#Ex6_5.sce#3422/CH6/EX6.5/Ex6_5.sce#S##114299
+6#Electric Braking#6.4#Braking Torque#Ex6_4.sce#3422/CH6/EX6.4/Ex6_4.sce#S##114298
+6#Electric Braking#6.3#Braking Torque and current#Ex6_3.sce#3422/CH6/EX6.3/Ex6_3.sce#S##114297
+6#Electric Braking#6.2#Resistance#Ex6_2.sce#3422/CH6/EX6.2/Ex6_2.sce#S##114296
+6#Electric Braking#6.1#Speed of shunt machine#Ex6_1.sce#3422/CH6/EX6.1/Ex6_1.sce#S##114295
+5#Starting#5.4#Permissible start#Ex5_4.sce#3422/CH5/EX5.4/Ex5_4.sce#S##114291
+5#Starting#5.3#Torque#Ex5_3.sce#3422/CH5/EX5.3/Ex5_3.sce#S##114290
+5#Starting#5.1#Value of Torque#Ex5_1.sce#3422/CH5/EX5.1/Ex5_1.sce#S##114288
+4#Characteristics of AC motor#4.6#Value of Delta#Ex4_6.sce#3422/CH4/EX4.6/Ex4_6.sce#S##114282
+4#Characteristics of AC motor#4.5#Value of resistance#Ex4_5.sce#3422/CH4/EX4.5/Ex4_5.sce#S##114281
+4#Characteristics of AC motor#4.3#Steady operation#Ex4_3.sce#3422/CH4/EX4.3/Ex4_3.sce#S##114280
+4#Characteristics of AC motor#4.1#Roots of the equation#Ex4_1.sce#3422/CH4/EX4.1/Ex4_1.sce#S##114279

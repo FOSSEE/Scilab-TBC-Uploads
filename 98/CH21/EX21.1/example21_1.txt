@@ -1,0 +1,10 @@
+Pick up current = 6.25 A 
+
+Fault current in relay coil = 50 A 
+
+Plug multiplier setting = 8  
+
+Corresponding to the plug multiplier setting of 8, the time of operation is 3.5 seconds.
+ 	 Therefore actual relay operating time = 2.10 s 
+
+

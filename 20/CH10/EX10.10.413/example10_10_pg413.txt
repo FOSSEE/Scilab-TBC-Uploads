@@ -1,0 +1,6 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_19_June/Codes/Chapter_10/code/example10_10_pg413.sce', -1)
+ 
+ By Referring to Fig. 10-19   
+ Regulation is found to be 45.73 % 
+-->diary(0);

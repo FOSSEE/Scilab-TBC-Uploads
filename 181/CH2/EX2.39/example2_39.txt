@@ -1,0 +1,5 @@
+(a)I_max = 3.50e-002 A
+(b)Minimum I_d for good regulation is 5 mA,hence I_T=30 mA
+V_max = 165 V
+Maximum I_d for good regulation is 40 mA,hence I_T=65 mA
+V_max = 287.5 V 

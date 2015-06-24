@@ -1,0 +1,7 @@
+  
+ Example 3.22   
+
+Core loss of two transformer=3.400000kW
+Core loss of each transformer=1.700000kW
+Full load copper loss of the two transformer=5.200000kWTherefore,full load copper loss of each transformer=2.600000kW
+Full load efficiency at 0.8 p.f. lagging=97.382836percent

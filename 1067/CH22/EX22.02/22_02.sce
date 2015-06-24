@@ -1,0 +1,13 @@
+clear;
+clc;
+v=11e3;
+r=10e6;
+x1=.05*%i;
+x2=.15*%i;
+x0=.15*%i;
+e=1;
+ia1=e/(x0+x1+x2);
+ia=3*ia1;
+ic=e/x0;
+c=ia/ic;
+mprintf("the ratio of line to ground fault to 3phase fault=%f",c);

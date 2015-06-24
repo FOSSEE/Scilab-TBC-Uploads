@@ -1,0 +1,2 @@
+﻿Coherence time of red cadmium line = 1.266667e-09 sec. 
+ Spectral line width = 1.090733e-12 meter.

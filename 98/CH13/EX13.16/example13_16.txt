@@ -1,0 +1,9 @@
+Voltage drop in section AC = 12.66 V 
+
+Voltage at feeding point A = 232.66 V 
+
+Voltage drop in section BC = 7.66 V 
+
+Voltage at feeding point B = 227.66 V 
+
+

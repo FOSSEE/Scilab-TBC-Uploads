@@ -1,0 +1,4 @@
+ Aperture=10y*10y
+ then, G=(4.5*10y*10y)/(y^2)
+ and finally, G=4.5*100
+ The power gain of optimum horn antenna = 450

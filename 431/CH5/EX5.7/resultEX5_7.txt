@@ -1,0 +1,9 @@
+  
+ example 5.7   
+
+slot angle=20 degree elecrical
+number of slots per pole per phase,m=3
+pitch factor=1
+distribution factor=0.959795
+
+total number of armature conductors,Z= 372 

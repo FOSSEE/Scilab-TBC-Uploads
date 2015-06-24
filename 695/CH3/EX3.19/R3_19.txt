@@ -1,0 +1,17 @@
+
+ (a)Iron Loss (in watts)=   
+ 
+    1666.5667  
+ 
+ (b)Copper Loss at full load (in watts)=   
+ 
+    3333.3333  
+ 
+ (c)Load KVA at which maximum efficiency occurs (in KVA)=   
+ 
+    106.06284  
+ 
+ (d)maximum efficiency of transformer at 0.8pf lagging(in %)=   
+ 
+    96.220226  
+ 

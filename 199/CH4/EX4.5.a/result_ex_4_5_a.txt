@@ -1,0 +1,2 @@
+* Max output offset voltage due to input offset voltage,Vio is = 0.6060 V dc 
+* Max output offset voltage due to input offset voltage,Ib is = 0.0500 V dc

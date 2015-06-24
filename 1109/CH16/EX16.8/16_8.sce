@@ -1,0 +1,16 @@
+clear;
+clc;
+D=10;Ri1=150;Ri2=75;
+Ai=D*0.115;
+R3=(sqrt(Ri1*Ri2))/sinh(Ai);
+R2=(Ri2/tanh(Ai))-R3;
+R1=(Ri1/tanh(Ai))-R3;
+printf("The desired elements of T-pad are:\n");
+printf(" R1 = %f ohms\n",round(R1*100)/100);
+printf(" R2 = %f ohms\n",round(R2*10)/10);
+printf(" R3= %f ohms\n\n",fix(R3*100)/100);
+R2a=sqrt((Ri1*Ri2*Ri2)/(Ri1-Ri2));
+R1a=sqrt(Ri1*(Ri1-Ri2));
+printf("The minimum loss pad will be a L attenuator:\n");
+printf(" R1 = %f ohms\n",round(R1a));
+printf(" R2 = %f ohms\n",round(R2a));

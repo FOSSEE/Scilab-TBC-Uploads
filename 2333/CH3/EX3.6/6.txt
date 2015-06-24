@@ -1,0 +1,5 @@
+# PROBLEM 6 # 
+ Standard formula used 
+ lambda = e*sin(theta)  
+
+ Wavelengths are 6250 and 5000 angestrom.

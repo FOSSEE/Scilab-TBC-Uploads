@@ -1,0 +1,4 @@
+  
+ Exa-2.14   
+Speed of the electron as a  fraction of c is 999999999947.776860000000*10^-12.
+The difference in velocities is 1.6 cm/s. 

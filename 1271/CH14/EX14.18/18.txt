@@ -1,0 +1,5 @@
+ # PROBLEM 18 # 
+Standard formula used 
+  E = (h * c)/ lambda 
+
+ Longest wavelength required for photoemission is 5396.739130 Angstrom

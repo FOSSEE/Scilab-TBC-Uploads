@@ -1,0 +1,2 @@
+  Cycles : 979 , Wavelength 5890 A 
+Cycles : 978 , Wavelength 5896 A 

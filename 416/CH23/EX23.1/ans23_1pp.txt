@@ -1,0 +1,14 @@
+  
+ example:23.1   
+
+capitel cost is 27272.7/kW
+CRF=0.171
+annual fixed cost is Rs4664.10/kW
+heat rate is 2457.142857cal/kWh
+number of kWh generated per liter of fuel is 4.11kWh/litre
+fuel cost per unit Rs1.702970per kWh
+annual operation cost Rs.545.4545/kW
+annual fixed, operation and maintence cost Rs.5209.56/kW
+energygenerated per year is 7008kWh
+annual fixed operation and maintenence cost per kWh of energy 0.7434/kWh
+generated cost is Rs2.4463/kWh 

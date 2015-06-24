@@ -1,0 +1,4 @@
+  
+ Band gap energy (in J) =    
+ 
+    1.118D-09  

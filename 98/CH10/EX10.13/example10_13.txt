@@ -1,0 +1,27 @@
+Total resistance / phase = 15.00 ohm 
+
+Total reactance / phase = 75.00 ohm 
+
+Total susceptance / phase = 0.000450 S 
+
+Recieving end voltage = 63509 V 
+
+                      = 63509+j0 
+
+Load current = 262.43+j(-196.82) 
+
+Charging current at load end = j(14.29) 
+
+Line current = 262.43+j(-182.53) 
+
+Sending end voltage = 81135.10+j(16944.38) 
+
+Line to line sending end voltage = 143.56 kV 
+
+Charging current at sending end = j(18.26) 
+
+Sending end current = 258.62+j(-164.28) A 
+
+Sending end current = 306.38 A 
+
+

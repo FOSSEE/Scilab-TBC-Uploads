@@ -1,0 +1,12 @@
+ (a)Value of external resistance when the load torque is independent of speed (in ohms)=    
+ 
+    0.975  
+ 
+ (b)Value of external resistance when the load torque is proportional to speed (in ohms)=    
+ 
+    1.0833333  
+ 
+ (a)Value of external resistance when the load torque is independent of speed (in ohms)=    
+ 
+    1.2037037  
+ 

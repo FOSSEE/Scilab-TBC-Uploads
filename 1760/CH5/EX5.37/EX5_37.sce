@@ -1,0 +1,21 @@
+                                    //EXAMPLE 5-37          PG NO-330-331
+R=8;
+R1=12.67;
+R2=4;
+R3=10;
+R4=3.077;
+R5=13.077;
+R50=9.9;                      //RESISTANCE AT 50 V BATTERY
+V=50;                        //VOLTAGE
+I1=V/R50;                    //CURRENT
+I=I1*[R/(R+R1)];
+disp(' Current is (I1)  = '+string(I1)+'A');
+disp(' Current is (I)  = '+string(I)+'A');
+R100=R+[(R2*(R3+R4))/(R2+R3+R4)];
+disp(' Resistance at 100 (R100) is   = '+string(R100)+'ohm');
+I2=100/R100;
+disp(' Current is   (I2)  = '+string(I2)+'A');
+I3=[(I2*R2)/(R2+R5)];
+disp(' Current is   (I3)  = '+string(I3)+'A');
+I10=I3-I;
+disp(' Current is    (I10) = '+string(I10)+'A');

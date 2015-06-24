@@ -1,0 +1,3 @@
+(a)Actual Value of c/r ranges between 5.94 - 6.60 and Percentage error =  5.27 percentage.
+ (b)Actual Value of c/r ranges between 6.281 - 6.288 and Percentage error = 0.06 percentage.
+ 

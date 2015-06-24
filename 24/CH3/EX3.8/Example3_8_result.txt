@@ -1,0 +1,5 @@
+**Sample Problem 3-8**
+The cross product of given vectors is  
+  - 12.  
+  - 9.   
+  - 8.   

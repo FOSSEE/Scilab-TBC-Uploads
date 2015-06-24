@@ -1,0 +1,84 @@
+3#Thyristor Control Of Electric Motors#3.9#Find the value of firing angle#Exa3_9.sce#2054/CH3/EX3.9/Exa3_9.sce#S##94573
+3#Thyristor Control Of Electric Motors#3.8#Find the value of torque developed and motor speed#Exa3_8.sce#2054/CH3/EX3.8/Exa3_8.sce#S##94572
+3#Thyristor Control Of Electric Motors#3.7#Find the value of firing angle#Exa3_7.sce#2054/CH3/EX3.7/Exa3_7.sce#S##69677
+3#Thyristor Control Of Electric Motors#3.6#Find the value of motor armature current and motor speed#Exa3_6.sce#2054/CH3/EX3.6/Exa3_6.sce#S##69676
+3#Thyristor Control Of Electric Motors#3.5#Find the value of average load voltage and load current and input paower factor#Exa3_5.sce#2054/CH3/EX3.5/Exa3_5.sce#S##69675
+3#Thyristor Control Of Electric Motors#3.4#Find the value of firing angle#Exa3_4.sce#2054/CH3/EX3.4/Exa3_4.sce#S##69674
+3#Thyristor Control Of Electric Motors#3.3#Find the value of speed of motor and motor torque#Exa3_3.sce#2054/CH3/EX3.3/Exa3_3.sce#S##69673
+3#Thyristor Control Of Electric Motors#3.24#Find the value of armature current and firing angle#Exa3_24.sce#2054/CH3/EX3.24/Exa3_24.sce#S##94597
+3#Thyristor Control Of Electric Motors#3.23#Find average motor current and speed#Exa3_23.sce#2054/CH3/EX3.23/Exa3_23.sce#S##94596
+3#Thyristor Control Of Electric Motors#3.22#Find the value of motor torque #Exa3_22.sce#2054/CH3/EX3.22/Exa3_22.sce#S##94594
+3#Thyristor Control Of Electric Motors#3.21#Find the value of pulse width#Exa3_21.sce#2054/CH3/EX3.21/Exa3_21.sce#S##94593
+3#Thyristor Control Of Electric Motors#3.20#Find the value of firing angle and power supplied#Exa3_20.sce#2054/CH3/EX3.20/Exa3_20.sce#S##94591
+3#Thyristor Control Of Electric Motors#3.2#Find the value of feild current and firing angle and input power factor#Exa3_2.sce#2054/CH3/EX3.2/Exa3_2.sce#S##69672
+3#Thyristor Control Of Electric Motors#3.19#Find the value of Average voltage and power dissipated and speed#Exa3_19.sce#2054/CH3/EX3.19/Exa3_19.sce#S##94589
+3#Thyristor Control Of Electric Motors#3.18#Find the value of power input and speed and torque and maximum and minimum speed#Exa3_18.sce#2054/CH3/EX3.18/Exa3_18.sce#S##94587
+3#Thyristor Control Of Electric Motors#3.17#Find the value of duty cycle of the chopper#Exa3_17.sce#2054/CH3/EX3.17/Exa3_17.sce#S##94585
+3#Thyristor Control Of Electric Motors#3.16#Find the range of speed control and duty cycle#Exa3_16.sce#2054/CH3/EX3.16/Exa3_16.sce#S##94583
+3#Thyristor Control Of Electric Motors#3.15#Find the value of frequency#Exa3_15.sce#2054/CH3/EX3.15/Exa3_15.sce#S##94581
+3#Thyristor Control Of Electric Motors#3.14#Find the value of frequency of switching pulse#Exa3_14.sce#2054/CH3/EX3.14/Exa3_14.sce#S##94580
+3#Thyristor Control Of Electric Motors#3.13#Find the value of average load current and firing angle#Exa3_13.sce#2054/CH3/EX3.13/Exa3_13.sce#S##94577
+3#Thyristor Control Of Electric Motors#3.12#Find the value of average load voltage and average current and diode current and effective input resistance#Exa3_12.sce#2054/CH3/EX3.12/Exa3_12.sce#S##94576
+3#Thyristor Control Of Electric Motors#3.10#Find the value of no load speed and firing angle#Exa3_10.sce#2054/CH3/EX3.10/Exa3_10.sce#S##94575
+3#Thyristor Control Of Electric Motors#3.1#Find the efficiency and form factor and ripple factor and transformer utilisation factor and peak inverse voltage of thyristor#Exa3_1.sce#2054/CH3/EX3.1/Exa3_1.sce#S##69671
+1#Electric Drives#1.9#Find the value of speed#ex1_9.sce#2054/CH1/EX1.9/ex1_9.sce#S##94606
+1#Electric Drives#1.8#Find the value of speed#ex1_8.sce#2054/CH1/EX1.8/ex1_8.sce#S##94605
+1#Electric Drives#1.7#Find the value of armature voltage drop at full load#ex1_7.sce#2054/CH1/EX1.7/ex1_7.sce#S##94604
+1#Electric Drives#1.65#Find the value of moment of inertia#ex1_65.sce#2054/CH1/EX1.65/ex1_65.sce#S##94662
+1#Electric Drives#1.64#Find the value of moment of inertia#ex1_64.sce#2054/CH1/EX1.64/ex1_64.sce#S##94661
+1#Electric Drives#1.63#Find the value of weight of flywheel and time taken#ex1_63.sce#2054/CH1/EX1.63/ex1_63.sce#S##94658
+1#Electric Drives#1.62#Determine the value of inertia of the flywheel#ex1_62.sce#2054/CH1/EX1.62/ex1_62.sce#S##94657
+1#Electric Drives#1.61#Find the value of speed at the end of deceleration period#ex1_61.sce#2054/CH1/EX1.61/ex1_61.sce#S##94659
+1#Electric Drives#1.6#Find the value of full load speed and full load torque#ex1_6.sce#2054/CH1/EX1.6/ex1_6.sce#S##94603
+1#Electric Drives#1.59#Determine the kW rating of the motor#ex1_59.sce#2054/CH1/EX1.59/ex1_59.sce#S##94656
+1#Electric Drives#1.58#Find the power rating of the motor#ex1_58.sce#2054/CH1/EX1.58/ex1_58.sce#S##94655
+1#Electric Drives#1.57#Determine the suitable size of continuously rated motor#ex1_57.sce#2054/CH1/EX1.57/ex1_57.sce#S##94653
+1#Electric Drives#1.56#Find the value of temperature rise#ex1_56.sce#2054/CH1/EX1.56/ex1_56.sce#S##94652
+1#Electric Drives#1.55#Find the value of maximum overload#ex1_55.sce#2054/CH1/EX1.55/ex1_55.sce#S##94650
+1#Electric Drives#1.54#Find the value of final temperature rise and heating time constant#ex1_54.sce#2054/CH1/EX1.54/ex1_54.sce#S##94649
+1#Electric Drives#1.53#Find the value of load#ex1_53.sce#2054/CH1/EX1.53/ex1_53.sce#S##94648
+1#Electric Drives#1.52#Find the value of temperature rise and maximum steady state temperature rise and time taken for increase in temperature#ex1_52.sce#2054/CH1/EX1.52/ex1_52.sce#S##94647
+1#Electric Drives#1.51#Find out the continuous rating of the motor#ex1_51.sce#2054/CH1/EX1.51/ex1_51.sce#S##94646
+1#Electric Drives#1.5#Find the value of motor speed#ex1_5.sce#2054/CH1/EX1.5/ex1_5.sce#S##94602
+1#Electric Drives#1.49#Find the running time of the motor#ex1_49.sce#2054/CH1/EX1.49/ex1_49.sce#S##94644
+1#Electric Drives#1.48#Find the half hour rating of the motor#ex1_48.sce#2054/CH1/EX1.48/ex1_48.sce#S##94643
+1#Electric Drives#1.47#Find the value of heating time constant and final steady temperature rise and one hour rating of motor#ex1_47.sce#2054/CH1/EX1.47/ex1_47.sce#S##94642
+1#Electric Drives#1.45#Find the value of final temperature rise and heating time constant#ex1_45.sce#2054/CH1/EX1.45/ex1_45.sce#S##94641
+1#Electric Drives#1.44#Find the value of time taken#ex1_44.sce#2054/CH1/EX1.44/ex1_44.sce#S##94640
+1#Electric Drives#1.43#Find the value of time taken and number of revolutions#ex1_43.sce#2054/CH1/EX1.43/ex1_43.sce#S##94639
+1#Electric Drives#1.42#Find the value of time taken and number of revolutions in case of plugging and rheostatic braking#ex1_42.sce#2054/CH1/EX1.42/ex1_42.sce#S##94638
+1#Electric Drives#1.41#Find the value of initial braking torque in case of plugging and dc dynamic braking#ex1_41.sce#2054/CH1/EX1.41/ex1_41.sce#S##94637
+1#Electric Drives#1.40#Find the value of plugging torque#ex1_40.sce#2054/CH1/EX1.40/ex1_40.sce#S##94636
+1#Electric Drives#1.4#Find the value of moment of inertia and power developed#ex1_4.sce#2054/CH1/EX1.4/ex1_4.sce#S##97459
+1#Electric Drives#1.39#Find the reduction in flux and motor speed#ex1_39.sce#2054/CH1/EX1.39/ex1_39.sce#S##94635
+1#Electric Drives#1.38#Find the value of speed#ex1_38.sce#2054/CH1/EX1.38/ex1_38.sce#S##94634
+1#Electric Drives#1.37#Find the value of speed under regenerative braking plugging and dynamic braking#ex1_37.sce#2054/CH1/EX1.37/ex1_37.sce#S##94633
+1#Electric Drives#1.36#Find the value of Current Drawn and Value of additional resistance#ex1_36.sce#2054/CH1/EX1.36/ex1_36.sce#S##97461
+1#Electric Drives#1.35#Find the value of Value of external resistance and Braking Torque when speed reduced to 400 rpm#ex1_35.sce#2054/CH1/EX1.35/ex1_35.sce#S##94630
+1#Electric Drives#1.34#Find the value of resistance and breaking torque#ex1_34.sce#2054/CH1/EX1.34/ex1_34.sce#S##94632
+1#Electric Drives#1.33#Find the value of Value of external resistance and initial braking torque and Braking Torque when speed reduced to 500 rpm#ex1_33.sce#2054/CH1/EX1.33/ex1_33.sce#S##94629
+1#Electric Drives#1.32#Find the value of Resistance to be added to each slip ring#ex1_32.sce#2054/CH1/EX1.32/ex1_32.sce#S##94628
+1#Electric Drives#1.31#Find the value of available speed and maximum load delievered and ratio of mechanical power#ex1_31.sce#2054/CH1/EX1.31/ex1_31.sce#S##94627
+1#Electric Drives#1.30#Find the value of frequecncy of rotor currents and slip#ex1_30.sce#2054/CH1/EX1.30/ex1_30.sce#S##94626
+1#Electric Drives#1.3#Find the value of moment of inertia and power developed#ex1_3.sce#2054/CH1/EX1.3/ex1_3.sce#S##94600
+1#Electric Drives#1.29#Find the value of additional resistance#ex1_29.sce#2054/CH1/EX1.29/ex1_29.sce#S##94625
+1#Electric Drives#1.28#Find the value of Armature Current at 1000 rpm#ex1_28.sce#2054/CH1/EX1.28/ex1_28.sce#S##94624
+1#Electric Drives#1.27#Find the value of diverter resistance#ex1_27.sce#2054/CH1/EX1.27/ex1_27.sce#S##94623
+1#Electric Drives#1.26#Find the value of additional resistance#ex1_26.sce#2054/CH1/EX1.26/ex1_26.sce#S##94622
+1#Electric Drives#1.25#Find the value of additional resistance#ex1_25.sce#2054/CH1/EX1.25/ex1_25.sce#S##94621
+1#Electric Drives#1.24#Find the value of energy dissipated#ex1_24.sce#2054/CH1/EX1.24/ex1_24.sce#S##94620
+1#Electric Drives#1.23#Find the value of starting period#ex1_23.sce#2054/CH1/EX1.23/ex1_23.sce#S##94619
+1#Electric Drives#1.22#Find the value of Time in attaining full load speed#ex1_22.sce#2054/CH1/EX1.22/ex1_22.sce#S##94618
+1#Electric Drives#1.21#Find the value of moment of inertia of drive#ex1_21.sce#2054/CH1/EX1.21/ex1_21.sce#S##94617
+1#Electric Drives#1.20#Find the value of Starting Current of motor and Starting torque at 50 hertz and 10 hertz#ex1_20.sce#2054/CH1/EX1.20/ex1_20.sce#S##94616
+1#Electric Drives#1.2#Find the value of stable operating point#ex1_2.sce#2054/CH1/EX1.2/ex1_2.sce#S##94599
+1#Electric Drives#1.19#Find the value of Tap Position of auto transformer and Ratio of Starting torque to full load torque#ex1_19.sce#2054/CH1/EX1.19/ex1_19.sce#S##94615
+1#Electric Drives#1.18#Find the value of ratio of starting current to full load current#ex1_18.sce#2054/CH1/EX1.18/ex1_18.sce#S##94613
+1#Electric Drives#1.17#Find the value of starting torque#ex1_17.sce#2054/CH1/EX1.17/ex1_17.sce#S##94612
+1#Electric Drives#1.16#Find the value of starting torque and slip and ratio of maximum torque to full load torque#ex1_16.sce#2054/CH1/EX1.16/ex1_16.sce#S##94611
+1#Electric Drives#1.15#Find the Value of maximum torque at one half load and 25Hz frequency#ex1_15.sce#2054/CH1/EX1.15/ex1_15.sce#S##94614
+1#Electric Drives#1.14#Find the Value of Slip Frequency#ex1_14.sce#2054/CH1/EX1.14/ex1_14.sce#S##94610
+1#Electric Drives#1.13#Find the Value of rms voltage#ex1_13.sce#2054/CH1/EX1.13/ex1_13.sce#S##94609
+1#Electric Drives#1.12#Find the Value of torque developed and terminal voltage#ex1_12.sce#2054/CH1/EX1.12/ex1_12.sce#S##97460
+1#Electric Drives#1.10#Find the Value of speed and torque#ex1_10.sce#2054/CH1/EX1.10/ex1_10.sce#S##94607
+1#Electric Drives#1.1#Compare the annual cost of a group drive and an individual drive#ex1_1.sce#2054/CH1/EX1.1/ex1_1.sce#S##94598

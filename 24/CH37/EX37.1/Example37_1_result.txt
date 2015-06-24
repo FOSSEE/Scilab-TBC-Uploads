@@ -1,0 +1,5 @@
+**Sample Problem 37-1a**
+The slit width is equal to 2511.407148nm
+
+**Sample Problem 37-1b**
+The wavelength of the light is equal to 433.333333nm 

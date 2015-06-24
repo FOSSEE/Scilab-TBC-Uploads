@@ -1,0 +1,6 @@
+  
+ example 5.3   
+
+total number of slots= 48
+slot angle= 7.500000 degree mechanical
+pitch factor=0.991445 

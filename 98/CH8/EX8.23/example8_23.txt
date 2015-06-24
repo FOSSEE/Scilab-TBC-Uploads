@@ -1,0 +1,13 @@
+x1+x2=500 
+x2-x1=256 
+
+x1 = 122 m 
+x2 = 378 m 
+
+S1 = 7 m 
+Clearance of the lowest point O from water level = 23 m 
+The distance from the lowest point to the midpoint = 128 m 
+Sag at midpoint = 7.68 m 
+Clearance of mid point from water level = 30.70 m 
+
+

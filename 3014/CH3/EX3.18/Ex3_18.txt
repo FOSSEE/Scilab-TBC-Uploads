@@ -1,0 +1,5 @@
+
+Example 3.18
+Wavelength of scattered radiation is 4.866071e-12 m 
+Energy of recoiled electron is 0.254532 MeV.
+Recoiled electron angle is 26 degree36 minute 

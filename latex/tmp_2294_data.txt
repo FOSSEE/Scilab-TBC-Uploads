@@ -1,0 +1,80 @@
+12#Random processes#12.9#Find the required probabilities#EX12_9.sce#2294/CH12/EX12.9/EX12_9.sce#S##106344
+12#Random processes#12.8#Find the given probabillities#EX12_8.sce#2294/CH12/EX12.8/EX12_8.sce#S##106343
+12#Random processes#12.7#find the required probabilities#EX12_7.sce#2294/CH12/EX12.7/EX12_7.sce#S##106342
+12#Random processes#12.6#To find the required probabilities#EX12_6.sce#2294/CH12/EX12.6/EX12_6.sce#S##106341
+12#Random processes#12.52#Find the average power#EX12_52.sce#2294/CH12/EX12.52/EX12_52.sce#S##106359
+12#Random processes#12.5#Probability to find the first white ball on the 3rd draw#EX12_5.sce#2294/CH12/EX12.5/EX12_5.sce#S##106340
+12#Random processes#12.4#Probability to find the required sample size#EX12_4.sce#2294/CH12/EX12.4/EX12_4.sce#S##106338
+12#Random processes#12.3#Find the probability that tails shows up at least once#EX12_3.sce#2294/CH12/EX12.3/EX12_3.sce#S##106336
+12#Random processes#12.20#Find the correlation#EX12_20.sce#2294/CH12/EX12.20/EX12_20.sce#S##106358
+12#Random processes#12.2#Find the probability of the problem#EX12_2.sce#2294/CH12/EX12.2/EX12_2.sce#S##106334
+12#Random processes#12.19#Find the required values#EX12_19.sce#2294/CH12/EX12.19/EX12_19.sce#S##106357
+12#Random processes#12.18#Find the mean and variance if they exist#EX12_18.sce#2294/CH12/EX12.18/EX12_18.sce#S##106356
+12#Random processes#12.17#Probablity that R lies between 110 and 120 ohm#EX12_17.sce#2294/CH12/EX12.17/EX12_17.sce#S##106355
+12#Random processes#12.16#Find the following#EX12_16.sce#2294/CH12/EX12.16/EX12_16.sce#S##106354
+12#Random processes#12.14#Find the mean value of the current under following conditions#EX12_14.sce#2294/CH12/EX12.14/EX12_14.sce#S##106353
+12#Random processes#12.13#Find the required probabilities#EX12_13.sce#2294/CH12/EX12.13/EX12_13.sce#S##106350
+12#Random processes#12.12#Find the required probabilities#EX12_12.sce#2294/CH12/EX12.12/EX12_12.sce#S##106348
+12#Random processes#12.11#Find the required probabilities#EX12_11.sce#2294/CH12/EX12.11/EX12_11.sce#S##106347
+12#Random processes#12.10#find the required probabilities#EX12_10.sce#2294/CH12/EX12.10/EX12_10.sce#S##106345
+12#Random processes#12.1#Show whether independent or not#EX12_1.sce#2294/CH12/EX12.1/EX12_1.sce#S##106332
+8#Fourier analysis of discrete time signals#8.29#Find DFT of the following sequences#EX8_29.sce#2294/CH8/EX8.29/EX8_29.sce#S##106438
+8#Fourier analysis of discrete time signals#8.28#Find the linear and circular convolution#EX8_28.sce#2294/CH8/EX8.28/EX8_28.sce#S##106439
+8#Fourier analysis of discrete time signals#8.27#Find the circular convolution of the following sequences#EX8_27.sce#2294/CH8/EX8.27/EX8_27.sce#S##106440
+8#Fourier analysis of discrete time signals#8.26#Find the circular convolution of two sequences#EX8_26.sce#2294/CH8/EX8.26/EX8_26.sce#S##106441
+8#Fourier analysis of discrete time signals#8.25#Find IDFT of the following signals#EX8_25.sce#2294/CH8/EX8.25/EX8_25.sce#S##106418
+8#Fourier analysis of discrete time signals#8.19#Use fourier transform to determine the response of the following signal#EX8_19.sce#2294/CH8/EX8.19/EX8_19.sce#S##106605
+8#Fourier analysis of discrete time signals#8.14#Find the convolution of the signals given below using fourier transform#EX8_14.sce#2294/CH8/EX8.14/EX8_14.sce#S##106604
+7#Laplace Transform Analysis of Signals and Systems#7.8#Find the laplace transform #EX7_8.sce#2294/CH7/EX7.8/EX7_8.sce#S##106313
+7#Laplace Transform Analysis of Signals and Systems#7.7#Find the laplace transform of the following signal#EX7_7.sce#2294/CH7/EX7.7/EX7_7.sce#S##106310
+7#Laplace Transform Analysis of Signals and Systems#7.6#Find the laplace transform#EX7_6.sce#2294/CH7/EX7.6/EX7_6.sce#S##106299
+7#Laplace Transform Analysis of Signals and Systems#7.5#Find the laplace transform of the following signal#EX7_5.sce#2294/CH7/EX7.5/EX7_5.sce#S##106296
+7#Laplace Transform Analysis of Signals and Systems#7.4#Find the laplace transform #EX7_4.sce#2294/CH7/EX7.4/EX7_4.sce#S##106289
+7#Laplace Transform Analysis of Signals and Systems#7.3#Find the laplace transform and Roc of the following signal#EX7_3.sce#2294/CH7/EX7.3/EX7_3.sce#S##106280
+7#Laplace Transform Analysis of Signals and Systems#7.22#Find the laplace transform#EX7_22.sce#2294/CH7/EX7.22/EX7_22.sce#S##106319
+7#Laplace Transform Analysis of Signals and Systems#7.2#Find the laplace transform and Roc of the following signal#EX7_2.sce#2294/CH7/EX7.2/EX7_2.sce#S##106279
+7#Laplace Transform Analysis of Signals and Systems#7.16#Find the laplace transform of the following signals#EX7_16.sce#2294/CH7/EX7.16/EX7_16.sce#S##106322
+7#Laplace Transform Analysis of Signals and Systems#7.11#find the laplace transform#EX7_11.sce#2294/CH7/EX7.11/EX7_11.sce#S##106317
+7#Laplace Transform Analysis of Signals and Systems#7.1.2#Find the laplace transform and Roc of the following signal#EX7_1_2.sce#2294/CH7/EX7.1.2/EX7_1_2.sce#S##106276
+7#Laplace Transform Analysis of Signals and Systems#7.1.1#Find the laplace transform and Roc of the following signal#EX7_1_1.sce#2294/CH7/EX7.1.1/EX7_1_1.sce#S##106274
+4#Time domain analysis of continuous time systems#4.9#Find the covolution Of the following signals#EX4_9.sce#2294/CH4/EX4.9/EX4_9.sce#S##106213
+4#Time domain analysis of continuous time systems#4.8#Find the covolution Of the following signals#EX4_8.sce#2294/CH4/EX4.8/EX4_8.sce#S##106202
+4#Time domain analysis of continuous time systems#4.7#Find the convolution of the following signals#EX4_7.sce#2294/CH4/EX4.7/EX4_7.sce#S##106198
+4#Time domain analysis of continuous time systems#4.6#Find the convolution of the following signals#EX4_6.sce#2294/CH4/EX4.6/EX4_6.sce#S##106183
+4#Time domain analysis of continuous time systems#4.4.2#Find the step response of the following impulse response#EX4_4_2.sce#2294/CH4/EX4.4.2/EX4_4_2.sce#S##106172
+4#Time domain analysis of continuous time systems#4.12#Find the convolution of the following signals#EX4_12.sce#2294/CH4/EX4.12/EX4_12.sce#S##106244
+4#Time domain analysis of continuous time systems#4.11#Find the covolution Of the following signals#EX4_11.sce#2294/CH4/EX4.11/EX4_11.sce#S##106222
+4#Time domain analysis of continuous time systems#4.10#Find the covolution Of the following signal#EX4_10.sce#2294/CH4/EX4.10/EX4_10.sce#S##106216
+3#Time domain analysis of discrete time systems#6.0#Example 6 0f question and answer section#EX_6.sce#2294/CH3/EX6.0/EX_6.sce#S##106171
+3#Time domain analysis of discrete time systems#3.32#Find the input signal#EX3_32.sce#2294/CH3/EX3.32/EX3_32.sce#S##106170
+3#Time domain analysis of discrete time systems#3.31#Find the cross correlation of two finite length sequences#EX3_31.sce#2294/CH3/EX3.31/EX3_31.sce#S##106169
+3#Time domain analysis of discrete time systems#3.28#Find the convolution#EX3_28.sce#2294/CH3/EX3.28/EX3_28.sce#S##106168
+3#Time domain analysis of discrete time systems#3.27#Find the convolution of the following sequences#Ex3_27.sce#2294/CH3/EX3.27/Ex3_27.sce#S##106167
+3#Time domain analysis of discrete time systems#3.26#Find the step response#EX3_26.sce#2294/CH3/EX3.26/EX3_26.sce#S##106107
+3#Time domain analysis of discrete time systems#3.25#Find whether the systems are causal and stable#EX3_25.sce#2294/CH3/EX3.25/EX3_25.sce#S##106106
+3#Time domain analysis of discrete time systems#3.23#Find the convolution of the following sequences#EX3_23.sce#2294/CH3/EX3.23/EX3_23.sce#S##106105
+3#Time domain analysis of discrete time systems#3.22#Find the response#EX3_22.sce#2294/CH3/EX3.22/EX3_22.sce#S##106104
+3#Time domain analysis of discrete time systems#3.21#Determine the response of the below relaxed system#EX3_21.sce#2294/CH3/EX3.21/EX3_21.sce#S##106103
+3#Time domain analysis of discrete time systems#3.20#Find the convolution #EX3_20.sce#2294/CH3/EX3.20/EX3_20.sce#S##106102
+3#Time domain analysis of discrete time systems#3.19#Find the convolution of the following sequence#EX3_19.sce#2294/CH3/EX3.19/EX3_19.sce#S##106101
+3#Time domain analysis of discrete time systems#3.18#Find the convolution#EX3_18.sce#2294/CH3/EX3.18/EX3_18.sce#S##106100
+3#Time domain analysis of discrete time systems#3.17#Find the convolution of the sequences#EX3_17.sce#2294/CH3/EX3.17/EX3_17.sce#S##106099
+3#Time domain analysis of discrete time systems#3.16#Determine the output response#EX3_16.sce#2294/CH3/EX3.16/EX3_16.sce#S##106098
+3#Time domain analysis of discrete time systems#3.15#Determine the convolution sum of two sequences#EX3_15.sce#2294/CH3/EX3.15/EX3_15.sce#S##106097
+3#Time domain analysis of discrete time systems#3.13#Represent the sequence as sum of shifted unit impulse#EX3_13.sce#2294/CH3/EX3.13/EX3_13.sce#S##106096
+2#Systems an introduction#2.7#Check for the following systems#EX2_7.sce#2294/CH2/EX2.7/EX2_7.sce#S##106095
+2#Systems an introduction#2.5#Determine whether the following systems are time invariant or not#EX2_5.sce#2294/CH2/EX2.5/EX2_5.sce#S##106094
+2#Systems an introduction#2.4#Check whether the following systems are linear or not#EX2_4.sce#2294/CH2/EX2.4/EX2_4.sce#S##106093
+2#Systems an introduction#2.3#Check whether the following systems are linear or not#EX2_3.sce#2294/CH2/EX2.3/EX2_3.sce#S##106092
+2#Systems an introduction#2.2#Find which of the following signal is causal or non causal#EX2_2.sce#2294/CH2/EX2.2/EX2_2.sce#S##106091
+1#Signals an introduction#1.8#Sketch the following signals#EX1_8.sce#2294/CH1/EX1.8/EX1_8.sce#S##106040
+1#Signals an introduction#1.7#Sketch the following signals#EX1_7.sce#2294/CH1/EX1.7/EX1_7.sce#S##106083
+1#Signals an introduction#1.22#Find which of the following signal is causal or non causal#EX1_22.sce#2294/CH1/EX1.22/EX1_22.sce#S##106090
+1#Signals an introduction#1.21#Sketch the followins signal and calculate the energy#EX1_21.sce#2294/CH1/EX1.21/EX1_21.sce#S##106089
+1#Signals an introduction#1.19.a#Sketch the followins signal and calculate the energy#EX1_19.sce#2294/CH1/EX1.19.a/EX1_19.sce#S##106088
+1#Signals an introduction#1.17#Determine power and rms value of the signals#EX1_17.sce#2294/CH1/EX1.17/EX1_17.sce#S##106087
+1#Signals an introduction#1.16#Determine power and rms value of the following signal#EX1_16.sce#2294/CH1/EX1.16/EX1_16.sce#S##106086
+1#Signals an introduction#1.15#Find the even and odd components of the signals#EX1_15.sce#2294/CH1/EX1.15/EX1_15.sce#S##106085
+1#Signals an introduction#1.14#Check whether the given signal is periodic or not#EX1_14.sce#2294/CH1/EX1.14/EX1_14.sce#S##106053
+1#Signals an introduction#1.13#Check whether the given signal is periodic or not#EX1_13.sce#2294/CH1/EX1.13/EX1_13.sce#S##106081
+1#Signals an introduction#1.12#Check whether the given signal is periodic or not#EX1_12.sce#2294/CH1/EX1.12/EX1_12.sce#S##106082

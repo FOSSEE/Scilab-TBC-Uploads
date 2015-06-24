@@ -1,0 +1,2 @@
+* Resistance R2 is = 10000.0 ohm 
+* Resistance R1 is = 10000.0 ohm                                                                                                  

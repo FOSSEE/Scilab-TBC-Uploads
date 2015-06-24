@@ -1,0 +1,4 @@
+ # Calculation of forging force # 
+
+
+ Forging force = 45 MN 

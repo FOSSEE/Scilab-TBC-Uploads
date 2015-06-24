@@ -1,0 +1,11 @@
+(I) SINGLE PHASE, 2-WIRE SYSTEM: 
+Line current = 151.5 A 
+Area of cross section = 1.636*10^-4 m^2 
+Volume of conductor required = 16.36 m^3 
+
+(II) 3-PHASE, 3-WIRE SYSTEM: 
+Line current = 87.5 A 
+Area of cross section = 0.818*10^-4 m^2 
+Volume of conductor required = 12.27 m^3 
+
+

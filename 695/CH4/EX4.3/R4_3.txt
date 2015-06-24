@@ -1,0 +1,11 @@
+ (a)Efficiency at full load and 0.85pf (in %)=   
+ 
+    95.673584  
+ 
+ (b)Efficiency at 75 percent of full load and unity pf(in %)=   
+ 
+    95.837077  
+ 
+ (c)max efficieny at unity pf(in %)=   
+ 
+    97.087379  

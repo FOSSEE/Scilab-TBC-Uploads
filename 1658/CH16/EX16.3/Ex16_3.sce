@@ -1,0 +1,20 @@
+clc;
+//e.g 16.3
+V1=230;
+//a=(N2/N1)
+b=(1/2);
+RL=200;
+V2=V1*b;
+disp('V',V2*1,"V2=");
+Vm=sqrt(2)*V2;
+disp('V',Vm*1,"Vm=");
+Im=Vm/RL;
+disp('A',Im*1,"Im=");
+Pm=(Im**2)*RL;
+disp('W',Pm*1,"Pm=");
+Vdc=0.318*Vm;
+disp('V',Vdc*1,"Vdc=");
+Idc=(Vdc/RL);
+disp('A',Idc*1,"Idc=");
+Pdc=(Idc**2)*RL;
+disp('W',Pdc*1,"Pdc=");

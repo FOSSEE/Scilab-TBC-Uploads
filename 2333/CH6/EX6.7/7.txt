@@ -1,0 +1,4 @@
+# PROBLEM 7 # 
+
+ Cut off parameter of fiber is 25.610066. 
+ Maximum number of modes is 327.

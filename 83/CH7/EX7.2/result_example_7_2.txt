@@ -1,0 +1,9 @@
+ 
+
+Increase in cost for unit 1 is = 772.5 Rs/hr
+
+Increase in cost for unit 2 is = -721.875 Rs/hr
+
+Net saving caused by optimum scheduling is = 50.625 Rs/hr
+
+Total yearly saving assuming continuous operation= Rs 443474 

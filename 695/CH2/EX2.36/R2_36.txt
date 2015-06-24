@@ -1,0 +1,15 @@
+ (a)Full load speed (in rpm) =   
+ 
+    943.51464  
+ 
+ (b)Speed regulation (in %) =   
+ 
+    5.6485356  
+ 
+ (c)HP rating (in HP)=   
+ 
+    16.25067  
+ 
+ (d)Efficiency (in %)=   
+ 
+    84.1875 

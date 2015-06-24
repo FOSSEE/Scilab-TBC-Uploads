@@ -1,0 +1,20 @@
+clear;
+clc;
+V_s=230;
+V_m=sqrt(2)*V_s;
+a1=0;
+a2=45;
+printf("for two single phase series semiconvertors");
+V_0=V_m/%pi*(2+cosd(a1)+cosd(a2));    printf("\navg o/p voltage=%.2f V",V_0);
+V_or=V_s*sqrt((1/%pi)*(4*%pi-3*a2*%pi/180+(3/2)*sind(2*a2)));    printf("\nrms value of o/p voltage=%.2f V",V_or);
+DF=(3+cosd(a2))/(sqrt(2)*sqrt(5+3*cosd(a2)));    printf("\nDF=%.4f",DF);
+PF=sqrt(2/%pi)*(3+cosd(a2))/sqrt(4*%pi-3*a2*%pi/180);    printf("\nPF=%.5f",PF);
+HF=sqrt((%pi*(%pi-(3/4)*a2*%pi/180)/(5+3*cosd(a2)))-1);    printf("\nHF=%.5f",HF);
+
+printf("\n\nfor two single phase series full convertors");
+a=45;
+V_0=2*V_m/%pi*(1+cosd(a));    printf("\navg o/p voltage=%.2f V",V_0);
+V_or=2*V_s*sqrt((1/%pi)*(%pi-a2*%pi/180+(1/2)*sind(2*a2)));    printf("\nrms value of o/p voltage=%.2f V",V_or);
+DF=cosd(a2/2);    printf("\nDF=%.4f",DF);
+PF=sqrt(2/(%pi*(%pi-a2*%pi/180)))*(1+cosd(a2));    printf("\nPF=%.4f",PF);
+HF=sqrt((%pi*(%pi-a2*%pi/180)/(4+4*cosd(a2)))-1);    printf("\nHF=%.2f",HF);

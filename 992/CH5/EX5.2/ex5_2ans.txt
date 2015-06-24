@@ -1,0 +1,2 @@
+frequency variation = 1.730000 MHz 
+ Execution done. 

@@ -1,0 +1,11 @@
+ (a) Armature current (in amperes)=   
+ 
+    102.  
+ 
+ (b) Generated emf (in volts)=   
+ 
+    231.18  
+ 
+ (c) No. of conductors of armature=   
+ 
+    889.15385 

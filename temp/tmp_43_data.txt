@@ -1,0 +1,86 @@
+10#MATLAB Tools for Analysis of Signals and systems#10.9#Find the impulse responce#ex109.sce#43/CH10/EX10.9/ex109.sce#S##3675
+10#MATLAB Tools for Analysis of Signals and systems#10.3#Find the step and impulse responce#ex103.sce#43/CH10/EX10.3/ex103.sce#S##3674
+10#MATLAB Tools for Analysis of Signals and systems#10.13#Find the step response #ex1013.sce#43/CH10/EX10.13/ex1013.sce#S##3679
+10#MATLAB Tools for Analysis of Signals and systems#10.12#Find convolution and plot the result #ex1012.sce#43/CH10/EX10.12/ex1012.sce#S##3676
+10#MATLAB Tools for Analysis of Signals and systems#10.1#Solving Linear Equation#ex101.sce#43/CH10/EX10.1/ex101.sce#S##3673
+9#Analog and Digital Filter Design#9.7#2nd order Digital Butterworth Filter#ex9_7.sce#43/CH9/EX9.7/ex9_7.sce#S##3591
+9#Analog and Digital Filter Design#9.5#Low Pass Filter#ex9_5.sce#43/CH9/EX9.5/ex9_5.sce#S##3589
+9#Analog and Digital Filter Design#9.5#Low Pass Filter#ex9_5.jpg#43/CH9/EX9.5/ex9_5.jpg#R##3590
+9#Analog and Digital Filter Design#9.3#FIR Filter#ex9_3.sce#43/CH9/EX9.3/ex9_3.sce#S##3587
+9#Analog and Digital Filter Design#9.3#FIR Filter#ex9_3.jpg#43/CH9/EX9.3/ex9_3.jpg#R##3588
+9#Analog and Digital Filter Design#9.2#Band Stop Filter#ex9_2.sce#43/CH9/EX9.2/ex9_2.sce#S##3586
+9#Analog and Digital Filter Design#9.1#BPF#ex9_1.sce#43/CH9/EX9.1/ex9_1.sce#S##3561
+8#Stability Analysis of LTI Systems#8.9#checking stability#ex89.sce#43/CH8/EX8.9/ex89.sce#S##2738
+8#Stability Analysis of LTI Systems#8.5#checking stability#ex85.sce#43/CH8/EX8.5/ex85.sce#S##2737
+8#Stability Analysis of LTI Systems#8.4#checking stability#ex84.sce#43/CH8/EX8.4/ex84.sce#S##2736
+8#Stability Analysis of LTI Systems#8.3#checking stability#ex83.sce#43/CH8/EX8.3/ex83.sce#S##2735
+8#Stability Analysis of LTI Systems#8.2#checking stability#ex82.sce#43/CH8/EX8.2/ex82.sce#S##2734
+8#Stability Analysis of LTI Systems#8.11#Stability of discrete time system#ex811.sce#43/CH8/EX8.11/ex811.sce#S##3360
+8#Stability Analysis of LTI Systems#8.1.b#check for HURWITZ#ex81b.sce#43/CH8/EX8.1.b/ex81b.sce#S##2733
+8#Stability Analysis of LTI Systems#8.1.a#check for HURWITZ#ex81a.sce#43/CH8/EX8.1.a/ex81a.sce#S##2732
+7#State Space Analysis#7.2#State Space Representation#ex7_2.sce#43/CH7/EX7.2/ex7_2.sce#S##3699
+7#State Space Analysis#7.1#State Space Representation#ex7_1.sce#43/CH7/EX7.1/ex7_1.sce#S##3698
+6#Transformed Networks#6.9#Bode Plot#ex6_9.sce#43/CH6/EX6.9/ex6_9.sce#S##3592
+6#Transformed Networks#6.9#Bode Plot#ex6_9.jpg#43/CH6/EX6.9/ex6_9.jpg#R##3593
+6#Transformed Networks#6.3#voltage across capacitor#ex6_3.sce#43/CH6/EX6.3/ex6_3.sce#S##3752
+6#Transformed Networks#6.2#voltage across inductor#ex6_2.sce#43/CH6/EX6.2/ex6_2.sce#S##3751
+6#Transformed Networks#6.10#Bode Plot#ex6_10.sce#43/CH6/EX6.10/ex6_10.sce#S##3594
+6#Transformed Networks#6.10#Bode Plot#ex6_10.jpg#43/CH6/EX6.10/ex6_10.jpg#R##3595
+6#Transformed Networks#6.1#Current flowing in a network#ex6_1.sce#43/CH6/EX6.1/ex6_1.sce#S##3750
+5#Sampling#5.9#Aliasing#ex5_9.sce#43/CH5/EX5.9/ex5_9.sce#S##3749
+5#Sampling#5.6#Continuous time Frequency#ex5_6.sce#43/CH5/EX5.6/ex5_6.sce#S##3748
+5#Sampling#5.2.b#Minimum Sampling Interval#ex5_2b.sce#43/CH5/EX5.2.b/ex5_2b.sce#S##3745
+5#Sampling#5.2.a#Minimum Sampling Interval#ex5_2a.sce#43/CH5/EX5.2.a/ex5_2a.sce#S##3740
+5#Sampling#5.14#Sampling period#ex5_14.sce#43/CH5/EX5.14/ex5_14.sce#S##3671
+5#Sampling#5.12#Find the frequency#ex5_12.sce#43/CH5/EX5.12/ex5_12.sce#S##3672
+5#Sampling#5.1#Minimum Sampling Frequency#ex5_1.sce#43/CH5/EX5.1/ex5_1.sce#S##3741
+4#Discrete Fourier Transform And Fast Fourier Transform#4.9#DFT computation#ex4_9.sce#43/CH4/EX4.9/ex4_9.sce#S##3559
+4#Discrete Fourier Transform And Fast Fourier Transform#4.6#DFT computation#ex4_6.sce#43/CH4/EX4.6/ex4_6.sce#S##3558
+4#Discrete Fourier Transform And Fast Fourier Transform#4.5#DFT computation#ex4_5.sce#43/CH4/EX4.5/ex4_5.sce#S##3557
+4#Discrete Fourier Transform And Fast Fourier Transform#4.4#DFT computation#ex4_4.sce#43/CH4/EX4.4/ex4_4.sce#S##3556
+4#Discrete Fourier Transform And Fast Fourier Transform#4.32#DFT computation#ex4_32.sce#43/CH4/EX4.32/ex4_32.sce#S##3736
+4#Discrete Fourier Transform And Fast Fourier Transform#4.31#Sampling rate and DFT size#ex4_31.sce#43/CH4/EX4.31/ex4_31.sce#S##3737
+4#Discrete Fourier Transform And Fast Fourier Transform#4.29#Record Length#ex4_29.sce#43/CH4/EX4.29/ex4_29.sce#S##3735
+4#Discrete Fourier Transform And Fast Fourier Transform#4.28#Circular convolution#ex4_28.sce#43/CH4/EX4.28/ex4_28.sce#S##3734
+3#Analysis of LTI Discrete time system #3.22#Z inverse#ex3_22.sce#43/CH3/EX3.22/ex3_22.sce#S##3697
+3#Analysis of LTI Discrete time system #3.21#Inverse Ztransform#ex3_21.sce#43/CH3/EX3.21/ex3_21.sce#S##3826
+3#Analysis of LTI Discrete time system #3.2#Graphical Convolution#ex3_2.sce#43/CH3/EX3.2/ex3_2.sce#S##3690
+3#Analysis of LTI Discrete time system #3.2#Graphical Convolution#ex3_2.jpg#43/CH3/EX3.2/ex3_2.jpg#R##3691
+3#Analysis of LTI Discrete time system #3.19#Final Value Theorem#ex3_19.sce#43/CH3/EX3.19/ex3_19.sce#S##3695
+3#Analysis of LTI Discrete time system #3.17a#Z Transform#ex3_17a.sce#43/CH3/EX3.17a/ex3_17a.sce#S##3692
+3#Analysis of LTI Discrete time system #3.17.c#Z Transform#ex3_17c.sce#43/CH3/EX3.17.c/ex3_17c.sce#S##3694
+3#Analysis of LTI Discrete time system #3.17.b#Z Transform#ex3_17b.sce#43/CH3/EX3.17.b/ex3_17b.sce#S##3693
+3#Analysis of LTI Discrete time system #3.1#Convolution sum method#ex3_1.sce#43/CH3/EX3.1/ex3_1.sce#S##3689
+2#Analysis of LTI continous time system #2.39#Convolution of two signals#ex2_39.sce#43/CH2/EX2.39/ex2_39.sce#S##3682
+2#Analysis of LTI continous time system #2.39#Convolution of two signals#ex2_39.jpg#43/CH2/EX2.39/ex2_39.jpg#R##3683
+2#Analysis of LTI continous time system #2.33#Plot the spectrum#ex2_33.sce#43/CH2/EX2.33/ex2_33.sce#S##3680
+2#Analysis of LTI continous time system #2.33#Plot the spectrum#ex2_33.jpg#43/CH2/EX2.33/ex2_33.jpg#R##3681
+2#Analysis of LTI continous time system #2.28#Laplace Transform#ex2_28.sce#43/CH2/EX2.28/ex2_28.sce#S##3685
+2#Analysis of LTI continous time system #2.26.c#Inv Laplace#ex2_26c.sce#43/CH2/EX2.26.c/ex2_26c.sce#S##3688
+2#Analysis of LTI continous time system #2.26.b#Inv Laplace#ex2_26b.sce#43/CH2/EX2.26.b/ex2_26b.sce#S##3687
+2#Analysis of LTI continous time system #2.26.a#Inv Laplace#ex2_26a.sce#43/CH2/EX2.26.a/ex2_26a.sce#S##3686
+2#Analysis of LTI continous time system #2.23#Laplace Transform#ex2_23.sce#43/CH2/EX2.23/ex2_23.sce#S##3684
+2#Analysis of LTI continous time system #2.20.a#Laplace transform of unit impulse#ex2_20_a.sce#43/CH2/EX2.20.a/ex2_20_a.sce#S##3560
+2#Analysis of LTI continous time system #2.2#Convolution#ex2_2.sce#43/CH2/EX2.2/ex2_2.sce#S##3565
+2#Analysis of LTI continous time system #2.2#Convolution#ex2_2.jpg#43/CH2/EX2.2/ex2_2.jpg#R##3566
+2#Analysis of LTI continous time system #2.14#Fourier transform one sided exponential function#ex2_14.sce#43/CH2/EX2.14/ex2_14.sce#S##3569
+2#Analysis of LTI continous time system #2.14#Fourier transform one sided exponential function#ex2_14a.jpg#43/CH2/EX2.14/ex2_14a.jpg#R##3570
+2#Analysis of LTI continous time system #2.14#Fourier transform one sided exponential function#ex2_14b.jpg#43/CH2/EX2.14/ex2_14b.jpg#R##3571
+2#Analysis of LTI continous time system #2.12#Fourier transform of Gate function#ex2_12.sce#43/CH2/EX2.12/ex2_12.sce#S##3567
+2#Analysis of LTI continous time system #2.12#Fourier transform of Gate function#ex2_12.jpg#43/CH2/EX2.12/ex2_12.jpg#R##3568
+2#Analysis of LTI continous time system #2.11.b#Fourier transform of exponential function#ex2_11b.sce#43/CH2/EX2.11.b/ex2_11b.sce#S##3563
+2#Analysis of LTI continous time system #2.11.b#Fourier transform of exponential function#ex2_11b.jpg#43/CH2/EX2.11.b/ex2_11b.jpg#R##3564
+2#Analysis of LTI continous time system #2.11.a#Fourier transform of impulse function#ex2_11a.sce#43/CH2/EX2.11.a/ex2_11a.sce#S##3562
+1#Introduction to Signal and Systems#1.9#Check for Periodicity#ex1_9.sce#43/CH1/EX1.9/ex1_9.sce#S##3459
+1#Introduction to Signal and Systems#1.9#Check for Periodicity#ex1_9.jpg#43/CH1/EX1.9/ex1_9.jpg#R##3460
+1#Introduction to Signal and Systems#1.6#Shifting Scaling  Time Reversal#ex1_6.sce#43/CH1/EX1.6/ex1_6.sce#S##3396
+1#Introduction to Signal and Systems#1.6#Shifting Scaling  Time Reversal#ex1_6_1.jpg#43/CH1/EX1.6/ex1_6_1.jpg#R##3397
+1#Introduction to Signal and Systems#1.6#Shifting Scaling  Time Reversal#ex1_6_2.jpg#43/CH1/EX1.6/ex1_6_2.jpg#R##3398
+1#Introduction to Signal and Systems#1.37#Shifting Time Reversal of discrete time signals#ex1_37.sce#43/CH1/EX1.37/ex1_37.sce#S##3482
+1#Introduction to Signal and Systems#1.37#Shifting Time Reversal of discrete time signals#ex1_37.jpg#43/CH1/EX1.37/ex1_37.jpg#R##3483
+1#Introduction to Signal and Systems#1.30#Integral of Unit step function#ex1_30.sce#43/CH1/EX1.30/ex1_30.sce#S##3471
+1#Introduction to Signal and Systems#1.30#Integral of Unit step function#ex1_30.jpg#43/CH1/EX1.30/ex1_30.jpg#R##3472
+1#Introduction to Signal and Systems#1.13#Check for Periodicity#ex1_13.sce#43/CH1/EX1.13/ex1_13.sce#S##3466
+1#Introduction to Signal and Systems#1.13#Check for Periodicity#ex1_13.jpg#43/CH1/EX1.13/ex1_13.jpg#R##3467
+1#Introduction to Signal and Systems#1.11#Check for Periodicity#ex1_11.sce#43/CH1/EX1.11/ex1_11.sce#S##3463
+1#Introduction to Signal and Systems#1.11#Check for Periodicity#ex1_11.jpg#43/CH1/EX1.11/ex1_11.jpg#R##3464

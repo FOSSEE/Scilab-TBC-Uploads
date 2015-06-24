@@ -1,0 +1,5 @@
+ # PROBLEM 17 # 
+Standard formula used 
+  nu = a*(Z-b)^2 ........Moseley law 
+
+ Ionization potential of K-shell electron of Cu is 8.937509 keV.

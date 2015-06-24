@@ -1,0 +1,4 @@
+  Example 5.3
+
+ Atomic % of Al is 98.7 %
+ Atomic % of Cu is 1.3 %

@@ -1,0 +1,3 @@
+  
+ Exa-1.1   
+Mass difference in terms of U is 0.001389 which equals 1.294 Mev/c^2. 

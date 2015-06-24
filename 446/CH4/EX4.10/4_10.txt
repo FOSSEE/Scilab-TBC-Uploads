@@ -1,0 +1,16 @@
+ Ex-4.10   
+ Group velocity is found out from Eq. 4.18.
+
+ Since k=2*pi/w ; Vphase= w/k 
+
+ w/k = sqrt(g/k)
+ 
+ w=sqrt(g*k)
+
+differetiating on both sides
+
+dw=1/2 * sqrt(g) * k^-1/2 * dk
+
+ dw= 1/2 * sqrt(g/k)
+ 
+Hence Vgroup= Vphase/2 

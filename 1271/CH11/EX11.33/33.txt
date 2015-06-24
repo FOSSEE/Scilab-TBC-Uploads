@@ -1,0 +1,1 @@
+ Time taken by the rocket is 0.080004 year.

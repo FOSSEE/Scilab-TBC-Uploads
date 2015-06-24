@@ -1,0 +1,25 @@
+ 
+
+Current distribution factors are :
+Ma1=1	Mb1=-0.2174	Mc1=0.2174	Md1=0.7826
+Ma2=0	Mb2=0.7826	Mc2=0.2174	Md2=0.7826
+
+Bus voltages are given by 
+V1=1.066 @ 6.06deg PU	V2=1.052 @ 4.91deg PU
+
+Current phase angles at the plants
+Sigma1=-14deg	Sigma2=-14deg
+
+The plant power factors are
+pf1=0.9391	pf2=0.9458
+
+The Loss coefficients in PU are 
+B11=0.02226 pu
+B22=0.01595 pu
+B12=0.00406 pu
+
+The Loss coefficients in reciprocal megawatts are 
+B11=0.00022259 MW^-1
+B22=0.00015947 MW^-1
+B12=0.00004062 MW^-1 
+

@@ -1,0 +1,45 @@
+10#Wind Turbines#10.9#Ex 9#Ex10_9.sce#3433/CH10/EX10.9/Ex10_9.sce#S##114541
+10#Wind Turbines#10.8#Ex 8#Ex10_8.sce#3433/CH10/EX10.8/Ex10_8.sce#S##114540
+10#Wind Turbines#10.7#Ex 7#Ex10_7.sce#3433/CH10/EX10.7/Ex10_7.sce#S##114539
+10#Wind Turbines#10.6#Ex 6#Ex10_6.sce#3433/CH10/EX10.6/Ex10_6.sce#S##114538
+10#Wind Turbines#10.5#Ex 5#Ex10_5.sce#3433/CH10/EX10.5/Ex10_5.sce#S##114537
+10#Wind Turbines#10.4#Ex 4#Ex10_4.sce#3433/CH10/EX10.4/Ex10_4.sce#S##114536
+10#Wind Turbines#10.3#Ex 3#Ex10_3.sce#3433/CH10/EX10.3/Ex10_3.sce#S##114535
+10#Wind Turbines#10.2#Ex 2#Ex10_2.sce#3433/CH10/EX10.2/Ex10_2.sce#S##114534
+10#Wind Turbines#10.10#Ex 10#Ex10_10.sce#3433/CH10/EX10.10/Ex10_10.sce#S##114542
+9#Hydraulic Turbines#9.7#Ex 7#Ex9_7.sce#3433/CH9/EX9.7/Ex9_7.sce#S##114533
+9#Hydraulic Turbines#9.6#Ex 6#Ex9_6.sce#3433/CH9/EX9.6/Ex9_6.sce#S##114532
+9#Hydraulic Turbines#9.5#Ex 5#Ex9_5.sce#3433/CH9/EX9.5/Ex9_5.sce#S##114531
+9#Hydraulic Turbines#9.4#Ex 4#Ex9_4.sce#3433/CH9/EX9.4/Ex9_4.sce#S##114530
+9#Hydraulic Turbines#9.3#Ex 3#Ex9_3.sce#3433/CH9/EX9.3/Ex9_3.sce#S##114529
+9#Hydraulic Turbines#9.2#Ex 2#Ex9_2.sce#3433/CH9/EX9.2/Ex9_2.sce#S##114528
+9#Hydraulic Turbines#9.1#Ex 1#Ex9_1.sce#3433/CH9/EX9.1/Ex9_1.sce#S##114527
+8#Radial Flow Gas Turbines#8.6#Ex 6#Ex8_6.sce#3433/CH8/EX8.6/Ex8_6.sce#S##114526
+8#Radial Flow Gas Turbines#8.5#Ex 5#Ex8_5.sce#3433/CH8/EX8.5/Ex8_5.sce#S##114525
+8#Radial Flow Gas Turbines#8.4#Ex 4#Ex8_4.sce#3433/CH8/EX8.4/Ex8_4.sce#S##114524
+8#Radial Flow Gas Turbines#8.3#Ex 3#Ex8_3.sce#3433/CH8/EX8.3/Ex8_3.sce#S##114523
+8#Radial Flow Gas Turbines#8.2#Ex 2#Ex8_2.sce#3433/CH8/EX8.2/Ex8_2.sce#S##114522
+8#Radial Flow Gas Turbines#8.1#Ex 1#Ex8_1.sce#3433/CH8/EX8.1/Ex8_1.sce#S##114521
+7#Centrifugal Pumps Fans and Compressors#7.6#Ex 6#Ex7_6.sce#3433/CH7/EX7.6/Ex7_6.sce#S##114520
+7#Centrifugal Pumps Fans and Compressors#7.5#Ex 5#Ex7_5.sce#3433/CH7/EX7.5/Ex7_5.sce#S##114519
+7#Centrifugal Pumps Fans and Compressors#7.4#Ex 4#Ex7_4.sce#3433/CH7/EX7.4/Ex7_4.sce#S##114518
+7#Centrifugal Pumps Fans and Compressors#7.3#Ex 3#Ex7_3.sce#3433/CH7/EX7.3/Ex7_3.sce#S##114517
+7#Centrifugal Pumps Fans and Compressors#7.2#Ex 2#Ex7_2.sce#3433/CH7/EX7.2/Ex7_2.sce#S##114516
+7#Centrifugal Pumps Fans and Compressors#7.1#Ex 1#Ex7_1.sce#3433/CH7/EX7.1/Ex7_1.sce#S##114515
+6#Three Dimensional Flows in Axial Turbomachines#6.2#Ex 2#Ex6_2.sce#3433/CH6/EX6.2/Ex6_2.sce#S##114514
+6#Three Dimensional Flows in Axial Turbomachines#6.1#Ex 1#Ex6_1.sce#3433/CH6/EX6.1/Ex6_1.sce#S##114513
+5#Axial Flow Compressors and Ducted Fans#5.3#Ex 3#Ex5_3.sce#3433/CH5/EX5.3/Ex5_3.sce#S##114512
+5#Axial Flow Compressors and Ducted Fans#5.2#Ex 2#Ex5_2.sce#3433/CH5/EX5.2/Ex5_2.sce#S##114511
+5#Axial Flow Compressors and Ducted Fans#5.1#Ex 1#Ex5_1.sce#3433/CH5/EX5.1/Ex5_1.sce#S##114510
+4#Axial Flow Turbines Mean Line Analysis and Design#4.5#Ex 5#Ex4_5.sce#3433/CH4/EX4.5/Ex4_5.sce#S##114509
+4#Axial Flow Turbines Mean Line Analysis and Design#4.4#Ex 4#Ex4_4.sce#3433/CH4/EX4.4/Ex4_4.sce#S##114508
+4#Axial Flow Turbines Mean Line Analysis and Design#4.3#Ex 3#Ex4_3.sce#3433/CH4/EX4.3/Ex4_3.sce#S##114507
+4#Axial Flow Turbines Mean Line Analysis and Design#4.2#Ex 2#Ex4_2.sce#3433/CH4/EX4.2/Ex4_2.sce#S##114506
+4#Axial Flow Turbines Mean Line Analysis and Design#4.1#Ex 1#Ex4_1.sce#3433/CH4/EX4.1/Ex4_1.sce#S##114505
+3#Two Dimensional Cascades#3.4#Ex 4#Ex3_4.sce#3433/CH3/EX3.4/Ex3_4.sce#S##114504
+3#Two Dimensional Cascades#3.2#Ex 2#Ex3_2.sce#3433/CH3/EX3.2/Ex3_2.sce#S##114503
+3#Two Dimensional Cascades#3.1#Ex 1#Ex3_1.sce#3433/CH3/EX3.1/Ex3_1.sce#S##114502
+2#Dimensional Analysis Similitude#2.3#Ex 3#Ex2_3.sce#3433/CH2/EX2.3/Ex2_3.sce#S##114501
+2#Dimensional Analysis Similitude#2.2#Ex 2#Ex2_2.sce#3433/CH2/EX2.2/Ex2_2.sce#S##114500
+2#Dimensional Analysis Similitude#2.1#Ex 1#Ex2_1.sce#3433/CH2/EX2.1/Ex2_1.sce#S##114499
+1#Introduction Basic Principles#1.1#Ex 1#Ex1_1.sce#3433/CH1/EX1.1/Ex1_1.sce#S##114498

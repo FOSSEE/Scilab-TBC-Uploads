@@ -1,0 +1,15 @@
+(a) induced emf in armature winding  (in Volts)=   
+ 
+    1266.2784  
+ 
+ (b) induced emf per coil  (in Volts)=   
+ 
+    105.5232  
+ 
+ (c) induced emf per turn  (in Volts)=   
+ 
+    5.8624  
+ 
+ (d) induced emf per conductor  (in Volts)=   
+ 
+    2.9312 

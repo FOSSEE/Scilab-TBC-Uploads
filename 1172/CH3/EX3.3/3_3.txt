@@ -1,0 +1,5 @@
+ # Problem 3 # 
+
+ Standard formula Used 
+ E = h*c/lambda
+ Shortest wavelength emitted is 0.310500 Angstrom.

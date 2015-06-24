@@ -1,0 +1,6 @@
+ The Bandwidth for n=5 = 106.260205 degree
+ TheBandwidth for n=6 = 83.620630 degree
+ The Bandwidth for n=7 = 69.699809 degree
+ The Bandwidth for n=8 = 60.000000 degree
+ The Bandwidth for n=9 = 52.775600 degree
+ The Bandwidth for n=10 = 47.156357 degree 

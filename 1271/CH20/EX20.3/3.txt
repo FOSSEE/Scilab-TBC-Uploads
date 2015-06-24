@@ -1,0 +1,5 @@
+ # PROBLEM 3 # 
+Standard formula used 
+ Lambda_min = 12400/V 
+
+ Minimum wavelength of x-ray is 0.496000 Angstrom.

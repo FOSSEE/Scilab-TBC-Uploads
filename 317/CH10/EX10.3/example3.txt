@@ -1,0 +1,1 @@
+Output voltage is 165 mVolts.

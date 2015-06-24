@@ -1,0 +1,2 @@
+ The wavelength in vaccum = 5 meter
+ The wavelength in air = 4.900000 meter

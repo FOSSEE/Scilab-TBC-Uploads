@@ -1,0 +1,15 @@
+
+
+Case(a)
+Total load on station1=20+j5.635 pu
+Power factor of station1=0.963 pu lagging
+Total load on station2=20+j15.635 pu
+Power factor of station2=0.788 pu lagging
+
+Case(b)
+Total load on station1=20+j5.132 pu
+Power factor of station1=0.969 pu lagging
+Total load on station2=20+j16.119 pu
+Power factor of station2=0.781 pu lagging
+
+

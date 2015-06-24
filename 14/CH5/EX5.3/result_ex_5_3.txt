@@ -1,0 +1,27 @@
+ Equivalent PI circuit   
+
+
+ Total series impedance of the line = 186.76 /_79.46 ohm in series arm 
+
+
+
+ Total Shunt admittance of the line = 0.000599 /_89.79 mho in each shunt arm 
+
+ 
+ Nominal PI circuit   
+
+
+ Total series impedance of the line = 193.91 /_79.04 ohm in series arm 
+
+
+
+ Total Shunt admittance of the line = 0.000587 /_90.00 mho in each shunt arm 
+
+
+
+ Line impedace of the series arm of the nominal pi exceeds that of equivalent pi by 3.8 percent 
+
+
+
+ Conductance of the shunt arms of the nominal pi is 2 percent less than that of equivalent pi 
+

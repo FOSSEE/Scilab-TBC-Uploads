@@ -1,0 +1,6 @@
+  
+ Example 3.32   
+Primary current,I1=65.217391A
+Load current,I1=200.000000A
+cirrent flowing through the common portion of winding=134.782609A
+Economy in saving in copper in percentage=32.608696percent 

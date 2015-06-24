@@ -1,0 +1,17 @@
+Resistance per 1000m of distributor = 0.02 ohm 
+
+Resistance of section AC = 0.010 ohm 
+Resistance of section CD = 0.008 ohm 
+Resistance of section DE = 0.012 ohm 
+Resistance of section EB = 0.008 ohm 
+
+I_EB = 50 A 
+I_DE = 250 A 
+I_CD = 400 A 
+I_AC = 500 A 
+
+Potential difference at load point C = Vc = 295.0 V 
+Potential difference at load point D = Vd = 291.8 V 
+Potential difference at load point E = Ve = 288.8 V 
+Potential difference at load point B = Vb = 288.4 V 
+

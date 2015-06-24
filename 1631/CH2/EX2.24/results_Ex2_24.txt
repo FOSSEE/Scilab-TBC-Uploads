@@ -1,0 +1,12 @@
+ Mean value mx=   
+ 
+    3.1415927  
+ 
+ Mean square value X^2 =   
+ 
+    13.159473  
+ 
+ Standard deviation sigma=   
+ 
+    1.8137994  
+ 

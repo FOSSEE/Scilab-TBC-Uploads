@@ -1,0 +1,32 @@
+  theta = 0.412 degrees .
+
+When p = 0 
+theta = 0.026 degrees . 
+
+When p = 1 
+theta = 0.078 degrees . 
+
+When p = 2 
+theta = 0.129 degrees . 
+
+When p = 3 
+theta = 0.181 degrees . 
+
+When p = 4 
+theta = 0.233 degrees . 
+
+When p = 5 
+theta = 0.285 degrees . 
+
+When p = 6 
+theta = 0.337 degrees . 
+
+When p = 7 
+theta = 0.388 degrees . 
+
+When p = 8 
+theta = 0.440 degrees . 
+
+ When p >= 8 ,  theta > 0.412 degrees .
+
+Between the first two diffraction minima , 16 interference minima are possible.

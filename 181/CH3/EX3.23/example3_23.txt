@@ -1,0 +1,3 @@
+Diode conducts when Vi<2.5 V
+Diode is open when Vi>2.5 V and Vo = 2.5+((Vi-2.5)/3)
+Diode conducts when Vi>2.5 V 

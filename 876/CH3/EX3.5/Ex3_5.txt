@@ -1,0 +1,4 @@
+output voltag(in V)=   
+ 
+    4.  
+ 

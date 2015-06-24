@@ -1,0 +1,4 @@
+(1)For Vi = 0 V, Vo = 4.0 V
+(2)For Vi = 10 V, Vo = 14.0 V
+If Vo = 0,
+(3)Then Vi = Vgs = -2.15 V 

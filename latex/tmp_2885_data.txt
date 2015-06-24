@@ -1,0 +1,107 @@
+15#Electronic Instruments#15.7#Determine rms value and frequency of the sine voltage#ex15_7.sce#2885/CH15/EX15.7/ex15_7.sce#S##101340
+15#Electronic Instruments#15.6#Determine rms value of the ac voltage#ex15_6.sce#2885/CH15/EX15.6/ex15_6.sce#S##101339
+15#Electronic Instruments#15.5#Calculate reading and error of each voltmeter#ex15_5.sce#2885/CH15/EX15.5/ex15_5.sce#S##101343
+15#Electronic Instruments#15.4#Calculate multiplier resistance and voltage multiplying factor#ex15_4.sce#2885/CH15/EX15.4/ex15_4.sce#S##101338
+15#Electronic Instruments#15.3#Caluclate the series resistance to convert it into voltmeter#ex15_3.sce#2885/CH15/EX15.3/ex15_3.sce#S##101337
+15#Electronic Instruments#15.2#Calculate shunt resistance#ex15_2.sce#2885/CH15/EX15.2/ex15_2.sce#S##101336
+15#Electronic Instruments#15.1#Calculate shunt resistance and multiplying factor#ex15_1.sce#2885/CH15/EX15.1/ex15_1.sce#S##101335
+14#Operational Amplifiers#14.6#Calculate the output voltage#ex14_6.sce#2885/CH14/EX14.6/ex14_6.sce#S##101334
+14#Operational Amplifiers#14.5#Calculate CMRR in dB#ex14_5.sce#2885/CH14/EX14.5/ex14_5.sce#S##101333
+14#Operational Amplifiers#14.4#Design an adder circuit using an op amp#ex14_4.sce#2885/CH14/EX14.4/ex14_4.sce#S##101342
+14#Operational Amplifiers#14.2#Find the output voltage#ex14_2.sce#2885/CH14/EX14.2/ex14_2.sce#S##101332
+14#Operational Amplifiers#14.1#Calculate voltage gain and input and output resistance#ex14_1.sce#2885/CH14/EX14.1/ex14_1.sce#S##101331
+12#Sinusoidal Oscillators#12.5#Determine the series and parallel resonant frequencies#ex12_5.sce#2885/CH12/EX12.5/ex12_5.sce#S##101330
+12#Sinusoidal Oscillators#12.4#Calculate frequency of oscillations#ex12_4.sce#2885/CH12/EX12.4/ex12_4.sce#S##101329
+12#Sinusoidal Oscillators#12.3#Calculate frequency of oscillations#ex12_3.sce#2885/CH12/EX12.3/ex12_3.sce#S##101328
+12#Sinusoidal Oscillators#12.2#Calculate frequency of oscillations and feedback factor and voltage gain#ex12_2.sce#2885/CH12/EX12.2/ex12_2.sce#S##101327
+12#Sinusoidal Oscillators#12.1#Calculate frequency of oscillations#ex12_1.sce#2885/CH12/EX12.1/ex12_1.sce#S##101326
+11#Tuned Voltage Amplifiers#11.3#Calculate impedance and quality factor and bandwidth#ex11_3.sce#2885/CH11/EX11.3/ex11_3.sce#S##101325
+11#Tuned Voltage Amplifiers#11.2#Calculate frequency and impedance and current at resonance and current in coil and capacitor#ex11_2.sce#2885/CH11/EX11.2/ex11_2.sce#S##101324
+11#Tuned Voltage Amplifiers#11.1#Calculate frequency and impedance and current and voltage across each element at resonance#ex11_1.sce#2885/CH11/EX11.1/ex11_1.sce#S##101323
+10#Feedback in Amplifiers#10.9#Determine the input resistance of feedback amplifier#ex10_9.sce#2885/CH10/EX10.9/ex10_9.sce#S##101321
+10#Feedback in Amplifiers#10.8#Calculate percentage change in the overall gain#ex10_8.sce#2885/CH10/EX10.8/ex10_8.sce#S##101320
+10#Feedback in Amplifiers#10.7#Calculate percentage change in the overall gain#ex10_7.sce#2885/CH10/EX10.7/ex10_7.sce#S##101319
+10#Feedback in Amplifiers#10.6#Calculate the gain of feedback amplifier and feedback factor#ex10_6.sce#2885/CH10/EX10.6/ex10_6.sce#S##101318
+10#Feedback in Amplifiers#10.5#Calculate the gain with and without feedback and feedback factor#ex10_5.sce#2885/CH10/EX10.5/ex10_5.sce#S##101317
+10#Feedback in Amplifiers#10.4#Calculate the internal gain and percentage of output fed back to input#ex10_4.sce#2885/CH10/EX10.4/ex10_4.sce#S##101316
+10#Feedback in Amplifiers#10.3#Calculate the percentage of output fed back to input#ex10_3.sce#2885/CH10/EX10.3/ex10_3.sce#S##101315
+10#Feedback in Amplifiers#10.2#Determine the gain of feedback amplifier in dB#ex10_2.sce#2885/CH10/EX10.2/ex10_2.sce#S##101314
+10#Feedback in Amplifiers#10.10#Calculate the percentage of negative feedback to input#ex10_10.sce#2885/CH10/EX10.10/ex10_10.sce#S##101322
+10#Feedback in Amplifiers#10.1#Determine the gain of feedback amplifier#ex10_1.sce#2885/CH10/EX10.1/ex10_1.sce#S##101313
+9#Power Amplifiers#9.6#Calculate harmonic distortion and percentage increase in output voltage due to this#ex9_6.sce#2885/CH9/EX9.6/ex9_6.sce#S##101312
+9#Power Amplifiers#9.5#Calculate the percentage increase in output power#ex9_5.sce#2885/CH9/EX9.5/ex9_5.sce#S##101311
+9#Power Amplifiers#9.4#Determine input and output power and efficiency#ex9_4.sce#2885/CH9/EX9.4/ex9_4.sce#S##101310
+9#Power Amplifiers#9.3#Determine the efficiency of a single ended transformer#ex9_3.sce#2885/CH9/EX9.3/ex9_3.sce#S##105789
+9#Power Amplifiers#9.2#Determine the output impedance of the transistor#ex9_2.sce#2885/CH9/EX9.2/ex9_2.sce#S##101308
+9#Power Amplifiers#9.1#Determine the turns ratio of the transformer#ex9_1.sce#2885/CH9/EX9.1/ex9_1.sce#S##101307
+8#Multistage Amplifiers#8.7#Calculate the input and output impedance and voltage gain#ex8_7.sce#2885/CH8/EX8.7/ex8_7.sce#S##101306
+8#Multistage Amplifiers#8.6#Calculate the midband voltage gain and bandwidth of cascade amplifier#ex8_6.sce#2885/CH8/EX8.6/ex8_6.sce#S##101305
+8#Multistage Amplifiers#8.5#Calculate the maximum voltage gain and bandwidth of multistage amplifier#ex8_5.sce#2885/CH8/EX8.5/ex8_5.sce#S##101304
+8#Multistage Amplifiers#8.4#Calculate quiescent output voltage and small signal voltage gain#ex8_4.sce#2885/CH8/EX8.4/ex8_4.sce#S##101303
+8#Multistage Amplifiers#8.3#Calculate the overall voltage gain#ex8_3.sce#2885/CH8/EX8.3/ex8_3.sce#S##101302
+8#Multistage Amplifiers#8.2#Determine power and voltage gain#ex8_2.sce#2885/CH8/EX8.2/ex8_2.sce#S##105794
+8#Multistage Amplifiers#8.1#Express the gain in decibel#ex8_1.sce#2885/CH8/EX8.1/ex8_1.sce#S##101300
+7#Small Signal Single Stage Amplifier#7.9#Find the output signal voltage of the amplifier#ex7_9.sce#2885/CH7/EX7.9/ex7_9.sce#S##101208
+7#Small Signal Single Stage Amplifier#7.8#Calculate the value of gm at different values of Vgs#ex7_8.sce#2885/CH7/EX7.8/ex7_8.sce#S##105786
+7#Small Signal Single Stage Amplifier#7.7#Calculate voltage gain and input resistance#ex7_7.sce#2885/CH7/EX7.7/ex7_7.sce#S##101206
+7#Small Signal Single Stage Amplifier#7.6#Determine the value of output voltage#ex7_6.sce#2885/CH7/EX7.6/ex7_6.sce#S##101205
+7#Small Signal Single Stage Amplifier#7.5#Solve previous example using hybrid pie model#ex7_5.sce#2885/CH7/EX7.5/ex7_5.sce#S##101204
+7#Small Signal Single Stage Amplifier#7.4#Calculate voltage and current gain and input and output resistance#ex7_4.sce#2885/CH7/EX7.4/ex7_4.sce#S##101203
+7#Small Signal Single Stage Amplifier#7.3#Calculate the value of capacitor required#ex7_3.sce#2885/CH7/EX7.3/ex7_3.sce#S##101202
+7#Small Signal Single Stage Amplifier#7.2#Check whether the capacitor is an effective bypass for the signal currents of lowest frequency 20 Hz#ex7_2.sce#2885/CH7/EX7.2/ex7_2.sce#S##101201
+7#Small Signal Single Stage Amplifier#7.12#Calculate the voltage gain of the FET#ex7_12.sce#2885/CH7/EX7.12/ex7_12.sce#S##101211
+7#Small Signal Single Stage Amplifier#7.11#Determine the small signal voltage gain and input and output resistance#ex7_11.sce#2885/CH7/EX7.11/ex7_11.sce#S##101210
+7#Small Signal Single Stage Amplifier#7.10#Determine the small signal voltage gain and input and output resistance#ex7_10.sce#2885/CH7/EX7.10/ex7_10.sce#S##101209
+7#Small Signal Single Stage Amplifier#7.1#Calculate max current and check will the capacitor act as short for given frequency#ex7_1.sce#2885/CH7/EX7.1/ex7_1.sce#S##101200
+6#Transistor Biasing and Stabilization#6.9#Determine the value of base resistance#ex6_9.sce#2885/CH6/EX6.9/ex6_9.sce#S##101194
+6#Transistor Biasing and Stabilization#6.8#Calculate max and min value of emitter current#ex6_8.sce#2885/CH6/EX6.8/ex6_8.sce#S##101192
+6#Transistor Biasing and Stabilization#6.7#Calculate the value of all three current Ie and Ic and Ib#ex6_7.sce#2885/CH6/EX6.7/ex6_7.sce#S##101193
+6#Transistor Biasing and Stabilization#6.6#Calculate the collector current and change in it if B is changed by three times of previous B#ex6_6.sce#2885/CH6/EX6.6/ex6_6.sce#S##101190
+6#Transistor Biasing and Stabilization#6.5#determine Q point in collector to base bias circuit#ex6_5.sce#2885/CH6/EX6.5/ex6_5.sce#S##101191
+6#Transistor Biasing and Stabilization#6.4#Determine the Q point at two different B#ex6_4.sce#2885/CH6/EX6.4/ex6_4.sce#S##101189
+6#Transistor Biasing and Stabilization#6.3#Determine Rb and percentage change in collector current due to temperature rise#ex6_3.sce#2885/CH6/EX6.3/ex6_3.sce#S##101188
+6#Transistor Biasing and Stabilization#6.2#Determine the Q point#ex6_2.sce#2885/CH6/EX6.2/ex6_2.sce#S##101187
+6#Transistor Biasing and Stabilization#6.14#Calculate Vgs and Rs#ex6_14.sce#2885/CH6/EX6.14/ex6_14.sce#S##101199
+6#Transistor Biasing and Stabilization#6.13#determine the Q point for the emitter bias circuit#ex6_13.sce#2885/CH6/EX6.13/ex6_13.sce#S##101198
+6#Transistor Biasing and Stabilization#6.12#Solve the voltage divider accurately by applying thevenins theorem#ex6_12.sce#2885/CH6/EX6.12/ex6_12.sce#S##105793
+6#Transistor Biasing and Stabilization#6.11#Calculate Q point in voltage divider#ex6_11.sce#2885/CH6/EX6.11/ex6_11.sce#S##101196
+6#Transistor Biasing and Stabilization#6.10#Determine the collector current at two different B#ex6_10.sce#2885/CH6/EX6.10/ex6_10.sce#S##101195
+6#Transistor Biasing and Stabilization#6.1#Determine the Q point#ex6_1.sce#2885/CH6/EX6.1/ex6_1.sce#S##101186
+5#Field Effect Transistors#5.8#Calculate the dynamic drain resistance#ex5_8.sce#2885/CH5/EX5.8/ex5_8.sce#S##101185
+5#Field Effect Transistors#5.7#Find the value of Id#ex5_7.sce#2885/CH5/EX5.7/ex5_7.sce#S##101184
+5#Field Effect Transistors#5.6#Find the value of drain current#ex5_6.sce#2885/CH5/EX5.6/ex5_6.sce#S##101183
+5#Field Effect Transistors#5.5#Calculate drain current Id for P channel#ex5_5.sce#2885/CH5/EX5.5/ex5_5.sce#S##101182
+5#Field Effect Transistors#5.4#Calculate drain current Id for N channel#ex5_4.sce#2885/CH5/EX5.4/ex5_4.sce#S##101181
+5#Field Effect Transistors#5.3#Calculate Vgs and Vds saturation#ex5_3.sce#2885/CH5/EX5.3/ex5_3.sce#S##101180
+5#Field Effect Transistors#5.2#Find the value of drain current#ex5_2.sce#2885/CH5/EX5.2/ex5_2.sce#S##101179
+5#Field Effect Transistors#5.1#Calculate saturation voltage and saturation current#ex5_1.sce#2885/CH5/EX5.1/ex5_1.sce#S##101178
+4#Bipolar Junction Transistors#4.9#determine dynamic input resistance and dc and ac current gain#ex4_9.sce#2885/CH4/EX4.9/ex4_9.sce#S##101176
+4#Bipolar Junction Transistors#4.8#determine dynamic input resistance#ex4_8.sce#2885/CH4/EX4.8/ex4_8.sce#S##101175
+4#Bipolar Junction Transistors#4.7#Calculate beta and Iceo and exact and approax collector current#ex4_7.sce#2885/CH4/EX4.7/ex4_7.sce#S##101174
+4#Bipolar Junction Transistors#4.6#calculate ac alpha and beta#ex4_6.sce#2885/CH4/EX4.6/ex4_6.sce#S##101173
+4#Bipolar Junction Transistors#4.5#find dc current gain in common emitter configuration#ex4_5.sce#2885/CH4/EX4.5/ex4_5.sce#S##101172
+4#Bipolar Junction Transistors#4.4#determine dynamic input resistance#ex4_4.sce#2885/CH4/EX4.4/ex4_4.sce#S##101171
+4#Bipolar Junction Transistors#4.3#Determine the base current#ex4_3.sce#2885/CH4/EX4.3/ex4_3.sce#S##101169
+4#Bipolar Junction Transistors#4.2#determine the base and collector current and exact and approax dc alpha#ex4_2.sce#2885/CH4/EX4.2/ex4_2.sce#S##101170
+4#Bipolar Junction Transistors#4.10#calculate ac current gain in CE and CC configuration#ex4_10.sce#2885/CH4/EX4.10/ex4_10.sce#S##101177
+4#Bipolar Junction Transistors#4.1#determine the collector and base current#ex4_1.sce#2885/CH4/EX4.1/ex4_1.sce#S##101167
+3#Semiconductor Diode#3.9#determine dc voltage across load and peak inverse voltage across each diode#ex3_9.sce#2885/CH3/EX3.9/ex3_9.sce#S##101162
+3#Semiconductor Diode#3.8#determine dc current through load and rectification efficiency and peak inverse voltage#ex3_8.sce#2885/CH3/EX3.8/ex3_8.sce#S##101161
+3#Semiconductor Diode#3.7#Find current drawn by the battery#ex3_7.sce#2885/CH3/EX3.7/ex3_7.sce#S##101160
+3#Semiconductor Diode#3.6#Find current through resistance in given figure#ex3_6.sce#2885/CH3/EX3.6/ex3_6.sce#S##101159
+3#Semiconductor Diode#3.5#Find current through diode#ex3_5.sce#2885/CH3/EX3.5/ex3_5.sce#S##101158
+3#Semiconductor Diode#3.4#determine ac resistance of silicon diode#ex3_4.sce#2885/CH3/EX3.4/ex3_4.sce#S##101157
+3#Semiconductor Diode#3.3#determine dc and ac resistance of silicon diode#ex3_3.sce#2885/CH3/EX3.3/ex3_3.sce#S##101156
+3#Semiconductor Diode#3.2#detrenmine dc resistance of silicon diode#ex3_2.sce#2885/CH3/EX3.2/ex3_2.sce#S##101155
+3#Semiconductor Diode#3.14#Find the capacitance of a varactor diode#ex3_14.sce#2885/CH3/EX3.14/ex3_14.sce#S##101168
+3#Semiconductor Diode#3.13#determine value of the series resistor and wattage rating#ex3_13.sce#2885/CH3/EX3.13/ex3_13.sce#S##101166
+3#Semiconductor Diode#3.12#Calculate max and min values of zener diode current#ex3_12.sce#2885/CH3/EX3.12/ex3_12.sce#S##105783
+3#Semiconductor Diode#3.11#Calculate output voltage and current through load and voltage across series resistor and current and power dissipated in zener diode#ex3_11.sce#2885/CH3/EX3.11/ex3_11.sce#S##101164
+3#Semiconductor Diode#3.10#find dc power supplied to load and efficiency and PIV rating of the diode#ex3_10.sce#2885/CH3/EX3.10/ex3_10.sce#S##101163
+3#Semiconductor Diode#3.1#find the value of threshold voltage#ex3_1.sce#2885/CH3/EX3.1/ex3_1.sce#S##101154
+2#Semiconductor Physics#2.2#Determine the conductivity of extrinsic semiconductor#ex2_2.sce#2885/CH2/EX2.2/ex2_2.sce#S##101153
+2#Semiconductor Physics#2.1#Calculate the conductivity and resistivity of germanium#ex2_1.sce#2885/CH2/EX2.1/ex2_1.sce#S##101152
+1#Introduction to Electronics#1.4#Find percentage variation in load current and load voltage#ex1_4.sce#2885/CH1/EX1.4/ex1_4.sce#S##105782
+1#Introduction to Electronics#1.3#Find the equivalent current source#ex1_3.sce#2885/CH1/EX1.3/ex1_3.sce#S##105781
+1#Introduction to Electronics#1.2#Find the range of tolerance#ex1_2.sce#2885/CH1/EX1.2/ex1_2.sce#S##101149
+1#Introduction to Electronics#1.1#Find the range of tolerance#ex1_1.sce#2885/CH1/EX1.1/ex1_1.sce#S##101148

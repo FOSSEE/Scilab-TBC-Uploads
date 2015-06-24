@@ -1,0 +1,47 @@
+Units generated per annum = 262800000 kWh 
+
+STEAM IN CONJUNCTION WITH HYDRO STATION
+Units supplied by hydro station = 100000000 kWh 
+
+Units supplied by steam station = 162800000 kWh 
+
+Maximum output of steam station = 40 MW 
+
+
+(a) Steam station
+Capital cost = Rs. 75000000 
+Annual interest and depreciation = Rs. 9000000 
+Operating cost = Rs. 8140000 
+Transmission cost = Rs. 0 
+Total annual cost = Rs. 17140000 
+
+
+(b) Hydro station
+Capital cost = Rs. 100000000 
+Annual interest and depreciation = Rs. 10000000 
+Operating cost = Rs. 1500000 
+Transmission cost = Rs. 200000 
+Total annual cost = Rs. 11700000 
+
+Total annual charges for both steam and hydro stations = Rs. 28840000 
+Overall cost per kWh = Rs. 0.10974 
+
+
+STEAM STATION
+Capital cost = Rs. 125000000 
+Annual interest and depreciation = Rs. 15000000 
+Fixed charges/kWh = Rs. 0.05708 
+Operating cost/kWh = Rs. 0.0500 
+Transmission cost/kWh = Rs. 0.0000 
+Overall/kWh cost = Rs. 0.10708 
+
+
+HYDRO STATION
+Capital cost = Rs. 250000000 
+Annual interest and depreciation = Rs. 25000000 
+Fixed charges/kWh = Rs. 0.09513 
+Operating cost/kWh = Rs. 0.0150 
+Transmission cost/kWh = Rs. 0.0020 
+Overall/kWh cost = Rs. 0.11213 
+
+

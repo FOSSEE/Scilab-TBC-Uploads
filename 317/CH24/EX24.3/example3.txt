@@ -1,0 +1,2 @@
+Efficiency is 25.8 %
+Power dissipated by regulator is 6.29 watts

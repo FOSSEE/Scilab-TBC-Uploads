@@ -1,0 +1,5 @@
+**Sample Problem 19-3a**
+The heat absorbed by the ice is 300.996000KJ
+
+**Sample Problem 19-3b**
+The mass of ice left is equal to 582.630631g 

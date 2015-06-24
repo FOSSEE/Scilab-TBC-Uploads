@@ -1,0 +1,5 @@
+ # Problem 14a # 	
+
+ Standard formula used  
+ E = m*c^2
+ Ratio of relativistic mass and rest mass  of particle is 1.953602e+03.

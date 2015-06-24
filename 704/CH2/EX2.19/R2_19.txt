@@ -1,0 +1,4 @@
+change in back emf from no load to load(in Volts)=   
+ 
+    10.  
+ 

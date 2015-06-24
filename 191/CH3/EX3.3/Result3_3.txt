@@ -1,0 +1,10 @@
+(i)  
+ root is :   
+ 
+    4.  
+(ii) 
+ root is :   
+ 
+    4.  
+(iii)
+root is not converging.So this method is not applicable.

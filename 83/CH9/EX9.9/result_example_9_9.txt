@@ -1,0 +1,24 @@
+ 
+ 
+ The Thevenin passive network for this system is drawn in Example_9_8 (or fig 9.28 in the textbook)   
+ 
+ Using the Zbus matrix from the results of example_9_8,we can calculate post fault currents and voltages   
+ Zbus  =
+ 
+    0.1397059i    0.1102941i    0.125i  
+    0.1102941i    0.1397059i    0.125i  
+    0.125i        0.125i        0.175i  
+
+If=-j5.71 pu
+
+V1f=0.286
+V2f=0.286
+
+I12f=0
+I13f=-j2.86
+I23f=-j2.86
+
+Ig1f=-j2.86
+Ig2f=-j2.86
+
+

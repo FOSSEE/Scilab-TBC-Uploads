@@ -1,0 +1,144 @@
+17#Electromagnetic Waves#17.6#frequency#ex_6.sce#2381/CH17/EX17.6/ex_6.sce#S##86870
+17#Electromagnetic Waves#17.5#polarisation degree#ex_5.sce#2381/CH17/EX17.5/ex_5.sce#S##86871
+17#Electromagnetic Waves#17.4#amplitudes of electric and magnetic field radiation#ex_4.sce#2381/CH17/EX17.4/ex_4.sce#S##86875
+17#Electromagnetic Waves#17.3#amplitudes of electric and magnetic field radiation#ex_3.sce#2381/CH17/EX17.3/ex_3.sce#S##93605
+17#Electromagnetic Waves#17.2#poynting vector#ex_2.sce#2381/CH17/EX17.2/ex_2.sce#S##86873
+17#Electromagnetic Waves#17.1#poynting vector#ex_1.sce#2381/CH17/EX17.1/ex_1.sce#S##86872
+15#Musical Sound and Acoustic of Bulidings#15.3#frequency#ex_3.sce#2381/CH15/EX15.3/ex_3.sce#S##86869
+15#Musical Sound and Acoustic of Bulidings#15.2#ratio of amplitudes#ex_2.sce#2381/CH15/EX15.2/ex_2.sce#S##93604
+15#Musical Sound and Acoustic of Bulidings#15.1#levels by which intensity will decrease#ex_1.sce#2381/CH15/EX15.1/ex_1.sce#S##86867
+14#Ultrasonics#14.4#capacitance#ex_4.sce#2381/CH14/EX14.4/ex_4.sce#S##86866
+14#Ultrasonics#14.3#thickness#ex_3.sce#2381/CH14/EX14.3/ex_3.sce#S##86865
+14#Ultrasonics#14.2#Length#ex_2.sce#2381/CH14/EX14.2/ex_2.sce#S##86864
+14#Ultrasonics#14.1#frequency#ex_1.sce#2381/CH14/EX14.1/ex_1.sce#S##86863
+13#Elementary Theory of Filters#13.2#inductance and capacitance#ex_2.sce#2381/CH13/EX13.2/ex_2.sce#S##86862
+13#Elementary Theory of Filters#13.1#inductance and capacitance#ex_1.sce#2381/CH13/EX13.1/ex_1.sce#S##86861
+12#Dopplers Effect#12.9#speed#ex_9.sce#2381/CH12/EX12.9/ex_9.sce#S##86855
+12#Dopplers Effect#12.8#frequency#ex_8.sce#2381/CH12/EX12.8/ex_8.sce#S##86854
+12#Dopplers Effect#12.7#frequency#ex_7.sce#2381/CH12/EX12.7/ex_7.sce#S##86853
+12#Dopplers Effect#12.6#frequency#ex_6.sce#2381/CH12/EX12.6/ex_6.sce#S##86852
+12#Dopplers Effect#12.5#frequency#ex_5.sce#2381/CH12/EX12.5/ex_5.sce#S##86851
+12#Dopplers Effect#12.4#wavelength#ex_4.sce#2381/CH12/EX12.4/ex_4.sce#S##86850
+12#Dopplers Effect#12.3#frequency#ex_3.sce#2381/CH12/EX12.3/ex_3.sce#S##86849
+12#Dopplers Effect#12.2#frequency#ex_2.sce#2381/CH12/EX12.2/ex_2.sce#S##86848
+12#Dopplers Effect#12.14#speed#ex_14.sce#2381/CH12/EX12.14/ex_14.sce#S##86860
+12#Dopplers Effect#12.13#velocity#ex_13.sce#2381/CH12/EX12.13/ex_13.sce#S##93603
+12#Dopplers Effect#12.12#Doppler shift and velocity#ex_12.sce#2381/CH12/EX12.12/ex_12.sce#S##86858
+12#Dopplers Effect#12.11#frequency and distance#ex_11.sce#2381/CH12/EX12.11/ex_11.sce#S##86857
+12#Dopplers Effect#12.10#frequency#ex_10.sce#2381/CH12/EX12.10/ex_10.sce#S##86856
+12#Dopplers Effect#12.1#speed#ex_1.sce#2381/CH12/EX12.1/ex_1.sce#S##86847
+11#Lissajous Figures#11.3#frequency#ex_3.sce#2381/CH11/EX11.3/ex_3.sce#S##86846
+11#Lissajous Figures#11.2#frequency#ex_2.sce#2381/CH11/EX11.2/ex_2.sce#S##86845
+11#Lissajous Figures#11.1#frequency#ex_1.sce#2381/CH11/EX11.1/ex_1.sce#S##86844
+10#Waves in SolidsWaves in Solids#10.9#frequency#ex_9.sce#2381/CH10/EX10.9/ex_9.sce#S##86841
+10#Waves in SolidsWaves in Solids#10.8#frequency#ex_8.sce#2381/CH10/EX10.8/ex_8.sce#S##86840
+10#Waves in SolidsWaves in Solids#10.7#velocity#ex_7.sce#2381/CH10/EX10.7/ex_7.sce#S##86839
+10#Waves in SolidsWaves in Solids#10.6#AREA#ex_6.sce#2381/CH10/EX10.6/ex_6.sce#S##86838
+10#Waves in SolidsWaves in Solids#10.5#frequency#ex_5.sce#2381/CH10/EX10.5/ex_5.sce#S##86837
+10#Waves in SolidsWaves in Solids#10.4#youngs modulus#ex_4.sce#2381/CH10/EX10.4/ex_4.sce#S##86836
+10#Waves in SolidsWaves in Solids#10.3#velocity and wavelength#ex_3.sce#2381/CH10/EX10.3/ex_3.sce#S##86835
+10#Waves in SolidsWaves in Solids#10.2#wavelength and velocity#ex_2.sce#2381/CH10/EX10.2/ex_2.sce#S##86834
+10#Waves in SolidsWaves in Solids#10.11#frequency#ex_11.sce#2381/CH10/EX10.11/ex_11.sce#S##86843
+10#Waves in SolidsWaves in Solids#10.10#frequency#ex_10.sce#2381/CH10/EX10.10/ex_10.sce#S##86842
+10#Waves in SolidsWaves in Solids#10.1#youngs modulus #ex_1.sce#2381/CH10/EX10.1/ex_1.sce#S##86833
+9#Longitudinal Acoustic Waves in Air#9.9#frequency#ex_9.sce#2381/CH9/EX9.9/ex_9.sce#S##86828
+9#Longitudinal Acoustic Waves in Air#9.8#intensity level#ex_8.sce#2381/CH9/EX9.8/ex_8.sce#S##86827
+9#Longitudinal Acoustic Waves in Air#9.7#power#ex_7.sce#2381/CH9/EX9.7/ex_7.sce#S##86826
+9#Longitudinal Acoustic Waves in Air#9.6#velocity#ex_6.sce#2381/CH9/EX9.6/ex_6.sce#S##86825
+9#Longitudinal Acoustic Waves in Air#9.5#BULK MODULUS AMPLITUDE AND PRESSURE VARIATION#ex_5.sce#2381/CH9/EX9.5/ex_5.sce#S##86824
+9#Longitudinal Acoustic Waves in Air#9.4#velocity wavelength and amplitude#ex_4.sce#2381/CH9/EX9.4/ex_4.sce#S##86823
+9#Longitudinal Acoustic Waves in Air#9.3#amplitude#ex_3.sce#2381/CH9/EX9.3/ex_3.sce#S##86822
+9#Longitudinal Acoustic Waves in Air#9.2#pressure#ex_2.sce#2381/CH9/EX9.2/ex_2.sce#S##86821
+9#Longitudinal Acoustic Waves in Air#9.13#length pressure amplitude#ex_13.sce#2381/CH9/EX9.13/ex_13.sce#S##86832
+9#Longitudinal Acoustic Waves in Air#9.12#wave equation frequency amplitude wavelength and distance#ex_12.sce#2381/CH9/EX9.12/ex_12.sce#S##93602
+9#Longitudinal Acoustic Waves in Air#9.11#fundamental frequency and length#ex_11.sce#2381/CH9/EX9.11/ex_11.sce#S##86830
+9#Longitudinal Acoustic Waves in Air#9.10#length#ex_10.sce#2381/CH9/EX9.10/ex_10.sce#S##86829
+9#Longitudinal Acoustic Waves in Air#9.1#pressure amplitude energy density and energy lux#ex_1.sce#2381/CH9/EX9.1/ex_1.sce#S##86820
+8#Vibrations of Strings and Membranes#8.9#tension#ex_9.sce#2381/CH8/EX8.9/ex_9.sce#S##86812
+8#Vibrations of Strings and Membranes#8.8#frequency#ex_8.sce#2381/CH8/EX8.8/ex_8.sce#S##86811
+8#Vibrations of Strings and Membranes#8.7#frequency#ex_7.sce#2381/CH8/EX8.7/ex_7.sce#S##86810
+8#Vibrations of Strings and Membranes#8.6#speed stress and percentage change#ex_6.sce#2381/CH8/EX8.6/ex_6.sce#S##86809
+8#Vibrations of Strings and Membranes#8.5#initial tension#ex_5.sce#2381/CH8/EX8.5/ex_5.sce#S##93600
+8#Vibrations of Strings and Membranes#8.4#frequency#ex_4.sce#2381/CH8/EX8.4/ex_4.sce#S##86807
+8#Vibrations of Strings and Membranes#8.3#tension#ex_3.sce#2381/CH8/EX8.3/ex_3.sce#S##86806
+8#Vibrations of Strings and Membranes#8.2#tensile stress#ex_2.sce#2381/CH8/EX8.2/ex_2.sce#S##86805
+8#Vibrations of Strings and Membranes#8.16#frequency and relative amplitude#ex_16.sce#2381/CH8/EX8.16/ex_16.sce#S##86819
+8#Vibrations of Strings and Membranes#8.15#FREQUENCY#ex_15.sce#2381/CH8/EX8.15/ex_15.sce#S##86818
+8#Vibrations of Strings and Membranes#8.14#wavelength#ex_14.sce#2381/CH8/EX8.14/ex_14.sce#S##86817
+8#Vibrations of Strings and Membranes#8.13#length#ex_13.sce#2381/CH8/EX8.13/ex_13.sce#S##93601
+8#Vibrations of Strings and Membranes#8.12#frequency#ex_12.sce#2381/CH8/EX8.12/ex_12.sce#S##86815
+8#Vibrations of Strings and Membranes#8.11#frequency#ex_11.sce#2381/CH8/EX8.11/ex_11.sce#S##86814
+8#Vibrations of Strings and Membranes#8.10#velocity#ex_10.sce#2381/CH8/EX8.10/ex_10.sce#S##86813
+8#Vibrations of Strings and Membranes#8.1#speed#ex_1.sce#2381/CH8/EX8.1/ex_1.sce#S##86804
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.9#frequency#ex_9.sce#2381/CH7/EX7.9/ex_9.sce#S##86796
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.8#velocity#ex_8.sce#2381/CH7/EX7.8/ex_8.sce#S##86795
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.7#frequency#ex_7.sce#2381/CH7/EX7.7/ex_7.sce#S##86794
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.6#frequency#ex_6.sce#2381/CH7/EX7.6/ex_6.sce#S##86793
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.5#frequency#ex_5.sce#2381/CH7/EX7.5/ex_5.sce#S##86792
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.4#time interval#ex_4.sce#2381/CH7/EX7.4/ex_4.sce#S##86791
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.3#wavelength and frequency#ex_3.sce#2381/CH7/EX7.3/ex_3.sce#S##86790
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.25#group velocity#ex_25.sce#2381/CH7/EX7.25/ex_25.sce#S##86803
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.24#group velocity#ex_24.sce#2381/CH7/EX7.24/ex_24.sce#S##86802
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.2#intensity#ex_2.sce#2381/CH7/EX7.2/ex_2.sce#S##86789
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.18#frequency wavelength velocity and amlitude#ex_18.sce#2381/CH7/EX7.18/ex_18.sce#S##86801
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.13#frequency#ex_13.sce#2381/CH7/EX7.13/ex_13.sce#S##86800
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.12#frequency#ex_12.sce#2381/CH7/EX7.12/ex_12.sce#S##86799
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.11#velocity#ex_11.sce#2381/CH7/EX7.11/ex_11.sce#S##86798
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.10#frequency#ex_10.sce#2381/CH7/EX7.10/ex_10.sce#S##86797
+7#Superposition of Harmonic Waves Interference Beats Stationary Waves Phase and Group Velocities#7.1#ratio#ex_1.sce#2381/CH7/EX7.1/ex_1.sce#S##86788
+5#Wave Motion and Speed of Waves in Gaes#5.9#amplitude frequency velocity and wavelength#ex_9.sce#2381/CH5/EX5.9/ex_9.sce#S##86777
+5#Wave Motion and Speed of Waves in Gaes#5.8#displacement velocity and acceleration#ex_8.sce#2381/CH5/EX5.8/ex_8.sce#S##86776
+5#Wave Motion and Speed of Waves in Gaes#5.6#wavelength#ex_6.sce#2381/CH5/EX5.6/ex_6.sce#S##86775
+5#Wave Motion and Speed of Waves in Gaes#5.5#path difference#ex_5.sce#2381/CH5/EX5.5/ex_5.sce#S##86774
+5#Wave Motion and Speed of Waves in Gaes#5.4#wave equation#ex_4.sce#2381/CH5/EX5.4/ex_4.sce#S##86773
+5#Wave Motion and Speed of Waves in Gaes#5.3#velocity and direction#ex_3.sce#2381/CH5/EX5.3/ex_3.sce#S##86772
+5#Wave Motion and Speed of Waves in Gaes#5.22#RMS velocity#ex_22.sce#2381/CH5/EX5.22/ex_22.sce#S##86787
+5#Wave Motion and Speed of Waves in Gaes#5.21#speed of sound in nitrogen#ex_21.sce#2381/CH5/EX5.21/ex_21.sce#S##86786
+5#Wave Motion and Speed of Waves in Gaes#5.20#temperature#ex_20.sce#2381/CH5/EX5.20/ex_20.sce#S##86785
+5#Wave Motion and Speed of Waves in Gaes#5.2#frequency#ex_2.sce#2381/CH5/EX5.2/ex_2.sce#S##86771
+5#Wave Motion and Speed of Waves in Gaes#5.19#temperature#ex_19.sce#2381/CH5/EX5.19/ex_19.sce#S##86784
+5#Wave Motion and Speed of Waves in Gaes#5.18#speed of sound#ex_18.sce#2381/CH5/EX5.18/ex_18.sce#S##86783
+5#Wave Motion and Speed of Waves in Gaes#5.17#pressure#ex_17.sce#2381/CH5/EX5.17/ex_17.sce#S##93282
+5#Wave Motion and Speed of Waves in Gaes#5.16#pressure amplitude energy density and energy flux#ex_16.sce#2381/CH5/EX5.16/ex_16.sce#S##86781
+5#Wave Motion and Speed of Waves in Gaes#5.15#energy#ex_15.sce#2381/CH5/EX5.15/ex_15.sce#S##93291
+5#Wave Motion and Speed of Waves in Gaes#5.14#energy flux#ex_14.sce#2381/CH5/EX5.14/ex_14.sce#S##86779
+5#Wave Motion and Speed of Waves in Gaes#5.10#wave intensity#ex_10.sce#2381/CH5/EX5.10/ex_10.sce#S##86778
+5#Wave Motion and Speed of Waves in Gaes#5.1#wavelength#ex_1.sce#2381/CH5/EX5.1/ex_1.sce#S##86770
+4#Coupled Oscillator#4.2#ratio of frequency#ex_2.sce#2381/CH4/EX4.2/ex_2.sce#S##86769
+3#Forced Harmonic Oscillator and Resonance#3.5#resonant frequency separation and sharpness#ex_5.sce#2381/CH3/EX3.5/ex_5.sce#S##86768
+3#Forced Harmonic Oscillator and Resonance#3.4#current and capacitance#ex_4.sce#2381/CH3/EX3.4/ex_4.sce#S##86767
+3#Forced Harmonic Oscillator and Resonance#3.3#reactance and impedance#ex_3.sce#2381/CH3/EX3.3/ex_3.sce#S##86766
+3#Forced Harmonic Oscillator and Resonance#3.2#cosntant#ex_2.sce#2381/CH3/EX3.2/ex_2.sce#S##86765
+3#Forced Harmonic Oscillator and Resonance#3.1#amlitude and phase displacement#ex_1.sce#2381/CH3/EX3.1/ex_1.sce#S##93274
+2#Damped Harmonic Oscillator#2.9#time#ex_9.sce#2381/CH2/EX2.9/ex_9.sce#S##86759
+2#Damped Harmonic Oscillator#2.8#time interval#ex_8.sce#2381/CH2/EX2.8/ex_8.sce#S##86758
+2#Damped Harmonic Oscillator#2.7#time and distance#ex_7.sce#2381/CH2/EX2.7/ex_7.sce#S##93272
+2#Damped Harmonic Oscillator#2.6#relaxation time frequency energy and rate of loss#ex_6.sce#2381/CH2/EX2.6/ex_6.sce#S##86756
+2#Damped Harmonic Oscillator#2.5#time period#ex_5.sce#2381/CH2/EX2.5/ex_5.sce#S##86755
+2#Damped Harmonic Oscillator#2.4#period#ex_4.sce#2381/CH2/EX2.4/ex_4.sce#S##86754
+2#Damped Harmonic Oscillator#2.3#time damping force total distance#ex_3.sce#2381/CH2/EX2.3/ex_3.sce#S##86753
+2#Damped Harmonic Oscillator#2.14#frequency and quality factor#ex_14.sce#2381/CH2/EX2.14/ex_14.sce#S##86763
+2#Damped Harmonic Oscillator#2.13#resistance#ex_13.sce#2381/CH2/EX2.13/ex_13.sce#S##86762
+2#Damped Harmonic Oscillator#2.12#frequency#ex_12.sce#2381/CH2/EX2.12/ex_12.sce#S##86761
+2#Damped Harmonic Oscillator#2.10#logarithmic decrement#ex_10.sce#2381/CH2/EX2.10/ex_10.sce#S##86760
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.9#force constant period of oscillation amlitude and energy#ex_9.sce#2381/CH1/EX1.9/ex_9.sce#S##93269
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.8#period of motion#ex_8.sce#2381/CH1/EX1.8/ex_8.sce#S##93268
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.7#energy#ex_7.sce#2381/CH1/EX1.7/ex_7.sce#S##86737
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.6#period#ex_6.sce#2381/CH1/EX1.6/ex_6.sce#S##86736
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.5#velocity and acceleration#ex_5.sce#2381/CH1/EX1.5/ex_5.sce#S##86735
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.4#velocity and acceleration#ex_4.sce#2381/CH1/EX1.4/ex_4.sce#S##86734
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.3#total energy#ex_3.sce#2381/CH1/EX1.3/ex_3.sce#S##86733
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.24#frequency#ex_24.sce#2381/CH1/EX1.24/ex_24.sce#S##86752
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.23#force constant and work done #ex_23.sce#2381/CH1/EX1.23/ex_23.sce#S##86751
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.22#frequency#ex_22.sce#2381/CH1/EX1.22/ex_22.sce#S##86750
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.21#frequency energy and velocity#ex_21.sce#2381/CH1/EX1.21/ex_21.sce#S##93271
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.20#frequency and amlitude#ex_20.sce#2381/CH1/EX1.20/ex_20.sce#S##86748
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.19#frequency and moment of inertia#ex_19.sce#2381/CH1/EX1.19/ex_19.sce#S##93270
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.17#possible values of r and energy#ex_17.sce#2381/CH1/EX1.17/ex_17.sce#S##86746
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.16#distance binding energy and force constant#ex_16.sce#2381/CH1/EX1.16/ex_16.sce#S##86745
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.15#frequency and energy#ex_15.sce#2381/CH1/EX1.15/ex_15.sce#S##86744
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.13#period#ex_13.sce#2381/CH1/EX1.13/ex_13.sce#S##86743
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.12#rotational inertia#ex_12.sce#2381/CH1/EX1.12/ex_12.sce#S##86742
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.11#frequency energy and velocity#ex_11.sce#2381/CH1/EX1.11/ex_11.sce#S##86741
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.10#velocity#ex_10.sce#2381/CH1/EX1.10/ex_10.sce#S##86740
+1#Free Oscillations in One Dimension Simle Harmonic Oscillator#1.1#frequency and time period#ex_1.sce#2381/CH1/EX1.1/ex_1.sce#S##93267

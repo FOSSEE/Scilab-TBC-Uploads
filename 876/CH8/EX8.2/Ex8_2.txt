@@ -1,0 +1,7 @@
+peak to peak amplitude of the signal(in V)=   
+ 
+    2.  
+ 
+ frequency of the signal(in Hz)=   
+ 
+    0.125

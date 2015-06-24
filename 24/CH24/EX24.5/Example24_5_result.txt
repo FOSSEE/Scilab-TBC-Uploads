@@ -1,0 +1,2 @@
+**Sample Problem 24-5**
+The radius of the column is equal to 5.994536m 

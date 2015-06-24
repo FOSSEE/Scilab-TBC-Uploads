@@ -1,0 +1,16 @@
+ (a) Output (in watts)=   
+ 
+    7929.6  
+ 
+   Efficiency (in %)=   
+ 
+    79.296  
+ 
+ (b) Output (in watts)=   
+ 
+    46041.6  
+ 
+   Efficiency (in %)=   
+ 
+    92.0832  
+ 

@@ -1,0 +1,10 @@
+n = 1;
+epsilonr = 11.8; //relative dielectric constant for silicon
+epsilon = 8.85*10^-12; //dielectric constant
+m = 9.11*10^-31; //mass of electron
+mn = 0.26*m; //for silicon
+h = 6.63*10^-34;
+q = 1.6*10^-19; //electronic charge
+r = 10^10*(epsilonr*epsilon*h*h)/(mn*q*q*%pi); //radius in armstrong
+disp(r,"radius of electron orbit around donor (in armstrong) =")
+disp("This is more than 4 lattice spacings a = 5.43 armstrong.")

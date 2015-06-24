@@ -1,0 +1,5 @@
+Peak value of cable voltage = 70.71 kV 
+
+Most economical conductor diameter = 3.54 cm 
+
+

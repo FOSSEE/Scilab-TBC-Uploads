@@ -1,0 +1,6 @@
+Example 4.6
+
+ Theoretical density of crystal is 2.14 g/cm^3 .
+
+ This result compares very favourable with 
+ experimental value of 2.16 g/cm^3 . 

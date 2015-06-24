@@ -1,0 +1,6 @@
+ Example 4.22   
+synchronous speed=1000.000000rpm
+the slip=0.040000
+rotor speed=960.000000rpm
+mechanical power developed=104.418763hp
+rotor resistance per phase at rotor current 60A=0.296296ohms 

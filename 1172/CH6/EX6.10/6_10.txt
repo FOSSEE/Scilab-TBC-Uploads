@@ -1,0 +1,4 @@
+ # Problem 10 # 
+
+ Standard formula used  l = l_o * sqrt ( 1- (v/c)^2)
+ Velocity of particle is 0.942809 c.

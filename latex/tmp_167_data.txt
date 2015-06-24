@@ -1,0 +1,167 @@
+17#Compressible Flow#17.9#Shock Wave in a Converging Diverging Nozzle#ex9.sce#167/CH17/EX17.9/ex9.sce#S##13784
+17#Compressible Flow#17.7#Airflow through a Converging Diverging Nozzle#ex7.sce#167/CH17/EX17.7/ex7.sce#S##13783
+17#Compressible Flow#17.5#Effect of Back Pressure on Mass Flow Rate#ex5.sce#167/CH17/EX17.5/ex5.sce#S##13782
+17#Compressible Flow#17.4#Critical Temperature and Pressure in Gas Flow#ex4.sce#167/CH17/EX17.4/ex4.sce#S##13781
+17#Compressible Flow#17.3#Gas Flow through a Converging Diverging Duct#ex3.sce#167/CH17/EX17.3/ex3.sce#S##13780
+17#Compressible Flow#17.2#Mach Number of Air Entering a Diffuser#ex2.sce#167/CH17/EX17.2/ex2.sce#S##13779
+17#Compressible Flow#17.16#Steam Flow through a Converging Diverging Nozzle#ex16.sce#167/CH17/EX17.16/ex16.sce#S##13802
+17#Compressible Flow#17.1#Compression of High Speed Air in an Aircraft#ex1.sce#167/CH17/EX17.1/ex1.sce#S##13778
+16#Chemical and Phase Equilibrium#16.9#The Amount of Dissolved Air in Water#ex9.sce#167/CH16/EX16.9/ex9.sce#S##13869
+16#Chemical and Phase Equilibrium#16.8#Mole Fraction of Water Vapor Just over a Lake#ex8.sce#167/CH16/EX16.8/ex8.sce#S##13812
+16#Chemical and Phase Equilibrium#16.7#Phase Equilibrium for a Saturated Mixture#ex7.sce#167/CH16/EX16.7/ex7.sce#S##13811
+16#Chemical and Phase Equilibrium#16.6#Enthalpy of Reaction of a Combustion Process#ex6.sce#167/CH16/EX16.6/ex6.sce#S##13810
+16#Chemical and Phase Equilibrium#16.2#Dissociation Temperature of Hydrogen#ex2.sce#167/CH16/EX16.2/ex2.sce#S##13809
+16#Chemical and Phase Equilibrium#16.11#Composition of Different Phases of a Mixture#ex11.sce#167/CH16/EX16.11/ex11.sce#S##13870
+16#Chemical and Phase Equilibrium#16.10#Diffusion of Hydrogen Gas into a Nickel Plate#ex10.sce#167/CH16/EX16.10/ex10.sce#S##13813
+16#Chemical and Phase Equilibrium#16.1#Equilibrium Constant of a Dissociation Process#ex1.sce#167/CH16/EX16.1/ex1.sce#S##13808
+15#Chemical Reactions#15.9#Reversible work associated with combustion process#ex9.sce#167/CH15/EX15.9/ex9.sce#S##13770
+15#Chemical Reactions#15.8#Adiabatic Flame Temperature in Steady Combustion#ex8.sce#167/CH15/EX15.8/ex8.sce#S##14640
+15#Chemical Reactions#15.7#First law anlysis of combustion in bomb#ex7.sce#167/CH15/EX15.7/ex7.sce#S##13754
+15#Chemical Reactions#15.6#First Law Analysis of Steady Flow Combustion#ex6.sce#167/CH15/EX15.6/ex6.sce#S##13755
+15#Chemical Reactions#15.5#Evaluation of the Enthalpy of Combustion#ex5.sce#167/CH15/EX15.5/ex5.sce#S##13753
+15#Chemical Reactions#15.4#Reverse Combustion Analysis#ex4.sce#167/CH15/EX15.4/ex4.sce#S##13752
+15#Chemical Reactions#15.3#Combustion of a Gaseous Fuel with Moist Air#ex3.sce#167/CH15/EX15.3/ex3.sce#S##13751
+15#Chemical Reactions#15.2#Dew Point Temperature of Combustion Products#ex2.sce#167/CH15/EX15.2/ex2.sce#S##13750
+15#Chemical Reactions#15.11#Second law analysis of isothermal combustion#ex11.sce#167/CH15/EX15.11/ex11.sce#S##13756
+15#Chemical Reactions#15.1#Balancing the Combustion Equation#ex1.sce#167/CH15/EX15.1/ex1.sce#S##13749
+14#Gas Vapour Mixtures and Air Conditioning#14.9#Cooling of a Power Plant by a Cooling Tower#ex9.sce#167/CH14/EX14.9/ex9.sce#S##13748
+14#Gas Vapour Mixtures and Air Conditioning#14.8#Mixing of Conditioned Air with Outdoor Air#ex8.sce#167/CH14/EX14.8/ex8.sce#S##13747
+14#Gas Vapour Mixtures and Air Conditioning#14.6#Cooling and Dehumidification of Air#ex6.sce#167/CH14/EX14.6/ex6.sce#S##13746
+14#Gas Vapour Mixtures and Air Conditioning#14.5#Heating and Humidification of Air#ex5.sce#167/CH14/EX14.5/ex5.sce#S##13745
+14#Gas Vapour Mixtures and Air Conditioning#14.4#The Use of the Psychrometric Chart#ex4.sce#167/CH14/EX14.4/ex4.sce#S##13744
+14#Gas Vapour Mixtures and Air Conditioning#14.3#The Specific and Relative Humidity of Air#ex3.sce#167/CH14/EX14.3/ex3.sce#S##13743
+14#Gas Vapour Mixtures and Air Conditioning#14.2#Fogging of the windows in house#ex2.sce#167/CH14/EX14.2/ex2.sce#S##13742
+14#Gas Vapour Mixtures and Air Conditioning#14.1#The amonut of water vapour in room air#ex1.sce#167/CH14/EX14.1/ex1.sce#S##13741
+13#Gas Mixtures#13.6#obtaining fresh water from sea water#ex6.sce#167/CH13/EX13.6/ex6.sce#S##13711
+13#Gas Mixtures#13.5#cooling of non ideal gas mixture#ex5.sce#167/CH13/EX13.5/ex5.sce#S##13710
+13#Gas Mixtures#13.4#Exergy Destruction during Mixing of Ideal Gases#ex4.sce#167/CH13/EX13.4/ex4.sce#S##13709
+13#Gas Mixtures#13.3#Mixing Two Ideal Gases in a Tank#ex3.sce#167/CH13/EX13.3/ex3.sce#S##13708
+13#Gas Mixtures#13.2#PVT Behavior of Nonideal Gas Mixtures#ex2.sce#167/CH13/EX13.2/ex2.sce#S##13707
+13#Gas Mixtures#13.1#Mass and Mole Fractions of a Gas Mixture#ex1.sce#167/CH13/EX13.1/ex1.sce#S##13706
+12#Thermodynamic Property Relations#12.6#Extrapolating Tabular Data with the Clapeyron Equation#ex6.sce#167/CH12/EX12.6/ex6.sce#S##13704
+12#Thermodynamic Property Relations#12.5#Evaluating the hfg of a Substance from the PVT Data#ex5.sce#167/CH12/EX12.5/ex5.sce#S##13703
+12#Thermodynamic Property Relations#12.2#Total Differential versus Partial Differential#ex2.sce#167/CH12/EX12.2/ex2.sce#S##13702
+12#Thermodynamic Property Relations#12.11#dh and ds of oxygen at high pressure#ex11.sce#167/CH12/EX12.11/ex11.sce#S##13705
+12#Thermodynamic Property Relations#12.1#Approximating Differential Quantities by Differences#ex1.sce#167/CH12/EX12.1/ex1.sce#S##13701
+11#Refrigeration Cycles#17.10#Estimation of the Mach Number from Mach Lines#ex10.sce#167/CH11/EX17.10/ex10.sce#S##13785
+11#Refrigeration Cycles#11.6#Cooling of a Canned Drink by a Thermoelectric Refrigerator#ex6.sce#167/CH11/EX11.6/ex6.sce#S##13777
+11#Refrigeration Cycles#11.5#The Simple Ideal Gas Refrigeration Cycle#ex5.sce#167/CH11/EX11.5/ex5.sce#S##13776
+11#Refrigeration Cycles#11.4#A Two Stage Refrigeration Cycle with a Flash Chamber#ex4.sce#167/CH11/EX11.4/ex4.sce#S##13775
+11#Refrigeration Cycles#11.2#The Actual Vapor Compression Refrigeration Cycle#ex2.sce#167/CH11/EX11.2/ex2.sce#S##13773
+10#Vapor and Combined Power Cycles#10.9#A Combined Gas Steam Power Cycle#ex9.sce#167/CH10/EX10.9/ex9.sce#S##13700
+10#Vapor and Combined Power Cycles#10.8#An Ideal Cogeneration Plant#ex8.sce#167/CH10/EX10.8/ex8.sce#S##13699
+10#Vapor and Combined Power Cycles#10.7#Second Law Analysis of an Ideal Rankine Cycle#ex7.sce#167/CH10/EX10.7/ex7.sce#S##13697
+10#Vapor and Combined Power Cycles#10.6#The Ideal Reheat Regenerative Rankine Cycle#ex6.sce#167/CH10/EX10.6/ex6.sce#S##13698
+10#Vapor and Combined Power Cycles#10.5#The Ideal Regenerative Rankine Cycle#ex5.sce#167/CH10/EX10.5/ex5.sce#S##13696
+10#Vapor and Combined Power Cycles#10.4#The Ideal Reheat Rankine Cycle#ex4.sce#167/CH10/EX10.4/ex4.sce#S##13695
+10#Vapor and Combined Power Cycles#10.3#Effect of Boiler Pressure and Temperature on Efficiency#ex3.sce#167/CH10/EX10.3/ex3.sce#S##13694
+10#Vapor and Combined Power Cycles#10.2#An Actual Steam Power Cycle#ex2.sce#167/CH10/EX10.2/ex2.sce#S##13693
+9#Gas Power Cycle#9.9#The Ideal Jet Propulsion Cycle#ex9.sce#167/CH9/EX9.9/ex9.sce#S##13739
+9#Gas Power Cycle#9.8#A Gas Turbine with Reheating and Intercooling#ex8.sce#167/CH9/EX9.8/ex8.sce#S##13738
+9#Gas Power Cycle#9.7#Actual Gas Turbine Cycle with Regeneration#ex7.sce#167/CH9/EX9.7/ex7.sce#S##13737
+9#Gas Power Cycle#9.6#An Actual Gas Turbine Cycle#ex6.sce#167/CH9/EX9.6/ex6.sce#S##13736
+9#Gas Power Cycle#9.5#The Simple Ideal Brayton Cycle#ex5.sce#167/CH9/EX9.5/ex5.sce#S##13735
+9#Gas Power Cycle#9.3#The Ideal Diesel Cycle#ex3.sce#167/CH9/EX9.3/ex3.sce#S##13734
+9#Gas Power Cycle#9.2#The Ideal Otto Cycle#ex2.sce#167/CH9/EX9.2/ex2.sce#S##13733
+9#Gas Power Cycle#9.10#Second Law Analysis of an Otto Cycle#ex10.sce#167/CH9/EX9.10/ex10.sce#S##13740
+8#Exergy A Measure of Work Potential#8.8#Exergy change during a compression process#ex8.sce#167/CH8/EX8.8/ex8.sce#S##13874
+8#Exergy A Measure of Work Potential#8.7#Work Potential of compressed air in tank#ex7.sce#167/CH8/EX8.7/ex7.sce#S##13873
+8#Exergy A Measure of Work Potential#8.6#Second law efficiency of resistance heaters#ex6.sce#167/CH8/EX8.6/ex6.sce#S##13819
+8#Exergy A Measure of Work Potential#8.5#Heating potential of a hot iron block#ex5.sce#167/CH8/EX8.5/ex5.sce#S##13818
+8#Exergy A Measure of Work Potential#8.4#Irreversibility during cooling of an iron block#ex4.sce#167/CH8/EX8.4/ex4.sce#S##13817
+8#Exergy A Measure of Work Potential#8.3#The rate of irreversibility of a heat engine#ex3.sce#167/CH8/EX8.3/ex3.sce#S##13816
+8#Exergy A Measure of Work Potential#8.2#Exergy transfer from a furnace#ex2.sce#167/CH8/EX8.2/ex2.sce#S##13815
+8#Exergy A Measure of Work Potential#8.17#Charging of compressed air storage system#ex17.sce#167/CH8/EX8.17/ex17.sce#S##13881
+8#Exergy A Measure of Work Potential#8.16#exergy destroyed during mixing of fluid streams#ex16.sce#167/CH8/EX8.16/ex16.sce#S##13880
+8#Exergy A Measure of Work Potential#8.15#second law analysis of steam turbine#ex15.sce#167/CH8/EX8.15/ex15.sce#S##14420
+8#Exergy A Measure of Work Potential#8.14#Exergy destruction during heat transfer to a gas#ex14.sce#167/CH8/EX8.14/ex14.sce#S##13882
+8#Exergy A Measure of Work Potential#8.13#Dropping of hot iron block in water#ex13.sce#167/CH8/EX8.13/ex13.sce#S##13878
+8#Exergy A Measure of Work Potential#8.12#exergy destroyed during stirring of gas#ex12.sce#167/CH8/EX8.12/ex12.sce#S##13877
+8#Exergy A Measure of Work Potential#8.11#Exergy destruction during expansion of steam#ex11.sce#167/CH8/EX8.11/ex11.sce#S##13876
+8#Exergy A Measure of Work Potential#8.10#Exergy destruction during heat conduction#ex10.sce#167/CH8/EX8.10/ex10.sce#S##13875
+8#Exergy A Measure of Work Potential#8.1#Maximum power generation by wind turbine#ex1.sce#167/CH8/EX8.1/ex1.sce#S##13814
+7#Entropy#7.9#Entropy Change of an Ideal Gas#ex9.sce#167/CH7/EX7.9/ex9.sce#S##13719
+7#Entropy#7.8#Economics of Replacing a Valve by a Turbine#ex8.sce#167/CH7/EX7.8/ex8.sce#S##13718
+7#Entropy#7.7#Effect of Density of a Liquid on Entropy#ex7.sce#167/CH7/EX7.7/ex7.sce#S##13717
+7#Entropy#7.5#Isentropic Expansion of Steam in a Turbine#ex5.sce#167/CH7/EX7.5/ex5.sce#S##13715
+7#Entropy#7.4#Entropy Change during a Constant Pressure Process#ex4.sce#167/CH7/EX7.4/ex4.sce#S##13716
+7#Entropy#7.3#Entropy Change of a Substance in a Tank#ex3.sce#167/CH7/EX7.3/ex3.sce#S##13714
+7#Entropy#7.23#Reducing the Pressure Setting to Reduce Cost#ex23.sce#167/CH7/EX7.23/ex23.sce#S##13732
+7#Entropy#7.22#Energy and Cost Savings by Fixing Air Leaks#ex22.sce#167/CH7/EX7.22/ex22.sce#S##13731
+7#Entropy#7.21#Entropy Generation Associated with Heat Transfer#ex21.sce#167/CH7/EX7.21/ex21.sce#S##13730
+7#Entropy#7.2#Entropy Generation during Heat Transfer Processes#ex2.sce#167/CH7/EX7.2/ex2.sce#S##13713
+7#Entropy#7.19#Entropy Generated when a Hot Block Is Dropped in a Lake#ex19.sce#167/CH7/EX7.19/ex19.sce#S##13729
+7#Entropy#7.18#Entropy Generation during a Throttling Process#ex18.sce#167/CH7/EX7.18/ex18.sce#S##13728
+7#Entropy#7.17#Entropy Generation in a Wall#ex17.sce#167/CH7/EX7.17/ex17.sce#S##13727
+7#Entropy#7.16#Effect of Efficiency on Nozzle Exit Velocity#ex16.sce#167/CH7/EX7.16/ex16.sce#S##13726
+7#Entropy#7.15#Effect of Efficiency on Compressor Power Input#ex15.sce#167/CH7/EX7.15/ex15.sce#S##13725
+7#Entropy#7.14#Isentropic Efficiency of a Steam Turbine#ex14.sce#167/CH7/EX7.14/ex14.sce#S##13724
+7#Entropy#7.13#Work Input for Various Compression Processes#ex13.sce#167/CH7/EX7.13/ex13.sce#S##13723
+7#Entropy#7.12#Compressing a Substance in the Liquid versus Gas Phases#ex12.sce#167/CH7/EX7.12/ex12.sce#S##13722
+7#Entropy#7.11#Isentropic Compression of an Ideal Gas#ex11.sce#167/CH7/EX7.11/ex11.sce#S##13721
+7#Entropy#7.10#Isentropic Compression of Air in a Car Engine#ex10.sce#167/CH7/EX7.10/ex10.sce#S##13720
+7#Entropy#7.1#Entropy Change during an Isothermal Process#ex1.sce#167/CH7/EX7.1/ex1.sce#S##13712
+6#Mass and Energy Analysis of Control Volumes#6.8#Malfunction of a Refrigerator Light Switch#ex8.sce#167/CH6/EX6.8/ex8.sce#S##13692
+6#Mass and Energy Analysis of Control Volumes#6.7#Heating a House by a Carnot Heat Pump#ex7.sce#167/CH6/EX6.7/ex7.sce#S##13691
+6#Mass and Energy Analysis of Control Volumes#6.6#A Questionable Claim for a Refrigerator#ex6.sce#167/CH6/EX6.6/ex6.sce#S##13690
+6#Mass and Energy Analysis of Control Volumes#6.5#Analysis of a Carnot Heat Engine#ex5.sce#167/CH6/EX6.5/ex5.sce#S##13689
+6#Mass and Energy Analysis of Control Volumes#6.4#Heating a House by a Heat Pump#ex4.sce#167/CH6/EX6.4/ex4.sce#S##13688
+6#Mass and Energy Analysis of Control Volumes#6.3#Heat Rejection by a Refrigerator#ex3.sce#167/CH6/EX6.3/ex3.sce#S##13687
+6#Mass and Energy Analysis of Control Volumes#6.2#Fuel Consumption Rate of a Car#ex2.sce#167/CH6/EX6.2/ex2.sce#S##13686
+6#Mass and Energy Analysis of Control Volumes#6.1#Net Power Production of a Heat Engine#ex1.sce#167/CH6/EX6.1/ex1.sce#S##13685
+5#Mass and Energy Analysis of Control Volumes#5.9#Mixing of Hot and Cold Waters in a Shower#ex9.sce#167/CH5/EX5.9/ex9.sce#S##13765
+5#Mass and Energy Analysis of Control Volumes#5.8#Expansion of refrigant 134a in refrigerator#ex8.sce#167/CH5/EX5.8/ex8.sce#S##13764
+5#Mass and Energy Analysis of Control Volumes#5.7#Power generation by steam turbine#ex7.sce#167/CH5/EX5.7/ex7.sce#S##13763
+5#Mass and Energy Analysis of Control Volumes#5.6#Compressing air by compressor#ex6.sce#167/CH5/EX5.6/ex6.sce#S##13762
+5#Mass and Energy Analysis of Control Volumes#5.5#Acceleration of steam in nozzle#ex5.sce#167/CH5/EX5.5/ex5.sce#S##13761
+5#Mass and Energy Analysis of Control Volumes#5.4#Deceleration of air in diffuser#ex4.sce#167/CH5/EX5.4/ex4.sce#S##13760
+5#Mass and Energy Analysis of Control Volumes#5.3#Energy transport by mass#ex3.sce#167/CH5/EX5.3/ex3.sce#S##13771
+5#Mass and Energy Analysis of Control Volumes#5.2#Discharge of water from a tank#ex2.sce#167/CH5/EX5.2/ex2.sce#S##13758
+5#Mass and Energy Analysis of Control Volumes#5.13#Cooking with a pressure cooker#ex13.sce#167/CH5/EX5.13/ex13.sce#S##13769
+5#Mass and Energy Analysis of Control Volumes#5.12#Charging of rigid tank by system#ex12.sce#167/CH5/EX5.12/ex12.sce#S##13768
+5#Mass and Energy Analysis of Control Volumes#5.11#Electric heating of air in house#ex11.sce#167/CH5/EX5.11/ex11.sce#S##13767
+5#Mass and Energy Analysis of Control Volumes#5.10#Cooling of refrigant 134a by water#ex10.sce#167/CH5/EX5.10/ex10.sce#S##13766
+5#Mass and Energy Analysis of Control Volumes#5.1#water flow through garden hose nozzle#ex1.sce#167/CH5/EX5.1/ex1.sce#S##13757
+4#Energy Analysis of Closed Systems#4.8#Heating of a Gas in a Tank by Stirring#ex8.sce#167/CH4/EX4.8/ex8.sce#S##13681
+4#Energy Analysis of Closed Systems#4.7#Evaluation of the du of an Ideal Gas#ex7.sce#167/CH4/EX4.7/ex7.sce#S##13680
+4#Energy Analysis of Closed Systems#4.5#Electric Heating of a Gas at Constant Pressure#ex5.sce#167/CH4/EX4.5/ex5.sce#S##13679
+4#Energy Analysis of Closed Systems#4.4#Expansion of a Gas against a spring#ex4.sce#167/CH4/EX4.4/ex4.sce#S##13656
+4#Energy Analysis of Closed Systems#4.3#Isothermal Compression of an Ideal Gas#ex3.sce#167/CH4/EX4.3/ex3.sce#S##13655
+4#Energy Analysis of Closed Systems#4.2#Boundary Work for a Constant Pressure Process#ex2.sce#167/CH4/EX4.2/ex2.sce#S##13654
+4#Energy Analysis of Closed Systems#4.12#Cooling of an Iron Block by Water#ex12.sce#167/CH4/EX4.12/ex12.sce#S##13684
+4#Energy Analysis of Closed Systems#4.11#Enthalpy of Compressed Liquid#ex11.sce#167/CH4/EX4.11/ex11.sce#S##13683
+4#Energy Analysis of Closed Systems#4.10#Heating of a Gas at Constant Pressure#ex10.sce#167/CH4/EX4.10/ex10.sce#S##13682
+3#Properties of  Pure Substances#3.8#Approximating Compressed Liquid as Saturated Liquid#ex8.sce#167/CH3/EX3.8/ex8.sce#S##13486
+3#Properties of  Pure Substances#3.7#Internal Energy of Superheated Vapor using linear interpolation#ex7.sce#167/CH3/EX3.7/ex7.sce#S##13485
+3#Properties of  Pure Substances#3.5#Properties of Saturated Liquid Vapour Mixture#ex5.sce#167/CH3/EX3.5/ex5.sce#S##13804
+3#Properties of  Pure Substances#3.4#Pressure and Volume of a Saturated Mixture#ex4.sce#167/CH3/EX3.4/ex4.sce#S##13483
+3#Properties of  Pure Substances#3.3#Volume and Energy Change during Evaporation#ex3.sce#167/CH3/EX3.3/ex3.sce#S##13482
+3#Properties of  Pure Substances#3.2#Temperature of Saturated Vapor in a Cylinder#ex2.sce#167/CH3/EX3.2/ex2.sce#S##13481
+3#Properties of  Pure Substances#3.14#Temperature Drop of a Lake Due to Evaporation#ex14.sce#167/CH3/EX3.14/ex14.sce#S##13807
+3#Properties of  Pure Substances#3.13#Different Methods of Evaluating Gas Pressure#ex13.sce#167/CH3/EX3.13/ex13.sce#S##13806
+3#Properties of  Pure Substances#3.12#Using Generalized Charts to Determine Pressure#ex12.sce#167/CH3/EX3.12/ex12.sce#S##13650
+3#Properties of  Pure Substances#3.11#The Use of Generalized Charts#ex11.sce#167/CH3/EX3.11/ex11.sce#S##13649
+3#Properties of  Pure Substances#3.10#Mass of Air in a Room#ex10.sce#167/CH3/EX3.10/ex10.sce#S##13487
+3#Properties of  Pure Substances#3.1#Pressure of Saturated Liquid in a Tank#ex1.sce#167/CH3/EX3.1/ex1.sce#S##13480
+2#Energy Transfer and General Energy Analysis#2.9#Power needs of a car to accelerate#ex9.sce#167/CH2/EX2.9/ex9.sce#S##13790
+2#Energy Transfer and General Energy Analysis#2.8#Power Needs of a Car to Climb a Hill#ex8.sce#167/CH2/EX2.8/ex8.sce#S##13789
+2#Energy Transfer and General Energy Analysis#2.7#Power Transmission by the Shaft of a Car#ex7.sce#167/CH2/EX2.7/ex7.sce#S##13788
+2#Energy Transfer and General Energy Analysis#2.2#Analysis of wind energy#ex2.sce#167/CH2/EX2.2/ex2.sce#S##13871
+2#Energy Transfer and General Energy Analysis#2.19#Heat transfer from a person#ex19.sce#167/CH2/EX2.19/ex19.sce#S##13800
+2#Energy Transfer and General Energy Analysis#2.18#Reducing air pollution by geothermal heating#ex18.sce#167/CH2/EX2.18/ex18.sce#S##13799
+2#Energy Transfer and General Energy Analysis#2.17#Cost Savings Associated with High Efficiency motors#ex17.sce#167/CH2/EX2.17/ex17.sce#S##13798
+2#Energy Transfer and General Energy Analysis#2.16#Performance of hydraulic turbine generator#ex16.sce#167/CH2/EX2.16/ex16.sce#S##13797
+2#Energy Transfer and General Energy Analysis#2.15#Cost of cooking with electric and gas charges#ex15.sce#167/CH2/EX2.15/ex15.sce#S##13872
+2#Energy Transfer and General Energy Analysis#2.13#Annual lighting cost of a classroom#ex13.sce#167/CH2/EX2.13/ex13.sce#S##13794
+2#Energy Transfer and General Energy Analysis#2.12#Heating effect of a fan#ex12.sce#167/CH2/EX2.12/ex12.sce#S##13793
+2#Energy Transfer and General Energy Analysis#2.11#Acceleration of air by fan#ex11.sce#167/CH2/EX2.11/ex11.sce#S##13792
+2#Energy Transfer and General Energy Analysis#2.10#Cooling of hot fluid in tank#ex10.sce#167/CH2/EX2.10/ex10.sce#S##13791
+2#Energy Transfer and General Energy Analysis#2.1#General energy analysis#ex1.sce#167/CH2/EX2.1/ex1.sce#S##13786
+1#Introduction and Basic Concept#1.9#Effect of piston weight on Pressure of Cylinder#ex9.sce#167/CH1/EX1.9/ex9.sce#S##13641
+1#Introduction and Basic Concept#1.8#Measuring Atmospheric Pressure with barometer#ex8.sce#167/CH1/EX1.8/ex8.sce#S##13648
+1#Introduction and Basic Concept#1.7#Measuring pressure with multifluid manomete#ex7.sce#167/CH1/EX1.7/ex7.sce#S##13640
+1#Introduction and Basic Concept#1.6#Measuring Pressure with nanometer#ex6.sce#167/CH1/EX1.6/ex6.sce#S##13127
+1#Introduction and Basic Concept#1.5#Absolute Pressure of a Vacuum Chamber#ex5.sce#167/CH1/EX1.5/ex5.sce#S##13126
+1#Introduction and Basic Concept#1.12#Analyzing a Multifluid Manometer with EES#ex12.sce#167/CH1/EX1.12/ex12.sce#S##13643
+1#Introduction and Basic Concept#1.10#Hydrostatic Pressure in a Solar Pond with Variable Density#ex10.sce#167/CH1/EX1.10/ex10.sce#S##13642
+1#Introduction and Basic Concept#1.1#obtaining formulas for from unit considerations#ex1.sce#167/CH1/EX1.1/ex1.sce#S##13646

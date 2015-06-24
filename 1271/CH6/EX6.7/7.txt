@@ -1,0 +1,1 @@
+ Larmour radius = 6.262500e+05 meter

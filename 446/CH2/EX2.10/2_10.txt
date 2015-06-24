@@ -1,0 +1,3 @@
+  
+ Exa-2.10   
+The time interval between the events is 2.888889e-007 sec which equals 0.29 usec. 

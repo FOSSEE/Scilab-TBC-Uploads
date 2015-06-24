@@ -1,0 +1,15 @@
+ Admittance between buses 1 and 2 = - j4.0736 per unit
+
+ Admittance between buse 1 and reference bus = - j0.8000 per unit
+
+ Admittance between buse 2 and reference bus = - j0.8000 per unit
+
+ I = 0.35 /_-18.43 per unit 
+
+ Power out of source 'a' = 0.492 + j0.164 per unit 
+
+ Power out of source 'b' = 0.492 - j0.164 per unit 
+
+ Reactie voltamperes in circuit equivalent = 0.328 per unit 
+
+ Voltage at node 1 = 1.363 - j0.410 per unit 

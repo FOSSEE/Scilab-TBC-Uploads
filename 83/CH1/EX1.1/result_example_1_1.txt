@@ -1,0 +1,26 @@
+ 
+Maximum Demand= 950.0 kVA 
+
+Loss in switchgear=5.00 % 
+
+Input Demand= 1000.0 kVA 
+
+Cost of switchgear=Rs 60000
+
+Annual charges on depreciation=Rs 7200 
+
+Annual fixed charges due to maximum demand corresponding to triff(b)=Rs 30000 
+
+Annual running cost due to kWh consumed=Rs 199680 
+
+Total charges/annum for tariff(b) = Rs 236880
+
+maximum demand corresponding to tariff(a) = 950 kVA 
+
+Annual fixed charges=Rs 30400 
+
+Annual running charges for kWh consumed = Rs 189696 
+
+Total charges/annum for tariff(a) = Rs 220096 
+
+Therefore, tariff(a) is economical

@@ -1,0 +1,1 @@
+ As power dissipation is lower than power rating the diode will not get destroyed

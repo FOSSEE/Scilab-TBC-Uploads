@@ -1,0 +1,4 @@
+ The different resistors used for the ayrton shunt for different ranges are:   
+R_a = 0.005005 ohm
+R_b = 0.005005 ohm
+R_c = 0.040040 ohm 

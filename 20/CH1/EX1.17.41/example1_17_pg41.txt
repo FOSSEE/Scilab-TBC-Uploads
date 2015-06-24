@@ -1,0 +1,8 @@
+ 
+-->exec('/home/octav/Techpassion_project_updated_3_June/Codes/Chapter_1/code/example1_17_pg41.sce', -1)
+Efficiency at Full load & unity power factor = 98.1 % 
+ Efficiency at Three-fourth the full load & unity power factor = 98.2 %
+ Efficiency at Full load efficiency at 80% power factor = 97.6 %
+ Efficiency at three-fourth load efficiency at 80% power factor = 97.7 %
+  
+-->diary(0);

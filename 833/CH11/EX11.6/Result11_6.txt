@@ -1,0 +1,7 @@
+ (a)Required speed(in r.p.m)=   
+ 
+    11.764172  
+ 
+ (b)Maximum power(in watts)=   
+ 
+    94.023391  

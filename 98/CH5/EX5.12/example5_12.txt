@@ -1,0 +1,18 @@
+(i) High voltage supply
+    Max demand in kVA = 312.50 
+    Considering losses in hv equipment, the capacity is = 325.52 kVA 
+    Annual interest and depreciation = Rs. 1953 
+    Annual charge due to max kVA demand = Rs. 17578 
+    Units consumed/year = 500000 kWh 
+    Annual charge due to kWh consumption = Rs. 25000 
+    Total annual cost = Rs. 44531 
+
+(ii)Low voltage supply
+    Max demand in kVA = 312.50 
+    Annual charge due to max kVA demand = Rs. 18750 
+    Units consumed/year = 480000 kWh 
+    Annual charge due to kWh consumption = Rs. 26400 
+    Total annual cost = Rs. 45150 
+
+Difference in annual costs of two systems = Rs. 619 
+

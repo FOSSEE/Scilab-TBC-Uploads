@@ -1,0 +1,3 @@
+
+Example 4.16
+ Electronic polarizability  is 3.291431e-40 Fm^2

@@ -1,0 +1,9 @@
+ Inductive reactance = 0.365 ohm/km/phase 
+
+
+
+ Base Impedance = 1190 ohm 
+
+
+
+ Per unit series resistance of the line = 0.049 per unit 

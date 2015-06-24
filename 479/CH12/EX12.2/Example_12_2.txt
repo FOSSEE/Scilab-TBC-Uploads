@@ -1,0 +1,2 @@
+For example 12.2, the answer given in the book is 71.5 Kcal/Kgmole.
+but i am getting -164.797 Kcal/Kgmole.There may be some calculation mistake in the book.

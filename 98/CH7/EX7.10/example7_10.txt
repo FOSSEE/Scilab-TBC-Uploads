@@ -1,0 +1,21 @@
+Resistance of one conductor = 0.176/a ohm 
+
+Line voltage = 110000 V 
+
+Current at 20 MW = 131.22 A 
+
+Current at 5 MW = 32.80 A 
+
+Current at 6 MW = 39.36 A 
+
+Energy lost per day in  three phase line = 66.27/a kWh 
+
+Energy lost per annum = 24189.55/a kWh 
+
+Annual cost of energy lost = Rs. 1451.37/a 
+
+Variable annual charge = Rs. 600*a 
+
+Area of cross section = 1.56 cm^2 
+
+

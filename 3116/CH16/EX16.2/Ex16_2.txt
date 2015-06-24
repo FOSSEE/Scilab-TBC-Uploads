@@ -1,0 +1,8 @@
+  Example 16.2
+
+ Part A
+  Rate of oxidation with zinc is 1.19e-04 A/cm^2
+  Rate of oxidation is 6.17e-10 mol/cm^2-s
+
+ Part B
+ Corrosion potential is -0.486 V

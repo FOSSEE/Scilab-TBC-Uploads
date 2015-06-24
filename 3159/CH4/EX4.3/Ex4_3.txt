@@ -1,0 +1,3 @@
+ Example 4.3
+ 694 kJ should be the enthalpy of atomization of diamond
+ However, 694 kJ is very close to 713 kJ .

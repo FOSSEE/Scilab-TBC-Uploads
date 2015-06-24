@@ -1,0 +1,6 @@
+ # PROBLEM 7 # 
+Standard formula used 
+ del_x*del_p = h/(4*pi) 
+ p = (2 * m * E * e)^(1/2) 
+
+ Minimum energy of electron is 5.428416e-19 J.

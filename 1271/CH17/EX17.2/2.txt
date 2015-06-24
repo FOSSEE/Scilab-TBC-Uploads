@@ -1,0 +1,5 @@
+ # PROBLEM 2 # 
+Standard formula used 
+n_c = 2*(2*pi*m*k*T/h^2)^(3/2) * e^(E_f-E_c)/kT 
+
+ Position of fermi level is 0.159467 eV.

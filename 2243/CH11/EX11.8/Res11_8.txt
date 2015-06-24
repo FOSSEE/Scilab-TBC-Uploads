@@ -1,0 +1,3 @@
+ For Germanium , n/N = 9.7 x 10^-7
+For Silicon , n/N = 6.5 x 10^-10
+For diamond, n/N = 1.7 x 10^-47 

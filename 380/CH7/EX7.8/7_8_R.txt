@@ -1,0 +1,7 @@
+ synchronous reactance per phase (in ohms)=   
+ 
+    8.8385729  
+ 
+ voltage regulation (%)=   
+ 
+    66.680294 

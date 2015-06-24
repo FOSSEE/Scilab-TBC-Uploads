@@ -1,0 +1,6 @@
+ # PROBLEM 3.1 # 
+
+ The final srip thickness is 4.800000 mm, 
+ The avg shear yield stress during the process is 0.375000 KN/mm^2, 
+ The angle subtended by the deformation zone at the roll centre is 0.077460 rad, 
+ The location of neutral point is 0.022685 rad. 

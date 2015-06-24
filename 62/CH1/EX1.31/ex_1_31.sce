@@ -1,0 +1,31 @@
+clear;
+close;
+clc;
+t=-10:0.1:10;
+a=2;
+//x(t)=u(t)-u(t-a)
+x=[zeros(1,find(t==0)-1) ones(1,find(t==a)-find(t==0)+1) zeros(1,length(t)-find(t==a))];
+subplot(2,1,1)
+plot(t,x)
+xtitle('x(t)','t')
+subplot(2,1,2)
+plot2d3(t(1:$-1),diff(x))
+xtitle('diff(x(t))','t')
+//x(t)=t*(u(t)-u(t-a))
+xb=t.*x;
+figure
+subplot(2,1,1)
+plot(t,xb)
+xtitle('x(t)','t')
+subplot(2,1,2)
+plot2d(t(1:$-1),diff(xb))
+xtitle('diff(x(t))','t')
+//x(t)=sgn(t)
+x=[-ones(1,find(t==0)-1) ones(1,length(t)-find(t==0)+1)];
+figure
+subplot(2,1,1)
+plot(t,x)
+xtitle('x(t)','t')
+subplot(2,1,2)
+plot2d(t(1:$-1),diff(x))
+xtitle('diff(x(t))','t')

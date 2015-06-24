@@ -1,0 +1,8 @@
+**Sample Problem 24-6a**
+Electric field on the left of the sheets is equal to -1.412429e+005N/C
+
+**Sample Problem 24-6b**
+Field in between is equal to 6.271186e+005N/C
+
+**Sample Problem 24-6c**
+Field in between is equal to 1.412429e+005N/C

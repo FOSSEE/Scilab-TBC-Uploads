@@ -1,0 +1,2 @@
+ Input volatge = 41 V , Iz = 4 mA
+Load resistance = 4k ohm , Iz = 4.5 mA 

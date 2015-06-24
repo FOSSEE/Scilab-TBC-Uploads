@@ -1,0 +1,7 @@
+(i) Average daily discharge = 713 m^3/sec 
+
+(ii) Pondage required = 49507200 m^3 
+
+(iii) Installed capacity of the plant = 223 MW 
+
+

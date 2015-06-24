@@ -1,0 +1,17 @@
+clear;
+clc;
+R=10;C=0.04*(10^-6);L=0;G=0;f=1000;l=100*(10^-3);r=12;d=0.9;
+w=2*%pi*f;
+a=sqrt(w*C*R/2);
+b=sqrt(w*C*R/2);
+Vp=(w/b)*10^-5;
+printf("-Phase velocity before loading = %f * 10^5 km/sec\n",fix(Vp*10)/10);
+Rc=R+(r/d);
+Lc=L+(l/d);
+al=((Rc/2)*sqrt(C/Lc))+((G/2)*sqrt(Lc/C));
+Vpl=(1/(sqrt(Lc*C)))*10^-4;
+printf("-Phase velocity after loading = %f * 10^4 km/sec\n",Vpl);
+A=a-al;
+printf("-Decrease in attenuation = %f neper/km\n",round(A*10000)/10000);
+Fc=1/(%pi*(sqrt(Lc*C*d)));
+printf("-Cutoff frequency = %f kHz",round(Fc*(10^-3)*1000)/1000);

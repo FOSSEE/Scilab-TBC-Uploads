@@ -1,0 +1,44 @@
+//clc()
+x = 10;//cm
+L = 0.0835;
+t1 = 5;
+//for first step t = 5 is applied to nodes (1,1) , (1,2) and (1,3) to yield following matrices
+A = [2.167,-0.0835,0;-0.0835,2.167,-0.0835;0,-0.0835,2.167];
+B = [6.2625;6.2625;14.6125];
+X = inv(A)*B;
+disp("At t = 5 s")
+disp(det(X(1,1)),"T11 = ")
+disp(det(X(2,1)),"T12 = ")
+disp(det(X(3,1)),"T13 = ")
+//similarly we get,
+T21 = 0.1274;
+T22 = 0.2900;
+T23 = 4.1291;
+T31 = 2.0181;
+T32 = 2.2477;
+T33 = 6.0256;
+disp(T21,"T21 = ")
+disp(T22,"T22 = ")
+disp(T23,"T23 = ")
+disp(T31,"T31 = ")
+disp(T32,"T32 = ")
+disp(T33,"T33 = ")
+C = [13.0639;0.2577;8.0619];
+Y = inv(A)*C;
+disp("At t = 10 s")
+disp(det(Y(1,1)),"T11 = ")
+disp(det(Y(2,1)),"T12 = ")
+disp(det(Y(3,1)),"T13 = ")
+//similarly we get,
+T21 = 6.1683;
+T22 = 0.8238;
+T23 = 4.2359;
+T31 = 13.1120;
+T32 = 8.3207;
+T33 = 11.3606;
+disp(T21,"T21 = ")
+disp(T22,"T22 = ")
+disp(T23,"T23 = ")
+disp(T31,"T31 = ")
+disp(T32,"T32 = ")
+disp(T33,"T33 = ")

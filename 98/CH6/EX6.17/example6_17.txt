@@ -1,0 +1,11 @@
+Energy consumed per year = 80000 kWh
+Max kVA demand = 500 
+Annual cost of supply = Rs. 62000 
+Max kW demand at 0.707 pf = 353.50 
+Leading kVAR taken by phase advancing equipment = 182.4 kVAR 
+Annual cost of phase advancing equipment = Rs. 912 
+Max kW demand at 0.900 pf = 392.78 
+Reduction in kVA demand = 107.2 
+Annual saving in kVA charges = Rs. 12867 
+Annual saving = Rs. 11955 
+

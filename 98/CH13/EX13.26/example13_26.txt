@@ -1,0 +1,5 @@
+Voltage at the load end on the +ve side = 243 V 
+
+Voltage at the load end on the -ve side = 248 V 
+
+

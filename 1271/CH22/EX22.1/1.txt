@@ -1,0 +1,3 @@
+# PROBLEM 1 # 
+
+ The ratio of the value of Nb/Ns of spherical particle and nanoparticle = 7.500000e-03 .

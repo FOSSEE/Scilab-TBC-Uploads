@@ -1,0 +1,24 @@
+(a)Z,X,R(in ohms)=   
+ 
+    25.  
+ 
+    24.494897  
+ 
+    5.  
+ 
+ (b)Regulation on full load on high voltage side(in volts)=   
+ 
+    373.93877  
+ 
+ Regulation on full load on low volrage side(in volts)=   
+ 
+    14.957551  
+ 
+ (c)Terminal voltage on low voltage side on full load(in volts)=   
+ 
+    425.04245  
+ 
+ (d)Efficiency of transformer(in%)=   
+ 
+    97.023153  
+ 

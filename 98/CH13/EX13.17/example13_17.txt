@@ -1,0 +1,7 @@
+(i) Total current supplied by distributor = 1250 A 
+
+Total resistance of the distributor = 0.1 ohm 
+
+Maximum voltage drop = 15.62 V 
+
+

@@ -1,0 +1,2 @@
+**Sample Problem 44-5**
+The rate at which hydrogen is consumed is 6.202857e+011kg/s

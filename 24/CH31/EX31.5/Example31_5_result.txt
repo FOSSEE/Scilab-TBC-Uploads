@@ -1,0 +1,5 @@
+**Sample Problem 31-5a**
+The current as soon as qwitch is closed is equal to 2.00A
+
+**Sample Problem 31-5b**
+The current through the battery after long time will be 6.00A

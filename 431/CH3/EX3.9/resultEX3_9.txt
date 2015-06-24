@@ -1,0 +1,8 @@
+Example 3.9   
+V1=239V
+Im=0.966575A
+V2=719.280000V 
+ At a load of 1.2kVA and power factor of 0.8 lagging   
+
+I1=5.825933A
+primary power factor=0.844673lagging 

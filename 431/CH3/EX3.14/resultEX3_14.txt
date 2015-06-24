@@ -1,0 +1,4 @@
+ Example 3.14   
+Primary winding resistance referred to secondary side=0.268000ohms
+secondary winding resistance referred to primary side=0.058250ohms
+Total resistance of the transformer refferred to primary side=1.200000ohms 

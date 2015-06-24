@@ -1,0 +1,19 @@
+clc;
+clear;
+dia1=16;//mm
+h=30;//mm
+dia2=5;//mm
+Q=0.6;//litre/sec
+mass=0.1;//kg
+p1=464;//kPa
+d=999;//kg/m^3
+m=d*Q/1000;//kg/s
+A1=%pi*((dia1/1000)^2)/4;//m^2
+w1=Q/(A1*1000);//m/s
+A2=%pi*((dia2/1000)^2)/4;//m^2
+w2=Q/(A2*1000);//m/s
+Wnozzle=mass*9.81;//N
+volwater=((1/12)*(%pi)*(h)*((dia1^2)+(dia2^2)+(dia1*dia2)))/(1000^3);//m^3
+Wwater=d*volwater*9.81;//N
+F=m*(w1-w2)+Wnozzle+(p1*1000*A1)+Wwater;//N
+disp("N",F,"The anchoring force=")

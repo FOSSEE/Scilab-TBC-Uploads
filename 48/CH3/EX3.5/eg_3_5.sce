@@ -1,0 +1,11 @@
+clear;
+clc;
+disp("T(A,B,C,D)=A^C^+ABD+BC^D+AB^D^+ABCD^");
+disp("Assume A^=x , C^=y , BD=z");
+disp("Now from consensus theorem for the first three terms");
+disp("BC^D is the redundant term so it can be removed");
+disp("T(A,B,C,D)=A^C^+ABD+AB^D^+ABCD^");
+disp("T(A,B,C,D)=A^C^+ABD+AD^(B^+BC)");
+disp("we know that a+a^b=a+b");
+disp("T(A,B,C,D)=A^C^+ABD+AD^(B^+C)");
+disp("T(A,B,C,D)=A^C^+A(BD+D^(B^+C))");

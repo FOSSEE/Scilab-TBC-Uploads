@@ -1,0 +1,4 @@
+ # PROBLEM 4.10 # 
+ 
+ Avg power consumption = 220 W,
+ Specific power consumption when hardness of the workpiece is 180 BHN = 298 W. 

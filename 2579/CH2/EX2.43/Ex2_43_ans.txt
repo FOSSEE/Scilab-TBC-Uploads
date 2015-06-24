@@ -1,0 +1,6 @@
+The radiation resistance of the anteenna = 3.509193 ohm
+ The effective aperture, Ae=0.1196*y^2, where y is wavelength
+ The directivity = 1.502938
+ The gain of the dipole = 1.052884
+ The terminal resistance = 5 ohm
+ The beam solid angle = 8.361204 sreradian 

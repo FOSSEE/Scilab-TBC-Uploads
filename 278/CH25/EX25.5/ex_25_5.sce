@@ -1,0 +1,29 @@
+//find..
+clc
+//solution
+//given
+de=650//mm
+re=0.325//m
+d=1//m
+r=0.500//mm
+n=4
+q=(%pi/180)*22.5
+m=2000//kg
+v=2.5//m/s
+h=2.75//m
+u=0.2
+g=9.81//m/s^2
+pb=0.3//N/mm^2
+acc=v^2/(2*h)//m/s^2
+fc=m*acc//N
+W=(2000*9.81)+fc//N
+T=W*re//N-m
+Ftt=T/r//N
+Ft=Ftt/4//N
+Rn=Ft/0.2//N
+//Ab=w*(2*r*sin(q))=382.7*w//mm^2
+//pb=W/Ab
+w=Rn/(0.3*382.7)//mm
+printf("width of side is ,%f mm\n",w)
+TE=(0.5*m*v^2)+(m*g*h)
+printf("heat generated is,%f N-m\n",TE)

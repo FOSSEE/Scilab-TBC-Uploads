@@ -1,0 +1,2 @@
+* Voltage at non-inverting terminal is = 1 V 
+* Output voltage is = 3 V

@@ -1,0 +1,5 @@
+Number of units at which charges due to both tariffs become equal = 666.67 units 
+
+Tariff (a) is economical if consumption is more than 666.67 units 
+
+

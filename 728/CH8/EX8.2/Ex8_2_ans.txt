@@ -1,0 +1,12 @@
+Input rms voltage (in volts) =   
+ 
+    12.247449  
+ 
+ Output rms voltage (in volts) =   
+ 
+    68.886812  
+ 
+ Power delivered to load (in watts) =   
+ 
+    0.2372696  
+ 

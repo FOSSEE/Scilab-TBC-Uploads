@@ -1,0 +1,71 @@
+-->//(Friction Clutches) Example 11.12
+ 
+-->//Power transmitting capacity of the centrifugal clutch kW
+ 
+-->kW = 20
+ kW  =
+ 
+    20.  
+ 
+-->//Number of revolutions of the clutch per minute n2 (rpm)
+ 
+-->n2 = 750
+ n2  =
+ 
+    750.  
+ 
+-->//Number of revolutions of the clutch per minute
+ 
+-->//at the time of engagment n1 (rpm)
+ 
+-->n1 = 500
+ n1  =
+ 
+    500.  
+ 
+-->//Inner radius of the drum rd (mm)
+ 
+-->rd = 165
+ rd  =
+ 
+    165.  
+ 
+-->//Radius of the centre of gravity of the shoes rg (mm)
+ 
+-->rg = 140
+ rg  =
+ 
+    140.  
+ 
+-->//Coefficient of friction mu
+ 
+-->mu = 0.3
+ mu  =
+ 
+    0.3  
+ 
+-->//Permissible pressure on friction lining Pa (MPa)
+ 
+-->Pa = 0.1
+ Pa  =
+ 
+    0.1  
+ 
+-->//Number of shoes z
+ 
+-->z = 4
+ z  =
+ 
+    4.  
+ 
+
+Results
+
+Mass of each shoe(m) = 2.680647 kg
+
+Dimensions of friction lining are as follows:
+
+Contact length of friction lining with drum(l) = 201.585529 mm
+
+Width of friction lining(b) = 63.799250 mm
+ 

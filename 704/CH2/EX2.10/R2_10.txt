@@ -1,0 +1,4 @@
+ increase in main field flux of the dc machine=   
+ 
+    21.753247  
+ 

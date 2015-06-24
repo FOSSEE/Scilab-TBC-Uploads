@@ -1,0 +1,2 @@
+**Sample Problem 41-1**
+The atoms have been deflected 7.850889e-005 m 

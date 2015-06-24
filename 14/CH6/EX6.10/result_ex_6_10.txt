@@ -1,0 +1,15 @@
+ Base Voltages in different parts of circuit   
+
+ Generator voltage = 20 kV
+ Line voltage = 230 kV
+ Motor voltage = 13.8 kV 
+
+
+ 
+ Base reactance in different parts of circuit   
+
+ Transformer 1 reactance = 0.0857 per unit
+ Transformer 2 reactance = 0.0956 per unit
+ Line reactance = 0.1815 per unit
+ Motor 1 reactance = 0.2744 per unit
+ Motor 2 reactance = 0.5488 per unit 

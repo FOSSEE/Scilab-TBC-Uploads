@@ -1,0 +1,3 @@
+ input voltage(in V)=   
+ 
+    2.5  

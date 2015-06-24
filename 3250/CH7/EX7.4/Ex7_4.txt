@@ -1,0 +1,3 @@
+ # PROBLEM 7.4 # 
+
+ The time required to develop the PMMA resist = 157 min 

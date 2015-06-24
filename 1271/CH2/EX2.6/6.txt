@@ -1,0 +1,2 @@
+﻿
+ Radius of first ,second and third half period zone = 7.676588e-04,1.329624e-03 and 1.716537e-03 meter. 

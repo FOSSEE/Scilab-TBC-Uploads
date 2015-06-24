@@ -1,0 +1,4 @@
+Example 10.2
+
+ The tensile strength is read directly from the curve for copper(figure 10.9b) 
+ as 340 MPa From figure 10.19c, the Ductility at 35.6 CW is about 7% EL. 

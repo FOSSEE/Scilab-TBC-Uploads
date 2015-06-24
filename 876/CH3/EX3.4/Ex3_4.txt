@@ -1,0 +1,4 @@
+sensitivity of LVDT(in volt per micro meter)=   
+ 
+    2.  
+ 

@@ -1,0 +1,2 @@
+Output voltage is 9.2 Volts
+Power dissipation is 1.33 Watts

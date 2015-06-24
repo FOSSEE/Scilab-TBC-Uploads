@@ -1,0 +1,11 @@
+GRADED CABLE: 
+d1 = 2.50 cm 
+d2 = 3.33 cm 
+Permissible peak voltage for the cable = 81.674 kV 
+Safe working rms voltage for the cable = 57.753 kV 
+
+UNGRADED CABLE: 
+Permissible peak voltage for the cable = 55.452 kV 
+Safe working rms voltage for the cable = 39.210 kV 
+
+

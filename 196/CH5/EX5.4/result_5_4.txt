@@ -1,0 +1,3 @@
+Zener Current = 0.0050 A
+
+Zener Voltage = 5.3000 V 

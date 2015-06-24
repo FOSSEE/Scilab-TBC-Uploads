@@ -1,0 +1,3 @@
+ Probability of error is    
+ 
+    0.0006363  

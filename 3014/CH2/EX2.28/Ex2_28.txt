@@ -1,0 +1,6 @@
+
+
+Example 2.28
+ For state:1  Energy is 37.737723 eV & wavelength is 2.000000 angstrom 
+ For state:2  Energy is 150.950893 eV & wavelength is 1.000000 angstrom 
+ For state:3  Energy is 339.639509 eV & wavelength is 0.666667 angstrom 

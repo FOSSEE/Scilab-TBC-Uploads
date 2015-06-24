@@ -1,0 +1,12 @@
+ Flexural Strength (in N/sqmm) =    
+ 
+    18.333333  
+ 
+ Shear Strength (in N/sqmm) =    
+ 
+    0.0833333  
+ 
+ Modulous of Rupture (in N/sqmm) =    
+ 
+    25.666667  
+ 

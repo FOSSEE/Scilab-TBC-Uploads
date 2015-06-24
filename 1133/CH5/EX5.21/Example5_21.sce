@@ -1,0 +1,16 @@
+//Example 5.21
+clc
+disp("Fig. 5.40 shows 3 to 8 line decoder. Here, 3 inputs are decoded into eight outputs, each output represent one of the minterms of the 3 input variables. The three inverters provide the complement of the inputs, and each one of the eight AND gates generates one of the minterms. Enable input is provided to activate decoded output based on data inputs A, B and C. The table shows the truth table for 3 to 8 decoder.")
+disp("")
+disp("Truth table for a 3 to 8 decoder")
+disp("   Inputs    |             Outputs")
+disp("EN  A  B  C  |  Y7  Y6  Y5  Y4  Y3  Y2  Y1  Y0")
+disp("0   X  X  X  |  0   0   0   0   0   0   0   0")
+disp("1   0  0  0  |  0   0   0   0   0   0   0   1")
+disp("1   0  0  1  |  0   0   0   0   0   0   1   0")
+disp("1   0  1  0  |  0   0   0   0   0   1   0   0")
+disp("1   0  1  1  |  0   0   0   0   1   0   0   0")
+disp("1   1  0  0  |  0   0   0   1   0   0   0   0")
+disp("1   1  0  1  |  0   0   1   0   0   0   0   0")
+disp("1   1  1  0  |  0   1   0   0   0   0   0   0")
+disp("1   1  1  1  |  1   0   0   0   0   0   0   0")

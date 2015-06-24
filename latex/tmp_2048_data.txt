@@ -1,0 +1,168 @@
+14#State Space Techniques in Controller Design#14.4#Kalman filter example of estimating a constant#kal_ex.sci#2048/CH14/EX14.4/kal_ex.sci#S##100751
+14#State Space Techniques in Controller Design#14.3#Kalman filter example of estimating a constant#kalrun.sce#2048/CH14/EX14.3/kalrun.sce#S##100750
+14#State Space Techniques in Controller Design#14.2#Compensator calculation#ex_comp.sce#2048/CH14/EX14.2/ex_comp.sce#S##100749
+14#State Space Techniques in Controller Design#14.1#Pole placement controller for inverted pendulum#pend.sce#2048/CH14/EX14.1/pend.sce#S##100748
+13#Linear Quadratic Gaussian Control#13.9#Performance curve for LQG control design of viscosity problem#lqg_visc_loop.sce#2048/CH13/EX13.9/lqg_visc_loop.sce#S##107392
+13#Linear Quadratic Gaussian Control#13.8#LQG control design#lqg_as1.sce#2048/CH13/EX13.8/lqg_as1.sce#S##100747
+13#Linear Quadratic Gaussian Control#13.7#Simplified LQG control design#lqg_simple.sci#2048/CH13/EX13.7/lqg_simple.sci#S##100746
+13#Linear Quadratic Gaussian Control#13.6#LQG control design for viscosity control problem#lqg_visc.sce#2048/CH13/EX13.6/lqg_visc.sce#S##100745
+13#Linear Quadratic Gaussian Control#13.5#LQG design#lqg_mac1.sce#2048/CH13/EX13.5/lqg_mac1.sce#S##100744
+13#Linear Quadratic Gaussian Control#13.4#LQG control design by polynomial method#lqg1.sci#2048/CH13/EX13.4/lqg1.sci#S##100743
+13#Linear Quadratic Gaussian Control#13.3#Spectral factorization#specfac.sci#2048/CH13/EX13.3/specfac.sci#S##100741
+13#Linear Quadratic Gaussian Control#13.2#Function to implement spectral factorization#spec1.sci#2048/CH13/EX13.2/spec1.sci#S##100740
+13#Linear Quadratic Gaussian Control#13.10#Performance curve for GMVC design of first control problem by MacGregor#gmv_mac1_loop.sce#2048/CH13/EX13.10/gmv_mac1_loop.sce#S##107393
+13#Linear Quadratic Gaussian Control#13.1#Spectral factorization#spec_ex.sce#2048/CH13/EX13.1/spec_ex.sce#S##100739
+12#Model Predictive Control#12.9#Calculates the GPC law#gpc_Nc.sci#2048/CH12/EX12.9/gpc_Nc.sci#S##100521
+12#Model Predictive Control#12.8#GPC design#gpc_wtc.sce#2048/CH12/EX12.8/gpc_wtc.sce#S##100520
+12#Model Predictive Control#12.7#GPC design for viscosity control#gpc_ex2.sce#2048/CH12/EX12.7/gpc_ex2.sce#S##100519
+12#Model Predictive Control#12.6#Calculates the GPC law#gpc_col.sci#2048/CH12/EX12.6/gpc_col.sci#S##100518
+12#Model Predictive Control#12.5#Calculates the GPC law#gpc_N.sci#2048/CH12/EX12.5/gpc_N.sci#S##100517
+12#Model Predictive Control#12.4#GPC design#gpc_wt.sce#2048/CH12/EX12.4/gpc_wt.sce#S##100516
+12#Model Predictive Control#12.3#GPC design for the problem discussed on page 441#gpc_ex12.sce#2048/CH12/EX12.3/gpc_ex12.sce#S##100515
+12#Model Predictive Control#12.2#Calculates the GPC law#gpc_bas.sci#2048/CH12/EX12.2/gpc_bas.sci#S##100514
+12#Model Predictive Control#12.11#Predictive PID tuned with GPC#gpc_pid.sci#2048/CH12/EX12.11/gpc_pid.sci#S##100537
+12#Model Predictive Control#12.10#PID controller tuned with GPC#gpc_pid_test.sce#2048/CH12/EX12.10/gpc_pid_test.sce#S##100522
+12#Model Predictive Control#12.1#Model derivation for GPC design #gpc_ex11.sce#2048/CH12/EX12.1/gpc_ex11.sce#S##100513
+11#Minimum Variance Control#11.9#Minimum variance control for nonminimum phase systems#mv_nm.sci#2048/CH11/EX11.9/mv_nm.sci#S##98964
+11#Minimum Variance Control#11.8#Computing sum of squares#sumsq.sce#2048/CH11/EX11.8/sumsq.sce#S##98963
+11#Minimum Variance Control#11.7#Cancellation of common factors and determination of covariance#tfvar.sci#2048/CH11/EX11.7/tfvar.sci#S##98962
+11#Minimum Variance Control#11.6#Calculation of closed loop transfer functions#cl.sci#2048/CH11/EX11.6/cl.sci#S##98916
+11#Minimum Variance Control#11.5#Minimum variance control law design#mv.sci#2048/CH11/EX11.5/mv.sci#S##98915
+11#Minimum Variance Control#11.4#1st control problem by MacGregor #mv_mac1.sce#2048/CH11/EX11.4/mv_mac1.sce#S##107387
+11#Minimum Variance Control#11.4#1st control problem by MacGregor #u1_mv_mac1.png#2048/CH11/EX11.4/u1_mv_mac1.png#R##107388
+11#Minimum Variance Control#11.4#1st control problem by MacGregor #y1_mv_mac1.png#2048/CH11/EX11.4/y1_mv_mac1.png#R##107389
+11#Minimum Variance Control#11.4#1st control problem by MacGregor #stb_disc.xcos#2048/CH11/EX11.4/stb_disc.xcos#X##107390
+11#Minimum Variance Control#11.3#Solution of Aryabhatta identity#pm_10.sce#2048/CH11/EX11.3/pm_10.sce#S##98876
+11#Minimum Variance Control#11.2#Recursive computation of Ej and Fj for the system presented in Example#recursion_ex1.sce#2048/CH11/EX11.2/recursion_ex1.sce#S##98859
+11#Minimum Variance Control#11.17#PID tuning through GMVC law#gmvc_pid.sci#2048/CH11/EX11.17/gmvc_pid.sci#S##100400
+11#Minimum Variance Control#11.16#Value of polynomial p evaluated at x#filtval.sci#2048/CH11/EX11.16/filtval.sci#S##99398
+11#Minimum Variance Control#11.15#PID tuning through GMVC law#miller.sce#2048/CH11/EX11.15/miller.sce#S##99397
+11#Minimum Variance Control#11.14#GMVC design of viscosity problem#gmv_visc.sce#2048/CH11/EX11.14/gmv_visc.sce#S##99396
+11#Minimum Variance Control#11.13#GMVC design of first example by MacGregor#gmv_mac1.sce#2048/CH11/EX11.13/gmv_mac1.sce#S##99395
+11#Minimum Variance Control#11.12#General minimum variance controller design#gmv.sci#2048/CH11/EX11.12/gmv.sci#S##99394
+11#Minimum Variance Control#11.11#Minimum variance control of viscosity control problem#mv_visc.sce#2048/CH11/EX11.11/mv_visc.sce#S##99148
+11#Minimum Variance Control#11.10#Minimum variance control for nonminimum phase example#ast_12p9.sce#2048/CH11/EX11.10/ast_12p9.sce#S##98965
+11#Minimum Variance Control#11.1#Recursive computation of Ej and Fj#recursion.sci#2048/CH11/EX11.1/recursion.sci#S##98858
+10#Special Cases of Pole Placement Control#10.9# Design of conventional controller which is an equivalent of internal model controller#imc_stable.sci#2048/CH10/EX10.9/imc_stable.sci#S##98087
+10#Special Cases of Pole Placement Control#10.8#IMC design for an example by Lewin#lewin_imc1.sce#2048/CH10/EX10.8/lewin_imc1.sce#S##98082
+10#Special Cases of Pole Placement Control#10.7#IMC design for the control of van de Vusse reactor#vande_imc1.sce#2048/CH10/EX10.7/vande_imc1.sce#S##97979
+10#Special Cases of Pole Placement Control#10.6#IMC design for viscosity control problem#visc_imc1.sce#2048/CH10/EX10.6/visc_imc1.sce#S##97978
+10#Special Cases of Pole Placement Control#10.5# Flipping a vector#flip.sci#2048/CH10/EX10.5/flip.sci#S##107380
+10#Special Cases of Pole Placement Control#10.4#Design of internal model controller#imc_stable1.sci#2048/CH10/EX10.4/imc_stable1.sci#S##97977
+10#Special Cases of Pole Placement Control#10.3#Splitting a polynomial B#imcsplit.sci#2048/CH10/EX10.3/imcsplit.sci#S##97976
+10#Special Cases of Pole Placement Control#10.2#Smith predictor for paper machine control#smith.sce#2048/CH10/EX10.2/smith.sce#S##107383
+10#Special Cases of Pole Placement Control#10.2#Smith predictor for paper machine control#u1_smith_disc.png#2048/CH10/EX10.2/u1_smith_disc.png#R##107384
+10#Special Cases of Pole Placement Control#10.2#Smith predictor for paper machine control#y1_smith_disc.png#2048/CH10/EX10.2/y1_smith_disc.png#R##107385
+10#Special Cases of Pole Placement Control#10.2#Smith predictor for paper machine control#smith_disc.xcos#2048/CH10/EX10.2/smith_disc.xcos#X##107386
+10#Special Cases of Pole Placement Control#10.10#Design of conventional controller for van de Vusse reactor problem#vande_imc.sce#2048/CH10/EX10.10/vande_imc.sce#S##98088
+10#Special Cases of Pole Placement Control#10.1#Effect of delay in control performance#delay.sce#2048/CH10/EX10.1/delay.sce#S##107381
+10#Special Cases of Pole Placement Control#10.1#Effect of delay in control performance#stb_disc.xcos#2048/CH10/EX10.1/stb_disc.xcos#X##107382
+9#Pole Placement Controllers#9.9#Pole placement controller with internal model of a step for the magnetically suspended ball problem#ball_im.sce#2048/CH9/EX9.9/ball_im.sce#S##97750
+9#Pole Placement Controllers#9.9#Pole placement controller with internal model of a step for the magnetically suspended ball problem#y1_c_ss_cl.png#2048/CH9/EX9.9/y1_c_ss_cl.png#R##97747
+9#Pole Placement Controllers#9.9#Pole placement controller with internal model of a step for the magnetically suspended ball problem#u1_c_ss_cl.png#2048/CH9/EX9.9/u1_c_ss_cl.png#R##97748
+9#Pole Placement Controllers#9.9#Pole placement controller with internal model of a step for the magnetically suspended ball problem#c_ss_cl.xcos#2048/CH9/EX9.9/c_ss_cl.xcos#X##97757
+9#Pole Placement Controllers#9.8#Pole placement controller using internal model principle#pp_im.sci#2048/CH9/EX9.8/pp_im.sci#S##96899
+9#Pole Placement Controllers#9.7#Simulation of closed loop system with an unstable controller#stb_disc.xcos#2048/CH9/EX9.7/stb_disc.xcos#X##97755
+9#Pole Placement Controllers#9.7#Simulation of closed loop system with an unstable controller#y1_stb_disc.png#2048/CH9/EX9.7/y1_stb_disc.png#R##97743
+9#Pole Placement Controllers#9.7#Simulation of closed loop system with an unstable controller#u1_stb_disc.png#2048/CH9/EX9.7/u1_stb_disc.png#R##97744
+9#Pole Placement Controllers#9.7#Simulation of closed loop system with an unstable controller#unstb.sce#2048/CH9/EX9.7/unstb.sce#S##96822
+9#Pole Placement Controllers#9.7#Simulation of closed loop system with an unstable controller#basic_disc.xcos#2048/CH9/EX9.7/basic_disc.xcos#X##97756
+9#Pole Placement Controllers#9.6#Evaluates z to the power k#zpowk.sci#2048/CH9/EX9.6/zpowk.sci#S##96820
+9#Pole Placement Controllers#9.5#Design of 2 DOF pole placement controller#pp_basic.sci#2048/CH9/EX9.5/pp_basic.sci#S##96819
+9#Pole Placement Controllers#9.4#Calculation of desired closed loop characteristic polynomial#desired.sci#2048/CH9/EX9.4/desired.sci#S##96818
+9#Pole Placement Controllers#9.3#Procedure to split a polynomial into good and bad factors#polsplit2.sci#2048/CH9/EX9.3/polsplit2.sci#S##96817
+9#Pole Placement Controllers#9.22#PD control law from polynomial coefficients#pd.sci#2048/CH9/EX9.22/pd.sci#S##97100
+9#Pole Placement Controllers#9.21#DC motor with PID control tuned through pole placement technique#motor_pd.sce#2048/CH9/EX9.21/motor_pd.sce#S##97099
+9#Pole Placement Controllers#9.21#DC motor with PID control tuned through pole placement technique#u1_g_s_cl2.png#2048/CH9/EX9.21/u1_g_s_cl2.png#R##107376
+9#Pole Placement Controllers#9.21#DC motor with PID control tuned through pole placement technique#y1_g_s_cl2.png#2048/CH9/EX9.21/y1_g_s_cl2.png#R##107377
+9#Pole Placement Controllers#9.21#DC motor with PID control tuned through pole placement technique#g_s_cl3.xcos#2048/CH9/EX9.21/g_s_cl3.xcos#X##107378
+9#Pole Placement Controllers#9.21#DC motor with PID control tuned through pole placement technique#g_s_cl2.xcos#2048/CH9/EX9.21/g_s_cl2.xcos#X##107379
+9#Pole Placement Controllers#9.20#PID controller design#pp_pid.sci#2048/CH9/EX9.20/pp_pid.sci#S##96798
+9#Pole Placement Controllers#9.2#Discretization of continuous transfer function#myc2d.sci#2048/CH9/EX9.2/myc2d.sci#S##96816
+9#Pole Placement Controllers#9.19#Demonstration of usefulness of negative PID parameters#pid_neg.sce#2048/CH9/EX9.19/pid_neg.sce#S##97098
+9#Pole Placement Controllers#9.19#Demonstration of usefulness of negative PID parameters#u1_9_19.png#2048/CH9/EX9.19/u1_9_19.png#R##106874
+9#Pole Placement Controllers#9.19#Demonstration of usefulness of negative PID parameters#y1_9_19.png#2048/CH9/EX9.19/y1_9_19.png#R##106875
+9#Pole Placement Controllers#9.19#Demonstration of usefulness of negative PID parameters#g_s_cl.xcos#2048/CH9/EX9.19/g_s_cl.xcos#X##106876
+9#Pole Placement Controllers#9.18#Anti windup control of IBM Lotus Domino server#ibm_pp_sat.sce#2048/CH9/EX9.18/ibm_pp_sat.sce#S##102823
+9#Pole Placement Controllers#9.18#Anti windup control of IBM Lotus Domino server#stb_disc_sat.xcos#2048/CH9/EX9.18/stb_disc_sat.xcos#X##106873
+9#Pole Placement Controllers#9.17#Illustrating the benefit of cancellation#dof_choice.sce#2048/CH9/EX9.17/dof_choice.sce#S##102821
+9#Pole Placement Controllers#9.17#Illustrating the benefit of cancellation#stb_disc.xcos#2048/CH9/EX9.17/stb_disc.xcos#X##102822
+9#Pole Placement Controllers#9.16#System type with 2 DOF controller#type_2DOF.sce#2048/CH9/EX9.16/type_2DOF.sce#S##97910
+9#Pole Placement Controllers#9.16#System type with 2 DOF controller#stb_disc.xcos#2048/CH9/EX9.16/stb_disc.xcos#X##102820
+9#Pole Placement Controllers#9.15#Evaluation of continuous time controller#sigurd_his.sce#2048/CH9/EX9.15/sigurd_his.sce#S##97094
+9#Pole Placement Controllers#9.15#Evaluation of continuous time controller#g_s_cl6.xcos#2048/CH9/EX9.15/g_s_cl6.xcos#X##97905
+9#Pole Placement Controllers#9.15#Evaluation of continuous time controller#g_s_cl3.xcos#2048/CH9/EX9.15/g_s_cl3.xcos#X##97909
+9#Pole Placement Controllers#9.14#Controller design#sigurd.sce#2048/CH9/EX9.14/sigurd.sce#S##97066
+9#Pole Placement Controllers#9.14#Controller design#u1_g_s_cl2.png#2048/CH9/EX9.14/u1_g_s_cl2.png#R##97894
+9#Pole Placement Controllers#9.14#Controller design#y1_g_s_cl2.png#2048/CH9/EX9.14/y1_g_s_cl2.png#R##97895
+9#Pole Placement Controllers#9.14#Controller design#g_s_cl2.xcos#2048/CH9/EX9.14/g_s_cl2.xcos#X##97896
+9#Pole Placement Controllers#9.13#Pole placement controller without intra sample oscillations#pp_im2.sci#2048/CH9/EX9.13/pp_im2.sci#S##97016
+9#Pole Placement Controllers#9.12#Procedure to split a polynomial into good and bad factors#polsplit3.sci#2048/CH9/EX9.12/polsplit3.sci#S##96997
+9#Pole Placement Controllers#9.11#Pole placement controller for motor problem#motor.sce#2048/CH9/EX9.11/motor.sce#S##97760
+9#Pole Placement Controllers#9.11#Pole placement controller for motor problem#y1_c_ss_cl.png#2048/CH9/EX9.11/y1_c_ss_cl.png#R##97761
+9#Pole Placement Controllers#9.11#Pole placement controller for motor problem#u1_c_ss_cl.png#2048/CH9/EX9.11/u1_c_ss_cl.png#R##97762
+9#Pole Placement Controllers#9.11#Pole placement controller for motor problem#c_ss_cl.xcos#2048/CH9/EX9.11/c_ss_cl.xcos#X##97763
+9#Pole Placement Controllers#9.10#Pole placement controller IBM Lotus Domino server#ibm_pp.sce#2048/CH9/EX9.10/ibm_pp.sce#S##97751
+9#Pole Placement Controllers#9.10#Pole placement controller IBM Lotus Domino server#u1_stb_disc.png#2048/CH9/EX9.10/u1_stb_disc.png#R##97752
+9#Pole Placement Controllers#9.10#Pole placement controller IBM Lotus Domino server#y1_stb_disc.png#2048/CH9/EX9.10/y1_stb_disc.png#R##97753
+9#Pole Placement Controllers#9.10#Pole placement controller IBM Lotus Domino server#stb_disc.xcos#2048/CH9/EX9.10/stb_disc.xcos#X##97754
+9#Pole Placement Controllers#9.1#Pole placement controller for magnetically suspended ball problem#u1_c_ss_cl.png#2048/CH9/EX9.1/u1_c_ss_cl.png#R##97615
+9#Pole Placement Controllers#9.1#Pole placement controller for magnetically suspended ball problem#y1_c_ss_cl.png#2048/CH9/EX9.1/y1_c_ss_cl.png#R##97616
+9#Pole Placement Controllers#9.1#Pole placement controller for magnetically suspended ball problem#ball_basic.sce#2048/CH9/EX9.1/ball_basic.sce#S##106609
+9#Pole Placement Controllers#9.1#Pole placement controller for magnetically suspended ball problem#basic.xcos#2048/CH9/EX9.1/basic.xcos#X##106861
+9#Pole Placement Controllers#9.1#Pole placement controller for magnetically suspended ball problem#c_ss_cl.xcos#2048/CH9/EX9.1/c_ss_cl.xcos#X##106860
+8#Proportional Integral Derivative Controllers#8.1#Continuous to discrete time transfer function#disc2.sce#2048/CH8/EX8.1/disc2.sce#S##106608
+7#Structures and Specifications#7.9#Left coprime factorization#data01.sce#2048/CH7/EX7.9/data01.sce#S##96807
+7#Structures and Specifications#7.8#Solution to Aryabhatta identity#abex.sce#2048/CH7/EX7.8/abex.sce#S##96806
+7#Structures and Specifications#7.7#Illustration of system type#type_test.sce#2048/CH7/EX7.7/type_test.sce#S##96797
+7#Structures and Specifications#7.7#Illustration of system type#u1_7_7.png#2048/CH7/EX7.7/u1_7_7.png#R##106857
+7#Structures and Specifications#7.7#Illustration of system type#y1_7_7.png#2048/CH7/EX7.7/y1_7_7.png#R##106858
+7#Structures and Specifications#7.7#Illustration of system type#stb_disc.xcos#2048/CH7/EX7.7/stb_disc.xcos#X##106859
+7#Structures and Specifications#7.6#Verification of performance of lead controller on antenna system#ant_lead.sce#2048/CH7/EX7.6/ant_lead.sce#S##96796
+7#Structures and Specifications#7.6#Verification of performance of lead controller on antenna system#u1.jpg#2048/CH7/EX7.6/u1.jpg#R##105871
+7#Structures and Specifications#7.6#Verification of performance of lead controller on antenna system#y1.jpg#2048/CH7/EX7.6/y1.jpg#R##105872
+7#Structures and Specifications#7.6#Verification of performance of lead controller on antenna system#g_s_cl2.xcos#2048/CH7/EX7.6/g_s_cl2.xcos#X##105874
+7#Structures and Specifications#7.5#Bode plot of a lead controller#lead_vfy.sce#2048/CH7/EX7.5/lead_vfy.sce#S##105244
+7#Structures and Specifications#7.4#A procedure to design lead controllers#lead_lag.sce#2048/CH7/EX7.4/lead_lag.sce#S##105159
+7#Structures and Specifications#7.3#Procedure to draw Bode plots#lead_exp.sce#2048/CH7/EX7.3/lead_exp.sce#S##105154
+7#Structures and Specifications#7.2#Procedure to draw the Nyquist plot#nyquist_ex1.sce#2048/CH7/EX7.2/nyquist_ex1.sce#S##105153
+7#Structures and Specifications#7.10#Solution to polynomial equation#data05.sce#2048/CH7/EX7.10/data05.sce#S##96808
+7#Structures and Specifications#7.1#Procedure to draw root locus for the problem#rlocus_ex1.sce#2048/CH7/EX7.1/rlocus_ex1.sce#S##105152
+6#Identification#6.9#Determination of order of AR process#pacf_ex.sce#2048/CH6/EX6.9/pacf_ex.sce#S##105145
+6#Identification#6.8#Estimation with a larger order model results in large uncertainty#ma_larger.sce#2048/CH6/EX6.8/ma_larger.sce#S##95335
+6#Identification#6.7#Illustration of nonuniqueness in estimation of MA model parameters using ACF#unique_ma.sce#2048/CH6/EX6.7/unique_ma.sce#S##105144
+6#Identification#6.6#Procedure to plot the ACF#plotacf.sci#2048/CH6/EX6.6/plotacf.sci#S##94882
+6#Identification#6.5#Demonstrate the order of MA#ma.sce#2048/CH6/EX6.5/ma.sce#S##105143
+6#Identification#6.4#To demonstrate the maximum property of ACF at zero lag#max_ex.sce#2048/CH6/EX6.4/max_ex.sce#S##105142
+6#Identification#6.3#To demonstrate the periodicity property of ACF#acf_ex.sce#2048/CH6/EX6.3/acf_ex.sce#S##105141
+6#Identification#6.2#ACF calculation#ACF_def.sce#2048/CH6/EX6.2/ACF_def.sce#S##94748
+6#Identification#6.17#Determination of OE parameters#oe_est.sce#2048/CH6/EX6.17/oe_est.sce#S##105151
+6#Identification#6.16#Determination of ARMAX parameters#armax_est.sce#2048/CH6/EX6.16/armax_est.sce#S##105150
+6#Identification#6.15#Determination of ARX parameters#arx_est.sce#2048/CH6/EX6.15/arx_est.sce#S##105149
+6#Identification#6.14#Determination of FIR parameters#fir_cra_ex1.sce#2048/CH6/EX6.14/fir_cra_ex1.sce#S##105148
+6#Identification#6.13#Implementation of trial and error procedure to determine ARMA process#arma_ex.sce#2048/CH6/EX6.13/arma_ex.sce#S##105147
+6#Identification#6.12#PACF plot of an MA process decays slowly#ma_pacf.sce#2048/CH6/EX6.12/ma_pacf.sce#S##105146
+6#Identification#6.11#Construction of square matrix required to compute PACF ajj#pacf_mat.sci#2048/CH6/EX6.11/pacf_mat.sci#S##95351
+6#Identification#6.10#Determination of the PACF of AR process#pacf.sci#2048/CH6/EX6.10/pacf.sci#S##95345
+6#Identification#6.1#Least squares solution#LS_ex.sce#2048/CH6/EX6.1/LS_ex.sce#S##94704
+5#Frequency Domain Analysis#5.5#Bode plot of minimum and nonminimum phase filters#nmp.sce#2048/CH5/EX5.5/nmp.sce#S##103433
+5#Frequency Domain Analysis#5.4#Bode plot of the differencing filter#derv_bode.sce#2048/CH5/EX5.4/derv_bode.sce#S##103432
+5#Frequency Domain Analysis#5.3#Bode plot of the moving average filter#ma_bode.sce#2048/CH5/EX5.3/ma_bode.sce#S##103431
+5#Frequency Domain Analysis#5.2#Bode plots#filter1.sce#2048/CH5/EX5.2/filter1.sce#S##103430
+5#Frequency Domain Analysis#5.1#Sinusoidal plots for increasing frequency#incr_freq.sce#2048/CH5/EX5.1/incr_freq.sce#S##103429
+4#Z Transform#4.9#Partial fraction expansion#respol5.sce#2048/CH4/EX4.9/respol5.sce#S##105139
+4#Z Transform#4.8#Partial fraction expansion#respol3.sce#2048/CH4/EX4.8/respol3.sce#S##105138
+4#Z Transform#4.7#Partial fraction expansion#respol2.sce#2048/CH4/EX4.7/respol2.sce#S##105137
+4#Z Transform#4.6#Partial fraction expansion#respol1.sce#2048/CH4/EX4.6/respol1.sce#S##105133
+4#Z Transform#4.5#Computation of residues#respol.sci#2048/CH4/EX4.5/respol.sci#S##105132
+4#Z Transform#4.4#Discrete transfer function of the continuous state space system#disc1.sce#2048/CH4/EX4.4/disc1.sce#S##93551
+4#Z Transform#4.3#To produce pole zero plots#pz.sce#2048/CH4/EX4.3/pz.sce#S##105136
+4#Z Transform#4.2#To produce a sequence#aconv2.sce#2048/CH4/EX4.2/aconv2.sce#S##105135
+4#Z Transform#4.11#Long division of problems#division.sce#2048/CH4/EX4.11/division.sce#S##103428
+4#Z Transform#4.10#Partial fraction expansion#respol6.sce#2048/CH4/EX4.10/respol6.sce#S##105140
+4#Z Transform#4.1#To produce a sequence#aconv1.sce#2048/CH4/EX4.1/aconv1.sce#S##105134
+3#Linear Systems#3.2#Convolution of two sequences#conv2.sce#2048/CH3/EX3.2/conv2.sce#S##93541
+3#Linear Systems#3.1#Energy of a signal#energy.sce#2048/CH3/EX3.1/energy.sce#S##93540
+2#Modelling of Sampled Data Systems#2.3#ZOH equivalent state space system#ZOH1.sce#2048/CH2/EX2.3/ZOH1.sce#S##103418
+2#Modelling of Sampled Data Systems#2.2#Exponential of the matrix#mat_exp.sce#2048/CH2/EX2.2/mat_exp.sce#S##93327
+2#Modelling of Sampled Data Systems#2.1#Model of inverted pendulum#pend_model.sce#2048/CH2/EX2.1/pend_model.sce#S##93538

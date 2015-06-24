@@ -1,0 +1,4 @@
+ 
+ Example 12.5
+ Amount of heat generated is 1134 J.
+ Amount of heat in weld zone is 202 J or 17%. 

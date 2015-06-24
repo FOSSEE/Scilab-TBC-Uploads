@@ -1,0 +1,2 @@
+**Sample Problem 7-8**
+The compression in the spring is 1.154701e-002m 

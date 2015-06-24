@@ -1,0 +1,2 @@
+Electric flux through the whole volume of the cube = 1.525424e+06 Nm^2/C,
+ Electric flux through one face of the cube = 2.542373e+05 Nm^2/C

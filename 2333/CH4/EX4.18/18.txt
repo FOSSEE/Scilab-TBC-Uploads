@@ -1,0 +1,9 @@
+# PROBLEM 18 # 
+
+ Standard formula used 
+ theta = a + b/(lambda)^2. 
+
+ Contents are as : 
+ a = -5.555556 deg/mm 
+ b = 8.888889e+08 deg/mm angestrom^2 
+ Thickness of plate required is 3mm.

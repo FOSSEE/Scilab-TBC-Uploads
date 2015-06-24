@@ -1,0 +1,21 @@
+ 
+ # PROBLEM 3.2 # 
+The values of P_after are
+0.750000 
+0.787351 
+0.828770 
+0.874670 
+0.925500 
+The values of P_before are
+ 0.923035 
+ 0.884560 
+ 0.850663 
+ 0.820780 
+ 0.794406 
+ 0.771086 
+ 0.750418 
+ 0.732039 
+ 0.715627 
+
+ The roll separating force = 1908 kN,
+ The power required in the rolling process = 77.376678 kW 

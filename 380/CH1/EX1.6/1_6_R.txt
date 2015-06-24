@@ -1,0 +1,15 @@
+ Reading of ammeter (in Amperes)=   
+ 
+    3.  
+ 
+ Reading of voltmeter (in Volts)=   
+ 
+    72.  
+ 
+ Reading of wattmeter (in Watts)=   
+ 
+    129.6  
+ 
+ power factor=   
+ 
+    0.6  

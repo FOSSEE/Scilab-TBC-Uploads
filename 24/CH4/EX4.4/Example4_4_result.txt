@@ -1,0 +1,5 @@
+**Sample Problem 4-4**
+The acceleration vector of the rabbit at t=15sec in m/sec^2 is 
+  - 0.62    0.44  
+The magnitude of the acceleration vector is 0.760263 m/sec^2
+The angle made by the acceleration vector with the x axis in degrees at the same time -35.362462 

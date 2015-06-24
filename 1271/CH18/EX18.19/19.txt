@@ -1,0 +1,5 @@
+ # PROBLEM 19 # 
+Standard formula used 
+  mu_r = 1 + Chi 
+
+ Relative permeability is 1 + 9.500000e-09

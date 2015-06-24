@@ -1,0 +1,2 @@
+* First break frequency fo1 is = 6 Hz
+* Second break frequency fo2 is = 1242633.7 Hz 

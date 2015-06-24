@@ -1,0 +1,3 @@
+ 
+ Example 10.7
+ Mould can support the production of 1 gear per cycle. 

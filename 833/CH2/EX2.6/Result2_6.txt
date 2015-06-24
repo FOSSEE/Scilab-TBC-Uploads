@@ -1,0 +1,4 @@
+Voltage for high voltage side on full load at 0.8 power factor lagging when secondary terminal voltage is 240 volts(in volt)=   
+ 
+    6734.6618  
+ 

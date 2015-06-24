@@ -1,0 +1,7 @@
+
+ # PROBLEM 2.3 # 
+
+ Time required to empty the ladle = 91.596179 sec, 
+ Discharge rate are - 
+ Initially = 55.563236 Kg/sec 
+ When the ladle is 75 percent empty = 27.781618 Kg/sec. 

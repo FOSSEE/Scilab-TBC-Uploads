@@ -1,0 +1,19 @@
+ (a)KVA Load supplied by each transformer (in KVA)=   
+ 
+    28.867513  
+ 
+ (b)Percent of rated load (in %)=   
+ 
+    1.1547005  
+ 
+ (c)Total KVA rating (in KVA)=   
+ 
+    43.3  
+ 
+ (d)Ratio=   
+ 
+    0.5773333  
+ 
+ (e)Increase in load (in %)=   
+ 
+    173.20508

@@ -1,0 +1,5 @@
+ Vgs = -2.53 V or -8.51 V
+Therefore Vgs = -2.53 V
+(a)The new value of R2 is 1189.4 K-ohm
+(b)The new value of Vdd = 73.34 V
+(c)The new value of Vds = 41.34 V 

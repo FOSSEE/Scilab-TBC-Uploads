@@ -1,0 +1,4 @@
+The drift velocity of conduction electrons is vd=0.1307 met/sec
+Mobility of conduction electrons is n= 
+    6.027D+28  
+metres^-3 

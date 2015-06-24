@@ -1,0 +1,53 @@
+21#Machining of Metals#21.4#Grinding Processes#Ex21_4.sce#3456/CH21/EX21.4/Ex21_4.sce#S##116584
+21#Machining of Metals#21.3#Tool Materials and Tool Life#Ex21_3.sce#3456/CH21/EX21.3/Ex21_3.sce#S##116583
+21#Machining of Metals#21.2#Mechanics of Machining#Ex21_2.sce#3456/CH21/EX21.2/Ex21_2.sce#S##116585
+21#Machining of Metals#21.1#Mechanics of Machining#Ex21_1.sce#3456/CH21/EX21.1/Ex21_1.sce#S##116581
+20#Sheet Metal Forming #20.2#Forming Limit Criteria#Ex20_2.sce#3456/CH20/EX20.2/Ex20_2.sce#S##116588
+20#Sheet Metal Forming #20.1#Deep Drawing#Ex20_1.sce#3456/CH20/EX20.1/Ex20_1.sce#S##116587
+19#Drawing of Rods Wires and Tubes#19.2#Analysis of Wiredrawing#Ex19_2.sce#3456/CH19/EX19.2/Ex19_2.sce#S##116586
+19#Drawing of Rods Wires and Tubes#19.1#Analysis of Wiredrawing#Ex19_1.sce#3456/CH19/EX19.1/Ex19_1.sce#S##116582
+18#Extrusion#18.1#Extrusion Process#Ex18_1.sce#3456/CH18/EX18.1/Ex18_1.sce#S##116580
+17#Rolling of Metals#17.4#Torque and Horsepower#Ex17_4.sce#3456/CH17/EX17.4/Ex17_4.sce#S##116577
+17#Rolling of Metals#17.3#Rolling Load#Ex17_3.sce#3456/CH17/EX17.3/Ex17_3.sce#S##116778
+17#Rolling of Metals#17.2#Rolling Load#Ex17_2.sce#3456/CH17/EX17.2/Ex17_2.sce#S##116575
+17#Rolling of Metals#17.1#Forces in rolling#Ex17_1.sce#3456/CH17/EX17.1/Ex17_1.sce#S##116574
+16#Forging#16.1#Forging in Plain Strain#Ex16_1.sce#3456/CH16/EX16.1/Ex16_1.sce#S##116578
+15#Fundamentals of Metalworking#15.5#Friction and Lubrication#Ex15_5.sce#3456/CH15/EX15.5/Ex15_5.sce#S##116572
+15#Fundamentals of Metalworking#15.4#Temperature in Metalworking#Ex15_4.sce#3456/CH15/EX15.4/Ex15_4.sce#S##116571
+15#Fundamentals of Metalworking#15.3#Hodography#Ex15_3.sce#3456/CH15/EX15.3/Ex15_3.sce#S##116570
+15#Fundamentals of Metalworking#15.2#Mechanics of Metal Working#Ex15_2.sce#3456/CH15/EX15.2/Ex15_2.sce#S##116569
+15#Fundamentals of Metalworking#15.1#Mechanics of Metal Working#Ex15_1.sce#3456/CH15/EX15.1/Ex15_1.sce#S##116568
+14#Brittle Fracture and Impact Testing#14.1#Stress Corrosion Cracking#Ex14_1.sce#3456/CH14/EX14.1/Ex14_1.sce#S##116781
+13#Creep and Stress Rupture#13.3#Prediction of long time properties#Exx13_3.sce#3456/CH13/EX13.3/Exx13_3.sce#S##116566
+13#Creep and Stress Rupture#13.2#Engineering Creep#Ex13_2.sce#3456/CH13/EX13.2/Ex13_2.sce#S##116565
+13#Creep and Stress Rupture#13.1#Engineering Creep#Ex13_1.sce#3456/CH13/EX13.1/Ex13_1.sce#S##116780
+12#Fatigue of Metals#12.6#Local Strain method#Ex12_6.sce#3456/CH12/EX12.6/Ex12_6.sce#S##116563
+12#Fatigue of Metals#12.5#Infinite Life Design#Ex12_5.sce#3456/CH12/EX12.5/Ex12_5.sce#S##116562
+12#Fatigue of Metals#12.4#Stress Concentration of Fatigue#Ex12_4.sce#3456/CH12/EX12.4/Ex12_4.sce#S##116561
+12#Fatigue of Metals#12.3#Fatigue Crack Proportion#Ex12_3.sce#3456/CH12/EX12.3/Ex12_3.sce#S##116560
+12#Fatigue of Metals#12.2#Low Cycle Fatigue#Ex12_2.sce#3456/CH12/EX12.2/Ex12_2.sce#S##116559
+12#Fatigue of Metals#12.1#Mean Stress#Ex12_1.sce#3456/CH12/EX12.1/Ex12_1.sce#S##116558
+11#Fracture Mechanics#11.3#Plasticity#Ex11_3.sce#3456/CH11/EX11.3/Ex11_3.sce#S##116557
+11#Fracture Mechanics#11.2#Fracture Toughness#Ex11_2.sce#3456/CH11/EX11.2/Ex11_2.sce#S##116556
+11#Fracture Mechanics#11.1#Fracture Toughness#Ex11_1.sce#3456/CH11/EX11.1/Ex11_1.sce#S##116555
+8#The Tension Test#8.4#Effect of Strain Rate#Ex8_4.sce#3456/CH8/EX8.4/Ex8_4.sce#S##116554
+8#The Tension Test#8.3#Ultimate Tensile Strength#Ex8_3.sce#3456/CH8/EX8.3/Ex8_3.sce#S##116553
+8#The Tension Test#8.2#True Strain#Ex8_2.sce#3456/CH8/EX8.2/Ex8_2.sce#S##116552
+8#The Tension Test#8.1#Standard properties of the material#Ex8_1.sce#3456/CH8/EX8.1/Ex8_1.sce#S##116551
+7#Fracture#7.2#Fracture Stress#Ex7_2.sce#3456/CH7/EX7.2/Ex7_2.sce#S##116549
+7#Fracture#7.1#Cohesive Strength#Ex7_1.sce#3456/CH7/EX7.1/Ex7_1.sce#S##116550
+6#Strengthening Mechanisms#6.4#Load Transfer#Ex6_4.sce#3456/CH6/EX6.4/Ex6_4.sce#S##116548
+6#Strengthening Mechanisms#6.3#Fiber Strengthing#Ex6_3.sce#3456/CH6/EX6.3/Ex6_3.sce#S##116547
+6#Strengthening Mechanisms#6.2#Strengthing Mechanism#Ex6_2.sce#3456/CH6/EX6.2/Ex6_2.sce#S##116546
+6#Strengthening Mechanisms#6.1#Grain Size Measurement#Ex6_1.sce#3456/CH6/EX6.1/Ex6_1.sce#S##116545
+5#Dislocation Theory#5.1#Forces Between Dislocations#Ex5_1.sce#3456/CH5/EX5.1/Ex5_1.sce#S##116544
+4#Plastic Deformation of Single Crystals#4.1#Critical Resolved Shear Stress for Slip#Ex4_1.sce#3456/CH4/EX4.1/Ex4_1.sce#S##116543
+3#Elements of the Theory of Plasticity#3.4#Levy Mises Equation#Ex3_4.sce#3456/CH3/EX3.4/Ex3_4.sce#S##116542
+3#Elements of the Theory of Plasticity#3.3#Tresca Criterion#Ex3_3.sce#3456/CH3/EX3.3/Ex3_3.sce#S##116541
+3#Elements of the Theory of Plasticity#3.2#Yielding Criteria for Ductile Metals#Ex3_2.sce#3456/CH3/EX3.2/Ex3_2.sce#S##116540
+3#Elements of the Theory of Plasticity#3.1#True Stress and True Strain#Ex3_1.sce#3456/CH3/EX3.1/Ex3_1.sce#S##116539
+2#Stress and Strain Relationships for Elastic Behavior#2.4#Elastic Anisotropy#Ex2_4.sce#3456/CH2/EX2.4/Ex2_4.sce#S##116537
+2#Stress and Strain Relationships for Elastic Behavior#2.3#Calculation of Stresses from elastic strains#Ex2_3.sce#3456/CH2/EX2.3/Ex2_3.sce#S##116538
+2#Stress and Strain Relationships for Elastic Behavior#2.2#State of Stress in three dimensions#Ex2_2.sce#3456/CH2/EX2.2/Ex2_2.sce#S##116779
+2#Stress and Strain Relationships for Elastic Behavior#2.1#State of Stress in two dimensions#Ex2_1.sce#3456/CH2/EX2.1/Ex2_1.sce#S##116535
+1#Introduction#1.1#Shear Stress#Ex1_1.sce#3456/CH1/EX1.1/Ex1_1.sce#S##116534

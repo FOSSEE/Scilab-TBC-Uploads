@@ -1,0 +1,8 @@
+**Sample Problem 16-7a**
+The time period of oscillation is 0.340754s
+
+**Sample Problem 16-7b**
+The time taken to drop the amplitude half of its value is 4.951051s
+
+b**Sample Problem 16-7c**
+The time taken to drop the mechanical energy half of its initial value is 2.475526s 

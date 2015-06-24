@@ -1,0 +1,4 @@
+ # Problem 13 # 
+
+ Standard formula used v * r = k  
+ Speed at perigee is 30000 km/h and at apogee is 22786.516854 km/h .

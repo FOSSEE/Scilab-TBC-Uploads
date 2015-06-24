@@ -1,0 +1,5 @@
+ 
+ # PROBLEM 3.7 # 
+
+ Drawing power = 25.530385 kW, 
+ The maximum passible reduction with same die = 0.504749 mm 

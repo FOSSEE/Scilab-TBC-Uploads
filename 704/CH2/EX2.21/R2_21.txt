@@ -1,0 +1,7 @@
+power developed in armature when working as a generator(in KW)=   
+ 
+    26.0202  
+ 
+ power developed in armature when working as a motor(in KW)=   
+ 
+    24.0198  

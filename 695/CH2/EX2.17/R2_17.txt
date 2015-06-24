@@ -1,0 +1,11 @@
+(a) Demagnetizing Ampere Turns per pole=   
+ 
+    500.  
+ 
+ (b) Cross magnetizing Ampere Turns per pole=   
+ 
+    1750.  
+ 
+ (c) Number of turns per pole=   
+ 
+    18. 

@@ -1,0 +1,4 @@
+ # Problem 7 # 
+Standard formula used T = 2 * pi * sqrt ((r^3)/G*M_e) 
+ 
+ Estimated mass of Earth is 6.331179e+24 kg.

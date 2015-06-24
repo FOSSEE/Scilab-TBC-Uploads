@@ -1,0 +1,7 @@
+for an ideal diode
+peak load voltage is 34 volts
+dc load voltage is 10.8 volts
+
+with second approximation
+peak load voltage is 33.3 volts
+dc load voltage is 10.6 volts

@@ -1,0 +1,5 @@
+  FIGURE 4.22(a)
+* Max total output offset voltage due to input offset current,Ib is = 0.0850 V 
+
+  FIGURE 4.22(b)
+* Max total output offset voltage due to input offset current,Ib is = 0.0830 V

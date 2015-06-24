@@ -1,0 +1,11 @@
+
+ example 14.12   
+ 
+ (a)   
+change in frequency is -0.016Hz  
+ change in power between ab -0.00832p.u.MW 
+ 		-16.64MW 
+ (b)   
+change in frequency is -0.016Hz  
+ change in power between ab 0.00168p.u.MW 
+ change in power 3.360000MW 

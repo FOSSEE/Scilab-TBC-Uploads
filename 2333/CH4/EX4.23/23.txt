@@ -1,0 +1,6 @@
+# PROBLEM 23 # 
+
+ Standard formula used 
+ c = theta / (s * l). 
+
+ Rotation of plane of polarization is 6.500000 degree.

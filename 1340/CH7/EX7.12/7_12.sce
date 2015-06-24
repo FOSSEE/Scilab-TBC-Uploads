@@ -1,0 +1,11 @@
+clc;
+syms K a b s;
+G = K/((s+a)*(s+b));
+Kp = limit(G,s,0);
+e = 1/(1+Kp);
+sea = (a/e)*diff(e,a);
+sea = simple(sea);
+disp(sea,"Sensitivity of error wrt a =");
+sek = (K/e)*diff(e,K);
+sek = simple(sek);
+disp(sek,"Sensitivity of error wrt K =");

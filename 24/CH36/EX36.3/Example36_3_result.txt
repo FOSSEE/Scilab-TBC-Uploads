@@ -1,0 +1,2 @@
+**Sample Problem 36-3**
+The resultant electric field is E=2.39*Eo*sin(w*t + 8.79) 

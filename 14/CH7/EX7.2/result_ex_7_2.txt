@@ -1,0 +1,14 @@
+
+ Node Voltages V1,V2,V3 and V4 in per unit is   
+ 
+    1.4110556 - 0.2668324i  
+    1.3830779 - 0.3507654i  
+    1.4058649 - 0.2824044i  
+    1.400977 - 0.2970680i   
+ 
+ In polar form   
+
+ V1 = 1.44 /_-10.71 per unit
+ V2 = 1.43 /_-14.23 per unit
+ V3 = 1.43 /_-11.36 per unit 
+ V4 = 1.43 /_-11.97 per unit 

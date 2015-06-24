@@ -1,0 +1,102 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example2.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            21   
+ 
+ Chapter Title                         :                                Advanced Shell Programming   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 2    :               Show the method of calling functions in shellscripts 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the shellscript file whichever you desire  
+
+ #! /bin/sh
+# Script: user_passwd.sh - Uses a shell function
+#
+.mainfunc.sh                     # Script containing valid_string function
+
+valid_string() {
+    while echo "$1 \c" 1>&2 ; do
+         read name
+         case $name in
+                "") echo "Nothing entered" 1>&2 ; continue ;;
+                 *) if [ `expr "$name" : '.*'` -gt $2 ] ; then
+                       echo "Maximum $2 characters permitted" 1>&2
+                    else
+                       break
+                    fi ;;
+         esac
+    done
+    echo $name
+}
+
+user=`valid_string "Enter your user-id :" 16`
+stty -echo                     # Password not to be echoed
+password=`valid_string "Enter your password:" 5`
+stty echo                      # Turns on echoing facility
+echo "\nYour user-id is $user and your password is $password"
+ 
+# type the following command in the command line interpreter as soon as it appears 
+       "  h     "[ENTER]
+
+
+$ h             #to execute the perlscript 
+
+
+   ---------------->Executing ShellScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

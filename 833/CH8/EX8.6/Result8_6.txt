@@ -1,0 +1,12 @@
+(a)Input to generator from prime mover on full load(in watt)=   
+ 
+    38510.1  
+ 
+ (b)Efficiency on full load(in %)=   
+ 
+    89.586888  
+ 
+ (c)Load current at which generator efficiency is maximum(in A)=   
+ 
+    131.52946  
+ 

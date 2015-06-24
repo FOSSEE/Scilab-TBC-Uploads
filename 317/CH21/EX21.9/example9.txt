@@ -1,0 +1,3 @@
+Q of the filter is 0.707(Butterworth response)
+peak frequency is 2 kHertz
+cutoff frequency is 2 kHertz

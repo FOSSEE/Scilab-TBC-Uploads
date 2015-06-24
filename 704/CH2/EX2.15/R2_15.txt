@@ -1,0 +1,12 @@
+induced emf (in V)=   
+ 
+    205.  
+ 
+ electro magnentic torque developed(in Nw-m)=   
+ 
+    30.75  
+ 
+ Armature copper loss(in Watt)=   
+ 
+    225.  
+ 

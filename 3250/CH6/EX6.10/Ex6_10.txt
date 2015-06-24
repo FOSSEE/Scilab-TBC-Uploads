@@ -1,0 +1,3 @@
+ # PROBLEM 6.10 # 
+
+ Surface roughness = 1.350325 micro meter 

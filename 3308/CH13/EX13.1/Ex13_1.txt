@@ -1,0 +1,8 @@
+#Calculation of roll force and torque# 
+
+
+Roll force = 1.612450 MN 
+
+power per roll = 664.133978 KW 
+
+Total power = 1328.267956 KW 

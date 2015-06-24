@@ -1,0 +1,3 @@
+Reactance of Peterson Coil = 235.79 ohm 
+
+

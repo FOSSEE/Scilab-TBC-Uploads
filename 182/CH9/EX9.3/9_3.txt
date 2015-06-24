@@ -1,0 +1,6 @@
+
+3.V peak-peak of wave from A=1.20 V
+  frequency of wave form A=1666.666667 Hz
+  V peak-peak of wave from B=0.48 V
+  frequency of wave form B=1428.571429 Hz
+  phase difference=60 degree 

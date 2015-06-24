@@ -1,0 +1,8 @@
+ unit cell dimension of iron (in angstorm) =    
+ 
+    2.8681768  
+ 
+ atomic radius =    
+ 
+    1.241957  
+ 

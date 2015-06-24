@@ -1,0 +1,5 @@
+ 
+Excitation emf= 47.86 kV at an angle 37.331 (leading) 
+
+Reactive power drawn by laod= 281 MVAR 
+

@@ -1,0 +1,7 @@
+Vn  =
+ 
+    0.0003  
+
+
+	 equivalent noise resistance = 1838235294.117647 ohm  
+ Execution done.   

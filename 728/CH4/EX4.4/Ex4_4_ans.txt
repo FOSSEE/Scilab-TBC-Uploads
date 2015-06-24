@@ -1,0 +1,9 @@
+ 
+ Charcteristic impedance (in ohms) =   
+ 
+    79.371265  
+ 
+ Velocity of propagation (in m/s) =   
+ 
+    1.970D+08  
+ 

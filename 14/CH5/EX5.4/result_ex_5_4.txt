@@ -1,0 +1,26 @@
+ For an uncompensated line   
+
+
+ A = D = 0.8904 /_1.34 
+
+
+
+ B = 186.7637 /_79.46 ohm 
+
+
+
+ C = 0.001131 /_90.42 mho 
+
+ 
+ For a series compensation factor  of 70%   
+
+
+ B = 60.85 /_55.84 ohm 
+
+
+
+ A = 0.970 /_1.21 
+
+
+
+ C = 0.001179 /_90.39 mho 

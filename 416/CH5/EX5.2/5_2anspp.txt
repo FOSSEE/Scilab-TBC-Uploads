@@ -1,0 +1,33 @@
+ 
+ example 5.2   
+persent of worth factor is 0.094393
+annual cost excludinding interest and 
+depreciation of a 		Rs30609600 
+persent worth factor 		 0.094393  
+present worth annual cost of a is Rs324278538 
+ investement of a is 	Rs270000000 
+ total persent worth of a is 	594278538
+
+ annual cost excludinding interest and 
+depreciation of b 		Rs30384600 
+persent wort factor 		0.094393  
+present worth annual cost of b is Rs321894885 
+ investement of b is 	Rs315000000 
+ total persent worth of b is 	636894885
+ 
+annual cost excludinding interest and 
+depreciation of c 		Rs30159600 
+persent wort factor 		0.094393  
+present worth annual cost of c is Rs319511232 
+ investement of c is 	Rs360000000 
+ total persent worth of c is 	679511232
+ 
+annual cost excludinding interest and 
+depreciation of utility service 	Rs45000000 
+persent wort factor 			0.094393  
+present worth annual cost of utility service is Rs476730641 
+ investement of utility service is 		 nill 
+ total persent worth of utility service is 476730641
+
+	since the present worth of the utility service is the minimum,it is the obvious choice 
+out of the other plans,plan A is the best since it has the lowest present worth 

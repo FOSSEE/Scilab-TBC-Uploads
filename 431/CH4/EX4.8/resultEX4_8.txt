@@ -1,0 +1,5 @@
+  
+ Example 4.8   
+synchronous speed=1500.000000rpm
+speed of running motor=1455.000000rpm
+rotor frequency=1.500000Hz 

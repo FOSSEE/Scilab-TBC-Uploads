@@ -1,0 +1,10 @@
+ 
+ # PROBLEM 21 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N 
+ 
+ Angle of diffraction for third order spectrum is 2 degree and 3.785631 minute.
+
+ For n = 2, m = 1 is considered 
+ because the higher value of m results the order 
+of absent spectrum more than given order 3. 

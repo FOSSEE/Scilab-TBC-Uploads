@@ -1,0 +1,81 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example7.sci')
+ 
+-->clear
+ 
+-->mode(-1)
+Current date is 11-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            19   
+ 
+ Chapter Title                         :                  perl-THE MASTER MANIPULATOR   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 7    :               Show the method of  splititng a string using 'split' in perl 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+# Enter the name of the perlscript file whichever you desire  
+
+  #!/usr/bin/perl
+# Script: hither.pl  - Finds the square root of each command line argument  
+#
+print("Enter three numbers: " )  ; 
+chop($numstring=<STDIN>) ;
+die("Nothing entered\n")  if ($numstring eq "" )  ;
+($f_number,$s_number,$l_number) = split(/ /,$numstring)  ;
+print("The last, second and first numbers are ")   ;
+print("$l_number,$s_number and $f_number.\n")   ;
+
+# type the following command in the command line interpreter as soon as it appears 
+       " perl hither.pl     "[ENTER]
+
+
+$ perl hither.pl               #to execute the perlscript 
+
+
+   ---------------->Executing PerlScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

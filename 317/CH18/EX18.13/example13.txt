@@ -1,0 +1,2 @@
+Output voltage is 10 mVpp
+Bandwidth is 1 MHertz

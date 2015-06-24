@@ -1,0 +1,3 @@
+  
+ Exa-3.2   
+The value of time interval was found out to be 0.1 sec 

@@ -1,0 +1,114 @@
+11#Semiconductors#11.4#common emittor amplifier#4.sce#1991/CH11/EX11.4/4.sce#S##67026
+11#Semiconductors#11.3#common base transistor#3.sce#1991/CH11/EX11.3/3.sce#S##67025
+11#Semiconductors#11.2#common emittor transistor#2.sce#1991/CH11/EX11.2/2.sce#S##67024
+11#Semiconductors#11.1#rms current and peak pd#1.sce#1991/CH11/EX11.1/1.sce#S##67023
+10#Physical Optics#10.8#telescope angular magnification#8.sce#1991/CH10/EX10.8/8.sce#S##67022
+10#Physical Optics#10.7#wavelength and diffraction angle#7.sce#1991/CH10/EX10.7/7.sce#S##67021
+10#Physical Optics#10.6#wavelength and angular displacement#6.sce#1991/CH10/EX10.6/6.sce#S##67020
+10#Physical Optics#10.5#increasing thickness effect#5.sce#1991/CH10/EX10.5/5.sce#S##67019
+10#Physical Optics#10.4# fringe width determination#4.sce#1991/CH10/EX10.4/4.sce#S##67018
+10#Physical Optics#10.3#thin film interference#3.sce#1991/CH10/EX10.3/3.sce#S##67017
+10#Physical Optics#10.2#wavelength and prism angle#2.sce#1991/CH10/EX10.2/2.sce#S##67016
+10#Physical Optics#10.1#plancks theory#1.sce#1991/CH10/EX10.1/1.sce#S##67015
+9#The Atom#9.9#decay law#9.sce#1991/CH9/EX9.9/9.sce#S##67011
+9#The Atom#9.8#quantities of metal#8.sce#1991/CH9/EX9.8/8.sce#S##67010
+9#The Atom#9.7#plancks theory#7.sce#1991/CH9/EX9.7/7.sce#S##67009
+9#The Atom#9.6#incereased temperature effect#6.sce#1991/CH9/EX9.6/6.sce#S##67008
+9#The Atom#9.5#stephan law#5.sce#1991/CH9/EX9.5/5.sce#S##67007
+9#The Atom#9.4#working temperature#4.sce#1991/CH9/EX9.4/4.sce#S##67006
+9#The Atom#9.3#Stephan Boltzmann law#3.sce#1991/CH9/EX9.3/3.sce#S##67005
+9#The Atom#9.2#Millikan experiment#2.sce#1991/CH9/EX9.2/2.sce#S##67003
+9#The Atom#9.12#velocity selection#12.sce#1991/CH9/EX9.12/12.sce#S##67014
+9#The Atom#9.11#determination of attributes#11.sce#1991/CH9/EX9.11/11.sce#S##67013
+9#The Atom#9.10#count rate determination#10.sce#1991/CH9/EX9.10/10.sce#S##67012
+9#The Atom#9.1#electric field effect#1.sce#1991/CH9/EX9.1/1.sce#S##67004
+8#Magnetisn and ac theroy#8.9#transformer equation#9.sce#1991/CH8/EX8.9/9.sce#S##66991
+8#Magnetisn and ac theroy#8.8#pd across motor#8.sce#1991/CH8/EX8.8/8.sce#S##66990
+8#Magnetisn and ac theroy#8.7#maximum emf power#7.sce#1991/CH8/EX8.7/7.sce#S##66989
+8#Magnetisn and ac theroy#8.6#moment of couple#6.sce#1991/CH8/EX8.6/6.sce#S##66988
+8#Magnetisn and ac theroy#8.5#faraday law#5.sce#1991/CH8/EX8.5/5.sce#S##66987
+8#Magnetisn and ac theroy#8.4#permeability of free space#8_4.sce#1991/CH8/EX8.4/8_4.sce#S##78958
+8#Magnetisn and ac theroy#8.2#flux density #2.sce#1991/CH8/EX8.2/2.sce#S##66985
+8#Magnetisn and ac theroy#8.19#determine resistance and capacitance#19.sce#1991/CH8/EX8.19/19.sce#S##67001
+8#Magnetisn and ac theroy#8.18#rate of change of pd#18.sce#1991/CH8/EX8.18/18.sce#S##67000
+8#Magnetisn and ac theroy#8.17#capacitance of C#17.sce#1991/CH8/EX8.17/17.sce#S##66999
+8#Magnetisn and ac theroy#8.16#Qmax and rms current#16.sce#1991/CH8/EX8.16/16.sce#S##66998
+8#Magnetisn and ac theroy#8.15#rms and peak voltage#15.sce#1991/CH8/EX8.15/15.sce#S##66997
+8#Magnetisn and ac theroy#8.14#charge in capacitors#14.sce#1991/CH8/EX8.14/14.sce#S##66996
+8#Magnetisn and ac theroy#8.13#relative permittivity#13.sce#1991/CH8/EX8.13/13.sce#S##66995
+8#Magnetisn and ac theroy#8.12#charge produced#12.sce#1991/CH8/EX8.12/12.sce#S##66994
+8#Magnetisn and ac theroy#8.11#secondary power output#11.sce#1991/CH8/EX8.11/11.sce#S##66993
+8#Magnetisn and ac theroy#8.10#power loss ratio#10.sce#1991/CH8/EX8.10/10.sce#S##66992
+8#Magnetisn and ac theroy#8.1#force on field#1.sce#1991/CH8/EX8.1/1.sce#S##66984
+7#Electricity#7.8#calculation of resistance#8.sce#1991/CH7/EX7.8/8.sce#S##66983
+7#Electricity#7.7#internal resistance calculation#7.sce#1991/CH7/EX7.7/7.sce#S##66982
+7#Electricity#7.6#final resistance calculation#6.sce#1991/CH7/EX7.6/6.sce#S##66981
+7#Electricity#7.5#percent of pd#5.sce#1991/CH7/EX7.5/5.sce#S##66980
+7#Electricity#7.4#power output#4.sce#1991/CH7/EX7.4/4.sce#S##66979
+7#Electricity#7.3#emf and internal resistance#3.sce#1991/CH7/EX7.3/3.sce#S##66978
+7#Electricity#7.2#ratio of force#2.sce#1991/CH7/EX7.2/2.sce#S##66977
+7#Electricity#7.1#Electric potential strength#1.sce#1991/CH7/EX7.1/1.sce#S##66976
+6#Heat#6.9#Boyles law#9.sce#1991/CH6/EX6.9/9.sce#S##66970
+6#Heat#6.8#ideal gas equation#8.sce#1991/CH6/EX6.8/8.sce#S##66969
+6#Heat#6.7#KE and rms velocity#7.sce#1991/CH6/EX6.7/7.sce#S##66968
+6#Heat#6.6#pressure law#6.sce#1991/CH6/EX6.6/6.sce#S##66967
+6#Heat#6.5#Charles law#5.sce#1991/CH6/EX6.5/5.sce#S##66966
+6#Heat#6.4#Boyles law#4.sce#1991/CH6/EX6.4/4.sce#S##66965
+6#Heat#6.3#heat loss and specific heat#3.sce#1991/CH6/EX6.3/3.sce#S##66964
+6#Heat#6.2#potential difference heater#2.sce#1991/CH6/EX6.2/2.sce#S##66963
+6#Heat#6.16#temperature gradient#16.sce#1991/CH6/EX6.16/16.sce#S##66975
+6#Heat#6.15#heat transfer rate#15.sce#1991/CH6/EX6.15/15.sce#S##66974
+6#Heat#6.14#length at temperature#14.sce#1991/CH6/EX6.14/14.sce#S##66973
+6#Heat#6.12#platinum resistance theromoeter#12.sce#1991/CH6/EX6.12/12.sce#S##66972
+6#Heat#6.10#gas external work#10.sce#1991/CH6/EX6.10/10.sce#S##66971
+6#Heat#6.1#heat given out#1.sce#1991/CH6/EX6.1/1.sce#S##66962
+5#Light#5.6#lens values#6.sce#1991/CH5/EX5.6/6.sce#S##66961
+5#Light#5.5#position and nature of image#5.sce#1991/CH5/EX5.5/5.sce#S##66960
+5#Light#5.4#position of image#4.sce#1991/CH5/EX5.4/4.sce#S##66959
+5#Light#5.3#position and nature of image#3.sce#1991/CH5/EX5.3/3.sce#S##66958
+5#Light#5.2#incidence and prism angle#2.sce#1991/CH5/EX5.2/2.sce#S##66957
+5#Light#5.1#minimum deviation#1.sce#1991/CH5/EX5.1/1.sce#S##66956
+4#Waves#4.7#apparent frequency change#7.sce#1991/CH4/EX4.7/7.sce#S##66955
+4#Waves#4.6#doppler effect#6.sce#1991/CH4/EX4.6/6.sce#S##66954
+4#Waves#4.5#fundamental frequency#5.sce#1991/CH4/EX4.5/5.sce#S##66953
+4#Waves#4.4#frequency of beats#4.sce#1991/CH4/EX4.4/4.sce#S##66952
+4#Waves#4.3#length of tube#3.sce#1991/CH4/EX4.3/3.sce#S##66951
+4#Waves#4.1#amplitude and pressure change#1.sce#1991/CH4/EX4.1/1.sce#S##66950
+3#Waves#3.6#wave attributes#6.sce#1991/CH3/EX3.6/6.sce#S##66949
+3#Waves#3.5#wave frequency speed#5.sce#1991/CH3/EX3.5/5.sce#S##66948
+3#Waves#3.4#frequency for antinode#4.sce#1991/CH3/EX3.4/4.sce#S##66947
+3#Waves#3.3#wavespeed in medium#3.sce#1991/CH3/EX3.3/3.sce#S##66946
+3#Waves#3.2# critical angle#2.sce#1991/CH3/EX3.2/2.sce#S##66945
+3#Waves#3.1#refraction and incidence angle#1.sce#1991/CH3/EX3.1/1.sce#S##66944
+2#Mechanics#2.8#tension on string#8.sce#1991/CH2/EX2.8/8.sce#S##66917
+2#Mechanics#2.7#velocity of speedboat#7.sce#1991/CH2/EX2.7/7.sce#S##66916
+2#Mechanics#2.5#car and wind#5.sce#1991/CH2/EX2.5/5.sce#S##66914
+2#Mechanics#2.4#resultant force#4.sce#1991/CH2/EX2.4/4.sce#S##66913
+2#Mechanics#2.32#wire length change#32.sce#1991/CH2/EX2.32/32.sce#S##66943
+2#Mechanics#2.31#Youngs modulus#31.sce#1991/CH2/EX2.31/31.sce#S##66942
+2#Mechanics#2.30#extension of steel wire#30.sce#1991/CH2/EX2.30/30.sce#S##66941
+2#Mechanics#2.3#time to reach aircraft#3.sce#1991/CH2/EX2.3/3.sce#S##66912
+2#Mechanics#2.29#maximum potential energy shm#29.sce#1991/CH2/EX2.29/29.sce#S##66940
+2#Mechanics#2.28#maximum displacement shm#2_28.sce#1991/CH2/EX2.28/2_28.sce#S##78957
+2#Mechanics#2.27#attrbutes simple pendulum#27.sce#1991/CH2/EX2.27/27.sce#S##66938
+2#Mechanics#2.26#simple harmonic motion#26.sce#1991/CH2/EX2.26/26.sce#S##66937
+2#Mechanics#2.25#attributes of shm#25.sce#1991/CH2/EX2.25/25.sce#S##66936
+2#Mechanics#2.23#angular velocity ratio#23.sce#1991/CH2/EX2.23/23.sce#S##66935
+2#Mechanics#2.22#time taken to move#22.sce#1991/CH2/EX2.22/22.sce#S##66934
+2#Mechanics#2.21#total kinetic energy#21.sce#1991/CH2/EX2.21/21.sce#S##66933
+2#Mechanics#2.20#mass of galaxy#20.sce#1991/CH2/EX2.20/20.sce#S##66932
+2#Mechanics#2.2#acceleration and distance#2.sce#1991/CH2/EX2.2/2.sce#S##66911
+2#Mechanics#2.19#orbit radius and linearvelocity#19.sce#1991/CH2/EX2.19/19.sce#S##66931
+2#Mechanics#2.18#planet mean density#18.sce#1991/CH2/EX2.18/18.sce#S##66930
+2#Mechanics#2.17#inclination and reaction#17.sce#1991/CH2/EX2.17/17.sce#S##66929
+2#Mechanics#2.16#tension in arm#16.sce#1991/CH2/EX2.16/16.sce#S##66928
+2#Mechanics#2.15#angularvelocity and centripetal force#15.sce#1991/CH2/EX2.15/15.sce#S##66927
+2#Mechanics#2.14#Inelastic collission#14.sce#1991/CH2/EX2.14/14.sce#S##66926
+2#Mechanics#2.13#inelastic collission#13.sce#1991/CH2/EX2.13/13.sce#S##66925
+2#Mechanics#2.12#components of force#12.sce#1991/CH2/EX2.12/12.sce#S##66924
+2#Mechanics#2.11#components of velocity#11.sce#1991/CH2/EX2.11/11.sce#S##66921
+2#Mechanics#2.10#resultant force#10.sce#1991/CH2/EX2.10/10.sce#S##66918
+2#Mechanics#2.1#acceleration and distance#1.sce#1991/CH2/EX2.1/1.sce#S##66915
+1#Basics#1.1#Neutral temperature#1.sce#1991/CH1/EX1.1/1.sce#S##67027
+1#Basics#1.1#Neutral temperature#graph1.jpeg#1991/CH1/EX1.1/graph1.jpeg#R##67028
+1#Basics#1.1#Neutral temperature#graph2.jpeg#1991/CH1/EX1.1/graph2.jpeg#R##67029

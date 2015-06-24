@@ -1,0 +1,11 @@
+Resistance of distributor per metre = 0.1*10^-3 ohm 
+
+Total current supplied by distributor = 500 A 
+
+Total resistance of the distributor = 0.1 ohm 
+
+Maximum voltage drop = 6.25 V 
+
+Maximm voltage drop will occur at the midpoint of the distributor = 213.75 V 
+
+

@@ -1,0 +1,2 @@
+ Width of depletion region = 4.939e-006 m
+Therefore,breakdown voltage Vbr = 0.3704 V 

@@ -1,0 +1,11 @@
+Full load current = 1154.70 A 
+
+Voltage per phase = 5773.50 V 
+
+Total percentage reactance required = 12.50 % 
+
+External percentage reactance required = 7.50 % 
+
+Percentage reactance = 0.38 ohm 
+
+

@@ -1,0 +1,6 @@
+# PROBLEM 24 # 
+ Standard formula used 
+ l = l_0/((1-v^2/c^2)^1/2) 
+ m = m_0/((1-v^2/c^2)^1/2) 
+
+ Length as it appear to the observer is 0.666667 meter. 

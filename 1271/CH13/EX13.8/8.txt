@@ -1,0 +1,6 @@
+ # PROBLEM 8 # 
+Standard formula used 
+ d = 1 / (x1^2 + y1^2 + z1^2)^1/2 
+
+ The ratio of intercepts of three axes by the point are 6 : 3 : 2. 
+ The ratio of  spacing between two planes is 1.224745. 

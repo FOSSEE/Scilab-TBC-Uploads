@@ -1,0 +1,5 @@
+Vgs=-1.41* (1+ 2Vgs/2.4 + Vgs^2/2.4)
+(a)Upon solving we get Vgs = -2.398 V or -2.398 V
+(b)Drain current Ids = 2.1e-006 A
+(c)Vds = 30.00 V
+(d)Small signal voltage gain Av = 2.50e-005 

@@ -1,0 +1,19 @@
+ unknown resistance(in ohm)=   
+ 
+    151.  
+ 
+ percent error when Q is taken positive(in %)=   
+ 
+    0.5  
+ 
+ error in ohm(in ohm)=   
+ 
+    0.755  
+ 
+ percent error when Q is taken negative(in %)=   
+ 
+    1.5  
+ 
+ error in ohm(in ohm)=   
+ 
+    2.265  

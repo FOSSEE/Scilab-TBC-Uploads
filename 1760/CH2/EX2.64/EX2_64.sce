@@ -1,0 +1,9 @@
+ZA=15+%i*15.708;
+ZB=20+%i*0;
+V=200+%i*0;
+IA=V/ZA;
+disp('i)  CURRENT (IA) is    =  '+string (IA) +' A ');
+IB=V/ZB;
+disp('ii)  CURRENT (IB) is    =  '+string (IB) +' A ');
+I=IA+IB;
+disp('vi) TOTAL CURRENT (I) is    =  '+string (I) +' A ');

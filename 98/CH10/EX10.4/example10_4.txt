@@ -1,0 +1,9 @@
+Line current = 82 A 
+
+Line losses = 750 kW 
+
+R = 37.17 ohm 
+
+Length of the line = 37.17 km 
+
+

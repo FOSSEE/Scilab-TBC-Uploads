@@ -1,0 +1,4 @@
+example 4 20   
+ required capacitor kVAR 54KVAR 
+ overall power factor 0.75 
+ it is seen that point d is on 0.75 line 

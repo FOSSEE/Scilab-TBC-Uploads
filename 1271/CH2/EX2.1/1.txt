@@ -1,0 +1,2 @@
+﻿ Radius of 80th half period zone = 6.324555e-03 meter. 
+ Area of half period zone = 1.570796e-06 square meter.

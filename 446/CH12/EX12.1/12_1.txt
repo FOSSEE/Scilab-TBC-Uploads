@@ -1,0 +1,13 @@
+  
+ Exa-12.1(a)   
+The following method of representing atoms is followed throughout the chapter
+		 x,ySz
+ where x=atomic number y=mass number z= Neutron Number S=symbol of the atom
+
+The helium can be reperesented as 2,4He2
+ 
+ Exa-12.1(b)   
+The helium can be reperesented as 50,116Sn66
+ 
+ Exa-12.1(c)   
+The helium can be reperesented as 92,235U143

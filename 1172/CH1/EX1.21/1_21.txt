@@ -1,0 +1,5 @@
+# Problem 21 # 
+ 
+ Standard formula used 
+   n*lambda= (a+b)*sin(theta)  
+ Maximum order n = 3 may be seen in between the given wavelength spectrum.

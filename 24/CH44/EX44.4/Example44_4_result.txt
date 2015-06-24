@@ -1,0 +1,5 @@
+**Sample Problem 44-4a**
+The initial kinetic energy is equal to 360Kev
+
+**Sample Problem 44-4b**
+The temprature required to achieve that energy equal to 2.782609e+009K

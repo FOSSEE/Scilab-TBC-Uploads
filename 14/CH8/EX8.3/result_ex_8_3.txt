@@ -1,0 +1,35 @@
+ For transformer Ta Y21 and Y22 in per unit is   
+ 
+    10.i  
+ 
+  - 10.i  
+ 
+ For transformer Tb Y21 and Y22 in per unit is   
+ 
+    9.5238095i  
+ 
+  - 9.0702948i  
+ 
+ For the two transformers in parallel   
+ 
+    19.52381i  
+ 
+  - 19.070295i  
+ 
+ V1 in per unit =   
+ 
+    1.0075029 + 0.0409756i  
+ 
+ Difference between V1 and V2 in per unit   
+ 
+    0.0075029 + 0.0409756i  
+ 
+ Complex power transmitted from the two transformers to the load   
+ 
+ From transformer Ta in per unit   
+ 
+    0.4097561 + 0.0750290i  
+ 
+ From transformer Tb in per unit   
+ 
+    0.3902439 + 0.5249710i  

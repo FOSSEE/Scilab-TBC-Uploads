@@ -1,0 +1,7 @@
+unknown resistance(in ohm)=   
+ 
+    1200.  
+ 
+ fractional uncertainty(in ohm)=   
+ 
+    0.0011667

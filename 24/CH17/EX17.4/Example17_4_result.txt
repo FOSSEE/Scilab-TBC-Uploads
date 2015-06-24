@@ -1,0 +1,2 @@
+**Sample Problem 17-4**
+The average power transfered is equal to 99.819639W 

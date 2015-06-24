@@ -1,0 +1,15 @@
+Reisistance of trolley wire and track/km = 0.28 ohm 
+
+Current in section SA = 60 A 
+
+Current in section AB = 20 A 
+
+Voltage drop in section SA = 33.60 V 
+
+Voltage drop in section AB = 22.40 V 
+
+Voltage across tram A = 566.40 V 
+
+Voltage across tram B = 544.00 V 
+
+

@@ -1,0 +1,5 @@
+ # PROBLEM 6 # 
+Standard formula used 
+ E = h*c/lambda 
+
+ Energy of an electron is 4.565517e-19 J.

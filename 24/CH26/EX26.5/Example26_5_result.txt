@@ -1,0 +1,3 @@
+**Sample Problem 26-5**
+The initial stored energy is equal to 1.054688e-009J
+The energy stored after the slab is inserted is equal to 1.622596e-010J 

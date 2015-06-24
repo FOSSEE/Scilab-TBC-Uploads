@@ -1,0 +1,29 @@
+  
+ Sturm sequences   
+ 
+    1.   
+    2.   
+    4.   
+    18.  
+    86.  
+ 
+ Number of eigen values strickly greater than 0 :    
+ 
+    4.  
+ 
+ Sturm sequences   
+ 
+    1.   
+  - 3.   
+  - 31.  
+  - 97.  
+    31.  
+ 
+ Number of eigen values strickly greater than 5 :    
+ 
+    2.  
+ 
+ Number of eigen values between 0 and 5 :    
+ 
+    2.  
+ 

@@ -1,0 +1,8 @@
+**Sample Problem 33-8a**
+The power factor for the circuit is 0.944
+
+**Sample Problem 33-8b**
+The average rate of disscipation of energy is equal to 67.96W
+
+**Sample Problem 33-8c**
+The new capacitance should be 3.32e-005F 

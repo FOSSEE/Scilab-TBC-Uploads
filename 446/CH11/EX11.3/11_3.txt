@@ -1,0 +1,7 @@
+  
+ Ex-11.3(a)   
+The density of charge carriers in copper is 8.498595e+028 atoms/m3
+The average time between collisions of conducting electrons is 2.462116e-014 sec.
+ 
+ Ex-11.3(b)   
+The average mean free path is 3.869030e-008 m = 38.7 nm 

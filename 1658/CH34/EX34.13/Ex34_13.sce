@@ -1,0 +1,15 @@
+clc;
+VL=5;
+Vz=5;
+IL=20*10**-3;
+Pzmax=500*10**-3;
+Vsmax=15;
+Vsmin=9;
+Izmax=Pzmax/Vz;
+Ismax=IL+Izmax;
+Vz=VL;
+Rsmin=(Vsmax-Vz)/(Izmax+IL);
+disp('ohm',Rsmin*1,"Rsmin=");
+ILmax=IL;
+Iz=((Vsmin-Vz)/Rsmin)-ILmax;
+disp('mA',Iz*10**3,"Iz=");

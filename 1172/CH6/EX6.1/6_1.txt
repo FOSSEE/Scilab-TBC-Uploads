@@ -1,0 +1,2 @@
+ # Problem 1 # 
+Percentage contraction in rod is 8.348486 and apparent orientation is 2.886751

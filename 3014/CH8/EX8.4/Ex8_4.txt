@@ -1,0 +1,6 @@
+
+
+
+Example 8.4
+Standard formula used 	H_c = H_c_0*(1-(T/T_c)^2)  
+Magnetic Field at 4 K is 0.052976 tesla.

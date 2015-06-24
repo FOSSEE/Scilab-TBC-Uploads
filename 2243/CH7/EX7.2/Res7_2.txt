@@ -1,0 +1,3 @@
+ Rydberg constant for hydrogen : 109737.16 cm^-1
+
+Rydberg Constant is 109677.43 cm^-1 

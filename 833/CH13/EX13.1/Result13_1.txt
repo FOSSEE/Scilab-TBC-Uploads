@@ -1,0 +1,3 @@
+ Frequency of voltage generated(in c/s)=   
+ 
+    50.  

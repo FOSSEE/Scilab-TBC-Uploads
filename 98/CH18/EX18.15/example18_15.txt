@@ -1,0 +1,14 @@
+ 
+ Line to ground fault:    
+I1=I2=I0=j(-2.86) A 
+Fault current = j(-8.57) A 
+
+ 
+ Three phase fault:    
+Fault current = j(-6.67) A 
+
+Ratio of two fault currents = 1.286 A 
+
+Thus single line to ground fault is 1.286 times that due to dead short circuit on the 3 phases 
+
+

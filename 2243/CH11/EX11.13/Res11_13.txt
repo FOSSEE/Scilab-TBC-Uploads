@@ -1,0 +1,3 @@
+ Wavelength for Ge = 17252.8 A 
+Wavelength for Si = 11292.7 A 
+Wavelength for GaAs = 9410.61 A 

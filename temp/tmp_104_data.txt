@@ -1,0 +1,133 @@
+9#Frequency Domain Analysis#9.9#effect of addition of zeroes #9_9.sce#104/CH9/EX9.9/9_9.sce#S##2072
+9#Frequency Domain Analysis#9.9#effect of addition of zeroes #9_9a.jpeg#104/CH9/EX9.9/9_9a.jpeg#R##2073
+9#Frequency Domain Analysis#9.9#effect of addition of zeroes #9_9b.jpeg#104/CH9/EX9.9/9_9b.jpeg#R##2074
+9#Frequency Domain Analysis#9.8#effect of addition of poles #9_8.sce#104/CH9/EX9.8/9_8.sce#S##2064
+9#Frequency Domain Analysis#9.8#effect of addition of poles #9_8a.jpeg#104/CH9/EX9.8/9_8a.jpeg#R##2065
+9#Frequency Domain Analysis#9.8#effect of addition of poles #9_8b.jpeg#104/CH9/EX9.8/9_8b.jpeg#R##2066
+9#Frequency Domain Analysis#9.7#stability of non minimum phase loop tf#9_7.sce#104/CH9/EX9.7/9_7.sce#S##2057
+9#Frequency Domain Analysis#9.7#stability of non minimum phase loop tf#9_7.jpeg#104/CH9/EX9.7/9_7.jpeg#R##2058
+9#Frequency Domain Analysis#9.6#stability of non minimum phase loop tf#9_6.sce#104/CH9/EX9.6/9_6.sce#S##2052
+9#Frequency Domain Analysis#9.6#stability of non minimum phase loop tf#9_6.jpeg#104/CH9/EX9.6/9_6.jpeg#R##2053
+9#Frequency Domain Analysis#9.5#stability of non minimum phase loop tf#9_5.sce#104/CH9/EX9.5/9_5.sce#S##2047
+9#Frequency Domain Analysis#9.5#stability of non minimum phase loop tf#9_5.jpeg#104/CH9/EX9.5/9_5.jpeg#R##2048
+9#Frequency Domain Analysis#9.4#stability of minimum phase loop tf#9_4.sce#104/CH9/EX9.4/9_4.sce#S##2042
+9#Frequency Domain Analysis#9.4#stability of minimum phase loop tf#9_4.jpeg#104/CH9/EX9.4/9_4.jpeg#R##2043
+9#Frequency Domain Analysis#9.3#stability of non minimum phase loop tf#9_3.sce#104/CH9/EX9.3/9_3.sce#S##2038
+9#Frequency Domain Analysis#9.3#stability of non minimum phase loop tf#9_3.jpeg#104/CH9/EX9.3/9_3.jpeg#R##2039
+9#Frequency Domain Analysis#9.2#nyquist plot#9_2.sce#104/CH9/EX9.2/9_2.sce#S##2034
+9#Frequency Domain Analysis#9.2#nyquist plot#9_2.jpeg#104/CH9/EX9.2/9_2.jpeg#R##2035
+9#Frequency Domain Analysis#9.17#relative stability#9_17.sce#104/CH9/EX9.17/9_17.sce#S##2103
+9#Frequency Domain Analysis#9.17#relative stability#9_17.jpeg#104/CH9/EX9.17/9_17.jpeg#R##2104
+9#Frequency Domain Analysis#9.15#bode plot#9_15.sce#104/CH9/EX9.15/9_15.sce#S##2099
+9#Frequency Domain Analysis#9.15#bode plot#9_15.jpeg#104/CH9/EX9.15/9_15.jpeg#R##2100
+9#Frequency Domain Analysis#9.14#gain margin and phase margin#9_14.sce#104/CH9/EX9.14/9_14.sce#S##2091
+9#Frequency Domain Analysis#9.14#gain margin and phase margin#9_14.jpeg#104/CH9/EX9.14/9_14.jpeg#R##2092
+9#Frequency Domain Analysis#9.10#multiple loop systems#9_10.sce#104/CH9/EX9.10/9_10.sce#S##2081
+9#Frequency Domain Analysis#9.10#multiple loop systems#9_10.jpeg#104/CH9/EX9.10/9_10.jpeg#R##2082
+9#Frequency Domain Analysis#9.1#nyquist plot#9_1.sce#104/CH9/EX9.1/9_1.sce#S##2029
+9#Frequency Domain Analysis#9.1#nyquist plot#9_1.jpeg#104/CH9/EX9.1/9_1.jpeg#R##2030
+8#Root Locus Technique#8.9#multiple order pole#8_9.sce#104/CH8/EX8.9/8_9.sce#S##1956
+8#Root Locus Technique#8.8#angle of departure and angle of arrivals#8_8.sce#104/CH8/EX8.8/8_8.sce#S##1949
+8#Root Locus Technique#8.8#angle of departure and angle of arrivals#8_8.jpeg#104/CH8/EX8.8/8_8.jpeg#R##1950
+8#Root Locus Technique#8.5#root locus#8_5.sce#104/CH8/EX8.5/8_5.sce#S##1942
+8#Root Locus Technique#8.5#root locus#8_5.jpeg#104/CH8/EX8.5/8_5.jpeg#R##1943
+8#Root Locus Technique#8.4#root locus#8_4.sce#104/CH8/EX8.4/8_4.sce#S##1938
+8#Root Locus Technique#8.4#root locus#8_4.jpeg#104/CH8/EX8.4/8_4.jpeg#R##1939
+8#Root Locus Technique#8.3#root locus#8_3.sce#104/CH8/EX8.3/8_3.sce#S##1929
+8#Root Locus Technique#8.3#root locus#8_3.jpeg#104/CH8/EX8.3/8_3.jpeg#R##1930
+8#Root Locus Technique#8.21#effect of moving poles awat from jw axis#8_21.sce#104/CH8/EX8.21/8_21.sce#S##2018
+8#Root Locus Technique#8.21#effect of moving poles awat from jw axis#8_21a.jpeg#104/CH8/EX8.21/8_21a.jpeg#R##2019
+8#Root Locus Technique#8.21#effect of moving poles awat from jw axis#8_21b.jpeg#104/CH8/EX8.21/8_21b.jpeg#R##2020
+8#Root Locus Technique#8.20#effect of moving poles near jw axis#8_20.sce#104/CH8/EX8.20/8_20.sce#S##2013
+8#Root Locus Technique#8.20#effect of moving poles near jw axis#8_20a.jpeg#104/CH8/EX8.20/8_20a.jpeg#R##2014
+8#Root Locus Technique#8.20#effect of moving poles near jw axis#8_20b.jpeg#104/CH8/EX8.20/8_20b.jpeg#R##2015
+8#Root Locus Technique#8.2#root locus#8_2.sce#104/CH8/EX8.2/8_2.sce#S##1919
+8#Root Locus Technique#8.2#root locus#8_2.jpeg#104/CH8/EX8.2/8_2.jpeg#R##1920
+8#Root Locus Technique#8.19#effect of addition of zeroes to system#8_19.sce#104/CH8/EX8.19/8_19.sce#S##2008
+8#Root Locus Technique#8.19#effect of addition of zeroes to system#8_19a.jpeg#104/CH8/EX8.19/8_19a.jpeg#R##2009
+8#Root Locus Technique#8.19#effect of addition of zeroes to system#8_19b.jpeg#104/CH8/EX8.19/8_19b.jpeg#R##2010
+8#Root Locus Technique#8.18#effect of addition of poles to system#8_18.sce#104/CH8/EX8.18/8_18.sce#S##2003
+8#Root Locus Technique#8.18#effect of addition of poles to system#8_18a.jpeg#104/CH8/EX8.18/8_18a.jpeg#R##2004
+8#Root Locus Technique#8.18#effect of addition of poles to system#8_18b.jpeg#104/CH8/EX8.18/8_18b.jpeg#R##2005
+8#Root Locus Technique#8.17#properties of root loci#8_17.sce#104/CH8/EX8.17/8_17.sce#S##2001
+8#Root Locus Technique#8.16#calculation of K on root loci#8_16.sce#104/CH8/EX8.16/8_16.sce#S##1997
+8#Root Locus Technique#8.16#calculation of K on root loci#8_16.jpeg#104/CH8/EX8.16/8_16.jpeg#R##1998
+8#Root Locus Technique#8.15#root sensitivity#8_15.sce#104/CH8/EX8.15/8_15.sce#S##1991
+8#Root Locus Technique#8.15#root sensitivity#8_15a.jpeg#104/CH8/EX8.15/8_15a.jpeg#R##1992
+8#Root Locus Technique#8.15#root sensitivity#8_15b.jpeg#104/CH8/EX8.15/8_15b.jpeg#R##1993
+8#Root Locus Technique#8.14#breakaway points#8_14.sce#104/CH8/EX8.14/8_14.sce#S##1989
+8#Root Locus Technique#8.14#breakaway points#8_14.jpeg#104/CH8/EX8.14/8_14.jpeg#R##1990
+8#Root Locus Technique#8.13#breakaway points#8_13.sce#104/CH8/EX8.13/8_13.sce#S##1984
+8#Root Locus Technique#8.13#breakaway points#8_13.jpeg#104/CH8/EX8.13/8_13.jpeg#R##1985
+8#Root Locus Technique#8.12#breakaway points#8_12.sce#104/CH8/EX8.12/8_12.sce#S##1982
+8#Root Locus Technique#8.12#breakaway points#8_12.jpeg#104/CH8/EX8.12/8_12.jpeg#R##1983
+8#Root Locus Technique#8.11#breakaway points#8_11.sce#104/CH8/EX8.11/8_11.sce#S##1972
+8#Root Locus Technique#8.11#breakaway points#8_11.jpeg#104/CH8/EX8.11/8_11.jpeg#R##1973
+8#Root Locus Technique#8.10#intersection of root loci with real axis#8_10.sce#104/CH8/EX8.10/8_10.sce#S##1965
+8#Root Locus Technique#8.10#intersection of root loci with real axis#8_10.jpeg#104/CH8/EX8.10/8_10.jpeg#R##1966
+8#Root Locus Technique#8.1#poles and zeros#8_1.sce#104/CH8/EX8.1/8_1.sce#S##1917
+8#Root Locus Technique#8.1#poles and zeros#8_1.jpeg#104/CH8/EX8.1/8_1.jpeg#R##1918
+7#Time Domain Analysis of Control Systems#7.6#steady state errors from closed loop tf#7_6.sce#104/CH7/EX7.6/7_6.sce#S##1916
+7#Time Domain Analysis of Control Systems#7.5#steady state errors from closed loop tf#7_5.sce#104/CH7/EX7.5/7_5.sce#S##1907
+7#Time Domain Analysis of Control Systems#7.4#steady state errors from closed loop tf#7_4.sce#104/CH7/EX7.4/7_4.sce#S##1902
+7#Time Domain Analysis of Control Systems#7.3#steady state errors from closed loop tf#7_3.sce#104/CH7/EX7.3/7_3.sce#S##1899
+7#Time Domain Analysis of Control Systems#7.2#steady state errors from open loop tf#7_2.sce#104/CH7/EX7.2/7_2.sce#S##1898
+7#Time Domain Analysis of Control Systems#7.1#type of system#7_1.sce#104/CH7/EX7.1/7_1.sce#S##1895
+6#Stability of Linear Control Systems#6.9#bilinear transformation method#6_9.sce#104/CH6/EX6.9/6_9.sce#S##1887
+6#Stability of Linear Control Systems#6.8#stability of closed loop systems#6_8.sce#104/CH6/EX6.8/6_8.sce#S##1884
+6#Stability of Linear Control Systems#6.7#determining critical value of K#6_7.sce#104/CH6/EX6.7/6_7.sce#S##1879
+6#Stability of Linear Control Systems#6.6#determining critical value of K#6_6.sce#104/CH6/EX6.6/6_6.sce#S##1873
+6#Stability of Linear Control Systems#6.5#elements in any row of rouths tabulations are all #6_5.sce#104/CH6/EX6.5/6_5.sce#S##1872
+6#Stability of Linear Control Systems#6.4#first element in any row of rouths tabulation is z#6_4.sce#104/CH6/EX6.4/6_4.sce#S##1867
+6#Stability of Linear Control Systems#6.3#rouths tabulation to determine stability#6_3.sce#104/CH6/EX6.3/6_3.sce#S##1865
+6#Stability of Linear Control Systems#6.2#rouths tabulation to determine stability#6_2.sce#104/CH6/EX6.2/6_2.sce#S##1861
+6#Stability of Linear Control Systems#6.10#bilinear transformation method#6_10.sce#104/CH6/EX6.10/6_10.sce#S##1894
+6#Stability of Linear Control Systems#6.1#stability of open loop systems#6_1.sce#104/CH6/EX6.1/6_1.sce#S##1857
+5#State Variable Analysis#5.9#eigen values#5_9.sce#104/CH5/EX5.9/5_9.sce#S##1818
+5#State Variable Analysis#5.8#characteristic equation from state equation#5_8.sce#104/CH5/EX5.8/5_8.sce#S##1817
+5#State Variable Analysis#5.7#characteristic equation from transfer function#5_7.sce#104/CH5/EX5.7/5_7.sce#S##1812
+5#State Variable Analysis#5.21#observability#5_21.sce#104/CH5/EX5.21/5_21.sce#S##1849
+5#State Variable Analysis#5.20#controllability#5_20.sce#104/CH5/EX5.20/5_20.sce#S##1848
+5#State Variable Analysis#5.19#controllability#5_19.sce#104/CH5/EX5.19/5_19.sce#S##1842
+5#State Variable Analysis#5.18#system with identical eigen values#5_18.sce#104/CH5/EX5.18/5_18.sce#S##1836
+5#State Variable Analysis#5.14#dcf form#5_14.sce#104/CH5/EX5.14/5_14.sce#S##1832
+5#State Variable Analysis#5.13#ocf form#5_13.sce#104/CH5/EX5.13/5_13.sce#S##1828
+5#State Variable Analysis#5.12#ccf form#5_12.sce#104/CH5/EX5.12/5_12.sce#S##1821
+5#State Variable Analysis#5.1#state transition equation#5_1.sce#104/CH5/EX5.1/5_1.sce#S##1811
+4#Mathematical Modelling of Physical Systems#4.9#incremental encoder#4_9.sce#104/CH4/EX4.9/4_9.sce#S##1686
+4#Mathematical Modelling of Physical Systems#4.5#mass spring system#4_5.sce#104/CH4/EX4.5/4_5.sce#S##1684
+4#Mathematical Modelling of Physical Systems#4.4#mass spring system#4_4.sce#104/CH4/EX4.4/4_4.sce#S##1673
+4#Mathematical Modelling of Physical Systems#4.3#gear trains#4_3.sce#104/CH4/EX4.3/4_3.sce#S##1668
+4#Mathematical Modelling of Physical Systems#4.2#transfer fnuction of electric network#4_2.sce#104/CH4/EX4.2/4_2.sce#S##1658
+4#Mathematical Modelling of Physical Systems#4.1#transfer fnuction of system#4_1.sce#104/CH4/EX4.1/4_1.sce#S##1656
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.9#masons gain formula#3_9.sce#104/CH3/EX3.9/3_9.sce#S##1637
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.7#masons gain formula#3_7.sce#104/CH3/EX3.7/3_7.sce#S##1635
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.6#masons gain formula#3_6.sce#104/CH3/EX3.6/3_6.sce#S##1632
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.5#masons gain formula#3_5.sce#104/CH3/EX3.5/3_5.sce#S##1627
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.4#masons gain formula#3_4.sce#104/CH3/EX3.4/3_4.sce#S##1623
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.3#masons gain formula applied to SFG in figure 3 15#3_3.sce#104/CH3/EX3.3/3_3.sce#S##1617
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.11#masons gain formula#3_11.sce#104/CH3/EX3.11/3_11.sce#S##1645
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.10#masons gain formula#3_10.sce#104/CH3/EX3.10/3_10.sce#S##1641
+3#Transfer Functions Block Diagrams and Signal Flow Graphs#3.1#closed loop transfer function matrix#3_1.sce#104/CH3/EX3.1/3_1.sce#S##1607
+2#Mathematical Foundation#2.9#inverse laplace transform#2_9.sce#104/CH2/EX2.9/2_9.sce#S##1548
+2#Mathematical Foundation#2.8#inverse laplace transform#2_8.sce#104/CH2/EX2.8/2_8.sce#S##1547
+2#Mathematical Foundation#2.7#inverse laplace transform#2_7.sce#104/CH2/EX2.7/2_7.sce#S##1546
+2#Mathematical Foundation#2.5#partial fractions#2_5.sci#104/CH2/EX2.5/2_5.sci#S##1545
+2#Mathematical Foundation#2.4#inverse laplace#2_4.sce#104/CH2/EX2.4/2_4.sce#S##1544
+2#Mathematical Foundation#2.3#final value thereom#2_3.sci#104/CH2/EX2.3/2_3.sci#S##1543
+2#Mathematical Foundation#2.25#final value thereom#2_25.sce#104/CH2/EX2.25/2_25.sce#S##1578
+2#Mathematical Foundation#2.23#z transform#2_23.sce#104/CH2/EX2.23/2_23.sce#S##1576
+2#Mathematical Foundation#2.22#z transform#2_22.sce#104/CH2/EX2.22/2_22.sce#S##1574
+2#Mathematical Foundation#2.21#z transform#2_21.sce#104/CH2/EX2.21/2_21.sce#S##1570
+2#Mathematical Foundation#2.20#rank of a matrix#2_20.sce#104/CH2/EX2.20/2_20.sce#S##1567
+2#Mathematical Foundation#2.2#laplace transform of exponential function#2_2.sci#104/CH2/EX2.2/2_2.sci#S##1542
+2#Mathematical Foundation#2.19#inverse of 3x3 matrix#2_19.sce#104/CH2/EX2.19/2_19.sce#S##1564
+2#Mathematical Foundation#2.18#inverse of 2x2 matrix#2_18.sce#104/CH2/EX2.18/2_18.sce#S##1562
+2#Mathematical Foundation#2.17#multiplication of matrices#2_17.sce#104/CH2/EX2.17/2_17.sce#S##1559
+2#Mathematical Foundation#2.16#conformability for multiplication of matrices#2_16.sce#104/CH2/EX2.16/2_16.sce#S##1558
+2#Mathematical Foundation#2.15#addition of matrices#2_15.sce#104/CH2/EX2.15/2_15.sce#S##1554
+2#Mathematical Foundation#2.14#equality of matrices#2_14.sce#104/CH2/EX2.14/2_14.sce#S##1552
+2#Mathematical Foundation#2.13#adjoint of matrix#2_13.sce#104/CH2/EX2.13/2_13.sce#S##1551
+2#Mathematical Foundation#2.12#transpose of matrix#2_12.sce#104/CH2/EX2.12/2_12.sce#S##1550
+2#Mathematical Foundation#2.10#determinant of matrix#2_10.sce#104/CH2/EX2.10/2_10.sce#S##1549
+2#Mathematical Foundation#2.1#laplace transform of step function#2_1.sce#104/CH2/EX2.1/2_1.sce#S##1541

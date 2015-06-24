@@ -1,0 +1,17 @@
+ 
+
+
+Transmission line voltage base = 123.2 kV
+Motor voltage base = 11 kV
+
+Transformer reactance = 0.0803 pu
+Line reactance = 0.165 pu
+Reactance of motor 1 = 0.344 pu
+Reactance of motor 2 = 0.689 pu
+
+ 
+ Positive and Negative sequence diagram has been drawn using XCO 
+      S,simulation has not been done as it is not being asked in 
+       the problem                                               
+ 
+

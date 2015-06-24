@@ -1,0 +1,3 @@
+ # Problem 4a # 
+Standard formula r2/r1 = (t2/t1)^(2/3) 
+ Relative speed of satellite s2 wrt satellite s1 is -3.769911e+04 km/h.

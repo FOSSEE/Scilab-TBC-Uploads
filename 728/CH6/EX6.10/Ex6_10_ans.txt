@@ -1,0 +1,5 @@
+ 
+ Effective power received (in dB)=   
+ 
+  - 0.4563381  
+ 

@@ -1,0 +1,5 @@
+ # Problem 10 a # 
+
+ Standard formula Used 
+ 2 * d * sin(theta) = n * lambda 
+ Separation between adjacent layers of crystals is 2.983165 angstrom. 

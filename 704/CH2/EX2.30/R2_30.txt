@@ -1,0 +1,8 @@
+net resistance of armature which reduce speed of the machine to 800 rpm (in Ohm)=   
+ 
+    1.1445118  
+ 
+ additional resistance required to be connected in series to reduced speed of machine to 800 rpm (in Ohm)==   
+ 
+    1.1145118  
+ 

@@ -1,0 +1,2 @@
+
+ Value of Rf =  90000.0000 ohm

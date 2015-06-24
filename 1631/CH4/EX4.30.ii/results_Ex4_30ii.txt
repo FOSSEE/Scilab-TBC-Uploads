@@ -1,0 +1,5 @@
+ Quantizatio noise power    
+ 
+    2.1522995  
+ 
+ mW 

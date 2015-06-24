@@ -1,0 +1,2 @@
+ Debye length is 1.051784e-04 meter.
+ Plasma frequency is 8.973209e+08 Hz.

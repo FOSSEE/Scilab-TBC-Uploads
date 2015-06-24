@@ -1,0 +1,76 @@
+12#Memory Systems#12.6#Total number of memory cells#ex12_6.sce#2492/CH12/EX12.6/ex12_6.sce#S##97839
+12#Memory Systems#12.5#Memory cell#ex12_5.sce#2492/CH12/EX12.5/ex12_5.sce#S##97838
+12#Memory Systems#12.4#Number of address line#ex12_4.sce#2492/CH12/EX12.4/ex12_4.sce#S##97837
+12#Memory Systems#12.3#Bits of storage and lines in address bus#ex12_3.sce#2492/CH12/EX12.3/ex12_3.sce#S##97836
+12#Memory Systems#12.2#Required address bits#ex12_2.sce#2492/CH12/EX12.2/ex12_2.sce#S##97835
+12#Memory Systems#12.1#Capacity of memory chip#ex12_1.sce#2492/CH12/EX12.1/ex12_1.sce#S##97834
+8#Digital Logic and Combinational Circuits#8.9#Maximum permissible value of RB#ex8_9.sce#2492/CH8/EX8.9/ex8_9.sce#S##97822
+8#Digital Logic and Combinational Circuits#8.4#Convert decimal into octal#ex8_4.sce#2492/CH8/EX8.4/ex8_4.sce#S##97821
+8#Digital Logic and Combinational Circuits#8.3#Convert octal into hexadecimal number#ex8_3.sce#2492/CH8/EX8.3/ex8_3.sce#S##97820
+8#Digital Logic and Combinational Circuits#8.2#Convert octal into binary#ex8_2.sce#2492/CH8/EX8.2/ex8_2.sce#S##97819
+8#Digital Logic and Combinational Circuits#8.1#Hexadecimal number 3BF ino binary#ex8_1.sce#2492/CH8/EX8.1/ex8_1.sce#S##97818
+7#Operational Amplifiers#7.9#Value of constant A1 and A2#ex7_9.sce#2492/CH7/EX7.9/ex7_9.sce#S##97814
+7#Operational Amplifiers#7.8#Open loop voltage gain#ex7_8.sce#2492/CH7/EX7.8/ex7_8.sce#S##97813
+7#Operational Amplifiers#7.6#Output voltage#ex7_6.sce#2492/CH7/EX7.6/ex7_6.sce#S##97812
+7#Operational Amplifiers#7.13#Voltage gain and input resistance#ex7_13.sce#2492/CH7/EX7.13/ex7_13.sce#S##97817
+7#Operational Amplifiers#7.12#Output voltage#ex7_12.sce#2492/CH7/EX7.12/ex7_12.sce#S##97816
+7#Operational Amplifiers#7.10#CMRR in dB#ex7_10.sce#2492/CH7/EX7.10/ex7_10.sce#S##97815
+7#Operational Amplifiers#7.1#Output voltage#ex7_1.sce#2492/CH7/EX7.1/ex7_1.sce#S##97811
+6#Feedback Amplifiers and Oscillations#6.9#Value of vo by vs Ri and Ro#ex6_9.sce#2492/CH6/EX6.9/ex6_9.sce#S##97809
+6#Feedback Amplifiers and Oscillations#6.8#Av of the basic amplifier#ex6_8.sce#2492/CH6/EX6.8/ex6_8.sce#S##97808
+6#Feedback Amplifiers and Oscillations#6.7#Wien bridge oscillation#ex6_7.sce#2492/CH6/EX6.7/ex6_7.sce#S##97807
+6#Feedback Amplifiers and Oscillations#6.6#Value of fLF#ex6_6.sce#2492/CH6/EX6.6/ex6_6.sce#S##97806
+6#Feedback Amplifiers and Oscillations#6.5#Output voltage and input voltage#ex6_5.sce#2492/CH6/EX6.5/ex6_5.sce#S##97805
+6#Feedback Amplifiers and Oscillations#6.4#Reverse transmission factor#ex6_4.sce#2492/CH6/EX6.4/ex6_4.sce#S##97804
+6#Feedback Amplifiers and Oscillations#6.3#Value of RC#ex6_3.sce#2492/CH6/EX6.3/ex6_3.sce#S##97803
+6#Feedback Amplifiers and Oscillations#6.2#Av of the basic amplifier#ex6_2.sce#2492/CH6/EX6.2/ex6_2.sce#S##97802
+6#Feedback Amplifiers and Oscillations#6.10#Voltage gain input resistance#ex6_10.sce#2492/CH6/EX6.10/ex6_10.sce#S##97810
+6#Feedback Amplifiers and Oscillations#6.1#New gain after feedback#ex6_1.sce#2492/CH6/EX6.1/ex6_1.sce#S##97801
+5#Transistor Biasing and Small Signal Amplifiers#5.9#Mid band voltage gain and input impedance#ex5_9.sce#2492/CH5/EX5.9/ex5_9.sce#S##97799
+5#Transistor Biasing and Small Signal Amplifiers#5.8#Cut off frequency#ex5_8.sce#2492/CH5/EX5.8/ex5_8.sce#S##97798
+5#Transistor Biasing and Small Signal Amplifiers#5.7#Ai Av Ri Ais and Avs#ex5_7.sce#2492/CH5/EX5.7/ex5_7.sce#S##97797
+5#Transistor Biasing and Small Signal Amplifiers#5.6#Lower 3 dB frequency#ex5_6.sce#2492/CH5/EX5.6/ex5_6.sce#S##97796
+5#Transistor Biasing and Small Signal Amplifiers#5.5#External current gain#ex5_5.sce#2492/CH5/EX5.5/ex5_5.sce#S##97795
+5#Transistor Biasing and Small Signal Amplifiers#5.4#External voltage gain#ex5_4.sce#2492/CH5/EX5.4/ex5_4.sce#S##97794
+5#Transistor Biasing and Small Signal Amplifiers#5.3#z parameter#ex5_3.sce#2492/CH5/EX5.3/ex5_3.sce#S##97793
+5#Transistor Biasing and Small Signal Amplifiers#5.2#h parameters#ex5_2.sce#2492/CH5/EX5.2/ex5_2.sce#S##97792
+5#Transistor Biasing and Small Signal Amplifiers#5.10#Value of rE Ai and Rin#ex5_10.sce#2492/CH5/EX5.10/ex5_10.sce#S##97800
+5#Transistor Biasing and Small Signal Amplifiers#5.1#h parameters#ex5_1.sce#2492/CH5/EX5.1/ex5_1.sce#S##97791
+4#BJTs and FETs#4.9#Value of R1 and R2#ex4_9.sce#2492/CH4/EX4.9/ex4_9.sce#S##97789
+4#BJTs and FETs#4.8#New operating point#ex4_8.sce#2492/CH4/EX4.8/ex4_8.sce#S##97788
+4#BJTs and FETs#4.7#Value of Beta dc#ex4_7.sce#2492/CH4/EX4.7/ex4_7.sce#S##97787
+4#BJTs and FETs#4.5#Value of bita dc#ex4_5.sce#2492/CH4/EX4.5/ex4_5.sce#S##97786
+4#BJTs and FETs#4.4#DC load line#ex4_4.sce#2492/CH4/EX4.4/ex4_4.sce#S##97785
+4#BJTs and FETs#4.3#NEw value of VCE#ex4_3.sce#2492/CH4/EX4.3/ex4_3.sce#S##97784
+4#BJTs and FETs#4.21#Base and emitter current#ex4_21.sce#2492/CH4/EX4.21/ex4_21.sce#S##97833
+4#BJTs and FETs#4.20#Emitter current#ex4_20.sce#2492/CH4/EX4.20/ex4_20.sce#S##97832
+4#BJTs and FETs#4.2#Value of RB RC and IC#ex4_2.sce#2492/CH4/EX4.2/ex4_2.sce#S##97783
+4#BJTs and FETs#4.19#Base current#ex4_19.sce#2492/CH4/EX4.19/ex4_19.sce#S##97831
+4#BJTs and FETs#4.18#IC and IB#ex4_18.sce#2492/CH4/EX4.18/ex4_18.sce#S##97830
+4#BJTs and FETs#4.17#Alphadc and emitter current#ex4_17.sce#2492/CH4/EX4.17/ex4_17.sce#S##97829
+4#BJTs and FETs#4.16#Alphadc and beta dc#ex4_16.sce#2492/CH4/EX4.16/ex4_16.sce#S##97828
+4#BJTs and FETs#4.15#Collector current#ex4_15.sce#2492/CH4/EX4.15/ex4_15.sce#S##97827
+4#BJTs and FETs#4.14#Change in base current#ex4_14.sce#2492/CH4/EX4.14/ex4_14.sce#S##97826
+4#BJTs and FETs#4.13#Base current and emitter current#ex4_13.sce#2492/CH4/EX4.13/ex4_13.sce#S##97825
+4#BJTs and FETs#4.12#Emitter current#ex4_12.sce#2492/CH4/EX4.12/ex4_12.sce#S##97824
+4#BJTs and FETs#4.11#Base current#ex4_11.sce#2492/CH4/EX4.11/ex4_11.sce#S##97823
+4#BJTs and FETs#4.10#DC load line#ex4_10.sce#2492/CH4/EX4.10/ex4_10.sce#S##97790
+4#BJTs and FETs#4.1#DC load line#ex4_1.sce#2492/CH4/EX4.1/ex4_1.sce#S##97782
+3#Junction Diode and Their Applications#3.9#Designing of a zener voltage regulator#ex3_9.sce#2492/CH3/EX3.9/ex3_9.sce#S##97780
+3#Junction Diode and Their Applications#3.8#Designing of a zener voltage regulator#ex3_8.sce#2492/CH3/EX3.8/ex3_8.sce#S##97779
+3#Junction Diode and Their Applications#3.7#Output dc voltage #ex3_7.sce#2492/CH3/EX3.7/ex3_7.sce#S##97778
+3#Junction Diode and Their Applications#3.6#Input and output waveform#ex3_6.sce#2492/CH3/EX3.6/ex3_6.sce#S##97777
+3#Junction Diode and Their Applications#3.5#Designing of the circuit#ex3_5.sce#2492/CH3/EX3.5/ex3_5.sce#S##97776
+3#Junction Diode and Their Applications#3.4#Value of R#ex3_4.sce#2492/CH3/EX3.4/ex3_4.sce#S##97775
+3#Junction Diode and Their Applications#3.3#Maximum and minimum value of zener diode current#ex3_3.sce#2492/CH3/EX3.3/ex3_3.sce#S##97774
+3#Junction Diode and Their Applications#3.2#Required PIV#ex3_2.sce#2492/CH3/EX3.2/ex3_2.sce#S##97773
+3#Junction Diode and Their Applications#3.10#Value of limiting resistance R1 and R2#ex3_10.sce#2492/CH3/EX3.10/ex3_10.sce#S##97781
+3#Junction Diode and Their Applications#3.1#Im Idc Irms and Ripple factor#ex3_1.sce#2492/CH3/EX3.1/ex3_1.sce#S##97772
+2#Semiconductor Materials And Junction Diode#2.8#Reverse saturation current#ex2_8.sce#2492/CH2/EX2.8/ex2_8.sce#S##97771
+2#Semiconductor Materials And Junction Diode#2.7#Value of Is#ex2_7.sce#2492/CH2/EX2.7/ex2_7.sce#S##97770
+2#Semiconductor Materials And Junction Diode#2.6#Load line#ex2_6.sce#2492/CH2/EX2.6/ex2_6.sce#S##97769
+2#Semiconductor Materials And Junction Diode#2.5#Maximum and minimum values of the instantaneous power#ex2_5.sce#2492/CH2/EX2.5/ex2_5.sce#S##97768
+2#Semiconductor Materials And Junction Diode#2.4#Slope of the line#ex2_4.sce#2492/CH2/EX2.4/ex2_4.sce#S##97767
+2#Semiconductor Materials And Junction Diode#2.3#Increase in forward current#ex2_3.sce#2492/CH2/EX2.3/ex2_3.sce#S##97766
+2#Semiconductor Materials And Junction Diode#2.2#Peak output voltage#ex2_2.sce#2492/CH2/EX2.2/ex2_2.sce#S##97765
+2#Semiconductor Materials And Junction Diode#2.1#Electron and hole component of current density#ex2_1.sce#2492/CH2/EX2.1/ex2_1.sce#S##97764

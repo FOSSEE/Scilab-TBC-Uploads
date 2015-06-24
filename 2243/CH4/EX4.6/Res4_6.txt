@@ -1,0 +1,11 @@
+For line D1  and Wavelength 5890 A:
+
+ Angles at which first order and second order maxima will be observed are :
+ Order :1 ,20.355 degrees 
+ Order :2 ,44.081 degrees 
+For line D2 and Wavelength 5895.9 A :
+
+ Angles at which first order and second order maxima will be observed are :
+Order : 1, 20.376 degrees 
+Order : 2, 44.136 degrees 
+ When n = 3,  sin(theta)= ((n*lambda*10^-8)/a_plus_b)>1 , which falls outside the sine range, hence third order maximum is not visible 

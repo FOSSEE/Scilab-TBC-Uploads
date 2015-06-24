@@ -1,0 +1,3 @@
+ Induced emf (in volts)=   
+ 
+    16.

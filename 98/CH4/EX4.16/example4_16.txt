@@ -1,0 +1,5 @@
+Capacity of station B = 17241 kW 
+Capacity of station A = 32759 kW 
+Number of hours if station B operation = 3020 hours 
+
+

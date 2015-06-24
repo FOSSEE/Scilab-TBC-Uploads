@@ -1,0 +1,2 @@
+**Sample Problem 3b**
+The difference in acceleration is approximately equal to  -1.454427e+001m/s^2 

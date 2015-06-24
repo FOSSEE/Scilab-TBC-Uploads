@@ -1,0 +1,2 @@
+**Sample Problem 21-1**
+The change in entropy for the irreversible process is equal to 5.760053J/K

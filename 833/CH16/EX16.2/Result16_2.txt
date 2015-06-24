@@ -1,0 +1,4 @@
+ Equivalent circuit resistance(in ohms)=   
+ 
+    714.15  
+ 

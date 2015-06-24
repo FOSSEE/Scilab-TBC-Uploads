@@ -1,0 +1,222 @@
+8#Superconductivity #8.9#Calculation of depth of penetration#Ex8_9.sce#3014/CH8/EX8.9/Ex8_9.sce#S##104129
+8#Superconductivity #8.9#Calculation of depth of penetration#Ex8_9.txt#3014/CH8/EX8.9/Ex8_9.txt#R##104130
+8#Superconductivity #8.8#Calculation of transition temperature and critical field#Ex8_8.sce#3014/CH8/EX8.8/Ex8_8.sce#S##104127
+8#Superconductivity #8.8#Calculation of transition temperature and critical field#Ex8_8.txt#3014/CH8/EX8.8/Ex8_8.txt#R##104128
+8#Superconductivity #8.7#Making observation for given data#Ex8_7.sce#3014/CH8/EX8.7/Ex8_7.sce#S##104125
+8#Superconductivity #8.7#Making observation for given data#Ex8_7.txt#3014/CH8/EX8.7/Ex8_7.txt#R##104126
+8#Superconductivity #8.6#Calculation of transition temperature#Ex8_6.sce#3014/CH8/EX8.6/Ex8_6.sce#S##104123
+8#Superconductivity #8.6#Calculation of transition temperature#Ex8_6.txt#3014/CH8/EX8.6/Ex8_6.txt#R##104124
+8#Superconductivity #8.5#Calculation of temperature #Ex8_5.txt#3014/CH8/EX8.5/Ex8_5.txt#R##104122
+8#Superconductivity #8.5#Calculation of temperature #Ex8_5.sce#3014/CH8/EX8.5/Ex8_5.sce#S##104121
+8#Superconductivity #8.4#Calculation of critical field#Ex8_4.sce#3014/CH8/EX8.4/Ex8_4.sce#S##104115
+8#Superconductivity #8.4#Calculation of critical field#Ex8_4.txt#3014/CH8/EX8.4/Ex8_4.txt#R##104116
+8#Superconductivity #8.3#Calculation of temperature #Ex8_3.sce#3014/CH8/EX8.3/Ex8_3.sce#S##104113
+8#Superconductivity #8.3#Calculation of temperature #Ex8_3.txt#3014/CH8/EX8.3/Ex8_3.txt#R##104114
+8#Superconductivity #8.2#Calculation of magnitude of magnetic field#Ex8_2.sce#3014/CH8/EX8.2/Ex8_2.sce#S##104111
+8#Superconductivity #8.2#Calculation of magnitude of magnetic field#Ex8_2.txt#3014/CH8/EX8.2/Ex8_2.txt#R##104112
+8#Superconductivity #8.10#Calculation of penetration depth #Ex8_10.sce#3014/CH8/EX8.10/Ex8_10.sce#S##108653
+8#Superconductivity #8.10#Calculation of penetration depth #Ex8_10.txt#3014/CH8/EX8.10/Ex8_10.txt#R##108654
+8#Superconductivity #8.1#Calculation of critical field at 2K#Ex8_1.sce#3014/CH8/EX8.1/Ex8_1.sce#S##104109
+8#Superconductivity #8.1#Calculation of critical field at 2K#Ex8_1.txt#3014/CH8/EX8.1/Ex8_1.txt#R##104110
+7#Maxwells Equations and Electromagnetic Waves#7.9#Calculation of skin depth for a given frequency#Ex7_9.txt#3014/CH7/EX7.9/Ex7_9.txt#R##104100
+7#Maxwells Equations and Electromagnetic Waves#7.9#Calculation of skin depth for a given frequency#Ex7_9.sce#3014/CH7/EX7.9/Ex7_9.sce#S##104099
+7#Maxwells Equations and Electromagnetic Waves#7.8#Calculation of frequency for a given skin depth and predict name of radiation#Ex7_8.sce#3014/CH7/EX7.8/Ex7_8.sce#S##108652
+7#Maxwells Equations and Electromagnetic Waves#7.8#Calculation of frequency for a given skin depth and predict name of radiation#Ex7_8.txt#3014/CH7/EX7.8/Ex7_8.txt#R##104216
+7#Maxwells Equations and Electromagnetic Waves#7.7#Show that silicon water can be considered as good conductor for particular frequencies#Ex7_7.txt#3014/CH7/EX7.7/Ex7_7.txt#R##104096
+7#Maxwells Equations and Electromagnetic Waves#7.7#Show that silicon water can be considered as good conductor for particular frequencies#Ex7_7.sce#3014/CH7/EX7.7/Ex7_7.sce#S##104095
+7#Maxwells Equations and Electromagnetic Waves#7.5#Calculation of frequency for a given skin depth and show that sea water can be considered as good conductor for particular frequencies#Ex7_5.txt#3014/CH7/EX7.5/Ex7_5.txt#R##104094
+7#Maxwells Equations and Electromagnetic Waves#7.5#Calculation of frequency for a given skin depth and show that sea water can be considered as good conductor for particular frequencies#Ex7_5.sce#3014/CH7/EX7.5/Ex7_5.sce#S##106593
+7#Maxwells Equations and Electromagnetic Waves#7.3#Calculation of skin depth for a given frequency#Ex7_3.txt#3014/CH7/EX7.3/Ex7_3.txt#R##104092
+7#Maxwells Equations and Electromagnetic Waves#7.3#Calculation of skin depth for a given frequency#Ex7_3.sce#3014/CH7/EX7.3/Ex7_3.sce#S##104091
+7#Maxwells Equations and Electromagnetic Waves#7.2#Calculation of amplitudes of electrical and magnetic field vector#Ex7_2.txt#3014/CH7/EX7.2/Ex7_2.txt#R##104090
+7#Maxwells Equations and Electromagnetic Waves#7.2#Calculation of amplitudes of electrical and magnetic field vector#Ex7_2.sce#3014/CH7/EX7.2/Ex7_2.sce#S##104089
+7#Maxwells Equations and Electromagnetic Waves#7.13#Calculation of skin depth#Ex7_13.sce#3014/CH7/EX7.13/Ex7_13.sce#S##107862
+7#Maxwells Equations and Electromagnetic Waves#7.13#Calculation of skin depth#Ex7_13.txt#3014/CH7/EX7.13/Ex7_13.txt#R##104108
+7#Maxwells Equations and Electromagnetic Waves#7.12#Calculation of solar energy received by moon during solar eclipse#Ex7_12.txt#3014/CH7/EX7.12/Ex7_12.txt#R##104106
+7#Maxwells Equations and Electromagnetic Waves#7.12#Calculation of solar energy received by moon during solar eclipse#Ex7_12.sce#3014/CH7/EX7.12/Ex7_12.sce#S##104105
+7#Maxwells Equations and Electromagnetic Waves#7.11#Calculation of frequency for a given skin depth and and predict name of radiation#Ex7_11.txt#3014/CH7/EX7.11/Ex7_11.txt#R##104104
+7#Maxwells Equations and Electromagnetic Waves#7.11#Calculation of frequency for a given skin depth and and predict name of radiation#Ex7_11.sce#3014/CH7/EX7.11/Ex7_11.sce#S##107861
+7#Maxwells Equations and Electromagnetic Waves#7.10#Calculation of intensities of electrical and magnetic field#Ex7_10.sce#3014/CH7/EX7.10/Ex7_10.sce#S##106594
+7#Maxwells Equations and Electromagnetic Waves#7.10#Calculation of intensities of electrical and magnetic field#Ex7_10.txt#3014/CH7/EX7.10/Ex7_10.txt#R##104102
+7#Maxwells Equations and Electromagnetic Waves#7.1#Calculation of average values of electrical and magnetic field vector#Ex7_1.txt#3014/CH7/EX7.1/Ex7_1.txt#R##104088
+7#Maxwells Equations and Electromagnetic Waves#7.1#Calculation of average values of electrical and magnetic field vector#Ex7_1.sce#3014/CH7/EX7.1/Ex7_1.sce#S##107860
+6#Ultrasonic Waves#6.5#Calculation of capacitance#Ex6_5.txt#3014/CH6/EX6.5/Ex6_5.txt#R##104086
+6#Ultrasonic Waves#6.5#Calculation of capacitance#Ex6_5.sce#3014/CH6/EX6.5/Ex6_5.sce#S##104085
+6#Ultrasonic Waves#6.4#Calculation of fundamental frequency of quartz#Ex6_4.sce#3014/CH6/EX6.4/Ex6_4.sce#S##104213
+6#Ultrasonic Waves#6.4#Calculation of fundamental frequency of quartz#Ex6_4.txt#3014/CH6/EX6.4/Ex6_4.txt#R##104214
+6#Ultrasonic Waves#6.3#Calculation of depth of defect#Ex6_3.txt#3014/CH6/EX6.3/Ex6_3.txt#R##104082
+6#Ultrasonic Waves#6.3#Calculation of depth of defect#Ex6_3.sce#3014/CH6/EX6.3/Ex6_3.sce#S##104081
+6#Ultrasonic Waves#6.2#Calculation of fundamental frequency of crystal#Ex6_2.txt#3014/CH6/EX6.2/Ex6_2.txt#R##104080
+6#Ultrasonic Waves#6.2#Calculation of fundamental frequency of crystal#Ex6_2.sce#3014/CH6/EX6.2/Ex6_2.sce#S##104079
+6#Ultrasonic Waves#6.1#Calculation of fundamental frequency of quartz#Ex6_1.txt#3014/CH6/EX6.1/Ex6_1.txt#R##104078
+6#Ultrasonic Waves#6.1#Calculation of fundamental frequency of quartz#Ex6_1.sce#3014/CH6/EX6.1/Ex6_1.sce#S##104077
+4#Dielectrics#4.9#Calculation of dielectric constant of material#Ex4_9.txt#3014/CH4/EX4.9/Ex4_9.txt#R##104058
+4#Dielectrics#4.9#Calculation of dielectric constant of material#Ex4_9.sce#3014/CH4/EX4.9/Ex4_9.sce#S##104057
+4#Dielectrics#4.8#Calculation of relative permeability#Ex4_8.txt#3014/CH4/EX4.8/Ex4_8.txt#R##104056
+4#Dielectrics#4.8#Calculation of relative permeability#Ex4_8.sce#3014/CH4/EX4.8/Ex4_8.sce#S##104055
+4#Dielectrics#4.6#Calculation of electronic polarizability and relative permeability#Ex4_6.txt#3014/CH4/EX4.6/Ex4_6.txt#R##104054
+4#Dielectrics#4.6#Calculation of electronic polarizability and relative permeability#Ex4_6.sce#3014/CH4/EX4.6/Ex4_6.sce#S##104053
+4#Dielectrics#4.4#Calculation of induced dipole moment#Ex4_4.txt#3014/CH4/EX4.4/Ex4_4.txt#R##104052
+4#Dielectrics#4.4#Calculation of induced dipole moment#Ex4_4.sce#3014/CH4/EX4.4/Ex4_4.sce#S##104051
+4#Dielectrics#4.18#Calculation of frequency and phase difference#Ex4_18.txt#3014/CH4/EX4.18/Ex4_18.txt#R##104076
+4#Dielectrics#4.18#Calculation of frequency and phase difference#Ex4_18.sce#3014/CH4/EX4.18/Ex4_18.sce#S##104075
+4#Dielectrics#4.17#Calculation of electronic polarizability and ionic polarizability#Ex4_17.txt#3014/CH4/EX4.17/Ex4_17.txt#R##104074
+4#Dielectrics#4.17#Calculation of electronic polarizability and ionic polarizability#Ex4_17.sce#3014/CH4/EX4.17/Ex4_17.sce#S##104073
+4#Dielectrics#4.16#Calculation of electronic polarizability of sulphur#Ex4_16.txt#3014/CH4/EX4.16/Ex4_16.txt#R##104072
+4#Dielectrics#4.16#Calculation of electronic polarizability of sulphur#Ex4_16.sce#3014/CH4/EX4.16/Ex4_16.sce#S##104071
+4#Dielectrics#4.15#Calculation of percentage of ionic polarizability#Ex4_15.txt#3014/CH4/EX4.15/Ex4_15.txt#R##104070
+4#Dielectrics#4.15#Calculation of percentage of ionic polarizability#Ex4_15.sce#3014/CH4/EX4.15/Ex4_15.sce#S##104069
+4#Dielectrics#4.14#Calculation of relative dielectric constant of material#Ex4_14.txt#3014/CH4/EX4.14/Ex4_14.txt#R##104068
+4#Dielectrics#4.14#Calculation of relative dielectric constant of material#Ex4_14.sce#3014/CH4/EX4.14/Ex4_14.sce#S##104067
+4#Dielectrics#4.13#Calculation of dielectric constant of material#Ex4_13.txt#3014/CH4/EX4.13/Ex4_13.txt#R##104066
+4#Dielectrics#4.13#Calculation of dielectric constant of material#Ex4_13.sce#3014/CH4/EX4.13/Ex4_13.sce#S##104065
+4#Dielectrics#4.12#Calculation of deformational polarizability and orientational polarizability#Ex4_12.txt#3014/CH4/EX4.12/Ex4_12.txt#R##104064
+4#Dielectrics#4.12#Calculation of deformational polarizability and orientational polarizability#Ex4_12.sce#3014/CH4/EX4.12/Ex4_12.sce#S##104063
+4#Dielectrics#4.11#Calculation of value of vectors E  D and P#Ex4_11.txt#3014/CH4/EX4.11/Ex4_11.txt#R##104062
+4#Dielectrics#4.11#Calculation of value of vectors E  D and P#Ex4_11.sce#3014/CH4/EX4.11/Ex4_11.sce#S##104061
+4#Dielectrics#4.10#Calculation of dielectric constant and electrical susceptibility#Ex4_10.txt#3014/CH4/EX4.10/Ex4_10.txt#R##104060
+4#Dielectrics#4.10#Calculation of dielectric constant and electrical susceptibility#Ex4_10.sce#3014/CH4/EX4.10/Ex4_10.sce#S##104059
+3#X ray and Compton Effect#3.9#Determining the spacing of crystal #Ex3_9.txt#3014/CH3/EX3.9/Ex3_9.txt#R##104029
+3#X ray and Compton Effect#3.9#Determining the spacing of crystal #Ex3_9.sce#3014/CH3/EX3.9/Ex3_9.sce#S##104028
+3#X ray and Compton Effect#3.8#Calculation of possible spacing #Ex3_8.txt#3014/CH3/EX3.8/Ex3_8.txt#R##104027
+3#X ray and Compton Effect#3.8#Calculation of possible spacing #Ex3_8.sce#3014/CH3/EX3.8/Ex3_8.sce#S##104026
+3#X ray and Compton Effect#3.7#Show that given crystal is simple cubic crystal #Ex3_7.sce#3014/CH3/EX3.7/Ex3_7.sce#S##107858
+3#X ray and Compton Effect#3.7#Show that given crystal is simple cubic crystal #Ex3_7.txt#3014/CH3/EX3.7/Ex3_7.txt#R##104218
+3#X ray and Compton Effect#3.6#Calculation of longest wavelength which can be analyzed by rock salt#Ex3_6.txt#3014/CH3/EX3.6/Ex3_6.txt#R##104025
+3#X ray and Compton Effect#3.6#Calculation of longest wavelength which can be analyzed by rock salt#Ex3_6.sce#3014/CH3/EX3.6/Ex3_6.sce#S##104024
+3#X ray and Compton Effect#3.5#Calculation of  wavelength of X ray used#Ex3_5.txt#3014/CH3/EX3.5/Ex3_5.txt#R##104023
+3#X ray and Compton Effect#3.5#Calculation of  wavelength of X ray used#Ex3_5.sce#3014/CH3/EX3.5/Ex3_5.sce#S##104022
+3#X ray and Compton Effect#3.4#Calculation for inter plane separation of atomic planes#Ex3_4.txt#3014/CH3/EX3.4/Ex3_4.txt#R##104021
+3#X ray and Compton Effect#3.4#Calculation for inter plane separation of atomic planes#Ex3_4.sce#3014/CH3/EX3.4/Ex3_4.sce#S##104020
+3#X ray and Compton Effect#3.3#Calculation of  wavelength#Ex3_3.txt#3014/CH3/EX3.3/Ex3_3.txt#R##104019
+3#X ray and Compton Effect#3.3#Calculation of  wavelength#Ex3_3.sce#3014/CH3/EX3.3/Ex3_3.sce#S##104018
+3#X ray and Compton Effect#3.2#Calculation of angles at which second and third order Braggs diffraction maxima occur#Ex3_2.txt#3014/CH3/EX3.2/Ex3_2.txt#R##104017
+3#X ray and Compton Effect#3.2#Calculation of angles at which second and third order Braggs diffraction maxima occur#Ex3_2.sce#3014/CH3/EX3.2/Ex3_2.sce#S##107857
+3#X ray and Compton Effect#3.19#Calculation of after collision frequency#Ex3_19.txt#3014/CH3/EX3.19/Ex3_19.txt#R##104050
+3#X ray and Compton Effect#3.19#Calculation of after collision frequency#Ex3_19.sce#3014/CH3/EX3.19/Ex3_19.sce#S##104049
+3#X ray and Compton Effect#3.18#Calculation of wavelength of scattered radiation at ninety degree energy imparted to the recoiled electron and Direction of corresponding electron#Ex3_18.txt#3014/CH3/EX3.18/Ex3_18.txt#R##104048
+3#X ray and Compton Effect#3.18#Calculation of wavelength of scattered radiation at ninety degree energy imparted to the recoiled electron and Direction of corresponding electron#Ex3_18.sce#3014/CH3/EX3.18/Ex3_18.sce#S##104047
+3#X ray and Compton Effect#3.17#Calculation of wavelength of radiation being scattered at ninty degree Kinetic energy imparted to the recoiled electron#Ex3_17.txt#3014/CH3/EX3.17/Ex3_17.txt#R##104046
+3#X ray and Compton Effect#3.17#Calculation of wavelength of radiation being scattered at ninty degree Kinetic energy imparted to the recoiled electron#Ex3_17.sce#3014/CH3/EX3.17/Ex3_17.sce#S##104045
+3#X ray and Compton Effect#3.16#Calculation of wavelength of scattered radiation at 90 degree#Ex3_16.txt#3014/CH3/EX3.16/Ex3_16.txt#R##104044
+3#X ray and Compton Effect#3.16#Calculation of wavelength of scattered radiation at 90 degree#Ex3_16.sce#3014/CH3/EX3.16/Ex3_16.sce#S##104043
+3#X ray and Compton Effect#3.15#Calculation fraction of energy lost by photon in collision#Ex3_15.txt#3014/CH3/EX3.15/Ex3_15.txt#R##104042
+3#X ray and Compton Effect#3.15#Calculation fraction of energy lost by photon in collision#Ex3_15.sce#3014/CH3/EX3.15/Ex3_15.sce#S##104041
+3#X ray and Compton Effect#3.14#Calculation of wavelength and energy of incident photon#Ex3_14.txt#3014/CH3/EX3.14/Ex3_14.txt#R##104040
+3#X ray and Compton Effect#3.14#Calculation of wavelength and energy of incident photon#Ex3_14.sce#3014/CH3/EX3.14/Ex3_14.sce#S##107859
+3#X ray and Compton Effect#3.13#Calculation of Compton shift kinetic energy imported to the recoiled electron#Ex3_13.txt#3014/CH3/EX3.13/Ex3_13.txt#R##104038
+3#X ray and Compton Effect#3.13#Calculation of Compton shift kinetic energy imported to the recoiled electron#Ex3_13.sce#3014/CH3/EX3.13/Ex3_13.sce#S##104036
+3#X ray and Compton Effect#3.12#Calculation of wavelength of scattered radiation #Ex3_12.txt#3014/CH3/EX3.12/Ex3_12.txt#R##104035
+3#X ray and Compton Effect#3.12#Calculation of wavelength of scattered radiation #Ex3_12.sce#3014/CH3/EX3.12/Ex3_12.sce#S##104034
+3#X ray and Compton Effect#3.11#Calculation of Compton shift#Ex3_11.txt#3014/CH3/EX3.11/Ex3_11.txt#R##104033
+3#X ray and Compton Effect#3.11#Calculation of Compton shift#Ex3_11.sce#3014/CH3/EX3.11/Ex3_11.sce#S##104032
+3#X ray and Compton Effect#3.10#Calculate the energy of recoiled electron#Ex3_10.txt#3014/CH3/EX3.10/Ex3_10.txt#R##104031
+3#X ray and Compton Effect#3.10#Calculate the energy of recoiled electron#Ex3_10.sce#3014/CH3/EX3.10/Ex3_10.sce#S##104030
+3#X ray and Compton Effect#3.1#Calculation of longest wavelength which can be analyzed by rock salt#Ex3_1.txt#3014/CH3/EX3.1/Ex3_1.txt#R##104015
+3#X ray and Compton Effect#3.1#Calculation of longest wavelength which can be analyzed by rock salt#Ex3_1.sce#3014/CH3/EX3.1/Ex3_1.sce#S##104014
+2#Uncertainty Principle and Schrodinger wave Equation#2.9#Calculation of uncertainty in position of electron#Ex2_9.txt#3014/CH2/EX2.9/Ex2_9.txt#R##103983
+2#Uncertainty Principle and Schrodinger wave Equation#2.9#Calculation of uncertainty in position of electron#Ex2_9.sce#3014/CH2/EX2.9/Ex2_9.sce#S##103982
+2#Uncertainty Principle and Schrodinger wave Equation#2.8#Calculation of kinetic energy of H atom needed for confinement#Ex2_8.txt#3014/CH2/EX2.8/Ex2_8.txt#R##103981
+2#Uncertainty Principle and Schrodinger wave Equation#2.8#Calculation of kinetic energy of H atom needed for confinement#Ex2_8.sce#3014/CH2/EX2.8/Ex2_8.sce#S##106591
+2#Uncertainty Principle and Schrodinger wave Equation#2.7#Comparison of  uncertainty in velocities  of electron and proton for common length#Ex2_7.txt#3014/CH2/EX2.7/Ex2_7.txt#R##103979
+2#Uncertainty Principle and Schrodinger wave Equation#2.7#Comparison of  uncertainty in velocities  of electron and proton for common length#Ex2_7.sce#3014/CH2/EX2.7/Ex2_7.sce#S##103978
+2#Uncertainty Principle and Schrodinger wave Equation#2.6#Calculation of minimum uncertainty in position of electron#Ex2_6.txt#3014/CH2/EX2.6/Ex2_6.txt#R##103977
+2#Uncertainty Principle and Schrodinger wave Equation#2.6#Calculation of minimum uncertainty in position of electron#Ex2_6.sce#3014/CH2/EX2.6/Ex2_6.sce#S##103976
+2#Uncertainty Principle and Schrodinger wave Equation#2.5#Calculation of minimum uncertainty in position of electron#Ex2_5.txt#3014/CH2/EX2.5/Ex2_5.txt#R##103975
+2#Uncertainty Principle and Schrodinger wave Equation#2.5#Calculation of minimum uncertainty in position of electron#Ex2_5.sce#3014/CH2/EX2.5/Ex2_5.sce#S##103974
+2#Uncertainty Principle and Schrodinger wave Equation#2.30#Calculation of probability of finding particle in given length#Ex2_30.sce#3014/CH2/EX2.30/Ex2_30.sce#S##108651
+2#Uncertainty Principle and Schrodinger wave Equation#2.30#Calculation of probability of finding particle in given length#Ex2_30.txt#3014/CH2/EX2.30/Ex2_30.txt#R##104013
+2#Uncertainty Principle and Schrodinger wave Equation#2.3#Calculation of minimum uncertainty in position of electron#Ex2_3.txt#3014/CH2/EX2.3/Ex2_3.txt#R##103973
+2#Uncertainty Principle and Schrodinger wave Equation#2.3#Calculation of minimum uncertainty in position of electron#Ex2_3.sce#3014/CH2/EX2.3/Ex2_3.sce#S##107856
+2#Uncertainty Principle and Schrodinger wave Equation#2.29#Can we observe energy states of a ball#Ex2_29.txt#3014/CH2/EX2.29/Ex2_29.txt#R##104011
+2#Uncertainty Principle and Schrodinger wave Equation#2.29#Can we observe energy states of a ball#Ex2_29.sce#3014/CH2/EX2.29/Ex2_29.sce#S##104010
+2#Uncertainty Principle and Schrodinger wave Equation#2.28#Calculation of de Broglie wavelength representing first three allowed energy states#Ex2_28.txt#3014/CH2/EX2.28/Ex2_28.txt#R##104009
+2#Uncertainty Principle and Schrodinger wave Equation#2.28#Calculation of de Broglie wavelength representing first three allowed energy states#Ex2_28.sce#3014/CH2/EX2.28/Ex2_28.sce#S##104008
+2#Uncertainty Principle and Schrodinger wave Equation#2.27#Calculation of energy difference between two states#Ex2_27.txt#3014/CH2/EX2.27/Ex2_27.txt#R##104007
+2#Uncertainty Principle and Schrodinger wave Equation#2.27#Calculation of energy difference between two states#Ex2_27.sce#3014/CH2/EX2.27/Ex2_27.sce#S##104006
+2#Uncertainty Principle and Schrodinger wave Equation#2.26#Calculate probability of particle#Ex2_26.sce#3014/CH2/EX2.26/Ex2_26.sce#S##104219
+2#Uncertainty Principle and Schrodinger wave Equation#2.26#Calculate probability of particle#Ex2_26.txt#3014/CH2/EX2.26/Ex2_26.txt#R##104220
+2#Uncertainty Principle and Schrodinger wave Equation#2.24#Calculation of lowest permitted energy value of electrons#Ex2_24.txt#3014/CH2/EX2.24/Ex2_24.txt#R##104005
+2#Uncertainty Principle and Schrodinger wave Equation#2.24#Calculation of lowest permitted energy value of electrons#Ex2_24.sce#3014/CH2/EX2.24/Ex2_24.sce#S##104004
+2#Uncertainty Principle and Schrodinger wave Equation#2.21#Calculation of energy of moving electron#Ex2_21.txt#3014/CH2/EX2.21/Ex2_21.txt#R##104003
+2#Uncertainty Principle and Schrodinger wave Equation#2.21#Calculation of energy of moving electron#Ex2_21.sce#3014/CH2/EX2.21/Ex2_21.sce#S##104002
+2#Uncertainty Principle and Schrodinger wave Equation#2.20#Calculation of uncertainty in position of dust particle#Ex2_20.txt#3014/CH2/EX2.20/Ex2_20.txt#R##104001
+2#Uncertainty Principle and Schrodinger wave Equation#2.20#Calculation of uncertainty in position of dust particle#Ex2_20.sce#3014/CH2/EX2.20/Ex2_20.sce#S##104000
+2#Uncertainty Principle and Schrodinger wave Equation#2.2#Calculation of minimum uncertainty in momentum of electron#Ex2_2.txt#3014/CH2/EX2.2/Ex2_2.txt#R##103971
+2#Uncertainty Principle and Schrodinger wave Equation#2.2#Calculation of minimum uncertainty in momentum of electron#Ex2_2.sce#3014/CH2/EX2.2/Ex2_2.sce#S##103970
+2#Uncertainty Principle and Schrodinger wave Equation#2.19#Calculation of  uncertainty in frequency of photon#Ex2_19.txt#3014/CH2/EX2.19/Ex2_19.txt#R##103999
+2#Uncertainty Principle and Schrodinger wave Equation#2.19#Calculation of  uncertainty in frequency of photon#Ex2_19.sce#3014/CH2/EX2.19/Ex2_19.sce#S##103998
+2#Uncertainty Principle and Schrodinger wave Equation#2.18#Calculation of  uncertainty in energy of gamma ray radiation#Ex2_18.txt#3014/CH2/EX2.18/Ex2_18.txt#R##103997
+2#Uncertainty Principle and Schrodinger wave Equation#2.18#Calculation of  uncertainty in energy of gamma ray radiation#Ex2_18.sce#3014/CH2/EX2.18/Ex2_18.sce#S##103996
+2#Uncertainty Principle and Schrodinger wave Equation#2.17#Calculation of  uncertainty in velocity of ball#Ex2_17.txt#3014/CH2/EX2.17/Ex2_17.txt#R##103995
+2#Uncertainty Principle and Schrodinger wave Equation#2.17#Calculation of  uncertainty in velocity of ball#Ex2_17.sce#3014/CH2/EX2.17/Ex2_17.sce#S##103994
+2#Uncertainty Principle and Schrodinger wave Equation#2.16#Calculation of uncertainty in position of proton#Ex2_16.txt#3014/CH2/EX2.16/Ex2_16.txt#R##103993
+2#Uncertainty Principle and Schrodinger wave Equation#2.16#Calculation of uncertainty in position of proton#Ex2_16.sce#3014/CH2/EX2.16/Ex2_16.sce#S##103992
+2#Uncertainty Principle and Schrodinger wave Equation#2.15#Calculation of  uncertainty in momentum of ball and comparison with momentum#Ex2_15.txt#3014/CH2/EX2.15/Ex2_15.txt#R##103991
+2#Uncertainty Principle and Schrodinger wave Equation#2.15#Calculation of  uncertainty in momentum of ball and comparison with momentum#Ex2_15.sce#3014/CH2/EX2.15/Ex2_15.sce#S##103990
+2#Uncertainty Principle and Schrodinger wave Equation#2.13#Calculation of minimum uncertainty in measurement  of velocity of electron#Ex2_13.txt#3014/CH2/EX2.13/Ex2_13.txt#R##103989
+2#Uncertainty Principle and Schrodinger wave Equation#2.13#Calculation of minimum uncertainty in measurement  of velocity of electron#Ex2_13.sce#3014/CH2/EX2.13/Ex2_13.sce#S##103988
+2#Uncertainty Principle and Schrodinger wave Equation#2.12#Calculation of percentage uncertainty in momentum of electron#Ex2_12.txt#3014/CH2/EX2.12/Ex2_12.txt#R##103987
+2#Uncertainty Principle and Schrodinger wave Equation#2.12#Calculation of percentage uncertainty in momentum of electron#Ex2_12.sce#3014/CH2/EX2.12/Ex2_12.sce#S##103986
+2#Uncertainty Principle and Schrodinger wave Equation#2.11#Calculation of minimum uncertainty in energy of sate in Hydrogen atom#Ex2_11.txt#3014/CH2/EX2.11/Ex2_11.txt#R##104212
+2#Uncertainty Principle and Schrodinger wave Equation#2.11#Calculation of minimum uncertainty in energy of sate in Hydrogen atom#Ex2_11.sce#3014/CH2/EX2.11/Ex2_11.sce#S##104211
+2#Uncertainty Principle and Schrodinger wave Equation#2.10#Calculation of minimum energy with which an electron can exist in atom#Ex2_10.sce#3014/CH2/EX2.10/Ex2_10.sce#S##106592
+2#Uncertainty Principle and Schrodinger wave Equation#2.10#Calculation of minimum energy with which an electron can exist in atom#Ex2_10.txt#3014/CH2/EX2.10/Ex2_10.txt#R##103985
+2#Uncertainty Principle and Schrodinger wave Equation#2.1#Calculation of uncertainty in momentum of electron#Ex2_1.txt#3014/CH2/EX2.1/Ex2_1.txt#R##103969
+2#Uncertainty Principle and Schrodinger wave Equation#2.1#Calculation of uncertainty in momentum of electron#Ex2_1.sce#3014/CH2/EX2.1/Ex2_1.sce#S##103968
+1#De Broglie Matter Waves#1.9#Calculation of de Broglie wavelength of electron#Ex1_9.sce#3014/CH1/EX1.9/Ex1_9.sce#S##103926
+1#De Broglie Matter Waves#1.9#Calculation of de Broglie wavelength of electron#Ex1_9.txt#3014/CH1/EX1.9/Ex1_9.txt#R##103927
+1#De Broglie Matter Waves#1.7#Calculation of de Broglie wavelength of electron#Ex1_7.sce#3014/CH1/EX1.7/Ex1_7.sce#S##103924
+1#De Broglie Matter Waves#1.7#Calculation of de Broglie wavelength of electron#Ex1_7.txt#3014/CH1/EX1.7/Ex1_7.txt#R##103925
+1#De Broglie Matter Waves#1.6#Calculation of de Broglie wavelength of neutron#Ex1_6.sce#3014/CH1/EX1.6/Ex1_6.sce#S##103922
+1#De Broglie Matter Waves#1.6#Calculation of de Broglie wavelength of neutron#Ex1_6.txt#3014/CH1/EX1.6/Ex1_6.txt#R##103923
+1#De Broglie Matter Waves#1.5#Calculation of de Broglie wavelength of proton#Ex1_5.sce#3014/CH1/EX1.5/Ex1_5.sce#S##107855
+1#De Broglie Matter Waves#1.5#Calculation of de Broglie wavelength of proton#Ex1_5.txt#3014/CH1/EX1.5/Ex1_5.txt#R##103921
+1#De Broglie Matter Waves#1.4#Calculation of velocity momentum and wavelength of electron#Ex1_4.sce#3014/CH1/EX1.4/Ex1_4.sce#S##103918
+1#De Broglie Matter Waves#1.4#Calculation of velocity momentum and wavelength of electron#Ex1_4.txt#3014/CH1/EX1.4/Ex1_4.txt#R##103919
+1#De Broglie Matter Waves#1.33#Calculation of kinetic energy group velocity and phase velocity of wave#Ex1_33.sce#3014/CH1/EX1.33/Ex1_33.sce#S##103966
+1#De Broglie Matter Waves#1.33#Calculation of kinetic energy group velocity and phase velocity of wave#Ex1_33.txt#3014/CH1/EX1.33/Ex1_33.txt#R##103967
+1#De Broglie Matter Waves#1.32#Calculation of group velocity and phase velocity of wave#Ex1_32.sce#3014/CH1/EX1.32/Ex1_32.sce#S##103964
+1#De Broglie Matter Waves#1.32#Calculation of group velocity and phase velocity of wave#Ex1_32.txt#3014/CH1/EX1.32/Ex1_32.txt#R##103965
+1#De Broglie Matter Waves#1.30#Calculation of group velocity and phase velocity of wave#Ex1_30.sce#3014/CH1/EX1.30/Ex1_30.sce#S##103962
+1#De Broglie Matter Waves#1.30#Calculation of group velocity and phase velocity of wave#Ex1_30.txt#3014/CH1/EX1.30/Ex1_30.txt#R##103963
+1#De Broglie Matter Waves#1.3#Calculation of de Broglie wavelength of electron#Ex1_3.sce#3014/CH1/EX1.3/Ex1_3.sce#S##103916
+1#De Broglie Matter Waves#1.3#Calculation of de Broglie wavelength of electron#Ex1_3.txt#3014/CH1/EX1.3/Ex1_3.txt#R##103917
+1#De Broglie Matter Waves#1.29#Calculation of angle for first order diffraction#Ex1_29.sce#3014/CH1/EX1.29/Ex1_29.sce#S##103960
+1#De Broglie Matter Waves#1.29#Calculation of angle for first order diffraction#Ex1_29.txt#3014/CH1/EX1.29/Ex1_29.txt#R##103961
+1#De Broglie Matter Waves#1.26#Calculation of velocity and kinetic energy of neutron#Ex1_26.sce#3014/CH1/EX1.26/Ex1_26.sce#S##103958
+1#De Broglie Matter Waves#1.26#Calculation of velocity and kinetic energy of neutron#Ex1_26.txt#3014/CH1/EX1.26/Ex1_26.txt#R##103959
+1#De Broglie Matter Waves#1.25#Calculation of velocity of electron so that de Broglie wavelength is equal to wavelength of yellow line sodium#Ex1_25.sce#3014/CH1/EX1.25/Ex1_25.sce#S##103956
+1#De Broglie Matter Waves#1.25#Calculation of velocity of electron so that de Broglie wavelength is equal to wavelength of yellow line sodium#Ex1_25.txt#3014/CH1/EX1.25/Ex1_25.txt#R##103957
+1#De Broglie Matter Waves#1.24#Calculation of velocity of electron in Bohr orbit#Ex1_24.sce#3014/CH1/EX1.24/Ex1_24.sce#S##103954
+1#De Broglie Matter Waves#1.24#Calculation of velocity of electron in Bohr orbit#Ex1_24.txt#3014/CH1/EX1.24/Ex1_24.txt#R##103955
+1#De Broglie Matter Waves#1.23#Calculation of inter atomic spacing for crystal#Ex1_23.sce#3014/CH1/EX1.23/Ex1_23.sce#S##103952
+1#De Broglie Matter Waves#1.23#Calculation of inter atomic spacing for crystal#Ex1_23.txt#3014/CH1/EX1.23/Ex1_23.txt#R##103953
+1#De Broglie Matter Waves#1.22#Calculation of de Broglie wavelength of Helium at 27 degree Celsius#Ex1_22.sce#3014/CH1/EX1.22/Ex1_22.sce#S##103950
+1#De Broglie Matter Waves#1.22#Calculation of de Broglie wavelength of Helium at 27 degree Celsius#Ex1_22.txt#3014/CH1/EX1.22/Ex1_22.txt#R##103951
+1#De Broglie Matter Waves#1.21#Calculation of de Broglie wavelength of neutron at 37 degree Celsius#Ex1_21.sce#3014/CH1/EX1.21/Ex1_21.sce#S##103948
+1#De Broglie Matter Waves#1.21#Calculation of de Broglie wavelength of neutron at 37 degree Celsius#Ex1_21.txt#3014/CH1/EX1.21/Ex1_21.txt#R##103949
+1#De Broglie Matter Waves#1.2#Calculation of de Broglie wavelength of a body#Ex1_2.sce#3014/CH1/EX1.2/Ex1_2.sce#S##103914
+1#De Broglie Matter Waves#1.2#Calculation of de Broglie wavelength of a body#Ex1_2.txt#3014/CH1/EX1.2/Ex1_2.txt#R##103915
+1#De Broglie Matter Waves#1.19#Calculation of applied voltage#Ex1_19.sce#3014/CH1/EX1.19/Ex1_19.sce#S##103946
+1#De Broglie Matter Waves#1.19#Calculation of applied voltage#Ex1_19.txt#3014/CH1/EX1.19/Ex1_19.txt#R##103947
+1#De Broglie Matter Waves#1.18#Calculation of de Broglie wavelength of neutron#Ex1_18.sce#3014/CH1/EX1.18/Ex1_18.sce#S##103944
+1#De Broglie Matter Waves#1.18#Calculation of de Broglie wavelength of neutron#Ex1_18.txt#3014/CH1/EX1.18/Ex1_18.txt#R##103945
+1#De Broglie Matter Waves#1.17#Calculation of de Broglie wavelength of a body and electron#Ex1_17.sce#3014/CH1/EX1.17/Ex1_17.sce#S##103942
+1#De Broglie Matter Waves#1.17#Calculation of de Broglie wavelength of a body and electron#Ex1_17.txt#3014/CH1/EX1.17/Ex1_17.txt#R##103943
+1#De Broglie Matter Waves#1.16#Calculation of de Broglie wavelength of  alpha particle#Ex1_16.sce#3014/CH1/EX1.16/Ex1_16.sce#S##103940
+1#De Broglie Matter Waves#1.16#Calculation of de Broglie wavelength of  alpha particle#Ex1_16.txt#3014/CH1/EX1.16/Ex1_16.txt#R##103941
+1#De Broglie Matter Waves#1.15#Calculation of de Broglie wavelength of neutron#Ex1_15.sce#3014/CH1/EX1.15/Ex1_15.sce#S##103938
+1#De Broglie Matter Waves#1.15#Calculation of de Broglie wavelength of neutron#Ex1_15.txt#3014/CH1/EX1.15/Ex1_15.txt#R##103939
+1#De Broglie Matter Waves#1.14#Comparison of momentum total energy and ratio of kinetic energy of electron and proton having same wavelength#Ex1_14.sce#3014/CH1/EX1.14/Ex1_14.sce#S##103936
+1#De Broglie Matter Waves#1.14#Comparison of momentum total energy and ratio of kinetic energy of electron and proton having same wavelength#Ex1_14.txt#3014/CH1/EX1.14/Ex1_14.txt#R##103937
+1#De Broglie Matter Waves#1.13#Calculation of de Broglie wavelength of proton#Ex1_13.sce#3014/CH1/EX1.13/Ex1_13.sce#S##103934
+1#De Broglie Matter Waves#1.13#Calculation of de Broglie wavelength of proton#Ex1_13.txt#3014/CH1/EX1.13/Ex1_13.txt#R##103935
+1#De Broglie Matter Waves#1.12#Calculation of de Broglie wavelength of electron#Ex1_12.sce#3014/CH1/EX1.12/Ex1_12.sce#S##103932
+1#De Broglie Matter Waves#1.12#Calculation of de Broglie wavelength of electron#Ex1_12.txt#3014/CH1/EX1.12/Ex1_12.txt#R##103933
+1#De Broglie Matter Waves#1.11#Calculation of velocity and kinetic energy of neutron#Ex1_11.sce#3014/CH1/EX1.11/Ex1_11.sce#S##103930
+1#De Broglie Matter Waves#1.11#Calculation of velocity and kinetic energy of neutron#Ex1_11.txt#3014/CH1/EX1.11/Ex1_11.txt#R##103931
+1#De Broglie Matter Waves#1.10#Calculation of de Broglie wavelength of electron#Ex1_10.sce#3014/CH1/EX1.10/Ex1_10.sce#S##108650
+1#De Broglie Matter Waves#1.10#Calculation of de Broglie wavelength of electron#Ex1_10.txt#3014/CH1/EX1.10/Ex1_10.txt#R##103929
+1#De Broglie Matter Waves#1.1#Calculation of de Broglie wavelength of Earth#Ex1_1.sce#3014/CH1/EX1.1/Ex1_1.sce#S##103911
+1#De Broglie Matter Waves#1.1#Calculation of de Broglie wavelength of Earth#Ex1_1.txt#3014/CH1/EX1.1/Ex1_1.txt#R##103912

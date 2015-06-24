@@ -1,0 +1,11 @@
+clear;
+clc;
+V_s=230;
+V_01=2*V_s/(sqrt(2)*%pi);
+R=2;
+I_01=V_01/R;
+P_d=I_01^2*R;    printf("power delivered to load=%.1f W",P_d);
+V=V_s/2;
+I_s=sqrt(2)*I_01/%pi;
+P_s=V*I_s;
+printf("\npower delivered by both sources=%.1f W",2*P_s);

@@ -1,0 +1,3 @@
+ # PROBLEM 6.1 # 
+
+ The approximate time required = 14.262125 min 

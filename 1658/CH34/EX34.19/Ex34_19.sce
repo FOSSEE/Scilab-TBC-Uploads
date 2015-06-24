@@ -1,0 +1,11 @@
+clc;
+IADJ=100*10**-6;
+Vin=35;
+VREF=1.25;
+R2=0;
+R1=220;
+Voutmin=VREF*(1+(R2/R1))+IADJ*R2;
+disp('V',Voutmin*1,"Voutmin=");
+R2=5000;
+Voutmax=VREF*(1+(R2/R1))+IADJ*R2;
+disp('V',Voutmax*1,"Voutmax=");

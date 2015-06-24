@@ -1,0 +1,5 @@
+ 
+ Example 4.34   
+Synchronous speed=1500.000000rpm
+rotor current at maximum torque=48.989795Aper Phase
+Rotor input for the three phase=7200.000000W 

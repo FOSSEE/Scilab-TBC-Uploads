@@ -1,0 +1,3 @@
+ The peak magnetic field = 0.026526 At/m
+ The peak poynting vector = 0.265258 W/m^2
+ The average poynting vector = 0.132629 W/m^2

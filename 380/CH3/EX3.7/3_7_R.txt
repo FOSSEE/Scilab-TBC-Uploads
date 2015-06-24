@@ -1,0 +1,7 @@
+ synchronous speed (in rpm)=   
+ 
+    1500.  
+ 
+ percent slip of the motor(%)=   
+ 
+    20. 

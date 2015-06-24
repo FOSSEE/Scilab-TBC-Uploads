@@ -1,0 +1,21 @@
+ 
+At the end of iteration 1 the voltages at the buses are:
+
+V1= 
+    1.04  
+pu
+
+
+V2= 
+    1.0190887 + 0.0463655i  
+pu
+
+
+V3= 
+    1.0280236 - 0.0870264i  
+pu
+
+
+V4= 
+    1.0250453 - 0.0092291i  
+pu 

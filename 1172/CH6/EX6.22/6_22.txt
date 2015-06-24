@@ -1,0 +1,6 @@
+
+ # Problem 22 # 
+
+ Standard formula used 
+ E_total = E_rest + E_kinetic
+ Energy of each particle is  11.920250 MeV.

@@ -1,0 +1,2 @@
+ The progressive phase shift = 45 degree
+ The position of main beam width in degree = 120 degree

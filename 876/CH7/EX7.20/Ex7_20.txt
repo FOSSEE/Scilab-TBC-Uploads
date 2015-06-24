@@ -1,0 +1,3 @@
+input frequency applied to the system(in kilo Hz)=   
+ 
+    10.  

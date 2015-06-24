@@ -1,0 +1,3 @@
+ The radiation resistance = 19.786059 ohm
+ The power radiated = 49.465147 kW
+ The effeciency = 39.572118 %

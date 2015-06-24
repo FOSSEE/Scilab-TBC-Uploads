@@ -1,0 +1,8 @@
+ 
+ example 4 4   
+ energy corresponding to maximum demand 552kWh 
+ cost of above energy Rs1932 
+ remaining energy 1468kWh 
+ cost of reamaining energy Rs2642.4 
+ total monthly bill Rs.4574.4
+ avarage tariff Rs2.265per kWh 

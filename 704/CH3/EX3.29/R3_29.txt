@@ -1,0 +1,11 @@
+Efficiency of the transformer at full load and unity power factor(in KW)=   
+ 
+    97.087379  
+ 
+ Efficiency of the transformer at half full load and 0.8 lagging power factor(in KW)=   
+ 
+    95.69378  
+ 
+ the load for maximum efficiency(in KVA)=   
+ 
+    23.385359  

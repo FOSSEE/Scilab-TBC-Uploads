@@ -1,0 +1,16 @@
+clear;
+clc;
+tc=.006;
+R=10;
+L=R*tc;
+f=2000;
+T=1/f;
+V_o=50;
+V_s=100;
+a=V_o/V_s;
+T_on=a*T;
+T_off=T-T_on;
+dI=V_o*T_off/L;
+I_o=V_o/R;
+I2=I_o+dI/2;    printf("max value of load current=%.3f A",I2);
+I1=I_o-dI/2;    printf("\nmin value of load current=%.3f A",I1);

@@ -1,0 +1,4 @@
+ example 9.5   
+1 watt power requvires 2.678400e+015fussions per day 
+ number of atoms in 5 gram is 1.281489e+022atoms 
+ power is 4.784533e+006MW  

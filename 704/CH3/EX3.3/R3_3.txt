@@ -1,0 +1,8 @@
+Secondary voltage (in Volts)=   
+ 
+    25.  
+ 
+ Volts per turn=   
+ 
+    0.125  
+ 

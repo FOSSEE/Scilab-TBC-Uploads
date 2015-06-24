@@ -1,0 +1,7 @@
+ 
+ example 13 9   
+ 
+ a   
+reactance of transformer is 0.2375.p.u 
+ reactance of transformer on 10MVA base is 0.23750p.u. 
+ reactance of transformer 0.0862ohm 

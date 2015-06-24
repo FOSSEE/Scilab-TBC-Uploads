@@ -1,0 +1,2 @@
+ Original amount : 20 mg 
+Remaining amount after 48 days : 0.313 mg 

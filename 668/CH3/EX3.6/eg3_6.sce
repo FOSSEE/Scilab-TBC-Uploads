@@ -1,0 +1,24 @@
+d1 = 2.78 * 10^19; //max density for Si
+d2 = 7.72 * 10^18; // max density for GaAs
+Nd = 10^17;
+Ni = 1.5*10^10;
+Ni2 = 1.84 * 10^6;
+Pi2 = 1.84 * 10^6;
+Pi = 1.5*10^10;
+un1 = 1000;
+up1 = 350;
+un2 = 8000;
+up2 = 400;
+Nn = 0.5*Nd;
+Pn = Ni^2/Nn;
+q = 1.6*10^-19;
+s1 = d1*q*un1;
+s2 = d2*q*up2;
+//To find the minimum we take the derivative with respect to p and equate the result to zero, which gives the below expression
+p = Ni*(un1/up1)^0.5;
+smin1 = Ni*q*(un1*(up1/un1)^0.5 + up1*(un1/up1)^0.5);
+smin2 = Ni2*q*(un2*(up2/un2)^0.5 + up2*(un2/up2)^0.5);
+disp(s1,"maximum conductivity for Si = ")
+disp(s2,"maximum conductivity for GaAs = ")
+disp(smin1,"minimum conductivity for Si = ")
+disp(smin2,"minimum conductivity for GaAs = ")

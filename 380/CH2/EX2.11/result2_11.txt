@@ -1,0 +1,15 @@
+ mutual inductance (in henry)=   
+ 
+    0.34  
+ 
+ inductance of coil-1 (in henry)=   
+ 
+    0.1  
+ 
+ inductance of coil-2 (in henry)=   
+ 
+    1.6  
+ 
+ coefficient of coupling=   
+ 
+    0.85  

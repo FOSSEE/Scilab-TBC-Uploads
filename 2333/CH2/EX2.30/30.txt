@@ -1,0 +1,7 @@
+
+ # PROBLEM 30 # 
+
+ Standard formula used 
+ 2*t = (2n+1)*lambda/2
+
+ Distance from apex is 5.527044 cm. 

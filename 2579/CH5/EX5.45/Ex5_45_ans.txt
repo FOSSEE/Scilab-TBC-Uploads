@@ -1,0 +1,2 @@
+ The frequency = 0.207846 KHz
+ The critical frequency = 10 KHz

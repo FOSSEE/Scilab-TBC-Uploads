@@ -1,0 +1,1 @@
+ The voltage to the receiver = 157 mV

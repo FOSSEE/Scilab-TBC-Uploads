@@ -1,0 +1,7 @@
+(a)system accuracy(in %)=   
+ 
+    0.5  
+ 
+ (b)system precision(in %)=   
+ 
+    0.125

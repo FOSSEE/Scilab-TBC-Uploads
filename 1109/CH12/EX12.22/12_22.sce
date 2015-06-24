@@ -1,0 +1,11 @@
+clear;
+clc;
+Rl=10;V=100;Z1=-%i*30;Z2=-%i*30;Z3=20+(%i*10);
+I=V/(Z1+Z2);
+Voc=I*Z2;
+Zab=1/((1/Z1)+(1/Z2))+Z3;
+Z=Zab+Rl;
+Il=Voc/Z;
+ampIl=sqrt(real(Il)^2+imag(Il)^2);
+Pl=ampIl*ampIl*Rl;
+printf("Power in the load = %f Watts",round(Pl*100)/100);

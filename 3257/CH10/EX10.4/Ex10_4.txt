@@ -1,0 +1,5 @@
+ 
+ Example 10.4
+ Part A:
+ Elastic modulus of composite is 105.5 GPa.
+ Fraction of load supported by fibers is 35%. 

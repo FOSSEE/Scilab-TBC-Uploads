@@ -1,0 +1,181 @@
+9#Electronic Instrumentation and Measurements#9.5#Pulse width of the waveform#ex9_5.sce#2150/CH9/EX9.5/ex9_5.sce#S##78933
+9#Electronic Instrumentation and Measurements#9.4#Pulse delay#ex9_4.sce#2150/CH9/EX9.4/ex9_4.sce#S##78932
+9#Electronic Instrumentation and Measurements#9.3#Period of the waveform#ex9_3.sce#2150/CH9/EX9.3/ex9_3.sce#S##73415
+9#Electronic Instrumentation and Measurements#9.2#Amplitude of the pulse signal#ex9_2.sce#2150/CH9/EX9.2/ex9_2.sce#S##73414
+9#Electronic Instrumentation and Measurements#9.1#Peak to peak amplitude#ex9_1.sce#2150/CH9/EX9.1/ex9_1.sce#S##73413
+8#Operational Amplifiers#8.8#Voltage gain of the amplifier#ex8_8.sce#2150/CH8/EX8.8/ex8_8.sce#S##73389
+8#Operational Amplifiers#8.7#Output voltage#ex8_7.sce#2150/CH8/EX8.7/ex8_7.sce#S##73379
+8#Operational Amplifiers#8.6#Output voltage#ex8_6.sce#2150/CH8/EX8.6/ex8_6.sce#S##78929
+8#Operational Amplifiers#8.4#Output voltage#ex8_4.sce#2150/CH8/EX8.4/ex8_4.sce#S##73374
+8#Operational Amplifiers#8.3#Output voltage#ex8_3.sce#2150/CH8/EX8.3/ex8_3.sce#S##73372
+8#Operational Amplifiers#8.24#Closed loop voltage gain and bandwidth and output voltage#ex8_24.sce#2150/CH8/EX8.24/ex8_24.sce#S##73412
+8#Operational Amplifiers#8.23#Closed loop voltage gain and bandwidth#ex8_23.sce#2150/CH8/EX8.23/ex8_23.sce#S##73411
+8#Operational Amplifiers#8.22#Output voltage#ex8_22.sce#2150/CH8/EX8.22/ex8_22.sce#S##73410
+8#Operational Amplifiers#8.21#Output voltage#ex8_21.sce#2150/CH8/EX8.21/ex8_21.sce#S##73409
+8#Operational Amplifiers#8.20#Range of output voltage#ex8_20.sce#2150/CH8/EX8.20/ex8_20.sce#S##73408
+8#Operational Amplifiers#8.2#Output voltage#ex8_2.sce#2150/CH8/EX8.2/ex8_2.sce#S##73370
+8#Operational Amplifiers#8.19#Input voltage#ex8_19.sce#2150/CH8/EX8.19/ex8_19.sce#S##73406
+8#Operational Amplifiers#8.18#Output voltage#ex8_18.sce#2150/CH8/EX8.18/ex8_18.sce#S##73407
+8#Operational Amplifiers#8.16#Output voltage#ex8_16.sce#2150/CH8/EX8.16/ex8_16.sce#S##73405
+8#Operational Amplifiers#8.15#Output voltage#ex8_15.sce#2150/CH8/EX8.15/ex8_15.sce#S##78931
+8#Operational Amplifiers#8.14#Value of R1 and R2#ex8_14.sce#2150/CH8/EX8.14/ex8_14.sce#S##73403
+8#Operational Amplifiers#8.13#Output waveform#ex8_13.sce#2150/CH8/EX8.13/ex8_13.sce#S##78930
+8#Operational Amplifiers#8.12#Range of output voltage#ex8_12.sce#2150/CH8/EX8.12/ex8_12.sce#S##73401
+8#Operational Amplifiers#8.11#Range of voltage gain#ex8_11.sce#2150/CH8/EX8.11/ex8_11.sce#S##73396
+8#Operational Amplifiers#8.10#Output voltage#ex8_10.sce#2150/CH8/EX8.10/ex8_10.sce#S##73393
+8#Operational Amplifiers#8.1#Value of Rf#ex8_1.sce#2150/CH8/EX8.1/ex8_1.sce#S##78928
+7#MOSFET#7.9#Drain current and the value of VDS#ex7_9.sce#2150/CH7/EX7.9/ex7_9.sce#S##73213
+7#MOSFET#7.8#Value of ID#ex7_8.sce#2150/CH7/EX7.8/ex7_8.sce#S##73212
+7#MOSFET#7.7#Region of operation#ex7_7.sce#2150/CH7/EX7.7/ex7_7.sce#S##73211
+7#MOSFET#7.6#Value of K#ex7_6.sce#2150/CH7/EX7.6/ex7_6.sce#S##73210
+7#MOSFET#7.5#Drain current#ex7_5.sce#2150/CH7/EX7.5/ex7_5.sce#S##73209
+7#MOSFET#7.4#Value of VDS#ex7_4.sce#2150/CH7/EX7.4/ex7_4.sce#S##78927
+7#MOSFET#7.3#Transfer characteristics#ex7_3.sce#2150/CH7/EX7.3/ex7_3.sce#S##73207
+7#MOSFET#7.2#LED current#ex7_2.sce#2150/CH7/EX7.2/ex7_2.sce#S##73206
+7#MOSFET#7.12#Voltage across EMOSFET#ex7_12.sce#2150/CH7/EX7.12/ex7_12.sce#S##73216
+7#MOSFET#7.11#Value of RDS#ex7_11.sce#2150/CH7/EX7.11/ex7_11.sce#S##73215
+7#MOSFET#7.10#Value of rd Av and Vout#ex7_10.sce#2150/CH7/EX7.10/ex7_10.sce#S##73214
+7#MOSFET#7.1#Output voltage#ex7_1.sce#2150/CH7/EX7.1/ex7_1.sce#S##73205
+6#Field Effect Devices#6.9#Gate source voltage#ex6_9.sce#2150/CH6/EX6.9/ex6_9.sce#S##73129
+6#Field Effect Devices#6.8#Minimum value of VDS#ex6_8.sce#2150/CH6/EX6.8/ex6_8.sce#S##73128
+6#Field Effect Devices#6.7#Drain current#ex6_7.sce#2150/CH6/EX6.7/ex6_7.sce#S##73127
+6#Field Effect Devices#6.6#Minimum value of VDS#ex6_6.sce#2150/CH6/EX6.6/ex6_6.sce#S##73126
+6#Field Effect Devices#6.5#Output voltage#ex6_5.sce#2150/CH6/EX6.5/ex6_5.sce#S##78922
+6#Field Effect Devices#6.4#Drain current#ex6_4.sce#2150/CH6/EX6.4/ex6_4.sce#S##73124
+6#Field Effect Devices#6.30#AC output voltage#ex6_30.sce#2150/CH6/EX6.30/ex6_30.sce#S##73148
+6#Field Effect Devices#6.3#DC load line and operating point#ex6_3.sce#2150/CH6/EX6.3/ex6_3.sce#S##73122
+6#Field Effect Devices#6.29#Drain current#ex6_29.sce#2150/CH6/EX6.29/ex6_29.sce#S##73147
+6#Field Effect Devices#6.28#DC load line and operating point#ex6_28.sce#2150/CH6/EX6.28/ex6_28.sce#S##73146
+6#Field Effect Devices#6.27#Drain saturation current#ex6_27.sce#2150/CH6/EX6.27/ex6_27.sce#S##73145
+6#Field Effect Devices#6.26#Gate voltage and drain current#ex6_26.sce#2150/CH6/EX6.26/ex6_26.sce#S##73144
+6#Field Effect Devices#6.25#Maximum drain current#ex6_25.sce#2150/CH6/EX6.25/ex6_25.sce#S##78926
+6#Field Effect Devices#6.24#Input resistance of the gate#ex6_24.sce#2150/CH6/EX6.24/ex6_24.sce#S##73142
+6#Field Effect Devices#6.23#Voltage gain#ex6_23.sce#2150/CH6/EX6.23/ex6_23.sce#S##78925
+6#Field Effect Devices#6.22#Value of gm ID and VDS#ex6_22.sce#2150/CH6/EX6.22/ex6_22.sce#S##78936
+6#Field Effect Devices#6.21#Value of ID and gm#ex6_21.sce#2150/CH6/EX6.21/ex6_21.sce#S##73140
+6#Field Effect Devices#6.20#AC drain resistance#ex6_20.sce#2150/CH6/EX6.20/ex6_20.sce#S##73139
+6#Field Effect Devices#6.2#Drain voltage#ex6_2.sce#2150/CH6/EX6.2/ex6_2.sce#S##73121
+6#Field Effect Devices#6.19#Resistance between gate and source#ex6_19.sce#2150/CH6/EX6.19/ex6_19.sce#S##73138
+6#Field Effect Devices#6.18#Value of VGS IDQ VDS VD VG and VS#ex6_18.sce#2150/CH6/EX6.18/ex6_18.sce#S##73137
+6#Field Effect Devices#6.17#Value of VGS gm RS and RD#ex6_17.sce#2150/CH6/EX6.17/ex6_17.sce#S##73136
+6#Field Effect Devices#6.16#Value of RS and RD#ex6_16.sce#2150/CH6/EX6.16/ex6_16.sce#S##73135
+6#Field Effect Devices#6.15#Drain current#ex6_15.sce#2150/CH6/EX6.15/ex6_15.sce#S##73134
+6#Field Effect Devices#6.14#Transfer curve#ex6_14.sce#2150/CH6/EX6.14/ex6_14.sce#S##78924
+6#Field Effect Devices#6.13#Value of IDQ VGSQ and IDSS#ex6_13.sce#2150/CH6/EX6.13/ex6_13.sce#S##73132
+6#Field Effect Devices#6.12#Value of IDQ VGSQ VDS VD and VS#ex6_12.sce#2150/CH6/EX6.12/ex6_12.sce#S##78935
+6#Field Effect Devices#6.11#Value of IDQ VD VS and VDS#ex6_11.sce#2150/CH6/EX6.11/ex6_11.sce#S##78923
+6#Field Effect Devices#6.10#Value of ID and VGS#ex6_10.sce#2150/CH6/EX6.10/ex6_10.sce#S##73130
+6#Field Effect Devices#6.1#Drain voltage#ex6_1.sce#2150/CH6/EX6.1/ex6_1.sce#S##73120
+5#Transistor Circuits#5.9#Output voltage#ex5_9.sce#2150/CH5/EX5.9/ex5_9.sce#S##73116
+5#Transistor Circuits#5.8#AC beta#ex5_8.sce#2150/CH5/EX5.8/ex5_8.sce#S##78921
+5#Transistor Circuits#5.7#Lowest frequency#ex5_7.sce#2150/CH5/EX5.7/ex5_7.sce#S##73114
+5#Transistor Circuits#5.6#Lowest frequency#ex5_6.sce#2150/CH5/EX5.6/ex5_6.sce#S##73113
+5#Transistor Circuits#5.5#Value of RB#ex5_5.sce#2150/CH5/EX5.5/ex5_5.sce#S##73112
+5#Transistor Circuits#5.4#Input impedance#ex5_4.sce#2150/CH5/EX5.4/ex5_4.sce#S##73111
+5#Transistor Circuits#5.3#Output voltage#ex5_3.sce#2150/CH5/EX5.3/ex5_3.sce#S##73110
+5#Transistor Circuits#5.2#Voltage gain#ex5_2.sce#2150/CH5/EX5.2/ex5_2.sce#S##73109
+5#Transistor Circuits#5.12#Voltage gain and ac load voltage#ex5_12.sce#2150/CH5/EX5.12/ex5_12.sce#S##73119
+5#Transistor Circuits#5.11#Input impedance#ex5_11.sce#2150/CH5/EX5.11/ex5_11.sce#S##73118
+5#Transistor Circuits#5.10#Voltage gain#ex5_10.sce#2150/CH5/EX5.10/ex5_10.sce#S##73117
+5#Transistor Circuits#5.1#Value of C#ex5_1.sce#2150/CH5/EX5.1/ex5_1.sce#S##73108
+4#Bipolar Junction Transistors#4.9#Emitter current#ex_4_9.sce#2150/CH4/EX4.9/ex_4_9.sce#S##73072
+4#Bipolar Junction Transistors#4.8#DC load line and operating point#ex_4_8.sce#2150/CH4/EX4.8/ex_4_8.sce#S##73071
+4#Bipolar Junction Transistors#4.7#Collector emitter voltage#ex_4_7.sce#2150/CH4/EX4.7/ex_4_7.sce#S##73070
+4#Bipolar Junction Transistors#4.6#Collector current#ex_4_6.sce#2150/CH4/EX4.6/ex_4_6.sce#S##73069
+4#Bipolar Junction Transistors#4.5#The value of IB IC VCE and PD#ex_4_5.sce#2150/CH4/EX4.5/ex_4_5.sce#S##73068
+4#Bipolar Junction Transistors#4.4#Alpha rating#ex_4_4.sce#2150/CH4/EX4.4/ex_4_4.sce#S##73067
+4#Bipolar Junction Transistors#4.39#Q point#ex4_39.sce#2150/CH4/EX4.39/ex4_39.sce#S##73107
+4#Bipolar Junction Transistors#4.38#Emitter voltage#ex4_38.sce#2150/CH4/EX4.38/ex4_38.sce#S##73106
+4#Bipolar Junction Transistors#4.37#Collector voltage#ex4_37.sce#2150/CH4/EX4.37/ex4_37.sce#S##73105
+4#Bipolar Junction Transistors#4.36#Voltage between collector and ground#ex4_36.sce#2150/CH4/EX4.36/ex4_36.sce#S##73104
+4#Bipolar Junction Transistors#4.35#Voltage between collector and ground#ex4_35.sce#2150/CH4/EX4.35/ex4_35.sce#S##73103
+4#Bipolar Junction Transistors#4.34#Load line#ex4_34.sce#2150/CH4/EX4.34/ex4_34.sce#S##73102
+4#Bipolar Junction Transistors#4.33#Collector emitter voltage#ex4_33.sce#2150/CH4/EX4.33/ex4_33.sce#S##73101
+4#Bipolar Junction Transistors#4.32#Collector emitter voltage#ex4_32.sce#2150/CH4/EX4.32/ex4_32.sce#S##73100
+4#Bipolar Junction Transistors#4.31#Base current#ex4_31.sce#2150/CH4/EX4.31/ex4_31.sce#S##73099
+4#Bipolar Junction Transistors#4.30#Current gain#ex4_30.sce#2150/CH4/EX4.30/ex4_30.sce#S##73098
+4#Bipolar Junction Transistors#4.3#The value of bita#ex_4_3.sce#2150/CH4/EX4.3/ex_4_3.sce#S##73066
+4#Bipolar Junction Transistors#4.29#Base current#ex4_29.sce#2150/CH4/EX4.29/ex4_29.sce#S##73097
+4#Bipolar Junction Transistors#4.28#Value of VE IC VC and IB#ex4_28.sce#2150/CH4/EX4.28/ex4_28.sce#S##73096
+4#Bipolar Junction Transistors#4.27#Range of possible value for VC#ex4_27.sce#2150/CH4/EX4.27/ex4_27.sce#S##73095
+4#Bipolar Junction Transistors#4.26#ICQ and VCEQ#ex4_26.sce#2150/CH4/EX4.26/ex4_26.sce#S##73094
+4#Bipolar Junction Transistors#4.25#IB IC and VC#ex4_25.sce#2150/CH4/EX4.25/ex4_25.sce#S##73093
+4#Bipolar Junction Transistors#4.24#Value of ICQ and VCEQ#ex4_24.sce#2150/CH4/EX4.24/ex4_24.sce#S##73092
+4#Bipolar Junction Transistors#4.23#Value of IB IC VCE VC VE VB and VBC#ex4_23.sce#2150/CH4/EX4.23/ex4_23.sce#S##73091
+4#Bipolar Junction Transistors#4.22#The region of operation#ex4_22.sce#2150/CH4/EX4.22/ex4_22.sce#S##73090
+4#Bipolar Junction Transistors#4.21#Operating point#ex4_21.sce#2150/CH4/EX4.21/ex4_21.sce#S##73089
+4#Bipolar Junction Transistors#4.20#Value of IB and IC#ex4_20.sce#2150/CH4/EX4.20/ex4_20.sce#S##73088
+4#Bipolar Junction Transistors#4.2#Base current#ex_4_2.sce#2150/CH4/EX4.2/ex_4_2.sce#S##73065
+4#Bipolar Junction Transistors#4.19#VCE for the voltage divider bias configuration#ex4_19.sce#2150/CH4/EX4.19/ex4_19.sce#S##73087
+4#Bipolar Junction Transistors#4.18#Value of VCC RB and RC#ex4_18.sce#2150/CH4/EX4.18/ex4_18.sce#S##73086
+4#Bipolar Junction Transistors#4.17#Value of IB and IC#ex4_17.sce#2150/CH4/EX4.17/ex4_17.sce#S##73085
+4#Bipolar Junction Transistors#4.16#Value of IBQ and ICQ#ex4_16.sce#2150/CH4/EX4.16/ex4_16.sce#S##73084
+4#Bipolar Junction Transistors#4.15#The value of IC and VCE#ex4_15.sce#2150/CH4/EX4.15/ex4_15.sce#S##73078
+4#Bipolar Junction Transistors#4.14#The value bita VCC and RB#ex_4_14.sce#2150/CH4/EX4.14/ex_4_14.sce#S##73077
+4#Bipolar Junction Transistors#4.13#Collector to base bias circuit#ex_4_13.sce#2150/CH4/EX4.13/ex_4_13.sce#S##73076
+4#Bipolar Junction Transistors#4.12#Operating point#ex_4_12.sce#2150/CH4/EX4.12/ex_4_12.sce#S##73075
+4#Bipolar Junction Transistors#4.11#DC load line and operating point#ex_4_11.sce#2150/CH4/EX4.11/ex_4_11.sce#S##73074
+4#Bipolar Junction Transistors#4.10#Design a fixed bias circuit#ex_4_10.sce#2150/CH4/EX4.10/ex_4_10.sce#S##73073
+4#Bipolar Junction Transistors#4.1#Current gain and base current#ex_4_1.sce#2150/CH4/EX4.1/ex_4_1.sce#S##73064
+3#Special Purpose Diodes#3.9#Range of value of Vi#ex3_9.sce#2150/CH3/EX3.9/ex3_9.sce#S##73054
+3#Special Purpose Diodes#3.8#Range of RL and IL#ex3_8.sce#2150/CH3/EX3.8/ex3_8.sce#S##73053
+3#Special Purpose Diodes#3.7#Resistance of device#ex3_7.sce#2150/CH3/EX3.7/ex3_7.sce#S##73052
+3#Special Purpose Diodes#3.6#The value of VL VR IZ and PZ#ex3_6.sce#2150/CH3/EX3.6/ex3_6.sce#S##73051
+3#Special Purpose Diodes#3.5#Load voltage#ex3_5.sce#2150/CH3/EX3.5/ex3_5.sce#S##73050
+3#Special Purpose Diodes#3.18#Range of load currents#ex3_18.sce#2150/CH3/EX3.18/ex3_18.sce#S##78920
+3#Special Purpose Diodes#3.17#Safe voltage range of V#ex3_17.sce#2150/CH3/EX3.17/ex3_17.sce#S##73062
+3#Special Purpose Diodes#3.16#The value of VL IL IZ and IR#ex3_16.sce#2150/CH3/EX3.16/ex3_16.sce#S##73061
+3#Special Purpose Diodes#3.15#The value of RS and RL#ex3_15.sce#2150/CH3/EX3.15/ex3_15.sce#S##73060
+3#Special Purpose Diodes#3.14#Range of Vi#ex3_14.sce#2150/CH3/EX3.14/ex3_14.sce#S##73059
+3#Special Purpose Diodes#3.13#Design a zener voltage regulator#ex3_13.sce#2150/CH3/EX3.13/ex3_13.sce#S##73058
+3#Special Purpose Diodes#3.12#Range of input voltage#ex3_12.sce#2150/CH3/EX3.12/ex3_12.sce#S##73057
+3#Special Purpose Diodes#3.11#Value of VL IL IZ and IR#ex3_11.sce#2150/CH3/EX3.11/ex3_11.sce#S##73056
+3#Special Purpose Diodes#3.10#Zener diode operation#ex3_10.sce#2150/CH3/EX3.10/ex3_10.sce#S##73055
+3#Special Purpose Diodes#3.1#Zener current#ex3_1.sce#2150/CH3/EX3.1/ex3_1.sce#S##73049
+2#Diode Applications#2.8#DC output voltage#ex2_8.sce#2150/CH2/EX2.8/ex2_8.sce#S##73037
+2#Diode Applications#2.7#Average load voltage#ex2_7.sce#2150/CH2/EX2.7/ex2_7.sce#S##78937
+2#Diode Applications#2.4.2#Peak magnitude of output waveform#ex2_4_2.sce#2150/CH2/EX2.4.2/ex2_4_2.sce#S##78934
+2#Diode Applications#2.4#Required PIV#ex2_4.sce#2150/CH2/EX2.4/ex2_4.sce#S##78918
+2#Diode Applications#2.3#Required PIV#ex2_3.sce#2150/CH2/EX2.3/ex2_3.sce#S##73035
+2#Diode Applications#2.26#DC voltage#ex2_26.sce#2150/CH2/EX2.26/ex2_26.sce#S##73048
+2#Diode Applications#2.25#Value of Vdc#ex2_25.sce#2150/CH2/EX2.25/ex2_25.sce#S##78919
+2#Diode Applications#2.24#Load current#ex2_24.sce#2150/CH2/EX2.24/ex2_24.sce#S##73046
+2#Diode Applications#2.23#Peak load voltage#ex2_23.sce#2150/CH2/EX2.23/ex2_23.sce#S##73045
+2#Diode Applications#2.22#Peak value of current#ex2_22.sce#2150/CH2/EX2.22/ex2_22.sce#S##73044
+2#Diode Applications#2.21#AC and DC power output#ex2_21.sce#2150/CH2/EX2.21/ex2_21.sce#S##73043
+2#Diode Applications#2.20#Value of current#ex2_20.sce#2150/CH2/EX2.20/ex2_20.sce#S##73042
+2#Diode Applications#2.2#Average RMS and peak value of current#ex2_2.sce#2150/CH2/EX2.2/ex2_2.sce#S##73034
+2#Diode Applications#2.19#Required PIV rating#ex2_19.sce#2150/CH2/EX2.19/ex2_19.sce#S##73041
+2#Diode Applications#2.17#PIV#ex2_17.sce#2150/CH2/EX2.17/ex2_17.sce#S##73040
+2#Diode Applications#2.16#AC voltage#ex2_16.sce#2150/CH2/EX2.16/ex2_16.sce#S##73039
+2#Diode Applications#2.10#RMS value of signal voltage#ex2_10.sce#2150/CH2/EX2.10/ex2_10.sce#S##73038
+2#Diode Applications#2.1#Average current and load voltage#ex2_1.sce#2150/CH2/EX2.1/ex2_1.sce#S##73033
+1#Impact Load And Stresses#1.9#Diode current#ex1_9.sce#2150/CH1/EX1.9/ex1_9.sce#S##73012
+1#Impact Load And Stresses#1.8#Value of current#ex1_8.sce#2150/CH1/EX1.8/ex1_8.sce#S##73011
+1#Impact Load And Stresses#1.7#Value of Vo and ID#ex1_7.sce#2150/CH1/EX1.7/ex1_7.sce#S##73010
+1#Impact Load And Stresses#1.6#Value of Vo I1 ID1 and ID2#ex1_6.sce#2150/CH1/EX1.6/ex1_6.sce#S##78914
+1#Impact Load And Stresses#1.5#Load voltage and current#ex1_5.sce#2150/CH1/EX1.5/ex1_5.sce#S##73008
+1#Impact Load And Stresses#1.4#Load voltage and current#ex1_4.sce#2150/CH1/EX1.4/ex1_4.sce#S##73007
+1#Impact Load And Stresses#1.3#Load voltage and current#ex1_3.sce#2150/CH1/EX1.3/ex1_3.sce#S##78913
+1#Impact Load And Stresses#1.29#Current and output voltage#ex1_29.sce#2150/CH1/EX1.29/ex1_29.sce#S##73032
+1#Impact Load And Stresses#1.28#Output voltage and diode current#ex1_28.sce#2150/CH1/EX1.28/ex1_28.sce#S##73031
+1#Impact Load And Stresses#1.27#Output voltage and diode current#ex1_27.sce#2150/CH1/EX1.27/ex1_27.sce#S##73030
+1#Impact Load And Stresses#1.26#Output voltage and diode current#ex1_26.sce#2150/CH1/EX1.26/ex1_26.sce#S##73029
+1#Impact Load And Stresses#1.25#Value of Vo1 and Vo2#ex1_25.sce#2150/CH1/EX1.25/ex1_25.sce#S##73028
+1#Impact Load And Stresses#1.24#Diode current#ex1_24.sce#2150/CH1/EX1.24/ex1_24.sce#S##73027
+1#Impact Load And Stresses#1.23#Value of Vo I1 ID1 and ID2#ex1_23.sce#2150/CH1/EX1.23/ex1_23.sce#S##73026
+1#Impact Load And Stresses#1.22#Total current#ex1_22.sce#2150/CH1/EX1.22/ex1_22.sce#S##73025
+1#Impact Load And Stresses#1.21#Total current#ex1_21.sce#2150/CH1/EX1.21/ex1_21.sce#S##78917
+1#Impact Load And Stresses#1.20#Total current#ex1_20.sce#2150/CH1/EX1.20/ex1_20.sce#S##73023
+1#Impact Load And Stresses#1.2#Saturation current#ex1_2.sce#2150/CH1/EX1.2/ex1_2.sce#S##73005
+1#Impact Load And Stresses#1.19#Total current#ex1_19.sce#2150/CH1/EX1.19/ex1_19.sce#S##73022
+1#Impact Load And Stresses#1.18#Output voltage and diode current#ex1_18.sce#2150/CH1/EX1.18/ex1_18.sce#S##78916
+1#Impact Load And Stresses#1.17#Value of Vo and ID#ex1_17.sce#2150/CH1/EX1.17/ex1_17.sce#S##78915
+1#Impact Load And Stresses#1.16#Output voltage#ex1_16.sce#2150/CH1/EX1.16/ex1_16.sce#S##73019
+1#Impact Load And Stresses#1.15#Value of current#ex1_15.sce#2150/CH1/EX1.15/ex1_15.sce#S##73018
+1#Impact Load And Stresses#1.14#Value of ID#ex1_14.sce#2150/CH1/EX1.14/ex1_14.sce#S##73017
+1#Impact Load And Stresses#1.13#Output voltage#ex1_13.sce#2150/CH1/EX1.13/ex1_13.sce#S##73016
+1#Impact Load And Stresses#1.12#Value of I1 I2 and ID2#ex1_12.sce#2150/CH1/EX1.12/ex1_12.sce#S##73015
+1#Impact Load And Stresses#1.11#Value of ID VD2 and Vo#ex1_11.sce#2150/CH1/EX1.11/ex1_11.sce#S##73014
+1#Impact Load And Stresses#1.10#DC resistance levels#ex1_10.sce#2150/CH1/EX1.10/ex1_10.sce#S##73013
+1#Impact Load And Stresses#1.1#Barrier potential#ex1_1.sce#2150/CH1/EX1.1/ex1_1.sce#S##78912

@@ -1,0 +1,7 @@
+(i) I = 166 A 
+
+(ii) Current supplied by A = 366 A 
+Drop due to concentrated loading = 4.24 V 
+Drop due to distributed loading = 4.00 V 
+Vd = 231.76 V 
+

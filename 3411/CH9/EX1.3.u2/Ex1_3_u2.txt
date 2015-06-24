@@ -1,0 +1,3 @@
+The uncertenity in momentum is delta p= 
+    5.276D-26  
+Kg ms^-1 

@@ -1,0 +1,10 @@
+clear;
+clc;
+D=40;Ro=600;
+N=10^(D/20);
+R3=Ro*(N-1);
+R2=Ro/(N-1);
+R1=Ro;
+printf("R1 = %f ohms\n",R1);
+printf(" R2 = %f ohms\n",round(R2*100)/100);
+printf(" R3 = %f k ohms\n",R3*(10^-3));

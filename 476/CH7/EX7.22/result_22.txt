@@ -1,0 +1,12 @@
+A Textbook of Chemical Engineering Thermodynamics
+
+Chapter 7
+
+Properties of Solutions
+
+
+
+Example 22:
+
+The value of heat capacity of ethanol given and used in the problem are different.
+I have used the value that has been used for the calculation in the book.

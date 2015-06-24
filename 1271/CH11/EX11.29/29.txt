@@ -1,0 +1,2 @@
+ Length of the rod in moving frame is 4.272002 meter.
+ Orientation of the rod is 35.817526 degree.

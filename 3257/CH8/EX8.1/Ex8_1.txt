@@ -1,0 +1,4 @@
+ 
+ Example 8.1
+ Percentage frictional energy is 44.4%
+ Percentage shear energy is 55.6%

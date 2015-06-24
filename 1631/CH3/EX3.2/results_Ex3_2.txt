@@ -1,0 +1,17 @@
+i) maximum frquency of the signal is   
+ 
+    2500.  
+ 
+  Hz   
+ 
+ ii) Nquist Rate of the given Signal is   
+ 
+    5000.  
+ 
+  Hz   
+ 
+ iii) Nquist Interval of the given signal is   
+ 
+    0.2  
+ 
+ m Sec 

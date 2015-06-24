@@ -1,0 +1,319 @@
+19#Mechanical Vibration#19.28#Vibrations#Ex19_28.sce#3137/CH19/EX19.28/Ex19_28.sce#S##112959
+19#Mechanical Vibration#19.25#Vibrations#Ex19_25.sce#3137/CH19/EX19.25/Ex19_25.sce#S##112958
+19#Mechanical Vibration#19.24#Vibrations#Ex19_24.sce#3137/CH19/EX19.24/Ex19_24.sce#S##112957
+19#Mechanical Vibration#19.20#Vibrations#Ex19_20.sce#3137/CH19/EX19.20/Ex19_20.sce#S##112956
+19#Mechanical Vibration#19.2#Vibrations#Ex19_2.sce#3137/CH19/EX19.2/Ex19_2.sce#S##112949
+19#Mechanical Vibration#19.19#Vibrations#Ex19_19.sce#3137/CH19/EX19.19/Ex19_19.sce#S##112955
+19#Mechanical Vibration#19.16#Vibrations#Ex19_16.sce#3137/CH19/EX19.16/Ex19_16.sce#S##112954
+19#Mechanical Vibration#19.15#Vibrations#Ex19_15.sce#3137/CH19/EX19.15/Ex19_15.sce#S##112953
+19#Mechanical Vibration#19.14#Vibrations#Ex19_14.sce#3137/CH19/EX19.14/Ex19_14.sce#S##112952
+19#Mechanical Vibration#19.13#Vibrations#Ex19_13.sce#3137/CH19/EX19.13/Ex19_13.sce#S##112951
+19#Mechanical Vibration#19.11#Vibrations#Ex19_11.sce#3137/CH19/EX19.11/Ex19_11.sce#S##112950
+18#Impulse and Momentum#18.9#Imp#Ex18_9.sce#3137/CH18/EX18.9/Ex18_9.sce#S##112917
+18#Impulse and Momentum#18.8#Imp#Ex18_8.sce#3137/CH18/EX18.8/Ex18_8.sce#S##112916
+18#Impulse and Momentum#18.52#Imp#Ex18_52.sce#3137/CH18/EX18.52/Ex18_52.sce#S##112947
+18#Impulse and Momentum#18.51#Imp#Ex18_51.sce#3137/CH18/EX18.51/Ex18_51.sce#S##112946
+18#Impulse and Momentum#18.50#Imp#Ex18_50.sce#3137/CH18/EX18.50/Ex18_50.sce#S##112945
+18#Impulse and Momentum#18.48#Imp#Ex18_48.sce#3137/CH18/EX18.48/Ex18_48.sce#S##112944
+18#Impulse and Momentum#18.46#Imp#Ex18_46.sce#3137/CH18/EX18.46/Ex18_46.sce#S##112943
+18#Impulse and Momentum#18.42#Imp#Ex18_42.sce#3137/CH18/EX18.42/Ex18_42.sce#S##112942
+18#Impulse and Momentum#18.41#Imp#Ex18_41.sce#3137/CH18/EX18.41/Ex18_41.sce#S##112941
+18#Impulse and Momentum#18.40#Imp#Ex18_40.sce#3137/CH18/EX18.40/Ex18_40.sce#S##112940
+18#Impulse and Momentum#18.39#Imp#Ex18_39.sce#3137/CH18/EX18.39/Ex18_39.sce#S##112939
+18#Impulse and Momentum#18.35#Imp#Ex18_35.sce#3137/CH18/EX18.35/Ex18_35.sce#S##112938
+18#Impulse and Momentum#18.34#Imp#Ex18_34.sce#3137/CH18/EX18.34/Ex18_34.sce#S##112937
+18#Impulse and Momentum#18.33#Imp#Ex18_33.sce#3137/CH18/EX18.33/Ex18_33.sce#S##112936
+18#Impulse and Momentum#18.32#Imp#Ex18_32.sce#3137/CH18/EX18.32/Ex18_32.sce#S##112935
+18#Impulse and Momentum#18.30#Imp#Ex18_30.sce#3137/CH18/EX18.30/Ex18_30.sce#S##112934
+18#Impulse and Momentum#18.29#Imp#Ex18_29.sce#3137/CH18/EX18.29/Ex18_29.sce#S##112933
+18#Impulse and Momentum#18.28#Imp#Ex18_28.sce#3137/CH18/EX18.28/Ex18_28.sce#S##112948
+18#Impulse and Momentum#18.27#Imp#Ex18_28.sce#3137/CH18/EX18.27/Ex18_28.sce#S##112932
+18#Impulse and Momentum#18.26#Imp#Ex18_26.sce#3137/CH18/EX18.26/Ex18_26.sce#S##112931
+18#Impulse and Momentum#18.25#Imp#Ex18_25.sce#3137/CH18/EX18.25/Ex18_25.sce#S##112930
+18#Impulse and Momentum#18.24#Imp#Ex18_24.sce#3137/CH18/EX18.24/Ex18_24.sce#S##112929
+18#Impulse and Momentum#18.23#Imp#Ex18_23.sce#3137/CH18/EX18.23/Ex18_23.sce#S##112928
+18#Impulse and Momentum#18.22#Imp#Ex18_22.sce#3137/CH18/EX18.22/Ex18_22.sce#S##112967
+18#Impulse and Momentum#18.21#Imp#Ex18_21.sce#3137/CH18/EX18.21/Ex18_21.sce#S##112926
+18#Impulse and Momentum#18.19#Imp#Ex18_19.sce#3137/CH18/EX18.19/Ex18_19.sce#S##112925
+18#Impulse and Momentum#18.18#Imp#Ex18_18.sce#3137/CH18/EX18.18/Ex18_18.sce#S##112966
+18#Impulse and Momentum#18.17#Imp#Ex18_17.sce#3137/CH18/EX18.17/Ex18_17.sce#S##112923
+18#Impulse and Momentum#18.15#Imp#Ex18_15.sce#3137/CH18/EX18.15/Ex18_15.sce#S##112922
+18#Impulse and Momentum#18.14#Imp#Ex18_14.sce#3137/CH18/EX18.14/Ex18_14.sce#S##112921
+18#Impulse and Momentum#18.13#Imp#Ex18_13.sce#3137/CH18/EX18.13/Ex18_13.sce#S##112920
+18#Impulse and Momentum#18.12#Imp#Ex18_12.sce#3137/CH18/EX18.12/Ex18_12.sce#S##112919
+18#Impulse and Momentum#18.11#Imp#Ex18_11.sce#3137/CH18/EX18.11/Ex18_11.sce#S##114778
+18#Impulse and Momentum#18.10#Imp#Ex18_10.sce#3137/CH18/EX18.10/Ex18_10.sce#S##112918
+17#Work and Energy#17.9#Work#Ex17_9.sce#3137/CH17/EX17.9/Ex17_9.sce#S##112893
+17#Work and Energy#17.7#Work#Ex17_7.sce#3137/CH17/EX17.7/Ex17_7.sce#S##112890
+17#Work and Energy#17.6#Work#Ex17_6.sci#3137/CH17/EX17.6/Ex17_6.sci#S##112889
+17#Work and Energy#17.41#Work#Ex17_41.sce#3137/CH17/EX17.41/Ex17_41.sce#S##112915
+17#Work and Energy#17.40#Work#Ex17_40.sce#3137/CH17/EX17.40/Ex17_40.sce#S##112914
+17#Work and Energy#17.4#Work#Ex17_4.sci#3137/CH17/EX17.4/Ex17_4.sci#S##112888
+17#Work and Energy#17.38#Work#Ex17_38.sce#3137/CH17/EX17.38/Ex17_38.sce#S##112912
+17#Work and Energy#17.37#Work#Ex17_37.sce#3137/CH17/EX17.37/Ex17_37.sce#S##112913
+17#Work and Energy#17.36#Work#Ex17_36.sce#3137/CH17/EX17.36/Ex17_36.sce#S##112911
+17#Work and Energy#17.35#Work#Ex17_35.sce#3137/CH17/EX17.35/Ex17_35.sce#S##112965
+17#Work and Energy#17.34#Work#Ex17_34.sce#3137/CH17/EX17.34/Ex17_34.sce#S##112909
+17#Work and Energy#17.33#Work#Ex17_33.sce#3137/CH17/EX17.33/Ex17_33.sce#S##112908
+17#Work and Energy#17.32#Work#Ex17_32.sce#3137/CH17/EX17.32/Ex17_32.sce#S##112907
+17#Work and Energy#17.31#Work#Ex17_31.sci#3137/CH17/EX17.31/Ex17_31.sci#S##112906
+17#Work and Energy#17.28#Work#Ex17_28.sce#3137/CH17/EX17.28/Ex17_28.sce#S##112905
+17#Work and Energy#17.26#Work#Ex17_26.sce#3137/CH17/EX17.26/Ex17_26.sce#S##112904
+17#Work and Energy#17.25#Work#Ex17_25.sce#3137/CH17/EX17.25/Ex17_25.sce#S##112903
+17#Work and Energy#17.24#Work#Ex17_24.sce#3137/CH17/EX17.24/Ex17_24.sce#S##112902
+17#Work and Energy#17.23#Work#Ex17_23.sce#3137/CH17/EX17.23/Ex17_23.sce#S##114788
+17#Work and Energy#17.22#Work#Ex17_22.sce#3137/CH17/EX17.22/Ex17_22.sce#S##112901
+17#Work and Energy#17.21#Work#Ex17_21.sce#3137/CH17/EX17.21/Ex17_21.sce#S##112899
+17#Work and Energy#17.19#Work#Ex17_19.sce#3137/CH17/EX17.19/Ex17_19.sce#S##112900
+17#Work and Energy#17.18#Work#Ex17_18.sce#3137/CH17/EX17.18/Ex17_18.sce#S##112898
+17#Work and Energy#17.16#Work#Ex17_16.sce#3137/CH17/EX17.16/Ex17_16.sce#S##112897
+17#Work and Energy#17.15#Work#Ex17_15.sce#3137/CH17/EX17.15/Ex17_15.sce#S##112896
+17#Work and Energy#17.13#Work#Ex17_13.sce#3137/CH17/EX17.13/Ex17_13.sce#S##112895
+17#Work and Energy#17.12#Work#Ex17_12.sce#3137/CH17/EX17.12/Ex17_12.sce#S##112892
+17#Work and Energy#17.11#Work#Ex17_11.sce#3137/CH17/EX17.11/Ex17_11.sce#S##112894
+17#Work and Energy#17.10#Work#Ex17_10.sce#3137/CH17/EX17.10/Ex17_10.sce#S##112891
+16#Dynamics of a Rigid Body in Plane Motion#16.9#Dyna of rig body in PM#Ex16_9.sce#3137/CH16/EX16.9/Ex16_9.sce#S##112853
+16#Dynamics of a Rigid Body in Plane Motion#16.8#Dyna of rig body in PM#Ex16_8.sce#3137/CH16/EX16.8/Ex16_8.sce#S##112852
+16#Dynamics of a Rigid Body in Plane Motion#16.62#Dyna of rig body in PM#Ex16_62.sce#3137/CH16/EX16.62/Ex16_62.sce#S##112887
+16#Dynamics of a Rigid Body in Plane Motion#16.61#Dyna of rig body in PM#Ex16_61.sce#3137/CH16/EX16.61/Ex16_61.sce#S##112886
+16#Dynamics of a Rigid Body in Plane Motion#16.60#Dyna of rig body in PM#Ex16_60.sce#3137/CH16/EX16.60/Ex16_60.sce#S##112885
+16#Dynamics of a Rigid Body in Plane Motion#16.6#Dyna of rig body in PM#Ex16_6.sce#3137/CH16/EX16.6/Ex16_6.sce#S##112851
+16#Dynamics of a Rigid Body in Plane Motion#16.58#Dyna of rig body in PM#Ex16_58.sce#3137/CH16/EX16.58/Ex16_58.sce#S##112884
+16#Dynamics of a Rigid Body in Plane Motion#16.57#Dyna of rig body in PM#Ex16_57.sce#3137/CH16/EX16.57/Ex16_57.sce#S##112883
+16#Dynamics of a Rigid Body in Plane Motion#16.56#Dyna of rig body in PM#Ex16_56.sce#3137/CH16/EX16.56/Ex16_56.sce#S##112882
+16#Dynamics of a Rigid Body in Plane Motion#16.55#Dyna of rig body in PM#Ex16_55.sce#3137/CH16/EX16.55/Ex16_55.sce#S##112881
+16#Dynamics of a Rigid Body in Plane Motion#16.54#Dyna of rig body in PM#Ex16_54.sce#3137/CH16/EX16.54/Ex16_54.sce#S##112880
+16#Dynamics of a Rigid Body in Plane Motion#16.53#Dyna of rig body in PM#Ex16_53.sce#3137/CH16/EX16.53/Ex16_53.sce#S##112879
+16#Dynamics of a Rigid Body in Plane Motion#16.52#Dyna of rig body in PM#Ex16_52.sce#3137/CH16/EX16.52/Ex16_52.sce#S##112878
+16#Dynamics of a Rigid Body in Plane Motion#16.51#Dyna of rig body in PM#Ex16_51.sce#3137/CH16/EX16.51/Ex16_51.sce#S##112877
+16#Dynamics of a Rigid Body in Plane Motion#16.50#Dyna of rig body in PM#Ex16_50.sce#3137/CH16/EX16.50/Ex16_50.sce#S##112876
+16#Dynamics of a Rigid Body in Plane Motion#16.5#Dyna of rig body in PM#Ex16_5.sce#3137/CH16/EX16.5/Ex16_5.sce#S##112850
+16#Dynamics of a Rigid Body in Plane Motion#16.49#Dyna of rig body in PM#Ex16_49.sce#3137/CH16/EX16.49/Ex16_49.sce#S##112875
+16#Dynamics of a Rigid Body in Plane Motion#16.48#Dyna of rig body in PM#Ex16_48.sce#3137/CH16/EX16.48/Ex16_48.sce#S##112874
+16#Dynamics of a Rigid Body in Plane Motion#16.47#Dyna of rig body in PM#Ex16_47.sce#3137/CH16/EX16.47/Ex16_47.sce#S##112873
+16#Dynamics of a Rigid Body in Plane Motion#16.43#Dyna of rig body in PM#Ex16_43.sce#3137/CH16/EX16.43/Ex16_43.sce#S##112872
+16#Dynamics of a Rigid Body in Plane Motion#16.36#Dyna of rig body in PM#Ex16_36.sce#3137/CH16/EX16.36/Ex16_36.sce#S##112871
+16#Dynamics of a Rigid Body in Plane Motion#16.34#Dyna of rig body in PM#Ex16_34.sce#3137/CH16/EX16.34/Ex16_34.sce#S##112870
+16#Dynamics of a Rigid Body in Plane Motion#16.33#Dyna of rig body in PM#Ex16_33.sce#3137/CH16/EX16.33/Ex16_33.sce#S##112869
+16#Dynamics of a Rigid Body in Plane Motion#16.32#Dyna of rig body in PM#Ex16_32.sce#3137/CH16/EX16.32/Ex16_32.sce#S##112868
+16#Dynamics of a Rigid Body in Plane Motion#16.31#Dyna of rig body in PM#Ex16_31.sce#3137/CH16/EX16.31/Ex16_31.sce#S##112867
+16#Dynamics of a Rigid Body in Plane Motion#16.30#Dyna of rig body in PM#Ex16_30.sce#3137/CH16/EX16.30/Ex16_30.sce#S##112866
+16#Dynamics of a Rigid Body in Plane Motion#16.3#Dyna of rig body in PM#Ex16_3.sce#3137/CH16/EX16.3/Ex16_3.sce#S##112849
+16#Dynamics of a Rigid Body in Plane Motion#16.29#Dyna of rig body in PM#Ex16_29.sce#3137/CH16/EX16.29/Ex16_29.sce#S##112865
+16#Dynamics of a Rigid Body in Plane Motion#16.28#Dyna of rig body in PM#Ex16_28.sce#3137/CH16/EX16.28/Ex16_28.sce#S##112864
+16#Dynamics of a Rigid Body in Plane Motion#16.27#Dyna of rig body in PM#Ex16_27.sce#3137/CH16/EX16.27/Ex16_27.sce#S##112863
+16#Dynamics of a Rigid Body in Plane Motion#16.26#Dyna of rig body in PM#Ex16_26.sce#3137/CH16/EX16.26/Ex16_26.sce#S##112862
+16#Dynamics of a Rigid Body in Plane Motion#16.25#Dyna of rig body in PM#Ex16_25.sce#3137/CH16/EX16.25/Ex16_25.sce#S##112861
+16#Dynamics of a Rigid Body in Plane Motion#16.24#Dyna of rig body in PM#Ex16_24.sce#3137/CH16/EX16.24/Ex16_24.sce#S##114849
+16#Dynamics of a Rigid Body in Plane Motion#16.21#Dyna of rig body in PM#Ex16_21.sce#3137/CH16/EX16.21/Ex16_21.sce#S##112860
+16#Dynamics of a Rigid Body in Plane Motion#16.2#Dyna of rig body in PM#Ex16_2.sce#3137/CH16/EX16.2/Ex16_2.sce#S##112848
+16#Dynamics of a Rigid Body in Plane Motion#16.18#Dyna of rig body in PM#Ex16_18.sce#3137/CH16/EX16.18/Ex16_18.sce#S##112859
+16#Dynamics of a Rigid Body in Plane Motion#16.16#Dyna of rig body in PM#Ex16_16.sce#3137/CH16/EX16.16/Ex16_16.sce#S##112858
+16#Dynamics of a Rigid Body in Plane Motion#16.14#Dyna of rig body in PM#Ex16_14.sce#3137/CH16/EX16.14/Ex16_14.sce#S##112857
+16#Dynamics of a Rigid Body in Plane Motion#16.12#Dyna of rig body in PM#Ex16_12.sce#3137/CH16/EX16.12/Ex16_12.sce#S##112856
+16#Dynamics of a Rigid Body in Plane Motion#16.11#Dyna of rig body in PM#Ex16_11.sce#3137/CH16/EX16.11/Ex16_11.sce#S##112855
+16#Dynamics of a Rigid Body in Plane Motion#16.10#Dyna of rig body in PM#Ex16_10.sce#3137/CH16/EX16.10/Ex16_10.sce#S##112854
+15#Moment of Inertia#15.37#MI#Ex15_37.sce#3137/CH15/EX15.37/Ex15_37.sce#S##112847
+15#Moment of Inertia#15.36#MI#Ex15_36.sce#3137/CH15/EX15.36/Ex15_36.sce#S##112846
+15#Moment of Inertia#15.30#MI#Ex15_30.sce#3137/CH15/EX15.30/Ex15_30.sce#S##112845
+15#Moment of Inertia#15.25#MI#Ex15_25.sce#3137/CH15/EX15.25/Ex15_25.sce#S##112844
+15#Moment of Inertia#15.24#MI#Ex15_24.sce#3137/CH15/EX15.24/Ex15_24.sce#S##112843
+15#Moment of Inertia#15.20#MI#Ex15_20.sce#3137/CH15/EX15.20/Ex15_20.sce#S##112842
+15#Moment of Inertia#15.15#MI#Ex15_15.sce#3137/CH15/EX15.15/Ex15_15.sce#S##112841
+15#Moment of Inertia#15.14#MI#Ex15_14.sce#3137/CH15/EX15.14/Ex15_14.sce#S##112840
+15#Moment of Inertia#15.12#MI#Ex15_12.sce#3137/CH15/EX15.12/Ex15_12.sce#S##112839
+15#Moment of Inertia#15.11#MI#Ex15_11.sce#3137/CH15/EX15.11/Ex15_11.sce#S##112838
+14#Kinematics of a Rigid Body in Plane Motion#14.9#Kin of rig body in PM#Ex14_9.sce#3137/CH14/EX14.9/Ex14_9.sce#S##112825
+14#Kinematics of a Rigid Body in Plane Motion#14.4#Kin of rig body in PM#Ex14_4.sce#3137/CH14/EX14.4/Ex14_4.sce#S##112824
+14#Kinematics of a Rigid Body in Plane Motion#14.3#Kin of rig body in PM#Ex14_3.sce#3137/CH14/EX14.3/Ex14_3.sce#S##112823
+14#Kinematics of a Rigid Body in Plane Motion#14.26#Kin of rig body in PM#Ex14_26.sce#3137/CH14/EX14.26/Ex14_26.sce#S##112837
+14#Kinematics of a Rigid Body in Plane Motion#14.24#Kin of rig body in PM#Ex14_24.sce#3137/CH14/EX14.24/Ex14_24.sce#S##112836
+14#Kinematics of a Rigid Body in Plane Motion#14.23#Kin of rig body in PM#Ex14_23.sce#3137/CH14/EX14.23/Ex14_23.sce#S##112835
+14#Kinematics of a Rigid Body in Plane Motion#14.22#Kin of rig body in PM#Ex14_22.sce#3137/CH14/EX14.22/Ex14_22.sce#S##112834
+14#Kinematics of a Rigid Body in Plane Motion#14.21#Kin of rig body in PM#Ex14_21.sce#3137/CH14/EX14.21/Ex14_21.sce#S##112833
+14#Kinematics of a Rigid Body in Plane Motion#14.20#Kin of rig body in PM#Ex14_20.sce#3137/CH14/EX14.20/Ex14_20.sce#S##112832
+14#Kinematics of a Rigid Body in Plane Motion#14.2#Kin of rig body in PM#Ex14_2.sce#3137/CH14/EX14.2/Ex14_2.sce#S##112822
+14#Kinematics of a Rigid Body in Plane Motion#14.19#Kin of rig body in PM#Ex14_19.sce#3137/CH14/EX14.19/Ex14_19.sce#S##112831
+14#Kinematics of a Rigid Body in Plane Motion#14.18#Kin of rig body in PM#Ex14_18.sce#3137/CH14/EX14.18/Ex14_18.sce#S##112830
+14#Kinematics of a Rigid Body in Plane Motion#14.15#Kin of rig body in PM#Ex14_15.sce#3137/CH14/EX14.15/Ex14_15.sce#S##112829
+14#Kinematics of a Rigid Body in Plane Motion#14.14#Kin of rig body in PM#Ex14_14.sce#3137/CH14/EX14.14/Ex14_14.sce#S##112828
+14#Kinematics of a Rigid Body in Plane Motion#14.13#Kin of rig body in PM#Ex14_13.sce#3137/CH14/EX14.13/Ex14_13.sce#S##112827
+14#Kinematics of a Rigid Body in Plane Motion#14.10#Kin of rig body in PM#Ex14_10.sce#3137/CH14/EX14.10/Ex14_10.sce#S##112826
+13#Dynamics of a Particle#13.8#Dyna of a Part#Ex13_8.sce#3137/CH13/EX13.8/Ex13_8.sce#S##112808
+13#Dynamics of a Particle#13.7#Dyna of a Part#Ex13_7.sce#3137/CH13/EX13.7/Ex13_7.sce#S##112807
+13#Dynamics of a Particle#13.4#Dyna of a Part#Ex13_4.sce#3137/CH13/EX13.4/Ex13_4.sce#S##112806
+13#Dynamics of a Particle#13.31#Dyna of a Part#Ex13_31.sce#3137/CH13/EX13.31/Ex13_31.sce#S##112821
+13#Dynamics of a Particle#13.30#Dyna of a Part#Ex13_30.sce#3137/CH13/EX13.30/Ex13_30.sce#S##112820
+13#Dynamics of a Particle#13.3#Dyna of a Part#Ex13_3.sce#3137/CH13/EX13.3/Ex13_3.sce#S##112805
+13#Dynamics of a Particle#13.29#Dyna of a Part#Ex13_29.sce#3137/CH13/EX13.29/Ex13_29.sce#S##112819
+13#Dynamics of a Particle#13.28#Dyna of a Part#Ex13_28.sce#3137/CH13/EX13.28/Ex13_28.sce#S##112818
+13#Dynamics of a Particle#13.20#Dyna of a Part#Ex13_20.sce#3137/CH13/EX13.20/Ex13_20.sce#S##112817
+13#Dynamics of a Particle#13.2#Dyna of a Part#Ex13_2.sce#3137/CH13/EX13.2/Ex13_2.sce#S##112804
+13#Dynamics of a Particle#13.19#Dyna of a Part#Ex13_19.sce#3137/CH13/EX13.19/Ex13_19.sce#S##112816
+13#Dynamics of a Particle#13.16#Dyna of a Part#Ex13_16.sce#3137/CH13/EX13.16/Ex13_16.sce#S##112815
+13#Dynamics of a Particle#13.15#Dyna of a Part#Ex13_15.sce#3137/CH13/EX13.15/Ex13_15.sce#S##112814
+13#Dynamics of a Particle#13.14#Dyna of a Part#Ex13_14.sce#3137/CH13/EX13.14/Ex13_14.sce#S##112813
+13#Dynamics of a Particle#13.13#Dyna of a Part#Ex13_13.sce#3137/CH13/EX13.13/Ex13_13.sce#S##112812
+13#Dynamics of a Particle#13.12#Dyna of a Part#Ex13_12.sce#3137/CH13/EX13.12/Ex13_12.sce#S##112811
+13#Dynamics of a Particle#13.11#Dyna of a Part#Ex13_11.sce#3137/CH13/EX13.11/Ex13_11.sce#S##112810
+13#Dynamics of a Particle#13.10#Dyna of a Part#Ex13_10.sce#3137/CH13/EX13.10/Ex13_10.sce#S##112809
+13#Dynamics of a Particle#13.1#Dyna of a Part#Ex13_1.sce#3137/CH13/EX13.1/Ex13_1.sce#S##112803
+12#Kinematics of a Particle#12.9#Kin of a Part#Ex12_9.sce#3137/CH12/EX12.9/Ex12_9.sce#S##112780
+12#Kinematics of a Particle#12.8#Kin of a Part#Ex12_8.sce#3137/CH12/EX12.8/Ex12_8.sce#S##112779
+12#Kinematics of a Particle#12.7#Kin of a Part#Ex12_7.sce#3137/CH12/EX12.7/Ex12_7.sce#S##112778
+12#Kinematics of a Particle#12.6#Kin of a Part#Ex12_6.sce#3137/CH12/EX12.6/Ex12_6.sce#S##112777
+12#Kinematics of a Particle#12.5#Kin of a Part#Ex12_5.sce#3137/CH12/EX12.5/Ex12_5.sce#S##112776
+12#Kinematics of a Particle#12.41#Kin of a Part#Ex12_41.sce#3137/CH12/EX12.41/Ex12_41.sce#S##112802
+12#Kinematics of a Particle#12.40#Kin of a Part#Ex12_40.sce#3137/CH12/EX12.40/Ex12_40.sce#S##112801
+12#Kinematics of a Particle#12.4#Kin of a Part#Ex12_4.sce#3137/CH12/EX12.4/Ex12_4.sce#S##112775
+12#Kinematics of a Particle#12.39#Kin of a Part#Ex12_39.sce#3137/CH12/EX12.39/Ex12_39.sce#S##112800
+12#Kinematics of a Particle#12.38#Kin of a Part#Ex12_38.sce#3137/CH12/EX12.38/Ex12_38.sce#S##112799
+12#Kinematics of a Particle#12.37#Kin of a Part#Ex12_37.sce#3137/CH12/EX12.37/Ex12_37.sce#S##112798
+12#Kinematics of a Particle#12.36#Kin of a Part#Ex12_36.sce#3137/CH12/EX12.36/Ex12_36.sce#S##112797
+12#Kinematics of a Particle#12.35#Kin of a Part#Ex12_35.sce#3137/CH12/EX12.35/Ex12_35.sce#S##112796
+12#Kinematics of a Particle#12.34#Kin of a Part#Ex12_34.sce#3137/CH12/EX12.34/Ex12_34.sce#S##112795
+12#Kinematics of a Particle#12.32#Kin of a Part#Ex12_32.sce#3137/CH12/EX12.32/Ex12_32.sce#S##112794
+12#Kinematics of a Particle#12.31#Kin of a Part#Ex12_31.sce#3137/CH12/EX12.31/Ex12_31.sce#S##112793
+12#Kinematics of a Particle#12.30#Kin of a Part#Ex12_30.sce#3137/CH12/EX12.30/Ex12_30.sce#S##112964
+12#Kinematics of a Particle#12.3#Kin of a Part#Ex12_3.sce#3137/CH12/EX12.3/Ex12_3.sce#S##112774
+12#Kinematics of a Particle#12.29#Kin of a Part#Ex12_29.sce#3137/CH12/EX12.29/Ex12_29.sce#S##112791
+12#Kinematics of a Particle#12.28#Kin of a Part#Ex12_28.sce#3137/CH12/EX12.28/Ex12_28.sce#S##112790
+12#Kinematics of a Particle#12.27#Kin of a Part#Ex12_27.sce#3137/CH12/EX12.27/Ex12_27.sce#S##112789
+12#Kinematics of a Particle#12.26#Kin of a Part#Ex12_26.sce#3137/CH12/EX12.26/Ex12_26.sce#S##112788
+12#Kinematics of a Particle#12.25#Kin of a Part#Ex12_25.sce#3137/CH12/EX12.25/Ex12_25.sce#S##112787
+12#Kinematics of a Particle#12.21#Kin of a Part#Ex12_21.sce#3137/CH12/EX12.21/Ex12_21.sce#S##112786
+12#Kinematics of a Particle#12.20#Kin of a Part#Ex12_20.sce#3137/CH12/EX12.20/Ex12_20.sce#S##115934
+12#Kinematics of a Particle#12.2#Kin of a Part#Ex12_2.sce#3137/CH12/EX12.2/Ex12_2.sce#S##112773
+12#Kinematics of a Particle#12.18#Kin of a Part#Ex12_18.sce#3137/CH12/EX12.18/Ex12_18.sce#S##112785
+12#Kinematics of a Particle#12.17#Kin of a Part#Ex12_17.sce#3137/CH12/EX12.17/Ex12_17.sce#S##112784
+12#Kinematics of a Particle#12.16#Kin of a Part#Ex12_16.sce#3137/CH12/EX12.16/Ex12_16.sce#S##112783
+12#Kinematics of a Particle#12.14#Kin of a Part#Ex12_14.sce#3137/CH12/EX12.14/Ex12_14.sce#S##114851
+12#Kinematics of a Particle#12.12#Kin of a Part#Ex12_12.sce#3137/CH12/EX12.12/Ex12_12.sce#S##112782
+12#Kinematics of a Particle#12.10#Kin of a Part#Ex12_10.sce#3137/CH12/EX12.10/Ex12_10.sce#S##112781
+12#Kinematics of a Particle#12.1#Kin of a Part#Ex12_1.sce#3137/CH12/EX12.1/Ex12_1.sce#S##112772
+11#Virtual Work#11.7#V W#Ex11_7.sce#3137/CH11/EX11.7/Ex11_7.sce#S##112771
+11#Virtual Work#11.6#V W#Ex11_6.sce#3137/CH11/EX11.6/Ex11_6.sce#S##112770
+11#Virtual Work#11.5#V W#Ex11_5.sce#3137/CH11/EX11.5/Ex11_5.sce#S##114853
+11#Virtual Work#11.10#V W#Ex11_10.sce#3137/CH11/EX11.10/Ex11_10.sce#S##114852
+10#First Moment and Centroid#10.6#1st Moment and CG#Ex10_6.sce#3137/CH10/EX10.6/Ex10_6.sce#S##112764
+10#First Moment and Centroid#10.5#1st Moment and CG#Ex10_5.sce#3137/CH10/EX10.5/Ex10_5.sce#S##112762
+10#First Moment and Centroid#10.28#1st Moment and CG#Ex10_28.sce#3137/CH10/EX10.28/Ex10_28.sce#S##112769
+10#First Moment and Centroid#10.27#1st Moment and CG#Ex10_27.sce#3137/CH10/EX10.27/Ex10_27.sce#S##112768
+10#First Moment and Centroid#10.26#1st Moment and CG#Ex10_26.sce#3137/CH10/EX10.26/Ex10_26.sce#S##112767
+10#First Moment and Centroid#10.17#1st Moment and CG#Ex10_17.sce#3137/CH10/EX10.17/Ex10_17.sce#S##112766
+10#First Moment and Centroid#10.16#1st Moment and CG#Ex10_16.sce#3137/CH10/EX10.16/Ex10_16.sce#S##112765
+10#First Moment and Centroid#10.11#1st Moment and CG#Ex10_11.sce#3137/CH10/EX10.11/Ex10_11.sce#S##112763
+9#Friction#9.9#Friction#Ex9_9.sce#3137/CH9/EX9.9/Ex9_9.sce#S##112752
+9#Friction#9.8#Friction#Ex9_8.sce#3137/CH9/EX9.8/Ex9_8.sce#S##112751
+9#Friction#9.7#Friction#Ex9_7.sce#3137/CH9/EX9.7/Ex9_7.sce#S##112750
+9#Friction#9.6#Friction#Ex9_6.sce#3137/CH9/EX9.6/Ex9_6.sce#S##112749
+9#Friction#9.5#Friction#Ex9_5.sce#3137/CH9/EX9.5/Ex9_5.sce#S##112748
+9#Friction#9.4#Friction#Ex9_4.sce#3137/CH9/EX9.4/Ex9_4.sce#S##114777
+9#Friction#9.3#Friction#Ex9_3.sce#3137/CH9/EX9.3/Ex9_3.sce#S##112746
+9#Friction#9.21#Friction#Ex9_21.sce#3137/CH9/EX9.21/Ex9_21.sce#S##112761
+9#Friction#9.20#Friction#Ex9_20.sce#3137/CH9/EX9.20/Ex9_20.sce#S##112760
+9#Friction#9.19#Friction#Ex9_19.sce#3137/CH9/EX9.19/Ex9_19.sce#S##112759
+9#Friction#9.18#Friction#Ex9_18.sce#3137/CH9/EX9.18/Ex9_18.sce#S##112758
+9#Friction#9.17#Friction#Ex9_17.sce#3137/CH9/EX9.17/Ex9_17.sce#S##112757
+9#Friction#9.16#Friction#Ex9_16.sce#3137/CH9/EX9.16/Ex9_16.sce#S##112756
+9#Friction#9.15#Friction#Ex9_15.sce#3137/CH9/EX9.15/Ex9_15.sce#S##112755
+9#Friction#9.13#Friction#Ex9_13.sce#3137/CH9/EX9.13/Ex9_13.sce#S##112754
+9#Friction#9.12#Friction#Ex9_12.sce#3137/CH9/EX9.12/Ex9_12.sce#S##115933
+9#Friction#9.11#Friction#Ex9_11.sce#3137/CH9/EX9.11/Ex9_11.sce#S##112960
+9#Friction#9.10#Friction#Ex9_10.sce#3137/CH9/EX9.10/Ex9_10.sce#S##112753
+9#Friction#9.1#Friction#Ex9_1.sce#3137/CH9/EX9.1/Ex9_1.sce#S##112745
+8#Forces In Beams#8.5#Beams#Ex8_5.sce#3137/CH8/EX8.5/Ex8_5.sce#S##112744
+8#Forces In Beams#8.3#Beams#Ex8_3.sce#3137/CH8/EX8.3/Ex8_3.sce#S##112743
+8#Forces In Beams#8.2#Beams#Ex8_2.sce#3137/CH8/EX8.2/Ex8_2.sce#S##112742
+8#Forces In Beams#8.1#Beams#Ex8_1.sce#3137/CH8/EX8.1/Ex8_1.sce#S##112741
+7#Trusses and Cables#7.9#Truss and Cable#Ex7_9.sce#3137/CH7/EX7.9/Ex7_9.sce#S##114854
+7#Trusses and Cables#7.8#Truss and Cable#Ex7_8.sce#3137/CH7/EX7.8/Ex7_8.sce#S##112735
+7#Trusses and Cables#7.7#Truss and Cable#Ex7_7.sce#3137/CH7/EX7.7/Ex7_7.sce#S##112734
+7#Trusses and Cables#7.6#Truss and Cable#Ex7_6.sce#3137/CH7/EX7.6/Ex7_6.sce#S##112733
+7#Trusses and Cables#7.5#Truss and Cable#Ex7_5.sce#3137/CH7/EX7.5/Ex7_5.sce#S##112732
+7#Trusses and Cables#7.4#Truss and Cable#Ex7_4.sce#3137/CH7/EX7.4/Ex7_4.sce#S##112731
+7#Trusses and Cables#7.3#Truss and Cable#Ex7_3.sce#3137/CH7/EX7.3/Ex7_3.sce#S##112730
+7#Trusses and Cables#7.2#Truss and Cable#Ex7_2.sce#3137/CH7/EX7.2/Ex7_2.sce#S##112729
+7#Trusses and Cables#7.13#Truss and Cable#Ex7_13.sce#3137/CH7/EX7.13/Ex7_13.sce#S##112740
+7#Trusses and Cables#7.12#Truss and Cable#Ex7_12.sce#3137/CH7/EX7.12/Ex7_12.sce#S##112739
+7#Trusses and Cables#7.11#Truss and Cable#Ex7_11.sce#3137/CH7/EX7.11/Ex7_11.sce#S##112738
+7#Trusses and Cables#7.10#Truss and Cable#Ex7_10.sce#3137/CH7/EX7.10/Ex7_10.sce#S##112737
+7#Trusses and Cables#7.1#Truss and Cable#Ex7_1.sce#3137/CH7/EX7.1/Ex7_1.sce#S##112728
+6#Equilibrium of Non Coplanar Force System#6.9#Equilibrium of NCFS#Ex6_9.sce#3137/CH6/EX6.9/Ex6_9.sce#S##112722
+6#Equilibrium of Non Coplanar Force System#6.8#Equilibrium of NCFS#Ex6_8.sce#3137/CH6/EX6.8/Ex6_8.sce#S##112721
+6#Equilibrium of Non Coplanar Force System#6.7#Equilibrium of NCFS#Ex6_7.sce#3137/CH6/EX6.7/Ex6_7.sce#S##112720
+6#Equilibrium of Non Coplanar Force System#6.6#Equilibrium of NCFS#Ex6_6.sce#3137/CH6/EX6.6/Ex6_6.sce#S##112719
+6#Equilibrium of Non Coplanar Force System#6.5#Equilibrium of NCFS#Ex6_5.sce#3137/CH6/EX6.5/Ex6_5.sce#S##112718
+6#Equilibrium of Non Coplanar Force System#6.4#Equilibrium of NCFS#Ex6_4.sce#3137/CH6/EX6.4/Ex6_4.sce#S##112717
+6#Equilibrium of Non Coplanar Force System#6.3#Equilibrium of NCFS#Ex6_3.sce#3137/CH6/EX6.3/Ex6_3.sce#S##114776
+6#Equilibrium of Non Coplanar Force System#6.2#Equilibrium of NCFS#Ex6_2.sce#3137/CH6/EX6.2/Ex6_2.sce#S##112715
+6#Equilibrium of Non Coplanar Force System#6.15#Equilibrium of NCFS#Ex6_15.sce#3137/CH6/EX6.15/Ex6_15.sce#S##112727
+6#Equilibrium of Non Coplanar Force System#6.14#Equilibrium of NCFS#Ex6_14.sce#3137/CH6/EX6.14/Ex6_14.sce#S##112726
+6#Equilibrium of Non Coplanar Force System#6.13#Equilibrium of NCFS#Ex6_13.sce#3137/CH6/EX6.13/Ex6_13.sce#S##112725
+6#Equilibrium of Non Coplanar Force System#6.12#Equilibrium of NCFS#Ex6_12.sce#3137/CH6/EX6.12/Ex6_12.sce#S##112724
+6#Equilibrium of Non Coplanar Force System#6.11#Equilibrium of NCFS#Ex6_11.sce#3137/CH6/EX6.11/Ex6_11.sce#S##112723
+6#Equilibrium of Non Coplanar Force System#6.1#Equilibrium of NCFS#Ex6_1.sce#3137/CH6/EX6.1/Ex6_1.sce#S##112714
+5#Equilibrium of Coplanar Force System#5.9#Equilibrium of CFS#Ex5_9.sce#3137/CH5/EX5.9/Ex5_9.sce#S##112704
+5#Equilibrium of Coplanar Force System#5.8#Equilibrium of CFS#Ex5_8.sce#3137/CH5/EX5.8/Ex5_8.sce#S##112703
+5#Equilibrium of Coplanar Force System#5.6#Equilibrium of CFS#Ex5_6.sce#3137/CH5/EX5.6/Ex5_6.sce#S##112702
+5#Equilibrium of Coplanar Force System#5.5#Equilibrium of CFS#Ex5_5.sce#3137/CH5/EX5.5/Ex5_5.sce#S##112701
+5#Equilibrium of Coplanar Force System#5.4#Equilibrium of CFS#Ex5_4.sce#3137/CH5/EX5.4/Ex5_4.sce#S##112700
+5#Equilibrium of Coplanar Force System#5.3#Equilibrium of CFS#Ex5_3.sce#3137/CH5/EX5.3/Ex5_3.sce#S##112699
+5#Equilibrium of Coplanar Force System#5.2#Equilibrium of CFS#Ex5_2.sce#3137/CH5/EX5.2/Ex5_2.sce#S##112698
+5#Equilibrium of Coplanar Force System#5.19#Equilibrium of CFS#Ex5_19.sce#3137/CH5/EX5.19/Ex5_19.sce#S##112713
+5#Equilibrium of Coplanar Force System#5.18#Equilibrium of CFS#Ex5_18.sce#3137/CH5/EX5.18/Ex5_18.sce#S##112712
+5#Equilibrium of Coplanar Force System#5.17#Equilibrium of CFS#Ex5_17.sce#3137/CH5/EX5.17/Ex5_17.sce#S##112711
+5#Equilibrium of Coplanar Force System#5.16#Equilibrium of CFS#Ex5_16.sce#3137/CH5/EX5.16/Ex5_16.sce#S##112710
+5#Equilibrium of Coplanar Force System#5.15#Equilibrium of CFS#Ex5_15.sce#3137/CH5/EX5.15/Ex5_15.sce#S##112709
+5#Equilibrium of Coplanar Force System#5.13#Equilibrium of CFS#Ex5_13.sce#3137/CH5/EX5.13/Ex5_13.sce#S##112708
+5#Equilibrium of Coplanar Force System#5.12#Equilibrium of CFS#Ex5_12.sce#3137/CH5/EX5.12/Ex5_12.sce#S##112707
+5#Equilibrium of Coplanar Force System#5.11#Equilibrium of CFS#Ex5_11.sce#3137/CH5/EX5.11/Ex5_11.sce#S##112706
+5#Equilibrium of Coplanar Force System#5.10#Equilibrium of CFS#Ex5_10.sce#3137/CH5/EX5.10/Ex5_10.sce#S##112705
+5#Equilibrium of Coplanar Force System#5.1#Equilibrium of CFS#Ex5_1.sce#3137/CH5/EX5.1/Ex5_1.sce#S##112697
+4#Resolution of Non Coplanar Force System#4.5#Resolution Non Coplanar#Ex4_5.sce#3137/CH4/EX4.5/Ex4_5.sce#S##112696
+4#Resolution of Non Coplanar Force System#4.4#Resolution Non Coplanar#Ex4_4.sce#3137/CH4/EX4.4/Ex4_4.sce#S##112695
+4#Resolution of Non Coplanar Force System#4.3#Resolution Non Coplanar#Ex4_3.sce#3137/CH4/EX4.3/Ex4_3.sce#S##112694
+4#Resolution of Non Coplanar Force System#4.2#Resolution Non Coplanar#Ex4_2.sce#3137/CH4/EX4.2/Ex4_2.sce#S##112693
+4#Resolution of Non Coplanar Force System#4.1#Resolution Non Coplanar#Ex4_1.sce#3137/CH4/EX4.1/Ex4_1.sce#S##112692
+3#Resolution of Coplanar Force System#3.9#Resolution#Ex3_9.sce#3137/CH3/EX3.9/Ex3_9.sce#S##112686
+3#Resolution of Coplanar Force System#3.8#Resolution#Ex3_8.sce#3137/CH3/EX3.8/Ex3_8.sce#S##112685
+3#Resolution of Coplanar Force System#3.7#Resolution#Ex3_7.sce#3137/CH3/EX3.7/Ex3_7.sce#S##112684
+3#Resolution of Coplanar Force System#3.6#Resolution#Ex3_6.sce#3137/CH3/EX3.6/Ex3_6.sce#S##112683
+3#Resolution of Coplanar Force System#3.5#Resolution#Ex3_5.sce#3137/CH3/EX3.5/Ex3_5.sce#S##112682
+3#Resolution of Coplanar Force System#3.4#Resolution#Ex3_4.sce#3137/CH3/EX3.4/Ex3_4.sce#S##112681
+3#Resolution of Coplanar Force System#3.3#Resolution#Ex3_3.sce#3137/CH3/EX3.3/Ex3_3.sce#S##112680
+3#Resolution of Coplanar Force System#3.2#Resolution#Ex3_2.sce#3137/CH3/EX3.2/Ex3_2.sce#S##112679
+3#Resolution of Coplanar Force System#3.14#Resolution#Ex3_14.sci#3137/CH3/EX3.14/Ex3_14.sci#S##112691
+3#Resolution of Coplanar Force System#3.13#Resolution#Ex3_13.sce#3137/CH3/EX3.13/Ex3_13.sce#S##114775
+3#Resolution of Coplanar Force System#3.12#Resolution#Ex3_12.sce#3137/CH3/EX3.12/Ex3_12.sce#S##112689
+3#Resolution of Coplanar Force System#3.11#Resolution#Ex3_11.sce#3137/CH3/EX3.11/Ex3_11.sce#S##112688
+3#Resolution of Coplanar Force System#3.10#Resolution#Ex3_10.sce#3137/CH3/EX3.10/Ex3_10.sce#S##112687
+3#Resolution of Coplanar Force System#3.1#Resolution#Ex3_1.sce#3137/CH3/EX3.1/Ex3_1.sce#S##112678
+2#Operations With Forces#2.8#OPF#Ex2_8.sce#3137/CH2/EX2.8/Ex2_8.sce#S##112673
+2#Operations With Forces#2.6#OPF#Ex2_6.sce#3137/CH2/EX2.6/Ex2_6.sce#S##112672
+2#Operations With Forces#2.5#OPF#Ex2_5.sce#3137/CH2/EX2.5/Ex2_5.sce#S##112671
+2#Operations With Forces#2.4#OPF#Ex2_4.sce#3137/CH2/EX2.4/Ex2_4.sce#S##112670
+2#Operations With Forces#2.3#OPF#Ex2_3.sce#3137/CH2/EX2.3/Ex2_3.sce#S##112669
+2#Operations With Forces#2.2#OPF#Ex2_2.sce#3137/CH2/EX2.2/Ex2_2.sce#S##112668
+2#Operations With Forces#2.14#OPF#Ex2_14.sce#3137/CH2/EX2.14/Ex2_14.sce#S##112677
+2#Operations With Forces#2.13#OPF#Ex2_13.sce#3137/CH2/EX2.13/Ex2_13.sce#S##112676
+2#Operations With Forces#2.12#OPF#Ex2_12.sce#3137/CH2/EX2.12/Ex2_12.sce#S##112675
+2#Operations With Forces#2.11#OPF#Ex2_11.sce#3137/CH2/EX2.11/Ex2_11.sce#S##112674
+2#Operations With Forces#2.1#OPF#Ex2_1.sce#3137/CH2/EX2.1/Ex2_1.sce#S##112667
+1#Vectors#1.9#Vectors#Ex1_9.sce#3137/CH1/EX1.9/Ex1_9.sce#S##112657
+1#Vectors#1.8#Vectors#Ex1_8.sce#3137/CH1/EX1.8/Ex1_8.sce#S##112656
+1#Vectors#1.7#Vectors#Ex1_7.sce#3137/CH1/EX1.7/Ex1_7.sce#S##112655
+1#Vectors#1.6#Vectors#Ex1_6.sce#3137/CH1/EX1.6/Ex1_6.sce#S##112654
+1#Vectors#1.5#Vectors#Ex1_5.sce#3137/CH1/EX1.5/Ex1_5.sce#S##112653
+1#Vectors#1.4#Vectors#Ex1_4.sce#3137/CH1/EX1.4/Ex1_4.sce#S##112652
+1#Vectors#1.3#Vectors#Ex1_3.sce#3137/CH1/EX1.3/Ex1_3.sce#S##112651
+1#Vectors#1.2#Vectors#Ex1_2.sce#3137/CH1/EX1.2/Ex1_2.sce#S##112650
+1#Vectors#1.19#Vectors#Ex1_19.sce#3137/CH1/EX1.19/Ex1_19.sce#S##112666
+1#Vectors#1.17#Vectors#Ex1_17.sce#3137/CH1/EX1.17/Ex1_17.sce#S##112664
+1#Vectors#1.16#Vectors#Ex1_16.sce#3137/CH1/EX1.16/Ex1_16.sce#S##112663
+1#Vectors#1.15#Vectors#Ex1_15.sce#3137/CH1/EX1.15/Ex1_15.sce#S##112662
+1#Vectors#1.14#Vectors#Ex1_14.sce#3137/CH1/EX1.14/Ex1_14.sce#S##112661
+1#Vectors#1.13#Vectors#Ex1_13.sce#3137/CH1/EX1.13/Ex1_13.sce#S##112660
+1#Vectors#1.11#Vectors#Ex1_11.sce#3137/CH1/EX1.11/Ex1_11.sce#S##112659
+1#Vectors#1.10#Vectors#Ex1_10.sce#3137/CH1/EX1.10/Ex1_10.sce#S##112658
+1#Vectors#1.1#Vectors#Ex1_1.sce#3137/CH1/EX1.1/Ex1_1.sce#S##112649

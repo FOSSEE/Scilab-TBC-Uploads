@@ -1,0 +1,4 @@
+ The dimension of the horn mouth, a=6.7*y, where y is wavelength in m
+ The dimension of the horn mouth, b=5.1*y, where y is wavelength in m
+ The directive gain over the y/2 antenna = 153.765000
+ The directive gain over the y/2 antenna in dB = 21.868575 dB

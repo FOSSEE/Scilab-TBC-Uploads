@@ -1,0 +1,7 @@
+ # Problem 13 # 
+
+ Standard formula used 
+ m = m_o/ sqrt ( 1- (v/c)^2) 
+ and 
+ l = l_o* sqrt ( 1- (v/c)^2) 
+ Relativistic density of rod in moving frame is 1.015789e-01.

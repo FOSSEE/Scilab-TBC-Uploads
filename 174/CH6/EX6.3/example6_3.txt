@@ -1,0 +1,4 @@
+ The integrator time constant = 0.010 s
+Therefore the integrator output = 0.005 s/V 
+ Therefore to integrate 10V   
+The time required = 0.0500 s 

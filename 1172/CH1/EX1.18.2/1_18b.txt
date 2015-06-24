@@ -1,0 +1,6 @@
+ # Problem 18b # 
+ 
+ Standard formula used 
+   2t = n*lambda 
+ Thickness of air film is 2.950000e-06 m.
+ 

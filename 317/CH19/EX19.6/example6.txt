@@ -1,0 +1,2 @@
+closed-loop input impedance is 0.05 ohms
+closed-loop output impedance is 0.00075 ohms

@@ -1,0 +1,18 @@
+ example 5.16   
+ 
+ Two alternators in parallel connection   
+load current=  1093.466419A
+
+Active component of current=  874.773135A
+Reactive component of current=  656.079851A
+Current supplied by each alternator=546.733209A
+Active component of current supplied by each alternator=  437.386568A
+Reactive component of current supplied by each alternator=  328.039926A
+
+ 
+ Since steam supply is same,the active component remain the same    
+Reactive component of Il= 23A
+reactive component of I2=  632.906796A
+ I2=  769.336091A
+phi 2=  55.352588 degrees
+cos phi 2= 0.568525 

@@ -1,0 +1,2 @@
+**Sample Problem 14-1**
+The magnitude of net force is approximately equal to 4.125167e-006 N 

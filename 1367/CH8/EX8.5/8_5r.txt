@@ -1,0 +1,11 @@
+ ENDURANCE STRESS FROM Gerbers Parabolic Function (in MPa) =    
+ 
+    236.51577  
+ 
+ ENDURANCE STRESS FROM Goodman Straight Line Relation (in MPa) =    
+ 
+    371.71178  
+ 
+ ENDURANCE STRESS FROM Soderberg Straight Line Relation (in MPa) =    
+ 
+    557.78032  

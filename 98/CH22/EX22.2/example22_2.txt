@@ -1,0 +1,13 @@
+Voltage per phase = 3810 V 
+
+Minimum fault current which will operate the relay = 100 A 
+
+EMF induced in %x winding = 38.11*x V 
+
+Earth fault current which %x winding will cause = 5.08*x A 
+
+This current must be equal to 100A 
+
+Unprotected winding, x= 19.68 % 
+
+

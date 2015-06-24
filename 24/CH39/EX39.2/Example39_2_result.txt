@@ -1,0 +1,2 @@
+**Sample Problem 39-2**
+The time taken in ejecting electron is 4599s 

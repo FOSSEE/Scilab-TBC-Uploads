@@ -1,0 +1,11 @@
+Resistance per 100 m of distributor = 3.40*10^-4 ohm 
+
+Resistance of section AC = 0.034 ohm 
+Resistance of section CD = 0.051 ohm 
+Resistance of section DE = 0.051 ohm 
+Resistance of section EF = 0.034 ohm 
+Resistance of section FB = 0.034 ohm 
+
+Ia = 61.7 A 
+Minimum consumer voltage = Ve = 215.69 V 
+

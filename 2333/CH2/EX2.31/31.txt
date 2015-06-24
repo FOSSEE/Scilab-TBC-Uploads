@@ -1,0 +1,7 @@
+# PROBLEM 31 # 
+
+ Standard formula used 
+ Beta = lambda/(2*mu*theta)
+
+ Diameter of dark ring is 104.166667 cm 
+ Thickness of air column is 3.000000e-04 cm.

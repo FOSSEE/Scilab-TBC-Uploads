@@ -1,0 +1,16 @@
+ Electron velocity (in m/s) =   
+ 
+    17790000.  
+ 
+ Dc Transit Time (in sec)=   
+ 
+    2.248D-09  
+ 
+ Maximum input voltage (in volts) =   
+ 
+    41.922525  
+ 
+ Voltage gain (in dB) =   
+ 
+    23.277687  
+ 

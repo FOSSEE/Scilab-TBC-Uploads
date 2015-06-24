@@ -1,0 +1,7 @@
+  Pt  =
+ 
+    562.5  
+
+
+	 total power of modulated signal = 562.500000 W  
+ Execution done.   

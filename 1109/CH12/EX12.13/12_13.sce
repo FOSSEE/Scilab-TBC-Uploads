@@ -1,0 +1,10 @@
+clear;
+clc;
+Zg=10+(%i*20);V=50;
+Rg=real(Zg);Xg=imag(Zg);
+ampZg=sqrt((Rg*Rg)+(Xg*Xg));
+Rl=ampZg;
+I=V/(Zg+Rl);
+ampI=round(sqrt((real(I))^2+(imag(I))^2)*100)/100;
+P=ampI*ampI*round(Rl*10)/10;
+printf("Power delivered to the load = %f Watt",round(P*10)/10);

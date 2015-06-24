@@ -1,0 +1,13 @@
+clear;
+clc;
+Y1=1;Y2=1;Y3=2;V3=3;
+Z1=1/Y1;Z2=1/Y2;Z3=1/Y3;
+V1=1;I1=-1;
+z11=V1/I1;
+V2=1;I2=3;
+z22=V2/I2;
+z21=V2/I1;
+printf("z11 = %f ohms\n",z11);
+printf(" z22 = %f ohms\n",z22);
+printf(" z21 = %f ohms\n",z21);
+printf(" z11 = %f ohms\n",0);

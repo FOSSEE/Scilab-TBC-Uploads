@@ -1,0 +1,17 @@
+**Sample Problem 26-6a**
+The capacitance of the plates before the dielectric slab is inserted is equal to 8.207661pF
+
+**Sample Problem 26-6b**
+Free charge on the plates is equal to701.755040pC
+
+**Sample Problem 26-6c**
+The electric field is equal to 6895.161290V/m
+
+**Sample Problem 26-6d**
+The electric field in dielectric slab is equal to 2641.824249V/m
+
+**Sample Problem 26-6e**
+The new potential difference is equal to 52.323971V
+
+**Sample Problem 26-6f**
+The new capacitance is equal to 13.411731pF 

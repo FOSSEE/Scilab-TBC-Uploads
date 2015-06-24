@@ -1,0 +1,21 @@
+                       //EXAMPLE 5-17 PG NO-307-308
+Z1=60+%i*0;
+Z2=15.6-%i*9;
+Z3=10.42-%i*6;
+Z4=25.98-%i*15;
+Z5=11.92-%i*1.4;
+I=2.5*10^-3;
+Vab=((Z1*Z2)/(Z3+Z2));
+ZTH=(Z3*Z2)/(Z3+Z2);
+Vax=I*Z3*10^3;
+Vxy=Vab-Z4;
+Zxy=ZTH+Z3;
+IN=Z5/(Zxy*10^3);
+ZN=Zxy;
+disp('i) Voltage (Vab) is   =  '+string (Vab)+'V');
+disp('i) Impedance (ZTH) is   =  '+string (ZTH)+'K ohms ');
+disp('i) Voltage (Vax) is   =  '+string (Vax)+' ');
+disp('i) Voltage (Vxy) is   =  '+string (Vxy)+'V');
+disp('i) Impedance (Zxy) is   =  '+string (Zxy)+'K ohms ');
+disp('i) Current (IN) is   =  '+string (IN)+'A ');
+disp('i) Impedance (ZN) is   =  '+string (ZN)+'K ohms ');

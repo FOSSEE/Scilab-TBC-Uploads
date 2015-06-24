@@ -1,0 +1,3 @@
+Assuming infinite reverse resistance   
+(a)  The value of the multiplier resistor required, R_s = 1800 ohm
+(b)  The sensitivity of the voltmeter on ac range, S = 225 ohm/V 

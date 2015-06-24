@@ -1,0 +1,1 @@
+ Number  of atom per unit cell is 1. 

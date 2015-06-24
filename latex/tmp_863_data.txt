@@ -1,0 +1,243 @@
+15#Sampling Conversion Modulation and Multiplexing#15.4#Calculate the output voltage#Ex15_4.sce#863/CH15/EX15.4/Ex15_4.sce#S##34204
+15#Sampling Conversion Modulation and Multiplexing#15.4#Calculate the output voltage#Ex15_4.txt#863/CH15/EX15.4/Ex15_4.txt#R##34205
+15#Sampling Conversion Modulation and Multiplexing#15.4#Calculate the output voltage#Result15_4.txt#863/CH15/EX15.4/Result15_4.txt#R##34206
+15#Sampling Conversion Modulation and Multiplexing#15.3#Determine the error due to capacitance#Ex15_3.sce#863/CH15/EX15.3/Ex15_3.sce#S##34200
+15#Sampling Conversion Modulation and Multiplexing#15.3#Determine the error due to capacitance#Ex15_3.txt#863/CH15/EX15.3/Ex15_3.txt#R##34201
+15#Sampling Conversion Modulation and Multiplexing#15.3#Determine the error due to capacitance#Result15_3.txt#863/CH15/EX15.3/Result15_3.txt#R##34202
+15#Sampling Conversion Modulation and Multiplexing#15.2#Determine capacitance and minimum acquisition time#Ex15_2.sce#863/CH15/EX15.2/Ex15_2.sce#S##34196
+15#Sampling Conversion Modulation and Multiplexing#15.2#Determine capacitance and minimum acquisition time#Ex15_2.txt#863/CH15/EX15.2/Ex15_2.txt#R##34197
+15#Sampling Conversion Modulation and Multiplexing#15.2#Determine capacitance and minimum acquisition time#Result15_2.txt#863/CH15/EX15.2/Result15_2.txt#R##34198
+15#Sampling Conversion Modulation and Multiplexing#15.1#Determine the errors due to Rs and Rd#Ex15_1.sce#863/CH15/EX15.1/Ex15_1.sce#S##34191
+15#Sampling Conversion Modulation and Multiplexing#15.1#Determine the errors due to Rs and Rd#Ex15_1.txt#863/CH15/EX15.1/Ex15_1.txt#R##34192
+15#Sampling Conversion Modulation and Multiplexing#15.1#Determine the errors due to Rs and Rd#Result15_1.txt#863/CH15/EX15.1/Result15_1.txt#R##34193
+14#Digital Counting and Measurement#14.6#Determine required current#Ex14_6.sce#863/CH14/EX14.6/Ex14_6.sce#S##34188
+14#Digital Counting and Measurement#14.6#Determine required current#Ex14_6.txt#863/CH14/EX14.6/Ex14_6.txt#R##34189
+14#Digital Counting and Measurement#14.6#Determine required current#Result14_6.txt#863/CH14/EX14.6/Result14_6.txt#R##34190
+14#Digital Counting and Measurement#14.5#Determine meter indication when time base uses 6 decade counter and 4 decade counter#Ex14_5.sce#863/CH14/EX14.5/Ex14_5.sce#S##34185
+14#Digital Counting and Measurement#14.5#Determine meter indication when time base uses 6 decade counter and 4 decade counter#Ex14_5.txt#863/CH14/EX14.5/Ex14_5.txt#R##34186
+14#Digital Counting and Measurement#14.5#Determine meter indication when time base uses 6 decade counter and 4 decade counter#Result14_5.txt#863/CH14/EX14.5/Result14_5.txt#R##34187
+14#Digital Counting and Measurement#14.1#Determine Resistors Rc and Rb#Ex14_1.sce#863/CH14/EX14.1/Ex14_1.sce#S##34182
+14#Digital Counting and Measurement#14.1#Determine Resistors Rc and Rb#Ex14_1.txt#863/CH14/EX14.1/Ex14_1.txt#R##34183
+14#Digital Counting and Measurement#14.1#Determine Resistors Rc and Rb#Result14_1.txt#863/CH14/EX14.1/Result14_1.txt#R##34184
+13#Bistable Multivibrators Flip Flops#13.4#Determine the capacitance for flip flop design and triggering frequency#Ex13_4.sce#863/CH13/EX13.4/Ex13_4.sce#S##34179
+13#Bistable Multivibrators Flip Flops#13.4#Determine the capacitance for flip flop design and triggering frequency#Ex13_4.txt#863/CH13/EX13.4/Ex13_4.txt#R##34180
+13#Bistable Multivibrators Flip Flops#13.4#Determine the capacitance for flip flop design and triggering frequency#Result13_4.txt#863/CH13/EX13.4/Result13_4.txt#R##34181
+13#Bistable Multivibrators Flip Flops#13.1#Design a collector coupled bistable multivibrator#Ex13_1.sce#863/CH13/EX13.1/Ex13_1.sce#S##34176
+13#Bistable Multivibrators Flip Flops#13.1#Design a collector coupled bistable multivibrator#Ex13_1.txt#863/CH13/EX13.1/Ex13_1.txt#R##34177
+13#Bistable Multivibrators Flip Flops#13.1#Design a collector coupled bistable multivibrator#Result13_1.txt#863/CH13/EX13.1/Result13_1.txt#R##34178
+12#Integrated Circuit Logic Gates#12.4#Design a interface circuit for CMOS#Ex12_4.sce#863/CH12/EX12.4/Ex12_4.sce#S##34173
+12#Integrated Circuit Logic Gates#12.4#Design a interface circuit for CMOS#Ex12_4.txt#863/CH12/EX12.4/Ex12_4.txt#R##34174
+12#Integrated Circuit Logic Gates#12.4#Design a interface circuit for CMOS#Result12_4.txt#863/CH12/EX12.4/Result12_4.txt#R##34175
+12#Integrated Circuit Logic Gates#12.2#Determine Resistance to drive inputs of 5 TTL gates#Ex12_2.sce#863/CH12/EX12.2/Ex12_2.sce#S##34170
+12#Integrated Circuit Logic Gates#12.2#Determine Resistance to drive inputs of 5 TTL gates#Ex12_2.txt#863/CH12/EX12.2/Ex12_2.txt#R##34171
+12#Integrated Circuit Logic Gates#12.2#Determine Resistance to drive inputs of 5 TTL gates#Result12_2.txt#863/CH12/EX12.2/Result12_2.txt#R##34172
+12#Integrated Circuit Logic Gates#12.1#Determine fan out for DTL  NAND gate#Ex12_1.sce#863/CH12/EX12.1/Ex12_1.sce#S##34167
+12#Integrated Circuit Logic Gates#12.1#Determine fan out for DTL  NAND gate#Ex12_1.txt#863/CH12/EX12.1/Ex12_1.txt#R##34168
+12#Integrated Circuit Logic Gates#12.1#Determine fan out for DTL  NAND gate#Result12_1.txt#863/CH12/EX12.1/Result12_1.txt#R##34169
+11#Logic Circuits#11.3#Determine output for given logic circuit#Ex11_3.sce#863/CH11/EX11.3/Ex11_3.sce#S##34164
+11#Logic Circuits#11.3#Determine output for given logic circuit#Ex11_3.txt#863/CH11/EX11.3/Ex11_3.txt#R##34165
+11#Logic Circuits#11.3#Determine output for given logic circuit#Result11_3.txt#863/CH11/EX11.3/Result11_3.txt#R##34166
+10#Basic Logic Gates and Logic Functions#10.2#Find minimum value of the resistance to design OR Gate#Ex10_2.sce#863/CH10/EX10.2/Ex10_2.sce#S##34161
+10#Basic Logic Gates and Logic Functions#10.2#Find minimum value of the resistance to design OR Gate#Ex10_2.txt#863/CH10/EX10.2/Ex10_2.txt#R##34162
+10#Basic Logic Gates and Logic Functions#10.2#Find minimum value of the resistance to design OR Gate#Result10_2.txt#863/CH10/EX10.2/Result10_2.txt#R##34163
+10#Basic Logic Gates and Logic Functions#10.1#Determine low and high voltage outputs and resistance for desinging the gate circuit#Ex10_1.sce#863/CH10/EX10.1/Ex10_1.sce#S##34158
+10#Basic Logic Gates and Logic Functions#10.1#Determine low and high voltage outputs and resistance for desinging the gate circuit#Ex10_1.txt#863/CH10/EX10.1/Ex10_1.txt#R##34159
+10#Basic Logic Gates and Logic Functions#10.1#Determine low and high voltage outputs and resistance for desinging the gate circuit#Result10_1.txt#863/CH10/EX10.1/Result10_1.txt#R##34160
+9#Ramp Pulse and Function Generators#9.9#Calculate drain current#Ex9_9.sce#863/CH9/EX9.9/Ex9_9.sce#S##34149
+9#Ramp Pulse and Function Generators#9.9#Calculate drain current#Ex9_9.txt#863/CH9/EX9.9/Ex9_9.txt#R##34150
+9#Ramp Pulse and Function Generators#9.9#Calculate drain current#Result9_9.txt#863/CH9/EX9.9/Result9_9.txt#R##34151
+9#Ramp Pulse and Function Generators#9.6#Design a transistor bootstrap ramp generator#Ex9_6.sce#863/CH9/EX9.6/Ex9_6.sce#S##34146
+9#Ramp Pulse and Function Generators#9.6#Design a transistor bootstrap ramp generator#Ex9_6.txt#863/CH9/EX9.6/Ex9_6.txt#R##34147
+9#Ramp Pulse and Function Generators#9.6#Design a transistor bootstrap ramp generator#Result9_6.txt#863/CH9/EX9.6/Result9_6.txt#R##34148
+9#Ramp Pulse and Function Generators#9.5#Design a UJT relaxation oscillator and find peak to peak output amplitude#Ex9_5.sce#863/CH9/EX9.5/Ex9_5.sce#S##34143
+9#Ramp Pulse and Function Generators#9.5#Design a UJT relaxation oscillator and find peak to peak output amplitude#Ex9_5.txt#863/CH9/EX9.5/Ex9_5.txt#R##34144
+9#Ramp Pulse and Function Generators#9.5#Design a UJT relaxation oscillator and find peak to peak output amplitude#Result9_5.txt#863/CH9/EX9.5/Result9_5.txt#R##34145
+9#Ramp Pulse and Function Generators#9.4#Determine Rs max and Rs min and minimum drain source voltage#Ex9_4.sce#863/CH9/EX9.4/Ex9_4.sce#S##34140
+9#Ramp Pulse and Function Generators#9.4#Determine Rs max and Rs min and minimum drain source voltage#Ex9_4.txt#863/CH9/EX9.4/Ex9_4.txt#R##34141
+9#Ramp Pulse and Function Generators#9.4#Determine Rs max and Rs min and minimum drain source voltage#Result9_4.txt#863/CH9/EX9.4/Result9_4.txt#R##34142
+9#Ramp Pulse and Function Generators#9.2#Design a linear ramp generator#Ex9_2.sce#863/CH9/EX9.2/Ex9_2.sce#S##34137
+9#Ramp Pulse and Function Generators#9.2#Design a linear ramp generator#Ex9_2.txt#863/CH9/EX9.2/Ex9_2.txt#R##34138
+9#Ramp Pulse and Function Generators#9.2#Design a linear ramp generator#Result9_2.txt#863/CH9/EX9.2/Result9_2.txt#R##34139
+9#Ramp Pulse and Function Generators#9.13#Calculate output maximum and minimum frequencies#Ex9_13.sce#863/CH9/EX9.13/Ex9_13.sce#S##34155
+9#Ramp Pulse and Function Generators#9.13#Calculate output maximum and minimum frequencies#Ex9_13.txt#863/CH9/EX9.13/Ex9_13.txt#R##34156
+9#Ramp Pulse and Function Generators#9.13#Calculate output maximum and minimum frequencies#Result9_13.txt#863/CH9/EX9.13/Result9_13.txt#R##34157
+9#Ramp Pulse and Function Generators#9.12#Design a pulse generator using 8038 IC#Ex9_12.sce#863/CH9/EX9.12/Ex9_12.sce#S##34152
+9#Ramp Pulse and Function Generators#9.12#Design a pulse generator using 8038 IC#Ex9_12.txt#863/CH9/EX9.12/Ex9_12.txt#R##34153
+9#Ramp Pulse and Function Generators#9.12#Design a pulse generator using 8038 IC#Result9_12.txt#863/CH9/EX9.12/Result9_12.txt#R##34154
+9#Ramp Pulse and Function Generators#9.1#Design RC ramp generator#Ex9_1.sce#863/CH9/EX9.1/Ex9_1.sce#S##34134
+9#Ramp Pulse and Function Generators#9.1#Design RC ramp generator#Ex9_1.txt#863/CH9/EX9.1/Ex9_1.txt#R##34135
+9#Ramp Pulse and Function Generators#9.1#Design RC ramp generator#Result9_1.txt#863/CH9/EX9.1/Result9_1.txt#R##34136
+8#IC Timer Circuits#8.4#Design a square wave generator using 7555 CMOS#Ex8_4.sce#863/CH8/EX8.4/Ex8_4.sce#S##34131
+8#IC Timer Circuits#8.4#Design a square wave generator using 7555 CMOS#Ex8_4.txt#863/CH8/EX8.4/Ex8_4.txt#R##34132
+8#IC Timer Circuits#8.4#Design a square wave generator using 7555 CMOS#Result8_4.txt#863/CH8/EX8.4/Result8_4.txt#R##34133
+8#IC Timer Circuits#8.3#Determine actual PRF and duty cycle#Ex8_3.sce#863/CH8/EX8.3/Ex8_3.sce#S##34128
+8#IC Timer Circuits#8.3#Determine actual PRF and duty cycle#Ex8_3.txt#863/CH8/EX8.3/Ex8_3.txt#R##34129
+8#IC Timer Circuits#8.3#Determine actual PRF and duty cycle#Result8_3.txt#863/CH8/EX8.3/Result8_3.txt#R##34130
+8#IC Timer Circuits#8.2#Design a 555 astable multivibrator#Ex8_2.sce#863/CH8/EX8.2/Ex8_2.sce#S##34068
+8#IC Timer Circuits#8.2#Design a 555 astable multivibrator#Ex8_2.txt#863/CH8/EX8.2/Ex8_2.txt#R##34069
+8#IC Timer Circuits#8.2#Design a 555 astable multivibrator#Result8_2.txt#863/CH8/EX8.2/Result8_2.txt#R##34070
+8#IC Timer Circuits#8.1#Design a 555 monostable circuit#Ex8_1.sce#863/CH8/EX8.1/Ex8_1.sce#S##34065
+8#IC Timer Circuits#8.1#Design a 555 monostable circuit#Ex8_1.txt#863/CH8/EX8.1/Ex8_1.txt#R##34066
+8#IC Timer Circuits#8.1#Design a 555 monostable circuit#Result8_1.txt#863/CH8/EX8.1/Result8_1.txt#R##34067
+7#Monostable And Astable Multivibrators#7.6#Design a astable multivibrator using 311 comparator#Ex7_6.sce#863/CH7/EX7.6/Ex7_6.sce#S##34062
+7#Monostable And Astable Multivibrators#7.6#Design a astable multivibrator using 311 comparator#Ex7_6.txt#863/CH7/EX7.6/Ex7_6.txt#R##34063
+7#Monostable And Astable Multivibrators#7.6#Design a astable multivibrator using 311 comparator#Result7_6.txt#863/CH7/EX7.6/Result7_6.txt#R##34064
+7#Monostable And Astable Multivibrators#7.5#Design a astable multivibrator using 741 op amp#Ex7_5.sce#863/CH7/EX7.5/Ex7_5.sce#S##34059
+7#Monostable And Astable Multivibrators#7.5#Design a astable multivibrator using 741 op amp#Ex7_5.txt#863/CH7/EX7.5/Ex7_5.txt#R##34060
+7#Monostable And Astable Multivibrators#7.5#Design a astable multivibrator using 741 op amp#Result7_5.txt#863/CH7/EX7.5/Result7_5.txt#R##34061
+7#Monostable And Astable Multivibrators#7.4#Design a astable multivibrator#Ex7_4.sce#863/CH7/EX7.4/Ex7_4.sce#S##34056
+7#Monostable And Astable Multivibrators#7.4#Design a astable multivibrator#Ex7_4.txt#863/CH7/EX7.4/Ex7_4.txt#R##34057
+7#Monostable And Astable Multivibrators#7.4#Design a astable multivibrator#Result7_4.txt#863/CH7/EX7.4/Result7_4.txt#R##34058
+7#Monostable And Astable Multivibrators#7.3#Design a monostable multivibrator using op amp 741#Ex7_3.sce#863/CH7/EX7.3/Ex7_3.sce#S##34047
+7#Monostable And Astable Multivibrators#7.3#Design a monostable multivibrator using op amp 741#Ex7_3.txt#863/CH7/EX7.3/Ex7_3.txt#R##34048
+7#Monostable And Astable Multivibrators#7.3#Design a monostable multivibrator using op amp 741#Result7_3.txt#863/CH7/EX7.3/Result7_3.txt#R##34049
+7#Monostable And Astable Multivibrators#7.2#Find capacitance#Ex7_2.sce#863/CH7/EX7.2/Ex7_2.sce#S##34044
+7#Monostable And Astable Multivibrators#7.2#Find capacitance#Ex7_2.txt#863/CH7/EX7.2/Ex7_2.txt#R##34045
+7#Monostable And Astable Multivibrators#7.2#Find capacitance#Result7_2.txt#863/CH7/EX7.2/Result7_2.txt#R##34046
+7#Monostable And Astable Multivibrators#7.1#Design a collector coupled monostable multivibrator by determining rc and rb and r2 and r1 and vb1#Ex7_1.sce#863/CH7/EX7.1/Ex7_1.sce#S##34038
+7#Monostable And Astable Multivibrators#7.1#Design a collector coupled monostable multivibrator by determining rc and rb and r2 and r1 and vb1#Ex7_1.txt#863/CH7/EX7.1/Ex7_1.txt#R##34039
+7#Monostable And Astable Multivibrators#7.1#Design a collector coupled monostable multivibrator by determining rc and rb and r2 and r1 and vb1#Result7_1.txt#863/CH7/EX7.1/Result7_1.txt#R##34040
+6#Schmitt Trigger Circuits and Voltage Comparators#6.6#Design a non inverting schmitt trigger circuit#Ex6_6.sce#863/CH6/EX6.6/Ex6_6.sce#S##34053
+6#Schmitt Trigger Circuits and Voltage Comparators#6.6#Design a non inverting schmitt trigger circuit#Ex6_6.txt#863/CH6/EX6.6/Ex6_6.txt#R##34054
+6#Schmitt Trigger Circuits and Voltage Comparators#6.6#Design a non inverting schmitt trigger circuit#Result6_6.txt#863/CH6/EX6.6/Result6_6.txt#R##34055
+6#Schmitt Trigger Circuits and Voltage Comparators#6.5#Design Schmitt circuit components R1 and R2 and R3 and R4 and R5#Ex6_5.sce#863/CH6/EX6.5/Ex6_5.sce#S##34050
+6#Schmitt Trigger Circuits and Voltage Comparators#6.5#Design Schmitt circuit components R1 and R2 and R3 and R4 and R5#Ex6_5.txt#863/CH6/EX6.5/Ex6_5.txt#R##34051
+6#Schmitt Trigger Circuits and Voltage Comparators#6.5#Design Schmitt circuit components R1 and R2 and R3 and R4 and R5#Result6_5.txt#863/CH6/EX6.5/Result6_5.txt#R##34052
+6#Schmitt Trigger Circuits and Voltage Comparators#6.4#Calculate R1 and R2 and Actual UTP and LTP#Ex6_4.sce#863/CH6/EX6.4/Ex6_4.sce#S##34041
+6#Schmitt Trigger Circuits and Voltage Comparators#6.4#Calculate R1 and R2 and Actual UTP and LTP#Ex6_4.txt#863/CH6/EX6.4/Ex6_4.txt#R##34042
+6#Schmitt Trigger Circuits and Voltage Comparators#6.4#Calculate R1 and R2 and Actual UTP and LTP#Result6_4.txt#863/CH6/EX6.4/Result6_4.txt#R##34043
+6#Schmitt Trigger Circuits and Voltage Comparators#6.3#Determine Largest speed up capacitance#Ex6_3.sce#863/CH6/EX6.3/Ex6_3.sce#S##34035
+6#Schmitt Trigger Circuits and Voltage Comparators#6.3#Determine Largest speed up capacitance#Ex6_3.txt#863/CH6/EX6.3/Ex6_3.txt#R##34036
+6#Schmitt Trigger Circuits and Voltage Comparators#6.3#Determine Largest speed up capacitance#Result6_3.txt#863/CH6/EX6.3/Result6_3.txt#R##34037
+6#Schmitt Trigger Circuits and Voltage Comparators#6.2#Find circuit components for designing a schmitt trigger circuit#Ex6_2.sce#863/CH6/EX6.2/Ex6_2.sce#S##34032
+6#Schmitt Trigger Circuits and Voltage Comparators#6.2#Find circuit components for designing a schmitt trigger circuit#Ex6_2.txt#863/CH6/EX6.2/Ex6_2.txt#R##34033
+6#Schmitt Trigger Circuits and Voltage Comparators#6.2#Find circuit components for designing a schmitt trigger circuit#Result6_2.txt#863/CH6/EX6.2/Result6_2.txt#R##34034
+6#Schmitt Trigger Circuits and Voltage Comparators#6.1#Determine schmitt trigger circuit components for designing it#Ex6_1.sce#863/CH6/EX6.1/Ex6_1.sce#S##34029
+6#Schmitt Trigger Circuits and Voltage Comparators#6.1#Determine schmitt trigger circuit components for designing it#Ex6_1.txt#863/CH6/EX6.1/Ex6_1.txt#R##34030
+6#Schmitt Trigger Circuits and Voltage Comparators#6.1#Determine schmitt trigger circuit components for designing it#Result6_1.txt#863/CH6/EX6.1/Result6_1.txt#R##34031
+5#IC Operational Amplifiers In Switching Circuits#5.5#Calculate lowest operating frequency for circuit#Ex5_5.sce#863/CH5/EX5.5/Ex5_5.sce#S##34026
+5#IC Operational Amplifiers In Switching Circuits#5.5#Calculate lowest operating frequency for circuit#Ex5_5.txt#863/CH5/EX5.5/Ex5_5.txt#R##34027
+5#IC Operational Amplifiers In Switching Circuits#5.5#Calculate lowest operating frequency for circuit#Result5_5.txt#863/CH5/EX5.5/Result5_5.txt#R##34028
+5#IC Operational Amplifiers In Switching Circuits#5.4#Design a differentiating circuit by determining required resistances and capacitance#Ex5_4.sce#863/CH5/EX5.4/Ex5_4.sce#S##34023
+5#IC Operational Amplifiers In Switching Circuits#5.4#Design a differentiating circuit by determining required resistances and capacitance#Ex5_4.txt#863/CH5/EX5.4/Ex5_4.txt#R##34024
+5#IC Operational Amplifiers In Switching Circuits#5.4#Design a differentiating circuit by determining required resistances and capacitance#Result5_4.txt#863/CH5/EX5.4/Result5_4.txt#R##34025
+5#IC Operational Amplifiers In Switching Circuits#5.3#Design an inverter by determining input resistance and current and capacitance#Ex5_3.sce#863/CH5/EX5.3/Ex5_3.sce#S##34020
+5#IC Operational Amplifiers In Switching Circuits#5.3#Design an inverter by determining input resistance and current and capacitance#Ex5_3.txt#863/CH5/EX5.3/Ex5_3.txt#R##34021
+5#IC Operational Amplifiers In Switching Circuits#5.3#Design an inverter by determining input resistance and current and capacitance#Result5_3.txt#863/CH5/EX5.3/Result5_3.txt#R##34022
+5#IC Operational Amplifiers In Switching Circuits#5.1#Design a non inverting amplifier by determining Required resistances and output voltage#Ex5_1.sce#863/CH5/EX5.1/Ex5_1.sce#S##34017
+5#IC Operational Amplifiers In Switching Circuits#5.1#Design a non inverting amplifier by determining Required resistances and output voltage#Ex5_1.txt#863/CH5/EX5.1/Ex5_1.txt#R##34018
+5#IC Operational Amplifiers In Switching Circuits#5.1#Design a non inverting amplifier by determining Required resistances and output voltage#Result5_1.txt#863/CH5/EX5.1/Result5_1.txt#R##34019
+4#Transistor Switching#4.9#Determine required capacitance#Ex4_9.sce#863/CH4/EX4.9/Ex4_9.sce#S##34011
+4#Transistor Switching#4.9#Determine required capacitance#Ex4_9.txt#863/CH4/EX4.9/Ex4_9.txt#R##34012
+4#Transistor Switching#4.9#Determine required capacitance#Result4_9.txt#863/CH4/EX4.9/Result4_9.txt#R##34013
+4#Transistor Switching#4.8#Calculate Rc and Rb and Cc#Ex4_8.sce#863/CH4/EX4.8/Ex4_8.sce#S##34209
+4#Transistor Switching#4.8#Calculate Rc and Rb and Cc#Ex4_8.txt#863/CH4/EX4.8/Ex4_8.txt#R##34210
+4#Transistor Switching#4.8#Calculate Rc and Rb and Cc#Result4_8.txt#863/CH4/EX4.8/Result4_8.txt#R##34211
+4#Transistor Switching#4.7#Design a transistor determining Rc and Rb and amplitude of output waveform#Ex4_7.sce#863/CH4/EX4.7/Ex4_7.sce#S##34008
+4#Transistor Switching#4.7#Design a transistor determining Rc and Rb and amplitude of output waveform#Ex4_7.txt#863/CH4/EX4.7/Ex4_7.txt#R##34009
+4#Transistor Switching#4.7#Design a transistor determining Rc and Rb and amplitude of output waveform#Result4_7.txt#863/CH4/EX4.7/Result4_7.txt#R##34010
+4#Transistor Switching#4.6#Determine maximum value of capacitor#Ex4_6.sce#863/CH4/EX4.6/Ex4_6.sce#S##33990
+4#Transistor Switching#4.6#Determine maximum value of capacitor#Ex4_6.txt#863/CH4/EX4.6/Ex4_6.txt#R##33991
+4#Transistor Switching#4.6#Determine maximum value of capacitor#Result4_6.txt#863/CH4/EX4.6/Result4_6.txt#R##33992
+4#Transistor Switching#4.5#Calculate Rc and Rb#Ex4_5.sce#863/CH4/EX4.5/Ex4_5.sce#S##33987
+4#Transistor Switching#4.5#Calculate Rc and Rb#Ex4_5.txt#863/CH4/EX4.5/Ex4_5.txt#R##33988
+4#Transistor Switching#4.5#Calculate Rc and Rb#Result4_5.txt#863/CH4/EX4.5/Result4_5.txt#R##33989
+4#Transistor Switching#4.4#Determine Capacitance that can give max turn on time and Max frequency#Ex4_4.sce#863/CH4/EX4.4/Ex4_4.sce#S##33984
+4#Transistor Switching#4.4#Determine Capacitance that can give max turn on time and Max frequency#Ex4_4.txt#863/CH4/EX4.4/Ex4_4.txt#R##33985
+4#Transistor Switching#4.4#Determine Capacitance that can give max turn on time and Max frequency#Result4_4.txt#863/CH4/EX4.4/Result4_4.txt#R##33986
+4#Transistor Switching#4.3#Calculate Vce  before input pulse is applied and at end of delay time and at end of turn on time and Total time#Ex4_3.sce#863/CH4/EX4.3/Ex4_3.sce#S##33981
+4#Transistor Switching#4.3#Calculate Vce  before input pulse is applied and at end of delay time and at end of turn on time and Total time#Ex4_3.txt#863/CH4/EX4.3/Ex4_3.txt#R##33982
+4#Transistor Switching#4.3#Calculate Vce  before input pulse is applied and at end of delay time and at end of turn on time and Total time#Result4_3.txt#863/CH4/EX4.3/Result4_3.txt#R##33983
+4#Transistor Switching#4.2#Calculate the transistor power dissipation at Cutoff and Saturation and When Vce is 2V#Ex4_2.sce#863/CH4/EX4.2/Ex4_2.sce#S##33978
+4#Transistor Switching#4.2#Calculate the transistor power dissipation at Cutoff and Saturation and When Vce is 2V#Ex4_2.txt#863/CH4/EX4.2/Ex4_2.txt#R##33979
+4#Transistor Switching#4.2#Calculate the transistor power dissipation at Cutoff and Saturation and When Vce is 2V#Result4_2.txt#863/CH4/EX4.2/Result4_2.txt#R##33980
+4#Transistor Switching#4.10#Determine output voltage when Device is cut off and Device is switched on#Ex4_10.sce#863/CH4/EX4.10/Ex4_10.sce#S##34014
+4#Transistor Switching#4.10#Determine output voltage when Device is cut off and Device is switched on#Ex4_10.txt#863/CH4/EX4.10/Ex4_10.txt#R##34015
+4#Transistor Switching#4.10#Determine output voltage when Device is cut off and Device is switched on#Result4_10.txt#863/CH4/EX4.10/Result4_10.txt#R##34016
+4#Transistor Switching#4.1#Determine hfe and hfe for changed resistor#Ex4_1.sce#863/CH4/EX4.1/Ex4_1.sce#S##33975
+4#Transistor Switching#4.1#Determine hfe and hfe for changed resistor#Ex4_1.txt#863/CH4/EX4.1/Ex4_1.txt#R##33976
+4#Transistor Switching#4.1#Determine hfe and hfe for changed resistor#Result4_1.txt#863/CH4/EX4.1/Result4_1.txt#R##33977
+3#Diode Switching#3.9#Calculate Capacitance and Resistance and Zener Voltage#Ex3_9.sce#863/CH3/EX3.9/Ex3_9.sce#S##33969
+3#Diode Switching#3.9#Calculate Capacitance and Resistance and Zener Voltage#Ex3_9.txt#863/CH3/EX3.9/Ex3_9.txt#R##33970
+3#Diode Switching#3.9#Calculate Capacitance and Resistance and Zener Voltage#Result3_9.txt#863/CH3/EX3.9/Result3_9.txt#R##33971
+3#Diode Switching#3.8#Find Capacitance and Resistance required to design the circuit#Ex3_8.sce#863/CH3/EX3.8/Ex3_8.sce#S##33966
+3#Diode Switching#3.8#Find Capacitance and Resistance required to design the circuit#Ex3_8.txt#863/CH3/EX3.8/Ex3_8.txt#R##33967
+3#Diode Switching#3.8#Find Capacitance and Resistance required to design the circuit#Result3_8.txt#863/CH3/EX3.8/Result3_8.txt#R##33968
+3#Diode Switching#3.7#Calculate Capacitance and Resistance#Ex3_7.sce#863/CH3/EX3.7/Ex3_7.sce#S##33963
+3#Diode Switching#3.7#Calculate Capacitance and Resistance#Ex3_7.txt#863/CH3/EX3.7/Ex3_7.txt#R##33964
+3#Diode Switching#3.7#Calculate Capacitance and Resistance#Result3_7.txt#863/CH3/EX3.7/Result3_7.txt#R##33965
+3#Diode Switching#3.6#Find Zener voltage and Resistance#Ex3_6.sce#863/CH3/EX3.6/Ex3_6.sce#S##33960
+3#Diode Switching#3.6#Find Zener voltage and Resistance#Ex3_6.txt#863/CH3/EX3.6/Ex3_6.txt#R##33961
+3#Diode Switching#3.6#Find Zener voltage and Resistance#Result3_6.txt#863/CH3/EX3.6/Result3_6.txt#R##33962
+3#Diode Switching#3.5#Calculate Resistance#Ex3_5.sce#863/CH3/EX3.5/Ex3_5.sce#S##33957
+3#Diode Switching#3.5#Calculate Resistance#Ex3_5.txt#863/CH3/EX3.5/Ex3_5.txt#R##33958
+3#Diode Switching#3.5#Calculate Resistance#Result3_5.txt#863/CH3/EX3.5/Result3_5.txt#R##33959
+3#Diode Switching#3.4#Calculate Resistance and diode forward current#Ex3_4.sce#863/CH3/EX3.4/Ex3_4.sce#S##33954
+3#Diode Switching#3.4#Calculate Resistance and diode forward current#Ex3_4.txt#863/CH3/EX3.4/Ex3_4.txt#R##33955
+3#Diode Switching#3.4#Calculate Resistance and diode forward current#Result3_4.txt#863/CH3/EX3.4/Result3_4.txt#R##33956
+3#Diode Switching#3.3#Calculate resistance and amplitude of output signal#Ex3_3.sce#863/CH3/EX3.3/Ex3_3.sce#S##33951
+3#Diode Switching#3.3#Calculate resistance and amplitude of output signal#Ex3_3.txt#863/CH3/EX3.3/Ex3_3.txt#R##33952
+3#Diode Switching#3.3#Calculate resistance and amplitude of output signal#Result3_3.txt#863/CH3/EX3.3/Result3_3.txt#R##33953
+3#Diode Switching#3.10#Calculate Capacitance C1and C2 and Diode reverse recovery time and input voltage#Ex3_10.sce#863/CH3/EX3.10/Ex3_10.sce#S##33972
+3#Diode Switching#3.10#Calculate Capacitance C1and C2 and Diode reverse recovery time and input voltage#Ex3_10.txt#863/CH3/EX3.10/Ex3_10.txt#R##33973
+3#Diode Switching#3.10#Calculate Capacitance C1and C2 and Diode reverse recovery time and input voltage#Result3_10.txt#863/CH3/EX3.10/Result3_10.txt#R##33974
+3#Diode Switching#3.1#Calculate Resistance and Forward Current and Power dissipation and Peak Reverse Voltage#Ex3_1.sce#863/CH3/EX3.1/Ex3_1.sce#S##33948
+3#Diode Switching#3.1#Calculate Resistance and Forward Current and Power dissipation and Peak Reverse Voltage#Ex3_1.txt#863/CH3/EX3.1/Ex3_1.txt#R##33949
+3#Diode Switching#3.1#Calculate Resistance and Forward Current and Power dissipation and Peak Reverse Voltage#Result3_1.txt#863/CH3/EX3.1/Result3_1.txt#R##33950
+2#Resistive Capacitive RC Circuits#2.9#Determine max and min voltage at which capacitor voltage will settle#Ex2_9.sce#863/CH2/EX2.9/Ex2_9.sce#S##33854
+2#Resistive Capacitive RC Circuits#2.9#Determine max and min voltage at which capacitor voltage will settle#Ex2_9.txt#863/CH2/EX2.9/Ex2_9.txt#R##33855
+2#Resistive Capacitive RC Circuits#2.9#Determine max and min voltage at which capacitor voltage will settle#Result2_9.txt#863/CH2/EX2.9/Result2_9.txt#R##33856
+2#Resistive Capacitive RC Circuits#2.8#Calculate voltage at 14 ms#Ex2_8.sce#863/CH2/EX2.8/Ex2_8.sce#S##33851
+2#Resistive Capacitive RC Circuits#2.8#Calculate voltage at 14 ms#Ex2_8.txt#863/CH2/EX2.8/Ex2_8.txt#R##33852
+2#Resistive Capacitive RC Circuits#2.8#Calculate voltage at 14 ms#Result2_8.txt#863/CH2/EX2.8/Result2_8.txt#R##33853
+2#Resistive Capacitive RC Circuits#2.7#Determine fastest rise time#Ex2_7.sce#863/CH2/EX2.7/Ex2_7.sce#S##33848
+2#Resistive Capacitive RC Circuits#2.7#Determine fastest rise time#Ex2_7.txt#863/CH2/EX2.7/Ex2_7.txt#R##33849
+2#Resistive Capacitive RC Circuits#2.7#Determine fastest rise time#Result2_7.txt#863/CH2/EX2.7/Result2_7.txt#R##33850
+2#Resistive Capacitive RC Circuits#2.6#Calculate minimum square wave frequency#Ex2_6.sce#863/CH2/EX2.6/Ex2_6.sce#S##33845
+2#Resistive Capacitive RC Circuits#2.6#Calculate minimum square wave frequency#Ex2_6.txt#863/CH2/EX2.6/Ex2_6.txt#R##33846
+2#Resistive Capacitive RC Circuits#2.6#Calculate minimum square wave frequency#Result2_6.txt#863/CH2/EX2.6/Result2_6.txt#R##33847
+2#Resistive Capacitive RC Circuits#2.5#Calculate Rise time and time for capacitor to charge to required amount and time required for complete charging#Ex2_5.sce#863/CH2/EX2.5/Ex2_5.sce#S##33842
+2#Resistive Capacitive RC Circuits#2.5#Calculate Rise time and time for capacitor to charge to required amount and time required for complete charging#Ex2_5.txt#863/CH2/EX2.5/Ex2_5.txt#R##33843
+2#Resistive Capacitive RC Circuits#2.5#Calculate Rise time and time for capacitor to charge to required amount and time required for complete charging#Result2_5.txt#863/CH2/EX2.5/Result2_5.txt#R##33844
+2#Resistive Capacitive RC Circuits#2.4#Determine  Ec at given time#Ex2_4.sce#863/CH2/EX2.4/Ex2_4.sce#S##33839
+2#Resistive Capacitive RC Circuits#2.4#Determine  Ec at given time#Ex2_4.txt#863/CH2/EX2.4/Ex2_4.txt#R##33840
+2#Resistive Capacitive RC Circuits#2.4#Determine  Ec at given time#Result2_4.txt#863/CH2/EX2.4/Result2_4.txt#R##33841
+2#Resistive Capacitive RC Circuits#2.3#Calculate voltage after 8ms#Ex2_3.sce#863/CH2/EX2.3/Ex2_3.sce#S##33836
+2#Resistive Capacitive RC Circuits#2.3#Calculate voltage after 8ms#Ex2_3.txt#863/CH2/EX2.3/Ex2_3.txt#R##33837
+2#Resistive Capacitive RC Circuits#2.3#Calculate voltage after 8ms#Result2_3.txt#863/CH2/EX2.3/Result2_3.txt#R##33838
+2#Resistive Capacitive RC Circuits#2.12#Calculate amplitude of output waveform for Rise time and Fall time#Ex2_12.sce#863/CH2/EX2.12/Ex2_12.sce#S##33945
+2#Resistive Capacitive RC Circuits#2.12#Calculate amplitude of output waveform for Rise time and Fall time#Ex2_12.txt#863/CH2/EX2.12/Ex2_12.txt#R##33946
+2#Resistive Capacitive RC Circuits#2.12#Calculate amplitude of output waveform for Rise time and Fall time#Result2_12.txt#863/CH2/EX2.12/Result2_12.txt#R##33947
+2#Resistive Capacitive RC Circuits#2.11#Calculate output voltage for 10 V and 20 V#Ex2_11.sce#863/CH2/EX2.11/Ex2_11.sce#S##33942
+2#Resistive Capacitive RC Circuits#2.11#Calculate output voltage for 10 V and 20 V#Ex2_11.txt#863/CH2/EX2.11/Ex2_11.txt#R##33943
+2#Resistive Capacitive RC Circuits#2.11#Calculate output voltage for 10 V and 20 V#Result2_11.txt#863/CH2/EX2.11/Result2_11.txt#R##33944
+2#Resistive Capacitive RC Circuits#2.10#Calculate output voltage for 10 V and 1 ms PW and 10 V and 2 ms PW and 20 V and 1 ms PW#Ex2_10.sce#863/CH2/EX2.10/Ex2_10.sce#S##33857
+2#Resistive Capacitive RC Circuits#2.10#Calculate output voltage for 10 V and 1 ms PW and 10 V and 2 ms PW and 20 V and 1 ms PW#Ex2_10.txt#863/CH2/EX2.10/Ex2_10.txt#R##33858
+2#Resistive Capacitive RC Circuits#2.10#Calculate output voltage for 10 V and 1 ms PW and 10 V and 2 ms PW and 20 V and 1 ms PW#Result2_10.txt#863/CH2/EX2.10/Result2_10.txt#R##33859
+1#Pulse Fundamentals#1.9#Determine upper cutoff frequency and lower cutoff frequency#Ex1_9.sce#863/CH1/EX1.9/Ex1_9.sce#S##33833
+1#Pulse Fundamentals#1.9#Determine upper cutoff frequency and lower cutoff frequency#Ex1_9.txt#863/CH1/EX1.9/Ex1_9.txt#R##33834
+1#Pulse Fundamentals#1.9#Determine upper cutoff frequency and lower cutoff frequency#Result1_9.txt#863/CH1/EX1.9/Result1_9.txt#R##33835
+1#Pulse Fundamentals#1.8#Determine upper cutoff frequency and lower cutoff frequency#Ex1_8.sce#863/CH1/EX1.8/Ex1_8.sce#S##33830
+1#Pulse Fundamentals#1.8#Determine upper cutoff frequency and lower cutoff frequency#Ex1_8.txt#863/CH1/EX1.8/Ex1_8.txt#R##33831
+1#Pulse Fundamentals#1.8#Determine upper cutoff frequency and lower cutoff frequency#Result1_8.txt#863/CH1/EX1.8/Result1_8.txt#R##33832
+1#Pulse Fundamentals#1.7#Calculate lowest input frequency#Ex1_7.sce#863/CH1/EX1.7/Ex1_7.sce#S##33827
+1#Pulse Fundamentals#1.7#Calculate lowest input frequency#Ex1_7.txt#863/CH1/EX1.7/Ex1_7.txt#R##33828
+1#Pulse Fundamentals#1.7#Calculate lowest input frequency#Result1_7.txt#863/CH1/EX1.7/Result1_7.txt#R##33829
+1#Pulse Fundamentals#1.6#Calculate Rise time in output waveform and Minimum upper cut off frequency and displayed rise time#Ex1_6.sce#863/CH1/EX1.6/Ex1_6.sce#S##33824
+1#Pulse Fundamentals#1.6#Calculate Rise time in output waveform and Minimum upper cut off frequency and displayed rise time#Ex1_6.txt#863/CH1/EX1.6/Ex1_6.txt#R##33825
+1#Pulse Fundamentals#1.6#Calculate Rise time in output waveform and Minimum upper cut off frequency and displayed rise time#Result1_6.txt#863/CH1/EX1.6/Result1_6.txt#R##33826
+1#Pulse Fundamentals#1.5#Determine Minimum upper cut frequency and Minimum pulse width and duty cycle#Ex1_5.sce#863/CH1/EX1.5/Ex1_5.sce#S##33821
+1#Pulse Fundamentals#1.5#Determine Minimum upper cut frequency and Minimum pulse width and duty cycle#Ex1_5.txt#863/CH1/EX1.5/Ex1_5.txt#R##33822
+1#Pulse Fundamentals#1.5#Determine Minimum upper cut frequency and Minimum pulse width and duty cycle#Result1_5.txt#863/CH1/EX1.5/Result1_5.txt#R##33823
+1#Pulse Fundamentals#1.4#Determine the upper 3 db frequency of the amplifier#Ex1_4.sce#863/CH1/EX1.4/Ex1_4.sce#S##33818
+1#Pulse Fundamentals#1.4#Determine the upper 3 db frequency of the amplifier#Ex1_4.txt#863/CH1/EX1.4/Ex1_4.txt#R##33819
+1#Pulse Fundamentals#1.4#Determine the upper 3 db frequency of the amplifier#Result1_4.txt#863/CH1/EX1.4/Result1_4.txt#R##33820
+1#Pulse Fundamentals#1.3#Determine average voltage level#Ex1_3.sce#863/CH1/EX1.3/Ex1_3.sce#S##33815
+1#Pulse Fundamentals#1.3#Determine average voltage level#Ex1_3.txt#863/CH1/EX1.3/Ex1_3.txt#R##33816
+1#Pulse Fundamentals#1.3#Determine average voltage level#Result1_3.txt#863/CH1/EX1.3/Result1_3.txt#R##33817
+1#Pulse Fundamentals#1.2#Determine Pulse amplitude tilt rise time fall time PW PRF mark to space ratio and duty cycle and tilt#Ex1_2.sce#863/CH1/EX1.2/Ex1_2.sce#S##33812
+1#Pulse Fundamentals#1.2#Determine Pulse amplitude tilt rise time fall time PW PRF mark to space ratio and duty cycle and tilt#Ex1_2.txt#863/CH1/EX1.2/Ex1_2.txt#R##33813
+1#Pulse Fundamentals#1.2#Determine Pulse amplitude tilt rise time fall time PW PRF mark to space ratio and duty cycle and tilt#Result1_2.txt#863/CH1/EX1.2/Result1_2.txt#R##33814
+1#Pulse Fundamentals#1.1#Find Pulse amplitude PRF PW Duty cycle and MS ratio#Ex1_1.sce#863/CH1/EX1.1/Ex1_1.sce#S##33791
+1#Pulse Fundamentals#1.1#Find Pulse amplitude PRF PW Duty cycle and MS ratio#Ex1_1.txt#863/CH1/EX1.1/Ex1_1.txt#R##33792
+1#Pulse Fundamentals#1.1#Find Pulse amplitude PRF PW Duty cycle and MS ratio#Result1_1.txt#863/CH1/EX1.1/Result1_1.txt#R##33793

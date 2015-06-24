@@ -1,0 +1,7 @@
+ percentage reduction in feild flux (%)=   
+ 
+    22.355777  
+ 
+ Value of additional resistance (in ohms)=   
+ 
+    31.671841

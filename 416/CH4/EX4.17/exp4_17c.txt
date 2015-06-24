@@ -1,0 +1,6 @@
+ 
+ example 4 17   
+ MVA rating of secondary = 10MVA =8+6jMVA 
+ 
+ since the power factor at primary terminals is unity,rating of primary need be 8MVA only 
+ the tertiary will supply capacitor curren.since p.f is to be raised to 1 ,the mav compensation needed is 6MVA so rating of teritiary is 6MVA 

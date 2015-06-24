@@ -1,0 +1,16 @@
+ 
+ example 4 7   
+ 
+    first transformer   
+ total full load losses 300kW 
+ full load copper losses 180kW 
+ energy loss due to copper losses 405900kWh/year
+ energy loss due to iron losses 420000kWh/year 
+ cost of energy losses Rs660720per year 
+    second transformer   
+ total full load losses 200kW 
+ full load copper losses 110kW 
+ energy loss due to copper losses 248050kWh/year
+ energy loss due to iron losses 315000kWh/year 
+ cost of energy losses Rs450440per yearadditional interest and depreciation due to higher cost of second transformer Rs30000 
+ total yearly charges for second transformer Rs480440 per year 

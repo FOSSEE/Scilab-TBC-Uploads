@@ -1,0 +1,19 @@
+//clc()
+g = 9.81;//m/s^2
+z = 55;
+PE = g * z;
+KE = 0;
+T2 = 288;//K
+f = 1.5*10^-2;//m^3/min
+D = 1000;//kg/m^3
+m = f * D;
+Qsupp = 500;//kJ/min
+Qlost = 400;//kJ/min
+Qnet = (Qsupp - Qlost) * D / m ;
+W = 2*745.7;//W
+Ws = -W * 0.6 / (m/60);
+H = Qnet - Ws - PE - KE;
+Cp = 4200;
+T1 = H / Cp;
+T = T1 + T2;
+disp("K",T,"The temperature of exit water = ")

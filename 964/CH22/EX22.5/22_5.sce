@@ -1,0 +1,57 @@
+//clc()
+//f(t) = g*m*(int(0,10,(1-exp(-c*t/m))))/c
+//for using gauss quadrature method, limits are changed to -1 to 1 by replcing x = 5 + 5*xd
+//the new integral obtained is
+//(1 - exp(-c*(5 + 5*x)/m ))*5
+g = 9.8;
+c = 12.5;
+m = 68.1;
+//for two point method
+x1 = -(1/3)^0.5;
+x2 = (1/3)^0.5;
+I1 = g*m*(1 - exp(-c*(5 + 5*x1)/m ))*5 / c;
+I2 = g*m*(1 - exp(-c*(5 + 5*x2)/m ))*5 / c;
+I = I1 + I2;
+disp(I,"integral by two point method = ")
+x1 = -0.7745967;
+x2 = 0;
+x3 = 0.7745967;
+c0 = 0.5555556;
+c1 = 0.8888889;
+c2 = 0.5555556;
+I1 = g*m*(1 - exp(-c*(5 + 5*x1)/m ))*5 / c;
+I2 = g*m*(1 - exp(-c*(5 + 5*x2)/m ))*5 / c;
+I3 = g*m*(1 - exp(-c*(5 + 5*x3)/m ))*5 / c;
+I = c0*I1 + c1 * I2 + c2 * I3;
+disp(I,"integral by three point method =")
+x1 = -0.861136312;
+x2 = -0.339981044;
+x3 = 0.339981044;
+x4 = 0.861136312;
+c1 = 0.3478548;
+c2 = 0.6521452;
+c3 = 0.6521452;
+c4 = 0.3478548;
+I1 = g*m*(1 - exp(-c*(5 + 5*x1)/m ))*5 / c;
+I2 = g*m*(1 - exp(-c*(5 + 5*x2)/m ))*5 / c;
+I3 = g*m*(1 - exp(-c*(5 + 5*x3)/m ))*5 / c;
+I4 = g*m*(1 - exp(-c*(5 + 5*x4)/m ))*5 / c;
+I = c1*I1 + c2 * I2 + c3 * I3 + c4 * I4;
+disp(I,"integral by four point method =")
+x1 = -0.906179846;
+x2 = -0.538469310;
+x3 = 0;
+x4 = 0.538469310;
+x5 = 0.906179846
+c1 = 0.2369269;
+c2 = 0.4786287;
+c3 = 0.5688889;
+c4 = 0.4786287;
+c5 = 0.2369269; 
+I1 = g*m*(1 - exp(-c*(5 + 5*x1)/m ))*5 / c;
+I2 = g*m*(1 - exp(-c*(5 + 5*x2)/m ))*5 / c;
+I3 = g*m*(1 - exp(-c*(5 + 5*x3)/m ))*5 / c;
+I4 = g*m*(1 - exp(-c*(5 + 5*x4)/m ))*5 / c;
+I5 = g*m*(1 - exp(-c*(5 + 5*x5)/m ))*5 / c;
+I = c1*I1 + c2 * I2 + c3 * I3 + c4 * I4 + c5 * I5;
+disp(I,"integral by five point method =")

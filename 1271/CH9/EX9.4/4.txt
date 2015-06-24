@@ -1,0 +1,2 @@
+ Value of e_r is 5 . 
+ Total dipole moment of the slab is 2.000000e-04 C-m.

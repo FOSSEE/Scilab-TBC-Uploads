@@ -1,0 +1,2 @@
+Trip points are -0.287 and +0.287 Volts
+Hysteresis is 0.574 Volts

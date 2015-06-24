@@ -1,0 +1,25 @@
+ 
+
+If= -j7.37463 pu
+
+I1 = -j3.83701 pu 
+
+I2 = -j3.53762 pu
+
+DeltaV1=-0.57555 pu
+
+DeltaV2=-0.53064 pu
+
+V1f= 0.42445 pu
+
+V2f=0.46936 pu
+
+I13=j0.17963 pu
+
+DeltaV3=-0.54861 pu
+
+Vf3=0.45139 pu
+
+Vf4=0
+
+Short circuit MVA at bus4 =737.463 MVA 

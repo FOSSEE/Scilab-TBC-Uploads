@@ -1,0 +1,6 @@
+# PROBLEM 34 # 
+Standard formula used 
+  lambda = h /(m*v)
+ 1/2*m*v^2 = qV 
+
+ de-Broglie wavelength = 7.159205e-13 m.

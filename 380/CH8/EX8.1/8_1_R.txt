@@ -1,0 +1,12 @@
+ efficiency (%)=   
+ 
+    96.134021  
+ 
+ magnitude of generated voltage (in Volts)=   
+ 
+    248.82011  
+ 
+ Phase angle of generated voltage (in Degree)=   
+ 
+  - 22.82404  
+ 

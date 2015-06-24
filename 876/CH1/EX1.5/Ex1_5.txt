@@ -1,0 +1,4 @@
+resolution of the meter is(in V)=   
+ 
+    0.25  
+ 

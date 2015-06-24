@@ -1,0 +1,1 @@
+Required width of the gating pulse is 4.00e-006 s 

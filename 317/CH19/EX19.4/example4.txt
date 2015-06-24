@@ -1,0 +1,1 @@
+closed-loop total harmonic distortion is 0.003%

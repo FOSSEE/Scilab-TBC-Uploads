@@ -1,0 +1,157 @@
+8#Appendix B#8.1#To plot the function of sin x#Ex8_1.sce#2915/CH8/EX8.1/Ex8_1.sce#S##100657
+8#Appendix B#8.1#To plot the function of sin x#plot8_1.jpeg#2915/CH8/EX8.1/plot8_1.jpeg#R##100658
+8#Appendix B#8.1#To plot the function of sin x#8_1.JPG#2915/CH8/EX8.1/8_1.JPG#R##100659
+6#Additional Topics#6.9#To find the result of basic operations on 2 given complex numbers#Ex6_9.sce#2915/CH6/EX6.9/Ex6_9.sce#S##100661
+6#Additional Topics#6.4#To solve the given equation#Ex6_4.sce#2915/CH6/EX6.4/Ex6_4.sce#S##100738
+6#Additional Topics#6.3#To solve the given equation#Ex6_3.sce#2915/CH6/EX6.3/Ex6_3.sce#S##100737
+6#Additional Topics#6.19#To express an equation in polar coordinates#Ex6_19.sce#2915/CH6/EX6.19/Ex6_19.sce#S##100669
+6#Additional Topics#6.17#To express an equation in polar coordinates#Ex6_17.sce#2915/CH6/EX6.17/Ex6_17.sce#S##100668
+6#Additional Topics#6.16#To convert from cartesian to polar coordinates#Ex6_16.sce#2915/CH6/EX6.16/Ex6_16.sce#S##100667
+6#Additional Topics#6.15#To convert from polar to cartesian coordinates#Ex6_15.sce#2915/CH6/EX6.15/Ex6_15.sce#S##100666
+6#Additional Topics#6.13#To determine the cube roots of i#Ex6_13.sce#2915/CH6/EX6.13/Ex6_13.sce#S##100665
+6#Additional Topics#6.12#To find higher powers of complex number using demoivre theorem#Ex6_12.sce#2915/CH6/EX6.12/Ex6_12.sce#S##100664
+6#Additional Topics#6.11#To determine product and ratio of complex numbers using formula#Ex6_11.sce#2915/CH6/EX6.11/Ex6_11.sce#S##100663
+6#Additional Topics#6.10#To represent given complex number in trigonometric form#Ex6_10.sce#2915/CH6/EX6.10/Ex6_10.sce#S##100662
+5#Graphing and inverse functions#5.9#To find the amplitude and period of given function#Ex5_9.sce#2915/CH5/EX5.9/Ex5_9.sce#S##100721
+5#Graphing and inverse functions#5.9#To find the amplitude and period of given function#plot5_9.jpeg#2915/CH5/EX5.9/plot5_9.jpeg#R##100700
+5#Graphing and inverse functions#5.9#To find the amplitude and period of given function#5_9.JPG#2915/CH5/EX5.9/5_9.JPG#R##100701
+5#Graphing and inverse functions#5.8#To find the amplitude and period of given function#Ex5_8.sce#2915/CH5/EX5.8/Ex5_8.sce#S##100720
+5#Graphing and inverse functions#5.8#To find the amplitude and period of given function#plot5_8.jpeg#2915/CH5/EX5.8/plot5_8.jpeg#R##100703
+5#Graphing and inverse functions#5.8#To find the amplitude and period of given function#5_8.JPG#2915/CH5/EX5.8/5_8.JPG#R##100704
+5#Graphing and inverse functions#5.7#To find amplitude and period of given composite function #Ex5_7.sce#2915/CH5/EX5.7/Ex5_7.sce#S##100719
+5#Graphing and inverse functions#5.7#To find amplitude and period of given composite function #plot5_7.jpeg#2915/CH5/EX5.7/plot5_7.jpeg#R##100697
+5#Graphing and inverse functions#5.7#To find amplitude and period of given composite function #5_7.JPG#2915/CH5/EX5.7/5_7.JPG#R##100698
+5#Graphing and inverse functions#5.6#To determine the amplitude and period of given function#Ex5_6.sce#2915/CH5/EX5.6/Ex5_6.sce#S##100718
+5#Graphing and inverse functions#5.6#To determine the amplitude and period of given function#plot5_6.jpeg#2915/CH5/EX5.6/plot5_6.jpeg#R##100694
+5#Graphing and inverse functions#5.6#To determine the amplitude and period of given function#5_6.JPG#2915/CH5/EX5.6/5_6.JPG#R##100695
+5#Graphing and inverse functions#5.5#To determine the period of 2 given cosine functions#Ex5_5.sce#2915/CH5/EX5.5/Ex5_5.sce#S##100717
+5#Graphing and inverse functions#5.5#To determine the period of 2 given cosine functions#plot5_5.jpeg#2915/CH5/EX5.5/plot5_5.jpeg#R##100691
+5#Graphing and inverse functions#5.5#To determine the period of 2 given cosine functions#5_5.JPG#2915/CH5/EX5.5/5_5.JPG#R##100692
+5#Graphing and inverse functions#5.4#To determine the period of given sinusoidal function#Ex5_4.sce#2915/CH5/EX5.4/Ex5_4.sce#S##100716
+5#Graphing and inverse functions#5.4#To determine the period of given sinusoidal function#plot5_4.jpeg#2915/CH5/EX5.4/plot5_4.jpeg#R##100688
+5#Graphing and inverse functions#5.4#To determine the period of given sinusoidal function#5_4.JPG#2915/CH5/EX5.4/5_4.JPG#R##100689
+5#Graphing and inverse functions#5.2#To sketch the graph of given function of in given interval#Ex5_2.sce#2915/CH5/EX5.2/Ex5_2.sce#S##100715
+5#Graphing and inverse functions#5.2#To sketch the graph of given function of in given interval#plot5_2.jpeg#2915/CH5/EX5.2/plot5_2.jpeg#R##100685
+5#Graphing and inverse functions#5.2#To sketch the graph of given function of in given interval#5_2.JPG#2915/CH5/EX5.2/5_2.JPG#R##100686
+5#Graphing and inverse functions#5.19#To determine exact value of given expression involving inverse trigonometric functions#Ex5_19.sce#2915/CH5/EX5.19/Ex5_19.sce#S##100731
+5#Graphing and inverse functions#5.18#To determine inverse tan function of a given value#Ex5_18.sce#2915/CH5/EX5.18/Ex5_18.sce#S##100730
+5#Graphing and inverse functions#5.17#To determine inverse tan function of a given value#Ex5_17.sce#2915/CH5/EX5.17/Ex5_17.sce#S##100729
+5#Graphing and inverse functions#5.16#To determine inverse cosine function of a given value#Ex5_16.sce#2915/CH5/EX5.16/Ex5_16.sce#S##100728
+5#Graphing and inverse functions#5.15#To determine inverse cosine function of a given value#Ex5_15.sce#2915/CH5/EX5.15/Ex5_15.sce#S##100727
+5#Graphing and inverse functions#5.14#To determine inverse sine function of a given value#Ex5_14.sce#2915/CH5/EX5.14/Ex5_14.sce#S##100726
+5#Graphing and inverse functions#5.13#To determine inverse sine function of a given value#Ex5_13.sce#2915/CH5/EX5.13/Ex5_13.sce#S##100725
+5#Graphing and inverse functions#5.12#To find the amplitude phase shift and period of given function#Ex5_12.sce#2915/CH5/EX5.12/Ex5_12.sce#S##100724
+5#Graphing and inverse functions#5.12#To find the amplitude phase shift and period of given function#plot5_12.jpeg#2915/CH5/EX5.12/plot5_12.jpeg#R##100712
+5#Graphing and inverse functions#5.12#To find the amplitude phase shift and period of given function#5_12.JPG#2915/CH5/EX5.12/5_12.JPG#R##100713
+5#Graphing and inverse functions#5.11#To find the amplitude phase shift and period of given function#Ex5_11.sce#2915/CH5/EX5.11/Ex5_11.sce#S##100723
+5#Graphing and inverse functions#5.11#To find the amplitude phase shift and period of given function#plot5_11.jpeg#2915/CH5/EX5.11/plot5_11.jpeg#R##100709
+5#Graphing and inverse functions#5.11#To find the amplitude phase shift and period of given function#5_11.JPG#2915/CH5/EX5.11/5_11.JPG#R##100710
+5#Graphing and inverse functions#5.10#To find the period of given function#Ex5_10.sce#2915/CH5/EX5.10/Ex5_10.sce#S##100722
+5#Graphing and inverse functions#5.10#To find the period of given function#plot5_10.jpeg#2915/CH5/EX5.10/plot5_10.jpeg#R##100706
+5#Graphing and inverse functions#5.10#To find the period of given function#5_10.JPG#2915/CH5/EX5.10/5_10.JPG#R##100707
+5#Graphing and inverse functions#5.1#To sketch the graph of minus sinx in a given interval#Ex5_1.sce#2915/CH5/EX5.1/Ex5_1.sce#S##100714
+5#Graphing and inverse functions#5.1#To sketch the graph of minus sinx in a given interval#plot5_1.jpeg#2915/CH5/EX5.1/plot5_1.jpeg#R##100682
+5#Graphing and inverse functions#5.1#To sketch the graph of minus sinx in a given interval#5_1.JPG#2915/CH5/EX5.1/5_1.JPG#R##100683
+4#Radian Measure#4.9#To determine area of sector of a circle#Ex4_9.sce#2915/CH4/EX4.9/Ex4_9.sce#S##99578
+4#Radian Measure#4.8#To find the area of sector of circle#Ex4_8.sce#2915/CH4/EX4.8/Ex4_8.sce#S##99577
+4#Radian Measure#4.7#To determine the length of the belt around the pulleys#Ex4_7.sce#2915/CH4/EX4.7/Ex4_7.sce#S##99576
+4#Radian Measure#4.7#To determine the length of the belt around the pulleys#4_7.JPG#2915/CH4/EX4.7/4_7.JPG#R##99588
+4#Radian Measure#4.6#To determine the length of the rope#Ex4_6.sce#2915/CH4/EX4.6/Ex4_6.sce#S##99575
+4#Radian Measure#4.6#To determine the length of the rope#4_6.JPG#2915/CH4/EX4.6/4_6.JPG#R##99587
+4#Radian Measure#4.5#To determine angle in radians and degrees#Ex4_5.sce#2915/CH4/EX4.5/Ex4_5.sce#S##99574
+4#Radian Measure#4.4#To determine length of the arc intercepted#Ex4_4.sce#2915/CH4/EX4.4/Ex4_4.sce#S##99573
+4#Radian Measure#4.3#To determine length of the intercepted arc#Ex4_3.sce#2915/CH4/EX4.3/Ex4_3.sce#S##99572
+4#Radian Measure#4.2#To convert a radian measure to degree#Ex4_2.sce#2915/CH4/EX4.2/Ex4_2.sce#S##99571
+4#Radian Measure#4.17#To find the angular speed of larger gear interlocked with smaller gear#Ex4_17.sce#2915/CH4/EX4.17/Ex4_17.sce#S##99586
+4#Radian Measure#4.17#To find the angular speed of larger gear interlocked with smaller gear#4_17.JPG#2915/CH4/EX4.17/4_17.JPG#R##99592
+4#Radian Measure#4.16#To find the central angle swept by a moving object#Ex4_16.sce#2915/CH4/EX4.16/Ex4_16.sce#S##99585
+4#Radian Measure#4.15#To find linear and angular speed of a moving object#Ex4_15.sce#2915/CH4/EX4.15/Ex4_15.sce#S##99584
+4#Radian Measure#4.14#To find linear and angular speed of a moving object#Ex4_14.sce#2915/CH4/EX4.14/Ex4_14.sce#S##99583
+4#Radian Measure#4.13#To determine area of intersection of 2 circles#Ex4_13.sce#2915/CH4/EX4.13/Ex4_13.sce#S##99582
+4#Radian Measure#4.13#To determine area of intersection of 2 circles#4_13.JPG#2915/CH4/EX4.13/4_13.JPG#R##99591
+4#Radian Measure#4.12#To determine area of segment formed by a chord in circle#Ex4_12.sce#2915/CH4/EX4.12/Ex4_12.sce#S##99581
+4#Radian Measure#4.12#To determine area of segment formed by a chord in circle#4_12.JPG#2915/CH4/EX4.12/4_12.JPG#R##99590
+4#Radian Measure#4.11#To determine area insude belt pulley system#Ex4_11.sce#2915/CH4/EX4.11/Ex4_11.sce#S##99580
+4#Radian Measure#4.11#To determine area insude belt pulley system#4_11.JPG#2915/CH4/EX4.11/4_11.JPG#R##99589
+4#Radian Measure#4.10#To determine area of sector of circle#Ex4_10.sce#2915/CH4/EX4.10/Ex4_10.sce#S##99579
+4#Radian Measure#4.1#To convert a degree measure to radians#Ex4_1.sce#2915/CH4/EX4.1/Ex4_1.sce#S##99570
+3#Identities#3.8#To determine values of functions of sum of 2 angles when functions of 2 angles are given#Ex3_8.sce#2915/CH3/EX3.8/Ex3_8.sce#S##100660
+2#General Triangles#2.8#To solve the triangle when 2 sides and opposite angle is given#Ex2_8.sce#2915/CH2/EX2.8/Ex2_8.sce#S##99552
+2#General Triangles#2.7#To determine solution of a triangle when 3 sides are given#Ex2_7.sce#2915/CH2/EX2.7/Ex2_7.sce#S##99550
+2#General Triangles#2.7#To determine solution of a triangle when 3 sides are given#2_7.JPG#2915/CH2/EX2.7/2_7.JPG#R##99551
+2#General Triangles#2.6#To solve the triangle when 3 sides are given#Ex2_6.sce#2915/CH2/EX2.6/Ex2_6.sce#S##99548
+2#General Triangles#2.6#To solve the triangle when 3 sides are given#2_6.JPG#2915/CH2/EX2.6/2_6.JPG#R##99549
+2#General Triangles#2.5#To solve the triangle when 2 sides and angle between them is given#Ex2_5.sce#2915/CH2/EX2.5/Ex2_5.sce#S##99546
+2#General Triangles#2.5#To solve the triangle when 2 sides and angle between them is given#2_5.JPG#2915/CH2/EX2.5/2_5.JPG#R##99547
+2#General Triangles#2.4#To solve the triangle when 2 sides and angle between them is given#Ex2_4.sce#2915/CH2/EX2.4/Ex2_4.sce#S##99544
+2#General Triangles#2.4#To solve the triangle when 2 sides and angle between them is given#2_4.JPG#2915/CH2/EX2.4/2_4.JPG#R##99545
+2#General Triangles#2.3#To solve the triangle when 2 sides and opposite angle is given#Ex2_3.sce#2915/CH2/EX2.3/Ex2_3.sce#S##99543
+2#General Triangles#2.2#To solve the triangle when 2 sides and one opposite angle is given#Ex2_2.sce#2915/CH2/EX2.2/Ex2_2.sce#S##99541
+2#General Triangles#2.2#To solve the triangle when 2 sides and one opposite angle is given#2_2.JPG#2915/CH2/EX2.2/2_2.JPG#R##99542
+2#General Triangles#2.19#To determine radius of inscribed circle ABC#Ex2_19.sce#2915/CH2/EX2.19/Ex2_19.sce#S##99568
+2#General Triangles#2.19#To determine radius of inscribed circle ABC#2_19.JPG#2915/CH2/EX2.19/2_19.JPG#R##99569
+2#General Triangles#2.18#To find the radius of circumscribed circle for triangle ABC#Ex2_18.sce#2915/CH2/EX2.18/Ex2_18.sce#S##99566
+2#General Triangles#2.18#To find the radius of circumscribed circle for triangle ABC#2_18.JPG#2915/CH2/EX2.18/2_18.JPG#R##99567
+2#General Triangles#2.17#To find radius of circumscribed circle for triangle ABC#Ex2_17.sce#2915/CH2/EX2.17/Ex2_17.sce#S##99564
+2#General Triangles#2.17#To find radius of circumscribed circle for triangle ABC#2_17.JPG#2915/CH2/EX2.17/2_17.JPG#R##99565
+2#General Triangles#2.16#To determine area of triangle when 3 sides are given#Ex2_16.sce#2915/CH2/EX2.16/Ex2_16.sce#S##99563
+2#General Triangles#2.15#To determine area of triangle when 3 sides are given#Ex2_15.sce#2915/CH2/EX2.15/Ex2_15.sce#S##99561
+2#General Triangles#2.15#To determine area of triangle when 3 sides are given#2_15.JPG#2915/CH2/EX2.15/2_15.JPG#R##99562
+2#General Triangles#2.14#To determine area of triangle when 3 angles and a side is given#Ex2_14.sce#2915/CH2/EX2.14/Ex2_14.sce#S##99559
+2#General Triangles#2.14#To determine area of triangle when 3 angles and a side is given#2_14.JPG#2915/CH2/EX2.14/2_14.JPG#R##99560
+2#General Triangles#2.13#To determine area of triangle when 2 sides and an angle is given#Ex2_13.sce#2915/CH2/EX2.13/Ex2_13.sce#S##99557
+2#General Triangles#2.13#To determine area of triangle when 2 sides and an angle is given#2_13.JPG#2915/CH2/EX2.13/2_13.JPG#R##99558
+2#General Triangles#2.12#To determine if a triangle can be formed with given dimension#Ex2_12.sce#2915/CH2/EX2.12/Ex2_12.sce#S##99556
+2#General Triangles#2.11#To check the solution of triangle using Mollweide equation#Ex2_11.sce#2915/CH2/EX2.11/Ex2_11.sce#S##99555
+2#General Triangles#2.10#To solve the triangle when 2 sides and included angle is given#Ex2_10.sce#2915/CH2/EX2.10/Ex2_10.sce#S##99553
+2#General Triangles#2.10#To solve the triangle when 2 sides and included angle is given#2_10.JPG#2915/CH2/EX2.10/2_10.JPG#R##99554
+2#General Triangles#2.1#To solve the triangle when one side and 2 angles are given#Ex2_1.sce#2915/CH2/EX2.1/Ex2_1.sce#S##99539
+2#General Triangles#2.1#To solve the triangle when one side and 2 angles are given#2_1.JPG#2915/CH2/EX2.1/2_1.JPG#R##99540
+1#Right Triangle Trigonometry#1.9#To convert given function into function of angle less than 45#Ex1_9.sce#2915/CH1/EX1.9/Ex1_9.sce#S##100494
+1#Right Triangle Trigonometry#1.9#To convert given function into function of angle less than 45#1_9.JPG#2915/CH1/EX1.9/1_9.JPG#R##99870
+1#Right Triangle Trigonometry#1.8#To find all trigonometric functions when sine functions is given#Ex1_8.sce#2915/CH1/EX1.8/Ex1_8.sce#S##100493
+1#Right Triangle Trigonometry#1.8#To find all trigonometric functions when sine functions is given#1_8.JPG#2915/CH1/EX1.8/1_8.JPG#R##99869
+1#Right Triangle Trigonometry#1.7#To find values of all trigonometric functions for 60 degree#Ex1_7.sce#2915/CH1/EX1.7/Ex1_7.sce#S##100492
+1#Right Triangle Trigonometry#1.7#To find values of all trigonometric functions for 60 degree#1_7.JPG#2915/CH1/EX1.7/1_7.JPG#R##99863
+1#Right Triangle Trigonometry#1.6#To find values of all trigonometric functions for 45 degree#Ex1_6.sce#2915/CH1/EX1.6/Ex1_6.sce#S##100491
+1#Right Triangle Trigonometry#1.6#To find values of all trigonometric functions for 45 degree#1_6.JPG#2915/CH1/EX1.6/1_6.JPG#R##99862
+1#Right Triangle Trigonometry#1.5#To find values of all trigonometric functions for angles A and B#Ex1_5.sce#2915/CH1/EX1.5/Ex1_5.sce#S##100490
+1#Right Triangle Trigonometry#1.5#To find values of all trigonometric functions for angles A and B#1_5.JPG#2915/CH1/EX1.5/1_5.JPG#R##99859
+1#Right Triangle Trigonometry#1.4#To determine height of the top of ladder touching the wall#Ex1_4.sce#2915/CH1/EX1.4/Ex1_4.sce#S##100489
+1#Right Triangle Trigonometry#1.4#To determine height of the top of ladder touching the wall#1_4.JPG#2915/CH1/EX1.4/1_4.JPG#R##99855
+1#Right Triangle Trigonometry#1.3#To determine length of unknown side in 3 given right triangles#Ex1_3.sce#2915/CH1/EX1.3/Ex1_3.sce#S##100488
+1#Right Triangle Trigonometry#1.3#To determine length of unknown side in 3 given right triangles#1_3.JPG#2915/CH1/EX1.3/1_3.JPG#R##99851
+1#Right Triangle Trigonometry#1.27#To find all the angles with a given sine function value#Ex1_27.sce#2915/CH1/EX1.27/Ex1_27.sce#S##100511
+1#Right Triangle Trigonometry#1.27#To find all the angles with a given sine function value#1_27.JPG#2915/CH1/EX1.27/1_27.JPG#R##99901
+1#Right Triangle Trigonometry#1.25#To find sin theta and tan theta when cos theta is given#Ex1_25.sce#2915/CH1/EX1.25/Ex1_25.sce#S##100510
+1#Right Triangle Trigonometry#1.25#To find sin theta and tan theta when cos theta is given#1_25.JPG#2915/CH1/EX1.25/1_25.JPG#R##99898
+1#Right Triangle Trigonometry#1.24#To determine reference angle and angle between 0 to 360 with same terminal side as given angle#Ex1_24.sce#2915/CH1/EX1.24/Ex1_24.sce#S##100509
+1#Right Triangle Trigonometry#1.24#To determine reference angle and angle between 0 to 360 with same terminal side as given angle#1_24.JPG#2915/CH1/EX1.24/1_24.JPG#R##99895
+1#Right Triangle Trigonometry#1.23#To find trigonometric ratios of 0 90 180 and 270 degrees#Ex1_23.sce#2915/CH1/EX1.23/Ex1_23.sce#S##100508
+1#Right Triangle Trigonometry#1.23#To find trigonometric ratios of 0 90 180 and 270 degrees#1_23.JPG#2915/CH1/EX1.23/1_23.JPG#R##100486
+1#Right Triangle Trigonometry#1.22#To find values of all trigonometric values of given angle of 330#Ex1_22.sce#2915/CH1/EX1.22/Ex1_22.sce#S##100507
+1#Right Triangle Trigonometry#1.22#To find values of all trigonometric values of given angle of 330#1_22.JPG#2915/CH1/EX1.22/1_22.JPG#R##99894
+1#Right Triangle Trigonometry#1.21#To find values of all trigonometric values of given angle of 225#Ex1_21.sce#2915/CH1/EX1.21/Ex1_21.sce#S##100506
+1#Right Triangle Trigonometry#1.21#To find values of all trigonometric values of given angle of 225#1_21.JPG#2915/CH1/EX1.21/1_21.JPG#R##99892
+1#Right Triangle Trigonometry#1.20#To find values of all trigonometric values of given angle of 120#Ex1_20.sce#2915/CH1/EX1.20/Ex1_20.sce#S##100505
+1#Right Triangle Trigonometry#1.20#To find values of all trigonometric values of given angle of 120#1_20.JPG#2915/CH1/EX1.20/1_20.JPG#R##99889
+1#Right Triangle Trigonometry#1.19#To solve the right triangle with given information#Ex1_19.sce#2915/CH1/EX1.19/Ex1_19.sce#S##100504
+1#Right Triangle Trigonometry#1.19#To solve the right triangle with given information#1_19.JPG#2915/CH1/EX1.19/1_19.JPG#R##99886
+1#Right Triangle Trigonometry#1.17#To determine the diameter of larger roller#Ex1_17.sce#2915/CH1/EX1.17/Ex1_17.sce#S##100503
+1#Right Triangle Trigonometry#1.17#To determine the diameter of larger roller#1_17.JPG#2915/CH1/EX1.17/1_17.JPG#R##100484
+1#Right Triangle Trigonometry#1.16#To determine the radius of sun#Ex1_16.sce#2915/CH1/EX1.16/Ex1_16.sce#S##100502
+1#Right Triangle Trigonometry#1.16#To determine the radius of sun#1_16.JPG#2915/CH1/EX1.16/1_16.JPG#R##100482
+1#Right Triangle Trigonometry#1.15#To find the distance from centre of earth to sun#Ex1_15.sce#2915/CH1/EX1.15/Ex1_15.sce#S##100501
+1#Right Triangle Trigonometry#1.15#To find the distance from centre of earth to sun#1_15.JPG#2915/CH1/EX1.15/1_15.JPG#R##99882
+1#Right Triangle Trigonometry#1.14#To estimate radius of earth when angle of depression is known#Ex1_14.sce#2915/CH1/EX1.14/Ex1_14.sce#S##100499
+1#Right Triangle Trigonometry#1.14#To estimate radius of earth when angle of depression is known#1_14.JPG#2915/CH1/EX1.14/1_14.JPG#R##99879
+1#Right Triangle Trigonometry#1.13#To find the horizontal distance from blimp to house#Ex1_13.sce#2915/CH1/EX1.13/Ex1_13.sce#S##100498
+1#Right Triangle Trigonometry#1.13#To find the horizontal distance from blimp to house#1_13.JPG#2915/CH1/EX1.13/1_13.JPG#R##99875
+1#Right Triangle Trigonometry#1.12#To find the height of mountain#Ex1_12.sce#2915/CH1/EX1.12/Ex1_12.sce#S##100497
+1#Right Triangle Trigonometry#1.12#To find the height of mountain#1_12.JPG#2915/CH1/EX1.12/1_12.JPG#R##99872
+1#Right Triangle Trigonometry#1.11#To find the height of the flagpole#Ex1_11.sce#2915/CH1/EX1.11/Ex1_11.sce#S##100496
+1#Right Triangle Trigonometry#1.11#To find the height of the flagpole#1_11.JPG#2915/CH1/EX1.11/1_11.JPG#R##99871
+1#Right Triangle Trigonometry#1.10#To find sine cosine and tangent functions for 75 degree#Ex1_10.sce#2915/CH1/EX1.10/Ex1_10.sce#S##100495
+1#Right Triangle Trigonometry#1.10#To find sine cosine and tangent functions for 75 degree#1_10.JPG#2915/CH1/EX1.10/1_10.JPG#R##100480
+1#Right Triangle Trigonometry#1.1#To determine unknown angle  in 3 given triangles#Ex1_1.sce#2915/CH1/EX1.1/Ex1_1.sce#S##100487
+1#Right Triangle Trigonometry#1.1#To determine unknown angle  in 3 given triangles#1_1.JPG#2915/CH1/EX1.1/1_1.JPG#R##99847

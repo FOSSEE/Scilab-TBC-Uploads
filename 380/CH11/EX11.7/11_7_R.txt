@@ -1,0 +1,8 @@
+ sub-transient current (in Amperes)=   
+ 
+    14238.479  
+ 
+ transient current (in Amperes)=   
+ 
+    10195.686  
+ 

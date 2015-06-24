@@ -1,0 +1,5 @@
+ 
+ Example 12.1
+ Fracture strength of 150 MN m^-2 is 1/500th of young’s modulus. 
+ Thus Griffiths criterion bridges the gap between the 
+ observed and ideal strengths of brittle material 

@@ -1,0 +1,8 @@
+**Sample Problem 4-6a**
+The angle of the piliots line of sight to the victim 48.014241 degrees
+
+**Sample Problem 4-6b**
+The velocity vector of the capsule near water in m/s is 
+    55.  - 98.994949  
+The magnitude of the velocity vector is 113.247517 m/s
+The angle made by the velocity vector with the x axis in degrees at the same time -60.944155 

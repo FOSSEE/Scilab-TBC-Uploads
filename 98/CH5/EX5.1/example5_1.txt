@@ -1,0 +1,7 @@
+Units generated per annum = 700800 kWh 
+
+Annual charges = 90080 kWh 
+
+Overall cost per kWh = Rs. 0.12854 
+
+

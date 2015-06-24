@@ -1,0 +1,4 @@
+ 
+ example 14.8   
+largest chang in load is 0.105p.u.MW=420MW
+df=(dff)(1-e^2.625000*t) 

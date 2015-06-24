@@ -1,0 +1,121 @@
+4#Acoustics and Ultrasonics#4.15.9#calculate average absorption coefficient and reverberation time#ex_4_15_9.sce#1928/CH4/EX4.15.9/ex_4_15_9.sce#S##74404
+4#Acoustics and Ultrasonics#4.15.8#calculate change in reverberation time#ex_4_15_8.sce#1928/CH4/EX4.15.8/ex_4_15_8.sce#S##74403
+4#Acoustics and Ultrasonics#4.15.7#calculate average absorption coefficient and total absorption#ex_4_15_7.sce#1928/CH4/EX4.15.7/ex_4_15_7.sce#S##74402
+4#Acoustics and Ultrasonics#4.15.6#calculate reverberation time for various case#ex_4_15_6.sce#1928/CH4/EX4.15.6/ex_4_15_6.sce#S##74401
+4#Acoustics and Ultrasonics#4.15.5#claculate average absorption coefficient and area of floor#ex_4_15_5.sce#1928/CH4/EX4.15.5/ex_4_15_5.sce#S##74400
+4#Acoustics and Ultrasonics#4.15.4#calculate average absorption coefficient#ex_4_15_4.sce#1928/CH4/EX4.15.4/ex_4_15_4.sce#S##74399
+4#Acoustics and Ultrasonics#4.15.3#clculate average sound absorption coefficient and reverberation time#ex_4_15_3.sce#1928/CH4/EX4.15.3/ex_4_15_3.sce#S##74398
+4#Acoustics and Ultrasonics#4.15.27#calculate Youngs modulus#ex_4_15_27.sce#1928/CH4/EX4.15.27/ex_4_15_27.sce#S##74427
+4#Acoustics and Ultrasonics#4.15.26#calculate natural frequency and change in thickness#ex_4_15_26.sce#1928/CH4/EX4.15.26/ex_4_15_26.sce#S##74426
+4#Acoustics and Ultrasonics#4.15.25#calculate average absorption coefficien and total absorption#ex_4_15_25.sce#1928/CH4/EX4.15.25/ex_4_15_25.sce#S##74425
+4#Acoustics and Ultrasonics#4.15.24#calculate natural frequency and change in thickness#ex_4_15_24.sce#1928/CH4/EX4.15.24/ex_4_15_24.sce#S##74424
+4#Acoustics and Ultrasonics#4.15.23#calculate length#ex_4_15_23.sce#1928/CH4/EX4.15.23/ex_4_15_23.sce#S##74423
+4#Acoustics and Ultrasonics#4.15.22#calculate frquency of vibration#ex_4_15_22.sce#1928/CH4/EX4.15.22/ex_4_15_22.sce#S##74422
+4#Acoustics and Ultrasonics#4.15.21#calculate echo time #ex_4_15_21.sce#1928/CH4/EX4.15.21/ex_4_15_21.sce#S##74421
+4#Acoustics and Ultrasonics#4.15.20#calculate distance at which defect has occurred#ex_4_15_20.sce#1928/CH4/EX4.15.20/ex_4_15_20.sce#S##74420
+4#Acoustics and Ultrasonics#4.15.2#calculate change in intensity level#ex_4_15_2.sce#1928/CH4/EX4.15.2/ex_4_15_2.sce#S##74259
+4#Acoustics and Ultrasonics#4.15.19#calculate thickness of crystal#ex_4_15_19.sce#1928/CH4/EX4.15.19/ex_4_15_19.sce#S##74419
+4#Acoustics and Ultrasonics#4.15.18#calculate real thickness #ex_4_15_18.sce#1928/CH4/EX4.15.18/ex_4_15_18.sce#S##74418
+4#Acoustics and Ultrasonics#4.15.17#calculate depth of sea bed and frequency#ex_4_15_17.sce#1928/CH4/EX4.15.17/ex_4_15_17.sce#S##74417
+4#Acoustics and Ultrasonics#4.15.16#calculate depth of sea bed#ex_4_15_16.sce#1928/CH4/EX4.15.16/ex_4_15_16.sce#S##74413
+4#Acoustics and Ultrasonics#4.15.15#calculate natural frequency and change in thickness#ex_4_15_15.sce#1928/CH4/EX4.15.15/ex_4_15_15.sce#S##74410
+4#Acoustics and Ultrasonics#4.15.14#calculate distance between two ships #ex_4_15_14.sce#1928/CH4/EX4.15.14/ex_4_15_14.sce#S##74409
+4#Acoustics and Ultrasonics#4.15.13#calculate thickness#ex_4_15_13.sce#1928/CH4/EX4.15.13/ex_4_15_13.sce#S##74408
+4#Acoustics and Ultrasonics#4.15.12#calculate thickness#ex_4_15_12.sce#1928/CH4/EX4.15.12/ex_4_15_12.sce#S##74407
+4#Acoustics and Ultrasonics#4.15.11#calculate natural frequency#ex_4_15_11.sce#1928/CH4/EX4.15.11/ex_4_15_11.sce#S##74406
+4#Acoustics and Ultrasonics#4.15.10#calculate depth of seabed and wavelength#ex_4_15_10.sce#1928/CH4/EX4.15.10/ex_4_15_10.sce#S##74405
+4#Acoustics and Ultrasonics#4.15.1#calculate Reverberation time#ex_4_15_1.sce#1928/CH4/EX4.15.1/ex_4_15_1.sce#S##74255
+4#Acoustics and Ultrasonics#4.12.1#calculate thickness#ex_4_12_1.sce#1928/CH4/EX4.12.1/ex_4_12_1.sce#S##74251
+4#Acoustics and Ultrasonics#4.11.1#calculate length#ex_4_11_1.sce#1928/CH4/EX4.11.1/ex_4_11_1.sce#S##74247
+3#Dielectric And Magnetic Materials#3.17.9#calculate magnetization of paramagnetic material#ex_3_17_9.sce#1928/CH3/EX3.17.9/ex_3_17_9.sce#S##74172
+3#Dielectric And Magnetic Materials#3.17.8#calculate Temperature#ex_3_17_8.sce#1928/CH3/EX3.17.8/ex_3_17_8.sce#S##74171
+3#Dielectric And Magnetic Materials#3.17.7#calculate relative permeability#ex_3_17_7.sce#1928/CH3/EX3.17.7/ex_3_17_7.sce#S##74170
+3#Dielectric And Magnetic Materials#3.17.6#calculate electric susceptibility#ex_3_17_6.sce#1928/CH3/EX3.17.6/ex_3_17_6.sce#S##74169
+3#Dielectric And Magnetic Materials#3.17.5#calculate electronic polarizability and radius of He atom#ex_3_17_5.sce#1928/CH3/EX3.17.5/ex_3_17_5.sce#S##74168
+3#Dielectric And Magnetic Materials#3.17.4#ratio of two capacitor#ex_3_17_4.sce#1928/CH3/EX3.17.4/ex_3_17_4.sce#S##74157
+3#Dielectric And Magnetic Materials#3.17.3#calculate relative permittivity#ex_3_17_3.sce#1928/CH3/EX3.17.3/ex_3_17_3.sce#S##74075
+3#Dielectric And Magnetic Materials#3.17.24#calculate intensity magnetization and flux density#ex_3_17_24.sce#1928/CH3/EX3.17.24/ex_3_17_24.sce#S##81781
+3#Dielectric And Magnetic Materials#3.17.23#calculate Number of AmpereTurns#ex_3_17_23.sce#1928/CH3/EX3.17.23/ex_3_17_23.sce#S##74188
+3#Dielectric And Magnetic Materials#3.17.22#calculate various parameter of magnetic field#ex_3_17_22.sce#1928/CH3/EX3.17.22/ex_3_17_22.sce#S##74187
+3#Dielectric And Magnetic Materials#3.17.21#calculate Reluctance and current#ex_3_17_21.sce#1928/CH3/EX3.17.21/ex_3_17_21.sce#S##74186
+3#Dielectric And Magnetic Materials#3.17.20#calculate current#ex_3_17_20.sce#1928/CH3/EX3.17.20/ex_3_17_20.sce#S##74185
+3#Dielectric And Magnetic Materials#3.17.2#find capacitance of capacitor#ex_3_17_2.sce#1928/CH3/EX3.17.2/ex_3_17_2.sce#S##74074
+3#Dielectric And Magnetic Materials#3.17.19#calculate reluctance and mmf#ex_3_17_19.sce#1928/CH3/EX3.17.19/ex_3_17_19.sce#S##74184
+3#Dielectric And Magnetic Materials#3.17.18#calculate current required#ex_3_17_18.sce#1928/CH3/EX3.17.18/ex_3_17_18.sce#S##74183
+3#Dielectric And Magnetic Materials#3.17.17#calculate Hysteresis power loss#ex_3_17_17.sce#1928/CH3/EX3.17.17/ex_3_17_17.sce#S##74182
+3#Dielectric And Magnetic Materials#3.17.16#calculate loss of energy per hour#ex_3_17_16.sce#1928/CH3/EX3.17.16/ex_3_17_16.sce#S##74181
+3#Dielectric And Magnetic Materials#3.17.15#calculate various parameter of magnetic field#ex_3_17_15.sce#1928/CH3/EX3.17.15/ex_3_17_15.sce#S##74180
+3#Dielectric And Magnetic Materials#3.17.14#calculate Loss of energy#ex_3_17_14.sce#1928/CH3/EX3.17.14/ex_3_17_14.sce#S##74177
+3#Dielectric And Magnetic Materials#3.17.13#calculate 1 magnetic intensity 2 magnetization 3 Relative Permeability#ex_3_17_13.sce#1928/CH3/EX3.17.13/ex_3_17_13.sce#S##74176
+3#Dielectric And Magnetic Materials#3.17.12#calculate Current required#ex_3_17_12.sce#1928/CH3/EX3.17.12/ex_3_17_12.sce#S##74175
+3#Dielectric And Magnetic Materials#3.17.11#calculate current required#ex_3_17_11.sce#1928/CH3/EX3.17.11/ex_3_17_11.sce#S##74174
+3#Dielectric And Magnetic Materials#3.17.10#calculate Horizontal component of magnetic field#ex_3_17_10.sce#1928/CH3/EX3.17.10/ex_3_17_10.sce#S##74173
+3#Dielectric And Magnetic Materials#3.17.1#calculate resultant voltage#ex_3_17_1.sce#1928/CH3/EX3.17.1/ex_3_17_1.sce#S##74073
+2#Semiconductor Physics#2.24.1#calculate fermi level#ex2_24_1.sce#1928/CH2/EX2.24.1/ex2_24_1.sce#S##74664
+2#Semiconductor Physics#2.23.7#calculate Hall voltage#ex2_23_7.sce#1928/CH2/EX2.23.7/ex2_23_7.sce#S##74663
+2#Semiconductor Physics#2.23.6#calculate density and mobility#ex2_23_6.sce#1928/CH2/EX2.23.6/ex2_23_6.sce#S##81780
+2#Semiconductor Physics#2.23.5#calculate hall voltage hall coefficient and hall angle#ex2_23_5.sce#1928/CH2/EX2.23.5/ex2_23_5.sce#S##74661
+2#Semiconductor Physics#2.23.4#calculate Resistivity of P type silicon#ex2_23_4.sce#1928/CH2/EX2.23.4/ex2_23_4.sce#S##74660
+2#Semiconductor Physics#2.23.3#calculate Hall voltage#ex2_23_3.sce#1928/CH2/EX2.23.3/ex2_23_3.sce#S##74659
+2#Semiconductor Physics#2.23.2#calculate Hall voltage#ex2_23_2.sce#1928/CH2/EX2.23.2/ex2_23_2.sce#S##74658
+2#Semiconductor Physics#2.23.1#calculate Potential barrier for Ge#ex2_23_1.sce#1928/CH2/EX2.23.1/ex2_23_1.sce#S##74657
+2#Semiconductor Physics#2.22.4#calculate energy for different probability#ex2_22_4.sce#1928/CH2/EX2.22.4/ex2_22_4.sce#S##74656
+2#Semiconductor Physics#2.22.3#calculate probability of an electron#ex2_22_3.sce#1928/CH2/EX2.22.3/ex2_22_3.sce#S##74655
+2#Semiconductor Physics#2.22.2#calculate probability of an electron#ex2_22_2.sce#1928/CH2/EX2.22.2/ex2_22_2.sce#S##74654
+2#Semiconductor Physics#2.22.1#calculate probability of an electron#ex2_22_1.sce#1928/CH2/EX2.22.1/ex2_22_1.sce#S##74653
+2#Semiconductor Physics#2.21.7#calculate hole concentration and mobility#ex2_21_7.sce#1928/CH2/EX2.21.7/ex2_21_7.sce#S##74652
+2#Semiconductor Physics#2.21.6#calculate conductivity#ex2_21_6.sce#1928/CH2/EX2.21.6/ex2_21_6.sce#S##74651
+2#Semiconductor Physics#2.21.5#calculate Ratio between conductivity#ex2_21_5.sce#1928/CH2/EX2.21.5/ex2_21_5.sce#S##74650
+2#Semiconductor Physics#2.21.3#calculate Resistivity of Ge#ex2_21_3.sce#1928/CH2/EX2.21.3/ex2_21_3.sce#S##74649
+2#Semiconductor Physics#2.21.2#calculate Resistivity of Cu#ex2_21_2.sce#1928/CH2/EX2.21.2/ex2_21_2.sce#S##74648
+2#Semiconductor Physics#2.21.1#calculate mobility of electron#ex2_21_1.sce#1928/CH2/EX2.21.1/ex2_21_1.sce#S##74647
+1#Crystallography#1.6.4#calculate interplanar spacing#ex1_6_4.sce#1928/CH1/EX1.6.4/ex1_6_4.sce#S##77647
+1#Crystallography#1.6.2#calculate miller indices of plane#ex1_6_2.sce#1928/CH1/EX1.6.2/ex1_6_2.sce#S##77700
+1#Crystallography#1.5.6#calculate critical radius ratio for ligancy #ex1_5_6.sce#1928/CH1/EX1.5.6/ex1_5_6.sce#S##77707
+1#Crystallography#1.5.5#calculate critical radius ratio for ligancy 8#ex1_5_5.sce#1928/CH1/EX1.5.5/ex1_5_5.sce#S##77706
+1#Crystallography#1.5.4#calculate critical radius ratio for ligancy 4#ex1_5_4.sce#1928/CH1/EX1.5.4/ex1_5_4.sce#S##77705
+1#Crystallography#1.5.3#calculate critical radius ratio for octohedral#ex1_5_3.sce#1928/CH1/EX1.5.3/ex1_5_3.sce#S##77704
+1#Crystallography#1.5.2#calculate critical radius ratio for ligancy six#ex1_5_2.sce#1928/CH1/EX1.5.2/ex1_5_2.sce#S##77703
+1#Crystallography#1.5.1#calcukate critical radius ratio of ligancy three#ex1_5_1.sce#1928/CH1/EX1.5.1/ex1_5_1.sce#S##77702
+1#Crystallography#1.3.7#calculate no of unit cell#ex1_3_7.sce#1928/CH1/EX1.3.7/ex1_3_7.sce#S##77508
+1#Crystallography#1.3.6#calculate no of atoms per meter cube#ex1_3_6.sce#1928/CH1/EX1.3.6/ex1_3_6.sce#S##77507
+1#Crystallography#1.3.5#calculate no of unit cell#ex1_3_5.sce#1928/CH1/EX1.3.5/ex1_3_5.sce#S##77506
+1#Crystallography#1.3.4#calculate APF#ex1_3_4.sce#1928/CH1/EX1.3.4/ex1_3_4.sce#S##77505
+1#Crystallography#1.3.3#calculate density#ex1_3_3.sce#1928/CH1/EX1.3.3/ex1_3_3.sce#S##77504
+1#Crystallography#1.3.2#calculate density#ex1_3_2.sce#1928/CH1/EX1.3.2/ex1_3_2.sce#S##77503
+1#Crystallography#1.3.1#calculate Unit cell dimension#ex1_3_1.sce#1928/CH1/EX1.3.1/ex1_3_1.sce#S##77502
+1#Crystallography#1.16.4#calculate no of frankel defects #ex1_16_4.sce#1928/CH1/EX1.16.4/ex1_16_4.sce#S##77696
+1#Crystallography#1.16.3#calculate ratio of vacancies#ex1_16_3.sce#1928/CH1/EX1.16.3/ex1_16_3.sce#S##81782
+1#Crystallography#1.16.2#calculate ratio of vacancies to no of atom#ex1_16_2.sce#1928/CH1/EX1.16.2/ex1_16_2.sce#S##77694
+1#Crystallography#1.16.1#calculate ratio of vacancies#ex1_16_1.sce#1928/CH1/EX1.16.1/ex1_16_1.sce#S##77693
+1#Crystallography#1.15.9#calculate wavelength and glancing angle and highest order#ex1_15_9.sce#1928/CH1/EX1.15.9/ex1_15_9.sce#S##77677
+1#Crystallography#1.15.8#calculate glancing angle#ex1_15_8.sce#1928/CH1/EX1.15.8/ex1_15_8.sce#S##77675
+1#Crystallography#1.15.7#calculate lattice constant#ex1_15_7.sce#1928/CH1/EX1.15.7/ex1_15_7.sce#S##77699
+1#Crystallography#1.15.6#calculate cubic lattice structure#ex1_15_6.sce#1928/CH1/EX1.15.6/ex1_15_6.sce#S##77698
+1#Crystallography#1.15.5#find possible solution of planes#ex1_15_5.sce#1928/CH1/EX1.15.5/ex1_15_5.sce#S##77701
+1#Crystallography#1.15.4#calculate shortest wavelength and glancing angle#ex1_15_4.sce#1928/CH1/EX1.15.4/ex1_15_4.sce#S##77673
+1#Crystallography#1.15.3#calculate second order reflection angle#ex1_15_3.sce#1928/CH1/EX1.15.3/ex1_15_3.sce#S##77672
+1#Crystallography#1.15.2#calculate glancing angle#ex1_15_2.sce#1928/CH1/EX1.15.2/ex1_15_2.sce#S##77671
+1#Crystallography#1.15.12#calculate glancing angle#ex1_15_12.sce#1928/CH1/EX1.15.12/ex1_15_12.sce#S##77679
+1#Crystallography#1.15.11#calculate glancing angle#ex1_15_11.sce#1928/CH1/EX1.15.11/ex1_15_11.sce#S##77678
+1#Crystallography#1.15.10#calculate wavelength#ex1_15_10.sce#1928/CH1/EX1.15.10/ex1_15_10.sce#S##77697
+1#Crystallography#1.15.1#calculate glancing angle and highest order#ex1_15_1.sce#1928/CH1/EX1.15.1/ex1_15_1.sce#S##77669
+1#Crystallography#1.14.9#calculate density and diameter#ex1_14_9.sce#1928/CH1/EX1.14.9/ex1_14_9.sce#S##77657
+1#Crystallography#1.14.8#calculate radius#ex1_14_8.sce#1928/CH1/EX1.14.8/ex1_14_8.sce#S##77655
+1#Crystallography#1.14.7#calculate y and z intercepts#ex1_14_7.sce#1928/CH1/EX1.14.7/ex1_14_7.sce#S##77654
+1#Crystallography#1.14.6#calculate ratio of intercepts#ex1_14_6.sce#1928/CH1/EX1.14.6/ex1_14_6.sce#S##77653
+1#Crystallography#1.14.5#calculate miller indices#ex1_14_5.sce#1928/CH1/EX1.14.5/ex1_14_5.sce#S##77652
+1#Crystallography#1.14.4#calculate miller indices#ex1_14_4.sce#1928/CH1/EX1.14.4/ex1_14_4.sce#S##77651
+1#Crystallography#1.14.3#calculate Density of diamond#ex1_14_3.sce#1928/CH1/EX1.14.3/ex1_14_3.sce#S##77650
+1#Crystallography#1.14.21#calculate mass of one atom#ex1_14_21.sce#1928/CH1/EX1.14.21/ex1_14_21.sce#S##77668
+1#Crystallography#1.14.20#calculate Lattice constant and atomic radius#ex1_14_20.sce#1928/CH1/EX1.14.20/ex1_14_20.sce#S##77667
+1#Crystallography#1.14.2#calculate Lattice constant and diameter#ex1_14_2.sce#1928/CH1/EX1.14.2/ex1_14_2.sce#S##77649
+1#Crystallography#1.14.19#calculate wavlength#ex1_14_19.sce#1928/CH1/EX1.14.19/ex1_14_19.sce#S##77666
+1#Crystallography#1.14.17#calculate Lattice constant#ex1_14_17.sce#1928/CH1/EX1.14.17/ex1_14_17.sce#S##77664
+1#Crystallography#1.14.16#calculate Lattice constant and APF#ex1_14_16.sce#1928/CH1/EX1.14.16/ex1_14_16.sce#S##77663
+1#Crystallography#1.14.15#calculate Number of atom per unit cell and atomic radius#ex1_14_15.sce#1928/CH1/EX1.14.15/ex1_14_15.sce#S##77662
+1#Crystallography#1.14.13#calculate Lattice constant#ex1_14_13.sce#1928/CH1/EX1.14.13/ex1_14_13.sce#S##77661
+1#Crystallography#1.14.12#calculate Number of atom per unit cell#ex1_14_12.sce#1928/CH1/EX1.14.12/ex1_14_12.sce#S##77660
+1#Crystallography#1.14.11#calculate Y and Z intercept#ex1_14_11.sce#1928/CH1/EX1.14.11/ex1_14_11.sce#S##77659
+1#Crystallography#1.14.10#calculate free electron concentration#ex1_14_10.sce#1928/CH1/EX1.14.10/ex1_14_10.sce#S##77658
+1#Crystallography#1.14.1#calculate lattice constant#ex1_14_1.sce#1928/CH1/EX1.14.1/ex1_14_1.sce#S##77648

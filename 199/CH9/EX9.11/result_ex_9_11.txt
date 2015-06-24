@@ -1,0 +1,2 @@
+* Resistance R2_min is = 706.4 ohm 
+* Resistance R2_max is = 2025.1 ohm 

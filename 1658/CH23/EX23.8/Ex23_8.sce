@@ -1,0 +1,17 @@
+clc;
+VCC=16;
+B1=160;
+B2=200;
+RB=1.5*10**6;
+Vi=120*10**-3;
+VEB1=0.7;
+RC=100;
+IB1=(VCC-VEB1)/(RB+B1*B2*RC);
+IB2=B1*IB1;
+IC2=B2*IB2;
+IE1=IB2;
+IC=IE1+IC2;
+Vodc=VCC-IC*RC;
+VBE=0.7;
+Vidc=Vodc-VBE;
+disp('V',Vidc*1,"Vidc=");

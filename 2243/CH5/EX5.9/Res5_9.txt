@@ -1,0 +1,3 @@
+Change in theta :0.132 degrees.
+
+The concentration of 1 mg/cm^3 will be detected.

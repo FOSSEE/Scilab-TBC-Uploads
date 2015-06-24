@@ -1,0 +1,11 @@
+GMR of conductor = 0.389 cm 
+
+Self GMD = 6.24 cm 
+
+Mutual GMD = 50.76 cm 
+
+Inductance/conductor/m = 4.19*10^-7 H 
+
+ Inductance/conductor/km = 0.838 mH 
+
+

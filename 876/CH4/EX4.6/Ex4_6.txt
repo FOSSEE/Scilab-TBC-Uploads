@@ -1,0 +1,7 @@
+magnitude of Z4 arm(in ohm)=   
+ 
+    187.5  
+ 
+ phase angle of Z4 arm(in degree)=   
+ 
+  - 70. 

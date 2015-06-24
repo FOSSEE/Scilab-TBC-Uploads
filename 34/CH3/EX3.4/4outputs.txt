@@ -1,0 +1,50 @@
+ for level:   
+ 
+    1.  
+ 
+ Permitted ernergis (in J) :    
+ 
+    6.038D-18  
+ Permitted energies (in eV) :    
+ 
+    38.  
+ for level:   
+ 
+    2.  
+ 
+ Permitted ernergis (in J) :    
+ 
+    2.415D-17  
+ Permitted energies (in eV) :    
+ 
+    152.  
+ for level:   
+ 
+    3.  
+ 
+ Permitted ernergis (in J) :    
+ 
+    5.434D-17  
+ Permitted energies (in eV) :    
+ 
+    342.  
+ for level:   
+ 
+    4.  
+ 
+ Permitted ernergis (in J) :    
+ 
+    9.661D-17  
+ Permitted energies (in eV) :    
+ 
+    608.  
+ for level:   
+ 
+    5.  
+ 
+ Permitted ernergis (in J) :    
+ 
+    1.510D-16  
+ Permitted energies (in eV) :    
+ 
+    950.  

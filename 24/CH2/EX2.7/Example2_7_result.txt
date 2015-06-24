@@ -1,0 +1,10 @@
+**Sample Problem 2-7a**
+After 1.224490 sec, the ball will attain its maximum height
+
+**Sample Problem 2-7b**
+The maximum height reached by the baseball is 7.346939 m
+
+**Sample Problem 2-7c**
+At following times in sec, the ball will be at height 5m 
+    0.5324153  
+    1.9165643  

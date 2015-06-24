@@ -1,0 +1,5 @@
+ # PROBLEM 4 # 
+Standard formula used 
+ 1/2*m*v^2 = eV 
+
+ Maximum speed of electron is 6.915509e+07 m/sec.

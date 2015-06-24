@@ -1,0 +1,67 @@
+-->//(Power Screws) Example 6.5
+ 
+-->//Refer Fig.6.14 on page 199
+ 
+-->//Number of starts on the screw n
+ 
+-->n = 1
+ n  =
+ 
+    1.  
+ 
+-->//Nominal diameter of the screw d (mm)
+ 
+-->d = 80
+ d  =
+ 
+    80.  
+ 
+-->//Pitch of the screw p (mm)
+ 
+-->p = 10
+ p  =
+ 
+    10.  
+ 
+-->//Maximum axial force to be exerted by the screw W (kN)
+ 
+-->W = 10
+ W  =
+ 
+    10.  
+ 
+-->//Mean radius of the friction collar rm (mm)
+ 
+-->rm = 30
+ rm  =
+ 
+    30.  
+ 
+-->//Axial length of the nut L (mm)
+ 
+-->L = 40
+ L  =
+ 
+    40.  
+ 
+-->//Coefficient of friction at the threads and collar mu
+ 
+-->mu = 0.12
+ mu  =
+ 
+    0.12  
+ 
+-->//Mean diameter of the rim of the handwheel D (mm)
+ 
+-->D = 500
+ D  =
+ 
+    500.  
+ 
+
+Force exerted at the rim to drive the screw(P) = 388.909290 N
+
+Efficiency of the straightner(eta) = 16.369364 percent
+
+Bearing pressure on the threads in the nut(Sb) = 2.122066 N/mm2
+ 

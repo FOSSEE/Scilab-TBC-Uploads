@@ -1,0 +1,24 @@
+(a)Equivalent Rotor current(in A)=   
+ 
+    5.669941 - 0.3569549i  
+ 
+ (b)Stator current(in A)=   
+ 
+    5.8794709 - 6.0201051i  
+ 
+ (c)Power factor=   
+ 
+    0.6987011  
+ 
+ (d)Stator input(in watt)=   
+ 
+    4480.7586  
+ 
+ (e)Rotor input(in watt)=   
+ 
+    3873.0778  
+ 
+ (e)Efficiency(in%)=   
+ 
+    76.285177  
+ 

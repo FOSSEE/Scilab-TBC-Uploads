@@ -1,0 +1,13 @@
+  
+ (a)Number of turns in primary winding=   
+ 
+    600.  
+ 
+ Number of turns in secondary winding=   
+ 
+    400.  
+ 
+ (b)Cross section area of the core (in m^2)=   
+ 
+    0.0035393  
+ 

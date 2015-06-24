@@ -1,0 +1,2 @@
+ The noise power per unit bandwidth= 96.600000*10^-23 Watts/Hz
+ The total available noise power= 676.200000*10^-17 Watts

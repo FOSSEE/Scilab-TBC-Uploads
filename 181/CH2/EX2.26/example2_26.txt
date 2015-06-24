@@ -1,0 +1,3 @@
+(1)Dynamic resistance = 1.259e+000 ohm
+(2)Dynamic resistance = 1.461e+005 ohm
+ 

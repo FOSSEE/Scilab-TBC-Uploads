@@ -1,0 +1,8 @@
+ 
+ example 2.8   
+ 
+ the chronological load curve is plotted in fig 1   
+energy required required by the system in 24 hrs 
+ =50x5MWh+((100+50)/2)x4MWh +(100x9)MWh+(100+150)MWh+(150+80)MWh+(80+50)MWh 
+ =2060MWh
+daily load factor =2060/(150x24) =0.572222 

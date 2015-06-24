@@ -1,0 +1,123 @@
+8#Negative Conductance Micro Devices#8.14.1#Peak reverse recovery current#ex8_14_1.sce#2288/CH8/EX8.14.1/ex8_14_1.sce#S##78178
+8#Negative Conductance Micro Devices#8.13.1#The anode current #ex8_13_1.sce#2288/CH8/EX8.13.1/ex8_13_1.sce#S##83328
+7#Optoelectonic Devices#7.6.1#Component value#ex7_6_1.sce#2288/CH7/EX7.6.1/ex7_6_1.sce#S##78175
+7#Optoelectonic Devices#7.23.2#Photocurrent density#ex7_23_2.sce#2288/CH7/EX7.23.2/ex7_23_2.sce#S##78177
+7#Optoelectonic Devices#7.23.1#Open circuit voltage#ex7_23_1.sce#2288/CH7/EX7.23.1/ex7_23_1.sce#S##83327
+6#Field Effect Transistor#6.9.5#Transconductance and drain current#ex6_9_5.sce#2288/CH6/EX6.9.5/ex6_9_5.sce#S##78174
+6#Field Effect Transistor#6.9.4#Value of transconductance#ex6_9_4.sce#2288/CH6/EX6.9.4/ex6_9_4.sce#S##78173
+6#Field Effect Transistor#6.9.3#Drain current#ex6_9_3.sce#2288/CH6/EX6.9.3/ex6_9_3.sce#S##78172
+6#Field Effect Transistor#6.9.2#Value of VGS#ex6_9_2.sce#2288/CH6/EX6.9.2/ex6_9_2.sce#S##78171
+6#Field Effect Transistor#6.9.1#Pinch off voltage#ex6_9_1.sce#2288/CH6/EX6.9.1/ex6_9_1.sce#S##78170
+5#Bipolar Junction Transistors#5.9.2#Base current#ex5_9_2.sce#2288/CH5/EX5.9.2/ex5_9_2.sce#S##78151
+5#Bipolar Junction Transistors#5.9.1#Value of IC and VCB#ex5_9_1.sce#2288/CH5/EX5.9.1/ex5_9_1.sce#S##78150
+5#Bipolar Junction Transistors#5.14.9#Value of VBB#ex5_14_9.sce#2288/CH5/EX5.14.9/ex5_14_9.sce#S##78166
+5#Bipolar Junction Transistors#5.14.8#Region of operation and value of IB and IC#ex5_14_8.sce#2288/CH5/EX5.14.8/ex5_14_8.sce#S##78165
+5#Bipolar Junction Transistors#5.14.7#Value of IB IC and VCE#ex5_14_7.sce#2288/CH5/EX5.14.7/ex5_14_7.sce#S##78164
+5#Bipolar Junction Transistors#5.14.6#Region of operation of Si transistor#ex5_14_6.sce#2288/CH5/EX5.14.6/ex5_14_6.sce#S##78163
+5#Bipolar Junction Transistors#5.14.5#Value of IE#ex5_14_5.sce#2288/CH5/EX5.14.5/ex5_14_5.sce#S##78162
+5#Bipolar Junction Transistors#5.14.3#Base current#ex5_14_3.sce#2288/CH5/EX5.14.3/ex5_14_3.sce#S##94257
+5#Bipolar Junction Transistors#5.14.2#Value of IC and IB#ex5_14_2.sce#2288/CH5/EX5.14.2/ex5_14_2.sce#S##78160
+5#Bipolar Junction Transistors#5.14.12#Collector voltage#ex5_14_12.sce#2288/CH5/EX5.14.12/ex5_14_12.sce#S##78169
+5#Bipolar Junction Transistors#5.14.11#Value of RE#ex5_14_11.sce#2288/CH5/EX5.14.11/ex5_14_11.sce#S##78168
+5#Bipolar Junction Transistors#5.14.10#Minimum value of RC required#ex5_14_10.sce#2288/CH5/EX5.14.10/ex5_14_10.sce#S##78167
+5#Bipolar Junction Transistors#5.14.1#Value of alphaDC and emitter current#ex5_14_1.sce#2288/CH5/EX5.14.1/ex5_14_1.sce#S##78159
+5#Bipolar Junction Transistors#5.11.7#Value of alphaDC and bitaDC#ex5_11_7.sce#2288/CH5/EX5.11.7/ex5_11_7.sce#S##78158
+5#Bipolar Junction Transistors#5.11.6#Current gain#ex5_11_6.sce#2288/CH5/EX5.11.6/ex5_11_6.sce#S##78157
+5#Bipolar Junction Transistors#5.11.5#Collector current#ex5_11_5.sce#2288/CH5/EX5.11.5/ex5_11_5.sce#S##78156
+5#Bipolar Junction Transistors#5.11.4#Transistor current#ex5_11_4.sce#2288/CH5/EX5.11.4/ex5_11_4.sce#S##78155
+5#Bipolar Junction Transistors#5.11.3#Change in base current#ex5_11_3.sce#2288/CH5/EX5.11.3/ex5_11_3.sce#S##78154
+5#Bipolar Junction Transistors#5.11.1.a#base current and emitter current #ex5_11_1a.sce#2288/CH5/EX5.11.1.a/ex5_11_1a.sce#S##78153
+5#Bipolar Junction Transistors#5.11.1#Emitter current#ex5_11_1.sce#2288/CH5/EX5.11.1/ex5_11_1.sce#S##78152
+4#Junction Properties#4.16.9#Current in the junction#ex4_16_9.sce#2288/CH4/EX4.16.9/ex4_16_9.sce#S##78136
+4#Junction Properties#4.16.8#Width of the depletion layer#ex4_16_8.sce#2288/CH4/EX4.16.8/ex4_16_8.sce#S##78135
+4#Junction Properties#4.16.7#Barrier capacitance#ex4_16_7.sce#2288/CH4/EX4.16.7/ex4_16_7.sce#S##78134
+4#Junction Properties#4.16.6#Dynamic resistance#ex4_16_6.sce#2288/CH4/EX4.16.6/ex4_16_6.sce#S##78133
+4#Junction Properties#4.16.5#Leakage resistance#ex4_16_5.sce#2288/CH4/EX4.16.5/ex4_16_5.sce#S##78132
+4#Junction Properties#4.16.4#Anticipated factor#ex4_16_4.sce#2288/CH4/EX4.16.4/ex4_16_4.sce#S##78131
+4#Junction Properties#4.16.3#Forward current#ex4_16_3.sce#2288/CH4/EX4.16.3/ex4_16_3.sce#S##83326
+4#Junction Properties#4.16.22#Reverse saturation current#ex4_16_22.sce#2288/CH4/EX4.16.22/ex4_16_22.sce#S##78149
+4#Junction Properties#4.16.21#Voltage#ex4_16_21.sce#2288/CH4/EX4.16.21/ex4_16_21.sce#S##78148
+4#Junction Properties#4.16.20#Temperature of junction#ex4_16_20.sce#2288/CH4/EX4.16.20/ex4_16_20.sce#S##78147
+4#Junction Properties#4.16.2#Height of the potential energy barrier#ex4_16_2.sce#2288/CH4/EX4.16.2/ex4_16_2.sce#S##78129
+4#Junction Properties#4.16.19#Diameter#ex4_16_19.sce#2288/CH4/EX4.16.19/ex4_16_19.sce#S##78146
+4#Junction Properties#4.16.18#Barrier capacitance#ex4_16_18.sce#2288/CH4/EX4.16.18/ex4_16_18.sce#S##78145
+4#Junction Properties#4.16.17#Space charge capacitance#ex4_16_17.sce#2288/CH4/EX4.16.17/ex4_16_17.sce#S##78144
+4#Junction Properties#4.16.16#Dynamic resistance#ex4_16_16.sce#2288/CH4/EX4.16.16/ex4_16_16.sce#S##78143
+4#Junction Properties#4.16.15#Junction potential#ex4_16_15.sce#2288/CH4/EX4.16.15/ex4_16_15.sce#S##78142
+4#Junction Properties#4.16.14#AC resistance of a Ge diode#ex4_16_14.sce#2288/CH4/EX4.16.14/ex4_16_14.sce#S##78141
+4#Junction Properties#4.16.13#Q point#ex4_16_13.sce#2288/CH4/EX4.16.13/ex4_16_13.sce#S##78140
+4#Junction Properties#4.16.12#Diode dynamic resistance#ex4_16_12.sce#2288/CH4/EX4.16.12/ex4_16_12.sce#S##78139
+4#Junction Properties#4.16.11#Theoretical diode current#ex4_16_11.sce#2288/CH4/EX4.16.11/ex4_16_11.sce#S##78138
+4#Junction Properties#4.16.10#Forward biasing voltage#ex4_16_10.sce#2288/CH4/EX4.16.10/ex4_16_10.sce#S##78137
+4#Junction Properties#4.16.1#Contact difference of potential#ex4_16_1.sce#2288/CH4/EX4.16.1/ex4_16_1.sce#S##78128
+3#Excess Carriers In Semiconductors#3.21.9#Hole and electron concentration#ex3_21_9.sce#2288/CH3/EX3.21.9/ex3_21_9.sce#S##77948
+3#Excess Carriers In Semiconductors#3.21.8#Resistivity of intrinsic Ge#ex3_21_8.sce#2288/CH3/EX3.21.8/ex3_21_8.sce#S##77947
+3#Excess Carriers In Semiconductors#3.21.7#Electron transit time#ex3_21_7.sce#2288/CH3/EX3.21.7/ex3_21_7.sce#S##77946
+3#Excess Carriers In Semiconductors#3.21.6#Concentration of holes and electrons#ex3_21_6.sce#2288/CH3/EX3.21.6/ex3_21_6.sce#S##77945
+3#Excess Carriers In Semiconductors#3.21.5#Diffusion length#ex3_21_5.sce#2288/CH3/EX3.21.5/ex3_21_5.sce#S##94254
+3#Excess Carriers In Semiconductors#3.21.4#Diffusion coefficients of electrons and holes#ex3_21_4.sce#2288/CH3/EX3.21.4/ex3_21_4.sce#S##94253
+3#Excess Carriers In Semiconductors#3.21.3#Fermi level#ex3_21_3.sce#2288/CH3/EX3.21.3/ex3_21_3.sce#S##77942
+3#Excess Carriers In Semiconductors#3.21.24#Hole current#ex3_21_24.sce#2288/CH3/EX3.21.24/ex3_21_24.sce#S##94256
+3#Excess Carriers In Semiconductors#3.21.23#Total energy absorbed by sample#ex3_21_23.sce#2288/CH3/EX3.21.23/ex3_21_23.sce#S##78126
+3#Excess Carriers In Semiconductors#3.21.22#Band gap#ex3_21_22.sce#2288/CH3/EX3.21.22/ex3_21_22.sce#S##78125
+3#Excess Carriers In Semiconductors#3.21.21#Collector current density#ex3_21_21.sce#2288/CH3/EX3.21.21/ex3_21_21.sce#S##78124
+3#Excess Carriers In Semiconductors#3.21.20#Minority carrier density#ex3_21_20.sce#2288/CH3/EX3.21.20/ex3_21_20.sce#S##77959
+3#Excess Carriers In Semiconductors#3.21.19#Depletion width#ex3_21_19.sce#2288/CH3/EX3.21.19/ex3_21_19.sce#S##77958
+3#Excess Carriers In Semiconductors#3.21.18#Resistance of the bar#ex3_21_18.sce#2288/CH3/EX3.21.18/ex3_21_18.sce#S##77957
+3#Excess Carriers In Semiconductors#3.21.17#Current density in Si#ex3_21_17.sce#2288/CH3/EX3.21.17/ex3_21_17.sce#S##77956
+3#Excess Carriers In Semiconductors#3.21.16#Energy band gap of semiconductor material used#ex3_21_16.sce#2288/CH3/EX3.21.16/ex3_21_16.sce#S##77955
+3#Excess Carriers In Semiconductors#3.21.15#Hole and electron diffusion current#ex3_21_15.sce#2288/CH3/EX3.21.15/ex3_21_15.sce#S##83325
+3#Excess Carriers In Semiconductors#3.21.14#Mobility of minority charge carrier#ex3_21_14.sce#2288/CH3/EX3.21.14/ex3_21_14.sce#S##77953
+3#Excess Carriers In Semiconductors#3.21.13#Generation rate due to irradiation#ex3_21_13.sce#2288/CH3/EX3.21.13/ex3_21_13.sce#S##77952
+3#Excess Carriers In Semiconductors#3.21.12#Carrier concentration#ex3_21_12.sce#2288/CH3/EX3.21.12/ex3_21_12.sce#S##77951
+3#Excess Carriers In Semiconductors#3.21.11#Equillibrium electron and hole densities#ex3_21_11.sce#2288/CH3/EX3.21.11/ex3_21_11.sce#S##83324
+3#Excess Carriers In Semiconductors#3.21.10#Ratio of donor atoms to Si atom#ex3_21_10.sce#2288/CH3/EX3.21.10/ex3_21_10.sce#S##94255
+3#Excess Carriers In Semiconductors#3.21.1#Hole concentration at equilibrium#ex3_21_1.sce#2288/CH3/EX3.21.1/ex3_21_1.sce#S##94252
+2#Energy Bands And Charge Carriers in Semiconductor#2.6.2#Wavelength#ex2_6_2.sce#2288/CH2/EX2.6.2/ex2_6_2.sce#S##77827
+2#Energy Bands And Charge Carriers in Semiconductor#2.6.1#Energy gap#ex2_6_1.sce#2288/CH2/EX2.6.1/ex2_6_1.sce#S##94242
+2#Energy Bands And Charge Carriers in Semiconductor#2.24.6#Quasi Fermi energy levels#ex2_24_6.sce#2288/CH2/EX2.24.6/ex2_24_6.sce#S##77856
+2#Energy Bands And Charge Carriers in Semiconductor#2.24.5#Minimum donor concentration#ex2_24_5.sce#2288/CH2/EX2.24.5/ex2_24_5.sce#S##77855
+2#Energy Bands And Charge Carriers in Semiconductor#2.24.4#Thermal equilibrium hole concentration#ex2_24_4.sce#2288/CH2/EX2.24.4/ex2_24_4.sce#S##77854
+2#Energy Bands And Charge Carriers in Semiconductor#2.24.3#Temperature#ex2_24_3.sce#2288/CH2/EX2.24.3/ex2_24_3.sce#S##94251
+2#Energy Bands And Charge Carriers in Semiconductor#2.24.2#Relaxation time and resistivity of conductor#ex2_24_2.sce#2288/CH2/EX2.24.2/ex2_24_2.sce#S##77852
+2#Energy Bands And Charge Carriers in Semiconductor#2.24.1#Current density in speciman#ex2_24_1.sce#2288/CH2/EX2.24.1/ex2_24_1.sce#S##77851
+2#Energy Bands And Charge Carriers in Semiconductor#2.20.3#Mobility and density of charge carriers#ex2_20_3.sce#2288/CH2/EX2.20.3/ex2_20_3.sce#S##77850
+2#Energy Bands And Charge Carriers in Semiconductor#2.20.2#Hall angle#ex2_20_2.sce#2288/CH2/EX2.20.2/ex2_20_2.sce#S##77849
+2#Energy Bands And Charge Carriers in Semiconductor#2.20.1#Ratio of electron to hole concentration#ex2_20_1.sce#2288/CH2/EX2.20.1/ex2_20_1.sce#S##77848
+2#Energy Bands And Charge Carriers in Semiconductor#2.19.2#Hall coefficient and mobility of electrons#ex2_19_2.sce#2288/CH2/EX2.19.2/ex2_19_2.sce#S##94250
+2#Energy Bands And Charge Carriers in Semiconductor#2.19.1#Hall voltage produced#ex2_19_1.sce#2288/CH2/EX2.19.1/ex2_19_1.sce#S##77846
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.9#Conductivity of pure Si#ex2_17_9.sce#2288/CH2/EX2.17.9/ex2_17_9.sce#S##94249
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.8#Current produced in Ge sample#ex2_17_8.sce#2288/CH2/EX2.17.8/ex2_17_8.sce#S##77844
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.7#Resistivity of doped Ge#ex2_17_7.sce#2288/CH2/EX2.17.7/ex2_17_7.sce#S##94248
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.6#Current produced#ex2_17_6.sce#2288/CH2/EX2.17.6/ex2_17_6.sce#S##77842
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.5#Density and mobility of holes#ex2_17_5.sce#2288/CH2/EX2.17.5/ex2_17_5.sce#S##77841
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.4#Mobility of electrons in Ge#ex2_17_4.sce#2288/CH2/EX2.17.4/ex2_17_4.sce#S##77840
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.3#Conductivity of speciman#ex2_17_3.sce#2288/CH2/EX2.17.3/ex2_17_3.sce#S##77839
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.2#Number of donor atoms#ex2_17_2.sce#2288/CH2/EX2.17.2/ex2_17_2.sce#S##77838
+2#Energy Bands And Charge Carriers in Semiconductor#2.17.1#Conductivity of pure Si#ex2_17_1.sce#2288/CH2/EX2.17.1/ex2_17_1.sce#S##94247
+2#Energy Bands And Charge Carriers in Semiconductor#2.16.5#Resistivity of copper#ex2_16_5.sce#2288/CH2/EX2.16.5/ex2_16_5.sce#S##94246
+2#Energy Bands And Charge Carriers in Semiconductor#2.16.4#Mobility of charge carriers#ex2_16_4.sce#2288/CH2/EX2.16.4/ex2_16_4.sce#S##94245
+2#Energy Bands And Charge Carriers in Semiconductor#2.16.3#Drift velocity#ex2_16_3.sce#2288/CH2/EX2.16.3/ex2_16_3.sce#S##94244
+2#Energy Bands And Charge Carriers in Semiconductor#2.16.2#Charge density of free electrons#ex2_16_2.sce#2288/CH2/EX2.16.2/ex2_16_2.sce#S##94243
+2#Energy Bands And Charge Carriers in Semiconductor#2.16.1#Mobility of electrons in copper#ex2_16_1.sce#2288/CH2/EX2.16.1/ex2_16_1.sce#S##77831
+2#Energy Bands And Charge Carriers in Semiconductor#2.15.3#Thermal equilibrium hole concentration#ex2_15_3.sce#2288/CH2/EX2.15.3/ex2_15_3.sce#S##77830
+2#Energy Bands And Charge Carriers in Semiconductor#2.15.2#Thermal equilibrium electron concentration#ex2_15_2.sce#2288/CH2/EX2.15.2/ex2_15_2.sce#S##77829
+2#Energy Bands And Charge Carriers in Semiconductor#2.15.1#Position of Fermi level#ex2_15_1.sce#2288/CH2/EX2.15.1/ex2_15_1.sce#S##77828
+1#Semiconductor Materials and Crystal Properties#1.22.7#Distance between K and F#ex1_22_7.sce#2288/CH1/EX1.22.7/ex1_22_7.sce#S##77940
+1#Semiconductor Materials and Crystal Properties#1.22.6#Number of unit cell#ex1_22_6.sce#2288/CH1/EX1.22.6/ex1_22_6.sce#S##77939
+1#Semiconductor Materials and Crystal Properties#1.22.5#Packing factor#ex1_22_5.sce#2288/CH1/EX1.22.5/ex1_22_5.sce#S##77938
+1#Semiconductor Materials and Crystal Properties#1.22.4#Radius of element atom#ex1_22_4.sce#2288/CH1/EX1.22.4/ex1_22_4.sce#S##77937
+1#Semiconductor Materials and Crystal Properties#1.22.3#Number of atom per unit cell#ex1_22_3.sce#2288/CH1/EX1.22.3/ex1_22_3.sce#S##77936
+1#Semiconductor Materials and Crystal Properties#1.22.2#Density#ex1_22_2.sce#2288/CH1/EX1.22.2/ex1_22_2.sce#S##77935
+1#Semiconductor Materials and Crystal Properties#1.22.1#Distance between d211 planes#ex1_22_1.sce#2288/CH1/EX1.22.1/ex1_22_1.sce#S##77934
+1#Semiconductor Materials and Crystal Properties#1.21.9#Lattice constant#ex1_21_9.sce#2288/CH1/EX1.21.9/ex1_21_9.sce#S##77933
+1#Semiconductor Materials and Crystal Properties#1.21.8#Wavelength of X ray#ex1_21_8.sce#2288/CH1/EX1.21.8/ex1_21_8.sce#S##83321
+1#Semiconductor Materials and Crystal Properties#1.21.7#Glacing angle#ex1_21_7.sce#2288/CH1/EX1.21.7/ex1_21_7.sce#S##77931
+1#Semiconductor Materials and Crystal Properties#1.21.6#Wavelength of X ray#ex1_21_6.sce#2288/CH1/EX1.21.6/ex1_21_6.sce#S##77930
+1#Semiconductor Materials and Crystal Properties#1.21.5#Glacing angle#ex1_21_5.sce#2288/CH1/EX1.21.5/ex1_21_5.sce#S##77929
+1#Semiconductor Materials and Crystal Properties#1.21.4#Interplaner spacing#ex1_21_4.sce#2288/CH1/EX1.21.4/ex1_21_4.sce#S##94241
+1#Semiconductor Materials and Crystal Properties#1.21.3#Interplaner spacing#ex1_21_3.sce#2288/CH1/EX1.21.3/ex1_21_3.sce#S##77927
+1#Semiconductor Materials and Crystal Properties#1.21.2#Spacing of atomic layer#ex1_21_2.sce#2288/CH1/EX1.21.2/ex1_21_2.sce#S##77926
+1#Semiconductor Materials and Crystal Properties#1.21.1#Wavelength of X ray#ex1_21_1.sce#2288/CH1/EX1.21.1/ex1_21_1.sce#S##83320
+1#Semiconductor Materials and Crystal Properties#1.18.4#Density of copper crystal#ex1_18_4.sce#2288/CH1/EX1.18.4/ex1_18_4.sce#S##83319
+1#Semiconductor Materials and Crystal Properties#1.18.3#Volume density of Si#ex1_18_3.sce#2288/CH1/EX1.18.3/ex1_18_3.sce#S##77923

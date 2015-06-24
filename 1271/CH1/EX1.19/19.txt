@@ -1,0 +1,3 @@
+﻿ Least thickness of soap film -
+ (a) For bright fringe = 1.037500e-04 mem. 
+ (b) For dark fringe = 2.075000e-04 mm.

@@ -1,0 +1,3 @@
+
+Example 7.12
+ Solar energy received during solar eclipse is 1.999130 Cal per min per m^2 

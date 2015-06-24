@@ -1,0 +1,3 @@
+ The power density = 0.039612 micro Watt/m^2
+ The electric field = 0.003864 mV/m
+ The magnetic field = 1.025055*10^-5 AT/m 

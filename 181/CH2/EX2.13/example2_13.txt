@@ -1,0 +1,5 @@
+For Si:
+Y_Si = 7.49e-008 ohm-cm^2
+For Ge:
+Y_Ge = 2.19e-002 ohm-cm^2
+Therefore the ratio is 2.9e+005 

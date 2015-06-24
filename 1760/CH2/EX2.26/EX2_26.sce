@@ -1,0 +1,21 @@
+                       //EXAMPLE 2-26       PG NO-72
+V=200;
+R=100;
+R1=500;
+R2=0.9009;                      //resistance
+RMS1=V/(R+R);                      //RMS
+disp('ii)   CURRENT R.M.S  in forward (R.M.S.1) is    =  '+string (RMS1) +'  A ');
+RMS2=-V/(R+R1);
+disp('ii)   CURRENT R.M.S  in Backward (R.M.S.2) is    =  '+string (RMS2) +'  A ');
+I1=RMS1*R2;                            //Current
+disp('ii)  Average CURRENT   in forward (I1) is    =  '+string (I1) +'  A ');
+I2=RMS2*R2;
+disp('ii) Average  CURRENT   in Backward (I2) is    =  '+string (I2) +'  A ');
+A=[I1+I2]/2;                         //Ammeter
+disp('ii)   Reading of moving coil ammeter (A) is    =  '+string (A) +'  A ');
+H.A=[0.5*[RMS1+(RMS2)^2]]^0.5;                   //HOT AMMETER
+disp('ii)   Reading of hot wire ammeter (H.A) is    =  '+string (H.A) +'  A ');
+P=0.5*[(RMS1*V)+(RMS2*RMS2*600)];                      //POWER
+disp('ii)   TOTAL AVERAGE POWER (P) is    =  '+string (P) +'  W ');
+P1=0.5*[(RMS1*R)+(RMS2*RMS2*R1)];
+disp('ii)   TOTAL  POWER  dissipated in rectifier (P) is    =  '+string (P1) +'  W ');

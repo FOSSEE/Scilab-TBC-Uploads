@@ -1,0 +1,8 @@
+ Quantizing  levels required is   
+ 
+    26.  
+ 
+ minimum number of bits per sample are   
+ 
+    5.  
+ 

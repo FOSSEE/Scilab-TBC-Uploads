@@ -1,0 +1,3 @@
+Voltage across breaker = 866 kV 
+
+-->diary(0)

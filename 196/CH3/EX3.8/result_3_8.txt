@@ -1,0 +1,1 @@
+ Value of o/p voltage =  -6.0000 V

@@ -1,0 +1,4 @@
+
+Example 7.2
+ Average value of electric field  is 1027.061861 Volt/m.  
+Average value of magnetic field is 2.726223 Amp turn/m.

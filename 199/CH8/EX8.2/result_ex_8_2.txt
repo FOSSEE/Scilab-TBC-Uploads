@@ -1,0 +1,2 @@
+* Output voltage during positive half-cycle of the input is = -0.7 V
+* Output voltage during negative half-cycle of the input is = 5.1 V

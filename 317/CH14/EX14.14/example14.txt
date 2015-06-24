@@ -1,0 +1,1 @@
+A resistance of 5kohms will allow the MOSFET to operate at a specified Q point

@@ -1,0 +1,12 @@
+ (a)Number of turns in primary winding=   
+ 
+    353.  
+ 
+ Number of turns in secondary winding=   
+ 
+    35.  
+ 
+ (b)Emf per turn (in Volts)=   
+ 
+    14.164306  
+ 

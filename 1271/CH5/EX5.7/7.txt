@@ -1,0 +1,2 @@
+ The normalised frequency = 40.655905,
+ number of guided in the core = 826.451303

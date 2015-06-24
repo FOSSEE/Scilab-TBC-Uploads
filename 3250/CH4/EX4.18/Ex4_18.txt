@@ -1,0 +1,4 @@
+
+ # PROBLEM 4.18 # 
+ 
+ Power required = 138 W. 

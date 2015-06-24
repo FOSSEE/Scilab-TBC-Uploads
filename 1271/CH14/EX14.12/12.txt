@@ -1,0 +1,9 @@
+
+ # PROBLEM 12 # 
+Standard formula used 
+  1/2 m*v^2 = h*(mu - mu_0) 
+
+ 
+ Work function is 3.172996e-19 J.
+ Maximum energy is 3.168000e-19 J.
+ Threshold frequency is 4.793046e+14 Hz.

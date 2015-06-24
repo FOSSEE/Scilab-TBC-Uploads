@@ -1,0 +1,9 @@
+ Value of Load Resistance =  6250.00000000 ohm 
+
+
+
+ Value of output current =  0.00205000 amp 
+
+
+
+ The circuit input resistance is Rl=10Kohm

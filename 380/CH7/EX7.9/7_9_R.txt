@@ -1,0 +1,7 @@
+ voltage regulation (%)=   
+ 
+    49.681294  
+ 
+ Power developed (in Mega-Watts)=   
+ 
+    56. 

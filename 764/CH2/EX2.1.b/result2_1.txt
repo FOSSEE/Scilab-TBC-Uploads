@@ -1,0 +1,69 @@
+-->// (Engineering Materials)Example 2.1
+ 
+-->//Refer Table 2.13 on page 52
+ 
+-->//Store data in respective arrays in the order:
+ 
+-->//Sequence: {Low alloy steel, Plain carbon steel, Stainless steel, Chromium steel}
+ 
+-->//Ulimate tensile strengths  U N/mm2
+ 
+-->U = {850 850 1200 950}
+ U  =
+ 
+    850.    850.    1200.    950.  
+ 
+-->//Hardenability Index H
+ 
+-->H = {60 80 30 100}
+ H  =
+ 
+    60.    80.    30.    100.  
+ 
+-->//Cost (Rs/unit) C
+ 
+-->C = {40 50 100 80}
+ C  =
+ 
+    40.    50.    100.    80.  
+ 
+-->//Point weightage for ultimate tensile strength
+ 
+-->Uw = 5
+ Uw  =
+ 
+    5.  
+ 
+-->//Point weightage for hardenability
+ 
+-->Hw = 3
+ Hw  =
+ 
+    3.  
+ 
+-->//Point weightage for cost-economy
+ 
+-->Cw = 2 
+ Cw  =
+ 
+    2.  
+ 
+
+	|Material Property	|Low alloy steel	|Plain carbon steel	|Stainless steel	|Chromium steel
+
+a)	Tensile Strength
+	Per cent		0.221			0.221			0.312			0.247	
+	Points			1.104			1.104			1.558			1.234
+
+b)	Hardenability
+	Per cent		0.222			0.296			0.111			0.370	
+	Points			0.667			0.889			0.333			1.111
+
+c)	Cost
+	Per cent		0.370			0.296			0.148			0.185	
+	Points			0.741			0.593			0.296			0.370
+
+	Total Points		2.511			2.585			2.188			2.715	
+
+Chromium steel is the best material for the component
+ 

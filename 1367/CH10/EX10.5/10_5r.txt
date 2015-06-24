@@ -1,0 +1,4 @@
+  
+ Maximum weight of tin that can be added without changing systems temperature (in kgm) =    
+ 
+    2.3333333 

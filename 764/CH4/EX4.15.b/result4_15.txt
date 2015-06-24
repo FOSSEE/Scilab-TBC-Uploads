@@ -1,0 +1,74 @@
+-->//(Design against Static Load) Example 4.15
+ 
+-->//Refer Fig.4.50 on page 121
+ 
+-->//Safety valve blow-off pressure p (MPa)
+ 
+-->p = 1.5
+ p  =
+ 
+    1.5  
+ 
+-->//Effective diameter of the valve opening d (mm)
+ 
+-->de = 50
+ de  =
+ 
+    50.  
+ 
+-->//Distance between fulcrum and lever dead weights l1 (mm)
+ 
+-->l1 = 1000
+ l1  =
+ 
+    1000.  
+ 
+-->//Distance between the fulcrum and the pin connecting the valve spindle to the lever l2 (mm)
+ 
+-->l2 = 100
+ l2  =
+ 
+    100.  
+ 
+-->//Tensile yield strength of 30C8 Syt (N/mm2)
+ 
+-->Syt = 400
+ Syt  =
+ 
+    400.  
+ 
+-->//Factor of safety fs
+ 
+-->fs = 5
+ fs  =
+ 
+    5.  
+ 
+-->//Permissible bearing pressure at the pin in the lever Bp (N/mm2)
+ 
+-->Bp = 25
+ Bp  =
+ 
+    25.  
+ 
+-->//Ratio of width to thickness ratio 
+ 
+-->ratio = 3
+ ratio  =
+ 
+    3.  
+ 
+ 
+
+The diamater of the pin(dp) = 11.000000 mm
+
+The length of the pin(lp) = 20.000000 mm
+
+The thickness of the lever cross-section(b) = 15.000000 mm
+
+The width of the lever cross-sectio(d) = 45.000000 mm
+
+The dead weight(P) = 294.524311 mm
+
+The lever design is safe
+ 

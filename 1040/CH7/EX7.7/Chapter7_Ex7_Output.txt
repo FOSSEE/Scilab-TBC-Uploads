@@ -1,0 +1,15 @@
+
+ OUTPUT Ex7.7.a
+==========================================================
+The value of apparent kLa: 5.74 (sec-1)
+ The value of predicted kLa: 0.28 (sec-1)
+The absorption of oxygen is greatly enhanced by chemical reactions in the liquid film
+The kinetics can be approximated by a first-order expression,the reaction would fall in the pseudo-first-order regime,
+where the rate varies with the square root of the oxygen diffusivity and the rate constant.
+
+
+ OUTPUT Ex7.7.b
+==========================================================
+The value of Phi (enhancement factor) 7.0047E+04 
+The value of ratio Phi_a_by_Phi:3.5E+03
+From the ratio value Phi_a is greater than Phi hence there is no significant gradient for cyclohexane

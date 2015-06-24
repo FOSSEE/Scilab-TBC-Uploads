@@ -1,0 +1,1 @@
+ The field strength = 300 mV/m 

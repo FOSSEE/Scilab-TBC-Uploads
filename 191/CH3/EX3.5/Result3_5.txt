@@ -1,0 +1,17 @@
+  
+ Number of iterations :    
+ 
+    4.  
+ 
+ The negative root of the function is :    
+ 
+  - 1.841406  
+ 
+ Number of iteration :    
+ 
+    13.  
+ 
+ The positive root of the function is :    
+ 
+    1.146193  
+ 

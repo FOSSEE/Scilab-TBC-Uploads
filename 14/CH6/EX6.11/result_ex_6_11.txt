@@ -1,0 +1,2 @@
+ The generator terminal voltage = 19.66 kV 
+

@@ -1,0 +1,20 @@
+(a)Mechanical power output(in watt)=   
+ 
+    20813.847  
+ 
+ (b)Torque(in N-m)=   
+ 
+    138.02611  
+ 
+ (c)Maximum torque(in N-m)=   
+ 
+    237.74998  
+ 
+ (d)Speed at maximum torque(in r.p.m)=   
+ 
+    1312.5  
+ 
+ (e)Output power at maximum torque(in watt)=   
+ 
+    32677.469  
+ 

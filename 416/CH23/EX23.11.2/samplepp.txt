@@ -1,0 +1,6 @@
+  
+ sample problem in 23.11.2   
+rate of depreciation is 2.833percent 
+total annual cost is Rs.6.80167 lakhs/year 
+energy received per year 1.282500e+007kWh/year 
+wheeling charges Rs0.053034 

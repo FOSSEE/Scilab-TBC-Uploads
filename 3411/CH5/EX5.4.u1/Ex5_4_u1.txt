@@ -1,0 +1,1 @@
+The Distance between (1,2,3) planes and (2,4,6) planes is d123=0.21nm and d246=0.11nm 

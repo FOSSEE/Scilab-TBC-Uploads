@@ -1,0 +1,2 @@
+* Center frequency fc is = 447.2 Hz
+* Quality factor Q is = 0.56                                                                                                   

@@ -1,0 +1,10 @@
+clear;
+clc;
+R=5;
+V=230;
+V_mp=sqrt(2)*V;
+a=30;
+E=150;
+B=180-asind(E/V_mp);
+I_o=(3/(2*%pi*R))*(V_mp*(cosd(a+30)-cosd(B))-E*((B-a-30)*%pi/180));
+printf("avg current flowing=%.2f A",I_o);

@@ -1,0 +1,8 @@
+ (a)Synchronising Poweron full load(in watt/phase)=   
+ 
+    474512.67  
+ 
+ (b)Synchronising Torque(in Nm)=   
+ 
+    13593.787  
+ 

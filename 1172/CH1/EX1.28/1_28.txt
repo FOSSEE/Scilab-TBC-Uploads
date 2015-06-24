@@ -1,0 +1,6 @@
+ # Problem 28 # 
+ 
+ Standard formula used 
+   a*sin(theta ) = lambda 
+
+ Distance between the center and the first fringe is 0.490000 cm.

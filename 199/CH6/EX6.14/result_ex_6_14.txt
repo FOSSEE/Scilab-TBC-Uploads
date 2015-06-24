@@ -1,0 +1,2 @@
+* Min output voltage at darkness is = -0.15 V
+* Max output voltage at Illumination is = -10 V

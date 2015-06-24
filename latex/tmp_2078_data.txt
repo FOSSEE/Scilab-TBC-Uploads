@@ -1,0 +1,137 @@
+12#Neutral Grounding#12.2#Inductance and kVA rating#Example12_2.sce#2078/CH12/EX12.2/Example12_2.sce#S##80830
+12#Neutral Grounding#12.1#Reactance of coil #Example12_1.sce#2078/CH12/EX12.1/Example12_1.sce#S##75037
+11#Insulated Cables#11.9#Thickness and working voltage#Example11_9.sce#2078/CH11/EX11.9/Example11_9.sce#S##80818
+11#Insulated Cables#11.8#Maximum safe working voltage#Example11_8.sce#2078/CH11/EX11.8/Example11_8.sce#S##80817
+11#Insulated Cables#11.7#Most Economical value of diameter#Example11_7.sce#2078/CH11/EX11.7/Example11_7.sce#S##80816
+11#Insulated Cables#11.6#Determine D and d#Example11_6.sce#2078/CH11/EX11.6/Example11_6.sce#S##80815
+11#Insulated Cables#11.5#Maximum Stress and Charging KVAR#Example11_5.sce#2078/CH11/EX11.5/Example11_5.sce#S##80814
+11#Insulated Cables#11.4#Find Charging current#Example11_4.sce#2078/CH11/EX11.4/Example11_4.sce#S##80813
+11#Insulated Cables#11.3#Calculate the Resistivity#Example11_3.sce#2078/CH11/EX11.3/Example11_3.sce#S##75018
+11#Insulated Cables#11.21#Loss angle and No load current#Example11_21.sce#2078/CH11/EX11.21/Example11_21.sce#S##80829
+11#Insulated Cables#11.20#Capacitance Charging Current Loss Resistance#Example11_20.sce#2078/CH11/EX11.20/Example11_20.sce#S##80828
+11#Insulated Cables#11.2#Insulation Resistance#Example11_2.sce#2078/CH11/EX11.2/Example11_2.sce#S##75017
+11#Insulated Cables#11.19#Maximum Stress and total Charging KVAR#Example11_19.sce#2078/CH11/EX11.19/Example11_19.sce#S##80827
+11#Insulated Cables#11.18#Find the capacitance#Example11_18.sce#2078/CH11/EX11.18/Example11_18.sce#S##75033
+11#Insulated Cables#11.17#Calculate the KVA taken#Example11_17.sce#2078/CH11/EX11.17/Example11_17.sce#S##80826
+11#Insulated Cables#11.16#capacitance and charging current#Example11_16.sce#2078/CH11/EX11.16/Example11_16.sce#S##80825
+11#Insulated Cables#11.15#Maximum stress and voltage#Example11_15.sce#2078/CH11/EX11.15/Example11_15.sce#S##80824
+11#Insulated Cables#11.14#Diameter of intersheath#Example11_14.sce#2078/CH11/EX11.14/Example11_14.sce#S##80823
+11#Insulated Cables#11.13#Minimum Internal Diameter#Example11_13.sce#2078/CH11/EX11.13/Example11_13.sce#S##80822
+11#Insulated Cables#11.12#Determine the maximum stress#Example11_12.sce#2078/CH11/EX11.12/Example11_12.sce#S##80821
+11#Insulated Cables#11.11#Calculate Potential gradient#Example11_11.sce#2078/CH11/EX11.11/Example11_11.sce#S##80820
+11#Insulated Cables#11.10#Working Voltage#Example11_10.sce#2078/CH11/EX11.10/Example11_10.sce#S##80819
+11#Insulated Cables#11.1#Insulation Resistance#Example11_1.sce#2078/CH11/EX11.1/Example11_1.sce#S##75016
+10#Mechanical Design of Transmission Lines#10.9#Sag in inclined and vertical direction#Example10_9.sce#2078/CH10/EX10.9/Example10_9.sce#S##80805
+10#Mechanical Design of Transmission Lines#10.8#Calculate the maximum sag#Example10_8.sce#2078/CH10/EX10.8/Example10_8.sce#S##80804
+10#Mechanical Design of Transmission Lines#10.7#Calculate the maximum sag#Example10_7.sce#2078/CH10/EX10.7/Example10_7.sce#S##80803
+10#Mechanical Design of Transmission Lines#10.6#Calculate the maximum sag#Example10_6.sce#2078/CH10/EX10.6/Example10_6.sce#S##80802
+10#Mechanical Design of Transmission Lines#10.5#Calculate the sag#Example10_5.sce#2078/CH10/EX10.5/Example10_5.sce#S##80801
+10#Mechanical Design of Transmission Lines#10.4#Calculate maximum sag#Example10_4.sce#2078/CH10/EX10.4/Example10_4.sce#S##80800
+10#Mechanical Design of Transmission Lines#10.3#Horizontal component of tension and maximum sag#Example10_3.sce#2078/CH10/EX10.3/Example10_3.sce#S##80799
+10#Mechanical Design of Transmission Lines#10.2#Height above ground#Example10_2.sce#2078/CH10/EX10.2/Example10_2.sce#S##80798
+10#Mechanical Design of Transmission Lines#10.16#sag and tension#Example10_16.sce#2078/CH10/EX10.16/Example10_16.sce#S##80812
+10#Mechanical Design of Transmission Lines#10.15#Find the clearance#Example10_15.sce#2078/CH10/EX10.15/Example10_15.sce#S##80811
+10#Mechanical Design of Transmission Lines#10.14#Stringing Tension in the conductor#Example10_14.sce#2078/CH10/EX10.14/Example10_14.sce#S##80810
+10#Mechanical Design of Transmission Lines#10.13#Find the clearance#Example10_13.sce#2078/CH10/EX10.13/Example10_13.sce#S##80809
+10#Mechanical Design of Transmission Lines#10.12#Determine the vertical sag#Example10_12.sce#2078/CH10/EX10.12/Example10_12.sce#S##80808
+10#Mechanical Design of Transmission Lines#10.11#Sag at lower support#Example10_11.sce#2078/CH10/EX10.11/Example10_11.sce#S##80807
+10#Mechanical Design of Transmission Lines#10.10#Lowest point of catenary curve#Example10_10.sce#2078/CH10/EX10.10/Example10_10.sce#S##80806
+10#Mechanical Design of Transmission Lines#10.1#Maximum sag#Example10_1.sce#2078/CH10/EX10.1/Example10_1.sce#S##80797
+9#Overhead Line Insulators#9.9#Capacitance of remaining five units#Example9_9.sce#2078/CH9/EX9.9/Example9_9.sce#S##74997
+9#Overhead Line Insulators#9.8#Voltage between conductors and string efficiency#Example9_8.sce#2078/CH9/EX9.8/Example9_8.sce#S##80795
+9#Overhead Line Insulators#9.7#Maximum line voltage#Example9_7.sce#2078/CH9/EX9.7/Example9_7.sce#S##80794
+9#Overhead Line Insulators#9.6#String Efficiency#Example9_6.sce#2078/CH9/EX9.6/Example9_6.sce#S##80793
+9#Overhead Line Insulators#9.5#Maximum Voltage#Example9_5.sce#2078/CH9/EX9.5/Example9_5.sce#S##80792
+9#Overhead Line Insulators#9.4#Voltage Distribution and String Efficiency#Example9_4.sce#2078/CH9/EX9.4/Example9_4.sce#S##80791
+9#Overhead Line Insulators#9.3#String Efficiency#Example9_3.sce#2078/CH9/EX9.3/Example9_3.sce#S##80790
+9#Overhead Line Insulators#9.2#Voltage Distribution and String efficiency#Example9_2.sce#2078/CH9/EX9.2/Example9_2.sce#S##74990
+9#Overhead Line Insulators#9.12#Line voltage and capacitance required#Example9_12.sce#2078/CH9/EX9.12/Example9_12.sce#S##80984
+9#Overhead Line Insulators#9.11#String efficiency#Example9_11.sce#2078/CH9/EX9.11/Example9_11.sce#S##95954
+9#Overhead Line Insulators#9.10#Line to pin capacitance#Example9_10.sce#2078/CH9/EX9.10/Example9_10.sce#S##95953
+9#Overhead Line Insulators#9.1#String Efficiency#Example9_1.sce#2078/CH9/EX9.1/Example9_1.sce#S##74989
+8#Electrostatic and Electromagnetic Interference with Communication Lines#8.2#Induced Voltage at fundamental frequency#Example8_2.sce#2078/CH8/EX8.2/Example8_2.sce#S##80789
+8#Electrostatic and Electromagnetic Interference with Communication Lines#8.1#Voltage induced per km#Example8_1.sce#2078/CH8/EX8.1/Example8_1.sce#S##80788
+7#Corona#7.9#Corona Characteristics#Example7_9.sce#2078/CH7/EX7.9/Example7_9.sce#S##80786
+7#Corona#7.8#Disruptive voltage and corona loss#Example7_8.sce#2078/CH7/EX7.8/Example7_8.sce#S##80787
+7#Corona#7.7#Corona Loss#Example7_7.sce#2078/CH7/EX7.7/Example7_7.sce#S##80501
+7#Corona#7.6#Critical Disruptive Voltage#Example7_6.sce#2078/CH7/EX7.6/Example7_6.sce#S##80500
+7#Corona#7.5#Presence of Corona#Example7_5.sce#2078/CH7/EX7.5/Example7_5.sce#S##80499
+7#Corona#7.4#Minimum diameter of conductor#Example7_4.sce#2078/CH7/EX7.4/Example7_4.sce#S##80498
+7#Corona#7.3#Spacing between Conductors#Example7_3.sce#2078/CH7/EX7.3/Example7_3.sce#S##80497
+7#Corona#7.2#Disruptive Critical Voltage#Example7_2.sce#2078/CH7/EX7.2/Example7_2.sce#S##80496
+7#Corona#7.1#Line Voltage#Example7_1.sce#2078/CH7/EX7.1/Example7_1.sce#S##80495
+6#Representation and Performance of long Transmission Lines#6.6#Equivalent T and Pi network#Example6_6.sce#2078/CH6/EX6.6/Example6_6.sce#S##80494
+6#Representation and Performance of long Transmission Lines#6.5#A0 B0 C0 and D0 constant#Example6_5.sce#2078/CH6/EX6.5/Example6_5.sce#S##80493
+6#Representation and Performance of long Transmission Lines#6.4#A0 B0 C0 and D0 constant#Example6_4.sce#2078/CH6/EX6.4/Example6_4.sce#S##80492
+6#Representation and Performance of long Transmission Lines#6.3#A0 B0 C0 and D0 constant#Example6_3.sce#2078/CH6/EX6.3/Example6_3.sce#S##80491
+6#Representation and Performance of long Transmission Lines#6.2#Sending end voltage and current#Example6_2.sce#2078/CH6/EX6.2/Example6_2.sce#S##80490
+6#Representation and Performance of long Transmission Lines#6.1#Determine Auxiliary constant#Example6_1.sce#2078/CH6/EX6.1/Example6_1.sce#S##80489
+5#Representation and Performance of short and medium Transmission Lines#5.9#Voltage Efficiency Regulation#Example5_9.sce#2078/CH5/EX5.9/Example5_9.sce#S##80472
+5#Representation and Performance of short and medium Transmission Lines#5.8#Current Voltage Regulation Efficiency#Example5_8.sce#2078/CH5/EX5.8/Example5_8.sce#S##80471
+5#Representation and Performance of short and medium Transmission Lines#5.7#Power output and Power factor#Example5_7.sce#2078/CH5/EX5.7/Example5_7.sce#S##80470
+5#Representation and Performance of short and medium Transmission Lines#5.6#Voltage and Efficiency of Transmission#Example5_6.sce#2078/CH5/EX5.6/Example5_6.sce#S##80469
+5#Representation and Performance of short and medium Transmission Lines#5.5#Resistance and Inductance of line#Example5_5.sce#2078/CH5/EX5.5/Example5_5.sce#S##80468
+5#Representation and Performance of short and medium Transmission Lines#5.4#Voltage PF Efficiency and Regulation#Example5_4.sce#2078/CH5/EX5.4/Example5_4.sce#S##80467
+5#Representation and Performance of short and medium Transmission Lines#5.3#Sending end Voltage and Regulation#Example5_3.sce#2078/CH5/EX5.3/Example5_3.sce#S##80466
+5#Representation and Performance of short and medium Transmission Lines#5.25#ABCD constant and power factor#Example5_25.sce#2078/CH5/EX5.25/Example5_25.sce#S##80488
+5#Representation and Performance of short and medium Transmission Lines#5.24#Sending end voltage and current#Example5_24.sce#2078/CH5/EX5.24/Example5_24.sce#S##80487
+5#Representation and Performance of short and medium Transmission Lines#5.23#Voltage current power and egulation#Example5_23.sce#2078/CH5/EX5.23/Example5_23.sce#S##80486
+5#Representation and Performance of short and medium Transmission Lines#5.22#ABCD constant power and voltage#Example5_22.sce#2078/CH5/EX5.22/Example5_22.sce#S##80485
+5#Representation and Performance of short and medium Transmission Lines#5.21#Voltage Current Power and efficiency#Example5_21.sce#2078/CH5/EX5.21/Example5_21.sce#S##80484
+5#Representation and Performance of short and medium Transmission Lines#5.20#ABCD constant Voltage and Efficiency#Example5_20.sce#2078/CH5/EX5.20/Example5_20.sce#S##80483
+5#Representation and Performance of short and medium Transmission Lines#5.2#Voltage Regulation and Efficiency#Example5_2.sce#2078/CH5/EX5.2/Example5_2.sce#S##80465
+5#Representation and Performance of short and medium Transmission Lines#5.19#Find A B C D parameters#Example5_19.sce#2078/CH5/EX5.19/Example5_19.sce#S##80482
+5#Representation and Performance of short and medium Transmission Lines#5.18#Rise in Voltage#Example5_18.sce#2078/CH5/EX5.18/Example5_18.sce#S##80481
+5#Representation and Performance of short and medium Transmission Lines#5.17#kVA supplied and Power supplied#Example5_17.sce#2078/CH5/EX5.17/Example5_17.sce#S##80480
+5#Representation and Performance of short and medium Transmission Lines#5.16#Voltage at mid point#Example5_16.sce#2078/CH5/EX5.16/Example5_16.sce#S##80479
+5#Representation and Performance of short and medium Transmission Lines#5.15#Voltage Efficiency and PF#Example5_15.sce#2078/CH5/EX5.15/Example5_15.sce#S##80478
+5#Representation and Performance of short and medium Transmission Lines#5.14#Sending End Voltage#Example5_14.sce#2078/CH5/EX5.14/Example5_14.sce#S##80477
+5#Representation and Performance of short and medium Transmission Lines#5.13#Voltage Current and PF#Example5_13.sce#2078/CH5/EX5.13/Example5_13.sce#S##80476
+5#Representation and Performance of short and medium Transmission Lines#5.12#Sending End Voltage#Example5_12.sce#2078/CH5/EX5.12/Example5_12.sce#S##80475
+5#Representation and Performance of short and medium Transmission Lines#5.11#Voltage Current PF#Example5_11.sce#2078/CH5/EX5.11/Example5_11.sce#S##80474
+5#Representation and Performance of short and medium Transmission Lines#5.10#Voltage Regulation Current Efficiency#Example5_10.sce#2078/CH5/EX5.10/Example5_10.sce#S##80473
+5#Representation and Performance of short and medium Transmission Lines#5.1#Voltage Regulation and Efficiency#Example5_1.sce#2078/CH5/EX5.1/Example5_1.sce#S##80464
+4#Inductance and Capacitance of Transmission Lines#4.9#Inductance per km#Example4_9.sce#2078/CH4/EX4.9/Example4_9.sce#S##80277
+4#Inductance and Capacitance of Transmission Lines#4.8#Inductance per km#Example4_8.sce#2078/CH4/EX4.8/Example4_8.sce#S##75060
+4#Inductance and Capacitance of Transmission Lines#4.7#Inductance per km#Example4_7.sce#2078/CH4/EX4.7/Example4_7.sce#S##80276
+4#Inductance and Capacitance of Transmission Lines#4.6#Determine total inductance#Example4_6.sce#2078/CH4/EX4.6/Example4_6.sce#S##80275
+4#Inductance and Capacitance of Transmission Lines#4.5#Determine total inductance#Example4_5.sce#2078/CH4/EX4.5/Example4_5.sce#S##80274
+4#Inductance and Capacitance of Transmission Lines#4.4#Calculate GMR#Example4_4.sce#2078/CH4/EX4.4/Example4_4.sce#S##80273
+4#Inductance and Capacitance of Transmission Lines#4.3#Calculate Loop inductance#Example4_3.sce#2078/CH4/EX4.3/Example4_3.sce#S##80272
+4#Inductance and Capacitance of Transmission Lines#4.26#Determine the capacitance#Example4_26.sce#2078/CH4/EX4.26/Example4_26.sce#S##75086
+4#Inductance and Capacitance of Transmission Lines#4.25#Capacitance per km#Example4_25.sce#2078/CH4/EX4.25/Example4_25.sce#S##80290
+4#Inductance and Capacitance of Transmission Lines#4.24#Inductive and Capacitive reactances#Example4_24.sce#2078/CH4/EX4.24/Example4_24.sce#S##80289
+4#Inductance and Capacitance of Transmission Lines#4.23#Capacitance and charging current#Example4_23.sce#2078/CH4/EX4.23/Example4_23.sce#S##80288
+4#Inductance and Capacitance of Transmission Lines#4.22#Capacitance per phase#Example4_22.sce#2078/CH4/EX4.22/Example4_22.sce#S##80287
+4#Inductance and Capacitance of Transmission Lines#4.21#Capacitance to neutral and charging current#Example4_21.sce#2078/CH4/EX4.21/Example4_21.sce#S##80286
+4#Inductance and Capacitance of Transmission Lines#4.20#Capacitance to neutral and charging per km#Example4_20.sce#2078/CH4/EX4.20/Example4_20.sce#S##80284
+4#Inductance and Capacitance of Transmission Lines#4.2#Calculate Inductance#Example4_2.sce#2078/CH4/EX4.2/Example4_2.sce#S##75043
+4#Inductance and Capacitance of Transmission Lines#4.19#Capacitance and Charging current#Example4_19.sce#2078/CH4/EX4.19/Example4_19.sce#S##75079
+4#Inductance and Capacitance of Transmission Lines#4.18#Capacitance per conductor per km#Example4_18.sce#2078/CH4/EX4.18/Example4_18.sce#S##75078
+4#Inductance and Capacitance of Transmission Lines#4.17#Calculate Capacitance#Example4_17.sce#2078/CH4/EX4.17/Example4_17.sce#S##80283
+4#Inductance and Capacitance of Transmission Lines#4.16#Find out Capacitance#Example4_16.sce#2078/CH4/EX4.16/Example4_16.sce#S##80282
+4#Inductance and Capacitance of Transmission Lines#4.15#Find inductive reactance#Example4_15.sce#2078/CH4/EX4.15/Example4_15.sce#S##80281
+4#Inductance and Capacitance of Transmission Lines#4.14#Inductance per km#Example4_14.sce#2078/CH4/EX4.14/Example4_14.sce#S##80280
+4#Inductance and Capacitance of Transmission Lines#4.13#GMD GMR and Overall Inductance#Example4_13.sce#2078/CH4/EX4.13/Example4_13.sce#S##95951
+4#Inductance and Capacitance of Transmission Lines#4.12#Inductance per phase per km#Example4_12.sce#2078/CH4/EX4.12/Example4_12.sce#S##80278
+4#Inductance and Capacitance of Transmission Lines#4.11#Inductance per phase per km#Example4_11.sce#2078/CH4/EX4.11/Example4_11.sce#S##75066
+4#Inductance and Capacitance of Transmission Lines#4.10#Spacing between adjacent conductors#Example4_10.sce#2078/CH4/EX4.10/Example4_10.sce#S##75064
+4#Inductance and Capacitance of Transmission Lines#4.1#Loop inductance and reactance#Example4_1.sce#2078/CH4/EX4.1/Example4_1.sce#S##75042
+3#Transmission Lines#3.7#Most economical size#Example3_7.sce#2078/CH3/EX3.7/Example3_7.sce#S##79558
+3#Transmission Lines#3.6#Most Economical current density#Example3_6.sce#2078/CH3/EX3.6/Example3_6.sce#S##79556
+3#Transmission Lines#3.5#Most economical current density#Example3_5.sce#2078/CH3/EX3.5/Example3_5.sce#S##79553
+3#Transmission Lines#3.4#Economical current density and diameter#Example3_4.sce#2078/CH3/EX3.4/Example3_4.sce#S##79549
+3#Transmission Lines#3.3#Best Current Density#Example3_3.sce#2078/CH3/EX3.3/Example3_3.sce#S##79546
+3#Transmission Lines#3.2#Most Economical Cross section Area#Example3_2.sce#2078/CH3/EX3.2/Example3_2.sce#S##79543
+3#Transmission Lines#3.1#Weight of material required#Example3_1.sce#2078/CH3/EX3.1/Example3_1.sce#S##79541
+2#Supply System#2.6#Weight of copper reqiured#Example2_6.sce#2078/CH2/EX2.6/Example2_6.sce#S##80983
+2#Supply System#2.5#Percentage additional load#Example2_5.sce#2078/CH2/EX2.5/Example2_5.sce#S##80982
+2#Supply System#2.4#Find extra power#Example2_4.sce#2078/CH2/EX2.4/Example2_4.sce#S##80986
+2#Supply System#2.3#Percentage additional load#Example2_3.sce#2078/CH2/EX2.3/Example2_3.sce#S##80985
+2#Supply System#2.2#Compare amount of material#Example2_2.sce#2078/CH2/EX2.2/Example2_2.sce#S##80981
+2#Supply System#2.1#Saving in feeder#Example2_1.sce#2078/CH2/EX2.1/Example2_1.sce#S##80980
+1#Power System Components#1.5#Per unit Reactance#Example1_5.sce#2078/CH1/EX1.5/Example1_5.sce#S##80298
+1#Power System Components#1.4#Per unit impedence#Example1_4.sce#2078/CH1/EX1.4/Example1_4.sce#S##80297
+1#Power System Components#1.3#Leakage Reactance per unit#Example1_3.sce#2078/CH1/EX1.3/Example1_3.sce#S##80296
+1#Power System Components#1.2#Per unit resistance#Example1_2.sce#2078/CH1/EX1.2/Example1_2.sce#S##80295
+1#Power System Components#1.1#Base Impedence#Example1_1.sce#2078/CH1/EX1.1/Example1_1.sce#S##80293

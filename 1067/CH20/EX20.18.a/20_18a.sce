@@ -1,0 +1,11 @@
+clear;
+clc;
+r1=3e6;
+x=10;
+r=150e6;
+rb=9e6;
+x1=x*rb/r1;
+xc=inv(2*inv(x1));
+xt=rb*100/r;
+x=(inv(inv(xt)-inv(xc)))-5;
+printf("the reactance that should be added= %d percent",x);

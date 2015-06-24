@@ -1,0 +1,11 @@
+(a)All day efficiency(in%)=   
+ 
+    90.439276  
+ 
+ (b)commercial efficiency on full load(in%)=   
+ 
+    94.339623  
+ 
+ (c)efficiency on half load(in%)=   
+ 
+    94.339623  

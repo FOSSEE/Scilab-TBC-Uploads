@@ -1,0 +1,12 @@
+ 
+ example 4 11   
+ kw rating of installation 27.7kW 
+ kVA rating of installation 34.64kva 
+ kVAR rating 20.78kvar 
+ kw input to synchrounous motor 20.43kw 
+ total kw=48.14
+ overall power factor angle 18.19kw 
+ total kvar 15.82kvar 
+ kvar of synchrounous motor -4.96kvar c 
+ kva of synchrounous motor 21.02kva 
+ power factor of synchrounous motor 0.97 l 

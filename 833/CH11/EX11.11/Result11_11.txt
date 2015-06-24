@@ -1,0 +1,36 @@
+(a)Rotor current per phase(in A)=   
+ 
+    49.164969 - 14.714454i  
+ 
+ (b)Stator current per phase(in A)=   
+ 
+    48.887575 - 36.523225i  
+ 
+ (c)Power factor=   
+ 
+    0.8011191  
+ 
+ (d)Rotor input(in watt)=   
+ 
+    19752.82  
+ 
+ (e)Rotor copper loss(in watt)=   
+ 
+    790.11281  
+ 
+ (f)Torque(in N-m)=   
+ 
+    754.50216  
+ 
+ (g)Mechanical output from rotor(in watts per phase)=   
+ 
+    18712.708  
+ 
+ (h)Stator input(watts per phase)=   
+ 
+    21510.533  
+ 
+ (i)Efficiency(in %)=   
+ 
+    86.99323  
+ 

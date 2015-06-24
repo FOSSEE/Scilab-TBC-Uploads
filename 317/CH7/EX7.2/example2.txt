@@ -1,0 +1,2 @@
+saturation current is 3 mAmperes
+cutoff voltage is 9 Volts

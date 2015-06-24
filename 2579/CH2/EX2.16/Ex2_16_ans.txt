@@ -1,0 +1,2 @@
+ The gain = 55.865999 dB
+ The beamwidth of a paraboloidal reflector antenna = 0.262500 degree 

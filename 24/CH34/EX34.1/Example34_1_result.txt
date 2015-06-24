@@ -1,0 +1,3 @@
+**Sample Problem 34-1**
+The rms value of electric field is equal to 4.81e+001V/m
+The rms value of magnetic field is equal to 1.60e-007T 

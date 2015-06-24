@@ -1,0 +1,6 @@
+(a)Vds=Vgs>Vgs-Vt.Hence active region operation
+0.2*Vgs^2+0.6*Vgs-9.8=0
+(b)Vgs = 5.66 V or -8.66 V
+Since 0<Vgs<10, Vgs = 5.66 V
+(c)Vds = Vgs = 5.66 V
+(d)Id = 4.34e-003 A 

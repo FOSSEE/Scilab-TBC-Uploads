@@ -1,0 +1,208 @@
+9#Pressure Measurements#9.9#calculate Length of scale angle to which tube is incliend to horizontal#9_9.sci#569/CH9/EX9.9/9_9.sci#S##28768
+9#Pressure Measurements#9.8#calculate angle to which tube is incliend to horizontal#9_8.sci#569/CH9/EX9.8/9_8.sci#S##28767
+9#Pressure Measurements#9.7#calculate angle to which tube is incliend to vertical#9_7.sci#569/CH9/EX9.7/9_7.sci#S##28766
+9#Pressure Measurements#9.6#calculate error interms of pressure#9_6.sci#569/CH9/EX9.6/9_6.sci#S##28765
+9#Pressure Measurements#9.4#calculate height#9_4.sci#569/CH9/EX9.4/9_4.sci#S##28764
+9#Pressure Measurements#9.3#Calculate Pressure head#9_3.sci#569/CH9/EX9.3/9_3.sci#S##28763
+9#Pressure Measurements#9.20#calculate error#9_20.sci#569/CH9/EX9.20/9_20.sci#S##28762
+9#Pressure Measurements#9.2#Calculate Pressure of air source#9_2.sci#569/CH9/EX9.2/9_2.sci#S##28761
+9#Pressure Measurements#9.19#calculate attenuation#9_19.sci#569/CH9/EX9.19/9_19.sci#S##28759
+9#Pressure Measurements#9.18#calculate the output voltage of bridge#9_18.sci#569/CH9/EX9.18/9_18.sci#S##28758
+9#Pressure Measurements#9.17#calculate the optimum setting#9_17.sci#569/CH9/EX9.17/9_17.sci#S##28756
+9#Pressure Measurements#9.16#calculate the open circuit voltage#9_16.sci#569/CH9/EX9.16/9_16.sci#S##28755
+9#Pressure Measurements#9.15#calculate the natural length of the spring and dispacement#9_15.sci#569/CH9/EX9.15/9_15.sci#S##28754
+9#Pressure Measurements#9.14#calculate thickness of diaphram and natural frequency#9_14.sci#569/CH9/EX9.14/9_14.sci#S##28753
+9#Pressure Measurements#9.13#calculate damping factor time constant  error and time lag   calculate damping factor   natural frequency   time constant   error and time lag#9_13.sci#569/CH9/EX9.13/9_13.sci#S##28752
+9#Pressure Measurements#9.12#calculate value of counter weight required#9_12.sci#569/CH9/EX9.12/9_12.sci#S##28751
+9#Pressure Measurements#9.11#calculate amplification ratio and percentage error#9_11.sci#569/CH9/EX9.11/9_11.sci#S##28750
+9#Pressure Measurements#9.10#calculate diameter of the tube#9_10.sci#569/CH9/EX9.10/9_10.sci#S##28749
+9#Pressure Measurements#9.1#calculating the length of mean free path#9_1.sci#569/CH9/EX9.1/9_1.sci#S##28748
+8#Metrology#8.7#Calculate the change in thickness along its length#8_7.sci#569/CH8/EX8.7/8_7.sci#S##28747
+8#Metrology#8.6#Calculate the difference in two diameters#8_6.sci#569/CH8/EX8.6/8_6.sci#S##28746
+8#Metrology#8.5#calculate seperation distance between two surfaces and angle of tilt#8_5.sci#569/CH8/EX8.5/8_5.sci#S##28745
+8#Metrology#8.4#calculate difference between height of workpieces and pile of slip gauges#8_4.sci#569/CH8/EX8.4/8_4.sci#S##28744
+8#Metrology#8.3#calculate uncertainity in displacement#8_3.sci#569/CH8/EX8.3/8_3.sci#S##28743
+8#Metrology#8.2#calculate the sensitivity#8_2.sci#569/CH8/EX8.2/8_2.sci#S##28742
+8#Metrology#8.1#calculate the arrangement of slip gauges#8_1.sci#569/CH8/EX8.1/8_1.sci#S##28741
+7#Display Devices and recorders#7.9#Calculating possible phase angles#7_9.sci#569/CH7/EX7.9/7_9.sci#S##28740
+7#Display Devices and recorders#7.8#calculating number density of the tape#7_8.sci#569/CH7/EX7.8/7_8.sci#S##28739
+7#Display Devices and recorders#7.7#calculating speed of the tape#7_7.sci#569/CH7/EX7.7/7_7.sci#S##28738
+7#Display Devices and recorders#7.6#calculating number of turns and current#7_6.sci#569/CH7/EX7.6/7_6.sci#S##28737
+7#Display Devices and recorders#7.5#calculating maximum error#7_5.sci#569/CH7/EX7.5/7_5.sci#S##28736
+7#Display Devices and recorders#7.4#calculating frequency#7_4.sci#569/CH7/EX7.4/7_4.sci#S##28735
+7#Display Devices and recorders#7.3#calculating Total possible error and percentage error#7_3.sci#569/CH7/EX7.3/7_3.sci#S##28734
+7#Display Devices and recorders#7.2#calculating resolution#7_2.sci#569/CH7/EX7.2/7_2.sci#S##28733
+7#Display Devices and recorders#7.10#Calculating possible phase angles#7_10.sci#569/CH7/EX7.10/7_10.sci#S##28732
+7#Display Devices and recorders#7.1#calculating resolution#7_1.sci#569/CH7/EX7.1/7_1.sci#S##28731
+6#Signal Conditioning#6.9#Calculating the value of resistance and capacitance#6_9.sci#569/CH6/EX6.9/6_9.sci#S##28730
+6#Signal Conditioning#6.8#Calculating the values of resistances#6_8.sci#569/CH6/EX6.8/6_8.sci#S##28729
+6#Signal Conditioning#6.7#calculating gain and feedback resistance#6_7.sci#569/CH6/EX6.7/6_7.sci#S##28728
+6#Signal Conditioning#6.6#calculating output voltage due to offset voltage#6_6.sci#569/CH6/EX6.6/6_6.sci#S##28727
+6#Signal Conditioning#6.5#calculating Amplification factor#6_5.sci#569/CH6/EX6.5/6_5.sci#S##28726
+6#Signal Conditioning#6.4#calculating output voltage due to offset voltage#6_4.sci#569/CH6/EX6.4/6_4.sci#S##28725
+6#Signal Conditioning#6.34#to calculate op dc voltage#6_34.sci#569/CH6/EX6.34/6_34.sci#S##28724
+6#Signal Conditioning#6.33#Calculate the output of successive approximation A to D#6_33.sci#569/CH6/EX6.33/6_33.sci#S##28723
+6#Signal Conditioning#6.32#Calculating the output voltage#6_32.sci#569/CH6/EX6.32/6_32.sci#S##28722
+6#Signal Conditioning#6.31#Calculating the value of resistance and smallest output current#6_31.sci#569/CH6/EX6.31/6_31.sci#S##28721
+6#Signal Conditioning#6.30#Calculating the number of bits  Value of LSB Quantization error  minimum sampling rate Aperature time and dynamic range#6_30.sci#569/CH6/EX6.30/6_30.sci#S##28720
+6#Signal Conditioning#6.3#calculating the maximum output voltage#6_3.sci#569/CH6/EX6.3/6_3.sci#S##28719
+6#Signal Conditioning#6.29#Calculating reference voltage and percentage change#6_29.sci#569/CH6/EX6.29/6_29.sci#S##28718
+6#Signal Conditioning#6.28#Calculating the weight of MSB and LSB#6_28.sci#569/CH6/EX6.28/6_28.sci#S##28717
+6#Signal Conditioning#6.27#Calculating the resolution of the instrument quantization error and decesion levels#6_27.sci#569/CH6/EX6.27/6_27.sci#S##28716
+6#Signal Conditioning#6.26#Calculating  the maximum voltage sensitivity of the bridge#6_26.sci#569/CH6/EX6.26/6_26.sci#S##28715
+6#Signal Conditioning#6.25#Calculating maximum permissible current through strain gauge  supply voltage  and Power dissipation in series resistance#6_25.sci#569/CH6/EX6.25/6_25.sci#S##28714
+6#Signal Conditioning#6.24#calculating the current#6_24.sci#569/CH6/EX6.24/6_24.sci#S##28713
+6#Signal Conditioning#6.23#Calculating the resistance of unknown resistance#6_23.sci#569/CH6/EX6.23/6_23.sci#S##28712
+6#Signal Conditioning#6.22#Calculating the bridge output#6_22.sci#569/CH6/EX6.22/6_22.sci#S##28711
+6#Signal Conditioning#6.21#calculating the resistance and output voltage#6_21.sci#569/CH6/EX6.21/6_21.sci#S##28710
+6#Signal Conditioning#6.20#calculate the output voltage for different values of K#6_20.sci#569/CH6/EX6.20/6_20.sci#S##28709
+6#Signal Conditioning#6.2#calculating the closed loop gain#6_2.sci#569/CH6/EX6.2/6_2.sci#S##28708
+6#Signal Conditioning#6.19#calculate the output voltage and sensitivity#6_19.sci#569/CH6/EX6.19/6_19.sci#S##28707
+6#Signal Conditioning#6.17#calcuating the value of C#6_17.sci#569/CH6/EX6.17/6_17.sci#S##28706
+6#Signal Conditioning#6.16#calcuating the passband gain and upper and lower cut off frequencies#6_16.sci#569/CH6/EX6.16/6_16.sci#S##28705
+6#Signal Conditioning#6.15#calculating  time constant and value of capacitance#6_15.sci#569/CH6/EX6.15/6_15.sci#S##28704
+6#Signal Conditioning#6.14#calculating minimum  maximum time constants and value of frequencies#6_14.sci#569/CH6/EX6.14/6_14.sci#S##28703
+6#Signal Conditioning#6.13#Calculating sensitivity and output voltage#6_13.sci#569/CH6/EX6.13/6_13.sci#S##28702
+6#Signal Conditioning#6.12#Calculating Signal to noise ratio and CMRR#6_12.sci#569/CH6/EX6.12/6_12.sci#S##28701
+6#Signal Conditioning#6.11#Calculating Difference mode  Common mode gain and CMRR#6_11.sci#569/CH6/EX6.11/6_11.sci#S##28700
+6#Signal Conditioning#6.10#Calculating Difference mode gain and output voltage#6_10.sci#569/CH6/EX6.10/6_10.sci#S##28699
+6#Signal Conditioning#6.1#calculating feedback resistance#6_1.sci#569/CH6/EX6.1/6_1.sci#S##28698
+5#Primary Sensing Elements and Transducers#5.9#Checking the suitability of the potentiometer#5_9.sci#569/CH5/EX5.9/5_9.sci#S##28664
+5#Primary Sensing Elements and Transducers#5.8#Calculating the resolution of the potentiometer#5_8.sci#569/CH5/EX5.8/5_8.sci#S##28663
+5#Primary Sensing Elements and Transducers#5.7#Calculating the maximum excitation voltage and the sensitivity#5_7.sci#569/CH5/EX5.7/5_7.sci#S##28662
+5#Primary Sensing Elements and Transducers#5.6#Calculating the output voltage#5_6.sci#569/CH5/EX5.6/5_6.sci#S##28661
+5#Primary Sensing Elements and Transducers#5.54#Find the value of current#5_54.sci#569/CH5/EX5.54/5_54.sci#S##28660
+5#Primary Sensing Elements and Transducers#5.53#Calculate the internal resistance of cell and open circuit voltage#5_53.sci#569/CH5/EX5.53/5_53.sci#S##28659
+5#Primary Sensing Elements and Transducers#5.52#Calculate incident power and cut off frequency#5_52.sci#569/CH5/EX5.52/5_52.sci#S##28658
+5#Primary Sensing Elements and Transducers#5.51#Calculate the resistance of the cell#5_51.sci#569/CH5/EX5.51/5_51.sci#S##28657
+5#Primary Sensing Elements and Transducers#5.50#Calculate maximum velocity of emitted photo electrons#5_50.sci#569/CH5/EX5.50/5_50.sci#S##28656
+5#Primary Sensing Elements and Transducers#5.5#plot the graph of error versus K#5_5.sci#569/CH5/EX5.5/5_5.sci#S##28655
+5#Primary Sensing Elements and Transducers#5.49#Calculate the threshold wavelength#5_49.sci#569/CH5/EX5.49/5_49.sci#S##28654
+5#Primary Sensing Elements and Transducers#5.48#calculate op volatge#5_48.sci#569/CH5/EX5.48/5_48.sci#S##28653
+5#Primary Sensing Elements and Transducers#5.47#to prove time constant should be approximately 20T#5_47.sci#569/CH5/EX5.47/5_47.sci#S##28652
+5#Primary Sensing Elements and Transducers#5.46#calculate op volatge#5_46.sci#569/CH5/EX5.46/5_46.sci#S##28651
+5#Primary Sensing Elements and Transducers#5.45#calculate sensitivity of the transducer  high frequency sensitivity   Lowest frequency  Calculate external shunt capacitance and high frequency sensitivity after connecting the external shunt capacitance#5_45.sci#569/CH5/EX5.45/5_45.sci#S##28650
+5#Primary Sensing Elements and Transducers#5.44#Calculate the minimum frequency and phase shift#5_44.sci#569/CH5/EX5.44/5_44.sci#S##28649
+5#Primary Sensing Elements and Transducers#5.43#calculate peak to peak voltage swing under open and loaded conditions calculate maximum change in crystal thickness#5_43.sci#569/CH5/EX5.43/5_43.sci#S##28648
+5#Primary Sensing Elements and Transducers#5.42#Calculate the strain  charge and capacitance clc#5_42.sci#569/CH5/EX5.42/5_42.sci#S##28647
+5#Primary Sensing Elements and Transducers#5.41#Calculate the force#5_41.sci#569/CH5/EX5.41/5_41.sci#S##28646
+5#Primary Sensing Elements and Transducers#5.40#Calculate the output voltage and charge sensitivity#5_40.sci#569/CH5/EX5.40/5_40.sci#S##28645
+5#Primary Sensing Elements and Transducers#5.4#Calculating the displacement and resolution of the potentiometer#5_4.sci#569/CH5/EX5.4/5_4.sci#S##28644
+5#Primary Sensing Elements and Transducers#5.37#Calculate the change in capacitance and ratio#5_37.sci#569/CH5/EX5.37/5_37.sci#S##28643
+5#Primary Sensing Elements and Transducers#5.36#Calculate the value of time constant  phase shift  series resistance amplitude ratio and voltage sensitivity#5_36.sci#569/CH5/EX5.36/5_36.sci#S##28642
+5#Primary Sensing Elements and Transducers#5.35#Calculate the dielectric stress  change in value of capacitance#5_35.sci#569/CH5/EX5.35/5_35.sci#S##28641
+5#Primary Sensing Elements and Transducers#5.34#Calculate the change in frequency of the oscillator#5_34.sci#569/CH5/EX5.34/5_34.sci#S##28640
+5#Primary Sensing Elements and Transducers#5.33#Calculate the value of the capacitance afte the application of pressure#5_33.sci#569/CH5/EX5.33/5_33.sci#S##28639
+5#Primary Sensing Elements and Transducers#5.32#calculating the sensitivity of the transducer#5_32.sci#569/CH5/EX5.32/5_32.sci#S##28638
+5#Primary Sensing Elements and Transducers#5.31#calculate the deflection  maximum and minimum force#5_31.sci#569/CH5/EX5.31/5_31.sci#S##28637
+5#Primary Sensing Elements and Transducers#5.30#Calculate senstivity of the LVDT#5_30.sci#569/CH5/EX5.30/5_30.sci#S##28636
+5#Primary Sensing Elements and Transducers#5.3#Calculate the Torque#5_3.sci#569/CH5/EX5.3/5_3.sci#S##28635
+5#Primary Sensing Elements and Transducers#5.29#Calculate the percentage linearity#5_29.sci#569/CH5/EX5.29/5_29.sci#S##28634
+5#Primary Sensing Elements and Transducers#5.28#Calculate the values of resistance R1 and R2#5_28.sci#569/CH5/EX5.28/5_28.sci#S##28633
+5#Primary Sensing Elements and Transducers#5.27#Calcating the series resistance and approximate error#5_27.sci#569/CH5/EX5.27/5_27.sci#S##28632
+5#Primary Sensing Elements and Transducers#5.26#Calculating the temperature#5_26.sci#569/CH5/EX5.26/5_26.sci#S##28631
+5#Primary Sensing Elements and Transducers#5.25#Calculating the sensitivity and maximum output voltage#5_25.sci#569/CH5/EX5.25/5_25.sci#S##28630
+5#Primary Sensing Elements and Transducers#5.24#calculating the frequencies of oscillation#5_24.sci#569/CH5/EX5.24/5_24.sci#S##28629
+5#Primary Sensing Elements and Transducers#5.23#calculating the change in temperature#5_23.sci#569/CH5/EX5.23/5_23.sci#S##28628
+5#Primary Sensing Elements and Transducers#5.22#find resistance#5_22.sci#569/CH5/EX5.22/5_22.sci#S##28627
+5#Primary Sensing Elements and Transducers#5.21#Calculate the resistance#5_21.sci#569/CH5/EX5.21/5_21.sci#S##28626
+5#Primary Sensing Elements and Transducers#5.20#Calculate the time#5_20.sci#569/CH5/EX5.20/5_20.sci#S##28625
+5#Primary Sensing Elements and Transducers#5.2#Calculate the angle of twist#5_2.sci#569/CH5/EX5.2/5_2.sci#S##28624
+5#Primary Sensing Elements and Transducers#5.19#Calculate the resistance#5_19.sci#569/CH5/EX5.19/5_19.sci#S##28623
+5#Primary Sensing Elements and Transducers#5.18#Calculate the resistance and the temperature#5_18.sci#569/CH5/EX5.18/5_18.sci#S##28622
+5#Primary Sensing Elements and Transducers#5.17#Calculate the linear approximation#5_17.sci#569/CH5/EX5.17/5_17.sci#S##28621
+5#Primary Sensing Elements and Transducers#5.16#Calculate the linear approximation#5_16.sci#569/CH5/EX5.16/5_16.sci#S##28620
+5#Primary Sensing Elements and Transducers#5.15#Calculating the change in length and the force applied#5_15.sci#569/CH5/EX5.15/5_15.sci#S##28619
+5#Primary Sensing Elements and Transducers#5.14#Calculating the Gauge factor#5_14.sci#569/CH5/EX5.14/5_14.sci#S##28618
+5#Primary Sensing Elements and Transducers#5.13#calculate the percentage change in value of the gauge resistance#5_13.sci#569/CH5/EX5.13/5_13.sci#S##28617
+5#Primary Sensing Elements and Transducers#5.12#Calculating the value of the resistance of the gauges#5_12.sci#569/CH5/EX5.12/5_12.sci#S##28616
+5#Primary Sensing Elements and Transducers#5.11#Calculating the possion ratio#5_11.sci#569/CH5/EX5.11/5_11.sci#S##28615
+5#Primary Sensing Elements and Transducers#5.10#Checking the suitability of the potentiometer#5_10.sci#569/CH5/EX5.10/5_10.sci#S##28614
+5#Primary Sensing Elements and Transducers#5.1#Calculate the deflection at center#5_1.sci#569/CH5/EX5.1/5_1.sci#S##28613
+4#Dynamic Characteristics of Instruments and Measurement systems#4.9#Calculate the temperature after 10s#4_9.sci#569/CH4/EX4.9/4_9.sci#S##28608
+4#Dynamic Characteristics of Instruments and Measurement systems#4.8#Calculate time constant#4_8.sci#569/CH4/EX4.8/4_8.sci#S##28612
+4#Dynamic Characteristics of Instruments and Measurement systems#4.6#Calculate the depth after one hour#4_6.sci#569/CH4/EX4.6/4_6.sci#S##28611
+4#Dynamic Characteristics of Instruments and Measurement systems#4.5#Calculate the value of resistance after 15s#4_5.sci#569/CH4/EX4.5/4_5.sci#S##28610
+4#Dynamic Characteristics of Instruments and Measurement systems#4.4#Calculate the temperature after 10s#4_4.sci#569/CH4/EX4.4/4_4.sci#S##28609
+4#Dynamic Characteristics of Instruments and Measurement systems#4.23#determine the error#4_23.sci#569/CH4/EX4.23/4_23.sci#S##28607
+4#Dynamic Characteristics of Instruments and Measurement systems#4.22#Calculate the frequency range#4_22.sci#569/CH4/EX4.22/4_22.sci#S##28606
+4#Dynamic Characteristics of Instruments and Measurement systems#4.21#determine damping ratio#4_21.sci#569/CH4/EX4.21/4_21.sci#S##28605
+4#Dynamic Characteristics of Instruments and Measurement systems#4.20#Calculate maximum and minimum value of indicated temperature  phase shift  time lag#4_20.sci#569/CH4/EX4.20/4_20.sci#S##28604
+4#Dynamic Characteristics of Instruments and Measurement systems#4.2#calculate time to read half of the temperature difference#4_2.sci#569/CH4/EX4.2/4_2.sci#S##28603
+4#Dynamic Characteristics of Instruments and Measurement systems#4.19#Find the output#4_19.sci#569/CH4/EX4.19/4_19.sci#S##28602
+4#Dynamic Characteristics of Instruments and Measurement systems#4.18#Calculate maximum value of indicated temperature and delay time#4_18.sci#569/CH4/EX4.18/4_18.sci#S##28601
+4#Dynamic Characteristics of Instruments and Measurement systems#4.17#Calculate the maximum allowable time constant and phase shift#4_17.sci#569/CH4/EX4.17/4_17.sci#S##28600
+4#Dynamic Characteristics of Instruments and Measurement systems#4.16#Calculate time lag and ratio of output and input#4_16.sci#569/CH4/EX4.16/4_16.sci#S##28599
+4#Dynamic Characteristics of Instruments and Measurement systems#4.15#Calculate natural frequency and setteling time#4_15.sci#569/CH4/EX4.15/4_15.sci#S##28598
+4#Dynamic Characteristics of Instruments and Measurement systems#4.14#Calculate the natural  frequency#4_14.sci#569/CH4/EX4.14/4_14.sci#S##28597
+4#Dynamic Characteristics of Instruments and Measurement systems#4.13#Calculate damping ratio  natural frequency  frequency of damped oscillations  time constant and steady state error for ramp signal#4_13.sci#569/CH4/EX4.13/4_13.sci#S##28596
+4#Dynamic Characteristics of Instruments and Measurement systems#4.12#calculate the value of damping constant and frequency of damped oscillations#4_12.sci#569/CH4/EX4.12/4_12.sci#S##28595
+4#Dynamic Characteristics of Instruments and Measurement systems#4.11#Calculate the value of resistance at different values of time#4_11.sci#569/CH4/EX4.11/4_11.sci#S##28594
+4#Dynamic Characteristics of Instruments and Measurement systems#4.10#Calculate the temperature at a depth of 1000 m#4_10.sci#569/CH4/EX4.10/4_10.sci#S##28593
+4#Dynamic Characteristics of Instruments and Measurement systems#4.1#calculating the temperature#4_1.sci#569/CH4/EX4.1/4_1.sci#S##28592
+3#Errors in Measurements and Their Statistical Analysis#3.9#Calculate the percentage limiting error and range of resistance values#3_9.sci#569/CH3/EX3.9/3_9.sci#S##28591
+3#Errors in Measurements and Their Statistical Analysis#3.8#Calculate the guaranteed values of the resistance#3_8.sci#569/CH3/EX3.8/3_8.sci#S##28590
+3#Errors in Measurements and Their Statistical Analysis#3.7#calculate the value of  relative limiting error in resistance#3_7.sci#569/CH3/EX3.7/3_7.sci#S##28589
+3#Errors in Measurements and Their Statistical Analysis#3.6#Calculate the magnitude and limiting error in ohm and in percentage of the resistance#3_6.sci#569/CH3/EX3.6/3_6.sci#S##28588
+3#Errors in Measurements and Their Statistical Analysis#3.5#Calculate the range of readings specified interms of fsd and true value#3_5.sci#569/CH3/EX3.5/3_5.sci#S##28587
+3#Errors in Measurements and Their Statistical Analysis#3.41#to calculate uncertainity in power#3_41.sci#569/CH3/EX3.41/3_41.sci#S##28586
+3#Errors in Measurements and Their Statistical Analysis#3.40#to calculate uncertainity in measurement#3_40.sci#569/CH3/EX3.40/3_40.sci#S##28585
+3#Errors in Measurements and Their Statistical Analysis#3.4#Calculate the limiting error in percent#3_4.sci#569/CH3/EX3.4/3_4.sci#S##28584
+3#Errors in Measurements and Their Statistical Analysis#3.39#to find uncertainity in combined resistance in both series and in parrallel#3_39.sci#569/CH3/EX3.39/3_39.sci#S##28583
+3#Errors in Measurements and Their Statistical Analysis#3.38#calculate power disipated and uncertaainity in power#3_38.sci#569/CH3/EX3.38/3_38.sci#S##28582
+3#Errors in Measurements and Their Statistical Analysis#3.37#to find Cq and its possible errors#3_37.sci#569/CH3/EX3.37/3_37.sci#S##28581
+3#Errors in Measurements and Their Statistical Analysis#3.35#determine probable error in the computed value of resistnce#3_35.sci#569/CH3/EX3.35/3_35.sci#S##28580
+3#Errors in Measurements and Their Statistical Analysis#3.34#determine value of total current considering errors as limiting errors ans as standrd deviations#3_34.sci#569/CH3/EX3.34/3_34.sci#S##28579
+3#Errors in Measurements and Their Statistical Analysis#3.32#calculate standard deviation#3_32.sci#569/CH3/EX3.32/3_32.sci#S##28578
+3#Errors in Measurements and Their Statistical Analysis#3.31#to point out the reading that can be rejected by chavenets criterion#3_31.sci#569/CH3/EX3.31/3_31.sci#S##28577
+3#Errors in Measurements and Their Statistical Analysis#3.30#to find confidence interval for given confidence levels#3_30.sci#569/CH3/EX3.30/3_30.sci#S##28576
+3#Errors in Measurements and Their Statistical Analysis#3.3#Calculate the range of readings#3_3.sci#569/CH3/EX3.3/3_3.sci#S##28575
+3#Errors in Measurements and Their Statistical Analysis#3.29#to calculate precision index of instrument#3_29.sci#569/CH3/EX3.29/3_29.sci#S##28574
+3#Errors in Measurements and Their Statistical Analysis#3.28#to find no of expected readings#3_28.sci#569/CH3/EX3.28/3_28.sci#S##28573
+3#Errors in Measurements and Their Statistical Analysis#3.27#to find standard deviation and probability of error#3_27.sci#569/CH3/EX3.27/3_27.sci#S##28572
+3#Errors in Measurements and Their Statistical Analysis#3.26#to find no of rods of desired length#3_26.sci#569/CH3/EX3.26/3_26.sci#S##28571
+3#Errors in Measurements and Their Statistical Analysis#3.25#to find no of 100 rsding exceed 30mm#3_25.sci#569/CH3/EX3.25/3_25.sci#S##28570
+3#Errors in Measurements and Their Statistical Analysis#3.24#to find probable no of resistors#3_24.sci#569/CH3/EX3.24/3_24.sci#S##28569
+3#Errors in Measurements and Their Statistical Analysis#3.23#to find the arithematic mean  maen deviation  standard deviation  prpobable error of 1 reading  standard deviation and probable error of mean  standard deviation of standard deviation#3_23.sci#569/CH3/EX3.23/3_23.sci#S##28568
+3#Errors in Measurements and Their Statistical Analysis#3.22#to find the mean  standard deviation  probable error and range#3_22.sci#569/CH3/EX3.22/3_22.sci#S##28567
+3#Errors in Measurements and Their Statistical Analysis#3.21#to find the mean  deviations from the mean   Average deviation  standard deviation and variance#3_21.sci#569/CH3/EX3.21/3_21.sci#S##28566
+3#Errors in Measurements and Their Statistical Analysis#3.20#Calculate the error and percentage error in the measurement of deflection#3_20.sci#569/CH3/EX3.20/3_20.sci#S##28565
+3#Errors in Measurements and Their Statistical Analysis#3.2#calculating percentage limiting error#3_2.sci#569/CH3/EX3.2/3_2.sci#S##28564
+3#Errors in Measurements and Their Statistical Analysis#3.19#Calculate apparent resistance  actual resistance and error#3_19.sci#569/CH3/EX3.19/3_19.sci#S##28563
+3#Errors in Measurements and Their Statistical Analysis#3.18#Calculate apparent resistance  actual resistance and error#3_18.sci#569/CH3/EX3.18/3_18.sci#S##28562
+3#Errors in Measurements and Their Statistical Analysis#3.17#calculate the per unit change in the value of spring for different temperature ranges#3_17.sci#569/CH3/EX3.17/3_17.sci#S##28561
+3#Errors in Measurements and Their Statistical Analysis#3.16#calculate the Volume and relative error#3_16.sci#569/CH3/EX3.16/3_16.sci#S##28560
+3#Errors in Measurements and Their Statistical Analysis#3.15#find the error#3_15.sci#569/CH3/EX3.15/3_15.sci#S##28559
+3#Errors in Measurements and Their Statistical Analysis#3.14#calculate the total resistance  error of each register and fractional error of total resistance#3_14.sci#569/CH3/EX3.14/3_14.sci#S##28558
+3#Errors in Measurements and Their Statistical Analysis#3.13#Calculate the true power as a percentage of measured power#3_13.sci#569/CH3/EX3.13/3_13.sci#S##28557
+3#Errors in Measurements and Their Statistical Analysis#3.12#calculate the power loss and relative error#3_12.sci#569/CH3/EX3.12/3_12.sci#S##28556
+3#Errors in Measurements and Their Statistical Analysis#3.11#Calculate the magnitude of Force and limiting error#3_11.sci#569/CH3/EX3.11/3_11.sci#S##28555
+3#Errors in Measurements and Their Statistical Analysis#3.10#Calculate the magnitude of power and limiting error#3_10.sci#569/CH3/EX3.10/3_10.sci#S##28554
+3#Errors in Measurements and Their Statistical Analysis#3.1#calculating guarantee value of capacitance#3_1.sci#569/CH3/EX3.1/3_1.sci#S##28553
+2#Static Characteristics of Instruments and Measurement systems#2.9#calculating the signal to noise ratio at input  calculating the signal to noise ratio at output   calculating the noise factor and noise figure#2_9.sci#569/CH2/EX2.9/2_9.sci#S##28463
+2#Static Characteristics of Instruments and Measurement systems#2.8#calculating the noise voltage#2_8.sci#569/CH2/EX2.8/2_8.sci#S##28462
+2#Static Characteristics of Instruments and Measurement systems#2.7#calculating the noise output voltage of the amplifier#2_7.sci#569/CH2/EX2.7/2_7.sci#S##28461
+2#Static Characteristics of Instruments and Measurement systems#2.6#calculating the pressure for a dial reading of 100#2_6.sci#569/CH2/EX2.6/2_6.sci#S##28460
+2#Static Characteristics of Instruments and Measurement systems#2.5#calculating maximum static error Span of the thermometer degree C Accuracy of the thermometer in terms of percentage of span#2_5.sci#569/CH2/EX2.5/2_5.sci#S##28466
+2#Static Characteristics of Instruments and Measurement systems#2.4#calculating static error and static correction#2_4.sci#569/CH2/EX2.4/2_4.sci#S##28459
+2#Static Characteristics of Instruments and Measurement systems#2.3#calculating Relative error expressed as a percentage of f s d#2_3.sci#569/CH2/EX2.3/2_3.sci#S##28465
+2#Static Characteristics of Instruments and Measurement systems#2.29#calculating the maximum available power#2_29.sci#569/CH2/EX2.29/2_29.sci#S##28458
+2#Static Characteristics of Instruments and Measurement systems#2.28#calculating the actual value of current  measured value of current and percentage error#2_28.sci#569/CH2/EX2.28/2_28.sci#S##28457
+2#Static Characteristics of Instruments and Measurement systems#2.27#calculating the voltage across the oscilloscope#2_27.sci#569/CH2/EX2.27/2_27.sci#S##28456
+2#Static Characteristics of Instruments and Measurement systems#2.26#calculating the loading error#2_26.sci#569/CH2/EX2.26/2_26.sci#S##28455
+2#Static Characteristics of Instruments and Measurement systems#2.25#calculating the reading of the multimeter and percentage error#2_25.sci#569/CH2/EX2.25/2_25.sci#S##28454
+2#Static Characteristics of Instruments and Measurement systems#2.24#calculating the reading of the multimeter and percentage error#2_24.sci#569/CH2/EX2.24/2_24.sci#S##28453
+2#Static Characteristics of Instruments and Measurement systems#2.23#calculating the Resolution#2_23.sci#569/CH2/EX2.23/2_23.sci#S##28452
+2#Static Characteristics of Instruments and Measurement systems#2.22#calculating the Resolution#2_22.sci#569/CH2/EX2.22/2_22.sci#S##28451
+2#Static Characteristics of Instruments and Measurement systems#2.20#calculating the dead zone#2_20.sci#569/CH2/EX2.20/2_20.sci#S##28450
+2#Static Characteristics of Instruments and Measurement systems#2.2#calculating true value of the temperature#2_2.sci#569/CH2/EX2.2/2_2.sci#S##28464
+2#Static Characteristics of Instruments and Measurement systems#2.19#calculating the maximum position deviation  resistance deviation#2_19.sci#569/CH2/EX2.19/2_19.sci#S##28449
+2#Static Characteristics of Instruments and Measurement systems#2.18#calculating the volume of the mercury thermometer#2_18.sci#569/CH2/EX2.18/2_18.sci#S##28448
+2#Static Characteristics of Instruments and Measurement systems#2.17#calculating the sensitivity and deflection factor of wheatstone bridge#2_17.sci#569/CH2/EX2.17/2_17.sci#S##28447
+2#Static Characteristics of Instruments and Measurement systems#2.16#calculating the voltage drop with appropriate number of significant figure#2_16.sci#569/CH2/EX2.16/2_16.sci#S##28446
+2#Static Characteristics of Instruments and Measurement systems#2.15#calculating the sum of resistances connected in series with appropriate number of significant figure#2_15.sci#569/CH2/EX2.15/2_15.sci#S##28445
+2#Static Characteristics of Instruments and Measurement systems#2.14#calculating the power with uncertainity of one unit in voltage and current#2_14.sci#569/CH2/EX2.14/2_14.sci#S##28444
+2#Static Characteristics of Instruments and Measurement systems#2.13#calculating the sum of resistances connected in series with uncertainity of one unit#2_13.sci#569/CH2/EX2.13/2_13.sci#S##28443
+2#Static Characteristics of Instruments and Measurement systems#2.12#calculating the average force and range of error#2_12.sci#569/CH2/EX2.12/2_12.sci#S##28442
+2#Static Characteristics of Instruments and Measurement systems#2.10#calculating the ratio of output signal to noise signal#2_10.sci#569/CH2/EX2.10/2_10.sci#S##28441
+2#Static Characteristics of Instruments and Measurement systems#2.1#calculating static error and static correction#2_1.sci#569/CH2/EX2.1/2_1.sci#S##28440

@@ -1,0 +1,13 @@
+Average laod = 50 kW 
+
+Average reactive power = 32.5 kVAR 
+
+Power factor angle = 0.58 radians 
+
+Power factor = 0.8384 
+
+Power factor surcharge = Rs. 388.0 
+
+Monthly bill = Rs. 7268.01 
+
+

@@ -1,0 +1,2 @@
+﻿
+ Radius of 80th half period zone = 3.872983e-04 meter 

@@ -1,0 +1,16 @@
+clc;
+hib=28;
+hfb=-0.98;
+hrb=5*10**-4;
+hob=0.34*10**-6;
+rL=1.2*10**3;
+Rs=0;
+Ai=-hfb/(1+hob*rL);
+disp(Ai);
+Ri=hib+hrb*Ai*rL;
+disp('Ohm',Ri*1,"Ri=");
+delh=hib*hob-hrb*hfb;
+Ro=(Rs+hib)/(Rs*hib+delh);
+disp('kOhm',Ro*10**-3,"Ro=");
+Av=(Ai*rL)/Ri;
+disp(Av);

@@ -1,0 +1,4 @@
+ Example 4.20   
+rotor copper loss=464.047423W
+Rotor input=15468.247423W
+output torque=96.592028Nm 

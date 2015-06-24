@@ -1,0 +1,34 @@
+clear;
+clc;
+V=420;
+V1=V/sqrt(3);
+N=1000;
+w_m=2*%pi*N/60;
+N_s=1500;
+s=(N_s-N)/N_s;
+a=.8;
+V_d=2.339*a*s*V1;    printf("rectified voltage=%.2f V",V_d);
+T=450;
+N1=1200;
+T_L=T*(N/N1)^2;
+f1=50;
+w_s=4*%pi*f1/4;
+I_d=w_s*T_L/(2.339*a*V1);    printf("\ninductor current=%.2f A",I_d);
+a_T=-.4;
+a1=acosd(s*a/a_T);    printf("\ndelay angle of inverter=%.2f deg",a1);
+
+P_s=V_d*I_d;
+P_o=T_L*w_m;
+R_d=0.01;
+P_i=I_d^2*R_d;
+I2=sqrt(2/3)*I_d;
+r2=0.02;
+r1=0.015;
+P_rol=3*I2^2*r2;
+I1=a*I2;
+P_sol=3*I1^2*r1;
+P_i=P_o+P_rol+P_sol+P_i;
+eff=P_o/P_i*100;    printf("\nefficiency=%.2f",eff);
+w_m=w_s*(1+(-a_T/a)*cosd(a1)-w_s*R_d*T_L/(2.339*a*V1)^2);
+N=w_m*60/(2*%pi);    printf("\nmotor speed=%.1f rpm",N);
+//Answers have small variations from that in the book due to difference in the rounding off of digits.

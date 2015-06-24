@@ -1,0 +1,5 @@
+# PROBLEM 13 # 
+Standard formula used 
+   Chi = mu_0*N*M^2 /(3*k*t) 
+
+ Susceptibility is 5.642285e-07

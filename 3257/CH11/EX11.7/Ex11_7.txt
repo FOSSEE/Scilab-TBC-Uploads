@@ -1,0 +1,6 @@
+ 
+ Example 11.7
+ Due to 15% porosity
+ Tensile strength becomes 59 MPa.
+ Modulus of elasticity becomes 367 GPa.
+ Thermal conductivity becomes 0.51 W/m-K. 

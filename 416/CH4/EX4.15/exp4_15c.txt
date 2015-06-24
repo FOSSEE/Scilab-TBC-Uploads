@@ -1,0 +1,6 @@
+ 
+ example 4 15   
+ current drawn by motor is 47.5A 
+ the line loss will be minimum when i is munimum.the minimum value of i is 38A and occurs when the capacitor bank draws a line current of -28jA 
+ capacitor C 130.95uf 
+ percentage loss reduction 36 

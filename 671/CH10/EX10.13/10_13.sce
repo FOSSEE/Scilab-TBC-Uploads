@@ -1,0 +1,9 @@
+V=220
+Ra=1
+Rse=0.4
+Ia1=20
+Ia2=sqrt(Ia1*Ia1*0.7*0.7*0.7)
+Ea1=V-Ia1*(Ra+Rse)
+Ea2=Ia2*0.7*Ea1/Ia1
+Rext=(V-Ea2)/Ia2-Ra-Rse
+disp(Rext)

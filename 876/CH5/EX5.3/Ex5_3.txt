@@ -1,0 +1,3 @@
+ equivalant voltage source of the ac current source(in V)=   
+ 
+    100.

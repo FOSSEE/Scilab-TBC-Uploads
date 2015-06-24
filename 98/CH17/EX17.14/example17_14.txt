@@ -1,0 +1,19 @@
+% reactance of the alternator = 20.00 % 
+
+% reactance of the transformer = 20.00 % 
+
+% reactance of the transmission line = 45.91 % 
+
+% resistance of the transmission line = 9.18 % 
+
+Total % reactance upto fault point = 85.91 % 
+
+Total % resistance upto fault point = 9.18 % 
+
+Total % impedance upto fault point = 86.40 % 
+
+Short circuit MVA = 11.57 MVA 
+
+Short circuit current fed by the alternator to the fault = 1012.43 A 
+
+

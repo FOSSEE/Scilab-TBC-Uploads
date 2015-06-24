@@ -1,0 +1,2 @@
+(a)  The value of the shunt resistor, R_sh = 0.556 ohm
+(b)  The value of the current limiting resistor, R_1 = 29.75 ohm 

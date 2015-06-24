@@ -1,0 +1,2 @@
+﻿ The angle between characteristics directions of the sheet in first case = 54.735610 degree. 
+ the angle between characteristics directions of the sheet in second case = 35.264390 degree.

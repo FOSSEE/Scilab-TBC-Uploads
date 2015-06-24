@@ -1,0 +1,4 @@
+  
+ speed of motor (in rpm)=   
+ 
+    963.88443  

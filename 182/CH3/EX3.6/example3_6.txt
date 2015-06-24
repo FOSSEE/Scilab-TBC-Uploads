@@ -1,0 +1,4 @@
+
+6. the applied voltage when instrument indicates 0.800000 FSD=40 V
+the applied voltage when instrument indicates 0.500000 FSD=25 V
+the applied voltage when instrument indicates 0.200000 FSD=10 V

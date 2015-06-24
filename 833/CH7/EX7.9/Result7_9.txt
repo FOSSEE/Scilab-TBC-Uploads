@@ -1,0 +1,4 @@
+Speed at which generator will run as motor is(in r.p.m)=   
+ 
+    369.7551  
+ 

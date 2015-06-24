@@ -1,0 +1,6 @@
+ 
+ #solidification time for various shapes# 
+
+ the solidification time for the sphere is 0.042774C
+ the solidification time for the cube is 0.027778C
+ the solidification time for the sphere is 0.032643C

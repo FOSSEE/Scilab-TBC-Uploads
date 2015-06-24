@@ -1,0 +1,3 @@
+ Information Rate 
+
+ 	 R= 80 kb/s 

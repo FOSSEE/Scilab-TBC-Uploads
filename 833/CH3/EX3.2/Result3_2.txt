@@ -1,0 +1,11 @@
+(a)High Voltage side line and phase currents(inA)=   
+ 
+    3.4304829  
+ 
+    1.9805902  
+ 
+ (b)Low voltage side phase and line currents(inA)=   
+ 
+    85.762072  
+ 
+    85.762072 

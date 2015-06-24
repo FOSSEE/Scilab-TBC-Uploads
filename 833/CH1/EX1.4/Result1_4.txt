@@ -1,0 +1,31 @@
+(a)equivalent resistance of low voltage side in terms of high voltage side=   
+ 
+    4.  
+ 
+ equivalent reactance of low voltage side in terms of high voltage side=   
+ 
+    15.  
+ 
+ (b)equivalent resistance of high voltage side in terms of low voltage side =   
+ 
+    0.0125  
+ 
+ equivalent reactance of high voltage side in terms of low voltage side =   
+ 
+    0.04  
+ 
+ (c)total resistance of transformer in terms of high voltage side=   
+ 
+    5.25  
+ 
+ total reactance of transformer in terms of high voltage side=   
+ 
+    19.  
+ 
+ (d)total resistance of transformer in terms of low voltage side=   
+ 
+    0.0525  
+ 
+ total reactance of transformer in terms of low voltage side=   
+ 
+    0.19  

@@ -1,0 +1,108 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example2.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            18   
+ 
+ Chapter Title                         :                                             awk-An advanced Filter   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 2    :               Show the method of using field extraction and begin-end in awk 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+1. Here all instructions are preloaded in the form of a demo
+
+Initially the whole perl script is displaying and then 
+ the result of the same can be seen in the command line interpreter.
+
+2. PLEASE MAKE SURE THAT THE PERLSCRIPT INTERPRETER
+EXISTS IN THE SYSTEM
+OR THE COMMAND WOULD NOT WORK 
+
+3. PRESS ENTER AFTER EACH COMMAND to see its RESULT
+
+5. PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat emp.lst      # to open the file emp.lst 2233|a.k.shukla             |g.m.        |sales           |12/12/52|6000
+9876|jai sharma             |director  |production |12/03/50|7000
+5678|sumit chakrobarty|d.g.m      |marketing  |19/04/43|6000
+2356|barun sengupta      |director  |personnel  |11/05/47|7800
+5423|n.k. gupta              |chairman |admin       |30/08/56|5400
+1006|chanchal singhvi   |director  |sales          |03/09/38|6700
+6213|karuna ganguly      |g.m.        |accounts   |05/06/62|6300
+1265|s.n. dasgupta         |manager  |sales          |12/09/63|5600
+4290|jayant Choudhary  |executive |production|07/09/50|6000
+2476|anil aggarwal        |manager   |sales          |01/05/59|5000
+6521|lalit chowdury       |director    |marketing |26/09/45|8200
+3212|shyam saksena      |d.g.m        |accounts   |12/12/55|6000
+3564|sudhir Agarwal     |executive  |personnel  |06/07/47|7500
+2345|j.b. saxena            |g.m.           |marketing |12/03/45|8000
+0110|v.k. agrawal         |g.m.           |marketing  |31/02/40|9000
+
+# Enter the name of the shellscript file whichever you desire  
+
+ begin {
+fs = "|"
+printf "%46s\n",  "Basic      Da      Hra   Gross"
+}/sales|marketing/  {
+     # Calculate the da, hra and gross pay
+     da = 0.25*$6 ; hra = 0.50*$6 ; gp = $6+hra+da
+     # Store the aggregates in seperate arrays
+     tot[1] += $6 ; tot[6] += da ; tot[3] += hra ; tot[4] += gp
+     kount++
+}
+END { # Print the averages
+    printf "\t        Average  %5d %5d %5d %5d\n" , \
+     tot[1]/kount, tot[2]/kount, tot[3]/kount, tot[4]/kount
+}
+ 
+# type the following command in the command line interpreter as soon as it appears 
+       "    .awk empn.lst     " [ENTER]
+
+
+$  .awk   empn.lst           #to execute the perlscript 
+
+
+   ---------------->Executing awkScript in Command Line Prompt<-------------- 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

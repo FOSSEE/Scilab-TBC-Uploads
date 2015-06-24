@@ -1,0 +1,8 @@
+**Sample Problem 22-1a**
+The coulombic force between the charged particle is 1.150951e-024N
+
+**Sample Problem 22-1b**
+The net force on particle 1 is equal to 8.951841e-025N
+
+**Sample Problem 22-1c**
+The net force on particle 1 is equal to 1.776614e-024N 

@@ -1,0 +1,15 @@
+A = 10^-4;
+kT = 0.0259;
+ni = 1.5*10^10;
+q = 1.6*10^-19;
+Na = 10^17;
+Nd = 10^15;
+epsilon0 = 8.85*10^-14;
+epsilon = 11.8;
+E1 = kT*log(Na/ni);
+E2 = kT*log(Nd/ni);
+V0 = E1+E2;
+V = -4;
+Cj = sqrt(epsilon*epsilon0)*A*sqrt(q*Nd*Na/(2*(V0-V)*(Na+Nd)));
+disp(V0,"V0 (in volt)=")
+disp(Cj,"total depletion constant (in farad)=")

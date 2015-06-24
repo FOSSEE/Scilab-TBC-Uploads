@@ -1,0 +1,18 @@
+clear;
+clc;
+V_s=400;
+V_m=sqrt(2)*V_s;
+V_f=2*V_m/%pi;
+a1=acosd(-V_f*%pi/(2*V_m));    printf("delay angle of field converter=%.0f deg",a1);
+r_f=200;
+I_f=V_f/r_f;
+T_e=85;
+K_a=.8;
+I_a=T_e/(I_f*K_a);
+n_m=1200;
+w_m=2*%pi*n_m/60;
+r_a=.1;
+I_a=50;
+V_t=-K_a*I_f*w_m+I_a*r_a;
+a=acosd(V_t*%pi/(2*V_m));    printf("\nfiring angle delay of armature converter=%.3f deg",a);
+printf("\npower fed back to ac supply=%.0f W",-V_t*I_a);

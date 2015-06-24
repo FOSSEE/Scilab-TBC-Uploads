@@ -1,0 +1,4 @@
+**Sample Problem 13-5**
+The stress in the rod is 2.186727e+008n/m^2
+The strain in the rod is 1.093364e-003
+The elongation in the rod is 8.856245e-004m 

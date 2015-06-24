@@ -1,0 +1,6 @@
+  
+ example 5.1   
+
+number of slots per pole per phase,m=3
+emfs of the oils of each phase will have a time-phase difference of  20 degree mechanical 
+distribution factor=0.959795 

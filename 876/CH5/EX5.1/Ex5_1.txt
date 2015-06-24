@@ -1,0 +1,11 @@
+ (a)internal voltage at load impedance 10 ohm(in ohm)=   
+ 
+    2.5  
+ 
+ (b)internal voltage at load impedance 20 ohm(in ohm)=   
+ 
+    3.3333333  
+ 
+ (c)internal voltage at load impedance 40 ohm(in ohm)=   
+ 
+    4.  

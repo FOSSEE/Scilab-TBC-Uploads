@@ -1,0 +1,59 @@
+8#THE SOLUTION OF DIFFERENTIAL EQUATIONS#8.6#Modified euler method#ex_6.sce#60/CH8/EX8.6/ex_6.sce#S##3873
+8#THE SOLUTION OF DIFFERENTIAL EQUATIONS#8.6#Modified euler method#modifiedEuler.sce#60/DEPENDENCIES/modifiedEuler.sce#D#Modified euler method#114
+8#THE SOLUTION OF DIFFERENTIAL EQUATIONS#8.5#Adamsbashforth3#ex_5.sce#60/CH8/EX8.5/ex_5.sce#S##3872
+8#THE SOLUTION OF DIFFERENTIAL EQUATIONS#8.5#Adamsbashforth3#adamsbash.sce#60/DEPENDENCIES/adamsbash.sce#D#adamsbashforth#115
+8#THE SOLUTION OF DIFFERENTIAL EQUATIONS#8.1#Taylor series#ex_1.sce#60/CH8/EX8.1/ex_1.sce#S##3731
+7#differentiation and integration#7.8#adaptive quadrature#ex_8.sce#60/CH7/EX7.8/ex_8.sce#S##4199
+7#differentiation and integration#7.1#integration#ex_1.sce#60/CH7/EX7.1/ex_1.sce#S##3822
+6#Approximation#6.5#approximate#ex_5.sce#60/CH6/EX6.5/ex_5.sce#S##3962
+6#Approximation#6.3#aproximation#ex_3.sce#60/CH6/EX6.3/ex_3.sce#S##3825
+6#Approximation#6.2#distance at infinity#ex_2.sce#60/CH6/EX6.2/ex_2.sce#S##3965
+6#Approximation#6.12#Least squares approximation#ex_12.sce#60/CH6/EX6.12/ex_12.sce#S##4013
+6#Approximation#6.11#polynomial of degree lessthan 3#ex_11.sce#60/CH6/EX6.11/ex_11.sce#S##3963
+6#Approximation#6.1#uniform aproximation#ex_1.sce#60/CH6/EX6.1/ex_1.sce#S##3823
+5#systems of equations and unconstraned optimization#5.2#Steep descent#ex_2.sce#60/CH5/EX5.2/ex_2.sce#S##4194
+5#systems of equations and unconstraned optimization#5.1#gradient#ex_1.sce#60/CH5/EX5.1/ex_1.sce#S##3820
+4#Matrices and Systems of linear Equations#4.8#Backward substitution#ex_8.sce#60/CH4/EX4.8/ex_8.sce#S##3862
+4#Matrices and Systems of linear Equations#4.7#matrix#ex_7.sce#60/CH4/EX4.7/ex_7.sce#S##3861
+4#Matrices and Systems of linear Equations#4.6#determinant#ex_6.sce#60/CH4/EX4.6/ex_6.sce#S##3860
+4#Matrices and Systems of linear Equations#4.4#matrix#ex_4.sce#60/CH4/EX4.4/ex_4.sce#S##3858
+4#Matrices and Systems of linear Equations#4.3#properties of matrices#ex_3.sci#60/CH4/EX4.3/ex_3.sci#S##3857
+4#Matrices and Systems of linear Equations#4.22#eigen values#ex_22.sce#60/CH4/EX4.22/ex_22.sce#S##4231
+4#Matrices and Systems of linear Equations#4.21#determinant#ex_21.sce#60/CH4/EX4.21/ex_21.sce#S##4230
+4#Matrices and Systems of linear Equations#4.20#Eigen values#ex_20.sce#60/CH4/EX4.20/ex_20.sce#S##4228
+4#Matrices and Systems of linear Equations#4.2#matrix multiplication#ex_2.sce#60/CH4/EX4.2/ex_2.sce#S##3856
+4#Matrices and Systems of linear Equations#4.19#Eigen values#ex_19.sce#60/CH4/EX4.19/ex_19.sce#S##4225
+4#Matrices and Systems of linear Equations#4.18#determinant#ex_18.sce#60/CH4/EX4.18/ex_18.sce#S##4224
+4#Matrices and Systems of linear Equations#4.17#determinant#ex_17.sce#60/CH4/EX4.17/ex_17.sce#S##4221
+4#Matrices and Systems of linear Equations#4.16#determinant#ex_16.sce#60/CH4/EX4.16/ex_16.sce#S##4218
+4#Matrices and Systems of linear Equations#4.14#norm #ex_14.sce#60/CH4/EX4.14/ex_14.sce#S##4211
+4#Matrices and Systems of linear Equations#4.1#matrix multiplication#ex_1.sce#60/CH4/EX4.1/ex_1.sce#S##3855
+3#The solution of nonlinear equations#3.8.a#Roots of a polynomial equation#ex_8_a.sce#60/CH3/EX3.8.a/ex_8_a.sce#S##4166
+3#The solution of nonlinear equations#3.8#Polynomial equations real roots#ex_8.sce#60/CH3/EX3.8/ex_8.sce#S##4163
+3#The solution of nonlinear equations#3.5#Secant method#ex_5.sce#60/CH3/EX3.5/ex_5.sce#S##4162
+3#The solution of nonlinear equations#3.5#Secant method#secantm.sce#60/DEPENDENCIES/secantm.sce#D#secant mehod#140
+3#The solution of nonlinear equations#3.4#Fixed point iteration#ex_4.sce#60/CH3/EX3.4/ex_4.sce#S##4160
+3#The solution of nonlinear equations#3.3#Fixed point iteration#ex_3.sce#60/CH3/EX3.3/ex_3.sce#S##4158
+3#The solution of nonlinear equations#3.2.a#finding roots#ex_2_a.sce#60/CH3/EX3.2.a/ex_2_a.sce#S##4204
+3#The solution of nonlinear equations#3.2.a#finding roots#bisect.sce#60/DEPENDENCIES/bisect.sce#D#bisection method#107
+3#The solution of nonlinear equations#3.2.a#finding roots#fixedp.sce#60/DEPENDENCIES/fixedp.sce#D#fixed point#108
+3#The solution of nonlinear equations#3.2.a#finding roots#newt.sce#60/DEPENDENCIES/newt.sce#D#newton method#110
+3#The solution of nonlinear equations#3.2.a#finding roots#regulfalsi.sce#60/DEPENDENCIES/regulfalsi.sce#D#Regular falsi method#109
+3#The solution of nonlinear equations#3.17.a#Roots of a polynomial equation#ex_17_a.sce#60/CH3/EX3.17.a/ex_17_a.sce#S##4171
+3#The solution of nonlinear equations#3.16#Roots of polynomial equation#ex_16.sce#60/CH3/EX3.16/ex_16.sce#S##4173
+3#The solution of nonlinear equations#3.15#Roots of a polynomial equation#ex_15_a.sce#60/CH3/EX3.15/ex_15_a.sce#S##4170
+3#The solution of nonlinear equations#3.14#Roots of a polynomial equation#ex_14.sce#60/CH3/EX3.14/ex_14.sce#S##4169
+3#The solution of nonlinear equations#3.12#Roots of polynomial equation#ex_12.sce#60/CH3/EX3.12/ex_12.sce#S##4168
+3#The solution of nonlinear equations#3.11#Roots of polynomial equation#ex_11.sce#60/CH3/EX3.11/ex_11.sce#S##4167
+3#The solution of nonlinear equations#3.10#Roots of polynomial equation#ex_10.sce#60/CH3/EX3.10/ex_10.sce#S##4172
+3#The solution of nonlinear equations#3.1#Root finding#ex_1.sce#60/CH3/EX3.1/ex_1.sce#S##4154
+3#The solution of nonlinear equations#3.1#Root finding#bisect.sce#60/DEPENDENCIES/bisect.sce#D#bisection method#107
+3#The solution of nonlinear equations#3.1#Root finding#newt.sce#60/DEPENDENCIES/newt.sce#D#newton method#110
+3#The solution of nonlinear equations#3.1#Root finding#regulfalsi.sce#60/DEPENDENCIES/regulfalsi.sce#D#Regular falsi method#109
+3#The solution of nonlinear equations#3.1#Root finding#secantm.sce#60/DEPENDENCIES/secantm.sce#D#secant mehod#140
+2#Interpolation by polynomials#2.7#find N#ex_7.sce#60/CH2/EX2.7/ex_7.sce#S##3870
+2#Interpolation by polynomials#2.5#Newtons formula#ex_5.sce#60/CH2/EX2.5/ex_5.sce#S##3869
+2#Interpolation by polynomials#2.3#determine polynomial by newton formula#ex_3.sce#60/CH2/EX2.3/ex_3.sce#S##3964
+2#Interpolation by polynomials#2.2#second degree interpolating polynomial#ex_2.sce#60/CH2/EX2.2/ex_2.sce#S##3819
+2#Interpolation by polynomials#2.1#shifted power form#ex_1.sce#60/CH2/EX2.1/ex_1.sce#S##3818
+1#Number systems and Errors#1.1#number system#ex_1.sce#60/CH1/EX1.1/ex_1.sce#S##4197

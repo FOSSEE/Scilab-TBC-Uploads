@@ -1,0 +1,5 @@
+**Sample Problem 42-3a**
+The number of states are equal to 4.00e+019 per ev
+
+**Sample Problem 42-3b**
+The number of states are equal to 1.20e+017 per ev

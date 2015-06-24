@@ -1,0 +1,11 @@
+(i) With copper conductors mr=1 
+ Loop indictance per meter = 23.82*10^-7 H 
+
+Loop indictance per km = 2.382 mH 
+
+(ii) With steel conductors mr=100 
+ Loop indictance per meter = 122.82*10^-7 H 
+
+Loop indictance per km = 12.282 mH 
+
+

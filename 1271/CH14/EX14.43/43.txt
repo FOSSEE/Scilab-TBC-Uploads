@@ -1,0 +1,11 @@
+ # PROBLEM 43 # 
+Standard formula used 
+  lambda = h/(2*m*E)^1/2
+ 
+ kinetic energy of proton(in J) =   
+ 
+    5.248D-28  
+ 
+ kinetic energy of electron(in J) =   
+ 
+    9.632D-25  

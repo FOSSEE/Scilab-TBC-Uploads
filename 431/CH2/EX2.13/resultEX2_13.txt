@@ -1,0 +1,12 @@
+  
+ Example 2.13   
+ 
+ At generator condition   
+field current,If=5A
+Load current,If=200A
+Aramture current,If=205A
+ 
+ At motor condition   
+Aramture current,If=195A
+Em=246.100000V
+Speed of the motor=387rpm 

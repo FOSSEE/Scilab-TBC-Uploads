@@ -1,0 +1,11 @@
+clear;
+clc;
+Zg=100;Zl=500;b=63.4;a=0;
+theta=a+(%i*b);
+Fr=2*(sqrt(Zg*Zl))/(Zg+Zl);
+IR=Fr*exp(theta);
+A=real(IR);
+B=imag(IR);
+printf("-Insertion ratio = %f /_ %f\n",fix(abs(IR)*100)/100,theta/%i);
+IL=-20*log10(Fr);
+printf("-Insertion loss = %f db",round(IL*10)/10);

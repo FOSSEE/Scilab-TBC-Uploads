@@ -1,0 +1,4 @@
+limiting error for the power calculated(in %)=   
+ 
+    3.3181818  
+ 

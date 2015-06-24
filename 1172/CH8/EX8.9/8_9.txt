@@ -1,0 +1,4 @@
+ # Problem 9 # 
+Standard formula used U_f - U_i = 1/2 * m *(u^2 - v^2)
+ 
+ Height reached by rocket before returning is 2.586947e+09 km.

@@ -1,0 +1,3 @@
+(a)Drain resistance Rd = 3.33e+004 ohms
+(b)Transconductance gm = 1(neglecting the sign)
+(c)Amplification factor mu = 3.33 

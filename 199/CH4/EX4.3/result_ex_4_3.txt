@@ -1,0 +1,1 @@
+* Closed loop gain of non-inverting amplifier is = 10.9

@@ -1,0 +1,10 @@
+The capacitance between a pair of cores with third core earthed for a length of 5 km is: 
+ C3 = 1.50 uF 
+
+Phase voltage = 6351 V 
+
+Core to nuetral capacitance = 3.00 uF 
+
+Charging current = 5.99 A 
+
+

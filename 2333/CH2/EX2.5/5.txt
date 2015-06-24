@@ -1,0 +1,7 @@
+# PROBLEM 5 # 
+
+ Standard formula used 
+ D = a + b. 
+ d = (lambda * D) / fringe_width.
+
+ Spacing between slit is 3.437747e-02cm. 

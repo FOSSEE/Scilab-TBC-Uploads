@@ -1,0 +1,4 @@
+The ratio of sin(theta)^2 values for first and second angles is 0.50
+ Hence the crystal structure is bcc
+Lattice constant a=0.268nm 
+ And the element is tungsten Since Tungsten has lattice constant of 0.268nm and crystallizes in bcc structure 

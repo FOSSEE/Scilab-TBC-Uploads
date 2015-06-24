@@ -1,0 +1,13 @@
+Current entering the distributor = 400 A 
+
+Total Resistance of the distributor = 0.1000 ohm 
+
+(i) Voltage drop over the entire distibutor = 20 V 
+
+    Voltage at feeding point = 270 V 
+
+(ii) Voltage drop upto distance 125 m from feeding point = 15 V 
+
+     Voltage at feeding point = 265 V 
+
+

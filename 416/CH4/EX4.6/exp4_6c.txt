@@ -1,0 +1,16 @@
+ 
+ example 4 6   
+ 
+ a   
+maximum demand 65.72kW 
+ yearly bill Rs.526164 per year 
+(b)
+ maximum demand 41.82kW 
+ yearly bill Rs.497486per year 
+ c   
+ new energy 151125kWh 
+ maximum demand 49.29kW 
+ yearly bill Rs.395623per year 
+ average energy cost in case a Rs2.6112per kWh 
+ average energy cost in case b Rs2.469per kWh
+ average energy cost in case c Rs2.618per kWh  

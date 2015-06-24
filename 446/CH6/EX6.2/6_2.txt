@@ -1,0 +1,7 @@
+  
+ Ex-6.2(a)   
+The fraction of alpha particles scattered at angles greater than 90 degrees is 7.50e-005
+ 
+ Ex-6.2(b)   
+The fraction of particles with scattering angle from 45 to 90 is 3.620e-004
+ 

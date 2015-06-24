@@ -1,0 +1,5 @@
+**Sample Problem 44-6a**
+The number of particle in unit volume is 4.818400e+031m^-3
+
+**Sample Problem 44-6b**
+The duration of time, pallet can maintain is of the order of 2.075378e-012sec

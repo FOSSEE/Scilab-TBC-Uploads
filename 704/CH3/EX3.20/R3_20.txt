@@ -1,0 +1,27 @@
+quivalent resistance of primary referred to secondary(in Ohm)=   
+ 
+    0.02  
+ 
+ equivalent reactance of primary referred to secondary(in Ohm)=   
+ 
+    0.04  
+ 
+ total resistance of primary referred to secondary(in Ohm)=   
+ 
+    0.045  
+ 
+ total reactance of primary referred to secondary(in Ohm)=   
+ 
+    0.08  
+ 
+ equivalent resistance of secondary referred to primar(in Ohm)=   
+ 
+    2.5  
+ 
+ equivalent reactance of secondary referred to primar(in Ohm)=   
+ 
+    4.  
+ 
+ total resistance of secondary referred to primary(in Ohm)=   
+ 
+    4.5  

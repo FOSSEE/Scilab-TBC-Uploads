@@ -1,0 +1,2 @@
+ Spacing between the plane in first case is a / 1.
+ Spacing between the plane in second case is a / 0.577350 .

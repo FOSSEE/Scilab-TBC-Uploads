@@ -1,0 +1,30 @@
+ The final results are given below:
+V2=1.081 @ -0.024 rad
+V3=1.040 @ -0.066 rad
+Qg3=0.48 pu(with in limits)
+
+S1= 
+    1.0311806 - 0.7581336i  
+pu
+
+S2= 
+    0.5004595 + 1.0012862i  
+pu
+
+S3= 
+  - 1.5000616 - 0.1171441i  
+pu
+
+Transmission losses=0.032 pu
+
+Line Flows
+The following matrix shows the real part of line flows(in pu) 
+    0.           0.1910725    0.8400462  
+  - 0.1842388    0.           0.6842088  
+  - 0.8263909  - 0.6735191    0.         
+
+The following matrix shows the imaginary part of line flows(in pu) 
+  - 0.010816   - 0.5879101  - 0.1918100  
+    0.5927428  - 0.0116862    0.3838248  
+    0.2247993  - 0.3635684  - 0.010816   
+

@@ -1,0 +1,14 @@
+  
+ Quantizing  levels need is   
+ 
+    102.  
+ 
+ minimum number of bits per sample is   
+ 
+    7.  
+ 
+ minimum required bandwidth   
+ 
+    28.  
+ 
+ kHz 

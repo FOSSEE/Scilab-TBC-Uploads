@@ -1,0 +1,10 @@
+  
+ Exa-3.5(a)   
+The wavelength at which emits maximum radiation is 9.89 um.
+ 
+ Exa-3.5(b)   
+The temperature of the object must be raised to 4458 K.
+ 
+ Exa-3.5(c)   
+Thus the thermal radiation at higher temperature is 5.36e+004 times the room (lower) tempertaure.
+ 

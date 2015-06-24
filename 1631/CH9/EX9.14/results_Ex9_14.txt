@@ -1,0 +1,4 @@
+Enter the frequncy f=12354
+information rate 
+
+ 	 R=  44753.1  bits/sec  

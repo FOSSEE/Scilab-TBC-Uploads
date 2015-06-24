@@ -1,0 +1,7 @@
+ Value of p4(0.12)   
+ 
+  - 1.897546 
+
+ Error in estimation   
+ 
+    0.000028

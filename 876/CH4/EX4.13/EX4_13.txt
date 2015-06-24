@@ -1,0 +1,7 @@
+resistance of the arm AD(in ohm)=   
+ 
+    250.  
+ 
+ frequency of the bridge(in Hz)=   
+ 
+    1000.9745  

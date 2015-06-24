@@ -1,0 +1,2 @@
+ # Problem 13 # 
+ Pressure applied by sun radiations on earth is 6.171314e+07 W/m^2 

@@ -1,0 +1,15 @@
+clc;
+IB=105*10**-6;
+IC=2.05*10**-3;
+BETA=IC/IB;
+disp(BETA);
+ALPHA=BETA/(1+BETA);
+disp(ALPHA);
+IE=IC+IB;
+disp('mA',IE*10**3,"IE=");
+DELTA_IB=27*10**-6;
+DELTA_IC=0.65*10**-3;
+IBn=IB+DELTA_IB;
+ICn=IC+DELTA_IC;
+BETAn=ICn/IBn;
+disp(BETAn);

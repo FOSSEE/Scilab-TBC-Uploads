@@ -1,0 +1,11 @@
+Current in section AB = 16.00+j(-12.00) 
+Current in section AC = 9.00+j(-12.00) 
+Voltage drop in section AB = 28.00+j(4.00) 
+Voltage drop in section AC = 45.00+j(15.00) 
+Thevenins equivalent circuit emf Eo = 17.00+(11.00) 
+Thevenins equivalent impedance Zo = 2.00+(4.00) 
+Current in BC = 2.60+j(-1.53) 
+Current in AB = 13.40+j(-10.47) 
+Current in AC = 6.40+j(-10.47) 
+Current fed at A = 25.00+j(-24.00) 
+

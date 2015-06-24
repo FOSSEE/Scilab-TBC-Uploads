@@ -1,0 +1,3 @@
+﻿ Coherence time = 6.666667e-10 sec
+ Line width = 1.834968e-12 meter
+ Frequency stability = 3.029000e-06

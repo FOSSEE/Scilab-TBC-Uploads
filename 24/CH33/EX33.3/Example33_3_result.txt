@@ -1,0 +1,5 @@
+**Sample Probelm 33-3a**
+At time t=1.11e-002sec, the amplitude of charge oscillation is half of the maximum value
+
+**Sample Probelm 33-3b**
+The number of oscillation are 12.74 till t=8.71e-004 

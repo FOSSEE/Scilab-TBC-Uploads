@@ -1,0 +1,6 @@
+Id = 4.72e+000 A or 3.39e+000 A
+A value of 3.39 mA is selected
+Vgsq = -0.17V
+Vdsq = 10.75V
+Vdgq = 10.915 V
+Vdgq>Vd.Hence the FET is in the pinch off region 

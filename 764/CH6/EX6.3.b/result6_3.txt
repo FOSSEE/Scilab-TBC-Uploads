@@ -1,0 +1,79 @@
+-->//(Power Screws) Example 6.3
+ 
+-->//Refer Fig. 6.12 on page 197
+ 
+-->//Number of starts n
+ 
+-->n = 1
+ n  =
+ 
+    1.  
+ 
+-->//Nominal diameter of the screw d (mm)
+ 
+-->d = 22
+ d  =
+ 
+    22.  
+ 
+-->//Pitch of the screw p (mm)
+ 
+-->p = 5
+ p  =
+ 
+    5.  
+ 
+-->//Outer diameter of the friction collar Do (mm)
+ 
+-->Do = 55
+ Do  =
+ 
+    55.  
+ 
+-->//Inner diameter of the friction collar Di (mm)
+ 
+-->Di = 45
+ Di  =
+ 
+    45.  
+ 
+-->//Coefficient of friction for thread mu1
+ 
+-->mu1 = 0.15
+ mu1  =
+ 
+    0.15  
+ 
+-->//Coefficient of friction for collar mu1
+ 
+-->mu2 = 0.17
+ mu2  =
+ 
+    0.17  
+ 
+-->//Force exerted by the machinist P (N)
+ 
+-->P = 125
+ P  =
+ 
+    125.  
+ 
+-->//Mean radius at which the force is applied rad (mm)
+ 
+-->rad = 150
+ rad  =
+ 
+    150.  
+ 
+-->//Length of the handle dist (mm)
+ 
+-->dist = 150
+ dist  =
+ 
+    150.  
+ 
+
+Clamping force developed between the jaws(P) = 2868.610857 N
+
+Overall efficiency of clamp(eta) = 12.174763 percent
+ 

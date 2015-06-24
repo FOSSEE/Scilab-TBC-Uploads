@@ -1,0 +1,4 @@
+Impurity concentration in rod (in per cubic m) =    
+ 
+    4.185D+21  
+ 

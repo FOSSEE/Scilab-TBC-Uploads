@@ -1,0 +1,23 @@
+clear;
+clc;
+V_s=400;
+V_ml=sqrt(2)*V_s;
+V_f=3*V_ml/%pi;
+R_f=300;
+I_f=V_f/R_f;
+T_e=60;
+k=1.1;
+I_a=T_e/(k*I_f);
+N=1000;
+w_m=2*%pi*N/60;
+r_a=.3;
+V_t=k*I_f*w_m+I_a*r_a;
+a=acosd(V_t*%pi/(3*V_ml));    printf("firing angle=%.3f deg",a);
+
+N=3000;
+w_m=2*%pi*N/60;
+a=0;
+V_t=3*V_ml*cosd(a)/%pi;
+I_f=(V_t-I_a*r_a)/(w_m*k);
+V_f=I_f*R_f;
+a=acosd(V_f*%pi/(3*V_ml));    printf("\nfiring angle=%.3f deg",a);

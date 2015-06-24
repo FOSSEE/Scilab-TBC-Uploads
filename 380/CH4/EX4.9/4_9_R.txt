@@ -1,0 +1,19 @@
+ (a) Generator Voltage (in Volts)=   
+ 
+    301.88985  
+ 
+ Phase of generated voltage (in degree)=   
+ 
+    11.082542  
+ 
+ (b) Generator current (in Amperes)=   
+ 
+    0.0020716  
+ 
+ Phase of generator current (in degree)=   
+ 
+  - 30.843794  
+ 
+ (c) Efficiency (%)=   
+ 
+    85.612246 

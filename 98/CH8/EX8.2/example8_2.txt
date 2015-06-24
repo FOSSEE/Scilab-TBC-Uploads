@@ -1,0 +1,11 @@
+k = 0.38 kV 
+
+Voltage across third unit = 18.12 kV 
+
+Voltage between line and earth = 37.12 kV 
+
+Line voltage = 64.30 kV 
+
+String efficiency = 68.28 % 
+
+

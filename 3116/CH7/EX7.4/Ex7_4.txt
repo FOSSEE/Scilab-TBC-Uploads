@@ -1,0 +1,12 @@
+ Example 7.4
+
+ Part A: 
+ Mass fraction of total ferrite phase  is 0.95
+ Mass fraction of cementide phase is 0.05
+
+ Part B:
+ Mass fraction of Pearlite is 0.44
+ Mass fraction of proeutectoid ferrite is 0.56
+
+ Part C:
+ Mass fraction of eutectoid ferrite : 0.395

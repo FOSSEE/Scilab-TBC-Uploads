@@ -1,0 +1,4 @@
+Dimension of unit cell (in Picometer) =    
+ 
+    308.11745  
+ 

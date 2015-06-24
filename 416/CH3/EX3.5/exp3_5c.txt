@@ -1,0 +1,10 @@
+ 
+ example 3.5   
+ average load 60MW
+ energy generated =5.256000e+008kWhr
+ total investement Rs.4.800000e+006
+ investement amd depression is Rs.7.200000e+008
+ fuel consumtion is 3.363840e+008kgper year
+ fuel cost Rs.5.045760e+008per year 
+ annual plant cost Rs1.279376e+009per  year 
+ generation cost Rs2.434125per year 

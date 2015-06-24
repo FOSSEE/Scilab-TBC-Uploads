@@ -1,0 +1,13 @@
+Resistance per 100m = 0.06 ohms 
+Rab = 0.09 ohms 
+Rbc = 0.03 ohms 
+Rca = 0.06 ohms 
+
+(i) Ia = 86.67 A 
+Iab = 86.67 
+Ibc = -33.33 
+Ica = -113.33 
+
+(ii) Vb = 232.20 V 
+     Vc = 233.20 V 
+

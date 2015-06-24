@@ -1,0 +1,32 @@
+
+ Integral 0 to PI/4 x*cos dx   
+ 
+ based on open Newton-Cotes formulas    
+ 
+ k=0   
+ 
+    0.284948  
+ 
+ k=1   
+ 
+    0.277375  
+ 
+ k=2   
+ 
+    0.262297  
+ 
+ k=3   
+ 
+    0.262349  
+ 
+ The exact value of intergation is :   
+ 
+    0.262467  
+ 
+ thus corresponding errors are :    
+ 
+  - 0.022481  
+  - 0.014907  
+    0.000171  
+    0.000118  
+ 

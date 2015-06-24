@@ -1,0 +1,4 @@
+ Example 3.28   
+
+All-day efficiency of transformer A=95.522388percent
+All-day efficiency of transformer B=96.822995percent 

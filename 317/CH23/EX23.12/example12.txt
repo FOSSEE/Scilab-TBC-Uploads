@@ -1,0 +1,3 @@
+slope of output ramp is 10^4 Volts/Second
+Peak value is 10 Volts
+duration of the ramp is 10^-2 second

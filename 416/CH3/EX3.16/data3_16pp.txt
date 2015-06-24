@@ -1,0 +1,14 @@
+
+  
+ data 3.16   
+ 
+ cost calculation    
+ 
+ using sinking fund depreciation   
+annual depretion reserve is 0.401262persent 
+ annual fixed cost Rs11088529841.947702 
+ annual fixed cost per Rs11088kWh
+fuel cost Rs.0.595238/kWh 
+energy generated per kW of plant capacity Rs.6044.400000kWh 
+energy available bus bar 5591.070000kWh 
+ generation cost Rs2.578495 perkWh 

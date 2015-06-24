@@ -1,0 +1,3 @@
+The critical angle of the fiber = 9.46 degree
+The acceptance angle of the fiber = 27.97 degree
+The numerical aperture of the fiber = 0.242  

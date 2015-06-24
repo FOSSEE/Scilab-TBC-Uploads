@@ -1,0 +1,8 @@
+number of conductor per slot=   
+ 
+    7.  
+ 
+ Actual value of flux(in Wb)=   
+ 
+    0.0489796  
+ 

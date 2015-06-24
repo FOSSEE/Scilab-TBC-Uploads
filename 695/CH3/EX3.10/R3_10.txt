@@ -1,0 +1,21 @@
+  
+ R_O (in ohms)=   
+ 
+    1285.7143  
+ 
+ X_O Magnetising reactance (in ohms)=   
+ 
+    392.04616  
+ 
+ Equivalent Resistance reffered to LV Side (in ohms)=   
+ 
+    0.15625  
+ 
+ Equivalent Reactance reffered to LV Side (in ohms)   
+ 
+    0.3862603  
+ 
+ Secondary Terminal Voltage (in volts)=   
+ 
+    579.24807  
+ 

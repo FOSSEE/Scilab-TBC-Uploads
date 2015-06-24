@@ -1,0 +1,10 @@
+   
+ example 2.3   
+
+maximum demand of each appartment =2.50kWh 
+maximum demand of 600 apatments =500.00kW 
+demand of 600 apartments at time of the system peak =400kW 
+maximum demand of total commertial complex=48kW 
+demand of the commertial load at the time of the peak = 30kW
+demand of the street lighting at the time of the system peak =8kW
+increase in system peak deamand =438kW  

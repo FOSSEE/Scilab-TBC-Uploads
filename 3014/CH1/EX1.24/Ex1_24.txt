@@ -1,0 +1,4 @@
+
+
+Example 1.24
+ Velocity of electron in ground state is 2.308621e+06 m/s.

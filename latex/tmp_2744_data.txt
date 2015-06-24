@@ -1,0 +1,137 @@
+13#Elements of reinforced concrete#13.7#Chapter 13 example 7#Ex13_7.sce#2744/CH13/EX13.7/Ex13_7.sce#S##91989
+13#Elements of reinforced concrete#13.6#Chapter 13 example 6#Ex13_6.sce#2744/CH13/EX13.6/Ex13_6.sce#S##91985
+13#Elements of reinforced concrete#13.5#Chapter 13 example 5#Ex13_5.sce#2744/CH13/EX13.5/Ex13_5.sce#S##91987
+13#Elements of reinforced concrete#13.4#Chapter 13 example 4#Ex13_4.sce#2744/CH13/EX13.4/Ex13_4.sce#S##91983
+13#Elements of reinforced concrete#13.3#Chapter 13 example 3#Ex13_3.sce#2744/CH13/EX13.3/Ex13_3.sce#S##91982
+13#Elements of reinforced concrete#13.2#Chapter 13 example 2#Ex13_2.sce#2744/CH13/EX13.2/Ex13_2.sce#S##91981
+13#Elements of reinforced concrete#13.1#Chapter 13 example 1#Ex13_1.sce#2744/CH13/EX13.1/Ex13_1.sce#S##91980
+12#Shafts and springs in torsion#12.9#Chapter 12 example 9#Ex12_9.sce#2744/CH12/EX12.9/Ex12_9.sce#S##91965
+12#Shafts and springs in torsion#12.8#Chapter 12 example 8#Ex12_8.sce#2744/CH12/EX12.8/Ex12_8.sce#S##91963
+12#Shafts and springs in torsion#12.7#Chapter 12 example 7#Ex12_7.sce#2744/CH12/EX12.7/Ex12_7.sce#S##91962
+12#Shafts and springs in torsion#12.6#Chapter 12 example 6#Ex12_6.sce#2744/CH12/EX12.6/Ex12_6.sce#S##91959
+12#Shafts and springs in torsion#12.5#Chapter 12 example 5#Ex12_5.sce#2744/CH12/EX12.5/Ex12_5.sce#S##91958
+12#Shafts and springs in torsion#12.4#Chapter 12 example 4#Ex12_4.sce#2744/CH12/EX12.4/Ex12_4.sce#S##91957
+12#Shafts and springs in torsion#12.3#Chapter 12 example 3#Ex12_3.sce#2744/CH12/EX12.3/Ex12_3.sce#S##91953
+12#Shafts and springs in torsion#12.2#Chapter 12 example 2#Ex12_2.sce#2744/CH12/EX12.2/Ex12_2.sce#S##91952
+12#Shafts and springs in torsion#12.19#Chapter 12 example 19#Ex12_19.sce#2744/CH12/EX12.19/Ex12_19.sce#S##91978
+12#Shafts and springs in torsion#12.18#Chapter 12 example 18#Ex12_18.sce#2744/CH12/EX12.18/Ex12_18.sce#S##91977
+12#Shafts and springs in torsion#12.17#Chapter 12 example 17#Ex12_17.sce#2744/CH12/EX12.17/Ex12_17.sce#S##91976
+12#Shafts and springs in torsion#12.16#Chapter 12 example 16#Ex12_16.sce#2744/CH12/EX12.16/Ex12_16.sce#S##91975
+12#Shafts and springs in torsion#12.15#Chapter 12 example 15#Ex12_15.sce#2744/CH12/EX12.15/Ex12_15.sce#S##91973
+12#Shafts and springs in torsion#12.14#Chapter 12 example 14#Ex12_14.sce#2744/CH12/EX12.14/Ex12_14.sce#S##91972
+12#Shafts and springs in torsion#12.13#Chapter 12 example 13#Ex12_13.sce#2744/CH12/EX12.13/Ex12_13.sce#S##91992
+12#Shafts and springs in torsion#12.12#Chapter 12 example 12#Ex12_12.sce#2744/CH12/EX12.12/Ex12_12.sce#S##91970
+12#Shafts and springs in torsion#12.11#Chapter 12 example 11#Ex12_11.sce#2744/CH12/EX12.11/Ex12_11.sce#S##91968
+12#Shafts and springs in torsion#12.10#Chapter 12 example 10#Ex12_10.sce#2744/CH12/EX12.10/Ex12_10.sce#S##91967
+12#Shafts and springs in torsion#12.1#Chapter 12 example 1#Ex12_1.sce#2744/CH12/EX12.1/Ex12_1.sce#S##91949
+11#Riveted joints#11.9#Chapter 11 example 9#Ex11_9.sce#2744/CH11/EX11.9/Ex11_9.sce#S##91943
+11#Riveted joints#11.8#Chapter 11 example 8#Ex11_8.sce#2744/CH11/EX11.8/Ex11_8.sce#S##91939
+11#Riveted joints#11.7#Chapter 11 example 7#Ex11_7.sce#2744/CH11/EX11.7/Ex11_7.sce#S##91938
+11#Riveted joints#11.6#Chapter 11 example 6#Ex11_6.sce#2744/CH11/EX11.6/Ex11_6.sce#S##91934
+11#Riveted joints#11.5#Chapter 11 example 5#Ex11_5.sce#2744/CH11/EX11.5/Ex11_5.sce#S##91933
+11#Riveted joints#11.4#Chapter 11 example 4#Ex11_4.sce#2744/CH11/EX11.4/Ex11_4.sce#S##91930
+11#Riveted joints#11.3#Chapter 11 example 3#Ex11_3.sce#2744/CH11/EX11.3/Ex11_3.sce#S##91929
+11#Riveted joints#11.2#Chapter 11 example 2#Ex11_2.sce#2744/CH11/EX11.2/Ex11_2.sce#S##91928
+11#Riveted joints#11.10#Chapter 11 example 10#Ex11_10.sce#2744/CH11/EX11.10/Ex11_10.sce#S##91947
+11#Riveted joints#11.1#Chapter 11 example 1#Ex11_1.sce#2744/CH11/EX11.1/Ex11_1.sce#S##91927
+10#Radial pressure cylindrical and spherical shells#10.9#Chapter 10 example 9#Ex10_9.sce#2744/CH10/EX10.9/Ex10_9.sce#S##91921
+10#Radial pressure cylindrical and spherical shells#10.8#Chapter 10 example 8#Ex10_8.sce#2744/CH10/EX10.8/Ex10_8.sce#S##91920
+10#Radial pressure cylindrical and spherical shells#10.7#Chapter 10 example 7#Ex10_7.sce#2744/CH10/EX10.7/Ex10_7.sce#S##91919
+10#Radial pressure cylindrical and spherical shells#10.6#Chapter 10 example 6#Ex10_6.sce#2744/CH10/EX10.6/Ex10_6.sce#S##91918
+10#Radial pressure cylindrical and spherical shells#10.5#Chapter 10 example 5#Ex10_5.sce#2744/CH10/EX10.5/Ex10_5.sce#S##91917
+10#Radial pressure cylindrical and spherical shells#10.4#Chapter 10 example 4#Ex10_4.sce#2744/CH10/EX10.4/Ex10_4.sce#S##91916
+10#Radial pressure cylindrical and spherical shells#10.3#Chapter 10 example 3#Ex10_3.sce#2744/CH10/EX10.3/Ex10_3.sce#S##91915
+10#Radial pressure cylindrical and spherical shells#10.2#Chapter 10 example 2#Ex10_2.sce#2744/CH10/EX10.2/Ex10_2.sce#S##91914
+10#Radial pressure cylindrical and spherical shells#10.14#Chapter 10 example 14#Ex10_14.sce#2744/CH10/EX10.14/Ex10_14.sce#S##91926
+10#Radial pressure cylindrical and spherical shells#10.13#Chapter 10 example 13#Ex10_13.sce#2744/CH10/EX10.13/Ex10_13.sce#S##91925
+10#Radial pressure cylindrical and spherical shells#10.12#Chapter 10 example 12#Ex10_12.sce#2744/CH10/EX10.12/Ex10_12.sce#S##91924
+10#Radial pressure cylindrical and spherical shells#10.11#Chapter 10 example 11#Ex10_11.sce#2744/CH10/EX10.11/Ex10_11.sce#S##91923
+10#Radial pressure cylindrical and spherical shells#10.10#Chapter 10 example 10#Ex10_10.sce#2744/CH10/EX10.10/Ex10_10.sce#S##91922
+10#Radial pressure cylindrical and spherical shells#10.1#Chapter 10 example 1#Ex10_1.sce#2744/CH10/EX10.1/Ex10_1.sce#S##91913
+9#Columns and struts of uniform section#9.9#Chapter 9 example 9#Ex9_9.sce#2744/CH9/EX9.9/Ex9_9.sce#S##91910
+9#Columns and struts of uniform section#9.8#Chapter 9 example 8#Ex9_8.sce#2744/CH9/EX9.8/Ex9_8.sce#S##91909
+9#Columns and struts of uniform section#9.7#Chapter 9 example 7#Ex9_7.sce#2744/CH9/EX9.7/Ex9_7.sce#S##91908
+9#Columns and struts of uniform section#9.6#Chapter 9 example 6#Ex9_6.sce#2744/CH9/EX9.6/Ex9_6.sce#S##91907
+9#Columns and struts of uniform section#9.5#Chapter 9 example 5#Ex9_5.sce#2744/CH9/EX9.5/Ex9_5.sce#S##91906
+9#Columns and struts of uniform section#9.4#Chapter 9 example 4#Ex9_4.sce#2744/CH9/EX9.4/Ex9_4.sce#S##91905
+9#Columns and struts of uniform section#9.3#Chapter 9 example 3#Ex9_3.sce#2744/CH9/EX9.3/Ex9_3.sce#S##91904
+9#Columns and struts of uniform section#9.2#Chapter 9 example 2#Ex9_2.sce#2744/CH9/EX9.2/Ex9_2.sce#S##91903
+9#Columns and struts of uniform section#9.11#Chapter 9 example 11#Ex9_11.sce#2744/CH9/EX9.11/Ex9_11.sce#S##91912
+9#Columns and struts of uniform section#9.10#Chapter 9 example 10#Ex9_10.sce#2744/CH9/EX9.10/Ex9_10.sce#S##91911
+9#Columns and struts of uniform section#9.1#Chapter 9 example 1#Ex9_1.sce#2744/CH9/EX9.1/Ex9_1.sce#S##91902
+8#Direct and bending stresses#8.9#Chapter 8 example 9#Ex8_9.sce#2744/CH8/EX8.9/Ex8_9.sce#S##91899
+8#Direct and bending stresses#8.8#Chapter 8 example 8#Ex8_8.sce#2744/CH8/EX8.8/Ex8_8.sce#S##91898
+8#Direct and bending stresses#8.7#Chapter 8 example 7#Ex8_7.sce#2744/CH8/EX8.7/Ex8_7.sce#S##91896
+8#Direct and bending stresses#8.6#Chapter 8 example 6#Ex8_6.sce#2744/CH8/EX8.6/Ex8_6.sce#S##91895
+8#Direct and bending stresses#8.5#Chapter 8 example 5#Ex8_5.sce#2744/CH8/EX8.5/Ex8_5.sce#S##91893
+8#Direct and bending stresses#8.4#Chapter 8 example 4#Ex8_4.sce#2744/CH8/EX8.4/Ex8_4.sce#S##91891
+8#Direct and bending stresses#8.3#Chapter 8 example 3#Ex8_3.sce#2744/CH8/EX8.3/Ex8_3.sce#S##91890
+8#Direct and bending stresses#8.2#Chapter 8 example 2#Ex8_2.sce#2744/CH8/EX8.2/Ex8_2.sce#S##91888
+8#Direct and bending stresses#8.10#Chapter 8 example 10#Ex8_10.sce#2744/CH8/EX8.10/Ex8_10.sce#S##91901
+8#Direct and bending stresses#8.1#Chapter 8 example 1#Ex8_1.sce#2744/CH8/EX8.1/Ex8_1.sce#S##91887
+6#Beams and bending 3#6.9#Chapter 6 example 9#Ex6_9.sce#2744/CH6/EX6.9/Ex6_9.sce#S##91883
+6#Beams and bending 3#6.8#Chapter 6 example 8#Ex6_8.sce#2744/CH6/EX6.8/Ex6_8.sce#S##91881
+6#Beams and bending 3#6.7#Chapter 6 example 7#Ex6_7.sce#2744/CH6/EX6.7/Ex6_7.sce#S##91879
+6#Beams and bending 3#6.6#Chapter 6 example 6#Ex6_6.sce#2744/CH6/EX6.6/Ex6_6.sce#S##91878
+6#Beams and bending 3#6.5#Chapter 6 example 5#Ex6_5.sce#2744/CH6/EX6.5/Ex6_5.sce#S##91877
+6#Beams and bending 3#6.4#Chapter 6 example 4#Ex6_4.sce#2744/CH6/EX6.4/Ex6_4.sce#S##91875
+6#Beams and bending 3#6.3#Chapter 6 example 3#Ex6_3.sce#2744/CH6/EX6.3/Ex6_3.sce#S##91874
+6#Beams and bending 3#6.11#Chapter 6 example 11#Ex6_11.sce#2744/CH6/EX6.11/Ex6_11.sce#S##91885
+6#Beams and bending 3#6.10#Chapter 6 example 10#Ex6_10.sce#2744/CH6/EX6.10/Ex6_10.sce#S##91884
+6#Beams and bending 3#6.1#Chapter 6 example 1#Ex6_1.sce#2744/CH6/EX6.1/Ex6_1.sce#S##91873
+5#Beams and Bending 2#5.9#Chapter 5 example 9#Ex5_9.sce#2744/CH5/EX5.9/Ex5_9.sce#S##91847
+5#Beams and Bending 2#5.8#Chapter 5 example 8#Ex5_8.sce#2744/CH5/EX5.8/Ex5_8.sce#S##91845
+5#Beams and Bending 2#5.7#Chapter 5 example 7#Ex5_7.sce#2744/CH5/EX5.7/Ex5_7.sce#S##91844
+5#Beams and Bending 2#5.6#Chapter 5 example 6#Ex5_6.sce#2744/CH5/EX5.6/Ex5_6.sce#S##91842
+5#Beams and Bending 2#5.5#Chapter 5 example 5#Ex5_5.sce#2744/CH5/EX5.5/Ex5_5.sce#S##91840
+5#Beams and Bending 2#5.4#Chapter 5 example 4#Ex5_4.sce#2744/CH5/EX5.4/Ex5_4.sce#S##91839
+5#Beams and Bending 2#5.3#Chapter 5 example 3#Ex5_3.sce#2744/CH5/EX5.3/Ex5_3.sce#S##91837
+5#Beams and Bending 2#5.28#Chapter 5 example 28#Ex5_28.sce#2744/CH5/EX5.28/Ex5_28.sce#S##91871
+5#Beams and Bending 2#5.27#Chapter 5 example 27#Ex5_27.sce#2744/CH5/EX5.27/Ex5_27.sce#S##91870
+5#Beams and Bending 2#5.26#Chapter 5 example 26#Ex5_26.sce#2744/CH5/EX5.26/Ex5_26.sce#S##91868
+5#Beams and Bending 2#5.25#Chapter 5 example 25#Ex5_25.sce#2744/CH5/EX5.25/Ex5_25.sce#S##91867
+5#Beams and Bending 2#5.24#Chapter 5 example 24#Ex5_24.sce#2744/CH5/EX5.24/Ex5_24.sce#S##91865
+5#Beams and Bending 2#5.23#Chapter 5 example 23#Ex5_23.sce#2744/CH5/EX5.23/Ex5_23.sce#S##91864
+5#Beams and Bending 2#5.22#Chapter 5 example 22#Ex5_22.sce#2744/CH5/EX5.22/Ex5_22.sce#S##91863
+5#Beams and Bending 2#5.21#Chapter 5 example 21#Ex5_21.sce#2744/CH5/EX5.21/Ex5_21.sce#S##91862
+5#Beams and Bending 2#5.20#Chapter 5 example 20#Ex5_20.sce#2744/CH5/EX5.20/Ex5_20.sce#S##91860
+5#Beams and Bending 2#5.2#Chapter 5 example 2#Ex5_2.sce#2744/CH5/EX5.2/Ex5_2.sce#S##91836
+5#Beams and Bending 2#5.19#Chapter 5 example 19#Ex5_19.sce#2744/CH5/EX5.19/Ex5_19.sce#S##91859
+5#Beams and Bending 2#5.18#Chapter 5 example 18#Ex5_18.sce#2744/CH5/EX5.18/Ex5_18.sce#S##91858
+5#Beams and Bending 2#5.17#Chapter 5 example 17#Ex5_17.sce#2744/CH5/EX5.17/Ex5_17.sce#S##91857
+5#Beams and Bending 2#5.16#Chapter 5 example 16#Ex5_16.sce#2744/CH5/EX5.16/Ex5_16.sce#S##91855
+5#Beams and Bending 2#5.15#Chapter 5 example 15#Ex5_15.sce#2744/CH5/EX5.15/Ex5_15.sce#S##91854
+5#Beams and Bending 2#5.14#Chapter 5 example 14#Ex5_14.sce#2744/CH5/EX5.14/Ex5_14.sce#S##91852
+5#Beams and Bending 2#5.13#Chapter 5 example 13#Ex5_13.sce#2744/CH5/EX5.13/Ex5_13.sce#S##91851
+5#Beams and Bending 2#5.12#Chapter 5 example 12#Ex5_12.sce#2744/CH5/EX5.12/Ex5_12.sce#S##91850
+5#Beams and Bending 2#5.11#Chapter 5 example 11#Ex5_11.sce#2744/CH5/EX5.11/Ex5_11.sce#S##91848
+5#Beams and Bending 2#5.1#Chapter 5 example 1#Ex5_1.sce#2744/CH5/EX5.1/Ex5_1.sce#S##91834
+3#Impact or shock loading #3.6#Chapter 3 example 6#Ex3_6.sce#2744/CH3/EX3.6/Ex3_6.sce#S##91832
+3#Impact or shock loading #3.5#Chapter 3 example 5#Ex3_5.sce#2744/CH3/EX3.5/Ex3_5.sce#S##91830
+3#Impact or shock loading #3.4#Chapter 3 example 4#Ex3_4.sce#2744/CH3/EX3.4/Ex3_4.sce#S##91829
+3#Impact or shock loading #3.3#Chapter 3 example 3#Ex3_3.sce#2744/CH3/EX3.3/Ex3_3.sce#S##91827
+3#Impact or shock loading #3.2#Chapter 3 example 2#Ex3_2.sce#2744/CH3/EX3.2/Ex3_2.sce#S##91826
+3#Impact or shock loading #3.1#Chapter 3 example 1#Ex3_1.sce#2744/CH3/EX3.1/Ex3_1.sce#S##91825
+2#Principal planes and principal stresses#2.7#Chapter 2 example 7#Ex2_7.sce#2744/CH2/EX2.7/Ex2_7.sce#S##91822
+2#Principal planes and principal stresses#2.6#Chapter 2 example 6#Ex2_6.sce#2744/CH2/EX2.6/Ex2_6.sce#S##91821
+2#Principal planes and principal stresses#2.5#Chapter 2 example 5#Ex2_5.sce#2744/CH2/EX2.5/Ex2_5.sce#S##91819
+2#Principal planes and principal stresses#2.4#Chapter 2 example 4#Ex2_4.sce#2744/CH2/EX2.4/Ex2_4.sce#S##91817
+2#Principal planes and principal stresses#2.3#Chapter 2 example 3#Ex2_3.sce#2744/CH2/EX2.3/Ex2_3.sce#S##91816
+2#Principal planes and principal stresses#2.1#Chapter 2 example 1#Ex2_1.sce#2744/CH2/EX2.1/Ex2_1.sce#S##91814
+1#Simple stresses and strains#1.9#Chapter 1 example 9#Ex1_9.sce#2744/CH1/EX1.9/Ex1_9.sce#S##91799
+1#Simple stresses and strains#1.8#Chapter 1 example 8#Ex1_8.sce#2744/CH1/EX1.8/Ex1_8.sce#S##91798
+1#Simple stresses and strains#1.7#Chapter 1 example 7#Ex1_7.sce#2744/CH1/EX1.7/Ex1_7.sce#S##91796
+1#Simple stresses and strains#1.6#Chapter 1 example 6#Ex1_6.sce#2744/CH1/EX1.6/Ex1_6.sce#S##91795
+1#Simple stresses and strains#1.5#Chapter 1 example 5#Ex1_5.sce#2744/CH1/EX1.5/Ex1_5.sce#S##91794
+1#Simple stresses and strains#1.4#Chapter 1 example 4#Ex1_4.sce#2744/CH1/EX1.4/Ex1_4.sce#S##91792
+1#Simple stresses and strains#1.3#Chapter 1 example 3#Ex1_3.sce#2744/CH1/EX1.3/Ex1_3.sce#S##91791
+1#Simple stresses and strains#1.2#Chapter 1 example 2#Ex1_2.sce#2744/CH1/EX1.2/Ex1_2.sce#S##91790
+1#Simple stresses and strains#1.17#Chapter 1 example 17#Ex1_17.sce#2744/CH1/EX1.17/Ex1_17.sce#S##91811
+1#Simple stresses and strains#1.16#Chapter 1 example 16#Ex1_16.sce#2744/CH1/EX1.16/Ex1_16.sce#S##91810
+1#Simple stresses and strains#1.15#Chapter 1 example 15#Ex1_15.sce#2744/CH1/EX1.15/Ex1_15.sce#S##91808
+1#Simple stresses and strains#1.14#Chapter 1 example 14#Ex1_14.sce#2744/CH1/EX1.14/Ex1_14.sce#S##91807
+1#Simple stresses and strains#1.13#Chapter 1 example 13#Ex1_13.sce#2744/CH1/EX1.13/Ex1_13.sce#S##91806
+1#Simple stresses and strains#1.12#Chapter 1 example 12#Ex1_12.sce#2744/CH1/EX1.12/Ex1_12.sce#S##91804
+1#Simple stresses and strains#1.11#Chapter 1 example 11#Ex1_11.sce#2744/CH1/EX1.11/Ex1_11.sce#S##91803
+1#Simple stresses and strains#1.10#Chapter 1 example 10#Ex1_10.sce#2744/CH1/EX1.10/Ex1_10.sce#S##91801
+1#Simple stresses and strains#1.1#Chapter 1 example 1#Ex1_1.sce#2744/CH1/EX1.1/Ex1_1.sce#S##91789

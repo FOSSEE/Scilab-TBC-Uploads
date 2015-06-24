@@ -1,0 +1,2 @@
+ Exa-6.1   
+Hence the average deflection angle per collision is 0.01 degrees 

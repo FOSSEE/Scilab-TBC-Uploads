@@ -1,0 +1,8 @@
+Voltage regulation when power factor is 0.8 lagging(in %)=   
+ 
+    3.8  
+ 
+ Voltage regulation when power factor is 0.8 leading(in %)   
+ 
+  - 2.2  
+ 

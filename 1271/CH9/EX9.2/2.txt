@@ -1,0 +1,5 @@
+ # PROBLEM 2 # 
+ Standard formula used 
+ E = E_-P/e_.
+
+ The included charge density on the surface of the dielectric is 1.770000e-06 C/m^2

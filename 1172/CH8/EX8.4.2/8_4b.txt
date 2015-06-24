@@ -1,0 +1,4 @@
+# Problem 4b # 
+Standard formula r2/r1 = (t2/t1)^(2/3) 
+ Relative angular speed of satellite s2 for satellite s1 is -1.047198e+00 rad/h.
+

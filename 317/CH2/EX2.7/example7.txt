@@ -1,0 +1,1 @@
+Surface leakage current is 2.8 nano amperes.

@@ -1,0 +1,11 @@
+
+ # Material Removal Rate , Power Required and Cutting Time in Face Milling # 
+
+
+ Material Removal Rate = 108000 mm3/min
+
+ Cutting time= 1.083333f min
+
+ Feed per Tooth= 0.600000 mm/tooth
+
+ Cutting power=1.980000 KW 

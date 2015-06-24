@@ -1,0 +1,38 @@
+ Current Sources are   
+
+ I1 = - j1.20 per unit
+ I2 = -0.72 - j0.96 per unit
+ I3 = - j1.20 per unit 
+
+ 
+ Self-admittances are   
+
+ Y11 = - j9.80 per unit
+ Y22 = - j8.30 per unit
+ Y33 = - j15.30 per unit
+ Y44 = - j18.00 per unit
+
+ 
+ Mutual admittances are   
+
+ Y12 = Y21 = 0.00 per unit
+ Y13 = Y31 = j4.00 per unit
+ Y14 = Y41 = j5.00 per unit
+ Y23 = Y32 = j2.50 per unit
+ Y24 = Y42 = j5.00 per unit
+ Y34 = Y43 = j8.00 per unit 
+
+ 
+ Current Vector =   
+ 
+  - 1.2i                    
+  - 0.7200017 - 0.9599987i  
+  - 1.2i                    
+    0                       
+ 
+ Bus admittance matrix =   
+ 
+  - 9.8i    0       4.i      5.i   
+    0     - 8.3i    2.5i     5.i   
+    4.i     2.5i  - 15.3i    8.i   
+    5.i     5.i     8.i    - 18.i  

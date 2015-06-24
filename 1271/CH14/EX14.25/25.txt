@@ -1,0 +1,5 @@
+ # PROBLEM 25 # 
+Standard formula used 
+  1/2*m*v^2 = h*c*(1/lambda1 - 1/lambda2)
+
+ Wavelength of incident beam is 0.365115 Angstrom.

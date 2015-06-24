@@ -1,0 +1,22 @@
+clc
+B=1.2
+L=1.2
+c=32
+C=0
+Df=1
+G=16
+Nq=23.18
+Ng=22.02
+Nc=1
+Lqs=1+0.1*B*(tand(45+c/2))^2/L
+Lgs=Lqs
+Lqd=1+0.1*Df*tand(45+c/2)/B
+Lgd=Lqd
+Lcs=1
+Lcd=1
+Gs=19.5
+q=0.5*G+0.5*(Gs-9.81)
+Qu= C*Lcs*Lcd*Nc+q*Lqs*Lqd*Nq+(Gs-9.81)*Lgs*Lgd*B*Ng/2
+Qa=Qu/3
+Q=Qa*B^2
+printf('the gross load = %f kN',Q)

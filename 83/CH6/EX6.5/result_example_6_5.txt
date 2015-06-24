@@ -1,0 +1,60 @@
+ 
+
+
+Case(i) When 0.2<Q2<1 pu and running for 1 iteration,we get 
+
+Q2= 
+    0.208  
+pu
+
+
+delta2= 
+    0.0322201  
+rad
+
+
+V1= 
+    1.04  
+pu
+
+
+V2= 
+    1.0394602 + 0.0335032i  
+pu
+
+
+V3= 
+    1.0317266 - 0.0893657i  
+pu
+
+
+V4= 
+    1.0343045 - 0.0150761i  
+pu
+
+
+Case(ii) When 0.25<Q2<1 pu and running for 1 iteration,we get 
+
+Q2= 
+    0.25  
+pu
+
+
+V1= 
+    1.04  
+pu
+
+
+V2= 
+    1.0545971 + 0.0327833i  
+pu
+
+
+V3= 
+    1.0344785 - 0.0894973i  
+pu
+
+
+V4= 
+    1.0411847 - 0.0154037i  
+pu 

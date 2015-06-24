@@ -1,0 +1,16 @@
+clc;
+RB=330*10**3;
+RC=2.7*10**3;
+hfe=120;
+hie=1.175*10**3;
+hoe=20*10**-6;
+Ri=hie;
+Ris=(hie*RB)/(hie+RB);
+disp('kohm',Ris*10**-3,"Ris=");
+Ro=1/hoe;
+Ros=(Ro*RC)/(Ro+RC);
+disp('kohm',Ros*10**-3,"Ros=");
+Ai=hfe;
+disp(Ai);
+Av=(hfe*RC)/Ri;
+disp(Av);

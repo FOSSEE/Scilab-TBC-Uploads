@@ -1,0 +1,3 @@
+value of protection resistance(in ohm)=   
+ 
+    885.

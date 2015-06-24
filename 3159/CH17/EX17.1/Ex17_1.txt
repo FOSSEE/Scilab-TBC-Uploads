@@ -1,0 +1,3 @@
+ 
+ Example 17.1
+ Relative dielectric constant is 2259

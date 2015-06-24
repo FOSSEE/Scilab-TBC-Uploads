@@ -1,0 +1,4 @@
+ # PROBLEM 2.7 # 
+
+ Solidification time = 0.053443 hr,
+  The surface temperature of the mould = 672.151154 ° C 

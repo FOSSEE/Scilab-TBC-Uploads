@@ -1,0 +1,10 @@
+clear;
+clc;
+format('v',6);
+l=4;
+d=3;
+r=0.5;
+S=(d^2-(%pi*r^2))*10^-4;
+sigma=5*10^6;
+R=(l*10^6)/(sigma*S);
+disp(R,'R(in microohm)=');        

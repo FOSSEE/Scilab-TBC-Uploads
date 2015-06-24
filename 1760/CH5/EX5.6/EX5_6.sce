@@ -1,0 +1,15 @@
+                  //EXAMPLE   5-6    PG NO=299-300
+TZ1=54.90+%i*85;
+Z1=40+%i*0;
+Z2=250-%i*132.625;
+Z3=0-%i*132.625;
+IR1=[Z1/TZ1]*[Z3/Z2];
+disp(' CURRENT is  in polar form = '+string(IR1)+'A');
+TZ2=173.64+%i*48.84;
+Z4=20+%i*0;
+Z5=250+%i*377;
+Z6=0+%i*377;
+IR2=[Z4/TZ2]*[Z6/Z5];
+disp(' CURRENT is  in polar form = '+string(IR2)+'A');
+IR=[IR1^2+IR2^2]^0.5;
+disp(' CURRENT is  in polar form = '+string(IR)+'A');

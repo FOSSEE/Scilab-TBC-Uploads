@@ -1,0 +1,2 @@
+**Sample Problem 31-6**
+The time taken to rach the current to half of its stedy state value is 0.099289s

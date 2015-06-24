@@ -1,0 +1,2 @@
+Example 2.25   
+current for each commutating pole=9744.824841 

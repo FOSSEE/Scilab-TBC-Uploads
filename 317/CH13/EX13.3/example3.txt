@@ -1,0 +1,2 @@
+Gate voltage at half cutoff point is -2 Volts
+Drain current is 1.25 mAmperes

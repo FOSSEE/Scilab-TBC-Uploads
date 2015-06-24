@@ -1,0 +1,44 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example5.sci',0)
+Current date is 29-May-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            2   
+ 
+ Chapter Title                         :    THE UNIX ARCHITECTURE AND COMMAND USAGE   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 5:  Display all the manual pages related to a particular entered keyword    
+
+*******************************************************************
+ 
+ Answer    :    
+ 
+    
+THE FOLLOWING LINES OF CODE RUN 
+ONLY IN SCILAB INSTALLED IN UNIX ENVIRONMENT.....
+THE CONSOLE GIVES DIFFERENT 
+OUTPUT IN OTHER OPERATING SYSTEMS
+
+Continue  ?? ? ... st  =
+ 
+ apropos   
+ 
+ ****************************************************************************   
+ 
+-->diary("Result5.txt","close")

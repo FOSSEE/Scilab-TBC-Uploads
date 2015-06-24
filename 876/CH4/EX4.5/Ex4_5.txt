@@ -1,0 +1,7 @@
+ lower value of limiting resistance(in ohm)=   
+ 
+    229.885  
+ 
+ upper value of limiting resistance(in ohm)=   
+ 
+    230.115  

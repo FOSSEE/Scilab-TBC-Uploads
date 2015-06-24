@@ -1,0 +1,21 @@
+//AC Circuits : example 4.47 :pg(4.47)
+f1=60;
+V=200;
+P=600;
+I=5;
+f=50;
+Z=V/I;
+r=(P/(I^2));
+XL=sqrt((Z^2)-(r^2));
+L=(XL/(2*%pi*f));
+XL1=(2*%pi*f1*L);
+Z1=sqrt((r^2)+(XL1^2));
+I=(V/Z1);
+printf("\nI=5 A \nV=200 V \nP=600 W \nFor f=50 Hz,");
+printf("\nZ=V/I =%.f Ohms",Z);
+printf("\nP=((I^2)*r) \nr=%.f Ohms",r);
+printf("\nXL=sqrt((Z^2)-(r^2)) \nXL=%.f Ohms",XL);
+printf("\nXL=(2*pi*f*L)\nL=%.4f H",L);
+printf("\nFor  f=60 Hz \nXL=%.1f Ohm",XL1);
+printf("\nr=24 Ohms \nZ=sqrt((r^2)+(XL^2))=%.2f Ohms",Z1);
+printf("\nI=V/Z=%.3f A",I);

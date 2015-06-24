@@ -1,0 +1,1 @@
+the 2 output voltages are 5 volts and 0.15 volts

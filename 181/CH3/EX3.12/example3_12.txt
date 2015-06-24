@@ -1,0 +1,2 @@
+Maximum load power = 58.78 W
+Average load power = 5.94 W 

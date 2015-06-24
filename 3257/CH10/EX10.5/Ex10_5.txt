@@ -1,0 +1,4 @@
+ 
+ Example 10.5
+ Flow rate is 1.37e-05 m^3/sec.
+ Final velocity is 0.70 m/sec. 

@@ -1,0 +1,15 @@
+ P1 in per unit   
+ 
+    1.04  
+ 
+ P2 in per unit   
+ 
+    0.8192  
+ 
+ Loss calculated using loss coefficients in per unit is   
+ 
+    0.1218237  
+ 
+ Loss calculated using current and resistance in per unit is   
+ 
+    0.124  

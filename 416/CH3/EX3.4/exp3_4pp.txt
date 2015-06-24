@@ -1,0 +1,29 @@
+ 
+ example 3 4   
+load factor 
+    20.    40.    60.    80.    100.  
+load MW
+20MW	40MW	60MW	80MW	100MW 
+ fixed cost   
+Rs3000	RS3000	Rs3000	Rs3000	Rs3000 
+ number of KW hrs of energy generated in paise per unit of energy   
+175200kWh	350400kWh	525600kWh	700800kWh	876000kWh 
+ fixed cost in paise per unit of energy   
+Rs1.712	RS0.856	Rs0.571	Rs0.428	Rs0.342 
+ operating cost in paise per unit of energy   
+Rs0.900	RS0.900	Rs0.900	Rs0.900	Rs0.900 
+ totla generation cost in paise per unit of energy   
+Rs2.612	RS1.756	Rs1.471	Rs1.328	Rs1.242 
+ 
+    90.    90.    90.    90.    90.  
+ 
+ totla generation cost in paise per unit of energy   
+ 
+ 
+         column 1 to 4
+ 
+    261.23288    175.61644    147.07763    132.80822  
+ 
+         column 5
+ 
+    124.24658  

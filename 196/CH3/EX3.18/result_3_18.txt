@@ -1,0 +1,1 @@
+Value of Equilibrium Time =  1.5000 s 

@@ -1,0 +1,10 @@
+* Gain magnitude av1 at f1 is = 0.1997
+* Gain magnitude av2 at f2 is = 0.5931
+* Gain magnitude av3 at f3 is = 1.7800
+* Gain magnitude av4 at f4 is = 2.7735
+* Gain magnitude av5 at f5 is = 3.3333
+* Gain magnitude av6 at f6 is = 3.1508
+* Gain magnitude av7 at f7 is = 2.7735 
+* Gain magnitude av8 at f8 is = 1.7800
+* Gain magnitude av9 at f9 is = 0.5655
+* Gain magnitude av10 at f10 is = 0.3979

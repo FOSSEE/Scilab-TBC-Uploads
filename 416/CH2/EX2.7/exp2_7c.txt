@@ -1,0 +1,11 @@
+
+ example 2.7   
+ 
+ (a)   
+load factor = capacity factor/utilisation factor =0.625000 
+ (b)   
+plant capacity = maximum demand/utilisation factor =50MW 
+ (c)   
+reserve capacity =10MW 
+ d   
+annual energy production =219000MWh 

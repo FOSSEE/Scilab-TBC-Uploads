@@ -1,0 +1,8 @@
+  
+ example 5.9   
+
+line current=  87.477314A
+phase voltage=  1905.255888V
+induced emf=  2152.469556 V/Phase
+percentage regulation=  12.975353 percent
+ 

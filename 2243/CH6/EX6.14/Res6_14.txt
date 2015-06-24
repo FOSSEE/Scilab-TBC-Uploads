@@ -1,0 +1,2 @@
+ Uncertainty in  position for a ball : 2.45 x 10^-32 m 
+Uncertainty in  position for an electron : 243 A 

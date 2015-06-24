@@ -1,0 +1,13 @@
+Leading kVAR taken by the condensor bank = 44.38 kVAR 
+
+Leading kVAR taken by the each of the three sets = 14.79 kVAR 
+
+Phase current of each capacitor is = 125663.71*C A 
+
+kVAR/phase = 50265.48*C 
+
+C = 294.29 uF 
+
+Capacitance of each capacitor is = 1177.15 uF 
+
+

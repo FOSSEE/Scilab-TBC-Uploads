@@ -1,0 +1,12 @@
+clear;
+clc;
+V_s=230;
+V_m=sqrt(2)*V_s;
+R=10;
+a=30;
+V_or=(V_m/sqrt(2))*sqrt((1/%pi)*(%pi-a*%pi/180+sind(2*a)/2));
+I_or=V_or/R;    printf("rms value of o/p current=%.2f A",I_or);
+printf("\nrms value of o/p current for each convertor=%.2f A",I_or/sqrt(2));
+printf("\nrms value of o/p current for each thyristor=%.3f A",I_or/2);
+I_s=I_or;
+pf=(I_or^2*R)/(V_s*I_s);    printf("\ni/p pf=%.4f",pf);

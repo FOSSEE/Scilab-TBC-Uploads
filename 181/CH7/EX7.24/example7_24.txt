@@ -1,0 +1,1 @@
+Voltage gain Av = -55.56 

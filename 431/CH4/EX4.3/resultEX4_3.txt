@@ -1,0 +1,13 @@
+example 4.3   
+ 
+ induction motor is to be run at 1440 rpm   
+frequency=50 
+ when P=2   
+Syhchronous speed,Ns=3000 
+ 
+ when P=4   
+Syhchronous speed,Ns=1500 
+ 
+ speed of rotor(1440) is less than synchronous speed 1500, therefore P=4\n   
+
+slip is 4 percent and number of poles is 4 

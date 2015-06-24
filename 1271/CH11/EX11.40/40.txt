@@ -1,0 +1,1 @@
+ Rate of decrement of mass of the sun is 4.398230e+09 kg/sec.

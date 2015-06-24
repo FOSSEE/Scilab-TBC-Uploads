@@ -1,0 +1,9 @@
+ 
+ Example 8.2
+
+ Part A:
+ Work done by pulling in tension is 317 Nm.
+
+ Part B:
+ Work done by machining on lathe is 3924 Nm.
+ Work done on machining is about 12 time higher than that of tension.

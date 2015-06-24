@@ -1,0 +1,147 @@
+9#Nuclear Physics#9.2.9#Shortest wavelength present in the radiation from an X ray machine#Ex9_2_9.sce#2411/CH9/EX9.2.9/Ex9_2_9.sce#S##108045
+9#Nuclear Physics#9.2.8#Uncertainty in energy and frequency of emitted light#Ex9_2_8.sce#2411/CH9/EX9.2.8/Ex9_2_8.sce#S##108043
+9#Nuclear Physics#9.2.7#de Broglie wavelength of a moving electron#Ex9_2_7.sce#2411/CH9/EX9.2.7/Ex9_2_7.sce#S##108042
+9#Nuclear Physics#9.2.6#de Broglie wavelength of the valence electron in metallic sodium#Ex9_2_6.sce#2411/CH9/EX9.2.6/Ex9_2_6.sce#S##108041
+9#Nuclear Physics#9.2.5#Wavelength of the scattered photon#Ex9_2_5.sce#2411/CH9/EX9.2.5/Ex9_2_5.sce#S##108040
+9#Nuclear Physics#9.2.4#Work function of the metallic surface#Ex9_2_4.sce#2411/CH9/EX9.2.4/Ex9_2_4.sce#S##108038
+9#Nuclear Physics#9.2.3#Photoelectric effect with silver#Ex9_2_3.sce#2411/CH9/EX9.2.3/Ex9_2_3.sce#S##108037
+9#Nuclear Physics#9.2.2#Average number of photons pe cubic metre in a monochromatic beam#Ex9_2_2.sce#2411/CH9/EX9.2.2/Ex9_2_2.sce#S##108036
+9#Nuclear Physics#9.2.19#Glancing angles for the second and third order reflections#Ex9_2_19.sce#2411/CH9/EX9.2.19/Ex9_2_19.sce#S##108052
+9#Nuclear Physics#9.2.16#Miller indices for the lattice planes#Ex9_2_16.sce#2411/CH9/EX9.2.16/Ex9_2_16.sce#S##108051
+9#Nuclear Physics#9.2.14#Comptom scattering#Ex9_2_14.sce#2411/CH9/EX9.2.14/Ex9_2_14.sce#S##108050
+9#Nuclear Physics#9.2.13#Finding unknown particles in the nuclear reactions#Ex9_2_13.sce#2411/CH9/EX9.2.13/Ex9_2_13.sce#S##108049
+9#Nuclear Physics#9.2.12#Threshold energy for the reactions#Ex9_2_12.sce#2411/CH9/EX9.2.12/Ex9_2_12.sce#S##108048
+9#Nuclear Physics#9.2.11#Q value of nuclear reaction#Ex9_2_11.sce#2411/CH9/EX9.2.11/Ex9_2_11.sce#S##108046
+9#Nuclear Physics#9.2.1#Average number of photons pe cubic metre in a monochromatic beam#Ex9_2_1.sce#2411/CH9/EX9.2.1/Ex9_2_1.sce#S##108035
+9#Nuclear Physics#9.1.4#Atomic mass of neon#Ex9_1_4.sce#2411/CH9/EX9.1.4/Ex9_1_4.sce#S##108034
+9#Nuclear Physics#9.1.3#Packing fraction and binding energy per nucleon for oxygen#Ex9_1_3.sce#2411/CH9/EX9.1.3/Ex9_1_3.sce#S##108033
+9#Nuclear Physics#9.1.2#Binding energy per nucleon for deutron#Ex9_1_2.sce#2411/CH9/EX9.1.2/Ex9_1_2.sce#S##108032
+9#Nuclear Physics#9.1.1#Binding energy per nucleon for Ni#Ex9_1_1.sce#2411/CH9/EX9.1.1/Ex9_1_1.sce#S##108031
+8#Laser and Fibre Optics#8.5#Numerical aperture and acceptance angle of the optical fibre#Ex8_5.sce#2411/CH8/EX8.5/Ex8_5.sce#S##108030
+8#Laser and Fibre Optics#8.4#Refractive index of the cladding in an optical fibre#Ex8_4.sce#2411/CH8/EX8.4/Ex8_4.sce#S##108029
+8#Laser and Fibre Optics#8.3#Wavelength of radiation emitted at room temperature#Ex8_3.sce#2411/CH8/EX8.3/Ex8_3.sce#S##108028
+8#Laser and Fibre Optics#8.2#Pumping energy required for He Ne laser transition#Ex8_2.sce#2411/CH8/EX8.2/Ex8_2.sce#S##108027
+8#Laser and Fibre Optics#8.1#Image produced by laser beam#Ex8_1.sce#2411/CH8/EX8.1/Ex8_1.sce#S##108026
+7#Classical Statistics and Quantum Statistics#7.9#Lengths of intercepts along y and z axis#Ex7_9.sce#2411/CH7/EX7.9/Ex7_9.sce#S##108015
+7#Classical Statistics and Quantum Statistics#7.6#Meaning of hkl notation of planes#Ex7_6.sce#2411/CH7/EX7.6/Ex7_6.sce#S##108014
+7#Classical Statistics and Quantum Statistics#7.5#Miller indices of given planes#Ex7_5.sce#2411/CH7/EX7.5/Ex7_5.sce#S##108013
+7#Classical Statistics and Quantum Statistics#7.4#Type of unit cell of Cs#Ex7_4.sce#2411/CH7/EX7.4/Ex7_4.sce#S##108012
+7#Classical Statistics and Quantum Statistics#7.3#Distance between two adjacent atoms in the NaCl#Ex7_3.sce#2411/CH7/EX7.3/Ex7_3.sce#S##108011
+7#Classical Statistics and Quantum Statistics#7.19#Smallest angle between the crystal plane and the X ray beam#Ex7_19.sce#2411/CH7/EX7.19/Ex7_19.sce#S##108025
+7#Classical Statistics and Quantum Statistics#7.18#Interatomic spacing for given crystal planes#Ex7_18.sce#2411/CH7/EX7.18/Ex7_18.sce#S##108024
+7#Classical Statistics and Quantum Statistics#7.17#Diffraction of X rays by the calcite crystal#Ex7_17.sce#2411/CH7/EX7.17/Ex7_17.sce#S##108023
+7#Classical Statistics and Quantum Statistics#7.16#Wavelength of X rays from grating space of the rock salt#Ex7_16.sce#2411/CH7/EX7.16/Ex7_16.sce#S##108022
+7#Classical Statistics and Quantum Statistics#7.15#Diffraction of X rays from a crystal#Ex7_15.sce#2411/CH7/EX7.15/Ex7_15.sce#S##108021
+7#Classical Statistics and Quantum Statistics#7.14#Value of Planck constant from Bragg relation#Ex7_14.sce#2411/CH7/EX7.14/Ex7_14.sce#S##108020
+7#Classical Statistics and Quantum Statistics#7.13#Interatomic spacing using Bragg relation#Ex7_13.sce#2411/CH7/EX7.13/Ex7_13.sce#S##108019
+7#Classical Statistics and Quantum Statistics#7.12#Maximum speed of striking electron and the shortest wavelength of X ray produced#Ex7_12.sce#2411/CH7/EX7.12/Ex7_12.sce#S##108018
+7#Classical Statistics and Quantum Statistics#7.11#Determining Planck constant from given set of X ray data#Ex7_11.sce#2411/CH7/EX7.11/Ex7_11.sce#S##108017
+7#Classical Statistics and Quantum Statistics#7.10#Interplanar spacing for a set of planes in a cubic lattice#Ex7_10.sce#2411/CH7/EX7.10/Ex7_10.sce#S##108016
+7#Classical Statistics and Quantum Statistics#7.1#Atomic packing fractions of SC FCC and BCC unit cells#Ex7_1.sce#2411/CH7/EX7.1/Ex7_1.sce#S##108009
+6#Classical Statistics and Quantum Statistics#6.9#Number of microstates in the given macostate of a Fermi Dirac system#Ex6_9.sce#2411/CH6/EX6.9/Ex6_9.sce#S##108004
+6#Classical Statistics and Quantum Statistics#6.8#Probability for a Maxwell Boltzmann system to be in given states#Ex6_8.sce#2411/CH6/EX6.8/Ex6_8.sce#S##108003
+6#Classical Statistics and Quantum Statistics#6.6#Most probable distribution for total energy#Ex6_6.sce#2411/CH6/EX6.6/Ex6_6.sce#S##108002
+6#Classical Statistics and Quantum Statistics#6.13#Fermi energy of conduction electrons in cesium#Ex6_13.sce#2411/CH6/EX6.13/Ex6_13.sce#S##108008
+6#Classical Statistics and Quantum Statistics#6.12#Number of conduction electrons per cc in silver at 0 K#Ex6_12.sce#2411/CH6/EX6.12/Ex6_12.sce#S##108007
+6#Classical Statistics and Quantum Statistics#6.11#Fermi energy and internal energy for metallic silver at 0 K#Ex6_11.sce#2411/CH6/EX6.11/Ex6_11.sce#S##108006
+6#Classical Statistics and Quantum Statistics#6.10#Number of microstates formed by particles obeying Fermi Dirac statistics#Ex6_10.sce#2411/CH6/EX6.10/Ex6_10.sce#S##108005
+6#Classical Statistics and Quantum Statistics#6.1#Probability of distribution of distinguishable particles#Ex6_1.sce#2411/CH6/EX6.1/Ex6_1.sce#S##108001
+5#Quantum Mechanics#5.9#Potassium surface exposed to UV radiation#Ex5_9.sce#2411/CH5/EX5.9/Ex5_9.sce#S##107982
+5#Quantum Mechanics#5.8#Maximum wavelength of radiation which would start the emission of photoelectrons#Ex5_8.sce#2411/CH5/EX5.8/Ex5_8.sce#S##107981
+5#Quantum Mechanics#5.7#A photosensitive material emitting photoelectrons#Ex5_7.sce#2411/CH5/EX5.7/Ex5_7.sce#S##107980
+5#Quantum Mechanics#5.6#Velocity of emitted photoelectrons#Ex5_6.sce#2411/CH5/EX5.6/Ex5_6.sce#S##107978
+5#Quantum Mechanics#5.5#Possibility of electron emission with the given incident wavelengths#Ex5_5.sce#2411/CH5/EX5.5/Ex5_5.sce#S##107976
+5#Quantum Mechanics#5.4#Kinetic energy of the ejected photoelectrons#Ex5_4.sce#2411/CH5/EX5.4/Ex5_4.sce#S##107975
+5#Quantum Mechanics#5.32#Probability of finding a particle within given range of 1D box for different energy states#Ex5_32.sce#2411/CH5/EX5.32/Ex5_32.sce#S##108000
+5#Quantum Mechanics#5.31#Probability of finding the particle within a given interval#Ex5_31.sce#2411/CH5/EX5.31/Ex5_31.sce#S##107999
+5#Quantum Mechanics#5.30#The excited state energies of the particle entrapped in a one dimensional box#Ex5_30.sce#2411/CH5/EX5.30/Ex5_30.sce#S##107998
+5#Quantum Mechanics#5.3#Wavelength of maximum intensity of radiation#Ex5_3.sce#2411/CH5/EX5.3/Ex5_3.sce#S##107974
+5#Quantum Mechanics#5.29#Lowest energy of an electron in one dimensional force free region#Ex5_29.sce#2411/CH5/EX5.29/Ex5_29.sce#S##107996
+5#Quantum Mechanics#5.25#Probable uncertainty in energy and frequency of gamma ray photon#Ex5_25.sce#2411/CH5/EX5.25/Ex5_25.sce#S##107995
+5#Quantum Mechanics#5.24#Minimum uncertainty in energy of the excited state of an atom#Ex5_24.sce#2411/CH5/EX5.24/Ex5_24.sce#S##107994
+5#Quantum Mechanics#5.23#Uncertainty with which position of the electron can be located#Ex5_23.sce#2411/CH5/EX5.23/Ex5_23.sce#S##107993
+5#Quantum Mechanics#5.22#Minimum uncertainty in the position of the particle#Ex5_22.sce#2411/CH5/EX5.22/Ex5_22.sce#S##107992
+5#Quantum Mechanics#5.20#Minimum uncertainty in the measurement of velocity of the electron#Ex5_20.sce#2411/CH5/EX5.20/Ex5_20.sce#S##107991
+5#Quantum Mechanics#5.2#Temperature of the surface of sun#Ex5_2.sce#2411/CH5/EX5.2/Ex5_2.sce#S##107973
+5#Quantum Mechanics#5.19#Minimum uncertainty in momentum and kinetic energy of a proton confined within nucleus#Ex5_19.sce#2411/CH5/EX5.19/Ex5_19.sce#S##107990
+5#Quantum Mechanics#5.18#de Broglie wavelength of a neutron of given energy#Ex5_18.sce#2411/CH5/EX5.18/Ex5_18.sce#S##107989
+5#Quantum Mechanics#5.16#Voltage applied to the electron microscope to produce the required wavelength#Ex5_16.sce#2411/CH5/EX5.16/Ex5_16.sce#S##107988
+5#Quantum Mechanics#5.15#de Broglie wavelength associated with moving masses#Ex5_15.sce#2411/CH5/EX5.15/Ex5_15.sce#S##107987
+5#Quantum Mechanics#5.13#The Compton effect stidied at different scattering angles#Ex5_13.sce#2411/CH5/EX5.13/Ex5_13.sce#S##107986
+5#Quantum Mechanics#5.12#Energy lost by an X ray photon in collsion with an electron#Ex5_12.sce#2411/CH5/EX5.12/Ex5_12.sce#S##107985
+5#Quantum Mechanics#5.11#Energy and wavelength of incident photon#Ex5_11.sce#2411/CH5/EX5.11/Ex5_11.sce#S##107984
+5#Quantum Mechanics#5.10#Planck constant and threshold wavelength of metal#Ex5_10.sce#2411/CH5/EX5.10/Ex5_10.sce#S##107983
+4#Special Theory of Relativity#4.9#Velocity of the particle when its total energy is thrice its rest energy#Ex4_9.sce#2411/CH4/EX4.9/Ex4_9.sce#S##107970
+4#Special Theory of Relativity#4.8#Velocity of the rocket as observed from the earth#Ex4_8.sce#2411/CH4/EX4.8/Ex4_8.sce#S##107969
+4#Special Theory of Relativity#4.7#Velocity of one particle relative to the other#Ex4_7.sce#2411/CH4/EX4.7/Ex4_7.sce#S##107968
+4#Special Theory of Relativity#4.6#Relative speed of the ships as measured by an observer#Ex4_6.sce#2411/CH4/EX4.6/Ex4_6.sce#S##107966
+4#Special Theory of Relativity#4.5#Velocity of pi meson#Ex4_5.sce#2411/CH4/EX4.5/Ex4_5.sce#S##107965
+4#Special Theory of Relativity#4.4#Lorentz transformations applied to a rigid bar#Ex4_4.sce#2411/CH4/EX4.4/Ex4_4.sce#S##107964
+4#Special Theory of Relativity#4.3#Apparent length of a meter stick for different speeds#Ex4_3.sce#2411/CH4/EX4.3/Ex4_3.sce#S##107963
+4#Special Theory of Relativity#4.2#Apparent length of rod relative to the observer#Ex4_2.sce#2411/CH4/EX4.2/Ex4_2.sce#S##107962
+4#Special Theory of Relativity#4.11#An electron subjected to relativistic motion#Ex4_11.sce#2411/CH4/EX4.11/Ex4_11.sce#S##107972
+4#Special Theory of Relativity#4.10#Relativisti variation of mass of electron with velocity#Ex4_10.sce#2411/CH4/EX4.10/Ex4_10.sce#S##107971
+4#Special Theory of Relativity#4.1#Fringe shift in the Michelson Morley experiment#Ex4_1.sce#2411/CH4/EX4.1/Ex4_1.sce#S##107961
+3#Vibration Waves and Light#3.d.314#Maximum number of lines of a grating#Ex3d_14.sce#2411/CH3/EX3.d.314/Ex3d_14.sce#S##107960
+3#Vibration Waves and Light#3.d.313#Maximum resolving power of a plane transmission grating#Ex3d_13.sce#2411/CH3/EX3.d.313/Ex3d_13.sce#S##107959
+3#Vibration Waves and Light#3.d.312#Minimum number of lines per cm in grating to just resolve the D1 and D2 lines of sodium#Ex3d_12.sce#2411/CH3/EX3.d.312/Ex3d_12.sce#S##107958
+3#Vibration Waves and Light#3.d.311#Design of a plane transmission diffraction grating#Ex3d_11.sce#2411/CH3/EX3.d.311/Ex3d_11.sce#S##107957
+3#Vibration Waves and Light#3.d.310#Minimum number of lines on the diffraction grating#Ex3d_10.sce#2411/CH3/EX3.d.310/Ex3d_10.sce#S##107956
+3#Vibration Waves and Light#3.d.309#Number of lines per cm on the grating#Ex3d_9.sce#2411/CH3/EX3.d.309/Ex3d_9.sce#S##107955
+3#Vibration Waves and Light#3.d.308#Invisible third and higher order principal maxima in a diffraction grating#Ex3d_8.sce#2411/CH3/EX3.d.308/Ex3d_8.sce#S##107954
+3#Vibration Waves and Light#3.d.307#Highest order spectrum obtainable with the given diffraction grating#Ex3d_7.sce#2411/CH3/EX3.d.307/Ex3d_7.sce#S##107953
+3#Vibration Waves and Light#3.d.306#Number of lines in one centimeter of the grating surface#Ex3d_6.sce#2411/CH3/EX3.d.306/Ex3d_6.sce#S##107952
+3#Vibration Waves and Light#3.d.305#Wavelength of the spectral line#Ex3d_5.sce#2411/CH3/EX3.d.305/Ex3d_5.sce#S##107951
+3#Vibration Waves and Light#3.d.304#Angle of diffraction for the principal maxima#Ex3d_4.sce#2411/CH3/EX3.d.304/Ex3d_4.sce#S##107950
+3#Vibration Waves and Light#3.d.303#Distance of the first dark band from the axis#Ex3d_3.sce#2411/CH3/EX3.d.303/Ex3d_3.sce#S##107949
+3#Vibration Waves and Light#3.d.302#Separation between the second minima on either side of the central maximum#Ex3d_2.sce#2411/CH3/EX3.d.302/Ex3d_2.sce#S##107948
+3#Vibration Waves and Light#3.d.301#Wavelength of light used in diffraction due to narrow slit#Ex3d_1.sce#2411/CH3/EX3.d.301/Ex3d_1.sce#S##107947
+3#Vibration Waves and Light#3.c.217#Smallest thickness of the glass film in which it appears dark#Ex3c_17.sce#2411/CH3/EX3.c.217/Ex3c_17.sce#S##107946
+3#Vibration Waves and Light#3.c.216#Newton rings observed in reflected light#Ex3c_16.sce#2411/CH3/EX3.c.216/Ex3c_16.sce#S##107945
+3#Vibration Waves and Light#3.c.215#Radius of curvature of the lens and the thickness of the air film#Ex3c_15.sce#2411/CH3/EX3.c.215/Ex3c_15.sce#S##107944
+3#Vibration Waves and Light#3.c.214#Diameter of the 20th dark ring#Ex3c_14.sce#2411/CH3/EX3.c.214/Ex3c_14.sce#S##107943
+3#Vibration Waves and Light#3.c.213#Wavelenght of light used in obtaining Newton rings#Ex3c_13.sce#2411/CH3/EX3.c.213/Ex3c_13.sce#S##107942
+3#Vibration Waves and Light#3.c.212#Radius of plano convex lens#Ex3c_12.sce#2411/CH3/EX3.c.212/Ex3c_12.sce#S##107941
+3#Vibration Waves and Light#3.c.211#Wavelength of light in Newton ring experiment#Ex3c_11.sce#2411/CH3/EX3.c.211/Ex3c_11.sce#S##107940
+3#Vibration Waves and Light#3.c.210#Fringe width observed at one metre distance from biprism#Ex3c_10.sce#2411/CH3/EX3.c.210/Ex3c_10.sce#S##107939
+3#Vibration Waves and Light#3.c.209#Wavelength of light from biprism interference pattern#Ex3c_9.sce#2411/CH3/EX3.c.209/Ex3c_9.sce#S##107938
+3#Vibration Waves and Light#3.c.208#Number of fringes obtained with the given wavelength#Ex3c_8.sce#2411/CH3/EX3.c.208/Ex3c_8.sce#S##107937
+3#Vibration Waves and Light#3.c.207#Wavelength of the light used in biprism experiment#Ex3c_7.sce#2411/CH3/EX3.c.207/Ex3c_7.sce#S##107936
+3#Vibration Waves and Light#3.c.206#Distance between consecutive interference bands#Ex3c_6.sce#2411/CH3/EX3.c.206/Ex3c_6.sce#S##107935
+3#Vibration Waves and Light#3.c.205#Distance between the two coherent sources#Ex3c_5.sce#2411/CH3/EX3.c.205/Ex3c_5.sce#S##107934
+3#Vibration Waves and Light#3.c.204#Fringe width from interference pattern#Ex3c_4.sce#2411/CH3/EX3.c.204/Ex3c_4.sce#S##107933
+3#Vibration Waves and Light#3.c.203#Wavelength of light from interference of fringes#Ex3c_3.sce#2411/CH3/EX3.c.203/Ex3c_3.sce#S##107932
+3#Vibration Waves and Light#3.c.202#Ratio of maximum to minimum intensity in the interference fringe system#Ex3c_2.sce#2411/CH3/EX3.c.202/Ex3c_2.sce#S##107931
+3#Vibration Waves and Light#3.b.107#Angle of rotation of polaroid to reduce the intensity#Ex3b_7.sce#2411/CH3/EX3.b.107/Ex3b_7.sce#S##107930
+3#Vibration Waves and Light#3.b.106#Percentage reduction in the intensity of the inident light#Ex3b_6.sce#2411/CH3/EX3.b.106/Ex3b_6.sce#S##107929
+3#Vibration Waves and Light#3.b.105#Intensity ratio of two beams through analyser#Ex3b_5.sce#2411/CH3/EX3.b.105/Ex3b_5.sce#S##107928
+3#Vibration Waves and Light#3.b.104#Polarization by reflection#Ex3b_4.sce#2411/CH3/EX3.b.104/Ex3b_4.sce#S##107927
+3#Vibration Waves and Light#3.b.103#Polarizing angle for glass#Ex3b_3.sce#2411/CH3/EX3.b.103/Ex3b_3.sce#S##107926
+3#Vibration Waves and Light#3.b.102#Polarizing angles for various pair of media#Ex3b_2.sce#2411/CH3/EX3.b.102/Ex3b_2.sce#S##107925
+3#Vibration Waves and Light#3.b.101#Brewster angle and angle of refraction for glass#Ex3b_1.sce#2411/CH3/EX3.b.101/Ex3b_1.sce#S##107924
+3#Vibration Waves and Light#3.a.23#Travelling wave characteristics and phase difference#Ex3a_c_3.sce#2411/CH3/EX3.a.23/Ex3a_c_3.sce#S##107923
+3#Vibration Waves and Light#3.a.22#A simple harmonic wave travelling along X axis#Ex3a_c_2.sce#2411/CH3/EX3.a.22/Ex3a_c_2.sce#S##107922
+3#Vibration Waves and Light#3.a.21#Characteristics of progressive waves#Ex3a_c_1.sce#2411/CH3/EX3.a.21/Ex3a_c_1.sce#S##107921
+3#Vibration Waves and Light#3.a.17#Damped simple harmonic motion#Ex3a_b_7.sce#2411/CH3/EX3.a.17/Ex3a_b_7.sce#S##107920
+3#Vibration Waves and Light#3.a.16#Damped oscillatory motion#Ex3a_b_6.sce#2411/CH3/EX3.a.16/Ex3a_b_6.sce#S##107919
+3#Vibration Waves and Light#3.a.15#Resisting force for critically damped motion#Ex3a_b_5.sce#2411/CH3/EX3.a.15/Ex3a_b_5.sce#S##107918
+3#Vibration Waves and Light#3.a.14#A mass executing damped oscillations in one dimension#Ex3a_b_4.sce#2411/CH3/EX3.a.14/Ex3a_b_4.sce#S##107917
+3#Vibration Waves and Light#3.a.12#A mass executing damped oscillations in one dimension#Ex3a_b_2.sce#2411/CH3/EX3.a.12/Ex3a_b_2.sce#S##107916
+3#Vibration Waves and Light#3.a.11#A spring disc system undergoing damped oscillation#Ex3a_b_1.sce#2411/CH3/EX3.a.11/Ex3a_b_1.sce#S##107915
+3#Vibration Waves and Light#3.a.07#Two SHMs acting in the same direction#Ex3a_a_7.sce#2411/CH3/EX3.a.07/Ex3a_a_7.sce#S##107914
+3#Vibration Waves and Light#3.a.05#Resultant amplitude and phase angle relative to the first SHM#Ex3a_a_5.sce#2411/CH3/EX3.a.05/Ex3a_a_5.sce#S##107913
+3#Vibration Waves and Light#3.a.04#Time period of a body oscillating in the tunnel across the earth#Ex3a_a_4.sce#2411/CH3/EX3.a.04/Ex3a_a_4.sce#S##107912
+3#Vibration Waves and Light#3.a.03#A body executing SHM#Ex3a_a_3.sce#2411/CH3/EX3.a.03/Ex3a_a_3.sce#S##107911
+3#Vibration Waves and Light#3.a.02#Frequency of particle executing SHM#Ex3a_a_2.sce#2411/CH3/EX3.a.02/Ex3a_a_2.sce#S##107910
+2#Electricity and Magnetism#2.40#Force between two current carrying straight wires#Ex2_40.sce#2411/CH2/EX2.40/Ex2_40.sce#S##107909
+2#Electricity and Magnetism#2.39#Magnetic field due to a straight conductor carrying current#Ex2_39.sce#2411/CH2/EX2.39/Ex2_39.sce#S##107908
+2#Electricity and Magnetism#2.33#Electric flux through a surface in YZ plane#Ex2_33.sce#2411/CH2/EX2.33/Ex2_33.sce#S##107907
+2#Electricity and Magnetism#2.32#Electric flux through an area in XY plane#Ex2_32.sce#2411/CH2/EX2.32/Ex2_32.sce#S##107906
+2#Electricity and Magnetism#2.31#Electric flux through a surface area#Ex2_31.sce#2411/CH2/EX2.31/Ex2_31.sce#S##107905
+2#Electricity and Magnetism#2.13#Evaluation of force integral#Ex2_13.sce#2411/CH2/EX2.13/Ex2_13.sce#S##107904
+2#Electricity and Magnetism#2.12#Work done in moving a particle in force field#Ex2_12.sce#2411/CH2/EX2.12/Ex2_12.sce#S##107903
+1#Classical Mechanics#1.9#Angular velocity of the combination of two wheels#Ex1_9.sce#2411/CH1/EX1.9/Ex1_9.sce#S##107900
+1#Classical Mechanics#1.6#Direction of motion of a ball after momentum conservation during collision#Ex1_6.sce#2411/CH1/EX1.6/Ex1_6.sce#S##107899
+1#Classical Mechanics#1.5#Force of contact between two masses#Ex1_5.sce#2411/CH1/EX1.5/Ex1_5.sce#S##107898
+1#Classical Mechanics#1.11#Velocity of third piece of the exploded object#Ex1_11.sce#2411/CH1/EX1.11/Ex1_11.sce#S##107902
+1#Classical Mechanics#1.10#Common velocity of a car truck system#Ex1_10.sce#2411/CH1/EX1.10/Ex1_10.sce#S##107901

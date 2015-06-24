@@ -1,0 +1,4 @@
+ Critical angle = 80.633211 degree. 
+ Numerical aperture = 0.244131. 
+ Acceptance angle = 14.130491 degree.
+ Fractional refractive index = 0.013333.

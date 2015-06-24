@@ -1,0 +1,2 @@
+**Sample Problem 30-4**
+The magnetic field inside the solenoid is 2.418516e-002T 

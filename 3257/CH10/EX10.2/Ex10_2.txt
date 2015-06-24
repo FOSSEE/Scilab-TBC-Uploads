@@ -1,0 +1,3 @@
+ 
+ Example 10.2
+ Polymer should be processed at 455.6 K . 

@@ -1,0 +1,4 @@
+Ex-4.3   
+The minimum uncertainity calculated is 1rad/sec. The claimed accuracy is 0.063 rad/sec
+ 
+ Invalid claim   

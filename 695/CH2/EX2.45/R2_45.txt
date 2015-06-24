@@ -1,0 +1,5 @@
+  
+ No Load Speed (in RPM)=   
+ 
+    944.9  
+ 

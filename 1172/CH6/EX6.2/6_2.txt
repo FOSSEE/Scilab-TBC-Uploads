@@ -1,0 +1,6 @@
+ # Problem 2 # 
+
+ Standard formula used is  u_x = (u_x_ + v) / (1 + v * u_x_ / c^2) 
+ Velocity of photon with respect to another is -1 * c 
+ Thus photons are approaching each other.
+ 

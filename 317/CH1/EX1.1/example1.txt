@@ -1,0 +1,1 @@
+ As long as the load resistance is greater than 5000 ohms , the ac voltage source is stiff and we can ignore the internal resistance of the source. 

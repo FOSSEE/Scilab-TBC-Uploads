@@ -1,0 +1,2 @@
+ The max range Rmax1 = 200.391869 km
+ The max range Rmax2 = 283.396899 km

@@ -1,0 +1,7 @@
+ maximum value of resistor(in ohm)=   
+ 
+    105.  
+ 
+ minimum value of resistor(in ohm)=   
+ 
+    95. 

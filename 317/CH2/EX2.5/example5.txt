@@ -1,0 +1,3 @@
+ barrier potential at 100 degree celcius is 0.55 volts
+ barrier potential at 0 degree celcius is 0.75 volts
+

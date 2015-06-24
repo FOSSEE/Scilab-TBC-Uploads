@@ -1,0 +1,1 @@
+Voltage Gain = 1.0000

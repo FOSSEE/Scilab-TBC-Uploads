@@ -1,0 +1,58 @@
+-->//(Design against Static Load) Example 4.22
+ 
+-->//Refer Fig.4.70 on page 136
+ 
+-->//Initial temperature of the steel tube Ti (degree)
+ 
+-->Ti = 25
+ Ti  =
+ 
+    25.  
+ 
+-->//Final temperature of the steel tube Tf (degree)
+ 
+-->Tf = 250
+ Tf  =
+ 
+    250.  
+ 
+-->//Length of the tube l (mm)
+ 
+-->l = 200
+ l  =
+ 
+    200.  
+ 
+-->//Area of cross-section of the tube A (mm2)
+ 
+-->A = 300
+ A  =
+ 
+    300.  
+ 
+-->//Joint separation j (mm)
+ 
+-->j = 0.15
+ j  =
+ 
+    0.15  
+ 
+-->//Modulus of elasticity of steel E (N/mm2)
+ 
+-->E = 207000
+ E  =
+ 
+    207000.  
+ 
+-->//Coefficient of thermal expansion of steel alpha (per degree celsius)
+ 
+-->alpha = 10.8 * (10^(-6))
+ alpha  =
+ 
+    0.0000108  
+ 
+
+Force acting on the tube(P) = 104328.000000 N
+
+Resultant stress(sigma) = 347.760000 N/mm2
+ 

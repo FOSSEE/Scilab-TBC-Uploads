@@ -1,0 +1,3 @@
+(a)Rth = 1.733e+005 ohms and Vth = 8 V
+(b)Vgs = 4 V and Id = -3.00 mA
+(c)Vds = -10.5 V 

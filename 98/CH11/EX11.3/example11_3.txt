@@ -1,0 +1,3 @@
+Resistance of the insulating material = 13.71*10^9 ohm-m 
+
+

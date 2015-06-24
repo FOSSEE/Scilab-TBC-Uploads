@@ -1,0 +1,4 @@
+ 
+-->exec('/home/octav/scilab_iitb/Chapter_1/example1_14_pg31.sce', -1)
+Per-unit regulation = 0.0217 
+-->diary(0);

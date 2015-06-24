@@ -1,0 +1,5 @@
+**Sample Problem 13-3a**
+The magntude of force on the beam from the cable is 6092.763158N
+
+**Sample Problem 13-3b**
+The magnitude of force on the beam from the hinge is 7911.635223N 

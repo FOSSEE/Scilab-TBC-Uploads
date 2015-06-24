@@ -1,0 +1,8 @@
+**Sample Problem 20-6a**
+The average speed of molecule is 445.406148m/s
+
+**Sample Problem 20-6b**
+The rms speed of molecule is 483.444671m/s
+
+**Sample Problem 20-6c**
+The most probable speed of molecule is 394.730921m/s 

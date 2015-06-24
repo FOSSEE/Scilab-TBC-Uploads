@@ -1,0 +1,70 @@
+19#Applications of High Voltage Engineering#19.9#Chapter 19 Example 9#Ex19_9.sce#3369/CH19/EX19.9/Ex19_9.sce#S##114293
+19#Applications of High Voltage Engineering#19.8#Chapter 19 Example 8#Ex19_8.sce#3369/CH19/EX19.8/Ex19_8.sce#S##114292
+19#Applications of High Voltage Engineering#19.7#Chapter 19 Example 7#Ex19_7.sce#3369/CH19/EX19.7/Ex19_7.sce#S##114289
+19#Applications of High Voltage Engineering#19.6#Chapter 19 Example 6#Ex19_6.sce#3369/CH19/EX19.6/Ex19_6.sce#S##114287
+19#Applications of High Voltage Engineering#19.5#Chapter 19 Example 5#Ex19_5.sce#3369/CH19/EX19.5/Ex19_5.sce#S##114286
+19#Applications of High Voltage Engineering#19.4#Chapter 19 Example 4#Ex19_4.sce#3369/CH19/EX19.4/Ex19_4.sce#S##114285
+19#Applications of High Voltage Engineering#19.2#Chapter 19 Example 2#Ex19_2.sce#3369/CH19/EX19.2/Ex19_2.sce#S##114284
+19#Applications of High Voltage Engineering#19.10#Chapter 19 Example 10#Ex19_10.sce#3369/CH19/EX19.10/Ex19_10.sce#S##114294
+19#Applications of High Voltage Engineering#19.1#Chapter 19 Example 1#Ex19_1.sce#3369/CH19/EX19.1/Ex19_1.sce#S##114283
+16#High Voltage Generation#16.9#Chapter 16 Example 9#Ex16_9.sce#3369/CH16/EX16.9/Ex16_9.sce#S##114204
+16#High Voltage Generation#16.8#Chapter 16 Example 8#Ex16_8.sce#3369/CH16/EX16.8/Ex16_8.sce#S##114203
+16#High Voltage Generation#16.7#Chapter 16 Example 7#Ex16_7.sce#3369/CH16/EX16.7/Ex16_7.sce#S##114202
+16#High Voltage Generation#16.6#Chapter 16 Example 6#Ex16_6.sce#3369/CH16/EX16.6/Ex16_6.sce#S##114201
+16#High Voltage Generation#16.5#Chapter 16 Example 5#Ex16_5.sce#3369/CH16/EX16.5/Ex16_5.sce#S##114200
+16#High Voltage Generation#16.4#Chapter 16 Example 4#Ex16_4.sce#3369/CH16/EX16.4/Ex16_4.sce#S##114199
+16#High Voltage Generation#16.3#Chapter 16 Example 3#Ex16_3.sce#3369/CH16/EX16.3/Ex16_3.sce#S##114198
+16#High Voltage Generation#16.2#Chapter 16 Example 2#Ex16_2.sce#3369/CH16/EX16.2/Ex16_2.sce#S##114197
+16#High Voltage Generation#16.11#Chapter 16 Example 11#Ex16_11.sce#3369/CH16/EX16.11/Ex16_11.sce#S##114206
+16#High Voltage Generation#16.10#Chapter 16 Example 10#Ex16_10.sce#3369/CH16/EX16.10/Ex16_10.sce#S##114205
+16#High Voltage Generation#16.1#Chapter 16 Example 1#Ex16_1.sce#3369/CH16/EX16.1/Ex16_1.sce#S##114196
+14#Overvolatges on Power Systems#14.4.2.1#Chapter 14 Example 1#Ex14_1.sce#3369/CH14/EX14.4.2.1/Ex14_1.sce#S##114207
+12#High Voltage Cables#12.9#Chapter 12 Example 9#Ex12_9.sce#3369/CH12/EX12.9/Ex12_9.sce#S##114097
+12#High Voltage Cables#12.8#Chapter 12 Example 8#Ex12_8.sce#3369/CH12/EX12.8/Ex12_8.sce#S##114096
+12#High Voltage Cables#12.7#Chapter 12 Example 7#Ex12_7.sce#3369/CH12/EX12.7/Ex12_7.sce#S##114095
+12#High Voltage Cables#12.6#Chapter 12 Example 6#Ex12_6.sce#3369/CH12/EX12.6/Ex12_6.sce#S##114094
+12#High Voltage Cables#12.5#Chapter 12 Example 5#Ex12_5.sce#3369/CH12/EX12.5/Ex12_5.sce#S##114093
+12#High Voltage Cables#12.4#Chapter 12 Example 4#Ex12_4.sce#3369/CH12/EX12.4/Ex12_4.sce#S##114092
+12#High Voltage Cables#12.3#Chapter 12 Example 3#Ex12_3.sce#3369/CH12/EX12.3/Ex12_3.sce#S##114091
+12#High Voltage Cables#12.2#Chapter 12 Example 2#Ex12_2.sce#3369/CH12/EX12.2/Ex12_2.sce#S##114090
+12#High Voltage Cables#12.10#Chapter 12 Example 10#Ex12_10.sce#3369/CH12/EX12.10/Ex12_10.sce#S##114098
+12#High Voltage Cables#12.1#Chapter 12 Example 1#Ex12_1.sce#3369/CH12/EX12.1/Ex12_1.sce#S##114089
+5#The Corona discharge#5.9#Chapter 5 Example 9#Ex5_9.sce#3369/CH5/EX5.9/Ex5_9.sce#S##113674
+5#The Corona discharge#5.8#Chapter 5 Example 8#Ex5_8.sce#3369/CH5/EX5.8/Ex5_8.sce#S##113673
+5#The Corona discharge#5.3#Chapter 5 Example 3#Ex5_3.sce#3369/CH5/EX5.3/Ex5_3.sce#S##113672
+5#The Corona discharge#5.2#Chapter 5 Example 2#Ex5_2.sce#3369/CH5/EX5.2/Ex5_2.sce#S##113671
+5#The Corona discharge#5.11#Chapter 5 Example 11#Ex5_11.sce#3369/CH5/EX5.11/Ex5_11.sce#S##113676
+5#The Corona discharge#5.10#Chapter 5 Example 10#Ex5_10.sce#3369/CH5/EX5.10/Ex5_10.sce#S##113675
+4#Electrical Breakdown of Gasses#4.9#Chapter 4 Example 9#Ex4_9.sce#3369/CH4/EX4.9/Ex4_9.sce#S##113601
+4#Electrical Breakdown of Gasses#4.8#Chapter 4 Example 8 #Ex4_8.sce#3369/CH4/EX4.8/Ex4_8.sce#S##113600
+4#Electrical Breakdown of Gasses#4.7#Chapter 4 Example 7#Ex4_7.sce#3369/CH4/EX4.7/Ex4_7.sce#S##113599
+4#Electrical Breakdown of Gasses#4.5#Chapter 4 Example 5#Ex4_5.sce#3369/CH4/EX4.5/Ex4_5.sce#S##113598
+4#Electrical Breakdown of Gasses#4.4#Chapter 4 Example 4#Ex4_4.sce#3369/CH4/EX4.4/Ex4_4.sce#S##113597
+4#Electrical Breakdown of Gasses#4.3#Chapter 4 Example 3#Ex4_3.sce#3369/CH4/EX4.3/Ex4_3.sce#S##113596
+4#Electrical Breakdown of Gasses#4.2#Chapter 4 Example 2#Ex4_2.sce#3369/CH4/EX4.2/Ex4_2.sce#S##113595
+4#Electrical Breakdown of Gasses#4.12#Chapter 4 Example 12#Ex4_12.sce#3369/CH4/EX4.12/Ex4_12.sce#S##113604
+4#Electrical Breakdown of Gasses#4.11#Chapter 4 Example 11#Ex4_11.sce#3369/CH4/EX4.11/Ex4_11.sce#S##113603
+4#Electrical Breakdown of Gasses#4.10#Chapter 4 Example 10#Ex4_10.sce#3369/CH4/EX4.10/Ex4_10.sce#S##113602
+4#Electrical Breakdown of Gasses#4.1#Chapter 4 Example 1#Ex4_1.sce#3369/CH4/EX4.1/Ex4_1.sce#S##113594
+3#Ionization and Deionization Process in Gasses#3.9#Chapter 3 Example 9#Ex3_9.sce#3369/CH3/EX3.9/Ex3_9.sce#S##113301
+3#Ionization and Deionization Process in Gasses#3.8#Chapter 3 Example 8#Ex3_8.sce#3369/CH3/EX3.8/Ex3_8.sce#S##113300
+3#Ionization and Deionization Process in Gasses#3.7#Chapter 3 Example 7#Ex3_7.sce#3369/CH3/EX3.7/Ex3_7.sce#S##113299
+3#Ionization and Deionization Process in Gasses#3.6#Chapter 3 Example 6#Ex3_6.sce#3369/CH3/EX3.6/Ex3_6.sce#S##113310
+3#Ionization and Deionization Process in Gasses#3.5#Chapter 3 Example 5#Ex3_5.sce#3369/CH3/EX3.5/Ex3_5.sce#S##113298
+3#Ionization and Deionization Process in Gasses#3.4#Chapter 3 Example 4#Ex3_4.sce#3369/CH3/EX3.4/Ex3_4.sce#S##113297
+3#Ionization and Deionization Process in Gasses#3.3#Chapter 3 Example 3#Ex3_3.sce#3369/CH3/EX3.3/Ex3_3.sce#S##113296
+3#Ionization and Deionization Process in Gasses#3.2#Chapter 3 Example 2#Ex3_2.sce#3369/CH3/EX3.2/Ex3_2.sce#S##113295
+3#Ionization and Deionization Process in Gasses#3.19#Chapter 3 Example 19#Ex3_19.sce#3369/CH3/EX3.19/Ex3_19.sce#S##113309
+3#Ionization and Deionization Process in Gasses#3.18#Chapter 3 Example 18#Ex3_18.sce#3369/CH3/EX3.18/Ex3_18.sce#S##113308
+3#Ionization and Deionization Process in Gasses#3.17#Chapter 3 Example 17#Ex3_17.sce#3369/CH3/EX3.17/Ex3_17.sce#S##113307
+3#Ionization and Deionization Process in Gasses#3.15#Chapter 3 Example 15#Ex3_15.sce#3369/CH3/EX3.15/Ex3_15.sce#S##114773
+3#Ionization and Deionization Process in Gasses#3.14#Chapter 3 Example 14#Ex3_14.sce#3369/CH3/EX3.14/Ex3_14.sce#S##113305
+3#Ionization and Deionization Process in Gasses#3.12#Chapter 3 Example 12#Ex3_12.sce#3369/CH3/EX3.12/Ex3_12.sce#S##113304
+3#Ionization and Deionization Process in Gasses#3.11#Chapter 3 Example 11#Ex3_11.sce#3369/CH3/EX3.11/Ex3_11.sce#S##113303
+3#Ionization and Deionization Process in Gasses#3.10#Chapter 3 Example 10#Ex3_10.sce#3369/CH3/EX3.10/Ex3_10.sce#S##113302
+3#Ionization and Deionization Process in Gasses#3.1#Chapter 3 Example 1#Ex3_1.sce#3369/CH3/EX3.1/Ex3_1.sce#S##113294
+2#Electric Fields #2.8#Chapter 2 Example 8#Ex2_8.sce#3369/CH2/EX2.8/Ex2_8.sce#S##113292
+2#Electric Fields #2.7#Chapter 2 Example 7#Ex2_7.sce#3369/CH2/EX2.7/Ex2_7.sce#S##113291
+2#Electric Fields #2.6#Chapter 2 Example 6#Ex2_6.sce#3369/CH2/EX2.6/Ex2_6.sce#S##113290
+2#Electric Fields #2.5#Chapter 2 example 5#Ex2_5.sce#3369/CH2/EX2.5/Ex2_5.sce#S##113289
+2#Electric Fields #2.11#Chapter 2 Example 11#Ex2_11.sce#3369/CH2/EX2.11/Ex2_11.sce#S##114772

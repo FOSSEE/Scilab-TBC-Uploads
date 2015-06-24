@@ -1,0 +1,4 @@
+ 
+ example 13.4   
+ total reactance 0.1875.p.u 
+ fault MVA 266.7MVA 

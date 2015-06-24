@@ -1,0 +1,5 @@
+**Sample Problem 37-4a**
+The number of bright fringes are 9
+
+**Sample Problem 37-4b**
+The number of bright fringes within either of the first side peak is 4 

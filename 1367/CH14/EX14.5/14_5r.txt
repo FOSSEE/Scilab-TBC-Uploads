@@ -1,0 +1,4 @@
+Magnetic strength (in T) =    
+ 
+    0.0075360  
+ 

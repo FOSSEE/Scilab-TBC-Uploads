@@ -1,0 +1,1 @@
+voltage gain is 0.6

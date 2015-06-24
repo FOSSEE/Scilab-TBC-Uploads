@@ -1,0 +1,5 @@
+ # Problem 19b # 
+
+ Standard formula Used 
+ E= h *(nu1 – nu2)
+ Kinetic energy imparted to recoiling electron is 294 eV.

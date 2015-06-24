@@ -1,0 +1,15 @@
+
+ example 5.13   
+
+output power=1200
+V per phase= 1905V
+Synchronous impedance,Zs=3.175426 ohm
+ 
+ (a)for 0.8 lagging power facor   
+induced emf,E=2398.732590 V
+regulation=25.900810 percent
+
+ 
+ (b)For leading power factor load   
+induced emf,E= 1647.716860 V
+regulation=-13.517293 percent 

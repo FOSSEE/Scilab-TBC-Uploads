@@ -1,0 +1,12 @@
+ 
+ relative permeability =    
+ 
+    1501.  
+ 
+ Intensity of magnetisation (in A/m)   
+ 
+    3600000.  
+ 
+ Remanance (in T) =    
+ 
+    4.5246144  

@@ -1,0 +1,5 @@
+ # PROBLEM 35 # 
+ Standard formula used 
+ theta = 1.22*lambda/a  
+
+ Diameter of telescope is 3.495043 cm.

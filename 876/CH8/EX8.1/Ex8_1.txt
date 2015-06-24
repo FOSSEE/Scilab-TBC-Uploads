@@ -1,0 +1,4 @@
+ deflection sensitivity of CRO(in m/V)=   
+ 
+    0.00016  
+ 

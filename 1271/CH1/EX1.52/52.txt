@@ -1,0 +1,2 @@
+﻿
+ The distance through which the movable mirror is move = 0.289395 mm.

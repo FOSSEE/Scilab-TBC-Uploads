@@ -1,0 +1,9 @@
+ 
+Work done/sec = 35963.5 kW 
+
+This is gross plant capacity
+(i)	 Firm capacity = 28770.8 kW 
+
+(ii)	 Yearly gross output = 252031927.7 kW 
+
+

@@ -1,0 +1,2 @@
+**Sample Problem 20-5**
+The fraction of molecules having speed in given range is 2.621139e-003

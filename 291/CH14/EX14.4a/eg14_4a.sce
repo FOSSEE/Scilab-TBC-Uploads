@@ -1,0 +1,10 @@
+Xlife = 420;
+Ylife = 510;
+Xnum=  10;
+Ynum =15;
+ts = Xlife*Ynum/(Ylife*Xnum);
+disp(ts, "The value of the test statistic is");
+val = cdff("PQ", ts, Xnum, Ynum);
+pvalue = 2*(1-val);
+disp(pvalue, "The p-value is");
+disp("We cannot reject H0");

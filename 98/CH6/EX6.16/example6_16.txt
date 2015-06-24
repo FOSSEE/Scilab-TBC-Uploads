@@ -1,0 +1,13 @@
+Max demand charges = 100 kW 
+Expenditure on phase advnacing equipement = Rs. 50.00 /kVAR/annnum 
+
+(i) Most economical power factor at which factory should operate = 0.866 lag 
+
+(ii)Capacity of phase advancing equipment = 34.53 kVAR 
+
+(iii) Units consumed per year = 1000000 kWh 
+Annual energy charges = Rs. 50000 
+Annual cost of phase advancing equipment = Rs. 1726 
+Max demand charges = Rs. 23094 
+Annual bill for energy = Rs. 74821 
+

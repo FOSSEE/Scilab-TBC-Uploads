@@ -1,0 +1,19 @@
+Leading kVAR taken by the capacitors = 212.54 
+
+Annual cost before pf correction
+Max kVA demand = 1000.00 
+kVA demand charges = Rs. 100000 
+Units consumed per year = 2400000 kWh 
+Energy charges per year = Rs. 480000 
+Total annual cost = Rs. 580000 
+
+Annual cost after pf correction
+Max kVA demand = 888.89 
+kVA demand charges = Rs. 88889 
+Energy charges per year = Rs. 480000 
+Capital cost of capacitors = Rs. 12753 
+Annual interest and depreciation = Rs. 1275 
+Total annual cost = Rs. 570164 
+
+Annual saving = Rs. 9836 
+

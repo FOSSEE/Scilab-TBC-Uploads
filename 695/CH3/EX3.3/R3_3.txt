@@ -1,0 +1,8 @@
+ Number of turns in primary winding=   
+ 
+    2880.  
+ 
+ Number of turns in secondary winding=   
+ 
+    288.  
+ 

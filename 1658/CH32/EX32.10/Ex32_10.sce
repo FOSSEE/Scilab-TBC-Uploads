@@ -1,0 +1,12 @@
+clc;
+R2=100*10**3;
+R1=10*10**3;
+Acl=1+(R2/R1);
+Acm=0.001;
+disp(Acl);
+CMRR=Acl/Acm;
+disp(CMRR);
+SR=0.5;
+Vpk=5.5;
+fmax=SR/(2*%pi*Vpk);
+disp('kHZ',fmax*10**3,"fmax=");

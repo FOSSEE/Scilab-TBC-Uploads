@@ -1,0 +1,2 @@
+For auditorium : 1.68 s 
+When people are present 1.39 s 

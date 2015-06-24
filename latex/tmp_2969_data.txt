@@ -1,0 +1,111 @@
+13#Transmission of Motion and Power#13.9#Example 9#Ex13_9.sce#2969/CH13/EX13.9/Ex13_9.sce#S##103907
+13#Transmission of Motion and Power#13.8#Example 8#Ex13_8.sce#2969/CH13/EX13.8/Ex13_8.sce#S##103906
+13#Transmission of Motion and Power#13.7#Example 7#Ex13_7.sce#2969/CH13/EX13.7/Ex13_7.sce#S##103905
+13#Transmission of Motion and Power#13.6#Example 6#Ex13_6.sce#2969/CH13/EX13.6/Ex13_6.sce#S##103904
+13#Transmission of Motion and Power#13.5#Example 5#Ex13_5.sce#2969/CH13/EX13.5/Ex13_5.sce#S##103903
+13#Transmission of Motion and Power#13.4#Example 4#Ex13_4.sce#2969/CH13/EX13.4/Ex13_4.sce#S##103902
+13#Transmission of Motion and Power#13.3#Example 3#Ex13_3.sce#2969/CH13/EX13.3/Ex13_3.sce#S##103901
+13#Transmission of Motion and Power#13.2#Example 2#Ex13_2.sce#2969/CH13/EX13.2/Ex13_2.sce#S##103900
+13#Transmission of Motion and Power#13.13#Example 13#Ex13_13.sce#2969/CH13/EX13.13/Ex13_13.sce#S##103913
+13#Transmission of Motion and Power#13.12#Example 12#Ex13_12.sce#2969/CH13/EX13.12/Ex13_12.sce#S##103910
+13#Transmission of Motion and Power#13.11#Example 11#Ex13_11.sce#2969/CH13/EX13.11/Ex13_11.sce#S##103909
+13#Transmission of Motion and Power#13.10#Example 10#Ex13_10.sce#2969/CH13/EX13.10/Ex13_10.sce#S##103908
+13#Transmission of Motion and Power#13.1#Example 1#Ex13_1.sce#2969/CH13/EX13.1/Ex13_1.sce#S##103899
+10#Air Compressors#10.6#Example 6#Ex10_6.sce#2969/CH10/EX10.6/Ex10_6.sce#S##103898
+10#Air Compressors#10.5#Example 5#Ex10_5.sce#2969/CH10/EX10.5/Ex10_5.sce#S##103897
+10#Air Compressors#10.4#Example 4#Ex10_4.sce#2969/CH10/EX10.4/Ex10_4.sce#S##103896
+10#Air Compressors#10.3#Example 3#Ex10_3.sce#2969/CH10/EX10.3/Ex10_3.sce#S##103895
+10#Air Compressors#10.2#Example 2#Ex10_2.sce#2969/CH10/EX10.2/Ex10_2.sce#S##103894
+10#Air Compressors#10.1#Example 1#Ex10_1.sce#2969/CH10/EX10.1/Ex10_1.sce#S##103893
+7#Internal Combustion Engines#7.9#Example 9#Ex7_9.sce#2969/CH7/EX7.9/Ex7_9.sce#S##103884
+7#Internal Combustion Engines#7.8#Example 8#Ex7_8.sce#2969/CH7/EX7.8/Ex7_8.sce#S##103883
+7#Internal Combustion Engines#7.7#Example 7#Ex7_7.sce#2969/CH7/EX7.7/Ex7_7.sce#S##103882
+7#Internal Combustion Engines#7.6#Example 6#Ex7_6.sce#2969/CH7/EX7.6/Ex7_6.sce#S##103881
+7#Internal Combustion Engines#7.5#Example 5#Ex7_5.sce#2969/CH7/EX7.5/Ex7_5.sce#S##103880
+7#Internal Combustion Engines#7.4#Example 4#Ex7_4.sce#2969/CH7/EX7.4/Ex7_4.sce#S##103879
+7#Internal Combustion Engines#7.3#Example 3#Ex7_3.sce#2969/CH7/EX7.3/Ex7_3.sce#S##103878
+7#Internal Combustion Engines#7.2#Example 2#Ex7_2.sce#2969/CH7/EX7.2/Ex7_2.sce#S##103877
+7#Internal Combustion Engines#7.17#Example 17#Ex7_17.sce#2969/CH7/EX7.17/Ex7_17.sce#S##103892
+7#Internal Combustion Engines#7.16#Example 16#Ex7_16.sce#2969/CH7/EX7.16/Ex7_16.sce#S##103891
+7#Internal Combustion Engines#7.15#Example 15#Ex7_15.sce#2969/CH7/EX7.15/Ex7_15.sce#S##103890
+7#Internal Combustion Engines#7.14#Example 14#Ex7_14.sce#2969/CH7/EX7.14/Ex7_14.sce#S##103889
+7#Internal Combustion Engines#7.13#Example 13#Ex7_13.sce#2969/CH7/EX7.13/Ex7_13.sce#S##103888
+7#Internal Combustion Engines#7.12#Example 12#Ex7_12.sce#2969/CH7/EX7.12/Ex7_12.sce#S##103887
+7#Internal Combustion Engines#7.11#Example 11#Ex7_11.sce#2969/CH7/EX7.11/Ex7_11.sce#S##103886
+7#Internal Combustion Engines#7.10#Example 10#Ex7_10.sce#2969/CH7/EX7.10/Ex7_10.sce#S##103885
+7#Internal Combustion Engines#7.1#Example 1#Ex7_1.sce#2969/CH7/EX7.1/Ex7_1.sce#S##103876
+6#Steam Boilers#6.9#Example 9#Ex6_9.sce#2969/CH6/EX6.9/Ex6_9.sce#S##103870
+6#Steam Boilers#6.8#Example 8#Ex6_8.sce#2969/CH6/EX6.8/Ex6_8.sce#S##103869
+6#Steam Boilers#6.7#Example 7#Ex6_7.sce#2969/CH6/EX6.7/Ex6_7.sce#S##103868
+6#Steam Boilers#6.6#Example 6#Ex6_6.sce#2969/CH6/EX6.6/Ex6_6.sce#S##103867
+6#Steam Boilers#6.5#Example 5#Ex6_5.sce#2969/CH6/EX6.5/Ex6_5.sce#S##103866
+6#Steam Boilers#6.4#Example 4#Ex6_4.sce#2969/CH6/EX6.4/Ex6_4.sce#S##103865
+6#Steam Boilers#6.3#Example 3#Ex6_3.sce#2969/CH6/EX6.3/Ex6_3.sce#S##103864
+6#Steam Boilers#6.2#Example 2#Ex6_2.sce#2969/CH6/EX6.2/Ex6_2.sce#S##103863
+6#Steam Boilers#6.14#Example 14#Ex6_14.sce#2969/CH6/EX6.14/Ex6_14.sce#S##103875
+6#Steam Boilers#6.13#Example 13#Ex6_13.sce#2969/CH6/EX6.13/Ex6_13.sce#S##103874
+6#Steam Boilers#6.12#Example 12#Ex6_12.sce#2969/CH6/EX6.12/Ex6_12.sce#S##103873
+6#Steam Boilers#6.11#Example 11#Ex6_11.sce#2969/CH6/EX6.11/Ex6_11.sce#S##103872
+6#Steam Boilers#6.10#Example 10#Ex6_10.sce#2969/CH6/EX6.10/Ex6_10.sce#S##103871
+6#Steam Boilers#6.1#Example 1#Ex6_1.sce#2969/CH6/EX6.1/Ex6_1.sce#S##103862
+5#Heat Engines#5.9#Example 9#Ex5_9.sce#2969/CH5/EX5.9/Ex5_9.sce#S##103849
+5#Heat Engines#5.8#Example 8#Ex5_8.sce#2969/CH5/EX5.8/Ex5_8.sce#S##103848
+5#Heat Engines#5.7#Example 7#Ex5_7.sce#2969/CH5/EX5.7/Ex5_7.sce#S##103847
+5#Heat Engines#5.6#Example 6#Ex5_6.sce#2969/CH5/EX5.6/Ex5_6.sce#S##103846
+5#Heat Engines#5.5#Example 5#Ex5_5.sce#2969/CH5/EX5.5/Ex5_5.sce#S##103845
+5#Heat Engines#5.4#Example 4#Ex5_4.sce#2969/CH5/EX5.4/Ex5_4.sce#S##103844
+5#Heat Engines#5.3#Example 3#Ex5_3.sce#2969/CH5/EX5.3/Ex5_3.sce#S##103843
+5#Heat Engines#5.21#Example 21#Ex5_21.sce#2969/CH5/EX5.21/Ex5_21.sce#S##103861
+5#Heat Engines#5.20#Example 20#Ex5_20.sce#2969/CH5/EX5.20/Ex5_20.sce#S##103860
+5#Heat Engines#5.2#Example 2#Ex5_2.sce#2969/CH5/EX5.2/Ex5_2.sce#S##103842
+5#Heat Engines#5.19#Example 19#Ex5_19.sce#2969/CH5/EX5.19/Ex5_19.sce#S##103859
+5#Heat Engines#5.18#Example 18#Ex5_18.sce#2969/CH5/EX5.18/Ex5_18.sce#S##103858
+5#Heat Engines#5.17#Example 17#Ex5_17.sce#2969/CH5/EX5.17/Ex5_17.sce#S##103857
+5#Heat Engines#5.16#Example 16#Ex5_16.sce#2969/CH5/EX5.16/Ex5_16.sce#S##103856
+5#Heat Engines#5.15#Example 15#Ex5_15.sce#2969/CH5/EX5.15/Ex5_15.sce#S##103855
+5#Heat Engines#5.14#Example 14#Ex5_14.sce#2969/CH5/EX5.14/Ex5_14.sce#S##103854
+5#Heat Engines#5.13#Example 13#Ex5_13.sce#2969/CH5/EX5.13/Ex5_13.sce#S##103853
+5#Heat Engines#5.12#Example 12#Ex5_12.sce#2969/CH5/EX5.12/Ex5_12.sce#S##103852
+5#Heat Engines#5.11#Example 11#Ex5_11.sce#2969/CH5/EX5.11/Ex5_11.sce#S##103851
+5#Heat Engines#5.10#Example 10#Ex5_10.sce#2969/CH5/EX5.10/Ex5_10.sce#S##103850
+5#Heat Engines#5.1#Example 1#Ex5_1.sce#2969/CH5/EX5.1/Ex5_1.sce#S##103841
+4#Properties of Steam#4.9#Example 9#Ex4_9.sce#2969/CH4/EX4.9/Ex4_9.sce#S##103822
+4#Properties of Steam#4.8#Example 8#Ex4_8.sce#2969/CH4/EX4.8/Ex4_8.sce#S##103821
+4#Properties of Steam#4.7#Example 7#Ex4_7.sce#2969/CH4/EX4.7/Ex4_7.sce#S##103820
+4#Properties of Steam#4.6#Example 6#Ex4_6.sce#2969/CH4/EX4.6/Ex4_6.sce#S##103819
+4#Properties of Steam#4.5#Example 5#Ex4_5.sce#2969/CH4/EX4.5/Ex4_5.sce#S##103818
+4#Properties of Steam#4.4#Example 4#Ex4_4.sce#2969/CH4/EX4.4/Ex4_4.sce#S##103817
+4#Properties of Steam#4.3#Example 3#Ex4_3.sce#2969/CH4/EX4.3/Ex4_3.sce#S##103816
+4#Properties of Steam#4.27#Example 27#Ex4_27.sce#2969/CH4/EX4.27/Ex4_27.sce#S##103840
+4#Properties of Steam#4.26#Example 26#Ex4_26.sce#2969/CH4/EX4.26/Ex4_26.sce#S##103839
+4#Properties of Steam#4.25#Example 25#Ex4_25.sce#2969/CH4/EX4.25/Ex4_25.sce#S##103838
+4#Properties of Steam#4.24#Example 24#Ex4_24.sce#2969/CH4/EX4.24/Ex4_24.sce#S##103837
+4#Properties of Steam#4.23#Example 23#Ex4_23.sce#2969/CH4/EX4.23/Ex4_23.sce#S##103836
+4#Properties of Steam#4.22#Example 22#Ex4_22.sce#2969/CH4/EX4.22/Ex4_22.sce#S##103835
+4#Properties of Steam#4.21#Example 21#Ex4_21.sce#2969/CH4/EX4.21/Ex4_21.sce#S##103834
+4#Properties of Steam#4.20#Example 20#Ex4_20.sce#2969/CH4/EX4.20/Ex4_20.sce#S##103833
+4#Properties of Steam#4.2#Example 2#Ex4_2.sce#2969/CH4/EX4.2/Ex4_2.sce#S##103815
+4#Properties of Steam#4.19#Example 19#Ex4_19.sce#2969/CH4/EX4.19/Ex4_19.sce#S##103832
+4#Properties of Steam#4.18#Example 18#Ex4_18.sce#2969/CH4/EX4.18/Ex4_18.sce#S##103831
+4#Properties of Steam#4.17#Example 17#Ex4_17.sce#2969/CH4/EX4.17/Ex4_17.sce#S##103830
+4#Properties of Steam#4.16#Example 16#Ex4_16.sce#2969/CH4/EX4.16/Ex4_16.sce#S##103829
+4#Properties of Steam#4.15#Example 15#Ex4_15.sce#2969/CH4/EX4.15/Ex4_15.sce#S##103828
+4#Properties of Steam#4.14#Example 14#Ex4_14.sce#2969/CH4/EX4.14/Ex4_14.sce#S##103827
+4#Properties of Steam#4.13#Example 13#Ex4_13.sce#2969/CH4/EX4.13/Ex4_13.sce#S##103826
+4#Properties of Steam#4.12#Example 12#Ex4_12.sce#2969/CH4/EX4.12/Ex4_12.sce#S##103825
+4#Properties of Steam#4.11#Example 11#Ex4_11.sce#2969/CH4/EX4.11/Ex4_11.sce#S##103824
+4#Properties of Steam#4.10#Example 10#Ex4_10.sce#2969/CH4/EX4.10/Ex4_10.sce#S##103823
+4#Properties of Steam#4.1#Example 1#Ex4_1.sce#2969/CH4/EX4.1/Ex4_1.sce#S##103814
+3#Properties of Gases#3.8#Example 8#Ex3_8.sce#2969/CH3/EX3.8/Ex3_8.sce#S##103809
+3#Properties of Gases#3.6#Example 6#Ex3_6.sce#2969/CH3/EX3.6/Ex3_6.sce#S##103808
+3#Properties of Gases#3.5#Example 5#Ex3_5.sce#2969/CH3/EX3.5/Ex3_5.sce#S##103807
+3#Properties of Gases#3.4#Example 4#Ex3_4.sce#2969/CH3/EX3.4/Ex3_4.sce#S##103806
+3#Properties of Gases#3.3#Example 3#Ex3_3.sce#2969/CH3/EX3.3/Ex3_3.sce#S##103805
+3#Properties of Gases#3.2#Example 2#Ex3_2.sce#2969/CH3/EX3.2/Ex3_2.sce#S##103804
+3#Properties of Gases#3.13#Example 13#Ex3_13.sce#2969/CH3/EX3.13/Ex3_13.sce#S##103813
+3#Properties of Gases#3.12#Example 12#Ex3_12.sce#2969/CH3/EX3.12/Ex3_12.sce#S##103812
+3#Properties of Gases#3.11#Example 11#Ex3_11.sce#2969/CH3/EX3.11/Ex3_11.sce#S##103811
+3#Properties of Gases#3.10#Example 10#Ex3_10.sce#2969/CH3/EX3.10/Ex3_10.sce#S##103810
+3#Properties of Gases#3.1#Example 1#Ex3_1.sce#2969/CH3/EX3.1/Ex3_1.sce#S##103803
+2#Fuels and Combustion#2.2#Example 2#Ex2_2.sce#2969/CH2/EX2.2/Ex2_2.sce#S##103802
+2#Fuels and Combustion#2.1#Example 1#Ex2_1.sce#2969/CH2/EX2.1/Ex2_1.sce#S##103801

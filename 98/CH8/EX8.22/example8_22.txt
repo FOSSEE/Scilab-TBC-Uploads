@@ -1,0 +1,13 @@
+Wt of conductor = 1.78 kg 
+
+Working tension = 2000 kg 
+
+Total weight = 2.33 kg 
+
+Slant sag = 3.27 m 
+
+Vertcal sag = 2.50 m 
+
+Ground clearance = 9.50 m 
+
+

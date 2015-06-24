@@ -1,0 +1,6 @@
+ Exa-5.1   
+The displacement and velocity of the ball are found out in 2 steps
+ step1-before reaching the surface of water and 
+ step2-Inside water till it rises back to surface
+The values are as follows: v1(t)=-g*t and y1(t)=H-((g/2)*t^2))
+In region 2: v2(t)=(-B/m*sqrt(2*H/g))+(B/m-g)*t; y2(t)= H+ HB/mg -B/m*sqrt(2*H/g)+ (B/m-g) 

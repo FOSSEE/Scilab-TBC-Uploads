@@ -1,0 +1,21 @@
+
+mu_not=4D-7*%pi
+N=700  //no. of turns on steel ring
+I=2  //current carried by the winding on the ring
+AT=N*I
+mprintf("mmf produced=%d AT\n",AT)
+ATi=.35*AT  //iron portion takes 35% of total mmf
+ATg=AT-ATi
+l=1.5D-3  //length of flux path in air gap
+B=mu_not*ATg/l
+mprintf("Flux density=%f Wb/m^2\n", B)
+d=3D-2  //diameter of circular section of ring
+A=%pi*d^2/4  //cross-sectional area of ring
+flux=B*A
+mprintf("Magnetic flux=%f milliWb\n", flux*10^3)
+S=AT/flux  //Ohm's law for magnetic circuits
+mprintf("Reluctance=%f*10^6 AT/Wb\n", S/10^6)
+l=%pi*25D-2  //length of mean flux path in steel ring
+H=ATi/l
+mu_r=B/(H*mu_not)
+mprintf("Rel. permeability of steel ring=%d", round(mu_r))

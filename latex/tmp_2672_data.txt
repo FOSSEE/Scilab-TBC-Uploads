@@ -1,0 +1,207 @@
+8#BJT Circuits#8.6#Determine Re and stability factor#Ex8_6.sce#2672/CH8/EX8.6/Ex8_6.sce#S##113898
+8#BJT Circuits#8.5#Find R1 R2 Re#Ex8_5.sce#2672/CH8/EX8.5/Ex8_5.sce#S##113897
+8#BJT Circuits#8.4#Find Re R1 and R2#Ex8_4.sce#2672/CH8/EX8.4/Ex8_4.sce#S##113896
+8#BJT Circuits#8.1#Calculate IB IC VCE#Ex8_1.sce#2672/CH8/EX8.1/Ex8_1.sce#S##113895
+7#BJT Fundamentals#7.9#Find VB IB IE IC#Ex7_9.sce#2672/CH7/EX7.9/Ex7_9.sce#S##113893
+7#BJT Fundamentals#7.8#Find the voltage#Ex7_8.sce#2672/CH7/EX7.8/Ex7_8.sce#S##113892
+7#BJT Fundamentals#7.7#Find current and voltage#Ex7_7.sce#2672/CH7/EX7.7/Ex7_7.sce#S##113891
+7#BJT Fundamentals#7.6#Value of alfa and beta#Ex7_6.sce#2672/CH7/EX7.6/Ex7_6.sce#S##113890
+7#BJT Fundamentals#7.5#Value of IE#Ex7_5.sce#2672/CH7/EX7.5/Ex7_5.sce#S##113889
+7#BJT Fundamentals#7.4#Value of Beta#Ex7_4.sce#2672/CH7/EX7.4/Ex7_4.sce#S##113888
+7#BJT Fundamentals#7.3#Calculate the collector current#Ex7_3.sce#2672/CH7/EX7.3/Ex7_3.sce#S##113887
+7#BJT Fundamentals#7.2#Value f alfa#Ex7_2.sce#2672/CH7/EX7.2/Ex7_2.sce#S##113886
+7#BJT Fundamentals#7.11#Emitter Voltage#Ex7_11.sce#2672/CH7/EX7.11/Ex7_11.sce#S##113905
+7#BJT Fundamentals#7.10#Voltage changes#Ex7_10.sce#2672/CH7/EX7.10/Ex7_10.sce#S##113894
+7#BJT Fundamentals#7.1#Base and collector current#Ex7_1.sce#2672/CH7/EX7.1/Ex7_1.sce#S##113885
+6#Diode Circuits#6.8#dc load current and power#Ex6_8.sce#2672/CH6/EX6.8/Ex6_8.sce#S##113872
+6#Diode Circuits#6.4#Peak and dc load current#Ex6_4.sce#2672/CH6/EX6.4/Ex6_4.sce#S##113871
+6#Diode Circuits#6.3#Calculate the break region#Ex6_3.sce#2672/CH6/EX6.3/Ex6_3.sce#S##113870
+6#Diode Circuits#6.22#dc output voltage and ripple voltage#Ex6_22.sce#2672/CH6/EX6.22/Ex6_22.sce#S##113884
+6#Diode Circuits#6.21#Inductance and output voltage#Ex6_21.sce#2672/CH6/EX6.21/Ex6_21.sce#S##113883
+6#Diode Circuits#6.20#Calculate input voltage#Ex6_20.sce#2672/CH6/EX6.20/Ex6_20.sce#S##113882
+6#Diode Circuits#6.2#Find the current#Ex6_2.sce#2672/CH6/EX6.2/Ex6_2.sce#S##113869
+6#Diode Circuits#6.19#Maximum dc voltage#Ex6_19.sce#2672/CH6/EX6.19/Ex6_19.sce#S##113881
+6#Diode Circuits#6.18#dc output voltage and frequency#Ex6_18.sce#2672/CH6/EX6.18/Ex6_18.sce#S##113880
+6#Diode Circuits#6.17#calculate ripple factor#Ex6_17.sce#2672/CH6/EX6.17/Ex6_17.sce#S##113879
+6#Diode Circuits#6.16#Value of capacitance#Ex6_16.sce#2672/CH6/EX6.16/Ex6_16.sce#S##113878
+6#Diode Circuits#6.15#dc output voltage#Ex6_15.sce#2672/CH6/EX6.15/Ex6_15.sce#S##113877
+6#Diode Circuits#6.14#AC voltage and efficiency#Ex6_14.sce#2672/CH6/EX6.14/Ex6_14.sce#S##113876
+6#Diode Circuits#6.13#Maximum value of voltage#Ex6_13.sce#2672/CH6/EX6.13/Ex6_13.sce#S##113875
+6#Diode Circuits#6.12#Maximum and average Power#Ex6_12.sce#2672/CH6/EX6.12/Ex6_12.sce#S##113874
+6#Diode Circuits#6.11#dc output voltage and PIV#Ex6_11.sce#2672/CH6/EX6.11/Ex6_11.sce#S##113873
+6#Diode Circuits#6.10#Full scale reading#Ex6_10.sce#2672/CH6/EX6.10/Ex6_10.sce#S##113908
+6#Diode Circuits#6.1#Find the current#Ex6_1.sce#2672/CH6/EX6.1/Ex6_1.sce#S##113868
+5#Diode Fundamentals#5.8#Width of depletion layer#Ex5_8.sce#2672/CH5/EX5.8/Ex5_8.sce#S##113840
+5#Diode Fundamentals#5.7#Calculate the barrier capacitance#Ex5_7.sce#2672/CH5/EX5.7/Ex5_7.sce#S##113839
+5#Diode Fundamentals#5.6#Compute the decrease in capacitance#Ex5_6.sce#2672/CH5/EX5.6/Ex5_6.sce#S##113838
+5#Diode Fundamentals#5.5#Find CT#Ex5_5.sce#2672/CH5/EX5.5/Ex5_5.sce#S##113837
+5#Diode Fundamentals#5.4#Calculate the barrier potential#Ex5_4.sce#2672/CH5/EX5.4/Ex5_4.sce#S##113836
+5#Diode Fundamentals#5.39#Calculate R#Ex5_39.sce#2672/CH5/EX5.39/Ex5_39.sce#S##113867
+5#Diode Fundamentals#5.38#Temperature coefficient#Ex5_38.sce#2672/CH5/EX5.38/Ex5_38.sce#S##113866
+5#Diode Fundamentals#5.37#Find out ideality factor#Ex5_37.sce#2672/CH5/EX5.37/Ex5_37.sce#S##113865
+5#Diode Fundamentals#5.36#Voltage across junction#Ex5_36.sce#2672/CH5/EX5.36/Ex5_36.sce#S##113864
+5#Diode Fundamentals#5.35#Breakdown Voltage#Ex5_35.sce#2672/CH5/EX5.35/Ex5_35.sce#S##113863
+5#Diode Fundamentals#5.33#Find out breakdown voltage#Ex5_33.sce#2672/CH5/EX5.33/Ex5_33.sce#S##113862
+5#Diode Fundamentals#5.32#Find the range of R#Ex5_32.sce#2672/CH5/EX5.32/Ex5_32.sce#S##113861
+5#Diode Fundamentals#5.31#Maximum and minimum zener current#Ex5_31.sce#2672/CH5/EX5.31/Ex5_31.sce#S##113860
+5#Diode Fundamentals#5.30#Find the dynamic resistance#Ex5_30.sce#2672/CH5/EX5.30/Ex5_30.sce#S##113859
+5#Diode Fundamentals#5.3#Thermal and barrier voltage#Ex5_3.sce#2672/CH5/EX5.3/Ex5_3.sce#S##113835
+5#Diode Fundamentals#5.29#Height of potential barrier#Ex5_29.sce#2672/CH5/EX5.29/Ex5_29.sce#S##113858
+5#Diode Fundamentals#5.28#Maximum allowable current#Ex5_28.sce#2672/CH5/EX5.28/Ex5_28.sce#S##113857
+5#Diode Fundamentals#5.27#Determine ac resistance#Ex5_27.sce#2672/CH5/EX5.27/Ex5_27.sce#S##113856
+5#Diode Fundamentals#5.26#Find the dynamic resistance#Ex5_26.sce#2672/CH5/EX5.26/Ex5_26.sce#S##113855
+5#Diode Fundamentals#5.25#Find the static resistance#Ex5_25.sce#2672/CH5/EX5.25/Ex5_25.sce#S##113854
+5#Diode Fundamentals#5.24#Diffusion Length#Ex5_24.sce#2672/CH5/EX5.24/Ex5_24.sce#S##113853
+5#Diode Fundamentals#5.22#Current multiplying factor#Ex5_22.sce#2672/CH5/EX5.22/Ex5_22.sce#S##113904
+5#Diode Fundamentals#5.21#Maximum reverse bias voltage#Ex5_21.sce#2672/CH5/EX5.21/Ex5_21.sce#S##113852
+5#Diode Fundamentals#5.20#Leakage resistance#Ex5_20.sce#2672/CH5/EX5.20/Ex5_20.sce#S##113851
+5#Diode Fundamentals#5.2#Width of depletion zone#Ex5_2.sce#2672/CH5/EX5.2/Ex5_2.sce#S##113834
+5#Diode Fundamentals#5.19#Calculate the anticipated factor#Ex5_19.sce#2672/CH5/EX5.19/Ex5_19.sce#S##113850
+5#Diode Fundamentals#5.18#Ratio of current#Ex5_18.sce#2672/CH5/EX5.18/Ex5_18.sce#S##113849
+5#Diode Fundamentals#5.17#Calculate the current and voltage#Ex5_17.sce#2672/CH5/EX5.17/Ex5_17.sce#S##113848
+5#Diode Fundamentals#5.16#Find the current#Ex5_16.sce#2672/CH5/EX5.16/Ex5_16.sce#S##113847
+5#Diode Fundamentals#5.15#Find the voltage#Ex5_15.sce#2672/CH5/EX5.15/Ex5_15.sce#S##113846
+5#Diode Fundamentals#5.14#Calculate the current#Ex5_14.sce#2672/CH5/EX5.14/Ex5_14.sce#S##113845
+5#Diode Fundamentals#5.13#Ratio of reverse saturation current#Ex5_13.sce#2672/CH5/EX5.13/Ex5_13.sce#S##113843
+5#Diode Fundamentals#5.12#Reverse saturation current#Ex5_12.sce#2672/CH5/EX5.12/Ex5_12.sce#S##113842
+5#Diode Fundamentals#5.10#Reverse saturation point#Ex5_10.sce#2672/CH5/EX5.10/Ex5_10.sce#S##113841
+5#Diode Fundamentals#5.1#Height of potential barrier#Ex5_1.sce#2672/CH5/EX5.1/Ex5_1.sce#S##113833
+4#Semiconductor Fundamentals#4.9#Position of fermi level#Ex4_9.sce#2672/CH4/EX4.9/Ex4_9.sce#S##113813
+4#Semiconductor Fundamentals#4.8#Position of fermi level#Ex4_8.sce#2672/CH4/EX4.8/Ex4_8.sce#S##113812
+4#Semiconductor Fundamentals#4.7#Calculate the energy of electron#Ex4_7.sce#2672/CH4/EX4.7/Ex4_7.sce#S##113811
+4#Semiconductor Fundamentals#4.6#Estimate smallest k vector#Ex4_6.sce#2672/CH4/EX4.6/Ex4_6.sce#S##113810
+4#Semiconductor Fundamentals#4.5#Calculate the energy of electron#Ex4_5.sce#2672/CH4/EX4.5/Ex4_5.sce#S##113809
+4#Semiconductor Fundamentals#4.4#Calculate the energy of electron#Ex4_4.sce#2672/CH4/EX4.4/Ex4_4.sce#S##113808
+4#Semiconductor Fundamentals#4.3#Calculate the energy of electron#Ex4_3.sce#2672/CH4/EX4.3/Ex4_3.sce#S##113807
+4#Semiconductor Fundamentals#4.28#Conductivity of intrinsic Ge#Ex4_28.sce#2672/CH4/EX4.28/Ex4_28.sce#S##113832
+4#Semiconductor Fundamentals#4.27#Resistivity of intrinsic Ge#Ex4_27.sce#2672/CH4/EX4.27/Ex4_27.sce#S##113831
+4#Semiconductor Fundamentals#4.26#Concentration of holes and electron#Ex4_26.sce#2672/CH4/EX4.26/Ex4_26.sce#S##113830
+4#Semiconductor Fundamentals#4.25#Concentration of free electron#Ex4_25.sce#2672/CH4/EX4.25/Ex4_25.sce#S##113829
+4#Semiconductor Fundamentals#4.24#Drift velocity mobility and conductivity#Ex4_24.sce#2672/CH4/EX4.24/Ex4_24.sce#S##113828
+4#Semiconductor Fundamentals#4.23#Mobility of free electron#Ex4_23.sce#2672/CH4/EX4.23/Ex4_23.sce#S##113827
+4#Semiconductor Fundamentals#4.22#Mobility of free electron#Ex4_22.sce#2672/CH4/EX4.22/Ex4_22.sce#S##113826
+4#Semiconductor Fundamentals#4.21#Position of fermi level#Ex4_21.sce#2672/CH4/EX4.21/Ex4_21.sce#S##113825
+4#Semiconductor Fundamentals#4.20#Electron and hole concentration#Ex4_20.sce#2672/CH4/EX4.20/Ex4_20.sce#S##113824
+4#Semiconductor Fundamentals#4.2#Identify the semicnductor#Ex4_2.sce#2672/CH4/EX4.2/Ex4_2.sce#S##113806
+4#Semiconductor Fundamentals#4.19#Estimate smallest k vector#Ex4_19.sce#2672/CH4/EX4.19/Ex4_19.sce#S##113823
+4#Semiconductor Fundamentals#4.18#Calculate the time#Ex4_18.sce#2672/CH4/EX4.18/Ex4_18.sce#S##113822
+4#Semiconductor Fundamentals#4.17#Equilibrium hole concentration#Ex4_17.sce#2672/CH4/EX4.17/Ex4_17.sce#S##113821
+4#Semiconductor Fundamentals#4.16#Calculate the drift velocity#Ex4_16.sce#2672/CH4/EX4.16/Ex4_16.sce#S##113820
+4#Semiconductor Fundamentals#4.15#Calculate the drift velocity#Ex4_15.sce#2672/CH4/EX4.15/Ex4_15.sce#S##113819
+4#Semiconductor Fundamentals#4.14#Calculate the drift velocity#Ex4_14.sce#2672/CH4/EX4.14/Ex4_14.sce#S##113818
+4#Semiconductor Fundamentals#4.13#Conductivity and drift velocity#Ex4_13.sce#2672/CH4/EX4.13/Ex4_13.sce#S##113817
+4#Semiconductor Fundamentals#4.12#Calculate the drift velocity#Ex4_12.sce#2672/CH4/EX4.12/Ex4_12.sce#S##113816
+4#Semiconductor Fundamentals#4.11#Calculate the time#Ex4_11.sce#2672/CH4/EX4.11/Ex4_11.sce#S##113815
+4#Semiconductor Fundamentals#4.10#Position of fermi level#Ex4_10.sce#2672/CH4/EX4.10/Ex4_10.sce#S##113814
+4#Semiconductor Fundamentals#4.1#Value of wave vector#Ex4_1.sce#2672/CH4/EX4.1/Ex4_1.sce#S##113805
+3#AC Fundamentals#3.9#Branch and Line current Power factor#Ex3_9.sce#2672/CH3/EX3.9/Ex3_9.sce#S##113753
+3#AC Fundamentals#3.8#Calculate the current#Ex3_8.sce#2672/CH3/EX3.8/Ex3_8.sce#S##113752
+3#AC Fundamentals#3.7#Instantaneous current#Ex3_7.sce#2672/CH3/EX3.7/Ex3_7.sce#S##113751
+3#AC Fundamentals#3.6#Voltage and current#Ex3_6.sce#2672/CH3/EX3.6/Ex3_6.sce#S##113750
+3#AC Fundamentals#3.5#Rms and average value and form factor#Ex3_5.sce#2672/CH3/EX3.5/Ex3_5.sce#S##113749
+3#AC Fundamentals#3.43#Value of Ri#Ex3_43.sce#2672/CH3/EX3.43/Ex3_43.sce#S##113787
+3#AC Fundamentals#3.42#Resonant current#Ex3_42.sce#2672/CH3/EX3.42/Ex3_42.sce#S##113786
+3#AC Fundamentals#3.41#Value of capacitor#Ex3_41.sce#2672/CH3/EX3.41/Ex3_41.sce#S##113785
+3#AC Fundamentals#3.40#Frequency Q factor and current#Ex3_40.sce#2672/CH3/EX3.40/Ex3_40.sce#S##113784
+3#AC Fundamentals#3.4#Rms and average value#Ex3_4.sce#2672/CH3/EX3.4/Ex3_4.sce#S##113748
+3#AC Fundamentals#3.39#Power factor Impedence and current#Ex3_39.sce#2672/CH3/EX3.39/Ex3_39.sce#S##113783
+3#AC Fundamentals#3.38#Value of C and voltage#Ex3_38.sce#2672/CH3/EX3.38/Ex3_38.sce#S##113782
+3#AC Fundamentals#3.37#Voltage and Q factor#Ex3_37.sce#2672/CH3/EX3.37/Ex3_37.sce#S##113781
+3#AC Fundamentals#3.36#Circuit parameters and Q factors#Ex3_36.sce#2672/CH3/EX3.36/Ex3_36.sce#S##113780
+3#AC Fundamentals#3.35#Circuit parameters#Ex3_35.sce#2672/CH3/EX3.35/Ex3_35.sce#S##113779
+3#AC Fundamentals#3.34#Capacitance and Q factor#Ex3_34.sce#2672/CH3/EX3.34/Ex3_34.sce#S##113778
+3#AC Fundamentals#3.33#Frequency and Q factor#Ex3_33.sce#2672/CH3/EX3.33/Ex3_33.sce#S##113777
+3#AC Fundamentals#3.32#Impedence Current and power#Ex3_32.sce#2672/CH3/EX3.32/Ex3_32.sce#S##113776
+3#AC Fundamentals#3.31#Determine the voltage#Ex3_31.sce#2672/CH3/EX3.31/Ex3_31.sce#S##113775
+3#AC Fundamentals#3.30#Current and power factor#Ex3_30.sce#2672/CH3/EX3.30/Ex3_30.sce#S##113774
+3#AC Fundamentals#3.3#Form factor#Ex3_3.sce#2672/CH3/EX3.3/Ex3_3.sce#S##113747
+3#AC Fundamentals#3.29#Value of R#Ex3_29.sce#2672/CH3/EX3.29/Ex3_29.sce#S##113773
+3#AC Fundamentals#3.28#Total Current drawn#Ex3_28.sce#2672/CH3/EX3.28/Ex3_28.sce#S##113772
+3#AC Fundamentals#3.27#Calculate power and power factor#Ex3_27.sce#2672/CH3/EX3.27/Ex3_27.sce#S##113771
+3#AC Fundamentals#3.26#Admittance and power factor#Ex3_26.sce#2672/CH3/EX3.26/Ex3_26.sce#S##113770
+3#AC Fundamentals#3.25#Apparent and reactive power#Ex3_25.sce#2672/CH3/EX3.25/Ex3_25.sce#S##113769
+3#AC Fundamentals#3.24#Current and Power#Ex3_24.sce#2672/CH3/EX3.24/Ex3_24.sce#S##113768
+3#AC Fundamentals#3.23#Current and power factor#Ex3_23.sce#2672/CH3/EX3.23/Ex3_23.sce#S##113767
+3#AC Fundamentals#3.22#Current and power factor#Ex3_22.sce#2672/CH3/EX3.22/Ex3_22.sce#S##113766
+3#AC Fundamentals#3.21#Value of R and C#Ex3_21.sce#2672/CH3/EX3.21/Ex3_21.sce#S##113765
+3#AC Fundamentals#3.20#Voltage and power factor#Ex3_20.sce#2672/CH3/EX3.20/Ex3_20.sce#S##113764
+3#AC Fundamentals#3.2#Frequency of the supply#Ex3_2.sce#2672/CH3/EX3.2/Ex3_2.sce#S##113746
+3#AC Fundamentals#3.19#Power Impedence R and L#Ex3_19.sce#2672/CH3/EX3.19/Ex3_19.sce#S##113763
+3#AC Fundamentals#3.18#Value of L and R#Ex3_18.sce#2672/CH3/EX3.18/Ex3_18.sce#S##113762
+3#AC Fundamentals#3.17#Value of R#Ex3_17.sce#2672/CH3/EX3.17/Ex3_17.sce#S##113761
+3#AC Fundamentals#3.16#Value of L and R#Ex3_16.sce#2672/CH3/EX3.16/Ex3_16.sce#S##113760
+3#AC Fundamentals#3.15#Impedence Power factor and Power#Ex3_15.sce#2672/CH3/EX3.15/Ex3_15.sce#S##113759
+3#AC Fundamentals#3.14#Value of Z2#Ex3_14.sce#2672/CH3/EX3.14/Ex3_14.sce#S##113758
+3#AC Fundamentals#3.13#Current Power factor and power#Ex3_13.sce#2672/CH3/EX3.13/Ex3_13.sce#S##113757
+3#AC Fundamentals#3.12#Current Power factor and power#Ex3_12.sce#2672/CH3/EX3.12/Ex3_12.sce#S##113756
+3#AC Fundamentals#3.11#Current Power factor and power#Ex3_11.sce#2672/CH3/EX3.11/Ex3_11.sce#S##113755
+3#AC Fundamentals#3.10#Apparent Real and active power#Ex3_10.sce#2672/CH3/EX3.10/Ex3_10.sce#S##113754
+3#AC Fundamentals#3.1#rms value of current#Ex3_1.sce#2672/CH3/EX3.1/Ex3_1.sce#S##113745
+2#Electromagnetism#2.9#Calculate the reluctance#Ex2_9.sce#2672/CH2/EX2.9/Ex2_9.sce#S##113732
+2#Electromagnetism#2.8#MMF and current#Ex2_8.sce#2672/CH2/EX2.8/Ex2_8.sce#S##113731
+2#Electromagnetism#2.7#Calculate flux density#Ex2_7.sce#2672/CH2/EX2.7/Ex2_7.sce#S##113730
+2#Electromagnetism#2.6#Determine L1 L2 M and K#Ex2_6.sce#2672/CH2/EX2.6/Ex2_6.sce#S##113729
+2#Electromagnetism#2.5#Mutual and Self Inductance#Ex2_5.sce#2672/CH2/EX2.5/Ex2_5.sce#S##113728
+2#Electromagnetism#2.4#Calculate Inductance and emf#Ex2_4.sce#2672/CH2/EX2.4/Ex2_4.sce#S##113727
+2#Electromagnetism#2.3#Calculate Inductance and emf#Ex2_3.sce#2672/CH2/EX2.3/Ex2_3.sce#S##113726
+2#Electromagnetism#2.21#Value of exciting current#Ex2_21.sce#2672/CH2/EX2.21/Ex2_21.sce#S##113744
+2#Electromagnetism#2.20#Calculate the resultant force#Ex2_20.sce#2672/CH2/EX2.20/Ex2_20.sce#S##113743
+2#Electromagnetism#2.2#Calculate the emf induced#Ex2_2.sce#2672/CH2/EX2.2/Ex2_2.sce#S##113725
+2#Electromagnetism#2.19#Calculate the magnetic field#Ex2_19.sce#2672/CH2/EX2.19/Ex2_19.sce#S##113742
+2#Electromagnetism#2.18#Flux density and magnetic pull#Ex2_18.sce#2672/CH2/EX2.18/Ex2_18.sce#S##113741
+2#Electromagnetism#2.17#Calculate the magnetizing current#Ex2_17.sce#2672/CH2/EX2.17/Ex2_17.sce#S##113740
+2#Electromagnetism#2.16#Calculate the flux#Ex2_16.sce#2672/CH2/EX2.16/Ex2_16.sce#S##113739
+2#Electromagnetism#2.15#Calculate the current#Ex2_15.sce#2672/CH2/EX2.15/Ex2_15.sce#S##113738
+2#Electromagnetism#2.14#Calculate the amount of flux#Ex2_14.sce#2672/CH2/EX2.14/Ex2_14.sce#S##113737
+2#Electromagnetism#2.13#Calculate the amount of flux#Ex2_13.sce#2672/CH2/EX2.13/Ex2_13.sce#S##113736
+2#Electromagnetism#2.12#Calculate the current#Ex2_12.sce#2672/CH2/EX2.12/Ex2_12.sce#S##113735
+2#Electromagnetism#2.11#Calculate the current#Ex2_11.sce#2672/CH2/EX2.11/Ex2_11.sce#S##113734
+2#Electromagnetism#2.10#Calculate the amount of flux#Ex2_10.sce#2672/CH2/EX2.10/Ex2_10.sce#S##113733
+2#Electromagnetism#2.1#Inductance and coupling coefficient#Ex2_1.sce#2672/CH2/EX2.1/Ex2_1.sce#S##113724
+1#DC Networks and Network Theorems#1.9#Determine unknown voltage#Ex1_9.sce#2672/CH1/EX1.9/Ex1_9.sce#S##113685
+1#DC Networks and Network Theorems#1.8#Calculate the current#Ex1_8.sce#2672/CH1/EX1.8/Ex1_8.sce#S##113684
+1#DC Networks and Network Theorems#1.7#Calculate the current#Ex1_7.sce#2672/CH1/EX1.7/Ex1_7.sce#S##113683
+1#DC Networks and Network Theorems#1.6#Calculate the branch current#Ex1_6.sce#2672/CH1/EX1.6/Ex1_6.sce#S##113682
+1#DC Networks and Network Theorems#1.50#Calculate the current#Ex1_50.sce#2672/CH1/EX1.50/Ex1_50.sce#S##113723
+1#DC Networks and Network Theorems#1.5#Calculate the current#Ex1_5.sce#2672/CH1/EX1.5/Ex1_5.sce#S##113681
+1#DC Networks and Network Theorems#1.49#Current in various branches#Ex1_49.sce#2672/CH1/EX1.49/Ex1_49.sce#S##113722
+1#DC Networks and Network Theorems#1.48#Calculate the current#Ex1_48.sce#2672/CH1/EX1.48/Ex1_48.sce#S##113721
+1#DC Networks and Network Theorems#1.47#Calculate the current#Ex1_47.sce#2672/CH1/EX1.47/Ex1_47.sce#S##113720
+1#DC Networks and Network Theorems#1.46#Find the resistance#Ex1_46.sce#2672/CH1/EX1.46/Ex1_46.sce#S##113719
+1#DC Networks and Network Theorems#1.45#Find the resistance#Ex1_45.sce#2672/CH1/EX1.45/Ex1_45.sce#S##113718
+1#DC Networks and Network Theorems#1.43#Required Voltage#Ex1_43.sce#2672/CH1/EX1.43/Ex1_43.sce#S##113717
+1#DC Networks and Network Theorems#1.42#Calculate the total current#Ex1_42.sce#2672/CH1/EX1.42/Ex1_42.sce#S##113716
+1#DC Networks and Network Theorems#1.41#Calculate equivalent resistance#Ex1_41.sce#2672/CH1/EX1.41/Ex1_41.sce#S##113715
+1#DC Networks and Network Theorems#1.40#Find the voltage drop#Ex1_40.sce#2672/CH1/EX1.40/Ex1_40.sce#S##113714
+1#DC Networks and Network Theorems#1.4#Calculate the current#Ex1_4.sce#2672/CH1/EX1.4/Ex1_4.sce#S##113680
+1#DC Networks and Network Theorems#1.37#Calculate the current#Ex1_37.sce#2672/CH1/EX1.37/Ex1_37.sce#S##113713
+1#DC Networks and Network Theorems#1.36#Calculate equivalent resistance#Ex1_36.sce#2672/CH1/EX1.36/Ex1_36.sce#S##113712
+1#DC Networks and Network Theorems#1.35#Value of load resistance#Ex1_35.sce#2672/CH1/EX1.35/Ex1_35.sce#S##113711
+1#DC Networks and Network Theorems#1.34#Value of load resistance#Ex1_34.sce#2672/CH1/EX1.34/Ex1_34.sce#S##113710
+1#DC Networks and Network Theorems#1.33#Value of load resistance#Ex1_33.sce#2672/CH1/EX1.33/Ex1_33.sce#S##113709
+1#DC Networks and Network Theorems#1.32#Value of maximum power#Ex1_32.sce#2672/CH1/EX1.32/Ex1_32.sce#S##113708
+1#DC Networks and Network Theorems#1.31#Norton and Thevenin theorem#Ex1_31.sce#2672/CH1/EX1.31/Ex1_31.sce#S##113707
+1#DC Networks and Network Theorems#1.30#Determine Current#Ex1_30.sce#2672/CH1/EX1.30/Ex1_30.sce#S##113706
+1#DC Networks and Network Theorems#1.3#Calculate the current#Ex1_3.sce#2672/CH1/EX1.3/Ex1_3.sce#S##113679
+1#DC Networks and Network Theorems#1.29#Calculate the current#Ex1_29.sce#2672/CH1/EX1.29/Ex1_29.sce#S##113705
+1#DC Networks and Network Theorems#1.28#Calculate the current#Ex1_28.sce#2672/CH1/EX1.28/Ex1_28.sce#S##113704
+1#DC Networks and Network Theorems#1.27#Calculate the current#Ex1_27.sce#2672/CH1/EX1.27/Ex1_27.sce#S##113703
+1#DC Networks and Network Theorems#1.26#Calculate the branch current#Ex1_26.sce#2672/CH1/EX1.26/Ex1_26.sce#S##113702
+1#DC Networks and Network Theorems#1.25#Calculate the current#Ex1_25.sce#2672/CH1/EX1.25/Ex1_25.sce#S##113701
+1#DC Networks and Network Theorems#1.24#Determine Current#Ex1_24.sce#2672/CH1/EX1.24/Ex1_24.sce#S##113700
+1#DC Networks and Network Theorems#1.23#Calculate the current#Ex1_23.sce#2672/CH1/EX1.23/Ex1_23.sce#S##113699
+1#DC Networks and Network Theorems#1.22#Calculate the current#Ex1_22.sce#2672/CH1/EX1.22/Ex1_22.sce#S##113698
+1#DC Networks and Network Theorems#1.21#Range of current#Ex1_21.sce#2672/CH1/EX1.21/Ex1_21.sce#S##113697
+1#DC Networks and Network Theorems#1.20#Determine Current#Ex1_20.sce#2672/CH1/EX1.20/Ex1_20.sce#S##113696
+1#DC Networks and Network Theorems#1.2#Conversion of a Voltage source#Ex1_2.sce#2672/CH1/EX1.2/Ex1_2.sce#S##113678
+1#DC Networks and Network Theorems#1.19#Calculate the current#Ex1_19.sce#2672/CH1/EX1.19/Ex1_19.sce#S##113695
+1#DC Networks and Network Theorems#1.18#Voltage at nodes#Ex1_18.sce#2672/CH1/EX1.18/Ex1_18.sce#S##113694
+1#DC Networks and Network Theorems#1.17#Determine Load Current #Ex1_17.sce#2672/CH1/EX1.17/Ex1_17.sce#S##113693
+1#DC Networks and Network Theorems#1.16#Determine Current Is#Ex1_16.sce#2672/CH1/EX1.16/Ex1_16.sce#S##113692
+1#DC Networks and Network Theorems#1.15#Calculate the current#Ex1_15.sce#2672/CH1/EX1.15/Ex1_15.sce#S##113691
+1#DC Networks and Network Theorems#1.14#Calculate the current#Ex1_14.sce#2672/CH1/EX1.14/Ex1_14.sce#S##113690
+1#DC Networks and Network Theorems#1.13#Calculate the current#Ex1_13.sce#2672/CH1/EX1.13/Ex1_13.sce#S##113689
+1#DC Networks and Network Theorems#1.12#Calculate the current#Ex1_12.sce#2672/CH1/EX1.12/Ex1_12.sce#S##113688
+1#DC Networks and Network Theorems#1.11#Value of current#Ex1_11.sce#2672/CH1/EX1.11/Ex1_11.sce#S##113687
+1#DC Networks and Network Theorems#1.10#Voltage at nodes#Ex1_10.sce#2672/CH1/EX1.10/Ex1_10.sce#S##113686
+1#DC Networks and Network Theorems#1.1#Convert Voltage source#Ex1_1.sce#2672/CH1/EX1.1/Ex1_1.sce#S##113677

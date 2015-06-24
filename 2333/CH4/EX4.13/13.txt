@@ -1,0 +1,5 @@
+# PROBLEM 13 # 
+Standard formula used 
+ I = A^2*cos^2(theata)
+
+ Angle of rotation required is 30 degree.

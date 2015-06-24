@@ -1,0 +1,4 @@
+ 
+ example 4 19   
+capacitor kVAR required for 6kW
+ load for same power factor improvement 60KVAR 

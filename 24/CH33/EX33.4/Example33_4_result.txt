@@ -1,0 +1,5 @@
+**Sample Problem 33-4a**
+The voltage drop across the resistor is Vr=36.00*sin(376.99*t)
+
+**Sample Problem 33-4b**
+The current in the resistor as a function of time is Ir=0.18*sin(376.99*t) 

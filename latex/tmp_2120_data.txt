@@ -1,0 +1,92 @@
+11#Introduction to Working of IC Engines#11.1#Capacity of the engine#ex11_1.sce#2120/CH11/EX11.1/ex11_1.sce#S##77352
+10#Steam Power Plant and Rankine Cycle#10.4#Thermal efficiency of the cycle#ex10_4.sce#2120/CH10/EX10.4/ex10_4.sce#S##70995
+10#Steam Power Plant and Rankine Cycle#10.3#Percentage increse in Rankine efficiency#ex10_3.sce#2120/CH10/EX10.3/ex10_3.sce#S##70994
+10#Steam Power Plant and Rankine Cycle#10.2#Heat supplied to the boiler#ex10_2.sce#2120/CH10/EX10.2/ex10_2.sce#S##70993
+10#Steam Power Plant and Rankine Cycle#10.14#Ratio of mass flow rate of cooling water to condensing steam#ex10_14.sce#2120/CH10/EX10.14/ex10_14.sce#S##70997
+10#Steam Power Plant and Rankine Cycle#10.13#Work output per kg#ex10_13.sce#2120/CH10/EX10.13/ex10_13.sce#S##70996
+10#Steam Power Plant and Rankine Cycle#10.1#Carnot efficiency#ex10_1.sce#2120/CH10/EX10.1/ex10_1.sce#S##70992
+9#Properties of Steam and Thermodynamic Cycles#9.9#Work done during evaporation#ex9_9.sce#2120/CH9/EX9.9/ex9_9.sce#S##77350
+9#Properties of Steam and Thermodynamic Cycles#9.8#Heat transfer during the process#ex9_8.sce#2120/CH9/EX9.8/ex9_8.sce#S##70987
+9#Properties of Steam and Thermodynamic Cycles#9.7#Dryness fraction of sample steam#ex9_7.sce#2120/CH9/EX9.7/ex9_7.sce#S##70986
+9#Properties of Steam and Thermodynamic Cycles#9.6#Dryness fraction of steam#ex9_6.sce#2120/CH9/EX9.6/ex9_6.sce#S##70985
+9#Properties of Steam and Thermodynamic Cycles#9.5#Isentropic efficiency of turbine#ex9_5.sce#2120/CH9/EX9.5/ex9_5.sce#S##70984
+9#Properties of Steam and Thermodynamic Cycles#9.4#Quantity of heat#ex9_4.sce#2120/CH9/EX9.4/ex9_4.sce#S##70983
+9#Properties of Steam and Thermodynamic Cycles#9.3#Change in enthalpy and entropy#ex9_3.sce#2120/CH9/EX9.3/ex9_3.sce#S##77349
+9#Properties of Steam and Thermodynamic Cycles#9.2#Condition of steam#ex9_2.sce#2120/CH9/EX9.2/ex9_2.sce#S##77348
+9#Properties of Steam and Thermodynamic Cycles#9.12#Condition of steam#ex9_12.sce#2120/CH9/EX9.12/ex9_12.sce#S##70991
+9#Properties of Steam and Thermodynamic Cycles#9.11#Volume of steam#ex9_11.sce#2120/CH9/EX9.11/ex9_11.sce#S##70990
+9#Properties of Steam and Thermodynamic Cycles#9.10#Entropy#ex9_10.sce#2120/CH9/EX9.10/ex9_10.sce#S##77351
+9#Properties of Steam and Thermodynamic Cycles#9.1#Specific volume enthalpy latent heat and entropy#ex9_1.sce#2120/CH9/EX9.1/ex9_1.sce#S##77837
+8#Availability and Irreversibility#8.7#Lost work#ex8_7.sce#2120/CH8/EX8.7/ex8_7.sce#S##70980
+8#Availability and Irreversibility#8.6#Availability per kg of steam#ex8_6.sce#2120/CH8/EX8.6/ex8_6.sce#S##70979
+8#Availability and Irreversibility#8.5#Irreversibility#ex8_5.sce#2120/CH8/EX8.5/ex8_5.sce#S##70978
+8#Availability and Irreversibility#8.4#Availability per kg of steam entering and leaving the turbine#ex8_4.sce#2120/CH8/EX8.4/ex8_4.sce#S##70977
+8#Availability and Irreversibility#8.3#Available and unavailable energy#ex8_3.sce#2120/CH8/EX8.3/ex8_3.sce#S##70976
+8#Availability and Irreversibility#8.2#Availability and unavailability of system#ex8_2.sce#2120/CH8/EX8.2/ex8_2.sce#S##77347
+8#Availability and Irreversibility#8.1#Availability and unavailability of heat#ex8_1.sce#2120/CH8/EX8.1/ex8_1.sce#S##70974
+7#Entropy#7.9#Change in entropy#ex7_9.sce#2120/CH7/EX7.9/ex7_9.sce#S##70972
+7#Entropy#7.8#The flow of air#ex7_8.sce#2120/CH7/EX7.8/ex7_8.sce#S##77359
+7#Entropy#7.6#Entropy generated during the process#ex7_6.sce#2120/CH7/EX7.6/ex7_6.sce#S##70971
+7#Entropy#7.3#Overall change in entropy#ex7_3.sce#2120/CH7/EX7.3/ex7_3.sce#S##77345
+7#Entropy#7.2#Change in entropy of air#ex7_2.sce#2120/CH7/EX7.2/ex7_2.sce#S##70969
+7#Entropy#7.11#Net heat transfer and overall change in entropy#ex7_11.sce#2120/CH7/EX7.11/ex7_11.sce#S##77346
+6#Second Law of Thermodynamics#6.6#Reversible or irreversible cycle#ex6_6.sce#2120/CH6/EX6.6/ex6_6.sce#S##70961
+6#Second Law of Thermodynamics#6.5#Minimum power required#ex6_5.sce#2120/CH6/EX6.5/ex6_5.sce#S##70960
+6#Second Law of Thermodynamics#6.4#Claim of inventor is true or not#ex6_4.sce#2120/CH6/EX6.4/ex6_4.sce#S##70959
+6#Second Law of Thermodynamics#6.3#Ratio of heat transfer to circulating water to the engine#ex6_3.sce#2120/CH6/EX6.3/ex6_3.sce#S##70958
+6#Second Law of Thermodynamics#6.24#Least power necessary to pump#ex6_24.sce#2120/CH6/EX6.24/ex6_24.sce#S##70968
+6#Second Law of Thermodynamics#6.23#Intermediate temperature#ex6_23.sce#2120/CH6/EX6.23/ex6_23.sce#S##77358
+6#Second Law of Thermodynamics#6.22#Heat rejected#ex6_22.sce#2120/CH6/EX6.22/ex6_22.sce#S##77357
+6#Second Law of Thermodynamics#6.21#Engine efficiency#ex6_21.sce#2120/CH6/EX6.21/ex6_21.sce#S##70967
+6#Second Law of Thermodynamics#6.20#Minimum power required#ex6_20.sce#2120/CH6/EX6.20/ex6_20.sce#S##70966
+6#Second Law of Thermodynamics#6.2#Minimum power required#ex6_2.sce#2120/CH6/EX6.2/ex6_2.sce#S##77344
+6#Second Law of Thermodynamics#6.19#Output of the engine#ex6_19.sce#2120/CH6/EX6.19/ex6_19.sce#S##70965
+6#Second Law of Thermodynamics#6.18#Reversible irreversible or carnot cycle#ex6_18.sce#2120/CH6/EX6.18/ex6_18.sce#S##70964
+6#Second Law of Thermodynamics#6.17#Entropy generated#ex6_17.sce#2120/CH6/EX6.17/ex6_17.sce#S##70963
+6#Second Law of Thermodynamics#6.16#Heat rejected#ex6_16.sce#2120/CH6/EX6.16/ex6_16.sce#S##70962
+6#Second Law of Thermodynamics#6.1#Temperature of the source and the sink#ex6_1.sce#2120/CH6/EX6.1/ex6_1.sce#S##70956
+5#First Law of Thermodynamics#5.5#Power of motor required#ex5_5.sce#2120/CH5/EX5.5/ex5_5.sce#S##70955
+5#First Law of Thermodynamics#5.4#Quantity of water circulated#ex5_4.sce#2120/CH5/EX5.4/ex5_4.sce#S##70954
+5#First Law of Thermodynamics#5.3#Power output of the turbine#ex5_3.sce#2120/CH5/EX5.3/ex5_3.sce#S##70953
+5#First Law of Thermodynamics#5.2#Rate of heat transfer#ex5_2.sce#2120/CH5/EX5.2/ex5_2.sce#S##70952
+5#First Law of Thermodynamics#5.1#Mass flow rate of air#ex5_1.sce#2120/CH5/EX5.1/ex5_1.sce#S##70951
+4#First Law of Thermodynamics#4.9#Change in internal energy#ex4_9.sce#2120/CH4/EX4.9/ex4_9.sce#S##70945
+4#First Law of Thermodynamics#4.8#Law of the process#ex4_8.sce#2120/CH4/EX4.8/ex4_8.sce#S##70944
+4#First Law of Thermodynamics#4.7#Mass of the gas#ex4_7.sce#2120/CH4/EX4.7/ex4_7.sce#S##77343
+4#First Law of Thermodynamics#4.5#External work done#ex4_5.sce#2120/CH4/EX4.5/ex4_5.sce#S##70942
+4#First Law of Thermodynamics#4.3#Magnitude and direction of third heat transfer#ex4_3.sce#2120/CH4/EX4.3/ex4_3.sce#S##70941
+4#First Law of Thermodynamics#4.21#Net work#ex4_21.sce#2120/CH4/EX4.21/ex4_21.sce#S##70950
+4#First Law of Thermodynamics#4.20#Heat flows into the system#ex4_20.sce#2120/CH4/EX4.20/ex4_20.sce#S##70949
+4#First Law of Thermodynamics#4.2#Height from which the mass should fall#ex4_2.sce#2120/CH4/EX4.2/ex4_2.sce#S##70940
+4#First Law of Thermodynamics#4.17#Net heat transfer#ex4_17.sce#2120/CH4/EX4.17/ex4_17.sce#S##70948
+4#First Law of Thermodynamics#4.11#Exit velocity of air#ex4_11.sce#2120/CH4/EX4.11/ex4_11.sce#S##70947
+4#First Law of Thermodynamics#4.10#Maximum internal energy#ex4_10.sce#2120/CH4/EX4.10/ex4_10.sce#S##70946
+4#First Law of Thermodynamics#4.1#Work done#ex4_1.sce#2120/CH4/EX4.1/ex4_1.sce#S##70939
+3#Zeroth Law of Thermodynamics and Temperature Scales#3.9#Temperature#ex3_9.sce#2120/CH3/EX3.9/ex3_9.sce#S##70938
+3#Zeroth Law of Thermodynamics and Temperature Scales#3.2#Temperature of fluid#ex3_2.sce#2120/CH3/EX3.2/ex3_2.sce#S##77355
+3#Zeroth Law of Thermodynamics and Temperature Scales#3.10#Reading of thermometer#ex3_10.sce#2120/CH3/EX3.10/ex3_10.sce#S##78316
+3#Zeroth Law of Thermodynamics and Temperature Scales#3.1#Reading#ex3_1.sce#2120/CH3/EX3.1/ex3_1.sce#S##70937
+2#Gas Laws Ideal and Real Gases#2.7#Payload#exa_2_7.sce#2120/CH2/EX2.7/exa_2_7.sce#S##70931
+2#Gas Laws Ideal and Real Gases#2.6#Density of gas#exa_2_6.sce#2120/CH2/EX2.6/exa_2_6.sce#S##70930
+2#Gas Laws Ideal and Real Gases#2.5#Pressure exerted by unit mass of the gas#exa_2_5.sce#2120/CH2/EX2.5/exa_2_5.sce#S##70929
+2#Gas Laws Ideal and Real Gases#2.4#Change in internal energy#exa_2_4.sce#2120/CH2/EX2.4/exa_2_4.sce#S##70928
+2#Gas Laws Ideal and Real Gases#2.3#Value of Cp Cv and R#exa_2_3.sce#2120/CH2/EX2.3/exa_2_3.sce#S##70927
+2#Gas Laws Ideal and Real Gases#2.2#Molar volume of the gas mixture#exa_2_2.sce#2120/CH2/EX2.2/exa_2_2.sce#S##70926
+2#Gas Laws Ideal and Real Gases#2.17#Value of Cv and Cp#exa_2_17.sce#2120/CH2/EX2.17/exa_2_17.sce#S##77354
+2#Gas Laws Ideal and Real Gases#2.16#Change in enthalpy#exa_2_16.sce#2120/CH2/EX2.16/exa_2_16.sce#S##77342
+2#Gas Laws Ideal and Real Gases#2.15#Load that can be lifted with the air of aerostat#exa_2_15.sce#2120/CH2/EX2.15/exa_2_15.sce#S##70935
+2#Gas Laws Ideal and Real Gases#2.14#Molecular weight#exa_2_14.sce#2120/CH2/EX2.14/exa_2_14.sce#S##70934
+2#Gas Laws Ideal and Real Gases#2.13#Change in enthalpy#exa_2_13.sce#2120/CH2/EX2.13/exa_2_13.sce#S##70933
+2#Gas Laws Ideal and Real Gases#2.12#Pressure of the gas#exa_2_12.sce#2120/CH2/EX2.12/exa_2_12.sce#S##70932
+2#Gas Laws Ideal and Real Gases#2.1#Air pressure in the tyre#exa_2_1.sce#2120/CH2/EX2.1/exa_2_1.sce#S##70925
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.7#Power of feed pump#ex1_7.sce#2120/CH1/EX1.7/ex1_7.sce#S##70920
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.6#Height from which the mass should fall#ex1_6.sce#2120/CH1/EX1.6/ex1_6.sce#S##70919
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.5#Work done#ex1_5.sce#2120/CH1/EX1.5/ex1_5.sce#S##70918
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.4#Work done by the piston#ex1_4.sce#2120/CH1/EX1.4/ex1_4.sce#S##78315
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.3#Tank pressure#ex1_3.sce#2120/CH1/EX1.3/ex1_3.sce#S##70916
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.2#Absolute pressure#ex1_2.sce#2120/CH1/EX1.2/ex1_2.sce#S##70915
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.16#Depth of atmosphere#ex1_16.sce#2120/CH1/EX1.16/ex1_16.sce#S##77353
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.15#Convert reading in kPa#ex1_15.sce#2120/CH1/EX1.15/ex1_15.sce#S##70924
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.13#Specific heat#ex1_13.sce#2120/CH1/EX1.13/ex1_13.sce#S##77341
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.12#Power required#ex1_12.sce#2120/CH1/EX1.12/ex1_12.sce#S##70922
+1#Fundamentals Concepts and Definitions of Thermodynamics#1.11#Power of the engine#ex1_11.sce#2120/CH1/EX1.11/ex1_11.sce#S##70921

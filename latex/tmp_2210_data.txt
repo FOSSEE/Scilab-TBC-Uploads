@@ -1,0 +1,94 @@
+8#Oscillators and frequency synthesizers#8.8#Example 8#8_8.sce#2210/CH8/EX8.8/8_8.sce#S##79155
+8#Oscillators and frequency synthesizers#8.7#Example 7#8_7.sce#2210/CH8/EX8.7/8_7.sce#S##79154
+8#Oscillators and frequency synthesizers#8.6#Example 6#8_6.sce#2210/CH8/EX8.6/8_6.sce#S##79153
+8#Oscillators and frequency synthesizers#8.5#Example 5#8_5.sce#2210/CH8/EX8.5/8_5.sce#S##84835
+8#Oscillators and frequency synthesizers#8.4#Example 4#8_4.sce#2210/CH8/EX8.4/8_4.sce#S##79151
+8#Oscillators and frequency synthesizers#8.3#Example 3#8_3.sce#2210/CH8/EX8.3/8_3.sce#S##79150
+8#Oscillators and frequency synthesizers#8.2#Example 2#8_2.sce#2210/CH8/EX8.2/8_2.sce#S##79149
+8#Oscillators and frequency synthesizers#8.1#Example 1#8_1.sce#2210/CH8/EX8.1/8_1.sce#S##79148
+7#Microwave amplifiers#7.9#Example 9#7_9.sce#2210/CH7/EX7.9/7_9.sce#S##79145
+7#Microwave amplifiers#7.8#Example 8#7_8.sce#2210/CH7/EX7.8/7_8.sce#S##84837
+7#Microwave amplifiers#7.7#Example 7#7_7.sce#2210/CH7/EX7.7/7_7.sce#S##79143
+7#Microwave amplifiers#7.6#Example 6#7_6.sce#2210/CH7/EX7.6/7_6.sce#S##79142
+7#Microwave amplifiers#7.5#Example 5#7_5.sce#2210/CH7/EX7.5/7_5.sce#S##84836
+7#Microwave amplifiers#7.4#Example 4#7_4.sce#2210/CH7/EX7.4/7_4.sce#S##79140
+7#Microwave amplifiers#7.3#Example 3#7_3.sce#2210/CH7/EX7.3/7_3.sce#S##79139
+7#Microwave amplifiers#7.2#Example 2#7_2.sce#2210/CH7/EX7.2/7_2.sce#S##79138
+7#Microwave amplifiers#7.12#Example 12#7_12.sce#2210/CH7/EX7.12/7_12.sce#S##79147
+7#Microwave amplifiers#7.10#Example 10#7_10.sce#2210/CH7/EX7.10/7_10.sce#S##79146
+7#Microwave amplifiers#7.1#Example 1#7_1.sce#2210/CH7/EX7.1/7_1.sce#S##79137
+6#High frequency transistor amplifiers#6.9#Example 9#6_9.sce#2210/CH6/EX6.9/6_9.sce#S##79126
+6#High frequency transistor amplifiers#6.8#Example 8#6_8.sce#2210/CH6/EX6.8/6_8.sce#S##79125
+6#High frequency transistor amplifiers#6.7#Example 7#6_7.sce#2210/CH6/EX6.7/6_7.sce#S##79124
+6#High frequency transistor amplifiers#6.6#Example 6#6_6.sce#2210/CH6/EX6.6/6_6.sce#S##79123
+6#High frequency transistor amplifiers#6.5#Example 5#6_5.sce#2210/CH6/EX6.5/6_5.sce#S##79122
+6#High frequency transistor amplifiers#6.4#Example 4#6_4.sce#2210/CH6/EX6.4/6_4.sce#S##79121
+6#High frequency transistor amplifiers#6.3#Example 3#6_3.sce#2210/CH6/EX6.3/6_3.sce#S##79120
+6#High frequency transistor amplifiers#6.2#Example 2#6_2.sce#2210/CH6/EX6.2/6_2.sce#S##79119
+6#High frequency transistor amplifiers#6.19#Example 19#6_19.sce#2210/CH6/EX6.19/6_19.sce#S##79136
+6#High frequency transistor amplifiers#6.18#Example 18#6_18.sce#2210/CH6/EX6.18/6_18.sce#S##84838
+6#High frequency transistor amplifiers#6.17#Example 17#6_17.sce#2210/CH6/EX6.17/6_17.sce#S##79134
+6#High frequency transistor amplifiers#6.16#Example 16#6_16.sce#2210/CH6/EX6.16/6_16.sce#S##79133
+6#High frequency transistor amplifiers#6.15#Example 15#6_15.sce#2210/CH6/EX6.15/6_15.sce#S##79132
+6#High frequency transistor amplifiers#6.14#Example 14#6_14.sce#2210/CH6/EX6.14/6_14.sce#S##79131
+6#High frequency transistor amplifiers#6.13#Example 13#6_13.sce#2210/CH6/EX6.13/6_13.sce#S##79130
+6#High frequency transistor amplifiers#6.12#Example 12#6_12.sce#2210/CH6/EX6.12/6_12.sce#S##79129
+6#High frequency transistor amplifiers#6.11#Example 11#6_11.sce#2210/CH6/EX6.11/6_11.sce#S##79128
+6#High frequency transistor amplifiers#6.10#Example 10#6_10.sce#2210/CH6/EX6.10/6_10.sce#S##79127
+6#High frequency transistor amplifiers#6.1#Example 1#6_1.sce#2210/CH6/EX6.1/6_1.sce#S##79118
+5#Amplifier basics#5.8#Example 8#5_8.sce#2210/CH5/EX5.8/5_8.sce#S##79160
+5#Amplifier basics#5.6#Example 6#5_6.sce#2210/CH5/EX5.6/5_6.sce#S##79159
+5#Amplifier basics#5.4#Example 4#5_4.sce#2210/CH5/EX5.4/5_4.sce#S##79158
+5#Amplifier basics#5.3#Example 3#5_3.sce#2210/CH5/EX5.3/5_3.sce#S##79157
+5#Amplifier basics#5.24#Example 24#5_24.sce#2210/CH5/EX5.24/5_24.sce#S##79175
+5#Amplifier basics#5.23#Example 23#5_23.sce#2210/CH5/EX5.23/5_23.sce#S##79174
+5#Amplifier basics#5.22#Example 22#5_22.sce#2210/CH5/EX5.22/5_22.sce#S##79173
+5#Amplifier basics#5.21#Example 21#5_21.sce#2210/CH5/EX5.21/5_21.sce#S##79172
+5#Amplifier basics#5.20#Example 20#5_20.sce#2210/CH5/EX5.20/5_20.sce#S##79171
+5#Amplifier basics#5.19#Example 19#5_19.sce#2210/CH5/EX5.19/5_19.sce#S##79170
+5#Amplifier basics#5.18#Example 18#5_18.sce#2210/CH5/EX5.18/5_18.sce#S##79169
+5#Amplifier basics#5.17#Example 17#5_17.sce#2210/CH5/EX5.17/5_17.sce#S##79168
+5#Amplifier basics#5.16#Example 16#5_16.sce#2210/CH5/EX5.16/5_16.sce#S##79167
+5#Amplifier basics#5.15#Example 15#5_15.sce#2210/CH5/EX5.15/5_15.sce#S##79166
+5#Amplifier basics#5.14#Example 14#5_14.sce#2210/CH5/EX5.14/5_14.sce#S##79165
+5#Amplifier basics#5.13#Example 13#5_13.sce#2210/CH5/EX5.13/5_13.sce#S##79164
+5#Amplifier basics#5.12#Example 12#5_12.sce#2210/CH5/EX5.12/5_12.sce#S##79163
+5#Amplifier basics#5.11#Example 11#5_11.sce#2210/CH5/EX5.11/5_11.sce#S##79162
+5#Amplifier basics#5.10#Example 10#5_10.sce#2210/CH5/EX5.10/5_10.sce#S##79161
+5#Amplifier basics#5.1#Example 1#5_1.sce#2210/CH5/EX5.1/5_1.sce#S##79156
+3#Smith charts and scattering parameters#3.9#Example 9#3_9.sce#2210/CH3/EX3.9/3_9.sce#S##79616
+3#Smith charts and scattering parameters#3.8#Example 8#3_8.sce#2210/CH3/EX3.8/3_8.sce#S##79615
+3#Smith charts and scattering parameters#3.6#Example 6#3_6.sce#2210/CH3/EX3.6/3_6.sce#S##80782
+3#Smith charts and scattering parameters#3.4#Example 4#3_4.sce#2210/CH3/EX3.4/3_4.sce#S##80781
+3#Smith charts and scattering parameters#3.3#Example 3#3_3.sce#2210/CH3/EX3.3/3_3.sce#S##80780
+3#Smith charts and scattering parameters#3.2#Example 2#3_2.sce#2210/CH3/EX3.2/3_2.sce#S##80777
+3#Smith charts and scattering parameters#3.18#Example 18#3_18.sce#2210/CH3/EX3.18/3_18.sce#S##79622
+3#Smith charts and scattering parameters#3.17#Example 17#3_17.sce#2210/CH3/EX3.17/3_17.sce#S##79621
+3#Smith charts and scattering parameters#3.16#Example 16#3_16.sce#2210/CH3/EX3.16/3_16.sce#S##79620
+3#Smith charts and scattering parameters#3.15#Example 15#3_15.sce#2210/CH3/EX3.15/3_15.sce#S##79619
+3#Smith charts and scattering parameters#3.13#Example 13#3_13.sce#2210/CH3/EX3.13/3_13.sce#S##80783
+3#Smith charts and scattering parameters#3.11#Example 11#3_11.sce#2210/CH3/EX3.11/3_11.sce#S##79617
+3#Smith charts and scattering parameters#3.10#Example 10#3_10.sce#2210/CH3/EX3.10/3_10.sce#S##79623
+3#Smith charts and scattering parameters#3.1#Example 1#3_1.sce#2210/CH3/EX3.1/3_1.sce#S##80775
+2#Transmission lines#2.9#Example 9#2_9.sce#2210/CH2/EX2.9/2_9.sce#S##79109
+2#Transmission lines#2.8#Example 8#2_8.sce#2210/CH2/EX2.8/2_8.sce#S##79108
+2#Transmission lines#2.7#Example 7#2_7.sce#2210/CH2/EX2.7/2_7.sce#S##79107
+2#Transmission lines#2.6#Example 6#2_6.sce#2210/CH2/EX2.6/2_6.sce#S##79106
+2#Transmission lines#2.5#Example 5#2_5.sce#2210/CH2/EX2.5/2_5.sce#S##79105
+2#Transmission lines#2.4#Example 4#2_4.sce#2210/CH2/EX2.4/2_4.sce#S##79104
+2#Transmission lines#2.2#Example 2#2_2.sce#2210/CH2/EX2.2/2_2.sce#S##79103
+2#Transmission lines#2.15#Example 15#2_15.sce#2210/CH2/EX2.15/2_15.sce#S##79115
+2#Transmission lines#2.14#Example 14#2_14.sce#2210/CH2/EX2.14/2_14.sce#S##79114
+2#Transmission lines#2.13#Example 13#2_13.sce#2210/CH2/EX2.13/2_13.sce#S##79113
+2#Transmission lines#2.12#Example 12#2_12.sce#2210/CH2/EX2.12/2_12.sce#S##79112
+2#Transmission lines#2.11#Example 11#2_11.sce#2210/CH2/EX2.11/2_11.sce#S##79111
+2#Transmission lines#2.10#Example 10#2_10.sce#2210/CH2/EX2.10/2_10.sce#S##79110
+1#Basic features of radio communication systems#1.9#Example 9#1_9.sce#2210/CH1/EX1.9/1_9.sce#S##79102
+1#Basic features of radio communication systems#1.8#Example 8#1_8.sce#2210/CH1/EX1.8/1_8.sce#S##79101
+1#Basic features of radio communication systems#1.7#Example 7#1_7.sce#2210/CH1/EX1.7/1_7.sce#S##79100
+1#Basic features of radio communication systems#1.6#Example 6#1_6.sce#2210/CH1/EX1.6/1_6.sce#S##79099
+1#Basic features of radio communication systems#1.5#Example 5#1_5.sce#2210/CH1/EX1.5/1_5.sce#S##79098
+1#Basic features of radio communication systems#1.4#Example 4#1_4.sce#2210/CH1/EX1.4/1_4.sce#S##79097
+1#Basic features of radio communication systems#1.3#Example 3#1_3.sce#2210/CH1/EX1.3/1_3.sce#S##79096
+1#Basic features of radio communication systems#1.2#Example 2#1_2.sce#2210/CH1/EX1.2/1_2.sce#S##79095
+1#Basic features of radio communication systems#1.1#Example 1#1_1.sce#2210/CH1/EX1.1/1_1.sce#S##79094

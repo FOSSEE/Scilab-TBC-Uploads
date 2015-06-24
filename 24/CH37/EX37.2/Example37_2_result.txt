@@ -1,0 +1,5 @@
+**Sample Problem 37-2**
+The intensities of secondary maximas relative to intensity of CBF is-
+	I1/Im = 0.0450
+	I2/Im = 0.0162
+	I3/Im = 0.0083 

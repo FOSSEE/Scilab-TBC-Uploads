@@ -1,0 +1,20 @@
+  
+ For free space wavelength (in cm) =   
+ 
+    10.  
+ 
+     TE10 can propagate   
+ 
+     TM11 cannot propagate   
+ 
+     TM21 cannot propagate   
+ 
+ For free space wavelength (in cm) =   
+ 
+    5.  
+ 
+     TE10 can propagate   
+ 
+     TM11 can propagate   
+ 
+     TM21 can propagate 

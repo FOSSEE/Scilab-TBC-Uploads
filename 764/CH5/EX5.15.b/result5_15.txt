@@ -1,0 +1,89 @@
+-->//(Design against Fluctuating Load) Example 5.15
+ 
+-->//Refer Fig.5.46 on page 172
+ 
+-->//Spring wire diameter d (mm)
+ 
+-->d = 10
+ d  =
+ 
+    10.  
+ 
+-->//Ultimate tensile strength of 4Cr18Ni10 Sut (N/mm2)
+ 
+-->Sut = 860
+ Sut  =
+ 
+    860.  
+ 
+-->//Yield tensile strength of 4Cr18Ni10 Syt (N/mm2)
+ 
+-->Syt = 690
+ Syt  =
+ 
+    690.  
+ 
+-->//Minimum value of N is Nmin
+ 
+-->Nmin = (10^3)
+ Nmin  =
+ 
+    1000.  
+ 
+-->//Maximum value of N is Nmax
+ 
+-->Nmax = (10^6)
+ Nmax  =
+ 
+    1000000.  
+ 
+-->//Maximum force acting at the free end Pmax (N)
+ 
+-->Pmax = 150
+ Pmax  =
+ 
+    150.  
+ 
+-->//Minimum force acting at the free end Pmin (N)
+ 
+-->Pmin = 75
+ Pmin  =
+ 
+    75.  
+ 
+-->reliability = 50
+ reliability  =
+ 
+    50.  
+ 
+-->//Operation
+ 
+-->    //Nomenclature: 
+ 
+-->    //1 - Ground
+ 
+-->    //2 - Machined or cold drawn
+ 
+-->    //3 - Hot-rolled
+ 
+-->    //4 - Forged
+ 
+-->op = 2
+ op  =
+ 
+    2.  
+ 
+-->//Distance between force and stress concentration point dist (mm)
+ 
+-->dist = 500
+ dist  =
+ 
+    500.  
+ 
+ 
+
+Fatigue life of cantilever spring(N) = 7514.577171 cycles
+
+Answer is slightly different because of use of equation 5.18
+Use value of Ka from Fig.5.24 in order to obtain the mentioned result
+ 

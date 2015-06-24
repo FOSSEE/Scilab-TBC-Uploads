@@ -1,0 +1,31 @@
+ Base Current = 836.739521 A
+ Subtransient current in line a = -j3586 A 
+
+ 
+ Symmetrical Components of voltage from point a to ground   
+
+ Va1 = 0.64 per unit
+ Va2 = -0.50 per unit
+ Va0 = -0.14 per unit 
+
+ 
+ Line to ground voltages   
+
+ Va = 0.00 /_-180.00 per unit
+ Vb = 1.01 /_-102.22 per unit
+ Vc = 1.01 /_102.22 per unit 
+
+ 
+ Line to line voltages in per-unit are   
+
+ Vab = 1.01 /_77.78 per unit
+ Vbc = 1.98 /_-90.00 per unit
+ Vca = 1.01 /_102.22 per unit 
+
+ 
+ Line to line voltages in volts   
+
+ Vab = 8.07 /_77.78 kV
+ Vbc = 15.77 /_-90.00 kV
+ Vca = 8.07 /_102.22 kV 
+

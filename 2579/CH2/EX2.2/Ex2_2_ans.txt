@@ -1,0 +1,1 @@
+ The actual veloity = 2.250000*10^8 meter/sec

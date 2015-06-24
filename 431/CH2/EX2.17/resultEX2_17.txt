@@ -1,0 +1,11 @@
+  
+ Example 2.17   
+ 
+ At no-load   
+E=239.200000V
+If=1.500000A
+K1=0.199333 
+ At a load of 30A   
+If1=1.207182A
+
+Extra resistance required in the field circuit,R=38.810149ohms 

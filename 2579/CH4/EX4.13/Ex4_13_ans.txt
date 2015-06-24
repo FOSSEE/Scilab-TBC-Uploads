@@ -1,0 +1,3 @@
+ The terminal resistance = 49.966197 ohm
+ The diameter in m in terms of wavelength = 0.033036*y meter
+ The width in m in terms of wavelength = 0.066071*y meter 

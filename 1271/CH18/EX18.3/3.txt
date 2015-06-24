@@ -1,0 +1,5 @@
+ # PROBLEM 3 # 
+Standard formula used 
+  B = mu_0*H 
+
+ Percentage increase in magnetic induction is 0.001200 percent.

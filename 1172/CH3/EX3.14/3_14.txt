@@ -1,0 +1,11 @@
+ # Problem 14 # 
+
+ Standard formula Used 
+
+ For Balmer Series 
+ 1/lambda =  R*(1-(1/n)^2) 
+
+ For Lyman series 
+ 1/lambda =  R*((1/2)^2 -(1/n)^2)
+ 
+Wavelength of first line of Lyman series is 1214.814815 Angstrom. 

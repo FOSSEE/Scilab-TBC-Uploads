@@ -1,0 +1,6 @@
+# PROBLEM 17 # 
+
+ Time taken by light pulse is 800.000000 nsec. 
+ RPM pulse is 230.940108 nsec
+ Maximum bit rate is 0.625000 M bit/sec 
+ Bandwidth length product is 5MHz km 

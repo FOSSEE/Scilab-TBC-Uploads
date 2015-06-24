@@ -1,0 +1,3 @@
+
+2.voltmeter reading-494 V
+Ammeter reading-0.500049 A 

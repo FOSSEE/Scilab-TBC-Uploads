@@ -1,0 +1,2 @@
+**Sample Problem 11-10**
+The angular speed is equal to 10.398939rad/s 

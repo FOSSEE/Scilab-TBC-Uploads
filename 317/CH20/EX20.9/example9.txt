@@ -1,0 +1,2 @@
+Output current is -0.2 mAmperes
+Maximum load resistance is 30 Kohms

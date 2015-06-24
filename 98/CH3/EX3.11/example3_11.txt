@@ -1,0 +1,15 @@
+-->l=[200 100 50 100]
+ l  =
+ 
+    200.    100.    50.    100.  
+Maximum demand = 350 kW 
+
+(i) Diversity factor = 1.286 
+
+(ii) Units generated per day = 4600 kWh 
+
+(iii) Average load = 191.7 kW 
+
+	 Load factor = 54.8 % 
+
+

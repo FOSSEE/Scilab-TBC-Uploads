@@ -1,0 +1,5 @@
+kVA = 500 kW 
+
+Increased power supplied by the alternator = 200 kW 
+
+

@@ -1,0 +1,12 @@
+(a)Efficiency of transformer at half load(in %)=   
+ 
+    96.153846  
+ 
+ (b)Load for maximum efficiency(in watt)=   
+ 
+    17320.508  
+ 
+ Maximum efficiency(in%)=   
+ 
+    96.651881  
+ 

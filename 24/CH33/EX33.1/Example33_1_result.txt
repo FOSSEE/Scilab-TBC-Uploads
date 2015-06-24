@@ -1,0 +1,2 @@
+**Sample Problem 33-1**
+The maximum current in the circuit is 6.37e-001A 

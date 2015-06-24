@@ -1,0 +1,22 @@
+ 
+ DROPS DUE TO CONCENTRATED LOADS:    
+Iac = 300 A 
+Icd = 250 A 
+Ide = 150 A 
+
+Drop in section AC = 6.00 V 
+Drop in section CD = 7.50 V 
+Drop in section DE = 4.50 V 
+Total drop over AB = 18.00 V 
+
+
+ 
+ DROPS DUE TO UNIFORM LOADING:    
+Drop over AB = 20.25 V 
+Drop over Ad = 16.25 V 
+
+(i) Voltage at point B = 361.75 V 
+
+(ii) Voltage at point D = 370.25 V 
+
+

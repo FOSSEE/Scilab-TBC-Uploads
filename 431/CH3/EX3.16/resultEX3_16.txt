@@ -1,0 +1,5 @@
+  
+ Example 3.16   
+equivalent resistance referred to the secondary=0.420000ohmsequivalent reactance referred to the secondary=0.930000ohmsequivalent impedance referred to the secondary=1.020441ohms
+Voltage across the full load and 0.8 p.f lagging=374.500000V
+percentage voltage regulation=6.809079 percent 

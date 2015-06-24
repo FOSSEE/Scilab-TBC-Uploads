@@ -1,0 +1,15 @@
+Line current = 41.67 A 
+             = 33.33+j(-25.00) 
+
+(i) Sending end voltage = 33708.33+j(250.00) 
+    Magnitude of Vs = 33709 V 
+
+(ii) Angle betwen Vs and Vr = 0.42 degrees 
+     Sending end power factor angle = 37.29 degrees 
+     Sending end power factor = 0.80 
+
+(iii) Line loss = 17.36 kW 
+      Output delivered = 1100 kW 
+      Power sent = 1117.361 kW 
+      Transmission efficiency = 98.45 % 
+

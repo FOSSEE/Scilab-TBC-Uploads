@@ -1,0 +1,5 @@
+# PROBLEM 30 # 
+ Standard formula used 
+ n = e_d/lambda  
+
+Maximum resolution power is 80000.

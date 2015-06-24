@@ -1,0 +1,2 @@
+The power radiated = 28.424461 kW
+ The effeciency = 12.500000 % 

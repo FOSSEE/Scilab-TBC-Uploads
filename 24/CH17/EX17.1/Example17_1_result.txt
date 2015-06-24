@@ -1,0 +1,13 @@
+**Sample Problem 17-1a**
+The amplitude of the wave is 0.003270m
+
+**Sample Problem 17-1b**
+  wavelength = 0.087145m
+  period     = 2.309995s
+  frequency  = 0.432901Hz
+
+**Sample Problem 17-1c**
+The velocity of the wave is 0.037725m/s
+
+**Sample Problem 17-1d**
+Displacement of the wave is 0.001921m 

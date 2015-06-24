@@ -1,0 +1,4 @@
+ 
+ Example 9.1
+ Length of chip is 2.12 mm. 
+ Thickness of chip is 0.005 mm. 

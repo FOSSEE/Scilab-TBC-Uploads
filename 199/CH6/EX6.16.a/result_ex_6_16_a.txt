@@ -1,0 +1,3 @@
+* Feedback resistance is = 1591.5 ohm
+* Resistance,R1 is = 79.6 ohm 
+* Capacitance,Cf is = 0.0000000055 farad

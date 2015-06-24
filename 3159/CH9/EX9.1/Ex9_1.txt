@@ -1,0 +1,12 @@
+
+ Example 9.1
+ Part A
+ At del_t = 0, there is no supercooling. So there is no critical radius
+
+ Part B
+ Critical free energy of nucleation is 2.2e-16J
+ Critical radius is 262 angstrom
+
+ Part C
+ Critical free energy of nucleation is 3.4e-18J
+ Critical radius is 33 angstrom. 

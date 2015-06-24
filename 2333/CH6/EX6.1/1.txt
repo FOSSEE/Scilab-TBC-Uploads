@@ -1,0 +1,9 @@
+ # PROBLEM 1 # 
+
+ Standard formula used 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+
+  
+ Numerical aperture = 0.237487,
+ Maximum incidence angle = 13 degree 44 min.

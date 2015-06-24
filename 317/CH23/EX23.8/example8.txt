@@ -1,0 +1,2 @@
+Frequency of output signal is 227 hertz
+Duty cycle is 0.778

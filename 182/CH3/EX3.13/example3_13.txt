@@ -1,0 +1,3 @@
+13.At 1.000000 FSD
+Actual measured current=99 to 101 micro-A
+error=(+/-)1 persent of measured current

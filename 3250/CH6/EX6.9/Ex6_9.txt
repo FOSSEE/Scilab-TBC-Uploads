@@ -1,0 +1,3 @@
+ # PROBLEM 6.9 # 
+
+ The time required to complete the drilling operation = 300 min 

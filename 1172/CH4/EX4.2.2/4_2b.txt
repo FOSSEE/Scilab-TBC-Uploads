@@ -1,0 +1,4 @@
+ # Problem 2b # 
+ 
+ Projection of vector r in xz plane is 3.463916 
+ projection of vector r in yz plane is 3.463916

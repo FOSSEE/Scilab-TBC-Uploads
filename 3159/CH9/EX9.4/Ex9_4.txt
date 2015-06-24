@@ -1,0 +1,3 @@
+ 
+ Example 9.4
+ del_f_het is 0.0003th fraction of  del_f_homo. 

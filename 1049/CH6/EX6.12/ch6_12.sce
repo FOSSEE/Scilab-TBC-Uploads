@@ -1,0 +1,23 @@
+clear;
+clc;
+V_s=230;
+V_m=sqrt(2)*V_s;
+a=45;
+R=10;
+V_o=(V_m/%pi)*(1+cosd(a));
+I_o=V_o/R;
+V_or=V_s*sqrt((1/%pi)*((%pi-a*%pi/180)+sind(2*a)/2));
+I_or=I_o;
+P_dc=V_o*I_o;
+P_ac=V_or*I_or;
+RE=P_dc/P_ac;    printf("rectification efficiency=%.4f",RE);
+FF=V_or/V_o;    printf("\nform factor=%.3f",FF);
+VRF=sqrt(FF^2-1);    printf("\nvoltage ripple factor=%.3f",VRF);
+I_s1=2*sqrt(2)*I_o*cosd(a/2)/%pi;
+DF=cosd(a/2);    printf("\nDF=%.4f",DF);
+CDF=2*sqrt(2)*cosd(a/2)/sqrt(%pi*(%pi-a*%pi/180));    printf("\nCDF=%.4f",CDF);
+pf=CDF*DF;    printf("\npf=%.4f",pf);
+HF=sqrt((1/CDF^2)-1);    printf("\nHF=%.4f",HF);
+printf("\nactive power=%.3f W",P_dc);
+Q=V_m*I_o*sind(a)/%pi;    printf("\nreactive power=%.2f Var",Q);
+//Answers have small variations from that in the book due to difference in the rounding off of digits.

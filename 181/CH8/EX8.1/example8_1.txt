@@ -1,0 +1,3 @@
+(a)The value of Gate Resistance for the Circuit is 9.57e+001 ohm 
+(b)The value of the Gate Voltage is 8.06e+000 V 
+(c)The value of the Gate Current is 6.20e-002 A 

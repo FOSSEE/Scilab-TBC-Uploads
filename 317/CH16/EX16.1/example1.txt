@@ -1,0 +1,2 @@
+Voltage gain for an input frequency of 5 Hertz is 48.5
+Voltage gain for an input frequency of 20 KHertz is 19.9

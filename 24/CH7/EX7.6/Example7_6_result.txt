@@ -1,0 +1,11 @@
+**Sample Problem 7-6a**
+The work done by the gravity during the fall is 5.880000e+004J
+
+**Sample Problem 7-6b**
+The work done by the tension is -4.704000e+004J
+
+*Sample Problem 7-6c**
+The net work done is 1.176000e+004J
+
+**Sample Problem 7-6d**
+The final kinetic energy of the cab is 1.576000e+004J 

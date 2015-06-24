@@ -1,0 +1,13 @@
+* Collector current Ic1 is = 0.00039 A
+* Voltage Vc1 is = 3.38 V
+* Voltage Ve4 is = 2.68 V 
+* Current Ie4 is = 0.000297 A 
+* Current Ic5 is = 0.000297 A 
+* Voltage Vc5 is = 4.87 V
+* Voltage Ve6 is = 4.17 V
+* Current Ie6 is = 0.000678 A 
+* Voltage Ve7 is = 4.87 V 
+* Current I1 is = 0.002825 A 
+* Current Ie8 is = 0.002825 A
+* Voltage Ve8 at the output terminal is = -0.35 V 
+

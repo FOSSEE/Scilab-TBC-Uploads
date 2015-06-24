@@ -1,0 +1,28 @@
+Current on +ve outer = 60 A 
+Current on -ve outer = 40 A 
+Current in nuetral = 20 A 
+
+Voltage at the load end on the +ve side = 252.00 V 
+Voltage at the load end on the -ve side = 243.00 V 
+
+
+ 
+ (i) WHEN NUETRAL BREAKS:    
+Total circuit resistance = 10.3 ohm 
+Load current = 48.06 A 
+Voltage across 4 ohm resistance = 192.23 V 
+Voltage across 6 ohm resistance = 288.35 V 
+
+ 
+ (ii) WHEN +VE OUTER BREAKS:    
+Total circuit resistance = 6.3 ohm 
+Load current = 38.57 A 
+Voltage across 6 ohm resistance = 231.43 V 
+
+ 
+ (iii) WHEN -VE OUTER BREAKS:    
+Total circuit resistance = 4.3 ohm 
+Load current = 58.60 A 
+Voltage across 4 ohm resistance = 234.42 V 
+
+

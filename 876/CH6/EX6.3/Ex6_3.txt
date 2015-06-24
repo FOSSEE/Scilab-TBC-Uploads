@@ -1,0 +1,4 @@
+output voltage(in V)=   
+ 
+    3.7801  
+ 

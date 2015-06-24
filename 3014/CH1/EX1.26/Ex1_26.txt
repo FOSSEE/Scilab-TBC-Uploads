@@ -1,0 +1,5 @@
+
+
+Example 1.26
+ Velocity of neutron is 1.985030e+03 m/s.
+ Kinetic energy of neutron is 0.020564 eV.

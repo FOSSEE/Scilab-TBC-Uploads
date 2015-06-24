@@ -1,0 +1,12 @@
+(a)LSB(in V)=   
+ 
+    0.0390625  
+ 
+ (b)MSB(in V)=   
+ 
+    5.  
+ 
+ (c)full scale output(in V)=   
+ 
+    9.9609375  
+ 

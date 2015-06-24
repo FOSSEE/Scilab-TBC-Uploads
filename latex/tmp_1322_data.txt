@@ -1,0 +1,218 @@
+24#Arithmetical and Geometrical Series#24.9#Finding the 5th term#214ex3.sce#1322/CH24/EX24.9/214ex3.sce#S##72963
+24#Arithmetical and Geometrical Series#24.8#Eighth term of given series#214ex2.sce#1322/CH24/EX24.8/214ex2.sce#S##72962
+24#Arithmetical and Geometrical Series#24.7#Seventh term of given series#214ex1.sce#1322/CH24/EX24.7/214ex1.sce#S##72961
+24#Arithmetical and Geometrical Series#24.6#Geometric series#212ex.sce#1322/CH24/EX24.6/212ex.sce#S##72960
+24#Arithmetical and Geometrical Series#24.5#Finding n value in arithmetic sum#210ex2.sce#1322/CH24/EX24.5/210ex2.sce#S##72959
+24#Arithmetical and Geometrical Series#24.4#Finding common difference in AP#210ex1.sce#1322/CH24/EX24.4/210ex1.sce#S##72958
+24#Arithmetical and Geometrical Series#24.3#Arithmetic mean#209ex.sce#1322/CH24/EX24.3/209ex.sce#S##72957
+24#Arithmetical and Geometrical Series#24.2#Nth term in arithmetic series#207ex.sce#1322/CH24/EX24.2/207ex.sce#S##72956
+24#Arithmetical and Geometrical Series#24.14#Sum to infinity of the series#223ex2.sce#1322/CH24/EX24.14/223ex2.sce#S##72968
+24#Arithmetical and Geometrical Series#24.13#Sum of infinite terms#223ex1.sce#1322/CH24/EX24.13/223ex1.sce#S##72967
+24#Arithmetical and Geometrical Series#24.12#Sum of 7 terms#217ex2.sce#1322/CH24/EX24.12/217ex2.sce#S##72966
+24#Arithmetical and Geometrical Series#24.11#Sum of seven terms of the series#217ex1.sce#1322/CH24/EX24.11/217ex1.sce#S##72965
+24#Arithmetical and Geometrical Series#24.10#Finding the common ratio#214ex4.sce#1322/CH24/EX24.10/214ex4.sce#S##72964
+24#Arithmetical and Geometrical Series#24.1#Arithmetic series#206ex.sce#1322/CH24/EX24.1/206ex.sce#S##72955
+23#Rational and Irrational Numbers#23.3#Simplify surds#203ex2.sce#1322/CH23/EX23.3/203ex2.sce#S##72954
+23#Rational and Irrational Numbers#23.2#Rationalise#203ex1.sce#1322/CH23/EX23.2/203ex1.sce#S##72952
+23#Rational and Irrational Numbers#23.1#Operation with surds#203ex.sce#1322/CH23/EX23.1/203ex.sce#S##72951
+22#The determination of Laws#22.2#Law connecting the logarithms#199ex1.sce#1322/CH22/EX22.2/199ex1.sce#S##72950
+22#The determination of Laws#22.1#Plotting against power of a number#197ex1.sce#1322/CH22/EX22.1/197ex1.sce#S##72949
+21#Variation#21.9#F varies directly with strength and inversely with distance#195ex2.sce#1322/CH21/EX21.9/195ex2.sce#S##72948
+21#Variation#21.8#Joint variation#195ex1.sce#1322/CH21/EX21.8/195ex1.sce#S##72947
+21#Variation#21.7#Relation between R and l#193ex3.sce#1322/CH21/EX21.7/193ex3.sce#S##72946
+21#Variation#21.6#Volume varies inversely with peressure#193ex2.sce#1322/CH21/EX21.6/193ex2.sce#S##72945
+21#Variation#21.5#Triangle area#193ex1.sce#1322/CH21/EX21.5/193ex1.sce#S##72944
+21#Variation#21.4#Time of vibration of simple pendulum#192ex2.sce#1322/CH21/EX21.4/192ex2.sce#S##72943
+21#Variation#21.3#Inverse variation#192ex1.sce#1322/CH21/EX21.3/192ex1.sce#S##72942
+21#Variation#21.2#Comparison of voltmeters#185ex1.sce#1322/CH21/EX21.2/185ex1.sce#S##72941
+21#Variation#21.1#Graph of spring extension for different weights#183ex1.sce#1322/CH21/EX21.1/183ex1.sce#S##72940
+19#Logarithms#19.9#Sum of logarithms#169ex1.sce#1322/CH19/EX19.9/169ex1.sce#S##72934
+19#Logarithms#19.8#Finding the number whose log value is given#168ex2.sce#1322/CH19/EX19.8/168ex2.sce#S##72933
+19#Logarithms#19.7#Finding the logarithms of given numbers#168ex1.sce#1322/CH19/EX19.7/168ex1.sce#S##72932
+19#Logarithms#19.6#Finding the Nth root#167ex3.sce#1322/CH19/EX19.6/167ex3.sce#S##72931
+19#Logarithms#19.5#Finding the logarithm#167ex2.sce#1322/CH19/EX19.5/167ex2.sce#S##72930
+19#Logarithms#19.4#Logarithm of x#167ex1.sce#1322/CH19/EX19.4/167ex1.sce#S##72929
+19#Logarithms#19.3#Antilogarithm#165ex1.sce#1322/CH19/EX19.3/165ex1.sce#S##72928
+19#Logarithms#19.2#Notation for logarithms#162ex.sce#1322/CH19/EX19.2/162ex.sce#S##72927
+19#Logarithms#19.14#Finding the logarithm#170ex1.sce#1322/CH19/EX19.14/170ex1.sce#S##72939
+19#Logarithms#19.13#Division of logarithm #169ex5.sce#1322/CH19/EX19.13/169ex5.sce#S##72938
+19#Logarithms#19.12#Multiplication of logarithm#169ex4.sce#1322/CH19/EX19.12/169ex4.sce#S##72937
+19#Logarithms#19.11#Multiplication of logarithm#169ex3.sce#1322/CH19/EX19.11/169ex3.sce#S##72936
+19#Logarithms#19.10#Difference of logarithms#169ex2.sce#1322/CH19/EX19.10/169ex2.sce#S##72935
+19#Logarithms#19.1#Finding values from the graph#160ex.sce#1322/CH19/EX19.1/160ex.sce#S##72926
+18#Indices#18.2#Operations with standard forms#159ex1.sce#1322/CH18/EX18.2/159ex1.sce#S##72925
+18#Indices#18.1#Graph of exponential function#153ex1.sce#1322/CH18/EX18.1/153ex1.sce#S##72924
+17#Quadratic Equations#17.9#Speed and time for journey#145ex2.sce#1322/CH17/EX17.9/145ex2.sce#S##72918
+17#Quadratic Equations#17.8#Time taken when body is projected vertically upwards#145ex1.sce#1322/CH17/EX17.8/145ex1.sce#S##91374
+17#Quadratic Equations#17.7#Solving the equation#144ex2.sce#1322/CH17/EX17.7/144ex2.sce#S##72916
+17#Quadratic Equations#17.6#quadratic equation Solution #144ex1.sce#1322/CH17/EX17.6/144ex1.sce#S##72915
+17#Quadratic Equations#17.5#quadratic equation Solution #141ex2.sce#1322/CH17/EX17.5/141ex2.sce#S##72914
+17#Quadratic Equations#17.4#Solution of quadratic equation#141ex1.sce#1322/CH17/EX17.4/141ex1.sce#S##72913
+17#Quadratic Equations#17.3#Solving equation#139ex3.sce#1322/CH17/EX17.3/139ex3.sce#S##72912
+17#Quadratic Equations#17.2#Solving quadratic equation#139ex2.sce#1322/CH17/EX17.2/139ex2.sce#S##72911
+17#Quadratic Equations#17.14#Solving the inequality#149ex2.sce#1322/CH17/EX17.14/149ex2.sce#S##72923
+17#Quadratic Equations#17.13#Solving quadratic inequlaities#149ex1.sce#1322/CH17/EX17.13/149ex1.sce#S##72922
+17#Quadratic Equations#17.12#Solving the equations#148ex2.sce#1322/CH17/EX17.12/148ex2.sce#S##72921
+17#Quadratic Equations#17.11#Solving symmetric equations#148ex1.sce#1322/CH17/EX17.11/148ex1.sce#S##95703
+17#Quadratic Equations#17.10#Solving first degree equations#147ex1.sce#1322/CH17/EX17.10/147ex1.sce#S##95713
+17#Quadratic Equations#17.1#Solving quadratic equation#139ex1.sce#1322/CH17/EX17.1/139ex1.sce#S##72910
+16#Graphs of Quadratic Functions#16.9#Graph of curves#128ex1.sce#1322/CH16/EX16.9/128ex1.sce#S##72901
+16#Graphs of Quadratic Functions#16.8#Change of axis#127ex1.sce#1322/CH16/EX16.8/127ex1.sce#S##72899
+16#Graphs of Quadratic Functions#16.7#Curves of given expression#126ex1.sce#1322/CH16/EX16.7/126ex1.sce#S##72898
+16#Graphs of Quadratic Functions#16.6#Curves of different parabolas#125ex1.sce#1322/CH16/EX16.6/125ex1.sce#S##72897
+16#Graphs of Quadratic Functions#16.5#Graph of parabola#124ex1.sce#1322/CH16/EX16.5/124ex1.sce#S##72896
+16#Graphs of Quadratic Functions#16.4#Graph of a function of second degree#122ex1.sce#1322/CH16/EX16.4/122ex1.sce#S##72895
+16#Graphs of Quadratic Functions#16.3#Straight line equation#118ex3.sce#1322/CH16/EX16.3/118ex3.sce#S##72894
+16#Graphs of Quadratic Functions#16.2#Graph of given straight line#118ex2.sce#1322/CH16/EX16.2/118ex2.sce#S##72893
+16#Graphs of Quadratic Functions#16.14#Using quadratic inequalities to describe regions#135ex1.sce#1322/CH16/EX16.14/135ex1.sce#S##72909
+16#Graphs of Quadratic Functions#16.13#Using graphs to solve quadratic inequalities#134ex1.sce#1322/CH16/EX16.13/134ex1.sce#S##72908
+16#Graphs of Quadratic Functions#16.12#Graph of parabola#133ex1.sce#1322/CH16/EX16.12/133ex1.sce#S##72907
+16#Graphs of Quadratic Functions#16.11#Graph of Y #132ex1.sce#1322/CH16/EX16.11/132ex1.sce#S##72903
+16#Graphs of Quadratic Functions#16.10#graph of given expression#129ex1.sce#1322/CH16/EX16.10/129ex1.sce#S##72902
+16#Graphs of Quadratic Functions#16.1#Circumference of circle#118ex1.sce#1322/CH16/EX16.1/118ex1.sce#S##72892
+15#Fractions#15.9#Division of fractions#116ex4.sce#1322/CH15/EX15.9/116ex4.sce#S##72888
+15#Fractions#15.8#Subtraction of fractions#116ex3.sce#1322/CH15/EX15.8/116ex3.sce#S##72887
+15#Fractions#15.7#Fraction Subtraction #116ex2.sce#1322/CH15/EX15.7/116ex2.sce#S##72886
+15#Fractions#15.6#Subtraction of fractions#116ex1.sce#1322/CH15/EX15.6/116ex1.sce#S##72885
+15#Fractions#15.5#Multiplication of fractions#115ex2.sce#1322/CH15/EX15.5/115ex2.sce#S##72884
+15#Fractions#15.4#Division of fractions#115ex1.sce#1322/CH15/EX15.4/115ex1.sce#S##72883
+15#Fractions#15.3#Reduction of fractions#114ex3.sce#1322/CH15/EX15.3/114ex3.sce#S##72881
+15#Fractions#15.2#Simplifying the factors#114ex2.sce#1322/CH15/EX15.2/114ex2.sce#S##72880
+15#Fractions#15.12#Solving algebraic fraction for n #117ex2.sce#1322/CH15/EX15.12/117ex2.sce#S##72891
+15#Fractions#15.11#solving simple equations involving algebraic fractions#117ex1.sce#1322/CH15/EX15.11/117ex1.sce#S##72890
+15#Fractions#15.10#Conversion of R in terms of R1 and R2#116ex5.sce#1322/CH15/EX15.10/116ex5.sce#S##72889
+15#Fractions#15.1#Algebraic fraction#114ex1.sce#1322/CH15/EX15.1/114ex1.sce#S##72879
+14#Factors#14.9#Factorize the  expression#104ex4.sce#1322/CH14/EX14.9/104ex4.sce#S##72864
+14#Factors#14.8#Factorize the given expression in terms of y#104ex3.sce#1322/CH14/EX14.8/104ex3.sce#S##72863
+14#Factors#14.7#Factorize the given expression in terms of x#104ex2.sce#1322/CH14/EX14.7/104ex2.sce#S##72862
+14#Factors#14.6#Factorize the given expression#104ex1.sce#1322/CH14/EX14.6/104ex1.sce#S##72861
+14#Factors#14.5#Factors of expression#102ex3.sce#1322/CH14/EX14.5/102ex3.sce#S##72860
+14#Factors#14.4#Factorize if possible#102ex2.sce#1322/CH14/EX14.4/102ex2.sce#S##72859
+14#Factors#14.3#Finding factors#102ex1.sce#1322/CH14/EX14.3/102ex1.sce#S##72858
+14#Factors#14.23#Area of ring between two concentric circles#109ex2.sce#1322/CH14/EX14.23/109ex2.sce#S##72878
+14#Factors#14.22#Difference of two squares#109ex1.sce#1322/CH14/EX14.22/109ex1.sce#S##72877
+14#Factors#14.21#Factorize the expression#108ex4.sce#1322/CH14/EX14.21/108ex4.sce#S##72876
+14#Factors#14.20#Factorize the given expression#108ex3.sce#1322/CH14/EX14.20/108ex3.sce#S##72875
+14#Factors#14.2#Factorize given expression#100ex2.sce#1322/CH14/EX14.2/100ex2.sce#S##72857
+14#Factors#14.19#Factorize the expression#108ex2.sce#1322/CH14/EX14.19/108ex2.sce#S##72874
+14#Factors#14.18#Factorize #108ex1.sce#1322/CH14/EX14.18/108ex1.sce#S##72873
+14#Factors#14.17#Checking complete square or not#106ex3.sce#1322/CH14/EX14.17/106ex3.sce#S##72872
+14#Factors#14.16#Checking complete square or not#106ex2.sce#1322/CH14/EX14.16/106ex2.sce#S##72871
+14#Factors#14.15#Representing square of binomial expression#106ex1.sce#1322/CH14/EX14.15/106ex1.sce#S##72870
+14#Factors#14.14#Factorize the given expression#105ex3.sce#1322/CH14/EX14.14/105ex3.sce#S##72869
+14#Factors#14.13#Factorize of expression#105ex2.sce#1322/CH14/EX14.13/105ex2.sce#S##72868
+14#Factors#14.12#Factors of expression#105ex1.sce#1322/CH14/EX14.12/105ex1.sce#S##72867
+14#Factors#14.11#Factorize #104ex6.sce#1322/CH14/EX14.11/104ex6.sce#S##72866
+14#Factors#14.10#Factorize #104ex5.sce#1322/CH14/EX14.10/104ex5.sce#S##72865
+14#Factors#14.1#factors of given expression#100ex1.sce#1322/CH14/EX14.1/100ex1.sce#S##72856
+13#Multiplication of algebraic expressions#13.9#Square of a trinomial#95ex.sce#1322/CH13/EX13.9/95ex.sce#S##72853
+13#Multiplication of algebraic expressions#13.8#Square of a binomial expression#94ex.sce#1322/CH13/EX13.8/94ex.sce#S##72852
+13#Multiplication of algebraic expressions#13.7#Product of a trinomial #93ex2.sce#1322/CH13/EX13.7/93ex2.sce#S##72851
+13#Multiplication of algebraic expressions#13.6#Multiplication of a trinomial#93ex1.sce#1322/CH13/EX13.6/93ex1.sce#S##72850
+13#Multiplication of algebraic expressions#13.5#Product of algebraic expressions#92ex4.sce#1322/CH13/EX13.5/92ex4.sce#S##72849
+13#Multiplication of algebraic expressions#13.4#Multiplication of algebraic expressions#92ex3.sce#1322/CH13/EX13.4/92ex3.sce#S##72848
+13#Multiplication of algebraic expressions#13.3#Multiplication of algebraic expressions#92ex2.sce#1322/CH13/EX13.3/92ex2.sce#S##72847
+13#Multiplication of algebraic expressions#13.2#Multiplication of algebraic expressions#92ex1.sce#1322/CH13/EX13.2/92ex1.sce#S##72846
+13#Multiplication of algebraic expressions#13.11#Product of sum and difference#97ex.sce#1322/CH13/EX13.11/97ex.sce#S##72855
+13#Multiplication of algebraic expressions#13.10#Cube of a binomial#96ex.sce#1322/CH13/EX13.10/96ex.sce#S##72854
+13#Multiplication of algebraic expressions#13.1#Product of binomial expressions#91ex.sce#1322/CH13/EX13.1/91ex.sce#S##72845
+12#Using inequalities to define regions#12.5#Minimum cost of feed#89ex2.sce#1322/CH12/EX12.5/89ex2.sce#S##72844
+12#Using inequalities to define regions#12.4#Finding maximum profit with linear programming#89ex1.sce#1322/CH12/EX12.4/89ex1.sce#S##72843
+12#Using inequalities to define regions#12.3#Greatest and least values in the region#88ex1.sce#1322/CH12/EX12.3/88ex1.sce#S##72842
+12#Using inequalities to define regions#12.2#Finding one point in the region described by inequalities#87ex2.sce#1322/CH12/EX12.2/87ex2.sce#S##72841
+12#Using inequalities to define regions#12.1#Graph the region described by inequalities#87ex1.sce#1322/CH12/EX12.1/87ex1.sce#S##72840
+11#The law of a straight line#11.6#Graphical solution of simultaneous equations#85ex1.sce#1322/CH11/EX11.6/85ex1.sce#S##72839
+11#The law of a straight line#11.5#Graphs of straight lines not passing through origins#84ex.sce#1322/CH11/EX11.5/84ex.sce#S##72838
+11#The law of a straight line#11.4#Graph of the equation#80ex2.sce#1322/CH11/EX11.4/80ex2.sce#S##72837
+11#The law of a straight line#11.3#Graph of the given equation #80ex1.sce#1322/CH11/EX11.3/80ex1.sce#S##72836
+11#The law of a straight line#11.2#The law represented by a straight line graph#78ex1.sce#1322/CH11/EX11.2/78ex1.sce#S##72835
+11#The law of a straight line#11.1#Connection between net profit and number of customers#77ex1.sce#1322/CH11/EX11.1/77ex1.sce#S##72830
+10#Graphical representation of Quantities#10.3#to show the relation between time and distance#76ex.sce#1322/CH10/EX10.3/76ex.sce#S##72821
+10#Graphical representation of Quantities#10.2#Resistance for given length of wires#75ex1.sce#1322/CH10/EX10.2/75ex1.sce#S##72820
+10#Graphical representation of Quantities#10.1#Annual premiums charged at various ages#74ex1.sce#1322/CH10/EX10.1/74ex1.sce#S##72819
+9#Linear Inequalities#9.9#Value of x satisfying the given inequalities#69ex3.sce#1322/CH9/EX9.9/69ex3.sce#S##72817
+9#Linear Inequalities#9.8#Finding positive values in inequalities #69ex2.sce#1322/CH9/EX9.8/69ex2.sce#S##72816
+9#Linear Inequalities#9.7#Satisfying both the inequalities #69ex1.sce#1322/CH9/EX9.7/69ex1.sce#S##72815
+9#Linear Inequalities#9.6#Solving the less than inequality #68ex4.sce#1322/CH9/EX9.6/68ex4.sce#S##72810
+9#Linear Inequalities#9.5#Solving the greater than or equal to inequality#68ex3.sce#1322/CH9/EX9.5/68ex3.sce#S##72805
+9#Linear Inequalities#9.4#Solving the greater than inequality #68ex2.sce#1322/CH9/EX9.4/68ex2.sce#S##72802
+9#Linear Inequalities#9.3#Solving the inequality#68ex1.sce#1322/CH9/EX9.3/68ex1.sce#S##72801
+9#Linear Inequalities#9.2.c#Representing inequality on number line#67ex2c.sce#1322/CH9/EX9.2.c/67ex2c.sce#S##72798
+9#Linear Inequalities#9.2.b#Number line representing n less than or equal to3#67ex2b.sce#1322/CH9/EX9.2.b/67ex2b.sce#S##72783
+9#Linear Inequalities#9.2.a#Number line representing inequality of n greater than 7#67ex2a.sce#1322/CH9/EX9.2.a/67ex2a.sce#S##72782
+9#Linear Inequalities#9.10#Values satisfying the inequalities#69ex4.sce#1322/CH9/EX9.10/69ex4.sce#S##72818
+9#Linear Inequalities#9.1.c#Inequality of n between 2 and 5 on 0 to 10 number line#67ex1c.sce#1322/CH9/EX9.1.c/67ex1c.sce#S##72781
+9#Linear Inequalities#9.1.b#Inequality of n greater than or equal to 6 on 0 to 10 number line#67ex1b.sce#1322/CH9/EX9.1.b/67ex1b.sce#S##72780
+9#Linear Inequalities#9.1.a#Inequality of n less than 3 on 0 to 10 number line#67ex1a.sce#1322/CH9/EX9.1.a/67ex1a.sce#S##72779
+8#Simultaneous Equations#8.7#total books sold and books sold at 25p#65ex3.sce#1322/CH8/EX8.7/65ex3.sce#S##72778
+8#Simultaneous Equations#8.6#Values of m and b#65ex2.sce#1322/CH8/EX8.6/65ex2.sce#S##72777
+8#Simultaneous Equations#8.5#numbers of simultaneous equations#65ex1.sce#1322/CH8/EX8.5/65ex1.sce#S##72776
+8#Simultaneous Equations#8.4#Finding R1 and R2 #63ex4.sce#1322/CH8/EX8.4/63ex4.sce#S##72775
+8#Simultaneous Equations#8.3#Solving the equation#63ex3.sce#1322/CH8/EX8.3/63ex3.sce#S##72774
+8#Simultaneous Equations#8.2#Finding x and y values from equation#63ex2.sce#1322/CH8/EX8.2/63ex2.sce#S##72773
+8#Simultaneous Equations#8.1#Solving the eqautions#63ex1.sce#1322/CH8/EX8.1/63ex1.sce#S##72772
+7#Formulae#7.9#Solving x#60ex2.sce#1322/CH7/EX7.9/60ex2.sce#S##72771
+7#Formulae#7.8#Solving the equation#60ex1.sce#1322/CH7/EX7.8/60ex1.sce#S##72770
+7#Formulae#7.7#Length of pendulum #58ex5.sce#1322/CH7/EX7.7/58ex5.sce#S##72769
+7#Formulae#7.6#Finding n#58ex4.sce#1322/CH7/EX7.6/58ex4.sce#S##72768
+7#Formulae#7.5#Finding velocity from equation#58ex3.sce#1322/CH7/EX7.5/58ex3.sce#S##72767
+7#Formulae#7.4#Transform L #58ex2.sce#1322/CH7/EX7.4/58ex2.sce#S##72764
+7#Formulae#7.3#Finding f and d terms#58ex1.sce#1322/CH7/EX7.3/58ex1.sce#S##72763
+7#Formulae#7.2#Finding L#56ex2.sce#1322/CH7/EX7.2/56ex2.sce#S##72762
+7#Formulae#7.1#Area of pyramid#56ex1.sce#1322/CH7/EX7.1/56ex1.sce#S##72761
+6#Linear Equations#6.9#Finding the weekly increase#53ex3.sce#1322/CH6/EX6.9/53ex3.sce#S##72972
+6#Linear Equations#6.8#Finding the distance#53ex2.sce#1322/CH6/EX6.8/53ex2.sce#S##72971
+6#Linear Equations#6.7#Number of men and women at dance party#53ex1.sce#1322/CH6/EX6.7/53ex1.sce#S##72970
+6#Linear Equations#6.6# equation solution#52ex4.sce#1322/CH6/EX6.6/52ex4.sce#S##72760
+6#Linear Equations#6.5#Equating 2 expressions#52ex3.sce#1322/CH6/EX6.5/52ex3.sce#S##72759
+6#Linear Equations#6.4#Solve equation#52ex2.sce#1322/CH6/EX6.4/52ex2.sce#S##72758
+6#Linear Equations#6.3#Solving the equation#52ex1.sce#1322/CH6/EX6.3/52ex1.sce#S##72757
+6#Linear Equations#6.2#Finding 3 consecutive odd numbers#51ex2.sce#1322/CH6/EX6.2/51ex2.sce#S##72756
+6#Linear Equations#6.1#Solving an equation#51ex1.sce#1322/CH6/EX6.1/51ex1.sce#S##72755
+5#Expressions and Equations#5.9#Inverse#48ex2.sce#1322/CH5/EX5.9/48ex2.sce#S##72750
+5#Expressions and Equations#5.8#Inverse of the rule#48ex1.sce#1322/CH5/EX5.8/48ex1.sce#S##72749
+5#Expressions and Equations#5.7.b#Composite rule gf#48sampleex2.sce#1322/CH5/EX5.7.b/48sampleex2.sce#S##72748
+5#Expressions and Equations#5.7.a#Composite rule fg#48sampleex1.sce#1322/CH5/EX5.7.a/48sampleex1.sce#S##72747
+5#Expressions and Equations#5.6.b#simplifying by removing brackets#47ex5_b.sce#1322/CH5/EX5.6.b/47ex5_b.sce#S##72746
+5#Expressions and Equations#5.6.a#drawing function machine#47ex5_a.sce#1322/CH5/EX5.6.a/47ex5_a.sce#S##72745
+5#Expressions and Equations#5.5.c#evaluate the expression#47ex4_c.sce#1322/CH5/EX5.5.c/47ex4_c.sce#S##72744
+5#Expressions and Equations#5.5.b#First 5 terms#47ex4_b.sce#1322/CH5/EX5.5.b/47ex4_b.sce#S##72743
+5#Expressions and Equations#5.5.a# Sequence terms#47ex4_a.sce#1322/CH5/EX5.5.a/47ex4_a.sce#S##72742
+5#Expressions and Equations#5.4.c#First 5 terms of the sequence#47ex3_c.sce#1322/CH5/EX5.4.c/47ex3_c.sce#S##72741
+5#Expressions and Equations#5.4.b#sequence#47ex3_b.sce#1322/CH5/EX5.4.b/47ex3_b.sce#S##72739
+5#Expressions and Equations#5.4.a#Terms of the sequence#47ex3_a.sce#1322/CH5/EX5.4.a/47ex3_a.sce#S##72740
+5#Expressions and Equations#5.3.b#Square and add#47ex2_b.sce#1322/CH5/EX5.3.b/47ex2_b.sce#S##72737
+5#Expressions and Equations#5.3.a# substitution in function machine#47ex2_a.sce#1322/CH5/EX5.3.a/47ex2_a.sce#S##72736
+5#Expressions and Equations#5.2.b#Value substitution in function machine#47ex1_b.sce#1322/CH5/EX5.2.b/47ex1_b.sce#S##72735
+5#Expressions and Equations#5.2.a#Using function machines#47ex1_a.sce#1322/CH5/EX5.2.a/47ex1_a.sce#S##72734
+5#Expressions and Equations#5.13#Finding n#49ex3.sce#1322/CH5/EX5.13/49ex3.sce#S##72754
+5#Expressions and Equations#5.12#Value of x#49ex2.sce#1322/CH5/EX5.12/49ex2.sce#S##72753
+5#Expressions and Equations#5.11#Finding x#49ex1.sce#1322/CH5/EX5.11/49ex1.sce#S##72752
+5#Expressions and Equations#5.10#Substitute number in the rule#48ex3.sce#1322/CH5/EX5.10/48ex3.sce#S##72751
+5#Expressions and Equations#5.1#Nth term of the sequence#46ex.sce#1322/CH5/EX5.1/46ex.sce#S##72731
+4#Positive and Negative numbers#4.1#Subtraction#41ex1.sce#1322/CH4/EX4.1/41ex1.sce#S##72730
+3#Brackets and Operations with Them#3.8#Simplifying brackets #31ex3.sce#1322/CH3/EX3.8/31ex3.sce#S##72729
+3#Brackets and Operations with Them#3.7#Multiple brackets#31ex2.sce#1322/CH3/EX3.7/31ex2.sce#S##72728
+3#Brackets and Operations with Them#3.6#Systems of brackets#31ex1.sce#1322/CH3/EX3.6/31ex1.sce#S##72727
+3#Brackets and Operations with Them#3.5#Substitution of values in algebraic expression#29ex5.sce#1322/CH3/EX3.5/29ex5.sce#S##72726
+3#Brackets and Operations with Them#3.4#Algebraic Difference#29ex4.sce#1322/CH3/EX3.4/29ex4.sce#S##72725
+3#Brackets and Operations with Them#3.3#Subtraction of expressions within brackets#29ex3.sce#1322/CH3/EX3.3/29ex3.sce#S##72724
+3#Brackets and Operations with Them#3.2#Addition of expressions within brackets#29ex2.sce#1322/CH3/EX3.2/29ex2.sce#S##72723
+3#Brackets and Operations with Them#3.1#Multiplication of expressions within brackets#29ex1.sce#1322/CH3/EX3.1/29ex1.sce#S##72722
+2#Elementary Operations#2.9#Subtraction of terms#25ex3.sce#1322/CH2/EX2.9/25ex3.sce#S##72716
+2#Elementary Operations#2.8#Addition of algebraic terms#25ex2.sce#1322/CH2/EX2.8/25ex2.sce#S##72715
+2#Elementary Operations#2.7#Sum of terms#25ex1.sce#1322/CH2/EX2.7/25ex1.sce#S##72714
+2#Elementary Operations#2.6#Algebraic division #23ex2.sce#1322/CH2/EX2.6/23ex2.sce#S##72713
+2#Elementary Operations#2.5#Division of powers#23ex1.sce#1322/CH2/EX2.5/23ex1.sce#S##72712
+2#Elementary Operations#2.4#Multiplication of powers of a number#21ex.sce#1322/CH2/EX2.4/21ex.sce#S##72711
+2#Elementary Operations#2.3#value of algebraic expression #18ex1.sce#1322/CH2/EX2.3/18ex1.sce#S##72710
+2#Elementary Operations#2.2#Minimizing the terms #16ex2.sce#1322/CH2/EX2.2/16ex2.sce#S##72709
+2#Elementary Operations#2.14#Division of algebraic terms #26ex3.sce#1322/CH2/EX2.14/26ex3.sce#S##72721
+2#Elementary Operations#2.13#Algebraic Multiplication#26ex2.sce#1322/CH2/EX2.13/26ex2.sce#S##72720
+2#Elementary Operations#2.12#Division of terms#26ex1.sce#1322/CH2/EX2.12/26ex1.sce#S##72719
+2#Elementary Operations#2.11#Algebraic subtraction#25ex5.sce#1322/CH2/EX2.11/25ex5.sce#S##72718
+2#Elementary Operations#2.10#simplification of algebraic expression#25ex4.sce#1322/CH2/EX2.10/25ex4.sce#S##72717
+2#Elementary Operations#2.1#simplifying #16ex1.sce#1322/CH2/EX2.1/16ex1.sce#S##72708
+1#The meaning of algebra#1.3#result in algebraic form#9ex3.sce#1322/CH1/EX1.3/9ex3.sce#S##72707
+1#The meaning of algebra#1.2#Distance car traveled  #9ex2.sce#1322/CH1/EX1.2/9ex2.sce#S##72706
+1#The meaning of algebra#1.1#Conversion of pounds to pence#9ex1.sce#1322/CH1/EX1.1/9ex1.sce#S##72705

@@ -1,0 +1,4 @@
+14. meter indication when Rx=0 is 100 micro-A (FSD)
+Rx for 0.25 FSD=45 K-ohm 
+Rx for 0.5 FSD=15 K-ohm 
+Rx for 0.75 FSD=5 K-ohm 

@@ -1,0 +1,72 @@
+15#Ionospheric Propagation#15.9.1#Find the virtual height#EX15_9_1.sce#2321/CH15/EX15.9.1/EX15_9_1.sce#S##92237
+15#Ionospheric Propagation#15.8.3#Calculate frequency#EX15_8_3.sce#2321/CH15/EX15.8.3/EX15_8_3.sce#S##92236
+15#Ionospheric Propagation#15.8.2#Critical Frequency#EX15_8_2.sce#2321/CH15/EX15.8.2/EX15_8_2.sce#S##92235
+15#Ionospheric Propagation#15.8.1#Maximum electron density#EX15_8_1.sce#2321/CH15/EX15.8.1/EX15_8_1.sce#S##92234
+15#Ionospheric Propagation#15.13.1#Calculate the range#EX15_13_1.sce#2321/CH15/EX15.13.1/EX15_13_1.sce#S##79268
+15#Ionospheric Propagation#15.12.1#Calculate MUF#EX15_12_1.sce#2321/CH15/EX15.12.1/EX15_12_1.sce#S##79267
+14#Ground Wave Propagation#14.6.2#Open circuit voltage#EX14_6_2.sce#2321/CH14/EX14.6.2/EX14_6_2.sce#S##92239
+14#Ground Wave Propagation#14.6.1#Loss and power received#EX14_6_1.sce#2321/CH14/EX14.6.1/EX14_6_1.sce#S##92238
+14#Ground Wave Propagation#14.10.6#Find Distance and field strength#EX14_10_6.sce#2321/CH14/EX14.10.6/EX14_10_6.sce#S##92245
+14#Ground Wave Propagation#14.10.5#Radio horizon distance#EX14_10_5.sce#2321/CH14/EX14.10.5/EX14_10_5.sce#S##92244
+14#Ground Wave Propagation#14.10.4#Required height of antenna#EX14_10_4.sce#2321/CH14/EX14.10.4/EX14_10_4.sce#S##92243
+14#Ground Wave Propagation#14.10.3#Maximum covered distance#EX14_10_3.sce#2321/CH14/EX14.10.3/EX14_10_3.sce#S##92242
+14#Ground Wave Propagation#14.10.2#Radio horizon#EX14_10_2.sce#2321/CH14/EX14.10.2/EX14_10_2.sce#S##92241
+14#Ground Wave Propagation#14.10.1#Calculate the range#EX14_10_1.sce#2321/CH14/EX14.10.1/EX14_10_1.sce#S##92240
+13#Antenna Measurement#13.4.1#Gains of Antennas#EX13_4_1.sce#2321/CH13/EX13.4.1/EX13_4_1.sce#S##92246
+12#Reflector Antennas#12.9.3#Gain Beamwidth and capture area#EX12_9_3.sce#2321/CH12/EX12.9.3/EX12_9_3.sce#S##92249
+12#Reflector Antennas#12.9.2#Diameter of mouth and HPBW#EX12_9_2.sce#2321/CH12/EX12.9.2/EX12_9_2.sce#S##92248
+12#Reflector Antennas#12.9.1#First null beam width and power gain#EX12_9_1.sce#2321/CH12/EX12.9.1/EX12_9_1.sce#S##92247
+11#Microstrip Antennas#11.9.1#Determine physical dimensions#EX11_9_1.sce#2321/CH11/EX11.9.1/EX11_9_1.sce#S##92250
+10#Broadband and frequency independent antenna#10.8.2#Design Equiangular spiral Antena#EX10_8_2.sce#2321/CH10/EX10.8.2/EX10_8_2.sce#S##92258
+10#Broadband and frequency independent antenna#10.8.1#Symmetrical two wire spiral#EX10_8_1.sce#2321/CH10/EX10.8.1/EX10_8_1.sce#S##92257
+10#Broadband and frequency independent antenna#10.5.4#Input Impedence HPBW and Axial ratio#EX10_5_4.sce#2321/CH10/EX10.5.4/EX10_5_4.sce#S##92256
+10#Broadband and frequency independent antenna#10.5.3#Various parameters of helix array#EX10_5_3.sce#2321/CH10/EX10.5.3/EX10_5_3.sce#S##92255
+10#Broadband and frequency independent antenna#10.5.2#Five turn helical antenna#EX10_5_2.sce#2321/CH10/EX10.5.2/EX10_5_2.sce#S##92254
+10#Broadband and frequency independent antenna#10.5.1#Five turn helical antenna#EX10_5_1.sce#2321/CH10/EX10.5.1/EX10_5_1.sce#S##92253
+10#Broadband and frequency independent antenna#10.10.2#Design a log periodic dipole#EX10_10_2.sce#2321/CH10/EX10.10.2/EX10_10_2.sce#S##92252
+10#Broadband and frequency independent antenna#10.10.1#Elements length and spacing#EX10_10_1.sce#2321/CH10/EX10.10.1/EX10_10_1.sce#S##92251
+9#Horn Antenna#9.6.2#Various parameters of horn#EX9_6_2.sce#2321/CH9/EX9.6.2/EX9_6_2.sce#S##92260
+9#Horn Antenna#9.6.1#Capture Area#EX9_6_1.sce#2321/CH9/EX9.6.1/EX9_6_1.sce#S##92259
+8#Slot Antenna#8.3.1#Input Impedence#EX8_3_1.sce#2321/CH8/EX8.3.1/EX8_3_1.sce#S##92261
+7#Loop Antenna#7.10.6#Directivity#EX7_10_6.sce#2321/CH7/EX7.10.6/EX7_10_6.sce#S##92267
+7#Loop Antenna#7.10.5#Radiation Efficiency#EX7_10_5.sce#2321/CH7/EX7.10.5/EX7_10_5.sce#S##92266
+7#Loop Antenna#7.10.4#Radiation Resistance#EX7_10_4.sce#2321/CH7/EX7.10.4/EX7_10_4.sce#S##92265
+7#Loop Antenna#7.10.3#Find the field strength#EX7_10_3.sce#2321/CH7/EX7.10.3/EX7_10_3.sce#S##92264
+7#Loop Antenna#7.10.2#Voltage induced in lop#EX7_10_2.sce#2321/CH7/EX7.10.2/EX7_10_2.sce#S##92263
+7#Loop Antenna#7.10.1#Input Voltage#EX7_10_1.sce#2321/CH7/EX7.10.1/EX7_10_1.sce#S##92262
+6#Antenna Arrays#6.8.2#Half Power Beam Width#EX6_8_2.sce#2321/CH6/EX6.8.2/EX6_8_2.sce#S##92277
+6#Antenna Arrays#6.8.1#Ordinary endfire array#EX6_8_1.sce#2321/CH6/EX6.8.1/EX6_8_1.sce#S##92276
+6#Antenna Arrays#6.6.2#Various parameters of isotropic array#EX6_6_2.sce#2321/CH6/EX6.6.2/EX6_6_2.sce#S##92275
+6#Antenna Arrays#6.6.1#Location of first null#EX6_6_1.sce#2321/CH6/EX6.6.1/EX6_6_1.sce#S##92274
+6#Antenna Arrays#6.2.3#Field pattern#EX6_2_3.sce#2321/CH6/EX6.2.3/EX6_2_3.sce#S##92273
+6#Antenna Arrays#6.2.2#Radiation patern#EX6_2_2.sce#2321/CH6/EX6.2.2/EX6_2_2.sce#S##92272
+6#Antenna Arrays#6.2.1#Relative field pattern#EX6_2_1.sce#2321/CH6/EX6.2.1/EX6_2_1.sce#S##92271
+6#Antenna Arrays#6.14.1#Four Element broadside array#EX6_14_1.sce#2321/CH6/EX6.14.1/EX6_14_1.sce#S##97236
+6#Antenna Arrays#6.10.2#Design ordinary endfire array#EX6_10_2.sce#2321/CH6/EX6.10.2/EX6_10_2.sce#S##92269
+6#Antenna Arrays#6.10.1#Find the Directivity#EX6_10_1.sce#2321/CH6/EX6.10.1/EX6_10_1.sce#S##92268
+4#Linear Wire Antennas#4.9.5#Radiation Resistance#EX4_9_5.sce#2321/CH4/EX4.9.5/EX4_9_5.sce#S##92299
+4#Linear Wire Antennas#4.9.4#Radiation Resistance#EX4_9_4.sce#2321/CH4/EX4.9.4/EX4_9_4.sce#S##92298
+4#Linear Wire Antennas#4.9.3#Power radiated and efficiency#EX4_9_3.sce#2321/CH4/EX4.9.3/EX4_9_3.sce#S##92297
+4#Linear Wire Antennas#4.9.2#Radiation resistance and power#EX4_9_2.sce#2321/CH4/EX4.9.2/EX4_9_2.sce#S##92296
+4#Linear Wire Antennas#4.9.1#Power radiated#EX4_9_1.sce#2321/CH4/EX4.9.1/EX4_9_1.sce#S##92295
+4#Linear Wire Antennas#4.6.1#Current required#EX4_6_1.sce#2321/CH4/EX4.6.1/EX4_6_1.sce#S##92294
+4#Linear Wire Antennas#4.5.1#Effective area#EX4_5_1.sce#2321/CH4/EX4.5.1/EX4_5_1.sce#S##92293
+4#Linear Wire Antennas#4.2.1#Er Etheta and Hfi#EX4_2_1.sce#2321/CH4/EX4.2.1/EX4_2_1.sce#S##92292
+3#Fundamental parameters of Antenna#3.8.1#Exact and Approximate Directivity#EX3_8_1.sce#2321/CH3/EX3.8.1/EX3_8_1.sce#S##92291
+3#Fundamental parameters of Antenna#3.3.3#Half Power Beam width #EX3_3_3.sce#2321/CH3/EX3.3.3/EX3_3_3.sce#S##92290
+3#Fundamental parameters of Antenna#3.3.2#HPBW and FNBW#EX3_3_2.sce#2321/CH3/EX3.3.2/EX3_3_2.sce#S##92289
+3#Fundamental parameters of Antenna#3.3.1#Half Power Beam Width#EX3_3_1.sce#2321/CH3/EX3.3.1/EX3_3_1.sce#S##92288
+3#Fundamental parameters of Antenna#3.17.3#Power delivered to load#EX3_17_3.sce#2321/CH3/EX3.17.3/EX3_17_3.sce#S##92287
+3#Fundamental parameters of Antenna#3.17.2#Calculate the power#EX3_17_2.sce#2321/CH3/EX3.17.2/EX3_17_2.sce#S##92286
+3#Fundamental parameters of Antenna#3.17.1#Find the power delivered#EX3_17_1.sce#2321/CH3/EX3.17.1/EX3_17_1.sce#S##92285
+3#Fundamental parameters of Antenna#3.16.2#Directivity of Antenna#EX3_16_2.sce#2321/CH3/EX3.16.2/EX3_16_2.sce#S##92284
+3#Fundamental parameters of Antenna#3.16.1#Maximum effective aperture and power#EX3_16_1.sce#2321/CH3/EX3.16.1/EX3_16_1.sce#S##79192
+3#Fundamental parameters of Antenna#3.15.1#Polarization Loss factor#EX3_15_1.sce#2321/CH3/EX3.15.1/EX3_15_1.sce#S##79191
+3#Fundamental parameters of Antenna#3.13.4#Effective length#EX3_13_4.sce#2321/CH3/EX3.13.4/EX3_13_4.sce#S##79190
+3#Fundamental parameters of Antenna#3.13.3#Maximum Effective Aperture#EX3_13_3.sce#2321/CH3/EX3.13.3/EX3_13_3.sce#S##92283
+3#Fundamental parameters of Antenna#3.13.2#Current Drawn#EX3_13_2.sce#2321/CH3/EX3.13.2/EX3_13_2.sce#S##92282
+3#Fundamental parameters of Antenna#3.13.1#Radiation Resistance#EX3_13_1.sce#2321/CH3/EX3.13.1/EX3_13_1.sce#S##92281
+3#Fundamental parameters of Antenna#3.11.2#Directivity in dB#EX3_11_2.sce#2321/CH3/EX3.11.2/EX3_11_2.sce#S##92280
+3#Fundamental parameters of Antenna#3.11.1#Gain in dB#EX3_11_1.sce#2321/CH3/EX3.11.1/EX3_11_1.sce#S##92279
+3#Fundamental parameters of Antenna#3.10.1#Power radiated#EX3_10_1.sce#2321/CH3/EX3.10.1/EX3_10_1.sce#S##79184
+1#Review of Electromagnetics and Transmission Lines#1.1.1#Find the wavelengths#EX1_1_1.sce#2321/CH1/EX1.1.1/EX1_1_1.sce#S##92278

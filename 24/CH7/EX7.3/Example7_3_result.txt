@@ -1,0 +1,5 @@
+**Sample Problem 7-3a**
+The work done is equal to -6J
+
+**Sample Problem 7-3b**
+The final kinetic energy of the crate is 4J 

@@ -1,0 +1,2 @@
+ Example 11.4
+ Yield stress for a grain size of ASTM 9 is 179 MN m^-2 

@@ -1,0 +1,9 @@
+(i)	 Daily load factor=70.51 % 
+
+(ii)	 Average demand per day=183333 kW 
+
+	 Plant capacity factor =61.11 % 
+
+(iii)	Fuel required per day = 1258.4 tons 
+
+

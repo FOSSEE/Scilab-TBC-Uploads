@@ -1,0 +1,6 @@
+# PROBLEM 32 # 
+ Standard formula used 
+
+ E = m*c^2 
+
+ Amount of work to be done is equal to 3.406667e-14 J. 

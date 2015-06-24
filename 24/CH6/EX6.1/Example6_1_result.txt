@@ -1,0 +1,2 @@
+**Sample Problem 6-1**
+The inital velocity of that car would have been 58.398630 m/s 

@@ -1,0 +1,4 @@
+(a)The value of Emitter Resistance of the BJT circuit is 1.40e+003 ohm 
+(b)The value of Resistance-1 of the BJT circuit is 2.28e+004 ohm 
+(c)The value of Resistance-2 of the BJT circuit is 3.42e+003 ohm 
+ 

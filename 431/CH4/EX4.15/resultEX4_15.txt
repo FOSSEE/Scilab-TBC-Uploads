@@ -1,0 +1,6 @@
+  
+ Example 4.15   
+Synchronous speed=1500rpmFull-load slip with rotor resistance,R2 i.e. S1=4.000000 
+ on adding extra resistance o.1ohm   
+
+New rotor speed=1380rpm

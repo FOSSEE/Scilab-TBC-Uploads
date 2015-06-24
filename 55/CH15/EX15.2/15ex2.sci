@@ -1,0 +1,15 @@
+D=[1,2,5,7,10,14,35,70];
+a = 2;  //a and b belong to D
+b = 14;
+V=int32([a,b]);
+thelcm=lcm(V)
+V=int32([a,b]);
+thegcd=gcd(V)
+abar=70/a
+bbar=70/b
+j=[abar,b];
+h=[a,bbar];
+V=int32([j])
+lcm1=lcm(V)
+K=int32([h])
+lcm2=lcm(K)

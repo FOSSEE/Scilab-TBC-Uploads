@@ -1,0 +1,13 @@
+SINGLE PHASE SYSTEM: 
+Voltage drop = 0.15*I1 V 
+Also voltage drop = 1650 V 
+Load current = I1 = 11000 A 
+Power recieved by consumer = 9.68*10^4 kW 
+
+DC TWO WIRE SYSTEM: 
+Load current = I2 = 96800000/V A 
+Voltage drop = 96800000.00*0.050/V 
+Allowable voltage drop = 0.25 V 
+V = 4400 V 
+
+

@@ -1,0 +1,209 @@
+11#Hilbert Transform Continuous and Discrete#11.6#Hilbert Transform#example_11_6.sce#1592/CH11/EX11.6/example_11_6.sce#S##63014
+11#Hilbert Transform Continuous and Discrete#11.6#Hilbert Transform#Fig11_6_1.jpg#1592/CH11/EX11.6/Fig11_6_1.jpg#R##63015
+11#Hilbert Transform Continuous and Discrete#11.6#Hilbert Transform#Fig11_6_2.jpg#1592/CH11/EX11.6/Fig11_6_2.jpg#R##63016
+11#Hilbert Transform Continuous and Discrete#11.3#Hilbert Transform#example_11_3.sce#1592/CH11/EX11.3/example_11_3.sce#S##63011
+11#Hilbert Transform Continuous and Discrete#11.3#Hilbert Transform#Fig11_3_1.jpg#1592/CH11/EX11.3/Fig11_3_1.jpg#R##63012
+11#Hilbert Transform Continuous and Discrete#11.3#Hilbert Transform#Fig11_3_2.jpg#1592/CH11/EX11.3/Fig11_3_2.jpg#R##63013
+11#Hilbert Transform Continuous and Discrete#11.2#Hilbert Transform#example_11_2.sce#1592/CH11/EX11.2/example_11_2.sce#S##63008
+11#Hilbert Transform Continuous and Discrete#11.2#Hilbert Transform#Fig11_2_1.jpg#1592/CH11/EX11.2/Fig11_2_1.jpg#R##63009
+11#Hilbert Transform Continuous and Discrete#11.2#Hilbert Transform#Fig11_2_2.jpg#1592/CH11/EX11.2/Fig11_2_2.jpg#R##63010
+11#Hilbert Transform Continuous and Discrete#11.1#Hilbert Transform#example_11_1.sce#1592/CH11/EX11.1/example_11_1.sce#S##63005
+11#Hilbert Transform Continuous and Discrete#11.1#Hilbert Transform#Fig11_1_1.jpg#1592/CH11/EX11.1/Fig11_1_1.jpg#R##63006
+11#Hilbert Transform Continuous and Discrete#11.1#Hilbert Transform#Fig11_1_2.jpg#1592/CH11/EX11.1/Fig11_1_2.jpg#R##63007
+10#Discrete Time Convolution and Correlation#10.8#Auto Correlation#example_10_8.sce#1592/CH10/EX10.8/example_10_8.sce#S##63001
+10#Discrete Time Convolution and Correlation#10.8#Auto Correlation#Fig10_8.jpg#1592/CH10/EX10.8/Fig10_8.jpg#R##63002
+10#Discrete Time Convolution and Correlation#10.5#Auto Correlation#example_10_5.sce#1592/CH10/EX10.5/example_10_5.sce#S##62999
+10#Discrete Time Convolution and Correlation#10.5#Auto Correlation#Fig10_5.jpg#1592/CH10/EX10.5/Fig10_5.jpg#R##63000
+10#Discrete Time Convolution and Correlation#10.4#Auto Correlation#example_10_4.sce#1592/CH10/EX10.4/example_10_4.sce#S##62997
+10#Discrete Time Convolution and Correlation#10.4#Auto Correlation#Fig10_4.jpg#1592/CH10/EX10.4/Fig10_4.jpg#R##62998
+10#Discrete Time Convolution and Correlation#10.2#Cross Correlation Sequence#example_10_2.sce#1592/CH10/EX10.2/example_10_2.sce#S##62995
+10#Discrete Time Convolution and Correlation#10.2#Cross Correlation Sequence#Fig10_2.jpg#1592/CH10/EX10.2/Fig10_2.jpg#R##62996
+10#Discrete Time Convolution and Correlation#10.11#System response#example_10_11.sce#1592/CH10/EX10.11/example_10_11.sce#S##63003
+10#Discrete Time Convolution and Correlation#10.11#System response#Fig10_11.jpg#1592/CH10/EX10.11/Fig10_11.jpg#R##63004
+10#Discrete Time Convolution and Correlation#10.1#Cross Correlation#example_10_1.sce#1592/CH10/EX10.1/example_10_1.sce#S##62993
+10#Discrete Time Convolution and Correlation#10.1#Cross Correlation#Fig10_1.jpg#1592/CH10/EX10.1/Fig10_1.jpg#R##62994
+9#Convolution and Correlation Continuous Time Signals#9.7#Autocorrelation#example_9_7.sce#1592/CH9/EX9.7/example_9_7.sce#S##62987
+9#Convolution and Correlation Continuous Time Signals#9.7#Autocorrelation#Fig9_7_1.jpg#1592/CH9/EX9.7/Fig9_7_1.jpg#R##62988
+9#Convolution and Correlation Continuous Time Signals#9.7#Autocorrelation#Fig9_7_2.jpg#1592/CH9/EX9.7/Fig9_7_2.jpg#R##62989
+9#Convolution and Correlation Continuous Time Signals#9.6#Autocorrelation#example_9_6.sce#1592/CH9/EX9.6/example_9_6.sce#S##62984
+9#Convolution and Correlation Continuous Time Signals#9.6#Autocorrelation#Fig9_6_1.jpg#1592/CH9/EX9.6/Fig9_6_1.jpg#R##62985
+9#Convolution and Correlation Continuous Time Signals#9.6#Autocorrelation#Fig9_6_2.jpg#1592/CH9/EX9.6/Fig9_6_2.jpg#R##62986
+9#Convolution and Correlation Continuous Time Signals#9.5#Autocorrelation#example_9_5.sce#1592/CH9/EX9.5/example_9_5.sce#S##62981
+9#Convolution and Correlation Continuous Time Signals#9.5#Autocorrelation#Fig9_5_1.jpg#1592/CH9/EX9.5/Fig9_5_1.jpg#R##62982
+9#Convolution and Correlation Continuous Time Signals#9.5#Autocorrelation#Fig9_5_2.jpg#1592/CH9/EX9.5/Fig9_5_2.jpg#R##62983
+9#Convolution and Correlation Continuous Time Signals#9.4#Autocorrelation#example_9_4.sce#1592/CH9/EX9.4/example_9_4.sce#S##62979
+9#Convolution and Correlation Continuous Time Signals#9.4#Autocorrelation#Fig9_4.jpg#1592/CH9/EX9.4/Fig9_4.jpg#R##62980
+9#Convolution and Correlation Continuous Time Signals#9.3#Convolution#example_9_3.sce#1592/CH9/EX9.3/example_9_3.sce#S##62977
+9#Convolution and Correlation Continuous Time Signals#9.3#Convolution#Fig9_3_3.jpg#1592/CH9/EX9.3/Fig9_3_3.jpg#R##62978
+9#Convolution and Correlation Continuous Time Signals#9.11#PSD#example_9_11.sce#1592/CH9/EX9.11/example_9_11.sce#S##62991
+9#Convolution and Correlation Continuous Time Signals#9.11#PSD#Fig9_11.jpg#1592/CH9/EX9.11/Fig9_11.jpg#R##62992
+9#Convolution and Correlation Continuous Time Signals#9.10#Autocorrelation Function#example_9_10.sce#1592/CH9/EX9.10/example_9_10.sce#S##62990
+9#Convolution and Correlation Continuous Time Signals#9.1#Convolution#example_9_1.sce#1592/CH9/EX9.1/example_9_1.sce#S##62975
+9#Convolution and Correlation Continuous Time Signals#9.1#Convolution#Fig9_1.jpg#1592/CH9/EX9.1/Fig9_1.jpg#R##62976
+8#Systems Time and Frequency Domain Analysis#8.9#Transfer function by block diagram reduction#Example_8_9.sce#1592/CH8/EX8.9/Example_8_9.sce#S##62971
+8#Systems Time and Frequency Domain Analysis#8.8#Transfer function#Example_8_8.sce#1592/CH8/EX8.8/Example_8_8.sce#S##62970
+8#Systems Time and Frequency Domain Analysis#8.5#System function#Example_8_5.sce#1592/CH8/EX8.5/Example_8_5.sce#S##62968
+8#Systems Time and Frequency Domain Analysis#8.5#System function#Fig8_5.jpg#1592/CH8/EX8.5/Fig8_5.jpg#R##62969
+8#Systems Time and Frequency Domain Analysis#8.4#system response#Example_8_4.sce#1592/CH8/EX8.4/Example_8_4.sce#S##62966
+8#Systems Time and Frequency Domain Analysis#8.4#system response#Fig8_4.jpg#1592/CH8/EX8.4/Fig8_4.jpg#R##62967
+8#Systems Time and Frequency Domain Analysis#8.3#Magnitude and Phase Responses#Example_8_3.sce#1592/CH8/EX8.3/Example_8_3.sce#S##62767
+8#Systems Time and Frequency Domain Analysis#8.3#Magnitude and Phase Responses#Fig8_3_1.jpg#1592/CH8/EX8.3/Fig8_3_1.jpg#R##62768
+8#Systems Time and Frequency Domain Analysis#8.3#Magnitude and Phase Responses#Fig8_3_2.jpg#1592/CH8/EX8.3/Fig8_3_2.jpg#R##62769
+8#Systems Time and Frequency Domain Analysis#8.2#Transfer Function of system#Example_8_2.sce#1592/CH8/EX8.2/Example_8_2.sce#S##62764
+8#Systems Time and Frequency Domain Analysis#8.2#Transfer Function of system#Fig8_2.jpg#1592/CH8/EX8.2/Fig8_2.jpg#R##62765
+8#Systems Time and Frequency Domain Analysis#8.13#Parallel form realization#Example_8_13.sce#1592/CH8/EX8.13/Example_8_13.sce#S##62974
+8#Systems Time and Frequency Domain Analysis#8.12#Transfer function Realization#Example_8_12.sce#1592/CH8/EX8.12/Example_8_12.sce#S##62973
+8#Systems Time and Frequency Domain Analysis#8.10#Realization Structure#Example_8_10.sce#1592/CH8/EX8.10/Example_8_10.sce#S##62972
+8#Systems Time and Frequency Domain Analysis#8.1#Magnitude and Phase Responses#Example_8_1.sce#1592/CH8/EX8.1/Example_8_1.sce#S##62761
+8#Systems Time and Frequency Domain Analysis#8.1#Magnitude and Phase Responses#Fig8_1_1.jpg#1592/CH8/EX8.1/Fig8_1_1.jpg#R##62762
+8#Systems Time and Frequency Domain Analysis#8.1#Magnitude and Phase Responses#Fig8_1_2.jpg#1592/CH8/EX8.1/Fig8_1_2.jpg#R##62763
+7#Systems#7.9#Properties of System#Example_7_9.sce#1592/CH7/EX7.9/Example_7_9.sce#S##62733
+7#Systems#7.8#Properties of System#Example_7_8.sce#1592/CH7/EX7.8/Example_7_8.sce#S##62732
+7#Systems#7.7#Properties of System#Example_7_7.sce#1592/CH7/EX7.7/Example_7_7.sce#S##62731
+7#Systems#7.6#System Properties#Example_7_6.sce#1592/CH7/EX7.6/Example_7_6.sce#S##62729
+7#Systems#7.5#System Properties#Example_7_5.sce#1592/CH7/EX7.5/Example_7_5.sce#S##62728
+7#Systems#7.4#System Properties#Example_7_4.sce#1592/CH7/EX7.4/Example_7_4.sce#S##62727
+7#Systems#7.33#Magnitude and Phase Response#Example_7_33.sce#1592/CH7/EX7.33/Example_7_33.sce#S##62757
+7#Systems#7.33#Magnitude and Phase Response#Fig7_33_1.jpg#1592/CH7/EX7.33/Fig7_33_1.jpg#R##62758
+7#Systems#7.33#Magnitude and Phase Response#Fig7_33_2.jpg#1592/CH7/EX7.33/Fig7_33_2.jpg#R##62759
+7#Systems#7.3#System Properties#Example_7_3.sce#1592/CH7/EX7.3/Example_7_3.sce#S##62726
+7#Systems#7.25#Step response#Example_7_25.sce#1592/CH7/EX7.25/Example_7_25.sce#S##62755
+7#Systems#7.25#Step response#Fig7_25.jpg#1592/CH7/EX7.25/Fig7_25.jpg#R##62756
+7#Systems#7.24#Step Response#Example_7_24.sce#1592/CH7/EX7.24/Example_7_24.sce#S##62753
+7#Systems#7.24#Step Response#Fig7_24.jpg#1592/CH7/EX7.24/Fig7_24.jpg#R##62754
+7#Systems#7.23#Convolution#Example_7_23.sce#1592/CH7/EX7.23/Example_7_23.sce#S##62751
+7#Systems#7.23#Convolution#Fig7_23_3.jpg#1592/CH7/EX7.23/Fig7_23_3.jpg#R##62752
+7#Systems#7.22#Convolution#Example_7_22.sce#1592/CH7/EX7.22/Example_7_22.sce#S##62749
+7#Systems#7.22#Convolution#Fig7_22_3.jpg#1592/CH7/EX7.22/Fig7_22_3.jpg#R##62750
+7#Systems#7.19#Convolution#Example_7_19.sce#1592/CH7/EX7.19/Example_7_19.sce#S##62746
+7#Systems#7.19#Convolution#Fig7_19_3.jpg#1592/CH7/EX7.19/Fig7_19_3.jpg#R##62747
+7#Systems#7.15#Impulse and Step Response#Example_7_15.sce#1592/CH7/EX7.15/Example_7_15.sce#S##62741
+7#Systems#7.15#Impulse and Step Response#Fig7_15_1.jpg#1592/CH7/EX7.15/Fig7_15_1.jpg#R##62742
+7#Systems#7.15#Impulse and Step Response#Fig7_15_2.jpg#1592/CH7/EX7.15/Fig7_15_2.jpg#R##62743
+7#Systems#7.14#Impulse and Step response#Example_7_14.sce#1592/CH7/EX7.14/Example_7_14.sce#S##62738
+7#Systems#7.14#Impulse and Step response#Fig7_14_1.jpg#1592/CH7/EX7.14/Fig7_14_1.jpg#R##62739
+7#Systems#7.14#Impulse and Step response#Fig7_14_2.jpg#1592/CH7/EX7.14/Fig7_14_2.jpg#R##62740
+7#Systems#7.11#Convolution#Example_7_11.sce#1592/CH7/EX7.11/Example_7_11.sce#S##62735
+7#Systems#7.11#Convolution#Fig7_11_3.jpg#1592/CH7/EX7.11/Fig7_11_3.jpg#R##62736
+7#Systems#7.10#Output of an LTI#Example_7_10.sce#1592/CH7/EX7.10/Example_7_10.sce#S##62734
+7#Systems#7.10#Output of an LTI#Fig7_10.jpg#1592/CH7/EX7.10/Fig7_10.jpg#R##62737
+7#Systems#7.1#Properties of System#Example_7_1.sce#1592/CH7/EX7.1/Example_7_1.sce#S##62724
+6#Sampling and Reconstruction of Bandlimited Signals#6.8#Minimum Sampling Frequency#Example_6_8.sce#1592/CH6/EX6.8/Example_6_8.sce#S##62723
+6#Sampling and Reconstruction of Bandlimited Signals#6.6#Sampling Frequency#Example_6_6.sce#1592/CH6/EX6.6/Example_6_6.sce#S##62722
+6#Sampling and Reconstruction of Bandlimited Signals#6.5#LPF output#Example_6_5.sce#1592/CH6/EX6.5/Example_6_5.sce#S##62719
+6#Sampling and Reconstruction of Bandlimited Signals#6.5#LPF output#Fig6_5_1.jpg#1592/CH6/EX6.5/Fig6_5_1.jpg#R##62720
+6#Sampling and Reconstruction of Bandlimited Signals#6.5#LPF output#Fig6_5_2.jpg#1592/CH6/EX6.5/Fig6_5_2.jpg#R##62721
+6#Sampling and Reconstruction of Bandlimited Signals#6.4#Minimum Sampling Frequency#Example_6_4.sce#1592/CH6/EX6.4/Example_6_4.sce#S##62718
+6#Sampling and Reconstruction of Bandlimited Signals#6.3#Minimum Number of samples#Example_6_3.sce#1592/CH6/EX6.3/Example_6_3.sce#S##62716
+6#Sampling and Reconstruction of Bandlimited Signals#6.2#Sampling and Reconstruction#Example_6_2.sce#1592/CH6/EX6.2/Example_6_2.sce#S##62713
+6#Sampling and Reconstruction of Bandlimited Signals#6.2#Sampling and Reconstruction#Fig6_2_1.jpg#1592/CH6/EX6.2/Fig6_2_1.jpg#R##62714
+6#Sampling and Reconstruction of Bandlimited Signals#6.2#Sampling and Reconstruction#Fig6_2_2.jpg#1592/CH6/EX6.2/Fig6_2_2.jpg#R##62715
+6#Sampling and Reconstruction of Bandlimited Signals#6.1#Sampling and Reconstruction#Example_6_1.sce#1592/CH6/EX6.1/Example_6_1.sce#S##62710
+6#Sampling and Reconstruction of Bandlimited Signals#6.1#Sampling and Reconstruction#Fig6_1_1.jpg#1592/CH6/EX6.1/Fig6_1_1.jpg#R##62711
+6#Sampling and Reconstruction of Bandlimited Signals#6.1#Sampling and Reconstruction#Fig6_1_2.jpg#1592/CH6/EX6.1/Fig6_1_2.jpg#R##62712
+5#Fourier Representation of Discrete Time Signals#5.9.iii#DTFT#Example_5_9_iii.sce#1592/CH5/EX5.9.iii/Example_5_9_iii.sce#S##62701
+5#Fourier Representation of Discrete Time Signals#5.9.ii#DTFT#Example_5_9_ii.sce#1592/CH5/EX5.9.ii/Example_5_9_ii.sce#S##62700
+5#Fourier Representation of Discrete Time Signals#5.9.i#DTFT#Example5_9_i.sce#1592/CH5/EX5.9.i/Example5_9_i.sce#S##62699
+5#Fourier Representation of Discrete Time Signals#5.5#Fourier series#Example5_5.sce#1592/CH5/EX5.5/Example5_5.sce#S##62698
+5#Fourier Representation of Discrete Time Signals#5.4#Inverse Fourier#Example5_4.sce#1592/CH5/EX5.4/Example5_4.sce#S##62694
+5#Fourier Representation of Discrete Time Signals#5.4#Inverse Fourier#Fig5_4_1.jpg#1592/CH5/EX5.4/Fig5_4_1.jpg#R##62695
+5#Fourier Representation of Discrete Time Signals#5.4#Inverse Fourier#Fig5_4_2.jpg#1592/CH5/EX5.4/Fig5_4_2.jpg#R##62696
+5#Fourier Representation of Discrete Time Signals#5.3#Inverse Fourier#Example5_3.sce#1592/CH5/EX5.3/Example5_3.sce#S##62691
+5#Fourier Representation of Discrete Time Signals#5.3#Inverse Fourier#Fig5_3_1.jpg#1592/CH5/EX5.3/Fig5_3_1.jpg#R##62692
+5#Fourier Representation of Discrete Time Signals#5.3#Inverse Fourier#Fig5_3_2.jpg#1592/CH5/EX5.3/Fig5_3_2.jpg#R##62693
+5#Fourier Representation of Discrete Time Signals#5.2#DTFT and Spectra#Example5_2.sce#1592/CH5/EX5.2/Example5_2.sce#S##62688
+5#Fourier Representation of Discrete Time Signals#5.2#DTFT and Spectra#Fig5_2_2.jpg#1592/CH5/EX5.2/Fig5_2_2.jpg#R##62689
+5#Fourier Representation of Discrete Time Signals#5.2#DTFT and Spectra#Fig5_2_3.jpg#1592/CH5/EX5.2/Fig5_2_3.jpg#R##62690
+5#Fourier Representation of Discrete Time Signals#5.18#DFT coefficients#Example_5_18.sce#1592/CH5/EX5.18/Example_5_18.sce#S##62709
+5#Fourier Representation of Discrete Time Signals#5.16#DTFT#Example5_16.sce#1592/CH5/EX5.16/Example5_16.sce#S##62708
+5#Fourier Representation of Discrete Time Signals#5.14#Circular Convolution#Example5_14.sce#1592/CH5/EX5.14/Example5_14.sce#S##62707
+5#Fourier Representation of Discrete Time Signals#5.13#Circular Convolution#Example5_13.sce#1592/CH5/EX5.13/Example5_13.sce#S##62706
+5#Fourier Representation of Discrete Time Signals#5.11#Inverse Fourier#Example5_11.sce#1592/CH5/EX5.11/Example5_11.sce#S##62703
+5#Fourier Representation of Discrete Time Signals#5.11#Inverse Fourier#Fig5_11_1.jpg#1592/CH5/EX5.11/Fig5_11_1.jpg#R##62704
+5#Fourier Representation of Discrete Time Signals#5.11#Inverse Fourier#Fig5_11_2.jpg#1592/CH5/EX5.11/Fig5_11_2.jpg#R##62705
+5#Fourier Representation of Discrete Time Signals#5.1#DTFT#Example5_1.sce#1592/CH5/EX5.1/Example5_1.sce#S##62685
+5#Fourier Representation of Discrete Time Signals#5.1#DTFT#Fig5_1_1.jpg#1592/CH5/EX5.1/Fig5_1_1.jpg#R##62686
+5#Fourier Representation of Discrete Time Signals#5.1#DTFT#Fig5_1_2.jpg#1592/CH5/EX5.1/Fig5_1_2.jpg#R##62687
+4#The Continuous Time Fourier Transform#4.7#Energy in Signal#example_4_7.sce#1592/CH4/EX4.7/example_4_7.sce#S##62676
+4#The Continuous Time Fourier Transform#4.6#Convolution#example_4_6.sce#1592/CH4/EX4.6/example_4_6.sce#S##62674
+4#The Continuous Time Fourier Transform#4.6#Convolution#Fig4_6.jpg#1592/CH4/EX4.6/Fig4_6.jpg#R##62675
+4#The Continuous Time Fourier Transform#4.5#Fourier Transform#example_4_5.sce#1592/CH4/EX4.5/example_4_5.sce#S##62671
+4#The Continuous Time Fourier Transform#4.5#Fourier Transform#Fig4_5_1.jpg#1592/CH4/EX4.5/Fig4_5_1.jpg#R##62672
+4#The Continuous Time Fourier Transform#4.5#Fourier Transform#Fig4_5_2.jpg#1592/CH4/EX4.5/Fig4_5_2.jpg#R##62673
+4#The Continuous Time Fourier Transform#4.4#Energy at output#example_4_4.sce#1592/CH4/EX4.4/example_4_4.sce#S##62670
+4#The Continuous Time Fourier Transform#4.3#Magnitude and Phase Spectra#example_4_3.sce#1592/CH4/EX4.3/example_4_3.sce#S##62667
+4#The Continuous Time Fourier Transform#4.3#Magnitude and Phase Spectra#Fig4_3_1.jpg#1592/CH4/EX4.3/Fig4_3_1.jpg#R##62668
+4#The Continuous Time Fourier Transform#4.3#Magnitude and Phase Spectra#Fig4_3_2.jpg#1592/CH4/EX4.3/Fig4_3_2.jpg#R##62669
+4#The Continuous Time Fourier Transform#4.2#Magnitude and Phase Spectra#example_4_2.sce#1592/CH4/EX4.2/example_4_2.sce#S##62664
+4#The Continuous Time Fourier Transform#4.2#Magnitude and Phase Spectra#Fig4_2_1.jpg#1592/CH4/EX4.2/Fig4_2_1.jpg#R##62665
+4#The Continuous Time Fourier Transform#4.2#Magnitude and Phase Spectra#Fig4_2_2.jpg#1592/CH4/EX4.2/Fig4_2_2.jpg#R##62666
+4#The Continuous Time Fourier Transform#4.17#Fourier Transform#example_4_17.sce#1592/CH4/EX4.17/example_4_17.sce#S##62682
+4#The Continuous Time Fourier Transform#4.17#Fourier Transform#Fig4_17_1.jpg#1592/CH4/EX4.17/Fig4_17_1.jpg#R##62683
+4#The Continuous Time Fourier Transform#4.17#Fourier Transform#Fig4_17_2.jpg#1592/CH4/EX4.17/Fig4_17_2.jpg#R##62684
+4#The Continuous Time Fourier Transform#4.14#Fourier Transform#example_4_14.sce#1592/CH4/EX4.14/example_4_14.sce#S##62678
+4#The Continuous Time Fourier Transform#4.14#Fourier Transform#Fig4_14_1.jpg#1592/CH4/EX4.14/Fig4_14_1.jpg#R##62679
+4#The Continuous Time Fourier Transform#4.14#Fourier Transform#Fig4_14_2.jpg#1592/CH4/EX4.14/Fig4_14_2.jpg#R##62680
+4#The Continuous Time Fourier Transform#4.11#Fourier Transform#example_4_11.sce#1592/CH4/EX4.11/example_4_11.sce#S##62677
+4#The Continuous Time Fourier Transform#4.1#Magnitude and Phase Spectra#example_4_1.sce#1592/CH4/EX4.1/example_4_1.sce#S##62661
+4#The Continuous Time Fourier Transform#4.1#Magnitude and Phase Spectra#Fig4_1_1.jpg#1592/CH4/EX4.1/Fig4_1_1.jpg#R##62662
+4#The Continuous Time Fourier Transform#4.1#Magnitude and Phase Spectra#Fig4_1_2.jpg#1592/CH4/EX4.1/Fig4_1_2.jpg#R##62663
+3#Fourier Series of Continuous Time Signals#3.18#Trignometric Series#example_3_18.sce#1592/CH3/EX3.18/example_3_18.sce#S##62660
+3#Fourier Series of Continuous Time Signals#3.17#Complex Fourier Exponential Series#example_3_17.sce#1592/CH3/EX3.17/example_3_17.sce#S##62657
+3#Fourier Series of Continuous Time Signals#3.17#Complex Fourier Exponential Series#Fig3_17_1.jpg#1592/CH3/EX3.17/Fig3_17_1.jpg#R##62658
+3#Fourier Series of Continuous Time Signals#3.17#Complex Fourier Exponential Series#Fig3_17_2.jpg#1592/CH3/EX3.17/Fig3_17_2.jpg#R##62659
+3#Fourier Series of Continuous Time Signals#3.16#Complex Fourier Exponential Series#example_3_16.sce#1592/CH3/EX3.16/example_3_16.sce#S##62655
+3#Fourier Series of Continuous Time Signals#3.16#Complex Fourier Exponential Series#Fig3_16.jpg#1592/CH3/EX3.16/Fig3_16.jpg#R##62656
+3#Fourier Series of Continuous Time Signals#3.14#Complex Fourier Exponential Series#example_3_14.sce#1592/CH3/EX3.14/example_3_14.sce#S##62652
+3#Fourier Series of Continuous Time Signals#3.14#Complex Fourier Exponential Series#Fig3_14_1.jpg#1592/CH3/EX3.14/Fig3_14_1.jpg#R##62653
+3#Fourier Series of Continuous Time Signals#3.14#Complex Fourier Exponential Series#Fig3_14_2.jpg#1592/CH3/EX3.14/Fig3_14_2.jpg#R##62654
+3#Fourier Series of Continuous Time Signals#3.13#Complex Fourier Exponential Series#example_3_13.sce#1592/CH3/EX3.13/example_3_13.sce#S##62649
+3#Fourier Series of Continuous Time Signals#3.13#Complex Fourier Exponential Series#Fig3_13_1.jpg#1592/CH3/EX3.13/Fig3_13_1.jpg#R##62650
+3#Fourier Series of Continuous Time Signals#3.13#Complex Fourier Exponential Series#Fig3_13_2.jpg#1592/CH3/EX3.13/Fig3_13_2.jpg#R##62651
+2#Laplace and Z Transform#2.9#Circuit Current#example_2_9.sce#1592/CH2/EX2.9/example_2_9.sce#S##62630
+2#Laplace and Z Transform#2.8#Inverse Laplace Transform#example_2_8.sce#1592/CH2/EX2.8/example_2_8.sce#S##62629
+2#Laplace and Z Transform#2.7#Inverse Laplace Transform#example_2_7.sce#1592/CH2/EX2.7/example_2_7.sce#S##62628
+2#Laplace and Z Transform#2.6#Circuit Current#example_2_6.sce#1592/CH2/EX2.6/example_2_6.sce#S##62626
+2#Laplace and Z Transform#2.40#Inverse Z Transform#Example_2_40.sce#1592/CH2/EX2.40/Example_2_40.sce#S##62648
+2#Laplace and Z Transform#2.4#Laplace Transform#example_2_4.sce#1592/CH2/EX2.4/example_2_4.sce#S##62625
+2#Laplace and Z Transform#2.39#Inverse Z Transform#Example_2_39.sce#1592/CH2/EX2.39/Example_2_39.sce#S##62647
+2#Laplace and Z Transform#2.38.b#Inverse Z Transform#example_2_38_ii_.sce#1592/CH2/EX2.38.b/example_2_38_ii_.sce#S##62645
+2#Laplace and Z Transform#2.38.a#Inverse Z Transform#example_2_38_i_.sce#1592/CH2/EX2.38.a/example_2_38_i_.sce#S##62646
+2#Laplace and Z Transform#2.37#Inverse Z Transform#example_2_37.sce#1592/CH2/EX2.37/example_2_37.sce#S##62643
+2#Laplace and Z Transform#2.3#Initial Value Theorem#example_2_3.sce#1592/CH2/EX2.3/example_2_3.sce#S##62624
+2#Laplace and Z Transform#2.29#Z Transform#example_2_29.sce#1592/CH2/EX2.29/example_2_29.sce#S##62642
+2#Laplace and Z Transform#2.21#Unilateral Z Transform#Example_2_21.sce#1592/CH2/EX2.21/Example_2_21.sce#S##62641
+2#Laplace and Z Transform#2.2#Inverse Laplace#example_2_2.sce#1592/CH2/EX2.2/example_2_2.sce#S##62623
+2#Laplace and Z Transform#2.19#Laplace Transform#Example_2_19.sce#1592/CH2/EX2.19/Example_2_19.sce#S##62639
+2#Laplace and Z Transform#2.19#Laplace Transform#Fig2_19.jpg#1592/CH2/EX2.19/Fig2_19.jpg#R##62640
+2#Laplace and Z Transform#2.17#Laplace Transform#Example_2_17.sce#1592/CH2/EX2.17/Example_2_17.sce#S##62637
+2#Laplace and Z Transform#2.17#Laplace Transform#Fig2_17.jpg#1592/CH2/EX2.17/Fig2_17.jpg#R##62638
+2#Laplace and Z Transform#2.16#Laplace Transform#Example_2_16.sce#1592/CH2/EX2.16/Example_2_16.sce#S##62635
+2#Laplace and Z Transform#2.16#Laplace Transform#Fig2_16.jpg#1592/CH2/EX2.16/Fig2_16.jpg#R##62636
+2#Laplace and Z Transform#2.15#Laplace Transform#example_2_15.sce#1592/CH2/EX2.15/example_2_15.sce#S##62632
+2#Laplace and Z Transform#2.15#Laplace Transform#Fig2_15.jpg#1592/CH2/EX2.15/Fig2_15.jpg#R##62633
+2#Laplace and Z Transform#2.10#Laplace Transform#example_2_10.sce#1592/CH2/EX2.10/example_2_10.sce#S##62631
+2#Laplace and Z Transform#2.1#Laplace Transform#example_2_1.sce#1592/CH2/EX2.1/example_2_1.sce#S##62620
+1#Signals Continuous and Discrete time#1.7#Even and odd Components#Example1_7.sce#1592/CH1/EX1.7/Example1_7.sce#S##62601
+1#Signals Continuous and Discrete time#1.7#Even and odd Components#Fig1_7_1.jpg#1592/CH1/EX1.7/Fig1_7_1.jpg#R##62602
+1#Signals Continuous and Discrete time#1.7#Even and odd Components#Fig1_7_2.jpg#1592/CH1/EX1.7/Fig1_7_2.jpg#R##62603
+1#Signals Continuous and Discrete time#1.6#Fundamental Period#Example1_6.sce#1592/CH1/EX1.6/Example1_6.sce#S##62599
+1#Signals Continuous and Discrete time#1.6#Fundamental Period#Fig1_6.jpg#1592/CH1/EX1.6/Fig1_6.jpg#R##62600
+1#Signals Continuous and Discrete time#1.5#Fundamental Period#Example1_5.sce#1592/CH1/EX1.5/Example1_5.sce#S##62597
+1#Signals Continuous and Discrete time#1.5#Fundamental Period#Fig1_5.jpg#1592/CH1/EX1.5/Fig1_5.jpg#R##62598
+1#Signals Continuous and Discrete time#1.4#Fundamental Period#Example1_4.sce#1592/CH1/EX1.4/Example1_4.sce#S##62595
+1#Signals Continuous and Discrete time#1.4#Fundamental Period#Fig1_4.jpg#1592/CH1/EX1.4/Fig1_4.jpg#R##62596
+1#Signals Continuous and Discrete time#1.3.b#Periodicity and fundamental period#Example1_3b_.sce#1592/CH1/EX1.3.b/Example1_3b_.sce#S##62592
+1#Signals Continuous and Discrete time#1.3.b#Periodicity and fundamental period#Fig1_3_b.jpg#1592/CH1/EX1.3.b/Fig1_3_b.jpg#R##62593
+1#Signals Continuous and Discrete time#1.3.a#Periodicity#Example1_3_a.sce#1592/CH1/EX1.3.a/Example1_3_a.sce#S##62589
+1#Signals Continuous and Discrete time#1.3.a#Periodicity#Fig1_3_a.jpg#1592/CH1/EX1.3.a/Fig1_3_a.jpg#R##62590
+1#Signals Continuous and Discrete time#1.13#Plot at a particular sampling frequency#Example1_13.sce#1592/CH1/EX1.13/Example1_13.sce#S##62617
+1#Signals Continuous and Discrete time#1.13#Plot at a particular sampling frequency#Fig1_13.jpg#1592/CH1/EX1.13/Fig1_13.jpg#R##62618
+1#Signals Continuous and Discrete time#1.12#Time Scaling#Example1_12.sce#1592/CH1/EX1.12/Example1_12.sce#S##62614
+1#Signals Continuous and Discrete time#1.12#Time Scaling#Fig1_12_1.jpg#1592/CH1/EX1.12/Fig1_12_1.jpg#R##62615
+1#Signals Continuous and Discrete time#1.12#Time Scaling#Fig1_12_2.jpg#1592/CH1/EX1.12/Fig1_12_2.jpg#R##62616
+1#Signals Continuous and Discrete time#1.11#Waveforms#Example1_11.sce#1592/CH1/EX1.11/Example1_11.sce#S##62605
+1#Signals Continuous and Discrete time#1.11#Waveforms#Fig1_11_3.jpg#1592/CH1/EX1.11/Fig1_11_3.jpg#R##62613
+1#Signals Continuous and Discrete time#1.11#Waveforms#Fig1_11_2.jpg#1592/CH1/EX1.11/Fig1_11_2.jpg#R##62609
+1#Signals Continuous and Discrete time#1.1#Finding Fundamental Period#Example1_1.sce#1592/CH1/EX1.1/Example1_1.sce#S##62587
+1#Signals Continuous and Discrete time#1.1#Finding Fundamental Period#Fig1_11_2.jpg#1592/CH1/EX1.1/Fig1_11_2.jpg#R##62610
+1#Signals Continuous and Discrete time#1.1#Finding Fundamental Period#Fig1_11_3.jpg#1592/CH1/EX1.1/Fig1_11_3.jpg#R##62611

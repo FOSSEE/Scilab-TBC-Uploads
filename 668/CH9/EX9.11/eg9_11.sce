@@ -1,0 +1,21 @@
+kT = 26*10^-3; //in eV
+q = 1.6*10^-19;
+ni = 1.5*10^10;
+eps0 = 8.85*10^-14; //in F/m
+eps = 11.9*eps0;
+eps1 = 3.9*eps0;
+Na = 10^14;
+dox = 500*10^-8;
+phiMS = -0.83;
+t = 0.1*10^-4;
+dVt = 0.5;
+phiF = kT*log(Na/ni);
+disp(phiF,"The Fermi level position (in V) for the device = ")
+Qs = (4*eps*phiF*q*Na)^0.5;
+Vt = phiMS+2*phiF + (Qs*dox/eps1);
+disp(Vt,"The threshold voltage (in V) = ")
+disp("In this device there is an inversion layer formed even at zero gate bias and the device is in the depletion mode. To increase the threshold voltage by + 0.5 V, i.e., to convert the device into an enhancement-mode device, we need to place more negative charge in the channel. If we assume that the excess acceptors are placed close to the semiconductor-oxide region (i.e., within the distance Wmax), the shift in threshold voltage is simply (Na2D is the areal density of the acceptors implanted)")
+Na2D = dVt/dox*eps1/q;
+disp(Na2D, "the areal density (in per cm2) of the acceptors implanted = ")
+Na1 = Na2D/t;
+disp(Na1,"The dopants are distributed over a thickness of 0.1 μm, the dopant density (in per cm3) = ")

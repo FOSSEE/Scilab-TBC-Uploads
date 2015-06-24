@@ -1,0 +1,5 @@
+ # Problem 6 # 
+
+ Standard formula Used 
+ delta_lambda = h * (1 - cos (theta )) / ( m_e * c)
+ Change in wavelength of electron is 0.024264  Angstrom. 

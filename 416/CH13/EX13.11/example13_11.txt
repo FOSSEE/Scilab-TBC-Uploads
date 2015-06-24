@@ -1,0 +1,12 @@
+
+ example 13 11   
+ 
+ a   
+fault MVA =(g/x)+(g*(n-1)/(x+nd)) 
+ fault level is to equal to fault MVA if n=infinity 
+ b   
+ MVA=138.89MVA if n=5 
+ MVA=178.57MVA if n=10 
+ c   
+
+fault level 250MVA 

@@ -1,0 +1,5 @@
+ # Problem 5 # 
+
+ Standard formula Used 
+ phi = h * nu
+ Longest wavelength to eject electron is 2070  Angstroms. 

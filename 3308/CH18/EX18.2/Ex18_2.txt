@@ -1,0 +1,4 @@
+ # Injection Molding of Parts # 
+
+
+ Number of gears that can be injected =2 

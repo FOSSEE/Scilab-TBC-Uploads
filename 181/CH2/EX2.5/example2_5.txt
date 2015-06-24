@@ -1,0 +1,5 @@
+(a)We have C_t/A = sqrt((e*epsnl)/2)*sqrt(Na/Vj)
+sqrt((e*epsln)/2) = 2.91e-016
+Hence C_t = 2.91e-016 * sqrt(Na/Vj) F/cm^2
+Or C_t = 2.91e-004 * sqrt(Na/Vj) pF/cm^2
+(b)The depletion layer capacitance = 68.84 pF 

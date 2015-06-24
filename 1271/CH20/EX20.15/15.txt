@@ -1,0 +1,5 @@
+ # PROBLEM 15 # 
+Standard formula used 
+  nu = a*(Z-b)^2 ........Moseley law 
+
+ Wavelength of the corresponding radiation of Cu is 1.522334 Angstrom.

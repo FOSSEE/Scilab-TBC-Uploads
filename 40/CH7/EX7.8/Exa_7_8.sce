@@ -1,0 +1,31 @@
+clf();
+X=[0 0.5 1 0.5];
+XF=[X 0];
+WF=[X X X 0];
+f=-0.5:0.25:0.5;
+f1=-0.75:0.125:0.75;
+HF=[0 1 1 1 0];
+f2=[-0.126,-0.125:0.125:0.125,0.126];
+for i=1:5
+    YF(i)=WF(i)*HF(i);
+end
+f3=[-0.126 -0.125 0 0.125 0.126];
+a=gca();
+a.y_location="origin";
+subplot(211);
+plot2d(f,XF);
+xtitle('spectrum of XF');
+a.y_location="origin";
+subplot(212);
+plot2d(f1,WF);
+xtitle('spectrum of WF');
+xset('window',1);
+b=gca();
+b.y_location="origin";
+subplot(211);
+plot2d(f2,HF);
+xtitle('spectrum of HF');
+b.y_location="origin";
+subplot(212);
+plot2d(f3,YF);
+xtitle('spectrum of YF');

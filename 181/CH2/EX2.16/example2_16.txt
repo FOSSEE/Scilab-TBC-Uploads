@@ -1,0 +1,7 @@
+ At T = 20 degrees:
+V_T = 0.0253 V
+(a)I = 4.251e-004 A
+At T = 100 degrees:
+V_T = 0.0322 V
+I_s doubles 8 times ie I_s = 256.Therefore,
+(b)I = 0.001 A 

@@ -1,0 +1,6 @@
+# PROBLEM 8 # 
+Standard formula used 
+ mu=tan(Ip)
+
+ Polarizing angle for glass is 57 degree.
+ Corresponding angle of refraction is 33 degree.

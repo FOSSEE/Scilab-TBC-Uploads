@@ -1,0 +1,4 @@
+ # Calculation of Punch Force# 
+
+
+ Extrusion force=0.171092 MN 

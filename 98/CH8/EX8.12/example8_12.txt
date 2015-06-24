@@ -1,0 +1,6 @@
+At Junction A : C1 = 0.167 C
+At Junction B : C2 = 0.400 C
+At Junction C : C3 = 0.750 C
+At Junction D : C4 = 1.333 C
+At Junction E : C5 = 2.500 C
+At Junction F : C6 = 6.000 C

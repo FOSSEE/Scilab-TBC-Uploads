@@ -1,0 +1,3 @@
+Insulation thickness = 1.25 cm 
+
+

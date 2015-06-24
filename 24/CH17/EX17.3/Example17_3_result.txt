@@ -1,0 +1,2 @@
+**Sample Problem 17-3**
+The pulse on string2 will reach the knot first 

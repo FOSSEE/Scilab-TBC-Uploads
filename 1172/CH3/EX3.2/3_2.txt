@@ -1,0 +1,5 @@
+ # Problem 2 # 
+
+ Standard formula Used 
+ E = h * (nu1 – nu2)
+ Energy of photoelectrons emitted is 1.031250  eV

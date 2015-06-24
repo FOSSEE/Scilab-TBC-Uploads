@@ -1,0 +1,1 @@
+ Output power = 7.918550e-05 watt.  

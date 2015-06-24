@@ -1,0 +1,2 @@
+ (a)  The speed limit in m/hr = 37.3 mi/hr
+(b)  The speed limit in ft/s = 54.7 ft/s 

@@ -1,0 +1,5 @@
+# PROBLEM 13 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N  
+
+ Number of orders visible is 19.

@@ -1,0 +1,114 @@
+18#Refrigeration#18.6#hp and cop calculations#Ex18_6.sce#2735/CH18/EX18.6/Ex18_6.sce#S##103060
+18#Refrigeration#18.5#Work done and heat calculations#Ex18_5.sce#2735/CH18/EX18.5/Ex18_5.sce#S##103059
+18#Refrigeration#18.4#Pressure ratio calculations#Ex18_4.sce#2735/CH18/EX18.4/Ex18_4.sce#S##103056
+18#Refrigeration#18.3#work done and cop calculations#Ex18_3.sce#2735/CH18/EX18.3/Ex18_3.sce#S##98498
+18#Refrigeration#18.2#cop calculation#Ex18_2.sce#2735/CH18/EX18.2/Ex18_2.sce#S##98497
+18#Refrigeration#18.1#Work and cop calculations#Ex18_1.sce#2735/CH18/EX18.1/Ex18_1.sce#S##98496
+17#Gas cycles and processes#17.1#Efficiency and air fuel ratio Equilibrium calculations#Ex17_1.sce#2735/CH17/EX17.1/Ex17_1.sce#S##98495
+16#Combustion#16.9#Air fuel ratio calculations#Ex16_9.sce#2735/CH16/EX16.9/Ex16_9.sce#S##103041
+16#Combustion#16.8#Air fuel ratio calculations#Ex16_8.sce#2735/CH16/EX16.8/Ex16_8.sce#S##98482
+16#Combustion#16.7#Air fuel ratio calculations#Ex16_7.sce#2735/CH16/EX16.7/Ex16_7.sce#S##98481
+16#Combustion#16.6#Percentage calculations#Ex16_6.sce#2735/CH16/EX16.6/Ex16_6.sce#S##98480
+16#Combustion#16.4#Mass and energy calculations#Ex16_4.sce#2735/CH16/EX16.4/Ex16_4.sce#S##103038
+16#Combustion#16.3#Air fuel ratio calculations#Ex16_3.sce#2735/CH16/EX16.3/Ex16_3.sce#S##98478
+16#Combustion#16.20#Extent of reaction#Ex16_20.sce#2735/CH16/EX16.20/Ex16_20.sce#S##98493
+16#Combustion#16.2#Molecule formulation#Ex16_2.sce#2735/CH16/EX16.2/Ex16_2.sce#S##103039
+16#Combustion#16.19#Dissociation calculations#Ex16_19.sce#2735/CH16/EX16.19/Ex16_19.sce#S##98492
+16#Combustion#16.18#Equilibrium calculations#Ex16_18.sce#2735/CH16/EX16.18/Ex16_18.sce#S##98494
+16#Combustion#16.17#Temperature calculations#Ex16_17.sce#2735/CH16/EX16.17/Ex16_17.sce#S##103055
+16#Combustion#16.16#Heat of reaction#Ex16_16.sce#2735/CH16/EX16.16/Ex16_16.sce#S##103051
+16#Combustion#16.15#Lower heating value#Ex16_15.sce#2735/CH16/EX16.15/Ex16_15.sce#S##103049
+16#Combustion#16.14#Higher heating value#Ex16_14.sce#2735/CH16/EX16.14/Ex16_14.sce#S##103048
+16#Combustion#16.13#Equation formulation#Ex16_13.sce#2735/CH16/EX16.13/Ex16_13.sce#S##103047
+16#Combustion#16.12#Air fuel ratio calculations#Ex16_12.sce#2735/CH16/EX16.12/Ex16_12.sce#S##103046
+16#Combustion#16.11#Air fuel ratio calculations#Ex16_11.sce#2735/CH16/EX16.11/Ex16_11.sce#S##103045
+16#Combustion#16.10#Air fuel ratio calculations#Ex16_10.sce#2735/CH16/EX16.10/Ex16_10.sce#S##103043
+16#Combustion#16.1#Molecule formulation#Ex16_1.sce#2735/CH16/EX16.1/Ex16_1.sce#S##98476
+15#Vapor cycles and processes#15.6#Efficiency calculations#Ex15_6.sce#2735/CH15/EX15.6/Ex15_6.sce#S##98475
+15#Vapor cycles and processes#15.5#Efficiency and pressure calculations#Ex15_5.sce#2735/CH15/EX15.5/Ex15_5.sce#S##98474
+15#Vapor cycles and processes#15.4#Efficiency calculations#Ex15_4.sce#2735/CH15/EX15.4/Ex15_4.sce#S##98473
+15#Vapor cycles and processes#15.3#Efficiency calculations#Ex15_3.sce#2735/CH15/EX15.3/Ex15_3.sce#S##98472
+15#Vapor cycles and processes#15.2#Efficiency calculations#Ex15_2.sce#2735/CH15/EX15.2/Ex15_2.sce#S##98471
+15#Vapor cycles and processes#15.1#Efficiency calculations#Ex15_1.sce#2735/CH15/EX15.1/Ex15_1.sce#S##98470
+14#Psychrometrics#14.9#Dry bulb calculations#Ex14_9.sce#2735/CH14/EX14.9/Ex14_9.sce#S##98467
+14#Psychrometrics#14.8#Enthalpy and temperature calculations#Ex14_8.sce#2735/CH14/EX14.8/Ex14_8.sce#S##103031
+14#Psychrometrics#14.7#Enthalpy change calculations#Ex14_7.sce#2735/CH14/EX14.7/Ex14_7.sce#S##103030
+14#Psychrometrics#14.6#Humidity calculations#Ex14_6.sce#2735/CH14/EX14.6/Ex14_6.sce#S##103029
+14#Psychrometrics#14.5#Enthalpy calculations#Ex14_5.sce#2735/CH14/EX14.5/Ex14_5.sce#S##98463
+14#Psychrometrics#14.4#Enthalpy and sigma function calculations#Ex14_4.sce#2735/CH14/EX14.4/Ex14_4.sce#S##98462
+14#Psychrometrics#14.3#Humidity calculations#Ex14_3.sce#2735/CH14/EX14.3/Ex14_3.sce#S##103027
+14#Psychrometrics#14.2#Moisture content calculation#Ex14_2.sce#2735/CH14/EX14.2/Ex14_2.sce#S##98460
+14#Psychrometrics#14.11#Heat calculations#Ex14_11.sce#2735/CH14/EX14.11/Ex14_11.sce#S##103033
+14#Psychrometrics#14.10#Approach calculations#Ex14_10.sce#2735/CH14/EX14.10/Ex14_10.sce#S##98468
+14#Psychrometrics#14.1#Pressure and density calculations#Ex14_1.sce#2735/CH14/EX14.1/Ex14_1.sce#S##98459
+13#Fluid Flow#13.9#Heat calculation#Ex13_9.sce#2735/CH13/EX13.9/Ex13_9.sce#S##98450
+13#Fluid Flow#13.8#Pressure calculation#Ex13_8.sce#2735/CH13/EX13.8/Ex13_8.sce#S##98449
+13#Fluid Flow#13.7#Change in entropy calculation#Ex13_7.sce#2735/CH13/EX13.7/Ex13_7.sce#S##98448
+13#Fluid Flow#13.6#Length calculation#Ex13_6.sce#2735/CH13/EX13.6/Ex13_6.sce#S##98447
+13#Fluid Flow#13.5#Area calculations#Ex13_5.sce#2735/CH13/EX13.5/Ex13_5.sce#S##98446
+13#Fluid Flow#13.4#velocity and flow rate calculations#Ex13_4.sce#2735/CH13/EX13.4/Ex13_4.sce#S##98445
+13#Fluid Flow#13.3#Area calculations#Ex13_3.sce#2735/CH13/EX13.3/Ex13_3.sce#S##98444
+13#Fluid Flow#13.2#Area calculations#Ex13_2.sce#2735/CH13/EX13.2/Ex13_2.sce#S##98443
+13#Fluid Flow#13.17#Mass flow rate calculation#Ex13_17.sce#2735/CH13/EX13.17/Ex13_17.sce#S##98458
+13#Fluid Flow#13.16#Pressure drop calculation#Ex13_16.sce#2735/CH13/EX13.16/Ex13_16.sce#S##98457
+13#Fluid Flow#13.15#Area of discharge calculation#Ex13_15.sce#2735/CH13/EX13.15/Ex13_15.sce#S##98456
+13#Fluid Flow#13.14#Area calculations#Ex13_14.sce#2735/CH13/EX13.14/Ex13_14.sce#S##98455
+13#Fluid Flow#13.13#Area calculations#Ex13_13.sce#2735/CH13/EX13.13/Ex13_13.sce#S##98454
+13#Fluid Flow#13.12#Mass flow rate calculation#Ex13_12.sce#2735/CH13/EX13.12/Ex13_12.sce#S##98453
+13#Fluid Flow#13.11#Mass flow rate calculation#Ex13_11.sce#2735/CH13/EX13.11/Ex13_11.sce#S##98452
+13#Fluid Flow#13.10#Thrust calculation#Ex13_10.sce#2735/CH13/EX13.10/Ex13_10.sce#S##98451
+13#Fluid Flow#13.1#Velocity and area calculations#Ex13_1.sce#2735/CH13/EX13.1/Ex13_1.sce#S##103026
+12#Non steady flow friction and availability#12.8#Loss and effectiveness calculations#Ex12_8.sce#2735/CH12/EX12.8/Ex12_8.sce#S##98441
+12#Non steady flow friction and availability#12.7#Loss and effectiveness calculations#Ex12_7.sce#2735/CH12/EX12.7/Ex12_7.sce#S##103025
+12#Non steady flow friction and availability#12.6#Loss and effectiveness calculations#Ex12_6.sce#2735/CH12/EX12.6/Ex12_6.sce#S##98439
+12#Non steady flow friction and availability#12.5#Mass rate calculation#Ex12_5.sce#2735/CH12/EX12.5/Ex12_5.sce#S##103024
+12#Non steady flow friction and availability#12.4#Pressure drop calculation#Ex12_4.sce#2735/CH12/EX12.4/Ex12_4.sce#S##103023
+12#Non steady flow friction and availability#12.3#Energy loss calculations#Ex12_3.sce#2735/CH12/EX12.3/Ex12_3.sce#S##98436
+12#Non steady flow friction and availability#12.2#Friction calculations#Ex12_2.sce#2735/CH12/EX12.2/Ex12_2.sce#S##98435
+12#Non steady flow friction and availability#12.1#Work done calculation#Ex12_1.sce#2735/CH12/EX12.1/Ex12_1.sce#S##98433
+11#The Ideal gas and mixture relationships#11.9#Pressure and temperature calculations#Ex11_9.sce#2735/CH11/EX11.9/Ex11_9.sce#S##98425
+11#The Ideal gas and mixture relationships#11.8#Internal energy and entropy calculations#Ex11_8.sce#2735/CH11/EX11.8/Ex11_8.sce#S##98424
+11#The Ideal gas and mixture relationships#11.7#Entropy calculations#Ex11_7.sce#2735/CH11/EX11.7/Ex11_7.sce#S##98422
+11#The Ideal gas and mixture relationships#11.6#Analysis calculations#Ex11_6.sce#2735/CH11/EX11.6/Ex11_6.sce#S##98421
+11#The Ideal gas and mixture relationships#11.5#Weight calculations#Ex11_5.sce#2735/CH11/EX11.5/Ex11_5.sce#S##98420
+11#The Ideal gas and mixture relationships#11.4#Temperature work and Enthalpy calculations#Ex11_4.sce#2735/CH11/EX11.4/Ex11_4.sce#S##98419
+11#The Ideal gas and mixture relationships#11.3#Temperature calculation#Ex11_3.sce#2735/CH11/EX11.3/Ex11_3.sce#S##98417
+11#The Ideal gas and mixture relationships#11.2#Kinetic energy calculation#Ex11_2.sce#2735/CH11/EX11.2/Ex11_2.sce#S##98416
+11#The Ideal gas and mixture relationships#11.14#Partial Pressure calculations#Ex11_14.sce#2735/CH11/EX11.14/Ex11_14.sce#S##98432
+11#The Ideal gas and mixture relationships#11.13#Percentage calculation#Ex11_13.sce#2735/CH11/EX11.13/Ex11_13.sce#S##98431
+11#The Ideal gas and mixture relationships#11.12#Volume and mass calculations#Ex11_12.sce#2735/CH11/EX11.12/Ex11_12.sce#S##98430
+11#The Ideal gas and mixture relationships#11.11#Entropy calculations#Ex11_11.sce#2735/CH11/EX11.11/Ex11_11.sce#S##98429
+11#The Ideal gas and mixture relationships#11.10#Entropy calculations#Ex11_10.sce#2735/CH11/EX11.10/Ex11_10.sce#S##98427
+11#The Ideal gas and mixture relationships#11.1#Work calculation#Ex11_1.sce#2735/CH11/EX11.1/Ex11_1.sce#S##98415
+10#The Pvt relationships#10.3#Pressure calculations#Ex10_3.sce#2735/CH10/EX10.3/Ex10_3.sce#S##98413
+10#The Pvt relationships#10.2#volume calculation#Ex10_2.sce#2735/CH10/EX10.2/Ex10_2.sce#S##98414
+10#The Pvt relationships#10.1#Pressure calculations#Ex10_1.sce#2735/CH10/EX10.1/Ex10_1.sce#S##103388
+9#Properties of the pure substance#9.9#Work done calculation#Ex9_9.sce#2735/CH9/EX9.9/Ex9_9.sce#S##103018
+9#Properties of the pure substance#9.8#Heat calculation#Ex9_8.sce#2735/CH9/EX9.8/Ex9_8.sce#S##98409
+9#Properties of the pure substance#9.7#Work calculation#Ex9_7.sce#2735/CH9/EX9.7/Ex9_7.sce#S##98408
+9#Properties of the pure substance#9.6#Heat calculation#Ex9_6.sce#2735/CH9/EX9.6/Ex9_6.sce#S##98407
+9#Properties of the pure substance#9.5#Enthalpy and Quality calculation#Ex9_5.sce#2735/CH9/EX9.5/Ex9_5.sce#S##98406
+9#Properties of the pure substance#9.4#Heat calculation#Ex9_4.sce#2735/CH9/EX9.4/Ex9_4.sce#S##98405
+9#Properties of the pure substance#9.3#Enthalpy calculation#Ex9_3.sce#2735/CH9/EX9.3/Ex9_3.sce#S##98404
+9#Properties of the pure substance#9.2#Entropy calculation#Ex9_2.sce#2735/CH9/EX9.2/Ex9_2.sce#S##98403
+9#Properties of the pure substance#9.10#Quality calculation#Ex9_10.sce#2735/CH9/EX9.10/Ex9_10.sce#S##98411
+9#Properties of the pure substance#9.1#Internal energy calculation#Ex9_1.sce#2735/CH9/EX9.1/Ex9_1.sce#S##98402
+8#Second and Third law topics#8.3#Loss of available energy calculation#Ex8_3.sce#2735/CH8/EX8.3/Ex8_3.sce#S##103017
+8#Second and Third law topics#8.2#Thermal efficiency calculation#Ex8_2.sce#2735/CH8/EX8.2/Ex8_2.sce#S##98400
+8#Second and Third law topics#8.1#PvsS calculation#Ex8_1.sce#2735/CH8/EX8.1/Ex8_1.sce#S##98399
+7#The Second law#7.4#Energy calculations#Ex7_4.sce#2735/CH7/EX7.4/Ex7_4.sce#S##98398
+7#The Second law#7.3#Entropy calculation#Ex7_3.sce#2735/CH7/EX7.3/Ex7_3.sce#S##98397
+7#The Second law#7.2#Entropy and efficiency calculation#Ex7_2.sce#2735/CH7/EX7.2/Ex7_2.sce#S##98396
+5#The first law and the dynamic open system#5.4#Temperature calculation#Ex5_4.sce#2735/CH5/EX5.4/Ex5_4.sce#S##98395
+5#The first law and the dynamic open system#5.3#Area calculation#Ex5_3.sce#2735/CH5/EX5.3/Ex5_3.sce#S##98394
+5#The first law and the dynamic open system#5.2#work done and power calculation#Ex5_2.sce#2735/CH5/EX5.2/Ex5_2.sce#S##98393
+3#Temperature and the Ideal gas#3.3#density calculation#Ex3_3.sce#2735/CH3/EX3.3/Ex3_3.sce#S##98392
+3#Temperature and the Ideal gas#3.2#volume calculation#Ex3_2.sce#2735/CH3/EX3.2/Ex3_2.sce#S##98391
+2#Fundamental Concepts#2.2#Absolute energy calculation#Ex2_2.sce#2735/CH2/EX2.2/Ex2_2.sce#S##98390
+2#Fundamental Concepts#2.1#Potential energy calculation#Ex2_1.sce#2735/CH2/EX2.1/Ex2_1.sce#S##98389
+1#Survey of Units and Dimensions#1.6#density calculation#Ex1_6.sce#2735/CH1/EX1.6/Ex1_6.sce#S##98388
+1#Survey of Units and Dimensions#1.5#Force calculation#Ex1_5.sce#2735/CH1/EX1.5/Ex1_5.sce#S##98387
+1#Survey of Units and Dimensions#1.4#velocity calculation#Ex1_4.sce#2735/CH1/EX1.4/Ex1_4.sce#S##98386
+1#Survey of Units and Dimensions#1.3#velocity calculation#Ex1_3.sce#2735/CH1/EX1.3/Ex1_3.sce#S##98385
+1#Survey of Units and Dimensions#1.2#Force calculation#Ex1_2.sce#2735/CH1/EX1.2/Ex1_2.sce#S##98383
+1#Survey of Units and Dimensions#1.1#Force calculation#Ex1_1.sce#2735/CH1/EX1.1/Ex1_1.sce#S##98382

@@ -1,0 +1,179 @@
+8#Two Marks Questions and Answers #8.7.48#To determine propulsive efficiency and propulsive power of a rocket #8_7_48.sce#2126/CH8/EX8.7.48/8_7_48.sce#S##77616
+8#Two Marks Questions and Answers #8.7.47#To determine orbital velocity and escape velocity of a rocket #8_7_47.sce#2126/CH8/EX8.7.47/8_7_47.sce#S##77615
+8#Two Marks Questions and Answers #8.7.46#To calculate thrust propulsive efficiency and thrust power of a rocket #8_7_46.sce#2126/CH8/EX8.7.46/8_7_46.sce#S##77614
+8#Two Marks Questions and Answers #8.7.45#To find the jet velocity of a rocket #8_7_45.sce#2126/CH8/EX8.7.45/8_7_45.sce#S##77613
+8#Two Marks Questions and Answers #8.7.44#To find the thrust developed #8_7_44.sce#2126/CH8/EX8.7.44/8_7_44.sce#S##77612
+8#Two Marks Questions and Answers #8.7.42#To find thrust of the rocket#8_7_42.sce#2126/CH8/EX8.7.42/8_7_42.sce#S##77609
+8#Two Marks Questions and Answers #8.6.42#To find propulsive efficency#8_6_42.sce#2126/CH8/EX8.6.42/8_6_42.sce#S##77604
+8#Two Marks Questions and Answers #8.6.41#To find propulsive efficiency for an optimum thrust power #8_6_41.sce#2126/CH8/EX8.6.41/8_6_41.sce#S##76994
+8#Two Marks Questions and Answers #8.5.22#To find properties downstream of the shock #8_5_22.sce#2126/CH8/EX8.5.22/8_5_22.sce#S##76993
+8#Two Marks Questions and Answers #8.5.21#To find mach number and air velocity of pitot tube #8_5_21.sce#2126/CH8/EX8.5.21/8_5_21.sce#S##76992
+8#Two Marks Questions and Answers #8.5.20#To find irreversibility of duct #8_5_20.sce#2126/CH8/EX8.5.20/8_5_20.sce#S##76991
+8#Two Marks Questions and Answers #8.5.17#To find strength of shock wave #8_5_17.sce#2126/CH8/EX8.5.17/8_5_17.sce#S##76990
+8#Two Marks Questions and Answers #8.5.16#To find pressure acting on the front of the body#8_5_16.sce#2126/CH8/EX8.5.16/8_5_16.sce#S##76989
+8#Two Marks Questions and Answers #8.3.33#To pipe maximum heat transfer in a pipe #8_3_33.sce#2126/CH8/EX8.3.33/8_3_33.sce#S##76988
+8#Two Marks Questions and Answers #8.3.32#To find increase in specific entropy of the fluid  #8_3_32.sce#2126/CH8/EX8.3.32/8_3_32.sce#S##76987
+8#Two Marks Questions and Answers #8.3.31#To find maximum possible amount of heat transfer of combustion chamber #8_3_31.sce#2126/CH8/EX8.3.31/8_3_31.sce#S##76986
+8#Two Marks Questions and Answers #8.3.15#To find length of the pipe to achieve deceleration #8_3_15.sce#2126/CH8/EX8.3.15/8_3_15.sce#S##76985
+8#Two Marks Questions and Answers #8.3.10#To find the length of the pipe #8_3_10.sce#2126/CH8/EX8.3.10/8_3_10.sce#S##76899
+8#Two Marks Questions and Answers #8.1.40#To find highest possible velocity #8_1_40.sce#2126/CH8/EX8.1.40/8_1_40.sce#S##76896
+8#Two Marks Questions and Answers #8.1.39#To calculate bulk modulus of elasticity of a liquid #8_1_39.sce#2126/CH8/EX8.1.39/8_1_39.sce#S##76891
+8#Two Marks Questions and Answers #8.1.38#To determine stagnation pressure and stagnation temperature #8_1_38.sce#2126/CH8/EX8.1.38/8_1_38.sce#S##76886
+8#Two Marks Questions and Answers #8.1.37#To find temperature at nose of aircraft #8_1_37.sce#2126/CH8/EX8.1.37/8_1_37.sce#S##76880
+8#Two Marks Questions and Answers #8.1.35#To find values of back pressure #8_1_35.sce#2126/CH8/EX8.1.35/8_1_35.sce#S##76878
+8#Two Marks Questions and Answers #8.1.34#To find Mach angle #8_1_34.sce#2126/CH8/EX8.1.34/8_1_34.sce#S##76873
+7#Rocket Propulsion#7.9#To propulsive power engine output and efficiencies #9.sce#2126/CH7/EX7.9/9.sce#S##76659
+7#Rocket Propulsion#7.8#To find various parameters of rocket projectile during its operation #8.sce#2126/CH7/EX7.8/8.sce#S##76658
+7#Rocket Propulsion#7.7#To determine thrust coefficient propellant weight flow coefficient SPC and characteristic velocity of rocket   #7.sce#2126/CH7/EX7.7/7.sce#S##76657
+7#Rocket Propulsion#7.6#To find velocity and maximum height that rocket will reach #6.sce#2126/CH7/EX7.6/6.sce#S##76656
+7#Rocket Propulsion#7.5#To find propulsive efficiency thrust and thrust power of rocket #5.sce#2126/CH7/EX7.5/5.sce#S##76655
+7#Rocket Propulsion#7.4#To find specific impulse specific propellant consumption effective and absolute jet velocity of rocket  #4.sce#2126/CH7/EX7.4/4.sce#S##76654
+7#Rocket Propulsion#7.3#To estimate thrust per unit area and specific impulse #3.sce#2126/CH7/EX7.3/3.sce#S##76653
+7#Rocket Propulsion#7.2#To calculate area ratio thrust characteristic velocity thrust coefficient exit velocity and possible maximum velocity#2.sce#2126/CH7/EX7.2/2.sce#S##76652
+7#Rocket Propulsion#7.14#To find orbital and escape velocities of a rocket #14.sce#2126/CH7/EX7.14/14.sce#S##76664
+7#Rocket Propulsion#7.13#To find effective jet velocity mass ratio and propellant mass fraction maximum slight speed Altitude gain during powered and coasting flights #13.sce#2126/CH7/EX7.13/13.sce#S##76663
+7#Rocket Propulsion#7.12#To find propellant flow rate thrust developed and height attained during powered and coasting flights #12.sce#2126/CH7/EX7.12/12.sce#S##76662
+7#Rocket Propulsion#7.11#To find specific impulse SPC effective and actual jet velocity and efficiencies #11.sce#2126/CH7/EX7.11/11.sce#S##76661
+7#Rocket Propulsion#7.10#To find thrust specific impulse and efficiencies #10.sce#2126/CH7/EX7.10/10.sce#S##76660
+7#Rocket Propulsion#7.1#To find thrust of the motor of a rocket#1.sce#2126/CH7/EX7.1/1.sce#S##76651
+6#Aircraft Propulsion #6.9#To determine air flow rate thrust power thrust produced specific thrust and specific impulse #9.sce#2126/CH6/EX6.9/9.sce#S##76642
+6#Aircraft Propulsion #6.8#To calculate fuel air and pressure ratios and Mach number of jet #8.sce#2126/CH6/EX6.8/8.sce#S##76641
+6#Aircraft Propulsion #6.7#To find specific thrust jet velocity TSFC and propulsive thermal and overall efficiency#7.sce#2126/CH6/EX6.7/7.sce#S##76640
+6#Aircraft Propulsion #6.6#To Calculate propulsive and thrust power total fuel consumption and propulsive thermal and overall efficiency#6.sce#2126/CH6/EX6.6/6.sce#S##76639
+6#Aircraft Propulsion #6.5#To calculate absolute velocity drag overall and turbine efficiency of jet  #5.sce#2126/CH6/EX6.5/5.sce#S##76638
+6#Aircraft Propulsion #6.4#To estimate properties at exit and propulsive efficiency of a turbojet aircraft #4.sce#2126/CH6/EX6.4/4.sce#S##76637
+6#Aircraft Propulsion #6.3#To determine specific thrust and thrust specific fuel consumption for turbojet engine #3.sce#2126/CH6/EX6.3/3.sce#S##76636
+6#Aircraft Propulsion #6.2#To find thrust developed thrust power and propulsive efficiency #2.sce#2126/CH6/EX6.2/2.sce#S##76635
+6#Aircraft Propulsion #6.17#To find power input power output Fuel air ratio Exit Mach number thrust and thrust power developed in the jet #17.sce#2126/CH6/EX6.17/17.sce#S##99272
+6#Aircraft Propulsion #6.16#To find various parameters of ramjet engine through out its operation #16.sce#2126/CH6/EX6.16/16.sce#S##76649
+6#Aircraft Propulsion #6.15#To estimate AFR nozzle thrust propeller thrust and mass flow rate #15.sce#2126/CH6/EX6.15/15.sce#S##76648
+6#Aircraft Propulsion #6.14#To find absolute jet velocity volume of air compressed diameter power output and air fuel ratio of the jet #14.sce#2126/CH6/EX6.14/14.sce#S##76647
+6#Aircraft Propulsion #6.13#To jet velocity fuel rate TSFC propulsive power and efficiencies #13.sce#2126/CH6/EX6.13/13.sce#S##76646
+6#Aircraft Propulsion #6.12#To determine jet velocity thrust specific thrust TSFC thrust power and efficiencies   #12.sce#2126/CH6/EX6.12/12.sce#S##76645
+6#Aircraft Propulsion #6.11#To estimate diameter power output AFR and absolute velocity of the jet  #11.sce#2126/CH6/EX6.11/11.sce#S##76644
+6#Aircraft Propulsion #6.10#To calculate pressure rise pressured developed by compressor and air standard efficiency of the engine#10.sce#2126/CH6/EX6.10/10.sce#S##76643
+6#Aircraft Propulsion #6.1#To calculate thrust and specific thrust of jet propulsion #1.sce#2126/CH6/EX6.1/1.sce#S##76634
+5#Normal and Oblique Shock#5.9#To find properties downstream of shock total head pressure ratio entropy change strength of shock#9.sce#2126/CH5/EX5.9/9.sce#S##76590
+5#Normal and Oblique Shock#5.8#To find properties upstream of wave front #8.sce#2126/CH5/EX5.8/8.sce#S##76588
+5#Normal and Oblique Shock#5.7#To find mass flow rate and properties at exit of CD nozzle#7.sce#2126/CH5/EX5.7/7.sce#S##76586
+5#Normal and Oblique Shock#5.6#To find pressure acting on front of the body#6.sce#2126/CH5/EX5.6/6.sce#S##76585
+5#Normal and Oblique Shock#5.5#To find properties downstream of shock #5.sce#2126/CH5/EX5.5/5.sce#S##76584
+5#Normal and Oblique Shock#5.4#To find velocities across shock and stagnation pressure change#4.sce#2126/CH5/EX5.4/4.sce#S##76583
+5#Normal and Oblique Shock#5.3#To find properties downstream of shock#3.sce#2126/CH5/EX5.3/3.sce#S##76582
+5#Normal and Oblique Shock#5.28#To find deflection angle final Mach number and temperature of gas #28.sce#2126/CH5/EX5.28/28.sce#S##76633
+5#Normal and Oblique Shock#5.27#To find property ratios at strong and weak shock at wedge #27.sce#2126/CH5/EX5.27/27.sce#S##76632
+5#Normal and Oblique Shock#5.26#To determine static pressure temperature behind wave Mach number and Wedge angle #26.sce#2126/CH5/EX5.26/26.sce#S##76631
+5#Normal and Oblique Shock#5.25#To find deflection angle Downstream Mach number Static pressure and total pressure loss through the shock #25.sce#2126/CH5/EX5.25/25.sce#S##76630
+5#Normal and Oblique Shock#5.24#To estimate amount of heat added in two pipe section and properties #24.sce#2126/CH5/EX5.24/24.sce#S##76629
+5#Normal and Oblique Shock#5.23#To find length diameter of pipe and properties at pipe exit #23.sce#2126/CH5/EX5.23/23.sce#S##76628
+5#Normal and Oblique Shock#5.22#To find properties after shock and exit and exit Mach number #22.sce#2126/CH5/EX5.22/22.sce#S##76627
+5#Normal and Oblique Shock#5.21#To find length across the shock properties of air at exit and mass flow rate through the duct#21.sce#2126/CH5/EX5.21/21.sce#S##76626
+5#Normal and Oblique Shock#5.20#To find length of duct across shock mass flow rate entropy change across and downstream of shock#20.sce#2126/CH5/EX5.20/20.sce#S##76625
+5#Normal and Oblique Shock#5.2#To find properties across normal shock and entropy change#2.sce#2126/CH5/EX5.2/2.sce#S##76581
+5#Normal and Oblique Shock#5.19#To find Mach number pressure temperature at exit and diffuser efficiency #19.sce#2126/CH5/EX5.19/19.sce#S##76623
+5#Normal and Oblique Shock#5.18#To compute speed of wave pressure and temperature of air at rest #18.sce#2126/CH5/EX5.18/18.sce#S##76619
+5#Normal and Oblique Shock#5.17#To find shock speed and air velocity inside the shock#17.sce#2126/CH5/EX5.17/17.sce#S##76618
+5#Normal and Oblique Shock#5.16#To find Mach number and velocity in pitot tube#16.sce#2126/CH5/EX5.16/16.sce#S##76616
+5#Normal and Oblique Shock#5.15#To estimate Mach number and properties across the normal shock of tube#15.sce#2126/CH5/EX5.15/15.sce#S##76614
+5#Normal and Oblique Shock#5.14#To estimate the difference in mercury in limbs of U tube manometer at various velocities  #14.sce#2126/CH5/EX5.14/14.sce#S##76612
+5#Normal and Oblique Shock#5.13#To find mass flow rate and properties at throat and exit at various sections of CD nozzle #13.sce#2126/CH5/EX5.13/13.sce#S##76609
+5#Normal and Oblique Shock#5.12#To find properties at various sections#12.sce#2126/CH5/EX5.12/12.sce#S##76606
+5#Normal and Oblique Shock#5.11#To find Mach number across shock Static pressure and area at shock#11.sce#2126/CH5/EX5.11/11.sce#S##76594
+5#Normal and Oblique Shock#5.10#To determine Mach number across shock and area at shock#10.sce#2126/CH5/EX5.10/10.sce#S##76591
+5#Normal and Oblique Shock#5.1#To find Mach number before shock properties after shock density increase loss of stagnation pressure and entropy change of air in pipe#1.sce#2126/CH5/EX5.1/1.sce#S##76580
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.9#To determine heat added per kg of air flow maximum possible heat transfer and heat transfer required to get maximum static temperature #9.sce#2126/CH4/EX4.9/9.sce#S##76574
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.8#To find Mach number pressure and temperature after cooling#8.sce#2126/CH4/EX4.8/8.sce#S##76573
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.7#To determine Mach number pressure temperature and velocity of gas at exit #7.sce#2126/CH4/EX4.7/7.sce#S##76572
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.6#To determine Mach number pressure temperature of gas at entry and amount of heat added and maximum heat can be added #6.sce#2126/CH4/EX4.6/6.sce#S##76571
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.5#To find total temperature static pressure at exit Stagnation pressure and exponent of polytropic equation #5.sce#2126/CH4/EX4.5/5.sce#S##76570
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.4#To calculate pressure and Mach number after combustion in combustion chamber #4.sce#2126/CH4/EX4.4/4.sce#S##76569
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.3#To find mass flow rate per unit area Final temperature and heat added per kg of air flow#3.sce#2126/CH4/EX4.3/3.sce#S##76566
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.2#To calculate flow properties at the exit#2.sce#2126/CH4/EX4.2/2.sce#S##76568
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.14#To find properties at exit and sonic condition and heat required to accelerate gas from inlet to sonic condition #14.sce#2126/CH4/EX4.14/14.sce#S##76579
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.13#To find inlet and exit mach number#13.sce#2126/CH4/EX4.13/13.sce#S##76578
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.12#To find inlet mach number and percentage loss in static pressure#12.sce#2126/CH4/EX4.12/12.sce#S##76577
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.11#To find Mach number and percentage drop in pressure #11.sce#2126/CH4/EX4.11/11.sce#S##76576
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.10#To find exit properties Maximum stagnation temperature percentage of pressure loss and initial mach number #10.sce#2126/CH4/EX4.10/10.sce#S##76575
+4#Flow Through Constant Area Ducts Rayleigh Flow#4.1#To find heat transferred per unit mass flow and temperature change#1.sce#2126/CH4/EX4.1/1.sce#S##76567
+3#Flow Through Constant Area Duct Adiabatic Flow#3.9#To find length diameter of the duct pressure at exit Stagnation pressure lose  and to verify exit mach number #9.sce#2126/CH3/EX3.9/9.sce#S##76545
+3#Flow Through Constant Area Duct Adiabatic Flow#3.8#To find inlet mach number mass flow rate and exit temperature #8.sce#2126/CH3/EX3.8/8.sce#S##76543
+3#Flow Through Constant Area Duct Adiabatic Flow#3.7#TO find final pressure and velocity of duct #7.sce#2126/CH3/EX3.7/7.sce#S##76540
+3#Flow Through Constant Area Duct Adiabatic Flow#3.6#To find mach number properties at a section and critical section and length of the duct #6.sce#2126/CH3/EX3.6/6.sce#S##76537
+3#Flow Through Constant Area Duct Adiabatic Flow#3.5#To find length of pipe and properties of air at exit #5.sce#2126/CH3/EX3.5/5.sce#S##76535
+3#Flow Through Constant Area Duct Adiabatic Flow#3.4#To find temperature velocity at a section and distance between two sections#4.sce#2126/CH3/EX3.4/4.sce#S##76532
+3#Flow Through Constant Area Duct Adiabatic Flow#3.3#To find length of pipe and mass flow rate#3.sce#2126/CH3/EX3.3/3.sce#S##76529
+3#Flow Through Constant Area Duct Adiabatic Flow#3.21#To find mach number at sections and mean value of friction#21.sce#2126/CH3/EX3.21/21.sce#S##76563
+3#Flow Through Constant Area Duct Adiabatic Flow#3.20#To determine required inlet conditions #20.sce#2126/CH3/EX3.20/20.sce#S##76562
+3#Flow Through Constant Area Duct Adiabatic Flow#3.2#To find length of required duct and length required to obtain critical condition#2.sce#2126/CH3/EX3.2/2.sce#S##76524
+3#Flow Through Constant Area Duct Adiabatic Flow#3.19#To find diameter of pipe #19.sce#2126/CH3/EX3.19/19.sce#S##99271
+3#Flow Through Constant Area Duct Adiabatic Flow#3.18#To find length of pipe and properties of air at a section and limiting mach number#18.sce#2126/CH3/EX3.18/18.sce#S##99270
+3#Flow Through Constant Area Duct Adiabatic Flow#3.17#To find Static and Stagnation conditions velocity length and mass flow rate of air in pipe #17.sce#2126/CH3/EX3.17/17.sce#S##76558
+3#Flow Through Constant Area Duct Adiabatic Flow#3.16#To find exit mach number and inlet temperature and pressure#16.sce#2126/CH3/EX3.16/16.sce#S##76557
+3#Flow Through Constant Area Duct Adiabatic Flow#3.15#To find Maximum and required length of the pipe and properties of air at a section#15.sce#2126/CH3/EX3.15/15.sce#S##76556
+3#Flow Through Constant Area Duct Adiabatic Flow#3.14#To find maximum length of pipe and conditions of air at exit #14.sce#2126/CH3/EX3.14/14.sce#S##76555
+3#Flow Through Constant Area Duct Adiabatic Flow#3.13#To find length of the pipe percent of stagnation pressure change and entropy change #13.sce#2126/CH3/EX3.13/13.sce#S##76553
+3#Flow Through Constant Area Duct Adiabatic Flow#3.12#To find length and Mach number of given pipe and at required section#12.sce#2126/CH3/EX3.12/12.sce#S##76552
+3#Flow Through Constant Area Duct Adiabatic Flow#3.11#To find length of the pipe and mass flow rate #11.sce#2126/CH3/EX3.11/11.sce#S##76550
+3#Flow Through Constant Area Duct Adiabatic Flow#3.10#To find length of the pipe Mach number percent of stagnation pressure loss and length required to reach choking condition#10.sce#2126/CH3/EX3.10/10.sce#S##76549
+3#Flow Through Constant Area Duct Adiabatic Flow#3.1#To find length of pipe #1.sce#2126/CH3/EX3.1/1.sce#S##76517
+2#Flow through Variable Area Ducts#2.9#To find Stagnation temperature properties at exit and mass flow rate #9.sce#2126/CH2/EX2.9/9.sce#S##76457
+2#Flow through Variable Area Ducts#2.8#To find properties at throat and exit and maximum possible velocity of nozzle#8.sce#2126/CH2/EX2.8/8.sce#S##76456
+2#Flow through Variable Area Ducts#2.7#To find properties at inlet and exit of diffuser#7.sce#2126/CH2/EX2.7/7.sce#S##76455
+2#Flow through Variable Area Ducts#2.6#To find exit properties and force exerted on diffuser walls#6.sce#2126/CH2/EX2.6/6.sce#S##76454
+2#Flow through Variable Area Ducts#2.5#To find mass flow rate and pressure of a CD nozzle#5.sce#2126/CH2/EX2.5/5.sce#S##76453
+2#Flow through Variable Area Ducts#2.4#To find properties at exit in Convergent Divergent nozzle#4.sce#2126/CH2/EX2.4/4.sce#S##76452
+2#Flow through Variable Area Ducts#2.3#To find properties at throat and exit maximum possible velocity of gas and type of nozzle#3.sce#2126/CH2/EX2.3/3.sce#S##76451
+2#Flow through Variable Area Ducts#2.22#To find required throat and exit area of nozzle#22.sce#2126/CH2/EX2.22/22.sce#S##76516
+2#Flow through Variable Area Ducts#2.21#To find area at throat and exit Mach number total pressure loss and entropy change#21.sce#2126/CH2/EX2.21/21.sce#S##76513
+2#Flow through Variable Area Ducts#2.20#To find pressure rise coefficient and ratio of area #20.sce#2126/CH2/EX2.20/20.sce#S##76487
+2#Flow through Variable Area Ducts#2.2#To find properties at throat and exit in Convergent Divergent nozzle#2.sce#2126/CH2/EX2.2/2.sce#S##76450
+2#Flow through Variable Area Ducts#2.19#To find mach number change in stagnation pressure entropy change and static temperature and efficiency of nozzle#19.sce#2126/CH2/EX2.19/19.sce#S##76476
+2#Flow through Variable Area Ducts#2.18#To find mass flow rate and exit conditions#18.sce#2126/CH2/EX2.18/18.sce#S##76473
+2#Flow through Variable Area Ducts#2.17#To find throat conditions ratio of velocities and mass flow rate #17.sce#2126/CH2/EX2.17/17.sce#S##76472
+2#Flow through Variable Area Ducts#2.16#To find throat area reservoir conditions and mass flow rate #16.sce#2126/CH2/EX2.16/16.sce#S##76468
+2#Flow through Variable Area Ducts#2.15#To find mass flow rate static and stagnation conditions and entropy change of subsonic diffuser #15.sce#2126/CH2/EX2.15/15.sce#S##76464
+2#Flow through Variable Area Ducts#2.14#To find how duct acts #14.sce#2126/CH2/EX2.14/14.sce#S##76462
+2#Flow through Variable Area Ducts#2.13#To find ratio of areas velocity and back pressure in CD nozzle#13.sce#2126/CH2/EX2.13/13.sce#S##76461
+2#Flow through Variable Area Ducts#2.12#To find cross section at throat and exit#12.sce#2126/CH2/EX2.12/12.sce#S##76460
+2#Flow through Variable Area Ducts#2.11#To find properties at throat and test section mass flow rate and Power required in nozzle of wind tunnel#11.sce#2126/CH2/EX2.11/11.sce#S##76459
+2#Flow through Variable Area Ducts#2.10#To determine throat and exit conditions mass flow rate through nozzle#10.sce#2126/CH2/EX2.10/10.sce#S##76458
+2#Flow through Variable Area Ducts#2.1#To find mass flow rate temperature and pressure at throat#1.sce#2126/CH2/EX2.1/1.sce#S##76449
+1#Compressible Flow Fundamentals#1.9#To calculate mass of water to be pumped to obtain desired pressure#9.sce#2126/CH1/EX1.9/9.sce#S##76391
+1#Compressible Flow Fundamentals#1.8#To calculate the bulk modulus#8.sce#2126/CH1/EX1.8/8.sce#S##76390
+1#Compressible Flow Fundamentals#1.7#To find direction of flow#7.sce#2126/CH1/EX1.7/7.sce#S##76389
+1#Compressible Flow Fundamentals#1.6#To determine mach number at a point#6.sce#2126/CH1/EX1.6/6.sce#S##76388
+1#Compressible Flow Fundamentals#1.5#To determine static pressure and axial force of turbojet engine#5.sce#2126/CH1/EX1.5/5.sce#S##76387
+1#Compressible Flow Fundamentals#1.4#To determine properties at outlet and area ratio of diffuser #4.sce#2126/CH1/EX1.4/4.sce#S##76386
+1#Compressible Flow Fundamentals#1.39#To find time required for a value of pressure decrease #39.sce#2126/CH1/EX1.39/39.sce#S##76421
+1#Compressible Flow Fundamentals#1.38#To find mass flow rate and velocity at exit#38.sce#2126/CH1/EX1.38/38.sce#S##76420
+1#Compressible Flow Fundamentals#1.37#To find Mach number velocity and pressure at a section in duct#37.sce#2126/CH1/EX1.37/37.sce#S##76419
+1#Compressible Flow Fundamentals#1.36#To find various properties in a nozzle#36.sce#2126/CH1/EX1.36/36.sce#S##76418
+1#Compressible Flow Fundamentals#1.35#To find rate of heat transfer #35.sce#2126/CH1/EX1.35/35.sce#S##76417
+1#Compressible Flow Fundamentals#1.34#To find maximum temperature encountered by skin #34.sce#2126/CH1/EX1.34/34.sce#S##76416
+1#Compressible Flow Fundamentals#1.33#To find various properties at one section in duct#33.sce#2126/CH1/EX1.33/33.sce#S##76415
+1#Compressible Flow Fundamentals#1.32#To find various properties at one section in duct#32.sce#2126/CH1/EX1.32/32.sce#S##76414
+1#Compressible Flow Fundamentals#1.31#To find velocity and mass flow rate #31.sce#2126/CH1/EX1.31/31.sce#S##76413
+1#Compressible Flow Fundamentals#1.30#To find Mach number velocity and area at a point#30.sce#2126/CH1/EX1.30/30.sce#S##76412
+1#Compressible Flow Fundamentals#1.3#To determine temperature enthalpy drop and internal energy change#3.sce#2126/CH1/EX1.3/3.sce#S##76385
+1#Compressible Flow Fundamentals#1.29#To find flow velocity for compressible and incompressible flow#29.sce#2126/CH1/EX1.29/29.sce#S##76411
+1#Compressible Flow Fundamentals#1.28#To find stagnation conditions and velocity at dynamic condition#28.sce#2126/CH1/EX1.28/28.sce#S##76410
+1#Compressible Flow Fundamentals#1.27#To find stagnation conditions and mass flow rate#27.sce#2126/CH1/EX1.27/27.sce#S##76409
+1#Compressible Flow Fundamentals#1.26#To determine different velocities stagnation enthalpy and crocco number  #26.sce#2126/CH1/EX1.26/26.sce#S##76408
+1#Compressible Flow Fundamentals#1.25#To find stagnation pressure and mach number#25.sce#2126/CH1/EX1.25/25.sce#S##76407
+1#Compressible Flow Fundamentals#1.24#To find static conditions and Flight Mach number#24.sce#2126/CH1/EX1.24/24.sce#S##76406
+1#Compressible Flow Fundamentals#1.23#To find exit velocity of air#23.sce#2126/CH1/EX1.23/23.sce#S##76405
+1#Compressible Flow Fundamentals#1.22#To find maximum possible velocity of air#22.sce#2126/CH1/EX1.22/22.sce#S##76404
+1#Compressible Flow Fundamentals#1.21#To find speed of sound and Mach number#21.sce#2126/CH1/EX1.21/21.sce#S##76403
+1#Compressible Flow Fundamentals#1.20#To find Mach number#20.sce#2126/CH1/EX1.20/20.sce#S##76402
+1#Compressible Flow Fundamentals#1.2#To calculate heat transfer internal energy change and work done#2.sce#2126/CH1/EX1.2/2.sce#S##76384
+1#Compressible Flow Fundamentals#1.19#To find mach number at a point#19.sce#2126/CH1/EX1.19/19.sce#S##76401
+1#Compressible Flow Fundamentals#1.18#To calculate time elapsed to feel disturbance due to aircraft#18.sce#2126/CH1/EX1.18/18.sce#S##76400
+1#Compressible Flow Fundamentals#1.17#To find distance covered before sonic boom is heard on ground #17.sce#2126/CH1/EX1.17/17.sce#S##76399
+1#Compressible Flow Fundamentals#1.16#To find mach number and velocity of flow#16.sce#2126/CH1/EX1.16/16.sce#S##76398
+1#Compressible Flow Fundamentals#1.15#To find properties of a gas in vessel at a point#15.sce#2126/CH1/EX1.15/15.sce#S##76397
+1#Compressible Flow Fundamentals#1.14#To find number of nozzles#14.sce#2126/CH1/EX1.14/14.sce#S##76396
+1#Compressible Flow Fundamentals#1.13#To find air velocity for different types of flow#13.sce#2126/CH1/EX1.13/13.sce#S##76395
+1#Compressible Flow Fundamentals#1.12#To find highest pressure acting on surface of a body#12.sce#2126/CH1/EX1.12/12.sce#S##76394
+1#Compressible Flow Fundamentals#1.11#To find velocity of sound#11.sce#2126/CH1/EX1.11/11.sce#S##76393
+1#Compressible Flow Fundamentals#1.10#To find sonic velocity #10.sce#2126/CH1/EX1.10/10.sce#S##76392
+1#Compressible Flow Fundamentals#1.1#To calculate the work done#1.sce#2126/CH1/EX1.1/1.sce#S##76383

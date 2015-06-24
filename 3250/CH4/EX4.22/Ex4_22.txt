@@ -1,0 +1,4 @@
+ # PROBLEM 4.22 # 
+ 
+ Required depth of cut = 0.041910 mm,
+ Required feed = 238 mm/min 

@@ -1,0 +1,5 @@
+**Sample Prblem 40-4a**
+The wavelength of the free electron is 3.01nm
+
+**Sample Prblem 40-4b**
+The electron energy is 208.21ev 

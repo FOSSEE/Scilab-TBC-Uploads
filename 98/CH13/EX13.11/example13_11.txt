@@ -1,0 +1,18 @@
+Resistance per 1000 m of distributor = 0.60 ohm 
+
+Resistance of section AC = 0.030 ohm 
+Resistance of section CD = 0.015 ohm 
+Resistance of section DE = 0.015 ohm 
+Resistance of section EF = 0.030 ohm 
+Resistance of section FB = 0.030 ohm 
+
+Ia = 33.3 A 
+
+(i) Current in section AC = Iac = 33.33 A 
+    Current in section CD = Icd = 8.33 A 
+    Current in section DE = Ide = -41.67 A 
+    Current in section EF = Ief = -71.67 A 
+    Current in section FB = Ifb = -111.67 A 
+
+(ii) Voltage at D = Vd = 228.88 V 
+

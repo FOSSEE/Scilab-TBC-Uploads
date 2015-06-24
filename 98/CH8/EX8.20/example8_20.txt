@@ -1,0 +1,13 @@
+Working tension = 4030 kg 
+
+Volume of ice per metre length of the conductor = 1289 cm^3 
+
+Weight of ice per metre length of conductor is 1.17 kg 
+
+Wind force/m length of conductor is 1.755 kg 
+
+Total weight of conductor per metre length of conductor is 2.689 kg 
+
+Sag = 6.31 m 
+
+

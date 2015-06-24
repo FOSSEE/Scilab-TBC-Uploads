@@ -1,0 +1,4 @@
+ Example 6.5
+
+ Activation energy is 194 kJ/mol
+ Preexponential factor D_0 is 5.4e-05 m^2/s

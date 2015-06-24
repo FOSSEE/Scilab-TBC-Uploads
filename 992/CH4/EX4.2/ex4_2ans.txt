@@ -1,0 +1,2 @@
+ turn ratio = 2:1  
+ Execution done.   

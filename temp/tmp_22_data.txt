@@ -1,0 +1,164 @@
+10#state space analysis#10.9#state equations of a given systems#ch10ex9.sce#22/CH10/EX10.9/ch10ex9.sce#S##2016
+10#state space analysis#10.8#state space descrption by transfer function#ch10ex8.sce#22/CH10/EX10.8/ch10ex8.sce#S##2012
+10#state space analysis#10.7#time domain method#ch10ex7.sce#22/CH10/EX10.7/ch10ex7.sce#S##2011
+10#state space analysis#10.6#state space descrption by transfer function#ch10ex6.sce#22/CH10/EX10.6/ch10ex6.sce#S##2007
+10#state space analysis#10.5#finding the state vector#ch10ex5.sce#22/CH10/EX10.5/ch10ex5.sce#S##2002
+10#state space analysis#10.4#state space descrption by transfer function#ch10ex4.sce#22/CH10/EX10.4/ch10ex4.sce#S##1994
+10#state space analysis#10.13#total response using z transform#ch10ex13.sce#22/CH10/EX10.13/ch10ex13.sce#S##2033
+10#state space analysis#10.12#state space description of a given description#ch10ex12.sce#22/CH10/EX10.12/ch10ex12.sce#S##2028
+10#state space analysis#10.11#controllability and observability#ch10ex11.sce#22/CH10/EX10.11/ch10ex11.sce#S##2024
+10#state space analysis#10.10#diagonalized form of state equation#ch10ex10.sce#22/CH10/EX10.10/ch10ex10.sce#S##2022
+9#fourier analysis of discrete time signals#9.9#DTFT of sinc function#ch9ex9.sce#22/CH9/EX9.9/ch9ex9.sce#S##1970
+9#fourier analysis of discrete time signals#9.9#DTFT of sinc function#ch9ex9.jpg#22/CH9/EX9.9/ch9ex9.jpg#R##1971
+9#fourier analysis of discrete time signals#9.6#DTFT for rectangular pulse spectrum#ch9ex6.sce#22/CH9/EX9.6/ch9ex6.sce#S##1968
+9#fourier analysis of discrete time signals#9.6#DTFT for rectangular pulse spectrum#ch9ex6.jpg#22/CH9/EX9.6/ch9ex6.jpg#R##1969
+9#fourier analysis of discrete time signals#9.5#DTFT for rectangular pulse#ch9ex5.sce#22/CH9/EX9.5/ch9ex5.sce#S##1961
+9#fourier analysis of discrete time signals#9.5#DTFT for rectangular pulse#ch9ex5.jpg#22/CH9/EX9.5/ch9ex5.jpg#R##1962
+9#fourier analysis of discrete time signals#9.4#discrete time fourier series#ch9ex4.sce#22/CH9/EX9.4/ch9ex4.sce#S##1957
+9#fourier analysis of discrete time signals#9.4#discrete time fourier series#ch9ex4.jpg#22/CH9/EX9.4/ch9ex4.jpg#R##1958
+9#fourier analysis of discrete time signals#9.3#discrete time fourier series#ch9ex3.sce#22/CH9/EX9.3/ch9ex3.sce#S##1953
+9#fourier analysis of discrete time signals#9.3#discrete time fourier series#ch9ex3.jpg#22/CH9/EX9.3/ch9ex3.jpg#R##1954
+9#fourier analysis of discrete time signals#9.3#discrete time fourier series#ch9ex3b.jpg#22/CH9/EX9.3/ch9ex3b.jpg#R##1955
+9#fourier analysis of discrete time signals#9.2#DTFT for periodic sampled gate function#ch9ex2.sce#22/CH9/EX9.2/ch9ex2.sce#S##1947
+9#fourier analysis of discrete time signals#9.2#DTFT for periodic sampled gate function#ch9ex2.jpg#22/CH9/EX9.2/ch9ex2.jpg#R##1948
+9#fourier analysis of discrete time signals#9.13#frequency response of LTID#ch9ex13.sce#22/CH9/EX9.13/ch9ex13.sce#S##1986
+9#fourier analysis of discrete time signals#9.10.a#sketching the spectrum for a modulated signal#ch9ex10a.sce#22/CH9/EX9.10.a/ch9ex10a.sce#S##1980
+9#fourier analysis of discrete time signals#9.10.a#sketching the spectrum for a modulated signal#ch9ex10.jpg#22/CH9/EX9.10.a/ch9ex10.jpg#R##1981
+9#fourier analysis of discrete time signals#9.1#discrete time fourier series#ch9ex1.sce#22/CH9/EX9.1/ch9ex1.sce#S##1940
+9#fourier analysis of discrete time signals#9.1#discrete time fourier series#ch9ex1.jpg#22/CH9/EX9.1/ch9ex1.jpg#R##1941
+8#Sampling The bridge from continuous to discrete#8.9#discrete fourier transform#ch8ex9.sce#22/CH8/EX8.9/ch8ex9.sce#S##1501
+8#Sampling The bridge from continuous to discrete#8.9#discrete fourier transform#ch8ex9.jpg#22/CH8/EX8.9/ch8ex9.jpg#R##1502
+8#Sampling The bridge from continuous to discrete#8.8#discrete fourier transform#ch8ex8.sce#22/CH8/EX8.8/ch8ex8.sce#S##1499
+8#Sampling The bridge from continuous to discrete#8.8#discrete fourier transform#ch8ex8.jpg#22/CH8/EX8.8/ch8ex8.jpg#R##1500
+8#Sampling The bridge from continuous to discrete#8.10#frequency response of a low pass filter#ch8ex10.jpg#22/CH8/EX8.10/ch8ex10.jpg#R##1504
+8#Sampling The bridge from continuous to discrete#8.10#frequency response of a low pass filter#ch8ex10.sce#22/CH8/EX8.10/ch8ex10.sce#S##1503
+7#continuous time signal analysis the fourier transform#7.9#fourier transform of unit step function#ch7ex9.sce#22/CH7/EX7.9/ch7ex9.sce#S##2570
+7#continuous time signal analysis the fourier transform#7.9#fourier transform of unit step function#ch7ex9.jpg#22/CH7/EX7.9/ch7ex9.jpg#R##2571
+7#continuous time signal analysis the fourier transform#7.8#fourier transform of a unit impulse train#ch7ex8.sce#22/CH7/EX7.8/ch7ex8.sce#S##2568
+7#continuous time signal analysis the fourier transform#7.8#fourier transform of a unit impulse train#ch7ex8.jpg#22/CH7/EX7.8/ch7ex8.jpg#R##2569
+7#continuous time signal analysis the fourier transform#7.7#fourier transform of a periodic signal#ch7ex7.sce#22/CH7/EX7.7/ch7ex7.sce#S##2566
+7#continuous time signal analysis the fourier transform#7.7#fourier transform of a periodic signal#ch7ex7.jpg#22/CH7/EX7.7/ch7ex7.jpg#R##2567
+7#continuous time signal analysis the fourier transform#7.6#fourier transform for everlasting sinusoid#ch7ex6.sce#22/CH7/EX7.6/ch7ex6.sce#S##2564
+7#continuous time signal analysis the fourier transform#7.6#fourier transform for everlasting sinusoid#ch7ex6.jpg#22/CH7/EX7.6/ch7ex6.jpg#R##2565
+7#continuous time signal analysis the fourier transform#7.5#inverse fourier transform#ch7ex5.sce#22/CH7/EX7.5/ch7ex5.sce#S##2563
+7#continuous time signal analysis the fourier transform#7.4#inverse fourier transform#ch7ex4.sce#22/CH7/EX7.4/ch7ex4.sce#S##2561
+7#continuous time signal analysis the fourier transform#7.4#inverse fourier transform#ch7ex4.jpg#22/CH7/EX7.4/ch7ex4.jpg#R##2562
+7#continuous time signal analysis the fourier transform#7.12#fourier transform of exponential function#ch7ex12.sce#22/CH7/EX7.12/ch7ex12.sce#S##2572
+7#continuous time signal analysis the fourier transform#7.12#fourier transform of exponential function#ch7ex12.jpg#22/CH7/EX7.12/ch7ex12.jpg#R##2573
+7#continuous time signal analysis the fourier transform#7.1#fourier transform of exponential function#ch7ex1.sce#22/CH7/EX7.1/ch7ex1.sce#S##2557
+7#continuous time signal analysis the fourier transform#7.1#fourier transform of exponential function#ch7ex1.jpg#22/CH7/EX7.1/ch7ex1.jpg#R##2558
+6#continuous time signal analysis the fourier series#6.9#exponential fourier series to find the output#ch6ex9.sce#22/CH6/EX6.9/ch6ex9.sce#S##2555
+6#continuous time signal analysis the fourier series#6.9#exponential fourier series to find the output#ch6ex9.jpg#22/CH6/EX6.9/ch6ex9.jpg#R##2556
+6#continuous time signal analysis the fourier series#6.7#exponential fourier series for the impulse train#ch6ex7.sce#22/CH6/EX6.7/ch6ex7.sce#S##2553
+6#continuous time signal analysis the fourier series#6.7#exponential fourier series for the impulse train#ch6ex7.jpg#22/CH6/EX6.7/ch6ex7.jpg#R##2554
+6#continuous time signal analysis the fourier series#6.5#exponential fourier series#ch6ex5.sce#22/CH6/EX6.5/ch6ex5.sce#S##2551
+6#continuous time signal analysis the fourier series#6.5#exponential fourier series#ch6ex5.jpg#22/CH6/EX6.5/ch6ex5.jpg#R##2552
+6#continuous time signal analysis the fourier series#6.3#fourier spectra of a signal#ch6ex4.sce#22/CH6/EX6.3/ch6ex4.sce#S##2550
+6#continuous time signal analysis the fourier series#6.2#fourier coefficients of a periodic sequence#ch6ex2.sce#22/CH6/EX6.2/ch6ex2.sce#S##2548
+6#continuous time signal analysis the fourier series#6.2#fourier coefficients of a periodic sequence#ch6ex2.jpg#22/CH6/EX6.2/ch6ex2.jpg#R##2549
+6#continuous time signal analysis the fourier series#6.1#fourier coefficients of a periodic sequence#ch6ex1.sce#22/CH6/EX6.1/ch6ex1.sce#S##2546
+6#continuous time signal analysis the fourier series#6.1#fourier coefficients of a periodic sequence#ch6ex1.jpg#22/CH6/EX6.1/ch6ex1.jpg#R##2547
+5#discrete time system analysis using the z transform#5.6#response of an LTID system using difference eq#ch5ex6.sce#22/CH5/EX5.6/ch5ex6.sce#S##2188
+5#discrete time system analysis using the z transform#5.5#solution to differential equation#ch5ex5.sce#22/CH5/EX5.5/ch5ex5.sce#S##2187
+5#discrete time system analysis using the z transform#5.3.c#z transform of a given signal with imaginary roots#ch5ex3c.sce#22/CH5/EX5.3.c/ch5ex3c.sce#S##2186
+5#discrete time system analysis using the z transform#5.3.a#z transform of a given signal with different roots#ch5ex3a.sce#22/CH5/EX5.3.a/ch5ex3a.sce#S##2184
+5#discrete time system analysis using the z transform#5.20#zero state response for a given input#ch5ex20.sce#22/CH5/EX5.20/ch5ex20.sce#S##2210
+5#discrete time system analysis using the z transform#5.2#z transform of a given signal#ch5ex2.sce#22/CH5/EX5.2/ch5ex2.sce#S##2180
+5#discrete time system analysis using the z transform#5.19#transfer function for a causal system#ch5ex19.sce#22/CH5/EX5.19/ch5ex19.sce#S##2209
+5#discrete time system analysis using the z transform#5.18#bilateral inverse z transform#ch5ex18.sce#22/CH5/EX5.18/ch5ex18.sce#S##2208
+5#discrete time system analysis using the z transform#5.17#bilateral z transfrom#ch5ex17.sce#22/CH5/EX5.17/ch5ex17.sce#S##2207
+5#discrete time system analysis using the z transform#5.13#discrete time amplifier highest frequency#ch5ex13.sce#22/CH5/EX5.13/ch5ex13.sce#S##2202
+5#discrete time system analysis using the z transform#5.12#maximum sampling timeinterval#ch5ex12.sce#22/CH5/EX5.12/ch5ex12.sce#S##2201
+5#discrete time system analysis using the z transform#5.10#response of an LTID system using difference eq#ch5ex10.sce#22/CH5/EX5.10/ch5ex10.sce#S##2197
+5#discrete time system analysis using the z transform#5.10#response of an LTID system using difference eq#ch5ex10.jpg#22/CH5/EX5.10/ch5ex10.jpg#R##2198
+5#discrete time system analysis using the z transform#5.1#z transform of a given signal#ch5ex1.sce#22/CH5/EX5.1/ch5ex1.sce#S##2178
+5#discrete time system analysis using the z transform#5.1#z transform of a given signal#ch5ex1.jpg#22/CH5/EX5.1/ch5ex1.jpg#R##2179
+4#continuous time system analysis#4.9#initial and final value#ch4ex9.sce#22/CH4/EX4.9/ch4ex9.sce#S##2101
+4#continuous time system analysis#4.8#time convolution property#ch4ex8.sce#22/CH4/EX4.8/ch4ex8.sce#S##2098
+4#continuous time system analysis#4.5#inverse laplace transform#ch4ex5.sce#22/CH4/EX4.5/ch4ex5.sce#S##2097
+4#continuous time system analysis#4.4#laplace transform of a given signal#ch4ex4.sce#22/CH4/EX4.4/ch4ex4.sce#S##2096
+4#continuous time system analysis#4.31#response of a fn with given tf#ch4ex31.sce#22/CH4/EX4.31/ch4ex31.sce#S##2154
+4#continuous time system analysis#4.30#response of a noncausal sytem#ch4ex30.sce#22/CH4/EX4.30/ch4ex30.sce#S##2153
+4#continuous time system analysis#4.3.c#laplace transform in case of imaginary roots#ch4ex3c.sce#22/CH4/EX4.3.c/ch4ex3c.sce#S##2083
+4#continuous time system analysis#4.3.b#laplace transform in case of similar roots#ch4ex3b.sce#22/CH4/EX4.3.b/ch4ex3b.sce#S##2087
+4#continuous time system analysis#4.3.a#laplace transform in case of different roots#ch4ex3a.sce#22/CH4/EX4.3.a/ch4ex3a.sce#S##2071
+4#continuous time system analysis#4.29#current for a given RC network#ch4ex29.sce#22/CH4/EX4.29/ch4ex29.sce#S##2150
+4#continuous time system analysis#4.28#bilateral inverse transform#ch4ex28.sce#22/CH4/EX4.28/ch4ex28.sce#S##2144
+4#continuous time system analysis#4.27#second order notch filter to suppress 60Hz hum#ch4ex27.sce#22/CH4/EX4.27/ch4ex27.sce#S##2142
+4#continuous time system analysis#4.27#second order notch filter to suppress 60Hz hum#ch4ex27.jpg#22/CH4/EX4.27/ch4ex27.jpg#R##2143
+4#continuous time system analysis#4.26#bode plots for given transfer function#ch4ex26.sce#22/CH4/EX4.26/ch4ex26.sce#S##2138
+4#continuous time system analysis#4.26#bode plots for given transfer function#ch4ex26.jpg#22/CH4/EX4.26/ch4ex26.jpg#R##2139
+4#continuous time system analysis#4.25#bode plots for given transfer function#ch4ex25.sce#22/CH4/EX4.25/ch4ex25.sce#S##2133
+4#continuous time system analysis#4.25#bode plots for given transfer function#ch4ex25.jpg#22/CH4/EX4.25/ch4ex25.jpg#R##2134
+4#continuous time system analysis#4.24#frequency response of a given system#ch4ex24.sce#22/CH4/EX4.24/ch4ex24.sce#S##2130
+4#continuous time system analysis#4.24#frequency response of a given system#ch4ex24a.jpg#22/CH4/EX4.24/ch4ex24a.jpg#R##2131
+4#continuous time system analysis#4.24#frequency response of a given system#ch4ex24b.jpg#22/CH4/EX4.24/ch4ex24b.jpg#R##2132
+4#continuous time system analysis#4.23#frequency response of a given system#ch4ex23.sce#22/CH4/EX4.23/ch4ex23.sce#S##2125
+4#continuous time system analysis#4.23#frequency response of a given system#ch4ex23.jpg#22/CH4/EX4.23/ch4ex23.jpg#R##2126
+4#continuous time system analysis#4.2#laplace transform of given fsignal#ch4ex2.sce#22/CH4/EX4.2/ch4ex2.sce#S##2067
+4#continuous time system analysis#4.17#voltage and current of a given network#ch4ex17.sce#22/CH4/EX4.17/ch4ex17.sce#S##2118
+4#continuous time system analysis#4.16#loop current in a given network#ch4ex16.sce#22/CH4/EX4.16/ch4ex16.sce#S##2113
+4#continuous time system analysis#4.15#loop current in a given network#ch4ex15.sce#22/CH4/EX4.15/ch4ex15.sce#S##2112
+4#continuous time system analysis#4.12#response to LTIC system#ch4ex12.sce#22/CH4/EX4.12/ch4ex12.sce#S##2114
+4#continuous time system analysis#4.11#solution to ode using laplace transform#ch4ex11.sce#22/CH4/EX4.11/ch4ex11.sce#S##2105
+4#continuous time system analysis#4.10#second order linear differential equation#ch4ex10.sce#22/CH4/EX4.10/ch4ex10.sce#S##2102
+4#continuous time system analysis#4.1#laplace transform of exponential signal#ch4ex1.sce#22/CH4/EX4.1/ch4ex1.sce#S##2059
+4#continuous time system analysis#4.1#laplace transform of exponential signal#ch4ex1.jpg#22/CH4/EX4.1/ch4ex1.jpg#R##2060
+3#time domain analysis of discrete time systems#3.9#iterative solution#ch3ex9.sce#22/CH3/EX3.9/ch3ex9.sce#S##1877
+3#time domain analysis of discrete time systems#3.9#iterative solution#ch3ex9.jpg#22/CH3/EX3.9/ch3ex9.jpg#R##1878
+3#time domain analysis of discrete time systems#3.8#iterative solution#ch3ex8.sce#22/CH3/EX3.8/ch3ex8.sce#S##1882
+3#time domain analysis of discrete time systems#3.8#iterative solution#ch3ex8.jpg#22/CH3/EX3.8/ch3ex8.jpg#R##1883
+3#time domain analysis of discrete time systems#3.20#forced response#ch3ex20.sce#22/CH3/EX3.20/ch3ex20.sce#S##1933
+3#time domain analysis of discrete time systems#3.20#forced response#ch3ex20.jpg#22/CH3/EX3.20/ch3ex20.jpg#R##1934
+3#time domain analysis of discrete time systems#3.19#forced response#ch3ex19.sce#22/CH3/EX3.19/ch3ex19.sce#S##1927
+3#time domain analysis of discrete time systems#3.19#forced response#ch3ex19.jpg#22/CH3/EX3.19/ch3ex19.jpg#R##1928
+3#time domain analysis of discrete time systems#3.18#total response with given initial conditions#ch3ex18.sce#22/CH3/EX3.18/ch3ex18.sce#S##1921
+3#time domain analysis of discrete time systems#3.18#total response with given initial conditions#ch3ex18.jpg#22/CH3/EX3.18/ch3ex18.jpg#R##1922
+3#time domain analysis of discrete time systems#3.17#total response with given initial conditions#ch3ex17.sce#22/CH3/EX3.17/ch3ex17.sce#S##1914
+3#time domain analysis of discrete time systems#3.17#total response with given initial conditions#ch3ex17.jpg#22/CH3/EX3.17/ch3ex17.jpg#R##1915
+3#time domain analysis of discrete time systems#3.16#sliding tape method of convolution#ch3ex16.sce#22/CH3/EX3.16/ch3ex16.sce#S##1908
+3#time domain analysis of discrete time systems#3.16#sliding tape method of convolution#ch3ex16.jpg#22/CH3/EX3.16/ch3ex16.jpg#R##1909
+3#time domain analysis of discrete time systems#3.14#convolution of discrete signals#ch3ex14.sce#22/CH3/EX3.14/ch3ex14.sce#S##1903
+3#time domain analysis of discrete time systems#3.14#convolution of discrete signals#ch3ex14.jpg#22/CH3/EX3.14/ch3ex14.jpg#R##1904
+3#time domain analysis of discrete time systems#3.13#convolution of discrete signals #ch3ex13.sce#22/CH3/EX3.13/ch3ex13.sce#S##1900
+3#time domain analysis of discrete time systems#3.13#convolution of discrete signals #ch3ex13.jpg#22/CH3/EX3.13/ch3ex13.jpg#R##1901
+3#time domain analysis of discrete time systems#3.11#iterative determination of unit impulse response#ch3ex11.sce#22/CH3/EX3.11/ch3ex11.sce#S##1896
+3#time domain analysis of discrete time systems#3.11#iterative determination of unit impulse response#ch3ex11.jpg#22/CH3/EX3.11/ch3ex11.jpg#R##1897
+3#time domain analysis of discrete time systems#3.10#total response with given initial conditions#ch3ex10.sce#22/CH3/EX3.10/ch3ex10.sce#S##1891
+3#time domain analysis of discrete time systems#3.10#total response with given initial conditions#ch3ex10a.jpg#22/CH3/EX3.10/ch3ex10a.jpg#R##1892
+3#time domain analysis of discrete time systems#3.10#total response with given initial conditions#ch3ex10b.jpg#22/CH3/EX3.10/ch3ex10b.jpg#R##1893
+3#time domain analysis of discrete time systems#3.1#energy and power of a signal#ch3ex1.sce#22/CH3/EX3.1/ch3ex1.sce#S##1870
+3#time domain analysis of discrete time systems#3.1#energy and power of a signal#ch3ex1.jpg#22/CH3/EX3.1/ch3ex1.jpg#R##1871
+2#time domain analysis of continuous time systems#2.9#graphical convolution#ch2ex9b.jpg#22/CH2/EX2.9/ch2ex9b.jpg#R##2542
+2#time domain analysis of continuous time systems#2.9#graphical convolution#que2_9.sce#22/CH2/EX2.9/que2_9.sce#S##2540
+2#time domain analysis of continuous time systems#2.9#graphical convolution#ch2ex9c.jpg#22/CH2/EX2.9/ch2ex9c.jpg#R##2541
+2#time domain analysis of continuous time systems#2.8#graphical convolution#que2_8.sce#22/CH2/EX2.8/que2_8.sce#S##2543
+2#time domain analysis of continuous time systems#2.8#graphical convolution#ch2ex8c.jpg#22/CH2/EX2.8/ch2ex8c.jpg#R##2544
+2#time domain analysis of continuous time systems#2.8#graphical convolution#ch2ex8b.jpg#22/CH2/EX2.8/ch2ex8b.jpg#R##2545
+2#time domain analysis of continuous time systems#2.7#graphical convolution#ch2ex7b.jpg#22/CH2/EX2.7/ch2ex7b.jpg#R##2539
+2#time domain analysis of continuous time systems#2.7#graphical convolution#ch2ex7c.jpg#22/CH2/EX2.7/ch2ex7c.jpg#R##2538
+2#time domain analysis of continuous time systems#2.7#graphical convolution#ch2ex7.sce#22/CH2/EX2.7/ch2ex7.sce#S##2537
+2#time domain analysis of continuous time systems#2.6#zero state response#ch2ex6b.jpg#22/CH2/EX2.6/ch2ex6b.jpg#R##2536
+2#time domain analysis of continuous time systems#2.6#zero state response#ch2ex6c.jpg#22/CH2/EX2.6/ch2ex6c.jpg#R##2535
+2#time domain analysis of continuous time systems#2.6#zero state response#que2_6.sce#22/CH2/EX2.6/que2_6.sce#S##2534
+2#time domain analysis of continuous time systems#2.5#unit impulse response for an LTIC system#ch2ex5b.jpg#22/CH2/EX2.5/ch2ex5b.jpg#R##2533
+2#time domain analysis of continuous time systems#2.5#unit impulse response for an LTIC system#ch2ex5c.jpg#22/CH2/EX2.5/ch2ex5c.jpg#R##2532
+2#time domain analysis of continuous time systems#2.5#unit impulse response for an LTIC system#que2_5.sce#22/CH2/EX2.5/que2_5.sce#S##2531
+1#signals and systems#1.8#even and odd components of a signal#ch1ex8.sce#22/CH1/EX1.8/ch1ex8.sce#S##1858
+1#signals and systems#1.8#even and odd components of a signal#ch1ex8a.jpg#22/CH1/EX1.8/ch1ex8a.jpg#R##1859
+1#signals and systems#1.8#even and odd components of a signal#ch1ex8b.jpg#22/CH1/EX1.8/ch1ex8b.jpg#R##1860
+1#signals and systems#1.7#describing a signal in a single expression#ch1ex7.sce#22/CH1/EX1.7/ch1ex7.sce#S##1855
+1#signals and systems#1.7#describing a signal in a single expression#ch1ex7.jpg#22/CH1/EX1.7/ch1ex7.jpg#R##1856
+1#signals and systems#1.6#basic signal models#ch1ex6.sce#22/CH1/EX1.6/ch1ex6.sce#S##1853
+1#signals and systems#1.6#basic signal models#ch1ex6.jpg#22/CH1/EX1.6/ch1ex6.jpg#R##1854
+1#signals and systems#1.5#time reversal#ch1ex5.sce#22/CH1/EX1.5/ch1ex5.sce#S##1845
+1#signals and systems#1.5#time reversal#ch1ex5a.jpg#22/CH1/EX1.5/ch1ex5a.jpg#R##1846
+1#signals and systems#1.5#time reversal#ch5ex5b.jpg#22/CH1/EX1.5/ch5ex5b.jpg#R##1847
+1#signals and systems#1.4#time scaling#ch1ex4.sce#22/CH1/EX1.4/ch1ex4.sce#S##1838
+1#signals and systems#1.4#time scaling#ch1ex4a.jpg#22/CH1/EX1.4/ch1ex4a.jpg#R##1839
+1#signals and systems#1.4#time scaling#ch1ex4b.jpg#22/CH1/EX1.4/ch1ex4b.jpg#R##1840
+1#signals and systems#1.3#time shifting#ch1ex3.sce#22/CH1/EX1.3/ch1ex3.sce#S##1833
+1#signals and systems#1.3#time shifting#ch1ex3a.jpg#22/CH1/EX1.3/ch1ex3a.jpg#R##1834
+1#signals and systems#1.3#time shifting#ch1ex3b.jpg#22/CH1/EX1.3/ch1ex3b.jpg#R##1835
+1#signals and systems#1.2#power and rms value#ch1ex2.sce#22/CH1/EX1.2/ch1ex2.sce#S##1816
+1#signals and systems#1.10#input output equation#ch1ex10.sce#22/CH1/EX1.10/ch1ex10.sce#S##1866

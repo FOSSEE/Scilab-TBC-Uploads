@@ -1,0 +1,6 @@
+ Ex-4.4(a)   
+Uncertainity in position is 3.20 nm 
+ Ex-4.4((b)   
+Since the motion is strictly along X-direction, its velocity in Y direction is absolutely zero.
+ So uncertainity in velocity along y is zero=> uncertainity in position along y is infinite. 
+So nothing can be said about its position/motion along Y 

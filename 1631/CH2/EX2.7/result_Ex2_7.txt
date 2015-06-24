@@ -1,0 +1,3 @@
+ probability of first ball is white and second ball is red   
+ 
+    0.3  

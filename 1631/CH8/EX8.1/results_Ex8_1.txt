@@ -1,0 +1,9 @@
+z =    
+ 
+    3.1622777  
+ 
+ probability of bit error when P(s1)=P(s2)=1/2    
+ 
+ P(e)=   
+ 
+    0.0007827 

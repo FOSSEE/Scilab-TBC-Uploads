@@ -1,0 +1,1 @@
+ Speed of particle is 2.904738e+08 meter/sec.

@@ -1,0 +1,7 @@
+ # PROBLEM 4 # 
+Standard formula used 
+1/2 * m*v^2 = E_0 
+ E = (h^2 / (8 * pi^2 * m)) * (3 * pi^2 * N/V)^(2/3) 
+
+ Fermi energy is 7.035979 eV.
+ Average energy is 4.221587 eV. 

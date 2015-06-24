@@ -1,0 +1,10 @@
+x1 = -50 m 
+x2 = 450 m 
+
+The distance from the lowest point to the midpoint = 250 m 
+Sag at midpoint = 15.62 m 
+S2 = 50.62 m 
+Height of point B from mid point = 35 m 
+Clearance of mid point from water level = 55.00 m 
+
+

@@ -1,0 +1,4 @@
+
+Example 7.5
+Frequency required for penetration of depth 10 cm is 1.716212e+03 Hz.
+ Sea water is good conductor at frequency lesser than 1e8 Hz.

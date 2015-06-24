@@ -1,0 +1,6 @@
+ # PROBLEM 4.9 # 
+ 
+ The three components of machinig force are as follows-
+ Thrust force = 422 N,
+ Feed force component = 365 N,
+ Normal thrust force component = 211 N.

@@ -1,0 +1,22 @@
+ m_d  =
+ 
+    0.8  
+Annual fixed charges
+  Annual fixed charges = Rs. 21000 
+  Aggregate of maximum demamd = 100 kW 
+  Annual fixed charges = Rs. 210 per kW of max demand
+
+Annual running charges
+  Annual running charges = Rs. 10500 
+  Units generated per annum = 280320 kWh 
+  Units reaching customer  = 245280 kWh 
+  Annual running charges = Rs. 0.04281 
+
+Generation cost in two part form is: 
+ 					 Rs(210 * kW + 0.04281 * kWh)
+
+Total annual charges = Rs. 31500 
+
+Cost per kWh = Rs. 0.1284 
+
+

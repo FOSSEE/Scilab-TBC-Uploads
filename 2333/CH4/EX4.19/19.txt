@@ -1,0 +1,6 @@
+# PROBLEM 19 # 
+
+ Standard formula used 
+ theta = pi*t*(mu_l-mu_r)/(lambda). 
+
+ Rotation of plane of polarization is 7.086614 degree.

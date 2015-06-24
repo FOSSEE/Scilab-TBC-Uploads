@@ -1,0 +1,5 @@
+ New Speed is=    
+ 
+    64.318975  
+ 
+ percent of original speed

@@ -1,0 +1,3 @@
+ # PROBLEM 6.2 # 
+
+ Percentage change in cutting time when tool is changed from coppper to steel = 56 percent(reduction) 

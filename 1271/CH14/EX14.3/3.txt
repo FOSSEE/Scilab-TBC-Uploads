@@ -1,0 +1,5 @@
+ # PROBLEM 3 # 
+Standard formula used 
+ E = h*c/lambda 
+
+ Energy of photon is 4.965000e-19 J.

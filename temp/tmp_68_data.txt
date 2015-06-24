@@ -1,0 +1,82 @@
+14#Output Stages and amplifier#14.5#To determine the maximum power dissipated#ex5.sce#68/CH14/EX14.5/ex5.sce#S##1603
+14#Output Stages and amplifier#14.4#To determine thermal resistance junction temperat#ex4.sce#68/CH14/EX14.4/ex4.sce#S##1596
+14#Output Stages and amplifier#14.3#Redesign the output stage of Example 2#ex3.sce#68/CH14/EX14.3/ex3.sce#S##1594
+14#Output Stages and amplifier#14.2#To determine quiescent current and power#ex2.sce#68/CH14/EX14.2/ex2.sce#S##1589
+14#Output Stages and amplifier#14.1#To design a Class B Output Amplifier#ex1.sce#68/CH14/EX14.1/ex1.sce#S##1587
+12#Filters and tuned amplifiers#12.4#To design tuned amplifier#ex4.sce#68/CH12/EX12.4/ex4.sce#S##1584
+11#Memory and advanced digital circuits#11.3#Time required #ex3.sce#68/CH11/EX11.3/ex3.sce#S##1021
+11#Memory and advanced digital circuits#11.2#Design of two stage CMOS op amp#ex2.sce#68/CH11/EX11.2/ex2.sce#S##1020
+11#Memory and advanced digital circuits#11.1#Min WbyL ratio to ensure flip flop will switch#ex1.sce#68/CH11/EX11.1/ex1.sce#S##1019
+10#Digital CMOS logic circuits#10.4#To determine parameters for NMOS transistor#ex4.sce#68/CH10/EX10.4/ex4.sce#S##1018
+10#Digital CMOS logic circuits#10.3#To determine the parameters of pseudo NMOS inverte#ex3.sce#68/CH10/EX10.3/ex3.sce#S##1017
+10#Digital CMOS logic circuits#10.2#WbyL ratios for the logic circuit#ex2.sce#68/CH10/EX10.2/ex2.sce#S##1016
+10#Digital CMOS logic circuits#10.1#To determine tPHL  tPLH and tP#ex1.sce#68/CH10/EX10.1/ex1.sce#S##1015
+9#Operational amplifier and data converter circuits#9.3#To determine input offset voltage#ex3.sce#68/CH9/EX9.3/ex3.sce#S##1014
+9#Operational amplifier and data converter circuits#9.2#To determine Av ft fP SR and PD of folded casc#ex2.sce#68/CH9/EX9.2/ex2.sce#S##1013
+9#Operational amplifier and data converter circuits#9.1#Design of two stage CMOS op amp  #ex1.sce#68/CH9/EX9.1/ex1.sce#S##1012
+8#Feedback#8.4#Small signal analysis#ex4.sce#68/CH8/EX8.4/ex4.sce#S##1572
+8#Feedback#8.3#Small signal analysis#ex3.sce#68/CH8/EX8.3/ex3.sce#S##1566
+8#Feedback#8.2#Feedback triple#ex2.sce#68/CH8/EX8.2/ex2.sce#S##1561
+8#Feedback#8.1# Analysis of op amp connected in an inverting conf#ex1.sce#68/CH8/EX8.1/ex1.sce#S##1555
+7#Differential and multistage amplifier#7.5#Analysis of given circuit#ex5.sce#68/CH7/EX7.5/ex5.sce#S##1011
+7#Differential and multistage amplifier#7.3#To determine all parameters for different transist#ex3.sce#68/CH7/EX7.3/ex3.sce#S##1010
+7#Differential and multistage amplifier#7.2#Analysis of Active loaded MOS differential amplifi#ex2.sce#68/CH7/EX7.2/ex2.sce#S##1009
+7#Differential and multistage amplifier#7.1#Analysis of differential amplifier#ex1.sce#68/CH7/EX7.1/ex1.sce#S##1008
+6#single stage integrated circuit amplifiers#6.9#Analysis of CMOS CS amplifier#ex9.sce#68/CH6/EX6.9/ex9.sce#S##1235
+6#single stage integrated circuit amplifiers#6.8#Analysis of CMOS CS amplifier#ex8.sce#68/CH6/EX6.8/ex8.sce#S##1233
+6#single stage integrated circuit amplifiers#6.7# Application of miller theorem#ex7.sce#68/CH6/EX6.7/ex7.sce#S##1231
+6#single stage integrated circuit amplifiers#6.6#To determine midband gain and upper 3dB frequency#ex6.sce#68/CH6/EX6.6/ex6.sce#S##1227
+6#single stage integrated circuit amplifiers#6.5#Determine 3dB frequency#ex5.sce#68/CH6/EX6.5/ex5.sce#S##1226
+6#single stage integrated circuit amplifiers#6.4#Design of the circuit with output current 100uA#ex4.sce#68/CH6/EX6.4/ex4.sce#S##1225
+6#single stage integrated circuit amplifiers#6.3#Comparison between NMOS transistor and npn transis#ex3.sce#68/CH6/EX6.3/ex3.sce#S##1224
+6#single stage integrated circuit amplifiers#6.2#Comparison between NMOS transistor and npn transis#ex2.sce#68/CH6/EX6.2/ex2.sce#S##1223
+6#single stage integrated circuit amplifiers#6.14#To determine required resistor values#ex14.sce#68/CH6/EX6.14/ex14.sce#S##1248
+6#single stage integrated circuit amplifiers#6.13# Analysis of CC CE amplifier#ex13.sce#68/CH6/EX6.13/ex13.sce#S##1247
+6#single stage integrated circuit amplifiers#6.12#Comparison between Cascode amplifier and CS amplif#ex12.sce#68/CH6/EX6.12/ex12.sce#S##1243
+6#single stage integrated circuit amplifiers#6.11# Avo Rin Rout Gi Gis Gv fH#ex11.sce#68/CH6/EX6.11/ex11.sce#S##1242
+6#single stage integrated circuit amplifiers#6.10#To determine AM ft fZ f3dB#ex10.sce#68/CH6/EX6.10/ex10.sce#S##1237
+6#single stage integrated circuit amplifiers#6.1#To find the operating point of NMOS transistor#ex1.sce#68/CH6/EX6.1/ex1.sce#S##1222
+5#Bipolar Junction Transistor#5.9#Analyse the circuit to find node voltages and bran#ex9.sce#68/CH5/EX5.9/ex9.sce#S##998
+5#Bipolar Junction Transistor#5.8#Analyse the circuit to find node voltages and bran#ex8.sce#68/CH5/EX5.8/ex8.sce#S##995
+5#Bipolar Junction Transistor#5.7#Analyse the circuit to find node voltages and bran#ex7.sce#68/CH5/EX5.7/ex7.sce#S##994
+5#Bipolar Junction Transistor#5.5#Analyse the circuit to find node voltages and bran#ex5.sce#68/CH5/EX5.5/ex5.sce#S##988
+5#Bipolar Junction Transistor#5.4#Analyse the circuit to find node voltages and bran#ex4.sce#68/CH5/EX5.4/ex4.sce#S##985
+5#Bipolar Junction Transistor#5.3#Determine RB #ex3.sce#68/CH5/EX5.3/ex3.sce#S##991
+5#Bipolar Junction Transistor#5.2#Consider a common Emitter circuit#ex2.sce#68/CH5/EX5.2/ex2.sce#S##980
+5#Bipolar Junction Transistor#5.19#To select values of capacitance required#ex19.sce#68/CH5/EX5.19/ex19.sce#S##1250
+5#Bipolar Junction Transistor#5.18#Midband gain and 3dB frequency#ex18.sce#68/CH5/EX5.18/ex18.sce#S##1608
+5#Bipolar Junction Transistor#5.17#Amplifier parameters#ex17.sce#68/CH5/EX5.17/ex17.sce#S##1007
+5#Bipolar Junction Transistor#5.14#Analysis of transistor amplifier#ex14.sce#68/CH5/EX5.14/ex14.sce#S##1006
+5#Bipolar Junction Transistor#5.13#Design of bias network of the amplifier#ex13.sce#68/CH5/EX5.13/ex13.sce#S##1005
+5#Bipolar Junction Transistor#5.11#Analyse the circuit to find node voltages and bran#ex11.sce#68/CH5/EX5.11/ex11.sce#S##1004
+5#Bipolar Junction Transistor#5.10#Analyse the circuit to find node voltages and bran#ex10.sce#68/CH5/EX5.10/ex10.sce#S##1001
+5#Bipolar Junction Transistor#5.1#Design of given circuit with current 2mA#ex1.sce#68/CH5/EX5.1/ex1.sce#S##977
+4#MOS Field Effect Transistors#4.9#Design of given circuit#ex4_9.sce#68/CH4/EX4.9/ex4_9.sce#S##967
+4#MOS Field Effect Transistors#4.7#To determine drain currents and output voltage#ex4_7.sce#68/CH4/EX4.7/ex4_7.sce#S##964
+4#MOS Field Effect Transistors#4.6#Design of given circuit#ex6.sce#68/CH4/EX4.6/ex6.sce#S##974
+4#MOS Field Effect Transistors#4.5#To determine all node voltages and currents throug#ex5.sce#68/CH4/EX4.5/ex5.sce#S##973
+4#MOS Field Effect Transistors#4.4#Design of given circuit#ex4.sce#68/CH4/EX4.4/ex4.sce#S##961
+4#MOS Field Effect Transistors#4.3#Design of given circuit#ex3.sce#68/CH4/EX4.3/ex3.sce#S##960
+4#MOS Field Effect Transistors#4.2#Design of given circuit#ex2.sce#68/CH4/EX4.2/ex2.sce#S##957
+4#MOS Field Effect Transistors#4.13#Coupling capacitor values#ex4_13.sce#68/CH4/EX4.13/ex4_13.sce#S##972
+4#MOS Field Effect Transistors#4.12#Midband gain and upper 3dB frequency#ex4_12.sce#68/CH4/EX4.12/ex4_12.sce#S##969
+4#MOS Field Effect Transistors#4.11#To determine all parameters of transistor amplifie#ex4_11.sce#68/CH4/EX4.11/ex4_11.sce#S##968
+4#MOS Field Effect Transistors#4.10#Small signal analysis#ex10.sce#68/CH4/EX4.10/ex10.sce#S##1618
+4#MOS Field Effect Transistors#4.1#To determine operating point parameters#ex1.sce#68/CH4/EX4.1/ex1.sce#S##954
+3#Diodes#3.9#Value of capacitance C that will result in peak pe#ex9.sce#68/CH3/EX3.9/ex9.sce#S##952
+3#Diodes#3.8#line regulation load regulation#ex8.sce#68/CH3/EX3.8/ex8.sce#S##1249
+3#Diodes#3.7#Percentage change in regulated voltage#ex7.sce#68/CH3/EX3.7/ex7.sce#S##949
+3#Diodes#3.6#Power supply ripple#ex6.sce#68/CH3/EX3.6/ex6.sce#S##948
+3#Diodes#3.5#Repeating example 4 using piecewise linear model#ex5.sce#68/CH3/EX3.5/ex5.sce#S##945
+3#Diodes#3.4#To determine ID and VD#ex4.sce#68/CH3/EX3.4/ex4.sce#S##942
+3#Diodes#3.3#Evaluating junction scaling constant#ex3.sce#68/CH3/EX3.3/ex3.sce#S##939
+3#Diodes#3.2#Values of Iand V for the circuit given#ex2.sce#68/CH3/EX3.2/ex2.sce#S##936
+3#Diodes#3.1#Peak value of diode current and maximum reverse vo#ex1.sce#68/CH3/EX3.1/ex1.sce#S##935
+2#Operational Amplifiers#2.3#Design instrumentation amplifier#ex3.sce#68/CH2/EX2.3/ex3.sce#S##932
+2#Operational Amplifiers#2.1#Closed loop and open loop gain#ex1.sce#68/CH2/EX2.1/ex1.sce#S##929
+1#Introduction to Electronics#1.6# Evaluation of tPHL#ex6.sce#68/CH1/EX1.6/ex6.sce#S##924
+1#Introduction to Electronics#1.5#DC gain 3dB frequency and frequency at which gain #ex5.sce#68/CH1/EX1.5/ex5.sce#S##921
+1#Introduction to Electronics#1.4#Bipolar junction transistor#ex4.sce#68/CH1/EX1.4/ex4.sce#S##919
+1#Introduction to Electronics#1.3#Overall voltage gain of three stage amplifier#ex3.sce#68/CH1/EX1.3/ex3.sce#S##916
+1#Introduction to Electronics#1.2#Gain of transistor amplifier#ex2.sce#68/CH1/EX1.2/ex2.sce#S##913
+1#Introduction to Electronics#1.1#Amplifier gain power and eficiency#ex1.sce#68/CH1/EX1.1/ex1.sce#S##910

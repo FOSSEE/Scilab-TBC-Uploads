@@ -1,0 +1,6 @@
+ # PROBLEM 18 # 
+Standard formula used 
+  mu_r = 1 + Chi 
+
+ Permeability is 0.002000 N/A^2.
+ Susceptibility is 1590.

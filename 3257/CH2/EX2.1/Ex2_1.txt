@@ -1,0 +1,4 @@
+ 
+ Example 2.1
+ True ultimate tensile strength is 487659.73kPa
+ Engineering UTS of material is 295780.58 kPa 

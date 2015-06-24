@@ -1,0 +1,6 @@
+
+2.I2=I3=0.002897 A
+when E=1
+circuit voltage (V)=1.000000 V
+when E=0
+circuit voltage (V)=0.500000 V

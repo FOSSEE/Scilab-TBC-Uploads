@@ -1,0 +1,1 @@
+Temperature coeff in percentage = 0.0142 %/degree-C

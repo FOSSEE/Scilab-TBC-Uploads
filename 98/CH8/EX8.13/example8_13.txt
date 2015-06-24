@@ -1,0 +1,5 @@
+Disruptive critical voltage = 83.70 kV/phase 
+
+Line voltage = 144.97 kV 
+
+

@@ -1,0 +1,82 @@
+13#Fluid Flow about Immersed Objects#13.3#Chapter 13 Example 3#Ex13_3.sce#2789/CH13/EX13.3/Ex13_3.sce#S##93075
+13#Fluid Flow about Immersed Objects#13.2#Chapter 13 Example 2#Ex13_2.sce#2789/CH13/EX13.2/Ex13_2.sce#S##93073
+13#Fluid Flow about Immersed Objects#13.1#Chapter 13 Example 1#Ex13_1.sce#2789/CH13/EX13.1/Ex13_1.sce#S##93072
+12#Elementary Hydrodynamics#12.2#Chapter 12 Example 2#Ex12_2.sce#2789/CH12/EX12.2/Ex12_2.sce#S##93070
+11#Fluid Measurements#11.5#Chapter 11 Example 5#Ex11_5.sce#2789/CH11/EX11.5/Ex11_5.sce#S##93069
+11#Fluid Measurements#11.4#Chapter 11 Example 4#Ex11_4.sce#2789/CH11/EX11.4/Ex11_4.sce#S##93068
+11#Fluid Measurements#11.3#Chapter 11 Example 3#Ex11_3.sce#2789/CH11/EX11.3/Ex11_3.sce#S##93066
+11#Fluid Measurements#11.2#Chapter 11 Example 2#Ex11_2.sce#2789/CH11/EX11.2/Ex11_2.sce#S##93065
+11#Fluid Measurements#11.1#Chapter 11 Example 1#Ex11_1.sce#2789/CH11/EX11.1/Ex11_1.sce#S##93064
+9#Fluid Flow in Pipes#9.9#Chapter 9 Example 9#Ex9_9.sce#2789/CH9/EX9.9/Ex9_9.sce#S##93054
+9#Fluid Flow in Pipes#9.8#Chapter 9 Example 8#Ex9_8.sce#2789/CH9/EX9.8/Ex9_8.sce#S##93052
+9#Fluid Flow in Pipes#9.7#Chapter 9 Example 7#Ex9_7.sce#2789/CH9/EX9.7/Ex9_7.sce#S##93051
+9#Fluid Flow in Pipes#9.6#Chapter 9 Example 6#Ex9_6.sce#2789/CH9/EX9.6/Ex9_6.sce#S##93050
+9#Fluid Flow in Pipes#9.4#Chapter 9 Example 4#Ex9_4.sce#2789/CH9/EX9.4/Ex9_4.sce#S##93048
+9#Fluid Flow in Pipes#9.3#Chapter 9 Example 3#Ex9_3.sce#2789/CH9/EX9.3/Ex9_3.sce#S##93047
+9#Fluid Flow in Pipes#9.2#Chapter 9 Example 2#Ex9_2.sce#2789/CH9/EX9.2/Ex9_2.sce#S##93045
+9#Fluid Flow in Pipes#9.16#Chapter 9 Example 16#Ex9_16.sce#2789/CH9/EX9.16/Ex9_16.sce#S##93062
+9#Fluid Flow in Pipes#9.15#Chapter 9 Example 15#Ex9_15.sce#2789/CH9/EX9.15/Ex9_15.sce#S##93061
+9#Fluid Flow in Pipes#9.14#Chapter 9 Example 14#Ex9_14.sce#2789/CH9/EX9.14/Ex9_14.sce#S##93060
+9#Fluid Flow in Pipes#9.13#Chapter 9 Example 13#Ex9_13.sce#2789/CH9/EX9.13/Ex9_13.sce#S##93059
+9#Fluid Flow in Pipes#9.12#Chapter 9 Example 12#Ex9_12.sce#2789/CH9/EX9.12/Ex9_12.sce#S##93057
+9#Fluid Flow in Pipes#9.11#Chapter 9 Example 11#Ex9_11.sce#2789/CH9/EX9.11/Ex9_11.sce#S##93056
+9#Fluid Flow in Pipes#9.10#Chapter 9 Example 10#Ex9_10.sce#2789/CH9/EX9.10/Ex9_10.sce#S##93055
+9#Fluid Flow in Pipes#9.1#Chapter 9 Example 1#Ex9_1.sce#2789/CH9/EX9.1/Ex9_1.sce#S##93044
+8#Similitude and Dimensional Analysis#8.4#Chapter 8 Example 4#Ex8_4.sce#2789/CH8/EX8.4/Ex8_4.sce#S##93042
+8#Similitude and Dimensional Analysis#8.3#Chapter 8 Example 3#Ex8_3.sce#2789/CH8/EX8.3/Ex8_3.sce#S##93041
+8#Similitude and Dimensional Analysis#8.2#Chapter 8 Example 2#Ex8_2.sce#2789/CH8/EX8.2/Ex8_2.sce#S##93040
+8#Similitude and Dimensional Analysis#8.1#Chapter 8 Example 1#Ex8_1.sce#2789/CH8/EX8.1/Ex8_1.sce#S##93039
+7#Flow of a Real Fluid#7.7#Chapter 7 Example 7#Ex7_7.sce#2789/CH7/EX7.7/Ex7_7.sce#S##93037
+7#Flow of a Real Fluid#7.6#Chapter 7 Example 6#Ex7_6.sce#2789/CH7/EX7.6/Ex7_6.sce#S##93036
+7#Flow of a Real Fluid#7.5#Chapter 7 Example 5#Ex7_5.sce#2789/CH7/EX7.5/Ex7_5.sce#S##93034
+7#Flow of a Real Fluid#7.4#Chapter 7 Example 4#Ex7_4.sce#2789/CH7/EX7.4/Ex7_4.sce#S##93033
+7#Flow of a Real Fluid#7.1#Chapter 7 Example 1#Ex7_1.sce#2789/CH7/EX7.1/Ex7_1.sce#S##93032
+6#The Impulse Momentum Principle#6.9#Chapter 6 Example 9#Ex6_9.sce#2789/CH6/EX6.9/Ex6_9.sce#S##93027
+6#The Impulse Momentum Principle#6.8#Chapter 6 Example 8#Ex6_8.sce#2789/CH6/EX6.8/Ex6_8.sce#S##93025
+6#The Impulse Momentum Principle#6.7#Chapter 6 Example 7#Ex6_7.sce#2789/CH6/EX6.7/Ex6_7.sce#S##93024
+6#The Impulse Momentum Principle#6.6#Chapter 6 Example 6#Ex6_6.sce#2789/CH6/EX6.6/Ex6_6.sce#S##93023
+6#The Impulse Momentum Principle#6.5#Chapter 6 Example 5#Ex6_5.sce#2789/CH6/EX6.5/Ex6_5.sce#S##93022
+6#The Impulse Momentum Principle#6.4#Chapter 6 Example 4#Ex6_4.sce#2789/CH6/EX6.4/Ex6_4.sce#S##93021
+6#The Impulse Momentum Principle#6.3#Chapter 6 Example 3#Ex6_3.sce#2789/CH6/EX6.3/Ex6_3.sce#S##93020
+6#The Impulse Momentum Principle#6.2#Chapter 6 Example 2#Ex6_2.sce#2789/CH6/EX6.2/Ex6_2.sce#S##93018
+6#The Impulse Momentum Principle#6.12#Chapter 6 Example 12#Ex6_12.sce#2789/CH6/EX6.12/Ex6_12.sce#S##93030
+6#The Impulse Momentum Principle#6.11#Chapter 6 Example 11#Ex6_11.sce#2789/CH6/EX6.11/Ex6_11.sce#S##93029
+6#The Impulse Momentum Principle#6.10#Chapter 6 Example 10#Ex6_10.sce#2789/CH6/EX6.10/Ex6_10.sce#S##93028
+6#The Impulse Momentum Principle#6.1#Chapter 6 Example 1#Ex6_1.sce#2789/CH6/EX6.1/Ex6_1.sce#S##93017
+5#Flow of a Compressible Ideal Fluid#5.6#Chapter 5 Example 6#Ex5_6.sce#2789/CH5/EX5.6/Ex5_6.sce#S##93015
+5#Flow of a Compressible Ideal Fluid#5.5#Chapter 5 Example 5#Ex5_5.sce#2789/CH5/EX5.5/Ex5_5.sce#S##93013
+5#Flow of a Compressible Ideal Fluid#5.4#Chapter 5 Example 4#Ex5_4.sce#2789/CH5/EX5.4/Ex5_4.sce#S##93012
+5#Flow of a Compressible Ideal Fluid#5.3#Chapter 5 Example 3#Ex5_3.sce#2789/CH5/EX5.3/Ex5_3.sce#S##93011
+5#Flow of a Compressible Ideal Fluid#5.2#Chapter 5 Example 2#Ex5_2.sce#2789/CH5/EX5.2/Ex5_2.sce#S##93009
+5#Flow of a Compressible Ideal Fluid#5.1#Chapter 5 Example 1#Ex5_1.sce#2789/CH5/EX5.1/Ex5_1.sce#S##93008
+4#Flow of an Incompressible Ideal Fluid#4.9#Chapter 4 Example 9#Ex4_9.sce#2789/CH4/EX4.9/Ex4_9.sce#S##93004
+4#Flow of an Incompressible Ideal Fluid#4.7#Chapter 4 Example 7#Ex4_7.sce#2789/CH4/EX4.7/Ex4_7.sce#S##93003
+4#Flow of an Incompressible Ideal Fluid#4.6#Chapter 4 Example 6#Ex4_6.sce#2789/CH4/EX4.6/Ex4_6.sce#S##92999
+4#Flow of an Incompressible Ideal Fluid#4.5#Chapter 4 Example 5#Ex4_5.sce#2789/CH4/EX4.5/Ex4_5.sce#S##93001
+4#Flow of an Incompressible Ideal Fluid#4.4#Chapter 4 Example 4#Ex4_4.sce#2789/CH4/EX4.4/Ex4_4.sce#S##93000
+4#Flow of an Incompressible Ideal Fluid#4.3#Chapter 4 Example 3#Ex4_3.sce#2789/CH4/EX4.3/Ex4_3.sce#S##92997
+4#Flow of an Incompressible Ideal Fluid#4.2#Chapter 4 Example 2#Ex4_2.sce#2789/CH4/EX4.2/Ex4_2.sce#S##92996
+4#Flow of an Incompressible Ideal Fluid#4.12#Chapter 4 Example 12#Ex4_12.sce#2789/CH4/EX4.12/Ex4_12.sce#S##93007
+4#Flow of an Incompressible Ideal Fluid#4.11#Chapter 4 Example 11#Ex4_11.sce#2789/CH4/EX4.11/Ex4_11.sce#S##93006
+4#Flow of an Incompressible Ideal Fluid#4.1#Chapter 4 Example 1#Ex4_1.sce#2789/CH4/EX4.1/Ex4_1.sce#S##92995
+3#Kinematics of Fluid Motion#3.5#Chapter 3 Example 5#Ex3_5.sce#2789/CH3/EX3.5/Ex3_5.sce#S##92993
+3#Kinematics of Fluid Motion#3.4#Chapter 3 Example 4#Ex3_4.sce#2789/CH3/EX3.4/Ex3_4.sce#S##92992
+3#Kinematics of Fluid Motion#3.3#Chapter 3 Example 3#Ex3_3.sce#2789/CH3/EX3.3/Ex3_3.sce#S##92991
+3#Kinematics of Fluid Motion#3.2#Chapter 3 Example 2#Ex3_2.sce#2789/CH3/EX3.2/Ex3_2.sce#S##92990
+3#Kinematics of Fluid Motion#3.1#Chapter 3 Example 1#Ex3_1.sce#2789/CH3/EX3.1/Ex3_1.sce#S##92989
+2#Fluid Statics#2.9#Chapter 2 Example 9#Ex2_9.sce#2789/CH2/EX2.9/Ex2_9.sce#S##92984
+2#Fluid Statics#2.8#Chapter 2 Example 8#Ex2_8.sce#2789/CH2/EX2.8/Ex2_8.sce#S##92983
+2#Fluid Statics#2.7#Chapter 2 Example 7#Ex2_7.sce#2789/CH2/EX2.7/Ex2_7.sce#S##92982
+2#Fluid Statics#2.6#Chapter 2 Example 6#Ex2_6.sce#2789/CH2/EX2.6/Ex2_6.sce#S##92981
+2#Fluid Statics#2.5#Chapter 2 Example 5#Ex2_5.sce#2789/CH2/EX2.5/Ex2_5.sce#S##92979
+2#Fluid Statics#2.4#Chapter 2 Example 4#Ex2_4.sce#2789/CH2/EX2.4/Ex2_4.sce#S##92977
+2#Fluid Statics#2.3#Chapter 2 Example 3#Ex2_3.sce#2789/CH2/EX2.3/Ex2_3.sce#S##92976
+2#Fluid Statics#2.2#Chapter 2 Example 2#Ex2_2.sce#2789/CH2/EX2.2/Ex2_2.sce#S##92975
+2#Fluid Statics#2.11#Chapter 2 Example 11#Ex2_11.sce#2789/CH2/EX2.11/Ex2_11.sce#S##92987
+2#Fluid Statics#2.10#Chapter 2 Example 10#Ex2_10.sce#2789/CH2/EX2.10/Ex2_10.sce#S##92986
+2#Fluid Statics#2.1#Chapter 2 Example 1#Ex2_1.sce#2789/CH2/EX2.1/Ex2_1.sce#S##92974
+1#Fundamentals#1.5#Chapter 1 Example 5#Ex1_5.sce#2789/CH1/EX1.5/Ex1_5.sce#S##92972
+1#Fundamentals#1.4#Chapter 1 Example 4#Ex1_4.sce#2789/CH1/EX1.4/Ex1_4.sce#S##92971
+1#Fundamentals#1.3#Chapter 1 Example 3#Ex1_3.sce#2789/CH1/EX1.3/Ex1_3.sce#S##92970
+1#Fundamentals#1.2#Chapter 1 Example 2#Ex1_2.sce#2789/CH1/EX1.2/Ex1_2.sce#S##92969
+1#Fundamentals#1.1#Chapter 1 Example 1#Ex1_1.sce#2789/CH1/EX1.1/Ex1_1.sce#S##92967

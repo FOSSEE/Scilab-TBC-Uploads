@@ -1,0 +1,11 @@
+ (a)no load speed (in rpm)=   
+ 
+    338.92857  
+ 
+ (b)Full load speed (in rpm)=   
+ 
+    327.69679  
+ 
+ (c)Speed Regulation (in %)=   
+ 
+    3.4274911  

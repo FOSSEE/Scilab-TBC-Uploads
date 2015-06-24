@@ -1,0 +1,5 @@
+Leading kVAR taken by condensor bank = 1.99 kVAR 
+
+Rating of capacitors connected in phase = 0.663 kVAR 
+
+-->diary(0)

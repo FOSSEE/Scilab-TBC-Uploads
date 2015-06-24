@@ -1,0 +1,17 @@
+clc;
+VCC=10;
+IP=50*10**-3;
+RL=4;
+I=IP/sqrt(2);
+Poac=I^2*RL;
+disp('mW',Poac*10**3,"Poac=");
+ICQ=IP;
+RL1=VCC/ICQ;
+a=sqrt(RL1/RL);
+disp(a);
+V1=VCC;
+V2=V1/a;
+I2p=V2/RL;
+I2=I2p/sqrt(2);
+P=(I2^2)*RL;
+disp('mW',P*10**3,"P=");

@@ -1,0 +1,1 @@
+Voltage required at the input is = 18.65 V

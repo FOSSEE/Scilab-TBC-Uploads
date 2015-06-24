@@ -1,0 +1,17 @@
+ Fault current in per unit = -j8 
+
+ Fault current in amperes = 16735 
+
+ Subtransient current through breaker A in per unit is -j7 
+
+ Subtransient current through breaker A in amperes is 14643 
+ 
+ Symmetrical Short circuit current to be interrupted in A   
+ 
+    12551.093  
+ 
+ The short circuit current rating of breakers must be atleast(in amperes)   
+ 
+    13945.659  
+
+ The required capability of 13946 A is well below 80 percent of 19993 A and the breaker is suitable with respect to the short-circuit current

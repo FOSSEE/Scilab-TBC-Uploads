@@ -1,0 +1,5 @@
+# Problem 12 # 
+
+ Standard formula Used 
+ delta_p * delta_x >= h /(2*pi)
+ Uncertainty in momentum is 5.272803e-21 Kg-m/s. 

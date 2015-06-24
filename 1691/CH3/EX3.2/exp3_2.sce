@@ -1,0 +1,57 @@
+//Example 3.2
+clc
+disp("Assume that the transistor Q1 is cut-off and the transistor Q2 is in saturation. Let us draw again the equivalent circuit from the base of Q1 to the collector of Q2")
+disp("This is shown in the fig. 3.8")
+disp("Another equivalent circuit from collector of Q1 to base of Q2 is shown in the fig 3.9")
+disp("To calculate the various voltages it is necessary to calculate the current I_C1, I_B2 as Q2 is ON. The current I_C1 = I_B1 = 0 as Q1 is OFF")
+disp("Now it is not very easy to calculate these currents by writing the equations from the equivalent circuits shown in the fig 3.8 and 3.9. So to calculate let us obtain Thevenin''s equivalent circuit once across collector and ground while another across base and ground for the same transistor Q2 assuming it as the load.")
+disp("To replace collector circuit of Q2 by Thevenin''s equivalent, consider Q2 as open shown in the fig 3.10")
+disp("Referring to fig 3.10,")
+voc=(12*40)/44
+format(5)
+disp(voc,"V_OC(in V) = I*(R1 + R2) = V_CC/(R1+R2+R_C) * (R1+R2) =")
+rth=160/44
+format(6)
+disp(rth,"and  R_TH(in k-ohm) = (R1+R2)||R_C =        with V_CC-N short")
+disp("To replace base circuit of Q2 by Thevenin''s equivalent, consider Q2 open and draw circuit as shown in the fig 3.11")
+voc=(12*10)/44
+format(5)
+disp(voc,"V_OC(in V) = I*R2 = V_CC/(R1+R2+R_C) * R2 =")
+rth=340/44
+format(6)
+disp(rth,"and  R_TH(in k-ohm) = (R2)||(R1+R_C) =")
+disp("Thus the equivalent circuit for Q1 ON, using Thevenin''s result calculated above, is as shown in the fig 3.12")
+disp("For silicon transistor,")
+disp("V_BE(sat) = 0.8 V and V_CE(sat) = 0.4 V")
+disp("Applying KVL to base-emitter loop,")
+disp("-7.727*I_B2 - V_BE2 - (I_C2 + I_B2)*0.5 + 2.73 = 0")
+disp("With V_BE2 = 0.8 V,  I_B2 + 0.06075*I_C2 = 0.2345          ...(1)")
+disp("Applying KVL to collector-emitter loop,")
+disp("-3.636*I_C2 - V_CE2 - (I_C2 + I_B2)*0.5 + 10.9 = 0")
+disp("With V_CE2 = 0.4 V, 4.14*I_C2 + 0.5*I_B2 = 10.5            ...(2)")
+disp("Solving equation(1) and (2) simultaneously we get,")
+disp("I_C2 = 2.526 mA  and  I_B2 = 0.0847 mA")
+hfe=2.526/0.0847
+format(7)
+disp(hfe,"Therefore,  h_fe(min) = I_C2 / I_B2 =")
+disp("The various voltages can be obtained now by referring fig 3.8 and 3.9")
+disp("V_EN = (I_B2 + I_C2)*R_E = 1.305 V")
+vcn2=0.4+1.305
+format(6)
+disp(vcn2,"V_CN2(in V) = V_CE2 + V_EN =")
+vbn2=0.8+1.305
+disp(vbn2,"V_BN2(in V) = V_BE2 + V_EN =")
+vbn1=1.705*(10/40)
+format(7)
+disp(vbn1,"V_BN1(in V) = V_CN2 * (R2/R1+R2) =")
+vbe1=0.4262-1.305
+disp(vbe1,"V_BE1(in V) = V_BN1 - V_EN =")
+disp("As V_BE1 < V_BE(sat) which is about 0.8 V, the transistor Q1 is indeed OFF")
+vcn1=(360/34)+((2.105*4)/34)
+format(8)
+disp(vcn1,"V_CN1(in V) = V_CC*R1/(R_C+R1) + V_BN2*R_C/(R_C+R1) =             ...usinf superposition principle")
+disp("Thus the stable state voltages and currents are:")
+disp("I_C1 = 0 mA        I_C2 = 2.526 mA      I_B1 = 0 mA        I_B2 = 0.0847 mA")
+disp("V_CN1 = 10.835 V   V_CN2 = 1.705 V      V_BN1 = 0.4262 V   V_BN2 = 2.105 V")
+disp("and  V_EN = +1.305 V")
+disp("The voltage V_EN provides the required self bias")

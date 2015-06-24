@@ -1,0 +1,3 @@
+Distribution factor=   
+ 
+    0.9597951  

@@ -1,0 +1,5 @@
+ Resistance Factor = 6.5000  
+
+ Reference Voltage = 11.5385  
+
+ Feedback Resistance = 65000.0000 

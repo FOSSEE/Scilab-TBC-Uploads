@@ -1,0 +1,12 @@
+Number of turns on high voltage side=   
+ 
+    260.  
+ 
+ Primary current(in Amp)=   
+ 
+    9.0909091  
+ 
+ Secondary current(in Amp)=   
+ 
+    4.5454545  
+ 

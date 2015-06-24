@@ -1,0 +1,2 @@
+**Sample Problem 26-1**
+The number of excess electron is equal to 1.821875e+006 

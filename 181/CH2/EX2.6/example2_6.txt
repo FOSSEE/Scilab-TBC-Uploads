@@ -1,0 +1,2 @@
+Transition capacitance of abrupt junction at 6.5 V = 17.54 pF
+This corresponds to a decrese of 2.46 pF 

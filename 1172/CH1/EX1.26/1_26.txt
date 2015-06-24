@@ -1,0 +1,5 @@
+ # Problem 26 # 
+ 
+ Standard formula used 
+   a*sin(theta ) = lambda 
+ Half angular width of central bright maxima is 30 degree .

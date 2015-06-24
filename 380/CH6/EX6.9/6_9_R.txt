@@ -1,0 +1,11 @@
+ (1) external resistance (in ohms)=   
+ 
+    17.380952  
+ 
+ (2a) breaking torque at the instant of plugging (in Newton-meter)=   
+ 
+    156.24  
+ 
+ (2b) breaking torque when speed of motor approaches zero (in Newton-meter)=   
+ 
+    80.953368 

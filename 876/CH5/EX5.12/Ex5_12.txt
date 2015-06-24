@@ -1,0 +1,7 @@
+ value of Rsh(in ohm)=   
+ 
+    0.0005  
+ 
+ value of R1(in ohm)=   
+ 
+    29.5 

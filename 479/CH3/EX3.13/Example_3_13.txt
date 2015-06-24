@@ -1,0 +1,4 @@
+For example 3.13,
+ the answers are given in the book, Mf = 0.017 Kgmole & Tf = 406K.
+ But i am getting Mf = 0.019232 Kgmole & Tf = 360K.	
+ There might be some calculation mistake in the book.

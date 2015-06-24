@@ -1,0 +1,9 @@
+ Signal to Quantization noise ratio   
+ 
+    61.8  
+ 
+ dB.   
+ 
+    7.  
+ 
+ bits required to get signal to niose ratio of 40dB 

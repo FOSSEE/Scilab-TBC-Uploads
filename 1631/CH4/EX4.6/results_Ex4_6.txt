@@ -1,0 +1,11 @@
+ Maximum message Bandwidth is    
+ 
+    3.5714286  
+ 
+ MHz   
+ 
+ signal to quantization niose ration   
+ 
+    43.8  
+ 
+ dB

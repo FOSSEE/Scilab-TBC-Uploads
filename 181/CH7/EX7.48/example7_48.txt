@@ -1,0 +1,4 @@
+Id = 3.2 mA or 1.8 mA
+FET will be cut off at Id=3.2mA.Hence Id=1.8mA
+Vgs = 6 V
+Vds = 12 V 

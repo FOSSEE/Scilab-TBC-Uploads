@@ -1,0 +1,103 @@
+10#Refrigeration and air conditioning#10.8#Ice produced#10_8.sce#2063/CH10/EX10.8/10_8.sce#S##83318
+10#Refrigeration and air conditioning#10.7#Theoretical COP#10_7.sce#2063/CH10/EX10.7/10_7.sce#S##83317
+10#Refrigeration and air conditioning#10.6#Capacity of refrigerator#10_6.sce#2063/CH10/EX10.6/10_6.sce#S##83316
+10#Refrigeration and air conditioning#10.5#Theoretical COP#10_5.sce#2063/CH10/EX10.5/10_5.sce#S##83315
+10#Refrigeration and air conditioning#10.4#Time taken to achieve cooling#10_4.sce#2063/CH10/EX10.4/10_4.sce#S##83314
+10#Refrigeration and air conditioning#10.3#COP of a heat pump#10_3.sce#2063/CH10/EX10.3/10_3.sce#S##83313
+10#Refrigeration and air conditioning#10.2#Refrigeration capacity#10_2.sce#2063/CH10/EX10.2/10_2.sce#S##83312
+10#Refrigeration and air conditioning#10.1#Power rating#10_1.sce#2063/CH10/EX10.1/10_1.sce#S##83311
+9#Air compressors#9.9#Power required#9_9.sce#2063/CH9/EX9.9/9_9.sce#S##83297
+9#Air compressors#9.8#Work done on air during delivery#9_8.sce#2063/CH9/EX9.8/9_8.sce#S##83296
+9#Air compressors#9.7#Work done by air during suction#9_7.sce#2063/CH9/EX9.7/9_7.sce#S##83295
+9#Air compressors#9.6#Isentropic compression#9_6.sce#2063/CH9/EX9.6/9_6.sce#S##83294
+9#Air compressors#9.5#Temperature#9_5.sce#2063/CH9/EX9.5/9_5.sce#S##83293
+9#Air compressors#9.4#Mass of air delivered per minute#9_4.sce#2063/CH9/EX9.4/9_4.sce#S##83292
+9#Air compressors#9.3#Indicated power#9_3.sce#2063/CH9/EX9.3/9_3.sce#S##83291
+9#Air compressors#9.22#Ratio of cylinder volumes#9_22.sce#2063/CH9/EX9.22/9_22.sce#S##83310
+9#Air compressors#9.21#Heat rejected#9_21.sce#2063/CH9/EX9.21/9_21.sce#S##83309
+9#Air compressors#9.20#Intermediate pressures#9_20.sce#2063/CH9/EX9.20/9_20.sce#S##83308
+9#Air compressors#9.2#Size of the cylinder#9_2.sce#2063/CH9/EX9.2/9_2.sce#S##83290
+9#Air compressors#9.19#Number of stages#9_19.sce#2063/CH9/EX9.19/9_19.sce#S##83307
+9#Air compressors#9.18#Ratio of cylinder diameters#9_18.sce#2063/CH9/EX9.18/9_18.sce#S##83306
+9#Air compressors#9.17#Volume ratio of LP to HP cylinders#9_17.sce#2063/CH9/EX9.17/9_17.sce#S##83305
+9#Air compressors#9.16#Mass of water#9_16.sce#2063/CH9/EX9.16/9_16.sce#S##83304
+9#Air compressors#9.15#Power required to drive compressor#9_15.sce#2063/CH9/EX9.15/9_15.sce#S##83303
+9#Air compressors#9.14#Work required#9_14.sce#2063/CH9/EX9.14/9_14.sce#S##83302
+9#Air compressors#9.13#Percentage saving in work#9_13.sce#2063/CH9/EX9.13/9_13.sce#S##83301
+9#Air compressors#9.12#Power of the compressor#9_12.sce#2063/CH9/EX9.12/9_12.sce#S##83300
+9#Air compressors#9.11#Volume of free air#9_11.sce#2063/CH9/EX9.11/9_11.sce#S##83299
+9#Air compressors#9.10#Work done by compressor#9_10.sce#2063/CH9/EX9.10/9_10.sce#S##83298
+9#Air compressors#9.1#Isothermal compression#9_1.sce#2063/CH9/EX9.1/9_1.sce#S##83289
+8#Steam Nozzles and Turbines#8.5#Velocity of steam at the throat#8_5.sce#2063/CH8/EX8.5/8_5.sce#S##83288
+8#Steam Nozzles and Turbines#8.4#Final exit velocity of steam#8_4.sce#2063/CH8/EX8.4/8_4.sce#S##83287
+8#Steam Nozzles and Turbines#8.3#Throat area#8_3.sce#2063/CH8/EX8.3/8_3.sce#S##83284
+8#Steam Nozzles and Turbines#8.2#Mass of steam discharged#8_2.sce#2063/CH8/EX8.2/8_2.sce#S##83283
+8#Steam Nozzles and Turbines#8.1#Final velocity of steam#8_1.sce#2063/CH8/EX8.1/8_1.sce#S##83282
+7#Performance of IC engines#7.9#Bore and stroke of piston#7_9.sce#2063/CH7/EX7.9/7_9.sce#S##83255
+7#Performance of IC engines#7.8#Dimensions of cylinder#7_8.sce#2063/CH7/EX7.8/7_8.sce#S##83254
+7#Performance of IC engines#7.7#Average piston speed#7_7.sce#2063/CH7/EX7.7/7_7.sce#S##83253
+7#Performance of IC engines#7.6#IHP#7_6.sce#2063/CH7/EX7.6/7_6.sce#S##83252
+7#Performance of IC engines#7.5#Mechanical efficiency#7_5.sce#2063/CH7/EX7.5/7_5.sce#S##83251
+7#Performance of IC engines#7.4#Specific fuel consumption#7_4.sce#2063/CH7/EX7.4/7_4.sce#S##83248
+7#Performance of IC engines#7.3#Brake thermal efficiency#7_3.sce#2063/CH7/EX7.3/7_3.sce#S##83249
+7#Performance of IC engines#7.28#Increase in brake power of engine due to supercharging#7_28.sce#2063/CH7/EX7.28/7_28.sce#S##83281
+7#Performance of IC engines#7.27#Percentage of heat carried away by exhaust gases#7_27.sce#2063/CH7/EX7.27/7_27.sce#S##83280
+7#Performance of IC engines#7.26#Percentage of heat carried away by exhaust gas#7_26.sce#2063/CH7/EX7.26/7_26.sce#S##83279
+7#Performance of IC engines#7.25#BHP#7_25.sce#2063/CH7/EX7.25/7_25.sce#S##83278
+7#Performance of IC engines#7.24#Heat balance#7_24.sce#2063/CH7/EX7.24/7_24.sce#S##83275
+7#Performance of IC engines#7.23#Compression ratio#7_23.sce#2063/CH7/EX7.23/7_23.sce#S##83273
+7#Performance of IC engines#7.22#IHP#7_22.sce#2063/CH7/EX7.22/7_22.sce#S##83270
+7#Performance of IC engines#7.21#Indicated thermal efficiency#7_21.sce#2063/CH7/EX7.21/7_21.sce#S##83269
+7#Performance of IC engines#7.20#IHP#7_20.sce#2063/CH7/EX7.20/7_20.sce#S##83266
+7#Performance of IC engines#7.2#Power available at brakes#7_2.sce#2063/CH7/EX7.2/7_2.sce#S##83247
+7#Performance of IC engines#7.19#BHP#7_19.sce#2063/CH7/EX7.19/7_19.sce#S##83265
+7#Performance of IC engines#7.18#Indicated power#7_18.sce#2063/CH7/EX7.18/7_18.sce#S##83264
+7#Performance of IC engines#7.17#Total orifice area#7_17.sce#2063/CH7/EX7.17/7_17.sce#S##83263
+7#Performance of IC engines#7.16#Diameter of orifice#7_16.sce#2063/CH7/EX7.16/7_16.sce#S##83262
+7#Performance of IC engines#7.15#Fuel to be injected#7_15.sce#2063/CH7/EX7.15/7_15.sce#S##83261
+7#Performance of IC engines#7.14#Fuel supplied#7_14.sce#2063/CH7/EX7.14/7_14.sce#S##83260
+7#Performance of IC engines#7.13#Diameter of venturi#7_13.sce#2063/CH7/EX7.13/7_13.sce#S##83259
+7#Performance of IC engines#7.12#Air standard efficiency#7_12.sce#2063/CH7/EX7.12/7_12.sce#S##83258
+7#Performance of IC engines#7.11#Volumetric efficiency#7_11.sce#2063/CH7/EX7.11/7_11.sce#S##83257
+7#Performance of IC engines#7.10#Volumetric efficiency#7_10.sce#2063/CH7/EX7.10/7_10.sce#S##83256
+7#Performance of IC engines#7.1#Brake torque#7_1.sce#2063/CH7/EX7.1/7_1.sce#S##83246
+1#Gas power cycles#1.8#Mean effective pressure#1_8.sce#2063/CH1/EX1.8/1_8.sce#S##82819
+1#Gas power cycles#1.7#Ideal power#1_7.sce#2063/CH1/EX1.7/1_7.sce#S##82818
+1#Gas power cycles#1.6#Compression ratio#1_6.sce#2063/CH1/EX1.6/1_6.sce#S##82817
+1#Gas power cycles#1.5#Mean effective pressure#1_5.sce#2063/CH1/EX1.5/1_5.sce#S##82813
+1#Gas power cycles#1.41#Overall efficiency#1_41.sce#2063/CH1/EX1.41/1_41.sce#S##83245
+1#Gas power cycles#1.40#Overall efficiency#1_40.sce#2063/CH1/EX1.40/1_40.sce#S##83244
+1#Gas power cycles#1.4#Air standard efficiency#1_4.sce#2063/CH1/EX1.4/1_4.sce#S##82812
+1#Gas power cycles#1.39#Isentropic efficiency#1_39.sce#2063/CH1/EX1.39/1_39.sce#S##83243
+1#Gas power cycles#1.38#Overall efficiency#1_38.sce#2063/CH1/EX1.38/1_38.sce#S##83242
+1#Gas power cycles#1.37#Mass of air#1_37.sce#2063/CH1/EX1.37/1_37.sce#S##83241
+1#Gas power cycles#1.36#Mass of fluid#1_36.sce#2063/CH1/EX1.36/1_36.sce#S##83240
+1#Gas power cycles#1.35#Maximum power#1_35.sce#2063/CH1/EX1.35/1_35.sce#S##83239
+1#Gas power cycles#1.34#Net power#1_34.sce#2063/CH1/EX1.34/1_34.sce#S##83237
+1#Gas power cycles#1.33#Air fuel ratio#1_33.sce#2063/CH1/EX1.33/1_33.sce#S##83236
+1#Gas power cycles#1.32#Maximum temperature#1_32.sce#2063/CH1/EX1.32/1_32.sce#S##83235
+1#Gas power cycles#1.31#Power developed#1_31.sce#2063/CH1/EX1.31/1_31.sce#S##83234
+1#Gas power cycles#1.30#Thermal efficiency#1_30.sce#2063/CH1/EX1.30/1_30.sce#S##83230
+1#Gas power cycles#1.3#Air standard efficiency#1_3.sce#2063/CH1/EX1.3/1_3.sce#S##82811
+1#Gas power cycles#1.29#Pressure ratio#1_29.sce#2063/CH1/EX1.29/1_29.sce#S##83216
+1#Gas power cycles#1.28#Temperature#1_28.sce#2063/CH1/EX1.28/1_28.sce#S##83213
+1#Gas power cycles#1.27#Ideal thermal efficiency#1_27.sce#2063/CH1/EX1.27/1_27.sce#S##83210
+1#Gas power cycles#1.26#Air standard efficiency#1_26.sce#2063/CH1/EX1.26/1_26.sce#S##83209
+1#Gas power cycles#1.25#Cycle efficiency#1_25.sce#2063/CH1/EX1.25/1_25.sce#S##83208
+1#Gas power cycles#1.24#Work done#1_24.sce#2063/CH1/EX1.24/1_24.sce#S##83207
+1#Gas power cycles#1.23#Cut off ratio#1_23.sce#2063/CH1/EX1.23/1_23.sce#S##83206
+1#Gas power cycles#1.22#Air standard efficiency#1_22.sce#2063/CH1/EX1.22/1_22.sce#S##83205
+1#Gas power cycles#1.21#Compression ratio#1_21.sce#2063/CH1/EX1.21/1_21.sce#S##83202
+1#Gas power cycles#1.20#Loss in efficiency#1_20.sce#2063/CH1/EX1.20/1_20.sce#S##83188
+1#Gas power cycles#1.2#Compression ratio#1_2.sce#2063/CH1/EX1.2/1_2.sce#S##82810
+1#Gas power cycles#1.19#Compression ratio#1_19.sce#2063/CH1/EX1.19/1_19.sce#S##83187
+1#Gas power cycles#1.18#Mean effective pressure#1_18.sce#2063/CH1/EX1.18/1_18.sce#S##83185
+1#Gas power cycles#1.17#Air standard efficiency#1_17.sce#2063/CH1/EX1.17/1_17.sce#S##83183
+1#Gas power cycles#1.16#Thermal efficiency#1_16.sce#2063/CH1/EX1.16/1_16.sce#S##83181
+1#Gas power cycles#1.15#Pressure#1_15.sce#2063/CH1/EX1.15/1_15.sce#S##83180
+1#Gas power cycles#1.14#Compression ratio#1_14.sce#2063/CH1/EX1.14/1_14.sce#S##83179
+1#Gas power cycles#1.13#Efficiency#1_13.sce#2063/CH1/EX1.13/1_13.sce#S##83178
+1#Gas power cycles#1.12#Air standard efficiency#1_12.sce#2063/CH1/EX1.12/1_12.sce#S##83177
+1#Gas power cycles#1.11#Efficiencies for cut off ratio#1_11.sce#2063/CH1/EX1.11/1_11.sce#S##82854
+1#Gas power cycles#1.10#Maximum theoretical power#1_10.sce#2063/CH1/EX1.10/1_10.sce#S##82838
+1#Gas power cycles#1.1#The pressures#1_1.sce#2063/CH1/EX1.1/1_1.sce#S##82809

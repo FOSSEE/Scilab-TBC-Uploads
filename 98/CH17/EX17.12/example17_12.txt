@@ -1,0 +1,5 @@
+% reactance of the reactor = 14.00 % 
+
+Reactance in ohms = 1.22 
+
+

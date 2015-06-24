@@ -1,0 +1,38 @@
+ 
+
+
+ Augmented prefault bus admittance matrix (in PU) is given by
+
+ Ybus=
+ 
+    11.284152 - 65.612163i    0             0           - 4.244997 + 24.257126i   - 7.0391553 + 41.355037i  
+    0                       - 11.235955i    0             11.235955i                0                       
+    0                         0           - 7.1428571i    0                         7.1428571i              
+  - 4.244997 + 24.257126i     11.235955i    0             6.659713 - 44.617911i   - 1.4488088 + 8.8538313i  
+  - 7.0391553 + 41.355037i    0             7.1428571i  - 1.4488088 + 8.8538313i    8.9769945 - 57.297216i  
+
+
+
+ Bus admittance matrix during fault (in PU) is given by
+
+ Ybus_during_fault=
+ 
+    5.7986033 - 35.768947i    0           - 0.0681253 + 5.1661269i  
+    0                       - 11.235955i    0                       
+  - 0.0681253 + 5.1661269i    0             0.1361683 - 6.2737394i  
+
+
+
+ Bus admittance matrix postfault (in PU) is given by
+
+ Ybus_post_fault=
+ 
+    1.3931179 - 14.011919i  - 0.2213865 + 7.628982i   - 0.0901365 + 6.0974822i  
+  - 0.2213865 + 7.628982i     0.5005328 - 7.7897867i    0                       
+  - 0.0901365 + 6.0974822i    0                         0.1590837 - 6.1167759i  
+
+
+
+WARNING : The size of the figure may not be as wide as you want.
+ 
+

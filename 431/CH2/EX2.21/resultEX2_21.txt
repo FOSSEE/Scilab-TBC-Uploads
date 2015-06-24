@@ -1,0 +1,3 @@
+ Example 2.21   
+voltage drop across each brush=486.000000V
+full load speed of the motor=675.000000rpm 

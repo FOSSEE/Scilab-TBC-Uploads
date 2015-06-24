@@ -1,0 +1,15 @@
+ KVA Rating of transformer with additive polarity (in KVA)=   
+ 
+    1320.  
+ 
+ Efficiency of auto transformer with additive polarity (in %)=   
+ 
+    99.996214  
+ 
+ KVA Rating of transformer with subtractive polarity (in KVA)=   
+ 
+    1080.  
+ 
+ Efficiency of auto transformer with subtractive polarity (in %)=   
+ 
+    99.995372

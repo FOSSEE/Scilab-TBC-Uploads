@@ -1,0 +1,11 @@
+(a) rho = 2 ohm-cm
+N_A=2.31e+015 /cm^3
+N_D=1.64e+015 /cm^3
+The height of the potential energy barrier is:
+V_0=0.227 eV
+
+(b)For silicon:
+N_A=8.33e+015 /cm^3
+N_D=2.40e+015 /cm^3
+The height of the potential energy barrier is:
+V_0=0.656 eV 

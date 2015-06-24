@@ -1,0 +1,1 @@
+ The signal at receiving station = 88.913971 micro volts 

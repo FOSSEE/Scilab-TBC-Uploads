@@ -1,0 +1,2 @@
+ The diameter of antenna = 81.456243 cm
+ The half power point beam width = 7.120387 degree

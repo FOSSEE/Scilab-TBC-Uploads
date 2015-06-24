@@ -1,0 +1,23 @@
+ 
+ Calculations using conductor spacing and radius   
+
+
+ Capactive reatance = 0.1962e6 ohm mi to neutral 
+
+
+
+ Capactive susceptance = 5.0970e-6 mho/mi to neutral 
+
+ 
+ Calculations using capacitive reactance at 1-ft spacing and spacing factor   
+
+
+ Capactive reatance = 0.1963e6 ohm mi per conductor 
+
+
+
+ Line-to-line capactive reatance = 0.3926e6 ohm mi 
+
+
+
+ Line-to-line capactive susceptance = 2.5471e-6 mho mi 

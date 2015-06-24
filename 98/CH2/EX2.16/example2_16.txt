@@ -1,0 +1,9 @@
+(i)	Maximum energy that can be produced in a month = 1224000.0 kWh 
+
+		 Actual energy produced = 489600.0 kWh 
+
+		 Fuel consumption in a month =137088 kg 
+
+(ii)	 Overall efficiency =30.11 % 
+
+

@@ -1,0 +1,17 @@
+clear;
+clc;
+ke=200e6;
+r=50e6;
+ps=25e6;
+pe=22.5e6;
+g=50;
+f=60;
+p=ps-pe;
+h=ke/r;
+m=g*h/(180*f);
+m=round(m*10000)/10000;
+n=m*180/(%pi);
+n=round(n*100)/100;
+mprintf("the angular momentum is %fMJ.s/elec.degree\tor\t%fMJs/rad",m,n);
+a=p/n/1e6;
+printf("\nthe angular acceleration =%frad/sec^2",a);

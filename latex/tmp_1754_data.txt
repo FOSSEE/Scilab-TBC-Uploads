@@ -1,0 +1,95 @@
+11#Multivibrators#11.1#Frequency of Oscillators#Exa11_1.sce#1754/CH11/EX11.1/Exa11_1.sce#S##60023
+9#Unijunction Transistor#9.3#Resistances RB1 and RB2#Exa9_3.sce#1754/CH9/EX9.3/Exa9_3.sce#S##60022
+9#Unijunction Transistor#9.2#Time period of sawtooth waveform#Exa9_2.sce#1754/CH9/EX9.2/Exa9_2.sce#S##60020
+9#Unijunction Transistor#9.1#Stand off voltage and peak point Voltage#Exa9_1.sce#1754/CH9/EX9.1/Exa9_1.sce#S##60021
+8#Oscillators#8.m.5#Resonant frequencies and Q factor#ExaMisc8_5.sce#1754/CH8/EX8.m.5/ExaMisc8_5.sce#S##63668
+8#Oscillators#8.m.4#Various parameter of colpitt oscillator#ExaMisc8_4.sce#1754/CH8/EX8.m.4/ExaMisc8_4.sce#S##63667
+8#Oscillators#8.m.3#Value of Capacitor#ExaMisc8_3.sce#1754/CH8/EX8.m.3/ExaMisc8_3.sce#S##63666
+8#Oscillators#8.m.2#Value of C and hfe#ExaMisc8_2.sce#1754/CH8/EX8.m.2/ExaMisc8_2.sce#S##63665
+8#Oscillators#8.m.1#Value of L1#ExaMisc8_1.sce#1754/CH8/EX8.m.1/ExaMisc8_1.sce#S##63664
+8#Oscillators#8.9#Resonant Frequency#Exa8_9.sce#1754/CH8/EX8.9/Exa8_9.sce#S##60654
+8#Oscillators#8.8#Resonant Frequency#Exa8_8.sce#1754/CH8/EX8.8/Exa8_8.sce#S##60653
+8#Oscillators#8.7#Resistnce to cover frequency range#Exa8_7.sce#1754/CH8/EX8.7/Exa8_7.sce#S##60652
+8#Oscillators#8.6#Frequency of oscillation and min current gain#Exa8_6.sce#1754/CH8/EX8.6/Exa8_6.sce#S##60651
+8#Oscillators#8.5#Amplifier voltage gain#Exa8_5.sce#1754/CH8/EX8.5/Exa8_5.sce#S##66883
+8#Oscillators#8.4#Frequency of oscillation#Exa8_4.sce#1754/CH8/EX8.4/Exa8_4.sce#S##60649
+8#Oscillators#8.3#C2 of colpitt oscilator#Exa8_3.sce#1754/CH8/EX8.3/Exa8_3.sce#S##62393
+8#Oscillators#8.2#Range of variable capacitor#Exa8_2.sce#1754/CH8/EX8.2/Exa8_2.sce#S##60648
+8#Oscillators#8.10#Parallel and series resonant frequencies#Exa8_10.sce#1754/CH8/EX8.10/Exa8_10.sce#S##60655
+8#Oscillators#8.1#feed bck factor#Exa8_1.sce#1754/CH8/EX8.1/Exa8_1.sce#S##66882
+7#Magnetic Materials#7.6#Magnetising Force and material magnetisation#Exa7_6.sce#1754/CH7/EX7.6/Exa7_6.sce#S##60018
+7#Magnetic Materials#7.5#Relative Permeability#Exa7_5.sce#1754/CH7/EX7.5/Exa7_5.sce#S##60017
+7#Magnetic Materials#7.4#Flux density magnetic intensity and permeability#Exa7_4.sce#1754/CH7/EX7.4/Exa7_4.sce#S##60016
+7#Magnetic Materials#7.3#Magnetic moment of rod#Exa7_3.sce#1754/CH7/EX7.3/Exa7_3.sce#S##60015
+7#Magnetic Materials#7.2#Current through solenoid#Exa7_2.sce#1754/CH7/EX7.2/Exa7_2.sce#S##60014
+7#Magnetic Materials#7.1#Horizontal component of magnetic Intensity#Exa7_1.sce#1754/CH7/EX7.1/Exa7_1.sce#S##60013
+6#Field Effect Transistors and MOSFETS#6.8#Pinch off voltage#Exa6_8.sce#1754/CH6/EX6.8/Exa6_8.sce#S##60009
+6#Field Effect Transistors and MOSFETS#6.7#IDQ VGSQ VD VS VDS VDG#Exa6_7.sce#1754/CH6/EX6.7/Exa6_7.sce#S##60008
+6#Field Effect Transistors and MOSFETS#6.6#Output voltage of amplifier#Exa6_6.sce#1754/CH6/EX6.6/Exa6_6.sce#S##66881
+6#Field Effect Transistors and MOSFETS#6.5#Voltage Amplification#Exa6_5.sce#1754/CH6/EX6.5/Exa6_5.sce#S##66880
+6#Field Effect Transistors and MOSFETS#6.2#AC drain resistance transconductance and amplification factor#Exa6_2.sce#1754/CH6/EX6.2/Exa6_2.sce#S##66879
+6#Field Effect Transistors and MOSFETS#6.11#Channel width W#Exa6_11.sce#1754/CH6/EX6.11/Exa6_11.sce#S##60012
+6#Field Effect Transistors and MOSFETS#6.10#Plot gm VS IDSS#Exa6_10.sce#1754/CH6/EX6.10/Exa6_10.sce#S##62459
+6#Field Effect Transistors and MOSFETS#6.1#Value of Transconductance#Exa6_1.sce#1754/CH6/EX6.1/Exa6_1.sce#S##60003
+5#Feed Back#5.9#Voltage gain input and output resistance#Exa5_9.sce#1754/CH5/EX5.9/Exa5_9.sce#S##59998
+5#Feed Back#5.8#Feedback rction voltage and impedence#Exa5_8.sce#1754/CH5/EX5.8/Exa5_8.sce#S##59997
+5#Feed Back#5.7#New gain distortion and input voltage#Exa5_7.sce#1754/CH5/EX5.7/Exa5_7.sce#S##59996
+5#Feed Back#5.6#Small Change in gain#Exa5_6.sce#1754/CH5/EX5.6/Exa5_6.sce#S##59995
+5#Feed Back#5.5#Fraction of output fed back#Exa5_5.sce#1754/CH5/EX5.5/Exa5_5.sce#S##59994
+5#Feed Back#5.4#Bandwidth with negative feedback#Exa5_4.sce#1754/CH5/EX5.4/Exa5_4.sce#S##59993
+5#Feed Back#5.3#Gain with feedback factor and feedback voltage#Exa5_3.sce#1754/CH5/EX5.3/Exa5_3.sce#S##59992
+5#Feed Back#5.2#Voltage gain and reduction in voltage#Exa5_2.sce#1754/CH5/EX5.2/Exa5_2.sce#S##66878
+5#Feed Back#5.13#Input resistance and voltage gain#Exa5_13.sce#1754/CH5/EX5.13/Exa5_13.sce#S##60002
+5#Feed Back#5.12#Gain and new bandwidth#Exa5_12.sce#1754/CH5/EX5.12/Exa5_12.sce#S##60001
+5#Feed Back#5.11#Bandwidth after feedback#Exa5_11.sce#1754/CH5/EX5.11/Exa5_11.sce#S##60000
+5#Feed Back#5.10#Gain wih feedbck in dB#Exa5_10.sce#1754/CH5/EX5.10/Exa5_10.sce#S##59999
+5#Feed Back#5.1#Percentage of output which is fed back#Exa5_1.sce#1754/CH5/EX5.1/Exa5_1.sce#S##59990
+4#Frequency Response#4.2#Upper 3dB Frequency#Exa4_2.sce#1754/CH4/EX4.2/Exa4_2.sce#S##59989
+4#Frequency Response#4.1#3dB Frequeny#Exa4_1.sce#1754/CH4/EX4.1/Exa4_1.sce#S##59988
+3#Transistor Amplifiers#3.9#Inductance of primary and secondary#Exa3_9.sce#1754/CH3/EX3.9/Exa3_9.sce#S##60641
+3#Transistor Amplifiers#3.8#Voltage gain#Exa3_8.sce#1754/CH3/EX3.8/Exa3_8.sce#S##67226
+3#Transistor Amplifiers#3.7#Couopling capacitor#Exa3_7.sce#1754/CH3/EX3.7/Exa3_7.sce#S##60639
+3#Transistor Amplifiers#3.6#Overall voltage gain#Exa3_6.sce#1754/CH3/EX3.6/Exa3_6.sce#S##60638
+3#Transistor Amplifiers#3.5#Bandwidth and cut off frequencies#Exa3_5.sce#1754/CH3/EX3.5/Exa3_5.sce#S##60637
+3#Transistor Amplifiers#3.4#Net voltage gain in dB#Exa3_4.sce#1754/CH3/EX3.4/Exa3_4.sce#S##60636
+3#Transistor Amplifiers#3.3#Input Output impedence and output voltage#Exa3_3.sce#1754/CH3/EX3.3/Exa3_3.sce#S##60635
+3#Transistor Amplifiers#3.2#Gain input and output impedence#Exa3_2.sce#1754/CH3/EX3.2/Exa3_2.sce#S##60634
+3#Transistor Amplifiers#3.14#Maximum permissible power dissipation#Exa3_14.sce#1754/CH3/EX3.14/Exa3_14.sce#S##60646
+3#Transistor Amplifiers#3.13#Maximum ac power output#Exa3_13.sce#1754/CH3/EX3.13/Exa3_13.sce#S##60645
+3#Transistor Amplifiers#3.12#Power and effiiency#Exa3_12.sce#1754/CH3/EX3.12/Exa3_12.sce#S##60644
+3#Transistor Amplifiers#3.11#Collector efficieny and power rating#Exa3_11.sce#1754/CH3/EX3.11/Exa3_11.sce#S##60643
+3#Transistor Amplifiers#3.10#Turn ratio of transformer#Exa3_10.sce#1754/CH3/EX3.10/Exa3_10.sce#S##66877
+3#Transistor Amplifiers#3.1#Gain Impedence and ac load#Exa3_1.sce#1754/CH3/EX3.1/Exa3_1.sce#S##60633
+2#Bipolar Junction Transistors#2.9#Current gain input resistance and voltage gain#Exa2_9.sce#1754/CH2/EX2.9/Exa2_9.sce#S##60622
+2#Bipolar Junction Transistors#2.7#Dynamic input resistance#Exa2_7.sce#1754/CH2/EX2.7/Exa2_7.sce#S##60621
+2#Bipolar Junction Transistors#2.6#Input resistance of transistor#Exa2_6.sce#1754/CH2/EX2.6/Exa2_6.sce#S##60620
+2#Bipolar Junction Transistors#2.5#Current gain and base current#Exa2_5.sce#1754/CH2/EX2.5/Exa2_5.sce#S##60619
+2#Bipolar Junction Transistors#2.4#Input current in CE and CB configuration#Exa2_4.sce#1754/CH2/EX2.4/Exa2_4.sce#S##66873
+2#Bipolar Junction Transistors#2.3#Change in collector current#Exa2_3.sce#1754/CH2/EX2.3/Exa2_3.sce#S##60617
+2#Bipolar Junction Transistors#2.2#Value of IE#Exa2_2.sce#1754/CH2/EX2.2/Exa2_2.sce#S##59987
+2#Bipolar Junction Transistors#2.19#Voltage across RE#Exa2_19.sce#1754/CH2/EX2.19/Exa2_19.sce#S##60632
+2#Bipolar Junction Transistors#2.18#Region of Q point#Exa2_18.sce#1754/CH2/EX2.18/Exa2_18.sce#S##66876
+2#Bipolar Junction Transistors#2.17#IC and VCE#Exa2_17.sce#1754/CH2/EX2.17/Exa2_17.sce#S##60630
+2#Bipolar Junction Transistors#2.16#Operating point and stability factor#Exa2_16.sce#1754/CH2/EX2.16/Exa2_16.sce#S##66875
+2#Bipolar Junction Transistors#2.15#Value of IC#Exa2_15.sce#1754/CH2/EX2.15/Exa2_15.sce#S##67225
+2#Bipolar Junction Transistors#2.14#Set the operating point#Exa2_14.sce#1754/CH2/EX2.14/Exa2_14.sce#S##60627
+2#Bipolar Junction Transistors#2.13#RB and new value of IC#Exa2_13.sce#1754/CH2/EX2.13/Exa2_13.sce#S##60626
+2#Bipolar Junction Transistors#2.12#DC load line and operating point#Exa2_12.sce#1754/CH2/EX2.12/Exa2_12.sce#S##66874
+2#Bipolar Junction Transistors#2.11#Relative size of collector junction#Exa2_11.sce#1754/CH2/EX2.11/Exa2_11.sce#S##60624
+2#Bipolar Junction Transistors#2.10#Collector emitter saturation voltage#Exa2_10.sce#1754/CH2/EX2.10/Exa2_10.sce#S##60623
+2#Bipolar Junction Transistors#2.1#Current amplification factors#Exa2_1.sce#1754/CH2/EX2.1/Exa2_1.sce#S##59986
+1#Special Diodes#1.9#Output voltage voltage drop and current in zener diode#Exa1_9.sce#1754/CH1/EX1.9/Exa1_9.sce#S##59979
+1#Special Diodes#1.8#Maximum and minimum input supply voltage#Exa1_8.sce#1754/CH1/EX1.8/Exa1_8.sce#S##59978
+1#Special Diodes#1.7#Current limiting resistance and dissipated power#Exa1_7.sce#1754/CH1/EX1.7/Exa1_7.sce#S##59977
+1#Special Diodes#1.6#Value of series Resistor#Exa1_6.sce#1754/CH1/EX1.6/Exa1_6.sce#S##59976
+1#Special Diodes#1.5#Minimum value of resistance#Exa1_5.sce#1754/CH1/EX1.5/Exa1_5.sce#S##59975
+1#Special Diodes#1.4#Average dc current rms current rectification efficieny PIV#Exa1_4.sce#1754/CH1/EX1.4/Exa1_4.sce#S##59974
+1#Special Diodes#1.3#DC current DC voltage Ripple factor#Exa1_3.sce#1754/CH1/EX1.3/Exa1_3.sce#S##59973
+1#Special Diodes#1.2#Value of forward voltage#Exa1_2.sce#1754/CH1/EX1.2/Exa1_2.sce#S##59972
+1#Special Diodes#1.15#Equilibrium contact potential#Exa1_15.sce#1754/CH1/EX1.15/Exa1_15.sce#S##67224
+1#Special Diodes#1.14#Responsivity of InGaAs photodiode#Exa1_14.sce#1754/CH1/EX1.14/Exa1_14.sce#S##59984
+1#Special Diodes#1.13#Photocurrent#Exa1_13.sce#1754/CH1/EX1.13/Exa1_13.sce#S##67223
+1#Special Diodes#1.12#Diode Capacitance#Exa1_12.sce#1754/CH1/EX1.12/Exa1_12.sce#S##66872
+1#Special Diodes#1.11#Frequency range of tuning circuit#Exa1_11.sce#1754/CH1/EX1.11/Exa1_11.sce#S##59981
+1#Special Diodes#1.10#Maximum and Minimum LED current#Exa1_10.sce#1754/CH1/EX1.10/Exa1_10.sce#S##59980
+1#Special Diodes#1.1#Reverse saturation current#Exa1_1.sce#1754/CH1/EX1.1/Exa1_1.sce#S##66871

@@ -1,0 +1,5 @@
+
+ PBR =    
+ 
+    0.8004795  
+Since PBR < 1. So porous film will form which will be non protective

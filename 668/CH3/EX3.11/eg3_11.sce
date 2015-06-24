@@ -1,0 +1,9 @@
+P = 10^3; //in W per cm square
+E = 1.5; //in eV
+ab = 3*10^3; //in per cm
+t = 10^-9; //in s
+q = 1.6*10^-19;
+G = ab*P/E/q;
+disp(G,"The carrier generation rate (in per cm cube per sec) at the surface of the sample = ")
+d = G*t;
+disp(d,"The excess carrier density (in per cm cube) = ")

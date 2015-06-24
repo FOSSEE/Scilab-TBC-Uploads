@@ -1,0 +1,12 @@
+  
+ Copper loss (in watts)=   
+ 
+    950.96481  
+ 
+ Core loss (in watts)=   
+ 
+    267.03519  
+ 
+ Load current (in amperes)=   
+ 
+    4.8173627 

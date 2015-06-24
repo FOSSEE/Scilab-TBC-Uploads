@@ -1,0 +1,2 @@
+**Sample Problem 10-4**
+The velocity of m1 after collision is 0.536656m/s 

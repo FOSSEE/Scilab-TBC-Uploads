@@ -1,0 +1,6 @@
+# PROBLEM 1 # 
+Standard formula used 
+  M = I*a 
+
+ Magnetic moment is 9.318919e-24 Am^2.
+ Bohr magneton is 9.262468e-24 J/T.

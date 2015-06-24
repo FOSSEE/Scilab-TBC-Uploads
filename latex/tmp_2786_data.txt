@@ -1,0 +1,168 @@
+7#Fiber Optics#7.8#To calculate loss in dB#Ex7_8.sce#2786/CH7/EX7.8/Ex7_8.sce#S##98980
+7#Fiber Optics#7.8#To calculate loss in dB#Ex7_8.txt#2786/CH7/EX7.8/Ex7_8.txt#R##98981
+7#Fiber Optics#7.7#To calculate acceptance angle and Numerical apperture of optical fiber#Ex7_7.sce#2786/CH7/EX7.7/Ex7_7.sce#S##98978
+7#Fiber Optics#7.7#To calculate acceptance angle and Numerical apperture of optical fiber#Ex7_7.txt#2786/CH7/EX7.7/Ex7_7.txt#R##98979
+7#Fiber Optics#7.6#To calculate the loss in dB#Ex7_6.sce#2786/CH7/EX7.6/Ex7_6.sce#S##98976
+7#Fiber Optics#7.6#To calculate the loss in dB#Ex7_6.txt#2786/CH7/EX7.6/Ex7_6.txt#R##98977
+7#Fiber Optics#7.5#To calculate Numerical apperture and Angle of acceptance of optical fiber#Ex7_5.sce#2786/CH7/EX7.5/Ex7_5.sce#S##98974
+7#Fiber Optics#7.5#To calculate Numerical apperture and Angle of acceptance of optical fiber#Ex7_5.txt#2786/CH7/EX7.5/Ex7_5.txt#R##98975
+7#Fiber Optics#7.4#To calculate fractional index change for a given optical fiber#Ex7_4.sce#2786/CH7/EX7.4/Ex7_4.sce#S##98972
+7#Fiber Optics#7.4#To calculate fractional index change for a given optical fiber#Ex7_4.txt#2786/CH7/EX7.4/Ex7_4.txt#R##98973
+7#Fiber Optics#7.3#To calculate the refractive index of core#Ex7_3.sce#2786/CH7/EX7.3/Ex7_3.sce#S##98970
+7#Fiber Optics#7.3#To calculate the refractive index of core#Ex7_3.txt#2786/CH7/EX7.3/Ex7_3.txt#R##98971
+7#Fiber Optics#7.2#To calculate Angle of acceptance of optical fiber#Ex7_2.sce#2786/CH7/EX7.2/Ex7_2.sce#S##98968
+7#Fiber Optics#7.2#To calculate Angle of acceptance of optical fiber#Ex7_2.txt#2786/CH7/EX7.2/Ex7_2.txt#R##98969
+7#Fiber Optics#7.1#To calculate the numerical apperture#Ex7_1.sce#2786/CH7/EX7.1/Ex7_1.sce#S##98966
+7#Fiber Optics#7.1#To calculate the numerical apperture#Ex7_1.txt#2786/CH7/EX7.1/Ex7_1.txt#R##98967
+6#Lasers#6.3#To calculate the spot size#Ex6_3.sce#2786/CH6/EX6.3/Ex6_3.sce#S##98960
+6#Lasers#6.3#To calculate the spot size#Ex6_3.txt#2786/CH6/EX6.3/Ex6_3.txt#R##98961
+6#Lasers#6.2#To calculate the divergence#Ex6_2.sce#2786/CH6/EX6.2/Ex6_2.sce#S##98958
+6#Lasers#6.2#To calculate the divergence#Ex6_2.txt#2786/CH6/EX6.2/Ex6_2.txt#R##98959
+6#Lasers#6.1#To find relative population of two states in Ruby laser#Ex6_1.sce#2786/CH6/EX6.1/Ex6_1.sce#S##98956
+6#Lasers#6.1#To find relative population of two states in Ruby laser#Ex6_1.txt#2786/CH6/EX6.1/Ex6_1.txt#R##98957
+5#Xray Diffraction#5.9#To find the glancing angle for second order diffraction#Ex5_9.sce#2786/CH5/EX5.9/Ex5_9.sce#S##98940
+5#Xray Diffraction#5.9#To find the glancing angle for second order diffraction#Ex5_9.txt#2786/CH5/EX5.9/Ex5_9.txt#R##98941
+5#Xray Diffraction#5.8#To calculate the interatomic spacing#Ex5_8.sce#2786/CH5/EX5.8/Ex5_8.sce#S##98938
+5#Xray Diffraction#5.8#To calculate the interatomic spacing#Ex5_8.txt#2786/CH5/EX5.8/Ex5_8.txt#R##98939
+5#Xray Diffraction#5.7#To calculate the wavelength of Xrays and also maximum order of diffraction possible#Ex5_7.sce#2786/CH5/EX5.7/Ex5_7.sce#S##98936
+5#Xray Diffraction#5.7#To calculate the wavelength of Xrays and also maximum order of diffraction possible#Ex5_7.txt#2786/CH5/EX5.7/Ex5_7.txt#R##98937
+5#Xray Diffraction#5.6#To calculate wavelength of Xrays and maximum order of diffraction possible#Ex5_6.sce#2786/CH5/EX5.6/Ex5_6.sce#S##98934
+5#Xray Diffraction#5.6#To calculate wavelength of Xrays and maximum order of diffraction possible#Ex5_6.txt#2786/CH5/EX5.6/Ex5_6.txt#R##98935
+5#Xray Diffraction#5.5#To obtain miller indices of a plane#Ex5_5.sce#2786/CH5/EX5.5/Ex5_5.sce#S##98932
+5#Xray Diffraction#5.5#To obtain miller indices of a plane#Ex5_5.txt#2786/CH5/EX5.5/Ex5_5.txt#R##98933
+5#Xray Diffraction#5.4#To calculate ratio of d100 d110 d111  for simple cubic structure#Ex5_4.sce#2786/CH5/EX5.4/Ex5_4.sce#S##98930
+5#Xray Diffraction#5.4#To calculate ratio of d100 d110 d111  for simple cubic structure#Ex5_4.txt#2786/CH5/EX5.4/Ex5_4.txt#R##98931
+5#Xray Diffraction#5.3#To calculate interplanar spacing#Ex5_3.sce#2786/CH5/EX5.3/Ex5_3.sce#S##98928
+5#Xray Diffraction#5.3#To calculate interplanar spacing#Ex5_3.txt#2786/CH5/EX5.3/Ex5_3.txt#R##98929
+5#Xray Diffraction#5.2#To calculate no of atoms per square millimeter in SC structure#Ex5_2.sce#2786/CH5/EX5.2/Ex5_2.sce#S##98926
+5#Xray Diffraction#5.2#To calculate no of atoms per square millimeter in SC structure#Ex5_2.txt#2786/CH5/EX5.2/Ex5_2.txt#R##98927
+5#Xray Diffraction#5.16#To find highest order as for which Braggs reflection maximum can be seen#Ex5_16.sce#2786/CH5/EX5.16/Ex5_16.sce#S##98952
+5#Xray Diffraction#5.16#To find highest order as for which Braggs reflection maximum can be seen#Ex5_16.txt#2786/CH5/EX5.16/Ex5_16.txt#R##98953
+5#Xray Diffraction#5.15#To calculate the inter planar spacing#Ex5_15.sce#2786/CH5/EX5.15/Ex5_15.sce#S##98954
+5#Xray Diffraction#5.15#To calculate the inter planar spacing#Ex5_15.txt#2786/CH5/EX5.15/Ex5_15.txt#R##98955
+5#Xray Diffraction#5.14#To find the highest order for which Braggs reflection maximum can be seen#Ex5_14.sce#2786/CH5/EX5.14/Ex5_14.sce#S##98950
+5#Xray Diffraction#5.14#To find the highest order for which Braggs reflection maximum can be seen#Ex5_14.txt#2786/CH5/EX5.14/Ex5_14.txt#R##98951
+5#Xray Diffraction#5.13#To calculate the interplanar spacing#Ex5_13.sce#2786/CH5/EX5.13/Ex5_13.sce#S##98948
+5#Xray Diffraction#5.13#To calculate the interplanar spacing#Ex5_13.txt#2786/CH5/EX5.13/Ex5_13.txt#R##98949
+5#Xray Diffraction#5.12#To compute the cube edje of unit cell#Ex5_12.sce#2786/CH5/EX5.12/Ex5_12.sce#S##98946
+5#Xray Diffraction#5.12#To compute the cube edje of unit cell#Ex5_12.txt#2786/CH5/EX5.12/Ex5_12.txt#R##98947
+5#Xray Diffraction#5.11#To compare the density of lattice points in 111 and 110 planes#Ex5_11.sce#2786/CH5/EX5.11/Ex5_11.sce#S##98944
+5#Xray Diffraction#5.11#To compare the density of lattice points in 111 and 110 planes#Ex5_11.txt#2786/CH5/EX5.11/Ex5_11.txt#R##98945
+5#Xray Diffraction#5.10#To calculate distance between the 110 planes#Ex5_10.sce#2786/CH5/EX5.10/Ex5_10.sce#S##98942
+5#Xray Diffraction#5.10#To calculate distance between the 110 planes#Ex5_10.txt#2786/CH5/EX5.10/Ex5_10.txt#R##98943
+5#Xray Diffraction#5.1#To calculate wavelength of Xrays#Ex5_1.sce#2786/CH5/EX5.1/Ex5_1.sce#S##98924
+5#Xray Diffraction#5.1#To calculate wavelength of Xrays#Ex5_1.txt#2786/CH5/EX5.1/Ex5_1.txt#R##98925
+4#Crystal Structure#4.9#To calculate the free volume per unit cell#Ex4_9.sce#2786/CH4/EX4.9/Ex4_9.sce#S##98877
+4#Crystal Structure#4.9#To calculate the free volume per unit cell#Ex4_9.txt#2786/CH4/EX4.9/Ex4_9.txt#R##98878
+4#Crystal Structure#4.8#To calculate the lattice constant#Ex4_8.sce#2786/CH4/EX4.8/Ex4_8.sce#S##98874
+4#Crystal Structure#4.8#To calculate the lattice constant#Ex4_8.txt#2786/CH4/EX4.8/Ex4_8.txt#R##98875
+4#Crystal Structure#4.7#To calculate the density of copper crystal#Ex4_7.sce#2786/CH4/EX4.7/Ex4_7.sce#S##98872
+4#Crystal Structure#4.7#To calculate the density of copper crystal#Ex4_7.txt#2786/CH4/EX4.7/Ex4_7.txt#R##98873
+4#Crystal Structure#4.6#To calculate distance between the two adjacent atoms#Ex4_6.sce#2786/CH4/EX4.6/Ex4_6.sce#S##98870
+4#Crystal Structure#4.6#To calculate distance between the two adjacent atoms#Ex4_6.txt#2786/CH4/EX4.6/Ex4_6.txt#R##98871
+4#Crystal Structure#4.5#To calculate the density of diamond#Ex4_5.sce#2786/CH4/EX4.5/Ex4_5.sce#S##98868
+4#Crystal Structure#4.5#To calculate the density of diamond#Ex4_5.txt#2786/CH4/EX4.5/Ex4_5.txt#R##98869
+4#Crystal Structure#4.4#To find maximum radius of sphere that can fit into void at body center of FCC#Ex4_4.sce#2786/CH4/EX4.4/Ex4_4.sce#S##98866
+4#Crystal Structure#4.4#To find maximum radius of sphere that can fit into void at body center of FCC#Ex4_4.txt#2786/CH4/EX4.4/Ex4_4.txt#R##98867
+4#Crystal Structure#4.3#To calculate volume of unit cell and density of zinc #Ex4_3.sce#2786/CH4/EX4.3/Ex4_3.sce#S##98864
+4#Crystal Structure#4.3#To calculate volume of unit cell and density of zinc #Ex4_3.txt#2786/CH4/EX4.3/Ex4_3.txt#R##98865
+4#Crystal Structure#4.2#To calculate percent volume change during structural change#Ex4_2.sce#2786/CH4/EX4.2/Ex4_2.sce#S##98862
+4#Crystal Structure#4.2#To calculate percent volume change during structural change#Ex4_2.txt#2786/CH4/EX4.2/Ex4_2.txt#R##98863
+4#Crystal Structure#4.12#To find the lattice constant#Ex4_12.sce#2786/CH4/EX4.12/Ex4_12.sce#S##98883
+4#Crystal Structure#4.12#To find the lattice constant#Ex4_12.txt#2786/CH4/EX4.12/Ex4_12.txt#R##98884
+4#Crystal Structure#4.11#To calculate free volume per unit cell#Ex4_11.sce#2786/CH4/EX4.11/Ex4_11.sce#S##98881
+4#Crystal Structure#4.11#To calculate free volume per unit cell#Ex4_11.txt#2786/CH4/EX4.11/Ex4_11.txt#R##98882
+4#Crystal Structure#4.10#To find the lattice constant#Ex4_10.sce#2786/CH4/EX4.10/Ex4_10.sce#S##98879
+4#Crystal Structure#4.10#To find the lattice constant#Ex4_10.txt#2786/CH4/EX4.10/Ex4_10.txt#R##98880
+4#Crystal Structure#4.1#To find maximum radius of interstitial sphere that can fit into void#Ex4_1.sce#2786/CH4/EX4.1/Ex4_1.sce#S##98860
+4#Crystal Structure#4.1#To find maximum radius of interstitial sphere that can fit into void#Ex4_1.txt#2786/CH4/EX4.1/Ex4_1.txt#R##98861
+3#Polarization#3.9#To find the difference in refractive indices of ordinary and extra ordinary rays#Ex3_9.sce#2786/CH3/EX3.9/Ex3_9.sce#S##98845
+3#Polarization#3.9#To find the difference in refractive indices of ordinary and extra ordinary rays#Ex3_9.txt#2786/CH3/EX3.9/Ex3_9.txt#R##98846
+3#Polarization#3.8#To calculate difference in refractive indices of two rays inside crystal#Ex3_8.sce#2786/CH3/EX3.8/Ex3_8.sce#S##98843
+3#Polarization#3.8#To calculate difference in refractive indices of two rays inside crystal#Ex3_8.txt#2786/CH3/EX3.8/Ex3_8.txt#R##98844
+3#Polarization#3.7#To find difference of refractive indices of ordinary and extra ordinary rays#Ex3_7.sce#2786/CH3/EX3.7/Ex3_7.sce#S##98841
+3#Polarization#3.7#To find difference of refractive indices of ordinary and extra ordinary rays#Ex3_7.txt#2786/CH3/EX3.7/Ex3_7.txt#R##98842
+3#Polarization#3.6#To find for what wavelengths the slice we have a quarter wave plate and half wave plate#Ex3_6.sce#2786/CH3/EX3.6/Ex3_6.sce#S##98839
+3#Polarization#3.6#To find for what wavelengths the slice we have a quarter wave plate and half wave plate#Ex3_6.txt#2786/CH3/EX3.6/Ex3_6.txt#R##98840
+3#Polarization#3.5#To find minimum thickness of half wave and quarter wave plates for a light beam#Ex3_5.sce#2786/CH3/EX3.5/Ex3_5.sce#S##98837
+3#Polarization#3.5#To find minimum thickness of half wave and quarter wave plates for a light beam#Ex3_5.txt#2786/CH3/EX3.5/Ex3_5.txt#R##98838
+3#Polarization#3.4#To calculate thickness of quarter wave plate for monochromatic light#Ex3_4.sce#2786/CH3/EX3.4/Ex3_4.sce#S##98835
+3#Polarization#3.4#To calculate thickness of quarter wave plate for monochromatic light#Ex3_4.txt#2786/CH3/EX3.4/Ex3_4.txt#R##98836
+3#Polarization#3.3#To calculate thickness of quarter wave plate for sodium light#Ex3_3.sce#2786/CH3/EX3.3/Ex3_3.sce#S##98833
+3#Polarization#3.3#To calculate thickness of quarter wave plate for sodium light#Ex3_3.txt#2786/CH3/EX3.3/Ex3_3.txt#R##98834
+3#Polarization#3.2#To calculate thickness of half wave plate of quartz#Ex3_2.sce#2786/CH3/EX3.2/Ex3_2.sce#S##98816
+3#Polarization#3.2#To calculate thickness of half wave plate of quartz#Ex3_2.txt#2786/CH3/EX3.2/Ex3_2.txt#R##98817
+3#Polarization#3.10#To calculate the difference in refractive indices of the two rays inside crystal#Ex3_10.sce#2786/CH3/EX3.10/Ex3_10.sce#S##98847
+3#Polarization#3.10#To calculate the difference in refractive indices of the two rays inside crystal#Ex3_10.txt#2786/CH3/EX3.10/Ex3_10.txt#R##98848
+3#Polarization#3.1#To find Brewster angle #Ex3_1.sce#2786/CH3/EX3.1/Ex3_1.sce#S##98811
+3#Polarization#3.1#To find Brewster angle #Ex3_1.txt#2786/CH3/EX3.1/Ex3_1.txt#R##98812
+2#Diffraction#2.9#To find distance between central maximum and first minimum and distance between any two consecutive double slit dark fringes#Ex2_9.sce#2786/CH2/EX2.9/Ex2_9.sce#S##98784
+2#Diffraction#2.9#To find distance between central maximum and first minimum and distance between any two consecutive double slit dark fringes#Ex2_9.txt#2786/CH2/EX2.9/Ex2_9.txt#R##98785
+2#Diffraction#2.8#To deduce missing orders for a double slit fraunhofer diffraction pattern#Ex2_8.sce#2786/CH2/EX2.8/Ex2_8.sce#S##98782
+2#Diffraction#2.8#To deduce missing orders for a double slit fraunhofer diffraction pattern#Ex2_8.txt#2786/CH2/EX2.8/Ex2_8.txt#R##98783
+2#Diffraction#2.7#To calculate separation between central disc and first secondary minimum#Ex2_7.sce#2786/CH2/EX2.7/Ex2_7.sce#S##98780
+2#Diffraction#2.7#To calculate separation between central disc and first secondary minimum#Ex2_7.txt#2786/CH2/EX2.7/Ex2_7.txt#R##98781
+2#Diffraction#2.6#To find half angular width of central bright maximum#Ex2_6.sce#2786/CH2/EX2.6/Ex2_6.sce#S##98778
+2#Diffraction#2.6#To find half angular width of central bright maximum#Ex2_6.txt#2786/CH2/EX2.6/Ex2_6.txt#R##98779
+2#Diffraction#2.5#To calculate first dark band and next bright band from axis#Ex2_5.sce#2786/CH2/EX2.5/Ex2_5.sce#S##98776
+2#Diffraction#2.5#To calculate first dark band and next bright band from axis#Ex2_5.txt#2786/CH2/EX2.5/Ex2_5.txt#R##98777
+2#Diffraction#2.4#To calculate Angle at which first dark band and next bright band are formed#Ex2_4.sce#2786/CH2/EX2.4/Ex2_4.sce#S##98774
+2#Diffraction#2.4#To calculate Angle at which first dark band and next bright band are formed#Ex2_4.txt#2786/CH2/EX2.4/Ex2_4.txt#R##98775
+2#Diffraction#2.3#To calculate distance of first dark band and width of central maxima#Ex2_3.sce#2786/CH2/EX2.3/Ex2_3.sce#S##98772
+2#Diffraction#2.3#To calculate distance of first dark band and width of central maxima#Ex2_3.txt#2786/CH2/EX2.3/Ex2_3.txt#R##98773
+2#Diffraction#2.2#To calculate slit width#Ex2_2.sce#2786/CH2/EX2.2/Ex2_2.sce#S##98769
+2#Diffraction#2.2#To calculate slit width#Ex2_2.txt#2786/CH2/EX2.2/Ex2_2.txt#R##98770
+2#Diffraction#2.18#To calculate linear separation between two points#Ex2_18.sce#2786/CH2/EX2.18/Ex2_18.sce#S##98809
+2#Diffraction#2.18#To calculate linear separation between two points#Ex2_18.txt#2786/CH2/EX2.18/Ex2_18.txt#R##98810
+2#Diffraction#2.17#To calculate the linear separation between the two given points#Ex2_17.sce#2786/CH2/EX2.17/Ex2_17.sce#S##98807
+2#Diffraction#2.17#To calculate the linear separation between the two given points#Ex2_17.txt#2786/CH2/EX2.17/Ex2_17.txt#R##98808
+2#Diffraction#2.16#To calculate the linear separation between two points#Ex2_16.sce#2786/CH2/EX2.16/Ex2_16.sce#S##98805
+2#Diffraction#2.16#To calculate the linear separation between two points#Ex2_16.txt#2786/CH2/EX2.16/Ex2_16.txt#R##98806
+2#Diffraction#2.15#To find angular separation of two lines of sodium#Ex2_15.sce#2786/CH2/EX2.15/Ex2_15.sce#S##98803
+2#Diffraction#2.15#To find angular separation of two lines of sodium#Ex2_15.txt#2786/CH2/EX2.15/Ex2_15.txt#R##98804
+2#Diffraction#2.14#To show that only first order is possible#Ex2_14.sce#2786/CH2/EX2.14/Ex2_14.sce#S##98801
+2#Diffraction#2.14#To show that only first order is possible#Ex2_14.txt#2786/CH2/EX2.14/Ex2_14.txt#R##98802
+2#Diffraction#2.13#To find how many orders will be visible#Ex2_13.sce#2786/CH2/EX2.13/Ex2_13.sce#S##98799
+2#Diffraction#2.13#To find how many orders will be visible#Ex2_13.txt#2786/CH2/EX2.13/Ex2_13.txt#R##98800
+2#Diffraction#2.12#To deduce the total number of lines on grating#Ex2_12.sce#2786/CH2/EX2.12/Ex2_12.sce#S##98794
+2#Diffraction#2.12#To deduce the total number of lines on grating#Ex2_12.txt#2786/CH2/EX2.12/Ex2_12.txt#R##98795
+2#Diffraction#2.11#To find the highest order that can be seen with a grating #Ex2_11.sce#2786/CH2/EX2.11/Ex2_11.sce#S##98791
+2#Diffraction#2.11#To find the highest order that can be seen with a grating #Ex2_11.txt#2786/CH2/EX2.11/Ex2_11.txt#R##98792
+2#Diffraction#2.10#To find angular separation between two wavelengths#Ex2_10.txt#2786/CH2/EX2.10/Ex2_10.txt#R##98887
+2#Diffraction#2.10#To find angular separation between two wavelengths#Ex2_10.sce#2786/CH2/EX2.10/Ex2_10.sce#S##98886
+2#Diffraction#2.1#To calculate width of central maxima#Ex2_1.sce#2786/CH2/EX2.1/Ex2_1.sce#S##98667
+2#Diffraction#2.1#To calculate width of central maxima#Ex2_1.txt#2786/CH2/EX2.1/Ex2_1.txt#R##98668
+1#Interference#1.9#To calculate order of interference of dark band#Ex1_9.sce#2786/CH1/EX1.9/Ex1_9.sce#S##98296
+1#Interference#1.9#To calculate order of interference of dark band#Ex1_9.txt#2786/CH1/EX1.9/Ex1_9.txt#R##98297
+1#Interference#1.8#To calculate wavelengths in visible region which are reflected#Ex1_8.sce#2786/CH1/EX1.8/Ex1_8.sce#S##98294
+1#Interference#1.8#To calculate wavelengths in visible region which are reflected#Ex1_8.txt#2786/CH1/EX1.8/Ex1_8.txt#R##98295
+1#Interference#1.7#To calculate least diatance of point from central maximum#Ex1_7.sce#2786/CH1/EX1.7/Ex1_7.sce#S##98118
+1#Interference#1.7#To calculate least diatance of point from central maximum#Ex1_7.txt#2786/CH1/EX1.7/Ex1_7.txt#R##98119
+1#Interference#1.6#To calculate angular position#Ex1_6.sce#2786/CH1/EX1.6/Ex1_6.sce#S##98116
+1#Interference#1.6#To calculate angular position#Ex1_6.txt#2786/CH1/EX1.6/Ex1_6.txt#R##98117
+1#Interference#1.5#To calculate fringe width on screen#Ex1_5.sce#2786/CH1/EX1.5/Ex1_5.sce#S##98114
+1#Interference#1.5#To calculate fringe width on screen#Ex1_5.txt#2786/CH1/EX1.5/Ex1_5.txt#R##98115
+1#Interference#1.4#To find distance between the slits#Ex1_4.sce#2786/CH1/EX1.4/Ex1_4.sce#S##98112
+1#Interference#1.4#To find distance between the slits#Ex1_4.txt#2786/CH1/EX1.4/Ex1_4.txt#R##98113
+1#Interference#1.3#To calculate amplitude of the resultant#Ex1_3.sce#2786/CH1/EX1.3/Ex1_3.sce#S##98110
+1#Interference#1.3#To calculate amplitude of the resultant#Ex1_3.txt#2786/CH1/EX1.3/Ex1_3.txt#R##98111
+1#Interference#1.2#To calculate the intensity ratio of the sources#Ex1_2.sce#2786/CH1/EX1.2/Ex1_2.sce#S##98108
+1#Interference#1.2#To calculate the intensity ratio of the sources#Ex1_2.txt#2786/CH1/EX1.2/Ex1_2.txt#R##98109
+1#Interference#1.17#To calculate the Refractive index of the given liquid#Ex1_17.sce#2786/CH1/EX1.17/Ex1_17.sce#S##98660
+1#Interference#1.17#To calculate the Refractive index of the given liquid#Ex1_17.txt#2786/CH1/EX1.17/Ex1_17.txt#R##98661
+1#Interference#1.16#To calculate the radius of curvature of the lens used#Ex1_16.sce#2786/CH1/EX1.16/Ex1_16.sce#S##98658
+1#Interference#1.16#To calculate the radius of curvature of the lens used#Ex1_16.txt#2786/CH1/EX1.16/Ex1_16.txt#R##98659
+1#Interference#1.15#To calculate refractive index of the liquid#Ex1_15.sce#2786/CH1/EX1.15/Ex1_15.sce#S##98632
+1#Interference#1.15#To calculate refractive index of the liquid#Ex1_15.txt#2786/CH1/EX1.15/Ex1_15.txt#R##98633
+1#Interference#1.14#To calculate refractive index of liquid#Ex1_14.sce#2786/CH1/EX1.14/Ex1_14.sce#S##98630
+1#Interference#1.14#To calculate refractive index of liquid#Ex1_14.txt#2786/CH1/EX1.14/Ex1_14.txt#R##98631
+1#Interference#1.13#To find radius of curvature of lens#Ex1_13.sce#2786/CH1/EX1.13/Ex1_13.sce#S##98628
+1#Interference#1.13#To find radius of curvature of lens#Ex1_13.txt#2786/CH1/EX1.13/Ex1_13.txt#R##98629
+1#Interference#1.12#To calculate the wavelength of light#Ex1_12.sce#2786/CH1/EX1.12/Ex1_12.sce#S##98626
+1#Interference#1.12#To calculate the wavelength of light#Ex1_12.txt#2786/CH1/EX1.12/Ex1_12.txt#R##98627
+1#Interference#1.11#To calculate the thickness of air film#Ex1_11.sce#2786/CH1/EX1.11/Ex1_11.sce#S##98624
+1#Interference#1.11#To calculate the thickness of air film#Ex1_11.txt#2786/CH1/EX1.11/Ex1_11.txt#R##98625
+1#Interference#1.10#To calculate smallest thickness of plate which appear dark by reflection#Ex1_10.sce#2786/CH1/EX1.10/Ex1_10.sce#S##98583
+1#Interference#1.10#To calculate smallest thickness of plate which appear dark by reflection#Ex1_10.txt#2786/CH1/EX1.10/Ex1_10.txt#R##98584
+1#Interference#1.1#To find the ratio of maximum intensity to minimum intensity#Ex1_1.sce#2786/CH1/EX1.1/Ex1_1.sce#S##98106
+1#Interference#1.1#To find the ratio of maximum intensity to minimum intensity#Ex1_1.txt#2786/CH1/EX1.1/Ex1_1.txt#R##98107

@@ -1,0 +1,88 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example1.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            23   
+ 
+ Chapter Title                         :                              Systems programming I- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 1    :               Show the method of copying files with the read and write system calls 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However if possible some selected programmes have been TRIED TO BE IMPLEMENTED   
+ 
+ 3.For most of the programmes whose equivalent is NOT THERE IN SCILAB,only the output has been printed as given in the textbook w 
+      ith no interactive input as in the programme below                                                                          
+ 
+ 4.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+ 
+ 5.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat ccp.c      # to open the file emp.lst /* Program ccp.c -- Copies a file with the read and write system calls */
+
+#include <fcntl.h>          /* For O_RDONLY , O_WRONLY , O_CREAT etc. */
+#include <sys/stat.h>       /* for S_IRUSR , S_IWUSR , S_IRGRP etc. */
+#define BUFSIZE 1024        /* May not be the rigth size here */
+
+int main(void) {
+    int fd1, fd2;           /* File descriptors for read and write  */
+    int n;                  /* Number of characters returned by read */
+    char buf[BUFSIZE];      /* BUFSIZE should be carefully chosen */
+    fd1 = open("/etc/passwd",O_RDONLY);
+    fd2 = open("passwd.bak",O_WRONLY | O_CREAT | O_TRUNC ,
+               S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH); /* Mode 664*/
+    
+    while ((n = read(fd1, buf, BUFSIZE)) > 0)   /* Return value of read is */
+        write(fd2, buf, n);                     /* used by write as argument */
+        
+    close(fd1);
+    close(fd2);
+    exit(0);               /* This would have closed all file descriptors */
+}
+ $ cc ccp.c $ a.out $ cmp /etc/passwd passwd.bak $ _                                          # Prompt returns-files identical 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

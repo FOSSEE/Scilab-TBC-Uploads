@@ -1,0 +1,4 @@
+ # Problem 8 # 
+Standard formula used is coriolis Force = 2*mass*angular velocity X velocity  
+ Magnitude and direction  of coriolis force on particle are 
+ 7.272205e-02 N and 60 degree with east respectively

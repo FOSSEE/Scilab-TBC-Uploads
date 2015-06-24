@@ -1,0 +1,5 @@
+ # Problem 16 # 
+ 
+ Standard formula used 
+   D_n= sqrt(2*(2*n-1)*lambda*R 
+Diameter of 4th bright fringe is 0.560000 cm.

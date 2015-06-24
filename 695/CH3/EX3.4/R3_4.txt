@@ -1,0 +1,15 @@
+ (a)Secondary Voltage (in volts)=   
+ 
+    500.  
+ 
+ (b)Primary current (in amperes)=   
+ 
+    20.  
+ 
+    Secondary current (in amperes)=   
+ 
+    100.  
+ 
+ (c)Max value of flux (in Wb)=   
+ 
+    0.0225225

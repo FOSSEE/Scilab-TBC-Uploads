@@ -1,0 +1,159 @@
+12#Pumps and Turbines#12.8#dental drill characteristics#12_8data.sci#51/CH12/EX12.8/12_8data.sci#S##1129
+12#Pumps and Turbines#12.8#dental drill characteristics#12_8.sce#51/CH12/EX12.8/12_8.sce#R##1130
+12#Pumps and Turbines#12.6#pelton wheel turbine#12_6data.sci#51/CH12/EX12.6/12_6data.sci#S##1127
+12#Pumps and Turbines#12.6#pelton wheel turbine#12_6.sce#51/CH12/EX12.6/12_6.sce#R##1128
+12#Pumps and Turbines#12.5#pump scaling laws#12_5data.sci#51/CH12/EX12.5/12_5data.sci#S##1125
+12#Pumps and Turbines#12.5#pump scaling laws#12_5.sce#51/CH12/EX12.5/12_5.sce#R##1126
+12#Pumps and Turbines#12.3#NPSH calculation#12_3data.sci#51/CH12/EX12.3/12_3data.sci#S##1123
+12#Pumps and Turbines#12.3#NPSH calculation#12_3.sce#51/CH12/EX12.3/12_3.sce#R##1124
+12#Pumps and Turbines#12.2#shaft power calculation#12_2data.sci#51/CH12/EX12.2/12_2data.sci#S##1121
+12#Pumps and Turbines#12.2#shaft power calculation#12_2.sce#51/CH12/EX12.2/12_2.sce#R##1122
+11#Analysis of Compressible Flow#11.7#flow velocity determination#11_7.sce#51/CH11/EX11.7/11_7.sce#S##2218
+11#Analysis of Compressible Flow#11.6#mass flowrate calculation#11_6.sce#51/CH11/EX11.6/11_6.sce#S##2217
+11#Analysis of Compressible Flow#11.5#mass flowrate determination#11_5.sce#51/CH11/EX11.5/11_5.sce#S##2216
+11#Analysis of Compressible Flow#11.4#Mach cone#11_4.sce#51/CH11/EX11.4/11_4.sce#S##2214
+11#Analysis of Compressible Flow#11.4#Mach cone#11_4graph.jpg#51/CH11/EX11.4/11_4graph.jpg#R##2215
+11#Analysis of Compressible Flow#11.3#speed of sound#11_3.sce#51/CH11/EX11.3/11_3.sce#S##2213
+11#Analysis of Compressible Flow#11.2#change in entropy#11_2.sce#51/CH11/EX11.2/11_2.sce#S##2212
+11#Analysis of Compressible Flow#11.19#converging diverging duct#11_19.sce#51/CH11/EX11.19/11_19.sce#S##2227
+11#Analysis of Compressible Flow#11.18#supersonic flow#11_18.sce#51/CH11/EX11.18/11_18.sce#S##2226
+11#Analysis of Compressible Flow#11.15#rayleigh flow#11_15.sce#51/CH11/EX11.15/11_15.sce#S##2224
+11#Analysis of Compressible Flow#11.15#rayleigh flow#11_15graph.jpg#51/CH11/EX11.15/11_15graph.jpg#R##2225
+11#Analysis of Compressible Flow#11.14#unchoked fanno flow#11_14.sce#51/CH11/EX11.14/11_14.sce#S##2223
+11#Analysis of Compressible Flow#11.13#effect of duct length on choked fanno flow#11_13.sce#51/CH11/EX11.13/11_13.sce#S##2222
+11#Analysis of Compressible Flow#11.12#choked fanno flow #11_12.sce#51/CH11/EX11.12/11_12.sce#S##2221
+11#Analysis of Compressible Flow#11.11#fanno flow#11_11graph.jpg#51/CH11/EX11.11/11_11graph.jpg#R##2220
+11#Analysis of Compressible Flow#11.11#fanno flow#11_11.sce#51/CH11/EX11.11/11_11.sce#S##2219
+11#Analysis of Compressible Flow#11.1#Internal Energy enthalphy#11_1.sce#51/CH11/EX11.1/11_1.sce#S##2211
+10#Flow in Open Channels#10.9#hydraulic jump#10_9graph1.jpg#51/CH10/EX10.9/10_9graph1.jpg#R##1801
+10#Flow in Open Channels#10.9#hydraulic jump#10_9graph.jpg#51/CH10/EX10.9/10_9graph.jpg#R##1800
+10#Flow in Open Channels#10.9#hydraulic jump#10_9.sce#51/CH10/EX10.9/10_9.sce#S##1799
+10#Flow in Open Channels#10.8#aspect ratio determination#10_8graph.jpg#51/CH10/EX10.8/10_8graph.jpg#R##1798
+10#Flow in Open Channels#10.8#aspect ratio determination#10_8.sce#51/CH10/EX10.8/10_8.sce#S##1797
+10#Flow in Open Channels#10.7#flowrate estimation #10_7.sce#51/CH10/EX10.7/10_7.sce#S##1796
+10#Flow in Open Channels#10.4#determining flow depth#10_4.sce#51/CH10/EX10.4/10_4.sce#S##1795
+10#Flow in Open Channels#10.3#froude number determination#10_3.sce#51/CH10/EX10.3/10_3.sce#S##1794
+10#Flow in Open Channels#10.2#elevation of surface#10_2graph.jpg#51/CH10/EX10.2/10_2graph.jpg#R##1793
+10#Flow in Open Channels#10.2#elevation of surface#10_2.sce#51/CH10/EX10.2/10_2.sce#S##1792
+9#External Flow Past Bodies#9.7#drag estimation#9_7graph.jpg#51/CH9/EX9.7/9_7graph.jpg#R##1784
+9#External Flow Past Bodies#9.7#drag estimation#9_7.sce#51/CH9/EX9.7/9_7.sce#S##1783
+9#External Flow Past Bodies#9.5#boundary layer transition#9_5.sce#51/CH9/EX9.5/9_5.sce#S##1781
+9#External Flow Past Bodies#9.16#angular velocity determination#9_16.sce#51/CH9/EX9.16/9_16.sce#S##1791
+9#External Flow Past Bodies#9.15#lift and power#9_15.sce#51/CH9/EX9.15/9_15.sce#S##1790
+9#External Flow Past Bodies#9.13#torque estimation#9_13.sce#51/CH9/EX9.13/9_13.sce#S##1789
+9#External Flow Past Bodies#9.12#drag and deceleration#9_12.sce#51/CH9/EX9.12/9_12.sce#S##1788
+9#External Flow Past Bodies#9.11#velocity of updraft#9_11.sce#51/CH9/EX9.11/9_11.sce#S##1787
+9#External Flow Past Bodies#9.10# speed of grain#9_10graph.jpg#51/CH9/EX9.10/9_10graph.jpg#R##1786
+9#External Flow Past Bodies#9.10# speed of grain#9_10.sce#51/CH9/EX9.10/9_10.sce#S##1785
+9#External Flow Past Bodies#9.1#lift and drag#9_1.sce#51/CH9/EX9.1/9_1.sce#S##1780
+8#Pipe flow#8.9#determining head loss#8_9.sce#51/CH8/EX8.9/8_9.sce#S##1770
+8#Pipe flow#8.9#determining head loss#8_9graph.jpg#51/CH8/EX8.9/8_9graph.jpg#R##1771
+8#Pipe flow#8.8#determining pressure drop#8_8graph2.jpg#51/CH8/EX8.8/8_8graph2.jpg#R##1769
+8#Pipe flow#8.8#determining pressure drop#8_8graph1.jpg#51/CH8/EX8.8/8_8graph1.jpg#R##1768
+8#Pipe flow#8.8#determining pressure drop#8_8.sce#51/CH8/EX8.8/8_8.sce#S##1767
+8#Pipe flow#8.7#duct size determination#8_7.sce#51/CH8/EX8.7/8_7.sce#S##1766
+8#Pipe flow#8.6# minor losses calculation#8_6graph.jpg#51/CH8/EX8.6/8_6graph.jpg#R##1765
+8#Pipe flow#8.6# minor losses calculation#8_6.sce#51/CH8/EX8.6/8_6.sce#S##1764
+8#Pipe flow#8.5#pressure drop calculation#8_5.sce#51/CH8/EX8.5/8_5.sce#S##1762
+8#Pipe flow#8.4#turbulent pipe flow#8_4.sce#51/CH8/EX8.4/8_4.sce#S##1761
+8#Pipe flow#8.3#net force calculation#8_3graph.jpg#51/CH8/EX8.3/8_3graph.jpg#R##1760
+8#Pipe flow#8.3#net force calculation#8_3.sce#51/CH8/EX8.3/8_3.sce#S##1759
+8#Pipe flow#8.2#laminar pipe flow#8_2.sce#51/CH8/EX8.2/8_2.sce#S##1758
+8#Pipe flow#8.15#diameter of nozzle#8_15.sce#51/CH8/EX8.15/8_15.sce#S##1777
+8#Pipe flow#8.14#flowrate in reservoir#8_14.sce#51/CH8/EX8.14/8_14.sce#S##1776
+8#Pipe flow#8.13#pipe diameter calculation#8_13.sce#51/CH8/EX8.13/8_13.sce#S##1778
+8#Pipe flow#8.13#pipe diameter calculation#8_13graph.jpg#51/CH8/EX8.13/8_13graph.jpg#R##1779
+8#Pipe flow#8.12#minimum pipe diameter#8_12graph.jpg#51/CH8/EX8.12/8_12graph.jpg#R##1775
+8#Pipe flow#8.12#minimum pipe diameter#8_12.sce#51/CH8/EX8.12/8_12.sce#S##1774
+8#Pipe flow#8.11# flowrate through turbine#8_11.sce#51/CH8/EX8.11/8_11.sce#S##1773
+8#Pipe flow#8.10#air flowrate determination#8_10.sce#51/CH8/EX8.10/8_10.sce#S##1772
+8#Pipe flow#8.1#calculating time required#8_1.sce#51/CH8/EX8.1/8_1.sce#S##1757
+7#Dimensional Analysis Modelling and Similitude#7.8#froude number similarity#7_8graph.jpg#51/CH7/EX7.8/7_8graph.jpg#R##1756
+7#Dimensional Analysis Modelling and Similitude#7.8#froude number similarity#7_8.sce#51/CH7/EX7.8/7_8.sce#S##1755
+7#Dimensional Analysis Modelling and Similitude#7.7#predicting prototype performance#7_7.sce#51/CH7/EX7.7/7_7.sce#S##1754
+7#Dimensional Analysis Modelling and Similitude#7.6#reynolds number similarity#7_6.sce#51/CH7/EX7.6/7_6.sce#S##1752
+7#Dimensional Analysis Modelling and Similitude#7.6#reynolds number similarity#7_6graph.jpg#51/CH7/EX7.6/7_6graph.jpg#R##1753
+7#Dimensional Analysis Modelling and Similitude#7.5#prototype performance prediction#7_5.sce#51/CH7/EX7.5/7_5.sce#S##1751
+6#Flow Analysis of Using Differential Methods#6.7#pressure at elevation#6_7graph.jpg#51/CH6/EX6.7/6_7graph.jpg#R##1697
+6#Flow Analysis of Using Differential Methods#6.7#pressure at elevation#6_7.sce#51/CH6/EX6.7/6_7.sce#S##1696
+6#Flow Analysis of Using Differential Methods#6.5#Volume rate calculation#6_5.sce#51/CH6/EX6.5/6_5.sce#S##1695
+6#Flow Analysis of Using Differential Methods#6.4#inviscid flow pressure#6_4.sce#51/CH6/EX6.4/6_4.sce#S##1698
+6#Flow Analysis of Using Differential Methods#6.10#flow in annulus#6_10graph.jpg#51/CH6/EX6.10/6_10graph.jpg#R##1700
+6#Flow Analysis of Using Differential Methods#6.10#flow in annulus#6_10.sce#51/CH6/EX6.10/6_10.sce#S##1699
+5#Flow analysis using control volumes#5.9#change in depth#5_9.sce#51/CH5/EX5.9/5_9.sce#S##1640
+5#Flow analysis using control volumes#5.8#Speed of plunger#5_8.sce#51/CH5/EX5.8/5_8.sce#S##1636
+5#Flow analysis using control volumes#5.7#Speed of water#5_7.sce#51/CH5/EX5.7/5_7.sce#S##1631
+5#Flow analysis using control volumes#5.6#mass flowrate estimation#5_6.sce#51/CH5/EX5.6/5_6.sce#S##1628
+5#Flow analysis using control volumes#5.5#change in depth#5_5.sce#51/CH5/EX5.5/5_5.sce#S##1690
+5#Flow analysis using control volumes#5.5#change in depth#5_5graph.jpg#51/CH5/EX5.5/5_5graph.jpg#R##1691
+5#Flow analysis using control volumes#5.3#Mass Flowrate determination#5_3.sce#51/CH5/EX5.3/5_3.sce#S##1626
+5#Flow analysis using control volumes#5.29#expanded air velocity#5_29.sce#51/CH5/EX5.29/5_29.sce#S##1689
+5#Flow analysis using control volumes#5.26#nonuniform velocity profile#5_26.sce#51/CH5/EX5.26/5_26.sce#S##1694
+5#Flow analysis using control volumes#5.25#flowrate and powerloss#5_25.sce#51/CH5/EX5.25/5_25.sce#S##1687
+5#Flow analysis using control volumes#5.25#flowrate and powerloss#5_25graph.jpg#51/CH5/EX5.25/5_25graph.jpg#R##1688
+5#Flow analysis using control volumes#5.24#useful work determination#5_24.sce#51/CH5/EX5.24/5_24.sce#S##1685
+5#Flow analysis using control volumes#5.23#volume flowrates comparison#5_23.sce#51/CH5/EX5.23/5_23.sce#S##1692
+5#Flow analysis using control volumes#5.23#volume flowrates comparison#5_23graph.jpg#51/CH5/EX5.23/5_23graph.jpg#R##1693
+5#Flow analysis using control volumes#5.22#temperature change determination#5_22.sce#51/CH5/EX5.22/5_22.sce#S##1680
+5#Flow analysis using control volumes#5.21#work output calculation#5_21.sce#51/CH5/EX5.21/5_21.sce#S##1675
+5#Flow analysis using control volumes#5.20#Determination of power#5_20.sce#51/CH5/EX5.20/5_20.sce#S##1674
+5#Flow analysis using control volumes#5.2#average velocity calculation#5_2.sce#51/CH5/EX5.2/5_2.sce#S##1622
+5#Flow analysis using control volumes#5.19#estimation of power#5_19.sce#51/CH5/EX5.19/5_19.sce#S##1669
+5#Flow analysis using control volumes#5.18#resisting torque calculation#5_18.sce#51/CH5/EX5.18/5_18.sce#S##1663
+5#Flow analysis using control volumes#5.18#resisting torque calculation#5_18graph.jpg#51/CH5/EX5.18/5_18graph.jpg#R##1664
+5#Flow analysis using control volumes#5.17#force determination#5_17.sce#51/CH5/EX5.17/5_17.sce#S##1659
+5#Flow analysis using control volumes#5.15#nominal thrust calculation#5_15.sce#51/CH5/EX5.15/5_15.sce#S##1657
+5#Flow analysis using control volumes#5.13#Frictional force determination#5_13.sce#51/CH5/EX5.13/5_13.sce#S##1655
+5#Flow analysis using control volumes#5.12#Anchoring force calculation#5_12.sce#51/CH5/EX5.12/5_12.sce#S##1649
+5#Flow analysis using control volumes#5.11#Anchoring force determination#5_11.sce#51/CH5/EX5.11/5_11.sce#S##1646
+5#Flow analysis using control volumes#5.1#Minimum Pumping capacity#5_1.sce#51/CH5/EX5.1/5_1.sce#S##1616
+4#Kinematics of fluid motion#4.6#delivery speed calculation#4_6.sce#51/CH4/EX4.6/4_6.sce#S##1597
+3#Fluids in motion Bernoulli equation#3.8#flowrate and pressure#3_8.sce#51/CH3/EX3.8/3_8.sce#S##1585
+3#Fluids in motion Bernoulli equation#3.7#determination of flowrate#3_7graph.jpg#51/CH3/EX3.7/3_7graph.jpg#R##1583
+3#Fluids in motion Bernoulli equation#3.7#determination of flowrate#3_7.sce#51/CH3/EX3.7/3_7.sce#S##1582
+3#Fluids in motion Bernoulli equation#3.6#pitot static tube#3_6.sce#51/CH3/EX3.6/3_6.sce#S##1580
+3#Fluids in motion Bernoulli equation#3.6#pitot static tube#3_6graph.jpg#51/CH3/EX3.6/3_6graph.jpg#R##1581
+3#Fluids in motion Bernoulli equation#3.17#stagnation pressure determination#3_17.sce#51/CH3/EX3.17/3_17.sce#S##1595
+3#Fluids in motion Bernoulli equation#3.15#stagnation pressure calculation#3_15.sce#51/CH3/EX3.15/3_15.sce#S##1593
+3#Fluids in motion Bernoulli equation#3.13#increased flowrate determination#3_13.sce#51/CH3/EX3.13/3_13.sce#S##1592
+3#Fluids in motion Bernoulli equation#3.12#flow through channel#3_12.sce#51/CH3/EX3.12/3_12.sce#S##1590
+3#Fluids in motion Bernoulli equation#3.12#flow through channel#3_12graph.jpg#51/CH3/EX3.12/3_12graph.jpg#R##1591
+3#Fluids in motion Bernoulli equation#3.11#pressure difference range#3_11.sce#51/CH3/EX3.11/3_11.sce#S##1588
+3#Fluids in motion Bernoulli equation#3.10#maximum height determination#3_10.sce#51/CH3/EX3.10/3_10.sce#S##1586
+2#Fluids at rest pressure and its effects#2.9#force on curve#2_9.sce#51/CH2/EX2.9/2_9.sce#S##1575
+2#Fluids at rest pressure and its effects#2.8#pressure prism concept#2_8.sce#51/CH2/EX2.8/2_8.sce#S##1573
+2#Fluids at rest pressure and its effects#2.7#hydrostatic pressure force#2_7.sce#51/CH2/EX2.7/2_7.sce#S##1571
+2#Fluids at rest pressure and its effects#2.6#force on plane#2_6.sce#51/CH2/EX2.6/2_6.sce#S##1568
+2#Fluids at rest pressure and its effects#2.6#force on plane#2_6graph.jpg#51/CH2/EX2.6/2_6graph.jpg#R##1569
+2#Fluids at rest pressure and its effects#2.5#pressure drop calculation#2_5.sce#51/CH2/EX2.5/2_5.sce#S##1565
+2#Fluids at rest pressure and its effects#2.4#reading of gage#2_4.sce#51/CH2/EX2.4/2_4.sce#S##1563
+2#Fluids at rest pressure and its effects#2.3#pressure at bottom#2_3.sce#51/CH2/EX2.3/2_3.sce#S##1560
+2#Fluids at rest pressure and its effects#2.2#pressure depth variation#2_2.sce#51/CH2/EX2.2/2_2.sce#S##1556
+2#Fluids at rest pressure and its effects#2.2#pressure depth variation#2_2graph.jpg#51/CH2/EX2.2/2_2graph.jpg#R##1557
+2#Fluids at rest pressure and its effects#2.11#maximum acceleration calculation#2_11.sce#51/CH2/EX2.11/2_11.sce#S##1579
+2#Fluids at rest pressure and its effects#2.10#tension in cable#2_10.sce#51/CH2/EX2.10/2_10.sce#S##1577
+2#Fluids at rest pressure and its effects#2.1#pressure at interface#2_1.sce#51/CH2/EX2.1/2_1.sce#S##1553
+1#basic properties of fluids#8#diameter of tube#1_8data.sci#51/CH1/EX8/1_8data.sci#S##603
+1#basic properties of fluids#8#diameter of tube#1_8.sce#51/CH1/EX8/1_8.sce#R##604
+1#basic properties of fluids#7#ratio of speeds#1_7data.sci#51/CH1/EX7/1_7data.sci#S##601
+1#basic properties of fluids#7#ratio of speeds#1_7.sce#51/CH1/EX7/1_7.sce#R##602
+1#basic properties of fluids#6#final pressure calculation#1_6.sce#51/CH1/EX6/1_6.sce#R##420
+1#basic properties of fluids#6#final pressure calculation#1_6data.sci#51/CH1/EX6/1_6data.sci#S##419
+1#basic properties of fluids#5#shearing stress calculation#1_5.sce#51/CH1/EX5/1_5.sce#R##418
+1#basic properties of fluids#5#shearing stress calculation#1_5data.sci#51/CH1/EX5/1_5data.sci#S##417
+1#basic properties of fluids#4#reynolds number calculation#1_4.sce#51/CH1/EX4/1_4.sce#R##416
+1#basic properties of fluids#4#reynolds number calculation#1_4data.sci#51/CH1/EX4/1_4data.sci#S##415
+1#basic properties of fluids#3#density and weight of air#1_3.sce#51/CH1/EX3/1_3.sce#R##414
+1#basic properties of fluids#3#density and weight of air#1_3data.sci#51/CH1/EX3/1_3data.sci#S##413
+1#basic properties of fluids#2#force by tank#1_2data.sci#51/CH1/EX2/1_2data.sci#S##411
+1#basic properties of fluids#2#force by tank#1_2.sce#51/CH1/EX2/1_2.sce#R##412
+1#basic properties of fluids#1.8#diameter of tube#1_8.sce#51/CH1/EX1.8/1_8.sce#S##2245
+1#basic properties of fluids#1.8#diameter of tube#1_8graph.jpg#51/CH1/EX1.8/1_8graph.jpg#R##2246
+1#basic properties of fluids#1.7#ratio of speeds#1_7.sce#51/CH1/EX1.7/1_7.sce#S##2243
+1#basic properties of fluids#1.6#final pressure calculation#1_6.sce#51/CH1/EX1.6/1_6.sce#S##2240
+1#basic properties of fluids#1.6#final pressure calculation#1_6graph.jpg#51/CH1/EX1.6/1_6graph.jpg#R##2241
+1#basic properties of fluids#1.5#shearing stress calculation#1_5.sce#51/CH1/EX1.5/1_5.sce#S##2238
+1#basic properties of fluids#1.4#reynolds number calculation#1_4.sce#51/CH1/EX1.4/1_4.sce#S##2236
+1#basic properties of fluids#1.3#density and weight of air #1_3.sce#51/CH1/EX1.3/1_3.sce#S##2233
+1#basic properties of fluids#1.3#density and weight of air #1_3graph.jpg#51/CH1/EX1.3/1_3graph.jpg#R##2234
+1#basic properties of fluids#1.2#force by tank#1_2.sce#51/CH1/EX1.2/1_2.sce#S##2232

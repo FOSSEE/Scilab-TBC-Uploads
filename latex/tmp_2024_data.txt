@@ -1,0 +1,131 @@
+14#Refrigeration#14.7#Example 7#14_7.sce#2024/CH14/EX14.7/14_7.sce#S##67619
+14#Refrigeration#14.6#Example 6#14_6.sce#2024/CH14/EX14.6/14_6.sce#S##67618
+14#Refrigeration#14.5#Example 5#14_5.sce#2024/CH14/EX14.5/14_5.sce#S##67617
+14#Refrigeration#14.4#Example 4#14_4.sce#2024/CH14/EX14.4/14_4.sce#S##67616
+14#Refrigeration#14.3#Example 3#14_3.sce#2024/CH14/EX14.3/14_3.sce#S##67615
+14#Refrigeration#14.1#Example 1#14_1.sce#2024/CH14/EX14.1/14_1.sce#S##67614
+13#Power cycles gas#13.3#Example 3#13_3.sce#2024/CH13/EX13.3/13_3.sce#S##68260
+13#Power cycles gas#13.2#Example 2#13_2.sce#2024/CH13/EX13.2/13_2.sce#S##67612
+13#Power cycles gas#13.1#Example 1#13_1.sce#2024/CH13/EX13.1/13_1.sce#S##67611
+12#Power cycles vapor#12.9#Example 9#12_9.sce#2024/CH12/EX12.9/12_9.sce#S##68259
+12#Power cycles vapor#12.8#Example 8#12_8.sce#2024/CH12/EX12.8/12_8.sce#S##67607
+12#Power cycles vapor#12.7#Example 7#12_7.sce#2024/CH12/EX12.7/12_7.sce#S##67606
+12#Power cycles vapor#12.6#Example 6#12_6.sce#2024/CH12/EX12.6/12_6.sce#S##67604
+12#Power cycles vapor#12.5#Example 5#12_5.sce#2024/CH12/EX12.5/12_5.sce#S##67603
+12#Power cycles vapor#12.4#Example 4#12_4.sce#2024/CH12/EX12.4/12_4.sce#S##67602
+12#Power cycles vapor#12.3#Example 3#12_3.sce#2024/CH12/EX12.3/12_3.sce#S##67600
+12#Power cycles vapor#12.2#Example 2#12_2.sce#2024/CH12/EX12.2/12_2.sce#S##67599
+12#Power cycles vapor#12.11#Example 11#12_11.sce#2024/CH12/EX12.11/12_11.sce#S##67610
+12#Power cycles vapor#12.10#Example 10#12_10.sce#2024/CH12/EX12.10/12_10.sce#S##67609
+12#Power cycles vapor#12.1#Example 1#12_1.sce#2024/CH12/EX12.1/12_1.sce#S##67598
+11#Thermochemical calculations#11.9#Example 9#11_9.sce#2024/CH11/EX11.9/11_9.sce#S##67581
+11#Thermochemical calculations#11.8#Example 8#11_8.sce#2024/CH11/EX11.8/11_8.sce#S##67580
+11#Thermochemical calculations#11.7#Example 7#11_7.sce#2024/CH11/EX11.7/11_7.sce#S##67569
+11#Thermochemical calculations#11.6#Example 6#11_6.sce#2024/CH11/EX11.6/11_6.sce#S##67568
+11#Thermochemical calculations#11.5#Example 5#11_5.sce#2024/CH11/EX11.5/11_5.sce#S##67567
+11#Thermochemical calculations#11.4#Example 4#11_4.sce#2024/CH11/EX11.4/11_4.sce#S##67566
+11#Thermochemical calculations#11.3#Example 3#11_3.sce#2024/CH11/EX11.3/11_3.sce#S##67565
+11#Thermochemical calculations#11.23#Example 23#11_23.sce#2024/CH11/EX11.23/11_23.sce#S##67596
+11#Thermochemical calculations#11.22#Example 22#11_22.sce#2024/CH11/EX11.22/11_22.sce#S##67595
+11#Thermochemical calculations#11.21#Example 21#11_21.sce#2024/CH11/EX11.21/11_21.sce#S##67594
+11#Thermochemical calculations#11.20#Example 20#11_20.sce#2024/CH11/EX11.20/11_20.sce#S##67593
+11#Thermochemical calculations#11.2#Example 2#11_2.sce#2024/CH11/EX11.2/11_2.sce#S##67564
+11#Thermochemical calculations#11.19#Example 19#11_19.sce#2024/CH11/EX11.19/11_19.sce#S##67592
+11#Thermochemical calculations#11.18#Example 18#11_18.sce#2024/CH11/EX11.18/11_18.sce#S##67591
+11#Thermochemical calculations#11.17#Example 17#11_17.sce#2024/CH11/EX11.17/11_17.sce#S##67590
+11#Thermochemical calculations#11.16#Example 16#11_16.sce#2024/CH11/EX11.16/11_16.sce#S##67588
+11#Thermochemical calculations#11.15#Example 15#11_15.sce#2024/CH11/EX11.15/11_15.sce#S##67587
+11#Thermochemical calculations#11.14#Example 14#11_14.sce#2024/CH11/EX11.14/11_14.sce#S##67586
+11#Thermochemical calculations#11.13#Example 13#11_13.sce#2024/CH11/EX11.13/11_13.sce#S##67585
+11#Thermochemical calculations#11.12#Example 12#11_12.sce#2024/CH11/EX11.12/11_12.sce#S##67584
+11#Thermochemical calculations#11.11#Example 11#11_11.sce#2024/CH11/EX11.11/11_11.sce#S##67583
+11#Thermochemical calculations#11.10#Example 10#11_10.sce#2024/CH11/EX11.10/11_10.sce#S##67582
+11#Thermochemical calculations#11.1#Example 1#11_1.sce#2024/CH11/EX11.1/11_1.sce#S##67563
+10#Mixtures of gases and vapors#10.9#Example 9#10_9.sce#2024/CH10/EX10.9/10_9.sce#S##67550
+10#Mixtures of gases and vapors#10.8#Example 8#10_8.sce#2024/CH10/EX10.8/10_8.sce#S##67549
+10#Mixtures of gases and vapors#10.7#Example 7#10_7.sce#2024/CH10/EX10.7/10_7.sce#S##67548
+10#Mixtures of gases and vapors#10.6#Example 6#10_6.sce#2024/CH10/EX10.6/10_6.sce#S##67547
+10#Mixtures of gases and vapors#10.5#Example 5#10_5.sce#2024/CH10/EX10.5/10_5.sce#S##67546
+10#Mixtures of gases and vapors#10.4#Example 4#10_4.sce#2024/CH10/EX10.4/10_4.sce#S##67545
+10#Mixtures of gases and vapors#10.3#Example 3#10_3.sce#2024/CH10/EX10.3/10_3.sce#S##67544
+10#Mixtures of gases and vapors#10.21#Example 21#10_21.sce#2024/CH10/EX10.21/10_21.sce#S##67562
+10#Mixtures of gases and vapors#10.20#Example 20#10_20.sce#2024/CH10/EX10.20/10_20.sce#S##67561
+10#Mixtures of gases and vapors#10.2#Example 2#10_2.sce#2024/CH10/EX10.2/10_2.sce#S##67543
+10#Mixtures of gases and vapors#10.19#Example 19#10_19.sce#2024/CH10/EX10.19/10_19.sce#S##67560
+10#Mixtures of gases and vapors#10.18#Example 18#10_18.sce#2024/CH10/EX10.18/10_18.sce#S##67559
+10#Mixtures of gases and vapors#10.17#Example 17#10_17.sce#2024/CH10/EX10.17/10_17.sce#S##67558
+10#Mixtures of gases and vapors#10.16#Example 16#10_16.sce#2024/CH10/EX10.16/10_16.sce#S##67557
+10#Mixtures of gases and vapors#10.15#Example 15#10_15.sce#2024/CH10/EX10.15/10_15.sce#S##67556
+10#Mixtures of gases and vapors#10.14#Example 14#10_14.sce#2024/CH10/EX10.14/10_14.sce#S##67555
+10#Mixtures of gases and vapors#10.13#Example 13#10_13.sce#2024/CH10/EX10.13/10_13.sce#S##67554
+10#Mixtures of gases and vapors#10.12#Example 12#10_12.sce#2024/CH10/EX10.12/10_12.sce#S##67553
+10#Mixtures of gases and vapors#10.11#Example 11#10_11.sce#2024/CH10/EX10.11/10_11.sce#S##67552
+10#Mixtures of gases and vapors#10.10#Example 10#10_10.sce#2024/CH10/EX10.10/10_10.sce#S##67551
+10#Mixtures of gases and vapors#10.1#Example 1#10_1.sce#2024/CH10/EX10.1/10_1.sce#S##67542
+9#The flow of fluids#9.9#Example 9#9_9.sce#2024/CH9/EX9.9/9_9.sce#S##67533
+9#The flow of fluids#9.8#Example 8#9_8.sce#2024/CH9/EX9.8/9_8.sce#S##67532
+9#The flow of fluids#9.6#Example 6#9_6.sce#2024/CH9/EX9.6/9_6.sce#S##67531
+9#The flow of fluids#9.5#Example 5#9_5.sce#2024/CH9/EX9.5/9_5.sce#S##67530
+9#The flow of fluids#9.4#Example 4#9_4.sce#2024/CH9/EX9.4/9_4.sce#S##67529
+9#The flow of fluids#9.3#Example 3#9_3.sce#2024/CH9/EX9.3/9_3.sce#S##67528
+9#The flow of fluids#9.2#Example 2#9_2.sce#2024/CH9/EX9.2/9_2.sce#S##67527
+9#The flow of fluids#9.17#Example 17#9_17.sce#2024/CH9/EX9.17/9_17.sce#S##67541
+9#The flow of fluids#9.16#Example 16#9_16.sce#2024/CH9/EX9.16/9_16.sce#S##67540
+9#The flow of fluids#9.15#Example 15#9_15.sce#2024/CH9/EX9.15/9_15.sce#S##67539
+9#The flow of fluids#9.14#Example 14#9_14.sce#2024/CH9/EX9.14/9_14.sce#S##67538
+9#The flow of fluids#9.13#Example 13#9_13.sce#2024/CH9/EX9.13/9_13.sce#S##67537
+9#The flow of fluids#9.12#Example 12#9_12.sce#2024/CH9/EX9.12/9_12.sce#S##67536
+9#The flow of fluids#9.11#Example 11#9_11.sce#2024/CH9/EX9.11/9_11.sce#S##67535
+9#The flow of fluids#9.10#Example 10#9_10.sce#2024/CH9/EX9.10/9_10.sce#S##67534
+9#The flow of fluids#9.1#Example 1#9_1.sce#2024/CH9/EX9.1/9_1.sce#S##67526
+8#Approximate calculations for real gases#8.9#Example 9#8_9.sce#2024/CH8/EX8.9/8_9.sce#S##67518
+8#Approximate calculations for real gases#8.8#Example 8#8_8.sce#2024/CH8/EX8.8/8_8.sce#S##67517
+8#Approximate calculations for real gases#8.7#Example 7#8_7.sce#2024/CH8/EX8.7/8_7.sce#S##67516
+8#Approximate calculations for real gases#8.5#Example 5#8_5.sce#2024/CH8/EX8.5/8_5.sce#S##67515
+8#Approximate calculations for real gases#8.4#Example 4#8_4.sce#2024/CH8/EX8.4/8_4.sce#S##67514
+8#Approximate calculations for real gases#8.3#Example 3#8_3.sce#2024/CH8/EX8.3/8_3.sce#S##67513
+8#Approximate calculations for real gases#8.2#Example 2#8_2.sce#2024/CH8/EX8.2/8_2.sce#S##67512
+8#Approximate calculations for real gases#8.16#Example 16#8_16.sce#2024/CH8/EX8.16/8_16.sce#S##67525
+8#Approximate calculations for real gases#8.15#Example 15#8_15.sce#2024/CH8/EX8.15/8_15.sce#S##67523
+8#Approximate calculations for real gases#8.14#Example 14#8_14.sce#2024/CH8/EX8.14/8_14.sce#S##67524
+8#Approximate calculations for real gases#8.13#Example 13#8_13.sce#2024/CH8/EX8.13/8_13.sce#S##67522
+8#Approximate calculations for real gases#8.12#Example 12#8_12.sce#2024/CH8/EX8.12/8_12.sce#S##67521
+8#Approximate calculations for real gases#8.11#Example 11#8_11.sce#2024/CH8/EX8.11/8_11.sce#S##67520
+8#Approximate calculations for real gases#8.10#Example 10#8_10.sce#2024/CH8/EX8.10/8_10.sce#S##67519
+8#Approximate calculations for real gases#8.1#Example 1#8_1.sce#2024/CH8/EX8.1/8_1.sce#S##67511
+7#Characteristics of gases#7.9#Example 9#7_9.sce#2024/CH7/EX7.9/7_9.sce#S##67510
+7#Characteristics of gases#7.8#Example 8#7_8.sce#2024/CH7/EX7.8/7_8.sce#S##67509
+7#Characteristics of gases#7.7#Example 7#7_7.sce#2024/CH7/EX7.7/7_7.sce#S##67508
+7#Characteristics of gases#7.6#Example 6#7_6.sce#2024/CH7/EX7.6/7_6.sce#S##67507
+7#Characteristics of gases#7.5#Example 5#7_5.sce#2024/CH7/EX7.5/7_5.sce#S##67506
+7#Characteristics of gases#7.4#Example 4#7_4.sce#2024/CH7/EX7.4/7_4.sce#S##67504
+7#Characteristics of gases#7.3#Example 3#7_3.sce#2024/CH7/EX7.3/7_3.sce#S##67505
+7#Characteristics of gases#7.2#Example 1#7_2.sce#2024/CH7/EX7.2/7_2.sce#S##67503
+6#Properties of fluids#6.8#Example 8#6_8.sce#2024/CH6/EX6.8/6_8.sce#S##67500
+6#Properties of fluids#6.7#Example 7#6_7.sce#2024/CH6/EX6.7/6_7.sce#S##67499
+6#Properties of fluids#6.6#Example 6#6_6.sce#2024/CH6/EX6.6/6_6.sce#S##67498
+6#Properties of fluids#6.5#Example 5#6_5.sce#2024/CH6/EX6.5/6_5.sce#S##67497
+6#Properties of fluids#6.4#Example 4#6_4.sce#2024/CH6/EX6.4/6_4.sce#S##67496
+6#Properties of fluids#6.3#Example 3#6_3.sce#2024/CH6/EX6.3/6_3.sce#S##67495
+6#Properties of fluids#6.2#Example 2#6_2.sce#2024/CH6/EX6.2/6_2.sce#S##67494
+6#Properties of fluids#6.11#Example 10#6_11.sce#2024/CH6/EX6.11/6_11.sce#S##67502
+6#Properties of fluids#6.10#Example 9#6_10.sce#2024/CH6/EX6.10/6_10.sce#S##67501
+6#Properties of fluids#6.1#Example 1#6_1.sce#2024/CH6/EX6.1/6_1.sce#S##67493
+5#The second law#5.8#Example 7#5_8.sce#2024/CH5/EX5.8/5_8.sce#S##67492
+5#The second law#5.7#Example 6#5_7.sce#2024/CH5/EX5.7/5_7.sce#S##67491
+5#The second law#5.5#Example 5#5_5.sce#2024/CH5/EX5.5/5_5.sce#S##67490
+5#The second law#5.4#Example 4#5_4.sce#2024/CH5/EX5.4/5_4.sce#S##67489
+5#The second law#5.3#Example 3#5_3.sce#2024/CH5/EX5.3/5_3.sce#S##68258
+5#The second law#5.2#Example 2#5_2.sce#2024/CH5/EX5.2/5_2.sce#S##67486
+5#The second law#5.1#Example 1#5_1.sce#2024/CH5/EX5.1/5_1.sce#S##67485
+4#The reversible process#4.2#Example 1#4_2.sce#2024/CH4/EX4.2/4_2.sce#S##67484
+3#The first law#3.2#Example 2#3_2.sce#2024/CH3/EX3.2/3_2.sce#S##67483
+3#The first law#3.1#Example 1#3_1.sce#2024/CH3/EX3.1/3_1.sce#S##67482
+2#Fundamental concepts#2.3#Example 2#2_3.sce#2024/CH2/EX2.3/2_3.sce#S##67481
+2#Fundamental concepts#2.1#Example 1#2_1.sce#2024/CH2/EX2.1/2_1.sce#S##67480
+1#Survey of dimensions and units#1.6#Example 6#1_6.sce#2024/CH1/EX1.6/1_6.sce#S##67479
+1#Survey of dimensions and units#1.5#Example 5#1_5.sce#2024/CH1/EX1.5/1_5.sce#S##67478
+1#Survey of dimensions and units#1.4#Example 4#1_4.sce#2024/CH1/EX1.4/1_4.sce#S##67477
+1#Survey of dimensions and units#1.3#Example 3#1_3.sce#2024/CH1/EX1.3/1_3.sce#S##67476
+1#Survey of dimensions and units#1.2#Example 2#1_2.sce#2024/CH1/EX1.2/1_2.sce#S##67475
+1#Survey of dimensions and units#1.1#Example 1#1_1.sce#2024/CH1/EX1.1/1_1.sce#S##67474

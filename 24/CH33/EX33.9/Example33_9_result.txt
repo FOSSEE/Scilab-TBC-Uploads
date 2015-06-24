@@ -1,0 +1,10 @@
+**Sample Problem 33-9a**
+The turn ratio is equal to 70.833
+
+**Sample Problem 33-9b**
+The current in primary circuit is 9.18e+000A
+The current in secondary circuit is 6.50e+002A
+
+**Sample Problem 33-9c**
+The resistance in primary circuit is 9.26e+002A
+The resistance in secondary circuit is 1.85e-001A

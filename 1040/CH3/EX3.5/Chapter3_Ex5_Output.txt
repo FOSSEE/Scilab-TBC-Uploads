@@ -1,0 +1,15 @@
+
+ OUTPUT Ex3.5.1
+The rate equation for Eley-Ridely Mechanism is:
+    r= 773C_A C_B/(1+2.57C_A)
+=================================================
+
+ OUTPUT Ex3.5.2
+ Predicted and Experimental Conversion Values
+=================================================
+10^3/WHSV	X_experimental	X_predicted
+=================================================
+ 4.00		0.16		0.18 
+ 8.20		0.31		0.34 
+ 17.00		0.40		0.59 
+ 39.00		0.75		0.88 

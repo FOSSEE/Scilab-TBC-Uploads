@@ -1,0 +1,10 @@
+clear;
+clc;
+Zo=600;a=0.1;b=0.05;x=10;Is=20*(10^-3);
+Vr=0;
+printf("-Receiving end voltage Vr=0 because the receiving end has been short ciruited\n");
+P=a+(%i*b);
+Ir=Is/(cosh(10*P));
+A=real(Ir);
+B=imag(Ir);
+printf("-Received current is Ir = %f /_ %f mA ",round(abs(Ir)*(10^3)*100)/100,fix(atan(B,A)*180*10/%pi)/10);

@@ -1,0 +1,193 @@
+12#Chemical Reaction Equilibria#12.9#Vant Hoff Equation#Example12_9.sce#647/CH12/EX12.9/Example12_9.sce#S##33691
+12#Chemical Reaction Equilibria#12.8#Vant Hoff Equation#Example12_8.sce#647/CH12/EX12.8/Example12_8.sce#S##33690
+12#Chemical Reaction Equilibria#12.7#Vant Hoff Equation#Example12_7.sce#647/CH12/EX12.7/Example12_7.sce#S##33688
+12#Chemical Reaction Equilibria#12.6#Relation between Equilibrium Constant And Standard Gibbs Free Energy Change#Example12_6.sce#647/CH12/EX12.6/Example12_6.sce#S##33687
+12#Chemical Reaction Equilibria#12.5#Relation between Equilibrium Constant And Standard Gibbs Free Energy Change#Example12_5.sce#647/CH12/EX12.5/Example12_5.sce#S##33686
+12#Chemical Reaction Equilibria#12.4#Feasibility of Chemical Reaction#Example12_4.sce#647/CH12/EX12.4/Example12_4.sce#S##33689
+12#Chemical Reaction Equilibria#12.3#Feasibility of Chemical Reaction#Example12_3.sce#647/CH12/EX12.3/Example12_3.sce#S##33685
+12#Chemical Reaction Equilibria#12.22#Chemical Equilibrium for Simultaneous Equation#Example12_22.sce#647/CH12/EX12.22/Example12_22.sce#S##33704
+12#Chemical Reaction Equilibria#12.21#Phase Rule for Reacting System#Example12_21.sce#647/CH12/EX12.21/Example12_21.sce#S##33703
+12#Chemical Reaction Equilibria#12.20#Phase Rule for Reacting System#Example12_20.sce#647/CH12/EX12.20/Example12_20.sce#S##33702
+12#Chemical Reaction Equilibria#12.2#Multireaction Stoichometry#Example12_2.sce#647/CH12/EX12.2/Example12_2.sce#S##33684
+12#Chemical Reaction Equilibria#12.19#Solid Gas Reaction Equilibria#Example12_19.sce#647/CH12/EX12.19/Example12_19.sce#S##33701
+12#Chemical Reaction Equilibria#12.18#Solid Gas Reaction Equilibria#Example12_18.sce#647/CH12/EX12.18/Example12_18.sce#S##33700
+12#Chemical Reaction Equilibria#12.17#Solid Gas Reaction Equilibria#Example12_17.sce#647/CH12/EX12.17/Example12_17.sce#S##33699
+12#Chemical Reaction Equilibria#12.16#Solid Gas Reaction Equilibria#Example12_16.sce#647/CH12/EX12.16/Example12_16.sce#S##33698
+12#Chemical Reaction Equilibria#12.15#Homogeneous Liquid Phase Reaction Equilibrium#Example12_15.sce#647/CH12/EX12.15/Example12_15.sce#S##33697
+12#Chemical Reaction Equilibria#12.14#Effect of Pressure of Inert Gas on Chemical Equilibrium#Example12_14.sce#647/CH12/EX12.14/Example12_14.sce#S##33696
+12#Chemical Reaction Equilibria#12.13#Effect of Pressure on Chemical Equilibrium#Example12_13.sce#647/CH12/EX12.13/Example12_13.sce#S##33695
+12#Chemical Reaction Equilibria#12.12#Homogeneous Gas Phase Reaction Equilibrium#Example12_12.sce#647/CH12/EX12.12/Example12_12.sce#S##33694
+12#Chemical Reaction Equilibria#12.11#Homogeneous Gas Phase Reaction Equilibrium#Example12_11.sce#647/CH12/EX12.11/Example12_11.sce#S##33693
+12#Chemical Reaction Equilibria#12.10#Homogeneous Gas Phase Reaction Equilibrium#Example12_10.sce#647/CH12/EX12.10/Example12_10.sce#S##33692
+12#Chemical Reaction Equilibria#12.1#Reaction Coordinate#Example12_1.sce#647/CH12/EX12.1/Example12_1.sce#S##33683
+11#Additional Topics in Phase Equilibrium#11.7#Osmotic Pressure and Equilibria#Example11_7.sce#647/CH11/EX11.7/Example11_7.sce#S##33682
+11#Additional Topics in Phase Equilibrium#11.6#Osmotic Pressure and Equilibria#Example11_6.sce#647/CH11/EX11.6/Example11_6.sce#S##33681
+11#Additional Topics in Phase Equilibrium#11.5#Elevation Of Boiling Point Of Solution#Example11_5.sce#647/CH11/EX11.5/Example11_5.sce#S##33680
+11#Additional Topics in Phase Equilibrium#11.4#Elevation Of Boiling Point Of Solution#Example11_4.sce#647/CH11/EX11.4/Example11_4.sce#S##33679
+11#Additional Topics in Phase Equilibrium#11.3#Depression of Freezing Point of Solution#Example11_3.sce#647/CH11/EX11.3/Example11_3.sce#S##33678
+11#Additional Topics in Phase Equilibrium#11.2#Depression of Freezing Point of Solution#Example11_2.sce#647/CH11/EX11.2/Example11_2.sce#S##33677
+11#Additional Topics in Phase Equilibrium#11.1#Depression of Freezing Point of Solution#Example11_1.sce#647/CH11/EX11.1/Example11_1.sce#S##33676
+10#Vapour Liquid Equilibrium#10.9#van Laar Equation#Example10_9.sce#647/CH10/EX10.9/Example10_9.sce#S##33663
+10#Vapour Liquid Equilibrium#10.8#Margules Equation#Example10_8.sce#647/CH10/EX10.8/Example10_8.sce#S##33662
+10#Vapour Liquid Equilibrium#10.7#Azeotropes#Example10_7.sce#647/CH10/EX10.7/Example10_7.sce#S##33661
+10#Vapour Liquid Equilibrium#10.6#Raoults Law#Example10_6.sce#647/CH10/EX10.6/Example10_6.sce#S##33660
+10#Vapour Liquid Equilibrium#10.5#Raoults Law#Example10_5.sce#647/CH10/EX10.5/Example10_5.sce#S##33658
+10#Vapour Liquid Equilibrium#10.4#Raoults Law#Example10_4.sce#647/CH10/EX10.4/Example10_4.sce#S##33657
+10#Vapour Liquid Equilibrium#10.3#Raoults Law#Example10_3.sce#647/CH10/EX10.3/Example10_3.sce#S##33655
+10#Vapour Liquid Equilibrium#10.2#Raoults Law#Example10_2.sce#647/CH10/EX10.2/Example10_2.sce#S##33653
+10#Vapour Liquid Equilibrium#10.19#Thermodynamic Consistency of VLE Data#Example10_19.sce#647/CH10/EX10.19/Example10_19.sce#S##33673
+10#Vapour Liquid Equilibrium#10.18#Flash Calculation#Example10_18.sce#647/CH10/EX10.18/Example10_18.sce#S##33674
+10#Vapour Liquid Equilibrium#10.17#Flash Calculation#Example10_17.sce#647/CH10/EX10.17/Example10_17.sce#S##33671
+10#Vapour Liquid Equilibrium#10.16#Dew Point Calculation#Example10_16.sce#647/CH10/EX10.16/Example10_16.sce#S##33670
+10#Vapour Liquid Equilibrium#10.15#Dew Point Calculation#Example10_15.sce#647/CH10/EX10.15/Example10_15.sce#S##33669
+10#Vapour Liquid Equilibrium#10.14#Bubble Point Calculation#Example10_14.sce#647/CH10/EX10.14/Example10_14.sce#S##33668
+10#Vapour Liquid Equilibrium#10.13#Wilson and NTRL Equation#Example10_13.sce#647/CH10/EX10.13/Example10_13.sce#S##33667
+10#Vapour Liquid Equilibrium#10.12#van Laar Equation#Example10_12.sce#647/CH10/EX10.12/Example10_12.sce#S##33665
+10#Vapour Liquid Equilibrium#10.11#van Laar Equation#Example10_11.sce#647/CH10/EX10.11/Example10_11.sce#S##33666
+10#Vapour Liquid Equilibrium#10.10#van Laar Equation#Example10_10.sce#647/CH10/EX10.10/Example10_10.sce#S##33664
+10#Vapour Liquid Equilibrium#10.1#Clausius Clapeyron Equation#Example10_1.sce#647/CH10/EX10.1/Example10_1.sce#S##33651
+9#Solution Thermodynamics Properties#9.9#Gibbs Duhem Equation#Example9_9.sce#647/CH9/EX9.9/Example9_9.sce#S##33633
+9#Solution Thermodynamics Properties#9.8#Gibbs Duhem Equation#Example9_8.sce#647/CH9/EX9.8/Example9_8.sce#S##33631
+9#Solution Thermodynamics Properties#9.7#Partial Molar Properties#Example9_7.sce#647/CH9/EX9.7/Example9_7.sce#S##33629
+9#Solution Thermodynamics Properties#9.6#Partial Molar Properties#Example9_6.sce#647/CH9/EX9.6/Example9_6.sce#S##33627
+9#Solution Thermodynamics Properties#9.5#Partial Molar Properties#Example9_5.sce#647/CH9/EX9.5/Example9_5.sce#S##33623
+9#Solution Thermodynamics Properties#9.4#Partial Molar Properties#Example9_4.sce#647/CH9/EX9.4/Example9_4.sce#S##33621
+9#Solution Thermodynamics Properties#9.3#Partial Molar Properties#Example9_3.sce#647/CH9/EX9.3/Example9_3.sce#S##33619
+9#Solution Thermodynamics Properties#9.21#Henry Law#Example9_21.sce#647/CH9/EX9.21/Example9_21.sce#S##33650
+9#Solution Thermodynamics Properties#9.20#Excess Property Of Mixture#Example9_20.sce#647/CH9/EX9.20/Example9_20.sce#S##33648
+9#Solution Thermodynamics Properties#9.2#Partial Molar Properties#Example9_2.sce#647/CH9/EX9.2/Example9_2.sce#S##33617
+9#Solution Thermodynamics Properties#9.19#Gibbs Theorem#Example9_19.sce#647/CH9/EX9.19/Example9_19.sce#S##33647
+9#Solution Thermodynamics Properties#9.18#Gibbs Theorem#Example9_18.sce#647/CH9/EX9.18/Example9_18.sce#S##33645
+9#Solution Thermodynamics Properties#9.17#Gibbs Theorem#Example9_17.sce#647/CH9/EX9.17/Example9_17.sce#S##33644
+9#Solution Thermodynamics Properties#9.16#Gibbs Theorem#Example9_16.sce#647/CH9/EX9.16/Example9_16.sce#S##33642
+9#Solution Thermodynamics Properties#9.15#Fugacity of Solids and Liquids#Example9_15.sce#647/CH9/EX9.15/Example9_15.sce#S##33639
+9#Solution Thermodynamics Properties#9.14#Fugacity of Solids and Liquids#Example9_14.sce#647/CH9/EX9.14/Example9_14.sce#S##33638
+9#Solution Thermodynamics Properties#9.13#Fugacity of Solids and Liquids#Example9_13.sce#647/CH9/EX9.13/Example9_13.sce#S##33637
+9#Solution Thermodynamics Properties#9.12#Fugacity of Solids and Liquids#Example9_12.sce#647/CH9/EX9.12/Example9_12.sce#S##33636
+9#Solution Thermodynamics Properties#9.11#Fugacity of Component in Mixture#Example9_11.sce#647/CH9/EX9.11/Example9_11.sce#S##33635
+9#Solution Thermodynamics Properties#9.10#Fugacity of Component in Mixture#Example9_10.sce#647/CH9/EX9.10/Example9_10.sce#S##33634
+9#Solution Thermodynamics Properties#9.1#Partial Molar Properties#Example9_1.sce#647/CH9/EX9.1/Example9_1.sce#S##33615
+8#Refrigeration and Liquefaction Processes#8.9#Absorption Refrigeration Cycle#Example8_9.sce#647/CH8/EX8.9/Example8_9.sce#S##33610
+8#Refrigeration and Liquefaction Processes#8.8#Vapour Compression Refrigeration Cycle#Example8_8.sce#647/CH8/EX8.8/Example8_8.sce#S##33609
+8#Refrigeration and Liquefaction Processes#8.7#Vapour Compression Refrigeration Cycle#Example8_7.sce#647/CH8/EX8.7/Example8_7.sce#S##33608
+8#Refrigeration and Liquefaction Processes#8.6#Vapour Compression Refrigeration Cycle#Example8_6.sce#647/CH8/EX8.6/Example8_6.sce#S##33605
+8#Refrigeration and Liquefaction Processes#8.5#Carnot Refrigeration Cycle#Example8_5.sce#647/CH8/EX8.5/Example8_5.sce#S##33603
+8#Refrigeration and Liquefaction Processes#8.4#Carnot Refrigeration Cycle#Example8_4.sce#647/CH8/EX8.4/Example8_4.sce#S##33601
+8#Refrigeration and Liquefaction Processes#8.3#Carnot Refrigeration Cycle#Example8_3.sce#647/CH8/EX8.3/Example8_3.sce#S##33599
+8#Refrigeration and Liquefaction Processes#8.2#Carnot Refrigeration Cycle#Example8_2.sce#647/CH8/EX8.2/Example8_2.sce#S##33598
+8#Refrigeration and Liquefaction Processes#8.10#Air Refrigeration Cycle#Example8_10.sce#647/CH8/EX8.10/Example8_10.sce#S##33612
+8#Refrigeration and Liquefaction Processes#8.1#Carnot Refrigeration Cycle#Example8_1.sce#647/CH8/EX8.1/Example8_1.sce#S##33597
+7#Thermodynamics to Flow Processes#7.9#Nozzles and Diffusers#Example7_9.sce#647/CH7/EX7.9/Example7_9.sce#S##33594
+7#Thermodynamics to Flow Processes#7.8#Nozzles and Diffusers#Example7_8.sce#647/CH7/EX7.8/Example7_8.sce#S##33593
+7#Thermodynamics to Flow Processes#7.7#Heat Exchangers#Example7_7.sce#647/CH7/EX7.7/Example7_7.sce#S##33592
+7#Thermodynamics to Flow Processes#7.6#Heat Exchangers#Example7_6.sce#647/CH7/EX7.6/Example7_6.sce#S##33591
+7#Thermodynamics to Flow Processes#7.5#Compressor#Example7_5.sce#647/CH7/EX7.5/Example7_5.sce#S##33590
+7#Thermodynamics to Flow Processes#7.4#Compressor#Example7_4.sce#647/CH7/EX7.4/Example7_4.sce#S##33589
+7#Thermodynamics to Flow Processes#7.3#Energy Analysis of Control Volume#Example7_3.sce#647/CH7/EX7.3/Example7_3.sce#S##33588
+7#Thermodynamics to Flow Processes#7.2#Steady Flow Processes and Devices#Example7_2.sce#647/CH7/EX7.2/Example7_2.sce#S##33587
+7#Thermodynamics to Flow Processes#7.11#Nozzles and Diffusers#Example7_11.sce#647/CH7/EX7.11/Example7_11.sce#S##33596
+7#Thermodynamics to Flow Processes#7.10#Nozzles and Diffusers#Example7_10.sce#647/CH7/EX7.10/Example7_10.sce#S##33595
+7#Thermodynamics to Flow Processes#7.1#Steady Flow Process and Devices#Example7_1.sce#647/CH7/EX7.1/Example7_1.sce#S##33586
+6#Thermodynamic Property Relations#6.9#Isothermal Compressibility and Volume Expansivity#Example6_9.sce#647/CH6/EX6.9/Example6_9.sce#S##33569
+6#Thermodynamic Property Relations#6.8#Isothermal Compressibility and Volume Expansivity#Example6_8.sce#647/CH6/EX6.8/Example6_8.sce#S##33568
+6#Thermodynamic Property Relations#6.7#Heat Capacity Relations#Example6_7.sce#647/CH6/EX6.7/Example6_7.sce#S##33566
+6#Thermodynamic Property Relations#6.6#Heat Capacity Relations#Example6_6.sce#647/CH6/EX6.6/Example6_6.sce#S##33565
+6#Thermodynamic Property Relations#6.5#Clapeyron Equation#Example6_5.sce#647/CH6/EX6.5/Example6_5.sce#S##33564
+6#Thermodynamic Property Relations#6.4#Clapeyron Equation#Example6_4.sce#647/CH6/EX6.4/Example6_4.sce#S##33562
+6#Thermodynamic Property Relations#6.3#Clapeyron Equation#Example6_3.sce#647/CH6/EX6.3/Example6_3.sce#S##33561
+6#Thermodynamic Property Relations#6.24#Fugacity and Fugacity Coeffecient#Example6_24.sce#647/CH6/EX6.24/Example6_24.sce#S##33585
+6#Thermodynamic Property Relations#6.23#Residual Properties from Cubic Equation of State#Example6_23.sce#647/CH6/EX6.23/Example6_23.sce#S##33584
+6#Thermodynamic Property Relations#6.22#Residual Properties from Virial Equation of State#Example6_22.sce#647/CH6/EX6.22/Example6_22.sce#S##33583
+6#Thermodynamic Property Relations#6.21#Joule Thomson Effect#Example6_21.sce#647/CH6/EX6.21/Example6_21.sce#S##33582
+6#Thermodynamic Property Relations#6.20#Joule Thomson Effect#Example6_20.sce#647/CH6/EX6.20/Example6_20.sce#S##33581
+6#Thermodynamic Property Relations#6.2#Clapeyron Equation#Example6_2.sce#647/CH6/EX6.2/Example6_2.sce#S##33560
+6#Thermodynamic Property Relations#6.19#Joule Thomson Effect#Example6_19.sce#647/CH6/EX6.19/Example6_19.sce#S##33580
+6#Thermodynamic Property Relations#6.18#Isothermal Compressibility and Volume Expansivity#Example6_18.sce#647/CH6/EX6.18/Example6_18.sce#S##33579
+6#Thermodynamic Property Relations#6.17#Isothermal Compressibility and Volume Expansivity#Example6_17.sce#647/CH6/EX6.17/Example6_17.sce#S##33578
+6#Thermodynamic Property Relations#6.16#Isothermal Compressibility and Volume Expansivity#Example6_16.sce#647/CH6/EX6.16/Example6_16.sce#S##33577
+6#Thermodynamic Property Relations#6.15#Isothermal Compressibility and Volume Expansivity#Example6_15.sce#647/CH6/EX6.15/Example6_15.sce#S##33576
+6#Thermodynamic Property Relations#6.14#Isothermal Compressibility and Volume Expansivity#Example6_14.sce#647/CH6/EX6.14/Example6_14.sce#S##33575
+6#Thermodynamic Property Relations#6.13#Isothermal Compressibility and Volume Expansivity#Example6_13.sce#647/CH6/EX6.13/Example6_13.sce#S##33574
+6#Thermodynamic Property Relations#6.12#Isothermal Compressibility and Volume Expansivity#Example6_12.sce#647/CH6/EX6.12/Example6_12.sce#S##33573
+6#Thermodynamic Property Relations#6.11#Isothermal Compressibility and Volume Expansivity#Example6_11.sce#647/CH6/EX6.11/Example6_11.sce#S##33572
+6#Thermodynamic Property Relations#6.10#Isothermal Compressibility and Volume Expansivity#Example6_10.sce#647/CH6/EX6.10/Example6_10.sce#S##33571
+6#Thermodynamic Property Relations#6.1#Thermodynamic Properties#Example6_1.sce#647/CH6/EX6.1/Example6_1.sce#S##33558
+5#Second Law of Thermodynamics#5.9#Calculation of Entropy Changes#Example5_9.sce#647/CH5/EX5.9/Example5_9.sce#S##33538
+5#Second Law of Thermodynamics#5.8#Calculation of Entropy Changes#Example5_8.sce#647/CH5/EX5.8/Example5_8.sce#S##33537
+5#Second Law of Thermodynamics#5.7#Calculation of Entropy Changes#Example5_7.sce#647/CH5/EX5.7/Example5_7.sce#S##33536
+5#Second Law of Thermodynamics#5.6#Efficiency of Carnot Cycle#Example5_6.sce#647/CH5/EX5.6/Example5_6.sce#S##33535
+5#Second Law of Thermodynamics#5.5#Efficiency of Carnot Cycle#Example5_5.sce#647/CH5/EX5.5/Example5_5.sce#S##33534
+5#Second Law of Thermodynamics#5.4#Efficiency of Carnot Cycle#Example5_4.sce#647/CH5/EX5.4/Example5_4.sce#S##33533
+5#Second Law of Thermodynamics#5.3#Efficiency of Carnot Cycle#Example5_3.sce#647/CH5/EX5.3/Example5_3.sce#S##33532
+5#Second Law of Thermodynamics#5.25#Irreversibility and Lost Work#Example5_25.sce#647/CH5/EX5.25/Example5_25.sce#S##33556
+5#Second Law of Thermodynamics#5.24#Irreversibility and Lost Work#Example5_24.sce#647/CH5/EX5.24/Example5_24.sce#S##33555
+5#Second Law of Thermodynamics#5.23#Mathematical Statement of Second Law of Thermodynamics#Example5_23.sce#647/CH5/EX5.23/Example5_23.sce#S##33553
+5#Second Law of Thermodynamics#5.22#Mathematical Statement of Second Law of Thermodynamics#Example5_22.sce#647/CH5/EX5.22/Example5_22.sce#S##33551
+5#Second Law of Thermodynamics#5.21#Mathematical Statement of Second Law of Thermodynamics#Example5_21.sce#647/CH5/EX5.21/Example5_21.sce#S##33550
+5#Second Law of Thermodynamics#5.20#Mathematical Statement of Second Law of Thermodynamics#Example5_20.sce#647/CH5/EX5.20/Example5_20.sce#S##33549
+5#Second Law of Thermodynamics#5.2#Efficiency of Carnot Cycle#Example5_2.sce#647/CH5/EX5.2/Example5_2.sce#S##33531
+5#Second Law of Thermodynamics#5.19#Mathematical Statement of Second Law of Thermodynamics#Example5_19.sce#647/CH5/EX5.19/Example5_19.sce#S##33548
+5#Second Law of Thermodynamics#5.18#Entropy Changes with Temperature#Example5_18.sce#647/CH5/EX5.18/Example5_18.sce#S##33547
+5#Second Law of Thermodynamics#5.17#Entropy Changes with Temperature#Example5_17.sce#647/CH5/EX5.17/Example5_17.sce#S##33546
+5#Second Law of Thermodynamics#5.16#Entropy Changes with Temperature#Example5_16.sce#647/CH5/EX5.16/Example5_16.sce#S##33545
+5#Second Law of Thermodynamics#5.15#Entropy Changes with Temperature#Example5_15.sce#647/CH5/EX5.15/Example5_15.sce#S##33544
+5#Second Law of Thermodynamics#5.14#Entropy Changes with Temperature#Example5_14.sce#647/CH5/EX5.14/Example5_14.sce#S##33543
+5#Second Law of Thermodynamics#5.13#Entropy Changes with Temperature#Example5_13.sce#647/CH5/EX5.13/Example5_13.sce#S##33542
+5#Second Law of Thermodynamics#5.12#Entropy Change in a mixture of Non Identical Ideal Gas#Example5_12.sce#647/CH5/EX5.12/Example5_12.sce#S##33541
+5#Second Law of Thermodynamics#5.11#Entropy Change in a mixture of Non Identical Ideal Gas#Example5_11.sce#647/CH5/EX5.11/Example5_11.sce#S##33540
+5#Second Law of Thermodynamics#5.10#Calculation of Entropy Changes#Example5_10.sce#647/CH5/EX5.10/Example5_10.sce#S##33539
+5#Second Law of Thermodynamics#5.1#Efficiency of Carnot Cycle#Example5_1.sce#647/CH5/EX5.1/Example5_1.sce#S##33530
+4#Heat Effects#4.9#Effect of Temperature on Heat of Reaction#Example4_9.sce#647/CH4/EX4.9/Example4_9.sce#S##30708
+4#Heat Effects#4.8#Adiabatic Flame Temperature#Example4_8.sce#647/CH4/EX4.8/Example4_8.sce#S##30707
+4#Heat Effects#4.7#Adiabatic Flame Temperature#Example4_7.sce#647/CH4/EX4.7/Example4_7.sce#S##30706
+4#Heat Effects#4.6#Standard Heat of Combustion#Example4_6.sce#647/CH4/EX4.6/Example4_6.sce#S##30705
+4#Heat Effects#4.5#Standard Heat of Formation#Example4_5.sce#647/CH4/EX4.5/Example4_5.sce#S##30704
+4#Heat Effects#4.4#Standard Heat of Formation#Example4_4.sce#647/CH4/EX4.4/Example4_4.sce#S##30703
+4#Heat Effects#4.3#Standard Heat of Formation#Example4_3.sce#647/CH4/EX4.3/Example4_3.sce#S##30702
+4#Heat Effects#4.2#Standard Heat of Reaction#Example4_2.sce#647/CH4/EX4.2/Example4_2.sce#S##30701
+4#Heat Effects#4.11#Effect of Temperature on Heat of Reaction#Example4_11.sce#647/CH4/EX4.11/Example4_11.sce#S##30710
+4#Heat Effects#4.10#Effect of Temperature on Heat of Reaction#Example4_10.sce#647/CH4/EX4.10/Example4_10.sce#S##30709
+4#Heat Effects#4.1#Relation between Qp and Qv#Example4_1.sce#647/CH4/EX4.1/Example4_1.sce#S##30700
+3#Properties Of Pure Substances#3.9#Isothermal Process#Example3_9.sce#647/CH3/EX3.9/Example3_9.sce#S##30697
+3#Properties Of Pure Substances#3.8#Virial Equation of state#Example3_8.sce#647/CH3/EX3.8/Example3_8.sce#S##30696
+3#Properties Of Pure Substances#3.7#Van der waal equation of state#Example3_7.sce#647/CH3/EX3.7/Example3_7.sce#S##30695
+3#Properties Of Pure Substances#3.6#Cubic Equation of State#Example3_6.sce#647/CH3/EX3.6/Example3_6.sce#S##30694
+3#Properties Of Pure Substances#3.5#Van der waal equation of state#Example3_5.sce#647/CH3/EX3.5/Example3_5.sce#S##30693
+3#Properties Of Pure Substances#3.4#Ideal Gas Equation of State#Example3_4.sce#647/CH3/EX3.4/Example3_4.sce#S##30692
+3#Properties Of Pure Substances#3.3#Ideal Gas Equation of State#Example3_3.sce#647/CH3/EX3.3/Example3_3.sce#S##30691
+3#Properties Of Pure Substances#3.2#Ideal Gas Equation of State#Example3_2.sce#647/CH3/EX3.2/Example3_2.sce#S##30690
+3#Properties Of Pure Substances#3.11#Acentric Factor#Example3_11.sce#647/CH3/EX3.11/Example3_11.sce#S##30699
+3#Properties Of Pure Substances#3.10#Isothermal Process#Example3_10.sce#647/CH3/EX3.10/Example3_10.sce#S##30698
+3#Properties Of Pure Substances#3.1#Ideal Gas Equation of State#Example3_1.sce#647/CH3/EX3.1/Example3_1.sce#S##30689
+2#First Law of Thermodynamics#2.9#Heat Capacity#Example2_9.sce#647/CH2/EX2.9/Example2_9.sce#S##30678
+2#First Law of Thermodynamics#2.8#Enthalpy#Example2_8.sce#647/CH2/EX2.8/Example2_8.sce#S##30677
+2#First Law of Thermodynamics#2.7#Enthalpy#Example2_7.sce#647/CH2/EX2.7/Example2_7.sce#S##30676
+2#First Law of Thermodynamics#2.6#Enthalpy#Example2_6.sce#647/CH2/EX2.6/Example2_6.sce#S##30675
+2#First Law of Thermodynamics#2.5#First Law of Thermodynamics for Closed System#Example2_5.sce#647/CH2/EX2.5/Example2_5.sce#S##30674
+2#First Law of Thermodynamics#2.4#First Law of Thermodynamics for Closed System#Example2_4.sce#647/CH2/EX2.4/Example2_4.sce#S##30673
+2#First Law of Thermodynamics#2.3#First Law of Thermodynamics for Closed System#Example2_3.sce#647/CH2/EX2.3/Example2_3.sce#S##30672
+2#First Law of Thermodynamics#2.2#First Law of Thermodynamics for Closed System#Example2_2.sce#647/CH2/EX2.2/Example2_2.sce#S##29642
+2#First Law of Thermodynamics#2.19#Energy balance for open system#Example2_19.sce#647/CH2/EX2.19/Example2_19.sce#S##30688
+2#First Law of Thermodynamics#2.18#Work Requirement#Example2_18.sce#647/CH2/EX2.18/Example2_18.sce#S##30687
+2#First Law of Thermodynamics#2.17#Work done by gas#Example2_17.sce#647/CH2/EX2.17/Example2_17.sce#S##30686
+2#First Law of Thermodynamics#2.16#Compression of ideal gas#Example2_16.sce#647/CH2/EX2.16/Example2_16.sce#S##30685
+2#First Law of Thermodynamics#2.15#Reversible Isothermal Expansion#Example2_15.sce#647/CH2/EX2.15/Example2_15.sce#S##30684
+2#First Law of Thermodynamics#2.14#Adiabatic and Isothermal Process#Example2_14.sce#647/CH2/EX2.14/Example2_14.sce#S##30683
+2#First Law of Thermodynamics#2.13#Isochoric and Isobaric Process#Example2_13.sce#647/CH2/EX2.13/Example2_13.sce#S##30682
+2#First Law of Thermodynamics#2.12#Adiabatic and Isothermal Process#Example2_12.sce#647/CH2/EX2.12/Example2_12.sce#S##30681
+2#First Law of Thermodynamics#2.11#Reversible Adiabatic Expansion of Real Gas#Example2_11.sce#647/CH2/EX2.11/Example2_11.sce#S##30680
+2#First Law of Thermodynamics#2.10#Reversible Adiabatic Expansion of Real Gas#Example2_10.sce#647/CH2/EX2.10/Example2_10.sce#S##30679
+2#First Law of Thermodynamics#2.1#First Law of thermodynamics for closed system#Example2_1.sce#647/CH2/EX2.1/Example2_1.sce#S##29641
+1#Introduction and Basic Concepts#1.9#Energy#Example1_9.sce#647/CH1/EX1.9/Example1_9.sce#S##29636
+1#Introduction and Basic Concepts#1.8#Energy#Example1_8.sce#647/CH1/EX1.8/Example1_8.sce#S##29635
+1#Introduction and Basic Concepts#1.7#Work#Example1_7.sce#647/CH1/EX1.7/Example1_7.sce#S##29634
+1#Introduction and Basic Concepts#1.6#Work#Example1_6.sce#647/CH1/EX1.6/Example1_6.sce#S##29633
+1#Introduction and Basic Concepts#1.5#Pressure#Example1_5.sce#647/CH1/EX1.5/Example1_5.sce#S##29632
+1#Introduction and Basic Concepts#1.4#Importance of Units and Dimensions#Example1_4.sce#647/CH1/EX1.4/Example1_4.sce#S##29631
+1#Introduction and Basic Concepts#1.3#Importance of Units and Dimensions#Example1_3.sce#647/CH1/EX1.3/Example1_3.sce#S##29630
+1#Introduction and Basic Concepts#1.2#Importance of Units and Dimensions#Example1_2.sce#647/CH1/EX1.2/Example1_2.sce#S##29629
+1#Introduction and Basic Concepts#1.13#Temperature and Ideal Gas Temperature Scale#Example1_13.sce#647/CH1/EX1.13/Example1_13.sce#S##29640
+1#Introduction and Basic Concepts#1.12#Temperature and Ideal Gas Temperature Scale#Example1_12.sce#647/CH1/EX1.12/Example1_12.sce#S##29639
+1#Introduction and Basic Concepts#1.11#Power#Example1_11.sce#647/CH1/EX1.11/Example1_11.sce#S##29638
+1#Introduction and Basic Concepts#1.10#Power#Example1_10.sce#647/CH1/EX1.10/Example1_10.sce#S##29637
+1#Introduction and Basic Concepts#1.1#Importance of Units and Dimensions#Example1_1.sce#647/CH1/EX1.1/Example1_1.sce#S##29628

@@ -1,0 +1,9 @@
+ The value of the parameter r= 10
+ The value of the parameter xo= 1.293292
+ The value of the current amplitude parameter 2*ao= 5.404792
+ The value of the current amplitude parameter a1= 4.500000
+ The value of the current amplitude parameter a2= 2.797604
+ The value of the relative amplitude parameter a11= 1.000000
+ The value of the relative amplitude parameter a12= 1.608519
+ The value of the relative amplitude parameter a02= 1.931936
+ The five element array is shown in figure in the given textbook

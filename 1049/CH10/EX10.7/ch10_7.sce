@@ -1,0 +1,20 @@
+clear;
+clc;
+V_l=400;
+V_ml=sqrt(2)*V_l;
+m=6;
+f=50;
+w=2*%pi*f;
+L=.0012;
+I=40;
+disp("for firing angle=0deg");
+a=0;
+V_or=(V_ml*(m/%pi)*sin(%pi/m))*cosd(a);
+V_omx=V_or-3*w*L*I/%pi;
+V_rms=V_omx/sqrt(2);    printf("rms value of load voltage=%.2f V",V_rms);
+
+disp("for firing angle=30deg");
+a=30;
+V_or=(V_ml*(m/%pi)*sin(%pi/m))*cosd(a);
+V_omx=V_or-3*w*L*I/%pi;
+V_rms=V_omx/sqrt(2);    printf("rms value of load voltage=%.2f V",V_rms);

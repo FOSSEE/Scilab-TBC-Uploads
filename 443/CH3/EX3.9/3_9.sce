@@ -1,0 +1,21 @@
+pathname=get_absolute_file_path('3_9.sce')
+filename=pathname+filesep()+'3_9_data.sci'
+exec(filename)
+//Temperature at end of compression(in K)
+T2=T1*(p2/p1)^((y-1)/y)
+//Theoretical thermal efficiency
+n=1-(T1/T2)
+//Heat supplied(in kJ/kg)
+qs=Cv*(T3-T2)
+//Work done per kg of air(in kJ/kg)
+w=n*qs
+//Pressure at start of expansion stroke(in bar)
+p3=p2*(T3/T2)
+//Pressure at the end of expansion stroke(in bar)
+p4=p3*(p1/p2)
+printf("\n\nRESULTS\n\n")
+printf("\nTheoretical thermal efficiency:%f\n",n*100)
+printf("\nHeat supplied:%f\n",qs)
+printf("\nWork done per kg of air:%f\n",w)
+printf("\nPressure at start of expansion stroke:%f\n",p3)
+printf("\nPressure at the end of expansion stroke:%f\n",p4)

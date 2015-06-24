@@ -1,0 +1,15 @@
+output power when input current is 20 Amp(in watts)=   
+ 
+    7929.6  
+ 
+ efficiency of the shunt motor when input current is 20 Amp(in %)=   
+ 
+    79.296  
+ 
+ output power when input current is 100 Amp(in watts)=   
+ 
+    46041.6  
+ 
+ efficiency of the shunt motor when input current is 100 Amp(in %)=   
+ 
+    92.0832  

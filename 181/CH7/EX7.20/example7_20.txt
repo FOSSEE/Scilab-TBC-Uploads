@@ -1,0 +1,2 @@
+(a)Transconductance gm = 1e-003 A/V
+(b)Amplification factor mu = 200 

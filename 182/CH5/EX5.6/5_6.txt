@@ -1,0 +1,1 @@
+6.for less 1percent error,use n=7

@@ -1,0 +1,3 @@
+ 
+ Example 9.6
+ Free energy change during recrystallization is -14793 J m^-3 

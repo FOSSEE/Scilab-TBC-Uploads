@@ -1,0 +1,45 @@
+-->//(Design against Static Load) Example 4.8
+ 
+-->//Refer Fig.4.27
+ 
+-->//Force acting on offset link P (kN)
+ 
+-->P = 25
+ P  =
+ 
+    25.  
+ 
+-->//Ultimate tensile strength of FG300 Sut (N/mm2)
+ 
+-->Sut = 300
+ Sut  =
+ 
+    300.  
+ 
+-->//Factor of safety (fs)
+ 
+-->fs = 3
+ fs  =
+ 
+    3.  
+ 
+-->//Force offset distance e (mm)
+ 
+-->e = 10
+ e  =
+ 
+    10.  
+ 
+-->//Ratio of depth to width of the cross-section ratio
+ 
+-->ratio = 2
+ ratio  =
+ 
+    2.  
+ 
+ 
+
+Value of t = 25.443742 mm
+
+Area of cross-section = (25.443742 x 50.887483) mm2
+ 

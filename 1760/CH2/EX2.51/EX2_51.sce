@@ -1,0 +1,26 @@
+                //example 2-51        pg no-94
+V=230+%i*0;                  //VOLTAGE
+F=50;                       //FREQUENCY
+C=10^-4;                   //CAPACITOR
+R=10;                      //RESISTANCE
+cos(72.56)=0.299;
+XC=1/[2*%pi*F*C];
+disp('i)   INDUCTANCE (XC) is    =  '+string (XC) +'  ohm ');
+Z=R-%i*XC;                       //impedance
+disp('i)   IMPEDANCE (Z) is  in rectangular form  =  '+string (Z) +'  ohm ');
+Y=1/Z;                        //admittance
+disp('i)   ADMITTANCE (Y) is  in rectangular form  =  '+string (Y) +'  ohm ');
+I=V/Z;                      //CURRENT
+disp('i)    CURRENT (I) is  in rectangular form  =  '+string (I) +'  A ');
+PF=0.299;         //POWER FACTOR
+disp('i)   POWER FACTOR (PF) is    =  '+string (PF) +'  leading ');
+S=V*I;             //APPARENT  POWER
+disp('i)   APPARENT POWER (S) is  IN rectangular FORM  =  '+string (S) +'  VA ');
+P=V*I*0.3;               //ACTIVE    POWER
+disp('i)   ACTIVE POWER (P) is in   rectangular form    =  '+string (P) +'  W ');
+Q=V*I*-0.1315;          //REACTIVE POWER
+disp('i)   REACTIVE POWER (Q) is    in rectangular form   =  '+string (Q) +'  vars ');
+Vr=I*R;
+disp('i)   VOLTAGE (Vr) is  in rectangular form  =  '+string (Vr) +'  V ');
+Vc=-%i*I*XC;
+disp('i)   VOLTAGE (Vc) is    =  '+string (Vc) +'  V ');

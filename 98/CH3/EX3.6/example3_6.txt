@@ -1,0 +1,7 @@
+Energy generated per annum = 65700000 kWh 
+
+Plant capacity =18750 kW 
+
+Reserve capacity =3750.0 kW 
+
+

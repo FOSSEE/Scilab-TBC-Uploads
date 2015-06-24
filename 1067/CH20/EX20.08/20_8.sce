@@ -1,0 +1,37 @@
+clear;
+clc;
+r=25e6;
+rb=5e6;
+v1=6.6e3;
+v2=25e3;
+xs=.2;
+xt=.3;
+Xs=xs*r/rb;
+Xt=xt*r/rb;
+Z=.125;
+v=1;
+I=v/(Z);
+ib=r/(1.7355*v1);
+ib=fix(ib);
+i=ib*8;
+ig=I*.25/.5;
+im=I-ig;
+it=3*1+im;
+Ia=ib*it;
+Imom=1.6*Ia;
+xt=.15;
+Zth=.375*.25/(.375+.25);
+I=v/xt;
+igen=I*.375/.625;
+imot=.25*I*.25/.625;
+itot=igen+(3*imot);//symm breaking current
+ibr=itot*1.1;//asymm breaking current
+is=itot*ib;
+ia=ibr*ib*1.01;
+ia=fix(ia/100)*100;
+rbreaking=1.739*v1*ia;
+rbreaking=fix(rbreaking/1e6)*1e6;
+Imom=round(Imom/10)*10;
+ia=round(ia);
+is=fix(is/100)*100;
+mprintf("the subtransient fault current If= %d/_-90A\nsubtansient current in breaker A=%dA\n the momentary current = %dA\n,the current to be interrupted asymmetric=%dA \n symmetric interrupting current=%dA\n the rating of the CB in kva=%dkVA",i,Ia,Imom,ia,is,rbreaking/1e3);

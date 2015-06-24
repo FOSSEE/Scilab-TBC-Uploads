@@ -1,0 +1,9 @@
+basis=1 //Kg/s
+x=0.6 //ethane
+T1=150 //K
+T2=250 //K
+P=5 //bar
+Hout1=973.3 //KJ/Kg
+Hout2=237.0 //KJ/Kg
+Hin1=314.3 //KJ/Kg
+Hin2=30 //KJ/Kg

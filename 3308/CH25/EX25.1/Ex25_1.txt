@@ -1,0 +1,7 @@
+
+ # Chip Dimensions in Surface Grinding # 
+
+
+ Undeformed Chip Length = 0.124499 mm
+
+ Undeformed chip Thickness = 0.000233 in

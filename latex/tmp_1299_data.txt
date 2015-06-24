@@ -1,0 +1,194 @@
+15#Miscellaneous solved problems#15.9#Nyquist plot#example15_9.sce#1299/CH15/EX15.9/example15_9.sce#S##66486
+15#Miscellaneous solved problems#15.9#Nyquist plot#result15_9.jpg#1299/CH15/EX15.9/result15_9.jpg#R##52824
+15#Miscellaneous solved problems#15.9#Nyquist plot#figure15_9.jpg#1299/CH15/EX15.9/figure15_9.jpg#R##52825
+15#Miscellaneous solved problems#15.8#Bandwidth of the transfer function#example15_8.sce#1299/CH15/EX15.8/example15_8.sce#S##66485
+15#Miscellaneous solved problems#15.8#Bandwidth of the transfer function#result15_8.jpg#1299/CH15/EX15.8/result15_8.jpg#R##52822
+15#Miscellaneous solved problems#15.7#To find bandwidth of the transfer function#example15_7.sce#1299/CH15/EX15.7/example15_7.sce#S##66484
+15#Miscellaneous solved problems#15.7#To find bandwidth of the transfer function#result15_7.jpg#1299/CH15/EX15.7/result15_7.jpg#R##52820
+15#Miscellaneous solved problems#15.60#root locus#example15_60.sce#1299/CH15/EX15.60/example15_60.sce#S##66513
+15#Miscellaneous solved problems#15.60#root locus#figure15_60.jpg#1299/CH15/EX15.60/figure15_60.jpg#R##60899
+15#Miscellaneous solved problems#15.60#root locus#result15_60.jpg#1299/CH15/EX15.60/result15_60.jpg#R##60900
+15#Miscellaneous solved problems#15.6#comparison of sensitivities of two systems#example15_6.sce#1299/CH15/EX15.6/example15_6.sce#S##66483
+15#Miscellaneous solved problems#15.6#comparison of sensitivities of two systems#result15_6.jpg#1299/CH15/EX15.6/result15_6.jpg#R##52818
+15#Miscellaneous solved problems#15.59#transfer function of signal flow graph#example15_59.sce#1299/CH15/EX15.59/example15_59.sce#S##66512
+15#Miscellaneous solved problems#15.59#transfer function of signal flow graph#result15_59.jpg#1299/CH15/EX15.59/result15_59.jpg#R##54341
+15#Miscellaneous solved problems#15.57#determination of zeta and wn#example15_57.sce#1299/CH15/EX15.57/example15_57.sce#S##66511
+15#Miscellaneous solved problems#15.57#determination of zeta and wn#result15_57.jpg#1299/CH15/EX15.57/result15_57.jpg#R##54339
+15#Miscellaneous solved problems#15.54#Nyquist plot#example15_54.sce#1299/CH15/EX15.54/example15_54.sce#S##66510
+15#Miscellaneous solved problems#15.54#Nyquist plot#result15_54.jpg#1299/CH15/EX15.54/result15_54.jpg#R##54334
+15#Miscellaneous solved problems#15.54#Nyquist plot#figure15_54.jpg#1299/CH15/EX15.54/figure15_54.jpg#R##54335
+15#Miscellaneous solved problems#15.53#Statespace model of the differential equation#example15_53.sce#1299/CH15/EX15.53/example15_53.sce#S##66509
+15#Miscellaneous solved problems#15.53#Statespace model of the differential equation#result15_53.jpg#1299/CH15/EX15.53/result15_53.jpg#R##54337
+15#Miscellaneous solved problems#15.50#Bode plot#example15_50.sce#1299/CH15/EX15.50/example15_50.sce#S##66508
+15#Miscellaneous solved problems#15.50#Bode plot#figure15_50.jpg#1299/CH15/EX15.50/figure15_50.jpg#R##54324
+15#Miscellaneous solved problems#15.50#Bode plot#result15_50.jpg#1299/CH15/EX15.50/result15_50.jpg#R##54325
+15#Miscellaneous solved problems#15.5#Transfer function of system#example15_5.sce#1299/CH15/EX15.5/example15_5.sce#S##66482
+15#Miscellaneous solved problems#15.5#Transfer function of system#result15_5.jpg#1299/CH15/EX15.5/result15_5.jpg#R##52816
+15#Miscellaneous solved problems#15.49#Root locus of the transfer function#example15_49.sce#1299/CH15/EX15.49/example15_49.sce#S##66507
+15#Miscellaneous solved problems#15.49#Root locus of the transfer function#result15_49.jpg#1299/CH15/EX15.49/result15_49.jpg#R##54321
+15#Miscellaneous solved problems#15.49#Root locus of the transfer function#figure15_49.jpg#1299/CH15/EX15.49/figure15_49.jpg#R##54322
+15#Miscellaneous solved problems#15.45#Covariant matrix of A #example15_45.sce#1299/CH15/EX15.45/example15_45.sce#S##66506
+15#Miscellaneous solved problems#15.45#Covariant matrix of A #result15_45.jpg#1299/CH15/EX15.45/result15_45.jpg#R##54319
+15#Miscellaneous solved problems#15.44#State space representation of LTI system#example15_44.sce#1299/CH15/EX15.44/example15_44.sce#S##66505
+15#Miscellaneous solved problems#15.44#State space representation of LTI system#result15_44.jpg#1299/CH15/EX15.44/result15_44.jpg#R##54317
+15#Miscellaneous solved problems#15.43#Eigen values of matrix#example15_43.sce#1299/CH15/EX15.43/example15_43.sce#S##66504
+15#Miscellaneous solved problems#15.43#Eigen values of matrix#result15_43.jpg#1299/CH15/EX15.43/result15_43.jpg#R##54315
+15#Miscellaneous solved problems#15.42#Bode plot#example15_42.sce#1299/CH15/EX15.42/example15_42.sce#S##66503
+15#Miscellaneous solved problems#15.42#Bode plot#result15_42.jpg#1299/CH15/EX15.42/result15_42.jpg#R##54312
+15#Miscellaneous solved problems#15.42#Bode plot#figure15_42.jpg#1299/CH15/EX15.42/figure15_42.jpg#R##54313
+15#Miscellaneous solved problems#15.41#Nyquist plot#example15_41.sce#1299/CH15/EX15.41/example15_41.sce#S##66502
+15#Miscellaneous solved problems#15.41#Nyquist plot#figure15_41.jpg#1299/CH15/EX15.41/figure15_41.jpg#R##54309
+15#Miscellaneous solved problems#15.41#Nyquist plot#result15_41.jpg#1299/CH15/EX15.41/result15_41.jpg#R##54310
+15#Miscellaneous solved problems#15.40#Nyquist plot#example15_40.sce#1299/CH15/EX15.40/example15_40.sce#S##66501
+15#Miscellaneous solved problems#15.40#Nyquist plot#figure15_40.jpg#1299/CH15/EX15.40/figure15_40.jpg#R##54306
+15#Miscellaneous solved problems#15.40#Nyquist plot#result15_40.jpg#1299/CH15/EX15.40/result15_40.jpg#R##54307
+15#Miscellaneous solved problems#15.4#transfer function of gyroscope#example15_4.sce#1299/CH15/EX15.4/example15_4.sce#S##66481
+15#Miscellaneous solved problems#15.4#transfer function of gyroscope#result15_4.jpg#1299/CH15/EX15.4/result15_4.jpg#R##52814
+15#Miscellaneous solved problems#15.39#Bode plot#example15_39.sce#1299/CH15/EX15.39/example15_39.sce#S##66500
+15#Miscellaneous solved problems#15.39#Bode plot#figure15_39.jpg#1299/CH15/EX15.39/figure15_39.jpg#R##54303
+15#Miscellaneous solved problems#15.39#Bode plot#result15_39.jpg#1299/CH15/EX15.39/result15_39.jpg#R##54304
+15#Miscellaneous solved problems#15.38#Roots of characteristic equation#example15_38.sce#1299/CH15/EX15.38/example15_38.sce#S##66499
+15#Miscellaneous solved problems#15.38#Roots of characteristic equation#result15_38.jpg#1299/CH15/EX15.38/result15_38.jpg#R##54301
+15#Miscellaneous solved problems#15.37#step response of the transfer function#example15_37.sce#1299/CH15/EX15.37/example15_37.sce#S##66498
+15#Miscellaneous solved problems#15.37#step response of the transfer function#figure15_37.jpg#1299/CH15/EX15.37/figure15_37.jpg#R##54298
+15#Miscellaneous solved problems#15.37#step response of the transfer function#result15_37.jpg#1299/CH15/EX15.37/result15_37.jpg#R##54299
+15#Miscellaneous solved problems#15.36#Impulse response of the transfer function#example15_36.sce#1299/CH15/EX15.36/example15_36.sce#S##66497
+15#Miscellaneous solved problems#15.36#Impulse response of the transfer function#figure15_36.jpg#1299/CH15/EX15.36/figure15_36.jpg#R##54277
+15#Miscellaneous solved problems#15.36#Impulse response of the transfer function#result15_36.jpg#1299/CH15/EX15.36/result15_36.jpg#R##54278
+15#Miscellaneous solved problems#15.34#Find bandwidth of the transfer function#example15_34.sce#1299/CH15/EX15.34/example15_34.sce#S##66496
+15#Miscellaneous solved problems#15.34#Find bandwidth of the transfer function#result15_34.jpg#1299/CH15/EX15.34/result15_34.jpg#R##54264
+15#Miscellaneous solved problems#15.33#Lipunovs method#example15_33.sce#1299/CH15/EX15.33/example15_33.sce#S##66495
+15#Miscellaneous solved problems#15.33#Lipunovs method#result15_33.jpg#1299/CH15/EX15.33/result15_33.jpg#R##54258
+15#Miscellaneous solved problems#15.31#Time domain specifications of second order system#example15_31.sce#1299/CH15/EX15.31/example15_31.sce#S##66494
+15#Miscellaneous solved problems#15.31#Time domain specifications of second order system#result15_31.jpg#1299/CH15/EX15.31/result15_31.jpg#R##54246
+15#Miscellaneous solved problems#15.28#Determine the stability of the system#example15_28.sce#1299/CH15/EX15.28/example15_28.sce#S##66493
+15#Miscellaneous solved problems#15.28#Determine the stability of the system#result15_28.jpg#1299/CH15/EX15.28/result15_28.jpg#R##53515
+15#Miscellaneous solved problems#15.27#To check reachability of the system#example15_27.sce#1299/CH15/EX15.27/example15_27.sce#S##66492
+15#Miscellaneous solved problems#15.27#To check reachability of the system#result15_27.jpg#1299/CH15/EX15.27/result15_27.jpg#R##53513
+15#Miscellaneous solved problems#15.26#Routh array#example15_26.sce#1299/CH15/EX15.26/example15_26.sce#S##66491
+15#Miscellaneous solved problems#15.26#Routh array#result15_26.jpg#1299/CH15/EX15.26/result15_26.jpg#R##53511
+15#Miscellaneous solved problems#15.2#Time domain specifications of second order system#example15_2.sce#1299/CH15/EX15.2/example15_2.sce#S##66480
+15#Miscellaneous solved problems#15.2#Time domain specifications of second order system#result15_2.jpg#1299/CH15/EX15.2/result15_2.jpg#R##52811
+15#Miscellaneous solved problems#15.15#steady output speed of DC motor#example15_15.sce#1299/CH15/EX15.15/example15_15.sce#S##66490
+15#Miscellaneous solved problems#15.15#steady output speed of DC motor#result15_15.jpg#1299/CH15/EX15.15/result15_15.jpg#R##53509
+15#Miscellaneous solved problems#15.14#Position servomotor#example15_14.sce#1299/CH15/EX15.14/example15_14.sce#S##66489
+15#Miscellaneous solved problems#15.14#Position servomotor#result15_14.jpg#1299/CH15/EX15.14/result15_14.jpg#R##53507
+15#Miscellaneous solved problems#15.13#Time domain specifications#example15_13.sce#1299/CH15/EX15.13/example15_13.sce#S##66488
+15#Miscellaneous solved problems#15.13#Time domain specifications#result15_13.jpg#1299/CH15/EX15.13/result15_13.jpg#R##53505
+15#Miscellaneous solved problems#15.12#solution of polynolynomial equation#example15_12.sce#1299/CH15/EX15.12/example15_12.sce#S##66487
+15#Miscellaneous solved problems#15.12#solution of polynolynomial equation#result15_12.jpg#1299/CH15/EX15.12/result15_12.jpg#R##53503
+11#Digital control system#11.9.3#Schurcohn stability test#examplesec11_9_3.sce#1299/CH11/EX11.9.3/examplesec11_9_3.sce#S##66479
+11#Digital control system#11.9.3#Schurcohn stability test#resultsec11_9_3.jpg#1299/CH11/EX11.9.3/resultsec11_9_3.jpg#R##52802
+11#Digital control system#11.9.2b#stability of linear continuous system#examplesec11_9_2b.sce#1299/CH11/EX11.9.2b/examplesec11_9_2b.sce#S##66478
+11#Digital control system#11.9.2b#stability of linear continuous system#resultsec11_9_2b.jpg#1299/CH11/EX11.9.2b/resultsec11_9_2b.jpg#R##52800
+11#Digital control system#11.9.2a#stability of linear continuous system#examplesec11_9_2a.sce#1299/CH11/EX11.9.2a/examplesec11_9_2a.sce#S##66477
+11#Digital control system#11.9.2a#stability of linear continuous system#resultsec11_9_2a.jpg#1299/CH11/EX11.9.2a/resultsec11_9_2a.jpg#R##52797
+11#Digital control system#11.6#Jurys stability test#example11_6.sce#1299/CH11/EX11.6/example11_6.sce#S##66476
+11#Digital control system#11.6#Jurys stability test#result11_6.jpg#1299/CH11/EX11.6/result11_6.jpg#R##52794
+10#Non linear control system#10.4#Lipunovs method#example10_4.sce#1299/CH10/EX10.4/example10_4.sce#S##66475
+10#Non linear control system#10.4#Lipunovs method#result10_4.jpg#1299/CH10/EX10.4/result10_4.jpg#R##52778
+10#Non linear control system#10.3#determination of quadratic form#example10_3.sce#1299/CH10/EX10.3/example10_3.sce#S##66474
+10#Non linear control system#10.3#determination of quadratic form#result10_3.jpg#1299/CH10/EX10.3/result10_3.jpg#R##52776
+10#Non linear control system#10.1.1#Mass dashpot and spring arrangement#examplesec10_1_1.sce#1299/CH10/EX10.1.1/examplesec10_1_1.sce#S##66473
+10#Non linear control system#10.1.1#Mass dashpot and spring arrangement#resultsec10_1_1.jpg#1299/CH10/EX10.1.1/resultsec10_1_1.jpg#R##52781
+9#compensators and controllers#9.1#compensation in open loop control system#examplesec9_1.sce#1299/CH9/EX9.1/examplesec9_1.sce#S##66472
+9#compensators and controllers#9.1#compensation in open loop control system#resultsec9_1.jpg#1299/CH9/EX9.1/resultsec9_1.jpg#R##52773
+9#compensators and controllers#9.1#compensation in open loop control system#figuresec9_1.jpg#1299/CH9/EX9.1/figuresec9_1.jpg#R##52774
+8#stability in frequency response systems#8.3#Nyquist plot#example8_3.sce#1299/CH8/EX8.3/example8_3.sce#S##66471
+8#stability in frequency response systems#8.3#Nyquist plot#result8_3.jpg#1299/CH8/EX8.3/result8_3.jpg#R##52770
+8#stability in frequency response systems#8.3#Nyquist plot#figure8_3.jpg#1299/CH8/EX8.3/figure8_3.jpg#R##52771
+8#stability in frequency response systems#8.2#Nyquist plot#example8_2.sce#1299/CH8/EX8.2/example8_2.sce#S##66470
+8#stability in frequency response systems#8.2#Nyquist plot#result8_2.jpg#1299/CH8/EX8.2/result8_2.jpg#R##52767
+8#stability in frequency response systems#8.2#Nyquist plot#figure8_2.jpg#1299/CH8/EX8.2/figure8_2.jpg#R##52768
+8#stability in frequency response systems#8.1#Nyquist plot#example8_1.sce#1299/CH8/EX8.1/example8_1.sce#S##66469
+8#stability in frequency response systems#8.1#Nyquist plot#result8_1.jpg#1299/CH8/EX8.1/result8_1.jpg#R##52764
+8#stability in frequency response systems#8.1#Nyquist plot#figure8_1.jpg#1299/CH8/EX8.1/figure8_1.jpg#R##52765
+7#Analysis of frequency response#7.3.1b#Bode plot#example7_3_1b.sce#1299/CH7/EX7.3.1b/example7_3_1b.sce#S##66468
+7#Analysis of frequency response#7.3.1b#Bode plot#result7_3_1b.jpg#1299/CH7/EX7.3.1b/result7_3_1b.jpg#R##52661
+7#Analysis of frequency response#7.3.1b#Bode plot#figure7_3_1b.jpg#1299/CH7/EX7.3.1b/figure7_3_1b.jpg#R##52662
+7#Analysis of frequency response#7.3.1a#Bode plot#example7_3_1a.sce#1299/CH7/EX7.3.1a/example7_3_1a.sce#S##66467
+7#Analysis of frequency response#7.3.1a#Bode plot#result7_3_1a.jpg#1299/CH7/EX7.3.1a/result7_3_1a.jpg#R##52658
+7#Analysis of frequency response#7.3.1a#Bode plot#figure7_3_1a.jpg#1299/CH7/EX7.3.1a/figure7_3_1a.jpg#R##52659
+6#study of the locus of the roots of the characristic equation#6.7#Root locus#example6_7.sce#1299/CH6/EX6.7/example6_7.sce#S##66466
+6#study of the locus of the roots of the characristic equation#6.7#Root locus#result6_7.jpg#1299/CH6/EX6.7/result6_7.jpg#R##52652
+6#study of the locus of the roots of the characristic equation#6.7#Root locus#figure6_7.jpg#1299/CH6/EX6.7/figure6_7.jpg#R##52653
+6#study of the locus of the roots of the characristic equation#6.6#Root locus#example6_6.sce#1299/CH6/EX6.6/example6_6.sce#S##66465
+6#study of the locus of the roots of the characristic equation#6.6#Root locus#result6_6.jpg#1299/CH6/EX6.6/result6_6.jpg#R##52649
+6#study of the locus of the roots of the characristic equation#6.6#Root locus#figure6_6.jpg#1299/CH6/EX6.6/figure6_6.jpg#R##52650
+6#study of the locus of the roots of the characristic equation#6.5#Root locus#example6_5.sce#1299/CH6/EX6.5/example6_5.sce#S##66464
+6#study of the locus of the roots of the characristic equation#6.5#Root locus#result6_5.jpg#1299/CH6/EX6.5/result6_5.jpg#R##52646
+6#study of the locus of the roots of the characristic equation#6.5#Root locus#figure6_5.jpg#1299/CH6/EX6.5/figure6_5.jpg#R##52647
+6#study of the locus of the roots of the characristic equation#6.4#root locus#example6_4.sce#1299/CH6/EX6.4/example6_4.sce#S##66462
+6#study of the locus of the roots of the characristic equation#6.4#root locus#result6_4.jpg#1299/CH6/EX6.4/result6_4.jpg#R##52643
+6#study of the locus of the roots of the characristic equation#6.4#root locus#figure6_4.jpg#1299/CH6/EX6.4/figure6_4.jpg#R##52644
+6#study of the locus of the roots of the characristic equation#6.3#Root locus#example6_3.sce#1299/CH6/EX6.3/example6_3.sce#S##66463
+6#study of the locus of the roots of the characristic equation#6.3#Root locus#result6_3.jpg#1299/CH6/EX6.3/result6_3.jpg#R##52637
+6#study of the locus of the roots of the characristic equation#6.3#Root locus#figure6_3.jpg#1299/CH6/EX6.3/figure6_3.jpg#R##52638
+6#study of the locus of the roots of the characristic equation#6.2.2#location of the root locus between poles and zeros #examplesec6_2_2.sce#1299/CH6/EX6.2.2/examplesec6_2_2.sce#S##66461
+6#study of the locus of the roots of the characristic equation#6.2.2#location of the root locus between poles and zeros #resultsec6_2_2.jpg#1299/CH6/EX6.2.2/resultsec6_2_2.jpg#R##52655
+6#study of the locus of the roots of the characristic equation#6.2.2#location of the root locus between poles and zeros #figuresec6_2_2.jpg#1299/CH6/EX6.2.2/figuresec6_2_2.jpg#R##52656
+6#study of the locus of the roots of the characristic equation#6.2#Root locus in scilab#example6_2.sce#1299/CH6/EX6.2/example6_2.sce#S##66460
+6#study of the locus of the roots of the characristic equation#6.2#Root locus in scilab#result6_2.jpg#1299/CH6/EX6.2/result6_2.jpg#R##52631
+6#study of the locus of the roots of the characristic equation#6.2#Root locus in scilab#figure6_2.jpg#1299/CH6/EX6.2/figure6_2.jpg#R##52632
+5#stability of linear control system#5.6#Routh array#example5_6.sce#1299/CH5/EX5.6/example5_6.sce#S##66459
+5#stability of linear control system#5.6#Routh array#result5_6.jpg#1299/CH5/EX5.6/result5_6.jpg#R##52028
+5#stability of linear control system#5.5#Routh array#example5_5.sce#1299/CH5/EX5.5/example5_5.sce#S##66458
+5#stability of linear control system#5.5#Routh array#result5_5.jpg#1299/CH5/EX5.5/result5_5.jpg#R##52026
+5#stability of linear control system#5.4#Routh array#example5_4.sce#1299/CH5/EX5.4/example5_4.sce#S##66457
+5#stability of linear control system#5.4#Routh array#result5_4.jpg#1299/CH5/EX5.4/result5_4.jpg#R##52024
+5#stability of linear control system#5.3#Routh array#example5_3.sce#1299/CH5/EX5.3/example5_3.sce#S##66456
+5#stability of linear control system#5.3#Routh array#result5_3.jpg#1299/CH5/EX5.3/result5_3.jpg#R##52022
+5#stability of linear control system#5.2.2d#Routh array#examplesec5_2_2d.sce#1299/CH5/EX5.2.2d/examplesec5_2_2d.sce#S##66454
+5#stability of linear control system#5.2.2d#Routh array#resultsec5_2_2d.jpg#1299/CH5/EX5.2.2d/resultsec5_2_2d.jpg#R##52629
+5#stability of linear control system#5.2.2c#Routh array#examplesec5_2_2c.sce#1299/CH5/EX5.2.2c/examplesec5_2_2c.sce#S##66451
+5#stability of linear control system#5.2.2c#Routh array#resultsec5_2_2c.jpg#1299/CH5/EX5.2.2c/resultsec5_2_2c.jpg#R##52627
+5#stability of linear control system#5.2.2b#Routh array#examplesec5_2_2b.sce#1299/CH5/EX5.2.2b/examplesec5_2_2b.sce#S##66452
+5#stability of linear control system#5.2.2b#Routh array#resultsec5_2_2b.jpg#1299/CH5/EX5.2.2b/resultsec5_2_2b.jpg#R##52625
+5#stability of linear control system#5.2.2a#Routh array#examplesec5_2_2a.sce#1299/CH5/EX5.2.2a/examplesec5_2_2a.sce#S##66453
+5#stability of linear control system#5.2.2a#Routh array#resultsec5_2_2a.jpg#1299/CH5/EX5.2.2a/resultsec5_2_2a.jpg#R##52623
+5#stability of linear control system#5.2#Routh array#example5_2.sce#1299/CH5/EX5.2/example5_2.sce#S##66455
+5#stability of linear control system#5.2#Routh array#result5_2.jpg#1299/CH5/EX5.2/result5_2.jpg#R##52020
+5#stability of linear control system#5.1#Hurwitz stability test#example5_1.sce#1299/CH5/EX5.1/example5_1.sce#S##66450
+5#stability of linear control system#5.1#Hurwitz stability test#result5_1.jpg#1299/CH5/EX5.1/result5_1.jpg#R##60893
+4#State variable analysis#4.8#Jordan canonical form#examplesec4_8.sce#1299/CH4/EX4.8/examplesec4_8.sce#S##66448
+4#State variable analysis#4.8#Jordan canonical form#resultsec4_8.jpg#1299/CH4/EX4.8/resultsec4_8.jpg#R##51757
+4#State variable analysis#4.6.b#Canonical form#examplesec4_6b.sce#1299/CH4/EX4.6.b/examplesec4_6b.sce#S##66447
+4#State variable analysis#4.6.b#Canonical form#resultsec4_6b.jpg#1299/CH4/EX4.6.b/resultsec4_6b.jpg#R##51753
+4#State variable analysis#4.6.a#Canonical form#examplesec4_6a.sce#1299/CH4/EX4.6.a/examplesec4_6a.sce#S##66446
+4#State variable analysis#4.6.a#Canonical form#resultsec4_6a.jpg#1299/CH4/EX4.6.a/resultsec4_6a.jpg#R##60891
+4#State variable analysis#4.3#Eigen values#example4_3.sce#1299/CH4/EX4.3/example4_3.sce#S##66445
+4#State variable analysis#4.3#Eigen values#result4_3.jpg#1299/CH4/EX4.3/result4_3.jpg#R##51749
+4#State variable analysis#4.10#Controllable companion form#examplesec4_10.sce#1299/CH4/EX4.10/examplesec4_10.sce#S##66449
+4#State variable analysis#4.10#Controllable companion form#resultsec4_10.jpg#1299/CH4/EX4.10/resultsec4_10.jpg#R##51759
+4#State variable analysis#4.1#State equation#example4_1.sce#1299/CH4/EX4.1/example4_1.sce#S##66444
+4#State variable analysis#4.1#State equation#result4_1.jpg#1299/CH4/EX4.1/result4_1.jpg#R##51747
+3#Transient and steady state behaviour of system#3.1#Type of the system#example3_1.sce#1299/CH3/EX3.1/example3_1.sce#S##66443
+3#Transient and steady state behaviour of system#3.1#Type of the system#result3_1.jpg#1299/CH3/EX3.1/result3_1.jpg#R##51745
+2#Review of some mathematical tools#2.9#z transform of the signal using scilab#example2_9.sce#1299/CH2/EX2.9/example2_9.sce#S##66439
+2#Review of some mathematical tools#2.9#z transform of the signal using scilab#result2_9.jpg#1299/CH2/EX2.9/result2_9.jpg#R##51456
+2#Review of some mathematical tools#2.8#Z transform of the signal#example2_8.sce#1299/CH2/EX2.8/example2_8.sce#S##66438
+2#Review of some mathematical tools#2.8#Z transform of the signal#result2_8.jpg#1299/CH2/EX2.8/result2_8.jpg#R##51454
+2#Review of some mathematical tools#2.7#Inverse laplace transform using scilab#example2_7.sce#1299/CH2/EX2.7/example2_7.sce#S##66437
+2#Review of some mathematical tools#2.7#Inverse laplace transform using scilab#result2_7.jpg#1299/CH2/EX2.7/result2_7.jpg#R##51452
+2#Review of some mathematical tools#2.6#computing final value of function F using scilab#example2_6.sce#1299/CH2/EX2.6/example2_6.sce#S##66436
+2#Review of some mathematical tools#2.6#computing final value of function F using scilab#result2_6.jpg#1299/CH2/EX2.6/result2_6.jpg#R##51450
+2#Review of some mathematical tools#2.5#computing initial value of function F in scilab#example2_5.sce#1299/CH2/EX2.5/example2_5.sce#S##66435
+2#Review of some mathematical tools#2.5#computing initial value of function F in scilab#result2_5.jpg#1299/CH2/EX2.5/result2_5.jpg#R##51448
+2#Review of some mathematical tools#2.4.b#eigen values using scilab#examplesec2_4b.sce#1299/CH2/EX2.4.b/examplesec2_4b.sce#S##66432
+2#Review of some mathematical tools#2.4.b#eigen values using scilab#resultsec2_4b.jpg#1299/CH2/EX2.4.b/resultsec2_4b.jpg#R##51466
+2#Review of some mathematical tools#2.4.1#eigen values using scilab#examplesec2_4a.sce#1299/CH2/EX2.4.1/examplesec2_4a.sce#S##66433
+2#Review of some mathematical tools#2.4.1#eigen values using scilab#resultsec2_4a.jpg#1299/CH2/EX2.4.1/resultsec2_4a.jpg#R##51464
+2#Review of some mathematical tools#2.4#computing initial value of transfer function#example2_4.sce#1299/CH2/EX2.4/example2_4.sce#S##66434
+2#Review of some mathematical tools#2.4#computing initial value of transfer function#result2_4.jpg#1299/CH2/EX2.4/result2_4.jpg#R##51446
+2#Review of some mathematical tools#2.3#computing initial value using scilab#example2_3.sce#1299/CH2/EX2.3/example2_3.sce#S##66431
+2#Review of some mathematical tools#2.3#computing initial value using scilab#result2_3.jpg#1299/CH2/EX2.3/result2_3.jpg#R##51436
+2#Review of some mathematical tools#2.2#inverse of laplace transform using scilab#example2_2.sce#1299/CH2/EX2.2/example2_2.sce#S##66430
+2#Review of some mathematical tools#2.2#inverse of laplace transform using scilab#result2_2.jpg#1299/CH2/EX2.2/result2_2.jpg#R##51417
+2#Review of some mathematical tools#2.12#inverse of Z transform by partial fraction method#example2_12.sce#1299/CH2/EX2.12/example2_12.sce#S##66442
+2#Review of some mathematical tools#2.12#inverse of Z transform by partial fraction method#result2_12.jpg#1299/CH2/EX2.12/result2_12.jpg#R##51462
+2#Review of some mathematical tools#2.11#Inverse of z transform by power expansion series#example2_11.sce#1299/CH2/EX2.11/example2_11.sce#S##66441
+2#Review of some mathematical tools#2.11#Inverse of z transform by power expansion series#result2_11.jpg#1299/CH2/EX2.11/result2_11.jpg#R##51460
+2#Review of some mathematical tools#2.10#Inverse of z transform using scilab#example2_10.sce#1299/CH2/EX2.10/example2_10.sce#S##66440
+2#Review of some mathematical tools#2.10#Inverse of z transform using scilab#result2_10.jpg#1299/CH2/EX2.10/result2_10.jpg#R##51458
+2#Review of some mathematical tools#2.1#solving differential equation using scilab#example2_1.sce#1299/CH2/EX2.1/example2_1.sce#S##66429
+2#Review of some mathematical tools#2.1#solving differential equation using scilab#result2_1.jpg#1299/CH2/EX2.1/result2_1.jpg#R##51415

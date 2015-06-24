@@ -1,0 +1,2 @@
+ Example 11.3
+ Dislocation density in copper is 9.7e+12  m^-2

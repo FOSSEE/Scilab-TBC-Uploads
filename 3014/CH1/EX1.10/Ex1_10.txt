@@ -1,0 +1,5 @@
+
+Example 1.10
+ velocity of electron is 5.929995e+07 m/s.
+ momentum of electron is 5.396295e-23 Kgm/s.
+ de Broglie wavelength of electron is 0.122862 angstrom.

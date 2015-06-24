@@ -1,0 +1,109 @@
+12#Fibre Optics#12.8#calculate numerical aperture and acceptance angle of the symmetrical fibre#Ex12_8.sce#2912/CH12/EX12.8/Ex12_8.sce#S##102779
+12#Fibre Optics#12.7#calculate numerical aperture and acceptance angle of the symmetrical fibre#Ex12_7.sce#2912/CH12/EX12.7/Ex12_7.sce#S##102778
+12#Fibre Optics#12.6#calculate refractive index of the core and cladding material of a fibre#Ex12_6.sce#2912/CH12/EX12.6/Ex12_6.sce#S##102776
+12#Fibre Optics#12.5#calculate numerical aperture acceptance angle and the critical angle of the optical fibre#Ex12_5.sce#2912/CH12/EX12.5/Ex12_5.sce#S##102775
+12#Fibre Optics#12.4#calculate refractive index of material of the core#Ex12_4.sce#2912/CH12/EX12.4/Ex12_4.sce#S##102774
+12#Fibre Optics#12.3#calculate the acceptance angle of an optical fibre#Ex12_3.sce#2912/CH12/EX12.3/Ex12_3.sce#S##102773
+12#Fibre Optics#12.2#calculate numerical aperture and the acceptance angle of an optical fibre#Ex12_2.sce#2912/CH12/EX12.2/Ex12_2.sce#S##102772
+12#Fibre Optics#12.1#calculate fractional index change for a given optical fibre#Ex12_1.sce#2912/CH12/EX12.1/Ex12_1.sce#S##102771
+10#Superconductivity#10.7#calculate transition temperature of the isotopes#Ex10_7.sce#2912/CH10/EX10.7/Ex10_7.sce#S##102770
+10#Superconductivity#10.6#calculate  frequency of EM waves #Ex10_6.sce#2912/CH10/EX10.6/Ex10_6.sce#S##102769
+10#Superconductivity#10.5#calculate  critical current at 5K#Ex10_5.sce#2912/CH10/EX10.5/Ex10_5.sce#S##102768
+10#Superconductivity#10.4#calculate transition temperature#Ex10_4.sce#2912/CH10/EX10.4/Ex10_4.sce#S##102767
+10#Superconductivity#10.3#calculate isotropic mass#Ex10_3.sce#2912/CH10/EX10.3/Ex10_3.sce#S##102766
+10#Superconductivity#10.2#Calculate critical current value#Ex10_2.sce#2912/CH10/EX10.2/Ex10_2.sce#S##102765
+10#Superconductivity#10.1#Calculate magnitude of critical magnetic field#Ex10_1.sce#2912/CH10/EX10.1/Ex10_1.sce#S##102764
+9#Semiconductors#9.9#Find the energy band gap#Ex9_9.sce#2912/CH9/EX9.9/Ex9_9.sce#S##102806
+9#Semiconductors#9.8#find intrinsic carrier density and conductivity at 300K in germanium#Ex9_8.sce#2912/CH9/EX9.8/Ex9_8.sce#S##102793
+9#Semiconductors#9.7#find density of hole carriers at room temperature#Ex9_7.sce#2912/CH9/EX9.7/Ex9_7.sce#S##102792
+9#Semiconductors#9.6#find intrinsic concuctivity and doping conductivity#Ex9_6.sce#2912/CH9/EX9.6/Ex9_6.sce#S##102791
+9#Semiconductors#9.5#find the equilibrium hole concentration and conductivity#Ex9_5.sce#2912/CH9/EX9.5/Ex9_5.sce#S##102790
+9#Semiconductors#9.4#find the electrical conductivity and resistivity of germanium#Ex9_4.sce#2912/CH9/EX9.4/Ex9_4.sce#S##102789
+9#Semiconductors#9.3#find the resistance of intrinsic germanium#Ex9_3.sce#2912/CH9/EX9.3/Ex9_3.sce#S##102788
+9#Semiconductors#9.2#Find the temperature at which number of electrons becomes 10 times#Ex9_2.sce#2912/CH9/EX9.2/Ex9_2.sce#S##102805
+9#Semiconductors#9.17#Find the mobility and density of charge carrier#Ex9_17.sce#2912/CH9/EX9.17/Ex9_17.sce#S##102800
+9#Semiconductors#9.16#Find the mobility and density#Ex9_16.sce#2912/CH9/EX9.16/Ex9_16.sce#S##102799
+9#Semiconductors#9.15#Find the electron and hole densities  and conductivity and the resistance#Ex9_15.sce#2912/CH9/EX9.15/Ex9_15.sce#S##102798
+9#Semiconductors#9.14#Find the ratio of conductivity at 600K and at 300K#Ex9_14.sce#2912/CH9/EX9.14/Ex9_14.sce#S##102807
+9#Semiconductors#9.13#Find the probability of occupation of lowest level in conduction band#Ex9_13.sce#2912/CH9/EX9.13/Ex9_13.sce#S##102797
+9#Semiconductors#9.12#Find the diffusion coefficient of electron in silicon#Ex9_12.sce#2912/CH9/EX9.12/Ex9_12.sce#S##102796
+9#Semiconductors#9.11#Find the conductivity of p type Ge crystal#Ex9_11.sce#2912/CH9/EX9.11/Ex9_11.sce#S##102795
+9#Semiconductors#9.10#Find the electron and hole concentrations and the resistivity#Ex9_10.sce#2912/CH9/EX9.10/Ex9_10.sce#S##102794
+8#Magnetic Properties#8.7#Calculate Hystersis loss per cycle#Ex8_7.sce#2912/CH8/EX8.7/Ex8_7.sce#S##102677
+8#Magnetic Properties#8.6#Calculate flux density magnetic intensity and relative permeability#Ex8_6.sce#2912/CH8/EX8.6/Ex8_6.sce#S##104545
+8#Magnetic Properties#8.5#Calculate current through the solenoid#Ex8_5.sce#2912/CH8/EX8.5/Ex8_5.sce#S##102672
+8#Magnetic Properties#8.4#Calculate magnetic force and relative permeability#Ex8_4.sce#2912/CH8/EX8.4/Ex8_4.sce#S##102669
+8#Magnetic Properties#8.3#Calculate relative permeability of a ferromagentic material#Ex8_3.sce#2912/CH8/EX8.3/Ex8_3.sce#S##102666
+8#Magnetic Properties#8.2#Calculate change in magnetic moment#Ex8_2.sce#2912/CH8/EX8.2/Ex8_2.sce#S##102649
+8#Magnetic Properties#8.1#Calculate intensity of magnetism and magnetic flux density#Ex8_1.sce#2912/CH8/EX8.1/Ex8_1.sce#S##102647
+7#Dielectric Properties#7.9#calculate polarisability due to permanent dipole moment and due to deformation of the molecules#Ex7_9.sce#2912/CH7/EX7.9/Ex7_9.sce#S##102803
+7#Dielectric Properties#7.8#Calculate the atomic polarisability of sulphur#Ex7_8.sce#2912/CH7/EX7.8/Ex7_8.sce#S##102802
+7#Dielectric Properties#7.7#Calculate the dielectric constant of the material#Ex7_7.sce#2912/CH7/EX7.7/Ex7_7.sce#S##102801
+7#Dielectric Properties#7.6#Calculate the electronic polarisability of Helium atoms#Ex7_6.sce#2912/CH7/EX7.6/Ex7_6.sce#S##102279
+7#Dielectric Properties#7.5#Calculate the electronic polarisability of sulphur#Ex7_5.sce#2912/CH7/EX7.5/Ex7_5.sce#S##102278
+7#Dielectric Properties#7.4#Calculate the dipole moment induced in each atom and atomic polarisability#Ex7_4.sce#2912/CH7/EX7.4/Ex7_4.sce#S##102277
+7#Dielectric Properties#7.3#Calculate the radius of electron cloud and dispalcement#Ex7_3.sce#2912/CH7/EX7.3/Ex7_3.sce#S##102276
+7#Dielectric Properties#7.2#Calculate the resultant voltage across the capacitor#Ex7_2.sce#2912/CH7/EX7.2/Ex7_2.sce#S##102275
+7#Dielectric Properties#7.10#determine the percentage of ionic polarisability in sodium crystal #Ex7_10.sce#2912/CH7/EX7.10/Ex7_10.sce#S##102804
+7#Dielectric Properties#7.1#Calculate the capacitance of capacitor and charge on the plates#Ex7_1.sce#2912/CH7/EX7.1/Ex7_1.sce#S##102274
+6#Electron Theory and Band Theory of Metals#6.9#Calculate average drift velocity of electrons#Ex6_9.sce#2912/CH6/EX6.9/Ex6_9.sce#S##99814
+6#Electron Theory and Band Theory of Metals#6.8#Calculate drift velocity of free electrons#Ex6_8.sce#2912/CH6/EX6.8/Ex6_8.sce#S##99813
+6#Electron Theory and Band Theory of Metals#6.7#Calculate velocity of electron and proton#Ex6_7.sce#2912/CH6/EX6.7/Ex6_7.sce#S##99812
+6#Electron Theory and Band Theory of Metals#6.6#Calculate average kinetic energy and velocity of molecules#Ex6_6.sce#2912/CH6/EX6.6/Ex6_6.sce#S##99811
+6#Electron Theory and Band Theory of Metals#6.5#Calculate relaxation time of conduction electrons#Ex6_5.sce#2912/CH6/EX6.5/Ex6_5.sce#S##99810
+6#Electron Theory and Band Theory of Metals#6.4#Calculate mean free path traveeled by the electrons#Ex6_4.sce#2912/CH6/EX6.4/Ex6_4.sce#S##108271
+6#Electron Theory and Band Theory of Metals#6.3#Calculate relaxation time of conduction electrons#Ex6_3.sce#2912/CH6/EX6.3/Ex6_3.sce#S##99808
+6#Electron Theory and Band Theory of Metals#6.2#Calculate the temperature#Ex6_2.sce#2912/CH6/EX6.2/Ex6_2.sce#S##99807
+6#Electron Theory and Band Theory of Metals#6.12#Calculate electron density for a metal#Ex6_12.sce#2912/CH6/EX6.12/Ex6_12.sce#S##99817
+6#Electron Theory and Band Theory of Metals#6.11#Calculate average energy of free electron at 0K and corresponding temperature for a classical particle or an ideal gas#Ex6_11.sce#2912/CH6/EX6.11/Ex6_11.sce#S##99816
+6#Electron Theory and Band Theory of Metals#6.10#Calculate mobility of electrons#Ex6_10.sce#2912/CH6/EX6.10/Ex6_10.sce#S##99815
+6#Electron Theory and Band Theory of Metals#6.1#Calculate mean free path of electron#Ex6_1.sce#2912/CH6/EX6.1/Ex6_1.sce#S##99806
+5#Principles of Quantum Mechanics #5.9#Calculate deBroglie wavelength of proton#Ex5_9.sce#2912/CH5/EX5.9/Ex5_9.sce#S##100815
+5#Principles of Quantum Mechanics #5.8#Calculate deBroglie wavelength#Ex5_8.sce#2912/CH5/EX5.8/Ex5_8.sce#S##100814
+5#Principles of Quantum Mechanics #5.7#Calculate velocity and kinetic energy#Ex5_7.sce#2912/CH5/EX5.7/Ex5_7.sce#S##100813
+5#Principles of Quantum Mechanics #5.6#Calculate wavelength for photon and electron#Ex5_6.sce#2912/CH5/EX5.6/Ex5_6.sce#S##100812
+5#Principles of Quantum Mechanics #5.5#Calculate wavelength#Ex5_5.sce#2912/CH5/EX5.5/Ex5_5.sce#S##100811
+5#Principles of Quantum Mechanics #5.4#Calculate deBroglie wavelength#Ex5_4.sce#2912/CH5/EX5.4/Ex5_4.sce#S##100810
+5#Principles of Quantum Mechanics #5.3#Calculate  wavelength#Ex5_3.sce#2912/CH5/EX5.3/Ex5_3.sce#S##100809
+5#Principles of Quantum Mechanics #5.26#Calculate minimum energy of electron#Ex5_26.sce#2912/CH5/EX5.26/Ex5_26.sce#S##102269
+5#Principles of Quantum Mechanics #5.25#Calculate minimum uncertainty in the velocity of electron#Ex5_25.sce#2912/CH5/EX5.25/Ex5_25.sce#S##102268
+5#Principles of Quantum Mechanics #5.24#Calculate energy corresponding to the ground and first two excited states#Ex5_24.sce#2912/CH5/EX5.24/Ex5_24.sce#S##102267
+5#Principles of Quantum Mechanics #5.23#Calculate energy corresponding to the 2nd and 4th quantum states#Ex5_23.sce#2912/CH5/EX5.23/Ex5_23.sce#S##102266
+5#Principles of Quantum Mechanics #5.22#Calculate minimum error in the energy#Ex5_22.sce#2912/CH5/EX5.22/Ex5_22.sce#S##102265
+5#Principles of Quantum Mechanics #5.21#Calculate uncertainty in the energy of the photon#Ex5_21.sce#2912/CH5/EX5.21/Ex5_21.sce#S##102264
+5#Principles of Quantum Mechanics #5.20#Compare minimum uncertainty in the frequency of the photon#Ex5_20.sce#2912/CH5/EX5.20/Ex5_20.sce#S##102263
+5#Principles of Quantum Mechanics #5.2#Calculate deBroglie wavelength#Ex5_2.sce#2912/CH5/EX5.2/Ex5_2.sce#S##100808
+5#Principles of Quantum Mechanics #5.19#Calculate uncertainty in the position of X ray photon#Ex5_19.sce#2912/CH5/EX5.19/Ex5_19.sce#S##102261
+5#Principles of Quantum Mechanics #5.18#Calculate uncertainty in the position of electron#Ex5_18.sce#2912/CH5/EX5.18/Ex5_18.sce#S##102260
+5#Principles of Quantum Mechanics #5.17#Calculate percentage of uncertainty in the momentum of electron#Ex5_17.sce#2912/CH5/EX5.17/Ex5_17.sce#S##102259
+5#Principles of Quantum Mechanics #5.16#Calculate minimum uncertainty in the momentum and minimum kinetic energy of proton#Ex5_16.sce#2912/CH5/EX5.16/Ex5_16.sce#S##102258
+5#Principles of Quantum Mechanics #5.15#Compare uncertainty in the velocity of electron and proton#Ex5_15.sce#2912/CH5/EX5.15/Ex5_15.sce#S##100821
+5#Principles of Quantum Mechanics #5.14#Calculate uncertainty in the momentum and uncertainty in the velocity#Ex5_14.sce#2912/CH5/EX5.14/Ex5_14.sce#S##100820
+5#Principles of Quantum Mechanics #5.13#Calculate velocity of electron#Ex5_13.sce#2912/CH5/EX5.13/Ex5_13.sce#S##100819
+5#Principles of Quantum Mechanics #5.12#Calculate spacing of crystal#Ex5_12.sce#2912/CH5/EX5.12/Ex5_12.sce#S##100818
+5#Principles of Quantum Mechanics #5.11#Calculate glancing angle#Ex5_11.sce#2912/CH5/EX5.11/Ex5_11.sce#S##100817
+5#Principles of Quantum Mechanics #5.10#Calculate wavelength#Ex5_10.sce#2912/CH5/EX5.10/Ex5_10.sce#S##100816
+5#Principles of Quantum Mechanics #5.1#Find velocity and kinetic energy#Ex5_1.sce#2912/CH5/EX5.1/Ex5_1.sce#S##100807
+4#Crystal Diffraction#4.9#Show that given angles are successive order of difraction and find spacing constant#Ex4_9.sce#2912/CH4/EX4.9/Ex4_9.sce#S##99413
+4#Crystal Diffraction#4.8#calculate angle of first order diffraction maximum#Ex4_8.sce#2912/CH4/EX4.8/Ex4_8.sce#S##99412
+4#Crystal Diffraction#4.7#calculate interpalanr spacing#Ex4_7.sce#2912/CH4/EX4.7/Ex4_7.sce#S##99411
+4#Crystal Diffraction#4.6#find wavelength and energy#Ex4_6.sce#2912/CH4/EX4.6/Ex4_6.sce#S##99410
+4#Crystal Diffraction#4.5#Find wavelength in XU#Ex4_5.sce#2912/CH4/EX4.5/Ex4_5.sce#S##99409
+4#Crystal Diffraction#4.4#Find wavelength and maximum order possible#Ex4_4.sce#2912/CH4/EX4.4/Ex4_4.sce#S##99408
+4#Crystal Diffraction#4.3#Find glancing angle#Ex4_3.sce#2912/CH4/EX4.3/Ex4_3.sce#S##99407
+4#Crystal Diffraction#4.2#Find glancing angle#Ex4_2.sce#2912/CH4/EX4.2/Ex4_2.sce#S##99406
+4#Crystal Diffraction#4.1#Find spacing constant#Ex4_1.sce#2912/CH4/EX4.1/Ex4_1.sce#S##99405
+3#Planes in Crystals#3.15#calculate density#Ex3_15.sce#2912/CH3/EX3.15/Ex3_15.sce#S##102867
+3#Planes in Crystals#3.12#calculate lattice spacing#Ex3_12.sce#2912/CH3/EX3.12/Ex3_12.sce#S##102866
+3#Planes in Crystals#3.11#calculate bond energy for NaCl#Ex3_11.sce#2912/CH3/EX3.11/Ex3_11.sce#S##102865
+2#Crystal Structure#2.6#calculate packing fraction and density#Ex2_6.sce#2912/CH2/EX2.6/Ex2_6.sce#S##99404
+2#Crystal Structure#2.5#calculate distance between adjacent atoms in NaCl#Ex2_5.sce#2912/CH2/EX2.5/Ex2_5.sce#S##99403
+2#Crystal Structure#2.4#calculate lattice constant#Ex2_4.sce#2912/CH2/EX2.4/Ex2_4.sce#S##99402
+2#Crystal Structure#2.3#calculate lattice constant#Ex2_3.sce#2912/CH2/EX2.3/Ex2_3.sce#S##99401
+2#Crystal Structure#2.2#calculate distance between two nearest Cu atoms#Ex2_2.sce#2912/CH2/EX2.2/Ex2_2.sce#S##99400
+2#Crystal Structure#2.1#calculate lattice constant#Ex2_1.sce#2912/CH2/EX2.1/Ex2_1.sce#S##99399
+1#Bonding in Solids#1.7#calculate contribution per ions to the cohesive energy#Ex1_7.sce#2912/CH1/EX1.7/Ex1_7.sce#S##102273
+1#Bonding in Solids#1.6#calculate ionic cohesive energy and atomic cohesive energy#Ex1_6.sce#2912/CH1/EX1.6/Ex1_6.sce#S##102272
+1#Bonding in Solids#1.5#calculate compressibility#Ex1_5.sce#2912/CH1/EX1.5/Ex1_5.sce#S##102271
+1#Bonding in Solids#1.4#calculate bond energy for NaCl#Ex1_4.sce#2912/CH1/EX1.4/Ex1_4.sce#S##108272
+1#Bonding in Solids#1.3#calculate potential energy#Ex1_3.sce#2912/CH1/EX1.3/Ex1_3.sce#S##102270

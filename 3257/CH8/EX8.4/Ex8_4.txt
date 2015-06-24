@@ -1,0 +1,4 @@
+ 
+ Example 8.4
+ Material removal rate is 2611.45 mm^3/min.
+ Cutting force is 972 N. 

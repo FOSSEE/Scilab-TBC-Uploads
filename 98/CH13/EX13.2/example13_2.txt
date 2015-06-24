@@ -1,0 +1,4 @@
+Resistance of 100 m length of distributor = 0.03058 ohm 
+
+Cross sectional area of conductor = 1.164 cm^2 
+

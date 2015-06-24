@@ -1,0 +1,9 @@
+**Sample Problem 10-1a**
+The magnitude of impulse acted on the ball from bat is equal to 10.920000N-s
+
+**Sample Problem 10-1b**
+The average force during the collision is 9100.000000N
+
+**Sample Problem 10-1c**
+The magnitude of new inpulse is 11.361368N-s
+The new impulse makes an angle of 16.096463 degress with the horizontal

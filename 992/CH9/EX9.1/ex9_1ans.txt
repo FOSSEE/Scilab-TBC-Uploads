@@ -1,0 +1,5 @@
+ 
+ Modulation index is = 1.000000
+ Minimum required bandwidth = 60.000000MHz
+ Baud rate = 20.000000Megabaud 
+ Execution done.   

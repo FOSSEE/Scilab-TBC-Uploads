@@ -1,0 +1,2 @@
+The wavelenght of a 2.0eV photon = 6.225e-007 m
+The magnitude of k vector = 1.01e+007 m^-1 

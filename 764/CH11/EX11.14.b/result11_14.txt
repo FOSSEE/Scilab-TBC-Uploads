@@ -1,0 +1,51 @@
+-->//(Friction Clutches) Example 11.14
+ 
+-->//Power transmitted by single plate clutch kW
+ 
+-->kW = 10
+ kW  =
+ 
+    10.  
+ 
+-->//Number of revolutions of the clutch per minute n1 (rpm)
+ 
+-->n1 = 2000
+ n1  =
+ 
+    2000.  
+ 
+-->//Equivalent mass of input shaft m1 (kg)
+ 
+-->m1 = 20
+ m1  =
+ 
+    20.  
+ 
+-->//Equivalent radius of gyration of input shaft k1 (mm)
+ 
+-->k1 = 75
+ k1  =
+ 
+    75.  
+ 
+-->//Equivalent mass of output shaft m2 (kg)
+ 
+-->m2 = 35
+ m2  =
+ 
+    35.  
+ 
+-->//Equivalent radius of gyration of output shaft k2 (mm)
+ 
+-->k2 = 125
+ k2  =
+ 
+    125.  
+ 
+
+Results
+
+Time required to bring the output shaft to rated speed from rest(t1) = 0.409285 sec
+
+Heat generated during the clutch operation(E) = 2046.422713 J
+ 

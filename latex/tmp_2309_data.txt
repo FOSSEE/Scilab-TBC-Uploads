@@ -1,0 +1,86 @@
+5#Crystal Physics#5.a.9#Finding miller indices of planes#A_Ex5_9.sce#2309/CH5/EX5.a.9/A_Ex5_9.sce#S##81963
+5#Crystal Physics#5.a.8#Finding planar atomic density#A_Ex5_8.sce#2309/CH5/EX5.a.8/A_Ex5_8.sce#S##81962
+5#Crystal Physics#5.a.7#Finding Volume of unit cell#A_Ex5_7.sce#2309/CH5/EX5.a.7/A_Ex5_7.sce#S##81961
+5#Crystal Physics#5.a.6#Calculating No of atoms per unit cell#A_Ex5_6.sce#2309/CH5/EX5.a.6/A_Ex5_6.sce#S##81960
+5#Crystal Physics#5.a.5#calculating lattice constant#A_Ex5_5.sce#2309/CH5/EX5.a.5/A_Ex5_5.sce#S##81959
+5#Crystal Physics#5.a.4#Calculating atomic radius of Fe#A_Ex5_4.sce#2309/CH5/EX5.a.4/A_Ex5_4.sce#S##81958
+5#Crystal Physics#5.a.3#Finding distance between adjacent atoms#A_Ex5_3.sce#2309/CH5/EX5.a.3/A_Ex5_3.sce#S##81957
+5#Crystal Physics#5.a.2#Finding density of copper#A_Ex5_2.sce#2309/CH5/EX5.a.2/A_Ex5_2.sce#S##81956
+5#Crystal Physics#5.a.17#Calculating Wavelength of X ray#A_Ex5_17.sce#2309/CH5/EX5.a.17/A_Ex5_17.sce#S##81970
+5#Crystal Physics#5.a.16#Finding Miller indices#A_Ex5_16.sce#2309/CH5/EX5.a.16/A_Ex5_16.sce#S##81969
+5#Crystal Physics#5.a.15#Finding interplanar distance#A_Ex5_15.sce#2309/CH5/EX5.a.15/A_Ex5_15.sce#S##81968
+5#Crystal Physics#5.a.14#Finding ratio of intercepts #A_Ex5_14.sce#2309/CH5/EX5.a.14/A_Ex5_14.sce#S##81967
+5#Crystal Physics#5.a.13#Proof#A_Ex5_13.sce#2309/CH5/EX5.a.13/A_Ex5_13.sce#S##81966
+5#Crystal Physics#5.a.12#Finding lattice constant#A_Ex5_12.sce#2309/CH5/EX5.a.12/A_Ex5_12.sce#S##81965
+5#Crystal Physics#5.a.11#Calculating interplanar spacing#A_Ex5_11.sce#2309/CH5/EX5.a.11/A_Ex5_11.sce#S##81964
+5#Crystal Physics#5.a.1#Finding atomic radius#A_Ex5_1.sce#2309/CH5/EX5.a.1/A_Ex5_1.sce#S##81955
+5#Crystal Physics#5.9#Calculating d spacing#Ex5_9.sce#2309/CH5/EX5.9/Ex5_9.sce#S##83159
+5#Crystal Physics#5.8#Finding lattice constant#Ex5_8.sce#2309/CH5/EX5.8/Ex5_8.sce#S##81946
+5#Crystal Physics#5.7#Finding percentage change in volume#Ex5_7.sce#2309/CH5/EX5.7/Ex5_7.sce#S##81945
+5#Crystal Physics#5.6#Finding number of unit cells#Ex5_6.sce#2309/CH5/EX5.6/Ex5_6.sce#S##81944
+5#Crystal Physics#5.5#Finding interplanar distance between planes#Ex5_5.sce#2309/CH5/EX5.5/Ex5_5.sce#S##81943
+5#Crystal Physics#5.4#Calculating interatomic Spacing#Ex5_4.sce#2309/CH5/EX5.4/Ex5_4.sce#S##81942
+5#Crystal Physics#5.3#Finding Radius of an atom#Ex5_3.sce#2309/CH5/EX5.3/Ex5_3.sce#S##81941
+5#Crystal Physics#5.2#Finding Miller indice and interplanar distance#Ex5_2.sce#2309/CH5/EX5.2/Ex5_2.sce#S##81940
+5#Crystal Physics#5.17#Finding interplanar distance#Ex5_17.sce#2309/CH5/EX5.17/Ex5_17.sce#S##81954
+5#Crystal Physics#5.16#Finding volume of unit cell#Ex5_16.sce#2309/CH5/EX5.16/Ex5_16.sce#S##81953
+5#Crystal Physics#5.15#Finding Miller indices#Ex5_15.sce#2309/CH5/EX5.15/Ex5_15.sce#S##81952
+5#Crystal Physics#5.14#Finding Volume of Unit cell#Ex5_14.sce#2309/CH5/EX5.14/Ex5_14.sce#S##81951
+5#Crystal Physics#5.12#Calculating lattice constant of Fe#Ex5_12.sce#2309/CH5/EX5.12/Ex5_12.sce#S##81950
+5#Crystal Physics#5.11#Calculating interplanar distance#Ex5_11.sce#2309/CH5/EX5.11/Ex5_11.sce#S##81949
+5#Crystal Physics#5.10#Calculating lattice constant#Ex5_10.sce#2309/CH5/EX5.10/Ex5_10.sce#S##81948
+5#Crystal Physics#5.1#Finding lattice parameter and Density of copper#Ex5_1.sce#2309/CH5/EX5.1/Ex5_1.sce#S##81939
+4#Quantum Physics#4.a.9#Finding Eigen Values#A_Ex4_9.sce#2309/CH4/EX4.a.9/A_Ex4_9.sce#S##81936
+4#Quantum Physics#4.a.8#Proving de Broglie is equal to compton wavelength #A_Ex4_8.sce#2309/CH4/EX4.a.8/A_Ex4_8.sce#S##81935
+4#Quantum Physics#4.a.7#Finding Energy of electron#A_Ex4_7.sce#2309/CH4/EX4.a.7/A_Ex4_7.sce#S##81934
+4#Quantum Physics#4.a.6#Finding de Broglie Wavelength#A_Ex4_6.sce#2309/CH4/EX4.a.6/A_Ex4_6.sce#S##81933
+4#Quantum Physics#4.a.5#Finding de Broglie wavelength#A_Ex4_5.sce#2309/CH4/EX4.a.5/A_Ex4_5.sce#S##81932
+4#Quantum Physics#4.a.4#Finding wavelength of Scattered X rays#A_Ex4_4.sce#2309/CH4/EX4.a.4/A_Ex4_4.sce#S##81931
+4#Quantum Physics#4.a.3#Finding Energy of scattered photon#A_Ex4_3.sce#2309/CH4/EX4.a.3/A_Ex4_3.sce#S##83157
+4#Quantum Physics#4.a.2#Finding wavelength of incident beam#A_Ex4_2.sce#2309/CH4/EX4.a.2/A_Ex4_2.sce#S##81929
+4#Quantum Physics#4.a.11#Finding Magnifying power#A_Ex4_11.sce#2309/CH4/EX4.a.11/A_Ex4_11.sce#S##81938
+4#Quantum Physics#4.a.10#Finding Energy of system having two electrons#A_Ex4_10.sce#2309/CH4/EX4.a.10/A_Ex4_10.sce#S##81937
+4#Quantum Physics#4.a.1#Finding no of photons emitted#A_Ex4_1.sce#2309/CH4/EX4.a.1/A_Ex4_1.sce#S##81928
+4#Quantum Physics#4.8#Finding de Broglie Wavelength of neutron#Ex4_8.sce#2309/CH4/EX4.8/Ex4_8.sce#S##81922
+4#Quantum Physics#4.7#Finding de Broglie Wavelength#Ex4_7.sce#2309/CH4/EX4.7/Ex4_7.sce#S##81921
+4#Quantum Physics#4.6#Finding de Broglie wavelength#Ex4_6.sce#2309/CH4/EX4.6/Ex4_6.sce#S##81920
+4#Quantum Physics#4.5#Finding de Broglie wavelength#Ex4_5.sce#2309/CH4/EX4.5/Ex4_5.sce#S##81919
+4#Quantum Physics#4.4#Finding De Broglie wavelength#Ex4_4.sce#2309/CH4/EX4.4/Ex4_4.sce#S##81918
+4#Quantum Physics#4.3#Finding wavelength of Scattered beam#Ex4_3.sce#2309/CH4/EX4.3/Ex4_3.sce#S##83158
+4#Quantum Physics#4.2#Finding Change in Wavelength#Ex4_2.sce#2309/CH4/EX4.2/Ex4_2.sce#S##81916
+4#Quantum Physics#4.14#Finding Least energy of electron#Ex4_14.sce#2309/CH4/EX4.14/Ex4_14.sce#S##81927
+4#Quantum Physics#4.13#Finding Energy of electron#Ex4_13.sce#2309/CH4/EX4.13/Ex4_13.sce#S##81926
+4#Quantum Physics#4.12#Finding Energy for Exciting a electron#Ex4_12.sce#2309/CH4/EX4.12/Ex4_12.sce#S##81925
+4#Quantum Physics#4.11#Finding Minimum energy of an electron#Ex4_11.sce#2309/CH4/EX4.11/Ex4_11.sce#S##81924
+4#Quantum Physics#4.10#Finding Energy level and Temperature of molecules#Ex4_10.sce#2309/CH4/EX4.10/Ex4_10.sce#S##81923
+4#Quantum Physics#4.1#Finding Wavelength of the Scattered photons#Ex4_1.sce#2309/CH4/EX4.1/Ex4_1.sce#S##81915
+3#Fibre Optics And Applications#3.a.5#Calculating No of Modes#A_Ex3_5.sce#2309/CH3/EX3.a.5/A_Ex3_5.sce#S##81914
+3#Fibre Optics And Applications#3.a.4#Calculating no of modes in a fibre#A_Ex3_4.sce#2309/CH3/EX3.a.4/A_Ex3_4.sce#S##81913
+3#Fibre Optics And Applications#3.a.3#Calculating Refractive indices of core and cladding#A_Ex3_3.sce#2309/CH3/EX3.a.3/A_Ex3_3.sce#S##81912
+3#Fibre Optics And Applications#3.a.2#Finding Critical angle#A_Ex3_2.sce#2309/CH3/EX3.a.2/A_Ex3_2.sce#S##83156
+3#Fibre Optics And Applications#3.a.1#Finding Refractive index acceptance angle and max no of modes#A_Ex3_1.sce#2309/CH3/EX3.a.1/A_Ex3_1.sce#S##81910
+3#Fibre Optics And Applications#3.4#Finding Numerical Aperture#Ex3_4.sce#2309/CH3/EX3.4/Ex3_4.sce#S##81909
+3#Fibre Optics And Applications#3.3#Calculating Refractive Index of Cladding#Ex3_3.sce#2309/CH3/EX3.3/Ex3_3.sce#S##81908
+3#Fibre Optics And Applications#3.2#Finding Numerical Aperture and Acceptance angle#Ex3_2.sce#2309/CH3/EX3.2/Ex3_2.sce#S##81907
+3#Fibre Optics And Applications#3.1#Finding Numerical Aperture#Ex3_1.sce#2309/CH3/EX3.1/Ex3_1.sce#S##81906
+2#Laser#2.a.7#Finding Energy#A_Ex2_7.sce#2309/CH2/EX2.a.7/A_Ex2_7.sce#S##81905
+2#Laser#2.a.6#Possibility of Laser action in optical frequencies#A_Ex2_6.sce#2309/CH2/EX2.a.6/A_Ex2_6.sce#S##81904
+2#Laser#2.a.5#Examining possibility of MASER action#A_Ex2_5.sce#2309/CH2/EX2.a.5/A_Ex2_5.sce#S##81903
+2#Laser#2.a.4#Finding no of photons emitted#A_Ex2_4.sce#2309/CH2/EX2.a.4/A_Ex2_4.sce#S##83153
+2#Laser#2.a.3#Finding Number of photons emitted#A_Ex2_3.sce#2309/CH2/EX2.a.3/A_Ex2_3.sce#S##81901
+2#Laser#2.a.2#Finding ratio of stimulated emission to spontaneous emission#A_Ex2_2.sce#2309/CH2/EX2.a.2/A_Ex2_2.sce#S##81900
+2#Laser#2.a.1#Finding Energy of first Excited State#A_Ex2_1.sce#2309/CH2/EX2.a.1/A_Ex2_1.sce#S##83152
+2#Laser#2.6#Finding Wavelength#Ex2_6.sce#2309/CH2/EX2.6/Ex2_6.sce#S##81898
+2#Laser#2.5#Calculating Long Wavelength#Ex2_5.sce#2309/CH2/EX2.5/Ex2_5.sce#S##81897
+2#Laser#2.4#Finding number of photons#Ex2_4.sce#2309/CH2/EX2.4/Ex2_4.sce#S##81896
+2#Laser#1.3#Finding Energy Band gap#Ex2_3.sce#2309/CH2/EX1.3/Ex2_3.sce#S##81895
+2#Laser#1.2#Calculating Wavelength#Ex2_2.sce#2309/CH2/EX1.2/Ex2_2.sce#S##83155
+2#Laser#1.1#Calculating Number of electron hole pairs#Ex2_1.sce#2309/CH2/EX1.1/Ex2_1.sce#S##81893
+1#Ultrasonics#1.a.5#Finding Youngs modulus and thickness of crystal#A_Ex1_5.sce#2309/CH1/EX1.a.5/A_Ex1_5.sce#S##83150
+1#Ultrasonics#1.a.4#Finding velocity of ultrasonics#A_Ex1_4.sce#2309/CH1/EX1.a.4/A_Ex1_4.sce#S##83148
+1#Ultrasonics#1.a.3#Finding depth of submerged submarine#A_Ex1_3.sce#2309/CH1/EX1.a.3/A_Ex1_3.sce#S##81890
+1#Ultrasonics#1.a.2#Finding Thickness #A_Ex1_2.sce#2309/CH1/EX1.a.2/A_Ex1_2.sce#S##81889
+1#Ultrasonics#1.a.1#calculating fundamental frequency#A_Ex1_1.sce#2309/CH1/EX1.a.1/A_Ex1_1.sce#S##83146
+1#Ultrasonics#1.3#Finding velocity of ultrasonic wave#Ex1_3.sce#2309/CH1/EX1.3/Ex1_3.sce#S##81887
+1#Ultrasonics#1.2#Calculating Frequency of the vibrating crystal#Ex1_2.sce#2309/CH1/EX1.2/Ex1_2.sce#S##81886
+1#Ultrasonics#1.1#Calculating frequency of the Oscillator#Ex1_1.sce#2309/CH1/EX1.1/Ex1_1.sce#S##81885

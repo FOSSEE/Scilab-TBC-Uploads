@@ -1,0 +1,3 @@
+**Sample Problem 9-3**
+The acceleration of center of mass is 1.158805m/s^2 at 
+an angle of 27.235724 degrees to the positive x-axis 

@@ -1,0 +1,5 @@
+ # Problem 10b # 
+
+ Standard formula Used 
+ 2 * d * sin(theta) = n * lambda 
+ Angle for secondary maxima is  10. 

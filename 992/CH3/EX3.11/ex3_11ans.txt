@@ -1,0 +1,12 @@
+  j0  =
+ 
+    0.22  
+ j4  =
+ 
+    0.03  
+
+ Firstsideband pairs :J1 = 0.580000
+ Secondsideband pairs :J2 = 0.350000
+ Thirdsideband pairs :J3 = 0.130000
+ Forthsideband pairs :J4 = 0.030000 
+ Execution done.   

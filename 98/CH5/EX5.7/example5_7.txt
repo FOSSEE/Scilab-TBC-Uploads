@@ -1,0 +1,16 @@
+Let L be the load factor
+DIESEL STATION: 
+Average power = 0.0114 kW 
+Maximum demand = 0.0114/L kW 
+Fixed charges = Rs. 3.42/L 
+Running charges = Rs. 25.00 
+Fixed and running charges = Rs. (3.42/L + 25.00) 
+
+STEAM STATION: 
+Fixed charges = Rs. 13.70/L 
+Running charges = Rs. 6.25 
+Fixed and running charges = Rs. (13.70/L + 6.25) 
+
+Equating the two charges and solving, we get L = 54.72 % 
+
+

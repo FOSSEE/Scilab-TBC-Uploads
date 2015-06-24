@@ -1,0 +1,22 @@
+clear;
+clc;
+L=.01;
+disp("for firing angle=90deg");
+a=90*%pi/180;
+L_eff=%pi*L/(2*%pi-2*a+sin(2*a));    printf("effective inductance=%.0f mH",L_eff*1000);
+disp("for firing angle=120deg");
+a=120*%pi/180;
+L_eff=%pi*L/(2*%pi-2*a+sin(2*a));    printf("effective inductance=%.3f mH",L_eff*1000);
+disp("for firing angle=150deg");
+a=150*%pi/180;
+L_eff=%pi*L/(2*%pi-2*a+sin(2*a));    printf("effective inductance=%.2f mH",L_eff*1000);
+disp("for firing angle=170deg");
+a=170*%pi/180;
+L_eff=%pi*L/(2*%pi-2*a+sin(2*a));    printf("effective inductance=%.3f H",L_eff);
+disp("for firing angle=175deg");
+a=175*%pi/180;
+L_eff=%pi*L/(2*%pi-2*a+sin(2*a));    printf("effective inductance=%.2f H",L_eff);
+disp("for firing angle=180deg");
+a=180*%pi/180;
+L_eff=%pi*L/(2*%pi-2*a+sin(2*a));    printf("effective inductance=%.3f H",L_eff);
+//random value at firing angle =180 is equivalent to infinity as in answer in book

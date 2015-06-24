@@ -1,0 +1,24 @@
+                   //EXAMPLE 2-60     PG NO-103-104
+Z1=6+%i*8;
+V=230;                    // VOLTAGE
+Y1=1/Z1;
+disp('i)  ADMITTANCE (Y1) is    =  '+string (Y1) +'  siemens ');
+G1=0.06;
+B1=-0.08;
+Z2=4-%i*3;
+Y2=1/Z2;
+disp('ii)  ADMITTANCE (Y2) is    =  '+string (Y2) +'  siemens ');
+G2=0.16;
+B2=0.12;
+TL=G1+G2;                    //TOTAL CONDUCTANCE
+disp('iii) TOTAL CONDUCTANCE (TL) is    =  '+string (TL) +' siemens');
+TS=B1+B2;                      //TOTAL SUSCEPTANCE
+disp('iv)  TOTAL SUSCEPTANCE (TS) is    =  '+string (TS) +'  siemens ');
+I1=V*Y1;                    //   CURRENT
+disp('v)  CURRENT (I1) is    =  '+string (I1) +' A ');
+I2=V*Y2;
+disp('vi)  CURRENT (I2) is    =  '+string (I2) +' A ');
+TI=I1+I2;                //TOTAL CURRENT
+disp('vii)  TOTAL CURRENT (TI) is    =  '+string (TI) +' A ');
+PF=cos(degree(10.3));
+disp('i)  POWER FACTOR (PF) is    =  '+string (PF) +' leading ');

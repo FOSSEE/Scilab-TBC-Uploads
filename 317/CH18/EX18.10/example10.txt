@@ -1,0 +1,3 @@
+Closed loop voltage gain is 40
+Closed loop bandwidth is 25 Khertz
+Output voltage is 200 mVpp at 250 KHertz

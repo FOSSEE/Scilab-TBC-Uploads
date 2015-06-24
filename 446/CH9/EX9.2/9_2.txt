@@ -1,0 +1,7 @@
+  
+ Exa-9.2(a)   
+The coulomb energy at an equilirium separation distance is -6.10 eV
+The pauli's repulsion energy is 0.31 eV
+ 
+ Exa-9.2(b)   
+The pauli's repulsion energy respectively is is 16.87 eV

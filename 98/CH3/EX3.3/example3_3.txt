@@ -1,0 +1,8 @@
+
+Energy per day = 500.00 MWh 
+
+energy per year = 160000.00 MWh
+
+Annual load factor = 20.83 % 
+
+

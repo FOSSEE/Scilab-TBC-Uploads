@@ -1,0 +1,65 @@
+-->//(Power Screws) Example 6.1
+ 
+-->//Number of starts n
+ 
+-->n = 3
+ n  =
+ 
+    3.  
+ 
+-->//Nominal diameter of screw d (mm)
+ 
+-->d = 50
+ d  =
+ 
+    50.  
+ 
+-->//Pitch of the screw p (mm)
+ 
+-->p = 8
+ p  =
+ 
+    8.  
+ 
+-->//Collar outer diameter Do (mm)
+ 
+-->Do = 100
+ Do  =
+ 
+    100.  
+ 
+-->//Collar inner diameter Di (mm)
+ 
+-->Di = 65
+ Di  =
+ 
+    65.  
+ 
+-->//Coefficient of friction mu
+ 
+-->mu = 0.15
+ mu  =
+ 
+    0.15  
+ 
+-->//Load to be raised W (kN)
+ 
+-->W = 15
+ W  =
+ 
+    15.  
+ 
+-->//Force applied at radius rad (mm)
+ 
+-->rad = 500
+ rad  =
+ 
+    500.  
+ 
+
+Torque required to raise the load(Mtt) = 204644.140833 mm
+
+Torque required to lower the load(Mlt) = 87401.514671 mm
+
+Force at 500mm radius required to raise the load(Pi) = 409.288282 N
+ 

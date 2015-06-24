@@ -1,0 +1,13 @@
+  
+ Iron loss (in watts)=   
+ 
+    350.  
+ 
+ Copper Loss (in watts)=   
+ 
+    350.  
+ 
+ Maximum Efficiency (in %)=   
+ 
+    97.276265  
+ 

@@ -1,0 +1,12 @@
+Monthly demand = 750 kVA 
+kW component of demand = 600 
+kVA component of demand = 450 
+Lead kVA = 200 kVA 
+kVA after improvement = 632.46 kVA 
+Reduction in kVA = 117.54 kVA 
+Monthly saving on kVA charges = Rs. 999.13 
+Yearly saving on kVA charges = Rs. 11989.54 
+Fixed charges per year = Rs. 2000 
+Net annual saving = Rs. 9990 
+
+

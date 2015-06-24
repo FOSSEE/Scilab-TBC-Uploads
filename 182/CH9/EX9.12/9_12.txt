@@ -1,0 +1,2 @@
+12.using the five times magifier,
+   minimum time/div setting=25 ns/div 

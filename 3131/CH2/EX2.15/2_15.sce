@@ -1,0 +1,21 @@
+clear all; clc;
+disp("Ex 2_15")
+disp(" Vector r_AB = (4i -4k) m")
+r1=sqrt(4^2+(-4)^2)
+printf('\n\nThe magnitude of r_AB is: r = %.2f m',r1)
+disp(" ")
+disp("u_AB = (4/5.66)i -(4/5.66)k")
+disp(" ")
+disp("F_AB = (70.7i-70.7k) N")//Obtaned by multiplying vector u_AB by given force F=100N
+disp(" ")
+disp(" Vector r_AC = (4i + 2j -4k) m")
+r2=sqrt(4^2+2^2+(-4)^2)
+printf('\n\nThe magnitude of r_AC is: r = %.0f m',r2)
+disp(" ")
+disp("u_AC = (4/6)i +(2/6)j -(4/6)k")
+disp(" ")
+disp("F_AC = (80i+40j-80k) N")//Obtaned by multiplying vector u by given force F=120N
+disp(" ")
+disp("F_R = (150.7i + 40j - 150.7k) N")
+fr=sqrt(150.7^2+40^2+(-150.7)^2)
+printf('\n\nThe magnitude of F_R is: F_R = %.0f N',fr)

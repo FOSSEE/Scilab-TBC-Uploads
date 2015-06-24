@@ -1,0 +1,4 @@
+
+ Example 5.6
+ Density of MgO is 3611 Kg/m^3
+ Density of MgO is 3.61 g/cm^3 

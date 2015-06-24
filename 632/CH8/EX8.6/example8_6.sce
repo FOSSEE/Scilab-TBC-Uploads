@@ -1,0 +1,27 @@
+//clc()
+mwater = 0.0109;//kg
+V = 1;//m^3
+T = 300;//K
+P = 101.3;//kPa
+Vstp =22.4143;//m^3/kmol
+Pstp = 101.3;//kPa
+Tstp = 273.15;//K
+N = V * P * Tstp / (Vstp * Pstp * T );
+Nwater = mwater / 18.016;
+Nfr = Nwater / N;
+Pwater = Nfr * P;
+disp("kPa",Pwater,"(a)Partial pressure of water vapour = ")
+Ps = exp(16.26205 - 3799.887/(T - 46.854));
+RS = Pwater * 100 / Ps;
+disp("%",RS,"(b)Relative saturation = ")
+Y1 = Pwater *18 / ((P - Pwater)*29);
+disp("kg water / kg dry air",Y1,"(c)Absolute humidity = ")
+Y1s = Ps *18 / ((P - Ps)*29);
+PS1 = Y1 * 100 / Y1s;
+disp("%",PS1,"(d)Percent saturation = ")
+PS = 10;//%
+Y1S = Y1 * 100/PS ; 
+//Y1S = Pas/(P - Pas ) * 18 /29
+Pas1 = 29 * P * Y1S / (18 + 29*Y1s);
+T1 = 3799.887 / (16.26205-log(Pas1)) + 46.854;
+disp("K",T1,"(e)Temperature at which 10% saturation occurs = ")

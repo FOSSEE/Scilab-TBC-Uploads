@@ -1,0 +1,3 @@
+Weight of water available is W = 49050000000.00 N 
+Electrical energy available = W*H*n_overall = 204375000.00 kWh 
+

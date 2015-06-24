@@ -1,0 +1,3 @@
+ 
+ Example 14.1
+ Energy difference is 1.81e-33 J  

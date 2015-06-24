@@ -1,0 +1,1 @@
+Output voltage of the oscillator is 6vrms

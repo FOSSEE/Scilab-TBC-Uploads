@@ -1,0 +1,11 @@
+Resistance of distributor per metre run = 0.0006 ohm 
+
+(i) Voltage drop upto 150 m from feeding point = 22.5 V 
+
+(ii) Total current entering distributor = 400 A 
+
+     Total resistance of distributor = 0.12 ohm 
+
+     Maximum voltage drop = 24 V 
+
+

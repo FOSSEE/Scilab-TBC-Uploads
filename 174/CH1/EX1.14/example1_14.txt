@@ -1,0 +1,6 @@
+For the worst possible combination of the values of current and resistance,
+The highest power dissipation becomes,
+P = 1.012 (I^2)*R Watts
+For the lowest power dissipation.
+P = 0.988 (I^2)*R Watts
+The limiting error = +/- 1.2% 

@@ -1,0 +1,2 @@
+**Sample Problem 43-7**
+The disintegration energy for the beta decay of Phosphorus is 1.713960Mev

@@ -1,0 +1,7 @@
+# PROBLEM 31 # 
+ Standard formula used 
+
+ E = m*c^2 
+
+ Mass of moving electron is 3.576667e-30 kg 
+ Velocity of moving electron is  2.901276e+08 m/sec. 

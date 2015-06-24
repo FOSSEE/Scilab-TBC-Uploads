@@ -1,0 +1,5 @@
+# Problem 6 # 
+
+ Standard formula used 
+ Beta = (D * lambda) / d
+ Fringe width observed at distance 1 meter  is 0.037141 m

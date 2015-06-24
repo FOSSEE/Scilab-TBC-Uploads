@@ -1,0 +1,4 @@
+ Example 2.10   
+total induced emf=62.800000 V
+The current through the armature coil when connected to the load,I=15.700000 A
+torque=6.280000 Nm 

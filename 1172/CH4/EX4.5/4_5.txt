@@ -1,0 +1,4 @@
+ # Problem 5 # 
+Standard formula used is g1 = g - R_e*f^2*(cos(theta))^2 
+  
+ Difference in gravitational acceleration at pole and equator is 3.384638e-02 m/s^2 

@@ -1,0 +1,16 @@
+clc;
+Vsmin=19.5;
+Vsmax=22.5;
+RL=6*10**3;
+Vz=18;
+Izmin=2*10**-6;
+Pzmax=60*10**-3;
+rz=20;
+Izmax=sqrt(Pzmax/rz);
+IL=Vz/RL;
+ILmax=IL;
+ILmin=IL;
+Rsmax=(Vsmin-Vz)/(Izmin+ILmax);
+disp('ohm',Rsmax*1,"Rsmax=");
+Rsmin=(Vsmax-Vz)/(Izmax+ILmin);
+disp('ohm',Rsmin*1,"Rsmin=");

@@ -1,0 +1,10 @@
+clear;
+clc;
+Zo=50;Vr=10;Ir=0;a=0;
+B=%pi/4;
+V=(Vr*cos(B))+(%i*(Ir*Zo*sin(B)));
+I=(Ir*cos(B))+(%i*((Vr*sin(B))/Zo));
+C=real(I);
+D=imag(I);
+printf("-R.m.s.voltage at the required distance is V = %f volts\n",round((V)*100)/100);
+printf("-R.m.s.current at required distance is I = %f /_ %f  Amps",round(abs(I)*1000)/1000,atan(D,C)*180/%pi);

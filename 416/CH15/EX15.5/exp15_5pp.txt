@@ -1,0 +1,6 @@
+  
+ example 15.5   
+solar power collected by collector 34kW 
+energy input in one hour 1.260000e+008 J 
+ rise in temperature is 30.1`C 
+ temperature of water 60.1`c 

@@ -1,0 +1,20 @@
+clear;
+clc;
+r=1250e3;
+v=600;
+z1=.15*%i;
+z2=.3*%i;
+z3=.05*%i;
+z4=.55*%i;
+x1=inv(inv(z2)+inv(z1));
+x2=x1;
+x0=inv(inv(z3)+inv(z4));
+e=1;
+ia1=e/(x1+x2+x0);
+ia2=ia1;
+ia0=ia2;
+ia=3*ia1;//the difference in result is due to erroneous calculation in textbook.
+base=r/(sqrt(3)*v);
+ita=ia*base;
+mprintf("the fault current=%fA",-imag(ita));
+disp("the difference in result is due to erroneous calculation in textbook.");

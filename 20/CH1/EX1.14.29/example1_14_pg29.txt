@@ -1,0 +1,5 @@
+ 
+-->exec('/media/TRANSCEND/Chapter_1/code/example1_14_pg29.sce', -1)
+Regulation of the Transformer by per-cent method is 2.85 % 
+ 
+-->diary(0);

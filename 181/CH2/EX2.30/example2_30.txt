@@ -1,0 +1,2 @@
+(a) Resistance in forward direction = 2.879 ohm
+(b) Resistance in reverse direction = 0.314 Mohm

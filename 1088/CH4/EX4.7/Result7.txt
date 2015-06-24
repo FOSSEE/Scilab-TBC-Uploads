@@ -1,0 +1,233 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example7.sci',-1)
+Current date is 02-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            4   
+ 
+ Chapter Title                         :                                              THE FILE SYSTEM   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Example 1    :               Show the use of the file command ls for long listing of files   
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+
+Here all instructions are preloaded in the form of a demo
+PRESS ENTER AFTER EACH COMMAND to see its RESULT
+PRESS ENTER AFTER EACH RESULT TO GO TO THE NEXT COMMAND
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ ls                        #To get the files and directories present in the current directory
+
+........# (hit [ENTER] for result) ans  =
+ 
+!Result7.txt    !
+!               !
+!Result6.txt    !
+!               !
+!Result6.pdf    !
+!               !
+!Result5.txt    !
+!               !
+!Result5.pdf    !
+!               !
+!Result4.txt    !
+!               !
+!Result4.pdf    !
+!               !
+!Result3.txt    !
+!               !
+!Result3.pdf    !
+!               !
+!Result2.txt    !
+!               !
+!Result2.pdf    !
+!               !
+!Result1.txt    !
+!               !
+!Result1.pdf    !
+!               !
+!Example9.sci   !
+!               !
+!Example8.sci   !
+!               !
+!Example7.sci   !
+!               !
+!Example6.sci   !
+!               !
+!Example5.sci   !
+!               !
+!Example4.sci   !
+!               !
+!Example3.sci   !
+!               !
+!Example25.sci  !
+!               !
+!Example24.sci  !
+!               !
+!Example23.sci  !
+!               !
+!Example22.sci  !
+!               !
+!Example21.sci  !
+!               !
+!Example20.sci  !
+!               !
+!Example2.sci   !
+!               !
+!Example19.sci  !
+!               !
+!Example18.sci  !
+!               !
+!Example17.sci  !
+!               !
+!Example16.sci  !
+!               !
+!Example15.sci  !
+!               !
+!Example14.sci  !
+!               !
+!Example13.sci  !
+!               !
+!Example12.sci  !
+!               !
+!Example11.sci  !
+!               !
+!Example10.sci  !
+!               !
+!Example1.sci   !
+	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ ls  -l                       #To get the files and directories present in the current directory
+
+........# (hit [ENTER] for result) ans  =
+ 
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!    Directory: C:\Users\Pranav Bhat\Documents\TCPMUM\Chapter4                    !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!Mode                LastWriteTime     Length Name                                !
+!                                                                                 !
+!----                -------------     ------ ----                                !
+!                                                                                 !
+!-a---        31-05-2013     19:17       2135 Example1.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example10.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example11.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example12.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example13.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example14.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example15.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example16.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example17.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example18.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example19.sci                       !
+!                                                                                 !
+!-a---        31-05-2013     19:20       2129 Example2.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example20.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example21.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example22.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example23.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example24.sci                       !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example25.sci                       !
+!                                                                                 !
+!-a---        31-05-2013     20:25       2479 Example3.sci                        !
+!                                                                                 !
+!-a---        31-05-2013     19:42       2477 Example4.sci                        !
+!                                                                                 !
+!-a---        31-05-2013     21:27       3007 Example5.sci                        !
+!                                                                                 !
+!-a---        31-05-2013     21:24       2574 Example6.sci                        !
+!                                                                                 !
+!-a---        31-05-2013     21:52       2397 Example7.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example8.sci                        !
+!                                                                                 !
+!-a---        28-05-2013     19:49       1129 Example9.sci                        !
+!                                                                                 !
+!-a---        02-06-2013     21:59       1975 Result1.pdf                         !
+!                                                                                 !
+!-a---        02-06-2013     21:58       1975 Result1.txt                         !
+!                                                                                 !
+!-a---        02-06-2013     22:01       1989 Result2.pdf                         !
+!                                                                                 !
+!-a---        02-06-2013     22:01       1989 Result2.txt                         !
+!                                                                                 !
+!-a---        02-06-2013     22:03       2242 Result3.pdf                         !
+!                                                                                 !
+!-a---        02-06-2013     22:03       2242 Result3.txt                         !
+!                                                                                 !
+!-a---        02-06-2013     22:05       2216 Result4.pdf                         !
+!                                                                                 !
+!-a---        02-06-2013     22:05       2216 Result4.txt                         !
+!                                                                                 !
+!-a---        02-06-2013     22:07       2639 Result5.pdf                         !
+!                                                                                 !
+!-a---        02-06-2013     22:07       2639 Result5.txt                         !
+!                                                                                 !
+!-a---        02-06-2013     22:09       2303 Result6.pdf                         !
+!                                                                                 !
+!-a---        02-06-2013     22:09       2303 Result6.txt                         !
+!                                                                                 !
+!-a---        02-06-2013     22:11       3370 Result7.txt                         !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+!                                                                                 !
+........# (hit [ENTER] for next instruction)
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+ 
+-->diary(0)

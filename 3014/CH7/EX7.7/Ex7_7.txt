@@ -1,0 +1,4 @@
+
+Example 7.7
+ For frequency 1.000000e+06 Penetration depth is 3.558813 cm
+ Silicon is good conductor at frequency lesser than 1e9 Hz 

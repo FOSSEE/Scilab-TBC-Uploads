@@ -1,0 +1,13 @@
+gaussseidel.sce#75/DEPENDENCIES/gaussseidel.sce#Gauss seidel method#142
+euler.sce#75/DEPENDENCIES/euler.sce#Euler method#65
+eigenvectors.sce#75/DEPENDENCIES/eigenvectors.sce#Eigen vectors#139
+bvpeigen.sce#75/DEPENDENCIES/bvpeigen.sce#Boundary value problem#138
+trapezoidal.sce#75/DEPENDENCIES/trapezoidal.sce#Trapezoidal method#137
+legendrepol.sce#75/DEPENDENCIES/legendrepol.sce#Legendre Polynomial#135
+romberg.sce#75/DEPENDENCIES/romberg.sce#Romberg Integration#136
+lagrange.sce#75/DEPENDENCIES/lagrange.sce#Lagrange#61
+muller.sce#75/DEPENDENCIES/muller.sce#Muller method#144
+secant.sce#75/DEPENDENCIES/secant.sce#Secant method#64
+newton.sce#75/DEPENDENCIES/newton.sce#Newton#63
+aitken1.sce#75/DEPENDENCIES/aitken1.sce#Aitken1#158
+bisection1.sce#75/DEPENDENCIES/bisection1.sce#Bisection method#159

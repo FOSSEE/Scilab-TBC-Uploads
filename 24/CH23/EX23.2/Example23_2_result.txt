@@ -1,0 +1,2 @@
+**Sample Problem 23-2**
+The net electric field at origin is equal to 6.484083e+010Q/d^2 N/C

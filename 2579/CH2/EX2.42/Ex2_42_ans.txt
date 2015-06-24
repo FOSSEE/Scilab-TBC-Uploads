@@ -1,0 +1,1 @@
+ The power received = 14.920776*10^-6 Watts

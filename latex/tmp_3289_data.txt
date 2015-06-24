@@ -1,0 +1,31 @@
+12#Plastic behavior of solids#12.1#Determine maxi plastic stress and strain#Ex12_1.sce#3289/CH12/EX12.1/Ex12_1.sce#S##113530
+11#Elastic stability#11.1#Buckling load of the column#Ex11_1.sce#3289/CH11/EX11.1/Ex11_1.sce#S##113926
+9#Beams on elastic foundations#9.4#Find maxi moment and deflection#Ex9_4.sce#3289/CH9/EX9.4/Ex9_4.sce#S##113920
+9#Beams on elastic foundations#9.1#Calculate maxi deflections and force per unit length#Ex9_1.sce#3289/CH9/EX9.1/Ex9_1.sce#S##113925
+8#Axisymmetrically loaded members#8.6#Distribution stress and disk profile#Ex8_6.sce#3289/CH8/EX8.6/Ex8_6.sce#S##113526
+8#Axisymmetrically loaded members#8.5#Determine maxi stress and radial displacement#Ex8_5.sce#3289/CH8/EX8.5/Ex8_5.sce#S##113924
+8#Axisymmetrically loaded members#8.4#Determine shrinking allowance and maxi stress#Ex8_4.sce#3289/CH8/EX8.4/Ex8_4.sce#S##113524
+8#Axisymmetrically loaded members#8.3#Distribution of tangential stress#Ex8_3.sce#3289/CH8/EX8.3/Ex8_3.sce#S##113523
+8#Axisymmetrically loaded members#8.2#Calculate internal pressure#Ex8_2.sce#3289/CH8/EX8.2/Ex8_2.sce#S##113522
+8#Axisymmetrically loaded members#8.1#Determine maxi internal and external pressure#Ex8_1.sce#3289/CH8/EX8.1/Ex8_1.sce#S##113919
+7#Numerical methods#7.9#Calculate finite element#Ex7_9.sce#3289/CH7/EX7.9/Ex7_9.sce#S##113515
+7#Numerical methods#7.8#Calculate deflections#Ex7_8.sce#3289/CH7/EX7.8/Ex7_8.sce#S##113494
+7#Numerical methods#7.7#Determine stiffness matrix and nodal force matrix#Ex7_7.sce#3289/CH7/EX7.7/Ex7_7.sce#S##113482
+7#Numerical methods#7.6#Determine moments of the supports of the beam#Ex7_6.sce#3289/CH7/EX7.6/Ex7_6.sce#S##113475
+7#Numerical methods#7.3#Find shearing stress#Ex7_3.sce#3289/CH7/EX7.3/Ex7_3.sce#S##113488
+6#Torsion of prismatic bars#6.4#Maxi longitudinal stress and angle of twist#Ex6_4.sce#3289/CH6/EX6.4/Ex6_4.sce#S##113202
+6#Torsion of prismatic bars#6.2#Shearing stress and angle of twist#Ex6_2.sce#3289/CH6/EX6.2/Ex6_2.sce#S##113923
+5#Bending of beams#5.5#Determine area and tangential stress#Ex5_5.sce#3289/CH5/EX5.5/Ex5_5.sce#S##113200
+5#Bending of beams#5.4#Determine flange#Ex5_4.sce#3289/CH5/EX5.4/Ex5_4.sce#S##113199
+5#Bending of beams#5.1#Determine neutral axis#Ex5_1.sce#3289/CH5/EX5.1/Ex5_1.sce#S##113922
+4#Mechanical behaviour of materials #4.7#Determine instantaneous maxi deflection#Ex4_7.sce#3289/CH4/EX4.7/Ex4_7.sce#S##113197
+4#Mechanical behaviour of materials #4.6#Determine fatigue#Ex4_6.sce#3289/CH4/EX4.6/Ex4_6.sce#S##113900
+4#Mechanical behaviour of materials #4.5#Compute the value of p#Ex4_5.sce#3289/CH4/EX4.5/Ex4_5.sce#S##113195
+4#Mechanical behaviour of materials #4.4#Determine reversed axial load#Ex4_4.sce#3289/CH4/EX4.4/Ex4_4.sce#S##113194
+4#Mechanical behaviour of materials #4.3#Calculate limiting torque#EX4_3.sce#3289/CH4/EX4.3/EX4_3.sce#S##113921
+4#Mechanical behaviour of materials #4.1#Calculate diameter#Ex4_1.sce#3289/CH4/EX4.1/Ex4_1.sce#S##113192
+3#Two dimensional problems in elasticity#3.5#Size of the contact area and maxi contact pressure#Ex3_5.sce#3289/CH3/EX3.5/Ex3_5.sce#S##113191
+2#Strain and stress strain relations#2.2#Principal stresses and their directions#Ex2_2.sce#3289/CH2/EX2.2/Ex2_2.sce#S##113190
+2#Strain and stress strain relations#2.1#Principal strains#Ex2_1.sce#3289/CH2/EX2.1/Ex2_1.sce#S##113189
+1#Analysis of Stress#1.2#Normal and shear stresses#Ex1_2.sce#3289/CH1/EX1.2/Ex1_2.sce#S##113124
+1#Analysis of Stress#1.1#Find stress#Ex1_1.sce#3289/CH1/EX1.1/Ex1_1.sce#S##113123

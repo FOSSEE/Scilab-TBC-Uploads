@@ -1,0 +1,26 @@
+clear;
+clc;
+rb=75000e3;
+ro=50e6;
+v1=11e3;
+v2=66e3;
+xa=.25*rb/ro;
+xb=.75;
+xt=.1;
+v=1;
+xeq=inv(inv(xa)+inv(xb))+xt;
+i=v/xeq;
+i=round(i*100)/100;
+ia=i*xb/(xa+xb);
+ib=i*xa/(xa+xb);
+ia=round(ia*100)/100;
+ilt=rb/(sqrt(3)*v1);
+iht=rb/(sqrt(3)*v2);
+i=i*iht;
+i=fix(i)
+ia=ia*ilt;
+ilt=rb/(1.73*v1);
+ib=ib*ilt;
+ia=round(ia);
+ib=round(ib/10)*10;
+mprintf("sub transient current generator A=%dA \n generator B=%dA \n HT side=%dA",ia,ib,i);

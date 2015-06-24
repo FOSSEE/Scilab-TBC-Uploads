@@ -1,0 +1,12 @@
+(a)E.M.F generated at 750r.p.m for lap wound(in volts)=   
+ 
+    370.  
+ 
+ (b)E.M.F generated at 600r.p.m for wavewound(in volts)=   
+ 
+    592.  
+ 
+ (c)Speed of machine(in r.p.m)=   
+ 
+    405.40541  
+ 

@@ -1,0 +1,8 @@
+  
+ example 5.4   
+
+flux per pole=0.150000Wb
+number of turns per phase=120
+pitch factor=1.000000
+distribution factor=0.959795
+RMS vale of emf induced per phase=3835.341142V

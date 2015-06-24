@@ -1,0 +1,5 @@
+# PROBLEM 22 # 
+Standard formula used 
+  E = (h * c) * (1 / lambda1 - 1 / lambda2)  
+
+ Value of Planck constant is 6.037176e-34 J-sec.

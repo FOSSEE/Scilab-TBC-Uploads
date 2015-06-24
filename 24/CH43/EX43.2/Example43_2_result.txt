@@ -1,0 +1,2 @@
+**Sample Problem 43-2**
+The density of nucleus is 2.307194e+017Kg/m^3

@@ -1,0 +1,5 @@
+ 
+ Example 9.2
+
+ Forces in surface grinding are as: 
+ F_c:174 N 	 F_n: 226 N 

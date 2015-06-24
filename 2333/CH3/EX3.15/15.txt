@@ -1,0 +1,5 @@
+# PROBLEM 15 # 
+ Standard formula used 
+ n*lambda= sin(theta)/N 
+ 
+ Number of lines per cm is 2777.

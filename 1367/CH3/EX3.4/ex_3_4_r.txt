@@ -1,0 +1,7 @@
+ Energy of third orbit (in volts) =    
+ 
+  - 1.5111111  
+ 
+ Energy of fifth orbit (in volts) =    
+ 
+  - 0.544  

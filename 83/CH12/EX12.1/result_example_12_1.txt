@@ -1,0 +1,9 @@
+
+Stored energy = 800 MJ
+
+Rotor acceleration = 337.5 elect deg/s^2 
+
+Change in torque angle = 33.75 elect degrees
+Change in torque angle = 28.125 rpm/s
+
+Roor speed at the end of 10 cycles = 1505.625 rpm 

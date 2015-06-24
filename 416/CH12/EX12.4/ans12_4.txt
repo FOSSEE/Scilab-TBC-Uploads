@@ -1,0 +1,6 @@
+ 
+ example 12 4   
+terminal voltage 239.68V 
+current supplied by each 10.72A 
+power factor of each 0.894 lagging 
+power delivered by each 2297.7941KW 

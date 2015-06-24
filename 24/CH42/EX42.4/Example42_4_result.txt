@@ -1,0 +1,5 @@
+**Sample Problem 42-4a**
+The probability of occupying the given energy state is equal to 0.189984
+
+**Sample Problem 42-4**
+The probability of occupying the given energy state is equal to 0.810016

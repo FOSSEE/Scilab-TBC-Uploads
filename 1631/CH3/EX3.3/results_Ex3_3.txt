@@ -1,0 +1,5 @@
+ (i)To avoid aliasing Nquist Rate is    
+ 
+    200.  
+ 
+  Hz  

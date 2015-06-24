@@ -1,0 +1,2 @@
+**Sample Problem 36-4**
+The wavelength of the light is 5.67e+002nm

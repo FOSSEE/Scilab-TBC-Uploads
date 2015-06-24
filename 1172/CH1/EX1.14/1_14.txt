@@ -1,0 +1,6 @@
+ # Problem 14 # 
+ 
+ Standard formula used 
+  2*t = p*lambda
+ Thickness  of air film  is 0.013000 cm.  
+

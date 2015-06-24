@@ -1,0 +1,4 @@
+Tail current is 2.4 mAmperes
+Emitter current is 1.2 mAmperes
+Right hand side collector has a quiescent voltage of 8.4 Volts
+Left hand side collector has a quiescent voltage of 12 Volts

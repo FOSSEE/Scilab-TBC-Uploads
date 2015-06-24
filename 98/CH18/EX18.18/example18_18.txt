@@ -1,0 +1,3 @@
+Fault current = j16 p.u 
+
+

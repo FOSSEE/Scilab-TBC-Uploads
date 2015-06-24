@@ -1,0 +1,7 @@
+ Power shared by generator-1(in Kilo Watts)=    
+ 
+    17.210003  
+ 
+ Power shared by generator-2(in Kilo Watts)=    
+ 
+    7.7899966 

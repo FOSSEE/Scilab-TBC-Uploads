@@ -1,0 +1,3 @@
+change in resistance(in %)=   
+ 
+    0.05 

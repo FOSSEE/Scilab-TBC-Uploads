@@ -1,0 +1,5 @@
+Resistance of cable from test end to fault point = 300 ohm 
+
+Distance of fault from test end = 15 km 
+
+

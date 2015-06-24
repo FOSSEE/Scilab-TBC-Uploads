@@ -1,0 +1,12 @@
+(a)Voltage ratio and output(in KVA)=   
+ 
+    1.2  
+ 
+    600.  
+ 
+ (b)Voltage ratio and output(in KVA)=   
+ 
+    1.2  
+ 
+    120.  
+ 

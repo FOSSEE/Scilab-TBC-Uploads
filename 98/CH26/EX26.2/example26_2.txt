@@ -1,0 +1,9 @@
+Capacitance of line to earth = 0.000004 F 
+
+Required inductance of Peterson coil = 0.84 F 
+
+Current through Peterson coil = 501 A 
+
+Rating of Peterson coil = 66476 kVA 
+
+

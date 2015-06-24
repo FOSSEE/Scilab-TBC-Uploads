@@ -1,0 +1,3 @@
+ The total resistance connected in series = 22.324 ohm
+As one of the resistance is accurate to only tenths of an ohm, The result should be reduced to the nearest tenth. 
+ Hence the total resistance is = 22.3 ohm 

@@ -1,0 +1,17 @@
+//stability of open loop systems
+s=%s
+sys1=syslin('c',20/((s+1)*(s+2)*(s+3)))
+disp(sys1,"M(s)=")
+printf("sys1 is stable as there are no ploes or zeroes in RHP")
+sys2=syslin('c',20*(s+1)/((s-1)*(s^2+2*s+2)))
+disp(sys2,"M(s)=")
+printf("sys2 is unstable due to pole at s=1")
+sys3=syslin('c',20*(s-1)/((s+2)*(s^2+4)))
+disp(sys3,"M(s)=")
+printf("sys3 is marginally stable or marginally unstable due to s=j2 and s=-j2")
+sys4=syslin('c',10/((s+10)*(s^2+4)^2))
+disp(sys4,"M(s)=")
+printf("sys4 is unstable due to multiple order pole at s=j2 and s=-j2")
+sys5=syslin('c',10/(s^4+30*s^3+s^2+10*s))
+disp(sys5,"M(s)=")
+printf("sys5 is stable if pole at s=0 is placed intentionally")

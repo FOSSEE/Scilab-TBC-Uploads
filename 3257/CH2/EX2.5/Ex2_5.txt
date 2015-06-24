@@ -1,0 +1,5 @@
+  Example 2.5
+
+ According to maximum shear stress criterion, Required pressure is 2.8 MPa.
+
+ According to maximum distortion energy criterion, Required pressure is 2.8 MPa.

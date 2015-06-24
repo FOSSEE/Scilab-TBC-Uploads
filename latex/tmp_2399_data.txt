@@ -1,0 +1,77 @@
+10#performance measurement and monitoring#10.6.1#attenuation#Example_10_6_1.sce#2399/CH10/EX10.6.1/Example_10_6_1.sce#S##102144
+10#performance measurement and monitoring#10.5.1#pulse broadning and optical bandwidth#Example_10_5_1.sce#2399/CH10/EX10.5.1/Example_10_5_1.sce#S##102142
+9#link design#9.6.1#maximum bit rate#Example_9_6_1.sce#2399/CH9/EX9.6.1/Example_9_6_1.sce#S##102141
+9#link design#9.4.1#power margin#Example_9_4_1.sce#2399/CH9/EX9.4.1/Example_9_4_1.sce#S##102143
+8#optical receiver operation#8.4.1#bandwidth#Example_8_4_1.sce#2399/CH8/EX8.4.1/Example_8_4_1.sce#S##102128
+8#optical receiver operation#8.3.2#S N ratio#Example_8_3_2.sce#2399/CH8/EX8.3.2/Example_8_3_2.sce#S##102126
+8#optical receiver operation#8.3.1#shot noise#Example_8_3_1.sce#2399/CH8/EX8.3.1/Example_8_3_1.sce#S##102124
+8#optical receiver operation#8.2.2#optical power#Example_8_2_2.sce#2399/CH8/EX8.2.2/Example_8_2_2.sce#S##102121
+8#optical receiver operation#8.2.1#quantum limit#Example_8_2_1.sce#2399/CH8/EX8.2.1/Example_8_2_1.sce#S##102118
+8#optical receiver operation#7.q#maximum responce time#Question_7.sce#2399/CH8/EX7.q/Question_7.sce#S##102134
+7#Source to Fiber Power Launching and Photodetectors#7.9.2#shot noise and thermal noise#Example_7_9_2.sce#2399/CH7/EX7.9.2/Example_7_9_2.sce#S##102136
+7#Source to Fiber Power Launching and Photodetectors#7.9.1#noise equivalent power and specific directivity#Example_7_9_1.sce#2399/CH7/EX7.9.1/Example_7_9_1.sce#S##102133
+7#Source to Fiber Power Launching and Photodetectors#7.8.2#response time#Example_7_8_2.sce#2399/CH7/EX7.8.2/Example_7_8_2.sce#S##102131
+7#Source to Fiber Power Launching and Photodetectors#7.8.1#drift time and capacitance#Example_7_8_1.sce#2399/CH7/EX7.8.1/Example_7_8_1.sce#S##102130
+7#Source to Fiber Power Launching and Photodetectors#7.5.8#quantum efficiency #Example_7_5_8.sce#2399/CH7/EX7.5.8/Example_7_5_8.sce#S##102127
+7#Source to Fiber Power Launching and Photodetectors#7.5.7#wavelength responsivity and optical power#Example_7_5_7.sce#2399/CH7/EX7.5.7/Example_7_5_7.sce#S##102125
+7#Source to Fiber Power Launching and Photodetectors#7.5.6#wavelength#Example_7_5_6.sce#2399/CH7/EX7.5.6/Example_7_5_6.sce#S##102123
+7#Source to Fiber Power Launching and Photodetectors#7.5.4#responsivity#Example_7_5_4.sce#2399/CH7/EX7.5.4/Example_7_5_4.sce#S##102122
+7#Source to Fiber Power Launching and Photodetectors#7.5.3#responsivity#Example_7_5_3.sce#2399/CH7/EX7.5.3/Example_7_5_3.sce#S##102120
+7#Source to Fiber Power Launching and Photodetectors#7.5.2#photocurrent#Example_7_5_2.sce#2399/CH7/EX7.5.2/Example_7_5_2.sce#S##102119
+7#Source to Fiber Power Launching and Photodetectors#7.5.1#wavelength#Example_7_5_1.sce#2399/CH7/EX7.5.1/Example_7_5_1.sce#S##102117
+7#Source to Fiber Power Launching and Photodetectors#7.2.3#optical power#Example_7_2_3.sce#2399/CH7/EX7.2.3/Example_7_2_3.sce#S##102116
+7#Source to Fiber Power Launching and Photodetectors#7.2.2#optical power#Example_7_2_2.sce#2399/CH7/EX7.2.2/Example_7_2_2.sce#S##102115
+7#Source to Fiber Power Launching and Photodetectors#7.2.1#Fresenel Reflection and Power loss#Example_7_2_1.sce#2399/CH7/EX7.2.1/Example_7_2_1.sce#S##102113
+7#Source to Fiber Power Launching and Photodetectors#7.10.3#multiplication factor#Example_7_10_3.sce#2399/CH7/EX7.10.3/Example_7_10_3.sce#S##102140
+7#Source to Fiber Power Launching and Photodetectors#7.10.2#multiplication factor#Example_7_10_2.sce#2399/CH7/EX7.10.2/Example_7_10_2.sce#S##102139
+7#Source to Fiber Power Launching and Photodetectors#7.10.1#multiplication factor#Example_7_10_1.sce#2399/CH7/EX7.10.1/Example_7_10_1.sce#S##102137
+6#optical sources#6.8.3#operating lifetime#Example6_8_3.sce#2399/CH6/EX6.8.3/Example6_8_3.sce#S##102114
+6#optical sources#6.8.2#power#Example6_8_2.sce#2399/CH6/EX6.8.2/Example6_8_2.sce#S##102112
+6#optical sources#6.8.1#bandwidth#Example6_8_1.sce#2399/CH6/EX6.8.1/Example6_8_1.sce#S##102111
+6#optical sources#6.7.1#power#Example6_7_1.sce#2399/CH6/EX6.7.1/Example6_7_1.sce#S##102110
+6#optical sources#6.3.2#longitudinal modes#Example_6_3_2.sce#2399/CH6/EX6.3.2/Example_6_3_2.sce#S##102109
+6#optical sources#6.3.1#operating wavelength#Example_6_3_1.sce#2399/CH6/EX6.3.1/Example_6_3_1.sce#S##102104
+5#optical fiber connection splicing#5.6.2#average insertion loss#Example_5_6_2.sce#2399/CH5/EX5.6.2/Example_5_6_2.sce#S##102101
+5#optical fiber connection splicing#5.6.1#split ratio#Example_5_6_1.sce#2399/CH5/EX5.6.1/Example_5_6_1.sce#S##102098
+5#optical fiber connection splicing#5.4.2#angular misalignment loss#Example_5_4_2.sce#2399/CH5/EX5.4.2/Example_5_4_2.sce#S##102096
+5#optical fiber connection splicing#5.4.1#loss#Example_5_4_1.sce#2399/CH5/EX5.4.1/Example_5_4_1.sce#S##102094
+5#optical fiber connection splicing#5.2.3#loss#Example_5_2_3.sce#2399/CH5/EX5.2.3/Example_5_2_3.sce#S##102093
+5#optical fiber connection splicing#5.2.2#loss#Example_5_2_2.sce#2399/CH5/EX5.2.2/Example_5_2_2.sce#S##102092
+5#optical fiber connection splicing#5.2.1#loss#Example_5_2_1.sce#2399/CH5/EX5.2.1/Example_5_2_1.sce#S##102091
+4#Signal degradation in fibers#4.8.2#singal mode and multi mode#Example_4_8_2.sce#2399/CH4/EX4.8.2/Example_4_8_2.sce#S##102086
+4#Signal degradation in fibers#4.8.1#critical radius#Example_4_8_1.sce#2399/CH4/EX4.8.1/Example_4_8_1.sce#S##102085
+4#Signal degradation in fibers#4.7.1#threshold power#Example_4_7_1.sce#2399/CH4/EX4.7.1/Example_4_7_1.sce#S##102084
+4#Signal degradation in fibers#4.6.2#attenuation#Example_4_6_2.sce#2399/CH4/EX4.6.2/Example_4_6_2.sce#S##102083
+4#Signal degradation in fibers#4.6.1#attenuation#Example_4_6_1.sce#2399/CH4/EX4.6.1/Example_4_6_1.sce#S##102082
+4#Signal degradation in fibers#4.3.1#input output ratio#Example_4_3_1.sce#2399/CH4/EX4.3.1/Example_4_3_1.sce#S##102081
+4#Signal degradation in fibers#4.17.1#maximum bit rate#Example_4_17_1.sce#2399/CH4/EX4.17.1/Example_4_17_1.sce#S##102090
+4#Signal degradation in fibers#4.15.1#rms pulse#Example_4_15_1.sce#2399/CH4/EX4.15.1/Example_4_15_1.sce#S##102089
+4#Signal degradation in fibers#4.14.1#bandwidth#Example_4_14_1.sce#2399/CH4/EX4.14.1/Example_4_14_1.sce#S##102088
+4#Signal degradation in fibers#4.13.1#material dispersion#Example_4_13_1.sce#2399/CH4/EX4.13.1/Example_4_13_1.sce#S##102087
+2#optical fibers#5.q#modal birefringence#Question_5.sce#2399/CH2/EX5.q/Question_5.sce#S##102147
+2#optical fibers#4.q#birefringence#Question_4.sce#2399/CH2/EX4.q/Question_4.sce#S##102146
+2#optical fibers#2.9.2#output power#Example2_9_2.sce#2399/CH2/EX2.9.2/Example2_9_2.sce#S##102074
+2#optical fibers#2.9.1#modal birefringence#Example2_9_1.sce#2399/CH2/EX2.9.1/Example2_9_1.sce#S##102073
+2#optical fibers#2.8.9#cut off parameter#Example2_8_9.sce#2399/CH2/EX2.8.9/Example2_8_9.sce#S##102072
+2#optical fibers#2.8.8#guided modes#Example2_8_8.sce#2399/CH2/EX2.8.8/Example2_8_8.sce#S##102070
+2#optical fibers#2.8.7#guided modes#Example2_8_7.sce#2399/CH2/EX2.8.7/Example2_8_7.sce#S##102069
+2#optical fibers#2.8.6#core diameter#Example2_8_6.sce#2399/CH2/EX2.8.6/Example2_8_6.sce#S##102068
+2#optical fibers#2.8.5#guided modes#Example2_8_5.sce#2399/CH2/EX2.8.5/Example2_8_5.sce#S##102067
+2#optical fibers#2.8.4#normalized frequency#Example2_8_4.sce#2399/CH2/EX2.8.4/Example2_8_4.sce#S##102062
+2#optical fibers#2.8.3#solid angle#Example2_8_3.sce#2399/CH2/EX2.8.3/Example2_8_3.sce#S##102060
+2#optical fibers#2.8.2#cutoff wavelength#Example2_8_2.sce#2399/CH2/EX2.8.2/Example2_8_2.sce#S##102058
+2#optical fibers#2.8.1#normalized frequency and guided modes#Example2_8_1.sce#2399/CH2/EX2.8.1/Example2_8_1.sce#S##102056
+2#optical fibers#2.6.1#acceptance angle#Example2_6_1.sce#2399/CH2/EX2.6.1/Example2_6_1.sce#S##102054
+2#optical fibers#2.5.4#full cone angle#Example2_5_4.sce#2399/CH2/EX2.5.4/Example2_5_4.sce#S##102053
+2#optical fibers#2.5.3#acceptance angle#Example2_5_3.sce#2399/CH2/EX2.5.3/Example2_5_3.sce#S##102051
+2#optical fibers#2.5.2#refractive index#Example2_5_2.sce#2399/CH2/EX2.5.2/Example2_5_2.sce#S##102049
+2#optical fibers#2.5.1#criticle anlge NA nad accerptance angle#ex_2_5_1.sce#2399/CH2/EX2.5.1/ex_2_5_1.sce#S##88935
+2#optical fibers#2.4.1#NA and critical angle#ex_2_4_1.sce#2399/CH2/EX2.4.1/ex_2_4_1.sce#S##88934
+2#optical fibers#2.17.1#entrance angle#Example2_17_1.sce#2399/CH2/EX2.17.1/Example2_17_1.sce#S##102080
+2#optical fibers#2.12.4#delay diffrence#Example2_12_4.sce#2399/CH2/EX2.12.4/Example2_12_4.sce#S##102079
+2#optical fibers#2.12.3#guided modes#Example2_12_3.sce#2399/CH2/EX2.12.3/Example2_12_3.sce#S##102078
+2#optical fibers#2.12.2#cut off number#Example2_12_2.sce#2399/CH2/EX2.12.2/Example2_12_2.sce#S##102076
+2#optical fibers#2.12.1#cut off wavelength#Example2_12_1.sce#2399/CH2/EX2.12.1/Example2_12_1.sce#S##102075
+1#Overview of Optical Fiber Communciations#10.q#duration#question_10.sce#2399/CH1/EX10.q/question_10.sce#S##88933
+1#Overview of Optical Fiber Communciations#1.6.1#duration#Example_1_6_1.sce#2399/CH1/EX1.6.1/Example_1_6_1.sce#S##97441
+1#Overview of Optical Fiber Communciations#1.12.1#capacity#Example_1_12_1.sce#2399/CH1/EX1.12.1/Example_1_12_1.sce#S##97443

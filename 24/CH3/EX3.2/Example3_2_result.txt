@@ -1,0 +1,2 @@
+**Sample Problem 3-2**
+The plane is 199.344529 km in the north & 80.540418 in the east 

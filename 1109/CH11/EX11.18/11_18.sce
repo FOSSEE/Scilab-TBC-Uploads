@@ -1,0 +1,21 @@
+clear;
+clc;
+Rg=8000;Zl=500+(%i*500);f=5*(10^6);
+//value of f as taken in solution
+w=2*%pi*f;
+Xc=-%i*imag(Zl);
+Rl=real(Zl);
+X21=sqrt(Rl*(Rg-Rl));
+X22=-X21;
+X31=-Rg*sqrt(Rg/(Rg-Rl));
+X32=-X31;
+X2a=X21+(Xc/%i);
+L2a=X2a/w;
+C3a=-1/(w*X31);
+printf("(a)X2 is inductive and X3 is capacitive where\n   X2=L2 = %f mH\n",round(L2a*(10^3)*1000)/1000);
+printf("   X3=C3 = %f pf\n",round(C3a*(10^12)*1000)/1000);
+X2b=X22+(Xc/%i);
+C2b=-1/(w*X2b);
+L3b=X32/w;
+printf("(b)X2 is capacitive and X3 is inductive where\n   X2=C2 = %f pf\n",round(C2b*(10^12)*100)/100);
+printf("   X3=L3 = %f mH",round(L3b*(10^3)*1000)/1000);

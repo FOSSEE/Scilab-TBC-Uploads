@@ -1,0 +1,2 @@
+Output voltage is 10 Volts when input voltage is low
+Output voltage is 2 Volts when input voltage is high

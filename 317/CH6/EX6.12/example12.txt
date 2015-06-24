@@ -1,0 +1,1 @@
+If power dissipation is less than rated power at ambient temperatureor ambient temperature doesnt increase,transistor is safe 

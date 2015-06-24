@@ -1,0 +1,11 @@
+ Z_p in per unit =    
+ 
+    0.02i  
+ 
+ Z_s in per unit =    
+ 
+    0.05i  
+ 
+ Z_t in per unit =    
+ 
+    0.07i  

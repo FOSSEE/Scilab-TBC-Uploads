@@ -1,0 +1,11 @@
+Resistance of lamp L1 = R1 = 529.00 ohm 
+
+Resistance of lamp L2 = R2 = 352.67 ohm 
+
+Curretn through lamps = 0.454 A 
+
+Voltage across lamp L1 = V1 = 240 V 
+
+Voltage across lamp L2 = V2 = 160 V 
+
+

@@ -1,0 +1,11 @@
+**Sample Problem 7-4a**
+The work done by the force of gravity is -5096J
+
+**Sample Problem 7-4b**
+The work done by Chemerkins force is 5096J
+
+**Sample Problem 7-4c**
+The Work done in helding the object stationary is 0, as the dispacement is 0
+
+**Sample Problem 7-4d**
+The work done by the gravity is 279J 

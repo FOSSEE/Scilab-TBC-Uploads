@@ -1,0 +1,3 @@
+ # PROBLEM 6.6 # 
+
+ Largest passible feed rate = 35.683752 mm/min 

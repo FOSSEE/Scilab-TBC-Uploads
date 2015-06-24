@@ -1,0 +1,7 @@
+ Example 6.6
+
+ Part A:
+ Diffusion flux is 1.8e-07 cm^3 STP/(cm^2-s)
+
+ Part B:
+ Self life for bottle of pop is 94 days (or about 3 months).

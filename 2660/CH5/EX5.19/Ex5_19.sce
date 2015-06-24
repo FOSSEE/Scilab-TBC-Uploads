@@ -1,0 +1,23 @@
+clc
+Cn = 60000 // cost of new machine
+Sn = 5000 // scrap value of new machine
+So = 1000 // scrap value of old machine
+Nn = 200000 //annual production
+I = 10 // interest rate
+I = I/100
+M = 7 // allowance for maintenane
+M = M/100
+T = 6 // annual taxes
+T = T/100
+D = 1/10 // allowance for depreciation
+lco = 300 // labour charges for old machine
+m = 12 // months
+rco = 15000 // running charges for old machine
+pro = 50000 // production rate for old machine
+lcn = 500 // labour charges for new machine
+rcn = 10000 // running charges for old machine
+prn = 200000// production rate f
+Po = (lco*m + rco)/pro // labour and machine cost on old machine
+Pn = (lcn*m + rcn)/prn // labour and machine cost on new machine
+n =((Cn-Sn)-So)/((Nn*(Po-Pn))-Cn*(I+T+D+M)) //years
+printf("\n Years in which new machine will pay for itself = %0.2f years" , n)

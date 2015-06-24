@@ -1,0 +1,8 @@
+  
+ Drift Velocity (in m/s) =    
+ 
+    20.  
+ 
+ Time taken by electrons (in msec) =    
+ 
+    5.  

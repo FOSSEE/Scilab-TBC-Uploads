@@ -1,0 +1,4 @@
+ Example 4.11   
+Rotor induced emf at a slip E2=23.094011V
+Rotor impedence at a slip S, Z2=0.984886ohms
+rotor current=23.448415A 

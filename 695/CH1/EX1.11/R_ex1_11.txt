@@ -1,0 +1,7 @@
+ (1) Average emf induced in the coil (in volts)=   
+ 
+    1.5  
+ 
+ (2) Current through the coil (in Amperes)=   
+ 
+    0.025  

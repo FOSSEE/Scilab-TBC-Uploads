@@ -1,0 +1,2 @@
+**Sample Problem 12-8**
+The angular speed during the tuck should be 3.225565rev/s 

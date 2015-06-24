@@ -1,0 +1,15 @@
+ Cut-off wavelength (in cm) =   
+ 
+    20.  
+ 
+ Guide wavelength (in cm) =   
+ 
+    15.  
+ 
+ Phase velocity (in cm/s) =   
+ 
+    3.750D+10  
+ 
+ Group velocity (in cm/s) =   
+ 
+    2.400D+10  

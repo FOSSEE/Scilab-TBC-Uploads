@@ -1,0 +1,108 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example9.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            23   
+ 
+ Chapter Title                         :                              Systems programming I- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 9    :               Show the method of using lstatcall and struct stat to display file attributes
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However if possible some selected programmes have been TRIED TO BE IMPLEMENTED   
+ 
+ 3.For most of the programmes whose equivalent is NOT THERE IN SCILAB,only the output has been printed as given in the textbook w 
+      ith no interactive input as in the programme below                                                                          
+ 
+ 4.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+ 
+ 5.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat attributes.c      # to open the file emp.lst /* Program: attributes.c -- Uses lstat call and struct stat to display file attributes */
+#include <stdio.h>
+#include <sys/stath>
+
+void quit(char *,int);
+
+int main(int argc, char**argv) {
+    struct stat statbuf;     /*We'll use lstat to populate this*/
+    
+    if (lstat(argv[1], &statbuf) == -1)
+       quit("Couldn't stat file", 1);
+       
+    printf("File: %s\n",argv[1]);
+    printf("Inode number: %d \n",statbuf.st_ino);
+    printf("UID: %d ",statbuf.st_uid);
+    printf("GID: %d \n",statbuf.st_gid);
+    printf("Types and Permissions: %o\n",statbuf.st_mode);
+    printf("Number of links: %d \n",statbuf.st_nlink);
+    printf("Size in bytes: %d\n",statbuf.st_size);
+    printf("Blocks allocated: %d\n",statbuf.st_blocks);
+    printf("Last Modification Time: %s\n",ctime(&statbuf.st_mtime));
+    printf("Last Access Time: %s\n",ctime(&statbuf.st_atime));
+    exit(0);
+}
+ $ cc dir.c  
+    
+
+Here it displays a mock value since it is windows
+
+
+$ a.out /etc/passwd
+File: /etc/passwd
+Inode number: 54412
+UID: 0 GID: 3
+Type and Permissions: 100755
+Number of links: 1
+Size in bytes: 10803
+Blocks allocated: 22
+Last Modification Time: Tue Nov 19 16:29:13 2002
+Last Access Time: Tue NOv 26 19:57:01 2002
+ 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+ 
+-->diary(0)

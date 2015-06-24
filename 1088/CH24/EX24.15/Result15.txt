@@ -1,0 +1,98 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('Example15.sci')
+ 
+-->clear
+ 
+-->flag=1
+ flag  =
+ 
+    1.  
+ 
+-->mode(-1)
+Current date is 23-Jun-2013 
+ 
+Welcome to the Textbook Companionship Project 2013 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Book Title                             :       UNIX CONCEPTS AND APPLICATIONS    
+ 
+ Book Edition                         :                                                                           4   
+ 
+ Book Author                          :                                                    Sumitabha Das   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Code Author                          :                                                     Pranav Bhat T   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ 
+ Chapter Number                    :                                                                            24   
+ 
+ Chapter Title                         :                              Systems programming II- Files   
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Example 15    :       Show the effect of [Ctrl-c] in the shell so as to do some operations 
+ 
+ ****************************************************************   
+ 
+ Answer    :      
+ 
+ INSTRUCTIONS   :    
+  
+ 1.These programs are part of systems programming PURELY in Unix and the commands have NO EQUIVALENT IN SCILAB   
+  
+ 2.However the .c files which are displayed here are also made into a seperate file.If you are a unix user then try compiling and 
+       running the programme with gcc or cc compiler                                                                              
+  
+ 3.The outputs displayed here are just MOCK OUTPUTS which are DISPLAYED IN THE TEXTBOOK   
+  
+ 4.The inconvenience is regretted.   
+.............Press [ENTER] to continue.....	UNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)
+
+
+
+
+$ cat signal2.c      # to open the file emp.lst /* Program: signal2.c -- Handles SIGINT and SIGTSTP generated from terminal Required two [Ctrl-c]s to terminate */'
+#include <stdio.h>
+#include <unistd.h>
+#include <signal.h>
+
+void quit(char *message, int exit_status) ;
+void tstp_handler(int signo);    /* Handler for [Ctrl-z] */
+void int_handler(int signo);     /* Handler for [Ctrl-c] */
+int n, count=0;
+
+int main(void) {
+    signal(SIGTSTP, tstp_handler); /* Disposition for these two signals */
+    signal(SIGINT, int_handler);   /* set to enter respective handler */
+    signal(SIGQUIT, SIG_IGN);      /* Disposition set to ignore */
+    
+    fprintf(stderr,"Press [Ctrl-z] first, then [Ctrl-c]\n");
+    for(;;)
+     pause();                  /* Will return on reciept of help */
+}
+
+void tstp_handler(int signo) {
+     signal(SIGTSTP, tstp_handler);        /* Not entirely reliable */
+     fprintf(stderr, "Can't stop this program\n");  /* same signal can reset */
+}                                          /* disposition to default */
+
+void int_handler(int signo) {             /* Will terminate program */
+       signal(SIGINT, int_handler);        /* on second invocation */
+       (++count == 1) ? printf("Press again\n") : quit("Quitting", 1);
+ $ cc signal2.c $ a.out  Press [Ctrl-z] first, then [Ctrl-c]# [Ctrl - \] pressed                                       Signal Ignored  
+# [Ctrl - z] pressed                 
+Cannot stop this program                 From tstp_handler
+# [Ctrl - c] pressed                 
+Press again                     From int_handler
+# [Ctrl - c] pressed                 
+Quitting: Interrupted system call           From int_handler 
+
+
+$ exit        #To exit the current simulation terminal and return to Scilab console
+
+........# (hit [ENTER] for result)
+
+			BACK TO SCILAB CONSOLE...
+Loading initial environment 
+-->diary(0)

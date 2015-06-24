@@ -1,0 +1,3 @@
+
+ Energy gained per turn is 482.548632 eV.
+ Final energy is 120 MeV.

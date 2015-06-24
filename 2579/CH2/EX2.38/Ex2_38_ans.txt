@@ -1,0 +1,1 @@
+ The field strength is, E=sqrt(30*P*G)/r^2 V/m

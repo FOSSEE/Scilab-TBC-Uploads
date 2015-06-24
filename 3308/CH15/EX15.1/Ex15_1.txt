@@ -1,0 +1,5 @@
+ 
+ # Calculation of force in Hot Extrusion# 
+
+
+ Extrusion force=5.598940 MN 

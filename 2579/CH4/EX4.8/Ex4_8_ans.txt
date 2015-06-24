@@ -1,0 +1,5 @@
+ The first director length = 1.425000 meter
+ The second director length = 1.353750 meter
+ The third director length = 1.286063 meter
+ The support boom length in m = 2.400000 meter
+ The support boom length in ft. = 7 ft.

@@ -1,0 +1,5 @@
+**Sample Problem 37-3a**
+Angular sepration should be equal to 2.096875e-005rad
+
+**Sample Problem 37-3b**
+The sepration between the two images is 5.032500e-006m 

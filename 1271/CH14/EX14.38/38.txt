@@ -1,0 +1,7 @@
+ # PROBLEM 38 # 
+Standard formula used 
+  lambda = h/(2*m*E)^1/2.
+
+ de-Broglie wavelength of electron - (1) In first case is 0.548627 A. 
+ (2) In second case is 1.734911 A. 
+ (3) In third is 12.267676 A.

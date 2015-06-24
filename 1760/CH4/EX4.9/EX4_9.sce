@@ -1,0 +1,19 @@
+                  //EXAMPLE 4-9      PG NO-232-233
+X=[40 -8 -20;-8 18 -6;-20 -6 36];
+Y=[24 -8 -20;0 18 -6;0 -6 36];
+Z=[40 24 -20;-8 0 -6;-20 0 36];
+U=[40 -8 24;-8 18 0;-20 -6 0]
+I1=det(Y/X);
+disp('CURRENT = '+string((I1))+' A');
+I2=det(Z/X);
+disp(' CURRENT = '+string(I2)+' A');
+I3=det(U/X);
+disp(' CURRENT is = '+string(I3)+' A');
+IR3=I2;
+disp(' CURRENT is = '+string(IR3)+' A');
+IR4=0;
+disp(' CURRENT is = '+string(IR4)+' A');
+IR5=I1-I3;
+disp(' CURRENT is = '+string(IR5)+' A');
+IR6=I3;
+disp(' CURRENT is = '+string(IR6)+' A');

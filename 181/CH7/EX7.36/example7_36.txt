@@ -1,0 +1,1 @@
+Equation for drain current:Id = 12*(1-(Vgs/-5))^2 

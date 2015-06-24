@@ -1,0 +1,3 @@
+ # PROBLEM 7.3 # 
+
+ The minimum level of exposure of the PMMA surface = 11.304467 kJ/cm^3 

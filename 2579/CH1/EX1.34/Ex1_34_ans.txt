@@ -1,0 +1,2 @@
+ The distance when component of M-field three times the induction field = 0.477465*y
+ The distance when component of M-field 50 times the induction field= 7.957747*y 

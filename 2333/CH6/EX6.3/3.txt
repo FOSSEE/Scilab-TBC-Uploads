@@ -1,0 +1,8 @@
+# PROBLEM 3 # 
+
+ Standard formula used 
+ theta_c = asin(mu2 / mu1) * (180 / pi). 
+ NA = sqrt(mu1^2 - mu2^2). 
+ theta_0 = asin(NA) * (180 / pi). 
+
+ Acceptance angle of fiber in water is 8.648713 degree.

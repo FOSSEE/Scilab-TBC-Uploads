@@ -1,0 +1,7 @@
+Weight of water available = 9810.0 N 
+
+Power produced = 776.2 kW 
+
+Energy produced per hour = 776.2 kWh 
+
+

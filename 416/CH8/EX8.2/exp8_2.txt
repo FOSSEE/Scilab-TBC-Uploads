@@ -1,0 +1,8 @@
+  
+ example 8.2   
+
+average rate of inflow is 1000cu-m/sec
+power developed is 1250350.000000kW 
+ hydrograph is ploted in figure   
+
+storage capacity of given plant is 3000sec-m-month 

@@ -1,0 +1,2 @@
+**Sample Problem 9-4**
+The change in mometum vactor in kg.m/sec is 0.8i + 1.0j 

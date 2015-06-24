@@ -1,0 +1,2 @@
+**Sample Problem 21-2**
+The net entropy change in the reversible process is equal to 2.368852J/K

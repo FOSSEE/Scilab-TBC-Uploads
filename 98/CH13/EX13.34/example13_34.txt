@@ -1,0 +1,21 @@
+Load on positive side = 300 kW 
+
+Load on negative side = 250 kW 
+
+Load on outers = 200 kW 
+
+(i) Total load on main generator = 760 W 
+
+    Current supplied by main generator = 1520 A 
+
+(ii) Current in nuetral = 200 A 
+
+	 Current in machine A = 80 A 
+
+	 Current in machine B = 120 A 
+
+	 Load on machine A = 20 W 
+
+	 Load on machine B = 30 W 
+
+

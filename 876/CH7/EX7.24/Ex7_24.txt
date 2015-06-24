@@ -1,0 +1,11 @@
+(a)resolution of the voltmeter(in V)=   
+ 
+    0.0001  
+ 
+ (b)display of 16.58 in voltmeter on the 10V range(in V)=   
+ 
+    16.58  
+ 
+ (c)display of 0.7254 in voltmeter on the 1V range(in V)=   
+ 
+    0.7254  

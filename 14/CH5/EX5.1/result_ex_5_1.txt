@@ -1,0 +1,27 @@
+ Sending end voltage = 137842 /_27.77 V 
+
+ Sending end current = 332.28 /_26.34 V 
+
+
+
+ Sending end line voltage = 238.7 kV 
+
+
+
+ Sending end line current = 332.3 A 
+
+
+
+ Sending end power = 137362 kW 
+
+
+
+ Voltage Regulation = 24.7 percent 
+
+
+
+ Wavelength = 3042 mi 
+
+
+
+ Velocity = 182513 mi/s 

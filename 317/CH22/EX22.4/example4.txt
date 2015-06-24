@@ -1,0 +1,2 @@
+Trip point is 5 Volts
+Cutoff frequency is 0.239 Hertz

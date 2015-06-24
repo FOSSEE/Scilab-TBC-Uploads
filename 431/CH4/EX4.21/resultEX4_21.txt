@@ -1,0 +1,6 @@
+  
+ Example 4.21   
+the slip=0.025000
+rotor copper losses=0.975000kW
+output horse output=48.980286HP
+efficiency=90.062500percent 

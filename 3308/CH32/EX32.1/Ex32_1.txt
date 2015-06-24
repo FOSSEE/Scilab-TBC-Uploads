@@ -1,0 +1,4 @@
+ # Determination of Cofficient of Friction # 
+
+
+ With a 50 percent reduction in height and a 35 reduction in internal diameter, from the book data Cofficient of Friction = 0.21 

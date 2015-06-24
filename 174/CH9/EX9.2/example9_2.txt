@@ -1,0 +1,1 @@
+ The minimum detectable signal of the spectrum analyser = -124 dBm 

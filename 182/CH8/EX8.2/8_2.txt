@@ -1,0 +1,2 @@
+
+2.The range of Cx is from 0.001000 micro-F to 10 micro-F 

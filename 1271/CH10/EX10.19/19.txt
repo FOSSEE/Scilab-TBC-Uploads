@@ -1,0 +1,8 @@
+
+ # PROBLEM 19 # 
+Standard formula used 
+ E = (1 / (4 * pi * e0) * (q / r^2)). 
+ Electric field intensity-
+ (1) On the surface of the sphere = 8.991805e+03 N/C,
+ (2) At first point = 0 N/C,
+ (3) At second point = 3.596722e+02 N/C 

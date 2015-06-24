@@ -1,0 +1,3 @@
+bandwidth of CRO(in Hz)=   
+ 
+    17500000.

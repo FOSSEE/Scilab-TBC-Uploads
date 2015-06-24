@@ -1,0 +1,6 @@
+ # PROBLEM 7 # 
+Standard formula used 
+  mu_r = 1 + Chi 
+
+ Magnetic susceptibility is 100266.614148 .
+ Relative permeability is 1.002676e+05

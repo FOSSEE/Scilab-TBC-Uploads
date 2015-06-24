@@ -1,0 +1,4 @@
+
+ Example 4.29   
+Slip at maximium torque,Sm=0.040000
+full load speed,Nr=1485rpm 

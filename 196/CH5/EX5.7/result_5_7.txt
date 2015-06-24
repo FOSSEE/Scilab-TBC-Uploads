@@ -1,0 +1,7 @@
+Load current across Rl = -0.0005 A 
+
+Voltage across load resistance = -2.5000 V 
+
+Output Voltage = -10.0000 V  
+
+Vl and Il are reversed in polarity and direction respectively from example 5-6. If the polarity of E2 is reversed , Il and Vl change sign but not magnitude  

@@ -1,0 +1,4 @@
+ Laser source = 1.67 x 10^-10 
+Ordinary  source = 1.67 x 10^-7 
+ 
+ 

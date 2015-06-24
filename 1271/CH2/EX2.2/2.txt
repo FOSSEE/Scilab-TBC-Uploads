@@ -1,0 +1,1 @@
+﻿ Radius of  half period zone = 6.000000e-04 meter 

@@ -1,0 +1,3 @@
+ 
+ Example 10.1
+ Young’s modulus of material is 157 GN m^-2 

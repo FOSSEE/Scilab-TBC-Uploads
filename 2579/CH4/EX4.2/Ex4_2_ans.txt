@@ -1,0 +1,5 @@
+ The wavelength = 3 meter
+ The drive element = 1.500000 meter
+ The reflector = 1.575000 meter
+ The director = 1.425000 meter
+ The spacing between the elements = 0.600000 meter

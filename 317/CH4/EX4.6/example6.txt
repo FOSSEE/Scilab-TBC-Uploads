@@ -1,0 +1,2 @@
+dc load voltage is 34 volts
+ripple is 1.1 Vpp

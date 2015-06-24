@@ -1,0 +1,6 @@
+
+ # PROBLEM 29 # 
+ Standard formula used 
+ RP = 2*NA/lambda  
+
+ Maximum resolution power is 4000.

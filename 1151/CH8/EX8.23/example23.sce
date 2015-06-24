@@ -1,0 +1,9 @@
+s=%s;//find transfer function of the given system
+A =[-2 -1;-3 -2];
+B =[3;4];
+x =[2 1];
+[r c]= size (A)
+p=s*eye(r,c)-A // s*I-A
+q=inv(p)
+c=x*q*B;
+disp(c,"required transfer function =")

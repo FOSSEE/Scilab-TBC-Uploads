@@ -1,0 +1,2 @@
+**Sample Problem 18-2**
+The amplitude of sound will be 1.073739e-005m

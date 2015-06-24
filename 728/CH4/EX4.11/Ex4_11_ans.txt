@@ -1,0 +1,6 @@
+ TE01 cannot propagate   
+ 
+ TE10 can propagate   
+ 
+ TE11 cannot propagate   
+ 

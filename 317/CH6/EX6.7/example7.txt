@@ -1,0 +1,1 @@
+collector-emmiter voltage is 3.52 Volts

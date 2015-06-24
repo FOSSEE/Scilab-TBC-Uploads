@@ -1,0 +1,3 @@
+ # Problem 7 # 
+ Energy received per unit surface area per unit time is 1343.975075
+ Pressure applied by sun radiations on earth is 4.479917e-06 N/m^2 

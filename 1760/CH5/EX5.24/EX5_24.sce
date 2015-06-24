@@ -1,0 +1,15 @@
+Z1=10+%i*0;
+Z2=99.33-%i*49.09222;
+Z3=20+%i*0;
+Z4=10+%i*20;
+Z5=20.03+%i*30.03;
+Z6=15+%i*20;
+Z7=89.32-%i*49.105;
+IN=Z1+Z2-Z3;
+ZN=1/((1/Z4)+(1/Z5)+(1/Z6));
+VTH=(Z7/1000)*ZN;
+ZTH=ZN
+disp('i) Current (IN) is   in rectangular form   =  '+string (IN) +'V ');
+disp('i) Impedance (1/ZN) is  in rectangular form   =  '+string (1/ZN) +'V ');
+disp('i) Voltage (VTH) is in rectangular form      =  '+string (VTH) +'V ');
+disp('i) Impedance (ZTH) is  in  rectangular form   =  '+string (ZTH) +'ohm ');

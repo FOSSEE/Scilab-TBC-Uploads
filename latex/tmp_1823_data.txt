@@ -1,0 +1,96 @@
+10#Switched Mode Power Supplies#10.9#Example 10 page no 298#SolEx10_10.sce#1823/CH10/EX10.9/SolEx10_10.sce#S##112240
+10#Switched Mode Power Supplies#10.7#Find the maximum and minimum values of the inductor current#SolEx10_7.sce#1823/CH10/EX10.7/SolEx10_7.sce#S##112239
+10#Switched Mode Power Supplies#10.4#Determine the duty cycle and the output power#SolEx10_4.sce#1823/CH10/EX10.4/SolEx10_4.sce#S##112238
+10#Switched Mode Power Supplies#10.2#Determine the smallest value of duty cycle possible#SolEx10_2.sce#1823/CH10/EX10.2/SolEx10_2.sce#S##112236
+10#Switched Mode Power Supplies#10.1#Find the average values of input voltage and input current#SolEx10_1.sce#1823/CH10/EX10.1/SolEx10_1.sce#S##112235
+9#OPERATIONAL AMPLIFIERS#9.9#Find the regulated output vo in terms of VZ#SolEx9_9.sce#1823/CH9/EX9.9/SolEx9_9.sce#S##112232
+9#OPERATIONAL AMPLIFIERS#9.25#Find the value of Av#SolEx9_25.sce#1823/CH9/EX9.25/SolEx9_25.sce#S##112234
+9#OPERATIONAL AMPLIFIERS#9.2#Evaluate the gain of this inverting amplifier#SolEx9_2.sce#1823/CH9/EX9.2/SolEx9_2.sce#S##112231
+9#OPERATIONAL AMPLIFIERS#9.12#Find the value of C#SolEx9_12.sce#1823/CH9/EX9.12/SolEx9_12.sce#S##112233
+8#FREQUENCY EFFECTS IN AMPLIFIERS#8.8#Determine the low frequency gain the midfrequency gain and the low frequency cutoff point#SolEx8_8.sce#1823/CH8/EX8.8/SolEx8_8.sce#S##112230
+8#FREQUENCY EFFECTS IN AMPLIFIERS#8.6#Determine the low frequency voltage gain ratio if hie#SolEx8_6.sce#1823/CH8/EX8.6/SolEx8_6.sce#S##112229
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.7#Find the overall voltage gain Av and overall current gain ratio#SolEx7_7.sce#1823/CH7/EX7.7/SolEx7_7.sce#S##63401
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.4#Find the overall voltage gain Av and overall current gain ratio#SolEx7_4.sce#1823/CH7/EX7.4/SolEx7_4.sce#S##112221
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.3#Find the overall voltage gain Av and overall current gain ratio#SolEx7_3.sce#1823/CH7/EX7.3/SolEx7_3.sce#S##112220
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.22#Calculate the voltage gain#SolEx7_22.sce#1823/CH7/EX7.22/SolEx7_22.sce#S##112228
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.20#Evaluate the plate resistance#SolEx7_20.sce#1823/CH7/EX7.20/SolEx7_20.sce#S##112227
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.18#Find the perveance  k and the amplification factor m#SolEx7_18.sce#1823/CH7/EX7.18/SolEx7_18.sce#S##112226
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.12#Find Idm#SolEx7_12.sce#1823/CH7/EX7.12/SolEx7_12.sce#S##112224
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.11#Find the overall voltage gain Av and overall current gain ratio and output impedance R0#SolEx7_11.sce#1823/CH7/EX7.11/SolEx7_11.sce#S##112222
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.10#Find the overall voltage gain Av and overall current gain ratio and output impedance R0#SolEx7_10.sce#1823/CH7/EX7.10/SolEx7_10.sce#S##112223
+7#SMALL SIGNAL MIDFREQUENCY FET AND TRIODE AMPLIFIERS#7.1#Determine the small signal equivalent circuit constants gm and rds#SolEx7_1.sce#1823/CH7/EX7.1/SolEx7_1.sce#S##112219
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.8#determine the voltage gain Av#SolEx6_8.sce#1823/CH6/EX6.8/SolEx6_8.sce#S##112214
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.7#Calculate the voltage gain Av and the current gain Ai#SolEx6_7.sce#1823/CH6/EX6.7/SolEx6_7.sce#S##112213
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.27#Find the overall voltage gain Av and overall current gain ratio#SolEx6_27.sce#1823/CH6/EX6.27/SolEx6_27.sce#S##112218
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.26#Find the overall voltage gain Av#SolEx6_26.sce#1823/CH6/EX6.26/SolEx6_26.sce#S##112217
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.24#Find the overall voltage gain Av#SolEx6_24.sce#1823/CH6/EX6.24/SolEx6_24.sce#S##63395
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.22#Find the overall voltage gain Av#SolEx6_22.sce#1823/CH6/EX6.22/SolEx6_22.sce#S##112216
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.2#Find an expression for the current gain ratio Ai#SolEx6_2.sce#1823/CH6/EX6.2/SolEx6_2.sce#S##112212
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.19#Find Ai and iL#SolEx6_19.sce#1823/CH6/EX6.19/SolEx6_19.sce#S##63393
+6#SMALL SIGNAL MIDFREQUENCY BJT AMPLIFIERS#6.18#Find Ai and Av#SolEx6_18.sce#1823/CH6/EX6.18/SolEx6_18.sce#S##112215
+5#TRANSISTOR BIAS CONSIDERATIONS#5.9#Find the sensitivity factor Sb and use it to calculate the change in ICQ#SolEx5_9.sce#1823/CH5/EX5.9/SolEx5_9.sce#S##63382
+5#TRANSISTOR BIAS CONSIDERATIONS#5.8#Example 5 8 page no 146 Find ICQ IBQ and VCEQ#SolEx5_8.sce#1823/CH5/EX5.8/SolEx5_8.sce#S##112205
+5#TRANSISTOR BIAS CONSIDERATIONS#5.6#Find ICQ and VCEQ#SolEx5_6.sce#1823/CH5/EX5.6/SolEx5_6.sce#S##112203
+5#TRANSISTOR BIAS CONSIDERATIONS#5.28#Find the range of Idq#SolEx5_28.sce#1823/CH5/EX5.28/SolEx5_28.sce#S##112211
+5#TRANSISTOR BIAS CONSIDERATIONS#5.26#Find the Range of Vdsq#SolEx5_26.sce#1823/CH5/EX5.26/SolEx5_26.sce#S##112210
+5#TRANSISTOR BIAS CONSIDERATIONS#5.25#Find Vdsqmax and Vdsqmin#SolEx5_25.sce#1823/CH5/EX5.25/SolEx5_25.sce#S##112209
+5#TRANSISTOR BIAS CONSIDERATIONS#5.19#Predict the change that will occur in ICQ as RE changes#SolEx5_19.sce#1823/CH5/EX5.19/SolEx5_19.sce#S##112208
+5#TRANSISTOR BIAS CONSIDERATIONS#5.16#Find an expression for ICQ at any temperature#SolEx5_16.sce#1823/CH5/EX5.16/SolEx5_16.sce#S##112207
+5#TRANSISTOR BIAS CONSIDERATIONS#5.11#Example 11 page no 148 Find the exact change in ICQ#SolEx5_11.sce#1823/CH5/EX5.11/SolEx5_11.sce#S##112206
+5#TRANSISTOR BIAS CONSIDERATIONS#5.1#Find leakage current at 90 c#SolEx5_1.sce#1823/CH5/EX5.1/SolEx5_1.sce#S##112202
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.8#Determine appropriate values of RS and RD#SolEx4_8.sce#1823/CH4/EX4.8/SolEx4_8.sce#S##112189
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.5#Find VGG RS  and RD#SolEx4_5.sce#1823/CH4/EX4.5/SolEx4_5.sce#S##112188
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.26#Calculate the plate efficiency of the amplifier#SolEx4_26.sce#1823/CH4/EX4.26/SolEx4_26.sce#S##112201
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.24#find the perveance   and the amplification factor m#SolEx4_24.sce#1823/CH4/EX4.24/SolEx4_24.sce#S##112200
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.23#Find Vdsq Vgsq and Idq#SolEx4_23.sce#1823/CH4/EX4.23/SolEx4_23.sce#S##112199
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.20#Find Vgsq#SolEx4_20.sce#1823/CH4/EX4.20/SolEx4_20.sce#S##112198
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.2#Calculate IDQ from the analog#SolEx4_2.sce#1823/CH4/EX4.2/SolEx4_2.sce#S##112187
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.19#Find Vgsq1 Vgsq2 Vdsq1 Vdsq2 Idq2#SolEx4_19.sce#1823/CH4/EX4.19/SolEx4_19.sce#S##112197
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.18#find VDSQ1 IDQ1  VGSQ1 VGSQ2 and VDSQ2#SolEx4_18.sce#1823/CH4/EX4.18/SolEx4_18.sce#S##112196
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.14#find IDQ and VGSQ#SolEx4_14.sce#1823/CH4/EX4.14/SolEx4_14.sce#S##112195
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.13#Find VGSQ if IDQ 16mA and IDQ if VGSQ 5V#SolEx4_13.sce#1823/CH4/EX4.13/SolEx4_13.sce#S##112194
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.11#Find VGSQ IDQ and VDSQ#SolEx4_11.sce#1823/CH4/EX4.11/SolEx4_11.sce#S##112191
+4#CHARACTERISTICS OF FIELD EFFECT TRANSISTORS AND TRIODES#4.10#Solved Example Ex 10 page no 121   Find Vdd and Vdsq#SolEx4_10.sce#1823/CH4/EX4.10/SolEx4_10.sce#S##112190
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.9#Find the Q point collector current ICQ#SolEx3_9.sce#1823/CH3/EX3.9/SolEx3_9.sce#S##112179
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.8#Find Rc and beta#SolEx3_8.sce#1823/CH3/EX3.8/SolEx3_8.sce#S##112178
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.7#Find Vceq#SolEx3_7.sce#1823/CH3/EX3.7/SolEx3_7.sce#S##112177
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.6#Find VCEQ if RC is changed to 6 k#SolEx3_6.sce#1823/CH3/EX3.6/SolEx3_6.sce#S##112176
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.5#Find the required value of RB#SolEx3_5.sce#1823/CH3/EX3.5/SolEx3_5.sce#S##112175
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.4#Find beta Icq and Ieq#SolEx3_4.sce#1823/CH3/EX3.4/SolEx3_4.sce#S##112174
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.32#Solved Example Ex 32 page no 99   Determine the value of RB#SolEx3_32.sce#1823/CH3/EX3.32/SolEx3_32.sce#S##112186
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.3#Find Icq and Ieq#SolEx3_3.sce#1823/CH3/EX3.3/SolEx3_3.sce#S##112173
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.26#Solved Example Ex 26 page no 96   Find R1 and R2#SolEx3_26.sce#1823/CH3/EX3.26/SolEx3_26.sce#S##112185
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.23#Solved Example Ex 23 page no 94   find  IBQ and VCEQ#Solex3_23.sce#1823/CH3/EX3.23/Solex3_23.sce#S##112184
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.20#Find the value of R1 needed to bias the circuit so that VCEQ2 6V#SolEx3_20.sce#1823/CH3/EX3.20/SolEx3_20.sce#S##112183
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.2#Find the collector current#SolEx3_2.sce#1823/CH3/EX3.2/SolEx3_2.sce#S##112172
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.19#Find the value of RB that just results in saturation#SolEx3_19.sce#1823/CH3/EX3.19/SolEx3_19.sce#S##112182
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.16#Solved Example Ex 16 page no 89 Find the minimum value of RC#SolEx3_16.sce#1823/CH3/EX3.16/SolEx3_16.sce#S##63360
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.13#Solved Example Ex 13 page no 88 Find Re#SolEx3_13.sce#1823/CH3/EX3.13/SolEx3_13.sce#S##112181
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.12#Solved Example Ex12 page no 87 Find Re#SolEx3_12.sce#1823/CH3/EX3.12/SolEx3_12.sce#S##112180
+3#CHARACTERISTICS OF BIPOLAR JUNCTION TRANSISTORS#3.1#Find Ib and Ie#SolEx3_1.sce#1823/CH3/EX3.1/SolEx3_1.sce#S##112171
+2#Semiconductor Diodes#2.9#Use the small signal technique to find iD and vD#SolEx2_9.sce#1823/CH2/EX2.9/SolEx2_9.sce#S##112163
+2#Semiconductor Diodes#2.7#Find iD and vD analytically#SolEx2_7.sce#1823/CH2/EX2.7/SolEx2_7.sce#S##112162
+2#Semiconductor Diodes#2.5#In the circuit D1 and D2 are ideal diodes and Find iD1 and iD2#SolEx2_5.sce#1823/CH2/EX2.5/SolEx2_5.sce#S##112161
+2#Semiconductor Diodes#2.31#Find the maximum allowable current iZ#SolEx2_31.sce#1823/CH2/EX2.31/SolEx2_31.sce#S##112170
+2#Semiconductor Diodes#2.30#Find the value of Vz#SolEx2_30.sce#1823/CH2/EX2.30/SolEx2_30.sce#S##112168
+2#Semiconductor Diodes#2.3#find the Vl#SolEx2_3.sce#1823/CH2/EX2.3/SolEx2_3.sce#S##112160
+2#Semiconductor Diodes#2.26#Find the value of R2 and Rth#SolEx2_26.sce#1823/CH2/EX2.26/SolEx2_26.sce#S##112169
+2#Semiconductor Diodes#2.2#find the forward current and the reverse saturation current#SolEx2_2.sce#1823/CH2/EX2.2/SolEx2_2.sce#S##112159
+2#Semiconductor Diodes#2.15#find the average value of vL#SolEx2_15.sce#1823/CH2/EX2.15/SolEx2_15.sce#S##112167
+2#Semiconductor Diodes#2.14#Find the percentage change in the average value of vL#SolEx2_14.sce#1823/CH2/EX2.14/SolEx2_14.sce#S##112166
+2#Semiconductor Diodes#2.13#Find the regulation of vo when Vb increases#SolEx2_13.sce#1823/CH2/EX2.13/SolEx2_13.sce#S##112165
+2#Semiconductor Diodes#2.11#Find the value of Rl#SolEx2_11.sce#1823/CH2/EX2.11/SolEx2_11.sce#S##112164
+2#Semiconductor Diodes#2.1#what range of forward voltage drop vD can  be approximated#SolEx2_1.sce#1823/CH2/EX2.1/SolEx2_1.sce#S##112158
+1#Circuit Analysis Port point of view#1.9#find the Thevenin impedance as the ratio of open circuit voltage to short circuit current#SolEx1_9.sce#1823/CH1/EX1.9/SolEx1_9.sce#S##112151
+1#Circuit Analysis Port point of view#1.8#find the Norton equivalent for the network to the left of terminals a andb#SolEx1_8.sce#1823/CH1/EX1.8/SolEx1_8.sce#S##112150
+1#Circuit Analysis Port point of view#1.7#find the Thevenin equivalent for the network to the left of terminals a and b#SolEx1_7.sce#1823/CH1/EX1.7/SolEx1_7.sce#S##112149
+1#Circuit Analysis Port point of view#1.6#For the circuit find iL by the method of node voltages#SoluEx1_6.sce#1823/CH1/EX1.6/SoluEx1_6.sce#S##112148
+1#Circuit Analysis Port point of view#1.5#For the circuit find vab#SolEx1_5.sce#1823/CH1/EX1.5/SolEx1_5.sce#S##112147
+1#Circuit Analysis Port point of view#1.4#For the circuit find vab#SoluEx1_4.sce#1823/CH1/EX1.4/SoluEx1_4.sce#S##112146
+1#Circuit Analysis Port point of view#1.3#Find the Thevenin equivalent voltage VTh and impedance ZTh for the network to the left of terminals#SoluEx1_3.sce#1823/CH1/EX1.3/SoluEx1_3.sce#S##112145
+1#Circuit Analysis Port point of view#1.2#Find the current i by superposition theorem#SoluEx1_2.sce#1823/CH1/EX1.2/SoluEx1_2.sce#S##112144
+1#Circuit Analysis Port point of view#1.19#Find the average value of the current and the rms value of the current#SolEx1_19.sce#1823/CH1/EX1.19/SolEx1_19.sce#S##112157
+1#Circuit Analysis Port point of view#1.15#Find the voltage gain ratio V2 by V1#SolEx1_15.sce#1823/CH1/EX1.15/SolEx1_15.sce#S##112155
+1#Circuit Analysis Port point of view#1.13#Determine the h parameters for the two port network#SolEx1_13.sce#1823/CH1/EX1.13/SolEx1_13.sce#S##112154
+1#Circuit Analysis Port point of view#1.12#Solve Problem using a SPICE method#SolEx1_12.sce#1823/CH1/EX1.12/SolEx1_12.sce#S##112153
+1#Circuit Analysis Port point of view#1.11#Determine the z parameters for the two port network#SoluEx1_11.sce#1823/CH1/EX1.11/SoluEx1_11.sce#S##112152

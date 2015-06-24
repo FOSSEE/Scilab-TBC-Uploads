@@ -1,0 +1,2 @@
+**Sample Problem 23-3**
+The electric field due to arc at point P is equal to 7.436163e+009Q/r^2 N/C

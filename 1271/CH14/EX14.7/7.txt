@@ -1,0 +1,5 @@
+ # PROBLEM 7 # 
+Standard formula used 
+ E = h*c/lambda 
+
+ Energy received by the eye per second is 4.255714e-17 W.

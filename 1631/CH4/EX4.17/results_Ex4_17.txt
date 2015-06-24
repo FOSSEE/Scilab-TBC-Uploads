@@ -1,0 +1,13 @@
+ quantizing level q=   
+ 
+    32.  
+ 
+ sampling rate fs=   
+ 
+    7.2  
+ 
+ kHz   
+ 
+ Number of binary digits =   
+ 
+    5. 

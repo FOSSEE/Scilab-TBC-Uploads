@@ -1,0 +1,1 @@
+ voltage available at the terminals in micro volt = 168.809309 uV

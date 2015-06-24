@@ -1,0 +1,3 @@
+(a)R = 3.75e+003 ohm
+I_L = I_max when Id = Id_min = 10mA
+(b)Maximum load current = 30 mA 

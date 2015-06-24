@@ -1,0 +1,4 @@
+ 
+ example 14_11   
+change in frequency is -0.01307Hz 
+change in power -0.003333 p.u.MW 

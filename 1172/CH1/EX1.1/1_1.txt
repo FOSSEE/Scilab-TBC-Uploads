@@ -1,0 +1,5 @@
+ # Problem 1 # 
+ 
+ Standard formula used 
+  beta= lambda*D/d 
+ Separation between sources is 0.110000 cm. 

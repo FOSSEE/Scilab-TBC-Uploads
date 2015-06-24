@@ -1,0 +1,9 @@
+**Sample Problem 7-2a**
+The spies transfer 1.534484e+002J amount of energy during the given displacement
+
+**Sample Problem 7-2b**
+Work done by the normal in the process is 0J
+Work done by the gravity in the process is 0J
+
+**Sample Problem 7-2c**
+The final velocity of the safe is equal to 1.167898e+000 

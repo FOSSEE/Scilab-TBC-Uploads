@@ -1,0 +1,5 @@
+# Problem 24 # 
+
+ Standard formula used E^2 = p^2*c^2 + m_o^2*c^4*
+ Momentum of photon is 9.044679e-16 kg m/s.
+ 

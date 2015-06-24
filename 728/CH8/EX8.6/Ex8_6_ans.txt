@@ -1,0 +1,12 @@
+Repeller voltage(in volts) =   
+ 
+    503.39116  
+ 
+ Necessary beam current (in Amp.s) =   
+ 
+    0.0085911  
+ 
+ Effeciency  (in percentage) =   
+ 
+    15.278875  
+ 

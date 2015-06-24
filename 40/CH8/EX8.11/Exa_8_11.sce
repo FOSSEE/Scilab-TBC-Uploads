@@ -1,0 +1,27 @@
+//Effects of leakage
+n1=0:0.005:0.1;
+n2=0:0.005:0.125;
+n3=0:0.005:1.125;
+xt1=(2*cos(20*%pi*n1')+5*cos(100*%pi*n1'));
+xt2=(2*cos(20*%pi*n2')+5*cos(100*%pi*n2'));
+xt3=(2*cos(20*%pi*n3')+5*cos(100*%pi*n3'));
+XDFS1=abs(dft(xt1,-1))/20;
+XDFS2=abs(dft(xt2,-1))/25;
+XDFS3=abs(dft(xt3,-1))/225;
+f1=0:5:100;
+f2=0:4:100;
+f3=0:100/225:100;
+a=gca();
+a.x_location="origin";
+plot2d3('gnn',f1,XDFS1);
+xlabel('analog frequency');
+ylabel('Magnitude');
+xset('window',1);
+subplot(211);
+plot2d3('gnn',f2,XDFS2);
+xlabel('analog frequency');
+ylabel('Magnitude');
+subplot(212);
+plot2d3('gnn',f3,XDFS3);
+xlabel('analog frequency');
+ylabel('Magnitude');

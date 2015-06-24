@@ -1,0 +1,2 @@
+ Speed according to classical mechanics is 1.875229e+08 meter/sec.
+ Speed according to relativistic mechanics is 1.643590e+08 meter/sec.

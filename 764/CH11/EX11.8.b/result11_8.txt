@@ -1,0 +1,64 @@
+-->//(Friction CLutches) Example 11.8
+ 
+-->//Number of steel plates in the multi-disk friction clutch s
+ 
+-->s = 5
+ s  =
+ 
+    5.  
+ 
+-->//Number of bronze plates in the multi-disk friction clutch b
+ 
+-->b = 4
+ b  =
+ 
+    4.  
+ 
+-->//Inner diameter of the friction disk d (mm)
+ 
+-->d = 75
+ d  =
+ 
+    75.  
+ 
+-->//Outer diameter of the friction disk D (mm)
+ 
+-->D = 150
+ D  =
+ 
+    150.  
+ 
+-->//Coefficient of friction between steel and bronze plates mu
+ 
+-->mu = 0.1
+ mu  =
+ 
+    0.1  
+ 
+-->//Permissible intensity of pressure on friction lining Pa (MPa)
+ 
+-->Pa = 0.3
+ Pa  =
+ 
+    0.3  
+ 
+-->//Number of revolutions of the clutch per minute n (rpm)
+ 
+-->n = 750
+ n  =
+ 
+    750.  
+ 
+
+Applying uniform-wear theory
+
+Results
+
+The total operating force(P)= 2650.718801 N
+
+Number of pairs of contacting surfaces(z)= 8.000000
+
+The torque transmitting capacity of the clutch(Mf)= 119282.346066 N-mm
+
+The power transmitting capacity of the clutch(kW)= 9.368414
+ 

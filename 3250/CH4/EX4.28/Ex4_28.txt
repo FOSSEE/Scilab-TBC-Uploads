@@ -1,0 +1,3 @@
+ # PROBLEM 4.28 # 
+ 
+  Optimum cutting speed for maximum production rate for the job = 47.920733 m/min 

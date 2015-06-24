@@ -1,0 +1,9 @@
+
+ # Heat Generated in Spot Welding # 
+
+
+ Heat Generated = 500 J
+
+ Heat Required to melt weld nugget = 336 J
+
+ Heat Dissipitated into the metal surrounding the nugget = 164 J 

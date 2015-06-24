@@ -1,0 +1,8 @@
+   i)Channel Matrix  [P(Y/X)]=   
+ 
+    0.9    0.1  
+    0.2    0.8  
+
+  ii) P(y1)=0.55 and P(y2)=0.45 
+
+ iii)P(x1y2)=0.05 and P(x2y1)=0.10

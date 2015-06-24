@@ -1,0 +1,5 @@
+ # Problem 9  # 
+ standard formula used 
+ phi = sigma*A*cos(theta)/(2*epsilon_0) 
+
+Flux through coil is  1.774911e+03 Nm^2/C.

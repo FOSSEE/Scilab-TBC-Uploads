@@ -1,0 +1,28 @@
+ 
+
+
+Mutual GMD between bundles of phases a and b = 6.994m
+
+Mutual GMD between bundles of phases b and c = 6.994m
+
+Mutual GMD between bundles of phases c and a = 13.997m
+
+Equivalent GMD = 8.814m
+
+Self GMD of the bundles = 0.073m
+
+Inductive reactance per phase = 0.301 ohms/km
+
+
+ When radius of conductors are neglected and only distance between conductors are used, we get below results:
+
+Equivalent mean distance is = 8.819447
+
+Inductive reactance per phase = 0.301 ohms/km
+
+
+When bundle of conductors are replaced by an equivalent single conductor:
+
+Inductive reactance per phase = 0.515 ohms/km
+
+This is 71.04 higher than corresponding value for a bundled conductor line. 

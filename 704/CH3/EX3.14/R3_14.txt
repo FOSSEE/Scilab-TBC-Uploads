@@ -1,0 +1,4 @@
+Resultant current taken by the primary(in Amp)=   
+ 
+    6.617564  
+ 

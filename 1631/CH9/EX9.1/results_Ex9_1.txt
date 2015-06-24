@@ -1,0 +1,6 @@
+ Information Content 
+
+ 	I(x1) =  1 bit 
+ 	I(x2) =  2 bits
+ 	I(x3) =  3 bits
+ 	I(x4) =  3 bits

@@ -1,0 +1,14 @@
+
+Overall efficiency = 29.70 % 
+
+Coal used/annum = 10000000.00 kg
+
+Heat of combustion = 50000000000.00 kcal 
+
+Heat output = 14850000000.00 kcal 
+
+Units generated per annum = 17267442 kWh 
+
+Average load on station = 1971.2 kW 
+
+

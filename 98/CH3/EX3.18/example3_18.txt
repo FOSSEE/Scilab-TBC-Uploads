@@ -1,0 +1,7 @@
+Units generated per day = 925 MWh 
+
+Average load = 38541.7 kW 
+
+Load factor = 55.06 % 
+
+

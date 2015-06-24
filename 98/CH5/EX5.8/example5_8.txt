@@ -1,0 +1,7 @@
+Units consumed per year = 525600 kWh 
+
+Max demand in kVA = 125 kWh 
+
+Annual bill = 88215 kWh 
+
+

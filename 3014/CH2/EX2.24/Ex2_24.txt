@@ -1,0 +1,4 @@
+
+Example 2.24
+ Energy of electron for state 1 is 6.038036 eV.
+ Energy of electron for state 2 is 24.152143 eV.

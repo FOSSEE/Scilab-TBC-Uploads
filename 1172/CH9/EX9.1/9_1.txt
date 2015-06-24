@@ -1,0 +1,4 @@
+ # Problem 1 # 
+Standard formula used 
+	 M = m - 2.5log(L/L_0) 
+ In two days novas brightness is increased by 160000 times nearly

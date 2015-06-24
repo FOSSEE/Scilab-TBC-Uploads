@@ -1,0 +1,6 @@
+phase_shift.sci#61/DEPENDENCIES/phase_shift.sci#Phase shift in degrees#9
+open_loop_gain.sci#61/DEPENDENCIES/open_loop_gain.sci#Open loop gain#8
+gain_in_decibel_voltage.sci#61/DEPENDENCIES/gain_in_decibel_voltage.sci#Voltage gain in decibel#7
+gain_in_decibel_power.sci#61/DEPENDENCIES/gain_in_decibel_power.sci#Power gain in decibel#6
+value_of_K.sci#61/DEPENDENCIES/value_of_K.sci#value of K#5
+value_of_I_D.sci#61/DEPENDENCIES/value_of_I_D.sci#Drain current value#4

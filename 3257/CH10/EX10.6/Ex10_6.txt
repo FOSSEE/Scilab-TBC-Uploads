@@ -1,0 +1,7 @@
+ 
+ Example 10.6
+
+ Part A:
+ Extrusion diameter is to be 76 mm.
+ Part B:
+ It is a theoretical problem. 

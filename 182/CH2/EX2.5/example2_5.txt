@@ -1,0 +1,3 @@
+
+5.the Average measured voltage=1 V
+The average deviation=0.0012 V

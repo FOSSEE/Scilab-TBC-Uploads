@@ -1,0 +1,5 @@
+**Sample Problem 6-6a**
+The acceleration is equal to 8.383164 m/s^2
+
+**Sample Problem 6-6b**
+The net force is equal ro 662.269956 N 

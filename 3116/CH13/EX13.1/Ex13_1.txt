@@ -1,0 +1,10 @@
+
+ Problem 13.1
+ Part A:
+ The number average molecular weight is 21150 g/mol
+
+ Part B:
+ The degree of polimarization is 338 
+
+ Part C:
+ The weight average molecular weight is 23200 g/mol 

@@ -1,0 +1,19 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('/home/home438/Pictures/Chapter_3/Example_3_6/example_3_6.sce', -1)
+
+
+ Equivalent GMD = 16.1 ft 
+
+
+
+ GMR = 0.753 ft 
+
+
+
+ The Inductive reactance = 0.372 ohm/mi/phase 
+
+ 
+-->diary(0)

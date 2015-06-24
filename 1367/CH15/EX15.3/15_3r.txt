@@ -1,0 +1,5 @@
+ 
+ Specific Resistance (in ohm-m) =    
+ 
+    1.596D-08  
+ 

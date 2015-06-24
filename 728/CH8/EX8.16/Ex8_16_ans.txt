@@ -1,0 +1,8 @@
+Repeller voltage(in volts) =   
+ 
+    833.97957  
+ 
+ Necessary beam current (in milliAmp.s) =   
+ 
+    8.5910653  
+ 

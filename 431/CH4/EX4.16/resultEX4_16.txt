@@ -1,0 +1,5 @@
+
+ Example 4.16  
+Syncronous speed=1500rpm
+Slip at maximium torque=0.200000
+Therefore, starting torque is 38.461538percent of the maximium torque

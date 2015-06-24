@@ -1,0 +1,1 @@
+ Average current in the circuit = 1.333333e-10 Amp

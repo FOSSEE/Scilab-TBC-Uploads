@@ -1,0 +1,2 @@
+ Wavelength of x-ray is 0.785301 angstrom.
+ Glancing angle for second order diffraction is 18.232211 degree.

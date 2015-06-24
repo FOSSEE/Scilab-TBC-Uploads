@@ -1,0 +1,3 @@
+The atomic polarizability is aplha= 
+    1.426D-40  
+met^3 

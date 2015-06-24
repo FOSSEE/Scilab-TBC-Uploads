@@ -1,0 +1,5 @@
+Example 3.7 
+
+ Interatomic layer seperation ratios in crystal are as
+ 1 : 1.412775 : 1.743926
+ Above relation shows that cristal is simple cubic crystal structure. 

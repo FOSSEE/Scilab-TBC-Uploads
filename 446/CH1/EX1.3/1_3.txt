@@ -1,0 +1,5 @@
+  
+ Exa-1.3   
+The value of hc is 1238.865054 eV.nm.
+Rounding off to 4 digits, we obtain 1239 eV.nm.
+ Hence zero at the end is significant.

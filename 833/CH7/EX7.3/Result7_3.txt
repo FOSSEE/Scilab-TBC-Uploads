@@ -1,0 +1,16 @@
+ Current(in A) and voltage(in volts) for LAP winding=   
+ 
+    217.3913  
+ 
+    230.  
+ 
+ Current(in A) and voltage(in volts) for WAVE winding=   
+ 
+    108.69565  
+ 
+    460.  
+ 
+ Output is same for both connections(in watts)=   
+ 
+    50000.  
+ 

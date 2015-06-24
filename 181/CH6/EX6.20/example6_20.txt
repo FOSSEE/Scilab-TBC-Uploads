@@ -1,0 +1,3 @@
+(a)Vgs = 6 V
+(b)Vds=Vgs<Vgs-Vp.Hence ohmic region operation
+(c)Id = 2.1e-002 A 

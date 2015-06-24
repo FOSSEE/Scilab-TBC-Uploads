@@ -1,0 +1,1 @@
+Output impedance Zo = 1.429e+004 ohms

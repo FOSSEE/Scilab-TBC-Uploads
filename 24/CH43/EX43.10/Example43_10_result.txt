@@ -1,0 +1,2 @@
+**Sample Problem 43-9**
+The average life of the compound is 3.292518e-015sec

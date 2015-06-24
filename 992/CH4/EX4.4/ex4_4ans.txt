@@ -1,0 +1,5 @@
+ 
+ 1)carrier power = 40.000153kW 
+ 2)efficiency = 19.999693 percent
+ 3)carrier amplitude = 2.000004 kv 
+ Execution done.  

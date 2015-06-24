@@ -1,0 +1,19 @@
+Impedance of distributor/km = 0.20+j(0.10) ohm 
+
+Impedance of section AC = Zac = 0.04+j(0.02) ohm 
+Impedance of section CB = Zcb = 0.02+j(0.01) ohm 
+
+Load current at point B = 160.00+j(-120.00) A 
+Load current at point C = 70.70+j(-70.72) A 
+
+Current in section CB = 160.00+j(-120.00) A 
+Current in section AC = 230.70+j(-190.72) A 
+
+Voltage drop in section CB = 4.40+j(-0.80) A 
+Voltage drop in section AC = 13.04+j(-3.01) A 
+
+Voltage drop in the distributor = 17.44+j(-3.81) A 
+
+Magnitude of drop = 17.85 V 
+
+

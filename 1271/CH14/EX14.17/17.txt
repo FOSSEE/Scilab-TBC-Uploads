@@ -1,0 +1,7 @@
+ # PROBLEM 17 # 
+ Standard formula used 
+  E = (h * c)/lambda = 1/2*m*v^2 
+ 
+ Energy of incident photon is 8.275000 eV,which is greater than the work function 
+ So it causes photoelectric emission.
+ Kinetic energy of the emitted electron is 3.745000 eV.

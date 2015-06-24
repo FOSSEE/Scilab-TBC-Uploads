@@ -1,0 +1,2 @@
+**Sample Problem 3-4**
+The magnitude of the vector is 3.471311 m & the angle measured from the x axis is -41.496468 

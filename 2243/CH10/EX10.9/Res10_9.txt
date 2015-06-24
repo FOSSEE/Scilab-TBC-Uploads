@@ -1,0 +1,1 @@
+  Saturation Magnetisation = 3.14 x 10^6 A/m 

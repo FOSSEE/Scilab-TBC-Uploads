@@ -1,0 +1,16 @@
+  
+ Ex: 4.1(a)    
+Wavelength of the automobile is 6.60e-039 m
+ 
+ Ex: 4.1(b)    
+Wavelength of the bullet is 1.32e-034 m
+  
+ Ex: 4.1(c)    
+Wavelength of the smoke particle is 6.60e-020 m
+ 
+ Ex: 4.1(d)    
+Wavelength of the electron(1ev) is 1.22nm
+ 
+ Ex: 4.1(e)    
+Wavelength of the electron (100Mev) is 12.40 fm
+ 

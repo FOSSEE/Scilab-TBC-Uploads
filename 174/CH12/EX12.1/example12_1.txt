@@ -1,0 +1,2 @@
+The load voltage calculated = 1.05
+The percentage error is about 5 %, which is unacceptable in most systems 

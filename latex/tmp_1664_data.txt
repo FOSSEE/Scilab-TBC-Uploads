@@ -1,0 +1,98 @@
+12#Superconducting materials#12.6#Band gap#Ex12_6.sce#1664/CH12/EX12.6/Ex12_6.sce#S##101879
+12#Superconducting materials#12.5#frequency of radiation#Ex12_5.sce#1664/CH12/EX12.5/Ex12_5.sce#S##101878
+12#Superconducting materials#12.4#critical current density#Ex12_4.sce#1664/CH12/EX12.4/Ex12_4.sce#S##101877
+12#Superconducting materials#12.3#value of Tc#Ex12_3.sce#1664/CH12/EX12.3/Ex12_3.sce#S##101876
+12#Superconducting materials#12.2#Critical field#Ex12_2.sce#1664/CH12/EX12.2/Ex12_2.sce#S##101875
+12#Superconducting materials#12.1#Critical field#Ex12_1.sce#1664/CH12/EX12.1/Ex12_1.sce#S##101874
+11#Dielectric materials#11.7#Polarizability of the material#Ex11_7.sce#1664/CH11/EX11.7/Ex11_7.sce#S##101889
+11#Dielectric materials#11.6#Relative permittivity of the crystal#Ex11_6.sce#1664/CH11/EX11.6/Ex11_6.sce#S##101890
+11#Dielectric materials#11.5#Area of metal sheet required#Ex11_5.sce#1664/CH11/EX11.5/Ex11_5.sce#S##101887
+11#Dielectric materials#11.4#Electronic polarizability#Ex11_4.sce#1664/CH11/EX11.4/Ex11_4.sce#S##101886
+11#Dielectric materials#11.3#Polarization#Ex11_3.sce#1664/CH11/EX11.3/Ex11_3.sce#S##101885
+11#Dielectric materials#11.2#Electronic polarizability#Ex11_2.sce#1664/CH11/EX11.2/Ex11_2.sce#S##101891
+11#Dielectric materials#11.1#Dielectric constant#Ex11_1.sce#1664/CH11/EX11.1/Ex11_1.sce#S##101881
+10#Magnetic materials#10.6#Succeptibility and magnetic flux#Ex10_6.sce#1664/CH10/EX10.6/Ex10_6.sce#S##101901
+10#Magnetic materials#10.5#Magnetization and magnetic flux density#Ex10_5.sce#1664/CH10/EX10.5/Ex10_5.sce#S##101900
+10#Magnetic materials#10.4#Saturation magnetization#Ex10_4.sce#1664/CH10/EX10.4/Ex10_4.sce#S##101898
+10#Magnetic materials#10.3#Relative permiability#Ex10_3.sce#1664/CH10/EX10.3/Ex10_3.sce#S##101896
+10#Magnetic materials#10.2#Magnetic moment of nickel atom#Ex10_2.sce#1664/CH10/EX10.2/Ex10_2.sce#S##101895
+10#Magnetic materials#10.1#Magnetization and flux density#Ex10_1.sce#1664/CH10/EX10.1/Ex10_1.sce#S##101894
+9#Semiconducting materials#9.9#Ratio between the conductivity of the material#Ex9_9.sce#1664/CH9/EX9.9/Ex9_9.sce#S##101924
+9#Semiconducting materials#9.8#hall voltage #Ex9_8.sce#1664/CH9/EX9.8/Ex9_8.sce#S##101923
+9#Semiconducting materials#9.7#Mobility of electron#Ex9_7.sce#1664/CH9/EX9.7/Ex9_7.sce#S##101922
+9#Semiconducting materials#9.6#Intrinsic carrier densities#Ex9_6.sce#1664/CH9/EX9.6/Ex9_6.sce#S##101921
+9#Semiconducting materials#9.5#carrier concentration and type of carrier#Ex9_5.sce#1664/CH9/EX9.5/Ex9_5.sce#S##101920
+9#Semiconducting materials#9.4#Concentration of holes and electrons#Ex9_4.sce#1664/CH9/EX9.4/Ex9_4.sce#S##101919
+9#Semiconducting materials#9.3#Hall voltage#Ex9_3.sce#1664/CH9/EX9.3/Ex9_3.sce#S##101918
+9#Semiconducting materials#9.2#Band gap #Ex9_2.sce#1664/CH9/EX9.2/Ex9_2.sce#S##101917
+9#Semiconducting materials#9.11#Concentrations#Ex9_11.sce#1664/CH9/EX9.11/Ex9_11.sce#S##104295
+9#Semiconducting materials#9.10#Intrinsic carrier concentration#Ex9_10.sce#1664/CH9/EX9.10/Ex9_10.sce#S##101925
+9#Semiconducting materials#9.1#Number of charge carrier#Ex9_1.sce#1664/CH9/EX9.1/Ex9_1.sce#S##101916
+8#Conducting materials#8.9#fermi energy and fermi temperature#Ex8_9.sce#1664/CH8/EX8.9/Ex8_9.sce#S##101938
+8#Conducting materials#8.8#probability of electron#Ex8_8.sce#1664/CH8/EX8.8/Ex8_8.sce#S##101937
+8#Conducting materials#8.7#concentration of electrons#Ex8_7.sce#1664/CH8/EX8.7/Ex8_7.sce#S##101934
+8#Conducting materials#8.6#Fermi energy level#Ex8_6.sce#1664/CH8/EX8.6/Ex8_6.sce#S##101933
+8#Conducting materials#8.5#mobility of electron#Ex8_5.sce#1664/CH8/EX8.5/Ex8_5.sce#S##101932
+8#Conducting materials#8.4#Drift velocity#Ex8_4.sce#1664/CH8/EX8.4/Ex8_4.sce#S##101930
+8#Conducting materials#8.3#Probability of electron#Ex8_3.sce#1664/CH8/EX8.3/Ex8_3.sce#S##101929
+8#Conducting materials#8.2#Band gap#Ex8_2.sce#1664/CH8/EX8.2/Ex8_2.sce#S##101928
+8#Conducting materials#8.11#conductivity and Larentz number#Ex8_11.sce#1664/CH8/EX8.11/Ex8_11.sce#S##101940
+8#Conducting materials#8.10#Lorentz number#Ex8_10.sce#1664/CH8/EX8.10/Ex8_10.sce#S##101939
+8#Conducting materials#8.1#Resistivity of sodium#Ex8_1.sce#1664/CH8/EX8.1/Ex8_1.sce#S##101927
+7#Crystal imperfection#7.3#number of schottky defected#Ex7_3.sce#1664/CH7/EX7.3/Ex7_3.sce#S##101943
+7#Crystal imperfection#7.2#Energy for vacancy information#Ex7_2.sce#1664/CH7/EX7.2/Ex7_2.sce#S##101942
+7#Crystal imperfection#7.1#Number of vacancies and vacancy fraction#Ex7_1.sce#1664/CH7/EX7.1/Ex7_1.sce#S##101941
+6#Crystallography#6.9#Lattice constant#Ex6_9.sce#1664/CH6/EX6.9/Ex6_9.sce#S##102107
+6#Crystallography#6.8#Crystallographic planes#Ex6_8.sce#1664/CH6/EX6.8/Ex6_8.sce#S##102106
+6#Crystallography#6.7#Angle between the planes#Ex6_7.sce#1664/CH6/EX6.7/Ex6_7.sce#S##102105
+6#Crystallography#6.6#Axial intercepts#Ex6_6.sce#1664/CH6/EX6.6/Ex6_6.sce#S##102103
+6#Crystallography#6.5#Relation between interatomic and interplanar#Ex6_5.sce#1664/CH6/EX6.5/Ex6_5.sce#S##102102
+6#Crystallography#6.4#Interatomic distance of NACL#Ex6_4.sce#1664/CH6/EX6.4/Ex6_4.sce#S##102100
+6#Crystallography#6.3#Atomic structure and density#Ex6_3.sce#1664/CH6/EX6.3/Ex6_3.sce#S##102099
+6#Crystallography#6.2#percentage volume#Ex6_2.sce#1664/CH6/EX6.2/Ex6_2.sce#S##102097
+6#Crystallography#6.18#Ionic packing factor#Ex6_18.sce#1664/CH6/EX6.18/Ex6_18.sce#S##102138
+6#Crystallography#6.17#Number of atoms present#Ex6_17.sce#1664/CH6/EX6.17/Ex6_17.sce#S##101756
+6#Crystallography#6.16#Miller indices of the faces#Ex6_16.sce#1664/CH6/EX6.16/Ex6_16.sce#S##101755
+6#Crystallography#6.15#Number of atoms per unit cell#Ex6_15.sce#1664/CH6/EX6.15/Ex6_15.sce#S##104296
+6#Crystallography#6.14#Interplanar distance#Ex6_14.sce#1664/CH6/EX6.14/Ex6_14.sce#S##102132
+6#Crystallography#6.13#Nearest neighbour distance#Ex6_13.sce#1664/CH6/EX6.13/Ex6_13.sce#S##102129
+6#Crystallography#6.12# Length of the intercepts#Ex6_12.sce#1664/CH6/EX6.12/Ex6_12.sce#S##104297
+6#Crystallography#6.11#Ratio of intercepts#Ex6_11.sce#1664/CH6/EX6.11/Ex6_11.sce#S##101739
+6#Crystallography#6.10#Ratio of cubic system#Ex6_10.sce#1664/CH6/EX6.10/Ex6_10.sce#S##105119
+6#Crystallography#6.1#Density of diamond#Ex6_1.sce#1664/CH6/EX6.1/Ex6_1.sce#S##102095
+4#Quantum physics#4.9#Wavelength of alpha practical#Ex4_9.sce#1664/CH4/EX4.9/Ex4_9.sce#S##102055
+4#Quantum physics#4.8#De Broglie wavelength#Ex4_8.sce#1664/CH4/EX4.8/Ex4_8.sce#S##102052
+4#Quantum physics#4.7#wavelength#Ex4_7.sce#1664/CH4/EX4.7/Ex4_7.sce#S##102050
+4#Quantum physics#4.6#DeBroglie wavelength#Ex4_6.sce#1664/CH4/EX4.6/Ex4_6.sce#S##102048
+4#Quantum physics#4.5# Mass and energy#Ex4_5.sce#1664/CH4/EX4.5/Ex4_5.sce#S##102043
+4#Quantum physics#4.4#Number of photons emitted#Ex4_4.sce#1664/CH4/EX4.4/Ex4_4.sce#S##102040
+4#Quantum physics#4.3#comptom shift and wavelength#Ex4_3.sce#1664/CH4/EX4.3/Ex4_3.sce#S##102038
+4#Quantum physics#4.2#comptom shift and w and energy#Ex4_2.sce#1664/CH4/EX4.2/Ex4_2.sce#S##102036
+4#Quantum physics#4.15#Energy density#Ex4_15.sce#1664/CH4/EX4.15/Ex4_15.sce#S##102077
+4#Quantum physics#4.14#mass of the alpha practical#Ex4_14.sce#1664/CH4/EX4.14/Ex4_14.sce#S##102064
+4#Quantum physics#4.13#Lowest energy of the system#Ex4_13.sce#1664/CH4/EX4.13/Ex4_13.sce#S##102063
+4#Quantum physics#4.12#Lowest energy of the electron#Ex4_12.sce#1664/CH4/EX4.12/Ex4_12.sce#S##102061
+4#Quantum physics#4.11#Lowest energy of the electron#Ex4_11.sce#1664/CH4/EX4.11/Ex4_11.sce#S##102059
+4#Quantum physics#4.10#Probability of finding the practicle#Ex4_10.sce#1664/CH4/EX4.10/Ex4_10.sce#S##102057
+4#Quantum physics#4.1#change in wavelength#Ex4_1.sce#1664/CH4/EX4.1/Ex4_1.sce#S##102035
+3#Fibre optics#3.6#Refractive indices of core and cladding#Ex3_6.sce#1664/CH3/EX3.6/Ex3_6.sce#S##102034
+3#Fibre optics#3.5#Refractive index of the core#Ex3_5.sce#1664/CH3/EX3.5/Ex3_5.sce#S##102033
+3#Fibre optics#3.4#Refractive index and acceptance angle#Ex3_4.sce#1664/CH3/EX3.4/Ex3_4.sce#S##102032
+3#Fibre optics#3.3#critical angle#Ex3_3.sce#1664/CH3/EX3.3/Ex3_3.sce#S##102031
+3#Fibre optics#3.2#Numerical aperture and acceptance angle#Ex3_2.sce#1664/CH3/EX3.2/Ex3_2.sce#S##102030
+3#Fibre optics#3.1#Numerical aperture of the fibre#Ex3_1.sce#1664/CH3/EX3.1/Ex3_1.sce#S##102029
+2#Laser#2.9#Intensity of the laser#Ex2_9.sce#1664/CH2/EX2.9/Ex2_9.sce#S##101958
+2#Laser#2.8#Efficiency of laser#Ex2_8.sce#1664/CH2/EX2.8/Ex2_8.sce#S##101957
+2#Laser#2.7#Ratio between stimulated and spontaneous emission#Ex2_7.sce#1664/CH2/EX2.7/Ex2_7.sce#S##101956
+2#Laser#2.6#Relative population between #Ex2_6.sce#1664/CH2/EX2.6/Ex2_6.sce#S##101955
+2#Laser#2.5#wavelength of the laser#Ex2_5.sce#1664/CH2/EX2.5/Ex2_5.sce#S##101953
+2#Laser#2.4#wavelength of the photon #Ex2_4.sce#1664/CH2/EX2.4/Ex2_4.sce#S##101952
+2#Laser#2.3#Energy of E3#Ex2_3.sce#1664/CH2/EX2.3/Ex2_3.sce#S##101951
+2#Laser#2.2#Energy of the photon#Ex2_2.sce#1664/CH2/EX2.2/Ex2_2.sce#S##101950
+2#Laser#2.10#angular spread and divergence#Ex2_10.sce#1664/CH2/EX2.10/Ex2_10.sce#S##101959
+2#Laser#2.1#number of photons emitted per second#Ex2_1.sce#1664/CH2/EX2.1/Ex2_1.sce#S##101949
+1#Ultrasonics#1.5#Velocity of ultrasonic waves#Ex1_5.sce#1664/CH1/EX1.5/Ex1_5.sce#S##101948
+1#Ultrasonics#1.4#Doppler shifted frequency#Ex1_4.sce#1664/CH1/EX1.4/Ex1_4.sce#S##101947
+1#Ultrasonics#1.3#Velocity of ultrasonic wave#Ex1_3.sce#1664/CH1/EX1.3/Ex1_3.sce#S##101946
+1#Ultrasonics#1.2#Fundamental frequency and first overtone#Ex1_2.sce#1664/CH1/EX1.2/Ex1_2.sce#S##101945
+1#Ultrasonics#1.1#Fundamental frequency of vibration#Ex1_1.sce#1664/CH1/EX1.1/Ex1_1.sce#S##101944

@@ -1,0 +1,7 @@
+(a)Speed(in r.p.m)=   
+ 
+    300.  
+ 
+ (b)Number of poles=   
+ 
+    24.  

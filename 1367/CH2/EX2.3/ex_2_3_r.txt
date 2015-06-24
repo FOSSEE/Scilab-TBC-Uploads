@@ -1,0 +1,13 @@
+  
+ Proportionality constant =    
+ 
+    11.  
+ 
+ No. of particles scattered at 75 degree (in per minute) =    
+ 
+    80.094773  
+ 
+ No. of particles scattered at 135 degree (in per minute) =    
+ 
+    15.098413  
+ 

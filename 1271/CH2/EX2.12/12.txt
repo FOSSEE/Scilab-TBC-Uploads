@@ -1,0 +1,2 @@
+﻿ 
+ Principal focal length of zone plate = 2.000000 meter 

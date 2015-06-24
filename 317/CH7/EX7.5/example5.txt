@@ -1,0 +1,1 @@
+collector-emitter voltage is 10.7 volts

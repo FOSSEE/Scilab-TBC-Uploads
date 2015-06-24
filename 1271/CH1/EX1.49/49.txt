@@ -1,0 +1,2 @@
+﻿
+ Thickness of the plate = 3.685000e-05 m.

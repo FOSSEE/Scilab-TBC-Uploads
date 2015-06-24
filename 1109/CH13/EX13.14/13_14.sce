@@ -1,0 +1,16 @@
+clear;
+clc;
+Y1=1;Y2=2;Y3=1;
+y11=Y1+Y2;
+y12=-Y2;
+y21=y12;
+y22=Y2+Y3;
+Y11=y11+y11;
+Y12=y12+y12;
+Y21=Y12;
+Y22=y22+y22;
+printf("The y-parameters are:\n");
+printf(" Y11 = %f mho\n",Y11);
+printf(" Y12 = %f mho\n",Y12);
+printf(" Y21 = %f mho\n",Y21);
+printf(" Y22 = %f mho\n",Y22);

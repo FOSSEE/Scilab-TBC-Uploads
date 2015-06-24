@@ -1,0 +1,9 @@
+  
+ The secondary current at which max efficiency will occur (in Amperes)=   
+ 
+    115.47005  
+ 
+ Max efficiency at 0.8pf lagging(in %)=   
+ 
+    97.467714  
+ 

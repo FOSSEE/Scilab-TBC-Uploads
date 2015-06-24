@@ -1,0 +1,3 @@
+* Voltage gain of the dual-input,balanced output-differential amplifier is = 82.55 
+* Voltage gain of the dual-input,unbalanced output-differential amplifier is = 22.6 
+* Overall gain of the op-amp is = 1865.63

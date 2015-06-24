@@ -1,0 +1,3 @@
+  
+ Exa-12.12   
+Rate of energy liberation is 1.0e-007 W

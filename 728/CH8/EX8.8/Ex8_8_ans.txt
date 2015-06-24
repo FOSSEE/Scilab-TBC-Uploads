@@ -1,0 +1,13 @@
+ 
+ Cut-off voltage (in volts) =   
+ 
+    5065.92  
+ 
+ Cut-off magnetic flux density (in milli weber/sq. m) =   
+ 
+    130.59535  
+ 
+ Cyclotron frequency (in GHz) =   
+ 
+    0.0335944  
+ 

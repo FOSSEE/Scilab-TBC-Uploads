@@ -1,0 +1,1 @@
+ primitive translation vector is 2.517300 Angstrom.

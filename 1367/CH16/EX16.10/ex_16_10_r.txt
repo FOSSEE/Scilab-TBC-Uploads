@@ -1,0 +1,7 @@
+ Critical field at 0 K (in A/m) =    
+ 
+    24.666667  
+ 
+ Critical field At 4.2 k (in A/m) =    
+ 
+    23.346667 

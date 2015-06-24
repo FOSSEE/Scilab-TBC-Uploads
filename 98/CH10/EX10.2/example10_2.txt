@@ -1,0 +1,11 @@
+Sending end power = 222222 W 
+
+Line losses = 22222 W 
+
+Line current = 60.6 A 
+
+Resistance of the line = 3.025 ohms 
+
+Length of the conductor = 13.59 km 
+
+

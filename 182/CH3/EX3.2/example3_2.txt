@@ -1,0 +1,2 @@
+2.Voltage sensitivity=1 mV/mm
+megohm sensitivity=1 M-ohm

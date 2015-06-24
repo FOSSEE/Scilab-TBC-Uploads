@@ -1,0 +1,5 @@
+
+ Inter planner distances are - 
+ (1) in first case 6.298630 A, 
+ (2) in second case 4.453804 A ,
+ (3) in third case 3.636515 A 

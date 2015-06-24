@@ -1,0 +1,24 @@
+                 //EXAMPLE 3-32          PG NO-193
+Vry=400+%i*0;
+Vyb=-200-%i*346.41;
+Vbr=-200+%i*346.410;
+I1=14.74-%i*7.3;
+I2=2.105-%i*10.94;
+Ir=I1;
+disp('i) CURRENT  (Ir) is  in rectangular form  =  '+string (Ir) +' A ');
+Iy=I2-I1;
+disp('i) CURRENT  (Iy) is  in rectangular form  =  '+string (Iy) +' A ');
+Ib=-I2;
+disp('i) CURRENT  (Ib) is  in rectangular form  =  '+string (Ib) +' A ');
+Pr=16.45*16.45*10;
+disp('i) Power  (Pr) is    =  '+string (Pr) +' W ');
+Py=Iy*Iy*20;
+disp('i) Power  (Py) is  in  rectangular form  =  '+string (Py) +' W ');
+Pb=11.24*11.24*25;
+disp('i) Power  (Pb) is in rectangular form   =  '+string (Pb) +' W ');
+Vro=-(Ir*10);
+disp('i) VOLTAGE  (Vro) is  in rectangular  form  =  '+string (Vro) +' V ');
+Vrn=200-%i*115.475;
+disp('i) VOLTAGE  (Vrn) is  in rectangular  form  =  '+string (Vrn) +' V ');
+Von=Vro+Vrn;
+disp('i) VOLTAGE  (Von) is  in rectangular  form  =  '+string (Von) +' V ');

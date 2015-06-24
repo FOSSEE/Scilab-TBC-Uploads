@@ -1,0 +1,17 @@
+ 
+-->clear;
+ 
+-->close;
+ 
+-->
+ 
+-->L=50*10^-6;
+ 
+-->C=10^-9;
+ 
+-->f=1/(2*%pi*sqrt(L*C));
+ 
+-->printf("\n\n\t total power of modulated signal = %f Hz ",f);
+
+
+	 total power of modulated signal = 711762.543417 Hz  

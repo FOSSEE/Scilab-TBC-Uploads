@@ -1,0 +1,61 @@
+14#Laser based systems#14.5#time difference#ex_14_5.sce#2216/CH14/EX14.5/ex_14_5.sce#S##95846
+14#Laser based systems#14.4#pulse width and spatial length #ex_14_4.sce#2216/CH14/EX14.4/ex_14_4.sce#S##95845
+14#Laser based systems#14.3#maximum power emerging#ex_14_3.sce#2216/CH14/EX14.3/ex_14_3.sce#S##75438
+14#Laser based systems#14.1#energy and threshold electrical energy#ex_14_1.sce#2216/CH14/EX14.1/ex_14_1.sce#S##95844
+13#Fiber optic sensors#13.3#phase shift#ex_13_3.sce#2216/CH13/EX13.3/ex_13_3.sce#S##95843
+13#Fiber optic sensors#13.2#phase change per unit length#ex_13_2.sce#2216/CH13/EX13.2/ex_13_2.sce#S##95842
+13#Fiber optic sensors#13.1#plot the graph#ex_13_1.sce#2216/CH13/EX13.1/ex_13_1.sce#S##75430
+12#Fiber optic communication system#12.5#SBS threshold power#ex_12_5.sce#2216/CH12/EX12.5/ex_12_5.sce#S##75428
+12#Fiber optic communication system#12.4#total power#ex_12_4.sce#2216/CH12/EX12.4/ex_12_4.sce#S##75427
+12#Fiber optic communication system#12.3#number of subscribers#ex_12_3.sce#2216/CH12/EX12.3/ex_12_3.sce#S##75426
+12#Fiber optic communication system#12.2#link length and bandwidth#ex_12_2.sce#2216/CH12/EX12.2/ex_12_2.sce#S##95841
+12#Fiber optic communication system#12.1#maximum possible link length and total rise time#ex_12_1.sce#2216/CH12/EX12.1/ex_12_1.sce#S##75422
+11#Wavelength division multiplexing#11.4#order#ex_11_4.sce#2216/CH11/EX11.4/ex_11_4.sce#S##75421
+11#Wavelength division multiplexing#11.2#position of the output ports#ex_11_2.sce#2216/CH11/EX11.2/ex_11_2.sce#S##75420
+11#Wavelength division multiplexing#11.1#interaction length#ex_11_1.sce#2216/CH11/EX11.1/ex_11_1.sce#S##95840
+10#Optical amplifiers#10.3#output signal power and overall gain#ex_10_3.sce#2216/CH10/EX10.3/ex_10_3.sce#S##95839
+10#Optical amplifiers#10.2#small signal gain and maximum possible achievable gain#ex_10_2.sce#2216/CH10/EX10.2/ex_10_2.sce#S##75415
+10#Optical amplifiers#10.1#refractive index and spectral bandwidth#ex_10_1.sce#2216/CH10/EX10.1/ex_10_1.sce#S##95838
+9#Optoelectronic Modulators#9.5#angle and relative intensity#ex_9_5.sce#2216/CH9/EX9.5/ex_9_5.sce#S##95837
+9#Optoelectronic Modulators#9.4#phase difference additional phase difference and Vpi#ex_9_4.sce#2216/CH9/EX9.4/ex_9_4.sce#S##95836
+9#Optoelectronic Modulators#9.3#change in refrative index and vpi#ex_9_3.sce#2216/CH9/EX9.3/ex_9_3.sce#S##95835
+9#Optoelectronic Modulators#9.2#thickness#ex_9_2.sce#2216/CH9/EX9.2/ex_9_2.sce#S##95834
+9#Optoelectronic Modulators#9.1#thickness#ex_9_1.sce#2216/CH9/EX9.1/ex_9_1.sce#S##95833
+8#Optoelectronic Detectors#8.7#rms value of shot noise current dark current and thermal noise current and singnal to noise ratio#ex_8_7.sce#2216/CH8/EX8.7/ex_8_7.sce#S##95832
+8#Optoelectronic Detectors#8.6#gain and photocurrent#ex_8_6.sce#2216/CH8/EX8.6/ex_8_6.sce#S##95285
+8#Optoelectronic Detectors#8.5#incident rate of photon#ex_8_5.sce#2216/CH8/EX8.5/ex_8_5.sce#S##75397
+8#Optoelectronic Detectors#8.4#multiplication factor#ex_8_4.sce#2216/CH8/EX8.4/ex_8_4.sce#S##95284
+8#Optoelectronic Detectors#8.3#quantum efficiency and responsivity#ex_8_3.sce#2216/CH8/EX8.3/ex_8_3.sce#S##95283
+8#Optoelectronic Detectors#8.2#quantum efficiency maximum possible band gap energy and photocurrent#ex_8_2.sce#2216/CH8/EX8.2/ex_8_2.sce#S##95282
+8#Optoelectronic Detectors#8.1#wavelength and optical power and#ex_8_1.sce#2216/CH8/EX8.1/ex_8_1.sce#S##95281
+7#Optoelectronic Sources#7.7#Internal and external power efficiency#ex_7_7.sce#2216/CH7/EX7.7/ex_7_7.sce#S##95280
+7#Optoelectronic Sources#7.6#The reduction and Differential quantum efficiency#ex_7_6.sce#2216/CH7/EX7.6/ex_7_6.sce#S##95279
+7#Optoelectronic Sources#7.5#number of longitudinal modes#ex_7_5.sce#2216/CH7/EX7.5/ex_7_5.sce#S##95276
+7#Optoelectronic Sources#7.4#internal and quantum efficiency#ex_7_4.sce#2216/CH7/EX7.4/ex_7_4.sce#S##95277
+7#Optoelectronic Sources#7.3#injection efficiency#ex_7_3.sce#2216/CH7/EX7.3/ex_7_3.sce#S##95275
+7#Optoelectronic Sources#7.2#diffusion potential#ex_7_2.sce#2216/CH7/EX7.2/ex_7_2.sce#S##95274
+7#Optoelectronic Sources#7.1#intrinsic carrier density#ex_7_1.sce#2216/CH7/EX7.1/ex_7_1.sce#S##75291
+6#Optical fiber cables and connections#6.5#insertion loss at joint in the forward and backward direction#ex_6_5.sce#2216/CH6/EX6.5/ex_6_5.sce#S##95272
+6#Optical fiber cables and connections#6.4#insertion loss at joint#ex_6_4.sce#2216/CH6/EX6.4/ex_6_4.sce#S##95271
+6#Optical fiber cables and connections#6.3#insertion loss at joint#ex_6_3.sce#2216/CH6/EX6.3/ex_6_3.sce#S##95270
+6#Optical fiber cables and connections#6.2#loss#ex_6_2.sce#2216/CH6/EX6.2/ex_6_2.sce#S##95273
+6#Optical fiber cables and connections#6.1#refrative index#ex_6_1.sce#2216/CH6/EX6.1/ex_6_1.sce#S##95269
+5#Single mode fibers#5.5#splice loss#ex_5_5.sce#2216/CH5/EX5.5/ex_5_5.sce#S##75270
+5#Single mode fibers#5.4#diameter of core and total dispersion#ex_5_4.sce#2216/CH5/EX5.4/ex_5_4.sce#S##75269
+5#Single mode fibers#5.3#waveguide dispersion parameter#ex_5_3.sce#2216/CH5/EX5.3/ex_5_3.sce#S##75268
+5#Single mode fibers#5.2#difference between propogation constant and modal birefringence#ex_5_2.sce#2216/CH5/EX5.2/ex_5_2.sce#S##95268
+5#Single mode fibers#5.1#w and wp#ex_5_1.sce#2216/CH5/EX5.1/ex_5_1.sce#S##75264
+4#Wave propagation in cylindrical waveguides#4.5#wavelength and diameter#ex_4_5.sce#2216/CH4/EX4.5/ex_4_5.sce#S##75262
+4#Wave propagation in cylindrical waveguides#4.4#diameter#ex_4_4.sce#2216/CH4/EX4.4/ex_4_4.sce#S##75261
+4#Wave propagation in cylindrical waveguides#4.3#normalised frequency parameters and number of modes#ex_4_3.sce#2216/CH4/EX4.3/ex_4_3.sce#S##75259
+4#Wave propagation in cylindrical waveguides#4.2#frational power propagation#ex_4_2.sce#2216/CH4/EX4.2/ex_4_2.sce#S##75258
+4#Wave propagation in cylindrical waveguides#4.1#normalised frequency propagation constants and phase velocity#ex_4_1.sce#2216/CH4/EX4.1/ex_4_1.sce#S##95278
+3#Wave propagation in planar waveguides#3.4#G factor#ex_3_4.sce#2216/CH3/EX3.4/ex_3_4.sce#S##75250
+3#Wave propagation in planar waveguides#3.3#number of TE modes and propagation parameters#ex_3_3.sce#2216/CH3/EX3.3/ex_3_3.sce#S##95266
+3#Wave propagation in planar waveguides#3.2#thickness#ex_3_2.sce#2216/CH3/EX3.2/ex_3_2.sce#S##75247
+3#Wave propagation in planar waveguides#3.1#range of propagation constants and maximum number of modes#ex_3_1.sce#2216/CH3/EX3.1/ex_3_1.sce#S##95265
+2#Ray propagation in optical fibers#2.5#pulse broadning#ex_2_5.sce#2216/CH2/EX2.5/ex_2_5.sce#S##95264
+2#Ray propagation in optical fibers#2.4#pulse broadning#ex_2_4.sce#2216/CH2/EX2.4/ex_2_4.sce#S##95263
+2#Ray propagation in optical fibers#2.3#pulse broadning#ex_2_3.sce#2216/CH2/EX2.3/ex_2_3.sce#S##75241
+2#Ray propagation in optical fibers#2.2#number of reflections#ex_2_2.sce#2216/CH2/EX2.2/ex_2_2.sce#S##75240
+2#Ray propagation in optical fibers#2.1#NA angles and pulse broadning#ex_2_1.sce#2216/CH2/EX2.1/ex_2_1.sce#S##95262

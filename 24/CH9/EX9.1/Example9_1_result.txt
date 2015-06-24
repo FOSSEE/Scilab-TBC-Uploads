@@ -1,0 +1,2 @@
+**Sample Problem 9-1**
+The co-ordinate of center of mass are (82.816901, 58.060295) 

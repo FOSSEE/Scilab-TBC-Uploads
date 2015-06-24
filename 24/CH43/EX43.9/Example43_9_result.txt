@@ -1,0 +1,2 @@
+**Sample Problem 43-9**
+The change in temprature of the body is 7.177033e-004K

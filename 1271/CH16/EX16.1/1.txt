@@ -1,0 +1,6 @@
+ # PROBLEM 1 # 
+Standard formula used 
+1/2 * m*v^2 = E_0 
+
+ Average energy of electron is 6.000000 eV.
+ Speed of electron is 1.452546e+06 m/sec.

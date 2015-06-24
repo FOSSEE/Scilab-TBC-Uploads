@@ -1,0 +1,36 @@
+clear;
+clc;
+R=3e6;
+Rb=6e6;
+vb2=11e3;
+vb3=66e3;
+x=.2;
+Xg=x*Rb/R;
+xt=.05;
+xl=vb3^2/Rb;
+xl1=20*.1/xl;
+xl2=xl1*4;
+
+X1=Xg+xt+xl2;
+X2=Xg+xt+xl1;
+X=inv(inv(X1)+inv(X2));
+Ifaultpu=1/(X*%i);
+Ifault=Ifaultpu*Rb/(sqrt(3)*vb3);
+MVA=sqrt(3)*vb3*Ifault*%i;
+Ir=real(Ifault);
+Ii=imag(Ifault);
+Imod=sqrt((Ir^2)+(Ii^2));
+Iangle=atand(Ir/Ii)-90;
+MVA=fix(MVA/1e5)*1e5;
+Imod=fix(Imod);
+mprintf("\n Fault MVA=%fMVA \n Fault current=%d/_%dAmp",MVA/1e6,Imod,Iangle);
+//another method
+MVA=Rb/X;
+Ifault=MVA/(sqrt(3)*vb3*%i);
+Ir=real(Ifault);
+Ii=imag(Ifault);
+Imod=sqrt((Ir^2)+(Ii^2));
+Iangle=atand(Ir/Ii)-90;
+MVA=fix(MVA/1e5)*1e5;
+Imod=fix(Imod);
+mprintf("\n \n from second method\nFault MVA=%fMVA \n Fault current=%d/_%dAmp",MVA/1e6,Imod,Iangle);

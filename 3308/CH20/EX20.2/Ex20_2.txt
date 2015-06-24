@@ -1,0 +1,4 @@
+ # Increasing tool life by Reducing the Cutting Speed # 
+
+
+ Percent increase in tool life  =300 Percent 

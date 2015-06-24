@@ -1,0 +1,10 @@
+clear;
+clc;
+c=1;
+w=1;
+v=1;
+c1=c*w*v/(4*w*v);
+c2=2*w*v/(3*w*v);
+c3=3*w*v/(2*w*v);
+c4=4*w*v/(1*w*v);
+mprintf("the capacitance are \nc1=%.2fC\nc2=%.2fC\nc3=%.1fC\nc4=%.0fC",c1,c2,c3,c4);

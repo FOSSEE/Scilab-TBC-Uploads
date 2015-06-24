@@ -1,0 +1,10 @@
+clear;
+clc;
+T=.1*10^-3;
+f=1/T;
+k=15*10^-6;//k=th/w;
+th=2*%pi*f*k;
+X_l=10;
+R=2;
+X_c=R*tan(th)+X_l;
+C=1/(2*%pi*f*X_c);    printf("value of C=%.3f uF",C*10^6);

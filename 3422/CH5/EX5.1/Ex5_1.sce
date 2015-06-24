@@ -1,0 +1,1 @@
+//example 5.1, Page 98clc;IL=(100*1000)/(400*.9*.8*sqrt(3))//Full load currentFS=(1000-950)/1000//Full load slip//disp("hhhhhhhhhhh")//Writing loopx=[1 0.577350269 .7 0.333333333]for i=1:1:4T=1.8*(x(i))^2printf("\n The value of Tst/Tf when x=%f is %f ",x(i),T)end

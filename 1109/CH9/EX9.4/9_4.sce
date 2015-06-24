@@ -1,0 +1,20 @@
+clear;
+clc;
+R=10.4;L=3.66*(10^-3);G=0.8*(10^-6);C=0.00835*(10^-6);bmax=0.1;s=7.88;f=5000;w=2*%pi*f;
+Z=R+(%i*w*L);
+Y=G+(%i*w*C);
+P=sqrt(Z*Y);
+b=imag(P);
+lmax=bmax/b;
+l=s/20; //l<lmax
+Zs=Z*l/2;
+Zsh=1/(Y*l);
+Zr=Y*l;
+R1=real(Zs);
+printf("-R1 = %f ohms\n",round(R1*100)/100);
+L1=imag(Zs)/w;
+printf("-L1 = %f mH\n",round(L1*(10^3)*100)/100);
+C2=imag(Zr)/w;
+printf("-C2 = %f microfarads\n",C2*(10^6));
+G2=real(Zr);
+printf("-G2 = %f micromhos",G2*(10^6));
