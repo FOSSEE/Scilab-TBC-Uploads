@@ -1,0 +1,13 @@
+clear;
+clc;
+v=400;
+z=complex(.032,.30);
+y=complex(0,(3.5*(10^-6)));
+l=250;
+Zc=sqrt(z/y);
+g=sqrt(y*z);
+A=cosh(g*l);
+B=Zc*sinh(g*l);
+C=sinh(g*l)/Zc;
+D=A;
+mprintf("A B C D parameters are A=%f+j%f, B=%f+j%f ohm, C=%f+j%f S, D=%f+j%f",real(A),imag(A),real(B),imag(B),real(C),imag(C),real(D),imag(D));

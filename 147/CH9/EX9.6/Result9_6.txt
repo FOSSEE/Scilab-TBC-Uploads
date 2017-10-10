@@ -1,0 +1,4 @@
+Vdsq = 6 V
+Vgg = 5 V
+Rs = 1 k ohm 
+Rd = 1 k ohm 

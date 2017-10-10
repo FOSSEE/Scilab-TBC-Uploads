@@ -1,0 +1,3 @@
+ most probable speed = 395 m s^-1
+Mean speed = 446 m s^-1
+root mean square speed = 484 m s^-1

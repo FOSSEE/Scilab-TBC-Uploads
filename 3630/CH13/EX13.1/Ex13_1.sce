@@ -1,0 +1,9 @@
+clc;
+Vgs=-6:1:4;
+Vgsoff=-6;
+Idss=0.001;
+Id=Idss*(1-(Vgs/Vgsoff)).^2;
+plot(Vgs,Id*1000,'r')
+xgrid
+xlabel('Vgs(V)')
+ylabel('Id(mA)')

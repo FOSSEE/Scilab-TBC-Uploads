@@ -1,0 +1,3 @@
+ rootD = 0.18 micro-m/h^-2
+Temperature at diffusion should be carried out= 1100 Celsius
+The temperature value was choosen by determing the value of T agains root(D) in the figure of Diffusivity of acceptor impurities in silicon versus T 

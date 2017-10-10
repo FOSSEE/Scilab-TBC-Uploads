@@ -1,0 +1,1 @@
+ lattice parametera=1.757A 

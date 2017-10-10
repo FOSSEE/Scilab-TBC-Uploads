@@ -1,0 +1,10 @@
+disp("E(r) = A*r^-6 + B*r^-12");
+disp("dE(r)/dr = 6*A*r^-7 - 12*B*r^-13");
+A=8*(10^-77);B=1.12*(10^133);
+r0=3.75;
+e=1.6*10^-19;
+Eb=((-A)*(r0^(-6)))+(B*(r0^(-12)));
+b=Eb*10^-126;
+printf('\n The value of binding energy is %f*10^-20J',b);
+c=b/e*10^-20;
+printf('\n The value of binding energy is %fJ',c);

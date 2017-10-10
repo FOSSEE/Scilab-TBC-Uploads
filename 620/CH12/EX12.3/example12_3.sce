@@ -1,0 +1,14 @@
+im=50*10^(-6);
+rm=3000;
+it1=100*10^(-6);
+it2=10^(-3);
+it3=10*10^(-3);
+is2=it2-im;
+is1=it1-im;
+is3=it3-im;
+r1=rm*(is2/im-1)/(1+is2/im);
+disp("the value of R1 (in Ω) is"); disp(r1);
+r2=(rm*(is3-im)-(im+is3)*r1)/(im+is3);
+disp("the value of R2 (in Ω) is");disp(r2);
+r3=im*(r1+r2+rm)/is3;
+disp("the value of R3 (in Ω) is"); disp(r3);

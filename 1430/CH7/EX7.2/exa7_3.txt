@@ -1,0 +1,13 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 7\exa7.3.sce', -1)
+ 
+ Resulting Load Power(in Watt)=   
+ 
+    0.0000511  
+ 
+ Transfer Efficiency=   
+ 
+    0.6153846  
+ 
+

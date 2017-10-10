@@ -1,0 +1,3 @@
+For First order spectra theta1=17.5 degrees
+For Third order spectra theta3=64.2 degrees
+Difference in Angles of deviation in first and third order spectra is theta3-theta1=46.70degrees 

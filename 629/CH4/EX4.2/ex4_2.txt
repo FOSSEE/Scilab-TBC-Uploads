@@ -1,0 +1,2 @@
+ 
+The gage pressure on the piston, p = 11.0 kPa, gage.

@@ -1,0 +1,14 @@
+disp("Part a");
+u1=50*10^(-3);
+l1=4.6;
+n=10;
+vp=u1*l1*n/2;
+disp("the peak voltage (in V) is"); disp(vp);
+disp("Part b");
+u2=0.2;
+l2=3.2;
+t=u2*l2;
+disp("the period T (in ms) is"); disp(t);
+disp("Part c");
+f=1/t;
+disp("the frequency f (in kHz) is"); disp(f);

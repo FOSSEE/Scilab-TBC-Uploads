@@ -1,0 +1,2 @@
+ Schottkybarrier-lowering for Si-metal contact= 0.011 V
+maximum barrier height= 5.54e-07 cm 

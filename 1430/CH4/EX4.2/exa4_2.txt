@@ -1,0 +1,15 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.2.sce', -1)
+ 
+ Power supplied by 50V source(in Watt)=   
+ 
+    100.  
+ 
+ Power supplied by 30V source(in Watt)=   
+ 
+    0.  
+ 
+ Power supplied by 1A source(in Watt)=   
+ 
+  - 10.  
+ 

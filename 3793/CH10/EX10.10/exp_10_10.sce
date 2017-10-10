@@ -1,0 +1,62 @@
+clear;
+clc;
+Sb=30;
+vb=11;
+sg=20;
+p=10;
+R=6.6;
+//generator
+X1=complex(0,.1);
+X2=complex(0,.1);
+X0=complex(0,.15);
+x1=X1*(Sb/sg);
+x2=X2*(Sb/sg);
+x0=X0*(Sb/sg);
+//transformer12
+xt1=complex(0,.12);
+xt2=complex(0,.12);
+xt0=complex(0,.12);
+//transmission line
+vtr=22;
+Ztr=vtr^2/Sb;
+Z=complex(1,5);
+Zpu=Z/Ztr;
+//transformer34
+Xt1=complex(0,.05);
+Xt2=complex(0,.05);
+Xt0=complex(0,.05);
+xtt1=Xt1*(Sb/sg);
+xtt2=Xt2*(Sb/sg);
+xtt0=Xt0*(Sb/sg);
+Vf3=1;
+Rpu=((Vf3^2)*Sb)/p;
+Rf=(R*Sb)/vtr^2;
+Il=p/Sb;
+Vf4=Vf3+(Il*xtt1);
+Zfp=((x1+xt1+Zpu)*(Rpu+xtt1))/(x1+xt1++Zpu+Rpu+xtt1);
+Zfn=Zfp;
+zf0=Zpu+xt1;
+Ia1=Vf3/complex(1.611,1.5); //from figure
+Ia0=Ia1;
+Ia2=Ia1;
+Ia=3*Ia1;
+Ip23=(Rpu+xtt1)*Ia1/((x1+xt1+Zpu)+Rpu+xtt1);
+Ip34=Ia1-Ip23;
+In23=Ip23;
+In34=Ip34;
+Iz23=Ia1;
+Iz34=0;
+a=complex(-.5,.866);
+A=[1 1 1;1 a^2 a;1 a a^2];
+I23=[Iz23;Ip23;In23];
+II=A*I23;
+mprintf("Current for node 2-3 is Ia=%f%f A   Ib=%f+%f A  Ic=%f+%f A\n",real(II(1,1)),imag(II(1,1)),real(II(2,1)),imag(II(2,1)),real(II(3,1)),imag(II(3,1)));
+I34=[Iz34;Ip34;In34];
+III=A*I34;
+mprintf("Current for node 3-4 is Ia=%f+%f A   Ib=%f%f A  Ic=%f%f A\n",real(III(1,1)),imag(III(1,1)),real(III(2,1)),imag(III(2,1)),real(III(3,1)),imag(III(3,1)));
+Vp2=Vf3+(Zpu*Ip23);
+Vn2=Zpu*Ip23;
+Vz2=Zpu*Ia1;
+Vz=[Vz2;Vp2;Vn2];
+V=A*Vz;
+mprintf("Phase voltages at node 2 are Va=%f+%f Kv   Vb=%f%f Kv  Vc=%f+%f Kv",real(V(1,1)),imag(V(1,1)),real(V(2,1)),imag(V(2,1)),real(V(3,1)),imag(V(3,1)));

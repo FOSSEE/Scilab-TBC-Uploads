@@ -1,0 +1,8 @@
+ 
+ Example 15.12 
+
+ Capacity of cooling coil is 100.803276 tonnes,
+ Bypass factor of cooling coil is 0.058824,
+ Capacity of heating coil is 44.101433 kW,
+ Surface temperature of heating coil is 22.666667 degree celsius,
+ Mass of water vapor removed is 5.226020 kg/min 

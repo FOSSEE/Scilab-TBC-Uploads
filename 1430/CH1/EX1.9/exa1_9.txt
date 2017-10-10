@@ -1,0 +1,20 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.9.sce', -1)
+ 
+ Current supplied by Current source(in Amps)=   
+ 
+    10.  
+ 
+ Power supplied by Voltage source(in Watt)=   
+ 
+  - 50.  
+ 
+ Power supplied by Current source(in Watt)=   
+ 
+    450.  
+ 
+ Power Dissipated across various Resistors(in Watt)=   
+ 
+    400.  
+ 

@@ -1,0 +1,2 @@
+ Enthalpy Change of combustion of methane = -784.4 kJ mol^-1
+Enthalpy Change of combustion of methane from enthalpy of formation = -802.3 kJ mol^-1

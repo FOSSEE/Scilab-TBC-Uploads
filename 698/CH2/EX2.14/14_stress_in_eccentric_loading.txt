@@ -1,0 +1,8 @@
+The member is subjected to direct stress and 
+also bending stresses due to eccentricity of the load
+ Total stress 
+	S=Sd + Sb --- This will be compressive, since Sd is compressive, and Sb is acting in the direction of Sd
+	S=Sd - Sb --- This will be compressive, since Sb is opposing Sd
+
+Stresses induced are -20.833 MPa compressive and 4.167 MPa tensile
+Maximum Tensile Stress is 4.167 MPa

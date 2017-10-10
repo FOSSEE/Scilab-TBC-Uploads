@@ -1,0 +1,4 @@
+ 
+The discharge in the channel, Q = 2176 cfs.
+
+The numerical value of Mannings n for this channel = 0.0426

@@ -1,0 +1,3 @@
+ Example 4.5
+ The work done by the system is 8.550000 kJ
+ The heat flow into the system is 68.085000 kJ

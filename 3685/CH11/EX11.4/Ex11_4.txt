@@ -1,0 +1,8 @@
+ 
+ Example 11.4
+ Temperature at triple point is 195.197740 K
+ Pressure at triple point is 44.631622 mm Hg
+
+ Latent heat of sublimation is 31211 kJ/kg mol
+ Latent heat of vapourization is is 25466 kJ/kg mol
+ Latent heat of fusion is 5745 kJ/kg mol 

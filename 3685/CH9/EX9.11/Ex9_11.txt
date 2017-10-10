@@ -1,0 +1,3 @@
+ 
+ Example 9.11
+ The heat transfer during the process is 1788.192032 MJ 

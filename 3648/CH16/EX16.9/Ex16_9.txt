@@ -1,0 +1,4 @@
+Due to 5*10^-8 C V1=4500 V
+Due to 8*10^-8 C V2=7200 V
+Due to 40*10^-8 C V3=-18000 V
+ Absolute potential at B is Vb=-6300 V 

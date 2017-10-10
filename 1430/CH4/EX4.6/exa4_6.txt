@@ -1,0 +1,23 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.6.sce', -1)
+ 
+ Current in Mesh 1(in Amps)=   
+ 
+    0.  
+ 
+ Current in mesh 2(in Amps)=   
+ 
+  - 2.  
+ 
+ Power supplied by 50V source(in Watt)=   
+ 
+    100.  
+ 
+ Power supplied by 30V source(in Watt)=   
+ 
+    0.  
+ 
+ Voltage across Current source(in Volts=   
+ 
+  - 10.  
+

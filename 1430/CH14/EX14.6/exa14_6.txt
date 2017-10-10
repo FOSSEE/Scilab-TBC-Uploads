@@ -1,0 +1,22 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_6.sce', -1)
+ 
+ V_1=(1/(s*C))*I_1---equation(1)   
+ 
+ I_2=3*I_1-I_1--- equation(2)   
+ 
+ V_1=V_2---equation(3)   
+ 
+ V_2=R*I_2---equation(4)   
+ 
+ Required H-Parameter=   
+ 
+      1        1     
+    -----      -     
+    0.025s     1     
+                     
+    2          0.1   
+    -          ---   
+    1           1    
+ 

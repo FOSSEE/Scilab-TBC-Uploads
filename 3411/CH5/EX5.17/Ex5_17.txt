@@ -1,0 +1,2 @@
+The lattice parameter is a=0.242nm
+ Atomic diameter is 0.2094nm 

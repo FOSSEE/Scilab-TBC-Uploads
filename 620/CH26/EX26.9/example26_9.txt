@@ -1,0 +1,22 @@
+Part a   
+ 
+ the true power (in W)is   
+ 
+    297.77406  
+ 
+ Part b   
+ 
+ the reactive power (in VAr) is   
+ 
+    113.61765  
+ 
+ Part c   
+ 
+ the apparent power (in VA) is   
+ 
+    318.7136  
+ 
+ the total line current (in A) is   
+ 
+    1.3279733  
+ 

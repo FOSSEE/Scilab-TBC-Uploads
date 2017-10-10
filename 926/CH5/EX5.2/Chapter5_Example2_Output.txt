@@ -1,0 +1,3 @@
+
+ Relative saturation of the mixture at given conditions = 59.7 % 
+ Percentage saturation = 52.7 %

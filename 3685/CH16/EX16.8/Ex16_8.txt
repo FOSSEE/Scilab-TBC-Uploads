@@ -1,0 +1,5 @@
+ 
+ Example 16.8
+
+ Heat transfer per kg mol of fuel is -965198 kJ
+ Q_cv is -890324 kJ

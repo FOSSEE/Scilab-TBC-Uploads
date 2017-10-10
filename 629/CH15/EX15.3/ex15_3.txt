@@ -1,0 +1,3 @@
+ 
+The value of resistance coefficient = 0.130
+ 

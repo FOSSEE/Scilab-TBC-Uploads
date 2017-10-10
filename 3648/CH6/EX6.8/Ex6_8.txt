@@ -1,0 +1,3 @@
+The Z component of velocity is Vz=0 meters/sec
+The Y component of velocity is Vy=-0.6*V0
+The X component of velocity is Vx=-1.8*V0 

@@ -1,0 +1,3 @@
+ 
+The minimum capture area of wind turbine = 8.20 m^2.
+ 

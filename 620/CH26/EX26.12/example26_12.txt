@@ -1,0 +1,29 @@
+Part a   
+ 
+ power factor of the motor is   
+ 
+    0.7547096  
+ 
+ Part b   
+ 
+ apparent power (in VA) is   
+ 
+    1440.  
+ 
+ Part c   
+ 
+ true power (in W) is   
+ 
+    1086.7818  
+ 
+ Part d   
+ 
+ reactive power (in VAr) is   
+ 
+    944.725  
+ 
+ Part d   
+ 
+ the effieciency (in %) of the motor is   
+ 
+    68.643034  

@@ -1,0 +1,9 @@
+  
+ Drift time (s)=    
+ 
+    1.0D-11  
+ 
+ Operating frequency (Hz)=    
+ 
+    5.0D+10  
+ 

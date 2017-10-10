@@ -1,0 +1,9 @@
+(a) Input current, I = 54.62 A
+
+(b) Input power, Pi = 88.91 kW
+
+(c) Output power, Po = 32.10 kW
+
+(d) Output torque, T = 174.7 N.m
+
+(e) Efficiency = 36.1 %

@@ -1,0 +1,9 @@
+ 
+ Example 19.3
+
+ Indicated poer is 5.475656 kW
+ Volumetric efficiency is 78.609842 percent
+ Mass flow rate is 1.541459 kg/min
+ Free air delivery is 1.257757 m^3/min
+ Isothermal efficiency is 80.642806 percent
+ Input power is 6.441949 kW 

@@ -1,0 +1,10 @@
+
+ (A + B' + C) ( A + B + D) (A' + C' + D')
+
+  = [A + (B' + C)(B + D)](A' + C' + D'
+
+  = (A + B'D + BC)(A' + C' + D')
+
+  = A ( C'+ D') + A'(B'D + BC )
+
+  = AC' + AD' + A'B'D + A'BC

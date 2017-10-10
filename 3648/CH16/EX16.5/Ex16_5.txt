@@ -1,0 +1,7 @@
+The work done in carrying proton is= 
+    1.440D-18  
+Joules
+The work done in carrying electron is= 
+  - 1.440D-18  
+Joules
+ 

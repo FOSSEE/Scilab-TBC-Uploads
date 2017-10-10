@@ -1,0 +1,4 @@
+
+ the frequency of oscillation (in kHz) is   
+ 
+    79.577472  

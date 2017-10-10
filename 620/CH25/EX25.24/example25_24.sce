@@ -1,0 +1,12 @@
+z1=4+%i*2;
+z2=6-%i*4;
+zl=3.2-%i*0.2;
+v1=24;
+v2=36*(cos(40*%pi/180)+%i*sin(40*%pi/180));
+in=v1/z1+v2/z2;
+zn=z1*z2/(z1+z2);
+il=in*zn/(zn+zl);
+disp("the load current (in A) has a magnitude of"); disp(sqrt(real(il)^2+imag(il)^2));
+disp("with a phase angle (in deg) of"); disp((atan(imag(il)/real(il)))*180/%pi);
+p=(real(il)^2+imag(il)^2)*real(zl);
+disp("load power (in W) is"); disp(p);

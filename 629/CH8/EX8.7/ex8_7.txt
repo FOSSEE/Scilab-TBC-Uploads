@@ -1,0 +1,3 @@
+ 
+ The expected drag force on the prototype = 1530 N.
+ 

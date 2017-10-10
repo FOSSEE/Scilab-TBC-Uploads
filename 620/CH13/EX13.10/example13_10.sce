@@ -1,0 +1,15 @@
+v=10;
+v1=5;
+disp("Part a");
+v1_1=v1+(0.02*v1/100+0.01*v/100);
+v1_2=v1-(0.02*v1/100+0.01*v/100);
+disp("the possible readings (in V) are"); disp(v1_1);disp("and"); disp(v1_2);
+e1=(0.02*v1/100+0.01*v/100)*100/v1;
+disp("the percentage error is"); disp(e1);
+disp("Part b"); 
+v2=10;
+v2_1=v1+(0.02*v2/100+0.01*v/100);
+v2_2=v1-(0.02*v2/100+0.01*v/100);
+disp("the possible readings (in V) are"); disp(v2_1);disp("and"); disp(v2_2);
+e2=(0.02*v2/100+0.01*v/100)*100/v2;
+disp("the percentage error is"); disp(e2);

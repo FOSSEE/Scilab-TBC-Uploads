@@ -1,0 +1,26 @@
+ 
+ Given State Table
+
+ q |    x=0         x=1   |    z
+
+ --------------------------------
+
+ A |     C           D    |    0
+
+ B |     D           A    |    1
+
+ C |     E           D    |    0
+
+ D |     B           A    |    0
+
+ E |     C           D    |    0
+
+ States A-C-E and B-D are equivalent
+
+  q  |     x=0      x=1   |    z
+
+ ------------------------------------
+
+  A |      A         B    |    0
+
+  B  |     B         A    |    1

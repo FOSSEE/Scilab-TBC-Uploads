@@ -1,0 +1,13 @@
+Part a   
+ 
+ power factor of the combination is   
+ 
+    0.9345794  
+ 
+ lagging   
+ 
+ Part b   
+ 
+ the phase angle (in deg) between the applied voltage and current is   
+ 
+    20.839694  

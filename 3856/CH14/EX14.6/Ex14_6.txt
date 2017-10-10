@@ -1,0 +1,2 @@
+ (a)Uncertainty in the velocity = 1.1*10^8 m s^-1
+(b)Uncertainty in the position = 7.9*10^-29 m 

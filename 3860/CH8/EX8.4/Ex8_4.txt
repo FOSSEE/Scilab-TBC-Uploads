@@ -1,0 +1,16 @@
+ 
+ Displays a clock pulse for every ninth input clock pulse
+
+  IC 741613 can be used in three different configuration
+
+ First solution
+
+ 0 1 2 3 4 5 6 7 8 0 - - - - - - - - 
+
+ Second solution
+
+ 8 9 10 11 12 13 14 15 0 8  - - - - - - - - 
+
+ Third solution
+
+ 7 8 9 10 11 12 13 14 15 7 8  - - - - - - - - 

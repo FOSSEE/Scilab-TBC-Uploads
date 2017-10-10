@@ -1,0 +1,2 @@
+The intensity ratio is
+ Imax:Imin 36:16 

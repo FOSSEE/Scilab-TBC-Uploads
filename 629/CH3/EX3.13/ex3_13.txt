@@ -1,0 +1,3 @@
+ 
+ Since the metacentric height is positive, the block will be stable in this slightly disturbed position.
+ 

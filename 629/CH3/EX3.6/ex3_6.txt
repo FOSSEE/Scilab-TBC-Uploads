@@ -1,0 +1,3 @@
+ 
+The gage pressure at the center of the pipe = 62.1 kPa gage.
+ 

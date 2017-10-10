@@ -1,0 +1,3 @@
+tal no of lines in grating is 850 the lines will not be resolved in first order
+
+As total no of lines required for resolution in first order is 491 and total no of lines in grating is 850 the lines will be resolved in second order 

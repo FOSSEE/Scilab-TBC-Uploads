@@ -1,0 +1,3 @@
+(a) Total load that can be supplied = 173.2 kVA
+
+(b) Line current on high-voltage side, Iline = 6.3 A

@@ -1,0 +1,10 @@
+Circuit components are resistances R1,R2,R3(in kilo ohm) and Capacitance(in pF)=   
+ 
+    280.  
+ 
+    20.  
+ 
+    18.666667  
+ 
+    3215.3746  
+ 

@@ -1,0 +1,8 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 10\exa10_9.sce', -1)
+ 
+ Forced response phasor   
+ 
+  - 7.5 - 22.5i  
+ 

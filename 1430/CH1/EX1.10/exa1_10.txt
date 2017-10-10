@@ -1,0 +1,12 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.10.sce', -1)
+ 
+ Value of Resistor R_a(in Ohms)=   
+ 
+    150.  
+ 
+ Value of Resistor R_b(in Ohms)=   
+ 
+    1250.  
+ 

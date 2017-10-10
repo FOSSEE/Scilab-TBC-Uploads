@@ -1,0 +1,21 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.9.sce', -1)
+ 
+ Current through Independent Voltage Source(in Amps)=   
+ 
+    12.  
+ 
+ Voltage across 6 Ohm Resistor(in Volts)=   
+ 
+    24.  
+ 
+ Current through 12 Ohm Resistor(in Amps)=   
+ 
+    8.  
+ 
+ Equivalent Resistance of the Network(in Ohms)=   
+ 
+    6.  
+ 
+

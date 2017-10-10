@@ -1,0 +1,3 @@
+The fraction of initial intensity left when L=2 It/I0=0.363
+The fraction of initial intensity left when L=6 It/I0=0.048
+ 

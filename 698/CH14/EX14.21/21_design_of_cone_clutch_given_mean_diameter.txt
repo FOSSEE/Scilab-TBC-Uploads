@@ -1,0 +1,4 @@
+Axial force required to prevent slipping is 1176.31 N
+Face width required is 315.00 mm
+Outer radius is 110.5 mm
+Inner radius is 89.5 mm

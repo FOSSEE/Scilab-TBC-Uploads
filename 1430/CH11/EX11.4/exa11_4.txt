@@ -1,0 +1,14 @@
+  
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 11\exa11_4.sce', -1)
+ 
+ Gain=   
+ 
+    1.  
+ 
+ Cutoff Frequency(rad/s)=   
+ 
+    2000000.  
+ 
+    
+ 
+

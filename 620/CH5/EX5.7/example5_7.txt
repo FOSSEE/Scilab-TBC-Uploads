@@ -1,0 +1,25 @@
+
+ Part a   
+ 
+ the voltage (in V) across the 200 W , 120 V bulb is   
+ 
+    80.  
+ 
+ the voltage (in V) across the 100 W , 120 V bulb is   
+ 
+    160.  
+ 
+ Part b   
+ 
+ the power dissipated (in W) by the 200 W , 120 V bulb is   
+ 
+    88.888889  
+ 
+ the power dissipated (in W) by the 100 W , 120 V bulb is   
+ 
+    177.77778  
+ 
+ Part c   
+ 
+ the 200 W bulb will be approximately half as bright as normal , the 10 W bulb would be much brighter (almost twice as bright) than normal and would probably burn o 
+      ut in few minutes   

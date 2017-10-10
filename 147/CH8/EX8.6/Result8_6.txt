@@ -1,0 +1,3 @@
+(a):Ieq = 2.02 mA
+(b):Vceq = 9 V
+(c):Vceq = 3 V

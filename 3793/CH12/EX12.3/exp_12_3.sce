@@ -1,0 +1,18 @@
+clear;
+clc;
+Pr=.24;
+Vr=.55;
+del=asind(Pr/Vr);
+a=gca();
+a.auto_scale="off";
+a.data_bounds=[0,0.3;1.5,1];
+xlabel("Voltage");
+ylabel(" ReactivePower");
+V=[0:.01:5];
+Q=((V)^2)+(V*cosd(del));
+plot(V,Q);
+q=.38;
+v=.95;
+Qr=((220^2)*q)/60;
+Vrr=v*220;
+mprintf("Critical power = %.3f MVAR and Critical voltage = %.3f KV",Qr,Vrr);

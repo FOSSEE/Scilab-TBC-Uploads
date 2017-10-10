@@ -1,0 +1,14 @@
+ 
+ A liquid compressed in a cylinder has a 
+       volume of 1000 cm^3 at 1 MN/m^2 a 
+      nd volume of 995 cm^3 at 2MN/m^2.W 
+      hat is its bulk modulus of elastic 
+      ity?                               
+ 
+ Solution:   
+ 
+ Modulus of elasticity=   
+ 
+    200.  
+ 
+ MPa   

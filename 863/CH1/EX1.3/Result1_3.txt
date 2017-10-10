@@ -1,0 +1,4 @@
+Average voltage (in volts)=   
+ 
+    1.4  
+ 

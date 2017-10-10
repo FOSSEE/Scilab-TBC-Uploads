@@ -1,0 +1,3 @@
+the flux (in Wb) in the core is   
+ 
+    0.00024 

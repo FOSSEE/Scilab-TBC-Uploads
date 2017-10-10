@@ -1,0 +1,5 @@
+ 
+ 
+ Example 7.3
+ The entropy change of the universe is 0.096531 kJ/K
+ The minimum work required is 28.283499 kJ 

@@ -1,0 +1,3 @@
+he wavelength is = 129.636 pm
+The wavelength is = 97.227 pm
+Only for n=3 and n=4,the value of lambda lies within the range 95 pm to 140 pm

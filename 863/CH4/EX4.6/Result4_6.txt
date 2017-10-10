@@ -1,0 +1,4 @@
+Maxixmumvalue of capacitor(in pF)=   
+ 
+    32.206119  
+ 

@@ -1,0 +1,5 @@
+ 
+ Example 22.2 
+
+ Pressure of the gas = 134.236068 Pa,
+ No of collisions made by a molecule per meter of path = 3.802281e+04 

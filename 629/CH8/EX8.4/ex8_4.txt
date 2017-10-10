@@ -1,0 +1,2 @@
+ 
+ The air speed in the wind tunnel for scaled model and dynamically similar conditions, V = 100 m/s.

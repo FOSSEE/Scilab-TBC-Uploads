@@ -1,0 +1,8 @@
+ 
+ A'BCD + A'BC'D + B'EF + CDE'G + A'DEF + A'B'EF
+
+ = A'BD + B'EF + CDE'G + A'DEF
+
+ But A'BD $ B'EF = A'DEF and this reduces to 
+
+ = A'BD + B'EF + CDE'G

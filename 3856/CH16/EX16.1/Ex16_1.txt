@@ -1,0 +1,1 @@
+ Dipole-Dipole interaction = -2.2 kJ mol^-1 

@@ -1,0 +1,11 @@
+
+ -->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.1.sce', -1)
+ 
+ total charge Transfer is(in coulombs) =   
+ 
+    12.732395  
+ 
+ Average current is (in Amps)=   
+ 
+    2.1220659  
+ 

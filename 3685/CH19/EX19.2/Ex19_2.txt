@@ -1,0 +1,4 @@
+ 
+ Example 19.2 
+ 
+ Volumetric efficiency of system is 73.779396 percent

@@ -1,0 +1,5 @@
+ 
+ Example 22.1 
+
+ Mean free path = 7.508001e-08 m,
+ The fraction of molecules have free path longer than 2*lambda = 13.533528 percent 

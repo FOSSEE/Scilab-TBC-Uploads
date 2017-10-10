@@ -1,0 +1,3 @@
+ 
+ Example 8.15
+ The exergy of the complete vacuum is 100 kJ 

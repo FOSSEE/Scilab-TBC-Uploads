@@ -1,0 +1,21 @@
+(a)Torque on motor shaft 
+	Mt=60*P/ 2*pi*N=66.31 Nm
+
+(b)Various radii of gears:
+	Ra=62.5 mm
+	Rb=250 mm
+	Rc=97.5 mm
+	Rd=487.5 mm
+
+(c)Force on gears A and B:
+	Fta=Ftb=Mta/Ra=1061.03 N
+	Fra=Frb=Fta*tan(phi)=386.18 N
+
+(d)Torque at transmission shaft containing B and C:
+Speed of c=speed of B=360 RPM
+Torque at C=265.3 Nm
+
+(e)Force on gears C and D:
+	Ftc=Ftd=Mtc/Rc=2720.60 N
+	Frc=Frd=Ftc*tan(phi)=990.22 N
+

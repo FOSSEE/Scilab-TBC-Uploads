@@ -1,0 +1,2 @@
+The First Force F1=-1800 N
+The Second Force F2=2700 N

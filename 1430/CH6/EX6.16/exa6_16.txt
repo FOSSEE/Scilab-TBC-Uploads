@@ -1,0 +1,21 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 6\exa6.16.sce', -1)
+ 
+ Voltage phasor in rectangular form(Volts)=   
+ 
+    8.  
+ 
+ Source current phasor in rectangular form(Amps)=   
+ 
+    0.008  
+ 
+ Current phasor(through Capacitor)in rectangular form(Amps)=   
+ 
+    0.16i  
+ 
+ Current phasor(through inductor)in rectangular form(Amps)=   
+ 
+    0.008 - 0.16i  
+ 
+

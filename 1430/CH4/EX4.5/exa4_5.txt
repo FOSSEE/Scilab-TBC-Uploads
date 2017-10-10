@@ -1,0 +1,21 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.5.sce', -1)
+ 
+ ((v_1-30)-v_2)/2-1+(v_1-v_2)/10+(v_1-50)/5=0 -------- Equation 1   
+ 
+ (v_2-v_1)/10+(v_2-(v_1-30))/2+v_2-7=0 --------- Equation 2   
+ 
+ Rearrangement then yields a pair of equations in standard form,   
+ 
+ 0.8v_1-0.6v_2=26   
+ 
+ -0.6v_1+1.6v_2=-8   
+ 
+ Voltage at Node 1(in Volts)=   
+ 
+    40.  
+ 
+ Voltage at Node 2(in Volts)=   
+ 
+    10.  
+ 

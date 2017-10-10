@@ -1,0 +1,5 @@
+ 
+The lift force on the ball = 0.011 N and the direction of lift is downward.
+
+The drag force on the ball = 0.0271 N.
+ 

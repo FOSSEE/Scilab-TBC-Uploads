@@ -1,0 +1,1 @@
+ minority carrier concentration= 6.92e+12 cm^-3 

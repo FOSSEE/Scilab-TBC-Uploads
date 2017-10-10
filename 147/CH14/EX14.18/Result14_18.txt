@@ -1,0 +1,4 @@
+Rotor speed = 1746 rpm
+Rotor current frequency = 1.8 Hz 
+Speed of rotor's rotating magnetic field with respect to the stator frame = 1800 rpm
+Speed of rotor's rotating magnetic field with respect to the stator's magnetic field = 0 

@@ -1,0 +1,9 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_11.sce', -1)
+ 
+ Gain of Cascade amplifier=   
+ 
+    1111.1111  
+ 
+

@@ -1,0 +1,7 @@
+ 
+ Example 21.6
+
+ Air-fuel ratio = 60.922165,
+ Thrust power of the propeller = 4144.338339 kJ/s ,
+ Thrust by the propeller = 26.523765 kN,
+ Mass flow rate of air flowing through the compressor = 27.435823 kg/s, 

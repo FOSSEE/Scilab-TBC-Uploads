@@ -1,0 +1,1 @@
+Power dissipated by RTL P = 75 mW

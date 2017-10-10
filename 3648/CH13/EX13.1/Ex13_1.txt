@@ -1,0 +1,5 @@
+Maximum velocity is Vmax=1.4 Meter/sec
+Maximum acceleration is Amax=4.9 meter/sec^2
+Velocity at x=0.1 meters is= 1.36 meters/sec
+Acceleration at x=0.1 meters is= -1.23 meters/sec^2
+ 

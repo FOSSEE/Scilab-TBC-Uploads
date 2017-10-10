@@ -1,0 +1,21 @@
+(a)Gear diameters:
+	Da=210 mm
+	Db=390 mm
+	Dc=270 mm
+
+(b)Torque on shafts:
+	Mta=47.75 Nm
+	Mtb=0 Nm
+	Mtc=61.4 Nm
+
+(c)Tangential force on gear A: Ft=454 N
+   Separating force Fr=165 N
+
+(d)The same tangential and separating force occurs between gears
+A and B and between gears B and C.
+
+(e) The tooth load for which each gear must be designed is 454 N
+
+(f)The force applied to idler shaft of gear B is the vector sum
+of the forces applied to gear B by A and C
+Fb=sqrt(2*(Ft^2 + Fr^2))=684 N

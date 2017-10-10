@@ -1,0 +1,4 @@
+Voltage across 5 ohm resistor is 10 V
+Voltage across 10 ohm resistor is 20 V
+Voltage across 15 ohm resistor is 30 V
+Voltage across 20 ohm resistor is 40 V

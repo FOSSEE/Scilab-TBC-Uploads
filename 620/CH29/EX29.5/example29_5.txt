@@ -1,0 +1,18 @@
+
+ Part a   
+ 
+ the overall voltage gain with 10 % negative feedback is   
+ 
+  - 8.  
+ 
+ Part b   
+ 
+ the overall voltage gain with 20 % negative feedback is   
+ 
+  - 4.4444444  
+ 
+ Part c   
+ 
+ the overall voltage gain with 1 % positive feedback is   
+ 
+  - 66.666667  

@@ -1,0 +1,2 @@
+ Composition of Vapor of A = 0.30 
+Composition of Vapor of B = 0.70

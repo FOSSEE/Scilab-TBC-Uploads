@@ -1,0 +1,1 @@
+Number of revolutions does it turn before rest is theta=27 rev 

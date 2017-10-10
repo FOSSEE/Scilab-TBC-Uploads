@@ -1,0 +1,8 @@
+ 
+ a gas with molecular weight of 44 is at a pressure of 0.9MPa and a temperature of 20 degree celsius.Calculate its density   
+ 
+ Density p=   
+ 
+    16.260056  
+ 
+ kg/m^3   

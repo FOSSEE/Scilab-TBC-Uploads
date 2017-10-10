@@ -1,0 +1,7 @@
+(a)Axial thrust required to transmit the power is 848.83 N
+(b)The pressure equation is:
+	p=F/(2*pi*(Ro-Ri)*r)
+
+(c)	Maximum contact pressure occurs at inner radius, and is equal to 0.108 MPa
+   	Minimum contact pressure occurs at outer radius, and is equal to 0.072 MPa
+   	Average contact pressure is 0.086 MPa

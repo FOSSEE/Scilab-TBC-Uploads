@@ -1,0 +1,4 @@
+Resistance 484 ohm is rated at 25 W
+Resistance 201.67 ohm is rated at 60 W
+Resistance 161.3 ohm is rated at 75 W
+Resistance 121 ohm is rated at 100 W

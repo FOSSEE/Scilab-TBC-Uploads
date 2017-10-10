@@ -1,0 +1,2 @@
+Reverbertion time when hall empty = 3.07 s
+Reverbertion time when hall at full capacity = 1.85 s

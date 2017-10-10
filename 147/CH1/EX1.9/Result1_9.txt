@@ -1,0 +1,1 @@
+Ratio of power consumed in R2 to that in R1 at 60 degree C, p = 0.963

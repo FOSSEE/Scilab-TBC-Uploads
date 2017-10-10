@@ -1,0 +1,1 @@
+The thickness that should be coated for minimum reflection is L=99.6 nm 

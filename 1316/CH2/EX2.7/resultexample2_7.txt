@@ -1,0 +1,9 @@
+ First,for the nominal resistance values given, 
+ the bridge is set at anull with I=0,because
+Va = 0.909091 V 
+With I=0 we get 
+Vb = 0.909091 V 
+When R3 increases by 1 ohm to 1001 ohm, Va becomesVa = 1.666667 V 
+which shows that the voltage at b must increase by 0.0008 V to renull the bridge.
+This can be proved by current,from equation and Delta V=0,found from 
+I = 0.000016 A 

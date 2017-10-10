@@ -1,0 +1,11 @@
+(a)Approximate mass of flywheel
+	mr=2*K*E / r2*(w1^2 -w2^2)
+		mr=69.7 kg
+
+(b)Approximate total mass of flywheel
+	=1.15*mr
+		=80 kg
+
+(c)Coefficient of speed fluctuation
+	delta=w1-w2 /w
+	delta=0.105

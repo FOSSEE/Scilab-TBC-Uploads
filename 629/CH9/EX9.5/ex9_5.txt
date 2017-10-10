@@ -1,0 +1,9 @@
+ 
+The velocity of water as determined by
+(a)Logarithmic velocity distribution = 14.1 ft.
+(b)Velocity defect law               = 14.4 ft.
+(c)Power-law formula                 = 14.39 ft.
+
+
+The nominal thickness of the viscous sublayer = 2.55*10^(-3) inches.
+ 

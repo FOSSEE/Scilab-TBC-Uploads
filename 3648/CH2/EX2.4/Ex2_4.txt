@@ -1,0 +1,4 @@
+For F1 it is Zero
+For F2 it is a*F2 Counter clockwise
+For F3 it is a*F3 Clock Wise
+For F4 it is b*F4 Counter Clock wise 

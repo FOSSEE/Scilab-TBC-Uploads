@@ -1,0 +1,9 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 6\exa6.3.sce', -1)
+ 
+ Resultant Steady-state input current in rectangular form(Amps)=   
+ 
+    4.6120953 + 4.8711987i  
+ 
+

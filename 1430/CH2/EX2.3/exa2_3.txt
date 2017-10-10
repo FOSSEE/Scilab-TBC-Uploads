@@ -1,0 +1,21 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.3.sce', -1)
+ 
+ Minimum power dissipated in Grill(in Watt)=   
+ 
+    400.  
+ 
+ Maximum power dissipated in Grill(in Watt)=   
+ 
+    1800.  
+ 
+ Intermediate values of power dissipation(in Watt)=   
+ 
+    600.  
+ 
+ &   
+ 
+    1200.  
+ 
+

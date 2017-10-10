@@ -1,0 +1,18 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 6\exa6.2.sce', -1)
+ 
+ In rectangular form=   
+ 
+  - 8. + 15.i  
+ 
+ In polar form=   
+ 
+ Magnitude   
+ 
+    17.  
+ 
+ Phase angle(in degree)=   
+ 
+    118.07249  
+ 

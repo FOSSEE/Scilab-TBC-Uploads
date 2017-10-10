@@ -1,0 +1,20 @@
+v1=4160;
+v2=230;
+r=4;
+disp("Part a");
+i2=v2/r;
+i1=v2*i2/i1;
+disp("the primary current (in A) is"); disp(i1);
+disp("Part b");
+pout=v2^2/r;
+eff=0.98;
+pin=pout/eff;
+i1=pin/v1;
+disp("the primary current (in A) with 98% efficiency is"); disp(i1);
+disp("Part c");
+loss=pin-pout;
+disp("The losses (in W) is"); disp(loss);
+disp("Part d");
+p=v2*i2;
+disp("The rating of the transformer (in kVA) is"); disp(p/1000);
+

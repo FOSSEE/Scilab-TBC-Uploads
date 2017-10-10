@@ -1,0 +1,7 @@
+ 
+ Example 22.10 
+
+ Initial concentration gradient of reactive molecules = -1.344760e+25 molecules/m^4, 
+ The no of reactive molecules per sec cross a cross section at the mid point of the tube from left to right = 2.384698e+27 - (-7.388857e+19) molecules/m^2,
+ The no of reactive molecules per sec cross a cross section at the mid point of the tube from right to left = 2.384698e+27 + (-7.388857e+19) molecule/m^2,
+ Initial net rate of diffusion = 0.011286g/m^2-s

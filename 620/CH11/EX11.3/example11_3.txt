@@ -1,0 +1,17 @@
+Part a   
+ 
+ the force (in N) acting on the wire is   
+ 
+    0.6  
+ 
+ Part b   
+ 
+ the force (n N) acting on the wire is   
+ 
+    0.4242641  
+ 
+ Part c   
+ 
+ he current (in A) that must pass through the wire is   
+ 
+    1.47  

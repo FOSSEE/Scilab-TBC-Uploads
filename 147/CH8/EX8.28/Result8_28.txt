@@ -1,0 +1,2 @@
+(i)Quiescent value of Vce = 7.03 V
+(ii)Quiescent value of Vce = 8.3665 V

@@ -1,0 +1,32 @@
+clc
+//initialisation of variables
+w1=250//m
+w2=10000//min
+p1=20//cm
+p2=30//cm
+p3=30*10^-2//m
+p4=20*10^-2//m
+s=1/60//min/s
+v1=300//m
+v2=700//m
+f=0.025
+a=0.167//m^3/s
+g=9.8//m/s^2
+vb=1.02//m
+v3=0.1318//m^2
+v4=0.163//m^2
+B=1922//min
+//CALCULATIONS
+Qt1=((%pi)*(p3)^2)/4//m^2
+Qt2=((%pi)*(p4)^2)/4//m^2
+hfa=((f)*(v1))/((p3)*2*g)//s^2/m
+hfb=((f)*(v2))/((p4)*2*g)//s^2/m
+VA=(hfb)/(hfa)
+V=sqrt(VA)
+Q1=Qt1*V*vb+Qt2*vb//m^3/s
+Q2=v3*vb+Qt2*vb//m^3/s
+Q=v4*vb//m^3/s
+QB=((%pi)*(p4)^2*vb)/(4)//m^3/s
+QA=w2-B//min
+//RESULTS
+printf('The diameter is=% f min',QA)

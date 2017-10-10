@@ -1,0 +1,4 @@
+The diffraction pattern that would be obtained by shooting bullet is sin(theta)= 
+    1.657D-29  
+Radians
+ The diffraction angles are so small that the particles will travel essentially straight through the slit 

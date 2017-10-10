@@ -1,0 +1,3 @@
+The crystal structure is bcc since the ratio is 0.5
+lattice constant alpha = 0.268 nm
+The element is tungsten since this lattice constant of 0.268 nm and crystallizes in the bcc structure

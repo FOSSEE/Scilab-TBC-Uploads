@@ -1,0 +1,3 @@
+Number of atoms per unit area of 100 plane 0.25*R^-2
+Number of atoms per unit area of 110 plane 0.18*R^-2
+Number of atoms per unit area of 110 plane 0.29*R^-2 

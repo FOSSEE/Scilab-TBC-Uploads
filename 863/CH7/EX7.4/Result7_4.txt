@@ -1,0 +1,8 @@
+Components required to design a astable multivibrator are resistances Rb,Rc(in kilo ohm) and Capacitance(in pf)=   
+ 
+    2.5  
+ 
+    150.5  
+ 
+    4814.8683  
+ 

@@ -1,0 +1,24 @@
+//Example_a_6_2 page no:234
+clc;
+I=5;
+Z1mag=10;
+Z1ang=-60;
+Z2mag=16;
+Z2ang=70;
+Z1real=Z1mag*cosd(Z1ang);
+Z1img=Z1mag*sind(Z1ang);
+Z1=Z1real+(Z1img*%i);
+Z2real=Z2mag*cosd(Z2ang);
+Z2img=Z2mag*sind(Z2ang);
+Z2=Z2real+(Z2img*%i);
+Z=Z1+Z2;
+Zmag=sqrt(real(Z)^2+imag(Z)^2);
+pf=real(Z)/Zmag;
+active_power=I^2*real(Z);
+apparent_power=I^2*Zmag;
+reactive_power=I^2*imag(Z);
+disp(pf,"the power factor is ");
+disp(active_power,"the active power is (in W)");
+disp(apparent_power,"the apparent power is (in VA)");
+disp(reactive_power,"the reactive power is (in VAR)");
+disp("the calculated values varies slightly with textbook hence values are rounded off in text book");

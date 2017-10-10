@@ -1,0 +1,1 @@
+ number of orders that are visible in granting spectra is 2 

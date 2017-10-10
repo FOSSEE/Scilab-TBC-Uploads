@@ -1,0 +1,9 @@
+ The given expression is as follows
+
+ f = wx'y + xy' + wxz
+
+ f' = (wx'y + xy' + wxz)'
+
+ f' = (wx'y)'(xy')'(wxz)'
+
+ f' = (w'+ x + y')(x' + y)(w' + x'+ z')

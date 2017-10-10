@@ -1,0 +1,22 @@
+clear;
+clc;
+D=1.200;
+r=.75*(10^2);
+rd=.7788*r;
+Ir=complex(25,-30);
+Iy=complex(35,-50);
+Ib=complex(-60,80);
+fln=2*(10^(-7))*(Ir*log(1/(3*D))+Iy*log(1/(2*D))+Ib*log(1/D));
+mprintf("flux linkage of the neutral = %.9f + i%.9f Wb-T/m\n",real(fln),imag(fln));
+Dn=%i*2*%pi*50*fln*10000;
+LMAT=zeros(3);
+LMAT(1,1)=log((2*D)/rd);
+LMAT(1,2)=log(2);
+LMAT(2,2)=log(D/rd);
+LMAT(3,2)=log(2);
+LMAT(3,3)=LMAT(1,1);
+I=[Ir;Iy;Ib];
+Vryb= %i*200*%pi*(10^(-7))*LMAT*I;
+mprintf(" Voltage drop per unit length = ");
+disp(Vryb);
+

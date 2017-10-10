@@ -1,0 +1,4 @@
+ 
+ Example 8.17
+ The irreversibility in case a is 110.031839 kJ/kg
+ The irreversibility in case b is 38.231839 kJ/kg  

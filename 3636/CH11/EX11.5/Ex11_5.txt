@@ -1,0 +1,2 @@
+ Total power dissipation= 240.6 W 
+ The BJT is working outside the SOA   

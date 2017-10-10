@@ -1,0 +1,6 @@
+Rc and Rb(in kilo ohm)=   
+ 
+    11.8  
+ 
+    161.  
+ 

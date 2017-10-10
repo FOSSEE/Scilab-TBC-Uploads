@@ -1,0 +1,8 @@
+ Rc(in ohm),Rb(in kilo ohm),Cc(in micro farad)=   
+ 
+    980.  
+ 
+    93.  
+ 
+    0.0537634  
+ 

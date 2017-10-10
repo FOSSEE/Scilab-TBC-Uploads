@@ -1,0 +1,21 @@
+//Example_a_5_1 page no:201
+clc;
+V=50;
+f=50;
+R=100*10^3;
+C=0.01*10^-6;
+Z=R-(%i*(1/(100*%pi*C)));
+Zmag=sqrt(real(Z)^2+imag(Z)^2);
+Zang=atand(imag(Z)/real(Z));
+Imag=V/Zmag;
+Iang=0-Zang;
+disp(Imag,"the magnitude of current Imag in the circuit is(in A)");
+disp(Iang,"the angle of current Iang in the circuit is(in degree)");
+Vrmag=Imag*R;
+Vrang=Iang;
+disp(Vrmag,"the magnitude of voltage across the resistor is(in V)");
+disp(Vrang,"the angle of voltage across the resistor is (in degree)");
+Vcmag=Imag/(100*%pi*0.01*10^-6);
+Vcang=Iang-90;
+disp(Vcmag,"the magnitude of voltage across the capacitor is (in V)");
+disp(Vcang,"the angle of voltage across the capacitor is (in degree)");

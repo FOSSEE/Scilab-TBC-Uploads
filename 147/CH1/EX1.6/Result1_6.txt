@@ -1,0 +1,1 @@
+Rate of heat produced by pad, H = 54.54 W

@@ -1,0 +1,3 @@
+The sum total of the intercepts of the parallel plane h^2+k^2+l^2 should be less than 13.988
+The highest possible values of hkl are (222) as the sum total of h^2+k^2+l^2 is less than or equal to 13.98.
+Braggs reflection will occur from the first planes including (222)

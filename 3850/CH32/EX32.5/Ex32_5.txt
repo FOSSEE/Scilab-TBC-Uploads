@@ -1,0 +1,3 @@
+
+ (a) Potential difference across the terminals= 1.950000 V
+(b) Thermal energy developed in the battery is= 0.05 J

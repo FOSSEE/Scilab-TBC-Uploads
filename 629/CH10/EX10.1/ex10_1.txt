@@ -1,0 +1,9 @@
+ 
+(a)Since Re= 3352 > 3000, the flow is turbulent.
+
+The entrance length for air = 0.25 m.
+
+(b)Since, Re= 1787 < 2000, the flow is laminar.
+
+The entrance length for water = 0.447 m.
+ 

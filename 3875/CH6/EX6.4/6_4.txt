@@ -1,0 +1,1 @@
+ The thickness of the plate is = 2.5e-03 m

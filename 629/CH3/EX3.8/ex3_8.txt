@@ -1,0 +1,5 @@
+ 
+Between the points 1 and 2,
+the change in piezometric pressure = 65.4 psf 
+and piezometric head = 1.05 ft.
+ 

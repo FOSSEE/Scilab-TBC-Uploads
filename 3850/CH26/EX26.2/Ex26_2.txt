@@ -1,0 +1,4 @@
+
+ The Work done by the gas in the process A to B=30 joule
+The Work done by the gas in the process B to C=0 joule
+The Work done by the gas in the process C to A=-40 joule

@@ -1,0 +1,4 @@
+ a) Ideal Schottky barrier height= 0.165 eV
+b) Built-in potential barrier= 0.925 V
+c) Space charge width at zero bias= 1.548e-05 cm
+d) maximum electric field= 1.20e+05 V cm^-1 

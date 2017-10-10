@@ -1,0 +1,5 @@
+ The arithmetic mean samples before is 201.800000 g 
+The stbndbrd devibtion of sbmples before is 11.371644 g 
+The arithmetic mean samples before is 198.733333 g 
+The standard deviation of samples before is 5.496319 g 
+ 

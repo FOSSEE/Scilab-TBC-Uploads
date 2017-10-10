@@ -1,0 +1,11 @@
+ 
+ A lubricated shaft rotates inside a concentric sleeve bearing at 1200rpm,the clearance is smaal with respect to the radius and hence a linear distribution velocity  
+      distribution may be assumed.What are the power requirements to rotate the shaft?R=2cm , L=6cm , dy=0.1mm , and u=0.2N.s/m^2.                                    
+ 
+ Solution:   
+ 
+ Power required to rotate the shaft =   
+ 
+    95.251282  
+ 
+ W   

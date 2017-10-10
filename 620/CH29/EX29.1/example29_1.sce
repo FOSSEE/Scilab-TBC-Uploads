@@ -1,0 +1,14 @@
+i=10^(-6);
+beta=200;
+disp("Part a");
+ib1=0;
+ic1=beta*ib1+i;
+disp("collector current (in μA) when base current is 0 is"); disp(ic1*10^6);
+disp("Part b");
+ib2=50*10^(-6);
+ic2=beta*ib2+i;
+disp("collector current (in mA) when base current is 50 μA is"); disp(ic2*10^3);
+disp("Part c");
+ib3=100*10^(-6);
+ic3=beta*ib3+i;
+disp("collector current (in mA) when base current is 100 μA is");disp(ic3*10^3);

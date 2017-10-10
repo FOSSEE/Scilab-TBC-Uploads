@@ -1,0 +1,2 @@
+Angular accelertion is a=2.22 meters/sec^2
+Angular velocity is alpha=5.56 rad/sec^2 

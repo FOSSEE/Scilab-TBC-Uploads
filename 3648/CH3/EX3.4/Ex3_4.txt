@@ -1,0 +1,2 @@
+Acceleration is a=-0.625 meters/sec^2
+Time taken to stop t=8 sec 

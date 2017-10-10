@@ -1,0 +1,25 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 7\exa7.11.sce', -1)
+ 
+ Line current in branch a(in Amps)=   
+ 
+    4.656319 - 16.749055i  
+ 
+ Line current in branch b(in Amps)=   
+ 
+  - 30.787662 - 5.768358i  
+ 
+ Line current in branch c(in Amps)=   
+ 
+    26.131343 + 22.517413i  
+ 
+ Real power supplied by generator(in Watts)=   
+ 
+    33500.377  
+ 
+ Reactive Power supplied by generator(in VAr)=   
+ 
+    25308.679  
+ 
+

@@ -1,0 +1,10 @@
+ 
+ f = c'd'+ ac' + ad + bd' + ab 
+
+ Two terms can be reduced using consensus twice
+
+ c'd' $ ad = ac' and ad $ bd' = ab
+
+ Thus we can remove ac' and ab leaving
+
+ f = c'd'+ ad + bd' 

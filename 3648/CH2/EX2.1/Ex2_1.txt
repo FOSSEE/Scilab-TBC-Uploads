@@ -1,0 +1,2 @@
+Tension in String 1 is F1=48 N
+Tension in String 2 is F2=64 N 

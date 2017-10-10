@@ -1,0 +1,3 @@
+Motor Output = 112 kW
+Motor Input = 124.7 kW 
+Efficency = 89.8 %

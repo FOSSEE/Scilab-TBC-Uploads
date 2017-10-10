@@ -1,0 +1,9 @@
+  
+ (a)Required capacitance(in pF)=   
+ 
+    1166.6667  
+ 
+ (b)Max Frequency(in Khz)=   
+ 
+    33.274179  
+ 

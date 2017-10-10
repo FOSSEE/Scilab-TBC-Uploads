@@ -1,0 +1,8 @@
+Input resistance(in kilo ohm),Input current(in micro ampere) and Capacitance(in micro farad)=   
+ 
+    119.79167  
+ 
+    50.086957  
+ 
+    0.0125217  
+ 

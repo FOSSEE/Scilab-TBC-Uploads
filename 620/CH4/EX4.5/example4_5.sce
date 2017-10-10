@@ -1,0 +1,17 @@
+disp("Part a");
+r1=0.511;
+l=10;
+r=r1*l;
+T_C1=20;
+disp("the resistance (in Ω) at 20 °C is"); disp(r);
+disp("Part b");
+T_F2=100;
+T_C2=(T_F2-32)*5/9;
+a_1=0.00393;
+r2=r*(1+a_1*(T_C2-T_C1));
+disp("the resistance (in Ω) at 100 °F is"); disp(r2);
+disp("Part c");
+T_F3=-40;
+T_C3=(T_F3-32)*5/9;
+r3=r*(1+a_1*(T_C3-T_C1));
+disp("the resistance (in Ω) at -40 °F is"); disp(r3);

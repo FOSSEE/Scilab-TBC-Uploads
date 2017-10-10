@@ -1,0 +1,6 @@
+ 
+ Example 19.21
+
+ The delivery pressure = 6.071253 bar,
+ The no of stages = 9,
+ The internal efficiency = 0.846898 

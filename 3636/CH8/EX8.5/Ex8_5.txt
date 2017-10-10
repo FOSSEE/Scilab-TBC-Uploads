@@ -1,0 +1,2 @@
+ Total emitter-to-collector delay time= 84.6 ps
+cut-of frequency of transistor= 1.88 GHz

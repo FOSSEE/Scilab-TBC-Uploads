@@ -1,0 +1,3 @@
+the current (in A) that must be supplied is   
+ 
+    12.433333  

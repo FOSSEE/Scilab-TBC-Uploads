@@ -1,0 +1,4 @@
+Icq = 2.7 mA
+Rc = 2.24 k ohm
+Ieq = 2.73 mA
+Beta = 90

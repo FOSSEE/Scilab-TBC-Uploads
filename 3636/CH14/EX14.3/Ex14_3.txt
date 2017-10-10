@@ -1,0 +1,4 @@
+  
+ Ripple factor Y=    
+ 
+    0.00056  

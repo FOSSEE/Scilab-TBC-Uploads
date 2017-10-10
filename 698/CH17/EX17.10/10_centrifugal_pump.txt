@@ -1,0 +1,13 @@
+(a)First finding various dimensions:
+	Torque Mt=88 Nm
+	diameter of pinion=138.46 mm
+	Slant height of pitch cone=121.63 mm
+	Mean radius of pinion=57.85 mm
+
+(b) Finding various forces:
+Tangential force at mean radius=1523.81 N
+
+Pinion thrust force=224.32 N
+
+Gear thrust force=324.01 N
+

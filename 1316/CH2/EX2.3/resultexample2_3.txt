@@ -1,0 +1,3 @@
+ Because bridge is nulled we find R4 using equation:
+ R1R4=R3R2 
+421 ohm 

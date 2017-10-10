@@ -1,0 +1,2 @@
+ 
+The load that the jack can support = 12.2 kN.

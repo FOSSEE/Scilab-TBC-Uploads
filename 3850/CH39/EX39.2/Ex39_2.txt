@@ -1,0 +1,4 @@
+
+ (a) Reactance of capacitor for 10 hz source = 80 ohms
+ (b) Reactance of capacitor for 15 hz source= 16 ohms
+ (c) Reactance of capacitor for 500 hz source = 1.6 ohms

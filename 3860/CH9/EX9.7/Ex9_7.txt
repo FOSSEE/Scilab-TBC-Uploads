@@ -1,0 +1,26 @@
+ 
+ Different hardware requirements based on different state assignments on Page No. 9-12
+
+ First assignment for A,B,C,D,E are 000,001,010,011,100
+
+ z = q2 + q3
+
+ D1 = xq1 + xq3
+
+ D2 = x'q1'q2' + xq1'q3'
+
+ D3 = x'q2q3 + x'q1 + zq1'q3'
+
+ First assignment for A,B,C,D,E are 000,001,011,111,110
+
+ Second Assignment 
+
+ z = q3
+
+ D1 = x
+
+ D2 = x + q2' 
+
+ D3 = x'q1 + x'q2' + {q2'q3' or q1'q3' } + xq1'q2
+
+ Since the second assignment results in reduced output expression this partition is called as output-consistent partition

@@ -1,0 +1,4 @@
+ 
+ Example 19.12
+
+ Indicated output = 132.877965 kJ 

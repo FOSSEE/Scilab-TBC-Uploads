@@ -1,0 +1,12 @@
+ 
+ Example 14.3
+
+ Refrigerant flow rate is 0.179046 kg/s
+ Volume flow rate is 0.013787 m^3/s
+ Compressor discharge temperature is 48 degree Celsius 
+ Pressure ratio is 4.384173 
+ Heat rejected to the condenser is 24.139042 kW
+ Flash gas percentage is 30.529077 percent
+ COP is 4.141876 kW
+ Power required to drive the compressor is 4.694598 kW
+ Ratio of COP of cycle with  Carnot refrigerator is 0.787429

@@ -1,0 +1,5 @@
+
+ (a) Initial molal humidity of air = 0.0190
+ (b) Final molal humidity of air = 0.0051
+ (c) Amount of water condensed = 0.629 lb
+ (d) Final volume of wet air = 395 cu ft

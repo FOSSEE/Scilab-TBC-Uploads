@@ -1,0 +1,10 @@
+Input voltage(in volts),Diode reverse recovery time(in micro sec),C2 and C1(in micro farad)=   
+ 
+    7.3  
+ 
+    50.  
+ 
+    8.3333333  
+ 
+    16.666667  
+ 

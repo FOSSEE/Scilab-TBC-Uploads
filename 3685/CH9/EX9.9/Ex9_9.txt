@@ -1,0 +1,4 @@
+ 
+ Example 9.9
+ The quality of steam in pipe line is 0.960977 
+ Maximum moisture content that can be determined is 5.478868 percent 

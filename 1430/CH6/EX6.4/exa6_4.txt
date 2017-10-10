@@ -1,0 +1,18 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 6\exa6.4.sce', -1)
+ 
+ Voltage phasor in rectangular form(Volts)=   
+ 
+    12. - 6.i  
+ 
+ Voltage phasor in polar form   
+ 
+ Magnitude=   
+ 
+    13.416408  
+ 
+ Phase (in degree)=   
+ 
+  - 26.565051  
+ 

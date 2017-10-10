@@ -1,0 +1,2 @@
+ 
+The water pressure at the depth of 35ft in the tank = 15.2 psig.

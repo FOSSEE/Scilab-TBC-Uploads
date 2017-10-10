@@ -1,0 +1,2 @@
+ Junction Capacitance= 1e-08 F/cm^2
+Depletion Capacitance= 5e-12 F 

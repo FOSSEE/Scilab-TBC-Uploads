@@ -1,0 +1,36 @@
+ 
+        W'X' W'X  WX  WX' 
+
+ Y'Z'   1          1   1 
+
+ YZ'    1          1      
+
+ YZ                1   1
+
+ YZ'    1     1           
+
+  From the map, high outputs are for 0,1,3,7,8,11,12,13,15 
+
+   0.   0.   0.   0.
+   0.   0.   0.   1.
+   0.   0.   1.   1.
+   0.   1.   1.   1.
+   1.   0.   0.   0.
+   1.   0.   1.   1.
+   1.   1.   0.   0.
+   1.   1.   0.   1.
+   1.   1.   1.   1.
+
+  Evaluating expression from truth table and map 
+
+!W'X'Y' Z'  +  W'X'Y'Z  +  W'X'YZ  +  W'XYZ  +  WX'Y' Z'  +  WX'YZ  +  WXY' Z'  +  WXY'Z  +  WXYZ  !
+
+ The four probable solutions are
+
+ F = YZ + W'X'Z + X'Y'Z' + WXY'
+
+ F = YZ + W'X'Y' + X'Y'Z' + WXY'
+
+ F = YZ + W'X'Y' + WY'Z' + WXY'
+
+ F = YZ + W'X'Y' + WY'Z' + WXZ

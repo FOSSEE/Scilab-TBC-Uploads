@@ -1,0 +1,21 @@
+//Example 8.7: Counter that goes through a specific set of sequence.
+clc // Clears the console
+disp("Displays the count in this particular Sequence.")
+disp('0001')
+disp('0010')
+disp('0100')
+disp('0111')
+disp('1011')
+disp('0000')
+disp("0110")
+disp("1101")
+disp("0101")
+disp("1110")
+disp("1000")
+disp("0011")
+disp("1111")
+disp("1100")
+disp("1010")
+disp("1001")
+disp('the counter repeats again.')
+

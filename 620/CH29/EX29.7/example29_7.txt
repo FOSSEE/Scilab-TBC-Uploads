@@ -1,0 +1,18 @@
+
+ Part a   
+ 
+ the voltage gain of the amplifier without feedback is   
+ 
+  - 15.  
+ 
+ Part b   
+ 
+ the voltage gain of the amplifier when the feedback capacitor is not connected is   
+ 
+  - 8.2417582  
+ 
+ Part c   
+ 
+ the new voltage gain with feedback is   
+ 
+  - 6.3829787  

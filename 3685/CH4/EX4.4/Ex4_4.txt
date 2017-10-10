@@ -1,0 +1,13 @@
+ 
+ Example 4.4
+ Part A:
+ For the quasi static process is: 
+ Q:   37.267641kJ
+ dU: -92.133889kJ
+ W: 129.401530kJ
+
+ Part B:
+ Work transfer for the process is 122.133889kJ.
+
+ Part C:
+ Wb is not equal to integral(p*dv) since the process is not quasi static. 

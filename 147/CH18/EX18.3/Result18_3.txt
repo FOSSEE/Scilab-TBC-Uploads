@@ -1,0 +1,1 @@
+Control constant of spring, K2 = 7.5e-008 Nn/degree

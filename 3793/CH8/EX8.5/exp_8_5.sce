@@ -1,0 +1,14 @@
+clear;
+clc;
+Rc=2500;
+il=1500;
+H=4;
+rg=2;
+f=50;
+D=il/f;
+Dpu=D/Rc;
+Kps=1/Dpu;
+Tps=(2*H)/(Dpu*f);
+mprintf("The initial area load freq dependence parameter in MW/Hz and in pu are %.3f MW/Hz and %.3f pu\n",D,Dpu);
+mprintf("gain=%.3f Hz/pu MW\n",Kps);
+mprintf("Time Constant=%.3f s",Tps);

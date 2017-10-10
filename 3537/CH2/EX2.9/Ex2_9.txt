@@ -1,0 +1,2 @@
+Grating element is e=0.00050 cm
+Resolving power=9999 

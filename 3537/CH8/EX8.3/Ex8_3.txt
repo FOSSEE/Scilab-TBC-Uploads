@@ -1,0 +1,3 @@
+The depth of the sea is 552.50 meters
+
+The wavelength of pulse is 0.024 meters 

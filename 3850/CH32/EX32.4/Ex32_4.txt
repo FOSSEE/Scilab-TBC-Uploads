@@ -1,0 +1,3 @@
+
+ (a)Resistance of resistor= 10.000000 ohm
+(b) Thermal energy developed in the Resistor= 1600 J

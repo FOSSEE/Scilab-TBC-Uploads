@@ -1,0 +1,6 @@
+ 
+ Example 15.5 
+
+ Final condition of air is given by
+ W3 = 0.014400 kg vap./kg dry air
+ h3 =  71.666667 kJ/kg dry air 

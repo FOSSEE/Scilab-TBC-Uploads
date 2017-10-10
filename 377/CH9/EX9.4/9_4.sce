@@ -1,0 +1,25 @@
+Na=3*10^16;
+Nd=8*10^15;
+ni=10^10;
+a=0.025852;  //say a=K*T/q
+disp("Vbi=a*log(Na*Nd/ni^2);");
+Vbi=a*log(Na*Nd/ni^2);
+printf('\n The value of built-in-potential is %1.3fV',Vbi);
+disp("Xn=sqrt((2*Єs*Vbi*Na)/(q*Nd*(Na+Nd)))");
+q=1.6*10^-19;
+b=11.7*8.85*10^-14;
+Xn=sqrt((2*b*Vbi*Na)/(q*Nd*(Na+Nd)));
+printf('\n The value of depletion width is %f*10^-5 cm',Xn*10^5);
+Neff=Na*Nd/(Na+Nd);
+printf('\n The value of Neff is %f*10^15',Neff*10^-15);
+c=11.7*8.85;
+q1=1.6;
+Cj0=sqrt(c*q1*Neff/(2*Vbi))/3;
+printf('\n The value of Cj0 is %f*10^-8 F/cm^2',Cj0*10^-8);
+Va=-3;
+Cj3=Cj0*10^-8*sqrt(Vbi/(Vbi-Va));
+printf('\n The value of Cj(-3) is %f*10^-8 F/cm^2',Cj3);
+W=sqrt(2*b*(Vbi-Va)/(q*Neff));
+printf('\n The value of total depletion width is %f*10^-5 cm',W*10^5);
+Emax=2*(Vbi-Va)/W;
+printf('\n The value of maximum electric field is %f V/cm',Emax);

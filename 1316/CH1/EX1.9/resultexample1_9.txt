@@ -1,0 +1,2 @@
+ The transfer function will be = 0.05 mV per degree celcius 
+Thus the range is 4.95 mV per degree celcius to 5.05 mV per degree celcius 

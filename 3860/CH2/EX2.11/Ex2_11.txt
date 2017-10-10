@@ -1,0 +1,11 @@
+ For the full adder C is used as Cin 
+
+ Cout = a'bc + ab'c + abc' + abc
+
+ s = a'b'c + a'bc' + ab'c' + abc
+
+ The simplified expression of Cout is as given below
+
+ Cout = bc + ac + ab
+
+ s is already in minimum SOP form

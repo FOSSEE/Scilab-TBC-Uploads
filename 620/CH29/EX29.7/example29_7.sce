@@ -1,0 +1,18 @@
+r1=1500;
+r2=1200;
+b=100;
+disp("Part a");
+av=-b*r1/r;
+disp("the voltage gain of the amplifier without feedback is"); disp(av);
+disp("Part b");
+r3=82;
+k=r3/r1;
+a1=av/(1-k*av);
+disp("the voltage gain of the amplifier when the feedback capacitor is not connected is"); disp(a1);
+disp("Part c");
+r4=1000;
+ro=r1*r4/(r1+r4);
+av1=-b*ro/r2;
+k=r3/ro;
+a2=av1/(1-k*av1);
+disp("the new voltage gain with feedback is"); disp(a2);

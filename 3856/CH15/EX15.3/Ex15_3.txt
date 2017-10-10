@@ -1,0 +1,1 @@
+ Crystal Field Stabilization Energy = -2.0 delta

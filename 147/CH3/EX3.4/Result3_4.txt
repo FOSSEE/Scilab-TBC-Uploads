@@ -1,0 +1,1 @@
+RMS value of voltage, V = 57.735027 V

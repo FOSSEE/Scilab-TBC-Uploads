@@ -1,0 +1,8 @@
+Capacitance(in micro farad),Resistance(in Kilo ohm) and Zener Voltage(in volts)=   
+ 
+    1.  
+ 
+    100.  
+ 
+    8.3  
+ 

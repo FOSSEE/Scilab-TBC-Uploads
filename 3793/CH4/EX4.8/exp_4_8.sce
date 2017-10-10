@@ -1,0 +1,27 @@
+clear;
+clc;
+R=15;
+L=.2;
+C=0.5*10^(-6);
+P=1000;
+V=22;
+pf=0.71;
+Z=complex(15,(2*%pi*50*L));
+Y=complex(0,(2*%pi*50*C));
+A=1+((Y*Z)/2);
+D=A;
+B=Z;
+C=Y*(1+(Y*Z/4));
+Ir=(P/V)*complex(.71,-.70421);
+Vs=[A B; C D]*[22000;Ir];
+Vss=sqrt(((real(Vs(1,1)))^2)+((imag(Vs(1,1)))^2))*(10^(-3));
+Iss=sqrt(((real(Vs(2,1)))^2)+((imag(Vs(2,1)))^2));
+mprintf("Sending End Voltage is %.3f KV\n",Vss);
+mprintf("Sending End Current is %.3f A\n",Iss);
+del1=atand(imag(Vs(1,1)/real(Vs(1,1))));
+del2=atand(imag(Vs(2,1)/real(Vs(2,1))));
+pf1=cosd(del1-del2);
+mprintf("power factor at sending End  is %.3f\n ",pf1);
+Vrnl=Vss/real(A);
+mprintf("No load Receiving End Voltage is %.3f A",Vrnl);
+

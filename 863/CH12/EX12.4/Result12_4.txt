@@ -1,0 +1,6 @@
+Components required to design circuit are resistors Rb and Rc(in kilo ohm)=   
+ 
+    84.9375  
+ 
+    37.5  
+ 

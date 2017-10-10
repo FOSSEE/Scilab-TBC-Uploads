@@ -1,0 +1,10 @@
+Components required to design circuit are resistances Rb,R1(in kilo ohm) and Capacitors C1,C2(in micro farad)=   
+ 
+    14.3  
+ 
+    2.  
+ 
+    1.2753733  
+ 
+    0.6993007  
+ 

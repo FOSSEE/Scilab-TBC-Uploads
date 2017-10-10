@@ -1,0 +1,1 @@
+The object is moving at v=1.28 meters/sec 

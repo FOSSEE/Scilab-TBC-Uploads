@@ -1,0 +1,7 @@
+ 
+ Example 12.6
+
+ Steam quality at turbine exhaust is 0.902695 
+ Net work per kg of stem is 798.641702 kJ/kg
+ Cycle efficiency is 33.397805 percent
+ Stream rate is 4.507653 kg/kW h

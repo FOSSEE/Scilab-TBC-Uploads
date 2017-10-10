@@ -1,0 +1,6 @@
+ Capacitance(in pF) and Frequency(in Khz)=   
+ 
+    259.25926  
+ 
+    173.91304  
+ 

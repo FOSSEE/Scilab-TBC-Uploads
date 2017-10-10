@@ -1,0 +1,13 @@
+im=50;
+rm=3000;
+disp("Part a");
+it=1000;
+is=it-im;
+rs=rm*im/is;
+disp("the value of shunt resistance (in Ω) is"); disp(rs);
+disp("Part b");
+vm=rm*im;
+disp("at full-scale deflection the volage drop (in V) is"); disp(vm);
+disp("Part c");
+rt=vm/it;
+disp("the total resitance (in Ω) of the meteris"); disp(rt);

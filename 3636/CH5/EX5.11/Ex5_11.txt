@@ -1,0 +1,2 @@
+ Depletion capacitance per unit area= 1.804e-09 F/cm^2
+Width of depletion region= 5.74e-04 cm 

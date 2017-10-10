@@ -1,0 +1,2 @@
+Co-ordinates of A,B,C are (Infinity,0,0),(0,1,0)(0,0,0.666667)
+   Miller indices of the plane are(0,2,3) 

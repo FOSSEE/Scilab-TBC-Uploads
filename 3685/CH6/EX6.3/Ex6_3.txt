@@ -1,0 +1,9 @@
+ Example 6.3
+
+ Part A:
+ The heat transfer to refrigerant is 717 kJ
+ The heat rejection to the 40 degree reservoir is 5531.698358 kJ
+
+ Part B:
+ The heat transfer to refrigerant is 1486.827033 kJ
+ The heat rejection to the 40 degree reservoir is 1898.351737 kJ 

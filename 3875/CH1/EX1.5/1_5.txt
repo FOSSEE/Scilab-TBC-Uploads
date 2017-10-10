@@ -1,0 +1,2 @@
+ Resistance is = 19 ohm
+Capacitance is = 3.33e-05 F

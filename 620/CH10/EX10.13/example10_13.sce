@@ -1,0 +1,14 @@
+hfe=200;
+hoe=100*10^3;
+rc=10*10^3;
+vs=0.02;
+ib=10*10^(-6);
+disp("Part a");
+ic=hfe*ib*hoe/(hoe+rc);
+disp("the output current (in mA) is"); disp(ic*10^3);
+disp("Part b");
+vo=ic*rc;
+disp("output voltage (in V) is"); disp(vo);
+disp("Part c");
+av=vo/vs;
+disp("voltage gain is"); disp(av);

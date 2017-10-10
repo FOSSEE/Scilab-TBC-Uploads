@@ -1,0 +1,6 @@
+ 
+ Example 19.16
+
+ Actual temperature at the end of first stage = 382.637049 K,
+ Actual temperature at the end of second stage = 425.041961 K,
+ The total compressor power = 965.010854 kW 

@@ -1,0 +1,3 @@
+(i) Resistance of shunt, Rsh = 0.037783 ohm
+
+(ii) The value of series resistance, Rse = 6661.667 ohm

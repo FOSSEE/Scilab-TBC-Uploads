@@ -1,0 +1,1 @@
+The inter frame spacing is a=2.67 A 

@@ -1,0 +1,9 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_10.sce', -1)
+ 
+ Required Value of Laod resistance(Ohms)=   
+ 
+    4000.  
+ 
+

@@ -1,0 +1,3 @@
+Maximum primary voltage = 288 V
+rated V2 = 72 V
+rated I2 = 16.67 A

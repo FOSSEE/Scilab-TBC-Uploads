@@ -1,0 +1,2 @@
+The wagon accelerates at ax=8.7 meters/sec^2
+Force by which the ground pushing is P=30 N 

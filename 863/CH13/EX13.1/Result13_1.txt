@@ -1,0 +1,8 @@
+Components required to design the circuit are resistors(in kilo ohm)=   
+ 
+    28.5  
+ 
+    16.4125  
+ 
+    2.4  
+ 

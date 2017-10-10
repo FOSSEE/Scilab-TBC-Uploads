@@ -1,0 +1,7 @@
+ 
+ -->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 11\exa11_5.sce', -1)
+ 
+ waveform Shows that whistle amplitude has been cut down to 3% of the voice signal at the in 
+      put                                                                                    
+ 
+

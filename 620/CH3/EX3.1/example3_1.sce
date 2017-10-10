@@ -1,0 +1,15 @@
+disp("Part a");
+v1=10;
+i1=1;
+r1=v1/i1;
+disp("the resistance value (in Ω) is"); disp(r1);
+disp("Part b");
+v2=20;
+i2=2;
+r2=v2/i2;
+disp("the resistance value (in Ω) is"); disp(r2);
+disp("Part c");
+v3=30;
+i3=3;
+r3=v3/i3;
+disp("the resistance value (in Ω) is"); disp(r3);

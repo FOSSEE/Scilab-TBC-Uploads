@@ -1,0 +1,3 @@
+ 
+The elevation difference between the liquid at the center and the wall, during rotation = 0.051 m.
+ 

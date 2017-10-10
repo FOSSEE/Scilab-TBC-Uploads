@@ -1,0 +1,2 @@
+
+ Energy stored in the inductor = 0.10 J

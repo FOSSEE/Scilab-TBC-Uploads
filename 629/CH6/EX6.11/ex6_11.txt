@@ -1,0 +1,2 @@
+ 
+ The ratio of propellant mass to initial mass to achieve orbital velocity = 0.907.

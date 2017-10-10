@@ -1,0 +1,1 @@
+ Translational Partition function of a Helium atom = 7.75*10^30

@@ -1,0 +1,10 @@
+(a)Rise Time(in Micro sec)=   
+ 
+    10.049876  
+ 
+ (b)Minimum upper cut off frequency(in Mhz) and rise time(in ns)=   
+ 
+    10.5  
+ 
+    105.40926  
+ 

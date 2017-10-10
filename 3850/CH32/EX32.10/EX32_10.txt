@@ -1,0 +1,2 @@
+
+ Charge remaining on the capacitor after 1s = 8.24*10^-7 uC

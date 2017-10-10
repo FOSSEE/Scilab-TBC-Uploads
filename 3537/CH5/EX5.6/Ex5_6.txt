@@ -1,0 +1,3 @@
+ Inter planara spacing at 6.45Degrees is d/n=5.163 Armstrongs
+Inter planara spacing at 9.15Degrees is d/n=3.647 Armstrongs
+Inter planara spacing at 13.00Degrees is d/n=2.578 Armstrongs 

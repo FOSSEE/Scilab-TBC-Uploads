@@ -1,0 +1,24 @@
+Part a   
+ 
+ the primary current (in A) is   
+ 
+    1102.0833  
+ 
+ Part b   
+ 
+ the primary current (in A) with 98% efficiency is   
+ 
+    3.2439659  
+ 
+ Part c   
+ 
+ The losses (in W) is   
+ 
+    269.89796  
+ 
+ Part d   
+ 
+ The rating of the transformer (in kVA) is   
+ 
+    13.225  
+ 

@@ -1,0 +1,2 @@
+ 
+The new levels of water in the tube are z1 = 0.021 m, z2 = 0.339 m.

@@ -1,0 +1,5 @@
+
+ Molal heat of vaporization of acetone at 
+   1 atm pressure         8 atm pressure: 
+   7112 cal/g-mole        5878 cal/g-mole   -------from equation (32), Page 275 
+   6891 cal/g-mole        5864 cal/g-mole   -------from equation (33), Page 275

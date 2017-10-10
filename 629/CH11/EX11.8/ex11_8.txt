@@ -1,0 +1,5 @@
+ 
+The angle of attack for a take the given take off speed = 7 degrees.
+
+The stall speed is 119 km/h.
+ 

@@ -1,0 +1,36 @@
+ 
+ Displays the count in this particular Sequence.
+
+ 0001
+
+ 0010
+
+ 0100
+
+ 0111
+
+ 1011
+
+ 0000
+
+ 0110
+
+ 1101
+
+ 0101
+
+ 1110
+
+ 1000
+
+ 0011
+
+ 1111
+
+ 1100
+
+ 1010
+
+ 1001
+
+ the counter repeats again.

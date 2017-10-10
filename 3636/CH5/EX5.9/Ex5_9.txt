@@ -1,0 +1,4 @@
+ a)
+Total concentration of holes= 5.45e+11 cm^-3
+b)
+Additional voltage required= 0.9051 V 

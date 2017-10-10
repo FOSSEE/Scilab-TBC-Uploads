@@ -1,0 +1,17 @@
+Part a   
+ 
+ the output current (in mA) is   
+ 
+    1.8181818  
+ 
+ Part b   
+ 
+ output voltage (in V) is   
+ 
+    18.181818  
+ 
+ Part c   
+ 
+ voltage gain is   
+ 
+    909.09091 

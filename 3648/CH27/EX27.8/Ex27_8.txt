@@ -1,0 +1,2 @@
+The decay constant is lamda=0.0087800 h^-1
+ The Half life is t0.5=79 h 

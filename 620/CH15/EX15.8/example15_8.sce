@@ -1,0 +1,14 @@
+r1=3.3;
+r2=4.7;
+vp=36;
+disp("Part a");
+vt=vp/(2*sqrt(2));
+rt=r1+r2;
+i=vt/rt;
+disp("the reading of a series-connected ammeter (in mA) is"); disp(i);
+disp("Part b");
+v=vt*r2/(r1+r2);
+disp("voltage (in V) across the 4.7 kΩ resistor is"); disp(v);
+disp("Part c");
+p=i^2*r1;
+disp("power dissipated (in mW) in he 3.3kΩ resistor is"); disp(p);

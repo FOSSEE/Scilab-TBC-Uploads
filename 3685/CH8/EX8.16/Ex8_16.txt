@@ -1,0 +1,3 @@
+ 
+ Example 8.16
+ Exergy produced is 34.621027 MJ or 9.616952 kWh 

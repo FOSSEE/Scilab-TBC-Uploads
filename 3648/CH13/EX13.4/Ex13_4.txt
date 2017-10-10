@@ -1,0 +1,4 @@
+ The first resonance frequency is F1=2 Hz
+The second resonance frequency is F2=4 Hz
+The third resonance frequency is F3=6 Hz
+ 

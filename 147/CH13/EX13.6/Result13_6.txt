@@ -1,0 +1,2 @@
+Core loss, Pc = 74.1 W
+No-load power factor = 0.417 lagging

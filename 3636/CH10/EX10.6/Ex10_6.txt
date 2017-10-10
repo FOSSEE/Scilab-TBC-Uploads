@@ -1,0 +1,14 @@
+ a)
+electron concentration= 1e+15 cm^-3
+hole concentration= 2.1e+05 cm^-3
+Fermi level w.r.t intrinsic fermi level= 0.279 eV
+b)
+electron concentration= 1e+15 cm^-3
+hole concentration= 1e+12 cm^-3
+Quasi fermi level for n-type carrier= 0.279 eV
+Quasi fermi level for p-type carrier= 0.11 eV
+c)
+electron concentration= 1e+18 cm^-3
+hole concentration= 1e+18 cm^-3
+Quasi fermi level for n-type carrier= 0.45 eV
+Quasi fermi level for p-type carrier= 0.45 eV

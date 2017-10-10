@@ -1,0 +1,2 @@
+ lamda=131 pm
+ d=168 pm 

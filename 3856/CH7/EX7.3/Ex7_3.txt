@@ -1,0 +1,2 @@
+ Molal Solubility of Carbon di Oxide = 1.12*10^-5 mol/kg
+Molal solubility = 1.13*10^-5 atm mol^-1 kg^-1

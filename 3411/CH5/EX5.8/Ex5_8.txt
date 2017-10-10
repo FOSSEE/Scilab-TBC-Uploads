@@ -1,0 +1,2 @@
+ Bragg angle theta=43.5degrees 
+ wavelength lamda=0.159nm 

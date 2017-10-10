@@ -1,0 +1,3 @@
+The current I=2.5 A
+ Resistance is R=20 Ohms
+ The value E is=41 V 

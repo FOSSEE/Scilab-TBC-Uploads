@@ -1,0 +1,2 @@
+ The range of Transfer function is 4.95 to 5.05 mV per degree celcius 
+ The possible temperature values that could be inferred from reading of 27.5 degree celcius are 5.56 and 5.45

@@ -1,0 +1,3 @@
+
+	The total power required for the agitator before the air is turned on: 316 kW
+	The total power required for the agitator after the air is turned on: 203 kW

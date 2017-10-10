@@ -1,0 +1,1 @@
+Average voltage induced in the inductance, vavg = 20 V

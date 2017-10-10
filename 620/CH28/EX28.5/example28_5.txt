@@ -1,0 +1,18 @@
+
+ Part a   
+ 
+ the necessary r.m.s. output voltage (in V) from the alternator is   
+ 
+    15.184364  
+ 
+ Part b   
+ 
+ the peak current (in A) throught the diodes is   
+ 
+    31.415927  
+ 
+ Part c   
+ 
+ the P.I.V. (in V) of the diodes is   
+ 
+    15.184364  

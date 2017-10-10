@@ -1,0 +1,2 @@
+ a)Current= 5.59e-15 A
+b)Total number of solar cells= 25000 

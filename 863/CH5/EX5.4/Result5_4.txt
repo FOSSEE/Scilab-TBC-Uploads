@@ -1,0 +1,10 @@
+Required components for circuit are Capacitance(in micro farad),Resistances R1(in ohm),R2(in kilo ohm),R3(in kilo ohm)=   
+ 
+    0.1  
+ 
+    250.  
+ 
+    5.  
+ 
+    5.  
+ 

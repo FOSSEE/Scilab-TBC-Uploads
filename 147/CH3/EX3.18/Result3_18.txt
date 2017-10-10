@@ -1,0 +1,4 @@
+Line voltage Vl = 207.8 V
+Line current Il = 2 A
+Power factor = 0.6 lagging 
+Power P = 432 W

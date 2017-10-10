@@ -1,0 +1,20 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.2.sce', -1)
+ 
+ Energy supplied in one minute(in Joule)=   
+ 
+    2880.  
+ 
+ Charge transfer in one minute(in Coulumbs)=   
+ 
+    240.  
+ 
+ Total charge stored in Battery(in Coulumbs)=   
+ 
+    416666.67  
+ 
+ Capacity of Battery (in Ah)=   
+ 
+    115.74074  
+ 

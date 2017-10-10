@@ -1,0 +1,16 @@
+ 
+ F = AB' + AC + A'BC'
+
+ F = AB'(C' + C) + AC(B' + B) + A'BC'
+
+ F = AB'C' + AB'C + AB'C + ABC + A'BC'
+
+ m4 + m5 + m5 + m7 + m2
+
+ m2 + m5 + m7 + m4
+
+       A'B'  A'B  AB  AB'
+
+ C'     -    1    -    1
+
+ C      -    -    1    1

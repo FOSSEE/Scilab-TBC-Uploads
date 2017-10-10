@@ -1,0 +1,4 @@
+The absolute potential is V=27.2 V
+The energy that is required is W= 
+    4.347D-18  
+J 

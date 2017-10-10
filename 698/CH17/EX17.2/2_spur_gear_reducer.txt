@@ -1,0 +1,8 @@
+(a) Torque=P*60/ 2*pi*N
+	Mt=33.157 Nm
+
+(b)Tangential Force on Gears Ft=Mt/rp
+	Ft=663.1 N
+
+Radial force Fr=Ft*tan(phi)
+	Fr=241.37 N

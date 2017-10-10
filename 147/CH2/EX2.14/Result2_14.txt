@@ -1,0 +1,3 @@
+Sum of power from the sources P = 666.50 W
+Power dissipated by resistances P = 666.74 W 
+Hence Sum of the powers from the two sources is the total power dissipated in all the resistances.

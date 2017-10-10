@@ -1,0 +1,3 @@
+The sun would take for one revolution in time= 
+    0.000216  
+sec 

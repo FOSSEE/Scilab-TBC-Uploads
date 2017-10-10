@@ -1,0 +1,14 @@
+This is a forced, steady state vibration situation.
+
+There are 2 supporting springs, hence net stiffness Ke=2k
+Damping coefficient Ce = 0.05 Cc = 0.05*2*sqrt(Ke*m)
+
+The expression for desired amplitude Y is
+
+	Y=Fo/sqrt((ke-m*w^2)^2+(Ce*w)^2)
+Y will be maximum at resonance, i.e., w=wn
+Thus the design condition is k=(1/2)m*w^2
+	k=21.73 kN/m
+
+At resonance, Y=Fo/c*w
+The peak solenoid force required is 2.17 N

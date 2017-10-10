@@ -1,0 +1,4 @@
+ The arrow hits y=9.3 meters above the straight point
+The Vertical componet of velocity is v=11.9 meters/sec
+As V is Positive the arrow is in its way up
+The magnitude of velocity is vtotal=26.8 meters/sec 

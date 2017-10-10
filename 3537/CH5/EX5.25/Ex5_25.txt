@@ -1,0 +1,3 @@
+For n=3 lamda=129.64
+For n=4 lamda=97.23
+Lamda lies beyond the range of wavelengths of polychromatic source 

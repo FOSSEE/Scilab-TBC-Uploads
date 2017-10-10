@@ -1,0 +1,27 @@
+	AT SECTION A-A
+Top fibres are critical.
+
+	Sn(max) = ((M*c)/I) + (P/A)
+Maximum normal stress Sn(max)=49.5 MN/m^2 tensile at top fibres of section A-A
+
+	Sn(min) = -((M*c)/I) + (P/A)
+Minimum normal stress Sn(min)=-31.5 MN/m^2 compressive at bottom fibres of section A-A
+
+Maximum shear stress T(max)=24.7 MN/m^2 at top fibres of section A-A
+
+	AT POINT B
+(neglecting stress concentration)
+
+	Sx = ((M*c)/I) + (P/A)
+Sx=49.5 MN/m^2 tensile
+	Sy = ((M*c)/I)
+Sy=54.0 MN/m^2 tensile
+ Sz=0 and Txy=0
+
+	Sn(max) =((Sx+Sy)/2) + sqrt( ((Sx-Sy)/2)^2 - (Txy^2) )
+Maximum normal stress Sn(max)=54.0 MN/m^2 tensile
+	Sn(min) =((Sx+Sy)/2) - sqrt( ((Sx-Sy)/2)^2 - (Txy^2) )
+Minimum normal stress Sn(min)=49.5 MN/m^2 tensile
+	T(max)=(Sn(max)-0)/2
+Maximum shear stress T(max)=27.0 MN/m^2
+

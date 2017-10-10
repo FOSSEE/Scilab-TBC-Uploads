@@ -1,0 +1,13 @@
+(a) General equation of any single degree of freedom system is given by
+ma + cv + kx = F(t) = Fo sin(wt)
+	a is the acceleration (x_dotdot)
+	v is the velocity (x_dot)
+	x is the amplitude
+
+(b)Natural Frequency=SQRT(k/m) = 5.00rad/s
+
+(c)Damped Frequency=SQRT( (k/m) - ( (c/ (2*m) ) ^2) ) = 4.54rad/s
+
+(d)Damping ratio= c/ (2* SQRT(k*m)) = 0.42
+
+(e)Amplitude of steady state vibration, Y= Fo/ sqrt( (k- (m*(w^2)))^2 + (c*w)^2 ) =0.01163m

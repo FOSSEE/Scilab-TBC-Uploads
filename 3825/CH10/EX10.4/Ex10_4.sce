@@ -1,0 +1,34 @@
+clc
+y1=0.75 //H2
+y2=0.25 //N2
+CP1=28.6455
+CP2=29.1783
+CP=(y1*CP1)+(y2*CP2)
+mprintf("CP=%fkJ/kmol K\n",CP)//ans vary due to roundoff error
+Cv1=20.3311
+Cv2=20.8641
+Cv=(y1*Cv1)+(y2*Cv2)
+mprintf("Cv=%fkJ/kmol K\n",Cv)//ans vary due to roundoff error
+gama=CP/Cv
+mprintf("gamma=%f\n",gama)//ans vary due to roundoff error
+P1=100 //pressure in kPa
+P2=500 //pressure in kPa
+T1=300
+T2=T1*((P2/P1)^((gama-1)/gama))
+mprintf("T2=%fK\n",T2)//ans vary due to roundoff error
+ws=-CP*(T2-T1)
+mprintf("-ws=%fkJ/kmol\n",-ws)//ans vary due to roundoff error
+M1=2.016
+M2=28.013
+M=(y1*M1)+(y2*M2)
+mprintf("Molar mass=%fkg/kmol\n",M)//ans vary due to roundoff error
+Ws=-(-ws/M)
+mprintf("-Ws=%fkJ/kg of mixture\n",-Ws)//ans vary due to roundoff error
+R=8.314
+deltas1=(CP1*log(T2/T1))-(R*log(P2/P1))
+mprintf("s2-s1=%fkJ/kmol K\n",deltas1)//ans vary due to roundoff error
+deltas2=(CP2*log(T2/T1))-(R*log(P2/P1))
+mprintf("s2-s1=%fkJ/kmol K\n",deltas2)//ans vary due to roundoff error
+deltas=(y1*deltas1)+(y2*deltas2)
+mprintf("s2-s1=%fkJ/kmol K",deltas)//ans vary due to roundoff error
+

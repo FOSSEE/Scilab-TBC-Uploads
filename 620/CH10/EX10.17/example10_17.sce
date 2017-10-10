@@ -1,0 +1,13 @@
+v1=8;
+v2=20;
+r1=1;
+r2=2;
+r3=3;
+r4=4;
+r5=5;
+i1=2;
+vx=(i1-v2/r5+v1*r4*(1/r4+1/r5)/(r1+r2))/((1/r3+1/r4+1/(r1+r2))*(1/r4+1/r5)*r4-1/r4);
+vy=r4*((vx*(1/r3+1/r4+1/(r1+r2)))-v1/(r1+r2));
+i4=(vx-vy)/r4;
+disp("the current (in mA) flowing through R4 is"); disp(i4);
+disp("and the direction is left to right");

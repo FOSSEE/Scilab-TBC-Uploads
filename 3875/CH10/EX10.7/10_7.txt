@@ -1,0 +1,1 @@
+ The time required to cool from 1000 to 300K is = 1.27e+05 sec or 127*10^3 sec

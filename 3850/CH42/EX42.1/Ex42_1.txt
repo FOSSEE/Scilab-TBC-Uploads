@@ -1,0 +1,4 @@
+
+ (a) Energy of each photon = 2.07 eV
+     Linear Momentum of each photon = 0.69*10^-8 eV-s/m
+ (b) Number of photons crossing 1 cm^2 in 1 second = 3.0*10^16

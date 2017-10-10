@@ -1,0 +1,4 @@
+ 
+ the total current (in mA) drawn from the supply is   
+ 
+    119.36621  

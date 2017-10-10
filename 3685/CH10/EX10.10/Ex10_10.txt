@@ -1,0 +1,6 @@
+ 
+ Example 10.10
+ Specific volume is 3.055154 *10^-3 m3/kg
+ Specific temperature is 57.850000 K
+ Specific pressure is 5.460000 MPa
+ Reduced volume is 1.482264 m3/kg 

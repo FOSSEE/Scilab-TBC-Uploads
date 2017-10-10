@@ -1,0 +1,17 @@
+clear;
+clc;
+E_ll=110;
+U=12;
+V_o=(3*sqrt(2)*E_ll)/%pi;
+X=0;
+V_d1=(V_o*(cosd(X)+cosd(U+X)))/2;
+printf("\nthe dc output voltage when (X=0) = %.3f kV",V_d1);
+X1=25;
+V_d2=(V_o*(cosd(X1)+cosd(U+X1)))/2;
+printf("\nthe dc output voltage when (X1=25) = %.3f kV",V_d2);
+X2=90;
+V_d3=(V_o*(cosd(X2)+cosd(U+X2)))/2;
+printf("\nthe dc output voltage when (X2=90) = %.3f kV",V_d3);
+X3=120;
+V_d4=(V_o*(cosd(X3)+cosd(U+X3)))/2;
+printf("\nthe dc output voltage when (X3=120) = %.3f kV",V_d4);

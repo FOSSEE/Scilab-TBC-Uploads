@@ -1,0 +1,7 @@
+(a) The total current, I = 0.3 A
+
+(b) The current through 2100 ohm resistor is 0.1 A
+    The current through 2100 ohm resistor is 0.1 A
+    The current through 2100 ohm resistor is 0.1 A
+
+(c) Total power dissipated in resistors, P = 63 W

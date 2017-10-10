@@ -1,0 +1,16 @@
+l=10*10^(-6);
+r=5;
+c=0.01*10^(-6);
+disp("Part a");
+fr=sqrt(1-c*r^2/l)/(2*%pi*sqrt(l*c));
+disp("the resonant frequency (in kHz) is"); disp(fr*10^(-3));
+disp("Part b");
+x_l=2*%pi*fr*l;
+q=x_l/r;
+disp("the Q value of the circuit is"); disp(q);
+disp("Part c");
+f=fr/q;
+disp("the bandwidth (in kHz) of the circuit is"); disp(f*10^(-3));
+disp("Part d");
+z=(r^2+x_l^2)/r;
+disp("the impedance (in Ω) of the circuit is"); disp(z);

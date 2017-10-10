@@ -1,0 +1,12 @@
+disp("Part a");
+v1=25;
+v2=10;
+v=v1-v2;
+r1=470;
+r2=220;
+r=r1+r2;
+i=v/r;
+disp("the current (in mA) is"); disp(i*10^3);
+disp("Part b");
+vb=v2+i*r2;
+disp("the voltage (in V) at A w.r.t. B is"); disp(vb);

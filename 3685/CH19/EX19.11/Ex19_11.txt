@@ -1,0 +1,7 @@
+ 
+ Example 19.11
+
+ No of stages for min power input = 4,
+ Power required = 340.466490 kW/kg air,
+ The power required for a single stage compressor = 476.745441 kW,
+ Maximum temperature in any stage = 366.440061 K 

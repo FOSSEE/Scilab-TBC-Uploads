@@ -1,0 +1,7 @@
+
+ Example 19.19
+
+ Total head pressure ratio = 1.003448, 
+ The required power at input shaft = 3.377984 kW,
+ Inlet angle at the root = 28 degree and 32 minute,
+ Inlet angle at the tip = 47 degree and 24 minute

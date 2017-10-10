@@ -1,0 +1,37 @@
+clc
+//initialisation of variables
+w=400*10^-3//m^3/min
+t=1/60//min/s
+q=10*10^-2//m
+v=1*10^-6//m^2
+v1=4*10^-2//m
+v2=10^-5//m^2/s
+p=0.000046/0.01
+R=0.000046/0.04
+g=9.8//m/s^2
+v3=100//m
+v4=0.78//m
+d1=0.5//m
+d3=0.037//m
+d2=0.84//m
+Hg=10*1.44//m
+Hck=2.5*1.44//m
+f4=188.81//m
+h4=4*0.9*1.44//m
+Het=1.0*1.44//m
+p1=9802//N/m^3
+p2=10^-5//bars
+w2=400//min
+w3=448
+//CALCULATIONS
+V=(4*w*t)/((%pi)*(q)^2)//m/s
+V4=(4*w*t)/((%pi)*(v1)^2)//m/s
+Nr=(V*q)/v2
+Nr4=(V4*v1)/v2
+He=(v4*(V)^2)/(2*g)//m
+f10=(He*v3*(V)^2)/(q*2*g)//m
+Hr=d1*d2*d3//m
+Htotal=He+f10+Hr+Hg+Hck+f4+h4+Het//m
+FHP=(Htotal*p1*p2*w2)/w3//hp
+//RESULTS
+printf('The head and power loss associate with the friction in the system is=% f hp',FHP)

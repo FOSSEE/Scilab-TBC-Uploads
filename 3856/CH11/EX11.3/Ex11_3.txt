@@ -1,0 +1,6 @@
+ At Equilibrium the concentrations are as follows:
+ [H+]=1.9*10^-6 M
+ [OH-]=5.1*10^-9 M
+ [H2CO3]=1.1*10^-5 M
+ [HCO3-]=1.9*10^-6 M
+ [CO3 2-]=4.8*10^-11 M

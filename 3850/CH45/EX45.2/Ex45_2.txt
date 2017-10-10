@@ -1,0 +1,2 @@
+
+ Resistivity of the n-type semiconductor = 0.034 ohm-m

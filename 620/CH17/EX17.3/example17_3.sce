@@ -1,0 +1,15 @@
+n=50;
+a=10^(-4);
+s=2*10^(-2);
+disp("Part a");
+mu0=4*%pi*10^(-7);
+l=n^2*mu0*a/s;
+disp("the inductance (in μH) of the air-core coil is"); disp(l*10^6);
+disp("Part b");
+mur=200;
+l1=mur*l;
+disp("the new inductance (in mH) is"); disp(l1*10^3);
+disp("Part c");
+n1=2*n;
+l2=4*l1;
+disp("the new inductance (in mH) is"); disp(l2*10^3);

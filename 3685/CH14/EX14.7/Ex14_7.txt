@@ -1,0 +1,4 @@
+ 
+ Example 14.7
+
+ Steam flow rate required is 0.065053 kg/s 

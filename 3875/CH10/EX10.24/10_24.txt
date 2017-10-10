@@ -1,0 +1,4 @@
+ The de-Broglie wavelength is = 0.143 nm
+The group velocity is = 2.76e+03 m/s
+The phase velocity is = 3.26e+13 m/s
+The energy of the nuetron is = 1.39e-15 J or 8.69 keV

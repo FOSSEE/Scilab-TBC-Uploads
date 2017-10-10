@@ -1,0 +1,3 @@
+ 
+ The kerosene velocity in the pipe = 24.3 ft/s.
+ 

@@ -1,0 +1,16 @@
+ 
+ F = m(1,7,10,11,13)+ d(5,8,15)
+
+       A'B'  A'B  AB   AB'
+
+ C'D'                  X
+
+ C'D    1     X    1
+
+ CD           1    X    1
+
+ CD'                    1
+
+ The solution for F is
+
+ F = AC + ABD'+ CD'

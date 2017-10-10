@@ -1,0 +1,2 @@
+As the total number of lines required for the just resolution in the first order is 982 and the total number of lines on the grating is 850, the lines will not be resolved
+As the total number of lines required for the just resolution in the first order is 491 and the total number of lines on the grating is 850, the lines will appear resolved in second order

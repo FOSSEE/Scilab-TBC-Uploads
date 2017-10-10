@@ -1,0 +1,5 @@
+The acceleration a=(f/m)-g*sin(theta)
+ In special case when there is no friction f=0
+So a=-g*sin(theta)
+As theta=90 degrees
+Acceleration a=-g 

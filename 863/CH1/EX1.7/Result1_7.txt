@@ -1,0 +1,4 @@
+Lowest input frequency(in Khz)=   
+ 
+    1.5707963  
+ 

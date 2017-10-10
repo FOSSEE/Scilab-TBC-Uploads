@@ -1,0 +1,3 @@
+Work done when lifting is W=mgh*1
+Work done when downing is W=mgh*-1
+ 

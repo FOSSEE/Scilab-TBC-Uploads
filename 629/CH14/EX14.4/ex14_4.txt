@@ -1,0 +1,5 @@
+ 
+The speed at which the pump should be operated = 1961 rpm.
+
+The discharge for the given conditions = 0.234 m^3/s.
+ 

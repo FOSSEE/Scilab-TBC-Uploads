@@ -1,0 +1,19 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 6\exa6.5.sce', -1)
+ 
+ Current phasor in Rectangular form(Amps)=   
+ 
+  - 1.0260604 + 2.8190779i  
+ 
+ Current phasor in Polar form   
+ 
+ Magnitude=   
+ 
+    3.  
+ 
+ Phase(in degree)=   
+ 
+    110.  
+ 
+

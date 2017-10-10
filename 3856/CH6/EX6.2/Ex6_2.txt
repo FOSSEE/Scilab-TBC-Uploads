@@ -1,0 +1,3 @@
+ (a)Change in Gibbs Energy at Zero degree celcious = 0 
+(b)Change in Gibbs Energy at Ten degree celcious = -0.22 kJ
+(c)Change in Gibbs Energy at minus Ten degree celcious= 0.22 kJ

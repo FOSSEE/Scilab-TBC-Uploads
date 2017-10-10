@@ -1,0 +1,7 @@
+ 
+ Example 19.8
+
+ Minimum power required by the compressure is 49.337005 kW,
+ Bore of the compressure in low pressure side is 26.596152 cm,
+ Bore of the compressure in high pressure side is 8.921722 cm,
+ Stroke of the compressure is 36 cm 

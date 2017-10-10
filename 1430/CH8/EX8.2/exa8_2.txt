@@ -1,0 +1,12 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 8\exa8.2.sce', -1)
+ 
+ Power transfer efficiency without transformer(in Watt)=   
+ 
+    0.6  
+ 
+ Power transfer efficiency with transformer(in Watt)=   
+ 
+    0.96  
+

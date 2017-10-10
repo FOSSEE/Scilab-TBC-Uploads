@@ -1,0 +1,4 @@
+ a)Limiting electric field= 100 V/cm
+b)Length of resistor= 5.0e-02 cm
+c)Area of cross-section= 1e-05 cm^2
+d)Acceptor doping concentration= 5e+15 cm^-3 

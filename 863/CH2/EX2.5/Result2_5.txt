@@ -1,0 +1,8 @@
+Rise time,time for  63.2% charging and time required for complete charging(in micro sec)=   
+ 
+    42.9  
+ 
+    19.5  
+ 
+    97.5  
+ 

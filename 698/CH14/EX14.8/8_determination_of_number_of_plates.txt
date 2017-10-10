@@ -1,0 +1,5 @@
+Number of contacting surfaces 11
+Number of driver plates are 6
+Number of friction plates are 6
+
+There are 11 total number of plates, with 6 pressure and 6 friction discs

@@ -1,0 +1,2 @@
+The RMS current when f=20 Hz is=0.00402 Ohms
+The RMS current when f=2*10^6 Hz is=402.12 Ohms 

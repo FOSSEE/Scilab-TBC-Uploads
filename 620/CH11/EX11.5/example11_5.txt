@@ -1,0 +1,3 @@
+ the current required (in A) is   
+ 
+    0.32 

@@ -1,0 +1,5 @@
+For n=1 lamda=0.000120cm which lies in infrared region
+For n=2 lamda=0.000060cm which lies in visible region
+For n=3 lamda=0.000040cm which lies in visible region
+For n=4 lamda=0.000030cm which lies in ultraviolet region
+Hence absent wavelengths in reflected region are 0.000060cm  and 0.000040cm 

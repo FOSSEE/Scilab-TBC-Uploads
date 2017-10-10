@@ -1,0 +1,6 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 5\exa5.2.sce', -1)
+ 
+ This Waveform will continues periodically thereafter   
+ 

@@ -1,0 +1,7 @@
+ 
+ Example 12.12 
+
+ Overall efficiency of the cycle is 52.798182 percent
+ Flow through the mercury turbine is 5.934282e+05 kg/h
+ Useful work done in binary vapor cycle is 28.372803 MW
+ Overall efficiency is 46.169369 percent 

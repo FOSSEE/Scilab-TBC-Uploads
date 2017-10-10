@@ -1,0 +1,2 @@
+ Excess minority carrier concentration at x=WB/3 = 3.16e+13 cm^-3
+Excess minority carrier concentration at x=0 = 4.74e+13 cm^-3

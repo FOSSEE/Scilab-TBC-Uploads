@@ -1,0 +1,19 @@
+ 
+ Example 12.8
+
+ Part (a)
+ The first law efficiency n1 is 36.473808
+ The second law efficiency n2 is 56.037667
+ The work ratio is 0.991498
+ Part (b)
+ The first law efficiency n1 is 39.399625
+ The second law efficiency n2 is 66.441188
+ The work ration is 0.993691
+ Part (c)
+ The first law efficiency n1 is 40.546058
+ The second law efficiency n2 is 68.374465
+ The work ration is 0.994991
+ Part (d)
+ The first law efficiency n1 is 43.873239
+ The second law efficiency n2 is 42.264519
+ The work ration is 0.991498 

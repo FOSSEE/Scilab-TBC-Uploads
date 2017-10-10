@@ -1,0 +1,6 @@
+ Capacitance(in micro farad) and Resistance(in Kilo ohm)=   
+ 
+    1.  
+ 
+    50.  
+ 

@@ -1,0 +1,6 @@
+Zener voltage(in volts) and Resistance(in Kilo ohm)=   
+ 
+    10.3  
+ 
+    2.5333333  
+ 

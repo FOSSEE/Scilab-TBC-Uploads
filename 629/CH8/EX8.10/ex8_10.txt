@@ -1,0 +1,5 @@
+ 
+ The velocity in the prototype = 8.4 m/s.
+
+ The water flow rate in the model = 0.89 m^3/s.
+ 

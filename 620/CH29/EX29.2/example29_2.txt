@@ -1,0 +1,4 @@
+the alpha of the transistor is   
+ 
+    0.98  
+ 

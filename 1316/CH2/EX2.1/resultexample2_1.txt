@@ -1,0 +1,7 @@
+ The unloaded output of sensor is simply Vt = 1.0 
+Since the amplifier has a gain of 10,the output of the amplifier appears to be Vout = 10 V 
+But this is wrong because of loading !
+ Here we see that  there will be a voltage dropped across the 
+ output resistance of the sensor.The actual amplifier input voltage will be given by Vin = 0.67 V.
+Thus the output of amplifier is actually Vout = 6.7 V 
+ 

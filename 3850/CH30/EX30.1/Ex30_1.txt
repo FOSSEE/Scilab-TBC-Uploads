@@ -1,0 +1,2 @@
+
+ Net flux of Electric Field=0.100000 V/m

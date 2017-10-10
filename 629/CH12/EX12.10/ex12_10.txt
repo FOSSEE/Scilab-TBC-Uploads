@@ -1,0 +1,2 @@
+ 
+ Because (pe=38.7) < (pb=100), the nozzle is overexpanded.

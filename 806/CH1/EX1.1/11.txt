@@ -1,0 +1,22 @@
+ 
+ a liquid has a viscosity of 0.005kg/m.s and density of 850kg/cm^3,calculate the kinematic viscosity in (a)SI units (b)USC units and (c)viscosity in USC units   
+ 
+ Solution:   
+ 
+ Kinematic viscosity in SI units=   
+ 
+    0.0000059  
+ 
+ m^2/s   
+ 
+ Kinematic viscosity in USC units=   
+ 
+    0.0000633  
+ 
+ ft^2/s   
+ 
+ viscosity in USC units   
+ 
+    0.0001044  
+ 
+ slug/ft.s   

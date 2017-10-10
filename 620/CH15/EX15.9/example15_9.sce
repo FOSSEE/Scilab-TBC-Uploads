@@ -1,0 +1,13 @@
+r1=4.7;
+r2=3.3;
+i=50;
+disp("Part a");
+i2=i*r1/(r1+r2);
+disp("current (in mA) in the 3.3 kΩ resistor is"); disp(i2);
+disp("Part b");
+v=i2*r2;
+vp=2*sqrt(2)*v;
+disp("peak-o-peak voltage (in V) indicated by an oscilloscope across the source is");disp(vp);
+disp("Part c");
+p=v*i/1000;
+disp("the totalpower dissipation (in W) in the two resistors is");disp(p);

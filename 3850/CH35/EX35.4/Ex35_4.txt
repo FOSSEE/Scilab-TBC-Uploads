@@ -1,0 +1,2 @@
+
+ Magnetic Field at the Centre of Coil = 1.57*10^-3 T

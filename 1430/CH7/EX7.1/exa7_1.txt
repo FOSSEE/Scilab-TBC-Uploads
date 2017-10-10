@@ -1,0 +1,16 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 7\exa7.1.sce', -1)
+ 
+ Total Average Power Dissipation(in Watt)=   
+ 
+    0.24  
+ 
+ Power dissipated across 40kohm(in Watt)=   
+ 
+    0.08  
+ 
+ Power dissipated across 5kohm(in Watt)=   
+ 
+    0.16  
+ 

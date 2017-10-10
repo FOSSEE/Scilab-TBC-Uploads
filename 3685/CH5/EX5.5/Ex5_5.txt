@@ -1,0 +1,6 @@
+ 
+ 
+ Example 5.5
+ The rate of heat transfer to the air in the heat exchanger is 1577 kJ/s
+ The power output from the turbine assuming no heat loss is 298.800000 kW
+ The velocity at the exit of the nozzle is 552 m/s  

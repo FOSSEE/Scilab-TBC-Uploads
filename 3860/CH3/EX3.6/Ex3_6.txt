@@ -1,0 +1,29 @@
+ 
+        W'X' W'X  WX  WX' 
+
+ Y'Z'   1     1    1   1 
+
+ YZ'          1     
+
+ YZ           1    1   1
+
+ YZ'   
+
+  From the map, high outputs are for 0,1,2,3,5,13,14,15 
+
+   0.   0.   0.   0.
+   0.   0.   0.   1.
+   0.   0.   1.   0.
+   0.   0.   1.   1.
+   0.   1.   0.   1.
+   1.   1.   0.   1.
+   1.   1.   1.   0.
+   1.   1.   1.   1.
+
+  Evaluating expression from truth table and map 
+
+!W'X'Y' Z'  +  W'X'Y'Z  +  W'X'Y Z'  +  W'X'YZ  +  W'XY'Z  +  WXY'Z  +  WXY Z'  +  WXYZ  !
+
+ Three different reduced expression using boolean algebra
+
+ F = Y'Z' + WYZ + W'XZ'

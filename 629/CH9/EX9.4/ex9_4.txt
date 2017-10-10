@@ -1,0 +1,3 @@
+ 
+The shear resistance on one side of the plate = 0.108 lbf.
+ 

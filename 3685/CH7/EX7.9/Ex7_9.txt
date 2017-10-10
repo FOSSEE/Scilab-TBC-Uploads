@@ -1,0 +1,4 @@
+ 
+ Example 7.9
+ The entropy generated during the process is 0.785678 kW/K
+ As the entropy generated is positive so such device is possible 

@@ -1,0 +1,1 @@
+ Reverse saturation current density= 4.38e-11 A/cm^2 

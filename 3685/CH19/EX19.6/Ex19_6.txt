@@ -1,0 +1,4 @@
+ 
+ Example 19.6
+
+ Power required to drive the compressure is 181.333212 kW 

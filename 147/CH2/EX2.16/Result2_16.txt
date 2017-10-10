@@ -1,0 +1,3 @@
+Ammeter reading for network 1 = 4 A
+Ammeter reading for network 2 = 4 A 
+The equality of the ammeter readings constitutes a special case of the reciprocity theorem.

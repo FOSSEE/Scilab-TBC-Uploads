@@ -1,0 +1,3 @@
+(a) Reactive power of motor, Q = 19 kVAr
+
+(b) The overall power factor = 0.993

@@ -1,0 +1,2 @@
+Acceleration is a=0.5 meters/sec
+Distance travelled is x=25 meters 

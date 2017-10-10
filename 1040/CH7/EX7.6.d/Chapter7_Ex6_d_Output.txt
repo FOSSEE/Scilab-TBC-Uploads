@@ -1,0 +1,4 @@
+
+	The new calculated value of average dissolved O2 concentration  1.6 (mg/L)
+	The new calculated value of critical dissolved O2 concentration  9.2E-05 (mol/L)
+	The reactor is operated above critical O2 concentration 

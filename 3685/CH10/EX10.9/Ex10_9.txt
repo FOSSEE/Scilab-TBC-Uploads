@@ -1,0 +1,3 @@
+ 
+ Example 10.9
+ Increase in entropy is 1.229206 kJ/kg K 

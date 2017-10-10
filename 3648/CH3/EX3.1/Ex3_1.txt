@@ -1,0 +1,6 @@
+The Instantaneous Velocity at P Vp=10 meters/sec
+The Instantaneous Velocity at Q Vq=0 meters/sec
+The Instantaneous Velocity at N Vn=-10 meters/sec
+The Average Velocity between A and Q is VAQ=10 meters/sec
+The Average Velocity between A and M is VAM=0 meters/sec
+ 

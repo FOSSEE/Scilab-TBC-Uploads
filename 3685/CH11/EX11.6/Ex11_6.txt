@@ -1,0 +1,9 @@
+ 
+ Example 11.6
+
+ Energy of first system is 1.621288 kJ,
+ Energy of second system is 2.431933 kJ,
+ Volume of first system is 0.008000 m^3,
+ Volume of second system is 0.012000 m^3,
+ Pressure is 135 kN/m^2,
+ Temperature is 260 K. 

@@ -1,0 +1,6 @@
+(a) Torque capacity of one pair of surfaces, assuming uniform wear is 20.0 Nm
+(b) Total torque applied 50.9 Nm
+(c) Number of contacting surfaces 4
+(d) Actual torque per pair of surfaces is 12.7 Nm
+(e) Actual axial force required is 2315.0 N
+(f) Maximum torque occurs at inner radius,and is equal to 307.0 kN/m^2

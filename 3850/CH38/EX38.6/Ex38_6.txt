@@ -1,0 +1,2 @@
+
+ Current in the circuit 1 ms after Short Circuiting = 6.7*10^-4 A

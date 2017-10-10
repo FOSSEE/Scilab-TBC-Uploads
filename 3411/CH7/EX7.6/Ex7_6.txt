@@ -1,0 +1,8 @@
+Numerical apperture is NA=0.285
+Angle of acceptance is ia=16.54 Degrees
+Critical angle is ic=79.11 Degrees
+Velocity of light in core is vc= 
+    2.000D+08  
+Velocity of light in cladding is vcc= 
+    2.037D+08  
+ 

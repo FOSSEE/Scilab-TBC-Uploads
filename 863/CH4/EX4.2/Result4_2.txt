@@ -1,0 +1,12 @@
+ (a)Power dissipation at cutoff(in micro watt)=   
+ 
+    0.5  
+ 
+ (b)Power dissipation at saturation(in mW)=   
+ 
+    2.  
+ 
+ (c)Power dissipation at given Vce(in mW)=   
+ 
+    16.  
+ 

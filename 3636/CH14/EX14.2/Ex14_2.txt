@@ -1,0 +1,4 @@
+ (a)Maximum current Im= 0.133 A
+(b)dc component of current Idc= 0.0849 A
+(c)rms value of current Irms= 0.094 A
+(d)Ripple Factor Y= 0.483 

@@ -1,0 +1,13 @@
+r=25;
+vm=50;
+w=800*%pi;
+disp("Part a");
+im=vm/r;
+pm=im^2*r;
+disp("Peak power dissipated (in W) in the resistoris"); disp(pm);
+disp("Part b");
+f=w/(2*%pi);
+disp("the frequency (in Hz) of power variation is"); disp(2*f);
+disp("Part c");
+pavg=pm/2;
+disp("the average power (in W) dissipated in the resistor is"); disp(pavg);

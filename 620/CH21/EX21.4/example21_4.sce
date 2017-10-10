@@ -1,0 +1,16 @@
+p=600;
+c=0.1*10^(-6);
+e=20*10^3;
+disp("Part a");
+f=1.5;
+d=f*p/e;
+disp("the minimum separation (in mm) of the plates is"); disp(d);
+disp("Part b");
+e0=8.85*10^(-12);
+k=3;
+a=c*d/(k*e0*10^3);
+disp("the area (in m²) of one of the metal foil plates is"); disp(a);
+disp("Part c");
+w=0.04;
+l=a/w;
+disp("the lenght (in m) of the metal foil is"); disp(l);

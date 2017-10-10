@@ -1,0 +1,6 @@
+
+ Example 7.7
+ Change in enthalpy is 223.477179 kJ
+ Change in internal energy is 171.905522 kJ
+ The change in entropy and heat transfer are is 0 kJ
+ The work transfer during the process is -171.905522 kJ 4:28 PM 4/10/2016

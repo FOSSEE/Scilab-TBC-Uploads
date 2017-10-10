@@ -1,0 +1,4 @@
+The value of Eo=0.02448 N/C
+ The value of Bo= 
+    8.161D-11  
+T 

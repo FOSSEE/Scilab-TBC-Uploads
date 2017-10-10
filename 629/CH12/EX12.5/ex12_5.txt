@@ -1,0 +1,9 @@
+ 
+The Mach number for downstream of the shock wave, M = 0.668.
+
+
+The pressure for downstream of the shock wave, P = 282 kPa, absolute.
+
+
+The temperature for downstream of the shock wave, T = 400 K or 127°C.
+ 

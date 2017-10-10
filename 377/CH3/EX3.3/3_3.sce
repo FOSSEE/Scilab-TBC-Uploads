@@ -1,0 +1,12 @@
+disp("F*(a^(n+1))/n");
+F=3.02;
+n=9;
+a=2.76;
+b=F*(a^(n+1))/n;
+Z1=1;Z2=-1;e=1.6;f=8.85;pi=3.14;
+printf('\n The value of b is %f*(10^-109) (Nm)^10',b);
+E1=(Z1*Z2*(e^2)/(4*pi*f*a));
+e1=E1*10^3;
+E2=(b/(a^n));
+E=e1+E2;
+printf('\n The net potentila energy of NaCl is %f*(10^-19)',E);

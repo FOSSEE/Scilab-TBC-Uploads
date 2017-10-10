@@ -1,0 +1,5 @@
+ 
+ Example 15.7 
+
+ Capacity of the cooling coil is 32.286352 tonnes
+ Capacity of humidifier is 69.308036 kg/h 

@@ -1,0 +1,5 @@
+ 
+ The air speed at the exit of the nozzle = 77.9 m/s.
+
+
+ The force on the flange = 9.90 N.

@@ -1,0 +1,2 @@
+
+ The net rate of loss of heat is=0.992250 W

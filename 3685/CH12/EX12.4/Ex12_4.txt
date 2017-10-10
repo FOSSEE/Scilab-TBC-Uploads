@@ -1,0 +1,6 @@
+ 
+ Example 12.4 
+
+ Quality at turbine exhaust is 0.880000 
+ Cycle efficiency is 43.904347 percent
+ Steam rate is 2.181818 kg/kW h 

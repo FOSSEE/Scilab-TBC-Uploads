@@ -1,0 +1,3 @@
+the current (in mA) through R3 is   
+ 
+    0.3773585

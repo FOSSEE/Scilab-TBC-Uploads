@@ -1,0 +1,3 @@
+ 
+ Example 5.8
+ The rate at which air flows out of the tank is 0.846830 kg/h  

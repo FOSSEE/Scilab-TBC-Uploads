@@ -1,0 +1,13 @@
+  
+ (a)Maximum current Im is (A)=    
+ 
+    2.0D-02  
+ 
+ (b)dc component of current Idc is (A)=   
+ 
+    6.37D-03  
+ 
+ (c)rms value of current Irms (A)=    
+ 
+    1.00D-02  
+ 

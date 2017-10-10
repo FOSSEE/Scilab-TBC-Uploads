@@ -1,0 +1,17 @@
+i=0.2;
+v1=120;
+f=60;
+v2=95;
+disp("Part a");
+z1=v1/i;
+x_l=sqrt(z1^2-r^2);
+z2=v2/i;
+x_c=x_l-sqrt(z2^2-r^2);
+c=1/(2*%pi*f*x_c);
+disp("the size of capacitance (in μF) needed is"); disp(c*10^6);
+disp("Part b");
+vc=i*x_c;
+disp("voltage (in V) across capacitor is");disp(vc);
+disp("Part c");
+v=i*z1;
+disp("voltage (in V) across solenoid is"); disp(v);

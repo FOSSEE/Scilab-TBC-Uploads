@@ -1,0 +1,3 @@
+(a) Maximum symmetrical swing in collective current = 4.93 mA
+
+(b) Maximum symmetrical swing in collective current in second case = 2.207 mA

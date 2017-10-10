@@ -1,0 +1,4 @@
+
+ Impedance of the LCR Series Circuit = 150 ohms
+ Peak current Value of the LCR Series Circuit = 0.2 A
+ Resonant Frequency of the LCR Series Circuit = 50 Hz

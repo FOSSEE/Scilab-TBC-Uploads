@@ -1,0 +1,1 @@
+ Minimum grating width required = 4.2 cm

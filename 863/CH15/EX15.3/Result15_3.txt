@@ -1,0 +1,4 @@
+Error due to capacitance(in %)=   
+ 
+    0.0546  
+ 

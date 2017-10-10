@@ -1,0 +1,2 @@
+
+ rms speed of hydrogen=1833 m/s   (wrong answer given in the book)

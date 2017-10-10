@@ -1,0 +1,10 @@
+Sx=-12.45 MN/m^2  compressive
+
+Txy=3.62 MN/m^2 shear
+
+	Sy=0
+
+The maximum normal stress is 0.98 MN/m^2 and its nature is tensile
+
+The minimum normal stress is -13.43 MN/m^2 and its nature is compressive
+

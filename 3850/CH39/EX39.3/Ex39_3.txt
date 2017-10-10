@@ -1,0 +1,3 @@
+
+ Peak Value of current = 3.3 A
+ Instantaneous voltage at peak value of Current = 0 V

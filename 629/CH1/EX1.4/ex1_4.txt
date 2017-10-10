@@ -1,0 +1,4 @@
+(a)The thrust force in newtons = 270 N
+
+(b)The thrust force in units of pounds-force = 60.5 lbf.
+ 

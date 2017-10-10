@@ -1,0 +1,12 @@
+disp("Part a");
+v=120;
+p=60;
+r=18;
+i=v/r;
+disp("the initial inrush of current (in A) is"); disp(i);
+disp("Part b");
+i1=p/v;
+disp("the steady operating current (in A) is"); disp(i1);
+disp("Part c");
+r1=v/i1;
+disp("the hot resistance (in Ω) of the lamp is"); disp(r1);

@@ -1,0 +1,12 @@
+(a) Maximum bending stress occurs at inside fibre of sections with
+ri=75mm (refer figure 4.5)
+
+(b)	rn=(1/4)* (sqrt(ro) + sqrt(ri))^2
+	=0.08705 m
+
+(c)	e=R-rn =0.0004 m
+
+(d)	Si=(M*hi)/(A*e*ri) =41.0 MN/m^2
+
+(e)Maximum shear stress occurs at every point from A to B and from C to D
+Maximum shear stress=20.5 MN/m^2

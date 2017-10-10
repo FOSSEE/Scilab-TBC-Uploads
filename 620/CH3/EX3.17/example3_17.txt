@@ -1,0 +1,3 @@
+ the cost (in $) to run the motor is    
+ 
+    2.238 

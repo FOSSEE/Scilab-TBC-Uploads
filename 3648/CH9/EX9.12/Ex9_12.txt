@@ -1,0 +1,3 @@
+Sedimentation is vt= 
+    0.0041481  
+cm/sec 

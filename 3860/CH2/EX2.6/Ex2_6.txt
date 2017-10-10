@@ -1,0 +1,16 @@
+ 
+ The given expression is as follows
+
+ f = ab'(c + d'e) + a'bc')
+
+ Finding complement using Demorgan's Theorem
+
+ f' = [ab'(c + d'e) + a'bc']'
+
+ f' = [ab'(c + d'e)]' [a'bc']'
+
+ f' = [a' + b + (c +  d'e)'][a + b' + c]
+
+ f' = [a' + b + c'(d'e)'][a + b' + c]
+
+ f' = [a' + b + c'(d + e')][a + b' + c]

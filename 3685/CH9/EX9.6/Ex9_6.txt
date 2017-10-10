@@ -1,0 +1,14 @@
+ 
+ Example 9.6
+
+Steam will become saturated vapour at 123.941720 degree centigrade 
+ The quality factor at t=80 degree is   
+ 
+    0.2335225  
+ 
+ The heat transfered per kg of steam in cooling from 250 degree to 80 degree   
+ 
+  - 1892.3546  
+ 
+ kJ/kg   
+ 

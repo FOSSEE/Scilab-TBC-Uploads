@@ -1,0 +1,15 @@
+(a)For punching operation, requirement of power:
+Maximum shear force=Sut*Area =471238.9 N
+Energy required per stroke=4712.389 Nm
+Total energy required per minute=117809.72 Nm
+Power of Motor=2181.66 W
+
+(b)Energy stored in flywheel:
+	=4241.15 Nm
+Out of this,5% is supplied by arms and hub, and 95% by rim
+	mr=185.791 kg
+
+(c)mr=pi*Dm*t*b*rho
+For rectangular rim, b=2t=0.114 m and t=0.057 m
+Checking for stresses,
+St=rho*V^2=1.57Mpa, which is less than 6Mpa, hence safe.

@@ -1,0 +1,5 @@
+ 
+ Example 20.1
+
+ Fuel consumption of the engine = 6.735086 Kg/h
+ BMEP=637.807537 kN/m^2 

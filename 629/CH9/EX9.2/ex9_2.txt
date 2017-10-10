@@ -1,0 +1,3 @@
+ 
+The pressure gradient, (dp/ds) = 5448 N/m^2 per meter.
+ 

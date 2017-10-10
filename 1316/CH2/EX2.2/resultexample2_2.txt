@@ -1,0 +1,7 @@
+a. The solution is given by VsR2/R1+R2.For R2=4k.ohm,we have
+VD = 1.43 V
+For R2=12k.ohm,we have
+VD = 2.73 V
+b. Thus the voltage varies from 1.43 to 2.73 Vc. The range of output impedance is found from the parallel 
+ combination of R1 and R2 for the minimum and maximum of R2.
+ Simple parallel resistance computation shows that this will be from 2.86 to 5.45 k.ohmd. The power dissipated by the sensor can be determined most easily from V^2/R2,as the voltage across R2 has been calculated.The power dissipated varies from 2.0833 to 6.2500 W 

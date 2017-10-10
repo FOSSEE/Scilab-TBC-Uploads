@@ -1,0 +1,32 @@
+clear;
+clc;
+l=60;
+v=66;
+load1=25;
+pf=.8;
+r=.08;
+l=1.25;
+f=50;
+Z=complex(.08,(2*%pi*f*1.25*(10^-3)))*60;
+Vr=(v/sqrt(3));
+I=((25*1000)/(sqrt(3)*66*0.8))*complex(.8,-.6);
+A=1;
+D=1;
+C=0;
+B=Z;
+M=[A Z;C D]*[Vr*1000;I];
+Vs=M(1,:)*(10^-3);
+Vs1=Vs*sqrt(3);
+mprintf("Vs=%f+j%f Kv\n",real(Vs1),imag(Vs1));
+Is=M(2,:);
+mprintf("Is=%f+j%f A\n",real(Is),imag(Is));
+reg=(((sqrt((real(Vs)^2)+(imag(Vs)^2)))-Vr)/Vr)*100;
+mprintf("Regulation=%f percent\n",reg);
+yy=-(atan(imag(I)/real(I))*180)/%pi;
+xx=(atan(imag(Vs)/real(Vs))*180)/%pi;
+PhiS=yy + xx ;
+PS=((3*(sqrt((real(Vs)^2)+(imag(Vs)^2)))*(sqrt((real(Is)^2)+(imag(Is)^2)))*cosd(PhiS))/1000);
+
+eff=(load1/PS)*100;
+mprintf("Efficiency=%f percent",eff);
+

@@ -1,0 +1,6 @@
+ 
+ Example 19.5
+
+ Power required to drive the unit is 17.732605 kW,
+ Isothermal efficiency is 65.869006 percent,
+ Mechanical efficiency is 98.514474 percent

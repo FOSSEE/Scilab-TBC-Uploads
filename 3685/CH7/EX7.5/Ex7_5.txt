@@ -1,0 +1,3 @@
+ 
+ Example 7.5
+ The final temperature of the body C is 400 K 

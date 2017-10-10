@@ -1,0 +1,15 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.3.sce', -1)
+ 
+  Voltage at node 1(in Volts)=   
+ 
+    20.  
+ 
+ Voltage at node 2(in Volts)=   
+ 
+  - 10.  
+ 
+  Voltage at node 3(in Volts)=   
+ 
+  - 20.  
+

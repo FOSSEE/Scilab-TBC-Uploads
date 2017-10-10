@@ -1,0 +1,10 @@
+l=200*10^(-3);
+i1=2;
+i2=5;
+t=0.1;
+disp("Part a");
+r=(i2-i1)/t;
+disp("the rate of change of current (in A/s) is"); disp(r);
+disp("Part b");
+v=l*r;
+disp("the self-induced e.m.f. is"); disp(v);

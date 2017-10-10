@@ -1,0 +1,5 @@
+ 
+ Example 19.9
+
+ Compressor work = 107.662023 kJ/kg,
+ Total heat transfer to the surrounding = 125.119950 kJ/kg 

@@ -1,0 +1,4 @@
+ 
+ Example 10.5
+ The work transfer for the whole path is 93.498608 kJ
+ The heat transfer for the whole path 571.638005 kJ 

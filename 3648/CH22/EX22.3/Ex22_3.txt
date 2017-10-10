@@ -1,0 +1,2 @@
+The location of the image is i=-30 cm
+ The relative size of the image is I_O=0.40 cm 

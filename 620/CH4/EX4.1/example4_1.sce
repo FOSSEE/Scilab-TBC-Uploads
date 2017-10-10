@@ -1,0 +1,11 @@
+disp("Part a");
+l=100;
+d=2*10^(-3);
+ro=1.72*10^(-8);
+a=%pi*(d^2)/4;
+r=ro*l/a;
+disp("the resistance (in Ω) of copper wire is"); disp(r);
+disp("Part b");
+ro1=2.63*10^(-8);
+r1=r*ro1/ro;
+disp("the resistance (in Ω) of aluminium wire is"); disp(r1);

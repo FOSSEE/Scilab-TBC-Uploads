@@ -1,0 +1,13 @@
+vb=13.2;
+vg=14.4;
+rb=0.3;
+rg=0.2;
+rl=0.68;
+ib=vb/rb;
+ig=vg/rg;
+rn=rb*rg/(rb+rg);
+in=ib+ig;
+i=in*rn/(rn+rl);
+disp("the load current (in A) is"); disp(i);
+v=i*rl;
+disp("the load voltage (in V) is"); disp(v);

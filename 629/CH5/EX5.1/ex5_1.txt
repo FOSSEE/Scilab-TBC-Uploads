@@ -1,0 +1,6 @@
+ 
+The disharge in the pipe in both units is 2.42 m^3/s and 85.4 cfs.
+
+
+The mean velocity in the pipe in both units is 34.2 m/s and 112 ft/s.
+ 

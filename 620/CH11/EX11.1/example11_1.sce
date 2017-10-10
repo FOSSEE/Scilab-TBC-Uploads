@@ -1,0 +1,18 @@
+r1=5*10^(-2);
+r2=7*10^(-2);
+n=400;
+i=2;
+f=1.5*10^(-4);
+disp("Part a");
+d=r2-r1;
+a=%pi*d^2/4;
+b=f/a;
+disp("the flux density (in T) is"); disp(b);
+disp("Part b");
+mmf=n*i;
+disp("the magnetomotive force (in At) is"); disp(mmf);
+disp("Part c");
+r=(r1+r2)/2;
+l=2*%pi*r;
+h=mmf/l;
+disp("the manetizing intensity (in At/m) is"); disp(h);

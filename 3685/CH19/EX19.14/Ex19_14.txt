@@ -1,0 +1,5 @@
+ 
+ Example 19.14
+
+ Work input = 1.519500 kJ/rev,
+ Work input for a vane-type compressor = 1.348030 kJ/rev 

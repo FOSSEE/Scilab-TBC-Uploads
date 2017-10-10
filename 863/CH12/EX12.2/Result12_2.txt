@@ -1,0 +1,4 @@
+ Required resistance(in ohm)=   
+ 
+    575.  
+ 

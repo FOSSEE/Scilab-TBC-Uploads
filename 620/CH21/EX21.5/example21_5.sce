@@ -1,0 +1,14 @@
+c1=5;
+v1=25;
+c2=10;
+v2=20;
+c3=1;
+v3=50;
+disp("Part a");
+c=c1+c2+c3;
+disp("the total capacitance (in μF) is"); disp(c);
+disp("Part b");
+disp("the maximum working voltage (in V) s"); disp(v2);
+disp("Part c");
+q=v2*c;
+disp("the maximim charge (in μC) that can be stored is");disp(q);

@@ -1,0 +1,11 @@
+wt=160;
+h=20;
+t=8;
+e1=3200;
+e2=4340;
+disp("Part a");
+p1=e2/t;
+disp("the power developed (in W) is"); disp(p1);
+disp("Part b");
+p2=e2/(t*550);
+disp("the power developed (in hp) is"); disp(p2);

@@ -1,0 +1,16 @@
+ 
+ The given function is x'yz' + x'yx + xy'z' + xy'z + xyz
+
+ The mapping is shown below
+
+       X'Y'  X'Y  XY  XY'
+
+ Z'          1         1
+
+ Z           1    1     
+
+ After finding the two essential prime implicants m7 is still uncovered. The following are the two solutions.
+
+ f = x'y + xy' + xz
+
+ f = x'y + xy' + yz

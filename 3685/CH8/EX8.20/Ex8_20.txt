@@ -1,0 +1,17 @@
+ 
+ Example 8.20
+
+ Part A:
+ There is heat loss to surrounding.
+
+ Part B:
+ The polytropic index is 1.331834 
+
+ Part C:
+ Isothermal efficiency is 97.880274 percent 
+
+ Part D:
+ The minimum work input is -101.404347 kJ/kg, and irreversibility is 14.034153 kJ/kg
+
+ Part E:
+ Second law efficiency is 88 percent 

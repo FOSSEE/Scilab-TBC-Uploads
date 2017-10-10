@@ -1,0 +1,1 @@
+(7.1) can be approximated as id*Io*e^(vd/Vt) for vd > 0.1186 V

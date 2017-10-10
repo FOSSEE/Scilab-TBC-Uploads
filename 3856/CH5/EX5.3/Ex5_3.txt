@@ -1,0 +1,2 @@
+ (a)Amount of work done when the outdoor temperature is 5 dgree = 288 J
+(b)Amount of work done when the outdoor temperature is minus 10 degree = 542 J

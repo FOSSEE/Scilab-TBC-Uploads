@@ -1,0 +1,2 @@
+
+ Magnetic Field due to a piece of Wire = 1.8*10^-9 T

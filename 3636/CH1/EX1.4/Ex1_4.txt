@@ -1,0 +1,1 @@
+ Deflection Sensitivity = 4.5*10^-4 m/V

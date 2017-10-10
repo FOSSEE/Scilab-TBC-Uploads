@@ -1,0 +1,6 @@
+Resistors are Rc and Rb(in kilo ohm)=   
+ 
+    180.  
+ 
+    21.5  
+ 

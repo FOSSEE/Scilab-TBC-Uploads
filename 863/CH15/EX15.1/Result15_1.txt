@@ -1,0 +1,6 @@
+Errors due to Rs(in %) and due to Rd(in %)=   
+ 
+    71.428571  
+ 
+    21.428571  
+ 

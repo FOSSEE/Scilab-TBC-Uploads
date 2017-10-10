@@ -1,0 +1,10 @@
+ 
+ Example 10.2
+
+ Gas constant of the gas is 0.461000 kJ/kg K 
+ Molecular weight the gas is 18.034707 kg/kg mol
+ The heat transfer at constant volume is 286.330000 kJ
+ Work done is 0 kJ
+ The change in internal energy is 286.330000 kJ
+ The change in  enthalpy is 373.920000 kJ
+ The change in  entropy is 0.885987 kJ/k 

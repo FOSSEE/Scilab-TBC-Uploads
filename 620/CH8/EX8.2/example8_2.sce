@@ -1,0 +1,12 @@
+a=3;
+p1=0.84;
+p2=0.96;
+i=50*10^(-3);
+disp("Part a");
+c1=a*p1;
+t1=c1/i;
+disp("the length of time (in h) for which the cell can deliver current is"); disp(t1);
+disp("Part b");
+c2=a*p2;
+t2=c2/i;
+disp("the length of time (in h) for which the cell can deliver current is"); disp(t2);

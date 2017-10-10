@@ -1,0 +1,5 @@
+ 
+ Example 18.8
+
+ Exit temperature of oil is 90.125103 degree celcius
+ Rate of heat transfer is 1302 kW 

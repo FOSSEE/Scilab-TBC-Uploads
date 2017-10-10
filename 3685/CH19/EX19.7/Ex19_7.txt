@@ -1,0 +1,5 @@
+ 
+ Example 19.7
+
+ Minimum work done is 215.324046 kJ/kg,
+ Heat rejected to intercooler is 87.001072 kJ/kg

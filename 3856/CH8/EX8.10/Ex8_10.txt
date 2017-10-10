@@ -1,0 +1,2 @@
+ Vant Hoff factor = 2.70
+Degree of dissociation = 0.85

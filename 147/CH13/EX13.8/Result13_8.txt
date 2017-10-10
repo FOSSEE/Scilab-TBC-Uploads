@@ -1,0 +1,2 @@
+Voltage regulation = 2.3 %
+Efficiency = 98.2 %

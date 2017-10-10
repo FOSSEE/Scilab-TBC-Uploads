@@ -1,0 +1,8 @@
+ 
+ Example 21.5
+
+ Propulsive power = 7.764351 MW,
+ Thrust power = 4402.359492 kW,
+ Propulsive efficiency = 56.699645 percent
+ Thermal efficiency = 31.057404 percent,
+ Overall efficiency = 17.609438 percent  

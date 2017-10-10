@@ -1,0 +1,20 @@
+Vcc=10; //Volt
+R1=470; //Ohm
+R2=110; //Ohm
+I1=Vcc/(R1+R2); //Ampere
+Icq=0.0976; //Ampere
+Icc=Icq+I1; //Ampere
+Ps=Vcc*Icc; //Watt
+Vceq=8.63; //Volt
+PP1=2*Vceq; //Volt
+rc=80; //Ohm
+PP2=2*Icq*rc; //Volt
+Ns=1;
+Np=4;
+Vpp=(Ns/Np)*PP2; //Volt
+RL=5;
+PLmax=Vpp^2/(8*RL);//Watt//maximum load power
+Ps=1.15 //Watt
+H=(PLmax/Ps)*100; 
+disp('%',H,"H=");//The answers vary due to round off error
+

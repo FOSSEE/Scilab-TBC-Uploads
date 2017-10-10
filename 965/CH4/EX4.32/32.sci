@@ -1,0 +1,16 @@
+clc;
+clear all;
+disp("contact surface temperature")
+disp("The rate of heat flow at a surface x =0 is given by")
+disp(" Q = -k*A*delT/(%pi*a*tau)^0.5")
+disp("Heat received by each unit area of contact surface from the body at a temperature t1 is")
+disp("Q = -k1*A*(t1-ts)/(%pi*a1*tau)^0.5")
+disp("Heat received by each unit area of contact surface from the body at a temperature t2 is")
+disp("Q = -k2*A*(ts-t2)/(%pi*a2*tau)^0.5")
+disp(" The contact surface will remain at a constant temperature if ")
+disp("-k1*A*(t1-ts)/(%pi*a1*tau)^0.5 = -k2*A*(ts-t2)/(%pi*a2*tau)^0.5")
+disp("-k1*A*(t1-ts)/(tau)^0.5 = -k2*A*(ts-t2)/(tau)^0.5")
+disp("ts(k1*a2^0.5+k2*a1^0.5)= k1*t1*a2^0.5+k2*t2*a1^0.5")
+disp("ts =(k1*t1*a2^0.5+k2*t2*a1^0.5)/(k1*a2^0.5+k2*a1^0.5)")
+disp("dividing numerator and denomenator by (a1*a2)^0.5,")
+disp("ts =(k1*t1/a1^0.5+k2*t2/a2^0.5)/(k1/a1^0.5+k2/a2^0.5)")

@@ -1,0 +1,2 @@
+
+ Horizontal component of Earth Magnetic Field = 3.8*10^-5 T

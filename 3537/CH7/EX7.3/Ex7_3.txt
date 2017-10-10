@@ -1,0 +1,2 @@
+ for meridional rays theta=17.46 degrees
+ for skew rays theta=25.10 degrees 

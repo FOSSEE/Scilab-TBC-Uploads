@@ -1,0 +1,14 @@
+im=0.05;
+rm=3;
+v1=5;
+v2=15;
+v3=50;
+rt1=v1/im;
+rt2=v2/im;
+rt3=v3/im;
+rs1=rt1-rm;
+rs2=rt2-rm;
+rs3=rt3-rm;
+disp("for a range of 5 V the required resistance (in kΩ) is"); disp(rs1);
+disp("for a range of 15 V the required resistance (in kΩ) is"); disp(rs2);
+disp("for a range of 50 V the required resistance (in kΩ) is"); disp(rs3);

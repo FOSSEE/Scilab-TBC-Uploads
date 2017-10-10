@@ -1,0 +1,22 @@
+ 
+ f(a,b,c) = Summation minterms (1,2,5) + Summation dont cares (0,3)
+
+ implies that minterms 1,2 and 5 are included in the function and that 0 and 3 are dont cares, that is the truth table is as follows:
+
+ a  b  c  |    f
+
+ 0  0  0  |    x
+
+ 0  0  1  |    1
+
+ 0  1  0  |    1
+
+ 0  1  1  |    x
+
+ 1  0  0  |    0
+
+ 1  0  1  |    1
+
+ 1  1  0  |    0
+
+ 1  1  1  |    0

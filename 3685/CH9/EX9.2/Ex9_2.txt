@@ -1,0 +1,6 @@
+  
+ Example 9.2
+ pressure = 0.600000 Mpa
+ Temperature = 158.850000 degree centigrade
+ Specific volume = 0.315600 m^3/kg
+ enthalpy = 2756.800000 kJ/kg 

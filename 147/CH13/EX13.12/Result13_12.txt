@@ -1,0 +1,5 @@
+Values of cicuit constants are:
+Rc2 = 68.2 ohm
+Xm2 = 22.93 ohm
+Rs2 = 0.079 ohm 
+Xs2 = 0.166 ohm

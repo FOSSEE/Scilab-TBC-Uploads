@@ -1,0 +1,5 @@
+ 
+ Example 14.5
+
+ Increase in work of compression for single stage  is 15.719846 percent
+ Increase in COP for 2 stage compression is 15.719846 percent

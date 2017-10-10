@@ -1,0 +1,11 @@
+clear;
+clc;
+Pdc=1;
+Pac=1;
+phi=acosd(.9428);
+mprintf(" power factor angle in degree is %.3f ",phi);
+p=[0.7:0.1:1];
+Pd=(.9428/(p));
+disp(Pd);
+disp(p);
+plot(p,Pd);

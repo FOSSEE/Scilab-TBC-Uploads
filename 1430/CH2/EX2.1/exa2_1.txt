@@ -1,0 +1,8 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.1.sce', -1)
+ 
+ Value of potentiometer resistance(in Ohms)=   
+ 
+    3000.  
+ 

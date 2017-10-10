@@ -1,0 +1,4 @@
+ Drain Resistance= 6.25 ohm
+Drain current at maximum power ditribution point= 2 A
+drain-to-source voltage at maximum power dissipation point= 12.5 V
+Maximum power dissipation= 25 W 

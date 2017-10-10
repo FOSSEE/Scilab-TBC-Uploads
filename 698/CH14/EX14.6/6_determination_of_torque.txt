@@ -1,0 +1,9 @@
+(a) Considering uniform wear theory, the torque is 1044.91 N-m
+
+(b) Considering uniform pressure theory, the torque is 1099.35 N-m
+
+(c) From above two values of torque, it is evident that the uniform wear theory
+gives conservative result, which is better for designing of the clutch.
+As for the new clutch where uniform pressure condition prevails, the torque capacity
+will be more than designed and when the clutch becomes old,
+(where the uniform wear prevails) the clutch is still capable of transmitting required torque.

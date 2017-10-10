@@ -1,0 +1,13 @@
+z1=4+%i*2;
+z2=6-%i*4;
+v1=24;
+v2=36*(cos(40*%pi/180)+%i*sin(40*%pi/180));
+z=z1+z2;
+i=(v2-v1)/z;
+v=i*z1;
+vth=v+v1;
+zth=z1*z2/z;
+disp("the required load impedance (in Ω) is"); disp(zth);
+i1=v/zth;
+p=(real(i1)^2+imag(i1)^2)*real(zth);
+disp("the maximum power (in W) is"); disp(p);

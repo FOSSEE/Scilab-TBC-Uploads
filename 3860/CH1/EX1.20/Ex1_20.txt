@@ -1,0 +1,7 @@
+ The binary number is = 
+
+ 10100
+
+ The msb is discarded, and binary number becomes
+
+ 0100

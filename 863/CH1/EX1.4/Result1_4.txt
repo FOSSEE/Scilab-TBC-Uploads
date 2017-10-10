@@ -1,0 +1,4 @@
+The upper 3db frequency of the amplifier(in hertz)=   
+ 
+    350000.  
+ 

@@ -1,0 +1,2 @@
+
+ Magnetic field at a point on the axis of Solenoid at a distance of 10cm from centre = 2.2*10^-4 T away from the solenoid

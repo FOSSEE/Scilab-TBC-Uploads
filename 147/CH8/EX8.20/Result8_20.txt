@@ -1,0 +1,2 @@
+Voltage gain Av = -173.08
+Current gain Ai = -34.87

@@ -1,0 +1,12 @@
+k=0.8;
+l1=5;
+l2=8;
+disp("Part a");
+m=k*sqrt(l1*l2);
+disp("the mutual inductance (in H) between the two coils is"); disp(m);
+disp("Part b");
+lmax=l1+l2+2*m;
+disp("the maximum inductance (in H) is"); disp(lmax);
+disp("Part c");
+lmin=l1+l2-2*m;
+disp("the minimum inductance (in H) is"); disp(lmin);

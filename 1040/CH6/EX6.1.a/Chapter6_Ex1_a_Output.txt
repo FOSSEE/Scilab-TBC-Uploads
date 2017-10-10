@@ -1,0 +1,3 @@
+
+ The Power consumption per unit volume at 300rpm = 1.64 HP/1000 gal
+ The Power consumption scaling up sixfold in diameter = 59 HP/1000 gal

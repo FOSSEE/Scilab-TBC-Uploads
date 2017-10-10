@@ -1,0 +1,11 @@
+Pressure variation is given by 
+p=C/r =F/(2*pi*(Ro-Ri)*r)
+
+Maximum pressure intensity occurs at inner radius r=Ri
+The maximum intensity of pressure is 254.6 kN/m^2
+
+Minimum pressure intensity occurs at outer radius r=Ro
+The minimum intensity of pressure is equal to 127.3 kN/m2
+
+Average intensity of pressure
+The average intensity of pressure is equal to 169.8 kN/m2

@@ -1,0 +1,11 @@
+  
+ Circuit components are Capacitance(in micro farad) and Resistances Rl,Rb,Ra(in kilo ohm)=   
+ 
+    0.06  
+ 
+    10.  
+ 
+    3.2  
+ 
+    2.  
+ 

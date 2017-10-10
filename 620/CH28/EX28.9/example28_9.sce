@@ -1,0 +1,10 @@
+l=6;
+c=1000;
+rl=100;
+disp("Part a");
+r=0.83/(l*c);
+disp("the theoretical ripple factor is"); disp(r);
+disp("Part b");
+vm=9;
+vdc=2*vm/%pi;
+disp("the dc output voltage (in V) is"); disp(vdc);

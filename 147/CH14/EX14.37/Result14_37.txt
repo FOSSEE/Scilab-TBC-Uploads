@@ -1,0 +1,9 @@
+(i) slip, s = 0.0333
+
+(ii) motor speed, n = 966.67 rpm
+
+(iii) mechanical power developed, Pd = 77.333 kW
+
+(iv) rotor copper loss, Pc = 2.667 kW
+
+(v) Torque developed, Td = 763.94 Nm

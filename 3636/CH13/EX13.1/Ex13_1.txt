@@ -1,0 +1,13 @@
+  
+ Drift velocity (cms^-1)=    
+ 
+    1.D+07  
+ 
+ current density (A/cm^2)=    
+ 
+    320
+ 
+ negative electron mobility (cm^2/Vs)=    
+ 
+  - 3125 
+ 

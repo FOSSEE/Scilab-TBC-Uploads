@@ -1,0 +1,4 @@
+ Energy state difference= 0.407 eV
+ a)phi_s= 4.957 eV
+ b)Forward Bias (phi_B)= 0.3 eV
+   eV0= 0.657 eV 

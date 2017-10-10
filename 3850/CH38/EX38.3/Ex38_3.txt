@@ -1,0 +1,2 @@
+
+ Self Inductance of the coil(L) = 4.0 mH

@@ -1,0 +1,19 @@
+Bending moment due to horizontal load about midpoint Mx= 250.00 Nm
+Bending moment due to vertical load about midpoint My= -400.00 Nm
+The total bending moment:
+	M=sqrt((Mx^2)+(My^2))
+The total bending moment M = 471.70 Nm
+
+The normal stress is given by
+	Sx=Py/A-((M*(d/2))/I)
+Normal stress acting at the section is -39.46 MN/m^2
+
+The shear stress is given by
+	Txy=(T*(d/2))/J
+Normal stress acting at the section is 8.15 MN/m^2
+
+Maximum normal stress is 1.62 MN/m^2
+Minimum normal stress is -41.07 MN/m^2
+
+The maximum numerical normal stress is 41.07 MN/m^2
+The maximum shear stress is 21.344732 MN/m^2

@@ -1,0 +1,10 @@
+v=10;
+l=10;
+r=100;
+f=60;
+disp("Part a");
+disp("the dc output voltage (in V) is"); disp(v);
+disp("Part b");
+x_l=2*%pi*f*l;
+vo=v*r/x_l;
+disp("the ac output voltage (in V) is"); disp(vo);

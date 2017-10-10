@@ -1,0 +1,1 @@
+The final volume of gas in terms of original volume is V2=0.05467*V1 

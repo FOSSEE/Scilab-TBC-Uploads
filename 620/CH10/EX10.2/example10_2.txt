@@ -1,0 +1,9 @@
+
+ current (in mA) through the R2 branch is   
+ 
+    2.5786164  
+ 
+ current (in mA) through the R4 branch is   
+ 
+  - 0.4088050  
+ 

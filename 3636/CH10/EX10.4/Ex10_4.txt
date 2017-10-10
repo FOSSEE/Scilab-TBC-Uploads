@@ -1,0 +1,1 @@
+ steady-state photocurrent density= 0.43 A/cm^2 

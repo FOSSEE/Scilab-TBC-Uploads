@@ -1,0 +1,1 @@
+The resistance of the recording device is=1000000 Ohms 

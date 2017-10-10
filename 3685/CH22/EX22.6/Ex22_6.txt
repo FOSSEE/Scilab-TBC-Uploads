@@ -1,0 +1,4 @@
+ 
+ Example 22.6 
+
+ Pressure in the cathode ray tube = 0.142844 Pa 

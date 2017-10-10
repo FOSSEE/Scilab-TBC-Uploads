@@ -1,0 +1,4 @@
+
+ the current (in mA) in R4 is   
+ 
+    2.0125786  

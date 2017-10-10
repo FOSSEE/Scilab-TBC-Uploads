@@ -1,0 +1,1 @@
+ Entropy change for Fusion = 22.0 J K^-1 mol^-1Enentropy change for Vaporization = 109.4 J K^-1 mol^-1

@@ -1,0 +1,3 @@
+The intensity of sound is I= 
+    3.162D-09  
+W/meter^2 

@@ -1,0 +1,3 @@
+Idq = 1.15 mA 
+Vgsq = -2.3 V
+Vdsq = 14.2 V

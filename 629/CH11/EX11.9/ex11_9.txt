@@ -1,0 +1,4 @@
+ 
+The downward thrust from the vane = 1148 N.
+
+The drag from the vane = 86.4 N.

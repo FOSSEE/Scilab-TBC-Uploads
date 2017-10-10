@@ -1,0 +1,52 @@
+
+ f(a,b,c) = Summation(0,1,2,5)
+
+ Truth Table
+
+ a  b  c  |    f
+
+ 0  0  0  |    1
+
+ 0  0  1  |    1
+
+ 0  1  0  |    1
+
+ 0  1  1  |    0
+
+ 1  0  0  |    0
+
+ 1  0  1  |    1
+
+ 1  1  0  |    0
+
+ 1  1  1  |    0
+
+ The function f = a'b'c' + a'b'c + a'bc' + ab'c
+
+ *************************************************************
+
+ Implementation using 8:1 Multiplexer
+
+ Inputs of Multiplexer are denoted by D0,D1,D2,D3,D4,D5,D6 and D7
+
+ Select Lines of Multiplexer are denoted by S2,S1,S0
+
+ Input and Select Line assignment
+
+  D0 = 1, D1 = 1, D2 = 1,D3 = 0, D4 = 0, D5 = 1, D6 = 0, D7 = 0
+
+  S2 = a, S1 = b, S0 = c
+
+ *************************************************************
+
+ Implementation using 4:1 Multiplexer
+
+ Inputs of Multiplexer are denoted by D0,D1,D2,D3
+
+ Select Lines of Multiplexer are denoted by S1,S0
+
+ Input and Select Line assignment
+
+  D0 = 1, D1 = c', D2 = c ,D3 = 0
+
+  S1 = a, S0 = b

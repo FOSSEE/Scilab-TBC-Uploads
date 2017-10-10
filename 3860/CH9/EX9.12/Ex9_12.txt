@@ -1,0 +1,74 @@
+
+ Given State Table
+
+ q |    x=0     x=1   |    z1   z2   z3   z4   z5
+
+ --------------------------------
+
+ A |     D       B    |    0    0    0    1    1
+
+ B |     E       C    |    0    0    1    0    1
+
+ C |     A       B    |    1    1    0    0    1
+
+ D |     E       C    |    1    1    1    1    1
+
+ E |     D       B    |    1    0    0    1    1
+
+ Step 1 produces given SP Partitions
+
+ P1 = (ADE)(BC)
+
+ P2 = (AE)(B)(C)(D)
+
+ P3 = (AE)(BC)(D)
+
+ P4 = (A)(BD)(C)(E)
+
+ P5 = (AE)(BCD)
+
+ Step 2 requires three sums
+
+ P2 + P4 = (AE)(BD)(C)--> P6
+
+ There are six non trivial SP partitions.
+
+ For the first output column, None of the SP partitions are output consistent
+
+ for the second output column only P2 is output consistent
+
+ q |    x=0         x=1   |    z2
+
+ --------------------------------
+
+ A |     D           B    |    0
+
+ B |     A           C    |    0
+
+ C |     A           B    |    1
+
+ D |     A           C    |    1
+
+ for the third output column only P2, P4 and P6 all are output consistent
+
+ q |    x=0         x=1   |    z3
+
+ --------------------------------
+
+ A |     B           B    |    0
+
+ B |     A           C    |    0
+
+ C |     A           B    |    1
+
+ for the fourth output column only P1 is output consistent
+
+ q |    x=0         x=1   |    z3
+
+ --------------------------------
+
+ A |     A           B    |    0
+
+ B |     A           B    |    1
+
+ for the last output column there is no need to find the SP partitions, The system is combinational. It does not depend on the state z=1

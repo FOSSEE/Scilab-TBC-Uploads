@@ -1,0 +1,13 @@
+vp=8;
+vm=vp/2;
+r=2.2*10^3;
+t=2*10^(-3);
+disp("Part a");
+i=vm/r;
+disp("the peak value of the current (in mA) is"); disp(i*10^3);
+disp("Part b");
+f=1/t;
+disp("the frequency (in Hz) is"); disp(f);
+disp("Part c");
+w=2*%pi*f;
+disp("equation representing the current is i=1.82*sin(1000*π*t) mA.");

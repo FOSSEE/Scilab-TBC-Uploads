@@ -1,0 +1,4 @@
+Number of photons emitted is 
+    7.322D+15  photons/second
+
+Power density is 2300 kW/met^2 

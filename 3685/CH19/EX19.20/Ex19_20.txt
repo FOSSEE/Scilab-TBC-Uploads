@@ -1,0 +1,4 @@
+ 
+ Example 19.20
+
+ Impeller tip diameter = 548.821948 mm 

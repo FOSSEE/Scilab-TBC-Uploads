@@ -1,0 +1,22 @@
+//Example 1_18 page no:34
+clc;
+V=-10;
+Iv=2;
+P10v=V*Iv;
+disp(P10v,"the power absorbed across 10V is (in W)");
+V1=24;
+I1=2;
+P1=V1*I1;
+disp(P1,"the power absorbed at R1 is (in W)");
+V2=14;
+I2=7;
+P2=V2*I2;
+disp(P2,"the power absorbed at R2 is (in W)");
+V3=-7;
+I3=9;
+P3=V3*I3;
+disp(P3,"the power absorbed at R3 is (in W)");
+V=1*-7;
+I=9;
+P=V*I;
+disp(P,"the power absorbed by dependent voltage source is (in W)");

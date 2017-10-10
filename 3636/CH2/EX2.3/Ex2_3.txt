@@ -1,0 +1,2 @@
+ Density of Si= 2.33 g/cm^3
+Density of GaAs= 5.33 g/cm^3 

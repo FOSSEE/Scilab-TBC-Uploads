@@ -1,0 +1,47 @@
+//Example_a_9_10 page no:409
+clc;
+Zrymag=10;
+Zryang=0;
+Zybmag=2;
+Zybang=90;
+Zbrmag=5;
+Zbrang=-90;
+Vrymag=400;
+Vryang=0;
+Vbrmag=400;
+Vbrang=-120;
+Vybmag=400;
+Vybang=-240;
+//calculating the line currents
+Irmag=Vrymag/Zrymag;
+Irang=Vryang-Zryang;
+Iymag=Vybmag/Zybmag;
+Iyang=Vybang-Zybang;
+Ibmag=Vbrmag/Zbrmag;
+Ibang=Vbrang-Zbrang;
+Irreal=Irmag*cosd(Irang);
+Irimag=Irmag*sind(Irang);
+Ir=Irreal+(%i*Irimag);
+Iyreal=Iymag*cosd(Iyang);
+Iyimag=Iymag*sind(Iyang);
+Iy=Iyreal+(%i*Iyimag);
+Ibreal=Ibmag*cosd(Ibang);
+Ibimag=Ibmag*sind(Ibang);
+Ib=Ibreal+(%i*Ibimag);
+I1=Ir-Ib;
+I2=Iy-Ir;
+I3=Ib-Iy;
+I1mag=sqrt(real(I1)^2+imag(I1)^2);
+I1ang=atand(imag(I1)/real(I1));
+I1ang=I1ang+180;//converting the angle to positive
+I2mag=sqrt(real(I2)^2+imag(I2)^2);
+I2ang=atand(imag(I2)/real(I2));
+I3mag=sqrt(real(I3)^2+imag(I3)^2);
+I3ang=atand(imag(I3)/real(I3));
+I3ang=I3ang+180;
+disp(I1mag,"the magnitude of current I1 is (in A)");
+disp(I1ang,"the angle of current I1 is (in degree)");
+disp(I2mag,"the magnitude of current I2 is (in A)");
+disp(I2ang,"the angle of current I2 is (in degree)");
+disp(I3mag,"the magnitude of current I3 is (in A)");
+disp(I3ang,"the angle of current I3 is (in degree)");

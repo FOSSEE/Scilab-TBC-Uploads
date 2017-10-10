@@ -1,0 +1,6 @@
+ 
+ Example 20.3
+
+ Indicated power = 7.592182 kW
+ Indicate mean effective pressure = 386.666667 kN/m^2
+  Fuel consumption per kWh on brake power output = 0.255682 Kg/kWh

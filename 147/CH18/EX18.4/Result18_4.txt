@@ -1,0 +1,2 @@
+(i)Rse = 14.99 k ohm
+(ii)Rsh = 5 m ohm

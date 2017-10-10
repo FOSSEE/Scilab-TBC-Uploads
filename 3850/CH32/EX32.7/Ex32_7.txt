@@ -1,0 +1,2 @@
+
+ Resistance(R) = 20 ohms for zero current in the 50 ohms resistor

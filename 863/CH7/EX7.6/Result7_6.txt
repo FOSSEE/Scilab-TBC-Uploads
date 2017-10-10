@@ -1,0 +1,14 @@
+Circuit components required to design the circuit are R1,R2,R3,R4,R5(in kilo ohm) and Capacitance(in pF)=   
+ 
+    160.  
+ 
+    1.  
+ 
+    160.  
+ 
+    160.  
+ 
+    160.  
+ 
+    1502.8073  
+ 

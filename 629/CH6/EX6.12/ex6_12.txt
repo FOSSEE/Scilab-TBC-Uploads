@@ -1,0 +1,3 @@
+ 
+ The maximum pressure that develops at the downstream end = 303 psig.
+ 

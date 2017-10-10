@@ -1,0 +1,16 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.3.sce', -1)
+ 
+ Maximum power rating of the device(in Watt)=   
+ 
+    20.  
+ 
+ Maximum voltage rating of the device(in kV)=   
+ 
+    50.  
+ 
+ Maximum current through the device(in Amps)=   
+ 
+    0.0004  
+ 

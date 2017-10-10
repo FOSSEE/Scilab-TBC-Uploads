@@ -1,0 +1,1 @@
+ The natural line width of laser transition is = 1.28e-19 m

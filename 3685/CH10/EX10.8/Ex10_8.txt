@@ -1,0 +1,26 @@
+ 
+ Example 10.8
+
+ Mole fraction of N2 is 0.485294 
+ Mole fraction of CO2  is 0.514706
+
+ Equivalent molecular weight of mixture is 36.235294kg/kg mol
+
+ The equivalent gas constant of the mixture is 0.229445 kJ/kg K
+
+ Partial pressures of nitrogen and CO2 are 
+ 145.588235 kPa and 154.411765 kPa respectively
+ Partial volume of nitrogen and CO2 are 
+ 0.870001 kPa and 0.922728 kPa respectively
+
+ Total volume of mixture is 1.792729 m^3
+ Density of mixture is 4.462471 kg/m^3
+
+ Cp and Cv of mixture are 
+ 0.920740kJ/kg K and 0.691296kJ/kg K respectively
+
+ Change in internal energy of the system heated at constant volume  is 110.607309kJ
+ Change in enthalpy of the system heated at constant volume  is 147.318477kJ
+ Change in entropy of the system heated at constant volume  is 0.365173 kJ/kg K
+
+ Change in entropy of the system heated at constant Pressure  is 0.486376kJ/kgK

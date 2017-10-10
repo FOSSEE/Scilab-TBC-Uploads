@@ -1,0 +1,9 @@
+Part a   
+ 
+ the current (in mA) flowing is   
+ 
+    63.661977  
+ 
+ Part b   
+ 
+ the equation for current is i = 0.091*sin(377t) A   

@@ -1,0 +1,19 @@
+clc
+P2=4 //pressure in MPa
+P1=0.1 //pressure in MPa
+gama=1.4
+T1=323
+ro=(P2/P1)^(1/gama)
+mprintf("ro=%f\n",ro)//ans vary due to roundoff error
+T2=(P2*T1*(1/ro))/P1
+mprintf("T2=%fK\n",T2)//ans vary due to roundoff error
+q1=600
+CP=1.0047
+T3=(q1/CP)+T2
+mprintf("T3=%fK\n",T3)//ans vary due to roundoff error
+P3=P2
+rc=(T3/T2)
+mprintf("rc=%f\n",rc)//ans vary due to roundoff error
+Eta=1-((1/(gama*ro^(gama-1)))*(((rc^gama)-1)/(rc-1)))
+mprintf("Eta=%f\n",Eta)//ans vary due to roundoff error
+mprintf("Work done=%fkJ/kg",Eta*q1)//ans vary due to roundoff error

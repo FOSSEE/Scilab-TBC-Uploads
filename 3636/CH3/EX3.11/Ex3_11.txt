@@ -1,0 +1,2 @@
+ a)minimum frequency= 3.454e+14 Hz
+b)wavelength= 8.7e-07 m 

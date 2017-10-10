@@ -1,0 +1,24 @@
+
+ Part a   
+ 
+ the dc voltage (in V) across the load is   
+ 
+    5.6719928  
+ 
+ Part b   
+ 
+ the dc current (in mA) throught the load is   
+ 
+    25.781785  
+ 
+ Part c   
+ 
+ the dc power delivered (in W) to the load is   
+ 
+    0.1462341  
+ 
+ Part d   
+ 
+ the P.I.V. of each diode is   
+ 
+    8.9095454  

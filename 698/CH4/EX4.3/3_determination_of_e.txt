@@ -1,0 +1,11 @@
+(a)	e=R-rn
+
+(b) Calculation of rn:
+	rn=(((bi-t)*ti)+((bo-t)*to)+(t*h))/((bi*log((ri+ti)/ri))+(t*log((ro-to)/(ri+ti)))+(bo*log(ro/(ro-to))))
+	rn=82.4473 mm
+
+(c)Calculation of R:
+	R=ri+ ((0.5* h^2 *t)+(0.5* ti^2 *(bi-t))+((bo-t)*to*(h- 0.5*to)))/(((bi-t)*ti)+((bo-t)*to)+(t*h))
+	R=88.1944 mm
+
+(d)e=R-rn= 5.7472 mm

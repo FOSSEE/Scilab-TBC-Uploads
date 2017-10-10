@@ -1,0 +1,2 @@
+ Example 3.4
+ The rate of work transfer from gas to the piston is 24383 kW 

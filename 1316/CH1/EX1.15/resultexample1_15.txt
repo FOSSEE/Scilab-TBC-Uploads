@@ -1,0 +1,4 @@
+ The value of b(0.75) is 932.7 mV 
+This corresponds to an indicated temperature of 28.3 degree celcius
+So the error is 12.7 degree celcius because the actual temperature is 41 degree celcius 
+ 

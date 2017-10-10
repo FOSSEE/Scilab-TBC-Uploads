@@ -1,0 +1,4 @@
+ 
+ Example 18.12
+
+ Net heat transfer between two cylinders is 7297 W/m length 

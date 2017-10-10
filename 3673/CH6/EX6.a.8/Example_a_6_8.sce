@@ -1,0 +1,35 @@
+//Example_a_6_8 page no:238
+clc;
+X2=sqrt((16.67^2)-(10^2));
+V=100;
+Imag=6;
+pf=450/600;
+theta=acosd(pf);
+Iang=theta;
+Vmag=Imag*16.66;
+Vang=-41.4+53.1;
+Vreal=Vmag*cosd(Vang);
+Vimag=Vmag*sind(Vang);
+V1real=100;
+V1=V1real-Vreal-(Vimag*%i);
+V1mag=sqrt(real(V1)^2+imag(V1)^2);
+V1ang=atand(imag(V1)/real(V1));
+I2mag=V1mag/20;
+I2ang=V1ang-(-90);
+Ireal=Imag*cosd(Iang);
+Iimag=Imag*sind(Iang);
+I=Ireal-(Iimag*%i);
+I2real=I2mag*cosd(I2ang);
+I2imag=I2mag*sind(I2ang);
+I2=I2real+(I2imag*%i);
+I1=I-I2;
+I1mag=sqrt(real(I1)^2+imag(I1)^2);
+I1ang=atand(imag(I1)/real(I1));
+Z1mag=V1mag/I1mag;
+Z1ang=V1ang-I1ang;
+Zreal=Z1mag*cosd(Z1ang);
+Zimag=Z1mag*sind(Z1ang);
+R1=Zreal;
+X1=-Zimag;//here negative sign is used to take only reactance value
+disp(R1,"the resistance is (in ohm)");
+disp(X1,"the reactance is (in ohm)");

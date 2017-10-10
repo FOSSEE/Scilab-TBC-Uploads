@@ -1,0 +1,3 @@
+frequency f = 60 Hz
+T = 0.0167 s 
+phase angle betwwen v and i = 0.64 rad

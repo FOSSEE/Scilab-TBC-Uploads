@@ -1,0 +1,2 @@
+The wavelength is = 0.159 nm
+The Braggs angle is = 43.5 degree

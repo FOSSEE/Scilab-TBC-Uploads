@@ -1,0 +1,3 @@
+ voltage (in V) across the third load is   
+ 
+    55. + 60.i  

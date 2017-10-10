@@ -1,0 +1,4 @@
+ 
+ Example 12.10
+
+ Fuel burning rate is 18.159248 tonnes/day 

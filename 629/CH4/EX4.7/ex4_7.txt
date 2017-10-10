@@ -1,0 +1,3 @@
+ 
+The velocity of the liquid in the drain port = 14 m/s.
+ 

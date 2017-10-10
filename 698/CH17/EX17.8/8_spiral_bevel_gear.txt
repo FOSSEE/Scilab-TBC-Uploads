@@ -1,0 +1,14 @@
+(a)Since values are same, unknown parameters will be same as those in problem 17.7
+	Diameter of Gear=200 mm	Slant height of pitch cone:
+	L=sqrt(rp^2 + rg^2)=125 mm
+	Mean radius of pinion:
+	rm=rp-(b*sin(beta)*0.5)=60 mm
+	Pinion torque Mt=238 Nm
+	Tangential force at mean radius:
+	Ft=Mt/rm=3978 N
+
+(b)Pinion thrust force:
+	Fp=Ft*((tand(phi_n)*sind(beta))/cosd(gamma) - (tand(gamma)*cosd(beta)))=-1124 N
+
+(c)Gear thrust force:
+	Fg=Ft*((tand(phi_n)*cosd(beta))/cosd(gamma) - (tand(gamma)*sind(beta)))=2328 N

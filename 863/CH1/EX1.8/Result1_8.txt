@@ -1,0 +1,8 @@
+(a)upper cutoff frequency(in mhz)=   
+ 
+    1.75  
+ 
+ (b)Lower cutoff frequency(in hz)=   
+ 
+    9.5492966  
+ 

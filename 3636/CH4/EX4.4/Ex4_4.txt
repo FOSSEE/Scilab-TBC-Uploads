@@ -1,0 +1,6 @@
+ 1)
+position of the Fermi level at thermal equilibrium= 0.3412 eV
+2)
+quasi-Fermi level for electrons in non-equilibrium= 0.3414 eV
+3)
+quasi-Fermi level for holes in non-equilibrium= 0.2214 eV 

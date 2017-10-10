@@ -1,0 +1,3 @@
+the capacitor current (in A) is   
+ 
+    0.6 

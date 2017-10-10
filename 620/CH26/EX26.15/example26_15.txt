@@ -1,0 +1,3 @@
+ power factor of the motor is   
+ 
+    0.7998926

@@ -1,0 +1,9 @@
+Approximate stresses in flywheel rim is given by:
+	s=V^2*(5.6+ (18.5*d / t*n^2))*10^3
+
+For 4 spokes,	S4=43.462 MPa
+
+For 6 spokes,	S6=21.449 MPa
+
+For 8 spokes,	S8=13.744 MPa
+

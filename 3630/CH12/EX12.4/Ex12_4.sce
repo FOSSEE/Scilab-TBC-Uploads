@@ -1,0 +1,12 @@
+clc;
+Vgs=-5;
+Vgg=Vgs;
+Idss=0.016;
+Vgsoff=-8;
+Id=Idss*(1-(Vgs/Vgsoff))^2;
+Vdd=10;
+Rd=2200;
+VDS=Vdd-Id*Rd;
+disp('V',Vgs,"Vgs=")
+disp('mA',Id*1000,"Id=")
+disp('V',VDS,"VDS=")

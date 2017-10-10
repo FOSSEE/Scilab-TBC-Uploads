@@ -1,0 +1,8 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 7\exa7.5.sce', -1)
+ 
+ Value of Capacitance for unity power factor(in Farad)=   
+ 
+    0.0006048  
+ 

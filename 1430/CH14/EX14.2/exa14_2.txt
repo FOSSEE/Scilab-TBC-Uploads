@@ -1,0 +1,9 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_2.sce', -1)
+ 
+ Z-parameter by direct method=   
+ 
+    60.     50.   
+  - 100.  - 100.  
+ 
+

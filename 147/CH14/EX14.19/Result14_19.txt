@@ -1,0 +1,3 @@
+(a) The synchronous speed, ns = 3600 rpm
+
+(b) The percent slip, s = 2.5 %

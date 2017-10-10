@@ -1,0 +1,8 @@
+ Components required to design the circuit are resistors Ra,Rb(in kilo ohm) and Capacitance(in micro farad)=   
+ 
+    2.9090909  
+ 
+    3.0909091  
+ 
+    0.0793651  
+ 

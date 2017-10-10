@@ -1,0 +1,2 @@
+ Case(a):No heat sink used :-Maximum power distribution= 2.95 W
+Case(b):Heaat sink used :- Maximum power distribution= 18.36 W 

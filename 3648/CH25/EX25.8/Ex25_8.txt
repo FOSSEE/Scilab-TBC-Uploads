@@ -1,0 +1,9 @@
+The energy with radio waves is E1= 
+    1.240D-08  
+eV
+The energy with green light is E2= 
+    2.2545455  
+eV
+The energy with photon is E3= 
+    6200.  
+eV

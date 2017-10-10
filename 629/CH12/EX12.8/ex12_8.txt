@@ -1,0 +1,9 @@
+ 
+ The Mach number at the test section, M = 3.91.
+
+
+ At the test section, pressure p = 29.7 kPa and temperature T = 86 K.
+
+
+ The velocity at test section, V = 727 m/s.
+ 

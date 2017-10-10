@@ -1,0 +1,9 @@
+ 
+ Example 9.17
+ In parallel flow
+ The rate of irreversibility is 10.980000 kW
+ The Second law efficiency is 24.275862 percent
+
+ In counter flow
+ The rate of irreversibility is 10.945455 kW
+ The Second law efficiency is 32.159468 percent 

@@ -1,0 +1,9 @@
+ i)Velocity with which the electrons strikes the plate = 
+    1.187D+07  
+ii)Kinetic energy acquired by electron in joules = 
+    6.408D-17  
+Kinetic energy acquired by electron in eV = 
+    4.000D+02  
+iii)transit time in ns =  
+    5.056D-10  
+ 

@@ -1,0 +1,3 @@
+Voltage after 8ms(in volts)=   
+ 
+    1.9557039  

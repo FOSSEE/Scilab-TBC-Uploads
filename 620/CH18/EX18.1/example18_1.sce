@@ -1,0 +1,11 @@
+n1=50;
+n2=300;
+v1=120;
+disp("Part a");
+r=n1/n2;
+disp("the transformation ratio is"); disp(r);
+disp("Part b");
+v2=v1*n2/n1;
+disp("the secondary voltage (in V) is"); disp(v2);
+disp("Part c");
+disp("since the transformation ratio is lesser than unity , this is a atep-up transformer");

@@ -1,0 +1,1 @@
+ The ball is moving with a speed of vf=8.85 meters/sec 

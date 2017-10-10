@@ -1,0 +1,4 @@
+ 
+ Example 11.10 
+ Power required to run the compressor = -10.685371 kW, 
+ The rate at which heat must be removed from the compressor = -11.934673 kW

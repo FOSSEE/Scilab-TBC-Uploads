@@ -1,0 +1,5 @@
+ 
+ Example 21.1
+
+ Power output = 581.689343 kJ/kg,
+ The overall efficiency = 25.871743 percent 

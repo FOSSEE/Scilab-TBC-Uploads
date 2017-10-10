@@ -1,0 +1,7 @@
+  
+ Example 8.19
+ Case A:
+ Rate of availability transfer with heat and the irreversibility rate are 
+  1.700000 kW and -6.800000 kW respectively.
+ Case B:
+ Rate of availability in case b is 3.400000 kW  

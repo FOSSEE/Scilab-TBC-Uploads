@@ -1,0 +1,4 @@
+ Minimum value of resistance to design the circuit is(in kilo ohm)=   
+ 
+    14.4375  
+ 

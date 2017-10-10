@@ -1,0 +1,12 @@
+ 
+ Part a   
+ 
+ The current (in mA) 46 ms after closing the switch is   
+ 
+    45.  
+ 
+ Part b   
+ 
+ The time taken (in ms) to reach 27.5 mA is   
+ 
+    16.  

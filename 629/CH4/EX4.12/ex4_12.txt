@@ -1,0 +1,5 @@
+ 
+The velocity at 10km from the center = 16 m/s.
+
+The pressure difference between two locations = 806 Pa.
+ 

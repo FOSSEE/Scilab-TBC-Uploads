@@ -1,0 +1,3 @@
+The number of electrons that pass through bulb is= 
+    9.375D+17  
+electrons 

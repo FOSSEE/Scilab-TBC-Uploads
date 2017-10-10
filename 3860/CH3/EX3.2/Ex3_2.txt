@@ -1,0 +1,10 @@
+ 
+  The given function is having four input variables  A , B , C and D
+
+  The minterms are be combined using the adjacency property
+
+  m13 + m9 : ABC'D + AB'C'D = AC'D
+
+  m3 + m11 : A'B'CD + AB'CD = B'CD
+
+  m0 + m2 : A'B'C'D' + A'B'CD' = A'B'D'

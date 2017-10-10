@@ -1,0 +1,9 @@
+ 
+ Example 10.1
+
+ The final equilibrium pressure is 1.168693 MPa
+ The amount of heat transferred to the surrounding is -226.045031 kJ 
+
+ If the vessel is perfectly insulated
+ The final temperature is 45.454545 degree Celsius
+ The final pressure is 1.240586 MPa 

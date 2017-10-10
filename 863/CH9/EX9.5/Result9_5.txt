@@ -1,0 +1,8 @@
+Peak to peak voltage(in volts) and Components for circuit are resistor(in kilo ohm) and capacitance(in pf)=   
+ 
+    12.7  
+ 
+    17.  
+ 
+    8558.65  
+ 

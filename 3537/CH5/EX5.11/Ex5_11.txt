@@ -1,0 +1,2 @@
+Wavelength is lamda=1.53A
+ energy is =8099 eV 

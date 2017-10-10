@@ -1,0 +1,44 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.4.sce', -1)
+ 
+ Current through 3-kOhm resistor(in Amps)=   
+ 
+    0.0005385  
+ 
+ Current through 2-kOhm resistor(in Amps)=   
+ 
+    0.0055385  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.4.sce', -1)
+ 
+    13.384615  
+ 
+  - 11.076923  
+ 
+ Current through 3-kOhm resistor(in Amps)=   
+ 
+    0.0005385  
+ 
+ Current through 2-kOhm resistor(in Amps)=   
+ 
+    0.0055385  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.4.sce', -1)
+ 
+    6.  
+ 
+  - 5.075D-16  
+ 
+ Current through 3-kOhm resistor(in Amps)=   
+ 
+    0.003  
+ 
+ Current through 2-kOhm resistor(in Amps)=   
+ 
+    2.538D-19  
+ 
+-->exit
+-->exec('SCI/etc/scilab.quit','errcatch',-1);quit;

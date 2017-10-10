@@ -1,0 +1,8 @@
+ 
+ Example 20.11
+
+ Mechanical efficiency = 86 percent,
+ Brake mean effective pressure = 24.446199 bar
+ Air standard ratio = 58.441793 percent,
+ Brake thermal efficiency is 46.500000 percent,
+ Relative efficiency = 79.566347 percent 

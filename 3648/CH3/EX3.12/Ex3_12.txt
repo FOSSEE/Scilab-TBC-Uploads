@@ -1,0 +1,1 @@
+The ball hits the ground at x=9.58 meters 

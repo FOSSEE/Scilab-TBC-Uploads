@@ -1,0 +1,36 @@
+ 
+ F = m(2,3,4,6,9,11,12)+ d(0,1,14,15)
+
+       C'D'  C'D  CD  CD'
+
+ A'B'   X     1    1    0
+
+ A'B    X     0    0    1
+
+ AB     1     0    X    1
+
+ AB'    1     1    X    0
+
+ G = m(2,3,4,6,9,11,12)+ d(0,1,14,15)
+
+       C'D'  C'D  CD  CD'
+
+ A'B'   X     0    1    0
+
+ A'B    X     0    0    0
+
+ AB     0     0    X    1
+
+ AB'    1     1    X    1
+
+ The one solution for F and G:
+
+ F = B'D + ABD'+ A'D'
+
+ G = AC + ABD'+ CD'
+
+ The other solution for F and G: 
+
+ F = B'D + A'CD' + BD'
+
+ G = AC + ABD' + A'CD'

@@ -1,0 +1,5 @@
+The numerical aperture is = 0.285
+The acceptance angle is = 16.6 degree
+The critical angle at the core cladding interface is = 79.1 degree
+The velocity of light in the core is = 2e+08 m/s
+The velocity of light in the cladding is = 2.04e+08 m/s

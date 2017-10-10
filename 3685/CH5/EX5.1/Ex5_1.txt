@@ -1,0 +1,3 @@
+ Example 5.1
+ The rate of work input is 116 kW
+ The ratio of the inlet pipe diameter and outet pipe diameter is 1.889822   

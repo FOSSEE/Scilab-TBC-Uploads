@@ -1,0 +1,16 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 3\exa3.3', -1)
+ 
+ Maximum Power Transfered(in Watt)=   
+ 
+    720.  
+ 
+ Maximum Power Transfered(in Horsepower)=   
+ 
+    0.9651475  
+ 
+ Power Transfer Efficiency =   
+ 
+    0.5  
+ 
+

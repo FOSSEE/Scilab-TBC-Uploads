@@ -1,0 +1,49 @@
+ 
+ Dredging operations in a river yield la 
+      rge volumes of sediments whose sma 
+      llest particle is measured to be c 
+      oarse sand with a diameter of 4 mi 
+      crons and whose largest particle i 
+      s coarse sand with a diameter of 1 
+      000 microns or 1mm.determine the s 
+      ettling velocity for each size cla 
+      ss.Gw=9764 N/m^3;Ssand=2.65;Sclay= 
+      1.6;and the viscosity at 30 degree 
+       celsius is 0.8*10D-3 N.s/m^2      
+ 
+ Solution:   
+ 
+ (i)For clay particles:   
+ 
+ Assuming reynolds number less than 1   
+ 
+ R1=   
+ 
+    3.255D-08  
+ 
+ Since reynolds number is less than 1,he 
+      nce                                
+ 
+ Settling velocity for clay particles   
+ 
+    0.0000065  
+ 
+ m/s   
+ 
+ (ii)For sand particles:   
+ 
+ Assuming reynolds number greater than 1 
+       and equal to 220 Cd=0.7           
+ 
+ R2   
+ 
+    219.41569  
+ 
+ Since the reynolds number is greater th 
+      an 1                               
+ 
+ Hence the settling velovity =   
+ 
+    0.1755325  
+ 
+ m/s   

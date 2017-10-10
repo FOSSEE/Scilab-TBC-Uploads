@@ -1,0 +1,3 @@
+ The density of gold nucleus is p= 
+    2.306D+17  
+Kg/meter^3 

@@ -1,0 +1,20 @@
+(a)Pulse Amplitude (in volts)=   
+ 
+    3.5  
+ 
+ (b)PRF(in pps)=   
+ 
+    1666.6667  
+ 
+ (c)PW (in ms)=   
+ 
+    0.25  
+ 
+ (d)Duty cycle(in %)=   
+ 
+    41.666667  
+ 
+ (e)M/S ratio=   
+ 
+    0.7142857  
+ 

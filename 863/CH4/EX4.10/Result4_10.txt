@@ -1,0 +1,8 @@
+Output voltage when device is cutoff(in volts)=   
+ 
+    14.999998  
+ 
+ Output voltage when device is switched on(in milli volts)=   
+ 
+    88.235294  
+ 

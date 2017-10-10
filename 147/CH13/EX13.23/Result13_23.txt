@@ -1,0 +1,5 @@
+Equivalent winding resistance = 14.1 ohm
+
+Impedance referred to high voltage side = 22.102 ohm
+
+Total copper loss of transformer = 3.4534 kW

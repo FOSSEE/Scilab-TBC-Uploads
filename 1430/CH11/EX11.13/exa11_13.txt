@@ -1,0 +1,29 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 11\exa11_13.sce', -1)
+ 
+ Capacitor for all the stages(Farad)=   
+ 
+    1.000D-09  
+ 
+ Resistor for the 1st order stage(Ohms)=   
+ 
+    10009.745  
+ 
+ Resistor for the 2nd order stage with Q3(Ohms)=   
+ 
+    4105.1307  
+ 
+ Resistor for the 2nd order stage with Q3(Ohms)=   
+ 
+    24407.26  
+ 
+ Resistor for the 3rd order stage with Q5(Ohms)=   
+ 
+    5698.3433  
+ 
+ Resistor for the 3rd order stage with Q5(Ohms)=   
+ 
+    17583.179  
+ 
+

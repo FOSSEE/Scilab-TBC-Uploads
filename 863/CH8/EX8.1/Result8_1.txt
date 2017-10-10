@@ -1,0 +1,6 @@
+Components required for designing 555 monostable circuit are R(in kilo ohm) and C(in pF)=   
+ 
+    200.  
+ 
+    4545.4545  
+ 

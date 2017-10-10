@@ -1,0 +1,6 @@
+ a)
+Current density for 1000V potential= 8.48e+05 A/cm^2
+b)
+Doping concentration= 7.1e+11 cm^-3
+c)
+Energy gap= 0.3280 eV 

@@ -1,0 +1,4 @@
+ 
+ xyz + x'y + x'y' = xyz + x'
+
+                  = x' + yz 

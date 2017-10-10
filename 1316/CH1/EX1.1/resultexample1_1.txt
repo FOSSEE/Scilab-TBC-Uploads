@@ -1,0 +1,1 @@
+The level will stabilize from self regulation when Qout=Qin.Thus the value of h is 3 ft 

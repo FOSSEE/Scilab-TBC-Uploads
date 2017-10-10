@@ -1,0 +1,2 @@
+Signal attenuation per unit length=1.7 dB Km^-1
+over all Signal attenuation=17 dB 

@@ -1,0 +1,20 @@
+ 
+ Example 8.12 
+
+ PART (A)
+ The first law efficiency is 96 percent
+ The second law efficiency is 79 percent 
+
+ PART (B)
+ The first law efficiency is 90 percent
+ The second law efficiency is 42.352941 percent 
+
+ PART (C)
+ The first law efficiency is 60 percent
+ The second law efficiency is 4.411765  percent 
+
+ PART (D)
+ The First law efficiency for all the three cases would remain same and here is 90 percent
+ The Second law efficiency of part (a) is 74.117647 percent
+ The Second law efficiency of part (b) is 42.352941 percent
+ The Second law efficiency of part (c) is 6.617647 percent

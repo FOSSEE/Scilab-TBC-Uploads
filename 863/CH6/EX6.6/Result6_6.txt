@@ -1,0 +1,6 @@
+ Circuit components R1 and R2(in kilo ohm)=   
+ 
+    40.  
+ 
+    280.  
+ 

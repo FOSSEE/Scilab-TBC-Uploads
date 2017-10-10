@@ -1,0 +1,6 @@
+ 
+ Example 20.2
+
+ Diameter of cylinder = 6.203505 cm
+ Stroke of each cylinder = 9.305257 cm
+ Brake specific fuel consumption = 0.292208 kg/kWh 

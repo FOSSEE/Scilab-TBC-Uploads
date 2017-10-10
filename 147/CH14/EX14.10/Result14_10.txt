@@ -1,0 +1,2 @@
+Induced armature voltage E = 272.12 V
+Terminal Voltage V = 250 V

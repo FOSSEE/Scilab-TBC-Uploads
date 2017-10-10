@@ -1,0 +1,33 @@
+ ans  =
+ 
+    1.  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_7.sce', -1)
+ 
+ I_1-3*I_1=V_2/10   
+ 
+ => I_1=-0.005*V_2---equation(1)   
+ 
+ V_1=V_2+(1/(s*C)*I_1)   
+ 
+ => V_1=(1-2/s)*V_2---equation(1)   
+ 
+ I_1-3*I_1=-I_2   
+ 
+ => I_1=0.5*I_2---equation(3)   
+ 
+ V_1=(1/(s*C))*I_1   
+ 
+ => V_1=(20/s)*I_2---equation(4)   
+ 
+ Required ABCD Parameters=   
+ 
+  - 2 + s   - 20    
+    -----    ---    
+      s       s     
+                    
+  - 0.05    - 0.5   
+    ----      ---   
+     1         1    
+ 
+-->diary(0)

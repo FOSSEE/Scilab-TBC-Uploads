@@ -1,0 +1,6 @@
+ Upper and lower frequencies(in hz)=   
+ 
+    11666.667  
+ 
+    59.321388  
+ 

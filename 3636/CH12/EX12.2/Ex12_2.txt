@@ -1,0 +1,5 @@
+  
+  
+ Capacitance per unit area (F/cm^2)=    
+ 
+    6.90D-09  

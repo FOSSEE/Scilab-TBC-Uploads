@@ -1,0 +1,2 @@
+ 
+ The force exerted by the jet on the vane, F = (53.0 lbf)i+(91.8 lbf)j.

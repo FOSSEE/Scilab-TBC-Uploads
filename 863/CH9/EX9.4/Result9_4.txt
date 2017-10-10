@@ -1,0 +1,8 @@
+Required resistances Rsmax(in kilo ohm),Rsmin(in ohm) and drain source voltage(in volts)=   
+ 
+    1.5  
+ 
+    250.  
+ 
+    4.  
+ 

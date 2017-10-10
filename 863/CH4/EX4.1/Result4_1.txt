@@ -1,0 +1,8 @@
+(a)hfe=   
+ 
+    50.  
+ 
+ (b)hfe for changed resistor=   
+ 
+    227.27273  
+ 

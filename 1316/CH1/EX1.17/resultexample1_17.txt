@@ -1,0 +1,2 @@
+The value of temperature is equal to 18.392857 degree celcius 
+Our result can be significant to 3 places = 18.4 degree celcius 

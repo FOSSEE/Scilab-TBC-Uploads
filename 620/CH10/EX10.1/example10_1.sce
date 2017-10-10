@@ -1,0 +1,13 @@
+vb=13.2;
+rb=0.5;
+vg=14.5;
+rg=0.1;
+rl=2;
+ib=(vg*rl-vb*(rg+rl))/(rl^2-(rb+rl)*rg+rl);
+disp("the battery current (in A) is"); disp(ib);
+ig=(vb-ib*(rb+rl))/rl;
+disp("the generator current (in A) is"); disp(ig);
+il=ib+ig;
+disp("the load current (in A) is"); disp(il);
+vl=il*rl;
+disp("the load voltage (in V) is"); disp(vl);

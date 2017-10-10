@@ -1,0 +1,8 @@
+CASE I: Ro=100mm and Ri=90mm
+The friction radius based on uniform pressure theory is 95.1 mm
+The friction radius based on uniform wear theory is 95.0 mm
+
+
+CASE II: Ro=100mm ; Ri= 25mm
+The friction radius based on uniform pressure theory is 70.0 mm
+The friction radius based on uniform wear theory is 62.5 mm

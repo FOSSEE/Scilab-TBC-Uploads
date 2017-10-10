@@ -1,0 +1,4 @@
+ Required capacitance(in pF)=   
+ 
+    2268.766  
+ 

@@ -1,0 +1,29 @@
+In absence of damping,
+	TR=1/(1- r^2)
+	where r=w/wn
+Natural frequency wn=20.57 rad/s
+
+(a) Combined stiffness=42.30 N/mm
+
+(b) In actual conditions, successive vibrations are reduced by 30%
+Logarithmic decrement delta=ln(X/Xn+1)
+	X/Xn+1 = 1/1-0.3
+	delta= ln(X/Xn+1)= (2*pi*zeta)/sqrt(1-zeta^2),
+	where zeta=damping factor
+zeta=0.05668
+
+Transmissibility ratio is given by
+	TR=sqrt(1 + (2*zeta*r)^2)/sqrt((1- r^2)^2 + (2*zeta*r)^2)
+TR=0.05632
+
+The Maximum unbalance force is Fo=999.30 N
+Force transmitted is Ftr=Fo*TR =56.28 N
+
+(c) At resonance, r=1
+	TR=sqrt(1 + (2*zeta)^2)/(2*zeta)
+TR=8.879
+
+Maximum unbalanced force due to resonance Fo=47.59 N
+Force transmitted at resonance Ftr=422.50 N
+
+(d)Amplitude at resonance X=Ftr/Ke =9.989 mm

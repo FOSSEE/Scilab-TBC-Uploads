@@ -1,0 +1,4 @@
+The kinetic energy of the fastest electrons is = 2 eV
+The kinetic energy of slowest electrons is zero.As the emitted electrons have all possible energies from 0 to certain maximun value is E_k
+If V_s is the stopping potential then E_k=e*V_s.Since the electrons have a maximum kinetoc energy of 2eV,the stopping potential is 2V.
+The cut off wavelength for aluminium is 2.96e-07 m

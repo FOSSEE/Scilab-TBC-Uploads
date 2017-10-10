@@ -1,0 +1,2 @@
+As h^2+k^2+l^2=11.69 
+ The highest possible values of (h,k,l) are (2,2,2) Hence (2,2,2) planes give reflection 

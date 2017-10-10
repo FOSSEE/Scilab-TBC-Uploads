@@ -1,0 +1,10 @@
+clc;
+Crss=0.000000000001;
+Cgd=Crss;
+Ciss=0.000000000005;
+Cgs=Ciss-Crss;
+Coss=0.000000000002;
+Cds=Coss-Crss;
+disp('Farad',Cgd,"Cgd=");
+disp('Farad',Cds,"Cds=");
+disp('Farad',Cgs,"Cgs=");

@@ -1,0 +1,2 @@
+ Vibrational Partition Function for Carbon Monoxide at 300K = 1.00004
+ Vibrational Partition Function for Carbon Monoxide at 3000K = 1.56

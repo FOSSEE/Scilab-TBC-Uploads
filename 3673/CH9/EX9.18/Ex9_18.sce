@@ -1,0 +1,58 @@
+//Example 9_18 page no:375
+clc;
+Vrymag=400;
+Vryang=0;
+Vybmag=400;
+Vybang=-120;
+Vbrmag=400;
+Vbrang=-240;
+Z1mag=20;
+Z1ang=30;
+Z1real=Z1mag*cosd(Z1ang);
+Z1img=Z1mag*sind(Z1ang);
+Z2mag=40;
+Z2ang=60;
+Z2real=Z2mag*cosd(Z2ang);
+Z2img=Z2mag*sind(Z2ang);
+Z3mag=10;
+Z3ang=-90;
+Z3real=Z3mag*cosd(Z3ang);
+Z3img=Z3mag*sind(Z3ang);
+//calculating the line current
+Irmag=Vrymag/Z1mag;
+Irang=Vryang-Z1ang;
+Irreal=Irmag*cosd(Irang);
+Irimg=Irmag*sind(Irang);
+Iymag=Vybmag/Z2mag;
+Iyang=Vybang-Z2ang;
+Iyreal=Iymag*cosd(Iyang);
+Iyimg=Iymag*sind(Iyang);
+Ibmag=Vbrmag/Z3mag;
+Ibang=Vbrang-Z3ang;
+Ibreal=Ibmag*cosd(Ibang);
+Ibimg=Ibmag*sind(Ibang);
+Ir=Irreal+(%i*Irimg);
+Iy=Iyreal+(%i*Iyimg);
+Ib=Ibreal+(%i*Ibimg);
+disp(Ir,"the phase current Ir is (in A)");
+disp(Iy,"the phase current Iy is (in A)");
+disp(Ib,"the phase current Ib is (in A)");
+//calculating the line current
+I1real=Irreal-Ibreal;
+I1img=Irimg-Ibimg;
+I2real=Iyreal-Irreal;
+I2img=Iyimg-Irimg;
+I3real=Ibreal-Iyreal;
+I3img=Ibimg-Iyimg;
+I1=I1real+(%i*I1img);
+I2=I2real+(%i*I2img);
+I3=I3real+(%i*I3img);
+disp(I1,"the phase current Ir is (in A)");
+disp(I2,"the phase current Iy is (in A)");
+disp(I3,"the phase current Ib is (in A)");
+//calculating the total power
+Pr=Irmag^2*Z1real;
+Py=Iymag^2*Z2real;
+Pb=Ibmag^2*Z3real;
+P=Pr+Py+Pb;
+disp(P,"total power in the load is (in W)");

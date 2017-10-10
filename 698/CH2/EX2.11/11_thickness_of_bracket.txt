@@ -1,0 +1,20 @@
+Assuming the thickness of the bracket as t
+Area of cross section A= b*t = 0.04*t
+Direct stress Sd= P/A 
+Bending stress Sb=(M*c)/I
+	where c=w+ t/2 i.e., 0.05+ t/2
+	M=P*t/2
+	I=(b*(t^3))/12
+
+Maximum tensile stress:
+	S=Sb+Sd
+	S=(P/A)+((M*c)/I)
+
+On simplifying above equation,
+	we get
+	 (S*b)t^2 - (4P)t - 6Pw = 0
+	30=(500/t)+(155*(100+t) / t^2
+
+Standardizing the dimension, we get t=111.5 mm
+
+The corresponding stress induced is 30.00 MN/m^2

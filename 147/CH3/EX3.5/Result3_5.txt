@@ -1,0 +1,7 @@
+Power factor, pf = 0.866
+
+True Power, S = 692.8 W
+
+Apparant power, Q = 800 VA
+
+Reactive power, P = 400 VAr

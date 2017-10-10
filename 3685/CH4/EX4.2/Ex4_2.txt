@@ -1,0 +1,5 @@
+ 
+ Example 4.2
+ The heat flow into the system along the path adb is 62.500000 kJ.
+ The heat liberated along the path b-a is -73 kJ.
+ The heat absorbed in the path ad and db are 52.500000 kJ nd 10 kJ respectively.

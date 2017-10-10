@@ -1,0 +1,6 @@
+Tangential force Ft=Mt/rp
+	Ft=4000 N
+
+Separating force Fr=Ft*tan(phi)
+	Fr=1455 N
+

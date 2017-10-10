@@ -1,0 +1,12 @@
+v1=10;
+v2=20;
+r1=10^3;
+r2=2*10^3;
+r3=3*10^3;
+r4=4*10^3;
+r5=5*10^3;
+i2=(v*(r1+r2)-v1*r2)/((r2+r3+r5)*(r1+r2)-r2^2);
+vth=v2-i2*r5;
+rth=(r1*r2/(r1+r2)+r3)*r5/(r1*r2/(r1+r2)+r3+r5);
+i=vth/(rth+r4);
+disp("the current (in mA) in R4 is"); disp(i*10^3);

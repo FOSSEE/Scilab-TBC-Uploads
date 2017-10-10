@@ -1,0 +1,31 @@
+ 
+ A submarine moves through water at 30 f 
+      t/s.At a point A on the submarine  
+      5 ft above the nose,the velocity o 
+      f the submarine relative to the wa 
+      ter is 50 ft/s.Determine the dynam 
+      ic-pressure difference between thi 
+      s point and the nose,and determine 
+       the difference in total pressure  
+      between the two points.            
+ 
+ If the submarine is sationary and the w 
+      ater is movinf past it,The velocit 
+      y at the nose is zero and the velo 
+      city at A is 50ft/s.By selecting t 
+      he dynamic pressure at infinity as 
+       zero                              
+ 
+ Hence dynamic pressure difference betwe 
+      en point A and nose is=            
+ 
+  - 2418.75  
+ 
+ lb/ft^2   
+ 
+ Hence total pressure difference between 
+       point A and nose is=              
+ 
+  - 2730.0334  
+ 
+ lb/ft^2   

@@ -1,0 +1,10 @@
+Circuit components are Re,Rc1,R2,R1(in kilo ohm)=   
+ 
+    2.15  
+ 
+    5.6264822  
+ 
+    25.  
+ 
+    26.1917  
+ 

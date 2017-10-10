@@ -1,0 +1,2 @@
+The total dispersion is 1343.3 ns
+The bandwidth length product is 3722084.37 HZ-Km 

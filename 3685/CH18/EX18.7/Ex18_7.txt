@@ -1,0 +1,4 @@
+ 
+ Example 18.7
+
+ Surface area of heat exchanger is 3.529488 m^2 

@@ -1,0 +1,3 @@
+ 
+ Example 9.10
+ The quality of the steam in the pipe line is 0.909544 

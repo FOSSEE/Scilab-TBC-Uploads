@@ -1,0 +1,9 @@
+ 
+ Example 14.4
+
+ Refrigeration effect is 126 kJ/kg
+ Refrigerant flow rate is 0.308642 kg/s
+ Diameter of cylinder is 10.773252 cm
+ Length of cylinder is 11.850577 cm
+ COP is 4.846154 
+ Power required to drive the compressor is 8.024691 kW 

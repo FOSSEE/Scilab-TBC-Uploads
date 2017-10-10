@@ -1,0 +1,16 @@
+
+ Part a   
+ 
+ the time constan (in ms) of the circuit i; disp(t*10^3)   
+ 
+ Part b   
+ 
+ the initial rate of rise of capacitor voltage (in V/s) is   
+ 
+    480.  
+ 
+ Part c   
+ 
+ time taken (in ms) to reach 24 V is   
+ 
+    250.  

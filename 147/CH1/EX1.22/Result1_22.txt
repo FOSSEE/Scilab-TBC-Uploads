@@ -1,0 +1,2 @@
+Power consumed by Resistance R1, P1 = 146.5 W 
+Power consumed by Resistance R2, P2 = 87.9 W

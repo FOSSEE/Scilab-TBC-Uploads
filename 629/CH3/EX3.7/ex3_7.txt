@@ -1,0 +1,3 @@
+ 
+The pressure of the air in the tank = 110 kPa gage.
+ 

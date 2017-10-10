@@ -1,0 +1,30 @@
+clc
+r=83.56 //moles of nitrogen in product
+b=3.7619
+z=r/b
+mprintf("z=%f\n",z)//ans vary due to roundoff error
+c=9.27 //moles of carbon in product
+d=2.31 //moles of carbon in product
+x=c+d
+mprintf("x=%f\n",x)//ans vary due to roundoff error
+e=4.86 //moles of nitrogen
+a=(z-c-(d/2)-e)*2
+mprintf("a=%f\n",a)//ans vary due to roundoff error
+y=2*a
+mprintf("y=%f\n",y)//ans vary due to roundoff error
+g=12
+carbon=(x*g)/((x*g)+y)
+mprintf("carbon=%fpercent\n",carbon*100)//ans vary due to roundoff error
+hydrogen=y/((x*g)+y)
+mprintf("hydrogen=%fpercent\n",hydrogen*100)//ans vary due to roundoff error
+h=28.97
+s=((z+r)*h)/((x*g)+y)
+mprintf("Air-fuel ratio=%fkg air/kg fuel\n",s)//ans vary due to roundoff error
+O2=25.43
+N2=95.665
+t=((O2+N2)*h)/((x*g)+y)
+mprintf("theoretical air-fuel ratio=%f kg air/kg fuel\n",t)//ans vary due to roundoff error
+pert=(s/t)*100
+mprintf("Percent theoretical air=%fpercent\n",pert)//ans vary due to roundoff error
+mprintf("Percent deficit air=%fpercent\n",100-pert)//ans vary due to roundoff error
+

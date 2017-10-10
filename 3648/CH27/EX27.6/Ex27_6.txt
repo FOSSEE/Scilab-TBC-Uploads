@@ -1,0 +1,3 @@
+ The number of dis integrations per sec= 
+  - 3.620D+10  
+ 

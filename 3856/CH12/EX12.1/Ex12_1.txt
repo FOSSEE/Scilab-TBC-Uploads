@@ -1,0 +1,1 @@
+ The rate constant for the reaction = 1.231*10^-4 s^-1

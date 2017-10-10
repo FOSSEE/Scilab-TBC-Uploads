@@ -1,0 +1,4 @@
+The magnetic field exerts a force of q*v*B upwards on the particle.
+The particle doesnot deflect because the two forces are equal
+Hence v=(E/B)
+A particle with this speed will pass through the region of the crossfields and undeflected 

@@ -1,0 +1,5 @@
+ 
+ Example 19.15
+
+ Power required to drive the blower = 99.470000 kW,
+ Power required = 77.922089 kW

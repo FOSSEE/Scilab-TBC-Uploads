@@ -1,0 +1,4 @@
+ Required current(in micro ampere)=   
+ 
+    128.  
+ 

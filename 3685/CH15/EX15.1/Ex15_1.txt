@@ -1,0 +1,11 @@
+ 
+ Example 15.1
+
+ Specific humidity is 0.018624 kg vap./kg dry air
+ Partial pressure of water vapour is 0.029456 bar
+ Dew point temperature is 24.100000 degree celcius
+ Relative humidity is 61.366059 percent 
+ Degree of saturation is 0.602093 
+ Density of dry air is 1.123830 kg/m^3
+ Density of water vapor is 0.020930 kg/m^3
+ Enthalpy of the mixture is 80.112696 kJ/kg 

@@ -1,0 +1,11 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.2.sce', -1)
+ 
+ Voltage across unknown Resistor(in Volts)=   
+ 
+    32.  
+ 
+ Resistance across unknown Resistor(in Ohms)=   
+ 
+    16.  
+ 

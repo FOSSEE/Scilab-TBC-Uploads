@@ -1,0 +1,3 @@
+Inductance of coil L = 45.94 mH
+Power Factor = 0.5 
+Reactive Power = 433 var

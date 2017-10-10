@@ -1,0 +1,3 @@
+The compton shift is = 2.43e-12 m
+
+The kinetic energy imparted to the electron is = 4.95e-17 J or 309.42 eV

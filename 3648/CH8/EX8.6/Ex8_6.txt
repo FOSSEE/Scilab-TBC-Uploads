@@ -1,0 +1,1 @@
+The sphere is moving at a speed of Vf=sqrt((10*g*h)/7) 

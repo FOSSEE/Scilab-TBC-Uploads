@@ -1,0 +1,12 @@
+//Variable declaration
+n=2;     //number of atoms
+M=6.94;   //atomic weight(kg)
+rho=530;   //density(kg/m**3)
+Na=6.02*10**26;    //avagadro number
+
+//Calculation
+a3=n*M/(rho*Na);
+a=a3**(1/3);     //lattice constant(m)
+
+//Result
+printf('lattice constant is %0.3f   angstrom  \n',(a*10**10))

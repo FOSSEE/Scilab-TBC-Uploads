@@ -1,0 +1,24 @@
+clc
+h2=203.1063
+s2=0.6825
+sf=0.0736
+sg=0.7094
+hf=17.9517
+hg=178.9017
+s1=s2
+X1=(s1-sf)/(sg-sf)
+mprintf("X1=%f\n",X1)//ans vary due to roundoff error
+h1=(X1*hg)+(1-X1)*hf
+mprintf("h1=%fkJ/kg\n",h1)//ans vary due to roundoff error
+h3=75.1134
+h4=h3
+COPR=(h1-h4)/(h2-h1)
+mprintf("COPR=%f\n",COPR)//ans vary due to roundoff error
+m=0.05
+mprintf("Capacity of refrigerator=%fkW\n",m*(h1-h4))//ans vary due to roundoff error
+Preq=m*(h2-h1)
+mprintf("Power required=%fkW\n",Preq)//ans vary due to roundoff error
+TL=253 //in kelvin
+TH=313 //in kelvin
+COP=TL/(TH-TL)
+mprintf("COP=%f",COP)//ans vary due to roundoff error

@@ -1,0 +1,2 @@
+ 
+The head loss per 100m length of the pipe = 9.84 m.

@@ -1,0 +1,4 @@
+ 
+ Example 15.9 
+
+ Bypass factor of coolin coil is  0.415730 

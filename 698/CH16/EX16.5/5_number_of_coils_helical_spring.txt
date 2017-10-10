@@ -1,0 +1,13 @@
+C= D/d
+D=9.6 mm
+
+Wahl factor
+K= ((4*C -1)/(4*C -1)) + (0.615/C)
+	=1.10
+
+F/y = dG/8*n*C^3
+n=41.15 turns
+
+F= 52.43 N
+
+The deflection should be limited to 29.13 mm

@@ -1,0 +1,32 @@
+clc
+y1=0.4 //CH4
+y2=0.2 //C2H6
+y3=0.25 //H2
+y4=0.15 //N2
+M1=16
+M2=30
+M3=2
+M4=28
+m1=0.64
+m2=0.6
+m3=0.05
+m4=0.42
+M=(y1*M1)+(y2*M2)+(y3*M3)+(y4*M4)
+mprintf("M=%fkg/kmol\n",M)
+m=m1+m2+m3+m4
+mprintf("m=%fkg\n",m)
+yCH4=m1/m
+mprintf("phi1=%f\n",yCH4)//ans vary due to roundoff error
+yC2H6=m2/m
+mprintf("phi2=%f\n",yC2H6)//ans vary due to roundoff error
+yH2=m3/m
+mprintf("phi3=%f\n",yH2)//ans vary due to roundoff error
+yN2=m4/m
+mprintf("phi4=%f\n",yN2)//ans vary due to roundoff error
+N=100
+N1=N*y1
+N2=N*y2
+N3=N*y3
+N4=N*y4
+mprintf("Ni=.\n%f\n%f\n%f\n%f",N1,N2,N3,N4)
+

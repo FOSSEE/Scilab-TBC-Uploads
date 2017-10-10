@@ -1,0 +1,3 @@
+IMA=3.00
+AMA=2.50
+Percentage of efficiency is 83 percent 

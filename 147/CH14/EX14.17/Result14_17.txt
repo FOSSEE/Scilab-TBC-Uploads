@@ -1,0 +1,3 @@
+Applied voltage to run the device at 350 rpm = 772.8 V
+
+Applied current to run the device at 350 rpm = 28 A

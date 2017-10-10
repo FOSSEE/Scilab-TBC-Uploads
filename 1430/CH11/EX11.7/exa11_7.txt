@@ -1,0 +1,14 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 11\exa11_7.sce', -1)
+ 
+ Required value for resistors are(in Ohms)   
+ 
+ R_1=   
+ 
+    7957.7472  
+ 
+ R_F=   
+ 
+    39788.736  
+ 

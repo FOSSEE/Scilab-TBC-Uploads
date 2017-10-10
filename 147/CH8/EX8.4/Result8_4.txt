@@ -1,0 +1,3 @@
+Beta = 49
+Icq = 1.47 mA
+Ieq = 1.50 mA

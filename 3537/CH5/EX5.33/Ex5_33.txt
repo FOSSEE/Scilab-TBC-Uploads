@@ -1,0 +1,2 @@
+wave length lamda=0.842A
+Maximum order of diffraction n=7 

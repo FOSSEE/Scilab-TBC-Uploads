@@ -1,0 +1,11 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.8.sce', -1)
+ 
+ Voltage across 8-Ohm Resistor(in Volts)=   
+ 
+    8.  
+ 
+ Current through 6-Ohm Resistor(in Amps)=   
+ 
+    6.  
+

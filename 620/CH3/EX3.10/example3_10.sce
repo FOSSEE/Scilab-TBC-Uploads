@@ -1,0 +1,11 @@
+disp("Part a");
+v=120;
+i=.5;
+p=v*i;
+disp("the power (in W) used by the lamp is"); disp(p);
+disp("Part b");
+disp("the rate (in J/s) at which heat is converted to light is"); disp(p);
+disp("Part c");
+t=60;
+e=p*t;
+disp("the amount of energy (in J) used by the lamp is"); disp(e);

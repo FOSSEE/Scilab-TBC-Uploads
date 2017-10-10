@@ -1,0 +1,1 @@
+Current from the voltage source, I = 1.5 - 1.5005561i  

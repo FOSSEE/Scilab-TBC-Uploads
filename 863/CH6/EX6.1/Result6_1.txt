@@ -1,0 +1,10 @@
+ Circuit components Re,Rc,R2,R1(in kilo ohm)=   
+ 
+    2.15  
+ 
+    3.75  
+ 
+    25.  
+ 
+    28.068182  
+ 

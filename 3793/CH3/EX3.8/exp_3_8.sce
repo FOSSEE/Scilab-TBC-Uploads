@@ -1,0 +1,12 @@
+clear;
+clc;
+D=6;
+r=.015;
+e=8.85*10^(-12);
+a=complex(0.5,-0.866);
+ca=log(r/(2*D))-(log(D/(2*r))*a);
+cb=(log((D^2)/(r^2))*log(r/(2*D)))-(log((2*D)/r)*log(D/(2*r)));
+Cyr= (2*%pi*e*(10^9)*ca)/cb;
+mprintf(" capacitance in microF/Km is %.3f %.3fi\n",real(Cyr),imag(Cyr));
+I=%i*2*%pi*50*Cyr*110000*10^-6;
+mprintf(" Current is %.3f+%.3fi A",real(I),imag(I));

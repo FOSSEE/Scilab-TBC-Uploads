@@ -1,0 +1,7 @@
+ error for accuracy of 0.5 percent of full scale value is = 1.25 degree celcius 
+Thus the actual temperature is in range of = 53.75 degree celcius to =56.25 degree celcius 
+error for accuracy of 0.75 percent of span is = 1.725 degree celcius 
+Thus the actual temperature is in range of = 53.275 degree celcius to =56.725 degree celcius 
+error for accuracy of 0.8 percent of reading is = 0.44 degree celcius 
+Thus the actual temperature is in range of = 54.56 degree celcius to = 55.44 degree celcius 
+ 

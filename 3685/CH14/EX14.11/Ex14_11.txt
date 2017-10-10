@@ -1,0 +1,5 @@
+ 
+ Example 14.11
+
+ Pressure ratio for the turbine is 3.611111 
+ COP is 0.533011 

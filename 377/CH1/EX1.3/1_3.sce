@@ -1,0 +1,27 @@
+r=5*10^-15;  //say r=∆x
+h=1.055;
+c=3*10^8;
+m0=9.1;
+disp("∆p >= h/(4*pi*∆x)");
+a=h/(2*r);
+b=a*(10^-14);
+printf('\n The uncertainity in momentum is %f *(10^-20) kg m/s',b);
+d=0.511;
+e=1.6;
+f=d*e;
+printf('\n The rest mass enrgy of electron is %f*(10^-13) J',f);
+g=b*c;
+k=g*10^-8;
+printf('\n The value of ∆p*c is %f*(10^-12) J',k);
+disp("E=sqrt((m0*c^2)^2+(p*c)^2)");
+disp("Emin=3.165*10^-12");
+i=3.165*(10^-12)/(1.6*(10^-19)*10^6);
+printf('\n The value of Emin in Mev is %f',i);
+j=5.3;
+l=h/(2*j);
+m=l*10^2;
+printf('\n The uncertainity in momentum is when  %f *(10^-23) kg m/s',m);
+n=(m^2)/(2*m0);
+printf('\n The value of kinetic energy is %f*(10^-19) J',n);
+o=n/1.6;
+printf('\n The value of kinetic energy in eV is %f eV',o);

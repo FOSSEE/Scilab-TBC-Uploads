@@ -1,0 +1,10 @@
+//Example 11-6 Effect of Spin on Tennis Ball
+m = 0.057 //mass of the tennis ball [kg]
+D = 6.37 //diameter of the ball [cm]
+V = 72 //speed of ball [km/h]
+N = 4800 //backspin given to ball [rpm]
+P = 1 //air pressure [atm]
+T = 25 //temperature of air [C]
+nu = 1.562 * 10**-5 //kinematic viscosity of air at 25 C [m^2/s]
+g = 9.81 //gravitational acceleration [m/s^2]
+R = 287 //gas constant for air [J/kg.K]

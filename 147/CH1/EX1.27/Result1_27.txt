@@ -1,0 +1,2 @@
+Current through 2 ohm resistor, I2 = 5 A
+Voltage across 2 ohm resistor, Vab = 10 V

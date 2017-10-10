@@ -1,0 +1,6 @@
+ 
+ Example 18.5
+
+ Time to cool down to 2 degree celcius is 30.593334 min
+ Temperature of peas after 10 minutes is 13.171479 degree celcius
+ Temperature of peas after 30 minutes is 1.039327 degree celcius

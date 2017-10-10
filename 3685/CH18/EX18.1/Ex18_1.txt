@@ -1,0 +1,5 @@
+ 
+ Example 18.1
+
+ The rate of heat removal is 486.404842 W
+ Temperature at inside surface of brick is 20.281222 degree celcius 

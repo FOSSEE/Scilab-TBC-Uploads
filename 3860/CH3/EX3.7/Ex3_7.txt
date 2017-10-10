@@ -1,0 +1,12 @@
+ 
+ f = a'b'c + a'bc' + a'bc + ab'c'
+
+ The mapping is shown below
+
+       A'B'  A'B  AB  AB'
+
+ C'     1    1    -    1
+
+ C      -    1    -    -
+
+ f = a'b + b'c'

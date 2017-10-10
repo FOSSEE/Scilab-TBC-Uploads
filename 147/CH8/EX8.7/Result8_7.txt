@@ -1,0 +1,5 @@
+(a) Ieq = 3.240 mA
+
+(b) Rb = 51.50 k ohm
+
+(c) Vceq = 2.16 V

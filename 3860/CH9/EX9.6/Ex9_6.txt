@@ -1,0 +1,30 @@
+ 
+ Given State Table
+
+ q |    x=00   x=01   x=10   x=11   |    z
+
+ --|--------------------------------|-----
+
+ A |     B      A      F       D    |    1
+
+ B |     E      A      D       C    |    1
+
+ C |     A      F      D       C    |    0
+
+ D |     A      A      B       C    |    1
+
+ E |     B      A      C       B    |    1
+
+ F |     A      F      B       C    |    0
+
+ States A-E , B-D and C-F are equivalent
+
+ q |    x=00   x=01   x=10   x=11   |    z
+
+ --|--------------------------------|-----
+
+ A |     B      A      C       B    |    1
+
+ B |     A      A      B       C    |    1
+
+ C |     A      C      B       C    |    0

@@ -1,0 +1,3 @@
+
+	The internal effectiveness factor based on Sulphur and Hydrogen diffusion are 2.064414 and 0.284642 respectively
+	The internal effectiveness factor based on Hydrogen is negligible

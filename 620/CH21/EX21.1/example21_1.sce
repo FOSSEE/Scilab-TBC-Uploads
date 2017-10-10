@@ -1,0 +1,13 @@
+q=50;
+v=2;
+disp("Part a");
+c=q/v;
+disp("the capacitance (in μF) of the capacitor is"); disp(c);
+disp("Part b");
+v1=10;
+q1=v1*c;
+disp("the charge required (in μC) to raise the voltage is"); disp(q1);
+disp("Part c");
+q2=10;
+v2=q2/c;
+disp("voltage (in V) across the capacitor is"); disp(v2);

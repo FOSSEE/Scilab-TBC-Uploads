@@ -1,0 +1,11 @@
+r=2.2*10^6;
+i=6*10^(-6);
+disp("Part a");
+v=i*r;
+disp("the potential difference (in V) across the resistor is"); disp(v);
+disp("Part b");
+g=10^(-6);
+v1=12;
+r1=1/g;
+i1=v1/r1;
+disp("the new current (in μA) is"); disp(i1*10^6);

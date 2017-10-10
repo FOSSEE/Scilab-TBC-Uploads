@@ -1,0 +1,3 @@
+the resonant frequency (in MHz) is   
+ 
+    1.592D+12 

@@ -1,0 +1,4 @@
+
+	The maximum rate of CO absorption at 20 atm : 0.030 (mol/L s)
+	The kinetic rate of CO absorption at 180(°C) : 0.003 (mol/L s)
+	The predicted value of k_L_a : 0.29 (s-1)

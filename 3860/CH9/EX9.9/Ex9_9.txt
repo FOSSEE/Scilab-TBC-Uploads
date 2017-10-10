@@ -1,0 +1,40 @@
+ 
+ Given State Table
+
+ q |    x=0         x=1   |    z
+
+ --------------------------------
+
+ A |     C           D    |    0
+
+ B |     D           A    |    0
+
+ C |     E           D    |    0
+
+ D |     B           A    |    1
+
+ E |     C           D    |    1
+
+ Step 1 produces five SP Partitions
+
+ P1 = (ACE)(BD)
+
+ P2 = (ADE)(BC)
+
+ P3 = (AE)(B)(C)(D)
+
+ P4 = (A)(BD)(C)(E)
+
+ P5 = (A)(B)(CE)(D)
+
+ Step 2 requires three sums
+
+ P1 + P4 = (ACE)(BD)--> P6
+
+ P3 + P4 = (AE)(BD)(C)--> P7
+
+ P4 + P5 = (A)(CE)(BD)--> P8
+
+ P7 + P8 = (ACE)(BD)--> P6
+
+ There are eight non trivial SP partition, of which two are two block and none are output consistent

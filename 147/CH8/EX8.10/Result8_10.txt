@@ -1,0 +1,2 @@
+(a): Re = 3 ohm
+(b): Rc = 5.234 k ohm

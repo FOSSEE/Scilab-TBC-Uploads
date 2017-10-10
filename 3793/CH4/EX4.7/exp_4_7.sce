@@ -1,0 +1,13 @@
+clear;
+clc;
+l=250;
+z=complex(.032,.30);
+y=complex(0,3.5*10^(-6));
+Z=z*l;
+Y=y*l;
+A=1+((Y*Z)/2);
+B=Z;
+C=Y*(1+(Y*Z)/4);
+D=A;
+mprintf("A,B,C and D parameters are respectively");
+disp(A,B,C,D);

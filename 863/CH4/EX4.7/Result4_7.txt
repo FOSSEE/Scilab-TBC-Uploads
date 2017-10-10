@@ -1,0 +1,8 @@
+Rc,Rb(in kilo ohm),and amplitude of output waveform(in volts)=   
+ 
+    10.  
+ 
+    213.47518  
+ 
+    12.736364  
+ 

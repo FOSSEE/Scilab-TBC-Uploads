@@ -1,0 +1,26 @@
+r1=1;
+r2=2;
+r3=4;
+r4=3;
+r5=5;
+v=40;
+disp("Part a");
+r_1=r2+r3;
+r_2=r_1*r4/(r4+r_1);
+r_3=r1+r_2;
+r=r5*r_3/(r5+r_3);
+disp("the total resistance (in kΩ) is"); disp(r);
+disp("Part b");
+i=v/r;
+disp("the current drawn (in mA) from the source is"); disp(i);
+disp("Part c");
+p=v*i;
+disp("the total power delivered (in mW) by the source is"); disp(p);
+disp("Part d");
+i1=v/r_3;
+i4=i*r_1/(r_1+r4);
+p4=i4^2*r4
+disp("Power dissipated (in mW) is"); disp(p4);
+disp("Part e");
+v1=i1*r1;
+disp("Voltage drop (n V) across R1 is"); disp(v1);

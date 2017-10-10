@@ -1,0 +1,7 @@
+ 
+ Example 13.10 
+
+ The temperature of the gases at the turbine exit is 1114.474397 K,
+ The pressure of the gases at the turbine exit is 311.998817 kN/m^2,
+ The velocity of gases at the nozzle exit is 1020.347840 m/sec,
+ The propulsive efficiency of the cycle is 25.699731 percent 

@@ -1,0 +1,10 @@
+disp("Part a");
+disp("the resistance value is 158 Ω with an tolerance of 1%");
+disp("Part b");
+disp("the resistance value is 2.15 kΩ with a tolerance of 2%");
+disp("Part c");
+disp("the resistance value is 7.32 MΩ with a tolerance of 1%");
+disp("Part d");
+disp("the resistance value is 6.49 Ω with a tolerance of 2%");
+disp("Part e");
+disp("the resistance value is 820 kΩ with a tolerance of 1%");

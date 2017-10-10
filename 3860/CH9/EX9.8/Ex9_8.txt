@@ -1,0 +1,36 @@
+ 
+ Given State Table
+
+ q |    x=0         x=1   |    z
+
+ --------------------------------
+
+ A |     C           D    |    1
+
+ B |     C           D    |    0
+
+ C |     B           D    |    1
+
+ D |     C           A    |    1
+
+ Step 1 produces five SP Partitions
+
+ P1 = (AB)(C)(D)
+
+ P2 = (ABC)(D)
+
+ P3 = (AD)(B)(C)
+
+ P4 = (A)(BC)(D)
+
+ P5 = (ABD)(C)
+
+ Step 2 requires three sums
+
+ P1 + P3 = (ABD)(C)--> P5
+
+ P1 + P4 = (ABC)(D)--> P2
+
+ P3 + P4 = (AD)(BC)--> P6
+
+ only one new partition is found by step 2.

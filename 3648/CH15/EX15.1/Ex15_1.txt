@@ -1,0 +1,6 @@
+The value of q is=0.00000361 C
+Number of electrons to be removed is= 
+    2.256D+13  
+Fraction of atoms lost is= 
+    7.521D-10  
+ 

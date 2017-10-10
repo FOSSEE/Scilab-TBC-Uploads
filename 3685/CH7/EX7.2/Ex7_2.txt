@@ -1,0 +1,4 @@
+ 
+ Example 7.2
+ The entropy change of the universe is 0.184270 kJ/K
+ The entropy change of the universe is 0.097388 kJ/K 

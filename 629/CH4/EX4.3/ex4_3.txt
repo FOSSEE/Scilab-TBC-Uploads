@@ -1,0 +1,4 @@
+ 
+(a)The pressure at the top front, p = 261 psfg (= 12.5 kPa,gage).
+
+(b)The maximum pressure in the tank, pmax = 513 psfg (= 24.6 kPa,gage)

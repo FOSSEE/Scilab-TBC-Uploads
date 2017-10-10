@@ -1,0 +1,10 @@
+(a)Minimum upper cut frequency(in hertz)=   
+ 
+    175000.  
+ 
+ (b)Pulse width(in sec) and Duty cycle(in %)=   
+ 
+    0.0000035  
+ 
+    0.525  
+ 

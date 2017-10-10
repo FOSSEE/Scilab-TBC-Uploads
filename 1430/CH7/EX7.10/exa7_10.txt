@@ -1,0 +1,12 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 7\exa7.10.sce', -1)
+ 
+ Total Average power supplied by generator(in Watts)=   
+ 
+    32411.21  
+ 
+ Reactive power supplied by the generator(in VAr)=   
+ 
+    24335.025  
+

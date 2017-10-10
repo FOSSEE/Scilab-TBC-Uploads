@@ -1,0 +1,22 @@
+(a)Pulse Amplitude(in mv),tilt(in %),rise time(in micro sec),fall time(in micro sec),PW(in micro sec),PRF(in pps),M/s ratio,Duty cycle(in %)=   
+ 
+    365.  
+ 
+    8.2191781  
+ 
+    30.  
+ 
+    40.  
+ 
+    2000.  
+ 
+    220.  
+ 
+    0.7857143  
+ 
+    44.  
+ 
+ (b)Tilt(in %)=   
+ 
+    22.222222  
+ 

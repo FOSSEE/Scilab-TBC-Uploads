@@ -1,0 +1,23 @@
+ Part a   
+ 
+ the current (in A) through the load is   
+ 
+    0.52  
+ 
+ Part b   
+ 
+ the internal voltage drop (in V) is   
+ 
+    1.3  
+ 
+ Part c   
+ 
+ the terminal voltage (in V) of the battery under load is   
+ 
+    5.2  
+ 
+ Part d   
+ 
+ the terminal voltage (in V) of the battery is   
+ 
+    4.3333333  

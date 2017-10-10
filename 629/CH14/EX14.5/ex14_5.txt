@@ -1,0 +1,6 @@
+ 
+ At maximum efficiency, the expected values of
+  Head        = 92.4 m
+  Discharge   = 6.21 m^3/s
+  Power       = 6222 kW
+ 

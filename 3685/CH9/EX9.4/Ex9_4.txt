@@ -1,0 +1,4 @@
+ 
+ Example 9.4
+ The entropy, enthalpy and volume of steam at 1.4MPa and 380 degree are 
+  7.236320 kJ/kg K, 3214.300000kJ/kg, 0.210800m3/kg respectively 

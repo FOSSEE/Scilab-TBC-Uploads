@@ -1,0 +1,5 @@
+ 
+ Example 15.2
+
+ Humidity ratio of inlet mixture is 0.010722 kg vap./kg dry air
+ Relative humidity is 39.910625 percent 

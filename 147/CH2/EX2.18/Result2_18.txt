@@ -1,0 +1,4 @@
+Rth = 1 ohm 
+Vth = 10 ohm
+For 9 ohm, Load Current I = 1 A
+For 99 ohm, Load Current I = 0.1 A

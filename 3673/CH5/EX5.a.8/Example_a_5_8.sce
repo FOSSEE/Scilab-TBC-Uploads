@@ -1,0 +1,25 @@
+//Example_a_5_8 page no:208
+clc;
+V=100;
+f=50;
+R1=10;
+C1=100*10^-6;
+R2=50;
+C2=300*10^-6;
+Xc1=1/(2*%pi*R2*C1);
+Xc2=1/(2*%pi*R2*C2);
+G2=1/R2;
+Bc2=1/Xc2;
+Y2=sqrt(G2^2+Bc2^2);
+Z2=1/Y2;
+theta_p=atand(R2/Xc2);
+Req=Z2*cosd(theta_p);
+Xc_eq=Z2*sind(theta_p);
+Rt=R1+Req;
+Xct=Xc1+Xc_eq;
+Zt=sqrt(Rt^2+Xct^2);
+It=V/Zt;
+theta=atand(Xct/Rt);
+disp(Zt,"the total impedence in the given circuit is (in ohm)");
+disp(It,"the total current in the circuit is (in A)");
+disp(theta,"the phase angle is (in degree)");

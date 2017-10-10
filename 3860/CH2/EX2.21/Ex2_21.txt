@@ -1,0 +1,6 @@
+ 
+ g = bc' + abd + acd 
+
+ the only consensus term defined is bc'$ acd = abd
+
+ g = bc' + acd 

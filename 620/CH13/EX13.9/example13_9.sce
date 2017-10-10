@@ -1,0 +1,18 @@
+r1=3.3*10^(3);
+r2=1.2*10^(3);
+r3=310;
+p1=1;
+p2=0.1;
+disp("Part a");
+rx=r2*r3/r1;
+disp("The unknown resistance (in Ω) is"); disp(rx);
+e=2*p1+p2;
+disp("the maximum possible error (in %) is"); disp(e);
+disp("Part b");
+v=9;
+i=v/(r2+rx);
+disp("the current (in mA) through Rx is"); disp(i*1000);
+disp("Part c");
+i1=v/(r1+r3);
+p=i1^2*r3;
+disp("Power dissipated (in mW) in R is"); disp(p*1000);

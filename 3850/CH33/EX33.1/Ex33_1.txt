@@ -1,0 +1,4 @@
+
+ Heat developed in the first resistor=360 J
+Heat developed in the second resistor=720 J
+Heat developed in the third resistor=540 J

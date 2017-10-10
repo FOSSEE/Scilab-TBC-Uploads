@@ -1,0 +1,1 @@
+ mu(Mg3(PO4)2) = mu0(Mg3(PO4)2)+ 5RTln(2.55m)

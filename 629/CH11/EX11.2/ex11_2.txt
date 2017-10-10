@@ -1,0 +1,2 @@
+ 
+The drag of a 12 mm sphere = 0.00163 N.

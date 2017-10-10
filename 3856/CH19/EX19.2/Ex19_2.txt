@@ -1,0 +1,1 @@
+ Partial pressure of Oxygen at an altitude of 30 km = 4.5*10^-3 atm

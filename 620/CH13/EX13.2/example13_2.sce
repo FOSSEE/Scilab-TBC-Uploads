@@ -1,0 +1,14 @@
+i1=0.25;
+i2=0.235;
+v1=0.2;
+v2=0.03;
+r=1;
+disp("Part a");
+i=(v1+v2)/r;
+disp("The true milliammeter current (in mA) is"); disp(i*1000);
+disp("Part b");
+cor=i-i2;
+disp("The milliammeter correction (in mA) at this point is"); disp(cor*1000);
+disp("Part c");
+fsd=-cor*100/i1;
+disp("the F.S.D. accuracy (in %) of the meter is"); disp(fsd);

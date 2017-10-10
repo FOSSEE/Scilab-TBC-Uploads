@@ -1,0 +1,2 @@
+ (a)Energy difference second orbital and first orbital = 1.8*10^-17 J
+(b)Energy difference second orbital and first orbital for Nitrogen molucule = 3.5*10^-40 J

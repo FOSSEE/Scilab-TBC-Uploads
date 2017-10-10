@@ -1,0 +1,9 @@
+
+ the current (in mA) through the capacitor has a mgnitude of   
+ 
+    65.573204  
+ 
+ with a phase angle (in deg) of   
+ 
+    26.857457  
+ 

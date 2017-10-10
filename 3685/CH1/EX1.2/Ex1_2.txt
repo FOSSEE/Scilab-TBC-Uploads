@@ -1,0 +1,4 @@
+Example 1.2
+
+ Inlet steam pressure is 1.502997 MPa
+ Condenser pressure is 8.271792 kPa 

@@ -1,0 +1,2 @@
+For sample A Alpha=0.367 nm
+For sample B Alpha=0.337 nm 

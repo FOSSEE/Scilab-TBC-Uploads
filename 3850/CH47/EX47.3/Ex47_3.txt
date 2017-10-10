@@ -1,0 +1,2 @@
+
+ Time elapsed between the openings of the Door = 40 s

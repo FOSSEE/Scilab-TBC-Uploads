@@ -1,0 +1,5 @@
+Final stage voltage gain Av2 = -333.3
+Final stage input impedance Zin2 = 1.154 k ohm 
+Initial staage voltage gain Av1 = -26.8
+Amplifier input impedance Zin1 = 1.154 k ohm
+Amplifier voltage gain = 4778

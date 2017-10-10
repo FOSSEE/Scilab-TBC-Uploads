@@ -1,0 +1,15 @@
+v1=120;
+v2=6.3;
+r=220;
+disp("Part a");
+vm=v2*sqrt(2);
+vdc=2*vm/%pi;
+disp("the dc voltage (in V) across the load is"); disp(vdc);
+disp("Part b");
+idc=vdc/r;
+disp("the dc current (in mA) throught the load is");disp(idc *10^3);
+disp("Part c");
+pdc=vdc*idc;
+disp("the dc power delivered (in W) to the load is"); disp(pdc);
+disp("Part d");
+disp("the P.I.V. of each diode is"); disp(vm);

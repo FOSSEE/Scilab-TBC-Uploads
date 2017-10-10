@@ -1,0 +1,2 @@
+The angular acceleration is alpha=1.37 rad/sec^2
+The objects goes a distance of y=51.4 meters 

@@ -1,0 +1,10 @@
+disp("Part a");
+q1=0.25*10^(-6);
+q2=q1;
+k=9*10^9;
+r=3*10^(-2);
+f=k*q1*q2/r^2;
+disp("the force of repulsion (in N) is "); disp(f);
+disp("Part b");
+f1=f/4.45;
+disp("the force of repulsion (in lb) is"); disp(f1);

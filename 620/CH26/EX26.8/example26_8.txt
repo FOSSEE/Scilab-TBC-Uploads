@@ -1,0 +1,21 @@
+Part a   
+ 
+ the true power (in W) is   
+ 
+    48.  
+ 
+ Part b   
+ 
+ the reactive power (in VAr) is   
+ 
+    36.  
+ 
+ Part c   
+ 
+ the apparent power (in VA) is   
+ 
+    60.  
+ 
+ the current drawn (in A) from the supply is   
+ 
+    0.5  

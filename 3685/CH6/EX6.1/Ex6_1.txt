@@ -1,0 +1,3 @@
+ 
+ Example 6.1
+ Least rate of heat rejection is 0.393506 kW  

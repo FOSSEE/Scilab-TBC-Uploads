@@ -1,0 +1,2 @@
+The arithmetic mean of the temperatue is 21.575000 degree celcius 
+The standard deviation is 3.04 degree celcius 

@@ -1,0 +1,8 @@
+ 
+ Example 17.2 
+
+ Mass flow rate of air through diffuser is 59.420029 Kg/s
+  Mach number of leaving air is 0.135000 
+  Temperature of leaving air is 71.429075 degree celcius
+  Pressure of leaving air is 0.260472 MPa 
+ Net thrust is 51.328446 kN 

@@ -1,0 +1,3 @@
+Current drawn I = 5.0 arg(-60 degree)
+Power factor = 0.5 lagging 
+Capacitance that must be connected across coil in order to make the power factor unity C = 115 micro F

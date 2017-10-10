@@ -1,0 +1,4 @@
+
+ Example 8.14
+ The power input is -235.675000 kW 
+ The second law efficiency of the compressor is 85.549423 percent 

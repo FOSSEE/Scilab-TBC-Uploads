@@ -1,0 +1,2 @@
+The time constant is L/R=0.0833 Sec
+ The energy stored is=1 J 

@@ -1,0 +1,1 @@
+ Rate constant for diffusion controlled reaction = 7.4*10^9 M^-1 s^-1

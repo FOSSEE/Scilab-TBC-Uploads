@@ -1,0 +1,2 @@
+(a):Iceo = 505 micro A 
+(b):Ic = 4.505 mA

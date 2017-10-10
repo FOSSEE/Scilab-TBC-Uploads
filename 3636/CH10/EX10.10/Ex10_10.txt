@@ -1,0 +1,4 @@
+  
+ Power conversion efficiency (%)=    
+ 
+    0.32  

@@ -1,0 +1,11 @@
+ Part a   
+ 
+ the apparent power (in VA) is   
+ 
+    600.  
+ 
+ Part b   
+ 
+ the reactive power (in VAr) is   
+ 
+    290.47375  

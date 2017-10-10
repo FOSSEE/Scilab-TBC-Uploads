@@ -1,0 +1,3 @@
+Force P=276 N
+Force V=600 N
+Force H=276 N 

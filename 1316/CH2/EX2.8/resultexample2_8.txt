@@ -1,0 +1,4 @@
+ Here simply we use the equation to solve for Vx 
+Vx = -0.436137 V 
+The negative sign tells us the polarity of the voltage , Vx.Since Vx numerically 
+ substracts from Va,we see that its positive terminal must be connected to pointa in figure 

@@ -1,0 +1,15 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 4\exa4.7.sce', -1)
+ 
+ Current in Mesh 1(in Amps)=   
+ 
+    0.003  
+ 
+ Current in Mesh 2(in Amps)=   
+ 
+    0.001  
+ 
+ Current in Mesh 3(in Amps)=   
+ 
+  - 0.002  
+

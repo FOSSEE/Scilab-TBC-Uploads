@@ -1,0 +1,5 @@
+When both clutches operate at same speed,
+subjected to same axial force
+and both have same mean diameter
+for the given dimensions,
+Power capacity of disk clutch = (1.042) times power capacity of cone clutch

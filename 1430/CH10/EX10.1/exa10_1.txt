@@ -1,0 +1,15 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 10\exa10_1.sce', -1)
+ 
+ Complex-frequency representation   
+ 
+ Current phasor(Amps)=   
+ 
+    0.1 + 0.1732051i  
+ 
+ Complex-frequency   
+ 
+  - 5. + 30.i  
+ 
+

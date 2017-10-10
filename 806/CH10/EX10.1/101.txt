@@ -1,0 +1,31 @@
+ 
+ A 75 mm diameter orific under a head of 4.88 m discharges 8900 N waterin 32.6 s.The trajectory was determined by measuring x=4.76 m for a drop of 1.22.determine t 
+      he head loss per unit weight,the power loss,Cc,Cv,Cd                                                                                                          
+ 
+ Solution:   
+ 
+ Cd=   
+ 
+    0.6437713  
+ 
+ Cv=   
+ 
+    0.9754098  
+ 
+ Cc=   
+ 
+    0.6600008  
+ 
+ Head loss=   
+ 
+    0.2370492  
+ 
+ m.N/N   
+ 
+ Power loss=   
+ 
+    64.715881  
+ 
+ W   
+ 
+    0.9754098  

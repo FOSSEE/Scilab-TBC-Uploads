@@ -1,0 +1,2 @@
+
+ Electric field which can give, on an average, 1eV to a conduction electron = 2.5*10^7 V/m

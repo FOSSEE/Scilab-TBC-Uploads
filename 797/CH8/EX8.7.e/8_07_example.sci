@@ -1,0 +1,13 @@
+//Example 8-07 Pumping Water through Two Parallel Pipes
+rho = 998 //density of water [kg/m^3]
+mu = 1.002 * 10**-3 //dynamic viscosity of water [kg/m.s]
+epsilon = 0.000045 //roughness for steel pipe[m]
+Wdot_elect = 8000 //electricity consumed by pump [W]
+eta = 70 //efficiency of motor-pump combination [%]
+z_A = 5 //elevation of input reservoir [m]
+z_B = 13 //elevation of output reservoir [m]
+D_1 = 4 //diameter of pipe 1 [cm]
+D_2 = 8 //diameter of pipe 2 [cm]
+L_1 = 36 //length of pipe 1 [m]
+L_2 = 36 //length of pipe 2 [m]
+g = 9.81 //gravitational acceleration [m^2/s]

@@ -1,0 +1,5 @@
+
+ (a) Vapor concentration of gases entering and leaving = 0.183 and 0.327 respectively
+ (b) Moles of acetone evaporated = 0.144 lb moles
+ (c) Weight of acetone evaporated per 1000 cu ft of gas entering = 17.5 lb
+ (d) Volume of gas leaving per 1000 cu ft of gas entering = 1104 cu ft

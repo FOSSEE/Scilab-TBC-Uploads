@@ -1,0 +1,36 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.7.sce', -1)
+ 
+ Current in the Base of the Transistor,i_b(in Amps)=   
+ 
+    0.0005  
+ 
+  Volatge across Collector-Emitter terminal,v_ce(in Volts)=   
+ 
+    7.  
+ 
+ current through the Branch DC, i_4(in Amps)=   
+ 
+    0.01  
+ 
+ Voltage across the branch AF,v_3(in Volts)   
+ 
+    1.  
+ 
+ Current through the Voltage source,i_1(in Amps)=   
+ 
+    0.012  
+ 
+ current through the branch AF,i_3(in Amps)=   
+ 
+    0.0015  
+ 
+ Voltage across the Branch DC,v_4(in Volts)=   
+ 
+    2.  
+ 
+ Voltage across the Current Source,v_2(in Volts)=   
+ 
+  - 8.  
+ 
+

@@ -1,0 +1,4 @@
+(i)Impedance = 94.5 ohm
+(ii)Current = 2.43 A
+(iii)Power Factor = 0.53 (Lead)
+(iv)Power Consumed = 296 W

@@ -1,0 +1,4 @@
+ The value of vmax=5.01*10^-6 M s^-1
+The value of Km=1.5*10^-3 M
+The value of kinetic parameter with inhibitor A=5.2*10^-3 M
+The value of kinetic parameter with inhibitor B=3.3*10^-3 M

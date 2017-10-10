@@ -1,0 +1,6 @@
+ 
+ Example 18.3
+
+ Thermal conductivity of rod A is 57.496967 W/mK
+ Thermal conductivity of rod B is 86.076212 W/mK
+ Thermal conductivity of rod C is 116 W/mK 

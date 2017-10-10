@@ -1,0 +1,3 @@
+ 
+ Example 8.3
+ Available energy is 10488 kJ 

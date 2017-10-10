@@ -1,0 +1,4 @@
+The wavelength of X-Ray beam is 3 angstrom
+
+The energy of X-ray beam is  
+    4.138D+25  eV 

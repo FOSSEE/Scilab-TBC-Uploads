@@ -1,0 +1,8 @@
+Output voltage for(a)(in mv),(b)(in mv),(c)(in mv)=   
+ 
+    49.87005  
+ 
+    99.491397  
+ 
+    99.740099  
+ 

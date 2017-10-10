@@ -1,0 +1,4 @@
+C1 = 16.67 uF
+C2 = 116.7 uF
+
+For smaller (larger) capacitance, I lags (leads) V by 45 degree

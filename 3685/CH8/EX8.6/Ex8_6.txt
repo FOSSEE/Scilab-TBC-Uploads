@@ -1,0 +1,5 @@
+ 
+ Example 8.6
+ The maximum work is 122.957271 kJ
+ Change in availability is 82.432871 kJ
+ Irreversibility is 15.257271 kJ 

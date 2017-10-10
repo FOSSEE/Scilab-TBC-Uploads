@@ -1,0 +1,3 @@
+The crystal structure is bcc due to corresponding (hkl) values
+lattice constant of peak no.1 is (110)
+The element is tungsten since this lattice constant of 0.2868 nm and crystallizes in the bcc structure

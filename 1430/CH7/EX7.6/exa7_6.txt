@@ -1,0 +1,13 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 7\exa7.6.sce', -1)
+ 
+ Power Transfer Efficiency before pf correction=   
+ 
+    0.8333333  
+ 
+ Power Transfer Efficiency after pf correction=   
+ 
+    0.9615385  
+ 
+

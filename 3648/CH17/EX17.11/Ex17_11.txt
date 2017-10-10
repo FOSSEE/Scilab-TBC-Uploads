@@ -1,0 +1,4 @@
+ Current in wire 1 is I1=1.2 A
+Current in wire 2 is I2=0.6 A
+Current in wire 3 is I3=0.6 A
+ 

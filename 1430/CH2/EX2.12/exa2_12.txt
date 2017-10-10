@@ -1,0 +1,16 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.12.sce', -1)
+ 
+ Open Circuit Voltage(in Volts)=   
+ 
+  - 7.2809461  
+ 
+ Short Circuit Current(in Amps)=   
+ 
+  - 1.0519389  
+ 
+ Thevenin Resistance(in Ohms)=   
+ 
+    6.9214537  
+ 

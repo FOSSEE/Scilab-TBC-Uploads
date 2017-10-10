@@ -1,0 +1,16 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.14.sce', -1)
+ 
+ Short Circuit Current of Thevenin Network(in Amps)=   
+ 
+    0.003  
+ 
+ Thevenin Resistance(in Ohms)=   
+ 
+  - 10000.  
+ 
+ Open Circuit Voltage of Thevenin Network(in Volts)=   
+ 
+  - 30.  
+ 

@@ -1,0 +1,7 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 6\exa6.9.sce', -1)
+ 
+ Current phasor in rectangular form(Amps)=   
+ 
+  - 3. + 11.i  
+ 

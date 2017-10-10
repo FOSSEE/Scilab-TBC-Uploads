@@ -1,0 +1,3 @@
+ the voltage drop (in V) acoss the coil is   
+ 
+    105.  

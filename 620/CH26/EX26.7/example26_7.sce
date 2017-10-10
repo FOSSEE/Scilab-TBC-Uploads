@@ -1,0 +1,10 @@
+v=120;
+f=60;
+i=5;
+p=525;
+disp("Part a");
+s=i*v;
+disp("the apparent power (in VA) is"); disp(s);
+disp("Part b");
+q=sqrt(s^2-p^2);
+disp("the reactive power (in VAr) is"); disp(q);

@@ -1,0 +1,4 @@
+ 
+ The binary number is = 
+
+ 1011101010

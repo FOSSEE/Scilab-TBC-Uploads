@@ -1,0 +1,9 @@
+Assuming the thickness of the bracket as b,
+The area of cross section will be A=0.05*b
+Moment of inertia will be I=b*(0.05)^3/12
+The tensile stress is given by equation:
+	Sn_max=(P/A)+((M*c)/I)
+
+b=0.00900 m
+
+9 mm is required to limit the stress at 70 MN/m^2

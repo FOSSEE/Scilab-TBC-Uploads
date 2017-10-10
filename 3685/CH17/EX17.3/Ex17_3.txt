@@ -1,0 +1,14 @@
+ 
+ Example 17.3
+
+ When divergent section act as a nozzle
+ Maximum flow rate of air is 1.064764 kg/s
+ Static temperature is 183.204000 K
+ Static Pressure is 93.900000 kPa
+ Velocity at the exit from the nozzle is 596.077184 m/s
+
+ When divergent section act as a diffuser
+ Maximum flow rate of air is 1.064764 kg/s
+ Static temperature is 353.232000 K
+ Static Pressure is 936 kPa
+ Velocity at the exit from the nozzle is 116 m/s

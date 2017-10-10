@@ -1,0 +1,6 @@
+ 
+ Example 16.7
+
+ The composition of fuel is 14.764565 percent Hydrogen and 85.235435 percent Carbon
+ Air fuel ratio is 23.982915 
+ Percentage of excess air used is 67.226891 percent 

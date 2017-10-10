@@ -1,0 +1,12 @@
+(a) Bending stress s=(6*F*L)/(n*b*(t^2))
+deflection y= (12*F*(L^3))/(b*(t^3)*n*E)
+
+(b) From above,
+	s/y = Et/L^2
+t=19.125 mm
+
+(c) Strain energy of cantilever leaf spring
+	=s^2/ 6E * Volume of spring
+The width is 19.30f mm
+The thickness can be taken as 20.00 mm
+The width can be taken as 20.00 mm

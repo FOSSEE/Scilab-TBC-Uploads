@@ -1,0 +1,15 @@
+disp("Part a");
+v=120;
+i=20;
+p=v*i;
+disp("the maximum power (in W) that can be delivered is"); disp(p);
+disp("Part b");
+p1=3.3*10^3;
+i1=15;
+v1=p1/i1;
+disp("the voltage applied (in V) must be"); disp(v1);
+disp("Part c");
+p2=40;
+v2=120;
+i2=p2/v2;
+disp("The current (in A) drawn is"); disp(i2);

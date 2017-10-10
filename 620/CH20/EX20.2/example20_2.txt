@@ -1,0 +1,3 @@
+the current (in A) that will flow through the coil is   
+ 
+    0.24  

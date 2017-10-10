@@ -1,0 +1,5 @@
+ 
+ Example 9.12
+ The value of n is 1.238450 
+ The work done by the steam is 4.720265kJ 
+ The heat transfer is -1.800919kJ 

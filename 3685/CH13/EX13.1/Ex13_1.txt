@@ -1,0 +1,7 @@
+ 
+ Example 13.1
+
+ Cycle efficiency is 56.472472 percent
+ Maximum temperature in the cycle is 3632 K
+ Maximum pressure in the cycle is 9.434777 MPa
+ Mean effective pressure is 1.533259 MPa 

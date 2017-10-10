@@ -1,0 +1,2 @@
+
+ Thermionic current increases 10625 times when temperature is increased from 1500 K to 2000 K

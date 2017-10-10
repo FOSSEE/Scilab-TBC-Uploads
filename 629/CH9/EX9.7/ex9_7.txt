@@ -1,0 +1,3 @@
+ 
+Total shear resistance on both sides of plate = 28.6 N.
+ 

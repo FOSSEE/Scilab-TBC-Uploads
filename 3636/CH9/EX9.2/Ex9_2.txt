@@ -1,0 +1,1 @@
+ Channel thickness= 4.76e-05 m 

@@ -1,0 +1,2 @@
+ Rate constant for Forward reaction = 1.4*10^11 M^-1 s^-1
+ Rate constant for Reverse reaction = 2.5*10^-5 s^-1 

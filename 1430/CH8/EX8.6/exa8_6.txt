@@ -1,0 +1,17 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 8\exa8_6.sce', -1)
+ 
+ Current gain=   
+ 
+    0.1947536 + 0.0155803i  
+ 
+ Input impedance(Ohms)=   
+ 
+    7.6343402 + 4.5707472i  
+ 
+ Voltage gain=   
+ 
+    3.9356639 - 1.9481537i  
+ 
+

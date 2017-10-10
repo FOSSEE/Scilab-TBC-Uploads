@@ -1,0 +1,2 @@
+ Energy required to excite the donor electron (J)= 8.34e-22 J
+Energy required to excite the donor electron (eV)= 0.0052 eV 

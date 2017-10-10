@@ -1,0 +1,5 @@
+ 
+ Example 18.9
+
+ Heat transfer coefficient is 4074 W/m^2K
+ Rate of heat transfer is 38.402993 kW

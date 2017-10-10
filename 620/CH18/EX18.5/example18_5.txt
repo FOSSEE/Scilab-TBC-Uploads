@@ -1,0 +1,12 @@
+
+ the load current (in A) is   
+ 
+    0.08  
+ 
+ the load voltage (in V) is   
+ 
+    2300.  
+ 
+ the load power (in kW) is   
+ 
+    105.  

@@ -1,0 +1,2 @@
+ Example 2.2
+ Reading of thermocouple at t = 50 degree Celsius will be 58.333333 degree Celsius. Celsius.

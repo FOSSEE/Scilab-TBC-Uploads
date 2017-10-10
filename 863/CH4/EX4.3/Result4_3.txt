@@ -1,0 +1,16 @@
+(a)Collector emitter voltage before input pulse is applied(in volts)=   
+ 
+    11.999835  
+ 
+ (b)Collector emittter voltage at end of delay time(in volts)=   
+ 
+    10.8  
+ 
+ (c)Collector emitter voltage at end of turn on time(in volts)=   
+ 
+    1.2  
+ 
+ (d)Total time from commencement of input to transistor switch off(in micro sec)=   
+ 
+    5.25  
+ 

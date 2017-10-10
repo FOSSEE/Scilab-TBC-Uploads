@@ -1,0 +1,2 @@
+ 
+ The cross-sectional area of the test section, A = 42.3 cm^2.

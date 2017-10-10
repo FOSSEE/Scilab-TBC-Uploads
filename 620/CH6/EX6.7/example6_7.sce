@@ -1,0 +1,11 @@
+r1=600;
+v=60;
+disp("Part a");
+r=r1/3;
+disp("the total circuit resistance is"); disp(r);
+disp("Part b");
+i=v/r;
+disp("the total current drawn (in A) from the source is"); disp(i);
+disp("Part c");
+i1=i/3;
+disp("the current drawn (in A) by each resistor is"); disp(i1);

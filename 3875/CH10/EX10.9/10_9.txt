@@ -1,0 +1,3 @@
+The energy density is = 3.44e-11 J/m^3.
+The energy density is = 1.27e-60 J/m^3.
+Thus for shorter wavelengths the energy densities predicted by Rayleigh-Jeans law and Planks law are considerably different while for longer wavelengths the energy densites predicted are same.

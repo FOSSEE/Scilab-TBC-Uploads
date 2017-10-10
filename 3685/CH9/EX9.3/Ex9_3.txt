@@ -1,0 +1,4 @@
+ 
+ Example 9.3
+ The enthalpy and entropy of the system are
+ 2614.554640 kW and 5.960064 kJ/kg and kJ/kg K respectively. 

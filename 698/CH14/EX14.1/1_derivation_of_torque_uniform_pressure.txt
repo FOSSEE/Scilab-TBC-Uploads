@@ -1,0 +1,19 @@
+Consider a differential area dA=2*pi*r dr.
+The differential normal force=dN=p dA=p(2*pi*r dR),
+The differential force dQ=f dN=f(p(2*pi*r dR)).
+The differential frictional torque=dT=r dQ=r(f*p(2*pi*r dR));
+
+Intergrating with respect to r, with p and f as constants, over r=Ri to r=Ro,
+we get the total torque as
+		T=2*pi*f*p[((Ro^3)-(Ri^3))/3]
+
+The axial force
+		F=p*pi*((Ro^2)-(Ri^2))
+from which the average pressure,
+		p=F/[pi*((Ro^2)-(Ri^2))]
+
+Substituting this value of p into
+		T=2*pi*f*p[((Ro^3)-(Ri^3))/3]
+We obtain
+
+		T=F*f*[(2/3)*((Ro^3)-(Ri^3))] = F*f*Rf

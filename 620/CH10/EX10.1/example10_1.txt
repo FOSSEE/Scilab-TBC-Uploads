@@ -1,0 +1,16 @@
+
+ the battery current (in A) is   
+ 
+    0.2226087  
+ 
+ the generator current (in A) is   
+ 
+    6.3217391  
+ 
+ the load current (in A) is   
+ 
+    6.5443478  
+ 
+ the load voltage (in V) is   
+ 
+    13.088696  

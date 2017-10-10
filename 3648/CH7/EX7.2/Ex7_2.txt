@@ -1,0 +1,1 @@
+Average angular velocity is w=188 rad/sec 

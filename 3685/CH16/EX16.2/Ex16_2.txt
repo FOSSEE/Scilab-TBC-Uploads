@@ -1,0 +1,6 @@
+ 
+ Example 16.2
+
+ K is 0.314529 atm
+ Epsilon is 0.611607 
+ The heat of reaction is 60974 kJ/kg mol

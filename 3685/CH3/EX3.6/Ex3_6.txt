@@ -1,0 +1,3 @@
+ Example 3.6
+ Rate at which aluminium can be melted is 5.388432 tonnes/h
+ Mass of aluminium that can be held in furnace is 5.232000 tonnes 

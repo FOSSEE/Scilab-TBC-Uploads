@@ -1,0 +1,2 @@
+ 
+ The drag force on the sphere = 2.58 N.

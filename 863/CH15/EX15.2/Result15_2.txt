@@ -1,0 +1,6 @@
+Required capacitance(in micro farad) and acquisition time(in micro sec)=   
+ 
+    0.25  
+ 
+    52.5  
+ 

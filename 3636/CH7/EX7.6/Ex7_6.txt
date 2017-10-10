@@ -1,0 +1,6 @@
+ a)
+ideal schottky barrier height= 0.49 ev
+b)
+peak electric field= 6.81e+04 V/cm
+c)
+depletion layer capacitance per unit area= 7.05e-09 F/cm^2 

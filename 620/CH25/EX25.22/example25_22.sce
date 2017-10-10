@@ -1,0 +1,16 @@
+r1=100;
+x_l1=125.7;
+r2=220;
+x_l2=251.4;
+r3=150;
+x_c=198.9;
+v=24;
+f=400;
+z1=r1+%i*x_l1;
+z2=r2+%i*x_l2;
+z3=r3-%i*x_c;
+vth=v*z2/(z1+z2);
+zth=z1*z2/(z1+z2);
+i=vth/(zth+z3);
+disp("the current (in mA) through the capacitor has a mgnitude of"); disp(sqrt((real(i))^2+(imag(i))^2)*10^3);
+disp("with a phase angle (in deg) of");disp((atan(imag(i)/real(i))*180/%pi));

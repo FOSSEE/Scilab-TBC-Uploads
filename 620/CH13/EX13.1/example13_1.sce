@@ -1,0 +1,13 @@
+v1=1.5;
+v2=0.96;
+v3=1;
+v4=0.014;
+disp("Part a");
+true=v3+v4;
+disp("the true reading (in V) of the voltmeter is"); disp(true);
+disp("Part b");
+cor=true-v2;
+disp("the voltmeter correction (in mV) is"); disp(cor*10^3);
+disp("Part c");
+fsd=cor*100/v1;
+disp("The F.S.D. accuacy (in %) of the meter is"); disp(fsd);

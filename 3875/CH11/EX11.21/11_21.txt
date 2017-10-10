@@ -1,0 +1,5 @@
+The lattice parameter is = 0.242 nm
+The lattice parameter is = 0.2960 nm
+The lattice parameters are not equal,hence metal is not bcc
+We assume that the metal is fcc,lattice parameter is consistent at value=0.296 nm
+The atomic diameter is = 0.2093 nm

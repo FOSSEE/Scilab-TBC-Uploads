@@ -1,0 +1,7 @@
+ 
+ Example 12.2
+ Net work per kg of steam is 969.599095 kJ/kg
+ Cycle efficiency is 32.499671 percent
+
+ Percentage reduction in net work per kg of steam is 20.093190 percent
+ Percentage reduction in cycle efficiency is 20.093190 percent 

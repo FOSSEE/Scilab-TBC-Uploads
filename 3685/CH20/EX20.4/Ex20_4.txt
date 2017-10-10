@@ -1,0 +1,10 @@
+ 
+ Example 20.4
+
+ Indicated power = 18.080023 kW
+ Brake power = 12.817698 kW
+ Energy release by combustion of fuel is 68640.000000 kJ 
+ 1. Energy equivalent of ip is 21696.027361 kJ (31.608431 percent)
+ 2. Energy carried away by cooling water is 16748.000000 kJ (24.399767 percent),
+ 3. Energy carried away by exhaust gases is 19333.323828 kJ (28.166264 percent),
+ 4. Unaccounted energy loss (by difference) is 10862.648811 kJ (15.825537 percent) 

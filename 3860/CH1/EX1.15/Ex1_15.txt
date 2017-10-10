@@ -1,0 +1,30 @@
+ 
+  binary form of the number obtained by adding 7 to -5 
+
+ 10010
+
+  the msb is discarded,so four bit representation in binary form =
+
+ 0010
+
+ *****************************************************************
+
+  binary form of the number obtained by adding +5 to -5 
+
+ 10000
+
+  the msb is discarded,so four bit representation in binary form =
+
+ 0000
+
+ *****************************************************************
+
+  binary form of the number obtained by adding +3 to -5 
+
+ 01110
+
+  the msb is discarded,so four bit representation in binary form =
+
+ 1110
+
+ *****************************************************************

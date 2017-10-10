@@ -1,0 +1,108 @@
+		NOTE: Sy=0 in all cases
+
+	Sn_max=(Sx/2)+sqrt(((Sx/2)^2)+(Txy^2))
+	Sn_min=(Sx/2)-sqrt(((Sx/2)^2)+(Txy^2))
+	T_max=[Sn_max+Sn_min]/2
+
+
+(a) AXIAL LOAD ONLY
+  Sx=7.64 MN/m^2
+  Txy=0.00 MN/m^2
+   Maximum normal stress=7.64 MN/m^2
+   Minimum normal stress=0.00 MN/m^2
+   Maximum shear stress=3.82 MN/m^2
+
+
+(b) BENDING ONLY
+  Section at which cantilever is fixed is critical
+  	{Sx=(M*c)/I at topmost point of section at which cantilever is fixed}
+  At the topmost point of section at which cantilever is fixed,
+  Sx=61.12 MN/m^2
+  Txy=0.00 MN/m^2
+   Maximum normal stress=61.12 MN/m^2
+   Minimum normal stress=0.00 MN/m^2
+   Maximum shear stress=30.56 MN/m^2
+
+  	{Sx=-(M*c)/I at topmost point of section at which cantilever is fixed}
+  At the bottom point of section at which cantilever is fixed,
+  Sx=-61.12 MN/m^2
+  Txy=0.00 MN/m^2
+   Maximum normal stress=0.00 MN/m^2
+   Minimum normal stress=-61.12 MN/m^2
+   Maximum shear stress=30.56 MN/m^2
+
+
+(c) TORSION ONLY
+  Here, the critical points occur along the outer surface of the member
+  Sx=0.00 MN/m^2
+  Txy=40.74 MN/m^2
+   Maximum normal stress=40.74 MN/m^2
+   Minimum normal stress=-40.74 MN/m^2
+   Maximum shear stress=40.74 MN/m^2
+
+
+(d) BENDING AND TORSION
+  Section at which cantilever is fixed is critical
+  At the topmost point of section at which cantilever is fixed,
+  Sx=61.12 MN/m^2
+  Txy=40.74 MN/m^2
+   Maximum normal stress=81.49 MN/m^2
+   Minimum normal stress=-20.37 MN/m^2
+   Maximum shear stress=50.93 MN/m^2
+
+  At the bottom point of section at which cantilever is fixed,
+  Sx=-61.12 MN/m^2
+  Txy=40.74 MN/m^2
+   Maximum normal stress=20.37 MN/m^2
+   Minimum normal stress=-81.49 MN/m^2
+   Maximum shear stress=50.93 MN/m^2
+
+  The magnitudes of stresses at the two points are same.
+  The different signs of normal stresses indicate that while topmost fibres are in
+  tension,the bottom fibres are in compression.
+  The different signs of shear stress are of no consequence.
+
+
+(e) BENDING AND AXIAL LOAD
+  Section at which cantilever is fixed is critical
+  At the topmost point of section at which cantilever is fixed,
+  Sx=68.75 MN/m^2
+  Txy=0.00 MN/m^2
+   Maximum normal stress=68.75 MN/m^2
+   Minimum normal stress=0.00 MN/m^2
+   Maximum shear stress=34.38 MN/m^2
+
+  At the bottom point of section at which cantilever is fixed,
+  Sx=-53.48 MN/m^2
+  Txy=0.00 MN/m^2
+   Maximum normal stress=0.00 MN/m^2
+   Minimum normal stress=-53.48 MN/m^2
+   Maximum shear stress=26.74 MN/m^2
+
+
+(f) TORSION AND AXIAL LOAD
+  Critical points are those on the outer surface of the cantilever
+  At the topmost point of section at which cantilever is fixed,
+  Sx=7.64 MN/m^2
+  Txy=40.74 MN/m^2
+   Maximum normal stress=44.74 MN/m^2
+   Minimum normal stress=-37.10 MN/m^2
+   Maximum shear stress=40.92 MN/m^2
+
+
+(g) BENDING, TORSION AND AXIAL LOAD
+  Section at which cantilever is fixed is critical
+  At the topmost point of section at which cantilever is fixed,
+  Sx=68.75 MN/m^2
+  Txy=40.74 MN/m^2
+   Maximum normal stress=87.69 MN/m^2
+   Minimum normal stress=-18.93 MN/m^2
+   Maximum shear stress=53.31 MN/m^2
+
+  At the bottom point of section at which cantilever is fixed,
+  Sx=-53.48 MN/m^2
+  Txy=40.74 MN/m^2
+   Maximum normal stress=22.00 MN/m^2
+   Minimum normal stress=-75.47 MN/m^2
+   Maximum shear stress=48.73 MN/m^2
+

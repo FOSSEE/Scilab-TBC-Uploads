@@ -1,0 +1,10 @@
+vdc=14.5;
+disp("Part a");
+vm=%pi*vdc/3;
+disp("the necessary r.m.s. output voltage (in V) from the alternator is"); disp(vm);
+disp("Part b");
+idc=30;
+im=%pi*idc/3;
+disp("the peak current (in A) throught the diodes is"); disp(im);
+disp("Part c");
+disp("the P.I.V. (in V) of the diodes is"); disp(vm);

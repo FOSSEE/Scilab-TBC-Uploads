@@ -1,0 +1,4 @@
+ 
+ Example 8.18
+ Irreversibility per unit mass is 142.709600 kJ/kg
+ The second law efficiency of the turbine is 78 percent 

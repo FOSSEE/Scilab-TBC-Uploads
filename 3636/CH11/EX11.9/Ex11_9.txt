@@ -1,0 +1,8 @@
+  
+ Maximum thermal temperature of heat sink (C/W)=    
+ 
+    2.39  
+ 
+ Surface Area (m^2)=    
+ 
+    4.2D-03  

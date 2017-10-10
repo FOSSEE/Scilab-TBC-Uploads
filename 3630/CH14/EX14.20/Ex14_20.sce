@@ -1,0 +1,19 @@
+clc;
+Rin=454000;
+Rs=1000;
+Rth=(Rin*Rs)/(Rin+Rs);
+Cgd=0.000000000004;
+Gm=0.004;
+rD=3325;
+CinM=Cgd*(Gm*rD+1);
+Cgs=0.000000000005;
+Cg=Cgs+CinM;
+Cg=0.0000000000622;
+f2G=1/(2*3.14*Rth*Cg);
+CoutM=0.000000000004;
+Cds=0.000000000002;
+CL=0.000000000001;
+Cd=CoutM+Cds+CL;
+f2D=1/(2*3.14*rD*Cd);
+disp('MHz',f2G/1000000,"f2G=")//The answers vary due to round off error
+disp('MHz',f2D/1000000,"f2D=")//The answers vary due to round off error

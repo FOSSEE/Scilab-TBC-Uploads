@@ -1,0 +1,6 @@
+ 
+
+ Example 7.10
+ The rate of heat transfer through the wall is 1164.843750 W
+ The rate of entropy through the wall is 0.213014 W/K
+ The rate of total entropy generation with this heat transfer process is 0.352983 W/K 

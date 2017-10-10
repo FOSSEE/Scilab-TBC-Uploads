@@ -1,0 +1,13 @@
+v=12;
+r1=1;
+r2=2;
+r3=3;
+r4=4;
+r5=5;
+ra=r2*r3/(r1+r2+r3);
+rb=r3*r1/(r1+r2+r3);
+rc=r1*r2/(r1+r2+r3);
+r=ra+(rc+r3)*(rb+r4)/(rb+rc+r3+r4);
+disp("the total resistance (in Ω) is"); disp(r);
+i=v/r;
+disp("the total current (in A) supplied by the source is"); disp(i);

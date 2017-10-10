@@ -1,0 +1,5 @@
+
+ Example 13.11 
+
+ Air fuel ratio is 39.651568 
+ Overall efficiency of combined plant is 53.599355 percent 

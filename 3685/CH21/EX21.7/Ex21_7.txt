@@ -1,0 +1,5 @@
+ 
+ Example 21.7
+
+ Velocity attain by the rocket in 70 seconds = 1064.237475 m/s ,
+ The maximum height that the rocket will attain = 86.145507 km 

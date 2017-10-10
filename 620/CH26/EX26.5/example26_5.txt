@@ -1,0 +1,4 @@
+
+ the inductance (in mH) of the coil is   
+ 
+    30.820222  

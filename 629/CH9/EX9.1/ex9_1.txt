@@ -1,0 +1,2 @@
+ 
+The shear stress on the plates = 333 N/m^2.

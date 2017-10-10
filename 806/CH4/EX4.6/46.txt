@@ -1,0 +1,18 @@
+ 
+ A venturimeter,consisting of a converging portion followed by a throat of constant diameter and then gradually diverging portion,is used to detremine the flow of  
+      the pipe.The diameter at section 1 is 6 in. and that of section 2 is 4 in.,Find the discharge through the pipe when p1-p2=3psi and oil of sp grvty 0.9 is flo 
+      wing                                                                                                                                                          
+ 
+ Solution:   
+ 
+ From the continuity equation Q=A1v1=A2v2   
+ 
+ Therefore,v1=Q*16/pi , v2=Q*36/pi   
+ 
+ And moreover Z1=Z2   
+ 
+ Therefore discharge Q =   
+ 
+    2.1677205  
+ 
+ cfs   

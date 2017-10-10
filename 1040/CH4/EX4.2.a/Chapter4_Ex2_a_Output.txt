@@ -1,0 +1,2 @@
+
+ The effective diffusivity of O2 in air = 2.36e-02 cm2/s

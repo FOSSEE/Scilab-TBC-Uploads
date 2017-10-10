@@ -1,0 +1,6 @@
+ 
+ Example 22.5 
+
+ Thermal conductivity  = 0.013327 W/mK,
+ If the gas has Maxwellian velocity distribution,
+ Thermal conductivity = 0.009436 W/mK 

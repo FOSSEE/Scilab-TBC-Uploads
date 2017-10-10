@@ -1,0 +1,4 @@
+The radius of the wire should be r=1.6 mm and the cross sectional area is A= 
+    0.0000082  
+meter^2
+The ball stretches the wire a distance of deltaL=3.60 mm

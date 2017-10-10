@@ -1,0 +1,9 @@
+ 
+ (a)maximum flux density in teslas   
+ 
+    1.287  
+ 
+ (b)number of turns on high voltage side   
+ 
+    924.  
+ 

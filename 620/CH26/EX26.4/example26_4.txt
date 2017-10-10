@@ -1,0 +1,3 @@
+the apparent power drawn (in kVA) by the circuit is   
+ 
+    3.38  

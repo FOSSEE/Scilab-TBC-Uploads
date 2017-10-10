@@ -1,0 +1,1 @@
+Acceleration a=43200 km/h^2 

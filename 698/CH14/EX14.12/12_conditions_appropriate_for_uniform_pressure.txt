@@ -1,0 +1,2 @@
+Uniform pressure assumption is more appropriate where the plates are
+flexible to permit deflection when wear occurs.

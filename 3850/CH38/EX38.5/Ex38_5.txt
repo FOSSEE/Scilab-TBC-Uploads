@@ -1,0 +1,4 @@
+
+ (a) Time Constant =0.20 ms
+ (b) Maximum current = 0.10 A
+ (c) Time elapsed before the current reaches 99 percent of the maximum value = 0.92 ms

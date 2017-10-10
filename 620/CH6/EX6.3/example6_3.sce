@@ -1,0 +1,13 @@
+r1=400;
+r2=2*10^3;
+g3=10^(-3);
+v=10;
+disp("Part a");
+g=1/r1+1/r2+g3;
+disp("the total conductance (in mS) is"); disp(g*10^3);
+disp("Part b");
+r=1/g;
+disp("the combined resistance (in Ω) is"); disp(r);
+disp("Part c");
+i=v/r;
+disp("the total current drawn (in mA) from the source is"); disp(i*10^3);

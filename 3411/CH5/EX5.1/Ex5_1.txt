@@ -1,0 +1,2 @@
+Co-ordinates of A,B,C are (0.33,0,0),(0,-0.5,0)(0,0,1)
+   Miller indices of the plane are(3,-2,1) 

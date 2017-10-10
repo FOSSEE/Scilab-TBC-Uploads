@@ -1,0 +1,9 @@
+(a) Icq = 3.175 mA
+
+(b) Vceq = 8.01 V
+
+(c) slope of ac load line, slope1 = 1 mS
+
+(d) slope of dc load line, slope2 = 0.455 mS
+
+(e) peak value of undistorted il, Ilm = 1.588 mA

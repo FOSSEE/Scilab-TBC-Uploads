@@ -1,0 +1,18 @@
+ 
+ wx + wxy + w'yz + w'y'z + w'xyz'
+
+  = (wx + wxy) + (w'yz + w'y'z') + w'xyz'
+
+  = wx + w'z + w'xyz'
+
+  = wx + w'(z + xyz')
+
+  = wx + w'(z + xy)
+
+  = wx + w'z + w'xy)
+
+  =w'z +  x( w + w'y)
+
+  =w'z +  x( w + y)
+
+  =w'z +  wx + xy

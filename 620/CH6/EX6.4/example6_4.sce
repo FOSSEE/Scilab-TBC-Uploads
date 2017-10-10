@@ -1,0 +1,13 @@
+v=120;
+p1=10^3;
+p2=500;
+p3=150;
+disp("Part a");
+p=p1+p2+p3;
+disp("the total power demanded (in W) from the outlet is"); disp(p);
+disp("Part b");
+i=p/v;
+disp("the total current drawn (in A) from the source is"); disp(i);
+disp("Part c");
+r=v/i;
+disp("the equivalent resistance (in Ω) is"); disp(r);

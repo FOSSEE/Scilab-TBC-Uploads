@@ -1,0 +1,6 @@
+ 1)
+Reverse bias stauration current density= 6.200e-07 A/m^2
+2)
+Ratio of hole to electron current= 37.69 
+3)
+Total current density= 2.98 A/m^2 

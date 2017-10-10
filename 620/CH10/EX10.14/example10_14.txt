@@ -1,0 +1,17 @@
+
+ Part a   
+ 
+ load voltage (in V) is   
+ 
+    11.25  
+ 
+ the load current (in A) is   
+ 
+    5.625  
+ 
+ Part b   
+ 
+ the battery current (in A) is   
+ 
+  - 1.875  
+ 

@@ -1,0 +1,4 @@
+current (in A) through V2 is given by   
+ 
+    2.  
+ 

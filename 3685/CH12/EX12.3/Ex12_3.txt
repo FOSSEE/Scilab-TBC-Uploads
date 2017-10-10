@@ -1,0 +1,5 @@
+ 
+ Example 12.3
+ The greatest allowable steam pressure at the turbine inlet is 16.832000 bar
+ Rankine cycle efficiency is 31.684101 percent
+ Mean temperature of heat addition is 187.657820 degree celcius 

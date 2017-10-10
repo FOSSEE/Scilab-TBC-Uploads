@@ -1,0 +1,5 @@
+(i)Impedance = 12.4 ohm
+(ii)Current = 19.41 A
+(iii)Power Factor = 0.65 (Lead)
+(iv)Power Consumed = 3015 W
+(v)The value of capacitance is = 0.000169 F or 169 micro-F

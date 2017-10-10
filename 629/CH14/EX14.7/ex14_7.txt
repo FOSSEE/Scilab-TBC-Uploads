@@ -1,0 +1,5 @@
+ 
+The net positive suction head = 26.1 ft.
+
+The traditional suction specific speed, Nss = 4538.
+ 

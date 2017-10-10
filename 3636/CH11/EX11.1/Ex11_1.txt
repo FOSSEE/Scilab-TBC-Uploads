@@ -1,0 +1,3 @@
+ maximum collector current= 3.75 A
+Maximum collector-emiiter voltage= 30 V
+Maximum Power rating= 28.13 W 

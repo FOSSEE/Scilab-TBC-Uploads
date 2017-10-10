@@ -1,0 +1,39 @@
+clc
+h4=3456.2
+s4=7.2345
+s5=s4
+T5=265.8
+h5=2989.59
+EtaT=0.8
+WT1=EtaT*(h4-h5)
+mprintf("WT1actual=%fkJ/kg\n",WT1)//ans vary due to roundoff error
+h5apostrophe=h4-WT1
+mprintf("h5apostrophe=%fkJ/kg\n",h5apostrophe)//ans vary due to roundoff error
+h6=3482.7
+s6=8.0027
+s7=s6
+sg=8.396
+sf=0.4763
+X7=(s7-sf)/(sg-sf)
+mprintf("X7=%f\n",X7)//ans vary due to roundoff error
+hf=137.77
+hg=2561.6
+h7=(hg*X7)+(1-X7)*hf
+mprintf("h7=%fkJ/kg\n",h7)//ans vary due to roundoff error
+WT2=EtaT*(h6-h7)
+mprintf("WT2=%fkJ/kg\n",WT2)//ans in the textbook is wrong
+P2=3 //pressure in MPa
+P1=0.005 //pressure in MPa
+v=0.0010052
+WP=v*(P2-P1)*10^6
+mprintf("WP=%fkJ/kg\n",WP/1000)//ans vary due to roundoff error
+EtaP=0.6
+deltaH=(WP/1000)/EtaP
+mprintf("h2apostrophe-h1=%fkJ/kg\n",deltaH)//ans vary due to roundoff error
+h1=137.77
+h2apostrophe=h1+deltaH
+mprintf("h2apostrophe=%fkJ/kg\n",h2apostrophe)//ans vary due to roundoff error
+Eta=(WT1+WT2-(WP/1000))/((h4-h2apostrophe)+(h6-h5apostrophe))
+mprintf("Eta=%f",Eta)//ans vary due to roundoff error
+
+

@@ -1,0 +1,8 @@
+Low and high voltage outputs(in volts) and Required resistance(in kilo ohm)=   
+ 
+    0.9  
+ 
+    5.  
+ 
+    8.2  
+ 

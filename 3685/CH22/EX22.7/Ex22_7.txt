@@ -1,0 +1,6 @@
+ 
+ Example 22.7 
+
+ No of collisions per sec are made by one molecule with the other molecule = 4.439018e+09,
+The no of molecules strike the flask per sq. cm = 2.725663e+23,
+ No of molecules in the flask = 2.446860e+22 

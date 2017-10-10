@@ -1,0 +1,1 @@
+Since the threshold wavelength is 5.405e-07,wavelength 680nm is not capable of showing photoelectric effect as threshold wavelength is the longest wavelength

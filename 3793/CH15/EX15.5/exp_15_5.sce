@@ -1,0 +1,13 @@
+clear;
+clc;
+V_0=100; //Six -pulse bridge rectifier voltage;
+V_1=110;//Line to Line Voltages;
+w=314;
+X=25;//Firing Angle in Degrees;
+I_r=1.2; //Rectifier Current in milli amperes;
+F=50;
+V_d0=(3*sqrt(2)*V_1)/%pi;
+V_o=V_d0*cosd(X);//open circuit Voltage;
+printf("the open circuuit voltage is = %.7f kv",V_o);
+L_c=(%pi*(V_o*cosd(X)-V_0))/(3*w*I_r);
+printf("\nthe inductance of the rectifier is = %.7f mH",L_c*10^3);

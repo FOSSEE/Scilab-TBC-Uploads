@@ -1,0 +1,4 @@
+ electron doping concentration = 4.1e+10 cm^-3
+workfuntion of the semiconductor = 4.34 eV
+workfuntion of the semiconductor on B side = 4.89 eV
+workfuntion of the semiconductor at 400K = 4.74 eV 

@@ -1,0 +1,11 @@
+c1=8*10^(-6);
+c2=4*10^(-6);
+v=120;
+f=60;
+x_c1=1/(2*%pi*f*c1);
+x_c2=1/(2*%pi*f*c2);
+x_c=x_c1*x_c2/(x_c1+x_c2);
+disp("the total capacitive reactance (in Ω) is"); disp(x_c);
+disp("Part b");
+i=v/x_c;
+disp("the total current drawn (in A) from the supply is"); disp(i);

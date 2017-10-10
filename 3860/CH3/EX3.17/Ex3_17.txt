@@ -1,0 +1,31 @@
+ 
+        a'b' a'b  ab   ab' 
+
+ c'd'    1    1   
+
+ cd'          1    1     
+
+ cd                1    1
+
+ cd'     1              1
+
+  From the map, high outputs are for 0,1,5,7,8,10,14,15
+
+   0.   0.   0.   0.
+   0.   0.   0.   1.
+   0.   1.   0.   1.
+   0.   1.   1.   1.
+   1.   0.   0.   0.
+   1.   0.   1.   0.
+   1.   1.   1.   0.
+   1.   1.   1.   1.
+
+  Evaluating expression from truth table and map 
+
+!a'b'c' d'  +  a'b'c'd  +  a'bc'd  +  a'bcd  +  ab'c' d'  +  ab'c d'  +  abc d'  +  abcd  !
+
+ The resulting two possible solution are
+
+ F = a'c'd' + bc'd + acd + b'cd'
+
+ F = a'b'd' + a'bc' + abd + ab'c

@@ -1,0 +1,9 @@
+ 
+ Example 19.13
+
+ The intermediate pressure are - 
+ p2 = 2.466212 bar,
+ p3 = 6.082202 bar,
+ The effective sweft volume = 0.047713 m^3,
+ Temperature of air delivered per stroke at 15 bar = 85.394674 degree centigrade,
+ The work done per kg of air = 254.077922 kJ

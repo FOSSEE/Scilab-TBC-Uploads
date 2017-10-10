@@ -1,0 +1,13 @@
+disp("Part a");
+v1=9;
+v2=2*1.5;
+i=75*10^(-3);
+v=v1-v2;
+r=v/i;
+disp("the resistance value (in Ω) required is"); disp(r);
+disp("Part b");
+p=v*i*10^3;
+disp("the power rating (in mW) of the transistor is"); disp(p);
+disp("Part c");
+p1=v2*i*10^3;
+disp("the power used (in mW) by the radio is"); disp(p1);

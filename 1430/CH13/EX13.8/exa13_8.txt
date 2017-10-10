@@ -1,0 +1,8 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 13\exa13_8.sce', -1)
+ 
+ Y(s)=(-20+40*exp(-3*s))/(s*(s-5)   
+ 
+ => Y(s)= F1_s-2*F1_s*exp(-3*t)   
+ 
+

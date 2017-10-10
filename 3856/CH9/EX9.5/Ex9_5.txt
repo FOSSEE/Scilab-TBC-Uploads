@@ -1,0 +1,5 @@
+ Equilibrium constant for standard = 6.6*10^3
+ Change in Gibbs energy in biocchemical processes =18.13 kJ mol^-1 
+ Equilibrium constant  in biocchemical processes = 6.6*10^-4
+ Gibbs energy change for Physical Chemical standard state = -10.3 kJ mol^-1 
+ Gibbs energy change for Biochemists Standard state = -10.3 kJ mol^-1

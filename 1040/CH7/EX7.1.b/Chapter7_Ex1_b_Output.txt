@@ -1,0 +1,3 @@
+
+ Reaction volume  calculated : 18008 L 
+ Reactor size to be chosen : 21610 L

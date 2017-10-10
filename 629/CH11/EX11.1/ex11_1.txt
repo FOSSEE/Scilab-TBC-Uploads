@@ -1,0 +1,4 @@
+ 
+The drag force acting on the cylinder = 1323 N.
+
+The bending moment at the base of the cylinder = 19845 N.m

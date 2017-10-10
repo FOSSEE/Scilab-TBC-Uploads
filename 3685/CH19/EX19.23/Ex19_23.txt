@@ -1,0 +1,5 @@
+ 
+ Example 19.23
+
+ Blade angle at the tip = 24.031920 degree,
+ Blade angle at the hub = 69.747752 degree 

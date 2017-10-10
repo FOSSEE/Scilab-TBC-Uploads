@@ -1,0 +1,2 @@
+ 0.0000215 micro second = 21.5 micro second 
+3781000000 W=3.781 GW 

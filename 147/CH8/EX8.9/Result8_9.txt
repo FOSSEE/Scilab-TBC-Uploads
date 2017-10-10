@@ -1,0 +1,5 @@
+(a) Icq = 2.333 mA
+
+(b) Rb for Si device = 490.3 k ohm
+
+(c) Rb for Ge device = 504.0 k ohm

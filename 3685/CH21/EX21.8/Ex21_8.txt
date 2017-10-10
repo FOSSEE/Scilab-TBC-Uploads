@@ -1,0 +1,5 @@
+ 
+ Example 21.8
+
+ Thrust produced = 218.178625 kN,
+ Specific impulse = 3482.180070 Ns/kg 

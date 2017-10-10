@@ -1,0 +1,13 @@
+ 
+ Example 20.15
+
+ Mechanical efficiency = 80.232430 percemt
+                  Energy Balance
+                                 Input          Output
+ Heat supplied by fuel           816.666667 kW    -
+ Useful work(BP)                   -            245 kW
+ Heat carried by cooling water     -            251.778267 kW
+ Heat carried by steam             -            64.260000 kW
+ Heat carried by cooling oil       -            42.000000 kW
+ Heat carried by dry exhaust gas   -            166.946878 kW
+ Heat transferred to surroundings  -            46.681522 kW 

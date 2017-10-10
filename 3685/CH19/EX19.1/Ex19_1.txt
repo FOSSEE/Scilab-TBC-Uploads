@@ -1,0 +1,10 @@
+ 
+ Example 19.1
+
+ Pressure ratio is 8.476478 
+ Indicated power is 11.249010 kW
+ Shaft power is 14.061263 kW
+ Mass flow rate is 0.072307 kg/s
+ Pressure ratio when second stage is added is 71.850672
+ Volume derived per cycle is V2 0.000328 m^3
+ Second stage bore would be 52.744274 mm 

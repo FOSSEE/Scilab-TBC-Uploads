@@ -1,0 +1,7 @@
+The stress in the bar is given by:
+
+	Sx=P/A
+
+	Factor of safety=(Yield Strength)/(Induced Strength)
+
+The factor of safety is 5

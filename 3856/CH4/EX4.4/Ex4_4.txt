@@ -1,0 +1,2 @@
+ (a)Difference between change in Enthalpy and change in Enternal energy for 1 mol of ice melt  in to 1 mol of water at 273 K = -0.16 J mol^-1
+ (b)Difference between change in Enthalpy and change in Enternal energy for one mole water change in to one mole steam at 373 K  = 3100 J mol^-1

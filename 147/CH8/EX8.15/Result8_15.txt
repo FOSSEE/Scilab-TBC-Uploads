@@ -1,0 +1,1 @@
+Minimum value of Rc to maintain the transistor quiescent point at saturation, Rc = 5.154 k ohm

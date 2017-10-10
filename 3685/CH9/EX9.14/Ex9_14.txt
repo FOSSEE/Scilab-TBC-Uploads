@@ -1,0 +1,6 @@
+ 
+ Example 9.14
+ The availability of the steam before the throttle valve 1263.689400 kJ/kg
+ The availability of the steam after the throttle valve 1237.553800 kJ/kg
+ The availability of the steam at the turbine exhaust 601.851037 kJ/kg
+ The specific work output from the turbine is 546.253423 kJ/kg 

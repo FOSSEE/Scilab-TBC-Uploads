@@ -1,0 +1,12 @@
+ 
+Average shear-stress coefficient, Cf, for the plate = 0.00294.
+
+
+Total shear force on one side of plate = 4.77 N.
+
+
+Shear force due to laminar part = 0.256 N.
+
+
+Shear force due to turbulent part = 4.51 N.
+ 

@@ -1,0 +1,6 @@
+ The wavelength in the infrared region is 0.0000026600
+ The wavelength in the IR region is 0.0000008867
+ The wavelength in the visible region is 0.0000005320
+ The wavelength in the UV region is 0.0000003800
+
+ In all wavelengths reflacted The wavelength in the visible region 0.0000005320 

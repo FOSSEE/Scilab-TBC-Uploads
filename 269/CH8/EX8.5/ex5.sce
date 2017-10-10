@@ -1,0 +1,15 @@
+Syms t,s
+disp('given')
+disp('i(s)=2s+5/s+1*(s+2)')
+f=(2*s+5)/((s+1)*(s+2))
+[a]=pfss(2*s/(s^2+3*s+2))
+g=a(1)+a(2)
+x=s*f
+y=limit(x,s,0)
+disp('by final value theorem')
+disp(y,"i(inf)=")
+g=ilt(f,s,t)
+disp(g,"time domain exp is")
+h=limit(g,t,%inf)
+disp(h)
+disp('hence verified')

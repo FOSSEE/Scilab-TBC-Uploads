@@ -1,0 +1,16 @@
+ 
+        W'X' W'X  WX  WX' 
+
+ Y'Z'    X    1   1      
+
+ YZ'     X        1   1 
+
+ YZ      X    1       1
+
+ YZ'     X            
+
+ g1 = x'z + w'yz + w'y'z' + wxy'
+
+ g2 = x'z + w'yz + xy'z' + wxy'
+
+ g3 = x'z + w'yz + xy'z' + wy'z

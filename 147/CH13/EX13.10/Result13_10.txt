@@ -1,0 +1,10 @@
+For circuit reffered to primary:
+R' = 1.025 ohm
+X' = 6.2 ohm
+R'c = 350 ohm
+X'm = 98 ohm
+For circuit reffered to secondary:
+R' = 0.041 ohm
+X' = 0.248 ohm
+R''c = 14 ohm
+X''m = 3.92 ohm

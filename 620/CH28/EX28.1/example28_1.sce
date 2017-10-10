@@ -1,0 +1,15 @@
+v=6.3;
+r=220;
+disp("Part a");
+vm=v*sqrt(2);
+vdc=vm/%pi;
+disp("The dc voltage (in V) across the load is"); disp(vdc);
+disp("Part b");
+im=vm/r;
+disp("the peak current (in mA) through the load is"); disp(im*10^3);
+disp("Part c");
+idc=im/%pi;
+disp("the reading of dc ammeter (in mA) is"); disp("idc*10^3");
+disp("Part d");
+pdc=vdc*idc;
+disp("the dc power (in mW) delivered to the load is"); disp(pdc*10^3);

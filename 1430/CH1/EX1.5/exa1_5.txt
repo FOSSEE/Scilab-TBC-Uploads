@@ -1,0 +1,11 @@
+ 
+ -->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.5.sce', -1)
+ 
+ Voltage across the resistor(in Volts)=   
+ 
+    20.  
+ 
+ Power dissipated by the resistor(in Watt)=   
+ 
+    0.08  
+ 

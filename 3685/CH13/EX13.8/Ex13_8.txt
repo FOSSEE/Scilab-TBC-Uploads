@@ -1,0 +1,4 @@
+ 
+ Example 13.8
+
+ Percentage of air that may be taken from the compressor is 11.504425 percent 

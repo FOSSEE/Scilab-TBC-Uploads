@@ -1,0 +1,4 @@
+thickness of half wave plate is 0.0000017 mm
+ thickness of quarter wave plate is 0.00000086 mm
+ 
+ the minimum thickness of wave plate is 0.0000017 mm 

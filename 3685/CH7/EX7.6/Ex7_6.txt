@@ -1,0 +1,5 @@
+ Warning : redefining function: Work                    . Use funcprot(0) to avoid this message
+
+
+ Example 7.6
+ The maximum work that can be recovered is 35kJ 

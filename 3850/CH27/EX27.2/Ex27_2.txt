@@ -1,0 +1,2 @@
+
+ The amount of Heat required=2400.000000 cal

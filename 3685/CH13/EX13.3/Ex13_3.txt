@@ -1,0 +1,7 @@
+ 
+ Example 13.3
+
+ Cut-off ratio is 2.007897 
+ Heat supplied per kg of air is 884.346994 kJ/kg
+ Cycle efficiency is 61.334041 percent
+ Mean effective pressure is 699.968704 kPa 

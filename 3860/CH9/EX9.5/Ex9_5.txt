@@ -1,0 +1,32 @@
+ 
+ Given State Table
+
+ q |    x=0         x=1   |   x=0      x=1
+
+ -----------------------------------------
+
+ A |     B           D    |    0        0
+
+ B |     E           D    |    1        0
+
+ C |     B           C    |    0        0
+
+ D |     F           A    |    0        0
+
+ E |     A           B    |    1        1
+
+ F |     E           C    |    1        0
+
+ The set of equivalent states are A(A-C-D), B(B-F) and E
+
+ The reduced state table is given below
+
+ q |    x=0         x=1   |   x=0      x=1
+
+ -----------------------------------------
+
+ A |     B           A    |    0        0
+
+ B |     E           A    |    1        0
+
+ E |     A           B    |    1        1

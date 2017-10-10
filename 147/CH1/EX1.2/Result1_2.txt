@@ -1,0 +1,4 @@
+Current, I = 5 A 
+Voltage across the 5 ohm = 25 V
+Voltage across the 7 ohm = 35 V
+Voltage across the 8 ohm = 40 V

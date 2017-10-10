@@ -1,0 +1,15 @@
+Part a   
+ 
+ at A the reading is 11.5 mA   
+ 
+ at B the reading is 27 mA   
+ 
+ at C the reading is 43.5 mA   
+ 
+ Part b   
+ 
+ at A the reading is 23 mA   
+ 
+ at B the reading is 54 mA   
+ 
+ at C the reading is 87 mA 

@@ -1,0 +1,2 @@
+ pH of the Buffer solution = 4.90
+ pH of the Buffer solution after addition of HCl = 4.71

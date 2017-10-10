@@ -1,0 +1,4 @@
+ Example 3.5
+ Rating of furnace would be 2.171634 *1e3 kW
+ Diameter of furnace is 0.111440 m
+ Length of furnace is 0.222880 m 

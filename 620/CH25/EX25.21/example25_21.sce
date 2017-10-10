@@ -1,0 +1,13 @@
+r1=0.6;
+x_c=1;
+r2=2;
+x_l=1.5;
+v=10;
+rl=1;
+vth=v*%i*x_l/(r1-%i*x_c+%i*x_l);
+m_vth=v*x_l/sqrt(real(r1-x_c+x_l)^2+imag(r1-x_c+x_l)^2);
+deg_vth=90-atan(imag(r1-x_c+x_l)/real(r1-x_c+x_l))*180/%pi;
+zth=2+%i*x_l*(r1-%i*x_c)/(r1+%i*x_l-%i*x_c);
+i=vth/(zth+rl);
+disp("the current (in mA) through the resistor has a magnitude of");disp((sqrt((real(i))^2+(imag(i))^2)));
+disp("with a phase angle (in deg) of"); disp(atan(imag(i)/real(i))*180/%pi);

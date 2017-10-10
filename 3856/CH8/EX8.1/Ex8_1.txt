@@ -1,0 +1,1 @@
+ Specific conductance = 0.176 ohm^-1 cm^-1

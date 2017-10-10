@@ -1,0 +1,10 @@
+ 
+ wxy' + xyz + w'x'z'
+
+ = x(wy' + yz) + w'x'z'
+
+ = x(y' + z)(y + w) + w'x'z'
+
+ = (x + w'z')[x' + (y' + z )(y + w)]
+
+ = (x + w')(x + z')(x' + y' + z )(x' + y + w)]

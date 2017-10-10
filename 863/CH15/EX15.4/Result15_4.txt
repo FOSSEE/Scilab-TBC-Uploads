@@ -1,0 +1,4 @@
+ Output voltage(in volts)=   
+ 
+    22.  
+ 

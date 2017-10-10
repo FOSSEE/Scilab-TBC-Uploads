@@ -1,0 +1,6 @@
+ 
+ Example 21.3
+
+ The blade angle at the inlet = 29.434315 degree,and at the exit = 63.457679 degree,
+ The overall efficiency of the turbine = 87.515205 percent
+ The stage efficiency = 85.204827 percent 

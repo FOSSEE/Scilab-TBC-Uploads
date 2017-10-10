@@ -1,0 +1,16 @@
+//Example 8.2: mod-120 counter
+clc // Clears the console
+disp("Displays the count from 0 to 119")
+disp('0000000')
+disp('0000001')
+disp('0000010')
+disp('0000011')
+disp('0000100')
+disp('0000101')
+disp("0000110")
+disp("   -")
+disp("   -")
+disp("   -")
+disp("1110111")
+disp('displays the count till 1110111')
+disp('the counter resets to 0000000')

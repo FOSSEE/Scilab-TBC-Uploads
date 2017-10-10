@@ -1,0 +1,2 @@
+ 
+ The components of force, F required to hold the bend in place are Fx = -16.1 kN, Fz = 1.48 kN.

@@ -1,0 +1,2 @@
+
+ Shunt Resistance for Galvanometer in order to pass a maximum current of 2A = 0.2 ohms

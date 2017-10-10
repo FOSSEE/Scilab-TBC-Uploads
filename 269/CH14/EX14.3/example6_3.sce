@@ -1,0 +1,25 @@
+disp('chap 14 ex 3')
+disp('given')
+disp('current source i1=5sqrt(2)sin2t')
+disp('driving point impedance Z=3+j/3')
+Pav=25*3//Pav=Irms^2*real(Z)
+disp('Average power is ')
+disp(Pav)
+Q=25*1/3//Q=Irms^2*imag(Z)
+disp('Reactive power is')
+disp(Q)
+s=sqrt(75^2+(25/3)^2)//s=Irms^2*Z, calculation of magnitude of s
+Vrms=s/5
+disp('rms value of voltage is')
+disp(Vrms)
+pf=cos(atan(1/9))//power factor=cos thetaz=cos(tan-(1/9))
+disp('power factor=')
+disp(pf)
+disp('The branch currents are')
+disp('I1=5,I2=10*sqrt(5)/6,I3=10*sqrt(2)/6')
+TPav=50+500/36+400/36//Total avg power=I1^2*2+I2^2*2+13^2*2
+disp('Total average power')
+disp(TPav)
+TQ=500/36-200/36//Total reactive power in the capacitor and inductor branches=Q1-Q2
+disp('Total reactive Power')
+disp(TQ)

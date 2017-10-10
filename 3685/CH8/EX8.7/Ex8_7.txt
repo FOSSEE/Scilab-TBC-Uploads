@@ -1,0 +1,6 @@
+ 
+ Example 8.7
+ The decrease in availability is 260.756521 kJ/kg
+ The maximum work is 260.756521 kJ/kg
+ The irreversibility is 49.656521 kJ/kg
+ Alternatively, The irreversibility is 49.656521 kJ/kg 

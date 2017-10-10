@@ -1,0 +1,3 @@
+ 
+The guide vane angle for non seperating flow condition at runner entrance = 17.4°.
+ 

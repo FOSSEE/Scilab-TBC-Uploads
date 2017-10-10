@@ -1,0 +1,2 @@
+This type of process is termed as throttling process and described by the equation Delta U=- Delta W
+Where Delta W is the work done 

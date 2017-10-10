@@ -1,0 +1,18 @@
+
+ Part a   
+ 
+ the theoretical ripple factor is   
+ 
+    0.0104167  
+ 
+ Part b   
+ 
+ the dc output voltage (in V) is   
+ 
+    5.729578  
+ 
+ Part c   
+ 
+ the dc output voltage (in V) is   
+ 
+    4.5836624  

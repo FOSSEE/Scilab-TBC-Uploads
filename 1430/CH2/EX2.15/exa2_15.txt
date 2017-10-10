@@ -1,0 +1,8 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.15.sce', -1)
+ 
+ Voltage across 6-Ohm Resistor(in Volts)=   
+ 
+    24.  
+ 

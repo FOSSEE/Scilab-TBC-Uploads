@@ -1,0 +1,20 @@
+(a)Average torque Mt=5968.31 Nm
+
+(b)Energy output per cycle=75000.00 Nm
+Energy output during power stroke=112500.00 Nm
+Energy stored in the flywheel=106531.69 Nm
+
+(c)Stress=rho*V^2
+	V=23.57 m/s
+	V=r*w
+	r=V/w=1.125 m
+
+(d)Mass of rim of flywheel:
+	mr=(K*E)/(V^2 *delta) =5752.71 kg
+
+(e)Dimensions of rim
+	mr=pi*Dm*t*b*rho
+For square rim, t=b=0.336 m
+
+For rectangular rim, b=2t=0.475 m and t=0.238 m
+

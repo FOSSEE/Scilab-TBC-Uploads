@@ -1,0 +1,8 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.10.sce', -1)
+ 
+ Net Current when all the sources are active(in Amps)=   
+ 
+  - 0.5  
+ 

@@ -1,0 +1,6 @@
+ 
+ Example 9.16
+ Energy of system in Part (a) is 73.200000 kJ
+ Energy of system in Part (b) is 197.347400 kJ
+ Energy of system in Part (c) is 498.262400 kJ
+ Energy of system in Part (d) is 121.800000 kJ 

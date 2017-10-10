@@ -1,0 +1,3 @@
+
+ (a) Dynamic Resistance when a forward bias of 1 V is applied at the p-n junction = 40 ohms
+ (b) Dynamic Resistance when a forward bias of 2 V is applied at the p-n junction = 0.25 ohms

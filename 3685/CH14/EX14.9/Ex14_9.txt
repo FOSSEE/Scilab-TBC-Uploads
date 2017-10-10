@@ -1,0 +1,6 @@
+ 
+ Example 14.9
+
+ COP of the refrigerator is 0.245732
+ Driving power required is 47.477199 kW
+ Mass flow rate is 0.647683 kg/s

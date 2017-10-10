@@ -1,0 +1,2 @@
+ The apparent weight of the object is Wapp=Mg-Mg*(Pf/p)=W*(1-(Pf/P))
+As Wapp=0 and Pf=p the object has an apparent weight of Zero 

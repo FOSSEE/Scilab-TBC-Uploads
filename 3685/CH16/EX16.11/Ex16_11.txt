@@ -1,0 +1,7 @@
+ 
+ Example 16.11 
+
+ Reversible work is 47139.500000 kJ/kg
+ Increase in entropy during combustion is 3699.668800 kJ/kg mol K
+ Irreversibility of the process 25056.855909 kJ/kg
+ Availability of products of combustion is 22082.644091 kJ/kg 

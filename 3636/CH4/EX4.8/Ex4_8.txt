@@ -1,0 +1,6 @@
+ a)
+lifetime of both type of carriers= 1e-06 s
+b)
+excess carrier concentration= 1e+15 cm^-3
+c)
+Induced change in current= 0.064 A 

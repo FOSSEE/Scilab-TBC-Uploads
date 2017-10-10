@@ -1,0 +1,2 @@
+wavelength is lamda=0.084 nm
+Maximum order of diffraction is n=6 

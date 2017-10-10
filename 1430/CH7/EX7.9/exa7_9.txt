@@ -1,0 +1,21 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 7\exa7.9.sce', -1)
+ 
+ Capacitance for power factor correction in delta configuration(in farad)=   
+ 
+    0.0000354  
+ 
+ Capacitance for power factor correction in wye configuration(in farad)=   
+ 
+    0.0001061  
+ 
+ Total average power supplied by the generator(in Watt)=   
+ 
+    32448.  
+ 
+ RMS line current(in Amps)=   
+ 
+    24.017771  
+ 
+

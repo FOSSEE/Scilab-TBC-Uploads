@@ -1,0 +1,3 @@
+(a) At load of 229.24 A ,the generator achieves maximum efficiency
+
+(b) Maximum efficiency, n = 90.6 %

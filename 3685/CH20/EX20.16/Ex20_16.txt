@@ -1,0 +1,5 @@
+ 
+ Example 20.16
+
+ Fuel consumption = 7.135004 kg/h,
+ Brake mean effective pressure = 29.555556 bar 

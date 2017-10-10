@@ -1,0 +1,1 @@
+Time at which current reaches its maximum value, t = 4 ms

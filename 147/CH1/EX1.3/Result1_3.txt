@@ -1,0 +1,6 @@
+(a) Current through 5 ohm resistor, I1 = 20 A
+    Current through 10 ohm resistor, I2 = 10 A
+    Current through 20 ohm resistor, I3 = 5 A
+
+(b) Current drawn from the source, I = 35 A
+    Power supplied by source, P = 3500 W

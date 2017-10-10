@@ -1,0 +1,5 @@
+ 
+ Example 13.5
+
+ The percentage increase in cycle efficiency 
+ due to regeneration is 41.407606 percent

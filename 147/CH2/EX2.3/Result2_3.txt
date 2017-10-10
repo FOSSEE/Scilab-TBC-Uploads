@@ -1,0 +1,1 @@
+The voltage source, V = 220 V

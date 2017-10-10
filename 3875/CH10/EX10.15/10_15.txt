@@ -1,0 +1,2 @@
+The Plancks constant is = 6.592e-34 J-s
+The photoelectric current will not be obtained as the stopping potential does not depend on the intensity of light

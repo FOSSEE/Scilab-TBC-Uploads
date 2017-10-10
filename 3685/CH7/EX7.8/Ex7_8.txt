@@ -1,0 +1,5 @@
+ 
+ Example 7.8
+ Change in the entropy of the universe is -1.278510 kJ/Kg K
+ As the change in entropy of the universe in the process A-B is negative 
+ so the flow must be from B-A 

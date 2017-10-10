@@ -1,0 +1,16 @@
+c1=5;
+v1=20;
+c2=10;
+v2=20;
+v=30;
+disp("Part a");
+c=c1*c2/(c1+c2);
+disp("the total capacitance (in μF) is "); disp(c);
+disp("Part b");
+q=v*c;
+disp("the charge on each capacitor (in μC) is"); disp(q);
+disp("Part c");
+v1=q/c1;
+disp("voltage (in V) across 5 μF capacitor is"); disp(v1);
+v2=q/c2;
+disp("voltage (in V) across 10 μF capacitor is");disp(v2);

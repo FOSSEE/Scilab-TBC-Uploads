@@ -1,0 +1,2 @@
+
+ Current flowing through the solenoid = 8.0 A

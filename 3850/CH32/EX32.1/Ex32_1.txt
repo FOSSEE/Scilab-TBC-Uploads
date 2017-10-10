@@ -1,0 +1,3 @@
+
+ (a)Current(i)=  9.600000*10^-3 A
+(b)Current density in the beam (j)= 9.6*10^3 A/m^2

@@ -1,0 +1,4 @@
+Required capacitance(in micro farad)=   
+ 
+    0.3358281  
+ 

@@ -1,0 +1,2 @@
+The velocity of pendulum at point B is vb=2.62 meters/sec
+From A to C hc=ha and Vc=Va=0 so Frictional force is Negligible at point C 

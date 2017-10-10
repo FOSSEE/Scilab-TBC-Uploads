@@ -1,0 +1,32 @@
+ 
+ The given K map for function G = 
+
+       A'B'  A'B  AB  AB'
+
+ C'D'                    
+
+ C'D               1     
+
+ CD                1     
+
+ CD'               1     
+
+ The given K map for function H = 
+
+       A'B'  A'B  AB  AB'
+
+ C'D'                    
+
+ C'D          1    1     
+
+ CD                1     
+
+ CD'               1     
+
+ The solution for  G is
+
+ G = ABC + ABD
+
+ The solution for H is
+
+ H = BC'D + ABC

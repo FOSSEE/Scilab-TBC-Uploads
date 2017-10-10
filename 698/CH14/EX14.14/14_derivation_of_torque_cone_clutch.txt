@@ -1,0 +1,36 @@
+Consider a differential element bounded by circles of radii r and (r+dr).
+The area of the differential frustrum of a cone is
+		dA=2*pi*r[dr/sin (alpha)]
+
+Integrating the differential torque with respect to r over r=Ri to r=Ro,
+we get
+		T=[(2*pi*p*f)/sin (alpha)]*[((Ro^3)-(Ri^3))/3]
+
+Define the force Fn as that due to the pressure applied
+to the area as if it were stretched out into a plane:
+		F=p(2*pi*Rm*b)
+
+To relate Fn to the axial force F,consider a differential element
+with central angle d(phi).
+The differential area is
+		dA=2*pi*Rm*b*(d(phi)/(2*pi))
+		 =Rm*b*d(phi)
+The differential normal force is
+	dN=p*Rm*b*d(phi)*sin(alpha)
+The horizontal component of the differential force is dF; then
+Integrating with respect to (phi) over (phi)=0 to (phi)=2*pi
+we get
+		F=2*pi*p*Rm*b*sin(alpha)
+		 =Fn*sin(alpha)
+
+Substituting equation of p in equation of T, we get
+		T=[(Fn*f)/(Rm*b*sin (alpha))]*[((Ro^3)-(Ri^3))/3]
+
+		 =(Fn*f)*[(2/3){((Ro^3)-(Ri^3))/((Ro^2)-(Ri^2))}]
+
+		 =[(F*f)/sin (alpha)]*[(2/3){((Ro^3)-(Ri^3))/((Ro^2)-(Ri^2))}]
+
+since
+Rm=(Ro+Ri)/2
+(b*sin (alpha))=Ro-Ri
+and Fn=F/sin (alpha)

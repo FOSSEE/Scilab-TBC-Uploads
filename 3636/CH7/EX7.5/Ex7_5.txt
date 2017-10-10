@@ -1,0 +1,2 @@
+ Conduction band= 0.06 eV
+Valence band= 0.69 eV 

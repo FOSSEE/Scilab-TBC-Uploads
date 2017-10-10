@@ -1,0 +1,3 @@
+ the efficeiency (in %) of the power supply is   
+ 
+    60.

@@ -1,0 +1,2 @@
+  Entropy change = 7.8 J K^-1
+Probability for spontaneous contraction = 0

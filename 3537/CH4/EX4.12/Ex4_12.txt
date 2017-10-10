@@ -1,0 +1,2 @@
+number of atoms in NaCl  is  4.489D+22  atom/cm^3
+radius a=2.81 A 

@@ -1,0 +1,1 @@
+ a) upper frequency limit= 1.91e+09 Hz 

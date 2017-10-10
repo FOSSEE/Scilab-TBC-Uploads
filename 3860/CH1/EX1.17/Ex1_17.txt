@@ -1,0 +1,10 @@
+ 
+ The binary number is = 
+
+ 10111
+
+ The msb is discarded, and binary number becomes
+
+ 0111
+
+ This time, two negetive numbers produced a sum that looks positive.

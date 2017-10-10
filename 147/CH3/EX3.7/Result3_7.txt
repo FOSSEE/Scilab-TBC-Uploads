@@ -1,0 +1,7 @@
+input current, I = 0.706 arg(-45 degree )
+
+Voltage across resistance, Vr = 70.6 arg(-45 degree )
+
+Voltage across inductor, Vl = 353.2 arg(45 degree )
+
+Voltage across capacitor, Vc = 282.4 arg(-135 degree )

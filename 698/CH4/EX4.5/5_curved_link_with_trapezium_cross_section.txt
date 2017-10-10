@@ -1,0 +1,14 @@
+(a) Maximum stress occurs at internal radius of link
+	Si=(M*hi)/(A*e*ri)
+
+(b)To determine e:
+	rn=((bi+bo)/2)*h / ((((bi*ro - bo*ri)/h)*log(ro/ri)) - (bi-bo))
+	=69.4804 mm
+
+	R=ri+ (h*(bi+ 2*bo))/(3*(bi+bo))
+	=72.2222 mm
+
+	e=R-rn =2.7419 mm
+
+(c)Finding the stress
+	Si=82.100 Mpa

@@ -1,0 +1,19 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_5.sce', -1)
+ 
+ I_1=(s*C)*V_1---equation(1)   
+ 
+ I_2=2(s*C)*V_1--equation(2)   
+ 
+ I_1=-(s*C)*V_2---equation(3)   
+ 
+ I_2=3*I_1-I_1+V_2/10---equation(4)   
+ 
+ Required Y parameter=   
+ 
+    0.025s   - 0.025s        
+                             
+    0.05s      0.1 - 0.05s   
+ 
+

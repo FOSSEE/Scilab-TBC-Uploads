@@ -1,0 +1,5 @@
+
+ radius of the circular path followed by electron is =   
+ 
+    1.42D-02  
+ 

@@ -1,0 +1,5 @@
+ 
+ Example 15.3
+
+ Mass of spray water required is 0.003381 kg moisture/m^3
+ Temperature to which air must be heated is 27.082721 degree celcius

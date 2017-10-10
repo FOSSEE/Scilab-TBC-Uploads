@@ -1,0 +1,1 @@
+After the collision the second ball moves at a speed of v=4.10 Meters/sec 

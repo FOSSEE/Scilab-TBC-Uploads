@@ -1,0 +1,5 @@
+ 
+ Example 13.4
+
+ Efficiency of the cycle is 66.314379 percent
+ Mean effective pressure is 4.755194 bar 

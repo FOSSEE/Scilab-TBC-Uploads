@@ -1,0 +1,5 @@
+
+ Example 14.12
+
+ Mass flow rate of air flowing through the cooling system is 1.165049 
+ COP is 0.227742 

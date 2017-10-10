@@ -1,0 +1,2 @@
+Generator efficiency at full load = 90 %
+Prime mover output = 148.2 hp

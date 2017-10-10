@@ -1,0 +1,10 @@
+disp("Part a");
+r=10;
+i=12;
+p=(i^2)*r;
+disp("power dissipated in the element (in kW) is"); disp(p/1000);
+disp("Part b");
+r1=10*10^3;
+v1=12;
+p1=(v1^2)/r1;
+disp("power dissipated in resistor (in mW) is"); disp(p1*10^3);

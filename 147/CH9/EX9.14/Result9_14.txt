@@ -1,0 +1,2 @@
+(a): Drain current id = 3 mA
+(b): Gate to source voltage vgs = -0.653 V

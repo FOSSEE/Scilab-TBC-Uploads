@@ -1,0 +1,5 @@
+ 
+ Example 20.8
+
+ Mechanical efficiency = 82.630691 percent,
+ Relative efficiency on indicated power basis = 54.096682 percent

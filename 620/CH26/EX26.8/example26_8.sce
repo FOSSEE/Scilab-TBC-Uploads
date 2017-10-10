@@ -1,0 +1,15 @@
+r=300;
+x_l=400;
+v=120;
+f=60;
+disp("Part a");
+p=v^2/r;
+disp("the true power (in W) is"); disp(p);
+disp("Part b");
+q=v^2/x_l;
+disp("the reactive power (in VAr) is"); disp(q);
+disp("Part c");
+s=sqrt(p^2+q^2);
+disp("the apparent power (in VA) is"); disp(s);
+i=s/v;
+disp("the current drawn (in A) from the supply is"); disp(i);

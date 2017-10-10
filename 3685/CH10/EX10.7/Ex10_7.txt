@@ -1,0 +1,5 @@
+ 
+ Example 10.7
+ Cv of the gas is 0.661001 kJ/kg K
+ Cp of the gas is 0.898961 kJ/kg K
+ Increase in the entropy of the gas is 0.080159 kJ/kg K 

@@ -1,0 +1,2 @@
+
+ external vapour pressure at 140 degree celsius=3.565789 atm

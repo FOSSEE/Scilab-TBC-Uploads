@@ -1,0 +1,20 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.4.sce', -1)
+ 
+ Terminal Current(in Amps)=   
+ 
+    0.005  
+ 
+ Total Power dissipated in Circuit(in Watt)=   
+ 
+    0.2  
+ 
+ Voltage across 20k ohm resistor(in Volts)=   
+ 
+    30.  
+ 
+ Voltage across 5k ohm resistor(in Volts)=   
+ 
+    10.  
+ 

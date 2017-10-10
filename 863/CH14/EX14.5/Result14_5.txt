@@ -1,0 +1,8 @@
+Cycles of input counted during t1=   
+ 
+    3500.  
+ 
+ Cycles of input counted during t2=   
+ 
+    35.  
+ 

@@ -1,0 +1,3 @@
+The youngs modulus is Y= 
+    1.961D+11  
+N/meters^2 

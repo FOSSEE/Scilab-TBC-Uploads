@@ -1,0 +1,12 @@
+ 
+ -5 in 2's complement form is=
+
+ 1011
+
+ -1 in 2's complement form is=
+
+ 1111
+
+ -0 in 2's complement form is=
+
+ 0000

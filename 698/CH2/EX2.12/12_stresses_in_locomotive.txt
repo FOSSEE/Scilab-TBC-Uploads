@@ -1,0 +1,27 @@
+The angular speed of wheels is 29.3 rad/s
+All points on the side rod have a downward acceleration ap
+The locomotive is moving with uniform velocity, therefore acceleration ao=0
+
+	ap=ao+apo
+	  =apo=322.51m/s^2
+
+Inertia force acting upward on the rod, Fi=58051.15 N
+
+Net force acting upward on the rod, Fup=56285.35 N
+
+Axial force F can be determined by assuming rear wheel
+and rod as free bodies and taking moments about centre of wheel.
+	Cl*F= Et*R
+The axial force F is 109800.00 N
+
+Maximum bending moment for simple beam carrying unifornmly distributed load is
+	(W*L)/8
+
+Normal Stress 
+	Sx= (P/A) + (M*c)/I
+
+The maximum normal stress is 
+	Sn_max = Sx = 59.8 MN/m^2
+
+The maximum shear stress is 
+	Tmax = Sx/2 = 29.9 MN/m^2

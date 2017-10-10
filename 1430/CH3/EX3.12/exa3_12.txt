@@ -1,0 +1,7 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 3\exa3.12.sce', -1)
+ 
+ Strain Measured with the help of wheatstone Bridge=   
+ 
+    0.00192  
+ 

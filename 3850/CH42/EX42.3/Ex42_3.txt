@@ -1,0 +1,2 @@
+
+ Time required by the electron to recieve sufficient energy to come out of the metal =8.89 hours

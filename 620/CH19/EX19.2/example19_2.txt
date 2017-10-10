@@ -1,0 +1,3 @@
+the time constant (in ms) of the circuit is   
+ 
+    4. 

@@ -1,0 +1,18 @@
+Part a   
+ 
+ the flux density (in T) is   
+ 
+    0.4774648  
+ 
+ Part b   
+ 
+ the magnetomotive force (in At) is   
+ 
+    800.  
+ 
+ Part c   
+ 
+ the manetizing intensity (in At/m) is   
+ 
+    2122.0659  
+ 

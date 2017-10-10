@@ -1,0 +1,16 @@
+clear;
+clc;
+v=33;
+s=10;
+z=complex(0,20);
+vs=v/sqrt(3);
+vr=vs;
+Pm=(vr^2)/imag(z);
+del=asind(s/Pm);
+Qr=-((vr^2)/imag(z))+((vr^2)/imag(z)*cosd(del));
+mprintf("Power angle is %.4f degree and reactive power is %.4f MVAR\n",del,Qr);
+P=sqrt((vs^4)/(4*400));
+V=vr^2/2;
+Vr=sqrt(V);
+del1=asind((P*imag(z))/(vr*Vr));
+mprintf("Power angle when capacitance removed is %.4f degree and maximum real power is %.4f MW\n",del1,P);

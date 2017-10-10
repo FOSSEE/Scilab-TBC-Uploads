@@ -1,0 +1,4 @@
+ power factor is   
+ 
+    0.8  
+ 

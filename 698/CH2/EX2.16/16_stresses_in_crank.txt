@@ -1,0 +1,12 @@
+The critical points are at front and back fibres of the section.
+
+	Sx= (M*c) /I
+Sx=21.7 MN/m^2
+
+	Txy=(T*r)/J
+Txy=15.1 MN/m^2
+
+Maximum normal stress=29.5 MN/m^2
+
+Maximum normal stress=18.6 MN/m^2
+

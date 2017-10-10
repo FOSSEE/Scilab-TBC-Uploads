@@ -1,0 +1,2 @@
+ The linear equation would be of the form  R=mT+R0 
+Hence the equation relating temperature and resistance is R = 0.8 T + 84 

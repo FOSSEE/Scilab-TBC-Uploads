@@ -1,0 +1,15 @@
+Part a   
+ 
+ at A the reading is 0.72 V   
+ 
+ at B the reading is 2.37 V   
+ 
+ at C the reading is 4.30 V   
+ 
+ Part b   
+ 
+ at A the reading is 23 V   
+ 
+ at B the reading is 75 V   
+ 
+ at C the reading is 136 V 

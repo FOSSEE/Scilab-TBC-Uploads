@@ -1,0 +1,10 @@
+ -->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 3\exa3.10.sce', -1)
+ 
+ Design Value for Multiplier resistor(in Ohms)=   
+ 
+    24400.  
+ 
+ Design Value for Shunt resistor(in Ohms)=   
+ 
+    4.0268456  
+ 

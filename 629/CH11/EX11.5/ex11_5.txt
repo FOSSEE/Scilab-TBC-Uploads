@@ -1,0 +1,2 @@
+ 
+The ratio of drag forces for streamlined shape to cylinder shape = 0.17.

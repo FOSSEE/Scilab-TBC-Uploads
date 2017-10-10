@@ -1,0 +1,1 @@
+ reverse-bias generation current density= 3.15e-07 A/cm^2 

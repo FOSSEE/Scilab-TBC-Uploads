@@ -1,0 +1,1 @@
+ The temperature of the star is = 68511 K

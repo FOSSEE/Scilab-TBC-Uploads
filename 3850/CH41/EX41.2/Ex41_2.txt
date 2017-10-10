@@ -1,0 +1,2 @@
+
+ Dynamic Plate Resistance = 200 ohm

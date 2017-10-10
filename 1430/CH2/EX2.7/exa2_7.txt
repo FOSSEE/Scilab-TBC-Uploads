@@ -1,0 +1,10 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.7.sce', -1)
+ 
+ Call the function VCVS with input argument v_s   
+ 
+ Current through 10-ohm resistance(in Amps)=   
+ 
+    1.  
+ 

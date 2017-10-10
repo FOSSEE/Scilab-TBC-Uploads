@@ -1,0 +1,4 @@
+(a)Axial force F required to transmit the torque is 636.6 N
+(b)Axial force required to engage the clutch, enagagement taking place when clutch is not rotating, is 1799.3 N
+(c)Average normal pressure when maximum torque is being transmitted is 74.1 kN/m^2
+(d)Maximum normal pressure assuming uniform wear is 75.8 kN/m^2

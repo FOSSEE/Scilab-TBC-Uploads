@@ -1,0 +1,4 @@
+Fastest rise time(in ns)=   
+ 
+    39.6  
+ 

@@ -1,0 +1,1 @@
+ Acceleration is a=3.3 meters/sec^2 

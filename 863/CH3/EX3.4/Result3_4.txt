@@ -1,0 +1,6 @@
+Resistance(in kilo ohm) and Diode forward current(in mA)=   
+ 
+    1.  
+ 
+    9.3  
+ 

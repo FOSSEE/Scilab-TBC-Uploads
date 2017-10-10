@@ -1,0 +1,4 @@
+ 
+ Example 18.11
+
+ Time required for heating operation is 27.621984 s 

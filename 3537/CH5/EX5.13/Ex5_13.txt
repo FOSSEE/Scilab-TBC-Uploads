@@ -1,0 +1,1 @@
+Maximum possible diffraction order = 2 

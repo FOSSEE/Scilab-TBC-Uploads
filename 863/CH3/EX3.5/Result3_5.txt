@@ -1,0 +1,4 @@
+ Resistance(in kilo ohm)=   
+ 
+    2.65  
+ 

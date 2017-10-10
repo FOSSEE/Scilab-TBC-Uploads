@@ -1,0 +1,6 @@
+
+ (a) Molal humidity of the air = 0.037 
+     Percentage saturation = 52 %
+     Dew point = 80.50 degree F
+ (b) Percentage saturation of the air leaving the evaporator = 84 % 
+     weight of the water evaporated = 3.1 lb

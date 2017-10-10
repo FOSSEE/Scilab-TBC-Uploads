@@ -1,0 +1,1 @@
+ Tha maximum value that is possible for h^2+k^2+l^2=11.69 so (h,k,l) values are (2,2,2) 

@@ -1,0 +1,10 @@
+l=0.5;
+f=60;
+i=0.25;
+p=5;
+disp("Part a");
+r=p/i^2;
+disp("the ac resistance (in Ω) of the coil is"); disp(r);
+disp("part b");
+q=2*%pi*f*l/r;
+disp("the Q of the coil is"); disp(q);

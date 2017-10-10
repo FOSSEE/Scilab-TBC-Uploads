@@ -1,0 +1,1 @@
+The voltage to which electron can be accelerated is = 1.5095e+02 volts or 150.95 volts

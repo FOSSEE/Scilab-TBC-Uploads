@@ -1,0 +1,18 @@
+v=12;
+r=500;
+l=200*10^(-3);
+disp("Part a");
+t1=0.1*10^(-3);
+t0=l/r;
+i=v*exp(-t1/t0)/r;
+disp("the current (in mA) 0.1 ms after the switch has been moved to position B is"); disp(i*10^3);
+disp("Part b");
+t2=20*10^(-6);
+v1=v*exp(-t2/t0);
+disp("the voltage (in V) across the inductor 20 μs after the switch has arrived at position B is"); disp(v1);
+disp("Part c");
+t3=0.2*10^(-3);
+i1=v*exp(-t3/t0)/r;
+disp("the circuit current (in mA) is"); disp(i1*10^3);
+v2=-v*exp(-t3/t0);
+disp("the inductor voltage (in V) is"); disp(v2);

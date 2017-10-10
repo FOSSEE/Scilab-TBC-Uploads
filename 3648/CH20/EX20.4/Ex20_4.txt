@@ -1,0 +1,4 @@
+The current in circuit is I=0.2439 A
+Volt meter readings across resistor Vr=73.2 V
+Readings across capacitor is Vc=32.3 V
+Power loss in circuit is=17.8 W 

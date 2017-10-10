@@ -1,0 +1,2 @@
+ Number of Einstens absorbed per second = 1.2*10^-9 einstein s^-1
+ Total Energy absorbed = 0.56 J 

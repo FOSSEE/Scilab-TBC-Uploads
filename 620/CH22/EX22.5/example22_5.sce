@@ -1,0 +1,12 @@
+c=10*10^(-6);
+r=5*10^3;
+v=24;
+disp("Part a");
+t=r*c;
+disp("the time constan (in ms) of the circuit i; disp(t*10^3)");
+disp("Part b");
+rate=v/t;
+disp("the initial rate of rise of capacitor voltage (in V/s) is"); disp(rate);
+disp("Part c");
+t1=5*t;
+disp("time taken (in ms) to reach 24 V is"); disp(t1*10^3);

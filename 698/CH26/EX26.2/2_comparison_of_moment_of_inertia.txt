@@ -1,0 +1,9 @@
+(a)The exact moment of inertia of the rim considering difference of moment of inertia is
+	I=1/2*mo*ro2 - 1/2*mi*ri2
+I=293 kgm2
+
+(b)/the approximate moment of inertia, considering the rim as a thin ring is:
+	Iapprox=m*r2
+Iapprox=288 kgm2
+
+Percent error= 1.6

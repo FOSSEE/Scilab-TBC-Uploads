@@ -1,0 +1,7 @@
+  binary form of the number obtained by adding 7 to -5 
+
+ 10010
+
+  the msb is discarded,so four bit representation in binary form =
+
+ 0010

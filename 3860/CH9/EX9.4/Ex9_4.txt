@@ -1,0 +1,32 @@
+ 
+ Given State Table
+
+ q |    x=0         x=1   |   x=0      x=1
+
+ -----------------------------------------
+
+ A |     F           B    |    0        0
+
+ B |     E           G    |    0        0
+
+ C |     C           G    |    0        0
+
+ D |     A           C    |    1        1
+
+ E |     E           D    |    0        0
+
+ F |     A           B    |    0        0
+
+ G |     F           C    |    1        1
+
+ State A-F, B-C-E, and D-G are equivalent. So, reduced state table is as given below.
+
+ q   |    x=0       x=1    |   x=0      x=1
+
+ ----------------------------------------------
+
+  A  |     A         B     |    0        0
+
+  B  |     B         D     |    0        0
+
+  D  |     A         B     |    1        1

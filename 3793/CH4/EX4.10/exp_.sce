@@ -1,0 +1,22 @@
+clear;
+clc;
+v=400;
+Xl=.30;
+Xc=3.75*10^(-6);
+l=300;
+L=Xl/(2*%pi*50);
+C=Xc/(2*%pi*50);
+Zc=sqrt(L/C);
+mprintf(" surge impedence is %.3f ohm\n",Zc);
+phase=2*%pi*50*sqrt(L*C);
+pconstant=%i*phase;
+mprintf("propagation constant is %.4f\n",imag(pconstant));
+A=cos(phase*l);
+D=A;
+B=%i*Zc*sin(phase*l);
+C=(%i*sin(phase*l))/Zc;
+lamda=(3*10^(8))/50;
+SIL=v^(2)/Zc;
+mprintf("A,B,C and D parameters are respectively\n")
+disp(A,B,C,D);
+mprintf("Lamda and SIL is %.5fm and %.5fMW",lamda,SIL);

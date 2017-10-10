@@ -1,0 +1,20 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 5\exa5.4.sce', -1)
+ 
+ Voltage across 3-micro farad capacitor(in Volts)=   
+ 
+    30.  
+ 
+ Charge on 3-micro farad capacitor(in Coulomb)=   
+ 
+    0.00009  
+ 
+ Voltage across 6-micro farad capacitor(in Volts)=   
+ 
+    0.  
+ 
+ Charge across 6-micro farad capacitor(in Coulomb)=   
+ 
+    0.  
+ 

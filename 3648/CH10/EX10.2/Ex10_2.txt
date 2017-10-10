@@ -1,0 +1,3 @@
+The Mass per atom is= 
+    1.054D-25  
+Kg/Atom 

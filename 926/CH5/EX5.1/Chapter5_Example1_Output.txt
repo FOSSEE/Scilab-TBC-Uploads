@@ -1,0 +1,10 @@
+
+ (a) Composition by Volume 
+     Ether Vapor 59.3 % 
+     Nitrogen 40.7 %
+ (b) Composition by Weight 
+     Ether Vapor 79.4 % 
+     Nitrogen 20.6 %
+ (c) Weight of ether per cu ft of mixture is 0.112 lb 
+ (d) Weight of vapor per lb Nitrogen is 3.86 lb 
+ (e) Moles of vapor per mole of nitrogen is 1.459

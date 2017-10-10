@@ -1,0 +1,16 @@
+disp("Part a");
+r1=40;
+r2=60;
+r3=24;
+r=r1*r2/(r1+r2)+r3;
+disp("the total resistance (in Ω) of the circuit is"); disp(r);
+disp("Part b");
+v=48;
+i=v/r;
+disp("the current drawn (in A) from the source is"); disp(i);
+disp("Part c");
+i1=i*r1/(r1+r2);
+disp("the current drawn (in A) through the 60 Ω resistor is"); disp(i1);
+disp("Part d");
+v3=i*r3;
+disp("the volatge (in V) across the 24 Ω resistor is"); disp(v3);

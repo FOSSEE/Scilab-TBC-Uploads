@@ -1,0 +1,6 @@
+
+The value of apparent kLa: 5.7 (sec-1)
+ The value of predicted kLa: 0.28 (sec-1)
+The absorption of oxygen is greatly enhanced by chemical reactions in the liquid film
+The kinetics can be approximated by a first-order expression,the reaction would fall in the pseudo-first-order regime,
+where the rate varies with the square root of the oxygen diffusivity and the rate constant.

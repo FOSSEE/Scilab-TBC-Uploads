@@ -1,0 +1,1 @@
+number of gates that can be attached to v without risk of error in logic, n < 15

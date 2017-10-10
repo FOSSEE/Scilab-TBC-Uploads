@@ -1,0 +1,24 @@
+
+ Part a   
+ 
+ the reading of voltmeter (in V) connected across the coil is   
+ 
+    40.  
+ 
+ Part b   
+ 
+ th phase angle (in deg) between the applied voltage and the current is   
+ 
+    60.  
+ 
+ Part c   
+ 
+ the current (in A) in the circuit is   
+ 
+    0.6  
+ 
+ Part d   
+ 
+ the inductance (in H) of the coil is   
+ 
+    0.4594407  

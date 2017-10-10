@@ -1,0 +1,29 @@
+ 
+ With regard to Example 1.4 suppose the  
+      cylinder is a water quality sample 
+       bottle used to collect water samp 
+      les at a predetermined depths.At d 
+      eep Depths the sample Bottle has a 
+       smaller volume to collect 995 cm^ 
+      3 due to compression.Suppose that  
+      analysis reveals that 15 mg of sed 
+      iment are collected.What would be  
+      the difference in concerntration d 
+      ata measured shipboard where the p 
+      ressure is atmospheric versus the  
+      in situ depths where the sample wa 
+      s collected?                       
+ 
+ Solution:   
+ 
+ Concerntration of shipboard   
+ 
+    0.015  
+ 
+ mg/cm^3   
+ 
+ Concerntration of in situ depth   
+ 
+    0.0150754  
+ 
+ mg/cm^3   

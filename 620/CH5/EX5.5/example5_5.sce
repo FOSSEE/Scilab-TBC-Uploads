@@ -1,0 +1,13 @@
+disp("Part a");
+r=82;
+v1=9;
+v2=3;
+v=v1-v2;
+i=v/r;
+disp("the normal current (in mA) flowing in the circuit is"); disp(i*10^3);
+disp("Part b");
+r1=v2/i;
+i1=v1/r1;
+disp("the current (in mA) flowing through the resistor is"); disp(i1*10^3);
+disp("Part c");
+disp("select the nearest standard fuse above the normal operating current : 0.1 A");

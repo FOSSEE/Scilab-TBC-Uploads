@@ -1,0 +1,7 @@
+ 
+ Example 19.4
+
+ Power input is 9.552761 kW, 
+ Volumetric efficiency is 55.465731 percent, 
+ Bore of the cylinder is 0.184932 m, 
+ Stroke of the cylinder is 0.277398 m 

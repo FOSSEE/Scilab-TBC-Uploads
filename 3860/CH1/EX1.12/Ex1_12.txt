@@ -1,0 +1,8 @@
+ 
+ Addition of two Binary number 0110 and 0111 is = 
+
+ 1101
+
+ Addition of two Binary number 1101 and 0101 is = 
+
+ 10010

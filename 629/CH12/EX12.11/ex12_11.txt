@@ -1,0 +1,3 @@
+ 
+ The static pressure at the exit = 603 kPa.
+ 

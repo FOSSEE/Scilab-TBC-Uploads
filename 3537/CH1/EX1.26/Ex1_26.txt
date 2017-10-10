@@ -1,0 +1,1 @@
+ Amplitude A=1.414*a 

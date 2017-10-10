@@ -1,0 +1,6 @@
+
+ g = x' + xyz
+
+   = x'yz + x'yz' + x'y'z + x'y'z' + xyz
+
+ g(x,y,z) = summation of minterms( 3,2,1,0,7) = summation of minterms ( 0,1,2,3,7)

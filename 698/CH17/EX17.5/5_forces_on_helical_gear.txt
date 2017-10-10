@@ -1,0 +1,8 @@
+(a)Ft=Mt/r
+	=1600 N
+
+(b)Fr=Ft*tan(phi_t)
+	=582 N
+
+(c)Fa=Ft*tan(alpha)
+	=923 N

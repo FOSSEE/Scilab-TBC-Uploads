@@ -1,0 +1,7 @@
+Phase current, Ip = 3.46 A
+
+Line current, Il = 6 A
+
+Power factor, pf = 0.6 lagging
+
+Total power, P = 1295 W

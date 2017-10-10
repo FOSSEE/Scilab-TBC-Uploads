@@ -1,0 +1,2 @@
+ Change in Enthalpy of reaction = 1.61*10^2 kJ mol^-1
+ Entropy Change for the reaction = 108 J K^-1 mol^-1

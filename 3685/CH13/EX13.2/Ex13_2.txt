@@ -1,0 +1,4 @@
+ 
+ Example 13.2
+
+ Air standard efficiency is 59.867691 percent 

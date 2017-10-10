@@ -1,0 +1,12 @@
+(a)Torque on the worm
+	Mt=47.7 Nm
+
+(b)Tangential force on worm
+	Ft_worm=Mt/r =1340 N
+
+(c)Tangential force on gear
+	Ft_gear=Ft_worm* (1- (f*tand(alpha))/cosd(phi_n))/(tand(alpha) + f/cosd(phi_n)) =3476 N
+
+(d)Separating force
+	Fr=Ft_gear* sind(phi_n)/(cosd(phi_n)*cosd(alpha) + f*sind(alpha)) =1273 N
+

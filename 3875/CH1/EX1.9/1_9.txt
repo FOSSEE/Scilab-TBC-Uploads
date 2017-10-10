@@ -1,0 +1,3 @@
+(a) The capacitance of the circuit is 8e-06 F
+
+(b) The value of current is = 0.3 A

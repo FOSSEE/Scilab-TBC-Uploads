@@ -1,0 +1,2 @@
+ a)
+ As 1.8243e-03 cm is less than the given length of the n-region i.e 22 micro-m, device will only have avalanche breakdown 

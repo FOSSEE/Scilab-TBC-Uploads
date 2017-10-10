@@ -1,0 +1,3 @@
+ a)Doping value= 1.109e+16 cm^-3
+c)resistivity of the doped pieces of silicon= 0.4025 ohm-cm
+c)resistivity of the undoped pieces of silicon= 2.2e+05 ohm-cm ohm-cm 

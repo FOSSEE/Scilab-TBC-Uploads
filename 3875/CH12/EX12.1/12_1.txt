@@ -1,0 +1,3 @@
+The energy of the particle is = 2.96e-20 Joules
+The momentum of the particle is = 9.94e-24 kg-ms^-1
+The probability of finding particle between x=0 and x=L/3 is = 0.333333

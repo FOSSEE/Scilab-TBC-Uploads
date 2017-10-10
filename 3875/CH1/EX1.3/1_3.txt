@@ -1,0 +1,2 @@
+Amplitude of oscillation = 1.26e-02 m
+Phase relative to the applied force is = 161.6 degree

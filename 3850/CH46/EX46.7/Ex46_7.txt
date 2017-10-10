@@ -1,0 +1,3 @@
+
+ Kinetic Energy of each deuteron so that the closest seprations between them becomes 2 fm = 5.8*10^-14 J
+ Temperature needed for the deutrons to have the Average Kinetic Energy = 2.8*10^9 K

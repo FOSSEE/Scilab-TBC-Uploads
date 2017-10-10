@@ -1,0 +1,4 @@
+The energy associated with line 1 is E1=-54.4 eV
+The energy associated with line 2 is E2=-13.6 eV
+The energy associated with line 3 is E3=-6.04 eV
+The first line of balmer series is lamda=163 nm and belongs to the ultraviolet region 

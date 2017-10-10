@@ -1,0 +1,5 @@
+ From equation the offset voltage is Vth. 
+Vth = -0.030864 V  
+We next find the bridge Thevenin Resistance form equation as : Rth = 2012.345679 ohm 
+Finally the current is given by the equation Ig = -0.000015 Ampere 
+The negative sign on current simply means that current flows fromright to left. 

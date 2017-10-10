@@ -1,0 +1,3 @@
+ 
+The maximum depth assured of having laminar flow = 0.062 ft.
+ 

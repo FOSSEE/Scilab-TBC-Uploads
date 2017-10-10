@@ -1,0 +1,4 @@
+  
+ Example 12.1
+ The work required in saturated liquid form is -0.938700 kJ/kg
+ The work required in saturated vapor form is -520 kJ/kg

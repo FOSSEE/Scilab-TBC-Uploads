@@ -1,0 +1,24 @@
+b=280//width, in mm
+D=540//overall depth, in mm
+Ast=5*0.785*22^2//five 22 mm dia bars on tension side, in sq mm
+Asc=4*0.785*20^2//four 20 mm dia bars on compression side, in sq mm
+bottom_cover=40//in mm
+top_cover=30//in mm
+sigma_cbc=5//in MPa
+sigma_st=140//in MPa
+m=18.66//modular ratio
+d=D-bottom_cover//effective depth, in mm
+//to find critical depth of neutral axis
+Xc=d/(1+sigma_st/(m*sigma_cbc))//in mm
+//to find x using b(x^2)/2 + (1.5m-1)Asc(x-d')=mAst(d-x), which becomes of the form px^2+qx+r=0
+p=b/2
+q=(1.5*m-1)*Asc+m*Ast
+r=-(1.5*m-1)*Asc*top_cover-m*Ast*d
+x=(-q+sqrt(q^2-4*p*r))/(2*p)//in mm
+//as x<Xc, beam is under-reinforced
+sigma_cbc=(sigma_st/m)*x/(d-x)//in MPa
+sigma_cbc_dash=sigma_cbc*(x-top_cover)/x//in MPa
+sigma_sc=1.5*m*sigma_cbc_dash//in MPa
+//stress in compression steel is found to be less than its permissible limit of 130 N/mm^2
+Mr=b*x*sigma_cbc*(d-x/3)/2+(1.5*m-1)*Asc*sigma_cbc_dash*(d-top_cover)//in N-mm
+mprintf("Moment of resistance of the beam=%f kN-m",Mr/10^6)

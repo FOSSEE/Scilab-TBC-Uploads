@@ -1,0 +1,36 @@
+ 
+        A'B' A'B  AB   AB' 
+
+ C'D'    1    1         1 
+
+ CD'               1    1
+
+ CD      1    1         1
+
+ CD'     1         1    1
+
+  From the map, high outputs are for 0,1,2,6,7,8,10,11, 12,13,14
+
+   0.   0.   0.   0.
+   0.   0.   0.   1.
+   0.   0.   1.   0.
+   0.   1.   1.   0.
+   0.   1.   1.   1.
+   1.   0.   0.   0.
+   1.   0.   1.   0.
+   1.   0.   1.   1.
+   1.   1.   0.   0.
+   1.   1.   0.   1.
+   1.   1.   1.   0.
+
+  Evaluating expression from truth table and map 
+
+!A'B'C' D'  +  A'B'C'D  +  A'B'C D'  +  A'BC D'  +  A'BCD  +  AB'C' D'  +  AB'C D'  +  AB'CD  +  ABC' D'  +  ABC'D  +  ABC D'  !
+
+ The resulting three equally good answers are
+
+ F = A'C'D' + AC'D + A'CD + ACD' + B'D' + AB'
+
+ F = A'C'D' + AC'D + A'CD + ACD' + B'D' + B'C
+
+ F = A'C'D' + AC'D + A'CD + ACD' + AB' + B'C

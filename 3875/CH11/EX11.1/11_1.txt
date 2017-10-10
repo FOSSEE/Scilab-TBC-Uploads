@@ -1,0 +1,2 @@
+The no of electrons striking the target are = 6.25e+16
+The minimum wavelegth of the emitted Xrays is = 4.97e-11 m

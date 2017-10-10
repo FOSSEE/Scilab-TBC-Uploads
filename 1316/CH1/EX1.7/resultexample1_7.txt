@@ -1,0 +1,2 @@
+ Here the value of current for 66 degree celcius = 11.36 mA 
+Here the value of temperature for 6.5mA current = 35.63 degree celcius

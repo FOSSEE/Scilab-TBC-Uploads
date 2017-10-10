@@ -1,0 +1,1 @@
+Angular acceleration is alpha=0.384 rad/sec^2 

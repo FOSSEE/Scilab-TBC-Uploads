@@ -1,0 +1,12 @@
+disp("Part a");
+c=0.1*10^(-6);
+i=5*10^(-3);
+v=10;
+f=1000;
+x_c=1/(2*%pi*f*c);
+z=v/i;
+r=sqrt(z^2-x_c^2);
+disp("the resistance (in kΩ) required is"); disp(r*10^(-3));
+disp("Part b");
+deg=-atan(x_c/r)*180/%pi;
+disp("the phase angle (in deg) between applied voltage and current is"); disp(deg);

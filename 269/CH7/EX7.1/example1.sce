@@ -1,0 +1,10 @@
+Syms t s
+disp('given')
+disp('u(t)=1 for t>=0 else its 0')
+y=laplace(1,t,s)
+disp("The laplace is")
+disp(y)
+disp('similarly')
+disp('laplace of V0 is')
+x=laplace('V0',t,s)
+disp(x)

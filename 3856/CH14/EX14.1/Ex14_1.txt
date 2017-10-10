@@ -1,0 +1,2 @@
+ Energy of blue light for one mole of photon = 275 kJ mol^-1
+ Energy of red light for one mole of photon = 176 kJ mol^-1

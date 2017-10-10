@@ -1,0 +1,7 @@
+the polar form of the total voltage has a magnitude (in V) of   
+ 
+    50.  
+ 
+ with a phase angle (in degrees) of   
+ 
+    53.130102 

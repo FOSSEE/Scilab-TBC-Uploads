@@ -1,0 +1,7 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 10\exa10_2.sce', -1)
+ 
+ Current Phasor(Amps)=   
+ 
+    4.8 - 6.4i  

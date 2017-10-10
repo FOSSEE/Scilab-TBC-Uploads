@@ -1,0 +1,2 @@
+ 
+The wing area = 394 ft^2 and the minimum induced drag = 86.1 lbf.

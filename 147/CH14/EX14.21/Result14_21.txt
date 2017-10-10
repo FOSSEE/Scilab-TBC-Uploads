@@ -1,0 +1,3 @@
+(a) The rotor speed, n = 1710 rpm
+
+(b) The rotor copper losses, Pc = 6 kW

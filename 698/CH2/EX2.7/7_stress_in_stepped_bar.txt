@@ -1,0 +1,12 @@
+The force produces deflection in both the portions of steel.
+Total deflection will be sum of inividual deflections.
+The deflection is given by:
+		x=(F*L)/(A*E)
+		x=x1+x2
+
+The total deflection is 3.183 mm
+
+	Stress=Force/Area
+
+The tensile stress at larger cross section area is 25.46 MPa
+The tensile stress at smaller cross section area is 101.86 MPa

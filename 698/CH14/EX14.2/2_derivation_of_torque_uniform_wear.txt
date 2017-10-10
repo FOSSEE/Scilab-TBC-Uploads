@@ -1,0 +1,32 @@
+When a clutch is new, the pressure may be rather uniform.
+If the surfaces are relatively rigid, the outer portion, where velocity is high,
+will wear more than inner portion.
+After the initial wearing-in,it is reasonable to assume that the curve of the profile will maintain its shape;
+or, the wear thereafter may be considered to be uniform.
+Uniform wear can be expressed in a different way by saying that
+at any time interval, the work done per unit area is constant:
+[(frictional force)*(velocity)]/area = 
+	[(f*p*2*pi*r dr)*(rw)]/(2*pi*r dr) = constant C
+or
+	p=C'/f*r*w	 Since f and w are constant,
+	p=C/r, where C is constant.
+An alternate method of showing that pressure varies inversely as the radius is
+to consider that wear (delta) is proportional to pressure p and velocity V.
+Thus 
+	(delta)=K*p*V=K*p*(r*w),
+or
+	p=C/r		since (delta) and K are constants and w is fixed for a given clutch.
+The differential frictional torque=dT= r(f*p(2*pi*r dR));
+
+Intergrating with respect to r over r=Ri to r=Ro,
+we get the total torque as
+		T=2*pi*f*C[((Ro^2)-(Ri^2))/2]
+
+To find C, we can integrate p(2*pi*r dr) with respect to r over r=Ri to r=Ro
+We get
+		C=F/(2*pi*(Ro-Ri))
+
+Substituting this value of C into T
+We obtain
+
+		T=F*f*[(1/2)*(Ro+Ri)] = F*f*Rf

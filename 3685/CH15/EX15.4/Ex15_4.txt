@@ -1,0 +1,5 @@
+ Example 15.4
+
+ Capacity of the cooling coil is 33.788050 tonnes
+ Capacity of the heating coil is 18.771139 kW
+ Rate of water vapor removal is 0.031911 kg/s 

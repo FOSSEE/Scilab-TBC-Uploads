@@ -1,0 +1,4 @@
+
+ Dry bulb temperature of air leaving the drier =  90 degree F
+ wet bulb temperature of air leaving the drier = 90 degree F
+ Percentage saturation of air leaving the drier is 35 percent

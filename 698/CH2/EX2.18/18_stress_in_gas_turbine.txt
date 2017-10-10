@@ -1,0 +1,10 @@
+Given 
+	Sx= 20 MPa and 
+	Sy= 50 MPa
+
+Maximum normal stress
+	Sn(max)=Sy
+
+Maximumshear stress
+	Tmax=(Sn_max-0)/2
+	=25.0 MPa (shear)

@@ -1,0 +1,7 @@
+
+ The line of action for vertical force, xcp = 0.957m
+ and for horizontal force, ycp = 5.067m
+
+
+ Hydrostatic force on curved surface AB = 146.9 kN at 48 degrees to the horizontal.
+ 

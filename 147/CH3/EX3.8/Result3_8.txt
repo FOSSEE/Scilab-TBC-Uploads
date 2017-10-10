@@ -1,0 +1,5 @@
+Voltage across R2 and Xc = 100 arg(-30 degree) V 
+Voltage across R1 = 100 arg(30 degree) V 
+Current through R1, I = 10 arg(30 degree) A 
+Current through R2, I1 = 5 arg(-30 degree) A 
+Current through capacitor, I2 = 8.66 arg(60 degree) A

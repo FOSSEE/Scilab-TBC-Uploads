@@ -1,0 +1,6 @@
+ 
+ Example 15.11 
+
+ DBT of air leaving the coil is 18.600000 degree celsius,
+ WBT of air leaving the coil is 12.500000 degree celsius,
+ Coil bypass factor is 0.525427 

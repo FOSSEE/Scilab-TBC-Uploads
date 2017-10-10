@@ -1,0 +1,1 @@
+ Thickness of silicon= 0.016 cm 

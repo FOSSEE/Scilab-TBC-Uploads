@@ -1,0 +1,8 @@
+ 
+ Example 20.5
+
+ Indicated power = 15.118915 kW
+ Brake power = 11.178834 kW
+ Mechanical efficiency = 73.939394 percent,
+ Indicated thermal efficiency = 29.105932 percent,
+ Brake thermal efficiency = 21.520750 percent 

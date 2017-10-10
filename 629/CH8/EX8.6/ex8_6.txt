@@ -1,0 +1,3 @@
+ 
+ The pressure difference between two points on the prototype = 178 Pa.
+ 

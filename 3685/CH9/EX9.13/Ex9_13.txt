@@ -1,0 +1,5 @@
+ 
+ Example 9.13
+ Final pressure is 3.500000 bar
+ Steam quality is 0.870000 
+ Entropy change during the process is 0.422700 kJ/K 

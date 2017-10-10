@@ -1,0 +1,12 @@
+ 
+ Example 6.12
+
+ The chemical energy of carbon is  410541 kJ/k mol
+ The chemical energy of hydrogen is  235211 kJ/k mol
+ The chemical energy of methane is  821580 kJ/k mol
+ The chemical energy of Carbon monoxide is  275364 kJ/k mol
+ The chemical energy of liquid methanol is  716698 kJ/k mol
+ The chemical energy of nitrogen is  691 kJ/k mol
+ The chemical energy of Oxygen is  3946 kJ/k mol
+ The chemical energy of Carbon dioxide is  20108 kJ/k mol
+ The chemical energy of Water is  5 kJ/k mol 

@@ -1,0 +1,2 @@
+ Gibbs Energy of mixing = -6.9 kJ
+Entropy of mixing = 23 J K^-1

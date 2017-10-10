@@ -1,0 +1,6 @@
+ 
+ Example 19.24
+
+ Speed of impeller = 7181.025316 RPM,
+ Impeller width at inlet = 7.370608 cm,
+ Impeller width at outlet = 1.876801 cm,

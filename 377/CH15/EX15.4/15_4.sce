@@ -1,0 +1,14 @@
+disp("λ=c*h/E");
+h=6.626*10^-34;
+c=2.998*10^8;
+E=1.5*10^-19;
+d=c*h/E;
+printf('\nThe value of λ is %fμm',d*10^6);
+n=0.65;
+e=1.602*10^-19;
+R=n*e/E;
+printf('\nThe value of R is %fA/W',R);
+disp("Po=Ip/R");
+Ip=2.5*10^-6;
+Po=Ip/R;
+printf('\nThe required incident opticalpower is %fμW',Po*10^6);

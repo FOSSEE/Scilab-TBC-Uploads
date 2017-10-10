@@ -1,0 +1,2 @@
+The density of the oil is Po=(Pw*(Hw/Ho)
+ Where Pw=1000 Kg Meter^3 and we can evaluate Po once Hw and Ho are measured 

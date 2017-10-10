@@ -1,0 +1,6 @@
+ 
+ Example 21.2
+
+ Flow velocity = 393 m/s,
+ The blade angle at the root = 57.283700 degree,and at the tip = 23.877367 degree,
+ The degree of reaction at the root = 63.955144 percent, and at the tip = 26 percent 

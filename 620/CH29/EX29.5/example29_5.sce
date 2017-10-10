@@ -1,0 +1,13 @@
+av=-40;
+k1=0.1;
+k2=0.2;
+k3=-0.01;
+disp("Part a");
+a1=av/(1-k1*av);
+disp("the overall voltage gain with 10 % negative feedback is"); disp(a1);
+disp("Part b");
+a2=av/(1-k2*av);
+disp("the overall voltage gain with 20 % negative feedback is"); disp(a2);
+disp("Part c");
+a3=av/(1-k3*av);
+disp("the overall voltage gain with 1 % positive feedback is"); disp(a3);

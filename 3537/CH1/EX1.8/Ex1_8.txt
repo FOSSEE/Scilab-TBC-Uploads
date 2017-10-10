@@ -1,0 +1,3 @@
+Angular position of 10th maximum is theta=3.125 degrees
+ The distance from centre where 1st minimum is obtained is 0.005460 metres
+ Angular  position with respect to center is theta=0.156 degrees 

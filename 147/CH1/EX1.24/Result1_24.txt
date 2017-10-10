@@ -1,0 +1,2 @@
+(a): R4 = 60 ohm
+(b): Current supplied by battery, I = 2.0 A

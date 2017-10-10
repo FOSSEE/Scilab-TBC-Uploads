@@ -1,0 +1,10 @@
+(a) Torsional amplitude of vibration is given by:
+	theta=To/sqrt((Kt-Jw2)^2+(Ct*w^2)^2)
+
+	theta=0.3334 rad
+
+(b) Maximum damping couple= Ct*w*theta = 0.5334 N-m
+
+(c)Phase angle phi =
+	tan(phi)=(Ct*w)/(Kt-J*w^2)
+phi=117.248 degrees

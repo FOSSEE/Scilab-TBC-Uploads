@@ -1,0 +1,4 @@
+ 
+ the theoretical ripple factor when compared with measured value is   
+ 
+    0.0241  

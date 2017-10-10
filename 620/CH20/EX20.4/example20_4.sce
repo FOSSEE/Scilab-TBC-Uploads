@@ -1,0 +1,10 @@
+v=120;
+f=60;
+l=5;
+disp("Part a");
+x_l=2*%pi*f*l;
+i=v/x_l;
+disp("the current (in mA) flowing is"); disp(i*10^3);
+disp("Part b");
+im=i*sqrt(2);
+disp("the equation for current is i = 0.091*sin(377t) A");

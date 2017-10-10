@@ -1,0 +1,8 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.6.sce', -1)
+ 
+ Output VOltage of this amplifier(in Volts)=   
+ 
+  - 25.  
+ 

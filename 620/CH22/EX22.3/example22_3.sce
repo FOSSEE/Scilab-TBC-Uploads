@@ -1,0 +1,11 @@
+r=10^3;
+c=10^(-6);
+v=10;
+disp("Part a");
+rate=v/(r*c);
+disp("the initial rate of rise of capacitor voltage (in V/s) is");disp(rate);
+disp("Part b");
+i=v/r;
+disp("initial charging current (in mA) is"); disp(i*10^3);
+disp("Part c");
+disp("final voltage (in V) is");disp(v);

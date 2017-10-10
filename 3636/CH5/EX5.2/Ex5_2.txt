@@ -1,0 +1,1 @@
+ built-in potential= 0.841 V

@@ -1,0 +1,2 @@
+ Assuming detector impedance to be very high , we find the offset as 
+Delta Vd = -0.020747 V  

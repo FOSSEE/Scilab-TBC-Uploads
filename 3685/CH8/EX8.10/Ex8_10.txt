@@ -1,0 +1,3 @@
+  
+ Example 8.10
+ The rate of energy loss because of the pressure drop due to friction 25.830000 kW 

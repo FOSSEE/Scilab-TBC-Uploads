@@ -1,0 +1,18 @@
+(a)Torque transmitting capacity of clutch is 119.366 Nm
+
+(b)To find axial thrust and dimensions, we need to solve the following equations:
+	F=pmax*2*pi*(Ri^2)*(r-1)---Eq 1
+	(F*Ri)=(2*T*sin(alpha))/(f*(1+r))---Eq 2
+
+(c)Width of face is half of mean radius:
+	b=(1/2)*Rm
+	Ro=r*Ri
+	where r=(4+sin (alpha))/(4-sin (alpha))
+
+(d)Solving the above equations, we get
+	MAIN DIMENSIONS:
+Inner radius of clutch is 125.00 mm
+Outer radius of clutch is 140.00 mm
+face width of clutch is 66.25 mm
+
+Axial force required to engage the clutch is 971.930 N

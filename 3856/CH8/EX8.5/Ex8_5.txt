@@ -1,0 +1,2 @@
+ (a)Force Between ions in vacuum = -2.31*10^-10 N
+(b)Force between ions in water = -2.94*10^-12 N

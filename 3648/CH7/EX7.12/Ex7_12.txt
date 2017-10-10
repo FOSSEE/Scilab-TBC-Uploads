@@ -1,0 +1,2 @@
+The orbital radius is r= 42250474 meters
+The orbital speed is v=3072 meters/sec 

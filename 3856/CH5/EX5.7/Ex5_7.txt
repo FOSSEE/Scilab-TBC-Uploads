@@ -1,0 +1,3 @@
+ Entropy change for the system = -41.2 J K^-1
+Entropy change for surrouding = 41.8 J K^-1
+Entropy change for universe = 0.6 J K^-1

@@ -1,0 +1,1 @@
+ Critical angle for GaAs-air interface= 15.9 degrees 

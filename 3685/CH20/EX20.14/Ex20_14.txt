@@ -1,0 +1,5 @@
+ 
+ Example 20.14
+
+ Thermal efficiency = 19.893582 percemt,
+ Gas consumption per kWh on indicated power basis = 1.041097 m^3/kWh 

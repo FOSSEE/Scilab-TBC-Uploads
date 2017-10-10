@@ -1,0 +1,2 @@
+The car is moving at vf=8.65 Meters/sec
+The positive sign of vf Indicate the car is moving in the direction the truck was moving 

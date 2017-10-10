@@ -1,0 +1,13 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 11\exa11_6.sce', -1)
+ 
+ Required value of C (Farad)=   
+ 
+    6.333D-08  
+ 
+ Required value of R(Ohms)=   
+ 
+    8133.2029  
+ 
+

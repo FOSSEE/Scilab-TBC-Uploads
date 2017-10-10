@@ -1,0 +1,26 @@
+clc
+phi1=0.8
+TDB=40 //in celsius
+w1=0.0284
+pw1=4.4 //in kPa
+h1star=114
+P=101.325
+R=8.314*10^3
+V=1
+M=28.97
+T1=313.15
+pa1=P-pw1
+ma1=(pa1*10^3*V*M)/(R*T1)
+mprintf("ma1=%fkg/s dry air\n",ma1)//ans vary due to roundoff error
+w4=0.0056
+h4star=34.5
+w2=w4
+h2star=20.5
+mw=ma1*(w1-w2)
+mprintf("mw=%fkg/s\n",mw)//ans vary due to roundoff error
+hw3=25.21
+Qc=ma1*(h1star-h2star)-(mw*hw3)
+mprintf("Qc=%fkJ/s\n",Qc)//ans vary due to roundoff error
+ma2=ma1
+Q=ma2*(h4star-h2star)
+mprintf("Q=%fkJ/s",Q)//ans vary due to roundoff error

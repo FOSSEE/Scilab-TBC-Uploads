@@ -1,0 +1,4 @@
+ 
+ Decimal equivalent of hexadecimal number:
+
+   746.

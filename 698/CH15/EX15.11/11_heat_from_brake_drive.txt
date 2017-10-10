@@ -1,0 +1,2 @@
+Hd=C*(T_surf-T-atm)*Ar
+Hd = 52.8 kW

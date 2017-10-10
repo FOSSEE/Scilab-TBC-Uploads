@@ -1,0 +1,18 @@
+it=10;
+e=0.03*it;
+disp("Part a");
+disp("the possible error (in mA) is");disp(e);
+disp("Part b");
+i1=1;
+i2=5;
+i3=10;
+disp("for 1 mA indication the range of values if from "); disp(i1-e); disp("to");disp(i1+e);
+disp("for 5 mA indication the range of values if from "); disp(i2-e); disp("to");disp(i2+e);
+disp("for 10 mA indication the range of values if from "); disp(i3-e); disp("to");disp(i3+e);
+disp("Part c");
+p1=e*100/i1;
+p2=e*100/i2;
+p3=e*100/i3;
+disp("for 1 mA reading the error (in %) is"); disp(p1);
+disp("for 5 mA reading the error (in %) is"); disp(p2);
+disp("for 10 mA reading the error (in %) is"); disp(p3);

@@ -1,0 +1,5 @@
+Equivalent impedance in high voltage terms Zs = 0.029 ohm
+Per unit Zs = 0.0413 pu
+Voltage regulation = 3.6 %
+Efficiency at rated load = 96.85 %
+Efficiency at half load = 97.28 %

@@ -1,0 +1,2 @@
+ (a)no. of atoms in each cell= 8
+(b)Density of atoms in silicon= 5e+22 atoms cm^-3 

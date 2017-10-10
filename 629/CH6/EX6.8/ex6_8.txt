@@ -1,0 +1,2 @@
+ 
+ The drag force on the device and support panes = 304 N.

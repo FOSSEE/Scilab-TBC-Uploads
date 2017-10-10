@@ -1,0 +1,7 @@
+the load current (in A) is   
+ 
+    17.4  
+ 
+ the load vltage (in V) is   
+ 
+    11.832 

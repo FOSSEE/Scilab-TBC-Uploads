@@ -1,0 +1,5 @@
+
+ the load voltage (in V) is   
+ 
+    11.25  
+ 

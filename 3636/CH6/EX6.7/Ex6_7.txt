@@ -1,0 +1,1 @@
+ Minority carrier hole concentration= 2.59e+14 cm^-3 

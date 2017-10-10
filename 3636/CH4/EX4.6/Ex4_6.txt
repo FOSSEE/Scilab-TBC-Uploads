@@ -1,0 +1,4 @@
+1)
+Hole mobility= 2000 cm^2/Vs
+2)
+Diffusion coefficient= 52.22 cm^2/s 

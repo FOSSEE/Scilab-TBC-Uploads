@@ -1,0 +1,8 @@
+Output voltage for (a)(in volts)=   
+ 
+    0.1  
+ 
+ Output voltage for (b)(in volts)=   
+ 
+    0.2  
+ 

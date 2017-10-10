@@ -1,0 +1,2 @@
+The current in the inductor when frequency=60 Hz is I=7.07 A
+The current in the inductor when frequency=6*10^2 Hz is I=0.000707 A 

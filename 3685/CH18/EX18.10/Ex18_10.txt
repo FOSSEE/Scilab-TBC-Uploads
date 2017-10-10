@@ -1,0 +1,4 @@
+ 
+ Example 18.10
+
+ Rate of heat dissipation is 59.329572 W 

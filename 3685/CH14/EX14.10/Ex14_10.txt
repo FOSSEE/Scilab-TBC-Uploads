@@ -1,0 +1,7 @@
+ 
+ Example 14.10
+
+ Power input is 4.334282 kW
+ Heating capacity is 20.972973 kW
+ COP is 4.838858
+ The isentropic compressor efficiency is 79.980309 percent 

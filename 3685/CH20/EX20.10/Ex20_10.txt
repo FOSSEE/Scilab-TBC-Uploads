@@ -1,0 +1,4 @@
+ 
+ Example 20.10
+
+ Minimum velocity of air required to start the flow = 8.776745 m/s

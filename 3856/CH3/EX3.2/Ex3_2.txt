@@ -1,0 +1,3 @@
+ Collision frequency of Nitrogen = 7.4*10^9 collisions s^-1
+Binary collision number = 9.3*10^28 collisions cm^-3 s^-1
+Mean free path of Nirogen = 640* A/collision

@@ -1,0 +1,3 @@
+ 
+ Example 9.7
+ The ideal work output of the turbine is 882.408049 kJ/Kg

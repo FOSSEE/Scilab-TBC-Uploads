@@ -1,0 +1,16 @@
+m_v1=50;
+m_v2=30;
+m_v3=75;
+deg_v1=20*%pi/180;
+deg_v2=50*%pi/180;
+deg_v3=-80*%pi/180;
+v1=m_v1*(cos(deg_v1)+%i*sin(deg_v1));
+v2=m_v2*(cos(deg_v2)+%i*sin(deg_v2));
+v3=m_v3*(cos(deg_v3)+%i*sin(deg_v3));
+v=v1+v2+v3;
+a=real(v);
+b=imag(v);
+m_v=sqrt(a^2+b^2);
+deg_v=atan(b/a)*180/%pi;
+disp("the the supply voltage (in V) has a magnitude of"); disp(m_v);
+disp("with a phase angle (in degrees) of"); disp(deg_v);

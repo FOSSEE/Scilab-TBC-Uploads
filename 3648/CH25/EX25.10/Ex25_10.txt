@@ -1,0 +1,3 @@
+The be-broglies wavelength is lamda= 
+    1.457D-11  
+Meters 

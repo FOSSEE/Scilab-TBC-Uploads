@@ -1,0 +1,17 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 8\exa8_4.sce', -1)
+ 
+ Load reactance for maximum power transfer(Ohms)=   
+ 
+    1000.i  
+ 
+ Turn ratio for maximum power transfer=   
+ 
+    2.5  
+ 
+ Maximum power transferred(Watts)=   
+ 
+    0.5  
+ 
+

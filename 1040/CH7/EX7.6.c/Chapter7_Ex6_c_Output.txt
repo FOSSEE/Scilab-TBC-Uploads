@@ -1,0 +1,3 @@
+
+	The calculated value of kLa (mass transfer coefficient) of solution:0.22 (sec-1)
+	The calculated value of average dissolved O2 concentration: 2.87 (mg/L)

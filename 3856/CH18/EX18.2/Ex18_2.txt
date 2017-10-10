@@ -1,0 +1,3 @@
+ (a)Optical Rotation of Lysine solution = +2 degree
+(b)Difference between the Refractive indices of the left and right circularly polarized light = 6.5*10^-8
+(c)Molar Rotation of Lysine solution = 19.7 dm^-1 cm^3 mol^-1

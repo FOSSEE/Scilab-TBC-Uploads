@@ -1,0 +1,6 @@
+Wavelength for n=1 is lamda=388.9pm
+Wavelength for n=1 is lamda=194.5pm
+Wavelength for n=1 is lamda=129.6pm
+Wavelength for n=1 is lamda=97.2pm
+Wavelength for n=1 is lamda=77.8pm
+For n=1,2,3 and >5 lamda lies beyond the range of wavelengths of polychromatic source 

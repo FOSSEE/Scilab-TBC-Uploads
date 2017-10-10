@@ -1,0 +1,34 @@
+ 
+ The water supply reservoir as shown in  
+      given figure has an average depth  
+      of 20m, a surface area of 20km^2,  
+      ans an outlet whose centerline is  
+      15m below the water surface.If the 
+       otflow diameter is 1 m, what is t 
+      he outflow and its associated velo 
+      city?What would be the drwa down d 
+      uring one week and one day periods 
+      ?                                  
+ 
+ Solution:   
+ 
+ Discharge   
+ 
+    13.473642  
+ 
+ m^3/s   
+ 
+ Hence drop down in level for one day an 
+      d one week are:                    
+ 
+ draw down of one day   
+ 
+    0.0582061  
+ 
+ m   
+ 
+ draw down of one week   
+ 
+    0.4074429  
+ 
+ m   

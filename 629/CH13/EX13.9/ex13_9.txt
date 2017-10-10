@@ -1,0 +1,3 @@
+ 
+The mass flow rate of air flowing through a venturi meter = 0.0264 kg/s.
+ 

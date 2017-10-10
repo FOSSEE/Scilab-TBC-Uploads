@@ -1,0 +1,1 @@
+The speed of electron is v=4150286.78 meters/sec 

@@ -1,0 +1,3 @@
+ 
+ The speed of sound in air at 15°C, c = 340 m/s.
+ 

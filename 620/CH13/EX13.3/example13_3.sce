@@ -1,0 +1,15 @@
+v1=10;
+fsd1=0.03;
+v2=5;
+i1=50*10^(-6);
+r1=20*10^3;
+fsd2=0.02;
+i2=10*10^(-6);
+disp("Part a");
+r=v2/i2-r1;
+disp("The resistance (in kΩ) is"); disp(r/1000);
+disp("Part b");
+e1=fsd1*v1*100/v2;
+e2=fsd2*i1*100/i2;
+e=e1+e2;
+disp("The maximum possible error is"); disp(e);

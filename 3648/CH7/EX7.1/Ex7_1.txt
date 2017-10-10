@@ -1,0 +1,2 @@
+ 70 degrees in radians is 1.22 radians 
+ 70 degrees in revolutions it is 0.194 revolutions 

@@ -1,0 +1,13 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 6\exa6.12.sce', -1)
+ 
+ Current in Polar form (Amps)  
+ 
+ Magnitude=   
+ 
+    3.8982243  
+ 
+ Phase(in Degree)=   
+ 
+    104.23916 

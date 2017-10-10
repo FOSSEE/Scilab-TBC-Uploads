@@ -1,0 +1,10 @@
+Output voltage(in volts),Required resistances R3,R2 and R1(in kilo ohm)=   
+ 
+    1.4  
+ 
+    1.  
+ 
+    27.  
+ 
+    0.9642857  
+ 

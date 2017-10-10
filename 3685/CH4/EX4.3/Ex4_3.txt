@@ -1,0 +1,9 @@
+  Example 4.3 
+ The completed table is:   
+ 
+    0.        2170.   - 2170.   
+    21000.    0.        21000.  
+  - 2100.     34500.  - 36600.  
+  - 35900.  - 53670.    17770.  
+
+ Net rate of work output is -283.333333 kW .

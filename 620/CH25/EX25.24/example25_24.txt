@@ -1,0 +1,12 @@
+
+ the load current (in A) has a magnitude of   
+ 
+    3.3081778  
+ 
+ with a phase angle (in deg) of   
+ 
+    24.993309  
+ 
+ load power (in W) is   
+ 
+    35.020929  

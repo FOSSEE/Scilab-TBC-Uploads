@@ -1,0 +1,4 @@
+ 
+ Example 8.9
+ The irreversibility rate is 15.820180 kW
+ The irreversibility rate at lower temperature is 3.033178 kW

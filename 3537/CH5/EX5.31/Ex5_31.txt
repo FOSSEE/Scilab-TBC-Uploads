@@ -1,0 +1,2 @@
+ As alpha1 != alpha2 that is 0.242!=0.209 	Metal is not bee
+Atomic diameter is a=0.21 nm 

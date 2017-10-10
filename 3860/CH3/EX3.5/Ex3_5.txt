@@ -1,0 +1,28 @@
+
+        A'B' A'B  AB  AB' 
+
+ C'D'    1         1      
+
+ CD'               1    
+
+ CD      1    1    1   1
+
+ CD'                    
+
+  From the map, high outputs are for 0,3,7,12,13,14,15 
+
+   0.   0.   0.   0.
+   0.   0.   1.   1.
+   0.   1.   1.   1.
+   1.   1.   0.   0.
+   1.   1.   0.   1.
+   1.   1.   1.   0.
+   1.   1.   1.   1.
+
+  Evaluating expression from truth table and map 
+
+!A'B'C' D'  +  A'B'CD  +  A'BCD  +  ABC' D'  +  ABC'D  +  ABC D'  +  ABCD  !
+
+ The reduced expression using boolean algebra
+
+ F = A'B'C'D' + ABC' + CD

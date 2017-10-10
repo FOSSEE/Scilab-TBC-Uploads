@@ -1,0 +1,2 @@
+ 
+The gage pressure at the bottom of the tank = 27.7 kPa gage.

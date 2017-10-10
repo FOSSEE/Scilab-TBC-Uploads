@@ -1,0 +1,1 @@
+ common-base current gain= 0.98 

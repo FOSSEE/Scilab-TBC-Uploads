@@ -1,0 +1,12 @@
+b=300//width, in mm
+d=800//effective depth, in mm
+Ast=3940//in sq mm
+Asc=795//in sq mm
+top_cover=40//in mm
+fck=15//in MPa
+fy=250//in MPa
+Xc=0.531*d//in mm
+fcc=0.446*fck//in MPa
+fsc=0.87*fy//in MPa
+Mu=(0.36*fck*b*Xc*(d-0.416*Xc)+(fsc-fcc)*Asc*(d-top_cover))/10^6//in kN-m
+mprintf("Moment of resistance of the beam = %f kN-m",Mu)

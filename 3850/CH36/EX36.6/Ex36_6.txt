@@ -1,0 +1,2 @@
+
+ True dip = 22.207654 degrees

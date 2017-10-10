@@ -1,0 +1,9 @@
+Transmissibility ratio = 1/(1 - r^2)
+	where r is the frequency ratio w/wn
+
+Natural Frequency wn=16.419 rad/s
+
+	wn=sqrt(k/m)
+where k is the stiffness and m is the mass
+Collective stiffness of the springs=10782.792 N/m
+Stiffness of each spring=3594.264 N/m

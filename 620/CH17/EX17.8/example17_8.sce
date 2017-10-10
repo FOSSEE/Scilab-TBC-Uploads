@@ -1,0 +1,11 @@
+lt1=500;
+lt2=50;
+disp("Part a");
+m=(lt1-lt2)/4;
+disp("the mutual inductance (in mH) is"); disp(m);
+disp("Part b");
+l=(lt1-2*m)/2;
+disp("the self-inductance (in mH) of each coil is"); disp(l);
+disp("Part c");
+k=m/sqrt(l^2);
+disp("the coefficient of coupling is");disp(k);

@@ -1,0 +1,2 @@
+h=(4*R* sin(0.5*theta))/(sin(theta) + theta)
+h = 275 mm

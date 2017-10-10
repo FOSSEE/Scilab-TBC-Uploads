@@ -1,0 +1,36 @@
+ 
+ Given truth table
+
+ ****************************************
+
+ A  B  C  |  f    f'
+
+ 0  0  0  |  1    1
+
+ 0  0  1  |  0    0
+
+ 0  1  0  |  1    0
+
+ 0  1  1  |  1    0
+
+ 1  0  0  |  1    0
+
+ 1  0  1  |  0    0
+
+ 1  1  0  |  0    1
+
+ 1  1  1  |  0    1
+
+ f(A,B,C) = summation(1,2,3,4,5)
+
+ The complement of function is as given below
+
+ f'(A,B,C) = summation(0,6,7)
+
+            = A'B'C' + ABC' + ABC 
+
+            = A'B'C' + AB
+
+ f = (A + B + C)(A' + B'
+
+ This is the reduced POS expression

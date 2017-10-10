@@ -1,0 +1,3 @@
+Distance it travels is y=11.5 meters
+The speed is vf=-15 meters/sec
+Time taken is T=3.06 sec 

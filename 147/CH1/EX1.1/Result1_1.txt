@@ -1,0 +1,3 @@
+(a) Temperature coefficient of resistance of the material, a = 2.26e-003 per degree C
+
+(b) Resistance of coil at 100 degree C, R100 = 4.69 ohm

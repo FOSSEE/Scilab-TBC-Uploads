@@ -1,0 +1,7 @@
+ 
+ Example 9.1
+ At 1 MPa, 
+ saturation temperature is 179.910000 degree celcius
+ Changes in specific volume is 0.193313 m^3/kg
+ Change in entropy during evaporation is 4.447800 kJ/kg K
+ The latent heat of vaporization is 2015.300000 kJ/kg 

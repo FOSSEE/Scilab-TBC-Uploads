@@ -1,0 +1,13 @@
+
+ Part a   
+ 
+ the voltage gain is   
+ 
+    66.666667  
+ 
+ Part b   
+ 
+ the voltage gain is   
+ 
+    200.  
+ 

@@ -1,0 +1,1 @@
+ The number of photons emitted per second = 3.49e+18

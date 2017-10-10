@@ -1,0 +1,10 @@
+Circuit components R1,R2(in kilo ohm) and actual UTP and LTP(in volts)=   
+ 
+    220.  
+ 
+    60.  
+ 
+    3.  
+ 
+  - 3.  
+ 

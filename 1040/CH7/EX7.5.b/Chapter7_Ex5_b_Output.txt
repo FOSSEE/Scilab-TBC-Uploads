@@ -1,0 +1,5 @@
+
+	The Dimensions of the reactor are 
+	Diameter:2 m
+	Height:14.34 m
+	 The upper limit value of reactor height is 15 m and diameter is 2 m

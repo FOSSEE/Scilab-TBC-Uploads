@@ -1,0 +1,8 @@
+ 
+ in polar form the current (in A) has a magnitude of   
+ 
+    0.9230769  
+ 
+ with a phase angle (in degrees) of   
+ 
+    67.380135

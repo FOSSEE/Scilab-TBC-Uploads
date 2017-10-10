@@ -1,0 +1,9 @@
+	Sn_max=(Sx/2)+sqrt(((Sx/2)^2)+(Txy^2))
+	Sn_min=(Sx/2)-sqrt(((Sx/2)^2)+(Txy^2))
+	T_max=[Sn_max+Sn_min]/2
+
+The maximum normal stress is -300 N/m^2 and its nature is compressive
+
+The minimum normal stress is -1300 N/m^2 and its nature is compressive
+
+The maximum shear stress is -650 N/m^2

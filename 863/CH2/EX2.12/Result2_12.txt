@@ -1,0 +1,8 @@
+ Amplitude of output waveform for (a)Rise time(in volts)=   
+ 
+    0.8  
+ 
+ Amplitude of output waveform for (b)Fall time(in volts)=   
+ 
+  - 0.2666667  
+ 

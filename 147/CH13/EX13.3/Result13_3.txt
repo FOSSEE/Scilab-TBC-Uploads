@@ -1,0 +1,3 @@
+Total self-inductance, L = 5.66 mH
+
+Leakage inductance of coil, L1 = 0.093 mH

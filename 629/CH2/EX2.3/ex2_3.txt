@@ -1,0 +1,1 @@
+The space between board and the tramp = 0.117 mm.

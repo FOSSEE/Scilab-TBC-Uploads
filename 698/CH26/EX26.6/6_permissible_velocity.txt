@@ -1,0 +1,2 @@
+St=rho*v^2
+Neglecting bending in the rim, V=62.7 m/s

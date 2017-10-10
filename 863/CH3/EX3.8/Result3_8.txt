@@ -1,0 +1,6 @@
+Capacitance(in micro farad) and Resistance(in ohm)=   
+ 
+    0.4166667  
+ 
+    30000.  
+ 

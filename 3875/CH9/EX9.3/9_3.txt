@@ -1,0 +1,2 @@
+The numerical aperture is = 0.468
+The acceptance angle is = 27.9 degree.

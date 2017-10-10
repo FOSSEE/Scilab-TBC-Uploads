@@ -1,0 +1,2 @@
+Speed vf=12.65 meters/sec
+Time taken T=3.16 sec 

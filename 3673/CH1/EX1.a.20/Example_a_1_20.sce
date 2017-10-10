@@ -1,0 +1,21 @@
+//Example 1_20 page no:35
+clc;
+V=12;
+R=1;
+R=4;
+R=3;
+I=6;
+P=-V*I;
+disp(P,"the power absorbed by 12V source is (in W)");
+V1=6;
+P1=V1*I;
+disp(P1,"the power absorbed by 1ohm resistor is (in W)");
+V2=-2*3*6;
+P2=V2*I;
+disp(P2,"the power absorbed by 2v1 independent voltage source is (in W)");
+V3=18;
+P3=V3*I;
+disp(P3,"the power absorbed by 3ohm resistor is (in W)");
+V=4*6;
+P4=V*I;
+disp(P4,"the power absorbed by 4ohm resistor is (in W)");

@@ -1,0 +1,7 @@
+
+	The Apparent rate constants are 
+	 Run1: 1.96 hr-1 
+	 Run2: 1.27 hr-1  
+	The exponent value 0.7 
+	Exponent value greater than 0.5 hence the Eq.(8.24) is not consistent
+	The error maybe due to error in assuming a first order reaction

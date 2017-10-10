@@ -1,0 +1,3 @@
+The heat required for 400 gm of water is Q=2000 Cal
+The heat required for 400 gm of copper is Q=-186 Cal
+ 

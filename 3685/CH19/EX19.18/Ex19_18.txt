@@ -1,0 +1,8 @@
+ 
+ Example 19.18
+
+ The temperature of air at outlet = 233.053980 degree centigrade,
+ Power input = 300.644961 kW,
+ Diameter of impeller = 0.916123 m, 
+ Blade inlet angle = 14 degree,
+ Diffuser inlet angle = 7.912359 degree 

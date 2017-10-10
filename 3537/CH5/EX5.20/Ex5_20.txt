@@ -1,0 +1,2 @@
+ Cube edge of unit cell a= 
+    4.055D-10  meters 

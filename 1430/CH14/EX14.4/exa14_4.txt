@@ -1,0 +1,18 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_4.sce', -1)
+ 
+ I_1=V_1/R+(V_1-V_2)/(1/(s*C))   
+ 
+ =>I_1=(G+s*C)*V_1-s*C*V_2 -----equation(1)   
+ 
+ I_2=V_2/R+(V_2-V_1)/(1/(s*C))   
+ 
+ =>I_2=-s*C*V_1+(G+s*C)*V_2-----equation(2)   
+ 
+ Required Y Parameters=   
+ 
+    0.02 + 1.000D-07s   - 1.000D-07s          
+                                              
+  - 1.000D-07s            0.02 + 1.000D-07s   
+ 

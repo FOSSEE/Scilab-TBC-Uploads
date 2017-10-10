@@ -1,0 +1,4 @@
+
+ The calculated surface mean pore radius = 6e-07 cm
+ The predicted pore diffusivity = 2.18e-02 cm2/sec
+ The corresponding tortusity = 0.50

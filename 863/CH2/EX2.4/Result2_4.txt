@@ -1,0 +1,6 @@
+ (a)Ec at 1.5ms(in volts) and (b)Ec at 6ms(in volts)=   
+ 
+    7.8  
+ 
+    0.6  
+ 

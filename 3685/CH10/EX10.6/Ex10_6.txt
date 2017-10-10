@@ -1,0 +1,5 @@
+ 
+ Example 10.6
+ The heat received in the cycle is 137.268293 kJ
+ The heat rejected in the cycle 84.266695 kJ
+ The efficiency of the cycle is 39 percent 

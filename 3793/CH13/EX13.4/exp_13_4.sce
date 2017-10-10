@@ -1,0 +1,10 @@
+clear;
+clc;
+a=[complex(0,4.8) complex(0,4);complex(0,4) complex(0,4.24)];
+b=[complex(0,5.337) complex(0,5.2407);complex(0,5.2407) complex(0,5.3148)];
+wa=inv(a);
+wb=inv(b);
+mprintf("Ward eqiwalents for power system A is");
+disp(wa);
+mprintf("Ward equivalent for power system B is");
+    disp(wb);

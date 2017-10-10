@@ -1,0 +1,11 @@
+The maximum shear stress may occur at two locations:
+	a) Surface of the cantilever (due to bending moment)
+		 OR
+	b) Midsection of the cantilever (due to transverse shear load)
+
+
+Shear stress on the surface is 3.6 MN/m^2
+Shear stress at the midsection is 4.5 MN/m^2
+
+
+Maximum shear stress occurs at the midsection and is equal to 4.5 MN/m^2

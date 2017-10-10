@@ -1,0 +1,7 @@
+ 
+The power developed by the turbine = 14236 kW.
+
+Angular speed of wheel for maximum efficiency = 349 rpm.
+
+The torque on the turbine shaft = 390 kN.m
+ 

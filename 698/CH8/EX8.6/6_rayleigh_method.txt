@@ -1,0 +1,4 @@
+delta1 = 0.00002 rad/s
+delta2 = 0.00004 rad/s
+wc= 584.1 rad/s
+Nc= 5577.4 rad/s

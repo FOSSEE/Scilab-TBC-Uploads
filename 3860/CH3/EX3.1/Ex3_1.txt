@@ -1,0 +1,14 @@
+ 
+  The given function is having three input variables A , B and C
+
+  the minterms in adjacent squares can always be combined using the adjacency property
+
+  m0 + m1 : A'B'C'+ A'B'C = A'B'
+
+  m4 + m6 : AB'C' + ABC' = AC'
+
+  m1 + m5 : ABC + AB'C = AC
+
+  m0 + m4 : A'B'C' + AB'C' = B'C'
+
+  m1 + m5 : A'B'C + AB'C = B'C

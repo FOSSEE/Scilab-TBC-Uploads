@@ -1,0 +1,14 @@
+ 
+ Example 22.3 
+
+ The no of free paths which are longer than, 
+ 10 cm = 3679,
+ 20 cm = 1354,
+ 50 cm = 68,
+
+ The no of free paths which are between,
+ 5 cm and 10 cm = -2387,
+ 9.5 cm and 10.5 cm = -369,
+ 9.9 cm and 10.1 cm = -74,
+
+ The no of free paths which are exactly 10 cm = 0 

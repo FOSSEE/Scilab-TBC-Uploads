@@ -1,0 +1,1 @@
+Heat generated in bulb is=48000 J 

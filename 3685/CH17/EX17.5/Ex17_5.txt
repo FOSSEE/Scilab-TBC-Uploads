@@ -1,0 +1,7 @@
+ 
+ Example 17.5
+
+ Exit Mach number is 0.402000 
+ Exit pressure is 147.926048 kPa
+ Exit Stagnation pressure is 44.719500 kPa
+ Entropy increase is 0.068726 kJ/kg K 

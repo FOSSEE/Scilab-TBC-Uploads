@@ -1,0 +1,10 @@
+ 
+ f = bc + ac + ab 
+
+ f = bca + bca' + ac + ab 
+
+ f = bca + bca' + acb + acb' + abc + abc' 
+
+ f = abc + a'bc + abc + ab'c + abc + abc' 
+
+ f = a'bc + ab'c + abc' + abc 

@@ -1,0 +1,3 @@
+The value of the magnetic field is Bo= 
+    1.400D-11  
+T 

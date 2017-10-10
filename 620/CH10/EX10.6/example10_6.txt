@@ -1,0 +1,19 @@
+
+ Part a   
+ 
+ current (in A) through the load resistor is   
+ 
+    13.107692  
+ 
+ Part b   
+ 
+ current (in A) through the load resistor is   
+ 
+    6.816  
+ 
+ Part c   
+ 
+ current (in A) through the load resistor is   
+ 
+    4.6054054  
+ 

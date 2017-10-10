@@ -1,0 +1,6 @@
+ 
+ Example 19.22
+
+ Fluid deflection angle = 11.812325 degree,
+ Power input = 41.892843 kJ/kg,
+ The degree of reaction = 66 percent 

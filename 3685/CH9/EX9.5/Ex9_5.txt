@@ -1,0 +1,9 @@
+ 
+ Example 9.5
+ The pressure is 3.973000 MPa
+ The total mass of mixture is 9.573293 kg
+ Specific volume is 0.004178 m3/kg
+ Enthalpy is is 1188.134056 kJ/kg
+ The entropy is 2.989134 kJ/kg K
+ The internal energy is 1171.533708 kJ/kg
+ At 250 degree Celsius, internal energy is 1171.534455kJ/kg 

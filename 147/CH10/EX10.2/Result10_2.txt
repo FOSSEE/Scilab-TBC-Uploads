@@ -1,0 +1,3 @@
+Av = -9.979 
+Avideal = -10
+and percent error is -0.21 %

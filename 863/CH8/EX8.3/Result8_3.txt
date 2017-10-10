@@ -1,0 +1,6 @@
+ Duty cycle(in %) and PRF(in Khz)=   
+ 
+    68.965517  
+ 
+    2.0227102  
+ 

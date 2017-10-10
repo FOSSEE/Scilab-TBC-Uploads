@@ -1,0 +1,5 @@
+(a): Icq = 2.308 mA
+(b): Ps = 55.38 mW
+(c):Values of Po at 0,50% and 100% of maximum undistorted collector current are 0 , 3.33 and 13.31 mW respectively.
+(d): Values of Pc are 27.7, 24.36 and 14.38 mW
+(e): Values of efficiency are 0, 6.01 % and 24.04 %

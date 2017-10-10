@@ -1,0 +1,1 @@
+ The distance at which the 10th fringe will be obtained from the edge of the wedge is =2.85e-08 m

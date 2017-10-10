@@ -1,0 +1,6 @@
+ 
+ Example 12.11
+
+ The minimum pressure at which bleeding is neccessary is 10 bar
+ Steam flow at turbine inlet is 0.206238 kg/s
+ Cycle efficiency is 35.920381 percent 

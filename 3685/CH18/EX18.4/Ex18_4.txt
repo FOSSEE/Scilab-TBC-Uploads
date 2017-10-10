@@ -1,0 +1,5 @@
+ 
+ Example 18.4
+
+ Midway temperature of rod is 88.713878 degree Celcius
+ Heat loss rate is 88.033160W 

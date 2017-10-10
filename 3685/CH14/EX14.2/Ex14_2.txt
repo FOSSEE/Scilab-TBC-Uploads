@@ -1,0 +1,7 @@
+ 
+ Example 14.2
+
+ The rate of heat removal is 8.557200 kW
+ Power input to the compressor is 2.160600 kW
+ The heat rejection rate in the condenser is 10.717800 kW
+ COP is 3.960567 kW 

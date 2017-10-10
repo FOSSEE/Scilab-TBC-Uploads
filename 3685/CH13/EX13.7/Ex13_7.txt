@@ -1,0 +1,7 @@
+ 
+ Example 13.7
+
+ The thermal efficiency of the cycle is 40.066303 percent
+ Work ratio is 0.544952 
+ Power output is 40.066303 MW
+ Energy flow rate of the exhaust gas stream is 20.529786 MW 

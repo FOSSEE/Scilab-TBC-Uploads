@@ -1,0 +1,19 @@
+(a)Diameter of Gear=200 mm
+
+(b)Slant height of pitch cone:
+	L=sqrt(rp^2 + rg^2)=125 mm
+
+(c)Mean radius of pinion:
+	rm=rp-(b*sin(beta)*0.5)=60 mm
+
+(d)Pinion torque Mt=238 Nm
+
+(e)Tangential force at mean radius:
+	Ft=Mt/rm=3978 N
+
+(f)Pinion thrust force:
+	Fp=Ft*tan(phi)*sin(beta)=617 N
+
+(f)Gear thrust force:
+	Fg=Ft*tan(phi)*cos(beta)=823 N
+

@@ -1,0 +1,3 @@
+ Concentration of ion = 5*10^-6 M
+ Concentration of undissociated acid at equilibrium = 0.050 M
+Percent dissociation = 1*10^-2 percant 

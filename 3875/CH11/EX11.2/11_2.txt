@@ -1,0 +1,2 @@
+The interplanar spacing is = 2.84e-11 m
+The Braggs angle for second order reflection is = 61.3 degree

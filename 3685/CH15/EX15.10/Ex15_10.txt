@@ -1,0 +1,6 @@
+ 
+ Example 15.10 
+
+ Capacity of heating coil is 6.944444 kW,
+ Surface temperature of heating coil is 40 degree celsius,
+ Capacity of humidifier is 2.666667 kg/h

@@ -1,0 +1,3 @@
+  Resistivity= 0.156 ohm-cm
+Hall coefficient= -125 cm^3/c
+Hall Voltage= -6.25e-04 V 

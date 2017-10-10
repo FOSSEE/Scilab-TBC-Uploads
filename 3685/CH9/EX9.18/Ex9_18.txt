@@ -1,0 +1,3 @@
+ 
+ Example 9.18
+ The maximum cooling rate is 106 kW 

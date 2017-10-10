@@ -1,0 +1,1 @@
+Voltage across 6ohm resistance = 120e^(-90t)

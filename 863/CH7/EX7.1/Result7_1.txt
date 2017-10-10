@@ -1,0 +1,12 @@
+Required components for circuit design are Rc,Rb,R2,R1(in kilo ohm) and Vb1(in volts)=   
+ 
+    4.05  
+ 
+    190.  
+ 
+    48.5  
+ 
+    30.533333  
+ 
+  - 6.0540278  
+ 

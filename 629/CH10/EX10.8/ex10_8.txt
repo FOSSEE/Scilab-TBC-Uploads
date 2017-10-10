@@ -1,0 +1,2 @@
+ 
+The pressure drop in inches of water per 50 m of duct = 0.869 inch H2O.

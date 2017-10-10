@@ -1,0 +1,5 @@
+when n=0 then lemda1 is 0.00000026600 mts
+when n=1 then lemda2 is 0.00000008867 mts
+ when n=2 then lemda3 is 0.00000005320 mts
+ when n=3 then lemda4 is 0.00000003800 mts
+ Of all the wavelengths reflected in the visible region is 0.00000005320 mts 

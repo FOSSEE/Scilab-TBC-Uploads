@@ -1,0 +1,24 @@
+
+ Part a   
+ 
+ the time constant (in ms) of the circuit is   
+ 
+    20.  
+ 
+ Part b   
+ 
+ final value of the current (in mA) is   
+ 
+    50.  
+ 
+ Part c   
+ 
+ the initial rate of rise of current (in A/s) is   
+ 
+    2.5  
+ 
+ Part d   
+ 
+ time taken (in ms) to reach the final value of current is   
+ 
+    20.  

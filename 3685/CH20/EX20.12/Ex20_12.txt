@@ -1,0 +1,4 @@
+ 
+ Example 20.12
+
+ Power lost as a percentage of the power produced by the turbine = 27.572285 percent 

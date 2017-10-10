@@ -1,0 +1,4 @@
+Required frequency(in hz)=   
+ 
+    31.830989  
+ 

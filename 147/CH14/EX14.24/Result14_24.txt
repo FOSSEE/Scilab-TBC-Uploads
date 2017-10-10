@@ -1,0 +1,2 @@
+Rotor resistance per phase = 0.05 ohm
+Starting Torque = 238.9 N.m

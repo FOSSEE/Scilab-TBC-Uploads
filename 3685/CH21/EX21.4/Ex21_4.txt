@@ -1,0 +1,5 @@
+ 
+ Example 21.4
+
+ Total thrust developed = 6346.439922 N,
+ The specific fuel consumption = 0.029294 kg/kNs 

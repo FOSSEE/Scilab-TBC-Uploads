@@ -1,0 +1,12 @@
+disp("Part a");
+d=64.1;
+a=d^2;
+disp("the circular mil area is"); disp(a);
+disp("Part b");
+l=150;
+r1=2.52/1000;
+r=r1*l;
+disp("the resistance value (in Ω) is"); disp(r);
+disp("Part c");
+r2=r/4;
+disp("the resistance (in Ω) of no.8 gauge wire is"); disp(r2);

@@ -1,0 +1,14 @@
+At section A-A, Sy=0 and Txy=0
+
+	Sx=(P/A) + ((M1*c)/I)
+	Tmax = Sx/2
+
+Normal stress Sx = 158.4 MPa
+Shear stress Tmax = 79.2 MPa
+
+At section B-B, Sy=0 and Txy=0
+
+	Sx=((M1*c)/I)
+
+Normal stress Sx = 194.4 MPa
+Shear stress Tmax = 97.2 MPa

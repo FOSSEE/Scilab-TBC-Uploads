@@ -1,0 +1,3 @@
+
+ (a) Wet bulb temperature = 87 degree F 
+ (b) Dry bulb temperature = 140 degree F

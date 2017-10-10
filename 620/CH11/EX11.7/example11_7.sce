@@ -1,0 +1,17 @@
+phi=0.7*10^(-4);
+i=0.1;
+s1=0.01;
+a_cs=s1^2;
+s2=0.005;
+a_ss=s1*s2;
+b_cs=phi/a_cs;
+b_ss=phi/a_ss;
+h_cs=400;
+h_ss=1100;
+l_cs=0.035;
+l_ss=0.105;
+ni_cs=h_cs*l_cs;
+ni_ss=h_ss*l_ss;
+ni=ni_cs+ni_ss;
+n=ni/i;
+disp("the number of turns required in the coil is"); disp(n);

@@ -1,0 +1,1 @@
+Power factor for zero regulation = 0.869 leading

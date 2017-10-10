@@ -1,0 +1,2 @@
+
+ The maximum Magnetic Field = 2*10^-6 T in the z direction

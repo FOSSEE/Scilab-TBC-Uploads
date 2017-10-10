@@ -1,0 +1,3 @@
+ For sample A a=0.3673 nm
+For sample B a=0.3611 nm
+ Sample B is pure high purity copper as lattice parameter of A is 1.75percent greater than that of pure copper 

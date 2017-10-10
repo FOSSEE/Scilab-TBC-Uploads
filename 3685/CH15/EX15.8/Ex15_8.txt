@@ -1,0 +1,7 @@
+ 
+ Example 15.8
+
+ Temperature of water leaving the tower is 21.812805 degree celcius
+ Range of cooling water is 8.187195 degree Celsius
+ Approach of cooling water is 6.612805 degree celcius
+ Fraction of water evaporated is 0.012500 kg/kg dry air 

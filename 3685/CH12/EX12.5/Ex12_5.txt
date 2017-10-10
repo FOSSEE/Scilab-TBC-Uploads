@@ -1,0 +1,8 @@
+ 
+ Example 12.5
+
+ Efficiency of the cycle is 36.068757 percent
+ Steam rate of the cycle is 3.852647 kg/kW h
+ Increase in temperature due to regeneration is 27.386207 degree centigrade
+ Increase in steam rate due to regeneration is 0.385518 kg/kW h
+ Increase in Efficiency of the cycle due to regeneration is 1.902940 percent

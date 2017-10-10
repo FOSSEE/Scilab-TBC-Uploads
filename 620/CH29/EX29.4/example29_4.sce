@@ -1,0 +1,16 @@
+ic=5/1000;
+is=0.1/1000;
+disp("Part a");
+ai=ic/is;
+disp("current gain is"); disp(ai);
+disp("Part b");
+vo=5;
+vi=0.04;
+av=vo/vi;
+disp("voltage gain is"); disp(av);
+disp("Part c");
+ri=vi/is;
+disp("input resistance (in Ω) is"); disp(ri);
+disp("Part d");
+ap=av*ai;
+disp("power gain is"); disp(ap);

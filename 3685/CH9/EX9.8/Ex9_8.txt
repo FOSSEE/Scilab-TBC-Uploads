@@ -1,0 +1,5 @@
+ 
+ Example 9.8
+ Condition of steam after mixing is - 
+ pressure = 0.800000 MPa, temperature = 179.233604 degree centigrade
+ The velocity of steam leaving the nozzle is 508.659602 m/sec 

@@ -1,0 +1,18 @@
+  
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 10\exa10_11.sce', -1)
+ 
+ Gain for original tranfer function=   
+ 
+    25.  
+ 
+ Zeros for original transfer function=   
+ 
+  - 20000.  
+ 
+ Poles for original transfer function=   
+ 
+  - 10000. + 30000.i  
+  - 10000. - 30000.i  
+ 
+

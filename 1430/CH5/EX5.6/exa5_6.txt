@@ -1,0 +1,20 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 5\exa5.6.sce', -1)
+ 
+ Current through the inductor(in Amps)=   
+ 
+    0.5  
+ 
+ Voltage across the capacitor(in Volts)=   
+ 
+    20.  
+ 
+ Energy stored in inductor(Joules)=   
+ 
+    0.002  
+ 
+ Energy stored in Capacitor(Joules)=   
+ 
+    0.001  
+

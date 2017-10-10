@@ -1,0 +1,1 @@
+The recoil velocity of the gun is Vgf=-(m/M)*Vbf 

@@ -1,0 +1,14 @@
+vp=50;
+disp("Part a");
+vm=vp/2;
+disp("the peak volage (in V) is"); disp(vm);
+disp("Part b");
+deg1=2*%pi/3;
+deg2=3*2*%pi/5;
+deg3=5*2*%pi/4;
+v1=vm*sin(deg1);
+v2=vm*sin(deg2);
+v3=vm*sin(deg3);
+disp("the instantaneous volage (in V) at one-third the cycle is"); disp(v1);
+disp("the instantaneous volage (in V) at three-fifths he cycle is"); disp(v2);
+disp("the instantaneous volage (in V) at one-and-a-quarter cycle is"); disp(v3);

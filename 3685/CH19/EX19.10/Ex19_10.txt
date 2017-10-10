@@ -1,0 +1,7 @@
+ 
+ Example 19.10
+
+ The power required to drive the compressor = 18.484703 kW,
+ Diameter of cylinder = 24.539171 cm, 
+ Storke of the cylinder = 24.539171 cm,
+ Isothermal efficiency = 83.495502 percent 

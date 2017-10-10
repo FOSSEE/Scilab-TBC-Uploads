@@ -1,0 +1,2 @@
+
+ Number of turns in the primary coil = 660

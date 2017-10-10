@@ -1,0 +1,12 @@
+
+ current (in A) through R1 is   
+ 
+    2.4675325  
+ 
+ current (in A) through R2 is   
+ 
+    2.2727273  
+ 
+ current (in A) through R3 is   
+ 
+    0.5324675  

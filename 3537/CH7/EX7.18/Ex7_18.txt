@@ -1,0 +1,2 @@
+The numerical aperature is 0.582
+The acceptance angle is 35.62 degrees 

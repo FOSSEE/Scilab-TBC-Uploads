@@ -1,0 +1,9 @@
+The critical stress is at the section at which beam is fixed
+	Sy=0
+
+	Sx=(P/A)+(Mc/I).....Tensile stress
+
+	Txy=(T*(d/2))/J.....Shear stress
+
+The maximum tensile stress is 25.8 MN/m^2 (tension)
+The maximum shear stress is 13.2 MN/m^2 (shear)

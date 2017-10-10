@@ -1,0 +1,6 @@
+ 
+ Example 19.17
+
+ Power required to drive the compressor = 54.603965 kW,
+ Stagnatio temperature = 109.186150 degree centigrade,
+ Stagnation pressure = 160.465578 kPa 

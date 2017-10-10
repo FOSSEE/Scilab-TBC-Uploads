@@ -1,0 +1,2 @@
+Value of series resistor Rx = 212.1 ohm
+Power drawn from source P = 99.0 W

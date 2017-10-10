@@ -1,0 +1,4 @@
+ Wavelength of radiation for germanium= 1.85 micro-m
+Wavelength of radiation for silicon= 1.10 micro-m
+Wavelength of radiation for gallium-arsenide= 0.87 micro-m
+Wavelength of radiation for SiO2= 0.14 micro-m

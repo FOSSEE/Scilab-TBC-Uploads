@@ -1,0 +1,4 @@
+Current in wire 1 is I1=2 A
+Current in wire 2 is I2=4 A
+Current in wire 3 is I3=2 A
+The charge on the capacitor is q=0.00001 C 

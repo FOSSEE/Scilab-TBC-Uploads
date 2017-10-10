@@ -1,0 +1,8 @@
+  
+ Breakdown voltage is (V)=    
+ 
+    154.37  
+ 
+ Breakdown electric field is (V/m)=    
+ 
+    2.57D+07  

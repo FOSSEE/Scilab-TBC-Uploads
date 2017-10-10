@@ -1,0 +1,8 @@
+
+The Peak Radial average bed temperature for given Velocities
+==========================================================
+  u(velocity)     delta_T
+  (ft/s)           (°C)
+==========================================================
+  1.5 	  	  25
+  3.0 	  	  16

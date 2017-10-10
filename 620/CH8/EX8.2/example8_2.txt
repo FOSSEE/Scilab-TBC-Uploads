@@ -1,0 +1,13 @@
+
+ Part a   
+ 
+ the length of time (in h) for which the cell can deliver current is   
+ 
+    50.4  
+ 
+ Part b   
+ 
+ the length of time (in h) for which the cell can deliver current is   
+ 
+    57.6  
+ 

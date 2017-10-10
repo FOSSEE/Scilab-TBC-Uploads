@@ -1,0 +1,8 @@
+
+The Overall Heat transfer coefficient for given Velocities
+==========================================================
+  u(velocity)     U
+  (ft/s)     (cal/cm2 sec K)
+==========================================================
+ 1.50       0.002705
+ 3.00       0.004240

@@ -1,0 +1,18 @@
+r1=1;
+r2=3;
+r3=3;
+r4=2.5;
+r5=6;
+r6=6;
+r7=6;
+r8=3;
+r9=2.5;
+v=24;
+r_1=r2*r3/(r2+r3);
+r_2=r5/3;
+r_3=r1+r4+r_1;
+r_4=r_2+r8;
+r=1/(1/r_3+1/r_4+1/r9);
+disp("the total resistance (in kΩ) is"); disp(r);
+i=v/r;
+disp("the total current supplied (in mA) by the source is"); disp(i);

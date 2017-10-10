@@ -1,0 +1,1 @@
+ Collector-emitter voltage at saturation= 0.16 V 

@@ -1,0 +1,7 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.4.sce', -1)
+ 
+ Power consumed by the Headlight (in Watt)=   
+ 
+    60.  
+

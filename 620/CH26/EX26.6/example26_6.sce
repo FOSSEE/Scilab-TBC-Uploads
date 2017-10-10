@@ -1,0 +1,12 @@
+r=300;
+x_l=400;
+i=2.6;
+disp("Part a");
+p=i^2*r;
+disp("the true power (in W) is"); disp(p);
+disp("Part b");
+q=i^2*x_l;
+disp("the inductive reactive power (in VAr) is"); disp(q);
+disp("Part c");
+s=sqrt(p^2+q^2);
+disp("the apparent power (in kVA) is"); disp(s*10^(-3));

@@ -1,0 +1,2 @@
+ 
+The velocity in the throat section = 3.62 m/s.

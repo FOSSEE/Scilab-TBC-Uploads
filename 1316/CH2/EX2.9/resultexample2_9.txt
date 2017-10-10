@@ -1,0 +1,7 @@
+ First an examination of the resistancs show 
+ that the bridge is nulled when I = 0 and Vx = 0
+ from the equation (Vx)+((R3*V)/(R1+R3))-(V*(R4+R5)/(R2+R4+R5))-(I*R5)=0(R3*V)/(R1+R3))=1.667 V
+(V*(R4+R5)/(R2+R4+R5))=1.667 V
+ Thus,we can use equation Vx-IR5=0: 
+ 12mV-10I=0 
+ Thus I = 1.2 mA 

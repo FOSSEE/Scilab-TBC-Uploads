@@ -1,0 +1,19 @@
+
+ Part a   
+ 
+ the r.m.s. value of the ripple voltage (in V) is   
+ 
+    0.2309401  
+ 
+ Part b   
+ 
+ the dc output voltage (in V) is   
+ 
+    8.6  
+ 
+ Part c   
+ 
+ the ripple factor is   
+ 
+    0.0268535  
+ 

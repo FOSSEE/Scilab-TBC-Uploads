@@ -1,0 +1,21 @@
+ 
+ A smooth flat plate 3 m wide and 30 m l 
+      ong is towed through still water a 
+      t 20 degree celsius with a speed o 
+      f 6m/s.Determine the drag on one s 
+      ide of the plate and the drag on t 
+      he first 3 m of plate              
+ 
+ Solution:   
+ 
+ Drag force on whole plate   
+ 
+    3176.7877  
+ 
+ N   
+ 
+ Drag force on first 3m   
+ 
+    317.67877  
+ 
+ N   

@@ -1,0 +1,2 @@
+ Example 6.6
+ Minimum area required for the collector plate is 10 m^2 

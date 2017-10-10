@@ -1,0 +1,7 @@
+
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.6.sce', -1)
+ 
+ Change in Resistance(in Ohms)=   
+ 
+    0.000004  
+ 

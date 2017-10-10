@@ -1,0 +1,19 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 10\exa10_8.sce', -1)
+ 
+ Zeros of network functions=   
+ 
+  - 8. + 10.i  
+  - 8. - 10.i  
+    0          
+    0          
+ 
+ Poles of network functions=   
+ 
+  - 32.               
+  - 20. + 0.0000009i  
+  - 20. - 0.0000009i  
+    1.332D-15 + 6.i   
+    1.332D-15 - 6.i   
+

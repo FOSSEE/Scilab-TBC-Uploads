@@ -1,0 +1,5 @@
+ 
+Power that must be supplied to the flow by the pump 
+ in kilowatts = 204 kW 
+ in horsepower = 273 hp.
+ 

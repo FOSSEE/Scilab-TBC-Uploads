@@ -1,0 +1,3 @@
+Power developed by generator = 4713.8 W
+Power supplied to the load = 4713.3 W
+Power due to saliency = 3928 W

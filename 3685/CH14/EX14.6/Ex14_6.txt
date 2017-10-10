@@ -1,0 +1,5 @@
+ 
+ Example 14.6
+
+ The COP of the plant is 5.935060, 
+ The mass flow rate of refrigerant in the evaporator is 3.380453 kg/s 

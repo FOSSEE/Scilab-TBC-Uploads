@@ -1,0 +1,6 @@
+ 
+ Example 9.15
+ Availability of steam entering is 1057.486400 kJ/kg
+ Availability of steam leaving the turbine is 656.706200 kJ/kg
+ Maximum work is 741.145680 kJ/kg
+ Irreversibility is 21.365051 kJ/kg 

@@ -1,0 +1,8 @@
+   
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.11.sce', -1)
+ 
+ The Value of i_1 is(in Amps)=   
+ 
+    0.7  
+ 

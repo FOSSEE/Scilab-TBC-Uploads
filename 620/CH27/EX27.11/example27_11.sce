@@ -1,0 +1,15 @@
+l=100*10^(-6);
+c=50*10^(-12);
+r=100*10^3;
+v=50*10^(-3);
+x_l=2*%pi*f*l;
+x_c=1/(2*%pi*f*c);
+disp("Part a");
+q=r/x_l;
+disp("the value of Q is"); disp(q);
+disp("Part b");
+i=q*v/r;
+disp("the inductor and capacitor currents (in μA) each are "); disp(i);
+disp("Part c");
+z=q*x_l;
+disp("the impedance (in kΩ) at resonance is"); disp(z*10^(-3));

@@ -1,0 +1,10 @@
+Circuit components are resistor Rb(in kilo ohm) and capacitances C1,C2,C3(in micro farad)=   
+ 
+    0.17875  
+ 
+    1.  
+ 
+    14.808721  
+ 
+    53.333333  
+ 

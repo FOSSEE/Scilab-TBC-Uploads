@@ -1,0 +1,18 @@
+ 
+ Part a   
+ 
+ the true power (in W) is   
+ 
+    2028.  
+ 
+ Part b   
+ 
+ the inductive reactive power (in VAr) is   
+ 
+    2704.  
+ 
+ Part c   
+ 
+ the apparent power (in kVA) is   
+ 
+    3.38  

@@ -1,0 +1,2 @@
+ Example 6.2
+ Least Power necessary to pump the heat out is 0.305233 kW 

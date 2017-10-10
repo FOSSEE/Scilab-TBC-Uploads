@@ -1,0 +1,6 @@
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 3\exa3.2', -1)
+ 
+ Circuit Current(in Amps)=   
+ 
+    0.004  
+ 

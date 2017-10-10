@@ -1,0 +1,11 @@
+(a) N = 2083 N
+
+(b) For clockwise rotation, F = 805 N
+
+(c) For clockwise rotation, F = 861 N
+
+(d) For self locking, c>=a/f
+	=1.2 m
+
+(e) Hg = 11.8 kW
+

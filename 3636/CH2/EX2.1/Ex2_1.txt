@@ -1,0 +1,2 @@
+Each corner sphere of the bcc unit cell is shared with eigth neighbouring  cells.Thus each cell contains one eigth of a sphere at all the eigth corners.Each unit cell also contains one central sphere                    
+bcc unit cell volume filled with hard sphere= 68 % 

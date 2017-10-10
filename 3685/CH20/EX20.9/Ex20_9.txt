@@ -1,0 +1,5 @@
+ 
+ Example 20.9
+
+ Indicated thermal efficiency = 30.027589 percent,
+ Brake mean effective preassure = 825.889834 kN/m^2 

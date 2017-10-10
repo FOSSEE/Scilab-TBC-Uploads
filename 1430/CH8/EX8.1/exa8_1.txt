@@ -1,0 +1,14 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 8\exa8.1.sce', -1)
+ 
+ Average power supplied by the source(in Watts)=   
+ 
+    180.  
+ 
+ Average power dissipated by 90-Ohm resistor(in Watts)=   
+ 
+    180.  
+ 
+ All the power from source is transferrd to the resistor   
+ 

@@ -1,0 +1,12 @@
+ 
+ Example 1.21(a)
+
+ The binary number is = 
+
+ 1110
+
+ Example 1.21(b)
+
+ The binary number is = 
+
+ 1100

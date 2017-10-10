@@ -1,0 +1,2 @@
+ Voltage of n-channel Si(1)= 1.03 V
+Voltage of n-channel Si(2)= 2.518 V 

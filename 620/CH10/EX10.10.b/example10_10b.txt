@@ -1,0 +1,9 @@
+
+ the load current (in A) is   
+ 
+    17.4  
+ 
+ the load voltage (in V) is   
+ 
+    11.832  
+ 

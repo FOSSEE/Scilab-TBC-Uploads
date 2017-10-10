@@ -1,0 +1,5 @@
+ 
+ Example 6.13
+
+ The rate of heat transfer from the engine = -4.331201 kW,
+ The second law of efficiency of the engine = 13.339690 percent

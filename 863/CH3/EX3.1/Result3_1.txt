@@ -1,0 +1,15 @@
+(a)Resistance(in Kilo ohm)=   
+ 
+    100.  
+ 
+ (b)Forward Current(in mA)=   
+ 
+    20.493  
+ 
+ (c)Power Dissipation(in mW)=   
+ 
+    14.3451  
+ 
+ (d)Peak Reverse Voltage(in volts)=   
+ 
+  - 50.  

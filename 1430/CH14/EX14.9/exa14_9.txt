@@ -1,0 +1,26 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 14\exa14_9.sce', -1)
+ 
+ H(s)=I_2/V_1   
+ 
+ => H(s)=-1/A*Z_L+B   
+ 
+ Transfer function=   
+ 
+        - s          
+    -------------    
+                  2  
+  - 20 - 5s + 2.5s   
+ 
+ Characteristic polynomial=   
+ 
+              2  
+  - 8 - 2s + s   
+ 
+ Poles of transfer function=   
+ 
+    4.  
+  - 2.  
+ 
+

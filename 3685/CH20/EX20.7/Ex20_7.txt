@@ -1,0 +1,4 @@
+ 
+ Example 20.7
+
+Saving in fuel = 1.818182 kg/h 

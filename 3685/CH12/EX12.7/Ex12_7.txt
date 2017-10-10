@@ -1,0 +1,4 @@
+ 
+ Example 12.7
+
+ The second law efficiency is 47.304586 percent 

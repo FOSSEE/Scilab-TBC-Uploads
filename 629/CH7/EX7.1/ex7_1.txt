@@ -1,0 +1,2 @@
+The kinetic-energy correction factor is 2.
+ 

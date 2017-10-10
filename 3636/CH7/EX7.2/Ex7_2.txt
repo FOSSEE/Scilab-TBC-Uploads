@@ -1,0 +1,1 @@
+ Actual barrier height= 0.578 V

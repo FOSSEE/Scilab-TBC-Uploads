@@ -1,0 +1,2 @@
+
+ Reading of the Ammeter is = 0.125000 A

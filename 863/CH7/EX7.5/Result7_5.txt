@@ -1,0 +1,10 @@
+Circuit components for designing astable multivibrator are R1,R2,R3(in kilo ohm) and Capacitance(in micro farad)=   
+ 
+    210.  
+ 
+    210.  
+ 
+    10.  
+ 
+    0.0833333  
+ 

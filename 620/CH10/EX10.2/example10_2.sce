@@ -1,0 +1,14 @@
+v1=10;
+v2=15;
+r1=10^3;
+r2=2*10^3;
+r3=3*10^3;
+r4=4*10^3;
+r5=5*10^3;
+i3=(v1*r2*(r4+r5)+v2*r4*(r1+r2))/((r1+r2)*(r4^2)+(r4+r5)*(r2^2)-(r1+r2)*(r4+r5)*(r2+r3+r4));
+i1=(v1-i3*r2)/(r1+r2);
+i2=(i3*r4-v2)/(r4+r5);
+ir2=i1+i3;
+ir4=i2-i3;
+disp("current (in mA) through the R2 branch is"); disp(ir2*10^3);
+disp("current (in mA) through the R4 branch is"); disp(ir4*10^3);

@@ -1,0 +1,9 @@
+sigma_cc=4//in MPa
+sigma_sc=130//in MPa
+Asc=4*0.785*25^2//four 25 mm dia bars, in sq mm
+b=300//width, in mm
+D=300//depth, in mm
+Ag=b*D//in sq mm
+Ac=Ag-Asc//in sq mm
+P=sigma_cc*Ac+sigma_sc*Asc//in N
+mprintf("Permissible load on the column = %f kN", P/10^3)

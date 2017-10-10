@@ -1,0 +1,1 @@
+ open-circuit voltage Voc= 0.541 V 

@@ -1,0 +1,6 @@
+  
+ 
+ Example 8.11
+ The rate of entropy generation is 0.044604 kW/K
+ The rate of energy loss due to mixing is 13.381067 kW
+ The rate of energy loss due to mixing is 13.381067 kW 

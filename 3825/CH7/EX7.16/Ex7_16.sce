@@ -1,0 +1,25 @@
+clc
+P1=1*10^6 //pressure in Pascal
+h1=3052.1
+v1=0.258
+s1=7.1251
+u1=h1-(P1*10^-3*v1)
+mprintf("u1=%fkJ/kg\n",u1)//ans vary due to roundoff error
+s2=s1
+sf=1.3027
+sg=7.3598
+hf=417.54
+hg=2675.4
+vf=0.001043
+vg=1.6940
+X2=(s1-sf)/(sg-sf)
+mprintf("X2=%f\n",X2)//ans vary due to roundoff error
+h2=(hg*X2)+(1-X2)*hf
+mprintf("h2=%fkJ/kg\n",h2)//ans vary due to roundoff error
+v2=(vg*X2)+(1-X2)*vf
+mprintf("v2=%f metre-cube/kg\n",v2)//ans vary due to roundoff error
+P2=100 //in kPa
+u2=h2-(P2*v2)
+mprintf("u2=%fkJ/kg\n",u2)//ans vary due to roundoff error
+W=u1-u2
+mprintf("W=%fkJ/kg",W)//ans vary due to roundoff error

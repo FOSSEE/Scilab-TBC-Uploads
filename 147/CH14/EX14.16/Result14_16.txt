@@ -1,0 +1,1 @@
+Speed of the motor = 774.8 rpm

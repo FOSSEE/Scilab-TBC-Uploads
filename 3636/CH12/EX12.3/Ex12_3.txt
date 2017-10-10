@@ -1,0 +1,2 @@
+ Sheet resistance= 250 ohm
+average resistivity= 0.025 ohm-cm 

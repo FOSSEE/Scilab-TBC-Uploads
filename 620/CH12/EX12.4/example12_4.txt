@@ -1,0 +1,46 @@
+ 
+ Part a   
+ 
+ the possible error (in mA) is   
+ 
+    0.3  
+ 
+ Part b   
+ 
+ for 1 mA indication the range of values if from    
+ 
+    0.7  
+ 
+ to   
+ 
+    1.3  
+ 
+ for 5 mA indication the range of values if from    
+ 
+    4.7  
+ 
+ to   
+ 
+    5.3  
+ 
+ for 10 mA indication the range of values if from    
+ 
+    9.7  
+ 
+ to   
+ 
+    10.3  
+ 
+ Part c   
+ 
+ for 1 mA reading the error (in %) is   
+ 
+    30.  
+ 
+ for 5 mA reading the error (in %) is   
+ 
+    6.  
+ 
+ for 10 mA reading the error (in %) is   
+ 
+    3. 

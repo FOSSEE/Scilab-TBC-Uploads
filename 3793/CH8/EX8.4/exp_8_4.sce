@@ -1,0 +1,15 @@
+clear;
+clc;
+g1=200;
+g2=300;
+f=50;
+fr=.5;
+dl=150;
+lg1=g1/(g1+g2)*dl;
+lg2=g2/(g1+g2)*dl;
+Rg1=-fr/lg1;
+Rg2=-fr/lg2;
+Rpu1=(fr*g1)/(f*lg1);
+Rpu2=(fr*g2)/(f*lg1);
+mprintf("Drop for G1 and G2 is Rg1=%.4f Hz/MW and Rg2=%.4f Hz/MW\n",Rg1,Rg2);
+mprintf("Drop in pu is Rg1=%.4f pu ad Rg2=%.4f pu",Rpu1,Rpu2);

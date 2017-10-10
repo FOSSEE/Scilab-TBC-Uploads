@@ -1,0 +1,32 @@
+ 
+ Given State Table
+
+ q |    x=0         x=1   |    z
+
+ --------------------------------
+
+ A |     B           E    |    0
+
+ B |     D           A    |    1
+
+ C |     G           A    |    0
+
+ D |     F           G    |    1
+
+ E |     B           C    |    0
+
+ F |     D           G    |    1
+
+ G |     D           E    |    1
+
+ The SP partition is also ouput consistent. The smallest equivalent system is given below
+
+  q  |     x=0      x=1   |    z
+
+ ------------------------------------
+
+  A |      B         A    |    0
+
+  B  |     D         A    |    1
+
+  D  |     D         B    |    1

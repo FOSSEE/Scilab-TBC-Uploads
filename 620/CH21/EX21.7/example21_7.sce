@@ -1,0 +1,15 @@
+c1=50;
+v1=16;
+c2=40;
+v2=10;
+disp("Part a");
+v=v2*(c1+c2)/c1;
+disp("the maximum working voltage (in V) is");disp(v);
+disp("Part b");
+v1=v*c2/(c1+c2);
+v2=v*c1/(c1+c2);
+disp("the voltage (in V) across 50 μF capacitor is"); disp(v1);
+disp("the voltage (in V) across 40 μF capacitor is"); disp(v2);
+disp("Part c");
+c=c1*c2/(c1+c2);
+disp("the total capacitance (in μF) is"); disp(c);

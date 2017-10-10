@@ -1,0 +1,16 @@
+
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa.2.16.sce', -1)
+ 
+ Open Circuit Voltage of Thevenin Network(in Volts)=   
+ 
+  - 6.  
+ 
+ Thevenin Resistance(in Ohms)=   
+ 
+    10.  
+ 
+ Load Current(in Amps)=   
+ 
+    0.5  
+ 

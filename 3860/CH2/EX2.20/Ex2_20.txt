@@ -1,0 +1,6 @@
+ 
+ f = a'b'c' + a'bc' + a'bc + ab'c'
+
+ f1 = a'c' + a'b + b'c'
+
+ f2 = b'c' + a'b reduced using consensus theorem

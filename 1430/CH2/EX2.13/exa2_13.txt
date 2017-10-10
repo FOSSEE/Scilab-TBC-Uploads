@@ -1,0 +1,12 @@
+ 
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 2\exa2.13.sce', -1)
+ 
+ Design Value of R_1 when v=24 (in Ohms)=   
+ 
+    6.  
+ 
+ Design Value of R_1 when i=8(in Ohms)=   
+ 
+    1.  
+ 

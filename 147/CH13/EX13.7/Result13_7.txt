@@ -1,0 +1,2 @@
+Rc = 192 ohm
+Xm = 88 ohm

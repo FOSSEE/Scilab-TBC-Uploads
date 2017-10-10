@@ -1,0 +1,11 @@
+ 
+-->exec('C:\Users\sangeet\Documents\Scilab\Circuits\Chapter 1\exa1.8.sce', -1)
+ 
+ Value of Series connected resistor(in Ohms)=   
+ 
+    0.8  
+ 
+ Value of Parallel connected resistor(in Ohms)=   
+ 
+    20.  
+ 

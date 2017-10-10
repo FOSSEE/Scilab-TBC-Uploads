@@ -1,0 +1,30 @@
+(a) The bending moment at every section is=126 Nm
+
+(b) Refer to figure 4.3[A. Hall; Schaum's Outline on Machine Design]
+Tension occurs in upper fibres and compression in lower fibres.
+Maximum normal stress occurs at R=90mm and is compressive
+Location of maximum tensile stress is to be determined
+
+(c)For section R=90mm
+	Distance between centre of gravity and neutral axis e=0.000582 m
+
+(d)For section with R=90mm, stess at inner fibre
+	Si=M*hi/ A*e*ri
+	=26.65 MN/m^2 compression
+Stess at outer fibre
+	So=M*ho/ A*e*ro
+	=22.15 MN/m^2 tension
+
+For section R=115mm
+	Distance between centre of gravity and neutral axis e=0.0005 m
+
+(e)For section with R=115mm, stess at inner fibre
+	Si=M*hi/ A*e*ri
+	=23.60 MN/m^2 tension
+Stess at outer fibre
+	So=M*ho/ A*e*ro
+	=20.56 MN/m^2 compression
+
+(f) Maximum tension occurs at inner fibre of section R=115mm
+Maximum compression occurs at inner fibre of section R=90mm
+Maximum shear stress=half of greatest difference between any two extremes=13.3 MN/m^2

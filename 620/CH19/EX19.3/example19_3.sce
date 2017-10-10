@@ -1,0 +1,15 @@
+l=8;
+r=400;
+v=20;
+disp("Part a");
+t=l/r;
+disp("the time constant (in ms) of the circuit is"); disp(t*10^3);
+disp("Part b");
+i=v/r;
+disp("final value of the current (in mA) is"); disp(i*10^3);
+disp("Part c");
+rate=v/l;
+disp("the initial rate of rise of current (in A/s) is"); disp(rate);
+disp("Part d");
+t1=i/rate;
+disp("time taken (in ms) to reach the final value of current is"); disp(t1*10^3);

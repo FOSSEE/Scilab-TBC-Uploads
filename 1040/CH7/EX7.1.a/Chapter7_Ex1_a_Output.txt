@@ -1,0 +1,4 @@
+
+The percentage  gas-film resistance: 0.7%
+The percentage liquid-film resistance: 95.4%
+The percentage chemical reaction resistance: 3.9%

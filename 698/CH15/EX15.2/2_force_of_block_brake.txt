@@ -1,0 +1,8 @@
+(a) N = 6666.67 N
+
+(b) For clockwise rotation, F = 1592.59 N
+
+(c) For clockwise rotation, F = 1370.370 N
+
+(d) For self locking, a=0.67 m
+

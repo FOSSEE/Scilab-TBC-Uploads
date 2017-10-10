@@ -1,0 +1,8 @@
+
+ Example 15.6 
+
+ The temperature of air at the end of the drying process is 38.500000 degree celsius,
+ Heat rejected during the cooling process is 18.500000 kJ/kg,
+ The relative humidity is 53.000000 percent,
+ The dew point temperature at the end of drying process is 11.200000 degree celsius,
+ The moisture removed during the drying process is 0.007000 kg vap/kg dry air 

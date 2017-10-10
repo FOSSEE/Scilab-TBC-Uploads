@@ -1,0 +1,4 @@
+For p=1 n=6
+For p=2 n=12
+For p=3 n=18
+ 

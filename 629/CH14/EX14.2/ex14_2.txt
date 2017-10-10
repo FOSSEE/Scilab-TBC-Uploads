@@ -1,0 +1,5 @@
+ 
+The discharge of water, Q = 0.180 m^3/s.
+
+The power required for these conditions, P = 4.12 kW.
+ 

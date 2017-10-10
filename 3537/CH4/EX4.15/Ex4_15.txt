@@ -1,0 +1,3 @@
+obtained d value is d=4A
+ As rounding of d equal to 3 A that is d=a miller indices that are possible are
+ (0,0,1),(0,1,0),(1,0,0) 

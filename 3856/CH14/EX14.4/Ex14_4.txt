@@ -1,0 +1,2 @@
+ Wavelength of tennis ball = 1.8*10^-34 m
+ Wavelength of electron = 1.2*10^4 nm

@@ -1,0 +1,6 @@
+ Maximum frequency(in khz) and minimum frequency(in hz)=   
+ 
+    27.777778  
+ 
+    277.77778  
+ 

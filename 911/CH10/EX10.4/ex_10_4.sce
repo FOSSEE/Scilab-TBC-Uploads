@@ -1,0 +1,6 @@
+//example 10.4//
+clc
+//clears the screen//
+clear
+//clears all variables//
+disp('The correct staircase waveform would be generated at the output of the D/A converter if the counter outputs Q0 (LSB), Q1, Q2, and Q3 (MSB) are connected to the corresponding inputs of the D/A converter in the same order. If we carefully examine the given staircase waveform and recall the sequence in which the counter will advance, it can be visualised that the given staircase waveform would result if the interconnections of LSB and the next adjacent higher bit of the counter output and the corresponding inputs of the D/A converter were interchanged. While in one complete cycle the counter counts as 0000, 0001, 0010, 0011, 0100, 0101, 0110, 0111, 1000, 1001, 1010, 1011, 1100, 1101, 1110, 1111. The corresponding analogue, the D/A converter, owing to interchanged connections gets input as 0000, 0010, 0001, 0011, 0100, 0110, 0101, 0111, 1000, 1010, 1001, 1011, 1100, 1110, 1101, and 1111. the corresponding analouge outputs are 0,2,1,3,4,6,5,7,8,10,9,11,12,14,13 and 15 v, as shown.')
