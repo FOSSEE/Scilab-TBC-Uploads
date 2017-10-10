@@ -9,7 +9,6 @@
 
 Pin=42//input power = 42dB
 
-disp('The attenuation of a multimode fiber operating at 820nm is approximately 3db/km. Thus,')
 
 A=3//attenuation
 

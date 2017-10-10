@@ -19,7 +19,7 @@ L=1.15*l
 ft=42
 printf("stroke length is,%f mm\n",L)
 p=9*pm
-C==0.1
+C=0.1
 th=D*sqrt(C*p/ft)
 printf("thickness of head is,%f mm\n",th)
 Fc=(%pi/4)*D^2*p//N//force on cylinder...eq1

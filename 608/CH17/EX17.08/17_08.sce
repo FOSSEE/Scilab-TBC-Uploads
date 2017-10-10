@@ -4,7 +4,7 @@
 L = 0.04; // in Henry
 R = 10; // in ohms
 V = 120; // in Volts
-i2 = 0.01*I; // in amperes
+
 
 //calculation:
 tou = L/R

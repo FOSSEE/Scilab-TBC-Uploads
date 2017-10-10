@@ -1,4 +1,3 @@
-//design oval flanged pipe
 clc
 //solution
 //given
@@ -9,7 +8,7 @@ pi=3.14
 ft=20//N/mm^2
 fb=60//N/mm^2
 //t=R*[sqrt[(ft+p)/(ft-p)]-1]//mm//thickneess of pipe
-t=R*{sqrt[27/13]-1}//mm
+t=R*(sqrt[27/13]-1)//mm
 w=10//mm//width of packing
 D1=D+(2*w)//mm
 F=(pi/4)*(D1)^2*p//N

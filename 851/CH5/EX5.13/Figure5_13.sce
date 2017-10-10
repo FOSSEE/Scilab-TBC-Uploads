@@ -4,6 +4,15 @@
 //Plotting mulaw characteristics for different 
 //Values of mu
 clc;
+ [Cx,Xmax] =  mulaw(x,mu)
+  Xmax  = max(abs(x));
+  if(log(1+mu)~=0)
+    Cx = (log(1+mu*abs(x/Xmax))./log(1+mu));
+  else
+    Cx = x/Xmax;
+  end
+Cx = Cx/Xmax; //normalization of output vector
+endfunction
 x = 0:0.01:1; //Normalized input
 mu = [0,5,255];//different values of mu
 for i = 1:length(mu)

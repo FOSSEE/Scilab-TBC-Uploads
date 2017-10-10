@@ -11,8 +11,8 @@ D=0.1;//Diameter of pipe[m]
 z=0.5;//Depth at which pipe is kept[m]
 //Solution:-
 //Calculating shape factor
-if(z>(1.5*D))then 
+if(z&gt;(1.5*D)) 
  S=(2*%pi*L)/(log((4*z)/D)), end;//[m]
  disp(S,"Shape factor is")
  Q_=S*k_soil*(T_psurf-T_esurf);//[W]
- disp("W",Q_,"The steady rate of heat transfer from the pipe is")   
+ disp("W",Q_,"The steady rate of heat transfer from the pipe is")

@@ -68,7 +68,7 @@ for p=1:m
     printf("\t%.4f\t%.1f\t%.2f\t%.2f\t\t\t\t%.1f\n",inv_Gz1(p),Nu_D(p),Z(p),hz(p),Tbz(p));
 end
 subplot(211);
-plot(Z,Tbz,'r--d',Z,Tw,'r-');  // your first figure
+plot(Z,Tbz,'r--d',Z,Tw*ones(1,length(Z)),'r-');  // your first figure
 a1 = gca();
 hl=legend(['Tbz';'Tw'],4);
 subplot(212)

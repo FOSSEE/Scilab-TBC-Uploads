@@ -8,9 +8,9 @@ x_n = [ones(1,4) 0.5 zeros(1,23) 0.5 ones(1,3)]';
 size(x_n)
 x_r = fft(x_n);r = (-N_0/2:(N_0/2)-1)';
 omega_r = ((r*2)*%pi)/T_0;
+omega = linspace(-%pi/T,%pi/T,4097);
 size(omega_r)
 size(omega)
-omega = linspace(-%pi/T,%pi/T,4097);
 X = 8*(sinc(omega/2));
 size(X)
 figure(1);

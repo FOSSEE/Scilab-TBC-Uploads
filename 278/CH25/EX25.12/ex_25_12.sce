@@ -11,7 +11,6 @@ r=0.075//m
 //T2 be min force
 Tb=450//N-m
 //Tb=(T1-T2)*r
-T1=(T2+6000)//N
 //taking mont abt O
 //220*200+T1*50=T2*100
 T2=[(220*200)+(300000)]/50//N
@@ -27,4 +26,3 @@ T11=146//N
 T22=514//N
 Tb=(T11-T22)*r//N-m
 printf("max torque acting is %f N-m\n",Tb)
-

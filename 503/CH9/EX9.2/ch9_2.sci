@@ -1,6 +1,8 @@
 //to calculate torque,resitance to be added to rotor ckt
 
 clc;
+clear
+s = 0.05;
 f=50;
 P=6;
 n_s=120*f/P;

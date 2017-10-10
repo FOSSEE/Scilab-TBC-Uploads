@@ -1,6 +1,7 @@
 //CHAPTER 4- MEASURING INSTRUMENTS
 //Example 12
 
+clc;
 disp("CHAPTER 4");
 disp("EXAMPLE 12");
 

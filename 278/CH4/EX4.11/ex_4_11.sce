@@ -1,4 +1,4 @@
-//to find increase in length of compound bar and stress produced in steel and copper bar
+
 clc
 //solution
 //given

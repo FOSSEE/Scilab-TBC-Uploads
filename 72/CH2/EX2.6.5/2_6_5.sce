@@ -1,4 +1,4 @@
-//Caption:Calculation_of_a_gold_film_coating
+
 //chapter_no.-2,  page_no.-69
 //Example No.-2-6-5  
 

@@ -1,0 +1,200 @@
+10#Image Segmentation#10.9#Another illustration of the three principal Edge Detection Methods#Ex10_9.sce#3176/CH10/EX10.9/Ex10_9.sce#S##115192
+10#Image Segmentation#10.9#Another illustration of the three principal Edge Detection Methods#Ex10_9.tif#3176/DEPENDENCIES/Ex10_9.tif#D#Another illustration of the three principal Edge Detection Methods#1183
+10#Image Segmentation#10.8#Illustration of the Canny Edge Detection Methods#Ex10_8.sce#3176/CH10/EX10.8/Ex10_8.sce#S##115191
+10#Image Segmentation#10.8#Illustration of the Canny Edge Detection Methods#Ex10_8.tif#3176/DEPENDENCIES/Ex10_8.tif#D#Illustration of the Canny Edge Detection Methods#1181
+10#Image Segmentation#10.7#Illustration of the Marr Hildreth Edge Detection Methods#Ex10_7.sce#3176/CH10/EX10.7/Ex10_7.sce#S##115190
+10#Image Segmentation#10.7#Illustration of the Marr Hildreth Edge Detection Methods#Ex10_7.tif#3176/DEPENDENCIES/Ex10_7.tif#D#Illustration of the Marr Hildreth Edge Detection Methods#1178
+10#Image Segmentation#10.6#Illustration of the 2 D Gradient Magnitude and Angle#Ex10_6.sce#3176/CH10/EX10.6/Ex10_6.sce#S##115189
+10#Image Segmentation#10.6#Illustration of the 2 D Gradient Magnitude and Angle#Ex10_6.tif#3176/DEPENDENCIES/Ex10_6.tif#D#Illustration of the 2 D Gradient Magnitude and Angle#1179
+10#Image Segmentation#10.4#Behavior of the First and Second Derivative of a Noisy Edge#Ex10_4.sce#3176/CH10/EX10.4/Ex10_4.sce#S##115188
+10#Image Segmentation#10.4#Behavior of the First and Second Derivative of a Noisy Edge#Ex10_4.tif#3176/DEPENDENCIES/Ex10_4.tif#D#Behavior of the First and Second Derivative of a Noisy Edge#1177
+10#Image Segmentation#10.3#Detection of Lines in Specified Direction#Ex10_3.sce#3176/CH10/EX10.3/Ex10_3.sce#S##115187
+10#Image Segmentation#10.3#Detection of Lines in Specified Direction#Ex10_3.tif#3176/DEPENDENCIES/Ex10_3.tif#D#Detection of Lines in Specified Direction#1180
+10#Image Segmentation#10.23#Segmentation by Region Growing#Ex10_23.sce#3176/CH10/EX10.23/Ex10_23.sce#S##115202
+10#Image Segmentation#10.23#Segmentation by Region Growing#Ex_10_23_1.jpeg#3176/CH10/EX10.23/Ex_10_23_1.jpeg#R##115203
+10#Image Segmentation#10.23#Segmentation by Region Growing#Ex_10_23_2.jpeg#3176/CH10/EX10.23/Ex_10_23_2.jpeg#R##115204
+10#Image Segmentation#10.22#Document Thresholding Using Moving Averages#Ex10_22.sce#3176/CH10/EX10.22/Ex10_22.sce#S##115200
+10#Image Segmentation#10.22#Document Thresholding Using Moving Averages#Ex_10_22_1.jpeg#3176/CH10/EX10.22/Ex_10_22_1.jpeg#R##115201
+10#Image Segmentation#10.22#Document Thresholding Using Moving Averages#Ex10_22.tif#3176/DEPENDENCIES/Ex10_22.tif#D#Document Thresholding Using Moving Averages#1184
+10#Image Segmentation#10.20#Variable Thresholding Via Image Partitioning#Ex10_20.sce#3176/CH10/EX10.20/Ex10_20.sce#S##115199
+10#Image Segmentation#10.20#Variable Thresholding Via Image Partitioning#Ex10_20.tif#3176/DEPENDENCIES/Ex10_20.tif#D#Variable Thresholding Via Image Partitioning#1176
+10#Image Segmentation#10.2#Using the Laplacian for the Detection#Ex10_2.sce#3176/CH10/EX10.2/Ex10_2.sce#S##115184
+10#Image Segmentation#10.2#Using the Laplacian for the Detection#Ex_10_2_3.jpeg#3176/CH10/EX10.2/Ex_10_2_3.jpeg#R##115185
+10#Image Segmentation#10.2#Using the Laplacian for the Detection#Ex_10_2_4.jpeg#3176/CH10/EX10.2/Ex_10_2_4.jpeg#R##115186
+10#Image Segmentation#10.2#Using the Laplacian for the Detection#Ex10_2.tif#3176/DEPENDENCIES/Ex10_2.tif#D#Using the Laplacian for the Detection#1182
+10#Image Segmentation#10.19#Multipal Global Thresholding#Ex10_19.sce#3176/CH10/EX10.19/Ex10_19.sce#S##115198
+10#Image Segmentation#10.19#Multipal Global Thresholding#Ex10_19.tif#3176/DEPENDENCIES/Ex10_19.tif#D#Multipal Global Thresholding#1175
+10#Image Segmentation#10.18#Using Edge Information Based on the Laplacian to Improve Global Thresholding#Ex10_18.sce#3176/CH10/EX10.18/Ex10_18.sce#S##115197
+10#Image Segmentation#10.18#Using Edge Information Based on the Laplacian to Improve Global Thresholding#Ex10_18.tif#3176/DEPENDENCIES/Ex10_18.tif#D#Using Edge Information Based on the Laplacian to Improve Global Thresholding#1174
+10#Image Segmentation#10.16#Optimum Global Thresholding using Otsu Method#Ex10_16.sce#3176/CH10/EX10.16/Ex10_16.sce#S##115194
+10#Image Segmentation#10.16#Optimum Global Thresholding using Otsu Method#Ex_10_16_3.jpeg#3176/CH10/EX10.16/Ex_10_16_3.jpeg#R##115195
+10#Image Segmentation#10.16#Optimum Global Thresholding using Otsu Method#Ex_10_16_4.jpeg#3176/CH10/EX10.16/Ex_10_16_4.jpeg#R##115196
+10#Image Segmentation#10.16#Optimum Global Thresholding using Otsu Method#Ex10_16.tif#3176/DEPENDENCIES/Ex10_16.tif#D#Optimum Global Thresholding using Otsu's Method#1173
+10#Image Segmentation#10.15#Global Thresholding#Ex10_15.sce#3176/CH10/EX10.15/Ex10_15.sce#S##115193
+10#Image Segmentation#10.15#Global Thresholding#Ex10_15.tif#3176/DEPENDENCIES/Ex10_15.tif#D#Global Thresholding#1172
+10#Image Segmentation#10.1#Detection of Isolated Point in an Image#Ex10_1.sce#3176/CH10/EX10.1/Ex10_1.sce#S##115183
+10#Image Segmentation#10.1#Detection of Isolated Point in an Image#Ex10_1.tif#3176/DEPENDENCIES/Ex10_1.tif#D#Detection of Isolated Point in an Image#1171
+9#Morphological Image Processing#9.9#Illustration of Gray Scale Erosion and Dilation#Ex9_9.sce#3176/CH9/EX9.9/Ex9_9.sce#S##115181
+9#Morphological Image Processing#9.9#Illustration of Gray Scale Erosion and Dilation#Ex9_9.png#3176/DEPENDENCIES/Ex9_9.png#D#Illustration of Gray Scale Erosion and Dilation#1169
+9#Morphological Image Processing#9.7#Using Connected Components to Detect Foreign Object in Packaged Food#Ex9_7.sce#3176/CH9/EX9.7/Ex9_7.sce#S##115180
+9#Morphological Image Processing#9.7#Using Connected Components to Detect Foreign Object in Packaged Food#Ex9_7.png#3176/DEPENDENCIES/Ex9_7.png#D#Using Connected Components to Detect Foreign Object in Packaged Food#1168
+9#Morphological Image Processing#9.5#Boundary Extraction by Morphological Processing#Ex9_5.sce#3176/CH9/EX9.5/Ex9_5.sce#S##115179
+9#Morphological Image Processing#9.5#Boundary Extraction by Morphological Processing#Ex9_5.png#3176/DEPENDENCIES/Ex9_5.png#D#Boundary Extraction by Morphological Processing#1170
+9#Morphological Image Processing#9.4#Use of opening and closing for Morphological Filtering#Ex9_4.sce#3176/CH9/EX9.4/Ex9_4.sce#S##115178
+9#Morphological Image Processing#9.4#Use of opening and closing for Morphological Filtering#Ex9_4.png#3176/DEPENDENCIES/Ex9_4.png#D#Use of opening and closing for Morphological Filtering#1167
+9#Morphological Image Processing#9.2#An Illustration of Dilation#Ex9_2.sce#3176/CH9/EX9.2/Ex9_2.sce#S##115177
+9#Morphological Image Processing#9.2#An Illustration of Dilation#Ex9_2.tif#3176/DEPENDENCIES/Ex9_2.tif#D#An Illustration of Dilation#1166
+9#Morphological Image Processing#9.10#Illustration of Gray Scale Opening and Closing#Ex9_10.sce#3176/CH9/EX9.10/Ex9_10.sce#S##115182
+9#Morphological Image Processing#9.10#Illustration of Gray Scale Opening and Closing#Ex9_10.png#3176/DEPENDENCIES/Ex9_10.png#D#Illustration of Gray Scale Opening and Closing#1165
+9#Morphological Image Processing#9.1#Using Erosion to remove image component#Ex9_1.sce#3176/CH9/EX9.1/Ex9_1.sce#S##115176
+9#Morphological Image Processing#9.1#Using Erosion to remove image component#Ex9_1.tif#3176/DEPENDENCIES/Ex9_1.tif#D#Using Erosion to remove image component#1164
+8#Image Compression#8.2#Image Entropy Estimation#Ex8_2.sce#3176/CH8/EX8.2/Ex8_2.sce#S##115175
+8#Image Compression#8.2#Image Entropy Estimation#Ex8_2.tif#3176/DEPENDENCIES/Ex8_2.tif#D#Image Entropy Estimation#1163
+6#Color Image Processing#6.9#Tonal Transformations#Ex6_9.sce#3176/CH6/EX6.9/Ex6_9.sce#S##115166
+6#Color Image Processing#6.9#Tonal Transformations#Ex6_9_3.tif#3176/DEPENDENCIES/Ex6_9_3.tif#D#Tonal Transformations#1148
+6#Color Image Processing#6.9#Tonal Transformations#Ex6_9_2.tif#3176/DEPENDENCIES/Ex6_9_2.tif#D#Tonal Transformations#1147
+6#Color Image Processing#6.9#Tonal Transformations#Ex6_9_1.tif#3176/DEPENDENCIES/Ex6_9_1.tif#D#Tonal Transformations#1146
+6#Color Image Processing#6.7#Computing Color Image Components#Ex6_7.sce#3176/CH6/EX6.7/Ex6_7.sce#S##115165
+6#Color Image Processing#6.7#Computing Color Image Components#Ex6_7.tif#3176/DEPENDENCIES/Ex6_7.tif#D#Computing Color Image Components#1145
+6#Color Image Processing#6.6#Color Coding of Multi Spectral Images#Ex6_6.sce#3176/CH6/EX6.6/Ex6_6.sce#S##115164
+6#Color Image Processing#6.6#Color Coding of Multi Spectral Images#Ex6_6_4.TIF#3176/DEPENDENCIES/Ex6_6_4.TIF#D#Color Coding of Multi Spectral Images#1157
+6#Color Image Processing#6.6#Color Coding of Multi Spectral Images#Ex6_6_3.TIF#3176/DEPENDENCIES/Ex6_6_3.TIF#D#Color Coding of Multi Spectral Images#1156
+6#Color Image Processing#6.6#Color Coding of Multi Spectral Images#Ex6_6_2.TIF#3176/DEPENDENCIES/Ex6_6_2.TIF#D#Color Coding of Multi Spectral Images#1155
+6#Color Image Processing#6.6#Color Coding of Multi Spectral Images#Ex6_6_1.TIF#3176/DEPENDENCIES/Ex6_6_1.TIF#D#Color Coding of Multi Spectral Images#1154
+6#Color Image Processing#6.5#Use of Psuedocolor for highlighting Explosives Contained in Luggage#Ex6_5.sce#3176/CH6/EX6.5/Ex6_5.sce#S##115163
+6#Color Image Processing#6.5#Use of Psuedocolor for highlighting Explosives Contained in Luggage#Ex6_5.png#3176/DEPENDENCIES/Ex6_5.png#D#Use of Psedocolor for highlighting Exposives Contained in Luggage#1153
+6#Color Image Processing#6.4#Use of Color to Highlight Rainfall Levels#Ex6_4.sce#3176/CH6/EX6.4/Ex6_4.sce#S##115162
+6#Color Image Processing#6.4#Use of Color to Highlight Rainfall Levels#Ex6_4.tif#3176/DEPENDENCIES/Ex6_4.tif#D#Use of Color to Highlight Rainfall Levels#1144
+6#Color Image Processing#6.3#Intensity Slicing#Ex6_3.sce#3176/CH6/EX6.3/Ex6_3.sce#S##115161
+6#Color Image Processing#6.3#Intensity Slicing#Ex6_3.tif#3176/DEPENDENCIES/Ex6_3.tif#D#Intensity Slicing#1143
+6#Color Image Processing#6.17#Illustration of the effects of converting noisy RGB Images to HSV#Ex6_17.sce#3176/CH6/EX6.17/Ex6_17.sce#S##115174
+6#Color Image Processing#6.17#Illustration of the effects of converting noisy RGB Images to HSV#Ex6_17_R.tif#3176/DEPENDENCIES/Ex6_17_R.tif#D#Illustration of the effects of converting noisy RGB Images to HSI#1152
+6#Color Image Processing#6.17#Illustration of the effects of converting noisy RGB Images to HSV#Ex6_17_G.tif#3176/DEPENDENCIES/Ex6_17_G.tif#D#Illustration of the effects of converting noisy RGB Images to HSI#1151
+6#Color Image Processing#6.17#Illustration of the effects of converting noisy RGB Images to HSV#Ex6_17_B.tif#3176/DEPENDENCIES/Ex6_17_B.tif#D#Illustration of the effects of converting noisy RGB Images to HSI#1150
+6#Color Image Processing#6.16#Edge Detection Vector Space#Ex6_16.sce#3176/CH6/EX6.16/Ex6_16.sce#S##115173
+6#Color Image Processing#6.16#Edge Detection Vector Space#Ex6_16.tif#3176/DEPENDENCIES/Ex6_16.tif#D#Edge Detection Vector Space#1149
+6#Color Image Processing#6.14#Segmentation in HSI Space#Ex6_14.sce#3176/CH6/EX6.14/Ex6_14.sce#S##115172
+6#Color Image Processing#6.14#Segmentation in HSI Space#Ex6_14.tif#3176/DEPENDENCIES/Ex6_14.tif#D#egmentation in HSI Space#1162
+6#Color Image Processing#6.13#Sharpning with the Laplacian#Ex6_13.sce#3176/CH6/EX6.13/Ex6_13.sce#S##115170
+6#Color Image Processing#6.13#Sharpning with the Laplacian#Ex6_13.tif#3176/DEPENDENCIES/Ex6_13.tif#D#Sharpning with the Laplacian#1161
+6#Color Image Processing#6.12#Color Image Smoothning by Neighbourhood Averaging#Ex6_12.sce#3176/CH6/EX6.12/Ex6_12.sce#S##115169
+6#Color Image Processing#6.12#Color Image Smoothning by Neighbourhood Averaging#Ex6_12.tif#3176/DEPENDENCIES/Ex6_12.tif#D#Color Image Smoothning by Neighbourhood Averaging#1160
+6#Color Image Processing#6.11#Histogram Equalization in the HSI Color Space#Ex6_11.sce#3176/CH6/EX6.11/Ex6_11.sce#S##115168
+6#Color Image Processing#6.11#Histogram Equalization in the HSI Color Space#Ex6_11.tif#3176/DEPENDENCIES/Ex6_11.tif#D#Histogram Equalization in the HSI Color Space#1159
+6#Color Image Processing#6.10#Color Balancing#Ex6_10.sce#3176/CH6/EX6.10/Ex6_10.sce#S##115167
+6#Color Image Processing#6.10#Color Balancing#Ex6_10.tif#3176/DEPENDENCIES/Ex6_10.tif#D#Color Balancing#1158
+5#Image Restoration and Reconstruction #5.8#Removal of Periodic Noise by Notch Filtering#Ex5_8.sce#3176/CH5/EX5.8/Ex5_8.sce#S##115157
+5#Image Restoration and Reconstruction #5.8#Removal of Periodic Noise by Notch Filtering#Ex5_8.tif#3176/DEPENDENCIES/Ex5_8.tif#D#Removal of Periodic Noise by Notch Filtering#1095
+5#Image Restoration and Reconstruction #5.5#Illustration of Adaptive Median Filter#Ex5_5.sce#3176/CH5/EX5.5/Ex5_5.sce#S##115156
+5#Image Restoration and Reconstruction #5.5#Illustration of Adaptive Median Filter#Ex5_5.tif#3176/DEPENDENCIES/Ex5_5.tif#D#Illustration of Adaptive Median Filter#1094
+5#Image Restoration and Reconstruction #5.4#Illustration of Adaptive Local Noise Reduction Filtering#Ex5_4.sce#3176/CH5/EX5.4/Ex5_4.sce#S##115155
+5#Image Restoration and Reconstruction #5.4#Illustration of Adaptive Local Noise Reduction Filtering#Ex5_4.tif#3176/DEPENDENCIES/Ex5_4.tif#D#Illustration of Adaptive Local Noise Reduction Filtering#1090
+5#Image Restoration and Reconstruction #5.3#Illustration of Order Statistic filter#Ex5_3.sce#3176/CH5/EX5.3/Ex5_3.sce#S##115154
+5#Image Restoration and Reconstruction #5.3#Illustration of Order Statistic filter#Ex5_3.tif#3176/DEPENDENCIES/Ex5_3.tif#D#Illustration of Order Statistic filter#1093
+5#Image Restoration and Reconstruction #5.2#Illustration of Mean Filters#Ex5_2.sce#3176/CH5/EX5.2/Ex5_2.sce#S##115152
+5#Image Restoration and Reconstruction #5.2#Illustration of Mean Filters#Ex5_2.tif#3176/DEPENDENCIES/Ex5_2.tif#D#Illustration of Mean Filters#1092
+5#Image Restoration and Reconstruction #5.12#Comparision of Inverse Filtering and Wiener Filtering#Ex5_12.sce#3176/CH5/EX5.12/Ex5_12.sce#S##115160
+5#Image Restoration and Reconstruction #5.12#Comparision of Inverse Filtering and Wiener Filtering#Ex5_12.png#3176/DEPENDENCIES/Ex5_12.png#D#Comparision of Inverse Filtering and Wiener Filtering#1098
+5#Image Restoration and Reconstruction #5.11#Inverse Filtering#Ex5_11.sce#3176/CH5/EX5.11/Ex5_11.sce#S##115159
+5#Image Restoration and Reconstruction #5.11#Inverse Filtering#Ex5_11.png#3176/DEPENDENCIES/Ex5_11.png#D#Inverse Filtering#1097
+5#Image Restoration and Reconstruction #5.10#Image Blurring Due to Motion#Ex5_10.sce#3176/CH5/EX5.10/Ex5_10.sce#S##115158
+5#Image Restoration and Reconstruction #5.10#Image Blurring Due to Motion#Ex5_10.png#3176/DEPENDENCIES/Ex5_10.png#D#Image Bluring Due to Motion#1096
+5#Image Restoration and Reconstruction #5.1#Noisy Images and their Histogram#Ex5_1.sce#3176/CH5/EX5.1/Ex5_1.sce#S##115151
+5#Image Restoration and Reconstruction #5.1#Noisy Images and their Histogram#Ex5_1.tif#3176/DEPENDENCIES/Ex5_1.tif#D#Noisy Images and their Histogram#1091
+4#Filtering in Frequency Domain#4.9#Illustration of Jaggies in Image Zooming#Ex4_9.sce#3176/CH4/EX4.9/Ex4_9.sce#S##115126
+4#Filtering in Frequency Domain#4.9#Illustration of Jaggies in Image Zooming#Ex4_9.tif#3176/DEPENDENCIES/Ex4_9.tif#D#Illustration of Jaggies in Image Zooming#1127
+4#Filtering in Frequency Domain#4.8#Illustration of Jaggies in Image Shrinking#Ex4_8.sce#3176/CH4/EX4.8/Ex4_8.sce#S##115125
+4#Filtering in Frequency Domain#4.8#Illustration of Jaggies in Image Shrinking#Ex4_8.tif#3176/DEPENDENCIES/Ex4_8.tif#D#Illustration of Jaggies in Image Shrinking#1126
+4#Filtering in Frequency Domain#4.7#Illustration of Aliasing in Resampled Images#Ex4_7.sce#3176/CH4/EX4.7/Ex4_7.sce#S##115124
+4#Filtering in Frequency Domain#4.7#Illustration of Aliasing in Resampled Images#Ex4_7.tif#3176/DEPENDENCIES/Ex4_7.tif#D#Illustration of Aliasing in Resampled Images#1125
+4#Filtering in Frequency Domain#4.4#The Mechanics of Computing the DFT#Ex4_4.sce#3176/CH4/EX4.4/Ex4_4.sce#S##115123
+4#Filtering in Frequency Domain#4.24#Enhancement of Corrupted Cassini Saturn Image by Notch Filtering#Ex4_24.sce#3176/CH4/EX4.24/Ex4_24.sce#S##115150
+4#Filtering in Frequency Domain#4.24#Enhancement of Corrupted Cassini Saturn Image by Notch Filtering#Ex4_24.tif#3176/DEPENDENCIES/Ex4_24.tif#D#Enhancement of Corrupted Cassini Saturn Image by Notch Filtering#1142
+4#Filtering in Frequency Domain#4.23#Reduction of Moire Patterns Using Notch Filtering#Ex4_23.sce#3176/CH4/EX4.23/Ex4_23.sce#S##115147
+4#Filtering in Frequency Domain#4.23#Reduction of Moire Patterns Using Notch Filtering#Ex_4_23_3.jpeg#3176/CH4/EX4.23/Ex_4_23_3.jpeg#R##115148
+4#Filtering in Frequency Domain#4.23#Reduction of Moire Patterns Using Notch Filtering#Ex_4_23_4.jpeg#3176/CH4/EX4.23/Ex_4_23_4.jpeg#R##115149
+4#Filtering in Frequency Domain#4.23#Reduction of Moire Patterns Using Notch Filtering#Ex4_23.tif#3176/DEPENDENCIES/Ex4_23.tif#D#Reduction of Moire Patterns Using Notch Filtering#1141
+4#Filtering in Frequency Domain#4.22#Image Enhancement using Homomorphic Filtering#Ex4_22.sce#3176/CH4/EX4.22/Ex4_22.sce#S##115146
+4#Filtering in Frequency Domain#4.22#Image Enhancement using Homomorphic Filtering#Ex4_22.tif#3176/DEPENDENCIES/Ex4_22.tif#D#Image Enhancement using Homomorphic Filtering#1140
+4#Filtering in Frequency Domain#4.21#Image Enhancement using High Frequency Emphasis Filtering#Ex4_21.sce#3176/CH4/EX4.21/Ex4_21.sce#S##115143
+4#Filtering in Frequency Domain#4.21#Image Enhancement using High Frequency Emphasis Filtering#Ex_4_21_3.jpeg#3176/CH4/EX4.21/Ex_4_21_3.jpeg#R##115144
+4#Filtering in Frequency Domain#4.21#Image Enhancement using High Frequency Emphasis Filtering#Ex_4_21_4.jpeg#3176/CH4/EX4.21/Ex_4_21_4.jpeg#R##115145
+4#Filtering in Frequency Domain#4.21#Image Enhancement using High Frequency Emphasis Filtering#Ex4_21.tif#3176/DEPENDENCIES/Ex4_21.tif#D#Image Enhancement using High Frequency Emphasis Filtering#1139
+4#Filtering in Frequency Domain#4.20#Image Sharpening in the Frequency Domain using the Laplacian#Ex4_20.sce#3176/CH4/EX4.20/Ex4_20.sce#S##115142
+4#Filtering in Frequency Domain#4.20#Image Sharpening in the Frequency Domain using the Laplacian#Ex4_20.tif#3176/DEPENDENCIES/Ex4_20.tif#D#Image Sharpning in the Frequency Domain using the Laplacian#1138
+4#Filtering in Frequency Domain#4.19#Using Highpass Filter and Thresholding for Image enhancement #Ex4_19.sce#3176/CH4/EX4.19/Ex4_19.sce#S##115139
+4#Filtering in Frequency Domain#4.19#Using Highpass Filter and Thresholding for Image enhancement #Ex_4_19_2.jpeg#3176/CH4/EX4.19/Ex_4_19_2.jpeg#R##115140
+4#Filtering in Frequency Domain#4.19#Using Highpass Filter and Thresholding for Image enhancement #Ex_4_19_3.jpeg#3176/CH4/EX4.19/Ex_4_19_3.jpeg#R##115141
+4#Filtering in Frequency Domain#4.19#Using Highpass Filter and Thresholding for Image enhancement #Ex4_19.tif#3176/DEPENDENCIES/Ex4_19.tif#D#Using Highpass Filter and Thresholding for Image enhancement#1137
+4#Filtering in Frequency Domain#4.18#Image Smoothing using Gaussian Lowpass Filter#Ex4_18.sce#3176/CH4/EX4.18/Ex4_18.sce#S##115136
+4#Filtering in Frequency Domain#4.18#Image Smoothing using Gaussian Lowpass Filter#Ex_4_18_2.jpeg#3176/CH4/EX4.18/Ex_4_18_2.jpeg#R##115137
+4#Filtering in Frequency Domain#4.18#Image Smoothing using Gaussian Lowpass Filter#Ex_4_18_4.jpeg#3176/CH4/EX4.18/Ex_4_18_4.jpeg#R##115138
+4#Filtering in Frequency Domain#4.18#Image Smoothing using Gaussian Lowpass Filter#Ex4_18.tif#3176/DEPENDENCIES/Ex4_18.tif#D#Image Smoothing using Gaussian Lowpass Filter#1136
+4#Filtering in Frequency Domain#4.17#Image Smoothing with a Butterworth Lowpass Filter#Ex4_17.sce#3176/CH4/EX4.17/Ex4_17.sce#S##115133
+4#Filtering in Frequency Domain#4.17#Image Smoothing with a Butterworth Lowpass Filter#Ex_4_17_2.jpeg#3176/CH4/EX4.17/Ex_4_17_2.jpeg#R##115134
+4#Filtering in Frequency Domain#4.17#Image Smoothing with a Butterworth Lowpass Filter#Ex_4_17_4.jpeg#3176/CH4/EX4.17/Ex_4_17_4.jpeg#R##115135
+4#Filtering in Frequency Domain#4.17#Image Smoothing with a Butterworth Lowpass Filter#Ex4_17.tif#3176/DEPENDENCIES/Ex4_17.tif#D#Image Smoothing with a Butterworth Lowoass Filter#1135
+4#Filtering in Frequency Domain#4.16#Image Smoothing using an ILPF#Ex4_16.sce#3176/CH4/EX4.16/Ex4_16.sce#S##115130
+4#Filtering in Frequency Domain#4.16#Image Smoothing using an ILPF#Ex_4_16_3.jpeg#3176/CH4/EX4.16/Ex_4_16_3.jpeg#R##115131
+4#Filtering in Frequency Domain#4.16#Image Smoothing using an ILPF#Ex_4_16_5.jpeg#3176/CH4/EX4.16/Ex_4_16_5.jpeg#R##115132
+4#Filtering in Frequency Domain#4.16#Image Smoothing using an ILPF#Ex4_16.tif#3176/DEPENDENCIES/Ex4_16.tif#D#Image Smoothing using an ILPF#1134
+4#Filtering in Frequency Domain#4.15#Obtaining a Frequency Domain Filtering from a Small Spatial Mask#Ex4_15.sce#3176/CH4/EX4.15/Ex4_15.sce#S##115129
+4#Filtering in Frequency Domain#4.15#Obtaining a Frequency Domain Filtering from a Small Spatial Mask#Ex4_15.tif#3176/DEPENDENCIES/Ex4_15.tif#D#Obtaining a Frequency Domain Filtering from a Small Spatial Mask#1133
+4#Filtering in Frequency Domain#4.14#Illustration of the Properties of the Fourier Spectrum and Phase Angle#Ex4_14.sce#3176/CH4/EX4.14/Ex4_14.sce#S##115128
+4#Filtering in Frequency Domain#4.14#Illustration of the Properties of the Fourier Spectrum and Phase Angle#Ex4_14_2.tif#3176/DEPENDENCIES/Ex4_14_2.tif#D#Illustration of the Properties of the Fourier Spectrum and Phase Angle#1132
+4#Filtering in Frequency Domain#4.14#Illustration of the Properties of the Fourier Spectrum and Phase Angle#Ex4_14.tif#3176/DEPENDENCIES/Ex4_14.tif#D#Illustration of the Properties of the Fourier Spectrum and Phase Angle#1131
+4#Filtering in Frequency Domain#4.13#2 D Fourier Spectrum of a Simple Function#Ex4_13.sce#3176/CH4/EX4.13/Ex4_13.sce#S##115127
+4#Filtering in Frequency Domain#4.13#2 D Fourier Spectrum of a Simple Function#Ex4_13_3.png#3176/DEPENDENCIES/Ex4_13_3.png#D#2 D Fourier Spectrum of a Simple Function#1130
+4#Filtering in Frequency Domain#4.13#2 D Fourier Spectrum of a Simple Function#Ex4_13_2.png#3176/DEPENDENCIES/Ex4_13_2.png#D#2 D Fourier Spectrum of a Simple Function#1129
+4#Filtering in Frequency Domain#4.13#2 D Fourier Spectrum of a Simple Function#Ex4_13_1.tif#3176/DEPENDENCIES/Ex4_13_1.tif#D#2 D Fourier Spectrum of a Simple Function#1128
+4#Filtering in Frequency Domain#4.1#Obtaining the Fourier Transform of a Simple Function#Ex4_1.sce#3176/CH4/EX4.1/Ex4_1.sce#S##115122
+3#Intensity Transformation and Spatial Filtering#3.8#Histogram Specification#Ex3_8.sce#3176/CH3/EX3.8/Ex3_8.sce#S##115111
+3#Intensity Transformation and Spatial Filtering#3.8#Histogram Specification#Ex_3_8_1.jpeg#3176/CH3/EX3.8/Ex_3_8_1.jpeg#R##115112
+3#Intensity Transformation and Spatial Filtering#3.8#Histogram Specification#Ex_3_8_2.jpeg#3176/CH3/EX3.8/Ex_3_8_2.jpeg#R##115113
+3#Intensity Transformation and Spatial Filtering#3.6#Histogram Equalization with probability calculation#Ex3_6.sce#3176/CH3/EX3.6/Ex3_6.sce#S##115110
+3#Intensity Transformation and Spatial Filtering#3.6#Histogram Equalization with probability calculation#Ex3_6_2.tif#3176/DEPENDENCIES/Ex3_6_2.tif#D#Histogram Equalization#1124
+3#Intensity Transformation and Spatial Filtering#3.6#Histogram Equalization with probability calculation#Ex3_6_1.tif#3176/DEPENDENCIES/Ex3_6_1.tif#D#Histogram Equalization#1123
+3#Intensity Transformation and Spatial Filtering#3.6#Histogram Equalization with probability calculation#Ex3_6.tif#3176/DEPENDENCIES/Ex3_6.tif#D#Histogram Equalization#1122
+3#Intensity Transformation and Spatial Filtering#3.5#A Simple Illustration of Histogram Equalization#Ex3_5.sce#3176/CH3/EX3.5/Ex3_5.sce#S##115109
+3#Intensity Transformation and Spatial Filtering#3.3#Intensity Level Slicing#Ex3_3.sce#3176/CH3/EX3.3/Ex3_3.sce#S##115108
+3#Intensity Transformation and Spatial Filtering#3.3#Intensity Level Slicing#Ex3_3.tif#3176/DEPENDENCIES/Ex3_3.tif#D#Intensity Level Slicing#1121
+3#Intensity Transformation and Spatial Filtering#3.2#Illustration of Power Law Transformation#Ex3_2.sce#3176/CH3/EX3.2/Ex3_2.sce#S##115107
+3#Intensity Transformation and Spatial Filtering#3.2#Illustration of Power Law Transformation#Ex3_2.tif#3176/DEPENDENCIES/Ex3_2.tif#D#Illustration of Power Law Transformation#1120
+3#Intensity Transformation and Spatial Filtering#3.17#Use of gradient for Edge Enhancement #Ex3_17.sce#3176/CH3/EX3.17/Ex3_17.sce#S##115121
+3#Intensity Transformation and Spatial Filtering#3.17#Use of gradient for Edge Enhancement #Ex3_17.png#3176/DEPENDENCIES/Ex3_17.png#D#Use of gradient for Edge Enhancement #1117
+3#Intensity Transformation and Spatial Filtering#3.16#Image Sharpning using UnSharp Masking and HighBoost Filtering #Ex3_16.sce#3176/CH3/EX3.16/Ex3_16.sce#S##115120
+3#Intensity Transformation and Spatial Filtering#3.16#Image Sharpning using UnSharp Masking and HighBoost Filtering #Ex3_16.tif#3176/DEPENDENCIES/Ex3_16.tif#D#Image Sharpning using Un-Sharp Masking and High-Boost Filtering #1116
+3#Intensity Transformation and Spatial Filtering#3.15#Image Sharpning using Laplacian #Ex3_15.sce#3176/CH3/EX3.15/Ex3_15.sce#S##115119
+3#Intensity Transformation and Spatial Filtering#3.15#Image Sharpning using Laplacian #Ex3_15.tif#3176/DEPENDENCIES/Ex3_15.tif#D#Image Sharpning using Laplacian #1119
+3#Intensity Transformation and Spatial Filtering#3.14#Median Filtering for Noise Reduction#Ex3_14.sce#3176/CH3/EX3.14/Ex3_14.sce#S##115118
+3#Intensity Transformation and Spatial Filtering#3.14#Median Filtering for Noise Reduction#Ex3_14.tif#3176/DEPENDENCIES/Ex3_14.tif#D#Median Filtering for Noise Reduction#1118
+3#Intensity Transformation and Spatial Filtering#3.13#Image Smoothing#Ex3_13.sce#3176/CH3/EX3.13/Ex3_13.sce#S##115117
+3#Intensity Transformation and Spatial Filtering#3.13#Image Smoothing#Ex3_13.tif#3176/DEPENDENCIES/Ex3_13.tif#D#Image Smoothing#1114
+3#Intensity Transformation and Spatial Filtering#3.12#Local Enhancement using Histogram Statistic#Ex3_12.sce#3176/CH3/EX3.12/Ex3_12.sce#S##115116
+3#Intensity Transformation and Spatial Filtering#3.12#Local Enhancement using Histogram Statistic#Ex3_12.tif#3176/DEPENDENCIES/Ex3_12.tif#D#Local Enhancement using Histogram Statistic#1113
+3#Intensity Transformation and Spatial Filtering#3.11#Computing Histogram Statistic#Ex3_11.sce#3176/CH3/EX3.11/Ex3_11.sce#S##115115
+3#Intensity Transformation and Spatial Filtering#3.10#Local Histogram Equalization#3_10_his_equ.jpeg#3176/CH3/EX3.10/3_10_his_equ.jpeg#R##110256
+3#Intensity Transformation and Spatial Filtering#3.10#Local Histogram Equalization#3_10_his_local.jpeg#3176/CH3/EX3.10/3_10_his_local.jpeg#R##110257
+3#Intensity Transformation and Spatial Filtering#3.10#Local Histogram Equalization#Ex3_10.sce#3176/CH3/EX3.10/Ex3_10.sce#S##115114
+3#Intensity Transformation and Spatial Filtering#3.10#Local Histogram Equalization#Ex3_10.tif#3176/DEPENDENCIES/Ex3_10.tif#D#Local Histogram Equalization#1115
+3#Intensity Transformation and Spatial Filtering#3.1#Gamma Intensity transformation#Ex3_1.sce#3176/CH3/EX3.1/Ex3_1.sce#S##115106
+3#Intensity Transformation and Spatial Filtering#3.1#Gamma Intensity transformation#Ex3_1.tif#3176/DEPENDENCIES/Ex3_1.tif#D#Gamma Intensity transformation#1112
+2#Digital Image Fundamental#2.7#Image Multiplication for Shadding Correction#Ex2_7.sce#3176/CH2/EX2.7/Ex2_7.sce#S##115104
+2#Digital Image Fundamental#2.7#Image Multiplication for Shadding Correction#Ex2_7_3.tif#3176/DEPENDENCIES/Ex2_7_3.tif#D#Image Multiplication for Shadding Correction#1107
+2#Digital Image Fundamental#2.7#Image Multiplication for Shadding Correction#Ex2_7_2.tif#3176/DEPENDENCIES/Ex2_7_2.tif#D#Image Multiplication for Shadding Correction#1106
+2#Digital Image Fundamental#2.7#Image Multiplication for Shadding Correction#Ex2_7_1.tif#3176/DEPENDENCIES/Ex2_7_1.tif#D#Image Multiplication for Shadding Correction#1105
+2#Digital Image Fundamental#2.7#Image Multiplication for Shadding Correction#Ex2_7.tif#3176/DEPENDENCIES/Ex2_7.tif#D#Image Multiplication for Shadding Correction#1104
+2#Digital Image Fundamental#2.6#Image Subtraction for Enhancing differences#Ex2_6.sce#3176/CH2/EX2.6/Ex2_6.sce#S##115103
+2#Digital Image Fundamental#2.6#Image Subtraction for Enhancing differences#Ex2_6.tif#3176/DEPENDENCIES/Ex2_6.tif#D#Image Subtraction for Enhancing differences#1103
+2#Digital Image Fundamental#2.5#Addition of Noisy Images for Noise Reduction#Ex2_5.sce#3176/CH2/EX2.5/Ex2_5.sce#S##115102
+2#Digital Image Fundamental#2.5#Addition of Noisy Images for Noise Reduction#Ex2_5.tif#3176/DEPENDENCIES/Ex2_5.tif#D#Addition of Noisy Images for Noise Reduction#1102
+2#Digital Image Fundamental#2.4#Comparision of Interpolation Approaches for Image Shrinking and Zooming#Ex2_4.sce#3176/CH2/EX2.4/Ex2_4.sce#S##115101
+2#Digital Image Fundamental#2.4#Comparision of Interpolation Approaches for Image Shrinking and Zooming#Ex2_4.tif#3176/DEPENDENCIES/Ex2_4.tif#D#Comparision of Interpolation Approaches for Image Shrinking and Zooming#1101
+2#Digital Image Fundamental#2.3#Typical Effects of Varying the Number of Intensity Levels in a Digital Image#Ex2_3.sce#3176/CH2/EX2.3/Ex2_3.sce#S##115100
+2#Digital Image Fundamental#2.3#Typical Effects of Varying the Number of Intensity Levels in a Digital Image#Ex2_3.png#3176/DEPENDENCIES/Ex2_3.png#D#Typical Effects of Varying the Number of Intensity Levels in a digital Image#1100
+2#Digital Image Fundamental#2.2#Illustration of the Effects of Reducing Image Spatial Resolution#Ex2_2.sce#3176/CH2/EX2.2/Ex2_2.sce#S##115099
+2#Digital Image Fundamental#2.2#Illustration of the Effects of Reducing Image Spatial Resolution#Ex2_2.tif#3176/DEPENDENCIES/Ex2_2.tif#D#Illustration of the Effects of Reducing Image Spatial Resolution#1099
+2#Digital Image Fundamental#2.12#Standard Deviation#Ex2_12.sce#3176/CH2/EX2.12/Ex2_12.sce#S##115105
+2#Digital Image Fundamental#2.12#Standard Deviation#Ex2_12_2.tif#3176/DEPENDENCIES/Ex2_12_2.tif#D#Standard Deviation#1111
+2#Digital Image Fundamental#2.12#Standard Deviation#Ex2_12_1.tif#3176/DEPENDENCIES/Ex2_12_1.tif#D#Standard Deviation#1110
+2#Digital Image Fundamental#2.12#Standard Deviation#Ex2_12.tif#3176/DEPENDENCIES/Ex2_12.tif#D#Standard Deviation#1109

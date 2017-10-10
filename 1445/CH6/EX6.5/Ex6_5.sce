@@ -1,6 +1,7 @@
 //CHAPTER 6- MAGNETIC CIRCUITS
 //Example 5
 
+clc;
 disp("CHAPTER 6");
 disp("EXAMPLE 5");
 
@@ -37,7 +38,7 @@ disp(sprintf("MMF of cast steel is %d AT",ms));
 
 totMMF=mg+mi+ms;
 I=totMMF/N;
-disp(sprintf("Current through the coil is %.3f A",I));
+disp(sprintf("Current through the coil is %f A",I));
 
 //END
 

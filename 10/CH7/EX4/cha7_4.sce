@@ -109,7 +109,7 @@ endfunction
  
 [Is1,Angle1]=polar2rect(28.1,-69.44)
  
-X=Is+%i*angle
+X=Is+%i*Angle
 
 X1=Is1+%i*Angle1
  

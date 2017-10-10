@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 39 // read it as example 38 in the book on page 2.94
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 39");
 
@@ -12,14 +13,8 @@ V=200;
 f=50;                               
 E=V+0*%i;                           // representing as a vector 
 //invZ=1/z1+1/z2;
-//Z23=1/Z2+1/Z3 which is equivalent impedance of parallel circuits
-//Z13=Z1+Z23    which is symbolic expression of total impedance
-//
-//SOLUTION
 Z23=z2*z3/(z2+z3);
 Z=z1+Z23;
-disp("SOLUTION (a)");
-disp(sprintf("The  symbolic expression of impedance %.1f+j%.1f Amp",real(Z),imag(Z)));
 I=E/Z;
 magI=sqrt(real(I)^2+imag(I)^2);     //total current
 phi=atan(-imag(I)/real(I));         //total phase
@@ -43,21 +38,21 @@ i2=e23/z3;
 magi2=sqrt(real(i2)^2+imag(i2)^2);
 phii2=atan(imag(i2)/real(i2));
 disp("SOLUTION (b)");
-disp(sprintf("The  current in Upper branch  is %.1f Amp",magi1));
-disp(sprintf("The  current in Lower branch  is %.1f Amp",magi2));
-disp(sprintf("The  Total current   is %.2f Amp",magI));//the text book answer is wrongly shown as 328 A
+disp(sprintf("The  current in Upper branch  is %f Amp",magi1));
+disp(sprintf("The  current in Lower branch  is %f Amp",magi2));
+disp(sprintf("The  Total current   is %f Amp",magI));
 //
 pf=cos(phi);                        //
 disp("SOLUTION (c)");
-disp(sprintf("The  Power factor  is %.3f",  pf));
+disp(sprintf("The  Power factor  is %f",  pf));
 //
 disp("SOLUTION (d)");
-disp(sprintf("The  voltage across series branch is %.1f V",  mage12));
-disp(sprintf("The  voltage across parallel branch is %.0f V",  mage23));
+disp(sprintf("The  voltage across series branch is %f V",  mage12));
+disp(sprintf("The  voltage across parallel branch is %f V",  mage23));
 //
-tp=V*magI*pf;   //total power
+tp=V*magI*pf;
 disp("SOLUTION (e)");
-disp(sprintf("The  total power absorbed in circuit is %d W",  tp));// the text book answer is 6480 W
+disp(sprintf("The  total power absorbed in circuit is %f W",  tp));
 disp(" "); 
 // 
 //END

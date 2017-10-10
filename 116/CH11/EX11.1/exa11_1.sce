@@ -1,6 +1,4 @@
-  
-//Caption:Program to determine the distance limit imposed by the need to echo E bit in a BRI S/T interface
- 
+
 //Example 11.1
  
 //Page 501

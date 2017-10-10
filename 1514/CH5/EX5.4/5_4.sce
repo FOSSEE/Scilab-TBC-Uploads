@@ -1,7 +1,7 @@
 //chapter 5
 //example 5.4
 //page 158
-clear all;
+clear;
 clc ;
 //given
 hie=2.1;//input resistance in kohm
@@ -26,5 +26,3 @@ printf("\nCircuit output impedance(Zo)=%.1f ohm",Zo);
 
 Av=1;
 printf("\nVoltage gain is approximately %d",Av);
-
-

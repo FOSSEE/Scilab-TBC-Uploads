@@ -19,12 +19,12 @@ Ie=Ve/Re
 //collector current
 Icq=Ie
 //collector to emitter voltage
-Vceq=Vcc-(Icq*(Rc+Re))
+Vceq=Vcc-(Icq*(Rc+Re));
+Vce=[Vcc Vceq 0];
 //collector voltage
 Vc=Vce+Ve
 //to draw DC load line
 Ic1=Vcc/(Rc+Re)
-Vce=[Vcc Vceq 0]
 Ic=[0 Icq Ic1]
 printf("Q(%f volt,%f ampere)\n",Vceq,Icq)
 plot2d(Vce, Ic)

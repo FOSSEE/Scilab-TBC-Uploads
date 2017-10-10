@@ -1,6 +1,6 @@
 //example(3.10)
 
- c=[-3 1 0 1]]
+ c=[-3 1 0 1]
  p3=poly(c,'x','coeff')
  roots(p3)
  //here

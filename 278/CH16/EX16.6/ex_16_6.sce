@@ -1,4 +1,4 @@
-//determine dimensions of I section of connecting rod
+
 clc
 //soltuion
 //given

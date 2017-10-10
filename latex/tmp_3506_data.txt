@@ -1,0 +1,82 @@
+16#Soliton Communication Systems#16.5#5#Ex_16_5.sce#3506/CH16/EX16.5/Ex_16_5.sce#S##120568
+16#Soliton Communication Systems#16.5#5#Ex_16_5.JPG#3506/CH16/EX16.5/Ex_16_5.JPG#R##120569
+16#Soliton Communication Systems#16.4#4#Ex_16_4.sce#3506/CH16/EX16.4/Ex_16_4.sce#S##120566
+16#Soliton Communication Systems#16.4#4#Ex_16_4.JPG#3506/CH16/EX16.4/Ex_16_4.JPG#R##120567
+16#Soliton Communication Systems#16.3#3#Ex_16_3.sce#3506/CH16/EX16.3/Ex_16_3.sce#S##120564
+16#Soliton Communication Systems#16.3#3#Ex_16_3.JPG#3506/CH16/EX16.3/Ex_16_3.JPG#R##120565
+16#Soliton Communication Systems#16.2#2#Ex_16_2.sce#3506/CH16/EX16.2/Ex_16_2.sce#S##120562
+16#Soliton Communication Systems#16.2#2#Ex_16_2.JPG#3506/CH16/EX16.2/Ex_16_2.JPG#R##120563
+16#Soliton Communication Systems#16.1#1#Ex_16_1.sce#3506/CH16/EX16.1/Ex_16_1.sce#S##120560
+16#Soliton Communication Systems#16.1#1#Ex_16_1.JPG#3506/CH16/EX16.1/Ex_16_1.JPG#R##120561
+14#Data Communication and LAN#14.1#1#Ex_14_1.JPG#3506/CH14/EX14.1/Ex_14_1.JPG#R##120653
+14#Data Communication and LAN#14.1#1#Ex_14_1.sce#3506/CH14/EX14.1/Ex_14_1.sce#S##120652
+13#Video Transmission#13.1#1#Ex_13_1.sce#3506/CH13/EX13.1/Ex_13_1.sce#S##120507
+13#Video Transmission#13.1#1#Ex_13_1.JPG#3506/CH13/EX13.1/Ex_13_1.JPG#R##120508
+11#Fiber Optic Communication System Design#11.2#2#Ex_11_2.sce#3506/CH11/EX11.2/Ex_11_2.sce#S##120495
+11#Fiber Optic Communication System Design#11.2#2#Ex_11_2.JPG#3506/CH11/EX11.2/Ex_11_2.JPG#R##120496
+11#Fiber Optic Communication System Design#11.1#1#Ex_11_1.sce#3506/CH11/EX11.1/Ex_11_1.sce#S##120493
+11#Fiber Optic Communication System Design#11.1#1#Ex_11_1.JPG#3506/CH11/EX11.1/Ex_11_1.JPG#R##120494
+10#Photonic Switching#10.2#2#Ex_10_2.sce#3506/CH10/EX10.2/Ex_10_2.sce#S##120505
+10#Photonic Switching#10.2#2#Ex_10_2.JPG#3506/CH10/EX10.2/Ex_10_2.JPG#R##120506
+10#Photonic Switching#10.1#1#Ex_10_1.JPG#3506/CH10/EX10.1/Ex_10_1.JPG#R##120504
+10#Photonic Switching#10.1#1#Ex_10_1.sce#3506/CH10/EX10.1/Ex_10_1.sce#S##120503
+9#Optical Amplifiers#9.3#3#Ex_9_3.JPG#3506/CH9/EX9.3/Ex_9_3.JPG#R##120502
+9#Optical Amplifiers#9.3#3#Ex_9_3.sce#3506/CH9/EX9.3/Ex_9_3.sce#S##120501
+9#Optical Amplifiers#9.2#2#Ex_9_2.JPG#3506/CH9/EX9.2/Ex_9_2.JPG#R##120500
+9#Optical Amplifiers#9.2#2#Ex_9_2.sce#3506/CH9/EX9.2/Ex_9_2.sce#S##120499
+9#Optical Amplifiers#9.1#1#Ex_9_1.JPG#3506/CH9/EX9.1/Ex_9_1.JPG#R##120498
+9#Optical Amplifiers#9.1#1#Ex_9_1.sce#3506/CH9/EX9.1/Ex_9_1.sce#S##120497
+8#Coherent Optical Communication#8.1#1#Ex_8_1.JPG#3506/CH8/EX8.1/Ex_8_1.JPG#R##119439
+8#Coherent Optical Communication#8.1#1#exp_8_1.sce#3506/CH8/EX8.1/exp_8_1.sce#S##119438
+7#Wavelength Division Multiplexing#7.1#1#Ex_7_1.JPG#3506/CH7/EX7.1/Ex_7_1.JPG#R##119437
+7#Wavelength Division Multiplexing#7.1#1#exp_7_1.sce#3506/CH7/EX7.1/exp_7_1.sce#S##119436
+6#Integrated Optics and Photonic Circuits#6.6#6#Ex_6_6.JPG#3506/CH6/EX6.6/Ex_6_6.JPG#R##119435
+6#Integrated Optics and Photonic Circuits#6.6#6#Ex_6_6.sce#3506/CH6/EX6.6/Ex_6_6.sce#S##119434
+6#Integrated Optics and Photonic Circuits#6.5#5#Ex_6_5.JPG#3506/CH6/EX6.5/Ex_6_5.JPG#R##120651
+6#Integrated Optics and Photonic Circuits#6.5#5#Ex_6_5.sce#3506/CH6/EX6.5/Ex_6_5.sce#S##120650
+6#Integrated Optics and Photonic Circuits#6.4#4#Ex_6_4.JPG#3506/CH6/EX6.4/Ex_6_4.JPG#R##119431
+6#Integrated Optics and Photonic Circuits#6.4#4#Ex_6_4.sce#3506/CH6/EX6.4/Ex_6_4.sce#S##119430
+6#Integrated Optics and Photonic Circuits#6.3#3#Ex_6_3.JPG#3506/CH6/EX6.3/Ex_6_3.JPG#R##119429
+6#Integrated Optics and Photonic Circuits#6.3#3#Ex_6_3.sce#3506/CH6/EX6.3/Ex_6_3.sce#S##119428
+6#Integrated Optics and Photonic Circuits#6.2#2#Ex_6_2.JPG#3506/CH6/EX6.2/Ex_6_2.JPG#R##119427
+6#Integrated Optics and Photonic Circuits#6.2#2#Ex_6_2.sce#3506/CH6/EX6.2/Ex_6_2.sce#S##119426
+6#Integrated Optics and Photonic Circuits#6.1#1#Ex_6_1.JPG#3506/CH6/EX6.1/Ex_6_1.JPG#R##119425
+6#Integrated Optics and Photonic Circuits#6.1#1#Ex_6_1.sce#3506/CH6/EX6.1/Ex_6_1.sce#S##119424
+5#Optical Detectors and Receivers#5.5#5#Exp_5_5.sce#3506/CH5/EX5.5/Exp_5_5.sce#S##119338
+5#Optical Detectors and Receivers#5.5#5#Ex_5_5.JPG#3506/CH5/EX5.5/Ex_5_5.JPG#R##119339
+5#Optical Detectors and Receivers#5.4#4#Ex_5_4.JPG#3506/CH5/EX5.4/Ex_5_4.JPG#R##119337
+5#Optical Detectors and Receivers#5.4#4#Exp_5_4.sce#3506/CH5/EX5.4/Exp_5_4.sce#S##119336
+5#Optical Detectors and Receivers#5.3#3#Ex_5_3.JPG#3506/CH5/EX5.3/Ex_5_3.JPG#R##119335
+5#Optical Detectors and Receivers#5.3#3#Exp_5_3.sce#3506/CH5/EX5.3/Exp_5_3.sce#S##119334
+5#Optical Detectors and Receivers#5.2#2#Ex_5_2.JPG#3506/CH5/EX5.2/Ex_5_2.JPG#R##119333
+5#Optical Detectors and Receivers#5.2#2#Exp_5_2.sce#3506/CH5/EX5.2/Exp_5_2.sce#S##119332
+5#Optical Detectors and Receivers#5.1#1#Ex_5_1.JPG#3506/CH5/EX5.1/Ex_5_1.JPG#R##119331
+5#Optical Detectors and Receivers#5.1#1#Exp_5_1.sce#3506/CH5/EX5.1/Exp_5_1.sce#S##119330
+4#Optical sources and transmitter circuits#4.4#4#Ex_4_4.JPG#3506/CH4/EX4.4/Ex_4_4.JPG#R##119175
+4#Optical sources and transmitter circuits#4.4#4#Ex_4_4.sce#3506/CH4/EX4.4/Ex_4_4.sce#S##119174
+4#Optical sources and transmitter circuits#4.3#3#Ex_4_3.JPG#3506/CH4/EX4.3/Ex_4_3.JPG#R##119173
+4#Optical sources and transmitter circuits#4.3#3#Ex_4_3.sce#3506/CH4/EX4.3/Ex_4_3.sce#S##119172
+4#Optical sources and transmitter circuits#4.2#2#Ex_4_2.JPG#3506/CH4/EX4.2/Ex_4_2.JPG#R##119177
+4#Optical sources and transmitter circuits#4.2#2#Ex_4_2.sce#3506/CH4/EX4.2/Ex_4_2.sce#S##119176
+4#Optical sources and transmitter circuits#4.1#1#Ex_4_1.sce#3506/CH4/EX4.1/Ex_4_1.sce#S##119162
+4#Optical sources and transmitter circuits#4.1#1#Ex_4_1.JPG#3506/CH4/EX4.1/Ex_4_1.JPG#R##119163
+3#Fiber optic technology#3.2#2#EXP_3_2.sce#3506/CH3/EX3.2/EXP_3_2.sce#S##119160
+3#Fiber optic technology#3.2#2#Ex_3_2.JPG#3506/CH3/EX3.2/Ex_3_2.JPG#R##119161
+3#Fiber optic technology#3.1#1#Ex_3_1.JPG#3506/CH3/EX3.1/Ex_3_1.JPG#R##119159
+3#Fiber optic technology#3.1#1#EXP_3_1.sce#3506/CH3/EX3.1/EXP_3_1.sce#S##119158
+2#Light propagation in optical fiber#2.9#9#EX_2_9.JPG#3506/CH2/EX2.9/EX_2_9.JPG#R##119153
+2#Light propagation in optical fiber#2.9#9#Exp_2_9.sce#3506/CH2/EX2.9/Exp_2_9.sce#S##119152
+2#Light propagation in optical fiber#2.8#8#Ex_2_8.JPG#3506/CH2/EX2.8/Ex_2_8.JPG#R##119157
+2#Light propagation in optical fiber#2.8#8#EXP_2_8.sce#3506/CH2/EX2.8/EXP_2_8.sce#S##119156
+2#Light propagation in optical fiber#2.6#6#ExP_2_6.sce#3506/CH2/EX2.6/ExP_2_6.sce#S##119150
+2#Light propagation in optical fiber#2.6#6#EX_2_6.JPG#3506/CH2/EX2.6/EX_2_6.JPG#R##119151
+2#Light propagation in optical fiber#2.4#4#Ex_2_4.sce#3506/CH2/EX2.4/Ex_2_4.sce#S##119148
+2#Light propagation in optical fiber#2.4#4#EX_2_4.JPG#3506/CH2/EX2.4/EX_2_4.JPG#R##119149
+2#Light propagation in optical fiber#2.3#3#EX_2_3.JPG#3506/CH2/EX2.3/EX_2_3.JPG#R##119147
+2#Light propagation in optical fiber#2.3#3#Ex_2_3.sce#3506/CH2/EX2.3/Ex_2_3.sce#S##119146
+2#Light propagation in optical fiber#2.2#2#EX_2_2.JPG#3506/CH2/EX2.2/EX_2_2.JPG#R##119145
+2#Light propagation in optical fiber#2.2#2#EXP_2_2.sce#3506/CH2/EX2.2/EXP_2_2.sce#S##119144
+2#Light propagation in optical fiber#2.10#10#EX_2_10.JPG#3506/CH2/EX2.10/EX_2_10.JPG#R##119155
+2#Light propagation in optical fiber#2.10#10#Exp_2_10.sce#3506/CH2/EX2.10/Exp_2_10.sce#S##119154
+2#Light propagation in optical fiber#2.1#1#Ex_2_1.JPG#3506/CH2/EX2.1/Ex_2_1.JPG#R##119143
+2#Light propagation in optical fiber#2.1#1#EXP_2_1.sce#3506/CH2/EX2.1/EXP_2_1.sce#S##119142

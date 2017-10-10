@@ -1,5 +1,3 @@
-
-
 //exapple 1.6 
 clc; funcprot(0);
 // Initialization of Variable
@@ -7,6 +5,7 @@ rhon=1068;//density of nitric acid
 mun=1.06/1000//viscosity of nitric acid
 g=9.81;
 l=278;
+pi = %pi;
 d=0.032;
 alpha=1;
 h2=57.4;//height to be raised

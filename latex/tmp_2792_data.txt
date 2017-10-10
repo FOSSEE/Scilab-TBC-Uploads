@@ -1,0 +1,110 @@
+11#MOSFET TECHNOLOGY DRIVER#11.9#internal quantum efficiency#Ex11_9.sce#2792/CH11/EX11.9/Ex11_9.sce#S##107019
+11#MOSFET TECHNOLOGY DRIVER#11.8#e h recombination time#Ex11_8.sce#2792/CH11/EX11.8/Ex11_8.sce#S##107018
+11#MOSFET TECHNOLOGY DRIVER#11.7#photocurrent dendity#Ex11_7.sce#2792/CH11/EX11.7/Ex11_7.sce#S##107017
+11#MOSFET TECHNOLOGY DRIVER#11.6#number of solar cell required to generate desire power#Ex11_6.sce#2792/CH11/EX11.6/Ex11_6.sce#S##111007
+11#MOSFET TECHNOLOGY DRIVER#11.5#Open circuit voltage#Ex11_5.sce#2792/CH11/EX11.5/Ex11_5.sce#S##107015
+11#MOSFET TECHNOLOGY DRIVER#11.4#Photocurrent#Ex11_4.sce#2792/CH11/EX11.4/Ex11_4.sce#S##107014
+11#MOSFET TECHNOLOGY DRIVER#11.3#excess carrier density#Ex11_3.sce#2792/CH11/EX11.3/Ex11_3.sce#S##107013
+11#MOSFET TECHNOLOGY DRIVER#11.2#Length of material#Ex11_2.sce#2792/CH11/EX11.2/Ex11_2.sce#S##107012
+11#MOSFET TECHNOLOGY DRIVER#11.14#threshold carrier density#Ex11_14.sce#2792/CH11/EX11.14/Ex11_14.sce#S##107023
+11#MOSFET TECHNOLOGY DRIVER#11.12#Cavity length#Ex11_12.sce#2792/CH11/EX11.12/Ex11_12.sce#S##107022
+11#MOSFET TECHNOLOGY DRIVER#11.11#photon flux and Optical power#Ex11_11.sce#2792/CH11/EX11.11/Ex11_11.sce#S##107021
+11#MOSFET TECHNOLOGY DRIVER#11.10#injection efficiency#Ex11_10.sce#2792/CH11/EX11.10/Ex11_10.sce#S##107020
+11#MOSFET TECHNOLOGY DRIVER#11.1#Absorption coefficient#Ex11_1.sce#2792/CH11/EX11.1/Ex11_1.sce#S##107011
+10#MOSFET TECHNOLOGY DRIVER#10.4#Cutoff frequency#Ex10_4.sce#2792/CH10/EX10.4/Ex10_4.sce#S##107025
+10#MOSFET TECHNOLOGY DRIVER#10.3#Output high of the inverter#Ex10_3.sce#2792/CH10/EX10.3/Ex10_3.sce#S##111006
+10#MOSFET TECHNOLOGY DRIVER#10.2#Device parameter#Ex10_2.sce#2792/CH10/EX10.2/Ex10_2.sce#S##107026
+10#MOSFET TECHNOLOGY DRIVER#10.1#Critical voltage and noise margin#Ex10_1.sce#2792/CH10/EX10.1/Ex10_1.sce#S##111005
+9#field effect transistors MOSFET#9.9#mobility of electrons#Ex9_9.sce#2792/CH9/EX9.9/Ex9_9.sce#S##107008
+9#field effect transistors MOSFET#9.8#Drain current#Ex9_8.sce#2792/CH9/EX9.8/Ex9_8.sce#S##107005
+9#field effect transistors MOSFET#9.7#saturation current#Ex9_7.sce#2792/CH9/EX9.7/Ex9_7.sce#S##111004
+9#field effect transistors MOSFET#9.6#Capacitance#Ex9_6.sce#2792/CH9/EX9.6/Ex9_6.sce#S##111003
+9#field effect transistors MOSFET#9.4#channel conductivity and threshold voltage#Ex9_4.sce#2792/CH9/EX9.4/Ex9_4.sce#S##111002
+9#field effect transistors MOSFET#9.3#Threshold voltage#Ex9_3.sce#2792/CH9/EX9.3/Ex9_3.sce#S##106982
+9#field effect transistors MOSFET#9.2#potential#Ex9_2.sce#2792/CH9/EX9.2/Ex9_2.sce#S##106981
+9#field effect transistors MOSFET#9.11#threshold voltage and dopant density#Ex9_11.sce#2792/CH9/EX9.11/Ex9_11.sce#S##107010
+9#field effect transistors MOSFET#9.10#shift in threshold voltage#Ex9_10.sce#2792/CH9/EX9.10/Ex9_10.sce#S##116193
+9#field effect transistors MOSFET#9.1#maximum depletion width#Ex9_1.sce#2792/CH9/EX9.1/Ex9_1.sce#S##111000
+8#Field effect Transistors JFET and MESFET#8.9#transit time#Ex8_9.sce#2792/CH8/EX8.9/Ex8_9.sce#S##106978
+8#Field effect Transistors JFET and MESFET#8.8#maximum cutoff frequency#Ex8_8.sce#2792/CH8/EX8.8/Ex8_8.sce#S##106977
+8#Field effect Transistors JFET and MESFET#8.7#Output current and output resistance#Ex8_7.sce#2792/CH8/EX8.7/Ex8_7.sce#S##106976
+8#Field effect Transistors JFET and MESFET#8.6#Transconductance of the device#Ex8_6.sce#2792/CH8/EX8.6/Ex8_6.sce#S##110999
+8#Field effect Transistors JFET and MESFET#8.5#gate bias#Ex8_5.sce#2792/CH8/EX8.5/Ex8_5.sce#S##106975
+8#Field effect Transistors JFET and MESFET#8.4#maximum channel thickness#Ex8_4.sce#2792/CH8/EX8.4/Ex8_4.sce#S##106974
+8#Field effect Transistors JFET and MESFET#8.3#Threshold voltage#Ex8_3.sce#2792/CH8/EX8.3/Ex8_3.sce#S##106973
+8#Field effect Transistors JFET and MESFET#8.2#gate current density#Ex8_2.sce#2792/CH8/EX8.2/Ex8_2.sce#S##106972
+8#Field effect Transistors JFET and MESFET#8.10#maximum frequency#Ex8_10.sce#2792/CH8/EX8.10/Ex8_10.sce#S##106979
+8#Field effect Transistors JFET and MESFET#8.1#Built in voltage and pinch off#Ex8_1.sce#2792/CH8/EX8.1/Ex8_1.sce#S##106971
+7#Bipolar junction transistor#7.9#punchthrough voltage#Ex7_9.sce#2792/CH7/EX7.9/Ex7_9.sce#S##110998
+7#Bipolar junction transistor#7.8#early voltage#Ex7_8.sce#2792/CH7/EX7.8/Ex7_8.sce#S##106963
+7#Bipolar junction transistor#7.7#emitter efficiency#Ex7_7.sce#2792/CH7/EX7.7/Ex7_7.sce#S##106962
+7#Bipolar junction transistor#7.6#current gain#Ex7_6.sce#2792/CH7/EX7.6/Ex7_6.sce#S##106961
+7#Bipolar junction transistor#7.5#current gain and transconductance#Ex7_5.sce#2792/CH7/EX7.5/Ex7_5.sce#S##106960
+7#Bipolar junction transistor#7.4#electron diffusion length and base width#Ex7_4.sce#2792/CH7/EX7.4/Ex7_4.sce#S##106959
+7#Bipolar junction transistor#7.3#emitter doping#Ex7_3.sce#2792/CH7/EX7.3/Ex7_3.sce#S##106958
+7#Bipolar junction transistor#7.2#saturation voltage#Ex7_2.sce#2792/CH7/EX7.2/Ex7_2.sce#S##106957
+7#Bipolar junction transistor#7.14#emitter efficiency#Ex7_14.sce#2792/CH7/EX7.14/Ex7_14.sce#S##106970
+7#Bipolar junction transistor#7.13#hole concentration#Ex7_13.sce#2792/CH7/EX7.13/Ex7_13.sce#S##110997
+7#Bipolar junction transistor#7.12#Cutoff frequency#Ex7_12.sce#2792/CH7/EX7.12/Ex7_12.sce#S##106968
+7#Bipolar junction transistor#7.11#Output conductance#Ex7_11.sce#2792/CH7/EX7.11/Ex7_11.sce#S##106967
+7#Bipolar junction transistor#7.10#base width#Ex7_10.sce#2792/CH7/EX7.10/Ex7_10.sce#S##116192
+6#semiconductor junctions with Metals and insulators#6.7#length of resistor#Ex6_7.sce#2792/CH6/EX6.7/Ex6_7.sce#S##106953
+6#semiconductor junctions with Metals and insulators#6.6#Tunneling probability#Ex6_6.sce#2792/CH6/EX6.6/Ex6_6.sce#S##108457
+6#semiconductor junctions with Metals and insulators#6.5#capacitance#Ex6_5.sce#2792/CH6/EX6.5/Ex6_5.sce#S##106952
+6#semiconductor junctions with Metals and insulators#6.4#saturation current density#Ex6_4.sce#2792/CH6/EX6.4/Ex6_4.sce#S##106951
+6#semiconductor junctions with Metals and insulators#6.3#diode current#Ex6_3.sce#2792/CH6/EX6.3/Ex6_3.sce#S##106950
+6#semiconductor junctions with Metals and insulators#6.2#doping density#Ex6_2.sce#2792/CH6/EX6.2/Ex6_2.sce#S##106949
+6#semiconductor junctions with Metals and insulators#6.1#Mobility of electrons in alluminium#Ex6_1.sce#2792/CH6/EX6.1/Ex6_1.sce#S##106948
+5#Junction in Semiconductors P N diodes#5.9#prefactor in short diode#Ex5_9.sce#2792/CH5/EX5.9/Ex5_9.sce#S##110995
+5#Junction in Semiconductors P N diodes#5.8#photocurrent#Ex5_8.sce#2792/CH5/EX5.8/Ex5_8.sce#S##115338
+5#Junction in Semiconductors P N diodes#5.7#Photon generation rate and optical power#Ex5_7.sce#2792/CH5/EX5.7/Ex5_7.sce#S##110993
+5#Junction in Semiconductors P N diodes#5.6#diode injection efficiency#Ex5_6.sce#2792/CH5/EX5.6/Ex5_6.sce#S##110992
+5#Junction in Semiconductors P N diodes#5.5#current density#Ex5_5.sce#2792/CH5/EX5.5/Ex5_5.sce#S##107130
+5#Junction in Semiconductors P N diodes#5.4#Diode current#Ex5_4.sce#2792/CH5/EX5.4/Ex5_4.sce#S##110991
+5#Junction in Semiconductors P N diodes#5.3#Average field in depletion region#Ex5_3.sce#2792/CH5/EX5.3/Ex5_3.sce#S##108459
+5#Junction in Semiconductors P N diodes#5.2#depletion width#Ex5_2.sce#2792/CH5/EX5.2/Ex5_2.sce#S##108458
+5#Junction in Semiconductors P N diodes#5.15#Total diode recovery time#Ex5_15.sce#2792/CH5/EX5.15/Ex5_15.sce#S##107138
+5#Junction in Semiconductors P N diodes#5.14#admittance of diode#Ex5_14.sce#2792/CH5/EX5.14/Ex5_14.sce#S##107137
+5#Junction in Semiconductors P N diodes#5.13#thickness and width of n region#Ex5_13.sce#2792/CH5/EX5.13/Ex5_13.sce#S##113927
+5#Junction in Semiconductors P N diodes#5.12#Breakdown voltage#Ex5_12.sce#2792/CH5/EX5.12/Ex5_12.sce#S##107136
+5#Junction in Semiconductors P N diodes#5.11#Diode current and ideality factor#Ex5_11.sce#2792/CH5/EX5.11/Ex5_11.sce#S##110990
+5#Junction in Semiconductors P N diodes#5.10#Generation recombination time#Ex5_10.sce#2792/CH5/EX5.10/Ex5_10.sce#S##107135
+5#Junction in Semiconductors P N diodes#5.1#Contact potential and depletion width#Ex5_1.sce#2792/CH5/EX5.1/Ex5_1.sce#S##107127
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.9#diffusion coefficient#Ex3_9.sce#2792/CH3/EX3.9/Ex3_9.sce#S##106939
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.8#Diffusion current density#Ex3_8.sce#2792/CH3/EX3.8/Ex3_8.sce#S##106938
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.7#Tunneling probability#Ex3_7.sce#2792/CH3/EX3.7/Ex3_7.sce#S##106937
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.6#transit time#Ex3_6.sce#2792/CH3/EX3.6/Ex3_6.sce#S##105886
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.5#RELAXATION TIME#Ex3_5.sce#2792/CH3/EX3.5/Ex3_5.sce#S##105885
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.4#Maximum and minimum conductivity#Ex3_4.sce#2792/CH3/EX3.4/Ex3_4.sce#S##105884
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.3#conductivity #Ex3_3.sce#2792/CH3/EX3.3/Ex3_3.sce#S##105883
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.2#Scattering time#Ex3_2.sce#2792/CH3/EX3.2/Ex3_2.sce#S##105882
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.16#fraction of donor and diffusion length#Ex3_16.sce#2792/CH3/EX3.16/Ex3_16.sce#S##106947
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.14#diffusion length#Ex3_14.sce#2792/CH3/EX3.14/Ex3_14.sce#S##108772
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.13#Electron trapping time#Ex3_13.sce#2792/CH3/EX3.13/Ex3_13.sce#S##106945
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.12#Carrier generation rate#Ex3_12.sce#2792/CH3/EX3.12/Ex3_12.sce#S##106944
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.11#Minimum thickness of sample#Ex3_11.sce#2792/CH3/EX3.11/Ex3_11.sce#S##106942
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.10#position of electron and hole quasi fermi level#Ex3_10.sce#2792/CH3/EX3.10/Ex3_10.sce#S##106941
+3#CARRIER DYNAMICS IN SEMICONDUCTOR#3.1#Relaxation time#Ex3_1.sce#2792/CH3/EX3.1/Ex3_1.sce#S##105881
+2#Electron in semiconductors#2.9#effective density of states#Ex2_9.sce#2792/CH2/EX2.9/Ex2_9.sce#S##107140
+2#Electron in semiconductors#2.5#Energy of electron#Ex2_5.sce#2792/CH2/EX2.5/Ex2_5.sce#S##105879
+2#Electron in semiconductors#2.4#Momentum of electrons and free electrons#Ex2_4.sce#2792/CH2/EX2.4/Ex2_4.sce#S##105878
+2#Electron in semiconductors#2.3#ENERGY OF ELECTRON AND OF HOLE#Ex2_3.sce#2792/CH2/EX2.3/Ex2_3.sce#S##110987
+2#Electron in semiconductors#2.2#Density of states masses#Ex2_2.sce#2792/CH2/EX2.2/Ex2_2.sce#S##105876
+2#Electron in semiconductors#2.17#Free electron density#Ex2_17.sce#2792/CH2/EX2.17/Ex2_17.sce#S##108465
+2#Electron in semiconductors#2.16#fraction of ionised#Ex2_16.sce#2792/CH2/EX2.16/Ex2_16.sce#S##107139
+2#Electron in semiconductors#2.14#Electron carrier concentration using Boltzmann approximation and Joyce dixon#Ex2_14.sce#2792/CH2/EX2.14/Ex2_14.sce#S##110989
+2#Electron in semiconductors#2.13#Position of fermi level#Ex2_13.sce#2792/CH2/EX2.13/Ex2_13.sce#S##105880
+2#Electron in semiconductors#2.12#Donor and acceptor energy level#Ex2_12.sce#2792/CH2/EX2.12/Ex2_12.sce#S##110988
+2#Electron in semiconductors#2.11#Intrinsic carrier concentration#Ex2_11.sce#2792/CH2/EX2.11/Ex2_11.sce#S##108462
+2#Electron in semiconductors#2.10#Position of intrinsic Fermi level#Ex2_10.sce#2792/CH2/EX2.10/Ex2_10.sce#S##107141
+2#Electron in semiconductors#2.1#K value#Ex2_1.sce#2792/CH2/EX2.1/Ex2_1.sce#S##105875
+1#ELECTRONS IN SOLIDS#1.9#FERMI LEVEL ENERGY#Ex1_9.sce#2792/CH1/EX1.9/Ex1_9.sce#S##110986
+1#ELECTRONS IN SOLIDS#1.8#DENSITY OF STATES#Ex1_8.sce#2792/CH1/EX1.8/Ex1_8.sce#S##97549
+1#ELECTRONS IN SOLIDS#1.7#DENSITY#Ex1_7.sce#2792/CH1/EX1.7/Ex1_7.sce#S##97548
+1#ELECTRONS IN SOLIDS#1.6#WAVELENGTH#Ex1_6.sce#2792/CH1/EX1.6/Ex1_6.sce#S##97547
+1#ELECTRONS IN SOLIDS#1.5#HEIGHT OF MONOLAYER#Ex1_5.sce#2792/CH1/EX1.5/Ex1_5.sce#S##97546
+1#ELECTRONS IN SOLIDS#1.4#SURFACE DENSITY#Ex1_4.sce#2792/CH1/EX1.4/Ex1_4.sce#S##97545
+1#ELECTRONS IN SOLIDS#1.3#NUMBER OF ATOMS#Ex1_3.sce#2792/CH1/EX1.3/Ex1_3.sce#S##110985
+1#ELECTRONS IN SOLIDS#1.2#Number of silcon atom in cubic centimeter#Ex1_2.sce#2792/CH1/EX1.2/Ex1_2.sce#S##97543
+1#ELECTRONS IN SOLIDS#1.10#BOLTZMANN STATISTICS AND JOYCE DIXON APPROXIMATION#Ex1_10.sce#2792/CH1/EX1.10/Ex1_10.sce#S##97551
+1#ELECTRONS IN SOLIDS#1.1#ELECTRON DENSITY #Ex1_1.sce#2792/CH1/EX1.1/Ex1_1.sce#S##97542

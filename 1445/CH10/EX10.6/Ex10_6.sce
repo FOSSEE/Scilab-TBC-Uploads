@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 6
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 6");
 
@@ -20,7 +21,7 @@ disp(sprintf("The speed of the motor is %d rpm",N_r));
 E_s=E/sqrt(3);               //phase voltage=(line voltage)/sqrt(3) for star connection
 E_r=E_s*(1/ratio); 
 E_r_dash=s*E_r;
-disp(sprintf("The rotor induced emf above 2 Hz is %.3f V per phase",E_r_dash));  //Answer given in the book is wrong
+disp(sprintf("The rotor induced emf above 2 Hz is %f V per phase",E_r_dash));  //Answer given in the book is wrong
 
 //END
 

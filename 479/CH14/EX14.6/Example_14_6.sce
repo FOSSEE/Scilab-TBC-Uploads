@@ -20,14 +20,14 @@ b_SO2 = 9.512*10^-3;
 b_O2 = 3.102*10^-3;
 b_SO3 = 25.537*10^-3;
 //Standard enthalpy of the following components at 25 deg cel in Kcal/Kgmole are given as
-H_SO2 -70960;
+H_SO2 =-70960;
 H_O2 = 0;
 H_SO3 = -94450;
 //Standard free energy of the following components at 25 deg cel in Kcal/Kgmole K are given as
 F_SO2 = -71680;
 F_O2 = 0;
 F_SO3 = -88590;
-n_O2 = n_SO2;//O2 fed in Kgmole; since 50 mole percent mixture of SO2 & O2 is fed
+n_O2 = n_SO2;//O2 fed in Kgmole; since 50 mole percent mixture of SO2 &amp; O2 is fed
 n_SO3 = n_SO2;//SO3 formed in Kgmole
 n_O2_e = n_O2-(n_O2/2);//Kgmoles of O2 in exit gas
 n_O2_r = n_O2/2;//Kgmoles of O2 reacted

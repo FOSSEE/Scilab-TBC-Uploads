@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 32
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 32");
 
@@ -23,7 +24,7 @@ A=[10 -4 0;-4 9 -4;0 -4 8];
 b=[50;0;10];
 x=inv(A)*b;
 I2=x(2,:);                       //to access the 2nd element of 3X1 matrix
-disp(sprintf("By Mesh analysis, the current through 1Ω resistor is %.2f A",I2));
+disp(sprintf("By Mesh analysis, the current through 1Ω resistor is %f A",I2));
 
 //END 
 

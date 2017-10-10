@@ -1,13 +1,10 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 53 Read Example 52 of the Text Book
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 53");
 
-//Given
-//Voltage 230 <30 V
-//Current in branches 20 <60 A & 40<-30 A
-//
 //VARIABLE INITIALIZATION
 v=230;                         //in Volts
 angle_v=30;                    //in degrees
@@ -37,11 +34,11 @@ endfunction;
 //solution (i)
 z=v/I;
 angle_z=angle_v-angle;
-disp(sprintf("(i) The total impedance of the circuit is %.2f Ω, %.2f degrees",z,angle_z));
+disp(sprintf("(i) The total impedance of the circuit is %f Ω, %f degrees",z,angle_z));
 
 //solution (ii)
 //disp(sprintf("The value of I is %f and angle is %f",I, angle_z));
-pf=cos(angle_z*(%pi/180));      //power factor
-p=v*I*pf;                       // Power taken
-disp(sprintf("(ii) The power taken is %.0f W",p));
+pf=cos(angle_z*(%pi/180));
+p=v*I*pf;
+disp(sprintf("(ii) The power taken is %f W",p));
 //END

@@ -3,7 +3,8 @@
 //Ex_8//page 573
 Nd=3*10^15
 eps=8.85*10^-14*11.7
-L=10
+L=10;
+e = 1.6*10^-19;
 ID1=4
 VDSsat=0  //assume
 VDS1=VDSsat+2
@@ -16,4 +17,3 @@ ID22=ID1*(L/(L-0.5*delL2))
 ID11=ID1*(L/(L-0.5*delL1))
 rds=(VDS2-VDS1)/(ID22-ID11)
 printf('The small signal output resistance at the drain terminal due to channel length modulation effects is %1.1f kohm',rds)
-

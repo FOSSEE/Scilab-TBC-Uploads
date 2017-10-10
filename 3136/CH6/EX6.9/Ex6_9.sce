@@ -1,5 +1,6 @@
-clear all; clc;
+clear; clc;
 
+m = 100;
 disp("The inlet specific volume is calculated from the ideal gas equation")
 R=53.3
 T1=580
@@ -57,37 +58,3 @@ disp("StageNo   H_ad          Ns       Eta_ad      Ps")
 disp("       (ft-lbf/lbm)                         (hp)")
 table = [StageNo' H_ad' Ns' Eta_ad' Ps'];
 disp(table)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

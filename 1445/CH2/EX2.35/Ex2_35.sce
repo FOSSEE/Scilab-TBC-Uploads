@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 35 // read it as example 34 in the book on page 2.88
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 35");
 
@@ -19,27 +20,27 @@ XC=1/(2*%pi*f*C);
 X=XL-XC;
 Z=sqrt(R^2 +X^2);
 disp("SOLUTION (a)");
-disp(sprintf("The total impedence is %d Ω",  Z));
+disp(sprintf("The total impedence is %f Ω",  Z));
 I=V/Z;
 disp("SOLUTION (b)");
-disp(sprintf("The total current is %.3f Amp", I));
+disp(sprintf("The total current is %f Amp", I));
 Vr=I*R;
 Vi=I*XL;
 Vc=I*XC;
 disp("SOLUTION (c)");
-disp(sprintf("The voltage across resistance is %.1f V",Vr));
-disp(sprintf("The voltage across inductance is %.1f V",Vi));
-disp(sprintf("The voltage across capacitance is %.1f V",Vc));
+disp(sprintf("The voltage across resistance is %f V",Vr));
+disp(sprintf("The voltage across inductance is %f V",Vi));
+disp(sprintf("The voltage across capacitance is %f V",Vc));
 pf=R/Z;
 pc=V*I*pf;
 disp("SOLUTION (d)");
-disp(sprintf("The Power Factor is %.2f leading",  pf));
+disp(sprintf("The Power Factor is %f leading",  pf));
 disp("SOLUTION (e)");
-disp(sprintf("The Power consumed in the circuit is %.0f W",pc));
+disp(sprintf("The Power consumed in the circuit is %f W",pc));
 //XL=XC
 f0=1/(2*%pi*sqrt(L*C));
 disp("SOLUTION (f)");
-disp(sprintf("Resonance will occur at %.1f Hz",f0));//The text book answer is 39.8 which is apprently wrong
+disp(sprintf("Resonance will occur at %f Hz",f0));
 disp(" "); 
 // 
 //END

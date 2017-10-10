@@ -1,4 +1,4 @@
-//to determine value of minimum ultimate strength
+
 s=%s
 sigma1=300
 sigma2=-150

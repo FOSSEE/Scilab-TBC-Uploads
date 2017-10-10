@@ -1,4 +1,4 @@
-//CAPTION: Design_of_an_N-Type_Three-Phase_Surface-Channel_CCD
+
 //chapter_no.-6,  page_no.-279
 //Example_no.6-6-2
 

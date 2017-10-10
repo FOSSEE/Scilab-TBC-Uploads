@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 3
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 3");
 
@@ -42,14 +43,14 @@ N_r=round(N_r);
 disp(sprintf("(vi) The speed of rotor at 10%% slip is %d rpm",N_r));
 s1=(N_s-N_r)/N_s;
 fr=s1*f;
-disp(sprintf(" The rotor frequency at this speed is %.0f Hz",fr));
+disp(sprintf(" The rotor frequency at this speed is %f Hz",fr));
 
 //solution (vii)
 v=230;
 ratio1=1/0.5;                    //stator to rotor turns ratio 
 E_rotor=v*(1/ratio1);
 E_rotor_dash=ratio*E_rotor;
-disp(sprintf("(vii) The rotor induced emf is %.1f V",E_rotor_dash));
+disp(sprintf("(vii) The rotor induced emf is %f V",E_rotor_dash));
 
 //END
 

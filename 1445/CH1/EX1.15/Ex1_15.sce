@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 15
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 15");
 

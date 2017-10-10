@@ -1,5 +1,4 @@
-//find max torque
-clc
+
 //solution
 //given
 l=1000//mm

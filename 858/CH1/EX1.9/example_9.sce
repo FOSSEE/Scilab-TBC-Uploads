@@ -19,6 +19,6 @@ yt=pt/P;
 printf("vapor composition of benzene = %f \n vapor composition of toluene = %f\n\n",yb,yt)
 
 //for liquid boiling at 90 degree C and 760 torr, liquid phase composition
-//x=(760-408)/(1013-408);
-(1013*x)+(408*(1-x))==760;
+x=(760-408)/(1013-408);
+
 printf("mole fraction of benzene in liquid mixture = %f \n mole fraction of toluene in liquid mixture= %f",x,1-x)

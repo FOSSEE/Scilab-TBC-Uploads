@@ -1,5 +1,3 @@
-//CAPTION: Threshold_Voltage_of_an_Ideal_MOSFET
-
 //chapter_no.-6,  page_no.-260
 //Example_no.6-4-1
 clc;

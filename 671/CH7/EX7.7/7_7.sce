@@ -18,7 +18,7 @@ Hcd=200
 Hab=Hcd
 Fabcd=Hab*l1
 Fad=Fbc+Fabcd
-Had=Fab/l2
+Had=Fabcd/l2
 Bad=1.04
 fluxad=Bad*A2
 

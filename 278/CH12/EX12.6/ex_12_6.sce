@@ -1,4 +1,4 @@
-//design knuckle joint
+
 clc
 //solution
 //given

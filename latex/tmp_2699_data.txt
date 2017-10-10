@@ -1,0 +1,272 @@
+14#Digital Logic#14.9#Boolean Solutions#Ex14_9.sce#2699/CH14/EX14.9/Ex14_9.sce#S##97183
+14#Digital Logic#14.8#Boolean Solutions#Ex14_8.sce#2699/CH14/EX14.8/Ex14_8.sce#S##97182
+14#Digital Logic#14.7#Boolean Solutions#Ex14_7.sce#2699/CH14/EX14.7/Ex14_7.sce#S##97181
+14#Digital Logic#14.6#Boolean Solutions#Ex14_6.sce#2699/CH14/EX14.6/Ex14_6.sce#S##97180
+14#Digital Logic#14.5#Boolean Solutions#Ex14_5.sce#2699/CH14/EX14.5/Ex14_5.sce#S##97179
+14#Digital Logic#14.4#Boolean Solutions#Ex14_4.sce#2699/CH14/EX14.4/Ex14_4.sce#S##97178
+14#Digital Logic#14.3#Implementation of EXNOR gate using NOR gate#Ex14_3.sce#2699/CH14/EX14.3/Ex14_3.sce#S##97176
+14#Digital Logic#14.3#Implementation of EXNOR gate using NOR gate#Fig_Ex14_3.xcos#2699/CH14/EX14.3/Fig_Ex14_3.xcos#X##97177
+14#Digital Logic#14.22#simplification of the given logic expression using Demorgans theorem#Ex14_22.sce#2699/CH14/EX14.22/Ex14_22.sce#S##97198
+14#Digital Logic#14.21#simplification of the given logic expression #Ex14_21.sce#2699/CH14/EX14.21/Ex14_21.sce#S##97197
+14#Digital Logic#14.20#truth table of the given logic expression#Ex14_20.sce#2699/CH14/EX14.20/Ex14_20.sce#S##97196
+14#Digital Logic#14.2#Implementation of EXNOR gate using NAND gate#Ex14_2.sce#2699/CH14/EX14.2/Ex14_2.sce#S##97174
+14#Digital Logic#14.2#Implementation of EXNOR gate using NAND gate#Fig_Ex14_2.xcos#2699/CH14/EX14.2/Fig_Ex14_2.xcos#X##97175
+14#Digital Logic#14.19#construction of the given logic circuit using AND OR and INVERTER logic#Ex14_19.sce#2699/CH14/EX14.19/Ex14_19.sce#S##97193
+14#Digital Logic#14.19#construction of the given logic circuit using AND OR and INVERTER logic#Fig_Ex14_19_a.xcos#2699/CH14/EX14.19/Fig_Ex14_19_a.xcos#X##97194
+14#Digital Logic#14.19#construction of the given logic circuit using AND OR and INVERTER logic#Fig_Ex14_19_b.xcos#2699/CH14/EX14.19/Fig_Ex14_19_b.xcos#X##97195
+14#Digital Logic#14.18#Boolean Solutions#Ex14_18.sce#2699/CH14/EX14.18/Ex14_18.sce#S##97192
+14#Digital Logic#14.17#Boolean Solutions#Ex14_17.sce#2699/CH14/EX14.17/Ex14_17.sce#S##97191
+14#Digital Logic#14.16#Boolean Solutions#Ex14_16.sce#2699/CH14/EX14.16/Ex14_16.sce#S##97190
+14#Digital Logic#14.15#Boolean Solutions#Ex14_15.sce#2699/CH14/EX14.15/Ex14_15.sce#S##97189
+14#Digital Logic#14.14#Boolean Solutions#Ex14_14.sce#2699/CH14/EX14.14/Ex14_14.sce#S##97188
+14#Digital Logic#14.13#Boolean Solutions#Ex14_13.sce#2699/CH14/EX14.13/Ex14_13.sce#S##97187
+14#Digital Logic#14.12#Boolean Solutions#Ex14_12.sce#2699/CH14/EX14.12/Ex14_12.sce#S##97186
+14#Digital Logic#14.11#Boolean Solutions#Ex14_11.sce#2699/CH14/EX14.11/Ex14_11.sce#S##97185
+14#Digital Logic#14.10#Boolean Solutions#Ex14_10.sce#2699/CH14/EX14.10/Ex14_10.sce#S##97184
+14#Digital Logic#14.1#Representation of the given boolean expression#Ex14_1.sce#2699/CH14/EX14.1/Ex14_1.sce#S##97172
+14#Digital Logic#14.1#Representation of the given boolean expression#Fig_Ex14_1.xcos#2699/CH14/EX14.1/Fig_Ex14_1.xcos#X##97173
+13#Number Systems#13.9#725point63  with base 8 to binary equivalent#Ex13_9.sce#2699/CH13/EX13.9/Ex13_9.sce#S##97109
+13#Number Systems#13.8#634  with base 8 to binary equivalent#Ex13_8.sce#2699/CH13/EX13.8/Ex13_8.sce#S##97108
+13#Number Systems#13.71#decimal subtraction in 8421BCD using 9s complement method#Ex13_71.sce#2699/CH13/EX13.71/Ex13_71.sce#S##97171
+13#Number Systems#13.70#decimal addition  in 8421BCD#Ex13_70.sce#2699/CH13/EX13.70/Ex13_70.sce#S##97170
+13#Number Systems#13.7#111101100 with base 2 to octal equivalent#Ex13_7.sce#2699/CH13/EX13.7/Ex13_7.sce#S##97107
+13#Number Systems#13.69#subtraction of 854 from 3B7 using 16s complement#Ex13_69.sce#2699/CH13/EX13.69/Ex13_69.sce#S##97169
+13#Number Systems#13.68#subtraction of 972 from CB2 using 16s complement #Ex13_68.sce#2699/CH13/EX13.68/Ex13_68.sce#S##97168
+13#Number Systems#13.67#16s complement of A8C#Ex13_67.sce#2699/CH13/EX13.67/Ex13_67.sce#S##97167
+13#Number Systems#13.66#subtraction of C14 from 69B using 15s complement#Ex13_66.sce#2699/CH13/EX13.66/Ex13_66.sce#S##97166
+13#Number Systems#13.65#subtraction of 98F from B02 using 15s complement#Ex13_65.sce#2699/CH13/EX13.65/Ex13_65.sce#S##97165
+13#Number Systems#13.64#15s complement of A9B#Ex13_64.sce#2699/CH13/EX13.64/Ex13_64.sce#S##97164
+13#Number Systems#13.63#hexadecimal addition#Ex13_63.sce#2699/CH13/EX13.63/Ex13_63.sce#S##97163
+13#Number Systems#13.62#hexadecimal addition#Ex13_62.sce#2699/CH13/EX13.62/Ex13_62.sce#S##97162
+13#Number Systems#13.61#hexadecimal addition#Ex13_61.sce#2699/CH13/EX13.61/Ex13_61.sce#S##97161
+13#Number Systems#13.60#subtract 451 from 316 using 8s complement#Ex13_60.sce#2699/CH13/EX13.60/Ex13_60.sce#S##97160
+13#Number Systems#13.6#counting from 0 to 9 in radix 5#Ex13_6.sce#2699/CH13/EX13.6/Ex13_6.sce#S##97106
+13#Number Systems#13.59#subtract 413 from 516 using 8s complement#Ex13_59.sce#2699/CH13/EX13.59/Ex13_59.sce#S##97159
+13#Number Systems#13.58#8s complement of 346#Ex13_58.sce#2699/CH13/EX13.58/Ex13_58.sce#S##97158
+13#Number Systems#13.57#subtract 243 from 153 using 7s complement#Ex13_57.sce#2699/CH13/EX13.57/Ex13_57.sce#S##97157
+13#Number Systems#13.56#subtract 157 from 176 using 7s complement#Ex13_56.sce#2699/CH13/EX13.56/Ex13_56.sce#S##97156
+13#Number Systems#13.55#7s complement of 612#Ex13_55.sce#2699/CH13/EX13.55/Ex13_55.sce#S##97155
+13#Number Systems#13.54#octal nos addition #Ex13_54.sce#2699/CH13/EX13.54/Ex13_54.sce#S##97154
+13#Number Systems#13.53#octal nos addition #Ex13_53.sce#2699/CH13/EX13.53/Ex13_53.sce#S##97153
+13#Number Systems#13.52#addition of octal nos #Ex13_52.sce#2699/CH13/EX13.52/Ex13_52.sce#S##97152
+13#Number Systems#13.51#binary nos subtraction using 1s and 2s complement#Ex13_51.sce#2699/CH13/EX13.51/Ex13_51.sce#S##97151
+13#Number Systems#13.50#decimal nos subtraction using 2s complement#Ex13_50.sce#2699/CH13/EX13.50/Ex13_50.sce#S##97150
+13#Number Systems#13.5#decimal equivalent of 231point23 with base 4#Ex13_5.sce#2699/CH13/EX13.5/Ex13_5.sce#S##97105
+13#Number Systems#13.49#expression of the given decimal nos in 1s and 2s complement#Ex13_49.sce#2699/CH13/EX13.49/Ex13_49.sce#S##97149
+13#Number Systems#13.48#subtraction of 111001 from 101011  using 2s complement#Ex13_48.sce#2699/CH13/EX13.48/Ex13_48.sce#S##97148
+13#Number Systems#13.47#subtraction of 101011 from 111001  using 2s complement#Ex13_47.sce#2699/CH13/EX13.47/Ex13_47.sce#S##97147
+13#Number Systems#13.46#subtraction of 111001 from 101011  using 1s complement#Ex13_46.sce#2699/CH13/EX13.46/Ex13_46.sce#S##97146
+13#Number Systems#13.45#subtraction of 101011 from 111001  using 1s complement#Ex13_45.sce#2699/CH13/EX13.45/Ex13_45.sce#S##97145
+13#Number Systems#13.44#subtraction  of 0101 from 1011#Ex13_44.sce#2699/CH13/EX13.44/Ex13_44.sce#S##97144
+13#Number Systems#13.43#addition of 28 and 15 in binary#Ex13_43.sce#2699/CH13/EX13.43/Ex13_43.sce#S##97143
+13#Number Systems#13.42#binary addition#Ex13_42.sce#2699/CH13/EX13.42/Ex13_42.sce#S##97142
+13#Number Systems#13.41#16s complement of A8C#Ex13_41.sce#2699/CH13/EX13.41/Ex13_41.sce#S##97141
+13#Number Systems#13.40#15s complement of  A9B#Ex13_40.sce#2699/CH13/EX13.40/Ex13_40.sce#S##97140
+13#Number Systems#13.4#3FD in power of 16 and its decimal equivalent#Ex13_4.sce#2699/CH13/EX13.4/Ex13_4.sce#S##97104
+13#Number Systems#13.39#8s complement of  346#Ex13_39.sce#2699/CH13/EX13.39/Ex13_39.sce#S##97139
+13#Number Systems#13.38#7s complement of  612#Ex13_38.sce#2699/CH13/EX13.38/Ex13_38.sce#S##97138
+13#Number Systems#13.37#2s complement of 10100011 #Ex13_37.sce#2699/CH13/EX13.37/Ex13_37.sce#S##97137
+13#Number Systems#13.36#2s complement of 1001#Ex13_36.sce#2699/CH13/EX13.36/Ex13_36.sce#S##97136
+13#Number Systems#13.35#1s complement of 10111001#Ex13_35.sce#2699/CH13/EX13.35/Ex13_35.sce#S##97135
+13#Number Systems#13.34#1s complement of 1101 #EX13_34.sce#2699/CH13/EX13.34/EX13_34.sce#S##97134
+13#Number Systems#13.33#determination of the value of base x#EX13_33.sce#2699/CH13/EX13.33/EX13_33.sce#S##97133
+13#Number Systems#13.32#2AC5pointD with base 16 to dec oct and bin#EX13_32.sce#2699/CH13/EX13.32/EX13_32.sce#S##97132
+13#Number Systems#13.31#convert the given binary nos to dec hex and oct#Ex13_31.sce#2699/CH13/EX13.31/Ex13_31.sce#S##97131
+13#Number Systems#13.30#22point46 with base 10 to hexadecimal equivalent#Ex13_30.sce#2699/CH13/EX13.30/Ex13_30.sce#S##97130
+13#Number Systems#13.3#567 in power of 8 and its decimal equivalent#Ex13_3.sce#2699/CH13/EX13.3/Ex13_3.sce#S##97103
+13#Number Systems#13.29#35point45 with base 10 to octal equivalent#Ex13_29.sce#2699/CH13/EX13.29/Ex13_29.sce#S##97129
+13#Number Systems#13.28#24point6 with base 10 to binary equivalent#Ex13_28.sce#2699/CH13/EX13.28/Ex13_28.sce#S##97128
+13#Number Systems#13.27#point1289062 with base 10 to hexadecimal equivalent#Ex13_27.sce#2699/CH13/EX13.27/Ex13_27.sce#S##97127
+13#Number Systems#13.26#point640625 with base 10 to octal equivalent#Ex13_26.sce#2699/CH13/EX13.26/Ex13_26.sce#S##97126
+13#Number Systems#13.25#point95 with base 10 to binary equivalent#Ex13_25.sce#2699/CH13/EX13.25/Ex13_25.sce#S##97125
+13#Number Systems#13.24#point8125 with base 10 to binary equivalent#Ex13_24.sce#2699/CH13/EX13.24/Ex13_24.sce#S##97124
+13#Number Systems#13.23#54 with base 10 to radix 4#Ex13_23.sce#2699/CH13/EX13.23/Ex13_23.sce#S##97123
+13#Number Systems#13.22#3509 with base 10 to hexadecimal equivalent#Ex13_22.sce#2699/CH13/EX13.22/Ex13_22.sce#S##97122
+13#Number Systems#13.21#214 with base 10 to octal equivalent#Ex13_21.sce#2699/CH13/EX13.21/Ex13_21.sce#S##97121
+13#Number Systems#13.20#37 with base 10 to binary equivalent#Ex13_20.sce#2699/CH13/EX13.20/Ex13_20.sce#S##97120
+13#Number Systems#13.2#1101point101 in power of 2 and its decimal equivalent#Ex13_2.sce#2699/CH13/EX13.2/Ex13_2.sce#S##97102
+13#Number Systems#13.19#614point15 with base 7 to decimal equivalent#Ex13_19.sce#2699/CH13/EX13.19/Ex13_19.sce#S##97119
+13#Number Systems#13.18#3102point12 with base 4 to decimal equivalent#Ex13_18.sce#2699/CH13/EX13.18/Ex13_18.sce#S##97118
+13#Number Systems#13.17#9B2point1A with base 16 to decimal equivalent#Ex13_17.sce#2699/CH13/EX13.17/Ex13_17.sce#S##97117
+13#Number Systems#13.16#475point25 with base 8 to decimal equivalent#Ex13_16.sce#2699/CH13/EX13.16/Ex13_16.sce#S##97116
+13#Number Systems#13.15#1101point1 with base 2 to decimal equivalent#Ex13_15.sce#2699/CH13/EX13.15/Ex13_15.sce#S##97115
+13#Number Systems#13.14#25B with base 16 to octal equivalent#Ex13_14.sce#2699/CH13/EX13.14/Ex13_14.sce#S##97114
+13#Number Systems#13.13#615 with base 8 to hexadecimal equivalent#Ex13_13.sce#2699/CH13/EX13.13/Ex13_13.sce#S##97113
+13#Number Systems#13.12#5A9pointB4 with base 16 to binary equivalent#Ex13_12.sce#2699/CH13/EX13.12/Ex13_12.sce#S##97112
+13#Number Systems#13.11#3FD with base 16 to binary equivalent#Ex13_11.sce#2699/CH13/EX13.11/Ex13_11.sce#S##97111
+13#Number Systems#13.10#1101100010011011 with base 2 to hexadecimal equivalent#Ex13_10.sce#2699/CH13/EX13.10/Ex13_10.sce#S##97110
+13#Number Systems#13.1#Represesntation of a number 98point72 in powers of 10#Ex13_1.sce#2699/CH13/EX13.1/Ex13_1.sce#S##97101
+12#Communication Systems#12.9#modulation index#Ex12_9.sce#2699/CH12/EX12.9/Ex12_9.sce#S##97072
+12#Communication Systems#12.8#modulation index#Ex12_8.sce#2699/CH12/EX12.8/Ex12_8.sce#S##97071
+12#Communication Systems#12.7#Antenna current#Ex12_7.sce#2699/CH12/EX12.7/Ex12_7.sce#S##97070
+12#Communication Systems#12.6#Power of each sidebands#Ex12_6.sce#2699/CH12/EX12.6/Ex12_6.sce#S##97069
+12#Communication Systems#12.5#Total power#Ex12_5.sce#2699/CH12/EX12.5/Ex12_5.sce#S##97068
+12#Communication Systems#12.4#1Modulation index 2sideband frequencies and amplitude  3bandwidth 4total power 5transmission efficiency#Ex12_4.sce#2699/CH12/EX12.4/Ex12_4.sce#S##108066
+12#Communication Systems#12.30#1Carrier swing 2frequency deviation 3carrier frequency 4modulation index#Ex12_30.sce#2699/CH12/EX12.30/Ex12_30.sce#S##108072
+12#Communication Systems#12.3#AM modulated waveform#Ex12_3.sce#2699/CH12/EX12.3/Ex12_3.sce#S##98821
+12#Communication Systems#12.29#modulation index#Ex12_29.sce#2699/CH12/EX12.29/Ex12_29.sce#S##97092
+12#Communication Systems#12.28#1Frequency deviation 2carrier swing 3lowest frequency reached#Ex12_28.sce#2699/CH12/EX12.28/Ex12_28.sce#S##108071
+12#Communication Systems#12.27#1Carrier swing 2highest and lowest frequencies 3modulation index#Ex12_27.sce#2699/CH12/EX12.27/Ex12_27.sce#S##108070
+12#Communication Systems#12.26#Frequency deviation and carrier swing#Ex12_26.sce#2699/CH12/EX12.26/Ex12_26.sce#S##97089
+12#Communication Systems#12.25#Percent modulation#Ex12_25.sce#2699/CH12/EX12.25/Ex12_25.sce#S##97088
+12#Communication Systems#12.24#sketching the spectrum of the modulated FM wave#Ex12_24.sce#2699/CH12/EX12.24/Ex12_24.sce#S##98824
+12#Communication Systems#12.24#sketching the spectrum of the modulated FM wave#waveform.jpg#2699/CH12/EX12.24/waveform.jpg#R##98825
+12#Communication Systems#12.23#1carrier and modulating frequency 2modulation index and maximum deviation 3Power dissipated#Ex12_23.sce#2699/CH12/EX12.23/Ex12_23.sce#S##108069
+12#Communication Systems#12.22#Peak frequency deviation modulation index#Ex12_22.sce#2699/CH12/EX12.22/Ex12_22.sce#S##97085
+12#Communication Systems#12.21#Maximum deviation and modulation index#Ex12_21.sce#2699/CH12/EX12.21/Ex12_21.sce#S##97084
+12#Communication Systems#12.20#Frequency deviation and modulation index#Ex12_20.sce#2699/CH12/EX12.20/Ex12_20.sce#S##97083
+12#Communication Systems#12.2#Lower and upper side band frequency#Ex12_2.sce#2699/CH12/EX12.2/Ex12_2.sce#S##97064
+12#Communication Systems#12.19#frequency deviation and modulation index#Ex12_19.sce#2699/CH12/EX12.19/Ex12_19.sce#S##97081
+12#Communication Systems#12.18#Percentage power saving#Ex12_18.sce#2699/CH12/EX12.18/Ex12_18.sce#S##97082
+12#Communication Systems#12.17#Equation of the wave and output wave form#Ex12_17.sce#2699/CH12/EX12.17/Ex12_17.sce#S##98822
+12#Communication Systems#12.17#Equation of the wave and output wave form#waveform.jpg#2699/CH12/EX12.17/waveform.jpg#R##98823
+12#Communication Systems#12.16#1Carrier frequency 2modulating frequency 3carrier power 4total power output 5peak power output#Ex12_16.sce#2699/CH12/EX12.16/Ex12_16.sce#S##108068
+12#Communication Systems#12.15#Current and percentage power swing#Ex12_15.sce#2699/CH12/EX12.15/Ex12_15.sce#S##97078
+12#Communication Systems#12.14#Current I#Ex12_14.sce#2699/CH12/EX12.14/Ex12_14.sce#S##97077
+12#Communication Systems#12.13#Total sideband power radiated#Ex12_13.sce#2699/CH12/EX12.13/Ex12_13.sce#S##97076
+12#Communication Systems#12.12#Frequencies#Ex12_12.sce#2699/CH12/EX12.12/Ex12_12.sce#S##108067
+12#Communication Systems#12.11#Carrier power#Ex12_11.sce#2699/CH12/EX12.11/Ex12_11.sce#S##97074
+12#Communication Systems#12.10#modulation index and total radiated power#Ex12_10.sce#2699/CH12/EX12.10/Ex12_10.sce#S##97073
+12#Communication Systems#12.1#Modulation index and percentage modulation#Ex12_1.sce#2699/CH12/EX12.1/Ex12_1.sce#S##108065
+11#Cathode Ray Oscilloscope CRO#11.2#Rms voltage and frequency#Ex11_2.sce#2699/CH11/EX11.2/Ex11_2.sce#S##97062
+11#Cathode Ray Oscilloscope CRO#11.1#Amplitude and rms value of sinusoidal voltage#Ex11_1.sce#2699/CH11/EX11.1/Ex11_1.sce#S##97061
+10#Introduction to Operational Amplifiers#10.9#Gain and output voltage#Ex10_9.sce#2699/CH10/EX10.9/Ex10_9.sce#S##97035
+10#Introduction to Operational Amplifiers#10.8#Feedback resistor Rf#Ex10_8.sce#2699/CH10/EX10.8/Ex10_8.sce#S##108062
+10#Introduction to Operational Amplifiers#10.7#Voltage gain and output waveforms#Ex10_7.sce#2699/CH10/EX10.7/Ex10_7.sce#S##98818
+10#Introduction to Operational Amplifiers#10.7#Voltage gain and output waveforms#waveform.jpg#2699/CH10/EX10.7/waveform.jpg#R##98819
+10#Introduction to Operational Amplifiers#10.6#Reading of output voltage on the voltmeter#Ex10_6.sce#2699/CH10/EX10.6/Ex10_6.sce#S##97031
+10#Introduction to Operational Amplifiers#10.5#Output voltage and waveforms#Ex10_5.sce#2699/CH10/EX10.5/Ex10_5.sce#S##98813
+10#Introduction to Operational Amplifiers#10.5#Output voltage and waveforms#Vin_0point5V.jpg#2699/CH10/EX10.5/Vin_0point5V.jpg#R##98814
+10#Introduction to Operational Amplifiers#10.5#Output voltage and waveforms#Vin_5V.jpg#2699/CH10/EX10.5/Vin_5V.jpg#R##98815
+10#Introduction to Operational Amplifiers#10.4#Voltage gain#Ex10_4.sce#2699/CH10/EX10.4/Ex10_4.sce#S##97030
+10#Introduction to Operational Amplifiers#10.3#Values of two input bias current#Ex10_3.sce#2699/CH10/EX10.3/Ex10_3.sce#S##97029
+10#Introduction to Operational Amplifiers#10.22#Output voltage#Ex10_22.sce#2699/CH10/EX10.22/Ex10_22.sce#S##97060
+10#Introduction to Operational Amplifiers#10.21#Design of an Opamp circuit#Ex10_21.sce#2699/CH10/EX10.21/Ex10_21.sce#S##97058
+10#Introduction to Operational Amplifiers#10.21#Design of an Opamp circuit#Fig_Ex_10_21.xcos#2699/CH10/EX10.21/Fig_Ex_10_21.xcos#X##97059
+10#Introduction to Operational Amplifiers#10.20#Design of adder circuit#Ex10_20.sce#2699/CH10/EX10.20/Ex10_20.sce#S##108064
+10#Introduction to Operational Amplifiers#10.20#Design of adder circuit#Fig_Ex_10_20.xcos#2699/CH10/EX10.20/Fig_Ex_10_20.xcos#X##97057
+10#Introduction to Operational Amplifiers#10.2#Input bias current and input offset current#Ex10_2.sce#2699/CH10/EX10.2/Ex10_2.sce#S##97028
+10#Introduction to Operational Amplifiers#10.19#Output voltage#Ex10_19.sce#2699/CH10/EX10.19/Ex10_19.sce#S##97055
+10#Introduction to Operational Amplifiers#10.18#Output voltage#Ex10_18.sce#2699/CH10/EX10.18/Ex10_18.sce#S##97054
+10#Introduction to Operational Amplifiers#10.17#Output voltage#Ex10_17.sce#2699/CH10/EX10.17/Ex10_17.sce#S##97053
+10#Introduction to Operational Amplifiers#10.16#Output voltage#Ex10_16.sce#2699/CH10/EX10.16/Ex10_16.sce#S##97052
+10#Introduction to Operational Amplifiers#10.15#Relation between Rf and R#Ex10_15.sce#2699/CH10/EX10.15/Ex10_15.sce#S##97051
+10#Introduction to Operational Amplifiers#10.14#Design of Scaling adder#Ex10_14.sce#2699/CH10/EX10.14/Ex10_14.sce#S##97047
+10#Introduction to Operational Amplifiers#10.14#Design of Scaling adder#Fig_Ex_10_14.xcos#2699/CH10/EX10.14/Fig_Ex_10_14.xcos#X##97048
+10#Introduction to Operational Amplifiers#10.13#Output voltage Vo#Ex10_13.sce#2699/CH10/EX10.13/Ex10_13.sce#S##97045
+10#Introduction to Operational Amplifiers#10.12#Otuput voltage Vo#Ex10_12.sce#2699/CH10/EX10.12/Ex10_12.sce#S##97042
+10#Introduction to Operational Amplifiers#10.12#Otuput voltage Vo#Fig_Ex10_12_V2_grounded.xcos#2699/CH10/EX10.12/Fig_Ex10_12_V2_grounded.xcos#X##97049
+10#Introduction to Operational Amplifiers#10.12#Otuput voltage Vo#Fig_Ex10_12_Vo1_grounded.xcos#2699/CH10/EX10.12/Fig_Ex10_12_Vo1_grounded.xcos#X##97046
+10#Introduction to Operational Amplifiers#10.12#Otuput voltage Vo#Fig_EX10_12.jpg#2699/CH10/EX10.12/Fig_EX10_12.jpg#R##97050
+10#Introduction to Operational Amplifiers#10.11#Output voltage Vo#Ex10_11.sce#2699/CH10/EX10.11/Ex10_11.sce#S##97041
+10#Introduction to Operational Amplifiers#10.10#Closed loop gain and feedback resistance#Ex10_10.sce#2699/CH10/EX10.10/Ex10_10.sce#S##108063
+10#Introduction to Operational Amplifiers#10.10#Closed loop gain and feedback resistance#Fig_Ex10_10.xcos#2699/CH10/EX10.10/Fig_Ex10_10.xcos#X##97040
+10#Introduction to Operational Amplifiers#10.1#Output voltage #Ex10_1.sce#2699/CH10/EX10.1/Ex10_1.sce#S##108061
+9#Oscillators#9.9#Frequency of oscillation#Ex9_9.sce#2699/CH9/EX9.9/Ex9_9.sce#S##97022
+9#Oscillators#9.8#designing the value of inductor L#Ex9_8.sce#2699/CH9/EX9.8/Ex9_8.sce#S##97021
+9#Oscillators#9.7#value of inductance L#Ex9_7.sce#2699/CH9/EX9.7/Ex9_7.sce#S##97019
+9#Oscillators#9.6#Frequency of oscillation#Ex9_6.sce#2699/CH9/EX9.6/Ex9_6.sce#S##97020
+9#Oscillators#9.5#Value of capacitor C#Ex9_5.sce#2699/CH9/EX9.5/Ex9_5.sce#S##97018
+9#Oscillators#9.4#Frequency of oscillations#Ex9_4.sce#2699/CH9/EX9.4/Ex9_4.sce#S##97017
+9#Oscillators#9.3#estimation of R and C#Ex9_3.sce#2699/CH9/EX9.3/Ex9_3.sce#S##97015
+9#Oscillators#9.2#Design of an RC phase shift oscillator#Ex9_2.sce#2699/CH9/EX9.2/Ex9_2.sce#S##108058
+9#Oscillators#9.2#Design of an RC phase shift oscillator#Fig_Ex9_2.xcos#2699/CH9/EX9.2/Fig_Ex9_2.xcos#X##97014
+9#Oscillators#9.13#Series and parallel  resonant frequency#Ex9_13.sce#2699/CH9/EX9.13/Ex9_13.sce#S##108060
+9#Oscillators#9.12#1series resonant frequency 2parallel resonant frequency 3percentage that the parallel resonant frequency exceeds the series resonant frequency 4Q factor#Ex9_12.sce#2699/CH9/EX9.12/Ex9_12.sce#S##108059
+9#Oscillators#9.11#Range of capacitor C#Ex9_11.sce#2699/CH9/EX9.11/Ex9_11.sce#S##97024
+9#Oscillators#9.10#Range for the capacitor C#Ex9_10.sce#2699/CH9/EX9.10/Ex9_10.sce#S##97023
+9#Oscillators#9.1#Frequency of oscillations#Ex9_1.sce#2699/CH9/EX9.1/Ex9_1.sce#S##97012
+8#Amplifiers#8.4#Gain of an amplifier#Ex8_4.sce#2699/CH8/EX8.4/Ex8_4.sce#S##97010
+8#Amplifiers#8.3#Gain of an amplifier#Ex8_3.sce#2699/CH8/EX8.3/Ex8_3.sce#S##97011
+8#Amplifiers#8.2#Maximum voltage gain#Ex8_2.sce#2699/CH8/EX8.2/Ex8_2.sce#S##97009
+8#Amplifiers#8.1#Gain in dB scale#Ex8_1.sce#2699/CH8/EX8.1/Ex8_1.sce#S##97008
+7#Junction field effect transistors#7.2#1maximum and minimum od output voltage 2voltage gain#Ex7_2.sce#2699/CH7/EX7.2/Ex7_2.sce#S##108057
+7#Junction field effect transistors#7.1#Drain current#Ex7_1.sce#2699/CH7/EX7.1/Ex7_1.sce#S##108056
+6#Power control Devices#6.5#Range of Rt#Ex6_5.sce#2699/CH6/EX6.5/Ex6_5.sce#S##108055
+6#Power control Devices#6.4#Frequency of oscillations#Ex6_4.sce#2699/CH6/EX6.4/Ex6_4.sce#S##97004
+6#Power control Devices#6.3#Frequency of oscillations#Ex6_3.sce#2699/CH6/EX6.3/Ex6_3.sce#S##97003
+6#Power control Devices#6.2#Designing values of R1 R2 and R3#Ex6_2.sce#2699/CH6/EX6.2/Ex6_2.sce#S##108054
+6#Power control Devices#6.1#Finding of various ratings of SCR#Ex6_1.sce#2699/CH6/EX6.1/Ex6_1.sce#S##108053
+5#Biasing methods#5.9#Design of Collector to base bias circuit#Ex5_9.sce#2699/CH5/EX5.9/Ex5_9.sce#S##107997
+5#Biasing methods#5.9#Design of Collector to base bias circuit#Fig_Ex5_9.xcos#2699/CH5/EX5.9/Fig_Ex5_9.xcos#X##96996
+5#Biasing methods#5.8#Design of a fixed biased circuit #Ex5_8.sce#2699/CH5/EX5.8/Ex5_8.sce#S##107967
+5#Biasing methods#5.8#Design of a fixed biased circuit #Fig_Ex5_8.xcos#2699/CH5/EX5.8/Fig_Ex5_8.xcos#X##96990
+5#Biasing methods#5.7#Minimum and maximum values of Ic and Vce#Ex5_7.sce#2699/CH5/EX5.7/Ex5_7.sce#S##107895
+5#Biasing methods#5.6#Determination of Ic Ve and Vce #Ex5_6.sce#2699/CH5/EX5.6/Ex5_6.sce#S##107894
+5#Biasing methods#5.5#Calculation of Vce and Ic#Ex5_5.sce#2699/CH5/EX5.5/Ex5_5.sce#S##107893
+5#Biasing methods#5.4#Calculation of minimum and maximum values of Ic and Vce#Ex5_4.sce#2699/CH5/EX5.4/Ex5_4.sce#S##107892
+5#Biasing methods#5.3#Calculation of Q point values#Ex5_3.sce#2699/CH5/EX5.3/Ex5_3.sce#S##107891
+5#Biasing methods#5.2#Minimum and maximum values of Ic and Vce#Ex5_2.sce#2699/CH5/EX5.2/Ex5_2.sce#S##107890
+5#Biasing methods#5.15#Determination of percent change in Q values#Ex5_15.sce#2699/CH5/EX5.15/Ex5_15.sce#S##108047
+5#Biasing methods#5.14#Calculation of Re Vce and stability factor#Ex5_14.sce#2699/CH5/EX5.14/Ex5_14.sce#S##96998
+5#Biasing methods#5.13#Calculation of R1 and R3#Ex5_13.sce#2699/CH5/EX5.13/Ex5_13.sce#S##108044
+5#Biasing methods#5.12#Resistance Rb#Ex5_12.sce#2699/CH5/EX5.12/Ex5_12.sce#S##108039
+5#Biasing methods#5.11#Stability factor#Ex5_11.sce#2699/CH5/EX5.11/Ex5_11.sce#S##96994
+5#Biasing methods#5.10#Design of voltage divider bias circuit#Ex5_10.sce#2699/CH5/EX5.10/Ex5_10.sce#S##108010
+5#Biasing methods#5.10#Design of voltage divider bias circuit#Fig_Ex5_10.xcos#2699/CH5/EX5.10/Fig_Ex5_10.xcos#X##96993
+5#Biasing methods#5.1#Calculation of Ib Ic and Vce and the region of operation#Ex5_1.sce#2699/CH5/EX5.1/Ex5_1.sce#S##107889
+4#Transistors#4.4#current gain and emitter current#Ex4_4.sce#2699/CH4/EX4.4/Ex4_4.sce#S##96981
+4#Transistors#4.3#Dc voltage gain and current gain#Ex4_3.sce#2699/CH4/EX4.3/Ex4_3.sce#S##107888
+4#Transistors#4.2#Dc current gain and voltage gain#Ex4_2.sce#2699/CH4/EX4.2/Ex4_2.sce#S##96979
+4#Transistors#4.1#Base current#Ex4_1.sce#2699/CH4/EX4.1/Ex4_1.sce#S##107887
+3#Diode applications#3.9#1Average voltage 2efficiency#Ex3_9.sce#2699/CH3/EX3.9/Ex3_9.sce#S##96917
+3#Diode applications#3.8#Input power from the transformer#Ex3_8.sce#2699/CH3/EX3.8/Ex3_8.sce#S##96916
+3#Diode applications#3.7#1no load Dc voltage 2output voltage at 100mA 3percentage regulation#Ex3_7.sce#2699/CH3/EX3.7/Ex3_7.sce#S##96915
+3#Diode applications#3.6#Peak to peak value of output voltage#Ex3_6.sce#2699/CH3/EX3.6/Ex3_6.sce#S##96914
+3#Diode applications#3.5#1Power 2Percentage regulation 3efficiency of rectification and 4TUF#Ex3_5.sce#2699/CH3/EX3.5/Ex3_5.sce#S##96913
+3#Diode applications#3.41#Design of zener regulator#Ex4_41.sce#2699/CH3/EX3.41/Ex4_41.sce#S##96976
+3#Diode applications#3.41#Design of zener regulator#Fig_Ex3_41.xcos#2699/CH3/EX3.41/Fig_Ex3_41.xcos#X##96977
+3#Diode applications#3.40#series resistance and diode current#Ex3_40.sce#2699/CH3/EX3.40/Ex3_40.sce#S##96974
+3#Diode applications#3.40#series resistance and diode current#Fig_Ex3_40.xcos#2699/CH3/EX3.40/Fig_Ex3_40.xcos#X##96975
+3#Diode applications#3.4#Average output voltage#Ex3_4.sce#2699/CH3/EX3.4/Ex3_4.sce#S##96912
+3#Diode applications#3.39#Design of Voltage regulator#Ex3_39.sce#2699/CH3/EX3.39/Ex3_39.sce#S##96972
+3#Diode applications#3.39#Design of Voltage regulator#Fig_Ex3_39.xcos#2699/CH3/EX3.39/Fig_Ex3_39.xcos#X##96973
+3#Diode applications#3.38#Design of zener diode#Ex3_38.sce#2699/CH3/EX3.38/Ex3_38.sce#S##96967
+3#Diode applications#3.37#Design of zener diode#Fig_Ex3_37.xcos#2699/CH3/EX3.37/Fig_Ex3_37.xcos#X##96971
+3#Diode applications#3.36#Design of zener diode#Fig_Ex3_36.xcos#2699/CH3/EX3.36/Fig_Ex3_36.xcos#X##96970
+3#Diode applications#3.35#Minimum and maximum load current#Ex3_35.sce#2699/CH3/EX3.35/Ex3_35.sce#S##107886
+3#Diode applications#3.34#design of zener diode#Ex3_34.sce#2699/CH3/EX3.34/Ex3_34.sce#S##96964
+3#Diode applications#3.33#Range of input voltage#Ex3_33.sce#2699/CH3/EX3.33/Ex3_33.sce#S##96962
+3#Diode applications#3.32#Source regulation and percentage source regulation#Ex3_32.sce#2699/CH3/EX3.32/Ex3_32.sce#S##96960
+3#Diode applications#3.31#Percentage load regulation#Ex3_31.sce#2699/CH3/EX3.31/Ex3_31.sce#S##96959
+3#Diode applications#3.30#Load regulation#Ex3_30.sce#2699/CH3/EX3.30/Ex3_30.sce#S##96958
+3#Diode applications#3.3#Dc voltage and load current#Ex3_3.sce#2699/CH3/EX3.3/Ex3_3.sce#S##96911
+3#Diode applications#3.29#1Average Dc current 2Average Dc voltage 3Ripple voltage #Ex3_29.sce#2699/CH3/EX3.29/Ex3_29.sce#S##107885
+3#Diode applications#3.28#Value of the capacitor required#Ex3_28.sce#2699/CH3/EX3.28/Ex3_28.sce#S##96938
+3#Diode applications#3.27#minimum value of capacitor#Ex3_27.sce#2699/CH3/EX3.27/Ex3_27.sce#S##107884
+3#Diode applications#3.26#Ripple factor#Ex3_26.sce#2699/CH3/EX3.26/Ex3_26.sce#S##107883
+3#Diode applications#3.25#Value of the capacitance needed#Ex3_25.sce#2699/CH3/EX3.25/Ex3_25.sce#S##96934
+3#Diode applications#3.24#Dc output voltage and ripple factor#Ex3_24.sce#2699/CH3/EX3.24/Ex3_24.sce#S##96933
+3#Diode applications#3.23#Rms value of ripple voltage and peak to peak voltage#Ex3_23.sce#2699/CH3/EX3.23/Ex3_23.sce#S##96932
+3#Diode applications#3.22#surge current#Ex3_22.sce#2699/CH3/EX3.22/Ex3_22.sce#S##96931
+3#Diode applications#3.21#Ripple factor#Ex3_21.sce#2699/CH3/EX3.21/Ex3_21.sce#S##98922
+3#Diode applications#3.20#Value of capacitor C#Ex3_20.sce#2699/CH3/EX3.20/Ex3_20.sce#S##96929
+3#Diode applications#3.2#Dc output voltage#Ex3_2.sce#2699/CH3/EX3.2/Ex3_2.sce#S##96910
+3#Diode applications#3.19#Load voltage and ripple voltage#Ex3_19.sce#2699/CH3/EX3.19/Ex3_19.sce#S##98921
+3#Diode applications#3.18#1Dc output voltage  2rms value of of ripple voltage 3ripple factor#Ex3_18.sce#2699/CH3/EX3.18/Ex3_18.sce#S##96927
+3#Diode applications#3.17#1Ripple voltage 2ripple factor#Ex3_17.sce#2699/CH3/EX3.17/Ex3_17.sce#S##96926
+3#Diode applications#3.16#1Average Dc voltage 2Average Dc current 3frequency of output wave forms#Ex3_16.sce#2699/CH3/EX3.16/Ex3_16.sce#S##96925
+3#Diode applications#3.15#1Dc output voltage 2ripple factor 3efficiency 4PIV#Ex3_15.sce#2699/CH3/EX3.15/Ex3_15.sce#S##96924
+3#Diode applications#3.14#Average load current and efficiency #Ex3_14.sce#2699/CH3/EX3.14/Ex3_14.sce#S##96923
+3#Diode applications#3.13#Load voltage and ripple voltage#Ex3_13.sce#2699/CH3/EX3.13/Ex3_13.sce#S##96922
+3#Diode applications#3.12#1Dc load current 2Dc load voltage 3ripple voltage 4PIV ratings of the diode #Ex3_12.sce#2699/CH3/EX3.12/Ex3_12.sce#S##96921
+3#Diode applications#3.11#resistance of the load and efficiency#Ex3_11.sce#2699/CH3/EX3.11/Ex3_11.sce#S##96919
+3#Diode applications#3.10#Load current and rms value of input current#Ex3_10.sce#2699/CH3/EX3.10/Ex3_10.sce#S##98920
+3#Diode applications#3.1#RMS value of current output voltage efficiency#Ex3_1.sce#2699/CH3/EX3.1/Ex3_1.sce#S##96909
+2#Semiconductor Devices#2.9#Maximum forward current#Ex2_9.sce#2699/CH2/EX2.9/Ex2_9.sce#S##96827
+2#Semiconductor Devices#2.8# Pn junction diode current#Ex2_8.sce#2699/CH2/EX2.8/Ex2_8.sce#S##96829
+2#Semiconductor Devices#2.7#New supply voltage#Ex2_7.sce#2699/CH2/EX2.7/Ex2_7.sce#S##96826
+2#Semiconductor Devices#2.6#Load resistance Rl#Ex2_6.sce#2699/CH2/EX2.6/Ex2_6.sce#S##96825
+2#Semiconductor Devices#2.5#Piece Wise linear characteristic of a Diode#Ex2_5.sce#2699/CH2/EX2.5/Ex2_5.sce#S##96824
+2#Semiconductor Devices#2.4#Forward current through the diode#Ex2_4.sce#2699/CH2/EX2.4/Ex2_4.sce#S##107881
+2#Semiconductor Devices#2.3#Current through the resistance#Ex2_3.sce#2699/CH2/EX2.3/Ex2_3.sce#S##107880
+2#Semiconductor Devices#2.2#Dynamic forward resistance#Ex2_2.sce#2699/CH2/EX2.2/Ex2_2.sce#S##96812
+2#Semiconductor Devices#2.17#Zener diode current and power dissipation#Ex2_17.sce#2699/CH2/EX2.17/Ex2_17.sce#S##107882
+2#Semiconductor Devices#2.16#maximum zener current#Ex2_16.sce#2699/CH2/EX2.16/Ex2_16.sce#S##96835
+2#Semiconductor Devices#2.15#voltage across the terminal #Ex2_15.sce#2699/CH2/EX2.15/Ex2_15.sce#S##96834
+2#Semiconductor Devices#2.14#Zener resitance#Ex2_14.sce#2699/CH2/EX2.14/Ex2_14.sce#S##96833
+2#Semiconductor Devices#2.13#Derated power rating#Ex2_13.sce#2699/CH2/EX2.13/Ex2_13.sce#S##96832
+2#Semiconductor Devices#2.12#Maximum reverse recovery time#Ex2_12.sce#2699/CH2/EX2.12/Ex2_12.sce#S##96831
+2#Semiconductor Devices#2.11#Dynamic resistance#Ex2_11.sce#2699/CH2/EX2.11/Ex2_11.sce#S##96830
+2#Semiconductor Devices#2.10#Forward voltage drop#Ex2_10.sce#2699/CH2/EX2.10/Ex2_10.sce#S##96828
+2#Semiconductor Devices#2.1#Dc reverse Resistance#Ex2_1.sce#2699/CH2/EX2.1/Ex2_1.sce#S##107878

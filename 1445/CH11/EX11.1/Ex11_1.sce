@@ -1,6 +1,7 @@
 //CHAPTER 11- SINGLE PHASE INDUCTION MOTOR
 //Examle 1
 
+clc;
 disp("CHAPTER 11");
 disp("EXAMPLE 1");
 
@@ -20,7 +21,7 @@ P_m=P_g*(1-S);            //mechanical power developed in Watts
 P_o=P_m-loss;             //output or shaft power in Watts
 w=(2*%pi*N_r)/60;         
 T=P_o/w;                  //shaft torque in Newton-meters
-disp(sprintf("The shaft torque is %.3f N-m",T));
+disp(sprintf("The shaft torque is %f N-m",T));
 
 //END
 

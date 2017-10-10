@@ -11,8 +11,8 @@ N2=500//rpm
 v=%pi*d2*N2/60 //m/s
 //Calculating the tensions in the belt
 //Initial tension, T0 = (T1+T2)/2, or T1+T2 = 2*T0
-//Ratio of the tensions in the belt, log(T1/T2) = mu*theta, or T1-T2*exp(mu*theta) = 0
-A=[1 1; 1 -exp(mu*theta)]
+//Ratio of the tensions in the belt, log(T1/T2) = mu0*theta, or T1-T2*exp(mu0*theta) = 0
+A=[1 1; 1 -exp(mu0*theta)]
 B=[2*T0; 0]
 V=A \ B
 T1=V(1) //N

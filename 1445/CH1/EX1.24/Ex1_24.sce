@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 24
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 24");
 
@@ -17,7 +18,7 @@ r4=12;                            //in Ohms
 
 //activating 20A current source
 r=r2+((r3*r4)/(r3+r4));
-I1=(r*I1)/(r+r1);
+I1=(r*I)/(r+r1);
 I_20=(r3*I1)/(r3+r4);
 
 //activating 10V battery source
@@ -29,6 +30,6 @@ I_10=v_10/r4;
 v_40=(v2/r3)/((1/req)+(1/r3)+(1/r4));
 I_40=v_40/r4;
 I_tot=I_20+I_10+I_40;
-disp(sprintf("By Superposition Theorem, the value of I is .3%f A",I_tot));
+disp(sprintf("By Superposition Theorem, the value of I is %f A",I_tot));
 
 //END

@@ -1,4 +1,4 @@
-//determine dia of the wheel
+
 clc
 //solution
 //given

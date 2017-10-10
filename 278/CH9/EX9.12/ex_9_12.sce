@@ -1,9 +1,9 @@
-//desing an economical joint
 clc
 //solution
 //given
 b=350//mm
 t=20//mm
+pi = %pi;
 ft=90//N/mm^2
 T=60//N/mm^2
 fc=150//N/mm^2

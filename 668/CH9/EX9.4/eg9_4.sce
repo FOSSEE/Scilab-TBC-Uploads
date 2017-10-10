@@ -9,6 +9,7 @@ ni = 1.5*10^10;
 eps0 = 8.85*10^-14; //in F/m
 eps = 11.9*eps0;
 eps1 = 3.9*eps0;
+phiF = kT*log(Na/ni);
 psiS = 2*phiF;
 w = 200*10^-8;
 sigma_fb= Na*q*up;

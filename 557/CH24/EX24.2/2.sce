@@ -15,7 +15,7 @@ r = 0.2;
 
 //Calculations
 A = %pi*(Db)^2/4;
-a = %pi*(Dd)^2/4;
+a = %pi*(Ds)^2/4;
 W= sqrt((H_at - Hs -  H_friction )*(2*d*g/(4*f*L)))*(a/A)*(%pi/r);
 W_rev = W/(2*%pi)*60;  // maximum rotation speed in rev/min
 

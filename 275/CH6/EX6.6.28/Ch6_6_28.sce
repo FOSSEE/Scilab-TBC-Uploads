@@ -1,8 +1,8 @@
 clc
-disp("Example 6.27")
+disp("Example 6.28")
 printf("\n")
-disp("Calculate closed loop gain & input voltage to get output voltage 2v")
-print("given")
+disp("Calculate closed loop gain &amp; input voltage to get output voltage 2v")
+printf("given")
 disp("Rf=1M,R1=20K,output voltage=2V")
 Rf=10^6
 R1=20*10^3

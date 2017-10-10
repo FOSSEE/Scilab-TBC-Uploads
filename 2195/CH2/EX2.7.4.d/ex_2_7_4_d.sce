@@ -11,11 +11,10 @@ for i= 1:8
 end
 Q= [qb(1),qb(2),qb(3),qb(4),qb(5),qb(6),qb(7),qb(8)];//
 AV=(-qb(1)+qb(2)+qb(3)-qb(4)-qb(5)-qb(6)-qb(7)+qb(8))/n;//
-SD=st_deviation(Q);//standard deviation
+SD=stdev(Q);//standard deviation
 V=SD^2;//variance
 Pe1=0.6745*SD;// probable error of one reading
 probable_error=Pe1/sqrt(n-1);
 disp(Pe1,"probable error of one reading(kg/cm^2) = ")
 disp(probable_error,"probable error of mean(kg/cm^2) = ")
 //answer iswring in textbook
-

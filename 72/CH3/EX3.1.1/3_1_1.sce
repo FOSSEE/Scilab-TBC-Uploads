@@ -1,4 +1,4 @@
-// CAPTION:Calculate_the_Line_Characteristic_Impedance_and_Propagation_constant
+
 //chapter_no.-3,  page_no.-84
 //Example_no.3-1-1
 

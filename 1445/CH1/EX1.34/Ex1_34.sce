@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 34
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 34");
 
@@ -46,6 +47,6 @@ I2=(v4-v3)/r5;
 end;
 
 I_tot=I1+I2;
-disp(sprintf("By Superposition Theorem, the current through 1Ω resistor is %.3f A",I_tot));
+disp(sprintf("By Superposition Theorem, the current through 1Ω resistor is %f A",I_tot));
 
 //END

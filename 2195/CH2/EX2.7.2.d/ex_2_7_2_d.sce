@@ -10,12 +10,8 @@ for i= 1:10
 
 end
 Q= [qb(1),qb(2),qb(3),qb(4),qb(5),qb(6),qb(7),qb(8),qb(9),qb(10)];//
-SD=st_deviation(Q);//standard deviation
+SD=stdev(Q);//standard deviation
 Pe1=0.6745*SD;// probable error of one reading
 probable_error=Pe1/sqrt(n-1);
 disp(Pe1,"probable error of one reading(V) = ")
 disp(probable_error,"probable error of mean(V) = ")
-
-
-
-

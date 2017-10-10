@@ -1,4 +1,4 @@
-kclc
+clc
 clear
 disp("Example 8.21")
 printf("\n")
@@ -179,4 +179,3 @@ end
 Binary=IP+DP;
 printf("Sum")
 disp(Binary)
-

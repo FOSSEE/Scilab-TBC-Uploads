@@ -1,4 +1,4 @@
-//desing gib and cottor joint
+
 clc
 //solution
 //given

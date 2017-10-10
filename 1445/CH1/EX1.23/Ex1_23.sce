@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 23
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 23");
 
@@ -22,6 +23,6 @@ b=[110;40];
 x=inv(A)*b;
 I2=x(1,:);                         //to access the 1st element of 2X1 matrix
 I3=x(2,:);                         //to access the 2nd element of 2X1 matrix
-disp(sprintf("By Nodal analysis, the value of I is %.3f A",I3));
+disp(sprintf("By Nodal analysis, the value of I is %f A",I3));
 
 //END

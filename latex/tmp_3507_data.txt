@@ -1,0 +1,285 @@
+28#Digital electronics #28.9#Using De Morgan theore#Ex28_9.sce#3507/CH28/EX28.9/Ex28_9.sce#S##117480
+28#Digital electronics #28.8#Based on theorem 16 & 3#Ex28_8.sce#3507/CH28/EX28.8/Ex28_8.sce#S##117479
+28#Digital electronics #28.7#Apply cummulative law and theorem#Ex28_7.sce#3507/CH28/EX28.7/Ex28_7.sce#S##117478
+28#Digital electronics #28.6#factorize#Ex28_6.sce#3507/CH28/EX28.6/Ex28_6.sce#S##117477
+28#Digital electronics #28.5#page598#Ex28_5.sce#3507/CH28/EX28.5/Ex28_5.sce#S##117476
+28#Digital electronics #28.4#page598#Ex28_4.sce#3507/CH28/EX28.4/Ex28_4.sce#S##117475
+28#Digital electronics #28.3#equivalent decimal of binary 110001#Ex28_3.sce#3507/CH28/EX28.3/Ex28_3.sce#S##117474
+28#Digital electronics #28.2#binary equivalent of decimal number 23#Ex28_2.sce#3507/CH28/EX28.2/Ex28_2.sce#S##117473
+28#Digital electronics #28.13#theorem#Ex28_13.sce#3507/CH28/EX28.13/Ex28_13.sce#S##117484
+28#Digital electronics #28.12#theorem#Ex28_12.sce#3507/CH28/EX28.12/Ex28_12.sce#S##117483
+28#Digital electronics #28.11#De Morgan theorem#Ex28_11.sce#3507/CH28/EX28.11/Ex28_11.sce#S##117482
+28#Digital electronics #28.10#De Morgan theorem#Ex28_10.sce#3507/CH28/EX28.10/Ex28_10.sce#S##117481
+28#Digital electronics #28.1#binary equivalent of decimal number 37#Ex28_1.sce#3507/CH28/EX28.1/Ex28_1.sce#S##117472
+27#Hybrid parameters #27.7#micro mho#Ex27_7.sce#3507/CH27/EX27.7/Ex27_7.sce#S##117471
+27#Hybrid parameters #27.6#voltage gain#Ex27_6.sce#3507/CH27/EX27.6/Ex27_6.sce#S##117470
+27#Hybrid parameters #27.5#input impedence#Ex27_5.sce#3507/CH27/EX27.5/Ex27_5.sce#S##117469
+27#Hybrid parameters #27.4#approximate current gain#Ex27_4.sce#3507/CH27/EX27.4/Ex27_4.sce#S##117468
+27#Hybrid parameters #27.3#voltage gain of circuit#EX27_3.sce#3507/CH27/EX27.3/EX27_3.sce#S##117467
+27#Hybrid parameters #27.2#impedence #Ex27_2.sce#3507/CH27/EX27.2/Ex27_2.sce#S##117466
+27#Hybrid parameters #27.1#ratio#Ex27_1.sce#3507/CH27/EX27.1/Ex27_1.sce#S##117465
+26#Integrated circuits #26.1#regulated dc output voltage#Ex26_1.sce#3507/CH26/EX26.1/Ex26_1.sce#S##117464
+25#Electronic instruments #25.9#ratio of fv to fh#Ex25_9.sce#3507/CH25/EX25.9/Ex25_9.sce#S##117463
+25#Electronic instruments #25.8#unknown voltage#Ex25_8.sce#3507/CH25/EX25.8/Ex25_8.sce#S##117462
+25#Electronic instruments #25.7#applied voltage#Ex25_7.sce#3507/CH25/EX25.7/Ex25_7.sce#S##117461
+25#Electronic instruments #25.6#spot shift#Ex25_6.sce#3507/CH25/EX25.6/Ex25_6.sce#S##117460
+25#Electronic instruments #25.5#resistance of voltmeter#Ex25_5.sce#3507/CH25/EX25.5/Ex25_5.sce#S##117459
+25#Electronic instruments #25.4#voltage read by multimete#Ex25_4.sce#3507/CH25/EX25.4/Ex25_4.sce#S##117458
+25#Electronic instruments #25.3#voltage read by multimeter#Ex25_3.sce#3507/CH25/EX25.3/Ex25_3.sce#S##117457
+25#Electronic instruments #25.2#equivalent resistance of meter#Ex25_2.sce#3507/CH25/EX25.2/Ex25_2.sce#S##117456
+25#Electronic instruments #25.1#sensitivity#Ex25_1.sce#3507/CH25/EX25.1/Ex25_1.sce#S##117455
+24#Power electronics #24.2#voltage#Ex24_2.sce#3507/CH24/EX24.2/Ex24_2.sce#S##117454
+24#Power electronics #24.1#(RB1+RB2) = RB1/Rbb #Ex24_1.sce#3507/CH24/EX24.1/Ex24_1.sce#S##117453
+23#Silicon controlled rectifiers #23.7# voltage#Ex23_7.sce#3507/CH23/EX23.7/Ex23_7.sce#S##117452
+23#Silicon controlled rectifiers #23.6#forward breakdown voltage#Ex23_6.sce#3507/CH23/EX23.6/Ex23_6.sce#S##117451
+23#Silicon controlled rectifiers #23.5#power output#Ex23_5.sce#3507/CH23/EX23.5/Ex23_5.sce#S##117450
+23#Silicon controlled rectifiers #23.4#average current#Ex23_4.sce#3507/CH23/EX23.4/Ex23_4.sce#S##117449
+23#Silicon controlled rectifiers #23.3#maximum allowable duration of surge#Ex23_3.sce#3507/CH23/EX23.3/Ex23_3.sce#S##117448
+23#Silicon controlled rectifiers #23.2#rating#Ex23_2.sce#3507/CH23/EX23.2/Ex23_2.sce#S##117447
+23#Silicon controlled rectifiers #23.1# Breakover voltage #Ex23_1.sce#3507/CH23/EX23.1/Ex23_1.sce#S##117446
+22#Field Effect Transistors #22.9#voltage amplification of the circuit#Ex22_9.sce#3507/CH22/EX22.9/Ex22_9.sce#S##117443
+22#Field Effect Transistors #22.8#required value of Rs#Ex22_8.sce#3507/CH22/EX22.8/Ex22_8.sce#S##117442
+22#Field Effect Transistors #22.7#Kirchoff's law#Ex22_7.sce#3507/CH22/EX22.7/Ex22_7.sce#S##117441
+22#Field Effect Transistors #22.6#amplification factor#Ex22_6.sce#3507/CH22/EX22.6/Ex22_6.sce#S##117440
+22#Field Effect Transistors #22.5#transconductance #Ex22_5.sce#3507/CH22/EX22.5/Ex22_5.sce#S##117439
+22#Field Effect Transistors #22.4#gate source resistance#Ex22_4.sce#3507/CH22/EX22.4/Ex22_4.sce#S##117438
+22#Field Effect Transistors #22.3#pinch off voltage#Ex22_3.sce#3507/CH22/EX22.3/Ex22_3.sce#S##117437
+22#Field Effect Transistors #22.2#drain current #Ex22_2.sce#3507/CH22/EX22.2/Ex22_2.sce#S##117436
+22#Field Effect Transistors #22.11#dc voltage of drain#Ex22_11.sce#3507/CH22/EX22.11/Ex22_11.sce#S##117445
+22#Field Effect Transistors #22.10#Vds#Ex22_10.sce#3507/CH22/EX22.10/Ex22_10.sce#S##117444
+22#Field Effect Transistors #22.1#Id#Ex22_1.sce#3507/CH22/EX22.1/Ex22_1.sce#S##117434
+21#Solid state switching circuits #21.9#empty#Ex21_9.xcos#3507/CH21/EX21.9/Ex21_9.xcos#X##117431
+21#Solid state switching circuits #21.9#empty#Ex21_9.sce#3507/CH21/EX21.9/Ex21_9.sce#S##117430
+21#Solid state switching circuits #21.8#plotting input and output waveforms#Ex21_8.sce#3507/CH21/EX21.8/Ex21_8.sce#S##117429
+21#Solid state switching circuits #21.7#plotting input and output waveforms#Ex21_7.sce#3507/CH21/EX21.7/Ex21_7.sce#S##117428
+21#Solid state switching circuits #21.6#plotting input and output waveforms#Ex21_6.sce#3507/CH21/EX21.6/Ex21_6.sce#S##117427
+21#Solid state switching circuits #21.5#plotting input and output waveforms #Ex21_5.sce#3507/CH21/EX21.5/Ex21_5.sce#S##117425
+21#Solid state switching circuits #21.4#output voltage#Ex21_4.sce#3507/CH21/EX21.4/Ex21_4.sce#S##117426
+21#Solid state switching circuits #21.3#differentiating circuit#Ex21_3.sce#3507/CH21/EX21.3/Ex21_3.sce#S##117424
+21#Solid state switching circuits #21.2#square wave#Ex21_2.sce#3507/CH21/EX21.2/Ex21_2.sce#S##117423
+21#Solid state switching circuits #21.11#plot input and output waveforms#Ex21_11.sce#3507/CH21/EX21.11/Ex21_11.sce#S##117433
+21#Solid state switching circuits #21.10#plot input and output waveforms#Ex21_10.sce#3507/CH21/EX21.10/Ex21_10.sce#S##117432
+21#Solid state switching circuits #21.1#voltage required to saturate transistor#Ex21_1.sce#3507/CH21/EX21.1/Ex21_1.sce#S##117422
+20#Regulated dc power supply #20.9#Zener diode#Ex20_9.sce#3507/CH20/EX20.9/Ex20_9.sce#S##117418
+20#Regulated dc power supply #20.8#Zener diode#Ex20_8.sce#3507/CH20/EX20.8/Ex20_8.sce#S##117417
+20#Regulated dc power supply #20.7#load voltage & current#Ex20_7.sce#3507/CH20/EX20.7/Ex20_7.sce#S##117416
+20#Regulated dc power supply #20.6#required series resistance #Ex20_6.sce#3507/CH20/EX20.6/Ex20_6.sce#S##117415
+20#Regulated dc power supply #20.5#maximum zener current#Ex20_5.sce#3507/CH20/EX20.5/Ex20_5.sce#S##117414
+20#Regulated dc power supply #20.4#minimum load resistance#Ex20_4.sce#3507/CH20/EX20.4/Ex20_4.sce#S##117413
+20#Regulated dc power supply #20.3#regulation for power#Ex20_3.sce#3507/CH20/EX20.3/Ex20_3.sce#S##117412
+20#Regulated dc power supply #20.2#full load voltage#Ex20_2.sce#3507/CH20/EX20.2/Ex20_2.sce#S##117411
+20#Regulated dc power supply #20.12#collector current#Ex20_12.sce#3507/CH20/EX20.12/Ex20_12.sce#S##117421
+20#Regulated dc power supply #20.11#closed loop voltage gain#Ex20_11.sce#3507/CH20/EX20.11/Ex20_11.sce#S##117420
+20#Regulated dc power supply #20.10#regulated output voltage#Ex20_10.sce#3507/CH20/EX20.10/Ex20_10.sce#S##117419
+20#Regulated dc power supply #20.1#regulation#Ex20_1.sce#3507/CH20/EX20.1/Ex20_1.sce#S##117410
+19#Modulation and demodulation #19.9#modulating signal#Ex19_9.sce#3507/CH19/EX19.9/Ex19_9.sce#S##117396
+19#Modulation and demodulation #19.8#sideband power#Ex19_8.sce#3507/CH19/EX19.8/Ex19_8.sce#S##117395
+19#Modulation and demodulation #19.7#power of modulated wave#Ex19_7.sce#3507/CH19/EX19.7/Ex19_7.sce#S##117394
+19#Modulation and demodulation #19.6#amplitude of each sideband term#Ex19_6.sce#3507/CH19/EX19.6/Ex19_6.sce#S##117393
+19#Modulation and demodulation #19.5#amplitudes of components#Ex19_5.sce#3507/CH19/EX19.5/Ex19_5.sce#S##117392
+19#Modulation and demodulation #19.4#Bandwidth for RF amplifier#Ex19_4.sce#3507/CH19/EX19.4/Ex19_4.sce#S##117391
+19#Modulation and demodulation #19.3#modulation factor#Ex19_3.sce#3507/CH19/EX19.3/Ex19_3.sce#S##117390
+19#Modulation and demodulation #19.2#modulation factor#Ex19_2.sce#3507/CH19/EX19.2/Ex19_2.sce#S##117389
+19#Modulation and demodulation #19.14#AM wave#Ex19_14.sce#3507/CH19/EX19.14/Ex19_14.sce#S##117403
+19#Modulation and demodulation #19.13#modulation factor#Ex19_13.sce#3507/CH19/EX19.13/Ex19_13.sce#S##117400
+19#Modulation and demodulation #19.12#modulation factor#Ex19_12.sce#3507/CH19/EX19.12/Ex19_12.sce#S##117402
+19#Modulation and demodulation #19.11#antenna current#Ex19_11.sce#3507/CH19/EX19.11/Ex19_11.sce#S##117398
+19#Modulation and demodulation #19.10#frequencie & bandwith#Ex19_10.sce#3507/CH19/EX19.10/Ex19_10.sce#S##117397
+19#Modulation and demodulation #19.1#Vmax&Vmin#Ex19_1.sce#3507/CH19/EX19.1/Ex19_1.sce#S##117388
+18#Transistor tuned amplifiers #18.7#load#Ex18_7.sce#3507/CH18/EX18.7/Ex18_7.sce#S##117281
+18#Transistor tuned amplifiers #18.6#ac load#Ex18_6.sce#3507/CH18/EX18.6/Ex18_6.sce#S##117280
+18#Transistor tuned amplifiers #18.5#co-efficient of coupling#Ex18_5.sce#3507/CH18/EX18.5/Ex18_5.sce#S##117279
+18#Transistor tuned amplifiers #18.4#frequency#Ex18_4.sce#3507/CH18/EX18.4/Ex18_4.sce#S##117278
+18#Transistor tuned amplifiers #18.3# frequency#Ex18_3.sce#3507/CH18/EX18.3/Ex18_3.sce#S##117277
+18#Transistor tuned amplifiers #18.2#circuit#Ex18_2.sce#3507/CH18/EX18.2/Ex18_2.sce#S##117276
+18#Transistor tuned amplifiers #18.1#impedence of circuit at resonance#Ex18_1.sce#3507/CH18/EX18.1/Ex18_1.sce#S##117275
+17#Sinusoidal oscillations #17.7#resonant frequency#Ex17_7.sce#3507/CH17/EX17.7/Ex17_7.sce#S##117273
+17#Sinusoidal oscillations #17.6#thickness of crystal#Ex17_6.sce#3507/CH17/EX17.6/Ex17_6.sce#S##117272
+17#Sinusoidal oscillations #17.5#frequency of oscillations#Ex17_5.sce#3507/CH17/EX17.5/Ex17_5.sce#S##117271
+17#Sinusoidal oscillations #17.4#frequency of oscillations#Ex17_4.sce#3507/CH17/EX17.4/Ex17_4.sce#S##117274
+17#Sinusoidal oscillations #17.3#feedback function#Ex17_3.sce#3507/CH17/EX17.3/Ex17_3.sce#S##117269
+17#Sinusoidal oscillations #17.2#operating frequency#Ex17_2.sce#3507/CH17/EX17.2/Ex17_2.sce#S##117267
+17#Sinusoidal oscillations #17.1#frequency of oscillations#Ex17_1.sce#3507/CH17/EX17.1/Ex17_1.sce#S##117268
+16#Amplifiers with negative feedback#16.9#Example 9#Ex16_9.sce#3507/CH16/EX16.9/Ex16_9.sce#S##117088
+16#Amplifiers with negative feedback#16.8#voltage gain with negative feedback#Ex16_8.sce#3507/CH16/EX16.8/Ex16_8.sce#S##117087
+16#Amplifiers with negative feedback#16.7#voltage gain with negative feedback#Ex16_7.sce#3507/CH16/EX16.7/Ex16_7.sce#S##117086
+16#Amplifiers with negative feedback#16.6#percentage change in gain#Ex16_6.sce#3507/CH16/EX16.6/Ex16_6.sce#S##117085
+16#Amplifiers with negative feedback#16.5#percentage reduction in gain#Ex16_5.sce#3507/CH16/EX16.5/Ex16_5.sce#S##117084
+16#Amplifiers with negative feedback#16.4#fraction of output fed back to input #Ex16_4.sce#3507/CH16/EX16.4/Ex16_4.sce#S##117083
+16#Amplifiers with negative feedback#16.3#overall gain#Ex16_3.sce#3507/CH16/EX16.3/Ex16_3.sce#S##117082
+16#Amplifiers with negative feedback#16.20#output impedence#Ex16_20.sce#3507/CH16/EX16.20/Ex16_20.sce#S##117099
+16#Amplifiers with negative feedback#16.19#input impedence #Ex16_19.sce#3507/CH16/EX16.19/Ex16_19.sce#S##117098
+16#Amplifiers with negative feedback#16.18#voltage gain#Ex16_18.sce#3507/CH16/EX16.18/Ex16_18.sce#S##117097
+16#Amplifiers with negative feedback#16.17#voltage gain#Ex16_17.sce#3507/CH16/EX16.17/Ex16_17.sce#S##117096
+16#Amplifiers with negative feedback#16.16#voltage across#Ex16_16.sce#3507/CH16/EX16.16/Ex16_16.sce#S##117095
+16#Amplifiers with negative feedback#16.15#Bandwidth with negative feedback#Ex16_15.sce#3507/CH16/EX16.15/Ex16_15.sce#S##117094
+16#Amplifiers with negative feedback#16.14#output impedence with negative feedback#Ex16_14.sce#3507/CH16/EX16.14/Ex16_14.sce#S##117093
+16#Amplifiers with negative feedback#16.13#input impedence with negative feedback#Ex16_13.sce#3507/CH16/EX16.13/Ex16_13.sce#S##117092
+16#Amplifiers with negative feedback#16.12#effective current gain of amplifier#Ex16_12.sce#3507/CH16/EX16.12/Ex16_12.sce#S##117091
+16#Amplifiers with negative feedback#16.11# cutoff frequency with negative feedback #Ex16_11.sce#3507/CH16/EX16.11/Ex16_11.sce#S##117090
+16#Amplifiers with negative feedback#16.10#distortion of amplifier with negative feedback#Ex16_10.sce#3507/CH16/EX16.10/Ex16_10.sce#S##117089
+16#Amplifiers with negative feedback#16.1#voltge gain with negative feedback#Ex16_1.sce#3507/CH16/EX16.1/Ex16_1.sce#S##117080
+16#Amplifiers with negative feedback#12.2#fraction of output fed back to input #Ex16_2.sce#3507/CH16/EX12.2/Ex16_2.sce#S##117081
+15#Transistor audio power amplifiers#15.9#current#Ex15_9.sce#3507/CH15/EX15.9/Ex15_9.sce#S##116969
+15#Transistor audio power amplifiers#15.8#loudspeaker#Ex15_8.sce#3507/CH15/EX15.8/Ex15_8.sce#S##116968
+15#Transistor audio power amplifiers#15.7#power dissipation#Ex15_7.sce#3507/CH15/EX15.7/Ex15_7.sce#S##116967
+15#Transistor audio power amplifiers#15.6#maximum ac power output#Ex15_6.sce#3507/CH15/EX15.6/Ex15_6.sce#S##116966
+15#Transistor audio power amplifiers#15.5#collector efficiency#Ex15_5.sce#3507/CH15/EX15.5/Ex15_5.sce#S##116965
+15#Transistor audio power amplifiers#15.4#collector efficiency#Ex15_4.sce#3507/CH15/EX15.4/Ex15_4.sce#S##116964
+15#Transistor audio power amplifiers#15.3#ac output#Ex15_3.sce#3507/CH15/EX15.3/Ex15_3.sce#S##116963
+15#Transistor audio power amplifiers#15.2#maximum collector current#Ex15_2.sce#3507/CH15/EX15.2/Ex15_2.sce#S##116962
+15#Transistor audio power amplifiers#15.12#allowed collector current#Ex15_12.sce#3507/CH15/EX15.12/Ex15_12.sce#S##116972
+15#Transistor audio power amplifiers#15.11#maximum power dissipation#Ex15_11.sce#3507/CH15/EX15.11/Ex15_11.sce#S##116971
+15#Transistor audio power amplifiers#15.10#maximum ambient temperature at which transistor can be operated#Ex15_10.sce#3507/CH15/EX15.10/Ex15_10.sce#S##116970
+15#Transistor audio power amplifiers#15.1#maximum collector current#Ex15_1.sce#3507/CH15/EX15.1/Ex15_1.sce#S##116961
+14#Multistage transistor amplifiers #14.9#frequency#Ex14_9.sce#3507/CH14/EX14.9/Ex14_9.sce#S##116950
+14#Multistage transistor amplifiers #14.8#output voltage#Ex14_8.sce#3507/CH14/EX14.8/Ex14_8.sce#S##116949
+14#Multistage transistor amplifiers #14.7#minimum value of load resistance#Ex14_7.sce#3507/CH14/EX14.7/Ex14_7.sce#S##116948
+14#Multistage transistor amplifiers #14.6#output voltage#Ex14_6.sce#3507/CH14/EX14.6/Ex14_6.sce#S##116947
+14#Multistage transistor amplifiers #14.5#Example 5#Ex14_5.sce#3507/CH14/EX14.5/Ex14_5.sce#S##116946
+14#Multistage transistor amplifiers #14.4#Example 4#Ex14_4.sce#3507/CH14/EX14.4/Ex14_4.sce#S##116945
+14#Multistage transistor amplifiers #14.3#total voltage gain#Ex14_3.sce#3507/CH14/EX14.3/Ex14_3.sce#S##116944
+14#Multistage transistor amplifiers #14.2# gain#Ex14_2.sce#3507/CH14/EX14.2/Ex14_2.sce#S##116943
+14#Multistage transistor amplifiers #14.19#inductance#Ex14_19.sce#3507/CH14/EX14.19/Ex14_19.sce#S##116960
+14#Multistage transistor amplifiers #14.18#inductance#Ex14_18.sce#3507/CH14/EX14.18/Ex14_18.sce#S##116958
+14#Multistage transistor amplifiers #14.17#turn ratio for maximum power transfer#Ex14_17.sce#3507/CH14/EX14.17/Ex14_17.sce#S##116959
+14#Multistage transistor amplifiers #14.16#voltage across external load#Ex14_16.sce#3507/CH14/EX14.16/Ex14_16.sce#S##116957
+14#Multistage transistor amplifiers #14.15#transformer#Ex14_15.sce#3507/CH14/EX14.15/Ex14_15.sce#S##116956
+14#Multistage transistor amplifiers #14.14#voltage gain#Ex14_14.sce#3507/CH14/EX14.14/Ex14_14.sce#S##116955
+14#Multistage transistor amplifiers #14.13#biasing potential#Ex14_13.sce#3507/CH14/EX14.13/Ex14_13.sce#S##116954
+14#Multistage transistor amplifiers #14.12#voltage gain#Ex14_12.sce#3507/CH14/EX14.12/Ex14_12.sce#S##116953
+14#Multistage transistor amplifiers #14.11#gain#Ex14_11.sce#3507/CH14/EX14.11/Ex14_11.sce#S##116952
+14#Multistage transistor amplifiers #14.10#gain#Ex14_10.sce#3507/CH14/EX14.10/Ex14_10.sce#S##116951
+14#Multistage transistor amplifiers #14.1#gain#Ex14_1.sce#3507/CH14/EX14.1/Ex14_1.sce#S##116942
+13#Single stage transistor amplifiers #13.9#output voltage#Ex13_9.sce#3507/CH13/EX13.9/Ex13_9.sce#S##116932
+13#Single stage transistor amplifiers #13.8#input impedence#Ex13_8.sce#3507/CH13/EX13.8/Ex13_8.sce#S##116931
+13#Single stage transistor amplifiers #13.7#output voltage#Ex13_7.sce#3507/CH13/EX13.7/Ex13_7.sce#S##116930
+13#Single stage transistor amplifiers #13.6#voltage gain#Ex13_6.sce#3507/CH13/EX13.6/Ex13_6.sce#S##116929
+13#Single stage transistor amplifiers #13.5#plot#Ex13_5.sce#3507/CH13/EX13.5/Ex13_5.sce#S##116928
+13#Single stage transistor amplifiers #13.4#maximum collector#Ex13_4.sce#3507/CH13/EX13.4/Ex13_4.sce#S##116927
+13#Single stage transistor amplifiers #13.3#the operating point#Ex13_3.sce#3507/CH13/EX13.3/Ex13_3.sce#S##116926
+13#Single stage transistor amplifiers #13.18#required signal voltage#Ex13_18.sce#3507/CH13/EX13.18/Ex13_18.sce#S##116941
+13#Single stage transistor amplifiers #13.17#magnitude of output voltage #Ex13_17.sce#3507/CH13/EX13.17/Ex13_17.sce#S##116940
+13#Single stage transistor amplifiers #13.16#required input signal voltag#Ex13_16.sce#3507/CH13/EX13.16/Ex13_16.sce#S##116939
+13#Single stage transistor amplifiers #13.15#Class A#Ex13_15.sce#3507/CH13/EX13.15/Ex13_15.sce#S##116938
+13#Single stage transistor amplifiers #13.14#input impedence of amplifier circuit #Ex13_14.sce#3507/CH13/EX13.14/Ex13_14.sce#S##116937
+13#Single stage transistor amplifiers #13.13#voltage gain#Ex13_13.sce#3507/CH13/EX13.13/Ex13_13.sce#S##116936
+13#Single stage transistor amplifiers #13.12#voltage gain#Ex13_12.sce#3507/CH13/EX13.12/Ex13_12.sce#S##116935
+13#Single stage transistor amplifiers #13.11#ac emitter resistance#Ex13_11.sce#3507/CH13/EX13.11/Ex13_11.sce#S##116934
+13#Single stage transistor amplifiers #13.10#circuit#Ex13_10.sce#3507/CH13/EX13.10/Ex13_10.sce#S##116933
+13#Single stage transistor amplifiers #1.2#Thevenin circuit#Ex13_2.sce#3507/CH13/EX1.2/Ex13_2.sce#S##116925
+13#Single stage transistor amplifiers #1.1#collector current#Ex13_1.sce#3507/CH13/EX1.1/Ex13_1.sce#S##116924
+12#Transistor biasing #19.12#Example 12#Ex19_12.sce#3507/CH12/EX19.12/Ex19_12.sce#S##117399
+12#Transistor biasing #12.9#Example 9#Ex12_9.sce#3507/CH12/EX12.9/Ex12_9.sce#S##116876
+12#Transistor biasing #12.8#Example 8#Ex12_8.sce#3507/CH12/EX12.8/Ex12_8.sce#S##116875
+12#Transistor biasing #12.7#Example 7#Ex12_7.sce#3507/CH12/EX12.7/Ex12_7.sce#S##116874
+12#Transistor biasing #12.6#Example 6#Ex12_6.sce#3507/CH12/EX12.6/Ex12_6.sce#S##116873
+12#Transistor biasing #12.5#Example 5#Ex12_5.sce#3507/CH12/EX12.5/Ex12_5.sce#S##116872
+12#Transistor biasing #12.4#Example 4#Ex12_4.sce#3507/CH12/EX12.4/Ex12_4.sce#S##116871
+12#Transistor biasing #12.3#Example 3#Ex12_3.sce#3507/CH12/EX12.3/Ex12_3.sce#S##116870
+12#Transistor biasing #12.26#voltage at base#Ex12_26.sce#3507/CH12/EX12.26/Ex12_26.sce#S##116892
+12#Transistor biasing #12.25#since base voltage is zero#Ex12_25.sce#3507/CH12/EX12.25/Ex12_25.sce#S##116891
+12#Transistor biasing #12.24#base current#Ex12_24.sce#3507/CH12/EX12.24/Ex12_24.sce#S##116890
+12#Transistor biasing #12.23#collector cutoff current#Ex12_23.sce#3507/CH12/EX12.23/Ex12_23.sce#S##116889
+12#Transistor biasing #12.22#base current#Ex12_22.sce#3507/CH12/EX12.22/Ex12_22.sce#S##116888
+12#Transistor biasing #12.21#circuit is not mid-point biased#Ex12_21.sce#3507/CH12/EX12.21/Ex12_21.sce#S##116887
+12#Transistor biasing #12.20#circuit is not mid-point biased#Ex12_20.sce#3507/CH12/EX12.20/Ex12_20.sce#S##116886
+12#Transistor biasing #12.2#maximum input signal voltage#Ex12_2.sce#3507/CH12/EX12.2/Ex12_2.sce#S##116869
+12#Transistor biasing #12.19#transistor#EX12_19.sce#3507/CH12/EX12.19/EX12_19.sce#S##116893
+12#Transistor biasing #12.18#kilo ohm#Ex12_18.sce#3507/CH12/EX12.18/Ex12_18.sce#S##116885
+12#Transistor biasing #12.17#thevenin#Ex12_17.sce#3507/CH12/EX12.17/Ex12_17.sce#S##116884
+12#Transistor biasing #12.16#collector resistance#Ex12_16.sce#3507/CH12/EX12.16/Ex12_16.sce#S##116883
+12#Transistor biasing #12.15#Kirchoff voltage law#Ex12_15.sce#3507/CH12/EX12.15/Ex12_15.sce#S##116882
+12#Transistor biasing #12.14#collector emitter#Ex12_14.sce#3507/CH12/EX12.14/Ex12_14.sce#S##116881
+12#Transistor biasing #12.13#collector current#Ex12_13.sce#3507/CH12/EX12.13/Ex12_13.sce#S##116880
+12#Transistor biasing #12.12#thevenin#Ex12_12.sce#3507/CH12/EX12.12/Ex12_12.sce#S##116879
+12#Transistor biasing #12.11#voltage across#Ex12_11.sce#3507/CH12/EX12.11/Ex12_11.sce#S##116878
+12#Transistor biasing #12.10#base resistance#Ex12_10.sce#3507/CH12/EX12.10/Ex12_10.sce#S##116877
+12#Transistor biasing #12.1#circuit diagram#Ex12_1.sce#3507/CH12/EX12.1/Ex12_1.sce#S##116868
+11#Transistors #11.9#Example 9#Ex11_9.sce#3507/CH11/EX11.9/Ex11_9.sce#S##116854
+11#Transistors #11.8#Example 8#Ex11_8.sce#3507/CH11/EX11.8/Ex11_8.sce#S##116853
+11#Transistors #11.7#collector curent #Ex11_7.sce#3507/CH11/EX11.7/Ex11_7.sce#S##116852
+11#Transistors #11.6#base current#Ex11_6.sce#3507/CH11/EX11.6/Ex11_6.sce#S##116851
+11#Transistors #11.5#collector current#Ex11_5.sce#3507/CH11/EX11.5/Ex11_5.sce#S##116850
+11#Transistors #11.4#amplification factor#Ex11_4.sce#3507/CH11/EX11.4/Ex11_4.sce#S##116849
+11#Transistors #11.3#base current#Ex11_3.sce#3507/CH11/EX11.3/Ex11_3.sce#S##116848
+11#Transistors #11.21#maximum allowable collector current#Ex11_21.sce#3507/CH11/EX11.21/Ex11_21.sce#S##116867
+11#Transistors #11.20#saturation collector current#Ex11_20.sce#3507/CH11/EX11.20/Ex11_20.sce#S##116866
+11#Transistors #11.2#base current#Ex11_2.sce#3507/CH11/EX11.2/Ex11_2.sce#S##116847
+11#Transistors #11.19#voltage gain#Ex11_19.sce#3507/CH11/EX11.19/Ex11_19.sce#S##116865
+11#Transistors #11.18#output resistance#Ex11_18.sce#3507/CH11/EX11.18/Ex11_18.sce#S##116864
+11#Transistors #11.17#input resistance #Ex11_17.sce#3507/CH11/EX11.17/Ex11_17.sce#S##116863
+11#Transistors #11.16#collector load#Ex11_16.sce#3507/CH11/EX11.16/Ex11_16.sce#S##116862
+11#Transistors #11.15#Q point#Ex11_15.sce#3507/CH11/EX11.15/Ex11_15.sce#S##116861
+11#Transistors #11.14#dc load line#Ex11_14.sce#3507/CH11/EX11.14/Ex11_14.sce#S##116860
+11#Transistors #11.13#base current#Ex11_13.sce#3507/CH11/EX11.13/Ex11_13.sce#S##116858
+11#Transistors #11.12#collector emitter voltage#Ex11_12.sce#3507/CH11/EX11.12/Ex11_12.sce#S##116857
+11#Transistors #11.11#base current#Ex11_11.sce#3507/CH11/EX11.11/Ex11_11.sce#S##116859
+11#Transistors #11.10#collector current#Ex11_10.sce#3507/CH11/EX11.10/Ex11_10.sce#S##116855
+11#Transistors #11.1#voltage amplification#Ex11_1.sce#3507/CH11/EX11.1/Ex11_1.sce#S##116846
+10# Special purpose diodes #10.5#resonant frequency#Ex10_5.sce#3507/CH10/EX10.5/Ex10_5.sce#S##116845
+10# Special purpose diodes #10.4#reverse current#Ex10_4.sce#3507/CH10/EX10.4/Ex10_4.sce#S##116844
+10# Special purpose diodes #10.3#dark resistance#Ex10_3.sce#3507/CH10/EX10.3/Ex10_3.sce#S##116843
+10# Special purpose diodes #10.2#current through LED#Ex10_2.sce#3507/CH10/EX10.2/Ex10_2.sce#S##116842
+10# Special purpose diodes #10.11#base current#Ex11_11.sce#3507/CH10/EX10.11/Ex11_11.sce#S##116856
+10# Special purpose diodes #10.1#required series resistor#Ex10_1.sce#3507/CH10/EX10.1/Ex10_1.sce#S##116841
+9#Semiconductor diode #9.9#Example 9#Ex9_9.sce#3507/CH9/EX9.9/Ex9_9.sce#S##116821
+9#Semiconductor diode #9.8#Example 8#Ex9_8.sce#3507/CH9/EX9.8/Ex9_8.sce#S##116820
+9#Semiconductor diode #9.7#Example 7#Ex9_7.sce#3507/CH9/EX9.7/Ex9_7.sce#S##116819
+9#Semiconductor diode #9.6#Example 6#Ex9_6.sce#3507/CH9/EX9.6/Ex9_6.sce#S##116818
+9#Semiconductor diode #9.5#Example 5#Ex9_5.sce#3507/CH9/EX9.5/Ex9_5.sce#S##116817
+9#Semiconductor diode #9.4#Example 4#Ex9_4.sce#3507/CH9/EX9.4/Ex9_4.sce#S##116816
+9#Semiconductor diode #9.3#Example 3#Ex9_3.sce#3507/CH9/EX9.3/Ex9_3.sce#S##116815
+9#Semiconductor diode #9.28#Example 28#Ex9_28.sce#3507/CH9/EX9.28/Ex9_28.sce#S##116840
+9#Semiconductor diode #9.27#Example 27#Ex9_27.sce#3507/CH9/EX9.27/Ex9_27.sce#S##116839
+9#Semiconductor diode #9.26#Example 26#Ex9_26.sce#3507/CH9/EX9.26/Ex9_26.sce#S##116838
+9#Semiconductor diode #9.25#Example 25#Ex9_25.sce#3507/CH9/EX9.25/Ex9_25.sce#S##116837
+9#Semiconductor diode #9.24#Example 24#Ex9_24.sce#3507/CH9/EX9.24/Ex9_24.sce#S##116836
+9#Semiconductor diode #9.23#Example 23#Ex9_23.sce#3507/CH9/EX9.23/Ex9_23.sce#S##116835
+9#Semiconductor diode #9.22#Example 22#Ex9_22.sce#3507/CH9/EX9.22/Ex9_22.sce#S##116834
+9#Semiconductor diode #9.21#Example 21#Ex9_21.sce#3507/CH9/EX9.21/Ex9_21.sce#S##116833
+9#Semiconductor diode #9.20#Example 20#Ex9_20.sce#3507/CH9/EX9.20/Ex9_20.sce#S##116832
+9#Semiconductor diode #9.2#Example 2#Ex9_2.sce#3507/CH9/EX9.2/Ex9_2.sce#S##116814
+9#Semiconductor diode #9.19#Example 19#Ex9_19.sce#3507/CH9/EX9.19/Ex9_19.sce#S##116831
+9#Semiconductor diode #9.18#Example 18#Ex9_18.sce#3507/CH9/EX9.18/Ex9_18.sce#S##116830
+9#Semiconductor diode #9.17#Example 17#Ex9_17.sce#3507/CH9/EX9.17/Ex9_17.sce#S##116829
+9#Semiconductor diode #9.16#Example 16#Ex9_16.sce#3507/CH9/EX9.16/Ex9_16.sce#S##116828
+9#Semiconductor diode #9.15#Example 15#Ex9_15.sce#3507/CH9/EX9.15/Ex9_15.sce#S##116827
+9#Semiconductor diode #9.14#Example 14#Ex9_14.sce#3507/CH9/EX9.14/Ex9_14.sce#S##116826
+9#Semiconductor diode #9.13#Example 13#Ex9_13.sce#3507/CH9/EX9.13/Ex9_13.sce#S##116825
+9#Semiconductor diode #9.12#Example 12#Ex9_12.sce#3507/CH9/EX9.12/Ex9_12.sce#S##116824
+9#Semiconductor diode #9.11#Example 11#Ex9_11.sce#3507/CH9/EX9.11/Ex9_11.sce#S##116823
+9#Semiconductor diode #9.10#Example 10#Ex9_10.sce#3507/CH9/EX9.10/Ex9_10.sce#S##116822
+9#Semiconductor diode #9.1#Example 1#Ex9_1.sce#3507/CH9/EX9.1/Ex9_1.sce#S##116813
+9#Semiconductor diode #19.14#power#Ex19_14.sce#3507/CH9/EX19.14/Ex19_14.sce#S##117401
+5#Vacuum tube amplifiers #5.5#Example 5#Ex5_5.sce#3507/CH5/EX5.5/Ex5_5.sce#S##116811
+5#Vacuum tube amplifiers #5.4#Example 4#Ex5_4.sce#3507/CH5/EX5.4/Ex5_4.sce#S##116810
+5#Vacuum tube amplifiers #5.3#Example 3#Ex5_3.sce#3507/CH5/EX5.3/Ex5_3.sce#S##116809
+5#Vacuum tube amplifiers #5.2#Example 2#Ex5_2.sce#3507/CH5/EX5.2/Ex5_2.sce#S##116808
+5#Vacuum tube amplifiers #5.1#Example 1#Ex5_1.sce#3507/CH5/EX5.1/Ex5_1.sce#S##116807
+4#Vacuum tube rectifiers #4.5#Example 5#Ex4_5.sce#3507/CH4/EX4.5/Ex4_5.sce#S##116806
+4#Vacuum tube rectifiers #4.4#Example 4#Ex4_4.sce#3507/CH4/EX4.4/Ex4_4.sce#S##116805
+4#Vacuum tube rectifiers #4.3#Example 3#Ex4_3.sce#3507/CH4/EX4.3/Ex4_3.sce#S##116804
+4#Vacuum tube rectifiers #4.2#Example 2#Ex4_2.sce#3507/CH4/EX4.2/Ex4_2.sce#S##116803
+4#Vacuum tube rectifiers #4.1#Example 1#Ex4_1.sce#3507/CH4/EX4.1/Ex4_1.sce#S##116802
+4#Vacuum tube rectifiers #17.4#Example 4#Ex17_4.sce#3507/CH4/EX17.4/Ex17_4.sce#S##117270
+3#Vacuum tubes #3.5#Example 5#Ex3_5.sce#3507/CH3/EX3.5/Ex3_5.sce#S##116801
+3#Vacuum tubes #3.4#Example 4#Ex3_4.sce#3507/CH3/EX3.4/Ex3_4.sce#S##116800
+3#Vacuum tubes #3.3#Example 3#Ex3_3.sce#3507/CH3/EX3.3/Ex3_3.sce#S##116799
+3#Vacuum tubes #3.2#Example 2#Ex3_2.sce#3507/CH3/EX3.2/Ex3_2.sce#S##116798
+3#Vacuum tubes #3.1#Example 1#Ex3_1.sce#3507/CH3/EX3.1/Ex3_1.sce#S##116797
+2#Electron emission #2.2#Example 2#Ex2_2.sce#3507/CH2/EX2.2/Ex2_2.sce#S##116796
+2#Electron emission #2.1#Example 1#Ex2_1.sce#3507/CH2/EX2.1/Ex2_1.sce#S##116795
+1#Introduction #17.1#Example 1#Ex17_1.sce#3507/CH1/EX17.1/Ex17_1.sce#S##117266
+1#Introduction #1.9#Exmaple 9#Ex1_9.sce#3507/CH1/EX1.9/Ex1_9.sce#S##116791
+1#Introduction #1.8#Exmaple 8#Ex1_8.sce#3507/CH1/EX1.8/Ex1_8.sce#S##116790
+1#Introduction #1.7#Exmaple 7#Ex1_7.sce#3507/CH1/EX1.7/Ex1_7.sce#S##116789
+1#Introduction #1.6#Exmaple 6#Ex1_6.sce#3507/CH1/EX1.6/Ex1_6.sce#S##116788
+1#Introduction #1.5#Exmaple 5#Ex1_5.sce#3507/CH1/EX1.5/Ex1_5.sce#S##116787
+1#Introduction #1.4#Exmaple 4#Ex1_4.sce#3507/CH1/EX1.4/Ex1_4.sce#S##116786
+1#Introduction #1.3#Exmaple 3#Ex1_3.sce#3507/CH1/EX1.3/Ex1_3.sce#S##116785
+1#Introduction #1.2#Exmaple 2#Ex1_2.sce#3507/CH1/EX1.2/Ex1_2.sce#S##116784
+1#Introduction #1.12#Exmaple 12#Ex1_12.sce#3507/CH1/EX1.12/Ex1_12.sce#S##116794
+1#Introduction #1.11#Exmaple 11#Ex1_11.sce#3507/CH1/EX1.11/Ex1_11.sce#S##116793
+1#Introduction #1.10#Exmaple 10#Ex1_10.sce#3507/CH1/EX1.10/Ex1_10.sce#S##116792
+1#Introduction #1.1#terminal voltage#Ex1_1.sce#3507/CH1/EX1.1/Ex1_1.sce#S##116783

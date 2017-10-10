@@ -4,7 +4,7 @@ clc;
 n_s=600;
 f=50;
 P=120*f/n_s;
-disp(p,'no of poles');
+disp(P,'no of poles');
 n=576;
 s=(n_s-n)/n_s;
 disp(s,'slip');

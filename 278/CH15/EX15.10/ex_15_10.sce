@@ -1,4 +1,4 @@
-//find...
+
 clc
 //soltuion
 //given

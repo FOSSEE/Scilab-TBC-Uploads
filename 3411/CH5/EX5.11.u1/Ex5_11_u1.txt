@@ -1,1 +1,12 @@
- The unitcell and its dimensions are 336pm 
+ unit cell Dimensions when 2*theta=12.1 is (100) where sin^2(theta)/0.0111 is 1
+unit cell Dimensions when 2*theta=17.1 is (110) where sin^2(theta)/0.0111 is 2.0
+unit cell Dimensions when 2*theta=21.0 is (111) where sin^2(theta)/0.0111 is 3.0
+unit cell Dimensions when 2*theta=24.3 is (200) where sin^2(theta)/0.0111 is 4.0
+unit cell Dimensions when 2*theta=27.2 is (210) where sin^2(theta)/0.0111 is5.0
+unit cell Dimensions when 2*theta=29.9 is (211) where sin^2(theta)/0.0111 is 6.0
+unit cell Dimensions when 2*theta=34.7 is (220) where sin^2(theta)/0.0111 is 8.0
+unit cell Dimensions when 2*theta=36.9 is (300) where sin^2(theta)/0.0111 is 9.0
+unit cell Dimensions when 2*theta=38.9 is (310) where sin^2(theta)/0.0111 is 10.0
+unit cell Dimensions when 2*theta=40.9 is (311) where sin^2(theta)/0.0111 is 11.0
+unit cell Dimensions when 2*theta=42.8 is (222) where sin^2(theta)/0.0111 is 12.0
+The unitcell and its dimensions are 336pm 

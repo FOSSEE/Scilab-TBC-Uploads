@@ -1,7 +1,4 @@
- 
-//Caption:Program to determine the amount of transmission capacity 
- 
-//(a)Assume the link-by-link error control (b) Assume end-to-end error control (c)Repeat the calculation for a bit error probability of 10^-5
+
  
 //Example 10.1
  

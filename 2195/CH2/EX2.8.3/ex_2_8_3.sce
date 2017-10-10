@@ -9,10 +9,9 @@ for i= 1:12
 end
 Q= [qb(1),qb(2),qb(3),qb(4),qb(5),qb(6),qb(7),qb(8),qb(9),qb(10),qb(11),qb(12)];//
 AV=(-qb(1)-qb(2)+qb(3)+qb(4)-qb(5))/12;//
-SD=st_deviation(Q);//standard deviation
+SD=stdev(Q);//standard deviation
 V=SD^2;//variance
 mv=q(5);//
 disp(AM,"arithematic mean is ")
 disp(mv,"median value is")
 disp((SD),"standard deviation is")
-    

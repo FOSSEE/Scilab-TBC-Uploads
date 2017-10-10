@@ -1,6 +1,8 @@
 // Chapter 6_The pn junction
 //Caption_Junction capacitance
 //Ex_5//page 230
+eps=11.7*8.85*(10^-14);
+e=1.6*(10^-19);
 Na=10^16   //acceptor ion concentration
 T=300   //temperature in kelvin
 Nd=10^15

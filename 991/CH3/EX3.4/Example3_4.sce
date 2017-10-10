@@ -1,7 +1,8 @@
 //Example 3.4.
 clc
 V=200
-m=9.1*10^-31
+m=9.1*10^-31;
+q = 1.6*10^-19;
 format(8)
 v=sqrt(2*q*V/m)
 disp("(i)The electron starts from rest at plate A, therefore, the initial velocity is zero. The velocity of electron on reaching plate B is")

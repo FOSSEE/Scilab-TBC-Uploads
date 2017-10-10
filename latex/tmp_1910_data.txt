@@ -1,0 +1,93 @@
+12#Principles of mass transfer#12.3#Measurement of binary diffusion coefficient#chapter123.sce#1910/CH12/EX12.3/chapter123.sce#S##73766
+12#Principles of mass transfer#12.2#Wet bulb thermometer#Chapter122.sce#1910/CH12/EX12.2/Chapter122.sce#S##73767
+12#Principles of mass transfer#12.1#Pipeline that transports helium gas#Chapter121.sce#1910/CH12/EX12.1/Chapter121.sce#S##73768
+11#Radiation heat transfer#11.8#Two concentric spheres are separated in air space#Chapter118.sce#1910/CH11/EX11.8/Chapter118.sce#S##73764
+11#Radiation heat transfer#11.7#Two parallel infinite planes#Chapter117.sce#1910/CH11/EX11.7/Chapter117.sce#S##73765
+11#Radiation heat transfer#11.6#Two blackbody rectangles #Chapter116.sce#1910/CH11/EX11.6/Chapter116.sce#S##73757
+11#Radiation heat transfer#11.5#Determine the view factor of the cylindrical surface#Chapter115.sce#1910/CH11/EX11.5/Chapter115.sce#S##73758
+11#Radiation heat transfer#11.4#Determine the view factor F14 for the composite surface#Chapter114.sce#1910/CH11/EX11.4/Chapter114.sce#S##73759
+11#Radiation heat transfer#11.3#To determine the view factors F13 and F31#Chapter113.sce#1910/CH11/EX11.3/Chapter113.sce#S##73760
+11#Radiation heat transfer#11.10#Configuration of a furnace as an equilateral triangle#Chapter1110.sce#1910/CH11/EX11.10/Chapter1110.sce#S##73762
+10#Principles of heat exchangers#10.8#A double pipe heat exchanger#Chapter108.sce#1910/CH10/EX10.8/Chapter108.sce#S##73752
+10#Principles of heat exchangers#10.7#Water enters a cross flow heat exchangers#Chapter107.sce#1910/CH10/EX10.7/Chapter107.sce#S##73753
+10#Principles of heat exchangers#10.6#Water enters a counter flow double pipe heat exchangers#Chapter106.sce#1910/CH10/EX10.6/Chapter106.sce#S##73754
+10#Principles of heat exchangers#10.5#Water is heated in a counter flow double pipe heat exchanger#Chapter105.sce#1910/CH10/EX10.5/Chapter105.sce#S##73755
+10#Principles of heat exchangers#10.3#Cross flow heat exchangers with both fluids unmixed#Chapter103.sce#1910/CH10/EX10.3/Chapter103.sce#S##73749
+10#Principles of heat exchangers#10.2#Hot oil flows through a counterflow heat exchanger#Chapter102.sce#1910/CH10/EX10.2/Chapter102.sce#S##73750
+10#Principles of heat exchangers#10.1#Food processing plant#Chapter101.sce#1910/CH10/EX10.1/Chapter101.sce#S##73751
+9#Heat transfer in condensation and boiling#9.8#Boiling charactersticts of a special coating#Chapter98.sce#1910/CH9/EX9.8/Chapter98.sce#S##73744
+9#Heat transfer in condensation and boiling#9.7#A heated nickel plate#Chapter97.sce#1910/CH9/EX9.7/Chapter97.sce#S##73745
+9#Heat transfer in condensation and boiling#9.6#Nickel wire is submerged horizontally #Chapter96.sce#1910/CH9/EX9.6/Chapter96.sce#S##73746
+9#Heat transfer in condensation and boiling#9.5#Nickel wire is submerged horizontally in water#Chapter95.sce#1910/CH9/EX9.5/Chapter95.sce#S##73747
+9#Heat transfer in condensation and boiling#9.4#Saturated freon 12#Chapter94.sce#1910/CH9/EX9.4/Chapter94.sce#S##73740
+9#Heat transfer in condensation and boiling#9.3#A vertical plate in the presence of saturated steam#Chapter93.sce#1910/CH9/EX9.3/Chapter93.sce#S##73741
+9#Heat transfer in condensation and boiling#9.2#Steam is being condensed#Chapter92.sce#1910/CH9/EX9.2/Chapter92.sce#S##73742
+9#Heat transfer in condensation and boiling#9.1#A vertical cooling fin#Chapter91.sce#1910/CH9/EX9.1/Chapter91.sce#S##73743
+8#Principles of free convection#8.8#Electric immersion heater#Chapter88.sce#1910/CH8/EX8.8/Chapter88.sce#S##73736
+8#Principles of free convection#8.7#Long horizontal pressurized hot water pipe#Chapter87.sce#1910/CH8/EX8.7/Chapter87.sce#S##73737
+8#Principles of free convection#8.6#Long vertical wire in atmosphere#Chapter86.sce#1910/CH8/EX8.6/Chapter86.sce#S##73738
+8#Principles of free convection#8.5#Square plate in a room#Chapter85.sce#1910/CH8/EX8.5/Chapter85.sce#S##73739
+8#Principles of free convection#8.4#Square plate suspended vertically#Chapter84.sce#1910/CH8/EX8.4/Chapter84.sce#S##73732
+8#Principles of free convection#8.3#Maximum velocity in the boundary layer#Chapter83.sce#1910/CH8/EX8.3/Chapter83.sce#S##73733
+8#Principles of free convection#8.2#Thin plates to be cooled#Chapter82.sce#1910/CH8/EX8.2/Chapter82.sce#S##73734
+8#Principles of free convection#8.1#Water is heated by a vertical plate#Chapter81.sce#1910/CH8/EX8.1/Chapter81.sce#S##73735
+7#Principles of forced convection#7.9#Air at one atmospheric pressure#Chapter79.sce#1910/CH7/EX7.9/Chapter79.sce#S##73728
+7#Principles of forced convection#7.8#Hydrodynamic and thermal entry length#Chapter78.sce#1910/CH7/EX7.8/Chapter78.sce#S##73729
+7#Principles of forced convection#7.7#Fine wire is placed in air stream#Chapter77.sce#1910/CH7/EX7.7/Chapter77.sce#S##73730
+7#Principles of forced convection#7.6#Top surface of wing absorbs solar radiation#Chapter76.sce#1910/CH7/EX7.6/Chapter76.sce#S##73731
+7#Principles of forced convection#7.5#A flat plate is maintained at a uniform surface temprature#CHapter75.sce#1910/CH7/EX7.5/CHapter75.sce#S##73721
+7#Principles of forced convection#7.4#Castor oil flows over a heated plate#Chapter74.sce#1910/CH7/EX7.4/Chapter74.sce#S##73725
+7#Principles of forced convection#7.3#Air flows over a flat plate whose temprature is constant#Chapter73.sce#1910/CH7/EX7.3/Chapter73.sce#S##73724
+7#Principles of forced convection#7.2#Atmospheric air flows over a flat plate#Chapter72.sce#1910/CH7/EX7.2/Chapter72.sce#S##73723
+7#Principles of forced convection#7.11#Liquid sulphur dioxide#Chapter711.sce#1910/CH7/EX7.11/Chapter711.sce#S##73726
+7#Principles of forced convection#7.10#The tube heated length#Chapter710.sce#1910/CH7/EX7.10/Chapter710.sce#S##73727
+7#Principles of forced convection#7.1#Engine oil flows over a flat plate#Chapter71.sce#1910/CH7/EX7.1/Chapter71.sce#S##73722
+6#Incompressible viscous flow A brief review#6.7#A flat plate is kept parallel to a uniform stream#Chapter67.sce#1910/CH6/EX6.7/Chapter67.sce#S##73719
+6#Incompressible viscous flow A brief review#6.3#Oil is discharged under a pressure#Chapter63.sce#1910/CH6/EX6.3/Chapter63.sce#S##73713
+6#Incompressible viscous flow A brief review#6.10#Wind bows over a flat plate#Chapter610.sce#1910/CH6/EX6.10/Chapter610.sce#S##73716
+6#Incompressible viscous flow A brief review#6.1#Oil flows between two fixed plates#Chapter61.sce#1910/CH6/EX6.1/Chapter61.sce#S##73715
+5#Convection#5.8#Electric current passes through a long horizontal wire#Chapter58.sce#1910/CH5/EX5.8/Chapter58.sce#S##73709
+5#Convection#5.7#Heat loss from a vertical wall#Chapter57.sce#1910/CH5/EX5.7/Chapter57.sce#S##73708
+5#Convection#5.6#Air enters a tube#Chapter56.sce#1910/CH5/EX5.6/Chapter56.sce#S##73707
+5#Convection#5.4#Circuit board to cool the electronic elements#Chapter54.sce#1910/CH5/EX5.4/Chapter54.sce#S##73705
+5#Convection#5.3#Flat plate with a free stream velocity#Chapter53.sce#1910/CH5/EX5.3/Chapter53.sce#S##73704
+4#Unsteady conduction#4.9#A large aluminium bar#Chapter49.sce#1910/CH4/EX4.9/Chapter49.sce#S##73696
+4#Unsteady conduction#4.8#A steel sphere#Chapter48.sce#1910/CH4/EX4.8/Chapter48.sce#S##73692
+4#Unsteady conduction#4.7#A large cylinder#Chapter47.sce#1910/CH4/EX4.7/Chapter47.sce#S##73693
+4#Unsteady conduction#4.6#A large aluminium plate#Chapter46.sce#1910/CH4/EX4.6/Chapter46.sce#S##73694
+4#Unsteady conduction#4.5#Masonry brick wall#Chapter45.sce#1910/CH4/EX4.5/Chapter45.sce#S##73695
+4#Unsteady conduction#4.4#Some hot milk#Chapter44.sce#1910/CH4/EX4.4/Chapter44.sce#S##81790
+4#Unsteady conduction#4.3#Maximum edge dimension#Chapter43.sce#1910/CH4/EX4.3/Chapter43.sce#S##73690
+4#Unsteady conduction#4.2#The temprature of a gas stream#Chapter42.sce#1910/CH4/EX4.2/Chapter42.sce#S##73691
+4#Unsteady conduction#4.14#Fully implicit scheme#Chapter414.sce#1910/CH4/EX4.14/Chapter414.sce#S##73699
+4#Unsteady conduction#4.13#A large iron plate#Chapter413.sce#1910/CH4/EX4.13/Chapter413.sce#S##73700
+4#Unsteady conduction#4.12#A large block of nickel steel#Chapter412.sce#1910/CH4/EX4.12/Chapter412.sce#S##73701
+4#Unsteady conduction#4.11#A large slab of wrought iron#Chapter411.sce#1910/CH4/EX4.11/Chapter411.sce#S##73697
+4#Unsteady conduction#4.10#An iron beam#Chapter410.sce#1910/CH4/EX4.10/Chapter410.sce#S##73698
+4#Unsteady conduction#4.1#An apple subject to a cold enviroment#Chapter41.sce#1910/CH4/EX4.1/Chapter41.sce#S##73688
+3#Multi dimensional steady state heat conduction#3.6#The cross section of a square chimney#Chapter36.sce#1910/CH3/EX3.6/Chapter36.sce#S##73685
+3#Multi dimensional steady state heat conduction#3.5#An aluminium rod#Chapter35.sce#1910/CH3/EX3.5/Chapter35.sce#S##73686
+3#Multi dimensional steady state heat conduction#3.3#Three sides of a square plate#Chapter33.sce#1910/CH3/EX3.3/Chapter33.sce#S##73682
+3#Multi dimensional steady state heat conduction#3.2#A thin square plate#Chapter32.sce#1910/CH3/EX3.2/Chapter32.sce#S##81789
+3#Multi dimensional steady state heat conduction#3.1#Temprature at the centre of the plate#Chapter31.sce#1910/CH3/EX3.1/Chapter31.sce#S##73684
+2#One dimensional steady state heat conduction#2.9#A thin walled copper tube#Chapter29.sce#1910/CH2/EX2.9/Chapter29.sce#S##73675
+2#One dimensional steady state heat conduction#2.6#Thick plate with uniform heat generation#Chapter26.sce#1910/CH2/EX2.6/Chapter26.sce#S##73670
+2#One dimensional steady state heat conduction#2.4#In a manufacturing process#Chapter24.sce#1910/CH2/EX2.4/Chapter24.sce#S##73672
+2#One dimensional steady state heat conduction#2.2#A laboratory furnace wall#Chapter22.sce#1910/CH2/EX2.2/Chapter22.sce#S##73668
+2#One dimensional steady state heat conduction#2.15#The entire stack is made of aluminium#Chapter215.sce#1910/CH2/EX2.15/Chapter215.sce#S##73677
+2#One dimensional steady state heat conduction#2.14#Slender rods of the same diameter#Chapter214.sce#1910/CH2/EX2.14/Chapter214.sce#S##73678
+2#One dimensional steady state heat conduction#2.13#A very long copper rod is exposed to enviroment#Chapter213.sce#1910/CH2/EX2.13/Chapter213.sce#S##73679
+2#One dimensional steady state heat conduction#2.12#A spherical tank is used to store iced water#Chapter212.sce#1910/CH2/EX2.12/Chapter212.sce#S##73680
+2#One dimensional steady state heat conduction#2.11#An electrical resistance wire#Chapter211.sce#1910/CH2/EX2.11/Chapter211.sce#S##73681
+2#One dimensional steady state heat conduction#2.10#A copper pipe carries liquid oxygen#Chapter210.sce#1910/CH2/EX2.10/Chapter210.sce#S##73674
+2#One dimensional steady state heat conduction#2.1#A plane wall of refrigerated wall#Chapter21.sce#1910/CH2/EX2.1/Chapter21.sce#S##81788
+1#Fundamental concepts#1.9#Concrete wall is exposed to air#Chapter19.sce#1910/CH1/EX1.9/Chapter19.sce#S##73665
+1#Fundamental concepts#1.8#Asphalt pavements on hot summer#Chapter18.sce#1910/CH1/EX1.8/Chapter18.sce#S##73666
+1#Fundamental concepts#1.7#After sunset radiant energy#Chapter17.sce#1910/CH1/EX1.7/Chapter17.sce#S##73662
+1#Fundamental concepts#1.6#Thin hot vertical plate#Chapter16.sce#1910/CH1/EX1.6/Chapter16.sce#S##73661
+1#Fundamental concepts#1.5#Forced air flows over a convective heat exchanger#Chapter15.sce#1910/CH1/EX1.5/Chapter15.sce#S##73660
+1#Fundamental concepts#1.4#Average forced convective heat transfer coefficient#Chapter14.sce#1910/CH1/EX1.4/Chapter14.sce#S##73659
+1#Fundamental concepts#1.2#Thickness required of a masonry wall#Chapter12.sce#1910/CH1/EX1.2/Chapter12.sce#S##73657
+1#Fundamental concepts#1.11#A horizontal steel pipe#Chapter111.sce#1910/CH1/EX1.11/Chapter111.sce#S##73663
+1#Fundamental concepts#1.10#A flat panel on spacecraft#Chapter110.sce#1910/CH1/EX1.10/Chapter110.sce#S##73664
+1#Fundamental concepts#1.1#Thick homogeneous slab#Chapter11.sce#1910/CH1/EX1.1/Chapter11.sce#S##73656

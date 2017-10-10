@@ -33,7 +33,7 @@ Tstar = Tr *(1+A*Ma_a^2)/(1+A*Ma_b^2) // [K]
 // Using Eq.(6.44)
 rho_star = 0.795*Ma_a/sqrt(2*(1+(gama-1)*Ma_a^2/2)/(2.4)) //[lb/ft^3]
 //Using Eq.(6.39)
-pstar = p0*Ma_a/sqrt(1.2) // [atm]
+pstar = pa*Ma_a/sqrt(1.2) // [atm]
 //Mass velocity through the entire pipe
 G = 0.795*ua //[lb/ft^2-s]
 ustar = G/rho_star //[ft/s]
@@ -45,7 +45,7 @@ err = 1;
 eps = 10^-3;
 Ma_ac = rand(1,1);
 i =1;
-while((err>eps))  
+while((err > eps))  
   A = 2*(1+((gama-1)/2)*Ma_ac^2)/((gama+1)*Ma_ac^2);
   B = gama*400+1+(gama+1)*log(A)/2;
   Ma_anew  = sqrt(1/B);

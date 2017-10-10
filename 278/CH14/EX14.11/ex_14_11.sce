@@ -1,4 +1,3 @@
-//determine dia of the shaft
 clc
 //solution
 //given
@@ -22,7 +21,7 @@ Wcv=Wc*cos(a)//veritcal comp
 Wch=Wc*sin(a)//hori com
 //RAv + RBv=2333+2000
 //RAv + RBv=4333//N
-RBv=[2000(800-250)+(2333*200)]/800//N
+RBv=[2000*(800-250)+(2333*200)]/800//N
 RAv=4333-RBv//N
 printf("the value of RAv is,%f N\n",RAv)
 //moment due to veritcal component
@@ -44,7 +43,7 @@ printf("the moment acting abt D is,%f N-mm\n",Md)
 //M=Md//N-mm
 //printf("the moment acting is,%f N-mm\n",M)
 //let d eb dia
-Te=sqrt(Md^2 + T^2)/N-mm
+Te=sqrt(Md^2 + T^2)//N-mm
 //Te=(%pi/16)*t*d^3
 d=(Te/7.86)^(1/3)//mm
 printf("the dia of shaft is,%f mm",d)

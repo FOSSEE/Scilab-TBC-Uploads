@@ -2,6 +2,7 @@
 h1 = 2758; h2 = 1817; h3 = 192; h4 = 200;
 Wt = h1-h2; Wp = h4-h3;
 Q1 = h1-h4; Wnet = Wt-Wp;
+cpg = 1.1;
 n1 = Wnet/Wt;
 WR = Wnet/Wp;
 Q1_ = 100;

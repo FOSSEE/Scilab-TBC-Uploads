@@ -8,6 +8,7 @@ clear
 clc
 
 //INPUT
+pi = %pi;
 dp=10^-3;//Particle diameter in m
 dt=0.8;//Diameter of reactor in m
 us=0.15;//Descend velocityo of solids in m/s

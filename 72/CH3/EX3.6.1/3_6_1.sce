@@ -1,4 +1,4 @@
-//CAPTION:Single-Stub_Matching
+
 //chapter_no.-3,  page_no.-108
 ////Example_no.3-6-1
 clc;

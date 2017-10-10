@@ -1,5 +1,5 @@
 // Example 4.6
-clear all;
+clear;
 clc;
 
 // Given data
@@ -30,4 +30,3 @@ enrich_cost = ceil(SWU)*rate_SWU;           // Enrichment cost in dollars
 // Result
 printf("\n The enrichment cost = $ %d \n",ceil(enrich_cost));
 // Due to approximation of Separative Work Unit(SWU), there is a difference in the value of enrichment cost on comparison with the textbook value.
-

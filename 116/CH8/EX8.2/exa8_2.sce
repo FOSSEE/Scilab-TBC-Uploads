@@ -1,5 +1,4 @@
-  
-//Caption:Program to determine the loss limit and the chromatic dispersion limit of a high performance SMF FOC
+
  
 //Example 8.2
  

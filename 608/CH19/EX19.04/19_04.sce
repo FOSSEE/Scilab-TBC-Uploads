@@ -11,7 +11,7 @@ Vb = 240; // in Volts
 
 //calculation:
 //For a star-connected system VL = Vp*(3^0.5)
-Vp = Vl/(3^0.5)
+Vp = V/(3^0.5)
 phir = 90*%pi/180
 phiy = 330*%pi/180
 phib = 210*%pi/180

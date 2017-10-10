@@ -9,13 +9,14 @@ l=3000//mm
 W=(%pi/4)*D^2*p//N
 Fs=8
 Wcr=W*Fs//N
-L=l/2
+L=l/2;
+d=(Wcr/0.043)^(1/4)//mm;
 //let d be dia and I be moment of inertia
 I=(%pi/64)*d^4
 //acc to euler's formula
 //Wcr=%pi^2*E*I/L^2//N
 //Wcr=0.043*d^4
-d=(Wcr/0.043)^(1/4)//mm
+
 //acc to rankine's formula
 //Wcr=(fc*A)/(1+a*(L/k)^2)
 fc=320//N/mm^2

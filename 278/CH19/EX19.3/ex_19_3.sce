@@ -26,7 +26,7 @@ T=(P*60)/(2*%pi*N)*1000//N-mm
 printf("the dia of shaft is,%f mm\n",(T/12.4)^(1/3))
 printf("the dia of shaft is,say d=35mm\n")
 d=35//mm
-printf("width of pulley is B\n",112+13)
+printf("width of pulley is %i B\n",112+13)
 t1=D*1000/300 + 2//mm
 printf("the thickness of pulley is,%f mm\n",t1)
 //let b1 minor axis,a1 major axis
@@ -36,5 +36,3 @@ M=2*T1/n*1000//N-mm
 //fb=M/Z
 b1=(M/(0.393*fb))^(1/3)//mm
 printf("the minor and moajor axis is,%f mm\n,%f mm",b1,2*b1)
-
-

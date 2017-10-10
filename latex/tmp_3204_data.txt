@@ -1,0 +1,201 @@
+26#Appendix#26.9#Appendix#Ex26_9.sce#3204/CH26/EX26.9/Ex26_9.sce#S##118435
+26#Appendix#26.8#Appendix#Ex26_8.sce#3204/CH26/EX26.8/Ex26_8.sce#S##118434
+26#Appendix#26.7#Appendix#Ex26_7.sce#3204/CH26/EX26.7/Ex26_7.sce#S##118433
+26#Appendix#26.6#Appendix#Ex26_6.sce#3204/CH26/EX26.6/Ex26_6.sce#S##118432
+26#Appendix#26.5#Appendix#Ex26_5.sce#3204/CH26/EX26.5/Ex26_5.sce#S##118431
+26#Appendix#26.4#Appendix#Ex26_4.sce#3204/CH26/EX26.4/Ex26_4.sce#S##118430
+26#Appendix#26.3#Appendix#Ex26_3.sce#3204/CH26/EX26.3/Ex26_3.sce#S##118429
+26#Appendix#26.2#Appendix#Ex26_2.sce#3204/CH26/EX26.2/Ex26_2.sce#S##118428
+26#Appendix#26.19#Appendix#Ex26_19.sce#3204/CH26/EX26.19/Ex26_19.sce#S##118445
+26#Appendix#26.18#Appendix#Ex26_18.sce#3204/CH26/EX26.18/Ex26_18.sce#S##118444
+26#Appendix#26.17#Appendix#Ex26_17.sce#3204/CH26/EX26.17/Ex26_17.sce#S##118443
+26#Appendix#26.16#Appendix#Ex26_16.sce#3204/CH26/EX26.16/Ex26_16.sce#S##118442
+26#Appendix#26.15#Appendix#Ex26_15.sce#3204/CH26/EX26.15/Ex26_15.sce#S##118441
+26#Appendix#26.14#Appendix#Ex26_14.sce#3204/CH26/EX26.14/Ex26_14.sce#S##118440
+26#Appendix#26.13#Appendix#Ex26_13.sce#3204/CH26/EX26.13/Ex26_13.sce#S##118439
+26#Appendix#26.12#Appendix#Ex26_12.sce#3204/CH26/EX26.12/Ex26_12.sce#S##118438
+26#Appendix#26.11#Appendix#Ex26_11.sce#3204/CH26/EX26.11/Ex26_11.sce#S##118437
+26#Appendix#26.10#Appendix#Ex26_10.sce#3204/CH26/EX26.10/Ex26_10.sce#S##118436
+26#Appendix#26.1#Appendix#Ex26_1.sce#3204/CH26/EX26.1/Ex26_1.sce#S##118427
+25#Shear Force and Bending Moment#25.7#Shear Force and Bending Moment#Ex25_7.sce#3204/CH25/EX25.7/Ex25_7.sce#S##114774
+25#Shear Force and Bending Moment#25.5#Shear Force and Bending Moment#Ex25_5.sce#3204/CH25/EX25.5/Ex25_5.sce#S##114771
+24#Mechanical Vibrations#24.5#Equivalent spring constant#Ex24_5.sce#3204/CH24/EX24.5/Ex24_5.sce#S##117380
+24#Mechanical Vibrations#24.2#Simple Harmonic Motion#Ex24_2.sce#3204/CH24/EX24.2/Ex24_2.sce#S##117379
+24#Mechanical Vibrations#24.12#Pendulum Motion#Ex24_12.sce#3204/CH24/EX24.12/Ex24_12.sce#S##117383
+24#Mechanical Vibrations#24.11#Pendulum Motion#Ex24_11.sce#3204/CH24/EX24.11/Ex24_11.sce#S##117382
+24#Mechanical Vibrations#24.10#Pendulum Motion#Ex24_10.sce#3204/CH24/EX24.10/Ex24_10.sce#S##117381
+24#Mechanical Vibrations#24.1#Simple Harmonic Motion#Ex24_1.sce#3204/CH24/EX24.1/Ex24_1.sce#S##117378
+23#Kinetics of Rigid Body Work and Energy#23.2#Principle of work and energy for a rigid body#Ex23_2.sce#3204/CH23/EX23.2/Ex23_2.sce#S##114764
+22#Kinetics of Rigid Body Force and Acceleration#22.8#Relation between the translatory motion and rotary motion of a body in plane motion#Ex22_8.sce#3204/CH22/EX22.8/Ex22_8.sce#S##114762
+22#Kinetics of Rigid Body Force and Acceleration#22.5#Relation between the translatory motion and rotary motion of a body in plane motion#Ex22_5.sce#3204/CH22/EX22.5/Ex22_5.sce#S##114761
+22#Kinetics of Rigid Body Force and Acceleration#22.2#Relation between the translatory motion and rotary motion of a body in plane motion#Ex22_2.sce#3204/CH22/EX22.2/Ex22_2.sce#S##114760
+22#Kinetics of Rigid Body Force and Acceleration#22.10#Relation between the translatory motion and rotary motion of a body in plane motion#Ex22_10.sce#3204/CH22/EX22.10/Ex22_10.sce#S##114763
+22#Kinetics of Rigid Body Force and Acceleration#22.1#Relation between the translatory motion and rotary motion of a body in plane motion#Ex22_1.sce#3204/CH22/EX22.1/Ex22_1.sce#S##117377
+21#Kinematics of  rigid body#21.9#Instantaneous Centre of rotation in plane motion#Ex21_9.sce#3204/CH21/EX21.9/Ex21_9.sce#S##114758
+21#Kinematics of  rigid body#21.8#Instantaneous Centre of rotation in plane motion#Ex21_8.sce#3204/CH21/EX21.8/Ex21_8.sce#S##114754
+21#Kinematics of  rigid body#21.7#Instantaneous Centre of rotation in plane motion#Ex21_7.sce#3204/CH21/EX21.7/Ex21_7.sce#S##114753
+21#Kinematics of  rigid body#21.6#Instantaneous Centre of rotation in plane motion#Ex21_6.sce#3204/CH21/EX21.6/Ex21_6.sce#S##114752
+21#Kinematics of  rigid body#21.5#Absolute and relative velocity in plane motion#Ex21_5.sce#3204/CH21/EX21.5/Ex21_5.sce#S##117376
+21#Kinematics of  rigid body#21.4#Absolute and relative velocity in plane motion#Ex21_4.sce#3204/CH21/EX21.4/Ex21_4.sce#S##114750
+21#Kinematics of  rigid body#21.3#Absolute and relative velocity in plane motion#Ex21_3.sce#3204/CH21/EX21.3/Ex21_3.sce#S##114749
+21#Kinematics of  rigid body#21.2#Absolute and relative velocity in plane motion#Ex21_2.sce#3204/CH21/EX21.2/Ex21_2.sce#S##114748
+21#Kinematics of  rigid body#21.13#Instantaneous Centre of rotation in plane motion#Ex21_13.sce#3204/CH21/EX21.13/Ex21_13.sce#S##114757
+21#Kinematics of  rigid body#21.12#Instantaneous Centre of rotation in plane motion#Ex21_12.sce#3204/CH21/EX21.12/Ex21_12.sce#S##117375
+21#Kinematics of  rigid body#21.11#Instantaneous Centre of rotation in plane motion#Ex21_11.sce#3204/CH21/EX21.11/Ex21_11.sce#S##114755
+21#Kinematics of  rigid body#21.1#Linear and angular velocity linear and angular acceleration in rotation#Ex21_1.sce#3204/CH21/EX21.1/Ex21_1.sce#S##117374
+20#Motion of Projectile#20.9#Motion of Projectile#Ex20_9.sce#3204/CH20/EX20.9/Ex20_9.sce#S##114745
+20#Motion of Projectile#20.8#Motion of Projectile#Ex20_8.sce#3204/CH20/EX20.8/Ex20_8.sce#S##114744
+20#Motion of Projectile#20.7#Motion of Projectile#Ex20_7.sce#3204/CH20/EX20.7/Ex20_7.sce#S##114743
+20#Motion of Projectile#20.6#Motion of Projectile#Ex20_6.sce#3204/CH20/EX20.6/Ex20_6.sce#S##114742
+20#Motion of Projectile#20.5#Motion of Projectile#Ex20_5.sce#3204/CH20/EX20.5/Ex20_5.sce#S##114741
+20#Motion of Projectile#20.3#Motion of Projectile#Ex20_3.sce#3204/CH20/EX20.3/Ex20_3.sce#S##114740
+20#Motion of Projectile#20.2#Motion of Projectile#Ex20_2.sce#3204/CH20/EX20.2/Ex20_2.sce#S##114739
+20#Motion of Projectile#20.10#Motion of Projectile#Ex20_10.sce#3204/CH20/EX20.10/Ex20_10.sce#S##114746
+20#Motion of Projectile#20.1#Motion of Projectile#Ex20_1.sce#3204/CH20/EX20.1/Ex20_1.sce#S##114738
+19#Relative Motion#19.4#Relative Velocity#Ex19_4.sce#3204/CH19/EX19.4/Ex19_4.sce#S##114737
+19#Relative Motion#19.3#Relative Velocity#Ex19_3.sce#3204/CH19/EX19.3/Ex19_3.sce#S##114736
+19#Relative Motion#19.2#Relative Velocity#Ex19_2.sce#3204/CH19/EX19.2/Ex19_2.sce#S##114735
+19#Relative Motion#19.1#Relative Velocity#Ex19_1.sce#3204/CH19/EX19.1/Ex19_1.sce#S##114734
+18#Impact Collision of Elastic Bodies#18.9#Principle of conservation of Momentum#Ex18_9.sce#3204/CH18/EX18.9/Ex18_9.sce#S##114731
+18#Impact Collision of Elastic Bodies#18.8#Principle of conservation of Energy#Ex18_8.sce#3204/CH18/EX18.8/Ex18_8.sce#S##114730
+18#Impact Collision of Elastic Bodies#18.7#Principle of conservation of Energy#Ex18_7.sce#3204/CH18/EX18.7/Ex18_7.sce#S##114729
+18#Impact Collision of Elastic Bodies#18.6#Principle of conservation of Energy#Ex18_6.sce#3204/CH18/EX18.6/Ex18_6.sce#S##114728
+18#Impact Collision of Elastic Bodies#18.5#Motion of ball#Ex18_5.sce#3204/CH18/EX18.5/Ex18_5.sce#S##118426
+18#Impact Collision of Elastic Bodies#18.4#Principle of conservation of Momentum#Ex18_4.sce#3204/CH18/EX18.4/Ex18_4.sce#S##114727
+18#Impact Collision of Elastic Bodies#18.3#Principle of conservation of Momentum#Ex18_3.sce#3204/CH18/EX18.3/Ex18_3.sce#S##114726
+18#Impact Collision of Elastic Bodies#18.2#Principle of conservation of Momentum#Ex18_2.sce#3204/CH18/EX18.2/Ex18_2.sce#S##114725
+18#Impact Collision of Elastic Bodies#18.11#Principle of conservation of Energy Momentum and work and energy#Ex18_11.sce#3204/CH18/EX18.11/Ex18_11.sce#S##114733
+18#Impact Collision of Elastic Bodies#18.10#Principle of conservation of Momentum#Ex18_10.sce#3204/CH18/EX18.10/Ex18_10.sce#S##114732
+18#Impact Collision of Elastic Bodies#18.1#Principle of conservation of Momentum#Ex18_1.sce#3204/CH18/EX18.1/Ex18_1.sce#S##114724
+17#Kinetics of a Particle Impulse and Momentum#17.8#Principle of conservation of angular momentum#Ex17_8.sce#3204/CH17/EX17.8/Ex17_8.sce#S##114723
+17#Kinetics of a Particle Impulse and Momentum#17.6#Principle of impulse and momentum#Ex17_6.sce#3204/CH17/EX17.6/Ex17_6.sce#S##114722
+17#Kinetics of a Particle Impulse and Momentum#17.5#Principle of impulse and momentum#Ex17_5.sce#3204/CH17/EX17.5/Ex17_5.sce#S##114721
+17#Kinetics of a Particle Impulse and Momentum#17.3#Principle of impulse and momentum#Ex17_3.sce#3204/CH17/EX17.3/Ex17_3.sce#S##114720
+17#Kinetics of a Particle Impulse and Momentum#17.2#Principle of impulse and momentum#Ex17_2.sce#3204/CH17/EX17.2/Ex17_2.sce#S##114719
+17#Kinetics of a Particle Impulse and Momentum#17.1#Principle of impulse and momentum#Ex17_1.sce#3204/CH17/EX17.1/Ex17_1.sce#S##114718
+16#Kinetics of a Particle Work and Energy#16.9#Principle of conservation of energy#Ex16_9.sce#3204/CH16/EX16.9/Ex16_9.sce#S##114715
+16#Kinetics of a Particle Work and Energy#16.7#Principle of conservation of energy#Ex16_7.sce#3204/CH16/EX16.7/Ex16_7.sce#S##114714
+16#Kinetics of a Particle Work and Energy#16.6#Principle of conservation of energy#Ex16_6.sce#3204/CH16/EX16.6/Ex16_6.sce#S##114713
+16#Kinetics of a Particle Work and Energy#16.5#Principle of conservation of energy#Ex16_5.sce#3204/CH16/EX16.5/Ex16_5.sce#S##114712
+16#Kinetics of a Particle Work and Energy#16.4#Power#Ex16_4.sce#3204/CH16/EX16.4/Ex16_4.sce#S##114711
+16#Kinetics of a Particle Work and Energy#16.3#Work and energy principle for a system of particles#Ex16_3.sce#3204/CH16/EX16.3/Ex16_3.sce#S##114710
+16#Kinetics of a Particle Work and Energy#16.11#Principle of conservation of energy#Ex16_11.sce#3204/CH16/EX16.11/Ex16_11.sce#S##114717
+16#Kinetics of a Particle Work and Energy#16.10#Principle of work and energy#Ex16_10.sce#3204/CH16/EX16.10/Ex16_10.sce#S##114716
+16#Kinetics of a Particle Work and Energy#16.1#Work of the Force of Spring#Ex16_1.sce#3204/CH16/EX16.1/Ex16_1.sce#S##114709
+15#Curvilinear motion of a particle#15.9#Equations of dynamic equilibrium#Ex15_9.sce#3204/CH15/EX15.9/Ex15_9.sce#S##118422
+15#Curvilinear motion of a particle#15.7#Components of motion#Ex15_7.sce#3204/CH15/EX15.7/Ex15_7.sce#S##118421
+15#Curvilinear motion of a particle#15.6#Motion of a particle on a curved frictionless path#Ex15_6.sce#3204/CH15/EX15.6/Ex15_6.sce#S##115056
+15#Curvilinear motion of a particle#15.5#Morion of a particle on a curved frictionless path#Ex15_5.sce#3204/CH15/EX15.5/Ex15_5.sce#S##117373
+15#Curvilinear motion of a particle#15.3#Components of Acceleration#Ex15_3.sce#3204/CH15/EX15.3/Ex15_3.sce#S##114701
+15#Curvilinear motion of a particle#15.21#Motion of vehicles on leveled and banked roads#Ex15_21.sce#3204/CH15/EX15.21/Ex15_21.sce#S##114708
+15#Curvilinear motion of a particle#15.20#Motion of vehicles on leveled and banked roads#Ex15_20.sce#3204/CH15/EX15.20/Ex15_20.sce#S##114707
+15#Curvilinear motion of a particle#15.2#Components of Acceleration#Ex15_2.sce#3204/CH15/EX15.2/Ex15_2.sce#S##114700
+15#Curvilinear motion of a particle#15.19#Motion of vehicles on leveled and banked roads#Ex15_19.sce#3204/CH15/EX15.19/Ex15_19.sce#S##114706
+15#Curvilinear motion of a particle#15.18#Motion of vehicles on leveled and banked roads#Ex15_18.sce#3204/CH15/EX15.18/Ex15_18.sce#S##114705
+15#Curvilinear motion of a particle#15.16#Motion of a particle in a curved frictionless path#Ex15_16.sce#3204/CH15/EX15.16/Ex15_16.sce#S##117372
+15#Curvilinear motion of a particle#15.15#Motion of a particle in a curved frictionless path#Ex15_15.sce#3204/CH15/EX15.15/Ex15_15.sce#S##117371
+15#Curvilinear motion of a particle#15.13#motion of a particle on curved frictionless path#Ex15_13.sce#3204/CH15/EX15.13/Ex15_13.sce#S##118425
+15#Curvilinear motion of a particle#15.12#Motion of particle on curved frictionless path#Ex15_12.sce#3204/CH15/EX15.12/Ex15_12.sce#S##118424
+15#Curvilinear motion of a particle#15.10#Equations of dynamic equilibrium#Ex15_10.sce#3204/CH15/EX15.10/Ex15_10.sce#S##118423
+14#Rectilinear Motion of a particle#14.9#Displacement time relationship#Ex14_9.sce#3204/CH14/EX14.9/Ex14_9.sce#S##114686
+14#Rectilinear Motion of a particle#14.7#Displacement time relationship#Ex14_7.sce#3204/CH14/EX14.7/Ex14_7.sce#S##114685
+14#Rectilinear Motion of a particle#14.6#Displacement time relationship#Ex14_6.sce#3204/CH14/EX14.6/Ex14_6.sce#S##114684
+14#Rectilinear Motion of a particle#14.5#Displacement time relationship#Ex14_5.sce#3204/CH14/EX14.5/Ex14_5.sce#S##114683
+14#Rectilinear Motion of a particle#14.4#Velocity time relationship#Ex14_4.sce#3204/CH14/EX14.4/Ex14_4.sce#S##115054
+14#Rectilinear Motion of a particle#14.30#Motion of two Bodies#Ex14_30.sce#3204/CH14/EX14.30/Ex14_30.sce#S##114699
+14#Rectilinear Motion of a particle#14.3#Displacement velocity and acceleration of connected bodies#Ex14_3.sce#3204/CH14/EX14.3/Ex14_3.sce#S##118418
+14#Rectilinear Motion of a particle#14.25#Motion of two Bodies#Ex14_25.sce#3204/CH14/EX14.25/Ex14_25.sce#S##114698
+14#Rectilinear Motion of a particle#14.24#Motion of two Bodies#Ex14_24.sce#3204/CH14/EX14.24/Ex14_24.sce#S##114697
+14#Rectilinear Motion of a particle#14.23#Motion of two Bodies#Ex14_23.sce#3204/CH14/EX14.23/Ex14_23.sce#S##114696
+14#Rectilinear Motion of a particle#14.22#Motion of two Bodies#Ex14_22.sce#3204/CH14/EX14.22/Ex14_22.sce#S##114695
+14#Rectilinear Motion of a particle#14.21#Motion of two Bodies#Ex14_21.sce#3204/CH14/EX14.21/Ex14_21.sce#S##114694
+14#Rectilinear Motion of a particle#14.20#Motion of two Bodies#Ex14_20.sce#3204/CH14/EX14.20/Ex14_20.sce#S##114693
+14#Rectilinear Motion of a particle#14.19#Motion of two Bodies#Ex14_19.sce#3204/CH14/EX14.19/Ex14_19.sce#S##114692
+14#Rectilinear Motion of a particle#14.18#Motion of two Bodies#Ex14_18.sce#3204/CH14/EX14.18/Ex14_18.sce#S##114691
+14#Rectilinear Motion of a particle#14.17#D Alamberts Principle#Ex14_17.sce#3204/CH14/EX14.17/Ex14_17.sce#S##115938
+14#Rectilinear Motion of a particle#14.16#D AlembertsPrinciple#Ex14_16.sce#3204/CH14/EX14.16/Ex14_16.sce#S##114689
+14#Rectilinear Motion of a particle#14.15#D AlembertsPrinciple#Ex14_15.sce#3204/CH14/EX14.15/Ex14_15.sce#S##114688
+14#Rectilinear Motion of a particle#14.12#Variable acceleration#Ex14_12.sce#3204/CH14/EX14.12/Ex14_12.sce#S##118420
+14#Rectilinear Motion of a particle#14.11#Variable acceleration#Ex14_11.sce#3204/CH14/EX14.11/Ex14_11.sce#S##118419
+14#Rectilinear Motion of a particle#14.10#Distance travelled by a particle in the n th second#Ex14_10.sce#3204/CH14/EX14.10/Ex14_10.sce#S##114687
+13#Principle of Virtual Work#13.7#Application of Principle of Virtual Work#Ex13_7.sce#3204/CH13/EX13.7/Ex13_7.sce#S##114682
+13#Principle of Virtual Work#13.1#Application of Principle of Virtual Work#Ex13_1.sce#3204/CH13/EX13.1/Ex13_1.sce#S##114681
+12#Moment of Inertia#12.9#Moment of Inertia of a Composite area or hollow section#Ex12_9.sce#3204/CH12/EX12.9/Ex12_9.sce#S##114677
+12#Moment of Inertia#12.8#Moment of Inertia of a Composite area or hollow section#Ex12_8.sce#3204/CH12/EX12.8/Ex12_8.sce#S##117370
+12#Moment of Inertia#12.7#Moment of Inertia of an area of a plane figure with respect to an axis in its plane#Ex12_7.sce#3204/CH12/EX12.7/Ex12_7.sce#S##114675
+12#Moment of Inertia#12.15#Principal Moment of Inertia#Ex12_15.sce#3204/CH12/EX12.15/Ex12_15.sce#S##114680
+12#Moment of Inertia#12.14#Product of Inertia#Ex12_14.sce#3204/CH12/EX12.14/Ex12_14.sce#S##114679
+12#Moment of Inertia#12.10#Moment of Inertia of a Composite area or hollow section#Ex12_10.sce#3204/CH12/EX12.10/Ex12_10.sce#S##114678
+10#Uniform Flexible Suspension Cables#10.6#Catenary Cables#Ex10_6.sce#3204/CH10/EX10.6/Ex10_6.sce#S##114674
+10#Uniform Flexible Suspension Cables#10.5#Cables uniformly loaded per unit horizontal distance#Ex10_5.sce#3204/CH10/EX10.5/Ex10_5.sce#S##114673
+10#Uniform Flexible Suspension Cables#10.4#Cables uniformly loaded per unit horizontal distance#Ex10_4.sce#3204/CH10/EX10.4/Ex10_4.sce#S##114672
+10#Uniform Flexible Suspension Cables#10.3#Cables uniformly loaded per unit horizontal distance#Ex10_3.sce#3204/CH10/EX10.3/Ex10_3.sce#S##114671
+10#Uniform Flexible Suspension Cables#10.2#Cables subjected to concentrated loads#Ex10_2.sce#3204/CH10/EX10.2/Ex10_2.sce#S##114670
+10#Uniform Flexible Suspension Cables#10.1#Cable subjected to concentrated loads#Ex10_1.sce#3204/CH10/EX10.1/Ex10_1.sce#S##114669
+9#Analysis of Plane Trusses and Frames #9.6#Axial Forces in members of the truss#Ex9_6.sce#3204/CH9/EX9.6/Ex9_6.sce#S##114663
+9#Analysis of Plane Trusses and Frames #9.5#Axial Forces in members of the truss#Ex9_5.sce#3204/CH9/EX9.5/Ex9_5.sce#S##114662
+9#Analysis of Plane Trusses and Frames #9.3#Axial Forces in members of the truss#Ex9_3.sce#3204/CH9/EX9.3/Ex9_3.sce#S##114661
+9#Analysis of Plane Trusses and Frames #9.2#axial forces in members of truss#Ex9_2.sce#3204/CH9/EX9.2/Ex9_2.sce#S##114660
+9#Analysis of Plane Trusses and Frames #9.15#Axial Forces in members of the truss#Ex9_15.sce#3204/CH9/EX9.15/Ex9_15.sce#S##114668
+9#Analysis of Plane Trusses and Frames #9.14#Axial Forces in members of the truss#Ex9_14.sce#3204/CH9/EX9.14/Ex9_14.sce#S##114667
+9#Analysis of Plane Trusses and Frames #9.13#Axial Forces in members of the truss#Ex9_13.sce#3204/CH9/EX9.13/Ex9_13.sce#S##114666
+9#Analysis of Plane Trusses and Frames #9.12#Axial Forces in members of the truss#Ex9_12.sce#3204/CH9/EX9.12/Ex9_12.sce#S##114665
+9#Analysis of Plane Trusses and Frames #9.10#Axial Forces in members of the truss#Ex9_10.sce#3204/CH9/EX9.10/Ex9_10.sce#S##114664
+9#Analysis of Plane Trusses and Frames #9.1#Axial forces in members of Truss#Ex9_1.sce#3204/CH9/EX9.1/Ex9_1.sce#S##114659
+8#Simple Lifting Machines#8.5#Simple screw jack#Ex8_5.sce#3204/CH8/EX8.5/Ex8_5.sce#S##114648
+8#Simple Lifting Machines#8.4#Performance of a machine#Ex8_4.sce#3204/CH8/EX8.4/Ex8_4.sce#S##114647
+8#Simple Lifting Machines#8.3#Performance of Machine#Ex8_3.sce#3204/CH8/EX8.3/Ex8_3.sce#S##114646
+8#Simple Lifting Machines#8.2#Simple machines performance#Ex8_2.sce#3204/CH8/EX8.2/Ex8_2.sce#S##118535
+8#Simple Lifting Machines#8.1#Simple Machine#Ex8_1.sce#3204/CH8/EX8.1/Ex8_1.sce#S##114645
+7#Application of friction#7.9#belt friction#Ex7_9.sce#3204/CH7/EX7.9/Ex7_9.sce#S##114626
+7#Application of friction#7.8#belt friction#Ex7_8.sce#3204/CH7/EX7.8/Ex7_8.sce#S##114623
+7#Application of friction#7.7#belt friction#Ex7_7.sce#3204/CH7/EX7.7/Ex7_7.sce#S##114622
+7#Application of friction#7.6#belt friction#Ex7_6.sce#3204/CH7/EX7.6/Ex7_6.sce#S##114621
+7#Application of friction#7.5#Belt friction#Ex7_5.sce#3204/CH7/EX7.5/Ex7_5.sce#S##114620
+7#Application of friction#7.4#Belt friction#Ex7_4.sce#3204/CH7/EX7.4/Ex7_4.sce#S##115937
+7#Application of friction#7.2#Application of Friction#Ex7_2.sce#3204/CH7/EX7.2/Ex7_2.sce#S##115936
+7#Application of friction#7.11#Application of Friction#Ex7_11.sce#3204/CH7/EX7.11/Ex7_11.sce#S##114636
+7#Application of friction#7.10#Friction in a square threaded screw#Ex7_10.sce#3204/CH7/EX7.10/Ex7_10.sce#S##114627
+7#Application of friction#7.1#Application of Friction#Ex7_1.sce#3204/CH7/EX7.1/Ex7_1.sce#S##115935
+6#Friction#6.9#Friction#Ex6_9.sce#3204/CH6/EX6.9/Ex6_9.sce#S##114615
+6#Friction#6.7#Friction#Ex6_7.sce#3204/CH6/EX6.7/Ex6_7.sce#S##114614
+6#Friction#6.4#Friction#Ex6_4.sce#3204/CH6/EX6.4/Ex6_4.sce#S##114613
+6#Friction#6.13#Friction#Ex6_13.sce#3204/CH6/EX6.13/Ex6_13.sce#S##114616
+6#Friction#6.1#Friction#Ex6_1.sce#3204/CH6/EX6.1/Ex6_1.sce#S##114612
+5#General Case of Forces in a plane#5.6#Equations of Equilibrium#Ex5_6.sce#3204/CH5/EX5.6/Ex5_6.sce#S##114611
+5#General Case of Forces in a plane#5.5#Equations of Equilibrium#Ex5_5.sce#3204/CH5/EX5.5/Ex5_5.sce#S##114610
+5#General Case of Forces in a plane#5.4#Equations of Equilibrium#Ex5_4.sce#3204/CH5/EX5.4/Ex5_4.sce#S##114609
+5#General Case of Forces in a plane#5.3#Equations of equilibrium#Ex5_3.sce#3204/CH5/EX5.3/Ex5_3.sce#S##114608
+5#General Case of Forces in a plane#5.2#Equations of equilibrium#Ex5_2.sce#3204/CH5/EX5.2/Ex5_2.sce#S##114607
+4#Centroid Centre of mass and Centre of Gravity#4.9#Centroid of a composite plane figure#Ex4_9.sce#3204/CH4/EX4.9/Ex4_9.sce#S##114606
+4#Centroid Centre of mass and Centre of Gravity#4.8#Centroid of a composite plane figure#Ex4_8.sce#3204/CH4/EX4.8/Ex4_8.sce#S##114605
+3#Parallel forces in a plane#3.9#Resultant of Forces in a Plane#Ex3_9.sce#3204/CH3/EX3.9/Ex3_9.sce#S##114592
+3#Parallel forces in a plane#3.8#Resultant of Forces in a Plane#Ex3_8.sce#3204/CH3/EX3.8/Ex3_8.sce#S##114591
+3#Parallel forces in a plane#3.7#Resultant of forces in a plane#Ex3_7.sce#3204/CH3/EX3.7/Ex3_7.sce#S##115481
+3#Parallel forces in a plane#3.6#Resultant of forces in a plane#Ex3_6.sce#3204/CH3/EX3.6/Ex3_6.sce#S##117369
+3#Parallel forces in a plane#3.5#Resultant of Forces in a Plane#Ex3_5.sce#3204/CH3/EX3.5/Ex3_5.sce#S##117368
+3#Parallel forces in a plane#3.3#Resultant of Forces in a Plane#Ex3_3.sce#3204/CH3/EX3.3/Ex3_3.sce#S##114587
+3#Parallel forces in a plane#3.2#Resultant of forces in a Plane#Ex3_2.sce#3204/CH3/EX3.2/Ex3_2.sce#S##114586
+3#Parallel forces in a plane#3.14#Distributed forces in a plane#Ex3_14.sce#3204/CH3/EX3.14/Ex3_14.sce#S##114604
+3#Parallel forces in a plane#3.13#Distributed forces in a plane#Ex3_13.sce#3204/CH3/EX3.13/Ex3_13.sce#S##114603
+3#Parallel forces in a plane#3.12#Distributed force in a plane#Ex3_12.sce#3204/CH3/EX3.12/Ex3_12.sce#S##114602
+3#Parallel forces in a plane#3.11#Distributed force in a plane#Ex3_11.sce#3204/CH3/EX3.11/Ex3_11.sce#S##115098
+3#Parallel forces in a plane#3.10#Distributed Force in a Plane#Ex3_10.sce#3204/CH3/EX3.10/Ex3_10.sce#S##114593
+3#Parallel forces in a plane#3.1#Resultant of Forces in a Plane#Ex3_1.sce#3204/CH3/EX3.1/Ex3_1.sce#S##114585
+2#Parallel Forces in a Plane#2.9#equilibrium of a body subjected to three forces#Ex2_9.sce#3204/CH2/EX2.9/Ex2_9.sce#S##114572
+2#Parallel Forces in a Plane#2.8#equilibrium of a body subjected to two forces#Ex2_8.sce#3204/CH2/EX2.8/Ex2_8.sce#S##114571
+2#Parallel Forces in a Plane#2.4#Equilibrium equations#Ex2_4.sce#3204/CH2/EX2.4/Ex2_4.sce#S##114570
+2#Parallel Forces in a Plane#2.23#Equilibrium of a body#Ex2_23.sce#3204/CH2/EX2.23/Ex2_23.sce#S##114584
+2#Parallel Forces in a Plane#2.21#Equilibrium of a body#Ex2_21.sce#3204/CH2/EX2.21/Ex2_21.sce#S##114583
+2#Parallel Forces in a Plane#2.20#Equilibrium of a body#Ex2_20.sce#3204/CH2/EX2.20/Ex2_20.sce#S##114582
+2#Parallel Forces in a Plane#2.2#addition of concurrent forces#Ex2_2.sce#3204/CH2/EX2.2/Ex2_2.sce#S##114569
+2#Parallel Forces in a Plane#2.19#Equilibrium of a body#Ex2_19.sce#3204/CH2/EX2.19/Ex2_19.sce#S##114581
+2#Parallel Forces in a Plane#2.18#Equilibrium of a body#Ex2_18.sce#3204/CH2/EX2.18/Ex2_18.sce#S##114580
+2#Parallel Forces in a Plane#2.17#Equilibrium of a body#Ex2_17.sce#3204/CH2/EX2.17/Ex2_17.sce#S##114579
+2#Parallel Forces in a Plane#2.16#Equilibrium of a Body#Ex2_16.sce#3204/CH2/EX2.16/Ex2_16.sce#S##114578
+2#Parallel Forces in a Plane#2.15#equilibrium of a body#Ex2_15.sce#3204/CH2/EX2.15/Ex2_15.sce#S##114577
+2#Parallel Forces in a Plane#2.13#reaction at the hinge#Ex2_13.sce#3204/CH2/EX2.13/Ex2_13.sce#S##114576
+2#Parallel Forces in a Plane#2.12#reaction at the hinge#Ex2_12.sce#3204/CH2/EX2.12/Ex2_12.sce#S##117367
+2#Parallel Forces in a Plane#2.11#reaction at the hinge#Ex2_11.sce#3204/CH2/EX2.11/Ex2_11.sce#S##117366
+2#Parallel Forces in a Plane#2.10#equilibrium of a body subjected to three forces#Ex2_10.sce#3204/CH2/EX2.10/Ex2_10.sce#S##114573
+2#Parallel Forces in a Plane#2.1#CFP#Ex_2_1.sce#3204/CH2/EX2.1/Ex_2_1.sce#S##114456

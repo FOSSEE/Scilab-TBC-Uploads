@@ -1,6 +1,9 @@
 clear;
 clc;
-
+function[A]=approx(V,n)
+  A=round(V*10^n)/10^n;//V-Value  n-To what place
+  funcprot(0)
+endfunction  
 //Example 5.5
 //Caption : Program to Find the Rate of Heat Transfer and Entropy
 

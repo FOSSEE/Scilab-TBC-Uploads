@@ -21,10 +21,10 @@ A=r(:,1);
     if(c>=1) then
         printf("system is unstable");
     else 
-        l=length(S);
+        l=length(A);
         c=0;
         for i=1:l
-            a=S(i,1);
+            a=A(i,1);
             r=real(a);
             if r<0 then
                 c=c+1;

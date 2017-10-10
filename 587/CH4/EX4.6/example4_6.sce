@@ -9,6 +9,8 @@ a=0.15*(10^(-6));//Thermal diffusivity[m^2/s]
 T_in=15;//Initial uniform temperature of ground[degree Celcius]
 T_x=0;//Temperature after 3 months[degree Celcius]
 Ts=-10;//Temperature of surface[degree Celcius]
+h = %inf;
+t = 7.78 *10^6;
 //Solution:-
 //The temperature of the soil surrounding the pipes wil be 0 degree Celcius after three months in the case of minimum burial depth, therefore we have
 x=(h/k)*(sqrt(a*t));

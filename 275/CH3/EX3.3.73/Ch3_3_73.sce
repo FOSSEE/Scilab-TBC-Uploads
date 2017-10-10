@@ -1,7 +1,7 @@
 clc
 disp("Example 3.73")
 printf("\n")
-disp("Find the Ve, Ic,Vce & Vc. Draw a DC load line for Voltage divider circuit")
+disp("Find the Ve, Ic,Vce &amp; Vc. Draw a DC load line for Voltage divider circuit")
 printf("Given\n")
 //given
 Vcc=18
@@ -24,12 +24,12 @@ Ie=Ib+Icq
 //emitter voltage
 Ve=Ie*Re
 //collector to emitter voltage
-Vceq=Vcc-(Icq*Rc)-(Ie*Re)
+Vceq=Vcc-(Icq*Rc)-(Ie*Re);
+Vce=[Vcc Vceq 0];
 //collector voltage
 Vc=Vce+Ve
 //to draw DC load line
 Ic1=Vcc/(Rc+Re)
-Vce=[Vcc Vceq 0]
 Ic=[0 Icq Ic1]
 printf("Q(%f volt,%f ampere)\n",Vceq,Icq)
 plot2d(Vce, Ic)

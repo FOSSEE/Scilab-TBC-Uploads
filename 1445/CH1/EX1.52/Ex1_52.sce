@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 52
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 52");
 
@@ -20,7 +21,7 @@ v=v1*(r2/(r1+r2));              //voltage divider law
 vab=-v2+(r3*0)+(rth*0)+v;
 It=vab/(rth+r4);                //current obtained by applying Thevenin's Theorem 
 Isc=vab/rth;
-disp(sprintf("By Thevenin Theorem, current in the 10Ω resistor is %.2f A",It));
+disp(sprintf("By Thevenins Theorem, current in the 10Ω resistor is %f A",It));
 
 //verification by Norton's Theorem
 //(7)I1+(2)I2=20.................eq (1)
@@ -34,13 +35,10 @@ x2=x(2,:);                      //to access 2nd element of 2X1 matrix and Isc=-x
 Isc=-x2;                        //Isc is negative because its direction is opposite to I2
 I=Isc*(rth/(rth+r4));           //current obtained by applying Norton's Theorem 
 if(It==I)
-disp(sprintf("By Norton Theorem, current in the 10Ω resistor is %.2f A",I));
+disp(sprintf("By Nortons Theorem, current in the 10Ω resistor is %f A",I));
 disp(sprintf("Hence, answer is confirmed by Norton Theorem"));
 else
 disp(sprintf("The answer is not confirmed by Norton Theorem")); 
 end;
 
 //END
-
-
-

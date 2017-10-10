@@ -11,8 +11,8 @@ x = (0.95).^n;
 //Padding zeros to find N = 200 point DFT
 x_padd = [x, zeros(1,N-L)];
 //Computing DFT 
-X = dft(x,-1);
-X_padd =  dft(x_padd,-1);
+X = fft(x,-1);
+X_padd =  fft(x_padd,-1);
 subplot(2,1,1)
 plot2d(X)
 xlabel('K')

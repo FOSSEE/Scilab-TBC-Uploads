@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 10
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 10");
 
@@ -20,7 +21,7 @@ p_g=p-(cu_loss+cr_loss);        //rotor input
 p_m=p_g*(1-s);                  //output mechanical power
 p_sh=p_m-me_loss;               //shaft power
 eff=p_sh/p;
-disp(sprintf("The motor efficiency is %.2f %%",eff*100));
+disp(sprintf("The motor efficiency is %f %%",eff*100));
 
 //END
 

@@ -1,4 +1,4 @@
-//Caption:Program to calculate the minimum bit rate for a PCM encoder must provide for high fidelity
+
  
 //Example 3.2
  

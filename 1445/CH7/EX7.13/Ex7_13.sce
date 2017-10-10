@@ -1,6 +1,7 @@
 //CHAPTER 7- SINGLE PHASE TRANSFORMER
 //Example 13
 
+clc;
 disp("CHAPTER 7");
 disp("EXAMPLE 13");
 //230/115 V single phase transformer

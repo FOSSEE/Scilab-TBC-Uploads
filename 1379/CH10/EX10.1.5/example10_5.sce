@@ -1,10 +1,9 @@
-
-
 //example 10.5
 clc; funcprot(0);
 clf()
 //exapple 10.5 
 // Initialization of Variable
+g = 9.81;
 t=[0 45 135 495 1875 6900 66600 86400];//time
 m=[0.1911 0.1586 0.1388 0.1109 0.0805 0.0568 0.0372 0.0359];//mass total
 rho1=3100;//density of cement

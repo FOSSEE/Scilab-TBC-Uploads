@@ -4,12 +4,12 @@
 //Page 256
 clc;
 b = [0,0,1,0,1,1,0];//input binary sequence:precoder input
-a(1) = xor(1,b(1));
+a(1) = bitxor(1,b(1));
 if(a(1)==1)
   a_volts(1) = 1;
 end
 for k =2:length(b)
-  a(k) = xor(a(k-1),b(k));
+  a(k) = bitxor(a(k-1),b(k));
   if(a(k)==1)
     a_volts(k)=1;
   else
@@ -52,4 +52,4 @@ disp(b_r,'Recovered original sequence at detector oupupt:')
 // 
 // Recovered original sequence at detector oupupt:   
 // 
-//  0.    0.    1.    0.    1.    1.    0.  
+//  0.    0.    1.    0.    1.    1.    0.

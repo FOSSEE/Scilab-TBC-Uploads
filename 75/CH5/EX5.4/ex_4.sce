@@ -1,4 +1,4 @@
-        //    PG (258)
+//    PG (258)
 
 deff('[y]=f(x)','y=exp(x)*cos(x)')
 x0=0;
@@ -7,7 +7,7 @@ x=x0:xn;
 
 //    True value
 
-I = integrate('exp(x)*cos(x)','x',x0,x1)
+I = integrate('exp(x)*cos(x)','x',x0,xn)
 
 //    Using Simpson's rule
 

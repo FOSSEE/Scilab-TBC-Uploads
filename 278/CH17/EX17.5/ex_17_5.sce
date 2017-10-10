@@ -1,4 +1,4 @@
-//find work done
+
 clc
 //soltuion
 //given

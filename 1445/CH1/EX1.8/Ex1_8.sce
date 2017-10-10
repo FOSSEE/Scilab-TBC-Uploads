@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 8
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 8");
 
@@ -21,6 +22,6 @@ A=[5/2 -1;-1 7/2];
 b=[2;2];
 x=inv(A)*b;
 x=x(2,:);
-disp(sprintf("The current in 2Ω resistor is %.2f A",x));
+disp(sprintf("The current in 2Ω resistor is %f A",x));
 
 //END

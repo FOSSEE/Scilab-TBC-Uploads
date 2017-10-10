@@ -1,4 +1,4 @@
-//find efficiency
+
 clc
 //solution
 //given
@@ -14,7 +14,7 @@ d=6*sqrt(t)//mm//dia of rivet
 Ps=2*(pi/4)*d^2*T//N//shearing resistance of rivet
 //p-23=Ps/1040
 p=23+(Ps/1040)//mm
-//check the limits,if p<=pmax..then it is safe design
+//check the limits,if p&lt;=pmax..then it is safe design
 //pmax=C*t+41.28//mm=75.28mm which is more then p
 pb=0.33*p+ 0.67*d//distance btw rivets
 m=1.58*d//margin

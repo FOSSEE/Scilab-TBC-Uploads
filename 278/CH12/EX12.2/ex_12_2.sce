@@ -1,4 +1,4 @@
-//dsing sleeve and cotter joint
+
 clc
 //solution
 //given

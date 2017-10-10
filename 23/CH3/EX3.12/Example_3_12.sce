@@ -21,7 +21,7 @@ M=17.02;
 Tc=405.7;//App B
 Vc=0.07247;//App B
 Zc=0.242;//App B
-Vsat=approx(Vc*(Zc^((1-Tr)^0.2857)),5);//m^3kmol^-1
+Vsat=approx(Vc*(Zc^((1-T)^0.2857)),5);//m^3kmol^-1
 rho=approx(M/Vsat,2);
 disp('(a)Saturated liquid')
 disp('m^3/kmol',Vsat,'Volume is ')

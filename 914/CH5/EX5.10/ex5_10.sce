@@ -2,6 +2,7 @@ clc;
 warning("off");
 printf("\n\n example5.10 - pg171");
 // given (from example 5.9)
+vol = 1 //cm^3
 na=2;  // moles of a
 nb=3;  // moles of b
 nc=4;  // moles of c
@@ -61,4 +62,3 @@ jcstarbyA=pc*(Uc-Ustar);  //[g/cm^2*sec]
 printf("\n\n ja*/A=%fg/cm^2*sec",jastarbyA);
 printf("\n jb*/A=%fg/cm^2*sec",jbstarbyA);
 printf("\n jc*/A=%fg/cm^2*sec",jcstarbyA);
-

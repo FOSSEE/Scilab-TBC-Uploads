@@ -1,4 +1,4 @@
-//CAPTION: Power_Dissipation_of_a_Three-Phase_CCD
+
 
 //chapter_no.-6,  page_no.-278
 //Example_no.6-6-1

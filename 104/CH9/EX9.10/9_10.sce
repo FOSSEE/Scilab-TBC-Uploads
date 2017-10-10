@@ -1,5 +1,6 @@
 //multiple loop systems
-s=%s
+s=%s;
+Z = 0; 
 innerloop=syslin('c',6/s*(s+1)*(s+2))
 nyquist(innerloop)
 show_margins(innerloop,'nyquist')

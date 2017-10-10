@@ -1,7 +1,7 @@
- clc
+clc
 //initialisation of variables
 P= 15 //psia
-S= 1.7050 //Btu/lb R
+sx= 1.7050 //Btu/lb R
 sg= 1.7549 //btu/lb R
 sfg= 1.4415 //Bru/lb R
 hg= 1150.8 //btu/lb

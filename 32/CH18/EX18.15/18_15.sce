@@ -31,7 +31,7 @@ pv2=pvsat2*r2
 //Specific humidity:
 w2=0.622*pv2/(1.013-pv2)
 //Enthalpy at state 1(in kJ/kg):
-h1=Cp*T2+w2*(hg2-Cps*(T2-Tdp2))
+h2=Cp*T2+w2*(hg2-Cps*(T2-Tdp2))
 //Enthalpy of mixture(in kJ/kg):
 hmix=1/(m1+m2)*(h1*m1/(1+w1)+h2*m2/(1+w2))
 //Mass of vapour:
@@ -39,7 +39,7 @@ mmix=1/(m1+m2)*(w1*m1/(1+w1)+w2*m2/(1+w2))
 //Specific humidity of mixture:
 wmix=mmix/(1-mmix)
 //Partial pressure of water vapour(in bar):
-pv=1.013*wmix/0.622/(1+w/0.622)
+pv=1.013*wmix/0.622/(1+wmix/0.622)
 printf("\n RESULT \n")
 printf("\nSpecific humidity of mixture = %f kg/kg of dry air",wmix)
 printf("\nPartial pressure of water vapour in mixture = %f bar",pv)

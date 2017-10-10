@@ -6,7 +6,7 @@ function yp=vanderpol1(t,y)
 endfunction
 t=0:3000;
 yo=[1 1];
-sol=ode(y0,0,t,vanderpol1);
+sol=ode(yo,0,t,vanderpol1);
 count=1;
 
 for i=1:2:6001

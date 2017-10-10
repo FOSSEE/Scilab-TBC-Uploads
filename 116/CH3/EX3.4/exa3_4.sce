@@ -1,4 +1,4 @@
-//Caption:Program to calculate how many bits per sample can be saved by using DPCM
+
  
 //Example 3.4
  

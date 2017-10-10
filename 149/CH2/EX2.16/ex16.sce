@@ -5,4 +5,4 @@ B=[1 -2;-1 0;2 -1]
 disp("AB= ")
 A*B
 disp("BA= ")
-B*A
+B'*A

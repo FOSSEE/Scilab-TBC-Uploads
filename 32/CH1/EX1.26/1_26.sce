@@ -30,7 +30,7 @@ Rc=R/mwc
 //Gas constant for the mixture(in kJ/kg-K):
 Rm=(mh*Rh+mn*Rn+mc*Rc)/(mh+mn+mc)
 //Capacity of the vessel(in m^3):
-V=(mh+mn+mc)*Rm*t1/p
+V=(mh+mn+mc)*Rm*t1/p1
 //Final pressure of the mixture(in kPa):
 p2=p1*t2/t1
 printf("\n\n RESULT \n\n")

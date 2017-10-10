@@ -1,6 +1,5 @@
   
-//Caption:Program to determine the minimum and maximum input channel rate accommodated by an M12 multiplexer
- 
+
 //Example 7.3
  
 //Page 354

@@ -1,4 +1,4 @@
-//find value of P
+
 clc
 //solution
 //given

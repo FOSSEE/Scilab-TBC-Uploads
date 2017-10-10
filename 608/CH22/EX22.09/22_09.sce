@@ -7,9 +7,9 @@ Pfl = 750; // in Watts
 x = 0.35;
 
 //calculation:
-nr = x*ns
+//nr = x*ns
 //The slip, s
-s = ((ns - nr)/ns)
+s = ((1 - 0.35)/1)
 //Input power to rotor = stator input power - stator losses
 Pi =  Psi - Psl
 //slip = rotor copper loss/rotor input

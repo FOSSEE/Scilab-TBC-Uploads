@@ -66,12 +66,12 @@
 16#Signal generators#16.8#calculate t1 t2 and pulse frequency#example8_sce.sce#226/CH16/EX16.8/example8_sce.sce#S##13371
 16#Signal generators#16.7#square wave generator#example7_sce.sce#226/CH16/EX16.7/example7_sce.sce#S##13370
 16#Signal generators#16.6#amplitude stabilization circuit#example6_sce.sce#226/CH16/EX16.6/example6_sce.sce#S##13369
-16#Signal generators#16.5#phase shift oscillator#example5_sce.sce#226/CH16/EX16.5/example5_sce.sce#S##13368
+16#Signal generators#16.5#design a phase shift oscillator#example5_sce.sce#226/CH16/EX16.5/example5_sce.sce#S##13368
 16#Signal generators#16.4#wein bridge oscillator#example4_sce.sce#226/CH16/EX16.4/example4_sce.sce#S##13367
 16#Signal generators#16.3#hartley oscillator#example3_sce.sce#226/CH16/EX16.3/example3_sce.sce#S##13366
 16#Signal generators#16.2#colpitts oscillator#example2_sce.sce#226/CH16/EX16.2/example2_sce.sce#S##13365
 16#Signal generators#16.12#pierce oscillator and peak power dissipated#example12_sce.sce#226/CH16/EX16.12/example12_sce.sce#S##13374
-16#Signal generators#16.11#wein bridge oscillator#example11_sce.sce#226/CH16/EX16.11/example11_sce.sce#S##13373
+16#Signal generators#16.11#design a wein bridge oscillator#example11_sce.sce#226/CH16/EX16.11/example11_sce.sce#S##13373
 16#Signal generators#16.10#triangular wave generator#example10_sce.sce#226/CH16/EX16.10/example10_sce.sce#S##13372
 16#Signal generators#16.1#phase shift oscillator#example1_sce.sce#226/CH16/EX16.1/example1_sce.sce#S##13364
 15#Operational amplifier frequency Response and compensation#15.8#load capacitance#example8_sce.sce#226/CH15/EX15.8/example8_sce.sce#S##13363
@@ -80,22 +80,22 @@
 15#Operational amplifier frequency Response and compensation#15.5#cutoff frequencies using gain bandwidth#example5_sce.sce#226/CH15/EX15.5/example5_sce.sce#S##13360
 15#Operational amplifier frequency Response and compensation#15.3#miller effect capacitor#example3_sce.sce#226/CH15/EX15.3/example3_sce.sce#S##13358
 15#Operational amplifier frequency Response and compensation#15.2#determine suitable component#example2_sce.sce#226/CH15/EX15.2/example2_sce.sce#S##13357
-14#Ic operational Amplifier and basic Op amp circuits#14.9#design three input summing amplifier#example9_sce.sce#226/CH14/EX14.9/example9_sce.sce#S##13242
-14#Ic operational Amplifier and basic Op amp circuits#14.8#direct coupled inverting amplifier#example8_sce.sce#226/CH14/EX14.8/example8_sce.sce#S##13241
-14#Ic operational Amplifier and basic Op amp circuits#14.7#voltage gain and lower cutoff frequency#example7_sce.sce#226/CH14/EX14.7/example7_sce.sce#S##13240
-14#Ic operational Amplifier and basic Op amp circuits#14.6#typical input and output impedances for non inverting#example6_sce.sce#226/CH14/EX14.6/example6_sce.sce#S##13239
-14#Ic operational Amplifier and basic Op amp circuits#14.5#direct coupled non inverting amplifier#example5_sce.sce#226/CH14/EX14.5/example5_sce.sce#S##13238
-14#Ic operational Amplifier and basic Op amp circuits#14.4#capacitor coupled voltage follower usin 741 op amp#example4_sce.sce#226/CH14/EX14.4/example4_sce.sce#S##13237
-14#Ic operational Amplifier and basic Op amp circuits#14.3#typical difference between input and out voltage and Zin  and Zout#example3_sce.sce#226/CH14/EX14.3/example3_sce.sce#S##13236
-14#Ic operational Amplifier and basic Op amp circuits#14.2#suitable resistor for BIFET op amp is used#example2_sce.sce#226/CH14/EX14.2/example2_sce.sce#S##13235
-14#Ic operational Amplifier and basic Op amp circuits#14.14#upper and lower trigger for non inverting schmitt trigger#example14_sce.sce#226/CH14/EX14.14/example14_sce.sce#S##13247
-14#Ic operational Amplifier and basic Op amp circuits#14.13#calculate resistor for schmitt trigger circuit#example13_sce.sce#226/CH14/EX14.13/example13_sce.sce#S##13246
-14#Ic operational Amplifier and basic Op amp circuits#14.12#typical output voltage swingand calculate rise time#example12_sce.sce#226/CH14/EX14.12/example12_sce.sce#S##13245
-14#Ic operational Amplifier and basic Op amp circuits#14.11#overall voltage gain for instrumentation amplifier#example11_sce.sce#226/CH14/EX14.11/example11_sce.sce#S##13244
-14#Ic operational Amplifier and basic Op amp circuits#14.10#suitable resistor for 741 op amp#example10_sce.sce#226/CH14/EX14.10/example10_sce.sce#S##13243
-14#Ic operational Amplifier and basic Op amp circuits#14.1#calculate maximum resistance#example1_sce.sce#226/CH14/EX14.1/example1_sce.sce#S##13234
+14#IC operational Amplifier and basic Op amp circuits#14.9#design three input summing amplifier#example9_sce.sce#226/CH14/EX14.9/example9_sce.sce#S##13242
+14#IC operational Amplifier and basic Op amp circuits#14.8#direct coupled inverting amplifier#example8_sce.sce#226/CH14/EX14.8/example8_sce.sce#S##13241
+14#IC operational Amplifier and basic Op amp circuits#14.7#voltage gain and lower cutoff frequency#example7_sce.sce#226/CH14/EX14.7/example7_sce.sce#S##13240
+14#IC operational Amplifier and basic Op amp circuits#14.6#typical input and output impedances for non inverting#example6_sce.sce#226/CH14/EX14.6/example6_sce.sce#S##13239
+14#IC operational Amplifier and basic Op amp circuits#14.5#direct coupled non inverting amplifier#example5_sce.sce#226/CH14/EX14.5/example5_sce.sce#S##13238
+14#IC operational Amplifier and basic Op amp circuits#14.4#capacitor coupled voltage follower usin 741 op amp#example4_sce.sce#226/CH14/EX14.4/example4_sce.sce#S##13237
+14#IC operational Amplifier and basic Op amp circuits#14.3#typical difference between input and out voltage and Zin  and Zout#example3_sce.sce#226/CH14/EX14.3/example3_sce.sce#S##13236
+14#IC operational Amplifier and basic Op amp circuits#14.2#suitable resistor for BIFET op amp is used#example2_sce.sce#226/CH14/EX14.2/example2_sce.sce#S##13235
+14#IC operational Amplifier and basic Op amp circuits#14.14#upper and lower trigger for non inverting schmitt trigger#example14_sce.sce#226/CH14/EX14.14/example14_sce.sce#S##13247
+14#IC operational Amplifier and basic Op amp circuits#14.13#calculate resistor for schmitt trigger circuit#example13_sce.sce#226/CH14/EX14.13/example13_sce.sce#S##13246
+14#IC operational Amplifier and basic Op amp circuits#14.12#typical output voltage swingand calculate rise time#example12_sce.sce#226/CH14/EX14.12/example12_sce.sce#S##13245
+14#IC operational Amplifier and basic Op amp circuits#14.11#overall voltage gain for instrumentation amplifier#example11_sce.sce#226/CH14/EX14.11/example11_sce.sce#S##13244
+14#IC operational Amplifier and basic Op amp circuits#14.10#suitable resistor for 741 op amp#example10_sce.sce#226/CH14/EX14.10/example10_sce.sce#S##13243
+14#IC operational Amplifier and basic Op amp circuits#14.1#calculate maximum resistance#example1_sce.sce#226/CH14/EX14.1/example1_sce.sce#S##13234
 13#Amplifier with negative feedback#13.9#calculate output impedance for circuit modification#example9_sce.sce#226/CH13/EX13.9/example9_sce.sce#S##13227
-13#Amplifier with negative feedback#13.8#calculate Acl Zin and Zout#example8_sce.sce#226/CH13/EX13.8/example8_sce.sce#S##13226
+13#Amplifier with negative feedback#13.8#calculate Acm, Zin and Zout#example8_sce.sce#226/CH13/EX13.8/example8_sce.sce#S##13226
 13#Amplifier with negative feedback#13.7#calculate resistor value#example7_sce.sce#226/CH13/EX13.7/example7_sce.sce#S##13225
 13#Amplifier with negative feedback#13.6#modify direct coupled amplifier to use as series voltage negative feedback#example6_sce.sce#226/CH13/EX13.6/example6_sce.sce#S##13224
 13#Amplifier with negative feedback#13.5#two stage coupled BJT use as voltage feedback#example5_sce.sce#226/CH13/EX13.5/example5_sce.sce#S##13223
@@ -106,21 +106,21 @@
 13#Amplifier with negative feedback#13.14#determine current gain and input impedance#example14_sce.sce#226/CH13/EX13.14/example14_sce.sce#S##13232
 13#Amplifier with negative feedback#13.13#suitable capacitor for two stage circuit#example13_sce.sce#226/CH13/EX13.13/example13_sce.sce#S##13231
 13#Amplifier with negative feedback#13.12#suitable emitter resistor value#example12_sce.sce#226/CH13/EX13.12/example12_sce.sce#S##13230
-13#Amplifier with negative feedback#13.11#modify Ce amplifier to use emitter current feedback to give Av 70#example11_sce.sce#226/CH13/EX13.11/example11_sce.sce#S##13229
+13#Amplifier with negative feedback#13.11#modify CE amplifier to use emitter current feedback to give Av 70#example11_sce.sce#226/CH13/EX13.11/example11_sce.sce#S##13229
 13#Amplifier with negative feedback#13.10#calculate precise value of circuit voltage gain#example10_sce.sce#226/CH13/EX13.10/example10_sce.sce#S##13228
 13#Amplifier with negative feedback#13.1#closed loop gain for negative feedback amplifier#example1_sce.sce#226/CH13/EX13.1/example1_sce.sce#S##13219
 12#Small signal Amplifiers#12.9#capacitor for two stage direct coupled amplifier#example9_sce.sce#226/CH12/EX12.9/example9_sce.sce#S##13203
-12#Small signal Amplifiers#12.8#resistor for two stage direct coupled amplifier#example8_sce.sce#226/CH12/EX12.8/example8_sce.sce#S##13202
-12#Small signal Amplifiers#12.7#analyze two stage amplifier#example7_sce.sce#226/CH12/EX12.7/example7_sce.sce#S##13201
-12#Small signal Amplifiers#12.5#suitable resistor for common source amplifier#example5_sce.sce#226/CH12/EX12.5/example5_sce.sce#S##13200
-12#Small signal Amplifiers#12.4#suitable resistor for common source circuit#example5_sce.sce#226/CH12/EX12.4/example5_sce.sce#S##13199
-12#Small signal Amplifiers#12.3#suitable capacitor for CE#example3_sce.sce#226/CH12/EX12.3/example3_sce.sce#S##13198
-12#Small signal Amplifiers#12.24#capacitor to resonate secondry and overall voltage gain#example24_sce.sce#226/CH12/EX12.24/example24_sce.sce#S##13218
-12#Small signal Amplifiers#12.23#resonance frequency voltage gainbandwidth of amplifier#example23_sce.sce#226/CH12/EX12.23/example23_sce.sce#S##13217
-12#Small signal Amplifiers#12.22#resonance frequency voltage gainbandwidth of amplifier#example22_sce.sce#226/CH12/EX12.22/example22_sce.sce#S##13216
+12#Small signal Amplifiers#12.8#Analysis of direct coupled two stage amplifier#example8_sce.sce#226/CH12/EX12.8/example8_sce.sce#S##13202
+12#Small signal Amplifiers#12.7#Analysis of two stage amplifier#example7_sce.sce#226/CH12/EX12.7/example7_sce.sce#S##13201
+12#Small signal Amplifiers#12.5#Suitable resistor for common source amplifier#example5_sce.sce#226/CH12/EX12.5/example5_sce.sce#S##13200
+12#Small signal Amplifiers#12.4#Suitable resistor for common source circuit#example5_sce.sce#226/CH12/EX12.4/example5_sce.sce#S##13199
+12#Small signal Amplifiers#12.3#Suitable capacitor for CE amplifier circuit#example3_sce.sce#226/CH12/EX12.3/example3_sce.sce#S##13198
+12#Small signal Amplifiers#12.24#capacitor required to resonate the secondary and overall voltage gain#example24_sce.sce#226/CH12/EX12.24/example24_sce.sce#S##13218
+12#Small signal Amplifiers#12.23#Determination of resonance frequency, voltage gain, bandwidth of amplifier#example23_sce.sce#226/CH12/EX12.23/example23_sce.sce#S##13217
+12#Small signal Amplifiers#12.22#resonance frequency, voltage gain, bandwidth of amplifier#example22_sce.sce#226/CH12/EX12.22/example22_sce.sce#S##13216
 12#Small signal Amplifiers#12.21#suitable capacitor for cascode circuit#example21_sce.sce#226/CH12/EX12.21/example21_sce.sce#S##13215
 12#Small signal Amplifiers#12.20#suitable resistor for cascode amplifier#example20_sce.sce#226/CH12/EX12.20/example20_sce.sce#S##13214
-12#Small signal Amplifiers#12.2#suitable resistor for common emitter amplifier#example2_sce.sce#226/CH12/EX12.2/example2_sce.sce#S##13197
+12#Small signal Amplifiers#12.2#Suitable resistor values for common emitter amplifier#example2_sce.sce#226/CH12/EX12.2/example2_sce.sce#S##13197
 12#Small signal Amplifiers#12.19#suitable capacitor value for amplifier and voltage gain#example19_sce.sce#226/CH12/EX12.19/example19_sce.sce#S##13213
 12#Small signal Amplifiers#12.18#suitable resistor for differential amplifier#example18_sce.sce#226/CH12/EX12.18/example18_sce.sce#S##13212
 12#Small signal Amplifiers#12.17#determine minimum overall voltage gain#example17_sce.sce#226/CH12/EX12.17/example17_sce.sce#S##13211
@@ -128,123 +128,123 @@
 12#Small signal Amplifiers#12.15#suitable resistor for BIBET amplifier#example15_sce.sce#226/CH12/EX12.15/example15_sce.sce#S##13209
 12#Small signal Amplifiers#12.14#Dc feedback pair with an emitter follower output#example14_sce.sce#226/CH12/EX12.14/example14_sce.sce#S##13208
 12#Small signal Amplifiers#12.13#analyze two stage amplifier and determine minimum voltage gain#example13_sce.sce#226/CH12/EX12.13/example13_sce.sce#S##13207
-12#Small signal Amplifiers#12.12#suitable capacitor for circuit#example12_sce.sce#226/CH12/EX12.12/example12_sce.sce#S##13206
-12#Small signal Amplifiers#12.11#resistor for two stage amplifier#example11_sce.sce#226/CH12/EX12.11/example11_sce.sce#S##13205
-12#Small signal Amplifiers#12.10#minimum overall voltage gain#example10_sce.sce#226/CH12/EX12.10/example10_sce.sce#S##13204
-12#Small signal Amplifiers#12.1#required capacitance and voltage gain at different frequency#example1_sce.sce#226/CH12/EX12.1/example1_sce.sce#S##13196
-11#Ac analysis of FEt circuits#11.7#input capacitance limited  cutoff frequency#example7_sce.sce#226/CH11/EX11.7/example7_sce.sce#S##13195
-11#Ac analysis of FEt circuits#11.6#output voltage#example6_sce.sce#226/CH11/EX11.6/example6_sce.sce#S##13194
-11#Ac analysis of FEt circuits#11.5#circuit  and device input and output impedance and voltage gain#example5_sce.sce#226/CH11/EX11.5/example5_sce.sce#S##13193
-11#Ac analysis of FEt circuits#11.4#circuit input and output impedance and voltage gain#example4_sce.sce#226/CH11/EX11.4/example4_sce.sce#S##13192
-11#Ac analysis of FEt circuits#11.3#gate input and source output impedance and voltage gain#example3_sce.sce#226/CH11/EX11.3/example3_sce.sce#S##13191
-11#Ac analysis of FEt circuits#11.2#circuit input and output impedance and voltage gain#example2_sce.sce#226/CH11/EX11.2/example2_sce.sce#S##13190
-10#FET biasing#10.9#design voltage  divider bais circuit#example9_sce.sce#226/CH10/EX10.9/example9_sce.sce#S##13181
-10#FET biasing#10.8#self bais circuit#example8_sce.sce#226/CH10/EX10.8/example8_sce.sce#S##13180
-10#FET biasing#10.7#gate bais circuit#example7_sce.sce#226/CH10/EX10.7/example7_sce.sce#S##13179
-10#FET biasing#10.6#Id max Idmin  and Vds#example6_sce.sce#226/CH10/EX10.6/example6_sce.sce#S##13178
-10#FET biasing#10.4#determine Idmax  and Idmin#example4_sce.sce#226/CH10/EX10.4/example4_sce.sce#S##13177
-10#FET biasing#10.17#determine suitable resistance and calculate Vds#example17_sce.sce#226/CH10/EX10.17/example17_sce.sce#S##13189
-10#FET biasing#10.16#design JFET switching#example16_sce.sce#226/CH10/EX10.16/example16_sce.sce#S##13188
-10#FET biasing#10.14#determine Id and Vds#example14_sce.sce#226/CH10/EX10.14/example14_sce.sce#S##13186
-10#FET biasing#10.13#determine Idmax and Vdsmin#example13_sce.sce#226/CH10/EX10.13/example13_sce.sce#S##13185
-10#FET biasing#10.12#determine Id and Vds#example12_sce.sce#226/CH10/EX10.12/example12_sce.sce#S##13184
-10#FET biasing#10.11#constant current bias circuit#example11_sce.sce#226/CH10/EX10.11/example11_sce.sce#S##13183
-10#FET biasing#10.1#Dc load line#example1_sce.sce#226/CH10/EX10.1/example1_sce.sce#S##13176
-8#BJT specifications and performance#8.9#noise output voltage#example9_sce.sce#226/CH8/EX8.9/example9_sce.sce#S##13171
-8#BJT specifications and performance#8.8#calculate suitable speed up capacitor#example8_sce.sce#226/CH8/EX8.8/example8_sce.sce#S##13170
-8#BJT specifications and performance#8.6#upper 3db frequency#example6_sce.sce#226/CH8/EX8.6/example6_sce.sce#S##13169
-8#BJT specifications and performance#8.5#input capacitance limited upper cutoff frequency#example5_sce.sce#226/CH8/EX8.5/example5_sce.sce#S##13168
-8#BJT specifications and performance#8.4#input capacitance#example4_sce.sce#226/CH8/EX8.4/example4_sce.sce#S##13167
-8#BJT specifications and performance#8.3#output power change#example3_sce.sce#226/CH8/EX8.3/example3_sce.sce#S##13166
-8#BJT specifications and performance#8.2#output power change#example2_sce.sce#226/CH8/EX8.2/example2_sce.sce#S##13165
-8#BJT specifications and performance#8.14#thermal resistance#example14_sce.sce#226/CH8/EX8.14/example14_sce.sce#S##13175
-8#BJT specifications and performance#8.13#maximum power dissipation#example13_sce.sce#226/CH8/EX8.13/example13_sce.sce#S##13174
-8#BJT specifications and performance#8.11#calculate maximum Ic#example11_sce.sce#226/CH8/EX8.11/example11_sce.sce#S##13173
-8#BJT specifications and performance#8.10#total noise output voltage for amlifier#example10_sce.sce#226/CH8/EX8.10/example10_sce.sce#S##13172
-6#Ac analysis of BJT circuits#6.9#circuit input and output impedance with Rl not connected#example9_sce.sce#226/CH6/EX6.9/example9_sce.sce#S##13160
-6#Ac analysis of BJT circuits#6.8#circuit input and output impedance and voltage gain#example8_sce.sce#226/CH6/EX6.8/example8_sce.sce#S##13159
-6#Ac analysis of BJT circuits#6.7#estimate re and circuit voltage gain#example7_sce.sce#226/CH6/EX6.7/example7_sce.sce#S##13158
-6#Ac analysis of BJT circuits#6.6#circuit input and output impedance voltage gain#example6_sce.sce#226/CH6/EX6.6/example6_sce.sce#S##13157
-6#Ac analysis of BJT circuits#6.5#estimate the CE input resistance#example5_sce.sce#226/CH6/EX6.5/example5_sce.sce#S##13156
-6#Ac analysis of BJT circuits#6.4#calculate hfc hob and alfa#example4_sce.sce#226/CH6/EX6.4/example4_sce.sce#S##13153
-6#Ac analysis of BJT circuits#6.3#determine hfe and hoe#example3_sce.sce#226/CH6/EX6.3/example3_sce.sce#S##13152
-6#Ac analysis of BJT circuits#6.2#Dc and Ac load line#example2_sce.sce#226/CH6/EX6.2/example2_sce.sce#S##13155
-6#Ac analysis of BJT circuits#6.13#calculate Ic Ie and Ib#example13_sce.sce#226/CH6/EX6.13/example13_sce.sce#S##13164
-6#Ac analysis of BJT circuits#6.12#calculate vo#example12_sce.sce#226/CH6/EX6.12/example12_sce.sce#S##13163
-6#Ac analysis of BJT circuits#6.11#input impedance and voltage gain when C1 is disconnected#example11_sce.sce#226/CH6/EX6.11/example11_sce.sce#S##13162
-6#Ac analysis of BJT circuits#6.10#circuit input and output impedance and voltage gain#example10_sce.sce#226/CH6/EX6.10/example10_sce.sce#S##13161
-6#Ac analysis of BJT circuits#6.1#calculate base bais voltage#example1_sce.sce#226/CH6/EX6.1/example1_sce.sce#S##13150
-5#BJT biasing#5.9#analyze voltage divider bais circuit for hFE 50#example9_sce.sce#226/CH5/EX5.9/example9_sce.sce#S##13135
-5#BJT biasing#5.8#determine Ic Ve Vc vce#example8_sce.sce#226/CH5/EX5.8/example8_sce.sce#S##13134
-5#BJT biasing#5.7#emitter voltage collector voltage and collector and emitter voltage#example7_sce.sce#226/CH5/EX5.7/example7_sce.sce#S##12547
-5#BJT biasing#5.5#determine Ib Ic and Vce#example5_sce.sce#226/CH5/EX5.5/example5_sce.sce#S##12548
-5#BJT biasing#5.4#maximum and minimum level of Ic and Vce#example4_sce.sce#226/CH5/EX5.4/example4_sce.sce#S##12546
-5#BJT biasing#5.3#determine Ib Ic and Vce#example3_sce.sce#226/CH5/EX5.3/example3_sce.sce#S##12545
-5#BJT biasing#5.23#suitable resistor for capacitor coupled switching#example23_sce.sce#226/CH5/EX5.23/example23_sce.sce#S##13149
-5#BJT biasing#5.22#deremine suitable resistancefor Rb and Rc#example22_sce.sce#226/CH5/EX5.22/example22_sce.sce#S##13148
-5#BJT biasing#5.21#calculate minimum hFE  for transistor#example21_sce.sce#226/CH5/EX5.21/example21_sce.sce#S##13147
-5#BJT biasing#5.20#calculate minimum hFE and transistor Vce#example20_sce.sce#226/CH5/EX5.20/example20_sce.sce#S##13146
-5#BJT biasing#5.2#circuit Q point#example2_sce.sce#226/CH5/EX5.2/example2_sce.sce#S##12544
-5#BJT biasing#5.19#change in Ic by effect of change in Vbe#example19_sce.sce#226/CH5/EX5.19/example19_sce.sce#S##13145
-5#BJT biasing#5.18#determine Ic change when tempreture increases#example18_sce.sce#226/CH5/EX5.18/example18_sce.sce#S##13144
-5#BJT biasing#5.17#stability factors for three bias circuit#example17_sce.sce#226/CH5/EX5.17/example17_sce.sce#S##13143
-5#BJT biasing#5.16#design bais circuit operate from 9V supply#example16_sce.sce#226/CH5/EX5.16/example16_sce.sce#S##13142
-5#BJT biasing#5.15#design bais circuit operate from 18V supply#example15_sce.sce#226/CH5/EX5.15/example15_sce.sce#S##13141
-5#BJT biasing#5.14#design voltage divider bais circuit#example14_sce.sce#226/CH5/EX5.14/example14_sce.sce#S##13140
-5#BJT biasing#5.13#design voltage divider bais circuit#example13_sce.sce#226/CH5/EX5.13/example13_sce.sce#S##13139
-5#BJT biasing#5.12#collector to base bais circuit#example12_sce.sce#226/CH5/EX5.12/example12_sce.sce#S##13138
-5#BJT biasing#5.11#design base bias circuit#example11_sce.sce#226/CH5/EX5.11/example11_sce.sce#S##13137
-5#BJT biasing#5.10#analyze voltage divider bais circuit for hFE is 200#example10_sce.sce#226/CH5/EX5.10/example10_sce.sce#S##13136
-5#BJT biasing#5.1#new dc load line#example1_sce.sce#226/CH5/EX5.1/example1_sce.sce#S##12543
-4#Bipolar junction transistors#4.6#determine Ib and Ic#example6_sce.sce#226/CH4/EX4.6/example6_sce.sce#S##12542
-4#Bipolar junction transistors#4.4#calculate Ic Ib and hFE#example4_sce.sce#226/CH4/EX4.4/example4_sce.sce#S##12541
-4#Bipolar junction transistors#4.3#dc collector voltage and circuit voltage gain#example3_sce.sce#226/CH4/EX4.3/example3_sce.sce#S##12540
-4#Bipolar junction transistors#4.2#new  base current#example2_sce.sce#226/CH4/EX4.2/example2_sce.sce#S##12539
-4#Bipolar junction transistors#4.1#calculate Ic and Ie#example1_sce.sce#226/CH4/EX4.1/example1_sce.sce#S##12538
-3#Diode applications#3.9#required reservoir capacitance#example9_sce.sce#226/CH3/EX3.9/example9_sce.sce#S##12519
-3#Diode applications#3.8#required reservoir capacitance#example8_sce.sce#226/CH3/EX3.8/example8_sce.sce#S##12518
-3#Diode applications#3.7#transformer for half wave rectifier#example7_sce.sce#226/CH3/EX3.7/example7_sce.sce#S##12517
-3#Diode applications#3.6#required surge limiting resistance#example6_sce.sce#226/CH3/EX3.6/example6_sce.sce#S##12516
-3#Diode applications#3.5#charging and discharging time#example5_sce.sce#226/CH3/EX3.5/example5_sce.sce#S##12515
-3#Diode applications#3.4#required reservoir capacitance#example4_sce.sce#226/CH3/EX3.4/example4_sce.sce#S##12514
-3#Diode applications#3.3#peak to peak voltage#example3_sce.sce#226/CH3/EX3.3/example3_sce.sce#S##12513
-3#Diode applications#3.27#diode forward current#example27_sce.sce#226/CH3/EX3.27/example27_sce.sce#S##12537
-3#Diode applications#3.26#determine C1 and C2#example26_sce.sce#226/CH3/EX3.26/example26_sce.sce#S##12536
-3#Diode applications#3.25#capacitor voltage#example25_sce.sce#226/CH3/EX3.25/example25_sce.sce#S##12535
-3#Diode applications#3.24#suitable value of R1 and C1#example24_sce.sce#226/CH3/EX3.24/example24_sce.sce#S##12534
-3#Diode applications#3.22#zener diode and R1#example22_sce.sce#226/CH3/EX3.22/example22_sce.sce#S##12532
-3#Diode applications#3.21#resistor for R1#example21_sce.sce#226/CH3/EX3.21/example21_sce.sce#S##12531
-3#Diode applications#3.20#resistance R1 and forward current and reverse voltage#example20_sce.sce#226/CH3/EX3.20/example20_sce.sce#S##12530
-3#Diode applications#3.2#peak output voltage and current#example2_sce.sce#226/CH3/EX3.2/example2_sce.sce#S##12512
-3#Diode applications#3.19#resistance R1 and forward and reverse current#example19_sce.sce#226/CH3/EX3.19/example19_sce.sce#S##12529
-3#Diode applications#3.18#line regulation laod regulation and ripple rejection ratio#example18_sce.sce#226/CH3/EX3.18/example18_sce.sce#S##12528
-3#Diode applications#3.17#maximum load current#example17_sce.sce#226/CH3/EX3.17/example17_sce.sce#S##12527
-3#Diode applications#3.16#circuit current#example16_sce.sce#226/CH3/EX3.16/example16_sce.sce#S##12526
-3#Diode applications#3.15#load and source effects and load and line regulation#example15_sce.sce#226/CH3/EX3.15/example15_sce.sce#S##12525
-3#Diode applications#3.14#peak output voltage and value of L1 and C1#example14_sce.sce#226/CH3/EX3.14/example14_sce.sce#S##12524
-3#Diode applications#3.13#suitable value of L1 and C1#example13_sce.sce#226/CH3/EX3.13/example13_sce.sce#S##12523
-3#Diode applications#3.12#dc output voltage and outpur ripple amplitude#example12_sce.sce#226/CH3/EX3.12/example12_sce.sce#S##12522
-3#Diode applications#3.11#specify transformer for full wave rectifier#example11_sce.sce#226/CH3/EX3.11/example11_sce.sce#S##12521
-3#Diode applications#3.10#calculate surge limiting resistance#example10_sce.sce#226/CH3/EX3.10/example10_sce.sce#S##12520
-3#Diode applications#3.1#peak output volatge laod current peak reverse voltage#example1_sce.sce#226/CH3/EX3.1/example1_sce.sce#S##12511
-3#Diode applications#2.23#tilt on output waveform#example23_sce.sce#226/CH3/EX2.23/example23_sce.sce#S##12533
-2#semiconductor diodes#2.9#maximum forward current#example9_sce.sce#226/CH2/EX2.9/example9_sce.sce#S##12499
-2#semiconductor diodes#2.8#new supply voltage#example8_sce.sce#226/CH2/EX2.8/example8_sce.sce#S##12498
-2#semiconductor diodes#2.6#dc load line#example6_sce.sce#226/CH2/EX2.6/example6_sce.sce#S##12497
-2#semiconductor diodes#2.5#forward current#example5_sce.sce#226/CH2/EX2.5/example5_sce.sce#S##12496
-2#semiconductor diodes#2.3#diode current#example3_sce.sce#226/CH2/EX2.3/example3_sce.sce#S##12495
-2#semiconductor diodes#2.17#upper and lower limit of Vz#example17_sce.sce#226/CH2/EX2.17/example17_sce.sce#S##12506
-2#semiconductor diodes#2.16#diode current and power dissipation#example16_sce.sce#226/CH2/EX2.16/example16_sce.sce#S##12505
-2#semiconductor diodes#2.15#maximum current#example15_sce.sce#226/CH2/EX2.15/example15_sce.sce#S##12504
-2#semiconductor diodes#2.14#resistor for R1 and appropriate scale#example14_sce.sce#226/CH2/EX2.14/example14_sce.sce#S##12503
-2#semiconductor diodes#2.12#minimum fall times#example12_sce.sce#226/CH2/EX2.12/example12_sce.sce#S##12502
-2#semiconductor diodes#2.11#diffusion capacitance#example11_sce.sce#226/CH2/EX2.11/example11_sce.sce#S##12501
-2#semiconductor diodes#2.10#diode Vf and junction dynamic resistance#example10_sce.sce#226/CH2/EX2.10/example10_sce.sce#S##12500
-2#semiconductor diodes#2.1#dynamic resistance#example2_sce.sce#226/CH2/EX2.1/example2_sce.sce#S##12494
-2#semiconductor diodes#1.1#forward and reverse resistance#example1_sce.sce#226/CH2/EX1.1/example1_sce.sce#S##12493
-1#basic semiconductor and pn junction theory#1.6#junction forward voltage#example6_sce.sce#226/CH1/EX1.6/example6_sce.sce#S##12056
-1#basic semiconductor and pn junction theory#1.5#junction current#example5_sce.sce#226/CH1/EX1.5/example5_sce.sce#S##12055
-1#basic semiconductor and pn junction theory#1.4#reverse saturation current#example4_sce.sce#226/CH1/EX1.4/example4_sce.sce#S##12054
-1#basic semiconductor and pn junction theory#1.3#conductivity and resistance#example3_sce.sce#226/CH1/EX1.3/example3_sce.sce#S##12053
-1#basic semiconductor and pn junction theory#1.2#drift current velocity#example2_sce.sce#226/CH1/EX1.2/example2_sce.sce#S##12052
-1#basic semiconductor and pn junction theory#1.1#resultant densities#example1_sce.sce#226/CH1/EX1.1/example1_sce.sce#S##12051
+12#Small signal Amplifiers#12.12#Suitable capacitor for circuit#example12_sce.sce#226/CH12/EX12.12/example12_sce.sce#S##13206
+12#Small signal Amplifiers#12.11#CE input and CC output two stage amplifier analysis#example11_sce.sce#226/CH12/EX12.11/example11_sce.sce#S##13205
+12#Small signal Amplifiers#12.10#Minimum overall voltage gain for direct coupled CE amplifier#example10_sce.sce#226/CH12/EX12.10/example10_sce.sce#S##13204
+12#Small signal Amplifiers#12.1#Required capacitance and voltage gain at different frequencies#example1_sce.sce#226/CH12/EX12.1/example1_sce.sce#S##13196
+11#AC Analysis of FET circuits#11.7#Input capacitance limited cutoff frequency for a CS circuit#example7_sce.sce#226/CH11/EX11.7/example7_sce.sce#S##13195
+11#AC Analysis of FET circuits#11.6#AC output voltage with and without bypassed source resistor#example6_sce.sce#226/CH11/EX11.6/example6_sce.sce#S##13194
+11#AC Analysis of FET circuits#11.5#Common Gate circuit analysis#example5_sce.sce#226/CH11/EX11.5/example5_sce.sce#S##13193
+11#AC Analysis of FET circuits#11.4#Common Drain circuit analysis#example4_sce.sce#226/CH11/EX11.4/example4_sce.sce#S##13192
+11#AC Analysis of FET circuits#11.3#Performance parameters of CS circuit with Unbypassed source resistor#example3_sce.sce#226/CH11/EX11.3/example3_sce.sce#S##13191
+11#AC Analysis of FET circuits#11.2#CS circuit performance parameters#example2_sce.sce#226/CH11/EX11.2/example2_sce.sce#S##13190
+10#FET biasing#10.9#Designing a voltage divider bais circuit#example9_sce.sce#226/CH10/EX10.9/example9_sce.sce#S##13181
+10#FET biasing#10.8#Designing a self bais circuit#example8_sce.sce#226/CH10/EX10.8/example8_sce.sce#S##13180
+10#FET biasing#10.7#Transfer charecterstics of gate bais circuit#example7_sce.sce#226/CH10/EX10.7/example7_sce.sce#S##13179
+10#FET biasing#10.6#DC Analysis of Voltage Divider Bias FET circuit#example6_sce.sce#226/CH10/EX10.6/example6_sce.sce#S##13178
+10#FET biasing#10.4#DC circuit analysis#example4_sce.sce#226/CH10/EX10.4/example4_sce.sce#S##13177
+10#FET biasing#10.17#Transfer characteristics of MOSFET in switching bias#example17_sce.sce#226/CH10/EX10.17/example17_sce.sce#S##13189
+10#FET biasing#10.16#Biasing JFET switching circuit#example16_sce.sce#226/CH10/EX10.16/example16_sce.sce#S##13188
+10#FET biasing#10.14#Transfer characteristics of MOSFET#example14_sce.sce#226/CH10/EX10.14/example14_sce.sce#S##13186
+10#FET biasing#10.13#FET universal transfer charecterstics#example13_sce.sce#226/CH10/EX10.13/example13_sce.sce#S##13185
+10#FET biasing#10.12#Transfer characteristics of JFET#example12_sce.sce#226/CH10/EX10.12/example12_sce.sce#S##13184
+10#FET biasing#10.11#Designing a constant current bias circuit#example11_sce.sce#226/CH10/EX10.11/example11_sce.sce#S##13183
+10#FET biasing#10.1#DC load line using FET charecterstics#example1_sce.sce#226/CH10/EX10.1/example1_sce.sce#S##13176
+8#BJT specifications and performance#8.9#Noise output voltage for an amplifier#example9_sce.sce#226/CH8/EX8.9/example9_sce.sce#S##13171
+8#BJT specifications and performance#8.8#Transistor switching times#example8_sce.sce#226/CH8/EX8.8/example8_sce.sce#S##13170
+8#BJT specifications and performance#8.6#Input capacitance effects on Emitter follower circuit#example6_sce.sce#226/CH8/EX8.6/example6_sce.sce#S##13169
+8#BJT specifications and performance#8.5#Input capacitance effect on CE and CB circuits#example5_sce.sce#226/CH8/EX8.5/example5_sce.sce#S##13168
+8#BJT specifications and performance#8.4#Miller capacitance of CE amplifier#example4_sce.sce#226/CH8/EX8.4/example4_sce.sce#S##13167
+8#BJT specifications and performance#8.3#Output power change of voltage amplifier in dB#example3_sce.sce#226/CH8/EX8.3/example3_sce.sce#S##13166
+8#BJT specifications and performance#8.2#Output power change of an amplifier in dB#example2_sce.sce#226/CH8/EX8.2/example2_sce.sce#S##13165
+8#BJT specifications and performance#8.14#Thermal resistance for heat sink#example14_sce.sce#226/CH8/EX8.14/example14_sce.sce#S##13175
+8#BJT specifications and performance#8.13#Maximum power dissipation of 2N3055#example13_sce.sce#226/CH8/EX8.13/example13_sce.sce#S##13174
+8#BJT specifications and performance#8.11#Transistor Power dissipation#example11_sce.sce#226/CH8/EX8.11/example11_sce.sce#S##13173
+8#BJT specifications and performance#8.10#Noise and output voltage of transistor circuit#example10_sce.sce#226/CH8/EX8.10/example10_sce.sce#S##13172
+6#AC Analysis of BJT Circuits#6.9#h-parameter of CC circuit with and without load resistor (Rl)#example9_sce.sce#226/CH6/EX6.9/example9_sce.sce#S##13160
+6#AC Analysis of BJT Circuits#6.8#Input and output impedance and voltage gain of CE circuit#example8_sce.sce#226/CH6/EX6.8/example8_sce.sce#S##13159
+6#AC Analysis of BJT Circuits#6.7#Calculate re and voltage gain of CE circuit#example7_sce.sce#226/CH6/EX6.7/example7_sce.sce#S##13158
+6#AC Analysis of BJT Circuits#6.6#Input and Output impedances and voltage gain of CE circuit#example6_sce.sce#226/CH6/EX6.6/example6_sce.sce#S##13157
+6#AC Analysis of BJT Circuits#6.5#Estimate the CE input resistance and determine the h-parameters#example5_sce.sce#226/CH6/EX6.5/example5_sce.sce#S##13156
+6#AC Analysis of BJT Circuits#6.4#CE h-parameters#example4_sce.sce#226/CH6/EX6.4/example4_sce.sce#S##13153
+6#AC Analysis of BJT Circuits#6.3#h-parameters of CE transistors#example3_sce.sce#226/CH6/EX6.3/example3_sce.sce#S##13152
+6#AC Analysis of BJT Circuits#6.2#DC and AC load line for transistor circuit#example2_sce.sce#226/CH6/EX6.2/example2_sce.sce#S##13155
+6#AC Analysis of BJT Circuits#6.13#DC analysis of Eber-Moll's BJT model#example13_sce.sce#226/CH6/EX6.13/example13_sce.sce#S##13164
+6#AC Analysis of BJT Circuits#6.12#Output voltage (Vo) for CE, CB transistor circuits#example12_sce.sce#226/CH6/EX6.12/example12_sce.sce#S##13163
+6#AC Analysis of BJT Circuits#6.11#Input impedance and voltage gain of CB circuit without coupling capacitor#example11_sce.sce#226/CH6/EX6.11/example11_sce.sce#S##13162
+6#AC Analysis of BJT Circuits#6.10#Input and output impedance and voltage gain of transistor in CB circuit#example10_sce.sce#226/CH6/EX6.10/example10_sce.sce#S##13161
+6#AC Analysis of BJT Circuits#6.1#DC analysis of voltage divider circuit#example1_sce.sce#226/CH6/EX6.1/example1_sce.sce#S##13150
+5#BJT biasing#5.9#Accurate analysis of voltage-divider bias circuit for minimum hFE of 50#example9_sce.sce#226/CH5/EX5.9/example9_sce.sce#S##13135
+5#BJT biasing#5.8#Precise circuit analysis of voltage-divider bias circuit#example8_sce.sce#226/CH5/EX5.8/example8_sce.sce#S##13134
+5#BJT biasing#5.7#DC analysis of voltage -divider bias circuit#example7_sce.sce#226/CH5/EX5.7/example7_sce.sce#S##12547
+5#BJT biasing#5.5#DC analysis of collector-base bias circuit#example5_sce.sce#226/CH5/EX5.5/example5_sce.sce#S##12548
+5#BJT biasing#5.4#Maximum and Minimum levels of Ic and Vce for base bias circuit#example4_sce.sce#226/CH5/EX5.4/example4_sce.sce#S##12546
+5#BJT biasing#5.3#DC analysis of common-base amplifier#example3_sce.sce#226/CH5/EX5.3/example3_sce.sce#S##12545
+5#BJT biasing#5.23#Base and collector resistors for capacitor coupled switching#example23_sce.sce#226/CH5/EX5.23/example23_sce.sce#S##13149
+5#BJT biasing#5.22#Suitable resistances for capacitor coupled switching circuit#example22_sce.sce#226/CH5/EX5.22/example22_sce.sce#S##13148
+5#BJT biasing#5.21#Minimum hFE of a transistor biased in saturation region#example21_sce.sce#226/CH5/EX5.21/example21_sce.sce#S##13147
+5#BJT biasing#5.20#DC analysis of BJT biased as switching circuit#example20_sce.sce#226/CH5/EX5.20/example20_sce.sce#S##13146
+5#BJT biasing#5.2#DC Bias point (Q-Point)#example2_sce.sce#226/CH5/EX5.2/example2_sce.sce#S##12544
+5#BJT biasing#5.19#Effect of base-emitter voltage (Vbe) changes on collector current (Ic)#example19_sce.sce#226/CH5/EX5.19/example19_sce.sce#S##13145
+5#BJT biasing#5.18#Change in collector current (Ic) when temperature increases#example18_sce.sce#226/CH5/EX5.18/example18_sce.sce#S##13144
+5#BJT biasing#5.17#Stability factors for three bias circuit#example17_sce.sce#226/CH5/EX5.17/example17_sce.sce#S##13143
+5#BJT biasing#5.16#Design voltage divider bias circuit to operate from 9V supply#example16_sce.sce#226/CH5/EX5.16/example16_sce.sce#S##13142
+5#BJT biasing#5.15#Design voltage divider bias circuit to operate from 18V supply#example15_sce.sce#226/CH5/EX5.15/example15_sce.sce#S##13141
+5#BJT biasing#5.14#Design voltage divider bias circuit with given bias parameters#example14_sce.sce#226/CH5/EX5.14/example14_sce.sce#S##13140
+5#BJT biasing#5.13#Voltage divider bias circuit design#example13_sce.sce#226/CH5/EX5.13/example13_sce.sce#S##13139
+5#BJT biasing#5.12#Collector to base bias circuit design#example12_sce.sce#226/CH5/EX5.12/example12_sce.sce#S##13138
+5#BJT biasing#5.11#Base bias circuit design#example11_sce.sce#226/CH5/EX5.11/example11_sce.sce#S##13137
+5#BJT biasing#5.10#Analyze voltage divider bias circuit for a maximum hFE of 200#example10_sce.sce#226/CH5/EX5.10/example10_sce.sce#S##13136
+5#BJT biasing#5.1#DC load line#example1_sce.sce#226/CH5/EX5.1/example1_sce.sce#S##12543
+4#Bipolar Junction Transistors#4.6#Base current (Ib) and collector current (Ic) from output charecterstics#example6_sce.sce#226/CH4/EX4.6/example6_sce.sce#S##12542
+4#Bipolar Junction Transistors#4.4#Collector current (Ic), Base current (Ib) and hFE of BJT as switch#example4_sce.sce#226/CH4/EX4.4/example4_sce.sce#S##12541
+4#Bipolar Junction Transistors#4.3#DC collector voltage and circuit voltage gain of CE amplifier#example3_sce.sce#226/CH4/EX4.3/example3_sce.sce#S##12540
+4#Bipolar Junction Transistors#4.2#Common base current gain (Adc), Common-emitter current gain (Bdc) of npn transistor#example2_sce.sce#226/CH4/EX4.2/example2_sce.sce#S##12539
+4#Bipolar Junction Transistors#4.1#Determine the emitter (Ie) and base (Ib) currents of a transistor#example1_sce.sce#226/CH4/EX4.1/example1_sce.sce#S##12538
+3#Diode applications#3.9#Reservoir capacitor value for full - wave rectifier#example9_sce.sce#226/CH3/EX3.9/example9_sce.sce#S##12519
+3#Diode applications#3.8#Required reservoir capacitance value for full- wave rectifier#example8_sce.sce#226/CH3/EX3.8/example8_sce.sce#S##12518
+3#Diode applications#3.7#RMS voltage(Vrms), RMS current(Irms) and Transformer primary current for half wave rectifier#example7_sce.sce#226/CH3/EX3.7/example7_sce.sce#S##12517
+3#Diode applications#3.6#Surge limiting resistance of HWR#example6_sce.sce#226/CH3/EX3.6/example6_sce.sce#S##12516
+3#Diode applications#3.5#Charging and Discharging time of Half -Wave Rectifier(HWR)#example5_sce.sce#226/CH3/EX3.5/example5_sce.sce#S##12515
+3#Diode applications#3.4#Required reservoir capacitance of a HWR#example4_sce.sce#226/CH3/EX3.4/example4_sce.sce#S##12514
+3#Diode applications#3.3#Peak to Peak ripple voltage of HWR#example3_sce.sce#226/CH3/EX3.3/example3_sce.sce#S##12513
+3#Diode applications#3.27#Diode forward current for AND logic circuit#example27_sce.sce#226/CH3/EX3.27/example27_sce.sce#S##12537
+3#Diode applications#3.26#Capacitor (C1, C2) values for voltage doubling circuit#example26_sce.sce#226/CH3/EX3.26/example26_sce.sce#S##12536
+3#Diode applications#3.25#Upper and lower voltages for biased clamping circuits#example25_sce.sce#226/CH3/EX3.25/example25_sce.sce#S##12535
+3#Diode applications#3.24#Component determination of negative voltage clamping circuit#example24_sce.sce#226/CH3/EX3.24/example24_sce.sce#S##12534
+3#Diode applications#3.22#Zener diode as shunt clipper#example22_sce.sce#226/CH3/EX3.22/example22_sce.sce#S##12532
+3#Diode applications#3.21#Suitable resistor for biased shunt clipper#example21_sce.sce#226/CH3/EX3.21/example21_sce.sce#S##12531
+3#Diode applications#3.20#Forward and reverse currents for diode as Negative shunt clipper#example20_sce.sce#226/CH3/EX3.20/example20_sce.sce#S##12530
+3#Diode applications#3.2#Peak output voltage and current of a Bridge rectifier#example2_sce.sce#226/CH3/EX3.2/example2_sce.sce#S##12512
+3#Diode applications#3.19#Load resistance (R1), forward and reverse currents of Voltage regulator circuit#example19_sce.sce#226/CH3/EX3.19/example19_sce.sce#S##12529
+3#Diode applications#3.18#Line regulation, load regulation and ripple rejection ratio of Voltage regulator#example18_sce.sce#226/CH3/EX3.18/example18_sce.sce#S##12528
+3#Diode applications#3.17#Maximum load current of Load regulator circuit#example17_sce.sce#226/CH3/EX3.17/example17_sce.sce#S##12527
+3#Diode applications#3.16#Parameters of Zener diode as voltage regulator#example16_sce.sce#226/CH3/EX3.16/example16_sce.sce#S##12526
+3#Diode applications#3.15#Load regulation,Source effect, line regulation of FWR#example15_sce.sce#226/CH3/EX3.15/example15_sce.sce#S##12525
+3#Diode applications#3.14#Peak output voltage, value of inductor (L1)and capacitor(C1) of L-input filter#example14_sce.sce#226/CH3/EX3.14/example14_sce.sce#S##12524
+3#Diode applications#3.13#Suitable capacitor and inductor values of LC pi filter#example13_sce.sce#226/CH3/EX3.13/example13_sce.sce#S##12523
+3#Diode applications#3.12#DC output voltage and peak to peak voltage of given ripple waveform#example12_sce.sce#226/CH3/EX3.12/example12_sce.sce#S##12522
+3#Diode applications#3.11#Transformer selection for a full-wave bridge rectifier#example11_sce.sce#226/CH3/EX3.11/example11_sce.sce#S##12521
+3#Diode applications#3.10#Surge limiting resistance of bridge rectifier#example10_sce.sce#226/CH3/EX3.10/example10_sce.sce#S##12520
+3#Diode applications#3.1#Peak output voltage(Vpo), Peak load current(Ip) and peak reverse voltage(PIV) of HWR#example1_sce.sce#226/CH3/EX3.1/example1_sce.sce#S##12511
+3#Diode applications#2.23#Tilt on the output waveform of a diode clamping circuit#example23_sce.sce#226/CH3/EX2.23/example23_sce.sce#S##12533
+2#Semiconductor Diodes#2.9#Maximum forward current of a diode at a given temperature#example9_sce.sce#226/CH2/EX2.9/example9_sce.sce#S##12499
+2#Semiconductor Diodes#2.8#Calculating supply voltage from given Q - point#example8_sce.sce#226/CH2/EX2.8/example8_sce.sce#S##12498
+2#Semiconductor Diodes#2.6#DC load line for forward biased diode#example6_sce.sce#226/CH2/EX2.6/example6_sce.sce#S##12497
+2#Semiconductor Diodes#2.5#Forward current of a diode#example5_sce.sce#226/CH2/EX2.5/example5_sce.sce#S##12496
+2#Semiconductor Diodes#2.3#Diode current#example3_sce.sce#226/CH2/EX2.3/example3_sce.sce#S##12495
+2#Semiconductor Diodes#2.17#Upper and Lower limits of Zener voltage(Vz)#example17_sce.sce#226/CH2/EX2.17/example17_sce.sce#S##12506
+2#Semiconductor Diodes#2.16#Maximum diode current and power dissipation of 1N755#example16_sce.sce#226/CH2/EX2.16/example16_sce.sce#S##12505
+2#Semiconductor Diodes#2.15#Maximum current through the Zener diode#example15_sce.sce#226/CH2/EX2.15/example15_sce.sce#S##12504
+2#Semiconductor Diodes#2.14#Plotting Diode charecterstics#example14_sce.sce#226/CH2/EX2.14/example14_sce.sce#S##12503
+2#Semiconductor Diodes#2.12#Minimum fall times for 1N915 and 1N917 diodes#example12_sce.sce#226/CH2/EX2.12/example12_sce.sce#S##12502
+2#Semiconductor Diodes#2.11#Diffusion capacitance of a Si diode#example11_sce.sce#226/CH2/EX2.11/example11_sce.sce#S##12501
+2#Semiconductor Diodes#2.10#Forward voltage drop and junction dynamic resistance of a diode#example10_sce.sce#226/CH2/EX2.10/example10_sce.sce#S##12500
+2#Semiconductor Diodes#2.1#Dynamic resistance of a diode#example2_sce.sce#226/CH2/EX2.1/example2_sce.sce#S##12494
+2#Semiconductor Diodes#1.1#Forward and reverse resistances of a silicon diode#example1_sce.sce#226/CH2/EX1.1/example1_sce.sce#S##12493
+1#Basic Semiconductor and pn - Junction Theory#1.6#Forward bias voltage of a silicon pn - Junction#example6_sce.sce#226/CH1/EX1.6/example6_sce.sce#S##12056
+1#Basic Semiconductor and pn - Junction Theory#1.5#Junction Current of silicon pn-junction#example5_sce.sce#226/CH1/EX1.5/example5_sce.sce#S##12055
+1#Basic Semiconductor and pn - Junction Theory#1.4#Levels of reverse saturation current at different temperatures#example4_sce.sce#226/CH1/EX1.4/example4_sce.sce#S##12054
+1#Basic Semiconductor and pn - Junction Theory#1.3#Conductivity and Resistance of a given material#example3_sce.sce#226/CH1/EX1.3/example3_sce.sce#S##12053
+1#Basic Semiconductor and pn - Junction Theory#1.2#Drift current velocities for electrons and holes#example2_sce.sce#226/CH1/EX1.2/example2_sce.sce#S##12052
+1#Basic Semiconductor and pn - Junction Theory#1.1#Charge densities of free electrons and holes#example1_sce.sce#226/CH1/EX1.1/example1_sce.sce#S##12051

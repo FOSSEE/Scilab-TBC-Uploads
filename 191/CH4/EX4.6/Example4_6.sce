@@ -5,7 +5,7 @@ close();
 format('v',9);
 x = [0:.1:14];
 plot2d(0,0,-1,"031"," ",[0,-5,14,5]);
-plot(x,0);
+plot(x,zeros(length(x),1));
 A = [5 1 0;-1 3 1;-2 1 10];
 disp(A,'A = ');
 for i=1:3

@@ -1,0 +1,106 @@
+12#Analog to Digital to Analog Conversion#12.3#sampling rates and no of bits#Ex12_3.sce#2528/CH12/EX12.3/Ex12_3.sce#S##94121
+12#Analog to Digital to Analog Conversion#12.2#Determine the step size#Ex12_2.sce#2528/CH12/EX12.2/Ex12_2.sce#S##94123
+12#Analog to Digital to Analog Conversion#12.1#determine the resolution#Ex12_1.sce#2528/CH12/EX12.1/Ex12_1.sce#S##94122
+11#Active filters#11.7#Notch filter#Ex11_7.sce#2528/CH11/EX11.7/Ex11_7.sce#S##94012
+11#Active filters#11.6#Band pass filter with center frequency#Ex11_6.sce#2528/CH11/EX11.6/Ex11_6.sce#S##94011
+11#Active filters#11.5#Band pass filter#Ex11_5.sce#2528/CH11/EX11.5/Ex11_5.sce#S##94128
+11#Active filters#11.4#Crossover network#Ex11_4.sce#2528/CH11/EX11.4/Ex11_4.sce#S##94127
+11#Active filters#11.3#Fifth order system#Ex11_3.sce#2528/CH11/EX11.3/Ex11_3.sce#S##94126
+11#Active filters#11.2#Design second order bessel filter#Ex11_2.sce#2528/CH11/EX11.2/Ex11_2.sce#S##94125
+11#Active filters#11.1#Butterworth low pass filter#Ex11_1.sce#2528/CH11/EX11.1/Ex11_1.sce#S##94129
+10#Integrators and Differentiators#10.8#LVDT#Ex10_8.sce#2528/CH10/EX10.8/Ex10_8.sce#S##94148
+10#Integrators and Differentiators#10.7#Sketch the output wave form#Ex10_7.sce#2528/CH10/EX10.7/Ex10_7.sce#S##94149
+10#Integrators and Differentiators#10.6#Output Waveform#Ex10_6.sce#2528/CH10/EX10.6/Ex10_6.sce#S##94147
+10#Integrators and Differentiators#10.5#Range for differentiation#Ex10_5.sce#2528/CH10/EX10.5/Ex10_5.sce#S##94146
+10#Integrators and Differentiators#10.4#Integrator connected to accelerometer#Ex10_4.sce#2528/CH10/EX10.4/Ex10_4.sce#S##94145
+10#Integrators and Differentiators#10.3#Output of the circuit#Ex10_3.sce#2528/CH10/EX10.3/Ex10_3.sce#S##94144
+10#Integrators and Differentiators#10.2#Output#Ex10_2.sce#2528/CH10/EX10.2/Ex10_2.sce#S##94143
+10#Integrators and Differentiators#10.1#vout and lower frequency range#Ex10_1.sce#2528/CH10/EX10.1/Ex10_1.sce#S##94142
+9#Oscillators and Frequency Generators#9.9#Free running frequency#Ex9_9.sce#2528/CH9/EX9.9/Ex9_9.sce#S##94138
+9#Oscillators and Frequency Generators#9.8#Maximum and minimum frequency#Ex9_8.sce#2528/CH9/EX9.8/Ex9_8.sce#S##94137
+9#Oscillators and Frequency Generators#9.7#Output frequency#Ex9_7.sce#2528/CH9/EX9.7/Ex9_7.sce#S##94136
+9#Oscillators and Frequency Generators#9.6#Square wave generator#Ex9_6.sce#2528/CH9/EX9.6/Ex9_6.sce#S##94135
+9#Oscillators and Frequency Generators#9.5#Output frequency and amplitude#Ex9_5.sce#2528/CH9/EX9.5/Ex9_5.sce#S##94134
+9#Oscillators and Frequency Generators#9.4#Value of Ri#Ex9_4.sce#2528/CH9/EX9.4/Ex9_4.sce#S##94133
+9#Oscillators and Frequency Generators#9.3#Frequency of oscillation#Ex9_3.sce#2528/CH9/EX9.3/Ex9_3.sce#S##94132
+9#Oscillators and Frequency Generators#9.2#Maximum and minimum frequency of oscillation#Ex9_2.sce#2528/CH9/EX9.2/Ex9_2.sce#S##94131
+9#Oscillators and Frequency Generators#9.12#range of output frequency#Ex9_12.sce#2528/CH9/EX9.12/Ex9_12.sce#S##94141
+9#Oscillators and Frequency Generators#9.11#Square wave generator#Ex9_11.sce#2528/CH9/EX9.11/Ex9_11.sce#S##94140
+9#Oscillators and Frequency Generators#9.10#Timing resistor and capacitor#Ex9_10.sce#2528/CH9/EX9.10/Ex9_10.sce#S##94139
+9#Oscillators and Frequency Generators#9.1#frequency of oscillation#Ex9_1.sce#2528/CH9/EX9.1/Ex9_1.sce#S##94130
+8#Voltage regulation#8.7#Heat sink rating#Ex8_7.sce#2528/CH8/EX8.7/Ex8_7.sce#S##94055
+8#Voltage regulation#8.6#Step down Voltage regulator#Ex8_6.sce#2528/CH8/EX8.6/Ex8_6.sce#S##94054
+8#Voltage regulation#8.5#2V to 5V supply#Ex8_5.sce#2528/CH8/EX8.5/Ex8_5.sce#S##94053
+8#Voltage regulation#8.4#12 V Regulator#Ex8_4.sce#2528/CH8/EX8.4/Ex8_4.sce#S##94052
+8#Voltage regulation#8.3#Value of R2#Ex8_3.sce#2528/CH8/EX8.3/Ex8_3.sce#S##94051
+8#Voltage regulation#8.2#The power dissapation#Ex8_2.sce#2528/CH8/EX8.2/Ex8_2.sce#S##94050
+8#Voltage regulation#8.1#Output #Ex8_1.sce#2528/CH8/EX8.1/Ex8_1.sce#S##94049
+7#Nonlinear circuits #7.9#Output Voltage#Ex7_9.sce#2528/CH7/EX7.9/Ex7_9.sce#S##94043
+7#Nonlinear circuits #7.8#Determine the Output voltage#Ex7_8.sce#2528/CH7/EX7.8/Ex7_8.sce#S##94042
+7#Nonlinear circuits #7.7#Sketch output waveform#Ex7_7.sce#2528/CH7/EX7.7/Ex7_7.sce#S##94041
+7#Nonlinear circuits #7.6#Temperature tranducer response characteristics#Ex7_6.sce#2528/CH7/EX7.6/Ex7_6.sce#S##94040
+7#Nonlinear circuits #7.5#Draw the transfer curve#Ex7_5.sce#2528/CH7/EX7.5/Ex7_5.sce#S##94048
+7#Nonlinear circuits #7.4#Sketch the transfer curve#Ex7_4.sce#2528/CH7/EX7.4/Ex7_4.sce#S##94047
+7#Nonlinear circuits #7.3#Sketch Vout#Ex7_3.sce#2528/CH7/EX7.3/Ex7_3.sce#S##94046
+7#Nonlinear circuits #7.2#Capacitor voltage and time constant#Ex7_2.sce#2528/CH7/EX7.2/Ex7_2.sce#S##94045
+7#Nonlinear circuits #7.1#Point at which led flashes#Ex7_1.sce#2528/CH7/EX7.1/Ex7_1.sce#S##94044
+6#Specialised Op Amps#6.7#Design a non inverting amplifier#Ex6_7.sce#2528/CH6/EX6.7/Ex6_7.sce#S##94120
+6#Specialised Op Amps#6.6#Design an amplifier#Ex6_6.sce#2528/CH6/EX6.6/Ex6_6.sce#S##94119
+6#Specialised Op Amps#6.5#Voltage controlled amplifier#Ex6_5.sce#2528/CH6/EX6.5/Ex6_5.sce#S##94118
+6#Specialised Op Amps#6.4#bandwidth required#Ex6_4.sce#2528/CH6/EX6.4/Ex6_4.sce#S##94117
+6#Specialised Op Amps#6.3#Power bandwidth#Ex6_3.sce#2528/CH6/EX6.3/Ex6_3.sce#S##94116
+6#Specialised Op Amps#6.2#Instrumentation amplifier#Ex6_2.sce#2528/CH6/EX6.2/Ex6_2.sce#S##94115
+6#Specialised Op Amps#6.1#Output signal#Ex6_1.sce#2528/CH6/EX6.1/Ex6_1.sce#S##94114
+5#Practical limitation of Op Amps circuits#5.9#Calculate new offset#Ex5_9.sce#2528/CH5/EX5.9/Ex5_9.sce#S##94107
+5#Practical limitation of Op Amps circuits#5.8#Minimum acceptable slew rate#Ex5_8.sce#2528/CH5/EX5.8/Ex5_8.sce#S##94106
+5#Practical limitation of Op Amps circuits#5.7#Does slewing occur#Ex5_7.sce#2528/CH5/EX5.7/Ex5_7.sce#S##94105
+5#Practical limitation of Op Amps circuits#5.6#Upper break requency#Ex5_6.sce#2528/CH5/EX5.6/Ex5_6.sce#S##94109
+5#Practical limitation of Op Amps circuits#5.5#System gain and upper break#Ex5_5.sce#2528/CH5/EX5.5/Ex5_5.sce#S##94102
+5#Practical limitation of Op Amps circuits#5.4#System gain and upper break frequency#Ex5_4.sce#2528/CH5/EX5.4/Ex5_4.sce#S##94101
+5#Practical limitation of Op Amps circuits#5.3#Minimum acceptable funity#Ex5_3.sce#2528/CH5/EX5.3/Ex5_3.sce#S##94100
+5#Practical limitation of Op Amps circuits#5.2#Frequency response#Ex5_2.sce#2528/CH5/EX5.2/Ex5_2.sce#S##94099
+5#Practical limitation of Op Amps circuits#5.14#Output noise voltage#Ex5_14.sce#2528/CH5/EX5.14/Ex5_14.sce#S##94113
+5#Practical limitation of Op Amps circuits#5.13#Ripples in output#Ex5_13.sce#2528/CH5/EX5.13/Ex5_13.sce#S##94112
+5#Practical limitation of Op Amps circuits#5.12#Output Voltage#Ex5_12.sce#2528/CH5/EX5.12/Ex5_12.sce#S##94111
+5#Practical limitation of Op Amps circuits#5.11#Output drift#Ex5_11.sce#2528/CH5/EX5.11/Ex5_11.sce#S##94110
+5#Practical limitation of Op Amps circuits#5.10#Output voltage typically#Ex5_10.sce#2528/CH5/EX5.10/Ex5_10.sce#S##94108
+5#Practical limitation of Op Amps circuits#5.1#Upper break frequency#Ex5_1.sce#2528/CH5/EX5.1/Ex5_1.sce#S##94103
+4#Basic Op Amp Circuits#4.9#Load current#Ex4_9.sce#2528/CH4/EX4.9/Ex4_9.sce#S##94090
+4#Basic Op Amp Circuits#4.8#Design the circuit#Ex4_8.sce#2528/CH4/EX4.8/Ex4_8.sce#S##94089
+4#Basic Op Amp Circuits#4.7#Minimum and maximum gain#Ex4_7.sce#2528/CH4/EX4.7/Ex4_7.sce#S##94088
+4#Basic Op Amp Circuits#4.6#Design an inverting amplifier#Ex4_6.sce#2528/CH4/EX4.6/Ex4_6.sce#S##94087
+4#Basic Op Amp Circuits#4.5#Input Impedance and output voltage#Ex4_5.sce#2528/CH4/EX4.5/Ex4_5.sce#S##94086
+4#Basic Op Amp Circuits#4.4#Input Impedance and Vout#Ex4_4.sce#2528/CH4/EX4.4/Ex4_4.sce#S##94085
+4#Basic Op Amp Circuits#4.3#Design a voltage follower#Ex4_3.sce#2528/CH4/EX4.3/Ex4_3.sce#S##94084
+4#Basic Op Amp Circuits#4.2#Design an amplifier#Ex4_2.sce#2528/CH4/EX4.2/Ex4_2.sce#S##94083
+4#Basic Op Amp Circuits#4.15#Design the difference amplifier#Ex4_15.sce#2528/CH4/EX4.15/Ex4_15.sce#S##94096
+4#Basic Op Amp Circuits#4.14#Determine the output of non inverting summer#Ex4_14.sce#2528/CH4/EX4.14/Ex4_14.sce#S##94095
+4#Basic Op Amp Circuits#4.13#Output of summing amplifier#Ex4_13.sce#2528/CH4/EX4.13/Ex4_13.sce#S##94094
+4#Basic Op Amp Circuits#4.12#Design the amplifier#Ex4_12.sce#2528/CH4/EX4.12/Ex4_12.sce#S##94093
+4#Basic Op Amp Circuits#4.11#Load Current#Ex4_11.sce#2528/CH4/EX4.11/Ex4_11.sce#S##94097
+4#Basic Op Amp Circuits#4.10#calculate Ri#Ex4_10.sce#2528/CH4/EX4.10/Ex4_10.sce#S##94091
+4#Basic Op Amp Circuits#4.1#Input Impedance and gain#Ex4_1.sce#2528/CH4/EX4.1/Ex4_1.sce#S##94082
+3#Negative Feedback#3.4#Amplifier current gain#Ex3_4.sce#2528/CH3/EX3.4/Ex3_4.sce#S##94081
+3#Negative Feedback#3.3#Input Output impedance#Ex3_3.sce#2528/CH3/EX3.3/Ex3_3.sce#S##94080
+3#Negative Feedback#3.2#Design the amplifier#Ex3_2.sce#2528/CH3/EX3.2/Ex3_2.sce#S##94079
+3#Negative Feedback#3.1#Closed loop gain and break frequency#Ex3_1.sce#2528/CH3/EX3.1/Ex3_1.sce#S##94078
+2#Operational Amplifier Internals#2.2#Square up circuit#Ex2_2.sce#2528/CH2/EX2.2/Ex2_2.sce#S##94077
+1#Introductory Concepts and Fundamentals#1.9#Output power in watts #Ex1_9.sce#2528/CH1/EX1.9/Ex1_9.sce#S##94065
+1#Introductory Concepts and Fundamentals#1.8#Output power in dBW and dBm#Ex1_8.sce#2528/CH1/EX1.8/Ex1_8.sce#S##94064
+1#Introductory Concepts and Fundamentals#1.7#Power in dBW#Ex1_7.sce#2528/CH1/EX1.7/Ex1_7.sce#S##94063
+1#Introductory Concepts and Fundamentals#1.6#Output gain #Ex1_6.sce#2528/CH1/EX1.6/Ex1_6.sce#S##94061
+1#Introductory Concepts and Fundamentals#1.5#Gain#Ex1_5.sce#2528/CH1/EX1.5/Ex1_5.sce#S##98857
+1#Introductory Concepts and Fundamentals#1.4#Total dB gain#Ex1_4.sce#2528/CH1/EX1.4/Ex1_4.sce#S##94059
+1#Introductory Concepts and Fundamentals#1.3#Ordinary power gain#Ex1_3.sce#2528/CH1/EX1.3/Ex1_3.sce#S##94058
+1#Introductory Concepts and Fundamentals#1.2#Loss in dB#Ex1_2.sce#2528/CH1/EX1.2/Ex1_2.sce#S##94057
+1#Introductory Concepts and Fundamentals#1.19#Find input output voltage gains#Ex1_19.sce#2528/CH1/EX1.19/Ex1_19.sce#S##94076
+1#Introductory Concepts and Fundamentals#1.18#Find current in the circuit#Ex1_18.sce#2528/CH1/EX1.18/Ex1_18.sce#S##94075
+1#Introductory Concepts and Fundamentals#1.17#Bode gain plot #Ex1_17.sce#2528/CH1/EX1.17/Ex1_17.sce#S##94074
+1#Introductory Concepts and Fundamentals#1.16#The rise time for Lag network #Ex1_16.sce#2528/CH1/EX1.16/Ex1_16.sce#S##94073
+1#Introductory Concepts and Fundamentals#1.15#Gain and phase values at 1600000 Hz#Ex1_15.sce#2528/CH1/EX1.15/Ex1_15.sce#S##94071
+1#Introductory Concepts and Fundamentals#1.14#Phase Response#Ex1_14.sce#2528/CH1/EX1.14/Ex1_14.sce#S##94070
+1#Introductory Concepts and Fundamentals#1.13#Gain lost at 10 Hz#Ex1_13.sce#2528/CH1/EX1.13/Ex1_13.sce#S##94069
+1#Introductory Concepts and Fundamentals#1.12#The gain of amplifier in dB#Ex1_12.sce#2528/CH1/EX1.12/Ex1_12.sce#S##94068
+1#Introductory Concepts and Fundamentals#1.11#Output signal in dBV#Ex1_11.sce#2528/CH1/EX1.11/Ex1_11.sce#S##94072
+1#Introductory Concepts and Fundamentals#1.10#Value in dBV#Ex1_10.sce#2528/CH1/EX1.10/Ex1_10.sce#S##94066
+1#Introductory Concepts and Fundamentals#1.1#Decibel power gain#Ex1_1.sce#2528/CH1/EX1.1/Ex1_1.sce#S##94056

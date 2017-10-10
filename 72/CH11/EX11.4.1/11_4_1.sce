@@ -1,4 +1,4 @@
-//CAPTION:Characteristic_Impedance_of_a_Shielded_Strip_Line
+
 //chapter_no.-11,  page_no.-508
 //Example_no.11-4-1
 

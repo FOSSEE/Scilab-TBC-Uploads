@@ -1,4 +1,3 @@
-
 //example 3-3 in page 41
 clc;
 //Given Data
@@ -9,7 +8,7 @@ IM=0.1e-3;//FSD(IM)=0.1 mA
 Rs=1;//shunt resistance in ohm
 //calculation
 n=2;//initialisation
-while n&gt;0.25,
+while n>0.25,
     n=n/2;
     Im=IM*n;
     Vm=Im*Rm;// Meter voltage in volts

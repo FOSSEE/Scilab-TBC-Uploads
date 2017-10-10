@@ -1,6 +1,7 @@
 //CHAPTER 6- MAGNETIC CIRCUITS
 //Example 1
 
+clc;
 disp("CHAPTER 6");
 disp("EXAMPLE 1");
 
@@ -22,20 +23,20 @@ mu0=4*%pi*10^(-7);//absolute permeability in Henry/meters
 //solution (i)
 ar=l*l;           //area of cross-section        
 rA=lA/(mu0*murA*ar);
-disp(sprintf("(i) Reluctance of part A is %.3E AT/Wb",rA));
+disp(sprintf("(i) Reluctance of part A is %E AT/Wb",rA));
 lB=(AB-(l/2))+(BC-l)+(CD-(l/2));
 rB=lB/(mu0*murB*ar);
-disp(sprintf("Reluctance of part B is %.3E AT/Wb",rB));
+disp(sprintf("Reluctance of part B is %E AT/Wb",rB));
 
 //solution (ii)
 lg=2*lg;
 murg=1;
 rg=lg/(mu0*murg*ar);
-disp(sprintf("(ii) Reluctance of the two air gaps is %.3E AT/Wb",rg));
+disp(sprintf("(ii) Reluctance of the two air gaps is %E AT/Wb",rg));
 
 //solution (iii)
 rT=rA+rB+rg;
-disp(sprintf("(iii) Total reluctance is %.2E AT/Wb",rT));
+disp(sprintf("(iii) Total reluctance is %E AT/Wb",rT));
 
 //solution (iv)
 mmf=N*I;
@@ -43,12 +44,12 @@ disp(sprintf("(iv) MMF is %d AT",mmf));
 
 //solution (v)
 totFlux=mmf/rT;
-disp(sprintf("(v) Total flux is %.3E Wb",totFlux));
+disp(sprintf("(v) Total flux is %E Wb",totFlux));
 
 
 //solution (vi)
 b=totFlux/ar;
-disp(sprintf("(vi) Flux density is %.3f Wb/m^2",b));
+disp(sprintf("(vi) Flux density is %f Wb/m^2",b));
 
 //Answers of (v) and (vi) do not match due to calculation mistake in the book
 

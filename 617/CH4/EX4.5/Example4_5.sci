@@ -8,5 +8,5 @@ y = 110;                       // specific gravity in lb/ft^3
 x = 8/12;                      // Distance from surface in ft
 a = k/(y*Cp);                   // Thermal diffusivity in ft^2/hr
 n=1/t;                         // frequency in /hr
-delr = x/(2*sqrt(a*%pi*n);     // Time lag in hr
-printf("Time lag of the temperature at a point 8 in from surface is %.1f hr", delr;
+delr = x/(2*sqrt(a*%pi*n));     // Time lag in hr
+printf("Time lag of the temperature at a point 8 in from surface is %.1f hr", delr);

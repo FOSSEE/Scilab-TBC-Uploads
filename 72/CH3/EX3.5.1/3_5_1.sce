@@ -1,4 +1,4 @@
-//CAPTION:location_Determination_of_voltage_maximum_and_minimum_from_load
+
 //chapter_no.-3,  page_no.-104
 //Example_no.3-5-1
 

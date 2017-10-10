@@ -1,6 +1,7 @@
 //CHAPTER 3- THREE-PHASE A.C. CIRCUITS
 //Example 5
 
+clc;
 disp("CHAPTER 3");
 disp("EXAMPLE 5");
 
@@ -18,7 +19,7 @@ disp(sprintf("(a) The total power is %d W",p1));
 p2=w1-w2;
 phi=atan((sqrt(3)*p2)/p1);     //this equation comes from two-wattmeter method 
 pow_fact=cos(phi);            
-disp(sprintf("(b) The power factor of the load is %.3f", pow_fact));
+disp(sprintf("(b) The power factor of the load is %f", pow_fact));
 
 //END
 

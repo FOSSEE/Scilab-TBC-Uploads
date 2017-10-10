@@ -3,6 +3,7 @@ V=230+%i*0;            //Assigning values to parameters
 L=10*10^-3;
 f=50;
 R=10;
+C=1.0/(4*(%pi^2)*(f^2)*L);
 Xl=2*%pi*f*L;
 Xc=1/(2*%pi*f*C);
 Z1=10+%i*3.14;

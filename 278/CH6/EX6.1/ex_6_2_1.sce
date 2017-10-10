@@ -1,4 +1,4 @@
-//to find the maximum stress induced
+
 b=60// b=60mm
 t=10//t=10mm
 d=12//d=12mm

@@ -1,4 +1,4 @@
-//find the length of the sliding bearing
+
 clc
 //solution
 //given

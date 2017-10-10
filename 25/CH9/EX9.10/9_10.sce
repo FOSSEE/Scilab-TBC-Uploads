@@ -2,7 +2,6 @@
 // design a bandpass filter using capacitive coupled resonators,with a 0.5 db equal passband haracteristic.
 fo=2*10^9;delta=0.1;Zo=50;f=2.2*10^9;g1=1.5963;g2=1.0967;g3=1.5963;g4=1;
 f=(1/delta)*((f/fo)-(fo/f));
-x=abs(f/fc)-1; // the value on the horizontal scale.
 x0=sqrt((%pi*delta)/(2*g1))/Zo; // x0=ZoJ1;
 x1=((%pi*delta)/(2*sqrt(g1*g2)))/Zo; // x0=ZoJn;
 B0=x0/(1-(Zo*x0)^2)

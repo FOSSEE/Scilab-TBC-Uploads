@@ -13,8 +13,8 @@ V = 200; // in Volts
 E1 =  V - (Ia1*Ra)
 E2 =  V - (Ia2*Ra)
 //The relationship, E1/E2 = Phi1*n1/Phi2*n2,  applies to both generators and motors. Since the flux is constant, Phi1 = Phi2
-Phi2 = Phi1
-n2 = E2*Phi1*n1/(Phi2*E1)
+//Phi2 = Phi1
+n2 = E2*n1/(E1)
 
 printf("\n\n Result \n\n")
 printf("\n the speed of the motor is %.2f rev/sec ",n2)

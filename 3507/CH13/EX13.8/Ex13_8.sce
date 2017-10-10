@@ -7,6 +7,7 @@ del_Ic=1 // mA
 del_Vbe=0.02 // V
 Rc=5 // kilo ohm
 Rl=10 // kilo ohm
+gain_beta=60.0; 
 
 Ai=del_Ic/del_Ib
 Rin=del_Vbe/del_Ib

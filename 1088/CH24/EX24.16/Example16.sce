@@ -13,7 +13,7 @@ disp("Code Author                          :                                    
 printf("+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n")
 disp("Chapter Number                    :                                                                            24")
 disp("Chapter Title                         :                              Systems programming II- Files")
-printf("+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n"
+printf("+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n")
 printf("Example 16    :       Show the method of using fork and exec to run a user-defined\n program and kill it in 5 seconds if not completed \n")
 disp("****************************************************************")
 disp("Answer    :   ")
@@ -35,8 +35,8 @@ printf("\tUNIX SHELL SIMULATOR(DEMO VERSION WITH PRELOADED COMMANDS)\n\n\n")
 i=0
 i=i+1;f(i)='/* Program: killprocess.c -- Uses fork and exec to run a user-defined program and kills it if it doesnt complete in 5 seconds */'
 i=i+1;f(i)='#include <stdio.h>'
-i=i+1;f(i)='#include <sys/types.h>'
-i=i+1;f(i)='#include <sys/wait.h>'
+i=i+1;f(i)='#include <sys types.h="">'
+i=i+1;f(i)='#include <sys wait.h="">'
 i=i+1;f(i)='#include <signal.h>'
 i=i+1;f(i)=''
 i=i+1;f(i)='pid_t pid;'
@@ -49,7 +49,7 @@ i=i+1;f(i)='    signal(SIGALRM, death_handler);  /* child dies or an alarm is re
 i=i+1;f(i)='    '
 i=i+1;f(i)='    switch (pid = fork()) {'
 i=i+1;f(i)='           case -1: printf('+ascii(34)+'Fork error\n'+ascii(34)+');'
-i=i+1;f(i)='           case 0: execvp(argv[1],&argv[1]);   /* Execute command */'
+i=i+1;f(i)='           case 0: execvp(argv[1],&amp;argv[1]);   /* Execute command */'
 i=i+1;f(i)='                   perror('+ascii(34)+'exec'+ascii(34)+');'
 i=i+1;f(i)='                   break;'
 i=i+1;f(i)='           default: alarm(5);      /* Will send SIGALRM after 5 seconds */'
@@ -63,7 +63,7 @@ i=i+1;f(i)='    void death_handler(int signo) {      /* This common handler pics
 i=i+1;f(i)='          int status;                    /* exit status for normal termination */'
 i=i+1;f(i)='          signal(signo, death_handler);   /* but sends the SIGTERM signal if */'
 i=i+1;f(i)='          switch(signo) {                   /* command doesnt complete in 5 seconds */'
-i=i+1;f(i)='              case SIGCHLD: waitpid(-1, &status, 0); /* Same as wait(&status); */'
+i=i+1;f(i)='              case SIGCHLD: waitpid(-1, &amp;status, 0); /* Same as wait(&amp;status); */'
 i=i+1;f(i)='              printf('+ascii(34)+'Child dies; exit status: %d\n'+ascii(34)+',WEXITSTATUS(status));'
 i=i+1;f(i)='              break;'
 i=i+1;f(i)='          case SIGALRM: if (kill(pid, SIGTERM) == 0)'
@@ -107,3 +107,4 @@ printf("\n\n\t\t\tBACK TO SCILAB CONSOLE...\nLoading initial environment')
 sleep(1000)
 
 
+</signal.h></sys></sys></stdio.h>

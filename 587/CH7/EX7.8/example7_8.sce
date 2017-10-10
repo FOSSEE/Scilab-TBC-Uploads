@@ -28,8 +28,9 @@ function[r]=radius(r3)
     r(1)=1884*r3(1)*(0.284+0.0024+4.188*log((r3(1))/0.01)+(1/(125.6*r3(1))))-95;
     deff('[r]=radius(r3)',['radius_3=1884*r3(1)*(0.284+0.0024+4.188*log((r3(1))/0.01)+(1/(125.6*r3(1))))-95'])
 endfunction
+x0=[1] 
+[xs,fxs,m]=fsolve(x0',radius)
     disp("m",xs,"The outer radius of the insulation is")
     t=xs-ro;//[m]
     disp("cm",100*t,"The minimum thickness of fibreglass insulation required is")
     ///Correct output will be displayed after executing the codes once and then re-executin them
-    

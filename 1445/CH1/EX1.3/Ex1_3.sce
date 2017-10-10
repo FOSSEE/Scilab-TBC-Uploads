@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 3
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 3");
 
@@ -29,7 +30,7 @@ req4=req2+req3;
 req5=(req1*req4)/(req1+req4);  //parallel combination of resistors
 req6=req5+r1;                  //series combination of resistors
 req7=(req6*r2)/(req6+r2);      
-disp(sprintf("The equivalent resistance between points A and B is %.2f Ω",req7));
+disp(sprintf("The equivalent resistance between points A and B is %f Ω",req7));
 
 //END
 

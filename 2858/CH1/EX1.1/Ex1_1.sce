@@ -1,5 +1,5 @@
 //example 1.1
-clc(); funcprot(0);
+clc; funcprot(0);
 V=0.25; // ft^3
 W=30.8; //lb
 Wd=28.2; // weight dried lb
@@ -20,4 +20,3 @@ disp(n,"porosity");
 Vw=(W-Wd)/Gammaw;
 S=Vw/Vv;
 disp(S*100,"saturation in %");
-

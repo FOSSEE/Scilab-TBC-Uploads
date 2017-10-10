@@ -1,5 +1,4 @@
-//find limits of shaft and bearing and maximum and minimum clearance
-clc
+
 //solution
 //given 
 //75 mm basic size 

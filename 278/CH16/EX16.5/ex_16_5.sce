@@ -1,4 +1,4 @@
-//deetrmine ratio of sides of rectgulart xsection
+
 clc
 //soltuion
 //given

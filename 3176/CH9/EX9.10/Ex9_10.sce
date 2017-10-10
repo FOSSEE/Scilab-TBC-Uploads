@@ -13,11 +13,11 @@ clear;
 xdel(winsid())//to close all currently open figure(s).
 
 function [f]=restoration_filter(v,type,m,n,Q,d)
-    if argn(2) ==2 then
+    if argn(2) ==2 
         m=7;n=7;Q=1.5;d=10; 
-    elseif argn(2)==5 then
+    elseif argn(2)==5 
         Q=parameter;d=parameter; 
-    elseif argn(2)==4 then
+    elseif argn(2)==4 
         Q=1.5;d=2; 
     else  
         disp('wrong number of inputs'); 
@@ -25,10 +25,10 @@ function [f]=restoration_filter(v,type,m,n,Q,d)
     
     select type
         
-    case'median'then
+    case'median'
         f=MedianFilter(v,[m n]);
         
-    case'MIN'then
+    case'MIN'
        size1=m;
        [nr,nc]=size(v);
        temp=zeros(nr+2*floor(size1/2),nc+2*floor(size1/2));
@@ -42,7 +42,7 @@ function [f]=restoration_filter(v,type,m,n,Q,d)
         end
         f=mat2gray(temp2);    
     
-    case'MAX'then
+    case'MAX'
        size1=m;
        [nr,nc]=size(v);
        temp=zeros(nr+2*floor(size1/2),nc+2*floor(size1/2));
@@ -56,7 +56,7 @@ function [f]=restoration_filter(v,type,m,n,Q,d)
         end
         f=mat2gray(temp2);
         
-        case'Mid_Point'then
+        case'Mid_Point'
        size1=m;
        [nr,nc]=size(v);
        temp=zeros(nr+2*floor(size1/2),nc+2*floor(size1/2));

@@ -1,4 +1,4 @@
-// find dia of bolts ,thickness of flanges and key dimensions
+
 clc
 //solution
 //given

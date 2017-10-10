@@ -1,4 +1,4 @@
-        //    PG (261)
+//    PG (261)
 
 //    Example 1
 
@@ -9,11 +9,11 @@ deff('[y]=fppp(x)','y=(105*sqrt(x))/8')
 deff('[y]=fpppp(x)','y=(105*x^(-0.5))/16')
 
 x0=0;
-x1=1;
-x=x0:x1;
+xn=1;
+x=x0:xn;
 
 //    True value
-I = integrate('x^(7/2)','x',x0,x1)
+I = integrate('x^(7/2)','x',x0,xn)
 
 //    Using Trapezoidal rule
 

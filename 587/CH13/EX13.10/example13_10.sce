@@ -23,7 +23,7 @@ ho=k*Nu/Do;//[W/m^2.degree Celcius]
 Qo_conv=ho*Ao*(T2-T1);//[W]
 Qo_rad=eo*5.67*10^(-8)*Ao*(((T2+273)^4)-((T1+273)^4));//[W]
 Qo_total=Qo_conv+Qo_rad;//[W]
-disp("W",Qo_total,"The total rate of heat loss from the glass cover 
+disp("W",Qo_total,"The total rate of heat loss from the glass cover  %.2f") 
 Lc=(Do-Di)/2;//The characteristic length
 Ai=%pi*Di*L;//[m^2]
 //Assuming 

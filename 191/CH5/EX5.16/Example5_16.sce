@@ -33,7 +33,7 @@ C = [c1;c2;c3;c4];
 ann = inv(A)*C;
 disp(ann, 'The coefficients a0,a1,a2,a3 are respectively :  ' );
 
-deff('[px]=p3(x)','px=ann(4)*x^3+ann(3)*x^2+ann(2)*x+ann(1)');
+deff('[px]=p3(x)','px=ann(4)*x.^3+ann(3)*x.^2+ann(2)*x+ann(1)');
 x = [0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0]';
 e = exp(x);
 p = p3(x);
@@ -42,4 +42,4 @@ ann = [x e p err];
 
 disp(ann,'Displaying the value of x exp(x) p3(x) exp(x)-p3(x) :');
 plot(x,err);
-plot(x,0);
+plot(x,zeros(length(x),1));

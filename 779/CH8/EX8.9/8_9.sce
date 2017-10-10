@@ -1,5 +1,6 @@
 T2 = 1063;
 T1 = 1073;
+T0 = 300;
 m = 2; cp = 1.1;
 I = m*cp*((T1-T2)-T0*(log(T1/T2)));
 disp("kW",I,"The irrevesibility rate is")

@@ -1,5 +1,4 @@
-//desing right angled bell crank lever
-clc
+
 //soltuion
 //given
 //ref fig 15.14

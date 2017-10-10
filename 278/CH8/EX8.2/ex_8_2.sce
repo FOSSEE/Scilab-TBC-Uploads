@@ -1,5 +1,4 @@
-//find inside diameter of pipe and wall thickness
-clc
+
 //solution
 //given
 Q=40//m^3/min

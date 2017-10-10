@@ -1,15 +1,10 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 27 // read it as example 26 in the book on page 2.79
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 27");
 
-// Given
-//Voltage across the circuit
-//v=250.sin (314.t-10)
-//current is given by
-//i=10.sin(314.t+50)
-//
 //VARIABLE INITIALIZATION
 V=250;                           //Amplitude in Volts
 w=314;                           //angular spped
@@ -41,13 +36,13 @@ angle=atan(y/x)*(180/%pi);      //to convert the angle from radians to degrees
 endfunction; 
 [mag,angle]=rect2pol(real(Z),imag(Z));
 disp("SOLUTION (a)");
-disp(sprintf("The impedance is  %d < %3d  Deg",  mag,angle));//text book answer is -60 deg
+disp(sprintf("The impedance is  %f < %3f  Deg",  mag,angle)); 
 //disp(" "); 
 //power factor=cos(angle)
 pf=cos(-1*angle*%pi/180);       //convert to radians and change sign
-disp(sprintf("The power factor is  %2.1f",  pf)); 
+disp(sprintf("The power factor is  %f",  pf)); 
 //Z=R-jXc by comparing real and imag paarts we get
-disp(sprintf("The resistance is  %3.1fΩ and Reactance is %4.2fΩ",  real(Z), imag(Z))); 
+disp(sprintf("The resistance is  %fΩ and Reactance is %3fΩ",  real(Z), imag(Z))); 
 disp(" "); 
 // 
 //END

@@ -1,4 +1,4 @@
-//CAPTION: Pinch-Off_Voltage_Of_a_Silicon_JFET
+
 //chapter_no.-6,  page_no.-229
 //Example_no.6-1-1
 

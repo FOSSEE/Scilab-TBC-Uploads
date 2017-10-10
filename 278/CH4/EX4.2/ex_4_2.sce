@@ -1,4 +1,4 @@
-//find tensile stress induced in the link at section A-A and B-B,refer fig 4.4
+
 clc
 //solution
 //given

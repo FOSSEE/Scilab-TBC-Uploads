@@ -1,4 +1,4 @@
-clear all;
+clear;
 clc;
 printf("\n Example 1.3");
 p=0.20;//components analysed represents 20 percent of the mixture by mass
@@ -25,6 +25,3 @@ xset('window',1)
 plot2d(time_secs,s,style=2)
 xtitle("sample variance curve","time_secs","sample variance")
 //from the graph the maxima is at 60 secs
-
-
-

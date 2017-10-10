@@ -17,7 +17,7 @@ Fbe= Fab*cosd(90-E1)/cosd(90-A)
 Fbc= Fab*sind(90-A)+Fbe*sind(90-E1)
 Fce= Fbc*cosd(90-(180-E2-D))/cosd(90-E2)
 Fde= Fae+Fbe*cosd(E1)+Fce*cosd(E2)
-Fcd= (-Fc-Fbc*cosd(90-E2-D))/cosd(90-E)
+Fcd= (-Fc-Fbc*cosd(90-E2-D))/cosd(90-E1)
 //RESULTS
 printf ('Ax= %.3f lb',Ax)
 printf (' \n Ay=%.2f lb',Ay)

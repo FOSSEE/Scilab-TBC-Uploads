@@ -21,7 +21,7 @@ f=(0.9:0.00001:1.1)*1e6;
 w=2*%pi*f;
 
 //find abmittance of the resonator
-Y=%i.*w*C0+1./(Rq+%i*(w*Lq-1./(w*Cq)));
+Y=%i.*w*C0+1.0./(Rq+%i*(w*Lq-1.0./(w*Cq)));
 
 plot(f/1e6,abs(imag(Y)));
 mtlb_axis([0.9 1.1 1e-10 1e-1]);

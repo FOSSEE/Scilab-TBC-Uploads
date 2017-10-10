@@ -8,6 +8,6 @@ L = 4;  // Length of the sequence
 N = 4;  // N -point DFT
 x = [0,1,2,3];
 //Computing DFT 
-X = dft(x,-1)
+X = fft(x,-1)
 //Computing IDFT
-x_inv = real(dft(X,1))
+x_inv = real(fft(X,1))

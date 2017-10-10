@@ -29,13 +29,23 @@ Mo=[-1464.8652,2509.3333]
 M_max=R_l*a*0.5 //N.m
 //Plotting
 subplot(221)
-plot(x,V1,xv,V2,x0,0)
+plot(x,V1)
+mtlb_hold on
+plot(xv,V2*ones(length(xv),1))
+plot(x0,zeros(length(x0),1))
+mtlb_hold off
 xtitle('Shear Force Diagram',"Span","Shear Force")
 subplot(222)
-plot(x,M1,x1,M2,x2,M3,x0,0,xo,Mo)
+plot(x,M1)
+mtlb_hold on
+plot(x1,M2)
+plot(x2,M3)
+plot(x0,zeros(length(x0),1))
+plot(xo,Mo)
+mtlb_hold off
 xtitle('Bending Moment Diagram',"Span","Bending Moment")
 //Result
-clc
+
 printf('The value of reactions are R_l=%fN and R_r=%fN\n',R_l,R_r)
 printf('The point of maximum bending moment is %f meters from left support nad maximum bending moment is %fN-m\n',a,M_max)
 printf('The bending moment and shear force diagrams have been plotted')

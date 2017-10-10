@@ -12,5 +12,7 @@ subplot(221)
 plot(L1,B)
 xtitle("Bending Moment Diagram","Span","Bending Moment")
 subplot(222)
-plot(L,S,L,0)
+plot(L,S)
+mtlb_hold on
+plot(L, zeros(length(L),1))
 xtitle("Shear Force Diagram","Span","Shear Force")

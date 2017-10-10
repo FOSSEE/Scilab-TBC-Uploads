@@ -9,8 +9,5 @@ for i= 1:10
 
 end
 Q= [qb(1),qb(2),qb(3),qb(4),qb(5),qb(6),qb(7),qb(8),qb(9),qb(10)];//
-SD=st_deviation(Q);//standard deviation
+SD=stdev(Q);//standard deviation
 disp(SD,"standard deviation in volts")
-
-
-

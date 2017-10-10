@@ -3,6 +3,7 @@
 //page 769
 printf("\n")
 printf("given")
+Vo=12.0;
 Vr1=3;Ic2=1*10^-3;Ib3=.21*10^-3;Vbe1=.7;Vbe3=Vbe1;Vs=20;
 R1=Vr1/(Ic2+Ib3)
 Vz2=Vo+Vbe1+Vbe3+Vr1

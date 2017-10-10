@@ -6,13 +6,14 @@ f1 = 50; // in Hz
 t1 = 0.0005; // in m
 x = 1/3;
 f2 = 250; // in Hz
-
+//Assigning a sample value to Bm1
+Bm1 = 1;
 //calculation: 
 //Pe = ke*(Bm1*f1*t1)^2
 //Hence, at 50 Hz frequency
 ke = Pe/(Bm1*f1*t1)^2
 //At 250 Hz frequency
-Bm2 = x*Bm1
+//Bm2 = x*Bm1
 t2 = ((Pe/ke)^0.5)/(Bm2*f2)
 
 printf("\n\n Result \n\n")

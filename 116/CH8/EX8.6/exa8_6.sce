@@ -1,6 +1,4 @@
-  
-//Caption:Program to determine the range of SPE data rates that can be accomodated by the byte stuffing operation
- 
+
 //Example 8.6
 
 //Page 415
@@ -9,7 +7,7 @@ frames=4*9*87//Four SPE frames
 
 rate=8*frames*2000//normal rate SPE
 
-disp('When positive byte stuffing is used to accomodate a slow incoming SPE rate, 3131 bytes of data are transmitted in four frames. Thus, the lowest slip rate is')
+
  
 Rmin=8*3131*2000//minimum SPE rate
 

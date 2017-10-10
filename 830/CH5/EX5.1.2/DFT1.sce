@@ -11,15 +11,15 @@ for n =0:L-1
   x(n+1) = 1;
 end
 //Computing DFT and IDFT
-X = dft(x,-1)
-x_inv =abs(dft(X,1))
+X = fft(x,-1)
+x_inv =abs(fft(X,1))
 //Computing Magnitude and Phase Spectrum
 //Using DTFT
 n = 0:L-1;
 K = 500;
 k = 0:1:K;
 w = 2*%pi*k/K;
-X_W = x * exp(-sqrt(-1)*n'*w);
+X_W = x' * exp(-sqrt(-1)*n'*w);
 Mag_X = abs(X_W);
 //phasemag used to calculate phase and magnitude in dB
 Phase_X = atan(imag(X_W),real(X_W))
@@ -31,5 +31,5 @@ title('Magnitude Response')
 subplot(2,1,2)
 plot2d(w,Phase_X)
 xlabel('Frequency in Radians')
-ylabel('<(X)')
+ylabel('&lt;(X)')
 title('Phase Response')

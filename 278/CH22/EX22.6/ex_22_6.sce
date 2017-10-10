@@ -1,5 +1,4 @@
-//find...
-clc
+
 //solution
 //given
 N=300//rpm

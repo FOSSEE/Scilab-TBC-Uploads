@@ -1,4 +1,4 @@
-//design knucle joint
+
 clc
 //solution
 //given

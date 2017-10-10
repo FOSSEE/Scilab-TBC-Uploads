@@ -1,6 +1,8 @@
 //calculate firing angle value
 
 clc;
+clear
+ V = 220;
 Po=15000;
 Ro=1.5;
 Va=sqrt(Po*Ro);

@@ -8,7 +8,7 @@ printf("1 Resistance are in ohms \n 2 Current are in ampere \n 3 voltage sources
 Vimin=13
 Vimax=17
 //Load current
-ILmin-0
+ILmin=0
 ILmax=10*10^-3
 //regulated output voltage
 Vo=10

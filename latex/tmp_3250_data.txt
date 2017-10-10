@@ -1,0 +1,142 @@
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.4#Calculation of time required to develop the PMMA resist#Ex7_4.sce#3250/CH7/EX7.4/Ex7_4.sce#S##113520
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.4#Calculation of time required to develop the PMMA resist#Ex7_4.txt#3250/CH7/EX7.4/Ex7_4.txt#R##112037
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.3#Calculation of minimum level of exposure of the PMMA surface#Ex7_3.sce#3250/CH7/EX7.3/Ex7_3.sce#S##113519
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.3#Calculation of minimum level of exposure of the PMMA surface#Ex7_3.txt#3250/CH7/EX7.3/Ex7_3.txt#R##112036
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.2#Calculation of time required to machine the hole #Ex7_2.sce#3250/CH7/EX7.2/Ex7_2.sce#S##113518
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.2#Calculation of time required to machine the hole #Ex7_2.txt#3250/CH7/EX7.2/Ex7_2.txt#R##112035
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.1#Calculation of maximum allowable wavelength of the exposing light#Ex7_1.sce#3250/CH7/EX7.1/Ex7_1.sce#S##113517
+7#MANUFACTURING IN TWENTY FIRST CENTURY MICROMACHINING GENERATIVE MANUFACTURING AND SELF ASSEMBLY#7.1#Calculation of maximum allowable wavelength of the exposing light#Ex7_1.txt#3250/CH7/EX7.1/Ex7_1.txt#R##112033
+6#UNCONVENTIONAL MACHINING PROCESSES#6.9#Calculation of time required to complete drilling operation#Ex6_9.sce#3250/CH6/EX6.9/Ex6_9.sce#S##113507
+6#UNCONVENTIONAL MACHINING PROCESSES#6.9#Calculation of time required to complete drilling operation#Ex6_9.txt#3250/CH6/EX6.9/Ex6_9.txt#R##112023
+6#UNCONVENTIONAL MACHINING PROCESSES#6.8#Calculation of equation of required tool geometry#Ex6_8.sce#3250/CH6/EX6.8/Ex6_8.sce#S##113506
+6#UNCONVENTIONAL MACHINING PROCESSES#6.8#Calculation of equation of required tool geometry#Ex6_8.txt#3250/CH6/EX6.8/Ex6_8.txt#R##112022
+6#UNCONVENTIONAL MACHINING PROCESSES#6.7#Calculation of total force actin on the tool#Ex6_7.sce#3250/CH6/EX6.7/Ex6_7.sce#S##113505
+6#UNCONVENTIONAL MACHINING PROCESSES#6.7#Calculation of total force actin on the tool#Ex6_7.txt#3250/CH6/EX6.7/Ex6_7.txt#R##112021
+6#UNCONVENTIONAL MACHINING PROCESSES#6.6#Calculation of largest passible feed rate#Ex6_6.sce#3250/CH6/EX6.6/Ex6_6.sce#S##113504
+6#UNCONVENTIONAL MACHINING PROCESSES#6.6#Calculation of largest passible feed rate#Ex6_6.txt#3250/CH6/EX6.6/Ex6_6.txt#R##112020
+6#UNCONVENTIONAL MACHINING PROCESSES#6.5#Calculation of equilibrium gap#Ex6_5.sce#3250/CH6/EX6.5/Ex6_5.sce#S##113503
+6#UNCONVENTIONAL MACHINING PROCESSES#6.5#Calculation of equilibrium gap#Ex6_5.txt#3250/CH6/EX6.5/Ex6_5.txt#R##112019
+6#UNCONVENTIONAL MACHINING PROCESSES#6.4#Calculation of removal rate#Ex6_4.sce#3250/CH6/EX6.4/Ex6_4.sce#S##113502
+6#UNCONVENTIONAL MACHINING PROCESSES#6.4#Calculation of removal rate#Ex6_4.txt#3250/CH6/EX6.4/Ex6_4.txt#R##112018
+6#UNCONVENTIONAL MACHINING PROCESSES#6.3#Calculation of current required#Ex6_3.sce#3250/CH6/EX6.3/Ex6_3.sce#S##113501
+6#UNCONVENTIONAL MACHINING PROCESSES#6.3#Calculation of current required#Ex6_3.txt#3250/CH6/EX6.3/Ex6_3.txt#R##112017
+6#UNCONVENTIONAL MACHINING PROCESSES#6.2#Calculation of percentage change in cutting time#Ex6_2.sce#3250/CH6/EX6.2/Ex6_2.sce#S##113500
+6#UNCONVENTIONAL MACHINING PROCESSES#6.2#Calculation of percentage change in cutting time#Ex6_2.txt#3250/CH6/EX6.2/Ex6_2.txt#R##112016
+6#UNCONVENTIONAL MACHINING PROCESSES#6.17#Calculation of time#Ex6_17.sce#3250/CH6/EX6.17/Ex6_17.sce#S##113516
+6#UNCONVENTIONAL MACHINING PROCESSES#6.17#Calculation of time#Ex6_17.txt#3250/CH6/EX6.17/Ex6_17.txt#R##112032
+6#UNCONVENTIONAL MACHINING PROCESSES#6.16#Calculation of minimum value of beam power intensity#Ex6_16.sce#3250/CH6/EX6.16/Ex6_16.sce#S##113514
+6#UNCONVENTIONAL MACHINING PROCESSES#6.16#Calculation of minimum value of beam power intensity#Ex6_16.txt#3250/CH6/EX6.16/Ex6_16.txt#R##112031
+6#UNCONVENTIONAL MACHINING PROCESSES#6.15#Calculation of time#Ex6_15.sce#3250/CH6/EX6.15/Ex6_15.sce#S##113513
+6#UNCONVENTIONAL MACHINING PROCESSES#6.15#Calculation of time#Ex6_15.txt#3250/CH6/EX6.15/Ex6_15.txt#R##112030
+6#UNCONVENTIONAL MACHINING PROCESSES#6.14#Calculation of time#Ex6_14.sce#3250/CH6/EX6.14/Ex6_14.sce#S##113512
+6#UNCONVENTIONAL MACHINING PROCESSES#6.14#Calculation of time#Ex6_14.txt#3250/CH6/EX6.14/Ex6_14.txt#R##112029
+6#UNCONVENTIONAL MACHINING PROCESSES#6.13#Calculation of speed of cutting#Ex6_13.sce#3250/CH6/EX6.13/Ex6_13.sce#S##113511
+6#UNCONVENTIONAL MACHINING PROCESSES#6.13#Calculation of speed of cutting#Ex6_13.txt#3250/CH6/EX6.13/Ex6_13.txt#R##112028
+6#UNCONVENTIONAL MACHINING PROCESSES#6.12#Calculation of electron range#Ex6_12.sce#3250/CH6/EX6.12/Ex6_12.sce#S##113510
+6#UNCONVENTIONAL MACHINING PROCESSES#6.12#Calculation of electron range#Ex6_12.txt#3250/CH6/EX6.12/Ex6_12.txt#R##112027
+6#UNCONVENTIONAL MACHINING PROCESSES#6.11#Calculation of speed of cutting#Ex6_11.sce#3250/CH6/EX6.11/Ex6_11.sce#S##113509
+6#UNCONVENTIONAL MACHINING PROCESSES#6.11#Calculation of speed of cutting#Ex6_11.txt#3250/CH6/EX6.11/Ex6_11.txt#R##112025
+6#UNCONVENTIONAL MACHINING PROCESSES#6.10#Calculation of surface roughness#Ex6_10.sce#3250/CH6/EX6.10/Ex6_10.sce#S##113508
+6#UNCONVENTIONAL MACHINING PROCESSES#6.10#Calculation of surface roughness#Ex6_10.txt#3250/CH6/EX6.10/Ex6_10.txt#R##112024
+6#UNCONVENTIONAL MACHINING PROCESSES#6.1#Calculation of time#Ex6_1.sce#3250/CH6/EX6.1/Ex6_1.sce#S##113499
+6#UNCONVENTIONAL MACHINING PROCESSES#6.1#Calculation of time#Ex6_1.txt#3250/CH6/EX6.1/Ex6_1.txt#R##112015
+5#JOINING PROCESSES#5.4#Calculation of maximum shear stress#Ex5_4.sce#3250/CH5/EX5.4/Ex5_4.sce#S##113498
+5#JOINING PROCESSES#5.4#Calculation of maximum shear stress#Ex5_4.txt#3250/CH5/EX5.4/Ex5_4.txt#R##112014
+5#JOINING PROCESSES#5.3#Calculation of maximum  passible welding speed#Ex5_3.sce#3250/CH5/EX5.3/Ex5_3.sce#S##113497
+5#JOINING PROCESSES#5.3#Calculation of maximum  passible welding speed#Ex5_3.txt#3250/CH5/EX5.3/Ex5_3.txt#R##112013
+5#JOINING PROCESSES#5.2#Calculation of rate of heat generated per unit area#Ex5_2.sce#3250/CH5/EX5.2/Ex5_2.sce#S##113496
+5#JOINING PROCESSES#5.2#Calculation of rate of heat generated per unit area#Ex5_2.txt#3250/CH5/EX5.2/Ex5_2.txt#R##112012
+5#JOINING PROCESSES#5.1#Calculation of maximum power of the arc#Ex5_1.sce#3250/CH5/EX5.1/Ex5_1.sce#S##113493
+5#JOINING PROCESSES#5.1#Calculation of maximum power of the arc#Ex5_1.txt#3250/CH5/EX5.1/Ex5_1.txt#R##112011
+4#FORMING PROCESSES#4.9#Calculation of three components of machining force #Ex4_9.sce#3250/CH4/EX4.9/Ex4_9.sce#S##113473
+4#FORMING PROCESSES#4.9#Calculation of three components of machining force #Ex4_9.txt#3250/CH4/EX4.9/Ex4_9.txt#R##111990
+4#FORMING PROCESSES#4.8#Calculation of percentage increase in tool life#Ex4_8.sce#3250/CH4/EX4.8/Ex4_8.sce#S##113472
+4#FORMING PROCESSES#4.8#Calculation of percentage increase in tool life#Ex4_8.txt#3250/CH4/EX4.8/Ex4_8.txt#R##111989
+4#FORMING PROCESSES#4.7#Calculation of maximum speed at which cutting is passible #Ex4_7.sce#3250/CH4/EX4.7/Ex4_7.sce#S##113470
+4#FORMING PROCESSES#4.7#Calculation of maximum speed at which cutting is passible #Ex4_7.txt#3250/CH4/EX4.7/Ex4_7.txt#R##111988
+4#FORMING PROCESSES#4.6#Calculation of maximum temperature along the rake face#Ex4_6.sce#3250/CH4/EX4.6/Ex4_6.sce#S##113471
+4#FORMING PROCESSES#4.6#Calculation of maximum temperature along the rake face#Ex4_6.txt#3250/CH4/EX4.6/Ex4_6.txt#R##111987
+4#FORMING PROCESSES#4.5#Calculation of cutting force#Ex4_5.sce#3250/CH4/EX4.5/Ex4_5.sce#S##113469
+4#FORMING PROCESSES#4.5#Calculation of cutting force#Ex4_5.txt#3250/CH4/EX4.5/Ex4_5.txt#R##111986
+4#FORMING PROCESSES#4.4#Calculation of shear angle and cutting force and thrust force#Ex4_4.sce#3250/CH4/EX4.4/Ex4_4.sce#S##113468
+4#FORMING PROCESSES#4.4#Calculation of shear angle and cutting force and thrust force#Ex4_4.txt#3250/CH4/EX4.4/Ex4_4.txt#R##111985
+4#FORMING PROCESSES#4.3#Calculation of shear angle and cutting and trust force #Ex4_3.sce#3250/CH4/EX4.3/Ex4_3.sce#S##113467
+4#FORMING PROCESSES#4.3#Calculation of shear angle and cutting and trust force #Ex4_3.txt#3250/CH4/EX4.3/Ex4_3.txt#R##111984
+4#FORMING PROCESSES#4.28#Calculation of optimum cutting speed#Ex4_28.sce#3250/CH4/EX4.28/Ex4_28.sce#S##113492
+4#FORMING PROCESSES#4.28#Calculation of optimum cutting speed#Ex4_28.txt#3250/CH4/EX4.28/Ex4_28.txt#R##112009
+4#FORMING PROCESSES#4.27#Calculation of cost#Ex4_27.sce#3250/CH4/EX4.27/Ex4_27.sce#S##113491
+4#FORMING PROCESSES#4.27#Calculation of cost#Ex4_27.txt#3250/CH4/EX4.27/Ex4_27.txt#R##112008
+4#FORMING PROCESSES#4.26#Calculation of cutting speed#Ex4_26.sce#3250/CH4/EX4.26/Ex4_26.sce#S##113495
+4#FORMING PROCESSES#4.26#Calculation of cutting speed#Ex4_26.txt#3250/CH4/EX4.26/Ex4_26.txt#R##112007
+4#FORMING PROCESSES#4.25#Calculation of maximum height of unevenness#Ex4_25.sce#3250/CH4/EX4.25/Ex4_25.sce#S##113490
+4#FORMING PROCESSES#4.25#Calculation of maximum height of unevenness#Ex4_25.txt#3250/CH4/EX4.25/Ex4_25.txt#R##112006
+4#FORMING PROCESSES#4.24#Calculation of maximum height of unevenness#Ex4_24.sce#3250/CH4/EX4.24/Ex4_24.sce#S##113489
+4#FORMING PROCESSES#4.24#Calculation of maximum height of unevenness#Ex4_24.txt#3250/CH4/EX4.24/Ex4_24.txt#R##112005
+4#FORMING PROCESSES#4.22#Calculation of required depth of cut and feed#Ex4_22.sce#3250/CH4/EX4.22/Ex4_22.sce#S##113487
+4#FORMING PROCESSES#4.22#Calculation of required depth of cut and feed#Ex4_22.txt#3250/CH4/EX4.22/Ex4_22.txt#R##112004
+4#FORMING PROCESSES#4.21#Calculation of grinding force#Ex4_21.sce#3250/CH4/EX4.21/Ex4_21.sce#S##113486
+4#FORMING PROCESSES#4.21#Calculation of grinding force#Ex4_21.txt#3250/CH4/EX4.21/Ex4_21.txt#R##112003
+4#FORMING PROCESSES#4.20#Calculation of power required#Ex4_20.sce#3250/CH4/EX4.20/Ex4_20.sce#S##113485
+4#FORMING PROCESSES#4.20#Calculation of power required#Ex4_20.txt#3250/CH4/EX4.20/Ex4_20.txt#R##112002
+4#FORMING PROCESSES#4.2#Calculation of coefficient of friction and ultimate shear stress #Ex4_2.sce#3250/CH4/EX4.2/Ex4_2.sce#S##113466
+4#FORMING PROCESSES#4.2#Calculation of coefficient of friction and ultimate shear stress #Ex4_2.txt#3250/CH4/EX4.2/Ex4_2.txt#R##111983
+4#FORMING PROCESSES#4.19#Calculation of peak broaching load#Ex4_19.sce#3250/CH4/EX4.19/Ex4_19.sce#S##113484
+4#FORMING PROCESSES#4.19#Calculation of peak broaching load#Ex4_19.txt#3250/CH4/EX4.19/Ex4_19.txt#R##112001
+4#FORMING PROCESSES#4.18#Calculation of power required#Ex4_18.sce#3250/CH4/EX4.18/Ex4_18.sce#S##113483
+4#FORMING PROCESSES#4.18#Calculation of power required#Ex4_18.txt#3250/CH4/EX4.18/Ex4_18.txt#R##112000
+4#FORMING PROCESSES#4.17#Calculation of power required#Ex4_17.sce#3250/CH4/EX4.17/Ex4_17.sce#S##113481
+4#FORMING PROCESSES#4.17#Calculation of power required#Ex4_17.txt#3250/CH4/EX4.17/Ex4_17.txt#R##111999
+4#FORMING PROCESSES#4.16#Calculation of power required#Ex4_16.sce#3250/CH4/EX4.16/Ex4_16.sce#S##113480
+4#FORMING PROCESSES#4.16#Calculation of power required#Ex4_16.txt#3250/CH4/EX4.16/Ex4_16.txt#R##111996
+4#FORMING PROCESSES#4.15#Calculation of power consumption#Ex4_15.sce#3250/CH4/EX4.15/Ex4_15.sce#S##113479
+4#FORMING PROCESSES#4.15#Calculation of power consumption#Ex4_15.txt#3250/CH4/EX4.15/Ex4_15.txt#R##111995
+4#FORMING PROCESSES#4.14#Calculation of drilling torque and thrust force#Ex4_14.sce#3250/CH4/EX4.14/Ex4_14.sce#S##113478
+4#FORMING PROCESSES#4.14#Calculation of drilling torque and thrust force#Ex4_14.txt#3250/CH4/EX4.14/Ex4_14.txt#R##111994
+4#FORMING PROCESSES#4.12#Calculation of component of the machining force and feed force component#Ex4_12.sce#3250/CH4/EX4.12/Ex4_12.sce#S##113477
+4#FORMING PROCESSES#4.12#Calculation of component of the machining force and feed force component#Ex4_12.txt#3250/CH4/EX4.12/Ex4_12.txt#R##111993
+4#FORMING PROCESSES#4.11#Calculation of normal rake angle#Ex4_11.sce#3250/CH4/EX4.11/Ex4_11.sce#S##113476
+4#FORMING PROCESSES#4.11#Calculation of normal rake angle#Ex4_11.txt#3250/CH4/EX4.11/Ex4_11.txt#R##111992
+4#FORMING PROCESSES#4.10#Calculation of average power consumption and specific power consumption#Ex4_10.sce#3250/CH4/EX4.10/Ex4_10.sce#S##113474
+4#FORMING PROCESSES#4.10#Calculation of average power consumption and specific power consumption#Ex4_10.txt#3250/CH4/EX4.10/Ex4_10.txt#R##111991
+4#FORMING PROCESSES#4.1#Calculation of shear plane angle and shear strain#Ex4_1.sce#3250/CH4/EX4.1/Ex4_1.sce#S##113465
+4#FORMING PROCESSES#4.1#Calculation of shear plane angle and shear strain#Ex4_1.txt#3250/CH4/EX4.1/Ex4_1.txt#R##111982
+3#FORMING PROCESSES#3.9#Calculation of maximum bending force and required punch angle#Ex3_9.sce#3250/CH3/EX3.9/Ex3_9.sce#S##113461
+3#FORMING PROCESSES#3.9#Calculation of maximum bending force and required punch angle#Ex3_9.txt#3250/CH3/EX3.9/Ex3_9.txt#R##111978
+3#FORMING PROCESSES#3.8#Calculation of drawing force and minimum passible radius of the cup which can drawn#Ex3_8.sce#3250/CH3/EX3.8/Ex3_8.sce#S##113460
+3#FORMING PROCESSES#3.8#Calculation of drawing force and minimum passible radius of the cup which can drawn#Ex3_8.txt#3250/CH3/EX3.8/Ex3_8.txt#R##111977
+3#FORMING PROCESSES#3.7#Calculation of drawing power and maximum passible reduction in die#Ex3_7.sce#3250/CH3/EX3.7/Ex3_7.sce#S##113459
+3#FORMING PROCESSES#3.7#Calculation of drawing power and maximum passible reduction in die#Ex3_7.txt#3250/CH3/EX3.7/Ex3_7.txt#R##111976
+3#FORMING PROCESSES#3.6#Calculation of maximum forging force#Ex3_6.sce#3250/CH3/EX3.6/Ex3_6.sce#S##113458
+3#FORMING PROCESSES#3.6#Calculation of maximum forging force#Ex3_6.txt#3250/CH3/EX3.6/Ex3_6.txt#R##111975
+3#FORMING PROCESSES#3.5#Calculation of maximum forging force#Ex3_5.sce#3250/CH3/EX3.5/Ex3_5.sce#S##113457
+3#FORMING PROCESSES#3.5#Calculation of maximum forging force#Ex3_5.txt#3250/CH3/EX3.5/Ex3_5.txt#R##111973
+3#FORMING PROCESSES#3.4#Calculation of maximum forging force#Ex3_4.sce#3250/CH3/EX3.4/Ex3_4.sce#S##113456
+3#FORMING PROCESSES#3.4#Calculation of maximum forging force#Ex3_4.txt#3250/CH3/EX3.4/Ex3_4.txt#R##111972
+3#FORMING PROCESSES#3.3#Calculation of mill power#Ex3_3.sce#3250/CH3/EX3.3/Ex3_3.sce#S##113455
+3#FORMING PROCESSES#3.3#Calculation of mill power#Ex3_3.txt#3250/CH3/EX3.3/Ex3_3.txt#R##111971
+3#FORMING PROCESSES#3.2#Calculation of roll separating force and power required in the rolling process#Ex3_2.sce#3250/CH3/EX3.2/Ex3_2.sce#S##113454
+3#FORMING PROCESSES#3.2#Calculation of roll separating force and power required in the rolling process#Ex3_2.txt#3250/CH3/EX3.2/Ex3_2.txt#R##111970
+3#FORMING PROCESSES#3.12#Calculation of proper clearance between die and punch and maximum punching force and energy required to punch and die#Ex3_12.sce#3250/CH3/EX3.12/Ex3_12.sce#S##113464
+3#FORMING PROCESSES#3.12#Calculation of proper clearance between die and punch and maximum punching force and energy required to punch and die#Ex3_12.txt#3250/CH3/EX3.12/Ex3_12.txt#R##111981
+3#FORMING PROCESSES#3.11#Calculation of maximum force required for extruding the billet and percent of the total input lost#Ex3_11.sce#3250/CH3/EX3.11/Ex3_11.sce#S##113463
+3#FORMING PROCESSES#3.11#Calculation of maximum force required for extruding the billet and percent of the total input lost#Ex3_11.txt#3250/CH3/EX3.11/Ex3_11.txt#R##111980
+3#FORMING PROCESSES#3.10#Calculation of minimum value of die length and minimum required capacity of machine#Ex3_10.sce#3250/CH3/EX3.10/Ex3_10.sce#S##113462
+3#FORMING PROCESSES#3.10#Calculation of minimum value of die length and minimum required capacity of machine#Ex3_10.txt#3250/CH3/EX3.10/Ex3_10.txt#R##111979
+3#FORMING PROCESSES#3.1#Calculation of strip thickness and average shear yield stress and angle subtended by deformation zone and location of neutral point#Ex3_1.sce#3250/CH3/EX3.1/Ex3_1.sce#S##113453
+3#FORMING PROCESSES#3.1#Calculation of strip thickness and average shear yield stress and angle subtended by deformation zone and location of neutral point#Ex3_1.txt#3250/CH3/EX3.1/Ex3_1.txt#R##111969
+2#CASTING PROCESSES#2.9#Calculation of riser volume#Ex2_9.sce#3250/CH2/EX2.9/Ex2_9.sce#S##113452
+2#CASTING PROCESSES#2.9#Calculation of riser volume#Ex2_9.txt#3250/CH2/EX2.9/Ex2_9.txt#R##111968
+2#CASTING PROCESSES#2.8#Calculation of mould length and cooling water requirement#Ex2_8.sce#3250/CH2/EX2.8/Ex2_8.sce#S##113451
+2#CASTING PROCESSES#2.8#Calculation of mould length and cooling water requirement#Ex2_8.txt#3250/CH2/EX2.8/Ex2_8.txt#R##111967
+2#CASTING PROCESSES#2.7#Calculation of solidification time and surface temperature#Ex2_7.sce#3250/CH2/EX2.7/Ex2_7.sce#S##113450
+2#CASTING PROCESSES#2.7#Calculation of solidification time and surface temperature#Ex2_7.txt#3250/CH2/EX2.7/Ex2_7.txt#R##111966
+2#CASTING PROCESSES#2.6#Calculation of solidification time and surface temperature#Ex2_6.sce#3250/CH2/EX2.6/Ex2_6.sce#S##113449
+2#CASTING PROCESSES#2.6#Calculation of solidification time and surface temperature#Ex2_6.txt#3250/CH2/EX2.6/Ex2_6.txt#R##111965
+2#CASTING PROCESSES#2.5#Calculation of solidification time#Ex2_5.sce#3250/CH2/EX2.5/Ex2_5.sce#S##113448
+2#CASTING PROCESSES#2.5#Calculation of solidification time#Ex2_5.txt#3250/CH2/EX2.5/Ex2_5.txt#R##111964
+2#CASTING PROCESSES#2.3#Calculation of time and discharge rate#Ex2_3.sce#3250/CH2/EX2.3/Ex2_3.sce#S##113447
+2#CASTING PROCESSES#2.3#Calculation of time and discharge rate#Ex2_3.txt#3250/CH2/EX2.3/Ex2_3.txt#R##111963
+2#CASTING PROCESSES#2.2#Calculation of filling time#Ex2_2.sce#3250/CH2/EX2.2/Ex2_2.sce#S##113446
+2#CASTING PROCESSES#2.2#Calculation of filling time#Ex2_2.txt#3250/CH2/EX2.2/Ex2_2.txt#R##111961
+2#CASTING PROCESSES#1.1#Calculation of filling time#Ex2_1.sce#3250/CH2/EX1.1/Ex2_1.sce#S##113445
+2#CASTING PROCESSES#1.1#Calculation of filling time#Ex2_1.txt#3250/CH2/EX1.1/Ex2_1.txt#R##111960

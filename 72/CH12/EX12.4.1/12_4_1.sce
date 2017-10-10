@@ -1,4 +1,4 @@
-//CAPTION: Resistance_of_a_planar_resistor
+
 //chapter_no.-12,  page_no.-534
 //Example_no.12-4-1
 

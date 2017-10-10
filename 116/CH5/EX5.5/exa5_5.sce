@@ -1,11 +1,11 @@
 
-//Caption:Program to determine the implementaton complexity of a 131,072 channel
+
 
 //Example 5.5
  
 //Page 261
  
-disp('The space switch can be designed bt take the first space stage. A value of 32 is chosen as a convenient binary number.')
+
 
 n=32//binary w.r.t (N/2)^2
 

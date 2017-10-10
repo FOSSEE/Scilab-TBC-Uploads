@@ -1,4 +1,4 @@
-//CAPTION: Four-Cavity_Klystron
+
 //chapter_no.-9,  page_no.-385
 //Example_no.9-3-1
 

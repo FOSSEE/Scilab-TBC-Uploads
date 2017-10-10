@@ -1,15 +1,5 @@
 function[]=sortedsearch(a,n,ele)
-  if(a(1)>ele|a(n)<ele)
-    disp("NOT IN THE LIST");
-  else
-    i=1;
-    j=0;
-    for i=1:n
-      if(a(i)==ele)
-        printf("FOUND %d AT %d",ele,i);
-        j=1;
-      else
-        if(a(i)>ele)
+  if(a(1)&gt;ele|a(n)<ele) disp("not="" in="" the="" list");="" else="" i="1;" j="0;" for="" if(a(i)="=ele)" printf("found="" %d="" at="" %d",ele,i);="">ele)
           break;
         end
       end
@@ -22,4 +12,5 @@ endfunction
 //Calling Routine:
 a=[2 22 23 33 121 222 233]//a should be  sorted
 disp(a,"Given array");
-search(a,7,23)
+sortedsearch(a,7,23)
+</ele)>

@@ -10,5 +10,5 @@ Q_fu=3.20
 e_f=Q_f/E_f       //faliure strains of fibres
 e_m=Q_m/E_m         //faliure strains of matrix
 Q_m=E_m*e_f
-Q_cu =((Q_fu*V_f)+((Q_m*(1-V_f)))
-disp(Q_cu,'stress carried by composite at failure(GPa)')
+Q_cu =((Q_fu*V_f)+((Q_m*(1-V_f))))
+disp(Q_cu,'Stress carried by composite at failure(GPa)')

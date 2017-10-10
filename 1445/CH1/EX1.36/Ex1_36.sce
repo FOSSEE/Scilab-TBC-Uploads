@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 36
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 36");
 
@@ -25,6 +26,6 @@ req1=(r1*r4)/(r1+r4);
 req2=(r2*r3)/(r2+r3);
 rn=req1+req2;
 I1=(rn*In)/(rn+r5); 
-disp(sprintf("By Norton Theorem, the current through 1Ω resistor is %.3f A",I1));
+disp(sprintf("By Norton Theorem, the current through 1Ω resistor is %f A",I1));
 
 //END

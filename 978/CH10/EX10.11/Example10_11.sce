@@ -5,7 +5,7 @@ f=1000//supply frequency
 C1=0.04*10^-6//capacitance
 
 R1=220//resistance in arm-1
-
+R2 = 10*10^3 ;
 Lu=22*10^-3//inductance
 
 Ru=((2*%pi*f)^2)*C1*R1*Lu//resistance

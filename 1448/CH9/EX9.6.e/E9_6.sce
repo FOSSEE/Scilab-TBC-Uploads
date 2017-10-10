@@ -9,4 +9,4 @@ if(E>0)
     printf("The reaction is favouring products and E is %.2f V",E)
 else
     printf("The reaction is not favouring products and E is %.2f V",E)
-    
+end

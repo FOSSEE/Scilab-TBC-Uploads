@@ -40,8 +40,7 @@ t1=V1/SR;
 
 t12=[0:2*10^(-8):tau]
 
-vo3=0;
-
+vo3=0*ones(1,length(t12));
 plot(t12,vo3);
 
 t11=[tau:2*10^(-8):t1+tau];

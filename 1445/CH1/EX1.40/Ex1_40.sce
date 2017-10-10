@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 40
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 40");
 
@@ -28,6 +29,6 @@ disp("The currents (in Amperes) flowing in different branches are:");
 disp(I1);
 disp(I3);
 disp(I4);
-disp(sprintf("The total current is %.2f A",I)); 
+disp(sprintf("The total current is %f A",I)); 
 
 //END

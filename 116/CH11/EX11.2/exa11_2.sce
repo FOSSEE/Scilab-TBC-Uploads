@@ -1,6 +1,4 @@
-  
-//Caption:Program to determine the theoretical maximum data rate of a prefectly equalized voiceband modem
- 
+   
 //Example 11.2
  
 //Page 513

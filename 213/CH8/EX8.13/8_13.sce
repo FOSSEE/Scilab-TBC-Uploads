@@ -8,7 +8,7 @@ AB=150/1000,OC=700/1000,CD=200/1000 //m
 //Calculating the angular speed of the crank AB
 omegaAB=2*%pi*NBA/AB //rad/s
 //Calculating the velocity of B with respect to A
-vBA=omegaBA*AB //m/s
+vBA=omegaAB*AB //m/s
 //By measurement from the velocity diagram, Fig. 8.29(b),
 vD=2.15,vBBdash=1.05,vDC=0.45,vBdashO=1.55,vCO=2.15 //m/s
 BdashO=0.52 //m

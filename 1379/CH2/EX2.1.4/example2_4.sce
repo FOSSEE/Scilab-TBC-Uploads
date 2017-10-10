@@ -1,8 +1,7 @@
-
-
 //exapple 2.4 
 clc; funcprot(0);
-// Initialization of Variable
+// Initialization of Variables
+pi = %pi;
 M=28.05/1000;
 gamm=1.23;
 R=8.314;

@@ -4,6 +4,7 @@ clc;
 // VHF mobile radio system is given 
 Pt=100;//transmitted power
 f=150;//freq used in MHz
+c = 3*10^8;
 d1=20;//height of transmitting antenna in m
 Gt=1.64;//transmitting antenna gain
 ht=2;//height of receiving antenna in m

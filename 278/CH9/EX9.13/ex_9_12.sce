@@ -1,4 +1,4 @@
-//desing an economical joint
+
 clc
 //solution
 //given

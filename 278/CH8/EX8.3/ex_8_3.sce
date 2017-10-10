@@ -1,4 +1,4 @@
-//find out dimension of joint
+
 clc
 //solution
 //given

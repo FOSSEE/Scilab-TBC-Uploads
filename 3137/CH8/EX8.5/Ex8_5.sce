@@ -10,20 +10,23 @@ V=[-2000,-2000,990,990,-410,0] //lb
 B=[0,-10000,-4060,840,0]
 //Length matrix for shear force
 X_v=[0,5,5.0001,11,20.89999,20.9]
-//Length matrix for bendimg moment
+//Length matrix for bending moment
 X_b=[0,5,11,19.9,20.9]
 //Plotting
 subplot(221)
-plot(X_v,V,X_v,0)
+plot(X_v,V)
+mtlb_hold on
+plot(X_v,zeros(1,length(X_v)))
+mtlb_hold off
 xlabel("Shear Force Diagram","Span","Shear Force")
 subplot(222)
-plot(X_b,B,X_b,0)
+plot(X_b,B)
+mtlb_hold on
+plot(X_b,zeros(1,length(X_b)))
+mtlb_hold off
 xlabel("Bending Moment Diagram","Span","Bending Moment")
 //Result
 clc
 printf('The bending Moment and Shear Force diagrams have been plotted\n')
 //Note
 //The textbook does not specify the span and hence there seems to be a disagreement between the textbook and scilab solution.here the values have just been plotted
-
-
-

@@ -1,4 +1,4 @@
-clc();
+clc;
 clear;
 //Given:
 mu = 1.33; //Refractive index of water

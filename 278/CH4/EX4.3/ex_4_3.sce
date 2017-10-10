@@ -1,4 +1,3 @@
-//to find 1.)diameter of the rods,2.)extension in each rod in the length of 2.5m
 clc
 //solution
 //given

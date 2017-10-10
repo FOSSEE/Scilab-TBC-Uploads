@@ -1,4 +1,4 @@
-//clear//
+clear//
 //Caption:Program to Caculate Electric Field E at P due to 4 identical charges
 //Example2.2
 //page 33
@@ -9,13 +9,13 @@ P2 = [-1,1,0];
 P3 = [-1,-1,0];
 P4 = [1,-1,0];
 R1 = norm(P-P1);
-aR1 = UnitVector(P-P1);
+aR1 = (P-P1)/R1;
 R2  = norm(P-P2);
-aR2 = UnitVector(P-P2);
+aR2 = (P-P2)/R2;
 R3  = norm(P-P3);
-aR3 = UnitVector(P-P3);
+aR3 = (P-P3)/R3;
 R4  = norm(P-P4);
-aR4 = UnitVector(P-P4);
+aR4 = (P-P4)/R4;
 disp(R1,'R1=')
 disp(aR1,'aR1=')
 disp(R2,'R2=')
@@ -43,4 +43,4 @@ disp(E,'Electric Field Intesnity at any point P due to four identical Charges in
 //aR4=     0.    0.8944272    0.4472136  
 //Electric Field Intesnity at any point P due to four identical Charges in V/m=   
 //  6.8206048    6.8206048    32.785194  
-// 
+//

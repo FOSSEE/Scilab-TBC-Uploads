@@ -11,7 +11,7 @@ Zrl=10+5*%i
 
 Ic=Zrl/(Zc+Zrl)*I
 Vth=Ic*Zc
-Zth=parallel(Zc,Zrl)
+Zth=(Zc*Zrl)/(Zc+Zrl);
 In=Vth/Zth
 
-disp(Rth,In,Vth)
+disp(Zth,In,Vth)

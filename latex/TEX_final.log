@@ -1,21 +1,16 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.2.5)  24 JUN 2015 13:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  9 OCT 2017 21:56
 entering extended mode
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **TEX_final.tex
 (./TEX_final.tex
-LaTeX2e <2005/12/01>
-Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
-erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
- french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
-us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
-tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
-turkish, ukenglish, ukrainian, loaded.
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 
-(/usr/share/texmf/tex/latex/base/report.cls
-Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
-(/usr/share/texmf/tex/latex/base/size12.clo
-File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -30,276 +25,1175 @@ File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-(/usr/share/texmf/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen103
 \Hy@linkcounter=\count88
 \Hy@pagecounter=\count89
 
-(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 )
-(/usr/share/texmf/tex/latex/config/hyperref.cfg
+\Hy@SavedSpaceFactor=\count90
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
-HO)
-)
-Package hyperref Info: Hyper figures OFF on input line 2288.
-Package hyperref Info: Link nesting OFF on input line 2293.
-Package hyperref Info: Hyper index ON on input line 2296.
-Package hyperref Info: Plain pages OFF on input line 2303.
-Package hyperref Info: Backreferencing OFF on input line 2308.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count91
 
-Implicit mode ON; LaTeX internals redefined
-Package hyperref Info: Bookmarks ON on input line 2444.
-(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
-Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 2599.
-\Fld@menulength=\count90
-\Field@Width=\dimen104
-\Fld@charsize=\dimen105
-\Choice@toks=\toks15
-\Field@toks=\toks16
-Package hyperref Info: Hyper figures OFF on input line 3102.
-Package hyperref Info: Link nesting OFF on input line 3107.
-Package hyperref Info: Hyper index ON on input line 3110.
-Package hyperref Info: backreferencing OFF on input line 3117.
-Package hyperref Info: Link coloring OFF on input line 3122.
-\Hy@abspage=\count91
-\c@Item=\count92
-\c@Hfootnote=\count93
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count92
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
 )
-*hyperref using default driver hpdftex*
-(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
-\Fld@listcount=\count94
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 4.
 
-(/usr/share/texmf/tex/latex/tools/theorem.sty
-Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
-\theorem@style=\toks17
-\theorem@bodyfont=\toks18
-\theorempreskipamount=\skip43
-\theorempostskipamount=\skip44
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/share/texmf/tex/latex/tools/thp.sty
-File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+\BKM@id=\count98
 ))
-(/usr/share/texmf/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package hyperref Info: Option `colorlinks' set `true' on input line 5.
 
-(/usr/share/texmf/tex/latex/graphics/graphics.sty
-Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/theorem.sty
+Package: theorem 2014/10/28 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks15
+\theorem@bodyfont=\toks16
+\theorempreskipamount=\skip44
+\theorempostskipamount=\skip45
 
-(/usr/share/texmf/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/share/texmf/tex/latex/config/graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
-)
-Package graphics Info: Driver file: pdftex.def on input line 90.
-
-(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
-\Gread@gobject=\count95
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/thp.sty
+File: thp.sty 2014/10/28 v2.2c Theorem extension package (FMi)
 ))
-\Gin@req@height=\dimen106
-\Gin@req@width=\dimen107
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf/tex/latex/listings/listings.sty
-\lst@mode=\count96
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count100
 \lst@gtempboxa=\box26
-\lst@token=\toks19
-\lst@length=\count97
-\lst@currlwidth=\dimen108
-\lst@column=\count98
-\lst@pos=\count99
-\lst@lostspace=\dimen109
-\lst@width=\dimen110
-\lst@newlines=\count100
-\lst@lineno=\count101
-\c@lstlisting=\count102
-\lst@maxwidth=\dimen111
+\lst@token=\toks17
+\lst@length=\count101
+\lst@currlwidth=\dimen109
+\lst@column=\count102
+\lst@pos=\count103
+\lst@lostspace=\dimen110
+\lst@width=\dimen111
+\lst@newlines=\count104
+\lst@lineno=\count105
+\lst@maxwidth=\dimen112
 
-(/usr/share/texmf/tex/latex/listings/lstpatch.sty
-File: lstpatch.sty 2004/10/17 1.3b (Carsten Heinz)
-)
-(/usr/share/texmf/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
-\c@lstnumber=\count103
-\lst@skipnumbers=\count104
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count106
+\lst@skipnumbers=\count107
 \lst@framebox=\box27
 )
-(/usr/share/texmf/tex/latex/listings/listings.cfg
-File: listings.cfg 2004/09/05 1.3 listings configuration
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
-Package: listings 2004/10/17 1.3b (Carsten Heinz)
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(/usr/share/texmf/tex/latex/base/alltt.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/alltt.sty
 Package: alltt 1997/06/16 v2.0g defines alltt environment
 )
-(/usr/share/texmf/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2004/09/05 1.3 listings language file
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@codemass=\count105
-\c@accmass=\count106
- (./TEX_final.aux)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count108
+\calc@Bcount=\count109
+\calc@Adimen=\dimen113
+\calc@Bdimen=\dimen114
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count110
+\calc@Cskip=\skip48
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen115
+\AM@pageheight=\dimen116
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@global@opts=\toks18
+\AM@toc@title=\toks19
+\c@AM@survey=\count111
+\AM@templatesizebox=\box29
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforechapskip=\skip55
+\cftchapindent=\skip56
+\cftchapnumwidth=\skip57
+\cftbeforesecskip=\skip58
+\cftsecindent=\skip59
+\cftsecnumwidth=\skip60
+\cftbeforesubsecskip=\skip61
+\cftsubsecindent=\skip62
+\cftsubsecnumwidth=\skip63
+\cftbeforesubsubsecskip=\skip64
+\cftsubsubsecindent=\skip65
+\cftsubsubsecnumwidth=\skip66
+\cftbeforeparaskip=\skip67
+\cftparaindent=\skip68
+\cftparanumwidth=\skip69
+\cftbeforesubparaskip=\skip70
+\cftsubparaindent=\skip71
+\cftsubparanumwidth=\skip72
+\cftbeforeloftitleskip=\skip73
+\cftafterloftitleskip=\skip74
+\cftbeforefigskip=\skip75
+\cftfigindent=\skip76
+\cftfignumwidth=\skip77
+\c@lofdepth=\count112
+\c@lotdepth=\count113
+\cftbeforelottitleskip=\skip78
+\cftafterlottitleskip=\skip79
+\cftbeforetabskip=\skip80
+\cfttabindent=\skip81
+\cfttabnumwidth=\skip82
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+\c@codemass=\count114
+\c@accmass=\count115
+
+(./TEX_final.aux)
 \openout1 = `TEX_final.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring ON on input line 66.
 
-(/usr/share/texmf/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/share/texmf/tex/latex/config/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+\c@section@level=\count116
 )
-Package hyperref Info: Link coloring ON on input line 62.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
-(/usr/share/texmf/tex/latex/hyperref/nameref.sty
-Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen117
+\scratchbox=\box31
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen118
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texmf/tex/latex/oberdiek/refcount.sty
-Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-\c@section@level=\count107
-)
-LaTeX Info: Redefining \ref on input line 62.
-LaTeX Info: Redefining \pageref on input line 62.
- (./TEX_final.out)
-(./TEX_final.out)
-\@outlinefile=\write3
-\openout3 = `TEX_final.out'.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count123
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 64.
+(Font)              <20.74> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 64.
+(Font)              <14.4> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 64.
+(Font)              <12> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 64.
+(Font)              <7> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 64.
+(Font)              <10.95> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 64.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 64.
+(Font)              <6> on input line 68.
  [1
 
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): de
-stination with the same identifier (name{page.1}) has been already used, duplic
-ate ignored
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX w
+arning (ext4): destination with the same identifier (name{page.1}) has been alr
+eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 \newpage
+l.79 \newpage
               [1
 
 ] [2] (./TEX_final.toc)
-\tf@toc=\write4
-\openout4 = `TEX_final.toc'.
+\tf@toc=\write3
+\openout3 = `TEX_final.toc'.
 
- [3
-
-] (./TEX_final.cod)
-\tf@cod=\write5
-\openout5 = `TEX_final.cod'.
+ [3] (./TEX_final.cod)
+\tf@cod=\write4
+\openout4 = `TEX_final.cod'.
 
  [4
 
 ]
+(./TEX_final.lof)
+\tf@lof=\write5
+\openout5 = `TEX_final.lof'.
+
+ [5]
 Chapter 1.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 94.
-(../2075/CH1/EX1.1/pe1_1.sce) (../2075/CH1/EX1.2/pe1_2.sce [5
-
-])
-(../2075/CH1/EX1.3/pe1_3.sce) [6] (../2075/CH1/EX1.4/pe1_4.sce)
-(../2075/CH1/EX1.5/pe1_5.sce [7]) (../2075/CH1/EX1.6a/pe1_6a.sce [8])
-(../2075/CH1/EX1.6b/pe1_6b.sce [9]) (../2075/CH1/EX1.7/pe1_7.sce) [10]
-(../2075/CH1/EX1.9/pe1_9.sce) (../2075/CH1/EX1.11/pe1_11.sce [11]) [12]
-Chapter 2.
-(../2075/CH2/EX2.9/pe2_9.sce) [13
-
-]
-Chapter 3.
-(../2075/CH3/EX3.1/pe3_1.sce) (../2075/CH3/EX3.2/pe3_2.sce [14
-
-]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 13.
-
-(/usr/share/texmf/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
-) (../2075/CH3/EX3.3/pe3_3.sce)
-(../2075/CH3/EX3.4/pe3_4.sce [15]) (../2075/CH3/EX3.5/pe3_5.sce)
-(../2075/CH3/EX3.6/pe3_6.sce [16]) (../2075/CH3/EX3.7/pe3_7.sce)
-(../2075/CH3/EX3.8/pe3_8.sce [17]) (../2075/CH3/EX3.9/pe3_9.sce)
-(../2075/CH3/EX3.10/pe3_10.sce [18]) (../2075/CH3/EX3.11/pe3_11.sce) [19]
-Chapter 4.
-(../2075/CH4/EX4.1/pe4_1.sce) (../2075/CH4/EX4.2/pe4_2.sce [20
-
-])
-(../2075/CH4/EX4.3/pe4_3.sce) [21] (../2075/CH4/EX4.4/pe4_4.sce
+nput line 105.
+(../24/CH1/EX1.1/Example1_1.sce
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
 
-(/usr/share/texmf/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
-) [22] (../2075/CH4/EX4.5/pe4_5.sce) (../2075/CH4/EX4.6/pe4_6.sce [23]) (../207
-5/CH4/EX4.7/pe4_7.sce [24])
-(../2075/CH4/EX4.8/pe4_8.sce) (../2075/CH4/EX4.9/pe4_9.sce [25])
-(../2075/CH4/EX4.10/pe4_10.sce) (../2075/CH4/EX4.11/pe4_11.sce [26])
+)
+(../24/CH1/EX1.2/Example1_2.sce [6
 
-! Package Listings Error: File `../2075/CH4/EX4.12/pe4_12(.sce)' not found.
+]) (../24/CH1/EX1.3/Example1_3.sce)
+(../24/CH1/EX1.4/Example1_4.sce [7]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 12.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sce)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 12.
+) [8]
+Chapter 2.
+(../24/CH2/EX2.1.a/Example2_1a.sce)
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.331 ...putlisting{../2075/CH4/EX4.12/pe4_12.sce}
-                                                  ^^M
-*** (cannot \read from terminal in nonstop modes)
+LaTeX Warning: Reference `AP:275' on page 9 undefined on input line 155.
+
+(../24/CH2/EX2.1.b/Example2_1b.sce [9
+
+])
+
+LaTeX Warning: Reference `AP:275' on page 10 undefined on input line 168.
+
+
+LaTeX Warning: Reference `AP:276' on page 10 undefined on input line 170.
+
+(../24/CH2/EX2.1.c/Example2_1c.sce [10])
+<../24/CH2/EX2.1.c/Example2_1c_graph.jpg, id=153, 612.2875pt x 387.4475pt>
+File: ../24/CH2/EX2.1.c/Example2_1c_graph.jpg Graphic file (type jpg)
+
+<use ../24/CH2/EX2.1.c/Example2_1c_graph.jpg>
+Package pdftex.def Info: ../24/CH2/EX2.1.c/Example2_1c_graph.jpg used on input 
+line 185.
+(pdftex.def)             Requested size: 361.34999pt x 228.65707pt.
+
+
+LaTeX Warning: Reference `AP:275' on page 11 undefined on input line 190.
+
+
+LaTeX Warning: Reference `AP:276' on page 11 undefined on input line 192.
+
+[11] (../24/CH2/EX2.1.d/Example2_1d.sce) [12 <../24/CH2/EX2.1.c/Example2_1c_gra
+ph.jpg>] (../24/CH2/EX2.2/Example2_2.sce [13])
+<../24/CH2/EX2.2/Example2_2_graph.jpg, id=225, 612.2875pt x 387.4475pt>
+File: ../24/CH2/EX2.2/Example2_2_graph.jpg Graphic file (type jpg)
+
+<use ../24/CH2/EX2.2/Example2_2_graph.jpg>
+Package pdftex.def Info: ../24/CH2/EX2.2/Example2_2_graph.jpg used on input lin
+e 218.
+(pdftex.def)             Requested size: 361.34999pt x 228.65707pt.
+ (../24/CH2/EX2.3/Example2_3.sce)
+[14] (../24/CH2/EX2.4/Example2_4.sce [15 <../24/CH2/EX2.2/Example2_2_graph.jpg>
+]) (../24/CH2/EX2.5/Example2_5.sce) [16] (../24/CH2/EX2.6/Example2_6.sce
+[17]) (../24/CH2/EX2.7/Example2_7.sce [18]) [19]
+Chapter 3.
+(../24/CH3/EX3.1/Example3_1.sce) [20
+
+] (../24/CH3/EX3.2/Example3_2.sce)
+(../24/CH3/EX3.3/Example3_3.sce [21]) (../24/CH3/EX3.4/Example3_4.sce) [22]
+(../24/CH3/EX3.5/Example3_5.sce) (../24/CH3/EX3.6/Example3_6.sce [23])
+
+LaTeX Warning: Reference `AP:277' on page 24 undefined on input line 358.
+
+(../24/CH3/EX3.7/Example3_7.sce) [24]
+
+LaTeX Warning: Reference `AP:277' on page 25 undefined on input line 373.
+
+(../24/CH3/EX3.8/Example3_8.sce) [25]
+Chapter 4.
+(../24/CH4/EX4.1/Example4_1.sce) (../24/CH4/EX4.2.a/Example4_2a.sce [26
+
+])
+
+LaTeX Warning: Reference `AP:278' on page 27 undefined on input line 414.
+
+(../24/CH4/EX4.2.b/Example4_2b.sce [27])
+<../24/CH4/EX4.2.b/Example4_2b_graph.jpg, id=585, 612.2875pt x 461.725pt>
+File: ../24/CH4/EX4.2.b/Example4_2b_graph.jpg Graphic file (type jpg)
+
+<use ../24/CH4/EX4.2.b/Example4_2b_graph.jpg>
+Package pdftex.def Info: ../24/CH4/EX4.2.b/Example4_2b_graph.jpg used on input 
+line 429.
+(pdftex.def)             Requested size: 361.34999pt x 272.49289pt.
+
+
+LaTeX Warning: Reference `AP:278' on page 28 undefined on input line 434.
+
+(../24/CH4/EX4.3/Example4_3.sce [28] [29 <../24/CH4/EX4.2.b/Example4_2b_graph.j
+pg>])
+
+LaTeX Warning: Reference `AP:279' on page 30 undefined on input line 447.
+
+(../24/CH4/EX4.4/Example4_4.sce [30]) (../24/CH4/EX4.5/Example4_5.sce) [31]
+(../24/CH4/EX4.6/Example4_6.sce) [32] (../24/CH4/EX4.7/Example4_7.sce) [33]
+(../24/CH4/EX4.8/Example4_8.sce) [34] (../24/CH4/EX4.9/Example4_9.sce)
+(../24/CH4/EX4.10/Example4_10.sce [35]) (../24/CH4/EX4.11/Example4_11.sce
+[36]) [37]
+Chapter 5.
+(../24/CH5/EX5.1/Example5_1.sce) [38
+
+] (../24/CH5/EX5.2/Example5_2.sce) [39]
+(../24/CH5/EX5.3/Example5_3.sce) (../24/CH5/EX5.4/Example5_4.sce [40])
+(../24/CH5/EX5.5/Example5_5.sce)
+<../24/CH5/EX5.5/Example5_5_FBD.jpg, id=907, 376.40625pt x 275.52937pt>
+File: ../24/CH5/EX5.5/Example5_5_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH5/EX5.5/Example5_5_FBD.jpg>
+Package pdftex.def Info: ../24/CH5/EX5.5/Example5_5_FBD.jpg used on input line 
+614.
+(pdftex.def)             Requested size: 361.34999pt x 264.5262pt.
+ [41] (../24/CH5/EX5.6/Example5_6.sce
+[42 <../24/CH5/EX5.5/Example5_5_FBD.jpg>])
+<../24/CH5/EX5.6/Example5_6_FBD.jpg, id=953, 376.40625pt x 275.52937pt>
+File: ../24/CH5/EX5.6/Example5_6_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH5/EX5.6/Example5_6_FBD.jpg>
+Package pdftex.def Info: ../24/CH5/EX5.6/Example5_6_FBD.jpg used on input line 
+634.
+(pdftex.def)             Requested size: 361.34999pt x 264.5262pt.
+ (../24/CH5/EX5.7/Example5_7.sce
+[43] [44 <../24/CH5/EX5.6/Example5_6_FBD.jpg>])
+<../24/CH5/EX5.7/Example5_7_FBD.jpg, id=989, 376.40625pt x 275.52937pt>
+File: ../24/CH5/EX5.7/Example5_7_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH5/EX5.7/Example5_7_FBD.jpg>
+Package pdftex.def Info: ../24/CH5/EX5.7/Example5_7_FBD.jpg used on input line 
+654.
+(pdftex.def)             Requested size: 361.34999pt x 264.5262pt.
+ (../24/CH5/EX5.8/Example5_8.sce
+[45] [46 <../24/CH5/EX5.7/Example5_7_FBD.jpg>])
+<../24/CH5/EX5.8/Example5_8_FBD.jpg, id=1027, 376.40625pt x 275.52937pt>
+File: ../24/CH5/EX5.8/Example5_8_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH5/EX5.8/Example5_8_FBD.jpg>
+Package pdftex.def Info: ../24/CH5/EX5.8/Example5_8_FBD.jpg used on input line 
+672.
+(pdftex.def)             Requested size: 361.34999pt x 264.5262pt.
+ (../24/CH5/EX5.9/Example5_9.sce
+[47] [48 <../24/CH5/EX5.8/Example5_8_FBD.jpg>])
+<../24/CH5/EX5.9/Example5_9_FBD.jpg, id=1062, 376.40625pt x 275.52937pt>
+File: ../24/CH5/EX5.9/Example5_9_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH5/EX5.9/Example5_9_FBD.jpg>
+Package pdftex.def Info: ../24/CH5/EX5.9/Example5_9_FBD.jpg used on input line 
+690.
+(pdftex.def)             Requested size: 361.34999pt x 264.5262pt.
+ [49 <../24/CH5/EX5.9/Example5_9_FBD.jpg>]
+Chapter 6.
+(../24/CH6/EX6.1/Example6_1.sce) [50
+
+] (../24/CH6/EX6.2/Example6_2.sce)
+<../24/CH6/EX6.2/Example6_2_FBD.jpg, id=1096, 550.30594pt x 383.93437pt>
+File: ../24/CH6/EX6.2/Example6_2_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH6/EX6.2/Example6_2_FBD.jpg>
+Package pdftex.def Info: ../24/CH6/EX6.2/Example6_2_FBD.jpg used on input line 
+723.
+(pdftex.def)             Requested size: 361.34999pt x 252.11447pt.
+ (../24/CH6/EX6.3/Example6_3.sce
+[51] [52 <../24/CH6/EX6.2/Example6_2_FBD.jpg>])
+<../24/CH6/EX6.3/Example6_3_FBD.jpg, id=1133, 550.30594pt x 383.93437pt>
+File: ../24/CH6/EX6.3/Example6_3_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH6/EX6.3/Example6_3_FBD.jpg>
+Package pdftex.def Info: ../24/CH6/EX6.3/Example6_3_FBD.jpg used on input line 
+743.
+(pdftex.def)             Requested size: 361.34999pt x 252.11447pt.
+ [53 <../24/CH6/EX6.3/Example6_3_FBD.jpg>] (../24/CH6/EX6.4/Example6_4.sce) (..
+/24/CH6/EX6.5/Example6_5.sce [54])
+(../24/CH6/EX6.6/Example6_6.sce [55]) (../24/CH6/EX6.7/Example6_7.sce)
+(../24/CH6/EX6.8/Example6_8.sce [56])
+<../24/CH6/EX6.8/Example6_8_FBD.jpg, id=1240, 550.30594pt x 383.93437pt>
+File: ../24/CH6/EX6.8/Example6_8_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH6/EX6.8/Example6_8_FBD.jpg>
+Package pdftex.def Info: ../24/CH6/EX6.8/Example6_8_FBD.jpg used on input line 
+805.
+(pdftex.def)             Requested size: 361.34999pt x 252.11447pt.
+ [57 <../24/CH6/EX6.8/Example6_8_FBD.jpg>] (../24/CH6/EX6.9/Example6_9.sce)
+<../24/CH6/EX6.9/Example6_9_FBD.jpg, id=1255, 383.18156pt x 280.04625pt>
+File: ../24/CH6/EX6.9/Example6_9_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH6/EX6.9/Example6_9_FBD.jpg>
+Package pdftex.def Info: ../24/CH6/EX6.9/Example6_9_FBD.jpg used on input line 
+823.
+(pdftex.def)             Requested size: 361.34999pt x 264.10667pt.
+ [58] [59 <../24/CH6/EX6.9/Example6_9_FBD.jpg>]
+Chapter 7.
+(../24/CH7/EX7.1/Example7_1.sce) [60
+
+] (../24/CH7/EX7.2/Example7_2.sce [61])
+(../24/CH7/EX7.3/Example7_3.sce) [62] (../24/CH7/EX7.4/Example7_4.sce) [63]
+(../24/CH7/EX7.5/Example7_5.sce) (../24/CH7/EX7.6/Example7_6.sce [64])
+<../24/CH7/EX7.6/Example7_6_FBD.jpg, id=1426, 399.74344pt x 409.53pt>
+File: ../24/CH7/EX7.6/Example7_6_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH7/EX7.6/Example7_6_FBD.jpg>
+Package pdftex.def Info: ../24/CH7/EX7.6/Example7_6_FBD.jpg used on input line 
+902.
+(pdftex.def)             Requested size: 361.34999pt x 370.21706pt.
+ [65] [66 <../24/CH7/EX7.6/Example7_6_FBD.jpg>] (../24/CH7/EX7.7/Example7_7.sce
+) (../24/CH7/EX7.8/Example7_8.sce
+[67]) (../24/CH7/EX7.9/Example7_9.sce) (../24/CH7/EX7.10/Example7_10.sce
+[68]) [69]
+Chapter 8.
+(../24/CH8/EX8.1/Example8_1.sce) (../24/CH8/EX8.2/Example8_2.sce [70
+
+])
+(../24/CH8/EX8.3/Example8_3.sce [71]) (../24/CH8/EX8.4/Example8_4.sce)
+(../24/CH8/EX8.5/Example8_5.sce [72]) [73] (../24/CH8/EX8.6/Example8_6.sce)
+(../24/CH8/EX8.7/Example8_7.sce [74]) (../24/CH8/EX8.8/Example8_8.sce [75])
+[76]
+Chapter 9.
+(../24/CH9/EX9.1/Example9_1.sce)
+<../24/CH9/EX9.1/Example9_1_figure.jpg, id=1745, 422.32782pt x 329.73187pt>
+File: ../24/CH9/EX9.1/Example9_1_figure.jpg Graphic file (type jpg)
+
+<use ../24/CH9/EX9.1/Example9_1_figure.jpg>
+Package pdftex.def Info: ../24/CH9/EX9.1/Example9_1_figure.jpg used on input li
+ne 1060.
+(pdftex.def)             Requested size: 361.34999pt x 282.12994pt.
+ [77
+
+]
+(../24/CH9/EX9.2/Example9_2.sce [78 <../24/CH9/EX9.1/Example9_1_figure.jpg>])
+(../24/CH9/EX9.3/Example9_3.sce) [79] (../24/CH9/EX9.4/Example9_4.sce)
+(../24/CH9/EX9.5/Example9_5.sce) [80] (../24/CH9/EX9.6/Example9_6.sce)
+(../24/CH9/EX9.7/Example9_7.sce [81]) (../24/CH9/EX9.8/Example9_8.sce [82])
+(../24/CH9/EX9.9/Example9_9.sce) [83]
+Chapter 10.
+(../24/CH10/EX10.1/Example10_1.sce [84
+
+]) (../24/CH10/EX10.2/Example10_2.sce)
+[85] (../24/CH10/EX10.3/Example10_3.sce)
+
+LaTeX Warning: Reference `AP:280' on page 86 undefined on input line 1198.
+
+[86] (../24/CH10/EX10.4/Example10_4.sce) (../24/CH10/EX10.5/Example10_5.sce
+[87]) [88]
+Chapter 11.
+(../24/CH11/EX11.1/Example11_1.sce [89
+
+])
+<../24/CH11/EX11.1/Example11_1_graph.jpg, id=2081, 612.2875pt x 461.725pt>
+File: ../24/CH11/EX11.1/Example11_1_graph.jpg Graphic file (type jpg)
+
+<use ../24/CH11/EX11.1/Example11_1_graph.jpg>
+Package pdftex.def Info: ../24/CH11/EX11.1/Example11_1_graph.jpg used on input 
+line 1237.
+(pdftex.def)             Requested size: 361.34999pt x 272.49289pt.
+
+(../24/CH11/EX11.2/Example11_2.sce [90 <../24/CH11/EX11.1/Example11_1_graph.jpg
+>]) (../24/CH11/EX11.3/Example11_3.sce [91]) (../24/CH11/EX11.4/Example11_4.sce
+) [92] (../24/CH11/EX11.6/Example11_6.sce) (../24/CH11/EX11.7/Example11_7.sce
+[93])
+<../24/CH11/EX11.7/Example11_7_FBD.jpg, id=2194, 377.15906pt x 328.22626pt>
+File: ../24/CH11/EX11.7/Example11_7_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH11/EX11.7/Example11_7_FBD.jpg>
+Package pdftex.def Info: ../24/CH11/EX11.7/Example11_7_FBD.jpg used on input li
+ne 1299.
+(pdftex.def)             Requested size: 361.34999pt x 314.46758pt.
+ (../24/CH11/EX11.8/Example11_8.sce
+[94 <../24/CH11/EX11.7/Example11_7_FBD.jpg>])
+
+LaTeX Warning: Reference `AP:281' on page 95 undefined on input line 1315.
+
+(../24/CH11/EX11.9/Example11_9.sce [95]) (../24/CH11/EX11.10/Example11_10.sce)
+[96]
+Chapter 12.
+(../24/CH12/EX12.1/Example12_1.sce) [97
+
+] (../24/CH12/EX12.2/Example12_2.sce)
+
+LaTeX Warning: Reference `AP:277' on page 98 undefined on input line 1365.
+
+[98] (../24/CH12/EX12.3/Example12_3.sce) (../24/CH12/EX12.4/Example12_4.sce
+[99]) (../24/CH12/EX12.6/Example12_6.sce [100])
+(../24/CH12/EX12.7/Example12_7.sce) (../24/CH12/EX12.8/Example12_8.sce [101])
+(../24/CH12/EX12.9/Example12_9.sce [102]) [103]
+Chapter 13.
+(../24/CH13/EX13.1/Example13_1.sce)
+<../24/CH13/EX13.1/Example13_1_FBD.jpg, id=2449, 410.2828pt x 280.79906pt>
+File: ../24/CH13/EX13.1/Example13_1_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH13/EX13.1/Example13_1_FBD.jpg>
+Package pdftex.def Info: ../24/CH13/EX13.1/Example13_1_FBD.jpg used on input li
+ne 1450.
+(pdftex.def)             Requested size: 361.34999pt x 247.30531pt.
+ [104
+
+]
+(../24/CH13/EX13.2/Example13_2.sce [105 <../24/CH13/EX13.1/Example13_1_FBD.jpg>
+]) <../24/CH13/EX13.2/Example13_2_FBD.jpg, id=2492, 328.22626pt x 307.1475pt>
+File: ../24/CH13/EX13.2/Example13_2_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH13/EX13.2/Example13_2_FBD.jpg>
+Package pdftex.def Info: ../24/CH13/EX13.2/Example13_2_FBD.jpg used on input li
+ne 1468.
+(pdftex.def)             Requested size: 361.34999pt x 338.14917pt.
+ (../24/CH13/EX13.3/Example13_3.sce
+[106] [107 <../24/CH13/EX13.2/Example13_2_FBD.jpg>])
+<../24/CH13/EX13.3/Example13_3_FBD.jpg, id=2527, 367.3725pt x 339.51843pt>
+File: ../24/CH13/EX13.3/Example13_3_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH13/EX13.3/Example13_3_FBD.jpg>
+Package pdftex.def Info: ../24/CH13/EX13.3/Example13_3_FBD.jpg used on input li
+ne 1486.
+(pdftex.def)             Requested size: 361.34999pt x 333.97432pt.
+ [108 <../24/CH13/EX13.3/Example13_3_FBD.jpg>] (../24/CH13/EX13.4/Example13_4.s
+ce)
+<../24/CH13/EX13.4/Example13_4_FBD.jpg, id=2538, 289.83281pt x 341.77687pt>
+File: ../24/CH13/EX13.4/Example13_4_FBD.jpg Graphic file (type jpg)
+
+<use ../24/CH13/EX13.4/Example13_4_FBD.jpg>
+Package pdftex.def Info: ../24/CH13/EX13.4/Example13_4_FBD.jpg used on input li
+ne 1504.
+(pdftex.def)             Requested size: 361.34999pt x 426.1353pt.
+ [109] [110 <../24/CH13/EX13.4/Example13_4_FBD.jpg>] (../24/CH13/EX13.5/Example
+13_5.sce)
+(../24/CH13/EX13.6/Example13_6.sce [111]) [112]
+Chapter 14.
+
+LaTeX Warning: Reference `AP:273' on page 113 undefined on input line 1533.
+
+(../24/CH14/EX14.1/Example14_1.sce)
+
+LaTeX Warning: Reference `AP:273' on page 113 undefined on input line 1546.
+
+[113
+
+] (../24/CH14/EX14.2/Example14_2.sce [114])
+(../24/CH14/EX14.3.a/Example14_3a.sce)
+
+LaTeX Warning: Reference `AP:273' on page 115 undefined on input line 1572.
+
+(../24/CH14/EX14.3.b/Example14_3b.sce [115])
+
+LaTeX Warning: Reference `AP:273' on page 116 undefined on input line 1585.
+
+
+LaTeX Warning: Reference `AP:273' on page 116 undefined on input line 1587.
+
+(../24/CH14/EX14.5/Example14_5.sce [116])
+
+LaTeX Warning: Reference `AP:273' on page 117 undefined on input line 1600.
+
+(../24/CH14/EX14.6/Example14_6.sce [117])
+
+LaTeX Warning: Reference `AP:273' on page 118 undefined on input line 1613.
+
+(../24/CH14/EX14.7/Example14_7.sce [118])
+
+LaTeX Warning: Reference `AP:273' on page 119 undefined on input line 1626.
+
+(../24/CH14/EX14.8/Example14_8.sce [119]) [120]
+Chapter 15.
+(../24/CH15/EX15.1/Example15_1.sce) [121
+
+] (../24/CH15/EX15.2/Example15_2.sce)
+(../24/CH15/EX15.3/Example15_3.sce) [122] (../24/CH15/EX15.4/Example15_4.sce)
+(../24/CH15/EX15.5/Example15_5.sce [123]) (../24/CH15/EX15.6/Example15_6.sce)
+
+LaTeX Warning: Reference `AP:282' on page 124 undefined on input line 1707.
+
+(../24/CH15/EX15.7/Example15_7.sce [124])
+
+LaTeX Warning: Reference `AP:282' on page 125 undefined on input line 1720.
+
+(../24/CH15/EX15.8/Example15_8.sce) [125] [126]
+Chapter 16.
+(../24/CH16/EX16.1/Example16_1.sce [127
+
+]) (../24/CH16/EX16.2/Example16_2.sce
+[128]) (../24/CH16/EX16.3/Example16_3.sce) (../24/CH16/EX16.4/Example16_4.sce
+[129]) (../24/CH16/EX16.5/Example16_5.sce) [130]
+(../24/CH16/EX16.6/Example16_6.sce)
+<../24/CH16/EX16.6/Example16_6_FBD.JPG, id=3095, 352.31625pt x 259.7203pt>
+File: ../24/CH16/EX16.6/Example16_6_FBD.JPG Graphic file (type jpg)
+
+<use ../24/CH16/EX16.6/Example16_6_FBD.JPG>
+Package pdftex.def Info: ../24/CH16/EX16.6/Example16_6_FBD.JPG used on input li
+ne 1803.
+(pdftex.def)             Requested size: 361.34999pt x 266.38147pt.
+ (../24/CH16/EX16.7/Example16_7.sce
+[131] [132 <../24/CH16/EX16.6/Example16_6_FBD.JPG>]) [133]
+Chapter 17.
+(../24/CH17/EX17.1/Example17_1.sce [134
+
+])
+
+LaTeX Warning: Reference `AP:283' on page 135 undefined on input line 1832.
+
+(../24/CH17/EX17.2/Example17_2.sce) [135] (../24/CH17/EX17.3/Example17_3.sce)
+(../24/CH17/EX17.4/Example17_4.sce [136]) (../24/CH17/EX17.5/Example17_5.sce)
+[137] (../24/CH17/EX17.6/Example17_6.sce) (../24/CH17/EX17.7/Example17_7.sce
+[138]) [139]
+Chapter 18.
+(../24/CH18/EX18.1/Example18_1.sce) [140
+
+] (../24/CH18/EX18.2/Example18_2.sce)
+(../24/CH18/EX18.3/Example18_3.sce [141]) (../24/CH18/EX18.4/Example18_4.sce)
+(../24/CH18/EX18.5/Example18_5.sce [142]) (../24/CH18/EX18.6/Example18_6.sce)
+(../24/CH18/EX18.8/Example18_8.sce [143]) [144]
+Chapter 19.
+(../24/CH19/EX19.1/Example19_1.sce) (../24/CH19/EX19.2/Example19_2.sce [145
+
+])
+(../24/CH19/EX19.3/Example19_3.sce [146]) (../24/CH19/EX19.4/Example19_4.sce)
+[147] (../24/CH19/EX19.5/Example19_5.sce) [148]
+(../24/CH19/EX19.6/Example19_6.sce) (../24/CH19/EX19.7/Example19_7.sce [149])
+[150]
+Chapter 20.
+(../24/CH20/EX20.1/Example20_1.sce) (../24/CH20/EX20.2/Example20_2.sce [151
+
+])
+(../24/CH20/EX20.3/Example20_3.sce) (../24/CH20/EX20.4/Example20_4.sce [152])
+(../24/CH20/EX20.5/Example20_5.sce [153]) (../24/CH20/EX20.6/Example20_6.sce)
+[154] (../24/CH20/EX20.7/Example20_7.sce) [155]
+(../24/CH20/EX20.9/Example20_9.sce) [156]
+Chapter 21.
+(../24/CH21/EX21.1/Example21_1.sce) (../24/CH21/EX21.2/Example21_2.sce [157
+
+])
+(../24/CH21/EX21.3/Example21_3.sce [158]) (../24/CH21/EX21.4/Example21_4.sce
+[159]) (../24/CH21/EX21.5/Example21_5.sce) [160]
+Chapter 22.
+
+LaTeX Warning: Reference `AP:284' on page 161 undefined on input line 2213.
+
+(../24/CH22/EX22.1/Example22_1.sce [161
+
+])
+
+LaTeX Warning: Reference `AP:284' on page 162 undefined on input line 2226.
+
+(../24/CH22/EX22.2/Example22_2.sce [162])
+
+LaTeX Warning: Reference `AP:284' on page 163 undefined on input line 2239.
+
+(../24/CH22/EX22.3/Example22_3.sce [163])
+
+LaTeX Warning: Reference `AP:273' on page 164 undefined on input line 2252.
+
+
+LaTeX Warning: Reference `AP:284' on page 164 undefined on input line 2254.
+
+(../24/CH22/EX22.4/Example22_4.sce) [164] [165]
+Chapter 23.
+
+LaTeX Warning: Reference `AP:284' on page 166 undefined on input line 2271.
+
+(../24/CH23/EX23.2/Example23_2.sce [166
+
+])
+
+LaTeX Warning: Reference `AP:284' on page 167 undefined on input line 2286.
+
+(../24/CH23/EX23.3/Example23_3.sce) [167] (../24/CH23/EX23.4/Example23_4.sce)
+(../24/CH23/EX23.5/Example23_5.sce [168]) [169]
+Chapter 24.
+(../24/CH24/EX24.1/Example24_1.sce) [170
+
+] (../24/CH24/EX24.2/Example24_2.sce)
+
+LaTeX Warning: Reference `AP:284' on page 171 undefined on input line 2349.
+
+(../24/CH24/EX24.3/Example24_3.sce [171]) (../24/CH24/EX24.4/Example24_4.sce)
+
+LaTeX Warning: Reference `AP:284' on page 172 undefined on input line 2373.
+
+[172] (../24/CH24/EX24.5/Example24_5.sce)
+
+LaTeX Warning: Reference `AP:284' on page 173 undefined on input line 2386.
+
+(../24/CH24/EX24.6/Example24_6.sce [173]) [174]
+Chapter 25.
+
+LaTeX Warning: Reference `AP:284' on page 175 undefined on input line 2401.
+
+(../24/CH25/EX25.1/Example25_1.sce)
+
+LaTeX Warning: Reference `AP:284' on page 175 undefined on input line 2414.
+
+[175
+
+] (../24/CH25/EX25.3/Example25_3.sce)
+
+LaTeX Warning: Reference `AP:284' on page 176 undefined on input line 2427.
+
+(../24/CH25/EX25.4/Example25_4.sce [176])
+
+LaTeX Warning: Reference `AP:284' on page 177 undefined on input line 2440.
+
+(../24/CH25/EX25.6/Example25_6.sce) [177]
+Chapter 26.
+
+LaTeX Warning: Reference `AP:284' on page 178 undefined on input line 2455.
+
+(../24/CH26/EX26.1/Example26_1.sce)
+
+LaTeX Warning: Reference `AP:284' on page 178 undefined on input line 2468.
+
+[178
+
+] (../24/CH26/EX26.2/Example26_2.sce) (../24/CH26/EX26.3/Example26_3.sce
+[179])
+
+LaTeX Warning: Reference `AP:284' on page 180 undefined on input line 2492.
+
+(../24/CH26/EX26.4/Example26_4.sce) [180]
+
+LaTeX Warning: Reference `AP:284' on page 181 undefined on input line 2505.
+
+(../24/CH26/EX26.5/Example26_5.sce)
+
+LaTeX Warning: Reference `AP:284' on page 181 undefined on input line 2518.
+
+(../24/CH26/EX26.6/Example26_6.sce [181] [182]) [183]
+Chapter 27.
+(../24/CH27/EX27.1/Example27_1.sce) (../24/CH27/EX27.2/Example27_2.sce [184
+
+])
+(../24/CH27/EX27.3/Example27_3.sce [185]) (../24/CH27/EX27.4/Example27_4.sce)
+(../24/CH27/EX27.5/Example27_5.sce [186]) (../24/CH27/EX27.6/Example27_6.sce)
+[187]
+Chapter 28.
+(../24/CH28/EX28.1/Example28_1.sce) [188
+
+] (../24/CH28/EX28.2/Example28_2.sce)
+[189] (../24/CH28/EX28.3/Example28_3.sce) (../24/CH28/EX28.4/Example28_4.sce
+[190]) (../24/CH28/EX28.5/Example28_5.sce) [191] [192]
+Chapter 29.
+(../24/CH29/EX29.1/Example29_1.sce) (../24/CH29/EX29.2/Example29_2.sce [193
+
+])
+(../24/CH29/EX29.3/Example29_3.sce) [194] (../24/CH29/EX29.4/Example29_4.sce)
+(../24/CH29/EX29.5/Example29_5.sce [195]) (../24/CH29/EX29.6/Example29_6.sce)
+[196] (../24/CH29/EX29.7/Example29_7.sce) (../24/CH29/EX29.8/Example29_8.sce
+[197]) [198]
+Chapter 30.
+(../24/CH30/EX30.2/Example30_2.sce) [199
+
+] (../24/CH30/EX30.3/Example30_3.sce)
+(../24/CH30/EX30.4/Example30_4.sce [200]) [201]
+Chapter 31.
+(../24/CH31/EX31.1/Example31_1.sce) (../24/CH31/EX31.2/Example31_2.sce [202
+
+])
+(../24/CH31/EX31.3/Example31_3.sce [203]) (../24/CH31/EX31.4/Example31_4.sce)
+(../24/CH31/EX31.5/Example31_5.sce [204]) (../24/CH31/EX31.6/Example31_6.sce)
+[205] (../24/CH31/EX31.7/Example31_7.sce) (../24/CH31/EX31.8/Example31_8.sce
+[206]) (../24/CH31/EX31.9/Example31_9.sce) [207] [208]
+Chapter 32.
+(../24/CH32/EX32.1/Example32_1.sce) [209
+
+] (../24/CH32/EX32.2/Example32_2.sce)
+(../24/CH32/EX32.3/Example32_3.sce [210]) [211]
+Chapter 33.
+(../24/CH33/EX33.1/Example33_1.sce) (../24/CH33/EX33.2/Example33_2.sce [212
+
+])
+(../24/CH33/EX33.3/Example33_3.sce [213]) (../24/CH33/EX33.4/Example33_4.sce)
+[214] (../24/CH33/EX33.5/Example33_5.sce) (../24/CH33/EX33.6/Example33_6.sce
+[215]) (../24/CH33/EX33.7/Example33_7.sce [216])
+(../24/CH33/EX33.8/Example33_8.sce) [217] (../24/CH33/EX33.9/Example33_9.sce)
+[218]
+Chapter 34.
+(../24/CH34/EX34.1/Example34_1.sce)
+
+LaTeX Warning: Reference `AP:273' on page 219 undefined on input line 3035.
+
+[219
+
+] (../24/CH34/EX34.2/Example34_2.sce) (../24/CH34/EX34.3/Example34_3.sce
+[220]) (../24/CH34/EX34.4/Example34_4.sce [221])
+(../24/CH34/EX34.5/Example34_5.sce) [222]
+Chapter 35.
+(../24/CH35/EX35.1/Example35_1.sce) (../24/CH35/EX35.2/Example35_2.sce [223
+
+])
+(../24/CH35/EX35.3/Example35_3.sce [224]) (../24/CH35/EX35.4/Example35_4.sce)
+[225]
+Chapter 36.
+(../24/CH36/EX36.1/Example36_1.sce) [226
+
+] (../24/CH36/EX36.2/Example36_2.sce)
+(../24/CH36/EX36.3/Example36_3.sce [227]) (../24/CH36/EX36.4/Example36_4.sce)
+(../24/CH36/EX36.5/Example36_5.sce [228]) (../24/CH36/EX36.6/Example36_6.sce)
+[229]
+Chapter 37.
+(../24/CH37/EX37.1/Example37_1.sce) [230
+
+] (../24/CH37/EX37.2/Example37_2.sce)
+(../24/CH37/EX37.3/Example37_3.sce [231]) (../24/CH37/EX37.4/Example37_4.sce)
+[232] (../24/CH37/EX37.5/Example37_5.sce) [233] [234]
+Chapter 38.
+(../24/CH38/EX38.1/Example38_1.sce) (../24/CH38/EX38.2/Example38_2.sce [235
+
+])
+(../24/CH38/EX38.3/Example38_3.sce) (../24/CH38/EX38.4/Example38_4.sce [236])
+(../24/CH38/EX38.5/Example38_5.sce [237]) (../24/CH38/EX38.6/Example38_6.sce)
+[238] (../24/CH38/EX38.7/Example38_7.sce) [239]
+Chapter 39.
+(../24/CH39/EX39.1/Example39_1.sce) (../24/CH39/EX39.2/Example39_2.sce [240
+
+])
+(../24/CH39/EX39.3/Example39_3.sce) [241] (../24/CH39/EX39.4/Example39_4.sce)
+(../24/CH39/EX39.5/Example39_5.sce [242]) (../24/CH39/EX39.6/Example39_6.sce)
+(../24/CH39/EX39.7/Example39_7.sce [243]) [244]
+Chapter 40.
+(../24/CH40/EX40.1/Example40_1.sce [245
+
+]) (../24/CH40/EX40.3/Example40_3.sce
+[246]) (../24/CH40/EX40.4/Example40_4.sce) [247]
+(../24/CH40/EX40.6/Example40_6.sce) (../24/CH40/EX40.8/Example40_8.sce [248])
+[249]
+Chapter 41.
+(../24/CH41/EX41.1/Example41_1.sce) (../24/CH41/EX41.2/Example41_2.sce [250
+
+])
+(../24/CH41/EX41.3/Example41_3.sce)
+<../24/CH41/EX41.3/Example41_3a.jpg, id=6227, 371.88937pt x 345.54094pt>
+File: ../24/CH41/EX41.3/Example41_3a.jpg Graphic file (type jpg)
+
+<use ../24/CH41/EX41.3/Example41_3a.jpg>
+Package pdftex.def Info: ../24/CH41/EX41.3/Example41_3a.jpg used on input line 
+3525.
+(pdftex.def)             Requested size: 361.34999pt x 335.75955pt.
+ (../24/CH41/EX41.4/Example41_4.sce
+[251] [252 <../24/CH41/EX41.3/Example41_3a.jpg>])
+(../24/CH41/EX41.5/Example41_5.sce) (../24/CH41/EX41.6/Example41_6.sce [253])
+[254]
+Chapter 42.
+(../24/CH42/EX42.1/Example42_1.sce) (../24/CH42/EX42.2/Example42_2.sce [255
+
+])
+(../24/CH42/EX42.3/Example42_3.sce) [256] (../24/CH42/EX42.4/Example42_4.sce)
+(../24/CH42/EX42.5/Example42_5.sce [257]) (../24/CH42/EX42.6/Example42_6.sce)
+[258] (../24/CH42/EX42.7/Example42_7.sce) [259]
+Chapter 43.
+(../24/CH43/EX43.1/Example43_1.sce) [260
+
+] (../24/CH43/EX43.2/Example43_2.sce)
+(../24/CH43/EX43.3/Example43_3.sce) [261] (../24/CH43/EX43.4/Example43_4.sce)
+(../24/CH43/EX43.5/Example43_5.sce) [262] (../24/CH43/EX43.6/Example43_6.sce)
+[263] (../24/CH43/EX43.7/Example43_7.sce) (../24/CH43/EX43.8/Example43_8.sce)
+[264] (../24/CH43/EX43.9/Example43_9.sce) (../24/CH43/EX43.10/Example43_10.sce
+[265]) [266]
+Chapter 44.
+(../24/CH44/EX44.1/Example44_1.sce) (../24/CH44/EX44.2/Example44_2.sce [267
+
+]
+[268]) (../24/CH44/EX44.3/Example44_3.sce) (../24/CH44/EX44.4/Example44_4.sce
+[269]) (../24/CH44/EX44.5/Example44_5.sce) [270]
+(../24/CH44/EX44.6/Example44_6.sce) [271]
+Chapter 45.
+(../24/CH45/EX45.1/Example45_1.sce [272
+
+]) (../24/CH45/EX45.2/Example45_2.sce)
+(../24/CH45/EX45.3/Example45_3.sce [273]) (../24/CH45/EX45.6/Example45_6.sce)
+[274] (../24/CH45/EX45.7/Example45_7.sce) [275] (../24/DEPENDENCIES/quantum.sci
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3890 \tcaption {degree_rad}{degree_
+                                     rad}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.3890 \tcaption {degree_rad}{degree_rad}
+                                         
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[276
+
+]
+! Undefined control sequence.
+\lst@GetLineInterval ...r \lst@GLI \lst@linerange 
+                                                  \@nil 
+l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+\@nil \lst@ifsensitive \else \let \lst@KeywordTest \lst@KEYWORDTEST \let \ETC.
+! Paragraph ended before \lst@GLI was complete.
+<to be read again> 
+                   \par 
+l.3893 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(../24/DEPENDENCIES/Gravitation.sci) (../24/DEPENDENCIES/electrostatics.sci
+! TeX capacity exceeded, sorry [grouping levels=255].
+\lst@OrgOutput ->{
+                  \lst@RestoreOrigCatcodes \lst@ifec \lst@RestoreOrigExtende...
+l.3 //
+      electric consatnt
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
 
  
 Here is how much of TeX's memory you used:
- 6064 strings out of 256216
- 82201 string characters out of 1917073
- 265592 words of memory out of 1500000
- 8560 multiletter control sequences out of 10000+200000
- 10548 words of font info for 37 fonts, out of 1200000 for 2000
- 645 hyphenation exceptions out of 8191
- 28i,7n,40p,389b,2195s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 18030 strings out of 493013
+ 271745 string characters out of 6133328
+ 410206 words of memory out of 5000000
+ 14367 multiletter control sequences out of 15000+600000
+ 10548 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 258i,7n,40p,391b,2423s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

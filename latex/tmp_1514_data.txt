@@ -1,0 +1,140 @@
+21#Electron tubes#21.3#DC load line for CC amplifier#21_3.sce#1514/CH21/EX21.3/21_3.sce#S##88237
+21#Electron tubes#21.2#Impedance and gain for vaccum triode circuit#21_2.sce#1514/CH21/EX21.2/21_2.sce#S##64840
+21#Electron tubes#21.1#Transconductance and constant current characteristics#21_1.sce#1514/CH21/EX21.1/21_1.sce#S##88240
+20#Miscellaneous devices#20.5#Gain for tunnel diode circuit#20_5.sce#1514/CH20/EX20.5/20_5.sce#S##64841
+20#Miscellaneous devices#20.4#Piecewise linear characteristics#20_4.sce#1514/CH20/EX20.4/20_4.sce#S##88186
+20#Miscellaneous devices#20.3#Value of resistor in thermistor circuit#20_3.sce#1514/CH20/EX20.3/20_3.sce#S##88185
+20#Miscellaneous devices#20.2#Resonance frequency #20_2.sce#1514/CH20/EX20.2/20_2.sce#S##64843
+20#Miscellaneous devices#20.1#Capacitance tuning ratio#20_1.sce#1514/CH20/EX20.1/20_1.sce#S##88183
+19#Optoelectronic devices#19.7#Design LED and transistor circuit#19_7.sce#1514/CH19/EX19.7/19_7.sce#S##88195
+19#Optoelectronic devices#19.6#Output voltage of phototransistor circuit#19_6.sce#1514/CH19/EX19.6/19_6.sce#S##88193
+19#Optoelectronic devices#19.5#Total cells for satellite#19_5.sce#1514/CH19/EX19.5/19_5.sce#S##64934
+19#Optoelectronic devices#19.4#Dc load line for photodiode#19_4.sce#1514/CH19/EX19.4/19_4.sce#S##88192
+19#Optoelectronic devices#19.3#Design photoconductive cell circuit#19_3.sce#1514/CH19/EX19.3/19_3.sce#S##88190
+19#Optoelectronic devices#19.2#Series resistance and dark current#19_2.sce#1514/CH19/EX19.2/19_2.sce#S##88189
+19#Optoelectronic devices#19.1#Light intensity #19_1.sce#1514/CH19/EX19.1/19_1.sce#S##88187
+18#Thyristors and unijunction transistors#18.8#DC Analysis UJT circuit#18_8.sce#1514/CH18/EX18.8/18_8.sce#S##88202
+18#Thyristors and unijunction transistors#18.7#Emitter resistance for UJT circuit#18_7.sce#1514/CH18/EX18.7/18_7.sce#S##64928
+18#Thyristors and unijunction transistors#18.6#Frequency of oscillation for UJT circuit#18_6.sce#1514/CH18/EX18.6/18_6.sce#S##88200
+18#Thyristors and unijunction transistors#18.5#Emitter voltages for UJT circuit#18_5.sce#1514/CH18/EX18.5/18_5.sce#S##64926
+18#Thyristors and unijunction transistors#18.4#Analyze UJT circuit#18_4.sce#1514/CH18/EX18.4/18_4.sce#S##88199
+18#Thyristors and unijunction transistors#18.3#Design resistor for 4 layer diode circuit#18_3.sce#1514/CH18/EX18.3/18_3.sce#S##88198
+18#Thyristors and unijunction transistors#18.2#Design SCR circuit#18_2.sce#1514/CH18/EX18.2/18_2.sce#S##88197
+18#Thyristors and unijunction transistors#18.1#Analyze SCR circuit#18_1.sce#1514/CH18/EX18.1/18_1.sce#S##88196
+17#Large signal amplifiers#17.7#Analyze MOSFET power amplifier circuit#17_7.sce#1514/CH17/EX17.7/17_7.sce#S##65451
+17#Large signal amplifiers#17.6#Supply and output voltages for amplifier circuit#17_6.sce#1514/CH17/EX17.6/17_6.sce#S##88209
+17#Large signal amplifiers#17.5#Design capacitors of amplifier circuit#17_5.sce#1514/CH17/EX17.5/17_5.sce#S##88208
+17#Large signal amplifiers#17.4#Design capacitor coupled amplifier#17_4.sce#1514/CH17/EX17.4/17_4.sce#S##88207
+17#Large signal amplifiers#17.3#Transformer output for class B#17_3.sce#1514/CH17/EX17.3/17_3.sce#S##88206
+17#Large signal amplifiers#17.2#Maximum Efficieny of Transformer#17_2.sce#1514/CH17/EX17.2/17_2.sce#S##88203
+17#Large signal amplifiers#17.1#Dc ac load line for CE circuit#17_1.sce#1514/CH17/EX17.1/17_1.sce#S##64909
+16#Power supplies Breakdown diodes and Voltage regulators#16.9#Design opamp voltage regulator#16_9.sce#1514/CH16/EX16.9/16_9.sce#S##88219
+16#Power supplies Breakdown diodes and Voltage regulators#16.8#Design voltage regulator#16_8.sce#1514/CH16/EX16.8/16_8.sce#S##88218
+16#Power supplies Breakdown diodes and Voltage regulators#16.7#LR and RR for rectifier and filter circuit#16_7.sce#1514/CH16/EX16.7/16_7.sce#S##64987
+16#Power supplies Breakdown diodes and Voltage regulators#16.6#LR and RR for regulator circuit#16_6.sce#1514/CH16/EX16.6/16_6.sce#S##64942
+16#Power supplies Breakdown diodes and Voltage regulators#16.5#Design Zener diode voltage reference#16_5.sce#1514/CH16/EX16.5/16_5.sce#S##88215
+16#Power supplies Breakdown diodes and Voltage regulators#16.4#Diode specification and Capacitor for Zener circuit#16_4.sce#1514/CH16/EX16.4/16_4.sce#S##88214
+16#Power supplies Breakdown diodes and Voltage regulators#16.3#Resevoir Capacitor for bridge rectifier#16_3.sce#1514/CH16/EX16.3/16_3.sce#S##88213
+16#Power supplies Breakdown diodes and Voltage regulators#16.2#Diode specification for half wave rectifier#16_2.sce#1514/CH16/EX16.2/16_2.sce#S##88212
+16#Power supplies Breakdown diodes and Voltage regulators#16.11#Design voltage regulator using LM217 IC#16_11.sce#1514/CH16/EX16.11/16_11.sce#S##88221
+16#Power supplies Breakdown diodes and Voltage regulators#16.10#Design voltage regulator circuit#16_10.sce#1514/CH16/EX16.10/16_10.sce#S##88220
+16#Power supplies Breakdown diodes and Voltage regulators#16.1#Reservoir Capacitor for half wave rectifier#16_1.sce#1514/CH16/EX16.1/16_1.sce#S##88210
+15#sinusoidal Oscillators#15.4#Design phase shift oscillator#15_4.sce#1514/CH15/EX15.4/15_4.sce#S##88137
+15#sinusoidal Oscillators#15.3#Design Wein Bridge oscillator#15_3.sce#1514/CH15/EX15.3/15_3.sce#S##88136
+15#sinusoidal Oscillators#15.2#Design colpitts oscillator#15_2.sce#1514/CH15/EX15.2/15_2.sce#S##88134
+15#sinusoidal Oscillators#15.1#Resistor and capacitor values for phase shift oscillator#15_1.sce#1514/CH15/EX15.1/15_1.sce#S##88133
+14#Operational amplifier frequency response and compensation#14.5#Upper cutoff frequency of inverting amplifier#14_5.sce#1514/CH14/EX14.5/14_5.sce#S##88131
+14#Operational amplifier frequency response and compensation#14.4#Design voltage follower#14_4.sce#1514/CH14/EX14.4/14_4.sce#S##88135
+14#Operational amplifier frequency response and compensation#14.3#Design inverting amplifier with a gain of 50#14_3.sce#1514/CH14/EX14.3/14_3.sce#S##88130
+14#Operational amplifier frequency response and compensation#14.2#Design non inverting amplifier#14_2.sce#1514/CH14/EX14.2/14_2.sce#S##88129
+14#Operational amplifier frequency response and compensation#14.1#Design inverting amplifier#14_1.sce#1514/CH14/EX14.1/14_1.sce#S##88128
+13#IC operational amplifiers and Opamp apllications#13.6# Design Schmitt trigger#13_6.sce#1514/CH13/EX13.6/13_6.sce#S##88127
+13#IC operational amplifiers and Opamp apllications#13.5#Design inverting amplifier#13_5.sce#1514/CH13/EX13.5/13_5.sce#S##88132
+13#IC operational amplifiers and Opamp apllications#13.4#Design non inverting amplifier#13_4.sce#1514/CH13/EX13.4/13_4.sce#S##88125
+13#IC operational amplifiers and Opamp apllications#13.3#Design voltage follower#13_3.sce#1514/CH13/EX13.3/13_3.sce#S##88124
+13#IC operational amplifiers and Opamp apllications#13.2#Impedance and gain for differential amplifier circuit#13_2.sce#1514/CH13/EX13.2/13_2.sce#S##88123
+13#IC operational amplifiers and Opamp apllications#13.1#Output voltage of differential amplifier#13_1.sce#1514/CH13/EX13.1/13_1.sce#S##88122
+12#Amplifiers with negative feedback#12.3#Single stage CE amplifier using current feedback#12_3.sce#1514/CH12/EX12.3/12_3.sce#S##88121
+12#Amplifiers with negative feedback#12.2#Analyze negative feedback amplifier#12_2.sce#1514/CH12/EX12.2/12_2.sce#S##88120
+12#Amplifiers with negative feedback#12.1#Modification of 2 stage amplifier to voltage series feedback#12_1.sce#1514/CH12/EX12.1/12_1.sce#S##88119
+11#Small Signal Amplifiers#11.9#Resistance values for 2 stage amplifier#11_9.sce#1514/CH11/EX11.9/11_9.sce#S##88113
+11#Small Signal Amplifiers#11.8#Capacitors for 2 stage amplifier#11_8.sce#1514/CH11/EX11.8/11_8.sce#S##88112
+11#Small Signal Amplifiers#11.7#Suitable Resistors for 2 stage amplifier#11_7.sce#1514/CH11/EX11.7/11_7.sce#S##88111
+11#Small Signal Amplifiers#11.6#Analyze 2 stage amplifier#11_6.sce#1514/CH11/EX11.6/11_6.sce#S##88110
+11#Small Signal Amplifiers#11.5#Design 2 stage amplifier#11_5.sce#1514/CH11/EX11.5/11_5.sce#S##88109
+11#Small Signal Amplifiers#11.4#Capacitors for CS amplifier#11_4.sce#1514/CH11/EX11.4/11_4.sce#S##88108
+11#Small Signal Amplifiers#11.3#Resistors for CS amplifier#11_3.sce#1514/CH11/EX11.3/11_3.sce#S##88107
+11#Small Signal Amplifiers#11.2#Capacitors for CE amplifier#11_2.sce#1514/CH11/EX11.2/11_2.sce#S##88106
+11#Small Signal Amplifiers#11.14#Capacitors for BIFET amplifier#11_14.sce#1514/CH11/EX11.14/11_14.sce#S##88118
+11#Small Signal Amplifiers#11.13#Resistors for BIFET amplifier#11_13.sce#1514/CH11/EX11.13/11_13.sce#S##88117
+11#Small Signal Amplifiers#11.12#Design DC feedback amplifier#11_12.sce#1514/CH11/EX11.12/11_12.sce#S##88116
+11#Small Signal Amplifiers#11.11#AC analysis of 2 stage amplifier#11_11.sce#1514/CH11/EX11.11/11_11.sce#S##88115
+11#Small Signal Amplifiers#11.10#Capacitor values for 2 stage amplifier#11_10.sce#1514/CH11/EX11.10/11_10.sce#S##88114
+11#Small Signal Amplifiers#11.1#Resistors for CE amplifier#11_1.sce#1514/CH11/EX11.1/11_1.sce#S##88105
+10#Basic FET Circuits#10.7#Impedance, Output voltage(vo) and gain for Common gate JFET#10_7.sce#1514/CH10/EX10.7/10_7.sce#S##88104
+10#Basic FET Circuits#10.6#Impedances, vo and gain for Common gate JFET#10_6.sce#1514/CH10/EX10.6/10_6.sce#S##88103
+10#Basic FET Circuits#10.5#Impedance and gain for Common drain JFET#10_5.sce#1514/CH10/EX10.5/10_5.sce#S##88102
+10#Basic FET Circuits#10.4#Input and output Impedances and gain for Common drain JFET#10_4.sce#1514/CH10/EX10.4/10_4.sce#S##64836
+10#Basic FET Circuits#10.3#Impedance and gain for Common source JFET#10_3.sce#1514/CH10/EX10.3/10_3.sce#S##88101
+10#Basic FET Circuits#10.2#Voltage gain for Common source JFET#10_2.sce#1514/CH10/EX10.2/10_2.sce#S##88049
+10#Basic FET Circuits#10.1#Input and output Impedances and voltage gain for Common source JFET#10_1.sce#1514/CH10/EX10.1/10_1.sce#S##88100
+9#FET Biasing#9.9#Finding Rd  input voltage Rg#9_9.sce#1514/CH9/EX9.9/9_9.sce#S##88076
+9#FET Biasing#9.8#Analyze potential divider circuit FET#9_8.sce#1514/CH9/EX9.8/9_8.sce#S##88222
+9#FET Biasing#9.7#Design potential divider circuit FET#9_7.sce#1514/CH9/EX9.7/9_7.sce#S##88047
+9#FET Biasing#9.6#Analyze self  bias circuit FET#9_6.sce#1514/CH9/EX9.6/9_6.sce#S##88046
+9#FET Biasing#9.5#Design self bias circuit FET#9_5.sce#1514/CH9/EX9.5/9_5.sce#S##88075
+9#FET Biasing#9.4#Analyze fixed bias circuit FET#9_4.sce#1514/CH9/EX9.4/9_4.sce#S##88074
+9#FET Biasing#9.3#Design fixed bias circuit FET#9_3.sce#1514/CH9/EX9.3/9_3.sce#S##64826
+9#FET Biasing#9.2#Finding levels of Id and Vds#9_2.sce#1514/CH9/EX9.2/9_2.sce#S##88073
+9#FET Biasing#9.1#Dc load line for FET#9_1.sce#1514/CH9/EX9.1/9_1.sce#S##64824
+8#Field Effect Transistors#8.4#Finding gm#8_4.sce#1514/CH8/EX8.4/8_4.sce#S##64823
+8#Field Effect Transistors#8.3#Find Transconductance(gm)#8_3.sce#1514/CH8/EX8.3/8_3.sce#S##88071
+8#Field Effect Transistors#8.2#Min and max Transfer characteristics for FET#8_2.sce#1514/CH8/EX8.2/8_2.sce#S##64821
+8#Field Effect Transistors#8.1#FET Transfer characteristics #ch8_1.sce#1514/CH8/EX8.1/ch8_1.sce#S##88072
+7#Transistor Specification and performance#7.8#Output noise#ch7_8.sce#1514/CH7/EX7.8/ch7_8.sce#S##64819
+7#Transistor Specification and performance#7.7#Input capacitor#ch7_7.sce#1514/CH7/EX7.7/ch7_7.sce#S##64818
+7#Transistor Specification and performance#7.6#Upper 3dB point#ch7_6.sce#1514/CH7/EX7.6/ch7_6.sce#S##64817
+7#Transistor Specification and performance#7.5#Output power variation#ch7_5.sce#1514/CH7/EX7.5/ch7_5.sce#S##88070
+7#Transistor Specification and performance#7.4#Change in Output power with variation in signal frequencies#ch7_4.sce#1514/CH7/EX7.4/ch7_4.sce#S##88069
+7#Transistor Specification and performance#7.3#Selecting heat sink#ch7_3.sce#1514/CH7/EX7.3/ch7_3.sce#S##64813
+7#Transistor Specification and performance#7.2#Maximum power Dissipation#ch7_2.sce#1514/CH7/EX7.2/ch7_2.sce#S##64812
+7#Transistor Specification and performance#7.1#Finding collector current#ch7_1.sce#1514/CH7/EX7.1/ch7_1.sce#S##64811
+5#Basic Transistor circuits#5.7#Input impedance,output impedance and voltage gain of CE amplifier#5_7.sce#1514/CH5/EX5.7/5_7.sce#S##88064
+5#Basic Transistor circuits#5.6#Circuit Impedances and Gain for common base circuit#5_6.sce#1514/CH5/EX5.6/5_6.sce#S##88063
+5#Basic Transistor circuits#5.5#Effect on input impedance#5_5.sce#1514/CH5/EX5.5/5_5.sce#S##88057
+5#Basic Transistor circuits#5.4#Circuit Impedances and Gain for common emitter circuit#5_4.sce#1514/CH5/EX5.4/5_4.sce#S##88058
+5#Basic Transistor circuits#5.3#AC analysis of common-emitter circuit#5_3.sce#1514/CH5/EX5.3/5_3.sce#S##88056
+5#Basic Transistor circuits#5.2#Effect on performance of common emitter circuit#5_2.sce#1514/CH5/EX5.2/5_2.sce#S##88062
+5#Basic Transistor circuits#5.1#Impedances and Gain for common emitter circuit#5_1.sce#1514/CH5/EX5.1/5_1.sce#S##88060
+4#Transistor Biasing#4.9#Design emitter current Bias circuit using 2N3904#4_9.sce#1514/CH4/EX4.9/4_9.sce#S##88066
+4#Transistor Biasing#4.8#Analyse emitter current Bias circuit#4_8.sce#1514/CH4/EX4.8/4_8.sce#S##88050
+4#Transistor Biasing#4.7#Analysing common-emitter current Bias circuit#4_7.sce#1514/CH4/EX4.7/4_7.sce#S##88067
+4#Transistor Biasing#4.6#Analyzing collector to base Bias circuit#4_6.sce#1514/CH4/EX4.6/4_6.sce#S##64758
+4#Transistor Biasing#4.5#Design collector to base Bias circuit#4_5.sce#1514/CH4/EX4.5/4_5.sce#S##88224
+4#Transistor Biasing#4.4#Analyzing fixed bias circuit#4_4.sce#1514/CH4/EX4.4/4_4.sce#S##64751
+4#Transistor Biasing#4.3#Designing fixed bias circuit#4_3.sce#1514/CH4/EX4.3/4_3.sce#S##88223
+4#Transistor Biasing#4.2#Maximum undistorted output#4_2.sce#1514/CH4/EX4.2/4_2.sce#S##88044
+4#Transistor Biasing#4.15#Finding Base and collector resistor#4_15.sce#1514/CH4/EX4.15/4_15.sce#S##88052
+4#Transistor Biasing#4.14#Finding Base resistor#4_14.sce#1514/CH4/EX4.14/4_14.sce#S##88051
+4#Transistor Biasing#4.13#Finding Vce in cutoff and saturation#4_13.sce#1514/CH4/EX4.13/4_13.sce#S##88053
+4#Transistor Biasing#4.12#Dc and ac load line#4_12.sce#1514/CH4/EX4.12/4_12.sce#S##88045
+4#Transistor Biasing#4.11#Finding Stability factor#4_11.sce#1514/CH4/EX4.11/4_11.sce#S##88228
+4#Transistor Biasing#4.10#Design Common emitter current bias circuit#4_10.sce#1514/CH4/EX4.10/4_10.sce#S##88065
+4#Transistor Biasing#4.1#Dc load line #4_1.sce#1514/CH4/EX4.1/4_1.sce#S##88043
+3#Bipolar Junction Transistors#3.8#Finding h-parameters and Common base gain#3_8.sce#1514/CH3/EX3.8/3_8.sce#S##64739
+3#Bipolar Junction Transistors#3.7#Finding h-parameters#3_7.sce#1514/CH3/EX3.7/3_7.sce#S##88068
+3#Bipolar Junction Transistors#3.6#Finding h-parameters for CE configuration#3_6.sce#1514/CH3/EX3.6/3_6.sce#S##64738
+3#Bipolar Junction Transistors#3.5#Finding Beta of Transistor#3_5.sce#1514/CH3/EX3.5/3_5.sce#S##64735
+3#Bipolar Junction Transistors#3.4#Finding Emitter and collector current#3_4.sce#1514/CH3/EX3.4/3_4.sce#S##64734
+3#Bipolar Junction Transistors#3.3#Current Gain Characteristics#3_3.sce#1514/CH3/EX3.3/3_3.sce#S##64733
+3#Bipolar Junction Transistors#3.2#Finding Emitter and base current#3_2.sce#1514/CH3/EX3.2/3_2.sce#S##88227
+3#Bipolar Junction Transistors#3.1#Finding collector and emitter current of transistor#3_1.sce#1514/CH3/EX3.1/3_1.sce#S##64209
+2#Semiconductor diodes#2.9#Diode forward current and reverse voltage#ch2_2_9.sce#1514/CH2/EX2.9/ch2_2_9.sce#S##88229
+2#Semiconductor diodes#2.8#Maximum forward current #ch2_2_8.sce#1514/CH2/EX2.8/ch2_2_8.sce#S##64172
+2#Semiconductor diodes#2.7#Maximum operating frequency#ch2_2_7.sce#1514/CH2/EX2.7/ch2_2_7.sce#S##64171
+2#Semiconductor diodes#2.6#Half wave rectification #ch2_2_6.sce#1514/CH2/EX2.6/ch2_2_6.sce#S##64170
+2#Semiconductor diodes#2.5#forward voltage drop#ch2_2_5.sce#1514/CH2/EX2.5/ch2_2_5.sce#S##64169
+2#Semiconductor diodes#2.4#diode Forward Current#ch2_2_4.sce#1514/CH2/EX2.4/ch2_2_4.sce#S##64168
+2#Semiconductor diodes#2.3#Finding new source value#ch2_2_3.sce#1514/CH2/EX2.3/ch2_2_3.sce#S##64167
+2#Semiconductor diodes#2.2#Finding Load resistance#ch2_2_2.sce#1514/CH2/EX2.2/ch2_2_2.sce#S##64166
+2#Semiconductor diodes#2.1#dc load line characteristics#ch2_2_1.sce#1514/CH2/EX2.1/ch2_2_1.sce#S##88042

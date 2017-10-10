@@ -1,4 +1,4 @@
-//CAPTION:n-Ge-p-GaAs-n-GaAs HBT
+
 //CHAPTER NO.-5
 //Example No.5-2-2 , Page No.-215 
                                                                      

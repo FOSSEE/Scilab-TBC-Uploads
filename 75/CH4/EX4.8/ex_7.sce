@@ -1,4 +1,4 @@
-        //    PG (220)
+//    PG (220)
 
 deff('[y]=f(x)','y=exp(x)')
 
@@ -22,7 +22,9 @@ C4=2*(integrate('exp(cos(x))*cos(4*x)','x',0,3.14))/(3.14)
 C5=2*(integrate('exp(cos(x))*cos(5*x)','x',0,3.14))/(3.14)
 
 //    we obtain
+x=0:.01:%pi;                // defining the range of x
+
 c1=1.266+1.130*x;
-c3=0.994571+0.997308*x+0.542991*x^2+0.177347*x^3;
+c3=0.994571+0.997308*x+0.542991*x.^2+0.177347*x.^3;
 norm(exp(x)-c1,'inf')
 norm(exp(x)-c3,'inf')

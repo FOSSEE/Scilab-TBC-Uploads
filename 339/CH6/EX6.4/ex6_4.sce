@@ -1,3 +1,6 @@
+clc
+clear
+T=300;
 //doping concentrations
 Nc=2.8*10^19;
 Nd=1*10^16;

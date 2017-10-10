@@ -1,4 +1,4 @@
-//find size of rod
+
 clc
 //solution
 //given

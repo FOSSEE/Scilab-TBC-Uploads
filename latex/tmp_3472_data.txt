@@ -1,0 +1,347 @@
+47#ELECTRIC TRACTION SYSTEMS AND POWER SUPPLY#47.2#Maximum sag and Length of wire required#Example47_2.sce#3472/CH47/EX47.2/Example47_2.sce#S##120899
+47#ELECTRIC TRACTION SYSTEMS AND POWER SUPPLY#47.1#Maximum potential difference between any two points of the rails and Rating of the booster#Example47_1.sce#3472/CH47/EX47.1/Example47_1.sce#S##120898
+46#BRAKING#46.5#Braking effect and Rate of retardation produced by this braking effect#Example46_5.sce#3472/CH46/EX46.5/Example46_5.sce#S##120897
+46#BRAKING#46.4#Energy returned to the line#Example46_4.sce#3472/CH46/EX46.4/Example46_4.sce#S##120896
+46#BRAKING#46.3#Energy returned to lines#Example46_3.sce#3472/CH46/EX46.3/Example46_3.sce#S##120895
+46#BRAKING#46.2#Current delivered when motor works as generator#Example46_2.sce#3472/CH46/EX46.2/Example46_2.sce#S##120894
+46#BRAKING#46.1#Braking torque#Example46_1.sce#3472/CH46/EX46.1/Example46_1.sce#S##120893
+45#CONTROL OF MOTORS#45.3#Duration of starting period Speed of train at transition Rheostatic losses during series and Parallel steps of starting#Example45_3.sce#3472/CH45/EX45.3/Example45_3.sce#S##120892
+45#CONTROL OF MOTORS#45.2#Energy supplied during the starting period Energy lost in the starting resistance and Useful energy supplied to the train#Example45_2.sce#3472/CH45/EX45.2/Example45_2.sce#S##120891
+45#CONTROL OF MOTORS#45.1#Approximate loss of energy in starting rheostats#Example45_1.sce#3472/CH45/EX45.1/Example45_1.sce#S##120890
+44#MOTORS FOR ELECTRIC TRACTION#44.5#New characteristics of motor#Example44_5.sce#3472/CH44/EX44.5/Example44_5.sce#S##120889
+44#MOTORS FOR ELECTRIC TRACTION#44.4#HP delivered by the locomotive when dc series motor and Induction motor is used#Example44_4.sce#3472/CH44/EX44.4/Example44_4.sce#S##120888
+44#MOTORS FOR ELECTRIC TRACTION#44.3#Speed of motors when connected in series#Example44_3.sce#3472/CH44/EX44.3/Example44_3.sce#S##120887
+44#MOTORS FOR ELECTRIC TRACTION#44.2#Speed torque for motor#Example44_2.sce#3472/CH44/EX44.2/Example44_2.sce#S##120886
+44#MOTORS FOR ELECTRIC TRACTION#44.1#Speed current of the motor#Example44_1.sce#3472/CH44/EX44.1/Example44_1.sce#S##120885
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.9#Acceleration Coasting retardation and Scheduled speed#Example43_9.sce#3472/CH43/EX43.9/Example43_9.sce#S##120881
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.8#Speed Time curve for the run and Energy consumption at the axles of train#Example43_8.sce#3472/CH43/EX43.8/Example43_8.sce#S##120879
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.8#Speed Time curve for the run and Energy consumption at the axles of train#Ex43_8.png#3472/CH43/EX43.8/Ex43_8.png#R##120880
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.7#Time taken by train to attain speed#Example43_7.sce#3472/CH43/EX43.7/Example43_7.sce#S##120878
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.6#Torque developed by each motor#Example43_6.sce#3472/CH43/EX43.6/Example43_6.sce#S##120877
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.5#Tractive resistance#Example43_5.sce#3472/CH43/EX43.5/Example43_5.sce#S##120876
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.4#Duration of acceleration Coasting and Braking periods#Example43_4.sce#3472/CH43/EX43.4/Example43_4.sce#S##120875
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.3#Rate of acceleration required to operate service#Example43_3.sce#3472/CH43/EX43.3/Example43_3.sce#S##120874
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.2#Value of retardation#Example43_2.sce#3472/CH43/EX43.2/Example43_2.sce#S##120873
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.12#Minimum adhesive weight of a locomotive#Example43_12.sce#3472/CH43/EX43.12/Example43_12.sce#S##120884
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.11#Energy usefully employed in attaining speed and Specific energy consumption at steady state speed#Example43_11.sce#3472/CH43/EX43.11/Example43_11.sce#S##120883
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.10#Minimum adhesive weight of the locomotive#Example43_10.sce#3472/CH43/EX43.10/Example43_10.sce#S##120882
+43#ELECTRIC TRACTION SPEED TIME CURVES AND MECHANICS OF TRAIN MOVEMENT#43.1#Maximum speed over the run#Example43_1.sce#3472/CH43/EX43.1/Example43_1.sce#S##120871
+42#ILLUMINATION#42.9#Suitable scheme of illumination and Saving in power consumption#Example42_9.sce#3472/CH42/EX42.9/Example42_9.sce#S##120870
+42#ILLUMINATION#42.8#Illumination on the working plane#Example42_8.sce#3472/CH42/EX42.8/Example42_8.sce#S##120869
+42#ILLUMINATION#42.7#Maximum and Minimum illumination on the floor along the centre line#Example42_7.sce#3472/CH42/EX42.7/Example42_7.sce#S##120868
+42#ILLUMINATION#42.6#Curve showing illumination on a horizontal line below lamp#Example42_6.sce#3472/CH42/EX42.6/Example42_6.sce#S##120867
+42#ILLUMINATION#42.6#Curve showing illumination on a horizontal line below lamp#Ex42_6.png#3472/CH42/EX42.6/Ex42_6.png#R##120872
+42#ILLUMINATION#42.5#cp of the globe and Percentage of light emitted by lamp that is absorbed by the globe#Example42_5.sce#3472/CH42/EX42.5/Example42_5.sce#S##120866
+42#ILLUMINATION#42.3#Illumination at the centre Edge of surface with and Without reflector and Average illumination over the area without reflector#Example42_3.sce#3472/CH42/EX42.3/Example42_3.sce#S##120865
+42#ILLUMINATION#42.2#mscp of lamp Illumination on the surface when it is normal Inclined to 45 degree and Parallel to rays#Example42_2.sce#3472/CH42/EX42.2/Example42_2.sce#S##120864
+41#ELECTROLYTIC AND ELECTRO METALLURGICAL PROCESSES#41.3#Weight of aluminium produced from aluminium oxide#Example41_3.sce#3472/CH41/EX41.3/Example41_3.sce#S##120863
+41#ELECTROLYTIC AND ELECTRO METALLURGICAL PROCESSES#41.2#Annual output of refined copper and Energy consumption#Example41_2.sce#3472/CH41/EX41.2/Example41_2.sce#S##120862
+41#ELECTROLYTIC AND ELECTRO METALLURGICAL PROCESSES#41.1#Quantity of electricity and Time taken for the process#Example41_1.sce#3472/CH41/EX41.1/Example41_1.sce#S##120861
+40#HEATING AND WELDING#40.8#Time taken to melt Power factor and Electrical efficiency of the furnace#Example40_8.sce#3472/CH40/EX40.8/Example40_8.sce#S##120860
+40#HEATING AND WELDING#40.7#Voltage applied across electrodes and Current through the material#Example40_7.sce#3472/CH40/EX40.7/Example40_7.sce#S##120859
+40#HEATING AND WELDING#40.6#Voltage necessary for heating and Current flowing in the material#Example40_6.sce#3472/CH40/EX40.6/Example40_6.sce#S##120858
+40#HEATING AND WELDING#40.5#Height up to which the crucible should be filled to obtain maximum heating effect#Example40_5.sce#3472/CH40/EX40.5/Example40_5.sce#S##120857
+40#HEATING AND WELDING#40.4#Amount of energy required to melt brass#Example40_4.sce#3472/CH40/EX40.4/Example40_4.sce#S##120856
+40#HEATING AND WELDING#40.3#Power drawn under various connections#Example40_3.sce#3472/CH40/EX40.3/Example40_3.sce#S##120855
+40#HEATING AND WELDING#40.2#Width and Length of nickel chrome strip#Example40_2.sce#3472/CH40/EX40.2/Example40_2.sce#S##120854
+40#HEATING AND WELDING#40.1#Diameter Length and Temperature of the wire#Example40_1.sce#3472/CH40/EX40.1/Example40_1.sce#S##120853
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.9#Speed and Current when field winding is shunted by a diverter#Example39_9.sce#3472/CH39/EX39.9/Example39_9.sce#S##120827
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.7#Resistance to be placed in series with shunt field#Example39_7.sce#3472/CH39/EX39.7/Example39_7.sce#S##120826
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.6#Ratio of starting current to full load current#Example39_6.sce#3472/CH39/EX39.6/Example39_6.sce#S##120825
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.5#Motor current per phase Current from the supply Starting torque Voltage to be applied and Line current#Example39_5.sce#3472/CH39/EX39.5/Example39_5.sce#S##120824
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.4#Starting torque and Starting current if motor started by Direct switching Star delta starter Star connected auto transformer and Series parallel switch#Example39_4.sce#3472/CH39/EX39.4/Example39_4.sce#S##120823
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.34#Moment of inertia of the flywheel#Example39_34.sce#3472/CH39/EX39.34/Example39_34.sce#S##120852
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.33#Inertia of flywheel required#Example39_33.sce#3472/CH39/EX39.33/Example39_33.sce#S##120851
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.32#Time taken and Number of revolutions made to come to standstill by Plugging and Rheostatic braking#Example39_32.sce#3472/CH39/EX39.32/Example39_32.sce#S##120850
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.31#Time taken for dc shunt motor to fall in speed with constant excitation and Time for the same fall if frictional torque exists#Example39_31.sce#3472/CH39/EX39.31/Example39_31.sce#S##120849
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.30#Time taken to accelerate a fly wheel#Example39_30.sce#3472/CH39/EX39.30/Example39_30.sce#S##120848
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.3#Tapping to be provided on an auto transformer Starting torque in terms of full load torque and with Resistor used#Example39_3.sce#3472/CH39/EX39.3/Example39_3.sce#S##120822
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.29#Time taken to accelerate the motor to rated speed#Example39_29.sce#3472/CH39/EX39.29/Example39_29.sce#S##120847
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.28#Time taken to accelerate the motor to rated speed against full load torque#Example39_28.sce#3472/CH39/EX39.28/Example39_28.sce#S##120846
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.27#Suitable size of the motor#Example39_27.sce#3472/CH39/EX39.27/Example39_27.sce#S##120845
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.26#Required size of continuously rated motor#Example39_26.sce#3472/CH39/EX39.26/Example39_26.sce#S##120844
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.25#Maximum overload that can be carried by the motor#Example39_25.sce#3472/CH39/EX39.25/Example39_25.sce#S##120843
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.24#Time for which the motor can run at twice the continuously rated output without overheating#Example39_24.sce#3472/CH39/EX39.24/Example39_24.sce#S##120842
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.23#Half hour rating of motor#Example39_23.sce#3472/CH39/EX39.23/Example39_23.sce#S##120841
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.22#Final temperature rise and Thermal time constant of the motor#Example39_22.sce#3472/CH39/EX39.22/Example39_22.sce#S##120840
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.21#One hour rating of motor#Example39_21.sce#3472/CH39/EX39.21/Example39_21.sce#S##120839
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.20#Current drawn by the motor from supply and Resistance required in the armature circuit for rheostatic braking#Example39_20.sce#3472/CH39/EX39.20/Example39_20.sce#S##120838
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.2#Starting torque in terms of full load torque with star delta starter and with Auto transformer starter#Example39_2.sce#3472/CH39/EX39.2/Example39_2.sce#S##120821
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.19#Value of resistance to be connected in motor circuit#Example39_19.sce#3472/CH39/EX39.19/Example39_19.sce#S##120837
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.18#Initial plugging torque and Torque at standstill#Example39_18.sce#3472/CH39/EX39.18/Example39_18.sce#S##120836
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.17#Braking torque and Torque when motor speed has fallen#Example39_17.sce#3472/CH39/EX39.17/Example39_17.sce#S##120835
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.16#External resistance per phase added in rotor circuit to reduce speed#Example39_16.sce#3472/CH39/EX39.16/Example39_16.sce#S##120834
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.15#Ohmic value of resistor connected in the armature circuit#Example39_15.sce#3472/CH39/EX39.15/Example39_15.sce#S##120833
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.14#Resistance to be connected in series with armature to reduce speed#Example39_14.sce#3472/CH39/EX39.14/Example39_14.sce#S##120832
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.13#Additional resistance to be placed in the armature circuit#Example39_13.sce#3472/CH39/EX39.13/Example39_13.sce#S##120831
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.12#Diverter resistance as a percentage of field resistance#Example39_12.sce#3472/CH39/EX39.12/Example39_12.sce#S##120830
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.11#Speed of motor with a diverter connected in parallel with series field#Example39_11.sce#3472/CH39/EX39.11/Example39_11.sce#S##120829
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.10#Additional resistance to be inserted in the field circuit to raise the speed#Example39_10.sce#3472/CH39/EX39.10/Example39_10.sce#S##120828
+39#INDUSTRIAL APPLICATIONS OF ELECTRIC MOTORS#39.1#Total annual cost of group drive and Individual drive#Example39_1.sce#3472/CH39/EX39.1/Example39_1.sce#S##120820
+36#PROTECTION OF TRANSMISSION LINE SHUNT INDUCTORS AND CAPACITORS#36.2#Impedance seen by relay and Relay setting for high speed backup protection#Example36_2.sce#3472/CH36/EX36.2/Example36_2.sce#S##120819
+36#PROTECTION OF TRANSMISSION LINE SHUNT INDUCTORS AND CAPACITORS#36.1#First Second and Third zone relay setting Without infeed and With infeed#Example36_1.sce#3472/CH36/EX36.1/Example36_1.sce#S##120818
+35#PROTECTION OF TRANSFORMERS#35.6#Suitable CT ratios#Example35_6.sce#3472/CH35/EX35.6/Example35_6.sce#S##120817
+35#PROTECTION OF TRANSFORMERS#35.5#CT ratios on high voltage side#Example35_5.sce#3472/CH35/EX35.5/Example35_5.sce#S##120816
+35#PROTECTION OF TRANSFORMERS#35.4#Ratio of protective CTs#Example35_4.sce#3472/CH35/EX35.4/Example35_4.sce#S##120815
+35#PROTECTION OF TRANSFORMERS#35.3#Ratio of CTs on high voltage side#Example35_3.sce#3472/CH35/EX35.3/Example35_3.sce#S##120814
+35#PROTECTION OF TRANSFORMERS#35.2#Ratio of CTs#Example35_2.sce#3472/CH35/EX35.2/Example35_2.sce#S##120813
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.8#Magnitude of neutral earthing resistance#Example34_8.sce#3472/CH34/EX34.8/Example34_8.sce#S##120812
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.7#Percentage of winding that is protected against earth faults#Example34_7.sce#3472/CH34/EX34.7/Example34_7.sce#S##120811
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.6#Portion of winding unprotected#Example34_6.sce#3472/CH34/EX34.6/Example34_6.sce#S##120810
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.5#Winding of each phase unprotected against earth when machine operates at nominal voltage#Example34_5.sce#3472/CH34/EX34.5/Example34_5.sce#S##120809
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.4#Will the relay trip the generator CB#Example34_4.sce#3472/CH34/EX34.4/Example34_4.sce#S##120808
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.3#Portion of alternator winding unprotected#Example34_3.sce#3472/CH34/EX34.3/Example34_3.sce#S##120807
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.2#Unprotected portion of each phase of the stator winding against earth fault and Effect of varying neutral earthing resistance#Example34_2.sce#3472/CH34/EX34.2/Example34_2.sce#S##120806
+34#PROTECTION OF ALTERNATORS AND AC MOTORS#34.1#Neutral earthing reactance#Example34_1.sce#3472/CH34/EX34.1/Example34_1.sce#S##120805
+33#PROTECTIVE RELAYS#33.6#Will the relay operate the trip of the breaker#Example33_6.sce#3472/CH33/EX33.6/Example33_6.sce#S##120804
+33#PROTECTIVE RELAYS#33.4#Time of operation of the two relays#Example33_4.sce#3472/CH33/EX33.4/Example33_4.sce#S##120803
+33#PROTECTIVE RELAYS#33.3#Operating time of feeder relay Minimum plug setting of transformer relay and Time setting of transformer#Example33_3.sce#3472/CH33/EX33.3/Example33_3.sce#S##120802
+33#PROTECTIVE RELAYS#33.2#Time of operation of the relay#Example33_2.sce#3472/CH33/EX33.2/Example33_2.sce#S##120801
+33#PROTECTIVE RELAYS#33.1#Time of operation of the relay#Example33_1.sce#3472/CH33/EX33.1/Example33_1.sce#S##120800
+32#CIRCUIT BREAKER#32.8#Sustained short circuit Initial symmetrical rms current Maximum possible dc component of the short circuit Momentary current rating Current to be interrupted and Interrupting kVA#Example32_8.sce#3472/CH32/EX32.8/Example32_8.sce#S##120799
+32#CIRCUIT BREAKER#32.6#Rated normal current Breaking current Making current and Short time rating#Example32_6.sce#3472/CH32/EX32.6/Example32_6.sce#S##120798
+32#CIRCUIT BREAKER#32.5#Voltage across the pole of a CB and Resistance to be used across the contacts#Example32_5.sce#3472/CH32/EX32.5/Example32_5.sce#S##120797
+32#CIRCUIT BREAKER#32.3#Rate of rise of restriking voltage#Example32_3.sce#3472/CH32/EX32.3/Example32_3.sce#S##120796
+32#CIRCUIT BREAKER#32.1#Maximum restriking voltage Frequency of transient oscillation and Average rate of rise of voltage upto first peak of oscillation#Example32_1.sce#3472/CH32/EX32.1/Example32_1.sce#S##120795
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.9#Fault currents in the lines#Example30_9.sce#3472/CH30/EX30.9/Example30_9.sce#S##120789
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.8#Fault current when a single phase to earth fault occurs#Example30_8.sce#3472/CH30/EX30.8/Example30_8.sce#S##120788
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.7#Fault current for a LG fault at C#Example30_7.sce#3472/CH30/EX30.7/Example30_7.sce#S##120787
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.6#Fault current for line fault and Line to ground fault#Example30_6.sce#3472/CH30/EX30.6/Example30_6.sce#S##120786
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.5#Fault currents#Example30_5.sce#3472/CH30/EX30.5/Example30_5.sce#S##120785
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.4#Fault currents in each line and Potential above earth attained by the alternator neutrals#Example30_4.sce#3472/CH30/EX30.4/Example30_4.sce#S##120784
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.3#Fault current Sequence component of current and Voltages of the sound line to earth at fault#Example30_3.sce#3472/CH30/EX30.3/Example30_3.sce#S##120783
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.2#Current in the line with two lines short circuited#Example30_2.sce#3472/CH30/EX30.2/Example30_2.sce#S##120782
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.14#Initial symmetrical rms current in all phases of generator#Example30_14.sce#3472/CH30/EX30.14/Example30_14.sce#S##120794
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.13#Sub transient current in the faulty phase#Example30_13.sce#3472/CH30/EX30.13/Example30_13.sce#S##120793
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.12#Fault current if all 3 phases short circuited If single line is grounded and Short circuit between two lines#Example30_12.sce#3472/CH30/EX30.12/Example30_12.sce#S##120792
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.11#Fault currents#Example30_11.sce#3472/CH30/EX30.11/Example30_11.sce#S##120791
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.10#Currents in the faulted phase Current through ground and Voltage of healthy phase to neutral#Example30_10.sce#3472/CH30/EX30.10/Example30_10.sce#S##120790
+30#UNSYMMETRICAL FAULTS IN POWER SYSTEMS#30.1#Initial symmetrical rms line currents Ground wire currents and Line to neutral voltages involving ground and Solidly grounded fault#Example30_1.sce#3472/CH30/EX30.1/Example30_1.sce#S##120781
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.9#Currents in all the lines and their symmetrical components#Example29_9.sce#3472/CH29/EX29.9/Example29_9.sce#S##120778
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.8#Positive Negative and Zero sequence components of currents for all phases#Example29_8.sce#3472/CH29/EX29.8/Example29_8.sce#S##120777
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.7#Symmetrical components of line current if phase 3 is only switched off#Example29_7.sce#3472/CH29/EX29.7/Example29_7.sce#S##120776
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.6#Current in each line by the method of symmetrical components#Example29_6.sce#3472/CH29/EX29.6/Example29_6.sce#S##120775
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.5#Magnitude of positive and Negative sequence components of the delta and Star voltages#Example29_5.sce#3472/CH29/EX29.5/Example29_5.sce#S##120774
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.4#Sequence components of currents in the resistors and Supply lines#Example29_4.sce#3472/CH29/EX29.4/Example29_4.sce#S##120773
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.11#Three line currents and Wattmeter reading#Example29_11.sce#3472/CH29/EX29.11/Example29_11.sce#S##120780
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.10#Radius of voltmeter connected to the yellow line and Current through the voltmeter#Example29_10.sce#3472/CH29/EX29.10/Example29_10.sce#S##120779
+29#SYMMETRICAL COMPONENTS ANALYSIS#29.1#Positive Negative and Zero sequence currents#Example29_1.sce#3472/CH29/EX29.1/Example29_1.sce#S##120772
+28#FAULT LIMITING REACTORS#28.5#Instantaneous symmetrical short circuit MVA for a fault at X#Example28_5.sce#3472/CH28/EX28.5/Example28_5.sce#S##120771
+28#FAULT LIMITING REACTORS#28.4#Reactance of each reactor#Example28_4.sce#3472/CH28/EX28.4/Example28_4.sce#S##120770
+28#FAULT LIMITING REACTORS#28.2#kVA developed under short circuit when reactors are in circuit and Short circuited#Example28_2.sce#3472/CH28/EX28.2/Example28_2.sce#S##120769
+28#FAULT LIMITING REACTORS#28.1#Reactance necessary to protect the switchgear#Example28_1.sce#3472/CH28/EX28.1/Example28_1.sce#S##120751
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.9#Initial symmetrical rms current in the hv side and lv side#Example27_9.sce#3472/CH27/EX27.9/Example27_9.sce#S##120747
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.8#Voltage behind the respective reactances#Example27_8.sce#3472/CH27/EX27.8/Example27_8.sce#S##120746
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.7#Sub transient fault current#Example27_7.sce#3472/CH27/EX27.7/Example27_7.sce#S##120745
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.6#Actual fault current using per unit method#Example27_6.sce#3472/CH27/EX27.6/Example27_6.sce#S##120744
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.5#Per unit values of the single line diagram#Example27_5.sce#3472/CH27/EX27.5/Example27_5.sce#S##120743
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.4#Current in the short circuit#Example27_4.sce#3472/CH27/EX27.4/Example27_4.sce#S##120742
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.3#Transient short circuit current and Sustained short circuit current at X#Example27_3.sce#3472/CH27/EX27.3/Example27_3.sce#S##120741
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.2#kVA at a short circuit fault between phases at the HV terminal of transformers and Load end of transmission line#Example27_2.sce#3472/CH27/EX27.2/Example27_2.sce#S##120740
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.12#Sub transient fault current Fault current rating of generator breaker and Each motor breaker#Example27_12.sce#3472/CH27/EX27.12/Example27_12.sce#S##120750
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.11#Sub transient current in the fault in generator and Motor#Example27_11.sce#3472/CH27/EX27.11/Example27_11.sce#S##120749
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.10#Initial symmetrical rms current at the generator terminal#Example27_10.sce#3472/CH27/EX27.10/Example27_10.sce#S##120748
+27#SYMMETRICAL SHORT CIRCUIT CAPACITY CALCULATIONS#27.1#Per unit current#Example27_1.sce#3472/CH27/EX27.1/Example27_1.sce#S##120739
+25#POWER DISTRIBUTION SYSTEMS#25.9#Currents in various sections and Voltage at load point C#Example25_9.sce#3472/CH25/EX25.9/Example25_9.sce#S##120738
+25#POWER DISTRIBUTION SYSTEMS#25.8#Load on the main generators and On each balancer machine#Example25_8.sce#3472/CH25/EX25.8/Example25_8.sce#S##120737
+25#POWER DISTRIBUTION SYSTEMS#25.7#Potential difference at each load point#Example25_7.sce#3472/CH25/EX25.7/Example25_7.sce#S##120736
+25#POWER DISTRIBUTION SYSTEMS#25.6#Ratio of weight of copper with and without interconnector#Example25_6.sce#3472/CH25/EX25.6/Example25_6.sce#S##120735
+25#POWER DISTRIBUTION SYSTEMS#25.4#Point of minimum potential and its Potential#Example25_4.sce#3472/CH25/EX25.4/Example25_4.sce#S##120900
+25#POWER DISTRIBUTION SYSTEMS#25.3#Position of lowest run lamp and its Voltage#Example25_3.sce#3472/CH25/EX25.3/Example25_3.sce#S##120733
+25#POWER DISTRIBUTION SYSTEMS#25.2#Point of minimum potential along the track and Currents supplied by two substations#Example25_2.sce#3472/CH25/EX25.2/Example25_2.sce#S##120732
+25#POWER DISTRIBUTION SYSTEMS#25.1#Potential of O and Current leaving each supply point#Example25_1.sce#3472/CH25/EX25.1/Example25_1.sce#S##120731
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.9#Most economical cross section of the conductor#Example24_9.sce#3472/CH24/EX24.9/Example24_9.sce#S##120730
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.8#Most economical current density for the transmission line#Example24_8.sce#3472/CH24/EX24.8/Example24_8.sce#S##120729
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.7#Most economical cross section#Example24_7.sce#3472/CH24/EX24.7/Example24_7.sce#S##120728
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.6#Economical cross section of a 3 core distributor cable#Example24_6.sce#3472/CH24/EX24.6/Example24_6.sce#S##120727
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.5#Weight of copper required and Reduction of weight of copper possible#Example24_5.sce#3472/CH24/EX24.5/Example24_5.sce#S##120726
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.4#Amount of copper required for 3 phase 4 wire system with that needed for 2 wire dc system#Example24_4.sce#3472/CH24/EX24.4/Example24_4.sce#S##120725
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.3#Percentage additional balanced load#Example24_3.sce#3472/CH24/EX24.3/Example24_3.sce#S##120724
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.2#Percentage increase in power transmitted#Example24_2.sce#3472/CH24/EX24.2/Example24_2.sce#S##120723
+24#ELECTRIC POWER SUPPLY SYSTEMS#24.1#Weight of copper required for a three phase transmission system and DC transmission system#Example24_1.sce#3472/CH24/EX24.1/Example24_1.sce#S##120722
+23#POWER SYSTEM GROUNDING#23.1#Inductance and Rating of arc suppression coil#Example23_1.sce#3472/CH23/EX23.1/Example23_1.sce#S##120721
+22#INSULATION COORDINATION#22.2#Rating of LA and Location with respect to transformer#Example22_2.sce#3472/CH22/EX22.2/Example22_2.sce#S##120720
+22#INSULATION COORDINATION#22.1#Highest voltage to which the transformer is subjected#Example22_1.sce#3472/CH22/EX22.1/Example22_1.sce#S##120719
+21#LIGHTNING AND PROTECTION AGAINST OVERVOLTAGES DUE TO LIGHTNING#21.2#Choosing suitable arrester rating#Example21_2.sce#3472/CH21/EX21.2/Example21_2.sce#S##120718
+21#LIGHTNING AND PROTECTION AGAINST OVERVOLTAGES DUE TO LIGHTNING#21.1#Ratio of voltages appearing at the end of a line when line is open circuited and Terminated by arrester#Example21_1.sce#3472/CH21/EX21.1/Example21_1.sce#S##120717
+20#WAVE PROPAGATION ON TRANSMISSION LINES#20.6#Voltage and Current in the cable and Open wire lines#Example20_6.sce#3472/CH20/EX20.6/Example20_6.sce#S##120716
+20#WAVE PROPAGATION ON TRANSMISSION LINES#20.5#First and Second voltages impressed on C#Example20_5.sce#3472/CH20/EX20.5/Example20_5.sce#S##120715
+20#WAVE PROPAGATION ON TRANSMISSION LINES#20.4#Reflected and Transmitted wave of Voltage and Current at the junction#Example20_4.sce#3472/CH20/EX20.4/Example20_4.sce#S##120714
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.9#Station power factors and Phase angle between two busbar voltages#Example18_9.sce#3472/CH18/EX18.9/Example18_9.sce#S##120709
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.8#Percentage increase in voltage and Phase angle difference between the two busbar voltages#Example18_8.sce#3472/CH18/EX18.8/Example18_8.sce#S##120708
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.7#Load received Power factor and Phase difference between voltage#Example18_7.sce#3472/CH18/EX18.7/Example18_7.sce#S##120707
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.6#Voltage and Power factor at this latter station#Example18_6.sce#3472/CH18/EX18.6/Example18_6.sce#S##120706
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.5#Phase angle between busbar sections#Example18_5.sce#3472/CH18/EX18.5/Example18_5.sce#S##120705
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.4#New value of machine current and PF Power output Current and PF corresponding to maximum load#Example18_4.sce#3472/CH18/EX18.4/Example18_4.sce#S##120704
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.3#Armature current EMF and PF of the other alternator#Example18_3.sce#3472/CH18/EX18.3/Example18_3.sce#S##120703
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.2#Synchronizing power and Synchronizing torque for no load and full load#Example18_2.sce#3472/CH18/EX18.2/Example18_2.sce#S##120702
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.13#Loss in the interconnector as a percentage of power received and Required voltage of the booster#Example18_13.sce#3472/CH18/EX18.13/Example18_13.sce#S##120713
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.12#Load on C at two different conditions of load in A and B#Example18_12.sce#3472/CH18/EX18.12/Example18_12.sce#S##120712
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.11#Necessary booster voltages#Example18_11.sce#3472/CH18/EX18.11/Example18_11.sce#S##120711
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.10#Constants of the second feeder#Example18_10.sce#3472/CH18/EX18.10/Example18_10.sce#S##120710
+18#LOAD FREQUENCY CONTROL AND LOAD SHARING OF POWER GENERATING SOURCES#18.1#Load shared by two machines and Load at which one machine ceases to supply any portion of load#Example18_1.sce#3472/CH18/EX18.1/Example18_1.sce#S##120701
+17#POWER SYSTEM STABILITY#17.9#Maximum steady state power that can be transmitted over the line#Example17_9.sce#3472/CH17/EX17.9/Example17_9.sce#S##120680
+17#POWER SYSTEM STABILITY#17.8#Power angle diagram Maximum power the line is capable of transmitting and  Power transmitted with equal voltage at both ends#Example17_8.sce#3472/CH17/EX17.8/Example17_8.sce#S##120679
+17#POWER SYSTEM STABILITY#17.8#Power angle diagram Maximum power the line is capable of transmitting and  Power transmitted with equal voltage at both ends#Ex17_8.png#3472/CH17/EX17.8/Ex17_8.png#R##120681
+17#POWER SYSTEM STABILITY#17.6#Steady state stability limit with two terminal voltages constant and If shunt admittance is zero and series resistance neglected#Example17_6.sce#3472/CH17/EX17.6/Example17_6.sce#S##120678
+17#POWER SYSTEM STABILITY#17.5#QgB Phase angle of VB and What happens if QgB is made zero#Example17_5.sce#3472/CH17/EX17.5/Example17_5.sce#S##120677
+17#POWER SYSTEM STABILITY#17.4#Maximum power transfer and Stability margin#Example17_4.sce#3472/CH17/EX17.4/Example17_4.sce#S##120676
+17#POWER SYSTEM STABILITY#17.30#Power angle and Swing curve data#Example17_30.sce#3472/CH17/EX17.30/Example17_30.sce#S##120699
+17#POWER SYSTEM STABILITY#17.3#Maximum power transfer if shunt inductor and Shunt capacitor is connected at bus 2#Example17_3.sce#3472/CH17/EX17.3/Example17_3.sce#S##120675
+17#POWER SYSTEM STABILITY#17.28#Critical clearing angle#Example17_28.sce#3472/CH17/EX17.28/Example17_28.sce#S##120698
+17#POWER SYSTEM STABILITY#17.27#Critical angle using equal area criterion#Example17_27.sce#3472/CH17/EX17.27/Example17_27.sce#S##120697
+17#POWER SYSTEM STABILITY#17.26#Critical clearing angle#Example17_26.sce#3472/CH17/EX17.26/Example17_26.sce#S##120700
+17#POWER SYSTEM STABILITY#17.24#Swing equation#Example17_24.sce#3472/CH17/EX17.24/Example17_24.sce#S##120695
+17#POWER SYSTEM STABILITY#17.23#Accelerating torque at the time of fault occurrence#Example17_23.sce#3472/CH17/EX17.23/Example17_23.sce#S##120694
+17#POWER SYSTEM STABILITY#17.22#Change in torque angle and Speed in rpm at the end of 10 cycles#Example17_22.sce#3472/CH17/EX17.22/Example17_22.sce#S##120693
+17#POWER SYSTEM STABILITY#17.21#Kinetic energy stored by rotor at synchronous speed and Acceleration in #Example17_21.sce#3472/CH17/EX17.21/Example17_21.sce#S##120692
+17#POWER SYSTEM STABILITY#17.20#Accelerating power and New power angle after 10 cycles#Example17_20.sce#3472/CH17/EX17.20/Example17_20.sce#S##120691
+17#POWER SYSTEM STABILITY#17.2#Minimum value of E and VL Maximum power limit and Steady state stability margin#Example17_2.sce#3472/CH17/EX17.2/Example17_2.sce#S##120674
+17#POWER SYSTEM STABILITY#17.19#Acceleration of the rotor#Example17_19.sce#3472/CH17/EX17.19/Example17_19.sce#S##120690
+17#POWER SYSTEM STABILITY#17.18#Energy stored in the rotor at the rated speed Value of H and Angular momentum#Example17_18.sce#3472/CH17/EX17.18/Example17_18.sce#S##120689
+17#POWER SYSTEM STABILITY#17.17#Equivalent H for the two to common 100 MVA base#Example17_17.sce#3472/CH17/EX17.17/Example17_17.sce#S##120688
+17#POWER SYSTEM STABILITY#17.16#Value of H and in 100 MVA base#Example17_16.sce#3472/CH17/EX17.16/Example17_16.sce#S##120687
+17#POWER SYSTEM STABILITY#17.14#Accelerating torque at the time the fault occurs#Example17_14.sce#3472/CH17/EX17.14/Example17_14.sce#S##120686
+17#POWER SYSTEM STABILITY#17.13#Change in torque angle in that period and RPM at the end of 10 cycles#Example17_13.sce#3472/CH17/EX17.13/Example17_13.sce#S##120685
+17#POWER SYSTEM STABILITY#17.12#Kinetic energy stored in the rotor at synchronous speed and Acceleration#Example17_12.sce#3472/CH17/EX17.12/Example17_12.sce#S##120684
+17#POWER SYSTEM STABILITY#17.11#Kinetic energy stored in the rotor at synchronous speed and Acceleration#Example17_11.sce#3472/CH17/EX17.11/Example17_11.sce#S##120683
+17#POWER SYSTEM STABILITY#17.10#Maximum steady state power Value of P and Q if static capacitor is connected and Replaced by an inductive reactor#Example17_10.sce#3472/CH17/EX17.10/Example17_10.sce#S##120682
+17#POWER SYSTEM STABILITY#17.1#Operating power angle and Magnitude of P0#Example17_1.sce#3472/CH17/EX17.1/Example17_1.sce#S##120673
+16#LOAD FLOW STUDY USING COMPUTER TECHNIQUES#16.8#Voltage V2 by GS method#Example16_8.sce#3472/CH16/EX16.8/Example16_8.sce#S##120672
+16#LOAD FLOW STUDY USING COMPUTER TECHNIQUES#16.7#Power flow expressions#Example16_7.sce#3472/CH16/EX16.7/Example16_7.sce#S##120671
+16#LOAD FLOW STUDY USING COMPUTER TECHNIQUES#16.6#Bus impedance matrix Zbus#Example16_6.sce#3472/CH16/EX16.6/Example16_6.sce#S##120670
+16#LOAD FLOW STUDY USING COMPUTER TECHNIQUES#16.5#Bus admittance matrix V1 and V2#Example16_5.sce#3472/CH16/EX16.5/Example16_5.sce#S##120669
+16#LOAD FLOW STUDY USING COMPUTER TECHNIQUES#16.4#New bus admittance matrix Ybus#Example16_4.sce#3472/CH16/EX16.4/Example16_4.sce#S##120668
+16#LOAD FLOW STUDY USING COMPUTER TECHNIQUES#16.3#Voltage values at different buses#Example16_3.sce#3472/CH16/EX16.3/Example16_3.sce#S##120667
+16#LOAD FLOW STUDY USING COMPUTER TECHNIQUES#16.1#Bus admittance matrix Ybus#Example16_1.sce#3472/CH16/EX16.1/Example16_1.sce#S##120666
+15#CORONA#15.8#Line voltage for commencing of corona#Example15_8.sce#3472/CH15/EX15.8/Example15_8.sce#S##120662
+15#CORONA#15.7#Corona will be present in the air space or not#Example15_7.sce#3472/CH15/EX15.7/Example15_7.sce#S##120663
+15#CORONA#15.6#Disruptive critical voltage and Corona loss#Example15_6.sce#3472/CH15/EX15.6/Example15_6.sce#S##120660
+15#CORONA#15.5#Spacing between the conductors#Example15_5.sce#3472/CH15/EX15.5/Example15_5.sce#S##120659
+15#CORONA#15.4#Corona characteristics#Example15_4.sce#3472/CH15/EX15.4/Example15_4.sce#S##120658
+15#CORONA#15.3#Corona loss in fair weather and Foul weather#Example15_3.sce#3472/CH15/EX15.3/Example15_3.sce#S##120657
+15#CORONA#15.2#Critical disruptive voltage and Corona loss#Example15_2.sce#3472/CH15/EX15.2/Example15_2.sce#S##120656
+15#CORONA#15.1#Minimum spacing between conductors#Example15_1.sce#3472/CH15/EX15.1/Example15_1.sce#S##120633
+14#UNDERGROUND CABLES#14.9#Maximum stress with and without intersheath Best position and Voltage on each intersheath#Example14_9.sce#3472/CH14/EX14.9/Example14_9.sce#S##120623
+14#UNDERGROUND CABLES#14.8#Maximum and Minimum stress in the insulation#Example14_8.sce#3472/CH14/EX14.8/Example14_8.sce#S##120622
+14#UNDERGROUND CABLES#14.7#Location of intersheath and Ratio of maximum electric field strength with and without intersheath#Example14_7.sce#3472/CH14/EX14.7/Example14_7.sce#S##120621
+14#UNDERGROUND CABLES#14.6#Conductor radius and Electric field strength that must be withstood#Example14_6.sce#3472/CH14/EX14.6/Example14_6.sce#S##120620
+14#UNDERGROUND CABLES#14.4#Most economical diameter of a single core cable and Overall diameter of the insulation#Example14_4.sce#3472/CH14/EX14.4/Example14_4.sce#S##120665
+14#UNDERGROUND CABLES#14.3#Capacitance and Charging current of single core cable#Example14_3.sce#3472/CH14/EX14.3/Example14_3.sce#S##120619
+14#UNDERGROUND CABLES#14.2#Insulation thickness#Example14_2.sce#3472/CH14/EX14.2/Example14_2.sce#S##120618
+14#UNDERGROUND CABLES#14.16#Capacitance of the cable Charging current Total charging kVAR Dielectric loss per phase and Maximum stress in the cable#Example14_16.sce#3472/CH14/EX14.16/Example14_16.sce#S##120655
+14#UNDERGROUND CABLES#14.15#Charging current drawn by cable#Example14_15.sce#3472/CH14/EX14.15/Example14_15.sce#S##120654
+14#UNDERGROUND CABLES#14.14#Capacitance between any two conductors Two bounded conductors Capacitance to neutral and Charging current taken by cable#Example14_14.sce#3472/CH14/EX14.14/Example14_14.sce#S##120629
+14#UNDERGROUND CABLES#14.13#Charging current drawn by a cable with three cores#Example14_13.sce#3472/CH14/EX14.13/Example14_13.sce#S##120628
+14#UNDERGROUND CABLES#14.12#Equivalent star connected capacity and kVA required#Example14_12.sce#3472/CH14/EX14.12/Example14_12.sce#S##120627
+14#UNDERGROUND CABLES#14.11#Diameter and Voltage of intersheath Conductor and Outside diameter of graded cable and Ungraded cable#Example14_11.sce#3472/CH14/EX14.11/Example14_11.sce#S##120626
+14#UNDERGROUND CABLES#14.10#Maximum stress in the two dielectrics#Example14_10.sce#3472/CH14/EX14.10/Example14_10.sce#S##120625
+14#UNDERGROUND CABLES#14.1#Insulation resistance per km#Example14_1.sce#3472/CH14/EX14.1/Example14_1.sce#S##120617
+13#INTERFERENCE OF POWER LINES WITH NEIGHBOURING COMMUNICATION CIRCUITS#13.2#Induced voltage at fundamental frequency and Potential of telephone conductor#Example13_2.sce#3472/CH13/EX13.2/Example13_2.sce#S##120551
+13#INTERFERENCE OF POWER LINES WITH NEIGHBOURING COMMUNICATION CIRCUITS#13.1#Mutual inductance between the circuits and Voltage induced in the telephone line#Example13_1.sce#3472/CH13/EX13.1/Example13_1.sce#S##120550
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.9#Sag at erection and Tension of the line#Example12_9.sce#3472/CH12/EX12.9/Example12_9.sce#S##120614
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.8#Clearance between conductor and water at a point midway between towers#Example12_8.sce#3472/CH12/EX12.8/Example12_8.sce#S##120613
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.7#Point of minimum sag#Example12_7.sce#3472/CH12/EX12.7/Example12_7.sce#S##120612
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.6#Maximum sag of line due to weight of conductor Additional weight of ice Plus wind and Vertical sag#Example12_6.sce#3472/CH12/EX12.6/Example12_6.sce#S##120611
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.5#Permissible span between two supports#Example12_5.sce#3472/CH12/EX12.5/Example12_5.sce#S##120610
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.4#Height above ground at which the conductors should be supported#Example12_4.sce#3472/CH12/EX12.4/Example12_4.sce#S##120609
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.3#Vertical sag#Example12_3.sce#3472/CH12/EX12.3/Example12_3.sce#S##120608
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.2#Point of maximum sag at the lower support#Example12_2.sce#3472/CH12/EX12.2/Example12_2.sce#S##120607
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.11#Sag in still air Wind pressure Ice coating and Vertical sag#Example12_11.sce#3472/CH12/EX12.11/Example12_11.sce#S##120616
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.10#Sag in inclined direction and Vertical direction#Example12_10.sce#3472/CH12/EX12.10/Example12_10.sce#S##120615
+12#MECHANICAL DESIGN OF OVERHEAD LINES#12.1#Weight of conductor#Example12_1.sce#3472/CH12/EX12.1/Example12_1.sce#S##120606
+11#OVERHEAD LINE INSULATORS#11.9#Voltage on the line end unit and Value of capacitance required#Example11_9.sce#3472/CH11/EX11.9/Example11_9.sce#S##120605
+11#OVERHEAD LINE INSULATORS#11.8#Voltage across each insulator as a percentage of line voltage to earth and String efficiency#Example11_8.sce#3472/CH11/EX11.8/Example11_8.sce#S##120604
+11#OVERHEAD LINE INSULATORS#11.7#Voltage across each insulator as a percentage of line voltage to earth and String efficiency With and Without guard ring#Example11_7.sce#3472/CH11/EX11.7/Example11_7.sce#S##120603
+11#OVERHEAD LINE INSULATORS#11.6#Voltage distribution as a percentage of voltage of conductor to earth and String efficiency#Example11_6.sce#3472/CH11/EX11.6/Example11_6.sce#S##120602
+11#OVERHEAD LINE INSULATORS#11.5#Value of line to pin capacitance#Example11_5.sce#3472/CH11/EX11.5/Example11_5.sce#S##120601
+11#OVERHEAD LINE INSULATORS#11.4#Line to neutral voltage and String efficiency#Example11_4.sce#3472/CH11/EX11.4/Example11_4.sce#S##120600
+11#OVERHEAD LINE INSULATORS#11.3#Voltage distribution over a string of three suspension insulators and String efficiency#Example11_3.sce#3472/CH11/EX11.3/Example11_3.sce#S##120599
+11#OVERHEAD LINE INSULATORS#11.2#Mutual capacitance of each unit in terms of C#Example11_2.sce#3472/CH11/EX11.2/Example11_2.sce#S##120598
+11#OVERHEAD LINE INSULATORS#11.1#Ratio of capacitance Line voltage and String efficiency#Example11_1.sce#3472/CH11/EX11.1/Example11_1.sce#S##120597
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.9#Sending end voltage Current and Transmission efficiency#Example10_9.sce#3472/CH10/EX10.9/Example10_9.sce#S##120577
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.8#Voltage Current and Power factor at sending end#Example10_8.sce#3472/CH10/EX10.8/Example10_8.sce#S##120559
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.7#Nominal pi equivalent circuit parameters and Receiving end voltage#Example10_7.sce#3472/CH10/EX10.7/Example10_7.sce#S##120558
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.6#Voltage regulation Sending end voltage Line loss and Sending end power factor#Example10_6.sce#3472/CH10/EX10.6/Example10_6.sce#S##120557
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.5#Sending end voltage Voltage regulation Value of capacitors and Transmission efficiency#Example10_5.sce#3472/CH10/EX10.5/Example10_5.sce#S##120556
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.4#Distance over which load is delivered#Example10_4.sce#3472/CH10/EX10.4/Example10_4.sce#S##120555
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.3#Sending end voltage#Example10_3.sce#3472/CH10/EX10.3/Example10_3.sce#S##120554
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.26#Maximum power that can be transferred to the load#Example10_26.sce#3472/CH10/EX10.26/Example10_26.sce#S##120596
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.25#Maximum power transmitted Receiving end power factor and Total line loss#Example10_25.sce#3472/CH10/EX10.25/Example10_25.sce#S##120595
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.24#Values of constants A0 B0 C0 D0#Example10_24.sce#3472/CH10/EX10.24/Example10_24.sce#S##120594
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.23#Overall constants A B C D#Example10_23.sce#3472/CH10/EX10.23/Example10_23.sce#S##120593
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.21#Sending end voltage Current Power factor and Efficiency of transmission#Example10_21.sce#3472/CH10/EX10.21/Example10_21.sce#S##120592
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.20#Sending end voltage Voltage regulation Transmission efficiency and A B C D constants by Short line Nominal T Nominal pi and Long line approximation#Example10_20.sce#3472/CH10/EX10.20/Example10_20.sce#S##120591
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.2#Line current Receiving end voltage and Efficiency of transmission#Example10_2.sce#3472/CH10/EX10.2/Example10_2.sce#S##120553
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.19#Sending end voltage and Current using nominal pi and nominal T method#Example10_19.sce#3472/CH10/EX10.19/Example10_19.sce#S##120590
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.18#Sending end voltage and Current using convergent series method#Example10_18.sce#3472/CH10/EX10.18/Example10_18.sce#S##120589
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.17#Values of auxiliary constants A B C D#Example10_17.sce#3472/CH10/EX10.17/Example10_17.sce#S##120587
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.16#Sending end voltage Current Power factor and Efficiency#Example10_16.sce#3472/CH10/EX10.16/Example10_16.sce#S##120586
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.15#A B C D constants#Example10_15.sce#3472/CH10/EX10.15/Example10_15.sce#S##120585
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.14#Incident voltage and Reflected voltage at receiving end and 200 km from receiving end#Example10_14.sce#3472/CH10/EX10.14/Example10_14.sce#S##120584
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.13#Sending end voltage and Current#Example10_13.sce#3472/CH10/EX10.13/Example10_13.sce#S##120583
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.12#Receiving end Voltage Load and Nature of compensation required#Example10_12.sce#3472/CH10/EX10.12/Example10_12.sce#S##120582
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.11#Voltage Current Power factor at sending end Regulation and Transmission efficiency by Nominal T and Pi method#Example10_11.sce#3472/CH10/EX10.11/Example10_11.sce#S##120579
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.10#Line to line voltage and Power factor at sending end#Example10_10.sce#3472/CH10/EX10.10/Example10_10.sce#S##120578
+10#STEADY STATE CHARACTERISTICS AND PERFORMANCE OF TRANSMISSION LINES#10.1#Voltage regulation Sending end power factor and Transmission efficiency#Example10_1.sce#3472/CH10/EX10.1/Example10_1.sce#S##120552
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.9#Inductance of the line per phase#Example9_9.sce#3472/CH9/EX9.9/Example9_9.sce#S##120532
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.8#Geometric mean radius of the conductor and Ratio of GMR to overall conductor radius#Example9_8.sce#3472/CH9/EX9.8/Example9_8.sce#S##120531
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.7#Inductance per km of the double circuit line#Example9_7.sce#3472/CH9/EX9.7/Example9_7.sce#S##120530
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.6#Inductance of the line#Example9_6.sce#3472/CH9/EX9.6/Example9_6.sce#S##120529
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.5#Total inductance of the line#Example9_5.sce#3472/CH9/EX9.5/Example9_5.sce#S##120528
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.4#Inductance per phase of the system#Example9_4.sce#3472/CH9/EX9.4/Example9_4.sce#S##120527
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.3#Loop inductance of line per km#Example9_3.sce#3472/CH9/EX9.3/Example9_3.sce#S##120526
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.26#Capacitance of each line conductor#Example9_26.sce#3472/CH9/EX9.26/Example9_26.sce#S##120549
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.25#Capacitance of the line#Example9_25.sce#3472/CH9/EX9.25/Example9_25.sce#S##120548
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.24#Capacitance of the line and Charging current#Example9_24.sce#3472/CH9/EX9.24/Example9_24.sce#S##120547
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.23#Inductive reactance Capacitance and Capacitive reactance of the line#Example9_23.sce#3472/CH9/EX9.23/Example9_23.sce#S##120546
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.22#Capacitive reactance to neutral and Charging current per phase#Example9_22.sce#3472/CH9/EX9.22/Example9_22.sce#S##120545
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.21#Capacitance per phase to neutral#Example9_21.sce#3472/CH9/EX9.21/Example9_21.sce#S##120544
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.20#Phase to neutral capacitance#Example9_20.sce#3472/CH9/EX9.20/Example9_20.sce#S##120543
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.2#Inductance per phase of the system#Example9_2.sce#3472/CH9/EX9.2/Example9_2.sce#S##120525
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.19#Capacitance per phase to neutral of a line#Example9_19.sce#3472/CH9/EX9.19/Example9_19.sce#S##120542
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.18#New value of capacitance#Example9_18.sce#3472/CH9/EX9.18/Example9_18.sce#S##120541
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.17#Capacitance of conductor#Example9_17.sce#3472/CH9/EX9.17/Example9_17.sce#S##120540
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.16#Capacitance of line neglecting and taking presence of ground#Example9_16.sce#3472/CH9/EX9.16/Example9_16.sce#S##120539
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.15#Spacing between adjacent conductor to keep same inductance#Example9_15.sce#3472/CH9/EX9.15/Example9_15.sce#S##120538
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.14#Inductance per phase of double circuit#Example9_14.sce#3472/CH9/EX9.14/Example9_14.sce#S##120537
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.13#Inductance per phase#Example9_13.sce#3472/CH9/EX9.13/Example9_13.sce#S##120536
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.12#Inductance of each conductor and Average inductance of each phase#Example9_12.sce#3472/CH9/EX9.12/Example9_12.sce#S##120535
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.11#Inductance of each conductor per phase per km#Example9_11.sce#3472/CH9/EX9.11/Example9_11.sce#S##120534
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.10#Inductance per km of 3 phase transmission line#Example9_10.sce#3472/CH9/EX9.10/Example9_10.sce#S##120533
+9#CONSTANTS OF OVERHEAD TRANSMISSION LINES#9.1#Loop inductance and Reactance of transmission line#Example9_1.sce#3472/CH9/EX9.1/Example9_1.sce#S##120524
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.9#Size and number of generator units Reserve plant capacity Load factor Plant factor and Plant use factor#Example7_9.sce#3472/CH7/EX7.9/Example7_9.sce#S##120480
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.8#Maximum demand and Connected load of each type#Example7_8.sce#3472/CH7/EX7.8/Example7_8.sce#S##120479
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.7#Diversity factor and Annual load factor#Example7_7.sce#3472/CH7/EX7.7/Example7_7.sce#S##120478
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.6#Annual load factor#Example7_6.sce#3472/CH7/EX7.6/Example7_6.sce#S##120477
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.5#Number of units supplied annually Diversity factor and Demand factor#Example7_5.sce#3472/CH7/EX7.5/Example7_5.sce#S##120476
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.4#Reserve capacity of plant#Example7_4.sce#3472/CH7/EX7.4/Example7_4.sce#S##120475
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.3#Annual load factors and Capacity factors of two power stations#Example7_3.sce#3472/CH7/EX7.3/Example7_3.sce#S##120474
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.26#Plot of flow duration curve Maximum power Average power developed and Capacity of proposed station#Example7_26.sce#3472/CH7/EX7.26/Example7_26.sce#S##120522
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.26#Plot of flow duration curve Maximum power Average power developed and Capacity of proposed station#Ex7_26.png#3472/CH7/EX7.26/Ex7_26.png#R##120523
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.25#Plot of hydrograph and Average discharge available#Example7_25.sce#3472/CH7/EX7.25/Example7_25.sce#S##120520
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.25#Plot of hydrograph and Average discharge available#Ex7_25.png#3472/CH7/EX7.25/Ex7_25.png#R##120521
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.24#Turbine rating Energy produced Average steam consumption Evaporation capacity Total fixed cost and variable cost and Cost per kWh generated#Example7_24.sce#3472/CH7/EX7.24/Example7_24.sce#S##120519
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.23#Rating Annual energy produced Total fixed and variable cost Cost per kWh generated Overall efficiency and Quantity of cooling water required#Example7_23.sce#3472/CH7/EX7.23/Example7_23.sce#S##120518
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.22#Daily energy produced Reserve capacity and Maximum energy produced at all time and fully loaded#Example7_22.sce#3472/CH7/EX7.22/Example7_22.sce#S##120517
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.21#Plot of chronological load curve and Load duration curve#Example7_21.sce#3472/CH7/EX7.21/Example7_21.sce#S##120514
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.21#Plot of chronological load curve and Load duration curve#Ex7_21.png#3472/CH7/EX7.21/Ex7_21.png#R##120516
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.20#Type and hp ratings of two turbines for the station#Example7_20.sce#3472/CH7/EX7.20/Example7_20.sce#S##120513
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.2#Total energy generated annually#Example7_2.sce#3472/CH7/EX7.2/Example7_2.sce#S##120473
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.19#Valuation halfway based on Straight line Reducing balance and Sinking fund depreciation method#Example7_19.sce#3472/CH7/EX7.19/Example7_19.sce#S##120512
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.18#Cheaper alternative to adopt and by how much#Example7_18.sce#3472/CH7/EX7.18/Example7_18.sce#S##120511
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.17#Number of working hours per week above which the HV supply is cheaper#Example7_17.sce#3472/CH7/EX7.17/Example7_17.sce#S##120488
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.16#Yearly cost per kW demand and Cost per kWh supplied at substations and Consumer premises#Example7_16.sce#3472/CH7/EX7.16/Example7_16.sce#S##120487
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.15#Overall generating cost per unit at 50 and 100 percent capacity factor#Example7_15.sce#3472/CH7/EX7.15/Example7_15.sce#S##120486
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.14#Generation cost in two part form#Example7_14.sce#3472/CH7/EX7.14/Example7_14.sce#S##120485
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.13#Two part tariff to be charged from consumers#Example7_13.sce#3472/CH7/EX7.13/Example7_13.sce#S##120484
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.12#Minimum reserve capacity of station and Cost per kWh generated#Example7_12.sce#3472/CH7/EX7.12/Example7_12.sce#S##120483
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.11#Cost per unit generated#Example7_11.sce#3472/CH7/EX7.11/Example7_11.sce#S##120482
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.10#Cost of generation per kWh at 100 and 50 percent load factor#Example7_10.sce#3472/CH7/EX7.10/Example7_10.sce#S##120481
+7#TARIFFS AND ECONOMIC ASPECTS IN POWER GENERATION#7.1#Demand factor and Load factor#Example7_1.sce#3472/CH7/EX7.1/Example7_1.sce#S##120472
+3#HYDRO ELECTRIC STATIONS#3.4#Minimum flow of river water to operate the plant#Example3_4.sce#3472/CH3/EX3.4/Example3_4.sce#S##120471
+3#HYDRO ELECTRIC STATIONS#3.3#Available continuous power#Example3_3.sce#3472/CH3/EX3.3/Example3_3.sce#S##120470
+3#HYDRO ELECTRIC STATIONS#3.1#Firm capacity and Yearly gross output#Example3_1.sce#3472/CH3/EX3.1/Example3_1.sce#S##120469
+2#THERMAL STATIONS#2.3#Heat balance sheet#Example2_3.sce#3472/CH2/EX2.3/Example2_3.sce#S##120468
+2#THERMAL STATIONS#2.2#Average load on power plant#Example2_2.sce#3472/CH2/EX2.2/Example2_2.sce#S##120467
+2#THERMAL STATIONS#2.1#Limiting value and Coal per hour#Example2_1.sce#3472/CH2/EX2.1/Example2_1.sce#S##120466

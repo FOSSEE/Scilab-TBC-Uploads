@@ -4,7 +4,7 @@
 //Scilab version 5.4.1
 //given
 clc
-clear all
+clear 
 //given
 lambda=0.85e-6//wave length in um
 Row=0.5//respomsivity in A/W
@@ -22,18 +22,15 @@ for i=1:6
     logRL(i)=log10(RL1(i))//log scale representation of load resistance
     iNT(i)=sqrt(4*k*T*deltaf/RL1(i))//rms thermal noise current in A
 iNSD(i)=sqrt(2*e*ID*deltaf)//rms shot noise current in A
-NEP(i)=sqrt(iNSD(i)^2+iNT(i)^2)/(R*sqrt(deltaf))//Noise equivalent power (NEP) in W/Hz^1/2
+NEP(i)=sqrt(iNSD(i)^2+iNT(i)^2)/(RL*sqrt(deltaf))//Noise equivalent power (NEP) in W/Hz^1/2
 
 logNEP(i)=log10(NEP(i))
 end
 iNT1=sqrt(4*k*T*deltaf/RL)//rms thermal noise current in A
 iNSD1=sqrt(2*e*ID*deltaf)//rms shot noise current in A
-NEP1=sqrt(iNSD1^2+iNT1^2)/(R*sqrt(deltaf))//Noise equivalent power (NEP) in W/Hz^1/2
+NEP1=sqrt(iNSD1^2+iNT1^2)/(RL*sqrt(deltaf))//Noise equivalent power (NEP) in W/Hz^1/2
 Pmin=NEP1*sqrt(deltaf)//minimum detectable power
 mprintf("Minimum detectable power =%fnW",Pmin*10^9)//multiplication by 10^9 to convert unit from W to nW
 plot2d('ll', RL1, NEP)
 
 xtitle( "Noise equivalent power for a PIN diode having 2nA of Dark current and a 0.5W/A responsivity at 300K", "Load Resistance (Ohms)", "NEP  (W/Hz^1/2)") ;
-
-
-

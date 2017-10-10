@@ -1,5 +1,18 @@
 clear
 clc
+function [coefs]=regress(x,y)
+coefs=[]
+  if (type(x) <> 1)|(type(y)<>1) then error(msprintf(gettext("%s: Wrong type for input arguments: Numerical expected.\n"),"regress")), end
+  lx=length(x)
+  if lx<>length(y) then error(msprintf(gettext("%s: Wrong size for both input arguments: same size expected.\n"),"regress")), end
+  if lx==0 then error(msprintf(gettext("%s: Wrong size for input argument #%d: Must be > %d.\n"),"regress", 1, 0)), end
+  x=matrix(x,lx,1)
+  y=matrix(y,lx,1)
+  xbar=sum(x)/lx
+  ybar=sum(y)/lx
+  coefs(2)=sum((x-xbar).*(y-ybar))/sum((x-xbar).^2)
+  coefs(1)=ybar-coefs(2)*xbar
+endfunction
 CAo=0.1;//mol/litre
 FAo=2;//mol/hr
 eA=3;
@@ -29,5 +42,3 @@ coeff2=regress(CA(2:4),rA);
 printf("\n Part b,using differential method of analysis")
 printf("\n The rate of reaction(mol/litre) is %f",coeff2(2))
 printf("CA")
-
-

@@ -1,4 +1,5 @@
 clc
+f=50
 n2=50               //Assigning values to parameters
 n1=500
 kva=25

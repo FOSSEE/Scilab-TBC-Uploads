@@ -1,0 +1,162 @@
+15#SEMICONDUCTORS#7.5.u2#To find the hall voltage#Ex7_5_u2.txt#3411/CH15/EX7.5.u2/Ex7_5_u2.txt#R##119141
+15#SEMICONDUCTORS#7.5.u2#To find the hall voltage#Ex7_5_u2.sce#3411/CH15/EX7.5.u2/Ex7_5_u2.sce#S##119140
+15#SEMICONDUCTORS#7.4.u2#To find the charge in the minority carrier concentration#Ex7_4_u2.txt#3411/CH15/EX7.4.u2/Ex7_4_u2.txt#R##119139
+15#SEMICONDUCTORS#7.4.u2#To find the charge in the minority carrier concentration#Ex7_4_u2.sce#3411/CH15/EX7.4.u2/Ex7_4_u2.sce#S##119138
+15#SEMICONDUCTORS#7.3.u2#To find the drift velocity and diffusivity#Ex7_3_u2.txt#3411/CH15/EX7.3.u2/Ex7_3_u2.txt#R##119137
+15#SEMICONDUCTORS#7.3.u2#To find the drift velocity and diffusivity#Ex7_3_u2.sce#3411/CH15/EX7.3.u2/Ex7_3_u2.sce#S##119136
+15#SEMICONDUCTORS#7.2.u2#To calculate the diffusion current density#Ex7_2_u2.txt#3411/CH15/EX7.2.u2/Ex7_2_u2.txt#R##119135
+15#SEMICONDUCTORS#7.2.u2#To calculate the diffusion current density#Ex7_2_u2.sce#3411/CH15/EX7.2.u2/Ex7_2_u2.sce#S##119134
+15#SEMICONDUCTORS#7.1.u2#To calculate the mean free path and mean free time#Ex7_1_u2.sce#3411/CH15/EX7.1.u2/Ex7_1_u2.sce#S##119132
+15#SEMICONDUCTORS#7.1.u2#To calculate the mean free path and mean free time#Ex7_1_u2.txt#3411/CH15/EX7.1.u2/Ex7_1_u2.txt#R##119133
+14#DIELECTRIC PROPERTIES#6.2.u2#To calculate the atomic polarizability#Ex6_2_u2.txt#3411/CH14/EX6.2.u2/Ex6_2_u2.txt#R##119131
+14#DIELECTRIC PROPERTIES#6.2.u2#To calculate the atomic polarizability#Ex6_2_u2.sce#3411/CH14/EX6.2.u2/Ex6_2_u2.sce#S##119130
+14#DIELECTRIC PROPERTIES#6.1.u2#To calculate the dielectric constant#Ex6_1_u2.sce#3411/CH14/EX6.1.u2/Ex6_1_u2.sce#S##119128
+14#DIELECTRIC PROPERTIES#6.1.u2#To calculate the dielectric constant#Ex6_1_u2.txt#3411/CH14/EX6.1.u2/Ex6_1_u2.txt#R##119129
+13#SUPERCONDUCTIVITY#5.4.u2#To calculate its critical temprature#Ex5_4_u2.sce#3411/CH13/EX5.4.u2/Ex5_4_u2.sce#S##118048
+13#SUPERCONDUCTIVITY#5.4.u2#To calculate its critical temprature#Ex5_4_u2.txt#3411/CH13/EX5.4.u2/Ex5_4_u2.txt#R##118049
+13#SUPERCONDUCTIVITY#5.3.u2#To calculate the transition temprature and critical field#Ex5_3_u2.sce#3411/CH13/EX5.3.u2/Ex5_3_u2.sce#S##119126
+13#SUPERCONDUCTIVITY#5.3.u2#To calculate the transition temprature and critical field#Ex5_3_u2.txt#3411/CH13/EX5.3.u2/Ex5_3_u2.txt#R##119127
+13#SUPERCONDUCTIVITY#5.2.u2#To calculate the maximum current density#Ex5_2_u2.sce#3411/CH13/EX5.2.u2/Ex5_2_u2.sce#S##119124
+13#SUPERCONDUCTIVITY#5.2.u2#To calculate the maximum current density#Ex5_2_u2.txt#3411/CH13/EX5.2.u2/Ex5_2_u2.txt#R##119125
+13#SUPERCONDUCTIVITY#5.1.u2#To find the temprature where would be the critical field#Ex5_1_u2.txt#3411/CH13/EX5.1.u2/Ex5_1_u2.txt#R##118041
+13#SUPERCONDUCTIVITY#5.1.u2#To find the temprature where would be the critical field#Ex5_1_u2.sce#3411/CH13/EX5.1.u2/Ex5_1_u2.sce#S##118040
+10#ELECTRON THEORY OF METALS#2.9.u2#To calculate the fermi energy and fermi factor#Ex2_9_u2.txt#3411/CH10/EX2.9.u2/Ex2_9_u2.txt#R##119123
+10#ELECTRON THEORY OF METALS#2.9.u2#To calculate the fermi energy and fermi factor#Ex2_9_u2.sce#3411/CH10/EX2.9.u2/Ex2_9_u2.sce#S##119122
+10#ELECTRON THEORY OF METALS#2.8.u2#TO Find the energy at which probability of occupancy is point9 and density of states and the population density#Ex2_8_u2.sce#3411/CH10/EX2.8.u2/Ex2_8_u2.sce#S##119120
+10#ELECTRON THEORY OF METALS#2.8.u2#TO Find the energy at which probability of occupancy is point9 and density of states and the population density#Ex2_8_u2.txt#3411/CH10/EX2.8.u2/Ex2_8_u2.txt#R##119121
+10#ELECTRON THEORY OF METALS#2.7.u2#To calculate the probability for a state #Ex2_7_u2.txt#3411/CH10/EX2.7.u2/Ex2_7_u2.txt#R##119119
+10#ELECTRON THEORY OF METALS#2.7.u2#To calculate the probability for a state #Ex2_7_u2.sce#3411/CH10/EX2.7.u2/Ex2_7_u2.sce#S##119118
+10#ELECTRON THEORY OF METALS#2.6.u2#To calculate the fermi energy level#Ex2_6_u2.sce#3411/CH10/EX2.6.u2/Ex2_6_u2.sce#S##119116
+10#ELECTRON THEORY OF METALS#2.6.u2#To calculate the fermi energy level#Ex2_6_u2.txt#3411/CH10/EX2.6.u2/Ex2_6_u2.txt#R##119117
+10#ELECTRON THEORY OF METALS#2.5.u2#To calculate the no of states for conduction electrons and the average energy interval #Ex2_5_u2.txt#3411/CH10/EX2.5.u2/Ex2_5_u2.txt#R##119115
+10#ELECTRON THEORY OF METALS#2.5.u2#To calculate the no of states for conduction electrons and the average energy interval #Ex2_5_u2.sce#3411/CH10/EX2.5.u2/Ex2_5_u2.sce#S##119114
+10#ELECTRON THEORY OF METALS#2.4.u2#To calculate the current density in each wire and drift speed of electrons #Ex2_4_u2.txt#3411/CH10/EX2.4.u2/Ex2_4_u2.txt#R##119113
+10#ELECTRON THEORY OF METALS#2.4.u2#To calculate the current density in each wire and drift speed of electrons #Ex2_4_u2.sce#3411/CH10/EX2.4.u2/Ex2_4_u2.sce#S##119112
+10#ELECTRON THEORY OF METALS#2.3.u2#To calculate the drift velocity and their mobility#Ex2_3_u2.txt#3411/CH10/EX2.3.u2/Ex2_3_u2.txt#R##119111
+10#ELECTRON THEORY OF METALS#2.3.u2#To calculate the drift velocity and their mobility#Ex2_3_u2.sce#3411/CH10/EX2.3.u2/Ex2_3_u2.sce#S##119110
+10#ELECTRON THEORY OF METALS#2.2.u2#To corresponding mean free path and compare with experimental value#Ex2_2_u2.txt#3411/CH10/EX2.2.u2/Ex2_2_u2.txt#R##119109
+10#ELECTRON THEORY OF METALS#2.2.u2#To corresponding mean free path and compare with experimental value#Ex2_2_u2.sce#3411/CH10/EX2.2.u2/Ex2_2_u2.sce#S##119108
+10#ELECTRON THEORY OF METALS#2.1.u2#To calculate the density of electrons and mobility of electrons in silver#Ex2_1_u2.txt#3411/CH10/EX2.1.u2/Ex2_1_u2.txt#R##119107
+10#ELECTRON THEORY OF METALS#2.1.u2#To calculate the density of electrons and mobility of electrons in silver#Ex2_1_u2.sce#3411/CH10/EX2.1.u2/Ex2_1_u2.sce#S##119106
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.4.u2#To find out the no of states that can accomodate#Ex1_4_u2.txt#3411/CH9/EX1.4.u2/Ex1_4_u2.txt#R##119105
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.4.u2#To find out the no of states that can accomodate#Ex1_4_u2.sce#3411/CH9/EX1.4.u2/Ex1_4_u2.sce#S##119104
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.3.u2#To calculate the uncertenity in momentum#Ex1_3_u2.txt#3411/CH9/EX1.3.u2/Ex1_3_u2.txt#R##119103
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.3.u2#To calculate the uncertenity in momentum#Ex1_3_u2.sce#3411/CH9/EX1.3.u2/Ex1_3_u2.sce#S##119102
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.2.u2#To calculate the wavelength of the  radiation emitted#Ex1_2_u2.txt#3411/CH9/EX1.2.u2/Ex1_2_u2.txt#R##119101
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.2.u2#To calculate the wavelength of the  radiation emitted#Ex1_2_u2.sce#3411/CH9/EX1.2.u2/Ex1_2_u2.sce#S##119100
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.1.u2#To calculate energy momentum and the probability of of finding the particle#Ex1_1_u2.txt#3411/CH9/EX1.1.u2/Ex1_1_u2.txt#R##119099
+9#QUANTUM MECHANICS AND QUANTUM COMPUTING#1.1.u2#To calculate energy momentum and the probability of of finding the particle#Ex1_1_u2.sce#3411/CH9/EX1.1.u2/Ex1_1_u2.sce#S##119098
+7#FIBER OPTICS#7.7.u1#To calculate the fiber length#Ex7_7_u1.txt#3411/CH7/EX7.7.u1/Ex7_7_u1.txt#R##117999
+7#FIBER OPTICS#7.7.u1#To calculate the fiber length#Ex7_7_u1.sce#3411/CH7/EX7.7.u1/Ex7_7_u1.sce#S##117998
+7#FIBER OPTICS#7.6.u1#To calculate the numerical aperture acceptance angle critical angle velocity of the light in core and cladding#Ex7_6_u1.txt#3411/CH7/EX7.6.u1/Ex7_6_u1.txt#R##117996
+7#FIBER OPTICS#7.6.u1#To calculate the numerical aperture acceptance angle critical angle velocity of the light in core and cladding#Ex7_6_u1.sce#3411/CH7/EX7.6.u1/Ex7_6_u1.sce#S##117995
+7#FIBER OPTICS#7.5.u1#To find the loss specification of a fiber#Ex7_5_u1.sce#3411/CH7/EX7.5.u1/Ex7_5_u1.sce#S##117992
+7#FIBER OPTICS#7.5.u1#To find the loss specification of a fiber#Ex7_5_u1.txt#3411/CH7/EX7.5.u1/Ex7_5_u1.txt#R##117993
+7#FIBER OPTICS#7.4.u1#To calculate the numerical apperture and angle of acceptance#Ex7_4_u1.sce#3411/CH7/EX7.4.u1/Ex7_4_u1.sce#S##117989
+7#FIBER OPTICS#7.4.u1#To calculate the numerical apperture and angle of acceptance#Ex7_4_u1.txt#3411/CH7/EX7.4.u1/Ex7_4_u1.txt#R##117990
+7#FIBER OPTICS#7.3.u1#To calculate the numerical apperture and angle of acceptance#Ex7_3_u1.sce#3411/CH7/EX7.3.u1/Ex7_3_u1.sce#S##117987
+7#FIBER OPTICS#7.3.u1#To calculate the numerical apperture and angle of acceptance#Ex7_3_u1.txt#3411/CH7/EX7.3.u1/Ex7_3_u1.txt#R##117988
+7#FIBER OPTICS#7.2.u1#To find the fraction of initial intensity#Ex7_2_u1.sce#3411/CH7/EX7.2.u1/Ex7_2_u1.sce#S##119094
+7#FIBER OPTICS#7.2.u1#To find the fraction of initial intensity#Ex7_2_u1.txt#3411/CH7/EX7.2.u1/Ex7_2_u1.txt#R##119095
+7#FIBER OPTICS#7.1.u1#To determine the no of modes propogating in the fiber#Ex7_1_u1.sce#3411/CH7/EX7.1.u1/Ex7_1_u1.sce#S##117982
+7#FIBER OPTICS#7.1.u1#To determine the no of modes propogating in the fiber#Ex7_1_u1.txt#3411/CH7/EX7.1.u1/Ex7_1_u1.txt#R##117983
+6#LASER#6.7.u1#To calculate the no of photons emitted by the ruby laser#Ex6_7_u1.txt#3411/CH6/EX6.7.u1/Ex6_7_u1.txt#R##119093
+6#LASER#6.7.u1#To calculate the no of photons emitted by the ruby laser#Ex6_7_u1.sce#3411/CH6/EX6.7.u1/Ex6_7_u1.sce#S##119092
+6#LASER#6.6.u1#To calculate the ratio of stimulated emission to Spontaneous emission#Ex6_6_u1.txt#3411/CH6/EX6.6.u1/Ex6_6_u1.txt#R##119091
+6#LASER#6.6.u1#To calculate the ratio of stimulated emission to Spontaneous emission#Ex6_6_u1.sce#3411/CH6/EX6.6.u1/Ex6_6_u1.sce#S##119090
+6#LASER#6.5.u1#To find the wavelength of the radiation emitted#Ex6_5_u1.sce#3411/CH6/EX6.5.u1/Ex6_5_u1.sce#S##119088
+6#LASER#6.5.u1#To find the wavelength of the radiation emitted#Ex6_5_u1.txt#3411/CH6/EX6.5.u1/Ex6_5_u1.txt#R##119089
+6#LASER#6.4.u1#To calculate the ratio of populations of two energy levels#Ex6_4_u1.sce#3411/CH6/EX6.4.u1/Ex6_4_u1.sce#S##119086
+6#LASER#6.4.u1#To calculate the ratio of populations of two energy levels#Ex6_4_u1.txt#3411/CH6/EX6.4.u1/Ex6_4_u1.txt#R##119087
+6#LASER#6.3.u1#To calculate the electric field intensity a a point#Ex6_3_u1.sce#3411/CH6/EX6.3.u1/Ex6_3_u1.sce#S##119084
+6#LASER#6.3.u1#To calculate the electric field intensity a a point#Ex6_3_u1.txt#3411/CH6/EX6.3.u1/Ex6_3_u1.txt#R##119085
+6#LASER#6.2.u1#To calculate the Electric field of a bulb#Ex6_2_u1.sce#3411/CH6/EX6.2.u1/Ex6_2_u1.sce#S##119082
+6#LASER#6.2.u1#To calculate the Electric field of a bulb#Ex6_2_u1.txt#3411/CH6/EX6.2.u1/Ex6_2_u1.txt#R##119083
+6#LASER#6.1.u1#To calculate the Electric field of a laser beam#Ex6_1_u1.txt#3411/CH6/EX6.1.u1/Ex6_1_u1.txt#R##119081
+6#LASER#6.1.u1#To calculate the Electric field of a laser beam#Ex6_1_u1.sce#3411/CH6/EX6.1.u1/Ex6_1_u1.sce#S##119080
+5#X RAY DIFFRACTION#5.9.u1#To determine the interplanar spacing#Ex5_9_u1.txt#3411/CH5/EX5.9.u1/Ex5_9_u1.txt#R##119063
+5#X RAY DIFFRACTION#5.9.u1#To determine the interplanar spacing#Ex5_9_u1.sce#3411/CH5/EX5.9.u1/Ex5_9_u1.sce#S##119062
+5#X RAY DIFFRACTION#5.8.u1#To calculate the Bragg angle and the wavelength of X rays#Ex5_8_u1.txt#3411/CH5/EX5.8.u1/Ex5_8_u1.txt#R##117921
+5#X RAY DIFFRACTION#5.8.u1#To calculate the Bragg angle and the wavelength of X rays#Ex5_8_u1.sce#3411/CH5/EX5.8.u1/Ex5_8_u1.sce#S##117920
+5#X RAY DIFFRACTION#5.7.u1#To find the wavelength whenthese planes give rise to maximum density in reflection#Ex5_7_u1.txt#3411/CH5/EX5.7.u1/Ex5_7_u1.txt#R##117918
+5#X RAY DIFFRACTION#5.7.u1#To find the wavelength whenthese planes give rise to maximum density in reflection#Ex5_7_u1.sce#3411/CH5/EX5.7.u1/Ex5_7_u1.sce#S##117917
+5#X RAY DIFFRACTION#5.6.u1#To calculate the interplanar spacing and wavelength#Ex5_6_u1.sce#3411/CH5/EX5.6.u1/Ex5_6_u1.sce#S##117915
+5#X RAY DIFFRACTION#5.6.u1#To calculate the interplanar spacing and wavelength#Ex5_6_u1.txt#3411/CH5/EX5.6.u1/Ex5_6_u1.txt#R##117916
+5#X RAY DIFFRACTION#5.5.u1#To find out the interplanar spacing of the reflecting planes of the crystal#Ex5_5_u1.sce#3411/CH5/EX5.5.u1/Ex5_5_u1.sce#S##117913
+5#X RAY DIFFRACTION#5.5.u1#To find out the interplanar spacing of the reflecting planes of the crystal#Ex5_5_u1.txt#3411/CH5/EX5.5.u1/Ex5_5_u1.txt#R##117914
+5#X RAY DIFFRACTION#5.4.u1#To calculate the inter planar distance#Ex5_4_u1.txt#3411/CH5/EX5.4.u1/Ex5_4_u1.txt#R##117912
+5#X RAY DIFFRACTION#5.4.u1#To calculate the inter planar distance#Ex5_4_u1.sce#3411/CH5/EX5.4.u1/Ex5_4_u1.sce#S##117911
+5#X RAY DIFFRACTION#5.3.u1#To find the intercepts along the Y and Z axes#Ex5_3_u1.sce#3411/CH5/EX5.3.u1/Ex5_3_u1.sce#S##117909
+5#X RAY DIFFRACTION#5.3.u1#To find the intercepts along the Y and Z axes#Ex5_3_u1.txt#3411/CH5/EX5.3.u1/Ex5_3_u1.txt#R##117910
+5#X RAY DIFFRACTION#5.2.u1#To determine the miller indices of the plane#Ex5_2_u1.txt#3411/CH5/EX5.2.u1/Ex5_2_u1.txt#R##117908
+5#X RAY DIFFRACTION#5.2.u1#To determine the miller indices of the plane#Ex5_2_u1.sce#3411/CH5/EX5.2.u1/Ex5_2_u1.sce#S##117907
+5#X RAY DIFFRACTION#5.18.u1#To find out the planes which gives reflection #Ex5_18_u1.sce#3411/CH5/EX5.18.u1/Ex5_18_u1.sce#S##117944
+5#X RAY DIFFRACTION#5.18.u1#To find out the planes which gives reflection #Ex5_18_u1.txt#3411/CH5/EX5.18.u1/Ex5_18_u1.txt#R##117945
+5#X RAY DIFFRACTION#5.17.u1#To find the type of crystal and lattice parameter and atomic diameter #Ex5_17_u1.sce#3411/CH5/EX5.17.u1/Ex5_17_u1.sce#S##117963
+5#X RAY DIFFRACTION#5.17.u1#To find the type of crystal and lattice parameter and atomic diameter #Ex5_17_u1.txt#3411/CH5/EX5.17.u1/Ex5_17_u1.txt#R##117964
+5#X RAY DIFFRACTION#5.16.u1#To calculate the difference between the samples#Ex5_16_u1.sce#3411/CH5/EX5.16.u1/Ex5_16_u1.sce#S##119078
+5#X RAY DIFFRACTION#5.16.u1#To calculate the difference between the samples#Ex5_16_u1.txt#3411/CH5/EX5.16.u1/Ex5_16_u1.txt#R##119079
+5#X RAY DIFFRACTION#5.15.u1#To calculate the Braggs angle #Ex5_15_u1.sce#3411/CH5/EX5.15.u1/Ex5_15_u1.sce#S##119074
+5#X RAY DIFFRACTION#5.15.u1#To calculate the Braggs angle #Ex5_15_u1.txt#3411/CH5/EX5.15.u1/Ex5_15_u1.txt#R##119075
+5#X RAY DIFFRACTION#5.14.u1#To calculate the effective temprature of neutrons#Ex5_14_u1.sce#3411/CH5/EX5.14.u1/Ex5_14_u1.sce#S##119072
+5#X RAY DIFFRACTION#5.14.u1#To calculate the effective temprature of neutrons#Ex5_14_u1.txt#3411/CH5/EX5.14.u1/Ex5_14_u1.txt#R##119073
+5#X RAY DIFFRACTION#5.13.u1#To determine the crystal structure and indices of plane and lattice parameter of the material#Ex5_13_u1.sce#3411/CH5/EX5.13.u1/Ex5_13_u1.sce#S##119444
+5#X RAY DIFFRACTION#5.13.u1#To determine the crystal structure and indices of plane and lattice parameter of the material#Ex5_13_u1.txt#3411/CH5/EX5.13.u1/Ex5_13_u1.txt#R##119445
+5#X RAY DIFFRACTION#5.12.u1#To determine the cubic structure of element and lattice constant and to identify element#Ex5_12_u1.sce#3411/CH5/EX5.12.u1/Ex5_12_u1.sce#S##119442
+5#X RAY DIFFRACTION#5.12.u1#To determine the cubic structure of element and lattice constant and to identify element#Ex5_12_u1.txt#3411/CH5/EX5.12.u1/Ex5_12_u1.txt#R##119443
+5#X RAY DIFFRACTION#5.11.u1#To determine the unitcell and its dimensions#Ex5_11_u1.sce#3411/CH5/EX5.11.u1/Ex5_11_u1.sce#S##119440
+5#X RAY DIFFRACTION#5.11.u1#To determine the unitcell and its dimensions#Ex5_11_u1.txt#3411/CH5/EX5.11.u1/Ex5_11_u1.txt#R##119441
+5#X RAY DIFFRACTION#5.10.u1#To calculate the lattice constant#Ex5_10_u1.txt#3411/CH5/EX5.10.u1/Ex5_10_u1.txt#R##119065
+5#X RAY DIFFRACTION#5.10.u1#To calculate the lattice constant#Ex5_10_u1.sce#3411/CH5/EX5.10.u1/Ex5_10_u1.sce#S##119064
+5#X RAY DIFFRACTION#5.1.u1#To determine the miller indices of the plane#Ex5_1_u1.sce#3411/CH5/EX5.1.u1/Ex5_1_u1.sce#S##117905
+5#X RAY DIFFRACTION#5.1.u1#To determine the miller indices of the plane#Ex5_1_u1.txt#3411/CH5/EX5.1.u1/Ex5_1_u1.txt#R##117906
+3#POLARIZATION OF LIGHT#3.4.u1#To calculate the thickness of the plate#Ex3_4_u1.sce#3411/CH3/EX3.4.u1/Ex3_4_u1.sce#S##117903
+3#POLARIZATION OF LIGHT#3.4.u1#To calculate the thickness of the plate#Ex3_4_u1.txt#3411/CH3/EX3.4.u1/Ex3_4_u1.txt#R##117904
+3#POLARIZATION OF LIGHT#3.3.u1#To calculate the wavelength#Ex3_3_u1.txt#3411/CH3/EX3.3.u1/Ex3_3_u1.txt#R##117902
+3#POLARIZATION OF LIGHT#3.3.u1#To calculate the wavelength#Ex3_3_u1.sce#3411/CH3/EX3.3.u1/Ex3_3_u1.sce#S##117901
+3#POLARIZATION OF LIGHT#3.2.u1#To calculate the thickness of quarter wave plate#Ex3_2_u1.txt#3411/CH3/EX3.2.u1/Ex3_2_u1.txt#R##117900
+3#POLARIZATION OF LIGHT#3.2.u1#To calculate the thickness of quarter wave plate#Ex3_2_u1.sce#3411/CH3/EX3.2.u1/Ex3_2_u1.sce#S##117899
+3#POLARIZATION OF LIGHT#3.1.u1#To calculate the polarising angle#Ex3_1_u1.txt#3411/CH3/EX3.1.u1/Ex3_1_u1.txt#R##117898
+3#POLARIZATION OF LIGHT#3.1.u1#To calculate the polarising angle#Ex3_1_u1.sce#3411/CH3/EX3.1.u1/Ex3_1_u1.sce#S##117897
+2#DIFFRACTION#2.9.u1#To calculate resolving power in second order#Ex2_9_u1.sce#3411/CH2/EX2.9.u1/Ex2_9_u1.sce#S##117895
+2#DIFFRACTION#2.9.u1#To calculate resolving power in second order#Ex2_9_u1.txt#3411/CH2/EX2.9.u1/Ex2_9_u1.txt#R##117896
+2#DIFFRACTION#2.8.u1#To calculate the wavelength#Ex2_8_u1.sce#3411/CH2/EX2.8.u1/Ex2_8_u1.sce#S##117893
+2#DIFFRACTION#2.8.u1#To calculate the wavelength#Ex2_8_u1.txt#3411/CH2/EX2.8.u1/Ex2_8_u1.txt#R##117894
+2#DIFFRACTION#2.7.u1#To Calculate highest power of spectrum seen with mono chromaic light#Ex2_7_u1.txt#3411/CH2/EX2.7.u1/Ex2_7_u1.txt#R##117892
+2#DIFFRACTION#2.7.u1#To Calculate highest power of spectrum seen with mono chromaic light#Ex2_7_u1.sce#3411/CH2/EX2.7.u1/Ex2_7_u1.sce#S##117891
+2#DIFFRACTION#2.6.u1#To Calculate the dispersive power of the grating#Ex2_6_u1.txt#3411/CH2/EX2.6.u1/Ex2_6_u1.txt#R##117890
+2#DIFFRACTION#2.6.u1#To Calculate the dispersive power of the grating#Ex2_6_u1.sce#3411/CH2/EX2.6.u1/Ex2_6_u1.sce#S##117889
+2#DIFFRACTION#2.5.u1#To find the angle of separation#Ex2_5_u1.txt#3411/CH2/EX2.5.u1/Ex2_5_u1.txt#R##117888
+2#DIFFRACTION#2.5.u1#To find the angle of separation#Ex2_5_u1.sce#3411/CH2/EX2.5.u1/Ex2_5_u1.sce#S##117887
+2#DIFFRACTION#2.4.u1#To examine two spectral lines are clearly resolved in first order and second order#Ex2_4_u1.txt#3411/CH2/EX2.4.u1/Ex2_4_u1.txt#R##117886
+2#DIFFRACTION#2.4.u1#To examine two spectral lines are clearly resolved in first order and second order#Ex2_4_u1.sce#3411/CH2/EX2.4.u1/Ex2_4_u1.sce#S##117885
+2#DIFFRACTION#2.3.u1#To calculate minimum no of lines per centimeter#Ex2_3_u1.txt#3411/CH2/EX2.3.u1/Ex2_3_u1.txt#R##117884
+2#DIFFRACTION#2.3.u1#To calculate minimum no of lines per centimeter#Ex2_3_u1.sce#3411/CH2/EX2.3.u1/Ex2_3_u1.sce#S##117883
+2#DIFFRACTION#2.2.u1#To Find the difference in angles of deviation in first and third order spectra#Ex2_2_u1.txt#3411/CH2/EX2.2.u1/Ex2_2_u1.txt#R##117882
+2#DIFFRACTION#2.2.u1#To Find the difference in angles of deviation in first and third order spectra#Ex2_2_u1.sce#3411/CH2/EX2.2.u1/Ex2_2_u1.sce#S##117881
+2#DIFFRACTION#2.1.u1#To calculate the no of lines in one cm of grating surface#Ex2_1_u1.sce#3411/CH2/EX2.1.u1/Ex2_1_u1.sce#S##117879
+2#DIFFRACTION#2.1.u1#To calculate the no of lines in one cm of grating surface#Ex2_1_u1.txt#3411/CH2/EX2.1.u1/Ex2_1_u1.txt#R##117880
+1#INTERFERENCE#1.9.u1#To calculate diameter of the fifth bright ring#Ex1_9_u1.txt#3411/CH1/EX1.9.u1/Ex1_9_u1.txt#R##117872
+1#INTERFERENCE#1.9.u1#To calculate diameter of the fifth bright ring#Ex1_9_u1.sce#3411/CH1/EX1.9.u1/Ex1_9_u1.sce#S##117871
+1#INTERFERENCE#1.8.u1#To calculate the distance from the edge of wedge #Ex1_8_u1.txt#3411/CH1/EX1.8.u1/Ex1_8_u1.txt#R##117870
+1#INTERFERENCE#1.8.u1#To calculate the distance from the edge of wedge #Ex1_8_u1.sce#3411/CH1/EX1.8.u1/Ex1_8_u1.sce#S##117869
+1#INTERFERENCE#1.7.u1#To calculate the fring width#Ex1_7_u1.txt#3411/CH1/EX1.7.u1/Ex1_7_u1.txt#R##117868
+1#INTERFERENCE#1.7.u1#To calculate the fring width#Ex1_7_u1.sce#3411/CH1/EX1.7.u1/Ex1_7_u1.sce#S##117867
+1#INTERFERENCE#1.6.U1#Calculate the wavelengths of light in visible spectrum#Ex1_6_u1.sce#3411/CH1/EX1.6.U1/Ex1_6_u1.sce#S##117865
+1#INTERFERENCE#1.6.U1#Calculate the wavelengths of light in visible spectrum#Ex1_6_u1.txt#3411/CH1/EX1.6.U1/Ex1_6_u1.txt#R##117866
+1#INTERFERENCE#1.5.u1#To find the refractive index of coil#Ex1_5_u1.sce#3411/CH1/EX1.5.u1/Ex1_5_u1.sce#S##117863
+1#INTERFERENCE#1.5.u1#To find the refractive index of coil#Ex1_5_u1.txt#3411/CH1/EX1.5.u1/Ex1_5_u1.txt#R##117864
+1#INTERFERENCE#1.4.u1#To calculate thickness of plate#Ex1_4_u1.sce#3411/CH1/EX1.4.u1/Ex1_4_u1.sce#S##117861
+1#INTERFERENCE#1.4.u1#To calculate thickness of plate#Ex1_4_u1.txt#3411/CH1/EX1.4.u1/Ex1_4_u1.txt#R##117862
+1#INTERFERENCE#1.3.u1#To compare the intensity at a point distance 1mm from the center to that at its center and to find minimum dist from center of point #Ex1_3_u1.sce#3411/CH1/EX1.3.u1/Ex1_3_u1.sce#S##117859
+1#INTERFERENCE#1.3.u1#To compare the intensity at a point distance 1mm from the center to that at its center and to find minimum dist from center of point #Ex1_3_u1.txt#3411/CH1/EX1.3.u1/Ex1_3_u1.txt#R##117860
+1#INTERFERENCE#1.2.u1#To calculate the wavelength#Ex1_2_u1.sce#3411/CH1/EX1.2.u1/Ex1_2_u1.sce#S##117857
+1#INTERFERENCE#1.2.u1#To calculate the wavelength#Ex1_2_u1.txt#3411/CH1/EX1.2.u1/Ex1_2_u1.txt#R##117858
+1#INTERFERENCE#1.12.u1#To calculate the wavelength of the light used#Ex1_12_u1.txt#3411/CH1/EX1.12.u1/Ex1_12_u1.txt#R##117878
+1#INTERFERENCE#1.12.u1#To calculate the wavelength of the light used#Ex1_12_u1.sce#3411/CH1/EX1.12.u1/Ex1_12_u1.sce#S##117877
+1#INTERFERENCE#1.11.u1#To calculate refractive Index of liquid#Ex1_11_u1.txt#3411/CH1/EX1.11.u1/Ex1_11_u1.txt#R##117876
+1#INTERFERENCE#1.11.u1#To calculate refractive Index of liquid#Ex1_11_u1.sce#3411/CH1/EX1.11.u1/Ex1_11_u1.sce#S##117875
+1#INTERFERENCE#1.10.u1#To find the diameter of the 20th dark ring#Ex1_10_u1.txt#3411/CH1/EX1.10.u1/Ex1_10_u1.txt#R##117874
+1#INTERFERENCE#1.10.u1#To find the diameter of the 20th dark ring#Ex1_10_u1.sce#3411/CH1/EX1.10.u1/Ex1_10_u1.sce#S##117873
+1#INTERFERENCE#1.1.u1#To calculate the location of screen from slits#Ex1_1_u1.sce#3411/CH1/EX1.1.u1/Ex1_1_u1.sce#S##117855
+1#INTERFERENCE#1.1.u1#To calculate the location of screen from slits#Ex1_1_u1.txt#3411/CH1/EX1.1.u1/Ex1_1_u1.txt#R##117856

@@ -1,0 +1,97 @@
+6#Photogrammetry#6.9#78#Ex6_9.sce#2990/CH6/EX6.9/Ex6_9.sce#S##117234
+6#Photogrammetry#6.8#77#Ex6_8.sce#2990/CH6/EX6.8/Ex6_8.sce#S##117231
+6#Photogrammetry#6.7#76#Ex6_7.sce#2990/CH6/EX6.7/Ex6_7.sce#S##117230
+6#Photogrammetry#6.6#75#Ex6_6.sce#2990/CH6/EX6.6/Ex6_6.sce#S##119061
+6#Photogrammetry#6.5#74#Ex6_5.sce#2990/CH6/EX6.5/Ex6_5.sce#S##117228
+6#Photogrammetry#6.4#73#Ex6_4.sce#2990/CH6/EX6.4/Ex6_4.sce#S##117227
+6#Photogrammetry#6.3#72#Ex6_3.sce#2990/CH6/EX6.3/Ex6_3.sce#S##117224
+6#Photogrammetry#6.28#97#Ex6_28.sce#2990/CH6/EX6.28/Ex6_28.sce#S##117265
+6#Photogrammetry#6.27#96#Ex6_27.sce#2990/CH6/EX6.27/Ex6_27.sce#S##117264
+6#Photogrammetry#6.26#95#Ex6_26.sce#2990/CH6/EX6.26/Ex6_26.sce#S##117263
+6#Photogrammetry#6.25#94#Ex6_25.sce#2990/CH6/EX6.25/Ex6_25.sce#S##117262
+6#Photogrammetry#6.24#93#Ex6_24.sce#2990/CH6/EX6.24/Ex6_24.sce#S##117261
+6#Photogrammetry#6.23#92#Ex6_23.sce#2990/CH6/EX6.23/Ex6_23.sce#S##119060
+6#Photogrammetry#6.22#91#Ex6_22.sce#2990/CH6/EX6.22/Ex6_22.sce#S##117257
+6#Photogrammetry#6.21#90#Ex6_21.sce#2990/CH6/EX6.21/Ex6_21.sce#S##117256
+6#Photogrammetry#6.20#89#Ex6_20.sce#2990/CH6/EX6.20/Ex6_20.sce#S##119059
+6#Photogrammetry#6.2#71#Ex6_2.sce#2990/CH6/EX6.2/Ex6_2.sce#S##117223
+6#Photogrammetry#6.19#88#Ex6_19.sce#2990/CH6/EX6.19/Ex6_19.sce#S##117252
+6#Photogrammetry#6.18#77#Ex6_18.sce#2990/CH6/EX6.18/Ex6_18.sce#S##117251
+6#Photogrammetry#6.17#86#Ex6_17.sce#2990/CH6/EX6.17/Ex6_17.sce#S##117250
+6#Photogrammetry#6.16#85#Ex6_16.sce#2990/CH6/EX6.16/Ex6_16.sce#S##119058
+6#Photogrammetry#6.15#84#Ex6_15.sce#2990/CH6/EX6.15/Ex6_15.sce#S##117246
+6#Photogrammetry#6.14#83#Ex6_14.sce#2990/CH6/EX6.14/Ex6_14.sce#S##119057
+6#Photogrammetry#6.13#82#Ex6_13.sce#2990/CH6/EX6.13/Ex6_13.sce#S##119056
+6#Photogrammetry#6.12#81#Ex6_12.sce#2990/CH6/EX6.12/Ex6_12.sce#S##117241
+6#Photogrammetry#6.11#80#Ex6_11.sce#2990/CH6/EX6.11/Ex6_11.sce#S##117238
+6#Photogrammetry#6.10#79#Ex6_10.sce#2990/CH6/EX6.10/Ex6_10.sce#S##119055
+6#Photogrammetry#6.1#70#Ex6_1.sce#2990/CH6/EX6.1/Ex6_1.sce#S##117222
+5#Uses Of Field Astronomy in surveying#5.9#60#Ex5_9.sce#2990/CH5/EX5.9/Ex5_9.sce#S##117159
+5#Uses Of Field Astronomy in surveying#5.8#59#Ex5_8.sce#2990/CH5/EX5.8/Ex5_8.sce#S##117158
+5#Uses Of Field Astronomy in surveying#5.7#58#Ex5_7.sce#2990/CH5/EX5.7/Ex5_7.sce#S##117157
+5#Uses Of Field Astronomy in surveying#5.6#57#Ex5_6.sce#2990/CH5/EX5.6/Ex5_6.sce#S##117156
+5#Uses Of Field Astronomy in surveying#5.5#56#Ex5_5.sce#2990/CH5/EX5.5/Ex5_5.sce#S##117155
+5#Uses Of Field Astronomy in surveying#5.4#55#Ex5_4.sce#2990/CH5/EX5.4/Ex5_4.sce#S##117154
+5#Uses Of Field Astronomy in surveying#5.3#54#Ex5_3.sce#2990/CH5/EX5.3/Ex5_3.sce#S##117153
+5#Uses Of Field Astronomy in surveying#5.2#53#Ex5_2.sce#2990/CH5/EX5.2/Ex5_2.sce#S##117152
+5#Uses Of Field Astronomy in surveying#5.18#69#Ex5_18.sce#2990/CH5/EX5.18/Ex5_18.sce#S##117221
+5#Uses Of Field Astronomy in surveying#5.17#68#Ex5_17.sce#2990/CH5/EX5.17/Ex5_17.sce#S##117220
+5#Uses Of Field Astronomy in surveying#5.16#67#Ex5_16.sce#2990/CH5/EX5.16/Ex5_16.sce#S##117219
+5#Uses Of Field Astronomy in surveying#5.15#66#Ex5_15.sce#2990/CH5/EX5.15/Ex5_15.sce#S##119054
+5#Uses Of Field Astronomy in surveying#5.14#65#Ex5_14.sce#2990/CH5/EX5.14/Ex5_14.sce#S##117164
+5#Uses Of Field Astronomy in surveying#5.13#64#Ex5_13.sce#2990/CH5/EX5.13/Ex5_13.sce#S##117163
+5#Uses Of Field Astronomy in surveying#5.12#63#Ex5_12.sce#2990/CH5/EX5.12/Ex5_12.sce#S##117162
+5#Uses Of Field Astronomy in surveying#5.11#62#Ex5_11.sce#2990/CH5/EX5.11/Ex5_11.sce#S##117161
+5#Uses Of Field Astronomy in surveying#5.10#61#Ex5_10.sce#2990/CH5/EX5.10/Ex5_10.sce#S##117160
+5#Uses Of Field Astronomy in surveying#5.1#52#Ex5_1.sce#2990/CH5/EX5.1/Ex5_1.sce#S##117151
+4#Principles of Field Astronomy#4.9#16#Ex4_9.sce#2990/CH4/EX4.9/Ex4_9.sce#S##117115
+4#Principles of Field Astronomy#4.8#15#Ex4_8.sce#2990/CH4/EX4.8/Ex4_8.sce#S##117114
+4#Principles of Field Astronomy#4.7#14#Ex4_7.sce#2990/CH4/EX4.7/Ex4_7.sce#S##117113
+4#Principles of Field Astronomy#4.6#13#Ex4_6.sce#2990/CH4/EX4.6/Ex4_6.sce#S##117112
+4#Principles of Field Astronomy#4.5#12#Ex4_5.sce#2990/CH4/EX4.5/Ex4_5.sce#S##117111
+4#Principles of Field Astronomy#4.44#51#Ex4_44.sce#2990/CH4/EX4.44/Ex4_44.sce#S##117150
+4#Principles of Field Astronomy#4.43#50#Ex4_43.sce#2990/CH4/EX4.43/Ex4_43.sce#S##117149
+4#Principles of Field Astronomy#4.42#49#Ex4_42.sce#2990/CH4/EX4.42/Ex4_42.sce#S##117148
+4#Principles of Field Astronomy#4.41#48#Ex4_41.sce#2990/CH4/EX4.41/Ex4_41.sce#S##117147
+4#Principles of Field Astronomy#4.40#47#Ex4_40.sce#2990/CH4/EX4.40/Ex4_40.sce#S##117146
+4#Principles of Field Astronomy#4.4#11#Ex4_4.sce#2990/CH4/EX4.4/Ex4_4.sce#S##117110
+4#Principles of Field Astronomy#4.39#46#Ex4_39.sce#2990/CH4/EX4.39/Ex4_39.sce#S##117145
+4#Principles of Field Astronomy#4.38#45#Ex4_38.sce#2990/CH4/EX4.38/Ex4_38.sce#S##117144
+4#Principles of Field Astronomy#4.37#44#Ex4_37.sce#2990/CH4/EX4.37/Ex4_37.sce#S##117143
+4#Principles of Field Astronomy#4.36#43#Ex4_36.sce#2990/CH4/EX4.36/Ex4_36.sce#S##117142
+4#Principles of Field Astronomy#4.35#42#Ex4_35.sce#2990/CH4/EX4.35/Ex4_35.sce#S##117141
+4#Principles of Field Astronomy#4.34#41#Ex4_34.sce#2990/CH4/EX4.34/Ex4_34.sce#S##117140
+4#Principles of Field Astronomy#4.33#40#Ex4_33.sce#2990/CH4/EX4.33/Ex4_33.sce#S##117139
+4#Principles of Field Astronomy#4.32#39#Ex4_32.sce#2990/CH4/EX4.32/Ex4_32.sce#S##117138
+4#Principles of Field Astronomy#4.31#38#Ex4_31.sce#2990/CH4/EX4.31/Ex4_31.sce#S##117137
+4#Principles of Field Astronomy#4.30#37#Ex4_30.sce#2990/CH4/EX4.30/Ex4_30.sce#S##117136
+4#Principles of Field Astronomy#4.3#10#Ex4_3.sce#2990/CH4/EX4.3/Ex4_3.sce#S##117109
+4#Principles of Field Astronomy#4.29#36#Ex4_29.sce#2990/CH4/EX4.29/Ex4_29.sce#S##117135
+4#Principles of Field Astronomy#4.28#35#Ex4_28.sce#2990/CH4/EX4.28/Ex4_28.sce#S##117134
+4#Principles of Field Astronomy#4.27#34#Ex4_27.sce#2990/CH4/EX4.27/Ex4_27.sce#S##117133
+4#Principles of Field Astronomy#4.26#33#Ex4_26.sce#2990/CH4/EX4.26/Ex4_26.sce#S##117132
+4#Principles of Field Astronomy#4.25#32#Ex4_25.sce#2990/CH4/EX4.25/Ex4_25.sce#S##119053
+4#Principles of Field Astronomy#4.24#31#Ex4_24.sce#2990/CH4/EX4.24/Ex4_24.sce#S##119052
+4#Principles of Field Astronomy#4.23#30#Ex4_23.sce#2990/CH4/EX4.23/Ex4_23.sce#S##117129
+4#Principles of Field Astronomy#4.22#29#Ex4_22.sce#2990/CH4/EX4.22/Ex4_22.sce#S##117128
+4#Principles of Field Astronomy#4.21#28#Ex4_21.sce#2990/CH4/EX4.21/Ex4_21.sce#S##117127
+4#Principles of Field Astronomy#4.20#27#Ex4_20.sce#2990/CH4/EX4.20/Ex4_20.sce#S##117126
+4#Principles of Field Astronomy#4.2#9#Ex4_2.sce#2990/CH4/EX4.2/Ex4_2.sce#S##117108
+4#Principles of Field Astronomy#4.19#26#Ex4_19.sce#2990/CH4/EX4.19/Ex4_19.sce#S##117125
+4#Principles of Field Astronomy#4.18#25#Ex4_18.sce#2990/CH4/EX4.18/Ex4_18.sce#S##117124
+4#Principles of Field Astronomy#4.17#24#Ex4_17.sce#2990/CH4/EX4.17/Ex4_17.sce#S##119051
+4#Principles of Field Astronomy#4.16#23#Ex4_16.sce#2990/CH4/EX4.16/Ex4_16.sce#S##117122
+4#Principles of Field Astronomy#4.15#22#Ex4_15.sce#2990/CH4/EX4.15/Ex4_15.sce#S##117121
+4#Principles of Field Astronomy#4.14#21#Ex4_14.sce#2990/CH4/EX4.14/Ex4_14.sce#S##117120
+4#Principles of Field Astronomy#4.13#20#Ex4_13.sce#2990/CH4/EX4.13/Ex4_13.sce#S##117119
+4#Principles of Field Astronomy#4.12#19#Ex4_12.sce#2990/CH4/EX4.12/Ex4_12.sce#S##117118
+4#Principles of Field Astronomy#4.11#18#Ex4_11.sce#2990/CH4/EX4.11/Ex4_11.sce#S##117117
+4#Principles of Field Astronomy#4.10#17#Ex4_10.sce#2990/CH4/EX4.10/Ex4_10.sce#S##119050
+4#Principles of Field Astronomy#4.1#8#Ex4_1.sce#2990/CH4/EX4.1/Ex4_1.sce#S##119049
+3#Trilateration#3.4#7#Ex3_4.sce#2990/CH3/EX3.4/Ex3_4.sce#S##119048
+3#Trilateration#3.3#6#Ex3_3.sce#2990/CH3/EX3.3/Ex3_3.sce#S##119047
+3#Trilateration#3.2#5#Ex3_2.sce#2990/CH3/EX3.2/Ex3_2.sce#S##117104
+3#Trilateration#3.1#4#Ex3_1.sce#2990/CH3/EX3.1/Ex3_1.sce#S##117103
+1#Electronic Distance Measurement#1.3#3#Ex1_3.sce#2990/CH1/EX1.3/Ex1_3.sce#S##117102
+1#Electronic Distance Measurement#1.2#2#Ex1_2.sce#2990/CH1/EX1.2/Ex1_2.sce#S##117101
+1#Electronic Distance Measurement#1.1#1#Ex1_1.sce#2990/CH1/EX1.1/Ex1_1.sce#S##117100

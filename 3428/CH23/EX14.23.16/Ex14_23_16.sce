@@ -1,8 +1,9 @@
 //Section-14,Example-2,Page no.-PC.111
 //To estimate the pH of 0.10 M NH_3 at 25 degree Celcius.
-clc;
+clc
+T=25                  //degree Celsius
 K_b=1.8*10^-5
-B=0.1
+B=0.1                //M
 pK_b=-log10(K_b)
 pK_w=14
 F_pro=sqrt(K_b/B)                      //Fraction protonated

@@ -1,0 +1,160 @@
+26#Power factor improvement#26.9#To calculate the total load kVA and power factor#eg26_9.sce#1118/CH26/EX26.9/eg26_9.sce#S##68200
+26#Power factor improvement#26.8#To calculate power factor leading kvar and kva#eg26_8.sce#1118/CH26/EX26.8/eg26_8.sce#S##68199
+26#Power factor improvement#26.7#To calculate the leading kvar kva rating and power factor#eg26_7.sce#1118/CH26/EX26.7/eg26_7.sce#S##68198
+26#Power factor improvement#26.6#To calculate the capacitance per phase#eg26_6.sce#1118/CH26/EX26.6/eg26_6.sce#S##68197
+26#Power factor improvement#26.5#To calculate current to the motor at full load current through capacitor and capacitance#eg26_5.sce#1118/CH26/EX26.5/eg26_5.sce#S##68196
+26#Power factor improvement#26.4#To calculate the capacitance per phase#eg26_4.sce#1118/CH26/EX26.4/eg26_4.sce#S##68195
+26#Power factor improvement#26.3#to calculate the kVAr rating and capacitance per phase#eg26_3.sce#1118/CH26/EX26.3/eg26_3.sce#S##68194
+26#Power factor improvement#26.2#To calculate the capacitiance kVAr and the new supply of current#eg26_2.sce#1118/CH26/EX26.2/eg26_2.sce#S##68193
+26#Power factor improvement#26.13#To estimate the limiting cost per kvar#eg26_13.sce#1118/CH26/EX26.13/eg26_13.sce#S##68204
+26#Power factor improvement#26.12#To detremine the annual savings#eg26_12.sce#1118/CH26/EX26.12/eg26_12.sce#S##68203
+26#Power factor improvement#26.11#To detremine the most economical pf and the kva rating #eg26_11.sce#1118/CH26/EX26.11/eg26_11.sce#S##68202
+26#Power factor improvement#26.10#To calculate the annual saving#eg26_10.sce#1118/CH26/EX26.10/eg26_10.sce#S##68201
+26#Power factor improvement#26.1#To claculate the value of capicitance#eg26_1.sce#1118/CH26/EX26.1/eg26_1.sce#S##68192
+25#Tarrifs#25.9#To find the number of units for which the tariff is econimical#eg25_9.sce#1118/CH25/EX25.9/eg25_9.sce#S##68190
+25#Tarrifs#25.8#to calculate the annual bill#eg25_8.sce#1118/CH25/EX25.8/eg25_8.sce#S##68189
+25#Tarrifs#25.7#To determine which tariff is economical#eg25_7.sce#1118/CH25/EX25.7/eg25_7.sce#S##68188
+25#Tarrifs#25.6#To determine the total energy consummed and the total bill#eg25_6.sce#1118/CH25/EX25.6/eg25_6.sce#S##68187
+25#Tarrifs#25.5#To detremine the saving in energy cost#eg25_5.sce#1118/CH25/EX25.5/eg25_5.sce#S##68186
+25#Tarrifs#25.4#to determine the energy consumption per year and the yearly bill#eg25_4.sce#1118/CH25/EX25.4/eg25_4.sce#S##68185
+25#Tarrifs#25.3#To determine the cost of energy per kwh at the busbars#eg25_3.sce#1118/CH25/EX25.3/eg25_3.sce#S##68184
+25#Tarrifs#25.2#To calculate the annual bill#eg25_2.sce#1118/CH25/EX25.2/eg25_2.sce#S##68182
+25#Tarrifs#25.11#to find the generation cost per kwh#eg25_11.sce#1118/CH25/EX25.11/eg25_11.sce#S##68191
+25#Tarrifs#25.10#to find the energy consumption per year#25_10.sce#1118/CH25/EX25.10/25_10.sce#S##77786
+25#Tarrifs#25.1#To determine the overall cost per kwh#eg25_1.sce#1118/CH25/EX25.1/eg25_1.sce#S##73653
+24#System neutral grounding#24.2#To determine the inductance and kva rating#eg24_2.sce#1118/CH24/EX24.2/eg24_2.sce#S##67836
+24#System neutral grounding#24.1#to calculate reactance to neutralize the capacitance to earth#eg24_1.sce#1118/CH24/EX24.1/eg24_1.sce#S##67835
+22#Corona#22.2#to estimate the corona loss #eg22_2.sce#1118/CH22/EX22.2/eg22_2.sce#S##73654
+22#Corona#22.1#to determine the disruptive critical voltage visual critical voltages for local and general corona#eg22_1.sce#1118/CH22/EX22.1/eg22_1.sce#S##67838
+20#Travelling waves#20.8#To find the maximum voltage#eg20_8.sce#1118/CH20/EX20.8/eg20_8.sce#S##68179
+20#Travelling waves#20.7#To calculate the voltage across load#eg20_7.sce#1118/CH20/EX20.7/eg20_7.sce#S##68178
+20#Travelling waves#20.6#To calculate the current voltage waves and the resistance reflected from and transmitted beyond the junction #eg20_6.sce#1118/CH20/EX20.6/eg20_6.sce#S##68177
+20#Travelling waves#20.5#To find the surge voltage distribution#eg20_5.sce#1118/CH20/EX20.5/eg20_5.sce#S##68176
+20#Travelling waves#20.4#To determine from first principles the magnitudes of first and second pulses#eg20_4.sce#1118/CH20/EX20.4/eg20_4.sce#S##68175
+20#Travelling waves#20.3#to find the reflected voltage and current in the cable#eg20_3.sce#1118/CH20/EX20.3/eg20_3.sce#S##68174
+20#Travelling waves#20.2#To find the voltage distribution#eg20_2.sce#1118/CH20/EX20.2/eg20_2.sce#S##68205
+20#Travelling waves#20.1#to calculate the surge impedances and velocities of the line and cable #eg20_1.sce#1118/CH20/EX20.1/eg20_1.sce#S##68033
+19#Power system stability#19.9#To determine the critical clearing angle#eg19_9.sce#1118/CH19/EX19.9/eg19_9.sce#S##68030
+19#Power system stability#19.8#To detremine the stabilty of the system#eg19_8.sce#1118/CH19/EX19.8/eg19_8.sce#S##68029
+19#Power system stability#19.7#To estimate the sudden increase in generator output#eg19_7.sce#1118/CH19/EX19.7/eg19_7.sce#S##68028
+19#Power system stability#19.6#To calculte whether the generator will remain in synchronism#eg19_6.sce#1118/CH19/EX19.6/eg19_6.sce#S##68027
+19#Power system stability#19.5#To calculate equivalent h constant at a base of 100MVA#eg19_5.sce#1118/CH19/EX19.5/eg19_5.sce#S##68026
+19#Power system stability#19.4#To calculate the kinetic energy#eg19_4.sce#1118/CH19/EX19.4/eg19_4.sce#S##68025
+19#Power system stability#19.2#To determine teh steady state stability limit#eg19_3.sce#1118/CH19/EX19.2/eg19_3.sce#S##68024
+19#Power system stability#19.11#To plot the sqing curve#eg19_11.sce#1118/CH19/EX19.11/eg19_11.sce#S##68032
+19#Power system stability#19.10#To determine the critical clearing angle#eg19_10.sce#1118/CH19/EX19.10/eg19_10.sce#S##68031
+19#Power system stability#19.1#To find the steady state stability limit#eg19_1.sce#1118/CH19/EX19.1/eg19_1.sce#S##68023
+18#Unsymmetrical faults#18.3#To calculate voltage to neutral of the faulty phase#18_3.sce#1118/CH18/EX18.3/18_3.sce#S##67834
+18#Unsymmetrical faults#18.2#to find the sequence LLG and LL#eg18_2.sce#1118/CH18/EX18.2/eg18_2.sce#S##67833
+18#Unsymmetrical faults#18.1#To determine the fault current and the line to line voltages#eg18_1.sce#1118/CH18/EX18.1/eg18_1.sce#S##67832
+17#Symmetrical components#17.7#To determine the complex power represented by three phase voltages and three phase currents by symmetrical and unbalanced components#eg17_7.sce#1118/CH17/EX17.7/eg17_7.sce#S##67831
+17#Symmetrical components#17.3#To find the symmetrical components of the line current#eg17_3.sce#1118/CH17/EX17.3/eg17_3.sce#S##67830
+17#Symmetrical components#17.2#To detremine the symmetrical components of the 3 phase system#eg17_2.sce#1118/CH17/EX17.2/eg17_2.sce#S##67829
+17#Symmetrical components#17.1#To calculate the positive negative zero sequence component of currents and return neutral current#eg17_1.sce#1118/CH17/EX17.1/eg17_1.sce#S##67828
+16#Symmetrical faults#16.6#to determine short circuit MVA and fault current distribution#16_6.sce#1118/CH16/EX16.6/16_6.sce#S##77785
+16#Symmetrical faults#16.5#to find the reactor reactances#16_5.sce#1118/CH16/EX16.5/16_5.sce#S##77784
+16#Symmetrical faults#16.4#To find the reactor neccessary to prevent the switchgear#eg16_4.sce#1118/CH16/EX16.4/eg16_4.sce#S##67827
+16#Symmetrical faults#16.3#To calculte the reactance of the reactor to prevent the circuit breakers from overloading#eg16_3.sce#1118/CH16/EX16.3/eg16_3.sce#S##67826
+16#Symmetrical faults#16.2#to calculate the subtransient transient and synchronous short circuit currents#eg16_2.sce#1118/CH16/EX16.2/eg16_2.sce#S##68206
+16#Symmetrical faults#16.1#To find the high voltage terminals of a transformer#eg16_1.sce#1118/CH16/EX16.1/eg16_1.sce#S##67825
+15#Economic operations of power systems#15.8#determine the generation schedule and the load demand#eg15_8.sce#1118/CH15/EX15.8/eg15_8.sce#S##67824
+15#Economic operations of power systems#15.7#calculate the penalty factors for the two plants#eg15_7.sce#1118/CH15/EX15.7/eg15_7.sce#S##67823
+15#Economic operations of power systems#15.6#find the penalty factor and the additional cost per hour to increase the output of plant 1 by 1 MW#eg15_6.sce#1118/CH15/EX15.6/eg15_6.sce#S##67822
+15#Economic operations of power systems#15.5#find the penalty factor#eg15_5.sce#1118/CH15/EX15.5/eg15_5.sce#S##67821
+15#Economic operations of power systems#15.4#find the loss coefficients and the transmission loss#eg15_4.sce#1118/CH15/EX15.4/eg15_4.sce#S##67820
+15#Economic operations of power systems#15.3#determine the saving in fuel cost#eg15_3.sce#1118/CH15/EX15.3/eg15_3.sce#S##67819
+15#Economic operations of power systems#15.2#to find the load division between the two units#eg15_2.sce#1118/CH15/EX15.2/eg15_2.sce#S##67818
+15#Economic operations of power systems#15.1#to find the incremental cost of two units#eg15_1.sce#1118/CH15/EX15.1/eg15_1.sce#S##67817
+14#Load flow analysis#14.8#determine the voltages at buses#eg14_8.sce#1118/CH14/EX14.8/eg14_8.sce#S##67816
+14#Load flow analysis#14.7#determine modified Ybus#eg14_7.sce#1118/CH14/EX14.7/eg14_7.sce#S##67815
+14#Load flow analysis#14.6#determine Ybus#eg14_6.sce#1118/CH14/EX14.6/eg14_6.sce#S##67814
+14#Load flow analysis#14.5#determine modified Ybus#eg14_5.sce#1118/CH14/EX14.5/eg14_5.sce#S##67813
+14#Load flow analysis#14.4#determine Ybus#eg14_4.sce#1118/CH14/EX14.4/eg14_4.sce#S##67812
+14#Load flow analysis#14.3#determine Ybus#eg14_3.sce#1118/CH14/EX14.3/eg14_3.sce#S##67811
+14#Load flow analysis#14.2#determine modified Ybus#eg14_2.sce#1118/CH14/EX14.2/eg14_2.sce#S##67810
+14#Load flow analysis#14.1#determine Ybus#eg14_1.sce#1118/CH14/EX14.1/eg14_1.sce#S##67809
+13#Control of voltage and reactive power#13.4#To find the mva rating of synchronous phase modifier#eg13_4.sce#1118/CH13/EX13.4/eg13_4.sce#S##67808
+13#Control of voltage and reactive power#13.3#To calculate the sending voltage maximum power and additional reactive power #eg13_3.sce#1118/CH13/EX13.3/eg13_3.sce#S##67807
+13#Control of voltage and reactive power#13.2#To find the rating of the modifier and the power factor #eg13_2.sce#1118/CH13/EX13.2/eg13_2.sce#S##67806
+13#Control of voltage and reactive power#13.1#To calculate the maximum power phase differenec for maximum power transmitted and the rating of synchronous phase modifier#eg13_1.sce#1118/CH13/EX13.1/eg13_1.sce#S##67805
+11#General networks constants#11.5#To determine the equivalent T network  #eg11_5.sce#1118/CH11/EX11.5/eg11_5.sce#S##67804
+11#General networks constants#11.4#To calculate the value of ABCD parameters and the characteristic impedance#eg11_4.sce#1118/CH11/EX11.4/eg11_4.sce#S##67802
+11#General networks constants#11.3#To calculate sending end voltage#eg11_3.sce#1118/CH11/EX11.3/eg11_3.sce#S##67801
+11#General networks constants#11.2#To find the volatge current and pf at the sending end#eg11_2.sce#1118/CH11/EX11.2/eg11_2.sce#S##67800
+10#Long transmission lines#10.2#To calculate the sending end voltage sending end current line charging current efficiency of transmission and voltage regulation#eg10_2.sce#1118/CH10/EX10.2/eg10_2.sce#S##67798
+10#Long transmission lines#10.1#To calculate the A B C D constants#eg10_1.sce#1118/CH10/EX10.1/eg10_1.sce#S##67799
+9#Short and medium lines#9.8#to calculate A B C D constants sending end voltage current power factor and efficiency#eg9_8.sce#1118/CH9/EX9.8/eg9_8.sce#S##67796
+9#Short and medium lines#9.7#calculate receiving end load#eg9_7.sce#1118/CH9/EX9.7/eg9_7.sce#S##67795
+9#Short and medium lines#9.6#determine voltage current power factor apparent power efficiency and regulation of line#eg9_6.sce#1118/CH9/EX9.6/eg9_6.sce#S##77787
+9#Short and medium lines#9.5#the voltage at the generator busbars#eg9_5.sce#1118/CH9/EX9.5/eg9_5.sce#S##67793
+9#Short and medium lines#9.4#determine the voltage and power factor#eg9_4.sce#1118/CH9/EX9.4/eg9_4.sce#S##67792
+9#Short and medium lines#9.3#calculate voltage and power factor#eg9_3.sce#1118/CH9/EX9.3/eg9_3.sce#S##67790
+9#Short and medium lines#9.2#calculate power factor voltage regulation and efficiency#eg9_2.sce#1118/CH9/EX9.2/eg9_2.sce#S##67791
+9#Short and medium lines#9.1#calculate the current voltage and power factor of the load#eg9_1.sce#1118/CH9/EX9.1/eg9_1.sce#S##67788
+8#per unit representation#8.9#To calculte the volatge at the terminals of the motor#eg8_9.sce#1118/CH8/EX8.9/eg8_9.sce#S##73651
+8#per unit representation#8.8#to calculate the per unit impedance of all units#eg8_8.sce#1118/CH8/EX8.8/eg8_8.sce#S##78247
+8#per unit representation#8.7#to determine the per phase generator voltage #eg8_7.sce#1118/CH8/EX8.7/eg8_7.sce#S##77783
+8#per unit representation#8.6#To calculte the through impedance#eg8_6.sce#1118/CH8/EX8.6/eg8_6.sce#S##67785
+8#per unit representation#8.5#To calculate the voltage drop in line per unit#eg8_5.sce#1118/CH8/EX8.5/eg8_5.sce#S##67784
+8#per unit representation#8.4#to calculate per unit impedances at 15 kva base#eg8_4.sce#1118/CH8/EX8.4/eg8_4.sce#S##77782
+8#per unit representation#8.3#determine the total reactance in per unit#eg8_3.sce#1118/CH8/EX8.3/eg8_3.sce#S##73655
+8#per unit representation#8.2#Three phase apparent power in pu#eg8_2.sce#1118/CH8/EX8.2/eg8_2.sce#S##67775
+8#per unit representation#8.10#To find the generator bus terminal voltage#eg8_10.sce#1118/CH8/EX8.10/eg8_10.sce#S##73652
+8#per unit representation#8.1#To calculate the per unit impedance and admittance#eg8_1.sce#1118/CH8/EX8.1/eg8_1.sce#S##67774
+7#Line Parameters#7.9#To calculate the charging current per km and the reactive voltamperes #eg7_9.sce#1118/CH7/EX7.9/eg7_9.sce#S##67764
+7#Line Parameters#7.8#To calculate the capacitance of each conductor to neutral per km and line to line capacitance and capacitance susceptance to neutral per km#eg7_8.sce#1118/CH7/EX7.8/eg7_8.sce#S##67763
+7#Line Parameters#7.7#determine the line inductance and the inductive reactance#eg7_7.sce#1118/CH7/EX7.7/eg7_7.sce#S##67760
+7#Line Parameters#7.6#To calculate the inductive reactance per phase per km of the system#eg7_6.sce#1118/CH7/EX7.6/eg7_6.sce#S##67759
+7#Line Parameters#7.5#To calculate the inductance of the line per km#eg7_5.sce#1118/CH7/EX7.5/eg7_5.sce#S##67758
+7#Line Parameters#7.4#To calculate the effective inductance of the line #eg7_4.sce#1118/CH7/EX7.4/eg7_4.sce#S##67757
+7#Line Parameters#7.3#To calculate the inductive reactance per phase per km of the line#eg7_3.sce#1118/CH7/EX7.3/eg7_3.sce#S##67756
+7#Line Parameters#7.2#To calculate inductance and inductive reactance per phase per km of the line#eg7_2.sce#1118/CH7/EX7.2/eg7_2.sce#S##67755
+7#Line Parameters#7.18#To calculate the loop inductance of the line#eg7_18.sce#1118/CH7/EX7.18/eg7_18.sce#S##67773
+7#Line Parameters#7.17#To calculate the inductance per unit length#eg7_17.sce#1118/CH7/EX7.17/eg7_17.sce#S##78240
+7#Line Parameters#7.16#to calculate the voltage induced in telephone conductor due to electrostatic effect#7_16.sce#1118/CH7/EX7.16/7_16.sce#S##73650
+7#Line Parameters#7.15#To calculate the voltage induced per km#eg7_15.sce#1118/CH7/EX7.15/eg7_15.sce#S##67771
+7#Line Parameters#7.14#To calculate the inductive recatance and the capacitive reactance per phase per km#eg7_14.sce#1118/CH7/EX7.14/eg7_14.sce#S##67770
+7#Line Parameters#7.13#To calculate the capacitance per km to neutral and the capacitive reactance to neutral per km to the line#eg7_13.sce#1118/CH7/EX7.13/eg7_13.sce#S##67769
+7#Line Parameters#7.12#To calculate the capicitance of the line#eg7_12.sce#1118/CH7/EX7.12/eg7_12.sce#S##67768
+7#Line Parameters#7.11#To calculate the capacitive reactance per phase per km of the line#eg7_11.sce#1118/CH7/EX7.11/eg7_11.sce#S##67767
+7#Line Parameters#7.10#to find the capacitance per km to neutral and the capacitive reactance per phase per km#eg7_10.sce#1118/CH7/EX7.10/eg7_10.sce#S##67765
+7#Line Parameters#7.1#To calculate the inductance of each inductor inductive reactance per km and loop inductance per km#eg7_1.sce#1118/CH7/EX7.1/eg7_1.sce#S##67754
+6#Sag and tension#6.5#to find the clearance between the conductor and the water at a point midpoint between the towers#eg6_5.sce#1118/CH6/EX6.5/eg6_5.sce#S##67753
+6#Sag and tension#6.4#to calculate the temperature at which sag will remain same under conditions of no ice and no wind#eg6_4.sce#1118/CH6/EX6.4/eg6_4.sce#S##67752
+6#Sag and tension#6.3#determine tension and sag#eg6_3.sce#1118/CH6/EX6.3/eg6_3.sce#S##67751
+6#Sag and tension#6.2#to calculate the deflected sag and the vertical component of sag#eg6_2.sce#1118/CH6/EX6.2/eg6_2.sce#S##67749
+6#Sag and tension#6.1#To calculate the sag#eg6_1.sce#1118/CH6/EX6.1/eg6_1.sce#S##67748
+5#Line insulators and supports#5.7#to calculate the voltage across each unit as a percentage of the total voltage#5_7.sce#1118/CH5/EX5.7/5_7.sce#S##68211
+5#Line insulators and supports#5.6#to find the voltage between the conductors and the string efficiency#5_6.sce#1118/CH5/EX5.6/5_6.sce#S##68219
+5#Line insulators and supports#5.3#to find the voltage distribution and the string efficiency#eg5_3.sce#1118/CH5/EX5.3/eg5_3.sce#S##68218
+5#Line insulators and supports#5.2#To calculate voltage across the lowest unt and the string efficiency#eg5_2.sce#1118/CH5/EX5.2/eg5_2.sce#S##68217
+5#Line insulators and supports#5.1#To calculate the voltage distribution across each unit and the string efficiency#eg5_1.sce#1118/CH5/EX5.1/eg5_1.sce#S##68216
+4#Power Cables#4.9#To calculate capacitance charging current ic reactive var dielectric loss and equivalent insulation resistance#eg4_9.sce#1118/CH4/EX4.9/eg4_9.sce#S##67651
+4#Power Cables#4.8#To calculate restitivity of the insulating material#eg4_8.sce#1118/CH4/EX4.8/eg4_8.sce#S##67650
+4#Power Cables#4.7#To calculate charging kvar#eg4_7.sce#1118/CH4/EX4.7/eg4_7.sce#S##67649
+4#Power Cables#4.6#capacitance between any pair of conductors and the charging current#eg4_6.sce#1118/CH4/EX4.6/eg4_6.sce#S##67648
+4#Power Cables#4.5#To calculate the diameter of the inter sheath and the voltage#eg4_5.sce#1118/CH4/EX4.5/eg4_5.sce#S##67647
+4#Power Cables#4.4#To calculate the minimum diameter of the lead sheath#eg4_4.sce#1118/CH4/EX4.4/eg4_4.sce#S##67646
+4#Power Cables#4.3#To calculate potential gradient at the surface of teh conductor#eg4_3.sce#1118/CH4/EX4.3/eg4_3.sce#S##67645
+4#Power Cables#4.2#To calculate the overall diameter and its most economical diameter of a single core cable#eg4_2.sce#1118/CH4/EX4.2/eg4_2.sce#S##73648
+4#Power Cables#4.1#To calculate the maximum stress on the insulation#eg4_1.sce#1118/CH4/EX4.1/eg4_1.sce#S##67643
+3#Conductors#3.6#To calculate the most economical current density#eg3_6.sce#1118/CH3/EX3.6/eg3_6.sce#S##67637
+3#Conductors#3.5#To determine the most economical size of copper conductor#eg3_5.sce#1118/CH3/EX3.5/eg3_5.sce#S##67636
+3#Conductors#3.4#To calculate rms value of curent for a 3 phase #eg3_4.sce#1118/CH3/EX3.4/eg3_4.sce#S##67635
+3#Conductors#3.3#to calculate the best current density of a three phase oh line#eg3_3.sce#1118/CH3/EX3.3/eg3_3.sce#S##68213
+3#Conductors#3.2#to calculate the most economical cross sectional area #eg3_2.sce#1118/CH3/EX3.2/eg3_2.sce#S##67620
+3#Conductors#3.1#To determine the most economical size#eg3_1.sce#1118/CH3/EX3.1/eg3_1.sce#S##71689
+2#Supply Systems #2.5#To compare the diameter and weight#eg2_5.sce#1118/CH2/EX2.5/eg2_5.sce#S##67642
+2#Supply Systems #2.4#To calculate the percentage of additional load#eg2_4.sce#1118/CH2/EX2.4/eg2_4.sce#S##67641
+2#Supply Systems #2.3#To calculate the volume of conductor#eg2_3.sce#1118/CH2/EX2.3/eg2_3.sce#S##67640
+2#Supply Systems #2.2#To compare the amount of conductor material required#eg2_2.sce#1118/CH2/EX2.2/eg2_2.sce#S##67639
+2#Supply Systems #2.1#To calculate the percentage saving in conductor material#eg2_1.sce#1118/CH2/EX2.1/eg2_1.sce#S##67638
+1#Load Characteristics#1.9#to calculate max demand on the station installed capacity energy supplied in a year#eg1_9.sce#1118/CH1/EX1.9/eg1_9.sce#S##67605
+1#Load Characteristics#1.8#to find the diversity factor of a power station#eg1_8.sce#1118/CH1/EX1.8/eg1_8.sce#S##73647
+1#Load Characteristics#1.7#to plot the chronological load duration load energy curve and then calculating the load factor and the utilization factor#eg1_7.sce#1118/CH1/EX1.7/eg1_7.sce#S##67597
+1#Load Characteristics#1.6#to calculate plant capacity factor load factor utilization factor reserve capacity#eg1_6.sce#1118/CH1/EX1.6/eg1_6.sce#S##67589
+1#Load Characteristics#1.5#to determine the load factor from the load duration curve#eg1_5.sce#1118/CH1/EX1.5/eg1_5.sce#S##67579
+1#Load Characteristics#1.4#to plot the load duration curve from the chronological load curve#eg1_4.sce#1118/CH1/EX1.4/eg1_4.sce#S##67578
+1#Load Characteristics#1.3#to find the maximum value and the consumption of energy in kWh#eg1_3.sce#1118/CH1/EX1.3/eg1_3.sce#S##68214
+1#Load Characteristics#1.2#to calculate the diversity factor avg load and laod factor of each consumer avg load and load factor of combined load#eg1_2.sce#1118/CH1/EX1.2/eg1_2.sce#S##67571
+1#Load Characteristics#1.1#to calculate the average load monthly energy consumption and load factor#eg1_1.sce#1118/CH1/EX1.1/eg1_1.sce#S##68215

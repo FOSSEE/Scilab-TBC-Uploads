@@ -7,10 +7,10 @@ Vs=V-Vz //voltage across resistor in V
 Rs=330 //series resistance in ohm
 RL=1.5*10^3 //load resistance in ohm
  disp("Voltage across resistor ")
-printf("        = %.0f V \n ",Vr)
+printf("        = %.0f V \n ",Vs)
 
 disp("(1) Current through series resistor Is")
-Is=Vr/Rs //Current through series resistor
+Is=Vs/Rs //Current through series resistor
 printf("      Is  = %.1f mA \n ",Is*10^3)
 
 disp("(2) Current through series load Il")
@@ -35,7 +35,3 @@ printf("          = %.1f mW \n ",W*10^3)
 disp("(b) Load resistor -> W=IL*VL")
 W=VL*IL //wattage of zener diode
 printf("          = %.0f mW \n ",W*10^3)
-
-
-
-

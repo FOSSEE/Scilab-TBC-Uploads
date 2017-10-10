@@ -3,6 +3,12 @@
 //displaying plots for the given signals
 clear;
 clc;
+function [y]=u(t)
+    if t>=0
+    y=1
+else y=0
+    end
+endfunction
 for t=-3:1:3
 y(t+4)=abs(t+3)*u(t+3)-abs(t+1)*u(t+1)-abs(t-1)*u(t-1)+abs(t-3)*u(t-3);
 end

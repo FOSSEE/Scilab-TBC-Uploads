@@ -16,27 +16,27 @@ xdel(winsid())//to close all currently open figure(s).
 function[H]=lowpassfilter(type1,M,N,D0,n)//lowpassfilter is used to filter an image .
     u=0:(M-1);
     v=0:(N-1);
-    idx=find(u>M/2);
+    idx=find(u&gt;M/2);
     u(idx)=u(idx)-M;
-    idy=find(v>N/2);
+    idy=find(v&gt;N/2);
     v(idy)=v(idy)-N;
     [U,V]=meshgrid(v,u);
     D=sqrt(U.^2+V.^2);
     select type1
         
-    case'ideal'then
-        H=double(D<=D0);
+    case'ideal'
+        H=double(D&lt;=D0);
         
-        case'Laplacian'then
+        case'Laplacian'
         H=1+(4*(%pi)^2*D^2);
         
-    case'butterworth'then
-        if argn(2)==4 then
+    case'butterworth'
+        if argn(2)==4 
             n=1;
         end
         H = ones(M,N)./(1+(D./D0).^(2*n));
         
-        case'gaussian'then
+        case'gaussian'
         H=exp(-(D.^2)./(2*(D0^2)));
     else
         disp('Unknownfiltertype.')
@@ -77,10 +77,3 @@ thr = maskthresh(Image_filter);
 Image_Enhance=im2bw(Image_filter,thr);
 figure,ShowImage(Image_Enhance,'Filtered Image');
 title('Enhance Image','color','blue','fontsize',4);
-
-
-
-
-
-
-

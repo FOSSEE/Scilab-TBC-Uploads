@@ -25,4 +25,5 @@ Ya=ya*B/pa;
 Yb=yb*B/pb;
 AB=sqrt((Xb-Xa)**2+(Yb-Ya)**2);
 disp(AB,"distance of AB in m")
+disp("the answer does not match with textbook due to round off error")
 clear()

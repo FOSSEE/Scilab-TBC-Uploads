@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 5
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 5");
 
@@ -18,7 +19,7 @@ req1=r1+r2;
 req2=r1+r4; 
 req3=(req1*r1)/(req1+r1); 
 rac=(req3*req2)/(req3+req2);
-disp(sprintf("The eqiuvalent resistance between points a and c is %.2f Ω",rac));
+disp(sprintf("The eqiuvalent resistance between points a and c is %f Ω",rac));
 
 //To find resistance between b and d
 //converting delta abc into star with points a, b and c
@@ -34,6 +35,6 @@ rc=(rbc*rac)/r;
 req5=rb+rac; 
 req6=rc+8;   
 rbd=ra+((req5*req6)/(req5+req6));
-disp(sprintf("The eqiuvalent resistance between points b and d is %.2f Ω",rbd));
+disp(sprintf("The eqiuvalent resistance between points b and d is %f Ω",rbd));
 
 //END

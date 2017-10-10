@@ -1,0 +1,73 @@
+11#Impulse and Reaction Turbines#11.5#Determination of gas temperature velocities and discharge angles at the blade root and tip radii#Ex11_5.sce#3511/CH11/EX11.5/Ex11_5.sce#S##119268
+11#Impulse and Reaction Turbines#11.4#Calculation of blade angle used and the mass flow rate required#Ex11_4.sce#3511/CH11/EX11.4/Ex11_4.sce#S##119267
+11#Impulse and Reaction Turbines#11.3#Estimation of the blade angle and power produced #Ex11_3.sce#3511/CH11/EX11.3/Ex11_3.sce#S##119269
+11#Impulse and Reaction Turbines#11.2#Determination of output power developed by the turbine shaft#Ex11_2.sce#3511/CH11/EX11.2/Ex11_2.sce#S##119266
+11#Impulse and Reaction Turbines#11.1#Estimation of maximum number of stages required#Ex11_1.sce#3511/CH11/EX11.1/Ex11_1.sce#S##120334
+9#Axial Flow Compressors#9.9#Determination of the stage efficiency and the work done factor of an axial flow compressor#Ex9_9.sce#3511/CH9/EX9.9/Ex9_9.sce#S##119262
+9#Axial Flow Compressors#9.8#Calculation of the stage stagnation pressure ratio and the power input#Ex9_8.sce#3511/CH9/EX9.8/Ex9_8.sce#S##119261
+9#Axial Flow Compressors#9.7#Calculation of the rotational speed and the length of the last stage#Ex9_7.sce#3511/CH9/EX9.7/Ex9_7.sce#S##119259
+9#Axial Flow Compressors#9.6#Determination of the direction of the air entry to and exit from the rotor#Ex9_6.sce#3511/CH9/EX9.6/Ex9_6.sce#S##119258
+9#Axial Flow Compressors#9.5#Calculation of pressure rise per blade ring and the power input per stage#Ex9_5.sce#3511/CH9/EX9.5/Ex9_5.sce#S##120333
+9#Axial Flow Compressors#9.4#Determination of Mach number relative to Rotor#Ex9_4.sce#3511/CH9/EX9.4/Ex9_4.sce#S##119256
+9#Axial Flow Compressors#9.3#Estimation of number of stages of the compressors#Ex9_3.sce#3511/CH9/EX9.3/Ex9_3.sce#S##119255
+9#Axial Flow Compressors#9.2#Calculation of mass flow rate and degree of reaction#Ex9_2.sce#3511/CH9/EX9.2/Ex9_2.sce#S##119254
+9#Axial Flow Compressors#9.11#Calculation of rotational speed#Ex9_11.sce#3511/CH9/EX9.11/Ex9_11.sce#S##119264
+9#Axial Flow Compressors#9.10#Determination of blade and air angle #Ex9_10.sce#3511/CH9/EX9.10/Ex9_10.sce#S##119263
+9#Axial Flow Compressors#9.1#Estimation of blade angles#Ex9_1.sce#3511/CH9/EX9.1/Ex9_1.sce#S##120332
+8#Centrifugal Compressors#8.9#Determination of number of radial impeller vanes#Ex8_9.sce#3511/CH8/EX8.9/Ex8_9.sce#S##119278
+8#Centrifugal Compressors#8.8#Calculation of slip factor#Ex8_8.sce#3511/CH8/EX8.8/Ex8_8.sce#S##119277
+8#Centrifugal Compressors#8.7#Calculation of impeller and diffuser blade angles at inlet#Ex8_7.sce#3511/CH8/EX8.7/Ex8_7.sce#S##119276
+8#Centrifugal Compressors#8.6#Calculation of the minimum possible depth of the diffuser#Ex8_6.sce#3511/CH8/EX8.6/Ex8_6.sce#S##119275
+8#Centrifugal Compressors#8.5#Calculation of impeller diameters and the width at the impeller exit#Ex8_5.sce#3511/CH8/EX8.5/Ex8_5.sce#S##119273
+8#Centrifugal Compressors#8.4#Calculation of final temperature of the gases and the work done per kg of gas#Ex8_4.sce#3511/CH8/EX8.4/Ex8_4.sce#S##119274
+8#Centrifugal Compressors#8.3#Calculation of theoretical blade angles#Ex8_3.sce#3511/CH8/EX8.3/Ex8_3.sce#S##119272
+8#Centrifugal Compressors#8.2#Estimation of the probable axial width of the impeller#Ex8_2.sce#3511/CH8/EX8.2/Ex8_2.sce#S##119271
+8#Centrifugal Compressors#8.10#Calculation of the torque power required and the head developed#Ex8_10.sce#3511/CH8/EX8.10/Ex8_10.sce#S##119279
+8#Centrifugal Compressors#8.1#Calculation of compressor efficiency#Ex8_1.sce#3511/CH8/EX8.1/Ex8_1.sce#S##119270
+7#Jet Propulsion Cycles and Their Analysis#7.9#Calculation of thrust provided by the engine and the thrust power developed#Ex7_9.sce#3511/CH7/EX7.9/Ex7_9.sce#S##119287
+7#Jet Propulsion Cycles and Their Analysis#7.8#Calculation of the take off thrust#Ex7_8.sce#3511/CH7/EX7.8/Ex7_8.sce#S##119286
+7#Jet Propulsion Cycles and Their Analysis#7.7#Determination of rate of fuel consumption#Ex7_7.sce#3511/CH7/EX7.7/Ex7_7.sce#S##119289
+7#Jet Propulsion Cycles and Their Analysis#7.6#Calculation of specific power output#Ex7_6.sce#3511/CH7/EX7.6/Ex7_6.sce#S##119285
+7#Jet Propulsion Cycles and Their Analysis#7.5#Calculation of the thrust and Specific fuel consumption#Ex7_5.sce#3511/CH7/EX7.5/Ex7_5.sce#S##119284
+7#Jet Propulsion Cycles and Their Analysis#7.4#Calculation of propulsive efficiency#Ex7_4.sce#3511/CH7/EX7.4/Ex7_4.sce#S##119283
+7#Jet Propulsion Cycles and Their Analysis#7.3#Calculation of the velocity leaving the nozzle#Ex7_3.sce#3511/CH7/EX7.3/Ex7_3.sce#S##119282
+7#Jet Propulsion Cycles and Their Analysis#7.2#Calculation of The Total Design Thrust#Ex7_2.sce#3511/CH7/EX7.2/Ex7_2.sce#S##119281
+7#Jet Propulsion Cycles and Their Analysis#7.10#Calculation of exit speed of the gases and the thrust developed#Ex7_10.sce#3511/CH7/EX7.10/Ex7_10.sce#S##119288
+7#Jet Propulsion Cycles and Their Analysis#7.1#Calculation of Thrust power and Heat Input#Ex7_1.sce#3511/CH7/EX7.1/Ex7_1.sce#S##119280
+6#Practical Cycles and their Analysis#6.9#Calculation of Isentropic efficiency of Turbine#Ex6_9.sce#3511/CH6/EX6.9/Ex6_9.sce#S##119298
+6#Practical Cycles and their Analysis#6.8#Calculation of minimum temperature ratio#Ex6_8.sce#3511/CH6/EX6.8/Ex6_8.sce#S##119296
+6#Practical Cycles and their Analysis#6.7#Calculation of suitable pressure ratio#Ex6_7.sce#3511/CH6/EX6.7/Ex6_7.sce#S##119297
+6#Practical Cycles and their Analysis#6.6#Calculation of Compressor efficiency and the temperature ratio#Ex6_6.sce#3511/CH6/EX6.6/Ex6_6.sce#S##119295
+6#Practical Cycles and their Analysis#6.5#Calculation of the thermal efficiency and air rate#Ex6_5.sce#3511/CH6/EX6.5/Ex6_5.sce#S##119294
+6#Practical Cycles and their Analysis#6.4#Calculation of net power out SFC and overall Efficiency#Ex6_4.sce#3511/CH6/EX6.4/Ex6_4.sce#S##119293
+6#Practical Cycles and their Analysis#6.3#Calculation of effect of pressure loss#Ex6_3.sce#3511/CH6/EX6.3/Ex6_3.sce#S##119292
+6#Practical Cycles and their Analysis#6.21#Calculation of cycle thermal efficiency#Ex6_21.sce#3511/CH6/EX6.21/Ex6_21.sce#S##119310
+6#Practical Cycles and their Analysis#6.20#Calculation of the Thermal efficiency#Ex6_20.sce#3511/CH6/EX6.20/Ex6_20.sce#S##119309
+6#Practical Cycles and their Analysis#6.2#Calculation of ratio of compressor to turbine work#Ex6_2.sce#3511/CH6/EX6.2/Ex6_2.sce#S##119291
+6#Practical Cycles and their Analysis#6.19#Determination of the percentage of the total air intake that passes to the turbine and the thermal efficiency of the plant#Ex6_19.sce#3511/CH6/EX6.19/Ex6_19.sce#S##120330
+6#Practical Cycles and their Analysis#6.18#Estimation of intermediate pressure and temperature between the two turbine stages#Ex6_18.sce#3511/CH6/EX6.18/Ex6_18.sce#S##119307
+6#Practical Cycles and their Analysis#6.17#Determination of necessary mass flow rate#Ex6_17.sce#3511/CH6/EX6.17/Ex6_17.sce#S##120331
+6#Practical Cycles and their Analysis#6.16#Calculation of efficiency and work ratio of modern turbines and old turbines#Ex6_16.sce#3511/CH6/EX6.16/Ex6_16.sce#S##120329
+6#Practical Cycles and their Analysis#6.15#Estimation of the temperature of the gases at entry to the turbine#Ex6_15.sce#3511/CH6/EX6.15/Ex6_15.sce#S##119304
+6#Practical Cycles and their Analysis#6.14#Calculation of pressure ratio and cycle efficiency#Ex6_14.sce#3511/CH6/EX6.14/Ex6_14.sce#S##119303
+6#Practical Cycles and their Analysis#6.13#Determination of pressure of the gas entering the low pressure turbine#Ex6_13.sce#3511/CH6/EX6.13/Ex6_13.sce#S##119302
+6#Practical Cycles and their Analysis#6.12#Calculation of the isentropic efficiency of the turbine and the mass flow of air#Ex6_12.sce#3511/CH6/EX6.12/Ex6_12.sce#S##119329
+6#Practical Cycles and their Analysis#6.11#Calculation of the power output thermal efficiency and the heat exchanger effectiveness#Ex6_11.sce#3511/CH6/EX6.11/Ex6_11.sce#S##120328
+6#Practical Cycles and their Analysis#6.10#Plotting variation of Isentropic efficiency over a range of pressure ratio#Ex6_10.sce#3511/CH6/EX6.10/Ex6_10.sce#S##119299
+6#Practical Cycles and their Analysis#6.1#Calculation of Net power and overall efficiency of installation#Ex6_1.sce#3511/CH6/EX6.1/Ex6_1.sce#S##119290
+5#Ideal Cycles and their Analysis#5.9#Estimation of thermal efficiency of the plant#Ex5_9.sce#3511/CH5/EX5.9/Ex5_9.sce#S##119317
+5#Ideal Cycles and their Analysis#5.8#Calculation of turbine pressure ratio#Ex5_8.sce#3511/CH5/EX5.8/Ex5_8.sce#S##119320
+5#Ideal Cycles and their Analysis#5.7#Calculation of temperature drop across the turbine#Ex5_7.sce#3511/CH5/EX5.7/Ex5_7.sce#S##119319
+5#Ideal Cycles and their Analysis#5.6#Calculation of Pressure ratio of compressor and turbine#Ex5_6.sce#3511/CH5/EX5.6/Ex5_6.sce#S##119316
+5#Ideal Cycles and their Analysis#5.5#Calculation of Thermal Efficiency#Ex5_5.sce#3511/CH5/EX5.5/Ex5_5.sce#S##119315
+5#Ideal Cycles and their Analysis#5.4#Calculation of Efficiency and work of compression#Ex5_4.sce#3511/CH5/EX5.4/Ex5_4.sce#S##119314
+5#Ideal Cycles and their Analysis#5.3#calculation of net power output of the cycle#Ex5_3.sce#3511/CH5/EX5.3/Ex5_3.sce#S##119313
+5#Ideal Cycles and their Analysis#5.2#Calculation of Improvement in Efficiency#Ex5_2.sce#3511/CH5/EX5.2/Ex5_2.sce#S##119312
+5#Ideal Cycles and their Analysis#5.19#Determination of Net power output#Ex5_19.sce#3511/CH5/EX5.19/Ex5_19.sce#S##119326
+5#Ideal Cycles and their Analysis#5.16#Calculation of Efficiency ratio of the power plants#Ex5_16.sce#3511/CH5/EX5.16/Ex5_16.sce#S##119325
+5#Ideal Cycles and their Analysis#5.15#Calculation of Improvement in Efficiency#Ex5_15.sce#3511/CH5/EX5.15/Ex5_15.sce#S##119324
+5#Ideal Cycles and their Analysis#5.13#Comparison of Carnot efficiency with Brayton efficiency #Ex5_13.sce#3511/CH5/EX5.13/Ex5_13.sce#S##119323
+5#Ideal Cycles and their Analysis#5.12#Comparison of basic cycle with modified cycles#Ex5_12.sce#3511/CH5/EX5.12/Ex5_12.sce#S##119322
+5#Ideal Cycles and their Analysis#5.11#Calculation of Efficiency under conditions giving maximum work#Ex5_11.sce#3511/CH5/EX5.11/Ex5_11.sce#S##119321
+5#Ideal Cycles and their Analysis#5.10#Determination of the cycle thermal efficiency#Ex5_10.sce#3511/CH5/EX5.10/Ex5_10.sce#S##119318
+5#Ideal Cycles and their Analysis#5.1#Calculation of MEP and Efficiency#Ex5_1.sce#3511/CH5/EX5.1/Ex5_1.sce#S##119311

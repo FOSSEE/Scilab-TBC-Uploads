@@ -3,7 +3,7 @@ disp("Problem 11.2")
 printf("\n")
 
 t=0:0.5:1;
-i=1;i1=-1;
+i=ones(length(t),1);i1=-1;
 figure
 a=gca()
 plot(t,i,t+1,i1)
@@ -29,8 +29,8 @@ xtitle("p vs t",'t in ms','p in W')
 
 //Work is (C*v^2)/2
 t=0:.0005:.001
-w=t^2
-w1=t^2+1*10^-6-(2*10^-3*t);
+w=t.^2
+w1=t.^2+1*10^-6-(2*10^-3*t);
 figure
 a=gca()
 plot(t,w,t+0.001,w1,t+0.002,w,t+0.003,w1)

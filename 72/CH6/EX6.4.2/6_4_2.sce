@@ -1,4 +1,4 @@
-//CAPTION: Characteristics_Of_a_MOSFET
+
 //chapter_no.-6,  page_no.-262
 //Example_no.6-4-2
 clc;

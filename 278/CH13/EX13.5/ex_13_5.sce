@@ -1,4 +1,4 @@
-//design a clamp coupling
+
 clc
 //solution
 //given

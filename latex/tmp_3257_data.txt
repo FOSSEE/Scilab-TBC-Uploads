@@ -1,0 +1,95 @@
+12#Joining and Fastening  Processes#12.5#Heat generation in resistance spot welding#Ex12_5.sce#3257/CH12/EX12.5/Ex12_5.sce#S##111364
+12#Joining and Fastening  Processes#12.5#Heat generation in resistance spot welding#Ex12_5.txt#3257/CH12/EX12.5/Ex12_5.txt#R##111365
+12#Joining and Fastening  Processes#12.2#Current in shielded metal arc welding#Ex12_2.sce#3257/CH12/EX12.2/Ex12_2.sce#S##113804
+12#Joining and Fastening  Processes#12.2#Current in shielded metal arc welding#Ex12_2.txt#3257/CH12/EX12.2/Ex12_2.txt#R##111363
+12#Joining and Fastening  Processes#12.1#Estimation of welding speed for different materials#Ex12_1.sce#3257/CH12/EX12.1/Ex12_1.sce#S##113803
+12#Joining and Fastening  Processes#12.1#Estimation of welding speed for different materials#Ex12_1.txt#3257/CH12/EX12.1/Ex12_1.txt#R##111361
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.9#Dimensional changes during shaping of ceramic components#Ex11_9.sce#3257/CH11/EX11.9/Ex11_9.sce#S##111358
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.9#Dimensional changes during shaping of ceramic components#Ex11_9.txt#3257/CH11/EX11.9/Ex11_9.txt#R##111359
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.7#Effect of porosity on properties#Ex11_7.sce#3257/CH11/EX11.7/Ex11_7.sce#S##113802
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.7#Effect of porosity on properties#Ex11_7.txt#3257/CH11/EX11.7/Ex11_7.txt#R##111357
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.4#Shrinkage in sintering#Ex11_4.sce#3257/CH11/EX11.4/Ex11_4.sce#S##111354
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.4#Shrinkage in sintering#Ex11_4.txt#3257/CH11/EX11.4/Ex11_4.txt#R##111355
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.3#Pressure decay in composition#Ex11_3.sce#3257/CH11/EX11.3/Ex11_3.sce#S##114107
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.3#Pressure decay in composition#Ex11_3.txt#3257/CH11/EX11.3/Ex11_3.txt#R##111353
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.2#Density of metal powder lubricant mix#Ex11_2.sce#3257/CH11/EX11.2/Ex11_2.sce#S##113800
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.2#Density of metal powder lubricant mix#Ex11_2.txt#3257/CH11/EX11.2/Ex11_2.txt#R##111351
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.1#Particle shape factor determination#Ex11_1.sce#3257/CH11/EX11.1/Ex11_1.sce#S##111348
+11#Properties and Processing of Metal Powders Ceramics Glasses and Superconductors#11.1#Particle shape factor determination#Ex11_1.txt#3257/CH11/EX11.1/Ex11_1.txt#R##111349
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.7#Injection molding of gears#Ex10_7.sce#3257/CH10/EX10.7/Ex10_7.sce#S##111346
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.7#Injection molding of gears#Ex10_7.txt#3257/CH10/EX10.7/Ex10_7.txt#R##111347
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.6#Blow film#Ex10_6.sce#3257/CH10/EX10.6/Ex10_6.sce#S##111344
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.6#Blow film#Ex10_6.txt#3257/CH10/EX10.6/Ex10_6.txt#R##111345
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.5#Analysis of plastic extruder#Ex10_5.sce#3257/CH10/EX10.5/Ex10_5.sce#S##111727
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.5#Analysis of plastic extruder#Ex10_5.txt#3257/CH10/EX10.5/Ex10_5.txt#R##111341
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.5#Analysis of plastic extruder#Ex10_5.JPG#3257/CH10/EX10.5/Ex10_5.JPG#R##111728
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.4#Properties of a graphite epoxy reinforce plastic#Ex10_4.sce#3257/CH10/EX10.4/Ex10_4.sce#S##111342
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.4#Properties of a graphite epoxy reinforce plastic#Ex10_4.txt#3257/CH10/EX10.4/Ex10_4.txt#R##111343
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.3#Stress relaxation in a thermoplastic members under tension #Ex10_3.sce#3257/CH10/EX10.3/Ex10_3.sce#S##111336
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.3#Stress relaxation in a thermoplastic members under tension #Ex10_3.txt#3257/CH10/EX10.3/Ex10_3.txt#R##111337
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.2#Lowering the viscosity of a polymer#Ex10_2.sce#3257/CH10/EX10.2/Ex10_2.sce#S##113799
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.2#Lowering the viscosity of a polymer#Ex10_2.txt#3257/CH10/EX10.2/Ex10_2.txt#R##111335
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.1#Degree of polymerization in polyvinyl chloride#Ex10_1.sce#3257/CH10/EX10.1/Ex10_1.sce#S##111332
+10#Properties and Processing of Polymers and Reinforced Plastics Rapid prototyping and Rapid Tooling#10.1#Degree of polymerization in polyvinyl chloride#Ex10_1.txt#3257/CH10/EX10.1/Ex10_1.txt#R##111333
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.6#Machining time in electrical discharge machining vs drilling#Ex9_6.sce#3257/CH9/EX9.6/Ex9_6.sce#S##111330
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.6#Machining time in electrical discharge machining vs drilling#Ex9_6.txt#3257/CH9/EX9.6/Ex9_6.txt#R##111331
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.5#Machining time in electrochemical machining vs drilling#Ex9_5.sce#3257/CH9/EX9.5/Ex9_5.sce#S##113798
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.5#Machining time in electrochemical machining vs drilling#Ex9_5.txt#3257/CH9/EX9.5/Ex9_5.txt#R##111329
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.2#Forces in surface grinding#Ex9_2.sce#3257/CH9/EX9.2/Ex9_2.sce#S##113797
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.2#Forces in surface grinding#Ex9_2.txt#3257/CH9/EX9.2/Ex9_2.txt#R##111327
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.1#Chip dimensions in grinding#Ex9_1.sce#3257/CH9/EX9.1/Ex9_1.sce#S##111324
+9#Material Removal Processes Abrasive Chemical Electrical and High Energy Beams#9.1#Chip dimensions in grinding#Ex9_1.txt#3257/CH9/EX9.1/Ex9_1.txt#R##111325
+8#Material Removal Processes Cutting#8.6#Calculation of material removal rate power required and cutting time in face milling#Ex8_6.sce#3257/CH8/EX8.6/Ex8_6.sce#S##111322
+8#Material Removal Processes Cutting#8.6#Calculation of material removal rate power required and cutting time in face milling#Ex8_6.txt#3257/CH8/EX8.6/Ex8_6.txt#R##111323
+8#Material Removal Processes Cutting#8.4#Material removal rate and cutting force in turning#Ex8_4.sce#3257/CH8/EX8.4/Ex8_4.sce#S##113796
+8#Material Removal Processes Cutting#8.4#Material removal rate and cutting force in turning#Ex8_4.txt#3257/CH8/EX8.4/Ex8_4.txt#R##111321
+8#Material Removal Processes Cutting#8.3#Increase in tool life by reducing the cutting speed#Ex8_3.sce#3257/CH8/EX8.3/Ex8_3.sce#S##113795
+8#Material Removal Processes Cutting#8.3#Increase in tool life by reducing the cutting speed#Ex8_3.txt#3257/CH8/EX8.3/Ex8_3.txt#R##111319
+8#Material Removal Processes Cutting#8.2#Comparison of forming and machining energy#Ex8_2.sce#3257/CH8/EX8.2/Ex8_2.sce#S##113794
+8#Material Removal Processes Cutting#8.2#Comparison of forming and machining energy#Ex8_2.txt#3257/CH8/EX8.2/Ex8_2.txt#R##111317
+8#Material Removal Processes Cutting#8.1#Relative energies in cutting#Ex8_1.sce#3257/CH8/EX8.1/Ex8_1.sce#S##111314
+8#Material Removal Processes Cutting#8.1#Relative energies in cutting#Ex8_1.txt#3257/CH8/EX8.1/Ex8_1.txt#R##111315
+7#Sheet Metal Forming processes#7.9#Estimating cup diameter and earing#Ex7_9.sce#3257/CH7/EX7.9/Ex7_9.sce#S##113792
+7#Sheet Metal Forming processes#7.9#Estimating cup diameter and earing#Ex7_9.txt#3257/CH7/EX7.9/Ex7_9.txt#R##113793
+7#Sheet Metal Forming processes#7.8#Theoretical limiting drawing ratio#Ex7_8.sce#3257/CH7/EX7.8/Ex7_8.sce#S##111308
+7#Sheet Metal Forming processes#7.8#Theoretical limiting drawing ratio#Ex7_8.txt#3257/CH7/EX7.8/Ex7_8.txt#R##111309
+7#Sheet Metal Forming processes#7.7#Estimating the limiting drawing ratio#Ex7_7.sce#3257/CH7/EX7.7/Ex7_7.sce#S##111306
+7#Sheet Metal Forming processes#7.7#Estimating the limiting drawing ratio#Ex7_7.txt#3257/CH7/EX7.7/Ex7_7.txt#R##111307
+7#Sheet Metal Forming processes#7.5#Peak pressure in explosive forming#Ex7_5.sce#3257/CH7/EX7.5/Ex7_5.sce#S##111304
+7#Sheet Metal Forming processes#7.5#Peak pressure in explosive forming#Ex7_5.txt#3257/CH7/EX7.5/Ex7_5.txt#R##111305
+7#Sheet Metal Forming processes#7.4#Work done in stretch forming#Ex7_4.sce#3257/CH7/EX7.4/Ex7_4.sce#S##111302
+7#Sheet Metal Forming processes#7.4#Work done in stretch forming#Ex7_4.txt#3257/CH7/EX7.4/Ex7_4.txt#R##111303
+7#Sheet Metal Forming processes#7.3#Estimating springback#Ex7_3.sce#3257/CH7/EX7.3/Ex7_3.sce#S##111300
+7#Sheet Metal Forming processes#7.3#Estimating springback#Ex7_3.txt#3257/CH7/EX7.3/Ex7_3.txt#R##111301
+7#Sheet Metal Forming processes#7.10#Estimating diameter of expansion#Ex7_10.sce#3257/CH7/EX7.10/Ex7_10.sce#S##111312
+7#Sheet Metal Forming processes#7.10#Estimating diameter of expansion#Ex7_10.txt#3257/CH7/EX7.10/Ex7_10.txt#R##111313
+7#Sheet Metal Forming processes#7.1#Calculation of maximum punch force#Ex7_1.sce#3257/CH7/EX7.1/Ex7_1.sce#S##111298
+7#Sheet Metal Forming processes#7.1#Calculation of maximum punch force#Ex7_1.txt#3257/CH7/EX7.1/Ex7_1.txt#R##111299
+6#Bulk deformation Processes#6.7#Power required for rolling#Ex6_7.sce#3257/CH6/EX6.7/Ex6_7.sce#S##114105
+6#Bulk deformation Processes#6.7#Power required for rolling#Ex6_7.txt#3257/CH6/EX6.7/Ex6_7.txt#R##114106
+6#Bulk deformation Processes#6.6#Force in hot extrusion#Ex6_6.sce#3257/CH6/EX6.6/Ex6_6.sce#S##113790
+6#Bulk deformation Processes#6.6#Force in hot extrusion#Ex6_6.txt#3257/CH6/EX6.6/Ex6_6.txt#R##111295
+6#Bulk deformation Processes#6.4#Power required for rolling#Ex6_4.sce#3257/CH6/EX6.4/Ex6_4.sce#S##111292
+6#Bulk deformation Processes#6.4#Power required for rolling#Ex6_4.txt#3257/CH6/EX6.4/Ex6_4.txt#R##111293
+6#Bulk deformation Processes#6.1#Calculation of upsetting force#Ex6_1.sce#3257/CH6/EX6.1/Ex6_1.sce#S##111290
+6#Bulk deformation Processes#6.1#Calculation of upsetting force#Ex6_1.txt#3257/CH6/EX6.1/Ex6_1.txt#R##111291
+5#Metal Casting Processes and Equipment Heat Treatment#5.3#Solidification time for various solid shapes#Ex5_3.sce#3257/CH5/EX5.3/Ex5_3.sce#S##111288
+5#Metal Casting Processes and Equipment Heat Treatment#5.3#Solidification time for various solid shapes#Ex5_3.txt#3257/CH5/EX5.3/Ex5_3.txt#R##111289
+5#Metal Casting Processes and Equipment Heat Treatment#5.2#Design and analysis of sprue for casting#Ex5_2.sce#3257/CH5/EX5.2/Ex5_2.sce#S##111286
+5#Metal Casting Processes and Equipment Heat Treatment#5.2#Design and analysis of sprue for casting#Ex5_2.txt#3257/CH5/EX5.2/Ex5_2.txt#R##111287
+5#Metal Casting Processes and Equipment Heat Treatment#5.1#Determining the amount of phases in carbon steel#Ex5_1.sce#3257/CH5/EX5.1/Ex5_1.sce#S##111284
+5#Metal Casting Processes and Equipment Heat Treatment#5.1#Determining the amount of phases in carbon steel#Ex5_1.txt#3257/CH5/EX5.1/Ex5_1.txt#R##111285
+4#Surface Tribology Dimensional Characteristics Inspection and Product Quality Assurance#4.2#Adhesive wear in sliding#Ex4_2.sce#3257/CH4/EX4.2/Ex4_2.sce#S##111282
+4#Surface Tribology Dimensional Characteristics Inspection and Product Quality Assurance#4.2#Adhesive wear in sliding#Ex4_2.txt#3257/CH4/EX4.2/Ex4_2.txt#R##111283
+4#Surface Tribology Dimensional Characteristics Inspection and Product Quality Assurance#4.1#Determination of coefficient of friction#Ex4_1.sce#3257/CH4/EX4.1/Ex4_1.sce#S##111280
+4#Surface Tribology Dimensional Characteristics Inspection and Product Quality Assurance#4.1#Determination of coefficient of friction#Ex4_1.txt#3257/CH4/EX4.1/Ex4_1.txt#R##111281
+2#Fundamentals of the Mechanical Behavior of Materials #2.8#Temperature rise in simple deformation#Ex2_8.sce#3257/CH2/EX2.8/Ex2_8.sce#S##111278
+2#Fundamentals of the Mechanical Behavior of Materials #2.8#Temperature rise in simple deformation#Ex2_8.txt#3257/CH2/EX2.8/Ex2_8.txt#R##111279
+2#Fundamentals of the Mechanical Behavior of Materials #2.5#Yielding of a thin walled shell#Ex2_5.sce#3257/CH2/EX2.5/Ex2_5.sce#S##113789
+2#Fundamentals of the Mechanical Behavior of Materials #2.5#Yielding of a thin walled shell#Ex2_5.txt#3257/CH2/EX2.5/Ex2_5.txt#R##111277
+2#Fundamentals of the Mechanical Behavior of Materials #2.4#Elimination of stress by tension#Ex2_4.txt#3257/CH2/EX2.4/Ex2_4.txt#R##111275
+2#Fundamentals of the Mechanical Behavior of Materials #2.4#Elimination of stress by tension#Ex2_4.sce#3257/CH2/EX2.4/Ex2_4.sce#S##111274
+2#Fundamentals of the Mechanical Behavior of Materials #2.3#Calculation of modulus resilience from hardness#Ex2_3.txt#3257/CH2/EX2.3/Ex2_3.txt#R##111273
+2#Fundamentals of the Mechanical Behavior of Materials #2.3#Calculation of modulus resilience from hardness#Ex2_3.sce#3257/CH2/EX2.3/Ex2_3.sce#S##113788
+2#Fundamentals of the Mechanical Behavior of Materials #2.1#Calculation of ultimate tensile strength #Ex2_1.txt#3257/CH2/EX2.1/Ex2_1.txt#R##111271
+2#Fundamentals of the Mechanical Behavior of Materials #2.1#Calculation of ultimate tensile strength #Ex2_1.sce#3257/CH2/EX2.1/Ex2_1.sce#S##111270

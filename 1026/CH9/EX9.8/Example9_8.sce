@@ -12,6 +12,8 @@ theta2=7.6*(%pi/180)
 
 theta3=9.4*(%pi/180)
 
+lam = 2
+
 d100=lam/2*sin(theta1)
 
 d110=lam/2*sin(theta2)

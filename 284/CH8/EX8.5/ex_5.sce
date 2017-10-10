@@ -1,6 +1,7 @@
 // Chapter 8_Metal Semiconductor and Semiconductor heterojunctions
 //Caption_Comparison of the schottky barrier diode and the pn junction diode
 //Ex_5/page 319
+e = 1.6*10^-19;
 e_phi_bn=0.67
 A=114     //effective richardson constant
 T=300

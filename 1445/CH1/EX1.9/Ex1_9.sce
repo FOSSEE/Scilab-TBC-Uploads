@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 9
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 9");
 
@@ -26,7 +27,7 @@ req1=r1+r4;
 req2=rb+r2;
 req3=(req1*req2)/(req1+req2);
 req4=ra+req3;
-disp(sprintf("The equivalent input resistance is %.2f Ω",req4));
+disp(sprintf("The equivalent input resistance is %f Ω",req4));
 
 //END
 

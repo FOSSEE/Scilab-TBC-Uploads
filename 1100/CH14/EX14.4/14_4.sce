@@ -12,7 +12,7 @@ mC=1
 mO=4
 //Calculations
 deltaE1=mO2*CvO2*(t2-tB) + mCO2*CvCO2*(t2-tB)
-deltaE2=mC*CC*(tB-t) + mO*CvO2*(tB-t)
+deltaE2=mC*Cc*(tB-t) + mO*CvO2*(tB-t)
 E= -14087 //Btu
 Q=deltaE1+E+deltaE2
 //Results

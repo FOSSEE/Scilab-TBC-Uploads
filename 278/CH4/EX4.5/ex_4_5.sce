@@ -1,4 +1,4 @@
-//find the compression of the piston rod
+
 clc
 //solution 
 //given

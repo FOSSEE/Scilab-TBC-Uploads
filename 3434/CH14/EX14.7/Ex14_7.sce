@@ -21,6 +21,3 @@ P=A*(((1+i)**n)-1)/(i*((1+i)**n)) // final amount in rs
 printf("The final amount after 10 years is Rs %i",P)
 
 // the answer is slightly different in textbook due to approximation while in scilab answers are precise
-end
-
-

@@ -15,6 +15,8 @@ Vdrop=0.7;//in V
 
 //The logic levels are Vcesato=0.2V for 0 state
 Vcesato=0.2;//in V
+//And Vcc = 5V for 1 state.
+Vcc = 5; // volts
 
 Vp = Vdrop + Vdrop + Vbesat;//Voltage at point P
 disp('V',Vp,'Vp=');

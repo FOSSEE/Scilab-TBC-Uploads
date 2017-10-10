@@ -1,8 +1,7 @@
-
-
 //exapple 2.6 
 clc; funcprot(0);
-// Initialization of Variable
+// Initialization of Variables
+pi = %pi;
 rhol=931;
 mu=1.55/10000;//viscosity of water
 Vsp=0.6057;//specific volume
@@ -24,9 +23,9 @@ phig=0.00245;//friction factor gas phase
 l=1;
 delPg=4*phig*velg^2*rhog/d;
 //consider liquid phase
-vell=Gl/A/rho;
-Rel=rho*vell*d/mu;
-if Rel>4000 & Reg>4000 then
+vell=Gl/A/rhol;
+Rel=rhol*vell*d/mu;
+if Rel>4000 &  Reg>4000 then
     disp("both liquid phase and solid phase in turbulent  motion");
     //from chart
 end

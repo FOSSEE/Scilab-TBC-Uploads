@@ -20,4 +20,4 @@ R3=1800
 disp('R4=R1||R2||R3')
 R4=R1/3
 disp('ohms',R4)
-disp('standard value is 560ohms)
+disp('standard value is 560ohms')

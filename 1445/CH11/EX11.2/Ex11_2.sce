@@ -1,6 +1,7 @@
 //CHAPTER 11- SINGLE PHASE INDUCTION MOTOR
 //Example 2
 
+clc;
 disp("CHAPTER 11");
 disp("EXAMPLE 2");
 
@@ -17,16 +18,16 @@ N_s=(120*f)/P;    //synchronous speed in rpm
 //solution (a)
 disp("Solution (a)");
 S_f=(N_s-N_r)/N_s; 
-disp(sprintf("The per unit slip in the direction of rotation is %.2f pu",S_f));     
+disp(sprintf("The per unit slip in the direction of rotation is %f pu",S_f));     
 r_f=0.5*(r2/S_f);
-disp(sprintf("The effective forward rotor resistance is %.0f Ω",r_f));
+disp(sprintf("The effective forward rotor resistance is %f Ω",r_f));
 
 //solution (b)
 disp("Solution (b)");
 S_b=(N_s+N_r)/N_s; 
 disp(sprintf("The per unit slip in the opposite direction is %f pu",S_b));    
 r_b=0.5*(r2/S_b);
-disp(sprintf("The effective backward rotor resistance is %.3f Ω",r_b));
+disp(sprintf("The effective backward rotor resistance is %f Ω",r_b));
 
 //END
 

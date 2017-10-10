@@ -13,7 +13,7 @@ V2=Vcc*R2/(R1+R2)
 Ve=V2-Vbe
 Ie=Ve/Re
 re_dash=25/Ie
-Re_dash=Re*Rl/(Re+Rl)
+Re_dash=Re*R1/(Re+R1)
 Zin_base=gain_beta*(re_dash+Re_dash)
 Zin=Zin_base*(R1*R2/(R1+R2))/(Zin_base+R1*R2/(R1+R2))
 

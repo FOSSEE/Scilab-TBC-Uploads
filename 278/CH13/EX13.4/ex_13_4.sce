@@ -1,4 +1,4 @@
-//design muff coupling
+
 clc
 //solution
 //given

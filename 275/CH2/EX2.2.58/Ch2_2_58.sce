@@ -27,5 +27,4 @@ R=(Rmax+Rmin)/2
 printf("minimum resistance %d ohm \n",Rmin)
 printf("maximum resistance %d ohm \n",Rmax)
 printf("required resistance %d ohm \n",R)
-printf("load resistance %d ohm \n",RLmin)
-
+printf("load resistance %d ohm \n",RL)

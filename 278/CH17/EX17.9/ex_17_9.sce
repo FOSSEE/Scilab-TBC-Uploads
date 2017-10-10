@@ -1,5 +1,4 @@
-//find...
-clc
+
 //soltuion
 //given
 W1=18000//N

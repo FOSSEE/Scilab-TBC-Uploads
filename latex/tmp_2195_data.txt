@@ -1,0 +1,126 @@
+12#Recorders#12.5.1#chart speed#ex_12_5_1.sce#2195/CH12/EX12.5.1/ex_12_5_1.sce#S##73646
+11#Instrument Callibration#11.3.2#error#ex_11_3_2.sce#2195/CH11/EX11.3.2/ex_11_3_2.sce#S##80319
+11#Instrument Callibration#11.3.1#error#ex_11_3_1.sce#2195/CH11/EX11.3.1/ex_11_3_1.sce#S##73644
+10#special oscilloscopes#10.13.1#sampling rate#ex_10_13_1.sce#2195/CH10/EX10.13.1/ex_10_13_1.sce#S##73643
+10#special oscilloscopes#10.11.1#sampling rate#ex_10_11_1.sce#2195/CH10/EX10.11.1/ex_10_11_1.sce#S##73642
+9#Cathode Ray Oscilloscope#9.17.9#rise time#ex_9_17_9.sce#2195/CH9/EX9.17.9/ex_9_17_9.sce#S##73641
+9#Cathode Ray Oscilloscope#9.17.8#minimum time division sensivity#ex_9_17_8.sce#2195/CH9/EX9.17.8/ex_9_17_8.sce#S##73640
+9#Cathode Ray Oscilloscope#9.17.7#input impedence#ex_9_17_7.sce#2195/CH9/EX9.17.7/ex_9_17_7.sce#S##73639
+9#Cathode Ray Oscilloscope#9.17.6#capacitance#ex_9_17_6.sce#2195/CH9/EX9.17.6/ex_9_17_6.sce#S##73638
+9#Cathode Ray Oscilloscope#9.17.5#rise time#ex_9_17_5.sce#2195/CH9/EX9.17.5/ex_9_17_5.sce#S##73637
+9#Cathode Ray Oscilloscope#9.17.4#rise time#ex_9_17_4.sce#2195/CH9/EX9.17.4/ex_9_17_4.sce#S##73636
+9#Cathode Ray Oscilloscope#9.17.3#Rise Time#ex_9_17_3.sce#2195/CH9/EX9.17.3/ex_9_17_3.sce#S##73590
+9#Cathode Ray Oscilloscope#9.17.2#Rise Time#ex_9_17_2.sce#2195/CH9/EX9.17.2/ex_9_17_2.sce#S##73589
+9#Cathode Ray Oscilloscope#9.17.1#Bandwidth#ex_9_17_1.sce#2195/CH9/EX9.17.1/ex_9_17_1.sce#S##73588
+9#Cathode Ray Oscilloscope#9.14.4#Frequency#ex_9_14_4.sce#2195/CH9/EX9.14.4/ex_9_14_4.sce#S##73587
+9#Cathode Ray Oscilloscope#9.14.3#Period and Frequency#ex_9_14_3.sce#2195/CH9/EX9.14.3/ex_9_14_3.sce#S##73586
+9#Cathode Ray Oscilloscope#9.14.2#Time Interval#ex_9_14_2.sce#2195/CH9/EX9.14.2/ex_9_14_2.sce#S##73585
+9#Cathode Ray Oscilloscope#9.14.1#Peak to Peak Amplitude and rms Value#ex_9_14_1.sce#2195/CH9/EX9.14.1/ex_9_14_1.sce#S##73583
+8#Inductance and Capacitance Measurements#8.7.5#Resistance and Inductance#ex_8_7_5.sce#2195/CH8/EX8.7.5/ex_8_7_5.sce#S##73576
+8#Inductance and Capacitance Measurements#8.6.9#Capacitance and Inductance#ex_8_6_9.sce#2195/CH8/EX8.6.9/ex_8_6_9.sce#S##80318
+8#Inductance and Capacitance Measurements#8.6.8#Resistance and Capacitance#ex_8_6_8.sce#2195/CH8/EX8.6.8/ex_8_6_8.sce#S##80317
+8#Inductance and Capacitance Measurements#8.6.7#Resistance and Relative Permittivity#ex_8_6_7.sce#2195/CH8/EX8.6.7/ex_8_6_7.sce#S##73556
+8#Inductance and Capacitance Measurements#8.6.6#Capacitance Resistance and Dissipation Factor#ex_8_6_6.sce#2195/CH8/EX8.6.6/ex_8_6_6.sce#S##73552
+8#Inductance and Capacitance Measurements#8.6.5#Resistance and Inductance#ex_8_6_5.sce#2195/CH8/EX8.6.5/ex_8_6_5.sce#S##73547
+8#Inductance and Capacitance Measurements#8.6.4#Inductance and Resistance#ex_8_6_4.sce#2195/CH8/EX8.6.4/ex_8_6_4.sce#S##73543
+8#Inductance and Capacitance Measurements#8.6.3#Resistance and Capacitance#ex_8_6_3.sce#2195/CH8/EX8.6.3/ex_8_6_3.sce#S##80316
+8#Inductance and Capacitance Measurements#8.6.2#Capacitance and Dissipation Factor#ex_8_6_2.sce#2195/CH8/EX8.6.2/ex_8_6_2.sce#S##73535
+8#Inductance and Capacitance Measurements#8.6.13#Capacitance#ex_8_6_13.sce#2195/CH8/EX8.6.13/ex_8_6_13.sce#S##73572
+8#Inductance and Capacitance Measurements#8.6.12#Capacitance#ex_8_6_12.sce#2195/CH8/EX8.6.12/ex_8_6_12.sce#S##73569
+8#Inductance and Capacitance Measurements#8.6.11#Capacitance#ex_8_6_11.sce#2195/CH8/EX8.6.11/ex_8_6_11.sce#S##73566
+8#Inductance and Capacitance Measurements#8.6.10#Error#ex_8_6_10.sce#2195/CH8/EX8.6.10/ex_8_6_10.sce#S##73563
+8#Inductance and Capacitance Measurements#8.6.1#Resistance and Capacitance#ex_8_6_1.sce#2195/CH8/EX8.6.1/ex_8_6_1.sce#S##73528
+8#Inductance and Capacitance Measurements#8.5.2#Capacitance and Inductance#ex_8_5_2.sce#2195/CH8/EX8.5.2/ex_8_5_2.sce#S##73527
+8#Inductance and Capacitance Measurements#8.5.1#Error#ex_8_5_1.sce#2195/CH8/EX8.5.1/ex_8_5_1.sce#S##73523
+7#Low High and Precise Resistance Measurement#7.5.9#Resistance#ex_7_5_9.sce#2195/CH7/EX7.5.9/ex_7_5_9.sce#S##73513
+7#Low High and Precise Resistance Measurement#7.5.8#Resistance and Limiting Error#ex_7_5_8.sce#2195/CH7/EX7.5.8/ex_7_5_8.sce#S##77819
+7#Low High and Precise Resistance Measurement#7.5.7#Deflection#ex_7_5_7.sce#2195/CH7/EX7.5.7/ex_7_5_7.sce#S##73507
+7#Low High and Precise Resistance Measurement#7.5.6#Resistance#ex_7_5_6.sce#2195/CH7/EX7.5.6/ex_7_5_6.sce#S##73505
+7#Low High and Precise Resistance Measurement#7.5.5#voltage#ex_7_5_5.sce#2195/CH7/EX7.5.5/ex_7_5_5.sce#S##73504
+7#Low High and Precise Resistance Measurement#7.5.4#Current#ex_7_5_4.sce#2195/CH7/EX7.5.4/ex_7_5_4.sce#S##73503
+7#Low High and Precise Resistance Measurement#7.5.3#Deflection#ex_7_5_3.sce#2195/CH7/EX7.5.3/ex_7_5_3.sce#S##73502
+7#Low High and Precise Resistance Measurement#7.5.2#Current#ex_7_5_2.sce#2195/CH7/EX7.5.2/ex_7_5_2.sce#S##73501
+7#Low High and Precise Resistance Measurement#7.5.12#Ammeter and Voltmeter#ex_7_5_12.sce#2195/CH7/EX7.5.12/ex_7_5_12.sce#S##73519
+7#Low High and Precise Resistance Measurement#7.5.11#Resistance#ex_7_5_11.sce#2195/CH7/EX7.5.11/ex_7_5_11.sce#S##73518
+7#Low High and Precise Resistance Measurement#7.5.10#Resistance#ex_7_5_10.sce#2195/CH7/EX7.5.10/ex_7_5_10.sce#S##80315
+7#Low High and Precise Resistance Measurement#7.5.1#Resistance#ex_7_5_1.sce#2195/CH7/EX7.5.1/ex_7_5_1.sce#S##73500
+6#Digital Frequency Meter#6.17.3#Accuracy#ex_6_17_3.sce#2195/CH6/EX6.17.3/ex_6_17_3.sce#S##73498
+6#Digital Frequency Meter#6.17.2#Error#ex_6_17_2.sce#2195/CH6/EX6.17.2/ex_6_17_2.sce#S##73497
+6#Digital Frequency Meter#6.17.1#Gate Time#ex_6_17_1.sce#2195/CH6/EX6.17.1/ex_6_17_1.sce#S##73496
+5#Digital Voltmeters#5.10.4#Time Interval#ex_5_10_4.sce#2195/CH5/EX5.10.4/ex_5_10_4.sce#S##80314
+5#Digital Voltmeters#5.10.3#Resolution#ex_5_10_3.sce#2195/CH5/EX5.10.3/ex_5_10_3.sce#S##73494
+5#Digital Voltmeters#5.10.2#Resolution#ex_5_10_2.sce#2195/CH5/EX5.10.2/ex_5_10_2.sce#S##73493
+5#Digital Voltmeters#5.10.1#Resolution#ex_5_10_1.sce#2195/CH5/EX5.10.1/ex_5_10_1.sce#S##73492
+4#Analog Electronic Volt Ohm Milliammeter#4.26.3#Shunt Resistance and Current#ex_4_26_3.sce#2195/CH4/EX4.26.3/ex_4_26_3.sce#S##80313
+4#Analog Electronic Volt Ohm Milliammeter#4.2.1#Peak Amplitude#ex_4_2_1.sce#2195/CH4/EX4.2.1/ex_4_2_1.sce#S##73482
+4#Analog Electronic Volt Ohm Milliammeter#4.19.5#Resistance#ex_4_19_5.sce#2195/CH4/EX4.19.5/ex_4_19_5.sce#S##73490
+4#Analog Electronic Volt Ohm Milliammeter#4.19.4#Current#ex_4_19_4.sce#2195/CH4/EX4.19.4/ex_4_19_4.sce#S##73489
+4#Analog Electronic Volt Ohm Milliammeter#4.19.3#Resistance#ex_4_19_3.sce#2195/CH4/EX4.19.3/ex_4_19_3.sce#S##80312
+4#Analog Electronic Volt Ohm Milliammeter#4.19.2#Current#ex_4_19_2.sce#2195/CH4/EX4.19.2/ex_4_19_2.sce#S##73487
+4#Analog Electronic Volt Ohm Milliammeter#4.19.1#Current#ex_4_19_1.sce#2195/CH4/EX4.19.1/ex_4_19_1.sce#S##73486
+4#Analog Electronic Volt Ohm Milliammeter#4.14.2.b#Error#ex_4_14_2_b.sce#2195/CH4/EX4.14.2.b/ex_4_14_2_b.sce#S##73485
+4#Analog Electronic Volt Ohm Milliammeter#4.14.2.a#Form Factor of The Voltage#ex_4_14_2_a.sce#2195/CH4/EX4.14.2.a/ex_4_14_2_a.sce#S##73484
+4#Analog Electronic Volt Ohm Milliammeter#4.14.1#form factor and error#ex_4_14_1.sce#2195/CH4/EX4.14.1/ex_4_14_1.sce#S##77817
+4#Analog Electronic Volt Ohm Milliammeter#4.12.1#Resistance#ex_4_12_1.sce#2195/CH4/EX4.12.1/ex_4_12_1.sce#S##80311
+3#Electromechanical Instruments#3.9.2#Current#ex_3_9_2.sce#2195/CH3/EX3.9.2/ex_3_9_2.sce#S##73469
+3#Electromechanical Instruments#3.9.1#Multiplier#ex_3_9_1.sce#2195/CH3/EX3.9.1/ex_3_9_1.sce#S##73468
+3#Electromechanical Instruments#3.6.1#Resistance#ex_3_6_1.sce#2195/CH3/EX3.6.1/ex_3_6_1.sce#S##73467
+3#Electromechanical Instruments#3.5.1#Shunt Resistance#ex_3_5_1.sce#2195/CH3/EX3.5.1/ex_3_5_1.sce#S##73466
+3#Electromechanical Instruments#3.4.2#Multiplying power and Shunt Resistot#ex_3_4_2.sce#2195/CH3/EX3.4.2/ex_3_4_2.sce#S##73465
+3#Electromechanical Instruments#3.4.1#Shunt Resistor#ex_3_4_1.sce#2195/CH3/EX3.4.1/ex_3_4_1.sce#S##73464
+3#Electromechanical Instruments#3.2.4#Diameter#ex_3_2_4.sce#2195/CH3/EX3.2.4/ex_3_2_4.sce#S##73463
+3#Electromechanical Instruments#3.2.3#Resistance#ex_3_2_3.sce#2195/CH3/EX3.2.3/ex_3_2_3.sce#S##73462
+3#Electromechanical Instruments#3.2.2#Number of Turns#ex_3_2_2.sce#2195/CH3/EX3.2.2/ex_3_2_2.sce#S##73461
+3#Electromechanical Instruments#3.2.1#Torque#ex_3_2_1.sce#2195/CH3/EX3.2.1/ex_3_2_1.sce#S##73460
+3#Electromechanical Instruments#3.15.5#Shunt Resistance#ex_3_15_5.sce#2195/CH3/EX3.15.5/ex_3_15_5.sce#S##73480
+3#Electromechanical Instruments#3.15.4#Shunt Resistance#ex_3_15_4.sce#2195/CH3/EX3.15.4/ex_3_15_4.sce#S##73479
+3#Electromechanical Instruments#3.15.3#Shunt Resistance#ex_3_15_3.sce#2195/CH3/EX3.15.3/ex_3_15_3.sce#S##73478
+3#Electromechanical Instruments#3.15.2#Shunt Resistance#ex_3_15_2.sce#2195/CH3/EX3.15.2/ex_3_15_2.sce#S##73477
+3#Electromechanical Instruments#3.15.1.d#Error#ex_3_15_1_d.sce#2195/CH3/EX3.15.1.d/ex_3_15_1_d.sce#S##80307
+3#Electromechanical Instruments#3.15.1.c#Voltage#ex_3_15_1_c.sce#2195/CH3/EX3.15.1.c/ex_3_15_1_c.sce#S##80309
+3#Electromechanical Instruments#3.15.1.b#Voltage#ex_3_15_1_b.sce#2195/CH3/EX3.15.1.b/ex_3_15_1_b.sce#S##80308
+3#Electromechanical Instruments#3.15.1.a#Voltage#ex_3_15_1_a.sce#2195/CH3/EX3.15.1.a/ex_3_15_1_a.sce#S##80310
+3#Electromechanical Instruments#3.11.2#Accurate Value of Voltage#ex_3_11_2.sce#2195/CH3/EX3.11.2/ex_3_11_2.sce#S##77813
+3#Electromechanical Instruments#3.11.1#Multiplier#ex_3_11_1.sce#2195/CH3/EX3.11.1/ex_3_11_1.sce#S##73471
+3#Electromechanical Instruments#3.10.1#Multiplier#ex_3_10_1.sce#2195/CH3/EX3.10.1/ex_3_10_1.sce#S##73470
+2#Measurement Errors#2.8.5#Limiting Error#ex_2_8_5.sce#2195/CH2/EX2.8.5/ex_2_8_5.sce#S##73459
+2#Measurement Errors#2.8.4.c#Loading Effect#ex_2_8_4_c.sce#2195/CH2/EX2.8.4.c/ex_2_8_4_c.sce#S##80306
+2#Measurement Errors#2.8.4.b#Actual Resistance#ex_2_8_4_b.sce#2195/CH2/EX2.8.4.b/ex_2_8_4_b.sce#S##80305
+2#Measurement Errors#2.8.4.a#Apparent Resistance#ex_2_8_4_a.sce#2195/CH2/EX2.8.4.a/ex_2_8_4_a.sce#S##80304
+2#Measurement Errors#2.8.3#Mean Value and Standard deviation#ex_2_8_3.sce#2195/CH2/EX2.8.3/ex_2_8_3.sce#S##77811
+2#Measurement Errors#2.8.2#Arithmetic Mean and Standard Deviation#ex_2_8_2.sce#2195/CH2/EX2.8.2/ex_2_8_2.sce#S##73454
+2#Measurement Errors#2.8.1#Arithmetic mean and variance#ex_2_8_1.sce#2195/CH2/EX2.8.1/ex_2_8_1.sce#S##77810
+2#Measurement Errors#2.7.4.d#Probable Error#ex_2_7_4_d.sce#2195/CH2/EX2.7.4.d/ex_2_7_4_d.sce#S##73452
+2#Measurement Errors#2.7.4.c#Standard Deviation#ex_2_7_4_c.sce#2195/CH2/EX2.7.4.c/ex_2_7_4_c.sce#S##73451
+2#Measurement Errors#2.7.4.b#Average Deviation#ex_2_7_4_b.sce#2195/CH2/EX2.7.4.b/ex_2_7_4_b.sce#S##73450
+2#Measurement Errors#2.7.4.a#Arithmetic Mean#ex_2_7_4_a.sce#2195/CH2/EX2.7.4.a/ex_2_7_4_a.sce#S##73449
+2#Measurement Errors#2.7.3.d#Probable Error#ex_2_7_3_d.sce#2195/CH2/EX2.7.3.d/ex_2_7_3_d.sce#S##73448
+2#Measurement Errors#2.7.3.c#Standard Deviation#ex_2_7_3_c.sce#2195/CH2/EX2.7.3.c/ex_2_7_3_c.sce#S##73447
+2#Measurement Errors#2.7.3.b#Average Deviation#ex_2_7_3_b.sce#2195/CH2/EX2.7.3.b/ex_2_7_3_b.sce#S##73446
+2#Measurement Errors#2.7.3.a#Arithmetic Mean#ex_2_7_3_a.sce#2195/CH2/EX2.7.3.a/ex_2_7_3_a.sce#S##73445
+2#Measurement Errors#2.7.2.d#Probable Error#ex_2_7_2_d.sce#2195/CH2/EX2.7.2.d/ex_2_7_2_d.sce#S##73443
+2#Measurement Errors#2.7.2.c#Standard Deviation#ex_2_7_2_c.sce#2195/CH2/EX2.7.2.c/ex_2_7_2_c.sce#S##73442
+2#Measurement Errors#2.7.2.b#Deviation#ex_2_7_2_b.sce#2195/CH2/EX2.7.2.b/ex_2_7_2_b.sce#S##73441
+2#Measurement Errors#2.7.2.a#Arithmetic Mean#ex_2_7_2_a.sce#2195/CH2/EX2.7.2.a/ex_2_7_2_a.sce#S##73440
+2#Measurement Errors#2.7.1.d#Standard Deviation#ex_2_7_1_d.sce#2195/CH2/EX2.7.1.d/ex_2_7_1_d.sce#S##73439
+2#Measurement Errors#2.7.1.c#Algebric Sum of Deviation#ex_2_7_1_c.sce#2195/CH2/EX2.7.1.c/ex_2_7_1_c.sce#S##73438
+2#Measurement Errors#2.7.1.b#Deviation#ex_2_7_1_b.sce#2195/CH2/EX2.7.1.b/ex_2_7_1_b.sce#S##73437
+2#Measurement Errors#2.7.1.a#Arithmetic mean#ex_2_7_1_a.sce#2195/CH2/EX2.7.1.a/ex_2_7_1_a.sce#S##73436
+2#Measurement Errors#2.6.8#Limiting Error#ex_2_6_8.sce#2195/CH2/EX2.6.8/ex_2_6_8.sce#S##73435
+2#Measurement Errors#2.6.7#Limiting Error#ex_2_6_7.sce#2195/CH2/EX2.6.7/ex_2_6_7.sce#S##73434
+2#Measurement Errors#2.6.6#Error#ex_2_6_6.sce#2195/CH2/EX2.6.6/ex_2_6_6.sce#S##73433
+2#Measurement Errors#2.6.5#Magnitude and Limiting Error#ex_2_6_5.sce#2195/CH2/EX2.6.5/ex_2_6_5.sce#S##80303
+2#Measurement Errors#2.6.4#Limiting Error#ex_2_6_4.sce#2195/CH2/EX2.6.4/ex_2_6_4.sce#S##73431
+2#Measurement Errors#2.6.3#Limiting Error#ex_2_6_3.sce#2195/CH2/EX2.6.3/ex_2_6_3.sce#S##73430
+2#Measurement Errors#2.6.2#Limiting Error and Relative Error#ex_2_6_2.sce#2195/CH2/EX2.6.2/ex_2_6_2.sce#S##77809
+2#Measurement Errors#2.6.1#Relative Error#ex_2_6_1.sce#2195/CH2/EX2.6.1/ex_2_6_1.sce#S##73428
+2#Measurement Errors#2.3.6#Resolution#ex_2_3_6.sce#2195/CH2/EX2.3.6/ex_2_3_6.sce#S##73427
+2#Measurement Errors#2.3.5#Resolution#ex_2_3_5.sce#2195/CH2/EX2.3.5/ex_2_3_5.sce#S##73426
+2#Measurement Errors#2.3.4#Sesitivity and Deflection Factor#ex_2_3_4.sce#2195/CH2/EX2.3.4/ex_2_3_4.sce#S##80302
+2#Measurement Errors#2.3.3#Maximum Error#ex_2_3_3.sce#2195/CH2/EX2.3.3/ex_2_3_3.sce#S##73424
+2#Measurement Errors#2.3.2.e#Percentage error of full scale reading#ex_2_3_2_e.sce#2195/CH2/EX2.3.2.e/ex_2_3_2_e.sce#S##73423
+2#Measurement Errors#2.3.2.d#Percentage Accuracy#ex_2_3_2_d.sce#2195/CH2/EX2.3.2.d/ex_2_3_2_d.sce#S##73422
+2#Measurement Errors#2.3.2.c#Relative Accuracy#ex_2_3_2_c.sce#2195/CH2/EX2.3.2.c/ex_2_3_2_c.sce#S##73421
+2#Measurement Errors#2.3.2.b#Percentage Error#ex_2_3_2_b.sce#2195/CH2/EX2.3.2.b/ex_2_3_2_b.sce#S##73420
+2#Measurement Errors#2.3.2.a#Absolute Error#ex_2_3_2_a.sce#2195/CH2/EX2.3.2.a/ex_2_3_2_a.sce#S##73419
+2#Measurement Errors#2.3.1#Precision of the 5th measurement#ex_2_3_1.sce#2195/CH2/EX2.3.1/ex_2_3_1.sce#S##73418

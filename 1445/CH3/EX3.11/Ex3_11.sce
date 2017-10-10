@@ -1,6 +1,7 @@
 //CHAPTER 3- THREE-PHASE A.C. CIRCUITS
 //Example 11
 
+clc;
 disp("CHAPTER 3");
 disp("EXAMPLE 11");
 
@@ -35,9 +36,9 @@ x=inv(A)*b;
 x1=x(1,:);
 x2=x(2,:);
 disp("Solution (b)");
-disp(sprintf("P1 + P2 = %.2f kW",power_sum));
-disp(sprintf("P1 - P2 = %.2f kW",power_diff));
-disp(sprintf("The two wattmeter readings are %.2f kW and %.2f kW",x1,x2));
+disp(sprintf("P1 + P2 = %f kW",power_sum));
+disp(sprintf("P1 - P2 = %f kW",power_diff));
+disp(sprintf("The two wattmeter readings are %f kW and %f kW",x1,x2));
 
 //solution (c): when phi=60 or %pi/3
 power_sum=20*cos(%pi/3);
@@ -48,9 +49,9 @@ x=inv(A)*b;
 x1=x(1,:);
 x2=x(2,:);
 disp("Solution (c)");
-disp(sprintf("P1 + P2 = %.2f kW",power_sum));
-disp(sprintf("P1 - P2 = %.2f kW",power_diff));
-disp(sprintf("The two wattmeter readings are %.2f kW and %.2f kW",x1,x2));
+disp(sprintf("P1 + P2 = %f kW",power_sum));
+disp(sprintf("P1 - P2 = %f kW",power_diff));
+disp(sprintf("The two wattmeter readings are %f kW and %f kW",x1,x2));
 
 //solution (d): when phi=90 or %pi/2
 power_sum=20*cos(%pi/2);
@@ -61,8 +62,8 @@ x=inv(A)*b;
 x1=x(1,:);
 x2=x(2,:);
 disp("Solution (d)");
-disp(sprintf("P1 + P2 = %.2f kW",power_sum));
-disp(sprintf("P1 - P2 = %.2f kW",power_diff));
-disp(sprintf("The two wattmeter readings are %.2f kW and %.2f kW",x1,x2));
+disp(sprintf("P1 + P2 = %f kW",power_sum));
+disp(sprintf("P1 - P2 = %f kW",power_diff));
+disp(sprintf("The two wattmeter readings are %f kW and %f kW",x1,x2));
 
 //END

@@ -1,4 +1,4 @@
-//CAPTION:Standing-Wave_Ratio
+
 //chapter_no.-3,  page_no.-93
 //Example_no.3-3-1
 clc;

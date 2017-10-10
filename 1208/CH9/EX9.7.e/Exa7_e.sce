@@ -16,6 +16,9 @@ SQc=4//in kg
 AQc=5//in Kg
 SPc=12//in rupees per Kg
 APc=11//in rupees per Kg
+RSQa=(SQa*24)/(22);
+RSQb=(SQb*24)/(22);
+RSQc=(SQc*24)/(22);
 //(5)  Material sub usage variance
 MSUVa=SPa*(SQa-RSQa);
 MSUVb=SPb*(SQb-RSQb);

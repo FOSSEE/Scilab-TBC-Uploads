@@ -1,4 +1,4 @@
-//find rivet dia,pitch,thickness and eff
+
 clc
 //solution
 //given

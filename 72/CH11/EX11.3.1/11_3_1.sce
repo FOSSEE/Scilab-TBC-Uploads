@@ -1,4 +1,4 @@
-//CAPTION:Characteristic_Impedance_of_a_Coplanar_Stripline
+
 //chapter_no.-11,  page_no.-507
 //Example_no.11-3-1
 

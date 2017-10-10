@@ -1,5 +1,4 @@
-//find...
-clc
+
 //solution
 //given
 n=25

@@ -2,7 +2,16 @@
 //filename=pathname+filesep()+'3.17-data.sci'
 //exec(filename)
 //Initial pressure(in MPa):
-pi=0.5
+p1=0.5;
+CpH2 = 14.307; 
+CpN2 = 1.039; 
+RN2 = 0.2968;
+RH2 = 4.124;
+T1 = 300; 
+v1=0.5; 
+vN1 = 0.5; 
+vN2 = 0.75; 
+v2 = 0.25;
 //Initial volume(in m^3):
 vi=0.5
 //Final pressure(in MPa):

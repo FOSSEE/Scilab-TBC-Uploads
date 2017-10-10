@@ -29,7 +29,7 @@ W = (u1-u2)+(P1*v1-P2*v2)+(C1^2/2-C2^2/2)*10^-3+Q; // [kJ/kg]
 
 mprintf('\n workdone is, W =  %f kJ/kg ',W);
 
-if(W&gt;0)
+if(W>0)
       disp('Since W&gt;0, so Power is output from the system')
 else
    disp('Since &lt;0, so Power is input to the system')

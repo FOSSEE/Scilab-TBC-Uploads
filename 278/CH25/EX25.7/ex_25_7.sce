@@ -30,6 +30,7 @@ Rn1=Ft1/ub
 Ft2=S*1250/1625
 Rn2=Ft2/ub
 //pb=Rn2/Ab
+pb = 0.5;
 b=Rn2/(pb*2*r*sin(q))
 printf("width of brake is,%f mm\n",b)
 //dimension of coil

@@ -1,4 +1,8 @@
-
+clc
+clear
+L = 5;
+W  =400;
+ Wc = 100;
 Gr=0.01
 m=acosh(sqrt(10^(0.1*L)-1)/sqrt(10^(0.1*Gr-1)))/acosh(W/Wc)
 printf("\nm=%.0f\n",m)
@@ -22,17 +26,3 @@ for p=2:1:n
 end
 
 printf("\nL1=L3=%.4e H\nC1=%.4e F",75*0.62425/(2*%pi*10^8),0.9662/(75*2*%pi*10^8))
-
-
-
-
-
-
-
-
-
-
-
-
-
-

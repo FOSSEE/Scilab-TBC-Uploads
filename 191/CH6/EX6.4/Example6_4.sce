@@ -13,7 +13,7 @@ k = [0 1 2 3]
 
 a = 0;
 b = %pi/4;
-h = (ones(:,4)*(b-a))./(k+2);
+h = (ones(1,4)*(b-a))./(k+2);
 x0 = a+h;
 xk = b-h;
 
@@ -31,6 +31,6 @@ disp(k(4),'k=3');
 
 exact = integrate('x*cos(x)','x',0,%pi/4);
 disp(exact,'The exact value of intergation is :');
-exact = ones(:,4)*exact;
+exact = ones(1,4)*exact;
 err = exact-k;
 disp(err','thus corresponding errors are : ');

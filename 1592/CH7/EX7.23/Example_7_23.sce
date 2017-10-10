@@ -3,7 +3,12 @@
 //Convolution of two signals
 clc;
 clear;
-clear x y n;
+function [y]=u(t)
+    if t>=0
+    y=1
+else y=0
+    end
+endfunction
 for n=0:10;
     x(n+1)=(0.5)^n*u(n-2);
 end

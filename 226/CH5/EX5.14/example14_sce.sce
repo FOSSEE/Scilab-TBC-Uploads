@@ -3,7 +3,7 @@
 //page 212
 printf("\n")
 printf("given")
-Vce=3;Ve=5;Ic=1*10^-3;Vcc=12;
+Vce=3;Ve=5;Ic=1*10^-3;Vcc=12;Vbe=0.7;
 Ie=Ic;
 R4=Ve/Ie
 disp(" with Ic=1mA and R4=4.7Kohm")

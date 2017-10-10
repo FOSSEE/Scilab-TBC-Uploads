@@ -4,6 +4,7 @@
 printf("\n")
 printf("given")
 f1=10.3*10^3;f2=10.9*10^3;Hobp=34;
+fo = sqrt(f1*f2);
 sqrt(f1*f2)
 Q=fo/(f2-f1)
 R3=120*10^3;

@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 7
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 7");
 
@@ -29,11 +30,11 @@ req=req1+req2;
 v=v2+v3;
 I=v/req;
 disp("VOLTAGE EQUIVALENT CIRCUIT:");
-disp(sprintf("   Voltage source= %.2f V",v));
-disp(sprintf("   Equivalent resistance(in series)= %.2f Ω",req));
+disp(sprintf("   Voltage source= %f V",v));
+disp(sprintf("   Equivalent resistance(in series)= %f Ω",req));
 disp("CURRENT EQUIVALENT CIRCUIT:");
-disp(sprintf("   Current source= %.2f A",I));
-disp(sprintf("   Equivalent resistance(in parallel)= %.2f Ω",req));
+disp(sprintf("   Current source= %f A",I));
+disp(sprintf("   Equivalent resistance(in parallel)= %f Ω",req));
 
 //END
 

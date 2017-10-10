@@ -10,13 +10,13 @@ for i = 1:length(bk)
     bk_not(i)= 1;
   end
 end
-dk_1(1) = 1&bk(1);  //initial value of differential encoded sequence
-dk_1_not(1)=0&bk_not(1);
-dk(1) = xor(dk_1(1),dk_1_not(1))//first bit of dpsk encoder
+dk_1(1) =bool2s( 1 & bk(1));  //initial value of differential encoded sequence
+dk_1_not(1)=bool2s(0& bk_not(1));
+dk(1) = bitxor(dk_1(1),dk_1_not(1))//first bit of dpsk encoder
 for i=2:length(bk)
   dk_1(i) = dk(i-1);
   dk_1_not(i) = ~dk(i-1);
-  dk(i) = xor((dk_1(i)&bk(i)),(dk_1_not(i)&bk_not(i)));
+  dk(i) = bitxor(bool2s(dk_1(i)& bk(i)),bool2s(dk_1_not(i)& bk_not(i)));
 end
 for i =1:length(dk)
   if(dk(i)==1)

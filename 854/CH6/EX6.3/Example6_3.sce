@@ -10,7 +10,7 @@ d = 0.01*0.0254; //distance between the plates in metre
 e0 = 8.854e-12; //free space permittivity in F/m
 er = 6; //relative permittivity of mica
 e = e0*er;
-C =  parallel_capacitor(e,S,d);
+C =  e*S/d;
 disp(C*1e09,'Capacitance of a parallel plate capacitor in pico farads C =')
 //Result
-//Capacitance of a parallel plate capacitor in pico farads C = 1.3493496  
+//Capacitance of a parallel plate capacitor in pico farads C = 1.3493496

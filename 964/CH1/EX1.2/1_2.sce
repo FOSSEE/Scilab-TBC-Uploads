@@ -7,7 +7,7 @@ count=2;
 v(1)=0;
 disp(v(1),"v(m/s)=",0,"Time(s)=")
 for i=2:2:12
-    v(count)=v(count-1)+(g-c*v(count)/m)*(2);
+    v(count)=v(count-1)+(g-c*v(count-1)/m)*(2);
     disp(v(count),"v(m/s)=",i,"Time(s)=")
     count=count+1;
 end

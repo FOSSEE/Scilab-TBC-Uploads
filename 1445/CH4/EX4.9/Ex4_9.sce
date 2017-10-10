@@ -1,6 +1,7 @@
 //CHAPTER 4- MEASURING INSTRUMENTS
 //Example 9
 
+clc;
 disp("CHAPTER 4");
 disp("EXAMPLE 9");
 
@@ -17,7 +18,7 @@ E1=(v*I*t*pow_fact)/1000; //energy consumed in 37 seconds in kWh
 E2=rev/m_c;               //energy consumption registered by meter
 err=(E2-E1)/E1;
 err=err*100;              //percentage error
-disp(sprintf("The percentage error is %.2f %%",err));
+disp(sprintf("The percentage error is %f %%",err));
 if(err<0) then
 disp("The negative sign indicates that the meter will run slow");
 end

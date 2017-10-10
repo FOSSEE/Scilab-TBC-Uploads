@@ -12,10 +12,8 @@ Ps= shear*n*(Dr/2)^2
 Pb= Ds*(n/2)*x*Dr
 Pb1= Ss*n*D*Dr
 pmin= Ps
-if (Pb<Pmin)
-    Pmin= Pb
-else 
-    Pmin= Pb1    
-    end
-//RESULTS
-printf ('load capacity of connection= %.2f kips',Pb)
+if (Pb<pmin) 
+pmin=Pb
+end
+//results
+printf('load capacity of connection %.2f kips',Pb)

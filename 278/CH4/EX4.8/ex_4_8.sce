@@ -1,4 +1,4 @@
-//find the crushing stress induced between plates and rivet
+
 clc
 //solution
 //given

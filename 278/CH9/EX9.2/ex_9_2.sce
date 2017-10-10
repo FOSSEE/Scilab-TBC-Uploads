@@ -1,4 +1,4 @@
-//find the efficiency of following rivet joints
+
 clc
 //solution
 //given

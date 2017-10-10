@@ -11,11 +11,12 @@ Np=1800//rpm
 q=(%pi/180)*22.5
 Wn=175//N/mm
 Aw=1
+Tp=14
 //Tp=(2*Aw)/[G*{sqrt(1+1/G*(1/G +2)*(sin(q))^2)-1}]
 //x=G*{sqrt(1+1/G*(1/G +2)*(sin(q))^2)-1}
 printf("numbr of teeth on pinion is,%f\n",Tp)
 printf("numbr of teeth on pinion is,say 14\n")
-Tp=14
+
 Tg=G*Tp
 //L=Dg/2+Dp/2=5.5*Dp///Dg/Dp=10
 Dp=L/5.5

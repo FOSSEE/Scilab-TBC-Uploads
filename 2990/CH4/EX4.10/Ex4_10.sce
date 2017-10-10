@@ -15,8 +15,8 @@ function[dms]=degtodms(deg)
     dms=[d m sd]
 endfunction
 //part1
-delta=38+15.0/60;//declination in degrees
-theta=25+10.0/60;//latitude in degrees
+delta=38+15.0/60;//declination of star M1 in degrees in North
+theta=25+10.0/60;//latitude in degrees in North
 //calculation
 z=delta-theta;
 alpha=90-z;
@@ -37,8 +37,8 @@ function[dms]=degtodms(deg)
     end
     dms=[d m sd]
 endfunction
-delta=22+40.0/60;
-theta=25+10.0/60;
+delta=22+40.0/60;//declination of star M2 in degrees in North
+theta=25+10.0/60;//latitude in degrees in North
 //calculation
 z=-delta+theta;
 alpha=90-z;
@@ -59,8 +59,8 @@ function[dms]=degtodms(deg)
     end
     dms=[d m sd]
 endfunction
-delta=70+20.0/60;
-theta=25+10.0/60;
+delta=70+20.0/60;//declination of star M3 in degrees in North
+theta=25+10.0/60;//latitude in degrees in North
 //calculation
 z=delta-theta;
 z=degtodms(z);

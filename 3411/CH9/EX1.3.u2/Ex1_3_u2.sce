@@ -2,9 +2,10 @@
 clc();
 clear;
 //To calculate the uncertenity in momentum
-h=6.63e-34
-deltax=2*%pi*10^-9
-deltap=h/(2*deltax)          //units in Kg ms^-1
+h=6.63e-34                 //units in m^2 kg s^-1
+deltax=1         //units in nm
+deltax=deltax*10^-9                //units in meters
+deltap=h/(4*%pi*deltax)          //units in Kg meter s^-1
 printf("The uncertenity in momentum is delta p=")
 disp(deltap)
 printf("Kg ms^-1")

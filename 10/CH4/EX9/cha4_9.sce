@@ -1,7 +1,7 @@
 Iarated=100;Vt=100;
 Ra=0.1;
 Ia1=200;
-
+ Ia = 25;
 Iastart=Vt/Ra
 
 Rae=(Vt-20)/(200)

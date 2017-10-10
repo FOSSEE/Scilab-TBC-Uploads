@@ -1,4 +1,4 @@
-//find efficiency of joint
+
 clc
 //solution
 //given

@@ -1,6 +1,7 @@
 //CHAPTER 8- DIRECT CURRENT MACHINES
 //Example 24
 
+clc;
 disp("CHAPTER 8");
 disp("EXAMPLE 24");
 

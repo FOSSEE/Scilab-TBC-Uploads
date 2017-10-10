@@ -1,0 +1,140 @@
+12#System Design#12.2#2#Ex12_2.sce#3415/CH12/EX12.2/Ex12_2.sce#S##115643
+12#System Design#12.2#2#Ex12_2.JPG#3415/CH12/EX12.2/Ex12_2.JPG#R##115644
+12#System Design#12.1#1#EX12_1.sce#3415/CH12/EX12.1/EX12_1.sce#S##117168
+12#System Design#12.1#1#Ex12_1.JPG#3415/CH12/EX12.1/Ex12_1.JPG#R##115642
+11#Noise and Detection#11.9#9#Ex11_9.sce#3415/CH11/EX11.9/Ex11_9.sce#S##115637
+11#Noise and Detection#11.9#9#Ex11_9.JPG#3415/CH11/EX11.9/Ex11_9.JPG#R##115638
+11#Noise and Detection#11.8#8#Ex11_8.sce#3415/CH11/EX11.8/Ex11_8.sce#S##115635
+11#Noise and Detection#11.8#8#Ex11_8.JPG#3415/CH11/EX11.8/Ex11_8.JPG#R##115636
+11#Noise and Detection#11.7#7#Ex11_7.sce#3415/CH11/EX11.7/Ex11_7.sce#S##115633
+11#Noise and Detection#11.7#7#Ex11_7.JPG#3415/CH11/EX11.7/Ex11_7.JPG#R##115634
+11#Noise and Detection#11.6#6#Ex11_6.sce#3415/CH11/EX11.6/Ex11_6.sce#S##115631
+11#Noise and Detection#11.6#6#Ex11_6.JPG#3415/CH11/EX11.6/Ex11_6.JPG#R##115632
+11#Noise and Detection#11.5#5#EX11_5.sce#3415/CH11/EX11.5/EX11_5.sce#S##115629
+11#Noise and Detection#11.5#5#Ex11_5.JPG#3415/CH11/EX11.5/Ex11_5.JPG#R##115630
+11#Noise and Detection#11.4#4#Ex11_4.sce#3415/CH11/EX11.4/Ex11_4.sce#S##115626
+11#Noise and Detection#11.4#4#Ex11_4a.jpeg#3415/CH11/EX11.4/Ex11_4a.jpeg#R##115627
+11#Noise and Detection#11.4#4#Ex11_4b.JPG#3415/CH11/EX11.4/Ex11_4b.JPG#R##115628
+11#Noise and Detection#11.3#3#Ex11_3.sce#3415/CH11/EX11.3/Ex11_3.sce#S##117167
+11#Noise and Detection#11.3#3#Ex11_3.JPG#3415/CH11/EX11.3/Ex11_3.JPG#R##115625
+11#Noise and Detection#11.2#2#Ex11_2.sce#3415/CH11/EX11.2/Ex11_2.sce#S##115622
+11#Noise and Detection#11.2#2#Ex11_2.JPG#3415/CH11/EX11.2/Ex11_2.JPG#R##115623
+11#Noise and Detection#11.10#10#Ex11_10.sce#3415/CH11/EX11.10/Ex11_10.sce#S##115639
+11#Noise and Detection#11.10#10#Ex11_10.JPG#3415/CH11/EX11.10/Ex11_10.JPG#R##115640
+11#Noise and Detection#11.1#1#Ex11_1.sce#3415/CH11/EX11.1/Ex11_1.sce#S##115620
+11#Noise and Detection#11.1#1#Ex11_1.JPG#3415/CH11/EX11.1/Ex11_1.JPG#R##115621
+10#Modulation#10.5#5#Ex10_5.JPG#3415/CH10/EX10.5/Ex10_5.JPG#R##115619
+10#Modulation#10.5#5#Ex10_5.sce#3415/CH10/EX10.5/Ex10_5.sce#S##115618
+10#Modulation#10.4#4#Ex10_4.sce#3415/CH10/EX10.4/Ex10_4.sce#S##115616
+10#Modulation#10.4#4#Ex10_4.JPG#3415/CH10/EX10.4/Ex10_4.JPG#R##115617
+10#Modulation#10.3#3#Ex10_3.sce#3415/CH10/EX10.3/Ex10_3.sce#S##115614
+10#Modulation#10.3#3#Ex10_3.JPG#3415/CH10/EX10.3/Ex10_3.JPG#R##115615
+10#Modulation#10.2#2#Ex10_2.sce#3415/CH10/EX10.2/Ex10_2.sce#S##115612
+10#Modulation#10.2#2#Ex10_2.JPG#3415/CH10/EX10.2/Ex10_2.JPG#R##115613
+10#Modulation#10.1#1#Ex10_1.JPG#3415/CH10/EX10.1/Ex10_1.JPG#R##115611
+10#Modulation#10.1#1#Ex10_1.sce#3415/CH10/EX10.1/Ex10_1.sce#S##115610
+9#Distribution networks and Fiber components#9.3#3#Ex9_3.sce#3415/CH9/EX9.3/Ex9_3.sce#S##115399
+9#Distribution networks and Fiber components#9.3#3#Ex9_3.JPG#3415/CH9/EX9.3/Ex9_3.JPG#R##115400
+9#Distribution networks and Fiber components#9.2#2#Ex9_2.sce#3415/CH9/EX9.2/Ex9_2.sce#S##115397
+9#Distribution networks and Fiber components#9.2#2#Ex9_2.JPG#3415/CH9/EX9.2/Ex9_2.JPG#R##115398
+9#Distribution networks and Fiber components#9.1#1#Ex9_1.sce#3415/CH9/EX9.1/Ex9_1.sce#S##115395
+9#Distribution networks and Fiber components#9.1#1#Ex9_1.JPG#3415/CH9/EX9.1/Ex9_1.JPG#R##115396
+8#Couplers and connectors#8.7#7#Ex8_7.sce#3415/CH8/EX8.7/Ex8_7.sce#S##115393
+8#Couplers and connectors#8.7#7#Ex8_7.JPG#3415/CH8/EX8.7/Ex8_7.JPG#R##115394
+8#Couplers and connectors#8.6#6#Ex8_6.sce#3415/CH8/EX8.6/Ex8_6.sce#S##115391
+8#Couplers and connectors#8.6#6#Ex8_6.JPG#3415/CH8/EX8.6/Ex8_6.JPG#R##115392
+8#Couplers and connectors#8.5#5#Ex8_5.sce#3415/CH8/EX8.5/Ex8_5.sce#S##115389
+8#Couplers and connectors#8.5#5#Ex8_5.JPG#3415/CH8/EX8.5/Ex8_5.JPG#R##115390
+8#Couplers and connectors#8.4#4#Ex8_4.sce#3415/CH8/EX8.4/Ex8_4.sce#S##115387
+8#Couplers and connectors#8.4#4#Ex8_4.JPG#3415/CH8/EX8.4/Ex8_4.JPG#R##115388
+8#Couplers and connectors#8.3#3#Ex8_3.sce#3415/CH8/EX8.3/Ex8_3.sce#S##115385
+8#Couplers and connectors#8.3#3#Ex8_3.JPG#3415/CH8/EX8.3/Ex8_3.JPG#R##115386
+8#Couplers and connectors#8.2#2#Ex8_2.sce#3415/CH8/EX8.2/Ex8_2.sce#S##115383
+8#Couplers and connectors#8.2#2#Ex8_2.jpeg#3415/CH8/EX8.2/Ex8_2.jpeg#R##115384
+8#Couplers and connectors#8.1#1#Ex8_1.sce#3415/CH8/EX8.1/Ex8_1.sce#S##115381
+8#Couplers and connectors#8.1#1#Ex8_1.JPG#3415/CH8/EX8.1/Ex8_1.JPG#R##115382
+7#Light Detectors#7.8#8#Ex7_8.sce#3415/CH7/EX7.8/Ex7_8.sce#S##115379
+7#Light Detectors#7.8#8#Ex7_8.JPG#3415/CH7/EX7.8/Ex7_8.JPG#R##115380
+7#Light Detectors#7.7#7#Ex7_7.sce#3415/CH7/EX7.7/Ex7_7.sce#S##115377
+7#Light Detectors#7.7#7#Ex7_7.JPG#3415/CH7/EX7.7/Ex7_7.JPG#R##115378
+7#Light Detectors#7.6#6#Ex7_6.sce#3415/CH7/EX7.6/Ex7_6.sce#S##115375
+7#Light Detectors#7.6#6#Ex7_6.JPG#3415/CH7/EX7.6/Ex7_6.JPG#R##115376
+7#Light Detectors#7.5#5#Ex7_5.sce#3415/CH7/EX7.5/Ex7_5.sce#S##115373
+7#Light Detectors#7.5#5#Ex7_5.JPG#3415/CH7/EX7.5/Ex7_5.JPG#R##115374
+7#Light Detectors#7.4#4#Ex7_4.sce#3415/CH7/EX7.4/Ex7_4.sce#S##115371
+7#Light Detectors#7.4#4#Ex7_4.JPG#3415/CH7/EX7.4/Ex7_4.JPG#R##115372
+7#Light Detectors#7.3#3#Ex7_3.sce#3415/CH7/EX7.3/Ex7_3.sce#S##115369
+7#Light Detectors#7.3#3#Ex7_3.JPG#3415/CH7/EX7.3/Ex7_3.JPG#R##115370
+7#Light Detectors#7.2#2#Ex7_2.sce#3415/CH7/EX7.2/Ex7_2.sce#S##115367
+7#Light Detectors#7.2#2#Ex7_2.JPG#3415/CH7/EX7.2/Ex7_2.JPG#R##115368
+7#Light Detectors#7.1#1#EX7_1.sce#3415/CH7/EX7.1/EX7_1.sce#S##115365
+7#Light Detectors#7.1#1#Ex7_1.JPG#3415/CH7/EX7.1/Ex7_1.JPG#R##115366
+6#Light Sources#6.3#3#Ex6_3.sce#3415/CH6/EX6.3/Ex6_3.sce#S##115363
+6#Light Sources#6.3#3#Ex6_3.JPG#3415/CH6/EX6.3/Ex6_3.JPG#R##115364
+6#Light Sources#6.2#2#Ex6_2.sce#3415/CH6/EX6.2/Ex6_2.sce#S##115361
+6#Light Sources#6.2#2#Ex6_2.JPG#3415/CH6/EX6.2/Ex6_2.JPG#R##115362
+6#Light Sources#6.1#1#Ex6_1.sce#3415/CH6/EX6.1/Ex6_1.sce#S##115359
+6#Light Sources#6.1#1#Ex6_1.JPG#3415/CH6/EX6.1/Ex6_1.JPG#R##115360
+5#Optic fiber waveguides#5.8#8#Ex5_8.sce#3415/CH5/EX5.8/Ex5_8.sce#S##115351
+5#Optic fiber waveguides#5.8#8#Ex5_8.jpeg#3415/CH5/EX5.8/Ex5_8.jpeg#R##115352
+5#Optic fiber waveguides#5.7#7#Ex5_7.sce#3415/CH5/EX5.7/Ex5_7.sce#S##115349
+5#Optic fiber waveguides#5.7#7#Ex5_7.JPG#3415/CH5/EX5.7/Ex5_7.JPG#R##115350
+5#Optic fiber waveguides#5.6#6#Ex5_6.sce#3415/CH5/EX5.6/Ex5_6.sce#S##115347
+5#Optic fiber waveguides#5.6#6#Ex5_6.JPG#3415/CH5/EX5.6/Ex5_6.JPG#R##115348
+5#Optic fiber waveguides#5.5#5#Ex5_5.sce#3415/CH5/EX5.5/Ex5_5.sce#S##115345
+5#Optic fiber waveguides#5.5#5#Ex5_5.JPG#3415/CH5/EX5.5/Ex5_5.JPG#R##115346
+5#Optic fiber waveguides#5.4#4#Ex5_4.sce#3415/CH5/EX5.4/Ex5_4.sce#S##115343
+5#Optic fiber waveguides#5.4#4#Ex5_4.JPG#3415/CH5/EX5.4/Ex5_4.JPG#R##115344
+5#Optic fiber waveguides#5.3#3#Ex5_3.sce#3415/CH5/EX5.3/Ex5_3.sce#S##115341
+5#Optic fiber waveguides#5.3#3#Ex5_3.JPG#3415/CH5/EX5.3/Ex5_3.JPG#R##115342
+5#Optic fiber waveguides#5.2#2#Ex5_2.sce#3415/CH5/EX5.2/Ex5_2.sce#S##115339
+5#Optic fiber waveguides#5.2#2#Ex5_2.JPG#3415/CH5/EX5.2/Ex5_2.JPG#R##115340
+5#Optic fiber waveguides#5.1#1#Ex5_1.sce#3415/CH5/EX5.1/Ex5_1.sce#S##115334
+5#Optic fiber waveguides#5.1#1#Ex5_1.JPG#3415/CH5/EX5.1/Ex5_1.JPG#R##115335
+4#Integrated Optic waveguides#4.3#3#Ex4_3.sce#3415/CH4/EX4.3/Ex4_3.sce#S##115332
+4#Integrated Optic waveguides#4.3#3#Ex4_3.JPG#3415/CH4/EX4.3/Ex4_3.JPG#R##115333
+4#Integrated Optic waveguides#4.2#2#Ex4_2.sce#3415/CH4/EX4.2/Ex4_2.sce#S##115329
+4#Integrated Optic waveguides#4.2#2#Ex4_2.JPG#3415/CH4/EX4.2/Ex4_2.JPG#R##115330
+4#Integrated Optic waveguides#4.1#1#Ex4_1.sce#3415/CH4/EX4.1/Ex4_1.sce#S##115327
+4#Integrated Optic waveguides#4.1#1#Ex4_1.JPG#3415/CH4/EX4.1/Ex4_1.JPG#R##115328
+3#Lightwave fundamentals#3.9#9#Ex3_9.sce#3415/CH3/EX3.9/Ex3_9.sce#S##115323
+3#Lightwave fundamentals#3.9#9#Ex3_9.JPG#3415/CH3/EX3.9/Ex3_9.JPG#R##115324
+3#Lightwave fundamentals#3.8#8#Ex3_8.sce#3415/CH3/EX3.8/Ex3_8.sce#S##115321
+3#Lightwave fundamentals#3.8#8#Ex3_8.JPG#3415/CH3/EX3.8/Ex3_8.JPG#R##115322
+3#Lightwave fundamentals#3.7#7#Ex3_7.sce#3415/CH3/EX3.7/Ex3_7.sce#S##115319
+3#Lightwave fundamentals#3.7#7#Ex3_7.JPG#3415/CH3/EX3.7/Ex3_7.JPG#R##115320
+3#Lightwave fundamentals#3.6#6#Ex3_6.sce#3415/CH3/EX3.6/Ex3_6.sce#S##115317
+3#Lightwave fundamentals#3.6#6#Ex3_6.JPG#3415/CH3/EX3.6/Ex3_6.JPG#R##115318
+3#Lightwave fundamentals#3.5#5#Ex3_5.sce#3415/CH3/EX3.5/Ex3_5.sce#S##115315
+3#Lightwave fundamentals#3.5#5#Ex3_5.JPG#3415/CH3/EX3.5/Ex3_5.JPG#R##115316
+3#Lightwave fundamentals#3.4#4#Ex3_4.sce#3415/CH3/EX3.4/Ex3_4.sce#S##115313
+3#Lightwave fundamentals#3.4#4#Ex3_4.JPG#3415/CH3/EX3.4/Ex3_4.JPG#R##115314
+3#Lightwave fundamentals#3.3#3#Ex3_3.sce#3415/CH3/EX3.3/Ex3_3.sce#S##115311
+3#Lightwave fundamentals#3.3#3#Ex3_3.JPG#3415/CH3/EX3.3/Ex3_3.JPG#R##115312
+3#Lightwave fundamentals#3.2#2#Ex3_2.sce#3415/CH3/EX3.2/Ex3_2.sce#S##115309
+3#Lightwave fundamentals#3.2#2#Ex3_2.JPG#3415/CH3/EX3.2/Ex3_2.JPG#R##115310
+3#Lightwave fundamentals#3.10#10#Ex3_10.sce#3415/CH3/EX3.10/Ex3_10.sce#S##115325
+3#Lightwave fundamentals#3.10#10#Ex3_10.JPG#3415/CH3/EX3.10/Ex3_10.JPG#R##115326
+3#Lightwave fundamentals#3.1#1#Ex3_1.sce#3415/CH3/EX3.1/Ex3_1.sce#S##115307
+3#Lightwave fundamentals#3.1#1#Ex3_1.JPG#3415/CH3/EX3.1/Ex3_1.JPG#R##115308
+2#Optics Review#2.6#6#Ex_2_6.sce#3415/CH2/EX2.6/Ex_2_6.sce#S##117166
+2#Optics Review#2.6#6#Ex2_6.JPG#3415/CH2/EX2.6/Ex2_6.JPG#R##115306
+2#Optics Review#2.5#5#Ex2_5.sce#3415/CH2/EX2.5/Ex2_5.sce#S##115303
+2#Optics Review#2.5#5#Ex2_5.JPG#3415/CH2/EX2.5/Ex2_5.JPG#R##115304
+2#Optics Review#2.4#4#Ex2_4.sce#3415/CH2/EX2.4/Ex2_4.sce#S##115284
+2#Optics Review#2.4#4#Ex2_4.JPG#3415/CH2/EX2.4/Ex2_4.JPG#R##115285
+2#Optics Review#2.3#3#Ex2_3.sce#3415/CH2/EX2.3/Ex2_3.sce#S##115281
+2#Optics Review#2.3#3#Ex2_3_1.jpeg#3415/CH2/EX2.3/Ex2_3_1.jpeg#R##115282
+2#Optics Review#2.3#3#Ex2_3_2.JPG#3415/CH2/EX2.3/Ex2_3_2.JPG#R##115283
+2#Optics Review#2.2#2#Ex2_2.sce#3415/CH2/EX2.2/Ex2_2.sce#S##115276
+2#Optics Review#2.2#2#Ex2_2.JPG#3415/CH2/EX2.2/Ex2_2.JPG#R##115277
+2#Optics Review#2.1#1#EX2_1.sce#3415/CH2/EX2.1/EX2_1.sce#S##115269
+2#Optics Review#2.1#1#Ex2_1.JPG#3415/CH2/EX2.1/Ex2_1.JPG#R##115270
+1#Fiber optic communications systems#1.4#4#EX1_4.sce#3415/CH1/EX1.4/EX1_4.sce#S##115267
+1#Fiber optic communications systems#1.4#4#EX1_4.JPG#3415/CH1/EX1.4/EX1_4.JPG#R##115268
+1#Fiber optic communications systems#1.3#3#Ex1_3.sce#3415/CH1/EX1.3/Ex1_3.sce#S##115264
+1#Fiber optic communications systems#1.3#3#EX1_3.JPG#3415/CH1/EX1.3/EX1_3.JPG#R##115265
+1#Fiber optic communications systems#1.2#2#Ex1_2.sce#3415/CH1/EX1.2/Ex1_2.sce#S##115261
+1#Fiber optic communications systems#1.2#2#EX1_2.JPG#3415/CH1/EX1.2/EX1_2.JPG#R##115262
+1#Fiber optic communications systems#1.1#1#EX1_1.JPG#3415/CH1/EX1.1/EX1_1.JPG#R##115248
+1#Fiber optic communications systems#1.1#1#EX1_1.sce#3415/CH1/EX1.1/EX1_1.sce#S##115247

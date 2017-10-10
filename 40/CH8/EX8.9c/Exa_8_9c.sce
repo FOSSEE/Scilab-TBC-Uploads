@@ -3,7 +3,7 @@ n2=0:1/840:6/21;
 xt=4*sin(72*%pi*n2')-6*cos(12*%pi*n2');
 n=0:1/21:6/21;//F=3/12 hence N=12
 xn=4*sin(72*%pi*n')-6*cos(12*%pi*n');
-XDFT=abs(dft(xn,-1));
+XDFT=abs(fft(xn,-1));
 n1=0:6;
 a=gca();
 a.x_location="origin";

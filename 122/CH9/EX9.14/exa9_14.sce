@@ -11,5 +11,5 @@ D = [0];
 G =syslin('c',A,B,C,D); ssprint(G);
 
 Cc = cont_mat(A,B); disp(Cc,'state controllability matrix =');
-c = [C*B C*A*B];  disp(Oc,'output controllability matrix =');
+c = [C*B C*A*B];  disp(c,'output controllability matrix =');
 Ob = obsv_mat(A,C); disp(Ob,'observability matrix =');

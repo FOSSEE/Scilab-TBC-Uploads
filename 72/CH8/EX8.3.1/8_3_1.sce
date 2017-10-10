@@ -1,4 +1,4 @@
-//CAPTION: Calculate_the_avalanche-zone_velocity
+
 //chapter_no.-8,  page_no.-334
 //Example_no.8-3-1
 

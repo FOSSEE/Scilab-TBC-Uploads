@@ -3,7 +3,7 @@
 //page 117
 printf("\n")
 printf("given")
-E=5;Vo=4.5;Il=2*10^-3;
+E=5;Vo=4.5;Il=2*10^-3;Vf=0.7;
 R1=(E-Vo)/Il;
 printf(" suitable resistance is %dohm\n",R1)
 Vr=E

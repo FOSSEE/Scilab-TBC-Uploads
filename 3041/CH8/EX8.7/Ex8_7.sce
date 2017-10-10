@@ -5,7 +5,7 @@ V=240            //dc source(V)
 d=17/50.         //duty cycle
 d1=0.6           //duty cycle
 eta1=0.8         //efficiency
-
+Vdc = 12
 //Calculations
 P=VL*I                        //average load power(W)
 Isav=(1*d)/2                  //average supply current(A)

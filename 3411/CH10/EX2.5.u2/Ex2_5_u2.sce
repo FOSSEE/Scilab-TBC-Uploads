@@ -2,11 +2,11 @@
 clc();
 clear;
 //To calculate the no of states for conduction electrons and the average energy interval 
-n=9.11*10^-31
+n=9.11*10^-31            //units in Kg
 E=5*1.6*10^-19        //units in J
-v=10^-6       //units in met^3
-h=6.67*10^-34
-NE=(8*sqrt(2)*%pi*n^1.5*E^0.5*v)/h^3        //units in /J
+v=10^-6       //units in meter^3
+h=6.67*10^-34               //units in m^2 kg s^-1
+NE=(8*sqrt(2)*%pi*n^1.5*E^0.5*v)/h^3        //units in J^-1
 no=NE*0.01*1.6*10^-19           //units in J
 printf("Available number of energy states is ")
 disp(no)

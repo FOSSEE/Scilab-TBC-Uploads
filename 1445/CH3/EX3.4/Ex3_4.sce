@@ -1,6 +1,7 @@
 //CHAPTER 3- THREE-PHASE A.C. CIRCUITS
 //Example 4
 
+clc;
 disp("CHAPTER 3");
 disp("EXAMPLE 4");
 
@@ -26,7 +27,7 @@ b=a-120;                              //lags by 120 degrees
 //I_nc
 I_na=sqrt((real(I))^2+(imag(I))^2);
 c=a-240;                              // lags by another 120 degrees ie.,240 degrees
-disp(sprintf("The line currents are %.3f A (%.2f degrees), %.3f A (%.2f degrees) and %.3f A (%.2f degrees)",I_na,a,I_na,b,I_na,c));
+disp(sprintf("The line currents are %f A (%f degrees), %f A (%f degrees) and %f A (%f degrees)",I_na,a,I_na,b,I_na,c));
 
 
 //line current lags phase current by 30 degrees, hence (-30)
@@ -39,7 +40,7 @@ b1=b-(-30);
 //I_AC
 I_AC=I_na/sqrt(3);
 c1=c-(-30);
-disp(sprintf("The phase currents are %.3f A (%.2f degrees), %.3f A (%.2f degrees) and %.3f A (%.2f degrees)",I_AB,a1,I_BC,b1,I_AC,c1));
+disp(sprintf("The phase currents are %f A (%f degrees), %f A (%f degrees) and %f A (%f degrees)",I_AB,a1,I_BC,b1,I_AC,c1));
 
 //converting z_delta from polar form to rectangular form
 z=sqrt((real(z_delta))^2+(imag(z_delta))^2);
@@ -56,15 +57,15 @@ b2=b1+angle;
 //v_AC
 v_AC=I_AC*z;
 c2=c1+angle;
-disp(sprintf("The phase voltages for the delta load are %.3f A (%.2f degrees),  %.3f A (%.2f degrees) and %.3f A (%.2f degrees)",v_AB,a2,v_BC,b2,v_AC,c2));   
+disp(sprintf("The phase voltages for the delta load are %f A (%f degrees),  %f A (%f degrees) and %f A (%f degrees)",v_AB,a2,v_BC,b2,v_AC,c2));   
 
 p_AB=(I_AB^2)*real(z_delta); 
 p_load=3*p_AB;   
-disp(sprintf("The power absorbed by the load is %.2f W",p_load));
+disp(sprintf("The power absorbed by the load is %f W",p_load));
 p_l=3*(I_na^2)*real(z_wire);
-disp(sprintf("The power dissipated by the line is %.2f W",p_l));
+disp(sprintf("The power dissipated by the line is %f W",p_l));
 p=p_load+p_l;
-disp(sprintf("The total power supplied by 3-ϕ source is %.2f W",p));
+disp(sprintf("The total power supplied by 3-ϕ source is %f W",p));
 
 //Answers may be slightly different due to precision of floating point numbers
 

@@ -5,7 +5,8 @@ printf("\n")
 printf("Given")
 disp("Veff=110V Z=10+i8 ohm")
 Veff=110;
-Z=10+%i*8
+Z=10+%i*8;
+R = 10;
 Zmag=sqrt(10^2+8^2)
 Zph=(atan(8/10)*180)/%pi
 P=(Veff^2*R)/(Zmag^2)

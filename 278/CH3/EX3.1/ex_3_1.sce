@@ -1,4 +1,4 @@
-//find hole tolerance,shaft tolerance and allowance
+
 clc
 //solution
 //given

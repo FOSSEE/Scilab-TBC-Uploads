@@ -1,5 +1,4 @@
   
-//Caption:Progam to determine the probability of maximum interference of a 64 channel CDMA system
  
 //Example 9.1
  

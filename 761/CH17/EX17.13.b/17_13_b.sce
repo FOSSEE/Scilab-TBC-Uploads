@@ -1,6 +1,7 @@
 clc;
 //page no 660
 //prob no. 17.13.b
+c = 3*10^8;
 tp=10^-6;//pulse duration of pulse radar
 f=10^3;//operating freq in Hz
 //The maximum unambiguous range is 

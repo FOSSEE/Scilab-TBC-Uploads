@@ -1,4 +1,4 @@
-//find dia of shaft,dia of key,dimenson of rect arm
+
 clc
 //solution
 //given

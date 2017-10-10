@@ -4,7 +4,7 @@
 V1m = 300; // in volts
 V3m = 120; // in volts
 phiv1 = 0; // in rad
-phiv2 = 0.698; // in rad
+phiv3 = 0.698; // in rad
 w1 = 314; // in rad
 C = 2.123E-6; // in farads
 R1 = 560; // in ohms

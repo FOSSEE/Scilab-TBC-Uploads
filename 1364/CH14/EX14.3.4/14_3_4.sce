@@ -2,6 +2,7 @@ clc
 //initialisation of variables
 w= 1000 //rev
 r= 1 //ft
+g= 32.2 //ft/sec^2
 Q= 2000 //ft^3
 wa= 0.07
 w1= 62.3 //lbf/ft^3

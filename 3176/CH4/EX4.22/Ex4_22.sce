@@ -15,14 +15,14 @@ xdel(winsid())//to close all currently open figure(s).
 function[H]=filter(type1,M,N,D0,low,high,c)//lowpassfilter is used to filter an image .
     u=0:(M-1);
     v=0:(N-1);
-    idx=find(u>M/2);
+    idx=find(u&gt;M/2);
     u(idx)=u(idx)-M;
-    idy=find(v>N/2);
+    idy=find(v&gt;N/2);
     v(idy)=v(idy)-N;
     [U,V]=meshgrid(v,u); // Generate 2-d matrix from 1-d matrix
     D=sqrt(U.^2+V.^2);  // distnace calculation
     select type1         
-        case'Homomorphic'then
+        case'Homomorphic'
         H=((high-low).*(1-(exp(-c*(D.^2)./(D0^2)))))+low;
     else
         disp('Unknownfiltertype.')
@@ -57,11 +57,3 @@ Image_filter=real(ifft(n));
 Image_filter=mat2gray(Image_filter);
 figure,ShowImage(Image_filter,'Filtered Image');
 title('Filtered Image with Specific Cut-Off Frequency','color','blue','fontsize',4);
-
-
-
-
-
-
-
-

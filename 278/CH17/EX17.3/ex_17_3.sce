@@ -1,4 +1,4 @@
-//determine power and effi
+
 clc
 //soluiton
 //given

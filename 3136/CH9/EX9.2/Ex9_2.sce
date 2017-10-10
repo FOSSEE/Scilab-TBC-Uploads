@@ -1,4 +1,4 @@
-clear all; clc;
+clear; clc;
 
 disp("To use Figure 9.8,with Qf=ΣU^2/delta_Hs=2*g_c*lambda^2*R_H")
 disp("The value of R_H can be estimated with equation 8.4.")
@@ -19,38 +19,14 @@ disp("From the Mollier diagram in figure A1 we have hi=1525 Btu/lbm,hse=1150 Btu
 delta_Hs=1525-1150
 printf(" Hence delta_Hs=%0.0f Btu/lbm",delta_Hs)
 
-summation_sqr(U)=11455*375
-printf("\n So we have ΣU^2=%0.0f ((ft/s)^2)",summation_sqr(U))
+summation_sqrU =11455*375
+printf("\n So we have ΣU^2=%0.0f ((ft/s)^2)",summation_sqrU)
 
 disp("With 10 identical stages,we have U^2=429562")
-sqr(U)=429562
-U=sqrt(sqr(U))
+sqrU=429562
+U=sqrt(sqrU)
 printf(" Thus U= %0.0f ft/s",U)
 
 omega=3600*%pi/30
 D=2*U/omega
 printf("\n The turbine diameter D= %0.3f ft",D)//The answer has been incorrectly rounded off to 3.47 in the book. A more accurate answer is provided here.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

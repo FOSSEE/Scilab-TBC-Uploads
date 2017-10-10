@@ -1,9 +1,12 @@
 // Chapter 3_The Semiconductor in Equilibrium
 //Caption_Position of Fermi Energy level
-//Ex_13//page 116
-T=300    //temperature in kelvin
-Na=10^16   // acceptor carrier impurity in per cm cube
-Ef=0.20   //Fermi energy is Ef eV below the conduction band edge
-Nc=2.8*(10^19)
-Nd=Na+(Nc*exp(-Ef/0.0259))
-printf('The require donor impurity concentration is %fd per cm cube',Nd)
+//Ex_14//page 121
+T=300   //temperature in kelvin
+Ef=0.20;
+kT=0.0259
+ni=1.5*(10^10)  //intrinsic carrier concentration
+Efa=3*kT    //Ef-Ea=3kT
+Eav=0.045
+Efif=Ef/2-(Eav)-(Efa)    //The position of fermi level at the maximum doping
+Na=exp(Efif/kT)*ni
+printf('Maximum doping is %3.2f d per cm cube',Na)

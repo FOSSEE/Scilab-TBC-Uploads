@@ -1,4 +1,4 @@
-//CAPTION: Current_of_a_JFET
+
 //chapter_no.-6,  page_no.-233
 //Example_no.6-1-2
 

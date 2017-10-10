@@ -6,5 +6,5 @@ dl_Hsub=25.9
 H=25.5               //((1/2)H)I_2
 I=118.4
 U=-165.4
-E=dl_Hf-dl_Hsub-I_2-I-U
+E=dl_Hf-dl_Hsub-H-I-U
 disp(E,'Electron affinity of iodine(kCal/mol)')

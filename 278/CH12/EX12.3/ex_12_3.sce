@@ -1,5 +1,4 @@
-//desing joint
-clc
+
 //solution
 //given
 P=50*10^3//N

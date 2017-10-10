@@ -1,4 +1,4 @@
-//design cast iron
+
 clc
 //soltuion
 //given

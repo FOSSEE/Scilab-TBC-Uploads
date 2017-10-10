@@ -1,0 +1,183 @@
+16#Power Electronic Applications#16.9#Determine the value of coupling capacitor verfiy if the value is acceptable or not If not then determine the new value#Ex16_9.sce#3311/CH16/EX16.9/Ex16_9.sce#S##113572
+16#Power Electronic Applications#16.8#Determine turn ratio of demagnetizing winding with primary winding switch voltagae rating and dc supply current#Ex16_8.sce#3311/CH16/EX16.8/Ex16_8.sce#S##113571
+16#Power Electronic Applications#16.7#Determine average input power and current ratings of the trasistor primary winding indutance and number of turns and ratings of the diode#Ex16_7.sce#3311/CH16/EX16.7/Ex16_7.sce#S##113570
+16#Power Electronic Applications#16.6#Determine maximum duty cycle and flyback convertor turns ratio#Ex16_6.sce#3311/CH16/EX16.6/Ex16_6.sce#S##113569
+16#Power Electronic Applications#16.5#Calculate back up time and charger peak output power#Ex16_5.sce#3311/CH16/EX16.5/Ex16_5.sce#S##113568
+16#Power Electronic Applications#16.4#Determine dc supply voltage and charging current#Ex16_4.sce#3311/CH16/EX16.4/Ex16_4.sce#S##113567
+16#Power Electronic Applications#16.3#Determine AH efficiency and WH efficiency#Ex16_3.sce#3311/CH16/EX16.3/Ex16_3.sce#S##113566
+16#Power Electronic Applications#16.2#Select a suitable battery#Ex16_2.sce#3311/CH16/EX16.2/Ex16_2.sce#S##113565
+16#Power Electronic Applications#16.16#What will be the firing angle and output power available#Ex16_16.sce#3311/CH16/EX16.16/Ex16_16.sce#S##113579
+16#Power Electronic Applications#16.15#Calculate the value of load resistance commutating capacitor and resistance connected in series#Ex16_15.sce#3311/CH16/EX16.15/Ex16_15.sce#S##113578
+16#Power Electronic Applications#16.14#Determine supply frequency#Ex16_14.sce#3311/CH16/EX16.14/Ex16_14.sce#S##113577
+16#Power Electronic Applications#16.13#Determine voltage and current#Ex16_13.sce#3311/CH16/EX16.13/Ex16_13.sce#S##113576
+16#Power Electronic Applications#16.12#Determine supply frequency#Ex16_12.sce#3311/CH16/EX16.12/Ex16_12.sce#S##113575
+16#Power Electronic Applications#16.11#Determine depth of heating and heat generated per unit surface area#Ex16_11.sce#3311/CH16/EX16.11/Ex16_11.sce#S##113574
+16#Power Electronic Applications#16.10#Determine rms current and peak reverse voltage#Ex16_10.sce#3311/CH16/EX16.10/Ex16_10.sce#S##113573
+16#Power Electronic Applications#16.1#Determine kVA rating of invertor Wattage of the rectifier and AH rating of  battery#Ex16_1.sce#3311/CH16/EX16.1/Ex16_1.sce#S##113564
+15#Control of A C Drives#15.3#Determine the input voltage armature current excitation voltage torque angle and pull out torque#Ex15_3.sce#3311/CH15/EX15.3/Ex15_3.sce#S##113563
+15#Control of A C Drives#15.2#Determine the angle of firing advance in different cases voltage ratio and power flow#Ex15_2.sce#3311/CH15/EX15.2/Ex15_2.sce#S##113562
+15#Control of A C Drives#15.1#Determine the new value of torque developed by motor#Ex15_1.sce#3311/CH15/EX15.1/Ex15_1.sce#S##113561
+14#Control of D C Drives#14.9#Determine motor torque motor current and supply power factor#Ex14_9.sce#3311/CH14/EX14.9/Ex14_9.sce#S##113557
+14#Control of D C Drives#14.8#Determine no load speeds firing angle supply power factor and the speed regulation#Ex14_8.sce#3311/CH14/EX14.8/Ex14_8.sce#S##113556
+14#Control of D C Drives#14.7#Determine the triggering angle of the convertor #Ex14_7.sce#3311/CH14/EX14.7/Ex14_7.sce#S##113555
+14#Control of D C Drives#14.6#Determine the motor speed#Ex14_6.sce#3311/CH14/EX14.6/Ex14_6.sce#S##113554
+14#Control of D C Drives#14.5#What should be firing angle different speeds and calculate the motor speed#Ex14_5.sce#3311/CH14/EX14.5/Ex14_5.sce#S##113553
+14#Control of D C Drives#14.4#Determine motor torque speed of the motor supply power factor firing angle and power fed back to the supply#Ex14_4.sce#3311/CH14/EX14.4/Ex14_4.sce#S##113552
+14#Control of D C Drives#14.3#Compute the field current firing angle of the convertor and the input power factor#Ex14_3.sce#3311/CH14/EX14.3/Ex14_3.sce#S##113551
+14#Control of D C Drives#14.2#Compute the speed at which motor can hold the load by regenerative braking#Ex14_2.sce#3311/CH14/EX14.2/Ex14_2.sce#S##113550
+14#Control of D C Drives#14.12#Determine the range of frequencies of the chopper#Ex14_12.sce#3311/CH14/EX14.12/Ex14_12.sce#S##113560
+14#Control of D C Drives#14.11#Determine the firing angle power factor active power and reactive power at rated speed and its 10  and their ratio#Ex14_11.sce#3311/CH14/EX14.11/Ex14_11.sce#S##113559
+14#Control of D C Drives#14.10#Determine the firing angle of the armature convertor speed of the motor and firing angle of the field convertor#Ex14_10.sce#3311/CH14/EX14.10/Ex14_10.sce#S##113558
+14#Control of D C Drives#14.1#Determine motor terminal voltage and the value of flux as a percentage of rated flux#Ex14_1.sce#3311/CH14/EX14.1/Ex14_1.sce#S##113549
+13#Protection and Cooling of Power Switching Devices#13.9#Compute the required fusing time#Ex13_9.sce#3311/CH13/EX13.9/Ex13_9.sce#S##113439
+13#Protection and Cooling of Power Switching Devices#13.8#Calculate the peak value of the fault current#Ex13_8.sce#3311/CH13/EX13.8/Ex13_8.sce#S##113438
+13#Protection and Cooling of Power Switching Devices#13.7#Design a suitable circuit#Ex13_7.sce#3311/CH13/EX13.7/Ex13_7.sce#S##113437
+13#Protection and Cooling of Power Switching Devices#13.6#Design a suitable selenium voltage protection circuit and compute energy dissipated per plate#Ex13_6.sce#3311/CH13/EX13.6/Ex13_6.sce#S##113436
+13#Protection and Cooling of Power Switching Devices#13.5#Determine the snubber component values for critical damping value of R and power loss#Ex13_5.sce#3311/CH13/EX13.5/Ex13_5.sce#S##113435
+13#Protection and Cooling of Power Switching Devices#13.4#Compute initial capacitor voltage magnetizing current and capacitor value to limit the transient capacitor voltage#Ex13_4.sce#3311/CH13/EX13.4/Ex13_4.sce#S##113434
+13#Protection and Cooling of Power Switching Devices#13.3#Design a snubber circuit#Ex13_3.sce#3311/CH13/EX13.3/Ex13_3.sce#S##113433
+13#Protection and Cooling of Power Switching Devices#13.2#Compute the required parameters snubber circuit#Ex13_2.sce#3311/CH13/EX13.2/Ex13_2.sce#S##113432
+13#Protection and Cooling of Power Switching Devices#13.18#Determine the maximum power disspation#Ex13_18.sce#3311/CH13/EX13.18/Ex13_18.sce#S##113548
+13#Protection and Cooling of Power Switching Devices#13.17#Determine the thermal resistance of the heat sink#Ex13_17.sce#3311/CH13/EX13.17/Ex13_17.sce#S##113547
+13#Protection and Cooling of Power Switching Devices#13.16#Determine the heat sink required#Ex13_16.sce#3311/CH13/EX13.16/Ex13_16.sce#S##113546
+13#Protection and Cooling of Power Switching Devices#13.15#Plot instantaneous junction temperature#Ex13_15.sce#3311/CH13/EX13.15/Ex13_15.sce#S##113545
+13#Protection and Cooling of Power Switching Devices#13.14#Determine total average power loss and percentage increase in deivce rating#Ex13_14.sce#3311/CH13/EX13.14/Ex13_14.sce#S##113544
+13#Protection and Cooling of Power Switching Devices#13.13#Determine junction temperature#Ex13_13.sce#3311/CH13/EX13.13/Ex13_13.sce#S##113543
+13#Protection and Cooling of Power Switching Devices#13.12#Determine the value of thermal resistance heat sink and temperature at base#Ex13_12.sce#3311/CH13/EX13.12/Ex13_12.sce#S##113542
+13#Protection and Cooling of Power Switching Devices#13.11#Compute the values of RF filter components#Ex13_11.sce#3311/CH13/EX13.11/Ex13_11.sce#S##113441
+13#Protection and Cooling of Power Switching Devices#13.10#What is the minimum value of load inductance and what will be the new value of L#Ex13_10.sce#3311/CH13/EX13.10/Ex13_10.sce#S##113440
+13#Protection and Cooling of Power Switching Devices#13.1#Compute the values of di dt inductor and the snubber circuit component Rs and Cs#Ex13_1.sce#3311/CH13/EX13.1/Ex13_1.sce#S##113431
+12#Resonant Convertors#12.7#Design a ZVS three level PWM convertor#Ex12_7.sce#3311/CH12/EX12.7/Ex12_7.sce#S##113430
+12#Resonant Convertors#12.6#Determine values of resonant components Lr and Cr peak voltage rating of the resonant capacitor and charging and discharging period of capcaitor#Ex12_6.sce#3311/CH12/EX12.6/Ex12_6.sce#S##113429
+12#Resonant Convertors#12.5#Determine values of resonant components Lr and Cr peak switching current peak voltage rating of the resonant capacitor#Ex12_5.sce#3311/CH12/EX12.5/Ex12_5.sce#S##113428
+12#Resonant Convertors#12.4#Design E class resonant invertor#Ex12_4.sce#3311/CH12/EX12.4/Ex12_4.sce#S##113427
+12#Resonant Convertors#12.3#Determine resonant frequency maximum operating frequency Peak thyristor current  average thyristor current rms thyristor current rms load current and average supply current#Ex12_3.sce#3311/CH12/EX12.3/Ex12_3.sce#S##113426
+12#Resonant Convertors#12.2#Determine resonant frequency maximum operating frequency Peak thyristor current average thyristor current rms thyristor current rms load current and average supply current#Ex12_2.sce#3311/CH12/EX12.2/Ex12_2.sce#S##113425
+12#Resonant Convertors#12.1#Determine circuit turn off time maximum possible output frequency capacitor voltage rms load current output power and average and rms SCR currents#Ex12_1.sce#3311/CH12/EX12.1/Ex12_1.sce#S##113424
+11#A C Regulators#11.7#Determine required ratings of triacs and thyrstors#Ex11_7.sce#3311/CH11/EX11.7/Ex11_7.sce#S##113541
+11#A C Regulators#11.6#Determine rms output phase voltage input power factor#Ex11_6.sce#3311/CH11/EX11.6/Ex11_6.sce#S##113540
+11#A C Regulators#11.5#Determine rms current of tyristor T1 and T2 rms current of Thyristor T3 and T4 and input power factor#Ex11_5.sce#3311/CH11/EX11.5/Ex11_5.sce#S##113539
+11#A C Regulators#11.4#Plot a curve of load power against firing delay angle and determine required thyristor rating#Ex11_4.sce#3311/CH11/EX11.4/Ex11_4.sce#S##113538
+11#A C Regulators#11.3#Determine various parameters#Ex11_3.sce#3311/CH11/EX11.3/Ex11_3.sce#S##113537
+11#A C Regulators#11.2#Determine rms value of output voltage input power factor and average input current#Ex11_2.sce#3311/CH11/EX11.2/Ex11_2.sce#S##113536
+11#A C Regulators#11.1#Determine various parameters#Ex11_1.sce#3311/CH11/EX11.1/Ex11_1.sce#S##113535
+10#Cycloconverters#10.5#Determine the input current to the convertors#Ex10_5.sce#3311/CH10/EX10.5/Ex10_5.sce#S##113423
+10#Cycloconverters#10.4#Determine the value of fundamental rms output voltage rms output current and output power#Ex10_4.sce#3311/CH10/EX10.4/Ex10_4.sce#S##113422
+10#Cycloconverters#10.3#Determine the value of fundamental rms output voltage rms output current and output power#Ex10_3.sce#3311/CH10/EX10.3/Ex10_3.sce#S##113421
+10#Cycloconverters#10.2#Estimate peak and rms value of load voltage#Ex10_2.sce#3311/CH10/EX10.2/Ex10_2.sce#S##113420
+10#Cycloconverters#10.1#Determine required supply voltage thyristor rating and power factor of the supply current#Ex10_1.sce#3311/CH10/EX10.1/Ex10_1.sce#S##113419
+9#Inverters#9.9#What should be te amplitude of modulation index#Ex9_9.sce#3311/CH9/EX9.9/Ex9_9.sce#S##113403
+9#Inverters#9.8#Compute Total rms output voltage fundamental output voltage DF and HF and gain of the invertor#Ex9_8.sce#3311/CH9/EX9.8/Ex9_8.sce#S##113402
+9#Inverters#9.7#Compute DC and switch voltage ratings#Ex9_7.sce#3311/CH9/EX9.7/Ex9_7.sce#S##113401
+9#Inverters#9.6#Determine carrier ratio and the number of pulses per cycle Fundamental output voltage DF and HF of the output voltage and the order of first five significant harmonics#Ex9_6.sce#3311/CH9/EX9.6/Ex9_6.sce#S##113400
+9#Inverters#9.5#Determine transistor ratings THD DF and HF and DF of the lowest order harmonic#Ex9_5.sce#3311/CH9/EX9.5/Ex9_5.sce#S##113399
+9#Inverters#9.4#Determine IGBT ratings THD DF and HF and DF of the lowest order harmonic#Ex9_4.sce#3311/CH9/EX9.4/Ex9_4.sce#S##113398
+9#Inverters#9.3#Determine rms load current at fundamental frequency rms value of load current power output and average supply current#Ex9_3.sce#3311/CH9/EX9.3/Ex9_3.sce#S##113397
+9#Inverters#9.29#Design a 400 Hz parallel invertor#Ex9_29.sce#3311/CH9/EX9.29/Ex9_29.sce#S##113418
+9#Inverters#9.28#Design an OTT filter#Ex9_28.sce#3311/CH9/EX9.28/Ex9_28.sce#S##113417
+9#Inverters#9.27#Determine commutating capacitor load current Fcritical and Rcritical#Ex9_27.sce#3311/CH9/EX9.27/Ex9_27.sce#S##113416
+9#Inverters#9.26#Find the rms load current load power and thyristor ratings#Ex9_26.sce#3311/CH9/EX9.26/Ex9_26.sce#S##113415
+9#Inverters#9.25#Obtain the value of commutating components and the value of resistance#Ex9_25.sce#3311/CH9/EX9.25/Ex9_25.sce#S##113414
+9#Inverters#9.24#Obtain the value of commutating components L and C#Ex9_24.sce#3311/CH9/EX9.24/Ex9_24.sce#S##113413
+9#Inverters#9.23#What value of C should the load have in order to obtain load commutation of SCR#Ex9_23.sce#3311/CH9/EX9.23/Ex9_23.sce#S##113412
+9#Inverters#9.22#Calculate rms output voltage at fundamental frequency output power average and peak current and peak reverse blocking voltage#Ex9_22.sce#3311/CH9/EX9.22/Ex9_22.sce#S##113411
+9#Inverters#9.21#Calculate rms output voltage at fundamental frequency output power average and peak current and peak reverse blocking voltage#Ex9_21.sce#3311/CH9/EX9.21/Ex9_21.sce#S##113410
+9#Inverters#9.20#Design a parallel invertor#Ex9_20.sce#3311/CH9/EX9.20/Ex9_20.sce#S##113409
+9#Inverters#9.2#Compute fundamental output voltage first five harmonics of the output voltage rms value by direct integration and harmonic summation method output rms and fundamental power  and transistor switch ratings#Ex9_2.sce#3311/CH9/EX9.2/Ex9_2.sce#S##113396
+9#Inverters#9.19#Design a self commutated invertor circuit and compute output power#Ex9_19.sce#3311/CH9/EX9.19/Ex9_19.sce#S##113408
+9#Inverters#9.18#Design a series invertor circuit#Ex9_18.sce#3311/CH9/EX9.18/Ex9_18.sce#S##113407
+9#Inverters#9.17#Determine dc voltage rms line and phase voltages and Device voltage ratings#Ex9_17.sce#3311/CH9/EX9.17/Ex9_17.sce#S##113406
+9#Inverters#9.14#Determine various parameters#Ex9_14.sce#3311/CH9/EX9.14/Ex9_14.sce#S##113534
+9#Inverters#9.12#Determine rms value of the output line and phase voltages rms value of the fundamental component of the line and phase voltage#Ex9_12.sce#3311/CH9/EX9.12/Ex9_12.sce#S##113405
+9#Inverters#9.10#Determine fundamental output voltage and first five dominant harmonics#Ex9_10.sce#3311/CH9/EX9.10/Ex9_10.sce#S##113404
+9#Inverters#9.1#Compute rms value of output voltage fundamental component of the output voltage waveform first five harmonics of the output voltage fundamental power consumed rms power consumed rms value by harmonic summation method#Ex9_1.sce#3311/CH9/EX9.1/Ex9_1.sce#S##113395
+8#Choppers#8.9#Find the chopping frequency#Ex8_9.sce#3311/CH8/EX8.9/Ex8_9.sce#S##113375
+8#Choppers#8.8#Calculate the mean values of load voltage and current#Ex8_8.sce#3311/CH8/EX8.8/Ex8_8.sce#S##113374
+8#Choppers#8.7#Compute following quantities#Ex8_7.sce#3311/CH8/EX8.7/Ex8_7.sce#S##113373
+8#Choppers#8.6#Calculate limit of current pulsation chopping frequency duty cycle and output voltage#Ex8_6.sce#3311/CH8/EX8.6/Ex8_6.sce#S##113372
+8#Choppers#8.5#Calculate the conduction and blocking period of the thyristor#Ex8_5.sce#3311/CH8/EX8.5/Ex8_5.sce#S##113371
+8#Choppers#8.4#Calculate the required pulse width#Ex8_4.sce#3311/CH8/EX8.4/Ex8_4.sce#S##113370
+8#Choppers#8.3#Determine average and rms output voltage chopper efficiency and effective input resistance#Ex8_3.sce#3311/CH8/EX8.3/Ex8_3.sce#S##113369
+8#Choppers#8.28#Compute average output voltage average input current peak to peak current of the inductors peak to peak output ripple voltages and peak current of the device#Ex8_28.sce#3311/CH8/EX8.28/Ex8_28.sce#S##113394
+8#Choppers#8.27#Determine range of duty cycle peak to peak choke ripple current and average supply current#Ex8_27.sce#3311/CH8/EX8.27/Ex8_27.sce#S##113393
+8#Choppers#8.26#Compute average output voltage  peak to peak output ripple voltage peak to peak current of the inductor and peak current of the device#Ex8_26.sce#3311/CH8/EX8.26/Ex8_26.sce#S##113392
+8#Choppers#8.25#Determine duty cycle ripple and peak current of inductor ripple voltage#Ex8_25.sce#3311/CH8/EX8.25/Ex8_25.sce#S##113391
+8#Choppers#8.24#Determine maximum ON period of MOSFET Battery drain current and the value of choke required#Ex8_24.sce#3311/CH8/EX8.24/Ex8_24.sce#S##113390
+8#Choppers#8.23#Find duty cycle filter inductance and filter capacitance#Ex8_23.sce#3311/CH8/EX8.23/Ex8_23.sce#S##113389
+8#Choppers#8.22#Design the jones chopper#Ex8_22.sce#3311/CH8/EX8.22/Ex8_22.sce#S##113388
+8#Choppers#8.21#Compute the inductance steady state speed and current swing#Ex8_21.sce#3311/CH8/EX8.21/Ex8_21.sce#S##113387
+8#Choppers#8.20#Compute the value of commutating capacitance and transformer inductances#Ex8_20.sce#3311/CH8/EX8.20/Ex8_20.sce#S##113386
+8#Choppers#8.19#Compute the value of commutating capacitance average output voltage circuit off time total commutation interval#Ex8_19.sce#3311/CH8/EX8.19/Ex8_19.sce#S##113385
+8#Choppers#8.18#Compute the value of commutating capacitor and inductor Maximum capacitor voltage and peak commutating current#Ex8_18.sce#3311/CH8/EX8.18/Ex8_18.sce#S##113384
+8#Choppers#8.17#Compute the value of commutating capacitor and inductor#Ex8_17.sce#3311/CH8/EX8.17/Ex8_17.sce#S##113383
+8#Choppers#8.16#Determine duty cycle of chopper#Ex8_16.sce#3311/CH8/EX8.16/Ex8_16.sce#S##113382
+8#Choppers#8.15#Determine duty cycle for motoring regenerating mode and to achieve regenerating mode power returned and switching frequency#Ex8_15.sce#3311/CH8/EX8.15/Ex8_15.sce#S##113381
+8#Choppers#8.14#Determine duty cycle for motoring regenerating mode and to achieve regenerating mode and poweer returned#Ex8_14.sce#3311/CH8/EX8.14/Ex8_14.sce#S##113380
+8#Choppers#8.13#Determine average and rms output voltage and form and ripple factor#Ex8_13.sce#3311/CH8/EX8.13/Ex8_13.sce#S##113379
+8#Choppers#8.12#Determine the ON time of the chopper#Ex8_12.sce#3311/CH8/EX8.12/Ex8_12.sce#S##113378
+8#Choppers#8.11#Compute the current in the motor#Ex8_11.sce#3311/CH8/EX8.11/Ex8_11.sce#S##113377
+8#Choppers#8.10#Find the on period average load current magnitude of ripple current and its rms value#Ex8_10.sce#3311/CH8/EX8.10/Ex8_10.sce#S##113376
+8#Choppers#8.1#Determine time ratio of the chopper#Ex8_1.sce#3311/CH8/EX8.1/Ex8_1.sce#S##113368
+7#Dual Converters#7.2#Design dual convertor#Ex7_2.sce#3311/CH7/EX7.2/Ex7_2.sce#S##113367
+7#Dual Converters#7.1#Compute the peak value of circulating current#Ex7_1.sce#3311/CH7/EX7.1/Ex7_1.sce#S##113366
+6#Phase Controlled Convertors#6.9#Find average output current and power delivered#Ex6_9.sce#3311/CH6/EX6.9/Ex6_9.sce#S##113344
+6#Phase Controlled Convertors#6.8#Determine firing angle output current and thyristor current#Ex6_8.sce#3311/CH6/EX6.8/Ex6_8.sce#S##113343
+6#Phase Controlled Convertors#6.7#Determine the firing angle#Ex6_7.sce#3311/CH6/EX6.7/Ex6_7.sce#S##113342
+6#Phase Controlled Convertors#6.6#Determine variuos parameters#Ex6_6.sce#3311/CH6/EX6.6/Ex6_6.sce#S##114455
+6#Phase Controlled Convertors#6.5#Determine design details#Ex6_5.sce#3311/CH6/EX6.5/Ex6_5.sce#S##113340
+6#Phase Controlled Convertors#6.4#Determine average current power supplied and dissipated and power factor#Ex6_4.sce#3311/CH6/EX6.4/Ex6_4.sce#S##113339
+6#Phase Controlled Convertors#6.36#Calculate various parameters#Ex6_36.sce#3311/CH6/EX6.36/Ex6_36.sce#S##113365
+6#Phase Controlled Convertors#6.35#Calculate reducation in dc output voltage and overlap angle#Ex6_35.sce#3311/CH6/EX6.35/Ex6_35.sce#S##113364
+6#Phase Controlled Convertors#6.34#Calculate delay angle power delivered and fundamental reactive power#Ex6_34.sce#3311/CH6/EX6.34/Ex6_34.sce#S##113363
+6#Phase Controlled Convertors#6.33#Design the 3 phase bridge convertor#Ex6_33.sce#3311/CH6/EX6.33/Ex6_33.sce#S##113362
+6#Phase Controlled Convertors#6.32#Compute the firing angle and overlap angle#Ex6_32.sce#3311/CH6/EX6.32/Ex6_32.sce#S##113361
+6#Phase Controlled Convertors#6.30#Compute the average generator voltage#Ex6_30.sce#3311/CH6/EX6.30/Ex6_30.sce#S##113360
+6#Phase Controlled Convertors#6.3#Determine various parameters#Ex6_3.sce#3311/CH6/EX6.3/Ex6_3.sce#S##113338
+6#Phase Controlled Convertors#6.29#Compute the average load voltage#Ex6_29.sce#3311/CH6/EX6.29/Ex6_29.sce#S##113359
+6#Phase Controlled Convertors#6.28#Compute source inductance load resistance and overlap angle#Ex6_28.sce#3311/CH6/EX6.28/Ex6_28.sce#S##113358
+6#Phase Controlled Convertors#6.27#Find the mean voltage at the load#Ex6_27.sce#3311/CH6/EX6.27/Ex6_27.sce#S##113357
+6#Phase Controlled Convertors#6.26#Determine overlap angles#Ex6_26.sce#3311/CH6/EX6.26/Ex6_26.sce#S##113356
+6#Phase Controlled Convertors#6.25#Determine DPF DF HF and PF#Ex6_25.sce#3311/CH6/EX6.25/Ex6_25.sce#S##113355
+6#Phase Controlled Convertors#6.24#Determine various parameters#Ex6_24.sce#3311/CH6/EX6.24/Ex6_24.sce#S##113354
+6#Phase Controlled Convertors#6.23#Plot average voltage and load voltage#Ex6_23.sce#3311/CH6/EX6.23/Ex6_23.sce#S##113533
+6#Phase Controlled Convertors#6.22#Determine the minimum width of gate pulse#Ex6_22.sce#3311/CH6/EX6.22/Ex6_22.sce#S##113353
+6#Phase Controlled Convertors#6.21#Determine average voltage#Ex6_21.sce#3311/CH6/EX6.21/Ex6_21.sce#S##113532
+6#Phase Controlled Convertors#6.20#Determine fundamental and various harmonics for various angle#Ex6_20.sce#3311/CH6/EX6.20/Ex6_20.sce#S##113531
+6#Phase Controlled Convertors#6.2#Determine the heater power#Ex6_2.sce#3311/CH6/EX6.2/Ex6_2.sce#S##113337
+6#Phase Controlled Convertors#6.19#Find out SCR rating#Ex6_19.sce#3311/CH6/EX6.19/Ex6_19.sce#S##113352
+6#Phase Controlled Convertors#6.17#Calculate firing angle and supply power factor#Ex6_17.sce#3311/CH6/EX6.17/Ex6_17.sce#S##113351
+6#Phase Controlled Convertors#6.15#Determine various parameters#Ex6_15.sce#3311/CH6/EX6.15/Ex6_15.sce#S##113350
+6#Phase Controlled Convertors#6.14#Calculate thyristor current ratings#Ex6_14.sce#3311/CH6/EX6.14/Ex6_14.sce#S##113349
+6#Phase Controlled Convertors#6.13#Determine average load voltage current PIV and power dssipation#Ex6_13.sce#3311/CH6/EX6.13/Ex6_13.sce#S##113348
+6#Phase Controlled Convertors#6.12#Determine average output voltage#Ex6_12.sce#3311/CH6/EX6.12/Ex6_12.sce#S##113347
+6#Phase Controlled Convertors#6.11#Find displacement factor harmonic factor and input power factor#Ex6_11.sce#3311/CH6/EX6.11/Ex6_11.sce#S##113346
+6#Phase Controlled Convertors#6.10#Determine various parameters#Ex6_10.sce#3311/CH6/EX6.10/Ex6_10.sce#S##113345
+5#Power Semiconductor Devices#5.8#Determine avg load current and power losses#Ex5_8.sce#3311/CH5/EX5.8/Ex5_8.sce#S##113336
+5#Power Semiconductor Devices#5.7#Calculate the total power loss#Ex5_7.sce#3311/CH5/EX5.7/Ex5_7.sce#S##113335
+5#Power Semiconductor Devices#5.6#Determine power loss#Ex5_6.sce#3311/CH5/EX5.6/Ex5_6.sce#S##113334
+5#Power Semiconductor Devices#5.5#Calculate the rise time of driving waveform#Ex5_5.sce#3311/CH5/EX5.5/Ex5_5.sce#S##113333
+5#Power Semiconductor Devices#5.4#Determine the power dissipated by each MOSFET#Ex5_4.sce#3311/CH5/EX5.4/Ex5_4.sce#S##113332
+5#Power Semiconductor Devices#5.3#Determine series resistance and safe highest frequency#Ex5_3.sce#3311/CH5/EX5.3/Ex5_3.sce#S##113331
+5#Power Semiconductor Devices#5.2#Compute the drain current and differnces in current sharing#Ex5_2.sce#3311/CH5/EX5.2/Ex5_2.sce#S##113330
+5#Power Semiconductor Devices#5.1#What will be the maximum and minimum firing angle#Ex5_1.sce#3311/CH5/EX5.1/Ex5_1.sce#S##113329
+4#Series and Parallel Operation of Thyristors#4.5#Determine the current taken by each SCR and value of equal resistors#Ex4_5.sce#3311/CH4/EX4.5/Ex4_5.sce#S##113444
+4#Series and Parallel Operation of Thyristors#4.4#Calculate the number of thyristors#Ex4_4.sce#3311/CH4/EX4.4/Ex4_4.sce#S##113328
+4#Series and Parallel Operation of Thyristors#4.3#Calculate the number of thyristors and value of resistance and capacitance#Ex4_3.sce#3311/CH4/EX4.3/Ex4_3.sce#S##113327
+4#Series and Parallel Operation of Thyristors#4.2#Calculate the series resistance#Ex4_2.sce#3311/CH4/EX4.2/Ex4_2.sce#S##113326
+4#Series and Parallel Operation of Thyristors#4.1#Calculate the value of R and C#Ex4_1.sce#3311/CH4/EX4.1/Ex4_1.sce#S##113325
+3#Gate Triggering Circuits#3.5#Design free running UJT relaxation oscillator#Ex3_5.sce#3311/CH3/EX3.5/Ex3_5.sce#S##113324
+3#Gate Triggering Circuits#3.3#Design UJT relaxation oscillator#Ex3_3.sce#3311/CH3/EX3.3/Ex3_3.sce#S##113323
+3#Gate Triggering Circuits#3.2#Determine the value of Vee#Ex3_2.sce#3311/CH3/EX3.2/Ex3_2.sce#S##113322
+3#Gate Triggering Circuits#3.1#Determine the trigger angle#Ex3_1.sce#3311/CH3/EX3.1/Ex3_1.sce#S##113321
+2#Thyristors Principles and Characteristics#2.9#Calculate the value of commutating capacitance#Ex2_9.sce#3311/CH2/EX2.9/Ex2_9.sce#S##113317
+2#Thyristors Principles and Characteristics#2.8#Calculate the resistance gate power dissipation and maximum triggering frequency#Ex2_8.sce#3311/CH2/EX2.8/Ex2_8.sce#S##113316
+2#Thyristors Principles and Characteristics#2.7# Compute the peak inverse voltage#Ex2_7.sce#3311/CH2/EX2.7/Ex2_7.sce#S##113315
+2#Thyristors Principles and Characteristics#2.6#Calculate the mean power loss#Ex2_6.sce#3311/CH2/EX2.6/Ex2_6.sce#S##113314
+2#Thyristors Principles and Characteristics#2.5#Calculate the required gate resistance source#Ex2_5.sce#3311/CH2/EX2.5/Ex2_5.sce#S##113313
+2#Thyristors Principles and Characteristics#2.4#Find the value of series resistor and average power#Ex2_4.sce#3311/CH2/EX2.4/Ex2_4.sce#S##113443
+2#Thyristors Principles and Characteristics#2.3#Compute average power loss#Ex2_3.sce#3311/CH2/EX2.3/Ex2_3.sce#S##113312
+2#Thyristors Principles and Characteristics#2.2#Obtain the minimum gating pulse#Ex2_2.sce#3311/CH2/EX2.2/Ex2_2.sce#S##113311
+2#Thyristors Principles and Characteristics#2.12#Calculate one cycle surge current rating#Ex2_12.sce#3311/CH2/EX2.12/Ex2_12.sce#S##113320
+2#Thyristors Principles and Characteristics#2.11#Calculate shortest fault clearance time#Ex2_11.sce#3311/CH2/EX2.11/Ex2_11.sce#S##113319
+2#Thyristors Principles and Characteristics#2.10#Compute the value of commutating capacitance and inductance#Ex2_10.sce#3311/CH2/EX2.10/Ex2_10.sce#S##113318
+2#Thyristors Principles and Characteristics#2.1#Will the thyristor get fired#Ex2_1.sce#3311/CH2/EX2.1/Ex2_1.sce#S##113442

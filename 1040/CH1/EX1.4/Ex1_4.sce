@@ -101,7 +101,7 @@ mfprintf(fid,'\n%f \t %f \t %f ',L(i+1),T(i+1),x(i+1))
 mfprintf(fid,'\t %f \t %f \t %f',T_avg(i),P_molavg(i),k_2(i))
 end
 mfprintf(fid,'\n\nThe activation energy from the slope =%f kcal/mol',E2 );
-mclose(all);
+close;
 
 //============================================================END OF PROGRAM===========================================
 //Disclaimer (Ex1.4.a):The last value of tavg and k_1  corresponding to L=9 in Table 1.6 (Pg No. 25)of the textbook is a misprint.
@@ -114,5 +114,3 @@ mclose(all);
 // Error could have been on similar lines as reported for example Ex.1.4.a 
 // Further, intermeidate values for Ex.1.4.b is not available/ reported in textbook and hence could not be compared. 
 //Figure 1.8 is a plot between ln k_2 vs 1000/T instead of k_2 vs 1000/T as stated in the solution of Ex1.4.b
-
-

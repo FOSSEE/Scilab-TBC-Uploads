@@ -32,7 +32,7 @@ h1=hf100kPa+x1*hfg100kPa
 //Volume of vessel(in m^3):
 V=m1*x1*v1
 //Internal energy in the beginning(in kJ):
-U1=m*(uf100kPa+x1*ufg100kPa)
+U1=m1*(uf100kPa+x1*ufg100kPa)
 //Final specific volume(in m^3/kg):
 v2=vg2000kPa*v1/(vg2000kPa+v1)
 //Final dryness fraction:

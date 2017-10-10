@@ -1,5 +1,5 @@
 
-//Caption:Program to determine the implementaton complexity of a 2048 channel
+
  
 //Example 5.3
  

@@ -1,4 +1,4 @@
-//CAPTION: Current-Voltage_Characteristics_Of_a_GaAs_MESFET
+
 //chapter_no.-6,  page_no.-244
 //Example_no.6-2-2
 

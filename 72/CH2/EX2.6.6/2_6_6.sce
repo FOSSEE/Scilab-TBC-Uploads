@@ -1,4 +1,4 @@
-//Caption:Computation_of_a_copper_film_coating  
+
 //chapter_no.-1,  page_no.-74                                        
 //Example No.-2-6-6 
 clc;              

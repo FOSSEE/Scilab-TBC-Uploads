@@ -5,6 +5,7 @@ sumy = 0;
 sumx = 0;
 m = 2;
 n = 6;
+s = 1.12;
 xsqsum = 0;
 xcsum = 0;
 x4sum = 0;

@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 57
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 57");
 
@@ -25,9 +26,9 @@ I2=v2/r3;
 
 I_tot=I1+I2;
 if(I_tot>0)
-disp(sprintf("The value of I is %.2f A (upward)",I_tot));
+disp(sprintf("The value of I is %f A (upward)",I_tot));
 else
-disp(sprintf("The value of I is %.2f A (downward)",-I_tot));
+disp(sprintf("The value of I is %f A (downward)",-I_tot));
 
 //END
 

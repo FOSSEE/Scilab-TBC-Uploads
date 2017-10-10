@@ -12,7 +12,7 @@ IL2=(Vs/(RL2+Rs))
 per_var_cur=((IL1-IL2)/IL1)*100
 printf("\n Percentage variation in current = %.2f %%\n",per_var_cur)//answer in the text book took a .3 decimal round off value
 disp("   Now,load voltage for the two extreme values of R_L are")
-VL1=IL1*RL
+VL1=IL1*RL1
 VL2=IL2*RL2
 per_var_vol=((VL2-VL1)/VL2)*100
 printf("\n Percentage variation in current = %.2f %%\n",per_var_vol)

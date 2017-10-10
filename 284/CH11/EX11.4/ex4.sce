@@ -1,6 +1,8 @@
 // Chapter 11_ Metal-Oxide-Semiconductor Field Effect Transistor:Additional Concepts
 //Caption_Breakdown voltage
 //Ex_4//page 527
+eps=11.7*8.85*10^-14
+e=1.6*10^-19;
 Nd=10^19    //donor concentration
 Na=10^16    //acceptor concentration
 L=1.2*10^-4     //channel length

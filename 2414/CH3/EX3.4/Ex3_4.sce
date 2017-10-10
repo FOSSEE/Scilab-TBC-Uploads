@@ -1,5 +1,5 @@
 clc;
-clear all;
+clear;
 //chapter 3
 //page no 85
 //example 3.4

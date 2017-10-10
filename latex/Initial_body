@@ -1,10 +1,14 @@
 \nonstopmode
 \documentclass[12pt]{report} 
 \usepackage{hyperref}
+\usepackage{bookmark}
 \hypersetup{colorlinks=true,linkcolor=blue}
 \usepackage{theorem,graphicx}
 \usepackage{listings,alltt}
+\usepackage[final]{pdfpages}
 \bibliographystyle{plain}
+\usepackage{tocloft}
+
 
 
 \lstset{ %configuring the display of scilab codes
@@ -41,7 +45,7 @@
 \makeatletter \newcommand\listofcode
      {\chapter*{List of Scilab Codes\markboth%
                         {\bf List of Scilab Codes}{}}%
-\renewcommand*\l@section{\@dottedtocline{1}{1.5em}{5em}}%
+\renewcommand*\l@section{\@dottedtocline{1}{5em}{6em}}%
 \addcontentsline{toc}{chapter}{\protect\numberline{List of Scilab Codes}}
 \@starttoc{cod}}
 \newcommand\l@matlab[3]

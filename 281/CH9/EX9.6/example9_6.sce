@@ -2,6 +2,7 @@ disp('chapter 9 ex9.6')
 disp('given')
 disp('design an astable multivibrator to have a+or-9volt output with frequency f=1kHz')
 disp('using BIFET op-amp for Vo=+or-9volt')
+f = 1000;
 Vo=9
 disp('Vcc=+or-(Vo+1)')
 Vcc=Vo+1

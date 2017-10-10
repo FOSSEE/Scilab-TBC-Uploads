@@ -16,12 +16,12 @@ N = N1+N2-1
 h1 = [h,zeros(1,8-N2)]
 x1 = [x,zeros(1,8-N1)]
 //Computing DFT 
-H = dft(h1,-1)
-X = dft(x1,-1)
+H = fft(h1,-1)
+X = fft(x1,-1)
 //Multiplication of 2 DFTs
 Y = X.*H
 //Linear Convolution Result
-y =abs(dft(Y,1))
+y =abs(fft(Y,1))
 for i =1:8
   if(abs(H(i))<0.0001)
     H(i) =0;

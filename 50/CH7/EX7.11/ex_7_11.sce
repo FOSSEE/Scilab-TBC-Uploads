@@ -9,7 +9,7 @@
 // 1) second order method;
  x=0:1/3:1;                                  
  
- u=[u0 u1 u2 u3 ];
+ u= rand(1,4);;
 // hence;
 disp('(u(j-1)-2*u(j)+u(j+1))/h^2=((u(j+1)-u(j-1))/2h)+1')           // for j=1,2;
 
@@ -28,5 +28,3 @@ u2=2.225019;
 
 disp(x);
 disp(u);
-
-

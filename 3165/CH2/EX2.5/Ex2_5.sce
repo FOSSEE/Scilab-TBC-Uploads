@@ -1,9 +1,0 @@
-//sinusoidal//
-clc;
-t=0:0.01:%pi;//input//
-y=sin(2*%pi*t);//output//
-subplot(2,1,1);
-plot(t,y);
-xlabel('a(n)');
-ylabel('amplitude');
-title('sinusoidal');

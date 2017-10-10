@@ -4,7 +4,7 @@
 //page439
 etta1 = 100;
 etta2 = 300; //intrinsic impedance in ohms
-T = reflection_coefficient(etta1,etta2);
+T = (etta2-etta1)/(etta1+etta2);
 Ex10_i = 100;//incident electric field in v/m
 Ex10_r = T*Ex10_i;//reflected electric field in v/m
 Hy10_i = Ex10_i/etta1;//incident magnetic field A/m
@@ -31,4 +31,4 @@ disp(St,'average power density transmitted in W/square metre St=')
 //reflected magnetic field A/m Hy10_r=     - 0.5  
 //average incident power density in W/square metre Si=   50.  
 //average reflected power denstiy in W/square metre Sr=  12.5  
-//average power density transmitted in W/square metre St=     37.5  
+//average power density transmitted in W/square metre St=     37.5

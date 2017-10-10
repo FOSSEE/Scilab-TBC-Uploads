@@ -25,7 +25,7 @@ rfk=sqrt((1-abs(Gopt)^2)*Qk+Qk^2)/(1+Qk) //circle radius
 
 //plot a noise circle
 a=[0:360]/180*%pi;
-set(gca(),"auto_clear","off");
+mtlb_hold on
 plot(real(dfk)+rfk*cos(a),imag(dfk)+rfk*sin(a),'b','linewidth',2);
 
 // plot optimal reflection coefficient
@@ -35,7 +35,7 @@ plot(real(Gopt),imag(Gopt),'bo');
 //specify the desired gain
 G_goal_dB=8;
 G_goal=10^(G_goal_dB/10);
-
+K = 1.18; 
 //find the constant operating power gain circles
 go=G_goal/abs(s21)^2; // normalized the gain
 dgo=go*conj(s22-conj(s11))/(1+go*(abs(s22)^2)); //center
@@ -48,7 +48,7 @@ rgs=rgo*abs(s12*s21/(abs(1-s22*dgo)^2-rgo^2*abs(s22)^2));
 dgs=((1-s22*dgo)*conj(s11-dgo)-rgo^2*s22)/(abs(1-s22*dgo)^2-rgo^2*abs(s22)^2);
 
 //plot a constant gain circle in the Smith Chart
-set(gca(),"auto_clear","off");
+mtlb_hold on
 plot(real(dgs)+rgs*cos(a),imag(dgs)+rgs*sin(a),'r','linewidth',2);
 
 

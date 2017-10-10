@@ -1,4 +1,4 @@
-//calculate radial and tangential stress
+
 clc
 //solution
 //given

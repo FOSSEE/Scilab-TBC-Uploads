@@ -17,11 +17,11 @@ b(1) = 0;
 c(1) = 2*T1/T;
 for k =1:5
   b(k+1) = ak*(exp(sqrt(-1)*k*Wo*T1)-exp(-sqrt(-1)*k*Wo*T1));
-  if(abs(b(k+1))<=0.1)
+  if(abs(b(k+1)) < =0.1)
     b(k+1) =0;
   end
   c(k+1) = b(k+1)/(sqrt(-1)*k*Wo);
-  if(abs(c(k+1))<=0.1)
+  if(abs(c(k+1)) < =0.1)
     c(k+1) =0;
   end
 end
@@ -63,7 +63,6 @@ a = gca();
 a.y_location = "origin";
 a.x_location = "origin";
 a.data_bounds=[-6,-2;6,2];
-poly1 = a.children(1).children(1);
 poly1.thickness = 3; 
 plot2d3('gnn',t2,qt,5)
 poly1 = a.children(1).children(1);

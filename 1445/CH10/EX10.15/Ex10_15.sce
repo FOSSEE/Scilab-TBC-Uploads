@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 15
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 15");
 
@@ -27,9 +28,6 @@ ratio=s1/s2;                     //all other parameters in the expressions of th
 disp(sprintf("(b) The ratio of the two voltages at the two speeds is %d",ratio));
 
 //solution (c)
-//for rotor speed N_r=900 rpm clockwise, the stator field is running at 600 rpm clockwise. The phase sequence be abc
-//for rotor speed N_r=2100 rpm clockwise, the stator field is running at 600 rpm anticlockwise. The phase sequence be acb
-//Therefore, the phase sequence is reversed.
 disp("(c) The poles sequence of -3Φ rotor voltage do not remain the same");
 
 //END

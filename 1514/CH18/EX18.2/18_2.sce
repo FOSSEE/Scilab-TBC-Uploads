@@ -1,7 +1,7 @@
 //chapter 18
 //example 18.2
 //page 559
-clear all;
+clear;
 clc ;
 //given
 Rl=15;//load resistance
@@ -29,13 +29,3 @@ R3=(10^3*Vt/I1);
 printf("\nR3=%d ohm,standard value 820 ohm",R3);R3=820;R23=10.3;
 R2=R23-R3/1000;
 printf("\nR2=%.2f kohm,standard value 10 kohm",R2);R2=10;
-
-
-
-
-
-
-
-
-
-

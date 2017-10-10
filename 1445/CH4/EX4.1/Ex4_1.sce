@@ -1,6 +1,7 @@
 //CHAPTER 4- MEASURING INSTRUMENTS
 //Example 1
 
+clc;
 disp("CHAPTER 4");
 disp("EXAMPLE 1");
 
@@ -12,7 +13,7 @@ ar=15/10000;   //area in m^2
 
 //SOLUTION
 T_d=N*B*I*ar;
-disp(sprintf("The deflecting torque exerted on the coil is %.3f N-m",T_d));
+disp(sprintf("The deflecting torque exerted on the coil is %f N-m",T_d));
 
 //END
 

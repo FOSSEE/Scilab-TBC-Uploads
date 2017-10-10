@@ -12,4 +12,4 @@ for k=1:length(n)-2
 end;
 clf;
 plot2d3(n,y);
-disp([msprintf([n,y])]);
+disp([msprintf('%d %d\n',[n,y])]);

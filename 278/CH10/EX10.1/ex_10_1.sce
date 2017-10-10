@@ -1,4 +1,4 @@
-//find the length of weld
+
 clc
 //soltion
 //given

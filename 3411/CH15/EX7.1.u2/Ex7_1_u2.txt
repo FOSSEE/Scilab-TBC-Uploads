@@ -1,1 +1,2 @@
+The mean free time is 0.148ps
 The mean free path is given by L=14.8 nm 

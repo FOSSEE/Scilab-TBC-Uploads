@@ -1,6 +1,7 @@
 // Chapter 10_Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor
 //Caption_Capacitance Voltage characteristics
 //Ex_7//page 455
+e = 1.6*10^-19;
 Na=10^16
 tox=550*10^-8     //oxide thickness
 eps=11.7*8.85*10^-14
@@ -14,4 +15,3 @@ r=Cmin/Cox
 CFB=eps_ox/(tox+(eps_ox/eps)*(0.0259*eps/(e*Na))^0.5) *10^9   //flat band capacitance
 r2=CFB/Cox
 printf('The value of oxide capacitance, minimum capacitance and flat band capacitance are %1.2f nF, %1.2f nF and %1.2f nF respectively',Cox,Cmin,CFB)
- 

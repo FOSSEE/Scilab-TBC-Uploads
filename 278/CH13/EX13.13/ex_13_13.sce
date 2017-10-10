@@ -1,4 +1,4 @@
-//find dia of shaft and pins
+
 clc
 //solution
 //given

@@ -1,4 +1,3 @@
-//CAPTION:Wave_Propagation_In_circular_Waveguide
 
 //chapter-4
 //Example-4-2-2  page no.-147
@@ -12,7 +11,7 @@ wc=(2*%pi*f);                                                              //sin
 kc=wc*sqrt(uo*eo);                                                         //kc_is_cut-off_wave_number  
 X=kc*radius ;                                                              //the product X=(kc*radius) for_a_given_mode_is_constant
 disp(kc*radius,'The_value_of_the_product X=(kc*radius)is = ');                  //display_the_product_X=(kc*a)
-disp('Any mode having a product (kc*radius) less than or equal to 4.18 will propagate the wave with a frequency of 10 GHZ .This is (kc*radius)<=4.18');
+disp('Any mode having a product (kc*radius) less than or equal to 4.18 will propagate the wave with a frequency of 10 GHZ .This is (kc*radius)&lt;=4.18');
                                           
 
 syms i j                                                                    //Defining_the_variables
@@ -22,8 +21,8 @@ p=[3.832 1.841 3.054 4.201 5.317 6.416;7.016 5.331 6.706 8.015 9.282 10.520 ; 10
 
 for i=1:1:3                                                                 //value_of_i_traverse_across_the_rows
 for j=1:1:6                                                                 //value_of_j_traverse_across_the_columns
-if(X >=p(i,j))                                                              //check_if_the_value_in(n,p)_matrix_is_less_than_or_equal_to_X
-disp(p(i,j),i,j-1,'TE mode(n,p) and corresponding value of X=');            //display_TE_mode_for_which_value_in [(n,p)matrix] <= X and print                                                                                           corresponding_value_of_X
+if(X &gt;=p(i,j))                                                              //check_if_the_value_in(n,p)_matrix_is_less_than_or_equal_to_X
+disp(p(i,j),i,j-1,'TE mode(n,p) and corresponding value of X=');            //display_TE_mode_for_which_value_in [(n,p)matrix] &lt;= X and print                                                                                           corresponding_value_of_X
 end                                                                         //end if
 end                                                                         //end for
 end                                                                         //end for
@@ -34,8 +33,8 @@ m=[2.405 3.832 5.136 6.380 7.588 ; 5.520 7.106 8.417 9.761 11.065 ;        //rep
 
 for i=1:1:3                                                                 //value_of_i_traverse_across_the_rows_in [(n,p)matrix].
 for j=1:1:5                                                                 //value_of_j_traverse_across_the_columns in [(n,p)matrix].
-if(X >=m(i,j))                                                              //check_if_the_value_in(n,p)_matrix_is_less_than_or_equal_to_X
-disp(m(i,j),i,j-1,'TM mode(n,p) and corresponding value of X=');            //display_TM_mode_for_which_value in [(n,p)matrix] <= X and_print                                                                                         corresponding_value_of_X.
+if(X &gt;=m(i,j))                                                              //check_if_the_value_in(n,p)_matrix_is_less_than_or_equal_to_X
+disp(m(i,j),i,j-1,'TM mode(n,p) and corresponding value of X=');            //display_TM_mode_for_which_value in [(n,p)matrix] &lt;= X and_print                                                                                         corresponding_value_of_X.
 end                                                                         //end if
 end                                                                         //end for
 end                                                                         //end for

@@ -3,6 +3,7 @@
 clc;
 S=42;
 p=2;
+ f = 50;
 ph=3;
 m=S/(p*ph);    //slots/pole/phase
 g=180*p/S;    //slots angle

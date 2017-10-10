@@ -1,4 +1,4 @@
-//find length of key
+
 clc
 //solution
 //given
@@ -19,6 +19,6 @@ printf("the length of key(l1) is,%f mm\n",l1)
 //tmax=l2*t*fytk*d/4=17213*l2
 l2=tmax/17213//mm
 printf("te length of key(l2) is,%f mm\n",l2)
-printf("since l2 >l1,taking large value l2=l ,length of key\n")
+printf("since l2 &gt;l1,taking large value l2=l ,length of key\n")
 l=103.89//mm
 printf("the length of key(l) is,%f mm\n",l)

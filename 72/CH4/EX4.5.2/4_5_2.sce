@@ -1,4 +1,3 @@
-//CAPTION: Operation_Of_a_Balanced_Amplifier
 
 //chapter-4
 //Example4-5-2   page no. 174

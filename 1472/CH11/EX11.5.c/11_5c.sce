@@ -1,5 +1,5 @@
 clc
-//initialization of varaibles
+//initialization of variables
 P1=100 //psia
 T1=2000+460 //R
 P2=15 //psia
@@ -15,6 +15,7 @@ disp("From table 1,")
 T2=1535 //R
 h2=378.44
 dh=h2-h1
+v1=53.34*T1/(P1*144)
 v2=53.34*T2/(P2*144)
 dv=v2-v1
 //results

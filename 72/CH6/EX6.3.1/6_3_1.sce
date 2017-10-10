@@ -1,4 +1,4 @@
-//CAPTION: Current_of_a_HEMT
+
 //chapter_no.-6,  page_no.-251
 //Example_no.6-3-1
 clc;

@@ -1,4 +1,4 @@
-//CAPTION: Silicon_Bipolar_Transistor
+
 //CHAPTER NO.-5
 //Example No.5-1-3 , Page No.-206 
                                                                      

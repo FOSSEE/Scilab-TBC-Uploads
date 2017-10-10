@@ -1,4 +1,4 @@
-//CAPTION: Conductivity_of_an_n-Type_GaAs_Gunn_Diode
+
 //chapter_no.-7,  page_no.-294
 //Example_no.7-2-1
 clc;

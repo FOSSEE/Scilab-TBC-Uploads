@@ -5,7 +5,8 @@ printf("\n")
 printf("given")
 Ie2=2*10^-3;hfe=50;R5=3.3*10^3;Rl=100;hfc2=51;R3=12*10^3;
 re=26*10^-3/Ie2
-hic=hfe*re
+hic=hfe*re;
+hie=2*(1+hfe)*re
 Zi2=hic+hfc2*((Rl*R5)/(Rl+R5))
 Av1=-(hfe*((R3*Zi2)/(R3+Zi2)))/hie
 Av2=1

@@ -1,5 +1,6 @@
 //chapter10,Example10_4,pg 272
-
+e = 1.6*10^-19;
+m=9.1*10^-31;
 vx=1.7*10^7
 
 Ey=3.4*10^4
@@ -22,6 +23,6 @@ printf("y=%.2f m",y)
 
 printf("\nmagnitude of magnetic field\n")
 
-printf("B=%.4f wb/m2",B)
+printf("B=%.4f wb/m2",Bz)
 
 printf("\ndirection of field is upward as Ey is downward")

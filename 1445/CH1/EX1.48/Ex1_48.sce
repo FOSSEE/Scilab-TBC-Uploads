@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 48
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 48");
 
@@ -23,9 +24,9 @@ I1=x(1,:);                           //to access the 1st element of 2X1 matrix
 I2=x(2,:);                           //to access the 2nd element of 2X1 matrix
 I=I1+I2;
 pd=I*r3;                 
-disp(sprintf("Current through B1 is %.2f A",I1));
-disp(sprintf("Current through B2 is %.2f A",I2));
-disp(sprintf("Potential difference across AC is %.2f V",pd));
+disp(sprintf("Current through B1 is %f A",I1));
+disp(sprintf("Current through B2 is %f A",I2));
+disp(sprintf("Potential difference across AC is %f V",pd));
 
 //END
 

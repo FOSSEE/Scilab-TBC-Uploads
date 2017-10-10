@@ -8,7 +8,7 @@ Vin=6.84
 Vbe=0.7
 R2=270
 //Vin-Vbe-I(R1+R2)=0 applying KVL to base emitter
+R1=1657.8-270;  // 0=(6.84-.7)270/(270+R1)
 I=(Vin-Vbe)/(R1+R2)
 Vout=I*R2;
-R1=1657.8-270;  // 0=(6.84-.7)270/(270+R1)
 disp(R1) // results

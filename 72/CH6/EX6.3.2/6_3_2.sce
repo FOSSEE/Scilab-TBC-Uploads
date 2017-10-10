@@ -1,4 +1,4 @@
-//CAPTION: Sensitivity_Of_HEMT
+
 //chapter_no.-6,  page_no.-253
 //Example_no.6-3-2
 

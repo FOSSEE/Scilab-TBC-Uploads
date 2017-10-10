@@ -1,4 +1,3 @@
-//find...
 clc
 //solution
 //given
@@ -25,6 +24,7 @@ printf("the thicknes and width is,%f m\n,%f m\n",t,2*t)
 Tmean=(P*60)/(2*%pi*N)//N-m
 Tmax1=2*Tmean*1000//N-mm
 //d1=(Tmax1*16/(%pi*tf))^(1/3)
+tf=40;
 printf("dia od shaft is,%f mm\n",(Tmax1*16/(%pi*tf))^(1/3))
 printf("the dia of shaft is say 165mm\n")
 d1=165//mm
@@ -41,7 +41,6 @@ printf("bending moment is,%f N-mm\n",M)
 //fb=M/Z
 a1=(M/(fb*0.05))^(1/3)//mm
 b1=0.5*a1
-tf=40
 printf("major and minor axis is,%f mm\n,%f mm\n",a1,b1)
 printf("corrsponding to shaft of dia 165 mm,width is 45 mm and thicknss of key is 25 mm\n")
 //let L be length of key

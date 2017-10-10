@@ -7,7 +7,7 @@ c=3*10^10
 v_bar=2140
 mu_CO=((m_c*m_o)/(m_c+m_o))           //Reduced mass of CO(kg)
 //v=((1/2*pi)*(k/mu)^1/2) and v_bar=((1/2*pi*c)*(k/mu)^1/2)
-k=(4*%pi^2*c^2*v_bar^2*mu)
+k=(4*%pi^2*c^2*v_bar^2*mu_CO)
 disp(k,'Force constant of the molecule(N/m)')
 
-//k=1853(N/m) is wrong in the book.
+

@@ -1,7 +1,7 @@
 f0=1E6
 Cmax=500E-12
 C=450E-12
-w0=2*%pi*f
+w0=2*%pi*f0
 
 L=1/(w0*w0*Cmax)
 

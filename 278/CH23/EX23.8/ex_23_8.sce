@@ -4,7 +4,7 @@ clc
 //given
 D1=65//mm
 p1=0.7//N/mm^2
-p1=0.75//N/mm^2
+p2=0.75//N/mm^2
 dx=3.5//mm
 t=550//N/mm^2
 G=84000//N/mm^2
@@ -24,11 +24,10 @@ Do=D+d
 Di=D-d
 printf("mean dia,outer di and inner dia are,%f mm\n,%f mm\n,%f mm\n",D,Do,Di)
 //let n be nubr of tunrs
-printf("numbr of turns are ,%f \n",dx*G*d1^4/(8*D1^3*W))
+printf("numbr of turns are ,%f \n",dx*G*d^4/(8*D1^3*W))
 printf("numbr of turns are say 10\n")
 n=10
 nb=n+1
 fL=n*d+ (n-1)*d
 printf("free length is ,%f mm\n",fL)
 printf("pitch of coil is,%f mm",fL/(nb-1))
-

@@ -1,4 +1,4 @@
-//find minimum force per pitch and find actual stresses developed
+
 clc
 //solution
 //given

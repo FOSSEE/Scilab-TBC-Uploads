@@ -1,5 +1,5 @@
 //Example 1_11_u1
-clc();
+clc;
 clear;
 //To calculate refractive Index of liquid
   d10=1.40

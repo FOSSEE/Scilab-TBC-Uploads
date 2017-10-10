@@ -3,7 +3,8 @@ Ia1=5;Iarated=120;N=1000;
 Afl=0.95;Prot=497.5;
 
 Eanl=Vt-(Ia*Ra)
-  
+Ea = Eanl;
+Ifar = 0.16;  
 Rf=Vt/If
  
 Rfc=Rf-Rfw
@@ -49,9 +50,3 @@ Ea1=93.5
 Ka1=(Ea1/Wm)
  
 Tstart1=(Ka1*Ia)
-
-
-
- 
-
- 

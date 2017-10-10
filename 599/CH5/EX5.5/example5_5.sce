@@ -1,9 +1,10 @@
-
 clear;
 clc;
 printf("\t Example 5.5\n");
 
 //part(i)
+pa = 13.3
+pa2 = 20.6   
 y_bar=.0183;                //kg water vapour/kg dry air
 printf("\n we get humidity as(from chart)  :%f kg of water/kg dry air",y_bar);
 printf("\n we get saturation humidity as(from chart)  :%d percent",67);

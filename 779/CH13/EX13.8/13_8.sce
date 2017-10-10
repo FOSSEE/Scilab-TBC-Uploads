@@ -1,4 +1,4 @@
-nc = 0.87; nt = 0.9; T1 = 311; 
+nc = 0.87; nt = 0.9; T1 = 311; T3 = 1100; 
 rp = 8; // P2/P1
 P1 = 1; P2 = 8; P3 = 0.95*P2; P4 = 1;
 g = 1.4; cv = 0.718; cp = 1.005; R = 0.287;
@@ -12,4 +12,3 @@ n_cycle = n-0.05;
 x = 0.13;
 r = 0.13/1.13;
 disp("%",r*100,"Percentage of air that may be taken from the compressor is")
-

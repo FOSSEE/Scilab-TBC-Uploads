@@ -7,5 +7,5 @@ pa=[347 270 185 102 37 0]
 plot(xc,pc)
 plot(xc,pa)
 xlabel('Mole fraction xc')
-ytitle('Pressure /Torr')
+ylabel('Pressure /Torr')
 disp('From the graph it is clear that KA=175 torr and KC=165 torr. They are plotted with Raoults law lines')

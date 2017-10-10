@@ -4,7 +4,6 @@
 //Cross Correlation
 clear;
 clc;
-clear x n a y h z;
 x=[1,1,1,1,0,0];
 y=[1,3,6,10,12,12,10,6,3,1];
 h(1)=y(1)/x(1);

@@ -1,6 +1,6 @@
-18#Composites#18.2#Calculate the elastic modulus when the stress is applied perpendicular to the direction of the fibre alignment#ex18_2.sce#1085/CH18/EX18.2/ex18_2.sce#S##67176
+18#Composites#18.2#Elastic modulus when the stress is applied perpendicular to the direction of the fibre alignment#ex18_2.sce#1085/CH18/EX18.2/ex18_2.sce#S##67176
 18#Composites#18.1#Calculate the modulus of elasticity#ex18_1.sce#1085/CH18/EX18.1/ex18_1.sce#S##67175
-16#Superconductivity and Superconducting Materials#16.1#Calculate the energy gap in electron volts and Calculate the wavelength of a photon#ex16_1.sce#1085/CH16/EX16.1/ex16_1.sce#S##67174
+16#Superconductivity and Superconducting Materials#16.1#Energy gap in electron volts and Calculate the wavelength of a photon#ex16_1.sce#1085/CH16/EX16.1/ex16_1.sce#S##67174
 15#Semiconductors#15.4#Obtain density relation in P type material#ex15_4.sce#1085/CH15/EX15.4/ex15_4.sce#S##67172
 15#Semiconductors#15.3#Find the resistance of an intrinsic germanium rod#ex15_3.sce#1085/CH15/EX15.3/ex15_3.sce#S##67171
 15#Semiconductors#15.2#Find the resistivity at room temperature#ex15_2.sce#1085/CH15/EX15.2/ex15_2.sce#S##67170
@@ -12,37 +12,37 @@
 14#Electrical and Magnetic Properties of Materials#14.5#Calculate the polarization#ex14_5.sce#1085/CH14/EX14.5/ex14_5.sce#S##67162
 14#Electrical and Magnetic Properties of Materials#14.4#Calculate the relative dielectric constant of a barium titanate crystal#ex14_4.sce#1085/CH14/EX14.4/ex14_4.sce#S##67159
 14#Electrical and Magnetic Properties of Materials#14.3#Find the resistivity due to impurity scattering per percent of Ni in the Cu lattice#ex14_3.sce#1085/CH14/EX14.3/ex14_3.sce#S##67158
-14#Electrical and Magnetic Properties of Materials#14.2#Find the resistivity of a copper alloy containing 1 atomic percent nickel and 3 atomic percent silver#ex14_2.sce#1085/CH14/EX14.2/ex14_2.sce#S##67157
+14#Electrical and Magnetic Properties of Materials#14.2#Resistivity of a copper alloy containing 1 atomic percent nickel and 3 atomic percent silver#ex14_2.sce#1085/CH14/EX14.2/ex14_2.sce#S##67157
 14#Electrical and Magnetic Properties of Materials#14.1#Calculate the resistance of an aluminium wire#ex14_1.sce#1085/CH14/EX14.1/ex14_1.sce#S##67168
-13#Thermal and Optical Properties of Materials#13.1#Determine the maximum temperature to which the rod may be heated without exceeding a compressive stress of 172 MPa#ex13_1.sce#1085/CH13/EX13.1/ex13_1.sce#S##67150
-12#Oxidation and Corrosion#12.2#Calculate the quality of magnesium required per square meter of the hull surface for a design life of 10 years#ex12_2.sce#1085/CH12/EX12.2/ex12_2.sce#S##67154
+13#Thermal and Optical Properties of Materials#13.1#Maximum temperature to which the rod may be heated without exceeding a compressive stress#ex13_1.sce#1085/CH13/EX13.1/ex13_1.sce#S##67150
+12#Oxidation and Corrosion#12.2#Quality of magnesium required per square meter of the hull surface#ex12_2.sce#1085/CH12/EX12.2/ex12_2.sce#S##67154
 12#Oxidation and Corrosion#12.1#Find the distance at which magnisium anode capable of giving 2MA#ex12_1.sce#1085/CH12/EX12.1/ex12_1.sce#S##67151
 11#Deformation of Materials#11.4#Find the yield stress#ex11_4.sce#1085/CH11/EX11.4/ex11_4.sce#S##67147
 11#Deformation of Materials#11.3#Find the yield stress#ex11_3.sce#1085/CH11/EX11.3/ex11_3.sce#S##67149
 11#Deformation of Materials#11.1#Determine the value of critical resolved shear stress#ex11_1.sce#1085/CH11/EX11.1/ex11_1.sce#S##67148
 10#Heat Treatment#10.1#Determine the grain diameter of an ASTM Number 8#ex10_1.sce#1085/CH10/EX10.1/ex10_1.sce#S##67146
 9#Alloys Systems Phase Diagrams and Phase Transformations#9.3#Find the minimum number of components in the system#ex9_3.sce#1085/CH9/EX9.3/ex9_3.sce#S##67145
-9#Alloys Systems Phase Diagrams and Phase Transformations#9.2#Determine the degrees of freedom of a system of two components#ex9_2.sce#1085/CH9/EX9.2/ex9_2.sce#S##67141
+9#Alloys Systems Phase Diagrams and Phase Transformations#9.2#Degrees of freedom of a system of two components#ex9_2.sce#1085/CH9/EX9.2/ex9_2.sce#S##67141
 9#Alloys Systems Phase Diagrams and Phase Transformations#9.1#Find the percentage of proeutectoid ferrite#ex9_1.sce#1085/CH9/EX9.1/ex9_1.sce#S##67144
 8#Mechanical Properties of Materials and Mechanical Tests#8.5#Compute the strain hardening exponent#ex8_5.sce#1085/CH8/EX8.5/ex8_5.sce#S##67136
 8#Mechanical Properties of Materials and Mechanical Tests#8.4#Find the resultant elongation#ex8_4.sce#1085/CH8/EX8.4/ex8_4.sce#S##67138
 8#Mechanical Properties of Materials and Mechanical Tests#8.3#Determine the fracture strength#ex8_3.sce#1085/CH8/EX8.3/ex8_3.sce#S##67135
-8#Mechanical Properties of Materials and Mechanical Tests#8.2#Compute the true stress and strain with engineering stress and strain#ex8_2.sce#1085/CH8/EX8.2/ex8_2.sce#S##67134
+8#Mechanical Properties of Materials and Mechanical Tests#8.2# true stress and strain with engineering stress and strain#ex8_2.sce#1085/CH8/EX8.2/ex8_2.sce#S##67134
 8#Mechanical Properties of Materials and Mechanical Tests#8.1#Determine the fracture strength#ex8_1.sce#1085/CH8/EX8.1/ex8_1.sce#S##67133
-7#Diffusion in Solids#7.4#Determine the approximate time that will produce same diffussion at 500 C#ex7_4.sce#1085/CH7/EX7.4/ex7_4.sce#S##67132
-7#Diffusion in Solids#7.3#find the constant of the equation and activation energy and determine the diffusion coefficient#ex7_3.sce#1085/CH7/EX7.3/ex7_3.sce#S##67129
-7#Diffusion in Solids#7.2#Calculate time required to get a boron content of 1023 atoms per m3 at a depth of 2 micro meter#ex7_2.sce#1085/CH7/EX7.2/ex7_2.sce#S##67130
+7#Diffusion in Solids#7.4#approximate time that will produce same diffussion at 500 C#ex7_4.sce#1085/CH7/EX7.4/ex7_4.sce#S##67132
+7#Diffusion in Solids#7.3#find the constant of the equation and activation energy #ex7_3.sce#1085/CH7/EX7.3/ex7_3.sce#S##67129
+7#Diffusion in Solids#7.2#time required#ex7_2.sce#1085/CH7/EX7.2/ex7_2.sce#S##67130
 7#Diffusion in Solids#7.1#find the time required for carburization#ex7_1.sce#1085/CH7/EX7.1/ex7_1.sce#S##67131
-6#Photoelectric Effect#6.7#Calculate the wavelength of light which can just eject electron from tungsten and from barrium#ex6_7.sce#1085/CH6/EX6.7/ex6_7.sce#S##67127
+6#Photoelectric Effect#6.7#wavelength of light which can just eject electron from tungsten and from barrium#ex6_7.sce#1085/CH6/EX6.7/ex6_7.sce#S##67127
 6#Photoelectric Effect#6.6#Calculate the photons emitted by radio receiver#ex6_6.sce#1085/CH6/EX6.6/ex6_6.sce#S##67126
 6#Photoelectric Effect#6.5#Determine the region of electrons spectrum#ex6_5.sce#1085/CH6/EX6.5/ex6_5.sce#S##67125
 6#Photoelectric Effect#6.4#Calculate the photons emitted by lamp per second#ex6_4.sce#1085/CH6/EX6.4/ex6_4.sce#S##67124
 6#Photoelectric Effect#6.3#Calculate the threshold frequency and the work function of metal#ex6_3.sce#1085/CH6/EX6.3/ex6_3.sce#S##67121
 6#Photoelectric Effect#6.2#Calculate the threshold frequency and the corresponding wavelength#ex6_2.sce#1085/CH6/EX6.2/ex6_2.sce#S##67120
-6#Photoelectric Effect#6.1#Find the kinetic energy of electrons ejected from the surface#ex6_1.sce#1085/CH6/EX6.1/ex6_1.sce#S##67122
+6#Photoelectric Effect#6.1#kinetic energy of electrons ejected from the surface#ex6_1.sce#1085/CH6/EX6.1/ex6_1.sce#S##67122
 5#Electron Theory of Metals#5.9#Estimate the mean path of free electrons in pure copper#ex5_9.sce#1085/CH5/EX5.9/ex5_9.sce#S##67114
 5#Electron Theory of Metals#5.8#Calculate the velocity of an electrons at fermi level#ex5_8.sce#1085/CH5/EX5.8/ex5_8.sce#S##67115
-5#Electron Theory of Metals#5.7#Calculate the maximum velocity of an electron in a metal and mobility of electrons#ex5_7.sce#1085/CH5/EX5.7/ex5_7.sce#S##67117
+5#Electron Theory of Metals#5.7#maximum velocity of an electron in a metal and mobility of electrons#ex5_7.sce#1085/CH5/EX5.7/ex5_7.sce#S##67117
 5#Electron Theory of Metals#5.6#Find the number of free electrons and also calculate mobility of electrons#ex5_6.sce#1085/CH5/EX5.6/ex5_6.sce#S##67116
 5#Electron Theory of Metals#5.5#Find the mobility of condution electron and drift velocity#ex5_5.sce#1085/CH5/EX5.5/ex5_5.sce#S##67113
 5#Electron Theory of Metals#5.4#Find the mobility of condution electron#ex5_4.sce#1085/CH5/EX5.4/ex5_4.sce#S##67112
@@ -52,10 +52,10 @@
 5#Electron Theory of Metals#5.1#Evaluate the temperature#ex5_1.sce#1085/CH5/EX5.1/ex5_1.sce#S##67110
 4#Bonds in solid#4.6#Estimate the fraction of hydrogen bonds that are broken when ice melts#ex4_6.sce#1085/CH4/EX4.6/ex4_6.sce#S##67104
 4#Bonds in solid#4.5#How much net energy is spent in the process#ex4_5.sce#1085/CH4/EX4.5/ex4_5.sce#S##67109
-4#Bonds in solid#4.4#Calculate the force of attraction between ions#ex4_4.sce#1085/CH4/EX4.4/ex4_4.sce#S##67108
+4#Bonds in solid#4.4#force of attraction between ions#ex4_4.sce#1085/CH4/EX4.4/ex4_4.sce#S##67108
 4#Bonds in solid#4.3#Find the radius of Cl ion#ex4_3.sce#1085/CH4/EX4.3/ex4_3.sce#S##67107
 4#Bonds in solid#4.2#Find the repulsive exponent n#ex4_2.sce#1085/CH4/EX4.2/ex4_2.sce#S##67106
-4#Bonds in solid#4.1#Find A and B and the force needed to dissociate this molecule into atoms and the interatomic distance at which the dissociation occurs#ex4_1.sce#1085/CH4/EX4.1/ex4_1.sce#S##67105
+4#Bonds in solid#4.1#distance at which the dissociation occurs#ex4_1.sce#1085/CH4/EX4.1/ex4_1.sce#S##67105
 3#Crystal Geometry  Structure and Defects#3.31#Determine interatomic spacing#ex3_31.sce#1085/CH3/EX3.31/ex3_31.sce#S##67097
 3#Crystal Geometry  Structure and Defects#3.30#Obtain the interplanar spacing and miller indices of the reflection plane#ex3_30.sce#1085/CH3/EX3.30/ex3_30.sce#S##67103
 3#Crystal Geometry  Structure and Defects#3.29#Calculate the angle for 3rd order reflection#ex3_29.sce#1085/CH3/EX3.29/ex3_29.sce#S##67102
@@ -77,14 +77,14 @@
 3#Crystal Geometry  Structure and Defects#3.12#Calculate the unit cell dimensions and atomic diameter#ex3_12.sce#1085/CH3/EX3.12/ex3_12.sce#S##67085
 3#Crystal Geometry  Structure and Defects#3.11#Determine the packing efficiency and density of sodium chloride#ex3_11.sce#1085/CH3/EX3.11/ex3_11.sce#S##67084
 3#Crystal Geometry  Structure and Defects#3.10#Find the angle Between normals to the planes#ex3_10.sce#1085/CH3/EX3.10/ex3_10.sce#S##67083
-2#Atomic structure and electronic configuration#2.9#Calculate the principal quantum number and wavelengths of radiation in both energies#ex2_9.sce#1085/CH2/EX2.9/ex2_9.sce#S##67079
-2#Atomic structure and electronic configuration#2.8#Calculate the velocity of an electron in hydrogen atom in bohr first orbit#ex2_8.sce#1085/CH2/EX2.8/ex2_8.sce#S##67078
-2#Atomic structure and electronic configuration#2.7#Calculate the values of kinetic energy potential energy and total energy of an electron#ex2_7.sce#1085/CH2/EX2.7/ex2_7.sce#S##67076
-2#Atomic structure and electronic configuration#2.6#Determine the orbital frequency of an electron in the first bohr orbit in a hydrogen atom#ex2_6.sce#1085/CH2/EX2.6/ex2_6.sce#S##67077
+2#Atomic structure and electronic configuration#2.9#principal quantum number and wavelengths of radiation in both energies#ex2_9.sce#1085/CH2/EX2.9/ex2_9.sce#S##67079
+2#Atomic structure and electronic configuration#2.8#velocity of an electron in hydrogen atom in bohr first orbit#ex2_8.sce#1085/CH2/EX2.8/ex2_8.sce#S##67078
+2#Atomic structure and electronic configuration#2.7#kinetic energy potential energy and total energy of an electron#ex2_7.sce#1085/CH2/EX2.7/ex2_7.sce#S##67076
+2#Atomic structure and electronic configuration#2.6#orbital frequency of an electron in the first bohr orbit in a hydrogen atom#ex2_6.sce#1085/CH2/EX2.6/ex2_6.sce#S##67077
 2#Atomic structure and electronic configuration#2.5#Calculate the revolutions per second of an electron in the bohr orbit of hydrogen atom#ex2_5.sce#1085/CH2/EX2.5/ex2_5.sce#S##67075
 2#Atomic structure and electronic configuration#2.4#Calculate the unit cell dimensions and atomic diameter#ex2_4.sce#1085/CH2/EX2.4/ex2_4.sce#S##67074
-2#Atomic structure and electronic configuration#2.3#Determine the radius of the second bohr orbit in a singly ionized helium atom#ex2_3.sce#1085/CH2/EX2.3/ex2_3.sce#S##67072
-2#Atomic structure and electronic configuration#2.2#Calculate the radius and frequency of an electron in the bohr first orbit in hydrogen atom#ex2_2.sce#1085/CH2/EX2.2/ex2_2.sce#S##67073
-2#Atomic structure and electronic configuration#2.15#find the percentage of Si in Copper silicide#ex2_15.sce#1085/CH2/EX2.15/ex2_15.sce#S##67081
-2#Atomic structure and electronic configuration#2.13#Assuming that the weight of one proton is equal to that of one neutron find the weight of copper atom and weight of one proton#ex2_13.sce#1085/CH2/EX2.13/ex2_13.sce#S##67080
-2#Atomic structure and electronic configuration#2.1#Calculate the distance of the closest approach alpha particles from the copper nucleus#ex2_1.sce#1085/CH2/EX2.1/ex2_1.sce#S##67071
+2#Atomic structure and electronic configuration#2.3#radius of the second bohr orbit in a singly ionized helium atom#ex2_3.sce#1085/CH2/EX2.3/ex2_3.sce#S##67072
+2#Atomic structure and electronic configuration#2.2#radius and frequency of an electron in the bohr first orbit in hydrogen atom#ex2_2.sce#1085/CH2/EX2.2/ex2_2.sce#S##67073
+2#Atomic structure and electronic configuration#2.15# percentage of Si in Copper silicide#ex2_15.sce#1085/CH2/EX2.15/ex2_15.sce#S##67081
+2#Atomic structure and electronic configuration#2.13#Weight of copper atom and weight of one proton#ex2_13.sce#1085/CH2/EX2.13/ex2_13.sce#S##67080
+2#Atomic structure and electronic configuration#2.1#Distance of the closest approach alpha particles from the copper nucleus#ex2_1.sce#1085/CH2/EX2.1/ex2_1.sce#S##67071

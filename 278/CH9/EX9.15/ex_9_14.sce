@@ -1,4 +1,4 @@
-//detremine the size of rivets to be used for joint
+
 clc
 //refer fig 9.24,9.25
 //solution

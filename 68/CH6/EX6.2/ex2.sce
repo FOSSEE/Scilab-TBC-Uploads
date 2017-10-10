@@ -4,6 +4,7 @@ disp("For NMOS transistor")
 I_D=100*10^-6; // (A)
 V_a=5; // V'_A=V_a (A)
 L=0.4; // (um)
+V_T=0.025;
 K_n=267*4/0.4*10^-6; // K_n=u_n*C_ox*(W/L) (A/V^2)
 V_OV=sqrt(2*I_D/K_n);
 g_m=sqrt(2*K_n*I_D)

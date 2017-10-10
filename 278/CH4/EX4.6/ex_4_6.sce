@@ -1,4 +1,4 @@
-//calculate the force required to produce cicular black of diameter 60mm in a plate of 5mm thickness
+
 clc
 //solution
 //given

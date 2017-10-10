@@ -13,7 +13,7 @@ d1=d2*(N2/N1) //m
 //Calculating the velocity of the belt
 v=%pi*d2*N2/60 //m/s
 //Calculating the angle alpha for an open belt drive
-alphao=asin((r1-r2)/x)*180/%pi //degrees
+alphao=asin((d1-d2)/x)*180/%pi //degrees
 //Calculating the angle of contact on the smaller pulley
 thetao=(180-2*alphao)*%pi/180 //radians
 //Calculating the tensions in the belt

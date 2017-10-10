@@ -24,15 +24,15 @@ a = gca();
 a.y_location = "origin";
 a.x_location = "origin";
 a.data_bounds=[-8,-1;8,1];
-poly1 = a.children(1).children(1);
+poly1 = a;
 poly1.thickness = 3; 
 plot2d3('gnn',k,-imag(ak),5)
-poly1 = a.children(1).children(1);
+poly1 = a;
 poly1.thickness = 3; 
 plot2d3('gnn',N+k,-imag(ak),5)
 poly1 = a.children(1).children(1);
 poly1.thickness = 3; 
 plot2d3('gnn',-(N+k),-imag(ak($:-1:1)),5)
-poly1 = a.children(1).children(1);
+poly1 = a;
 poly1.thickness = 3; 
 title('ak')

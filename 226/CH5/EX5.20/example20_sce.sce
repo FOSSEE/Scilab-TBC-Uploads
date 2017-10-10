@@ -4,6 +4,9 @@
 printf("\n")
 printf("given")
 Vcc=10;Rc=1*10^3;Rb=6.8*10^3;Vs=5;
+T=125-25
+
+Vbe=T*(1.8*10^-3)
 disp(" hFE calculation")
 Ic=Vcc/Rc
 Ib=(Vs-Vbe)/Rb

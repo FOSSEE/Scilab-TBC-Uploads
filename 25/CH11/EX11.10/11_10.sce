@@ -1,5 +1,8 @@
 //example:11.10,page no.-637.
 // program to design a transistor oscillator at 4 GHZ using a GaAs FET in common gate configuration.
+clear
+clc
+Zo =  50.199554 - 0.0089893*%i;
 s11=2.18*expm(%i*(-35)*%pi/180);
 s21=2.75*expm(%i*(96)*%pi/180);
 s12=1.26*expm(%i*(18)*%pi/180);

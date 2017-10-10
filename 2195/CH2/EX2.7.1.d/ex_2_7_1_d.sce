@@ -8,6 +8,5 @@ for i= 1:5
     qb(i)= q(i)-AM;
 end
 Q= [qb(1),qb(2),qb(3),qb(4),qb(5)];//
-SD=st_deviation(Q);//standard deviation
+SD=stdev(Q);//standard deviation
 disp(SD,"standard deviation is")
-

@@ -1,5 +1,3 @@
-
-
 //exapple 2.2 
 clc; funcprot(0);
 // Initialization of Variable
@@ -7,6 +5,8 @@ M=28.8/1000;
 mu=1.73/10^5;
 gamm=1.402;
 P1=107.6*10^3;
+l = 68.5;
+pi = %pi;
 V=22.414/1000;
 R=8.314;
 temp=285;
@@ -53,6 +53,3 @@ a=.5*Gw^2/pi^2/d^4*16*(R/M/P2)^2;
 y=poly([-c b a],'x','coeff');
 T2=roots(y);
 disp(T2(2)-273,"temperature of discharging gas in (Celcius)");
-
-
-

@@ -1,9 +1,9 @@
 clc
-disp("the soln of eg 5.8-->Chemical Reaction and Diffusion in Pore");
+disp("the soln of eg 5.8--&gt;Chemical Reaction and Diffusion in Pore");
 lnght=.001
 k_const=.001
 D=10^-9
-delta_x=l/100
+delta_x=lnght/100
 C=1                 //in mol/m3
 //B.C. are C=1 at x=0
 //         dC/dx=0 at x=10^-3    since at the end point conc. is const.

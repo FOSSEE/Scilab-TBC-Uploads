@@ -3,6 +3,7 @@ m = 1000;//kg/h (dried product)
 // S be the amount of dry solid in the product stream 
 Pmoisture1 = 4;//%
 Pmoisture2 = 0.2;//%
+P = 1;
 S = m *(1 - P/1000);
 X1 = Pmoisture1/(100 - Pmoisture1);
 X2 = Pmoisture2/(100 - Pmoisture2);

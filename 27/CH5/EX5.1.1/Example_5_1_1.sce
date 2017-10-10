@@ -1,7 +1,7 @@
 clear;
 clc;
 close;
-set(gca(),"auto_clear","off")        //hold on
+mtlb_hold on
 
 circle([0 0],4,50)     //Circle is drawn with (0,0)as center, radius=4.
 circle([0,0],2,50)
@@ -11,19 +11,19 @@ a.data_bounds=[-5,-5;5,5];
 
 for x = -4:2:4
     for v = -4:2:4
-        if(x==0) & (v==0)
+        if(x==0) &amp; (v==0)
             plot2d(x,v,style=-4)        //if x=0 and v=0 then x(dot)and v(d                                        ot) are also zero, thus Fixed point.
         end
-        if(x==0) & (v>0)
+        if(x==0) &amp; (v&gt;0)
             plot2d(x,v,style=-12)
         end
-        if(x==0) & (v<0)
+        if(x==0) &amp; (v&lt;0)
             plot2d(x,v,style=-13)
         end
-        if(v==0) & (x>0)
+        if(v==0) &amp; (x&gt;0)
             plot2d(x,v,style=-7)
         end
-        if(v==0) & (x<0)
+        if(v==0) &amp; (x&lt;0)
             plot2d(x,v,style=-6)
         end
     end

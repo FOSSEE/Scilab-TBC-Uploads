@@ -13,7 +13,7 @@ Q = del_E+W;// [kJ]
 
 mprintf('\n The Heat transfer is, Q =  %f kJ \n',Q);
 
-if(Q&gt;0)
+if(Q>0)
     disp('Since Q&gt;0, so heat is transferred into the system')
 else
     disp('Since Q&lt;0, so heat is transferred from the system')

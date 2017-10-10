@@ -1,7 +1,7 @@
 //Ex5_1
 // Noisy Images and their Histogram
 //To plot the PDF of different Noise Distribution and add the same to the gray scale image.
-//(I)Gaussian  (II)Uniform  (III)Salt & Pepper (IV)Log Normal  (V)Rayleigh  (VI)Erlang  (VII)Exponetial
+//(I)Gaussian  (II)Uniform  (III)Salt &amp; Pepper (IV)Log Normal  (V)Rayleigh  (VI)Erlang  (VII)Exponetial
 // Version : Scilab 5.4.1
 // Operating System : Window-xp, Window-7
 //Toolbox: Image Processing Design 8.3.1-1
@@ -15,62 +15,62 @@ clear;
 xdel(winsid())//to close all currently open figure(s).
 
 function R=imnoise2(type,M,N,a,b)
-    if argn(2)==3 then
+    if argn(2)==3 
         a=0; b=1;
     end
     
     select type
         
-    case'gaussian'then
+    case'gaussian'
         rand("normal")
         R=a+b*rand(M,N);
         
-    case'uniform'then
+    case'uniform'
         R=a+(b-a)*rand(M,N,"uniform");
         
-    case'salt & pepper'then
+    case'salt &amp; pepper'
         if argn(2)==3
             a = 0.15; b = 0.15;
         end
-        if (a+b) > 1
+        if (a+b) &gt; 1
             error('The sum Pa + Pb must not exceed 1.');
         end
         R(1:M,1:N) = 0.5;
         X = rand(M,N);
-        [r c] = find(X<=a);
+        [r c] = find(X&lt;=a);
         for i=1:length(r)
                 R(r(i),c(i)) = 0; 
         end
         u = a + b;
-        [r c] = find(X>a & X<=u);
+        [r c] = find(X&gt;a &amp; X&lt;=u);
         for i=1:length(r)
                 R(r(i),c(i)) = 255; 
         end      
         
-    case'lognormal'then
+    case'lognormal'
         if argn(2)==3
             a = 1; b = 0.25;
         end
         R = a*exp(b*mtlb_randn(M,N));
         
-     case'rayleigh'then
+     case'rayleigh'
         if argn(2)==3
             a = 1; b = 0.25;
         end 
         R = a + ((-b)*(log(1-rand(M,N,"uniform")))).^0.5;       
         
-     case'exponential'then
+     case'exponential'
         if argn(2)==3
             a = 1;
         end 
-        if a<=0
+        if a&lt;=0
             error('Parameter a must be positive for exponential type.');
         end
         k = -1/a;
         R = k*log(1-rand(M,N,"uniform"));
         
-     case'erlang'then
-         if (b ~= round(b) | b <= 0)
+     case'erlang'
+         if (b ~= round(b) | b &lt;= 0)
             error('Param b must be positive for integer for Erlang.')
         end
         k = -1/a;
@@ -149,15 +149,15 @@ figure;bar(cell,count,1.2);
 mtlb_axis([0 255 0 2000]);
 title('Uniform');
 
-///////////////////////////////////////    Salt & pepper Noise    ////////////////////
-r6=imnoise2('salt & pepper',M,N,0.15,0.15);   // Generate salt & pepper Noise 
+///////////////////////////////////////    Salt &amp; pepper Noise    ////////////////////
+r6=imnoise2('salt &amp; pepper',M,N,0.15,0.15);   // Generate salt &amp; pepper Noise 
 gray_noise_salt_pepper=gray+(r6);
 figure,ShowImage(gray_noise_salt_pepper,'Gray Image with Noise');
-title('Gray Image with Noise salt&pepper');
+title('Gray Image with Noise salt&amp;pepper');
 [count,cell]=imhist(gray_noise_salt_pepper);
 figure;bar(cell,count,1.2);
 mtlb_axis([0 255 0 35000]);
-title('Salt & pepper');
+title('Salt &amp; pepper');
 
 /////////////////////////////////////////    lognormal Noise    ////////////////////
 //r7=imnoise2('lognormal',M,N,5,0.65);   // Generate lognormal Noise 
@@ -168,9 +168,3 @@ title('Salt & pepper');
 //figure;bar(cell,count,1.2);
 //mtlb_axis([0 255 0 5500]);
 //title('lognormal');
-
-
-
-
-
-

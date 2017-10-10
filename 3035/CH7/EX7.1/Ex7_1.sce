@@ -1,4 +1,34 @@
-// Variable Declaration
+//find..
+    clc
+    //solution
+    //given
+    Tb=3*10^6//N-mm
+    d=1//m
+    r=500//mm
+    u=0.3
+    q=0.61//rad
+    ub=(4*u*sin(q))/(2*q+sin(2*q))//eqivalent coffint of friction
+    //ref fig 25.12
+    //let S be spring force
+    //taking moment abt fulcrum O1
+    //S*1250=Rn1*600 + Ft1*(500-250)
+    //put Rn1=Ft1/ub...
+    //S*1250=2125*Ft1
+    //Ft1=S*1250/2125
+    //taking moment abt O2
+    //S*1250+Ft2(500-250)=Rn2*600
+    //Rn2=Ft2/ub
+    //S*1250+Ft2(500-250)=1625Ft2
+    //Ft2=S*1250/1625
+    //Tb=(Ft1+Ft2)*r=680*S
+    S=Tb/680
+    printf("spring force is,%f N\n",S)
+    //let b be width of brakes shoes
+    //Ab=b*(2*r*sin(q))//mm
+    Ft1=S*1250/2125
+    Rn1=Ft1/ub
+    Ft2=S*1250/1625
+    Rn2=Ft2/ub// Variable Declaration
 V = 400.0       //Voltage supplied(V)
 f = 50.0        //Frequency(Hz)
 P_1 = 75.0      //Power of induction motor at middle of distributor(kVA)
@@ -41,3 +71,6 @@ if(V_f > V_per) then
 else
     printf('Overall cross-sectional area of the 7/3.00 mm Ferret ACSR conductors having overall conductor diameter of 9.0 mm = %.2f mm^2' ,area_f)
 end
+
+printf("END")
+//End error, but doesn't affect functioning of code

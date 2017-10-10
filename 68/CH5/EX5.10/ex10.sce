@@ -10,9 +10,7 @@ V_BB=V_CC*R_B2/(R_B1+R_B2);
 disp(V_BB,"V_BB (V)")
 R_BB=R_B1*R_B2/(R_B1+R_B2);
 disp(R_BB,"R_BB (ohm)")
-I_B=I_E/(B+1);
-disp(I_B,"Base current (A)")
-I_E=(V_BB-V_BE)/(R_E +(R_BB/(B+1)))
+I_E=(V_BB-V_BE)/(R_E +(R_BB/(B+1)));
 disp(I_E,"Emiter current (A)")
 I_B=I_E/(B+1)
 disp(I_B,"Base current (A)")

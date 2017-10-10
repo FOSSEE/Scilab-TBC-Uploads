@@ -2,5 +2,5 @@
 //Sketch the signal x(t)=u(t)
 clc;
 t=0:1/100:10
-x=1;
-plot(t,x);
+x=ones(length(t),1);
+plot(t,x);plot(t,x);

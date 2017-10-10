@@ -1,6 +1,7 @@
 //CHAPTER 6- MAGNETIC CIRCUITS
 //Example 3
 
+clc;
 disp("CHAPTER 6");
 disp("EXAMPLE 3");
 

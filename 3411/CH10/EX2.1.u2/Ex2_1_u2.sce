@@ -12,8 +12,8 @@ disp(n)
 printf("m^-3")
 row=6.8*10^7         //units in ohm^-1 metre^-1
 n=5.86*10^28         //units in m^-3
-e=1.6*10^-19  
-u=(row)/(n*e)
+e=1.6*10^-19         //units in  coulombs
+u=(row)/(n*e)            //units in m^2 V^-1 sec^-1
 printf("\nThe conductivity is u=")
 disp(u)
 printf("m^2 V^-1 sec^-1")

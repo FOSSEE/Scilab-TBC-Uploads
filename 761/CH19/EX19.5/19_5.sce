@@ -1,7 +1,7 @@
 clc;
 // page no 712
 // prob no 19.5
-......///// refer table 19.1///////.......
+///// refer table 19.1///////.......
 // The proportion in the table are voltage levels and have to be squared to get power.
 // for black setup the voltage level is given as
 v=0.675;

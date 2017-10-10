@@ -1,5 +1,6 @@
 //ques5
 clc
+syms x
 disp('solution of the given linear differential equation is given by : ');
 m=poly(0,'m');
 f=m^2+5*m+6;

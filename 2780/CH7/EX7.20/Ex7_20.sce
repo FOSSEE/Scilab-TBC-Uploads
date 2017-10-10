@@ -1,5 +1,6 @@
 clc
 //to calculate uncertainity in frequency
+h = 3.16152649*10^-26;
 delt=10^-8 //uncertainity in time
 delnu=1/(2*%pi*delt) 
 disp("minimum uncertainity in the frequency of a photon is delnu="+string(delnu)+"sec^-1")

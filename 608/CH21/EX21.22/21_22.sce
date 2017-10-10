@@ -18,8 +18,8 @@ Vd = V - E
 Ia = Vd/Ra
 //T proportional to (Phi*Ia), since the torque is constant,
 //Phi1*Ia1 = Phi2*Ia2,  The flux 8 is reduced by 10%, hence
-Phi2 = (1-x)*Phi1
-Ia2 = Phi1*Ia1/Phi2
+//Phi2 = (1-x)*Phi1
+Ia2 = Ia1/0.9
 
 printf("\n\n Result \n\n")
 printf("\n (a)instantaneous value of the current %.0f A ",Ia)

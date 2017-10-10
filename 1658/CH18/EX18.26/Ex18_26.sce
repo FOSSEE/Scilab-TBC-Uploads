@@ -22,11 +22,9 @@ IC2=IE2;
 VC2=VCC-IC2*RC;
 disp('V',VC2,"VC2=");
 VE=-VBE2;
-VCE2=VC-VE;
+VCE2=VC2-VE;
 disp('V',VCE2,"VCE2=");
 delIc=(IC2-IC1)/IC1;
 disp('%',delIc*100,"delIc=");
 delVCE=(VCE1-VCE2)/VCE2;
 disp('%',delVCE*100,"delVCE=");
-
-

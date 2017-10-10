@@ -45,5 +45,5 @@ plot(point1(:,1),point1(:,2),point2(:,1),point2(:,2));
 legend("X1 = 0.5","X1 = 0.75");
 xlabel("Mole fraction");
 ylabel("Molar Volume");
-printf("Partial molar volume of component 1 is %.2e cubic m/mol\n",V1_bar);
-printf("Partial molar volume of component 2 is %.2e cubic m/mol\n",V2_bar);
+printf("Partial molar volume of component 1 is %.2e cubic m/mol\n",V1_bar2);
+printf("Partial molar volume of component 2 is %.2e cubic m/mol\n",V2_bar2);

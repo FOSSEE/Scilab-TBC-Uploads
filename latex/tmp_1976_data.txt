@@ -1,0 +1,85 @@
+8#Electrolytic Process#8.5#To determine the weights of Nickel and Silver Deposited#Ex8_5.sce#1976/CH8/EX8.5/Ex8_5.sce#S##113029
+8#Electrolytic Process#8.4#To Calculate the Energy usedd in producing chemical action developed in an electrolytic cell#Ex8_4.sce#1976/CH8/EX8.4/Ex8_4.sce#S##113028
+8#Electrolytic Process#8.3#To Determine the Annual output of copper#Ex8_3.sce#1976/CH8/EX8.3/Ex8_3.sce#S##113027
+8#Electrolytic Process#8.2#To detemine the Electrochemical Equivalent of Silver#Ex8_2.sce#1976/CH8/EX8.2/Ex8_2.sce#S##113026
+8#Electrolytic Process#8.1#To determine the quantity of current#Ex8_1.sce#1976/CH8/EX8.1/Ex8_1.sce#S##113025
+7#Electric Traction#7.9#To deduce the speed current characteristic of the motor#Ex7_9.sce#1976/CH7/EX7.9/Ex7_9.sce#S##113015
+7#Electric Traction#7.8#To determine the weight of the locomotive#Ex7_8.sce#1976/CH7/EX7.8/Ex7_8.sce#S##113014
+7#Electric Traction#7.7#To determine the specific energy consumption#Ex7_7.sce#1976/CH7/EX7.7/Ex7_7.sce#S##113013
+7#Electric Traction#7.6#To determine the Specific Energy Output Runs for Both the Cases#Ex7_6.sce#1976/CH7/EX7.6/Ex7_6.sce#S##113012
+7#Electric Traction#7.5#To determine the Factors affeting the mechanics of the Train#Ex7_5.sce#1976/CH7/EX7.5/Ex7_5.sce#S##113011
+7#Electric Traction#7.4#To determine the time taken by the train to attain a particular speed#Ex7_4.sce#1976/CH7/EX7.4/Ex7_4.sce#S##113010
+7#Electric Traction#7.3#To determine the acceleration required to run the service#Ex7_3.sce#1976/CH7/EX7.3/Ex7_3.sce#S##113009
+7#Electric Traction#7.2#To determine the duration of acceleration and others#Ex7_2.sce#1976/CH7/EX7.2/Ex7_2.sce#S##113008
+7#Electric Traction#7.19#To determine the value of resistance to be connected in the motor circuit#Ex7_19.sce#1976/CH7/EX7.19/Ex7_19.sce#S##113024
+7#Electric Traction#7.18#To determine the power fed into the supply system#Ex7_18.sce#1976/CH7/EX7.18/Ex7_18.sce#S##113023
+7#Electric Traction#7.17#To detemine the characteristics for tapping of 30 percent of the turns#Ex7_17.sce#1976/CH7/EX7.17/Ex7_17.sce#S##113022
+7#Electric Traction#7.16#To Determine the Resistance of the Various Steps in a Series Motor#Ex7_16.sce#1976/CH7/EX7.16/Ex7_16.sce#S##113021
+7#Electric Traction#7.15#To determine the characteristics gear ratio and wheels are replaced#Ex7_15.sce#1976/CH7/EX7.15/Ex7_15.sce#S##113020
+7#Electric Traction#7.14#To determine the speed of motors when connected in series#Ex7_14.sce#1976/CH7/EX7.14/Ex7_14.sce#S##113019
+7#Electric Traction#7.13#To determine the traction control of 2 motors rated at 1500V#Ex7_13.sce#1976/CH7/EX7.13/Ex7_13.sce#S##113018
+7#Electric Traction#7.12#To Determine the tractive effort shared by the two locomotives#Ex7_12.sce#1976/CH7/EX7.12/Ex7_12.sce#S##113017
+7#Electric Traction#7.11#To determine the horse power delivered by the locomotive#Ex7_11.sce#1976/CH7/EX7.11/Ex7_11.sce#S##113016
+7#Electric Traction#7.10#To determine the speed torque curve for the series motor#Ex7_10.sce#1976/CH7/EX7.10/Ex7_10.sce#S##113005
+7#Electric Traction#7.10#To determine the speed torque curve for the series motor#Ex7_10.jpg#1976/CH7/EX7.10/Ex7_10.jpg#R##113006
+7#Electric Traction#7.1#To determine the Acceleration and Coasting Period#Ex7_1.sce#1976/CH7/EX7.1/Ex7_1.sce#S##113007
+6#Illumination Engineering#6.9#To determine the number of lamps required#Ex6_9.sce#1976/CH6/EX6.9/Ex6_9.sce#S##113002
+6#Illumination Engineering#6.8#To estimate the number rating and disposition of the lamps#Ex6_8.sce#1976/CH6/EX6.8/Ex6_8.sce#S##112999
+6#Illumination Engineering#6.7#To determine the illumination over a disc#Ex6_7.sce#1976/CH6/EX6.7/Ex6_7.sce#S##112998
+6#Illumination Engineering#6.6#To determine illumination at a point when a mirror is used#Ex6_6.sce#1976/CH6/EX6.6/Ex6_6.sce#S##112997
+6#Illumination Engineering#6.4#To determine average illumination and illumination at various points on the area#Ex6_4.sce#1976/CH6/EX6.4/Ex6_4.sce#S##112996
+6#Illumination Engineering#6.3#To calculate Spherical Candle Power and intensity of illumination#Ex6_3.sce#1976/CH6/EX6.3/Ex6_3.sce#S##112995
+6#Illumination Engineering#6.2#To determine the total radiation sent vertically downward from a lamp of 1500 cp#Ex6_2.sce#1976/CH6/EX6.2/Ex6_2.sce#S##113001
+6#Illumination Engineering#6.11#Determine the output voltage#Ex6_11.sce#1976/CH6/EX6.11/Ex6_11.sce#S##113004
+6#Illumination Engineering#6.10#To determine the illumination on the ground#Ex6_10.sce#1976/CH6/EX6.10/Ex6_10.sce#S##113003
+6#Illumination Engineering#6.1#To determine the value of resistance to be connected in the motor circuit#Ex6_1.sce#1976/CH6/EX6.1/Ex6_1.sce#S##112994
+5#Electric Heating And Welding#5.8#To estimate the voltage and Current during heating#Ex5_8.sce#1976/CH5/EX5.8/Ex5_8.sce#S##112993
+5#Electric Heating And Welding#5.7#To determine the Voltage Required and Current Drawn#Ex5_7.sce#1976/CH5/EX5.7/Ex5_7.sce#S##112992
+5#Electric Heating And Welding#5.6#To Detemine power absorbed and the power factor#Ex5_6.sce#1976/CH5/EX5.6/Ex5_6.sce#S##112991
+5#Electric Heating And Welding#5.5#To Determine the equivalent resistance of the charge and current#Ex5_5.sce#1976/CH5/EX5.5/Ex5_5.sce#S##112990
+5#Electric Heating And Welding#5.4#To determine the effciency of a high frequency induction furnance#Ex5_4.sce#1976/CH5/EX5.4/Ex5_4.sce#S##112988
+5#Electric Heating And Welding#5.3#To Determine the average KW input to the furnace#Ex5_3.sce#1976/CH5/EX5.3/Ex5_3.sce#S##112989
+5#Electric Heating And Welding#5.2#To determine the various temperature by changing the connection of the resistance elements#Ex5_2.sce#1976/CH5/EX5.2/Ex5_2.sce#S##112987
+5#Electric Heating And Welding#5.1#To determine the size and length of the wire#Ex5_1.sce#1976/CH5/EX5.1/Ex5_1.sce#S##112986
+4#Electric Drives and Industrial Applications#4.9#To Determine the time taken to start the motor#Ex4_9.sce#1976/CH4/EX4.9/Ex4_9.sce#S##113051
+4#Electric Drives and Industrial Applications#4.8#To Determine the value of resistor connected in series to run the fan at a particular speed#Ex4_8.sce#1976/CH4/EX4.8/Ex4_8.sce#S##113050
+4#Electric Drives and Industrial Applications#4.7#To Detemine Minimum Starting Current drawn from the supply#Ex4_7.sce#1976/CH4/EX4.7/Ex4_7.sce#S##113049
+4#Electric Drives and Industrial Applications#4.6#To Determine the starting torque and starting current for various starters#Ex4_6.sce#1976/CH4/EX4.6/Ex4_6.sce#S##113048
+4#Electric Drives and Industrial Applications#4.5#To Determine the Maximum Torque as ratio of nominal value of voltage#Ex4_5.sce#1976/CH4/EX4.5/Ex4_5.sce#S##113047
+4#Electric Drives and Industrial Applications#4.4#To Determine the slip at maximum torque and at full load#Ex4_4.sce#1976/CH4/EX4.4/Ex4_4.sce#S##113046
+4#Electric Drives and Industrial Applications#4.3#To determine the speed for which the torque is maximum#Ex4_3.sce#1976/CH4/EX4.3/Ex4_3.sce#S##113045
+4#Electric Drives and Industrial Applications#4.2#To Determine the resistance to be inserted for various cases#Ex4_2.sce#1976/CH4/EX4.2/Ex4_2.sce#S##113044
+4#Electric Drives and Industrial Applications#4.19#To determine the range of speed control and duty cycle#Ex4_19.sce#1976/CH4/EX4.19/Ex4_19.sce#S##113061
+4#Electric Drives and Industrial Applications#4.18#To determine the pulse width for a particular average value of back EMF#Ex4_18.sce#1976/CH4/EX4.18/Ex4_18.sce#S##113060
+4#Electric Drives and Industrial Applications#4.17#To Determine the motor current and torque for a particular firing angle#Ex4_17.sce#1976/CH4/EX4.17/Ex4_17.sce#S##113059
+4#Electric Drives and Industrial Applications#4.16#To determine the speed and torque of a single phase full converter#Ex4_16.sce#1976/CH4/EX4.16/Ex4_16.sce#S##113058
+4#Electric Drives and Industrial Applications#4.15#To determine the Moment of intertia of the flywheel#Ex4_15.sce#1976/CH4/EX4.15/Ex4_15.sce#S##113057
+4#Electric Drives and Industrial Applications#4.14#To Determine the Moment of intertia for a slip of 8 percent#Ex4_14.sce#1976/CH4/EX4.14/Ex4_14.sce#S##113056
+4#Electric Drives and Industrial Applications#4.13#To estimate the final temperature of the machine and its time constant#Ex4_13.sce#1976/CH4/EX4.13/Ex4_13.sce#S##113055
+4#Electric Drives and Industrial Applications#4.12#To Determine the Continous Rating of the Motor for Suitable Conditions#Ex4_12.sce#1976/CH4/EX4.12/Ex4_12.sce#S##113054
+4#Electric Drives and Industrial Applications#4.11#To Determine the 30 mins rating of motor#Ex4_11.sce#1976/CH4/EX4.11/Ex4_11.sce#S##113053
+4#Electric Drives and Industrial Applications#4.10#To time taken and the number of revolutions made before the motor is stopped#Ex4_10.sce#1976/CH4/EX4.10/Ex4_10.sce#S##113052
+4#Electric Drives and Industrial Applications#4.1#To Determine Motor Parameters of Series Motor rated at 220V#Ex4_1.sce#1976/CH4/EX4.1/Ex4_1.sce#S##113043
+3#Distribution#3.9#To Determine the location and magnitude of minimum voltage#Ex3_9.sce#1976/CH3/EX3.9/Ex3_9.sce#S##113037
+3#Distribution#3.8#To determine the cross section of the conductor for a minimum consumer voltage#Ex3_8.sce#1976/CH3/EX3.8/Ex3_8.sce#S##113036
+3#Distribution#3.7#To determine the cross section of the conductor for a minimum consumer voltage#Ex3_7.sce#1976/CH3/EX3.7/Ex3_7.sce#S##113035
+3#Distribution#3.6#To obtain the voltages at the far end of the positive and negative wires#3_6.sce#1976/CH3/EX3.6/3_6.sce#S##74565
+3#Distribution#3.5#To Calculate Voltage between middle wire and outer at each load point#Ex3_5.sce#1976/CH3/EX3.5/Ex3_5.sce#S##113034
+3#Distribution#3.4#To determine the most economical cross section for a 3 Phase line 8 km long#Ex3_4.sce#1976/CH3/EX3.4/Ex3_4.sce#S##113033
+3#Distribution#3.3#To determine the Most Economical Cross Sectional Area to supply a 3 Phase Load#Ex3_3.sce#1976/CH3/EX3.3/Ex3_3.sce#S##113032
+3#Distribution#3.2#To determine the most economical cross sectional area#Ex3_2.sce#1976/CH3/EX3.2/Ex3_2.sce#S##113031
+3#Distribution#3.14#To determine the best location of the substation for a given set of loads#Ex3_14.sce#1976/CH3/EX3.14/Ex3_14.sce#S##113042
+3#Distribution#3.13#To determine line currents and neutral currents#Ex3_13.sce#1976/CH3/EX3.13/Ex3_13.sce#S##113041
+3#Distribution#3.12#To Determine the Voltage at the far end#Ex3_12.sce#1976/CH3/EX3.12/Ex3_12.sce#S##113040
+3#Distribution#3.11#To Compare the volume of copper required#Ex3_11.sce#1976/CH3/EX3.11/Ex3_11.sce#S##113039
+3#Distribution#3.10#To determine the currents supplied to the ring main from A and B#Ex3_10.sce#1976/CH3/EX3.10/Ex3_10.sce#S##113038
+3#Distribution#3.1#To Determine the most economical current density#Ex3_1.sce#1976/CH3/EX3.1/Ex3_1.sce#S##113030
+2#Economics Of Generation#2.9#To determine the most economic power factor#Ex2_9.sce#1976/CH2/EX2.9/Ex2_9.sce#S##112985
+2#Economics Of Generation#2.8#To Obatin a two part tariff for the consumers#Ex2_8.sce#1976/CH2/EX2.8/Ex2_8.sce#S##112984
+2#Economics Of Generation#2.7#To determine the amount saved to replace the equipment#Ex2_7.sce#1976/CH2/EX2.7/Ex2_7.sce#S##112983
+2#Economics Of Generation#2.6#To determine the Overall cost per kWhr#Ex2_6.sce#1976/CH2/EX2.6/Ex2_6.sce#S##112982
+2#Economics Of Generation#2.5#To determine the Plant use factore of each unit#Ex2_5.sce#1976/CH2/EX2.5/Ex2_5.sce#S##112981
+2#Economics Of Generation#2.4#To determine the Load factor and suitable units for 24 hr operation of the plant#Ex2_4.sce#1976/CH2/EX2.4/Ex2_4.sce#S##112980
+2#Economics Of Generation#2.3#To Determine the Yearly Cost of the substation#Ex2_3.sce#1976/CH2/EX2.3/Ex2_3.sce#S##112979
+2#Economics Of Generation#2.2#To determine the Demand and supply parameter of four consumers#Ex2_2.sce#1976/CH2/EX2.2/Ex2_2.sce#S##112978
+2#Economics Of Generation#2.1#To Determine the Demand and Supply Parameters for 15 bulbs#Ex2_1.sce#1976/CH2/EX2.1/Ex2_1.sce#S##112977

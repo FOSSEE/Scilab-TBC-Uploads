@@ -1,0 +1,94 @@
+Ex10_9.tif#3176/DEPENDENCIES/Ex10_9.tif#Another illustration of the three principal Edge Detection Methods#1183
+Ex10_8.tif#3176/DEPENDENCIES/Ex10_8.tif#Illustration of the Canny Edge Detection Methods#1181
+Ex10_7.tif#3176/DEPENDENCIES/Ex10_7.tif#Illustration of the Marr Hildreth Edge Detection Methods#1178
+Ex10_6.tif#3176/DEPENDENCIES/Ex10_6.tif#Illustration of the 2 D Gradient Magnitude and Angle#1179
+Ex10_4.tif#3176/DEPENDENCIES/Ex10_4.tif#Behavior of the First and Second Derivative of a Noisy Edge#1177
+Ex10_3.tif#3176/DEPENDENCIES/Ex10_3.tif#Detection of Lines in Specified Direction#1180
+Ex10_22.tif#3176/DEPENDENCIES/Ex10_22.tif#Document Thresholding Using Moving Averages#1184
+Ex10_20.tif#3176/DEPENDENCIES/Ex10_20.tif#Variable Thresholding Via Image Partitioning#1176
+Ex10_2.tif#3176/DEPENDENCIES/Ex10_2.tif#Using the Laplacian for the Detection#1182
+Ex10_19.tif#3176/DEPENDENCIES/Ex10_19.tif#Multipal Global Thresholding#1175
+Ex10_18.tif#3176/DEPENDENCIES/Ex10_18.tif#Using Edge Information Based on the Laplacian to Improve Global Thresholding#1174
+Ex10_16.tif#3176/DEPENDENCIES/Ex10_16.tif#Optimum Global Thresholding using Otsu's Method#1173
+Ex10_15.tif#3176/DEPENDENCIES/Ex10_15.tif#Global Thresholding#1172
+Ex10_1.tif#3176/DEPENDENCIES/Ex10_1.tif#Detection of Isolated Point in an Image#1171
+Ex9_9.png#3176/DEPENDENCIES/Ex9_9.png#Illustration of Gray Scale Erosion and Dilation#1169
+Ex9_7.png#3176/DEPENDENCIES/Ex9_7.png#Using Connected Components to Detect Foreign Object in Packaged Food#1168
+Ex9_5.png#3176/DEPENDENCIES/Ex9_5.png#Boundary Extraction by Morphological Processing#1170
+Ex9_4.png#3176/DEPENDENCIES/Ex9_4.png#Use of opening and closing for Morphological Filtering#1167
+Ex9_2.tif#3176/DEPENDENCIES/Ex9_2.tif#An Illustration of Dilation#1166
+Ex9_10.png#3176/DEPENDENCIES/Ex9_10.png#Illustration of Gray Scale Opening and Closing#1165
+Ex9_1.tif#3176/DEPENDENCIES/Ex9_1.tif#Using Erosion to remove image component#1164
+Ex8_2.tif#3176/DEPENDENCIES/Ex8_2.tif#Image Entropy Estimation#1163
+Ex6_9_3.tif#3176/DEPENDENCIES/Ex6_9_3.tif#Tonal Transformations#1148
+Ex6_9_2.tif#3176/DEPENDENCIES/Ex6_9_2.tif#Tonal Transformations#1147
+Ex6_9_1.tif#3176/DEPENDENCIES/Ex6_9_1.tif#Tonal Transformations#1146
+Ex6_7.tif#3176/DEPENDENCIES/Ex6_7.tif#Computing Color Image Components#1145
+Ex6_6_4.TIF#3176/DEPENDENCIES/Ex6_6_4.TIF#Color Coding of Multi Spectral Images#1157
+Ex6_6_3.TIF#3176/DEPENDENCIES/Ex6_6_3.TIF#Color Coding of Multi Spectral Images#1156
+Ex6_6_2.TIF#3176/DEPENDENCIES/Ex6_6_2.TIF#Color Coding of Multi Spectral Images#1155
+Ex6_6_1.TIF#3176/DEPENDENCIES/Ex6_6_1.TIF#Color Coding of Multi Spectral Images#1154
+Ex6_5.png#3176/DEPENDENCIES/Ex6_5.png#Use of Psedocolor for highlighting Exposives Contained in Luggage#1153
+Ex6_4.tif#3176/DEPENDENCIES/Ex6_4.tif#Use of Color to Highlight Rainfall Levels#1144
+Ex6_3.tif#3176/DEPENDENCIES/Ex6_3.tif#Intensity Slicing#1143
+Ex6_17_R.tif#3176/DEPENDENCIES/Ex6_17_R.tif#Illustration of the effects of converting noisy RGB Images to HSI#1152
+Ex6_17_G.tif#3176/DEPENDENCIES/Ex6_17_G.tif#Illustration of the effects of converting noisy RGB Images to HSI#1151
+Ex6_17_B.tif#3176/DEPENDENCIES/Ex6_17_B.tif#Illustration of the effects of converting noisy RGB Images to HSI#1150
+Ex6_16.tif#3176/DEPENDENCIES/Ex6_16.tif#Edge Detection Vector Space#1149
+Ex6_14.tif#3176/DEPENDENCIES/Ex6_14.tif#egmentation in HSI Space#1162
+Ex6_13.tif#3176/DEPENDENCIES/Ex6_13.tif#Sharpning with the Laplacian#1161
+Ex6_12.tif#3176/DEPENDENCIES/Ex6_12.tif#Color Image Smoothning by Neighbourhood Averaging#1160
+Ex6_11.tif#3176/DEPENDENCIES/Ex6_11.tif#Histogram Equalization in the HSI Color Space#1159
+Ex6_10.tif#3176/DEPENDENCIES/Ex6_10.tif#Color Balancing#1158
+Ex5_8.tif#3176/DEPENDENCIES/Ex5_8.tif#Removal of Periodic Noise by Notch Filtering#1095
+Ex5_5.tif#3176/DEPENDENCIES/Ex5_5.tif#Illustration of Adaptive Median Filter#1094
+Ex5_4.tif#3176/DEPENDENCIES/Ex5_4.tif#Illustration of Adaptive Local Noise Reduction Filtering#1090
+Ex5_3.tif#3176/DEPENDENCIES/Ex5_3.tif#Illustration of Order Statistic filter#1093
+Ex5_2.tif#3176/DEPENDENCIES/Ex5_2.tif#Illustration of Mean Filters#1092
+Ex5_12.png#3176/DEPENDENCIES/Ex5_12.png#Comparision of Inverse Filtering and Wiener Filtering#1098
+Ex5_11.png#3176/DEPENDENCIES/Ex5_11.png#Inverse Filtering#1097
+Ex5_10.png#3176/DEPENDENCIES/Ex5_10.png#Image Bluring Due to Motion#1096
+Ex5_1.tif#3176/DEPENDENCIES/Ex5_1.tif#Noisy Images and their Histogram#1091
+Ex4_9.tif#3176/DEPENDENCIES/Ex4_9.tif#Illustration of Jaggies in Image Zooming#1127
+Ex4_8.tif#3176/DEPENDENCIES/Ex4_8.tif#Illustration of Jaggies in Image Shrinking#1126
+Ex4_7.tif#3176/DEPENDENCIES/Ex4_7.tif#Illustration of Aliasing in Resampled Images#1125
+Ex4_24.tif#3176/DEPENDENCIES/Ex4_24.tif#Enhancement of Corrupted Cassini Saturn Image by Notch Filtering#1142
+Ex4_23.tif#3176/DEPENDENCIES/Ex4_23.tif#Reduction of Moire Patterns Using Notch Filtering#1141
+Ex4_22.tif#3176/DEPENDENCIES/Ex4_22.tif#Image Enhancement using Homomorphic Filtering#1140
+Ex4_21.tif#3176/DEPENDENCIES/Ex4_21.tif#Image Enhancement using High Frequency Emphasis Filtering#1139
+Ex4_20.tif#3176/DEPENDENCIES/Ex4_20.tif#Image Sharpning in the Frequency Domain using the Laplacian#1138
+Ex4_19.tif#3176/DEPENDENCIES/Ex4_19.tif#Using Highpass Filter and Thresholding for Image enhancement#1137
+Ex4_18.tif#3176/DEPENDENCIES/Ex4_18.tif#Image Smoothing using Gaussian Lowpass Filter#1136
+Ex4_17.tif#3176/DEPENDENCIES/Ex4_17.tif#Image Smoothing with a Butterworth Lowoass Filter#1135
+Ex4_16.tif#3176/DEPENDENCIES/Ex4_16.tif#Image Smoothing using an ILPF#1134
+Ex4_15.tif#3176/DEPENDENCIES/Ex4_15.tif#Obtaining a Frequency Domain Filtering from a Small Spatial Mask#1133
+Ex4_14_2.tif#3176/DEPENDENCIES/Ex4_14_2.tif#Illustration of the Properties of the Fourier Spectrum and Phase Angle#1132
+Ex4_14.tif#3176/DEPENDENCIES/Ex4_14.tif#Illustration of the Properties of the Fourier Spectrum and Phase Angle#1131
+Ex4_13_3.png#3176/DEPENDENCIES/Ex4_13_3.png#2 D Fourier Spectrum of a Simple Function#1130
+Ex4_13_2.png#3176/DEPENDENCIES/Ex4_13_2.png#2 D Fourier Spectrum of a Simple Function#1129
+Ex4_13_1.tif#3176/DEPENDENCIES/Ex4_13_1.tif#2 D Fourier Spectrum of a Simple Function#1128
+Ex3_6_2.tif#3176/DEPENDENCIES/Ex3_6_2.tif#Histogram Equalization#1124
+Ex3_6_1.tif#3176/DEPENDENCIES/Ex3_6_1.tif#Histogram Equalization#1123
+Ex3_6.tif#3176/DEPENDENCIES/Ex3_6.tif#Histogram Equalization#1122
+Ex3_3.tif#3176/DEPENDENCIES/Ex3_3.tif#Intensity Level Slicing#1121
+Ex3_2.tif#3176/DEPENDENCIES/Ex3_2.tif#Illustration of Power Law Transformation#1120
+Ex3_17.png#3176/DEPENDENCIES/Ex3_17.png#Use of gradient for Edge Enhancement #1117
+Ex3_16.tif#3176/DEPENDENCIES/Ex3_16.tif#Image Sharpning using Un-Sharp Masking and High-Boost Filtering #1116
+Ex3_15.tif#3176/DEPENDENCIES/Ex3_15.tif#Image Sharpning using Laplacian #1119
+Ex3_14.tif#3176/DEPENDENCIES/Ex3_14.tif#Median Filtering for Noise Reduction#1118
+Ex3_13.tif#3176/DEPENDENCIES/Ex3_13.tif#Image Smoothing#1114
+Ex3_12.tif#3176/DEPENDENCIES/Ex3_12.tif#Local Enhancement using Histogram Statistic#1113
+Ex3_10.tif#3176/DEPENDENCIES/Ex3_10.tif#Local Histogram Equalization#1115
+Ex3_1.tif#3176/DEPENDENCIES/Ex3_1.tif#Gamma Intensity transformation#1112
+Ex2_7_3.tif#3176/DEPENDENCIES/Ex2_7_3.tif#Image Multiplication for Shadding Correction#1107
+Ex2_7_2.tif#3176/DEPENDENCIES/Ex2_7_2.tif#Image Multiplication for Shadding Correction#1106
+Ex2_7_1.tif#3176/DEPENDENCIES/Ex2_7_1.tif#Image Multiplication for Shadding Correction#1105
+Ex2_7.tif#3176/DEPENDENCIES/Ex2_7.tif#Image Multiplication for Shadding Correction#1104
+Ex2_6.tif#3176/DEPENDENCIES/Ex2_6.tif#Image Subtraction for Enhancing differences#1103
+Ex2_5.tif#3176/DEPENDENCIES/Ex2_5.tif#Addition of Noisy Images for Noise Reduction#1102
+Ex2_4.tif#3176/DEPENDENCIES/Ex2_4.tif#Comparision of Interpolation Approaches for Image Shrinking and Zooming#1101
+Ex2_3.png#3176/DEPENDENCIES/Ex2_3.png#Typical Effects of Varying the Number of Intensity Levels in a digital Image#1100
+Ex2_2.tif#3176/DEPENDENCIES/Ex2_2.tif#Illustration of the Effects of Reducing Image Spatial Resolution#1099
+Ex2_12_2.tif#3176/DEPENDENCIES/Ex2_12_2.tif#Standard Deviation#1111
+Ex2_12_1.tif#3176/DEPENDENCIES/Ex2_12_1.tif#Standard Deviation#1110
+Ex2_12.tif#3176/DEPENDENCIES/Ex2_12.tif#Standard Deviation#1109

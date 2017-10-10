@@ -28,7 +28,7 @@ Lac=KL/cosd(phi) //Length of arc of contact, mm
 //Calculating the circular pitch
 Pc=%pi*m //mm
 //Calculating the contact ratio
-CR=Lac/pc //Contact ratio
+CR=Lac/Pc //Contact ratio
 //Results:
 printf("\n\n Length of path of contact, KL = %.1f mm.\n\n",KL)
 printf(" Length of arc of contact = %.2f mm.\n\n",Lac)

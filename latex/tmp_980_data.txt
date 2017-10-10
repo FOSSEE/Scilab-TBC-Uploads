@@ -1,0 +1,84 @@
+15#Radio Wave Propagation#15.7#the refractive index of the atmosphere#15_7.sce#980/CH15/EX15.7/15_7.sce#S##71114
+15#Radio Wave Propagation#15.6#the distance for surface wave which can be used for given frequency#15_6.sce#980/CH15/EX15.6/15_6.sce#S##71113
+15#Radio Wave Propagation#15.14#the electron density and height of the layer#15_14.sce#980/CH15/EX15.14/15_14.sce#S##71117
+15#Radio Wave Propagation#15.13#the critical frequency#15_13.sce#980/CH15/EX15.13/15_13.sce#S##71116
+15#Radio Wave Propagation#15.12#the electron density at which the wave is reflected back#15_12.sce#980/CH15/EX15.12/15_12.sce#S##71115
+15#Radio Wave Propagation#15.11#The plasma frequency#15_11.sce#980/CH15/EX15.11/15_11.sce#S##49193
+14#Introduction to Antennas#14.6#Design of uniform antenna array#14_6.sce#980/CH14/EX14.6/14_6.sce#S##71109
+14#Introduction to Antennas#14.5#The progressive phase shift and BWFN#14_5.sce#980/CH14/EX14.5/14_5.sce#S##71108
+14#Introduction to Antennas#14.4#the first sidelobe level#14_4.sce#980/CH14/EX14.4/14_4.sce#S##71107
+14#Introduction to Antennas#14.14#The directivity of the horn#14_14.sce#980/CH14/EX14.14/14_14.sce#S##71112
+14#Introduction to Antennas#14.12#The directivity and half power beam width#14_12.sce#980/CH14/EX14.12/14_12.sce#S##71111
+14#Introduction to Antennas#14.10#The flare angle#14_10.sce#980/CH14/EX14.10/14_10.sce#S##71110
+13#Radiation from Currents#13.15#The transmitted power#13_15.sce#980/CH13/EX13.15/13_15.sce#S##71106
+13#Radiation from Currents#13.14#The power received by the receiving antenna#13_14.sce#980/CH13/EX13.14/13_14.sce#S##83356
+13#Radiation from Currents#13.11#The power density radiated#13_11.sce#980/CH13/EX13.11/13_11.sce#S##71104
+12#Transmission Lines and Waveguides#12.4#distance between the conductors for two wire line#12_4.sce#980/CH12/EX12.4/12_4.sce#S##71097
+12#Transmission Lines and Waveguides#12.3#L and C for the physical tansmission lines#12_3.sce#980/CH12/EX12.3/12_3.sce#S##71094
+12#Transmission Lines and Waveguides#12.24#the resonant frequency for the TE modes#12_24.sce#980/CH12/EX12.24/12_24.sce#S##71103
+12#Transmission Lines and Waveguides#12.23#the resonent frequency for the TM modes#12_23.sce#980/CH12/EX12.23/12_23.sce#S##71102
+12#Transmission Lines and Waveguides#12.20#modes that propagate in parallel plate waveguide#12_20.sce#980/CH12/EX12.20/12_20.sce#S##49179
+12#Transmission Lines and Waveguides#12.2#attenuation factor and characteristic impedence #12_2.sce#980/CH12/EX12.2/12_2.sce#S##71093
+11#Electromagnetic Waves#11.5#magnitude of the electric and magnetic field vectors#11_5.sce#980/CH11/EX11.5/11_5.sce#S##71082
+11#Electromagnetic Waves#11.4#Uniform Plane Wave#11_4.sce#980/CH11/EX11.4/11_4.sce#S##71079
+11#Electromagnetic Waves#11.18#The Brewster angle#11_18.sce#980/CH11/EX11.18/11_18.sce#S##71090
+11#Electromagnetic Waves#11.15#maxima minima and zeros of the standing wave#11_15.sce#980/CH11/EX11.15/11_15.sce#S##71089
+11#Electromagnetic Waves#11.12#propagation constant skin depth and the wave length in high conductivity materials#11_12.sce#980/CH11/EX11.12/11_12.sce#S##71086
+11#Electromagnetic Waves#11.11#low conductivity materials#11_11.sce#980/CH11/EX11.11/11_11.sce#S##49172
+11#Electromagnetic Waves#11.10#the complex propagation constant#11_10.sce#980/CH11/EX11.10/11_10.sce#S##71083
+11#Electromagnetic Waves#11.1#the propagation constant#11_1.sce#980/CH11/EX11.1/11_1.sce#S##71078
+10#Time dependent fields#10.15#the diraction of travelling wave and  its velocity #10_15.sce#980/CH10/EX10.15/10_15.sce#S##71075
+9#Magnetic forces Inductance and Magnetisation#9.7#force between two current carring parallel conductor#9_7.sce#980/CH9/EX9.7/9_7.sce#S##71064
+9#Magnetic forces Inductance and Magnetisation#9.6#force on a straight wire carrying current in a magnetic field#9_6.sce#980/CH9/EX9.6/9_6.sce#S##71063
+9#Magnetic forces Inductance and Magnetisation#9.4#Force on the moving charge in steady magnetic field #9_4.sce#980/CH9/EX9.4/9_4.sce#S##71062
+9#Magnetic forces Inductance and Magnetisation#9.2#electron moving in a steady magnetic field#9_2.sce#980/CH9/EX9.2/9_2.sce#S##71061
+9#Magnetic forces Inductance and Magnetisation#9.19#Inductance of single loop of wire#9_19.sce#980/CH9/EX9.19/9_19.sce#S##71072
+9#Magnetic forces Inductance and Magnetisation#9.17#Inductance per meter of a coaxial line#9_17.sce#980/CH9/EX9.17/9_17.sce#S##71069
+9#Magnetic forces Inductance and Magnetisation#9.14#Wheeler formula#9_14.sce#980/CH9/EX9.14/9_14.sce#S##71068
+9#Magnetic forces Inductance and Magnetisation#9.13#inductance of a coil#9_13.sce#980/CH9/EX9.13/9_13.sce#S##71065
+7#Laplace and Poisson Equations #7.7#The voltage in coaxial cylinders#7_7.sce#980/CH7/EX7.7/7_7.sce#S##71060
+6#The Electric Field and Material Media#6.8#Current density in conductor#6_8.sce#980/CH6/EX6.8/6_8.sce#S##95633
+6#The Electric Field and Material Media#6.5#Velocity of the mobile charge#6_5.sce#980/CH6/EX6.5/6_5.sce#S##71053
+6#The Electric Field and Material Media#6.4#The mobile charge density#6_4.sce#980/CH6/EX6.4/6_4.sce#S##71052
+6#The Electric Field and Material Media#6.3#The current density#6_3.sce#980/CH6/EX6.3/6_3.sce#S##71051
+6#The Electric Field and Material Media#6.2#The total charge passing a plane#6_2.sce#980/CH6/EX6.2/6_2.sce#S##71050
+6#The Electric Field and Material Media#6.19#Boundry condition for electrostatic field#6_19.sce#980/CH6/EX6.19/6_19.sce#S##71059
+6#The Electric Field and Material Media#6.16#The polarisation density in die electric#6_16.sce#980/CH6/EX6.16/6_16.sce#S##71058
+6#The Electric Field and Material Media#6.15#The conductivity of the material#6_15.sce#980/CH6/EX6.15/6_15.sce#S##71057
+6#The Electric Field and Material Media#6.11#The drift velocity and mobility of electrons#6_11.sce#980/CH6/EX6.11/6_11.sce#S##95634
+6#The Electric Field and Material Media#6.10#Relaxation time for conductors#6_10.sce#980/CH6/EX6.10/6_10.sce#S##71055
+6#The Electric Field and Material Media#6.1#The total charge passing a plane#6_1.sce#980/CH6/EX6.1/6_1.sce#S##71048
+5#Energy and Potential#5.2#Work done to move a charge#5_2.sce#980/CH5/EX5.2/5_2.sce#S##71045
+5#Energy and Potential#5.11#Motion of electron in electric field#5_11.sce#980/CH5/EX5.11/5_11.sce#S##71047
+5#Energy and Potential#5.10#Motion of electron in electric field#5_10.sce#980/CH5/EX5.10/5_10.sce#S##71046
+5#Energy and Potential#5.1#Work done to move a charge#5_1.sce#980/CH5/EX5.1/5_1.sce#S##71044
+4#The Electric Field and Gauss Law#4.8#Comparision between force of gravity and electrostatic attraction#4_8.sce#980/CH4/EX4.8/4_8.sce#S##71038
+4#The Electric Field and Gauss Law#4.7#Coulombs Law#4_7.sce#980/CH4/EX4.7/4_7.sce#S##71037
+4#The Electric Field and Gauss Law#4.6#Coulombs Law#4_6.sce#980/CH4/EX4.6/4_6.sce#S##71036
+4#The Electric Field and Gauss Law#4.5#Coulombs Law#4_5.sce#980/CH4/EX4.5/4_5.sce#S##71035
+4#The Electric Field and Gauss Law#4.3#Finding the total charge in the given region#4_3.sce#980/CH4/EX4.3/4_3.sce#S##71034
+4#The Electric Field and Gauss Law#4.23#Gauss Law Applied to a Charged Sphere #4_23.sce#980/CH4/EX4.23/4_23.sce#S##71043
+4#The Electric Field and Gauss Law#4.2#The charge density#4_2.sce#980/CH4/EX4.2/4_2.sce#S##71033
+4#The Electric Field and Gauss Law#4.12#Electric Field#4_12.sce#980/CH4/EX4.12/4_12.sce#S##71042
+4#The Electric Field and Gauss Law#4.11#Electric Field#4_11.sce#980/CH4/EX4.11/4_11.sce#S##71041
+4#The Electric Field and Gauss Law#4.10#Force due to electric field#4_10.sce#980/CH4/EX4.10/4_10.sce#S##71040
+3#Vector calculus#3.5#Line Integral#3_5.sce#980/CH3/EX3.5/3_5.sce#S##71032
+3#Vector calculus#3.4#The work done#3_4.sce#980/CH3/EX3.4/3_4.sce#S##95632
+3#Vector calculus#3.2#The length of the straight line#3_2.sce#980/CH3/EX3.2/3_2.sce#S##71031
+3#Vector calculus#3.1#The linear element#3_1.sce#980/CH3/EX3.1/3_1.sce#S##71030
+2#Coordinate Systems and Fields#2.9#Cylindrical coordinate system#2_9.sce#980/CH2/EX2.9/2_9.sce#S##71026
+2#Coordinate Systems and Fields#2.7#Equation of a plane#2_7.sce#980/CH2/EX2.7/2_7.sce#S##71025
+2#Coordinate Systems and Fields#2.6#Vector equations of a straight line#2_6.sce#980/CH2/EX2.6/2_6.sce#S##71023
+2#Coordinate Systems and Fields#2.4#Direction cosines#2_4.sce#980/CH2/EX2.4/2_4.sce#S##71021
+2#Coordinate Systems and Fields#2.12#Dot products between rectangular and cylindrical coordinate#2_12.sce#980/CH2/EX2.12/2_12.sce#S##71029
+2#Coordinate Systems and Fields#2.10#Cylindrical coordinate system#2_10.sce#980/CH2/EX2.10/2_10.sce#S##71027
+2#Coordinate Systems and Fields#2.1#The pressure at height#2_1.sce#980/CH2/EX2.1/2_1.sce#S##71020
+1#Scalars and vectors#1.8#The work done by a constant force#1_8.sce#980/CH1/EX1.8/1_8.sce#S##71017
+1#Scalars and vectors#1.7#Calculations with vector addtion#1_7.sce#980/CH1/EX1.7/1_7.sce#S##71016
+1#Scalars and vectors#1.6#Calculations with vector addtion#1_6.sce#980/CH1/EX1.6/1_6.sce#S##95631
+1#Scalars and vectors#1.5#Calculations with vector addtion#1_5.sce#980/CH1/EX1.5/1_5.sce#S##44196
+1#Scalars and vectors#1.3#Multiplication of two complex numbers#1_3.sce#980/CH1/EX1.3/1_3.sce#S##95625
+1#Scalars and vectors#1.2#Diameter of a circle#1_2.sce#980/CH1/EX1.2/1_2.sce#S##71014
+1#Scalars and vectors#1.12#Cross products in rectangular coordinates#1_12.sce#980/CH1/EX1.12/1_12.sce#S##71019
+1#Scalars and vectors#1.11#Cross products of orthogonal unit vectors#1_11.sce#980/CH1/EX1.11/1_11.sce#S##71018
+1#Scalars and vectors#1.1#The density of the material#1_1.sce#980/CH1/EX1.1/1_1.sce#S##71013

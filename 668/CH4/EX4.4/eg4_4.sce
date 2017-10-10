@@ -5,6 +5,7 @@ E2 = 10^7;
 eps0 = 8.84*10^-14; //in F/m
 eps = 11.9*eps0;
 q = 1.6*10^-19;
+h = 1.05*10^-34; 
 V1 = eps*E1^2/(2*Nd*q);
 disp(V1,"breakdown voltage for Si = ")
 V2 = eps*E2^2/(2*Nd*q);

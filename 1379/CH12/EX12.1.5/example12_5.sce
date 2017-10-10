@@ -1,10 +1,9 @@
-
-
 //example 12.5 
 clc; funcprot(0);
-// Initialization of Variable
+// Initialization of Variables
 l=25;
-pi=3.1428;
+ g = 9.81;
+pi=%pi;
 rhos=2690;//density of ore
 emin=0.6;
 emax=0.8;

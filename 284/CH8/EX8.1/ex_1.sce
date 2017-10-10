@@ -1,6 +1,8 @@
 // Chapter 8_Metal Semiconductor and Semiconductor heterojunctions
 //Caption_Shottky barrier diode
 //Ex_1//page 308
+eps=13.1*8.85*10^-14;
+e = 1.6*10^-19;
 T=300    //temperature in kelvin
 Nd=10^16    //donor impurity
 phi_m=4.55    //metal work function for tungsten

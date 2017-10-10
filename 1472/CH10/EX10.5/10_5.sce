@@ -1,5 +1,5 @@
 clc
-//initialization of varaibles
+//initialization of variables
 x=0.97
 P=100 //psia
 //calculations
@@ -11,4 +11,4 @@ hg=1187.2
 hx2=hg-(1-x)*hfg
 //results
 printf("Accurate Enthalpy = %.1f B/lb",hx2)
-printf("\n Enthalpy = %d B/lb")
+printf("\n Enthalpy = %.1f B/lb", hg)

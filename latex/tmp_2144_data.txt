@@ -1,0 +1,138 @@
+8#Fuels and Combustion#8.9#Minimum quantity of air#ex8_9.sce#2144/CH8/EX8.9/ex8_9.sce#S##74318
+8#Fuels and Combustion#8.8#Mass of air#ex8_8.sce#2144/CH8/EX8.8/ex8_8.sce#S##74317
+8#Fuels and Combustion#8.7#Theoretical mass of air#ex8_7.sce#2144/CH8/EX8.7/ex8_7.sce#S##74316
+8#Fuels and Combustion#8.6#Theoretical mass of air#ex8_6.sce#2144/CH8/EX8.6/ex8_6.sce#S##74315
+8#Fuels and Combustion#8.5#Calorific value#ex8_5.sce#2144/CH8/EX8.5/ex8_5.sce#S##74314
+8#Fuels and Combustion#8.4#HCV and LCV#ex8_4.sce#2144/CH8/EX8.4/ex8_4.sce#S##74313
+8#Fuels and Combustion#8.3#Calorific value of a sample of coal#ex8_3.sce#2144/CH8/EX8.3/ex8_3.sce#S##74312
+8#Fuels and Combustion#8.20#Air fuel ratio by different methods#ex8_20.sce#2144/CH8/EX8.20/ex8_20.sce#S##74329
+8#Fuels and Combustion#8.2#HCV and LCV#ex8_2.sce#2144/CH8/EX8.2/ex8_2.sce#S##74311
+8#Fuels and Combustion#8.19#Air fuel ratio by volume#ex8_19.sce#2144/CH8/EX8.19/ex8_19.sce#S##79375
+8#Fuels and Combustion#8.18#Percentage composition by volume and mass#ex8_18.sce#2144/CH8/EX8.18/ex8_18.sce#S##74327
+8#Fuels and Combustion#8.17#Volume of air supplied#ex8_17.sce#2144/CH8/EX8.17/ex8_17.sce#S##74326
+8#Fuels and Combustion#8.16#Volume of air required#ex8_16.sce#2144/CH8/EX8.16/ex8_16.sce#S##74325
+8#Fuels and Combustion#8.15#Minimum quantity of air#ex8_15.sce#2144/CH8/EX8.15/ex8_15.sce#S##74324
+8#Fuels and Combustion#8.14#Gravimetric analysis of the fuel#ex8_14.sce#2144/CH8/EX8.14/ex8_14.sce#S##74323
+8#Fuels and Combustion#8.13#Quantity of air passing to the furnace#ex8_13.sce#2144/CH8/EX8.13/ex8_13.sce#S##74322
+8#Fuels and Combustion#8.12#Percentage analysis of dry exhaust gases by volume#ex8_12.sce#2144/CH8/EX8.12/ex8_12.sce#S##74321
+8#Fuels and Combustion#8.11#Maximum quantity of heat#ex8_11.sce#2144/CH8/EX8.11/ex8_11.sce#S##74320
+8#Fuels and Combustion#8.10#Percentage analysis of dry flue gas#ex8_10.sce#2144/CH8/EX8.10/ex8_10.sce#S##74319
+8#Fuels and Combustion#8.1#Higher calorific value#ex8_1.sce#2144/CH8/EX8.1/ex8_1.sce#S##74310
+7#Flow Process#7.6#Rate of heat transfer#ex7_6.sce#2144/CH7/EX7.6/ex7_6.sce#S##79374
+7#Flow Process#7.5#Mass flow rate#ex7_5.sce#2144/CH7/EX7.5/ex7_5.sce#S##74308
+7#Flow Process#7.4#Exit velocity and total exit area#ex7_4.sce#2144/CH7/EX7.4/ex7_4.sce#S##74307
+7#Flow Process#7.3#Velocity of steam#ex7_3.sce#2144/CH7/EX7.3/ex7_3.sce#S##74306
+7#Flow Process#7.2#Power output of the turbine#ex7_2.sce#2144/CH7/EX7.2/ex7_2.sce#S##74305
+7#Flow Process#7.1#Work tranfer#ex7_1.sce#2144/CH7/EX7.1/ex7_1.sce#S##74304
+6#Properties of Steam and Steam Cycle#6.9#The enthalpy#ex6_9.sce#2144/CH6/EX6.9/ex6_9.sce#S##74278
+6#Properties of Steam and Steam Cycle#6.8#Heat units#ex6_8.sce#2144/CH6/EX6.8/ex6_8.sce#S##74277
+6#Properties of Steam and Steam Cycle#6.7#Internal energy#ex6_7.sce#2144/CH6/EX6.7/ex6_7.sce#S##74276
+6#Properties of Steam and Steam Cycle#6.6#Specific volume of steam#ex6_6.sce#2144/CH6/EX6.6/ex6_6.sce#S##74275
+6#Properties of Steam and Steam Cycle#6.5#Heat required#ex6_5.sce#2144/CH6/EX6.5/ex6_5.sce#S##74274
+6#Properties of Steam and Steam Cycle#6.4#Heat necessary to raise the temperature#ex6_4.sce#2144/CH6/EX6.4/ex6_4.sce#S##74273
+6#Properties of Steam and Steam Cycle#6.34#Efficiency of cycle#ex6_34.sce#2144/CH6/EX6.34/ex6_34.sce#S##74303
+6#Properties of Steam and Steam Cycle#6.33#Rankine efficiency#ex6_33.sce#2144/CH6/EX6.33/ex6_33.sce#S##74302
+6#Properties of Steam and Steam Cycle#6.32#Rankine efficiency#ex6_32.sce#2144/CH6/EX6.32/ex6_32.sce#S##74301
+6#Properties of Steam and Steam Cycle#6.31#Increase in entropy#ex6_31.sce#2144/CH6/EX6.31/ex6_31.sce#S##74300
+6#Properties of Steam and Steam Cycle#6.30#Final temperature of steam#ex6_30.sce#2144/CH6/EX6.30/ex6_30.sce#S##74299
+6#Properties of Steam and Steam Cycle#6.3#Dryness fraction of steam#ex6_3.sce#2144/CH6/EX6.3/ex6_3.sce#S##74272
+6#Properties of Steam and Steam Cycle#6.29#Final dryness fraction#ex6_29.sce#2144/CH6/EX6.29/ex6_29.sce#S##74298
+6#Properties of Steam and Steam Cycle#6.28#Amount of heat put into or extracted from the steam#ex6_28.sce#2144/CH6/EX6.28/ex6_28.sce#S##74297
+6#Properties of Steam and Steam Cycle#6.27#Mass of steam present#ex6_27.sce#2144/CH6/EX6.27/ex6_27.sce#S##74296
+6#Properties of Steam and Steam Cycle#6.26#Total energy and internal energy#ex6_26.sce#2144/CH6/EX6.26/ex6_26.sce#S##74295
+6#Properties of Steam and Steam Cycle#6.25#Mass of steam in vessel#ex6_25.sce#2144/CH6/EX6.25/ex6_25.sce#S##79373
+6#Properties of Steam and Steam Cycle#6.24#Pressure and condition of steam#ex6_24.sce#2144/CH6/EX6.24/ex6_24.sce#S##74293
+6#Properties of Steam and Steam Cycle#6.23#Heat received by steam#ex6_23.sce#2144/CH6/EX6.23/ex6_23.sce#S##74292
+6#Properties of Steam and Steam Cycle#6.22#Quantity of water sprayed#ex6_22.sce#2144/CH6/EX6.22/ex6_22.sce#S##74291
+6#Properties of Steam and Steam Cycle#6.21#Temperature of feed water leaving the heating#ex6_21.sce#2144/CH6/EX6.21/ex6_21.sce#S##74290
+6#Properties of Steam and Steam Cycle#6.20#Condition of steam#ex6_20.sce#2144/CH6/EX6.20/ex6_20.sce#S##74289
+6#Properties of Steam and Steam Cycle#6.2#External work done#ex6_2.sce#2144/CH6/EX6.2/ex6_2.sce#S##74271
+6#Properties of Steam and Steam Cycle#6.19#Dryness fraction of steam#ex6_19.sce#2144/CH6/EX6.19/ex6_19.sce#S##74288
+6#Properties of Steam and Steam Cycle#6.18#Velocity of steam#ex6_18.sce#2144/CH6/EX6.18/ex6_18.sce#S##79372
+6#Properties of Steam and Steam Cycle#6.17#Final condition of steam#ex6_17.sce#2144/CH6/EX6.17/ex6_17.sce#S##79371
+6#Properties of Steam and Steam Cycle#6.16#Quantity of circulating water required#ex6_16.sce#2144/CH6/EX6.16/ex6_16.sce#S##74285
+6#Properties of Steam and Steam Cycle#6.15#Dryness fraction in the steam main#ex6_15.sce#2144/CH6/EX6.15/ex6_15.sce#S##74284
+6#Properties of Steam and Steam Cycle#6.14#Minimum dryness fraction of steam#ex6_14.sce#2144/CH6/EX6.14/ex6_14.sce#S##74283
+6#Properties of Steam and Steam Cycle#6.13#Dryness fraction of steam#ex6_13.sce#2144/CH6/EX6.13/ex6_13.sce#S##74282
+6#Properties of Steam and Steam Cycle#6.12#Dryness fraction of steam#ex6_12.sce#2144/CH6/EX6.12/ex6_12.sce#S##74281
+6#Properties of Steam and Steam Cycle#6.11#Value of specific entropy#ex6_11.sce#2144/CH6/EX6.11/ex6_11.sce#S##74280
+6#Properties of Steam and Steam Cycle#6.10#Entropy of 1 kg of steam#ex6_10.sce#2144/CH6/EX6.10/ex6_10.sce#S##74279
+6#Properties of Steam and Steam Cycle#6.1#Work done#ex6_1.sce#2144/CH6/EX6.1/ex6_1.sce#S##79370
+5#Air standard Cycles#5.9#Temperature at the end of compression stroke#ex5_9.sce#2144/CH5/EX5.9/ex5_9.sce#S##74265
+5#Air standard Cycles#5.8#Efficiency of engine#ex5_8.sce#2144/CH5/EX5.8/ex5_8.sce#S##74264
+5#Air standard Cycles#5.7#Efficiency of dual combustion engine#ex5_7.sce#2144/CH5/EX5.7/ex5_7.sce#S##74263
+5#Air standard Cycles#5.4#Consumption of gas#ex5_4.sce#2144/CH5/EX5.4/ex5_4.sce#S##74262
+5#Air standard Cycles#5.3#Pressure and temperature#ex5_3.sce#2144/CH5/EX5.3/ex5_3.sce#S##79368
+5#Air standard Cycles#5.2#Efficiency of a four stroke cycle gas engine#ex5_2.sce#2144/CH5/EX5.2/ex5_2.sce#S##79367
+5#Air standard Cycles#5.15#The efficiency of cycle #ex5_15.sce#2144/CH5/EX5.15/ex5_15.sce#S##80127
+5#Air standard Cycles#5.14#Power developed per kg of air supplied per second#ex5_14.sce#2144/CH5/EX5.14/ex5_14.sce#S##74269
+5#Air standard Cycles#5.13#Ideal efficiency#ex5_13.sce#2144/CH5/EX5.13/ex5_13.sce#S##74268
+5#Air standard Cycles#5.12#Mean effective pressure of the cycle#ex5_12.sce#2144/CH5/EX5.12/ex5_12.sce#S##74267
+5#Air standard Cycles#5.11#Ratio of expansion#ex5_11.sce#2144/CH5/EX5.11/ex5_11.sce#S##79369
+5#Air standard Cycles#5.1#Efficiency of heat engine#ex5_1.sce#2144/CH5/EX5.1/ex5_1.sce#S##74258
+4#Availability#4.2#The increase in unavailable energy #exa_4_2.sce#2144/CH4/EX4.2/exa_4_2.sce#S##80126
+4#Availability#4.1#Entropy production accompanying the heat transfer#exa_4_1.sce#2144/CH4/EX4.1/exa_4_1.sce#S##74256
+3#Thermodynamic Processes#3.9#Final pressure temperature and internal energy#ex3_9.sce#2144/CH3/EX3.9/ex3_9.sce#S##74233
+3#Thermodynamic Processes#3.8#Pressure temperature and internal energy#ex3_8.sce#2144/CH3/EX3.8/ex3_8.sce#S##74232
+3#Thermodynamic Processes#3.7#Value of Cp and Cv#ex3_7.sce#2144/CH3/EX3.7/ex3_7.sce#S##74230
+3#Thermodynamic Processes#3.6#Final pressure and temperature#ex3_6.sce#2144/CH3/EX3.6/ex3_6.sce#S##74231
+3#Thermodynamic Processes#3.5#Final pressure#ex3_5.sce#2144/CH3/EX3.5/ex3_5.sce#S##74228
+3#Thermodynamic Processes#3.4#Heat transferred from the gas#ex3_4.sce#2144/CH3/EX3.4/ex3_4.sce#S##79363
+3#Thermodynamic Processes#3.30#Initial value of entropy#ex3_30.sce#2144/CH3/EX3.30/ex3_30.sce#S##74254
+3#Thermodynamic Processes#3.3#Heat added#ex3_3.sce#2144/CH3/EX3.3/ex3_3.sce#S##74226
+3#Thermodynamic Processes#3.29#Work transfer#ex3_29.sce#2144/CH3/EX3.29/ex3_29.sce#S##74253
+3#Thermodynamic Processes#3.28#temperature of gas in the cylinder #ex3_28.sce#2144/CH3/EX3.28/ex3_28.sce#S##79376
+3#Thermodynamic Processes#3.27#The change in internal energy and in enthalpy#ex3_27.sce#2144/CH3/EX3.27/ex3_27.sce#S##74252
+3#Thermodynamic Processes#3.26#Mass of oxygen used#ex3_26.sce#2144/CH3/EX3.26/ex3_26.sce#S##74250
+3#Thermodynamic Processes#3.25#Change in internal energy #ex3_25.sce#2144/CH3/EX3.25/ex3_25.sce#S##80125
+3#Thermodynamic Processes#3.24#Internal energy change#ex3_24.sce#2144/CH3/EX3.24/ex3_24.sce#S##79366
+3#Thermodynamic Processes#3.23#Total work done during the whole process#ex3_23.sce#2144/CH3/EX3.23/ex3_23.sce#S##74248
+3#Thermodynamic Processes#3.22#Temperature of the gas#ex3_22.sce#2144/CH3/EX3.22/ex3_22.sce#S##74246
+3#Thermodynamic Processes#3.21#Difference between work done by air#ex3_21.sce#2144/CH3/EX3.21/ex3_21.sce#S##74245
+3#Thermodynamic Processes#3.20#Composition of the mixture by mass#ex3_20.sce#2144/CH3/EX3.20/ex3_20.sce#S##74244
+3#Thermodynamic Processes#3.2#Initial temperature of air#ex3_2.sce#2144/CH3/EX3.2/ex3_2.sce#S##74225
+3#Thermodynamic Processes#3.19#Temperature molecular mass and specific volume#ex3_19.sce#2144/CH3/EX3.19/ex3_19.sce#S##74243
+3#Thermodynamic Processes#3.18#Total enthalpy#ex3_18.sce#2144/CH3/EX3.18/ex3_18.sce#S##74242
+3#Thermodynamic Processes#3.17#Change of entropy#ex3_17.sce#2144/CH3/EX3.17/ex3_17.sce#S##79365
+3#Thermodynamic Processes#3.16#Entropy#ex3_16.sce#2144/CH3/EX3.16/ex3_16.sce#S##74240
+3#Thermodynamic Processes#3.15#Change of entropy#ex3_15.sce#2144/CH3/EX3.15/ex3_15.sce#S##79364
+3#Thermodynamic Processes#3.14#Gain of entropy#ex3_14.sce#2144/CH3/EX3.14/ex3_14.sce#S##74238
+3#Thermodynamic Processes#3.13#Change in entropy of air#ex3_13.sce#2144/CH3/EX3.13/ex3_13.sce#S##74237
+3#Thermodynamic Processes#3.12#The value of index#ex3_12.sce#2144/CH3/EX3.12/ex3_12.sce#S##74236
+3#Thermodynamic Processes#3.11#Final volume temperature and work done#ex3_11.sce#2144/CH3/EX3.11/ex3_11.sce#S##74235
+3#Thermodynamic Processes#3.10#Pressure and temperature at the end of compression#ex3_10.sce#2144/CH3/EX3.10/ex3_10.sce#S##74234
+3#Thermodynamic Processes#3.1#New pressure and temperature#ex3_1.sce#2144/CH3/EX3.1/ex3_1.sce#S##74224
+2#Gas Laws Ideal and Real Gases#2.9#Temperature at the end compression#exa_2_9.sce#2144/CH2/EX2.9/exa_2_9.sce#S##74208
+2#Gas Laws Ideal and Real Gases#2.8#Molecular volume of the gas#exa_2_8.sce#2144/CH2/EX2.8/exa_2_8.sce#S##74207
+2#Gas Laws Ideal and Real Gases#2.7#Pressure at the end of compression stroke#exa_2_7.sce#2144/CH2/EX2.7/exa_2_7.sce#S##74206
+2#Gas Laws Ideal and Real Gases#2.6#Pressure of the gas#exa_2_6.sce#2144/CH2/EX2.6/exa_2_6.sce#S##74205
+2#Gas Laws Ideal and Real Gases#2.5#Final volume#exa_2_5.sce#2144/CH2/EX2.5/exa_2_5.sce#S##74204
+2#Gas Laws Ideal and Real Gases#2.4#Volume occupied#exa_2_4.sce#2144/CH2/EX2.4/exa_2_4.sce#S##74203
+2#Gas Laws Ideal and Real Gases#2.3#Temperature at the end of compression stroke#exa_2_3.sce#2144/CH2/EX2.3/exa_2_3.sce#S##74202
+2#Gas Laws Ideal and Real Gases#2.24#Apparent molecular mass#exa_2_24.sce#2144/CH2/EX2.24/exa_2_24.sce#S##74223
+2#Gas Laws Ideal and Real Gases#2.23#Internal energy of the gas#exa_2_23.sce#2144/CH2/EX2.23/exa_2_23.sce#S##79362
+2#Gas Laws Ideal and Real Gases#2.22#Average gas density#exa_2_22.sce#2144/CH2/EX2.22/exa_2_22.sce#S##74221
+2#Gas Laws Ideal and Real Gases#2.21#Temperature rise#exa_2_21.sce#2144/CH2/EX2.21/exa_2_21.sce#S##74220
+2#Gas Laws Ideal and Real Gases#2.20#Value of Cv gamma and R#exa_2_20.sce#2144/CH2/EX2.20/exa_2_20.sce#S##74219
+2#Gas Laws Ideal and Real Gases#2.2#New guage pressure#exa_2_2.sce#2144/CH2/EX2.2/exa_2_2.sce#S##74201
+2#Gas Laws Ideal and Real Gases#2.19#Amount of heat extracted from the gas#exa_2_19.sce#2144/CH2/EX2.19/exa_2_19.sce#S##74218
+2#Gas Laws Ideal and Real Gases#2.18#Heat transfered to the gas#exa_2_18.sce#2144/CH2/EX2.18/exa_2_18.sce#S##74217
+2#Gas Laws Ideal and Real Gases#2.17#Fourth work transfer#exa_2_17.sce#2144/CH2/EX2.17/exa_2_17.sce#S##74216
+2#Gas Laws Ideal and Real Gases#2.16#Specific enthalpy of steam#exa_2_16.sce#2144/CH2/EX2.16/exa_2_16.sce#S##74215
+2#Gas Laws Ideal and Real Gases#2.15#Mass of the fluid in the system#exa_2_15.sce#2144/CH2/EX2.15/exa_2_15.sce#S##74214
+2#Gas Laws Ideal and Real Gases#2.14#Change in internal energy#exa_2_14.sce#2144/CH2/EX2.14/exa_2_14.sce#S##74213
+2#Gas Laws Ideal and Real Gases#2.13#Change in internal energy#exa_2_13.sce#2144/CH2/EX2.13/exa_2_13.sce#S##79361
+2#Gas Laws Ideal and Real Gases#2.12#Tyre guage reading#exa_2_12.sce#2144/CH2/EX2.12/exa_2_12.sce#S##74211
+2#Gas Laws Ideal and Real Gases#2.11#New temperature of the gas#exa_2_11.sce#2144/CH2/EX2.11/exa_2_11.sce#S##74210
+2#Gas Laws Ideal and Real Gases#2.10#Mass density and volume of the gas#exa_2_10.sce#2144/CH2/EX2.10/exa_2_10.sce#S##74209
+2#Gas Laws Ideal and Real Gases#2.1#Pressure of air#exa_2_1.sce#2144/CH2/EX2.1/exa_2_1.sce#S##74200
+1#Introduction#1.9#Heat supplied to vessel and water#ex1_9.sce#2144/CH1/EX1.9/ex1_9.sce#S##74198
+1#Introduction#1.8#Quantity of heat supplied to water#ex1_8.sce#2144/CH1/EX1.8/ex1_8.sce#S##74197
+1#Introduction#1.7#Temperature in degree C#ex1_7.sce#2144/CH1/EX1.7/ex1_7.sce#S##79360
+1#Introduction#1.6#Temperature on absolute scale#ex1_6.sce#2144/CH1/EX1.6/ex1_6.sce#S##74195
+1#Introduction#1.5#Absolute pressure#ex1_5.sce#2144/CH1/EX1.5/ex1_5.sce#S##74194
+1#Introduction#1.4#Guage pressure#ex1_4.sce#2144/CH1/EX1.4/ex1_4.sce#S##74193
+1#Introduction#1.3#Absolute pressure#ex1_3.sce#2144/CH1/EX1.3/ex1_3.sce#S##74192
+1#Introduction#1.2#Absolute pressure#ex1_2.sce#2144/CH1/EX1.2/ex1_2.sce#S##74191
+1#Introduction#1.10#Quantity of heat supplied per kg of coal#ex1_10.sce#2144/CH1/EX1.10/ex1_10.sce#S##74199
+1#Introduction#1.1#Absolute pressure#ex1_1.sce#2144/CH1/EX1.1/ex1_1.sce#S##74190

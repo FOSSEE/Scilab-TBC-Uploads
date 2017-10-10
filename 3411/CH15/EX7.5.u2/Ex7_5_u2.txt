@@ -1,1 +1,1 @@
-The hall voltage is Vh=-0.00125 mV 
+The hall voltage is Vh=-1.25000 mV 

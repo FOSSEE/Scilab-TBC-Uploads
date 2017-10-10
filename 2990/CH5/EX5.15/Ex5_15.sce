@@ -23,4 +23,5 @@ H=degtodms(H*180/%pi);
 disp(TB,"true bearing in degree,minites,seconds respectively");
 disp(alpha,"altitude in degree,minites,seconds respectively");
 disp(H,"hour angle in degree,minites,seconds respectively");
+disp("the answer for hour angle in the textbook is wrong");
 clear()

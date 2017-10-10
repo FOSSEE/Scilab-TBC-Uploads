@@ -19,11 +19,11 @@ apsilen_ox = 3.9*8.85*10^-14
 disp("apsilen_ox= "+string(apsilen_ox))//initializing value of relative permitivity of oxide
 dox = 200*10^-8
 disp("dox= "+string(dox)+"cm")//initializing value of thickness of oxide
-VGS = 5
+VGS = 5;
+phi_F= (-kbT*log(Na/ni));
 disp("VGS= "+string(VGS)+"V")//initializing value of gate voltage
 Qs = sqrt(4*apsilen*(-phi_F)*e*Na)
 disp("The maximum depletion width is ,Qs = sqrt(4*apsilen*(-phi_F)*e*Na)= "+string(Qs)+" cm^-2")//calculation
-phi_F= (-kbT*log(Na/ni))
 disp("The potential phi_F= (-kbT*log(Na/ni))= "+string(phi_F)+" V")//calculation
 Cox = apsilen_ox/dox
 disp("The oxide capicitance per unit area is ,Cox = apsilen_ox/dox= "+string(Cox)+" cm^-1")//calculation
@@ -35,4 +35,4 @@ VDS = VGS-VT
 disp("The saturation voltage is ,VDS = VGS-VT= "+string(VDS)+" V")//calculation
 ID = (Z*mu_n*Cox*(VDS)^2)/(2*L)
 disp("The saturation current is ,ID = (Z*mu_n*Cox*(VDS)^2)/(2*L)= "+string(ID)+" A")//calculation
-// Note : due to different precisions taken by me and the author ... my answer differ 
+// Note : due to different precisions taken by me and the author ... my answer differ

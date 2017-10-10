@@ -30,6 +30,5 @@ R_equi=(R1*R2/(R1+R2))+R3
 R0=R_equi*R/(R_equi+R)
 printf("resistance between AB with 100 ohm removed and voltage source shorted = %.3f ohm \n",R0)
 
-I=E0/(R0+Rl)
+I=E0/(R0+R1)
 printf("current through 100 ohm resistor = %.3f A",I)
-

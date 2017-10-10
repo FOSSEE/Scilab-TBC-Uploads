@@ -1,81 +1,727 @@
-1#Advanced operational amplifier principles #1.1#1#pe1_1.sce#2075/CH1/EX1.1/pe1_1.sce#S##78252
-1#Advanced operational amplifier principles #1.2#2#pe1_2.sce#2075/CH1/EX1.2/pe1_2.sce#S##78254
-1#Advanced operational amplifier principles #1.3#3#pe1_3.sce#2075/CH1/EX1.3/pe1_3.sce#S##78256
-1#Advanced operational amplifier principles #1.4#4#pe1_4.sce#2075/CH1/EX1.4/pe1_4.sce#S##78257
-1#Advanced operational amplifier principles #1.5#5#pe1_5.sce#2075/CH1/EX1.5/pe1_5.sce#S##78259
-1#Advanced operational amplifier principles #1.6a#6#pe1_6a.sce#2075/CH1/EX1.6a/pe1_6a.sce#S##78261
-1#Advanced operational amplifier principles #1.6b#7#pe1_6b.sce#2075/CH1/EX1.6b/pe1_6b.sce#S##78263
-1#Advanced operational amplifier principles #1.7#8#pe1_7.sce#2075/CH1/EX1.7/pe1_7.sce#S##78265
-1#Advanced operational amplifier principles #1.9#9#pe1_9.sce#2075/CH1/EX1.9/pe1_9.sce#S##78266
-1#Advanced operational amplifier principles #1.11#10#pe1_11.sce#2075/CH1/EX1.11/pe1_11.sce#S##78267
-2#Power electronics circuit layout#2.9#1#pe2_9.sce#2075/CH2/EX2.9/pe2_9.sce#S##78270
-3#Power parameter calculation#3.1#1#pe3_1.sce#2075/CH3/EX3.1/pe3_1.sce#S##78271
-3#Power parameter calculation#3.2#2#pe3_2.sce#2075/CH3/EX3.2/pe3_2.sce#S##78275
-3#Power parameter calculation#3.3#3#pe3_3.sce#2075/CH3/EX3.3/pe3_3.sce#S##78276
-3#Power parameter calculation#3.4#4#pe3_4.sce#2075/CH3/EX3.4/pe3_4.sce#S##78277
-3#Power parameter calculation#3.5#5#pe3_5.sce#2075/CH3/EX3.5/pe3_5.sce#S##78278
-3#Power parameter calculation#3.6#6#pe3_6.sce#2075/CH3/EX3.6/pe3_6.sce#S##78279
-3#Power parameter calculation#3.7#7#pe3_7.sce#2075/CH3/EX3.7/pe3_7.sce#S##78280
-3#Power parameter calculation#3.8#8#pe3_8.sce#2075/CH3/EX3.8/pe3_8.sce#S##78281
-3#Power parameter calculation#3.9#9#pe3_9.sce#2075/CH3/EX3.9/pe3_9.sce#S##78282
-3#Power parameter calculation#3.10#10#pe3_10.sce#2075/CH3/EX3.10/pe3_10.sce#S##78283
-3#Power parameter calculation#3.11#11#pe3_11.sce#2075/CH3/EX3.11/pe3_11.sce#S##78284
-4#Linear power amplifier integrated circuits#4.1#1#pe4_1.sce#2075/CH4/EX4.1/pe4_1.sce#S##78285
-4#Linear power amplifier integrated circuits#4.2#2#pe4_2.sce#2075/CH4/EX4.2/pe4_2.sce#S##78286
-4#Linear power amplifier integrated circuits#4.3#3#pe4_3.sce#2075/CH4/EX4.3/pe4_3.sce#S##78287
-4#Linear power amplifier integrated circuits#4.4#4#pe4_4.sce#2075/CH4/EX4.4/pe4_4.sce#S##78288
-4#Linear power amplifier integrated circuits#4.5#5#pe4_5.sce#2075/CH4/EX4.5/pe4_5.sce#S##78289
-4#Linear power amplifier integrated circuits#4.6#6#pe4_6.sce#2075/CH4/EX4.6/pe4_6.sce#S##78290
-4#Linear power amplifier integrated circuits#4.7#7#pe4_7.sce#2075/CH4/EX4.7/pe4_7.sce#S##78291
-4#Linear power amplifier integrated circuits#4.8#8#pe4_8.sce#2075/CH4/EX4.8/pe4_8.sce#S##78292
-4#Linear power amplifier integrated circuits#4.9#9#pe4_9.sce#2075/CH4/EX4.9/pe4_9.sce#S##78293
-4#Linear power amplifier integrated circuits#4.10#10#pe4_10.sce#2075/CH4/EX4.10/pe4_10.sce#S##78294
-4#Linear power amplifier integrated circuits#4.11#11#pe4_11.sce#2075/CH4/EX4.11/pe4_11.sce#S##78295
-4#Linear power amplifier integrated circuits#4.12#12#pe4_12.sce#2075/CH4/EX4.12/pe4_12.sce#S##78296
-4#Linear power amplifier integrated circuits#4.13#13#pe4_13.sce#2075/CH4/EX4.13/pe4_13.sce#S##78298
-4#Linear power amplifier integrated circuits#4.14#14#pe4_14.sce#2075/CH4/EX4.14/pe4_14.sce#S##78299
-4#Linear power amplifier integrated circuits#4.15#15#pe4_15.sce#2075/CH4/EX4.15/pe4_15.sce#S##78300
-5#Discrete linear power amplifier #5.1#1#pe5_1.sce#2075/CH5/EX5.1/pe5_1.sce#S##78301
-5#Discrete linear power amplifier #5.2#2#pe5_2.sce#2075/CH5/EX5.2/pe5_2.sce#S##78302
-5#Discrete linear power amplifier #5.3#3#pe5_3.sce#2075/CH5/EX5.3/pe5_3.sce#S##78303
-5#Discrete linear power amplifier #5.5#4#pe5_5.sce#2075/CH5/EX5.5/pe5_5.sce#S##78304
-5#Discrete linear power amplifier #5.6#5#pe5_6.sce#2075/CH5/EX5.6/pe5_6.sce#S##78305
-5#Discrete linear power amplifier #5.7#6#pe5_7.sce#2075/CH5/EX5.7/pe5_7.sce#S##78307
-5#Discrete linear power amplifier #5.8#7#pe5_8.sce#2075/CH5/EX5.8/pe5_8.sce#S##78308
-5#Discrete linear power amplifier #5.9#8#pe5_8.sce#2075/CH5/EX5.9/pe5_8.sce#S##78309
-5#Discrete linear power amplifier #5.10#9#pe5_10.sce#2075/CH5/EX5.10/pe5_10.sce#S##78310
-5#Discrete linear power amplifier #5.11#10#pe5_11.sce#2075/CH5/EX5.11/pe5_11.sce#S##78311
-5#Discrete linear power amplifier #5.12#11#pe5_12.sce#2075/CH5/EX5.12/pe5_12.sce#S##78312
-5#Discrete linear power amplifier #5.13#12#pe5_13.sce#2075/CH5/EX5.13/pe5_13.sce#S##78313
-5#Discrete linear power amplifier #5.14#13#pe5_14.sce#2075/CH5/EX5.14/pe5_14.sce#S##78314
-6#Power switches#6.1#1#pe6_1.sce#2075/CH6/EX6.1/pe6_1.sce#S##96423
-6#Power switches#6.4#2#pe6_4.sce#2075/CH6/EX6.4/pe6_4.sce#S##78516
-6#Power switches#6.5#3#pe6_5.sce#2075/CH6/EX6.5/pe6_5.sce#S##78517
-6#Power switches#6.6#4#pe6_6.sce#2075/CH6/EX6.6/pe6_6.sce#S##78518
-6#Power switches#6.7#5#pe6_7.sce#2075/CH6/EX6.7/pe6_7.sce#S##78519
-6#Power switches#6.8#6#pe6_8.sce#2075/CH6/EX6.8/pe6_8.sce#S##78520
-6#Power switches#6.9#7#pe6_9.sce#2075/CH6/EX6.9/pe6_9.sce#S##78521
-6#Power switches#6.10#8#pe6_10.sce#2075/CH6/EX6.10/pe6_10.sce#S##78522
-6#Power switches#6.11#9#pe6_11.sce#2075/CH6/EX6.11/pe6_11.sce#S##78523
-7#Switching power supplies #7.1#1#pe7_1.sce#2075/CH7/EX7.1/pe7_1.sce#S##78524
-7#Switching power supplies #7.2#2#pe7_2.sce#2075/CH7/EX7.2/pe7_2.sce#S##78525
-7#Switching power supplies #7.3#3#pe7_3.sce#2075/CH7/EX7.3/pe7_3.sce#S##78526
-7#Switching power supplies #7.4#4#pe7_4.sce#2075/CH7/EX7.4/pe7_4.sce#S##78527
-7#Switching power supplies #7.5#5#pe7_5.sce#2075/CH7/EX7.5/pe7_5.sce#S##78528
-7#Switching power supplies #7.6#6#pe7_6.sce#2075/CH7/EX7.6/pe7_6.sce#S##78529
-7#Switching power supplies #7.7#7#pe7_7.sce#2075/CH7/EX7.7/pe7_7.sce#S##78530
-7#Switching power supplies #7.8#8#pe7_8.sce#2075/CH7/EX7.8/pe7_8.sce#S##78531
-8#Thyristors#8.3#1#pe8_3.sce#2075/CH8/EX8.3/pe8_3.sce#S##78532
-8#Thyristors#8.4#2#pe8_4.sce#2075/CH8/EX8.4/pe8_4.sce#S##78533
-8#Thyristors#8.5#3#pe8_5.sce#2075/CH8/EX8.5/pe8_5.sce#S##78534
-8#Thyristors#8.6#4#pe8_6.sce#2075/CH8/EX8.6/pe8_6.sce#S##78535
-8#Thyristors#8.8#5#pe8_8.sce#2075/CH8/EX8.8/pe8_8.sce#S##78536
-8#Thyristors#8.9#6#pe8_9.sce#2075/CH8/EX8.9/pe8_9.sce#S##78537
-9#Power conversion and motor drive applicaions#9.1#1#pe9_1.sce#2075/CH9/EX9.1/pe9_1.sce#S##78538
-9#Power conversion and motor drive applicaions#9.2#2#pe9_2.sce#2075/CH9/EX9.2/pe9_2.sce#S##78539
-9#Power conversion and motor drive applicaions#9.4#3#pe9_4.sce#2075/CH9/EX9.4/pe9_4.sce#S##78540
-9#Power conversion and motor drive applicaions#9.5#4#pe9_5.sce#2075/CH9/EX9.5/pe9_5.sce#S##78541
-9#Power conversion and motor drive applicaions#9.6#5#pe9_6.sce#2075/CH9/EX9.6/pe9_6.sce#S##78542
-9#Power conversion and motor drive applicaions#9.7#6#pe9_7.sce#2075/CH9/EX9.7/pe9_7.sce#S##78543
-9#Power conversion and motor drive applicaions#9.8#7#pe9_8.sce#2075/CH9/EX9.8/pe9_8.sce#S##78544
-9#Power conversion and motor drive applicaions#9.9#8#pe9_9.sce#2075/CH9/EX9.9/pe9_9.sce#S##78545
+1#Measurement#1.1#Sample Problem 1#Example1_1.sce#24/CH1/EX1.1/Example1_1.sce#S##10535
+1#Measurement#1.1#Sample Problem 1#Example1_1_result.txt#24/CH1/EX1.1/Example1_1_result.txt#R##10536
+1#Measurement#1.2#Sample Problem 2#Example1_2.sce#24/CH1/EX1.2/Example1_2.sce#S##10537
+1#Measurement#1.2#Sample Problem 2#Example1_2_result.txt#24/CH1/EX1.2/Example1_2_result.txt#R##10538
+1#Measurement#1.3#Sample Problem 3#Example1_3.sce#24/CH1/EX1.3/Example1_3.sce#S##10539
+1#Measurement#1.3#Sample Problem 3#Example1_3_result.txt#24/CH1/EX1.3/Example1_3_result.txt#R##10540
+1#Measurement#1.4#Sample Problem 4#Example1_4.sce#24/CH1/EX1.4/Example1_4.sce#S##10541
+1#Measurement#1.4#Sample Problem 4#Example1_4_result.txt#24/CH1/EX1.4/Example1_4_result.txt#R##10542
+2#Motion Along a Straight Line#2.1.a#Sample Problem 1a#Example2_1a.sce#24/CH2/EX2.1.a/Example2_1a.sce#S##10543
+2#Motion Along a Straight Line#2.1.a#Sample Problem 1a#Example2_1a_result.txt#24/CH2/EX2.1.a/Example2_1a_result.txt#R##10544
+2#Motion Along a Straight Line#2.1.b#Sample Problem 1b#Example2_1a.sce#24/DEPENDENCIES/Example2_1a.sce#D#Example 2-1a#275
+2#Motion Along a Straight Line#2.1.b#Sample Problem 1b#Example2_1b.sce#24/CH2/EX2.1.b/Example2_1b.sce#S##10545
+2#Motion Along a Straight Line#2.1.b#Sample Problem 1b#Example2_1b_result.txt#24/CH2/EX2.1.b/Example2_1b_result.txt#R##10546
+2#Motion Along a Straight Line#2.1.c#Sample Problem 1c#Example2_1a.sce#24/DEPENDENCIES/Example2_1a.sce#D#Example 2-1a#275
+2#Motion Along a Straight Line#2.1.c#Sample Problem 1c#Example2_1b.sce#24/DEPENDENCIES/Example2_1b.sce#D#Example 2-1b#276
+2#Motion Along a Straight Line#2.1.c#Sample Problem 1c#Example2_1c.sce#24/CH2/EX2.1.c/Example2_1c.sce#S##10547
+2#Motion Along a Straight Line#2.1.c#Sample Problem 1c#Example2_1c_graph.jpg#24/CH2/EX2.1.c/Example2_1c_graph.jpg#R##10548
+2#Motion Along a Straight Line#2.1.c#Sample Problem 1c#Example2_1c_result.txt#24/CH2/EX2.1.c/Example2_1c_result.txt#R##10549
+2#Motion Along a Straight Line#2.1.d#Sample Problem 1d#Example2_1a.sce#24/DEPENDENCIES/Example2_1a.sce#D#Example 2-1a#275
+2#Motion Along a Straight Line#2.1.d#Sample Problem 1d#Example2_1b.sce#24/DEPENDENCIES/Example2_1b.sce#D#Example 2-1b#276
+2#Motion Along a Straight Line#2.1.d#Sample Problem 1d#Example2_1d.sce#24/CH2/EX2.1.d/Example2_1d.sce#S##10550
+2#Motion Along a Straight Line#2.1.d#Sample Problem 1d#Example2_1d_result.txt#24/CH2/EX2.1.d/Example2_1d_result.txt#R##10551
+2#Motion Along a Straight Line#2.2#Sample Problem 2#Example2_2.sce#24/CH2/EX2.2/Example2_2.sce#S##10565
+2#Motion Along a Straight Line#2.2#Sample Problem 2#Example2_2_graph.jpg#24/CH2/EX2.2/Example2_2_graph.jpg#R##10567
+2#Motion Along a Straight Line#2.2#Sample Problem 2#Example2_2_result.txt#24/CH2/EX2.2/Example2_2_result.txt#R##10566
+2#Motion Along a Straight Line#2.3#Sample Problem 3#Example2_3.sce#24/CH2/EX2.3/Example2_3.sce#S##10555
+2#Motion Along a Straight Line#2.3#Sample Problem 3#Example2_3_result.txt#24/CH2/EX2.3/Example2_3_result.txt#R##10556
+2#Motion Along a Straight Line#2.4#Sample Problem 4#Example2_4.sce#24/CH2/EX2.4/Example2_4.sce#S##10557
+2#Motion Along a Straight Line#2.4#Sample Problem 4#Example2_4_result.txt#24/CH2/EX2.4/Example2_4_result.txt#R##10558
+2#Motion Along a Straight Line#2.5#Sample Problem 5#Example2_5.sce#24/CH2/EX2.5/Example2_5.sce#S##10559
+2#Motion Along a Straight Line#2.5#Sample Problem 5#Example2_5_result.txt#24/CH2/EX2.5/Example2_5_result.txt#R##10560
+2#Motion Along a Straight Line#2.6#Sample Problem 6#Example2_6.sce#24/CH2/EX2.6/Example2_6.sce#S##10561
+2#Motion Along a Straight Line#2.6#Sample Problem 6#Example2_6_result.txt#24/CH2/EX2.6/Example2_6_result.txt#R##10562
+2#Motion Along a Straight Line#2.7#Sample Problem 7#Example2_7.sce#24/CH2/EX2.7/Example2_7.sce#S##10563
+2#Motion Along a Straight Line#2.7#Sample Problem 7#Example2_7_result.txt#24/CH2/EX2.7/Example2_7_result.txt#R##10564
+3#Vectors#3.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.1#Sample Problem 1#Example3_1.sce#24/CH3/EX3.1/Example3_1.sce#S##10568
+3#Vectors#3.1#Sample Problem 1#Example3_1_result.txt#24/CH3/EX3.1/Example3_1_result.txt#R##10569
+3#Vectors#3.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.2#Sample Problem 2#Example3_2.sce#24/CH3/EX3.2/Example3_2.sce#S##10570
+3#Vectors#3.2#Sample Problem 2#Example3_2_result.txt#24/CH3/EX3.2/Example3_2_result.txt#R##10571
+3#Vectors#3.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.3#Sample Problem 3#Example3_3.sce#24/CH3/EX3.3/Example3_3.sce#S##10572
+3#Vectors#3.3#Sample Problem 3#Example3_3_result.txt#24/CH3/EX3.3/Example3_3_result.txt#R##10573
+3#Vectors#3.4#Sample Problem 4#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.4#Sample Problem 4#Example3_4.sce#24/CH3/EX3.4/Example3_4.sce#S##10574
+3#Vectors#3.4#Sample Problem 4#Example3_4_result.txt#24/CH3/EX3.4/Example3_4_result.txt#R##10575
+3#Vectors#3.5#Sample Problem 5#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.5#Sample Problem 5#Example3_5.sce#24/CH3/EX3.5/Example3_5.sce#S##10576
+3#Vectors#3.5#Sample Problem 5#Example3_5_result.txt#24/CH3/EX3.5/Example3_5_result.txt#R##10577
+3#Vectors#3.6#Sample Problem 6#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.6#Sample Problem 6#Example3_6.sce#24/CH3/EX3.6/Example3_6.sce#S##10578
+3#Vectors#3.6#Sample Problem 6#Example3_6_result.txt#24/CH3/EX3.6/Example3_6_result.txt#R##10579
+3#Vectors#3.7#Sample Problem 7#cross_product.sci#24/DEPENDENCIES/cross_product.sci#D#Cross Product#277
+3#Vectors#3.7#Sample Problem 7#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.7#Sample Problem 7#Example3_7.sce#24/CH3/EX3.7/Example3_7.sce#S##10580
+3#Vectors#3.7#Sample Problem 7#Example3_7_result.txt#24/CH3/EX3.7/Example3_7_result.txt#R##10581
+3#Vectors#3.8#Sample Problem 8#cross_product.sci#24/DEPENDENCIES/cross_product.sci#D#Cross Product#277
+3#Vectors#3.8#Sample Problem 8#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+3#Vectors#3.8#Sample Problem 8#Example3_8.sce#24/CH3/EX3.8/Example3_8.sce#S##10582
+3#Vectors#3.8#Sample Problem 8#Example3_8_result.txt#24/CH3/EX3.8/Example3_8_result.txt#R##10583
+4#Motion in Two and Three Dimesions#4.1#Sample Problem 1#Example4_1.sce#24/CH4/EX4.1/Example4_1.sce#S##10584
+4#Motion in Two and Three Dimesions#4.1#Sample Problem 1#Example4_1_result.txt#24/CH4/EX4.1/Example4_1_result.txt#R##10585
+4#Motion in Two and Three Dimesions#4.2.a#Sample Problem 2a#Example4_2a.sce#24/CH4/EX4.2.a/Example4_2a.sce#S##10586
+4#Motion in Two and Three Dimesions#4.2.a#Sample Problem 2a#Example4_2a_result.txt#24/CH4/EX4.2.a/Example4_2a_result.txt#R##10587
+4#Motion in Two and Three Dimesions#4.2.a#Sample Problem 2a#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+4#Motion in Two and Three Dimesions#4.2.b#Sample Problem 2b#Example4_2a.sce#24/DEPENDENCIES/Example4_2a.sce#D#Example 4-2a#278
+4#Motion in Two and Three Dimesions#4.2.b#Sample Problem 2b#Example4_2b.sce#24/CH4/EX4.2.b/Example4_2b.sce#S##10588
+4#Motion in Two and Three Dimesions#4.2.b#Sample Problem 2b#Example4_2b_graph.jpg#24/CH4/EX4.2.b/Example4_2b_graph.jpg#R##10590
+4#Motion in Two and Three Dimesions#4.2.b#Sample Problem 2b#Example4_2b_result.txt#24/CH4/EX4.2.b/Example4_2b_result.txt#R##10589
+4#Motion in Two and Three Dimesions#4.3#Sample Problem 3#Example4_2a.sce#24/DEPENDENCIES/Example4_2a.sce#D#Example 4-2a#278
+4#Motion in Two and Three Dimesions#4.3#Sample Problem 3#Example4_3.sce#24/CH4/EX4.3/Example4_3.sce#S##10591
+4#Motion in Two and Three Dimesions#4.3#Sample Problem 3#Example4_3_result.txt#24/CH4/EX4.3/Example4_3_result.txt#R##10595
+4#Motion in Two and Three Dimesions#4.4#Sample Problem 4#Example4_3.sce#24/DEPENDENCIES/Example4_3.sce#D#Example 4-3#279
+4#Motion in Two and Three Dimesions#4.4#Sample Problem 4#Example4_4.sce#24/CH4/EX4.4/Example4_4.sce#S##10593
+4#Motion in Two and Three Dimesions#4.4#Sample Problem 4#Example4_4_result.txt#24/CH4/EX4.4/Example4_4_result.txt#R##10594
+4#Motion in Two and Three Dimesions#4.5#Sample Problem 5#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+4#Motion in Two and Three Dimesions#4.5#Sample Problem 5#Example4_5.sce#24/CH4/EX4.5/Example4_5.sce#S##10596
+4#Motion in Two and Three Dimesions#4.5#Sample Problem 5#Example4_5_result.txt#24/CH4/EX4.5/Example4_5_result.txt#R##10597
+4#Motion in Two and Three Dimesions#4.6#Sample Problem 6#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+4#Motion in Two and Three Dimesions#4.6#Sample Problem 6#Example4_6.sce#24/CH4/EX4.6/Example4_6.sce#S##10598
+4#Motion in Two and Three Dimesions#4.6#Sample Problem 6#Example4_6_result.txt#24/CH4/EX4.6/Example4_6_result.txt#R##10599
+4#Motion in Two and Three Dimesions#4.7#Sample Problem 7#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+4#Motion in Two and Three Dimesions#4.7#Sample Problem 7#Example4_7.sce#24/CH4/EX4.7/Example4_7.sce#S##10600
+4#Motion in Two and Three Dimesions#4.7#Sample Problem 7#Example4_7_result.txt#24/CH4/EX4.7/Example4_7_result.txt#R##10601
+4#Motion in Two and Three Dimesions#4.8#Sample Problem 8#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+4#Motion in Two and Three Dimesions#4.8#Sample Problem 8#Example4_8.sce#24/CH4/EX4.8/Example4_8.sce#S##10602
+4#Motion in Two and Three Dimesions#4.8#Sample Problem 8#Example4_8_result.txt#24/CH4/EX4.8/Example4_8_result.txt#R##10603
+4#Motion in Two and Three Dimesions#4.9#Sample Problem 9#Example4_9.sce#24/CH4/EX4.9/Example4_9.sce#S##10604
+4#Motion in Two and Three Dimesions#4.9#Sample Problem 9#Example4_9_result.txt#24/CH4/EX4.9/Example4_9_result.txt#R##10605
+4#Motion in Two and Three Dimesions#4.10#Sample Problem 10#Example4_10.sce#24/CH4/EX4.10/Example4_10.sce#S##10606
+4#Motion in Two and Three Dimesions#4.10#Sample Problem 10#Example4_10_result.txt#24/CH4/EX4.10/Example4_10_result.txt#R##10607
+4#Motion in Two and Three Dimesions#4.11#Sample Problem 11#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+4#Motion in Two and Three Dimesions#4.11#Sample Problem 11#Example4_11.sce#24/CH4/EX4.11/Example4_11.sce#S##10608
+4#Motion in Two and Three Dimesions#4.11#Sample Problem 11#Example4_11_result.txt#24/CH4/EX4.11/Example4_11_result.txt#R##10609
+5#Force and Motion l#5.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+5#Force and Motion l#5.1#Sample Problem 1#Example5_1.sce#24/CH5/EX5.1/Example5_1.sce#S##10610
+5#Force and Motion l#5.1#Sample Problem 1#Example5_1_result.txt#24/CH5/EX5.1/Example5_1_result.txt#R##10611
+5#Force and Motion l#5.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+5#Force and Motion l#5.2#Sample Problem 2#Example5_2.sce#24/CH5/EX5.2/Example5_2.sce#S##10612
+5#Force and Motion l#5.2#Sample Problem 2#Example5_2_result.txt#24/CH5/EX5.2/Example5_2_result.txt#R##10613
+5#Force and Motion l#5.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+5#Force and Motion l#5.3#Sample Problem 3#Example5_3.sce#24/CH5/EX5.3/Example5_3.sce#S##10614
+5#Force and Motion l#5.3#Sample Problem 3#Example5_3_result.txt#24/CH5/EX5.3/Example5_3_result.txt#R##10615
+5#Force and Motion l#5.4#Sample Problem 4#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+5#Force and Motion l#5.4#Sample Problem 4#Example5_4.sce#24/CH5/EX5.4/Example5_4.sce#S##10616
+5#Force and Motion l#5.4#Sample Problem 4#Example5_4_result.txt#24/CH5/EX5.4/Example5_4_result.txt#R##10617
+5#Force and Motion l#5.5#Sample Problem 5#Example5_5.sce#24/CH5/EX5.5/Example5_5.sce#S##10618
+5#Force and Motion l#5.5#Sample Problem 5#Example5_5_FBD.jpg#24/CH5/EX5.5/Example5_5_FBD.jpg#R##10620
+5#Force and Motion l#5.5#Sample Problem 5#Example5_5_result.txt#24/CH5/EX5.5/Example5_5_result.txt#R##10619
+5#Force and Motion l#5.6#Sample Problem 6#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+5#Force and Motion l#5.6#Sample Problem 6#Example5_6.sce#24/CH5/EX5.6/Example5_6.sce#S##10621
+5#Force and Motion l#5.6#Sample Problem 6#Example5_6_FBD.jpg#24/CH5/EX5.6/Example5_6_FBD.jpg#R##10623
+5#Force and Motion l#5.6#Sample Problem 6#Example5_6_result.txt#24/CH5/EX5.6/Example5_6_result.txt#R##10622
+5#Force and Motion l#5.7#Sample Problem 7#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+5#Force and Motion l#5.7#Sample Problem 7#Example5_7.sce#24/CH5/EX5.7/Example5_7.sce#S##10624
+5#Force and Motion l#5.7#Sample Problem 7#Example5_7_FBD.jpg#24/CH5/EX5.7/Example5_7_FBD.jpg#R##10626
+5#Force and Motion l#5.7#Sample Problem 7#Example5_7_result.txt#24/CH5/EX5.7/Example5_7_result.txt#R##10625
+5#Force and Motion l#5.8#Sample Problem 8#Example5_8.sce#24/CH5/EX5.8/Example5_8.sce#S##10627
+5#Force and Motion l#5.8#Sample Problem 8#Example5_8_FBD.jpg#24/CH5/EX5.8/Example5_8_FBD.jpg#R##10629
+5#Force and Motion l#5.8#Sample Problem 8#Example5_8_result.txt#24/CH5/EX5.8/Example5_8_result.txt#R##10628
+5#Force and Motion l#5.9#Sample Problem 9#Example5_9.sce#24/CH5/EX5.9/Example5_9.sce#S##10630
+5#Force and Motion l#5.9#Sample Problem 9#Example5_9_FBD.jpg#24/CH5/EX5.9/Example5_9_FBD.jpg#R##10631
+5#Force and Motion l#5.9#Sample Problem 9#Example5_9_result.txt#24/CH5/EX5.9/Example5_9_result.txt#R##10632
+6#Force and Motion ll#6.1#Sample Problem 1#Example6_1.sce#24/CH6/EX6.1/Example6_1.sce#S##10633
+6#Force and Motion ll#6.1#Sample Problem 1#Example6_1_result.txt#24/CH6/EX6.1/Example6_1_result.txt#R##10634
+6#Force and Motion ll#6.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+6#Force and Motion ll#6.2#Sample Problem 2#Example6_2.sce#24/CH6/EX6.2/Example6_2.sce#S##10635
+6#Force and Motion ll#6.2#Sample Problem 2#Example6_2_FBD.jpg#24/CH6/EX6.2/Example6_2_FBD.jpg#R##10636
+6#Force and Motion ll#6.2#Sample Problem 2#Example6_2_result.txt#24/CH6/EX6.2/Example6_2_result.txt#R##10637
+6#Force and Motion ll#6.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+6#Force and Motion ll#6.3#Sample Problem 3#Example6_3.sce#24/CH6/EX6.3/Example6_3.sce#S##10638
+6#Force and Motion ll#6.3#Sample Problem 3#Example6_3_FBD.jpg#24/CH6/EX6.3/Example6_3_FBD.jpg#R##10639
+6#Force and Motion ll#6.3#Sample Problem 3#Example6_3_result.txt#24/CH6/EX6.3/Example6_3_result.txt#R##10640
+6#Force and Motion ll#6.4#Sample Problem 4#Example6_4.sce#24/CH6/EX6.4/Example6_4.sce#S##10641
+6#Force and Motion ll#6.4#Sample Problem 4#Example6_4_result.txt#24/CH6/EX6.4/Example6_4_result.txt#R##10642
+6#Force and Motion ll#6.5#Sample Problem 5#Example6_5.sce#24/CH6/EX6.5/Example6_5.sce#S##10643
+6#Force and Motion ll#6.5#Sample Problem 5#Example6_5_result.txt#24/CH6/EX6.5/Example6_5_result.txt#R##10644
+6#Force and Motion ll#6.6#Sample Problem 6#Example6_6.sce#24/CH6/EX6.6/Example6_6.sce#S##10645
+6#Force and Motion ll#6.6#Sample Problem 6#Example6_6_result.txt#24/CH6/EX6.6/Example6_6_result.txt#R##10646
+6#Force and Motion ll#6.7#Sample Problem 7#Example6_7.sce#24/CH6/EX6.7/Example6_7.sce#S##10647
+6#Force and Motion ll#6.7#Sample Problem 7#Example6_7_result.txt#24/CH6/EX6.7/Example6_7_result.txt#R##10648
+6#Force and Motion ll#6.8#Sample Problem 8#Example6_8.sce#24/CH6/EX6.8/Example6_8.sce#S##10649
+6#Force and Motion ll#6.8#Sample Problem 8#Example6_8_FBD.jpg#24/CH6/EX6.8/Example6_8_FBD.jpg#R##10650
+6#Force and Motion ll#6.8#Sample Problem 8#Example6_8_result.txt#24/CH6/EX6.8/Example6_8_result.txt#R##10651
+6#Force and Motion ll#6.9#Sample Problem 9#Example6_9.sce#24/CH6/EX6.9/Example6_9.sce#S##10652
+6#Force and Motion ll#6.9#Sample Problem 9#Example6_9_FBD.jpg#24/CH6/EX6.9/Example6_9_FBD.jpg#R##10653
+6#Force and Motion ll#6.9#Sample Problem 9#Example6_9_result.txt#24/CH6/EX6.9/Example6_9_result.txt#R##10654
+7#Kinetic Energy and Work#7.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+7#Kinetic Energy and Work#7.1#Sample Problem 1#Example7_1.sce#24/CH7/EX7.1/Example7_1.sce#S##10655
+7#Kinetic Energy and Work#7.1#Sample Problem 1#Example7_1_result.txt#24/CH7/EX7.1/Example7_1_result.txt#R##10656
+7#Kinetic Energy and Work#7.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+7#Kinetic Energy and Work#7.2#Sample Problem 2#Example7_2.sce#24/CH7/EX7.2/Example7_2.sce#S##10657
+7#Kinetic Energy and Work#7.2#Sample Problem 2#Example7_2_result.txt#24/CH7/EX7.2/Example7_2_result.txt#R##10658
+7#Kinetic Energy and Work#7.3#Sample Problem 3#Example7_3.sce#24/CH7/EX7.3/Example7_3.sce#S##10659
+7#Kinetic Energy and Work#7.3#Sample Problem 3#Example7_3_result.txt#24/CH7/EX7.3/Example7_3_result.txt#R##10660
+7#Kinetic Energy and Work#7.4#Sample Problem 4#Example7_4.sce#24/CH7/EX7.4/Example7_4.sce#S##10661
+7#Kinetic Energy and Work#7.4#Sample Problem 4#Example7_4_result.txt#24/CH7/EX7.4/Example7_4_result.txt#R##10662
+7#Kinetic Energy and Work#7.5#Sample Problem 5#Example7_5.sce#24/CH7/EX7.5/Example7_5.sce#S##10663
+7#Kinetic Energy and Work#7.5#Sample Problem 5#Example7_5_result.txt#24/CH7/EX7.5/Example7_5_result.txt#R##10664
+7#Kinetic Energy and Work#7.6#Sample Problem 6#Example7_6.sce#24/CH7/EX7.6/Example7_6.sce#S##10665
+7#Kinetic Energy and Work#7.6#Sample Problem 6#Example7_6_FBD.jpg#24/CH7/EX7.6/Example7_6_FBD.jpg#R##10666
+7#Kinetic Energy and Work#7.6#Sample Problem 6#Example7_6_result.txt#24/CH7/EX7.6/Example7_6_result.txt#R##10667
+7#Kinetic Energy and Work#7.7#Sample Problem 7#Example7_7.sce#24/CH7/EX7.7/Example7_7.sce#S##10668
+7#Kinetic Energy and Work#7.7#Sample Problem 7#Example7_7_result.txt#24/CH7/EX7.7/Example7_7_result.txt#R##10669
+7#Kinetic Energy and Work#7.8#Sample Problem 8#Example7_8.sce#24/CH7/EX7.8/Example7_8.sce#S##10670
+7#Kinetic Energy and Work#7.8#Sample Problem 8#Example7_8_result.txt#24/CH7/EX7.8/Example7_8_result.txt#R##10671
+7#Kinetic Energy and Work#7.9#Sample Problem 9#Example7_9.sce#24/CH7/EX7.9/Example7_9.sce#S##10672
+7#Kinetic Energy and Work#7.9#Sample Problem 9#Example7_9_result.txt#24/CH7/EX7.9/Example7_9_result.txt#R##10673
+7#Kinetic Energy and Work#7.10#Sample Problem 10#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+7#Kinetic Energy and Work#7.10#Sample Problem 10#Example7_10.sce#24/CH7/EX7.10/Example7_10.sce#S##10674
+7#Kinetic Energy and Work#7.10#Sample Problem 10#Example7_10_result.txt#24/CH7/EX7.10/Example7_10_result.txt#R##10675
+8#Potential and Conservation of Energy#8.1#Sample Problem 1#Example8_1.sce#24/CH8/EX8.1/Example8_1.sce#S##10676
+8#Potential and Conservation of Energy#8.1#Sample Problem 1#Example8_1_result.txt#24/CH8/EX8.1/Example8_1_result.txt#R##10677
+8#Potential and Conservation of Energy#8.2#Sample Problem 2#Example8_2.sce#24/CH8/EX8.2/Example8_2.sce#S##10678
+8#Potential and Conservation of Energy#8.2#Sample Problem 2#Example8_2_result.txt#24/CH8/EX8.2/Example8_2_result.txt#R##10679
+8#Potential and Conservation of Energy#8.3#Sample Problem 3#Example8_3.sce#24/CH8/EX8.3/Example8_3.sce#S##10680
+8#Potential and Conservation of Energy#8.3#Sample Problem 3#Example8_3_result.txt#24/CH8/EX8.3/Example8_3_result.txt#R##10681
+8#Potential and Conservation of Energy#8.4#Sample Problem 4#Example8_4.sce#24/CH8/EX8.4/Example8_4.sce#S##10682
+8#Potential and Conservation of Energy#8.4#Sample Problem 4#Example8_4_result.txt#24/CH8/EX8.4/Example8_4_result.txt#R##10683
+8#Potential and Conservation of Energy#8.5#Sample Problem 5#Example8_5.sce#24/CH8/EX8.5/Example8_5.sce#S##10684
+8#Potential and Conservation of Energy#8.5#Sample Problem 5#Example8_5_result.txt#24/CH8/EX8.5/Example8_5_result.txt#R##10685
+8#Potential and Conservation of Energy#8.6#Sample Problem 6#Example8_6.sce#24/CH8/EX8.6/Example8_6.sce#S##10686
+8#Potential and Conservation of Energy#8.6#Sample Problem 6#Example8_6_result.txt#24/CH8/EX8.6/Example8_6_result.txt#R##10687
+8#Potential and Conservation of Energy#8.7#Sample Problem 7#Example8_7.sce#24/CH8/EX8.7/Example8_7.sce#S##10688
+8#Potential and Conservation of Energy#8.7#Sample Problem 7#Example8_7_result.txt#24/CH8/EX8.7/Example8_7_result.txt#R##10689
+8#Potential and Conservation of Energy#8.8#Sample Problem 8#Example8_8.sce#24/CH8/EX8.8/Example8_8.sce#S##10690
+8#Potential and Conservation of Energy#8.8#Sample Problem 8#Example8_8_result.txt#24/CH8/EX8.8/Example8_8_result.txt#R##10691
+9#System of Particles#9.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+9#System of Particles#9.1#Sample Problem 1#Example9_1.sce#24/CH9/EX9.1/Example9_1.sce#S##10692
+9#System of Particles#9.1#Sample Problem 1#Example9_1_figure.jpg#24/CH9/EX9.1/Example9_1_figure.jpg#R##10693
+9#System of Particles#9.1#Sample Problem 1#Example9_1_result.txt#24/CH9/EX9.1/Example9_1_result.txt#R##10694
+9#System of Particles#9.2#Sample Problem 2#Example9_2.sce#24/CH9/EX9.2/Example9_2.sce#S##10695
+9#System of Particles#9.2#Sample Problem 2#Example9_2_result.txt#24/CH9/EX9.2/Example9_2_result.txt#R##10696
+9#System of Particles#9.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+9#System of Particles#9.3#Sample Problem 3#Example9_3.sce#24/CH9/EX9.3/Example9_3.sce#S##10697
+9#System of Particles#9.3#Sample Problem 3#Example9_3_result.txt#24/CH9/EX9.3/Example9_3_result.txt#R##10698
+9#System of Particles#9.4#Sample Problem 4#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+9#System of Particles#9.4#Sample Problem 4#Example9_4.sce#24/CH9/EX9.4/Example9_4.sce#S##10699
+9#System of Particles#9.4#Sample Problem 4#Example9_4_result.txt#24/CH9/EX9.4/Example9_4_result.txt#R##10700
+9#System of Particles#9.5#Sample Problem 5#Example9_5.sce#24/CH9/EX9.5/Example9_5.sce#S##10701
+9#System of Particles#9.5#Sample Problem 5#Example9_5_result.txt#24/CH9/EX9.5/Example9_5_result.txt#R##10702
+9#System of Particles#9.6#Sample Problem 6#Example9_6.sce#24/CH9/EX9.6/Example9_6.sce#S##10703
+9#System of Particles#9.6#Sample Problem 6#Example9_6_result.txt#24/CH9/EX9.6/Example9_6_result.txt#R##10704
+9#System of Particles#9.7#Sample Problem 7#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+9#System of Particles#9.7#Sample Problem 7#Example9_7.sce#24/CH9/EX9.7/Example9_7.sce#S##10705
+9#System of Particles#9.7#Sample Problem 7#Example9_7_result.txt#24/CH9/EX9.7/Example9_7_result.txt#R##10706
+9#System of Particles#9.8#Sample Problem 8#Example9_8.sce#24/CH9/EX9.8/Example9_8.sce#S##10707
+9#System of Particles#9.8#Sample Problem 8#Example9_8_result.txt#24/CH9/EX9.8/Example9_8_result.txt#R##10708
+9#System of Particles#9.9#Sample Problem 9#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+9#System of Particles#9.9#Sample Problem 9#Example9_9.sce#24/CH9/EX9.9/Example9_9.sce#S##10709
+9#System of Particles#9.9#Sample Problem 9#Example9_9_result.txt#24/CH9/EX9.9/Example9_9_result.txt#R##10710
+10#Collisions#10.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+10#Collisions#10.1#Sample Problem 1#Example10_1.sce#24/CH10/EX10.1/Example10_1.sce#S##10733
+10#Collisions#10.1#Sample Problem 1#Example10_1_result.txt#24/CH10/EX10.1/Example10_1_result.txt#R##10734
+10#Collisions#10.2#Sample Problem 2#Example10_2.sce#24/CH10/EX10.2/Example10_2.sce#S##10735
+10#Collisions#10.2#Sample Problem 2#Example10_2_result.txt#24/CH10/EX10.2/Example10_2_result.txt#R##10736
+10#Collisions#10.3#Sample Problem 3#Example10_3.sce#24/CH10/EX10.3/Example10_3.sce#S##10737
+10#Collisions#10.3#Sample Problem 3#Example10_3_result.txt#24/CH10/EX10.3/Example10_3_result.txt#R##10738
+10#Collisions#10.4#Sample Problem 4#collision.sci#24/DEPENDENCIES/collision.sci#D#collision#280
+10#Collisions#10.4#Sample Problem 4#Example10_4.sce#24/CH10/EX10.4/Example10_4.sce#S##10739
+10#Collisions#10.4#Sample Problem 4#Example10_4_result.txt#24/CH10/EX10.4/Example10_4_result.txt#R##10740
+10#Collisions#10.5#Sample Problem 5#Example10_5.sce#24/CH10/EX10.5/Example10_5.sce#S##10741
+10#Collisions#10.5#Sample Problem 5#Example10_5_result.txt#24/CH10/EX10.5/Example10_5_result.txt#R##10742
+11#Rotation#11.1#Sample Problem 1#Example11_1.sce#24/CH11/EX11.1/Example11_1.sce#S##10743
+11#Rotation#11.1#Sample Problem 1#Example11_1_graph.jpg#24/CH11/EX11.1/Example11_1_graph.jpg#R##10745
+11#Rotation#11.1#Sample Problem 1#Example11_1_result.txt#24/CH11/EX11.1/Example11_1_result.txt#R##10744
+11#Rotation#11.2#Sample Problem 2#Example11_2.sce#24/CH11/EX11.2/Example11_2.sce#S##10746
+11#Rotation#11.2#Sample Problem 2#Example11_2_result.txt#24/CH11/EX11.2/Example11_2_result.txt#R##10747
+11#Rotation#11.3#Sample Problem 3#Example11_3.sce#24/CH11/EX11.3/Example11_3.sce#S##10748
+11#Rotation#11.3#Sample Problem 3#Example11_3_result.txt#24/CH11/EX11.3/Example11_3_result.txt#R##10749
+11#Rotation#11.4#Sample Problem 4#Example11_4.sce#24/CH11/EX11.4/Example11_4.sce#S##10750
+11#Rotation#11.4#Sample Problem 4#Example11_4_result.txt#24/CH11/EX11.4/Example11_4_result.txt#R##10751
+11#Rotation#11.6#Sample Problem 6#Example11_6.sce#24/CH11/EX11.6/Example11_6.sce#S##10752
+11#Rotation#11.6#Sample Problem 6#Example11_6_result.txt#24/CH11/EX11.6/Example11_6_result.txt#R##10753
+11#Rotation#11.7#Sample Problem 7#Example11_7.sce#24/CH11/EX11.7/Example11_7.sce#S##10754
+11#Rotation#11.7#Sample Problem 7#Example11_7_FBD.jpg#24/CH11/EX11.7/Example11_7_FBD.jpg#R##10755
+11#Rotation#11.7#Sample Problem 7#Example11_7_result.txt#24/CH11/EX11.7/Example11_7_result.txt#R##10756
+11#Rotation#11.8#Sample Problem 8#Example11_8.sce#24/CH11/EX11.8/Example11_8.sce#S##10757
+11#Rotation#11.8#Sample Problem 8#Example11_8_result.txt#24/CH11/EX11.8/Example11_8_result.txt#R##10758
+11#Rotation#11.9#Sample Problem 9#Example11_7.sce#24/DEPENDENCIES/Example11_7.sce#D#Example 11-7#281
+11#Rotation#11.9#Sample Problem 9#Example11_9.sce#24/CH11/EX11.9/Example11_9.sce#S##10759
+11#Rotation#11.9#Sample Problem 9#Example11_9_result.txt#24/CH11/EX11.9/Example11_9_result.txt#R##10760
+11#Rotation#11.10#Sample Problem 10#Example11_10.sce#24/CH11/EX11.10/Example11_10.sce#S##10761
+11#Rotation#11.10#Sample Problem 10#Example11_10_result.txt#24/CH11/EX11.10/Example11_10_result.txt#R##10762
+12#Rolling Torque and Angular Momentum#12.1#Sample Problem 1#Example12_1.sce#24/CH12/EX12.1/Example12_1.sce#S##10799
+12#Rolling Torque and Angular Momentum#12.1#Sample Problem 1#Example12_1_result.txt#24/CH12/EX12.1/Example12_1_result.txt#R##10800
+12#Rolling Torque and Angular Momentum#12.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+12#Rolling Torque and Angular Momentum#12.2#Sample Problem 2#Example12_2.sce#24/CH12/EX12.2/Example12_2.sce#S##10801
+12#Rolling Torque and Angular Momentum#12.2#Sample Problem 2#Example12_2_result.txt#24/CH12/EX12.2/Example12_2_result.txt#R##10802
+12#Rolling Torque and Angular Momentum#12.3#Sample Problem 3#cross_product.sci#24/DEPENDENCIES/cross_product.sci#D#Cross Product#277
+12#Rolling Torque and Angular Momentum#12.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+12#Rolling Torque and Angular Momentum#12.3#Sample Problem 3#Example12_3.sce#24/CH12/EX12.3/Example12_3.sce#S##10803
+12#Rolling Torque and Angular Momentum#12.3#Sample Problem 3#Example12_3_result.txt#24/CH12/EX12.3/Example12_3_result.txt#R##10804
+12#Rolling Torque and Angular Momentum#12.4#Sample Problem 4#Example12_4.sce#24/CH12/EX12.4/Example12_4.sce#S##10805
+12#Rolling Torque and Angular Momentum#12.4#Sample Problem 4#Example12_4_result.txt#24/CH12/EX12.4/Example12_4_result.txt#R##10806
+12#Rolling Torque and Angular Momentum#12.6#Sample Problem 6#Example12_6.sce#24/CH12/EX12.6/Example12_6.sce#S##10807
+12#Rolling Torque and Angular Momentum#12.6#Sample Problem 6#Example12_6_result.txt#24/CH12/EX12.6/Example12_6_result.txt#R##10808
+12#Rolling Torque and Angular Momentum#12.7#Sample Problem 7#Example12_7.sce#24/CH12/EX12.7/Example12_7.sce#S##10809
+12#Rolling Torque and Angular Momentum#12.7#Sample Problem 7#Example12_7_result.txt#24/CH12/EX12.7/Example12_7_result.txt#R##10810
+12#Rolling Torque and Angular Momentum#12.8#Sample Problem 8#Example12_8.sce#24/CH12/EX12.8/Example12_8.sce#S##10811
+12#Rolling Torque and Angular Momentum#12.8#Sample Problem 8#Example12_8_result.txt#24/CH12/EX12.8/Example12_8_result.txt#R##10812
+12#Rolling Torque and Angular Momentum#12.9#Sample Problem 9#Example12_9.sce#24/CH12/EX12.9/Example12_9.sce#S##10813
+12#Rolling Torque and Angular Momentum#12.9#Sample Problem 9#Example12_9_result.txt#24/CH12/EX12.9/Example12_9_result.txt#R##10814
+13#Equilibrium and Elasticity#13.1#Sample Problem 1#Example13_1.sce#24/CH13/EX13.1/Example13_1.sce#S##10815
+13#Equilibrium and Elasticity#13.1#Sample Problem 1#Example13_1_FBD.jpg#24/CH13/EX13.1/Example13_1_FBD.jpg#R##10816
+13#Equilibrium and Elasticity#13.1#Sample Problem 1#Example13_1_result.txt#24/CH13/EX13.1/Example13_1_result.txt#R##10817
+13#Equilibrium and Elasticity#13.2#Sample Problem 2#Example13_2.sce#24/CH13/EX13.2/Example13_2.sce#S##10818
+13#Equilibrium and Elasticity#13.2#Sample Problem 2#Example13_2_FBD.jpg#24/CH13/EX13.2/Example13_2_FBD.jpg#R##10819
+13#Equilibrium and Elasticity#13.2#Sample Problem 2#Example13_2_result.txt#24/CH13/EX13.2/Example13_2_result.txt#R##10820
+13#Equilibrium and Elasticity#13.3#Sample Problem 3#Example13_3.sce#24/CH13/EX13.3/Example13_3.sce#S##10821
+13#Equilibrium and Elasticity#13.3#Sample Problem 3#Example13_3_FBD.jpg#24/CH13/EX13.3/Example13_3_FBD.jpg#R##10822
+13#Equilibrium and Elasticity#13.3#Sample Problem 3#Example13_3_result.txt#24/CH13/EX13.3/Example13_3_result.txt#R##10823
+13#Equilibrium and Elasticity#13.4#Sample Problem 4#Example13_4.sce#24/CH13/EX13.4/Example13_4.sce#S##10824
+13#Equilibrium and Elasticity#13.4#Sample Problem 4#Example13_4_FBD.jpg#24/CH13/EX13.4/Example13_4_FBD.jpg#R##10825
+13#Equilibrium and Elasticity#13.4#Sample Problem 4#Example13_4_result.txt#24/CH13/EX13.4/Example13_4_result.txt#R##10826
+13#Equilibrium and Elasticity#13.5#Sample Problem 5#Example13_5.sce#24/CH13/EX13.5/Example13_5.sce#S##10827
+13#Equilibrium and Elasticity#13.5#Sample Problem 5#Example13_5_result.txt#24/CH13/EX13.5/Example13_5_result.txt#R##10828
+13#Equilibrium and Elasticity#13.6#Sample Problem 6#Example13_6.sce#24/CH13/EX13.6/Example13_6.sce#S##10829
+13#Equilibrium and Elasticity#13.6#Sample Problem 6#Example13_6_result.txt#24/CH13/EX13.6/Example13_6_result.txt#R##10830
+14#Gravitation#14.1#Sample Problem 1#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.1#Sample Problem 1#Example14_1.sce#24/CH14/EX14.1/Example14_1.sce#S##10831
+14#Gravitation#14.1#Sample Problem 1#Example14_1_result.txt#24/CH14/EX14.1/Example14_1_result.txt#R##10832
+14#Gravitation#14.2#Sample Problem 2#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+14#Gravitation#14.2#Sample Problem 2#Example14_2.sce#24/CH14/EX14.2/Example14_2.sce#S##10833
+14#Gravitation#14.2#Sample Problem 2#Example14_2_result.txt#24/CH14/EX14.2/Example14_2_result.txt#R##10834
+14#Gravitation#14.3.a#Sample Problem 3a#Example14_3a.sce#24/CH14/EX14.3.a/Example14_3a.sce#S##10835
+14#Gravitation#14.3.a#Sample Problem 3a#Example14_3a_result.txt#24/CH14/EX14.3.a/Example14_3a_result.txt#R##10836
+14#Gravitation#14.3.a#Sample Problem 3a#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.3.b#Sample Problem 3b#Example14_3b.sce#24/CH14/EX14.3.b/Example14_3b.sce#S##10837
+14#Gravitation#14.3.b#Sample Problem 3b#Example14_3b_result.txt#24/CH14/EX14.3.b/Example14_3b_result.txt#R##10838
+14#Gravitation#14.3.b#Sample Problem 3b#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.5#Sample Problem 5#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.5#Sample Problem 5#Example14_5.sce#24/CH14/EX14.5/Example14_5.sce#S##10839
+14#Gravitation#14.5#Sample Problem 5#Example14_5_result.txt#24/CH14/EX14.5/Example14_5_result.txt#R##10840
+14#Gravitation#14.6#Sample Problem 6#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.6#Sample Problem 6#Example14_6.sce#24/CH14/EX14.6/Example14_6.sce#S##10841
+14#Gravitation#14.6#Sample Problem 6#Example14_6_result.txt#24/CH14/EX14.6/Example14_6_result.txt#R##10842
+14#Gravitation#14.7#Sample Problem 7#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.7#Sample Problem 7#Example14_7.sce#24/CH14/EX14.7/Example14_7.sce#S##10843
+14#Gravitation#14.7#Sample Problem 7#Example14_7_result.txt#24/CH14/EX14.7/Example14_7_result.txt#R##10844
+14#Gravitation#14.8#Sample Problem 8#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+14#Gravitation#14.8#Sample Problem 8#Example14_8.sce#24/CH14/EX14.8/Example14_8.sce#S##10845
+14#Gravitation#14.8#Sample Problem 8#Example14_8_result.txt#24/CH14/EX14.8/Example14_8_result.txt#R##10846
+15#Fluids#15.1#Sample Problem 1#Example15_1.sce#24/CH15/EX15.1/Example15_1.sce#S##10847
+15#Fluids#15.1#Sample Problem 1#Example15_1_result.txt#24/CH15/EX15.1/Example15_1_result.txt#R##10848
+15#Fluids#15.2#Sample Problem 2#Example15_2.sce#24/CH15/EX15.2/Example15_2.sce#S##10849
+15#Fluids#15.2#Sample Problem 2#Example15_2_result.txt#24/CH15/EX15.2/Example15_2_result.txt#R##10850
+15#Fluids#15.3#Sample Problem 3#Example15_3.sce#24/CH15/EX15.3/Example15_3.sce#S##10851
+15#Fluids#15.3#Sample Problem 3#Example15_3_result.txt#24/CH15/EX15.3/Example15_3_result.txt#R##10852
+15#Fluids#15.4#Sample Problem 4#Example15_4.sce#24/CH15/EX15.4/Example15_4.sce#S##10853
+15#Fluids#15.4#Sample Problem 4#Example15_4_result.txt#24/CH15/EX15.4/Example15_4_result.txt#R##10854
+15#Fluids#15.5#Sample Problem 5#Example15_5.sce#24/CH15/EX15.5/Example15_5.sce#S##10855
+15#Fluids#15.5#Sample Problem 5#Example15_5_result.txt#24/CH15/EX15.5/Example15_5_result.txt#R##10856
+15#Fluids#15.6#Sample Problem 6#Example15_6.sce#24/CH15/EX15.6/Example15_6.sce#S##10857
+15#Fluids#15.6#Sample Problem 6#Example15_6_result.txt#24/CH15/EX15.6/Example15_6_result.txt#R##10858
+15#Fluids#15.7#Sample Problem 7#Bernauli.sci#24/DEPENDENCIES/Bernauli.sci#D#Bernauli's Equation#282
+15#Fluids#15.7#Sample Problem 7#Example15_7.sce#24/CH15/EX15.7/Example15_7.sce#S##10859
+15#Fluids#15.7#Sample Problem 7#Example15_7_result.txt#24/CH15/EX15.7/Example15_7_result.txt#R##10860
+15#Fluids#15.8#Sample Problem 8#Bernauli.sci#24/DEPENDENCIES/Bernauli.sci#D#Bernauli's Equation#282
+15#Fluids#15.8#Sample Problem 8#Example15_8.sce#24/CH15/EX15.8/Example15_8.sce#S##10861
+15#Fluids#15.8#Sample Problem 8#Example15_8_result.txt#24/CH15/EX15.8/Example15_8_result.txt#R##10862
+16#Oscillation#16.1#Sample Problem 1#Example16_1.sce#24/CH16/EX16.1/Example16_1.sce#S##10867
+16#Oscillation#16.1#Sample Problem 1#Example16_1_result.txt#24/CH16/EX16.1/Example16_1_result.txt#R##10868
+16#Oscillation#16.2#Sample Problem 2#Example16_2.sce#24/CH16/EX16.2/Example16_2.sce#S##10869
+16#Oscillation#16.2#Sample Problem 2#Example16_2_result.txt#24/CH16/EX16.2/Example16_2_result.txt#R##10870
+16#Oscillation#16.3#Sample Problem 3#Example16_3.sce#24/CH16/EX16.3/Example16_3.sce#S##10871
+16#Oscillation#16.3#Sample Problem 3#Example16_3_result.txt#24/CH16/EX16.3/Example16_3_result.txt#R##10872
+16#Oscillation#16.4#Sample Problem 4#Example16_4.sce#24/CH16/EX16.4/Example16_4.sce#S##10873
+16#Oscillation#16.4#Sample Problem 4#Example16_4_result.txt#24/CH16/EX16.4/Example16_4_result.txt#R##10874
+16#Oscillation#16.5#Sample Problem 5#Example16_5.sce#24/CH16/EX16.5/Example16_5.sce#S##10875
+16#Oscillation#16.5#Sample Problem 5#Example16_5_result.txt#24/CH16/EX16.5/Example16_5_result.txt#R##10876
+16#Oscillation#16.6#Sample Problem 6#Example16_6.sce#24/CH16/EX16.6/Example16_6.sce#S##10877
+16#Oscillation#16.6#Sample Problem 6#Example16_6_FBD.JPG#24/CH16/EX16.6/Example16_6_FBD.JPG#R##10878
+16#Oscillation#16.6#Sample Problem 6#Example16_6_result.txt#24/CH16/EX16.6/Example16_6_result.txt#R##10879
+16#Oscillation#16.7#Sample Problem 7#Example16_7.sce#24/CH16/EX16.7/Example16_7.sce#S##10880
+16#Oscillation#16.7#Sample Problem 7#Example16_7_result.txt#24/CH16/EX16.7/Example16_7_result.txt#R##10881
+17#Waves l#17.1#Sample Problem 1#Example17_1.sce#24/CH17/EX17.1/Example17_1.sce#S##10886
+17#Waves l#17.1#Sample Problem 1#Example17_1_result.txt#24/CH17/EX17.1/Example17_1_result.txt#R##10887
+17#Waves l#17.2#Sample Problem 2#Example17_1.sce#24/DEPENDENCIES/Example17_1.sce#D#Example 17-1#283
+17#Waves l#17.2#Sample Problem 2#Example17_2.sce#24/CH17/EX17.2/Example17_2.sce#S##10884
+17#Waves l#17.2#Sample Problem 2#Example17_2_result.txt#24/CH17/EX17.2/Example17_2_result.txt#R##10885
+17#Waves l#17.3#Sample Problem 3#Example17_3.sce#24/CH17/EX17.3/Example17_3.sce#S##10888
+17#Waves l#17.3#Sample Problem 3#Example17_3_result.txt#24/CH17/EX17.3/Example17_3_result.txt#R##10889
+17#Waves l#17.4#Sample Problem 4#Example17_4.sce#24/CH17/EX17.4/Example17_4.sce#S##10890
+17#Waves l#17.4#Sample Problem 4#Example17_4_result.txt#24/CH17/EX17.4/Example17_4_result.txt#R##10891
+17#Waves l#17.5#Sample Problem 5#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+17#Waves l#17.5#Sample Problem 5#Example17_5.sce#24/CH17/EX17.5/Example17_5.sce#S##10882
+17#Waves l#17.5#Sample Problem 5#Example17_5_result.txt#24/CH17/EX17.5/Example17_5_result.txt#R##10883
+17#Waves l#17.6#Sample Problem 6#Example17_6.sce#24/CH17/EX17.6/Example17_6.sce#S##10892
+17#Waves l#17.6#Sample Problem 6#Example17_6_result.txt#24/CH17/EX17.6/Example17_6_result.txt#R##10893
+17#Waves l#17.7#Sample Problem 7#Example17_7.sce#24/CH17/EX17.7/Example17_7.sce#S##10894
+17#Waves l#17.7#Sample Problem 7#Example17_7_result.txt#24/CH17/EX17.7/Example17_7_result.txt#R##10895
+18#Waves ll#18.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+18#Waves ll#18.1#Sample Problem 1#Example18_1.sce#24/CH18/EX18.1/Example18_1.sce#S##10896
+18#Waves ll#18.1#Sample Problem 1#Example18_1_result.txt#24/CH18/EX18.1/Example18_1_result.txt#R##10897
+18#Waves ll#18.2#Sample Problem 2#Example18_2.sce#24/CH18/EX18.2/Example18_2.sce#S##10898
+18#Waves ll#18.2#Sample Problem 2#Example18_2_result.txt#24/CH18/EX18.2/Example18_2_result.txt#R##10899
+18#Waves ll#18.3#Sample Problem 3#Example18_3.sce#24/CH18/EX18.3/Example18_3.sce#S##10900
+18#Waves ll#18.3#Sample Problem 3#Example18_3_result.txt#24/CH18/EX18.3/Example18_3_result.txt#R##10901
+18#Waves ll#18.4#Sample Problem 4#Example18_4.sce#24/CH18/EX18.4/Example18_4.sce#S##10902
+18#Waves ll#18.4#Sample Problem 4#Example18_4_result.txt#24/CH18/EX18.4/Example18_4_result.txt#R##10903
+18#Waves ll#18.5#Sample Problem 5#Example18_5.sce#24/CH18/EX18.5/Example18_5.sce#S##10904
+18#Waves ll#18.5#Sample Problem 5#Example18_5_result.txt#24/CH18/EX18.5/Example18_5_result.txt#R##10905
+18#Waves ll#18.6#Sample Problem 6#Example18_6.sce#24/CH18/EX18.6/Example18_6.sce#S##10906
+18#Waves ll#18.6#Sample Problem 6#Example18_6_result.txt#24/CH18/EX18.6/Example18_6_result.txt#R##10907
+18#Waves ll#18.8#Sample Problem 8#Example18_8.sce#24/CH18/EX18.8/Example18_8.sce#S##10908
+18#Waves ll#18.8#Sample Problem 8#Example18_8_result.txt#24/CH18/EX18.8/Example18_8_result.txt#R##10909
+19#Temprature Heat and the First Law of Thermodynamic#19.1#Sample Problem 1#Example19_1.sce#24/CH19/EX19.1/Example19_1.sce#S##10910
+19#Temprature Heat and the First Law of Thermodynamic#19.1#Sample Problem 1#Example19_1_result.txt#24/CH19/EX19.1/Example19_1_result.txt#R##10911
+19#Temprature Heat and the First Law of Thermodynamic#19.2#Sample Problem 2#Example19_2.sce#24/CH19/EX19.2/Example19_2.sce#S##10912
+19#Temprature Heat and the First Law of Thermodynamic#19.2#Sample Problem 2#Example19_2_result.txt#24/CH19/EX19.2/Example19_2_result.txt#R##10913
+19#Temprature Heat and the First Law of Thermodynamic#19.3#Sample Problem 3#Example19_3.sce#24/CH19/EX19.3/Example19_3.sce#S##10914
+19#Temprature Heat and the First Law of Thermodynamic#19.3#Sample Problem 3#Example19_3_result.txt#24/CH19/EX19.3/Example19_3_result.txt#R##10915
+19#Temprature Heat and the First Law of Thermodynamic#19.4#Sample Problem 4#Example19_4.sce#24/CH19/EX19.4/Example19_4.sce#S##10916
+19#Temprature Heat and the First Law of Thermodynamic#19.4#Sample Problem 4#Example19_4_result.txt#24/CH19/EX19.4/Example19_4_result.txt#R##10917
+19#Temprature Heat and the First Law of Thermodynamic#19.5#Sample Problem 5#Example19_5.sce#24/CH19/EX19.5/Example19_5.sce#S##10918
+19#Temprature Heat and the First Law of Thermodynamic#19.5#Sample Problem 5#Example19_5_result.txt#24/CH19/EX19.5/Example19_5_result.txt#R##10919
+19#Temprature Heat and the First Law of Thermodynamic#19.6#Sample Problem 6#Example19_6.sce#24/CH19/EX19.6/Example19_6.sce#S##10920
+19#Temprature Heat and the First Law of Thermodynamic#19.6#Sample Problem 6#Example19_6_result.txt#24/CH19/EX19.6/Example19_6_result.txt#R##10921
+19#Temprature Heat and the First Law of Thermodynamic#19.7#Sample Problem 7#Example19_7.sce#24/CH19/EX19.7/Example19_7.sce#S##10922
+19#Temprature Heat and the First Law of Thermodynamic#19.7#Sample Problem 7#Example19_7_result.txt#24/CH19/EX19.7/Example19_7_result.txt#R##10923
+20#The Kinetic Theory of Gases#20.1#Sample Problem 1#Example20_1.sce#24/CH20/EX20.1/Example20_1.sce#S##10924
+20#The Kinetic Theory of Gases#20.1#Sample Problem 1#Example20_1_result.txt#24/CH20/EX20.1/Example20_1_result.txt#R##10925
+20#The Kinetic Theory of Gases#20.2#Sample Problem 2#Example20_2.sce#24/CH20/EX20.2/Example20_2.sce#S##10926
+20#The Kinetic Theory of Gases#20.2#Sample Problem 2#Example20_2_result.txt#24/CH20/EX20.2/Example20_2_result.txt#R##10927
+20#The Kinetic Theory of Gases#20.3#Sample Problem 3#Example20_3.sce#24/CH20/EX20.3/Example20_3.sce#S##10928
+20#The Kinetic Theory of Gases#20.3#Sample Problem 3#Example20_3_result.txt#24/CH20/EX20.3/Example20_3_result.txt#R##10929
+20#The Kinetic Theory of Gases#20.4#Sample Problem 4#Example20_4.sce#24/CH20/EX20.4/Example20_4.sce#S##10930
+20#The Kinetic Theory of Gases#20.4#Sample Problem 4#Example20_4_result.txt#24/CH20/EX20.4/Example20_4_result.txt#R##10931
+20#The Kinetic Theory of Gases#20.5#Sample Problem 5#Example20_5.sce#24/CH20/EX20.5/Example20_5.sce#S##10932
+20#The Kinetic Theory of Gases#20.5#Sample Problem 5#Example20_5_result.txt#24/CH20/EX20.5/Example20_5_result.txt#R##10933
+20#The Kinetic Theory of Gases#20.6#Sample Problem 6#Example20_6.sce#24/CH20/EX20.6/Example20_6.sce#S##10934
+20#The Kinetic Theory of Gases#20.6#Sample Problem 6#Example20_6_result.txt#24/CH20/EX20.6/Example20_6_result.txt#R##10935
+20#The Kinetic Theory of Gases#20.7#Sample Problem 7#Example20_7.sce#24/CH20/EX20.7/Example20_7.sce#S##10936
+20#The Kinetic Theory of Gases#20.7#Sample Problem 7#Example20_7_result.txt#24/CH20/EX20.7/Example20_7_result.txt#R##10937
+20#The Kinetic Theory of Gases#20.9#Sample Problem 9#Example20_9.sce#24/CH20/EX20.9/Example20_9.sce#S##10938
+20#The Kinetic Theory of Gases#20.9#Sample Problem 9#Example20_9_result.txt#24/CH20/EX20.9/Example20_9_result.txt#R##10939
+21#Entropy and the Second Law of Thermodynamics#21.1#Sample Problem 1#Example21_1.sce#24/CH21/EX21.1/Example21_1.sce#S##10940
+21#Entropy and the Second Law of Thermodynamics#21.1#Sample Problem 1#Example21_1_result.txt#24/CH21/EX21.1/Example21_1_result.txt#R##10941
+21#Entropy and the Second Law of Thermodynamics#21.2#Sample Problem 2#Example21_2.sce#24/CH21/EX21.2/Example21_2.sce#S##10942
+21#Entropy and the Second Law of Thermodynamics#21.2#Sample Problem 2#Example21_2_result.txt#24/CH21/EX21.2/Example21_2_result.txt#R##10943
+21#Entropy and the Second Law of Thermodynamics#21.3#Sample Problem 3#Example21_3.sce#24/CH21/EX21.3/Example21_3.sce#S##10944
+21#Entropy and the Second Law of Thermodynamics#21.3#Sample Problem 3#Example21_3_result.txt#24/CH21/EX21.3/Example21_3_result.txt#R##10945
+21#Entropy and the Second Law of Thermodynamics#21.4#Sample Problem 4#Example21_4.sce#24/CH21/EX21.4/Example21_4.sce#S##10946
+21#Entropy and the Second Law of Thermodynamics#21.4#Sample Problem 4#Example21_4_result.txt#24/CH21/EX21.4/Example21_4_result.txt#R##10947
+21#Entropy and the Second Law of Thermodynamics#21.5#Sample Problem 5#Example21_5.sce#24/CH21/EX21.5/Example21_5.sce#S##10948
+21#Entropy and the Second Law of Thermodynamics#21.5#Sample Problem 5#Example21_5_result.txt#24/CH21/EX21.5/Example21_5_result.txt#R##10949
+22#Electric Charge#22.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+22#Electric Charge#22.1#Sample Problem 1#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+22#Electric Charge#22.1#Sample Problem 1#Example22_1.sce#24/CH22/EX22.1/Example22_1.sce#S##10950
+22#Electric Charge#22.1#Sample Problem 1#Example22_1_result.txt#24/CH22/EX22.1/Example22_1_result.txt#R##10951
+22#Electric Charge#22.2#Sample Problem 2#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+22#Electric Charge#22.2#Sample Problem 2#Example22_2.sce#24/CH22/EX22.2/Example22_2.sce#S##10958
+22#Electric Charge#22.2#Sample Problem 2#Example22_2_result.txt#24/CH22/EX22.2/Example22_2_result.txt#R##10959
+22#Electric Charge#22.3#Sample Problem 3#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+22#Electric Charge#22.3#Sample Problem 3#Example22_3.sce#24/CH22/EX22.3/Example22_3.sce#S##10960
+22#Electric Charge#22.3#Sample Problem 3#Example22_3_result.txt#24/CH22/EX22.3/Example22_3_result.txt#R##10961
+22#Electric Charge#22.4#Sample Problem 4#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+22#Electric Charge#22.4#Sample Problem 4#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+22#Electric Charge#22.4#Sample Problem 4#Example22_4.sce#24/CH22/EX22.4/Example22_4.sce#S##10962
+22#Electric Charge#22.4#Sample Problem 4#Example22_4_result.txt#24/CH22/EX22.4/Example22_4_result.txt#R##10963
+23#Electric Fields#23.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+23#Electric Fields#23.2#Sample Problem 2#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+23#Electric Fields#23.2#Sample Problem 2#Example23_2.sce#24/CH23/EX23.2/Example23_2.sce#S##10964
+23#Electric Fields#23.2#Sample Problem 2#Example23_2_result.txt#24/CH23/EX23.2/Example23_2_result.txt#R##10965
+23#Electric Fields#23.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+23#Electric Fields#23.3#Sample Problem 3#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+23#Electric Fields#23.3#Sample Problem 3#Example23_3.sce#24/CH23/EX23.3/Example23_3.sce#S##10966
+23#Electric Fields#23.3#Sample Problem 3#Example23_3_result.txt#24/CH23/EX23.3/Example23_3_result.txt#R##10967
+23#Electric Fields#23.4#Sample Problem 4#Example23_4.sce#24/CH23/EX23.4/Example23_4.sce#S##10968
+23#Electric Fields#23.4#Sample Problem 4#Example23_4_result.txt#24/CH23/EX23.4/Example23_4_result.txt#R##10969
+23#Electric Fields#23.5#Sample Problem 5#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+23#Electric Fields#23.5#Sample Problem 5#Example23_5.sce#24/CH23/EX23.5/Example23_5.sce#S##10970
+23#Electric Fields#23.5#Sample Problem 5#Example23_5_result.txt#24/CH23/EX23.5/Example23_5_result.txt#R##10971
+24#Gauss Law#24.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+24#Gauss Law#24.1#Sample Problem 1#Example24_1.sce#24/CH24/EX24.1/Example24_1.sce#S##10972
+24#Gauss Law#24.1#Sample Problem 1#Example24_1_result.txt#24/CH24/EX24.1/Example24_1_result.txt#R##10973
+24#Gauss Law#24.2#Sample Problem 2#Example24_2.sce#24/CH24/EX24.2/Example24_2.sce#S##10984
+24#Gauss Law#24.2#Sample Problem 2#Example24_2_result.txt#24/CH24/EX24.2/Example24_2_result.txt#R##10975
+24#Gauss Law#24.3#Sample Problem 3#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+24#Gauss Law#24.3#Sample Problem 3#Example24_3.sce#24/CH24/EX24.3/Example24_3.sce#S##10976
+24#Gauss Law#24.3#Sample Problem 3#Example24_3_result.txt#24/CH24/EX24.3/Example24_3_result.txt#R##10977
+24#Gauss Law#24.4#Sample Problem 4#Example24_4.sce#24/CH24/EX24.4/Example24_4.sce#S##10978
+24#Gauss Law#24.4#Sample Problem 4#Example24_4_result.txt#24/CH24/EX24.4/Example24_4_result.txt#R##10979
+24#Gauss Law#24.5#Sample Problem 5#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+24#Gauss Law#24.5#Sample Problem 5#Example24_5.sce#24/CH24/EX24.5/Example24_5.sce#S##10980
+24#Gauss Law#24.5#Sample Problem 5#Example24_5_result.txt#24/CH24/EX24.5/Example24_5_result.txt#R##10981
+24#Gauss Law#24.6#Sample Problem 6#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+24#Gauss Law#24.6#Sample Problem 6#Example24_6.sce#24/CH24/EX24.6/Example24_6.sce#S##10982
+24#Gauss Law#24.6#Sample Problem 6#Example24_6_result.txt#24/CH24/EX24.6/Example24_6_result.txt#R##10983
+25#Electric Potential#25.1#Sample Problem 1#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+25#Electric Potential#25.1#Sample Problem 1#Example25_1.sce#24/CH25/EX25.1/Example25_1.sce#S##10985
+25#Electric Potential#25.1#Sample Problem 1#Example25_1_result.txt#24/CH25/EX25.1/Example25_1_result.txt#R##10986
+25#Electric Potential#25.3#Sample Problem 3#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+25#Electric Potential#25.3#Sample Problem 3#Example25_3.sce#24/CH25/EX25.3/Example25_3.sce#S##10987
+25#Electric Potential#25.3#Sample Problem 3#Example25_3_result.txt#24/CH25/EX25.3/Example25_3_result.txt#R##10988
+25#Electric Potential#25.4#Sample Problem 4#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+25#Electric Potential#25.4#Sample Problem 4#Example25_4.sce#24/CH25/EX25.4/Example25_4.sce#S##10989
+25#Electric Potential#25.4#Sample Problem 4#Example25_4_result.txt#24/CH25/EX25.4/Example25_4_result.txt#R##10990
+25#Electric Potential#25.6#Sample Problem 6#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+25#Electric Potential#25.6#Sample Problem 6#Example25_6.sce#24/CH25/EX25.6/Example25_6.sce#S##10991
+25#Electric Potential#25.6#Sample Problem 6#Example25_6_result.txt#24/CH25/EX25.6/Example25_6_result.txt#R##10992
+26#Capacitance#26.1#Sample Problem 1#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+26#Capacitance#26.1#Sample Problem 1#Example26_1.sce#24/CH26/EX26.1/Example26_1.sce#S##11099
+26#Capacitance#26.1#Sample Problem 1#Example26_1_result.txt#24/CH26/EX26.1/Example26_1_result.txt#R##11100
+26#Capacitance#26.2#Sample Problem 2#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+26#Capacitance#26.2#Sample Problem 2#Example26_2.sce#24/CH26/EX26.2/Example26_2.sce#S##11101
+26#Capacitance#26.2#Sample Problem 2#Example26_2_result.txt#24/CH26/EX26.2/Example26_2_result.txt#R##11102
+26#Capacitance#26.3#Sample Problem 3#Example26_3.sce#24/CH26/EX26.3/Example26_3.sce#S##11103
+26#Capacitance#26.3#Sample Problem 3#Example26_3_result.txt#24/CH26/EX26.3/Example26_3_result.txt#R##11104
+26#Capacitance#26.4#Sample Problem 4#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+26#Capacitance#26.4#Sample Problem 4#Example26_4.sce#24/CH26/EX26.4/Example26_4.sce#S##11105
+26#Capacitance#26.4#Sample Problem 4#Example26_4_result.txt#24/CH26/EX26.4/Example26_4_result.txt#R##11106
+26#Capacitance#26.5#Sample Problem 5#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+26#Capacitance#26.5#Sample Problem 5#Example26_5.sce#24/CH26/EX26.5/Example26_5.sce#S##11107
+26#Capacitance#26.5#Sample Problem 5#Example26_5_result.txt#24/CH26/EX26.5/Example26_5_result.txt#R##11108
+26#Capacitance#26.6#Sample Problem 6#electrostatics.sci#24/DEPENDENCIES/electrostatics.sci#D#electrostatic#284
+26#Capacitance#26.6#Sample Problem 6#Example26_6.sce#24/CH26/EX26.6/Example26_6.sce#S##11109
+26#Capacitance#26.6#Sample Problem 6#Example26_6_result.txt#24/CH26/EX26.6/Example26_6_result.txt#R##11110
+27#Current and Resistance#27.1#Sample Problem 1#Example27_1.sce#24/CH27/EX27.1/Example27_1.sce#S##11111
+27#Current and Resistance#27.1#Sample Problem 1#Example27_1_result.txt#24/CH27/EX27.1/Example27_1_result.txt#R##11112
+27#Current and Resistance#27.2#Sample Problem 2#Example27_2.sce#24/CH27/EX27.2/Example27_2.sce#S##11113
+27#Current and Resistance#27.2#Sample Problem 2#Example27_2_result.txt#24/CH27/EX27.2/Example27_2_result.txt#R##11114
+27#Current and Resistance#27.3#Sample Problem 3#Example27_3.sce#24/CH27/EX27.3/Example27_3.sce#S##11115
+27#Current and Resistance#27.3#Sample Problem 3#Example27_3_result.txt#24/CH27/EX27.3/Example27_3_result.txt#R##11116
+27#Current and Resistance#27.4#Sample Problem 4#Example27_4.sce#24/CH27/EX27.4/Example27_4.sce#S##11117
+27#Current and Resistance#27.4#Sample Problem 4#Example27_4_result.txt#24/CH27/EX27.4/Example27_4_result.txt#R##11118
+27#Current and Resistance#27.5#Sample Problem 5#Example27_5.sce#24/CH27/EX27.5/Example27_5.sce#S##11119
+27#Current and Resistance#27.5#Sample Problem 5#Example27_5_result.txt#24/CH27/EX27.5/Example27_5_result.txt#R##11120
+27#Current and Resistance#27.6#Sample Problem 6#Example27_6.sce#24/CH27/EX27.6/Example27_6.sce#S##11121
+27#Current and Resistance#27.6#Sample Problem 6#Example27_6_result.txt#24/CH27/EX27.6/Example27_6_result.txt#R##11122
+28#Circuits#28.1#Sample Problem 1#Example28_1.sce#24/CH28/EX28.1/Example28_1.sce#S##11123
+28#Circuits#28.1#Sample Problem 1#Example28_1_result.txt#24/CH28/EX28.1/Example28_1_result.txt#R##11124
+28#Circuits#28.2#Sample Problem 2#Example28_2.sce#24/CH28/EX28.2/Example28_2.sce#S##11125
+28#Circuits#28.2#Sample Problem 2#Example28_2_result.txt#24/CH28/EX28.2/Example28_2_result.txt#R##11126
+28#Circuits#28.3#Sample Problem 3#Example28_3.sce#24/CH28/EX28.3/Example28_3.sce#S##11127
+28#Circuits#28.3#Sample Problem 3#Example28_3_result.txt#24/CH28/EX28.3/Example28_3_result.txt#R##11128
+28#Circuits#28.4#Sample Problem 4#Example28_4.sce#24/CH28/EX28.4/Example28_4.sce#S##11129
+28#Circuits#28.4#Sample Problem 4#Example28_4_result.txt#24/CH28/EX28.4/Example28_4_result.txt#R##11130
+28#Circuits#28.5#Sample Problem 5#Example28_5.sce#24/CH28/EX28.5/Example28_5.sce#S##11131
+28#Circuits#28.5#Sample Problem 5#Example28_5_result.txt#24/CH28/EX28.5/Example28_5_result.txt#R##11132
+29#Magnetic fields#29.1#Sample Problem 1#Example29_1.sce#24/CH29/EX29.1/Example29_1.sce#S##11133
+29#Magnetic fields#29.1#Sample Problem 1#Example29_1_result.txt#24/CH29/EX29.1/Example29_1_result.txt#R##11134
+29#Magnetic fields#29.2#Sample Problem 2#Example29_2.sce#24/CH29/EX29.2/Example29_2.sce#S##11135
+29#Magnetic fields#29.2#Sample Problem 2#Example29_2_result.txt#24/CH29/EX29.2/Example29_2_result.txt#R##11136
+29#Magnetic fields#29.3#Sample Problem 3#Example29_3.sce#24/CH29/EX29.3/Example29_3.sce#S##11137
+29#Magnetic fields#29.3#Sample Problem 3#Example29_3_result.txt#24/CH29/EX29.3/Example29_3_result.txt#R##11138
+29#Magnetic fields#29.4#Sample Problem 4#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+29#Magnetic fields#29.4#Sample Problem 4#Example29_4.sce#24/CH29/EX29.4/Example29_4.sce#S##11139
+29#Magnetic fields#29.4#Sample Problem 4#Example29_4_result.txt#24/CH29/EX29.4/Example29_4_result.txt#R##11140
+29#Magnetic fields#29.5#Sample Problem 5#Example29_5.sce#24/CH29/EX29.5/Example29_5.sce#S##11141
+29#Magnetic fields#29.5#Sample Problem 5#Example29_5_result.txt#24/CH29/EX29.5/Example29_5_result.txt#R##11142
+29#Magnetic fields#29.6#Sample Problem 6#Example29_6.sce#24/CH29/EX29.6/Example29_6.sce#S##11143
+29#Magnetic fields#29.6#Sample Problem 6#Example29_6_result.txt#24/CH29/EX29.6/Example29_6_result.txt#R##11144
+29#Magnetic fields#29.7#Sample Problem 7#Example29_7.sce#24/CH29/EX29.7/Example29_7.sce#S##11145
+29#Magnetic fields#29.7#Sample Problem 7#Example29_7_result.txt#24/CH29/EX29.7/Example29_7_result.txt#R##11146
+29#Magnetic fields#29.8#Sample Problem 8#Example29_8.sce#24/CH29/EX29.8/Example29_8.sce#S##11147
+29#Magnetic fields#29.8#Sample Problem 8#Example29_8_result.txt#24/CH29/EX29.8/Example29_8_result.txt#R##11148
+30#Magnetic fields due to Current#30.2#Sample Problem 2#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+30#Magnetic fields due to Current#30.2#Sample Problem 2#Example30_2.sce#24/CH30/EX30.2/Example30_2.sce#S##11149
+30#Magnetic fields due to Current#30.2#Sample Problem 2#Example30_2_result.txt#24/CH30/EX30.2/Example30_2_result.txt#R##11150
+30#Magnetic fields due to Current#30.3#Sample Problem 3#Example30_3.sce#24/CH30/EX30.3/Example30_3.sce#S##11151
+30#Magnetic fields due to Current#30.3#Sample Problem 3#Example30_3_result.txt#24/CH30/EX30.3/Example30_3_result.txt#R##11152
+30#Magnetic fields due to Current#30.4#Sample Problem 4#Example30_4.sce#24/CH30/EX30.4/Example30_4.sce#S##11153
+30#Magnetic fields due to Current#30.4#Sample Problem 4#Example30_4_result.txt#24/CH30/EX30.4/Example30_4_result.txt#R##11154
+31#Induction and Inductance#31.1#Sample Problem 1#Example31_1.sce#24/CH31/EX31.1/Example31_1.sce#S##11155
+31#Induction and Inductance#31.1#Sample Problem 1#Example31_1_result.txt#24/CH31/EX31.1/Example31_1_result.txt#R##11156
+31#Induction and Inductance#31.2#Sample Problem 2#Example31_2.sce#24/CH31/EX31.2/Example31_2.sce#S##11157
+31#Induction and Inductance#31.2#Sample Problem 2#Example31_2_result.txt#24/CH31/EX31.2/Example31_2_result.txt#R##11158
+31#Induction and Inductance#31.3#Sample Problem 3#Example31_3.sce#24/CH31/EX31.3/Example31_3.sce#S##11159
+31#Induction and Inductance#31.3#Sample Problem 3#Example31_3_result.txt#24/CH31/EX31.3/Example31_3_result.txt#R##11160
+31#Induction and Inductance#31.4#Sample Problem 4#Example31_4.sce#24/CH31/EX31.4/Example31_4.sce#S##11161
+31#Induction and Inductance#31.4#Sample Problem 4#Example31_4_result.txt#24/CH31/EX31.4/Example31_4_result.txt#R##11162
+31#Induction and Inductance#31.5#Sample Problem 5#Example31_5.sce#24/CH31/EX31.5/Example31_5.sce#S##11163
+31#Induction and Inductance#31.5#Sample Problem 5#Example31_5_result.txt#24/CH31/EX31.5/Example31_5_result.txt#R##11164
+31#Induction and Inductance#31.6#Sample Problem 6#Example31_6.sce#24/CH31/EX31.6/Example31_6.sce#S##11165
+31#Induction and Inductance#31.6#Sample Problem 6#Example31_6_result.txt#24/CH31/EX31.6/Example31_6_result.txt#R##11166
+31#Induction and Inductance#31.7#Sample Problem 7#Example31_7.sce#24/CH31/EX31.7/Example31_7.sce#S##11167
+31#Induction and Inductance#31.7#Sample Problem 7#Example31_7_result.txt#24/CH31/EX31.7/Example31_7_result.txt#R##11168
+31#Induction and Inductance#31.8#Sample Problem 8#Example31_8.sce#24/CH31/EX31.8/Example31_8.sce#S##11169
+31#Induction and Inductance#31.8#Sample Problem 8#Example31_8_result.txt#24/CH31/EX31.8/Example31_8_result.txt#R##11170
+31#Induction and Inductance#31.9#Sample Problem 9#Example31_9.sce#24/CH31/EX31.9/Example31_9.sce#S##11171
+31#Induction and Inductance#31.9#Sample Problem 9#Example31_9_result.txt#24/CH31/EX31.9/Example31_9_result.txt#R##11172
+32#Magnetism of Matter  Maxwell Equation#32.1#Sample Problem 1#Example32_1.sce#24/CH32/EX32.1/Example32_1.sce#S##11173
+32#Magnetism of Matter  Maxwell Equation#32.1#Sample Problem 1#Example32_1_result.txt#24/CH32/EX32.1/Example32_1_result.txt#R##11174
+32#Magnetism of Matter  Maxwell Equation#32.2#Sample Problem 2#Example32_2.sce#24/CH32/EX32.2/Example32_2.sce#S##11175
+32#Magnetism of Matter  Maxwell Equation#32.2#Sample Problem 2#Example32_2_result.txt#24/CH32/EX32.2/Example32_2_result.txt#R##11176
+32#Magnetism of Matter  Maxwell Equation#32.3#Sample Problem 3#Example32_3.sce#24/CH32/EX32.3/Example32_3.sce#S##11177
+32#Magnetism of Matter  Maxwell Equation#32.3#Sample Problem 3#Example32_3_result.txt#24/CH32/EX32.3/Example32_3_result.txt#R##11178
+33#Electromagnetic Oscillations and Alternating Current#33.1#Sample Problem 1#Example33_1.sce#24/CH33/EX33.1/Example33_1.sce#S##11179
+33#Electromagnetic Oscillations and Alternating Current#33.1#Sample Problem 1#Example33_1_result.txt#24/CH33/EX33.1/Example33_1_result.txt#R##11180
+33#Electromagnetic Oscillations and Alternating Current#33.2#Sample Problem 2#Example33_2.sce#24/CH33/EX33.2/Example33_2.sce#S##11183
+33#Electromagnetic Oscillations and Alternating Current#33.2#Sample Problem 2#Example33_2_result.txt#24/CH33/EX33.2/Example33_2_result.txt#R##11184
+33#Electromagnetic Oscillations and Alternating Current#33.3#Sample Problem 3#Example33_3.sce#24/CH33/EX33.3/Example33_3.sce#S##11185
+33#Electromagnetic Oscillations and Alternating Current#33.3#Sample Problem 3#Example33_3_result.txt#24/CH33/EX33.3/Example33_3_result.txt#R##11186
+33#Electromagnetic Oscillations and Alternating Current#33.4#Sample Problem 4#Example33_4.sce#24/CH33/EX33.4/Example33_4.sce#S##11187
+33#Electromagnetic Oscillations and Alternating Current#33.4#Sample Problem 4#Example33_4_result.txt#24/CH33/EX33.4/Example33_4_result.txt#R##11188
+33#Electromagnetic Oscillations and Alternating Current#33.5#Sample Problem 5#Example33_5.sce#24/CH33/EX33.5/Example33_5.sce#S##11189
+33#Electromagnetic Oscillations and Alternating Current#33.5#Sample Problem 5#Example33_5_result.txt#24/CH33/EX33.5/Example33_5_result.txt#R##11190
+33#Electromagnetic Oscillations and Alternating Current#33.6#Sample Problem 6#Example33_6.sce#24/CH33/EX33.6/Example33_6.sce#S##11191
+33#Electromagnetic Oscillations and Alternating Current#33.6#Sample Problem 6#Example33_6_result.txt#24/CH33/EX33.6/Example33_6_result.txt#R##11192
+33#Electromagnetic Oscillations and Alternating Current#33.7#Sample Problem 7#Example33_7.sce#24/CH33/EX33.7/Example33_7.sce#S##11193
+33#Electromagnetic Oscillations and Alternating Current#33.7#Sample Problem 7#Example33_7_result.txt#24/CH33/EX33.7/Example33_7_result.txt#R##11194
+33#Electromagnetic Oscillations and Alternating Current#33.8#Sample Problem 8#Example33_8.sce#24/CH33/EX33.8/Example33_8.sce#S##11195
+33#Electromagnetic Oscillations and Alternating Current#33.8#Sample Problem 8#Example33_8_result.txt#24/CH33/EX33.8/Example33_8_result.txt#R##11196
+33#Electromagnetic Oscillations and Alternating Current#33.9#Sample Problem 9#Example33_9.sce#24/CH33/EX33.9/Example33_9.sce#S##11197
+33#Electromagnetic Oscillations and Alternating Current#33.9#Sample Problem 9#Example33_9_result.txt#24/CH33/EX33.9/Example33_9_result.txt#R##11198
+34#Electromagnetic Waves#34.1#Sample Problem 1#Example34_1.sce#24/CH34/EX34.1/Example34_1.sce#S##11199
+34#Electromagnetic Waves#34.1#Sample Problem 1#Example34_1_result.txt#24/CH34/EX34.1/Example34_1_result.txt#R##11200
+34#Electromagnetic Waves#34.2#Sample Problem 2#Gravitation.sci#24/DEPENDENCIES/Gravitation.sci#D#gravitation#273
+34#Electromagnetic Waves#34.2#Sample Problem 2#Example34_2.sce#24/CH34/EX34.2/Example34_2.sce#S##11201
+34#Electromagnetic Waves#34.2#Sample Problem 2#Example34_2_result.txt#24/CH34/EX34.2/Example34_2_result.txt#R##11202
+34#Electromagnetic Waves#34.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+34#Electromagnetic Waves#34.3#Sample Problem 3#Example34_3.sce#24/CH34/EX34.3/Example34_3.sce#S##11203
+34#Electromagnetic Waves#34.3#Sample Problem 3#Example34_3_result.txt#24/CH34/EX34.3/Example34_3_result.txt#R##11204
+34#Electromagnetic Waves#34.4#Sample Problem 4#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+34#Electromagnetic Waves#34.4#Sample Problem 4#Example34_4.sce#24/CH34/EX34.4/Example34_4.sce#S##11205
+34#Electromagnetic Waves#34.4#Sample Problem 4#Example34_4_result.txt#24/CH34/EX34.4/Example34_4_result.txt#R##11206
+34#Electromagnetic Waves#34.5#Sample Problem 5#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+34#Electromagnetic Waves#34.5#Sample Problem 5#Example34_5.sce#24/CH34/EX34.5/Example34_5.sce#S##11207
+34#Electromagnetic Waves#34.5#Sample Problem 5#Example34_5_result.txt#24/CH34/EX34.5/Example34_5_result.txt#R##11208
+35#Images#35.1#Sample Problem 1#Example35_1.sce#24/CH35/EX35.1/Example35_1.sce#S##11209
+35#Images#35.1#Sample Problem 1#Example35_1_result.txt#24/CH35/EX35.1/Example35_1_result.txt#R##11210
+35#Images#35.2#Sample Problem 2#Example35_2.sce#24/CH35/EX35.2/Example35_2.sce#S##11211
+35#Images#35.2#Sample Problem 2#Example35_2_result.txt#24/CH35/EX35.2/Example35_2_result.txt#R##11212
+35#Images#35.3#Sample Problem 3#Example35_3.sce#24/CH35/EX35.3/Example35_3.sce#S##11213
+35#Images#35.3#Sample Problem 3#Example35_3_result.txt#24/CH35/EX35.3/Example35_3_result.txt#R##11214
+35#Images#35.4#Sample Problem 4#Example35_4.sce#24/CH35/EX35.4/Example35_4.sce#S##11215
+35#Images#35.4#Sample Problem 4#Example35_4_result.txt#24/CH35/EX35.4/Example35_4_result.txt#R##11216
+36#Interference#36.1#Sample Problem 1#Example36_1.sce#24/CH36/EX36.1/Example36_1.sce#S##11853
+36#Interference#36.1#Sample Problem 1#Example36_1_result.txt#24/CH36/EX36.1/Example36_1_result.txt#R##11854
+36#Interference#36.2#Sample Problem 2#Example36_2.sce#24/CH36/EX36.2/Example36_2.sce#S##11855
+36#Interference#36.2#Sample Problem 2#Example36_2_result.txt#24/CH36/EX36.2/Example36_2_result.txt#R##11856
+36#Interference#36.3#Sample Problem 3#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+36#Interference#36.3#Sample Problem 3#Example36_3.sce#24/CH36/EX36.3/Example36_3.sce#S##11857
+36#Interference#36.3#Sample Problem 3#Example36_3_result.txt#24/CH36/EX36.3/Example36_3_result.txt#R##11858
+36#Interference#36.4#Sample Problem 4#Example36_4.sce#24/CH36/EX36.4/Example36_4.sce#S##11859
+36#Interference#36.4#Sample Problem 4#Example36_4_result.txt#24/CH36/EX36.4/Example36_4_result.txt#R##11860
+36#Interference#36.5#Sample Problem 5#Example36_5.sce#24/CH36/EX36.5/Example36_5.sce#S##11861
+36#Interference#36.5#Sample Problem 5#Example36_5_result.txt#24/CH36/EX36.5/Example36_5_result.txt#R##11862
+36#Interference#36.6#Sample Problem 6#Example36_6.sce#24/CH36/EX36.6/Example36_6.sce#S##11863
+36#Interference#36.6#Sample Problem 6#Example36_6_result.txt#24/CH36/EX36.6/Example36_6_result.txt#R##11864
+37#Diffraction#37.1#Sample Problem 1#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+37#Diffraction#37.1#Sample Problem 1#Example37_1.sce#24/CH37/EX37.1/Example37_1.sce#S##11875
+37#Diffraction#37.1#Sample Problem 1#Example37_1_result.txt#24/CH37/EX37.1/Example37_1_result.txt#R##11876
+37#Diffraction#37.2#Sample Problem 2#Example37_2.sce#24/CH37/EX37.2/Example37_2.sce#S##11877
+37#Diffraction#37.2#Sample Problem 2#Example37_2_result.txt#24/CH37/EX37.2/Example37_2_result.txt#R##11878
+37#Diffraction#37.3#Sample Problem 3#Example37_3.sce#24/CH37/EX37.3/Example37_3.sce#S##11869
+37#Diffraction#37.3#Sample Problem 3#Example37_3_result.txt#24/CH37/EX37.3/Example37_3_result.txt#R##11870
+37#Diffraction#37.4#Sample Problem 4#Example37_4.sce#24/CH37/EX37.4/Example37_4.sce#S##11871
+37#Diffraction#37.4#Sample Problem 4#Example37_4_result.txt#24/CH37/EX37.4/Example37_4_result.txt#R##11872
+37#Diffraction#37.5#Sample Problem 5#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+37#Diffraction#37.5#Sample Problem 5#Example37_5.sce#24/CH37/EX37.5/Example37_5.sce#S##11873
+37#Diffraction#37.5#Sample Problem 5#Example37_5_result.txt#24/CH37/EX37.5/Example37_5_result.txt#R##11874
+38#Relativity#38.1#Sample Problem 1#Example38_1.sce#24/CH38/EX38.1/Example38_1.sce#S##11879
+38#Relativity#38.1#Sample Problem 1#Example38_1_result.txt#24/CH38/EX38.1/Example38_1_result.txt#R##11880
+38#Relativity#38.2#Sample Problem 2#Example38_2.sce#24/CH38/EX38.2/Example38_2.sce#S##11881
+38#Relativity#38.2#Sample Problem 2#Example38_2_result.txt#24/CH38/EX38.2/Example38_2_result.txt#R##11882
+38#Relativity#38.3#Sample Problem 3#Example38_3.sce#24/CH38/EX38.3/Example38_3.sce#S##11883
+38#Relativity#38.3#Sample Problem 3#Example38_3_result.txt#24/CH38/EX38.3/Example38_3_result.txt#R##11884
+38#Relativity#38.4#Sample Problem 4#Example38_4.sce#24/CH38/EX38.4/Example38_4.sce#S##11885
+38#Relativity#38.4#Sample Problem 4#Example38_4_result.txt#24/CH38/EX38.4/Example38_4_result.txt#R##11886
+38#Relativity#38.5#Sample Problem 5#Example38_5.sce#24/CH38/EX38.5/Example38_5.sce#S##11887
+38#Relativity#38.5#Sample Problem 5#Example38_5_result.txt#24/CH38/EX38.5/Example38_5_result.txt#R##11888
+38#Relativity#38.6#Sample Problem 6#Example38_6.sce#24/CH38/EX38.6/Example38_6.sce#S##11889
+38#Relativity#38.6#Sample Problem 6#Example38_6_result.txt#24/CH38/EX38.6/Example38_6_result.txt#R##11890
+38#Relativity#38.7#Sample Problem 7#Example38_7.sce#24/CH38/EX38.7/Example38_7.sce#S##11891
+38#Relativity#38.7#Sample Problem 7#Example38_7_result.txt#24/CH38/EX38.7/Example38_7_result.txt#R##11892
+39#Photons and Matter Waves#39.1#Sample Problem 1#Example39_1.sce#24/CH39/EX39.1/Example39_1.sce#S##11893
+39#Photons and Matter Waves#39.1#Sample Problem 1#Example39_1_result.txt#24/CH39/EX39.1/Example39_1_result.txt#R##11894
+39#Photons and Matter Waves#39.2#Sample Problem 2#Example39_2.sce#24/CH39/EX39.2/Example39_2.sce#S##11895
+39#Photons and Matter Waves#39.2#Sample Problem 2#Example39_2_result.txt#24/CH39/EX39.2/Example39_2_result.txt#R##11896
+39#Photons and Matter Waves#39.3#Sample Problem 3#Example39_3.sce#24/CH39/EX39.3/Example39_3.sce#S##11897
+39#Photons and Matter Waves#39.3#Sample Problem 3#Example39_3_result.txt#24/CH39/EX39.3/Example39_3_result.txt#R##11898
+39#Photons and Matter Waves#39.4#Sample Problem 4#degree_rad.sci#24/DEPENDENCIES/degree_rad.sci#D#degree_rad#272
+39#Photons and Matter Waves#39.4#Sample Problem 4#Example39_4.sce#24/CH39/EX39.4/Example39_4.sce#S##11899
+39#Photons and Matter Waves#39.4#Sample Problem 4#Example39_4_result.txt#24/CH39/EX39.4/Example39_4_result.txt#R##11900
+39#Photons and Matter Waves#39.5#Sample Problem 5#Example39_5.sce#24/CH39/EX39.5/Example39_5.sce#S##11901
+39#Photons and Matter Waves#39.5#Sample Problem 5#Example39_5_result.txt#24/CH39/EX39.5/Example39_5_result.txt#R##11902
+39#Photons and Matter Waves#39.6#Sample Problem 6#Example39_6.sce#24/CH39/EX39.6/Example39_6.sce#S##11903
+39#Photons and Matter Waves#39.6#Sample Problem 6#Example39_6_result.txt#24/CH39/EX39.6/Example39_6_result.txt#R##11904
+39#Photons and Matter Waves#39.7#Sample Problem 7#Example39_7.sce#24/CH39/EX39.7/Example39_7.sce#S##11905
+39#Photons and Matter Waves#39.7#Sample Problem 7#Example39_7_result.txt#24/CH39/EX39.7/Example39_7_result.txt#R##11906
+40#More About Matter waves#40.1#Sample Problem 1#quantum.sci#24/DEPENDENCIES/quantum.sci#D#Modern Physics#285
+40#More About Matter waves#40.1#Sample Problem 1#Example40_1.sce#24/CH40/EX40.1/Example40_1.sce#S##11907
+40#More About Matter waves#40.1#Sample Problem 1#Example40_1_result.txt#24/CH40/EX40.1/Example40_1_result.txt#R##11908
+40#More About Matter waves#40.3#Sample Problem 3#Example40_3.sce#24/CH40/EX40.3/Example40_3.sce#S##11909
+40#More About Matter waves#40.3#Sample Problem 3#Example40_3_result.txt#24/CH40/EX40.3/Example40_3_result.txt#R##11910
+40#More About Matter waves#40.4#Sample Problem 4#quantum.sci#24/DEPENDENCIES/quantum.sci#D#Modern Physics#285
+40#More About Matter waves#40.4#Sample Problem 4#Example40_4.sce#24/CH40/EX40.4/Example40_4.sce#S##11911
+40#More About Matter waves#40.4#Sample Problem 4#Example40_4_result.txt#24/CH40/EX40.4/Example40_4_result.txt#R##11912
+40#More About Matter waves#40.6#Sample Problem 6#quantum.sci#24/DEPENDENCIES/quantum.sci#D#Modern Physics#285
+40#More About Matter waves#40.6#Sample Problem 6#Example40_6.sce#24/CH40/EX40.6/Example40_6.sce#S##11913
+40#More About Matter waves#40.6#Sample Problem 6#Example40_6_result.txt#24/CH40/EX40.6/Example40_6_result.txt#R##11914
+40#More About Matter waves#40.8#Sample Problem 8#Example40_8.sce#24/CH40/EX40.8/Example40_8.sce#S##11917
+40#More About Matter waves#40.8#Sample Problem 8#Example40_8_result.txt#24/CH40/EX40.8/Example40_8_result.txt#R##11918
+41#All About Atoms#41.1#Sample Problem 1#Example41_1.sce#24/CH41/EX41.1/Example41_1.sce#S##13282
+41#All About Atoms#41.1#Sample Problem 1#Example41_1_result.txt#24/CH41/EX41.1/Example41_1_result.txt#R##13283
+41#All About Atoms#41.2#Sample Problem 2#Example41_2.sce#24/CH41/EX41.2/Example41_2.sce#S##13284
+41#All About Atoms#41.2#Sample Problem 2#Example41_2_result.txt#24/CH41/EX41.2/Example41_2_result.txt#R##13285
+41#All About Atoms#41.3#Sample Problem 3#Example41_3.sce#24/CH41/EX41.3/Example41_3.sce#S##13286
+41#All About Atoms#41.3#Sample Problem 3#Example41_3_result.txt#24/CH41/EX41.3/Example41_3_result.txt#R##13287
+41#All About Atoms#41.3#Sample Problem 3#Example41_3a.jpg#24/CH41/EX41.3/Example41_3a.jpg#R##13288
+41#All About Atoms#41.4#Sample Problem 4#Example41_4.sce#24/CH41/EX41.4/Example41_4.sce#S##13289
+41#All About Atoms#41.4#Sample Problem 4#Example41_4_result.txt#24/CH41/EX41.4/Example41_4_result.txt#R##13290
+41#All About Atoms#41.5#Sample Problem 5#Example41_5.sce#24/CH41/EX41.5/Example41_5.sce#S##13291
+41#All About Atoms#41.5#Sample Problem 5#Example41_5_result.txt#24/CH41/EX41.5/Example41_5_result.txt#R##13292
+41#All About Atoms#41.6#Sample Problem 6#Example41_6.sce#24/CH41/EX41.6/Example41_6.sce#S##13293
+41#All About Atoms#41.6#Sample Problem 6#Example41_6_result.txt#24/CH41/EX41.6/Example41_6_result.txt#R##13294
+42#Conduction of Electricity in Solids#42.1#Sample Problem 1#Example42_1.sce#24/CH42/EX42.1/Example42_1.sce#S##13295
+42#Conduction of Electricity in Solids#42.1#Sample Problem 1#Example42_1_result.txt#24/CH42/EX42.1/Example42_1_result.txt#R##13296
+42#Conduction of Electricity in Solids#42.2#Sample Problem 2#Example42_2.sce#24/CH42/EX42.2/Example42_2.sce#S##13297
+42#Conduction of Electricity in Solids#42.2#Sample Problem 2#Example42_2_result.txt#24/CH42/EX42.2/Example42_2_result.txt#R##13298
+42#Conduction of Electricity in Solids#42.3#Sample Problem 3#Example42_3.sce#24/CH42/EX42.3/Example42_3.sce#S##13299
+42#Conduction of Electricity in Solids#42.3#Sample Problem 3#Example42_3_result.txt#24/CH42/EX42.3/Example42_3_result.txt#R##13300
+42#Conduction of Electricity in Solids#42.4#Sample Problem 4#Example42_4.sce#24/CH42/EX42.4/Example42_4.sce#S##13301
+42#Conduction of Electricity in Solids#42.4#Sample Problem 4#Example42_4_result.txt#24/CH42/EX42.4/Example42_4_result.txt#R##13302
+42#Conduction of Electricity in Solids#42.5#Sample Problem 5#Example42_5.sce#24/CH42/EX42.5/Example42_5.sce#S##13303
+42#Conduction of Electricity in Solids#42.5#Sample Problem 5#Example42_5_result.txt#24/CH42/EX42.5/Example42_5_result.txt#R##13304
+42#Conduction of Electricity in Solids#42.6#Sample Problem 6#Example42_6.sce#24/CH42/EX42.6/Example42_6.sce#S##13305
+42#Conduction of Electricity in Solids#42.6#Sample Problem 6#Example42_6_result.txt#24/CH42/EX42.6/Example42_6_result.txt#R##13306
+42#Conduction of Electricity in Solids#42.7#Sample Problem 7#Example42_7.sce#24/CH42/EX42.7/Example42_7.sce#S##13307
+42#Conduction of Electricity in Solids#42.7#Sample Problem 7#Example42_7_result.txt#24/CH42/EX42.7/Example42_7_result.txt#R##13308
+43#Nuclear Physics#43.1#Sample Problem 1#Example43_1.sce#24/CH43/EX43.1/Example43_1.sce#S##13309
+43#Nuclear Physics#43.1#Sample Problem 1#Example43_1_result.txt#24/CH43/EX43.1/Example43_1_result.txt#R##13310
+43#Nuclear Physics#43.2#Sample Problem 2#Example43_2.sce#24/CH43/EX43.2/Example43_2.sce#S##13311
+43#Nuclear Physics#43.2#Sample Problem 2#Example43_2_result.txt#24/CH43/EX43.2/Example43_2_result.txt#R##13312
+43#Nuclear Physics#43.3#Sample Problem 3#Example43_3.sce#24/CH43/EX43.3/Example43_3.sce#S##13313
+43#Nuclear Physics#43.3#Sample Problem 3#Example43_3_result.txt#24/CH43/EX43.3/Example43_3_result.txt#R##13314
+43#Nuclear Physics#43.4#Sample Problem 4#Example43_4.sce#24/CH43/EX43.4/Example43_4.sce#S##13315
+43#Nuclear Physics#43.4#Sample Problem 4#Example43_4_result.txt#24/CH43/EX43.4/Example43_4_result.txt#R##13316
+43#Nuclear Physics#43.5#Sample Problem 5#Example43_5.sce#24/CH43/EX43.5/Example43_5.sce#S##13319
+43#Nuclear Physics#43.5#Sample Problem 5#Example43_5_result.txt#24/CH43/EX43.5/Example43_5_result.txt#R##13320
+43#Nuclear Physics#43.6#Sample Problem 6#Example43_6.sce#24/CH43/EX43.6/Example43_6.sce#S##13317
+43#Nuclear Physics#43.6#Sample Problem 6#Example43_6_result.txt#24/CH43/EX43.6/Example43_6_result.txt#R##13318
+43#Nuclear Physics#43.7#Sample Problem 7#Example43_7.sce#24/CH43/EX43.7/Example43_7.sce#S##13321
+43#Nuclear Physics#43.7#Sample Problem 7#Example43_7_result.txt#24/CH43/EX43.7/Example43_7_result.txt#R##13322
+43#Nuclear Physics#43.8#Sample Problem 8#Example43_8.sce#24/CH43/EX43.8/Example43_8.sce#S##13323
+43#Nuclear Physics#43.8#Sample Problem 8#Example43_8_result.txt#24/CH43/EX43.8/Example43_8_result.txt#R##13324
+43#Nuclear Physics#43.9#Sample Problem 9#Example43_9.sce#24/CH43/EX43.9/Example43_9.sce#S##13325
+43#Nuclear Physics#43.9#Sample Problem 9#Example43_9_result.txt#24/CH43/EX43.9/Example43_9_result.txt#R##13326
+43#Nuclear Physics#43.10#Sample Problem 10#Example43_10.sce#24/CH43/EX43.10/Example43_10.sce#S##13327
+43#Nuclear Physics#43.10#Sample Problem 10#Example43_10_result.txt#24/CH43/EX43.10/Example43_10_result.txt#R##13328
+44#Energy from the Nucleus#44.1#Sample Problem 1#Example44_1.sce#24/CH44/EX44.1/Example44_1.sce#S##13329
+44#Energy from the Nucleus#44.1#Sample Problem 1#Example44_1_result.txt#24/CH44/EX44.1/Example44_1_result.txt#R##13330
+44#Energy from the Nucleus#44.2#Sample Problem 2#Example44_2.sce#24/CH44/EX44.2/Example44_2.sce#S##13331
+44#Energy from the Nucleus#44.2#Sample Problem 2#Example44_2_result.txt#24/CH44/EX44.2/Example44_2_result.txt#R##13332
+44#Energy from the Nucleus#44.3#Sample Problem 3#Example44_3.sce#24/CH44/EX44.3/Example44_3.sce#S##13333
+44#Energy from the Nucleus#44.3#Sample Problem 3#Example44_3_result.txt#24/CH44/EX44.3/Example44_3_result.txt#R##13334
+44#Energy from the Nucleus#44.4#Sample Problem 4#Example44_4.sce#24/CH44/EX44.4/Example44_4.sce#S##13335
+44#Energy from the Nucleus#44.4#Sample Problem 4#Example44_4_result.txt#24/CH44/EX44.4/Example44_4_result.txt#R##13336
+44#Energy from the Nucleus#44.5#Sample Problem 5#Example44_5.sce#24/CH44/EX44.5/Example44_5.sce#S##13337
+44#Energy from the Nucleus#44.5#Sample Problem 5#Example44_5_result.txt#24/CH44/EX44.5/Example44_5_result.txt#R##13338
+44#Energy from the Nucleus#44.6#Sample Problem 6#Example44_6.sce#24/CH44/EX44.6/Example44_6.sce#S##13339
+44#Energy from the Nucleus#44.6#Sample Problem 6#Example44_6_result.txt#24/CH44/EX44.6/Example44_6_result.txt#R##13340
+45#Quarks Leptons and the Big Bang#45.1#Sample Problem 1#Example45_1.sce#24/CH45/EX45.1/Example45_1.sce#S##13341
+45#Quarks Leptons and the Big Bang#45.1#Sample Problem 1#Example45_1_result.txt#24/CH45/EX45.1/Example45_1_result.txt#R##13342
+45#Quarks Leptons and the Big Bang#45.2#Sample Problem 3#Example45_2.sce#24/CH45/EX45.2/Example45_2.sce#S##13343
+45#Quarks Leptons and the Big Bang#45.2#Sample Problem 3#Example45_2_result.txt#24/CH45/EX45.2/Example45_2_result.txt#R##13344
+45#Quarks Leptons and the Big Bang#45.3#Sample Problem 3#Example45_3.sce#24/CH45/EX45.3/Example45_3.sce#S##13345
+45#Quarks Leptons and the Big Bang#45.3#Sample Problem 3#Example45_3_result.txt#24/CH45/EX45.3/Example45_3_result.txt#R##13346
+45#Quarks Leptons and the Big Bang#45.6#Sample Problem 6#Example45_6.sce#24/CH45/EX45.6/Example45_6.sce#S##13347
+45#Quarks Leptons and the Big Bang#45.6#Sample Problem 6#Example45_6_result.txt#24/CH45/EX45.6/Example45_6_result.txt#R##13348
+45#Quarks Leptons and the Big Bang#45.7#Sample Problem 7#Example45_7.sce#24/CH45/EX45.7/Example45_7.sce#S##13349
+45#Quarks Leptons and the Big Bang#45.7#Sample Problem 7#Example45_7_result.txt#24/CH45/EX45.7/Example45_7_result.txt#R##13350

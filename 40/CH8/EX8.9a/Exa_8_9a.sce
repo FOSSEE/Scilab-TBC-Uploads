@@ -3,7 +3,7 @@ n2=0:0.5/1000:5.5/100;
 xt=4*cos(100*%pi*n2');
 n=0:(0.5)/100:(5.5)/100;//F=3/12 hence N=12
 xn=4*cos(100*%pi*n');
-XDFT=dft(xn,-1);
+XDFT=fft(xn,-1);
 n1=0:11;
 a=gca();
 a.x_location="origin";

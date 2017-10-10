@@ -1,0 +1,71 @@
+19#Applications of high voltage engineering in industry#19.18.9#position of the particle at the exit end of the plate#Ex19_9.sce#3523/CH19/EX19.18.9/Ex19_9.sce#S##119693
+19#Applications of high voltage engineering in industry#19.18.8#velocity of the ejected ions and propulsion force#Ex19_8.sce#3523/CH19/EX19.18.8/Ex19_8.sce#S##119692
+19#Applications of high voltage engineering in industry#19.18.7#thickness of the layer#Ex19_7.sce#3523/CH19/EX19.18.7/Ex19_7.sce#S##119691
+19#Applications of high voltage engineering in industry#19.18.6#space charge limited current density and current density at collecting electrode#Ex19_6.sce#3523/CH19/EX19.18.6/Ex19_6.sce#S##119690
+19#Applications of high voltage engineering in industry#19.18.5#electric stress and charge density on the microphone elecrtode#Ex19_5.sce#3523/CH19/EX19.18.5/Ex19_5.sce#S##119779
+19#Applications of high voltage engineering in industry#19.18.4#find vertical displacement of the drop on the print surface#Ex19_4.sce#3523/CH19/EX19.18.4/Ex19_4.sce#S##119778
+19#Applications of high voltage engineering in industry#19.18.2#cal pumping pressure#Ex19_2.sce#3523/CH19/EX19.18.2/Ex19_2.sce#S##119687
+19#Applications of high voltage engineering in industry#19.18.10#minimum voltage required to generate a charge#Ex19_10.sce#3523/CH19/EX19.18.10/Ex19_10.sce#S##119694
+19#Applications of high voltage engineering in industry#19.18.1#determine separation between the particles after falling 1m#Ex19_1.sce#3523/CH19/EX19.18.1/Ex19_1.sce#S##119777
+16#High voltage generation#16.7.9#values of wave shaping resistors and max output voltage and energy rating of the generator#Ex16_9.sce#3523/CH16/EX16.7.9/Ex16_9.sce#S##119684
+16#High voltage generation#16.7.8#wave shaping resistors R1 and R2 and also circuit efficiency#Ex16_8.sce#3523/CH16/EX16.7.8/Ex16_8.sce#S##119683
+16#High voltage generation#16.7.7#wave eq parameters and wave generated#Ex16_7.sce#3523/CH16/EX16.7.7/Ex16_7.sce#S##119785
+16#High voltage generation#16.7.6#wave eq parameters and wave generated#Ex16_6.sce#3523/CH16/EX16.7.6/Ex16_6.sce#S##119784
+16#High voltage generation#16.7.5#charging current and the potential difference between dome and the base#Ex16_5.sce#3523/CH16/EX16.7.5/Ex16_5.sce#S##119682
+16#High voltage generation#16.7.4#find the inductance and input voltage and power to the transformer#Ex16_4.sce#3523/CH16/EX16.7.4/Ex16_4.sce#S##119776
+16#High voltage generation#16.7.3#ripple voltage voltage drop avg output voltage ripple factor and optimum no of stages for min voltage drop#Ex16_3.sce#3523/CH16/EX16.7.3/Ex16_3.sce#S##119680
+16#High voltage generation#16.7.2#ripple voltage voltage drop avg output voltage and ripple factor#Ex16_2.sce#3523/CH16/EX16.7.2/Ex16_2.sce#S##119679
+16#High voltage generation#16.7.11#parameters and eq for generated impulse current#Ex16_11.sce#3523/CH16/EX16.7.11/Ex16_11.sce#S##119786
+16#High voltage generation#16.7.10#find front and tail times of the lightning impulse produced#Ex16_10.sce#3523/CH16/EX16.7.10/Ex16_10.sce#S##119685
+16#High voltage generation#16.7.1#ripple voltage voltage drop avg output voltage and ripple factor#Ex16_1.sce#3523/CH16/EX16.7.1/Ex16_1.sce#S##119678
+12#High Voltage Cables#12.17.9#find voltage at max stress and find max stress#Ex12_9.sce#3523/CH12/EX12.17.9/Ex12_9.sce#S##119780
+12#High Voltage Cables#12.17.8#max stress and best position and voltage on the intersheaths#Ex12_8.sce#3523/CH12/EX12.17.8/Ex12_8.sce#S##119675
+12#High Voltage Cables#12.17.7#induced sheath voltage per km#Ex12_7.sce#3523/CH12/EX12.17.7/Ex12_7.sce#S##119674
+12#High Voltage Cables#12.17.6#effective electrical parameters #Ex12_6.sce#3523/CH12/EX12.17.6/Ex12_6.sce#S##119673
+12#High Voltage Cables#12.17.5#capacitance per km the KVAr #Ex12_5.sce#3523/CH12/EX12.17.5/Ex12_5.sce#S##119672
+12#High Voltage Cables#12.17.4#KVAr #Ex12_4.sce#3523/CH12/EX12.17.4/Ex12_4.sce#S##119671
+12#High Voltage Cables#12.17.3#resistivity of insulating material#Ex12_3.sce#3523/CH12/EX12.17.3/Ex12_3.sce#S##119670
+12#High Voltage Cables#12.17.2#value of conductor radius optimum value of r#Ex12_2.sce#3523/CH12/EX12.17.2/Ex12_2.sce#S##119669
+12#High Voltage Cables#12.17.10#max stress in rubber and in paper#Ex12_10.sce#3523/CH12/EX12.17.10/Ex12_10.sce#S##119677
+12#High Voltage Cables#12.17.1#radial thickness and operating voltage#Ex12_1.sce#3523/CH12/EX12.17.1/Ex12_1.sce#S##119668
+5#The Corona Discharge#5.6.9#cal corona onset voltage at standard temperature and pressure#Ex5_9.sce#3523/CH5/EX5.6.9/Ex5_9.sce#S##119762
+5#The Corona Discharge#5.6.8#Cal positive and negative corona onset voltages#Ex5_8.sce#3523/CH5/EX5.6.8/Ex5_8.sce#S##119763
+5#The Corona Discharge#5.6.6#for gas pressure of 3 and 5 atmp cal corona onset voltage#Ex5_6.sce#3523/CH5/EX5.6.6/Ex5_6.sce#S##119783
+5#The Corona Discharge#5.6.5#cal corona onset voltage#Ex5_5.sce#3523/CH5/EX5.6.5/Ex5_5.sce#S##119782
+5#The Corona Discharge#5.6.3#repeat problem 2 for gas pressures of 3 and 5 atmospheres#Ex5_3.sce#3523/CH5/EX5.6.3/Ex5_3.sce#S##119781
+5#The Corona Discharge#5.6.2#breakdown voltage#Ex5_2.sce#3523/CH5/EX5.6.2/Ex5_2.sce#S##119775
+5#The Corona Discharge#5.6.11#cal corona onset voltage and the effective radius of the corona envelope#Ex5_11.sce#3523/CH5/EX5.6.11/Ex5_11.sce#S##119761
+5#The Corona Discharge#5.6.10#cal corona power loss and corona current#Ex5_10.sce#3523/CH5/EX5.6.10/Ex5_10.sce#S##119760
+4#Electrical Breakdown of Gases#4.10.9#distance and voltage at the transition to a self sustained discharge#Ex4_9.sce#3523/CH4/EX4.10.9/Ex4_9.sce#S##119666
+4#Electrical Breakdown of Gases#4.10.8#cal the first ionization coefficient and the sec ionization coefficient#Ex4_8.sce#3523/CH4/EX4.10.8/Ex4_8.sce#S##119773
+4#Electrical Breakdown of Gases#4.10.7#total secondary coefficient of ionization at NTP#Ex4_7.sce#3523/CH4/EX4.10.7/Ex4_7.sce#S##119772
+4#Electrical Breakdown of Gases#4.10.5#min distance measured from the cathode#Ex4_5.sce#3523/CH4/EX4.10.5/Ex4_5.sce#S##119660
+4#Electrical Breakdown of Gases#4.10.4#distance it must travel to produce an avalanche#Ex4_4.sce#3523/CH4/EX4.10.4/Ex4_4.sce#S##119659
+4#Electrical Breakdown of Gases#4.10.3#size of developed avalanche #Ex4_3.sce#3523/CH4/EX4.10.3/Ex4_3.sce#S##119658
+4#Electrical Breakdown of Gases#4.10.2#electrode spacing#Ex4_2.sce#3523/CH4/EX4.10.2/Ex4_2.sce#S##119657
+4#Electrical Breakdown of Gases#4.10.12#a travel time of positive ions b max frequency#Ex4_12.sce#3523/CH4/EX4.10.12/Ex4_12.sce#S##119667
+4#Electrical Breakdown of Gases#4.10.11#electron drift velocity and ionization coefficient#Ex4_11.sce#3523/CH4/EX4.10.11/Ex4_11.sce#S##119665
+4#Electrical Breakdown of Gases#4.10.10#breakdown voltage#Ex4_10.sce#3523/CH4/EX4.10.10/Ex4_10.sce#S##119774
+4#Electrical Breakdown of Gases#4.10.1#a alpha b no of electrons emitted from cathode per sec #Ex4_1.sce#3523/CH4/EX4.10.1/Ex4_1.sce#S##119656
+3#Ionization and Deionization Processes in gases#3.7.9#avg separation of atoms and avg vol occupied by one atom#Ex3_9.sce#3523/CH3/EX3.7.9/Ex3_9.sce#S##119647
+3#Ionization and Deionization Processes in gases#3.7.8#energy of free electrons#Ex3_8.sce#3523/CH3/EX3.7.8/Ex3_8.sce#S##119646
+3#Ionization and Deionization Processes in gases#3.7.7#mean square velocity of He atoms#Ex3_7.sce#3523/CH3/EX3.7.7/Ex3_7.sce#S##119645
+3#Ionization and Deionization Processes in gases#3.7.6#density of ions at dist equal to mfp and five times mfp#Ex3_6.sce#3523/CH3/EX3.7.6/Ex3_6.sce#S##119644
+3#Ionization and Deionization Processes in gases#3.7.5#volume of 1 kg of He#Ex3_5.sce#3523/CH3/EX3.7.5/Ex3_5.sce#S##119643
+3#Ionization and Deionization Processes in gases#3.7.4#temperature at which avg KE of He atoms in gas become 1 eV#Ex3_4.sce#3523/CH3/EX3.7.4/Ex3_4.sce#S##119768
+3#Ionization and Deionization Processes in gases#3.7.3#max pressure in chamber#Ex3_3.sce#3523/CH3/EX3.7.3/Ex3_3.sce#S##119641
+3#Ionization and Deionization Processes in gases#3.7.2#total translational KE#Ex3_2.sce#3523/CH3/EX3.7.2/Ex3_2.sce#S##119769
+3#Ionization and Deionization Processes in gases#3.7.19#a mean free path of electrons in nitrogen and b ionization potential of nitrogen#Ex3_19.sce#3523/CH3/EX3.7.19/Ex3_19.sce#S##119655
+3#Ionization and Deionization Processes in gases#3.7.18#diameter of cloud after drifting a distance of point 05#Ex3_18.sce#3523/CH3/EX3.7.18/Ex3_18.sce#S##119771
+3#Ionization and Deionization Processes in gases#3.7.17#ion density point 02 m away in both directions at 25 deg C#Ex3_17.sce#3523/CH3/EX3.7.17/Ex3_17.sce#S##119770
+3#Ionization and Deionization Processes in gases#3.7.15#mobility of electrons#Ex3_15.sce#3523/CH3/EX3.7.15/Ex3_15.sce#S##119652
+3#Ionization and Deionization Processes in gases#3.7.14#diameter of the argon atom#Ex3_14.sce#3523/CH3/EX3.7.14/Ex3_14.sce#S##119651
+3#Ionization and Deionization Processes in gases#3.7.12#binding energy of the gas#Ex3_12.sce#3523/CH3/EX3.7.12/Ex3_12.sce#S##119650
+3#Ionization and Deionization Processes in gases#3.7.11#liquid photon absorption coefficient#Ex3_11.sce#3523/CH3/EX3.7.11/Ex3_11.sce#S##119649
+3#Ionization and Deionization Processes in gases#3.7.10#KE in eV and velocity of phototelectron#Ex3_10.sce#3523/CH3/EX3.7.10/Ex3_10.sce#S##119648
+3#Ionization and Deionization Processes in gases#3.7.1#speed of air molecules#Ex3_1.sce#3523/CH3/EX3.7.1/Ex3_1.sce#S##119639
+2#Electric Fields#2.8.8#vol of insulator required for graded design#Ex2_8.sce#3523/CH2/EX2.8.8/Ex2_8.sce#S##119766
+2#Electric Fields#2.8.7#electric field induced at x equal to 1#Ex2_7.sce#3523/CH2/EX2.8.7/Ex2_7.sce#S##119765
+2#Electric Fields#2.8.6#charge on each bundle   max min and avg surface fields   avg max surface voltage gradient #Ex2_6.sce#3523/CH2/EX2.8.6/Ex2_6.sce#S##119764
+2#Electric Fields#2.8.5#calculate max field at sphere surface#Ex2_5.sce#3523/CH2/EX2.8.5/Ex2_5.sce#S##119634
+2#Electric Fields#2.8.11#determine potentials within the mesh#Ex2_11.sce#3523/CH2/EX2.8.11/Ex2_11.sce#S##119767

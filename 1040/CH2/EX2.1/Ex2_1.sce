@@ -4,6 +4,19 @@
 //======================================================================================================================
 clear
 clc
+function [coefs]=regress(x,y)
+ coefs=[]
+  if (type(x) <> 1)|(type(y)<>1) then error(msprintf(gettext("%s: Wrong type for input arguments: Numerical expected.\n"),"regress")), end
+  lx=length(x)
+  if lx<>length(y) then error(msprintf(gettext("%s: Wrong size for both input arguments: same size expected.\n"),"regress")), end
+  if lx==0 then error(msprintf(gettext("%s: Wrong size for input argument #%d: Must be > %d.\n"),"regress", 1, 0)), end
+  x=matrix(x,lx,1)
+  y=matrix(y,lx,1)
+  xbar=sum(x)/lx
+  ybar=sum(y)/lx
+  coefs(2)=sum((x-xbar).*(y-ybar))/sum((x-xbar).^2)
+  coefs(1)=ybar-coefs(2)*xbar
+endfunction
 clf
 //INPUT
 // Case: I  constant hydrogen pressure: P_H2= 2110 torr  

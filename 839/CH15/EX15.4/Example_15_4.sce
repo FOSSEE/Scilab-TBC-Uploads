@@ -28,7 +28,7 @@ rh = Ac/Ap; //[ft]
 //equivalent diameter
 De = 4*rh; //[ft]
 //Reynolds Number
-Nre = De*h/mu
+Nre = De*G/mu
 //In computing mu_w the resistance of the wall and the steam film
 //are considered negligible, so
 mu_w = 0.0528; //[lb/ft-h]
@@ -37,7 +37,7 @@ Npr = mu*Cp/k
 jh = 0.0031;
 ho = jh*Cp*G*(mu/mu_w)^0.14/Npr^(2/3); //[Btu/ft^2-h-F]
 
-//For rectangular fins, disreagrding the contribution of the ends of the fins to 
+//For rectangular fins, disregarding the contribution of the ends of the fins to 
 //the perimeter, Lp = 2L and S = Lyf, where yf is the fin thickness and L is the 
 //length of the fin. Then, from Eq.(15.11)
 aFxF = xF*sqrt(2*ho/(km*yF));
@@ -51,4 +51,4 @@ xw = (OD_pipe-Dt)/2; //[ft]
 
 //Using Eq.(15.10), the overall coefficient 
 Ut =  1/(Ai/(ho*(netaF*AF+Ab))+(xw*Dt/(km*DLbar))+1/hi);//[Btu/ft^2-h-F]
-disp('Btu/ft^2-h-F',Ut,'The overall heat transfer coefficent is')
+disp('Btu/ft^2-h-F',Ut,'The overall heat transfer coefficient is')

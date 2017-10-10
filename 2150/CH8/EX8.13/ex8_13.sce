@@ -10,7 +10,7 @@ C = 0.1 * 10^-6;// in F
 Vi= 1.5;// in V
 t=0:0.1:1;
 subplot(2,1,1)
-plot(t,Vi);
+plot(t,Vi*ones(1,length(t)));
 ylabel("Vi in volts")
 xlabel("t")
 title("Input voltage");

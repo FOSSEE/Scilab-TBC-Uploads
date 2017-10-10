@@ -1,4 +1,4 @@
-//CAPTION: Planar_Circular_Spiral__inductor
+
 //chapter_no.-12,  page_no.-536
 //Example_no.12-4-2
 

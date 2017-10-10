@@ -1,4 +1,4 @@
-//CAPTION: Power-Frequency_Limitation
+
 //CHAPTER NO.-5
 //Example No.5-1-4 , Page No.-211 
                                                                      

@@ -1,7 +1,7 @@
 //chapter 18
 //example 18.6
 //page 578
-clear all;
+clear ;
 clc ;
 //given
 VB1B2=15;
@@ -12,6 +12,3 @@ Eo=2.5;//capacitor voltage at start of each charging cycle
 t=0.1*10*log((15-2.5)/(15-11.2));
 f=1000/t;
 printf("\nTypical frequency of oscillation is approximately %d Hz",ceil(f))
-
-
-

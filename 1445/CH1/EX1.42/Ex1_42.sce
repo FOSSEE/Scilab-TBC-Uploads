@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 42
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 42");
 
@@ -18,7 +19,7 @@ r4=2;                               //second resistance in Ohms
 rth=(r1*r3)/(r1+r3);
 vth=v*(r3/(r1+r3));                 //Thevenin voltage
 R=(40-(56*I))/(24*I);               //solving for R directly
-disp(sprintf("(i) By Thevenin Theorem, the value of R is %d Ω",R));
+disp(sprintf("(i) By Thevenins Theorem, the value of R is %d Ω",R));
 
 //v1=(10R+4)/(3R+4)........eq(1)    //using nodal analysis at node 1
 //v1=1+R...................eq(2)    //using nodal analysis at node 2
@@ -37,4 +38,4 @@ else
 disp(sprintf("(ii) By Nodal analysis, the value of R is %d Ω",R1));
 end;
 
-//END  
+//END

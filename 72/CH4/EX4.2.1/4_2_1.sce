@@ -1,4 +1,4 @@
- //CAPTION: TE_Mode_In_Circular_Waveguide                                                         
+                                                     
 //CHAPTER-4                                                         
 // EXAMPLE:4-2-1,  page no.-144.
 

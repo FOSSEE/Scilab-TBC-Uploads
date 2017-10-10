@@ -56,4 +56,4 @@
 2#Similarity#2.5#air speed#2_5.sce#2504/CH2/EX2.5/2_5.sce#S##88085
 2#Similarity#2.4#force at the end#2_4.sce#2504/CH2/EX2.4/2_4.sce#S##88084
 2#Similarity#2.3#force required#2_3.sce#2504/CH2/EX2.3/2_3.sce#S##88083
-2#Similarity#2.1#Force applied#2_1.sce#2504/CH2/EX2.1/2_1.sce#S##88082
+2#Similarity#2.1#Force applied #2_1.sce#2504/CH2/EX2.1/2_1.sce#S##88082

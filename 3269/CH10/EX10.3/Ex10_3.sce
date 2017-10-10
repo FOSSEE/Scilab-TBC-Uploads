@@ -1,5 +1,5 @@
 // Example 10.3
-clear all;
+clear;
 clc;
 
 // Given data

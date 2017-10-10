@@ -1,4 +1,3 @@
-//design adjustable screwed joint
 clc
 //solution
 //given
@@ -41,6 +40,6 @@ printf("the outer and inner dia are,%f mm\n,%f mm\n",D1,D2)
 L=6*d//mm
 printf("the length of coupler is,%f mm\n",L)
 T1=0.75*d//mm
-printf("the thickness of coupler is,%f mm\n ",t1)
+printf("the thickness of coupler is,%f mm\n ",T1)
 T2=0.5*d//mm
 printf("the thickness of coupler nut is,%f mm\n",T2)

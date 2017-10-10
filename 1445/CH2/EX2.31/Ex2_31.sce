@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 31 // read it as example 30 in the book on page 2.84
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 31");
 
@@ -11,10 +12,10 @@ disp("EXAMPLE 31");
 //say
 T=1;                                // 1 sec
 Yav=(1/T)*integrate('(10+10*t/T)', 't', 0, 1);
-disp(sprintf("The average value of waveform is %.0f",  Yav));
+disp(sprintf("The average value of waveform is %f",  Yav));
 //RMS value Yrms=(1/T).Integral(y^2.dt) from 0 to T
 Yms=(1/T)*integrate('(10+10*t/T)^2', 't', 0, 1);
-disp(sprintf("The RMS value of waveform is %.2f",  sqrt(Yms)));
+disp(sprintf("The RMS value of waveform is %f",  sqrt(Yms)));
 disp(" "); 
 // 
 //END

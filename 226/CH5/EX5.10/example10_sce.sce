@@ -3,6 +3,8 @@
 //page 201
 printf("\n")
 printf("given")
+Vcc=18.0;
+Rc = 1.2*10^3;
 Vt=4.8;Rt=8.8*10^3;//from example 5.8
 Re=1*10^3;Vbe=.7;hfe=200;
 Ib=(Vt-Vbe)/(Rt+Re*(1+hfe))

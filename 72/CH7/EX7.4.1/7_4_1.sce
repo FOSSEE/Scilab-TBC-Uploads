@@ -1,4 +1,4 @@
-//CAPTION: Output_power_of_an_LSA_Oscillator
+
 //chapter_no.-7,  page_no.-311
 //Example_no.7-4-1
 

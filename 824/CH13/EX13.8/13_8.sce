@@ -1,7 +1,9 @@
 //clear//
 clc
 clear
-exec("13__8.sci");
+k=0.1
+cao=8;
+z0=0;
 z = 0:1:200;
 
 function w=f(z,x)
@@ -16,12 +18,12 @@ E2=-2.64e-9*(lam^3)+1.3618e-6*(lam^2)-.00024069*lam+.015011
 F1=4.44658e-10/5*(lam^5)-1.1802e-7/4*lam^4+1.35358e-5/3*lam^3-.000865652/2*lam^2+.028004*lam;
 F2=-(-9.3076e-8*lam^3+5.02846e-5*lam^2-.00941*lam+.61823-1)
 ra=-k*ca^2;
-if lam< =70
+if lam&lt; =70
   E=E1
 else
   E=(E2)
   end
-  if(lam< =70)
+  if(lam&lt; =70)
     F=F1
   else
     F=F2
@@ -32,10 +34,4 @@ endfunction
 
 X=ode([0],z0,z,f);
 
-plot2d(z,X); 
-
-
-
-
-
-
+plot2d(z,X);

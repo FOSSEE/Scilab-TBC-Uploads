@@ -1,4 +1,4 @@
-//find diameter of the link stock,if permissible tensile stress is not to exceed 75 MPa.
+
 clc
 //solution
 //given:

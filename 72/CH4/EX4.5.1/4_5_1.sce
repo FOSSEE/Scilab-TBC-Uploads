@@ -1,4 +1,4 @@
-//CAPTION: Directional_Coupler
+
 
 //Chapter -4 
 //EXAMPLE: 4-5-1  PAGE NO. 170
@@ -8,7 +8,7 @@
 PT4=8;                                                  //Given.Transmitted_power_to_Bolometer_1_at_port_4
 s=2;                                                    //Given.VSWR_of_2.0_is_introduced_on_arm 4_by_Bolometer 1    
 r4=(s-1)/(s+1);                                         //reflection_coefficient_at_port 4(r4)
-PR4=8/8;                                                //(r4^2)=PR4/PI4=PR4/(PR4+PT4)=PR4/PR4+8=1/9  =>  8PR4=8 
+PR4=8/8;                                                //(r4^2)=PR4/PI4=PR4/(PR4+PT4)=PR4/PR4+8=1/9  =&gt;  8PR4=8 
 PI4=PT4 + PR4;                                          //PI4=power_incident_at_port_4 ;PT4=power_transmitted_at_port 4;PR4=power_reflected_at_port 4 
 disp(PI4,'power_incident_at_the_port_4_is_(mW)=');
 disp(PR4,'power_reflected_from_the_port 4_is_(mW) =');

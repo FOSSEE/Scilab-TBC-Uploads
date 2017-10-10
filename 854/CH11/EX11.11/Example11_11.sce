@@ -3,13 +3,14 @@
 //Example11.11
 //page381
 clc;
+clear
 close;
 Rg = 50; //series resistance with battery in ohms
 Zo = Rg; //characteristic impedance
 RL = 25; //load resistance
 Vo = 10; //battery voltage in volts
 V1_S = (Rg/(Zo+Rg))*Vo;
-T = reflection_coeff(RL,Zo);
+T = (RL-Zo)/(RL+Zo);
 V1_R = T*V1_S;
 I1_S = V1_S/Zo;
 I1_R = -V1_R/Zo;
@@ -33,4 +34,4 @@ disp(VL,'Steady state load voltage in volts VL=')
 //Steady state current through battery in amps IB=   
 //    0.1333333  
 //Steady state load voltage in volts VL=   
-//    3.3333333  
+//    3.3333333

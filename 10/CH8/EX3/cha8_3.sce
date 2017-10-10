@@ -22,4 +22,4 @@ Power=Turns*Rf
   
 Power=Turns*RF
  
-Vc=V+(PeakI*R)
+Vc=Vs+(PeakI*R)

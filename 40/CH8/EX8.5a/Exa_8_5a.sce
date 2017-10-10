@@ -1,9 +1,9 @@
 //properties of DFT
 //a1)product
 xn=[1 2 1 0];
-XDFT=dft(xn,-1)
+XDFT=fft(xn,-1)
 hn=xn.*xn
-HDFT=dft(hn,-1)
+HDFT=fft(hn,-1)
 HDFT1=1/4*(convol(XDFT,XDFT))
 HDFT1=[HDFT1,zeros(8:12)];
 HDFT2=[HDFT1(1:4);HDFT1(5:8);HDFT1(9:12)];
@@ -24,16 +24,16 @@ for i=1:4
         vn1(i)=vn1(i)+vn(j,i);
     end
 end
-VDFT=dft(vn1,-1);
+VDFT=fft(vn1,-1);
 VDFT1=XDFT.*XDFT;
 disp(VDFT1,'DFT of x[n]*x[n] is');
 //a3)signal energy(parcewell's theorem)
-xn2=xn^2;
+xn2=xn.^2;
 E=0;
 for i=1:length(xn2)
     E=E+abs(xn2(i));
 end
-XDFT2=XDFT^2
+XDFT2=XDFT.^2
 E1=0;
 for i=1:length(XDFT2)
     E1=E1+abs(XDFT2(i));

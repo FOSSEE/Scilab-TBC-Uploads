@@ -15,7 +15,7 @@ del_E = Q-W; //  Change in total energy, [kJ]
 
 mprintf('\n The Change in total energy is, del_E =  %f  kJ\n',del_E);
 
-if(del_E&gt;0)
+if(del_E>0)
     disp('Since del_E is positive, so there is an increase in total enery')
 else
     disp('Since del_E is negative, so there is an decrease in total enery')

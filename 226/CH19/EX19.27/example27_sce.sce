@@ -3,7 +3,9 @@
 //page 883
 printf("\n")
 printf("given")
-Rw=.1;f=1*10^6;Lp=19.5*10^-6;Rl=1.2*10^3;Vcc=30;Idc=12.3*10^-3;
+Rw=.1;f=1*10^6;Lp=19.5*10^-6;Rl=1.2*10^3;Vcc=30;Idc=12.3*10^-3;Vce=0.5;
+Vp=Vcc-Vce;
+Po=((Vp)^2) /(2*Rl);
 QL=(2*3.14*f*Lp)/Rw
 Qp=Rl/(2*3.14*f*Lp)
 B=f/Qp

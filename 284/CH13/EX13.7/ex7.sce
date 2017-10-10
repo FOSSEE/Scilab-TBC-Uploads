@@ -1,6 +1,7 @@
 // Chapter 13_Optical Devices
 //Caption_PIN Photodiode
 //Ex_7//page 618
+e = 1.6*10^-19;
 W=20*10^-4   //intrinsic region width
 phio=10^17    //photon flux
 alpha=10^3    //absorption coefficient

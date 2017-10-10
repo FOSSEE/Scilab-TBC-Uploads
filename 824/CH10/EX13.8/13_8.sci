@@ -1,3 +1,1 @@
-k=0.1
-cao=8;
-z0=0;
+//Moved to it's proper location in Ch 13

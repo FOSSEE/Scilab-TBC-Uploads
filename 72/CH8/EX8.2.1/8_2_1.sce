@@ -1,4 +1,4 @@
-//CAPTION: CW_Output_Power_Of_an_IMPATT_Diode
+
 //chapter_no.-8,  page_no.-331
 //Example_no.8-2-1
 

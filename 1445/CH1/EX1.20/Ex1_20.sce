@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 20
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 20");
 
@@ -27,6 +28,6 @@ I2=x(1,:);                         //to access the 1st element of 2X1 matrix
 I3=x(2,:);                         //to access the 2nd element of 2X1 matrix
 In=I3;
 I=(rn*In)/(rn+r4);
-disp(sprintf("By Norton Theorem, the value of I is %.3f A",I));
+disp(sprintf("By Norton Theorem, the value of I is %f A",I));
 
 //END 

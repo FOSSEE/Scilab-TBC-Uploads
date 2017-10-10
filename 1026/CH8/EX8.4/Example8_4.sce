@@ -14,7 +14,7 @@ r=r*(180/%pi)
 
 lam=5000*10^-8
 
-t=lam/(4*u*t*cos(r))
+t=lam/(4*u*cos(r))
 
 printf("min. thickness of film\n")
 

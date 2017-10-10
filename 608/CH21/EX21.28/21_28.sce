@@ -15,12 +15,12 @@ E1 = V - Ia1*Ra
 //at Ia2
 E2 = V - Ia2*(Ra + R)
 //E1/E2 = Phi1*n1/Phi2*n2
-Phi2 = Phi1
-n2 = Phi1*n1*E2/(Phi2*E1)
+//Phi2 = Phi1
+n2 = n1*E2/(E1)
 //Back e.m.f. when Ia2
 E3 = V - Ia2*Ra
-Phi3 = x*Phi1
-n3 = Phi1*n1*E3/(Phi3*E1)
+//Phi3 = x*Phi1
+n3 = n1*E3/(0.8*E1)
 
 printf("\n\n Result \n\n")
 printf("\n (a)speed n2 is %.2f rev/sec", n2)

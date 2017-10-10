@@ -26,4 +26,4 @@ endfunction
 //Calling Routine:
 n=3;
 adj=[0 1 0 0 0 1 0 0 0]
-path=Tranclose(adj,n)
+path=transclose(adj,n)

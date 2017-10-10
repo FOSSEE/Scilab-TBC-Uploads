@@ -1,0 +1,3 @@
+fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#figure setting file#1186
+acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#State feedback gain matrix computation#1187
+zpk_dk.sci#3432/DEPENDENCIES/zpk_dk.sci#ZPK computation#1188

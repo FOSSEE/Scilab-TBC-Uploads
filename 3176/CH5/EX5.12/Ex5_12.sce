@@ -15,9 +15,9 @@ xdel(winsid())//to close all currently open figure(s).
 function[H,H1]=lowpassfilter(type1,M,N,D0,n,k)//lowpassfilter is used to filter an image .
     u=0:(M-1);
     v=0:(N-1);
-    idx=find(u>M/2);
+    idx=find(u&gt;M/2);
     u(idx)=u(idx)-M;
-    idy=find(v>N/2);
+    idy=find(v&gt;N/2);
     v(idy)=v(idy)-N;
     [U,V]=meshgrid(v,u);
     D=sqrt(U.^2+V.^2); //Distance Calculation
@@ -30,19 +30,19 @@ function[H,H1]=lowpassfilter(type1,M,N,D0,n,k)//lowpassfilter is used to filter 
     
     select type1
         
-    case'inverse'then
-        if argn(2)==4 then
+    case'inverse'
+        if argn(2)==4 
             n=1;k=0.0025;
         end
         H=H;
         H1=H;
         
-    case'butterworth'then
-        if argn(2)==4 then
+    case'butterworth'
+        if argn(2)==4 
             n=1;
         end
 //        H1 = (ones(M,N)./(1+(D./D0).^(2*n)));
-        H1=double(D<=D0);
+        H1=double(D&lt;=D0);
         H=H.*H1;        
        
        else

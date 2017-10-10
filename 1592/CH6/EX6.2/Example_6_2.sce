@@ -2,7 +2,13 @@
 //P.Ramakrishna Rao
 //Sampling of signal and aliasing due to low Sampling frequency
 clc;
-clear f n X X_delta X_delta1 X_delta2 X_delta3 w;
+clear 
+function [y]=delta(t)
+    if t==0
+    y=1
+else y=0
+    end
+endfunction
 fs=100;
 for f=-200:200
     X(f+201)=5*[delta(f-75)+delta(f+75)];
@@ -11,7 +17,7 @@ figure(1);
 f=-200:200;
 plot2d3(f,X,-2);
 title('X(f)');
-xlabel('--->  f');
+xlabel('---&gt;  f');
 w=1;
 n=-2;
     for f=-175:175
@@ -39,6 +45,6 @@ f=-175:175;
 
 plot2d3(f,X_delta,-2);
 title('X_delta(f) at fs=100');
-xlabel('--->  f');
+xlabel('---&gt;  f');
 //The Presence of the 25 HZ component in the spectrum of x_delta(t)
 //Due to effect of Aliasing

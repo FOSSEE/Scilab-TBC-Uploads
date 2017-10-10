@@ -1,6 +1,8 @@
 //caption:stability_using_Nyquist_criterion
 //example 7.17.2_ii
 //page 237
+s=%s;
+s1=-s;
 disp("for K=2.5")
 g=(2.5*(s+1))/((s+0.5)*(s-2));
 g1=(2.5*(s1+1))/((s1+0.5)*(s1-2));

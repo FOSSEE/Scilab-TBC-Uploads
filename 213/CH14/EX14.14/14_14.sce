@@ -18,7 +18,7 @@ omegaPmax=vmax/x //rad/s
 //Calculating the gyroscopic couple set up
 C=I*omega*omegaPmax //N-m
 //Calculating the reaction between the wheel and rail due to the gyroscopic couple
-P==C/x //N
+P=C/x //N
 //Results:
 printf("\n\n Gyroscopic couple set up, C = %.1f N-m.\n\n",C)
 printf(" Reaction between the wheel and rail due to the gyroscopic couple, P = %d N.\n\n",P)

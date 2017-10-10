@@ -3,8 +3,8 @@
 clc;
 //v_mp=sqrt((2*K*T)/m)
 //sqrt((2*K*T_1)/m)=2*((2*K*T_2)/m)
-T_2=293
-T_1=2^2*(T_2)
+T_2=293                   //K
+T_1=2^2*(T_2)                     //K
 disp(T_1,'Required temperature(K)')
-T_1_deg=T_1-273
+T_1_deg=T_1-273                     //K
 disp(T_1_deg,'Required temperature(degree celius)')

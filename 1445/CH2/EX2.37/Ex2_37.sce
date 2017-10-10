@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 37 // read it as example 36 in the book on page 2.93
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 37");
 
@@ -20,8 +21,8 @@ Z2=sqrt(R2^2 +C^2);                 //squared impedance Z^2 for branch 2
 i1=V/Z1;
 i2=V/Z2;
 disp("SOLUTION (a)");
-disp(sprintf("The  current in Branch 1 is %d Amp",  i1));
-disp(sprintf("The  current in Branch 2 is %d Amp",  i2));
+disp(sprintf("The  current in Branch 1 is %f Amp",  i1));
+disp(sprintf("The  current in Branch 2 is %f Amp",  i2));
 phi1=atan(XL/R1);
 phi2=%pi/2;                         //atan(C/R2);                    //R2=0, output is infinity
 Icos=i1*cos(phi1)+i2*cos(phi2);     // phi in radians
@@ -29,11 +30,11 @@ Isin=-i1*sin(phi1)+i2*sin(phi2);     // phi in radians
 I=sqrt(Icos^2+Isin^2);
 //
 disp("SOLUTION (b)");
-disp(sprintf("The total current is %.2f Amp",  I));
+disp(sprintf("The total current is %f Amp",  I));
 //
-pf=Icos/I; //power factor
+pf=Icos/I; 
 disp("SOLUTION (c)");
-disp(sprintf("The power factor is %.3f ", pf)); 
+disp(sprintf("The power factor is %f ", pf)); 
 disp(" "); 
 // 
 //END

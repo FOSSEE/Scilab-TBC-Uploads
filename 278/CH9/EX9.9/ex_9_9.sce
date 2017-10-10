@@ -1,4 +1,4 @@
-//desing longitudinal joint
+
 clc
 //soltuion
 //given
@@ -21,7 +21,7 @@ Ps=4*1.875*(pi/4)*d^2*T+(pi/4)*d^2*T//=8.5*(pi/4)*d^2*T//N//shearing resistance 
 //p-31.5=(397500/2100)
 //p=31.5+(397500/2100)//mm
 //pmax=C*t+41.28//mm=196mm
-//since p>pmax,therefore
+//since p&gt;pmax,therefore
 //p=pmax
 p=196//mm
 p'=196/2//mm

@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 9
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 9");
 
@@ -25,7 +26,7 @@ I_s=I2/ratio;                     //stator current
 N_s=(120*f)/P;
 w=(2*%pi*N_s)/60;
 T_s1=(3*E2^2*r2)/(w*z1^2);
-disp(sprintf("(a) The starting current is %.1f A and torque is %.0f N-m",I_s,T_s1));
+disp(sprintf("(a) The starting current is %f A and torque is %f N-m",I_s,T_s1));
 
 //solution (b)
 I_s1=30;
@@ -34,7 +35,7 @@ r=sqrt(((E2/I_r)^2)-(X2^2));
 r_ext=r-r2;
 z2=sqrt((r_ext^2)+(X2^2));
 T_s2=(3*E2^2*r)/(w*z2^2);
-disp(sprintf("(b) The external resistance is %.2f Ω and torque is %.2f N-m",r_ext,T_s2));
+disp(sprintf("(b) The external resistance is %f Ω and torque is %f N-m",r_ext,T_s2));
 
 //There answers are different due to precision of floating point numbers  
 

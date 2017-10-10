@@ -2,7 +2,12 @@
 //P.Ramakrishna Rao//Output of LPF
 clc;
 clear;
-
+function [y]=delta(t)
+    if t==0
+    y=1
+else y=0
+    end
+endfunction
 for f=-100:100
     X(f+101)=delta(f+100)+delta(f-100)+3*[delta(f+90)+delta(f-90)];
 end
@@ -12,7 +17,7 @@ a.x_location="origin";
 a.y_location="origin";
 plot2d3(f,X,-2);
 title('Spectrum of x(t)');
-xlabel('-->  f');
+xlabel('--&gt;  f');
 fs=150;
 n=-1;f-n*fs
     for f=-275:275
@@ -31,4 +36,4 @@ figure(2);
 f=-275:275;
 plot2d3(f,X_delta,-2);
 title('X_delta(f) at fs=150');
-xlabel('--->  f');
+xlabel('---&gt;  f');

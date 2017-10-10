@@ -1,0 +1,340 @@
+12#Microwave Measurements#12.9#Three port circulator#ex12_9.sce#3281/CH12/EX12.9/ex12_9.sce#S##112497
+12#Microwave Measurements#12.9#Three port circulator#ex12_9.jpg#3281/CH12/EX12.9/ex12_9.jpg#R##112498
+12#Microwave Measurements#12.8#Rectangular waveguide#ex12_8.jpg#3281/CH12/EX12.8/ex12_8.jpg#R##112496
+12#Microwave Measurements#12.8#Rectangular waveguide#ex12_8.sce#3281/CH12/EX12.8/ex12_8.sce#S##112495
+12#Microwave Measurements#12.7#Microwave line#ex12_7.jpg#3281/CH12/EX12.7/ex12_7.jpg#R##112494
+12#Microwave Measurements#12.7#Microwave line#ex12_7.sce#3281/CH12/EX12.7/ex12_7.sce#S##112493
+12#Microwave Measurements#12.6#Microwave line#ex12_6.sce#3281/CH12/EX12.6/ex12_6.sce#S##112491
+12#Microwave Measurements#12.6#Microwave line#ex12_6.jpg#3281/CH12/EX12.6/ex12_6.jpg#R##112492
+12#Microwave Measurements#12.5#Directional couplers#ex12_5.jpg#3281/CH12/EX12.5/ex12_5.jpg#R##112490
+12#Microwave Measurements#12.5#Directional couplers#ex12_5.sce#3281/CH12/EX12.5/ex12_5.sce#S##112489
+12#Microwave Measurements#12.4#VSWR of waveguide#ex12_4.jpg#3281/CH12/EX12.4/ex12_4.jpg#R##112488
+12#Microwave Measurements#12.4#VSWR of waveguide#ex12_4.sce#3281/CH12/EX12.4/ex12_4.sce#S##112487
+12#Microwave Measurements#12.3#Transmission waveguide#ex12_3.sce#3281/CH12/EX12.3/ex12_3.sce#S##112485
+12#Microwave Measurements#12.3#Transmission waveguide#ex12_3.jpg#3281/CH12/EX12.3/ex12_3.jpg#R##112486
+12#Microwave Measurements#12.2#Detector mismatch#ex12_2.sce#3281/CH12/EX12.2/ex12_2.sce#S##112483
+12#Microwave Measurements#12.2#Detector mismatch#ex12_2.jpg#3281/CH12/EX12.2/ex12_2.jpg#R##112484
+12#Microwave Measurements#12.11#Rectangular Waveguide#ex12_11.sce#3281/CH12/EX12.11/ex12_11.sce#S##112501
+12#Microwave Measurements#12.11#Rectangular Waveguide#ex12_11.jpg#3281/CH12/EX12.11/ex12_11.jpg#R##112502
+12#Microwave Measurements#12.10#Air filled cavity#ex12_10.sce#3281/CH12/EX12.10/ex12_10.sce#S##112499
+12#Microwave Measurements#12.10#Air filled cavity#ex12_10.jpg#3281/CH12/EX12.10/ex12_10.jpg#R##112500
+12#Microwave Measurements#12.1#Microwave diode#ex12_1.sce#3281/CH12/EX12.1/ex12_1.sce#S##112481
+12#Microwave Measurements#12.1#Microwave diode#ex12_1.jpg#3281/CH12/EX12.1/ex12_1.jpg#R##112482
+11#Microwave Integrated Circuits#11.2#Yield#ex11_2.sce#3281/CH11/EX11.2/ex11_2.sce#S##111813
+11#Microwave Integrated Circuits#11.2#Yield#ex11_2.jpg#3281/CH11/EX11.2/ex11_2.jpg#R##111814
+11#Microwave Integrated Circuits#11.1#Costs#ex11_1.sce#3281/CH11/EX11.1/ex11_1.sce#S##111811
+11#Microwave Integrated Circuits#11.1#Costs#ex11_1.jpg#3281/CH11/EX11.1/ex11_1.jpg#R##111812
+10#Striplines and Microstrip Lines#10.9#Branch coupler#ex10_9.sce#3281/CH10/EX10.9/ex10_9.sce#S##112471
+10#Striplines and Microstrip Lines#10.9#Branch coupler#ex10_9.jpg#3281/CH10/EX10.9/ex10_9.jpg#R##112472
+10#Striplines and Microstrip Lines#10.8#Stripline coupler#ex10_8.jpg#3281/CH10/EX10.8/ex10_8.jpg#R##112470
+10#Striplines and Microstrip Lines#10.8#Stripline coupler#ex10_8.sce#3281/CH10/EX10.8/ex10_8.sce#S##112469
+10#Striplines and Microstrip Lines#10.7#Parallel stripline#ex10_7.jpg#3281/CH10/EX10.7/ex10_7.jpg#R##112468
+10#Striplines and Microstrip Lines#10.7#Parallel stripline#ex10_7.sce#3281/CH10/EX10.7/ex10_7.sce#S##112467
+10#Striplines and Microstrip Lines#10.6#Microstrip line#ex10_6.jpg#3281/CH10/EX10.6/ex10_6.jpg#R##112466
+10#Striplines and Microstrip Lines#10.6#Microstrip line#ex10_6.sce#3281/CH10/EX10.6/ex10_6.sce#S##112465
+10#Striplines and Microstrip Lines#10.5#Microstrip line#ex10_5.jpg#3281/CH10/EX10.5/ex10_5.jpg#R##112464
+10#Striplines and Microstrip Lines#10.5#Microstrip line#ex10_5.sce#3281/CH10/EX10.5/ex10_5.sce#S##112463
+10#Striplines and Microstrip Lines#10.4#Stripline#ex10_4.jpg#3281/CH10/EX10.4/ex10_4.jpg#R##112462
+10#Striplines and Microstrip Lines#10.4#Stripline#ex10_4.sce#3281/CH10/EX10.4/ex10_4.sce#S##112461
+10#Striplines and Microstrip Lines#10.3#Microstrip#ex10_3.jpg#3281/CH10/EX10.3/ex10_3.jpg#R##112460
+10#Striplines and Microstrip Lines#10.3#Microstrip#ex10_3.sce#3281/CH10/EX10.3/ex10_3.sce#S##112459
+10#Striplines and Microstrip Lines#10.2#Microstrip line#ex10_2.jpg#3281/CH10/EX10.2/ex10_2.jpg#R##112458
+10#Striplines and Microstrip Lines#10.2#Microstrip line#ex10_2.sce#3281/CH10/EX10.2/ex10_2.sce#S##112457
+10#Striplines and Microstrip Lines#10.13#Lossless stripline#ex10_13.sce#3281/CH10/EX10.13/ex10_13.sce#S##112479
+10#Striplines and Microstrip Lines#10.13#Lossless stripline#ex10_13.jpg#3281/CH10/EX10.13/ex10_13.jpg#R##112480
+10#Striplines and Microstrip Lines#10.12#Shielded stripline#ex10_12.sce#3281/CH10/EX10.12/ex10_12.sce#S##112477
+10#Striplines and Microstrip Lines#10.12#Shielded stripline#ex10_12.jpg#3281/CH10/EX10.12/ex10_12.jpg#R##112478
+10#Striplines and Microstrip Lines#10.11#Paralle stripline#ex10_11.jpg#3281/CH10/EX10.11/ex10_11.jpg#R##112476
+10#Striplines and Microstrip Lines#10.11#Paralle stripline#ex10_11.sce#3281/CH10/EX10.11/ex10_11.sce#S##112475
+10#Striplines and Microstrip Lines#10.10#Broadside stripline#ex10_10.jpg#3281/CH10/EX10.10/ex10_10.jpg#R##112474
+10#Striplines and Microstrip Lines#10.10#Broadside stripline#ex10_10.sce#3281/CH10/EX10.10/ex10_10.sce#S##112473
+10#Striplines and Microstrip Lines#10.1#Copper stripline#ex10_1.jpg#3281/CH10/EX10.1/ex10_1.jpg#R##112456
+10#Striplines and Microstrip Lines#10.1#Copper stripline#ex10_1.sce#3281/CH10/EX10.1/ex10_1.sce#S##112455
+9#Microwave Solid State Generators and Amplifiers#9.9#MESFET#ex9_9.sce#3281/CH9/EX9.9/ex9_9.sce#S##112423
+9#Microwave Solid State Generators and Amplifiers#9.9#MESFET#ex9_9.jpg#3281/CH9/EX9.9/ex9_9.jpg#R##112424
+9#Microwave Solid State Generators and Amplifiers#9.8#JEFT#ex9_8.sce#3281/CH9/EX9.8/ex9_8.sce#S##112421
+9#Microwave Solid State Generators and Amplifiers#9.8#JEFT#ex9_8.jpg#3281/CH9/EX9.8/ex9_8.jpg#R##112422
+9#Microwave Solid State Generators and Amplifiers#9.7#Microwave transistor#ex9_7.sce#3281/CH9/EX9.7/ex9_7.sce#S##112419
+9#Microwave Solid State Generators and Amplifiers#9.7#Microwave transistor#ex9_7.jpg#3281/CH9/EX9.7/ex9_7.jpg#R##112420
+9#Microwave Solid State Generators and Amplifiers#9.6#Transistor Amplifier#ex9_6.sce#3281/CH9/EX9.6/ex9_6.sce#S##113917
+9#Microwave Solid State Generators and Amplifiers#9.6#Transistor Amplifier#ex9_6.jpg#3281/CH9/EX9.6/ex9_6.jpg#R##113918
+9#Microwave Solid State Generators and Amplifiers#9.5#Microwave transistor#ex9_5.sce#3281/CH9/EX9.5/ex9_5.sce#S##112415
+9#Microwave Solid State Generators and Amplifiers#9.5#Microwave transistor#ex9_5.jpg#3281/CH9/EX9.5/ex9_5.jpg#R##112416
+9#Microwave Solid State Generators and Amplifiers#9.4#GaAs FET#ex9_4.sce#3281/CH9/EX9.4/ex9_4.sce#S##112413
+9#Microwave Solid State Generators and Amplifiers#9.4#GaAs FET#ex9_4.jpg#3281/CH9/EX9.4/ex9_4.jpg#R##112414
+9#Microwave Solid State Generators and Amplifiers#9.3#Heterojunction transistor#ex9_3.sce#3281/CH9/EX9.3/ex9_3.sce#S##112411
+9#Microwave Solid State Generators and Amplifiers#9.3#Heterojunction transistor#ex9_3.jpg#3281/CH9/EX9.3/ex9_3.jpg#R##112412
+9#Microwave Solid State Generators and Amplifiers#9.25#Heterojunction laser#ex9_25.sce#3281/CH9/EX9.25/ex9_25.sce#S##112453
+9#Microwave Solid State Generators and Amplifiers#9.25#Heterojunction laser#ex9_25.jpg#3281/CH9/EX9.25/ex9_25.jpg#R##112454
+9#Microwave Solid State Generators and Amplifiers#9.24#Laser#ex9_24.sce#3281/CH9/EX9.24/ex9_24.sce#S##112451
+9#Microwave Solid State Generators and Amplifiers#9.24#Laser#ex9_24.jpg#3281/CH9/EX9.24/ex9_24.jpg#R##112452
+9#Microwave Solid State Generators and Amplifiers#9.23#Laser#ex9_23.sce#3281/CH9/EX9.23/ex9_23.sce#S##112449
+9#Microwave Solid State Generators and Amplifiers#9.23#Laser#ex9_23.jpg#3281/CH9/EX9.23/ex9_23.jpg#R##112450
+9#Microwave Solid State Generators and Amplifiers#9.22#BARITT diode#ex9_22.sce#3281/CH9/EX9.22/ex9_22.sce#S##112447
+9#Microwave Solid State Generators and Amplifiers#9.22#BARITT diode#ex9_22.jpg#3281/CH9/EX9.22/ex9_22.jpg#R##112448
+9#Microwave Solid State Generators and Amplifiers#9.21#TRAPATT diode#ex9_21.sce#3281/CH9/EX9.21/ex9_21.sce#S##112445
+9#Microwave Solid State Generators and Amplifiers#9.21#TRAPATT diode#ex9_21.jpg#3281/CH9/EX9.21/ex9_21.jpg#R##112446
+9#Microwave Solid State Generators and Amplifiers#9.20#IMPATT diode#ex9_20.sce#3281/CH9/EX9.20/ex9_20.sce#S##112443
+9#Microwave Solid State Generators and Amplifiers#9.20#IMPATT diode#ex9_20.jpg#3281/CH9/EX9.20/ex9_20.jpg#R##112444
+9#Microwave Solid State Generators and Amplifiers#9.2#Bipolar transistor#ex9_2.sce#3281/CH9/EX9.2/ex9_2.sce#S##112409
+9#Microwave Solid State Generators and Amplifiers#9.2#Bipolar transistor#ex9_2.jpg#3281/CH9/EX9.2/ex9_2.jpg#R##112410
+9#Microwave Solid State Generators and Amplifiers#9.19#IMPATT diode#ex9_19.sce#3281/CH9/EX9.19/ex9_19.sce#S##112441
+9#Microwave Solid State Generators and Amplifiers#9.19#IMPATT diode#ex9_19.jpg#3281/CH9/EX9.19/ex9_19.jpg#R##112442
+9#Microwave Solid State Generators and Amplifiers#9.18#IMPATT diode#ex9_18.sce#3281/CH9/EX9.18/ex9_18.sce#S##112439
+9#Microwave Solid State Generators and Amplifiers#9.18#IMPATT diode#ex9_18.jpg#3281/CH9/EX9.18/ex9_18.jpg#R##112440
+9#Microwave Solid State Generators and Amplifiers#9.17#IMPATT diode#ex9_17.sce#3281/CH9/EX9.17/ex9_17.sce#S##112437
+9#Microwave Solid State Generators and Amplifiers#9.17#IMPATT diode#ex9_17.jpg#3281/CH9/EX9.17/ex9_17.jpg#R##112438
+9#Microwave Solid State Generators and Amplifiers#9.15#Gunn diode#ex9_15.sce#3281/CH9/EX9.15/ex9_15.sce#S##112435
+9#Microwave Solid State Generators and Amplifiers#9.15#Gunn diode#ex9_15.jpg#3281/CH9/EX9.15/ex9_15.jpg#R##112436
+9#Microwave Solid State Generators and Amplifiers#9.14#Gunn diode#ex9_14.sce#3281/CH9/EX9.14/ex9_14.sce#S##112433
+9#Microwave Solid State Generators and Amplifiers#9.14#Gunn diode#ex9_14.jpg#3281/CH9/EX9.14/ex9_14.jpg#R##112434
+9#Microwave Solid State Generators and Amplifiers#9.13#Gunn diode#ex9_13.sce#3281/CH9/EX9.13/ex9_13.sce#S##112431
+9#Microwave Solid State Generators and Amplifiers#9.13#Gunn diode#ex9_13.jpg#3281/CH9/EX9.13/ex9_13.jpg#R##112432
+9#Microwave Solid State Generators and Amplifiers#9.12#Tunnel diode#ex9_12.sce#3281/CH9/EX9.12/ex9_12.sce#S##112429
+9#Microwave Solid State Generators and Amplifiers#9.12#Tunnel diode#ex9_12.jpg#3281/CH9/EX9.12/ex9_12.jpg#R##112430
+9#Microwave Solid State Generators and Amplifiers#9.11#Gunn oscillator#ex9_11.jpg#3281/CH9/EX9.11/ex9_11.jpg#R##114873
+9#Microwave Solid State Generators and Amplifiers#9.11#Gunn oscillator#ex9_11.sce#3281/CH9/EX9.11/ex9_11.sce#S##114872
+9#Microwave Solid State Generators and Amplifiers#9.10#Gunn device#ex9_10.sce#3281/CH9/EX9.10/ex9_10.sce#S##112425
+9#Microwave Solid State Generators and Amplifiers#9.10#Gunn device#ex9_10.jpg#3281/CH9/EX9.10/ex9_10.jpg#R##112426
+8#Microwave Solid State Control Devices#8.9#330 stage CCD#ex8_9.sce#3281/CH8/EX8.9/ex8_9.sce#S##112399
+8#Microwave Solid State Control Devices#8.9#330 stage CCD#ex8_9.jpg#3281/CH8/EX8.9/ex8_9.jpg#R##112400
+8#Microwave Solid State Control Devices#8.8#Negative resistance parametric amplifier#ex8_8.sce#3281/CH8/EX8.8/ex8_8.sce#S##112397
+8#Microwave Solid State Control Devices#8.8#Negative resistance parametric amplifier#ex8_8.jpg#3281/CH8/EX8.8/ex8_8.jpg#R##112398
+8#Microwave Solid State Control Devices#8.7#Parametric amplifier#ex8_7.sce#3281/CH8/EX8.7/ex8_7.sce#S##112395
+8#Microwave Solid State Control Devices#8.7#Parametric amplifier#ex8_7.jpg#3281/CH8/EX8.7/ex8_7.jpg#R##112396
+8#Microwave Solid State Control Devices#8.6#Parametric upconverter#ex8_6.sce#3281/CH8/EX8.6/ex8_6.sce#S##112393
+8#Microwave Solid State Control Devices#8.6#Parametric upconverter#ex8_6.jpg#3281/CH8/EX8.6/ex8_6.jpg#R##112394
+8#Microwave Solid State Control Devices#8.3#Silicon switching diode#ex8_3.sce#3281/CH8/EX8.3/ex8_3.sce#S##112391
+8#Microwave Solid State Control Devices#8.3#Silicon switching diode#ex8_3.jpg#3281/CH8/EX8.3/ex8_3.jpg#R##112392
+8#Microwave Solid State Control Devices#8.2#Pin diode switches#ex8_2.sce#3281/CH8/EX8.2/ex8_2.sce#S##112389
+8#Microwave Solid State Control Devices#8.2#Pin diode switches#ex8_2.jpg#3281/CH8/EX8.2/ex8_2.jpg#R##112390
+8#Microwave Solid State Control Devices#8.13#Surface channel CCD#ex8_13.sce#3281/CH8/EX8.13/ex8_13.sce#S##112407
+8#Microwave Solid State Control Devices#8.13#Surface channel CCD#ex8_13.jpg#3281/CH8/EX8.13/ex8_13.jpg#R##112408
+8#Microwave Solid State Control Devices#8.12#3 phase CCD#ex8_12.sce#3281/CH8/EX8.12/ex8_12.sce#S##112405
+8#Microwave Solid State Control Devices#8.12#3 phase CCD#ex8_12.jpg#3281/CH8/EX8.12/ex8_12.jpg#R##112406
+8#Microwave Solid State Control Devices#8.11#Surface channel CCD#ex8_11.sce#3281/CH8/EX8.11/ex8_11.sce#S##112403
+8#Microwave Solid State Control Devices#8.11#Surface channel CCD#ex8_11.jpg#3281/CH8/EX8.11/ex8_11.jpg#R##112404
+8#Microwave Solid State Control Devices#8.10#3 phase CCD#ex8_10.sce#3281/CH8/EX8.10/ex8_10.sce#S##112401
+8#Microwave Solid State Control Devices#8.10#3 phase CCD#ex8_10.jpg#3281/CH8/EX8.10/ex8_10.jpg#R##112402
+8#Microwave Solid State Control Devices#8.1#Single pole Switch#ex8_1.sce#3281/CH8/EX8.1/ex8_1.sce#S##112387
+8#Microwave Solid State Control Devices#8.1#Single pole Switch#ex8_1.jpg#3281/CH8/EX8.1/ex8_1.jpg#R##112388
+7#Cross Field Microwave Tubes M Type#7.9#Inverted coaxial Magnetron#ex7_9.sce#3281/CH7/EX7.9/ex7_9.sce#S##112377
+7#Cross Field Microwave Tubes M Type#7.9#Inverted coaxial Magnetron#ex7_9.jpg#3281/CH7/EX7.9/ex7_9.jpg#R##112378
+7#Cross Field Microwave Tubes M Type#7.8#Cross field amplifier#ex7_8.sce#3281/CH7/EX7.8/ex7_8.sce#S##112375
+7#Cross Field Microwave Tubes M Type#7.8#Cross field amplifier#ex7_8.jpg#3281/CH7/EX7.8/ex7_8.jpg#R##112376
+7#Cross Field Microwave Tubes M Type#7.7#Frequency Aglile Magnetron#ex7_7.sce#3281/CH7/EX7.7/ex7_7.sce#S##112373
+7#Cross Field Microwave Tubes M Type#7.7#Frequency Aglile Magnetron#ex7_7.jpg#3281/CH7/EX7.7/ex7_7.jpg#R##112374
+7#Cross Field Microwave Tubes M Type#7.6#Carcinotron#ex7_6.jpg#3281/CH7/EX7.6/ex7_6.jpg#R##114871
+7#Cross Field Microwave Tubes M Type#7.6#Carcinotron#ex7_6.sce#3281/CH7/EX7.6/ex7_6.sce#S##114870
+7#Cross Field Microwave Tubes M Type#7.5#Conventional Magnetron#ex7_5.sce#3281/CH7/EX7.5/ex7_5.sce#S##112369
+7#Cross Field Microwave Tubes M Type#7.5#Conventional Magnetron#ex7_5.jpg#3281/CH7/EX7.5/ex7_5.jpg#R##112370
+7#Cross Field Microwave Tubes M Type#7.4#Conventional Magnetron#ex7_4.sce#3281/CH7/EX7.4/ex7_4.sce#S##112367
+7#Cross Field Microwave Tubes M Type#7.4#Conventional Magnetron#ex7_4.jpg#3281/CH7/EX7.4/ex7_4.jpg#R##112368
+7#Cross Field Microwave Tubes M Type#7.3#Cylindrical Magnetron#ex7_3.sce#3281/CH7/EX7.3/ex7_3.sce#S##112365
+7#Cross Field Microwave Tubes M Type#7.3#Cylindrical Magnetron#ex7_3.jpg#3281/CH7/EX7.3/ex7_3.jpg#R##112366
+7#Cross Field Microwave Tubes M Type#7.2#Cylindrical Magnetron#ex7_2.sce#3281/CH7/EX7.2/ex7_2.sce#S##112363
+7#Cross Field Microwave Tubes M Type#7.2#Cylindrical Magnetron#ex7_2.jpg#3281/CH7/EX7.2/ex7_2.jpg#R##112364
+7#Cross Field Microwave Tubes M Type#7.13#Agile coaxial Magnetron#ex7_13.jpg#3281/CH7/EX7.13/ex7_13.jpg#R##114869
+7#Cross Field Microwave Tubes M Type#7.13#Agile coaxial Magnetron#ex7_13.sce#3281/CH7/EX7.13/ex7_13.sce#S##114868
+7#Cross Field Microwave Tubes M Type#7.12#Inverted Coaxial Magnetron#ex7_12.sce#3281/CH7/EX7.12/ex7_12.sce#S##112383
+7#Cross Field Microwave Tubes M Type#7.12#Inverted Coaxial Magnetron#ex7_12.jpg#3281/CH7/EX7.12/ex7_12.jpg#R##112384
+7#Cross Field Microwave Tubes M Type#7.11#Linear Magnetron#ex7_11.sce#3281/CH7/EX7.11/ex7_11.sce#S##112381
+7#Cross Field Microwave Tubes M Type#7.11#Linear Magnetron#ex7_11.jpg#3281/CH7/EX7.11/ex7_11.jpg#R##112382
+7#Cross Field Microwave Tubes M Type#7.10#Inverted coaxial Magnetron#ex7_10.sce#3281/CH7/EX7.10/ex7_10.sce#S##112379
+7#Cross Field Microwave Tubes M Type#7.10#Inverted coaxial Magnetron#ex7_10.jpg#3281/CH7/EX7.10/ex7_10.jpg#R##112380
+7#Cross Field Microwave Tubes M Type#7.1#X band Magnetron#ex7_1.sce#3281/CH7/EX7.1/ex7_1.sce#S##112361
+7#Cross Field Microwave Tubes M Type#7.1#X band Magnetron#ex7_1.jpg#3281/CH7/EX7.1/ex7_1.jpg#R##112362
+6#Microwave Travelling Wave Tubes O type#6.9#Helix TWT#ex6_9.sce#3281/CH6/EX6.9/ex6_9.sce#S##112353
+6#Microwave Travelling Wave Tubes O type#6.9#Helix TWT#ex6_9.jpg#3281/CH6/EX6.9/ex6_9.jpg#R##112354
+6#Microwave Travelling Wave Tubes O type#6.8#Gridded TWT#ex6_8.sce#3281/CH6/EX6.8/ex6_8.sce#S##112351
+6#Microwave Travelling Wave Tubes O type#6.8#Gridded TWT#ex6_8.jpg#3281/CH6/EX6.8/ex6_8.jpg#R##112352
+6#Microwave Travelling Wave Tubes O type#6.7#Multicavity TWT#ex6_7.sce#3281/CH6/EX6.7/ex6_7.sce#S##112349
+6#Microwave Travelling Wave Tubes O type#6.7#Multicavity TWT#ex6_7.jpg#3281/CH6/EX6.7/ex6_7.jpg#R##112350
+6#Microwave Travelling Wave Tubes O type#6.6#O Type Backward Wave amplifier#ex6_6.sce#3281/CH6/EX6.6/ex6_6.sce#S##112347
+6#Microwave Travelling Wave Tubes O type#6.6#O Type Backward Wave amplifier#ex6_6.jpg#3281/CH6/EX6.6/ex6_6.jpg#R##112348
+6#Microwave Travelling Wave Tubes O type#6.5#Cavity coupled#ex6_5.sce#3281/CH6/EX6.5/ex6_5.sce#S##112345
+6#Microwave Travelling Wave Tubes O type#6.5#Cavity coupled#ex6_5.jpg#3281/CH6/EX6.5/ex6_5.jpg#R##112346
+6#Microwave Travelling Wave Tubes O type#6.4#O type TWT#ex6_4.sce#3281/CH6/EX6.4/ex6_4.sce#S##112343
+6#Microwave Travelling Wave Tubes O type#6.4#O type TWT#ex6_4.jpg#3281/CH6/EX6.4/ex6_4.jpg#R##112344
+6#Microwave Travelling Wave Tubes O type#6.3#Helical TWT#ex6_3.sce#3281/CH6/EX6.3/ex6_3.sce#S##112341
+6#Microwave Travelling Wave Tubes O type#6.3#Helical TWT#ex6_3.jpg#3281/CH6/EX6.3/ex6_3.jpg#R##112342
+6#Microwave Travelling Wave Tubes O type#6.2#Helix TWT#ex6_2.sce#3281/CH6/EX6.2/ex6_2.sce#S##112339
+6#Microwave Travelling Wave Tubes O type#6.2#Helix TWT#ex6_2.jpg#3281/CH6/EX6.2/ex6_2.jpg#R##112340
+6#Microwave Travelling Wave Tubes O type#6.12#TWT#ex6_12.sce#3281/CH6/EX6.12/ex6_12.sce#S##112359
+6#Microwave Travelling Wave Tubes O type#6.12#TWT#ex6_12.jpg#3281/CH6/EX6.12/ex6_12.jpg#R##112360
+6#Microwave Travelling Wave Tubes O type#6.11#TWT#ex6_11.sce#3281/CH6/EX6.11/ex6_11.sce#S##112357
+6#Microwave Travelling Wave Tubes O type#6.11#TWT#ex6_11.jpg#3281/CH6/EX6.11/ex6_11.jpg#R##112358
+6#Microwave Travelling Wave Tubes O type#6.10#Low Power TWT#ex6_10.sce#3281/CH6/EX6.10/ex6_10.sce#S##112355
+6#Microwave Travelling Wave Tubes O type#6.10#Low Power TWT#ex6_10.jpg#3281/CH6/EX6.10/ex6_10.jpg#R##112356
+6#Microwave Travelling Wave Tubes O type#6.1#TWT#ex6_1.sce#3281/CH6/EX6.1/ex6_1.sce#S##112337
+6#Microwave Travelling Wave Tubes O type#6.1#TWT#ex6_1.jpg#3281/CH6/EX6.1/ex6_1.jpg#R##112338
+5#Microwave Tubes Klystrons#5.9#Four cavity Klystron#ex5_9.sce#3281/CH5/EX5.9/ex5_9.sce#S##112317
+5#Microwave Tubes Klystrons#5.9#Four cavity Klystron#ex5_9.jpg#3281/CH5/EX5.9/ex5_9.jpg#R##112318
+5#Microwave Tubes Klystrons#5.8#Two cavity Klystron#ex5_8.sce#3281/CH5/EX5.8/ex5_8.sce#S##112315
+5#Microwave Tubes Klystrons#5.8#Two cavity Klystron#ex5_8.jpg#3281/CH5/EX5.8/ex5_8.jpg#R##112316
+5#Microwave Tubes Klystrons#5.7#Two cavity Klystron#ex5_7.sce#3281/CH5/EX5.7/ex5_7.sce#S##112313
+5#Microwave Tubes Klystrons#5.7#Two cavity Klystron#ex5_7.jpg#3281/CH5/EX5.7/ex5_7.jpg#R##112314
+5#Microwave Tubes Klystrons#5.6#Two cavity Klystron#ex5_6.sce#3281/CH5/EX5.6/ex5_6.sce#S##112311
+5#Microwave Tubes Klystrons#5.6#Two cavity Klystron#ex5_6.jpg#3281/CH5/EX5.6/ex5_6.jpg#R##112312
+5#Microwave Tubes Klystrons#5.5#Two cavity Klystron#ex5_5.sce#3281/CH5/EX5.5/ex5_5.sce#S##112309
+5#Microwave Tubes Klystrons#5.5#Two cavity Klystron#ex5_5.jpg#3281/CH5/EX5.5/ex5_5.jpg#R##112310
+5#Microwave Tubes Klystrons#5.4#Two cavity Klystron#ex5_4.sce#3281/CH5/EX5.4/ex5_4.sce#S##112307
+5#Microwave Tubes Klystrons#5.4#Two cavity Klystron#ex5_4.jpg#3281/CH5/EX5.4/ex5_4.jpg#R##112308
+5#Microwave Tubes Klystrons#5.3#Two cavity Klystron#ex5_3.sce#3281/CH5/EX5.3/ex5_3.sce#S##112305
+5#Microwave Tubes Klystrons#5.3#Two cavity Klystron#ex5_3.jpg#3281/CH5/EX5.3/ex5_3.jpg#R##112306
+5#Microwave Tubes Klystrons#5.2#Two cavity Klystron#ex5_2.sce#3281/CH5/EX5.2/ex5_2.sce#S##112303
+5#Microwave Tubes Klystrons#5.2#Two cavity Klystron#ex5_2.jpg#3281/CH5/EX5.2/ex5_2.jpg#R##112304
+5#Microwave Tubes Klystrons#5.18#Re entrant Coaxial Cavity#ex5_18.sce#3281/CH5/EX5.18/ex5_18.sce#S##113915
+5#Microwave Tubes Klystrons#5.18#Re entrant Coaxial Cavity#ex5_18.jpg#3281/CH5/EX5.18/ex5_18.jpg#R##113916
+5#Microwave Tubes Klystrons#5.17#Electron Gun#ex5_17.sce#3281/CH5/EX5.17/ex5_17.sce#S##112333
+5#Microwave Tubes Klystrons#5.17#Electron Gun#ex5_17.jpg#3281/CH5/EX5.17/ex5_17.jpg#R##112334
+5#Microwave Tubes Klystrons#5.16#Reflex Klystron#ex5_16.sce#3281/CH5/EX5.16/ex5_16.sce#S##113913
+5#Microwave Tubes Klystrons#5.16#Reflex Klystron#ex5_16.jpg#3281/CH5/EX5.16/ex5_16.jpg#R##113914
+5#Microwave Tubes Klystrons#5.15#Reflex Klystron#ex5_15.sce#3281/CH5/EX5.15/ex5_15.sce#S##112329
+5#Microwave Tubes Klystrons#5.15#Reflex Klystron#ex5_15.jpg#3281/CH5/EX5.15/ex5_15.jpg#R##112330
+5#Microwave Tubes Klystrons#5.14#Reflex Klystron#ex5_14.sce#3281/CH5/EX5.14/ex5_14.sce#S##112327
+5#Microwave Tubes Klystrons#5.14#Reflex Klystron#ex5_14.jpg#3281/CH5/EX5.14/ex5_14.jpg#R##112328
+5#Microwave Tubes Klystrons#5.13#Reflex Klystron#ex5_13.sce#3281/CH5/EX5.13/ex5_13.sce#S##112325
+5#Microwave Tubes Klystrons#5.13#Reflex Klystron#ex5_13.jpg#3281/CH5/EX5.13/ex5_13.jpg#R##112326
+5#Microwave Tubes Klystrons#5.12#Reflex Klystron#ex5_12.sce#3281/CH5/EX5.12/ex5_12.sce#S##112323
+5#Microwave Tubes Klystrons#5.12#Reflex Klystron#ex5_12.jpg#3281/CH5/EX5.12/ex5_12.jpg#R##112324
+5#Microwave Tubes Klystrons#5.11#Reflex Klystron#ex5_11.sce#3281/CH5/EX5.11/ex5_11.sce#S##112321
+5#Microwave Tubes Klystrons#5.11#Reflex Klystron#ex5_11.jpg#3281/CH5/EX5.11/ex5_11.jpg#R##112322
+5#Microwave Tubes Klystrons#5.10#Four cavity Klystron#ex5_10.sce#3281/CH5/EX5.10/ex5_10.sce#S##112319
+5#Microwave Tubes Klystrons#5.10#Four cavity Klystron#ex5_10.jpg#3281/CH5/EX5.10/ex5_10.jpg#R##112320
+5#Microwave Tubes Klystrons#5.1#Two Cavity Klystron#ex5_1.sce#3281/CH5/EX5.1/ex5_1.sce#S##113911
+5#Microwave Tubes Klystrons#5.1#Two Cavity Klystron#ex5_1.jpg#3281/CH5/EX5.1/ex5_1.jpg#R##113912
+4#Microwave Resonators and Waveguide Components#4.9#Rectangular resonator#ex4_9.sce#3281/CH4/EX4.9/ex4_9.sce#S##112589
+4#Microwave Resonators and Waveguide Components#4.9#Rectangular resonator#ex4_9.jpg#3281/CH4/EX4.9/ex4_9.jpg#R##112590
+4#Microwave Resonators and Waveguide Components#4.8#Rectangular Resonant Cavity#ex4_8.jpg#3281/CH4/EX4.8/ex4_8.jpg#R##113910
+4#Microwave Resonators and Waveguide Components#4.8#Rectangular Resonant Cavity#ex4_8.sce#3281/CH4/EX4.8/ex4_8.sce#S##113909
+4#Microwave Resonators and Waveguide Components#4.7#Cubical Resonator#ex4_7.sce#3281/CH4/EX4.7/ex4_7.sce#S##112585
+4#Microwave Resonators and Waveguide Components#4.7#Cubical Resonator#ex4_7.jpg#3281/CH4/EX4.7/ex4_7.jpg#R##112586
+4#Microwave Resonators and Waveguide Components#4.6#Resonator comparison#ex4_6.sce#3281/CH4/EX4.6/ex4_6.sce#S##112583
+4#Microwave Resonators and Waveguide Components#4.6#Resonator comparison#ex4_6.jpg#3281/CH4/EX4.6/ex4_6.jpg#R##112584
+4#Microwave Resonators and Waveguide Components#4.5#Cylindrical resonator#ex4_5.sce#3281/CH4/EX4.5/ex4_5.sce#S##112581
+4#Microwave Resonators and Waveguide Components#4.5#Cylindrical resonator#ex4_5.jpg#3281/CH4/EX4.5/ex4_5.jpg#R##112582
+4#Microwave Resonators and Waveguide Components#4.4#Rectangular resonator#ex4_4.sce#3281/CH4/EX4.4/ex4_4.sce#S##112579
+4#Microwave Resonators and Waveguide Components#4.4#Rectangular resonator#ex4_4.jpg#3281/CH4/EX4.4/ex4_4.jpg#R##112580
+4#Microwave Resonators and Waveguide Components#4.3#X band resonator#ex4_3.sce#3281/CH4/EX4.3/ex4_3.sce#S##112577
+4#Microwave Resonators and Waveguide Components#4.3#X band resonator#ex4_3.jpg#3281/CH4/EX4.3/ex4_3.jpg#R##112578
+4#Microwave Resonators and Waveguide Components#4.24#Attenuator matrix#ex4_24.sce#3281/CH4/EX4.24/ex4_24.sce#S##112613
+4#Microwave Resonators and Waveguide Components#4.24#Attenuator matrix#ex4_24.jpg#3281/CH4/EX4.24/ex4_24.jpg#R##112614
+4#Microwave Resonators and Waveguide Components#4.23#Rectangular Waveguide#ex4_23.sce#3281/CH4/EX4.23/ex4_23.sce#S##112611
+4#Microwave Resonators and Waveguide Components#4.23#Rectangular Waveguide#ex4_23.jpg#3281/CH4/EX4.23/ex4_23.jpg#R##112612
+4#Microwave Resonators and Waveguide Components#4.22#Circulator Matrix#ex4_22.sce#3281/CH4/EX4.22/ex4_22.sce#S##112609
+4#Microwave Resonators and Waveguide Components#4.22#Circulator Matrix#ex4_22.jpg#3281/CH4/EX4.22/ex4_22.jpg#R##112610
+4#Microwave Resonators and Waveguide Components#4.21#Isolator Matrix#ex4_21.sce#3281/CH4/EX4.21/ex4_21.sce#S##114866
+4#Microwave Resonators and Waveguide Components#4.21#Isolator Matrix#ex4_21.jpg#3281/CH4/EX4.21/ex4_21.jpg#R##114867
+4#Microwave Resonators and Waveguide Components#4.20#Directional coupler#ex4_20.sce#3281/CH4/EX4.20/ex4_20.sce#S##112605
+4#Microwave Resonators and Waveguide Components#4.20#Directional coupler#ex4_20.jpg#3281/CH4/EX4.20/ex4_20.jpg#R##112606
+4#Microwave Resonators and Waveguide Components#4.2#Rectangulr resonator#ex4_2.sce#3281/CH4/EX4.2/ex4_2.sce#S##112575
+4#Microwave Resonators and Waveguide Components#4.2#Rectangulr resonator#ex4_2.jpg#3281/CH4/EX4.2/ex4_2.jpg#R##112576
+4#Microwave Resonators and Waveguide Components#4.18#Directional Coupler#ex4_18.sce#3281/CH4/EX4.18/ex4_18.sce#S##112603
+4#Microwave Resonators and Waveguide Components#4.18#Directional Coupler#ex4_18.jpg#3281/CH4/EX4.18/ex4_18.jpg#R##112604
+4#Microwave Resonators and Waveguide Components#4.15#Magic Tee#ex4_15.sce#3281/CH4/EX4.15/ex4_15.sce#S##112601
+4#Microwave Resonators and Waveguide Components#4.15#Magic Tee#ex4_15.jpg#3281/CH4/EX4.15/ex4_15.jpg#R##112602
+4#Microwave Resonators and Waveguide Components#4.14#E plane tee#ex4_14.sce#3281/CH4/EX4.14/ex4_14.sce#S##112599
+4#Microwave Resonators and Waveguide Components#4.14#E plane tee#ex4_14.jpg#3281/CH4/EX4.14/ex4_14.jpg#R##112600
+4#Microwave Resonators and Waveguide Components#4.13#Lossless plane H tee#ex4_13.sce#3281/CH4/EX4.13/ex4_13.sce#S##112597
+4#Microwave Resonators and Waveguide Components#4.13#Lossless plane H tee#ex4_13.jpg#3281/CH4/EX4.13/ex4_13.jpg#R##112598
+4#Microwave Resonators and Waveguide Components#4.12#Cylindrical Resonator#ex4_12.jpg#3281/CH4/EX4.12/ex4_12.jpg#R##114865
+4#Microwave Resonators and Waveguide Components#4.12#Cylindrical Resonator#ex4_12.sce#3281/CH4/EX4.12/ex4_12.sce#S##114864
+4#Microwave Resonators and Waveguide Components#4.11#Cylindrical resonantor#ex4_11.sce#3281/CH4/EX4.11/ex4_11.sce#S##112593
+4#Microwave Resonators and Waveguide Components#4.11#Cylindrical resonantor#ex4_11.jpg#3281/CH4/EX4.11/ex4_11.jpg#R##112594
+4#Microwave Resonators and Waveguide Components#4.10#Cylindrical resonator#ex4_10.sce#3281/CH4/EX4.10/ex4_10.sce#S##112591
+4#Microwave Resonators and Waveguide Components#4.10#Cylindrical resonator#ex4_10.jpg#3281/CH4/EX4.10/ex4_10.jpg#R##112592
+4#Microwave Resonators and Waveguide Components#4.1#Rectangular cavity resonator#ex4_1.sce#3281/CH4/EX4.1/ex4_1.sce#S##112573
+4#Microwave Resonators and Waveguide Components#4.1#Rectangular cavity resonator#ex4_1.jpg#3281/CH4/EX4.1/ex4_1.jpg#R##112574
+3#Microwave Network Analysis#3.6#Microwave network#ex3_6.sce#3281/CH3/EX3.6/ex3_6.sce#S##112297
+3#Microwave Network Analysis#3.6#Microwave network#ex3_6.jpg#3281/CH3/EX3.6/ex3_6.jpg#R##112298
+3#Microwave Network Analysis#3.5#Network#ex3_5.sce#3281/CH3/EX3.5/ex3_5.sce#S##112295
+3#Microwave Network Analysis#3.5#Network#ex3_5.jpg#3281/CH3/EX3.5/ex3_5.jpg#R##112296
+3#Microwave Network Analysis#3.4#Scattering matrix#ex3_4.sce#3281/CH3/EX3.4/ex3_4.sce#S##112293
+3#Microwave Network Analysis#3.4#Scattering matrix#ex3_4.jpg#3281/CH3/EX3.4/ex3_4.jpg#R##112294
+3#Microwave Network Analysis#3.12#Transistor amplifier circuit#ex3_12.sce#3281/CH3/EX3.12/ex3_12.sce#S##112299
+3#Microwave Network Analysis#3.12#Transistor amplifier circuit#ex3_12.jpg#3281/CH3/EX3.12/ex3_12.jpg#R##112300
+2#Waveguides#2.9#Dimensions#ex2_9.sce#3281/CH2/EX2.9/ex2_9.sce#S##112255
+2#Waveguides#2.9#Dimensions#ex2_9.jpg#3281/CH2/EX2.9/ex2_9.jpg#R##112256
+2#Waveguides#2.8#Lossless Rectangular Waveguide#ex2_8.jpg#3281/CH2/EX2.8/ex2_8.jpg#R##112264
+2#Waveguides#2.8#Lossless Rectangular Waveguide#ex2_8.sce#3281/CH2/EX2.8/ex2_8.sce#S##112263
+2#Waveguides#2.7#Rectangular waveguide#ex2_7.sce#3281/CH2/EX2.7/ex2_7.sce#S##112251
+2#Waveguides#2.7#Rectangular waveguide#ex2_7.jpg#3281/CH2/EX2.7/ex2_7.jpg#R##112252
+2#Waveguides#2.5#Rectangular waveguide#ex2_5.sce#3281/CH2/EX2.5/ex2_5.sce#S##112249
+2#Waveguides#2.5#Rectangular waveguide#ex2_5.jpg#3281/CH2/EX2.5/ex2_5.jpg#R##112250
+2#Waveguides#2.4#Wider dimension#ex2_4.sce#3281/CH2/EX2.4/ex2_4.sce#S##112247
+2#Waveguides#2.4#Wider dimension#ex2_4.jpg#3281/CH2/EX2.4/ex2_4.jpg#R##112248
+2#Waveguides#2.31#Dielectric constant#ex2_31.sce#3281/CH2/EX2.31/ex2_31.sce#S##112265
+2#Waveguides#2.31#Dielectric constant#ex2_31.jpg#3281/CH2/EX2.31/ex2_31.jpg#R##112266
+2#Waveguides#2.30#Cutoff frequencies#ex2_30.sce#3281/CH2/EX2.30/ex2_30.sce#S##112267
+2#Waveguides#2.30#Cutoff frequencies#ex2_30.jpg#3281/CH2/EX2.30/ex2_30.jpg#R##112268
+2#Waveguides#2.3#Rectangular Waveguide#ex2_3.sce#3281/CH2/EX2.3/ex2_3.sce#S##112245
+2#Waveguides#2.3#Rectangular Waveguide#ex2_3.jpg#3281/CH2/EX2.3/ex2_3.jpg#R##112246
+2#Waveguides#2.29#Circular waveguide#ex2_29.sce#3281/CH2/EX2.29/ex2_29.sce#S##112269
+2#Waveguides#2.29#Circular waveguide#ex2_29.jpg#3281/CH2/EX2.29/ex2_29.jpg#R##112270
+2#Waveguides#2.28#Rectangular Waveguide#ex2_28.sce#3281/CH2/EX2.28/ex2_28.sce#S##112271
+2#Waveguides#2.28#Rectangular Waveguide#ex2_28.jpg#3281/CH2/EX2.28/ex2_28.jpg#R##112272
+2#Waveguides#2.27#Circular Waveguide#ex2_27.sce#3281/CH2/EX2.27/ex2_27.sce#S##112273
+2#Waveguides#2.27#Circular Waveguide#ex2_27.jpg#3281/CH2/EX2.27/ex2_27.jpg#R##112274
+2#Waveguides#2.26#Rectangular Waveguide#ex2_26.sce#3281/CH2/EX2.26/ex2_26.sce#S##112275
+2#Waveguides#2.26#Rectangular Waveguide#ex2_26.jpg#3281/CH2/EX2.26/ex2_26.jpg#R##112276
+2#Waveguides#2.25#Air filled rectangular waveguide#ex2_25.sce#3281/CH2/EX2.25/ex2_25.sce#S##112277
+2#Waveguides#2.25#Air filled rectangular waveguide#ex2_25.jpg#3281/CH2/EX2.25/ex2_25.jpg#R##112278
+2#Waveguides#2.24#Air filled circular waveguide#ex2_24.sce#3281/CH2/EX2.24/ex2_24.sce#S##112279
+2#Waveguides#2.24#Air filled circular waveguide#ex2_24.jpg#3281/CH2/EX2.24/ex2_24.jpg#R##112280
+2#Waveguides#2.23#Circular waveguide#ex2_23.sce#3281/CH2/EX2.23/ex2_23.sce#S##112281
+2#Waveguides#2.23#Circular waveguide#ex2_23.jpg#3281/CH2/EX2.23/ex2_23.jpg#R##112282
+2#Waveguides#2.22#Rectangular Waveguide#ex2_22.sce#3281/CH2/EX2.22/ex2_22.sce#S##112283
+2#Waveguides#2.22#Rectangular Waveguide#ex2_22.jpg#3281/CH2/EX2.22/ex2_22.jpg#R##112284
+2#Waveguides#2.21#Rectangular Waveguide#ex2_21.sce#3281/CH2/EX2.21/ex2_21.sce#S##114862
+2#Waveguides#2.21#Rectangular Waveguide#ex2_21.jpg#3281/CH2/EX2.21/ex2_21.jpg#R##114863
+2#Waveguides#2.20#Ratio of cross section#ex2_20.sce#3281/CH2/EX2.20/ex2_20.sce#S##112287
+2#Waveguides#2.20#Ratio of cross section#ex2_20.jpg#3281/CH2/EX2.20/ex2_20.jpg#R##112288
+2#Waveguides#2.2#Rectangular Waveguide#ex2_2.sce#3281/CH2/EX2.2/ex2_2.sce#S##112243
+2#Waveguides#2.2#Rectangular Waveguide#ex2_2.jpg#3281/CH2/EX2.2/ex2_2.jpg#R##112244
+2#Waveguides#2.19#Rectangular Waveguide#ex2_19.jpg#3281/CH2/EX2.19/ex2_19.jpg#R##114861
+2#Waveguides#2.19#Rectangular Waveguide#ex2_19.sce#3281/CH2/EX2.19/ex2_19.sce#S##114860
+2#Waveguides#2.18#Rectangular Waveguide#ex2_18.sce#3281/CH2/EX2.18/ex2_18.sce#S##112291
+2#Waveguides#2.18#Rectangular Waveguide#ex2_18.jpg#3281/CH2/EX2.18/ex2_18.jpg#R##112292
+2#Waveguides#2.17#Air filled Rectangular Waveguide#ex2_17.sce#3281/CH2/EX2.17/ex2_17.sce#S##112261
+2#Waveguides#2.17#Air filled Rectangular Waveguide#ex2_17.jpg#3281/CH2/EX2.17/ex2_17.jpg#R##112262
+2#Waveguides#2.14#Waveguide#ex2_14.sce#3281/CH2/EX2.14/ex2_14.sce#S##112259
+2#Waveguides#2.14#Waveguide#ex2_14.jpg#3281/CH2/EX2.14/ex2_14.jpg#R##112260
+2#Waveguides#2.10#Rectangular Waveguide#ex2_10.sce#3281/CH2/EX2.10/ex2_10.sce#S##112257
+2#Waveguides#2.10#Rectangular Waveguide#ex2_10.jpg#3281/CH2/EX2.10/ex2_10.jpg#R##112258
+2#Waveguides#2.1#Dominant mode#ex2_1.sce#3281/CH2/EX2.1/ex2_1.sce#S##112241
+2#Waveguides#2.1#Dominant mode#ex2_1.jpg#3281/CH2/EX2.1/ex2_1.jpg#R##112242
+1#Microwaves#1.9#Transmission Line#ex1_9.sce#3281/CH1/EX1.9/ex1_9.sce#S##112629
+1#Microwaves#1.9#Transmission Line#ex1_9.jpg#3281/CH1/EX1.9/ex1_9.jpg#R##112630
+1#Microwaves#1.8#Transmission Line#ex1_8.sce#3281/CH1/EX1.8/ex1_8.sce#S##112627
+1#Microwaves#1.8#Transmission Line#ex1_8.jpg#3281/CH1/EX1.8/ex1_8.jpg#R##112628
+1#Microwaves#1.7#Lossy cable#ex1_7.sce#3281/CH1/EX1.7/ex1_7.sce#S##112625
+1#Microwaves#1.7#Lossy cable#ex1_7.jpg#3281/CH1/EX1.7/ex1_7.jpg#R##112626
+1#Microwaves#1.6#Lossless line#ex1_6.sce#3281/CH1/EX1.6/ex1_6.sce#S##112623
+1#Microwaves#1.6#Lossless line#ex1_6.jpg#3281/CH1/EX1.6/ex1_6.jpg#R##112624
+1#Microwaves#1.5#Parallel resonant circuit#ex1_5.sce#3281/CH1/EX1.5/ex1_5.sce#S##112621
+1#Microwaves#1.5#Parallel resonant circuit#ex1_5.jpg#3281/CH1/EX1.5/ex1_5.jpg#R##112622
+1#Microwaves#1.4#Quater wave transformer#ex1_4.sce#3281/CH1/EX1.4/ex1_4.sce#S##112619
+1#Microwaves#1.4#Quater wave transformer#ex1_4.jpg#3281/CH1/EX1.4/ex1_4.jpg#R##112620
+1#Microwaves#1.3#Microwave line#ex1_3.sce#3281/CH1/EX1.3/ex1_3.sce#S##112617
+1#Microwaves#1.3#Microwave line#ex1_3.jpg#3281/CH1/EX1.3/ex1_3.jpg#R##112618
+1#Microwaves#1.2#Lossless line#ex1_2.sce#3281/CH1/EX1.2/ex1_2.sce#S##112615
+1#Microwaves#1.2#Lossless line#ex1_2.jpg#3281/CH1/EX1.2/ex1_2.jpg#R##112616
+1#Microwaves#1.19#Range in sea water#ex1_19.sce#3281/CH1/EX1.19/ex1_19.sce#S##112647
+1#Microwaves#1.19#Range in sea water#ex1_19.jpg#3281/CH1/EX1.19/ex1_19.jpg#R##112648
+1#Microwaves#1.18#Electromagnetic wave#ex1_18.sce#3281/CH1/EX1.18/ex1_18.sce#S##112645
+1#Microwaves#1.18#Electromagnetic wave#ex1_18.jpg#3281/CH1/EX1.18/ex1_18.jpg#R##112646
+1#Microwaves#1.17#Polyethylene#ex1_17.sce#3281/CH1/EX1.17/ex1_17.sce#S##112643
+1#Microwaves#1.17#Polyethylene#ex1_17.jpg#3281/CH1/EX1.17/ex1_17.jpg#R##112644
+1#Microwaves#1.16#EM Plane#ex1_16.jpg#3281/CH1/EX1.16/ex1_16.jpg#R##113907
+1#Microwaves#1.16#EM Plane#ex1_16.sce#3281/CH1/EX1.16/ex1_16.sce#S##113906
+1#Microwaves#1.15#Microwave line#ex1_15.sce#3281/CH1/EX1.15/ex1_15.sce#S##112639
+1#Microwaves#1.15#Microwave line#ex1_15.jpg#3281/CH1/EX1.15/ex1_15.jpg#R##112640
+1#Microwaves#1.13#Transmission line#ex1_13.sce#3281/CH1/EX1.13/ex1_13.sce#S##112637
+1#Microwaves#1.13#Transmission line#ex1_13.jpg#3281/CH1/EX1.13/ex1_13.jpg#R##112638
+1#Microwaves#1.12#Active Device#ex1_12.jpg#3281/CH1/EX1.12/ex1_12.jpg#R##114859
+1#Microwaves#1.12#Active Device#ex1_12.sce#3281/CH1/EX1.12/ex1_12.sce#S##114858
+1#Microwaves#1.11#Microwave line#ex1_11.sce#3281/CH1/EX1.11/ex1_11.sce#S##112633
+1#Microwaves#1.11#Microwave line#ex1_11.jpg#3281/CH1/EX1.11/ex1_11.jpg#R##112634
+1#Microwaves#1.10#Transmission Line#ex1_10.sce#3281/CH1/EX1.10/ex1_10.sce#S##112631
+1#Microwaves#1.10#Transmission Line#ex1_10.jpg#3281/CH1/EX1.10/ex1_10.jpg#R##112632

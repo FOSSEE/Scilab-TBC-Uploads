@@ -10,9 +10,9 @@ N = 4;  // N -point DFT
 x1 = [2,1,2,1];
 x2 = [1,2,3,4];
 //Computing DFT 
-X1 = dft(x1,-1)
-X2 = dft(x2,-1)
+X1 = fft(x1,-1)
+X2 = fft(x2,-1)
 //Multiplication of 2 DFTs
 X3 = X1.*X2
 //Circular Convolution Result
-x3 =abs(dft(X3,1))
+x3 =abs(fft(X3,1))

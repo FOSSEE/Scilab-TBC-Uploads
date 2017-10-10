@@ -6,7 +6,7 @@ f = 50; // in Hz
 V = 240; // in volts
 
 //calculation:
-Xc = 1/(2*%pi*f1*C)
+Xc = 1/(2*%pi*f*C)
 I = V/Xc
 
 printf("\n\n Result \n\n") 

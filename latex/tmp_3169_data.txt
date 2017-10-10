@@ -1,0 +1,43 @@
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.9#calculation of maximum and minimum value of capacitance and tandelta#Ex9_9.sce#3169/CH9/EX9.9/Ex9_9.sce#S##115358
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.8#calculation of voltage at balance#Ex9_8.sce#3169/CH9/EX9.8/Ex9_8.sce#S##115357
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.7#calculation of dielectric constant and loss factor tandelta#Ex9_7.sce#3169/CH9/EX9.7/Ex9_7.sce#S##115356
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.6#calculation of magnitude of the charge transferred from the cavity#Ex9_6.sce#3169/CH9/EX9.6/Ex9_6.sce#S##115355
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.5#calculation of dielectric constant and tandelta of the transformer oil#Ex9_5.sce#3169/CH9/EX9.5/Ex9_5.sce#S##115354
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.4#calculation of capacitance and tandelta of bushing#Ex9_4.sce#3169/CH9/EX9.4/Ex9_4.sce#S##115353
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.3#calculation of dielectric constant and complex permittivity of bakelite#Ex9_3.sce#3169/CH9/EX9.3/Ex9_3.sce#S##115331
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.2#calculation of resistivity of the specimen#Ex9_2.sce#3169/CH9/EX9.2/Ex9_2.sce#S##115302
+9#Non Destructive Testing of Materials and Electrical Apparatus#9.1#calculation of the volume resistivity#Ex9_1.sce#3169/CH9/EX9.1/Ex9_1.sce#S##115301
+8#Overvoltage Phenomenon and Insulation Coordination in Electric Power Systems#8.9#working out of insulation coordination#Ex8_9.sce#3169/CH8/EX8.9/Ex8_9.sce#S##115300
+8#Overvoltage Phenomenon and Insulation Coordination in Electric Power Systems#8.8#calculation of rise in voltage at the other end#Ex8_8.sce#3169/CH8/EX8.8/Ex8_8.sce#S##115512
+8#Overvoltage Phenomenon and Insulation Coordination in Electric Power Systems#8.7#calculation of sparkover voltage and the arrester current#Ex8_7.sce#3169/CH8/EX8.7/Ex8_7.sce#S##115299
+8#Overvoltage Phenomenon and Insulation Coordination in Electric Power Systems#8.6#calculation of value of voltage at the receiving end in Bewley lattice diagram#Ex8_6.sce#3169/CH8/EX8.6/Ex8_6.sce#S##115298
+8#Overvoltage Phenomenon and Insulation Coordination in Electric Power Systems#8.5#calculation of the transmitted reflected voltage and current waves#Ex8_5.sce#3169/CH8/EX8.5/Ex8_5.sce#S##116191
+8#Overvoltage Phenomenon and Insulation Coordination in Electric Power Systems#8.2#calculation of the voltage build up at the junction#Ex8_2.sce#3169/CH8/EX8.2/Ex8_2.sce#S##115296
+8#Overvoltage Phenomenon and Insulation Coordination in Electric Power Systems#8.1#calculation of surge impedance velocity and time taken by the surge to travel to the other end#Ex8_1.sce#3169/CH8/EX8.1/Ex8_1.sce#S##115295
+7#Measurement of High Voltages and Currents#7.8#calculation of resistance and capacitance#Ex7_8.sce#3169/CH7/EX7.8/Ex7_8.sce#S##115294
+7#Measurement of High Voltages and Currents#7.7#Estimation of values of mutual inductance resistance and capacitance#Ex7_7.sce#3169/CH7/EX7.7/Ex7_7.sce#S##115293
+7#Measurement of High Voltages and Currents#7.6#calculation of ohmic value of shunt an its dimensions#Ex7_6.sce#3169/CH7/EX7.6/Ex7_6.sce#S##115292
+7#Measurement of High Voltages and Currents#7.5#calculation of capacitance needed for correct compensation#Ex7_5.sce#3169/CH7/EX7.5/Ex7_5.sce#S##115291
+7#Measurement of High Voltages and Currents#7.4#calculation of divider ratio#Ex7_4.sce#3169/CH7/EX7.4/Ex7_4.sce#S##115290
+7#Measurement of High Voltages and Currents#7.3#calculation of correction factors for atmospheric conditions#Ex7_3.sce#3169/CH7/EX7.3/Ex7_3.sce#S##115289
+7#Measurement of High Voltages and Currents#7.2#Design of a peak reading voltmeter#Ex7_2.sce#3169/CH7/EX7.2/Ex7_2.sce#S##115288
+7#Measurement of High Voltages and Currents#7.1#calculation of capacitance of generating voltmeter#Ex7_1.sce#3169/CH7/EX7.1/Ex7_1.sce#S##115287
+6#Generation of High Voltages and Currents#6.9#calculation of self capacitance and leakage reactance#Ex6_9.sce#3169/CH6/EX6.9/Ex6_9.sce#S##115280
+6#Generation of High Voltages and Currents#6.8#calculation of output voltage#Ex6_8.sce#3169/CH6/EX6.8/Ex6_8.sce#S##115279
+6#Generation of High Voltages and Currents#6.7#calculation of peak value of output voltage and highest resonant frequency produced#Ex6_7.sce#3169/CH6/EX6.7/Ex6_7.sce#S##115511
+6#Generation of High Voltages and Currents#6.6#calculation of front and tail time#Ex6_6.sce#3169/CH6/EX6.6/Ex6_6.sce#S##115275
+6#Generation of High Voltages and Currents#6.5#calculation circuit inductance and dynamic resistance#Ex6_5.sce#3169/CH6/EX6.5/Ex6_5.sce#S##115510
+6#Generation of High Voltages and Currents#6.4#calculation of circuit inductance and dynamic resistance#Ex6_4.sce#3169/CH6/EX6.4/Ex6_4.sce#S##115278
+6#Generation of High Voltages and Currents#6.3#calculation of series resistance damping resistance and maximum output voltage of the generator#Ex6_3.sce#3169/CH6/EX6.3/Ex6_3.sce#S##115509
+6#Generation of High Voltages and Currents#6.2#calculation of series inductance and input voltage to transformer#Ex6_2.sce#3169/CH6/EX6.2/Ex6_2.sce#S##115274
+6#Generation of High Voltages and Currents#6.10#calculation of resistance and inductance#Ex6_10.sce#3169/CH6/EX6.10/Ex6_10.sce#S##115286
+6#Generation of High Voltages and Currents#6.1#calculation of percentage ripple the regulation and the optimum number of stages for minimum regulation in Cockcroft Walton type voltage multiplier#Ex6_1.sce#3169/CH6/EX6.1/Ex6_1.sce#S##115273
+4#Breakdown in Solid Dielectrics#4.3#calculation of the dimensions of electrodes in coaxial cylindrical capacitor#Ex4_3.sce#3169/CH4/EX4.3/Ex4_3.sce#S##115272
+4#Breakdown in Solid Dielectrics#4.2#calculation of voltage at which an internal discharge can occur#Ex4_2.sce#3169/CH4/EX4.2/Ex4_2.sce#S##115271
+4#Breakdown in Solid Dielectrics#4.1#calculation of heat generated in specimen due to dielectric loss#Ex4_1.sce#3169/CH4/EX4.1/Ex4_1.sce#S##115266
+3#Conduction and Breakdown in Liquid Dielectrics#3.1#determination of power law dependence between the gap spacing  and the applied voltage of the oil#Ex3_1.sce#3169/CH3/EX3.1/Ex3_1.sce#S##115508
+2#Conduction and Breakdown in Gases#2.5#calculation of minimum spark over voltage#Ex2_5.sce#3169/CH2/EX2.5/Ex2_5.sce#S##115254
+2#Conduction and Breakdown in Gases#2.4#calculation of breakdown voltage of a spark gap#Ex2_4.sce#3169/CH2/EX2.4/Ex2_4.sce#S##115252
+2#Conduction and Breakdown in Gases#2.3#calculation of Townsend secondary ionization coefficient#Ex2_3.sce#3169/CH2/EX2.3/Ex2_3.sce#S##115253
+2#Conduction and Breakdown in Gases#2.2#calculation of Townsend primary ionization coefficient#Ex2_2.sce#3169/CH2/EX2.2/Ex2_2.sce#S##115250
+2#Conduction and Breakdown in Gases#2.1#calculation of breakdown strength of air#Ex2_1.sce#3169/CH2/EX2.1/Ex2_1.sce#S##115249

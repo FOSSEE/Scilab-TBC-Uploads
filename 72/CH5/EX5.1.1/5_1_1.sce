@@ -1,4 +1,4 @@
-//CAPTION: Equivalent_Elements_of_a_Hybrid-Pi_Common-Emitter_Circuit
+
 //CHAPTER NO.-5
 //Example No.5-1-1 , Page No.-195 
                                                                      

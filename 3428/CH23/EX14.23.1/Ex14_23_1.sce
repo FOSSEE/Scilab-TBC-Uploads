@@ -3,10 +3,10 @@
 clc;
 //K_p=K_c*((R*T)^dl_n)
 dl_n=2-(1+3)
-T=673
-R=0.0821
+T=673                  //Kelvin
+R=0.0821              // (dm^3K^-1mol^-1)
 K_c=0.495
-P=2
+P=2                    //atm
 K_p=K_c*((R*T)^dl_n) 
 disp(K_p)
 //K_p=K_x*((P)^dl_n)

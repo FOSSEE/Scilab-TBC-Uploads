@@ -10,7 +10,8 @@ Ie2=2*10^-3;
 Ve1=5;Vce1=3;
 Vb2=Ve1+Vce1
 Vc1=Vb2;
-Ve2=Vb2-Vbe
+Ve2=Vb2-Vbe;
+Vr2=Ve1+Vbe;
 R5=Ve2/Ie2//use 3.3Kohm standard value
 R5=3.3*10^3;
 Ic1=1*10^-3;

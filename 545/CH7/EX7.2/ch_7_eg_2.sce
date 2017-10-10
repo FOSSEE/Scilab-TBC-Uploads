@@ -1,5 +1,5 @@
 clc
-disp("soln of eg 7.2-->Second Order Reaction-20 parts")
+disp("soln of eg 7.2--&gt;Second Order Reaction-20 parts")
 e1=1,e2=1
 u=1,D=10^-4,k=1,C_a_in=1,delta_x=10/20
 cff_ca2_n1=2*D/delta_x^2+u/delta_x                       //co-efficient of C-A2 at node 1
@@ -7,8 +7,8 @@ cff_da1_n1=-(2*u^2/D+2*u/delta_x)*C_a_in                 //right hand side co-ef
 cff_ca1_n2=D/delta_x^2+u/delta_x
 cff_ca3_n2=D/delta_x^2                                    //co-efficient of C-A3 at node 2
 cff_da1_n2=0
-cff_ca2_n3=cf_ca1_n2
-cff_ca4_n3=cf_ca3_n2
+cff_ca2_n3=cff_ca2_n1
+cff_ca4_n3=cff_ca3_n2
 cff_da1_n3=0
 cff_ca20_n21=2*D/delta_x^2+u/delta_x                        //co-efficient of C-A20 at node 21
 cff_da21_n21=0
@@ -22,7 +22,7 @@ for i=2:21,d(i)=cff_da1_n2
 end
 for i=1:21,x(i)=0,
 end
-while e1>1e-6 & e2>1e-6 do for i=1:21,x1(i)=x(i),end, 
+while e1&gt;1e-6 &amp; e2&gt;1e-6 do for i=1:21,x1(i)=x(i),end, 
    cff_ca1_n1=-2*D/delta_x^2-3*u/delta_x-x1(1)-2*u^2/D                 //main diagonal elements dependence on conc.
    b(1)=cff_ca1_n1,
    for i=2:21,b(i)=-2*D/delta_x^2-u/delta_x-x(i),end

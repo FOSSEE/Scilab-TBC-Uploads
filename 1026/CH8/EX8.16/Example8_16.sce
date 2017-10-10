@@ -12,8 +12,7 @@ dtheta=(2.5*3.14)/(180*60)//change in angular displacement(in radian)
 
 //dlam=((a+b)cos(theta)/n)dtheta
 
-cos(theta)=sqrt(1-(((n*lam)/grat)^2))
-
+theta=acos(sqrt(1-(((n*lam)/grat)^2)))
 dlam=(dtheta*grat*cos(theta))/n//difference in wavelength
 
 f=30//focal length

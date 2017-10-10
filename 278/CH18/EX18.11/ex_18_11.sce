@@ -10,7 +10,7 @@ N1=200//rpm
 u=0.25
 P=3000//W
 //let T1 and  T2 be tneion on tight and slag side
-//since q2>q1,therfore design is smaller pulley based
+//since q2&gt;q1,therfore design is smaller pulley based
 v=%pi*N1*d1/60//m/s
 //P=(T1-T2)*v
 //T1-T2=955//N
@@ -40,4 +40,4 @@ P2=(T111-T222)*v//W
 pi1=((P1-P)/P)*100
 pi2=((P2-P)/P)*100
 printf("the perctage inc in power wen initial tension is inc is,%f \n",pi1)
-printf("the %age perct inc inpower wen coefficient of riction si,%f",pi2)
+printf("the percentage perct inc inpower wen coefficient of riction si,%f",pi2)

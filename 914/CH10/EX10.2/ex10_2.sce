@@ -2,6 +2,7 @@ clc;
 warning("off");
 printf("\n\n example10.2 - pg407");
 Nreold=1214;
+T= 300l; // K
 Uold=0.8810;
 Nre=13700;
 U=Uold*(Nre/Nreold);

@@ -9,7 +9,7 @@ f = 25e3 // Frequency in Hz
 Hw = 6900 // Fracture hardness of WC in N/mm^2
 // Sample Problem 1 on page no. 332
 printf("\n # PROBLEM 6.1 # \n")
-Z = (1/2)*(4*s^2)/(%pi*d^2)
+Z = (1/2)*(4*a^2)/(%pi*d^2)
 lambda = 5
 d1 = (d^2)
 h_w = (sqrt((8*F*A)/(%pi*Z*d1*Hw*(1+lambda))))

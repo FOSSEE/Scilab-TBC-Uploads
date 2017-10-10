@@ -33,9 +33,9 @@ title('First Order Difference Image','color','blue','fontsize',4);
 forward_count=0;
 reverse_count=0;
 for j= 2:N-1    // Finding First Zero Crossing Point
-    if(second_order(5,j)==0 & second_order(5,j+1)>0) then
+    if(second_order(5,j)==0 &amp; second_order(5,j+1)&gt;0) 
         forward_count=forward_count+1;
-        if(forward_count==1)then
+        if(forward_count==1)
             ther1=second_order(5,j+1);
             break;
         end
@@ -43,9 +43,9 @@ for j= 2:N-1    // Finding First Zero Crossing Point
 end
 
 for j= N-1:-1:2  // Finding Last Zero Crossing Point
-    if(second_order(5,j)==0 & second_order(5,j-1)<0) then
+    if(second_order(5,j)==0 &amp; second_order(5,j-1)&lt;0) 
         reverse_count=reverse_count+1;
-        if(reverse_count==1)then
+        if(reverse_count==1)
             ther2=second_order(5,j-1);
             break;
         end
@@ -82,5 +82,3 @@ title('Intensity Profile of First order Derivative','color','blue','fontsize',4)
 subplot(313);
 plot(1:length(t2),t2);//
 title('Intensity Profile of Second order Derivative','color','blue','fontsize',4);
-
-

@@ -3,7 +3,12 @@
 //Auto Correlation
 clear;
 clc;
-clear x n a;
+function [y]=u(t)
+    if t&gt;=0
+    y=1
+else y=0
+    end
+endfunction
 k=1;
 a=0.8;
 for n=-30:30;

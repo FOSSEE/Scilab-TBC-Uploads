@@ -1,10 +1,11 @@
 clc
-//initialization of varaibles
+//initialization of variables
 V1=587 //fps
 etaD=0.9
 etaC=0.8
 h1=114.69
 P1=10 //psia
+P3=626;
 P6=P1
 dhB=-19100 //B/lb
 T1=480 //R

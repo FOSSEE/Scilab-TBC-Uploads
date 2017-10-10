@@ -1,7 +1,7 @@
-//desing keyway in motr shaft
 clc
 //soltuion
 //given
+pi = %pi;
 P=15*10^3//W
 N=960//rpm
 d=40//mm

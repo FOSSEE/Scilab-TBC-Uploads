@@ -1,0 +1,144 @@
+24#flow of gases through ducts and turbine pipes#24.7#chapter 24 example 7#24_7.sce#1466/CH24/EX24.7/24_7.sce#S##79407
+24#flow of gases through ducts and turbine pipes#24.6#chapter 24 example 6#24_6.sce#1466/CH24/EX24.6/24_6.sce#S##89644
+24#flow of gases through ducts and turbine pipes#24.5#chapter 24 example 5#24_5.sce#1466/CH24/EX24.5/24_5.sce#S##67367
+24#flow of gases through ducts and turbine pipes#24.4#chapter 24 example 4#24_4.sce#1466/CH24/EX24.4/24_4.sce#S##79405
+24#flow of gases through ducts and turbine pipes#24.3#chapter 24 example 3#24_3.sce#1466/CH24/EX24.3/24_3.sce#S##67370
+24#flow of gases through ducts and turbine pipes#24.2#chapter 24 example 2#24_2.sce#1466/CH24/EX24.2/24_2.sce#S##79404
+24#flow of gases through ducts and turbine pipes#24.1#chapter 24 example 1#24_1.sce#1466/CH24/EX24.1/24_1.sce#S##89645
+23#centrifugal pumps#23.3#chapter 23 example 3#23_3.sce#1466/CH23/EX23.3/23_3.sce#S##79403
+23#centrifugal pumps#23.2#example 2#23_2.sce#1466/CH23/EX23.2/23_2.sce#S##89643
+23#centrifugal pumps#23.1#example 1#23_1.sce#1466/CH23/EX23.1/23_1.sce#S##79401
+22#water turbines#22.9#chapter 22 example 9#22_9.sce#1466/CH22/EX22.9/22_9.sce#S##67385
+22#water turbines#22.8#chapter 22 example 8#22_8.sce#1466/CH22/EX22.8/22_8.sce#S##67384
+22#water turbines#22.6#chapter 22 example 6#22_6.sce#1466/CH22/EX22.6/22_6.sce#S##67383
+22#water turbines#22.5#chapter 22 example 5#22_5.sce#1466/CH22/EX22.5/22_5.sce#S##79398
+22#water turbines#22.4#chapter 22 example 4#22_4.sce#1466/CH22/EX22.4/22_4.sce#S##79399
+22#water turbines#22.3#chapter 22 example 3#22_3.sce#1466/CH22/EX22.3/22_3.sce#S##67381
+22#water turbines#22.2#chapter 22 example 2#22_2.sce#1466/CH22/EX22.2/22_2.sce#S##69215
+22#water turbines#22.10#chapter 22 example 10#22_10.sce#1466/CH22/EX22.10/22_10.sce#S##67386
+22#water turbines#22.1#chapter 22 example 1#22_1.sce#1466/CH22/EX22.1/22_1.sce#S##79400
+21#Reciprocating pumps#21.5#chapter 21 example 5#21_5.sce#1466/CH21/EX21.5/21_5.sce#S##89642
+21#Reciprocating pumps#21.4#chapter 21 example 4#21_4.sce#1466/CH21/EX21.4/21_4.sce#S##79397
+21#Reciprocating pumps#21.3#chapter 21 example 3#21_3.sce#1466/CH21/EX21.3/21_3.sce#S##67389
+21#Reciprocating pumps#21.2#chapter 21 example 2#21_2.sce#1466/CH21/EX21.2/21_2.sce#S##67388
+21#Reciprocating pumps#21.1#chapter 21 example 1#21_1.sce#1466/CH21/EX21.1/21_1.sce#S##89641
+20#hydraulic machines metres and valves#20.6#chapter 20 example 6#20_6.sce#1466/CH20/EX20.6/20_6.sce#S##67395
+20#hydraulic machines metres and valves#20.5#ex 5#20_5.sce#1466/CH20/EX20.5/20_5.sce#S##89640
+20#hydraulic machines metres and valves#20.4#chapter 20 example 4#20_4.sce#1466/CH20/EX20.4/20_4.sce#S##89639
+20#hydraulic machines metres and valves#20.3#chapter 20 example 3#20_3.sce#1466/CH20/EX20.3/20_3.sce#S##67393
+20#hydraulic machines metres and valves#20.2#chapter 20 example 2#20_2.sce#1466/CH20/EX20.2/20_2.sce#S##67392
+20#hydraulic machines metres and valves#20.1#chapter 20 example 1#20_1.sce#1466/CH20/EX20.1/20_1.sce#S##67391
+19#flow of gases through tapering pipes#19.2#chapter 19 example 2#19_2.sce#1466/CH19/EX19.2/19_2.sce#S##79394
+19#flow of gases through tapering pipes#19.1#chapter 19 example 1#19_1.sce#1466/CH19/EX19.1/19_1.sce#S##79393
+18#flow of gases through pipes#18.4#chapter 18 example 4#18_4.sce#1466/CH18/EX18.4/18_4.sce#S##67398
+18#flow of gases through pipes#18.3#chapter 18 example 3#18_3.sce#1466/CH18/EX18.3/18_3.sce#S##79392
+18#flow of gases through pipes#18.2#chapter 18 example 2#18_2.sce#1466/CH18/EX18.2/18_2.sce#S##67400
+18#flow of gases through pipes#18.1#chapter 18 example 1#18_1.sce#1466/CH18/EX18.1/18_1.sce#S##67399
+16#The Boundary Layer#16.1#chapter 16 example 1#16_1.sce#1466/CH16/EX16.1/16_1.sce#S##67402
+15#The Aerofoil And its Application#15.5#chapter 15 example 5#15_5.sce#1466/CH15/EX15.5/15_5.sce#S##79391
+15#The Aerofoil And its Application#15.4#chapter 15 example 4#15_4.sce#1466/CH15/EX15.4/15_4.sce#S##79390
+15#The Aerofoil And its Application#15.3#chapter 15 example 3#15_3.sce#1466/CH15/EX15.3/15_3.sce#S##67406
+15#The Aerofoil And its Application#15.2#chapter 15 example 2#15_2.sce#1466/CH15/EX15.2/15_2.sce#S##79389
+15#The Aerofoil And its Application#15.1#chapter 15 example 1#15_1.sce#1466/CH15/EX15.1/15_1.sce#S##67404
+14#flow of gases#14.7#chapter 14 example 7#14_7.sce#1466/CH14/EX14.7/14_7.sce#S##67414
+14#flow of gases#14.6#chapter 14 example 6#14_6.sce#1466/CH14/EX14.6/14_6.sce#S##48797
+14#flow of gases#14.5#chapter 14 example 5#14_5.sce#1466/CH14/EX14.5/14_5.sce#S##67410
+14#flow of gases#14.4#chapter 14 example 4#14_4.sce#1466/CH14/EX14.4/14_4.sce#S##67411
+14#flow of gases#14.3#chapter 14 example 3#14_3.sce#1466/CH14/EX14.3/14_3.sce#S##67412
+14#flow of gases#14.2#chapter 14 example 2#14_2.sce#1466/CH14/EX14.2/14_2.sce#S##79388
+14#flow of gases#14.1#chapter 14 example 1#14_1.sce#1466/CH14/EX14.1/14_1.sce#S##79387
+13#compressible fluids#13.5#chapter 13 example 5#13_5.sce#1466/CH13/EX13.5/13_5.sce#S##89638
+13#compressible fluids#13.4#chapter 13 example 4#13_4.sce#1466/CH13/EX13.4/13_4.sce#S##67417
+13#compressible fluids#13.3#chapter 13 example 3#13_3.sce#1466/CH13/EX13.3/13_3.sce#S##67416
+13#compressible fluids#13.2#chapter 13 example 2#13_2.sce#1466/CH13/EX13.2/13_2.sce#S##67415
+13#compressible fluids#13.1#example 1#13_1.sce#1466/CH13/EX13.1/13_1.sce#S##79385
+12#Dynamical similarity and model testing#12.2#chapter 12 example 2#12_2.sce#1466/CH12/EX12.2/12_2.sce#S##67419
+12#Dynamical similarity and model testing#12.1#chapter 12 example 1#12_1.sce#1466/CH12/EX12.1/12_1.sce#S##67420
+11#Dimensional Analysis#11.3#chapter 11 example 3#11_3.sce#1466/CH11/EX11.3/11_3.sce#S##67422
+11#Dimensional Analysis#11.2#chapter 11 example 2#11_2.sce#1466/CH11/EX11.2/11_2.sce#S##67423
+11#Dimensional Analysis#11.1#chapter 11 example 1#11_1.sce#1466/CH11/EX11.1/11_1.sce#S##67421
+10#flow through open channels#10.8#chapter 10 example 8#10_8.sce#1466/CH10/EX10.8/10_8.sce#S##67424
+10#flow through open channels#10.7#chapter 10 example 7#10_7.sce#1466/CH10/EX10.7/10_7.sce#S##67429
+10#flow through open channels#10.6#chapter 10 example 6#10_6.sce#1466/CH10/EX10.6/10_6.sce#S##67428
+10#flow through open channels#10.5#chapter 10 example 5#10_5.sce#1466/CH10/EX10.5/10_5.sce#S##89636
+10#flow through open channels#10.4#chapter 10 example 4#10_4.sce#1466/CH10/EX10.4/10_4.sce#S##67427
+10#flow through open channels#10.3#chapter 10 example 3#10_3.sce#1466/CH10/EX10.3/10_3.sce#S##67426
+10#flow through open channels#10.2#example 2#10_2.sce#1466/CH10/EX10.2/10_2.sce#S##89637
+10#flow through open channels#10.1#chapter 10 example 1#10_1.sce#1466/CH10/EX10.1/10_1.sce#S##67425
+9#Turbulent flow of fluids#9.2#chapter 9 example 2#9_2.sce#1466/CH9/EX9.2/9_2.sce#S##67430
+9#Turbulent flow of fluids#9.1#chapter 9 example 1#9_1.sce#1466/CH9/EX9.1/9_1.sce#S##67778
+8#Viscous flow of fluids#8.8#chapter 8 example 8#8_8.sce#1466/CH8/EX8.8/8_8.sce#S##67456
+8#Viscous flow of fluids#8.7#chapter 8 example 7#8_7.sce#1466/CH8/EX8.7/8_7.sce#S##67455
+8#Viscous flow of fluids#8.6#chapter 8 example 6#8_6.sce#1466/CH8/EX8.6/8_6.sce#S##67454
+8#Viscous flow of fluids#8.5#chapter 8 example 5#8_5.sce#1466/CH8/EX8.5/8_5.sce#S##67453
+8#Viscous flow of fluids#8.4#chapter 8 example 4#8_4.sce#1466/CH8/EX8.4/8_4.sce#S##67452
+8#Viscous flow of fluids#8.3#chapter 8 example 3#8_3.sce#1466/CH8/EX8.3/8_3.sce#S##67451
+8#Viscous flow of fluids#8.2#chapter 8 example 2#8_2.sce#1466/CH8/EX8.2/8_2.sce#S##67450
+8#Viscous flow of fluids#8.1#chapter 8 example 1#8_1.sce#1466/CH8/EX8.1/8_1.sce#S##89635
+7#Friction and Flow through pipes#7.9#chapter 7 example 9#7_9.sce#1466/CH7/EX7.9/7_9.sce#S##67468
+7#Friction and Flow through pipes#7.8#example 8#7_8.sce#1466/CH7/EX7.8/7_8.sce#S##67762
+7#Friction and Flow through pipes#7.7#chapter 7 example 7#7_7.sce#1466/CH7/EX7.7/7_7.sce#S##67467
+7#Friction and Flow through pipes#7.6#chapter 7 example 6#7_6.sce#1466/CH7/EX7.6/7_6.sce#S##67466
+7#Friction and Flow through pipes#7.5#chapter 7 example 5#7_5.sce#1466/CH7/EX7.5/7_5.sce#S##67465
+7#Friction and Flow through pipes#7.4#chapter 7 example 4#7_4.sce#1466/CH7/EX7.4/7_4.sce#S##67464
+7#Friction and Flow through pipes#7.3#example 3#7_3.sce#1466/CH7/EX7.3/7_3.sce#S##67761
+7#Friction and Flow through pipes#7.2#chapter 7 example 2#7_2.sce#1466/CH7/EX7.2/7_2.sce#S##67463
+7#Friction and Flow through pipes#7.14#chapter 7 example 14#7_14.sce#1466/CH7/EX7.14/7_14.sce#S##67473
+7#Friction and Flow through pipes#7.13#chapter 7 example 13#7_13.sce#1466/CH7/EX7.13/7_13.sce#S##67472
+7#Friction and Flow through pipes#7.12#chapter 7 example 12#7_12.sce#1466/CH7/EX7.12/7_12.sce#S##67471
+7#Friction and Flow through pipes#7.11#chapter 7 example 11#7_11.sce#1466/CH7/EX7.11/7_11.sce#S##89634
+7#Friction and Flow through pipes#7.10#chapter 7 example 10#7_10.sce#1466/CH7/EX7.10/7_10.sce#S##79382
+7#Friction and Flow through pipes#7.1#chapter 7 example 1#7_1.sce#1466/CH7/EX7.1/7_1.sce#S##67462
+6#Impact of jets#6.5#chapter 6 example 5#6_5.sce#1466/CH6/EX6.5/6_5.sce#S##67362
+6#Impact of jets#6.4#chapter 6 example 4#6_4.sce#1466/CH6/EX6.4/6_4.sce#S##67361
+6#Impact of jets#6.3#chapter 6 example 3#6_3.sce#1466/CH6/EX6.3/6_3.sce#S##79381
+6#Impact of jets#6.2#chapter 6 example 2#6_2.sce#1466/CH6/EX6.2/6_2.sce#S##67359
+6#Impact of jets#6.1#chapter 6 example 1#6_1.sce#1466/CH6/EX6.1/6_1.sce#S##67358
+5#Notches And Weirs#5.9#chapter 5 example 9#5_9.sce#1466/CH5/EX5.9/5_9.sce#S##67357
+5#Notches And Weirs#5.8#chapter 5 example 8#5_8.sce#1466/CH5/EX5.8/5_8.sce#S##67356
+5#Notches And Weirs#5.7#chapter 5 example 7#5_7.sce#1466/CH5/EX5.7/5_7.sce#S##67355
+5#Notches And Weirs#5.6#chapter 5 example 6#5_6.sce#1466/CH5/EX5.6/5_6.sce#S##67354
+5#Notches And Weirs#5.5#example 5#5_5.sce#1466/CH5/EX5.5/5_5.sce#S##67353
+5#Notches And Weirs#5.3#example 3#5_3.sce#1466/CH5/EX5.3/5_3.sce#S##67352
+5#Notches And Weirs#5.2#example 2#5_2.sce#1466/CH5/EX5.2/5_2.sce#S##67351
+5#Notches And Weirs#5.1#chapter 5 example 1#5_1.sce#1466/CH5/EX5.1/5_1.sce#S##67350
+4#Orifices and Mouthpieces#4.9#chapter 4 example 9#4_9.sce#1466/CH4/EX4.9/4_9.sce#S##67346
+4#Orifices and Mouthpieces#4.8#chapter 4 example 8#4_8.sce#1466/CH4/EX4.8/4_8.sce#S##67345
+4#Orifices and Mouthpieces#4.7#example 7#4_7.sce#1466/CH4/EX4.7/4_7.sce#S##67349
+4#Orifices and Mouthpieces#4.6#chapter 4 example 6#4_6.sce#1466/CH4/EX4.6/4_6.sce#S##67344
+4#Orifices and Mouthpieces#4.5#chapter 4 example 5#4_5.sce#1466/CH4/EX4.5/4_5.sce#S##67343
+4#Orifices and Mouthpieces#4.4#chapter 4 example 4#4_4.sce#1466/CH4/EX4.4/4_4.sce#S##67342
+4#Orifices and Mouthpieces#4.3#chapter 4 example 3#4_3.SCE#1466/CH4/EX4.3/4_3.SCE#S##67341
+4#Orifices and Mouthpieces#4.2#chapter 4 example 2#4_2.sce#1466/CH4/EX4.2/4_2.sce#S##67340
+4#Orifices and Mouthpieces#4.12#example 12#4_12.sce#1466/CH4/EX4.12/4_12.sce#S##91178
+4#Orifices and Mouthpieces#4.11#chapter 4 example 11#4_11.sce#1466/CH4/EX4.11/4_11.sce#S##67348
+4#Orifices and Mouthpieces#4.10#chapter 4 example 10#4_10.sce#1466/CH4/EX4.10/4_10.sce#S##79380
+4#Orifices and Mouthpieces#4.1#chapter 4 example 1#4_1.sce#1466/CH4/EX4.1/4_1.sce#S##67339
+3#The Flow Of a Fluid#3.9#chapter 3 example 9#3_9.sce#1466/CH3/EX3.9/3_9.sce#S##67335
+3#The Flow Of a Fluid#3.8#chapter 3 example 8#3_8.sce#1466/CH3/EX3.8/3_8.sce#S##67334
+3#The Flow Of a Fluid#3.7#chapter 3 example 7#3_7.sce#1466/CH3/EX3.7/3_7.sce#S##67333
+3#The Flow Of a Fluid#3.6#chapter 3 example 6#3_6.sce#1466/CH3/EX3.6/3_6.sce#S##67332
+3#The Flow Of a Fluid#3.5#chapter 3 example 5#3_5.sce#1466/CH3/EX3.5/3_5.sce#S##67331
+3#The Flow Of a Fluid#3.4#chapter 3 example 4#3_4.sce#1466/CH3/EX3.4/3_4.sce#S##67330
+3#The Flow Of a Fluid#3.3#chapter 3 example 3#3_3.sce#1466/CH3/EX3.3/3_3.sce#S##67329
+3#The Flow Of a Fluid#3.2#chapter 3 example 2#3_2.sce#1466/CH3/EX3.2/3_2.sce#S##67328
+3#The Flow Of a Fluid#3.13#chapter 3 example 13#3_13.sce#1466/CH3/EX3.13/3_13.sce#S##67338
+3#The Flow Of a Fluid#3.11#chapter 3 example 11#3_11.sce#1466/CH3/EX3.11/3_11.sce#S##67337
+3#The Flow Of a Fluid#3.10#chapter 3 example 10#3_10.sce#1466/CH3/EX3.10/3_10.sce#S##67336
+3#The Flow Of a Fluid#3.1#chapter 3 example 1#3_1.sce#1466/CH3/EX3.1/3_1.sce#S##67327
+2#The Buancyoy of a fluid#2.6#chapter 2 example 6#2_6.sce#1466/CH2/EX2.6/2_6.sce#S##48720
+2#The Buancyoy of a fluid#2.5#example 5#2_5.sce#1466/CH2/EX2.5/2_5.sce#S##89633
+2#The Buancyoy of a fluid#2.4#chapter 2 example 4#2_4.sce#1466/CH2/EX2.4/2_4.sce#S##89632
+2#The Buancyoy of a fluid#2.3#chapter 2 example 3#2_3.sce#1466/CH2/EX2.3/2_3.sce#S##89631
+2#The Buancyoy of a fluid#2.2#chapter 2 example 2#2_2.sce#1466/CH2/EX2.2/2_2.sce#S##48717
+2#The Buancyoy of a fluid#2.1#chapter 2 example 1#2_1.sce#1466/CH2/EX2.1/2_1.sce#S##48716
+1#static pressure of a fluid#1.9#chapter 1 example 9#1_9.sce#1466/CH1/EX1.9/1_9.sce#S##89630
+1#static pressure of a fluid#1.8#chapter 1 example 8#1_8.sce#1466/CH1/EX1.8/1_8.sce#S##48713
+1#static pressure of a fluid#1.7#chapter 1 example 7#1_7.sce#1466/CH1/EX1.7/1_7.sce#S##48712
+1#static pressure of a fluid#1.6#chapter 1 example 6#1_6.sce#1466/CH1/EX1.6/1_6.sce#S##48711
+1#static pressure of a fluid#1.5#chapter 1 example 5#1_5.sce#1466/CH1/EX1.5/1_5.sce#S##89629
+1#static pressure of a fluid#1.4#chapter 1 example 4#1_4.sce#1466/CH1/EX1.4/1_4.sce#S##48709
+1#static pressure of a fluid#1.3#chapter 1 example 3#1_3.sce#1466/CH1/EX1.3/1_3.sce#S##89628
+1#static pressure of a fluid#1.2#chapter 1 example 2#1_2.sce#1466/CH1/EX1.2/1_2.sce#S##48707
+1#static pressure of a fluid#1.11#chapter 1 example 11#1_11.sce#1466/CH1/EX1.11/1_11.sce#S##48715
+1#static pressure of a fluid#1.1#chapter 1 example 1#1_1.sce#1466/CH1/EX1.1/1_1.sce#S##48706

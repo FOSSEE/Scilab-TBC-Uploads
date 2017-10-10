@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 5
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 5");
 

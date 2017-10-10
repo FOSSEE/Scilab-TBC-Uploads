@@ -1,6 +1,4 @@
 
-//Caption:Program to calculate the probability that eight or more arrivals occur in an chosen 30 sec
- 
 //Example 12.2
  
 //Page 526

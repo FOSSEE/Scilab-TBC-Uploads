@@ -1,4 +1,4 @@
-//calculate 1.)yield stress 2.)ultimate tensile stress 3.) percentage reduction in area 4.) percentage elongation
+
 clc
 //solution
 //given

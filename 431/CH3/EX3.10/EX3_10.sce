@@ -24,6 +24,4 @@ printf("I5=%dA",I5)
 Ip=(I5*V2)/V1;
 printf("\nThe current drawn by the primary from 6600Vmains is equal to,Ip=%fA",Ip);
 phi=atand(Iv/Ih);
-printf("\n
-power factor=%flagging",cosd(phi))
-
+printf("\npower factor=%flagging",cosd(phi))

@@ -1,4 +1,4 @@
-//find max noraml and shear stress
+
 clc
 //solution
 //given

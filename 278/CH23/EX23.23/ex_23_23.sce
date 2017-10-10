@@ -20,5 +20,5 @@ t=10//mm
 b1=87.5*1000/(n*t^2)
 printf("width using bending stress is,%f mm\n",b1)
 b2=0.82*10^6/(n*t^3)
-printf("width using deflection is,%f mm\n",b2)'
+printf("width using deflection is,%f mm\n",b2)
 printf("taking larger value 87.5 mm into account...")

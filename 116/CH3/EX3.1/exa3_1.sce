@@ -1,4 +1,4 @@
-//Caption:Program to calculate quantization interval and bits needed to encode each sample
+
  
 //Example 3.1
  

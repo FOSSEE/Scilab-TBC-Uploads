@@ -12,7 +12,7 @@ clc;
 T = 1000;//Temperature in K
 P1 = 2;//Pressure in atm
 del_F = 4580;//Standard free energy in Kcal/Kgmole
-
+R = 1.98;
 
 //To Calculate the maximum CH4 concentration under the condition of 2 atm and the  quantity of methane obtained if pressure is 1 atm
 Ka = %e^(-del_F/(R*T));//Equilibrium constant

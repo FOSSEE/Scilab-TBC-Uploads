@@ -9,7 +9,7 @@ f = 50; // in Hz
 //calculation:
 XL = 2*%pi*f*L
 Z = (R^2 + XL^2)^0.5
-I = V/Z
+I = Vac/Z
 VL = I*XL
 VR = I*R
 phid = atan(XL/R)*180/%pi

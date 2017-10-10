@@ -1,3 +1,6 @@
+function a = parallel(b,c)
+a = b*c/(b+c)
+endfunction
 V=10*%i
 w=1000
 R=2
@@ -9,7 +12,7 @@ Xc=1/(w*C*%i)
 Zeq=Xl+Xc+parallel(R,Xl)
 disp(Zeq)
 
-I=V/Z
+I=V/Zeq
 Ir=I*Xl/(R+Xl)
 Il2=I-Ir
 Vl=I*Xl

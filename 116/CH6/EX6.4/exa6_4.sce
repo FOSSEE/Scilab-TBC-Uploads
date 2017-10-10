@@ -1,16 +1,12 @@
 
-//Caption: Program to determine system gain of 10Mbps, 2Ghz digital microwave repeater using 4 PSK modulation
- 
+
 //Example 6.4
  
 //Page 325
  
 //Refer to figure 6.17 on page 300
  
-disp('From figure, Eb/N0 for 4 psk modulation can be determined 10.7 dB.')
 
-//Using equation 3.24 from Appendix C
- 
 disp('SNR detector is 3dB higher than Eb/N0, therefore')
 
 snr=13.7//SNR=13.7dB

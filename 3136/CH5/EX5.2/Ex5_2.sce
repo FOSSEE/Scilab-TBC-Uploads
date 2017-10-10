@@ -1,4 +1,4 @@
-clear all; clc;
+clear; clc;
 
 disp("a)")
 disp("Convert: 1) Q=5 m^3/s=10595 cfm")
@@ -8,7 +8,7 @@ disp("3) SP=deltap/(rhow*g)")
 delta_ps=500
 rho_w=1000
 g=9.8
-SP=delta_p/(rho_w*g)
+SP=delta_ps/(rho_w*g)
 printf("Hence SP = %0.3f m",SP)
 disp("Thus SP= 2.01 in.wg.")
 
@@ -137,27 +137,4 @@ CFM=10595
 Dt=0.35*(CFM^0.5)/(SP^0.25)
 printf("\nHence the value of Dt= %0.1f in",D_t)
 disp("On converting,Dt=0.77m")
-disp("It is close to what we have. However, some alternative design maybe performed with the selection of a little higher hub-tip ratio v and other availabe airfoil sections")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+disp("It is close to what we have. However, some alternative design maybe performed with the selection of a little higher hub-tip ratio v and other available airfoil sections")

@@ -1,6 +1,7 @@
 //CHAPTER 6- MAGNETIC CIRCUITS
 //Example 4
 
+clc;
 disp("CHAPTER 6");
 disp("EXAMPLE 4");
 
@@ -25,15 +26,15 @@ disp(sprintf("(a) MMF is %d Gilberts",mmf));
 //solution (b)
 //tot reluctance = iron reluctance + air gap reluctance(mur=1 for air)
 totR=(li/(area*mu0*mui))+(lg/(area*mu0*1)); 
-disp(sprintf("(b) The total reluctance is %.3E Gilberts/Maxwell",totR));
+disp(sprintf("(b) The total reluctance is %E Gilberts/Maxwell",totR));
 
 //solution (c)
 phi=mmf/totR;
-disp(sprintf("(c) The flux in the circuit is %.3f Maxwell",phi));
+disp(sprintf("(c) The flux in the circuit is %f Maxwell",phi));
  
 //solution (d)
 b=phi/area;
-disp(sprintf("(d) The flux density in the circuit is %.3f Gauss",b));
+disp(sprintf("(d) The flux density in the circuit is %f Gauss",b));
 
 //Answers of (b), (c) & (d) are different because absolute permeability is not included in (b)
 

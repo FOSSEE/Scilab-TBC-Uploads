@@ -2,7 +2,13 @@
 //P.Ramakrishna Rao
 //Sampling of signal
 clc;
-clear f n X X_delta w;
+clear
+function [y]=delta(t)
+    if t==0
+    y=1
+else y=0
+    end
+endfunction
 fs=200;
 for f=-200:200
     X(f+201)=5*[delta(f-75)+delta(f+75)];
@@ -11,7 +17,7 @@ figure(1);
 f=-200:200;
 plot2d3(f,X,-2);
 title('X(f)');
-xlabel('--->  f');
+xlabel('---&gt;  f');
 w=1;
 n=-1;
     for f=-275:275
@@ -30,4 +36,4 @@ figure(2);
 f=-275:275;
 plot2d3(f,X_delta,-2);
 title('X_delta(f) at fs=200');
-xlabel('--->  f');
+xlabel('---&gt;  f');

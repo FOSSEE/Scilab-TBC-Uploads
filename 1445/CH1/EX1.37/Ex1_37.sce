@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 37
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 37");
 
@@ -29,7 +30,7 @@ req2=req1+r4;
 req3=(req2*r6)/(req2+r6); 
 rth=req3+r2;
 vab1=(vth*r3)/(rth+r3); 
-disp(sprintf("By Thevenin Theorem, the value of Vab is %.2f V",vab1));
+disp(sprintf("By Thevenins Theorem, the value of Vab is %f V",vab1));
 
 //solution (ii): using Norton's Theorem
 //(13)v1+(-7)v2=270.........eq (1)  //applying nodal analysis at node 1
@@ -44,11 +45,11 @@ req2=req1+r4;
 req3=(req2*r6)/(req2+r6);
 rN=req3+r2;
 if(v1>v2) then
-In=(v1-v2)/r2;
+IN=(v1-v2)/r2;
 else
 IN=(v2-v1)/r2;
 end;
 vab2=(r3*IN)*(rN/(rth+r3)); 
-disp(sprintf("By Norton Theorem, the value of Vab is %.2f V",vab2));
+disp(sprintf("By Nortons Theorem, the value of Vab is %f V",vab2));
 
 //END

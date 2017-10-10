@@ -1,4 +1,4 @@
-//find stress corresponding to max inst extesnion and value of unkown weight
+
 clc
 //solution
 //given

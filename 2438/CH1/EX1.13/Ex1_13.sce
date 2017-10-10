@@ -19,5 +19,5 @@ clear;
 //result
 
 mprintf('lattice constant=%3.4f Å\n',d);
-mprint('Note:calulation mistake in textbook)
+mprintf('Note: calculation mistake in textbook')
 //======================================================================

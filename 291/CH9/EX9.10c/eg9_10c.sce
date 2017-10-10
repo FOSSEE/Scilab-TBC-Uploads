@@ -40,5 +40,4 @@ ts = sqrt((n-k-2)/SSR)*B(2)/0.616;
 pvalue = 2*(1- cdft("PQ",ts, n-k-2 ));
 disp(pvalue, "The p-value is")
 
-The SSR calculated by scilab is 19.34 whereas the textbook gives the value as 19.26 , thus the 
-difference in the final answer.
+//The SSR calculated by scilab is 19.34 whereas the textbook gives the value as 19.26 , thus the difference in the final answer.

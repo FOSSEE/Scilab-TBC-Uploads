@@ -17,7 +17,7 @@ nu_ac=nu/0.823;//Kinematic viscosity at pressure 0.823 atm[m^2/s]
 L1=6;//Characteristic length of plate along the flow of air[m]
 w1=1.5;//width[m]
 ReL1=(v*L1)/nu_ac;//Reynolds number
-if(ReL1>ReC) then,
+if(ReL1&gt;ReC) then,
     disp("Flow is not laminar")
     //We have average Nusselt Number
     Nu1=((0.037*(ReL1^(0.8)))-871)*(Pr^(1/3));
@@ -32,13 +32,4 @@ end
 //Solution(b)
 L2=1.5;//Characteristic length of plate along flow of air[m]
 ReL2=v*L2/nu_ac;//Reynolds Number
-if(ReL2<Rec) then,
-    disp("Flow is laminar")
-    Nu2=0.664*(ReL2^(0.5))*(Pr^(1/3));
-    disp(ceil(Nu2),"Nusselt Number is")
-    h2=k*Nu2/L2;//[W/m^2.degree Celcius]
-    Q2=h2*As1*(T_plate-T_air);
-    disp("W",ceil(Q2),"The heat transfer rate is")
-else,
-    disp("Flow is turbulent")
-end
+if(ReL2<ReC) then,="" disp("flow="" is="" laminar")="" nu2="0.664*(ReL2^(0.5))*(Pr^(1/3));" disp(ceil(nu2),"nusselt="" number="" is")="" h2="k*Nu2/L2;//[W/m^2.degree" celcius]="" q2="h2*As1*(T_plate-T_air);" disp("w",ceil(q2),"the="" heat="" transfer="" rate="" else,="" turbulent")="" end="" <="" div=""></rec)>

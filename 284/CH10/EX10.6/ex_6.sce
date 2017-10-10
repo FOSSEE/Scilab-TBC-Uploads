@@ -1,6 +1,7 @@
 // Chapter 10_Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor
 //Caption_Threshold voltage voltage
 //Ex_6//page 448
+e = 1.6*10^-19;
 tox=650*10^-8
 eps=11.7*8.85*10^-14
 eps_ox=3.9*8.85*10^-14

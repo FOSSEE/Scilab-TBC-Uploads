@@ -1,4 +1,4 @@
-//find stiffness of spring,design bell crank lever
+
 clc
 //solution
 //given

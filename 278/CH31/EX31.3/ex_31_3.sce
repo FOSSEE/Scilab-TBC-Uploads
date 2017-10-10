@@ -52,7 +52,7 @@ printf("face width is,%f mm\n",b)
 NG=NW/vr
 T=P*60/(2*%pi*NG)//N-m
 WT=2*T*1000/Dg//N
-v=%pi*0.384*Ng/60//m/s
+v=%pi*0.384*NG/60//m/s
 Cv=6/(6+v)
 y1=0.154-(0.912/Tg)
 fo=84
@@ -62,14 +62,14 @@ printf("tangtial load actingi is %f N\n",Wt)
 printf("since it is more than load acting on gear ,so desing is safe\n")
 WD=Wt/Cv
 printf("dynamic load is,%f N\n",WD)
-printf("since WD>Wt,design is safe\n")
+printf("since WD&gt;Wt,design is safe\n")
 WS=168*b*%pi*m*y1
 printf("static loac is ,%f N\n",WS)
-printf("since WS>Wt,design is safe\n")
+printf("since WS&gt;Wt,design is safe\n")
 K=0.55
 WW=Dg*b*K'
 printf("wear laod is,%f N \n",WW)
-printf("since WW>Wt,design is safe\n")
+printf("since WW&gt;Wt,design is safe\n")
 rv=%pi*Dw*NW/cos(y)/1000
 u2=0.025+rv/18000
 //tan(q2)=u2
@@ -84,4 +84,3 @@ Qd=Qg
 //t2-t1=G
 G=Qg/45.4
 printf("temp diff is,%f degree C\n",G)
-

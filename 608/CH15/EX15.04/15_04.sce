@@ -5,7 +5,7 @@ Z = 40; // in ohms
 f = 50; // in Hz
 
 //calculation:
-C = 1/(2*%pi*f1*Z)
+C = 1/(2*%pi*f*Z)
 
 printf("\n\n Result \n\n") 
 printf("\n Capacitance,C = %.2E F ", C)

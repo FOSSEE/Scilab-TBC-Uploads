@@ -1,6 +1,7 @@
 //Section-4,Example-2,Page no.-I.22
 //To calculate the force constant and Bond length of the CO bond from the given data.
 clc;
+h=6.626*10^-34
 v_Qbar=2143.26
 v_0bar=v_Qbar
 c=3*10^10

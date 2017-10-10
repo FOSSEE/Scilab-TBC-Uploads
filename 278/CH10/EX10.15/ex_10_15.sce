@@ -1,4 +1,4 @@
-//find max shear stress
+
 clc
 //solution
 //given

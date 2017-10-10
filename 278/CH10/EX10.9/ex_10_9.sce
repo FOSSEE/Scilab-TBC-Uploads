@@ -1,4 +1,4 @@
-//find size of weld
+
 clc
 //solution
 //given

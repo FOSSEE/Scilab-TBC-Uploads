@@ -15,4 +15,4 @@ size(y)
 size(n)
 plot2d3(n,y);
 plot(n,y,'r.')
-disp([msprintf([n,y])]);
+disp([msprintf('%d %d\n',[n,y])]);

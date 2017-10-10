@@ -1,0 +1,78 @@
+10#Novel Reactors #10.2#Conversion as a function of No of Gauzes#Chapter10_Ex2_Output.txt#1040/CH10/EX10.2/Chapter10_Ex2_Output.txt#R##115413
+10#Novel Reactors #10.2#Conversion as a function of No of Gauzes#Ex10_2.sce#1040/CH10/EX10.2/Ex10_2.sce#S##116624
+10#Novel Reactors #10.1#Fraction unconverted naphthalene based on model II#Chapter10_Ex1_Output.txt#1040/CH10/EX10.1/Chapter10_Ex1_Output.txt#R##115411
+10#Novel Reactors #10.1#Fraction unconverted naphthalene based on model II#Ex10_1.sce#1040/CH10/EX10.1/Ex10_1.sce#S##116623
+9#Fluidized Bed Reactors#9.2#Model II Fraction unconverted naphthalene#Ex9_2.sce#1040/CH9/EX9.2/Ex9_2.sce#S##116622
+9#Fluidized Bed Reactors#9.2#Model II Fraction unconverted naphthalene#Chapter9_Ex2_Output.txt#1040/CH9/EX9.2/Chapter9_Ex2_Output.txt#R##115479
+9#Fluidized Bed Reactors#9.1#Model II Volumetric Mass Transfer Coefficient K#Chapter9_Ex1_Output.txt#1040/CH9/EX9.1/Chapter9_Ex1_Output.txt#R##115477
+9#Fluidized Bed Reactors#9.1#Model II Volumetric Mass Transfer Coefficient K#Ex9_1.sce#1040/CH9/EX9.1/Ex9_1.sce#S##116621
+8#Multiphase Reactors#8.3#Apparent rate constant and consistency#Chapter8_Ex3_Output.txt#1040/CH8/EX8.3/Chapter8_Ex3_Output.txt#R##115475
+8#Multiphase Reactors#8.3#Apparent rate constant and consistency#Ex8_3.sce#1040/CH8/EX8.3/Ex8_3.sce#S##116620
+8#Multiphase Reactors#8.2#External Mass Transfer resistance#Chapter8_Ex2_Output.txt#1040/CH8/EX8.2/Chapter8_Ex2_Output.txt#R##115473
+8#Multiphase Reactors#8.2#External Mass Transfer resistance#Ex8_2.sce#1040/CH8/EX8.2/Ex8_2.sce#S##116619
+8#Multiphase Reactors#8.1#Gas absorption coefficient and fraction of overall resistance#Chapter8_Ex1_Output.txt#1040/CH8/EX8.1/Chapter8_Ex1_Output.txt#R##115471
+8#Multiphase Reactors#8.1#Gas absorption coefficient and fraction of overall resistance#Ex8_1.sce#1040/CH8/EX8.1/Ex8_1.sce#S##116618
+7#Gas Liquid Reactions#7.7#Apparent value of kLa regime of operation and selectivity dependency on gas mixing#Ex7_7.sce#1040/CH7/EX7.7/Ex7_7.sce#S##116617
+7#Gas Liquid Reactions#7.7#Apparent value of kLa regime of operation and selectivity dependency on gas mixing#Chapter7_Ex7_Output.txt#1040/CH7/EX7.7/Chapter7_Ex7_Output.txt#R##115469
+7#Gas Liquid Reactions#7.6#Fraction of O2 Power of agitator kLa and average dissolved oxygen concentration#Ex7_6.sce#1040/CH7/EX7.6/Ex7_6.sce#S##116616
+7#Gas Liquid Reactions#7.6#Fraction of O2 Power of agitator kLa and average dissolved oxygen concentration#Chapter7_Ex6_Output.txt#1040/CH7/EX7.6/Chapter7_Ex6_Output.txt#R##115467
+7#Gas Liquid Reactions#7.5#Maximum rate of CO absorption  and Dimensions of Bubble Column Reactor#Chapter7_Ex5_Output.txt#1040/CH7/EX7.5/Chapter7_Ex5_Output.txt#R##115465
+7#Gas Liquid Reactions#7.5#Maximum rate of CO absorption  and Dimensions of Bubble Column Reactor#Ex7_5.sce#1040/CH7/EX7.5/Ex7_5.sce#S##116615
+7#Gas Liquid Reactions#7.4#Local selectivity due to mass transfer limitations#Chapter7_Ex4_Output.txt#1040/CH7/EX7.4/Chapter7_Ex4_Output.txt#R##115463
+7#Gas Liquid Reactions#7.4#Local selectivity due to mass transfer limitations#Ex7_4.sce#1040/CH7/EX7.4/Ex7_4.sce#S##116614
+7#Gas Liquid Reactions#7.3#Overall mass transfer coefficient and percent resistance#Chapter7_Ex3_Output.txt#1040/CH7/EX7.3/Chapter7_Ex3_Output.txt#R##115461
+7#Gas Liquid Reactions#7.3#Overall mass transfer coefficient and percent resistance#Ex7_3.sce#1040/CH7/EX7.3/Ex7_3.sce#S##116613
+7#Gas Liquid Reactions#7.2#The gradient for B in the liquid film#Chapter7_Ex2_Output.txt#1040/CH7/EX7.2/Chapter7_Ex2_Output.txt#R##115459
+7#Gas Liquid Reactions#7.2#The gradient for B in the liquid film#Ex7_2.sce#1040/CH7/EX7.2/Ex7_2.sce#S##116612
+7#Gas Liquid Reactions#7.1#Overall Reaction Rate Coefficient Percent Resistance Reaction Volume and Reactor Size#Chapter7_Ex1_Output.txt#1040/CH7/EX7.1/Chapter7_Ex1_Output.txt#R##115457
+7#Gas Liquid Reactions#7.1#Overall Reaction Rate Coefficient Percent Resistance Reaction Volume and Reactor Size#Ex7_1.sce#1040/CH7/EX7.1/Ex7_1.sce#S##116611
+6#Nonideal Flow#6.4#Conversion in packed bed for same superficial velocity#Ex6_4.sce#1040/CH6/EX6.4/Ex6_4.sce#S##116610
+6#Nonideal Flow#6.4#Conversion in packed bed for same superficial velocity#Chapter6_Ex4_Output.txt#1040/CH6/EX6.4/Chapter6_Ex4_Output.txt#R##115455
+6#Nonideal Flow#6.3#Effect of Axial dispersion and length on conversion#Ex6_3.sce#1040/CH6/EX6.3/Ex6_3.sce#S##116609
+6#Nonideal Flow#6.3#Effect of Axial dispersion and length on conversion#Chapter6_Ex3_Output.txt#1040/CH6/EX6.3/Chapter6_Ex3_Output.txt#R##115453
+6#Nonideal Flow#6.2#Effect of diffusion on conversion for laminar flow#Ex6_2.sce#1040/CH6/EX6.2/Ex6_2.sce#S##116608
+6#Nonideal Flow#6.2#Effect of diffusion on conversion for laminar flow#Chapter6_Ex2_Output.txt#1040/CH6/EX6.2/Chapter6_Ex2_Output.txt#R##115451
+6#Nonideal Flow#6.1#Power Consumption at 300 rpm speed of stirrer and blending time#Chapter6_Ex1_Output.txt#1040/CH6/EX6.1/Chapter6_Ex1_Output.txt#R##115449
+6#Nonideal Flow#6.1#Power Consumption at 300 rpm speed of stirrer and blending time#Ex6_1.sce#1040/CH6/EX6.1/Ex6_1.sce#S##116607
+5#Heat and Mass Transfer in Reactors #5.3#Overall heat transfer coefficients and radial average bed temperature for packed bed reactor#Ex5_3.sce#1040/CH5/EX5.3/Ex5_3.sce#S##116606
+5#Heat and Mass Transfer in Reactors #5.3#Overall heat transfer coefficients and radial average bed temperature for packed bed reactor#Chapter5_Ex3_Output.txt#1040/CH5/EX5.3/Chapter5_Ex3_Output.txt#R##115447
+5#Heat and Mass Transfer in Reactors #5.2#Maximum internal temperature difference#Ex5_2.sce#1040/CH5/EX5.2/Ex5_2.sce#S##116605
+5#Heat and Mass Transfer in Reactors #5.2#Maximum internal temperature difference#Chapter5_Ex2_Output.txt#1040/CH5/EX5.2/Chapter5_Ex2_Output.txt#R##115445
+5#Heat and Mass Transfer in Reactors #5.1#Temperature Profiles for tubular reactor#Ex5_1.sce#1040/CH5/EX5.1/Ex5_1.sce#S##116604
+5#Heat and Mass Transfer in Reactors #5.1#Temperature Profiles for tubular reactor#Chapter5_Ex1_Plot_1.pdf#1040/CH5/EX5.1/Chapter5_Ex1_Plot_1.pdf#R##115442
+5#Heat and Mass Transfer in Reactors #5.1#Temperature Profiles for tubular reactor#Chapter5_Ex1_Plot_2.pdf#1040/CH5/EX5.1/Chapter5_Ex1_Plot_2.pdf#R##115443
+4#Diffusion and Reaction in Porous Catalysts#4.5#The optimum pore size distribution for a spherical pellet#Ex4_5.sce#1040/CH4/EX4.5/Ex4_5.sce#S##116603
+4#Diffusion and Reaction in Porous Catalysts#4.5#The optimum pore size distribution for a spherical pellet#Chapter4_Ex5_Output.txt#1040/CH4/EX4.5/Chapter4_Ex5_Output.txt#R##115439
+4#Diffusion and Reaction in Porous Catalysts#4.4#Effectiveness factor for solid catalyzed reaction#Chapter4_Ex4_Output.txt#1040/CH4/EX4.4/Chapter4_Ex4_Output.txt#R##115437
+4#Diffusion and Reaction in Porous Catalysts#4.4#Effectiveness factor for solid catalyzed reaction#Ex4_4.sce#1040/CH4/EX4.4/Ex4_4.sce#S##116602
+4#Diffusion and Reaction in Porous Catalysts#4.3#Influence of Pore diffusion over rate#Chapter4_Ex3_Output.txt#1040/CH4/EX4.3/Chapter4_Ex3_Output.txt#R##115435
+4#Diffusion and Reaction in Porous Catalysts#4.3#Influence of Pore diffusion over rate#Ex4_3.sce#1040/CH4/EX4.3/Ex4_3.sce#S##116601
+4#Diffusion and Reaction in Porous Catalysts#4.2#Effective diffusivity of O2 in air#Chapter4_Ex2_Output.txt#1040/CH4/EX4.2/Chapter4_Ex2_Output.txt#R##115433
+4#Diffusion and Reaction in Porous Catalysts#4.2#Effective diffusivity of O2 in air#Ex4_2.sce#1040/CH4/EX4.2/Ex4_2.sce#S##116600
+4#Diffusion and Reaction in Porous Catalysts#4.1#Diffusivity of Chlorine and tortuosity in catalyst pellet#Chapter4_Ex1_Output.txt#1040/CH4/EX4.1/Chapter4_Ex1_Output.txt#R##115431
+4#Diffusion and Reaction in Porous Catalysts#4.1#Diffusivity of Chlorine and tortuosity in catalyst pellet#Ex4_1.sce#1040/CH4/EX4.1/Ex4_1.sce#S##116599
+3#Ideal Reactors#3.7#Equilibrium temperature as a function of conversion and optimum feed temperature#Ex3_7.sce#1040/CH3/EX3.7/Ex3_7.sce#S##116598
+3#Ideal Reactors#3.7#Equilibrium temperature as a function of conversion and optimum feed temperature#Chapter3_Ex7_Output.txt#1040/CH3/EX3.7/Chapter3_Ex7_Output.txt#R##115428
+3#Ideal Reactors#3.7#Equilibrium temperature as a function of conversion and optimum feed temperature#Chapter3_Ex7_Plot_1.pdf#1040/CH3/EX3.7/Chapter3_Ex7_Plot_1.pdf#R##115429
+3#Ideal Reactors#3.6#Optimum reaction temperature#Chapter3_Ex6_Output.txt#1040/CH3/EX3.6/Chapter3_Ex6_Output.txt#R##115426
+3#Ideal Reactors#3.6#Optimum reaction temperature#Ex3_6.sce#1040/CH3/EX3.6/Ex3_6.sce#S##116597
+3#Ideal Reactors#3.5#Rate Equation to fit Initial Rate data#Ex3_5.sce#1040/CH3/EX3.5/Ex3_5.sce#S##116596
+3#Ideal Reactors#3.5#Rate Equation to fit Initial Rate data#Chapter3_Ex5_Output.txt#1040/CH3/EX3.5/Chapter3_Ex5_Output.txt#R##115423
+3#Ideal Reactors#3.5#Rate Equation to fit Initial Rate data#Chapter3_Ex5_Plot_1.pdf#1040/CH3/EX3.5/Chapter3_Ex5_Plot_1.pdf#R##115424
+3#Ideal Reactors#3.4#Volume of reactor for Gas Phase isothermal reaction#Ex3_4.sce#1040/CH3/EX3.4/Ex3_4.sce#S##116595
+3#Ideal Reactors#3.4#Volume of reactor for Gas Phase isothermal reaction#Chapter3_Ex4_Output.txt#1040/CH3/EX3.4/Chapter3_Ex4_Output.txt#R##115421
+3#Ideal Reactors#3.3#Effect of temperature on yield#Chapter3_Ex3_Output.txt#1040/CH3/EX3.3/Chapter3_Ex3_Output.txt#R##115419
+3#Ideal Reactors#3.3#Effect of temperature on yield#Ex3_3.sce#1040/CH3/EX3.3/Ex3_3.sce#S##116594
+3#Ideal Reactors#3.2#Residence time and heat generation for four STR s in series#Chapter3_Ex2_Output.txt#1040/CH3/EX3.2/Chapter3_Ex2_Output.txt#R##115417
+3#Ideal Reactors#3.2#Residence time and heat generation for four STR s in series#Ex3_2.sce#1040/CH3/EX3.2/Ex3_2.sce#S##116593
+3#Ideal Reactors#3.1#Time to reach desired conversion for bimolecular batch reaction#Chapter3_Ex1_Output.txt#1040/CH3/EX3.1/Chapter3_Ex1_Output.txt#R##115415
+3#Ideal Reactors#3.1#Time to reach desired conversion for bimolecular batch reaction#Ex3_1.sce#1040/CH3/EX3.1/Ex3_1.sce#S##116592
+2#Kinetic Models for Heterogeneous Reactions#2.1#Effectiveness factor for solid catalyzed reaction#Chapter2_Ex1_Plot_1.pdf#1040/CH2/EX2.1/Chapter2_Ex1_Plot_1.pdf#R##115409
+2#Kinetic Models for Heterogeneous Reactions#2.1#Effectiveness factor for solid catalyzed reaction#Chapter2_Ex1_Output.txt#1040/CH2/EX2.1/Chapter2_Ex1_Output.txt#R##115408
+2#Kinetic Models for Heterogeneous Reactions#2.1#Effectiveness factor for solid catalyzed reaction#Ex2_1.sce#1040/CH2/EX2.1/Ex2_1.sce#S##116591
+1#Homogeneous Kinetics#1.5#Methods to determine km and vm#Chapter1_Ex5_Plot_1.pdf#1040/CH1/EX1.5/Chapter1_Ex5_Plot_1.pdf#R##115406
+1#Homogeneous Kinetics#1.5#Methods to determine km and vm#Chapter1_Ex5_Output.txt#1040/CH1/EX1.5/Chapter1_Ex5_Output.txt#R##115405
+1#Homogeneous Kinetics#1.5#Methods to determine km and vm#Ex1_5.sce#1040/CH1/EX1.5/Ex1_5.sce#S##116590
+1#Homogeneous Kinetics#1.4#Activation energy from packed bed data#Chapter1_Ex4_Plot.pdf#1040/CH1/EX1.4/Chapter1_Ex4_Plot.pdf#R##115403
+1#Homogeneous Kinetics#1.4#Activation energy from packed bed data#Chapter1_Ex4_Output.txt#1040/CH1/EX1.4/Chapter1_Ex4_Output.txt#R##115402
+1#Homogeneous Kinetics#1.4#Activation energy from packed bed data#Ex1_4.sce#1040/CH1/EX1.4/Ex1_4.sce#S##116589

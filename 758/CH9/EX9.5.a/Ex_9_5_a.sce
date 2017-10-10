@@ -7,6 +7,6 @@ H=pfss(Hz/z);
 for k=1:length(H)
     H(k)=clean(H(k));
     H1(k)=z*horner(H(k),z);
+disp(H1(k),'System Function for parallel realisation Hk(z)=');
 end
 disp(Hz,'System Function H(z)=');
-disp(H1,'System Function for parallel realisation Hk(z)=');

@@ -1,0 +1,171 @@
+13#Additional or supplement topics#13.4#capacitance and equivalent series#ex_13_4.sce#2096/CH13/EX13.4/ex_13_4.sce#S##70547
+13#Additional or supplement topics#13.3#effective impedence#ex_13_3.sce#2096/CH13/EX13.3/ex_13_3.sce#S##75124
+13#Additional or supplement topics#13.2#resistance and inductance#ex_13_2.sce#2096/CH13/EX13.2/ex_13_2.sce#S##70545
+13#Additional or supplement topics#13.1#resistance and inductance#ex_13_1.sce#2096/CH13/EX13.1/ex_13_1.sce#S##70544
+12#measurement of non electrical quantities#12.8#speed of sub marine#ex_12_8.sce#2096/CH12/EX12.8/ex_12_8.sce#S##75122
+12#measurement of non electrical quantities#12.7#flow rate#ex_12_7.sce#2096/CH12/EX12.7/ex_12_7.sce#S##70542
+12#measurement of non electrical quantities#12.6#differecne in pressure head#ex_12_6.sce#2096/CH12/EX12.6/ex_12_6.sce#S##75123
+12#measurement of non electrical quantities#12.5#rate of flow#ex_12_5.sce#2096/CH12/EX12.5/ex_12_5.sce#S##70540
+12#measurement of non electrical quantities#12.4#water flow rate#ex_12_4.sce#2096/CH12/EX12.4/ex_12_4.sce#S##70539
+12#measurement of non electrical quantities#12.1.b#percentage change#ex_12_1_b.sce#2096/CH12/EX12.1.b/ex_12_1_b.sce#S##70538
+8#signal conditioning#8.2#total gain and resultant gain#EX_8_2.sce#2096/CH8/EX8.2/EX_8_2.sce#S##70537
+8#signal conditioning#8.1#total voltage gain#EX_8_1.sce#2096/CH8/EX8.1/EX_8_1.sce#S##70536
+7#sensors and transducers#7.9#force#ex_7_9.sce#2096/CH7/EX7.9/ex_7_9.sce#S##70523
+7#sensors and transducers#7.8#voltage output and charge sensivity#ex_7_8.sce#2096/CH7/EX7.8/ex_7_8.sce#S##75118
+7#sensors and transducers#7.7.c#original capacitance and change in capacitance#ex_7_7_c.sce#2096/CH7/EX7.7.c/ex_7_7_c.sce#S##70521
+7#sensors and transducers#7.7.b#change in capacitance#ex_7_7_b.sce#2096/CH7/EX7.7.b/ex_7_7_b.sce#S##70520
+7#sensors and transducers#7.7.a#capacitance#ex_7_7_a.sce#2096/CH7/EX7.7.a/ex_7_7_a.sce#S##70519
+7#sensors and transducers#7.6#sensivity and resolution#ex_7_6.sce#2096/CH7/EX7.6/ex_7_6.sce#S##70517
+7#sensors and transducers#7.5#linearity#ex_7_5.sce#2096/CH7/EX7.5/ex_7_5.sce#S##70516
+7#sensors and transducers#7.4#inductance#ex_7_4.sce#2096/CH7/EX7.4/ex_7_4.sce#S##75117
+7#sensors and transducers#7.3#resistance#ex_7_3.sce#2096/CH7/EX7.3/ex_7_3.sce#S##75116
+7#sensors and transducers#7.22#sensivity#ex_7_22.sce#2096/CH7/EX7.22/ex_7_22.sce#S##70535
+7#sensors and transducers#7.21#principa strains principal stresses maximum shrea stress and princiole planes#ex_7_21.sce#2096/CH7/EX7.21/ex_7_21.sce#S##75121
+7#sensors and transducers#7.2#displacement and resolution#ex_7_2.sce#2096/CH7/EX7.2/ex_7_2.sce#S##70513
+7#sensors and transducers#7.19#modulus of elesticity and poissons ratio#ex_7_19.sce#2096/CH7/EX7.19/ex_7_19.sce#S##70533
+7#sensors and transducers#7.18#longitudinal and hoop stresses#ex_7_18.sce#2096/CH7/EX7.18/ex_7_18.sce#S##70532
+7#sensors and transducers#7.17#axial strain#ex_7_17.sce#2096/CH7/EX7.17/ex_7_17.sce#S##70531
+7#sensors and transducers#7.16#strain#ex_7_16.sce#2096/CH7/EX7.16/ex_7_16.sce#S##70530
+7#sensors and transducers#7.15#change in length and amount of force#ex_7_15.sce#2096/CH7/EX7.15/ex_7_15.sce#S##70529
+7#sensors and transducers#7.14#change in resistance#ex_7_14.sce#2096/CH7/EX7.14/ex_7_14.sce#S##70528
+7#sensors and transducers#7.13#poissons ratio#ex_7_13.sce#2096/CH7/EX7.13/ex_7_13.sce#S##70527
+7#sensors and transducers#7.12#voltage#ex_7_12.sce#2096/CH7/EX7.12/ex_7_12.sce#S##75120
+7#sensors and transducers#7.11#hall angle#ex_7_11.sce#2096/CH7/EX7.11/ex_7_11.sce#S##70525
+7#sensors and transducers#7.10#strain charge and capacitance#ex_7_10.sce#2096/CH7/EX7.10/ex_7_10.sce#S##75119
+6#instrument transformers#6.9#ratio error and phase angle#EX_6_9.sce#2096/CH6/EX6.9/EX_6_9.sce#S##70331
+6#instrument transformers#6.8#current nd phase angle error#EX_6_8.sce#2096/CH6/EX6.8/EX_6_8.sce#S##70330
+6#instrument transformers#6.7#actual ratio and phase angle error#EX_6_7.sce#2096/CH6/EX6.7/EX_6_7.sce#S##75115
+6#instrument transformers#6.6#actual ratio and phase angle#EX_6_6.sce#2096/CH6/EX6.6/EX_6_6.sce#S##70328
+6#instrument transformers#6.5#primary winding current actual transformation ration and number of turns#EX_6_5.sce#2096/CH6/EX6.5/EX_6_5.sce#S##70327
+6#instrument transformers#6.4#ratio error and phase angle error#EX_6_4.sce#2096/CH6/EX6.4/EX_6_4.sce#S##70326
+6#instrument transformers#6.3#flux and ratio error#EX_6_3.sce#2096/CH6/EX6.3/EX_6_3.sce#S##70325
+6#instrument transformers#6.2#ratio error and phase angle#EX_6_2.sce#2096/CH6/EX6.2/EX_6_2.sce#S##70324
+6#instrument transformers#6.11# ratio and phase angle error#EX_6_11.sce#2096/CH6/EX6.11/EX_6_11.sce#S##70333
+6#instrument transformers#6.10#phase angle error and burden in VA#EX_6_10.sce#2096/CH6/EX6.10/EX_6_10.sce#S##75114
+6#instrument transformers#6.1#actual transformation ratio phase angle and maximum flux density#EX_6_1.sce#2096/CH6/EX6.1/EX_6_1.sce#S##70323
+5#Digital Instruments#5.3#resolution#ex_5_3.sce#2096/CH5/EX5.3/ex_5_3.sce#S##70322
+5#Digital Instruments#5.2#possible error#ex_5_2.sce#2096/CH5/EX5.2/ex_5_2.sce#S##70321
+5#Digital Instruments#5.1#frequency of the system#ex_5_1.sce#2096/CH5/EX5.1/ex_5_1.sce#S##70320
+2#electronic instruments#2.9#voltage#ex_2_9.sce#2096/CH2/EX2.9/ex_2_9.sce#S##75092
+2#electronic instruments#2.8#density of the magnetic field#ex_2_8.sce#2096/CH2/EX2.8/ex_2_8.sce#S##70292
+2#electronic instruments#2.7#beam speed#ex_2_7.sce#2096/CH2/EX2.7/ex_2_7.sce#S##75091
+2#electronic instruments#2.6#deflection sensivity#ex_2_6.sce#2096/CH2/EX2.6/ex_2_6.sce#S##75089
+2#electronic instruments#2.5#deflection voltage#ex_2_5.sce#2096/CH2/EX2.5/ex_2_5.sce#S##75090
+2#electronic instruments#2.4#input voltage#ex_2_4.sce#2096/CH2/EX2.4/ex_2_4.sce#S##75088
+2#electronic instruments#2.35#self capacitance and inductance#EX_2_35.sce#2096/CH2/EX2.35/EX_2_35.sce#S##70319
+2#electronic instruments#2.34#Q factor and effective resistance#ex_2_34.sce#2096/CH2/EX2.34/ex_2_34.sce#S##70318
+2#electronic instruments#2.33#inductance and resistance#ex_2_33.sce#2096/CH2/EX2.33/ex_2_33.sce#S##70317
+2#electronic instruments#2.32#inductance and capacitance#ex_2_32.sce#2096/CH2/EX2.32/ex_2_32.sce#S##75105
+2#electronic instruments#2.31#resistance and inductance#ex_2_31.sce#2096/CH2/EX2.31/ex_2_31.sce#S##75103
+2#electronic instruments#2.30#self capacitance#ex_2_30.sce#2096/CH2/EX2.30/ex_2_30.sce#S##70314
+2#electronic instruments#2.3#error#ex_2_3.sce#2096/CH2/EX2.3/ex_2_3.sce#S##70287
+2#electronic instruments#2.29#percentage error#ex_2_29.sce#2096/CH2/EX2.29/ex_2_29.sce#S##70313
+2#electronic instruments#2.28#resistive and reactive components of unknow impedence#ex_2_28.sce#2096/CH2/EX2.28/ex_2_28.sce#S##70312
+2#electronic instruments#2.27#distributed capacitance#ex_2_27.sce#2096/CH2/EX2.27/ex_2_27.sce#S##70311
+2#electronic instruments#2.26#distributed capacitance#ex_2_26.sce#2096/CH2/EX2.26/ex_2_26.sce#S##70310
+2#electronic instruments#2.25#capacitance power factor and relative permittivity#EX_2_25.sce#2096/CH2/EX2.25/EX_2_25.sce#S##70309
+2#electronic instruments#2.24#resistance and inductance#EX_2_24.sce#2096/CH2/EX2.24/EX_2_24.sce#S##75102
+2#electronic instruments#2.23#constant of Zx#EX_2_23.sce#2096/CH2/EX2.23/EX_2_23.sce#S##75100
+2#electronic instruments#2.22#constants of arm CD#EX_2_22.sce#2096/CH2/EX2.22/EX_2_22.sce#S##75099
+2#electronic instruments#2.21#resistance and capacitance#EX_2_21.sce#2096/CH2/EX2.21/EX_2_21.sce#S##70305
+2#electronic instruments#2.20#equivalent parralel resistance and capacitance#EX_2_20.sce#2096/CH2/EX2.20/EX_2_20.sce#S##70304
+2#electronic instruments#2.2#error#ex_2_2.sce#2096/CH2/EX2.2/ex_2_2.sce#S##70286
+2#electronic instruments#2.19#resistance capacitance and dissioation factor#EX_2_19.sce#2096/CH2/EX2.19/EX_2_19.sce#S##70303
+2#electronic instruments#2.18#series euivalent of unknown inductance and resistance#EX_2_18.sce#2096/CH2/EX2.18/EX_2_18.sce#S##75098
+2#electronic instruments#2.17#series euivalent of unknown impedence#EX_2_17.sce#2096/CH2/EX2.17/EX_2_17.sce#S##70301
+2#electronic instruments#2.16#resistance and capacitance#EX_2_16.sce#2096/CH2/EX2.16/EX_2_16.sce#S##75097
+2#electronic instruments#2.15#constants of arm CD#EX_2_15.sce#2096/CH2/EX2.15/EX_2_15.sce#S##75096
+2#electronic instruments#2.14#constants of unknown arm#EX_2_14.sce#2096/CH2/EX2.14/EX_2_14.sce#S##70298
+2#electronic instruments#2.13#resistance#ex_2_13.sce#2096/CH2/EX2.13/ex_2_13.sce#S##70297
+2#electronic instruments#2.12#resistance#ex_2_12.sce#2096/CH2/EX2.12/ex_2_12.sce#S##75095
+2#electronic instruments#2.11#phase angles#ex_2_11.sce#2096/CH2/EX2.11/ex_2_11.sce#S##75093
+2#electronic instruments#2.10#peak to peak value amplitude and rms value of signal#ex_2_10.sce#2096/CH2/EX2.10/ex_2_10.sce#S##70294
+2#electronic instruments#2.1#ammeter current#ex_2_1.sce#2096/CH2/EX2.1/ex_2_1.sce#S##75087
+1#concepts of measurements and electromechanical instruments#1.9.b#deflection factor#ex_1_9_b.sce#2096/CH1/EX1.9.b/ex_1_9_b.sce#S##70106
+1#concepts of measurements and electromechanical instruments#1.9.a#sensivity#ex_1_9_a.sce#2096/CH1/EX1.9.a/ex_1_9_a.sce#S##70105
+1#concepts of measurements and electromechanical instruments#1.8#sensivity#ex_1_8.sce#2096/CH1/EX1.8/ex_1_8.sce#S##70104
+1#concepts of measurements and electromechanical instruments#1.75#kWh registered by the meter and percentage error#ex_1_75.sce#2096/CH1/EX1.75/ex_1_75.sce#S##70218
+1#concepts of measurements and electromechanical instruments#1.74#power#ex_1_74.sce#2096/CH1/EX1.74/ex_1_74.sce#S##70216
+1#concepts of measurements and electromechanical instruments#1.73#percentage error#ex_1_73.sce#2096/CH1/EX1.73/ex_1_73.sce#S##78955
+1#concepts of measurements and electromechanical instruments#1.72#percentage error#ex_1_72.sce#2096/CH1/EX1.72/ex_1_72.sce#S##75071
+1#concepts of measurements and electromechanical instruments#1.71#reading#ex_1_71.sce#2096/CH1/EX1.71/ex_1_71.sce#S##70211
+1#concepts of measurements and electromechanical instruments#1.70#true power power factor and line current#ex_1_70.sce#2096/CH1/EX1.70/ex_1_70.sce#S##70209
+1#concepts of measurements and electromechanical instruments#1.7#maximum static error#ex_1_7.sce#2096/CH1/EX1.7/ex_1_7.sce#S##75054
+1#concepts of measurements and electromechanical instruments#1.69#power factor#ex_1_69.sce#2096/CH1/EX1.69/ex_1_69.sce#S##70207
+1#concepts of measurements and electromechanical instruments#1.68#readings#ex_1_68.sce#2096/CH1/EX1.68/ex_1_68.sce#S##70205
+1#concepts of measurements and electromechanical instruments#1.67#percentage error#ex_1_67.sce#2096/CH1/EX1.67/ex_1_67.sce#S##70203
+1#concepts of measurements and electromechanical instruments#1.66#error#ex_1_66.sce#2096/CH1/EX1.66/ex_1_66.sce#S##75070
+1#concepts of measurements and electromechanical instruments#1.65#turning moment#ex_1_65.sce#2096/CH1/EX1.65/ex_1_65.sce#S##70199
+1#concepts of measurements and electromechanical instruments#1.64#current and voltage#ex_1_64.sce#2096/CH1/EX1.64/ex_1_64.sce#S##70197
+1#concepts of measurements and electromechanical instruments#1.63#voltmeater and ammeter reading#ex_1_63.sce#2096/CH1/EX1.63/ex_1_63.sce#S##70196
+1#concepts of measurements and electromechanical instruments#1.62#limiting error and standard deviation#ex_1_62.sce#2096/CH1/EX1.62/ex_1_62.sce#S##70193
+1#concepts of measurements and electromechanical instruments#1.61#constants and relationship#ex_1_61.sce#2096/CH1/EX1.61/ex_1_61.sce#S##70192
+1#concepts of measurements and electromechanical instruments#1.60#linear relation and standard deviation#ex_1_60.sce#2096/CH1/EX1.60/ex_1_60.sce#S##70189
+1#concepts of measurements and electromechanical instruments#1.6#maximum possible error and root square accuracy#ex_1_6.sce#2096/CH1/EX1.6/ex_1_6.sce#S##70102
+1#concepts of measurements and electromechanical instruments#1.59#rejected reading#ex_1_59.sce#2096/CH1/EX1.59/ex_1_59.sce#S##70187
+1#concepts of measurements and electromechanical instruments#1.58#precision index and false alarms#ex_1_58.sce#2096/CH1/EX1.58/ex_1_58.sce#S##70185
+1#concepts of measurements and electromechanical instruments#1.57#prescribed range#ex_1_57.sce#2096/CH1/EX1.57/ex_1_57.sce#S##70183
+1#concepts of measurements and electromechanical instruments#1.56#probability of error and number of readings#ex_1_56.sce#2096/CH1/EX1.56/ex_1_56.sce#S##78954
+1#concepts of measurements and electromechanical instruments#1.55#number of readings#ex_1_55.sce#2096/CH1/EX1.55/ex_1_55.sce#S##70179
+1#concepts of measurements and electromechanical instruments#1.54#readings#ex_1_54.sce#2096/CH1/EX1.54/ex_1_54.sce#S##70177
+1#concepts of measurements and electromechanical instruments#1.53#standard deviation and probability of error#ex_1_53.sce#2096/CH1/EX1.53/ex_1_53.sce#S##70175
+1#concepts of measurements and electromechanical instruments#1.52#arithematic mean average deviation standard deviation variance and probable error#ex_1_52.sce#2096/CH1/EX1.52/ex_1_52.sce#S##75069
+1#concepts of measurements and electromechanical instruments#1.51#mean standard deviation probable error of one reading and mean#ex_1_51.sce#2096/CH1/EX1.51/ex_1_51.sce#S##75067
+1#concepts of measurements and electromechanical instruments#1.50.d#variance#ex_1_50_d.sce#2096/CH1/EX1.50.d/ex_1_50_d.sce#S##70167
+1#concepts of measurements and electromechanical instruments#1.50.c#standard deviation#ex_1_50_c.sce#2096/CH1/EX1.50.c/ex_1_50_c.sce#S##70166
+1#concepts of measurements and electromechanical instruments#1.50.b#average deviation#ex_1_50_b.sce#2096/CH1/EX1.50.b/ex_1_50_b.sce#S##70164
+1#concepts of measurements and electromechanical instruments#1.50.a#arithemetic mean #ex_1_50_a.sce#2096/CH1/EX1.50.a/ex_1_50_a.sce#S##70157
+1#concepts of measurements and electromechanical instruments#1.5.b#possible error#ex_1_5_b.sce#2096/CH1/EX1.5.b/ex_1_5_b.sce#S##70101
+1#concepts of measurements and electromechanical instruments#1.5.a#percentage error#ex_1_5_a.sce#2096/CH1/EX1.5.a/ex_1_5_a.sce#S##70100
+1#concepts of measurements and electromechanical instruments#1.49#arithemetic mean average deviation standard deviation and variance#ex_1_49.sce#2096/CH1/EX1.49/ex_1_49.sce#S##70155
+1#concepts of measurements and electromechanical instruments#1.48.b#true power#ex_1_48_b.sce#2096/CH1/EX1.48.b/ex_1_48_b.sce#S##70153
+1#concepts of measurements and electromechanical instruments#1.47#magnitude of power and magnitude of limiting error#ex_1_47.sce#2096/CH1/EX1.47/ex_1_47.sce#S##70151
+1#concepts of measurements and electromechanical instruments#1.46#error#ex_1_46.sce#2096/CH1/EX1.46/ex_1_46.sce#S##70148
+1#concepts of measurements and electromechanical instruments#1.45#magnitude and limiting error of resistance#ex_1_45.sce#2096/CH1/EX1.45/ex_1_45.sce#S##70146
+1#concepts of measurements and electromechanical instruments#1.44#limiting error#ex_1_44.sce#2096/CH1/EX1.44/ex_1_44.sce#S##70145
+1#concepts of measurements and electromechanical instruments#1.43#limiting value and percent limiting error#ex_1_43.sce#2096/CH1/EX1.43/ex_1_43.sce#S##75065
+1#concepts of measurements and electromechanical instruments#1.42#limiting error#ex_1_42.sce#2096/CH1/EX1.42/ex_1_42.sce#S##70142
+1#concepts of measurements and electromechanical instruments#1.41#range of readings#ex_1_41.sce#2096/CH1/EX1.41/ex_1_41.sce#S##70141
+1#concepts of measurements and electromechanical instruments#1.40#expression output amplitude output frequency and phase lag#ex_1_40.sce#2096/CH1/EX1.40/ex_1_40.sce#S##70140
+1#concepts of measurements and electromechanical instruments#1.4.c#relative static error#ex_1_4_c.sce#2096/CH1/EX1.4.c/ex_1_4_c.sce#S##75053
+1#concepts of measurements and electromechanical instruments#1.4.b#static corrections#ex_1_4_b.sce#2096/CH1/EX1.4.b/ex_1_4_b.sce#S##75052
+1#concepts of measurements and electromechanical instruments#1.4.a#static errors#ex_1_4_a.sce#2096/CH1/EX1.4.a/ex_1_4_a.sce#S##70097
+1#concepts of measurements and electromechanical instruments#1.39#frequency range#ex_1_39.sce#2096/CH1/EX1.39/ex_1_39.sce#S##70139
+1#concepts of measurements and electromechanical instruments#1.38#determine the error#ex_1_38.sce#2096/CH1/EX1.38/ex_1_38.sce#S##70138
+1#concepts of measurements and electromechanical instruments#1.37#effective damping ratio and undamped natural frequency#ex_1_37.sce#2096/CH1/EX1.37/ex_1_37.sce#S##75063
+1#concepts of measurements and electromechanical instruments#1.36#natural frequency damping ratio damped natural frequency and time constant#ex_1_36.sce#2096/CH1/EX1.36/ex_1_36.sce#S##70136
+1#concepts of measurements and electromechanical instruments#1.35.a#damping ratio damped natural frequency static sensivity anf time constant#ex_1_35.sce#2096/CH1/EX1.35.a/ex_1_35.sce#S##70135
+1#concepts of measurements and electromechanical instruments#1.34.b#percentage reduction in mass#ex_1_34_b.sce#2096/CH1/EX1.34.b/ex_1_34_b.sce#S##70134
+1#concepts of measurements and electromechanical instruments#1.32#expression of output#ex_1_32.sce#2096/CH1/EX1.32/ex_1_32.sce#S##78956
+1#concepts of measurements and electromechanical instruments#1.31#output#ex_1_31.sce#2096/CH1/EX1.31/ex_1_31.sce#S##70133
+1#concepts of measurements and electromechanical instruments#1.30.b#time lag#ex_1_30_b.sce#2096/CH1/EX1.30.b/ex_1_30_b.sce#S##70132
+1#concepts of measurements and electromechanical instruments#1.30.a#maximum value of temperature #ex_1_30_a.sce#2096/CH1/EX1.30.a/ex_1_30_a.sce#S##70131
+1#concepts of measurements and electromechanical instruments#1.3.b#express the error as the function of true value and full scale deflection#ex_1_3_b.sce#2096/CH1/EX1.3.b/ex_1_3_b.sce#S##75050
+1#concepts of measurements and electromechanical instruments#1.3.a#absolute error and corrections#ex_1_3_a.sce#2096/CH1/EX1.3.a/ex_1_3_a.sce#S##75049
+1#concepts of measurements and electromechanical instruments#1.29#expression #ex_1_29.sce#2096/CH1/EX1.29/ex_1_29.sce#S##70130
+1#concepts of measurements and electromechanical instruments#1.28.b#phase shift and time lag#ex_1_28_b.sce#2096/CH1/EX1.28.b/ex_1_28_b.sce#S##70129
+1#concepts of measurements and electromechanical instruments#1.28.a#maximum and minimum values indicated by thermometer#ex_1_28_a.sce#2096/CH1/EX1.28.a/ex_1_28_a.sce#S##70128
+1#concepts of measurements and electromechanical instruments#1.27#time constant and time lag#ex_1_27.sce#2096/CH1/EX1.27/ex_1_27.sce#S##70127
+1#concepts of measurements and electromechanical instruments#1.26.b#time#ex_1_26_b.sce#2096/CH1/EX1.26.b/ex_1_26_b.sce#S##70126
+1#concepts of measurements and electromechanical instruments#1.26.a#variation in the indicated temperature#ex_1_26_a.sce#2096/CH1/EX1.26.a/ex_1_26_a.sce#S##70125
+1#concepts of measurements and electromechanical instruments#1.25.b#time lag#ex_1_25_b.sce#2096/CH1/EX1.25.b/ex_1_25_b.sce#S##70124
+1#concepts of measurements and electromechanical instruments#1.25.a#ratio of output to input#ex_1_25_a.sce#2096/CH1/EX1.25.a/ex_1_25_a.sce#S##70123
+1#concepts of measurements and electromechanical instruments#1.24#time altitude#ex_1_24.sce#2096/CH1/EX1.24/ex_1_24.sce#S##70122
+1#concepts of measurements and electromechanical instruments#1.23#time constant#ex_1_23.sce#2096/CH1/EX1.23/ex_1_23.sce#S##70121
+1#concepts of measurements and electromechanical instruments#1.22.b#indicated temperature#ex_1_22_b.sce#2096/CH1/EX1.22.b/ex_1_22_b.sce#S##75061
+1#concepts of measurements and electromechanical instruments#1.22.a#time constant#ex_1_22_a.sce#2096/CH1/EX1.22.a/ex_1_22_a.sce#S##70119
+1#concepts of measurements and electromechanical instruments#1.21#time domain equation and its value#ex_1_21.sce#2096/CH1/EX1.21/ex_1_21.sce#S##70118
+1#concepts of measurements and electromechanical instruments#1.20#time taken by the transducer#ex_1_20.sce#2096/CH1/EX1.20/ex_1_20.sce#S##70117
+1#concepts of measurements and electromechanical instruments#1.2#temperature#ex_1_2.sce#2096/CH1/EX1.2/ex_1_2.sce#S##75047
+1#concepts of measurements and electromechanical instruments#1.19#temperature indicated #ex_1_19.sce#2096/CH1/EX1.19/ex_1_19.sce#S##70116
+1#concepts of measurements and electromechanical instruments#1.18.b#thermometer reading#ex_1_18_b.sce#2096/CH1/EX1.18.b/ex_1_18_b.sce#S##75058
+1#concepts of measurements and electromechanical instruments#1.18.a#thermometer reading#ex_1_18_a.sce#2096/CH1/EX1.18.a/ex_1_18_a.sce#S##75057
+1#concepts of measurements and electromechanical instruments#1.15.b.ii#voltmeter and milliameter readings#ex_1_15_b_ii.sce#2096/CH1/EX1.15.b.ii/ex_1_15_b_ii.sce#S##70113
+1#concepts of measurements and electromechanical instruments#1.15.b.i#voltmeter and milliameter readings#ex_1_15_b_i.sce#2096/CH1/EX1.15.b.i/ex_1_15_b_i.sce#S##70112
+1#concepts of measurements and electromechanical instruments#1.14#temperature change#ex_1_14.sce#2096/CH1/EX1.14/ex_1_14.sce#S##75055
+1#concepts of measurements and electromechanical instruments#1.13#resolution#ex_1_13.sce#2096/CH1/EX1.13/ex_1_13.sce#S##70110
+1#concepts of measurements and electromechanical instruments#1.12#resolution#ex_1_12.sce#2096/CH1/EX1.12/ex_1_12.sce#S##70109
+1#concepts of measurements and electromechanical instruments#1.11#smallest change which can measured by transducer#ex_1_11.sce#2096/CH1/EX1.11/ex_1_11.sce#S##70108
+1#concepts of measurements and electromechanical instruments#1.10#deflection#ex_1_10.sce#2096/CH1/EX1.10/ex_1_10.sce#S##70107
+1#concepts of measurements and electromechanical instruments#1.1.b#static correction for the voltmeter#ex_1_1_b.sce#2096/CH1/EX1.1.b/ex_1_1_b.sce#S##75046
+1#concepts of measurements and electromechanical instruments#1.1.a#static error#ex_1_1_a.sce#2096/CH1/EX1.1.a/ex_1_1_a.sce#S##75044

@@ -10,7 +10,7 @@ b= 10 //in
 x= Sc*ratio*l/(Ss+Sc*ratio)
 As= b*x*(x/2)/((l-x)*ratio)
 Ina= (b*x^3/3)+ratio*As*(l-x)^2
-M= Sc*I/x
+M= Sc*Ina/x
 N= As/(%pi*(d/2)^2)
 //RESULTS
 printf ('Number of steel bars required= %.2f',N)

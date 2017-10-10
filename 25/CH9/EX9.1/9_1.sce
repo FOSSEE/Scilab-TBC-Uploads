@@ -12,12 +12,12 @@ plot2d(-x,y,style=2,rect=[-%pi,0,%pi,0.96])
 xtitle("k-beta diagram for first pass band ","beta*d","ko*d")
 y=3:0.001:4;
 x=acos(cos(y)-p.*y.*sin(y)); // x=ko*d; and y=beta*d;
+ko=(2*%pi*f)/c;
 subplot(2,1,2)
 plot2d(x,y,style=3,rect=[-%pi,3,%pi,4])
 plot2d(-x,y,style=3,rect=[-%pi,3,%pi,4])
 xtitle("k-beta diagram for second pass band ","beta*d","ko*d")
 bta=(acos(cos(ko*d)-p*ko*d*sin(ko*d)))/d;
-ko=(2*%pi*f)/c;
 vp=(ko*c)/150; // phase velocity.
 b=2*%pi*f*Co*Zo;
 A=cos(ko*d)-(b/2)*sin(ko*d);

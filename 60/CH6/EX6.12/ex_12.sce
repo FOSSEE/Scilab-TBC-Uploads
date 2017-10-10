@@ -1,15 +1,12 @@
-
-
-
-/Example 6.12
+//Example 6.12
 
 //Least squares approximation
 
 deff('[y]=f(x)','y=10-2*x+((x^2)/10)')
-//we seek the polynomial of degree <= 2 which minimizes
+//we seek the polynomial of degree &lt;= 2 which minimizes
 //sum(n=1 to 9)[fn-p(xn)]^2
 //we are dealing with scalar product with w(x)=1
-P0(x)=1
+P0x=1
 //hence
 s0=0;
 B=0;
@@ -36,7 +33,7 @@ x=poly(0,"x")
 y2=((x-B0)^2)-0.1166667
 //similarly calculate s2
 s2=0.05973332
-//p*(x)=(d0*)*P0(x)+(d1*)*P1(x)+(d2*)*P2(x)
+//p*(x)=(d0*)*P0x+(d1*)*P1(x)+(d2*)*P2(x)
 //d0*=d0,d1*=d1,d2*=d2 are least squares approximation
 //d0*=d0=sigma(n=1 to 6)[fn/6]      where fn=f(xn)
 
@@ -50,4 +47,3 @@ p=d0+d1*(x-B0)+d2*{[(x-B0)^2]-C1}
  c1=9.99998
 c2=-1.9999998
 c3=0.0999999
- 

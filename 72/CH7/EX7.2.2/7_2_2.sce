@@ -1,4 +1,4 @@
-//CAPTION:Charactristics_of_a_GaAs_Gunn_Diode
+
 //chapter_no.-7,  page_no.-298
 //Example_no.7-2-2
 clc;

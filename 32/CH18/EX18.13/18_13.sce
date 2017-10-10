@@ -1,6 +1,7 @@
 //pathname=get_absolute_file_path('18.13.sce')
 //filename=pathname+filesep()+'18.13-data.sci'
 //exec(filename)
+pv = 0.0255;
 //Relavite humidity;
 r=0.6
 //Saturation pressure(in bar):

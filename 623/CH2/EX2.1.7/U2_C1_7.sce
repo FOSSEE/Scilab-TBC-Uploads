@@ -13,22 +13,22 @@ lembda_Aluminium=ch/phi_Aluminium;                                              
 lembda_Barium=ch/phi_Barium;                                                    //Threshold wavelength of Barium (Å)
 lembda_Lithium=ch/phi_Lithium;                                                  //Threshold wavelength of Lithium (Å)
 
-if(lembda_Tantalum<8000&lembda_Tantalum>4000)then                               //Checking whether Threshold wavelength of Tantalum lies in visible range or not
+if(lembda_Tantalum < 8000 &  lembda_Tantalum > 4000)                               //Checking whether Threshold wavelength of Tantalum lies in visible range or not
     disp("Tantalum can be used for designing photocell")
 end
 
-if(lembda_Tungsten<8000&lembda_Tungsten>4000)then                               //Checking whether Threshold wavelength of Tungsten lies in visible range or not
+if(lembda_Tungsten < 8000 & lembda_Tungsten > 4000)                               //Checking whether Threshold wavelength of Tungsten lies in visible range or not
     disp("Tungsten can be used for designing photocell")
 end
 
-if(lembda_Aluminium<8000&lembda_Aluminium>4000)then                             //Checking whether Threshold wavelength of Aluminium lies in visible range or not
+if(lembda_Aluminium < 8000 &  lembda_Aluminium > 4000)                             //Checking whether Threshold wavelength of Aluminium lies in visible range or not
     disp("Aluminium can be used for designing photocell")
 end
 
-if(lembda_Barium<8000&lembda_Barium>4000)then                                   //Checking whether Threshold wavelength of Barium lies in visible range or not
+if(lembda_Barium < 8000 &  lembda_Barium > 4000)                                   //Checking whether Threshold wavelength of Barium lies in visible range or not
     disp("Barium can be used for designing photocell")
 end
 
-if(lembda_Lithium<8000&lembda_Lithium>4000)then                                 //Checking whether Threshold wavelength of Lithium lies in visible range or not
+if(lembda_Lithium < 8000 & lembda_Lithium > 4000)                                 //Checking whether Threshold wavelength of Lithium lies in visible range or not
     disp("Lithium can be used for designing photocell")
 end

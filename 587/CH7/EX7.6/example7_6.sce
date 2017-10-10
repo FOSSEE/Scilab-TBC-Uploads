@@ -4,6 +4,7 @@ clc;
 //Example7.6[Cooling of a Steel Ball by Forced Air]
 //Given:-
 rho=8055;//[kg/m^3]
+Pr = 0.7296;
 Cp=480;//[J/kg.degree Celcius]
 To=300;//Temp of oven[degree Celcius]
 Ta=25;//Temp of air[degree Celcius]

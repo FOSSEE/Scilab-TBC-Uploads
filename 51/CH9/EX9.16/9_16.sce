@@ -6,8 +6,8 @@ U=12;//m/s
 
 //W=L
 d=1.23;//kg/(m^3)
-W=0.5*d*(U^2)*(D^2)*%pi*CL/4;
 CL=2*W/(d*(U^2)*%pi*(D^2)/4);
+W=0.5*d*(U^2)*(D^2)*%pi*CL/4;
 //using this value of CL, omega*D/(2*U)=x is found as 
 x=0.9;
 omega=2*U*x/D;//rad/sec

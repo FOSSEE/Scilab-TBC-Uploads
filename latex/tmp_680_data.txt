@@ -1,0 +1,157 @@
+19#Exergy The Concept of Quality Energy#19.04#Example 4#19_04.sce#680/CH19/EX19.04/19_04.sce#S##31376
+19#Exergy The Concept of Quality Energy#19.03#Example 3#19_03.sce#680/CH19/EX19.03/19_03.sce#S##31375
+19#Exergy The Concept of Quality Energy#19.02#Example 2#19_02.sce#680/CH19/EX19.02/19_02.sce#S##31374
+17#Other ABET Topics#17.04#Example 4#17_04.sce#680/CH17/EX17.04/17_04.sce#S##34474
+17#Other ABET Topics#17.03#Example 3#17_03.sce#680/CH17/EX17.03/17_03.sce#S##34473
+15#Economic Considerations#15.04#Example 4#15_04.sce#680/CH15/EX15.04/15_04.sce#S##67188
+15#Economic Considerations#15.04#Example 4#Ex_15_4_Fig_15_2_Heat_Exchanger_Results.jpg#680/CH15/EX15.04/Ex_15_4_Fig_15_2_Heat_Exchanger_Results.jpg#R##67189
+15#Economic Considerations#15.03#Example 3#15_03.sce#680/CH15/EX15.03/15_03.sce#S##67184
+15#Economic Considerations#15.02#Example 2#15_02.sce#680/CH15/EX15.02/15_02.sce#S##67183
+15#Economic Considerations#15.01#Example 1#15_01.sce#680/CH15/EX15.01/15_01.sce#S##31372
+14#Chemical Reaction Equilibrium Applications#14.15#Example 15#14_15.sce#680/CH14/EX14.15/14_15.sce#S##34465
+14#Chemical Reaction Equilibrium Applications#14.13#Example 13#14_13.sce#680/CH14/EX14.13/14_13.sce#S##31371
+14#Chemical Reaction Equilibrium Applications#14.12#Example 12#14_12.sce#680/CH14/EX14.12/14_12.sce#S##31367
+14#Chemical Reaction Equilibrium Applications#14.11#Example 11#14_11.sce#680/CH14/EX14.11/14_11.sce#S##34463
+14#Chemical Reaction Equilibrium Applications#14.10#Example 10#14_10.sce#680/CH14/EX14.10/14_10.sce#S##31360
+14#Chemical Reaction Equilibrium Applications#14.09#Example 9#14_09.sce#680/CH14/EX14.09/14_09.sce#S##31358
+14#Chemical Reaction Equilibrium Applications#14.08#Example 8#14_08.sce#680/CH14/EX14.08/14_08.sce#S##34462
+14#Chemical Reaction Equilibrium Applications#14.07#Example 7#14_07.sce#680/CH14/EX14.07/14_07.sce#S##31354
+14#Chemical Reaction Equilibrium Applications#14.06#Example 6#14_06.sce#680/CH14/EX14.06/14_06.sce#S##31351
+14#Chemical Reaction Equilibrium Applications#14.05#Example 5#14_05.sce#680/CH14/EX14.05/14_05.sce#S##34461
+14#Chemical Reaction Equilibrium Applications#14.04#Example 4#14_04.sce#680/CH14/EX14.04/14_04.sce#S##31350
+14#Chemical Reaction Equilibrium Applications#14.02#Example 2#14_02.sce#680/CH14/EX14.02/14_02.sce#S##34459
+13#Chemical Reaction Equilibrium Principles#13.14#Example 14#13_14.sce#680/CH13/EX13.14/13_14.sce#S##34457
+13#Chemical Reaction Equilibrium Principles#13.13#Example 13#13_13.sce#680/CH13/EX13.13/13_13.sce#S##31348
+13#Chemical Reaction Equilibrium Principles#13.12#Example 12#13_12.sce#680/CH13/EX13.12/13_12.sce#S##31347
+13#Chemical Reaction Equilibrium Principles#13.11#Example 11#13_11.sce#680/CH13/EX13.11/13_11.sce#S##34456
+13#Chemical Reaction Equilibrium Principles#13.10#Example 10#13_10.sce#680/CH13/EX13.10/13_10.sce#S##31346
+13#Chemical Reaction Equilibrium Principles#13.07#Example 7#13_07.sce#680/CH13/EX13.07/13_07.sce#S##31345
+13#Chemical Reaction Equilibrium Principles#13.06#Example 6#13_06.sce#680/CH13/EX13.06/13_06.sce#S##31344
+13#Chemical Reaction Equilibrium Principles#13.05#Example 5#13_05.sce#680/CH13/EX13.05/13_05.sce#S##31343
+13#Chemical Reaction Equilibrium Principles#13.04#Example 4#13_04.sce#680/CH13/EX13.04/13_04.sce#S##31342
+12#Vapor Liquid Equilibrium Calculations#12.16#Example 16#12_16.sce#680/CH12/EX12.16/12_16.sce#S##31341
+12#Vapor Liquid Equilibrium Calculations#12.14#example 14#12_14.sce#680/CH12/EX12.14/12_14.sce#S##63338
+12#Vapor Liquid Equilibrium Calculations#12.13#example 13#12_13.sce#680/CH12/EX12.13/12_13.sce#S##63314
+12#Vapor Liquid Equilibrium Calculations#12.12#example 12#12_12.sce#680/CH12/EX12.12/12_12.sce#S##63313
+12#Vapor Liquid Equilibrium Calculations#12.11#example 11#12_11.sce#680/CH12/EX12.11/12_11.sce#S##63312
+12#Vapor Liquid Equilibrium Calculations#12.11#example 11#Ex_12_11_image.jpg#680/CH12/EX12.11/Ex_12_11_image.jpg#R##67187
+12#Vapor Liquid Equilibrium Calculations#12.10#example 10#12_10.sce#680/CH12/EX12.10/12_10.sce#S##63311
+12#Vapor Liquid Equilibrium Calculations#12.10#example 10#Ex_12_10_Image.jpg#680/CH12/EX12.10/Ex_12_10_Image.jpg#R##67186
+12#Vapor Liquid Equilibrium Calculations#12.09#example 9#12_09.sce#680/CH12/EX12.09/12_09.sce#S##63310
+12#Vapor Liquid Equilibrium Calculations#12.08#Example 8#12_08.sce#680/CH12/EX12.08/12_08.sce#S##34449
+12#Vapor Liquid Equilibrium Calculations#12.06#Example 6#12_06.sce#680/CH12/EX12.06/12_06.sce#S##31340
+12#Vapor Liquid Equilibrium Calculations#12.02#Example 2#12_02.sce#680/CH12/EX12.02/12_02.sce#S##31339
+12#Vapor Liquid Equilibrium Calculations#12.01#Example 1#12_01.sce#680/CH12/EX12.01/12_01.sce#S##31338
+11#Phase Equilibrium Principles#11.14#Example 14#11_14.sce#680/CH11/EX11.14/11_14.sce#S##34445
+11#Phase Equilibrium Principles#11.13#Example 13#11_13.sce#680/CH11/EX11.13/11_13.sce#S##31337
+11#Phase Equilibrium Principles#11.10#Example 10#11_10.sce#680/CH11/EX11.10/11_10.sce#S##31336
+11#Phase Equilibrium Principles#11.09#Example 9#11_09.sce#680/CH11/EX11.09/11_09.sce#S##34444
+11#Phase Equilibrium Principles#11.08#Example 8#11_08.sce#680/CH11/EX11.08/11_08.sce#S##31335
+11#Phase Equilibrium Principles#11.06#Example 6#11_06.sce#680/CH11/EX11.06/11_06.sce#S##31334
+11#Phase Equilibrium Principles#11.05#Example 5#11_05.sce#680/CH11/EX11.05/11_05.sce#S##31333
+11#Phase Equilibrium Principles#11.04#Example 4#11_04.sce#680/CH11/EX11.04/11_04.sce#S##31332
+11#Phase Equilibrium Principles#11.03#Example 3#11_03.sce#680/CH11/EX11.03/11_03.sce#S##31331
+11#Phase Equilibrium Principles#11.02#Example 2#11_02.sce#680/CH11/EX11.02/11_02.sce#S##31330
+10#Chemical Reaction Enthalpy Effects#10.17#Example 17#10_17.sce#680/CH10/EX10.17/10_17.sce#S##31329
+10#Chemical Reaction Enthalpy Effects#10.16#Example 16#10_16.sce#680/CH10/EX10.16/10_16.sce#S##31328
+10#Chemical Reaction Enthalpy Effects#10.15#Example 15#10_15.sce#680/CH10/EX10.15/10_15.sce#S##31327
+10#Chemical Reaction Enthalpy Effects#10.13#Example 13#10_13.sce#680/CH10/EX10.13/10_13.sce#S##31326
+10#Chemical Reaction Enthalpy Effects#10.12#Example 12#10_12.sce#680/CH10/EX10.12/10_12.sce#S##31325
+10#Chemical Reaction Enthalpy Effects#10.11#Example 11#10_11.sce#680/CH10/EX10.11/10_11.sce#S##31324
+10#Chemical Reaction Enthalpy Effects#10.10#Example 10#10_10.sce#680/CH10/EX10.10/10_10.sce#S##34441
+10#Chemical Reaction Enthalpy Effects#10.09#Example 9#10_09.sce#680/CH10/EX10.09/10_09.sce#S##31323
+10#Chemical Reaction Enthalpy Effects#10.08#Example 8#10_08.sce#680/CH10/EX10.08/10_08.sce#S##31322
+10#Chemical Reaction Enthalpy Effects#10.07#Example 7#10_07.sce#680/CH10/EX10.07/10_07.sce#S##34440
+10#Chemical Reaction Enthalpy Effects#10.06#Example 6#10_06.sce#680/CH10/EX10.06/10_06.sce#S##34439
+10#Chemical Reaction Enthalpy Effects#10.05#Example 5#10_05.sce#680/CH10/EX10.05/10_05.sce#S##34438
+10#Chemical Reaction Enthalpy Effects#10.04#Example 4#10_04.sce#680/CH10/EX10.04/10_04.sce#S##34437
+10#Chemical Reaction Enthalpy Effects#10.03#Example 3#10_03.sce#680/CH10/EX10.03/10_03.sce#S##34436
+10#Chemical Reaction Enthalpy Effects#10.02#Example 2#10_02.sce#680/CH10/EX10.02/10_02.sce#S##31321
+10#Chemical Reaction Enthalpy Effects#10.01#Example 1#10_01.sce#680/CH10/EX10.01/10_01.sce#S##31320
+9#Enthalpy of Mixing Effects#9.09#Example 9#9_09.sce#680/CH9/EX9.09/9_09.sce#S##31319
+9#Enthalpy of Mixing Effects#9.08#Example 8#9_08.sce#680/CH9/EX9.08/9_08.sce#S##31318
+9#Enthalpy of Mixing Effects#9.07#Example 7#9_07.sce#680/CH9/EX9.07/9_07.sce#S##34434
+9#Enthalpy of Mixing Effects#9.05#Example 5#9_05.sce#680/CH9/EX9.05/9_05.sce#S##31317
+9#Enthalpy of Mixing Effects#9.04#Example 4#9_04.sce#680/CH9/EX9.04/9_04.sce#S##31316
+9#Enthalpy of Mixing Effects#9.03#Example 3#9_03.sce#680/CH9/EX9.03/9_03.sce#S##31315
+9#Enthalpy of Mixing Effects#9.02#Example 2#9_02.sce#680/CH9/EX9.02/9_02.sce#S##31314
+9#Enthalpy of Mixing Effects#9.01#Example 1#9_01.sce#680/CH9/EX9.01/9_01.sce#S##31313
+8#Latent Enthalpy Effects#8.13#Example 13#8_13.sce#680/CH8/EX8.13/8_13.sce#S##31312
+8#Latent Enthalpy Effects#8.12#Example 12#8_12.sce#680/CH8/EX8.12/8_12.sce#S##31311
+8#Latent Enthalpy Effects#8.11#Example 11#8_11.sce#680/CH8/EX8.11/8_11.sce#S##31310
+8#Latent Enthalpy Effects#8.10#Example 10#8_10.sce#680/CH8/EX8.10/8_10.sce#S##31309
+8#Latent Enthalpy Effects#8.09#Example 9#8_09.sce#680/CH8/EX8.09/8_09.sce#S##31308
+8#Latent Enthalpy Effects#8.08#Example 8#8_08.sce#680/CH8/EX8.08/8_08.sce#S##31306
+8#Latent Enthalpy Effects#8.07#Example 7#8_07.sce#680/CH8/EX8.07/8_07.sce#S##31307
+8#Latent Enthalpy Effects#8.06#Example 6#8_06.sce#680/CH8/EX8.06/8_06.sce#S##31305
+8#Latent Enthalpy Effects#8.05#Example 5#8_05.sce#680/CH8/EX8.05/8_05.sce#S##34432
+8#Latent Enthalpy Effects#8.04#Example 4#8_04.sce#680/CH8/EX8.04/8_04.sce#S##31304
+8#Latent Enthalpy Effects#8.02#Example 2#8_02.sce#680/CH8/EX8.02/8_02.sce#S##31303
+8#Latent Enthalpy Effects#8.01#Example 1#8_01.sce#680/CH8/EX8.01/8_01.sce#S##31302
+7#Sensible Enthalpy Effects#7.12#Example 12#7_12.sce#680/CH7/EX7.12/7_12.sce#S##31301
+7#Sensible Enthalpy Effects#7.11#Example 11#7_11.sce#680/CH7/EX7.11/7_11.sce#S##31300
+7#Sensible Enthalpy Effects#7.09#Example 9#7_09.sce#680/CH7/EX7.09/7_09.sce#S##31299
+7#Sensible Enthalpy Effects#7.08#Example 8#7_08.sce#680/CH7/EX7.08/7_08.sce#S##31298
+7#Sensible Enthalpy Effects#7.07#Example 7#7_07.sce#680/CH7/EX7.07/7_07.sce#S##31297
+7#Sensible Enthalpy Effects#7.06#Example 6#7_06.sce#680/CH7/EX7.06/7_06.sce#S##31296
+7#Sensible Enthalpy Effects#7.05#Example 5#7_05.sce#680/CH7/EX7.05/7_05.sce#S##34430
+7#Sensible Enthalpy Effects#7.04#Example 4#7_04.sce#680/CH7/EX7.04/7_04.sce#S##31295
+7#Sensible Enthalpy Effects#7.03#Example 3#7_03.sce#680/CH7/EX7.03/7_03.sce#S##31294
+7#Sensible Enthalpy Effects#7.02#Example 2#7_02.sce#680/CH7/EX7.02/7_02.sce#S##31293
+7#Sensible Enthalpy Effects#7.01#Example 1#7_01.sce#680/CH7/EX7.01/7_01.sce#S##31292
+6#The Second Law of Thermodynamics#6.14#Example 14#6_14.sce#680/CH6/EX6.14/6_14.sce#S##31291
+6#The Second Law of Thermodynamics#6.12#Example 12#6_12.sce#680/CH6/EX6.12/6_12.sce#S##31290
+6#The Second Law of Thermodynamics#6.11#Example 11#6_11.sce#680/CH6/EX6.11/6_11.sce#S##31289
+6#The Second Law of Thermodynamics#6.10#Example 10#6_10.sce#680/CH6/EX6.10/6_10.sce#S##31288
+6#The Second Law of Thermodynamics#6.09#Example 9#6_09.sce#680/CH6/EX6.09/6_09.sce#S##31287
+6#The Second Law of Thermodynamics#6.07#Example 7#6_07.sce#680/CH6/EX6.07/6_07.sce#S##31286
+6#The Second Law of Thermodynamics#6.06#Example 6#6_06.sce#680/CH6/EX6.06/6_06.sce#S##31285
+6#The Second Law of Thermodynamics#6.05#Example 5#6_05.sce#680/CH6/EX6.05/6_05.sce#S##31284
+6#The Second Law of Thermodynamics#6.03#Example 3#6_03.sce#680/CH6/EX6.03/6_03.sce#S##31283
+6#The Second Law of Thermodynamics#6.02#Example 2#6_02.sce#680/CH6/EX6.02/6_02.sce#S##31282
+6#The Second Law of Thermodynamics#6.01#Example 1#6_01.sce#680/CH6/EX6.01/6_01.sce#S##31281
+5#stoichimetry#5.15#Example 15#5_15.sce#680/CH5/EX5.15/5_15.sce#S##31279
+5#stoichimetry#5.14#Example 14#5_14.sce#680/CH5/EX5.14/5_14.sce#S##31280
+5#stoichimetry#5.13#Example 13#5_13.sce#680/CH5/EX5.13/5_13.sce#S##31278
+5#stoichimetry#5.11#Example 11#5_11.sce#680/CH5/EX5.11/5_11.sce#S##31277
+5#stoichimetry#5.09#Example 9#5_09.sce#680/CH5/EX5.09/5_09.sce#S##34424
+5#stoichimetry#5.08#Example 8#5_08.sce#680/CH5/EX5.08/5_08.sce#S##31276
+5#stoichimetry#5.07#Example 7#5_07.sce#680/CH5/EX5.07/5_07.sce#S##31275
+5#stoichimetry#5.06#Example 6#5_06.sce#680/CH5/EX5.06/5_06.sce#S##31274
+5#stoichimetry#5.04#Example 4#5_04.sce#680/CH5/EX5.04/5_04.sce#S##31273
+5#stoichimetry#5.03#Example 3#5_03.sce#680/CH5/EX5.03/5_03.sce#S##67232
+5#stoichimetry#5.01#Example 1#5_01.sce#680/CH5/EX5.01/5_01.sce#S##34420
+4#Conservation Laws#4.12#Example 12#4_12.sce#680/CH4/EX4.12/4_12.sce#S##31272
+4#Conservation Laws#4.11#Example 11#4_11.sce#680/CH4/EX4.11/4_11.sce#S##31271
+4#Conservation Laws#4.10#Example 10#4_10.sce#680/CH4/EX4.10/4_10.sce#S##31270
+4#Conservation Laws#4.09#Example 9#4_09.sce#680/CH4/EX4.09/4_09.sce#S##31269
+4#Conservation Laws#4.07#Example 7#4_07.sce#680/CH4/EX4.07/4_07.sce#S##31268
+4#Conservation Laws#4.06#Example 6#4_06.sce#680/CH4/EX4.06/4_06.sce#S##31267
+4#Conservation Laws#4.05#Example 5#4_05.sce#680/CH4/EX4.05/4_05.sce#S##31266
+4#Conservation Laws#4.04#Example 4#4_04.sce#680/CH4/EX4.04/4_04.sce#S##31265
+4#Conservation Laws#4.03#Example 3#4_03.sce#680/CH4/EX4.03/4_03.sce#S##31264
+4#Conservation Laws#4.02#Example 2#4_02.sce#680/CH4/EX4.02/4_02.sce#S##31263
+4#Conservation Laws#4.01#Example 1#4_01.sce#680/CH4/EX4.01/4_01.sce#S##31262
+3#Gas Laws#3.13#Example 13#3_13.sce#680/CH3/EX3.13/3_13.sce#S##34418
+3#Gas Laws#3.12#Example 12#3_12.sce#680/CH3/EX3.12/3_12.sce#S##34417
+3#Gas Laws#3.10#Example 10#3_10.sce#680/CH3/EX3.10/3_10.sce#S##34415
+3#Gas Laws#3.09#Example 9#3_09.sce#680/CH3/EX3.09/3_09.sce#S##31261
+3#Gas Laws#3.08#Example 8#3_08.sce#680/CH3/EX3.08/3_08.sce#S##31260
+3#Gas Laws#3.07#Example 7#3_07.sce#680/CH3/EX3.07/3_07.sce#S##31259
+3#Gas Laws#3.06#Example 6#3_06.sce#680/CH3/EX3.06/3_06.sce#S##31258
+3#Gas Laws#3.05#Example 5#3_05.sce#680/CH3/EX3.05/3_05.sce#S##31257
+3#Gas Laws#3.04#Example 4#3_04.sce#680/CH3/EX3.04/3_04.sce#S##31256
+3#Gas Laws#3.03#Example 3#3_03.sce#680/CH3/EX3.03/3_03.sce#S##31255
+3#Gas Laws#3.02#Example 2#3_02.sce#680/CH3/EX3.02/3_02.sce#S##31254
+3#Gas Laws#3.01#Example 1#3_01.sce#680/CH3/EX3.01/3_01.sce#S##31253
+2#Process Variables#2.11#Example 11#2_11.sce#680/CH2/EX2.11/2_11.sce#S##50538
+2#Process Variables#2.10#Example 10#2_10.sce#680/CH2/EX2.10/2_10.sce#S##50537
+2#Process Variables#2.09#Example 9#2_09.sce#680/CH2/EX2.09/2_09.sce#S##50535
+2#Process Variables#2.08#Example 8#2_08.sce#680/CH2/EX2.08/2_08.sce#S##50534
+2#Process Variables#2.07#Example 7#2_07.sce#680/CH2/EX2.07/2_07.sce#S##50533
+2#Process Variables#2.06#Example 6#2_06.sce#680/CH2/EX2.06/2_06.sce#S##50532
+2#Process Variables#2.05#Example 5#2_05.sce#680/CH2/EX2.05/2_05.sce#S##50531
+2#Process Variables#2.04#Example 4#2_04.sce#680/CH2/EX2.04/2_04.sce#S##50530
+2#Process Variables#2.03#Example 3#2_03.sce#680/CH2/EX2.03/2_03.sce#S##50529
+2#Process Variables#2.02#Example 2#2_02.sce#680/CH2/EX2.02/2_02.sce#S##50527
+1#Basic Calculations#1.01#Example 1#1_01.sce#680/CH1/EX1.01/1_01.sce#S##50526

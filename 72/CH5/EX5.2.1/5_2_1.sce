@@ -1,4 +1,4 @@
-//CAPTION: Heterojunction_Bipolar_Transistor(HBT)
+
 //CHAPTER NO.-5
 //Example No.5-2-1 , Page No.-213 
                                                                      

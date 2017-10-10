@@ -1,4 +1,4 @@
-//determine dia of the shaft
+
 clc
 //solution
 //given

@@ -1,5 +1,4 @@
-  
-//Caption:Program to calculate how much traffic can the trunk group carry
+
  
 //Example 5.5
  

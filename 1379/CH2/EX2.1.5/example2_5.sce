@@ -1,8 +1,7 @@
-
-
 //exapple 2.5 
 clc; funcprot(0);
-// Initialization of Variable
+// Initialization of Variables
+pi = %pi;
 T=273+15;
 rho=999;
 rhom=13559;//density of mercury

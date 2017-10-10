@@ -10,7 +10,7 @@ clc;
 T = 293;//Constant temperature in K
 w_NH3 = 20/100;//weight of NH3 in an aqueous solution in Kg
 w_H2O = 80/100;//weight of H2O in an aqueous solution in Kg
-V_f = 40;//feed rate in Kg/min
+V = 40;//feed rate in Kg/min
 M_NH3 = 17;//Molecular weight of NH3
 M_H2O = 18;//Molecular weight of H20
 R = 1.98;//gas constant in Kcl/Kg mole K
@@ -20,8 +20,8 @@ P2_H2O = 17.5;//Vapour pressure of pure water in mm Hg
 P1_NH3 = 227;//Vapour pressure of NH3 in feed in mm Hg
 P2_NH3 = 6350;//Vapor pressure of  pure NH3 in mm Hg
 //From steam tables:
-Hs = 666.4;//Enthalpy of steam at 160 deg celsius & 2Kgf/cm^2 in Kcal /Kg 
-Ss = 1.75;//Entropy of steam at 160 deg celsius & 2Kgf/cm^2V in Kcal/Kg K
+Hs = 666.4;//Enthalpy of steam at 160 deg celsius &amp; 2Kgf/cm^2 in Kcal /Kg 
+Ss = 1.75;//Entropy of steam at 160 deg celsius &amp; 2Kgf/cm^2V in Kcal/Kg K
 Hl = 20.03;//Enthalpy of liquid water at 20 deg celsius in Kcal/Kg
 Sl = 0.0612;//Entropy of liquid water at 20 deg celsius in Kcal/Kg K
 
@@ -36,4 +36,3 @@ del_B = -V_s*((Hl-Hs)-T*(Sl-Ss));//Available energy of the steam in Kcal
 E = (del_F/del_B)*100;
 mprintf('The efficiency of the separation process is %f percent',E);
 //end
-

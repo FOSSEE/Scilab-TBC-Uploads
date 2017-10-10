@@ -3,6 +3,7 @@ clc
 //soltuion
 //given
 //refer fig 11.39
+pi = %pi;
 W=10000//N
 q=60//deg
 f1=100//N/mm^2

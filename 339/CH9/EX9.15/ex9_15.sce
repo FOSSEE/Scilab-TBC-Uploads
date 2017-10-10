@@ -1,11 +1,13 @@
 global Z0;
 Z0=50;
-
 //define the S-parameters of the transistor
 s11=0.3*exp(%i*(+30)/180*%pi);
 s12=0.2*exp(%i*(-60)/180*%pi);
 s21=2.5*exp(%i*(-80)/180*%pi);
 s22=0.2*exp(%i*(-15)/180*%pi);
+s_param = [s11 s12;s21 s22]
+delta = abs(det(s_param));
+k = (1 - abs(s11)^2 - abs(s22)^2 +delta^2)./(2*abs(s12*s21));
 
 //noise parameters of the transistor
 Fmin_dB=1.5
@@ -25,7 +27,7 @@ rfk=sqrt((1-abs(Gopt)^2)*Qk+Qk^2)/(1+Qk); //circle radius
 
 //plot a noise circle
 a=[0:360]/180*%pi;
-set(gca(),"auto_clear","off");
+mtlb_hold on
 plot(real(dfk)+rfk*cos(a),imag(dfk)+rfk*sin(a),'b','linewidth',2);
 
 //specify the goal gain
@@ -45,7 +47,7 @@ rgs=rgo*abs(s12*s21/(abs(1-s22*dgo)^2-rgo^2*abs(s22)^2));
 dgs=((1-s22*dgo)*conj(s11-delta*dgo)-rgo^2*s22)/(abs(1-s22*dgo)^2-rgo^2*abs(s22)^2);
 
 //plot constant gain circle in the Smith Chart
-set(gca(),"auto_clear","off");
+mtlb_hold on
 plot(real(dgs)+rgs*cos(a),imag(dgs)+rgs*sin(a),'r','linewidth',2);
 
 

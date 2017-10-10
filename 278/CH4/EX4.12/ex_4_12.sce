@@ -1,4 +1,4 @@
-//find stress after putting the system in lathe
+
 clc
 //soluton
 //given

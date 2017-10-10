@@ -1,4 +1,4 @@
-//design rectanglar key
+
 clc
 //solution
 //given
@@ -16,7 +16,7 @@ printf("the torsional moment acting is,%f N-mm\n",Tq)
 l1=Tq/16800//mm
 //Tq2=l2*T*fc*d/4=8750*l2
 l2=Tq/8750//mm
-printf("since l2 >l1,taking large value l2=l ,length of key\n")
+printf("since l2 &gt;l1,taking large value l2=l ,length of key\n")
 //l=l2//mm
 printf("the length of key is,%f mm\n",l2)
 printf("the length oif key is,say 120 mm\n")

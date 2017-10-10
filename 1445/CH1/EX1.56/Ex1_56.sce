@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 56
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 56");
 
@@ -15,7 +16,7 @@ req=(r1*r2)+(r2*r3)+(r3*r1);     //'req' is the equivalent resistance that appea
 ra=req/r3;
 rb=req/r1;
 rc=req/r2;
-disp(sprintf("The equivalent delta values are ra=( %.2f x r) Ω, rb=( %.2f x r) Ω and rc=( %.2f x r) Ω",ra,rb,rc));
+disp(sprintf("The equivalent delta values are ra=( %f x r) Ω, rb=( %f x r) Ω and rc=( %f x r) Ω",ra,rb,rc));
 
 //END
 

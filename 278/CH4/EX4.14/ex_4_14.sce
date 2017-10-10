@@ -1,4 +1,4 @@
-//find stress 1.)when supports are unyielding 2.)when supports yield by 0.1 mm
+
 clc
 //solution
 //given

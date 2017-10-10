@@ -39,4 +39,4 @@ E=0;
 for i=1:length(xn)
     E=E+abs(xn(i)^2);
 end
-disp(E,'the signal energy is'); 
+disp(E,'the signal energy is');

@@ -4,7 +4,7 @@ clc;
 //v_avg=sqrt((8*K*T)/pi*m)
 //v_avgHe=sqrt((8*K*330)/(pi*4))
 //v_avgN_2=sqrt((8*K*T_2)/(pi*28))
-T_1=330
+T_1=330                     //(K)
 K=1                       //K=1(let)
-T_2=(8*K*T_1*%pi*28)/(%pi*4*8*K)
+T_2=(8*K*T_1*%pi*28)/(%pi*4*8*K)          //(K)
 disp(T_2,'Required temperature(K)')

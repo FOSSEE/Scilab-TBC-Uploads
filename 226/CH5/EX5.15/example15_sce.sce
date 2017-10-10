@@ -3,7 +3,7 @@
 //page 214
 printf("\n")
 printf("given")
-Vce=9;Ve=4;Ic=4*10^-3;Vcc=18;
+Vce=9;Ve=4;Ic=4*10^-3;Vcc=18;Vbe = 0.7;
 Ie=Ic;
 R4=Ve/Ie
 Vb=Ve+Vbe

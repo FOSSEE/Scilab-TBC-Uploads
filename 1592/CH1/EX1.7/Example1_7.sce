@@ -2,6 +2,12 @@
 //P.Ramakrishna Rao
 clear;
 clc;
+function [y]=u(t)
+    if t>=0
+    y=1
+else y=0
+    end
+endfunction
 n=1;
 for t=-10:0.1:10;
     //Function for Even signal

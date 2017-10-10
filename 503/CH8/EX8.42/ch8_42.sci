@@ -1,6 +1,8 @@
 //to caculate generator current,pf, real power,ecitation emf
 
 clc;
+clear
+j = %i;
 r=500*10^6;
 V=22000;
 Ia=r/(sqrt(3)*V);disp(Ia,'generator current(A)');

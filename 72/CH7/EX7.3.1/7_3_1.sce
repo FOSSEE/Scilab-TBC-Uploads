@@ -1,20 +1,30 @@
-//CAPTION: Criterion_of_Mode_Operation
-//chapter_no.-7,  page_no.-304
-//Example_no.7-3-1
 
+//chapter_no.-7,  page_no.-298
+//Example_no.7-2-2
 clc;
 
-// Calculate_the_criterion_for_classifying_the_modes_of_operation
-er=13.1;
-e=1.6*(10^-19);
-E=8.854*(10^-12)*er;//dielectric_constant
-vd=2.5*(10^5);//electron_drift_velocity
-un=.015;//negative_electron_mobility
+//(a)Calculate_the_electron_drift_velocity
+q=1.6*(10^-19);
+f=10*(10^9);//operating_frequency
+L=10*(10^-6);//Device_Length
+vd=f*L;
+disp(vd,'the_electron_drift_velocity(in m/sec)is =');
+vd=vd*100;
+disp(vd,'the_electron_drift_velocity(in cm/sec)is =');
+vd=vd/100;
 
-disp('the_criterion_from_Eq-7-3-3_is_for_classifying_the_modes_of_operation_for_the_gunn_effect_diodes_is noL > E*v/e*un');
+//(b)Calculate_the_current_density
 
-x=(E*vd)/(e*un);
-x=x/(10^4);
-disp(x,'the_criterion_is E*vd/e*un (in /cm^2)=');
+n=2*(10^14)*(10^6);
+J=q*n*vd;
+disp(J,'the_electron_drift(n A/m^2)is =');
+J=J/(10^4);
+disp(J,'the_electron_drift(n A/cm^2)is =');
 
-disp(x,'This_means_that_the_product_of_the_doping_concentration_and_the_device_length_must_be no*L > ');
+
+//(c)CAPTION: Calculate_the_negative_electron_mobility
+
+E=3200;//applied_field
+vd=vd*(100);
+un=-1*(vd/E);
+disp(un,'negative_electron_mobility(in cm^2/V*sec)is =');

@@ -1,4 +1,4 @@
-//find length of each parallel fillet weld
+
 clc
 //solution
 //given

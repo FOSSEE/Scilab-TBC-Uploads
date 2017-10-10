@@ -1,10 +1,10 @@
 clc;
 //page no 631
 //prob no. 17.7
-//A signal with level of 20dBm & insertion loss=1dB & coupling =20dB,directivity=40dB
+//A signal with level of 20dBm &amp; insertion loss=1dB &amp; coupling =20dB,directivity=40dB
 sig_in=20;loss=1;couple=20;direct=40;
 //Determination of signal level in main guide
-sig_level_main=signal_in-loss;
+sig_level_main=sig_in-loss;
 disp('dBm',sig_level_main,'The signal level in main guide is');
 //Determination of signal level in secondary guide
 sig_level_sec=sig_in-couple;

@@ -1,4 +1,4 @@
-//find dimensions of hole and shaft in all three cases
+
 //a.)12 mm elctric motion
 //12 mm lies between 10 and 18,therefore
 D=sqrt(10*18)//mm

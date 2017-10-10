@@ -1,10 +1,10 @@
 //CHAPTER 8- DIRECT CURRENT MACHINES
 //Example 37
 
+clc;
 disp("CHAPTER 8");
 disp("EXAMPLE 37");
 
-//250 V DC machine
 //VARIABLE INITIALIZATION
 p_o=50*1000;                //in Watts
 v_t=250;                    //in Volts

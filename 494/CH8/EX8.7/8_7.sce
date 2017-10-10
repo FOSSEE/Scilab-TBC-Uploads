@@ -5,7 +5,7 @@ p_inf = 1;                                          //freestream pressure
 p1 = 0.7545;                                        //pressure at point 1
 M = 0.9;                                            //mach number at point 1
 gam = 1.4;                                          //ratio of specific heats
-
+R = 8.314;
 //for isentropic flow, from eq. (7.32)
 T1 = T_inf*((p1/p_inf)^((gam-1)/gam));
 

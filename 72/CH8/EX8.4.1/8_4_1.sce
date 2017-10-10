@@ -1,4 +1,4 @@
-//CAPTION: Breakdown_voltage_Of_a_BARITT_Diode
+
 //chapter_no.-8,  page_no.-338
 //Example_no.8-4-1
 

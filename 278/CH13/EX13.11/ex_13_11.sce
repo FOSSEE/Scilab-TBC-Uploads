@@ -1,4 +1,4 @@
-//find dia of shaft,dia of bolts,thickness of flange and dia of flange
+
 clc
 //solution
 //given

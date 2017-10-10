@@ -4,6 +4,7 @@
 printf("\n")
 printf("given")
 hFE=2000;Vbe=1.4;Vp=10;Ip=200*10^-3;Icq2=20*10^-3;Re3=4.7;Re2=4.7;Vd=.7;
+Icq=20.0*10^-3;
 Ve1=3;Vc1=15.2;Vrc=Vc1;
 Vb=Vbe+Icq*(Re2+Re3)+Vbe
 Vcc=Vrc+Vc1+Vb

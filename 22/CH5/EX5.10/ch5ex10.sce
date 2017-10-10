@@ -1,4 +1,5 @@
 omega= linspace(-%pi,%pi,106);
+s = %s;
 H= syslin('c',(s/(s-0.8)));
 H_omega= squeeze(calfrq(H,0.01,10));
 size(H_omega)

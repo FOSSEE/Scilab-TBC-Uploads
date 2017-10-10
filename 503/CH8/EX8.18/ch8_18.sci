@@ -1,6 +1,8 @@
 //find the change in the poweer angle;
 
 clc;
+clear 
+j = %i
 Pe=4000;
 V=400';
 pf=.8;dl=acosd(pf);

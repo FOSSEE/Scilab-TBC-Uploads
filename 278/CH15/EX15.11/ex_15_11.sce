@@ -1,4 +1,4 @@
-//design pins at L,M,N
+
 clc
 //solution
 //given

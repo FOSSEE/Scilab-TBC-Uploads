@@ -4,6 +4,7 @@ clc
 D=175/1000, L=200/1000, r=L/2, l=400/1000 //m
 N=500 //rpm
 mR=180 //kg
+theta = 60;
 //Solution:
 //Calculating the angular speed of the crank
 omega=2*%pi*N/60 //rad/s

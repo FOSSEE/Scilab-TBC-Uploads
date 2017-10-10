@@ -12,6 +12,8 @@ Pr=Ia^2*Ra
  
 Ps=V*Ia*0.5
 
+Ea1 = Ka*N1;
+
 Vo=Ea1+(Ia*Ra)
 
 Vo=Ea1+(Io*Ra)

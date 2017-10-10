@@ -1,4 +1,4 @@
-//Fir low pass filter design by frequency sampling
+//For low pass filter design by frequency sampling
 z=%z;
 N=10;
 magHk=[1 1 1 0 0 0 0 0 1 1];
@@ -7,11 +7,11 @@ fik=-%pi*k'*(N-1)/N;
 for i=1:length(fik)
     H1k(i)=magHk(i)*exp(%i*fik(i));
 end
-H1n=(dft(H1k,1));
+H1n=(fft(H1k,1));
 H2k=H1k;
 H2k(3)=0.5*%e^(-%i*1.8*%pi);
 H2k(9)=0.5*%e^(%i*1.8*%pi);
-H2n=(dft(H2k,1));
+H2n=(fft(H2k,1));
 H1Z=0;H2Z=0;
 for i=1:length(H1n)
     H1Z=H1Z+H1n(i)*z^(-i); 

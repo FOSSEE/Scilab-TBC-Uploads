@@ -2,7 +2,7 @@
 //Example 8.24
 clc;
 //Given, band limited gaussian noise with psd,
-S=9.6D-5; //W/Hz for |f|<8kHz
+S=9.6D-5; //W/Hz for |f|&lt;8kHz
 L=100D-3; //H
 R=100; //Ohms
 
@@ -15,8 +15,6 @@ disp('W',Pni,'Noise power at input of filter:');
 
 //Plot
 x=linspace(-8,8,3);
-y=linspace(0,1,1);
+y=linspace(0,1,1)*ones(1,length(x));
 
 plot(x,y);
-
-

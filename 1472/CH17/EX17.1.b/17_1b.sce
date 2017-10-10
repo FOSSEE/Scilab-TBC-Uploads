@@ -1,5 +1,6 @@
 clc
-//initialization of varaibles
+//initialization of variables
+w = 1;
 k=1.3
 P=100 //psia
 //calculations

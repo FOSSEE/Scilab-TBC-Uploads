@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 50
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 50");
 
@@ -13,8 +14,8 @@ x=inv(A)*b;
 I1=x(1,:);                 //to access the 1st element of 2X1 matrix
 I2=x(2,:);                 //to access the 2nd element of 2X1 matrix 
 I=I2-I1;
-disp(sprintf("Current i1 is %.2f A (loop EFAB)",I1));
-disp(sprintf("Current i2 is %.2f A (loop BCDE)",abs(I)));
+disp(sprintf("Current i1 is %f A (loop EFAB)",I1));
+disp(sprintf("Current i2 is %f A (loop BCDE)",abs(I)));
 
 //END
 

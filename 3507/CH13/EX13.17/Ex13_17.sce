@@ -2,6 +2,7 @@
 //example13.17
 //page291
 
+Ao=1000
 Es=10d-3 // V
 Rs=3d3 // ohm
 Rin=7d3 // ohm

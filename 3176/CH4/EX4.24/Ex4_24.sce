@@ -58,9 +58,3 @@ Image_filter=real(ifft(fftshift(n)));
 Image_filter=mat2gray(Image_filter)
 figure,ShowImage(Image_filter,'Filtered Image');
 title('Filtered Image (Noise Pattern) with Specific Cut-Off Frequency','color','blue','fontsize',4);
-
-
-
-
-
-

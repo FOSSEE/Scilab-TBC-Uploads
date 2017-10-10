@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 55
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 55");
 
@@ -16,7 +17,7 @@ r4=10;                        //in Ohms
 res=(vcd/r2)-(v/r3);          //'res' (short for result) is used to make calculations easy
 vp=res/((1/r2)+(1/r3)+(1/r4));
 vba=vp+v;
-disp(sprintf("The voltage between A and B is %.2f V",vba));
+disp(sprintf("The voltage between A and B is %f V",vba));
 
 //END
 

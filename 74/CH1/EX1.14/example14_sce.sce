@@ -13,17 +13,17 @@ Ie=(Ve3-Vee)/Re;
 disp(Ie)
 Ie1=Ie/2
 Ie2=Ie/2
-A=B/(1+B);
-Icq=A*Ie1;//(B/(B+1))*Ie1
+A=Bac/(1+Bac);
+Icq=A*Ie1;//(Bac/(Bac+1))*Ie1
 disp(Icq)
 Icq2=Icq;
 disp(Icq2)
 Gm=Icq/Vt// Vt at room temp 26mA
-r=(B*Vt)/Icq
-Ib=Icq/B
+r=(Bac*Vt)/Icq
+Ib=Icq/Bac;
 Ve1=-Ib*Rin-Vbe;
 disp(Ve1)//result
 Vc1=Vcc-Icq*Rc;
 disp(Vc1)
 Vceq=Vc1-Ve1;
-disp(Vceq,Icq)//result operating point 
+disp(Vceq,Icq)//result operating point

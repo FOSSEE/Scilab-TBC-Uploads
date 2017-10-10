@@ -1,5 +1,4 @@
-//find...
-clc
+
 //solution
 //given
 P=50000//W

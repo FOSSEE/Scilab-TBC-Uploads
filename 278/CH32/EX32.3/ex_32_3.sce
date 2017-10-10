@@ -5,7 +5,7 @@ clc
 D=400//mm
 L=600//mm
 r=300//mm
-pm=0.3//N/mm^2
+pb=0.3//N/mm^2
 p=2.5//N/mm^2
 W=50//kN
 //T1+T2=6.5//kN=P

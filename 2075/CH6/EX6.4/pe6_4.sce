@@ -22,4 +22,3 @@ Pl=D*Vl*Ip;
 disp(Pl*1000,"load power in mW:")
 Pq=D*Ip*.3;
 disp(Pq*1000,"power delivered in mW:")
-clear()

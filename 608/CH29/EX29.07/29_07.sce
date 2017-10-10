@@ -11,7 +11,8 @@ x = 0.004
 Q = fr/bw
 wr = 2*%pi*fr
 //dynamic resistance, RD
-Rd = L*Q/(C*wr*L)
+//Rd = Q*L/(C*wr*L)
+Rd = Q/(C*wr)
 del = x
 Z = Rd/(1 + (2*del*Q*%i))
 Zmag = (real(Z)^2 + imag(Z)^2)^0.5

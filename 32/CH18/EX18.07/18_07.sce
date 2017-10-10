@@ -1,6 +1,7 @@
 //pathname=get_absolute_file_path('18.07.sce')
 //filename=pathname+filesep()+'18.07-data.sci'
 //exec(filename)
+p2 = 4; Cp = 1.005;
 //Pressure(in bar):
 p1=1.2
 p6=p1

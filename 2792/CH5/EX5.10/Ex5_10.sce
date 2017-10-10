@@ -1,5 +1,6 @@
 clc
-e = 1.6*10^-19
+e = 1.6*10^-19;
+kbT = 0.026;
 disp("e= "+string(e)+"C")//initializing value of charge of electron
 A= 10^-7
 disp("A= "+string(A)+"m^2") //initializing value of diode area

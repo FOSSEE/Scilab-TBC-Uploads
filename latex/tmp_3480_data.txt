@@ -1,0 +1,19 @@
+11#Vibrations and waves#11.2#Displacement#Ex11_2.sce#3480/CH11/EX11.2/Ex11_2.sce#S##116532
+11#Vibrations and waves#11.1#Energy in vibrations#Ex11_1.sce#3480/CH11/EX11.1/Ex11_1.sce#S##116531
+8#Ray Tracing#8.2#Double convex lens#Ex8_2.sce#3480/CH8/EX8.2/Ex8_2.sce#S##116530
+8#Ray Tracing#8.1#Convex spherical surface#Ex8_1.sce#3480/CH8/EX8.1/Ex8_1.sce#S##116529
+6#Spherical Mirrors#6.3#Focal length and principal point#Ex6_3.sce#3480/CH6/EX6.3/Ex6_3.sce#S##116527
+6#Spherical Mirrors#6.2#power of mirror and magnification#Ex6_2.sce#3480/CH6/EX6.2/Ex6_2.sce#S##116526
+6#Spherical Mirrors#6.1#focal length and position of image and lateral magnification#Ex6_1.sce#3480/CH6/EX6.1/Ex6_1.sce#S##116525
+5#Thick lenses#5.4#Power of lenses#Ex5_4.sce#3480/CH5/EX5.4/Ex5_4.sce#S##116524
+5#Thick lenses#5.3#Nodal point#Ex5_3.sce#3480/CH5/EX5.3/Ex5_3.sce#S##116523
+5#Thick lenses#5.2#Principal points#Ex5_2.sce#3480/CH5/EX5.2/Ex5_2.sce#S##116522
+5#Thick lenses#5.1#Position of final image#Ex5_1.sce#3480/CH5/EX5.1/Ex5_1.sce#S##116521
+4#Thin Lenses#4.4#Find power#Ex4_4.sce#3480/CH4/EX4.4/Ex4_4.sce#S##116520
+4#Thin Lenses#4.3#Radius of curvature#Ex4_3.sce#3480/CH4/EX4.3/Ex4_3.sce#S##116519
+4#Thin Lenses#4.2#Find the image#Ex4_2.sce#3480/CH4/EX4.2/Ex4_2.sce#S##116518
+4#Thin Lenses#4.1#Image formation#Ex4_1.sce#3480/CH4/EX4.1/Ex4_1.sce#S##116517
+3#Spherical Surfaces#3.4#Image distance#Ex3_4.sce#3480/CH3/EX3.4/Ex3_4.sce#S##116516
+3#Spherical Surfaces#3.3#Power and position of image#Ex3_3.sce#3480/CH3/EX3.3/Ex3_3.sce#S##116515
+3#Spherical Surfaces#3.2#Primary secondary and final image#Ex3_2.sce#3480/CH3/EX3.2/Ex3_2.sce#S##116514
+3#Spherical Surfaces#3.1#Position of image#Ex3_1.sce#3480/CH3/EX3.1/Ex3_1.sce#S##116513

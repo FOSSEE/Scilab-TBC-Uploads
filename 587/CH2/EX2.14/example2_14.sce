@@ -16,7 +16,8 @@ function[f]=temp(T)
     f(1)=(((a*q_solar)-(e*5.67*10^(-8)*T(1)^4))*(L/k))+T1-T(1);
     deff('[f]=temp(T)',['f_1(T)=(((a*q_solar)-(e*5.67*10^(-8)*T(1)^4))*(L/k))+T1-T(1)'])
 endfunction
-
+x0=[1] 
+[xs,fxs,m]=fsolve(x0',temp);
     disp("K",xs,"The outer surface temperature is ")
     //First execute the program with x0=[1] then [xs,fxs,m]=fsolve(x0',temp) then re-execute to obtain correct output as for 1st exeution 'xs' is undefined
     q=k*(T1-xs)/L;

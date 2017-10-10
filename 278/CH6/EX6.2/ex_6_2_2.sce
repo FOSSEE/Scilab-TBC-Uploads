@@ -1,4 +1,4 @@
-//to find the maximum stress induced
+
 D=50//D=50mm
 d=25//d=12mm
 r=5

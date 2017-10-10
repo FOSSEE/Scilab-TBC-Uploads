@@ -1,8 +1,7 @@
-
-
 //exapple 4.5 
 clc; funcprot(0);
-// Initialization of Variable
+// Initialization of Variables
+pi = %pi;
 M=3.995/100;
 g=9.81;
 R=8.314;

@@ -9,7 +9,7 @@ for i= 1:15
 end
 Q= [qb(1),qb(2),qb(3),qb(4),qb(5),qb(6),qb(7),qb(8),qb(9),qb(10),qb(11),qb(12),qb(13),qb(14),qb(15)];//
 AV=(-qb(1)-qb(2)+qb(3)+qb(4)-qb(5))/15;//
-SD=st_deviation(Q);//standard deviation
+SD=stdev(Q);//standard deviation
 V=SD^2;//variance
 mv=q(12);//
 disp(AM,"arithematic mean is in volts")

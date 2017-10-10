@@ -15,5 +15,7 @@ LHA=5+30.0/60+20.0/3600;//local hour angle in hr
 LMT=LHA+12;
 GMT=LMT-Long/15;
 GMT=degtodms(GMT);
+LMT=degtodms(LMT);
+disp(LMT,"LMT in hr min sec");
 disp(GMT,"GMT in hr min sec");
 clear()

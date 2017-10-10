@@ -26,6 +26,7 @@ M = k*(L1*L2)^0.5
 //-1*%i*w*M*I1 + ( R2 + ZL + %i*w*L2)*I2 = 0
 //solving these two
 I1 = E1/((R1 +%i*w*L1) - (%i*w*M)^2/(R2 + ZL + %i*w*L2))
+I2 = 250/(350 + %i*180);
 //secondary terminal p.d.
 pd = I2*ZL
 

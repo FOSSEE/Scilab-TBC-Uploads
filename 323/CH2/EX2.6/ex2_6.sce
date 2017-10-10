@@ -1,7 +1,7 @@
 //Chapter2, Ex2.6,Pg 2.11
 function [R] = deltatostar(R1,R2,R3,n)
     Rtotal=R1+R2+R3
-    if(n==1)then
+    if(n==1)
         R=R1*R2/Rtotal
     elseif(n==2)
         R=R2*R3/Rtotal
@@ -23,4 +23,3 @@ r2=deltatostar(R1,R2,30,2)
 r3=deltatostar(R1,R2,30,3)
 Req=1/(1/(r1'+r1+10) + 1/(15+r3)) + r2
 printf("\n The equivalent resistance R= %.2f ohms\n",Req)
-

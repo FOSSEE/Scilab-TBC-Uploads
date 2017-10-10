@@ -1,4 +1,4 @@
-//cal size of weld at 1 and 2
+
 clc
 //solution
 //given

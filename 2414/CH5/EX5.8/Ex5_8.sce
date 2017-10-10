@@ -1,5 +1,5 @@
 clc;
-clear all;
+clear;
 //page no 159
 //prob no. 5.8
 

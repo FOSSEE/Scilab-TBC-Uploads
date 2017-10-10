@@ -28,7 +28,7 @@ rgo=rgo1/abs(1+go*(abs(s22)^2));
 //plot a circle in the Smith Chart
 a=(0:360)/180*%pi;
 
-set(gca(),"auto_clear","off");
+mtlb_hold on
 plot(real(dgo)+rgo*cos(a),imag(dgo)+rgo*sin(a),'r','linewidth',2);
 
 //choose the load reflection coefficient
@@ -36,15 +36,10 @@ zL=1-%i*0.53
 GL=(zL-1)/(zL+1);
 
 plot(real(GL),imag(GL),'bo');
-
-[Ro,Theta]=polar(atan(imag(Gs),real(Gs)));
 Gin=s11+s12*s21*GL/(1-s22*GL);
 Gs=conj(Gin);
 Gs_abs=abs(Gs)
+[Ro,Theta]=polar(atan(imag(Gs),real(Gs)));
 Gs_angle=(Theta/%pi)*180;
 
 zs=(1+Gs)/(1-Gs);
-
-
-
-

@@ -1,4 +1,4 @@
-//desing flange
+
 clc
 //soltuion
 //given

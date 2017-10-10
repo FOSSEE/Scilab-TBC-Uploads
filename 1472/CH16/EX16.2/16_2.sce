@@ -1,10 +1,11 @@
 clc
-//initialization of varaibles
+//initialization of variables
 e=0.75
 Ta=870 //R
 Tc=1075//R
 cp=0.24
 Td=550 //R
+Tb=1700;
 //calculations
 Tadash=e*(Tc-Ta) +Ta
 Tcdash=Tc+Ta-Tadash

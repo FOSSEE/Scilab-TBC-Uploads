@@ -17,10 +17,10 @@ for n=1:ylength
      end
 end
 //Calculation of circular convolution using DFT and IDFT
-X1=dft(x1,-1);
-X2=dft(x2,-1);
+X1=fft(x1,-1);
+X2=fft(x2,-1);
 Y1=X1.*X2;
-y1=dft(Y1,1);
+y1=fft(Y1,1);
 y1=clean(y1);
 disp(z,'Linear Convolution sequence is z(n): ');
 disp(y,'Circular Convolution sequence is y(n): ');

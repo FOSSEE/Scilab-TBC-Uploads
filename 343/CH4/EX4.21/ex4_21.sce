@@ -16,6 +16,7 @@ e2=k*e1
 i2=kva*1000/e2
 r02=k*k*r01
 x02=k*k*x01
+t=acosd(0.8)
 pr1=(i2*r02*cosd(t)-i2*x02*sind(t))*100/e2
 v2=e2-(e2*pr1/100)
 disp("ohms",z01,"The equivalent primary resistance is")

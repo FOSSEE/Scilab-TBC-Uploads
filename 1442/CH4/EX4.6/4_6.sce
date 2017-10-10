@@ -21,6 +21,6 @@ S= a1*s1+a2*s2
 //RESULTS
 printf ('a2 = %.3f ',a2)
 printf ('\n specific volume = %.5f m^3/kg',V)
-printf ('\n internal energy = %.1f kJ/kg',u)
+printf ('\n internal energy = %.1f kJ/kg',U)
 printf ('\n enthalpy = %.1f kJ/kg',H)
 printf ('\n Entropy = %.1f kJ/kg',S)

@@ -1,4 +1,5 @@
-Px = 16kPa; Poy = 70kPa;
+Px = 16; Poy = 70;
+g  = 9.81;
 Mx = 1.735; Pyx = 3.34; // Pyx = Py/Px
 rho_yx = 2.25;
 Tyx = 1.483; Poyox = 0.84; My = 0.631;

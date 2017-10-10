@@ -1,5 +1,3 @@
-
-
 //exapple 1.9 
 clc; funcprot(0);
 // Initialization of Variable
@@ -10,9 +8,9 @@ pi=3.14
 d1=0.28;//diameter of tank
 d2=0.0042;//diameter of pipe
 l=0.52;//length of pipe
-rr=1.2/1000/d;//relative roughness
+rr=1.2/1000/d2;;//relative roughness
 phid=0.00475;
-disp(phid,"It is derived from tyhe graph giben in appedix and can be seen is arying b/w 0.0047 & 0.0048 dependent on D which varies from 0.25 to 0.45")
+disp(phid,"It is derived from tyhe graph giben in appedix and can be seen is arying b/w 0.0047 &amp; 0.0048 dependent on D which varies from 0.25 to 0.45")
 //calculations
 function[a]=intregrate()
     s=0;
@@ -26,5 +24,3 @@ function[a]=intregrate()
 endfunction
 b=intregrate();
 disp(b,"Time required to water level to fall in the tank in (s):");
-
-    

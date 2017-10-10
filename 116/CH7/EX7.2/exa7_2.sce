@@ -1,12 +1,10 @@
 
-//Caption:Program to determine relative accuracy of maintaining a mutual slip rate ojective of one slip in 20hrs
 
 //Example 7.2
  
 //Page 350
  
-disp('The slip rate objective implies that thee frame rate produced by one clock can be different than the frame rate produced by the other clock by no more then')
- 
+
 dF=(1/20*60*60)
 
 dF=[1/(20*60*60)]

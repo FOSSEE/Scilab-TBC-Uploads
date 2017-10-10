@@ -1,5 +1,4 @@
-  
-//Caption:Program to determine the system gain
+
  
 //Example 8.5
  

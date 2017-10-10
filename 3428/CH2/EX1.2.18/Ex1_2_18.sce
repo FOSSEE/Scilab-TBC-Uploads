@@ -19,5 +19,5 @@ P_N2=(W_N2/T_W)*100
 disp(P_N2,'Percentage composition of N_2')
 P_O2=(W_O2/T_W)*100
 disp(P_O2,'Percentage composition of O_2')
-P_O2=(W_SO2/T_W)*100
+P_SO2=(W_SO2/T_W)*100
 disp(P_SO2,'Percentage composition of SO_2')

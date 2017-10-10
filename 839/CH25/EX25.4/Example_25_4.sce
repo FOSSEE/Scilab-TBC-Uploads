@@ -8,6 +8,7 @@ vdot = 16000; //[ft^3/min]
 P = 760; //[mm Hg]
 rho_b = 30; //[lb/ft^3]
 Lun = 0.5; //[ft]
+L = 3;
 
 //Solution
 //(a)
@@ -61,7 +62,6 @@ Dp = 1.108*10^-2; //[ft]
 deltaPbyL = 150*1*mu*(1-eps)^2/(32.2*phi_s^2*Dp^2*eps^3)+(1.75*rho*1^2*(1-eps)/(32.2*0.7*Dp*eps^3)); //[lbf/ft^2-ft]
 deltaPbyL = deltaPbyL*12/62.4; //[in. H2O/ft]
 //for
-L = 3;
 deltaP = 3*deltaPbyL; //[in. H2O]
 //which satisfactory.
 mc = 2*(10*27*3)*30; //[lb]

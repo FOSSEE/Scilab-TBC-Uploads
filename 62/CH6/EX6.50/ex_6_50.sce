@@ -36,10 +36,10 @@ poly1=a.children.children;
 poly1.thickness=3;
 poly1.foreground=2;
 clear y;
-X=dft(x,-1);
-H=dft(h,-1);
+X=fft(x,-1);
+H=fft(h,-1);
 Y=H.*X;
-y=dft(Y,1);
+y=fft(Y,1);
 subplot(4,1,4)
 plot2d3(n,y);
 xtitle('y[n]','n')

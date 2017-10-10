@@ -2,6 +2,7 @@
 
 clc;
 p=4;
+f = 50;
 S=60;
 g=180*p/S;
 ph=3;
@@ -16,5 +17,5 @@ F_m=(4/%pi)*K_b*(N_ph/p)*I_Pmax;
 disp(F_m,'F_m(AT/pole)');
 F_peak=(3/2)*F_m;
 disp(F_peak,'F_peak(AT/pole)');
-n=120*f/P;
+n=120*f/p;
 disp(n,'speed(rpm)');

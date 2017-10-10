@@ -1,4 +1,4 @@
-//CAPTION:I-V_Characteristics_of_an_n-p-n_Transistor
+
 //CHAPTER NO.-5
 //Example No.5-1-2 , Page No.-203 
                                                                      

@@ -4,7 +4,7 @@
 printf("\n")
 printf("given")
 Vcc=18;Vbe=.7;hfe=100;
-R1=33*10^3;R2=12*10^3;Re=1*10^3;
+R1=33*10^3;R2=12*10^3;Re=1*10^3;Rc=1.2*10^3;
 Vt=(Vcc*R2)/(R1+R2)
 Rt=(R1*R2)/(R1+R2)
 Ib=(Vt-Vbe)/(Rt+Re*(1+hfe))

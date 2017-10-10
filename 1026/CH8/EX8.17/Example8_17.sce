@@ -14,8 +14,7 @@ dlam=lam1-lam2
 
 lam=lam2
 
-cos(theta)=sqrt(1-(((n*lam)/grat)^2))
-
+theta=acos(sqrt(1-(((n*lam)/grat)^2)))
 dl=((n*f)/(grat*cos(theta)))*dlam
 
 printf("linear separation of two spectral lines\n")

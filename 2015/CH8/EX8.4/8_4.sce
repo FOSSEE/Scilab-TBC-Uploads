@@ -1,10 +1,10 @@
-
 clc
 //initialisation of variables
 t1=261 //temp in k
 t3=310 //temp in k
 cp=1.005 //kj/kg
 r=5
+g = 9.81;
 //CALCULATIONS
 t2=(t1*(r)^((g-1)/g))
 t4=(t3/(r)^((g-1)/g))

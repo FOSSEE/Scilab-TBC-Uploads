@@ -25,6 +25,6 @@ xlabel('time(in s)')
 ylabel('velocity(in m/s)')
 
 subplot(223);
-plot(t,a);
+plot(t,a*ones(1,length(t)));
 xlabel('time(in s)')
 ylabel('acceleration (in m/s^2)')

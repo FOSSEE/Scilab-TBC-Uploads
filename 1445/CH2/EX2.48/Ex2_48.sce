@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 48
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 48");
 
@@ -10,7 +11,6 @@ pf2=0.6;                       //power factor of 2nd circuit
 z=1;                           //this is an assumption
 
 //SOLUTION
-//convert polar to rectangular form
 angle1=acos(pf1)*(180/%pi);    //in degrees
 angle2=acos(pf2)*(180/%pi);    //in degrees 
 //function to convert from polar form to rectangular form
@@ -32,6 +32,6 @@ endfunction;
 [z,angle]=rect2pol(z_x,z_y);
 angle_z=nr-angle;
 pf=cos(angle_z*(%pi/180));
-disp(sprintf("The power factor of the combination is %.3f",pf));
+disp(sprintf("The power factor of the combination is %f",pf));
 
 //END

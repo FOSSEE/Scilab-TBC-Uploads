@@ -1,5 +1,4 @@
-  
-//Caption:Program to calculate the probability that a 1000 bit data block experiences exaclty 4 errors while being transmitted over a link having 10^-5 error rate
+
  
 //Example 12.3
  

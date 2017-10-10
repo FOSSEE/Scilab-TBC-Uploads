@@ -2,10 +2,10 @@
 clc();
 clear;
 //To calculate the Braggs angle 
-h=6.63*10^-34      //Plancks Constant
-m=9.1*10^-31
-e=1.6*10^-19
-v=80
+h=6.63*10^-34      //units in m^2 kg s^-1
+m=9.1*10^-31        //units in Kgs
+e=1.6*10^-19         //units in coulombs
+v=80                   //units in volts
 lamda=h/sqrt(2*m*e*v)            //units in mts
 lamda=lamda*10^9       //units in nm
 a=0.35         //units in nm

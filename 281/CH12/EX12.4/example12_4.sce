@@ -24,7 +24,7 @@ disp('ohms',R1)
 disp("R1=330 ohm std value")
 R1=390
 disp("POTENTIAL DIVIDER")
-disp("let I2>>Ibmax     I2=50uA Vomin=10")
+disp("let I2&gt;&gt;Ibmax     I2=50uA Vomin=10")
 I2=50*10^(-6)
 Vomin=10
 disp("R2=(Vomin-Vz)/I2")
@@ -89,5 +89,5 @@ disp("because I2 is sselected for bipolar opamp either a bipolar or BIFEt opamp 
 disp("supply voltage Vs=19.5V")
 Vs=19.5
 disp("Input supply voltage range=Vs/2-Vz")
-ipvoltage==(Vs/2)-Vz
+ipvoltage=(Vs/2)-Vz
 disp('volts',ipvoltage)

@@ -11,8 +11,7 @@ x = 0.15;
 //the shaft torque T of a generator is proportional to (phi*Ia), where Phi is the flux and Ia is the armature current. Thus, T = k*Phi*Ia, where k is a constant.
 //The torque at flux phi1 and armature current Ia1 is T1 = k*Phi1*Ia1.
 //similarly T2 = k*Phi2*Ia2
-Phi2 = (1 - x)*Phi1
-Ia2 = T2*Ia1*Phi1/(Phi2*T1)
+Ia2 = T2*Ia1/(0.85*T1)
 
 printf("\n\n Result \n\n")
 printf("\n armature current at the new value of torque is %.2f A ",Ia2)

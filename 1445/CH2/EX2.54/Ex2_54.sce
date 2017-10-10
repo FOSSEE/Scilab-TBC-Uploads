@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 54 Read example 53 of the Book
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 54");
 
@@ -10,13 +11,7 @@ R=15;                          //in Ohms
 L=260/1000;                    //in Henry
 
 //SOLUTION
-//resonant Frequency is given by
-//fr= 1/ 2.pi.(sqrt (1/LC - R^2/L^2))
-//Q-factor is given by:
-//Qf=2.pi.fr.L/R
-//dynamic impedance is given by
-//Zr=L/C.R
-//
+
 //solution (i)
 f_r=(1/(2*%pi))*sqrt((1/(L*C)-(R^2/L^2)));
 f_r=round(f_r);                //to round off the value
@@ -24,10 +19,10 @@ disp(sprintf("(i) The resonant frequency is %d Hz",f_r));
 
 //solution (ii)
 q_factor=(2*%pi*f_r*L)/R;
-disp(sprintf("(ii) The Q-factor of the circuit is %.2f",q_factor));
+disp(sprintf("(ii) The Q-factor of the circuit is %f",q_factor));
 
 //solution (iii)
 Z_r=L/(C*R);
-disp(sprintf("(iii) The dynamic impedance of the circuit is %.0f Ω",Z_r));
+disp(sprintf("(iii) The dynamic impedance of the circuit is %f Ω",Z_r));
 
 //END

@@ -1,5 +1,5 @@
 clc
-//initialization of varaibles
+//initialization of variables
 h0=191.81 //B/lb
 Pr0=5.526
 w=1 //lb/sec
@@ -9,6 +9,7 @@ T0=800 //R
 cp=0.24
 P0=150 //psia
 P2=15 //psia
+Pt=79.5;
 //calculations
 Prt=Pratio*Pr0
 disp("From keenan and kaye steam tables,")

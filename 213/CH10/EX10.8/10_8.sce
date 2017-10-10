@@ -17,7 +17,7 @@ P=W*tan(alpha+phi) //N
 //Calculating the mean radius of the flat surface
 R=(R1+R2)/2 //mm
 //Calculating the torque required
-T=(P*d/2+mu1*W*R)/1000 //N-m
+T=(P*d/2+mu*W*R)/1000 //N-m
 //Calculating the speed of the screw
 N=v/p //rpm
 //Calculating the angular speed

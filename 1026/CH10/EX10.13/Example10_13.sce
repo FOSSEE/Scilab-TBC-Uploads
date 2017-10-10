@@ -24,7 +24,7 @@ theta=theta*(180/%pi)//converting into degree
 
 theta=theta*(%pi/180)//converting into radian
 
-Y=D*tan(theta)
+Y=d*tan(theta)
 
 S=(Y/V)
 

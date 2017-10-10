@@ -1,6 +1,5 @@
   
-//Caption:Program to calculate the percentage of total traffic carried by first five ckt and traffic carried by all other remaining
- 
+
 //Example 12.4
 
 //Page 529

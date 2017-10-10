@@ -1,4 +1,4 @@
-//find torque req,stress,numbr of threads
+
 clc
 //soltuion
 //given

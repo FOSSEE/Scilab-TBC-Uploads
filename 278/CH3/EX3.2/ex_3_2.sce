@@ -1,4 +1,4 @@
-//find tolerances, fundamental deviations and limit sizs
+
 clc
 //solution
 //given

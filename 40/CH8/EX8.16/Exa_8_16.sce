@@ -1,8 +1,8 @@
 //signal interpolation using FFT
 xn=[0 1 0 -1];
-XDFT=dft(xn,-1)
+XDFT=fft(xn,-1)
 ZT=[0 -2*%i 0 zeros(1:27) 0 2*%i];
-xn1=dft(ZT,1);
+xn1=fft(ZT,1);
 t=0:1/length(xn1):1-(1/length(xn1));
 a=gca();
 a.x_location="origin";

@@ -14,6 +14,6 @@ printf("Radius of core = %.2f mm \n",a*1e3)//answer in the book is wrong
 NA=sqrt(n1^2-n2^2) //numerical apperture
 printf(" Numerical apperture = %.4f \n",NA)
 
-AA_rad=asin(NA/n) //maximum Acceptance angle in rad
+AA_rad=asin(NA) //maximum Acceptance angle in rad
 AA=AA_rad*180/%pi //maximum entrance angle in degree
 printf(" Acceptance angle i0 = %.2f degree \n",AA)

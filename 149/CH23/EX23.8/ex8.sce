@@ -23,13 +23,13 @@ A
 b=0;
 disp('sum of all elements of sixth row=')
 for i=1:9
-  b+=A(6,i)
+  b=b+A(6,i)
 end
 disp(b)
 f=0;
 disp('sum of all elements of second row=')
 for i=1:9
-  f+=A(2,i)
+  f=f+A(2,i)
 end
 disp(f)
 disp('mean=')
@@ -37,7 +37,7 @@ b/f
 d=0;
 disp('sum of all elements of fifth row=')
 for i=1:9
-  d+=A(5,i)
+  d=d+A(5,i)
 end
 disp('mean wage=')
 32.5+(8*d/f)

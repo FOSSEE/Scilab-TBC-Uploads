@@ -41,11 +41,11 @@ function [f]=geometric_mean1(g,m,n);//gmean1() is used to filter an image using 
 endfunction
 
 function [f]=restoration_filter(v,type,m,n,Q,d)
-    if argn(2) ==2 then
+    if argn(2) ==2 
         m=7;n=7;Q=1.5;d=10; 
-    elseif argn(2)==5 then
+    elseif argn(2)==5 
         Q=parameter;d=parameter; 
-    elseif argn(2)==4 then
+    elseif argn(2)==4 
         Q=1.5;d=2; 
     else  
         disp('wrong number of inputs'); 
@@ -53,10 +53,10 @@ function [f]=restoration_filter(v,type,m,n,Q,d)
     
     select type
         
-    case'median'then
+    case'median'
         f=MedianFilter(v,[m n]);
         
-    case'MIN'then
+    case'MIN'
        size1=m;
        [nr,nc]=size(v);
        temp=zeros(nr+2*floor(size1/2),nc+2*floor(size1/2));
@@ -70,7 +70,7 @@ function [f]=restoration_filter(v,type,m,n,Q,d)
         end
         f=mat2gray(temp2);    
     
-    case'MAX'then
+    case'MAX'
        size1=m;
        [nr,nc]=size(v);
        temp=zeros(nr+2*floor(size1/2),nc+2*floor(size1/2));
@@ -84,7 +84,7 @@ function [f]=restoration_filter(v,type,m,n,Q,d)
         end
         f=mat2gray(temp2);
         
-        case'Mid_Point'then
+        case'Mid_Point'
        size1=m;
        [nr,nc]=size(v);
        temp=zeros(nr+2*floor(size1/2),nc+2*floor(size1/2));
@@ -133,9 +133,9 @@ title('Original Image');
 [M,N]=size(gray);
 
 ///////////////////////////////////       Median Filter    ////////////////////
-v=imnoise(gray,'salt & pepper',0.1);
+v=imnoise(gray,'salt &amp; pepper',0.1);
 figure,ShowImage(v,'Noisy Image');
-title('Original Image with Salt & Pepper Noise');
+title('Original Image with Salt &amp; Pepper Noise');
 //Filtering the corrupted image with median filter
 h=restoration_filter(v,'median',3,3);
 figure,ShowImage(h,'Recovered Image');
@@ -152,7 +152,7 @@ title('Recovered Image with Median Filter');
 
 ///////////////////////////////////       MAX Filter    ////////////////////
 temp(1:M,1:N)=0.5;
-r3=imnoise(temp,'salt & pepper',0.1);   // Generate salt & pepper Noise  
+r3=imnoise(temp,'salt &amp; pepper',0.1);   // Generate salt &amp; pepper Noise  
 gray_noise_pepper=gray;                  // Add Pepper Noise Only
 [r c]=find(r3==0);
         for i=1:length(r)
@@ -169,7 +169,7 @@ title('Recovered Image with MAX Filter');
 
 ////////////////////////////////////       MIN Filter    ////////////////////
 temp(1:M,1:N)=0.5;
-r3=imnoise(temp,'salt & pepper',0.1);   // Generate salt & pepper Noise 
+r3=imnoise(temp,'salt &amp; pepper',0.1);   // Generate salt &amp; pepper Noise 
 gray_noise_salt=gray;                  // Add salt Noise Only
 [r c]=find(r3==1);
         for i=1:length(r)
@@ -196,9 +196,9 @@ title('Recovered Image with MIN Filter');
 
 /////////////////////////////////       Alpha Trimmed Filter    ////////////////////
 v=imnoise(gray,'gaussian',0,0.02);
-v=imnoise(v,'salt & pepper',0.05);
+v=imnoise(v,'salt &amp; pepper',0.05);
 figure,ShowImage(v,'Noisy Image');
-title('Image with Gaussian and Salt&Pepper Noise');
+title('Image with Gaussian and Salt&amp;Pepper Noise');
 m=5;n=5;d=5;
 [f]=arithmetic_mean(v,m,n);  // Filtering with Arithmetical mean
 figure,ShowImage(f,'Recovered Image');
@@ -213,4 +213,3 @@ title('Recovered Image with Median Filter');
 f=alphatrim(v,m,n,d);   // Filtering with alphatrim Filtering
 figure,ShowImage(f,'Recovered Image');
 title('Recovered Image with Alpha Trimmed Filter');
-

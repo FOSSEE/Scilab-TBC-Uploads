@@ -1,4 +1,4 @@
-//find diameter  of rivet
+
 clc
 //solution
 //given
@@ -28,7 +28,7 @@ a=0.555
 R3=sqrt(Ps^2+F3^2+2*F3*Ps*a)
 R2=Ps+F2//N
 printf("the value of forces is,%f N\n,%f N\n",R2,R3)
-//R3>R2
+//R3&gt;R2
 pi=3.14
 P=(pi/4)*d^2*T
 //R3=P

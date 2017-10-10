@@ -1,8 +1,7 @@
-
-
 //exapple 4.1 
 clc; funcprot(0);
-// Initialization of Variable
+// Initialization of Variables
+pi = %pi;
 rho=998;
 rhom=1.354*10^4;//density  of mercury
 M=2.83/100;
@@ -43,5 +42,3 @@ u=0.81*umax2;
 Q=pi*d^2/4*u;
 disp(Q,"volumetric flow rate is (m^3/s):");
 disp(Q*rhog,"mass flow rate  in (kg/s):")
-
-

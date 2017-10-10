@@ -17,7 +17,7 @@ Q2 = cv*(T5-T1);
 n_cycle = 1-(Q2/Q1);
 v1 = (R*T1)/P1;
 v12 = (15/16)*v1; // v1-v2
-Wnet = Q1*n1;
+Wnet = Q1*n_cycle;
 Pm = Wnet/(v12);
-disp("%",n*100,"Efficiency of the cycle is")
+disp("%",n_cycle*100,"Efficiency of the cycle is")
 disp("bar",Pm,"Mean effective pressure is")

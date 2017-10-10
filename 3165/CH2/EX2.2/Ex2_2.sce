@@ -1,9 +1,0 @@
-//exponential//
-clc;
-i=10;//input//
-n=0:i;//variable//
-y=exp(n);//output//
-plot2d3(n,y);
-xlabel('n');
-ylabel('amplitude');
-title('exponential');

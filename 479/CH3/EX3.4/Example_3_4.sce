@@ -10,7 +10,7 @@ clc;
 W = 0;//work done during the process
 P1 = 1;//Initial pressure in atm
 P2 = 10;//Final pressure in atm
-V2 = V1;//Initial & final volume are equal
+//V2 = V1 Initial &amp; final volume are equal
 Cv = 0.23//specific heat at constant volume in Kcal/Kg deg K
 //(delQ/delT)=Q
 Q = 1.3;//Rate of heat addition in Kcal/min

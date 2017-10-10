@@ -11,7 +11,7 @@ R_r_2=19.4;
 X_r=%i*0.8;
 Z_eq=X_m*(R_r_1+X_r)/(X_m+R_r_1+X_r);      //equivalent impedance to the right in the figure in textbook
 Z_s=R_s+X_s+Z_eq;
-I_s=V_s/Z_s;      //starting phase current
+I_s=V_L/Z_s;      //starting phase current
 [I_s_max,phi]=polar(I_s);
 I_L=sqrt(3)*I_s_max;      //starting line current
 //I_L here is almost six times larger than in previous example. It is a typical characteristic of induction motors.

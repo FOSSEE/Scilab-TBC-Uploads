@@ -10,7 +10,7 @@ hc= 21 //ft
 hi= 5 //ft
 //CALCULATIONS
 Wo= w*u/g
-nm= 1-(h/Ws)
+nm= 1-(hi/Ws)
 nh= 1-((hc+hi)/Wi)
 no= nm*nh
 //RESULTS

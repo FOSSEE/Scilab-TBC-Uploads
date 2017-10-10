@@ -1,4 +1,4 @@
-//design cottered foundation bolts
+
 clc
 //solution
 //given

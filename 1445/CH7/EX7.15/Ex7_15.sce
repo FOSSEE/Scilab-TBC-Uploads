@@ -1,6 +1,7 @@
 //CHAPTER 7- SINGLE PHASE TRANSFORMER
 //Example 15
 
+clc;
 disp("CHAPTER 7");
 disp("EXAMPLE 15");
 //20kVA single phase transformer

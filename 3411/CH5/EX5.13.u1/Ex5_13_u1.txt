@@ -1,10 +1,10 @@
-Indices of the plane corresponding to peak 1 is 1
-Indices of the plane corresponding to peak 2 is 2.0
-Indices of the plane corresponding to peak 3 is 3.0
-Indices of the plane corresponding to peak 4 is 4.0
-Indices of the plane corresponding to peak 5 is 5.0
-Indices of the plane corresponding to peak 6 is 6.0
-Indices of the plane corresponding to peak 7 is 7.0
-Indices of the plane corresponding to peak 8 is 8.0
+unit cell Dimensions for peak 1 when 2*theta=20.7 is (110) where sin^2(theta)/0.0308 is 2
+unit cell Dimensions for peak 2 when 2*theta=28.7 is (200) where sin^2(theta)/0.0308 is 4.0
+unit cell Dimensions for peak 3 when 2*theta=35.4 is (211) where sin^2(theta)/0.0308 is 6.0
+unit cell Dimensions for peak 4 when 2*theta=41.1 is (220) where sin^2(theta)/0.0308 is 8.0
+unit cell Dimensions for peak 5 when 2*theta=46.2 is (310) where sin^2(theta)/0.0308 is10.0
+unit cell Dimensions for peak 6 when 2*theta=50.9 is (232) where sin^2(theta)/0.0308 is 12.0
+unit cell Dimensions for peak 7 when 2*theta=55.3 is (321) where sin^2(theta)/0.0308 is 14.0
+unit cell Dimensions for peak 8 when 2*theta=59.4 is (400) where sin^2(theta)/0.0308 is 15.94
 The material corresonds to bcc structure
-Lattice parameter of the material a=0.2868nm 
+Lattice parameter of the material a=0.2863nm 

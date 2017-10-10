@@ -8,5 +8,5 @@ ph4=12.67
 pH1=0.5*(ph1+ph2)
 pH2=0.5*(ph3+ph4)
 //results
-printf("Equilibrium pH in case 1 = ",pH1)
-printf("\n Equilibrium pH in case 2 = ",pH2)
+printf("Equilibrium pH in case 1 = %f ",pH1)
+printf("\n Equilibrium pH in case 2 = %f",pH2)

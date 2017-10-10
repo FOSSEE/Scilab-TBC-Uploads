@@ -37,6 +37,20 @@ ACI2=IATD2+D;//in RS
 ACI3=IATD3+D;//in RS
 ACI4=IATD4+D;//in RS
 ACI5=IATD5+D;//in RS
+//P.V factor at 10% rate of discount
+PV1=0.909;
+PV2=0.826;
+PV3=0.751;
+PV4=0.683;
+PV5=0.621;
+//Present value for all cash in flows at 10% discount Rate
+P1=ACI1*PV1;// in Rs
+P2=ACI2*PV2;// in Rs
+P3=ACI3*PV3;// in Rs
+P4=ACI4*PV4;// in Rs
+P5=ACI5*PV5;// in Rs
+//Total Present Value
+P=P1+P2+P3+P4+P5;// in Rs
 //Project A : Cummulative cash in flows of 1st,2nd,3rd,4th and 5th years
 CumCIF1=ACI1;//in Rs.
 CumCIF2=ACI1+ACI2;//in Rs.

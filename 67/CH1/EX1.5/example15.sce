@@ -4,7 +4,7 @@ clc;
 A=1;
 a=2;
 t=-a:a
-x=1;
+x=ones(length(t),1);
 plot(t,x)
 //this signal is a finite duration signal so it is energy signal
 E=integrate('1','t',-a,a);

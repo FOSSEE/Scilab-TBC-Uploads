@@ -1,5 +1,5 @@
 //Example 1_12_u1
-clc();
+clc;
 clear;
 //To calculate the wavelength of the light used
 Dnp=0.8   //units in cm

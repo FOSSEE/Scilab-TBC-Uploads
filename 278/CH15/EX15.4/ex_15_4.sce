@@ -1,4 +1,4 @@
-//find dia o hnalde,xsec,dia of journal
+
 clc
 //solution
 //given

@@ -1,4 +1,4 @@
-//find the maximum instan stress and elongation
+
 clc
 //solution
 //given

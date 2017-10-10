@@ -1,6 +1,4 @@
 
-//Caption:Program to calculate how often do two calls arrive with less than 0.01 sec between them
- 
 //Example 12.1
  
 //Page 524

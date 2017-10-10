@@ -1,6 +1,7 @@
 clc;
 //page 197
 Tmin=300//lb
+ Tmin = Tmin*[2/3 -1/3 2/3];
 AC=[12 12 0]
 w=[0;-450;0]
 x1=AC*w

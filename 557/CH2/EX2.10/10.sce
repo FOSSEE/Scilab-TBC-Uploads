@@ -5,7 +5,7 @@ clc ;funcprot(0);
 phi = 30; //30 degree
 h = 1.2 ; // Height of tank
 l = 2;    // Length of tank
-
+g = 9.81;
 //Calculations
 function[Theta]=SurfaceAngle(a,phi)
     Theta = atand(-a*cosd(phi)/(g+a*sind(phi)));

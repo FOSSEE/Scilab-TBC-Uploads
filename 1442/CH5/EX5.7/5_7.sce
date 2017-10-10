@@ -10,6 +10,6 @@ V3= 0.3 //m^2
 //CALCULATIONS
 V1= m*R*(273.15+T1)/(M*p1)
 T3= k*(273.15+T1)
-p3= m*R*T3*100/(M*V)
+p3= m*R*T3*100/(M*V1)
 //RESULTS
 printf (' final pressure = %.1f kPa',p3)

@@ -9,6 +9,7 @@ printf('Illustration 1.22 - Page:61 \n\n');
 
 //*****Data*****//
 //   a-oxygen   b-nitrogen
+M_a = 32;
 T = 293; // [K]
 P = 0.1; // [atm]
 d = 0.3*10^-6; // [m]

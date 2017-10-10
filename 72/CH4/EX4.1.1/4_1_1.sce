@@ -1,4 +1,4 @@
-//CAPTION: TE10_In_Rectangular_Waveguide
+
 //CHAPTER-4        
 // EXAMPLE: 4-1-1,page no.-128.
 

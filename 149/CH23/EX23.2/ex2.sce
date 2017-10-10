@@ -19,13 +19,13 @@ A
 b=0;
 disp('sum of all elements of third row=')
 for i=1:16
-  b+=A(3,i)
+  b=A(3,i)
 end
 disp(b)
 f=0;
 disp('sum of all elements of second row=')
 for i=1:16
-  f+=A(2,i)
+  f=f+A(2,i)
 end
 disp(f)
 disp('mean=')
@@ -33,7 +33,7 @@ b/f
 d=0;
 disp('sum of all elements of fifth row=')
 for i=1:16
-  d+=A(5,i)
+  d=d+A(5,i)
 end
 disp('mean  by step deviation method=')
 25+(2*d/f)

@@ -1,14 +1,15 @@
 clc
+clear
 //initialisation of variables
 d= 2 //m
 t= 20 //mm
 p= 1.5 //N/mm^2
-load= 2500 //KN
+Load= 2500 //KN
 alpha= 60 //degrees
 //CALCULATIONS
 Cs= (p*d*10^3)/(2*t)
 Ls= (p*d*10^3)/(4*t)
-Ds= (load*10^3)/(%pi*d*t*10^3)
+Ds= (Load*10^3)/(%pi*d*t*10^3)
 Ts= Ls+Ds
 sigman= (Ts*t*(cosd(90-alpha))^2+Cs*t*(cosd(alpha))^2)/t
 tab= Ts*sind(alpha)*cosd(alpha)-Cs*sind(alpha)*cosd(alpha)

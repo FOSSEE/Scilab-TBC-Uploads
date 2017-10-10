@@ -1,4 +1,4 @@
-//CAPTION:Double_stub_matching
+
 //chapter_no.-3,  page_no.-111
 //Example_no.3-6-2
 clc;

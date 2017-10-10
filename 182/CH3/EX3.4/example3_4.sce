@@ -8,7 +8,7 @@ Rm=1000;// Coil resistance is 1 K-ohm
 // calculation
 I=10;// FSD initialisation
 m=0;
-while I&gt;0.1,
+while I>0.1,
     I=I/10;
     Vm=Im*Rm;//voltage across the meter in volts
     Is=I-Im;//current through shunt resistance in ampere

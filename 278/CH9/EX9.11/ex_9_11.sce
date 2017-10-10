@@ -1,5 +1,4 @@
-//design joint
-clc
+
 //solution
 //given
 b=200//mm

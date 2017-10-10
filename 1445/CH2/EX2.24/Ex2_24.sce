@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 22 // read it as example 23 in the book on page 2.77
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 24");
 
@@ -17,11 +18,11 @@ rms=Im/2;
 Iav=Im/%pi;                     //average current
 ff=rms/Iav;
 disp("SOLUTION");
-disp(sprintf("RMS value of current is %3.0f A",  rms)); 
-disp(sprintf("Average value of current is %3.2f A",  Iav)); 
-disp(sprintf("Form Factor of current is %3.2f A",  ff)); 
+disp(sprintf("RMS value of current is %3f A",  rms)); 
+disp(sprintf("Average value of current is %3f A",  Iav)); 
+disp(sprintf("Form Factor of current is %3f A",  ff)); 
 disp(" "); 
-//
+
 //END
 
 

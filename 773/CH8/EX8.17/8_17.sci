@@ -1,5 +1,6 @@
 //coefficient//
 s=%s;
+t = %t;
 F=syslin('c',(25)/(s^2+7*s)); //Creates transfer function in forward path
 B=syslin('c',(1+0*s)/(1+0*s)); //Creates transfer function in backward path
 k=20/25;   //k=gain factor

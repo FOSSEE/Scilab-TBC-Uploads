@@ -1,4 +1,4 @@
-//find size of fillet welds at top and bottom
+
 clc
 //solution
 //given

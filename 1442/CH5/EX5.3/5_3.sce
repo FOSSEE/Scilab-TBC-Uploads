@@ -1,6 +1,7 @@
 clc
 //initialisation of variables
 V= 20 //L
+R = 8.314;
 m= 0.050 //gms
 M= 29 //gms
 T1= 20 //C

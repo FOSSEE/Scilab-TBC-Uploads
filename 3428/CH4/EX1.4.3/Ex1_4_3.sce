@@ -3,5 +3,5 @@
 L=758
 H=420
 U=61
-VI=((L-U)/L-H))*100
+VI=((L-U)/(L-H))*100
 disp (VI,'Viscosity index of the given oil sample')

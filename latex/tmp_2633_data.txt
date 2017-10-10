@@ -1,0 +1,79 @@
+12#Hydrodynamics#12.4#Ex 4#12_4.sce#2633/CH12/EX12.4/12_4.sce#S##87120
+12#Hydrodynamics#12.3#Ex 3#Ex12_3.sce#2633/CH12/EX12.3/Ex12_3.sce#S##108844
+12#Hydrodynamics#12.2#Ex 2#12_2.sce#2633/CH12/EX12.2/12_2.sce#S##87118
+12#Hydrodynamics#12.1#Ex 1#12_1.sce#2633/CH12/EX12.1/12_1.sce#S##87146
+11#Hydrostatics#11.6#Ex 6#Ex11_6.sce#2633/CH11/EX11.6/Ex11_6.sce#S##108843
+11#Hydrostatics#11.4#Ex 4#11_4.sce#2633/CH11/EX11.4/11_4.sce#S##87115
+11#Hydrostatics#11.3#Ex 3#11_3.sce#2633/CH11/EX11.3/11_3.sce#S##103493
+11#Hydrostatics#11.2#Ex 2#11_2.sce#2633/CH11/EX11.2/11_2.sce#S##87113
+11#Hydrostatics#11.1#Ex 1#11_1.sce#2633/CH11/EX11.1/11_1.sce#S##87112
+11#Hydrostatics#10.5#Ex 5#11_5.sce#2633/CH11/EX10.5/11_5.sce#S##87116
+10#Force in plane framework#10.5#Ex 3#EX10_5.sce#2633/CH10/EX10.5/EX10_5.sce#S##108842
+10#Force in plane framework#10.4#Ex 2#10_4.sce#2633/CH10/EX10.4/10_4.sce#S##87110
+10#Force in plane framework#10.3#Ex 1#10_3.sce#2633/CH10/EX10.3/10_3.sce#S##87109
+9#Torsion of shafts#9.6#Ex 6#Ex9_6.sce#2633/CH9/EX9.6/Ex9_6.sce#S##108841
+9#Torsion of shafts#9.5#Ex 5#9_5.sce#2633/CH9/EX9.5/9_5.sce#S##87107
+9#Torsion of shafts#9.4#Ex 4#9_4.sce#2633/CH9/EX9.4/9_4.sce#S##87106
+9#Torsion of shafts#9.3#Ex 3#9_3.sce#2633/CH9/EX9.3/9_3.sce#S##87105
+9#Torsion of shafts#9.2#Ex 2#9_2.sce#2633/CH9/EX9.2/9_2.sce#S##87145
+9#Torsion of shafts#9.1#Ex 1#9_1.sce#2633/CH9/EX9.1/9_1.sce#S##87104
+8#Bending of beams#8.4#Ex 4#8_4.sce#2633/CH8/EX8.4/8_4.sce#S##87103
+8#Bending of beams#8.3#Ex 3#8_3.sce#2633/CH8/EX8.3/8_3.sce#S##87102
+8#Bending of beams#8.2#Ex 2#Ex8_2.sce#2633/CH8/EX8.2/Ex8_2.sce#S##108845
+8#Bending of beams#8.1#Ex1#8_1.sce#2633/CH8/EX8.1/8_1.sce#S##87100
+7#Shear force and bending moment diagrams#7.3#Ex 2#Ex7_3.sce#2633/CH7/EX7.3/Ex7_3.sce#S##108840
+7#Shear force and bending moment diagrams#7.2#Ex 1#7_2.sce#2633/CH7/EX7.2/7_2.sce#S##87098
+6#Strength of materials#6.9#Ex 9#6_9.sce#2633/CH6/EX6.9/6_9.sce#S##87093
+6#Strength of materials#6.8#Ex 8#6_8.sce#2633/CH6/EX6.8/6_8.sce#S##87092
+6#Strength of materials#6.7#Ex 7#6_7.sce#2633/CH6/EX6.7/6_7.sce#S##87091
+6#Strength of materials#6.6#Ex 6#6_6.sce#2633/CH6/EX6.6/6_6.sce#S##87090
+6#Strength of materials#6.5#Ex 5#Ex6_5.sce#2633/CH6/EX6.5/Ex6_5.sce#S##108839
+6#Strength of materials#6.4#Ex 4#Ex6_4.sce#2633/CH6/EX6.4/Ex6_4.sce#S##108838
+6#Strength of materials#6.3#Ex 3#6_3.sce#2633/CH6/EX6.3/6_3.sce#S##87087
+6#Strength of materials#6.2#Ex 2#6_2.sce#2633/CH6/EX6.2/6_2.sce#S##102810
+6#Strength of materials#6.14#Ex 14#6_14.sce#2633/CH6/EX6.14/6_14.sce#S##87097
+6#Strength of materials#6.13#Ex 13#6_13.sce#2633/CH6/EX6.13/6_13.sce#S##87096
+6#Strength of materials#6.12#Ex 12#6_12.sce#2633/CH6/EX6.12/6_12.sce#S##87144
+6#Strength of materials#6.11#Ex 11#6_11.sce#2633/CH6/EX6.11/6_11.sce#S##87095
+6#Strength of materials#6.10#Ex 10#6_10.sce#2633/CH6/EX6.10/6_10.sce#S##87094
+6#Strength of materials#6.1#Ex 1#6_1.sce#2633/CH6/EX6.1/6_1.sce#S##87085
+5#Mechanisms#5.5#Ex 5#Ex5_5.sce#2633/CH5/EX5.5/Ex5_5.sce#S##108837
+5#Mechanisms#5.4#Ex 4#5_4.sce#2633/CH5/EX5.4/5_4.sce#S##87083
+5#Mechanisms#5.3#Ex 3#5_3.sce#2633/CH5/EX5.3/5_3.sce#S##87082
+5#Mechanisms#5.2#Ex 2#Ex5_2.sce#2633/CH5/EX5.2/Ex5_2.sce#S##108836
+5#Mechanisms#5.1#Ex 1#Ex5_1.sce#2633/CH5/EX5.1/Ex5_1.sce#S##108835
+4#Simple Harmonic motion#4.6#Ex 6#4_6.sce#2633/CH4/EX4.6/4_6.sce#S##87079
+4#Simple Harmonic motion#4.5#Ex 5#Ex4_5.sce#2633/CH4/EX4.5/Ex4_5.sce#S##108834
+4#Simple Harmonic motion#4.4#Ex 4#4_4.sce#2633/CH4/EX4.4/4_4.sce#S##87077
+4#Simple Harmonic motion#4.3#Ex 3#4_3.sce#2633/CH4/EX4.3/4_3.sce#S##87076
+4#Simple Harmonic motion#4.2#Ex 2#4_2.sce#2633/CH4/EX4.2/4_2.sce#S##87075
+4#Simple Harmonic motion#4.1#Ex 1#4_1.sce#2633/CH4/EX4.1/4_1.sce#S##87074
+3#Motion in a circle#3.9#Ex 9#3_9.sce#2633/CH3/EX3.9/3_9.sce#S##87073
+3#Motion in a circle#3.8#Ex 8#3_8.sce#2633/CH3/EX3.8/3_8.sce#S##87072
+3#Motion in a circle#3.7#Ex 7#Ex3_7.sce#2633/CH3/EX3.7/Ex3_7.sce#S##108833
+3#Motion in a circle#3.6#Ex 6#Ex3_6.sce#2633/CH3/EX3.6/Ex3_6.sce#S##108832
+3#Motion in a circle#3.5#Ex 5#3_5.sce#2633/CH3/EX3.5/3_5.sce#S##87069
+3#Motion in a circle#3.4#Ex 4#3_4.sce#2633/CH3/EX3.4/3_4.sce#S##87068
+3#Motion in a circle#3.3#Ex 3#3_3.sce#2633/CH3/EX3.3/3_3.sce#S##87067
+3#Motion in a circle#3.2#Ex 2#Ex3_2.sce#2633/CH3/EX3.2/Ex3_2.sce#S##108831
+3#Motion in a circle#3.1#Ex 1#3_1.sce#2633/CH3/EX3.1/3_1.sce#S##87065
+2#Angular Motion#2.9#Ex 9#Ex2_9.sce#2633/CH2/EX2.9/Ex2_9.sce#S##108830
+2#Angular Motion#2.8#Ex 8#Ex2_8.sce#2633/CH2/EX2.8/Ex2_8.sce#S##108829
+2#Angular Motion#2.7#Ex 7#2_7.sce#2633/CH2/EX2.7/2_7.sce#S##87060
+2#Angular Motion#2.6#Ex 6#Ex2_6.sce#2633/CH2/EX2.6/Ex2_6.sce#S##108828
+2#Angular Motion#2.5#Ex 5#2_5.sce#2633/CH2/EX2.5/2_5.sce#S##87058
+2#Angular Motion#2.4#Ex 4#2_4.sce#2633/CH2/EX2.4/2_4.sce#S##87057
+2#Angular Motion#2.3#Ex 3#Ex2_3.sce#2633/CH2/EX2.3/Ex2_3.sce#S##108827
+2#Angular Motion#2.2#Ex 2#2_2.sce#2633/CH2/EX2.2/2_2.sce#S##87055
+2#Angular Motion#2.11#Ex 11#2_11.sce#2633/CH2/EX2.11/2_11.sce#S##87064
+2#Angular Motion#2.10#Ex 10#2_10.sce#2633/CH2/EX2.10/2_10.sce#S##102808
+2#Angular Motion#2.1#Ex 1#2_1.sce#2633/CH2/EX2.1/2_1.sce#S##87054
+1#Linear Motion#1.9#Ex 9#Ex1_9.sce#2633/CH1/EX1.9/Ex1_9.sce#S##108826
+1#Linear Motion#1.8#Ex 8#1_8.sce#2633/CH1/EX1.8/1_8.sce#S##87052
+1#Linear Motion#1.7#Ex 7#1_7.sce#2633/CH1/EX1.7/1_7.sce#S##87051
+1#Linear Motion#1.6#Ex 6#Ex1_6.sce#2633/CH1/EX1.6/Ex1_6.sce#S##108825
+1#Linear Motion#1.5#Ex 5#1_5.sce#2633/CH1/EX1.5/1_5.sce#S##87049
+1#Linear Motion#1.4#Ex 4#Ex1_4.sce#2633/CH1/EX1.4/Ex1_4.sce#S##108824
+1#Linear Motion#1.3#Ex 3#1_3.sce#2633/CH1/EX1.3/1_3.sce#S##87047
+1#Linear Motion#1.2#Ex 2#Ex1_2.sce#2633/CH1/EX1.2/Ex1_2.sce#S##108823
+1#Linear Motion#1.1#Ex 1#Ex1_1.sce#2633/CH1/EX1.1/Ex1_1.sce#S##108822

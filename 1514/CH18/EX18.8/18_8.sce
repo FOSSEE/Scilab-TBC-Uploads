@@ -2,7 +2,7 @@
 //example 18.8
 //page no 581 
 clc;
-clear all;
+clear;
 //given
 eta=0.7;
 Vbb=20;

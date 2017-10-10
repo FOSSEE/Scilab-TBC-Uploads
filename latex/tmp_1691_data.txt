@@ -51,7 +51,7 @@
 3#Multivibrators and Blocking Oscillators#3.1#stable state currents and voltages#exp3_1.sce#1691/CH3/EX3.1/exp3_1.sce#S##60847
 3#Multivibrators and Blocking Oscillators#3.1#stable state currents and voltages#exp3_1_d3_4_a.xcos#1691/CH3/EX3.1/exp3_1_d3_4_a.xcos#X##60848
 3#Multivibrators and Blocking Oscillators#3.1#stable state currents and voltages#exp3_1_d3_4_b.xcos#1691/CH3/EX3.1/exp3_1_d3_4_b.xcos#X##60849
-2#Oscillators#2.9#frequency of oscillations#exmp2_9.sce#1691/CH2/EX2.9/exmp2_9.sce#S##60817
+2#Oscillators#2.9#Frequency of oscillations of a Hartley oscillator#exmp2_9.sce#1691/CH2/EX2.9/exmp2_9.sce#S##60817
 2#Oscillators#2.8#range over which capacitor is varied#exmp2_8.sce#1691/CH2/EX2.8/exmp2_8.sce#S##60816
 2#Oscillators#2.7#min and max R2#exmp2_7.sce#1691/CH2/EX2.7/exmp2_7.sce#S##60815
 2#Oscillators#2.6#frequency of oscillator#exmp2_6.sce#1691/CH2/EX2.6/exmp2_6.sce#S##60814
@@ -83,7 +83,7 @@
 2#Oscillators#2.14#range of tuning capacitor#exmp2_14.sce#1691/CH2/EX2.14/exmp2_14.sce#S##60822
 2#Oscillators#2.13#value of inductor#exmp2_13.sce#1691/CH2/EX2.13/exmp2_13.sce#S##60821
 2#Oscillators#2.12#value of C#exmp2_12.sce#1691/CH2/EX2.12/exmp2_12.sce#S##60820
-2#Oscillators#2.11#frequency of oscillations#exmp2_11.sce#1691/CH2/EX2.11/exmp2_11.sce#S##60819
+2#Oscillators#2.11#Frequency of oscillations of a transistorised Colpitts oscillator#exmp2_11.sce#1691/CH2/EX2.11/exmp2_11.sce#S##60819
 2#Oscillators#2.10#range of C#exmp2_10.sce#1691/CH2/EX2.10/exmp2_10.sce#S##60818
 2#Oscillators#2.1#verify barkhausen criterion#exmp2_1.sce#1691/CH2/EX2.1/exmp2_1.sce#S##60809
 1#Feedback Amplifiers#1.9#voltage gain and input and output impedance#Example1_9.sce#1691/CH1/EX1.9/Example1_9.sce#S##60783
@@ -117,6 +117,6 @@
 1#Feedback Amplifiers#1.14#Av and beta of amplifier#Example1_14.sce#1691/CH1/EX1.14/Example1_14.sce#S##60788
 1#Feedback Amplifiers#1.13#feedback ratio and input voltage#Example1_13.sce#1691/CH1/EX1.13/Example1_13.sce#S##60787
 1#Feedback Amplifiers#1.12#single stage RC coupled amplifier#Example1_12.sce#1691/CH1/EX1.12/Example1_12.sce#S##60786
-1#Feedback Amplifiers#1.11#gain with feedback#Example1_11.sce#1691/CH1/EX1.11/Example1_11.sce#S##60785
+1#Feedback Amplifiers#1.11#gain of the amplifier with feedback#Example1_11.sce#1691/CH1/EX1.11/Example1_11.sce#S##60785
 1#Feedback Amplifiers#1.10#amplifier without feedback#Example1_10.sce#1691/CH1/EX1.10/Example1_10.sce#S##60784
 1#Feedback Amplifiers#1.1#transistor in the feedback amplifier#Example1_1.sce#1691/CH1/EX1.1/Example1_1.sce#S##60775

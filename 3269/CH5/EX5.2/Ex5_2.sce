@@ -1,5 +1,5 @@
 // Example 5.2
-clear all;
+clear;
 clc;
 
 // Given data
@@ -15,7 +15,3 @@ SIGMA_s = N*sigma_s             // Macroscopic scattering cross section of carbo
 D = 1/(3*SIGMA_s*(1-mu_bar));
 // Result
 printf('\n Diffusion coefficeint of graphite at 1 eV = %4.3f cm \n',D);
-
-
-
-

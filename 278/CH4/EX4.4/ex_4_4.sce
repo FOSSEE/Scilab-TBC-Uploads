@@ -1,5 +1,4 @@
-//1.)calculate the stress on the lower washers before the nuts are tightened,refer fig 4.5
-//2.)what could be the stress in upper and lower washers...
+
 clc
 //solution
 //given

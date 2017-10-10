@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 54
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 54");
 
@@ -24,6 +25,6 @@ I=vab2/(req+r2);
 RTh=(6/5)+(3/4);                
 req2=10+2;
 I3=9/12;
-disp(sprintf("The value of the current is %.2f A",I3));
+disp(sprintf("The value of the current is %f A",I3));
 
 //END 

@@ -1,6 +1,7 @@
 //CHAPTER 4- MEASURING INSTRUMENTS
 //Example 4
 
+clc;
 disp("CHAPTER 4");
 disp("EXAMPLE 4");
 
@@ -15,12 +16,12 @@ V=500;                       //in Volts
 //solution (a)
 R_sh=r_A/((I/I_A)-1);        //(I/I_A) is the multiplying factor of the shunt
 
-disp(sprintf("The required shunt resistance is %.2f Ω",R_sh));
+disp(sprintf("The required shunt resistance is %f Ω",R_sh));
 
 //solutuion (b)
 r=V/I_A;                     //total resistance required                  
 R_se=r-r_A;
-disp(sprintf("The required resistance to be added in series is %.3f Ω",R_se));
+disp(sprintf("The required resistance to be added in series is %f Ω",R_se));
 
 //END
 

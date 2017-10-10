@@ -1,5 +1,6 @@
 clc;
 e=1.6*10^-19;      //charge
+h= 6.626 * 10^-34;
 ke=1.5*10^4;            //kinetic energy in eV
 KE=ke*e;         //calculating kinetic energy
 m=9.1*10^-31;      //mass in kg

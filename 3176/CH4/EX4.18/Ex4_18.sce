@@ -15,15 +15,15 @@ xdel(winsid())//to close all currently open figure(s).
 function[H]=lowpassfilter(type1,M,N,D0,n)//lowpassfilter is used to filter an image .
     u=0:(M-1);
     v=0:(N-1);
-    idx=find(u>M/2);
+    idx=find(u&gt;M/2);
     u(idx)=u(idx)-M;
-    idy=find(v>N/2);
+    idy=find(v&gt;N/2);
     v(idy)=v(idy)-N;
     [U,V]=meshgrid(v,u);
     D=sqrt(U.^2+V.^2);
     select type1
         
-    case'gaussian'then
+    case'gaussian'
         H=exp(-(D.^2)./(2*(D0^2)));
     else
         disp('Unknownfiltertype.')

@@ -11,5 +11,4 @@ Ps=V*I
  
 Vo1=(4*V)/(%pi*sqrt(2))
 
-Pout=Vo1*Io/sqrt(2)*cos(%pi*Angle/180)
- 
+Pout=Vo1*I/sqrt(2)*cos(%pi*Angle/180)

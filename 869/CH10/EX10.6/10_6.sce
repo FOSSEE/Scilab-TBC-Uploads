@@ -2,7 +2,7 @@ clc
 //initialisation of variables
 ds= 2 //in
 n= 315 //rpm
-Gs= 12*10^6
+G= 12*10^6
 Lab= 5 //in
 Lbc= 15 //in
 Pa= 10 //hp

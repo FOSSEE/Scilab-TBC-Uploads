@@ -4,7 +4,7 @@ clear;
 //To calculate the probability for a state 
 //When 0.1 eV above the fermi energy
 e_ef=0.1      //units in eV
-kb=8.62*10^-5
+kb=8.62*10^-5           //units in eV/K
 t=800        //units in kelvin
 fE=1/(1+exp((e_ef)/(kb*t)))
 printf("The probability of occupancy for a state whose energy is 0.1 eV above the fermi energy is f(E)=%.3f",fE)

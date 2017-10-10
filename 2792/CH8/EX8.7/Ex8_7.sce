@@ -1,5 +1,6 @@
 clc
-Nd = 5*10^16
+Nd = 5*10^16;
+e = 1.6*10^-19;
 disp("Nd = "+string(Nd)+"cm^-3") //initializing value of channel doping
 L = 2*10^-4
 disp("L = "+string(L)+"cm") //initializing value of channel length
@@ -23,5 +24,4 @@ ID2 = ID*(1+(dL2/(2*L)))
 disp("The current at the bias is ,ID2(VDS(sat)+1.5 V) = ID*(1+(dL2/(2*L)))= "+string(ID2)+"mA")//calculation
 rDS = (VDS2-VDS1)/((ID2-ID1)*10^-3)
 disp("The output resistance of source drain channel is ,rDS = (VDS2-VDS1)/(ID2-ID1)= "+string(rDS)+"ohm")//calculation
-// Note : due to different precisions taken by me and the author ... my answer differ 
-
+// Note : due to different precisions taken by me and the author ... my answer differ

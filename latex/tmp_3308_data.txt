@@ -1,0 +1,44 @@
+36#Quality Assurance Testing And Inspection#36.2#Calculation of Control Limits and Standard Deviation#Ex36_2.sce#3308/CH36/EX36.2/Ex36_2.sce#S##111938
+36#Quality Assurance Testing And Inspection#36.2#Calculation of Control Limits and Standard Deviation#Ex36_2.txt#3308/CH36/EX36.2/Ex36_2.txt#R##111939
+36#Quality Assurance Testing And Inspection#36.1#Calculation of Loss Function and Payback Period in Polymer Tubing#Ex36_1.sce#3308/CH36/EX36.1/Ex36_1.sce#S##111936
+36#Quality Assurance Testing And Inspection#36.1#Calculation of Loss Function and Payback Period in Polymer Tubing#Ex36_1.txt#3308/CH36/EX36.1/Ex36_1.txt#R##111937
+32#Tribology Friction Wear and Lubrication#32.1#Calculation of Cofficient of Friction#Ex32_1.sce#3308/CH32/EX32.1/Ex32_1.sce#S##111934
+32#Tribology Friction Wear and Lubrication#32.1#Calculation of Cofficient of Friction#Ex32_1.txt#3308/CH32/EX32.1/Ex32_1.txt#R##111935
+28#Solid State Welding Processes#28.1#Calculation of Heat Generated in Spot Welding#Ex28_1.sce#3308/CH28/EX28.1/Ex28_1.sce#S##111932
+28#Solid State Welding Processes#28.1#Calculation of Heat Generated in Spot Welding#Ex28_1.txt#3308/CH28/EX28.1/Ex28_1.txt#R##111933
+25#Abrasive Machining and Finishing Operations#25.2#Calculation of Force in Surface Grinding#Ex25_2.sce#3308/CH25/EX25.2/Ex25_2.sce#S##111930
+25#Abrasive Machining and Finishing Operations#25.2#Calculation of Force in Surface Grinding#Ex25_2.txt#3308/CH25/EX25.2/Ex25_2.txt#R##111931
+25#Abrasive Machining and Finishing Operations#25.1#Calculation of Chip Dimensions in Surface Grinding#Ex25_1.sce#3308/CH25/EX25.1/Ex25_1.sce#S##111928
+25#Abrasive Machining and Finishing Operations#25.1#Calculation of Chip Dimensions in Surface Grinding#Ex25_1.txt#3308/CH25/EX25.1/Ex25_1.txt#R##111929
+23#Machining Processes Used to Produce Various Shape#23.2#Calculation of Material Removal Rate Power Required and Cutting Time in Face Milling#Ex23_2.sce#3308/CH23/EX23.2/Ex23_2.sce#S##111926
+23#Machining Processes Used to Produce Various Shape#23.2#Calculation of Material Removal Rate Power Required and Cutting Time in Face Milling#Ex23_2.txt#3308/CH23/EX23.2/Ex23_2.txt#R##111927
+23#Machining Processes Used to Produce Various Shape#23.1#Calculation of Material Removal Rate Power Required Torque and Cutting Time in Slab Milling#Ex23_1.sce#3308/CH23/EX23.1/Ex23_1.sce#S##111924
+23#Machining Processes Used to Produce Various Shape#23.1#Calculation of Material Removal Rate Power Required Torque and Cutting Time in Slab Milling#Ex23_1.txt#3308/CH23/EX23.1/Ex23_1.txt#R##111925
+22#Machining Processes Used to Produce Round Shape#22.2#Calculation of Material Removal Rate and Torque in Drlling#Ex22_2.sce#3308/CH22/EX22.2/Ex22_2.sce#S##111922
+22#Machining Processes Used to Produce Round Shape#22.2#Calculation of Material Removal Rate and Torque in Drlling#Ex22_2.txt#3308/CH22/EX22.2/Ex22_2.txt#R##111923
+22#Machining Processes Used to Produce Round Shape#22.1#Calculation of Material Removal Rate and Cutting Force in Turning#Ex22_1.sce#3308/CH22/EX22.1/Ex22_1.sce#S##111920
+22#Machining Processes Used to Produce Round Shape#22.1#Calculation of Material Removal Rate and Cutting Force in Turning#Ex22_1.txt#3308/CH22/EX22.1/Ex22_1.txt#R##111921
+20#Machining Processes Used to Produce Round Shape#20.2#Change in Tool Life by Changing the Cutting Speed#Ex20_2.sce#3308/CH20/EX20.2/Ex20_2.sce#S##111918
+20#Machining Processes Used to Produce Round Shape#20.2#Change in Tool Life by Changing the Cutting Speed#Ex20_2.txt#3308/CH20/EX20.2/Ex20_2.txt#R##111919
+20#Machining Processes Used to Produce Round Shape#20.1#Calculation of Energy used as friction In cutting#Ex20_1.sce#3308/CH20/EX20.1/Ex20_1.sce#S##111916
+20#Machining Processes Used to Produce Round Shape#20.1#Calculation of Energy used as friction In cutting#Ex20_1.txt#3308/CH20/EX20.1/Ex20_1.txt#R##111917
+18#Forming and Shaping Plastics And Composite Materials#18.2#Calculation of number of Gears In Injection Moulding#Ex18_2.sce#3308/CH18/EX18.2/Ex18_2.sce#S##111914
+18#Forming and Shaping Plastics And Composite Materials#18.2#Calculation of number of Gears In Injection Moulding#Ex18_2.txt#3308/CH18/EX18.2/Ex18_2.txt#R##111915
+18#Forming and Shaping Plastics And Composite Materials#18.1#Calculation of Diameter of Die in Extrusion#Ex18_1.sce#3308/CH18/EX18.1/Ex18_1.sce#S##111912
+18#Forming and Shaping Plastics And Composite Materials#18.1#Calculation of Diameter of Die in Extrusion#Ex18_1.txt#3308/CH18/EX18.1/Ex18_1.txt#R##111913
+17#Processing of Powder Metals Ceramics Glass and Superconductors#17.1#Calculation of Dimensional Changes During Shaping of Ceramic Components#Ex17_1.sce#3308/CH17/EX17.1/Ex17_1.sce#S##111910
+17#Processing of Powder Metals Ceramics Glass and Superconductors#17.1#Calculation of Dimensional Changes During Shaping of Ceramic Components#Ex17_1.txt#3308/CH17/EX17.1/Ex17_1.txt#R##111911
+16#Sheet Metal Forming Processes#16.1#Calculation of Punch Force#Ex16_1.sce#3308/CH16/EX16.1/Ex16_1.sce#S##111908
+16#Sheet Metal Forming Processes#16.1#Calculation of Punch Force#Ex16_1.txt#3308/CH16/EX16.1/Ex16_1.txt#R##111909
+15#Extrusion and Drawing of Metals#15.1#Calculation of Force in Hot Extrusion#Ex15_1.sce#3308/CH15/EX15.1/Ex15_1.sce#S##111906
+15#Extrusion and Drawing of Metals#15.1#Calculation of Force in Hot Extrusion#Ex15_1.txt#3308/CH15/EX15.1/Ex15_1.txt#R##111907
+14#Forging of Metals#14.1#Calculation of Forging Force#Ex14_1.sce#3308/CH14/EX14.1/Ex14_1.sce#S##111904
+14#Forging of Metals#14.1#Calculation of Forging Force#Ex14_1.txt#3308/CH14/EX14.1/Ex14_1.txt#R##111905
+13#Rolling of Metals#13.1#Calculation of Roll Force and Torque#Ex13_1.sce#3308/CH13/EX13.1/Ex13_1.sce#S##111902
+13#Rolling of Metals#13.1#Calculation of Roll Force and Torque#Ex13_1.txt#3308/CH13/EX13.1/Ex13_1.txt#R##111903
+10#Fundamental of Metal Casting#10.1#solidification time for various shapes#Ex10_1.sce#3308/CH10/EX10.1/Ex10_1.sce#S##111900
+10#Fundamental of Metal Casting#10.1#solidification time for various shapes#Ex10_1.txt#3308/CH10/EX10.1/Ex10_1.txt#R##111901
+9#Composite Materials Structure General Properties and Applicatons#9.1#Calculation of fraction of load supported by fibre#Ex9_1.sce#3308/CH9/EX9.1/Ex9_1.sce#S##111898
+9#Composite Materials Structure General Properties and Applicatons#9.1#Calculation of fraction of load supported by fibre#Ex9_1.txt#3308/CH9/EX9.1/Ex9_1.txt#R##111899
+2#Mechanical Behavior Testing and Manufacturing Properties of Materials#2.1#Calculation of Ultimate Tensile Strength#Ex2_1.sce#3308/CH2/EX2.1/Ex2_1.sce#S##111896
+2#Mechanical Behavior Testing and Manufacturing Properties of Materials#2.1#Calculation of Ultimate Tensile Strength#Ex2_1.txt#3308/CH2/EX2.1/Ex2_1.txt#R##111897

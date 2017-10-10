@@ -21,10 +21,11 @@ W2=1538//N
 K1=(4*C-1)/(4*C-4)+(0.615/C)
 K2=K1
 //d1=(K1*8*W1*C/(%pi*t1))^(0.5)
+d1=10
 printf("dia of spring wires is,%f mm\n",(K1*8*W1*C/(%pi*t1))^(0.5))
 printf("dia is ,say 10mm\n")
 printf("mean outer dia is,%f mm\n",6*d1)
-d1=10
+
 D1=6*d1
 printf("dia of spring wires is,%f mm\n",(K2*8*W2*C/(%pi*t2))^(0.5))
 printf("dia is ,say 6 mm\n")
@@ -46,6 +47,3 @@ printf("outr dia of outr spring is,%f mm\n",D1+d1)
 printf("innr dia of outr spring is,%f mm\n",D1-d1)
 printf("outer dia of innr spring is,%f mm\n",D2+d2)
 printf("innr dia of innr spring is,%f mm\n",D2-d2)
-
-
-

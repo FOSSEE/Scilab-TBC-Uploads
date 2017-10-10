@@ -1,4 +1,4 @@
-//dsign flange
+
 clc
 //soltuion
 //given

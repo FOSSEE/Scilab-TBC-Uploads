@@ -1,4 +1,4 @@
-//clear//
+clear
 //Caption:Program to Caculate force exerted on Q2 by Q1
 //Example2.1
 //page 29
@@ -6,7 +6,7 @@ clc;
 r2 = [2,0,5];
 r1 = [1,2,3];
 R12 = norm(r2-r1);
-aR12 = UnitVector(r2-r1);
+aR12 = (r2-r1)/R12;
 disp(R12,'R12=')
 disp(aR12,'aR12=')
 Q1 = 3e-04; //charge 1 in Coulombs
@@ -24,4 +24,4 @@ disp(F1,'Force exerted on Q1 by Q2 in N/m F1 =')
 //Force exerted on Q2 by Q1 in N/m F2 =   
 //  - 9.9863805    19.972761  - 19.972761   
 //Force exerted on Q1 by Q2 in N/m F1 =   
-//     9.9863805  - 19.972761    19.972761 
+//     9.9863805  - 19.972761    19.972761

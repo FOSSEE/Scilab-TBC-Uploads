@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 33
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 33");
 
@@ -27,10 +28,10 @@ v1=x(1,:);                       //to access the 1st element of 2X1 matrix
 v2=x(2,:);                       //to access the 1st element of 2X1 matrix
 if(v1>v2) then
 I=(v1-v2)/r5;
-disp(sprintf("By nodal analysis, the current through 1Ω resistor is %.3f A",I));
+disp(sprintf("By nodal analysis, the current through 1Ω resistor is %f A",I));
 else
 I=(v2-v1)/r5;
-disp(sprintf("By nodal analysis, the current through 1Ω resistor is %.3f A",I));
+disp(sprintf("By nodal analysis, the current through 1Ω resistor is %f A",I));
 end;
 
 //END

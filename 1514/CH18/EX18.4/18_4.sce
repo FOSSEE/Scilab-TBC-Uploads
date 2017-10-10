@@ -1,7 +1,7 @@
 //chapter 18
 //example 18.4
 //page 575
-clear all;
+clear;
 clc ;
 //given
 PD=360;//power dissipation in mW

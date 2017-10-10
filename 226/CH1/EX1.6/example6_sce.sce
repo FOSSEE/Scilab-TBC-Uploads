@@ -3,7 +3,9 @@
 //page 29
 printf("\n")
 printf("given")
-Id=.1*10^-3;n=2;vt=26*10^-3;
+
+Id=.1*10^-3;n=2;
+Vt=26*10^-3;
 I0=30*10^-9;
 disp("a)")
 Vd=(n*Vt)*log(Id/I0)*10^3;

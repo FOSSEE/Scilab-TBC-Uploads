@@ -8,7 +8,7 @@ T1 = 288;
 
 //for these values of M and theta, from fig. 9.9
 b1 = 24*%pi/180;
-Mn_1 = M1*sin(b);
+Mn_1 = M1*sin(b1);
 
 //from Appendix B, for Mn,1 = 2.05, we have
 Mn_2 = 0.7157;

@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 8
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 8");
 
@@ -32,6 +33,6 @@ disp(sprintf("(d) The mechanical power developed to load is %d kW",p_shaft));
 
 //solution (e)
 eff=p_shaft/p_in;
-disp(sprintf("(e) The efficiency of the motor is %.2f %%",eff*100));
+disp(sprintf("(e) The efficiency of the motor is %f %%",eff*100));
 
 //END

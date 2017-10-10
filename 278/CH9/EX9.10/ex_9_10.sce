@@ -1,4 +1,4 @@
-//give design calculation sfor longitudinal and circumferncial joints
+
 clc
 //soltuion
 //given
@@ -20,7 +20,7 @@ Ps=4*1.875*(pi/4)*d^2*T+(pi/4)*d^2*T//N//shearing resistance of rivet//N//sheari
 //2100*(p-34.5)=Ps
 //p=Ps/(2100)+34.5//mm
 //pmax=C*t+41.28=220//mm
-//since p>pmax,therefore
+//since p&gt;pmax,therefore
 p=220//mm
 p'=220/2//mm
 d1=0.2*p + 1.15*d//mm/diatnce between outtr and row and next row

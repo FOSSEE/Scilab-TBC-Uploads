@@ -25,6 +25,6 @@ disp(Vf,"Vf = ");
 
 disp("From equation 12-26 ");
 
-vf=(1/sqrt(e));
+vf=(1/sqrt(ep));
 
 disp(vf,"Vf = ");

@@ -1,4 +1,4 @@
-//find force reqird at the end of lever
+
 clc
 //soltuion
 //given

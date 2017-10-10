@@ -18,7 +18,7 @@ DR=df/fm;
 
 disp(DR,"DR = ");
 
-disp("From Table 7.3);
+disp("From Table 7.3");
 
 B=2*(8*fm);
 

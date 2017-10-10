@@ -1,6 +1,7 @@
 //pathname=get_absolute_file_path('16.10.sce')
 //filename=pathname+filesep()+'16.10-data.sci'
 //exec(filename)
+R = 0.287;
 //Barometer reading(in cm):
 h=75.6
 //Density of mercury(in kg/cm^3):

@@ -1,4 +1,4 @@
-// CAPTION: Gridded_Travelling-Wave_Tube(GTWT)
+
 //chapter_no.-9,  page_no.-427
 //Example_no.9-7-1
 clc;

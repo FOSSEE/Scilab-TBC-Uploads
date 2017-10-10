@@ -1,5 +1,6 @@
 clc
 //initialisation of variables
+g= 32.2 //ft/sec^2
 a= 60 //degrees
 a1= 15 //degrees
 a2= 45 //degrees

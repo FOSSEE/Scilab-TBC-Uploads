@@ -1,7 +1,7 @@
 clc
 //initialisation of variables
 Cp= 2.7 //cal per mole per degree
-CP1= 6.9 //cal per mole per degree
+Cp1= 6.9 //cal per mole per degree
 Cp2= 15.4 //cal per mole per degree
 H= -20.24 //kcal
 T= 200 //C

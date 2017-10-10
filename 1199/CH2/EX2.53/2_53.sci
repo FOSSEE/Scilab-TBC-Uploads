@@ -1,5 +1,6 @@
 // 2.53
 clc;
+clear
 R=10^6;
 C=2500*10^-12;
 tc=R*C;
@@ -7,7 +8,7 @@ t=2*10^-3;
 d=100*10^-12;
 F=0.1;
 el=10^3*{d*F*[exp(-t/tc)]/C};
-printf("Voltage just before t=2ms =%.2f mV",e1)
+printf("Voltage just before t=2ms =%.2f mV",el)
 el_after=10^3*{d*F*[exp(-t/tc)-1]/C};
 disp(el_after,'voltage just after t=2ms (mV)')
 printf("Voltage just after t=2ms =%.2f mV",el_after)

@@ -2,7 +2,6 @@
 //P.Ramakrishna Rao
 clc;
 clear;
-clear z x y t T;
 A=1;
 n=1;
 wo=2*%pi;

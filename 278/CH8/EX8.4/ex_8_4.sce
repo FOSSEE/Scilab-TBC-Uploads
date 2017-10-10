@@ -1,4 +1,4 @@
-//find working stress in flange
+
 clc
 //solution
 //given

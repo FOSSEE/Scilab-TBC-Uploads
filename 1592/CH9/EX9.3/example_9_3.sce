@@ -3,6 +3,12 @@
 //Convolution of two signals
 clc;
 clear;
+function [y]=u(t)
+    if t>=0
+    y=1
+else y=0
+    end
+endfunction
 n=1;
 for t=-5:0.1:5
     x(n)=-2*u(t-0.5)+2*u(t-1.5);

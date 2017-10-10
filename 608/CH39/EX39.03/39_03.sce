@@ -13,10 +13,11 @@ del = atan(P/(2*%pi*f*V*V*C))
 //for an equivalent series circuit,
 //tan(del) = (Rs*w*Cs)
 Cs = C
+Cp = C
 Rs = (tan(del))/(2*%pi*f*Cp)
 //for an equivalent parallel circuit
 //tan(del) = 1/(Rp*w*Cp)
-Cp = C
+
 Rp = 1/(2*%pi*f*Cp*tan(del))
 
 printf("\n\n Result \n\n")

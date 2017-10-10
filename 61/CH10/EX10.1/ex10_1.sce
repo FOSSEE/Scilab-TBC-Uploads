@@ -1,4 +1,9 @@
-//ex10.1
+function A_p_dB=gain_in_decibel_power(A_p)
+    A_p_dB=10*log10(A_p)
+endfunction
+function A_v_dB=gain_in_decibel_voltage(A_v)
+    A_v_dB=20*log10(A_v)
+endfunction//ex10.1
 //P out/P in=250;
 A_p_dB=gain_in_decibel_power(250)
 disp(A_p_dB,'Power gain when power gain is 250')

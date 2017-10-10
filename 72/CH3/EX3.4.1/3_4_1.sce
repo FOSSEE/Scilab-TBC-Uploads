@@ -1,4 +1,4 @@
-//CAPTION: Line_impedance
+
 
 //chapter_no.-3,  page_no.-99
 //Example_no.3-4-1

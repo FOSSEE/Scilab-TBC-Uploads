@@ -22,5 +22,5 @@ Ie1=(beeta+1)*Ib1                   //emitter current(mA)
 Vce1=-(Vee-(Ie1*Re)-(Rc*Ic1))       //collector to emitter voltage(V)   
                       
 //Result
-printf ("collector current and Vce for beeta=160 are %.2f mA and V" ,Ic,Vce)
-printf ("Ic and Vce for beeta=80 are %.2f mA and V",Ic,Vce1)
+printf ("collector current and Vce for beeta=160 are %.2f mA and %.2f" ,Ic,Vce)
+printf ("Ic and Vce for beeta=80 are %.2f mA and %.2f",Ic,Vce1)

@@ -1,5 +1,4 @@
- 
-//Caption:Program to determine the difference in wavelength of two optical signal
+
  
 //Example 8.4
  

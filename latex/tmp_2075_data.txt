@@ -53,7 +53,6 @@
 4#Linear power amplifier integrated circuits#4.15#15#pe4_15.sce#2075/CH4/EX4.15/pe4_15.sce#S##78300
 4#Linear power amplifier integrated circuits#4.14#14#pe4_14.sce#2075/CH4/EX4.14/pe4_14.sce#S##78299
 4#Linear power amplifier integrated circuits#4.13#13#pe4_13.sce#2075/CH4/EX4.13/pe4_13.sce#S##78298
-4#Linear power amplifier integrated circuits#4.12#12#pe4_12.sce#2075/CH4/EX4.12/pe4_12.sce#S##78296
 4#Linear power amplifier integrated circuits#4.11#11#pe4_11.sce#2075/CH4/EX4.11/pe4_11.sce#S##78295
 4#Linear power amplifier integrated circuits#4.10#10#pe4_10.sce#2075/CH4/EX4.10/pe4_10.sce#S##78294
 4#Linear power amplifier integrated circuits#4.1#1#pe4_1.sce#2075/CH4/EX4.1/pe4_1.sce#S##78285

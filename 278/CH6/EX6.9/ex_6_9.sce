@@ -13,8 +13,8 @@ sigmay=510
 Ksur=0.87
 Ksz=0.85
 Kf=1
-tauy=o.5*sigmay//yield stress in shear loading is taken as one half of yield stress in reverse bending
-0=(taum/tauy)-((tauv*Kf)/(taue*Ksur*Ksz)-(1/FS)//according to Soderberg's relation
+tauy=0.5*sigmay//yield stress in shear loading is taken as one half of yield stress in reverse bending
 FS=1/0.541
-disp(FS,"Factor of safety=")
+0==(taum/tauy)-((tauv*Kf)/(taue*Ksur*Ksz)-(1/FS))//according to Soderberg's relation
 
+disp(FS,"Factor of safety=")

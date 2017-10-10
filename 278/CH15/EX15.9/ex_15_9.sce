@@ -1,4 +1,4 @@
-//find thickness of vessel,dia of screw,xsec of beam at A,dia of pins at C and D,dia at E and f...G and H.....xsec at E and F
+
 clc
 //soltuion
 //given

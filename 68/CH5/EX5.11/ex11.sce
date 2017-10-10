@@ -15,11 +15,11 @@ I_E1=(V_BB-V_BE)/(R_E +(R_BB/(B+1)))
 disp(I_E1,"I_E1 (A)")
 I_B1=I_E1/(B+1)
 disp(I_B1,"I_B1 (A)")
-V_B1=V_BE+I_E*R_E;
+V_B1=V_BE+I_E1*R_E;
 disp(V_B1,"V_B1 (V)")
 a=B/(B+1); // alpha value
 // beta and alpha values are same for the two transistors
-I_C1=a*I_E
+I_C1=a*I_E1
 disp(I_C1,"IC1 (A)")
 V_C1=V_CC-I_C1*R_C1;
 disp(V_C1,"V_C1 (V))")

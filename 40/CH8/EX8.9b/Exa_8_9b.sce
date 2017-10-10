@@ -3,7 +3,7 @@ n2=0:1/1280:31/128;
 xt=4*sin(72*%pi*n2');
 n=0:1/128:31/128;//F=9/32 hence N=32
 xn=4*sin(72*%pi*n');
-XDFT=abs(dft(xn,-1));
+XDFT=abs(fft(xn,-1));
 n1=0:31;
 a=gca();
 a.x_location="origin";

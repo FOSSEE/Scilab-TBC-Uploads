@@ -1,6 +1,9 @@
 // example:-3.7,page no.-101.
 // NOTE:-this example is a method for calculating unknown load impedence of slotted line section.all data are given and preassumed.
 // program to determine unknown load impedence.
+clc
+clear
+exec("DEPENDENCIES/smith_chart_tao.sci")
 Zl=0;Zo=50; // for short circuitting the load.
 SWR=%inf;
 // short circuit is removed and replace with unknown load.

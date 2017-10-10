@@ -4,9 +4,9 @@ clc;
 // RC pase shift oscillator
 // All resistors are in Kohm
 f=1000; Ro=5;
-//Choose R>> R0 to minimize the effects of R0 on frequency. Select R=100kohm
+//Choose R&gt;&gt; R0 to minimize the effects of R0 on frequency. Select R=100kohm
 R=100;
-c=1/(2*%pi*f*R*sqrt(6+(4*R0/R)))*10^9;
+c=1/(2*%pi*f*R*sqrt(6+(4*Ro/R)))*10^9;
 disp('pF',c,+'The value of capacitor is ');
 // The required open -circuit voltage gain is 
 Ao= 29+23*(Ro/R)+4*(Ro/R)^2;

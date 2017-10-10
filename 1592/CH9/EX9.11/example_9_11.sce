@@ -3,7 +3,12 @@
 //Power Spectral Density 
 clear;
 clc;
-clear f n;
+function [y]=delta(t)
+    if t==0
+    y=1
+else y=0
+    end
+endfunction
 fo=2;
 n=1;
 RC=1/(2*%pi*10^3);

@@ -3,6 +3,7 @@ warning("off");
 printf("\n\n example7.22 - pg321");
 // given
 To=545.67;  //[degR] -  air temperature at beach level
+po = 760; //torr
 betaa=-0.00357;  //[degR/ft] - constant
 R=1545;  //[Torr*ft^3/degR*mole] - gas constant
 M=29;

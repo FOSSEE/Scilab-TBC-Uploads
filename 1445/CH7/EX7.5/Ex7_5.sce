@@ -1,6 +1,7 @@
 //CHAPTER 7- SINGLE PHASE TRANSFORMER
 //Example 5
 
+clc;
 disp("CHAPTER 7");
 disp("EXAMPLE 5");
 

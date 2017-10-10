@@ -14,7 +14,7 @@ endfunction
  
 [x3,y3]=polar2rect(8,90)
   
-X=X1-(X2*X3)
+X=x1-(x2*x3)
 
 function[r,theta]=rect2polar(x,y)
 r=sqrt(x^2+y^2);

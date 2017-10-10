@@ -9,7 +9,7 @@ for i= 1:8
 end
 Q= [qb(1),qb(2),qb(3),qb(4),qb(5)];//
 AV=(-qb(1)-qb(2)+qb(3)+qb(4)-qb(5))/10;//
-SD=st_deviation(Q);//standard deviation
+SD=stdev(Q);//standard deviation
 V=SD^2;//variance
 disp(AM,"arithematic mean is in kg/cm^2")
 //answer is wrong in textbook

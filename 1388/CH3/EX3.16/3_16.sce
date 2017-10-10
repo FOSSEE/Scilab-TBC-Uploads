@@ -5,5 +5,5 @@ H1= -128.67 //kcal
 H2= -216.90 //kcal
 //CALCULATIONS
 H3= H-(H1+H2)
-a//RESULTS
+//RESULTS
 printf (' Enthalpy = %.1f kcal ',H3)

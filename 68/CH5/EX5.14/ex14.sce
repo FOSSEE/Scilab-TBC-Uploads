@@ -1,5 +1,6 @@
 // Example 5.14 : Analysis of transistor amplifier
 V_CC=10; // (V)
+B=100;
 R_C=3000; // (ohm)
 R_BB=100*10^3; // (ohm)
 V_BB=3; // (V)

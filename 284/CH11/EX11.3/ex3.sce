@@ -1,6 +1,7 @@
 // Chapter 11_ Metal-Oxide-Semiconductor Field Effect Transistor:Additional Concepts
 //Caption_Narrow channel effects
 //Ex_3//page 520
+e = 1.6*10^-19;
 Na=3*10^16
 tox=450*10^-8    //oxide thickness
 fi=%pi/2     //fitting parameter

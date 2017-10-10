@@ -19,7 +19,7 @@ R = 8.314; //ideal gas constant
 //Specific heats of air (kJ/kg K)
 Cp = 1.005;
 Cv = 0.718;
-
+gama = Cp/Cv
 //To determine work done thermal efficiency and mean effective pressure
 //Referring fig 5.25 (Page no. 167)
 

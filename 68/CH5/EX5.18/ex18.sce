@@ -1,6 +1,7 @@
 //Example 5.18 : Midband gain and 3dB frequency
 // Transistor is biased at I_C=1mA
 V_CC=10; // (V)
+V_T=25*10^-3;
 V_EE=10; // (V)
 I=0.001; // (A)
 R_B=100000; // (ohm)

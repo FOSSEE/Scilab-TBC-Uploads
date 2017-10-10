@@ -1,4 +1,4 @@
-// CAPTION: UP-Converter_parametric_Amplifier
+
 //chapter_no.-8,  page_no.-346
 //Example_no.8-5-1
 clc;

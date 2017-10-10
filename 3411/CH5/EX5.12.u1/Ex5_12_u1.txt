@@ -1,4 +1,10 @@
+unit cell Dimensions when 2*theta=40.0 is (100) where sin^2(theta)/0.0111 is 1
+unit cell Dimensions when 2*theta=58.0 is (110) where sin^2(theta)/0.0111 is 2
+unit cell Dimensions when 2*theta=73.0 is (111) where sin^2(theta)/0.0111 is 3
+unit cell Dimensions when 2*theta=86.8 is (200) where sin^2(theta)/0.0111 is 4
+unit cell Dimensions when 2*theta=100.4 is (210) where sin^2(theta)/0.0111 is5
+unit cell Dimensions when 2*theta=114.7 is (211) where sin^2(theta)/0.0111 is 6
 The ratio of sin(theta)^2 values for first and second angles is 0.50
  Hence the crystal structure is bcc
-Lattice constant a=0.268nm 
- And the element is tungsten Since Tungsten has lattice constant of 0.268nm and crystallizes in bcc structure 
+Lattice constant a=0.318nm 
+ And the element is tungsten Since Tungsten has lattice constant of 0.318nm and crystallizes in bcc structure 

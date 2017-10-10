@@ -10,8 +10,8 @@ disp(R1min)
 Voutmax=12
 R1max=5*R2/7;//using eq (1)
 disp(R1max)
-Rsc=Vsense/Il;
+Rsc=Vsense/I1;
 disp(Rsc)
 R3=(R1max*R2)/(R1max+R2)
-Bmin=Il/Imax;
+Bmin=I1/Imax;
 disp(Bmin)

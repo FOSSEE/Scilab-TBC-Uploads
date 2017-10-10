@@ -1,6 +1,7 @@
 //CHAPTER 10- THREE-PHASE INDUCTION MACHINES
 //Example 2
 
+clc;
 disp("CHAPTER 10");
 disp("EXAMPLE 2");
 
@@ -16,7 +17,7 @@ s1=(N_s-N_r1)/N_s;             //slip at full load
 //solution (a)
 N_r2=0;                        //rotor speed at standstill is zero
 s2=(N_s-N_r2)/N_s;
-disp(sprintf("(a) At standstill, the slip is %.2f %%",s2*100));
+disp(sprintf("(a) At standstill, the slip is %f %%",s2*100));
 if(s2>1)
 disp("Since the slip is greater than 100%, the motor operates as brake");
 end;
@@ -32,7 +33,7 @@ end;
 //solution (b) 
 N_r3=500;
 s3=(N_s-N_r3)/N_s;
-disp(sprintf("(b) At %d rpm, the slip is %.2f %%",N_r3,s3*100));
+disp(sprintf("(b) At %d rpm, the slip is %f %%",N_r3,s3*100));
 if(s3>1)
 disp("Since the slip is greater than 100%, the motor operates as brake");
 end;
@@ -48,7 +49,7 @@ end;
 //solution (c)
 N_r4=500;
 s4=(N_s+N_r4)/N_s;              //as motor runs in opposite direction  
-disp(sprintf("(c) At %d rpm, the slip is %.3f %%",N_r4,s4*100));
+disp(sprintf("(c) At %d rpm, the slip is %f %%",N_r4,s4*100));
 if(s4>1)
 disp("Since the slip is greater than 100%, the motor operates as brake");
 end;
@@ -64,7 +65,7 @@ end;
 //solution (d)
 N_r5=2000;
 s5=(N_s-N_r5)/N_s;
-disp(sprintf("(d) At %d rpm, the slip is %.3f %%",N_r5,s5*100));
+disp(sprintf("(d) At %d rpm, the slip is %f %%",N_r5,s5*100));
 if(s5>1)
 disp("Since the slip is greater than 100%, the motor operates as brake");
 end;

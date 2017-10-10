@@ -2,9 +2,11 @@ clc
 //initialisation of variables
 P= 1 //atm
 T= 11 //C
+Tsat = 170.03
 Csf= 0.006
 r= 1/3
 s= 1
+dt = Tsat - T
 cl= 4.218 //J/gm K
 hfg= 2257 //J/gm
 Pr= 1.75

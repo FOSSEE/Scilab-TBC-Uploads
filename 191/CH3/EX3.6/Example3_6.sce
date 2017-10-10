@@ -9,7 +9,7 @@ deff('[Secant]=f(x)','Secant=exp(x)-x-2');
 x = linspace(0,1.5);
 subplot(2,1,1);
 plot(x,exp(x)-x-2);
-plot(x,0);
+plot(x,zeros(length(x),1));
 //from the graph the function has 2 roots
 //considering the initial negative root -10
 x0 = -10
@@ -30,7 +30,7 @@ disp(x2,'The negative root of the function is : ')
 subplot(2,1,2);
 x = linspace(-2.5,0);
 plot(x,exp(x)-x-2);
-plot(x,0);
+plot(x,zeros(length(x),1));
 x0 = 10
 x1 = 9;
 x2 = (x0*f(x1)-x1*f(x0))/(f(x1)-f(x0));

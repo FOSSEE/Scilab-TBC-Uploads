@@ -1,4 +1,4 @@
-//find rxn at Q and R,tensile stress in 12mm dia of rod at Q,shear stress....
+
 clc
 //solution
 //given

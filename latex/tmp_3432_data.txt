@@ -1,0 +1,295 @@
+9#Nonlinear Systems#9.9#Describing Function for a saturation nonlinearity#Ex9_9_model.xcos#3432/CH9/EX9.9/Ex9_9_model.xcos#X##118675
+9#Nonlinear Systems#9.9#Describing Function for a saturation nonlinearity#Ex9_9_f1.pdf#3432/CH9/EX9.9/Ex9_9_f1.pdf#R##118674
+9#Nonlinear Systems#9.9#Describing Function for a saturation nonlinearity#Ex9_9_f0.pdf#3432/CH9/EX9.9/Ex9_9_f0.pdf#R##118673
+9#Nonlinear Systems#9.9#Describing Function for a saturation nonlinearity#Ex9_9.sce#3432/CH9/EX9.9/Ex9_9.sce#S##118672
+9#Nonlinear Systems#9.9#Describing Function for a saturation nonlinearity#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+9#Nonlinear Systems#9.8#Antiwindup compensation for a PI controller#Ex9_8_model.xcos#3432/CH9/EX9.8/Ex9_8_model.xcos#X##118667
+9#Nonlinear Systems#9.8#Antiwindup compensation for a PI controller#Ex9_8_f1.pdf#3432/CH9/EX9.8/Ex9_8_f1.pdf#R##118666
+9#Nonlinear Systems#9.8#Antiwindup compensation for a PI controller#Ex9_8_f0.pdf#3432/CH9/EX9.8/Ex9_8_f0.pdf#R##118665
+9#Nonlinear Systems#9.8#Antiwindup compensation for a PI controller#Ex9_8.sce#3432/CH9/EX9.8/Ex9_8.sce#S##118664
+9#Nonlinear Systems#9.8#Antiwindup compensation for a PI controller#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+9#Nonlinear Systems#9.7#Analysis and design of the system with limit cycle using the root locus#Ex9_7_model_notch.xcos#3432/CH9/EX9.7/Ex9_7_model_notch.xcos#X##118663
+9#Nonlinear Systems#9.7#Analysis and design of the system with limit cycle using the root locus#Ex9_7_model.xcos#3432/CH9/EX9.7/Ex9_7_model.xcos#X##118662
+9#Nonlinear Systems#9.7#Analysis and design of the system with limit cycle using the root locus#Ex9_7_f3.pdf#3432/CH9/EX9.7/Ex9_7_f3.pdf#R##118661
+9#Nonlinear Systems#9.7#Analysis and design of the system with limit cycle using the root locus#Ex9_7_f1.pdf#3432/CH9/EX9.7/Ex9_7_f1.pdf#R##118660
+9#Nonlinear Systems#9.7#Analysis and design of the system with limit cycle using the root locus#Ex9_7.sce#3432/CH9/EX9.7/Ex9_7.sce#S##118659
+9#Nonlinear Systems#9.7#Analysis and design of the system with limit cycle using the root locus#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+9#Nonlinear Systems#9.6#Stability of conditionally stable system using root locus#Ex9_6.sce#3432/CH9/EX9.6/Ex9_6.sce#S##118648
+9#Nonlinear Systems#9.6#Stability of conditionally stable system using root locus#Ex9_6_f0.pdf#3432/CH9/EX9.6/Ex9_6_f0.pdf#R##118649
+9#Nonlinear Systems#9.6#Stability of conditionally stable system using root locus#Ex9_6_f1.pdf#3432/CH9/EX9.6/Ex9_6_f1.pdf#R##118650
+9#Nonlinear Systems#9.6#Stability of conditionally stable system using root locus#Ex9_6_model.xcos#3432/CH9/EX9.6/Ex9_6_model.xcos#X##118651
+9#Nonlinear Systems#9.6#Stability of conditionally stable system using root locus#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+9#Nonlinear Systems#9.5#Changing Overshoot and Saturation nonlinearity#Ex9_5_f1.pdf#3432/CH9/EX9.5/Ex9_5_f1.pdf#R##118641
+9#Nonlinear Systems#9.5#Changing Overshoot and Saturation nonlinearity#Ex9_5_f0.pdf#3432/CH9/EX9.5/Ex9_5_f0.pdf#R##118640
+9#Nonlinear Systems#9.5#Changing Overshoot and Saturation nonlinearity#Ex9_5_model.xcos#3432/CH9/EX9.5/Ex9_5_model.xcos#X##118642
+9#Nonlinear Systems#9.5#Changing Overshoot and Saturation nonlinearity#Ex9_5.sce#3432/CH9/EX9.5/Ex9_5.sce#S##118639
+9#Nonlinear Systems#9.5#Changing Overshoot and Saturation nonlinearity#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+9#Nonlinear Systems#9.13#Determination of stability with a hysteresis nonlinearity#Ex9_13_model.xcos#3432/CH9/EX9.13/Ex9_13_model.xcos#X##118695
+9#Nonlinear Systems#9.13#Determination of stability with a hysteresis nonlinearity#Ex9_13_f1.pdf#3432/CH9/EX9.13/Ex9_13_f1.pdf#R##118694
+9#Nonlinear Systems#9.13#Determination of stability with a hysteresis nonlinearity#Ex9_13_f0.pdf#3432/CH9/EX9.13/Ex9_13_f0.pdf#R##118693
+9#Nonlinear Systems#9.13#Determination of stability with a hysteresis nonlinearity#Ex9_13.sce#3432/CH9/EX9.13/Ex9_13.sce#S##118692
+9#Nonlinear Systems#9.13#Determination of stability with a hysteresis nonlinearity#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+9#Nonlinear Systems#9.12#Conditionally stable system#Ex9_12_f1.pdf#3432/CH9/EX9.12/Ex9_12_f1.pdf#R##118690
+9#Nonlinear Systems#9.12#Conditionally stable system#Ex9_12_f0.pdf#3432/CH9/EX9.12/Ex9_12_f0.pdf#R##118689
+9#Nonlinear Systems#9.12#Conditionally stable system#Ex9_12.sce#3432/CH9/EX9.12/Ex9_12.sce#S##118688
+9#Nonlinear Systems#9.12#Conditionally stable system#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+9#Nonlinear Systems#9.11#Describing Function for a relay with hysteresis non linearity#Ex9_11_f0.pdf#3432/CH9/EX9.11/Ex9_11_f0.pdf#R##118680
+9#Nonlinear Systems#9.11#Describing Function for a relay with hysteresis non linearity#Ex9_11_f1.pdf#3432/CH9/EX9.11/Ex9_11_f1.pdf#R##118681
+9#Nonlinear Systems#9.11#Describing Function for a relay with hysteresis non linearity#Ex9_11_model.xcos#3432/CH9/EX9.11/Ex9_11_model.xcos#X##118682
+9#Nonlinear Systems#9.11#Describing Function for a relay with hysteresis non linearity#Ex9_11.sce#3432/CH9/EX9.11/Ex9_11.sce#S##118679
+9#Nonlinear Systems#9.11#Describing Function for a relay with hysteresis non linearity#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+8#Digital Control#8.2#Design of a Space Station Attitude Digital Controller using Discrete Equivalents#Ex8_2_model.xcos#3432/CH8/EX8.2/Ex8_2_model.xcos#X##118634
+8#Digital Control#8.2#Design of a Space Station Attitude Digital Controller using Discrete Equivalents#Ex8_2_f1.pdf#3432/CH8/EX8.2/Ex8_2_f1.pdf#R##118633
+8#Digital Control#8.2#Design of a Space Station Attitude Digital Controller using Discrete Equivalents#Ex8_2_f0.pdf#3432/CH8/EX8.2/Ex8_2_f0.pdf#R##118632
+8#Digital Control#8.2#Design of a Space Station Attitude Digital Controller using Discrete Equivalents#Ex8_2.sce#3432/CH8/EX8.2/Ex8_2.sce#S##118631
+8#Digital Control#8.2#Design of a Space Station Attitude Digital Controller using Discrete Equivalents#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+8#Digital Control#8.1#Digital Controller using tustin approximation#Ex8_1_model.xcos#3432/CH8/EX8.1/Ex8_1_model.xcos#X##118629
+8#Digital Control#8.1#Digital Controller using tustin approximation#Ex8_1_f1.pdf#3432/CH8/EX8.1/Ex8_1_f1.pdf#R##118628
+8#Digital Control#8.1#Digital Controller using tustin approximation#Ex8_1_f0.pdf#3432/CH8/EX8.1/Ex8_1_f0.pdf#R##118627
+8#Digital Control#8.1#Digital Controller using tustin approximation#Ex8_1.sce#3432/CH8/EX8.1/Ex8_1.sce#S##118626
+8#Digital Control#8.1#Digital Controller using tustin approximation#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.9#State Equations in Modal Canonical Form#Ex7_9.sce#3432/CH7/EX7.9/Ex7_9.sce#S##118789
+7#State Space Design#7.8#Time scaling an oscillator#Ex7_8.sce#3432/CH7/EX7.8/Ex7_8.sce#S##120575
+7#State Space Design#7.7#Analog computer Implementation#Ex7_7.sce#3432/CH7/EX7.7/Ex7_7.sce#S##118787
+7#State Space Design#7.35#Integral Control of a Motor Speed System#Ex7_35_model.xcos#3432/CH7/EX7.35/Ex7_35_model.xcos#X##118843
+7#State Space Design#7.35#Integral Control of a Motor Speed System#Ex7_35_f1.pdf#3432/CH7/EX7.35/Ex7_35_f1.pdf#R##118842
+7#State Space Design#7.35#Integral Control of a Motor Speed System#Ex7_35_f0.pdf#3432/CH7/EX7.35/Ex7_35_f0.pdf#R##118841
+7#State Space Design#7.35#Integral Control of a Motor Speed System#Ex7_35.sce#3432/CH7/EX7.35/Ex7_35.sce#S##118840
+7#State Space Design#7.35#Integral Control of a Motor Speed System#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.34#Servomechanism increasing the velocity constant through zero assignment#Ex7_34_model.xcos#3432/CH7/EX7.34/Ex7_34_model.xcos#X##118839
+7#State Space Design#7.34#Servomechanism increasing the velocity constant through zero assignment#Ex7_34_f4.pdf#3432/CH7/EX7.34/Ex7_34_f4.pdf#R##118838
+7#State Space Design#7.34#Servomechanism increasing the velocity constant through zero assignment#Ex7_34_f0.pdf#3432/CH7/EX7.34/Ex7_34_f0.pdf#R##118837
+7#State Space Design#7.34#Servomechanism increasing the velocity constant through zero assignment#Ex7_34.sce#3432/CH7/EX7.34/Ex7_34.sce#S##118836
+7#State Space Design#7.34#Servomechanism increasing the velocity constant through zero assignment#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.34#Servomechanism increasing the velocity constant through zero assignment#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.33#DC servo system redesign with modified with dominant second order pole locations#Ex7_33.sce#3432/CH7/EX7.33/Ex7_33.sce#S##118835
+7#State Space Design#7.33#DC servo system redesign with modified with dominant second order pole locations#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.33#DC servo system redesign with modified with dominant second order pole locations#zpk_dk.sci#3432/DEPENDENCIES/zpk_dk.sci#D#ZPK computation#1188
+7#State Space Design#7.32#Redesign of the Dc servo compensator using SRL#Ex7_32_model.xcos#3432/CH7/EX7.32/Ex7_32_model.xcos#X##118834
+7#State Space Design#7.32#Redesign of the Dc servo compensator using SRL#Ex7_32_f2.pdf#3432/CH7/EX7.32/Ex7_32_f2.pdf#R##118833
+7#State Space Design#7.32#Redesign of the Dc servo compensator using SRL#Ex7_32_f0.pdf#3432/CH7/EX7.32/Ex7_32_f0.pdf#R##118832
+7#State Space Design#7.32#Redesign of the Dc servo compensator using SRL#Ex7_32.sce#3432/CH7/EX7.32/Ex7_32.sce#S##118831
+7#State Space Design#7.32#Redesign of the Dc servo compensator using SRL#zpk_dk.sci#3432/DEPENDENCIES/zpk_dk.sci#D#ZPK computation#1188
+7#State Space Design#7.32#Redesign of the Dc servo compensator using SRL#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.32#Redesign of the Dc servo compensator using SRL#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.31#Reduced Order Estimatortor Design for DC Servo#Ex7_31.sce#3432/CH7/EX7.31/Ex7_31.sce#S##118896
+7#State Space Design#7.31#Reduced Order Estimatortor Design for DC Servo#Ex7_31_f0.pdf#3432/CH7/EX7.31/Ex7_31_f0.pdf#R##118830
+7#State Space Design#7.31#Reduced Order Estimatortor Design for DC Servo#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.30#Full Order Compensator Design for DC Servo#Ex7_30_f0.pdf#3432/CH7/EX7.30/Ex7_30_f0.pdf#R##118828
+7#State Space Design#7.30#Full Order Compensator Design for DC Servo#Ex7_30.sce#3432/CH7/EX7.30/Ex7_30.sce#S##120576
+7#State Space Design#7.30#Full Order Compensator Design for DC Servo#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.30#Full Order Compensator Design for DC Servo#zpk_dk.sci#3432/DEPENDENCIES/zpk_dk.sci#D#ZPK computation#1188
+7#State Space Design#7.29#A reduced order compensator design for a satellite attitude control#Ex7_29_f1.pdf#3432/CH7/EX7.29/Ex7_29_f1.pdf#R##118847
+7#State Space Design#7.29#A reduced order compensator design for a satellite attitude control#Ex7_29.sce#3432/CH7/EX7.29/Ex7_29.sce#S##118845
+7#State Space Design#7.29#A reduced order compensator design for a satellite attitude control#Ex7_29_f0.pdf#3432/CH7/EX7.29/Ex7_29_f0.pdf#R##118846
+7#State Space Design#7.29#A reduced order compensator design for a satellite attitude control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.29#A reduced order compensator design for a satellite attitude control#zpk_dk.sci#3432/DEPENDENCIES/zpk_dk.sci#D#ZPK computation#1188
+7#State Space Design#7.28#Full order compensator design for satellite attitude control#Ex7_28_f1.pdf#3432/CH7/EX7.28/Ex7_28_f1.pdf#R##118823
+7#State Space Design#7.28#Full order compensator design for satellite attitude control#Ex7_28_f0.pdf#3432/CH7/EX7.28/Ex7_28_f0.pdf#R##118822
+7#State Space Design#7.28#Full order compensator design for satellite attitude control#Ex7_28.sce#3432/CH7/EX7.28/Ex7_28.sce#S##118821
+7#State Space Design#7.28#Full order compensator design for satellite attitude control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.28#Full order compensator design for satellite attitude control#zpk_dk.sci#3432/DEPENDENCIES/zpk_dk.sci#D#ZPK computation#1188
+7#State Space Design#7.27#SRL estimator design for a simple pendulum#Ex7_27_f0.pdf#3432/CH7/EX7.27/Ex7_27_f0.pdf#R##118820
+7#State Space Design#7.27#SRL estimator design for a simple pendulum#Ex7_27.sce#3432/CH7/EX7.27/Ex7_27.sce#S##118819
+7#State Space Design#7.27#SRL estimator design for a simple pendulum#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.26#A reduced order estimator design for pendulum#Ex7_26_f0.pdf#3432/CH7/EX7.26/Ex7_26_f0.pdf#R##118818
+7#State Space Design#7.26#A reduced order estimator design for pendulum#Ex7_26.sce#3432/CH7/EX7.26/Ex7_26.sce#S##118817
+7#State Space Design#7.26#A reduced order estimator design for pendulum#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.25#An estimator design for a simple pendulum#Ex7_25_f0.pdf#3432/CH7/EX7.25/Ex7_25_f0.pdf#R##118816
+7#State Space Design#7.25#An estimator design for a simple pendulum#Ex7_25.sce#3432/CH7/EX7.25/Ex7_25.sce#S##118815
+7#State Space Design#7.25#An estimator design for a simple pendulum#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.24#LQR Design for a Tape Drive#Ex7_24_f0.pdf#3432/CH7/EX7.24/Ex7_24_f0.pdf#R##118814
+7#State Space Design#7.24#LQR Design for a Tape Drive#Ex7_24.sce#3432/CH7/EX7.24/Ex7_24.sce#S##118813
+7#State Space Design#7.24#LQR Design for a Tape Drive#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.23#SRL design for an inverted pendulum#Ex7_23_f1.pdf#3432/CH7/EX7.23/Ex7_23_f1.pdf#R##118812
+7#State Space Design#7.23#SRL design for an inverted pendulum#Ex7_23_f0.pdf#3432/CH7/EX7.23/Ex7_23_f0.pdf#R##118811
+7#State Space Design#7.23#SRL design for an inverted pendulum#Ex7_23.sce#3432/CH7/EX7.23/Ex7_23.sce#S##118810
+7#State Space Design#7.23#SRL design for an inverted pendulum#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.23#SRL design for an inverted pendulum#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.22#SRL design for satellite attitude control#Ex7_22_f0.pdf#3432/CH7/EX7.22/Ex7_22_f0.pdf#R##118809
+7#State Space Design#7.22#SRL design for satellite attitude control#Ex7_22.sce#3432/CH7/EX7.22/Ex7_22.sce#S##118808
+7#State Space Design#7.22#SRL design for satellite attitude control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.22#SRL design for satellite attitude control#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.21#Symmetric root locus for servo speed control#Ex7_21_f0.pdf#3432/CH7/EX7.21/Ex7_21_f0.pdf#R##118807
+7#State Space Design#7.21#Symmetric root locus for servo speed control#Ex7_21.sce#3432/CH7/EX7.21/Ex7_21.sce#S##118806
+7#State Space Design#7.21#Symmetric root locus for servo speed control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.20#Pole Placement as a Dominant Second Order System#Ex7_20_f1.pdf#3432/CH7/EX7.20/Ex7_20_f1.pdf#R##118805
+7#State Space Design#7.20#Pole Placement as a Dominant Second Order System#Ex7_20_f0.pdf#3432/CH7/EX7.20/Ex7_20_f0.pdf#R##118804
+7#State Space Design#7.20#Pole Placement as a Dominant Second Order System#Ex7_20.sce#3432/CH7/EX7.20/Ex7_20.sce#S##118803
+7#State Space Design#7.20#Pole Placement as a Dominant Second Order System#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.20#Pole Placement as a Dominant Second Order System#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.2.b#Cruise control system step response#Ex7_2.sce#3432/CH7/EX7.2.b/Ex7_2.sce#S##118786
+7#State Space Design#7.2.b#Cruise control system step response#Ex7_2_f0.pdf#3432/CH7/EX7.2.b/Ex7_2_f0.pdf#R##118785
+7#State Space Design#7.2.b#Cruise control system step response#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.19#Reference input to Type1 control system DC Motor#Ex7_19_f0.pdf#3432/CH7/EX7.19/Ex7_19_f0.pdf#R##118802
+7#State Space Design#7.19#Reference input to Type1 control system DC Motor#Ex7_19.sce#3432/CH7/EX7.19/Ex7_19.sce#S##118801
+7#State Space Design#7.19#Reference input to Type1 control system DC Motor#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.19#Reference input to Type1 control system DC Motor#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.18#Introducing the reference input#Ex7_18_f0.pdf#3432/CH7/EX7.18/Ex7_18_f0.pdf#R##118800
+7#State Space Design#7.18#Introducing the reference input#Ex7_18.sce#3432/CH7/EX7.18/Ex7_18.sce#S##118799
+7#State Space Design#7.18#Introducing the reference input#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.18#Introducing the reference input#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.17#How zero location affect control law#Ex7_17.sce#3432/CH7/EX7.17/Ex7_17.sce#S##118798
+7#State Space Design#7.17#How zero location affect control law#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.16#Ackermanns formula for undamped oscillator#Ex7_16.sce#3432/CH7/EX7.16/Ex7_16.sce#S##118797
+7#State Space Design#7.16#Ackermanns formula for undamped oscillator#acker_dk.sci#3432/DEPENDENCIES/acker_dk.sci#D#State feedback gain matrix computation#1187
+7#State Space Design#7.15#Control law for a pendulum#Ex7_15_f0.pdf#3432/CH7/EX7.15/Ex7_15_f0.pdf#R##118796
+7#State Space Design#7.15#Control law for a pendulum#Ex7_15.sce#3432/CH7/EX7.15/Ex7_15.sce#S##118795
+7#State Space Design#7.15#Control law for a pendulum#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+7#State Space Design#7.14#Analysis of state equations of Tape Drive#Ex7_14.sce#3432/CH7/EX7.14/Ex7_14.sce#S##118794
+7#State Space Design#7.13#Zeros for the Thermal System from a State Description#Ex7_13.sce#3432/CH7/EX7.13/Ex7_13.sce#S##118793
+7#State Space Design#7.12#Transformation of Thermal System from state description#Ex7_12.sce#3432/CH7/EX7.12/Ex7_12.sce#S##118792
+7#State Space Design#7.11#Poles and Zeros of Tape Drive System#Ex7_11.sce#3432/CH7/EX7.11/Ex7_11.sce#S##118791
+7#State Space Design#7.10#Transformation of Thermal System from Control to Modal Form#Ex7_10.sce#3432/CH7/EX7.10/Ex7_10.sce#S##118790
+6#The Frequency Response Design Method#6.9#Nyquist plot for a third order system#Ex6_9_f1.pdf#3432/CH6/EX6.9/Ex6_9_f1.pdf#R##118725
+6#The Frequency Response Design Method#6.9#Nyquist plot for a third order system#Ex6_9_f0.pdf#3432/CH6/EX6.9/Ex6_9_f0.pdf#R##118724
+6#The Frequency Response Design Method#6.9#Nyquist plot for a third order system#Ex6_9.sce#3432/CH6/EX6.9/Ex6_9.sce#S##118723
+6#The Frequency Response Design Method#6.9#Nyquist plot for a third order system#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.8#Nyquist plot for a second order system#Ex6_8_f1.pdf#3432/CH6/EX6.8/Ex6_8_f1.pdf#R##118720
+6#The Frequency Response Design Method#6.8#Nyquist plot for a second order system#Ex6_8_f0.pdf#3432/CH6/EX6.8/Ex6_8_f0.pdf#R##118719
+6#The Frequency Response Design Method#6.8#Nyquist plot for a second order system#Ex6_8.sce#3432/CH6/EX6.8/Ex6_8.sce#S##118718
+6#The Frequency Response Design Method#6.8#Nyquist plot for a second order system#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.7#Computation of Kv#Ex6_7.sce#3432/CH6/EX6.7/Ex6_7.sce#S##120573
+6#The Frequency Response Design Method#6.7#Computation of Kv#EX6_7_f0.pdf#3432/CH6/EX6.7/EX6_7_f0.pdf#R##120574
+6#The Frequency Response Design Method#6.6#Bode Plot for Complex Poles and Zeros#Ex6_6_f0.pdf#3432/CH6/EX6.6/Ex6_6_f0.pdf#R##118711
+6#The Frequency Response Design Method#6.6#Bode Plot for Complex Poles and Zeros#Ex6_6.sce#3432/CH6/EX6.6/Ex6_6.sce#S##118710
+6#The Frequency Response Design Method#6.6#Bode Plot for Complex Poles and Zeros#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.4#Bode Plot with Complex Poles#Ex6_4_f0.pdf#3432/CH6/EX6.4/Ex6_4_f0.pdf#R##118705
+6#The Frequency Response Design Method#6.4#Bode Plot with Complex Poles#Ex6_4.sce#3432/CH6/EX6.4/Ex6_4.sce#S##118704
+6#The Frequency Response Design Method#6.4#Bode Plot with Complex Poles#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.3#Bode Plot for Real Poles and Zeros#Ex6_3_f1.pdf#3432/CH6/EX6.3/Ex6_3_f1.pdf#R##118700
+6#The Frequency Response Design Method#6.3#Bode Plot for Real Poles and Zeros#Ex6_3_f0.pdf#3432/CH6/EX6.3/Ex6_3_f0.pdf#R##118699
+6#The Frequency Response Design Method#6.3#Bode Plot for Real Poles and Zeros#Ex6_3.sce#3432/CH6/EX6.3/Ex6_3.sce#S##118698
+6#The Frequency Response Design Method#6.3#Bode Plot for Real Poles and Zeros#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.2.b#Frequency response characteristics of Lead compensator#Ex6_2_f0.pdf#3432/CH6/EX6.2.b/Ex6_2_f0.pdf#R##118697
+6#The Frequency Response Design Method#6.2.b#Frequency response characteristics of Lead compensator#Ex6_2.sce#3432/CH6/EX6.2.b/Ex6_2.sce#S##118696
+6#The Frequency Response Design Method#6.2.b#Frequency response characteristics of Lead compensator#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.19#PID compensation design for spacecraft attitude control#Ex6_19_f1.pdf#3432/CH6/EX6.19/Ex6_19_f1.pdf#R##118783
+6#The Frequency Response Design Method#6.19#PID compensation design for spacecraft attitude control#Ex6_19_f0.pdf#3432/CH6/EX6.19/Ex6_19_f0.pdf#R##118782
+6#The Frequency Response Design Method#6.19#PID compensation design for spacecraft attitude control#Ex6_19.sce#3432/CH6/EX6.19/Ex6_19.sce#S##118781
+6#The Frequency Response Design Method#6.19#PID compensation design for spacecraft attitude control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.18#Lag compensation for DC motor#Ex6_18_f1.pdf#3432/CH6/EX6.18/Ex6_18_f1.pdf#R##118780
+6#The Frequency Response Design Method#6.18#Lag compensation for DC motor#Ex6_18_f0.pdf#3432/CH6/EX6.18/Ex6_18_f0.pdf#R##118779
+6#The Frequency Response Design Method#6.18#Lag compensation for DC motor#Ex6_18.sce#3432/CH6/EX6.18/Ex6_18.sce#S##118778
+6#The Frequency Response Design Method#6.18#Lag compensation for DC motor#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.17#Lag compensation for Temperature Control System#Ex6_17_f1.pdf#3432/CH6/EX6.17/Ex6_17_f1.pdf#R##118777
+6#The Frequency Response Design Method#6.17#Lag compensation for Temperature Control System#Ex6_17_f0.pdf#3432/CH6/EX6.17/Ex6_17_f0.pdf#R##118776
+6#The Frequency Response Design Method#6.17#Lag compensation for Temperature Control System#Ex6_17.sce#3432/CH6/EX6.17/Ex6_17.sce#S##118775
+6#The Frequency Response Design Method#6.17#Lag compensation for Temperature Control System#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.16#Lead compensation for Servomechanism System#Ex6_16_f0.pdf#3432/CH6/EX6.16/Ex6_16_f0.pdf#R##118774
+6#The Frequency Response Design Method#6.16#Lead compensation for Servomechanism System#Ex6_16.sce#3432/CH6/EX6.16/Ex6_16.sce#S##118773
+6#The Frequency Response Design Method#6.16#Lead compensation for Servomechanism System#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.15#Lead compensation for Temperature Control System#Ex6_15_f0.pdf#3432/CH6/EX6.15/Ex6_15_f0.pdf#R##118771
+6#The Frequency Response Design Method#6.15#Lead compensation for Temperature Control System#Ex6_15.sce#3432/CH6/EX6.15/Ex6_15.sce#S##118770
+6#The Frequency Response Design Method#6.15#Lead compensation for Temperature Control System#Ex6_15_f1.pdf#3432/CH6/EX6.15/Ex6_15_f1.pdf#R##118772
+6#The Frequency Response Design Method#6.15#Lead compensation for Temperature Control System#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.14#Lead compensation for DC motor#Ex6_14_model.xcos#3432/CH6/EX6.14/Ex6_14_model.xcos#X##118769
+6#The Frequency Response Design Method#6.14#Lead compensation for DC motor#Ex6_14_f2.pdf#3432/CH6/EX6.14/Ex6_14_f2.pdf#R##118768
+6#The Frequency Response Design Method#6.14#Lead compensation for DC motor#Ex6_14_f1.pdf#3432/CH6/EX6.14/Ex6_14_f1.pdf#R##118767
+6#The Frequency Response Design Method#6.14#Lead compensation for DC motor#Ex6_14.sce#3432/CH6/EX6.14/Ex6_14.sce#S##118766
+6#The Frequency Response Design Method#6.14#Lead compensation for DC motor#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.13#Use of simple design criterion for spacecraft attitude control#Ex6_13_f3.pdf#3432/CH6/EX6.13/Ex6_13_f3.pdf#R##118765
+6#The Frequency Response Design Method#6.13#Use of simple design criterion for spacecraft attitude control#Ex6_13_f0.pdf#3432/CH6/EX6.13/Ex6_13_f0.pdf#R##118764
+6#The Frequency Response Design Method#6.13#Use of simple design criterion for spacecraft attitude control#Ex6_13.sce#3432/CH6/EX6.13/Ex6_13.sce#S##118763
+6#The Frequency Response Design Method#6.13#Use of simple design criterion for spacecraft attitude control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.12#Nyquist plot for a system with Multiple Crossover frequencies#Ex6_12.sce#3432/CH6/EX6.12/Ex6_12.sce#S##118760
+6#The Frequency Response Design Method#6.12#Nyquist plot for a system with Multiple Crossover frequencies#Ex6_12_f1.pdf#3432/CH6/EX6.12/Ex6_12_f1.pdf#R##118762
+6#The Frequency Response Design Method#6.12#Nyquist plot for a system with Multiple Crossover frequencies#Ex6_12_f0.pdf#3432/CH6/EX6.12/Ex6_12_f0.pdf#R##118761
+6#The Frequency Response Design Method#6.12#Nyquist plot for a system with Multiple Crossover frequencies#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.11#Stability properties for a conditionally stable system#Ex6_11_f1.pdf#3432/CH6/EX6.11/Ex6_11_f1.pdf#R##118741
+6#The Frequency Response Design Method#6.11#Stability properties for a conditionally stable system#Ex6_11_f0.pdf#3432/CH6/EX6.11/Ex6_11_f0.pdf#R##118740
+6#The Frequency Response Design Method#6.11#Stability properties for a conditionally stable system#Ex6_11.sce#3432/CH6/EX6.11/Ex6_11.sce#S##118739
+6#The Frequency Response Design Method#6.11#Stability properties for a conditionally stable system#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+6#The Frequency Response Design Method#6.10#Nyquist plot for an Open loop unstable system#Ex6_10_f1.pdf#3432/CH6/EX6.10/Ex6_10_f1.pdf#R##118736
+6#The Frequency Response Design Method#6.10#Nyquist plot for an Open loop unstable system#Ex6_10_f0.pdf#3432/CH6/EX6.10/Ex6_10_f0.pdf#R##118735
+6#The Frequency Response Design Method#6.10#Nyquist plot for an Open loop unstable system#Ex6_10.sce#3432/CH6/EX6.10/Ex6_10.sce#S##118734
+6#The Frequency Response Design Method#6.10#Nyquist plot for an Open loop unstable system#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.9#Root locus for the system having complex multiple roots#Ex5_9_f1.pdf#3432/CH5/EX5.9/Ex5_9_f1.pdf#R##118618
+5#The Root Locus Design method#5.9#Root locus for the system having complex multiple roots#Ex5_9_f0.pdf#3432/CH5/EX5.9/Ex5_9_f0.pdf#R##118617
+5#The Root Locus Design method#5.9#Root locus for the system having complex multiple roots#Ex5_9.sce#3432/CH5/EX5.9/Ex5_9.sce#S##118616
+5#The Root Locus Design method#5.9#Root locus for the system having complex multiple roots#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.8#Root locus for noncollocated case#Ex5_8_f1.pdf#3432/CH5/EX5.8/Ex5_8_f1.pdf#R##118615
+5#The Root Locus Design method#5.8#Root locus for noncollocated case#Ex5_8_f0.pdf#3432/CH5/EX5.8/Ex5_8_f0.pdf#R##118614
+5#The Root Locus Design method#5.8#Root locus for noncollocated case#Ex5_8.sce#3432/CH5/EX5.8/Ex5_8.sce#S##118613
+5#The Root Locus Design method#5.8#Root locus for noncollocated case#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.7#Root locus for satellite control with a Collocated Flexibility#Ex5_7_f1.pdf#3432/CH5/EX5.7/Ex5_7_f1.pdf#R##118612
+5#The Root Locus Design method#5.7#Root locus for satellite control with a Collocated Flexibility#Ex5_7_f0.pdf#3432/CH5/EX5.7/Ex5_7_f0.pdf#R##118611
+5#The Root Locus Design method#5.7#Root locus for satellite control with a Collocated Flexibility#Ex5_7.sce#3432/CH5/EX5.7/Ex5_7.sce#S##118610
+5#The Root Locus Design method#5.7#Root locus for satellite control with a Collocated Flexibility#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.6#Root locus for satellite attitude control with a Transition value for the pole#Ex5_6_f0.pdf#3432/CH5/EX5.6/Ex5_6_f0.pdf#R##118609
+5#The Root Locus Design method#5.6#Root locus for satellite attitude control with a Transition value for the pole#Ex5_6.sce#3432/CH5/EX5.6/Ex5_6.sce#S##118608
+5#The Root Locus Design method#5.6#Root locus for satellite attitude control with a Transition value for the pole#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.5#Root locus for satellite control with Lead compensator#Ex5_5_f0.pdf#3432/CH5/EX5.5/Ex5_5_f0.pdf#R##118607
+5#The Root Locus Design method#5.5#Root locus for satellite control with Lead compensator#Ex5_5.sce#3432/CH5/EX5.5/Ex5_5.sce#S##118606
+5#The Root Locus Design method#5.5#Root locus for satellite control with Lead compensator#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.4#Root locus for satellite attitude control with modified PD control or Lead compensator#Ex5_4_f0.pdf#3432/CH5/EX5.4/Ex5_4_f0.pdf#R##118605
+5#The Root Locus Design method#5.4#Root locus for satellite attitude control with modified PD control or Lead compensator#Ex5_4.sce#3432/CH5/EX5.4/Ex5_4.sce#S##118604
+5#The Root Locus Design method#5.4#Root locus for satellite attitude control with modified PD control or Lead compensator#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.3#Root locus for satellite attitude control with PD control#Ex5_3_f0.pdf#3432/CH5/EX5.3/Ex5_3_f0.pdf#R##118603
+5#The Root Locus Design method#5.3#Root locus for satellite attitude control with PD control#Ex5_3.sce#3432/CH5/EX5.3/Ex5_3.sce#S##118602
+5#The Root Locus Design method#5.3#Root locus for satellite attitude control with PD control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.2#Root locus with respect to a plant open loop pole#Ex5_2_f0.pdf#3432/CH5/EX5.2/Ex5_2_f0.pdf#R##118601
+5#The Root Locus Design method#5.2#Root locus with respect to a plant open loop pole#Ex5_2.sce#3432/CH5/EX5.2/Ex5_2.sce#S##118600
+5#The Root Locus Design method#5.2#Root locus with respect to a plant open loop pole#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.12#Negative root Locus for an Airplane#Ex5_12_f0.pdf#3432/CH5/EX5.12/Ex5_12_f0.pdf#R##118844
+5#The Root Locus Design method#5.12#Negative root Locus for an Airplane#Ex5_12.sce#3432/CH5/EX5.12/Ex5_12.sce#S##118625
+5#The Root Locus Design method#5.12#Negative root Locus for an Airplane#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.11#A second  Lead compensation Design#Ex5_11_f2.pdf#3432/CH5/EX5.11/Ex5_11_f2.pdf#R##118624
+5#The Root Locus Design method#5.11#A second  Lead compensation Design#Ex5_11_f1.pdf#3432/CH5/EX5.11/Ex5_11_f1.pdf#R##118623
+5#The Root Locus Design method#5.11#A second  Lead compensation Design#Ex5_11.sce#3432/CH5/EX5.11/Ex5_11.sce#S##118622
+5#The Root Locus Design method#5.11#A second  Lead compensation Design#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.10#Design using Lead compensator#Ex5_10_f1.pdf#3432/CH5/EX5.10/Ex5_10_f1.pdf#R##118621
+5#The Root Locus Design method#5.10#Design using Lead compensator#Ex5_10_f0.pdf#3432/CH5/EX5.10/Ex5_10_f0.pdf#R##118620
+5#The Root Locus Design method#5.10#Design using Lead compensator#Ex5_10.sce#3432/CH5/EX5.10/Ex5_10.sce#S##118619
+5#The Root Locus Design method#5.10#Design using Lead compensator#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+5#The Root Locus Design method#5.1#Root locus of a Motor Position Control#Ex5_1_f0.pdf#3432/CH5/EX5.1/Ex5_1_f0.pdf#R##118599
+5#The Root Locus Design method#5.1#Root locus of a Motor Position Control#Ex5_1.sce#3432/CH5/EX5.1/Ex5_1.sce#S##118598
+5#The Root Locus Design method#5.1#Root locus of a Motor Position Control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+4#Basic properties of feedback#4.8#Equivalent discrete controller for DC motor speed control#Ex4_8_f1.pdf#3432/CH4/EX4.8/Ex4_8_f1.pdf#R##118597
+4#Basic properties of feedback#4.8#Equivalent discrete controller for DC motor speed control#Ex4_8_f0.pdf#3432/CH4/EX4.8/Ex4_8_f0.pdf#R##118596
+4#Basic properties of feedback#4.8#Equivalent discrete controller for DC motor speed control#Ex4_8.sce#3432/CH4/EX4.8/Ex4_8.sce#S##118595
+4#Basic properties of feedback#4.8#Equivalent discrete controller for DC motor speed control#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+4#Basic properties of feedback#4.7#Discrete Equivalent#Ex4_7.sce#3432/CH4/EX4.7/Ex4_7.sce#S##118594
+4#Basic properties of feedback#4.7#Discrete Equivalent#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+4#Basic properties of feedback#4.6#PID Control of DC Motor Speed#Ex4_6_f1.pdf#3432/CH4/EX4.6/Ex4_6_f1.pdf#R##118593
+4#Basic properties of feedback#4.6#PID Control of DC Motor Speed#Ex4_6_f0.pdf#3432/CH4/EX4.6/Ex4_6_f0.pdf#R##118592
+4#Basic properties of feedback#4.6#PID Control of DC Motor Speed#Ex4_6.sce#3432/CH4/EX4.6/Ex4_6.sce#S##120572
+3#Dynamic Responses#3.9#Final value theorem#Ex3_9.sce#3432/CH3/EX3.9/Ex3_9.sce#S##118569
+3#Dynamic Responses#3.8#Partial fraction expansion for distinct real roots#Ex3_8.sce#3432/CH3/EX3.8/Ex3_8.sce#S##118568
+3#Dynamic Responses#3.4#Frequency response#Ex3_4_f1.pdf#3432/CH3/EX3.4/Ex3_4_f1.pdf#R##118567
+3#Dynamic Responses#3.4#Frequency response#Ex3_4_f0.pdf#3432/CH3/EX3.4/Ex3_4_f0.pdf#R##118566
+3#Dynamic Responses#3.4#Frequency response#Ex3_4.sce#3432/CH3/EX3.4/Ex3_4.sce#S##118565
+3#Dynamic Responses#3.4#Frequency response#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+3#Dynamic Responses#3.30#Stability versus two parameter ranges#Ex3_30_f0.pdf#3432/CH3/EX3.30/Ex3_30_f0.pdf#R##118590
+3#Dynamic Responses#3.30#Stability versus two parameter ranges#Ex3_30.sce#3432/CH3/EX3.30/Ex3_30.sce#S##118589
+3#Dynamic Responses#3.30#Stability versus two parameter ranges#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+3#Dynamic Responses#3.29#Stability versus parameter range#Ex3_29.sce#3432/CH3/EX3.29/Ex3_29.sce#S##118587
+3#Dynamic Responses#3.29#Stability versus parameter range#Ex3_29_f0.pdf#3432/CH3/EX3.29/Ex3_29_f0.pdf#R##118588
+3#Dynamic Responses#3.29#Stability versus parameter range#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+3#Dynamic Responses#3.25#Aircraft Response#Ex3_25_f0.pdf#3432/CH3/EX3.25/Ex3_25_f0.pdf#R##118586
+3#Dynamic Responses#3.25#Aircraft Response#Ex3_25.sce#3432/CH3/EX3.25/Ex3_25.sce#S##118585
+3#Dynamic Responses#3.25#Aircraft Response#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+3#Dynamic Responses#3.23#Oscillatory Time Response#Ex3_23_f0.pdf#3432/CH3/EX3.23/Ex3_23_f0.pdf#R##118584
+3#Dynamic Responses#3.23#Oscillatory Time Response#Ex3_23.sce#3432/CH3/EX3.23/Ex3_23.sce#S##118583
+3#Dynamic Responses#3.23#Oscillatory Time Response#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+3#Dynamic Responses#3.22#Response Versus Pole Locations Real Roots#Ex3_22_f0.pdf#3432/CH3/EX3.22/Ex3_22_f0.pdf#R##118582
+3#Dynamic Responses#3.22#Response Versus Pole Locations Real Roots#Ex3_22.sce#3432/CH3/EX3.22/Ex3_22.sce#S##118581
+3#Dynamic Responses#3.22#Response Versus Pole Locations Real Roots#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+3#Dynamic Responses#3.21#Transfer function of a simple system#Ex3_21.sce#3432/CH3/EX3.21/Ex3_21.sce#S##118580
+3#Dynamic Responses#3.18#Satellite Transfer Function#Ex3_18_f3.pdf#3432/CH3/EX3.18/Ex3_18_f3.pdf#R##118849
+3#Dynamic Responses#3.18#Satellite Transfer Function#Ex3_18_f1.pdf#3432/CH3/EX3.18/Ex3_18_f1.pdf#R##118578
+3#Dynamic Responses#3.18#Satellite Transfer Function#Ex3_18.sce#3432/CH3/EX3.18/Ex3_18.sce#S##120571
+3#Dynamic Responses#3.17#Transformations#Ex3_17.sce#3432/CH3/EX3.17/Ex3_17.sce#S##118576
+3#Dynamic Responses#3.16#DC Motor Transfer Function#Ex3_16_f0.pdf#3432/CH3/EX3.16/Ex3_16_f0.pdf#R##118575
+3#Dynamic Responses#3.16#DC Motor Transfer Function#Ex3_16.sce#3432/CH3/EX3.16/Ex3_16.sce#S##118574
+3#Dynamic Responses#3.16#DC Motor Transfer Function#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+3#Dynamic Responses#3.15# Cruise Control Transfer Function#Ex3_15.sce#3432/CH3/EX3.15/Ex3_15.sce#S##118573
+3#Dynamic Responses#3.14#Partial fraction expansion for distinct real roots#Ex3_14.sce#3432/CH3/EX3.14/Ex3_14.sce#S##118572
+3#Dynamic Responses#3.11#DC gain of the system#Ex3_11.sce#3432/CH3/EX3.11/Ex3_11.sce#S##118571
+3#Dynamic Responses#3.10#Incorrect use of final value theorem#Ex3_10.sce#3432/CH3/EX3.10/Ex3_10.sce#S##118570
+2#Dynamic Models#2.5.b#step response of pendulum#Ex2_5_f0.pdf#3432/CH2/EX2.5.b/Ex2_5_f0.pdf#R##118564
+2#Dynamic Models#2.5.b#step response of pendulum#Ex2_5.sce#3432/CH2/EX2.5.b/Ex2_5.sce#S##118563
+2#Dynamic Models#2.5.b#step response of pendulum#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186
+2#Dynamic Models#2.1.b#step response of Cruise control system#Ex2_1.sce#3432/CH2/EX2.1.b/Ex2_1.sce#S##118561
+2#Dynamic Models#2.1.b#step response of Cruise control system#Ex2_1_f0.pdf#3432/CH2/EX2.1.b/Ex2_1_f0.pdf#R##118562
+2#Dynamic Models#2.1.b#step response of Cruise control system#fig_settings.sci#3432/DEPENDENCIES/fig_settings.sci#D#figure setting file#1186

@@ -1,7 +1,6 @@
 //Section-1,Example-4,Page no.-AC.205
 //To find the air required for the perfect combustion of 1 m^3 of the given gas.
 clc;
-H_2=
 T=0.22
 L_O2=0.02
 Net_O2=0.2

@@ -1,7 +1,7 @@
 clc
 disp("Example 3.55")
 printf("\n")
-disp("Calculate transistor hFE & new Vce level for hFE=100 of base bias ciruit")
+disp("Calculate transistor hFE &amp; new Vce level for hFE=100 of base bias ciruit")
 printf("Given\n")
 //given
 Vcc=24
@@ -11,7 +11,7 @@ Vce=10
 //Find Ic
 Ic=(Vcc-Vce)/Rc  //from circuit
 //find Ib
-Ib=(Vcc-Vbe)/Rb  //from ciruit
+Ib=(Vcc-Vce)/Rb  //from ciruit
 //the value of hFE
 hFE=Ic/Ib
 //to find Vce when hFE=100

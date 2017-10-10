@@ -24,7 +24,7 @@ function[H]=notchfilter(type1,M,N,D0,n)//notchfilter is used to filter an image 
     x=[41 45 82 86 162 166 203 207];
     y=[112 55 112 56 114 58 115 58];
     select type1           
-        case'ideal'then
+        case'ideal'
         //H=double(D<=D0);        
 H=ones(M,N);
 for a=1:M
@@ -39,8 +39,8 @@ for a=1:M
     end
 end
         
-    case'butterworth'then
-        if argn(2)==4 then
+    case'butterworth'
+        if argn(2)==4 
             n=1;
         end
         //H = ones(M,N)./(1+(D./D0).^(2*n));
@@ -57,7 +57,7 @@ end
     end
 end
         
-        case'gaussian'then
+        case'gaussian'
         //H=exp(-(D.^2)./(2*(D0^2)));
         H=ones(M,N);
     for a=1:M
@@ -106,12 +106,3 @@ Image_filter=real(ifft(fftshift(n)));
 Image_filter=mat2gray(Image_filter)
 figure,ShowImage(Image_filter,'Filtered Image');
 title('Filtered Image with Specific Cut-Off Frequency','color','blue','fontsize',4);
-
-
-
-
-
-
-
-
-

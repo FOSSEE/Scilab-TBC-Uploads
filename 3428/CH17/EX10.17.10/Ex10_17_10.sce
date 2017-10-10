@@ -14,7 +14,7 @@ C_v=(3/2)*R
 y=C_p/C_v
 T_2=T_1*(V_1/V_2)^(y-1)
 dl_E=n*C_v*8.314*(T_2-T_1)
-disp(dl_H,'Internal energy change(Joules)')
+disp(dl_E,'Internal energy change(Joules)')
 W=dl_E
 disp(W,'Joules')
 dl_H=n*C_p*8.314*(T_2-T_1)

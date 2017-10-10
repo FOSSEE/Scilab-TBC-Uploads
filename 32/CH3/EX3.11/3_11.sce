@@ -2,7 +2,8 @@
 //filename=pathname+filesep()+'3.11-data.sci'
 //exec(filename)
 //Enthalpy of steam entering the injector(in kcal/kg):
-h1=720
+h1=720;
+g = 9.81;
 //Enthalpy of water entering(in kcal/kg):
 h2=24.6
 //Enthalpy of water and steam mixture leaving the injector(in kcal/kg):

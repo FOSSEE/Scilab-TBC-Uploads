@@ -2,6 +2,7 @@
 clear;
 clc;
 
+
 //Example 22.6
 //Solution
 rho_m = 62.2/18; //[mol/ft^3]
@@ -35,10 +36,10 @@ kxa = 0.131*Gxbar^0.82; //[mol/ft^3-h]
 //and the top of the tower:
 //At bottom:
 Gy_B = (Air_in*29)+(SO2_in*64.1); //[lb/ft^2-h]
-kya_B = 0.025*Gy_B^0.7*Gx^0.25; //[mol/ft^3-h]
+kya_B = 0.025*Gy_B^0.7*Gxbar^0.25; //[mol/ft^3-h]
 //At top:
 Gy_T = (Air_out*29)+(SO2_out*64.1); //[lb/ft^2-h]
-kya_T = 0.025*Gy_T^0.7*Gx^0.25; //[mol/ft^3-h]  
+kya_T = 0.025*Gy_T^0.7*Gxbar^0.25; //[mol/ft^3-h]  
 //Assuming 
 yLbar = 0.82
 C = kxa*yLbar/kya_B;

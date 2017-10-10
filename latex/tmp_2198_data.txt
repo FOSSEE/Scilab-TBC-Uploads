@@ -1,0 +1,86 @@
+5#Metal Semiconductor Field Effect Transistors#5.6.1#Determine the current#Ex5_6_1.sce#2198/CH5/EX5.6.1/Ex5_6_1.sce#S##78812
+2#Junctions and Interfaces#2.9.9#Voltage across diode#Ex2_9_9.sce#2198/CH2/EX2.9.9/Ex2_9_9.sce#S##74056
+2#Junctions and Interfaces#2.9.8#Voltage across diode#Ex2_9_8.sce#2198/CH2/EX2.9.8/Ex2_9_8.sce#S##74055
+2#Junctions and Interfaces#2.9.7#Calculate Vin#Ex2_9_7.sce#2198/CH2/EX2.9.7/Ex2_9_7.sce#S##74054
+2#Junctions and Interfaces#2.9.6#Calculate the source current#Ex2_9_6.sce#2198/CH2/EX2.9.6/Ex2_9_6.sce#S##74053
+2#Junctions and Interfaces#2.9.5#Voltage across the diode#Ex2_9_5.sce#2198/CH2/EX2.9.5/Ex2_9_5.sce#S##74052
+2#Junctions and Interfaces#2.9.4#Value of Io and Eta#Ex2_9_4.sce#2198/CH2/EX2.9.4/Ex2_9_4.sce#S##78811
+2#Junctions and Interfaces#2.9.3#Determine forward current#Ex2_9_3.sce#2198/CH2/EX2.9.3/Ex2_9_3.sce#S##74050
+2#Junctions and Interfaces#2.9.2#Reverse saturation current#Ex2_9_2.sce#2198/CH2/EX2.9.2/Ex2_9_2.sce#S##74049
+2#Junctions and Interfaces#2.9.1#Reverse saturation current#Ex2_9_1.sce#2198/CH2/EX2.9.1/Ex2_9_1.sce#S##74048
+2#Junctions and Interfaces#2.7.4#Ratio of Current#Ex2_7_4.sce#2198/CH2/EX2.7.4/Ex2_7_4.sce#S##74047
+2#Junctions and Interfaces#2.7.3#Ratioo of Current#Ex2_7_3.sce#2198/CH2/EX2.7.3/Ex2_7_3.sce#S##74046
+2#Junctions and Interfaces#2.7.2#Alternating and total voltage#Ex2_7_2.sce#2198/CH2/EX2.7.2/Ex2_7_2.sce#S##78210
+2#Junctions and Interfaces#2.7.1#Diode voltage and current#Ex2_7_1.sce#2198/CH2/EX2.7.1/Ex2_7_1.sce#S##78209
+2#Junctions and Interfaces#2.6.4#Height of Potential barrier#Ex2_6_4.sce#2198/CH2/EX2.6.4/Ex2_6_4.sce#S##78948
+2#Junctions and Interfaces#2.6.3#Height of Potential Barrier#Ex2_6_3.sce#2198/CH2/EX2.6.3/Ex2_6_3.sce#S##78947
+2#Junctions and Interfaces#2.6.2#Contact Potential#Ex2_6_2.sce#2198/CH2/EX2.6.2/Ex2_6_2.sce#S##74043
+2#Junctions and Interfaces#2.6.1#Junction Potential#Ex2_6_1.sce#2198/CH2/EX2.6.1/Ex2_6_1.sce#S##74042
+2#Junctions and Interfaces#2.12.8#Current in the circuit#Ex2_12_8.sce#2198/CH2/EX2.12.8/Ex2_12_8.sce#S##78773
+2#Junctions and Interfaces#2.12.7#Find diode current#Ex2_12_7.sce#2198/CH2/EX2.12.7/Ex2_12_7.sce#S##78772
+2#Junctions and Interfaces#2.12.6#Reverse voltage and current ratio#Ex2_12_6.sce#2198/CH2/EX2.12.6/Ex2_12_6.sce#S##74067
+2#Junctions and Interfaces#2.12.5#Calculate Diameter#Ex2_12_5.sce#2198/CH2/EX2.12.5/Ex2_12_5.sce#S##78946
+2#Junctions and Interfaces#2.12.4#Barrier Capacitance of Ge#Ex2_12_4.sce#2198/CH2/EX2.12.4/Ex2_12_4.sce#S##78945
+2#Junctions and Interfaces#2.12.3#Space charge capacitance#Ex2_12_3.sce#2198/CH2/EX2.12.3/Ex2_12_3.sce#S##78944
+2#Junctions and Interfaces#2.12.2#Transition Capacitance#Ex2_12_2.sce#2198/CH2/EX2.12.2/Ex2_12_2.sce#S##78943
+2#Junctions and Interfaces#2.12.1#New value of depletion region width#Ex2_12_1.sce#2198/CH2/EX2.12.1/Ex2_12_1.sce#S##78767
+2#Junctions and Interfaces#2.11.4#Parameters for diode#Ex2_11_4.sce#2198/CH2/EX2.11.4/Ex2_11_4.sce#S##74061
+2#Junctions and Interfaces#2.11.3#Percent change in diode current#Ex2_11_3.sce#2198/CH2/EX2.11.3/Ex2_11_3.sce#S##74060
+2#Junctions and Interfaces#2.11.2#Current multiplication factor#Ex2_11_2.sce#2198/CH2/EX2.11.2/Ex2_11_2.sce#S##74059
+2#Junctions and Interfaces#2.11.1#Reverse saturation current#Ex2_11_1.sce#2198/CH2/EX2.11.1/Ex2_11_1.sce#S##74058
+2#Junctions and Interfaces#2.10.2#Temperature of junction#Ex2_10_2.sce#2198/CH2/EX2.10.2/Ex2_10_2.sce#S##78766
+1#Review of Fundamentals of Semiconductor#1.9.2#Electron Moility#Ex1_9_2.sce#2198/CH1/EX1.9.2/Ex1_9_2.sce#S##73988
+1#Review of Fundamentals of Semiconductor#1.9.1#Concentration and drift velocity#Ex1_9_1.sce#2198/CH1/EX1.9.1/Ex1_9_1.sce#S##78950
+1#Review of Fundamentals of Semiconductor#1.5.1#Value of forbidden gap#Ex1_5_1.sce#2198/CH1/EX1.5.1/Ex1_5_1.sce#S##78762
+1#Review of Fundamentals of Semiconductor#1.40.9#Electron and hole concentration#Ex1_40_9.sce#2198/CH1/EX1.40.9/Ex1_40_9.sce#S##74025
+1#Review of Fundamentals of Semiconductor#1.40.8#Resistivity of intrinsic Ge#Ex1_40_8.sce#2198/CH1/EX1.40.8/Ex1_40_8.sce#S##78952
+1#Review of Fundamentals of Semiconductor#1.40.7#Electron transit time and photo conductor gain#Ex1_40_7.sce#2198/CH1/EX1.40.7/Ex1_40_7.sce#S##74023
+1#Review of Fundamentals of Semiconductor#1.40.6#Concentration of holes and electrons#Ex1_40_6.sce#2198/CH1/EX1.40.6/Ex1_40_6.sce#S##78951
+1#Review of Fundamentals of Semiconductor#1.40.5#Diffusion length and diffusion current density#Ex1_40_5.sce#2198/CH1/EX1.40.5/Ex1_40_5.sce#S##74021
+1#Review of Fundamentals of Semiconductor#1.40.4#Find diffusion coefficients#Ex1_40_4.sce#2198/CH1/EX1.40.4/Ex1_40_4.sce#S##74020
+1#Review of Fundamentals of Semiconductor#1.40.3#Fermi level Ef#Ex1_40_3.sce#2198/CH1/EX1.40.3/Ex1_40_3.sce#S##74019
+1#Review of Fundamentals of Semiconductor#1.40.25#Hole Current#Ex1_40_25.sce#2198/CH1/EX1.40.25/Ex1_40_25.sce#S##78807
+1#Review of Fundamentals of Semiconductor#1.40.24#Hole current and charge stored#Ex1_40_24.sce#2198/CH1/EX1.40.24/Ex1_40_24.sce#S##78806
+1#Review of Fundamentals of Semiconductor#1.40.23#Rate of thermal energy and photons#Ex1_40_23.sce#2198/CH1/EX1.40.23/Ex1_40_23.sce#S##78805
+1#Review of Fundamentals of Semiconductor#1.40.22#Band gap of the material#Ex1_40_22.sce#2198/CH1/EX1.40.22/Ex1_40_22.sce#S##74038
+1#Review of Fundamentals of Semiconductor#1.40.21#Collector current density#Ex1_40_21.sce#2198/CH1/EX1.40.21/Ex1_40_21.sce#S##78804
+1#Review of Fundamentals of Semiconductor#1.40.20#Majority Carrier Density#Ex1_40_20.sce#2198/CH1/EX1.40.20/Ex1_40_20.sce#S##74036
+1#Review of Fundamentals of Semiconductor#1.40.19#Depletion width on p side#Ex1_40_19.sce#2198/CH1/EX1.40.19/Ex1_40_19.sce#S##74035
+1#Review of Fundamentals of Semiconductor#1.40.18#Resistance of the bar#Ex1_40_18.sce#2198/CH1/EX1.40.18/Ex1_40_18.sce#S##78803
+1#Review of Fundamentals of Semiconductor#1.40.17#Current density in the Si#Ex1_40_17.sce#2198/CH1/EX1.40.17/Ex1_40_17.sce#S##78802
+1#Review of Fundamentals of Semiconductor#1.40.16#Energy Band gap#Ex1_40_16.sce#2198/CH1/EX1.40.16/Ex1_40_16.sce#S##74032
+1#Review of Fundamentals of Semiconductor#1.40.15#Hole and electron diffusion current#Ex1_40_15.sce#2198/CH1/EX1.40.15/Ex1_40_15.sce#S##78949
+1#Review of Fundamentals of Semiconductor#1.40.14#Mobility of minority charge carrier#Ex1_40_14.sce#2198/CH1/EX1.40.14/Ex1_40_14.sce#S##74030
+1#Review of Fundamentals of Semiconductor#1.40.13#Generation rate due to irradiation#Ex1_40_13.sce#2198/CH1/EX1.40.13/Ex1_40_13.sce#S##74029
+1#Review of Fundamentals of Semiconductor#1.40.12#Carrier Concentration#Ex1_40_12.sce#2198/CH1/EX1.40.12/Ex1_40_12.sce#S##74028
+1#Review of Fundamentals of Semiconductor#1.40.11#Equillibrium electron and hole density#Ex1_40_11.sce#2198/CH1/EX1.40.11/Ex1_40_11.sce#S##74027
+1#Review of Fundamentals of Semiconductor#1.40.10#Ratio of donor atom to Si atom#Ex1_40_10.sce#2198/CH1/EX1.40.10/Ex1_40_10.sce#S##78800
+1#Review of Fundamentals of Semiconductor#1.40.1#Hole concentration at equillibrium#Ex1_40_1.sce#2198/CH1/EX1.40.1/Ex1_40_1.sce#S##74018
+1#Review of Fundamentals of Semiconductor#1.16.8#Find conductivity of Ge#Ex1_16_8.sce#2198/CH1/EX1.16.8/Ex1_16_8.sce#S##78799
+1#Review of Fundamentals of Semiconductor#1.16.7#Total Current Density#Ex1_16_7.sce#2198/CH1/EX1.16.7/Ex1_16_7.sce#S##78798
+1#Review of Fundamentals of Semiconductor#1.16.6#Find Concentration gradient#Ex1_16_6.sce#2198/CH1/EX1.16.6/Ex1_16_6.sce#S##78797
+1#Review of Fundamentals of Semiconductor#1.16.5#Find out current#Ex1_16_5.sce#2198/CH1/EX1.16.5/Ex1_16_5.sce#S##78795
+1#Review of Fundamentals of Semiconductor#1.16.4#Concentration and current#Ex1_16_4.sce#2198/CH1/EX1.16.4/Ex1_16_4.sce#S##78794
+1#Review of Fundamentals of Semiconductor#1.16.3#Minority Carrier Density#Ex1_16_3.sce#2198/CH1/EX1.16.3/Ex1_16_3.sce#S##74012
+1#Review of Fundamentals of Semiconductor#1.16.2#Resistivity of intrinsic Ge#Ex1_16_2.sce#2198/CH1/EX1.16.2/Ex1_16_2.sce#S##78793
+1#Review of Fundamentals of Semiconductor#1.16.1#Concentration and drift velocity#Ex1_16_1.sce#2198/CH1/EX1.16.1/Ex1_16_1.sce#S##78792
+1#Review of Fundamentals of Semiconductor#1.15.2#Mobility of holes#Ex1_15_2.sce#2198/CH1/EX1.15.2/Ex1_15_2.sce#S##74009
+1#Review of Fundamentals of Semiconductor#1.15.1#Hall Voltage#Ex1_15_1.sce#2198/CH1/EX1.15.1/Ex1_15_1.sce#S##78791
+1#Review of Fundamentals of Semiconductor#1.13.4#Electron Mobility#Ex1_13_4.sce#2198/CH1/EX1.13.4/Ex1_13_4.sce#S##74007
+1#Review of Fundamentals of Semiconductor#1.13.3#Total Current density#Ex1_13_3.sce#2198/CH1/EX1.13.3/Ex1_13_3.sce#S##78790
+1#Review of Fundamentals of Semiconductor#1.13.2#Applied electric field#Ex1_13_2.sce#2198/CH1/EX1.13.2/Ex1_13_2.sce#S##78789
+1#Review of Fundamentals of Semiconductor#1.13.1#Total Current Density#Ex1_13_1.sce#2198/CH1/EX1.13.1/Ex1_13_1.sce#S##78788
+1#Review of Fundamentals of Semiconductor#1.12.2#Free electrons#Ex1_12_2.sce#2198/CH1/EX1.12.2/Ex1_12_2.sce#S##74003
+1#Review of Fundamentals of Semiconductor#1.12.1#Thermal equillibrium concentrations#Ex1_12_1.sce#2198/CH1/EX1.12.1/Ex1_12_1.sce#S##74002
+1#Review of Fundamentals of Semiconductor#1.11.9#Ratio of donor atom to Si atom#Ex1_11_9.sce#2198/CH1/EX1.11.9/Ex1_11_9.sce#S##78785
+1#Review of Fundamentals of Semiconductor#1.11.8#Resistivity of intrinsic Si#Ex1_11_8.sce#2198/CH1/EX1.11.8/Ex1_11_8.sce#S##78784
+1#Review of Fundamentals of Semiconductor#1.11.7#Resistivity of intrinsic Si#Ex1_11_7.sce#2198/CH1/EX1.11.7/Ex1_11_7.sce#S##78783
+1#Review of Fundamentals of Semiconductor#1.11.6#Length of the bar#Ex1_11_6.sce#2198/CH1/EX1.11.6/Ex1_11_6.sce#S##78782
+1#Review of Fundamentals of Semiconductor#1.11.5#Majority Carrier density#Ex1_11_5.sce#2198/CH1/EX1.11.5/Ex1_11_5.sce#S##78781
+1#Review of Fundamentals of Semiconductor#1.11.4#Intrinsic Concentration#Ex1_11_4.sce#2198/CH1/EX1.11.4/Ex1_11_4.sce#S##78780
+1#Review of Fundamentals of Semiconductor#1.11.3#Current Mobility Velocity Conductivity#Ex1_11_3.sce#2198/CH1/EX1.11.3/Ex1_11_3.sce#S##78779
+1#Review of Fundamentals of Semiconductor#1.11.2#Intrinsic Carrier Concentration#Ex1_11_2.sce#2198/CH1/EX1.11.2/Ex1_11_2.sce#S##78778
+1#Review of Fundamentals of Semiconductor#1.11.11#Concentration and Cnductivity#Ex1_11_11.sce#2198/CH1/EX1.11.11/Ex1_11_11.sce#S##78787
+1#Review of Fundamentals of Semiconductor#1.11.10#Resistivity of Ge#Ex1_11_10.sce#2198/CH1/EX1.11.10/Ex1_11_10.sce#S##78786
+1#Review of Fundamentals of Semiconductor#1.11.1#Conductivity and Resistivity#Ex1_11_1.sce#2198/CH1/EX1.11.1/Ex1_11_1.sce#S##78777
+1#Review of Fundamentals of Semiconductor#1.10.1#Concentration and drift velocity#Ex1_10_1.sce#2198/CH1/EX1.10.1/Ex1_10_1.sce#S##78953

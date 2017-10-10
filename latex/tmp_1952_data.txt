@@ -1,0 +1,135 @@
+13#Additional solved short  answers#13.3.14#find capacitance and electric flux density#Ex3_14.sce#1952/CH13/EX13.3.14/Ex3_14.sce#S##83851
+13#Additional solved short  answers#13.3.13#calculate energy loss  per hour and intensity of magnetization and  flux density#Ex3_13.sce#1952/CH13/EX13.3.13/Ex3_13.sce#S##83850
+13#Additional solved short  answers#13.3.12#calculate the resistivity#Ex3_12.sce#1952/CH13/EX13.3.12/Ex3_12.sce#S##83848
+13#Additional solved short  answers#13.3.11#calculate mean free time#Ex3_11.sce#1952/CH13/EX13.3.11/Ex3_11.sce#S##83847
+13#Additional solved short  answers#13.2.7#calculate wavelength of scattered  radiation#Ex2_7.sce#1952/CH13/EX13.2.7/Ex2_7.sce#S##83845
+13#Additional solved short  answers#13.2.13#calculate Na and acceptance angle#Ex2_13.sce#1952/CH13/EX13.2.13/Ex2_13.sce#S##83846
+13#Additional solved short  answers#13.2.1#calculate the frequency#Ex2_1.sce#1952/CH13/EX13.2.1/Ex2_1.sce#S##83843
+13#Additional solved short  answers#13.1.6#calculate critical angle#Ex6.sce#1952/CH13/EX13.1.6/Ex6.sce#S##83839
+13#Additional solved short  answers#13.1.2#find fundamental frequency#Ex2.sce#1952/CH13/EX13.1.2/Ex2.sce#S##83838
+13#Additional solved short  answers#13.1.15#calculate number of unit cells #Ex15.sce#1952/CH13/EX13.1.15/Ex15.sce#S##83844
+13#Additional solved short  answers#13.1.14#calculate energy of scattered photon#Ex14.sce#1952/CH13/EX13.1.14/Ex14.sce#S##83842
+13#Additional solved short  answers#13.1.12#find the wavelength#Ex12.sce#1952/CH13/EX13.1.12/Ex12.sce#S##83841
+13#Additional solved short  answers#13.1.10#calculate interplanar spacing#Ex10.sce#1952/CH13/EX13.1.10/Ex10.sce#S##83840
+12#Additional solved examples#12.9#calculate pulse broadening per unit length#Ex9.sce#1952/CH12/EX12.9/Ex9.sce#S##83812
+12#Additional solved examples#12.8#calculate pulse broadening per unit length#Ex8.sce#1952/CH12/EX12.8/Ex8.sce#S##83811
+12#Additional solved examples#12.7#find NA and critical angle and alpha m#Ex7.sce#1952/CH12/EX12.7/Ex7.sce#S##83810
+12#Additional solved examples#12.6#find NA and critical angle and alpha m#Ex6.sce#1952/CH12/EX12.6/Ex6.sce#S##83809
+12#Additional solved examples#12.5#calculate number of photons emitted per minute#Ex5.sce#1952/CH12/EX12.5/Ex5.sce#S##83808
+12#Additional solved examples#12.4#calculate number of photons emitted per minute#Ex4.sce#1952/CH12/EX12.4/Ex4.sce#S##83807
+12#Additional solved examples#12.33#calculate  isotopic mass#Ex33.sce#1952/CH12/EX12.33/Ex33.sce#S##83837
+12#Additional solved examples#12.32#calculate isotopic mass#Ex32.sce#1952/CH12/EX12.32/Ex32.sce#S##83836
+12#Additional solved examples#12.31#calculate critical current#Ex31.sce#1952/CH12/EX12.31/Ex31.sce#S##83835
+12#Additional solved examples#12.30#determine critical current#Ex30.sce#1952/CH12/EX12.30/Ex30.sce#S##83834
+12#Additional solved examples#12.3#calculate ratio of stimulated emission  to spontaneous emission#Ex3.sce#1952/CH12/EX12.3/Ex3.sce#S##83806
+12#Additional solved examples#12.29#calculate susceptibility#Ex29.sce#1952/CH12/EX12.29/Ex29.sce#S##83833
+12#Additional solved examples#12.28#calculate permeability#Ex28.sce#1952/CH12/EX12.28/Ex28.sce#S##83832
+12#Additional solved examples#12.27#determine magnetic moment#Ex27.sce#1952/CH12/EX12.27/Ex27.sce#S##83831
+12#Additional solved examples#12.26#determine magnitude and direction of magnetic moment#Ex26.sce#1952/CH12/EX12.26/Ex26.sce#S##83830
+12#Additional solved examples#12.25#determine magnitude and direction of magnetic moment#Ex25.sce#1952/CH12/EX12.25/Ex25.sce#S##83829
+12#Additional solved examples#12.24#calculate Hall voltage and Hall coefficient#Ex24.sce#1952/CH12/EX12.24/Ex24.sce#S##83828
+12#Additional solved examples#12.23#find magnitude of Hall voltage#Ex23.sce#1952/CH12/EX12.23/Ex23.sce#S##83827
+12#Additional solved examples#12.22#calculate how is Ef located relative to Ei#Ex22.pdf#1952/CH12/EX12.22/Ex22.pdf#R##84430
+12#Additional solved examples#12.22#calculate how is Ef located relative to Ei#Ex22.sce#1952/CH12/EX12.22/Ex22.sce#S##84429
+12#Additional solved examples#12.22#calculate how is Ef located relative to Ei#Ex22.png#1952/CH12/EX12.22/Ex22.png#R##84431
+12#Additional solved examples#12.21#evaluate value of F E#Ex21.sce#1952/CH12/EX12.21/Ex21.sce#S##83826
+12#Additional solved examples#12.20#calculate relaxation time and average drift velocity and velocity of electron and mean free path#Ex20.sce#1952/CH12/EX12.20/Ex20.sce#S##83825
+12#Additional solved examples#12.2#determine relative population#Ex2.sce#1952/CH12/EX12.2/Ex2.sce#S##83805
+12#Additional solved examples#12.19#calculate Fermi energy#Ex19.sce#1952/CH12/EX12.19/Ex19.sce#S##83824
+12#Additional solved examples#12.18#find volume of unit cell#Ex18.sce#1952/CH12/EX12.18/Ex18.sce#S##83823
+12#Additional solved examples#12.17#find size of unit cell#Ex17.sce#1952/CH12/EX12.17/Ex17.sce#S##83822
+12#Additional solved examples#12.16#find miller indices#Ex16.sce#1952/CH12/EX12.16/Ex16.sce#S##83821
+12#Additional solved examples#12.15#find miller indices#Ex15.sce#1952/CH12/EX12.15/Ex15.sce#S##83820
+12#Additional solved examples#12.14# find change in wavelength#Ex14.sce#1952/CH12/EX12.14/Ex14.sce#S##83818
+12#Additional solved examples#12.13#calculate de Broglie wavelength#Ex13.sce#1952/CH12/EX12.13/Ex13.sce#S##83817
+12#Additional solved examples#12.12#calculate  number of photons emitted per second#Ex12.sce#1952/CH12/EX12.12/Ex12.sce#S##83816
+12#Additional solved examples#12.11#calculate energy and momentum of photon#Ex11.sce#1952/CH12/EX12.11/Ex11.sce#S##83814
+12#Additional solved examples#12.10#calculate minimum and maximum number of total internal  reflections per metre#Ex10.sce#1952/CH12/EX12.10/Ex10.sce#S##83813
+12#Additional solved examples#12.1#calculate relative population #Ex1.sce#1952/CH12/EX12.1/Ex1.sce#S##83804
+10#Dielectric materials#10.2#calculate electronic polarizability#Ex10_2.sce#1952/CH10/EX10.2/Ex10_2.sce#S##83769
+10#Dielectric materials#10.1#calculate electronic polarizability#Ex10_1.sce#1952/CH10/EX10.1/Ex10_1.sce#S##83768
+9#Superconducting materials#9.2#calculate isotopic mass#ex9_2.sce#1952/CH9/EX9.2/ex9_2.sce#S##83771
+9#Superconducting materials#9.1#calculate critical magnetic field intensity#Ex9_1.sce#1952/CH9/EX9.1/Ex9_1.sce#S##83770
+8#Magnetic materials#8.5#calculate magnetic moment#Ex8_5.sce#1952/CH8/EX8.5/Ex8_5.sce#S##83776
+8#Magnetic materials#8.4#calculate permeability#Ex8_4.sce#1952/CH8/EX8.4/Ex8_4.sce#S##83775
+8#Magnetic materials#8.3#calculate magnetic susceptibility#Ex8_3.sce#1952/CH8/EX8.3/Ex8_3.sce#S##83774
+8#Magnetic materials#8.2#Determine magnetic moment#Ex8_2.sce#1952/CH8/EX8.2/Ex8_2.sce#S##83773
+8#Magnetic materials#8.1#Determine magnitude and direction of magnetic moment#Ex8_1.sce#1952/CH8/EX8.1/Ex8_1.sce#S##83772
+7#Semiconducting materials#7.9#calculate conductivity of sample#Ex7_9.sce#1952/CH7/EX7.9/Ex7_9.sce#S##84149
+7#Semiconducting materials#7.8#compute forbidden energy gap#Ex7_8.sce#1952/CH7/EX7.8/Ex7_8.sce#S##84148
+7#Semiconducting materials#7.7#find resistance of pure and doped Si crystal#Ex7_7.sce#1952/CH7/EX7.7/Ex7_7.sce#S##84147
+7#Semiconducting materials#7.6#calculate Fermi energy with respect to Fermi energy#Ex7_6.sce#1952/CH7/EX7.6/Ex7_6.sce#S##84146
+7#Semiconducting materials#7.5#calculate intrinsic carrier concentration and intrinsic conductivity and relativity#Ex7_5.sce#1952/CH7/EX7.5/Ex7_5.sce#S##84145
+7#Semiconducting materials#7.4#calculate resistivity and Hall coefficient and Hall voltage#Ex7_4.sce#1952/CH7/EX7.4/Ex7_4.sce#S##84141
+7#Semiconducting materials#7.3#calculate resistivity of sample#Ex7_3.sce#1952/CH7/EX7.3/Ex7_3.sce#S##84140
+7#Semiconducting materials#7.22#find Hall potential difference#Ex7_22.sce#1952/CH7/EX7.22/Ex7_22.sce#S##84162
+7#Semiconducting materials#7.21#find Hall coefficient and electron mobility#Ex7_21.sce#1952/CH7/EX7.21/Ex7_21.sce#S##84161
+7#Semiconducting materials#7.20#find electrical conductivity  before and after addition of B atoms#Ex7_20.sce#1952/CH7/EX7.20/Ex7_20.sce#S##84160
+7#Semiconducting materials#7.2#calculate equilibrium hole concentration and how is Ef located relative to Ei#Ex7_2.pdf#1952/CH7/EX7.2/Ex7_2.pdf#R##84427
+7#Semiconducting materials#7.2#calculate equilibrium hole concentration and how is Ef located relative to Ei#Ex7_2.sce#1952/CH7/EX7.2/Ex7_2.sce#S##84426
+7#Semiconducting materials#7.2#calculate equilibrium hole concentration and how is Ef located relative to Ei#Ex7_2.png#1952/CH7/EX7.2/Ex7_2.png#R##84428
+7#Semiconducting materials#7.19#find intrinsic resistivity#Ex7_19.sce#1952/CH7/EX7.19/Ex7_19.sce#S##84163
+7#Semiconducting materials#7.18#calculate electrical conductivity#Ex7_18.sce#1952/CH7/EX7.18/Ex7_18.sce#S##84158
+7#Semiconducting materials#7.17#determine the position of Fermi level#Ex7_17.sce#1952/CH7/EX7.17/Ex7_17.sce#S##84157
+7#Semiconducting materials#7.16#find resistance of intrinsic Ge#Ex7_16.sce#1952/CH7/EX7.16/Ex7_16.sce#S##84156
+7#Semiconducting materials#7.15#calculate magnitude of Hall voltage#Ex7_15.sce#1952/CH7/EX7.15/Ex7_15.sce#S##84155
+7#Semiconducting materials#7.14#calculate charge carrier density and electron mobility#Ex7_14.sce#1952/CH7/EX7.14/Ex7_14.sce#S##84154
+7#Semiconducting materials#7.13#calculate concentration of conduction electrons in Cu#Ex7_13.sce#1952/CH7/EX7.13/Ex7_13.sce#S##84153
+7#Semiconducting materials#7.12#calculate drift mobility of electron#Ex7_12.sce#1952/CH7/EX7.12/Ex7_12.sce#S##84152
+7#Semiconducting materials#7.11#calculate concentration in conduction band#Ex7_11.sce#1952/CH7/EX7.11/Ex7_11.sce#S##84151
+7#Semiconducting materials#7.10#find the new position of Fermi level#Ex7_10.sce#1952/CH7/EX7.10/Ex7_10.sce#S##84150
+7#Semiconducting materials#7.1#Evaluate approximate donor binding energy#Ex7_1.sce#1952/CH7/EX7.1/Ex7_1.sce#S##84139
+6#Conducting materials#6.9#find F E#Ex6_9.sce#1952/CH6/EX6.9/Ex6_9.sce#S##83884
+6#Conducting materials#6.8#calculate Lorentz number#Ex6_8.sce#1952/CH6/EX6.8/Ex6_8.sce#S##83883
+6#Conducting materials#6.7#calculate thermal  conductivity#Ex6_7.sce#1952/CH6/EX6.7/Ex6_7.sce#S##83882
+6#Conducting materials#6.6#calculate relaxation time and mobility and average drift velocity and mean free path#Ex6_6.sce#1952/CH6/EX6.6/Ex6_6.sce#S##83881
+6#Conducting materials#6.5#calculate  electrical conductivity#Ex6_5.sce#1952/CH6/EX6.5/Ex6_5.sce#S##83880
+6#Conducting materials#6.4#calculate Lorentz number#Ex6_4.sce#1952/CH6/EX6.4/Ex6_4.sce#S##83879
+6#Conducting materials#6.3#calculate conductivity  and relaxation time#Ex6_3.sce#1952/CH6/EX6.3/Ex6_3.sce#S##83878
+6#Conducting materials#6.2#calculate Fermi energy#Ex6_2.sce#1952/CH6/EX6.2/Ex6_2.sce#S##83877
+6#Conducting materials#6.16#calculate Fermi velocity#Ex6_16.sce#1952/CH6/EX6.16/Ex6_16.sce#S##83891
+6#Conducting materials#6.15#calculate Fermi energy and Fermi temperature#Ex6_15.sce#1952/CH6/EX6.15/Ex6_15.sce#S##83890
+6#Conducting materials#6.14#calculate drift velocity#Ex6_14.sce#1952/CH6/EX6.14/Ex6_14.sce#S##83889
+6#Conducting materials#6.13#calculate drift velocity and mobility and relaxation time #Ex6_13.sce#1952/CH6/EX6.13/Ex6_13.sce#S##83888
+6#Conducting materials#6.12#find relaxation time#Ex6_12.sce#1952/CH6/EX6.12/Ex6_12.sce#S##83887
+6#Conducting materials#6.11#calculate electrical and thermal conductivities#Ex6_11.sce#1952/CH6/EX6.11/Ex6_11.sce#S##83886
+6#Conducting materials#6.10#calculate electrical conductivity#Ex6_10.sce#1952/CH6/EX6.10/Ex6_10.sce#S##83885
+6#Conducting materials#6.1#calculate Fermi energy#Ex6_1.sce#1952/CH6/EX6.1/Ex6_1.sce#S##83876
+5#Crystal physics#5.7#find volume of unit cell#Ex5_7.sce#1952/CH5/EX5.7/Ex5_7.sce#S##83875
+5#Crystal physics#5.6#determine spacing between planes#Ex5_6.sce#1952/CH5/EX5.6/Ex5_6.sce#S##83874
+5#Crystal physics#5.5#determine size of unit cell#Ex5_5.sce#1952/CH5/EX5.5/Ex5_5.sce#S##83873
+5#Crystal physics#5.4#calculate spacing of planes#Ex5_4.sce#1952/CH5/EX5.4/Ex5_4.sce#S##83872
+5#Crystal physics#5.3#calculate surface density of atoms#Ex5_3.sce#1952/CH5/EX5.3/Ex5_3.sce#S##83871
+5#Crystal physics#5.2#calculate density of Si#Ex5_2.sce#1952/CH5/EX5.2/Ex5_2.sce#S##83870
+5#Crystal physics#5.1#determine miller indices#Ex5_1.sce#1952/CH5/EX5.1/Ex5_1.sce#S##83869
+4#Quantum physics#4.9#find change in wavelength#Ex4_9.sce#1952/CH4/EX4.9/Ex4_9.sce#S##83868
+4#Quantum physics#4.8#calculate energy required to excite electron from ground state to 6th excited  state#Ex4_8.sce#1952/CH4/EX4.8/Ex4_8.sce#S##83867
+4#Quantum physics#4.7#calculate minimum energy#Ex4_7.sce#1952/CH4/EX4.7/Ex4_7.sce#S##83866
+4#Quantum physics#4.6#find energy of particle#Ex4_6.sce#1952/CH4/EX4.6/Ex4_6.sce#S##83865
+4#Quantum physics#4.5#calculate de Broglie wavelength#Ex4_5.sce#1952/CH4/EX4.5/Ex4_5.sce#S##83864
+4#Quantum physics#4.4#find the wavelength#Ex4_4.sce#1952/CH4/EX4.4/Ex4_4.sce#S##83863
+4#Quantum physics#4.3#determine number of photons emitted per second#Ex4_3.sce#1952/CH4/EX4.3/Ex4_3.sce#S##83862
+4#Quantum physics#4.2#calculate number of photons emitted per second#Ex4_2.sce#1952/CH4/EX4.2/Ex4_2.sce#S##83861
+4#Quantum physics#4.1#calculate energy and momentum of photon#Ex4_1.sce#1952/CH4/EX4.1/Ex4_1.sce#S##83860
+3#Fibre optics and its applications#3.3#To calculate minimum and maximum number of total internal   reflections per metre#Ex3_3.sce#1952/CH3/EX3.3/Ex3_3.sce#S##89040
+3#Fibre optics and its applications#3.2#calculate pulse broadening per unit length#Ex3_2.sce#1952/CH3/EX3.2/Ex3_2.sce#S##83766
+3#Fibre optics and its applications#3.1#To find NAand phi m and critical angle#Ex3_1.sce#1952/CH3/EX3.1/Ex3_1.sce#S##83765
+2#Lasers#2.3#calculate number of  photons emitted per minute#Ex2_3.sce#1952/CH2/EX2.3/Ex2_3.sce#S##83764
+2#Lasers#2.2#To calculate ratio of stimulated emission  to spontaneous emission#Ex2_2.sce#1952/CH2/EX2.2/Ex2_2.sce#S##83763
+2#Lasers#2.1#To calculate relative population#Ex2_1.sce#1952/CH2/EX2.1/Ex2_1.sce#S##83762
+1#ultrasonics#1.9#To find depth of sea#Ex1_9.sce#1952/CH1/EX1.9/Ex1_9.sce#S##83754
+1#ultrasonics#1.8#To calculate the frequency#Ex1_8.sce#1952/CH1/EX1.8/Ex1_8.sce#S##83753
+1#ultrasonics#1.7#To calculate the natural frequency#Ex1_7.sce#1952/CH1/EX1.7/Ex1_7.sce#S##83752
+1#ultrasonics#1.6#To calculate the natural frequency#Ex1_6.sce#1952/CH1/EX1.6/Ex1_6.sce#S##83751
+1#ultrasonics#1.5#To calculate the natural frequency#Ex1_5.sce#1952/CH1/EX1.5/Ex1_5.sce#S##83750
+1#ultrasonics#1.4#compute the velocity of waves#Ex1_4.sce#1952/CH1/EX1.4/Ex1_4.sce#S##83749
+1#ultrasonics#1.3#To calculate  the natural frequency#Ex1_3.sce#1952/CH1/EX1.3/Ex1_3.sce#S##83748
+1#ultrasonics#1.2# To calculate the natural frequency#Ex1_2.sce#1952/CH1/EX1.2/Ex1_2.sce#S##83747
+1#ultrasonics#1.16#To evaluate natural  frequency#Ex1_16.sce#1952/CH1/EX1.16/Ex1_16.sce#S##83761
+1#ultrasonics#1.15#To find frequency of waves#Ex1_15.sce#1952/CH1/EX1.15/Ex1_15.sce#S##83760
+1#ultrasonics#1.14#To find depth of submarine#Ex1_14.sce#1952/CH1/EX1.14/Ex1_14.sce#S##83759
+1#ultrasonics#1.13#To find reverberation time#Ex1_13.sce#1952/CH1/EX1.13/Ex1_13.sce#S##83758
+1#ultrasonics#1.12#To find area of interior  surface#Ex1_12.sce#1952/CH1/EX1.12/Ex1_12.sce#S##83757
+1#ultrasonics#1.11#To calculate reverberation time#Ex1_11.sce#1952/CH1/EX1.11/Ex1_11.sce#S##83756
+1#ultrasonics#1.10#To find depth of sea#Ex1_10.sce#1952/CH1/EX1.10/Ex1_10.sce#S##83755
+1#ultrasonics#1.1#To find  depth of submerged submarine#Ex1_1.sce#1952/CH1/EX1.1/Ex1_1.sce#S##83746

@@ -92,11 +92,11 @@ subplot(335);
 
 plot(to1,vo1);
 
-plot(to1i,vo1i);
+plot(to1i,vo1i*ones(1,length(to1i)));
 
 plot(to2,vo2);
 
-plot(to2i,vo2i);
+plot(to2i,vo2i*ones(1,length(to2i)));
 
 plot(to3,vo3);
 
@@ -169,19 +169,19 @@ vNi3=0;
 
 subplot(336);
 
-plot(tNi1,vNi1);
+plot(tNi1,vNi1*ones(1,length(tNi1)));
 
 plot(tN11,vN11);
 
 plot(tN12,vN12);
 
-plot(tNi2,vNi2);
+plot(tNi2,vNi2*ones(1,length(tNi2)));
 
 plot(tN21,vN21);
 
 plot(tN22,vN22);
 
-plot(tNi3,vNi3);
+plot(tNi3,vNi3*ones(1,length(tNi3)));
 
 xlabel("Time(t)","fontsize",3);
 

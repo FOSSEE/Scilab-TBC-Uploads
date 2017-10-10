@@ -3,6 +3,7 @@
 clc;
 //v_rms=sqrt((3*K*T)/m)
 //K=1(let)
+T=200                //(K)   Given temperature
 K=1
-T_He=(3*K*200*4)/(3*K*2)
+T_He=(3*K*T*4)/(3*K*2)
 disp(T_He,'Required temperature(K)')

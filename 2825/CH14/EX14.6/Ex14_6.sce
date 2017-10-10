@@ -8,7 +8,7 @@ n0=1 //when fiber is in air
 n1=sqrt(n2^2+NA^2) //core refractive index
 printf("Core refractive index = %.3f \n",n1)
 
-n0=1.33 //water refractive index
+n=1.33 //water refractive index
 NA=sqrt(n1^2-n2^2)/n0 //numerical apperture
 printf(" Numerical apperture = %.2f \n",NA)
 

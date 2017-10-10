@@ -1,15 +1,16 @@
 //CHAPTER 4_ Motion and Dimensional Measurement
-//Caption : Strain gage
+//Caption : Strain gauge
 // Example 3// Page 176
 disp("Rg=120")
 disp("Sg=2;")
 disp("Rs=120000")
 Rg=120;    // given
-Sg=2;  // gage factor
+Sg=2;  // gauge factor
+v=0.3; 
 Rs=120000   //('enter the value of shunt resistor=:')
 disp("The input bridge excitation is represented by Eex")
-A=10   //('enter the amplifier gain=:')
-// The shunt resistance has to be very large since we intend to measure only very small change in resistanc
+A=10;   //('enter the amplifier gain=:')
+// The shunt resistance has to be very large since we intend to measure only very small change in resistance
 eo=30*10^-3    //('enter the unbalanced bridge voltage=:')
 dR=Rg/(Rg+Rs);
 r=1;//ratio of resistances of adjacent arms

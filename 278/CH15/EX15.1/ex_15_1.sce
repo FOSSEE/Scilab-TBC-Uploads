@@ -1,4 +1,4 @@
-//find dia of pin and handle
+
 clc
 //soltuion
 //given

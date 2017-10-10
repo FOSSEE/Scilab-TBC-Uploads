@@ -1,4 +1,4 @@
-//find stres induced in both bars and pins
+
 clc
 //solution
 //given

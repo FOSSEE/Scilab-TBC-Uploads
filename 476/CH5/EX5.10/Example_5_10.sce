@@ -9,7 +9,7 @@ clc;
 
 
 //Given:
-T = 290; //operating temperature (K)
+T1= 290; //operating temperature (K)
 W = 1000; //work (J)
 tof = 3516.67; //ton of refrigeration (W)
 

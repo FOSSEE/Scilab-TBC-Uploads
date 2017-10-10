@@ -1,4 +1,4 @@
-//CAPTION:Calculate_the_reflection_coefficient_and_the_transmission_coefficient
+
 
 //chapter_no.-3,  page_no.-89
 //Example_no.3-2-1

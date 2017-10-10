@@ -1,4 +1,4 @@
-//determine diametr of diameter and thickness of plate
+
 clc
 //solution
 //given'

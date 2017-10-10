@@ -1,4 +1,4 @@
-//find the internal diameter of the tyre and least temp upto which type must be heated
+
 clc
 //solution
 //given

@@ -1,6 +1,7 @@
 //CHAPTER 1- D.C. CIRCUIT ANALYSIS AND NETWORK THEOREMS 
 //Example 38
 
+clc;
 disp("CHAPTER 1");
 disp("EXAMPLE 38");
 
@@ -21,7 +22,7 @@ req2=r3+r4;
 rth=(req1*req2)/(req1+req2);
 disp("THEVENIN EQUIVALENT CIRCUIT IS-");
 disp(sprintf("      Thevenin voltage= %d V",vth));
-disp(sprintf("      Thevenin resistance= %.2f Ω",rth));
+disp(sprintf("      Thevenin resistance= %f Ω",rth));
 
 //Norton Equivalent circuit
 v1=I/((1/r2)+(1/r4)); 
@@ -31,7 +32,7 @@ req2=r3+r4;
 rn=(req1*req2)/(req1+req2);
 Isc=(v1/r4)+v2;
 disp("NORTON EQUIVALENT CIRCUIT IS-");
-disp(sprintf("      Norton current= %.3f A",Isc));
-disp(sprintf("      Norton resistance= %.3f Ω",rn));
+disp(sprintf("      Norton current= %f A",Isc));
+disp(sprintf("      Norton resistance= %f Ω",rn));
 
 //END

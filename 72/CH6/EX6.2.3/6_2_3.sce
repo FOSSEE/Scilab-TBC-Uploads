@@ -1,4 +1,4 @@
-//CAPTION: CutOff_frequency_of_a_MESFET
+
 
 //chapter_no.-6,  page_no.-247
 //Example_no.6-2-3

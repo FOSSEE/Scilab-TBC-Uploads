@@ -1,6 +1,7 @@
 //CHAPTER 2- STEADY-STATE ANALYSIS OF SINGLE-PHASE A.C. CIRCUIT
 //Example 52
 
+clc;
 disp("CHAPTER 2");
 disp("EXAMPLE 52");
 
@@ -49,29 +50,29 @@ r_tot=req+rp;
 x_tot=xeq+xp;
 [z_tot,angle_tot]=rect2pol(r_tot,x_tot);
 Z=r_tot+x_tot*%i;               //complex representation
-disp(sprintf("(a) The total impedance is %.3f Ω, %.2f degrees",z_tot,angle_tot));
+disp(sprintf("(a) The total impedance is %f Ω, %f degrees",z_tot,angle_tot));
 
 //solution (b)
 I=v/Z;                          //complex division
 angle_I=-angle_tot;
 [I_x,I_y]=pol2rect(I,angle_I);
-disp(sprintf("(b) The total currrent is (%.3f-j%.2f) A",real(I),imag(I))); 
+disp(sprintf("(b) The total currrent is (%f-j%f) A",real(I),imag(I))); 
 
 //solution (c)
 //Voltage drop across Z3
 Vab=I*Z3;
-disp(sprintf("    The Voltage between AB is (%.3f-j%.2f) V",real(Vab),imag(Vab)));
+disp(sprintf("    The Voltage between AB is (%f-j%f) A",real(Vab),imag(Vab)));
 //since we know that V=Vab+Vbc
 Vbc=v-Vab;
-disp(sprintf("    The Voltage between BC is (%.3f-j%.2f) V",real(Vbc),imag(Vbc)));
+disp(sprintf("    The Voltage between BC is (%f-j%f) A",real(Vbc),imag(Vbc)));
 I1=Vbc/Z1;                      //Branch 1 current
 I2=Vbc/Z2;                      //branch 2 current
 //I3=I, main branch current
 [mag1,angle1]=rect2pol(real(I1),imag(I1));
 [mag2,angle2]=rect2pol(real(I2),imag(I2));
-disp(sprintf("(c) Current in branch 1 is %.3f,< %.2f degrees A",mag1,angle1));
-disp(sprintf("    The currrent in branch 1 is (%.3f-j%.2f) A",real(I1),imag(I1))); 
-disp(sprintf("    The current in branch 2 is %.3f A,<%.2f degrees A",mag2,angle2));
-disp(sprintf("    The currrent in branch 2 is (%.3f-j%.2f) A",real(I2),imag(I2))); 
+disp(sprintf("(c) Current in branch 1 is %f A, %f degrees",mag1,angle1));
+disp(sprintf("    The currrent in branch 1 is (%f-j%f) A",real(I1),imag(I1))); 
+disp(sprintf("    The current in branch 2 is %f A, %f degrees",mag2,angle2));
+disp(sprintf("    The currrent in branch 2 is (%f-j%f) A",real(I2),imag(I2))); 
 //END
 

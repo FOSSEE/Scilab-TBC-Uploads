@@ -1,0 +1,232 @@
+11#Single Phase Induction Motor#11.2#Slip and resistance in forward and backward direction#Ex11_2.sce#1445/CH11/EX11.2/Ex11_2.sce#S##119815
+11#Single Phase Induction Motor#11.1#Shaft torque#Ex11_1.sce#1445/CH11/EX11.1/Ex11_1.sce#S##119814
+10#Three Phase Induction Machines#10.9#150 kW 6 pole star connected induction motor#Ex10_9.sce#1445/CH10/EX10.9/Ex10_9.sce#S##119823
+10#Three Phase Induction Machines#10.8#3 phase induction motor with synchronous speed 1200 rpm#Ex10_8.sce#1445/CH10/EX10.8/Ex10_8.sce#S##119824
+10#Three Phase Induction Machines#10.7#4 pole 3 phase induction motor#Ex10_7.sce#1445/CH10/EX10.7/Ex10_7.sce#S##119825
+10#Three Phase Induction Machines#10.6#Speed of 4 pole induction motor#Ex10_6.sce#1445/CH10/EX10.6/Ex10_6.sce#S##119826
+10#Three Phase Induction Machines#10.5#Speed of motor#Ex10_5.sce#1445/CH10/EX10.5/Ex10_5.sce#S##119827
+10#Three Phase Induction Machines#10.4#3 phase squirrel cage motor#Ex10_4.sce#1445/CH10/EX10.4/Ex10_4.sce#S##119828
+10#Three Phase Induction Machines#10.3#3 phase induction motor running at 1140 rpm#Ex10_3.sce#1445/CH10/EX10.3/Ex10_3.sce#S##119829
+10#Three Phase Induction Machines#10.2#6 pole wound rotor induction motor#Ex10_2.sce#1445/CH10/EX10.2/Ex10_2.sce#S##119830
+10#Three Phase Induction Machines#10.16#3 phase induction motor#Ex10_16.sce#1445/CH10/EX10.16/Ex10_16.sce#S##119816
+10#Three Phase Induction Machines#10.15#4 pole 3 phase SRIM#Ex10_15.sce#1445/CH10/EX10.15/Ex10_15.sce#S##119817
+10#Three Phase Induction Machines#10.14#10 kW 400 V delta connected induction motor#Ex10_14.sce#1445/CH10/EX10.14/Ex10_14.sce#S##119818
+10#Three Phase Induction Machines#10.13#3 phase 50 Hz induction motor#Ex10_13.sce#1445/CH10/EX10.13/Ex10_13.sce#S##119819
+10#Three Phase Induction Machines#10.12#3 phase 440 V distribution#Ex10_12.sce#1445/CH10/EX10.12/Ex10_12.sce#S##119820
+10#Three Phase Induction Machines#10.11#4 pole induction motor#Ex10_11.sce#1445/CH10/EX10.11/Ex10_11.sce#S##119821
+10#Three Phase Induction Machines#10.10#6 pole 60 Hz induction motor#Ex10_10.sce#1445/CH10/EX10.10/Ex10_10.sce#S##119822
+8#Direct Current Machines#8.9#Torque developed in the motor#Ex8_9.sce#1445/CH8/EX8.9/Ex8_9.sce#S##119888
+8#Direct Current Machines#8.8#250 V DC shunt machine#Ex8_8.sce#1445/CH8/EX8.8/Ex8_8.sce#S##119889
+8#Direct Current Machines#8.7#New operating speed#Ex8_7.sce#1445/CH8/EX8.7/Ex8_7.sce#S##119890
+8#Direct Current Machines#8.6#20 HP 230 V 1150 rpm shunt motor#Ex8_6.sce#1445/CH8/EX8.6/Ex8_6.sce#S##119891
+8#Direct Current Machines#8.5#BHP of prime mover#Ex8_5.sce#1445/CH8/EX8.5/Ex8_5.sce#S##119892
+8#Direct Current Machines#8.4#Armature resistance and load current at maximum efficiency#Ex8_4.sce#1445/CH8/EX8.4/Ex8_4.sce#S##119893
+8#Direct Current Machines#8.38#Speed of motor when flux per pole is increased by 10 percent#Ex8_38.sce#1445/CH8/EX8.38/Ex8_38.sce#S##119860
+8#Direct Current Machines#8.37#Hysteresis and eddy current losses#Ex8_37.sce#1445/CH8/EX8.37/Ex8_37.sce#S##119861
+8#Direct Current Machines#8.36#Constant losses and full load efficiency#Ex8_36.sce#1445/CH8/EX8.36/Ex8_36.sce#S##119862
+8#Direct Current Machines#8.35#Armature current and induced emf#Ex8_35.sce#1445/CH8/EX8.35/Ex8_35.sce#S##119863
+8#Direct Current Machines#8.34#Total emf and armature current#Ex8_34.sce#1445/CH8/EX8.34/Ex8_34.sce#S##119864
+8#Direct Current Machines#8.33#Resistance to be added to obtain rated torque at starting and at 1000 rpm#Ex8_33.sce#1445/CH8/EX8.33/Ex8_33.sce#S##119865
+8#Direct Current Machines#8.32#250 V series motor with 20 A current and 1000 rpm#Ex8_32.sce#1445/CH8/EX8.32/Ex8_32.sce#S##119866
+8#Direct Current Machines#8.31#Value of speed when flux is increased by 20 percent#Ex8_31.sce#1445/CH8/EX8.31/Ex8_31.sce#S##119867
+8#Direct Current Machines#8.30#Value of starting torque#Ex8_30.sce#1445/CH8/EX8.30/Ex8_30.sce#S##119868
+8#Direct Current Machines#8.3#Armature induced emf and developed torque and efficiency#Ex8_3.sce#1445/CH8/EX8.3/Ex8_3.sce#S##119894
+8#Direct Current Machines#8.29#Speed of motor when connected in series with 5 ohm resistance#Ex8_29.sce#1445/CH8/EX8.29/Ex8_29.sce#S##119869
+8#Direct Current Machines#8.28#Voltage between far end of feeder and bus bar#Ex8_28.sce#1445/CH8/EX8.28/Ex8_28.sce#S##119870
+8#Direct Current Machines#8.27#Counter emf of motor and power developed in armature#Ex8_27.sce#1445/CH8/EX8.27/Ex8_27.sce#S##119871
+8#Direct Current Machines#8.25#24 slot 2 pole DC machine#Ex8_25.sce#1445/CH8/EX8.25/Ex8_25.sce#S##119872
+8#Direct Current Machines#8.24#New speed of motor on inserting a 250 ohm resistance in the field circuit#Ex8_24.sce#1445/CH8/EX8.24/Ex8_24.sce#S##119874
+8#Direct Current Machines#8.23#Value of inserted resistance in field circuit for increasing the speed#Ex8_23.sce#1445/CH8/EX8.23/Ex8_23.sce#S##119875
+8#Direct Current Machines#8.22#Shunt wound motor running at 600 rpm from a 230 V supply#Ex8_22.sce#1445/CH8/EX8.22/Ex8_22.sce#S##119876
+8#Direct Current Machines#8.21#10 kW 6 pole DC generator#Ex8_21.sce#1445/CH8/EX8.21/Ex8_21.sce#S##119877
+8#Direct Current Machines#8.20#Reduction of main flux to raise the speed by 50 percent#Ex8_20.sce#1445/CH8/EX8.20/Ex8_20.sce#S##119873
+8#Direct Current Machines#8.2#Ratio of speed#Ex8_2.sce#1445/CH8/EX8.2/Ex8_2.sce#S##119895
+8#Direct Current Machines#8.19#New speed of motor on inserting a 250 ohm resistance#Ex8_19.sce#1445/CH8/EX8.19/Ex8_19.sce#S##119878
+8#Direct Current Machines#8.18#Value of inserted resistance #Ex8_18.sce#1445/CH8/EX8.18/Ex8_18.sce#S##119879
+8#Direct Current Machines#8.17#200 V DC shunt motor#Ex8_17.sce#1445/CH8/EX8.17/Ex8_17.sce#S##119880
+8#Direct Current Machines#8.16#250 V 4 pole shunt motor#Ex8_16.sce#1445/CH8/EX8.16/Ex8_16.sce#S##119881
+8#Direct Current Machines#8.15#Full load speed#Ex8_15.sce#1445/CH8/EX8.15/Ex8_15.sce#S##119882
+8#Direct Current Machines#8.14#Armature resistance and load current at maximum efficiency#Ex8_14.sce#1445/CH8/EX8.14/Ex8_14.sce#S##119883
+8#Direct Current Machines#8.13#Current in each conductor and emf generated#Ex8_13.sce#1445/CH8/EX8.13/Ex8_13.sce#S##119884
+8#Direct Current Machines#8.12#Terminal voltage of the machine #Ex8_12.sce#1445/CH8/EX8.12/Ex8_12.sce#S##119885
+8#Direct Current Machines#8.11#Total emf generated in the armature#Ex8_11.sce#1445/CH8/EX8.11/Ex8_11.sce#S##119886
+8#Direct Current Machines#8.10#6 pole DC machine with 400 conductors#Ex8_10.sce#1445/CH8/EX8.10/Ex8_10.sce#S##119887
+8#Direct Current Machines#8.1#Generated emf#Ex8_1.sce#1445/CH8/EX8.1/Ex8_1.sce#S##119896
+7#Single Phase Transformer#7.9#Core loss current of distribution transformer#Ex7_9.sce#1445/CH7/EX7.9/Ex7_9.sce#S##120041
+7#Single Phase Transformer#7.8#Efficiency of transformer#Ex7_8.sce#1445/CH7/EX7.8/Ex7_8.sce#S##120042
+7#Single Phase Transformer#7.6#Primary current and power factor#Ex7_6.sce#1445/CH7/EX7.6/Ex7_6.sce#S##120043
+7#Single Phase Transformer#7.5#Transformer with 350 primary and 1050 secondary turns#Ex7_5.sce#1445/CH7/EX7.5/Ex7_5.sce#S##120044
+7#Single Phase Transformer#7.41#Star connected auto transformer#Ex7_41.sce#1445/CH7/EX7.41/Ex7_41.sce#S##120029
+7#Single Phase Transformer#7.40#To draw the phasor diagram#Ex7_40.sce#1445/CH7/EX7.40/Ex7_40.sce#S##120030
+7#Single Phase Transformer#7.4#10 kVA transformer#Ex7_4.sce#1445/CH7/EX7.4/Ex7_4.sce#S##120045
+7#Single Phase Transformer#7.39#Percentage of hysteresis and copperloss#Ex7_39.sce#1445/CH7/EX7.39/Ex7_39.sce#S##120009
+7#Single Phase Transformer#7.38#Total no load loss #Ex7_38.sce#1445/CH7/EX7.38/Ex7_38.sce#S##120010
+7#Single Phase Transformer#7.37#To calculate regulation at full load#Ex7_37.sce#1445/CH7/EX7.37/Ex7_37.sce#S##120012
+7#Single Phase Transformer#7.36#Value of load for maximum efficiency#Ex7_36.sce#1445/CH7/EX7.36/Ex7_36.sce#S##120013
+7#Single Phase Transformer#7.35#No load and short circuit results of transformer#Ex7_35.sce#1445/CH7/EX7.35/Ex7_35.sce#S##120014
+7#Single Phase Transformer#7.34#50 kVA transformer of 5 is to 1 ratio of turns#Ex7_34.sce#1445/CH7/EX7.34/Ex7_34.sce#S##120015
+7#Single Phase Transformer#7.33#No load and short circuit results of transformer#Ex7_33.sce#1445/CH7/EX7.33/Ex7_33.sce#S##120016
+7#Single Phase Transformer#7.32#To calculate total copper loss#Ex7_32.sce#1445/CH7/EX7.32/Ex7_32.sce#S##120017
+7#Single Phase Transformer#7.31#To calculate the value of maximum flux density in the core and the emf#Ex7_31.sce#1445/CH7/EX7.31/Ex7_31.sce#S##120018
+7#Single Phase Transformer#7.30#Secondary terminal voltage at full load#Ex7_30.sce#1445/CH7/EX7.30/Ex7_30.sce#S##120019
+7#Single Phase Transformer#7.3#To find the voltage regulation#Ex7_3.sce#1445/CH7/EX7.3/Ex7_3.sce#S##120008
+7#Single Phase Transformer#7.29#200 kVA 4000 1000 V transformer#Ex7_29.sce#1445/CH7/EX7.29/Ex7_29.sce#S##120020
+7#Single Phase Transformer#7.28#Open and short circuit test#Ex7_28.sce#1445/CH7/EX7.28/Ex7_28.sce#S##120021
+7#Single Phase Transformer#7.27#Open and short circuit test#Ex7_27.sce#1445/CH7/EX7.27/Ex7_27.sce#S##120022
+7#Single Phase Transformer#7.26#Open circuit and short circuit test #Ex7_26.sce#1445/CH7/EX7.26/Ex7_26.sce#S##120023
+7#Single Phase Transformer#7.25#15 kVA 2200 110 V transformer#Ex7_25.sce#1445/CH7/EX7.25/Ex7_25.sce#S##120024
+7#Single Phase Transformer#7.24#To calculate secondary terminal voltage#Ex7_24.sce#1445/CH7/EX7.24/Ex7_24.sce#S##120025
+7#Single Phase Transformer#7.23#33 kVA 2200 220 V 50 Hz transformer#Ex7_23.sce#1445/CH7/EX7.23/Ex7_23.sce#S##120026
+7#Single Phase Transformer#7.22#Total equivalent resistance referred to primary and secondary#Ex7_22.sce#1445/CH7/EX7.22/Ex7_22.sce#S##120027
+7#Single Phase Transformer#7.21#To determine the regulation while supplying full load #Ex7_21.sce#1445/CH7/EX7.21/Ex7_21.sce#S##120028
+7#Single Phase Transformer#7.20#4kVA 200 400 V transformer#Ex7_20.sce#1445/CH7/EX7.20/Ex7_20.sce#S##120031
+7#Single Phase Transformer#7.2#To calculate the primary current#Ex7_2.sce#1445/CH7/EX7.2/Ex7_2.sce#S##120046
+7#Single Phase Transformer#7.19#Open circuit and short circuit test#Ex7_19.sce#1445/CH7/EX7.19/Ex7_19.sce#S##120032
+7#Single Phase Transformer#7.18#To calculate all day efficiency#Ex7_18.sce#1445/CH7/EX7.18/Ex7_18.sce#S##120033
+7#Single Phase Transformer#7.17#200 kVA transformer with 1000 W iron loss and 2000 W copper loss at full load#Ex7_17.sce#1445/CH7/EX7.17/Ex7_17.sce#S##120034
+7#Single Phase Transformer#7.16#Maximum value of percent regulation#Ex7_16.sce#1445/CH7/EX7.16/Ex7_16.sce#S##120035
+7#Single Phase Transformer#7.15#To calculate percent regulation at full load#Ex7_15.sce#1445/CH7/EX7.15/Ex7_15.sce#S##120036
+7#Single Phase Transformer#7.14#To calculate total resistance and reactance referred to primary#Ex7_14.sce#1445/CH7/EX7.14/Ex7_14.sce#S##120037
+7#Single Phase Transformer#7.13#Current taken by primary#Ex7_13.sce#1445/CH7/EX7.13/Ex7_13.sce#S##120038
+7#Single Phase Transformer#7.12#Magnetising component of no load current#Ex7_12.sce#1445/CH7/EX7.12/Ex7_12.sce#S##120011
+7#Single Phase Transformer#7.11#To calculate primary and full load currents#Ex7_11.sce#1445/CH7/EX7.11/Ex7_11.sce#S##120039
+7#Single Phase Transformer#7.10#Number of turns on HT and LT sides#Ex7_10.sce#1445/CH7/EX7.10/Ex7_10.sce#S##120040
+7#Single Phase Transformer#7.1#To calculate magnetizing component of no load current#Ex7_1.sce#1445/CH7/EX7.1/Ex7_1.sce#S##120047
+6#Magnetic Circuits#6.5#Ring made of composite material#Ex6_5.sce#1445/CH6/EX6.5/Ex6_5.sce#S##119831
+6#Magnetic Circuits#6.4#Iron ring made of round iron rod#Ex6_4.sce#1445/CH6/EX6.4/Ex6_4.sce#S##119832
+6#Magnetic Circuits#6.3#Magnetic circuit with cast steel core#Ex6_3.sce#1445/CH6/EX6.3/Ex6_3.sce#S##119833
+6#Magnetic Circuits#6.2#Steel ring of 25 cm mean diameter#Ex6_2.sce#1445/CH6/EX6.2/Ex6_2.sce#S##119834
+6#Magnetic Circuits#6.1#Magnetic circuit having two air gaps#Ex6_1.sce#1445/CH6/EX6.1/Ex6_1.sce#S##119835
+4#Measuring Instruments#4.9#Percentage error of meter#Ex4_9.sce#1445/CH4/EX4.9/Ex4_9.sce#S##119839
+4#Measuring Instruments#4.8#Resistance required to read current and voltage#Ex4_8.sce#1445/CH4/EX4.8/Ex4_8.sce#S##119840
+4#Measuring Instruments#4.7#Percentage error of energy meter#Ex4_7.sce#1445/CH4/EX4.7/Ex4_7.sce#S##119841
+4#Measuring Instruments#4.6#Series resistance to measure 500 V on full scale#Ex4_6.sce#1445/CH4/EX4.6/Ex4_6.sce#S##119842
+4#Measuring Instruments#4.5#Number of revolutions made by energy meter and percentage error#Ex4_5.sce#1445/CH4/EX4.5/Ex4_5.sce#S##119843
+4#Measuring Instruments#4.4#Resistance required to read current and voltage#Ex4_4.sce#1445/CH4/EX4.4/Ex4_4.sce#S##119844
+4#Measuring Instruments#4.3#Resistance of wire#Ex4_3.sce#1445/CH4/EX4.3/Ex4_3.sce#S##119846
+4#Measuring Instruments#4.2#Current through galvanometer#Ex4_2.sce#1445/CH4/EX4.2/Ex4_2.sce#S##119845
+4#Measuring Instruments#4.12#Total current carried by two ammeters#Ex4_12.sce#1445/CH4/EX4.12/Ex4_12.sce#S##119836
+4#Measuring Instruments#4.11#Readings of two voltmeters with different internal resistances#Ex4_11.sce#1445/CH4/EX4.11/Ex4_11.sce#S##119837
+4#Measuring Instruments#4.10#Readings of two voltmeters#Ex4_10.sce#1445/CH4/EX4.10/Ex4_10.sce#S##119838
+4#Measuring Instruments#4.1#Deflecting torque exerted on a coil#Ex4_1.sce#1445/CH4/EX4.1/Ex4_1.sce#S##119847
+3#Three Phase AC Circuits#3.9#400 V 50 Hz three phase supply#Ex3_9.sce#1445/CH3/EX3.9/Ex3_9.sce#S##119850
+3#Three Phase AC Circuits#3.8#Balanced delta connection#Ex3_8.sce#1445/CH3/EX3.8/Ex3_8.sce#S##119851
+3#Three Phase AC Circuits#3.7#Three phase star connected system#Ex3_7.sce#1445/CH3/EX3.7/Ex3_7.sce#S##119852
+3#Three Phase AC Circuits#3.6#3300 V synchronous alternator#Ex3_6.sce#1445/CH3/EX3.6/Ex3_6.sce#S##119853
+3#Three Phase AC Circuits#3.5#Power measurement by 2 wattmeter method#Ex3_5.sce#1445/CH3/EX3.5/Ex3_5.sce#S##119854
+3#Three Phase AC Circuits#3.4#Line and phase current when phase sequence is positive#Ex3_4.sce#1445/CH3/EX3.4/Ex3_4.sce#S##119855
+3#Three Phase AC Circuits#3.3#Three similar coils each of 30 ohms#Ex3_3.sce#1445/CH3/EX3.3/Ex3_3.sce#S##120090
+3#Three Phase AC Circuits#3.2#Resistance and reactance values of each impedance#Ex3_2.sce#1445/CH3/EX3.2/Ex3_2.sce#S##119858
+3#Three Phase AC Circuits#3.12#Three identical impedances each having a resistance R#Ex3_12.sce#1445/CH3/EX3.12/Ex3_12.sce#S##119848
+3#Three Phase AC Circuits#3.11#Balanced load of 20kVA#Ex3_11.sce#1445/CH3/EX3.11/Ex3_11.sce#S##119849
+3#Three Phase AC Circuits#3.1#Identical impedances each consisting of 15 ohm in series#Ex3_1.sce#1445/CH3/EX3.1/Ex3_1.sce#S##119859
+2#Steady State Analysis of Single Phase AC Circuit#2.9#120 V 100 W lamp#Ex2_9.sce#1445/CH2/EX2.9/Ex2_9.sce#S##120000
+2#Steady State Analysis of Single Phase AC Circuit#2.8#Two element series circuit#Ex2_8.sce#1445/CH2/EX2.8/Ex2_8.sce#S##120001
+2#Steady State Analysis of Single Phase AC Circuit#2.7#Apparent power of 300 kVA#Ex2_7.sce#1445/CH2/EX2.7/Ex2_7.sce#S##120002
+2#Steady State Analysis of Single Phase AC Circuit#2.6#Single phase motor#Ex2_6.sce#1445/CH2/EX2.6/Ex2_6.sce#S##120003
+2#Steady State Analysis of Single Phase AC Circuit#2.54#Q factor at resonance#Ex2_54.sce#1445/CH2/EX2.54/Ex2_54.sce#S##119957
+2#Steady State Analysis of Single Phase AC Circuit#2.53#Total impedance and power taken#Ex2_53.sce#1445/CH2/EX2.53/Ex2_53.sce#S##119958
+2#Steady State Analysis of Single Phase AC Circuit#2.52#Total impedance and current in each branch#Ex2_52.sce#1445/CH2/EX2.52/Ex2_52.sce#S##119959
+2#Steady State Analysis of Single Phase AC Circuit#2.51#Admittance and impedance of the circuit#Ex2_51.sce#1445/CH2/EX2.51/Ex2_51.sce#S##119960
+2#Steady State Analysis of Single Phase AC Circuit#2.50#Current in each branch when total current is 20 A#Ex2_50.sce#1445/CH2/EX2.50/Ex2_50.sce#S##119961
+2#Steady State Analysis of Single Phase AC Circuit#2.5#Fluorescent lamp#Ex2_5.sce#1445/CH2/EX2.5/Ex2_5.sce#S##120004
+2#Steady State Analysis of Single Phase AC Circuit#2.49#kVA and kW in each branch circuit and in the main circuit#Ex2_49.sce#1445/CH2/EX2.49/Ex2_49.sce#S##119962
+2#Steady State Analysis of Single Phase AC Circuit#2.48#Power factor of the combination#Ex2_48.sce#1445/CH2/EX2.48/Ex2_48.sce#S##119963
+2#Steady State Analysis of Single Phase AC Circuit#2.47#RL series circuit#Ex2_47.sce#1445/CH2/EX2.47/Ex2_47.sce#S##119989
+2#Steady State Analysis of Single Phase AC Circuit#2.46#To find power consumed and reactive power#Ex2_46.sce#1445/CH2/EX2.46/Ex2_46.sce#S##119990
+2#Steady State Analysis of Single Phase AC Circuit#2.45#Quality factor and bandwidth#Ex2_45.sce#1445/CH2/EX2.45/Ex2_45.sce#S##119991
+2#Steady State Analysis of Single Phase AC Circuit#2.44#To find power consumed by the circuit#Ex2_44.sce#1445/CH2/EX2.44/Ex2_44.sce#S##119988
+2#Steady State Analysis of Single Phase AC Circuit#2.43#Resultant current wave made up of two components#Ex2_43.sce#1445/CH2/EX2.43/Ex2_43.sce#S##119964
+2#Steady State Analysis of Single Phase AC Circuit#2.42#Three sinusoidaly alternating currents#Ex2_42.sce#1445/CH2/EX2.42/Ex2_42.sce#S##119965
+2#Steady State Analysis of Single Phase AC Circuit#2.41#100 V 60 W lamp#Ex2_41.sce#1445/CH2/EX2.41/Ex2_41.sce#S##119966
+2#Steady State Analysis of Single Phase AC Circuit#2.40#Power factor and average power delivered to the circuit#Ex2_40.sce#1445/CH2/EX2.40/Ex2_40.sce#S##119967
+2#Steady State Analysis of Single Phase AC Circuit#2.4#Vav and Vrms#Ex2_4.sce#1445/CH2/EX2.4/Ex2_4.sce#S##120005
+2#Steady State Analysis of Single Phase AC Circuit#2.39#To draw the complete vector diagram#Ex2_39.sce#1445/CH2/EX2.39/Ex2_39.sce#S##119968
+2#Steady State Analysis of Single Phase AC Circuit#2.38#To solve example 27 by j method#Ex2_38.sce#1445/CH2/EX2.38/Ex2_38.sce#S##119969
+2#Steady State Analysis of Single Phase AC Circuit#2.37#Current taken by each branch#Ex2_37.sce#1445/CH2/EX2.37/Ex2_37.sce#S##119970
+2#Steady State Analysis of Single Phase AC Circuit#2.36#Total current taken from supply#Ex2_36.sce#1445/CH2/EX2.36/Ex2_36.sce#S##119971
+2#Steady State Analysis of Single Phase AC Circuit#2.35#Total impedance and total current #Ex2_35.sce#1445/CH2/EX2.35/Ex2_35.sce#S##119972
+2#Steady State Analysis of Single Phase AC Circuit#2.34#To draw the vector diagram#Ex2_34.sce#1445/CH2/EX2.34/Ex2_34.sce#S##119973
+2#Steady State Analysis of Single Phase AC Circuit#2.33#Three coils of resistances#Ex2_33.sce#1445/CH2/EX2.33/Ex2_33.sce#S##119974
+2#Steady State Analysis of Single Phase AC Circuit#2.32#Average value effective value and form factor#Ex2_32.sce#1445/CH2/EX2.32/Ex2_32.sce#S##119975
+2#Steady State Analysis of Single Phase AC Circuit#2.31#Significance of RMS and average values of wave#Ex2_31.sce#1445/CH2/EX2.31/Ex2_31.sce#S##119976
+2#Steady State Analysis of Single Phase AC Circuit#2.30#An alternating current with RMS value of 20 A#Ex2_30.sce#1445/CH2/EX2.30/Ex2_30.sce#S##119977
+2#Steady State Analysis of Single Phase AC Circuit#2.3#Average and rms value#Ex2_3.sce#1445/CH2/EX2.3/Ex2_3.sce#S##120006
+2#Steady State Analysis of Single Phase AC Circuit#2.29#An alternating current of frequency of 60 Hertz#Ex2_29.sce#1445/CH2/EX2.29/Ex2_29.sce#S##119978
+2#Steady State Analysis of Single Phase AC Circuit#2.28#Total impedance current drawn from the supply#Ex2_28.sce#1445/CH2/EX2.28/Ex2_28.sce#S##119979
+2#Steady State Analysis of Single Phase AC Circuit#2.27#Impedance resistance reactance and power factor of the circuit#Ex2_27.sce#1445/CH2/EX2.27/Ex2_27.sce#S##119980
+2#Steady State Analysis of Single Phase AC Circuit#2.26#Sinusoidal alternating current of frequency 25 Hz#Ex2_26.sce#1445/CH2/EX2.26/Ex2_26.sce#S##119981
+2#Steady State Analysis of Single Phase AC Circuit#2.25#50 Hz sinusoidal voltage wave shape#Ex2_25.sce#1445/CH2/EX2.25/Ex2_25.sce#S##129568
+2#Steady State Analysis of Single Phase AC Circuit#2.24#RMS value average value and form factor#Ex2_24.sce#1445/CH2/EX2.24/Ex2_24.sce#S##119983
+2#Steady State Analysis of Single Phase AC Circuit#2.23#An alternating current of frequency of 50 Hertz#Ex2_23.sce#1445/CH2/EX2.23/Ex2_23.sce#S##129567
+2#Steady State Analysis of Single Phase AC Circuit#2.22#Series RLC circuit#Ex2_22.sce#1445/CH2/EX2.22/Ex2_22.sce#S##119984
+2#Steady State Analysis of Single Phase AC Circuit#2.20#Resonant frequency and band width#Ex2_20.sce#1445/CH2/EX2.20/Ex2_20.sce#S##119986
+2#Steady State Analysis of Single Phase AC Circuit#2.19#Admittance in each parallel branch#Ex2_19.sce#1445/CH2/EX2.19/Ex2_19.sce#S##119987
+2#Steady State Analysis of Single Phase AC Circuit#2.18#Non inductive resistance of 10 ohm#Ex2_18.sce#1445/CH2/EX2.18/Ex2_18.sce#S##119992
+2#Steady State Analysis of Single Phase AC Circuit#2.17#AC voltage applied to series RC circuit#Ex2_17.sce#1445/CH2/EX2.17/Ex2_17.sce#S##119993
+2#Steady State Analysis of Single Phase AC Circuit#2.16#Two coils of 5 ohm and 10 ohm connected in parellel#Ex2_16.sce#1445/CH2/EX2.16/Ex2_16.sce#S##119994
+2#Steady State Analysis of Single Phase AC Circuit#2.15#Choke coil takes current of 2 Amperes#Ex2_15.sce#1445/CH2/EX2.15/Ex2_15.sce#S##119995
+2#Steady State Analysis of Single Phase AC Circuit#2.14#To find frequency and current elements#Ex2_14.sce#1445/CH2/EX2.14/Ex2_14.sce#S##119996
+2#Steady State Analysis of Single Phase AC Circuit#2.13#Current in load in rectangular form#Ex2_13.sce#1445/CH2/EX2.13/Ex2_13.sce#S##119997
+2#Steady State Analysis of Single Phase AC Circuit#2.11#To calculate parameters of coil and power factor#Ex2_11.sce#1445/CH2/EX2.11/Ex2_11.sce#S##119998
+2#Steady State Analysis of Single Phase AC Circuit#2.10#Current and power drawn#Ex2_10.sce#1445/CH2/EX2.10/Ex2_10.sce#S##119999
+2#Steady State Analysis of Single Phase AC Circuit#2.1#Form factor of sine wave#Ex2_1.sce#1445/CH2/EX2.1/Ex2_1.sce#S##120007
+1#DC Circuit Analysis and Network Theorems#1.9#Equivalent resistance#Ex1_9.sce#1445/CH1/EX1.9/Ex1_9.sce#S##119949
+1#DC Circuit Analysis and Network Theorems#1.8#Source transformation and mesh analysis#Ex1_8.sce#1445/CH1/EX1.8/Ex1_8.sce#S##119947
+1#DC Circuit Analysis and Network Theorems#1.7#Source transformation#Ex1_7.sce#1445/CH1/EX1.7/Ex1_7.sce#S##119950
+1#DC Circuit Analysis and Network Theorems#1.6#Finding value of current by mesh analysis#Ex1_6.sce#1445/CH1/EX1.6/Ex1_6.sce#S##119951
+1#DC Circuit Analysis and Network Theorems#1.59#Mesh anlysis#Ex1_59.sce#1445/CH1/EX1.59/Ex1_59.sce#S##119897
+1#DC Circuit Analysis and Network Theorems#1.58#Thevenin or Norton theorem#Ex1_58.sce#1445/CH1/EX1.58/Ex1_58.sce#S##119898
+1#DC Circuit Analysis and Network Theorems#1.57#Superposition theorem to find I#Ex1_57.sce#1445/CH1/EX1.57/Ex1_57.sce#S##119899
+1#DC Circuit Analysis and Network Theorems#1.56#Delta values#Ex1_56.sce#1445/CH1/EX1.56/Ex1_56.sce#S##119900
+1#DC Circuit Analysis and Network Theorems#1.55#Nodal analysis#Ex1_55.sce#1445/CH1/EX1.55/Ex1_55.sce#S##119901
+1#DC Circuit Analysis and Network Theorems#1.54#Thevenin theorem#Ex1_54.sce#1445/CH1/EX1.54/Ex1_54.sce#S##119902
+1#DC Circuit Analysis and Network Theorems#1.53#Thevenin equivalent circuit#Ex1_53.sce#1445/CH1/EX1.53/Ex1_53.sce#S##119903
+1#DC Circuit Analysis and Network Theorems#1.52#Thevenin theorem and Norton theorem#Ex1_52.sce#1445/CH1/EX1.52/Ex1_52.sce#S##119904
+1#DC Circuit Analysis and Network Theorems#1.51#Currents in all branches#Ex1_51.sce#1445/CH1/EX1.51/Ex1_51.sce#S##119905
+1#DC Circuit Analysis and Network Theorems#1.50#Currents i1 and i2#Ex1_50.sce#1445/CH1/EX1.50/Ex1_50.sce#S##119906
+1#DC Circuit Analysis and Network Theorems#1.5#Rac and Rbd#Ex1_5.sce#1445/CH1/EX1.5/Ex1_5.sce#S##119952
+1#DC Circuit Analysis and Network Theorems#1.49#Values of R1 and R2#Ex1_49.sce#1445/CH1/EX1.49/Ex1_49.sce#S##119907
+1#DC Circuit Analysis and Network Theorems#1.48#Cells B1 and b2#Ex1_48.sce#1445/CH1/EX1.48/Ex1_48.sce#S##119908
+1#DC Circuit Analysis and Network Theorems#1.47#Copper wire and platinum silver wire#Ex1_47.sce#1445/CH1/EX1.47/Ex1_47.sce#S##119909
+1#DC Circuit Analysis and Network Theorems#1.46#Resistance of metal filament lamp#Ex1_46.sce#1445/CH1/EX1.46/Ex1_46.sce#S##119910
+1#DC Circuit Analysis and Network Theorems#1.45#value of resistance#Ex1_45.sce#1445/CH1/EX1.45/Ex1_45.sce#S##119911
+1#DC Circuit Analysis and Network Theorems#1.44#Determination of voltage#Ex1_44.sce#1445/CH1/EX1.44/Ex1_44.sce#S##119912
+1#DC Circuit Analysis and Network Theorems#1.43#Superposition theorem#Ex1_43.sce#1445/CH1/EX1.43/Ex1_43.sce#S##119913
+1#DC Circuit Analysis and Network Theorems#1.42#Thevenin and Nodal analysis#Ex1_42.sce#1445/CH1/EX1.42/Ex1_42.sce#S##119914
+1#DC Circuit Analysis and Network Theorems#1.41#Current when resistance is connected across AB#Ex1_41.sce#1445/CH1/EX1.41/Ex1_41.sce#S##119915
+1#DC Circuit Analysis and Network Theorems#1.40#Currents in different branches#Ex1_40.sce#1445/CH1/EX1.40/Ex1_40.sce#S##119916
+1#DC Circuit Analysis and Network Theorems#1.4#Values of Rab Rcd and Rde#Ex1_4.sce#1445/CH1/EX1.4/Ex1_4.sce#S##129566
+1#DC Circuit Analysis and Network Theorems#1.39#Delta to star transformation to find I#Ex1_39.sce#1445/CH1/EX1.39/Ex1_39.sce#S##119917
+1#DC Circuit Analysis and Network Theorems#1.38#Thevenin and Norton equivalent#Ex1_38.sce#1445/CH1/EX1.38/Ex1_38.sce#S##119918
+1#DC Circuit Analysis and Network Theorems#1.37#To calculate Vab by Thevenin and Norton theorm#Ex1_37.sce#1445/CH1/EX1.37/Ex1_37.sce#S##119919
+1#DC Circuit Analysis and Network Theorems#1.36#To find I through 1 ohm R by Norton theorem#Ex1_36.sce#1445/CH1/EX1.36/Ex1_36.sce#S##119920
+1#DC Circuit Analysis and Network Theorems#1.35#To find I through 1 ohm by Thevenin theorem#Ex1_35.sce#1445/CH1/EX1.35/Ex1_35.sce#S##119921
+1#DC Circuit Analysis and Network Theorems#1.34#To find I through 1 ohm R by Superposition theorem#Ex1_34.sce#1445/CH1/EX1.34/Ex1_34.sce#S##119922
+1#DC Circuit Analysis and Network Theorems#1.33#To find I through 1 ohm R by nodal analysis#Ex1_33.sce#1445/CH1/EX1.33/Ex1_33.sce#S##119923
+1#DC Circuit Analysis and Network Theorems#1.32#To find I through 1 ohm by mesh analysis#Ex1_32.sce#1445/CH1/EX1.32/Ex1_32.sce#S##119924
+1#DC Circuit Analysis and Network Theorems#1.31#Delta to star transformation#Ex1_31.sce#1445/CH1/EX1.31/Ex1_31.sce#S##119925
+1#DC Circuit Analysis and Network Theorems#1.30#Source transformation and mesh and nodal methods#Ex1_30.sce#1445/CH1/EX1.30/Ex1_30.sce#S##119926
+1#DC Circuit Analysis and Network Theorems#1.3#Resistance between A and B#Ex1_3.sce#1445/CH1/EX1.3/Ex1_3.sce#S##129565
+1#DC Circuit Analysis and Network Theorems#1.29#To find I using Superposition theorem#Ex1_29.sce#1445/CH1/EX1.29/Ex1_29.sce#S##119927
+1#DC Circuit Analysis and Network Theorems#1.28#To find I using Norton theorem#Ex1_28.sce#1445/CH1/EX1.28/Ex1_28.sce#S##119928
+1#DC Circuit Analysis and Network Theorems#1.27#To find I using Thevenin theorem#Ex1_27.sce#1445/CH1/EX1.27/Ex1_27.sce#S##119929
+1#DC Circuit Analysis and Network Theorems#1.26#To find I using nodal analysis#Ex1_26.sce#1445/CH1/EX1.26/Ex1_26.sce#S##119930
+1#DC Circuit Analysis and Network Theorems#1.25#To find I using mesh analysis#Ex1_25.sce#1445/CH1/EX1.25/Ex1_25.sce#S##119931
+1#DC Circuit Analysis and Network Theorems#1.24#To find I using Superposition theorem#Ex1_24.sce#1445/CH1/EX1.24/Ex1_24.sce#S##119932
+1#DC Circuit Analysis and Network Theorems#1.23#To find I using nodal analysis#Ex1_23.sce#1445/CH1/EX1.23/Ex1_23.sce#S##119933
+1#DC Circuit Analysis and Network Theorems#1.22#To find I using mesh analysis#Ex1_22.sce#1445/CH1/EX1.22/Ex1_22.sce#S##119934
+1#DC Circuit Analysis and Network Theorems#1.21#To find I using Thevenin theorem#Ex1_21.sce#1445/CH1/EX1.21/Ex1_21.sce#S##119935
+1#DC Circuit Analysis and Network Theorems#1.20#To find I using Norton theorem#Ex1_20.sce#1445/CH1/EX1.20/Ex1_20.sce#S##119936
+1#DC Circuit Analysis and Network Theorems#1.2#Resistance between A and B#Ex1_2.sce#1445/CH1/EX1.2/Ex1_2.sce#S##119955
+1#DC Circuit Analysis and Network Theorems#1.19#To find Vx by Norton theorem#Ex1_19.sce#1445/CH1/EX1.19/Ex1_19.sce#S##119937
+1#DC Circuit Analysis and Network Theorems#1.18#To find Vx by Thevenin theorem#Ex1_18.sce#1445/CH1/EX1.18/Ex1_18.sce#S##119938
+1#DC Circuit Analysis and Network Theorems#1.17#To find Vx by Superposition theorem#Ex1_17.sce#1445/CH1/EX1.17/Ex1_17.sce#S##119939
+1#DC Circuit Analysis and Network Theorems#1.16#To find Vx by nodal analysis#Ex1_16.sce#1445/CH1/EX1.16/Ex1_16.sce#S##119941
+1#DC Circuit Analysis and Network Theorems#1.15#To find Vx by mesh analysis#Ex1_15.sce#1445/CH1/EX1.15/Ex1_15.sce#S##119942
+1#DC Circuit Analysis and Network Theorems#1.14#Current through R3 using Norton theorem#Ex1_14.sce#1445/CH1/EX1.14/Ex1_14.sce#S##119943
+1#DC Circuit Analysis and Network Theorems#1.13#Current through R3 using Thevenin theorem#Ex1_13.sce#1445/CH1/EX1.13/Ex1_13.sce#S##119944
+1#DC Circuit Analysis and Network Theorems#1.12#Current through R3 using superposition theorem#Ex1_12.sce#1445/CH1/EX1.12/Ex1_12.sce#S##119945
+1#DC Circuit Analysis and Network Theorems#1.11#Current through R3 using mesh analysis#Ex1_11.sce#1445/CH1/EX1.11/Ex1_11.sce#S##119946
+1#DC Circuit Analysis and Network Theorems#1.10#Current through R3 using nodal analysis#Ex1_10.sce#1445/CH1/EX1.10/Ex1_10.sce#S##119948
+1#DC Circuit Analysis and Network Theorems#1.1#Independent loop equations#Ex1_1.sce#1445/CH1/EX1.1/Ex1_1.sce#S##119956

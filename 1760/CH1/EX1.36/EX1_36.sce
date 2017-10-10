@@ -1,4 +1,4 @@
-                       //EXAMPLE 1-36    PG NO-31
+//EXAMPLE 1-36    PG NO-31
 T=0.99425;    //TIME
 disp('i)Time = '+string (T)+' seconds')
 X=0.37;      //DERAVATIVES OF 'I'  W.R.T
@@ -13,7 +13,7 @@ VR=Ri;
 disp('v)VR = '+string (VR)+' V')
 E=0.5*LI*LI;    //ENERGY
 disp('vi)ENERGY stored in magnetic field = '+string (E)+' J')
-E1=LI*v;   //ENERGY STORED IN MAGNETIC FIELD
+E1=LI*X;   //ENERGY STORED IN MAGNETIC FIELD
 H=Ri*Ri;     //HEAT
 disp('vii) Rate of Energy stored in magnetic field = '+string (E1)+' W')
 disp('viii)Rate of dissipation of heat in resistor = '+string (H)+' W')

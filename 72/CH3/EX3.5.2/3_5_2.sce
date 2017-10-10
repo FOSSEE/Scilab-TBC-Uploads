@@ -1,5 +1,4 @@
-//CAPTION:Impedance_determination_with_short-circuit_Minima_Shift
-//chapter_no.-3,  page_no.-106
+
 //Example_no.3-5-2
 
 clc;

@@ -1,0 +1,104 @@
+24#Spreading Codes used in CDMA#24.2#To generate second m sequence#Ex_D2.sce#3446/CH24/EX24.2/Ex_D2.sce#S##119028
+24#Spreading Codes used in CDMA#24.1#To generate m sequence and demonstrate its properties#Ex_D1.sce#3446/CH24/EX24.1/Ex_D1.sce#S##119027
+21#Wireless Local Area Network#21.9#To calculate Rmax for given interference scenarios#Ex21_9.sce#3446/CH21/EX21.9/Ex21_9.sce#S##119025
+21#Wireless Local Area Network#21.8#To calculate min SIR and using this SIR and other data calculate Rmax#Ex21_8.sce#3446/CH21/EX21.8/Ex21_8.sce#S##119024
+21#Wireless Local Area Network#21.7#To determine the collision probability of a FH packet#Ex21_7.sce#3446/CH21/EX21.7/Ex21_7.sce#S##119023
+21#Wireless Local Area Network#21.6#To find user data rate for HIPERLAN 2#Ex21_6.sce#3446/CH21/EX21.6/Ex21_6.sce#S##119022
+21#Wireless Local Area Network#21.5#To calculate coded symbol and bit transmission rate per subscriber of the two modes#Ex21_5.sce#3446/CH21/EX21.5/Ex21_5.sce#S##119021
+21#Wireless Local Area Network#21.4#To find coverage of the AP#Ex21_4.sce#3446/CH21/EX21.4/Ex21_4.sce#S##119020
+21#Wireless Local Area Network#21.3#To find bandwidth of a subchannel and various other parameters of a OFDM WLAN system#Ex21_3.sce#3446/CH21/EX21.3/Ex21_3.sce#S##119019
+21#Wireless Local Area Network#21.2#To find hopping bandwidth and various other parameters for FH MFSK WLAN system #Ex21_2.sce#3446/CH21/EX21.2/Ex21_2.sce#S##119018
+21#Wireless Local Area Network#21.10#To calculate Rmax for IEEE 802 11 FH and DS devices#Ex21_10.sce#3446/CH21/EX21.10/Ex21_10.sce#S##119026
+21#Wireless Local Area Network#21.1#To find number of users supported by WLAN and its bandwidth efficiency#EX21_1.sce#3446/CH21/EX21.1/EX21_1.sce#S##119017
+19#Wireless Personal Area Network Bluetooth#19.2#To find the associated data rate of a symmetric 1soot DM1#Ex19_2.sce#3446/CH19/EX19.2/Ex19_2.sce#S##119016
+19#Wireless Personal Area Network Bluetooth#19.1#To find hopping rate and various other parameters of Bluetooth#Ex19_1.sce#3446/CH19/EX19.1/Ex19_1.sce#S##119015
+17#Planning and Design of a Wireless Network#17.9#To develop a radio link budget for uplink and downlink#Ex17_9.sce#3446/CH17/EX17.9/Ex17_9.sce#S##119008
+17#Planning and Design of a Wireless Network#17.8#To determine minimum signal power and maximum allowable path loss#Ex17_8.sce#3446/CH17/EX17.8/Ex17_8.sce#S##119007
+17#Planning and Design of a Wireless Network#17.7#To calculate downlink cell load factor and number of voice users per cell#Ex17_7.sce#3446/CH17/EX17.7/Ex17_7.sce#S##119006
+17#Planning and Design of a Wireless Network#17.6#To calculate uplink throughput for WCDMA data service #Ex17_6.sce#3446/CH17/EX17.6/Ex17_6.sce#S##119005
+17#Planning and Design of a Wireless Network#17.5#To calculate Uplink cell load factor and pole capacity#Ex17_5.sce#3446/CH17/EX17.5/Ex17_5.sce#S##119004
+17#Planning and Design of a Wireless Network#17.4#To develop downlink and uplink cell budget and calculate cell radius#Ex17_4.sce#3446/CH17/EX17.4/Ex17_4.sce#S##119003
+17#Planning and Design of a Wireless Network#17.3#To calculate data Erlangs along with TS utilization and capacity#Ex17_3.sce#3446/CH17/EX17.3/Ex17_3.sce#S##119002
+17#Planning and Design of a Wireless Network#17.2#To estimate the data and voice traffic per subscriber and per cell#Ex17_2.sce#3446/CH17/EX17.2/Ex17_2.sce#S##119001
+17#Planning and Design of a Wireless Network#17.15#To find the required RNCs#Ex17_15.sce#3446/CH17/EX17.15/Ex17_15.sce#S##119014
+17#Planning and Design of a Wireless Network#17.14#To find bandwidth of a Iub interface#Ex17_14.sce#3446/CH17/EX17.14/Ex17_14.sce#S##119013
+17#Planning and Design of a Wireless Network#17.13#To estimate average SINR of a HSDPA#Ex17_13.sce#3446/CH17/EX17.13/Ex17_13.sce#S##119012
+17#Planning and Design of a Wireless Network#17.12#TO find the allowable throughput of a reverse link of a CDMA 2000#Ex17_12.sce#3446/CH17/EX17.12/Ex17_12.sce#S##119011
+17#Planning and Design of a Wireless Network#17.11#find the average throughput for various cases#Ex17_11.sce#3446/CH17/EX17.11/Ex17_11.sce#S##119010
+17#Planning and Design of a Wireless Network#17.10#To find the number of users supported on the downlink of a WCDMA Network#Ex17_10.sce#3446/CH17/EX17.10/Ex17_10.sce#S##119009
+17#Planning and Design of a Wireless Network#17.1#To calculate various parameters for GSM 1800 network#Ex17_1.sce#3446/CH17/EX17.1/Ex17_1.sce#S##119000
+14#Mobile Network and Transport Layer#14.2#To calculate upper bound of the throughput for TP connection and throughput with retransmission due to errors#Ex14_2.sce#3446/CH14/EX14.2/Ex14_2.sce#S##118999
+14#Mobile Network and Transport Layer#14.1#To determine minimum possible latency and window size to achieve this latency#Ex14_1.sce#3446/CH14/EX14.1/Ex14_1.sce#S##118998
+13#Security in Wireless Systems#13.2#To determine the secret encrypting key K using DH key exchange algorithm#Ex13_2.sce#3446/CH13/EX13.2/Ex13_2.sce#S##118997
+13#Security in Wireless Systems#13.1#To generate public and private keys for RSA algorithm#Ex13_1.sce#3446/CH13/EX13.1/Ex13_1.sce#S##118996
+12#Mobility Management in Wireless Networks#12.1#To evaluate the impact of LUs on the radio resource and calculate MSC or VLR transaction load#Ex12_1.sce#3446/CH12/EX12.1/Ex12_1.sce#S##118995
+11#Spread Spectrum and CDMA Systems #11.8#To determine the possible pair of soft slope and add intercept values#Ex11_8.sce#3446/CH11/EX11.8/Ex11_8.sce#S##118994
+11#Spread Spectrum and CDMA Systems #11.7#To calculate the time required by mobile to make the required change#Ex11_7.sce#3446/CH11/EX11.7/Ex11_7.sce#S##118993
+11#Spread Spectrum and CDMA Systems #11.6#To show how mobile1 will detect its information using a two path rake receiver#Ex11_6.sce#3446/CH11/EX11.6/Ex11_6.sce#S##118992
+11#Spread Spectrum and CDMA Systems #11.5#To consider various parameters of FHSS systems#Ex11_5.sce#3446/CH11/EX11.5/Ex11_5.sce#S##118991
+11#Spread Spectrum and CDMA Systems #11.4#To calculate data symbol transmitted per hop and number of non overlapping hop frequencies#Ex11_4.sce#3446/CH11/EX11.4/Ex11_4.sce#S##118990
+11#Spread Spectrum and CDMA Systems #11.3#Minimum number of PN chips required for each frequency symbol#Ex11_3.sce#3446/CH11/EX11.3/Ex11_3.sce#S##118989
+11#Spread Spectrum and CDMA Systems #11.2#Show that the transmitted signals to mobiles 1 2 and 3 are recovered at the mobile receivers by despreading the resultant signal z#Ex11_2.sce#3446/CH11/EX11.2/Ex11_2.sce#S##118988
+11#Spread Spectrum and CDMA Systems #11.1#To calculate processing gain and improvemet in information rate achieved#Ex11_1.sce#3446/CH11/EX11.1/Ex11_1.sce#S##118987
+10#Antennas Diversity and Link Analysis#10.7#To calculate minimum delay difference to successfully resolve multipath components#Ex10_7.sce#3446/CH10/EX10.7/Ex10_7.sce#S##118986
+10#Antennas Diversity and Link Analysis#10.6#To find probability that SNR will drop below 10dB and compare result with a case of without diversity#Ex10_6.sce#3446/CH10/EX10.6/Ex10_6.sce#S##118985
+10#Antennas Diversity and Link Analysis#10.5#To calculate various parameters of helical antenna#Ex10_5.sce#3446/CH10/EX10.5/Ex10_5.sce#S##118984
+10#Antennas Diversity and Link Analysis#10.4#To determine 3dB beam width of an antenna#Ex10_4.sce#3446/CH10/EX10.4/Ex10_4.sce#S##118983
+10#Antennas Diversity and Link Analysis#10.3#To calculate gain of antenna#Ex10_3.sce#3446/CH10/EX10.3/Ex10_3.sce#S##118982
+10#Antennas Diversity and Link Analysis#10.2#To find received signal power and SNR of antenna#Ex10_2.sce#3446/CH10/EX10.2/Ex10_2.sce#S##118980
+10#Antennas Diversity and Link Analysis#10.1#To find received signal power and SNR of antenna#Ex10_1.sce#3446/CH10/EX10.1/Ex10_1.sce#S##118981
+9#Modulation Schemes#9.9#To find total bandwitdth and its efficiency along with required Eb by No and carried bits per symbol#Ex9_9.sce#3446/CH9/EX9.9/Ex9_9.sce#S##118979
+9#Modulation Schemes#9.8#Compare the performance of 16PSK with 16QAM#Ex9_8.sce#3446/CH9/EX9.8/Ex9_8.sce#S##118978
+9#Modulation Schemes#9.7#To determine the modulation scheme to be used along with required Eb by No#Ex9_7.sce#3446/CH9/EX9.7/Ex9_7.sce#S##118977
+9#Modulation Schemes#9.6#To calculate bit rate of modulator#Ex9_6.sce#3446/CH9/EX9.6/Ex9_6.sce#S##118976
+9#Modulation Schemes#9.5#To calculate bit error probability for GMSK#Ex9_5.sce#3446/CH9/EX9.5/Ex9_5.sce#S##118975
+9#Modulation Schemes#9.4#To calculate frequency shift along with transmitted frequencies and bandwidth efficiency#Ex9_4.sce#3446/CH9/EX9.4/Ex9_4.sce#S##118974
+9#Modulation Schemes#9.3#To calculate final phase for given bitstream for given modulation method#Ex9_3.sce#3446/CH9/EX9.3/Ex9_3.sce#S##118973
+9#Modulation Schemes#9.2#To calculate amplitude A of the carrier signal#Ex9_2.sce#3446/CH9/EX9.2/Ex9_2.sce#S##118972
+9#Modulation Schemes#9.1#To find Eb by No in dB#Ex9_1.sce#3446/CH9/EX9.1/Ex9_1.sce#S##118971
+8#Speech Coding and Channel Coding#8.3#To demonstrate operations of converting burst errors into bit errors#Ex8_3.sce#3446/CH8/EX8.3/Ex8_3.sce#S##118970
+8#Speech Coding and Channel Coding#8.2#To calculate output of convolution encoder#Ex8_2.sce#3446/CH8/EX8.2/Ex8_2.sce#S##118969
+8#Speech Coding and Channel Coding#8.1#To calculate the gain in the link budget in dB#Ex8_1.sce#3446/CH8/EX8.1/Ex8_1.sce#S##118968
+6#Multiple Access Techniques#6.9#To find normalized throughput for different CSMA protocols#Ex6_9.sce#3446/CH6/EX6.9/Ex6_9.sce#S##118966
+6#Multiple Access Techniques#6.8#To calculate minimum number of PN chips per frequency word#Ex6_8.sce#3446/CH6/EX6.8/Ex6_8.sce#S##118965
+6#Multiple Access Techniques#6.7#Compare DS CDMA and TDMA omnidirectional cell#Ex6_7.sce#3446/CH6/EX6.7/Ex6_7.sce#S##118964
+6#Multiple Access Techniques#6.6#To calculate capacity and spectral efficiency of the DSCDMA system#Ex6_6.sce#3446/CH6/EX6.6/Ex6_6.sce#S##118963
+6#Multiple Access Techniques#6.5#To calculate the frame efficiency and the number of channels per frame#Ex6_5.sce#3446/CH6/EX6.5/Ex6_5.sce#S##118962
+6#Multiple Access Techniques#6.4#To calculate the capacity and spectral efficiency of TDMA system#Ex6_4.sce#3446/CH6/EX6.4/Ex6_4.sce#S##118961
+6#Multiple Access Techniques#6.3#To find multiple access spectral efficiency of the TDMA system#Ex6_3.sce#3446/CH6/EX6.3/Ex6_3.sce#S##118959
+6#Multiple Access Techniques#6.2#To find multiple access spectral efficiency for FDMA#EX6_2.sce#3446/CH6/EX6.2/EX6_2.sce#S##118960
+6#Multiple Access Techniques#6.10#To find data link protocol efficiency with different protocols#Ex6_10.sce#3446/CH6/EX6.10/Ex6_10.sce#S##118967
+6#Multiple Access Techniques#6.1#To calculate spectral efficiency of modulation#Ex6_1.sce#3446/CH6/EX6.1/Ex6_1.sce#S##118957
+5#Fundamentals of Cellular Communications#5.5#To calculate calls per hour per cellsite and mean S by I and spectral efficiency#Ex5_5.sce#3446/CH5/EX5.5/Ex5_5.sce#S##118956
+5#Fundamentals of Cellular Communications#5.4#To calculate the number of calls per hour per cellsite#Ex5_4.sce#3446/CH5/EX5.4/Ex5_4.sce#S##118955
+5#Fundamentals of Cellular Communications#5.3#To calculate call capacity of cell and Mean S by I for N as 4 and 7 and 12#Ex5_3.sce#3446/CH5/EX5.3/Ex5_3.sce#S##118954
+5#Fundamentals of Cellular Communications#5.2#To find reuse factor for AMPS and GSM#Ex5_2.sce#3446/CH5/EX5.2/Ex5_2.sce#S##118953
+5#Fundamentals of Cellular Communications#5.1#To find system capacity#Ex5_1.sce#3446/CH5/EX5.1/Ex5_1.sce#S##118952
+4#An Overview of Digital Communication and Transmission#4.6#To find choice of modulation scheme without error correcting coding#Ex4_6.sce#3446/CH4/EX4.6/Ex4_6.sce#S##118951
+4#An Overview of Digital Communication and Transmission#4.5#To determine choice of modulation scheme#Ex4_5.sce#3446/CH4/EX4.5/Ex4_5.sce#S##118950
+4#An Overview of Digital Communication and Transmission#4.4#To calculate bits per PCM word sampling rate  resultant and symbol transmission rate#Ex4_4.sce#3446/CH4/EX4.4/Ex4_4.sce#S##118949
+4#An Overview of Digital Communication and Transmission#4.3#To calculate spacing between successive pulses of multiplexed signal#Ex4_3.sce#3446/CH4/EX4.3/Ex4_3.sce#S##118948
+4#An Overview of Digital Communication and Transmission#4.2#To determine the SNR#Ex4_2.sce#3446/CH4/EX4.2/Ex4_2.sce#S##118947
+4#An Overview of Digital Communication and Transmission#4.1#To determine the sampling rates#Ex4_1.sce#3446/CH4/EX4.1/Ex4_1.sce#S##118946
+3#Radio Propagation and Propagation PathLoss Models#3.9#To calculate probability of exceeding signal strength beyond receiver sensitivity#Ex3_9.sce#3446/CH3/EX3.9/Ex3_9.sce#S##118944
+3#Radio Propagation and Propagation PathLoss Models#3.8#To determine coverage radius of an access point#Ex3_8.sce#3446/CH3/EX3.8/Ex3_8.sce#S##118943
+3#Radio Propagation and Propagation PathLoss Models#3.7#To determine L50 pathloss #EX3_7.sce#3446/CH3/EX3.7/EX3_7.sce#S##118942
+3#Radio Propagation and Propagation PathLoss Models#3.6#To determine number of fades per second and maximum velocity of mobile#Ex3_6.sce#3446/CH3/EX3.6/Ex3_6.sce#S##118941
+3#Radio Propagation and Propagation PathLoss Models#3.5#To determine type of fading and symbol distortion#EX3_5.sce#3446/CH3/EX3.5/EX3_5.sce#S##118906
+3#Radio Propagation and Propagation PathLoss Models#3.4#To find the distance between transmitter and receiver#Ex3_4.sce#3446/CH3/EX3.4/Ex3_4.sce#S##118905
+3#Radio Propagation and Propagation PathLoss Models#3.3#To find the allowable path loss#Ex3_3.sce#3446/CH3/EX3.3/Ex3_3.sce#S##118904
+3#Radio Propagation and Propagation PathLoss Models#3.2#To find received signal power and SNR#Ex3_2.sce#3446/CH3/EX3.2/Ex3_2.sce#S##118903
+3#Radio Propagation and Propagation PathLoss Models#3.10#To find required transmitter power in watts#Ex3_10.sce#3446/CH3/EX3.10/Ex3_10.sce#S##118945
+3#Radio Propagation and Propagation PathLoss Models#3.1#To find free space and reflected surface attenuations#Ex3_1.sce#3446/CH3/EX3.1/Ex3_1.sce#S##118902
+2#Multiple Access Techniques#2.9#To calculate total traffic and number of MSCs required#Ex2_9.sce#3446/CH2/EX2.9/Ex2_9.sce#S##118898
+2#Multiple Access Techniques#2.8#To find average number of BHCAs#Ex2_8.sce#3446/CH2/EX2.8/Ex2_8.sce#S##118897
+2#Multiple Access Techniques#2.7#To find traffic per subscriber per BH in Erlangs#Ex2_7.sce#3446/CH2/EX2.7/Ex2_7.sce#S##118895
+2#Multiple Access Techniques#2.6#To find traffic intensity in Erlangs and CCS during eight hour period and busy hour#Ex2_6.sce#3446/CH2/EX2.6/Ex2_6.sce#S##118856
+2#Multiple Access Techniques#2.5#To find traffic intensity#Ex2_5.sce#3446/CH2/EX2.5/Ex2_5.sce#S##118855
+2#Multiple Access Techniques#2.4#To find traffic intensity#Ex2_4.sce#3446/CH2/EX2.4/Ex2_4.sce#S##118854
+2#Multiple Access Techniques#2.3#To find offered load#Ex2_3.sce#3446/CH2/EX2.3/Ex2_3.sce#S##118853
+2#Multiple Access Techniques#2.2#To find usage in CCS and Erlangs#Ex2_2.sce#3446/CH2/EX2.2/Ex2_2.sce#S##118852
+2#Multiple Access Techniques#2.12#To find the number of supported mobile subscribers #Ex2_12.sce#3446/CH2/EX2.12/Ex2_12.sce#S##118901
+2#Multiple Access Techniques#2.11#To find number of service channels required to handle the load#Ex2_11.sce#3446/CH2/EX2.11/Ex2_11.sce#S##118900
+2#Multiple Access Techniques#2.10#To find the designed cell capacity for the switch and design Erlangs#Ex2_10.sce#3446/CH2/EX2.10/Ex2_10.sce#S##118899
+2#Multiple Access Techniques#2.1#To get Gos during Busy Hour#Ex2_1.sce#3446/CH2/EX2.1/Ex2_1.sce#S##118851

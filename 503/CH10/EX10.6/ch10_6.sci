@@ -1,6 +1,8 @@
-//to calculate starting torque and atarting current,motor performance
+//to calculate starting torque and starting current,motor performance
 
 clc;
+clear
+ V = 220;
 V_a=110*complex(cosd(90),sind(90));
 V_m=220*complex(cosd(0),sind(0));
 R_1=3;
@@ -46,4 +48,3 @@ V_mf=220/(1+r);
 V_mb=220-V_mf;
 V_a=imult(V_mf-V_mb);
 disp(abs(V_a),'V_a(V)');
-

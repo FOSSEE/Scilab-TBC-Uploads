@@ -1,4 +1,4 @@
-//find the max torque 
+
 clc
 //solution
 //given

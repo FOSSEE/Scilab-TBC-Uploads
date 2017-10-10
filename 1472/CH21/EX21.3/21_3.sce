@@ -1,5 +1,5 @@
 clc
-//initialization of varaibles
+//initialization of variables
 R=53.34
 T1=540 //R
 n=1.4
@@ -8,6 +8,7 @@ n2=1.3
 P2=90 //psia
 P1=15 //psia
 cv=0.171
+cp=0.24;
 eta=0.95
 //calculations
 pv=R*T1

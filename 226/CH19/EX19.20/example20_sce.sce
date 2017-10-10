@@ -3,7 +3,7 @@
 //page 865
 printf("\n")
 printf("given")
-Vcc=12;Rl=10;Rd=.5;gfs=2.5;R7=820;V9=1*10^3;R10=R9;
+Vcc=12;Rl=10;R9 = 100;Rd=.5;gfs=2.5;R7=820;V9=1*10^3;R10=R9;Is=2.0*10^-3;
 Vp=(Vcc*Rl)/(Rd+Rl)
 Ip=Vp/Rl
 Vgs=Ip/gfs

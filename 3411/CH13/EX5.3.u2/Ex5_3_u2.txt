@@ -1,1 +1,2 @@
-Transition temprature is Tc=14.47 KCritical field Ho=2172592.6 amps/met 
+Transition temprature is Tc=14.47 K
+Critical field Ho=2172592.6 amp/meter 

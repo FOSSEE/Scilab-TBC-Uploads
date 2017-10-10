@@ -94,6 +94,6 @@ m = 1.0;
 //From Eq.(22.30)
 HOy = 1.71+(1*0.96)/1.4; //[ft] 
 
-disp(NOy,'number of transfer units required')
+disp(Noy,'number of transfer units required')
 disp('ft',D,'diameter of the column')
 disp('ft',HOy,'packing height')

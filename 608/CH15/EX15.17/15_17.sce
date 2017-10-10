@@ -10,11 +10,11 @@ I = 5; // in amperes
 
 //calculation:
 XL = 2*%pi*f*L
-phid1 = atan(XL/R)*180/%pi
+phid1 = atan(XL/R1)*180/%pi
 V1 = I*((R1^2 + XL^2)^0.5)
 Xc = 1/(2*%pi*f*C)
 V2 = I*((R2^2 + Xc^2)^0.5)
-phid2 = atan(Xc/R)*180/%pi
+phid2 = atan(Xc/R2)*180/%pi
 Z = ((R1+R2)^2 + (Xc-XL)^2)^0.5
 V = I*Z
 phid = atan((Xc-XL)/(R1+R2))*180/%pi
