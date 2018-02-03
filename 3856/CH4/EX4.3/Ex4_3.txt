@@ -1,2 +1,3 @@
- Change in Enternal energy = -3225 kJ mol^-1
+
+ Change in Internal energy = -3225 kJ mol^-1
 Change in Enthalpy = -3226 kJ mol^-1

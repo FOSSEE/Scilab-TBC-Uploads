@@ -1,2 +1,2 @@
-Resistive force = 2.31e-03 newton/s/meter 
+Resistive force = 2.31e-03 newton-s/meter 
 Relaxation time = 86.56 s

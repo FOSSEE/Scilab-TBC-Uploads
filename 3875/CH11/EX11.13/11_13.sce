@@ -8,7 +8,7 @@ n=1 //first order reflection
 tetha=58 //Braggs angle in degree 
 
 //calculation
-lambda=(h/sqrt(2*m*e*V_0))
+lambda=(h/sqrt(2*m*e*V_0)) //wavelength in m
 d=((n*lambda)/(2*sind(tetha)))
-mprintf("The interplanar spacing is = %1.2e m or 0.249e-10 m",d)
+mprintf("The interplanar spacing is = %1.2e m",d)
 //The answer varies due to round off error.

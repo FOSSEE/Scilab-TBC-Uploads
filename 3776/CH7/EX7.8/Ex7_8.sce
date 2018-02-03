@@ -2,7 +2,7 @@ clear
 //Given 
 dia = 10.0           //mm - The diameter of the cylinder 
 c = dia/2            //mm - the radius of the cylinder 
-A = 3.14*(c**2)      //mm2 The area of the crossection 
+A = 3.14*(c**2)      //sq.mm The area of the crossection 
 y = 4*c/(3*3.14)     //mm The com of cylinder 
 I = 3.14*(c**4)/4    //mm4 - The moment of inertia of the cylinder
 j = 3.14*(dia**4)/32 //mm4

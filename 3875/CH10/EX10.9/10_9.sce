@@ -13,12 +13,12 @@ d_lambda2=1*10^-9 //range of wavelength in m
 //case (a) when the range of wavelength is between 1-1.1 mm
 E=exp((h*c)/(lambda1*k_B*T)) //calculating the exponential term of the eqn
 U_lambda1=((8*%pi*h*c*d_lambda1)/(lambda1^5*(E-1)))
-mprintf("The energy density is = %1.2e J/m^3.\n",U_lambda1)
+mprintf("The energy density for wavelength in range 1-1.1 mm is = %1.2e J/m^3.\n",U_lambda1)
 
 //case (b) when the range of wavelength is between 100-101 nm
 E1=exp((h*c)/(lambda2*k_B*T)) //calculating the exponential term of the eqn
 U_lambda2=((8*%pi*h*c*d_lambda2)/(lambda2^5*(E1-1)))
-mprintf("The energy density is = %1.2e J/m^3.",U_lambda2)
+mprintf("The energy density for wavelength in range 100-101 mm is = %1.2e J/m^3.",U_lambda2)
 //The answer provided in the textbook is wrong.
 
 mprintf("\nThus for shorter wavelengths the energy densities predicted by Rayleigh-Jeans law and Planks law are considerably different while for longer wavelengths the energy densites predicted are same.")

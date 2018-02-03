@@ -14,4 +14,4 @@ L_omega=L*omega //in ohm
 C=1/((L_omega-R)*omega)
 
 mprintf("Resistance is = %d ohm\n",R) //The answers vary due to round off error
-mprintf("Capacitance is = %2.2e F\n",C)
+mprintf("Capacitance is = %2.1f mF\n",C/10^-6) //converting from F to mF dividing by 10^-6

@@ -11,7 +11,7 @@ inductance_l=2*%pi*f*L //in ohm
 Z=sqrt(R^2+inductance_l^2) //in ohm
 C=L/Z^2 
 
-mprintf("\n(a) The capacitance of the circuit is %0.0e F\n",C)
+mprintf("\n(a) The capacitance of the circuit is %d microF\n",C/10^-6) //converting from F to mF dividing by 10^-6
 
 //for(b)
 

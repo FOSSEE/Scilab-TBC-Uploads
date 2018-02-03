@@ -45,7 +45,7 @@ Package hyperref Message: Driver (autodetected): hpdftex.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tocloft/tocloft.sty)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty)
-No file TEX_final.aux.
+(./TEX_final.aux)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -61,660 +61,561 @@ xt4): destination with the same identifier (name{page.1}) has been already used
 <to be read again> 
                    \relax 
 l.79 \newpage
-              [1] [2] [3] [4] [5]
+              [1] [2] (./TEX_final.toc
+Overfull \hbox (95.60854pt too wide) detected at line 1
+\OT1/cmr/bx/n/12 List of Scilab Codes 
+) [3] (./TEX_final.cod) (../24/DEPENDENCIES/electrostatics.sci [4])
+(../24/DEPENDENCIES/Example17_1.sce
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd)) [5]
+(../24/DEPENDENCIES/Bernauli.sci) (../24/DEPENDENCIES/cross_product.sci)
+(../24/DEPENDENCIES/Example11_7.sce [6]
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd)) [7]
+(../24/DEPENDENCIES/collision.sci) (./TEX_final.lof)
+(../24/DEPENDENCIES/Example4_3.sce [8]) (../24/DEPENDENCIES/Example4_2a.sce)
+(../24/DEPENDENCIES/Example2_1b.sce [9]) (../24/DEPENDENCIES/Example2_1a.sce)
+[10]
 Chapter 1.
-(../24/CH1/EX1.1/Example1_1.sce
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd))
-(../24/CH1/EX1.2/Example1_2.sce [6]) (../24/CH1/EX1.3/Example1_3.sce)
-(../24/CH1/EX1.4/Example1_4.sce [7]
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd)) [8]
+(../24/CH1/EX1.1/Example1_1.sce) (../24/CH1/EX1.2/Example1_2.sce [11])
+(../24/CH1/EX1.3/Example1_3.sce) (../24/CH1/EX1.4/Example1_4.sce [12]) [13]
 Chapter 2.
-(../24/CH2/EX2.1.a/Example2_1a.sce)
-
-LaTeX Warning: Reference `AP:275' on page 9 undefined on input line 155.
-
-(../24/CH2/EX2.1.b/Example2_1b.sce [9])
-
-LaTeX Warning: Reference `AP:275' on page 10 undefined on input line 168.
-
-
-LaTeX Warning: Reference `AP:276' on page 10 undefined on input line 170.
-
-(../24/CH2/EX2.1.c/Example2_1c.sce [10])
-<../24/CH2/EX2.1.c/Example2_1c_graph.jpg, id=153, 612.2875pt x 387.4475pt>
-<use ../24/CH2/EX2.1.c/Example2_1c_graph.jpg>
-
-LaTeX Warning: Reference `AP:275' on page 11 undefined on input line 190.
-
-
-LaTeX Warning: Reference `AP:276' on page 11 undefined on input line 192.
-
-[11] (../24/CH2/EX2.1.d/Example2_1d.sce) [12 <../24/CH2/EX2.1.c/Example2_1c_gra
-ph.jpg>] (../24/CH2/EX2.2/Example2_2.sce [13])
-<../24/CH2/EX2.2/Example2_2_graph.jpg, id=225, 612.2875pt x 387.4475pt>
+(../24/CH2/EX2.1.a/Example2_1a.sce) (../24/CH2/EX2.1.b/Example2_1b.sce [14])
+(../24/CH2/EX2.1.c/Example2_1c.sce [15])
+<../24/CH2/EX2.1.c/Example2_1c_graph.jpg, id=356, 612.2875pt x 387.4475pt>
+<use ../24/CH2/EX2.1.c/Example2_1c_graph.jpg> [16]
+(../24/CH2/EX2.1.d/Example2_1d.sce) [17 <../24/CH2/EX2.1.c/Example2_1c_graph.jp
+g>] (../24/CH2/EX2.2/Example2_2.sce [18])
+<../24/CH2/EX2.2/Example2_2_graph.jpg, id=430, 612.2875pt x 387.4475pt>
 <use ../24/CH2/EX2.2/Example2_2_graph.jpg> (../24/CH2/EX2.3/Example2_3.sce)
-[14] (../24/CH2/EX2.4/Example2_4.sce [15 <../24/CH2/EX2.2/Example2_2_graph.jpg>
-]) (../24/CH2/EX2.5/Example2_5.sce) [16] (../24/CH2/EX2.6/Example2_6.sce
-[17]) (../24/CH2/EX2.7/Example2_7.sce [18]) [19]
+[19] (../24/CH2/EX2.4/Example2_4.sce [20 <../24/CH2/EX2.2/Example2_2_graph.jpg>
+]) (../24/CH2/EX2.5/Example2_5.sce) [21] (../24/CH2/EX2.6/Example2_6.sce
+[22]) (../24/CH2/EX2.7/Example2_7.sce [23]) [24]
 Chapter 3.
 
-LaTeX Warning: Reference `AP:272' on page 20 undefined on input line 280.
+LaTeX Warning: Reference `AP:272' on page 25 undefined on input line 350.
 
-(../24/CH3/EX3.1/Example3_1.sce) [20]
+(../24/CH3/EX3.1/Example3_1.sce) [25]
 
-LaTeX Warning: Reference `AP:272' on page 21 undefined on input line 293.
+LaTeX Warning: Reference `AP:272' on page 26 undefined on input line 363.
 
 (../24/CH3/EX3.2/Example3_2.sce)
 
-LaTeX Warning: Reference `AP:272' on page 21 undefined on input line 306.
+LaTeX Warning: Reference `AP:272' on page 26 undefined on input line 376.
 
-(../24/CH3/EX3.3/Example3_3.sce [21])
+(../24/CH3/EX3.3/Example3_3.sce [26])
 
-LaTeX Warning: Reference `AP:272' on page 22 undefined on input line 319.
+LaTeX Warning: Reference `AP:272' on page 27 undefined on input line 389.
 
 (../24/CH3/EX3.4/Example3_4.sce)
 
-LaTeX Warning: Reference `AP:272' on page 22 undefined on input line 332.
+LaTeX Warning: Reference `AP:272' on page 27 undefined on input line 402.
 
-[22] (../24/CH3/EX3.5/Example3_5.sce)
+[27] (../24/CH3/EX3.5/Example3_5.sce)
 
-LaTeX Warning: Reference `AP:272' on page 23 undefined on input line 345.
+LaTeX Warning: Reference `AP:272' on page 28 undefined on input line 415.
 
-(../24/CH3/EX3.6/Example3_6.sce [23])
+(../24/CH3/EX3.6/Example3_6.sce [28])
 
-LaTeX Warning: Reference `AP:277' on page 24 undefined on input line 358.
+LaTeX Warning: Reference `AP:272' on page 29 undefined on input line 430.
 
+(../24/CH3/EX3.7/Example3_7.sce) [29]
 
-LaTeX Warning: Reference `AP:272' on page 24 undefined on input line 360.
+LaTeX Warning: Reference `AP:272' on page 30 undefined on input line 445.
 
-(../24/CH3/EX3.7/Example3_7.sce) [24]
-
-LaTeX Warning: Reference `AP:277' on page 25 undefined on input line 373.
-
-
-LaTeX Warning: Reference `AP:272' on page 25 undefined on input line 375.
-
-(../24/CH3/EX3.8/Example3_8.sce) [25]
+(../24/CH3/EX3.8/Example3_8.sce) [30]
 Chapter 4.
-(../24/CH4/EX4.1/Example4_1.sce) (../24/CH4/EX4.2.a/Example4_2a.sce [26])
+(../24/CH4/EX4.1/Example4_1.sce) (../24/CH4/EX4.2.a/Example4_2a.sce [31])
 
-LaTeX Warning: Reference `AP:272' on page 27 undefined on input line 412.
+LaTeX Warning: Reference `AP:272' on page 32 undefined on input line 482.
 
+(../24/CH4/EX4.2.b/Example4_2b.sce [32])
+<../24/CH4/EX4.2.b/Example4_2b_graph.jpg, id=783, 612.2875pt x 461.725pt>
+<use ../24/CH4/EX4.2.b/Example4_2b_graph.jpg> (../24/CH4/EX4.3/Example4_3.sce
+[33] [34 <../24/CH4/EX4.2.b/Example4_2b_graph.jpg>])
+(../24/CH4/EX4.4/Example4_4.sce [35])
 
-LaTeX Warning: Reference `AP:278' on page 27 undefined on input line 414.
-
-(../24/CH4/EX4.2.b/Example4_2b.sce [27])
-<../24/CH4/EX4.2.b/Example4_2b_graph.jpg, id=575, 612.2875pt x 461.725pt>
-<use ../24/CH4/EX4.2.b/Example4_2b_graph.jpg>
-
-LaTeX Warning: Reference `AP:278' on page 28 undefined on input line 434.
-
-(../24/CH4/EX4.3/Example4_3.sce [28] [29 <../24/CH4/EX4.2.b/Example4_2b_graph.j
-pg>])
-
-LaTeX Warning: Reference `AP:279' on page 30 undefined on input line 447.
-
-(../24/CH4/EX4.4/Example4_4.sce [30])
-
-LaTeX Warning: Reference `AP:272' on page 31 undefined on input line 460.
+LaTeX Warning: Reference `AP:272' on page 36 undefined on input line 530.
 
 (../24/CH4/EX4.5/Example4_5.sce)
 
-LaTeX Warning: Reference `AP:272' on page 31 undefined on input line 473.
+LaTeX Warning: Reference `AP:272' on page 36 undefined on input line 543.
 
-[31] (../24/CH4/EX4.6/Example4_6.sce) [32]
+[36] (../24/CH4/EX4.6/Example4_6.sce) [37]
 
-LaTeX Warning: Reference `AP:272' on page 33 undefined on input line 486.
+LaTeX Warning: Reference `AP:272' on page 38 undefined on input line 556.
 
 (../24/CH4/EX4.7/Example4_7.sce)
 
-LaTeX Warning: Reference `AP:272' on page 33 undefined on input line 499.
+LaTeX Warning: Reference `AP:272' on page 38 undefined on input line 569.
 
-[33] (../24/CH4/EX4.8/Example4_8.sce) [34] (../24/CH4/EX4.9/Example4_9.sce)
-(../24/CH4/EX4.10/Example4_10.sce [35])
+[38] (../24/CH4/EX4.8/Example4_8.sce) [39] (../24/CH4/EX4.9/Example4_9.sce)
+(../24/CH4/EX4.10/Example4_10.sce [40])
 
-LaTeX Warning: Reference `AP:272' on page 36 undefined on input line 534.
+LaTeX Warning: Reference `AP:272' on page 41 undefined on input line 604.
 
-(../24/CH4/EX4.11/Example4_11.sce [36]) [37]
+(../24/CH4/EX4.11/Example4_11.sce [41]) [42]
 Chapter 5.
 
-LaTeX Warning: Reference `AP:272' on page 38 undefined on input line 549.
+LaTeX Warning: Reference `AP:272' on page 43 undefined on input line 619.
 
-(../24/CH5/EX5.1/Example5_1.sce) [38]
+(../24/CH5/EX5.1/Example5_1.sce) [43]
 
-LaTeX Warning: Reference `AP:272' on page 39 undefined on input line 562.
+LaTeX Warning: Reference `AP:272' on page 44 undefined on input line 632.
 
 (../24/CH5/EX5.2/Example5_2.sce)
 
-LaTeX Warning: Reference `AP:272' on page 39 undefined on input line 575.
+LaTeX Warning: Reference `AP:272' on page 44 undefined on input line 645.
 
-[39] (../24/CH5/EX5.3/Example5_3.sce)
+[44] (../24/CH5/EX5.3/Example5_3.sce)
 
-LaTeX Warning: Reference `AP:272' on page 40 undefined on input line 588.
+LaTeX Warning: Reference `AP:272' on page 45 undefined on input line 658.
 
-(../24/CH5/EX5.4/Example5_4.sce [40]) (../24/CH5/EX5.5/Example5_5.sce)
-<../24/CH5/EX5.5/Example5_5_FBD.jpg, id=888, 376.40625pt x 275.52937pt>
-<use ../24/CH5/EX5.5/Example5_5_FBD.jpg> [41]
+(../24/CH5/EX5.4/Example5_4.sce [45]) (../24/CH5/EX5.5/Example5_5.sce)
+<../24/CH5/EX5.5/Example5_5_FBD.jpg, id=1098, 376.40625pt x 275.52937pt>
+<use ../24/CH5/EX5.5/Example5_5_FBD.jpg> [46]
 
-LaTeX Warning: Reference `AP:272' on page 42 undefined on input line 619.
+LaTeX Warning: Reference `AP:272' on page 47 undefined on input line 689.
 
-(../24/CH5/EX5.6/Example5_6.sce [42 <../24/CH5/EX5.5/Example5_5_FBD.jpg>])
-<../24/CH5/EX5.6/Example5_6_FBD.jpg, id=933, 376.40625pt x 275.52937pt>
+(../24/CH5/EX5.6/Example5_6.sce [47 <../24/CH5/EX5.5/Example5_5_FBD.jpg>])
+<../24/CH5/EX5.6/Example5_6_FBD.jpg, id=1142, 376.40625pt x 275.52937pt>
 <use ../24/CH5/EX5.6/Example5_6_FBD.jpg>
 
-LaTeX Warning: Reference `AP:272' on page 43 undefined on input line 639.
+LaTeX Warning: Reference `AP:272' on page 48 undefined on input line 709.
 
-(../24/CH5/EX5.7/Example5_7.sce [43] [44 <../24/CH5/EX5.6/Example5_6_FBD.jpg>])
-<../24/CH5/EX5.7/Example5_7_FBD.jpg, id=967, 376.40625pt x 275.52937pt>
+(../24/CH5/EX5.7/Example5_7.sce [48] [49 <../24/CH5/EX5.6/Example5_6_FBD.jpg>])
+<../24/CH5/EX5.7/Example5_7_FBD.jpg, id=1177, 376.40625pt x 275.52937pt>
 <use ../24/CH5/EX5.7/Example5_7_FBD.jpg> (../24/CH5/EX5.8/Example5_8.sce
-[45] [46 <../24/CH5/EX5.7/Example5_7_FBD.jpg>])
-<../24/CH5/EX5.8/Example5_8_FBD.jpg, id=1006, 376.40625pt x 275.52937pt>
+[50] [51 <../24/CH5/EX5.7/Example5_7_FBD.jpg>])
+<../24/CH5/EX5.8/Example5_8_FBD.jpg, id=1216, 376.40625pt x 275.52937pt>
 <use ../24/CH5/EX5.8/Example5_8_FBD.jpg> (../24/CH5/EX5.9/Example5_9.sce
-[47] [48 <../24/CH5/EX5.8/Example5_8_FBD.jpg>])
-<../24/CH5/EX5.9/Example5_9_FBD.jpg, id=1041, 376.40625pt x 275.52937pt>
-<use ../24/CH5/EX5.9/Example5_9_FBD.jpg> [49 <../24/CH5/EX5.9/Example5_9_FBD.jp
+[52] [53 <../24/CH5/EX5.8/Example5_8_FBD.jpg>])
+<../24/CH5/EX5.9/Example5_9_FBD.jpg, id=1250, 376.40625pt x 275.52937pt>
+<use ../24/CH5/EX5.9/Example5_9_FBD.jpg> [54 <../24/CH5/EX5.9/Example5_9_FBD.jp
 g>]
 Chapter 6.
 (../24/CH6/EX6.1/Example6_1.sce)
 
-LaTeX Warning: Reference `AP:272' on page 50 undefined on input line 708.
+LaTeX Warning: Reference `AP:272' on page 55 undefined on input line 778.
 
-[50] (../24/CH6/EX6.2/Example6_2.sce)
-<../24/CH6/EX6.2/Example6_2_FBD.jpg, id=1073, 550.30594pt x 383.93437pt>
+[55] (../24/CH6/EX6.2/Example6_2.sce)
+<../24/CH6/EX6.2/Example6_2_FBD.jpg, id=1283, 550.30594pt x 383.93437pt>
 <use ../24/CH6/EX6.2/Example6_2_FBD.jpg>
 
-LaTeX Warning: Reference `AP:272' on page 51 undefined on input line 728.
+LaTeX Warning: Reference `AP:272' on page 56 undefined on input line 798.
 
-(../24/CH6/EX6.3/Example6_3.sce [51] [52 <../24/CH6/EX6.2/Example6_2_FBD.jpg>])
-<../24/CH6/EX6.3/Example6_3_FBD.jpg, id=1110, 550.30594pt x 383.93437pt>
-<use ../24/CH6/EX6.3/Example6_3_FBD.jpg> [53 <../24/CH6/EX6.3/Example6_3_FBD.jp
-g>] (../24/CH6/EX6.4/Example6_4.sce) (../24/CH6/EX6.5/Example6_5.sce [54])
-(../24/CH6/EX6.6/Example6_6.sce [55]) (../24/CH6/EX6.7/Example6_7.sce)
-(../24/CH6/EX6.8/Example6_8.sce [56])
-<../24/CH6/EX6.8/Example6_8_FBD.jpg, id=1217, 550.30594pt x 383.93437pt>
-<use ../24/CH6/EX6.8/Example6_8_FBD.jpg> [57 <../24/CH6/EX6.8/Example6_8_FBD.jp
+(../24/CH6/EX6.3/Example6_3.sce [56] [57 <../24/CH6/EX6.2/Example6_2_FBD.jpg>])
+<../24/CH6/EX6.3/Example6_3_FBD.jpg, id=1320, 550.30594pt x 383.93437pt>
+<use ../24/CH6/EX6.3/Example6_3_FBD.jpg> [58 <../24/CH6/EX6.3/Example6_3_FBD.jp
+g>] (../24/CH6/EX6.4/Example6_4.sce) (../24/CH6/EX6.5/Example6_5.sce [59])
+(../24/CH6/EX6.6/Example6_6.sce [60]) (../24/CH6/EX6.7/Example6_7.sce)
+(../24/CH6/EX6.8/Example6_8.sce [61])
+<../24/CH6/EX6.8/Example6_8_FBD.jpg, id=1427, 550.30594pt x 383.93437pt>
+<use ../24/CH6/EX6.8/Example6_8_FBD.jpg> [62 <../24/CH6/EX6.8/Example6_8_FBD.jp
 g>] (../24/CH6/EX6.9/Example6_9.sce)
-<../24/CH6/EX6.9/Example6_9_FBD.jpg, id=1232, 383.18156pt x 280.04625pt>
-<use ../24/CH6/EX6.9/Example6_9_FBD.jpg> [58] [59 <../24/CH6/EX6.9/Example6_9_F
+<../24/CH6/EX6.9/Example6_9_FBD.jpg, id=1442, 383.18156pt x 280.04625pt>
+<use ../24/CH6/EX6.9/Example6_9_FBD.jpg> [63] [64 <../24/CH6/EX6.9/Example6_9_F
 BD.jpg>]
 Chapter 7.
 
-LaTeX Warning: Reference `AP:272' on page 60 undefined on input line 830.
+LaTeX Warning: Reference `AP:272' on page 65 undefined on input line 900.
 
-(../24/CH7/EX7.1/Example7_1.sce) [60]
+(../24/CH7/EX7.1/Example7_1.sce) [65]
 
-LaTeX Warning: Reference `AP:272' on page 61 undefined on input line 843.
+LaTeX Warning: Reference `AP:272' on page 66 undefined on input line 913.
 
-(../24/CH7/EX7.2/Example7_2.sce [61]) (../24/CH7/EX7.3/Example7_3.sce) [62]
-(../24/CH7/EX7.4/Example7_4.sce) [63] (../24/CH7/EX7.5/Example7_5.sce)
-(../24/CH7/EX7.6/Example7_6.sce [64])
-<../24/CH7/EX7.6/Example7_6_FBD.jpg, id=1400, 399.74344pt x 409.53pt>
-<use ../24/CH7/EX7.6/Example7_6_FBD.jpg> [65] [66 <../24/CH7/EX7.6/Example7_6_F
+(../24/CH7/EX7.2/Example7_2.sce [66]) (../24/CH7/EX7.3/Example7_3.sce) [67]
+(../24/CH7/EX7.4/Example7_4.sce) [68] (../24/CH7/EX7.5/Example7_5.sce)
+(../24/CH7/EX7.6/Example7_6.sce [69])
+<../24/CH7/EX7.6/Example7_6_FBD.jpg, id=1610, 399.74344pt x 409.53pt>
+<use ../24/CH7/EX7.6/Example7_6_FBD.jpg> [70] [71 <../24/CH7/EX7.6/Example7_6_F
 BD.jpg>] (../24/CH7/EX7.7/Example7_7.sce) (../24/CH7/EX7.8/Example7_8.sce
-[67]) (../24/CH7/EX7.9/Example7_9.sce)
+[72]) (../24/CH7/EX7.9/Example7_9.sce)
 
-LaTeX Warning: Reference `AP:272' on page 68 undefined on input line 940.
+LaTeX Warning: Reference `AP:272' on page 73 undefined on input line 1010.
 
-(../24/CH7/EX7.10/Example7_10.sce [68]) [69]
+(../24/CH7/EX7.10/Example7_10.sce [73]) [74]
 Chapter 8.
-(../24/CH8/EX8.1/Example8_1.sce) (../24/CH8/EX8.2/Example8_2.sce [70])
-(../24/CH8/EX8.3/Example8_3.sce [71]) (../24/CH8/EX8.4/Example8_4.sce)
-(../24/CH8/EX8.5/Example8_5.sce [72]) [73] (../24/CH8/EX8.6/Example8_6.sce)
-(../24/CH8/EX8.7/Example8_7.sce [74]) (../24/CH8/EX8.8/Example8_8.sce [75])
-[76]
+(../24/CH8/EX8.1/Example8_1.sce) (../24/CH8/EX8.2/Example8_2.sce [75])
+(../24/CH8/EX8.3/Example8_3.sce [76]) (../24/CH8/EX8.4/Example8_4.sce)
+(../24/CH8/EX8.5/Example8_5.sce [77]) [78] (../24/CH8/EX8.6/Example8_6.sce)
+(../24/CH8/EX8.7/Example8_7.sce [79]) (../24/CH8/EX8.8/Example8_8.sce [80])
+[81]
 Chapter 9.
 
-LaTeX Warning: Reference `AP:272' on page 77 undefined on input line 1045.
+LaTeX Warning: Reference `AP:272' on page 82 undefined on input line 1115.
 
 (../24/CH9/EX9.1/Example9_1.sce)
-<../24/CH9/EX9.1/Example9_1_figure.jpg, id=1717, 422.32782pt x 329.73187pt>
-<use ../24/CH9/EX9.1/Example9_1_figure.jpg> [77]
-(../24/CH9/EX9.2/Example9_2.sce [78 <../24/CH9/EX9.1/Example9_1_figure.jpg>])
+<../24/CH9/EX9.1/Example9_1_figure.jpg, id=1927, 422.32782pt x 329.73187pt>
+<use ../24/CH9/EX9.1/Example9_1_figure.jpg> [82]
+(../24/CH9/EX9.2/Example9_2.sce [83 <../24/CH9/EX9.1/Example9_1_figure.jpg>])
 
-LaTeX Warning: Reference `AP:272' on page 79 undefined on input line 1076.
+LaTeX Warning: Reference `AP:272' on page 84 undefined on input line 1146.
 
 (../24/CH9/EX9.3/Example9_3.sce)
 
-LaTeX Warning: Reference `AP:272' on page 79 undefined on input line 1089.
+LaTeX Warning: Reference `AP:272' on page 84 undefined on input line 1159.
 
-[79] (../24/CH9/EX9.4/Example9_4.sce) (../24/CH9/EX9.5/Example9_5.sce) [80]
+[84] (../24/CH9/EX9.4/Example9_4.sce) (../24/CH9/EX9.5/Example9_5.sce) [85]
 (../24/CH9/EX9.6/Example9_6.sce)
 
-LaTeX Warning: Reference `AP:272' on page 81 undefined on input line 1124.
+LaTeX Warning: Reference `AP:272' on page 86 undefined on input line 1194.
 
-(../24/CH9/EX9.7/Example9_7.sce [81]) (../24/CH9/EX9.8/Example9_8.sce [82])
+(../24/CH9/EX9.7/Example9_7.sce [86]) (../24/CH9/EX9.8/Example9_8.sce [87])
 
-LaTeX Warning: Reference `AP:272' on page 83 undefined on input line 1148.
+LaTeX Warning: Reference `AP:272' on page 88 undefined on input line 1218.
 
-(../24/CH9/EX9.9/Example9_9.sce) [83]
+(../24/CH9/EX9.9/Example9_9.sce) [88]
 Chapter 10.
 
-LaTeX Warning: Reference `AP:272' on page 84 undefined on input line 1163.
+LaTeX Warning: Reference `AP:272' on page 89 undefined on input line 1233.
 
-(../24/CH10/EX10.1/Example10_1.sce [84]) (../24/CH10/EX10.2/Example10_2.sce)
-[85] (../24/CH10/EX10.3/Example10_3.sce)
-
-LaTeX Warning: Reference `AP:280' on page 86 undefined on input line 1198.
-
-[86] (../24/CH10/EX10.4/Example10_4.sce) (../24/CH10/EX10.5/Example10_5.sce
-[87]) [88]
+(../24/CH10/EX10.1/Example10_1.sce [89]) (../24/CH10/EX10.2/Example10_2.sce)
+[90] (../24/CH10/EX10.3/Example10_3.sce) [91]
+(../24/CH10/EX10.4/Example10_4.sce) (../24/CH10/EX10.5/Example10_5.sce [92])
+[93]
 Chapter 11.
-(../24/CH11/EX11.1/Example11_1.sce [89])
-<../24/CH11/EX11.1/Example11_1_graph.jpg, id=2049, 612.2875pt x 461.725pt>
+(../24/CH11/EX11.1/Example11_1.sce [94])
+<../24/CH11/EX11.1/Example11_1_graph.jpg, id=2260, 612.2875pt x 461.725pt>
 <use ../24/CH11/EX11.1/Example11_1_graph.jpg>
-(../24/CH11/EX11.2/Example11_2.sce [90 <../24/CH11/EX11.1/Example11_1_graph.jpg
->]) (../24/CH11/EX11.3/Example11_3.sce [91]) (../24/CH11/EX11.4/Example11_4.sce
-) [92] (../24/CH11/EX11.6/Example11_6.sce) (../24/CH11/EX11.7/Example11_7.sce
-[93])
-<../24/CH11/EX11.7/Example11_7_FBD.jpg, id=2162, 377.15906pt x 328.22626pt>
+(../24/CH11/EX11.2/Example11_2.sce [95 <../24/CH11/EX11.1/Example11_1_graph.jpg
+>]) (../24/CH11/EX11.3/Example11_3.sce [96]) (../24/CH11/EX11.4/Example11_4.sce
+) [97] (../24/CH11/EX11.6/Example11_6.sce) (../24/CH11/EX11.7/Example11_7.sce
+[98])
+<../24/CH11/EX11.7/Example11_7_FBD.jpg, id=2373, 377.15906pt x 328.22626pt>
 <use ../24/CH11/EX11.7/Example11_7_FBD.jpg> (../24/CH11/EX11.8/Example11_8.sce
-[94 <../24/CH11/EX11.7/Example11_7_FBD.jpg>])
-
-LaTeX Warning: Reference `AP:281' on page 95 undefined on input line 1315.
-
-(../24/CH11/EX11.9/Example11_9.sce [95]) (../24/CH11/EX11.10/Example11_10.sce)
-[96]
+[99 <../24/CH11/EX11.7/Example11_7_FBD.jpg>])
+(../24/CH11/EX11.9/Example11_9.sce [100]) (../24/CH11/EX11.10/Example11_10.sce)
+[101]
 Chapter 12.
 (../24/CH12/EX12.1/Example12_1.sce)
 
-LaTeX Warning: Reference `AP:272' on page 97 undefined on input line 1352.
+LaTeX Warning: Reference `AP:272' on page 102 undefined on input line 1422.
 
-[97] (../24/CH12/EX12.2/Example12_2.sce)
+[102] (../24/CH12/EX12.2/Example12_2.sce)
 
-LaTeX Warning: Reference `AP:277' on page 98 undefined on input line 1365.
+LaTeX Warning: Reference `AP:272' on page 103 undefined on input line 1437.
 
-
-LaTeX Warning: Reference `AP:272' on page 98 undefined on input line 1367.
-
-[98] (../24/CH12/EX12.3/Example12_3.sce) (../24/CH12/EX12.4/Example12_4.sce
-[99]) (../24/CH12/EX12.6/Example12_6.sce [100])
-(../24/CH12/EX12.7/Example12_7.sce) (../24/CH12/EX12.8/Example12_8.sce [101])
-(../24/CH12/EX12.9/Example12_9.sce [102]) [103]
+[103] (../24/CH12/EX12.3/Example12_3.sce) (../24/CH12/EX12.4/Example12_4.sce
+[104]) (../24/CH12/EX12.6/Example12_6.sce [105])
+(../24/CH12/EX12.7/Example12_7.sce) (../24/CH12/EX12.8/Example12_8.sce [106])
+(../24/CH12/EX12.9/Example12_9.sce [107]) [108]
 Chapter 13.
 (../24/CH13/EX13.1/Example13_1.sce)
-<../24/CH13/EX13.1/Example13_1_FBD.jpg, id=2415, 410.2828pt x 280.79906pt>
-<use ../24/CH13/EX13.1/Example13_1_FBD.jpg> [104]
-(../24/CH13/EX13.2/Example13_2.sce [105 <../24/CH13/EX13.1/Example13_1_FBD.jpg>
-]) <../24/CH13/EX13.2/Example13_2_FBD.jpg, id=2457, 328.22626pt x 307.1475pt>
+<../24/CH13/EX13.1/Example13_1_FBD.jpg, id=2628, 410.2828pt x 280.79906pt>
+<use ../24/CH13/EX13.1/Example13_1_FBD.jpg> [109]
+(../24/CH13/EX13.2/Example13_2.sce [110 <../24/CH13/EX13.1/Example13_1_FBD.jpg>
+]) <../24/CH13/EX13.2/Example13_2_FBD.jpg, id=2670, 328.22626pt x 307.1475pt>
 <use ../24/CH13/EX13.2/Example13_2_FBD.jpg> (../24/CH13/EX13.3/Example13_3.sce
-[106] [107 <../24/CH13/EX13.2/Example13_2_FBD.jpg>])
-<../24/CH13/EX13.3/Example13_3_FBD.jpg, id=2493, 367.3725pt x 339.51843pt>
-<use ../24/CH13/EX13.3/Example13_3_FBD.jpg> [108 <../24/CH13/EX13.3/Example13_3
+[111] [112 <../24/CH13/EX13.2/Example13_2_FBD.jpg>])
+<../24/CH13/EX13.3/Example13_3_FBD.jpg, id=2706, 367.3725pt x 339.51843pt>
+<use ../24/CH13/EX13.3/Example13_3_FBD.jpg> [113 <../24/CH13/EX13.3/Example13_3
 _FBD.jpg>] (../24/CH13/EX13.4/Example13_4.sce)
-<../24/CH13/EX13.4/Example13_4_FBD.jpg, id=2504, 289.83281pt x 341.77687pt>
-<use ../24/CH13/EX13.4/Example13_4_FBD.jpg> [109] [110 <../24/CH13/EX13.4/Examp
+<../24/CH13/EX13.4/Example13_4_FBD.jpg, id=2716, 289.83281pt x 341.77687pt>
+<use ../24/CH13/EX13.4/Example13_4_FBD.jpg> [114] [115 <../24/CH13/EX13.4/Examp
 le13_4_FBD.jpg>] (../24/CH13/EX13.5/Example13_5.sce)
-(../24/CH13/EX13.6/Example13_6.sce [111]) [112]
+(../24/CH13/EX13.6/Example13_6.sce [116]) [117]
 Chapter 14.
 
-LaTeX Warning: Reference `AP:273' on page 113 undefined on input line 1533.
+LaTeX Warning: Reference `AP:273' on page 118 undefined on input line 1603.
 
 (../24/CH14/EX14.1/Example14_1.sce)
 
-LaTeX Warning: Reference `AP:273' on page 113 undefined on input line 1546.
+LaTeX Warning: Reference `AP:273' on page 118 undefined on input line 1616.
 
-[113]
+[118]
 
-LaTeX Warning: Reference `AP:272' on page 114 undefined on input line 1548.
+LaTeX Warning: Reference `AP:272' on page 119 undefined on input line 1618.
 
-(../24/CH14/EX14.2/Example14_2.sce [114]) (../24/CH14/EX14.3.a/Example14_3a.sce
+(../24/CH14/EX14.2/Example14_2.sce [119]) (../24/CH14/EX14.3.a/Example14_3a.sce
 )
 
-LaTeX Warning: Reference `AP:273' on page 115 undefined on input line 1572.
+LaTeX Warning: Reference `AP:273' on page 120 undefined on input line 1642.
 
-(../24/CH14/EX14.3.b/Example14_3b.sce [115])
+(../24/CH14/EX14.3.b/Example14_3b.sce [120])
 
-LaTeX Warning: Reference `AP:273' on page 116 undefined on input line 1585.
+LaTeX Warning: Reference `AP:273' on page 121 undefined on input line 1655.
 
 
-LaTeX Warning: Reference `AP:273' on page 116 undefined on input line 1587.
+LaTeX Warning: Reference `AP:273' on page 121 undefined on input line 1657.
 
-(../24/CH14/EX14.5/Example14_5.sce [116])
+(../24/CH14/EX14.5/Example14_5.sce [121])
 
-LaTeX Warning: Reference `AP:273' on page 117 undefined on input line 1600.
+LaTeX Warning: Reference `AP:273' on page 122 undefined on input line 1670.
 
-(../24/CH14/EX14.6/Example14_6.sce [117])
+(../24/CH14/EX14.6/Example14_6.sce [122])
 
-LaTeX Warning: Reference `AP:273' on page 118 undefined on input line 1613.
+LaTeX Warning: Reference `AP:273' on page 123 undefined on input line 1683.
 
-(../24/CH14/EX14.7/Example14_7.sce [118])
+(../24/CH14/EX14.7/Example14_7.sce [123])
 
-LaTeX Warning: Reference `AP:273' on page 119 undefined on input line 1626.
+LaTeX Warning: Reference `AP:273' on page 124 undefined on input line 1696.
 
-(../24/CH14/EX14.8/Example14_8.sce [119]) [120]
+(../24/CH14/EX14.8/Example14_8.sce [124]) [125]
 Chapter 15.
-(../24/CH15/EX15.1/Example15_1.sce) [121] (../24/CH15/EX15.2/Example15_2.sce)
-(../24/CH15/EX15.3/Example15_3.sce) [122] (../24/CH15/EX15.4/Example15_4.sce)
-(../24/CH15/EX15.5/Example15_5.sce [123]) (../24/CH15/EX15.6/Example15_6.sce)
-
-LaTeX Warning: Reference `AP:282' on page 124 undefined on input line 1707.
-
-(../24/CH15/EX15.7/Example15_7.sce [124])
-
-LaTeX Warning: Reference `AP:282' on page 125 undefined on input line 1720.
-
-(../24/CH15/EX15.8/Example15_8.sce) [125] [126]
+(../24/CH15/EX15.1/Example15_1.sce) [126] (../24/CH15/EX15.2/Example15_2.sce)
+(../24/CH15/EX15.3/Example15_3.sce) [127] (../24/CH15/EX15.4/Example15_4.sce)
+(../24/CH15/EX15.5/Example15_5.sce [128]) (../24/CH15/EX15.6/Example15_6.sce)
+(../24/CH15/EX15.7/Example15_7.sce [129]) (../24/CH15/EX15.8/Example15_8.sce)
+[130] [131]
 Chapter 16.
-(../24/CH16/EX16.1/Example16_1.sce [127]) (../24/CH16/EX16.2/Example16_2.sce
-[128]) (../24/CH16/EX16.3/Example16_3.sce) (../24/CH16/EX16.4/Example16_4.sce
-[129]) (../24/CH16/EX16.5/Example16_5.sce) [130]
+(../24/CH16/EX16.1/Example16_1.sce [132]) (../24/CH16/EX16.2/Example16_2.sce
+[133]) (../24/CH16/EX16.3/Example16_3.sce) (../24/CH16/EX16.4/Example16_4.sce
+[134]) (../24/CH16/EX16.5/Example16_5.sce) [135]
 (../24/CH16/EX16.6/Example16_6.sce)
-<../24/CH16/EX16.6/Example16_6_FBD.JPG, id=3060, 352.31625pt x 259.7203pt>
+<../24/CH16/EX16.6/Example16_6_FBD.JPG, id=3275, 352.31625pt x 259.7203pt>
 <use ../24/CH16/EX16.6/Example16_6_FBD.JPG> (../24/CH16/EX16.7/Example16_7.sce
-[131] [132 <../24/CH16/EX16.6/Example16_6_FBD.JPG>]) [133]
+[136] [137 <../24/CH16/EX16.6/Example16_6_FBD.JPG>]) [138]
 Chapter 17.
-(../24/CH17/EX17.1/Example17_1.sce [134])
+(../24/CH17/EX17.1/Example17_1.sce [139]) (../24/CH17/EX17.2/Example17_2.sce)
+[140] (../24/CH17/EX17.3/Example17_3.sce) (../24/CH17/EX17.4/Example17_4.sce
+[141])
 
-LaTeX Warning: Reference `AP:283' on page 135 undefined on input line 1832.
+LaTeX Warning: Reference `AP:272' on page 142 undefined on input line 1937.
 
-(../24/CH17/EX17.2/Example17_2.sce) [135] (../24/CH17/EX17.3/Example17_3.sce)
-(../24/CH17/EX17.4/Example17_4.sce [136])
-
-LaTeX Warning: Reference `AP:272' on page 137 undefined on input line 1867.
-
-(../24/CH17/EX17.5/Example17_5.sce) [137] (../24/CH17/EX17.6/Example17_6.sce)
-(../24/CH17/EX17.7/Example17_7.sce [138]) [139]
+(../24/CH17/EX17.5/Example17_5.sce) [142] (../24/CH17/EX17.6/Example17_6.sce)
+(../24/CH17/EX17.7/Example17_7.sce [143]) [144]
 Chapter 18.
 
-LaTeX Warning: Reference `AP:272' on page 140 undefined on input line 1904.
+LaTeX Warning: Reference `AP:272' on page 145 undefined on input line 1974.
 
-(../24/CH18/EX18.1/Example18_1.sce) [140] (../24/CH18/EX18.2/Example18_2.sce)
-(../24/CH18/EX18.3/Example18_3.sce [141]) (../24/CH18/EX18.4/Example18_4.sce)
-(../24/CH18/EX18.5/Example18_5.sce [142]) (../24/CH18/EX18.6/Example18_6.sce)
-(../24/CH18/EX18.8/Example18_8.sce [143]) [144]
+(../24/CH18/EX18.1/Example18_1.sce) [145] (../24/CH18/EX18.2/Example18_2.sce)
+(../24/CH18/EX18.3/Example18_3.sce [146]) (../24/CH18/EX18.4/Example18_4.sce)
+(../24/CH18/EX18.5/Example18_5.sce [147]) (../24/CH18/EX18.6/Example18_6.sce)
+(../24/CH18/EX18.8/Example18_8.sce [148]) [149]
 Chapter 19.
-(../24/CH19/EX19.1/Example19_1.sce) (../24/CH19/EX19.2/Example19_2.sce [145])
-(../24/CH19/EX19.3/Example19_3.sce [146]) (../24/CH19/EX19.4/Example19_4.sce)
-[147] (../24/CH19/EX19.5/Example19_5.sce) [148]
-(../24/CH19/EX19.6/Example19_6.sce) (../24/CH19/EX19.7/Example19_7.sce [149])
-[150]
+(../24/CH19/EX19.1/Example19_1.sce) (../24/CH19/EX19.2/Example19_2.sce [150])
+(../24/CH19/EX19.3/Example19_3.sce [151]) (../24/CH19/EX19.4/Example19_4.sce)
+[152] (../24/CH19/EX19.5/Example19_5.sce) [153]
+(../24/CH19/EX19.6/Example19_6.sce) (../24/CH19/EX19.7/Example19_7.sce [154])
+[155]
 Chapter 20.
-(../24/CH20/EX20.1/Example20_1.sce) (../24/CH20/EX20.2/Example20_2.sce [151])
-(../24/CH20/EX20.3/Example20_3.sce) (../24/CH20/EX20.4/Example20_4.sce [152])
-(../24/CH20/EX20.5/Example20_5.sce [153]) (../24/CH20/EX20.6/Example20_6.sce)
-[154] (../24/CH20/EX20.7/Example20_7.sce) [155]
-(../24/CH20/EX20.9/Example20_9.sce) [156]
+(../24/CH20/EX20.1/Example20_1.sce) (../24/CH20/EX20.2/Example20_2.sce [156])
+(../24/CH20/EX20.3/Example20_3.sce) (../24/CH20/EX20.4/Example20_4.sce [157])
+(../24/CH20/EX20.5/Example20_5.sce [158]) (../24/CH20/EX20.6/Example20_6.sce)
+[159] (../24/CH20/EX20.7/Example20_7.sce) [160]
+(../24/CH20/EX20.9/Example20_9.sce) [161]
 Chapter 21.
-(../24/CH21/EX21.1/Example21_1.sce) (../24/CH21/EX21.2/Example21_2.sce [157])
-(../24/CH21/EX21.3/Example21_3.sce [158]) (../24/CH21/EX21.4/Example21_4.sce
-[159]) (../24/CH21/EX21.5/Example21_5.sce) [160]
+(../24/CH21/EX21.1/Example21_1.sce) (../24/CH21/EX21.2/Example21_2.sce [162])
+(../24/CH21/EX21.3/Example21_3.sce [163]) (../24/CH21/EX21.4/Example21_4.sce
+[164]) (../24/CH21/EX21.5/Example21_5.sce) [165]
 Chapter 22.
 
-LaTeX Warning: Reference `AP:272' on page 161 undefined on input line 2211.
+LaTeX Warning: Reference `AP:272' on page 166 undefined on input line 2281.
 
+(../24/CH22/EX22.1/Example22_1.sce [166]) (../24/CH22/EX22.2/Example22_2.sce
+[167]) (../24/CH22/EX22.3/Example22_3.sce [168])
 
-LaTeX Warning: Reference `AP:284' on page 161 undefined on input line 2213.
+LaTeX Warning: Reference `AP:273' on page 169 undefined on input line 2322.
 
-(../24/CH22/EX22.1/Example22_1.sce [161])
-
-LaTeX Warning: Reference `AP:284' on page 162 undefined on input line 2226.
-
-(../24/CH22/EX22.2/Example22_2.sce [162])
-
-LaTeX Warning: Reference `AP:284' on page 163 undefined on input line 2239.
-
-(../24/CH22/EX22.3/Example22_3.sce [163])
-
-LaTeX Warning: Reference `AP:273' on page 164 undefined on input line 2252.
-
-
-LaTeX Warning: Reference `AP:284' on page 164 undefined on input line 2254.
-
-(../24/CH22/EX22.4/Example22_4.sce) [164] [165]
+(../24/CH22/EX22.4/Example22_4.sce) [169] [170]
 Chapter 23.
 
-LaTeX Warning: Reference `AP:272' on page 166 undefined on input line 2269.
+LaTeX Warning: Reference `AP:272' on page 171 undefined on input line 2339.
 
+(../24/CH23/EX23.2/Example23_2.sce [171])
 
-LaTeX Warning: Reference `AP:284' on page 166 undefined on input line 2271.
+LaTeX Warning: Reference `AP:272' on page 172 undefined on input line 2354.
 
-(../24/CH23/EX23.2/Example23_2.sce [166])
+(../24/CH23/EX23.3/Example23_3.sce) [172] (../24/CH23/EX23.4/Example23_4.sce)
 
-LaTeX Warning: Reference `AP:272' on page 167 undefined on input line 2284.
+LaTeX Warning: Reference `AP:272' on page 173 undefined on input line 2380.
 
-
-LaTeX Warning: Reference `AP:284' on page 167 undefined on input line 2286.
-
-(../24/CH23/EX23.3/Example23_3.sce) [167] (../24/CH23/EX23.4/Example23_4.sce)
-
-LaTeX Warning: Reference `AP:272' on page 168 undefined on input line 2310.
-
-(../24/CH23/EX23.5/Example23_5.sce [168]) [169]
+(../24/CH23/EX23.5/Example23_5.sce [173]) [174]
 Chapter 24.
 
-LaTeX Warning: Reference `AP:272' on page 170 undefined on input line 2325.
+LaTeX Warning: Reference `AP:272' on page 175 undefined on input line 2395.
 
-(../24/CH24/EX24.1/Example24_1.sce) [170] (../24/CH24/EX24.2/Example24_2.sce)
-
-LaTeX Warning: Reference `AP:284' on page 171 undefined on input line 2349.
-
-(../24/CH24/EX24.3/Example24_3.sce [171]) (../24/CH24/EX24.4/Example24_4.sce)
-
-LaTeX Warning: Reference `AP:284' on page 172 undefined on input line 2373.
-
-[172] (../24/CH24/EX24.5/Example24_5.sce)
-
-LaTeX Warning: Reference `AP:284' on page 173 undefined on input line 2386.
-
-(../24/CH24/EX24.6/Example24_6.sce [173]) [174]
+(../24/CH24/EX24.1/Example24_1.sce) [175] (../24/CH24/EX24.2/Example24_2.sce)
+(../24/CH24/EX24.3/Example24_3.sce [176]) (../24/CH24/EX24.4/Example24_4.sce)
+[177] (../24/CH24/EX24.5/Example24_5.sce) (../24/CH24/EX24.6/Example24_6.sce
+[178]) [179]
 Chapter 25.
-
-LaTeX Warning: Reference `AP:284' on page 175 undefined on input line 2401.
-
-(../24/CH25/EX25.1/Example25_1.sce)
-
-LaTeX Warning: Reference `AP:284' on page 175 undefined on input line 2414.
-
-[175] (../24/CH25/EX25.3/Example25_3.sce)
-
-LaTeX Warning: Reference `AP:284' on page 176 undefined on input line 2427.
-
-(../24/CH25/EX25.4/Example25_4.sce [176])
-
-LaTeX Warning: Reference `AP:284' on page 177 undefined on input line 2440.
-
-(../24/CH25/EX25.6/Example25_6.sce) [177]
+(../24/CH25/EX25.1/Example25_1.sce) [180] (../24/CH25/EX25.3/Example25_3.sce)
+(../24/CH25/EX25.4/Example25_4.sce [181]) (../24/CH25/EX25.6/Example25_6.sce)
+[182]
 Chapter 26.
-
-LaTeX Warning: Reference `AP:284' on page 178 undefined on input line 2455.
-
-(../24/CH26/EX26.1/Example26_1.sce)
-
-LaTeX Warning: Reference `AP:284' on page 178 undefined on input line 2468.
-
-[178] (../24/CH26/EX26.2/Example26_2.sce) (../24/CH26/EX26.3/Example26_3.sce
-[179])
-
-LaTeX Warning: Reference `AP:284' on page 180 undefined on input line 2492.
-
-(../24/CH26/EX26.4/Example26_4.sce) [180]
-
-LaTeX Warning: Reference `AP:284' on page 181 undefined on input line 2505.
-
-(../24/CH26/EX26.5/Example26_5.sce)
-
-LaTeX Warning: Reference `AP:284' on page 181 undefined on input line 2518.
-
-(../24/CH26/EX26.6/Example26_6.sce [181] [182]) [183]
+(../24/CH26/EX26.1/Example26_1.sce) [183] (../24/CH26/EX26.2/Example26_2.sce)
+(../24/CH26/EX26.3/Example26_3.sce [184]) (../24/CH26/EX26.4/Example26_4.sce)
+[185] (../24/CH26/EX26.5/Example26_5.sce) (../24/CH26/EX26.6/Example26_6.sce
+[186] [187]) [188]
 Chapter 27.
-(../24/CH27/EX27.1/Example27_1.sce) (../24/CH27/EX27.2/Example27_2.sce [184])
-(../24/CH27/EX27.3/Example27_3.sce [185]) (../24/CH27/EX27.4/Example27_4.sce)
-(../24/CH27/EX27.5/Example27_5.sce [186]) (../24/CH27/EX27.6/Example27_6.sce)
-[187]
+(../24/CH27/EX27.1/Example27_1.sce) (../24/CH27/EX27.2/Example27_2.sce [189])
+(../24/CH27/EX27.3/Example27_3.sce [190]) (../24/CH27/EX27.4/Example27_4.sce)
+(../24/CH27/EX27.5/Example27_5.sce [191]) (../24/CH27/EX27.6/Example27_6.sce)
+[192]
 Chapter 28.
-(../24/CH28/EX28.1/Example28_1.sce) [188] (../24/CH28/EX28.2/Example28_2.sce)
-[189] (../24/CH28/EX28.3/Example28_3.sce) (../24/CH28/EX28.4/Example28_4.sce
-[190]) (../24/CH28/EX28.5/Example28_5.sce) [191] [192]
+(../24/CH28/EX28.1/Example28_1.sce) [193] (../24/CH28/EX28.2/Example28_2.sce)
+[194] (../24/CH28/EX28.3/Example28_3.sce) (../24/CH28/EX28.4/Example28_4.sce
+[195]) (../24/CH28/EX28.5/Example28_5.sce) [196] [197]
 Chapter 29.
-(../24/CH29/EX29.1/Example29_1.sce) (../24/CH29/EX29.2/Example29_2.sce [193])
-(../24/CH29/EX29.3/Example29_3.sce) [194]
+(../24/CH29/EX29.1/Example29_1.sce) (../24/CH29/EX29.2/Example29_2.sce [198])
+(../24/CH29/EX29.3/Example29_3.sce) [199]
 
-LaTeX Warning: Reference `AP:272' on page 195 undefined on input line 2691.
+LaTeX Warning: Reference `AP:272' on page 200 undefined on input line 2761.
 
-(../24/CH29/EX29.4/Example29_4.sce) (../24/CH29/EX29.5/Example29_5.sce [195])
-(../24/CH29/EX29.6/Example29_6.sce) [196] (../24/CH29/EX29.7/Example29_7.sce)
-(../24/CH29/EX29.8/Example29_8.sce [197]) [198]
+(../24/CH29/EX29.4/Example29_4.sce) (../24/CH29/EX29.5/Example29_5.sce [200])
+(../24/CH29/EX29.6/Example29_6.sce) [201] (../24/CH29/EX29.7/Example29_7.sce)
+(../24/CH29/EX29.8/Example29_8.sce [202]) [203]
 Chapter 30.
 
-LaTeX Warning: Reference `AP:272' on page 199 undefined on input line 2750.
+LaTeX Warning: Reference `AP:272' on page 204 undefined on input line 2820.
 
-(../24/CH30/EX30.2/Example30_2.sce) [199] (../24/CH30/EX30.3/Example30_3.sce)
-(../24/CH30/EX30.4/Example30_4.sce [200]) [201]
+(../24/CH30/EX30.2/Example30_2.sce) [204] (../24/CH30/EX30.3/Example30_3.sce)
+(../24/CH30/EX30.4/Example30_4.sce [205]) [206]
 Chapter 31.
-(../24/CH31/EX31.1/Example31_1.sce) (../24/CH31/EX31.2/Example31_2.sce [202])
-(../24/CH31/EX31.3/Example31_3.sce [203]) (../24/CH31/EX31.4/Example31_4.sce)
-(../24/CH31/EX31.5/Example31_5.sce [204]) (../24/CH31/EX31.6/Example31_6.sce)
-[205] (../24/CH31/EX31.7/Example31_7.sce) (../24/CH31/EX31.8/Example31_8.sce
-[206]) (../24/CH31/EX31.9/Example31_9.sce) [207] [208]
+(../24/CH31/EX31.1/Example31_1.sce) (../24/CH31/EX31.2/Example31_2.sce [207])
+(../24/CH31/EX31.3/Example31_3.sce [208]) (../24/CH31/EX31.4/Example31_4.sce)
+(../24/CH31/EX31.5/Example31_5.sce [209]) (../24/CH31/EX31.6/Example31_6.sce)
+[210] (../24/CH31/EX31.7/Example31_7.sce) (../24/CH31/EX31.8/Example31_8.sce
+[211]) (../24/CH31/EX31.9/Example31_9.sce) [212] [213]
 Chapter 32.
-(../24/CH32/EX32.1/Example32_1.sce) [209] (../24/CH32/EX32.2/Example32_2.sce)
-(../24/CH32/EX32.3/Example32_3.sce [210]) [211]
+(../24/CH32/EX32.1/Example32_1.sce) [214] (../24/CH32/EX32.2/Example32_2.sce)
+(../24/CH32/EX32.3/Example32_3.sce [215]) [216]
 Chapter 33.
-(../24/CH33/EX33.1/Example33_1.sce) (../24/CH33/EX33.2/Example33_2.sce [212])
-(../24/CH33/EX33.3/Example33_3.sce [213]) (../24/CH33/EX33.4/Example33_4.sce)
-[214] (../24/CH33/EX33.5/Example33_5.sce) (../24/CH33/EX33.6/Example33_6.sce
-[215]) (../24/CH33/EX33.7/Example33_7.sce [216])
-(../24/CH33/EX33.8/Example33_8.sce) [217] (../24/CH33/EX33.9/Example33_9.sce)
-[218]
+(../24/CH33/EX33.1/Example33_1.sce) (../24/CH33/EX33.2/Example33_2.sce [217])
+(../24/CH33/EX33.3/Example33_3.sce [218]) (../24/CH33/EX33.4/Example33_4.sce)
+[219] (../24/CH33/EX33.5/Example33_5.sce) (../24/CH33/EX33.6/Example33_6.sce
+[220]) (../24/CH33/EX33.7/Example33_7.sce [221])
+(../24/CH33/EX33.8/Example33_8.sce) [222] (../24/CH33/EX33.9/Example33_9.sce)
+[223]
 Chapter 34.
 (../24/CH34/EX34.1/Example34_1.sce)
 
-LaTeX Warning: Reference `AP:273' on page 219 undefined on input line 3035.
+LaTeX Warning: Reference `AP:273' on page 224 undefined on input line 3105.
 
-[219] (../24/CH34/EX34.2/Example34_2.sce)
+[224] (../24/CH34/EX34.2/Example34_2.sce)
 
-LaTeX Warning: Reference `AP:272' on page 220 undefined on input line 3048.
+LaTeX Warning: Reference `AP:272' on page 225 undefined on input line 3118.
 
-(../24/CH34/EX34.3/Example34_3.sce [220])
+(../24/CH34/EX34.3/Example34_3.sce [225])
 
-LaTeX Warning: Reference `AP:272' on page 221 undefined on input line 3061.
+LaTeX Warning: Reference `AP:272' on page 226 undefined on input line 3131.
 
-(../24/CH34/EX34.4/Example34_4.sce [221])
+(../24/CH34/EX34.4/Example34_4.sce [226])
 
-LaTeX Warning: Reference `AP:272' on page 222 undefined on input line 3074.
+LaTeX Warning: Reference `AP:272' on page 227 undefined on input line 3144.
 
-(../24/CH34/EX34.5/Example34_5.sce) [222]
+(../24/CH34/EX34.5/Example34_5.sce) [227]
 Chapter 35.
-(../24/CH35/EX35.1/Example35_1.sce) (../24/CH35/EX35.2/Example35_2.sce [223])
-(../24/CH35/EX35.3/Example35_3.sce [224]) (../24/CH35/EX35.4/Example35_4.sce)
-[225]
+(../24/CH35/EX35.1/Example35_1.sce) (../24/CH35/EX35.2/Example35_2.sce [228])
+(../24/CH35/EX35.3/Example35_3.sce [229]) (../24/CH35/EX35.4/Example35_4.sce)
+[230]
 Chapter 36.
-(../24/CH36/EX36.1/Example36_1.sce) [226] (../24/CH36/EX36.2/Example36_2.sce)
+(../24/CH36/EX36.1/Example36_1.sce) [231] (../24/CH36/EX36.2/Example36_2.sce)
 
-LaTeX Warning: Reference `AP:272' on page 227 undefined on input line 3157.
+LaTeX Warning: Reference `AP:272' on page 232 undefined on input line 3227.
 
-(../24/CH36/EX36.3/Example36_3.sce [227]) (../24/CH36/EX36.4/Example36_4.sce)
-(../24/CH36/EX36.5/Example36_5.sce [228]) (../24/CH36/EX36.6/Example36_6.sce)
-[229]
+(../24/CH36/EX36.3/Example36_3.sce [232]) (../24/CH36/EX36.4/Example36_4.sce)
+(../24/CH36/EX36.5/Example36_5.sce [233]) (../24/CH36/EX36.6/Example36_6.sce)
+[234]
 Chapter 37.
 
-LaTeX Warning: Reference `AP:272' on page 230 undefined on input line 3205.
+LaTeX Warning: Reference `AP:272' on page 235 undefined on input line 3275.
 
-(../24/CH37/EX37.1/Example37_1.sce) [230] (../24/CH37/EX37.2/Example37_2.sce)
-(../24/CH37/EX37.3/Example37_3.sce [231]) (../24/CH37/EX37.4/Example37_4.sce)
+(../24/CH37/EX37.1/Example37_1.sce) [235] (../24/CH37/EX37.2/Example37_2.sce)
+(../24/CH37/EX37.3/Example37_3.sce [236]) (../24/CH37/EX37.4/Example37_4.sce)
 
-LaTeX Warning: Reference `AP:272' on page 232 undefined on input line 3251.
+LaTeX Warning: Reference `AP:272' on page 237 undefined on input line 3321.
 
-[232] (../24/CH37/EX37.5/Example37_5.sce) [233] [234]
+[237] (../24/CH37/EX37.5/Example37_5.sce) [238] [239]
 Chapter 38.
-(../24/CH38/EX38.1/Example38_1.sce) (../24/CH38/EX38.2/Example38_2.sce [235])
-(../24/CH38/EX38.3/Example38_3.sce) (../24/CH38/EX38.4/Example38_4.sce [236])
-(../24/CH38/EX38.5/Example38_5.sce [237]) (../24/CH38/EX38.6/Example38_6.sce)
-[238] (../24/CH38/EX38.7/Example38_7.sce) [239]
+(../24/CH38/EX38.1/Example38_1.sce) (../24/CH38/EX38.2/Example38_2.sce [240])
+(../24/CH38/EX38.3/Example38_3.sce) (../24/CH38/EX38.4/Example38_4.sce [241])
+(../24/CH38/EX38.5/Example38_5.sce [242]) (../24/CH38/EX38.6/Example38_6.sce)
+[243] (../24/CH38/EX38.7/Example38_7.sce) [244]
 Chapter 39.
-(../24/CH39/EX39.1/Example39_1.sce) (../24/CH39/EX39.2/Example39_2.sce [240])
+(../24/CH39/EX39.1/Example39_1.sce) (../24/CH39/EX39.2/Example39_2.sce [245])
 (../24/CH39/EX39.3/Example39_3.sce)
 
-LaTeX Warning: Reference `AP:272' on page 241 undefined on input line 3378.
+LaTeX Warning: Reference `AP:272' on page 246 undefined on input line 3448.
 
-[241] (../24/CH39/EX39.4/Example39_4.sce) (../24/CH39/EX39.5/Example39_5.sce
-[242]) (../24/CH39/EX39.6/Example39_6.sce) (../24/CH39/EX39.7/Example39_7.sce
-[243]) [244]
+[246] (../24/CH39/EX39.4/Example39_4.sce) (../24/CH39/EX39.5/Example39_5.sce
+[247]) (../24/CH39/EX39.6/Example39_6.sce) (../24/CH39/EX39.7/Example39_7.sce
+[248]) [249]
 Chapter 40.
 
-LaTeX Warning: Reference `AP:285' on page 245 undefined on input line 3426.
+LaTeX Warning: Reference `AP:285' on page 250 undefined on input line 3496.
 
-(../24/CH40/EX40.1/Example40_1.sce [245]) (../24/CH40/EX40.3/Example40_3.sce
-[246])
+(../24/CH40/EX40.1/Example40_1.sce [250]) (../24/CH40/EX40.3/Example40_3.sce
+[251])
 
-LaTeX Warning: Reference `AP:285' on page 247 undefined on input line 3450.
+LaTeX Warning: Reference `AP:285' on page 252 undefined on input line 3520.
 
 (../24/CH40/EX40.4/Example40_4.sce)
 
-LaTeX Warning: Reference `AP:285' on page 247 undefined on input line 3463.
+LaTeX Warning: Reference `AP:285' on page 252 undefined on input line 3533.
 
-[247] (../24/CH40/EX40.6/Example40_6.sce) (../24/CH40/EX40.8/Example40_8.sce
-[248]) [249]
+[252] (../24/CH40/EX40.6/Example40_6.sce) (../24/CH40/EX40.8/Example40_8.sce
+[253]) [254]
 Chapter 41.
-(../24/CH41/EX41.1/Example41_1.sce) (../24/CH41/EX41.2/Example41_2.sce [250])
+(../24/CH41/EX41.1/Example41_1.sce) (../24/CH41/EX41.2/Example41_2.sce [255])
 (../24/CH41/EX41.3/Example41_3.sce)
-<../24/CH41/EX41.3/Example41_3a.jpg, id=6171, 371.88937pt x 345.54094pt>
+<../24/CH41/EX41.3/Example41_3a.jpg, id=6406, 371.88937pt x 345.54094pt>
 <use ../24/CH41/EX41.3/Example41_3a.jpg> (../24/CH41/EX41.4/Example41_4.sce
-[251] [252 <../24/CH41/EX41.3/Example41_3a.jpg>])
-(../24/CH41/EX41.5/Example41_5.sce) (../24/CH41/EX41.6/Example41_6.sce [253])
-[254]
+[256] [257 <../24/CH41/EX41.3/Example41_3a.jpg>])
+(../24/CH41/EX41.5/Example41_5.sce) (../24/CH41/EX41.6/Example41_6.sce [258])
+[259]
 Chapter 42.
-(../24/CH42/EX42.1/Example42_1.sce) (../24/CH42/EX42.2/Example42_2.sce [255])
-(../24/CH42/EX42.3/Example42_3.sce) [256] (../24/CH42/EX42.4/Example42_4.sce)
-(../24/CH42/EX42.5/Example42_5.sce [257]) (../24/CH42/EX42.6/Example42_6.sce)
-[258] (../24/CH42/EX42.7/Example42_7.sce) [259]
+(../24/CH42/EX42.1/Example42_1.sce) (../24/CH42/EX42.2/Example42_2.sce [260])
+(../24/CH42/EX42.3/Example42_3.sce) [261] (../24/CH42/EX42.4/Example42_4.sce)
+(../24/CH42/EX42.5/Example42_5.sce [262]) (../24/CH42/EX42.6/Example42_6.sce)
+[263] (../24/CH42/EX42.7/Example42_7.sce) [264]
 Chapter 43.
-(../24/CH43/EX43.1/Example43_1.sce) [260] (../24/CH43/EX43.2/Example43_2.sce)
-(../24/CH43/EX43.3/Example43_3.sce) [261] (../24/CH43/EX43.4/Example43_4.sce)
-(../24/CH43/EX43.5/Example43_5.sce) [262] (../24/CH43/EX43.6/Example43_6.sce)
-[263] (../24/CH43/EX43.7/Example43_7.sce) (../24/CH43/EX43.8/Example43_8.sce)
-[264] (../24/CH43/EX43.9/Example43_9.sce) (../24/CH43/EX43.10/Example43_10.sce
-[265]) [266]
+(../24/CH43/EX43.1/Example43_1.sce) [265] (../24/CH43/EX43.2/Example43_2.sce)
+(../24/CH43/EX43.3/Example43_3.sce) [266] (../24/CH43/EX43.4/Example43_4.sce)
+(../24/CH43/EX43.5/Example43_5.sce) [267] (../24/CH43/EX43.6/Example43_6.sce)
+[268] (../24/CH43/EX43.7/Example43_7.sce) (../24/CH43/EX43.8/Example43_8.sce)
+[269] (../24/CH43/EX43.9/Example43_9.sce) (../24/CH43/EX43.10/Example43_10.sce
+[270]) [271]
 Chapter 44.
-(../24/CH44/EX44.1/Example44_1.sce) (../24/CH44/EX44.2/Example44_2.sce [267]
-[268]) (../24/CH44/EX44.3/Example44_3.sce) (../24/CH44/EX44.4/Example44_4.sce
-[269]) (../24/CH44/EX44.5/Example44_5.sce) [270]
-(../24/CH44/EX44.6/Example44_6.sce) [271]
+(../24/CH44/EX44.1/Example44_1.sce) (../24/CH44/EX44.2/Example44_2.sce [272]
+[273]) (../24/CH44/EX44.3/Example44_3.sce) (../24/CH44/EX44.4/Example44_4.sce
+[274]) (../24/CH44/EX44.5/Example44_5.sce) [275]
+(../24/CH44/EX44.6/Example44_6.sce) [276]
 Chapter 45.
-(../24/CH45/EX45.1/Example45_1.sce [272]) (../24/CH45/EX45.2/Example45_2.sce)
-(../24/CH45/EX45.3/Example45_3.sce [273]) (../24/CH45/EX45.6/Example45_6.sce)
-[274] (../24/CH45/EX45.7/Example45_7.sce) [275] (../24/DEPENDENCIES/quantum.sci
+(../24/CH45/EX45.1/Example45_1.sce [277]) (../24/CH45/EX45.2/Example45_2.sce)
+(../24/CH45/EX45.3/Example45_3.sce [278]) (../24/CH45/EX45.6/Example45_6.sce)
+[279] (../24/CH45/EX45.7/Example45_7.sce) [280] (../24/DEPENDENCIES/quantum.sci
 )
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3890 \tcaption {degree_rad}{degree_
+l.3960 \tcaption {degree_rad}{degree_
                                      rad}
 ! Extra }, or forgotten $.
-l.3890 \tcaption {degree_rad}{degree_rad}
+l.3960 \tcaption {degree_rad}{degree_rad}
                                          
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+l.3961 ...sting{../24/DEPENDENCIES/degree_rad.sci}
                                                   
 ! Missing } inserted.
 <inserted text> 
                 }
-l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+l.3961 ...sting{../24/DEPENDENCIES/degree_rad.sci}
                                                   
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+l.3961 ...sting{../24/DEPENDENCIES/degree_rad.sci}
                                                   
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+l.3961 ...sting{../24/DEPENDENCIES/degree_rad.sci}
                                                   
-[276]
+[281]
 ! Undefined control sequence.
 \lst@GetLineInterval ...r \lst@GLI \lst@linerange 
                                                   \@nil 
-l.3891 ...sting{../24/DEPENDENCIES/degree_rad.sci}
+l.3961 ...sting{../24/DEPENDENCIES/degree_rad.sci}
                                                   
 Runaway argument?
 \@nil \lst@ifsensitive \else \let \lst@KeywordTest \lst@KEYWORDTEST \let \ETC.
 ! Paragraph ended before \lst@GLI was complete.
 <to be read again> 
                    \par 
-l.3893 
+l.3963 
        
 (../24/DEPENDENCIES/Gravitation.sci) (../24/DEPENDENCIES/electrostatics.sci
 ! TeX capacity exceeded, sorry [grouping levels=255].

@@ -1,4 +1,5 @@
-//Calucate the number of oxygen molecules
+
+//Calculate the number of oxygen molecules
 //Example 2.1
 
 clc;

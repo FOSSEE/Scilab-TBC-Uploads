@@ -21,6 +21,6 @@ C=1/(omega*reactance_C)
 
 mprintf("(i)Impedance = %2.1f ohm\n",Z) //The answer varies due to round off error
 mprintf("(ii)Current = %1.2f A\n",I) //The answers varies due to round off error
-mprintf("(iii)Power Factor = %1.2f (Lead)\n",pf)
+mprintf("(iii)Power Factor = %1.2f (lag)\n",pf)
 mprintf("(iv)Power Consumed = %d W\n",P) //The provided in the textbook is wrong.
-mprintf("(v)The value of capacitance is = %f F or 169 micro-F\n",C)
+mprintf("(v)The value of capacitance is = %d mF\n",C/10^-6)//The answers varies due to round off error

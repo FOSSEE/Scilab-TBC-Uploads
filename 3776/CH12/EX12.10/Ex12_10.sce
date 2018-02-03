@@ -1,7 +1,7 @@
 clear
 //Given
-A_1 = 0.125         //in2 , The area of the crossection of AB
-A_2 = 0.219         //in2 , The area of the crossection of BC
+A_1 = 0.125         //sq.in , The area of the crossection of AB
+A_2 = 0.219         //sq.in , The area of the crossection of BC
 l_1 = 3*(5**0.5)    //in , The length of AB
 l_2 = 6*(2**0.5)    //in , The length of BC
 p = 3               //k , Force acting on the system 

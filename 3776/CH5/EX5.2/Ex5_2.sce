@@ -2,8 +2,8 @@ clear
 //Given   
 P_Max  = 10   //N - the maximum distribution in a triangular distribution
 L = 3         //mt the total length of force distribution 
-L_X = 5       //mt - the horizantal length of the rod
-//caliculations 
+L_X = 5       //mt - the horizontal length of the rod
+//calculations 
 
 F_y = P_Max*L*0.5 //N - The force due to triangular distribition 
 L_com  = 2*L /3   //mt - the resultant force acting as a result of distribution acting position 

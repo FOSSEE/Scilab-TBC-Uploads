@@ -1,5 +1,5 @@
 clear
-// Variable declartion
+// Variable declaration
 t=225// The wall thickness in mm
 k=0.60// Thermal conductivity in W/(m K)
 L=10// Length in m

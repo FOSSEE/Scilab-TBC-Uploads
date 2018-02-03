@@ -5,9 +5,9 @@ l_cd = 1500 //mm - length of rod cd
 p_ob = 100  //kN - Force in rods 
 p_bc = -150 //KN
 p_cd = 50   //KN 
-A_ob = 1000 //mm2 - Area of rod ob
-A_bc = 2000 //mm2 - Area of rod bc 
-A_cd = 1000 //mm2 - Area of rod cd
+A_ob = 1000 //sq.mm - Area of rod ob
+A_bc = 2000 //sq.mm - Area of rod bc 
+A_cd = 1000 //sq.mm - Area of rod cd
 E = 200.0 //GPA 
 // the total deflection is algebraic sums of `deflection in each module 
 e_1 = p_ob*l_ob/(A_ob*E)

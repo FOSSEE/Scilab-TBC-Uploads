@@ -8,7 +8,7 @@ k=0 //lattice parameter for y axis
 l=0 //lattice parameter for z axis
 
 //calculations
-sin_square_theta=sind(theta)^2
+sin_square_theta=sind(theta)^2 //angle in degrees
 alpha=(lambda/2)*((h^2+k^2+l^2)/sqrt(sin_square_theta))
 
-mprintf("alpha = %d pm",ceil(alpha))
+mprintf("The lattice constant is alpha = %d pm",ceil(alpha))

@@ -20,3 +20,4 @@ v_2=v_1;// m^3/kg
 u_2=((0.6203-0.6181)/(0.6181-0.5601))*(3661-3476);// kJ/kg
 Q=m*(u_2-u_1);// kJ
 printf("\nThe heat transfer,Q=%4.0f kJ",Q);
+// The answer provided in the textbook is wrong

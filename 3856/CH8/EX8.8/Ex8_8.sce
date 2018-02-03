@@ -1,3 +1,4 @@
+
 //Write Expression for the activities of Pottasium Chloride Sodium Chromate and Aluminium sulphate 
 
 //Example 8.8
@@ -12,11 +13,11 @@ vneg1=1;  //Number of anion of KCl
 
 v1=vpos1+vneg1;  //Total number of ions of KCl
 
-m1=(1*vpos1*1*vneg1)^1/v1;  //Mean ionic molality of KCl 
+m1=(1*vpos1+1*vneg1)*(1/v1);  //Mean ionic molality of KCl 
 
 a1=m1; //Mean ionic activity ofelectrolyte 
 
-printf("mu KCl = ",a1);
+printf("mu KCl = %f ",a1);
 
 printf("(m^%.1f)",v1);
 

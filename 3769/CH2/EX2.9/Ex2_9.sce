@@ -1,3 +1,4 @@
+
 clear
 //Given
 m=9*10**9
@@ -9,4 +10,4 @@ F=58.8*10**-3
 q2=F*r**2/(q1*m)
 
 //Result
-printf("\n Charge is  %0.3f  C", q2)
+printf("\n Charge is  %e  C", q2)

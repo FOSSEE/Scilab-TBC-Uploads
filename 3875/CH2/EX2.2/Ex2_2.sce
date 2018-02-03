@@ -19,21 +19,21 @@ c_Audience=0.4367
 
 
 
-//calcultion 
-Absorption_plastered_wall=Area_plastered_wall*c_plastered_wall //in m^2 sabine
-Absorption_wooden_floor=Area_woodem_floor*c_woodem_floor //in m^2 sabine
-Absorption_plastered_ceiling=Area_plastered_ceiling*c_plastered_ceiling //in m^2 sabine
-Absorption_wooden_doors=Area_wooden_doors*c_wooden_doors //in m^2 sabine
-Absorption_cushioned_chairs=Area_cushioned_chairs*c_cushioned_chairs //in m^2 sabine
-Total_absorption1 = Absorption_plastered_wall+Absorption_wooden_floor+Absorption_plastered_ceiling+Absorption_wooden_doors+Absorption_cushioned_chairs //in m^2 sabine
+//calculation 
+Abs_plastered_wall=Area_plastered_wall*c_plastered_wall //in m^2 sabine
+Abs_wooden_floor=Area_woodem_floor*c_woodem_floor //in m^2 sabine
+Abs_plastered_ceiling=Area_plastered_ceiling*c_plastered_ceiling //in m^2 sabine
+Abs_wooden_doors=Area_wooden_doors*c_wooden_doors //in m^2 sabine
+Abs_cushioned_chairs=Area_cushioned_chairs*c_cushioned_chairs //in m^2 sabine
+Total_absorption1 = Abs_plastered_wall+Abs_wooden_floor+Abs_plastered_ceiling+Abs_wooden_doors+Abs_cushioned_chairs //in m^2 sabine
 
 //Case (i)
 T1=(0.162*V)/Total_absorption1
 
 //case (ii)
-Absorption_Audience=Area_Audience*c_Audience //in m^2 sabine when hall at full capacity 
-Total_absorption2 = Absorption_plastered_wall+Absorption_wooden_floor+Absorption_plastered_ceiling+Absorption_wooden_doors+Absorption_cushioned_chairs+Absorption_Audience //in m^2 sabine
+Abs_Audience=Area_Audience*c_Audience //in m^2 sabine when hall at full capacity 
+Total_absorption2 = Abs_plastered_wall+Abs_wooden_floor+Abs_plastered_ceiling+Abs_wooden_doors+Abs_cushioned_chairs+Abs_Audience //in m^2 sabine
 T2=(0.162*V)/Total_absorption2
 
-mprintf("Reveberation time when hall empty = %1.2f s\n",T1)
-mprintf("Reveberation time when hall at full capacity = %1.2f s",T2) //The answer provided in the textbook is wrong
+mprintf("Reverbertion time when hall empty = %1.2f s\n",T1)
+mprintf("Reverbertion time when hall at full capacity = %1.2f s",T2) //The answer provided in the textbook is wrong

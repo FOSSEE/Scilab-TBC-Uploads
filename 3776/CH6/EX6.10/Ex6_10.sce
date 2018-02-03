@@ -3,7 +3,7 @@ clear
 l = 50.0    //mm - the length of the beam 
 b =  50.0   //mm - the width of the beam
 M  = 2083   //Nm
-A = l*b     //mm2 - The area 
+A = l*b     //sq.mm - The area 
 //straight beam 
 I = b*(l**3)/12.0 //mm4 - The moment of inertia of the beam
 c_1= l/2          // the distance where the stress is maximum 

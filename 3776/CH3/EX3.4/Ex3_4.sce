@@ -3,10 +3,10 @@ clear
 R = 1000             //mm - radius of the cylinder
 th = 10              //mm - thickness of the cylinder
 E = 200              //Mpa- youngs modulus 
-v = 0.25             // poission ratio
+v = 0.25             // Poisson ratio
 p_in = 0.80          //Mpa- Internal pressure
 t =  10               //mm - thickness of the cylinder
-//caliculations
+//calculations
 
 Stress_1 = p_in*R/(2*t) //MPa -Hoop stress                    //From derived expressions 
 Stress_2 = p_in*R/(2*t) //Mpa- Longitudinal stress

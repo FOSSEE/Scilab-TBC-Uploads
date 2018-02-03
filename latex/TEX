@@ -28,9 +28,79 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means a sc
 \vspace*{3cm}
 \tableofcontents
 \listofcode
+\curlable{AP~4}
+\begin{code}
+\label{AP:284}
+\tcaption {electrostatic}{electrostatic}
+\lstinputlisting{../24/DEPENDENCIES/electrostatics.sci}
+\end{code}
+
+\curlable{AP~5}
+\begin{code}
+\label{AP:283}
+\tcaption {Example 17-1}{Example 17-1}
+\lstinputlisting{../24/DEPENDENCIES/Example17_1.sce}
+\end{code}
+
+\curlable{AP~6}
+\begin{code}
+\label{AP:282}
+\tcaption {Bernauli's Equation}{Bernauli's Equation}
+\lstinputlisting{../24/DEPENDENCIES/Bernauli.sci}
+\end{code}
+
+\curlable{AP~7}
+\begin{code}
+\label{AP:277}
+\tcaption {Cross Product}{Cross Product}
+\lstinputlisting{../24/DEPENDENCIES/cross_product.sci}
+\end{code}
+
+\curlable{AP~8}
+\begin{code}
+\label{AP:281}
+\tcaption {Example 11-7}{Example 11-7}
+\lstinputlisting{../24/DEPENDENCIES/Example11_7.sce}
+\end{code}
+
 \newpage
+\curlable{AP~9}
+\begin{code}
+\label{AP:280}
+\tcaption {collision}{collision}
+\lstinputlisting{../24/DEPENDENCIES/collision.sci}
+\end{code}
+
 \vspace*{3cm}
 \listoffigures
+\curlable{AP~10}
+\begin{code}
+\label{AP:279}
+\tcaption {Example 4-3}{Example 4-3}
+\lstinputlisting{../24/DEPENDENCIES/Example4_3.sce}
+\end{code}
+
+\curlable{AP~11}
+\begin{code}
+\label{AP:278}
+\tcaption {Example 4-2a}{Example 4-2a}
+\lstinputlisting{../24/DEPENDENCIES/Example4_2a.sce}
+\end{code}
+
+\curlable{AP~12}
+\begin{code}
+\label{AP:276}
+\tcaption {Example 2-1b}{Example 2-1b}
+\lstinputlisting{../24/DEPENDENCIES/Example2_1b.sce}
+\end{code}
+
+\curlable{AP~13}
+\begin{code}
+\label{AP:275}
+\tcaption {Example 2-1a}{Example 2-1a}
+\lstinputlisting{../24/DEPENDENCIES/Example2_1a.sce}
+\end{code}
+
 \chapter{Measurement}
 
 \vspace*{10mm}

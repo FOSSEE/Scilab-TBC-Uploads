@@ -1,1 +1,1 @@
- Total absorption in hall = 1012.5 m^2 sabine
+Total absorption in hall = 1012.5 sq-m sabine

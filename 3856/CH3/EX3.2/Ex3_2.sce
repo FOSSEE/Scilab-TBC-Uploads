@@ -1,3 +1,4 @@
+
 //Calculate the Collision frequency Binary Collision Number and Mean free path of Nitrogen
 
 //Example 3.2 
@@ -28,5 +29,5 @@ printf("\nBinary collision number = %.1f*10^28 collisions cm^-3 s^-1",Z11*10^-28
 
 lambda=Cbar/Z1; //Mean free path of Nitrogen in A/collision
 
-printf("\nMean free path of Nirogen = %.0f* A/collision",lambda*10^8);
+printf("\nMean free path of Nitrogen = %.0f* A/collision",lambda*10^8);
 

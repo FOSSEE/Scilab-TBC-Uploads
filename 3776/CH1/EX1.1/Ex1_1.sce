@@ -11,7 +11,7 @@ BC = 1.0    //m
 CF = 2.5    //m
 contact_area = 200*200  // sq.mm , The contact area at c
 
-//caliculations 
+//calculations 
 //Balancing forces in the x direction:
 // Balncing the moments about C and B:
 Fx = 0 

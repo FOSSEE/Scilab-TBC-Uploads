@@ -10,8 +10,8 @@ l_cd = 300 //mm - length of cd
 l_de = 500.0 //mm - length of de
 d_1 = 25 //mm - outer diameter 
 d_2 = 50 //mm - inner diameter
-G = 80 //Gpa -shear modulus
-//Caliculations 
+G = 80 //GPa -shear modulus
+//calculations 
 
 J_ab = 3.14*(d_1**4)/32           //mm4
 J_bc = 3.14*(d_1**4)/32           //mm4

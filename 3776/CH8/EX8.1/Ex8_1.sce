@@ -3,9 +3,9 @@ clear
 //
 //
 o = 22.5     //degrees , The angle of infetisimal wedge 
-A = 1        //mm2 The area of the element 
-A_ab = 1*(cos((%pi/180)*(o))) //mm2 - The area corresponds to AB
-A_bc = 1*(sin((%pi/180)*(o))) //mm2 - The area corresponds to BC
+A = 1        //sq.mm The area of the element 
+A_ab = 1*(cos((%pi/180)*(o))) //sq.mm - The area corresponds to AB
+A_bc = 1*(sin((%pi/180)*(o))) //sq.mm - The area corresponds to BC
 S_1 = 3 //MN The stresses applying on the element 
 S_2 = 2 //MN
 S_3 = 2 //MN

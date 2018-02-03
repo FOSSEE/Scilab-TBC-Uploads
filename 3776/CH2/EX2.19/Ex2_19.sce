@@ -3,8 +3,8 @@ clear
 l = 30 //in - The length of the rod
 p_1 = 80 //kips - The Force on the end
 p_2  = 125 //kips - The force on the other end
-A_s = 0.5 //in2 - The crossection of the steel rod
-A_a = 0.5 //in2 - The crossection of the aluminium 
+A_s = 0.5 //sq.in - The crossection of the steel rod
+A_a = 0.5 //sq.in - The crossection of the aluminium 
 E_a = 10*(10**6) //psi - The youngs modulus of the aluminium 
 E_s = 30*(10**6) //psi - The youngs modulus of the steel
 //Internally stastically indeterminant 

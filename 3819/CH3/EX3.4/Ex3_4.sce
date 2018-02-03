@@ -7,11 +7,11 @@ d=3
 A=%pi*d^2/4
 h=4
 g=9.81
-
+dens=1000
 //Calculations
 //1)Force on disc
 F=dens*g*A*h
-mprintf("The force on the disc is %f kN\n",10^-3*F)
+mprintf("The Force on the disc is %f kN\n",10^-3*F)
 
 //2)Torque required
 IG=%pi/64*d^4

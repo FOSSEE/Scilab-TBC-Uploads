@@ -12,5 +12,5 @@ d_400=(lambda/(2*sind(theta))) //interplanar distance in nm
 alpha=d_400*(sqrt(h^2+k^2+l^2)) 
 
 mprintf("The crystal structure is bcc due to corresponding (hkl) values\n")
-mprintf("lattice constant of peak no.1 is (110)\n")
+mprintf("lattice constant of peak no.1 is (%d%d%d)\n",h,k,l)
 mprintf("The element is tungsten since this lattice constant of %0.4f nm and crystallizes in the bcc structure",alpha) //The answer provided in the textbook is wrong

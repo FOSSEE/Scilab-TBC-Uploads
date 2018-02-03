@@ -95,7 +95,7 @@ while IFS=# read col1 col2 col3 col4 col5 col6 col7 col8 col9; do
 	        if grep -c ".jpg\|.JPEG\|.png\|.PNG\|.jpeg\|.JPG" $CURDIR/Code_Result_files
 	        then
 	            echo \\newpage >> $CURDIR/TEX
-                echo \\vspace*{3cm}>>$CURDIR/TEX
+	            echo \\vspace*{3cm}>>$CURDIR/TEX
 		        echo \\listoffigures >> $CURDIR/TEX
 		        full_flag=1
 	        fi

@@ -11,7 +11,7 @@ l_ab = 2.5           //mt - The length of the rod
 l_bc = 2             //mt - The length of the rod
 A_ab = 5*(10**-4)    //mt2 the areaof ab
 A_bc = 5*(10**-3)    //mt2 the areaof bc
-E = 70 //Gpa The youngs modulus of the material
+E = 70 //GPa The youngs modulus of the material
 e_a =(p_ab*l_ab*F_ab/(A_ab*E) + p_bc*l_bc*F_bc/(A_bc*E))*(10**-6) //KN-m
 //Part -2 due to flexure
 I = 60*10**6    //mm4 - the moment of inertia 

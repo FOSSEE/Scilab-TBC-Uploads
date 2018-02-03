@@ -1,3 +1,4 @@
+
 clear
 //Given
 d=5
@@ -8,4 +9,4 @@ K=3.0
 D=d+(t-t/K)
 
 //Result
-printf("\n New seperaion between the plates are  %0.2f  mm",D)
+printf("\n New separation between the plates are  %0.2f  mm",D)

@@ -6,8 +6,8 @@ d1=4.05*10^-3 //distance between two images of the slit in m in first case
 d2=2.90*10^-3 //distance between two images of the slit in m in second case
 
 //calculation
-d=sqrt(d1*d2)
-disp(d)
+d=sqrt(d1*d2) //distance between the slits in m
 Beta=(lambda*D)/d 
 
 mprintf("The distance between interference fringes is %1.2e m",Beta)
+//The answer provided in the textbook is wrong.

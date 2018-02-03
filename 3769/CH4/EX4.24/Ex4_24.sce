@@ -1,3 +1,4 @@
+
 clear
 //Given
 K=5
@@ -13,4 +14,4 @@ C=(K*l*c)/(41.1*log10(b/a))
 
 //Result
 printf("\n (i) The capacitance of cylindrical capacitor is  %0.1f *10**-9 F",C*10**9)
-printf("\n (ii) The potential of the inner cylinder is equal to p.d. between two cylinders i.e potentila of inner cylinder is %0.3f  V",pd)
+printf("\n (ii) The potential of the inner cylinder is equal to p.d. between two cylinders i.e potential of inner cylinder is %0.3f  V",pd)

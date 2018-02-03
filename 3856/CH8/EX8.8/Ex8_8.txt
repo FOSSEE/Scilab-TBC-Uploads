@@ -1,3 +1,4 @@
- mu KCl = (m^2.0)*(gamma^2.0)
+
+ mu KCl = 1.000 (m^2.0)*(gamma^2.0)
 mu Na2CrO4 = 4*(m^3.000000)*(gamma^3.0)
 mu Al2(SO4)3 = 108*(m^5.0)*(gamma^5.0)

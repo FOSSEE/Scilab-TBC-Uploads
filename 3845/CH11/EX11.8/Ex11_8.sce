@@ -10,7 +10,7 @@ w_w=m_w*g;//Weight of water displaced (N)
 F_B=w_w;//Buoyant force (N)
 printf('a.Buoyant force = %0.1e N',F_B)
 
-V_w1=1*10^5;//Volume of water displaced
+V_w1=1*10^5;//Volume of water displaced (m^3)
 m_w1=rho_w*V_w1;//Mass of water displaced (kg)
 w_w1=m_w1*g;//Weight of water displaced (N)
 F_B1=w_w1;//Buoyant force (N)

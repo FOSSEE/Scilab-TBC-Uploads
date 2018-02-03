@@ -13,7 +13,7 @@ c_floor=0.06 //Value given in the sum is wrong which is 0.60
 c_seat=0.64
 
 
-//calcultion
+//calculation
 A1=2*((b*h)+(l*h))*c_wall //in m^2
 A2=(l*b)*c_ceiling //in m^2
 A3=(l*b)*c_floor //in m^2

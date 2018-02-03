@@ -1,5 +1,0 @@
-w=120//lb(weight of body)
-a=2//ft^2(area of the body)
-v=0.002//lb.s/ft^2(viscosity of fluid)
-u=3//ft/s(speed of the body)
-t=30//degree(angle of inclined plane with the horizontal surface)

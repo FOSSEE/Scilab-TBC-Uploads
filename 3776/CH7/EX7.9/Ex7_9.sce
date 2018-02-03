@@ -2,8 +2,8 @@ clear
 //Given
 dia = 15      //mm - The diameter of the rod
 h = 0.5       //mt - The freely falling height 
-A = 3.14*(dia**2)/4 //mm2 The area of the crossection
-E = 200             //Gpa -Youngs modulus
+A = 3.14*(dia**2)/4 //sq.mm The area of the crossection
+E = 200             //GPa -Youngs modulus
 L = 750             //mm - The total length of the rod
 G = 80              //gpa - Shear modulus 
 N = 10              //number of live coils

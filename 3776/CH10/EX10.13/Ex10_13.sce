@@ -6,7 +6,7 @@ m = 15.3           // mass of the falling body
 h = 75.0           //mm - The height of the falling body 
 p = m*9.81         //N the force acted due to the body
 L = 1000.0         //mm The length of the cantilever
-E = 200  //Gpa The youngs modulus of the material used 
+E = 200  //GPa The youngs modulus of the material used 
 I = (l**4)/12 //mm - the moment of inertia 
 k = 300 //N/mm -the stiffness of the spring 
 //Rigid supports 

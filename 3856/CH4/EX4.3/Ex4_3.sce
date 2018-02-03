@@ -1,3 +1,4 @@
+
 //Calculate the value of change in Internal energy and change in Enthalpy for the combution of Benzoic acid 
 
 //Example 4.3
@@ -20,7 +21,7 @@ m=0.4089;  //Mass of sample of Benzoic acid in g
 
 delU=-(C*delT*M)/(m*1000);  //Change in Enternal enegy in kJ mol^-1
 
-printf("Change in Enternal energy = %.0f kJ mol^-1",delU);(The answer vary due to round off error)
+printf("Change in Internal energy = %.0f kJ mol^-1",delU);//(The answer vary due to round off error)
 
 R=8.314;  //Gas constant in J K^-1 mol^-1
 

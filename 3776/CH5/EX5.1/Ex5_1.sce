@@ -7,7 +7,7 @@ R_1 = 100   //N - The Force acting
 l_2 = 0.2   //mt -R_1 acting point the distance from 'a'
 R_2 = 160   //N The Force acting 
 l_3 = 0.3   //mt -R_2 acting point the distance from 'a'
-//caliculations
+//calculations
 
 //F_X = 0 forces in x directions 
 R_A_X = 0   // since there are no forces in X-direction 

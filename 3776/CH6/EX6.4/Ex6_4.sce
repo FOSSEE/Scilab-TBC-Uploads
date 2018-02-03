@@ -5,7 +5,7 @@ b = 300    //mm - breath
 F = 20     //KN _ the force applied on the beam 
 F_d = 0.75 //KN-m - The force distribution 
 d = 2      //mt - the point of interest from the free end
-//caliculations 
+//calculations 
 //From moment diagram
 M = F*d - F_d*d*1
 I = b*(l**3)/12 //mm4 - Bending moment diagram 
