@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_1.sce', -1)
+Magnitude of forces are :-
+ F1=100 N
+ F2=200 N
+Angle between the forces is :-
+ theta=63.9 degree

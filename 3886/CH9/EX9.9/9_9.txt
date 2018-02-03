@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\9. Centroid and moment of inertia\9.9.sce', -1)
+
+Ixx=6372442.56 mm^4
+Iyy=2824166.67 mm^4
+kxx=46.88 mm
+kyy=31.21 mm

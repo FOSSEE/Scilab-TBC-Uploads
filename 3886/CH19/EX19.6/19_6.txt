@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\19. Circular motion of rigid bodies\19.6.sce', -1)
+
+e=59.466 mm
+F=27.513 kN

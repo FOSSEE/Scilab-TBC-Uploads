@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\20. Rotation of rigid bodies\20.7.sce', -1)
+
+Retarding torque acting on the flywheel Tr=533.639 N-m
+Change in K.E.=2569094.975 N-m
+Change in its angular momentum=64046.891 N-sec

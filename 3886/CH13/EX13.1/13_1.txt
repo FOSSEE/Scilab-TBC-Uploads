@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.1.sce', -1)
+Bomb should be released at 3365.46 m from the target

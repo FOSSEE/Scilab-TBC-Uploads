@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\19. Circular motion of rigid bodies\19.4.sce', -1)
+
+On level road v=12.528 m/sec
+On a road banked v=14.296 m/sec
+If lateral forces are not to be experienced v=6.264 m/sec

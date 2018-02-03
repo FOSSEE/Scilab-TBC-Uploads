@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.6.sce', -1)
+Angle of projection=20.905 degree
+--> 

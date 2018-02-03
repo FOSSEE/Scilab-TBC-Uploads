@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\14.Relative velocity\14.7.sce', -1)
+
+t=1.18 hours
+A has moved in east by da=17.76 km
+B has moved in N 45 degree W a distance db=29.59 km

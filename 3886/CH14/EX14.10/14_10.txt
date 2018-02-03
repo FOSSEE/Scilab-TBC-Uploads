@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\14.Relative velocity\14.10.sce', -1)
+
+vr=20.05 m/sec
+alpha=4.16 degree

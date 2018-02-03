@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\20. Rotation of rigid bodies\20.11.sce', -1)
+
+VA=300.000 N
+HA=264.891 N

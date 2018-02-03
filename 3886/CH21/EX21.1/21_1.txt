@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\21. Mechanical vibration\21.1.sce', -1)
+
+T=1.257 sec
+f=0.796 osc. per second

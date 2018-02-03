@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\8. Virtual work\8.15.sce', -1)
+
+P=57.74 N
+T=76.98 N

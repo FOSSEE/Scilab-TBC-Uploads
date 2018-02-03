@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\5. Friction\5.16.sce', -1)
+
+ The required force is P=274.0 N

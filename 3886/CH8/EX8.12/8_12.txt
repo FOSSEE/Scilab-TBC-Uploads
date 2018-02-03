@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\8. Virtual work\8.12.sce', -1)
+Thus theta=52.41 degree

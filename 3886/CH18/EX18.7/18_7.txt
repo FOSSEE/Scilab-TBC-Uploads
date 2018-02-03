@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.7.sce', -1)
+
+v1=6.253 m/sec
+Inclination to the plane=71.480 degree

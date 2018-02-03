@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\8. Virtual work\8.11.sce', -1)
+Block is in equilibrium for P=837.09 N to 1042.30 N

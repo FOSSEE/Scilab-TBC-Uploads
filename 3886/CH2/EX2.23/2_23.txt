@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_23.sce', -1)
+P=1071.8 N is required to hold the system in given position.

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\15. DAlemberts principle\15.3.sce', -1)
+
+t=5.14 sec
+mu=0.385 

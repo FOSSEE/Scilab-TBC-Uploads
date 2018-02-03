@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_18.sce', -1)
+Required values:-
+VA=105.00 kN
+HA=0.00 kN
+MA=180.00 kN-m

@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\7. Transmission of power\7.9.sce', -1)
+
+T1=102 
+T2=34 
+l=544 mm

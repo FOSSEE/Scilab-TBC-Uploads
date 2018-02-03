@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\15. DAlemberts principle\15.2.sce', -1)
+
+T=7138.61 N
+R=498.04 N

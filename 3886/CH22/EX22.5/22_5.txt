@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\22.General plane motion of rigid bodies\22.5.sce', -1)
+
+vD=7.74 m/sec
+theta=11.16 degree

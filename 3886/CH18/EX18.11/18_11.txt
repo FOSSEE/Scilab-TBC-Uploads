@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.11.sce', -1)
+
+e=0.913 
+h2=0.815 m 
+D2=0.361 m 

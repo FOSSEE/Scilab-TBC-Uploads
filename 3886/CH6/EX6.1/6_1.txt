@@ -1,0 +1,10 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.1.sce', -1)
+
+Mechanical advantage=20
+Velocity ratio=25
+Efficiency=80 percent
+Ideal effort=400 N
+Effort lost in friction=100 N
+Ideal load=12500 N
+Frictional resistance=2500 N

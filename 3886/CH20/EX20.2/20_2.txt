@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\20. Rotation of rigid bodies\20.2.sce', -1)
+
+omega=74.000 rad/sec
+Number of revolution=28.648 

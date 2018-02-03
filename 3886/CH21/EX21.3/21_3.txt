@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\21. Mechanical vibration\21.3.sce', -1)
+
+x=0.375 m
+vx=-3.401 m/sec
+ax=10.28 

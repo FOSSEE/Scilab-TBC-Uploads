@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.5.sce', -1)
+Since the efficiency eta=46 percent is less than 50 percent,it is a self locking machine
+Ideal load=10800 N
+Frictional resistance=5800 N

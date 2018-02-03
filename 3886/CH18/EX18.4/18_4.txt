@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.4.sce', -1)
+
+Coefficient of restitution=0.900 
+Expected height of second bounce h2=0.6518 m

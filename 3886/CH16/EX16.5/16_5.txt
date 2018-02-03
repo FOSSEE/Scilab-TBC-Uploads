@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\16. Work energy method\16.5.sce', -1)
+On level track Input Power=4.167 kW
+Up the plane Input Power=6.944 kW
+Down the incline plane Input Power=1.389 kW

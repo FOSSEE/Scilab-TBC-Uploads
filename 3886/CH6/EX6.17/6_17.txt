@@ -1,0 +1,9 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.17.sce', -1)
+
+VR=120
+P=0.01*W+70
+In first case
+eta=25.00 percent
+In second case
+eta=46.88 percent

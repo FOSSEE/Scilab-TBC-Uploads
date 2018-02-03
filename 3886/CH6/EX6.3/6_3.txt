@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.3.sce', -1)
+
+Mechanical advantage=51.33
+Velocity ratio=85.56
+Efficiency=61.71 percent
+Maximum mechanical advantage=55.00
+Maxumum efficiency=64.29 percent

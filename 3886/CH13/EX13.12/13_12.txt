@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.12.sce', -1)
+
+alpha=63.43 degree
+v=44.29 m/sec
+theta=45.00 degree
+v=44.29 m/sec
+theta=71.56 degree to horizontal

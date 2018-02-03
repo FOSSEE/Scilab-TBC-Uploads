@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_19.sce', -1)
+The reactions are:-
+RA=44.44 kN
+RB=115.56 kN

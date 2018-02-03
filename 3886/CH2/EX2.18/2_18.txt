@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_18.sce', -1)
+
+The required values are:-
+T1=44.80 kN
+T2=29.24 kN
+T3=25.04 kN

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\14.Relative velocity\14.2.sce', -1)
+
+Length is 200.00 m
+Speed is 43.20 km/h

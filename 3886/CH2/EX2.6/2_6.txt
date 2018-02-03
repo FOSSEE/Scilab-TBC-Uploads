@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_6.sce', -1)
+The resultant has magnitude R=234 N directed up the plane

@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_16.sce', -1)
+The tension is:-
+T=374.0 N

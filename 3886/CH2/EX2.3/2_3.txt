@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_3.sce', -1)
+The normal and parallel components respectively are :-
+ Wn=9.40 kN
+ Wp=3.42 kN

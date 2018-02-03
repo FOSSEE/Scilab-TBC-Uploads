@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_26.sce', -1)
+The required distance is x=5 m

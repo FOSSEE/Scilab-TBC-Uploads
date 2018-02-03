@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\5. Friction\5.2.sce', -1)
+Required value is
+theta=29 degree

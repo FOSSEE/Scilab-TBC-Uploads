@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.12.sce', -1)
+
+Velocity of boat and man will be 0.120 m/sec towards the pier

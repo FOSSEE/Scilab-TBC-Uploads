@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_13.sce', -1)
+The reactions are:-
+RD=1466.7 N
+HC=1154.7 N

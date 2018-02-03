@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\9. Centroid and moment of inertia\9.1.sce', -1)
+Centroid of T-section is on the symmetric axis at a distance of 40.00 mm from the top

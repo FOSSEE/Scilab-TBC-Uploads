@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\7. Transmission of power\7.11.sce', -1)
+
+case a
+ND=40.00 rpm
+case b
+ND=60.00 rpm

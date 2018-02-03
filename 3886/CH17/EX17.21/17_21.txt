@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.21.sce', -1)
+Resistance of the block=306.300 N

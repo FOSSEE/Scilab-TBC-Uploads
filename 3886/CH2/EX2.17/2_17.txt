@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_17.sce', -1)
+The load required to be connected at point D is W=2863.6 N

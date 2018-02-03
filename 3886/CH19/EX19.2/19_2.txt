@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\19. Circular motion of rigid bodies\19.2.sce', -1)
+
+Limiting speed v=50.42
+R1=5.612 kN
+R2=9.388 kN

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.2.sce', -1)
+
+v1=1.250 m/sec
+e=0.212 

@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\9. Centroid and moment of inertia\9.3.sce', -1)
+The centroid is on the symmetric axis at a distance of 59.71 mm from the bottom as shown in figure 9.12

@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.2.sce', -1)
+Person should jump with u=4.70 m/sec

@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\19. Circular motion of rigid bodies\19.1.sce', -1)
+
+When vehicle is at A, vertical reaction=18.855 kN
+When automobile is at B, vertical reaction=29.097 kN
+On level track at C, vertical reaction=25.000 kN 

@@ -1,0 +1,4 @@
+ The resultant of given forces :-
+R=160.2 N.
+Inclination of resultant w.r.t X-axis :-
+alpha=24.1 degree.

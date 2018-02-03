@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\16. Work energy method\16.2.sce', -1)
+
+The man needs to spend only 1.04 kJ while tipping and it is less than 1.50 kJ spent in sliding
+He should move the box by tipping

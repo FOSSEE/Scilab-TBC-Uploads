@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\20. Rotation of rigid bodies\20.5.sce', -1)
+
+Retardation is 1.964 rad/sec^2
+t=48.000 sec

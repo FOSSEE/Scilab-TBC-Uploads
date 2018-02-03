@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.6.sce', -1)
+
+vA=6.960 m/sec
+thetaA=40.280 degree
+vB=12.588 m/sec
+thetaB=55.643 degree

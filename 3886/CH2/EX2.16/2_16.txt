@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_16.sce', -1)
+
+the various forces are:-
+T1=224.1 N
+T2=183.0 N
+T3=336.6 N
+T4=326.8 N

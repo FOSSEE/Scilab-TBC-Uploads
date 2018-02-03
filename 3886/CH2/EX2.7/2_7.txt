@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_7.sce', -1)
+The third force is F=467.2 N and makes an angle of theta=61.08 degree

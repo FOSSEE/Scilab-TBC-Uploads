@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\16. Work energy method\16.7.sce', -1)
+
+v=10.474 m/sec
+s=34.950 m

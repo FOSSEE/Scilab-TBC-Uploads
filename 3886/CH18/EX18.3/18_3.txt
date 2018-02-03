@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.3.sce', -1)
+
+h1=7.992 m
+After second bounce h2=6.388 m
+After third bounce h3=5.105 m

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.4.sce', -1)
+
+On concrete road t=2.643 sec
+On ice t=24.775 sec

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_4.sce', -1)
+
+The resultant is R=161.5 N 
+The inclination of resultant w.r.t. positive x-axis is alpha=18.81 degree

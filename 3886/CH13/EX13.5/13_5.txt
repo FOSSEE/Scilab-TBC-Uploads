@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.5.sce', -1)
+
+ alpha=53.13 degree

@@ -1,0 +1,5 @@
+ 
+ The least value of W for equilibrium:-
+ W(l)=266.57 N.
+ The greatest value of W for equilibrium:-
+ W(g)=768.60 N.

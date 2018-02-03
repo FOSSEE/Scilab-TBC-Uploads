@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\5. Friction\5.6.sce', -1)
+Requiref force is
+P=3223.14 N

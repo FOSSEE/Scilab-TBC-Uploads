@@ -1,0 +1,9 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_10.sce', -1)
+The required forces are:-
+Force in member AB=120 kN
+Force in member BC=56 kN
+Force in member CD=-39 kN
+Force in member DE=-40 kN
+Force in member EB=-113 kN
+Force in member BD=40 kN

@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.12.sce', -1)
+
+t=9.52 sec
+a1=-1.26 m/sec^2
+a2=-0.95 m/sec^2
+Distance travelled by first car=57.14 m
+Distance travelled by second car=42.86 m

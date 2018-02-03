@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.18.sce', -1)
+The expression for retardation is a=-1.778*s

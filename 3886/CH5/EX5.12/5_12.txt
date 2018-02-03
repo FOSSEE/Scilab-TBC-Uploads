@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\5. Friction\5.12.sce', -1)
+
+NA=1000.00 N
+FA=250.00 N
+NB=250.00 N
+FB=100.00 N
+alpha=71.57 degree

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.13.sce', -1)
+
+When three men jump off in succession v=10.849 m/sec
+When three men jump together v=10.802 m/sec

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\14.Relative velocity\14.9.sce', -1)
+
+v=66.388 kmph
+theta=-9.89 degree

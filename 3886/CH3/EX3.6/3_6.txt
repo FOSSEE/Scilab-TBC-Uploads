@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_6.sce', -1)
+The Resultant is R=2671.2 N as shown in fig.3.15

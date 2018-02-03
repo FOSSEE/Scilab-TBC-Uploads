@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\15. DAlemberts principle\15.10.sce', -1)
+
+a=1.9620 m/sec^2
+T=360 N

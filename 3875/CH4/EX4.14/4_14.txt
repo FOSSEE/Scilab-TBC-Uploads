@@ -1,0 +1,9 @@
+ The wavelength of light for first order is = 1.20e-04 cm and it lies in the infrared region
+
+ The wavelength of light for second order is = 6.0e-05 cm and it lies in the visible region
+
+ The wavelength of light for third order is = 4.0e-05 cm and it lies in the visible region
+
+ The wavelength of light for fourth order is = 3.0e-05 cm and it lies in the ultravoilet(invisible) region
+
+The absent wavelengths in the reflected light are 6.0e-05 cm and 4.0e-05 cm

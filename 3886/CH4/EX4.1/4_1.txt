@@ -1,0 +1,9 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_1.sce', -1)
+The required forces in members are:-
+AB=120.00 kN  (Tension)
+BC=56.57 kN  (Tension)
+CD=40.00 kN  (Compression)
+DE=40.00 kN  (Compression)
+BE=113.14 kN  (Compression)
+BD=40.00 kN  (Tension)

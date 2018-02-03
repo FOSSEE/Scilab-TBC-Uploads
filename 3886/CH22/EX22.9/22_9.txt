@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\22.General plane motion of rigid bodies\22.9.sce', -1)
+
+NA=215.62 N
+NB=194.98 N
+alpha=2.52 rad/sec^2

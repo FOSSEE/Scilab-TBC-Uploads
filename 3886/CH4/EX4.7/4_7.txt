@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_7.sce', -1)
+The required forces are:-
+Member     Force
+U3U4=    456 kN (Compression)
+L3L4=    412 kN (Tension)
+U4L3=    62 kN (Tension)

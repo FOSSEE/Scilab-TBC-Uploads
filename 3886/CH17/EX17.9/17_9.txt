@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.9.sce', -1)
+Value of P is 645.740 N

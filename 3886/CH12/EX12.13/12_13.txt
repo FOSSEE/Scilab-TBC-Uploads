@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.13.sce', -1)
+the deceleration of the car is=-3.33 m/sec^2

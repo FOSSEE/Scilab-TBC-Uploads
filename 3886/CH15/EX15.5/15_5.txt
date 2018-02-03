@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\15. DAlemberts principle\15.5.sce', -1)
+
+Maximum allowable P=625.00 N and a=2.943 m/sec^2

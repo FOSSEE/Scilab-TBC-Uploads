@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\8. Virtual work\8.14.sce', -1)
+Required value of WB=336.00 N

@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_21.sce', -1)
+
+The reactions are:-
+RA=1066.7 N
+RB=1333.3 N
+RC=3066.7 N
+RD=2828.4 N

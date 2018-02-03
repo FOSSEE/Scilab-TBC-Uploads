@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.13.sce', -1)
+
+Loss of K.E.=9.185 J

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\22.General plane motion of rigid bodies\22.4.sce', -1)
+
+omega1=55.752 rad/sec
+vC=10.63 m/sec

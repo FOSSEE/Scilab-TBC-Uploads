@@ -1,0 +1,11 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_2.sce', -1)
+RD=77.50 kN
+RA=72.50 kN
+FAB=83.72 kN  (Compression)
+FAE=41.86 kN  (Tension)
+FDC=89.49 kN  (Compression)
+FDE=44.74 kN  (Tension)
+FBE=37.53 kN  (Tension)
+FBC=60.62 kN  (Compression)
+FCE=31.75 kN  (Tension)

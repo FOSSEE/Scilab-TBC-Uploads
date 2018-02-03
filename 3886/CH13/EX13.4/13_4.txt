@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.4.sce', -1)
+Angle theta below the horizontal at which the pilot must see the target while releasing the rocket is=16.576 degree

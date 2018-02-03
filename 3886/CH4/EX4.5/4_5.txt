@@ -1,0 +1,18 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_5.sce', -1)
+
+Required Forces are:-
+FGF=23.09 kN  (Tension)
+FGE=11.55 kN  (Compression)
+FFE=23.09 kN  (Compression)
+FFD=13.09 kN  (Tension)
+RE=58.17 kN
+VA=31.83 kN
+HA=10.00 kN
+FAB=36.75 kN  (Compression)
+FAC=8.37  (Tension)
+FBC=9.43 kN  (Compression)
+FBD=13.65 kN  (Compression)
+FCD=9.43 kN  (Tension)
+FCE=1.06 kN  (Compression)
+FDE=44.07 kN  (Compression)

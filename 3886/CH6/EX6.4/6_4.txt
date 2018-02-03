@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.4.sce', -1)
+
+Law of machines is P=0.06*W+10
+Maximum efficiency=66.67 percent

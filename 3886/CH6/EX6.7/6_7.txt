@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.7.sce', -1)
+The required force is P=2352.94 N

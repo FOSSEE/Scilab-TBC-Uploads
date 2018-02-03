@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.20.sce', -1)
+
+s=0.051 m

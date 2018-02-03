@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.15.sce', -1)
+
+Gun will have a velocity of 05 m/sec in the direction opposite to that of bullet
+s=0.637 m
+t=0.255 sec

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.10.sce', -1)
+
+t=3.29 sec
+s=52.96 m

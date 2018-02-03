@@ -1,0 +1,12 @@
+ 
+--> exec('E:\My program EM\22.General plane motion of rigid bodies\22.2.sce', -1)
+
+At B
+aB=26.249 m/sec^2
+theta=72.26 degree
+vB=10.000 m/sec
+At D
+vD=7.745 m/sec^2
+theta2=11.17 degree
+aD=14.261 m/sec^2
+theta3=84.28 degree

@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\22.General plane motion of rigid bodies\22.6.sce', -1)
+
+vB=1.155 m/sec

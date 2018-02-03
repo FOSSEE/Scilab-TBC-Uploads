@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\20. Rotation of rigid bodies\20.8.sce', -1)
+
+T=150.010 N
+a=7.357 m/sec^2

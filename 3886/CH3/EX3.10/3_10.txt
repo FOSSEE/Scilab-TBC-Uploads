@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_10.sce', -1)
+tension T in cable BC is T=100.38 kN.
+RA=114.543 kN
+alpha=32.17 degree

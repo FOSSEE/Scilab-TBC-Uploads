@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\7. Transmission of power\7.7.sce', -1)
+
+neglecting centrifugal tension P=43.634 kW
+Considering centrifugal tension P=37.166 kW

@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_9.sce', -1)
+
+The required values are:-
+T=103.5 N 
+R=26.8 N

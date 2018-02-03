@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.18.sce', -1)
+Applied load lifts a load of W=3200.00 N

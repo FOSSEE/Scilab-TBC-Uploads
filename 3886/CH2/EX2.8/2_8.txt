@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_8.sce', -1)
+Required value of theta=6.31 degree

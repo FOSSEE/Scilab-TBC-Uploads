@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.2.sce', -1)
+
+F=336.807 N
+theta=21.296 degree
+--> 

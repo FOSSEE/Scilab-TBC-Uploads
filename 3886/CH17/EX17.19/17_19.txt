@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.19.sce', -1)
+
+Resistance to penetration of the ground=130.000 kN

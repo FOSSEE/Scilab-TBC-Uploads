@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\7. Transmission of power\7.2.sce', -1)
+
+When there is no slip 
+N2=240.00 rpm
+When there is 2.5 percent slip 
+N2=239.94 rpm

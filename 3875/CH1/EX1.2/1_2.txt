@@ -1,0 +1,9 @@
+(a)
+Resistive force constant c = 2e-03 newton-s/meter
+(b)
+Natural angular frequency omega_n = 10 rad/s
+(c)
+Damping ratio eta = 1e-03
+Q factor = 500
+(d)
+percent change in frequency = 5e-05

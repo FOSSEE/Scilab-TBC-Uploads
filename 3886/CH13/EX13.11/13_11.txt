@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.11.sce', -1)
+
+t=1.87 sec
+Horizontal distance travelled=6.012 m
+v=14.88 m/sec
+theta=77.52 degree to horizontal

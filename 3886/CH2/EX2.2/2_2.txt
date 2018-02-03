@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\2. Resultant and equilibrium of system of coplanar concurrent forces\Ex2_2.sce', -1)
+Horizontal and vertical components respectively are:-
+ Fx=10.00 kN (towards left)
+ Fy=17.32 kN (Downward)

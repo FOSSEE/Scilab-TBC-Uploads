@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_8.sce', -1)
+The required forces are:-
+F1=109 kN (Compression)
+F2=51 kN (Tension)
+F3=69 kN (Tension)

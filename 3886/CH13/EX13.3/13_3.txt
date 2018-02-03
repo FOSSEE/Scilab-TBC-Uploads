@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.3.sce', -1)
+The range of velocity for which the jet can enter the opening BC is 4.20 m/sec to 6.64 m/sec

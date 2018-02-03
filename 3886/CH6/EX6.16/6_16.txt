@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.16.sce', -1)
+Law of machine is P=0.0114*W+13 

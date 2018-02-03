@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.13.sce', -1)
+Required effort=2500 N

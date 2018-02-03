@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.11.sce', -1)
+
+Train B overtakes train A 105 sec
+s=600 m

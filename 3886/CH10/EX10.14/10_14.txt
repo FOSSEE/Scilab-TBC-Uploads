@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\10. Centre of gravity and mass moment of inertia\10.14.sce', -1)
+
+moment of inertia of flywheel=259.44 units

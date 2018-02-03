@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.16.sce', -1)
+
+v=342.690 m/sec
+Loss of energy=1790.310 J

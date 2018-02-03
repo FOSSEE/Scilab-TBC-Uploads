@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.1.sce', -1)
+
+Impulse=0.541 N-sec
+F=5.41 N

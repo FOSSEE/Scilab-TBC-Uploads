@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\21. Mechanical vibration\21.2.sce', -1)
+
+vx(max)=3.927 m/sec
+ax(max)=20.562 m/sec^2

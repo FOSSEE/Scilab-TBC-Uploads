@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\7. Transmission of power\7.6.sce', -1)
+The required value is P=274.01 N

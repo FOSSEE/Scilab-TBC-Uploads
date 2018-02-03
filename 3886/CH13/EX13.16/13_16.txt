@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.16.sce', -1)
+
+Up the plane
+Max Range=68.362 m
+Down the plane
+Max Range=139.432 m

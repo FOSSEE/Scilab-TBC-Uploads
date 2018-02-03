@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.7.sce', -1)
+
+a=-0.44 m/sec^2
+v=64.01 kmph

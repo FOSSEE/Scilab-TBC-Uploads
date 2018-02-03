@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\10. Centre of gravity and mass moment of inertia\10.5.sce', -1)
+
+xbar=90.19 mm
+ybar=118.80 mm
+zbar=56.17 mm

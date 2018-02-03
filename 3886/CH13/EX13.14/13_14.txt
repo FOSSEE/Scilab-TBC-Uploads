@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.14.sce', -1)
+
+The bomb should be released when the bomber is 6144.46 m away from the target
+When the shell is fired at a distance of 63769.58 m, it will hit the plane in its downward motion.
+If the shell is fired when the bomber is at a distance of 2795.87 m, then it will hit the bomber during its upward motion

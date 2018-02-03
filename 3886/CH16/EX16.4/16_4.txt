@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\16. Work energy method\16.4.sce', -1)
+Power of locomotive=87.1111 kW
+s=925.0349 m

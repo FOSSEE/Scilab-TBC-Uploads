@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\22.General plane motion of rigid bodies\22.10.sce', -1)
+
+HA=1389.38 kN
+HB=2598.51 N
+vA=813.95 N
+vB=2001.57 N

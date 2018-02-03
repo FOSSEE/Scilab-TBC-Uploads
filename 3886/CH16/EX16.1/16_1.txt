@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\16. Work energy method\16.1.sce', -1)
+Energy spent=20120000.00 N-m
+Input power=15.9683 kW

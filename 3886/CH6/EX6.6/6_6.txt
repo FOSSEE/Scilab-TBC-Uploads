@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.6.sce', -1)
+Number of movable pulleys required=4

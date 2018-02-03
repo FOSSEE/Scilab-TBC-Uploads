@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\18. Impact of elastic bodies\18.12.sce', -1)
+
+Loss=1.070 joules

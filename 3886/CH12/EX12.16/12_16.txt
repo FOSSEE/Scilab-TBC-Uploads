@@ -1,0 +1,9 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.16.sce', -1)
+
+a=2.00 m/sec^2
+v=47.50 m/sec
+s=10.00 m
+t=6.33 sec
+Distance from origin
+s=223.926

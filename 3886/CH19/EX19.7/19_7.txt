@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\19. Circular motion of rigid bodies\19.7.sce', -1)
+
+alpha=44.07 degree
+N=111.34 kN

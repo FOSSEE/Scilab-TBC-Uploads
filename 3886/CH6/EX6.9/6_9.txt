@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.9.sce', -1)
+Efficiency=79.37 percent
+Effort lost in friction=37.14 N

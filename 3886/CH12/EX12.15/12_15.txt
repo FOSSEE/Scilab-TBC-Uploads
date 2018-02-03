@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.15.sce', -1)
+
+Minimum value of acceleration=-2.33 m/sec^2

@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.3.sce', -1)
+
+The block takes 16.310 sec before comming to rest

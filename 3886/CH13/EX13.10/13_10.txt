@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.10.sce', -1)
+The distance of the fielder from the wickets=37.741 m

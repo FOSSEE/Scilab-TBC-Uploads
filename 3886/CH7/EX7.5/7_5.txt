@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\7. Transmission of power\7.5.sce', -1)
+The maximum power that can be transmitted=1.887 kW

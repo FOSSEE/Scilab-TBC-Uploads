@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_9.sce', -1)
+Equilibriant is equal and opposite to resultant.
+R=116.52 kN
+alpha=76.82 degree
+x=1.517 m
+As shown in fig.3.18 (a)

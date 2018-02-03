@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\8. Virtual work\8.5.sce', -1)
+
+ Reaction is RA=80.00 kN

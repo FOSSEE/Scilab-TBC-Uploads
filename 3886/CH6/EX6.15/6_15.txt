@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.15.sce', -1)
+Efficiency eta=55.83 percent > 50 percent
+Thus the screw jack is not self locking
+Torque required to keep the load from descending T=204.27 N-mm

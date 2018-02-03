@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.9.sce', -1)
+
+t=12.20 sec
+h=247.42 m above the ground
+Horizontal range=1056.55 m
+v=111.16 m/sec
+theta=38.82 degree

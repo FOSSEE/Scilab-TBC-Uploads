@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\14.Relative velocity\14.5.sce', -1)
+
+War ship must move in N 16.12 W direction
+0.74 hour after sighting the enemy ship the shell is to be fired

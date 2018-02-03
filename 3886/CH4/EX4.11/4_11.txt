@@ -1,0 +1,10 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_11.sce', -1)
+The forces in different members are:-
+AB=-68 kN
+BC=-45 kN
+CD=-104 kN
+DE=52 kN
+EA=64 kN
+EB=22 kN
+EC=46 kN

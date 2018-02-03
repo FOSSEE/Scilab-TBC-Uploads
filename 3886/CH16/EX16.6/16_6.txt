@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\16. Work energy method\16.6.sce', -1)
+
+The probable speed of the car just before brakes are applied is 87.34 kmph

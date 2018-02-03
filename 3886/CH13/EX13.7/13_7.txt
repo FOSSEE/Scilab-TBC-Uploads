@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\13. Projectiles\13.7.sce', -1)
+Range on the horizontal plane=27.00 m

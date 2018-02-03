@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\7. Transmission of power\7.10.sce', -1)
+Speed of the pinion N=358.1 rpm

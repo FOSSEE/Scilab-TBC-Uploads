@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\21. Mechanical vibration\21.10.sce', -1)
+
+T=2.685 sec

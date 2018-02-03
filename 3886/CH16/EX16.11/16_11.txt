@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\16. Work energy method\16.11.sce', -1)
+
+T=360 N
+s=3.058 m

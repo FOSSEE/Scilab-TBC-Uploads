@@ -1,0 +1,6 @@
+ 
+--> exec('E:\My program EM\4. Analysis of pin-jointed plane frames\Ex4_6.sce', -1)
+The required values are:-
+FFH=69 kN  (Compressive)
+FGH=05 kN  (Compressive)
+FGI=72 kN  (Tension)

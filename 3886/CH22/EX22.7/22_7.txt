@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\22.General plane motion of rigid bodies\22.7.sce', -1)
+
+Maximum Value of P for Rolling without slipping 
+P=720.00 N
+When P=1000 N
+alpha=16.76 rad/sec^2
+aA=9.647 rad/sec^2

@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\20. Rotation of rigid bodies\20.4.sce', -1)
+
+t=42.872 sec
+theta=228.562 revolution

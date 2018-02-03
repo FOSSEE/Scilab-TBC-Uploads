@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\10. Centre of gravity and mass moment of inertia\10.13.sce', -1)
+
+k=42.51 mm

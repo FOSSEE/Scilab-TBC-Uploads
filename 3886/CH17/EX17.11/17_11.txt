@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.11.sce', -1)
+
+Pressure exerted P=406.552 N

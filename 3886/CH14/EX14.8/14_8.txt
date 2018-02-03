@@ -1,0 +1,4 @@
+ 
+--> exec('E:\My program EM\14.Relative velocity\14.8.sce', -1)
+
+The two ships can start exchanging signals 58.24 min after ship A leaves the port and continue to do so for 52.51 min

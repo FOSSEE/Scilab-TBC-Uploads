@@ -1,0 +1,5 @@
+ 
+--> exec('E:\My program EM\3. Resultant and equilibrium of system of coplanar non-concurrent forces\Ex3_25.sce', -1)
+Required values are:-
+RA=26.00 kN
+RB=34.00 kN

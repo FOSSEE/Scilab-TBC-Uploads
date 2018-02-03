@@ -1,0 +1,8 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.2.sce', -1)
+
+ Law of machining is P=0.05*W+30
+W=3400.00 N
+Effort wasted in overcoming the friction=86.67 N
+Mechanical advantage=17.00 
+Efficiency=56.67 percent

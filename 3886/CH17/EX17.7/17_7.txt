@@ -1,0 +1,9 @@
+ 
+--> exec('E:\My program EM\17. Impulse momentum\17.7.sce', -1)
+
+For case (a)
+v=7.007 m/sec
+T=642.860 N
+For case (b)
+v=9.150 m/sec
+T=655.960 N

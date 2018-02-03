@@ -1,0 +1,7 @@
+ 
+--> exec('E:\My program EM\12. Linear motion\12.14.sce', -1)
+
+v=26.00 m/sec
+a=18.00 m/sec^2
+Minimum velocity=-1.00 m/sec
+Velocity is zero at t=1.58 sec and 0.42 sec

@@ -1,0 +1,3 @@
+ 
+--> exec('E:\My program EM\6. Lifting machines\6.10.sce', -1)
+Required force p=595.24 N
